@@ -1,0 +1,13 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	agente	a gente	toujours	« a gente » s'écrit en deux mots.
+mot	derrepente	de repente	toujours	
+mot	apartir	a partir	toujours	
+mot	concerteza	com certeza	toujours	
+mot	porisso	por isso	toujours	
+mot	menas	menos	toujours	« menas » n'existe pas.
+mot	a	há	suivant : muito pouco anos dias meses semanas tempo horas minutos	« há » marque la durée.
+mot	mas	mais	suivant : de ou	
+mot	fazem	faz	suivant : anos dias meses semanas horas	Durée impersonnelle : « faz ».
+mot	seje	seja	toujours	

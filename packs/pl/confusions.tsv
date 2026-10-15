@@ -1,0 +1,15 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	niewiem	nie wiem	toujours	La négation s'écrit séparément du verbe.
+mot	niema	nie ma	toujours	La négation s'écrit séparément du verbe.
+mot	niemoge	nie mogę	toujours	La négation s'écrit séparément du verbe.
+mot	niemogę	nie mogę	toujours	La négation s'écrit séparément du verbe.
+mot	niechce	nie chcę	toujours	La négation s'écrit séparément du verbe.
+mot	napewno	na pewno	toujours	
+mot	wogóle	w ogóle	toujours	
+mot	conajmniej	co najmniej	toujours	
+mot	narazie	na razie	toujours	
+mot	wziąść	wziąć	toujours	« wziąść » n'existe pas.
+mot	włanczać	włączać	toujours	
+mot	poszłem	poszedłem	toujours	

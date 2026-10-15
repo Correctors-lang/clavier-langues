@@ -1,0 +1,9 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	s	sa	suivant commence par : s š z ž	« sa » devant s/š/z/ž.
+mot	jel	je li	toujours	« je li » s'écrit en deux mots.
+mot	nebi	ne bi	toujours	La négation s'écrit séparément.
+mot	nebih	ne bih	toujours	La négation s'écrit séparément.
+mot	nemogu	ne mogu	toujours	La négation s'écrit séparément.
+mot	neznam	ne znam	toujours	La négation s'écrit séparément.

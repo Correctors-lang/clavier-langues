@@ -1,0 +1,13 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	seit	seid	précédent : ihr	« ihr seid » : verbe sein.
+mot	seid	seit	suivant : dem gestern heute langem kurzem jahren tagen monaten wochen wann jeher	« seit » est la préposition de temps.
+mot	standart	Standard	toujours	
+mot	seperat	separat	toujours	
+mot	garnicht	gar nicht	toujours	
+mot	aufjedenfall	auf jeden Fall	toujours	
+mot	zumindestens	zumindest	toujours	Mot-valise de « zumindest » et « mindestens ».
+mot	einzigste	einzige	toujours	« einzig » n'a pas de superlatif.
+mot	wiederspiegeln	widerspiegeln	toujours	« wider » (contre), pas « wieder » (de nouveau).
+mot	wiederstand	Widerstand	toujours	« wider » (contre), pas « wieder » (de nouveau).

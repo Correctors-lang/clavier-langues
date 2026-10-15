@@ -1,0 +1,4 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	og	å	suivant : være ha gjøre si se få ta komme gå bli vite tro kunne skulle ville spise drikke jobbe hjelpe lese skrive	Devant un infinitif : « å ».

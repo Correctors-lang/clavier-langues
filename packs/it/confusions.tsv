@@ -1,0 +1,11 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	pò	po'	toujours	« po' » est une apocope : apostrophe, pas d'accent.
+mot	a	ha	suivant finit par : ato ata ati ate ito ita iti ite uto uta uti ute sto tto	« ha » (verbe avere) devant un participe passé.
+mot	o	ho	suivant finit par : ato ata ati ate ito ita iti ite uto uta uti ute sto tto	« ho » (verbe avere) devant un participe passé.
+mot	ai	hai	suivant finit par : ato ata ati ate ito ita iti ite uto uta uti ute sto tto	« hai » (verbe avere) devant un participe passé.
+mot	anno	hanno	suivant finit par : ato ata ati ate ito ita iti ite uto uta uti ute sto tto	« hanno » (verbe avere) devant un participe passé.
+mot	e	è	suivant : un una uno il lo la molto meglio peggio bello brutto vero falso giusto sbagliato possibile difficile facile importante meglio	« è » est le verbe être.
+mot	qual'è	qual è	toujours	« qual » ne s'élide pas : « qual è ».
+mot	un'altro	un altro	toujours	« un' » ne s'emploie qu'au féminin.

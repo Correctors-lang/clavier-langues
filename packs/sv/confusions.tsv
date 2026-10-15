@@ -1,0 +1,5 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	dem	de	suivant : är har var hade ska skall kommer vill kan måste blir blev gör gjorde säger sa sade tror tycker vet går fick får	Sujet : « de ».
+mot	de	dem	précédent : till för av med om hos på mot från åt genom bland mellan	Après une préposition : « dem ».

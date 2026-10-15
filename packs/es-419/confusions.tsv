@@ -1,0 +1,17 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	vosotros	ustedes	toujours	En Amérique : « ustedes ».
+mot	vosotras	ustedes	toujours	En Amérique : « ustedes ».
+mot	sois	son	toujours	« ustedes son ».
+mot	vais	van	toujours	« ustedes van ».
+mot	habéis	han	toujours	« ustedes han ».
+mot	tenéis	tienen	toujours	« ustedes tienen ».
+mot	podéis	pueden	toujours	« ustedes pueden ».
+mot	queréis	quieren	toujours	« ustedes quieren ».
+mot	vuestro	su	toujours	En Amérique : « su ».
+mot	vuestra	su	toujours	En Amérique : « su ».
+mot	vuestros	sus	toujours	En Amérique : « sus ».
+mot	vuestras	sus	toujours	En Amérique : « sus ».
+suffixe	*	áis → an	toujours	En Amérique : « ustedes » et la 3e personne du pluriel.
+suffixe	*	éis → en	toujours	En Amérique : « ustedes » et la 3e personne du pluriel.

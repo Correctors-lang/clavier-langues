@@ -1,0 +1,12 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	word	wordt	précédent : hij zij ze het u je jij men wie iemand niemand dat die	Règle du -dt à la 3e personne.
+mot	vind	vindt	précédent : hij zij ze het u je jij men wie iemand niemand dat die	Règle du -dt à la 3e personne.
+mot	houd	houdt	précédent : hij zij ze het u je jij men wie iemand niemand dat die	Règle du -dt à la 3e personne.
+mot	bied	biedt	précédent : hij zij ze het u je jij men wie iemand niemand dat die	Règle du -dt à la 3e personne.
+mot	antwoord	antwoordt	précédent : hij zij ze het u je jij men wie iemand niemand dat die	Règle du -dt à la 3e personne.
+mot	wordt	word	précédent : ik	À la 1re personne, pas de -t.
+mot	vindt	vind	précédent : ik	À la 1re personne, pas de -t.
+mot	houdt	houd	précédent : ik	À la 1re personne, pas de -t.
+mot	als	dan	précédent : groter kleiner beter slechter meer minder liever anders eerder mooier sneller langer korter ouder jonger duurder goedkoper	Comparaison : « dan », pas « als ».

@@ -1,0 +1,26 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	a	ha	suivant finit par : ado ada ados adas ido ida idos idas dicho hecho visto puesto escrito muerto vuelto roto abierto cubierto resuelto impreso	« ha » (verbe haber) devant un participe passé.
+mot	ha	a	suivant finit par : ar er ir ír	« a » (préposition) devant un infinitif.
+mot	e	he	suivant finit par : ado ada ados adas ido ida idos idas dicho hecho visto puesto escrito muerto vuelto roto abierto cubierto resuelto impreso	« he » (verbe haber) devant un participe passé.
+mot	dijistes	dijiste	toujours	Le prétérit de la 2e personne ne prend pas de -s.
+mot	fuistes	fuiste	toujours	Le prétérit de la 2e personne ne prend pas de -s.
+mot	vistes	viste	toujours	Le prétérit de la 2e personne ne prend pas de -s.
+mot	hicistes	hiciste	toujours	Le prétérit de la 2e personne ne prend pas de -s.
+mot	comistes	comiste	toujours	Le prétérit de la 2e personne ne prend pas de -s.
+mot	tuvistes	tuviste	toujours	Le prétérit de la 2e personne ne prend pas de -s.
+mot	estuvistes	estuviste	toujours	Le prétérit de la 2e personne ne prend pas de -s.
+mot	osea	o sea	toujours	« o sea » s'écrit en deux mots.
+mot	haiga	haya	toujours	« haiga » n'existe pas : « haya ».
+mot	habemos	hemos	toujours	« habemos » n'existe pas : « hemos ».
+mot	asín	así	toujours	« asín » n'existe pas : « así ».
+mot	deberias	deberías	toujours	
+mot	mas	más	suivant : de que o menos tarde temprano vale bien	
+mot	hubieron	hubo	suivant : muchos muchas varios varias algunos algunas problemas personas cosas dos tres	« haber » impersonnel reste au singulier : « hubo ».
+mot	porque	por qué	début de phrase	Interrogatif : « por qué » en deux mots.
+mot	haber	a ver	précédent : vamos voy vas van vamos	« a ver » (voir), pas « haber ».
+mot	tu	tú	fin de proposition	Pronom tonique : « tú ».
+mot	mi	mí	fin de proposition	Pronom tonique : « mí ».
+mot	el	él	fin de proposition	Pronom tonique : « él » (l'article « el » appelle un nom).
+mot	se	sé	suivant : que si nada todo bien poco muy cuál quién cómo dónde cuándo	« sé » est le verbe saber.

@@ -1,0 +1,10 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	dimana	di mana	toujours	« di » préposition s'écrit séparément.
+mot	disini	di sini	toujours	« di » préposition s'écrit séparément.
+mot	disana	di sana	toujours	« di » préposition s'écrit séparément.
+mot	disitu	di situ	toujours	« di » préposition s'écrit séparément.
+mot	kemana	ke mana	toujours	« ke » préposition s'écrit séparément.
+mot	kesini	ke sini	toujours	« ke » préposition s'écrit séparément.
+mot	kesana	ke sana	toujours	« ke » préposition s'écrit séparément.

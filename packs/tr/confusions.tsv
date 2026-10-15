@@ -1,0 +1,10 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	herşey	her şey	toujours	« her şey » s'écrit en deux mots.
+mot	birşey	bir şey	toujours	« bir şey » s'écrit en deux mots.
+mot	hiçbirşey	hiçbir şey	toujours	
+mot	yalnış	yanlış	toujours	
+mot	yanlız	yalnız	toujours	
+mot	heralde	herhalde	toujours	
+mot	şarz	şarj	toujours	

@@ -1,0 +1,22 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	i	I	toujours	Le pronom « I » prend toujours la majuscule.
+mot	alot	a lot	toujours	« a lot » s'écrit en deux mots.
+mot	your's	yours	toujours	Les possessifs ne prennent pas d'apostrophe.
+mot	her's	hers	toujours	Les possessifs ne prennent pas d'apostrophe.
+mot	their's	theirs	toujours	Les possessifs ne prennent pas d'apostrophe.
+mot	our's	ours	toujours	Les possessifs ne prennent pas d'apostrophe.
+mot	its'	its	toujours	Les possessifs ne prennent pas d'apostrophe.
+mot	of	have	précédent : could would should must might	« could have », jamais « could of ».
+mot	then	than	précédent : more less better worse bigger smaller rather other greater older younger faster slower higher lower easier harder longer shorter cheaper stronger	Comparaison : « than ».
+mot	to	too	suivant : much many late early big small long short hard easy far expensive cheap hot cold soon slow fast	Excès : « too ».
+mot	loose	lose	précédent : to will would might could not don't gonna may	« lose » est le verbe.
+mot	effect	affect	précédent : to will would can may might should could	« affect » est le verbe.
+mot	affect	effect	précédent : the an a this that side no any in its	« effect » est le nom.
+mot	its	it's	suivant : been not a an the going gonna very too so just really always never still already because better worse time possible	« it's » = « it is ».
+mot	it's	its	suivant : own	« its own » : possessif, sans apostrophe.
+mot	their	they're	suivant : going coming not here doing gonna always never just still all both very so	« they're » = « they are ».
+mot	their	there	précédent : over in out up down from	« there » = là.
+mot	your	you're	suivant : going welcome right wrong not a an the so very doing gonna sure already still	« you're » = « you are ».
+mot	whose	who's	suivant : going coming there here not doing	« who's » = « who is ».

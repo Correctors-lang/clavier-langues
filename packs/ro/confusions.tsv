@@ -1,0 +1,10 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	sa	s-a	suivant finit par : at ut it ât	« s-a » : pronom réfléchi + auxiliaire.
+mot	sau	s-au	suivant finit par : at ut it ât	« s-au » : pronom réfléchi + auxiliaire.
+mot	la	l-a	suivant finit par : at ut it ât	« l-a » : pronom + auxiliaire.
+mot	ia	i-a	suivant finit par : at ut it ât	« i-a » : pronom + auxiliaire.
+mot	nea	ne-a	suivant finit par : at ut it ât	« ne-a » : pronom + auxiliaire.
+mot	mia	mi-a	suivant finit par : at ut it ât	« mi-a » : pronom + auxiliaire.
+mot	tia	ți-a	suivant finit par : at ut it ât	« ți-a » : pronom + auxiliaire.

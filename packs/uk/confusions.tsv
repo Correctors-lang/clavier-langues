@@ -1,0 +1,10 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message[<TAB>identifiant] — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	вобще	вообще	toujours	
+mot	воще	вообще	toujours	
+mot	извени	извини	toujours	
+mot	зделать	сделать	toujours	
+mot	чтото	что-то	toujours	
+mot	както	как-то	toujours	
+suffixe	*	тся → ться	précédent : будет будут буду будем будешь может могут могу можем можешь хочет хочу хотят хочешь надо нужно должен должна должны стал стала стали начал начала начали любит люблю	Infinitif après « {précédent} » : « {correction} ».	conf-ru-tsya

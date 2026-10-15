@@ -1,0 +1,26 @@
+# Règles de grammaire : confusions qui se tranchent sur le mot voisin (travail original, MIT).
+# genre<TAB>forme<TAB>correction<TAB>condition<TAB>message — voir native/speller_native/src/grammar_confusions.rs.
+# Les règles d'une variante passent avant celles dont elle hérite ; la première qui convient l'emporte.
+mot	tú	vos	toujours	Voseo : « vos » plutôt que « tú ».
+mot	ti	vos	précédent : a para por de con	Voseo : « vos » plutôt que « ti ».
+mot	contigo	con vos	toujours	Voseo : « con vos ».
+mot	eres	sos	toujours	Voseo : « vos sos ».
+mot	tienes	tenés	toujours	Voseo : « vos tenés ».
+mot	puedes	podés	toujours	Voseo : « vos podés ».
+mot	quieres	querés	toujours	Voseo : « vos querés ».
+mot	vienes	venís	toujours	Voseo : « vos venís ».
+mot	dices	decís	toujours	Voseo : « vos decís ».
+mot	haces	hacés	toujours	Voseo : « vos hacés ».
+mot	sabes	sabés	toujours	Voseo : « vos sabés ».
+mot	pones	ponés	toujours	Voseo : « vos ponés ».
+mot	sales	salís	toujours	Voseo : « vos salís ».
+mot	vives	vivís	toujours	Voseo : « vos vivís ».
+mot	comes	comés	toujours	Voseo : « vos comés ».
+mot	duermes	dormís	toujours	Voseo : « vos dormís ».
+mot	piensas	pensás	toujours	Voseo : « vos pensás ».
+mot	vuelves	volvés	toujours	Voseo : « vos volvés ».
+mot	vas	vas	toujours	
+mot	das	das	toujours	
+mot	has	has	toujours	
+mot	estás	estás	toujours	
+suffixe	*	as → ás	précédent : vos tú	Voseo : l'accent tonique passe sur la terminaison.
