@@ -1,0 +1,7 @@
+{
+  "id": "ady-tr",
+  "name": "Адыгабзэ (Türkiye)",
+  "locale": "ady-TR",
+  "version": 1,
+  "inherits": "ady"
+}

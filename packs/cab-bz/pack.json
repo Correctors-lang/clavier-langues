@@ -1,0 +1,7 @@
+{
+  "id": "cab-bz",
+  "name": "Garifuna (Belize)",
+  "locale": "cab-BZ",
+  "version": 1,
+  "inherits": "cab"
+}

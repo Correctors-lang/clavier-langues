@@ -1,0 +1,12 @@
+{
+  "id": "rm",
+  "name": "Rumantsch",
+  "locale": "rm-CH",
+  "version": 1,
+  "layout": "de_rm.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

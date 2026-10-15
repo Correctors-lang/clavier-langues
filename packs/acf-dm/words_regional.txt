@@ -1,0 +1,8 @@
+# Vocabulaire propre à « Kwéyòl Dominik » : créole de la Dominique.
+# mot<TAB>fréquence (échelle de words.txt de la langue).
+# Généré par tools/generateurs/build_variantes_regionales.py — ne pas éditer à la main.
+dominik	300
+dominikè	300
+kalinago	300
+wozo	300
+pòtsmout	100

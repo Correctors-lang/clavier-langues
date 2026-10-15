@@ -1,0 +1,11 @@
+{
+  "id": "es-419",
+  "name": "Español (América Latina)",
+  "locale": "es-419",
+  "version": 1,
+  "layout": "qwerty_es.json",
+  "inherits": "es",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

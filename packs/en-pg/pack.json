@@ -1,0 +1,7 @@
+{
+  "id": "en-pg",
+  "name": "English (Papua New Guinea)",
+  "locale": "en-PG",
+  "version": 1,
+  "inherits": "en"
+}

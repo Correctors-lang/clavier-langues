@@ -1,0 +1,12 @@
+{
+  "id": "ne",
+  "name": "नेपाली",
+  "locale": "ne-NP",
+  "version": 1,
+  "layout": "deva_ne.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

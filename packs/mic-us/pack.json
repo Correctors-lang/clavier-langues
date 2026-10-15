@@ -1,0 +1,7 @@
+{
+  "id": "mic-us",
+  "name": "Mi'kmawi'simk (United States)",
+  "locale": "mic-US",
+  "version": 1,
+  "inherits": "mic"
+}

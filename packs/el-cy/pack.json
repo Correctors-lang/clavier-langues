@@ -1,0 +1,7 @@
+{
+  "id": "el-cy",
+  "name": "Ελληνικά (Κύπρος)",
+  "locale": "el-CY",
+  "version": 1,
+  "inherits": "el"
+}

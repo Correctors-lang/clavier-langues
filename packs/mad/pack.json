@@ -1,0 +1,12 @@
+{
+  "id": "mad",
+  "name": "Basa Madhura",
+  "locale": "mad-ID",
+  "version": 1,
+  "layout": "en_mad.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

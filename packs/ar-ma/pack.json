@@ -1,0 +1,12 @@
+{
+  "id": "ar-ma",
+  "name": "العربية (المغرب)",
+  "locale": "ar-MA",
+  "version": 1,
+  "layout": "ar_ar.json",
+  "inherits": "ar",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
+}

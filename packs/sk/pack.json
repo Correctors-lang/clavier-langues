@@ -1,0 +1,12 @@
+{
+  "id": "sk",
+  "name": "Slovenčina",
+  "locale": "sk-SK",
+  "version": 1,
+  "layout": "cs_sk.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

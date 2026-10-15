@@ -1,0 +1,13 @@
+{
+  "id": "bar",
+  "name": "Boarisch",
+  "locale": "bar-DE",
+  "version": 1,
+  "layout": "qwertz_bar.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

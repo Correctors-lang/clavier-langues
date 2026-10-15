@@ -1,0 +1,7 @@
+{
+  "id": "hmn-cn",
+  "name": "Hmoob (China)",
+  "locale": "hmn-CN",
+  "version": 1,
+  "inherits": "hmn"
+}

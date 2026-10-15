@@ -1,0 +1,12 @@
+{
+  "id": "koi",
+  "name": "Перем коми",
+  "locale": "koi-RU",
+  "version": 1,
+  "layout": "ru_koi.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hne",
+  "name": "छत्तीसगढ़ी",
+  "locale": "hne-IN",
+  "version": 1,
+  "layout": "deva_hne.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

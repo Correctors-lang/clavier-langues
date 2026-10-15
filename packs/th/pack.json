@@ -1,0 +1,13 @@
+{
+  "id": "th",
+  "name": "ไทย",
+  "locale": "th-TH",
+  "version": 1,
+  "layout": "th_kedmanee.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

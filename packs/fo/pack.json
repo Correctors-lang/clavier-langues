@@ -1,0 +1,12 @@
+{
+  "id": "fo",
+  "name": "Føroyskt",
+  "locale": "fo-FO",
+  "version": 1,
+  "layout": "da_fo.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

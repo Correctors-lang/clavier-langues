@@ -1,0 +1,7 @@
+{
+  "id": "fr-tg",
+  "name": "Français (Togo)",
+  "locale": "fr-TG",
+  "version": 1,
+  "inherits": "fr"
+}

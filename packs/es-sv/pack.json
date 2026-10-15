@@ -1,0 +1,11 @@
+{
+  "id": "es-sv",
+  "name": "Español (El Salvador)",
+  "locale": "es-SV",
+  "version": 1,
+  "layout": "qwerty_es.json",
+  "inherits": "es-419",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "br",
+  "name": "Brezhoneg",
+  "locale": "br-FR",
+  "version": 1,
+  "layout": "azerty_br.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

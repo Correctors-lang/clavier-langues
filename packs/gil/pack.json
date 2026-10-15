@@ -1,0 +1,12 @@
+{
+  "id": "gil",
+  "name": "Taetae ni Kiribati",
+  "locale": "gil-KI",
+  "version": 1,
+  "layout": "en_gil.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

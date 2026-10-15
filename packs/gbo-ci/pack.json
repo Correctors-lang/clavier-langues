@@ -1,0 +1,7 @@
+{
+  "id": "gbo-ci",
+  "name": "Grebo (Côte d’Ivoire)",
+  "locale": "gbo-CI",
+  "version": 1,
+  "inherits": "gbo"
+}

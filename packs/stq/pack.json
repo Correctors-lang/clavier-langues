@@ -1,0 +1,12 @@
+{
+  "id": "stq",
+  "name": "Seeltersk",
+  "locale": "stq-DE",
+  "version": 1,
+  "layout": "de_stq.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

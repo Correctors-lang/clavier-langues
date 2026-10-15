@@ -1,0 +1,12 @@
+{
+  "id": "agr",
+  "name": "Awajún",
+  "locale": "agr-PE",
+  "version": 1,
+  "layout": "es_agr.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

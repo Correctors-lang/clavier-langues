@@ -1,0 +1,7 @@
+{
+  "id": "pif",
+  "name": "Pingelapese",
+  "locale": "pif-FM",
+  "version": 1,
+  "inherits": "pon"
+}

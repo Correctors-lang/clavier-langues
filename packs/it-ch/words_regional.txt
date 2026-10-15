@@ -1,0 +1,56 @@
+# Vocabulaire propre à « Italiano (Svizzera) » : italien de Suisse.
+# mot<TAB>fréquence (échelle de words.txt de la langue).
+# Généré par tools/generateurs/build_variantes_regionales.py — ne pas éditer à la main.
+autopostale	20000
+avs	20000
+basilea	20000
+bellinzona	20000
+berna	20000
+cantonale	20000
+cantonali	20000
+cantone	20000
+cantoni	20000
+centesimi	20000
+consigliere federale	20000
+consiglio degli stati	20000
+consiglio di stato	20000
+consiglio federale	20000
+consiglio nazionale	20000
+franchi	20000
+ginevra	20000
+gran consiglio	20000
+grigionese	20000
+grigioni	20000
+locarno	20000
+losanna	20000
+lucerna	20000
+lugano	20000
+mendrisio	20000
+municipale	20000
+municipio	20000
+natel	20000
+sindaco	20000
+ticinese	20000
+ticinesi	20000
+ticino	20000
+zurigo	20000
+apprendista	6000
+apprendistato	6000
+attinenza	6000
+azione	6000
+bucalettere	6000
+cassa malati	6000
+classatore	6000
+comprensorio	6000
+ffs	6000
+grotto	6000
+lavoro ridotto	6000
+licenza di condurre	6000
+nostrano	6000
+patriziato	6000
+polizia cantonale	6000
+pretura	6000
+procuratore pubblico	6000
+ramina	6000
+riale	6000
+scuola media	6000

@@ -1,0 +1,7 @@
+{
+  "id": "en-vc",
+  "name": "English (St. Vincent & Grenadines)",
+  "locale": "en-VC",
+  "version": 1,
+  "inherits": "en"
+}

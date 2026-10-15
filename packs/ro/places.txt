@@ -1,0 +1,180 @@
+# Villes de RO (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Bucharest
+Sector 3
+Sector
+Iași
+Sector 6
+Constanța
+Sector 2
+Sector 4
+Cluj-Napoca
+Sector 5
+Brașov
+Timișoara
+Craiova
+Sector 1
+Galați
+Târgu Mureș
+Târgu
+Mureș
+Oradea
+Ploiești
+Arad
+Brăila
+Pitești
+Bacău
+Sibiu
+Satu Mare
+Satu
+Mare
+Baia Mare
+Baia
+Buzău
+Piatra Neamț
+Piatra
+Neamț
+Râmnicu Vâlcea
+Râmnicu
+Vâlcea
+Botoșani
+Suceava
+Reșița
+Drobeta-Turnu Severin
+Drobeta-Turnu
+Severin
+Bistrița
+Târgu Jiu
+Jiu
+Hunedoara
+Roman
+Bârlad
+Deva
+Târgoviște
+Focșani
+Tulcea
+Alba Iulia
+Alba
+Iulia
+Slatina
+Vaslui
+Giurgiu
+Mediaș
+Zalău
+Sfântu Gheorghe
+Sfântu
+Gheorghe
+Pașcani
+Petroșani
+Turda
+Medgidia
+Lugoj
+Câmpina
+Slobozia
+Tecuci
+Sighetu Marmației
+Sighetu
+Marmației
+Alexandria
+Mangalia
+Râmnicu Sărat
+Sărat
+Dej
+Odorheiu Secuiesc
+Odorheiu
+Secuiesc
+Reghin-Sat
+Sighișoara
+Miercurea-Ciuc
+Caracal
+Năvodari
+Fetești
+Curtea de Argeș
+Curtea
+Argeș
+Dorohoi
+Făgăraș
+Lupeni
+Voluntari
+Săcele
+Fălticeni
+Huși
+Mioveni
+Turnu Măgurele
+Turnu
+Măgurele
+Târnăveni
+Aiud
+Caransebeș
+Roșiorii de Vede
+Roșiorii
+Vede
+Sebeș
+Borșa
+Câmpia Turzii
+Câmpia
+Turzii
+Petrila
+Zărnești
+Cugir
+Moinești
+Rădăuți
+Fetești-Gară
+Gherla
+Comănești
+Oltenița
+Motru
+Carei
+Orăștie
+Buftea
+Drăgășani
+Balș
+Moreni
+Codlea
+Târgu Neamț
+Blaj
+Târgu Secuiesc
+Corabia
+Băicoi
+Gheorgheni
+Vulcan
+Câmpulung Moldovenesc
+Câmpulung
+Moldovenesc
+Băilești
+Filiași
+Calafat
+Cernavodă
+Buhuși
+Breaza
+Salonta
+Luduș
+Urziceni
+Baia Sprie
+Sprie
+Bocșa
+Pantelimon
+Vatra Dornei
+Vatra
+Dornei
+Brad
+Gura Humorului
+Gura
+Humorului
+Șimleu Silvaniei
+Șimleu
+Silvaniei
+Mizil
+Vișeu de Sus
+Vișeu
+Sus
+Ocna Mureș
+Ocna
+Popești-Leordeni
+Râșnov
+Zimnicea
+Adjud
+Cisnădie
+Găești

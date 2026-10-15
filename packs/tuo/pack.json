@@ -1,0 +1,12 @@
+{
+  "id": "tuo",
+  "name": "Ye'pâ-masa",
+  "locale": "tuo-BR",
+  "version": 1,
+  "layout": "pt_tuo.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

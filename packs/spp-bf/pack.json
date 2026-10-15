@@ -1,0 +1,7 @@
+{
+  "id": "spp-bf",
+  "name": "Supyire (Burkina Faso)",
+  "locale": "spp-BF",
+  "version": 1,
+  "inherits": "spp"
+}

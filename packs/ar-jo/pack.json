@@ -1,0 +1,12 @@
+{
+  "id": "ar-jo",
+  "name": "العربية (الأردن)",
+  "locale": "ar-JO",
+  "version": 1,
+  "layout": "ar_mashreq.json",
+  "inherits": "ar",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
+}

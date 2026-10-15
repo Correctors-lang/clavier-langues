@@ -1,0 +1,12 @@
+{
+  "id": "jiv",
+  "name": "Shuar",
+  "locale": "jiv-EC",
+  "version": 1,
+  "layout": "es_jiv.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

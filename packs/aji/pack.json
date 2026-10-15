@@ -1,0 +1,12 @@
+{
+  "id": "aji",
+  "name": "Ajië",
+  "locale": "aji-NC",
+  "version": 1,
+  "layout": "fr_aji.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

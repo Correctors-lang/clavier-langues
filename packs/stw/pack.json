@@ -1,0 +1,7 @@
+{
+  "id": "stw",
+  "name": "Satawalese",
+  "locale": "stw-FM",
+  "version": 1,
+  "inherits": "chk"
+}

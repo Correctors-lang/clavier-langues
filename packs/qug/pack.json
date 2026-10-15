@@ -1,0 +1,12 @@
+{
+  "id": "qug",
+  "name": "Kichwa",
+  "locale": "qug-EC",
+  "version": 1,
+  "layout": "es_qug.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

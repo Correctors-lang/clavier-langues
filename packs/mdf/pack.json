@@ -1,0 +1,12 @@
+{
+  "id": "mdf",
+  "name": "Мокшень",
+  "locale": "mdf-RU",
+  "version": 1,
+  "layout": "ru_mdf.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

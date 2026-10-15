@@ -1,0 +1,12 @@
+{
+  "id": "iu",
+  "name": "ᐃᓄᒃᑎᑐᑦ",
+  "locale": "iu-CA",
+  "version": 1,
+  "layout": "iu_romanisation.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

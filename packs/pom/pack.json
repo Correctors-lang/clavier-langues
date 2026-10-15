@@ -1,0 +1,7 @@
+{
+  "id": "pom",
+  "name": "Pomaški",
+  "locale": "bg-GR",
+  "version": 1,
+  "inherits": "bg"
+}

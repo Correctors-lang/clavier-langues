@@ -1,0 +1,12 @@
+{
+  "id": "enq",
+  "name": "Enga",
+  "locale": "enq-PG",
+  "version": 1,
+  "layout": "en_enq.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "gag-ua",
+  "name": "Gagauz dili (Ukraine)",
+  "locale": "gag-UA",
+  "version": 1,
+  "inherits": "gag"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sms-ru",
+  "name": "Sääʹmǩiõll (Russia)",
+  "locale": "sms-RU",
+  "version": 1,
+  "inherits": "sms"
+}

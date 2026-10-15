@@ -1,0 +1,13 @@
+{
+  "id": "nan-hant",
+  "name": "台語（漢字）",
+  "locale": "nan-Hant-TW",
+  "version": 1,
+  "layout": "nan_hant_qwerty.json",
+  "files": {
+    "words": "words.txt",
+    "readings": "readings.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

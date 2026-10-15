@@ -1,0 +1,50 @@
+# Vocabulaire propre à « Español (Puerto Rico) ».
+# mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
+# Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
+acho	3000
+al garete	12000
+alcapurria	30000
+arroz con gandules	12000
+bacalaíto	30000
+bembé	3000
+bichote	12000
+boricua	30000
+brega	30000
+bregar	30000
+chavienda	3000
+chavos	30000
+china	30000
+chinchorreo	3000
+chinchorro	3000
+chiringa	30000
+coquito	30000
+corillo	30000
+esmandao	3000
+gomas	12000
+guagua	30000
+guineo	30000
+janguear	30000
+jangueo	30000
+jurutungo	12000
+jíbaro	12000
+lechón	30000
+limber	30000
+mahones	30000
+mamey	12000
+mavi	30000
+mofongo	30000
+pana	30000
+pantallas	30000
+pastel	30000
+pasteles	30000
+perrear	12000
+perreo	12000
+pichea	3000
+pichear	12000
+piragua	30000
+revolú	12000
+tenis	12000
+tostones	30000
+wepa	30000
+zafacón	30000
+ñoño	12000

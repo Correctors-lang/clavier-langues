@@ -1,0 +1,7 @@
+{
+  "id": "hu-sk",
+  "name": "Magyar (Szlovákia)",
+  "locale": "hu-SK",
+  "version": 1,
+  "inherits": "hu"
+}

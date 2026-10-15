@@ -1,0 +1,7 @@
+{
+  "id": "tca-br",
+  "name": "Magüta (Brazil)",
+  "locale": "tca-BR",
+  "version": 1,
+  "inherits": "tca"
+}

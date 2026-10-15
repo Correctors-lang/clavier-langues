@@ -1,0 +1,7 @@
+{
+  "id": "esu-ru",
+  "name": "Yugtun (Russia)",
+  "locale": "esu-RU",
+  "version": 1,
+  "inherits": "esu"
+}

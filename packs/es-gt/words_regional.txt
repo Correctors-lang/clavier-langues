@@ -1,0 +1,41 @@
+# Vocabulaire propre à « Español (Guatemala) ».
+# mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
+# Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
+aguacate	12000
+atol	30000
+boj	12000
+bolo	30000
+canche	30000
+cerote	3000
+chafa	3000
+chapín	30000
+chilero	30000
+chirmol	30000
+chispudo	30000
+cholero	12000
+chuchito	30000
+chucho	30000
+clavo	12000
+colocho	30000
+cuate	30000
+cuché	3000
+fiambre	12000
+goma	30000
+güisquil	30000
+jocón	30000
+kak'ik	12000
+mara	12000
+mish	3000
+mucho	12000
+pacaya	12000
+paches	12000
+patoja	30000
+patojada	3000
+patojo	30000
+pepián	30000
+pisto	30000
+quetzal	30000
+shuco	30000
+shute	3000
+tapado	12000
+tortilla	12000

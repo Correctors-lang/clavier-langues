@@ -1,0 +1,7 @@
+{
+  "id": "ckm",
+  "name": "Čakavski",
+  "locale": "ckm-HR",
+  "version": 1,
+  "inherits": "hr"
+}

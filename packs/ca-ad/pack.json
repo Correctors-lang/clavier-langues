@@ -1,0 +1,7 @@
+{
+  "id": "ca-ad",
+  "name": "Català (Andorra)",
+  "locale": "ca-AD",
+  "version": 1,
+  "inherits": "ca"
+}

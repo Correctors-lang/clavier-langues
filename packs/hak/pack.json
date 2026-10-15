@@ -1,0 +1,12 @@
+{
+  "id": "hak",
+  "name": "Hak-kâ-fa",
+  "locale": "hak-TW",
+  "version": 1,
+  "layout": "en_hak.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "nan",
+  "name": "Tâi-gí (Pe̍h-ōe-jī)",
+  "locale": "nan-TW",
+  "version": 1,
+  "layout": "poj_nan.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "li",
+  "name": "Limburgs",
+  "locale": "li-NL",
+  "version": 1,
+  "layout": "nl_li.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

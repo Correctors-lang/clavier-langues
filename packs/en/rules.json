@@ -1,0 +1,23 @@
+{
+  "confusions": [
+    {
+      "id": "to-vs-too",
+      "words": ["to", "too"],
+      "message": "« to » (preposition/infinitive) vs « too » (also/excessively)",
+      "hint_after": [
+        "know", "see", "go", "do", "make", "get", "have", "be", "come", "take",
+        "give", "tell", "work", "play", "eat", "drink", "sleep", "buy", "sell",
+        "meet", "help", "talk", "speak", "write", "read", "watch", "listen",
+        "understand", "believe", "think", "feel", "look", "find", "keep",
+        "leave", "bring", "ask", "call", "try", "need", "want", "like", "love",
+        "hate", "start", "stop", "continue", "become", "stay", "live", "move",
+        "run", "walk", "drive", "fly", "swim", "learn", "teach", "study",
+        "visit", "travel", "wait", "hope", "wish", "plan", "decide", "choose",
+        "agree", "accept", "refuse", "offer", "suggest", "allow", "let",
+        "remember", "forget", "send", "show", "pay", "win", "lose", "build",
+        "grow", "change", "open", "close", "explain", "answer"
+      ],
+      "prefer_when_after": "to"
+    }
+  ]
+}

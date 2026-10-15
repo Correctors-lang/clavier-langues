@@ -1,0 +1,7 @@
+{
+  "id": "sd-in",
+  "name": "سنڌي (ڀارت)",
+  "locale": "sd-IN",
+  "version": 1,
+  "inherits": "sd"
+}

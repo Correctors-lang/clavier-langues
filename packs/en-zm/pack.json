@@ -1,0 +1,7 @@
+{
+  "id": "en-zm",
+  "name": "English (Zambia)",
+  "locale": "en-ZM",
+  "version": 1,
+  "inherits": "en"
+}

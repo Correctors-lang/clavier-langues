@@ -1,0 +1,12 @@
+{
+  "id": "crs",
+  "name": "Kreol seselwa",
+  "locale": "crs-SC",
+  "version": 1,
+  "layout": "en_crs.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

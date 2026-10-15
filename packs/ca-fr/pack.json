@@ -1,0 +1,7 @@
+{
+  "id": "ca-fr",
+  "name": "Català (França)",
+  "locale": "ca-FR",
+  "version": 1,
+  "inherits": "ca"
+}

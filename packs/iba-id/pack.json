@@ -1,0 +1,7 @@
+{
+  "id": "iba-id",
+  "name": "Jaku Iban (Indonesia)",
+  "locale": "iba-ID",
+  "version": 1,
+  "inherits": "iba"
+}

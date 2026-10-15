@@ -1,0 +1,12 @@
+{
+  "id": "hy",
+  "name": "Հայերեն",
+  "locale": "hy-AM",
+  "version": 1,
+  "layout": "arm_hy.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

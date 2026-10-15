@@ -1,0 +1,12 @@
+{
+  "id": "mai",
+  "name": "मैथिली",
+  "locale": "mai-IN",
+  "version": 1,
+  "layout": "deva_mai.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

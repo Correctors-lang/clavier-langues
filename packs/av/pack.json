@@ -1,0 +1,12 @@
+{
+  "id": "av",
+  "name": "Авар",
+  "locale": "av-RU",
+  "version": 1,
+  "layout": "ru_av.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

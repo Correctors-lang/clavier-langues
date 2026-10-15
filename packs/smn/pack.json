@@ -1,0 +1,12 @@
+{
+  "id": "smn",
+  "name": "Anarâškielâ",
+  "locale": "smn-FI",
+  "version": 1,
+  "layout": "fi_smn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

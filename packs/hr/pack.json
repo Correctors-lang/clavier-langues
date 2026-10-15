@@ -1,0 +1,13 @@
+{
+  "id": "hr",
+  "name": "Hrvatski",
+  "locale": "hr-HR",
+  "version": 1,
+  "layout": "qwertz_hr.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

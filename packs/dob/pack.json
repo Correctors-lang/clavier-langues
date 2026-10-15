@@ -1,0 +1,12 @@
+{
+  "id": "dob",
+  "name": "Dobu",
+  "locale": "dob-PG",
+  "version": 1,
+  "layout": "en_dob.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

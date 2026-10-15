@@ -1,0 +1,11 @@
+{
+  "id": "es-ar",
+  "name": "Español (Argentina)",
+  "locale": "es-AR",
+  "version": 1,
+  "layout": "qwerty_es.json",
+  "inherits": "es-419",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

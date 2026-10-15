@@ -1,0 +1,7 @@
+{
+  "id": "az-ir",
+  "name": "Azərbaycanca (İran)",
+  "locale": "az-IR",
+  "version": 1,
+  "inherits": "az"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pfl",
+  "name": "Pälzisch",
+  "locale": "pfl-DE",
+  "version": 1,
+  "layout": "de_pfl.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

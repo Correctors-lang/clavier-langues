@@ -1,0 +1,12 @@
+{
+  "id": "tbg",
+  "name": "Tairora",
+  "locale": "tbg-PG",
+  "version": 1,
+  "layout": "en_tbg.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

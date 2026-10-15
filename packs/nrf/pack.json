@@ -1,0 +1,12 @@
+{
+  "id": "nrf",
+  "name": "Normaund",
+  "locale": "nrf-FR",
+  "version": 1,
+  "layout": "fr_nrf.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "top",
+  "name": "Tutunakú",
+  "locale": "top-MX",
+  "version": 1,
+  "layout": "es_top.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

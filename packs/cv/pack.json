@@ -1,0 +1,12 @@
+{
+  "id": "cv",
+  "name": "Чӑвашла",
+  "locale": "cv-RU",
+  "version": 1,
+  "layout": "ru_cv.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

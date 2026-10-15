@@ -1,0 +1,12 @@
+{
+  "id": "hch",
+  "name": "Wixárika",
+  "locale": "hch-MX",
+  "version": 1,
+  "layout": "es_hch.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

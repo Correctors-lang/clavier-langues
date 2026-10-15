@@ -1,0 +1,7 @@
+{
+  "id": "af-na",
+  "name": "Afrikaans (Namibië)",
+  "locale": "af-NA",
+  "version": 1,
+  "inherits": "af"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "or",
+  "name": "ଓଡ଼ିଆ",
+  "locale": "or-IN",
+  "version": 1,
+  "layout": "orya_or.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

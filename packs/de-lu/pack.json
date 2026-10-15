@@ -1,0 +1,7 @@
+{
+  "id": "de-lu",
+  "name": "Deutsch (Luxemburg)",
+  "locale": "de-LU",
+  "version": 1,
+  "inherits": "de"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "aranes",
+  "name": "Aranés",
+  "locale": "oc-ES",
+  "version": 1,
+  "inherits": "oc"
+}

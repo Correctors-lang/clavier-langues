@@ -1,0 +1,7 @@
+{
+  "id": "en-tt",
+  "name": "English (Trinidad & Tobago)",
+  "locale": "en-TT",
+  "version": 1,
+  "inherits": "en"
+}

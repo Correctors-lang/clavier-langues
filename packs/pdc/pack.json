@@ -1,0 +1,12 @@
+{
+  "id": "pdc",
+  "name": "Deitsch",
+  "locale": "pdc-US",
+  "version": 1,
+  "layout": "en_pdc.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

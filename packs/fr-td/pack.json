@@ -1,0 +1,7 @@
+{
+  "id": "fr-td",
+  "name": "Français (Tchad)",
+  "locale": "fr-TD",
+  "version": 1,
+  "inherits": "fr"
+}

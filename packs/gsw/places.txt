@@ -1,0 +1,117 @@
+# Villes de CH (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Zürich
+Geneva
+Basel
+Lausanne
+Bern
+Winterthur
+Luzern
+Sankt Gallen
+Sankt
+Gallen
+Lugano
+Biel/Bienne
+Zürich (Kreis 11)
+Kreis
+Zürich (Kreis 3)
+Zürich (Kreis 9)
+Thun
+Bellinzona
+Köniz
+Fribourg
+La Chaux-de-Fonds
+Chaux-de-Fonds
+Schaffhausen
+Zürich (Kreis 10)
+Chur
+Rapperswil
+Uster
+Sitten
+Zürich (Kreis 7)
+Neuchâtel
+Emmen
+Zug
+Yverdon-les-Bains
+Vernier
+Zürich (Kreis 6)
+Zürich (Kreis 2)
+Zürich (Kreis 9) / Altstetten
+Altstetten
+Zürich (Kreis 12)
+Lancy
+Zürich (Kreis 4) / Aussersihl
+Aussersihl
+Montreux
+Frauenfeld
+Kriens
+Wetzikon
+Wil
+Bulle
+Horgen
+Kreuzlingen
+Opfikon
+Aarau
+Zürich (Kreis 3) / Sihlfeld
+Sihlfeld
+Renens
+Dietikon
+Baar
+Bülach
+Zürich (Kreis 6) / Unterstrass
+Unterstrass
+Riehen
+Vevey
+Dübendorf
+Meyrin
+Carouge
+Baden
+Reinach
+Olten
+Martigny-Ville
+Wettingen
+Allschwil
+Zürich (Kreis 11) / Oerlikon
+Oerlikon
+Zürich (Kreis 11) / Seebach
+Seebach
+Monthey
+Jona
+Onex
+Zürich (Kreis 11) / Affoltern
+Affoltern
+Zürich (Kreis 10) / Höngg
+Höngg
+Gossau
+Muttenz
+Nyon
+Sierre
+Solothurn
+Cham
+Zürich (Kreis 9) / Albisrieden
+Albisrieden
+Burgdorf
+Oberwinterthur (Kreis 2)
+Oberwinterthur
+Kloten
+Pully
+Stadt Winterthur (Kreis 1)
+Stadt
+Littau
+Zürich (Kreis 2) / Wollishofen
+Wollishofen
+Grenchen
+Einsiedeln
+Locarno
+Herisau
+Zürich (Kreis 10) / Wipkingen
+Wipkingen
+Steffisburg
+Morges
+Zürich (Kreis 8)
+Seen (Kreis 3)
+Seen
+Adliswil
+Schwyz

@@ -1,0 +1,10 @@
+{
+  "id": "pap-bq",
+  "name": "Papiamentu (Boneiru)",
+  "locale": "pap-BQ",
+  "version": 1,
+  "inherits": "pap",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

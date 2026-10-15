@@ -1,0 +1,55 @@
+# Abréviations textos/SMS — langage SMS pur (contractions phonétiques :
+# "bcp", "tjr", "kestu"...), PAS de l'argot/vocabulaire à proprement parler.
+# Séparé de words_slang.txt sur demande explicite de l'utilisateur
+# (2026-09-19) : "DZ est une vraie abréviation, le reste c'est du langage
+# sms" — chargé UNIQUEMENT si le réglage correspondant est activé (désactivé
+# par défaut, voir SettingsActivity.KEY_SMS_ABBREVIATIONS).
+dsl
+tkt
+tqt
+bg
+slt
+bsr
+pkoi
+qqn
+qqch
+qqfois
+tjrs
+tjs
+auj
+mtn
+dac
+jtm
+jtd
+stp
+svp
+cad
+biz
+bizz
+rdv
+asap
+ptn
+mdrr
+mdrrr
+ptdrr
+bcp
+tjr
+kestu
+bjr
+nrv
+vrmt
+dacc
+pecho
+vazy
+jconnais
+jsuis
+jvais
+jpeux
+jveux
+jsais
+mrc
+thx
+svt
+pcq
+psk
+parske

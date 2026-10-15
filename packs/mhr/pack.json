@@ -1,0 +1,12 @@
+{
+  "id": "mhr",
+  "name": "Олык марий",
+  "locale": "mhr-RU",
+  "version": 1,
+  "layout": "ru_mhr.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "csb",
+  "name": "Kaszëbsczi",
+  "locale": "csb-PL",
+  "version": 1,
+  "layout": "pl_csb.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

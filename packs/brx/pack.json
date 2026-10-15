@@ -1,0 +1,12 @@
+{
+  "id": "brx",
+  "name": "बड़ो",
+  "locale": "brx-IN",
+  "version": 1,
+  "layout": "deva_brx.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

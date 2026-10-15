@@ -1,0 +1,12 @@
+{
+  "id": "nah",
+  "name": "Nāhuatl",
+  "locale": "nah-MX",
+  "version": 1,
+  "layout": "es_nah.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

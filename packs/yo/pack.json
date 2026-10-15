@@ -1,0 +1,12 @@
+{
+  "id": "yo",
+  "name": "Yorùbá",
+  "locale": "yo-NG",
+  "version": 1,
+  "layout": "en_yo.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dgz",
+  "name": "Daga",
+  "locale": "dgz-PG",
+  "version": 1,
+  "layout": "en_dgz.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

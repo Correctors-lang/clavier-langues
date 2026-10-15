@@ -1,0 +1,7 @@
+{
+  "id": "hu-ua",
+  "name": "Magyar (Ukrajna)",
+  "locale": "hu-UA",
+  "version": 1,
+  "inherits": "hu"
+}

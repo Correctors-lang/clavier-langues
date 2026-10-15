@@ -1,0 +1,12 @@
+{
+  "id": "se",
+  "name": "Davvisámegiella",
+  "locale": "se-NO",
+  "version": 1,
+  "layout": "no_se.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

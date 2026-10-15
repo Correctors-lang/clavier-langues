@@ -1,0 +1,11 @@
+{
+  "id": "ar-so",
+  "name": "العربية (الصومال)",
+  "locale": "ar-SO",
+  "version": 1,
+  "layout": "ar_ar.json",
+  "inherits": "ar",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

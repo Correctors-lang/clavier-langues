@@ -1,0 +1,12 @@
+{
+  "id": "be",
+  "name": "Беларуская",
+  "locale": "be-BY",
+  "version": 1,
+  "layout": "ru_be.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "olo",
+  "name": "Livvin karjala",
+  "locale": "olo-RU",
+  "version": 1,
+  "layout": "fi_olo.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

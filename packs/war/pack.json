@@ -1,0 +1,12 @@
+{
+  "id": "war",
+  "name": "Winaray",
+  "locale": "war-PH",
+  "version": 1,
+  "layout": "en_war.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

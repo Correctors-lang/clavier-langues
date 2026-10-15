@@ -1,0 +1,13 @@
+{
+  "id": "fi",
+  "name": "Suomi",
+  "locale": "fi-FI",
+  "version": 1,
+  "layout": "qwerty_fi.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

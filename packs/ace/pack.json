@@ -1,0 +1,12 @@
+{
+  "id": "ace",
+  "name": "Bahsa Acèh",
+  "locale": "ace-ID",
+  "version": 1,
+  "layout": "en_ace.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

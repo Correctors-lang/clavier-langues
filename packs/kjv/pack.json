@@ -1,0 +1,7 @@
+{
+  "id": "kjv",
+  "name": "Kajkavski",
+  "locale": "kjv-HR",
+  "version": 1,
+  "inherits": "hr"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "nl-be",
+  "name": "Nederlands (België)",
+  "locale": "nl-BE",
+  "version": 1,
+  "inherits": "nl",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

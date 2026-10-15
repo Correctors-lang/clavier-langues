@@ -1,0 +1,7 @@
+{
+  "id": "ha-td",
+  "name": "Hausa (Cadi)",
+  "locale": "ha-TD",
+  "version": 1,
+  "inherits": "ha"
+}

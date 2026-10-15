@@ -1,0 +1,12 @@
+{
+  "id": "rw",
+  "name": "Ikinyarwanda",
+  "locale": "rw-RW",
+  "version": 1,
+  "layout": "en_rw.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

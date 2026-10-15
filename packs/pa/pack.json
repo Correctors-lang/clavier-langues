@@ -1,0 +1,12 @@
+{
+  "id": "pa",
+  "name": "ਪੰਜਾਬੀ",
+  "locale": "pa-IN",
+  "version": 1,
+  "layout": "guru_pa.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

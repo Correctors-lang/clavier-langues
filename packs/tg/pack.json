@@ -1,0 +1,12 @@
+{
+  "id": "tg",
+  "name": "Тоҷикӣ",
+  "locale": "tg-TJ",
+  "version": 1,
+  "layout": "ru_tg.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

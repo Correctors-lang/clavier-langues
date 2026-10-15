@@ -1,0 +1,7 @@
+{
+  "id": "ses",
+  "name": "Koyraboro senni",
+  "locale": "ses-ML",
+  "version": 1,
+  "inherits": "dje"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ki",
+  "name": "Gĩkũyũ",
+  "locale": "ki-KE",
+  "version": 1,
+  "layout": "en_ki.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

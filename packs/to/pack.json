@@ -1,0 +1,12 @@
+{
+  "id": "to",
+  "name": "Lea faka-Tonga",
+  "locale": "to-TO",
+  "version": 1,
+  "layout": "en_to.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

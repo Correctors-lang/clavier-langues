@@ -1,0 +1,12 @@
+{
+  "id": "te",
+  "name": "తెలుగు",
+  "locale": "te-IN",
+  "version": 1,
+  "layout": "telugu_te.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

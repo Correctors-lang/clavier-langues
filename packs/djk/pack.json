@@ -1,0 +1,13 @@
+{
+  "id": "djk",
+  "name": "Ndyuka",
+  "locale": "djk-SR",
+  "version": 1,
+  "layout": "en_djk.json",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt",
+    "typography": "typography.json"
+  },
+  "inherits": "srn"
+}

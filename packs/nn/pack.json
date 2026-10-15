@@ -1,0 +1,12 @@
+{
+  "id": "nn",
+  "name": "Nynorsk",
+  "locale": "nn-NO",
+  "version": 1,
+  "layout": "no_nn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

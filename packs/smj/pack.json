@@ -1,0 +1,12 @@
+{
+  "id": "smj",
+  "name": "Julevsámegiella",
+  "locale": "smj-SE",
+  "version": 1,
+  "layout": "no_smj.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

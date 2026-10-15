@@ -1,0 +1,7 @@
+{
+  "id": "bra",
+  "name": "ब्रजभाषा",
+  "locale": "bra-IN",
+  "version": 1,
+  "inherits": "hi"
+}

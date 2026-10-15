@@ -1,0 +1,7 @@
+{
+  "id": "ak-ci",
+  "name": "Akan (Kodivuwa)",
+  "locale": "ak-CI",
+  "version": 1,
+  "inherits": "ak"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "ru-lv",
+  "name": "Русский (Латвия)",
+  "locale": "ru-LV",
+  "version": 1,
+  "inherits": "ru"
+}

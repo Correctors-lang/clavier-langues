@@ -1,0 +1,7 @@
+{
+  "id": "bns",
+  "name": "बुंदेली",
+  "locale": "bns-IN",
+  "version": 1,
+  "inherits": "hi"
+}

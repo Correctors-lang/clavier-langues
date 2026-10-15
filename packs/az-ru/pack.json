@@ -1,0 +1,7 @@
+{
+  "id": "az-ru",
+  "name": "Azərbaycanca (Rusiya)",
+  "locale": "az-RU",
+  "version": 1,
+  "inherits": "az"
+}

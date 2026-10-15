@@ -1,0 +1,13 @@
+{
+  "id": "uk",
+  "name": "Українська",
+  "locale": "uk-UA",
+  "version": 1,
+  "layout": "cyr_uk.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

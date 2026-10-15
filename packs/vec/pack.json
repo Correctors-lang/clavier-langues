@@ -1,0 +1,12 @@
+{
+  "id": "vec",
+  "name": "Vèneto",
+  "locale": "vec-IT",
+  "version": 1,
+  "layout": "it_vec.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

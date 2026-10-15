@@ -1,0 +1,12 @@
+{
+  "id": "sc",
+  "name": "Sardu",
+  "locale": "sc-IT",
+  "version": 1,
+  "layout": "it_sc.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

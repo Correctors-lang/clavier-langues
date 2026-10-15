@@ -1,0 +1,12 @@
+{
+  "id": "mag",
+  "name": "मगही",
+  "locale": "mag-IN",
+  "version": 1,
+  "layout": "deva_mag.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lld",
+  "name": "Ladin",
+  "locale": "lld-IT",
+  "version": 1,
+  "layout": "it_lld.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

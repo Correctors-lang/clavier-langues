@@ -1,0 +1,12 @@
+{
+  "id": "dz",
+  "name": "རྫོང་ཁ",
+  "locale": "dz-BT",
+  "version": 1,
+  "layout": "tibt_dz.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

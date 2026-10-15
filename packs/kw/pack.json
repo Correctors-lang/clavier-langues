@@ -1,0 +1,12 @@
+{
+  "id": "kw",
+  "name": "Kernewek",
+  "locale": "kw-GB",
+  "version": 1,
+  "layout": "en_kw.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

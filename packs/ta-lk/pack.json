@@ -1,0 +1,7 @@
+{
+  "id": "ta-lk",
+  "name": "தமிழ் (இலங்கை)",
+  "locale": "ta-LK",
+  "version": 1,
+  "inherits": "ta"
+}

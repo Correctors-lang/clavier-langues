@@ -1,0 +1,937 @@
+# Villes de IT (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Rome
+Milan
+Naples
+Turin
+Palermo
+Genoa
+Bologna
+Florence
+Bari
+Catania
+Verona
+Messina
+Trieste
+Padua
+Brescia
+Taranto
+Parma
+Prato
+Modena
+Reggio Calabria
+Reggio
+Calabria
+Quarto Oggiaro
+Quarto
+Oggiaro
+Reggio nell'Emilia
+nell'Emilia
+Livorno
+Cagliari
+Rimini
+Mestre
+Circoiscrizione II
+Circoiscrizione
+Foggia
+Circoiscrizione VIII
+VIII
+Ferrara
+Circoiscrizione III
+III
+Acilia-Castel Fusano-Ostia Antica
+Acilia-Castel
+Fusano-Ostia
+Antica
+Circoiscrizione V
+Salerno
+Monza
+Siracusa
+Bergamo
+Trento
+Perugia
+Pescara
+Forlì
+Vicenza
+Terni
+Pisa
+Bolzano
+Circoiscrizione VI
+Piacenza
+Novara
+Arezzo
+Udine
+Andria
+Circoiscrizione IV
+Cesena
+La Spezia
+Spezia
+Barletta
+Alessandria
+Sassari
+Ancona
+Circoiscrizione VII
+VII
+Guidonia Montecelio
+Guidonia
+Montecelio
+Campo di Marte
+Campo
+Marte
+Brindisi
+Treviso
+Torre del Greco
+Torre
+del
+Greco
+Lido di Ostia
+Lido
+Ostia
+Como
+Busto Arsizio
+Busto
+Arsizio
+Sesto San Giovanni
+Sesto
+San
+Giovanni
+Lucca
+Pozzuoli
+Ravenna
+Fiumicino
+Lecce
+Varese
+Giugliano in Campania
+Giugliano
+Campania
+Catanzaro
+Circoiscrizione I
+Marsala
+Pesaro
+Fuorigrotta
+Latina
+Cinisello Balsamo
+Cinisello
+Balsamo
+Gela
+Aprilia
+Asti
+Ragusa
+Casoria
+Pistoia
+Caserta
+Cremona
+Carpi
+Altamura
+Lamezia Terme
+Lamezia
+Terme
+Imola
+San Carlo All'Arena
+Carlo
+All'Arena
+Arenella
+Trapani
+Quartu Sant'Elena
+Quartu
+Sant'Elena
+Castellammare di Stabia
+Castellammare
+Stabia
+Pavia
+Massa
+Crotone
+Afragola
+Cosenza
+Caltanissetta
+Viareggio
+Savona
+Fano
+Grosseto
+Matera
+Olbia
+Acerra
+Molfetta
+Carrara
+Benevento
+Vigevano
+Pianura
+Legnano
+Manfredonia
+Foligno
+Potenza
+Moncalieri
+Cuneo
+Bisceglie
+Pozzo Strada
+Pozzo
+Strada
+Modica
+Teramo
+Cerignola
+Trani
+Siena
+Portici
+Ercolano
+Montesilvano
+Bagheria
+Cava Dè Tirreni
+Cava
+Tirreni
+Aversa
+Velletri
+Ponticelli
+San Severo
+Severo
+Secondigliano
+Bitonto
+Mazara del Vallo
+Mazara
+Vallo
+Venice
+Vittoria
+Gallarate
+Barriera di Milano
+Barriera
+Milano
+Rovigo
+Barriera di Lanzo
+Lanzo
+Marano di Napoli
+Marano
+Napoli
+Pordenone
+Nettuno
+Lingotto
+Acireale
+Campobasso
+Scafati
+Rivoli
+Avellino
+San Lorenzo
+Lorenzo
+Nichelino
+Civitavecchia
+Settimo Torinese
+Settimo
+Torinese
+Viterbo
+Battipaglia
+Rho
+Sanremo
+Chioggia
+Parella
+Lecco
+Collegno
+Corato
+Paderno Dugnano
+Paderno
+Dugnano
+Paternò
+Vercelli
+San Benedetto del Tronto
+Benedetto
+Tronto
+Casalnuovo di Napoli
+Casalnuovo
+Cologno Monzese
+Cologno
+Monzese
+Sesto Fiorentino
+Fiorentino
+Nocera Inferiore
+Nocera
+Inferiore
+Misterbianco
+Filadelfia
+San Giorgio a Cremano
+Giorgio
+Cremano
+Anzio
+Soccavo
+Monte Rosello
+Monte
+Rosello
+Scandicci
+Vomero
+Frosinone
+Chieti
+Alcamo
+Marino
+Arcella
+Torre Annunziata
+Annunziata
+Biella
+Seregno
+Imperia
+Civitanova Marche
+Civitanova
+Marche
+Gravina in Puglia
+Gravina
+Puglia
+Desio
+San Donà di Piave
+Donà
+Piave
+Ascoli Piceno
+Ascoli
+Piceno
+Faenza
+Vasto
+Mirafiori Nord
+Mirafiori
+Nord
+Capannori
+Merano
+Lodi
+Chiaia
+Sciacca
+Cascina
+Marcianise
+Nicastro
+Cantù
+Fondi
+Rozzano
+Mantua
+Rieti
+Pomigliano d'Arco
+Pomigliano
+d'Arco
+Voghera
+Caltagirone
+Ciampino
+Bassano del Grappa
+Bassano
+Grappa
+Saronno
+Avezzano
+Monopoli
+Martina Franca
+Martina
+Franca
+Lissone
+Monterotondo
+Cesano Maderno
+Cesano
+Maderno
+Jesi
+Melito di Napoli
+Melito
+Sassuolo
+Chieri
+Grugliasco
+Barra
+Licata
+Modugno
+Cenisia
+Nuoro
+San Salvario
+Salvario
+Aosta
+Bollate
+Carini
+Arzano
+Lanciano
+Caivano
+Barcellona Pozzo di Gotto
+Barcellona
+Gotto
+Maddaloni
+Adrano
+Gorizia
+Empoli
+Formigine
+Alghero
+Mugnano di Napoli
+Mugnano
+Ladispoli
+Pioltello
+Rovereto
+Piombino
+Casalecchio di Reno
+Casalecchio
+Reno
+Schio
+L'Aquila
+Mirafiori Sud
+Sud
+Corsico
+Sant'Antimo
+Venaria Reale
+Venaria
+Reale
+Francavilla Fontana
+Francavilla
+Fontana
+Borgo San Paolo
+Borgo
+Paolo
+Casale Monferrato
+Casale
+Monferrato
+Brugherio
+Avvocata
+Canicattì
+Mira Taglio
+Mira
+Taglio
+Campi Bisenzio
+Campi
+Bisenzio
+Pagani
+Abbiategrasso
+Riccione
+Casal Palocco
+Casal
+Palocco
+San Donato
+Donato
+Agrigento
+Somma Vesuviana
+Somma
+Vesuviana
+Lucera
+Mascalucia
+Favara
+Limbiate
+Milazzo
+Santa Maria Capua Vetere
+Santa
+Maria
+Capua
+Vetere
+Castelvetrano
+Oristano
+Angri
+Crema
+Grottaglie
+Verbania
+San Giuliano Milanese
+Giuliano
+Milanese
+Termoli
+Terracina
+Senigallia
+Massafra
+Pinerolo
+Macerata
+Conegliano
+Augusta
+Stella
+Rosignano Marittimo
+Rosignano
+Marittimo
+Marigliano
+Canosa di Puglia
+Canosa
+Infernetto
+Frattamaggiore
+San Paolo
+Santa Rita
+Rita
+Nardò
+Vanchiglia
+Monterusciello
+Gragnano
+Cernusco sul Naviglio
+Cernusco
+sul
+Naviglio
+Chinatown
+Pallanza-Intra-Suna
+Sarno
+Partinico
+Cervia
+Mondragone
+Avola
+Marghera
+Formia
+San Donato Milanese
+Segrate
+Piscinola
+Manduria
+Cisterna di Latina
+Cisterna
+Casal de' Pazzi
+Pazzi
+San Giovanni Rotondo
+Rotondo
+Rapallo
+Niscemi
+San Giuseppe Vesuviano
+Giuseppe
+Vesuviano
+Boscoreale
+Triggiano
+Camaiore
+Monfalcone
+Albano Laziale
+Albano
+Laziale
+Montebelluna
+Chiavari
+Gravina di Catania
+Mesagne
+Nizza Millefonti
+Nizza
+Millefonti
+San Miniato Basso
+Miniato
+Basso
+Parabiago
+Comiso
+Eboli
+Romano Banco
+Romano
+Banco
+Garbagnate Milanese
+Garbagnate
+Novi Ligure
+Novi
+Ligure
+Falconara Marittima
+Falconara
+Marittima
+Giussano
+Scandiano
+Terlizzi
+Bresso
+Bacoli
+Castelfranco Veneto
+Castelfranco
+Veneto
+Assemini
+Villaricca
+Belluno
+Lainate
+Marina di Carrara
+Marina
+Lucento
+Treviglio
+Alba
+Santeramo in Colle
+Santeramo
+Colle
+Vittorio Veneto
+Vittorio
+Orta di Atella
+Orta
+Atella
+Mola di Bari
+Mola
+Aci Catena
+Aci
+Catena
+Spinaceto
+Gioia del Colle
+Gioia
+Ostuni
+Giarre
+Ventimiglia
+Lentini
+Nola
+Bra
+Ruvo di Puglia
+Ruvo
+Pompei
+Miano
+Casa Santa
+Casa
+San Giovanni a Teduccio
+Teduccio
+Rossano Stazione
+Rossano
+Stazione
+Sora
+Qualiano
+Lumezzane
+Spinea-Orgnano
+Putignano
+Poggioreale
+Ivrea
+Seriate
+Copertino
+Nocera Superiore
+Superiore
+Ottaviano
+Chiaiano
+Scampia
+Cesano Boscone
+Boscone
+Bagnoli
+Selargius
+Fabriano
+San Sebastiano
+Sebastiano
+Muggiò
+Biancavilla
+Montecalvario
+Chivasso
+Carmagnola
+Enna
+Termini Imerese
+Termini
+Imerese
+Volla
+Quattromiglia
+Dalmine
+Posillipo
+Tortona
+Seveso
+Vimercate
+Meda
+Desenzano del Garda
+Desenzano
+Garda
+Conversano
+Iglesias
+Palma di Montechiaro
+Palma
+Montechiaro
+Mariano Comense
+Mariano
+Comense
+Carbonara di Bari
+Carbonara
+Fasano
+Magenta
+Valdagno
+Chieti Scalo
+Scalo
+Città di Castello
+Città
+Castello
+Massarosa
+Vignola
+San Lazzaro
+Lazzaro
+Pomezia
+Nova Milanese
+Nova
+Porto Sant'Elpidio
+Porto
+Sant'Elpidio
+Floridia
+San Cataldo
+Cataldo
+San Giovanni la Punta
+Punta
+Tivoli
+Cecina
+Mogliano Veneto
+Mogliano
+Noicattaro
+Monreale
+Fidenza
+Castel Volturno
+Castel
+Volturno
+Mondovì
+Orbassano
+Poggibonsi
+Carbonia
+Porto Torres
+Torres
+Legnago
+Cardito
+Madonna di Campagna
+Madonna
+Campagna
+Lugo
+Esquilino
+Arzignano
+Cassano Magnago
+Cassano
+Magnago
+Follonica
+San Nicola la Strada
+Nicola
+Thiene
+Francavilla al Mare
+Mare
+Sulmona
+Cassino
+Tor Lupara
+Tor
+Lupara
+Montecchio Maggiore-Alte Ceccato
+Montecchio
+Maggiore-Alte
+Ceccato
+Colleferro
+Sant'Anastasia
+Palo del Colle
+Palo
+Giardinetti-Tor Vergata
+Giardinetti-Tor
+Vergata
+Senago
+Casal di Principe
+Principe
+Genzano di Roma
+Genzano
+Roma
+Acquaviva delle Fonti
+Acquaviva
+delle
+Fonti
+Pachino
+Giulianova
+Sarzana
+Borgomanero
+Castrovillari
+Centro
+Marina di Ardea-Tor San Lorenzo
+Ardea-Tor
+Monserrato
+Cornaredo
+San Giovanni Lupatoto
+Lupatoto
+Frascati
+Cormano
+Viadana
+Trezzano sul Naviglio
+Trezzano
+Aurora
+Sambiase
+Lavinio
+Gaeta
+Rosignano Solvay-Castiglioncello
+Solvay-Castiglioncello
+Novate Milanese
+Novate
+Rosolini
+Galatina
+Pontedera
+Poggiomarino
+Trecate
+Casarano
+Sabaudia
+Spoleto
+Vibo Valentia
+Vibo
+Valentia
+Sondrio
+Giovinazzo
+Gallipoli
+Misilmeri
+Arese
+Marina di Massa
+Bronte
+Villabate
+Porta Palazzo
+Porta
+Palazzo
+Gorgonzola
+Cesenatico
+Cusano
+Pietrasanta
+Sant'Antonio Abate
+Sant'Antonio
+Abate
+Fossano
+Gioia Tauro
+Tauro
+Montevarchi
+Monselice
+Casavatore
+Ischia
+Palmi
+Castiglione delle Stiviere
+Castiglione
+Stiviere
+San Mauro Torinese
+Mauro
+Brera
+Noto
+San Ferdinando
+Ferdinando
+Casamassima
+Crocetta
+Vanchiglietta
+Abano Terme
+Abano
+Ischia Porto
+Sestu
+Cento
+Pozzallo
+Grottaferrata
+Fermo
+Melzo
+Palazzolo sull'Oglio
+Palazzolo
+sull'Oglio
+Montecatini-Terme
+Grumo Nevano
+Grumo
+Nevano
+Bastia umbra
+Bastia
+umbra
+Acqui Terme
+Acqui
+Cercola
+Domodossola
+Arpino
+Piazza Armerina
+Piazza
+Armerina
+Rutigliano
+Ribera
+Bellaria-Igea Marina
+Bellaria-Igea
+San Vito dei Normanni
+Vito
+dei
+Normanni
+Aci Castello
+Romano di Lombardia
+Lombardia
+Adriano
+Montemurlo
+Ariccia
+Portogruaro
+Ciriè
+Mirandola
+San Giovanni in Fiore
+Fiore
+San Bonifacio
+Bonifacio
+Agropoli
+Riva del Garda
+Riva
+Paolo VI
+San Pietro a Patierno
+Pietro
+Patierno
+Castelfranco Emilia
+Emilia
+Valenza
+Fornacelle
+Cassano d'Adda
+d'Adda
+Torvaianica
+Tradate
+Terzigno
+San Salvo
+Salvo
+Albenga
+Ardea
+Vimodrone
+Trentola-Ducenta
+Mentana
+Nerviano
+Polo Nord
+Polo
+Sestri Levante
+Sestri
+Levante
+Este
+Torremaggiore
+Isernia
+Piossasco
+San Miniato
+Pendino
+Malafede
+Savigliano
+Adelfia
+Melegnano
+Arcore
+Orta Nova
+Scordia
+Sacile
+Colle di Val d'Elsa
+Val
+d'Elsa
+Osimo
+Alpignano
+Porto Empedocle
+Empedocle
+Suzzara
+San Felice A Cancello
+Felice
+Cancello
+Bareggio
+Bovisio-Masciago
+Roseto degli Abruzzi
+Roseto
+degli
+Abruzzi
+Saluzzo
+Ceglie Messapica
+Ceglie
+Messapica
+Tolentino
+Albignasego
+Erba
+Caronno Pertusella
+Caronno
+Pertusella
+Ghedi
+Belpasso
+Fiorano
+Casal Bertone
+Bertone
+Minturno
+Palagonia
+Cattolica
+Ginosa
+Scicli
+Valenzano
+Sezze
+Castel Maggiore
+Maggiore
+San Giovanni Valdarno
+Valdarno
+Quartiere Otto
+Quartiere
+Otto
+Forio
+Zola Predosa
+Zola
+Predosa
+Cordenons
+Sava
+Villafranca di Verona
+Villafranca
+Cerveteri
+Bressanone
+San Nicandro Garganico
+Nicandro
+Garganico
+Sinnai
+San Giovanni in Persiceto
+Persiceto
+Oderzo
+Salsomaggiore Terme
+Salsomaggiore
+Galliate
+Siderno
+Correggio
+Porto San Giorgio
+Chiari
+Frattaminore
+Malnate
+Carate Brianza
+Carate
+Brianza
+Palagiano
+Noci
+Carugate
+Todi
+Lancenigo-Villorba
+Brusciano
+Bussolengo
+Mirano
+Corigliano Scalo
+Corigliano
+Villanova
+Eppan
+Vicaria
+Rocca di Papa
+Rocca
+Papa
+Montichiari

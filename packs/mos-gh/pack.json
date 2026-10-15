@@ -1,0 +1,7 @@
+{
+  "id": "mos-gh",
+  "name": "Mooré (Ghana)",
+  "locale": "mos-GH",
+  "version": 1,
+  "inherits": "mos"
+}

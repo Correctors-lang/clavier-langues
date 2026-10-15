@@ -1,0 +1,12 @@
+{
+  "id": "my",
+  "name": "မြန်မာ",
+  "locale": "my-MM",
+  "version": 1,
+  "layout": "my_national.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

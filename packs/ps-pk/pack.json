@@ -1,0 +1,7 @@
+{
+  "id": "ps-pk",
+  "name": "پښتو (پاکستان)",
+  "locale": "ps-PK",
+  "version": 1,
+  "inherits": "ps"
+}

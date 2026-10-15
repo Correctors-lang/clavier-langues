@@ -1,0 +1,7 @@
+{
+  "id": "brab",
+  "name": "Brabants",
+  "locale": "nl-BE",
+  "version": 1,
+  "inherits": "nl-be"
+}

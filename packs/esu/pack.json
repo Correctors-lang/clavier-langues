@@ -1,0 +1,12 @@
+{
+  "id": "esu",
+  "name": "Yugtun",
+  "locale": "esu-US",
+  "version": 1,
+  "layout": "en_esu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "rn",
+  "name": "Ikirundi",
+  "locale": "rn-BI",
+  "version": 1,
+  "layout": "fr_rn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

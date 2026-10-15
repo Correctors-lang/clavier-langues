@@ -1,0 +1,12 @@
+{
+  "id": "dsb",
+  "name": "Dolnoserbšćina",
+  "locale": "dsb-DE",
+  "version": 1,
+  "layout": "de_dsb.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

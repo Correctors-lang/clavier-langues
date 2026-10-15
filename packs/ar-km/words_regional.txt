@@ -1,0 +1,8 @@
+# Vocabulaire propre à « العربية (جزر القمر) » — dialecte(s) FineWeb-2 : aucun corpus,
+# et vocabulaire national. mot<TAB>fréquence (échelle de ar/words.txt).
+# Généré par tools/generateurs/build_ar_variants.py — ne pas éditer à la main.
+جزر القمر	4450
+فرنك	4450
+قمري	4450
+قمرية	4450
+موروني	4450

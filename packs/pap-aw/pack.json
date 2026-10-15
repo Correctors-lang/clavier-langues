@@ -1,0 +1,10 @@
+{
+  "id": "pap-aw",
+  "name": "Papiamento (Aruba)",
+  "locale": "pap-AW",
+  "version": 1,
+  "inherits": "pap",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

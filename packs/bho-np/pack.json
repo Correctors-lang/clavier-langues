@@ -1,0 +1,7 @@
+{
+  "id": "bho-np",
+  "name": "भोजपुरी (Nepal)",
+  "locale": "bho-NP",
+  "version": 1,
+  "inherits": "bho"
+}

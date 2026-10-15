@@ -1,0 +1,7 @@
+{
+  "id": "en-ca",
+  "name": "English (Canada)",
+  "locale": "en-CA",
+  "version": 1,
+  "inherits": "en"
+}

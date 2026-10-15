@@ -1,0 +1,12 @@
+{
+  "id": "ln",
+  "name": "Lingála",
+  "locale": "ln-CD",
+  "version": 1,
+  "layout": "fr_ln.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

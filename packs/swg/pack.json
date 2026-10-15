@@ -1,0 +1,12 @@
+{
+  "id": "swg",
+  "name": "Schwäbisch",
+  "locale": "swg-DE",
+  "version": 1,
+  "layout": "de_swg.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

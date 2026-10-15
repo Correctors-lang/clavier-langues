@@ -1,0 +1,7 @@
+{
+  "id": "en-ug",
+  "name": "English (Uganda)",
+  "locale": "en-UG",
+  "version": 1,
+  "inherits": "en"
+}

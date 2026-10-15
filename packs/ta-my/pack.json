@@ -1,0 +1,7 @@
+{
+  "id": "ta-my",
+  "name": "தமிழ் (மலேசியா)",
+  "locale": "ta-MY",
+  "version": 1,
+  "inherits": "ta"
+}

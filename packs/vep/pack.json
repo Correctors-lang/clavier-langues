@@ -1,0 +1,12 @@
+{
+  "id": "vep",
+  "name": "Vepsän kel'",
+  "locale": "vep-RU",
+  "version": 1,
+  "layout": "fi_vep.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

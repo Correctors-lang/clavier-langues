@@ -1,0 +1,13 @@
+{
+  "id": "hi",
+  "name": "हिन्दी",
+  "locale": "hi-IN",
+  "version": 1,
+  "layout": "deva_hi.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

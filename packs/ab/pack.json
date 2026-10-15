@@ -1,0 +1,12 @@
+{
+  "id": "ab",
+  "name": "Аԥсшәа",
+  "locale": "ab-GE",
+  "version": 1,
+  "layout": "ru_ab.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

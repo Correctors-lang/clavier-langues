@@ -1,0 +1,12 @@
+{
+  "id": "chr",
+  "name": "ᏣᎳᎩ",
+  "locale": "chr-US",
+  "version": 1,
+  "layout": "chr_romanisation.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

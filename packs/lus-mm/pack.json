@@ -1,0 +1,7 @@
+{
+  "id": "lus-mm",
+  "name": "Mizo ṭawng (Myanmar (Burma))",
+  "locale": "lus-MM",
+  "version": 1,
+  "inherits": "lus"
+}

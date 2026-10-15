@@ -1,0 +1,7 @@
+{
+  "id": "ne-in",
+  "name": "नेपाली (भारत)",
+  "locale": "ne-IN",
+  "version": 1,
+  "inherits": "ne"
+}

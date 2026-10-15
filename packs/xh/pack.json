@@ -1,0 +1,12 @@
+{
+  "id": "xh",
+  "name": "isiXhosa",
+  "locale": "xh-ZA",
+  "version": 1,
+  "layout": "en_xh.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

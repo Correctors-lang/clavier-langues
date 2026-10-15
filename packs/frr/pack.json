@@ -1,0 +1,12 @@
+{
+  "id": "frr",
+  "name": "Nordfriisk",
+  "locale": "frr-DE",
+  "version": 1,
+  "layout": "de_frr.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

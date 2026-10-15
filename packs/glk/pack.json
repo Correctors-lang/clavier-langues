@@ -1,0 +1,12 @@
+{
+  "id": "glk",
+  "name": "گیلکی",
+  "locale": "glk-IR",
+  "version": 1,
+  "layout": "fa_glk.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

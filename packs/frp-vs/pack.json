@@ -1,0 +1,7 @@
+{
+  "id": "frp-vs",
+  "name": "Patouès valaisan",
+  "locale": "frp-CH",
+  "version": 1,
+  "inherits": "frp"
+}

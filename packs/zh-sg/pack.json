@@ -1,0 +1,11 @@
+{
+  "id": "zh-sg",
+  "name": "简体中文（新加坡）",
+  "locale": "zh-SG",
+  "version": 1,
+  "inherits": "zh-hans",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalReadings": "readings_regional.txt"
+  }
+}

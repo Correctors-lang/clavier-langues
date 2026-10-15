@@ -1,0 +1,12 @@
+{
+  "id": "pap",
+  "name": "Papiamentu",
+  "locale": "pap-CW",
+  "version": 1,
+  "layout": "en_pap.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

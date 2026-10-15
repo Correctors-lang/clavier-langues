@@ -1,0 +1,7 @@
+{
+  "id": "vec-hr",
+  "name": "Vèneto (Croasia)",
+  "locale": "vec-HR",
+  "version": 1,
+  "inherits": "vec"
+}

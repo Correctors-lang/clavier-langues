@@ -1,0 +1,12 @@
+{
+  "id": "bs",
+  "name": "Bosanski",
+  "locale": "bs-BA",
+  "version": 1,
+  "layout": "hr_bs.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

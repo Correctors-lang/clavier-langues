@@ -1,0 +1,13 @@
+{
+  "id": "ptbr",
+  "name": "Português (Brasil)",
+  "locale": "pt-BR",
+  "version": 1,
+  "layout": "qwerty_ptbr.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

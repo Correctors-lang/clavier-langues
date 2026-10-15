@@ -1,0 +1,7 @@
+{
+  "id": "en-gd",
+  "name": "English (Grenada)",
+  "locale": "en-GD",
+  "version": 1,
+  "inherits": "en"
+}

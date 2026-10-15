@@ -1,0 +1,7 @@
+{
+  "id": "be-pl",
+  "name": "Беларуская (Польшча)",
+  "locale": "be-PL",
+  "version": 1,
+  "inherits": "be"
+}

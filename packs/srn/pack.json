@@ -1,0 +1,12 @@
+{
+  "id": "srn",
+  "name": "Sranantongo",
+  "locale": "srn-SR",
+  "version": 1,
+  "layout": "en_srn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

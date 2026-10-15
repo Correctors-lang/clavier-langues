@@ -1,0 +1,12 @@
+{
+  "id": "sm",
+  "name": "Gagana Sāmoa",
+  "locale": "sm-WS",
+  "version": 1,
+  "layout": "en_sm.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

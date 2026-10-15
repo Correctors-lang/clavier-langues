@@ -1,0 +1,12 @@
+{
+  "id": "bho",
+  "name": "भोजपुरी",
+  "locale": "bho-IN",
+  "version": 1,
+  "layout": "deva_bho.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

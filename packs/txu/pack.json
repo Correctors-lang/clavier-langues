@@ -1,0 +1,12 @@
+{
+  "id": "txu",
+  "name": "Mẽbêngôkre",
+  "locale": "txu-BR",
+  "version": 1,
+  "layout": "pt_txu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

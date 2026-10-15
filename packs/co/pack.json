@@ -1,0 +1,12 @@
+{
+  "id": "co",
+  "name": "Corsu",
+  "locale": "co-FR",
+  "version": 1,
+  "layout": "fr_co.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

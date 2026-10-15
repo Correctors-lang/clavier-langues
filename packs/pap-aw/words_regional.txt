@@ -1,0 +1,20 @@
+# Vocabulaire propre à « Papiamento (Aruba) » : papiamento d'Aruba.
+# mot<TAB>fréquence (échelle de words.txt de la langue).
+# Généré par tools/generateurs/build_variantes_regionales.py — ne pas éditer à la main.
+aruba	3000
+arubiano	3000
+arubianonan	3000
+cada	3000
+cas	3000
+come	3000
+con	3000
+cos	3000
+cosnan	3000
+cu	3000
+cuminsa	3000
+papiamento	3000
+cabez	1000
+cacho	1000
+cuater	1000
+cuminsamento	1000
+oranjestad	1000

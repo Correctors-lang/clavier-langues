@@ -1,0 +1,12 @@
+{
+  "id": "kpg",
+  "name": "Kapingamarangi",
+  "locale": "kpg-FM",
+  "version": 1,
+  "layout": "en_kpg.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

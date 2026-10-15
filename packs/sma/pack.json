@@ -1,0 +1,12 @@
+{
+  "id": "sma",
+  "name": "Åarjelsaemien",
+  "locale": "sma-NO",
+  "version": 1,
+  "layout": "no_sma.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

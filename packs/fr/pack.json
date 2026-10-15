@@ -1,0 +1,23 @@
+{
+  "id": "fr",
+  "name": "Français",
+  "locale": "fr-FR",
+  "version": 1,
+  "layout": "layout_azerty.json",
+  "files": {
+    "words": "words.txt",
+    "slang": "words_slang.txt",
+    "smsAbbreviations": "words_sms.txt",
+    "lexicon": "lexicon.tsv",
+    "firstNames": "names_first.txt",
+    "lastNames": "names_last.txt",
+    "places": "places.txt",
+    "communes": "communes.txt",
+    "communesComposees": "communes_composees.tsv",
+    "rules": "rules.json",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt",
+    "participles": "participles.txt",
+    "frenchVerbs": "verbs.txt"
+  }
+}

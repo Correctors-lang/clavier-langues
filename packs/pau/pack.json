@@ -1,0 +1,12 @@
+{
+  "id": "pau",
+  "name": "Tekoi ra Belau",
+  "locale": "pau-PW",
+  "version": 1,
+  "layout": "en_pau.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

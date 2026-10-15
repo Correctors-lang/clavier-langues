@@ -1,0 +1,12 @@
+{
+  "id": "gux",
+  "name": "Gulmancema",
+  "locale": "gux-BF",
+  "version": 1,
+  "layout": "fr_gux.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

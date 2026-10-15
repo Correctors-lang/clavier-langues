@@ -1,0 +1,12 @@
+{
+  "id": "rmy",
+  "name": "Romani ćhib",
+  "locale": "rmy-RO",
+  "version": 1,
+  "layout": "en_rmy.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

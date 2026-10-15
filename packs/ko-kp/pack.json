@@ -1,0 +1,10 @@
+{
+  "id": "ko-kp",
+  "name": "조선말",
+  "locale": "ko-KP",
+  "version": 1,
+  "inherits": "ko",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

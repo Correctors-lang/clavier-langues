@@ -1,0 +1,7 @@
+{
+  "id": "hak-cn",
+  "name": "Hak-kâ-fa (China)",
+  "locale": "hak-CN",
+  "version": 1,
+  "inherits": "hak"
+}

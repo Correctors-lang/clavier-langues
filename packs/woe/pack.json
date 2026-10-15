@@ -1,0 +1,7 @@
+{
+  "id": "woe",
+  "name": "Woleaian",
+  "locale": "woe-FM",
+  "version": 1,
+  "inherits": "chk"
+}

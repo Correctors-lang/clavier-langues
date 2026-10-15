@@ -1,0 +1,7 @@
+{
+  "id": "tr-bg",
+  "name": "Türkçe (Bulgaristan)",
+  "locale": "tr-BG",
+  "version": 1,
+  "inherits": "tr"
+}

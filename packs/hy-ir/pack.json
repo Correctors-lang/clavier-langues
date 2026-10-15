@@ -1,0 +1,7 @@
+{
+  "id": "hy-ir",
+  "name": "Հայերեն (Իրան)",
+  "locale": "hy-IR",
+  "version": 1,
+  "inherits": "hy"
+}

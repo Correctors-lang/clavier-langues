@@ -1,0 +1,12 @@
+{
+  "id": "dyu",
+  "name": "Julakan",
+  "locale": "dyu-CI",
+  "version": 1,
+  "layout": "fr_dyu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

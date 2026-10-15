@@ -1,0 +1,12 @@
+{
+  "id": "rcf",
+  "name": "Kréol rényoné",
+  "locale": "rcf-RE",
+  "version": 1,
+  "layout": "fr_rcf.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

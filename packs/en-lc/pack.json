@@ -1,0 +1,7 @@
+{
+  "id": "en-lc",
+  "name": "English (St. Lucia)",
+  "locale": "en-LC",
+  "version": 1,
+  "inherits": "en"
+}

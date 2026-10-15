@@ -1,0 +1,12 @@
+{
+  "id": "quc",
+  "name": "Kʼicheʼ",
+  "locale": "quc-GT",
+  "version": 1,
+  "layout": "es_quc.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

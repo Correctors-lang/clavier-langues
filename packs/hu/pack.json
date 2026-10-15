@@ -1,0 +1,12 @@
+{
+  "id": "hu",
+  "name": "Magyar",
+  "locale": "hu-HU",
+  "version": 1,
+  "layout": "de_hu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

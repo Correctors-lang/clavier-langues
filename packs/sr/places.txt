@@ -1,0 +1,70 @@
+# Villes de RS (source : GeoNames alternateNamesV2,
+# nom filtré par code langue ISO « sr » — pas une détection de
+# bloc Unicode (ambigu : Kurde/Ossète partagent l'écriture arabe/
+# cyrillique avec l'arabe/le russe — bug réel corrigé le 2026-09-13).
+# Chargé UNIQUEMENT avec ce pack.
+Beograd
+Niš
+Novi Sad
+Novi
+Sad
+Нови Београд
+Нови
+Београд
+Zemun
+Kragujevac
+Čačak
+Subotica
+Leskovac
+Novi Pazar
+Pazar
+Kraljevo
+Зрењанин
+Pančevo
+Kruševac
+Ужице
+Smederevo
+Ваљево
+Врање
+Šabac
+Zaječar
+Trstenik
+Sombor
+Kikinda
+Požarevac
+Пирот
+Бор
+Sremska Mitrovica
+Sremska
+Mitrovica
+Vršac
+Jagodina
+Ruma
+Bačka Palanka
+Bačka
+Palanka
+Prokuplje
+Смедеревска Паланка
+Смедеревска
+Паланка
+Vrbas
+Бечеј
+Knjaževac
+Inđija
+Аранђеловац
+Gornji Milanovac
+Gornji
+Milanovac
+Lazarevac
+Ćuprija
+Senta
+Loznica
+Апатин
+Futog
+Negotin
+Обреновац
+Stara Pazova
+Stara
+Pazova
+Nova Pazova
+Nova

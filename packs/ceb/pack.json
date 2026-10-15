@@ -1,0 +1,12 @@
+{
+  "id": "ceb",
+  "name": "Cebuano",
+  "locale": "ceb-PH",
+  "version": 1,
+  "layout": "en_ceb.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ho",
+  "name": "Hiri Motu",
+  "locale": "ho-PG",
+  "version": 1,
+  "layout": "en_ho.json",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt",
+    "typography": "typography.json"
+  },
+  "inherits": "meu"
+}

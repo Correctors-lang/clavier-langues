@@ -1,0 +1,12 @@
+{
+  "id": "kn",
+  "name": "ಕನ್ನಡ",
+  "locale": "kn-IN",
+  "version": 1,
+  "layout": "knda_kn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "cbs-pe",
+  "name": "Hantxa kuin (Peru)",
+  "locale": "cbs-PE",
+  "version": 1,
+  "inherits": "cbs"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "taq",
+  "name": "Tamasheq",
+  "locale": "taq-ML",
+  "version": 1,
+  "layout": "fr_taq.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

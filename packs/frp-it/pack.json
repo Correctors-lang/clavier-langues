@@ -1,0 +1,7 @@
+{
+  "id": "frp-it",
+  "name": "Arpetan (Italy)",
+  "locale": "frp-IT",
+  "version": 1,
+  "inherits": "frp"
+}

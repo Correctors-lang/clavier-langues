@@ -1,0 +1,39 @@
+# Vocabulaire propre à « Español (Nicaragua) ».
+# mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
+# Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
+baho	12000
+chancho	30000
+chavala	30000
+chavalada	3000
+chavalo	30000
+chele	12000
+chochada	12000
+chunche	12000
+cipote	3000
+cuajada	12000
+cususa	12000
+córdoba	30000
+dale pues	12000
+deacachimba	12000
+enchiladas	12000
+gallo pinto	30000
+guaro	30000
+güevón	3000
+güirila	12000
+ideay	12000
+indio viejo	12000
+jodido	3000
+maje	30000
+nacatamal	30000
+nica	30000
+pinol	30000
+pinolero	30000
+pinolillo	30000
+pipe	3000
+pisto	30000
+quesillo	30000
+rosquilla	30000
+tajada	30000
+tuani	30000
+vigorón	30000
+zopilote	3000

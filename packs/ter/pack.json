@@ -1,0 +1,12 @@
+{
+  "id": "ter",
+  "name": "Terêna",
+  "locale": "ter-BR",
+  "version": 1,
+  "layout": "pt_ter.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

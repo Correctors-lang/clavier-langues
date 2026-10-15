@@ -1,0 +1,7 @@
+{
+  "id": "en-dm",
+  "name": "English (Dominica)",
+  "locale": "en-DM",
+  "version": 1,
+  "inherits": "en"
+}

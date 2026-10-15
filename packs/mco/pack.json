@@ -1,0 +1,12 @@
+{
+  "id": "mco",
+  "name": "Ayuuk",
+  "locale": "mco-MX",
+  "version": 1,
+  "layout": "es_mco.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

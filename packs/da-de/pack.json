@@ -1,0 +1,7 @@
+{
+  "id": "da-de",
+  "name": "Dansk (Tyskland)",
+  "locale": "da-DE",
+  "version": 1,
+  "inherits": "da"
+}

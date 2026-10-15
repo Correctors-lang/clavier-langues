@@ -1,0 +1,12 @@
+{
+  "id": "shi",
+  "name": "Taclḥit",
+  "locale": "shi-MA",
+  "version": 1,
+  "layout": "fr_shi.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

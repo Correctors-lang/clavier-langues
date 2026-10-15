@@ -1,0 +1,12 @@
+{
+  "id": "bci",
+  "name": "Wawle",
+  "locale": "bci-CI",
+  "version": 1,
+  "layout": "fr_bci.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

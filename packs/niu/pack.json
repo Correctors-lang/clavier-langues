@@ -1,0 +1,12 @@
+{
+  "id": "niu",
+  "name": "Vagahau Niuē",
+  "locale": "niu-NU",
+  "version": 1,
+  "layout": "en_niu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

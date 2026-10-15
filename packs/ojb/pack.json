@@ -1,0 +1,12 @@
+{
+  "id": "ojb",
+  "name": "ᐊᓂᔑᓈᐯᒧᐎᓐ",
+  "locale": "ojb-CA",
+  "version": 1,
+  "layout": "ojb_romanisation.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sw-bi",
+  "name": "Kiswahili (Burundi)",
+  "locale": "sw-BI",
+  "version": 1,
+  "inherits": "sw"
+}

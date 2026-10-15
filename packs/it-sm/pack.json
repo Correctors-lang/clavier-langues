@@ -1,0 +1,7 @@
+{
+  "id": "it-sm",
+  "name": "Italiano (San Marino)",
+  "locale": "it-SM",
+  "version": 1,
+  "inherits": "it"
+}

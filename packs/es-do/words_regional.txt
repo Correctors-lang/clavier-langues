@@ -1,0 +1,43 @@
+# Vocabulaire propre à « Español (República Dominicana) ».
+# mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
+# Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
+auyama	12000
+bacano	30000
+bachata	3000
+bocadillo	12000
+bultero	12000
+chepa	3000
+chicharrón	30000
+chimi	30000
+chin	30000
+colmado	30000
+concho	30000
+cuero	12000
+deja eso	3000
+dembow	3000
+dique	30000
+guagua	30000
+guandules	12000
+habichuela	30000
+habichuelas	30000
+jevi	30000
+jumeta	12000
+jumo	12000
+klk	3000
+lerén	12000
+locrio	30000
+mamaguevo	3000
+mangú	30000
+mofongo	12000
+moro	30000
+pariguayo	12000
+presidente	12000
+qué lo que	12000
+sancocho	30000
+sofrito	12000
+tató	30000
+tiguere	30000
+tostones	30000
+tíguere	30000
+vaina	30000
+yaniqueque	30000

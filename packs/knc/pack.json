@@ -1,0 +1,12 @@
+{
+  "id": "knc",
+  "name": "Kanuri",
+  "locale": "knc-NG",
+  "version": 1,
+  "layout": "en_knc.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

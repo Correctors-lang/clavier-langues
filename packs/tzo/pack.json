@@ -1,0 +1,12 @@
+{
+  "id": "tzo",
+  "name": "Batsʼi kʼop",
+  "locale": "tzo-MX",
+  "version": 1,
+  "layout": "es_tzo.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

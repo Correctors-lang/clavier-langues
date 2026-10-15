@@ -1,0 +1,12 @@
+{
+  "id": "sas",
+  "name": "Basa Sasak",
+  "locale": "sas-ID",
+  "version": 1,
+  "layout": "en_sas.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

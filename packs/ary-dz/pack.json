@@ -1,0 +1,7 @@
+{
+  "id": "ary-dz",
+  "name": "العربية (Algeria)",
+  "locale": "ary-DZ",
+  "version": 1,
+  "inherits": "ar-ma"
+}

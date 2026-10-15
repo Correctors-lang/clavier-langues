@@ -1,0 +1,7 @@
+{
+  "id": "sr-me",
+  "name": "Српски (Црна Гора)",
+  "locale": "sr-ME",
+  "version": 1,
+  "inherits": "sr"
+}

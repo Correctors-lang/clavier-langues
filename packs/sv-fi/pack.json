@@ -1,0 +1,7 @@
+{
+  "id": "sv-fi",
+  "name": "Svenska (Finland)",
+  "locale": "sv-FI",
+  "version": 1,
+  "inherits": "sv"
+}

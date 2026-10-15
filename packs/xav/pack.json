@@ -1,0 +1,12 @@
+{
+  "id": "xav",
+  "name": "A'uwẽ",
+  "locale": "xav-BR",
+  "version": 1,
+  "layout": "pt_xav.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

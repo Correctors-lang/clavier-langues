@@ -1,0 +1,7 @@
+{
+  "id": "uli",
+  "name": "Ulithian",
+  "locale": "uli-FM",
+  "version": 1,
+  "inherits": "chk"
+}

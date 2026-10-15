@@ -1,0 +1,12 @@
+{
+  "id": "pms",
+  "name": "Piemontèis",
+  "locale": "pms-IT",
+  "version": 1,
+  "layout": "it_pms.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

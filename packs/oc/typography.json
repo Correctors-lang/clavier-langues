@@ -1,0 +1,28 @@
+{
+  "_comment": "Espacement de la ponctuation en francais. thin_space = espace insecable U+00A0 (visible partout).",
+  "thin_space": " ",
+  "space_before": [
+    ";",
+    ":",
+    "!",
+    "?",
+    "»"
+  ],
+  "space_after": [
+    ".",
+    ",",
+    ";",
+    ":",
+    "!",
+    "?",
+    ")",
+    "»",
+    "…"
+  ],
+  "no_space_before": [
+    ".",
+    ",",
+    ")",
+    "…"
+  ]
+}

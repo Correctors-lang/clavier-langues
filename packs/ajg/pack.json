@@ -1,0 +1,13 @@
+{
+  "id": "ajg",
+  "name": "Ajagbe",
+  "locale": "ajg-BJ",
+  "version": 1,
+  "layout": "fr_ajg.json",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt",
+    "typography": "typography.json"
+  },
+  "inherits": "fon"
+}

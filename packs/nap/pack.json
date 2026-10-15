@@ -1,0 +1,12 @@
+{
+  "id": "nap",
+  "name": "Napulitano",
+  "locale": "nap-IT",
+  "version": 1,
+  "layout": "it_nap.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

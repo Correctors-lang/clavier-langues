@@ -1,0 +1,7 @@
+{
+  "id": "ar-sd-ss",
+  "name": "العربية (جنوب السودان)",
+  "locale": "ar-SS",
+  "version": 1,
+  "inherits": "ar-sd"
+}

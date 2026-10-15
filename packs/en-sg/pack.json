@@ -1,0 +1,10 @@
+{
+  "id": "en-sg",
+  "name": "English (Singapore)",
+  "locale": "en-SG",
+  "version": 1,
+  "inherits": "en",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

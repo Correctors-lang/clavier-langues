@@ -1,0 +1,7 @@
+{
+  "id": "nrf-je",
+  "name": "Normaund (Jersey)",
+  "locale": "nrf-JE",
+  "version": 1,
+  "inherits": "nrf"
+}

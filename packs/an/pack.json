@@ -1,0 +1,12 @@
+{
+  "id": "an",
+  "name": "Aragonés",
+  "locale": "an-ES",
+  "version": 1,
+  "layout": "es_an.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "pnb",
+  "name": "پنجابی",
+  "locale": "pnb-PK",
+  "version": 1,
+  "layout": "fa_pnb.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

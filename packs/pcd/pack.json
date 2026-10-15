@@ -1,0 +1,12 @@
+{
+  "id": "pcd",
+  "name": "Picard",
+  "locale": "pcd-FR",
+  "version": 1,
+  "layout": "fr_pcd.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

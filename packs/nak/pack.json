@@ -1,0 +1,12 @@
+{
+  "id": "nak",
+  "name": "Nakanai",
+  "locale": "nak-PG",
+  "version": 1,
+  "layout": "en_nak.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

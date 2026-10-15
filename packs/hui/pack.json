@@ -1,0 +1,12 @@
+{
+  "id": "hui",
+  "name": "Huli",
+  "locale": "hui-PG",
+  "version": 1,
+  "layout": "en_hui.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

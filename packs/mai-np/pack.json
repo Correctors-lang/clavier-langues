@@ -1,0 +1,7 @@
+{
+  "id": "mai-np",
+  "name": "मैथिली (नेपाल)",
+  "locale": "mai-NP",
+  "version": 1,
+  "inherits": "mai"
+}

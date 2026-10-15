@@ -1,0 +1,7 @@
+{
+  "id": "emp-pa",
+  "name": "Emberá (Panama)",
+  "locale": "emp-PA",
+  "version": 1,
+  "inherits": "emp"
+}

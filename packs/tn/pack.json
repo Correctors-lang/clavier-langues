@@ -1,0 +1,12 @@
+{
+  "id": "tn",
+  "name": "Setswana",
+  "locale": "tn-BW",
+  "version": 1,
+  "layout": "en_tn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

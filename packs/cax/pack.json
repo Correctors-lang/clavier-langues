@@ -1,0 +1,12 @@
+{
+  "id": "cax",
+  "name": "Bésɨro",
+  "locale": "cax-BO",
+  "version": 1,
+  "layout": "es_cax.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "fud",
+  "name": "Fakafutuna",
+  "locale": "fud-WF",
+  "version": 1,
+  "inherits": "sm"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "arn-ar",
+  "name": "Mapudungun (Argentina)",
+  "locale": "arn-AR",
+  "version": 1,
+  "inherits": "arn"
+}

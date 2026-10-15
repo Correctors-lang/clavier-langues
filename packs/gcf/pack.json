@@ -1,0 +1,12 @@
+{
+  "id": "gcf",
+  "name": "Kréyòl gwadloupéyen",
+  "locale": "gcf-GP",
+  "version": 1,
+  "layout": "fr_gcf.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "hr-at",
+  "name": "Gradišćanskohrvatski",
+  "locale": "hr-AT",
+  "version": 1,
+  "inherits": "hr"
+}

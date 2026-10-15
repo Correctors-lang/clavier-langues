@@ -1,0 +1,7 @@
+{
+  "id": "oc-vivaro",
+  "name": "Vivaroaupenc",
+  "locale": "oc-FR",
+  "version": 1,
+  "inherits": "oc"
+}

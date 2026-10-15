@@ -1,0 +1,12 @@
+{
+  "id": "sms",
+  "name": "Sääʹmǩiõll",
+  "locale": "sms-FI",
+  "version": 1,
+  "layout": "fi_sms.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,99 @@
+# Français (Belgique) — vocabulaire propre à la variante (liste écrite pour le clavier, travail original).
+# Belgicismes : numération (septante, nonante), repas, vie quotidienne,
+# institutions (bourgmestre, échevin, athénée).
+# Le reste (dictionnaire, lexique, conjugaison, règles) est hérité
+# du pack « fr » — voir pack.json et tools/generateurs/build_fr_variants.py.
+# mot<TAB>fréquence
+athénée	12000
+aubette	3000
+avaloir	3000
+babelutte	3000
+baraki	3000
+bic	30000
+bourgmestre	30000
+brol	12000
+carabistouille	3000
+caricole	3000
+chicon	12000
+chique	12000
+clignoteur	3000
+commune	30000
+cougnou	3000
+couque	12000
+crolle	3000
+crollé	3000
+dikkenek	3000
+drache	12000
+dracher	3000
+déjeuner	30000
+dîner	30000
+essuie	12000
+farde	12000
+filet américain	3000
+gsm	30000
+humanités	12000
+kot	30000
+koter	3000
+kotteur	3000
+latte	12000
+loque	12000
+mallette	12000
+maïs	30000
+non peut-être	3000
+nonante	30000
+nonante et un	12000
+nonante-cinq	12000
+nonante-deux	12000
+nonante-huit	12000
+nonante-neuf	12000
+nonante-quatre	12000
+nonante-sept	12000
+nonante-six	12000
+nonante-trois	12000
+nonante-un	12000
+pain français	3000
+pistolet	12000
+pour une fois	3000
+praline	30000
+précompte	12000
+ramasette	3000
+rhétorique	12000
+régendat	3000
+sacoche	30000
+savoir	30000
+secondaire	30000
+septante	30000
+septante et un	12000
+septante-cinq	12000
+septante-deux	12000
+septante-dix	3000
+septante-dix-huit	3000
+septante-dix-neuf	3000
+septante-dix-sept	3000
+septante-douze	3000
+septante-huit	12000
+septante-neuf	12000
+septante-onze	3000
+septante-quatorze	3000
+septante-quatre	12000
+septante-quinze	3000
+septante-seize	3000
+septante-sept	12000
+septante-six	12000
+septante-treize	3000
+septante-trois	12000
+septante-un	12000
+souper	30000
+spéculoos	30000
+stoemp	3000
+syndic	3000
+tartine	30000
+tirette	12000
+une fois	12000
+unif	12000
+zwanze	3000
+zwanzer	3000
+à tantôt	12000
+ça va savoir	3000
+échevin	30000
+échevinat	3000

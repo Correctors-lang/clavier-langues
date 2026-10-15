@@ -1,0 +1,825 @@
+# Français FAMILIER / ARGOT / VERLAN / LANGAGE JEUNES / INSULTES.
+# Complète la grande liste (words.txt) qui, elle, couvre le courant + le soutenu
+# mais ignore l'argot récent. Un mot par ligne.
+# (Les insultes visant des groupes protégés — racistes, homophobes — sont
+#  volontairement exclues.)
+
+# ---------------------------------------------------------------- familier courant
+# "dz" (2026-09-19, demande explicite) : vraie abréviation/mot courant
+# (Algérie/Algérien), pas du langage SMS — reste toujours actif,
+# contrairement aux abréviations textos (voir words_sms.txt, réglage
+# optionnel désactivé par défaut).
+dz
+truc
+trucs
+machin
+machins
+bidule
+bazar
+bordel
+foutoir
+merdier
+souk
+ramdam
+boucan
+raffut
+chahut
+bagnole
+caisse
+tire
+bouquin
+canard
+baraque
+cambuse
+turne
+piaule
+crèche
+thune
+thunes
+fric
+blé
+oseille
+pognon
+pèze
+flouze
+artiche
+boulot
+taf
+taffe
+taffer
+turbin
+bosser
+gagne-pain
+dodo
+roupillon
+sieste
+clope
+clopes
+cloper
+sèche
+mégot
+binouze
+mousse
+demi
+godasse
+godasses
+pompe
+grolle
+grolles
+tatane
+tatanes
+latte
+lattes
+futal
+falzar
+bénard
+frusques
+fringues
+nippes
+sape
+sapes
+saper
+fripes
+gerber
+dégueuler
+dégobiller
+roter
+morve
+crotte
+cracra
+crade
+crado
+dégueu
+dégueulasse
+craignos
+bouffer
+bouffe
+boulotter
+morfaler
+s'empiffrer
+se goinfrer
+gueuleton
+la dalle
+avoir les crocs
+picoler
+picole
+biberonner
+se cuiter
+se bourrer
+se murger
+se torcher
+cuite
+biture
+murge
+mine
+gueule de bois
+pieuter
+pioncer
+roupiller
+écraser
+mater
+zieuter
+reluquer
+chialer
+brailler
+gueuler
+râler
+rouspéter
+se marrer
+rigoler
+déconner
+charrier
+mytho
+mythoner
+mythonner
+baratin
+baratiner
+embrouille
+embrouiller
+entourloupe
+magouille
+magouiller
+combine
+arnaque
+arnaquer
+gruger
+carotter
+plumer
+dépouiller
+se planquer
+planque
+se casser
+se barrer
+se tirer
+se débiner
+se carapater
+mettre les voiles
+foutre le camp
+dégager
+piger
+capter
+choper
+niquer
+kiffer
+zapper
+speeder
+flipper
+stresser
+galérer
+craquer
+péter un câble
+péter les plombs
+péter un plomb
+disjoncter
+débloquer
+délirer
+planer
+buguer
+lâcher l'affaire
+assurer
+gérer
+déchirer
+dépoter
+envoyer du lourd
+
+# ---------------------------------------------------------------- argot du milieu
+flic
+flics
+keuf
+keufs
+poulet
+poulets
+condé
+cogne
+roussin
+indic
+indics
+balance
+mouchard
+poucave
+cafteur
+cave
+blaireau
+pigeon
+gogo
+truand
+malfrat
+voyou
+loubard
+frappe
+fripouille
+canaille
+gouape
+marlou
+maquereau
+mac
+proxo
+tapin
+tapiner
+michetonner
+micheton
+pute
+putes
+catin
+gagneuse
+braquer
+braquage
+braqueur
+casse
+fric-frac
+cambrioler
+cambriolage
+monte-en-l'air
+dépouille
+arracher
+chourave
+chouraver
+chourer
+faucher
+piquer
+taxer
+entôler
+se faire gauler
+se faire serrer
+se faire pincer
+se faire choper
+se faire coincer
+se faire alpaguer
+taule
+placard
+gnouf
+mitard
+cabane
+trou
+ballon
+maton
+matons
+came
+shit
+teuchi
+teush
+beuh
+weed
+herbe
+oinj
+tarpé
+pétard
+joint
+bédo
+bédave
+bédaver
+teille
+tiser
+se défoncer
+se poser
+être perché
+être chargé
+être fracassé
+être défoncé
+être raide
+être à l'ouest
+être stone
+être bourré
+être torché
+être fait
+être cassé
+avoir la gerbe
+être en PLS
+tomber dans les pommes
+flingue
+calibre
+feu
+pétoire
+seringue
+sulfateuse
+pruneau
+bastos
+plomber
+allumer
+canarder
+dessouder
+buter
+refroidir
+zigouiller
+liquider
+dézinguer
+dégommer
+alpaguer
+ceinturer
+maîtriser
+poucaver
+balancer
+donner
+cracher le morceau
+manger le morceau
+
+# ---------------------------------------------------------------- verlan
+meuf
+meufs
+keum
+keums
+reuf
+reufs
+reum
+reup
+teuf
+teufs
+cimer
+relou
+relous
+chelou
+chelous
+ouf
+vénère
+vénère
+zarbi
+zonzon
+tromé
+pécho
+pécho
+oim
+béton
+laisse béton
+teubé
+teube
+portnawak
+keutru
+féca
+genar
+gaté
+à donf
+chébran
+blème
+iench
+veuch
+reus
+rebeu
+beur
+beurette
+cheum
+demer
+pera
+auche
+séfran
+skeud
+turvé
+zicmu
+teillbou
+tebé
+noich
+zesgo
+askip
+vas-y
+tièks
+tièkspri
+chanmé
+chanmée
+laisse tomber
+
+# ---------------------------------------------------------------- langage jeunes
+wesh
+wsh
+askip
+osef
+oklm
+tranquilou
+tranquille
+kiffe
+kiffé
+kiffait
+seum
+srab
+srabs
+khey
+kheys
+khoya
+wallah
+wallou
+walou
+miskine
+meskine
+hess
+bail
+bails
+bicrave
+bicraver
+teh
+ken
+kené
+taspé
+gow
+gow
+gadji
+gadjo
+daron
+daronne
+darons
+tise
+boloss
+bolos
+noob
+boug
+frér
+fréro
+frérot
+poto
+potos
+gros
+sah
+jpp
+jsp
+mdr
+ptdr
+xptdr
+lol
+oé
+ouais
+grave
+trop
+de ouf
+en vrai
+en soum-soum
+cool
+stylé
+stylée
+class
+classe
+propre
+carré
+frais
+fraîche
+validé
+validay
+chill
+chiller
+ghoster
+ghosté
+crush
+matché
+matcher
+snap
+insta
+story
+posey
+posé
+zbeul
+oskour
+balek
+balec
+je m'en balek
+gênant
+cringe
+malaisant
+malaise
+wtf
+khapta
+khapté
+warrior
+ratpi
+au sicou
+c'est chaud
+c'est carré
+c'est mort
+c'est dead
+mytho
+frais du poto
+gadjo wesh
+t’es sérieux
+sisi
+si si
+easy
+ez
+banger
+bangers
+sur la vie de ma mère
+sur le coran
+zeubi
+zbi
+
+# ---------------------------------------------------------------- insultes / vulgaire
+con
+cons
+conne
+connes
+connard
+connards
+connasse
+connasses
+ducon
+duconnard
+abruti
+abrutie
+abrutis
+crétin
+crétine
+crétins
+débile
+demeuré
+demeurée
+taré
+tarée
+tarés
+dégénéré
+imbécile
+imbéciles
+idiot
+idiote
+idiots
+andouille
+cornichon
+cruche
+gourde
+truffe
+patate
+courge
+buse
+âne bâté
+tête de linotte
+tête de nœud
+tête de con
+tête de gland
+tête de mule
+tête de pioche
+trou du cul
+trouduc
+troufion
+enfoiré
+enfoirée
+enfoirés
+salaud
+salauds
+salopard
+salopards
+saloperie
+salope
+salopes
+ordure
+raclure
+pourriture
+fumier
+charogne
+vermine
+crevure
+chiure
+déchet
+sous-merde
+sac à merde
+tas de merde
+merdeux
+merdeuse
+merdique
+chiant
+chiante
+chieur
+chieuse
+casse-couilles
+casse-bonbons
+casse-pieds
+emmerdeur
+emmerdeuse
+emmerdant
+emmerdante
+emmerder
+emmerde
+enculé
+enculée
+enculés
+enculer
+encule
+nique
+niquer
+niqué
+batard
+bâtard
+bâtarde
+bâtards
+fils de pute
+fdp
+pétasse
+pouffiasse
+pouffe
+grognasse
+greluche
+gonzesse
+morue
+grosse vache
+thon
+boudin
+cageot
+mocheté
+laideron
+tromblon
+gnome
+avorton
+nabot
+demi-portion
+microbe
+crevette
+freluquet
+gringalet
+mauviette
+femmelette
+couille molle
+branleur
+branleuse
+branler
+glandeur
+glandu
+glander
+bras cassé
+manche
+quiche
+brêle
+bouse
+étron
+larve
+loque
+lavette
+tocard
+nullard
+naze
+naze
+minable
+lamentable
+pathétique
+ringard
+plouc
+bouseux
+cul-terreux
+péquenaud
+péquenot
+beauf
+cassos
+clodo
+clochard
+pouilleux
+crevard
+radin
+rapiat
+grippe-sou
+pingre
+avare
+goujat
+malotru
+butor
+mufle
+rustre
+soudard
+paltoquet
+faquin
+maraud
+gredin
+vaurien
+chenapan
+garnement
+galopin
+pignouf
+gros porc
+gros lard
+gros tas
+gros con
+sac à foutre
+
+# ---------------------------------------------------------------- anatomie (grossier)
+bite
+bites
+teub
+zeub
+zboub
+queue
+pine
+dard
+couilles
+roubignoles
+roupettes
+burnes
+valseuses
+joyeuses
+chatte
+moule
+foufoune
+cramouille
+minou
+teuch
+nichon
+nichons
+nibard
+nibards
+néné
+nénés
+lolo
+lolos
+roploplo
+miches
+fesses
+cul
+culs
+derche
+popotin
+fion
+oignon
+rondelle
+troufignon
+raie
+
+# ---------------------------------------------------------------- jurons / exclamations
+putain
+puta
+purée
+punaise
+mince
+zut
+flûte
+merde
+merdouille
+bordel
+bordel de merde
+nom de dieu
+nom d'un chien
+sacrebleu
+morbleu
+palsambleu
+saperlipopette
+sapristi
+fichtre
+diantre
+bon sang
+la vache
+oh la vache
+oh putain
+ta gueule
+tg
+ferme-la
+ferme ta gueule
+boucle-la
+tais-toi
+du balai
+dégage
+casse-toi
+tire-toi
+barre-toi
+fous le camp
+va te faire voir
+va chier
+va au diable
+rien à foutre
+rien à branler
+j'en ai rien à foutre
+osef
+ntm
+
+# ---- argot très récent / "brainrot" (2026-09-18, demande explicite : liste
+#      2026 initiale « wesh/khey/oklm » déjà couverte plus haut, ceci couvre
+#      la vague plus récente signalée manquante) ----
+quoicoubeh
+whippin
+whip
+rizz
+gyat
+skibidi
+delulu
+goat
+drip
+dripé
+stan
+simp
+brainrot
+fanum
+npc
+clanker
+
+# ---- vocabulaire vulgaire courant (2026-09-13, isSlang -> exempte checkCoherence) --
+baise
+baises
+baisé
+baisée
+baisés
+baisées
+baiser
+niques
+niquée
+niqués
+niquées
+encules
+enculées
+branle
+branles
+branlé
+sodomise
+sodomises
+sodomisé
+sodomiser
+suce
+suces
+sucé
+sucer
+chattes
+couille
+enfoire
+batards
+batarde
+batardes
+foutre
+jouir
+jouis
+jouit

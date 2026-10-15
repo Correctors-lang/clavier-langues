@@ -1,0 +1,34 @@
+# Vocabulaire propre à « Italiano (Toscana) » : toscan.
+# mot<TAB>fréquence (échelle de words.txt de la langue).
+# Généré par tools/generateurs/build_variantes_regionales.py — ne pas éditer à la main.
+babbo	3000
+balocco	3000
+bimba	3000
+bimbi	3000
+bimbo	3000
+cencio	3000
+codesta	3000
+codesto	3000
+costì	3000
+garbato	3000
+garbo	3000
+gota	3000
+granata	3000
+punto	3000
+sicché	3000
+acquaio	900
+bischero	900
+boia	900
+budello	900
+ciuco	900
+desinare	900
+diaccio	900
+dianzi	900
+gnamo	900
+grullo	900
+mota	900
+ova	900
+sciocco	900
+straccale	900
+ugne	900
+uscio	900

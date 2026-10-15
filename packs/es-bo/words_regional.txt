@@ -1,0 +1,41 @@
+# Vocabulaire propre à « Español (Bolivia) ».
+# mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
+# Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
+achachila	3000
+anticucho	12000
+api	30000
+camba	30000
+ch'alla	3000
+challa	12000
+challar	12000
+chapa	30000
+chaqueo	3000
+charque	30000
+charquekán	12000
+chicha	30000
+cholita	30000
+chuño	30000
+colla	30000
+cuñapé	3000
+elay	12000
+guagua	30000
+imilla	12000
+jailón	30000
+jallalla	12000
+k'oa	3000
+llajua	30000
+locoto	3000
+majadito	12000
+masaco	12000
+micro	30000
+pique macho	12000
+pucha	30000
+quirquincho	3000
+salteña	30000
+silpancho	30000
+singani	30000
+sopa de maní	12000
+trufi	30000
+tunta	12000
+wawa	30000
+yapa	30000

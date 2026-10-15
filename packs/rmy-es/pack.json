@@ -1,0 +1,7 @@
+{
+  "id": "rmy-es",
+  "name": "Romani ćhib (Spain)",
+  "locale": "rmy-ES",
+  "version": 1,
+  "inherits": "rmy"
+}

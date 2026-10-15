@@ -1,0 +1,12 @@
+{
+  "id": "awa",
+  "name": "अवधी",
+  "locale": "awa-IN",
+  "version": 1,
+  "layout": "deva_awa.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

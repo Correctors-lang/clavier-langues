@@ -1,0 +1,7 @@
+{
+  "id": "nzi-ci",
+  "name": "Nzema (Côte d’Ivoire)",
+  "locale": "nzi-CI",
+  "version": 1,
+  "inherits": "nzi"
+}

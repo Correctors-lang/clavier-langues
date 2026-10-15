@@ -1,0 +1,7 @@
+{
+  "id": "en-ke",
+  "name": "English (Kenya)",
+  "locale": "en-KE",
+  "version": 1,
+  "inherits": "en"
+}

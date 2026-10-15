@@ -1,0 +1,12 @@
+{
+  "id": "xmf",
+  "name": "მარგალური",
+  "locale": "xmf-GE",
+  "version": 1,
+  "layout": "ka_xmf.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "ru-ua",
+  "name": "Русский (Украина)",
+  "locale": "ru-UA",
+  "version": 1,
+  "inherits": "ru"
+}

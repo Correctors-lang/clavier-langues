@@ -1,0 +1,12 @@
+{
+  "id": "mzn",
+  "name": "مازرونی",
+  "locale": "mzn-IR",
+  "version": 1,
+  "layout": "fa_mzn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

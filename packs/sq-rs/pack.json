@@ -1,0 +1,7 @@
+{
+  "id": "sq-rs",
+  "name": "Shqip (Serbi)",
+  "locale": "sq-RS",
+  "version": 1,
+  "inherits": "sq"
+}

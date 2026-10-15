@@ -1,0 +1,7 @@
+{
+  "id": "tg-uz",
+  "name": "Тоҷикӣ (Ӯзбекистон)",
+  "locale": "tg-UZ",
+  "version": 1,
+  "inherits": "tg"
+}

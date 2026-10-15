@@ -1,0 +1,7 @@
+{
+  "id": "kri-gm",
+  "name": "Krio (Gambia)",
+  "locale": "kri-GM",
+  "version": 1,
+  "inherits": "kri"
+}

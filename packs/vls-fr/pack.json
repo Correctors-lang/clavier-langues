@@ -1,0 +1,7 @@
+{
+  "id": "vls-fr",
+  "name": "West-Vlams (France)",
+  "locale": "vls-FR",
+  "version": 1,
+  "inherits": "vls"
+}

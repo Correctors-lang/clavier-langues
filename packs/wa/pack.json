@@ -1,0 +1,12 @@
+{
+  "id": "wa",
+  "name": "Walon",
+  "locale": "wa-BE",
+  "version": 1,
+  "layout": "fr_wa.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

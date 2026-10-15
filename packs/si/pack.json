@@ -1,0 +1,12 @@
+{
+  "id": "si",
+  "name": "සිංහල",
+  "locale": "si-LK",
+  "version": 1,
+  "layout": "sinhala_si.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

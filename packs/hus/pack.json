@@ -1,0 +1,12 @@
+{
+  "id": "hus",
+  "name": "Téenek",
+  "locale": "hus-MX",
+  "version": 1,
+  "layout": "es_hus.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

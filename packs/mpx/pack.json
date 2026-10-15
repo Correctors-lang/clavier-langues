@@ -1,0 +1,12 @@
+{
+  "id": "mpx",
+  "name": "Misima",
+  "locale": "mpx-PG",
+  "version": 1,
+  "layout": "en_mpx.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

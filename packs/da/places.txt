@@ -1,0 +1,76 @@
+# Villes de DK (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Copenhagen
+Århus
+Odense
+Aalborg
+Frederiksberg
+Esbjerg
+Randers
+Kolding
+Horsens
+Vejle
+Hvidovre
+Klinteby Frihed
+Klinteby
+Frihed
+Avedøre
+Roskilde
+Herning
+Silkeborg
+Hørsholm
+Greve
+Hedensted
+Valby
+Næstved
+Viborg
+Fredericia
+Rødovre
+Charlottenlund
+Ballerup
+Køge
+Vanløse
+Hillerød
+Taastrup
+Helsingør
+Holstebro
+Slagelse
+Viby
+Albertslund
+Holbæk
+Sønderborg
+Svendborg
+Indre By
+Indre
+Allerød
+Hjørring
+Nørresundby
+Glostrup
+Ringsted
+Frederikshavn
+Haderslev
+Birkerød
+Farum
+Skive
+Brøndbyvester
+Stenløse
+Nykøbing Falster
+Nykøbing
+Falster
+Ishøj
+Vordingborg
+Nyborg
+Solrød Strand
+Solrød
+Strand
+Frederikssund
+Lillerød
+Vallensbæk
+Tønder
+Aabenraa
+Middelfart
+Kalundborg
+Tilst
+Virum

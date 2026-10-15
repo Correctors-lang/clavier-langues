@@ -1,0 +1,12 @@
+{
+  "id": "tzm",
+  "name": "ⵜⴰⵎⴰⵣⵉⵖⵜ",
+  "locale": "tzm-MA",
+  "version": 1,
+  "layout": "tfng_tzm.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

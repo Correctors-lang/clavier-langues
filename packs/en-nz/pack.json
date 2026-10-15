@@ -1,0 +1,7 @@
+{
+  "id": "en-nz",
+  "name": "English (New Zealand)",
+  "locale": "en-NZ",
+  "version": 1,
+  "inherits": "en"
+}

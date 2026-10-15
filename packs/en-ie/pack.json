@@ -1,0 +1,10 @@
+{
+  "id": "en-ie",
+  "name": "English (Ireland)",
+  "locale": "en-IE",
+  "version": 1,
+  "inherits": "en",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

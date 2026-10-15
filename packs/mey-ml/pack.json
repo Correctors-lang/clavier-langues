@@ -1,0 +1,7 @@
+{
+  "id": "mey-ml",
+  "name": "العربية (Mali)",
+  "locale": "mey-ML",
+  "version": 1,
+  "inherits": "ar-mr"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "guw",
+  "name": "Gungbe",
+  "locale": "guw-BJ",
+  "version": 1,
+  "layout": "fr_guw.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

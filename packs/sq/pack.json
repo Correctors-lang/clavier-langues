@@ -1,0 +1,12 @@
+{
+  "id": "sq",
+  "name": "Shqip",
+  "locale": "sq-AL",
+  "version": 1,
+  "layout": "de_sq.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "eu",
+  "name": "Euskara",
+  "locale": "eu-ES",
+  "version": 1,
+  "layout": "qwerty_eu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

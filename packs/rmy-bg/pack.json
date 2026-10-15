@@ -1,0 +1,7 @@
+{
+  "id": "rmy-bg",
+  "name": "Romani ćhib (Bulgaria)",
+  "locale": "rmy-BG",
+  "version": 1,
+  "inherits": "rmy"
+}

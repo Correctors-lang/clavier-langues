@@ -1,0 +1,7 @@
+{
+  "id": "bn-in",
+  "name": "বাংলা (ভারত)",
+  "locale": "bn-IN",
+  "version": 1,
+  "inherits": "bn"
+}

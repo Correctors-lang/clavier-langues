@@ -1,0 +1,12 @@
+{
+  "id": "crk",
+  "name": "ᓀᐦᐃᔭᐍᐏᐣ",
+  "locale": "crk-CA",
+  "version": 1,
+  "layout": "crk_romanisation.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

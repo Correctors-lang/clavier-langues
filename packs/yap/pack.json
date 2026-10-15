@@ -1,0 +1,12 @@
+{
+  "id": "yap",
+  "name": "Yapese",
+  "locale": "yap-FM",
+  "version": 1,
+  "layout": "en_yap.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

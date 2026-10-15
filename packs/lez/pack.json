@@ -1,0 +1,12 @@
+{
+  "id": "lez",
+  "name": "Лезги",
+  "locale": "lez-RU",
+  "version": 1,
+  "layout": "ru_lez.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

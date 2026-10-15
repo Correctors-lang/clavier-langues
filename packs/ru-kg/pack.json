@@ -1,0 +1,7 @@
+{
+  "id": "ru-kg",
+  "name": "Русский (Киргизия)",
+  "locale": "ru-KG",
+  "version": 1,
+  "inherits": "ru"
+}

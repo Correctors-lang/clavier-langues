@@ -1,0 +1,12 @@
+{
+  "id": "mi",
+  "name": "Te reo Māori",
+  "locale": "mi-NZ",
+  "version": 1,
+  "layout": "en_mi.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

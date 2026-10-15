@@ -1,0 +1,7 @@
+{
+  "id": "en-vu",
+  "name": "English (Vanuatu)",
+  "locale": "en-VU",
+  "version": 1,
+  "inherits": "en"
+}

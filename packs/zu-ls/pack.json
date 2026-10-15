@@ -1,0 +1,7 @@
+{
+  "id": "zu-ls",
+  "name": "isiZulu (iLesotho)",
+  "locale": "zu-LS",
+  "version": 1,
+  "inherits": "zu"
+}

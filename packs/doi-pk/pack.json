@@ -1,0 +1,7 @@
+{
+  "id": "doi-pk",
+  "name": "डोगरी (Pakistan)",
+  "locale": "doi-PK",
+  "version": 1,
+  "inherits": "doi"
+}

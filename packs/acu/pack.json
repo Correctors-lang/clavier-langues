@@ -1,0 +1,12 @@
+{
+  "id": "acu",
+  "name": "Achuar",
+  "locale": "acu-EC",
+  "version": 1,
+  "layout": "es_acu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

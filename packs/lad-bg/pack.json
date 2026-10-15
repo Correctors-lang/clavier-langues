@@ -1,0 +1,7 @@
+{
+  "id": "lad-bg",
+  "name": "Djudeo-espanyol (Bulgaria)",
+  "locale": "lad-BG",
+  "version": 1,
+  "inherits": "lad"
+}

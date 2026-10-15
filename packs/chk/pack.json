@@ -1,0 +1,12 @@
+{
+  "id": "chk",
+  "name": "Chuukese",
+  "locale": "chk-FM",
+  "version": 1,
+  "layout": "en_chk.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

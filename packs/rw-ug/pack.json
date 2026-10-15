@@ -1,0 +1,7 @@
+{
+  "id": "rw-ug",
+  "name": "Ikinyarwanda (Uganda)",
+  "locale": "rw-UG",
+  "version": 1,
+  "inherits": "rw"
+}

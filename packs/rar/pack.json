@@ -1,0 +1,12 @@
+{
+  "id": "rar",
+  "name": "Māori Kūki ʻĀirani",
+  "locale": "rar-CK",
+  "version": 1,
+  "layout": "en_rar.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

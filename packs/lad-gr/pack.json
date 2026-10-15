@@ -1,0 +1,7 @@
+{
+  "id": "lad-gr",
+  "name": "Djudeo-espanyol (Greece)",
+  "locale": "lad-GR",
+  "version": 1,
+  "inherits": "lad"
+}

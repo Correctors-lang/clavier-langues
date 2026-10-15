@@ -1,0 +1,7 @@
+{
+  "id": "en-gy",
+  "name": "English (Guyana)",
+  "locale": "en-GY",
+  "version": 1,
+  "inherits": "en"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fj",
+  "name": "Na Vosa Vakaviti",
+  "locale": "fj-FJ",
+  "version": 1,
+  "layout": "en_fj.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

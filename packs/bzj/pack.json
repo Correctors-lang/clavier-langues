@@ -1,0 +1,12 @@
+{
+  "id": "bzj",
+  "name": "Bileez Kriol",
+  "locale": "bzj-BZ",
+  "version": 1,
+  "layout": "en_bzj.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

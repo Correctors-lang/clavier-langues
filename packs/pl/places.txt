@@ -1,0 +1,464 @@
+# Villes de PL (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Warsaw
+Kraków
+Wrocław
+Łódź
+Poznań
+Gdańsk
+Szczecin
+Lublin
+Bydgoszcz
+Białystok
+Katowice
+Gdynia
+Częstochowa
+Sosnowiec
+Radom
+Mokotów
+Gliwice
+Rzeszów
+Toruń
+Kielce
+Zabrze
+Bytom
+Praga Południe
+Praga
+Południe
+Bielsko-Biala
+Olsztyn
+Ursynów
+Ruda Śląska
+Ruda
+Śląska
+Rybnik
+Wola
+Bielany
+Tychy
+Białołeka
+Opole
+Elbląg
+Płock
+Wałbrzych
+Targówek
+Bemowo
+Włocławek
+Zielona Góra
+Zielona
+Góra
+Tarnów
+Dąbrowa Górnicza
+Dąbrowa
+Górnicza
+Gorzów Wielkopolski
+Gorzów
+Wielkopolski
+Chorzów
+Kalisz
+Koszalin
+Legnica
+Śródmieście
+Słupsk
+Jaworzno
+Jastrzębie Zdrój
+Jastrzębie
+Zdrój
+Psie Pole
+Psie
+Pole
+Praga Północ
+Północ
+Grudziądz
+Nowy Sącz
+Nowy
+Sącz
+Ochota
+Konin
+Piotrków Trybunalski
+Piotrków
+Trybunalski
+Inowrocław
+Lubin
+Jelenia Góra
+Jelenia
+Wawer
+Siedlce
+Piła
+Ostrowiec Świętokrzyski
+Ostrowiec
+Świętokrzyski
+Siemianowice Śląskie
+Siemianowice
+Śląskie
+Ostrów Wielkopolski
+Ostrów
+Mysłowice
+Stargard
+Pabianice
+Gniezno
+Fordon
+Suwałki
+Tomaszów Mazowiecki
+Tomaszów
+Mazowiecki
+Przemyśl
+Stalowa Wola
+Stalowa
+Zamość
+Kędzierzyn-Koźle
+Głogów
+Wrzeszcz
+Leszno
+Żory
+Bełchatów
+Łomża
+Tarnowskie Góry
+Tarnowskie
+Góry
+Świdnica
+Chełm
+Tczew
+Piekary Śląskie
+Piekary
+Mielec
+Racibórz
+Będzin
+Zgierz
+Biała Podlaska
+Biała
+Podlaska
+Ełk
+Świętochłowice
+Pruszków
+Ostrołęka
+Starachowice
+Zawiercie
+Żoliborz
+Legionowo
+Tarnobrzeg
+Puławy
+Wodzisław Śląski
+Wodzisław
+Śląski
+Skarżysko-Kamienna
+Skierniewice
+Kutno
+Krosno
+Dębica
+Ursus
+Nysa
+Starogard Gdański
+Starogard
+Gdański
+Wejherowo
+Ciechanów
+Rumia
+Radomsko
+Zduńska Wola
+Zduńska
+Sieradz
+Kołobrzeg
+Rejon placu Świętego Macieja
+Rejon
+placu
+Świętego
+Macieja
+Otwock
+Bieńczyce
+Żyrardów
+Świnoujście
+Bolesławiec
+Nowa Sól
+Nowa
+Sól
+Świdnik
+Chrzanów
+Knurów
+Sanok
+Mikołów
+Chojnice
+Żary
+Szczecinek
+Sochaczew
+Brzeg
+Jasło
+Olkusz
+Kwidzyn
+Mińsk Mazowiecki
+Mińsk
+Oleśnica
+Malbork
+Wołomin
+Piaseczno
+Włochy
+Kraśnik
+Cieszyn
+Jarosław
+Lębork
+Sopot
+Czechowice-Dziedzice
+Police
+Czeladź
+Oświęcim
+Dzierżoniów
+Nowy Targ
+Targ
+Ostróda
+Myszków
+Zgorzelec
+Oława
+Iława
+Żywiec
+Karłowice-Różanka
+Pilczyce-Kozanów-Popowice Północne
+Pilczyce-Kozanów-Popowice
+Północne
+Ołbin
+Łuków
+Śrem
+Kabaty
+Giżycko
+Ujeścisko-Łostowice
+Łowicz
+Augustów
+Psie Pole Zawidawie
+Zawidawie
+Turek
+Mława
+Bielawa
+Krotoszyn
+Bochnia
+Swarzędz
+Grzegórzki
+Czerwionka-Leszczyny
+Września
+Gorlice
+Gierłoż
+Nowy Dwór Mazowiecki
+Dwór
+Kętrzyn
+Brodnica
+Zakopane
+Piecki-Migowo
+Rejon placu Grunwaldzkiego
+Grunwaldzkiego
+Biłgoraj
+Grodzisk Mazowiecki
+Grodzisk
+Wyszków
+Bielsk Podlaski
+Bielsk
+Podlaski
+Luboń
+Szczytno
+Kluczbork
+Wałcz
+Świecie
+Żagań
+Kłodzko
+Wągrowiec
+Jarocin
+Pszczyna
+Sandomierz
+Nowa Ruda
+Gądów-Popowice Południowe
+Gądów-Popowice
+Południowe
+Białogard
+Przymorze Wielkie
+Przymorze
+Wielkie
+Osiedle Powstańców Śląskich
+Osiedle
+Powstańców
+Śląskich
+Kościan
+Jawor
+Lubliniec
+Skawina
+Pruszcz Gdański
+Pruszcz
+Koło
+Bartoszyce
+Ząbki
+Środmieście
+Prudnik
+Kościerzyna
+Piastów
+Świebodzice
+Marki
+Nadodrze
+Zambrów
+Lubartów
+Grajewo
+Drzetowo-Grabowo
+Ostrów Mazowiecka
+Mazowiecka
+Opoczno
+Goleniów
+Lubań
+Płońsk
+Hajnówka
+Łaziska Górne
+Łaziska
+Górne
+Mrągowo
+Andrychów
+Rembertów
+Rydułtowy
+Gajowice
+Świebodzin
+Środa Wielkopolska
+Środa
+Wielkopolska
+Kamienna Góra
+Kamienna
+Łęczna
+Wrzeszcz Dolny
+Dolny
+Wieluń
+Polkowice
+Rawicz
+Gryfino
+Krzyki-Partynice
+Działdowo
+Wrzeszcz Górny
+Górny
+Gostyń
+Końskie
+Rejon ulicy Traugutta
+ulicy
+Traugutta
+Ozorków
+Chełmno
+Przedmieście Oławskie
+Przedmieście
+Oławskie
+Aleksandrów Łódzki
+Aleksandrów
+Łódzki
+Tomaszów Lubelski
+Lubelski
+Strzelce Opolskie
+Strzelce
+Opolskie
+Wesoła
+Pionki
+Biskupin-Sępolno-Dąbie-Bartoszowice
+Orunia Górna-Gdańsk Południe
+Orunia
+Górna-Gdańsk
+Chodzież
+Bieruń
+Nakło nad Notecią
+Nakło
+nad
+Notecią
+Krasnystaw
+Kęty
+Wadowice
+Pisz
+Gaj
+Sokółka
+Osiedle Kosmonautów
+Kosmonautów
+Pułtusk
+Pyskowice
+Gostynin
+Sierpc
+Trzebinia
+Huby
+Wieliczka
+Międzyrzecz
+Hrubieszów
+Szamotuły
+Łask
+Szczepin
+Orzesze
+Sulejówek
+Złotów
+Braniewo
+Konstantynów Łódzki
+Konstantynów
+Krapkowice
+Łańcut
+Sokołów Podlaski
+Sokołów
+Reda
+Sulechów
+Oborniki
+Józefów
+Libiąż
+Kostrzyn nad Odrą
+Kostrzyn
+Odrą
+Dęblin
+Rawa Mazowiecka
+Rawa
+Myślenice
+Kobyłka
+Pleszew
+Słubice
+Zielonka
+Radlin
+Radzionków
+Międzyrzec Podlaski
+Międzyrzec
+Busko-Zdrój
+Kozienice
+Trzcianka
+Brzesko
+Jędrzejów
+Boguszów-Gorce
+Bytów
+Gryfice
+Przasnysz
+Nowogard
+Gubin
+Rypin
+Konstancin-Jeziorna
+Lidzbark Warmiński
+Lidzbark
+Warmiński
+Bogatynia
+Łapy
+Namysłów
+Lędziny
+Ustka
+Staszów
+Strzegom
+Radzyń Podlaski
+Radzyń
+Świerczewo
+Osowa
+Olecko
+Garwolin
+Kozanów
+Przeworsk
+Milanówek
+Różanka-Polanka
+Choszczno
+Świdwin
+Ustroń
+Nisko
+Złotoryja
+Łęczyca
+Siemiatycze
+Chełmża
+Jelcz Laskowice
+Jelcz
+Laskowice
+Łomianki
+Ropczyce
+Nowy Tomyśl
+Tomyśl
+Solec Kujawski
+Solec
+Kujawski
+Głuchołazy
+Głowno
+Ząbkowice Śląskie
+Ząbkowice
+Kartuzy

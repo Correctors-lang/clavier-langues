@@ -1,0 +1,12 @@
+{
+  "id": "frp",
+  "name": "Arpetan",
+  "locale": "frp-FR",
+  "version": 1,
+  "layout": "fr_frp.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

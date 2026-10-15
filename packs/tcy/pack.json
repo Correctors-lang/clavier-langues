@@ -1,0 +1,12 @@
+{
+  "id": "tcy",
+  "name": "ತುಳು",
+  "locale": "tcy-IN",
+  "version": 1,
+  "layout": "knda_tcy.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

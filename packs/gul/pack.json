@@ -1,0 +1,13 @@
+{
+  "id": "gul",
+  "name": "Gullah",
+  "locale": "gul-US",
+  "version": 1,
+  "layout": "en_gul.json",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt",
+    "typography": "typography.json"
+  },
+  "inherits": "jam"
+}

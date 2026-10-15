@@ -1,0 +1,7 @@
+{
+  "id": "hu-rs",
+  "name": "Magyar (Szerbia)",
+  "locale": "hu-RS",
+  "version": 1,
+  "inherits": "hu"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "fr-pf",
+  "name": "Français (Polynésie française)",
+  "locale": "fr-PF",
+  "version": 1,
+  "inherits": "fr"
+}

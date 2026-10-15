@@ -1,0 +1,7 @@
+{
+  "id": "fr-mf",
+  "name": "Français (Saint-Martin)",
+  "locale": "fr-MF",
+  "version": 1,
+  "inherits": "fr"
+}

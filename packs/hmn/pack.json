@@ -1,0 +1,12 @@
+{
+  "id": "hmn",
+  "name": "Hmoob",
+  "locale": "hmn-LA",
+  "version": 1,
+  "layout": "en_hmn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

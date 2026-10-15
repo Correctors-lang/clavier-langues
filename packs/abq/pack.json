@@ -1,0 +1,12 @@
+{
+  "id": "abq",
+  "name": "Абаза",
+  "locale": "abq-RU",
+  "version": 1,
+  "layout": "ru_abq.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

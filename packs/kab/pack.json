@@ -1,0 +1,12 @@
+{
+  "id": "kab",
+  "name": "Taqbaylit",
+  "locale": "kab-DZ",
+  "version": 1,
+  "layout": "fr_kab.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

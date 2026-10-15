@@ -1,0 +1,54 @@
+# Vocabulaire propre à « Español (Venezuela) ».
+# mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
+# Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
+arepa	30000
+arepera	12000
+bochinche	3000
+bolo	30000
+bolívar	30000
+burda	30000
+cachapa	30000
+cambur	30000
+carajito	30000
+caraota	30000
+caraotas	30000
+casabe	12000
+catire	30000
+chama	30000
+chamo	30000
+chicha	12000
+chimbo	30000
+chulo	30000
+chévere	30000
+cobre	12000
+coroto	30000
+corotos	30000
+cotufa	30000
+cuaima	12000
+echar los perros	3000
+enchufado	3000
+guachimán	30000
+guayoyo	12000
+hallaca	30000
+jalar bola	3000
+jeva	3000
+ladilla	12000
+lechosa	30000
+malandro	3000
+mamarracho	12000
+marrón	12000
+musiú	12000
+pabellón	30000
+pana	30000
+papelón	12000
+parguero	3000
+patilla	30000
+pavo	12000
+pelabola	3000
+pepito	12000
+perico	30000
+real	12000
+sifrino	3000
+tequeño	30000
+vaina	30000
+zaperoco	12000

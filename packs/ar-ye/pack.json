@@ -1,0 +1,12 @@
+{
+  "id": "ar-ye",
+  "name": "العربية (اليمن)",
+  "locale": "ar-YE",
+  "version": 1,
+  "layout": "ar_mashreq.json",
+  "inherits": "ar",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "srr",
+  "name": "Seereer",
+  "locale": "srr-SN",
+  "version": 1,
+  "layout": "fr_srr.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

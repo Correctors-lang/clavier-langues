@@ -1,0 +1,12 @@
+{
+  "id": "ay",
+  "name": "Aymar aru",
+  "locale": "ay-BO",
+  "version": 1,
+  "layout": "es_ay.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

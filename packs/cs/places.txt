@@ -1,0 +1,178 @@
+# Villes de CZ (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Prague
+Brno
+Ostrava
+Pilsen
+Liberec
+Olomouc
+České Budějovice
+České
+Budějovice
+Hradec Králové
+Hradec
+Králové
+Ústí nad Labem
+Ústí
+nad
+Labem
+Pardubice
+Brno střed
+střed
+Havířov
+Zlín
+Kladno
+Most
+Stodůlky
+Žižkov
+Opava
+Frýdek-Místek
+Teplice
+Jihlava
+Chodov
+Královské Vinohrady
+Královské
+Vinohrady
+Karviná
+Mladá Boleslav
+Mladá
+Boleslav
+Chomutov
+Děčín
+Jablonec nad Nisou
+Jablonec
+Nisou
+Karlovy Vary
+Karlovy
+Vary
+Prostějov
+Přerov
+Staré Strašnice
+Staré
+Strašnice
+Holešovice
+Vršovice
+Česká Lípa
+Česká
+Lípa
+Libeň
+Znojmo
+Záběhlice
+Nusle
+Smíchov
+Třebíč
+Tábor
+Modřany
+Třinec
+Kolín
+Cheb
+Příbram
+Písek
+Trutnov
+Šumperk
+Kroměříž
+Orlová
+Krč
+Nové Město
+Nové
+Město
+Kobylisy
+Nový Jičín
+Nový
+Jičín
+Břeclav
+Český Těšín
+Český
+Těšín
+Vsetín
+Uherské Hradiště
+Uherské
+Hradiště
+Bystrc
+Líšeň
+Litoměřice
+Královo Pole
+Královo
+Pole
+Chrudim
+Hlubočepy
+Dejvice
+Havlíčkův Brod
+Havlíčkův
+Brod
+Hodonín
+Starý Bohumín
+Starý
+Bohumín
+Klatovy
+Valašské Meziříčí
+Valašské
+Meziříčí
+Černý Most
+Černý
+Řepy
+Krnov
+Strakonice
+Litvínov
+Háje
+Sokolov
+Kutná Hora
+Kutná
+Hora
+Beroun
+Letňany
+Michle
+Náchod
+Kopřivnice
+Brandýs nad Labem-Stará Boleslav
+Brandýs
+Labem-Stará
+Vyškov
+Žďár nad Sázavou
+Žďár
+Sázavou
+Jindřichův Hradec
+Jindřichův
+Mělník
+Blansko
+Žabovřesky
+Hostivař
+Jirkov
+Žatec
+Židenice
+Kadaň
+Louny
+Hranice
+Braník
+Vysočany
+Kralupy nad Vltavou
+Kralupy
+Vltavou
+Říčany
+Slaný
+Otrokovice
+Rožnov pod Radhoštěm
+Rožnov
+pod
+Radhoštěm
+Benešov
+Prosek
+Pelhřimov
+Bohnice
+Uherský Brod
+Uherský
+Neratovice
+Košíře
+Svitavy
+Nymburk
+Střížkov
+Rakovník
+Ostrov
+Dvůr Králové nad Labem
+Dvůr
+Horní Měcholupy
+Horní
+Měcholupy
+Poděbrady

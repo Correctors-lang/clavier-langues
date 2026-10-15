@@ -1,0 +1,7 @@
+{
+  "id": "cal",
+  "name": "Refaluwasch",
+  "locale": "cal-MP",
+  "version": 1,
+  "inherits": "chk"
+}

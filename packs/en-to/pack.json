@@ -1,0 +1,7 @@
+{
+  "id": "en-to",
+  "name": "English (Tonga)",
+  "locale": "en-TO",
+  "version": 1,
+  "inherits": "en"
+}

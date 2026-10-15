@@ -1,0 +1,12 @@
+{
+  "id": "km",
+  "name": "ខ្មែរ",
+  "locale": "km-KH",
+  "version": 1,
+  "layout": "km_national.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

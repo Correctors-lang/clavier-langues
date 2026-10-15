@@ -1,0 +1,13 @@
+{
+  "id": "pov",
+  "name": "Kriyol",
+  "locale": "pov-GW",
+  "version": 1,
+  "layout": "pt_pov.json",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt",
+    "typography": "typography.json"
+  },
+  "inherits": "kea"
+}

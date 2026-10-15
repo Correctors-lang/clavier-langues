@@ -1,0 +1,12 @@
+{
+  "id": "mni",
+  "name": "মৈতৈলোন্",
+  "locale": "mni-IN",
+  "version": 1,
+  "layout": "beng_mni.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "iba",
+  "name": "Jaku Iban",
+  "locale": "iba-MY",
+  "version": 1,
+  "layout": "en_iba.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

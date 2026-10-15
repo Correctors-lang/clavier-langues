@@ -1,0 +1,7 @@
+{
+  "id": "emk-ml",
+  "name": "Maninkakan (Mali)",
+  "locale": "emk-ML",
+  "version": 1,
+  "inherits": "emk"
+}

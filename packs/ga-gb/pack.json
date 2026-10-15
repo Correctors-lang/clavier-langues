@@ -1,0 +1,7 @@
+{
+  "id": "ga-gb",
+  "name": "Gaeilge (an Ríocht Aontaithe)",
+  "locale": "ga-GB",
+  "version": 1,
+  "inherits": "ga"
+}

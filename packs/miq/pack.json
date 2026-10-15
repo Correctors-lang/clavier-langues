@@ -1,0 +1,12 @@
+{
+  "id": "miq",
+  "name": "Miskitu",
+  "locale": "miq-NI",
+  "version": 1,
+  "layout": "es_miq.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

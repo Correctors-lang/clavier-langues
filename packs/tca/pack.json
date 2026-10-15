@@ -1,0 +1,12 @@
+{
+  "id": "tca",
+  "name": "Magüta",
+  "locale": "tca-CO",
+  "version": 1,
+  "layout": "es_tca.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "om",
+  "name": "Afaan Oromoo",
+  "locale": "om-ET",
+  "version": 1,
+  "layout": "en_om.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

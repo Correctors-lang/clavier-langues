@@ -1,0 +1,7 @@
+{
+  "id": "lad-tr",
+  "name": "Djudeo-espanyol (Türkiye)",
+  "locale": "lad-TR",
+  "version": 1,
+  "inherits": "lad"
+}

@@ -1,0 +1,636 @@
+# Villes de PH (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Quezon City
+Quezon
+City
+Davao
+Caloocan
+Manila
+Taguig
+Budta
+Malingao
+Zamboanga
+Cebu City
+Cebu
+Antipolo
+Pasig City
+Pasig
+Cagayan de Oro
+Cagayan
+Oro
+Valenzuela
+General Santos
+General
+Santos
+Paranaque City
+Paranaque
+Las Piñas
+Las
+Piñas
+Calamba
+Muntinlupa
+Makati City
+Makati
+Lapu-Lapu City
+Lapu-Lapu
+Angeles City
+Angeles
+Imus
+Iloilo
+Marikina City
+Marikina
+Mandaluyong City
+Mandaluyong
+Bacolod City
+Bacolod
+Mansilingan
+Dasmariñas
+Pasay
+Tarlac City
+Tarlac
+Cotabato
+Malabon
+San Jose del Monte
+San
+Jose
+del
+Monte
+Bacoor
+San Pedro
+Pedro
+Cabanatuan City
+Cabanatuan
+Iligan
+Mandaue City
+Mandaue
+Iligan City
+Butuan
+Cabuyao
+San Pablo
+Pablo
+Biñan
+Santol
+Cainta
+Baguio
+Malolos
+Mantampay
+Bagong Silang
+Bagong
+Silang
+Marawi City
+Marawi
+Tacloban
+San Fernando
+Fernando
+Libertad
+Navotas
+Ormoc
+Batangas
+Magugpo Poblacion
+Magugpo
+Poblacion
+Taytay
+Lucena
+Meycauayan
+NIA Valencia
+NIA
+Valencia
+Puerto Princesa
+Puerto
+Princesa
+Olongapo
+Binangonan
+Santa Rosa
+Santa
+Rosa
+Commonwealth
+Lipa City
+Lipa
+Panabo
+Kabankalan
+Toledo
+Pagadian
+Koronadal
+Bago City
+Bago
+Panalanoy
+Mabalacat City
+Mabalacat
+Sorsogon
+Roxas City
+Roxas
+Legaspi
+Concepcion
+Naga
+Dagupan
+Tuguegarao
+Ilagan
+Pandi
+Capas
+Mariveles
+Guyong
+Urdaneta
+San Jose
+La Trinidad
+Trinidad
+Norzagaray
+Gingoog
+Candelaria
+Baliuag
+Angono
+Rodriguez
+San Mateo
+Mateo
+San Juan
+Juan
+Talisay
+Muricay
+Bulaon
+Gapan
+Bayambang
+Cadiz
+Rosario
+Pulong Santa Cruz
+Pulong
+Cruz
+Bayawan
+Santa Cruz
+Sultan Kudarat
+Sultan
+Kudarat
+Hagonoy
+Tabuk
+Calumpit
+Apalit
+Plaridel
+Malita
+Guiguinto
+Manolo Fortich
+Manolo
+Fortich
+Midsayap
+Himamaylan
+Los Baños
+Los
+Baños
+Tacurong
+Dinaig
+Digos
+Cavite City
+Cavite
+Tayabas
+Iriga City
+Iriga
+Dumaguete
+Carmona
+Laoag
+Pulilan
+Bayugan
+Maramag
+Santiago
+Catbalogan
+Bagong Silangan
+Silangan
+Paniqui
+Mati
+Tanza
+Putatan
+Isulan
+Jolo
+Calasiao
+Bislig
+Bocaue
+Catarman
+Escalante
+Monkayo
+General Trias
+Trias
+Daanbantayan
+Dipolog
+Kalibo
+Ozamiz City
+Ozamiz
+Banco Filipino Homes
+Banco
+Filipino
+Homes
+Banga
+Surallah
+Sablayan
+Prosperidad
+Alabel
+Calauan
+Polangui
+Calabanga
+Mangaldan
+Bais
+Arayat
+Surigao
+Tagaytay
+Dapitan
+Maco
+Bantayan
+Victorias
+Tagbilaran City
+Tagbilaran
+Muñoz
+Tanjay
+Binonga
+Marilao
+Bulacan
+Malapatan
+Pagbilao
+Limay
+Lambayong
+Bustos
+Paco
+San Francisco
+Francisco
+Kidapawan
+Tupi
+Bamban
+Daet
+Bauang
+Bagong Barrio
+Barrio
+Brookes Point
+Brookes
+Point
+Virac
+Alicia
+Sipalay
+Don Carlos
+Don
+Carlos
+Kawit
+Balanga
+Port Area
+Port
+Area
+Sagay
+La Paz
+Paz
+Solana
+Borongan
+Oroquieta
+Buenavista
+Mariano
+Danao
+Mauban
+Indang
+Bongabon
+San Leonardo
+Leonardo
+Calauag
+Magalang
+Libon
+Lupon
+Tanauan
+Aparri
+Calbayog City
+Calbayog
+Angat
+La Carlota
+Carlota
+Subic
+Rosales
+City of Isabela
+Isabela
+Dinalupihan
+Calapan
+San Ildefonso
+Ildefonso
+San Miguel
+Miguel
+Villasis
+Oas
+Talavera
+Enrique B. Magalona
+Enrique
+Magalona
+Polomolok
+Pateros
+Orion
+Nasugbu
+Tinongan
+Minglanilla
+Malaybalay
+Tunasan
+Gubat
+Buluan
+Ualog
+Cogan
+Bambang
+Tanay
+Obando
+Balagtas
+Itogon
+Manaoag
+Jose Rizal
+Rizal
+Bañga
+Paombong
+Magsaysay
+Tabaco
+Cupang
+Santo Tomas
+Santo
+Tomas
+Batac City
+Batac
+Lingayen
+Masinloc
+Impasugong
+Lubao
+Naic
+Estancia
+Burauen
+Sibonga
+Mercedes
+Zaragoza
+Patuto
+Kalamansig
+Maluñgun
+Victoria
+Cardona
+El Nido
+Nido
+Siocon
+Bunawan
+Tubod
+Balayan
+Cabiao
+Morong
+Liloan
+Consolacion
+Vigan
+Inabanga
+Norala
+Bangued
+Bayombong
+Masbate
+Upper Bicutan
+Upper
+Bicutan
+Candaba
+Santa Ana
+Ana
+Noveleta
+Bugo
+Vinzons
+Sariaya
+Parang
+Orani
+Canlaon
+Hinatuan
+Amadeo
+Binmaley
+Mexico
+Samal
+Pinamalayan
+Passi
+Recodo
+Compostela
+Balulang
+Maragondon
+Masantol
+Tagbina
+Malilipot
+Gerona
+Carcar
+Mamatid
+Taal
+Jaen
+Camiling
+Hinigaran
+San Pascual
+Pascual
+Pantubig
+Talipapa
+Sultan sa Barongis
+Barongis
+Papaya
+San Antonio
+Antonio
+Binalbagan
+Bayanan
+Calaca
+Del Pilar
+Pilar
+Pandan
+Bantay
+Mendez-Nuñez
+Ramon
+Solano
+Bel Air
+Bel
+Air
+Tagudin
+Abucay
+Jalajala
+Teresa
+Pila
+Manapla
+San Nicolas
+Nicolas
+Aliaga
+Baclaran
+Hermosa
+Bauan
+Bay
+Jetafe
+San Luis
+Luis
+Dupax Del Norte
+Dupax
+Norte
+General Tinio
+Tinio
+Jagna
+Guimba
+Quiapo
+San Narciso
+Narciso
+Kabacan
+Alaminos
+Maluso
+General Salipada K. Pendatun
+Salipada
+Pendatun
+Cabadbaran
+Pagaluñgan
+Lucban
+Aglipay
+Paraiso
+Pililla
+Tagoloan
+Lumbang
+Buhi
+Malvar
+Aringay
+Tangub
+Bagong Pagasa
+Pagasa
+Atimonan
+Cordova
+Mapun
+San Simon
+Simon
+Tandag
+Agoo
+Bah-Bah
+Pandacaqui
+Bulan
+Majayjay
+Narra
+Burgos
+Sibulan
+Santa Maria
+Maria
+Peñaranda
+Pulupandan
+Castillejos
+Iba
+Paete
+Catanauan
+Bongao
+Santa Catalina
+Catalina
+Sanchez-Mira
+Telabastagan
+Maao
+Lopez
+Nabua
+Concepcion Ibaba
+Ibaba
+Pangil
+Cabagan
+Ayala Alabang
+Ayala
+Alabang
+Baggabag B
+Baggabag
+Manibaug Pasig
+Manibaug
+Nagcarlan
+La Castellana
+Castellana
+Pio
+General Emilio Aguinaldo
+Emilio
+Aguinaldo
+Glan
+Mamburao
+Palayan City
+Palayan
+Al-Barka
+Bogo
+Asia
+Bontoc
+Culion
+Pinamungahan
+Mansalay
+Botolan
+Guihulñgan
+Apas
+Gumaca
+Bignay Uno
+Bignay
+Uno
+Balamban
+Guiset East
+Guiset
+East
+Loma de Gato
+Loma
+Gato
+Malanday
+Lake Sebu
+Lake
+Sebu
+Porac
+Cuenca
+Bansalan
+Inopacan
+Jose Pañganiban
+Pañganiban
+Dupax del Sur
+Sasmuan
+Molave
+Goa
+Irosin
+New Corella
+New
+Corella
+Binondo
+Taloc
+Manay
+Baras
+Sampaloc
+Ternate
+Pacol
+Talitay
+Suay
+Baao
+Malabanban Norte
+Malabanban
+Laur
+Ipil
+Lagawe
+Nunungan
+Sumag
+San Marcelino
+Marcelino
+San Mariano
+General Mamerto Natividad
+Mamerto
+Natividad
+Maasin
+Veruela
+Labo
+Del Remedio
+Remedio
+Wao
+Laguilayan
+Baybay
+Palo
+Esperanza
+Carigara
+Murcia
+Maganoy
+Sitangkai
+Mahayag
+Bato
+Tiwi
+Laoang
+Nabunturan
+Cabayangan
+Jasaan
+Loboc
+Zumarraga
+Aurora
+San Vicente
+Vicente
+Calatagan
+Novaliches Proper
+Novaliches
+Proper
+Trento
+Mankayan
+Abuyog
+Calumpang
+Talacogon
+Diadi
+Boroon
+Santa Barbara
+Barbara
+Romblon
+Tagas
+Lilio
+Magarao
+Dologon
+Domalanoan
+Ramos
+Babo-Pangulo

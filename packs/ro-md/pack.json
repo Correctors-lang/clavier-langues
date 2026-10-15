@@ -1,0 +1,7 @@
+{
+  "id": "ro-md",
+  "name": "Română (Republica Moldova)",
+  "locale": "ro-MD",
+  "version": 1,
+  "inherits": "ro"
+}

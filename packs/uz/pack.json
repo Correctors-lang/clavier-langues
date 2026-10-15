@@ -1,0 +1,12 @@
+{
+  "id": "uz",
+  "name": "Oʻzbekcha",
+  "locale": "uz-UZ",
+  "version": 1,
+  "layout": "en_uz.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

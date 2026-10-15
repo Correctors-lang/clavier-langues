@@ -1,0 +1,33 @@
+# Vocabulaire propre à « Bahasa Melayu (Singapura) » : malais de Singapour.
+# mot<TAB>fréquence (échelle de words.txt de la langue).
+# Généré par tools/generateurs/build_variantes_regionales.py — ne pas éditer à la main.
+bedok	5000
+bishan	5000
+changi	5000
+clementi	5000
+geylang serai	5000
+jurong	5000
+kampung glam	5000
+punggol	5000
+sengkang	5000
+sentosa	5000
+singapura	5000
+tampines	5000
+warga singapura	5000
+woodlands	5000
+yishun	5000
+ang mo kio	1500
+berita harian	1500
+bukit timah	1500
+cpf	1500
+hdb	1500
+hougang	1500
+kallang	1500
+majlis ugama islam singapura	1500
+mrt	1500
+muis	1500
+pasir ris	1500
+pulau tekong	1500
+pulau ubin	1500
+serangoon	1500
+toa payoh	1500

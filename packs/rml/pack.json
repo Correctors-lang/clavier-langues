@@ -1,0 +1,7 @@
+{
+  "id": "rml",
+  "name": "Romani (Baltic)",
+  "locale": "rml-PL",
+  "version": 1,
+  "inherits": "rmn"
+}

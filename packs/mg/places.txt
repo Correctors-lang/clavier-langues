@@ -1,0 +1,121 @@
+# Villes de MG (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Antananarivo
+Toamasina
+Antsirabe
+Mahajanga
+Fianarantsoa
+Toliara
+Antsiranana
+Sambava
+Imerintsiatosika
+Antalaha
+Tôlanaro
+Antanifotsy
+Ambovombe
+Ambilobe
+Ambanja
+Moramanga
+Antsalova
+Morondava
+Hell-Ville
+Ivato
+Ambatondrazaka
+Amboasary
+Tsiroanomandidy
+Manakara
+Ambalavao
+Maroantsetra
+Fenoarivo Atsinanana
+Fenoarivo
+Atsinanana
+Ambositra
+Soavinandriana
+Ihosy
+Marovoay
+Vangaindrano
+Antsohihy
+Ampanihy
+Mahanoro
+Ambatofinandrahana
+Andilamena
+Soanierana Ivongo
+Soanierana
+Ivongo
+Ikongo
+Vavatenina
+Faratsiho
+Mananara
+Nosy Varika
+Nosy
+Varika
+Farafangana
+Andapa
+Betafo
+Ambato Boeny
+Ambato
+Boeny
+Amparafaravola
+Ambatolampy
+Maromandia
+Didy
+Ambodimanga II
+Ambodimanga
+Bealanana
+Antsohimbondrona
+Itampolo
+Fandriana
+Mampikony
+Arivonimamo
+Tsiombe
+Ankazobe
+Ambodifotatra
+Sahavato
+Maevatanana
+Betioky
+Vohipaho
+Miandrarivo
+Mananjary
+Tsaratanana
+Marolambo
+Ankazoabo
+Anjozorobe
+Vohibinany
+Ambohidratrimo
+Ampahana
+Morombe
+Boriziny
+Belo sur Tsiribihina
+Belo
+Tsiribihina
+Maintirano
+Manjakandriana
+Iharan̈a
+Beloha
+Ivohibe
+Jafaro
+Sakaraha
+Miandrivazo
+Soanindrariny
+Sitampiky
+Ampasimanolotra
+Bekily
+Vondrozo
+Fenoarivo Be
+Beroroha
+Befandriana
+Betroka
+Sadabe
+Ambohitrolomahitsy
+Amboanjo
+Vatomandry
+Ifanadiana
+Ambarakaraka
+Ankazondandy
+Alarobia
+Vohipeno
+Ikalamavony
+Soalala
+Imerimandroso

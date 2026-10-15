@@ -1,0 +1,12 @@
+{
+  "id": "qu",
+  "name": "Runasimi",
+  "locale": "qu-PE",
+  "version": 1,
+  "layout": "es_qu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

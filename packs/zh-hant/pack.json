@@ -1,0 +1,13 @@
+{
+  "id": "zh-hant",
+  "name": "繁體中文",
+  "locale": "zh-TW",
+  "version": 1,
+  "layout": "zh_hant_qwerty.json",
+  "files": {
+    "words": "words.txt",
+    "readings": "readings.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

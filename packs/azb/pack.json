@@ -1,0 +1,12 @@
+{
+  "id": "azb",
+  "name": "تۆرکجه",
+  "locale": "azb-IR",
+  "version": 1,
+  "layout": "fa_azb.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

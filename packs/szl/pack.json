@@ -1,0 +1,12 @@
+{
+  "id": "szl",
+  "name": "Ślōnskŏ gŏdka",
+  "locale": "szl-PL",
+  "version": 1,
+  "layout": "pl_szl.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

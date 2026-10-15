@@ -1,0 +1,12 @@
+{
+  "id": "ch",
+  "name": "Chamoru",
+  "locale": "ch-GU",
+  "version": 1,
+  "layout": "en_ch.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

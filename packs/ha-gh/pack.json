@@ -1,0 +1,7 @@
+{
+  "id": "ha-gh",
+  "name": "Hausa (Gana)",
+  "locale": "ha-GH",
+  "version": 1,
+  "inherits": "ha"
+}

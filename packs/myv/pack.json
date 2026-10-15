@@ -1,0 +1,12 @@
+{
+  "id": "myv",
+  "name": "Эрзянь",
+  "locale": "myv-RU",
+  "version": 1,
+  "layout": "ru_myv.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

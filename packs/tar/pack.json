@@ -1,0 +1,12 @@
+{
+  "id": "tar",
+  "name": "Rarámuri",
+  "locale": "tar-MX",
+  "version": 1,
+  "layout": "es_tar.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

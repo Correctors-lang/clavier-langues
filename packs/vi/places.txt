@@ -1,0 +1,599 @@
+# Villes de VN (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Ho Chi Minh City
+Chi
+Minh
+City
+Hanoi
+Haiphong
+Cần Thơ
+Cần
+Thơ
+Huế
+Da Nang
+Nang
+Biên Hòa
+Biên
+Hòa
+Thanh Hóa
+Thanh
+Hóa
+Vinh
+Thuận An
+Thuận
+Nha Trang
+Nha
+Trang
+Chợ Lớn
+Chợ
+Lớn
+Bình Thạnh
+Bình
+Thạnh
+Thủ Đức
+Thủ
+Đức
+Qui Nhon
+Qui
+Nhon
+Vũng Tàu
+Vũng
+Tàu
+Dĩ An
+Rạch Giá
+Rạch
+Giá
+Bắc Giang
+Bắc
+Giang
+Nam Định
+Nam
+Định
+Buôn Ma Thuột
+Buôn
+Thuột
+Thái Nguyên
+Thái
+Nguyên
+Việt Trì
+Việt
+Trì
+Quận Mười
+Quận
+Mười
+Thủ Dầu Một
+Dầu
+Một
+Đống Đa
+Đống
+Bến Cát
+Bến
+Cát
+Long Bien
+Long
+Bien
+Bắc Từ Liêm
+Liêm
+Quận Mười Một
+Gia Lâm
+Gia
+Lâm
+An Nhơn
+Nhơn
+Hai Bà Trưng
+Hai
+Trưng
+Nghi Sơn
+Nghi
+Sơn
+Phu Quoc
+Phu
+Quoc
+Thanh Xuân
+Xuân
+Cầu Giấy
+Cầu
+Giấy
+Bắc Ninh
+Ninh
+Phú Mỹ
+Phú
+Long Xuyên
+Xuyên
+Ba Vì
+Quảng Ngãi
+Quảng
+Ngãi
+Quận Sáu
+Sáu
+Mỹ Tho
+Tho
+Hạ Long
+Hà Tĩnh
+Tĩnh
+Ðà Lạt
+Lạt
+Xuân Lộc
+Lộc
+Thị Trấn Đông Triều
+Thị
+Trấn
+Đông
+Triều
+Hải Dương
+Hải
+Dương
+Thành Phố Bà Rịa
+Thành
+Phố
+Rịa
+Phổ Yên
+Phổ
+Yên
+Sơn Tây
+Tây
+Ninh Hòa
+Phan Thiết
+Phan
+Thiết
+Điện Bàn
+Điện
+Bàn
+Cà Mau
+Mau
+Ba Dinh
+Dinh
+Sóc Trăng
+Sóc
+Trăng
+Chí Linh
+Chí
+Linh
+Quận Ba
+Tân An
+Tân
+Sa Dec
+Dec
+Cao Lãnh
+Cao
+Lãnh
+Phan Rang-Tháp Chàm
+Rang-Tháp
+Chàm
+Việt Yên
+Kon Tum
+Kon
+Tum
+Thanh Khê
+Khê
+Lạng Sơn
+Lạng
+Thuận Thanh
+Quận Bốn
+Bốn
+Cẩm Phả
+Cẩm
+Phả
+Quận Năm
+Năm
+Vĩnh Châu
+Vĩnh
+Châu
+Phúc Yên
+Phúc
+Phú Quốc
+Quốc
+Thị Trấn Đại Từ
+Đại
+Tân Châu
+Long Khánh
+Khánh
+Bảo Lộc
+Bảo
+Tây Hồ
+Đồng Xoài
+Đồng
+Xoài
+Tam Kỳ
+Tam
+Ðông Hà
+Ðông
+Trảng Bàng
+Trảng
+Bàng
+Đưc Trọng
+Đưc
+Trọng
+La Gi
+Trà Vinh
+Trà
+Thốt Nốt
+Thốt
+Nốt
+Bạc Liêu
+Bạc
+Liêu
+Tuy Hòa
+Tuy
+Đức Phổ
+Thị Trấn Thuận Châu
+Cần Giuộc
+Giuộc
+Kỳ Anh
+Anh
+Hòa Thành
+Cam Ranh
+Cam
+Ranh
+Giá Rai
+Rai
+Huyện Lâm Hà
+Huyện
+Tịnh Biên
+Tịnh
+Cai Lậy
+Cai
+Lậy
+Vĩnh Long
+Phủ Lý
+Phủ
+Tương Mai
+Tương
+Mai
+Hoàn Kiếm
+Hoàn
+Kiếm
+Cẩm Phả Mines
+Mines
+Tây Ninh
+Đồng Hới
+Hới
+Quận Đức Thịnh
+Thịnh
+Hải Châu
+Lào Cai
+Lào
+Sầm Sơn
+Sầm
+Ô Môn
+Môn
+Thành phố Sông Công
+Sông
+Công
+Buôn Hồ
+Chũ
+Bến Tre
+Tre
+Chơn Thành
+Chơn
+Bồ Đề
+Hòa Cường
+Cường
+Vĩnh Yên
+Bắc Quang
+Quang
+Hưng Yên
+Hưng
+Kiến An
+Kiến
+Cờ Đỏ
+Mỹ Hào
+Hào
+Phong Điền
+Phong
+Điền
+Pleiku
+Bình Thủy
+Thủy
+Hoàng Mai
+Hoàng
+Gò Vấp
+Vấp
+Thới Lai
+Thới
+Lai
+Móng Cái
+Móng
+Cái
+Yên Vinh
+Ba Đồn
+Đồn
+Sơn La
+Hòa Bình
+Tuyên Quang
+Tuyên
+Ngã Bảy
+Ngã
+Bảy
+Hồng Ngự
+Hồng
+Ngự
+Yên Bái
+Bái
+Hà Tiên
+Tiên
+Vĩnh Thạnh
+Gò Công
+Nghĩa Đô
+Nghĩa
+Hương Thủy
+Hương
+Bình Minh
+Sông Cầu
+Khương Đình
+Khương
+Đình
+Phú Thọ
+Thọ
+Bạch Mai
+Bạch
+Tân Bình
+Thượng Cát
+Thượng
+Sơn Trà
+Vĩnh Tuy
+Cái Răng
+Răng
+Định Công
+Sóc Sơn
+Gia Nghĩa
+Dien Bien Phu
+Dien
+Đông Ngạc
+Ngạc
+An Hải
+An Khê
+Lai Vung
+Vung
+Cung Kiệm
+Cung
+Kiệm
+Cẩm Lệ
+Yên Hòa
+Giảng Võ
+Giảng
+Thanh Liệt
+Liệt
+Củ Chi
+Cao Bằng
+Bằng
+Hương Trà
+Thị Trấn Mạo Khê
+Mạo
+Kiến Hưng
+Cổ Đô
+Châu Đốc
+Đốc
+Linh Đàm
+Đàm
+Duyên Hải
+Duyên
+Núi Thành
+Núi
+Nghĩa Lộ
+Phúc Lợi
+Lợi
+Thái Hòa
+Từ Sơn
+Thành Phố Uông Bí
+Uông
+Long Mỹ
+Vinhomes Ocean Park
+Vinhomes
+Ocean
+Park
+Dại Mỗ
+Dại
+Ngã Năm
+Trảng Bom
+Bom
+Châu Phong
+Dương Nội
+Nội
+Trần Văn Thời
+Trần
+Văn
+Thời
+Hoàng Liệt
+Hà Giang
+Cần Giờ
+Giờ
+Xóm Cái Nước
+Xóm
+Nước
+Phong Thạnh
+Bỉm Sơn
+Bỉm
+Thái Bình
+Tân Uyên
+Uyên
+Cửa Nam
+Cửa
+Thị Trấn Phước Bửu
+Phước
+Bửu
+Đố Sơn
+Hà Đông
+Cần Đước
+Đước
+Mui Ne
+Mui
+Vinhomes Smart City
+Smart
+Vinhomes Times City
+Times
+Yên Nghĩa
+Thị Trấn Ngải Giao
+Ngải
+Giao
+Phú Khương
+Nga Sơn
+Nga
+Thị Trấn Đầm Hà
+Đầm
+Tây Mỗ
+Bắc Kạn
+Kạn
+Thị Trấn Sao Vàng
+Sao
+Vàng
+Hoàn Lão
+Lão
+Lai Châu
+Ấp Một
+Mai Dịch
+Dịch
+Đan Phượng
+Đan
+Phượng
+Óc Eo
+Tây Tựu
+Tựu
+Lương Bằng
+Lương
+Phú Thương
+Thương
+Hưng Mỹ
+Thới Bình
+Hồng Lĩnh
+Lĩnh
+Ninh Bình
+Cái Đôi Vàm
+Đôi
+Vàm
+Ô Chợ Dừa
+Dừa
+Quán Hàu
+Quán
+Hàu
+Dương Minh Châu
+Xã Long Hải
+A Yun Pa
+Yun
+Ấp Long Thạnh
+Đông Phú
+Hàm Ninh
+Hàm
+Thị Trấn Lam Sơn
+Lam
+Thị Trấn Phố Lu
+Hoi An
+Hoi
+Xóm Mỹ Xuân
+Gành Hào
+Gành
+Láng Thượng
+Láng
+Cô Tô
+Năm Căn
+Căn
+Cam Lộ
+Trâu Quỳ
+Trâu
+Quỳ
+Cát Bà
+Tu Bông
+Bông
+An Trạch
+Trạch
+Dịch Vọng
+Vọng
+Long Thành
+Cầu Diễn
+Diễn
+Quảng Phú
+Núi Sập
+Sập
+Khánh Hòa
+Phú Quý
+Quý
+Phước An
+Xuân Mai
+Quang Minh
+Ecopark
+Kim Liên
+Kim
+Liên
+Vị Thanh
+Thị Trấn Na Dương
+Thị Trấn Vân Du
+Vân
+Mỹ Lại
+Lại
+Mỹ Khê
+Yên Phụ
+Phụ
+Buôn Trấp
+Trấp
+thị xã Quảng Trị
+Trị
+Tam Giang
+Kiên Hải
+Kiên
+Tràm Chim
+Tràm
+Chim
+Chiềng Cơi
+Chiềng
+Cơi
+Ấp Hô Phòng
+Phòng
+Lý Sơn
+Thị Trấn Tiên Yên
+Ấp Phước Tĩnh
+Diễn Thành
+Lĩnh Nam
+Ea Drăng
+Drăng
+Liễu Giai
+Liễu
+Giai
+Mường Lay
+Mường
+Lay
+Thị Trấn Nước Hai
+Thị Trấn Đất Đỏ
+Đất
+Thị Trấn Thất Khê
+Thất
+Vinhomes Royal City
+Royal
+Nghèn
+Hoang Cau
+Hoang
+Cau
+Long Diền
+Diền
+Thị Trấn Trùng Khánh
+Trùng
+Thị Trấn Ba Chẽ
+Chẽ
+Nhà Bè
+Nhà
+Bến Thủy
+Trung Phụng
+Trung
+Phụng
+Bản Na Hỷ
+Bản
+Cổ Lóa
+Lóa
+Đại Lộc
+Ít Ong
+Ong
+Thị Trấn Việt Quang
+Đinh Văn
+Đinh
+Ea Pốc
+Pốc
+Phú Đô
+Khánh Hải
+Phước Hòa
+Bo
+Ấp Bình Châu
+Ea T’ling
+T’ling
+Bà Nà
+Phú Lộc

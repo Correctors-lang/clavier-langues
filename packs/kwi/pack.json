@@ -1,0 +1,12 @@
+{
+  "id": "kwi",
+  "name": "Awa pit",
+  "locale": "kwi-CO",
+  "version": 1,
+  "layout": "es_kwi.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

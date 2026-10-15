@@ -1,0 +1,12 @@
+{
+  "id": "car",
+  "name": "Kari'nja",
+  "locale": "car-SR",
+  "version": 1,
+  "layout": "en_car.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

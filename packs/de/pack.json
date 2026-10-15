@@ -1,0 +1,15 @@
+{
+  "id": "de",
+  "name": "Deutsch",
+  "locale": "de-DE",
+  "version": 1,
+  "layout": "qwertz_de.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "capitalized": "capitalized.txt",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt",
+    "germanVerbs": "verbs.txt"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "zh-hans",
+  "name": "简体中文",
+  "locale": "zh-CN",
+  "version": 1,
+  "layout": "zh_hans_qwerty.json",
+  "files": {
+    "words": "words.txt",
+    "readings": "readings.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

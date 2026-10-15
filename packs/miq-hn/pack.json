@@ -1,0 +1,7 @@
+{
+  "id": "miq-hn",
+  "name": "Miskitu (Honduras)",
+  "locale": "miq-HN",
+  "version": 1,
+  "inherits": "miq"
+}

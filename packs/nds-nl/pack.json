@@ -1,0 +1,7 @@
+{
+  "id": "nds-nl",
+  "name": "Nedersaksisch",
+  "locale": "nds-NL",
+  "version": 1,
+  "inherits": "nds"
+}

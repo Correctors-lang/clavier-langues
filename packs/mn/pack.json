@@ -1,0 +1,12 @@
+{
+  "id": "mn",
+  "name": "Монгол",
+  "locale": "mn-MN",
+  "version": 1,
+  "layout": "cyr_mn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

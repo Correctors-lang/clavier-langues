@@ -1,0 +1,7 @@
+{
+  "id": "krl-fi",
+  "name": "Karjala (Finland)",
+  "locale": "krl-FI",
+  "version": 1,
+  "inherits": "krl"
+}

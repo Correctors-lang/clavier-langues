@@ -1,0 +1,12 @@
+{
+  "id": "fy",
+  "name": "Frysk",
+  "locale": "fy-NL",
+  "version": 1,
+  "layout": "nl_fy.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

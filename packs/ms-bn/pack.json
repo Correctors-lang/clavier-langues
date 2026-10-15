@@ -1,0 +1,7 @@
+{
+  "id": "ms-bn",
+  "name": "Bahasa Melayu (Brunei)",
+  "locale": "ms-BN",
+  "version": 1,
+  "inherits": "ms"
+}

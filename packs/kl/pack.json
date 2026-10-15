@@ -1,0 +1,12 @@
+{
+  "id": "kl",
+  "name": "Kalaallisut",
+  "locale": "kl-GL",
+  "version": 1,
+  "layout": "da_kl.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

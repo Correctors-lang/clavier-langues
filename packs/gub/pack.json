@@ -1,0 +1,12 @@
+{
+  "id": "gub",
+  "name": "Zeʼeng eté",
+  "locale": "gub-BR",
+  "version": 1,
+  "layout": "pt_gub.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

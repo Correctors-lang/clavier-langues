@@ -1,0 +1,12 @@
+{
+  "id": "fur",
+  "name": "Furlan",
+  "locale": "fur-IT",
+  "version": 1,
+  "layout": "it_fur.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

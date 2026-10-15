@@ -1,0 +1,7 @@
+{
+  "id": "ru-by",
+  "name": "Русский (Беларусь)",
+  "locale": "ru-BY",
+  "version": 1,
+  "inherits": "ru"
+}

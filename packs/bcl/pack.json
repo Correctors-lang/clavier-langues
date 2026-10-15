@@ -1,0 +1,12 @@
+{
+  "id": "bcl",
+  "name": "Bikol",
+  "locale": "bcl-PH",
+  "version": 1,
+  "layout": "en_bcl.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

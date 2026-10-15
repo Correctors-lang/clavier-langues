@@ -1,0 +1,12 @@
+{
+  "id": "kek",
+  "name": "Qʼeqchiʼ",
+  "locale": "kek-GT",
+  "version": 1,
+  "layout": "es_kek.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

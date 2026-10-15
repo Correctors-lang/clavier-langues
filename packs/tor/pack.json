@@ -1,0 +1,7 @@
+{
+  "id": "tor",
+  "name": "Torlački",
+  "locale": "sr-RS",
+  "version": 1,
+  "inherits": "sr"
+}

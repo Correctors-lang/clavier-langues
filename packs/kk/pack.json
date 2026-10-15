@@ -1,0 +1,12 @@
+{
+  "id": "kk",
+  "name": "Қазақша",
+  "locale": "kk-KZ",
+  "version": 1,
+  "layout": "ru_kk.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

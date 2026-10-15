@@ -1,0 +1,13 @@
+{
+  "id": "he",
+  "name": "עברית",
+  "locale": "he-IL",
+  "version": 1,
+  "layout": "he_standard.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "gag",
+  "name": "Gagauz dili",
+  "locale": "gag-MD",
+  "version": 1,
+  "layout": "tr_gag.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "rue",
+  "name": "Русиньскый",
+  "locale": "rue-SK",
+  "version": 1,
+  "layout": "uk_rue.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

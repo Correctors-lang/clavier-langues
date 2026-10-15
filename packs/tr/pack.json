@@ -1,0 +1,13 @@
+{
+  "id": "tr",
+  "name": "Türkçe",
+  "locale": "tr-TR",
+  "version": 1,
+  "layout": "turkish_q.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

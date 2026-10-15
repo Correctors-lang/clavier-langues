@@ -1,0 +1,7 @@
+{
+  "id": "ig-cm",
+  "name": "Igbo (Cameroon)",
+  "locale": "ig-CM",
+  "version": 1,
+  "inherits": "ig"
+}

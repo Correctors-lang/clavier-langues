@@ -1,0 +1,14 @@
+{
+  "thin_space": "",
+  "space_before": [],
+  "space_after": [
+    ".",
+    ",",
+    "!",
+    "?",
+    ")"
+  ],
+  "no_space_before": [
+    ")"
+  ]
+}

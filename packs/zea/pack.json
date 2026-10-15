@@ -1,0 +1,12 @@
+{
+  "id": "zea",
+  "name": "Zeêuws",
+  "locale": "zea-NL",
+  "version": 1,
+  "layout": "nl_zea.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

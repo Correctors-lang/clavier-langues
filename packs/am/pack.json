@@ -1,0 +1,12 @@
+{
+  "id": "am",
+  "name": "አማርኛ",
+  "locale": "am-ET",
+  "version": 1,
+  "layout": "fidel_am.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

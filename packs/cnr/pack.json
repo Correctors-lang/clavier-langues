@@ -1,0 +1,7 @@
+{
+  "id": "cnr",
+  "name": "Crnogorski",
+  "locale": "cnr-ME",
+  "version": 1,
+  "inherits": "bs"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ctu",
+  "name": "Chʼol",
+  "locale": "ctu-MX",
+  "version": 1,
+  "layout": "es_ctu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

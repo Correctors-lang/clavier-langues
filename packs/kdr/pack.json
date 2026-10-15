@@ -1,0 +1,7 @@
+{
+  "id": "kdr",
+  "name": "Karaj",
+  "locale": "kdr-LT",
+  "version": 1,
+  "inherits": "crh"
+}

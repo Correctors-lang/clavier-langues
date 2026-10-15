@@ -1,0 +1,7 @@
+{
+  "id": "kac-cn",
+  "name": "Jinghpaw (China)",
+  "locale": "kac-CN",
+  "version": 1,
+  "inherits": "kac"
+}

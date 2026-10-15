@@ -1,0 +1,7 @@
+{
+  "id": "bm-ci",
+  "name": "Bamanankan (Kodiwari)",
+  "locale": "bm-CI",
+  "version": 1,
+  "inherits": "bm"
+}

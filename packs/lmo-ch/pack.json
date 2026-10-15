@@ -1,0 +1,7 @@
+{
+  "id": "lmo-ch",
+  "name": "Lombard (Switzerland)",
+  "locale": "lmo-CH",
+  "version": 1,
+  "inherits": "lmo"
+}

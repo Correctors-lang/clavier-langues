@@ -1,0 +1,7 @@
+{
+  "id": "emk-ci",
+  "name": "Maninkakan (Côte d’Ivoire)",
+  "locale": "emk-CI",
+  "version": 1,
+  "inherits": "emk"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "kss-lr",
+  "name": "Kisi (Liberia)",
+  "locale": "kss-LR",
+  "version": 1,
+  "inherits": "kss"
+}

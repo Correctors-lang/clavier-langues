@@ -1,0 +1,7 @@
+{
+  "id": "tg-af",
+  "name": "Тоҷикӣ (Афғонистон)",
+  "locale": "tg-AF",
+  "version": 1,
+  "inherits": "tg"
+}

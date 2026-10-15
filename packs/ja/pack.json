@@ -1,0 +1,13 @@
+{
+  "id": "ja",
+  "name": "日本語",
+  "locale": "ja-JP",
+  "version": 1,
+  "layout": "ja_qwerty.json",
+  "files": {
+    "words": "words.txt",
+    "readings": "readings.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

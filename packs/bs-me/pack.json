@@ -1,0 +1,7 @@
+{
+  "id": "bs-me",
+  "name": "Bosanski (Crna Gora)",
+  "locale": "bs-ME",
+  "version": 1,
+  "inherits": "bs"
+}

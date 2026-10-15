@@ -1,0 +1,7 @@
+{
+  "id": "os-ge",
+  "name": "Ирон (Гуырдзыстон)",
+  "locale": "os-GE",
+  "version": 1,
+  "inherits": "os"
+}

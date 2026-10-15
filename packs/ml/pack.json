@@ -1,0 +1,12 @@
+{
+  "id": "ml",
+  "name": "മലയാളം",
+  "locale": "ml-IN",
+  "version": 1,
+  "layout": "mlym_ml.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

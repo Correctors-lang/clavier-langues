@@ -1,0 +1,12 @@
+{
+  "id": "tpi",
+  "name": "Tok Pisin",
+  "locale": "tpi-PG",
+  "version": 1,
+  "layout": "en_tpi.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

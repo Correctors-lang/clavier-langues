@@ -1,0 +1,13 @@
+{
+  "id": "gd",
+  "name": "Gàidhlig",
+  "locale": "gd-GB",
+  "version": 1,
+  "layout": "qwerty_gd.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fil",
+  "name": "Filipino",
+  "locale": "fil-PH",
+  "version": 1,
+  "layout": "qwerty_fil.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

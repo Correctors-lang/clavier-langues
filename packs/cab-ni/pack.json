@@ -1,0 +1,7 @@
+{
+  "id": "cab-ni",
+  "name": "Garifuna (Nicaragua)",
+  "locale": "cab-NI",
+  "version": 1,
+  "inherits": "cab"
+}

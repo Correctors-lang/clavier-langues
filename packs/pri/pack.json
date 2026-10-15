@@ -1,0 +1,12 @@
+{
+  "id": "pri",
+  "name": "Paicî",
+  "locale": "pri-NC",
+  "version": 1,
+  "layout": "fr_pri.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ak",
+  "name": "Akan",
+  "locale": "ak-GH",
+  "version": 1,
+  "layout": "en_ak.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

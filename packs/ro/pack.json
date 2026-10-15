@@ -1,0 +1,14 @@
+{
+  "id": "ro",
+  "name": "Română",
+  "locale": "ro-RO",
+  "version": 1,
+  "layout": "qwerty_ro.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "lexicon": "lexicon.tsv",
+    "bigrams": "bigrams.txt"
+  }
+}

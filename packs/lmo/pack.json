@@ -1,0 +1,12 @@
+{
+  "id": "lmo",
+  "name": "Lombard",
+  "locale": "lmo-IT",
+  "version": 1,
+  "layout": "it_lmo.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "rmn",
+  "name": "Romani (Balkan)",
+  "locale": "rmn-MK",
+  "version": 1,
+  "layout": "en_rmn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

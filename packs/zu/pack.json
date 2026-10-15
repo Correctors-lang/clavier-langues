@@ -1,0 +1,12 @@
+{
+  "id": "zu",
+  "name": "isiZulu",
+  "locale": "zu-ZA",
+  "version": 1,
+  "layout": "en_zu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

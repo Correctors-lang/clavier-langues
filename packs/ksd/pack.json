@@ -1,0 +1,12 @@
+{
+  "id": "ksd",
+  "name": "Kuanua",
+  "locale": "ksd-PG",
+  "version": 1,
+  "layout": "en_ksd.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

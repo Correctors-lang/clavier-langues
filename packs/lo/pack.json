@@ -1,0 +1,12 @@
+{
+  "id": "lo",
+  "name": "ລາວ",
+  "locale": "lo-LA",
+  "version": 1,
+  "layout": "lo_national.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ksh",
+  "name": "Kölsch",
+  "locale": "ksh-DE",
+  "version": 1,
+  "layout": "de_ksh.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

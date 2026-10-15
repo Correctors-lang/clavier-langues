@@ -1,0 +1,12 @@
+{
+  "id": "pnt",
+  "name": "Ποντιακά",
+  "locale": "pnt-GR",
+  "version": 1,
+  "layout": "el_pnt.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

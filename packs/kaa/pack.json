@@ -1,0 +1,12 @@
+{
+  "id": "kaa",
+  "name": "Qaraqalpaqsha",
+  "locale": "kaa-UZ",
+  "version": 1,
+  "layout": "en_kaa.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

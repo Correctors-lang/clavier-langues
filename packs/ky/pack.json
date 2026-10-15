@@ -1,0 +1,12 @@
+{
+  "id": "ky",
+  "name": "Кыргызча",
+  "locale": "ky-KG",
+  "version": 1,
+  "layout": "ru_ky.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "fr-mq",
+  "name": "Français (Martinique)",
+  "locale": "fr-MQ",
+  "version": 1,
+  "inherits": "fr"
+}

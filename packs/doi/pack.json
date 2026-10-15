@@ -1,0 +1,12 @@
+{
+  "id": "doi",
+  "name": "डोगरी",
+  "locale": "doi-IN",
+  "version": 1,
+  "layout": "deva_doi.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

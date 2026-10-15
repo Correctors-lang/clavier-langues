@@ -1,0 +1,13 @@
+{
+  "id": "vi",
+  "name": "Tiếng Việt",
+  "locale": "vi-VN",
+  "version": 1,
+  "layout": "vi_telex.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

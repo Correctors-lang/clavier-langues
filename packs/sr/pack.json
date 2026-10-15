@@ -1,0 +1,13 @@
+{
+  "id": "sr",
+  "name": "Српски",
+  "locale": "sr-RS",
+  "version": 1,
+  "layout": "sr_cyrillic.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

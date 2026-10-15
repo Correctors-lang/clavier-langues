@@ -1,0 +1,12 @@
+{
+  "id": "skr",
+  "name": "سرائیکی",
+  "locale": "skr-PK",
+  "version": 1,
+  "layout": "fa_skr.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

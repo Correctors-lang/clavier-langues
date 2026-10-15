@@ -1,0 +1,13 @@
+{
+  "id": "bn",
+  "name": "বাংলা",
+  "locale": "bn-BD",
+  "version": 1,
+  "layout": "beng_bn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

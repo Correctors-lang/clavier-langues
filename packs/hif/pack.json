@@ -1,0 +1,12 @@
+{
+  "id": "hif",
+  "name": "Fiji Baat",
+  "locale": "hif-FJ",
+  "version": 1,
+  "layout": "en_hif.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "ady",
+  "name": "Адыгабзэ",
+  "locale": "ady-RU",
+  "version": 1,
+  "layout": "ru_ady.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

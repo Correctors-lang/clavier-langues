@@ -1,0 +1,12 @@
+{
+  "id": "udm",
+  "name": "Удмурт",
+  "locale": "udm-RU",
+  "version": 1,
+  "layout": "ru_udm.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

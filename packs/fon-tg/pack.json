@@ -1,0 +1,7 @@
+{
+  "id": "fon-tg",
+  "name": "Fɔ̀ngbè (Togo)",
+  "locale": "fon-TG",
+  "version": 1,
+  "inherits": "fon"
+}

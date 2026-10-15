@@ -1,0 +1,12 @@
+{
+  "id": "fon",
+  "name": "Fɔ̀ngbè",
+  "locale": "fon-BJ",
+  "version": 1,
+  "layout": "fr_fon.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

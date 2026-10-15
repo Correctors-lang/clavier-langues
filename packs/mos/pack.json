@@ -1,0 +1,12 @@
+{
+  "id": "mos",
+  "name": "Mooré",
+  "locale": "mos-BF",
+  "version": 1,
+  "layout": "fr_mos.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

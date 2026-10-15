@@ -1,0 +1,11 @@
+{
+  "id": "wuu",
+  "name": "吴语",
+  "locale": "wuu-CN",
+  "version": 1,
+  "inherits": "zh-hans",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalReadings": "readings_regional.txt"
+  }
+}

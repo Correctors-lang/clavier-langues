@@ -1,0 +1,101 @@
+# Villes de BD (source : GeoNames alternateNamesV2,
+# nom filtré par code langue ISO « bn » — pas une détection de
+# bloc Unicode (ambigu : Kurde/Ossète partagent l'écriture arabe/
+# cyrillique avec l'arabe/le russe — bug réel corrigé le 2026-09-13).
+# Chargé UNIQUEMENT avec ce pack.
+ঢাকা
+চট্টগ্রাম
+গাজীপুর
+Khulna
+রংপুর
+রাজশাহী
+কুমিল্লা
+Mohāmmadpur
+Hāthazāri
+Nātor
+টঙ্গী
+সাভার উপজেলা
+সাভার
+উপজেলা
+সুটরিয়া
+বাগেরহাট
+Cox’s Bāzār
+Cox’s
+Bāzār
+Jessore
+সিলেট
+ময়মনসিংহ
+বগুড়া
+দিনাজপুর
+বরিশাল
+সৈয়দপুর
+Pār Naogaon
+Pār
+Naogaon
+জামালপুর
+Puthia
+Nawābganj
+Kushtia
+সিরাজগঞ্জ
+Rāngāmāti
+ভৈরব বাজার
+ভৈরব
+বাজার
+ভোলা জেলা
+ভোলা
+জেলা
+বিবিরহাট
+হবিগঞ্জ
+ফেনী
+ঈশ্বরদী
+নেত্রকোণা
+Joypur Hāt
+Joypur
+Hāt
+Thākurgaon
+Lalmanirhat
+লক্ষ্মীপুর জেলা
+লক্ষ্মীপুর
+নড়াইল
+Bāndarban
+Sātkania
+Patiya
+Chilmāri
+Nageswari
+Panchagarh
+Uttar Char Fasson
+Uttar
+Char
+Fasson
+Parbatipur
+Shibdeb
+Burhānuddin
+Kālīganj
+Bhātpāra Abhaynagar
+Bhātpāra
+Abhaynagar
+Lālmohan
+Jhikargāchha
+Teknāf
+Kālia
+Dohazāri
+Bherāmāra
+Sarankhola
+Shibganj
+Pīrgaaj
+Morrelgonj
+Bhāndāria
+Mathba
+শাহ্‌বাজপুর টাউন
+শাহ্‌বাজপুর
+টাউন
+Burirchar
+Raojān
+Mānikchhari
+Taluker Char Doani
+Taluker
+Doani
+Ayla Patakata
+Ayla
+Patakata
+Natona

@@ -1,0 +1,7 @@
+{
+  "id": "ha-cm",
+  "name": "Hausa (Kamaru)",
+  "locale": "ha-CM",
+  "version": 1,
+  "inherits": "ha"
+}

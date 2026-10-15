@@ -1,0 +1,12 @@
+{
+  "id": "dnj",
+  "name": "Dan",
+  "locale": "dnj-CI",
+  "version": 1,
+  "layout": "fr_dnj.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

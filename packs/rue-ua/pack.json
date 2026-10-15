@@ -1,0 +1,7 @@
+{
+  "id": "rue-ua",
+  "name": "Русиньскый (Ukraine)",
+  "locale": "rue-UA",
+  "version": 1,
+  "inherits": "rue"
+}

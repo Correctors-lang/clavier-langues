@@ -1,0 +1,12 @@
+{
+  "id": "kss",
+  "name": "Kisi",
+  "locale": "kss-SL",
+  "version": 1,
+  "layout": "en_kss.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

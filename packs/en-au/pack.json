@@ -1,0 +1,10 @@
+{
+  "id": "en-au",
+  "name": "English (Australia)",
+  "locale": "en-AU",
+  "version": 1,
+  "inherits": "en",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

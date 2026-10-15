@@ -1,0 +1,12 @@
+{
+  "id": "za",
+  "name": "Vahcuengh",
+  "locale": "za-CN",
+  "version": 1,
+  "layout": "en_za.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

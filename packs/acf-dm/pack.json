@@ -1,0 +1,10 @@
+{
+  "id": "acf-dm",
+  "name": "Kwéyòl Dominik",
+  "locale": "acf-DM",
+  "version": 1,
+  "inherits": "acf",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

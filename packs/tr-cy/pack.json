@@ -1,0 +1,7 @@
+{
+  "id": "tr-cy",
+  "name": "Türkçe (Kıbrıs)",
+  "locale": "tr-CY",
+  "version": 1,
+  "inherits": "tr"
+}

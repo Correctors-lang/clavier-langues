@@ -1,0 +1,13 @@
+{
+  "id": "da",
+  "name": "Dansk",
+  "locale": "da-DK",
+  "version": 1,
+  "layout": "qwerty_da.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "med",
+  "name": "Melpa",
+  "locale": "med-PG",
+  "version": 1,
+  "layout": "en_med.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

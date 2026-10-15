@@ -1,0 +1,13 @@
+{
+  "id": "el",
+  "name": "Ελληνικά",
+  "locale": "el-GR",
+  "version": 1,
+  "layout": "el_greek.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

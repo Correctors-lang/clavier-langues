@@ -1,0 +1,7 @@
+{
+  "id": "ky-cn",
+  "name": "Кыргызча (Кытай)",
+  "locale": "ky-CN",
+  "version": 1,
+  "inherits": "ky"
+}

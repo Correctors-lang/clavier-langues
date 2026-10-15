@@ -1,0 +1,12 @@
+{
+  "id": "dhv",
+  "name": "Drehu",
+  "locale": "dhv-NC",
+  "version": 1,
+  "layout": "fr_dhv.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "pnt-tr",
+  "name": "Ποντιακά (Türkiye)",
+  "locale": "pnt-TR",
+  "version": 1,
+  "inherits": "pnt"
+}

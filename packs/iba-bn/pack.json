@@ -1,0 +1,7 @@
+{
+  "id": "iba-bn",
+  "name": "Jaku Iban (Brunei)",
+  "locale": "iba-BN",
+  "version": 1,
+  "inherits": "iba"
+}

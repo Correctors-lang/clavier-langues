@@ -1,0 +1,7 @@
+{
+  "id": "acu-pe",
+  "name": "Achuar (Peru)",
+  "locale": "acu-PE",
+  "version": 1,
+  "inherits": "acu"
+}

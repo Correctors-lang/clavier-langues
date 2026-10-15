@@ -1,0 +1,12 @@
+{
+  "id": "dak",
+  "name": "Dakȟótiyapi",
+  "locale": "dak-US",
+  "version": 1,
+  "layout": "en_dak.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

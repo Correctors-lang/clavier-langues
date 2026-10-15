@@ -1,0 +1,12 @@
+{
+  "id": "ctd",
+  "name": "Zokam",
+  "locale": "ctd-MM",
+  "version": 1,
+  "layout": "en_ctd.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

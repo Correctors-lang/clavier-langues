@@ -1,0 +1,12 @@
+{
+  "id": "ilo",
+  "name": "Ilokano",
+  "locale": "ilo-PH",
+  "version": 1,
+  "layout": "en_ilo.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

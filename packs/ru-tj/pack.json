@@ -1,0 +1,7 @@
+{
+  "id": "ru-tj",
+  "name": "Русский (Таджикистан)",
+  "locale": "ru-TJ",
+  "version": 1,
+  "inherits": "ru"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "en-ws",
+  "name": "English (Samoa)",
+  "locale": "en-WS",
+  "version": 1,
+  "inherits": "en"
+}

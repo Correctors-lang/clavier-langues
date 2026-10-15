@@ -1,0 +1,12 @@
+{
+  "id": "ast",
+  "name": "Asturianu",
+  "locale": "ast-ES",
+  "version": 1,
+  "layout": "es_ast.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

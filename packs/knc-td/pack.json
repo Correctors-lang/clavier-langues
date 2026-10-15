@@ -1,0 +1,7 @@
+{
+  "id": "knc-td",
+  "name": "Kanuri (Chad)",
+  "locale": "knc-TD",
+  "version": 1,
+  "inherits": "knc"
+}

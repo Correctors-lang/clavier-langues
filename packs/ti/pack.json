@@ -1,0 +1,12 @@
+{
+  "id": "ti",
+  "name": "ትግርኛ",
+  "locale": "ti-ER",
+  "version": 1,
+  "layout": "fidel_ti.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

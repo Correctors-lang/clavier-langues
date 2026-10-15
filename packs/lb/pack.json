@@ -1,0 +1,12 @@
+{
+  "id": "lb",
+  "name": "Lëtzebuergesch",
+  "locale": "lb-LU",
+  "version": 1,
+  "layout": "de_lb.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

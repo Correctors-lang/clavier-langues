@@ -1,0 +1,7 @@
+{
+  "id": "knc-cm",
+  "name": "Kanuri (Cameroon)",
+  "locale": "knc-CM",
+  "version": 1,
+  "inherits": "knc"
+}

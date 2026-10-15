@@ -1,0 +1,12 @@
+{
+  "id": "gcr",
+  "name": "Kriyòl gwiyanè",
+  "locale": "gcr-GF",
+  "version": 1,
+  "layout": "fr_gcr.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

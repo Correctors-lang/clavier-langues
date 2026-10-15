@@ -1,0 +1,12 @@
+{
+  "id": "rup",
+  "name": "Armãneashti",
+  "locale": "rup-GR",
+  "version": 1,
+  "layout": "ro_rup.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

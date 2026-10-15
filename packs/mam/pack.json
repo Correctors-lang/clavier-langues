@@ -1,0 +1,12 @@
+{
+  "id": "mam",
+  "name": "Mam",
+  "locale": "mam-GT",
+  "version": 1,
+  "layout": "es_mam.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

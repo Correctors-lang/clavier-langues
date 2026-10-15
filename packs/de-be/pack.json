@@ -1,0 +1,7 @@
+{
+  "id": "de-be",
+  "name": "Deutsch (Belgien)",
+  "locale": "de-BE",
+  "version": 1,
+  "inherits": "de"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "jiv-pe",
+  "name": "Shuar (Peru)",
+  "locale": "jiv-PE",
+  "version": 1,
+  "inherits": "jiv"
+}

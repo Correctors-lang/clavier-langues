@@ -1,0 +1,7 @@
+{
+  "id": "de-li",
+  "name": "Deutsch (Liechtenstein)",
+  "locale": "de-LI",
+  "version": 1,
+  "inherits": "de"
+}

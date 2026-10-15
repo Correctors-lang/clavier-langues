@@ -1,0 +1,47 @@
+# Villes de HT (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Port-au-Prince
+Carrefour
+Delmas
+Pétionville
+Port-de-Paix
+Saint-Marc
+Cité Soleil
+Cité
+Soleil
+Croix-des-Bouquets
+Dessalines
+Jacmel
+Cap-Haïtien
+Léogâne
+Arcahaie
+Les Cayes
+Cayes
+Tigwav
+Jérémie
+Saint-Michel de l'Atalaye
+Saint-Michel
+l'Atalaye
+Miragoâne
+Gonaïves
+Thomazeau
+Grangwav
+Verrettes
+Kenscoff
+Saint-Raphaël
+Ti Port-de-Paix
+Lenbe
+Gressier
+Terrier Rouge
+Terrier
+Rouge
+Hinche
+Fond Parisien
+Fond
+Parisien
+Grand Gosier
+Grand
+Gosier
+Désarmes

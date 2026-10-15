@@ -1,0 +1,12 @@
+{
+  "id": "xal",
+  "name": "Хальмг",
+  "locale": "xal-RU",
+  "version": 1,
+  "layout": "ru_xal.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

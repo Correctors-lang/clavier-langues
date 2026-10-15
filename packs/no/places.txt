@@ -1,0 +1,47 @@
+# Villes de NO (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Oslo
+Bergen
+Trondheim
+Stavanger
+Kristiansand
+Drammen
+Lillestrøm
+Sandnes
+Fredrikstad
+Sandefjord
+Asker
+Sarpsborg
+Tønsberg
+Ålesund
+Skien
+Moss
+Tromsø
+Haugesund
+Åsane
+Nesttun
+Porsgrunn
+Bodø
+Arendal
+Sola
+Hamar
+Lillehammer
+Horten
+Ytrebygda
+Grimstad
+Kristiansund
+Larvik
+Molde
+Halden
+Harstad
+Levanger
+Time
+Mo i Rana
+Rana
+Tromsdalen
+Kongsberg
+Gjøvik
+Stjørdalshalsen
+Alta

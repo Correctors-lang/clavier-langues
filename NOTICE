@@ -1,0 +1,23 @@
+Langues du clavier AZERTY — NOTICE
+
+Ces dictionnaires sont publiés sous licence MIT (voir LICENSE). Ils sont tirés des
+sources ci-dessous, dont les licences demandent d'être citées :
+
+- FineWeb-2 (Hugging Face) — ODC-By 1.0 — https://huggingface.co/datasets/HuggingFaceFW/fineweb-2
+  utilisé par : ab, abq, abt, ace, acf, acu, ada, ady, af, agg, agr, ajg … (428 packs)
+- FineWeb (Hugging Face, anglais) — ODC-By 1.0 — https://huggingface.co/datasets/HuggingFaceFW/fineweb
+  utilisé par : en
+- Unicode Unihan — Unicode License v3 — https://www.unicode.org/charts/unihan.html
+  utilisé par : yue, zh-hans, zh-hant
+- Mozc (dictionnaire OSS : IPAdic, Okinawa) — BSD-3-Clause, licence IPAdic, domaine public — https://github.com/google/mozc
+  utilisé par : ja
+- iTaigi — CC0 — https://itaigi.tw
+  utilisé par : nan-hant
+- geo.api.gouv.fr / INSEE — Licence Ouverte 2.0 (Etalab) — https://geo.api.gouv.fr
+  utilisé par : fr
+- GeoNames — CC BY 4.0 — https://www.geonames.org
+  utilisé par : ar, bar, bg, bn, br, ca, ckb, cs, da, de, el, en … (49 packs)
+- AnCora (Universal Dependencies) — CC BY 4.0 — https://github.com/UniversalDependencies/UD_Spanish-AnCora
+  utilisé par : ca, es
+- Clavier AZERTY (travail original) — MIT
+  utilisé par : acf-dm, ar-ae, ar-bh, ar-dj, ar-dz, ar-eg, ar-iq, ar-jo, ar-km, ar-kw, ar-lb, ar-ly … (70 packs)

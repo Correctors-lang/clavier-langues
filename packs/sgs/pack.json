@@ -1,0 +1,12 @@
+{
+  "id": "sgs",
+  "name": "Žemaitėška",
+  "locale": "sgs-LT",
+  "version": 1,
+  "layout": "lt_sgs.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

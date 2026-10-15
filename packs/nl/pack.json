@@ -1,0 +1,13 @@
+{
+  "id": "nl",
+  "name": "Nederlands",
+  "locale": "nl-NL",
+  "version": 1,
+  "layout": "qwerty_nl.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

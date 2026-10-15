@@ -1,0 +1,12 @@
+{
+  "id": "pam",
+  "name": "Kapampangan",
+  "locale": "pam-PH",
+  "version": 1,
+  "layout": "en_pam.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "meu",
+  "name": "Motu",
+  "locale": "meu-PG",
+  "version": 1,
+  "layout": "en_meu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

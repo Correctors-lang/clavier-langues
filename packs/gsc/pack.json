@@ -1,0 +1,7 @@
+{
+  "id": "gsc",
+  "name": "Gascon",
+  "locale": "oc-FR",
+  "version": 1,
+  "inherits": "oc"
+}

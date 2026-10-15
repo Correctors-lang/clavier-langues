@@ -1,0 +1,12 @@
+{
+  "id": "kue",
+  "name": "Kuman",
+  "locale": "kue-PG",
+  "version": 1,
+  "layout": "en_kue.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

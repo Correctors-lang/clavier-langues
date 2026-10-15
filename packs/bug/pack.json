@@ -1,0 +1,12 @@
+{
+  "id": "bug",
+  "name": "Basa Ugi",
+  "locale": "bug-ID",
+  "version": 1,
+  "layout": "en_bug.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

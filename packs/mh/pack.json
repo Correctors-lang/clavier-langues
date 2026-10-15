@@ -1,0 +1,12 @@
+{
+  "id": "mh",
+  "name": "Kajin M̧ajeļ",
+  "locale": "mh-MH",
+  "version": 1,
+  "layout": "en_mh.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

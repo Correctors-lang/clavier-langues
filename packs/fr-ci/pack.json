@@ -1,0 +1,7 @@
+{
+  "id": "fr-ci",
+  "name": "Français (Côte d’Ivoire)",
+  "locale": "fr-CI",
+  "version": 1,
+  "inherits": "fr"
+}

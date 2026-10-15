@@ -1,0 +1,12 @@
+{
+  "id": "gos",
+  "name": "Grunnegs",
+  "locale": "gos-NL",
+  "version": 1,
+  "layout": "nl_gos.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

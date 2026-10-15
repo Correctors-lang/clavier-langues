@@ -1,0 +1,12 @@
+{
+  "id": "spp",
+  "name": "Supyire",
+  "locale": "spp-ML",
+  "version": 1,
+  "layout": "fr_spp.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mk",
+  "name": "Македонски",
+  "locale": "mk-MK",
+  "version": 1,
+  "layout": "sr_mk.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

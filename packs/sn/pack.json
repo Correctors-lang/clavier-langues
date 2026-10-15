@@ -1,0 +1,12 @@
+{
+  "id": "sn",
+  "name": "chiShona",
+  "locale": "sn-ZW",
+  "version": 1,
+  "layout": "en_sn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

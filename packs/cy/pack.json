@@ -1,0 +1,12 @@
+{
+  "id": "cy",
+  "name": "Cymraeg",
+  "locale": "cy-GB",
+  "version": 1,
+  "layout": "en_cy.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

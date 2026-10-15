@@ -1,0 +1,12 @@
+{
+  "id": "hwc",
+  "name": "Pidgin",
+  "locale": "hwc-US",
+  "version": 1,
+  "layout": "en_hwc.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

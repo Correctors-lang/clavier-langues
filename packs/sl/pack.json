@@ -1,0 +1,12 @@
+{
+  "id": "sl",
+  "name": "Slovenščina",
+  "locale": "sl-SI",
+  "version": 1,
+  "layout": "hr_sl.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

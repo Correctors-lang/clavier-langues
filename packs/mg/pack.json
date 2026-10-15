@@ -1,0 +1,13 @@
+{
+  "id": "mg",
+  "name": "Malagasy",
+  "locale": "mg-MG",
+  "version": 1,
+  "layout": "qwerty_mg.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt",
+    "places": "places.txt"
+  }
+}

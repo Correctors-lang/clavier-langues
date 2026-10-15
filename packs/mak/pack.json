@@ -1,0 +1,12 @@
+{
+  "id": "mak",
+  "name": "Basa Mangkasara",
+  "locale": "mak-ID",
+  "version": 1,
+  "layout": "en_mak.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

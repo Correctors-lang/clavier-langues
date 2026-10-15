@@ -1,0 +1,13 @@
+{
+  "id": "gsw",
+  "name": "Elsàssisch",
+  "locale": "gsw",
+  "version": 1,
+  "layout": "gsw_qwertz.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

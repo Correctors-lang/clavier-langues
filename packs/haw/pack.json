@@ -1,0 +1,12 @@
+{
+  "id": "haw",
+  "name": "ʻŌlelo Hawaiʻi",
+  "locale": "haw-US",
+  "version": 1,
+  "layout": "en_haw.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

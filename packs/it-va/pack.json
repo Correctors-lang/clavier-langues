@@ -1,0 +1,7 @@
+{
+  "id": "it-va",
+  "name": "Italiano (Città del Vaticano)",
+  "locale": "it-VA",
+  "version": 1,
+  "inherits": "it"
+}

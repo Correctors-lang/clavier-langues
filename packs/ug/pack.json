@@ -1,0 +1,12 @@
+{
+  "id": "ug",
+  "name": "ئۇيغۇرچە",
+  "locale": "ug-CN",
+  "version": 1,
+  "layout": "fa_ug.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

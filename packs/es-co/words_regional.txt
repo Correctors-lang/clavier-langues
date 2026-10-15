@@ -1,0 +1,66 @@
+# Vocabulaire propre à « Español (Colombia) ».
+# mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
+# Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
+aguapanela	12000
+ajiaco	30000
+arepa	30000
+bacano	30000
+bandeja paisa	12000
+berraco	30000
+buseta	12000
+cachaco	12000
+camellar	30000
+camello	30000
+cantaleta	3000
+chanda	3000
+changua	12000
+chimba	30000
+chino	30000
+chiva	12000
+chévere	30000
+costeño	12000
+cucho	30000
+dale	30000
+empanada	12000
+fritanga	3000
+gonorrea	12000
+guaro	3000
+guayabo	30000
+hágale	12000
+jartera	30000
+jincho	3000
+lechona	3000
+listo	30000
+llanero	12000
+lucas	30000
+mamar gallo	12000
+mamera	30000
+man	30000
+mondongo	3000
+obleas	12000
+paila	30000
+paisa	12000
+parce	30000
+parcero	30000
+patacón	12000
+pelada	30000
+pelado	30000
+pilas	30000
+quiubo	30000
+rebusque	12000
+regalame	12000
+rolo	12000
+rumba	30000
+rumbear	30000
+sancocho	12000
+sumercé	30000
+tinto	30000
+tombo	30000
+traga	3000
+tragado	3000
+transmilenio	12000
+vagamundo	3000
+vaina	30000
+valluno	12000
+verraco	30000
+vieja	30000

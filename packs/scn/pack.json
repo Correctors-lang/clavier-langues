@@ -1,0 +1,12 @@
+{
+  "id": "scn",
+  "name": "Sicilianu",
+  "locale": "scn-IT",
+  "version": 1,
+  "layout": "it_scn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

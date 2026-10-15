@@ -1,0 +1,12 @@
+{
+  "id": "ny",
+  "name": "Chichewa",
+  "locale": "ny-MW",
+  "version": 1,
+  "layout": "en_ny.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

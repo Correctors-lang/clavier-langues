@@ -1,0 +1,12 @@
+{
+  "id": "diq",
+  "name": "Zazaki",
+  "locale": "diq-TR",
+  "version": 1,
+  "layout": "tr_diq.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

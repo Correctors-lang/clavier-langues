@@ -1,0 +1,11 @@
+{
+  "id": "ar-km",
+  "name": "العربية (جزر القمر)",
+  "locale": "ar-KM",
+  "version": 1,
+  "layout": "ar_ar.json",
+  "inherits": "ar",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

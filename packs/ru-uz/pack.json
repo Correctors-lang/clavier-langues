@@ -1,0 +1,7 @@
+{
+  "id": "ru-uz",
+  "name": "Русский (Узбекистан)",
+  "locale": "ru-UZ",
+  "version": 1,
+  "inherits": "ru"
+}

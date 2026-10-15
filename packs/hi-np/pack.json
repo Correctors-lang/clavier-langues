@@ -1,0 +1,7 @@
+{
+  "id": "hi-np",
+  "name": "हिन्दी (नेपाल)",
+  "locale": "hi-NP",
+  "version": 1,
+  "inherits": "hi"
+}

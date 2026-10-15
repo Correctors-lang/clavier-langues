@@ -1,0 +1,43 @@
+# Villes de LT (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Vilnius
+Kaunas
+Klaipėda
+Šiauliai
+Panevėžys
+Dainava (Kaunas)
+Dainava
+Alytus
+Šilainiai
+Eiguliai
+Antakalnis
+Fabijoniškės
+Naujoji Vilnia
+Naujoji
+Vilnia
+Šeškinė
+Marijampolė
+Naujininkai
+Pašilaičiai
+Mazeikiai
+Karoliniškės
+Lazdynai
+Justiniškės
+Naujamiestis
+Jonava
+Utena
+Aleksotas
+Kėdainiai
+Vilkpėdė
+Telsiai
+Taurage
+Pilaitė
+Ukmerge
+Plunge
+Palanga
+Visaginas
+Kretinga
+Gargždai
+Radviliskis

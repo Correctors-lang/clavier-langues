@@ -1,0 +1,12 @@
+{
+  "id": "dyo",
+  "name": "Joola",
+  "locale": "dyo-SN",
+  "version": 1,
+  "layout": "fr_dyo.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sma-se",
+  "name": "Åarjelsaemien (Sweden)",
+  "locale": "sma-SE",
+  "version": 1,
+  "inherits": "sma"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "tca-pe",
+  "name": "Magüta (Peru)",
+  "locale": "tca-PE",
+  "version": 1,
+  "inherits": "tca"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ta",
+  "name": "தமிழ்",
+  "locale": "ta-IN",
+  "version": 1,
+  "layout": "tamil_ta.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

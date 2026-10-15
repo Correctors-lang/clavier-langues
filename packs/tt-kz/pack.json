@@ -1,0 +1,7 @@
+{
+  "id": "tt-kz",
+  "name": "Татарча (Казахстан)",
+  "locale": "tt-KZ",
+  "version": 1,
+  "inherits": "tt"
+}

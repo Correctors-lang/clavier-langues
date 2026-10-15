@@ -1,0 +1,13 @@
+{
+  "id": "ru",
+  "name": "Русский",
+  "locale": "ru-RU",
+  "version": 1,
+  "layout": "cyr_ru.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

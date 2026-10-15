@@ -1,0 +1,12 @@
+{
+  "id": "jae",
+  "name": "Yabêm",
+  "locale": "jae-PG",
+  "version": 1,
+  "layout": "en_jae.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

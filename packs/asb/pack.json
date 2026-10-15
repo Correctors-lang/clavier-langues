@@ -1,0 +1,7 @@
+{
+  "id": "asb",
+  "name": "Nakoda",
+  "locale": "asb-CA",
+  "version": 1,
+  "inherits": "dak"
+}

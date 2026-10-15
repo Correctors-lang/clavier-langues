@@ -1,0 +1,7 @@
+{
+  "id": "hr-it",
+  "name": "Na-našu",
+  "locale": "hr-IT",
+  "version": 1,
+  "inherits": "hr"
+}

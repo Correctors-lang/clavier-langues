@@ -1,0 +1,7 @@
+{
+  "id": "sq-mk",
+  "name": "Shqip (Maqedonia e Veriut)",
+  "locale": "sq-MK",
+  "version": 1,
+  "inherits": "sq"
+}

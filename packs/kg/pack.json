@@ -1,0 +1,12 @@
+{
+  "id": "kg",
+  "name": "Kikongo",
+  "locale": "kg-CD",
+  "version": 1,
+  "layout": "fr_kg.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

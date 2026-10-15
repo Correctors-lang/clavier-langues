@@ -1,0 +1,14 @@
+{
+  "id": "pt",
+  "name": "Português",
+  "locale": "pt-PT",
+  "version": 1,
+  "layout": "qwerty_pt.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "lexicon": "lexicon.tsv",
+    "bigrams": "bigrams.txt"
+  }
+}

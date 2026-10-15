@@ -1,0 +1,13 @@
+{
+  "id": "ko",
+  "name": "한국어",
+  "locale": "ko-KR",
+  "version": 1,
+  "layout": "ko_dubeolsik.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

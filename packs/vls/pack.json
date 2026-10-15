@@ -1,0 +1,12 @@
+{
+  "id": "vls",
+  "name": "West-Vlams",
+  "locale": "vls-BE",
+  "version": 1,
+  "layout": "nl_vls.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

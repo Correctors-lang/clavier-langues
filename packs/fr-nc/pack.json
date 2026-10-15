@@ -1,0 +1,7 @@
+{
+  "id": "fr-nc",
+  "name": "Français (Nouvelle-Calédonie)",
+  "locale": "fr-NC",
+  "version": 1,
+  "inherits": "fr"
+}

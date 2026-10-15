@@ -1,0 +1,13 @@
+{
+  "id": "yue",
+  "name": "粵語",
+  "locale": "yue-HK",
+  "version": 1,
+  "layout": "yue_qwerty.json",
+  "files": {
+    "words": "words.txt",
+    "readings": "readings.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

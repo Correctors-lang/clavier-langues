@@ -1,0 +1,13 @@
+{
+  "id": "no",
+  "name": "Norsk",
+  "locale": "nb-NO",
+  "version": 1,
+  "layout": "qwerty_no.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

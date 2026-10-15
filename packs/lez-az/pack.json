@@ -1,0 +1,7 @@
+{
+  "id": "lez-az",
+  "name": "Лезги (Azerbaijan)",
+  "locale": "lez-AZ",
+  "version": 1,
+  "inherits": "lez"
+}

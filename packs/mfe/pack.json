@@ -1,0 +1,12 @@
+{
+  "id": "mfe",
+  "name": "Kreol morisien",
+  "locale": "mfe-MU",
+  "version": 1,
+  "layout": "en_mfe.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

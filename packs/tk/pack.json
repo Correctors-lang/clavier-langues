@@ -1,0 +1,12 @@
+{
+  "id": "tk",
+  "name": "Türkmençe",
+  "locale": "tk-TM",
+  "version": 1,
+  "layout": "en_tk.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

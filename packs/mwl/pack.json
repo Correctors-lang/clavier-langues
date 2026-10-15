@@ -1,0 +1,12 @@
+{
+  "id": "mwl",
+  "name": "Mirandés",
+  "locale": "mwl-PT",
+  "version": 1,
+  "layout": "pt_mwl.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

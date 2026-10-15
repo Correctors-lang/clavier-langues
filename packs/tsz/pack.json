@@ -1,0 +1,12 @@
+{
+  "id": "tsz",
+  "name": "Purhepecha",
+  "locale": "tsz-MX",
+  "version": 1,
+  "layout": "es_tsz.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

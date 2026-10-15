@@ -1,0 +1,12 @@
+{
+  "id": "ps",
+  "name": "پښتو",
+  "locale": "ps-AF",
+  "version": 1,
+  "layout": "fa_ps.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

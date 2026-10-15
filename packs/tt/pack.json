@@ -1,0 +1,12 @@
+{
+  "id": "tt",
+  "name": "Татарча",
+  "locale": "tt-RU",
+  "version": 1,
+  "layout": "ru_tt.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

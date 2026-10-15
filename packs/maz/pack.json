@@ -1,0 +1,12 @@
+{
+  "id": "maz",
+  "name": "Jñatrjo",
+  "locale": "maz-MX",
+  "version": 1,
+  "layout": "es_maz.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

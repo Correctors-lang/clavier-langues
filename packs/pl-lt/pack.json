@@ -1,0 +1,7 @@
+{
+  "id": "pl-lt",
+  "name": "Polski (Litwa)",
+  "locale": "pl-LT",
+  "version": 1,
+  "inherits": "pl"
+}

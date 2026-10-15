@@ -1,0 +1,14 @@
+{
+  "id": "ca",
+  "name": "Català",
+  "locale": "ca-ES",
+  "version": 1,
+  "layout": "qwerty_ca.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "lexicon": "lexicon.tsv",
+    "bigrams": "bigrams.txt"
+  }
+}

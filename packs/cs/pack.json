@@ -1,0 +1,13 @@
+{
+  "id": "cs",
+  "name": "Čeština",
+  "locale": "cs-CZ",
+  "version": 1,
+  "layout": "qwertz_cs.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

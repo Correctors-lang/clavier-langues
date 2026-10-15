@@ -1,0 +1,12 @@
+{
+  "id": "sco",
+  "name": "Scots",
+  "locale": "sco-GB",
+  "version": 1,
+  "layout": "en_sco.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "it-tos",
+  "name": "Italiano (Toscana)",
+  "locale": "it-IT",
+  "version": 1,
+  "inherits": "it",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

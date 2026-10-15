@@ -1,0 +1,12 @@
+{
+  "id": "mcq",
+  "name": "Ese",
+  "locale": "mcq-PG",
+  "version": 1,
+  "layout": "en_mcq.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

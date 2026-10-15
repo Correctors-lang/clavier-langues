@@ -1,0 +1,12 @@
+{
+  "id": "krl",
+  "name": "Karjala",
+  "locale": "krl-RU",
+  "version": 1,
+  "layout": "fi_krl.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

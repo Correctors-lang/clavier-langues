@@ -1,0 +1,40 @@
+# Vocabulaire propre à « Español (Panamá) ».
+# mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
+# Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
+arrancado	12000
+balboa	30000
+bochinche	3000
+buco	30000
+carimañola	30000
+chantin	30000
+chicha	30000
+chiricano	12000
+chiva	12000
+chombo	12000
+chorizo	3000
+chuleta	30000
+chuzo	3000
+diablo rojo	12000
+fren	30000
+guandú	12000
+guaro	3000
+hojaldre	30000
+interiorano	12000
+juega vivo	30000
+otoe	12000
+parqueo	30000
+patacón	30000
+pelao	30000
+pelá	30000
+pifiar	12000
+priti	3000
+raspao	30000
+rebuleo	3000
+ropa vieja	12000
+sancocho	30000
+seco	12000
+tamal	12000
+vaina	30000
+xopá	30000
+yeye	30000
+ñame	12000

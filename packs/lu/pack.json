@@ -1,0 +1,12 @@
+{
+  "id": "lu",
+  "name": "Kiluba",
+  "locale": "lu-CD",
+  "version": 1,
+  "layout": "fr_lu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

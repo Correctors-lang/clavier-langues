@@ -1,0 +1,12 @@
+{
+  "id": "hsb",
+  "name": "Hornjoserbšćina",
+  "locale": "hsb-DE",
+  "version": 1,
+  "layout": "de_hsb.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

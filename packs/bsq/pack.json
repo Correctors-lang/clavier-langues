@@ -1,0 +1,12 @@
+{
+  "id": "bsq",
+  "name": "Ɓǎsɔ́ɔ̀",
+  "locale": "bsq-LR",
+  "version": 1,
+  "layout": "en_bsq.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

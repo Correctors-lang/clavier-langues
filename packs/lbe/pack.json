@@ -1,0 +1,12 @@
+{
+  "id": "lbe",
+  "name": "Лакку",
+  "locale": "lbe-RU",
+  "version": 1,
+  "layout": "ru_lbe.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "lad",
+  "name": "Djudeo-espanyol",
+  "locale": "lad-IL",
+  "version": 1,
+  "layout": "es_lad.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

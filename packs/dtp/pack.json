@@ -1,0 +1,12 @@
+{
+  "id": "dtp",
+  "name": "Kadazandusun",
+  "locale": "dtp-MY",
+  "version": 1,
+  "layout": "en_dtp.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

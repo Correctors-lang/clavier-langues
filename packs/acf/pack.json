@@ -1,0 +1,13 @@
+{
+  "id": "acf",
+  "name": "Kwéyòl",
+  "locale": "acf-LC",
+  "version": 1,
+  "layout": "en_acf.json",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt",
+    "typography": "typography.json"
+  },
+  "inherits": "gcf"
+}

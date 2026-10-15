@@ -1,0 +1,13 @@
+{
+  "id": "ar",
+  "name": "العربية",
+  "locale": "ar",
+  "version": 1,
+  "layout": "ar_ar.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

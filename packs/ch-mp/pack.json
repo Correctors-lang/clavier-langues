@@ -1,0 +1,7 @@
+{
+  "id": "ch-mp",
+  "name": "Chamoru (Northern Mariana Islands)",
+  "locale": "ch-MP",
+  "version": 1,
+  "inherits": "ch"
+}

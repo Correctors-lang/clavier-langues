@@ -1,0 +1,12 @@
+{
+  "id": "gaa",
+  "name": "Gã",
+  "locale": "gaa-GH",
+  "version": 1,
+  "layout": "en_gaa.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

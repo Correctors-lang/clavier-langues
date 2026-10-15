@@ -1,0 +1,7 @@
+{
+  "id": "sw-ug",
+  "name": "Kiswahili (Uganda)",
+  "locale": "sw-UG",
+  "version": 1,
+  "inherits": "sw"
+}

@@ -1,0 +1,56 @@
+# Villes de IE (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Dublin
+South Dublin
+South
+Cork
+Limerick
+Galway
+Tallaght
+Waterford
+Drogheda
+Dundalk
+Swords
+Navan
+Bray
+Dún Laoghaire
+Dún
+Laoghaire
+Ennis
+Carlow
+Douglas
+Tralee
+Portlaoise
+Athlone
+Droichead Nua
+Droichead
+Nua
+An Muileann gCearr
+Muileann
+gCearr
+Letterkenny
+Sandyford
+Greystones
+Balbriggan
+Kilkenny
+Wexford
+Naas
+Sligo
+Celbridge
+Finglas
+Ballincollig
+Cluain Meala
+Cluain
+Meala
+Carrigaline
+Templeogue
+Rathfarnham
+Maynooth
+Malahide
+Blanchardstown
+Tullamore
+Leixlip
+Donaghmede
+Lucan

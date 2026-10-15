@@ -1,0 +1,12 @@
+{
+  "id": "gu",
+  "name": "ગુજરાતી",
+  "locale": "gu-IN",
+  "version": 1,
+  "layout": "gujr_gu.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

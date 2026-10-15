@@ -1,0 +1,16 @@
+# Vocabulaire propre à « Kréyòl matinitjé » : créole de Martinique.
+# mot<TAB>fréquence (échelle de words.txt de la langue).
+# Généré par tools/generateurs/build_variantes_regionales.py — ne pas éditer à la main.
+fodfwans	800
+matinik	800
+matinitjè	800
+matinitjé	800
+tjenbé	800
+tjou	800
+tjè	800
+tjè-mwen	800
+djòk	300
+lanmanten	300
+sentpiè	300
+tjilòt	300
+tjuit	300

@@ -1,0 +1,12 @@
+{
+  "id": "ban",
+  "name": "Basa Bali",
+  "locale": "ban-ID",
+  "version": 1,
+  "layout": "en_ban.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

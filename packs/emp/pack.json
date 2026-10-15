@@ -1,0 +1,12 @@
+{
+  "id": "emp",
+  "name": "Emberá",
+  "locale": "emp-CO",
+  "version": 1,
+  "layout": "es_emp.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

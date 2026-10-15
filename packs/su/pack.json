@@ -1,0 +1,12 @@
+{
+  "id": "su",
+  "name": "Basa Sunda",
+  "locale": "su-ID",
+  "version": 1,
+  "layout": "en_su.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

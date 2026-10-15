@@ -1,0 +1,12 @@
+{
+  "id": "men",
+  "name": "Mɛnde",
+  "locale": "men-SL",
+  "version": 1,
+  "layout": "en_men.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "tet",
+  "name": "Tetun",
+  "locale": "tet-TL",
+  "version": 1,
+  "layout": "pt_tet.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

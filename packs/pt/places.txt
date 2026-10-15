@@ -1,0 +1,273 @@
+# Villes de PT (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Lisbon
+Porto
+Braga
+Amadora
+Coimbra
+Leiria
+Setúbal
+Funchal
+Viseu
+Queluz
+Cacém
+Aveiro
+Vila Nova de Gaia
+Vila
+Nova
+Gaia
+Faro
+Algueirão
+Loures
+Felgueiras
+Rio de Mouro
+Rio
+Mouro
+Odivelas
+Évora
+Amora
+Corroios
+Barreiro
+Monsanto
+Rio Tinto
+Tinto
+São Domingos de Rana
+São
+Domingos
+Rana
+Figueira da Foz
+Figueira
+Foz
+Lumiar
+Paranhos
+Ponte de Lima
+Ponte
+Lima
+Olival
+Santo António dos Olivais
+Santo
+António
+Olivais
+Sesimbra
+Guimarães
+Guarda
+Ermesinde
+Santo Ovídio
+Ovídio
+Portimão
+Damaia
+Cidade Universitária
+Cidade
+Universitária
+Benfica
+Cascais
+Maia
+Viana do Castelo
+Viana
+Castelo
+Marvila
+Bragança
+Oeiras
+Beja
+Esposende
+Afurada de Baixo
+Afurada
+Baixo
+Almada
+Lagos
+Castelo Branco
+Branco
+Alcabideche
+Bairro Novo
+Bairro
+Novo
+Espinho
+Câmara de Lobos
+Câmara
+Lobos
+Alvalade
+Arrentela
+Montijo
+Charneca de Caparica
+Charneca
+Caparica
+Campanhã
+Santarém
+Olhão
+Aldoar
+Póvoa de Varzim
+Póvoa
+Varzim
+Senhora da Hora
+Senhora
+Hora
+Marinha Grande
+Marinha
+Grande
+Póvoa de Santa Iria
+Santa
+Iria
+Sequeira
+Massamá
+Matosinhos
+Gondomar
+Águas Santas
+Águas
+Santas
+Vila do Conde
+Conde
+Caldas da Rainha
+Caldas
+Rainha
+Alfornelos
+São Martinho
+Martinho
+Canidelo
+Sintra
+Paço de Arcos
+Paço
+Arcos
+Santo António
+São Mamede de Infesta
+Mamede
+Infesta
+Quinta Do Conde
+Quinta
+Torres Vedras
+Torres
+Vedras
+Quarteira
+Oliveira do Douro
+Oliveira
+Douro
+Fânzeres
+Estoril
+Carnaxide
+Porto de Mós
+Mós
+Pinhal Novo
+Pinhal
+Monte Estoril
+Monte
+Caniço
+Sete Rios
+Sete
+Rios
+Pontinha
+São Jorge de Arroios
+Jorge
+Arroios
+Bomfim
+Arcos de Valdevez
+Valdevez
+Moscavide e Portela
+Moscavide
+Portela
+Parque das Nações
+Parque
+Nações
+Portalegre
+Valadares
+Lordelo do Ouro
+Lordelo
+Ouro
+Campo De Ourique
+Campo
+Ourique
+São João da Madeira
+João
+Madeira
+Lavradio
+Bougado
+Azambuja
+Valongo
+Vilar
+Areeiro
+Arouca
+Belas
+Laranjeiro
+Linda-a-Velha
+Falagueira
+Trofa
+Baião
+Carcavelos
+Alcântara
+Camarate
+Ponta Delgada
+Ponta
+Delgada
+Entroncamento
+Paredes
+Monção
+Piedade
+Custoias
+Algés
+Tomar
+Barcelos
+São Tiago de Custoias
+Tiago
+Pedroso
+Vilar de Andorinho
+Andorinho
+São João da Talha
+Talha
+Azeitão
+Santa Iria da Azóia
+Azóia
+Ovar
+Vila Franca de Xira
+Franca
+Xira
+Carnide
+Leça da Palmeira
+Leça
+Palmeira
+Loulé
+Moita
+Sacavém
+Covilhã
+Ramada
+Chaves
+Pombal
+Quelfes
+Ílhavo
+Parede
+São Paulo de Frades
+Paulo
+Frades
+Eiras
+Condeixa-a-Nova
+Alfragide
+São Pedro da Cova
+Pedro
+Cova
+Vila Real
+Real
+Palmela
+Fafe
+Cabeceiras de Basto
+Cabeceiras
+Basto
+Belém
+Feira
+Leça do Bailio
+Bailio
+Vialonga
+Buraca
+Albufeira
+Baguim do Monte
+Baguim
+Alcobaça
+Vermoim
+Peniche
+Campo Grande
+São Martinho do Bispo
+Bispo
+Ribeira de Frades
+Ribeira
+Alfena
+Tavira
+Torres Novas
+Novas

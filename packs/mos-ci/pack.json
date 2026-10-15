@@ -1,0 +1,7 @@
+{
+  "id": "mos-ci",
+  "name": "Mooré (Côte d’Ivoire)",
+  "locale": "mos-CI",
+  "version": 1,
+  "inherits": "mos"
+}

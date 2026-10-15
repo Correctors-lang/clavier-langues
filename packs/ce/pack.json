@@ -1,0 +1,12 @@
+{
+  "id": "ce",
+  "name": "Нохчийн",
+  "locale": "ce-RU",
+  "version": 1,
+  "layout": "cyr_ce.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

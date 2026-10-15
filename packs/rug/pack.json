@@ -1,0 +1,12 @@
+{
+  "id": "rug",
+  "name": "Roviana",
+  "locale": "rug-SB",
+  "version": 1,
+  "layout": "en_rug.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

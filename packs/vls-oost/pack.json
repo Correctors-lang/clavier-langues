@@ -1,0 +1,7 @@
+{
+  "id": "vls-oost",
+  "name": "Oost-Vlaams",
+  "locale": "vls-BE",
+  "version": 1,
+  "inherits": "vls"
+}

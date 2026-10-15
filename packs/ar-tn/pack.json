@@ -1,0 +1,12 @@
+{
+  "id": "ar-tn",
+  "name": "العربية (تونس)",
+  "locale": "ar-TN",
+  "version": 1,
+  "layout": "ar_ar.json",
+  "inherits": "ar",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
+}

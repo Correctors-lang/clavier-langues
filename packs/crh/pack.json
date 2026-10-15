@@ -1,0 +1,12 @@
+{
+  "id": "crh",
+  "name": "Qırımtatarca",
+  "locale": "crh-UA",
+  "version": 1,
+  "layout": "tr_crh.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

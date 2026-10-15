@@ -1,0 +1,12 @@
+{
+  "id": "bm",
+  "name": "Bamanankan",
+  "locale": "bm-ML",
+  "version": 1,
+  "layout": "fr_bm.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

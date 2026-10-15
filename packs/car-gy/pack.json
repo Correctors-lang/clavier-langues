@@ -1,0 +1,7 @@
+{
+  "id": "car-gy",
+  "name": "Kari'nja (Guyana)",
+  "locale": "car-GY",
+  "version": 1,
+  "inherits": "car"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "kbd-tr",
+  "name": "Адыгэбзэ (Türkiye)",
+  "locale": "kbd-TR",
+  "version": 1,
+  "inherits": "kbd"
+}

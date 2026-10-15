@@ -1,0 +1,13 @@
+{
+  "id": "ga",
+  "name": "Gaeilge",
+  "locale": "ga-IE",
+  "version": 1,
+  "layout": "qwerty_ga.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

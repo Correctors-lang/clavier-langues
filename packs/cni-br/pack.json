@@ -1,0 +1,7 @@
+{
+  "id": "cni-br",
+  "name": "Asháninka (Brazil)",
+  "locale": "cni-BR",
+  "version": 1,
+  "inherits": "cni"
+}

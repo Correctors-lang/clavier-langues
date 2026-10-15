@@ -1,0 +1,13 @@
+{
+  "id": "wo",
+  "name": "Wolof",
+  "locale": "wo-SN",
+  "version": 1,
+  "layout": "azerty_wo.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

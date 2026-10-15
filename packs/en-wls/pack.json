@@ -1,0 +1,10 @@
+{
+  "id": "en-wls",
+  "name": "English (Wales)",
+  "locale": "en-GB",
+  "version": 1,
+  "inherits": "en",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

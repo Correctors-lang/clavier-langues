@@ -1,0 +1,12 @@
+{
+  "id": "gv",
+  "name": "Gaelg",
+  "locale": "gv-IM",
+  "version": 1,
+  "layout": "en_gv.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

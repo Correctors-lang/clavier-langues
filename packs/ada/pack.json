@@ -1,0 +1,12 @@
+{
+  "id": "ada",
+  "name": "Dangme",
+  "locale": "ada-GH",
+  "version": 1,
+  "layout": "en_ada.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

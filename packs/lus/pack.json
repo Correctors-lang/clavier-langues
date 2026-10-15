@@ -1,0 +1,12 @@
+{
+  "id": "lus",
+  "name": "Mizo ṭawng",
+  "locale": "lus-IN",
+  "version": 1,
+  "layout": "en_lus.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

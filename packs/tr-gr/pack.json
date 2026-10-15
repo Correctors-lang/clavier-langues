@@ -1,0 +1,7 @@
+{
+  "id": "tr-gr",
+  "name": "Türkçe (Yunanistan)",
+  "locale": "tr-GR",
+  "version": 1,
+  "inherits": "tr"
+}

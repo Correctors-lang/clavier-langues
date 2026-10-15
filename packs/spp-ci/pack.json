@@ -1,0 +1,7 @@
+{
+  "id": "spp-ci",
+  "name": "Supyire (Côte d’Ivoire)",
+  "locale": "spp-CI",
+  "version": 1,
+  "inherits": "spp"
+}

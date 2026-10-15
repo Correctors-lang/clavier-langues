@@ -1,0 +1,12 @@
+{
+  "id": "hil",
+  "name": "Hiligaynon",
+  "locale": "hil-PH",
+  "version": 1,
+  "layout": "en_hil.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

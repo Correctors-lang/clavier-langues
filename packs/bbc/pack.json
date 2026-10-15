@@ -1,0 +1,12 @@
+{
+  "id": "bbc",
+  "name": "Hata Batak Toba",
+  "locale": "bbc-ID",
+  "version": 1,
+  "layout": "en_bbc.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

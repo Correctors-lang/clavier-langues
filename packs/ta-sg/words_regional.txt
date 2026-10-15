@@ -1,0 +1,14 @@
+# Vocabulaire propre à « தமிழ் (சிங்கப்பூர்) » : tamoul de Singapour.
+# mot<TAB>fréquence (échelle de words.txt de la langue).
+# Généré par tools/generateurs/build_variantes_regionales.py — ne pas éditer à la main.
+சிங்கப்பூரர்	800
+சிங்கப்பூரர்கள்	800
+சிங்கப்பூரின்	800
+சிங்கப்பூரில்	800
+சிங்கப்பூர்	800
+செராங்கூன்	800
+சாங்கி	300
+செந்தோசா	300
+ஜூரோங்	300
+தமிழ் முரசு	300
+லிட்டில் இந்தியா	300

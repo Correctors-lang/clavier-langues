@@ -1,0 +1,12 @@
+{
+  "id": "mic",
+  "name": "Mi'kmawi'simk",
+  "locale": "mic-CA",
+  "version": 1,
+  "layout": "en_mic.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

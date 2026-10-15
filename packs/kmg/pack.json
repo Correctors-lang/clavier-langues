@@ -1,0 +1,12 @@
+{
+  "id": "kmg",
+  "name": "Kâte",
+  "locale": "kmg-PG",
+  "version": 1,
+  "layout": "en_kmg.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,48 @@
+# Vocabulaire propre à « Español (Cuba) ».
+# mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
+# Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
+acere	30000
+ajiaco	30000
+almendrón	3000
+asere	30000
+balsero	12000
+bisne	30000
+bodega	30000
+bárbaro	30000
+cafecito	30000
+candela	30000
+chama	30000
+chamaco	30000
+chavito	30000
+colada	12000
+congrí	30000
+echar un pie	3000
+frijol negro	12000
+fula	30000
+gao	12000
+guagua	30000
+guayaba	12000
+invento	30000
+jama	30000
+jamar	30000
+jinetero	12000
+libreta	12000
+luchar	30000
+mamey	30000
+mariquitas	30000
+moros y cristianos	12000
+paladar	3000
+pepillo	12000
+picadillo	30000
+pincha	30000
+pinchar	30000
+pru	12000
+qué bolá	3000
+resolver	30000
+ropa vieja	30000
+singao	3000
+timba	3000
+tostones	30000
+yuca con mojo	12000
+yuma	30000
+ñoño	3000

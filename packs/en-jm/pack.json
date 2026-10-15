@@ -1,0 +1,7 @@
+{
+  "id": "en-jm",
+  "name": "English (Jamaica)",
+  "locale": "en-JM",
+  "version": 1,
+  "inherits": "en"
+}

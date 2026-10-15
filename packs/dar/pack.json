@@ -1,0 +1,12 @@
+{
+  "id": "dar",
+  "name": "Дарган",
+  "locale": "dar-RU",
+  "version": 1,
+  "layout": "ru_dar.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

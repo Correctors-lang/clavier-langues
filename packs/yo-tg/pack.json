@@ -1,0 +1,7 @@
+{
+  "id": "yo-tg",
+  "name": "Yorùbá (Togo)",
+  "locale": "yo-TG",
+  "version": 1,
+  "inherits": "yo"
+}

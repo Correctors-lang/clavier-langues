@@ -1,0 +1,12 @@
+{
+  "id": "cab",
+  "name": "Garifuna",
+  "locale": "cab-HN",
+  "version": 1,
+  "layout": "es_cab.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "en-lr",
+  "name": "English (Liberia)",
+  "locale": "en-LR",
+  "version": 1,
+  "inherits": "en"
+}

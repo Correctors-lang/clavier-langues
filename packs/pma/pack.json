@@ -1,0 +1,12 @@
+{
+  "id": "pma",
+  "name": "Paamese",
+  "locale": "pma-VU",
+  "version": 1,
+  "layout": "en_pma.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

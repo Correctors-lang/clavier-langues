@@ -1,0 +1,7 @@
+{
+  "id": "en-bz",
+  "name": "English (Belize)",
+  "locale": "en-BZ",
+  "version": 1,
+  "inherits": "en"
+}

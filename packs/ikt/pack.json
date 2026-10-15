@@ -1,0 +1,12 @@
+{
+  "id": "ikt",
+  "name": "Inuinnaqtun",
+  "locale": "ikt-CA",
+  "version": 1,
+  "layout": "en_ikt.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

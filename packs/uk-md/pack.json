@@ -1,0 +1,7 @@
+{
+  "id": "uk-md",
+  "name": "Українська (Молдова)",
+  "locale": "uk-MD",
+  "version": 1,
+  "inherits": "uk"
+}

@@ -1,0 +1,927 @@
+{
+  "_comment": "Règles de grammaire françaises. 'regex' = expressions figées / fautes lexicales ; 'confusions' = homophones avec indices de contexte. Éditez librement, aucun code à toucher.",
+  "regex": [
+    {
+      "id": "malgre-que",
+      "flags": "i",
+      "pattern": "\\bmalgré qu[e']\\b",
+      "message": "« malgré que » est fautif",
+      "replace": "bien que"
+    },
+    {
+      "id": "pallier-a",
+      "flags": "i",
+      "pattern": "\\bpallier à\\b",
+      "message": "« pallier » est transitif direct : « pallier qqch »",
+      "replace": "pallier"
+    },
+    {
+      "id": "au-jour-daujourdhui",
+      "flags": "i",
+      "pattern": "\\bau jour d'aujourd'hui\\b",
+      "message": "pléonasme",
+      "replace": "aujourd'hui"
+    },
+    {
+      "id": "comme-meme",
+      "flags": "i",
+      "pattern": "\\bcomme même\\b",
+      "message": "« comme même » → « quand même »",
+      "replace": "quand même"
+    },
+    {
+      "id": "autant-pour-moi",
+      "flags": "i",
+      "pattern": "\\bautant pour moi\\b",
+      "message": "expression : « au temps pour moi »",
+      "replace": "au temps pour moi"
+    },
+    {
+      "id": "voir-meme",
+      "flags": "i",
+      "pattern": "\\bvoir même\\b",
+      "message": "« voir même » → « voire même » est un pléonasme ; préférez « voire »",
+      "replace": "voire"
+    },
+    {
+      "id": "si-jaurais",
+      "flags": "i",
+      "pattern": "\\bsi j'aurais\\b",
+      "message": "après « si » : imparfait, pas de conditionnel",
+      "replace": "si j'avais"
+    },
+    {
+      "id": "si-tu-aurais",
+      "flags": "i",
+      "pattern": "\\bsi tu aurais\\b",
+      "message": "après « si » : imparfait",
+      "replace": "si tu avais"
+    },
+    {
+      "id": "si-il",
+      "flags": "i",
+      "pattern": "\\bsi ils?\\b",
+      "message": "élision : « s'il », « s'ils »",
+      "replace": "s'il"
+    },
+    {
+      "id": "quand-a",
+      "flags": "i",
+      "pattern": "\\bquand à\\b",
+      "message": "« quant à » (au sujet de)",
+      "replace": "quant à"
+    },
+    {
+      "id": "davantage-de",
+      "flags": "i",
+      "pattern": "\\bd'avantage de\\b",
+      "message": "« davantage » (plus) en un mot",
+      "replace": "davantage de"
+    },
+    {
+      "id": "entre-guillemets",
+      "flags": "i",
+      "pattern": "\\bhein\\b",
+      "message": "registre très familier",
+      "replace": null
+    },
+    {
+      "id": "bien-sur",
+      "flags": "i",
+      "pattern": "\\bbien sur\\b(?!e)",
+      "message": "« bien sûr » (accent circonflexe)",
+      "replace": "bien sûr"
+    },
+    {
+      "id": "tout-le-temps",
+      "flags": "i",
+      "pattern": "\\b(?:toit|tous|tou|toute) le temps\\b",
+      "message": "« tout le temps »",
+      "replace": "tout le temps"
+    },
+    {
+      "id": "a-priori",
+      "flags": "i",
+      "pattern": "\\bà priori\\b",
+      "message": "locution latine : « a priori » (sans accent)",
+      "replace": "a priori"
+    },
+    {
+      "id": "parmis",
+      "flags": "i",
+      "pattern": "\\bparmis\\b",
+      "message": "« parmi » ne prend jamais de s",
+      "replace": "parmi"
+    },
+    {
+      "id": "malgres",
+      "flags": "i",
+      "pattern": "\\bmalgrés\\b",
+      "message": "« malgré » sans s",
+      "replace": "malgré"
+    },
+    {
+      "id": "aggresser",
+      "flags": "i",
+      "pattern": "\\bag+res(s?)er\\b",
+      "message": "« agresser » : un seul g",
+      "replace": "agresser"
+    },
+    {
+      "id": "je-vais-au-coiffeur",
+      "flags": "i",
+      "pattern": "\\b(vais|va|vont|allons|allez) au coiffeur\\b",
+      "message": "on va CHEZ le coiffeur",
+      "replace": null
+    },
+    {
+      "id": "ce-que-je-crois-que",
+      "flags": "i",
+      "pattern": "\\bpour que? (?:soit|sois)\\b",
+      "message": "vérifiez le subjonctif",
+      "replace": null
+    },
+    {
+      "id": "ta-vs-tas",
+      "flags": "i",
+      "pattern": "\\bt'?as +(m[eè]re|meuf|reum|race|gueule|s(?:oe|œ)ur|daronne|femme|fille|bouche|main|place|chambre|gueule)\\b",
+      "message": "« ta » = déterminant possessif ; « t'as » = tu as",
+      "replace": "ta $1"
+    },
+    {
+      "id": "ra-pour-ta",
+      "flags": "i",
+      "pattern": "\\bras? +(m[eè]re|meuf|reum|race|gueule|s(?:oe|œ)ur|daronne)\\b",
+      "message": "« ta » attendu ici",
+      "replace": "ta $1"
+    },
+    {
+      "id": "ma-vs-m-a",
+      "flags": "i",
+      "pattern": "\\bm'a +(m[eè]re|meuf|voiture|maison|s(?:oe|œ)ur|femme|fille|place|bouche|chambre)\\b",
+      "message": "« ma » = possessif ; « m'a » = me + a (verbe avoir)",
+      "replace": "ma $1"
+    },
+    {
+      "id": "leur-verbe",
+      "flags": "i",
+      "pattern": "\\b(je|tu|il|elle|on|nous|vous|ils|elles) +leurs +(ai|as|a|avons|avez|ont|dis|dit|donne|donné|parle|parlé|demande|demandé|explique|expliqué|envoie|envoyé)\\b",
+      "message": "« leur » devant un verbe est invariable",
+      "replace": "$1 leur $2"
+    },
+    {
+      "id": "des-fois",
+      "flags": "i",
+      "pattern": "\\bdes fois\\b",
+      "message": "registre familier : préférez « parfois »",
+      "replace": "parfois"
+    },
+    {
+      "id": "ca-vas",
+      "flags": "i",
+      "pattern": "\\b[cç]a vas\\b",
+      "message": "« ça va » (3e personne)",
+      "replace": "ça va"
+    },
+    {
+      "id": "sa-va",
+      "flags": "i",
+      "pattern": "\\bsa va\\b",
+      "message": "« ça va » (cela), pas « sa »",
+      "replace": "ça va"
+    },
+    {
+      "id": "au-niveau",
+      "flags": "i",
+      "pattern": "\\bau niveau de\\b",
+      "message": "tic de langage : « au niveau de »",
+      "replace": null
+    },
+    {
+      "id": "voila-t",
+      "flags": "i",
+      "pattern": "\\bvoila\\b",
+      "message": "« voilà » (accent grave)",
+      "replace": "voilà"
+    },
+    {
+      "id": "ca-accent",
+      "flags": "",
+      "pattern": "\\bca\\b",
+      "message": "« ça » (cédille) ou « çà »",
+      "replace": "ça"
+    },
+    {
+      "id": "ou-est",
+      "flags": "i",
+      "pattern": "\\bou est\\b",
+      "message": "« où est » (lieu)",
+      "replace": "où est"
+    },
+    {
+      "id": "quoi que-quoique",
+      "flags": "i",
+      "pattern": "\\bquoique? tu (fasses|dises|veuilles)\\b",
+      "message": "« quoi que » en deux mots (quelle que soit la chose que)",
+      "replace": "quoi que tu $1"
+    },
+    {
+      "id": "cote-a-cote",
+      "flags": "i",
+      "pattern": "\\b(?:cote [aà] c[oô]te|côte a c[oô]te|côte à cote)\\b",
+      "message": "« côte à côte » : l'un à côté de l'autre",
+      "replace": "côte à côte"
+    },
+    {
+      "id": "la-bas",
+      "flags": "i",
+      "pattern": "\\b(?:là|la) bas\\b",
+      "message": "« là-bas » prend un tiret",
+      "replace": "là-bas"
+    },
+    {
+      "id": "c-est-a-dire",
+      "flags": "i",
+      "pattern": "\\bc'est [aà] dire\\b",
+      "message": "« c'est-à-dire » prend deux tirets",
+      "replace": "c'est-à-dire"
+    },
+    {
+      "id": "au-dessus",
+      "flags": "i",
+      "pattern": "\\b(au|là|ci|par|en) (dessus|dessous|dedans|dehors|devant|delà)\\b",
+      "message": "Locution : un tiret (« au-dessus », « là-dedans »)",
+      "replace": "$1-$2"
+    },
+    {
+      "id": "celui-ci",
+      "flags": "i",
+      "pattern": "\\b(celui|celle|ceux|celles) ci\\b",
+      "message": "Pronom démonstratif : un tiret (« celui-ci », « ceux-là »)",
+      "replace": "$1-ci"
+    },
+    {
+      "id": "celui-la",
+      "flags": "i",
+      "pattern": "\\b(celui|celle|ceux|celles) (?:là|la)\\b",
+      "message": "Pronom démonstratif : un tiret (« celui-ci », « ceux-là »)",
+      "replace": "$1-là"
+    },
+    {
+      "id": "vis-a-vis",
+      "flags": "i",
+      "pattern": "\\bvis [aà] vis\\b",
+      "message": "« vis-à-vis » prend deux tirets",
+      "replace": "vis-à-vis"
+    },
+    {
+      "id": "rendez-vous",
+      "flags": "i",
+      "pattern": "\\brendez vous\\b",
+      "message": "« rendez-vous » prend un tiret",
+      "replace": "rendez-vous"
+    },
+    {
+      "id": "grand-mere",
+      "flags": "i",
+      "pattern": "\\bgrand (?:mère|mere)\\b",
+      "message": "Nom composé : un tiret (« grand-mère »)",
+      "replace": "grand-mère"
+    },
+    {
+      "id": "grand-mere-pluriel",
+      "flags": "i",
+      "pattern": "\\bgrands? (?:mères|meres)\\b",
+      "message": "Nom composé : un tiret (« grand-mère »)",
+      "replace": "grands-mères"
+    },
+    {
+      "id": "grand-pere",
+      "flags": "i",
+      "pattern": "\\bgrand (?:père|pere)\\b",
+      "message": "Nom composé : un tiret (« grand-mère »)",
+      "replace": "grand-père"
+    },
+    {
+      "id": "grand-pere-pluriel",
+      "flags": "i",
+      "pattern": "\\bgrands? (?:pères|peres)\\b",
+      "message": "Nom composé : un tiret (« grand-mère »)",
+      "replace": "grands-pères"
+    },
+    {
+      "id": "grand-oncle",
+      "flags": "i",
+      "pattern": "\\bgrand (oncle|tante)\\b",
+      "message": "Nom composé : un tiret (« grand-mère »)",
+      "replace": "grand-$1"
+    },
+    {
+      "id": "grands-parents",
+      "flags": "i",
+      "pattern": "\\bgrands? parents\\b",
+      "message": "« grands-parents » : deux pluriels et un tiret",
+      "replace": "grands-parents"
+    },
+    {
+      "id": "apres-midi",
+      "flags": "i",
+      "pattern": "\\b(cet|cette|l'|un|une|chaque|tout l'|bon) apr[eè]s midi\\b",
+      "message": "Nom composé : « après-midi »",
+      "replace": "$1 après-midi"
+    },
+    {
+      "id": "quelqu-un",
+      "flags": "i",
+      "pattern": "\\bquelqu un\\b",
+      "message": "Élision : « quelqu'un »",
+      "replace": "quelqu'un"
+    },
+    {
+      "id": "aujourd-hui",
+      "flags": "i",
+      "pattern": "\\baujourd hui\\b",
+      "message": "Élision : « aujourd'hui »",
+      "replace": "aujourd'hui"
+    },
+    {
+      "id": "peu-a-peu",
+      "flags": "i",
+      "pattern": "\\b(peu|petit|face|pas) a (peu|petit|face|pas)\\b",
+      "message": "Préposition « à » : « peu à peu », « face à face »",
+      "replace": "$1 à $2"
+    },
+    {
+      "id": "a-peu-pres",
+      "flags": "i",
+      "pattern": "\\b(?:a peu pr[eè]s|à peu pres)\\b",
+      "message": "Locution : « à peu près »",
+      "replace": "à peu près"
+    },
+    {
+      "id": "au-fur-et-a-mesure",
+      "flags": "i",
+      "pattern": "\\bau fur et a mesure\\b",
+      "message": "Locution : « au fur et à mesure »",
+      "replace": "au fur et à mesure"
+    },
+    {
+      "id": "a-cote-de",
+      "flags": "i",
+      "pattern": "\\b(?:a c[oô]t[eé]|à cot[eé]|à côte) (de|du|des|d')",
+      "message": "Locution : « à côté de »",
+      "replace": "à côté $1"
+    },
+    {
+      "id": "tete-a-tete",
+      "flags": "i",
+      "pattern": "\\bun t[eê]te [aà] t[eê]te\\b",
+      "message": "Nom composé : « un tête-à-tête »",
+      "replace": "un tête-à-tête"
+    }
+  ],
+  "confusions": [
+    {
+      "id": "a-vs-à",
+      "words": [
+        "a",
+        "à"
+      ],
+      "hint_before": [
+        "il",
+        "elle",
+        "on",
+        "qui",
+        "ça",
+        "cela",
+        "n'",
+        "y"
+      ],
+      "prefer_when_before": "a",
+      "hint_after": [
+        "paris",
+        "la",
+        "le",
+        "moi",
+        "toi",
+        "lui",
+        "elle",
+        "eux",
+        "cause",
+        "peine",
+        "propos",
+        "côté",
+        "travers",
+        "partir",
+        "nouveau"
+      ],
+      "prefer_when_after": "à",
+      "message": "« a » = verbe avoir ; « à » = préposition"
+    },
+    {
+      "id": "ou-vs-où",
+      "words": [
+        "ou",
+        "où"
+      ],
+      "hint_before": [
+        "là",
+        "d'",
+        "es",
+        "est",
+        "étais",
+        "était",
+        "étaient",
+        "sont",
+        "êtes",
+        "sommes",
+        "sera",
+        "serait",
+        "seras",
+        "serai",
+        "suis"
+      ],
+      "prefer_when_before": "où",
+      "message": "« ou » = alternative ; « où » = lieu (après le verbe être : « tu es où ? »)",
+      "hint_after": [
+        "?"
+      ],
+      "prefer_when_after": "où"
+    },
+    {
+      "id": "et-vs-est",
+      "words": [
+        "et",
+        "est"
+      ],
+      "hint_before": [
+        "il",
+        "elle",
+        "on",
+        "ce",
+        "c'",
+        "qui",
+        "n'"
+      ],
+      "prefer_when_before": "est",
+      "message": "« et » = addition ; « est » = verbe être"
+    },
+    {
+      "id": "on-vs-ont",
+      "words": [
+        "on",
+        "ont"
+      ],
+      "hint_before": [
+        "ils",
+        "elles"
+      ],
+      "prefer_when_before": "ont",
+      "message": "« on » = pronom ; « ont » = verbe avoir (ils/elles)"
+    },
+    {
+      "id": "son-vs-sont",
+      "words": [
+        "son",
+        "sont"
+      ],
+      "hint_before": [
+        "ils",
+        "elles",
+        "ne",
+        "qui"
+      ],
+      "prefer_when_before": "sont",
+      "message": "« son » = possessif ; « sont » = verbe être (ils/elles)"
+    },
+    {
+      "id": "ce-vs-se",
+      "words": [
+        "ce",
+        "se"
+      ],
+      "hint_after": [
+        "matin",
+        "soir",
+        "livre",
+        "sont",
+        "chien",
+        "chat",
+        "week-end",
+        "jour",
+        "moment",
+        "point"
+      ],
+      "prefer_when_after": "ce",
+      "message": "« ce » = déterminant/pronom ; « se » = pronom réfléchi"
+    },
+    {
+      "id": "la-vs-là",
+      "words": [
+        "la",
+        "là"
+      ],
+      "hint_before": [
+        "celui",
+        "celle",
+        "ceux",
+        "-",
+        "oh",
+        "hé"
+      ],
+      "prefer_when_before": "là",
+      "hint_after": [
+        "où",
+        "bas",
+        "haut",
+        "dedans",
+        "dessus",
+        "dessous"
+      ],
+      "prefer_when_after": "là",
+      "message": "« la » = article/pronom ; « là » = lieu / renforcement"
+    },
+    {
+      "id": "l-a-vs-la",
+      "words": [
+        "la",
+        "l'a"
+      ],
+      "hint_after": [
+        "vu",
+        "vue",
+        "dit",
+        "dite",
+        "fait",
+        "faite",
+        "pris",
+        "prise",
+        "mis",
+        "mise",
+        "eu",
+        "eue",
+        "appelé",
+        "appelée",
+        "vendu",
+        "vendue",
+        "cassé",
+        "cassée",
+        "entendu",
+        "entendue",
+        "compris",
+        "comprise",
+        "emmené",
+        "emmenée",
+        "aidé",
+        "aidée",
+        "poussé",
+        "poussée"
+      ],
+      "prefer_when_after": "l'a",
+      "message": "« l'a » = le/la + a (verbe avoir) ; « la » = article"
+    },
+    {
+      "id": "ca-vs-sa",
+      "words": [
+        "ça",
+        "sa"
+      ],
+      "hint_after": [
+        "va",
+        "vient",
+        "marche",
+        "fait",
+        "suffit",
+        "ira",
+        "change",
+        "dépend",
+        "arrive",
+        "m'",
+        "t'",
+        "me",
+        "te"
+      ],
+      "prefer_when_after": "ça",
+      "message": "« ça » = cela ; « sa » = possessif"
+    },
+    {
+      "_comment": "Remplace « ces-ses-c-est-s-est » (2026-10-09). L'ancienne règle mettait ces, ses, c'est, s'est, sais et sait dans le MÊME sac, avec je/tu/il/elle/on/qui pour indices et « sais » comme forme préférée. Mesuré : « Qui sait ? », « Il sait », « Elle sait », « On sait » et « Il ne sait pas » étaient tous corrigés en « sais ». Or il, elle, on et qui sont des troisièmes personnes, qui appellent « sait ». Et ces/ses/c'est/s'est ne se tranchent pas par la personne du sujet : ils n'avaient rien à faire là.",
+      "id": "sais-premiere-deuxieme-personne",
+      "words": [
+        "sais",
+        "sait"
+      ],
+      "hint_before": [
+        "je",
+        "tu"
+      ],
+      "prefer_when_before": "sais",
+      "message": "« je sais », « tu sais » : première ou deuxième personne"
+    },
+    {
+      "id": "sait-troisieme-personne",
+      "words": [
+        "sais",
+        "sait"
+      ],
+      "hint_before": [
+        "il",
+        "elle",
+        "on",
+        "qui",
+        "chacun",
+        "chacune",
+        "celui",
+        "celle",
+        "quelqu'un",
+        "nul"
+      ],
+      "prefer_when_before": "sait",
+      "message": "« il sait », « qui sait » : troisième personne"
+    },
+    {
+      "id": "quel-quelle-feminin",
+      "words": [
+        "quel",
+        "quelle"
+      ],
+      "hint_after": [
+        "heure",
+        "idée",
+        "chance",
+        "horreur",
+        "surprise",
+        "aventure",
+        "histoire",
+        "question",
+        "raison",
+        "différence",
+        "importance",
+        "manière",
+        "façon",
+        "époque",
+        "ambiance",
+        "équipe",
+        "réponse",
+        "solution",
+        "couleur",
+        "taille"
+      ],
+      "prefer_when_after": "quelle",
+      "message": "accord de « quel » avec le nom féminin qui suit"
+    },
+    {
+      "id": "quel-quelle-masculin",
+      "words": [
+        "quel",
+        "quelle"
+      ],
+      "hint_after": [
+        "jour",
+        "âge",
+        "dommage",
+        "moment",
+        "endroit",
+        "genre",
+        "type",
+        "intérêt",
+        "plaisir",
+        "honneur",
+        "problème",
+        "prix",
+        "nom",
+        "pays",
+        "métier",
+        "sens",
+        "niveau",
+        "temps",
+        "rôle",
+        "choix"
+      ],
+      "prefer_when_after": "quel",
+      "message": "accord de « quel » avec le nom masculin qui suit"
+    },
+    {
+      "id": "mes-mais-mets",
+      "words": [
+        "mes",
+        "mais",
+        "mets",
+        "met"
+      ],
+      "hint_after": [
+        "parents",
+        "amis",
+        "affaires",
+        "clés",
+        "chaussures",
+        "enfants",
+        "mains",
+        "yeux"
+      ],
+      "prefer_when_after": "mes",
+      "message": "« mes » = possessif ; « mais » = opposition ; « mets » = mettre / plat"
+    },
+    {
+      "id": "ni-ny",
+      "words": [
+        "ni",
+        "n'y"
+      ],
+      "hint_after": [
+        "a",
+        "avait",
+        "aura",
+        "pense",
+        "vais",
+        "connais",
+        "comprends",
+        "arrive",
+        "peut"
+      ],
+      "prefer_when_after": "n'y",
+      "message": "« ni » = négation coordonnée ; « n'y » = ne + y"
+    },
+    {
+      "id": "si-sy",
+      "words": [
+        "si",
+        "s'y"
+      ],
+      "hint_after": [
+        "attend",
+        "prend",
+        "met",
+        "trouve",
+        "rend",
+        "connaît",
+        "intéresse",
+        "habitue",
+        "oppose",
+        "refuse",
+        "prépare"
+      ],
+      "prefer_when_after": "s'y",
+      "message": "« si » = condition ; « s'y » = se + y"
+    },
+    {
+      "id": "cet-cette-sept",
+      "words": [
+        "cet",
+        "cette",
+        "sept",
+        "set"
+      ],
+      "hint_after": [
+        "homme",
+        "après-midi",
+        "hôtel",
+        "arbre",
+        "endroit",
+        "objet",
+        "élève",
+        "enfant",
+        "avion"
+      ],
+      "prefer_when_after": "cet",
+      "message": "« cet » (devant voyelle) / « cette » (féminin) / « sept » (7)"
+    },
+    {
+      "id": "près-prêt",
+      "words": [
+        "près",
+        "prêt",
+        "prête",
+        "prêts"
+      ],
+      "hint_after": [
+        "de",
+        "du",
+        "des",
+        "d'"
+      ],
+      "prefer_when_after": "près",
+      "message": "« près (de) » = proximité ; « prêt (à) » = disposé"
+    },
+    {
+      "id": "plutôt-plus-tôt",
+      "words": [
+        "plutôt",
+        "plustot"
+      ],
+      "message": "« plutôt » = de préférence ; « plus tôt » = moins tard (en deux mots)"
+    },
+    {
+      "id": "sans-vs-sang-cent-sen",
+      "words": [
+        "sans",
+        "sang",
+        "cent",
+        "s'en"
+      ],
+      "hint_after": [
+        "doute",
+        "problème",
+        "problèmes",
+        "souci",
+        "soucis",
+        "cesse",
+        "arrêt",
+        "attendre",
+        "compter",
+        "faute",
+        "gêne",
+        "broncher",
+        "hésiter",
+        "réfléchir",
+        "prévenir",
+        "l'aide",
+        "argent",
+        "raison"
+      ],
+      "prefer_when_after": "sans",
+      "message": "« sans » (absence) ; « sang » (corps) ; « cent » (100) ; « s'en » (pronominal + en)"
+    },
+    {
+      "id": "quelle-vs-quelle-elle",
+      "words": [
+        "quelle",
+        "qu'elle"
+      ],
+      "hint_before": [
+        "dit",
+        "dis",
+        "sais",
+        "sait",
+        "crois",
+        "pense",
+        "penses",
+        "pensez",
+        "espère",
+        "espères",
+        "affirme",
+        "semble",
+        "paraît",
+        "veut",
+        "veux",
+        "faut",
+        "voudrais",
+        "voudrait",
+        "aimerais",
+        "aimerait",
+        "trouve",
+        "trouves",
+        "vois",
+        "voit"
+      ],
+      "prefer_when_before": "qu'elle",
+      "message": "« quelle » = interrogatif/exclamatif (accord) ; « qu'elle » = que + elle"
+    },
+    {
+      "id": "sen-vs-sans-sang-cent",
+      "words": [
+        "sans",
+        "sang",
+        "cent",
+        "s'en"
+      ],
+      "hint_after": [
+        "bat",
+        "bats",
+        "battre",
+        "fout",
+        "fous",
+        "foutre",
+        "fiche",
+        "fiches",
+        "ficher",
+        "moque",
+        "moques",
+        "moquer",
+        "va",
+        "vas",
+        "aller",
+        "occupe",
+        "occupes",
+        "occuper",
+        "souvient",
+        "souviens",
+        "souvenir",
+        "sort",
+        "sortir",
+        "tape",
+        "taper",
+        "balance",
+        "balancer",
+        "prend",
+        "prends",
+        "prendre",
+        "veut",
+        "veux",
+        "vouloir"
+      ],
+      "prefer_when_after": "s'en",
+      "message": "« s'en » (pronominal + en, ex. « s'en battre », « s'en foutre »)"
+    }
+  ]
+}

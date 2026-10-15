@@ -1,0 +1,12 @@
+{
+  "id": "min",
+  "name": "Baso Minangkabau",
+  "locale": "min-ID",
+  "version": 1,
+  "layout": "en_min.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

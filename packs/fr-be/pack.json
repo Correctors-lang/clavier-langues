@@ -1,0 +1,11 @@
+{
+  "id": "fr-be",
+  "name": "Français (Belgique)",
+  "locale": "fr-BE",
+  "version": 1,
+  "layout": "layout_azerty.json",
+  "inherits": "fr",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

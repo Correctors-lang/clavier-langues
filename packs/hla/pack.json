@@ -1,0 +1,12 @@
+{
+  "id": "hla",
+  "name": "Halia",
+  "locale": "hla-PG",
+  "version": 1,
+  "layout": "en_hla.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

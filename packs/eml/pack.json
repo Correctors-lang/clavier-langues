@@ -1,0 +1,12 @@
+{
+  "id": "eml",
+  "name": "Emiliàn e rumagnòl",
+  "locale": "eml-IT",
+  "version": 1,
+  "layout": "it_eml.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

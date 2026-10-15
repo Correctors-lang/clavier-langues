@@ -1,0 +1,13 @@
+{
+  "id": "lv",
+  "name": "Latviešu",
+  "locale": "lv-LV",
+  "version": 1,
+  "layout": "qwerty_lv.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

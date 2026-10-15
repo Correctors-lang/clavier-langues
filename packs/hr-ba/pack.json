@@ -1,0 +1,7 @@
+{
+  "id": "hr-ba",
+  "name": "Hrvatski (Bosna i Hercegovina)",
+  "locale": "hr-BA",
+  "version": 1,
+  "inherits": "hr"
+}

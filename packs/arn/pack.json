@@ -1,0 +1,12 @@
+{
+  "id": "arn",
+  "name": "Mapudungun",
+  "locale": "arn-CL",
+  "version": 1,
+  "layout": "es_arn.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

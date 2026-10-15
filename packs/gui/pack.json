@@ -1,0 +1,7 @@
+{
+  "id": "gui",
+  "name": "Guaraní (Bolivia)",
+  "locale": "gui-BO",
+  "version": 1,
+  "inherits": "gn"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "mam-mx",
+  "name": "Mam (Mexico)",
+  "locale": "mam-MX",
+  "version": 1,
+  "inherits": "mam"
+}

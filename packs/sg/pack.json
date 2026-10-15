@@ -1,0 +1,12 @@
+{
+  "id": "sg",
+  "name": "Sängö",
+  "locale": "sg-CF",
+  "version": 1,
+  "layout": "fr_sg.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

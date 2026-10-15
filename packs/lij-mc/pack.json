@@ -1,0 +1,7 @@
+{
+  "id": "lij-mc",
+  "name": "Ligure (Monaco)",
+  "locale": "lij-MC",
+  "version": 1,
+  "inherits": "lij"
+}

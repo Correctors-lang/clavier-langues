@@ -1,0 +1,13 @@
+{
+  "id": "sw",
+  "name": "Kiswahili",
+  "locale": "sw-TZ",
+  "version": 1,
+  "layout": "qwerty_sw.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

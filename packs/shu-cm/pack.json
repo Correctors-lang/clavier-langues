@@ -1,0 +1,7 @@
+{
+  "id": "shu-cm",
+  "name": "عربي تشادي (Cameroon)",
+  "locale": "shu-CM",
+  "version": 1,
+  "inherits": "shu"
+}

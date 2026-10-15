@@ -1,0 +1,16 @@
+{
+  "id": "en",
+  "name": "English",
+  "locale": "en-US",
+  "version": 1,
+  "layout": "layout_qwerty.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "irregularVerbs": "irregular_verbs.txt",
+    "verbs": "verbs.txt",
+    "rules": "rules.json",
+    "bigrams": "bigrams.txt"
+  }
+}

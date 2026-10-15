@@ -1,0 +1,12 @@
+{
+  "id": "ff",
+  "name": "Fulfulde",
+  "locale": "ff-SN",
+  "version": 1,
+  "layout": "fr_ff.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

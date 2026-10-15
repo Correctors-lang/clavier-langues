@@ -1,0 +1,7 @@
+{
+  "id": "lnc",
+  "name": "Lengadocian",
+  "locale": "oc-FR",
+  "version": 1,
+  "inherits": "oc"
+}

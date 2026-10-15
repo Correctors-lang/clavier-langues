@@ -1,0 +1,12 @@
+{
+  "id": "nv",
+  "name": "Diné bizaad",
+  "locale": "nv-US",
+  "version": 1,
+  "layout": "en_nv.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

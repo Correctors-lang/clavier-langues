@@ -1,0 +1,10 @@
+{
+  "id": "en-gi",
+  "name": "English (Gibraltar)",
+  "locale": "en-GI",
+  "version": 1,
+  "inherits": "en",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

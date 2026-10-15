@@ -1,0 +1,12 @@
+{
+  "id": "ltg",
+  "name": "Latgalīšu",
+  "locale": "ltg-LV",
+  "version": 1,
+  "layout": "lv_ltg.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "asb-us",
+  "name": "Nakoda (United States)",
+  "locale": "asb-US",
+  "version": 1,
+  "inherits": "asb"
+}

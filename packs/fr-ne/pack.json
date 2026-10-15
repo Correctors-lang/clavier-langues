@@ -1,0 +1,7 @@
+{
+  "id": "fr-ne",
+  "name": "Français (Niger)",
+  "locale": "fr-NE",
+  "version": 1,
+  "inherits": "fr"
+}

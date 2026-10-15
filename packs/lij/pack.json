@@ -1,0 +1,12 @@
+{
+  "id": "lij",
+  "name": "Ligure",
+  "locale": "lij-IT",
+  "version": 1,
+  "layout": "it_lij.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

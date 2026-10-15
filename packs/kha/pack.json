@@ -1,0 +1,12 @@
+{
+  "id": "kha",
+  "name": "Ka Ktien Khasi",
+  "locale": "kha-IN",
+  "version": 1,
+  "layout": "en_kha.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

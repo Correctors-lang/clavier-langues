@@ -1,0 +1,7 @@
+{
+  "id": "oc-it",
+  "name": "Occitan (Italy)",
+  "locale": "oc-IT",
+  "version": 1,
+  "inherits": "oc"
+}

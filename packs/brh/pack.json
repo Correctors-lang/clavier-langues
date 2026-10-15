@@ -1,0 +1,12 @@
+{
+  "id": "brh",
+  "name": "براہوئی",
+  "locale": "brh-PK",
+  "version": 1,
+  "layout": "fa_brh.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

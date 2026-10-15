@@ -1,0 +1,102 @@
+# Villes de SN (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Dakar
+Pikine
+Touba
+Guédiawaye
+Thiès
+Kaolack
+Rufisque
+Mbour
+Saint-Louis
+Thiès Nones
+Nones
+Rufisque est
+est
+Ziguinchor
+Diourbel
+Tambacounda
+Louga
+Kolda
+Tivaouane
+Mbaké
+Tiébo
+Yoff
+Keur Médoune
+Keur
+Médoune
+Richard-Toll
+Dougnane
+Bargny
+Kaffrine
+Bargny Guèdj
+Guèdj
+Bargny Ngoude
+Ngoude
+Nguékhokh
+Diamniadio
+Joal
+Dara
+Vélingara
+Sébikhotane
+Sali
+Niakoul Rab
+Niakoul
+Rab
+Jaxaay Parcelle Niakoul Rap
+Jaxaay
+Parcelle
+Rap
+Mboro
+Fatick
+Bambey
+Médina Gounas
+Médina
+Gounas
+N’diareme limamoulaye
+N’diareme
+limamoulaye
+Le Plateau
+Plateau
+Ndibène Dahra
+Ndibène
+Dahra
+Sédhiou
+Koungheul
+Kédougou
+Bignona
+Matam
+Mékhé
+Ouro Sogui
+Ouro
+Sogui
+Kahone
+Diaoubé
+Poukham Un
+Poukham
+Pout
+Kayar
+Dagana
+Koungneul Sossé
+Koungneul
+Sossé
+Nioro du Rip
+Nioro
+Rip
+Guinguinéo
+Khombole
+Ndioum
+Thiadiaye
+Kébémer
+Linguère
+Goudomp
+Gandiaye
+Koumpentoum
+Gossas Village
+Gossas
+Village
+Kbombole
+Kanel
+Thilogne

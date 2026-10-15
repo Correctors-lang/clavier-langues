@@ -1,0 +1,12 @@
+{
+  "id": "nds",
+  "name": "Plattdüütsch",
+  "locale": "nds-DE",
+  "version": 1,
+  "layout": "de_nds.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

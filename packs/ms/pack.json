@@ -1,0 +1,12 @@
+{
+  "id": "ms",
+  "name": "Bahasa Melayu",
+  "locale": "ms-MY",
+  "version": 1,
+  "layout": "qwerty_ms.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

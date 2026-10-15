@@ -1,0 +1,7 @@
+{
+  "id": "mn-cn",
+  "name": "Монгол (Хятад)",
+  "locale": "mn-CN",
+  "version": 1,
+  "inherits": "mn"
+}

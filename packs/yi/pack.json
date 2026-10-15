@@ -1,0 +1,12 @@
+{
+  "id": "yi",
+  "name": "ייִדיש",
+  "locale": "yi-001",
+  "version": 1,
+  "layout": "he_yi.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

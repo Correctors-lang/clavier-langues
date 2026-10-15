@@ -1,0 +1,13 @@
+{
+  "id": "id",
+  "name": "Bahasa Indonesia",
+  "locale": "id-ID",
+  "version": 1,
+  "layout": "qwerty_id.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

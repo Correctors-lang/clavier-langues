@@ -1,0 +1,7 @@
+{
+  "id": "en-bs",
+  "name": "English (Bahamas)",
+  "locale": "en-BS",
+  "version": 1,
+  "inherits": "en"
+}

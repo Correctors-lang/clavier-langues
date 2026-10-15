@@ -1,0 +1,7 @@
+{
+  "id": "gri",
+  "name": "Griko",
+  "locale": "el-IT",
+  "version": 1,
+  "inherits": "el"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bi",
+  "name": "Bislama",
+  "locale": "bi-VU",
+  "version": 1,
+  "layout": "en_bi.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

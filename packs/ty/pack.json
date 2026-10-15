@@ -1,0 +1,12 @@
+{
+  "id": "ty",
+  "name": "Reo Tahiti",
+  "locale": "ty-PF",
+  "version": 1,
+  "layout": "fr_ty.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

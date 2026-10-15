@@ -1,0 +1,7 @@
+{
+  "id": "yue-mo",
+  "name": "粵語 (中國澳門特別行政區)",
+  "locale": "yue-MO",
+  "version": 1,
+  "inherits": "yue"
+}

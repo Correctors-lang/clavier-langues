@@ -1,0 +1,7 @@
+{
+  "id": "ti-et",
+  "name": "ትግርኛ (ኢትዮጵያ)",
+  "locale": "ti-ET",
+  "version": 1,
+  "inherits": "ti"
+}

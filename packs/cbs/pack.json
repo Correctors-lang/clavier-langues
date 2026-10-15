@@ -1,0 +1,12 @@
+{
+  "id": "cbs",
+  "name": "Hantxa kuin",
+  "locale": "cbs-BR",
+  "version": 1,
+  "layout": "pt_cbs.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

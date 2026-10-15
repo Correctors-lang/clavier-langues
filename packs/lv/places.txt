@@ -1,0 +1,19 @@
+# Villes de LV (source : GeoNames cities15000, population
+# >= 15000, triées par population). Chargé UNIQUEMENT avec ce pack de
+# langue (voir pack.json). Demande explicite de l'utilisateur
+# (2026-09-13) : une liste de villes par langue/pays, isolée des autres.
+Riga
+Daugavpils
+Liepāja
+Jelgava
+Jūrmala
+Ventspils
+Rēzekne
+Valmiera
+Ogre
+Jēkabpils
+Mārupe
+Salaspils
+Dārzciems
+Tukums
+Cēsis

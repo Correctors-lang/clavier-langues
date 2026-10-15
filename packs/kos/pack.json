@@ -1,0 +1,12 @@
+{
+  "id": "kos",
+  "name": "Kosraean",
+  "locale": "kos-FM",
+  "version": 1,
+  "layout": "en_kos.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

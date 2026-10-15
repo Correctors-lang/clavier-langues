@@ -1,0 +1,12 @@
+{
+  "id": "so",
+  "name": "Soomaali",
+  "locale": "so-SO",
+  "version": 1,
+  "layout": "en_so.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

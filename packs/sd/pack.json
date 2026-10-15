@@ -1,0 +1,12 @@
+{
+  "id": "sd",
+  "name": "سنڌي",
+  "locale": "sd-PK",
+  "version": 1,
+  "layout": "fa_sd.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

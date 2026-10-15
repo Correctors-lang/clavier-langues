@@ -1,0 +1,14 @@
+{
+  "id": "es",
+  "name": "Español",
+  "locale": "es-ES",
+  "version": 1,
+  "layout": "qwerty_es.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "lexicon": "lexicon.tsv",
+    "bigrams": "bigrams.txt"
+  }
+}

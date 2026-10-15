@@ -1,0 +1,7 @@
+{
+  "id": "ter-py",
+  "name": "Terêna (Paraguay)",
+  "locale": "ter-PY",
+  "version": 1,
+  "inherits": "ter"
+}

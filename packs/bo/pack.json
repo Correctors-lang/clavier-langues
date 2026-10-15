@@ -1,0 +1,12 @@
+{
+  "id": "bo",
+  "name": "བོད་ཡིག",
+  "locale": "bo-CN",
+  "version": 1,
+  "layout": "tibt_bo.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "oc",
+  "name": "Occitan",
+  "locale": "oc-FR",
+  "version": 1,
+  "layout": "fr_oc.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

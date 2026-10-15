@@ -1,0 +1,12 @@
+{
+  "id": "ka",
+  "name": "ქართული",
+  "locale": "ka-GE",
+  "version": 1,
+  "layout": "geor_ka.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "ku",
+  "name": "Kurdî (Kurmancî)",
+  "locale": "ku-TR",
+  "version": 1,
+  "layout": "qwerty_ku.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "sl-it",
+  "name": "Slovenščina (Italy)",
+  "locale": "sl-IT",
+  "version": 1,
+  "inherits": "sl"
+}

@@ -1,0 +1,20 @@
+# Villes de IQ (source : GeoNames alternateNamesV2,
+# nom filtré par code langue ISO « ckb » — pas une détection de
+# bloc Unicode (ambigu : Kurde/Ossète partagent l'écriture arabe/
+# cyrillique avec l'arabe/le russe — bug réel corrigé le 2026-09-13).
+# Chargé UNIQUEMENT avec ce pack.
+مووسڵ
+ھەولێر
+کەربەلا
+کەرکووک
+سلێمانی
+حلە
+دھۆک
+دیوانیە
+کووت
+ڕەمادی
+فەلوجە
+بەعقووبە
+کووفە
+ھەڵەبجە
+شنگال

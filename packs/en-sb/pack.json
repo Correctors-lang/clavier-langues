@@ -1,0 +1,7 @@
+{
+  "id": "en-sb",
+  "name": "English (Solomon Islands)",
+  "locale": "en-SB",
+  "version": 1,
+  "inherits": "en"
+}

@@ -1,0 +1,12 @@
+{
+  "id": "agg",
+  "name": "Angal",
+  "locale": "agg-PG",
+  "version": 1,
+  "layout": "en_agg.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

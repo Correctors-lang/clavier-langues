@@ -1,0 +1,7 @@
+{
+  "id": "sov",
+  "name": "Sonsorolese",
+  "locale": "sov-PW",
+  "version": 1,
+  "inherits": "chk"
+}

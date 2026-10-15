@@ -1,0 +1,12 @@
+{
+  "id": "jv",
+  "name": "Basa Jawa",
+  "locale": "jv-ID",
+  "version": 1,
+  "layout": "en_jv.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

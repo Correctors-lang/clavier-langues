@@ -1,0 +1,12 @@
+{
+  "id": "kea",
+  "name": "Kabuverdianu",
+  "locale": "kea-CV",
+  "version": 1,
+  "layout": "pt_kea.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

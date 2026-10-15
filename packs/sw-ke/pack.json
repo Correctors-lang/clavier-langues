@@ -1,0 +1,7 @@
+{
+  "id": "sw-ke",
+  "name": "Kiswahili (Kenya)",
+  "locale": "sw-KE",
+  "version": 1,
+  "inherits": "sw"
+}

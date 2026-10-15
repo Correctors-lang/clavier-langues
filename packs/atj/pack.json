@@ -1,0 +1,12 @@
+{
+  "id": "atj",
+  "name": "Atikamekw",
+  "locale": "atj-CA",
+  "version": 1,
+  "layout": "fr_atj.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

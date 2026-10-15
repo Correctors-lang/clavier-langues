@@ -1,0 +1,7 @@
+{
+  "id": "en-ag",
+  "name": "English (Antigua & Barbuda)",
+  "locale": "en-AG",
+  "version": 1,
+  "inherits": "en"
+}

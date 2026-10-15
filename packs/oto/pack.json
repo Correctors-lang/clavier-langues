@@ -1,0 +1,12 @@
+{
+  "id": "oto",
+  "name": "Hñähñu",
+  "locale": "oto-MX",
+  "version": 1,
+  "layout": "es_oto.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

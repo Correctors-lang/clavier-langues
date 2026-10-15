@@ -1,0 +1,7 @@
+{
+  "id": "arz-sd",
+  "name": "العربية (Sudan)",
+  "locale": "arz-SD",
+  "version": 1,
+  "inherits": "ar-eg"
+}

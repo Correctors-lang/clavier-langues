@@ -1,0 +1,7 @@
+{
+  "id": "en-za",
+  "name": "English (South Africa)",
+  "locale": "en-ZA",
+  "version": 1,
+  "inherits": "en"
+}

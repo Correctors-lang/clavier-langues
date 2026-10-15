@@ -1,0 +1,12 @@
+{
+  "id": "krc",
+  "name": "Къарачай-малкъар",
+  "locale": "krc-RU",
+  "version": 1,
+  "layout": "ru_krc.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

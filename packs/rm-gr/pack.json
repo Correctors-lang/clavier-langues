@@ -1,0 +1,7 @@
+{
+  "id": "rm-gr",
+  "name": "Rumantsch grischun",
+  "locale": "rm-CH",
+  "version": 1,
+  "inherits": "rm"
+}

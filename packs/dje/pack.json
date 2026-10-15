@@ -1,0 +1,12 @@
+{
+  "id": "dje",
+  "name": "Zarmaciine",
+  "locale": "dje-NE",
+  "version": 1,
+  "layout": "fr_dje.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "en-mt",
+  "name": "English (Malta)",
+  "locale": "en-MT",
+  "version": 1,
+  "inherits": "en",
+  "files": {
+    "regionalWords": "words_regional.txt"
+  }
+}

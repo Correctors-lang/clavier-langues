@@ -1,0 +1,12 @@
+{
+  "id": "os",
+  "name": "Ирон",
+  "locale": "os-RU",
+  "version": 1,
+  "layout": "ru_os.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "bigrams": "bigrams.txt"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "cab-gt",
+  "name": "Garifuna (Guatemala)",
+  "locale": "cab-GT",
+  "version": 1,
+  "inherits": "cab"
+}

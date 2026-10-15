@@ -1,0 +1,14 @@
+{
+  "id": "it",
+  "name": "Italiano",
+  "locale": "it-IT",
+  "version": 1,
+  "layout": "qwerty_it.json",
+  "files": {
+    "words": "words.txt",
+    "typography": "typography.json",
+    "places": "places.txt",
+    "lexicon": "lexicon.tsv",
+    "bigrams": "bigrams.txt"
+  }
+}
