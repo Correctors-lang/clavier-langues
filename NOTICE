@@ -9,6 +9,8 @@ sources ci-dessous, dont les licences demandent d'être citées :
   utilisé par : en
 - Unicode Unihan — Unicode License v3 — https://www.unicode.org/charts/unihan.html
   utilisé par : yue, zh-hans, zh-hant
+- Droid Sans Fallback (Google) — Apache 2.0 — https://android.googlesource.com/platform/frameworks/base/
+  utilisé par : yue, zh-hans, zh-hant
 - Mozc (dictionnaire OSS : IPAdic, Okinawa) — BSD-3-Clause, licence IPAdic, domaine public — https://github.com/google/mozc
   utilisé par : ja
 - iTaigi — CC0 — https://itaigi.tw

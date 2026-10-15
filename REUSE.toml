@@ -26,7 +26,7 @@ SPDX-FileCopyrightText = ["2026 rdeniel"]
 SPDX-License-Identifier = "MIT"
 
 [[annotations]]
-path = ["packs/yue/readings.txt", "packs/zh-hans/readings.txt", "packs/zh-hant/readings.txt"]
+path = ["packs/yue/hanzi_glyphes.txt", "packs/yue/readings.txt", "packs/zh-hans/hanzi_glyphes.txt", "packs/zh-hans/readings.txt", "packs/zh-hant/hanzi_glyphes.txt", "packs/zh-hant/readings.txt"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = ["Unicode, Inc."]
 SPDX-License-Identifier = "Unicode-3.0"
