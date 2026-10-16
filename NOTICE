@@ -4,22 +4,31 @@ Ces dictionnaires sont publiés sous licence MIT (voir LICENSE). Ils sont tirés
 sources ci-dessous, dont les licences demandent d'être citées :
 
 - FineWeb-2 (Hugging Face) — ODC-By 1.0 — https://huggingface.co/datasets/HuggingFaceFW/fineweb-2
+  extrait d'octobre 2026
   utilisé par : ab, abq, abt, ace, acf, acu, ada, ady, af, agg, agr, ajg … (428 packs)
 - FineWeb (Hugging Face, anglais) — ODC-By 1.0 — https://huggingface.co/datasets/HuggingFaceFW/fineweb
+  extrait d'octobre 2026
   utilisé par : en
 - Unicode Unihan — Unicode License v3 — https://www.unicode.org/charts/unihan.html
+  Unihan 16.0, extrait le 15 octobre 2026
   utilisé par : yue, zh-hans, zh-hant
 - Droid Sans Fallback (Google) — Apache 2.0 — https://android.googlesource.com/platform/frameworks/base/
+  extrait le 15 octobre 2026
   utilisé par : yue, zh-hans, zh-hant
 - Mozc (dictionnaire OSS : IPAdic, Okinawa) — BSD-3-Clause, licence IPAdic, domaine public — https://github.com/google/mozc
+  dictionary_oss, extrait le 15 octobre 2026
   utilisé par : ja
 - iTaigi — CC0 — https://itaigi.tw
+  extrait le 15 octobre 2026
   utilisé par : nan-hant
 - geo.api.gouv.fr / INSEE — Licence Ouverte 2.0 (Etalab) — https://geo.api.gouv.fr
+  extrait le 13 septembre 2026 (communes) et le 8 septembre 2026 (prénoms)
   utilisé par : fr
 - GeoNames — CC BY 4.0 — https://www.geonames.org
+  extrait le 15 octobre 2026
   utilisé par : ar, bar, bg, bn, br, ca, ckb, cs, da, de, el, en … (49 packs)
 - AnCora (Universal Dependencies) — CC BY 4.0 — https://github.com/UniversalDependencies/UD_Spanish-AnCora
+  extrait le 15 octobre 2026
   utilisé par : ca, es
 - Clavier AZERTY (travail original) — MIT
   utilisé par : acf-dm, ar-ae, ar-bh, ar-dj, ar-dz, ar-eg, ar-iq, ar-jo, ar-km, ar-kw, ar-lb, ar-ly … (99 packs)

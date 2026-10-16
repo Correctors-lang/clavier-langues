@@ -21,6 +21,7 @@ qui GARDENT la licence d'origine (voir `REUSE.toml` et `LICENSES/`).
 
 ### FineWeb-2 (Hugging Face)
 - Origine : https://huggingface.co/datasets/HuggingFaceFW/fineweb-2 — Hugging Face
+- Données : extrait d'octobre 2026
 - Fork : le projet n'est pas sur GitHub ; il est cité, pas forké.
 - Licence conservée : `ODC-By-1.0`
 - Repris : les textes, d'où sont comptés les mots et les suites de mots
@@ -29,6 +30,7 @@ qui GARDENT la licence d'origine (voir `REUSE.toml` et `LICENSES/`).
 
 ### FineWeb (Hugging Face, anglais)
 - Origine : https://huggingface.co/datasets/HuggingFaceFW/fineweb — Hugging Face
+- Données : extrait d'octobre 2026
 - Fork : le projet n'est pas sur GitHub ; il est cité, pas forké.
 - Licence conservée : `ODC-By-1.0`
 - Repris : les textes anglais, d'où sont comptés les mots et les suites de mots
@@ -37,6 +39,7 @@ qui GARDENT la licence d'origine (voir `REUSE.toml` et `LICENSES/`).
 
 ### Droid Sans Fallback (Android Open Source Project)
 - Origine : https://android.googlesource.com/platform/frameworks/base/ — Google Inc. ; The Android Open Source Project
+- Données : extrait le 15 octobre 2026
 - Fork : https://github.com/Correctors-lang/platform_frameworks_base
 - Licence conservée : `Apache-2.0`
 - Repris : les dessins des caractères chinois de la police
@@ -45,6 +48,7 @@ qui GARDENT la licence d'origine (voir `REUSE.toml` et `LICENSES/`).
 
 ### Unicode Unihan
 - Origine : https://www.unicode.org/charts/unihan.html — Unicode, Inc.
+- Données : Unihan 16.0, extrait le 15 octobre 2026
 - Fork : https://github.com/Correctors-lang/unicodetools
 - Licence conservée : `Unicode-3.0`
 - Repris : les lectures des caractères (kMandarin, kHanyuPinyin, kXHC1983, kTGHZ2013, kCantonese)
@@ -53,6 +57,7 @@ qui GARDENT la licence d'origine (voir `REUSE.toml` et `LICENSES/`).
 
 ### Mozc (dictionnaire OSS : IPAdic, dictionnaire d'Okinawa)
 - Origine : https://github.com/google/mozc — Google Inc. ; Nara Institute of Science and Technology (IPAdic)
+- Données : dictionary_oss, extrait le 15 octobre 2026
 - Fork : https://github.com/Correctors-lang/mozc
 - Licence conservée : `BSD-3-Clause AND LicenseRef-IPAdic`
 - Repris : les lectures et les mots (dictionary_oss)
@@ -61,6 +66,7 @@ qui GARDENT la licence d'origine (voir `REUSE.toml` et `LICENSES/`).
 
 ### iTaigi 華台辭典 (via ChhoeTaigi)
 - Origine : https://itaigi.tw — iTaigi
+- Données : extrait le 15 octobre 2026
 - Fork : https://github.com/Correctors-lang/ChhoeTaigiDatabase
 - Licence conservée : `CC0-1.0`
 - Repris : les mots en caractères et leur lecture en pe̍h-ōe-jī
@@ -69,6 +75,7 @@ qui GARDENT la licence d'origine (voir `REUSE.toml` et `LICENSES/`).
 
 ### INSEE (fichier des prénoms) et geo.api.gouv.fr (communes)
 - Origine : https://geo.api.gouv.fr — INSEE ; Etalab
+- Données : extrait le 13 septembre 2026 (communes) et le 8 septembre 2026 (prénoms)
 - Fork : le projet n'est pas sur GitHub ; il est cité, pas forké.
 - Licence conservée : `etalab-2.0`
 - Repris : les prénoms et les communes de France
@@ -77,6 +84,7 @@ qui GARDENT la licence d'origine (voir `REUSE.toml` et `LICENSES/`).
 
 ### GeoNames (cities15000)
 - Origine : https://www.geonames.org — GeoNames
+- Données : extrait le 15 octobre 2026
 - Fork : le projet n'est pas sur GitHub ; il est cité, pas forké.
 - Licence conservée : `CC-BY-4.0`
 - Repris : les villes de plus de 15 000 habitants
@@ -85,6 +93,7 @@ qui GARDENT la licence d'origine (voir `REUSE.toml` et `LICENSES/`).
 
 ### AnCora (Universal Dependencies, espagnol et catalan)
 - Origine : https://github.com/UniversalDependencies/UD_Spanish-AnCora — Universitat de Barcelona (CLiC)
+- Données : extrait le 15 octobre 2026
 - Fork : https://github.com/Correctors-lang/UD_Spanish-AnCora
 - Licence conservée : `CC-BY-4.0`
 - Repris : les formes, lemmes, natures, genres et nombres
