@@ -56,6 +56,12 @@ SPDX-FileCopyrightText = ["Hugging Face", "Unicode, Inc."]
 SPDX-License-Identifier = "ODC-By-1.0 AND Unicode-3.0"
 
 [[annotations]]
+path = ["interface/_names.txt", "interface/emoji.txt"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["Unicode, Inc."]
+SPDX-License-Identifier = "Unicode-3.0"
+
+[[annotations]]
 path = ["packs/fr/communes.txt", "packs/fr/communes_composees.tsv", "packs/fr/names_first.txt"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = ["INSEE ; Etalab"]

@@ -5,6 +5,9 @@ clavier depuis ses réglages ou au moment de choisir une langue.
 
 - `packs/<id>/` : les fichiers de chaque pack, en texte.
 - `catalogue.tsv` : la liste lue par le clavier (archive, taille, empreinte SHA-256).
+- `interface/` : ce qui ne tient pas à une langue en particulier — le nom de chaque langue
+  dans chaque langue (`_names.txt`, CLDR) et le catalogue d'emojis (`emoji.txt`, UTS #51).
+  Ces deux-là sont toujours dans l'application, jamais téléchargés.
 - Les archives `dist/<id>.zip` se joignent à une *release* GitHub (elles ne sont pas dans git).
 
 ## Licences
@@ -45,6 +48,24 @@ qui GARDENT la licence d'origine (voir `REUSE.toml` et `LICENSES/`).
 - Repris : les dessins des caractères chinois de la police
 - Modifié : ramenés à un squelette de 32 × 32 points, pour l'écriture manuscrite
 - Packs : yue, zh-hans, zh-hant
+
+### Unicode CLDR
+- Origine : https://cldr.unicode.org — Unicode, Inc.
+- Données : extrait le 15 octobre 2026
+- Fork : https://github.com/Correctors-lang/cldr
+- Licence conservée : `Unicode-3.0`
+- Repris : le nom de chaque langue dans chaque langue
+- Modifié : réduit aux langues du clavier, une ligne par couple
+- Packs : interface
+
+### Unicode emoji (UTS #51)
+- Origine : https://unicode.org/Public/emoji/ — Unicode, Inc.
+- Données : extrait le 15 octobre 2026
+- Fork : https://github.com/Correctors-lang/unicodetools
+- Licence conservée : `Unicode-3.0`
+- Repris : la liste des emojis et leurs noms
+- Modifié : rangés par catégorie, teintes de peau ôtées, mots-clés pour la recherche
+- Packs : interface
 
 ### Unicode Unihan
 - Origine : https://www.unicode.org/charts/unihan.html — Unicode, Inc.

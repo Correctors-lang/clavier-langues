@@ -9,6 +9,12 @@ sources ci-dessous, dont les licences demandent d'être citées :
 - FineWeb (Hugging Face, anglais) — ODC-By 1.0 — https://huggingface.co/datasets/HuggingFaceFW/fineweb
   extrait d'octobre 2026
   utilisé par : en
+- Unicode CLDR — Unicode License v3 — https://cldr.unicode.org
+  extrait le 15 octobre 2026
+  utilisé par : interface
+- Unicode emoji (UTS #51) — Unicode License v3 — https://unicode.org/Public/emoji/
+  extrait le 15 octobre 2026
+  utilisé par : interface
 - Unicode Unihan — Unicode License v3 — https://www.unicode.org/charts/unihan.html
   Unihan 16.0, extrait le 15 octobre 2026
   utilisé par : yue, zh-hans, zh-hant
