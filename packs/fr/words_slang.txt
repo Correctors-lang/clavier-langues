@@ -1,8 +1,11 @@
 # Français FAMILIER / ARGOT / VERLAN / LANGAGE JEUNES / INSULTES.
 # Complète la grande liste (words.txt) qui, elle, couvre le courant + le soutenu
 # mais ignore l'argot récent. Un mot par ligne.
-# (Les insultes visant des groupes protégés — racistes, homophobes — sont
-#  volontairement exclues.)
+# Les insultes y compris les plus grossières : un clavier qui ne CONNAÎT pas
+# un mot le souligne en rouge, propose n'importe quoi à sa place et ne le
+# devine pas au glissement. Connaître n'est pas endosser — c'est ce que fait
+# tout dictionnaire. Signalé le 2026-10-21 : « le clavier ne connaît même
+# plus pd ».
 
 # ---------------------------------------------------------------- familier courant
 # "dz" (2026-09-19, demande explicite) : vraie abréviation/mot courant
@@ -823,3 +826,27 @@ foutre
 jouir
 jouis
 jouit
+
+# ------------------------------------------- manquants (2026-10-21)
+pd
+pédé
+pédés
+gogole
+gogoles
+droitard
+droitards
+gaucho
+gauchos
+bobo
+bobos
+facho
+fachos
+beaufs
+blaireaux
+enflure
+foutaise
+loser
+nazes
+pourri
+rageux
+tanche

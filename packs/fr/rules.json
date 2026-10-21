@@ -378,6 +378,62 @@
       "pattern": "\\bun t[eê]te [aà] t[eê]te\\b",
       "message": "Nom composé : « un tête-à-tête »",
       "replace": "un tête-à-tête"
+    },
+    {
+      "id": "apres-demain",
+      "flags": "i",
+      "pattern": "\\bapr[eè]s (demain|midi|midis)\\b",
+      "message": "Nom composé : un tiret (« après-demain », « après-midi »)",
+      "replace": "après-$1"
+    },
+    {
+      "id": "avant-hier",
+      "flags": "i",
+      "pattern": "\\bavant (hier|veille|garde|goût|gout|propos|première|premiere)\\b",
+      "message": "Nom composé : un tiret (« avant-hier », « avant-garde »)",
+      "replace": "avant-$1"
+    },
+    {
+      "id": "week-end",
+      "flags": "i",
+      "pattern": "\\bweek ends?\\b",
+      "message": "« week-end » prend un tiret",
+      "replace": "week-end"
+    },
+    {
+      "id": "sur-le-champ",
+      "flags": "i",
+      "pattern": "\\bsur le champ\\b",
+      "message": "« sur-le-champ » prend des tirets",
+      "replace": "sur-le-champ"
+    },
+    {
+      "id": "porte-monnaie",
+      "flags": "i",
+      "pattern": "\\bporte (monnaie|clés|cles|parole|bonheur|manteau|avions?)\\b",
+      "message": "Nom composé : un tiret (« porte-monnaie »)",
+      "replace": "porte-$1"
+    },
+    {
+      "id": "arc-en-ciel",
+      "flags": "i",
+      "pattern": "\\barc en ciel\\b",
+      "message": "« arc-en-ciel » prend des tirets",
+      "replace": "arc-en-ciel"
+    },
+    {
+      "id": "belle-mere",
+      "flags": "i",
+      "pattern": "\\b(belle|beau) (mère|mere|père|pere|frère|frere|sœur|soeur|fils|fille|parents)\\b",
+      "message": "Nom composé : un tiret (« belle-mère », « beau-frère »)",
+      "replace": "$1-$2"
+    },
+    {
+      "id": "par-ci-par-la",
+      "flags": "i",
+      "pattern": "\\bpar (ci|là|la) par (ci|là|la)\\b",
+      "message": "« par-ci par-là » prend des tirets",
+      "replace": "par-$1 par-$2"
     }
   ],
   "confusions": [
