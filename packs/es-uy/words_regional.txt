@@ -1,38 +1,38 @@
 # Vocabulaire propre à « Español (Uruguay) ».
 # mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
 # Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
-bizcochos	30000
-bo	30000
-bondi	30000
-botija	30000
-bárbaro	30000
-candombe	3000
-championes	30000
-chancleta	3000
-chivito	30000
-chorro	12000
-cuadra	30000
-de más	12000
-dulce de leche	12000
-garrón	12000
-guita	30000
-gurisa	30000
-gurisada	3000
-gurí	30000
-laburo	30000
-mandar fruta	12000
-mate	30000
-milanesa	12000
-murga	3000
-nabo	12000
-ni ahí	12000
-pichi	12000
-refuerzo	12000
-salado	30000
-ta	30000
-tablado	3000
-termo	30000
-torta frita	30000
-tranza	12000
-yuta	12000
-ómnibus	30000
+bizcochos	25832
+bo	25832
+bondi	25832
+botija	25832
+bárbaro	25832
+candombe	810
+championes	25832
+chancleta	810
+chivito	25832
+chorro	7010
+cuadra	25832
+de más	7010
+dulce de leche	7010
+garrón	7010
+guita	25832
+gurisa	25832
+gurisada	810
+gurí	25832
+laburo	25832
+mandar fruta	7010
+mate	25832
+milanesa	7010
+murga	810
+nabo	7010
+ni ahí	7010
+pichi	7010
+refuerzo	7010
+salado	25832
+ta	25832
+tablado	810
+termo	25832
+torta frita	25832
+tranza	7010
+yuta	7010
+ómnibus	25832

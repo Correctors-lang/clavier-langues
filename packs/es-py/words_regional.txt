@@ -1,36 +1,36 @@
 # Vocabulaire propre à « Español (Paraguay) ».
 # mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
 # Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
-anga	12000
-argel	3000
-chipa	30000
-chipa guasu	12000
-gua'u	12000
-guaraní	30000
-hína	12000
-jopará	30000
-karai	30000
-katu	12000
-ko	30000
-kure	3000
-kurepa	12000
-lomito	12000
-luego	30000
-mandioca	30000
-mbeju	30000
-mbopí	12000
-mitakuña	3000
-mitá	30000
-nde	30000
-piko	30000
-pyrague	3000
-sopa paraguaya	30000
-tape	3000
-tavy	12000
-tereré	30000
-tuja	3000
-vori vori	12000
-vyro	12000
-ña	12000
-ñembo	12000
-ñembotavy	3000
+anga	7010
+argel	810
+chipa	25832
+chipa guasu	7010
+gua'u	7010
+guaraní	25832
+hína	7010
+jopará	25832
+karai	25832
+katu	7010
+ko	25832
+kure	810
+kurepa	7010
+lomito	7010
+luego	25832
+mandioca	25832
+mbeju	25832
+mbopí	7010
+mitakuña	810
+mitá	25832
+nde	25832
+piko	25832
+pyrague	810
+sopa paraguaya	25832
+tape	810
+tavy	7010
+tereré	25832
+tuja	810
+vori vori	7010
+vyro	7010
+ña	7010
+ñembo	7010
+ñembotavy	810

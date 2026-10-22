@@ -4,107 +4,107 @@
 # Le reste (dictionnaire, lexique, conjugaison, règles) est hérité
 # du pack « fr » — voir pack.json et tools/generateurs/build_fr_variants.py.
 # mot<TAB>fréquence
-AI	12000
-AVS	30000
-LAMal	12000
-action	30000
-bancomat	12000
-bobet	3000
-boguet	3000
-bricelet	3000
-caisse maladie	30000
-canton	30000
-cantonal	30000
-carnotzet	3000
-cheni	12000
-commune	30000
-conseiller fédéral	12000
-cornet	30000
-cuchaule	3000
-cuissettes	3000
-cycle d'orientation	3000
-cédule	3000
-déjeuner	30000
-dîner	30000
-encoubler	3000
-foehn	12000
-fondue	30000
-fourre	12000
-föhn	12000
-gymnase	30000
-huitante	30000
-huitante et un	12000
-huitante-cinq	12000
-huitante-deux	12000
-huitante-huit	12000
-huitante-neuf	12000
-huitante-quatre	12000
-huitante-sept	12000
-huitante-six	12000
-huitante-trois	12000
-huitante-un	12000
-initiative	30000
-landsgemeinde	3000
-linge	30000
-malakoff	3000
-maturité	30000
-natel	30000
-nonante	30000
-nonante et un	12000
-nonante-cinq	12000
-nonante-deux	12000
-nonante-huit	12000
-nonante-neuf	12000
-nonante-quatre	12000
-nonante-sept	12000
-nonante-six	12000
-nonante-trois	12000
-nonante-un	12000
-octante	3000
-panosse	12000
-panosser	3000
-papet	3000
-papier ménage	3000
-permis B	3000
-pive	3000
-postomat	3000
-poutze	3000
-poutzer	12000
-raclette	30000
-roesti	12000
-roiller	3000
-réclame	12000
-rösti	30000
-s'encoubler	3000
-septante	30000
-septante et un	12000
-septante-cinq	12000
-septante-deux	12000
-septante-dix	3000
-septante-dix-huit	3000
-septante-dix-neuf	3000
-septante-dix-sept	3000
-septante-douze	3000
-septante-huit	12000
-septante-neuf	12000
-septante-onze	3000
-septante-quatorze	3000
-septante-quatre	12000
-septante-quinze	3000
-septante-seize	3000
-septante-sept	12000
-septante-six	12000
-septante-treize	3000
-septante-trois	12000
-septante-un	12000
-services	12000
-souper	30000
-sérac	3000
-tablard	3000
-taillé aux greubons	3000
-taupinière	3000
-torrée	3000
-verrée	12000
-vin cuit	3000
-votation	30000
-witz	3000
+AI	11973
+AVS	30226
+LAMal	11973
+action	30226
+bancomat	11973
+bobet	3007
+boguet	3007
+bricelet	3007
+caisse maladie	30226
+canton	30226
+cantonal	30226
+carnotzet	3007
+cheni	11973
+commune	30226
+conseiller fédéral	11973
+cornet	30226
+cuchaule	3007
+cuissettes	3007
+cycle d'orientation	3007
+cédule	3007
+déjeuner	30226
+dîner	30226
+encoubler	3007
+foehn	11973
+fondue	30226
+fourre	11973
+föhn	11973
+gymnase	30226
+huitante	30226
+huitante et un	11973
+huitante-cinq	11973
+huitante-deux	11973
+huitante-huit	11973
+huitante-neuf	11973
+huitante-quatre	11973
+huitante-sept	11973
+huitante-six	11973
+huitante-trois	11973
+huitante-un	11973
+initiative	30226
+landsgemeinde	3007
+linge	30226
+malakoff	3007
+maturité	30226
+natel	30226
+nonante	30226
+nonante et un	11973
+nonante-cinq	11973
+nonante-deux	11973
+nonante-huit	11973
+nonante-neuf	11973
+nonante-quatre	11973
+nonante-sept	11973
+nonante-six	11973
+nonante-trois	11973
+nonante-un	11973
+octante	3007
+panosse	11973
+panosser	3007
+papet	3007
+papier ménage	3007
+permis B	3007
+pive	3007
+postomat	3007
+poutze	3007
+poutzer	11973
+raclette	30226
+roesti	11973
+roiller	3007
+réclame	11973
+rösti	30226
+s'encoubler	3007
+septante	30226
+septante et un	11973
+septante-cinq	11973
+septante-deux	11973
+septante-dix	3007
+septante-dix-huit	3007
+septante-dix-neuf	3007
+septante-dix-sept	3007
+septante-douze	3007
+septante-huit	11973
+septante-neuf	11973
+septante-onze	3007
+septante-quatorze	3007
+septante-quatre	11973
+septante-quinze	3007
+septante-seize	3007
+septante-sept	11973
+septante-six	11973
+septante-treize	3007
+septante-trois	11973
+septante-un	11973
+services	11973
+souper	30226
+sérac	3007
+tablard	3007
+taillé aux greubons	3007
+taupinière	3007
+torrée	3007
+verrée	11973
+vin cuit	3007
+votation	30226
+witz	3007
