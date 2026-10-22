@@ -1,9 +1,9 @@
 # Vocabulaire propre à « العربية (الصومال) » — dialecte(s) FineWeb-2 : aucun corpus,
 # et vocabulaire national. mot<TAB>fréquence (échelle de ar/words.txt).
 # Généré par tools/generateurs/build_ar_variants.py — ne pas éditer à la main.
-الصومال	4450
-شلن	4450
-صومالي	4450
-صومالية	4450
-مقديشو	4450
-هرجيسا	4450
+الصومال	6459
+شلن	6459
+صومالي	6459
+صومالية	6459
+مقديشو	6459
+هرجيسا	6459

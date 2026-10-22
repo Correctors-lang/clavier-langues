@@ -1,35 +1,35 @@
 # Vocabulaire propre à « Español (Honduras) ».
 # mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
 # Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
-alero	30000
-anafre	12000
-baleada	30000
-bayunco	30000
-burra	3000
-catracho	30000
-chamba	30000
-charamusca	12000
-chele	30000
-chepe	3000
-cheque	12000
-cipota	30000
-cipote	30000
-fresco	12000
-guaro	30000
-jalón	30000
-macizo	30000
-maje	30000
-minuta	12000
-nacatamal	12000
-pastelito	30000
-pija	3000
-pijudo	3000
-pisado	3000
-pisto	30000
-pulpería	30000
-rosquilla	12000
-sopa de caracol	12000
-tajadas	30000
-tunco	12000
-vergón	3000
-yuca	12000
+alero	25832
+anafre	7010
+baleada	25832
+bayunco	25832
+burra	810
+catracho	25832
+chamba	25832
+charamusca	7010
+chele	25832
+chepe	810
+cheque	7010
+cipota	25832
+cipote	25832
+fresco	7010
+guaro	25832
+jalón	25832
+macizo	25832
+maje	25832
+minuta	7010
+nacatamal	7010
+pastelito	25832
+pija	810
+pijudo	810
+pisado	810
+pisto	25832
+pulpería	25832
+rosquilla	7010
+sopa de caracol	7010
+tajadas	25832
+tunco	7010
+vergón	810
+yuca	7010

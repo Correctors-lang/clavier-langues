@@ -1,42 +1,42 @@
 # Vocabulaire propre à « Español (Costa Rica) ».
 # mot<TAB>fréquence (échelle de words.txt : corpus × 1000).
 # Généré par tools/generateurs/build_es_latam_packs.py — ne pas éditer à la main.
-birra	30000
-brete	30000
-bretear	30000
-cabanga	3000
-cachos	12000
-carajillo	12000
-cas	12000
-casado	30000
-chante	30000
-chifrijo	12000
-chorreado	12000
-choza	3000
-chunche	30000
-diay	30000
-gallo pinto	30000
-goma	30000
-guaro	12000
-güila	30000
-harina	12000
-jalarse una torta	3000
-josefino	30000
-jupa	30000
-macho	12000
-mae	30000
-maje	12000
-olla de carne	12000
-pelo de gato	3000
-presa	3000
-pulpería	30000
-pura vida	30000
-rojo	12000
-soda	30000
-tapis	3000
-teja	12000
-tico	30000
-tuanis	30000
-upe	30000
-vara	30000
-zarpe	12000
+birra	25832
+brete	25832
+bretear	25832
+cabanga	810
+cachos	7010
+carajillo	7010
+cas	7010
+casado	25832
+chante	25832
+chifrijo	7010
+chorreado	7010
+choza	810
+chunche	25832
+diay	25832
+gallo pinto	25832
+goma	25832
+guaro	7010
+güila	25832
+harina	7010
+jalarse una torta	810
+josefino	25832
+jupa	25832
+macho	7010
+mae	25832
+maje	7010
+olla de carne	7010
+pelo de gato	810
+presa	810
+pulpería	25832
+pura vida	25832
+rojo	7010
+soda	25832
+tapis	810
+teja	7010
+tico	25832
+tuanis	25832
+upe	25832
+vara	25832
+zarpe	7010

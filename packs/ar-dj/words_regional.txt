@@ -1,6 +1,6 @@
 # Vocabulaire propre à « العربية (جيبوتي) » — dialecte(s) FineWeb-2 : aucun corpus,
 # et vocabulaire national. mot<TAB>fréquence (échelle de ar/words.txt).
 # Généré par tools/generateurs/build_ar_variants.py — ne pas éditer à la main.
-جيبوتي	4450
-جيبوتية	4450
-فرنك	4450
+جيبوتي	6459
+جيبوتية	6459
+فرنك	6459
