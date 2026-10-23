@@ -1,64 +1,64 @@
 # Deitsch : FineWeb-2 pdc_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-un	14838
-di	10990
-es	8797
-hott	7708
-da	7682
-funn	5775
+un	14834
+di	10991
+es	8794
+hott	7706
+da	7681
+funn	5774
 is	5692
 sei	5522
 eah	4624
 en	4535
 fa	4464
 si	4433
-in	4117
+in	4116
 henn	3995
-ich	3801
+ich	3799
 zu	3607
-nett	3280
+nett	3279
 mitt	2810
-voah	2701
+voah	2702
 du	2696
 vo	2653
 sinn	2572
-diah	2424
+diah	2422
 uf	2405
 henna	2312
 em	2303
 no	2273
-so	2266
+so	2263
 fumm	2164
-iahra	2011
-avvah	2004
+iahra	2010
+avvah	2002
 miah	1975
 vi	1812
 hah	1792
 kumma	1778
-gott	1769
+gott	1763
 leit	1659
 tattoo	1652
 ksawt	1602
-dess	1570
+dess	1569
 eich	1508
 vann	1461
-am	1460
+am	1459
 een	1452
 voahra	1401
 mei	1364
 awl	1308
-vass	1304
+vass	1303
 sich	1284
 an	1281
 im	1280
 dei	1274
-eem	1269
+eem	1268
 vadda	1173
 aw	1151
 ganga	1121
-kaynich	1120
+kaynich	1119
 gmacht	1099
-gevva	1086
+gevva	1085
 habb	1075
 dee	1055
 bei	988
@@ -71,7 +71,7 @@ zayld	839
 deich	837
 noch	830
 uns	822
-gedu	785
+gedu	784
 eena	783
 vatt	777
 land	767
@@ -83,17 +83,17 @@ deah	728
 dich	708
 pinterest	696
 veil	682
-nau	679
-eiyah	657
-aus	656
+nau	678
+eiyah	656
+aus	655
+dawk	636
 the	635
-dawk	635
 adda	631
 tattoos	622
 gnumma	620
-israel	612
+israel	611
 dann	609
-ivvah	606
+ivvah	607
 feel	604
 mennah	603
 vekk	602
@@ -103,7 +103,7 @@ doht	595
 macha	591
 shtatt	587
 geyyich	576
-jesus	573
+jesus	572
 kann	566
 fannich	551
 hend	540
@@ -127,7 +127,7 @@ kenna	468
 gans	466
 yusht	453
 demm	448
-binn	447
+binn	446
 ksenna	445
 naus	437
 der	429
@@ -188,8 +188,8 @@ geisht	283
 seim	282
 bisht	282
 mehndi	280
-s	275
 essa	273
+s	273
 vella	273
 glawva	270
 gnecht	269
@@ -197,7 +197,7 @@ sella	267
 mit	266
 moll	264
 preeshtah	262
-veisheit	259
+veisheit	258
 besten	257
 a	254
 recht	253
@@ -234,8 +234,8 @@ net	207
 grohs	206
 eb	205
 of	204
-r	204
 diveil	204
+r	203
 nohch-kummashaft	203
 broodah	202
 yudda	201
@@ -250,7 +250,7 @@ ayns	194
 veld	193
 glaydah	193
 meim	191
-muss	190
+muss	189
 best	189
 halda	189
 muster	188
@@ -329,9 +329,9 @@ seit	141
 falossa	141
 annah	141
 dausend	140
-heit	139
 joseph	139
 aynah	139
+heit	138
 ab	137
 kfalla	137
 lendah	137
@@ -355,7 +355,6 @@ ksaykend	129
 broht	128
 hallichkeit	128
 ivvah-saynah	128
-you	127
 ding	127
 evvahshti	127
 fer	126
@@ -365,6 +364,7 @@ philishtah	126
 brofayt	126
 als	125
 that	125
+you	124
 shvatt	124
 about	123
 goodi	123
@@ -376,10 +376,10 @@ grisht	121
 nannah	120
 gvoond	120
 frei	119
+nacht	119
 fees	119
 abraham	119
 mach	119
-nacht	118
 kind	118
 sie	117
 as	117
@@ -440,8 +440,8 @@ ksicht	102
 gayn	102
 helfa	102
 drubb	102
-vei	101
 kumm	100
+vei	100
 lohs	100
 lossa	100
 avvah's	100
@@ -451,17 +451,16 @@ shteik	99
 dreebsawl	99
 bleiva	99
 shaffa	99
-er	98
 beim	98
 doch	97
 family	97
 faddich	97
-pharao	97
 gegukt	97
 moonet	97
 drinka	97
 effangaylium	97
 kshvind	97
+pharao	96
 shund	96
 maul	96
 kshmissa	96
@@ -520,6 +519,7 @@ shohf	84
 veibsmensh	84
 ufkshtanna	84
 foll	84
+er	83
 mohl	83
 vun	82
 hivla	82
@@ -535,7 +535,6 @@ voahheit	80
 visset	80
 eah's	80
 gevvet	80
-froh	79
 lanna	79
 shtauva	79
 shpaydah	79
@@ -543,6 +542,7 @@ veit	79
 levendich	79
 hokka	79
 vayst	79
+froh	78
 fashtay	78
 fa'immah	78
 bamhatzichkeit	78
@@ -561,11 +561,10 @@ maynd	76
 gland	76
 basteln	75
 ditzu	75
-seind	75
 kfeicht	75
 kohva	74
 sawwet	74
-gvist	74
+seind	74
 sadda	74
 kshlauwa	74
 bayda	74
@@ -577,6 +576,7 @@ shtandhaftich	73
 roht	73
 shpringa	73
 zaycha	73
+gvist	73
 kshprunga	73
 vays	73
 deena	73
@@ -662,13 +662,13 @@ geglawbt	62
 doah	62
 villa	61
 geil	61
-gedanka	61
 gezowwa	61
 laybt	61
 kayld	61
 laynich	61
 haym	61
 free	60
+gedanka	60
 sayl	60
 drawwa	60
 glaybt	60
@@ -688,7 +688,6 @@ seahsht	59
 vind	59
 tzu	59
 einfache	58
-d	58
 grohsah	58
 sis	58
 glaysa	58
@@ -796,6 +795,7 @@ hab	49
 lost	49
 can	49
 beautiful	49
+d	49
 roo	49
 zvett	49
 zayld's	49
@@ -850,7 +850,6 @@ viel	44
 how	44
 were	44
 kleine	44
-online	44
 ausnannah	44
 dunkla	44
 kshteld	44
@@ -870,6 +869,7 @@ or	43
 laut	43
 unterarm	43
 handgelenk	43
+online	43
 mitt-nannah	43
 abgettah	43
 kshlohfa	43
@@ -923,7 +923,6 @@ vatsha	40
 leftz	40
 fanna	40
 lein	40
-denket	40
 your	39
 find	39
 have	39
@@ -944,6 +943,7 @@ fakawft	39
 yacht	39
 galilaya	39
 faylah	39
+denket	39
 wass	39
 pennsylvania	38
 dem	38
@@ -1022,6 +1022,7 @@ gro	35
 youtube	35
 keicht	35
 heichet	35
+meiyets	35
 voahsht	35
 muddah	35
 hoah	35
@@ -1051,7 +1052,6 @@ haare	34
 rachel	34
 gyoost	34
 glei	34
-meiyets	34
 dibei	34
 grikk	34
 mecht	34
@@ -1079,6 +1079,7 @@ fun	33
 sauvah	33
 dunkel	33
 fald	33
+ohvets	33
 oahra	33
 tent	33
 bringet	33
@@ -1114,7 +1115,6 @@ towierung	32
 kinder	32
 paste	32
 deef	32
-ohvets	32
 lot	32
 hottʼs	32
 kobli	32
@@ -1175,7 +1175,6 @@ signs	30
 nger	30
 set	30
 sch	30
-g	30
 shtoft	30
 goah	30
 veis	30
@@ -1523,10 +1522,10 @@ also	21
 small	21
 time	21
 patterns	21
-indian	21
 body	21
 wrist	21
 ebay	21
+g	21
 yungah	21
 ufshtay	21
 drauva	21
@@ -1540,7 +1539,6 @@ shmeisa	21
 gegneet	21
 shtaynd	21
 baydet	21
-himla	21
 adninga	21
 fagelshtaht	21
 shtols	21
@@ -1569,6 +1567,7 @@ made	20
 use	20
 schablonen	20
 google	20
+indian	20
 beauty	20
 la	20
 good	20
@@ -1587,6 +1586,7 @@ nayva	20
 ohgebayda	20
 fasucht	20
 autseit	20
+himla	20
 letzes	20
 drawkt	20
 laysa	20
@@ -1597,7 +1597,6 @@ ausglaykt	20
 veddah	20
 nineveh	20
 gvaxa	20
-neiyi	20
 gmay-haus	20
 ufgegukt	20
 drayyet	20
@@ -1662,6 +1661,7 @@ vatshet	19
 haychshta	19
 gaysht	19
 aldi	19
+neiyi	19
 dumhayda	19
 glawb	19
 nachts	19
@@ -1671,7 +1671,6 @@ gedawft	19
 mechtichah	19
 hohcha-bletz	19
 ufgebaut	19
-neiyah	19
 tyrus	19
 fadamnis	19
 vundahboah	19
@@ -1735,6 +1734,7 @@ nazareth	18
 sivvada	18
 gibeon	18
 haufa	18
+neiyah	18
 gottlohsi	18
 aposhtel	18
 saylicha	18
@@ -1806,7 +1806,6 @@ aussatz	17
 army	17
 ausahra	17
 drayshta	17
-esh	17
 denna	17
 ohrayya	17
 setz	17
@@ -1843,9 +1842,7 @@ gettlich	16
 ganze	16
 golecha	16
 männer	16
-les	16
 spitze	16
-tes	16
 woa	16
 fremd	16
 eppes	16
@@ -1922,10 +1919,8 @@ selwer	15
 because	15
 man	15
 roof	15
-did	15
 maori	15
 vektor	15
-x	15
 selbermachen	15
 au	15
 tatouages	15
@@ -2021,7 +2016,6 @@ seller	14
 put	14
 ausdrucken	14
 template	14
-gr	14
 tipps	14
 rot	14
 most	14
@@ -2078,7 +2072,6 @@ asa	14
 jephthah	14
 waig	14
 mon	14
-ea	14
 dort	14
 law	13
 kindern	13
@@ -2220,6 +2213,7 @@ indischen	12
 vector	12
 tube	12
 erwachsene	12
+gr	12
 kids	12
 men	12
 tinte	12
@@ -2353,7 +2347,6 @@ always	11
 such	11
 until	11
 same	11
-ins	11
 world	11
 dark	11
 hope	11
@@ -2375,11 +2368,9 @@ te	11
 airbrush	11
 groot	11
 armband	11
-el	11
 area	11
 something	11
 epper	11
-st	11
 grischtdaag	11
 macht's	11
 shiffah	11
@@ -2390,7 +2381,6 @@ aycha-bohm	11
 mesopotamia	11
 eldshtah	11
 abgedekt	11
-vott	11
 levendichi	11
 vayt	11
 voch	11
@@ -2522,7 +2512,6 @@ pattern	10
 tatto	10
 brust	10
 schöne	10
-et	10
 tatuaje	10
 kurze	10
 gallery	10
@@ -2533,7 +2522,6 @@ weiß	10
 alle	10
 aww	10
 jetz	10
-ee	10
 unique	10
 cute	10
 lace	10
@@ -2542,6 +2530,7 @@ schuh	10
 watt	10
 someone	10
 bischt	10
+st	10
 rose	10
 kelly	10
 poscht	10
@@ -2637,7 +2626,6 @@ bringsht	10
 hemor	10
 feini	10
 adnunga	10
-vei-sekk	10
 pawda	10
 blindi	10
 gebroffetzeit	10
@@ -2666,7 +2654,6 @@ death	9
 dehr	9
 door	9
 through	9
-eat	9
 aber	9
 around	9
 very	9
@@ -2814,6 +2801,7 @@ fremda	9
 fahandeld	9
 shtaubt	9
 bunds-gnechta	9
+vei-sekk	9
 unheilich	9
 aybrechah	9
 heilichkeit	9
@@ -2914,7 +2902,6 @@ entw	8
 rfe	8
 goldman	8
 mind	8
-fr	8
 viele	8
 ikea	8
 studio	8
@@ -3090,7 +3077,6 @@ mus	8
 signa	8
 shonk	8
 lucy	8
-ihn	7
 glaawe	7
 june	7
 duh	7
@@ -3134,7 +3120,6 @@ xxl	7
 kostüm	7
 halten	7
 kostet	7
-su	7
 watercolor	7
 le	7
 original	7
@@ -3152,7 +3137,6 @@ piercing	7
 stift	7
 stylish	7
 pour	7
-ten	7
 schun	7
 rezept	7
 dragonfly	7
@@ -3201,7 +3185,6 @@ gerar	7
 adlich	7
 hasset	7
 seth	7
-ern	7
 belshazzar	7
 ufshtadda	7
 veeshtah	7
@@ -3336,7 +3319,6 @@ nadda	7
 plan	7
 zanka	7
 sihon	7
-crops	7
 locusts	7
 vei-press	7
 sinai	7
@@ -3434,7 +3416,6 @@ wammer	6
 gegliche	6
 schprooch	6
 neie	6
-kett	6
 especially	6
 need	6
 believe	6
@@ -3454,7 +3435,6 @@ stuff	6
 answer	6
 daet	6
 site	6
-ren	6
 oriental	6
 kuchen	6
 hamsa	6
@@ -3625,7 +3605,6 @@ hand-foll	6
 thabor	6
 falshah	6
 grankheit	6
-kis	6
 gebb's	6
 peniel	6
 zohm	6
@@ -3643,7 +3622,6 @@ reichi	6
 gridda	6
 shteel	6
 oahmi	6
-hald's	6
 vinsha	6
 zvilling	6
 eahdich	6
@@ -3710,6 +3688,7 @@ gebakka	6
 shohs	6
 rahab	6
 bei-nannah	6
+crops	6
 evvahshtah	6
 bekimmahnis	6
 shtayk	6
@@ -3801,7 +3780,6 @@ nie	5
 duhne	5
 university	5
 shteaht	5
-each	5
 culture	5
 losse	5
 dihr	5
@@ -3857,7 +3835,6 @@ uralte	5
 sommer	5
 window	5
 shutterstock	5
-henne	5
 leichtes	5
 flowers	5
 wild	5
@@ -3884,7 +3861,6 @@ perfect	5
 permanent	5
 färben	5
 herren	5
-wenn	5
 habe	5
 hrlich	5
 ethnic	5
@@ -3917,7 +3893,6 @@ tear	5
 prief	5
 sou	5
 post	5
-v	5
 tea	5
 dragons	5
 bite	5
@@ -3930,7 +3905,6 @@ ankle	5
 babyzimmer	5
 küchen	5
 forum	5
-fna	5
 stockfoto	5
 bemalung	5
 tattos	5
@@ -3966,7 +3940,6 @@ gschpass	5
 singe	5
 beist	5
 kshossa	5
-frest	5
 arphachsad	5
 peleg	5
 chaldaya	5
@@ -4056,7 +4029,6 @@ foah-vitzich	5
 bileam	5
 fashprecha	5
 veahret	5
-fitt	5
 saylichi	5
 viddahbat	5
 ungerechtah	5
@@ -4088,6 +4060,7 @@ hoffa	5
 shtedli	5
 disha	5
 fagevvet	5
+hald's	5
 shveahri	5
 shpaldinga	5
 shpeahra	5
@@ -4116,7 +4089,6 @@ shtaub	5
 herodias	5
 sohm	5
 sind-opfahra	5
-vett	5
 dinkt	5
 gvinsht	5
 gmeikt	5
@@ -4134,7 +4106,6 @@ rome	5
 grohda	5
 ivvah-dredding	5
 kamayl	5
-ungetziffah	5
 fleekt	5
 leit's	5
 fasholda	5
@@ -4148,7 +4119,6 @@ ohlossa	5
 shpiahra	5
 shteiksht	5
 nahas	5
-pen	5
 haarfarben	5
 lotusblume	5
 both	5
@@ -4335,7 +4305,6 @@ glanz	4
 glow	4
 unsre	4
 night	4
-naett	4
 fuß	4
 seine	4
 grosser	4
@@ -4393,7 +4362,6 @@ plant	4
 ground	4
 sounds	4
 basic	4
-sign	4
 turn	4
 hold	4
 matter	4
@@ -4420,6 +4388,7 @@ gypten	4
 horror	4
 einzigartige	4
 korperverzierung	4
+x	4
 marrakesch	4
 hrige	4
 ausschlag	4
@@ -4499,7 +4468,6 @@ linken	4
 djemaa	4
 einmal	4
 deine	4
-pcs	4
 estilo	4
 shabby	4
 geschenke	4
@@ -4539,7 +4507,6 @@ students	4
 speaking	4
 bakka-shtay	4
 babel	4
-witt	4
 daylight	4
 gardens	4
 hof	4
@@ -4556,6 +4523,7 @@ duhscht	4
 heslich	4
 feahshta	4
 hinnahsich	4
+frest	4
 regu	4
 serug	4
 voon	4
@@ -4601,7 +4569,6 @@ haus-faddah	4
 gegrayt	4
 pohls	4
 heilicha-blatz	4
-hunna	4
 voonsht	4
 zeiknisa	4
 semaia	4
@@ -4626,7 +4593,6 @@ fashtella	4
 bessahrah	4
 maws	4
 shtraych	4
-fumma	4
 fishah	4
 kapernaum	4
 sunn-unnah	4
@@ -4762,6 +4728,7 @@ fagayn	4
 fagesset	4
 seemd	4
 deen	4
+ungetziffah	4
 misset's	4
 shtoah-shtubba	4
 tempel-ksha	4
@@ -4927,7 +4894,6 @@ nekshta	4
 messah	4
 bethuel	4
 gveind	4
-next	4
 unsere	4
 regge	4
 gschterdt	4
@@ -4995,7 +4961,6 @@ ebook	4
 spirits	4
 stage	4
 plenty	4
-nem	4
 ripsy	4
 duchter	4
 nimmy	4
@@ -5060,12 +5025,10 @@ drebba	4
 opfer	4
 blut	3
 debei	3
-dass	3
 daage	3
 eastern	3
 college	3
 virginia	3
-emu	3
 program	3
 fully	3
 shtoodenta	3
@@ -5225,7 +5188,6 @@ anymore	3
 against	3
 doesn't	3
 sleep	3
-let	3
 paper	3
 mehndistil	3
 fantasievolle	3
@@ -5316,7 +5278,6 @@ pissl	3
 lees	3
 qrett	3
 woatz	3
-nom	3
 eascht	3
 fantasy	3
 beach	3
@@ -5327,7 +5288,6 @@ liebe	3
 tatuagem	3
 erstaunlich	3
 tattooskid	3
-via	3
 kostenlose	3
 lotusblumen	3
 handr	3
@@ -5380,7 +5340,6 @@ versch	3
 nern	3
 desert	3
 klebe	3
-teile	3
 eur	3
 super	3
 ways	3
@@ -5506,7 +5465,6 @@ second	3
 aaschicke	3
 behave	3
 yuuscht	3
-noh	3
 wore	3
 france	3
 reddi	3
@@ -5857,7 +5815,6 @@ meiya-roht	3
 favand	3
 dayt's	3
 dinga	3
-davvah	3
 ivvah-shmeisa	3
 sheahra	3
 unksavvahdi	3
@@ -6073,7 +6030,6 @@ kissa	3
 drikkeld	3
 shlayfahrich	3
 foah-kshteld	3
-iahri	3
 fashuldicha	3
 fanget	3
 vohnung	3
@@ -6151,7 +6107,6 @@ lose	3
 fooftzich	3
 galand	3
 yorrick	3
-har	3
 wærsht	3
 shtoob	3
 aunt	3
@@ -6188,7 +6143,6 @@ various	3
 karls	3
 hinnom	3
 ramoth-gilead	3
-reit	3
 shreivet	3
 ohbeeda	3
 opfah-awldah	3

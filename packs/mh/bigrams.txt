@@ -1,79 +1,83 @@
 # Bigrammes mh (FineWeb-2 mah_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-eo	an	4556
-reebok	easytone	3110
+eo	an	4554
+reebok	easytone	3104
 ko	an	2573
 eo	am	1655
-eo	ej	1599
-ro	rej	1352
-ko	rej	1146
-men	ko	1118
+eo	ej	1593
+ro	rej	1349
+ko	rej	1144
+men	ko	1115
 bwe	en	1099
-armej	ro	992
+armej	ro	990
 ko	ilo	952
-easytone	uk	928
+easytone	uk	927
 ta	eo	877
-ko	aer	849
+ko	aer	848
+ro	jet	816
 ko	im	778
-armij	ro	749
-men	in	735
+armij	ro	748
+men	in	734
 eo	im	720
 jerbal	in	677
 bwe	ren	666
+ko	ad	664
 jerbal	ko	645
 melele	ko	631
 ilo	ien	627
 ro	an	624
+an	anij	604
 ko	jet	601
-ilo	an	564
+ilo	an	563
 eo	ilo	559
 jerbal	eo	559
 ro	ilo	539
-aikuj	in	537
+aikuj	in	535
 wā	eo	535
 ilo	juon	521
 ko	am	509
 ilo	jikin	503
-uk	reebok	501
-service	center	497
+uk	reebok	500
+service	center	495
 an	kar	489
-im	ej	484
-ej	juon	481
+ej	juon	480
+im	ej	480
 eo	aō	476
+in	ej	468
 godrej	service	468
-im	rej	467
-in	ej	467
-eo	ad	460
-bwe	jen	436
+im	rej	466
+eo	ad	459
+bwe	jen	435
 ajri	ro	427
-wā	in	423
-ro	im	422
-rej	aikuj	414
+wā	in	422
+ro	im	421
+rej	aikuj	413
 jikin	jerbal	400
 ilo	iien	393
 mour	eo	392
-naan	in	384
+naan	in	383
 eo	aer	374
 eo	eaar	371
-men	eo	368
 in	covid	367
-easytone	charge	364
+men	eo	366
+easytone	charge	363
 ilo	ad	352
 ilo	mour	352
 ba	bwe	350
-ej	aikuj	350
+ej	aikuj	348
 kabun̄	in	343
+ko	ñan	343
 wā	ko	338
 bar	juon	334
 jej	aikuj	328
 eo	kein	327
 eo	ear	326
 emoj	an	319
-im	ro	315
+im	ro	314
 jerbal	ilo	312
 an	covid	308
 men	kein	306
-jikin	ko	304
+jikin	ko	303
 an	ro	302
 eo	n̄an	302
 ien	eo	301
@@ -84,13 +88,13 @@ katak	ko	296
 an	armej	292
 ej	ba	291
 im	jab	289
-im	ilo	288
 mour	ko	288
+im	ilo	287
 eo	me	285
 rijerbal	ro	285
-wa	notify	284
-bwe	in	283
 jisōs	kraist	283
+wa	notify	283
+bwe	in	282
 ilo	aer	282
 ta	ko	282
 jouj	im	279
@@ -105,10 +109,10 @@ in	an	265
 ko	me	265
 laļ	in	264
 pād	ilo	262
-ewi	wãween	262
-in	im	260
+ewi	wãween	261
 naan	ko	260
 ko	ikijen	260
+in	im	259
 juon	eo	256
 kien	eo	252
 in	jerbal	252
@@ -117,8 +121,8 @@ an	juon	246
 ñan	ro	245
 ro	me	243
 in	ilo	230
-easytone	charged	229
 in	the	227
+easytone	charged	227
 āinwōt	juon	225
 iien	ko	225
 claim	eo	223
@@ -126,11 +130,11 @@ wãween	an	222
 wa	eo	220
 kein	jerbal	219
 an	armij	219
-ko	n̄an	219
+ko	n̄an	218
 ajiri	eo	216
-kien	ko	215
-im	jerbal	215
 me	ej	215
+kien	ko	214
+im	jerbal	214
 ko	jen	213
 ejellok	jerbal	212
 kein	rej	211
@@ -153,17 +157,17 @@ aolep	men	193
 juon	armej	193
 ej	itok	193
 aikuj	ko	193
-katak	im	192
 im	kar	191
 ko	nan	191
 māroñ	in	191
+anij	ej	190
 in	jiban	189
 kabun̄	eo	188
 jikin	eo	187
-ekkar	ñan	187
 in	india	187
-bok	in	186
+ekkar	ñan	186
 juon	jikin	185
+bok	in	185
 jeje	ko	184
 an	jerbal	182
 etal	ñan	182
@@ -171,21 +175,21 @@ in	ad	181
 im	bar	181
 ajiri	ro	180
 ro	nejin	177
-ewōr	aer	175
 easytone	wear	175
 im	ba	174
+ewōr	aer	174
 aolep	iien	173
 lal	in	172
 n̄an	jerbal	172
-im	ear	172
 tōbrak	ñan	172
-im	bwe	170
+im	ear	171
 kein	karuo	170
+im	bwe	169
 n̄an	e	169
 aolep	ro	168
-in	kam̧ool	168
 kajojo	wiik	168
 juon	armij	167
+in	kam̧ool	167
 on	the	165
 an	jisōs	165
 mokta	jen	164
@@ -194,7 +198,7 @@ kein	kajuon	163
 eo	ekar	163
 ilo	kajin	163
 baam̧le	eo	163
-kakien	ko	163
+kakien	ko	162
 ro	raar	161
 raan	kein	160
 jijej	ear	160
@@ -204,8 +208,9 @@ im	n̄an	159
 ṇe	aṃ	159
 ear	jab	159
 rej	jerbal	158
-ro	ewōr	157
+anij	im	157
 im	juon	156
+ro	ewōr	156
 kwōj	aikuj	156
 in	kakajur	156
 kōm̧m̧an	bwe	155
@@ -213,30 +218,30 @@ im	bujen	155
 melele	in	154
 juon	iien	154
 wōt	ilo	154
-ñan	an	154
 jiban	ikijen	154
 im	jikin	153
 eo	ao	153
-charge	reebok	153
+ñan	an	153
 baibõl̦	ej	153
 n̄an	ro	152
+charge	reebok	152
 armej	eo	151
 kõn	men	151
 iiō	ko	150
 an	irooj	150
 aolep	armej	150
-ko	renana	149
 jerbal	ñan	149
 bōke	wā	149
 jerbal	im	148
 an	jikin	148
 ñan	am	148
 ñan	jeova	148
-eo	enaaj	147
 in	bōk	147
+ko	renana	147
+eo	enaaj	146
 eaar	ba	146
 armij	in	145
-armij	eo	145
+armij	eo	144
 pinmuur	eo	144
 im	lale	143
 kwōn	jab	143
@@ -246,15 +251,15 @@ jokwe	ilo	142
 raan	in	142
 jeova	ear	142
 ko	ami	141
-am	ilo	141
 bwe	kwon	141
 ikijen	ejellok	141
+am	ilo	140
 jikuul	ko	140
-priesthood	eo	139
 ak	ilo	139
-jet	iaan	139
 am	im	139
 ilo	jerbal	138
+priesthood	eo	138
+jet	iaan	138
 men	otemjej	138
 anij	ear	138
 easytone	wiki	135
@@ -269,55 +274,56 @@ ke	ear	132
 bwe	ej	132
 eo	rej	132
 wiik	eo	132
-kwal̦o̦k	naan	132
-ekkar	n̄an	131
 n̄an	kōj	131
 ñan	anij	131
+kwal̦o̦k	naan	131
 mour	ilo	130
 ej	jerbal	130
+ekkar	n̄an	130
 ej	bar	130
 en	jab	130
+ad	ilo	129
 ko	aō	129
 ej	kwalok	128
 to	the	128
 jet	iien	128
-n̄an	kom̧	128
 an	kien	127
 ko	kin	127
 elap	an	127
+n̄an	kom̧	127
 eo	kwoj	127
 jar	ko	126
 maron	in	126
 im	men	126
-kōn	menin	125
 jemedwōj	ilan̄	125
 ba	n̄an	125
 ilo	aolep	125
 ko	jej	125
-teej	eo	125
 emoj	aer	125
 im	tierheim	125
-n̄an	juon	124
+kōn	menin	124
 jikin	kallib	124
-kwoj	aikuj	124
+teej	eo	124
 in	enaaj	124
 ñan	juon	124
 maron	tōbrak	124
+n̄an	juon	123
 eo	kōn	123
+kwoj	aikuj	123
 kakien	eo	123
 jipañ	kõj	123
 ien	am	123
-eo	elab	122
 n̄an	eō	122
 n̄an	er	122
 rilo̧mo̧o̧r	eo	122
 ninnin	eo	122
-ro	ad	121
+eo	elab	121
 ej	katakin	121
 eo	juon	121
 kōrā	ro	121
 jipañ	eok	121
 kim	ej	121
+ro	ad	120
 ilo	kabun̄	120
 ilo	kar	119
 eo	eļap	119
@@ -334,12 +340,12 @@ in	kolla	117
 ice	maker	117
 kolla	ko	117
 ko	relablok	117
-ñan	armij	117
 eo	ak	116
 ej	bōk	116
 ñan	jikin	116
 in	bōbrae	116
 hunde	im	116
+ñan	armij	116
 im	armej	115
 aer	im	115
 emōj	aer	115
@@ -350,18 +356,18 @@ kõm̦m̦ane	men	115
 aelõñ	eo	115
 kein	kalbubu	115
 eo	jen	114
-kajoor	eo	114
 n̄an	jipan̄	114
 ñan	lale	114
 ke	ej	113
 im	aolep	113
 aer	kar	113
+kajoor	eo	113
 bwe	enaaj	113
 jen	an	113
 rej	jokwe	112
 n̄an	bōk	112
-bwe	anij	112
 bukwōn	eo	112
+bwe	anij	111
 ko	rekwojarjar	111
 in	mour	111
 kile	bwe	111
@@ -420,14 +426,13 @@ el̦ap	an	102
 rar	jab	101
 an	ilo	101
 ri	kõnnaan	101
-kein	im	100
 ej	bed	100
 eaar	jab	100
 n̄an	aolep	100
 baamle	eo	100
 kõnnaan	ro	100
 ra	eo	100
-jeļā	bwe	99
+kein	im	99
 kōn	an	99
 aer	jerbal	99
 mour	indeeo	99
@@ -437,26 +442,26 @@ an	ajiri	99
 jeova	ej	99
 kin	covid	99
 wāween	eo	98
+jeļā	bwe	98
 jodikdik	ro	98
 ko	raar	98
 an	kajojo	97
-ko̧jpeļ	eo	97
 ak	juon	97
 im	eaar	97
-im	enaaj	97
 an	kōrā	97
 rej	itok	97
 taktō	eo	97
-charged	reebok	97
 rej	bed	96
+ko̧jpeļ	eo	96
 an	baam̧le	96
+im	enaaj	96
 in	mormon	96
 ñan	kwe	96
 jelōte	aoleben	96
 e	ej	95
 baam̧le	ko	95
-im	kōn	95
 koba	ippān	95
+charged	reebok	95
 ej	kwal̦o̦k	95
 burokraam	in	95
 jet	im	94
@@ -471,6 +476,7 @@ eklejia	eo	94
 jen	covid	94
 ne	kwoj	93
 anij	enaaj	93
+im	kōn	93
 kallib	eo	93
 l̦õmn̦ak	bwe	93
 jiban	in	93
@@ -508,13 +514,13 @@ im	ta	89
 ko	rem̧m̧an	89
 tōmak	ilo	89
 ilju	im	89
-teej	ko	89
 ñe	kwōj	89
 bwe	jeova	89
 an	jelōte	89
 bōjrak	jerbal	89
 rej	ba	88
 jetōb	eo	88
+teej	ko	88
 kajin	eo	88
 kõm̦m̦ani	men	88
 ippãn	doon	88
@@ -534,7 +540,6 @@ in	bar	86
 nan	ro	86
 naan	eo	86
 rekwojarjar	ilo	86
-āinwōt	an	86
 im	katak	86
 ba	ñan	86
 from	the	86
@@ -543,7 +548,7 @@ in	claim	86
 rej	walok	85
 in	lale	85
 eo	jej	85
-membōr	ro	85
+āinwōt	an	85
 ko	renaaj	85
 unin	an	85
 kwõj	aikuj	85
@@ -553,10 +558,9 @@ am	ñan	85
 jorren	eo	85
 wa	in	84
 im	jej	84
-rej	bar	84
 ke	iaar	84
 leļo̧k	n̄an	84
-im	e	84
+membōr	ro	84
 wāween	an	84
 jeid	im	84
 im	jatid	84
@@ -566,6 +570,7 @@ ko	emōj	84
 em̦m̦aan	ro	84
 jerbal	jen	84
 marshall	islands	83
+rej	bar	83
 iakwe	eo	83
 eok	bwe	83
 enaaj	kar	83
@@ -588,7 +593,7 @@ did	you	82
 jiban	eo	82
 ien	in	81
 ro	uwaan	81
-bwe	ro	81
+im	e	81
 loe	juon	81
 ñan	aer	81
 bed	eo	81
@@ -601,6 +606,7 @@ ilo	wiik	80
 iien	otemjej	80
 ewōr	an	80
 ej	ilo	80
+bwe	ro	80
 kwe	im	80
 ewōr	am	80
 am	ej	80
@@ -619,12 +625,9 @@ ear	kwal̦o̦k	79
 ilo	lal̦	79
 ippãn	jeova	79
 katak	kõn	79
-ilo	men	78
-kōj	n̄an	78
 jetōb	kwojarjar	78
 walok	jen	78
 wiik	ko	78
-mijenede	ro	78
 ilo	laļ	78
 kumi	in	78
 aer	ilo	78
@@ -635,40 +638,42 @@ katak	baibõl̦	78
 baam̦le	eo	78
 in	ñan	78
 emoj	am	78
+kōj	n̄an	77
 kweilo̧k	eo	77
 n̄an	kōm̧m̧ane	77
 ritōl	ro	77
 en̄jake	ko	77
 ñan	jipañ	77
-kõj	bwe	77
 ekõn̦aan	bwe	77
 am	maron	77
 ra	ko	76
 im	rar	76
 juon	alen	76
 ko	ej	76
-an	jab	76
 itok	jen	76
 kam̧ool	eo	76
 rijilōk	ro	76
 im	jemen	76
 im	bōk	76
+mijenede	ro	76
 bok	ko	76
 uno	ko	76
 im	kein	76
-rein	rej	76
 ajri	eo	76
 eo	aṃ	76
+kõj	bwe	76
 mel̦el̦e	ko	76
 jikin	jokwe	76
 eo	emoj	76
 jen	juon	75
+an	jab	75
 uwaak	ko	75
 meļeļe	ko	75
 eaar	juon	75
 bwe	ilo	75
 eddo	in	75
 ro	bwe	75
+rein	rej	75
 kwe	make	75
 im	kõm̦m̦an	75
 jikin	ejmour	75
@@ -711,6 +716,7 @@ kōmman	bwe	72
 kateruru	ñan	72
 lain	in	72
 wot	ilo	71
+ilo	men	71
 em̧m̧aan	ro	71
 ko	kar	71
 am	kar	71
@@ -746,7 +752,6 @@ letok	n̄an	69
 im	an	69
 ennaan	eo	69
 ilo	jet	69
-awa	ko	69
 ke	eaar	69
 laajrak	in	69
 rej	kwalok	69
@@ -759,12 +764,12 @@ ilo	jukjukinbed	69
 your	baby	69
 melele	kin	68
 ak	jab	68
-eo	ekwojarjar	68
 eddo	ko	68
 im	jar	68
 bar	jet	68
 wōt	im	68
 tōre	eo	68
+awa	ko	68
 meram	eo	68
 bwebwenato	ko	68
 doon	im	68
@@ -779,9 +784,9 @@ im	armij	67
 kien	in	67
 ilo	tore	67
 jen	am	67
+eo	ekwojarjar	67
 ilo	jetōb	67
 juon	raan	67
-bwe	men	67
 ak	jikin	67
 eo	ejjab	67
 jān	juon	67
@@ -801,6 +806,7 @@ in	wā	67
 armij	ilo	66
 im	melele	66
 jekjek	in	66
+bwe	men	66
 eļap	an	66
 wōjke	ko	66
 em̦õj	an	66
@@ -821,7 +827,6 @@ karejar	ñan	65
 ioon	lal̦	65
 in	ejmour	65
 juon	wot	64
-jen	jab	64
 jar	eo	64
 ippān	ro	64
 in	wōt	64
@@ -829,7 +834,6 @@ n̄an	mour	64
 in	kiin̄	64
 jerawiwi	ko	64
 ren	maron̄	64
-eo	e	64
 if	you	64
 eklejia	ko	64
 ilo	am̦	64
@@ -838,6 +842,7 @@ am	jab	64
 kolla	jen	64
 remāroñ	in	64
 jet	men	63
+jen	jab	63
 eo	ke	63
 ilo	bar	63
 itok	jān	63
@@ -853,6 +858,7 @@ website	in	63
 kabuñ	ñan	63
 ej	ñan	63
 rej	wal̦o̦k	63
+eo	em̦ool	63
 im	jet	62
 is	the	62
 jerbal	nan	62
@@ -869,13 +875,13 @@ ear	kõm̦m̦ane	62
 lo	bwe	61
 elap	aer	61
 eaar	wōr	61
-im	kajoor	61
 ro	n̄an	61
 wōnm̧aanļo̧k	wōt	61
 an	laļ	61
 aō	kar	61
 kōrā	eo	61
 eo	nejin	61
+eo	e	61
 juon	ej	61
 ro	rejjab	61
 eo	etan	61
@@ -892,10 +898,10 @@ lablok	in	61
 kin	juon	60
 ad	make	60
 ko	renaj	60
+im	kajoor	60
 n̄an	anij	60
 er	n̄an	60
 jipan̄	eo	60
-iakwe	im	60
 an	maron	60
 ej	make	60
 ilo	e	60
@@ -912,17 +918,15 @@ ak	ro	59
 wōr	juon	59
 kōj	make	59
 rikanaan	ro	59
-jerbal	ippān	59
+iakwe	im	59
 im	ewōr	59
 eo	ewōr	59
 aolep	raan	59
 do	you	59
-and	the	59
 eṇ	ej	59
 ak	ear	59
 m̦õn̦õn̦õ	in	59
 juon	claim	59
-nañinmej	eo	59
 in	pua	59
 jesus	ear	59
 im	jinen	58
@@ -934,6 +938,7 @@ jen	ien	58
 aer	jab	58
 ilo	ejja	58
 eddo	eo	58
+jerbal	ippān	58
 jipan̄	ko	58
 in	kwalok	58
 eo	iaar	58
@@ -947,6 +952,7 @@ ko	reļļap	58
 ko	in	58
 an	wor	58
 kajitok	ko	58
+and	the	58
 the	boat	58
 nan	armij	58
 ãinwõt	juon	58
@@ -974,6 +980,7 @@ kwal̦o̦k	bwe	57
 rũkal̦oor	ro	57
 ñan	melele	57
 kein	kamool	57
+nañinmej	eo	57
 ekōnak	kein	57
 jerbal	kein	56
 melele	kein	56
@@ -981,12 +988,13 @@ kar	ba	56
 n̄e	jej	56
 em̧ōj	an	56
 raar	jab	56
+laļ	ko	56
 opiij	eo	56
 jab	bar	56
 im	n̄a	56
 jukjukin	pād	56
 keememej	bwe	56
-ilo	washington	56
+ro	aer	56
 the	island	56
 ñan	aolep	56
 er	ñan	56
@@ -1000,7 +1008,6 @@ in	kajinet	56
 ekar	jab	55
 joseph	smith	55
 in	me	55
-ilo	jinoin	55
 an	wa	55
 jerbal	an	55
 in	am	55
@@ -1008,24 +1015,25 @@ rūtto	ro	55
 kajin	belle	55
 nan	aolep	55
 ilo	website	55
+katak	im	55
+ilo	washington	55
 eṃōj	ṇe	55
 rej	lelok	55
 in	jipañ	55
 eñin	unin	55
-ippãn	ro	55
 eok	ñan	55
 eo	amim	55
 jerbal	kin	55
 ro	ewor	55
 ñe	ejab	55
 lal	ko	54
-elab	an	54
 ekkar	nan	54
 emaron̄	in	54
 m̧akūtkūt	ko	54
 armej	ilo	54
 doulul	in	54
 bōk	jikin	54
+ilo	jinoin	54
 in	jab	54
 eo	jān	54
 awa	in	54
@@ -1039,6 +1047,7 @@ ilo	eklejia	54
 kõn	jeova	54
 im	bed	54
 taktō	ko	54
+elab	an	53
 ad	ej	53
 kar	jab	53
 juon	naan	53
@@ -1048,21 +1057,19 @@ bwebwenato	eo	53
 an	bar	53
 mijen	eo	53
 kōm	kar	53
-anij	en	53
 ien	ko	53
 im	emōj	53
 an	ñan	53
 ear	lukkuun	53
-kõn̦aan	bwe	53
 ko	rel̦l̦ap	53
 jãn	an	53
+ippãn	ro	53
 elab	emoj	53
 ejellok	wonnen	53
 in	aer	52
 nan	jiban	52
 n̄an	jeļā	52
 jān	anij	52
-ad	n̄an	52
 ekkā	an	52
 ļo̧k	n̄an	52
 eok	ilo	52
@@ -1073,17 +1080,16 @@ kar	bōk	52
 armij	ej	52
 ro	renaaj	52
 kōm̧	ar	52
-im	eo	52
 an	ajri	52
+anij	en	52
 am	make	52
 ilo	state	52
 rijerbal	in	52
 eo	emōj	52
-ñan	ad	52
 im	jiban	52
 nan	an	52
 ãlikin	an	52
-rej	kwal̦o̦k	52
+kõn̦aan	bwe	52
 kõn	ta	52
 jem̦jerã	eo	52
 nan	am	52
@@ -1104,6 +1110,7 @@ būreejtōn	eo	51
 kūr	eo	51
 in	pād	51
 tōre	in	51
+ad	n̄an	51
 doulul	ko	51
 ie	im	51
 aikuij	in	51
@@ -1111,6 +1118,7 @@ kwaļo̧k	bwe	51
 er	im	51
 an	doulul	51
 pija	in	51
+im	eo	51
 ibben	dron	51
 an	juōn	51
 kajitōk	ko	51
@@ -1119,6 +1127,7 @@ me	rar	51
 ear	wal̦o̦k	51
 kõtl̦o̦k	bwe	51
 wãween	eo	51
+rej	kwal̦o̦k	51
 ko	jãn	51
 ko	rejab	51
 kall	ae	51
@@ -1132,6 +1141,7 @@ wōt	an	50
 teej	in	50
 ej	yokwe	50
 nan̄inmej	in	50
+ñan	ad	50
 itok	jãn	50
 emaroñ	jipañ	50
 aikuj	kõm̦m̦ani	50
@@ -1168,7 +1178,6 @@ boke	wa	49
 yiiō	im	49
 ilo	naan	48
 in	bok	48
-jen	aer	48
 wot	im	48
 im	jipan̄	48
 eo	eutiej	48
@@ -1190,17 +1199,16 @@ ro	am	48
 aer	bōk	48
 ñan	indeeo	48
 call	e	48
-meḷeḷe	ko	48
-im	ñan	48
 tõmak	bwe	48
 jel̦ã	kajjien	48
 iien	kweilo̦k	48
 jerbal	ro	48
 in	ui	48
+in	kottar	48
 king	county	48
 aolep	armij	47
 im	kien	47
-im	ewor	47
+jen	aer	47
 kin	melele	47
 ro	jen	47
 armej	im	47
@@ -1208,7 +1216,6 @@ iien	em̧m̧an	47
 me	renaaj	47
 n̄an	armej	47
 mej	eo	47
-wōn	eo	47
 kōjeram̧m̧an	ko	47
 mae	ien	47
 an	make	47
@@ -1227,6 +1234,8 @@ yokwe	anij	47
 reebok	classic	47
 of	health	47
 is	a	47
+meḷeḷe	ko	47
+im	ñan	47
 ñan	bar	47
 kabuñ	ko	47
 el̦ap	aer	47
@@ -1239,6 +1248,7 @@ nañinmij	eo	47
 aer	wā	47
 bōbrae	ko	47
 in	karejar	47
+im	ewor	46
 yokwe	im	46
 eo	ejab	46
 ak	ta	46
@@ -1246,7 +1256,7 @@ rein	rar	46
 jerbal	āinwōt	46
 ko	rekāāl	46
 pedped	ioon	46
-im	ke	46
+wōn	eo	46
 jepļaaktok	eo	46
 ko	reppen	46
 apan̄	ko	46
@@ -1271,24 +1281,22 @@ claim	in	46
 baele	juon	46
 rijerbal	im	46
 an	wā	46
-ro	jōt	46
 jokwe	ko	46
 jen	fema	46
 jikin	ekajet	45
 aer	make	45
 im	lo	45
 un	ko	45
-rej	mour	45
 im	iaar	45
 aō	im	45
 im	aikuj	45
 jeļā	kōn	45
 ak	bar	45
+in	armej	45
 leddik	ro	45
 kom̧	ar	45
 kom̧	maron̄	45
 an	eo	45
-jabdewōt	eo	45
 it	is	45
 jikin	in	45
 with	the	45
@@ -1310,10 +1318,11 @@ ko	jōt	45
 am	wā	45
 mona	ko	45
 ñe	emōj	45
+ro	jōt	45
 lal	eo	44
 ba	ke	44
 im	kejbarok	44
-jej	mour	44
+rej	mour	44
 ko	raorōk	44
 iien	n̄an	44
 ko	ren	44
@@ -1351,11 +1360,12 @@ jiban	ilo	43
 an	ej	43
 tore	in	43
 ij	ba	43
+jej	mour	43
 aō	ilo	43
 eō	n̄an	43
-kōnono	n̄an	43
 mour	kōn	43
 kōm̧m̧ane	juon	43
+im	ke	43
 lo	juon	43
 an	walok	43
 im	katakin	43
@@ -1381,7 +1391,6 @@ eo	em̦m̦an	43
 jipañ	ro	43
 rej	kōjerbale	43
 air	condition	43
-a	ice	43
 emoj	ao	43
 ñan	bōk	43
 diklok	jen	43
@@ -1393,11 +1402,11 @@ ekajet	eo	42
 ad	jerbal	42
 lale	ta	42
 aer	mour	42
+kōnono	n̄an	42
 kiin̄	eo	42
 kom̧	n̄an	42
 kajoor	im	42
 ilo	jeje	42
-ke	rej	42
 eo	āliktata	42
 m̧ae	iien	42
 ilo	iiō	42
@@ -1409,7 +1418,6 @@ men	otemjeļo̧k	42
 meram	in	42
 ke	ij	42
 in	etale	42
-bōk	melele	42
 ñan	eok	42
 uno	in	42
 white	reebok	42
@@ -1429,7 +1437,6 @@ kij	in	42
 an	baamle	42
 jonan	eo	42
 pepa	ko	42
-elikin	am	42
 service	centre	42
 nomba	in	42
 an	ninnin	42
@@ -1438,6 +1445,7 @@ im	jen	41
 ak	rej	41
 ro	remaron	41
 kūr	n̄an	41
+ke	rej	41
 jabdewōt	men	41
 ro	emōj	41
 eo	em̧ool	41
@@ -1450,6 +1458,7 @@ in	mijenede	41
 in	jota	41
 im	mej	41
 high	school	41
+bōk	melele	41
 ñan	iien	41
 nañinmej	ko	41
 the	reebok	41
@@ -1467,6 +1476,7 @@ ak	ñe	41
 kate	kõj	41
 an	setan	41
 ko	kwõj	41
+elikin	am	41
 am	kin	41
 jerbal	ak	41
 kwe	ak	41
@@ -1494,7 +1504,6 @@ tok	juon	40
 ial	eo	40
 aikuj	an	40
 im	renaj	40
-im	anij	40
 am	jen	40
 juōn	eo	40
 ear	juon	40
@@ -1532,11 +1541,13 @@ eo	enana	39
 jipan̄	ro	39
 juon	ajri	39
 anij	eaar	39
+jabdewōt	eo	39
 e	juon	39
 rūm̧m̧an	ded	39
 n̄an	eo	39
 bwe	jān	39
 ko	ekkā	39
+ro	reddik	39
 in	kabun̄	39
 ilo	doulul	39
 rej	kwaļo̧k	39
@@ -1554,6 +1565,7 @@ ekkã	an	39
 en	wõr	39
 bwe	jijej	39
 jipan	ko	39
+awa	jota	39
 kōmmane	juon	39
 ablikajon	eo	39
 wā	im	39
@@ -1562,8 +1574,6 @@ in	kamol	39
 im̦õn	kweilo̦k	39
 bed	ie	38
 im	ejab	38
-etke	jej	38
-jipan̄	kōj	38
 jān	ro	38
 iien	im	38
 pedped	ko	38
@@ -1583,7 +1593,6 @@ jikin	ilo	38
 ewōr	ke	38
 an	amedka	38
 aolep	ien	38
-kadkad	ko	38
 aer	ñan	38
 jipañ	armej	38
 lots	of	38
@@ -1603,8 +1612,6 @@ aikuj	kõm̦m̦ane	38
 el̦aññe	jej	38
 kij	eo	38
 ekatak	ko	38
-awa	jota	38
-rej	kōmman	38
 jemlok	eo	38
 kwōjab	maron	38
 baele	claim	38
@@ -1621,6 +1628,8 @@ jiban	kein	37
 bar	ba	37
 kin	ta	37
 bwe	ear	37
+etke	jej	37
+jipan̄	kōj	37
 im	iakwe	37
 m̧okta	jen	37
 in	jetōb	37
@@ -1646,6 +1655,7 @@ kanaan	ko	37
 jen	nañinmij	37
 nañinmij	in	37
 to	make	37
+kadkad	ko	37
 in	ekar	37
 mweiuk	ko	37
 etale	ko	37
@@ -1661,11 +1671,13 @@ remaroñ	jipañ	37
 ewi	joñan	37
 kõm̦m̦ani	bwe	37
 jen	maroñ	37
+kõn	anij	37
 eo	baibõl̦	37
 kar	jijej	37
 kwal̦o̦k	karwainene	37
 ro	renaj	37
 im	jibañ	37
+rej	kōmman	37
 ejellok	am	37
 mennin	ej	37
 im	wā	37
@@ -1687,7 +1699,6 @@ ro	rejab	36
 ej	nan	36
 en̄jake	eo	36
 kōn	wāween	36
-meļeļe	in	36
 bwe	eļan̄n̄e	36
 ilo	kajjojo	36
 ko	āliktata	36
@@ -1722,7 +1733,6 @@ irooj	in	36
 an	rijerbal	36
 out	of	36
 i	have	36
-iar	jab	36
 wot	mweo	36
 ej	jipañ	36
 ajel̦o̦k	mour	36
@@ -1757,11 +1767,11 @@ ad	rej	35
 jimwe	im	35
 im	rejjab	35
 ko	kajojo	35
+meļeļe	in	35
 im	iien	35
 n̄e	ej	35
 juon	bar	35
 kajjojo	raan	35
-kōn	iakwe	35
 n̄an	laļ	35
 ro	ej	35
 n̄an	indeeo	35
@@ -1791,11 +1801,11 @@ aikuij	ko	35
 im	raan	35
 kakōlkōl	ko	35
 ke	ikar	35
+iar	jab	35
 jen	lan	35
 eo	aõ	35
 im	kwal̦o̦k	35
 wõr	juon	35
-jipañ	im	35
 kobal̦o̦k	ippãn	35
 am̦	maroñ	35
 rej	l̦õmn̦ak	35
@@ -1806,7 +1816,6 @@ ilo	arkansas	35
 application	eo	35
 ñe	kwoj	35
 in	kamool	35
-lale	ñe	35
 wā	kein	35
 ñan	kajojo	35
 n̄e	kwōj	35
@@ -1822,9 +1831,9 @@ nan	juon	34
 ijeļā	bwe	34
 kar	kūr	34
 eo	ejim̧we	34
+kōn	iakwe	34
 in	kōn	34
 kajjitōk	eo	34
-kōn	m̧ool	34
 jerkakpeje	eo	34
 jar	kōn	34
 ilo	kajojo	34
@@ -1849,7 +1858,6 @@ aikuj	bōk	34
 ro	nejid	34
 rej	koba	34
 eo	nejūm	34
-im	wāween	34
 etal	nan	34
 bwe	ejjab	34
 ke	bar	34
@@ -1862,6 +1870,7 @@ jen	kien	34
 emōj	am	34
 im	elap	34
 kakapilõklõk	ko	34
+jipañ	im	34
 juon	wõt	34
 ear	kõm̦anm̦an	34
 ej	kõnke	34
@@ -1875,13 +1884,13 @@ im	rekar	34
 lale	rijerbal	34
 jorren	in	34
 am	kanne	34
+lale	ñe	34
 jet	armij	34
 jab	diklok	34
 mennin	jibañ	34
 kakajur	ko	34
 ebbok	jiban	34
 onean	ko	34
-in	teej	34
 hepatitis	b	34
 juon	kien	33
 kin	men	33
@@ -1896,6 +1905,7 @@ kwaļo̧k	naan	33
 ij	kam̧ool	33
 ewi	jon̄an	33
 eļan̄n̄e	kom̧ij	33
+kōn	m̧ool	33
 im	maron̄	33
 aō	make	33
 iiō	eo	33
@@ -1927,6 +1937,7 @@ in	kein	33
 ebwe	an	33
 bwe	ekar	33
 app	eo	33
+im	wāween	33
 jinen	ajri	33
 ko	ear	33
 he	was	33
@@ -1956,6 +1967,7 @@ an	johnson	33
 jipañ	ko	33
 joreen	ko	33
 kaat	in	33
+in	teej	33
 jab	ito	33
 connect	washington	33
 jemen	im	32
@@ -2002,10 +2014,10 @@ leta	in	32
 an	tampeļ	32
 kar	pād	32
 eo	tok	32
+pā	ko	32
 armej	ren	32
 ak	kein	32
 enañin	aolep	32
-nañinmij	ko	32
 kwe	eo	32
 eo	eman	32
 mejatoto	eo	32
@@ -2021,7 +2033,6 @@ that	child	32
 the	child	32
 the	water	32
 maroñ	ko	32
-aen	doon	32
 aelon	in	32
 kein	ñan	32
 yokwe	e	32
@@ -2072,7 +2083,6 @@ ippān	anij	31
 etan	jisōs	31
 im	kom̧	31
 m̧ool	in	31
-kōn	aolep	31
 kōjparok	kien	31
 aolep	rej	31
 in	a	31
@@ -2097,6 +2107,7 @@ kwe	ilo	31
 kanaan	eo	31
 ko	ippān	31
 ekar	wōr	31
+nañinmij	ko	31
 ilo	yokwe	31
 kelet	ko	31
 ekar	ba	31
@@ -2108,9 +2119,9 @@ in	your	31
 raṇ	rej	31
 have	you	31
 where	did	31
-eṃōj	aer	31
 en	maroñ	31
 state	ko	31
+aen	doon	31
 im	lelok	31
 ñan	ien	31
 l̦ap	an	31
@@ -2163,6 +2174,7 @@ n̄an	aer	30
 nejin	armej	30
 kōm̧m̧ane	n̄an	30
 eo	m̧oktata	30
+kōn	aolep	30
 n̄an	leļo̧k	30
 ennaan	ko	30
 ilo	jabdewōt	30
@@ -2188,6 +2200,7 @@ you	should	30
 ear	jipañ	30
 the	men	30
 there	is	30
+eṃōj	aer	30
 jibañ	kwe	30
 juon	em̦m̦aan	30
 ilo	peij	30
@@ -2195,7 +2208,6 @@ ilo	peij	30
 aikuj	ñan	30
 ej	bok	30
 aibuijuij	eo	30
-am	nan	30
 ibben	ro	30
 ko	ewor	30
 wāwein	an	30
@@ -2216,8 +2228,6 @@ kin	menin	29
 kijejeto	ko	29
 ewor	an	29
 jen	kar	29
-ko̧jpeļ	in	29
-im	etke	29
 eaar	letok	29
 kar	juon	29
 eō	kōn	29
@@ -2240,9 +2250,7 @@ im̧aan	mejān	29
 tōmak	im	29
 im	lukkuun	29
 juon	oktak	29
-im	jetōb	29
 in	jān	29
-kajoor	ko	29
 kōjatdikdik	bwe	29
 in	ak	29
 jen	aolep	29
@@ -2272,7 +2280,6 @@ mour	ñan	29
 kõn	mour	29
 ko	rem̦ool	29
 m̦ool	eo	29
-yokwe	jeova	29
 jipañ	ilo	29
 iiõ	eo	29
 jeraam̦m̦an	ko	29
@@ -2292,6 +2299,7 @@ ibben	armij	29
 wot	jen	29
 ej	jet	29
 ej	wal̦o̦k	29
+am	nan	29
 likit	ilo	29
 ko	ikijjien	29
 lok	ñan	29
@@ -2304,7 +2312,6 @@ godrej	refrigerator	29
 ion	e	29
 mokta	jān	29
 in	jibāñ	29
-im	tõl	29
 ri	nañinmej	29
 kebaak	naninmij	29
 epāāke	nañinmej	29
@@ -2315,7 +2322,8 @@ ewor	juon	28
 ij	tomak	28
 jen	menin	28
 in	lal	28
-enaaj	jipan̄	28
+ko̧jpeļ	in	28
+im	etke	28
 raar	itok	28
 lukkuun	in	28
 nuknuk	ko	28
@@ -2326,7 +2334,6 @@ an	rikanaan	28
 bwe	irooj	28
 m̧ōņōņō	in	28
 rikanaan	joseph	28
-kōtļo̧k	bwe	28
 ro	m̧ōttan	28
 eo	raar	28
 im	eļan̄n̄e	28
@@ -2347,12 +2354,14 @@ eļap	im	28
 im	kwaļo̧k	28
 an	jejjet	28
 jab	pokake	28
+im	jetōb	28
 kar	kōm̧m̧an	28
 armej	renaaj	28
 ak	men	28
 an	tōmak	28
 jikin	kone	28
 an	oktak	28
+kajoor	ko	28
 kar	lo	28
 anij	bwe	28
 bwe	n̄e	28
@@ -2373,7 +2382,6 @@ jet	an	28
 aolep	wiik	28
 bar	juōn	28
 have	the	28
-ej	kōjerbal	28
 juōn	jikin	28
 yokwe	doon	28
 leto	letak	28
@@ -2386,6 +2394,7 @@ ko	ij	28
 loe	an	28
 ilo	tõre	28
 lale	aolep	28
+yokwe	jeova	28
 kwal̦o̦k	ñan	28
 jeova	ilo	28
 kajjitõk	bwe	28
@@ -2402,6 +2411,7 @@ kweilo̦k	eo	28
 in	kõnke	28
 jãn	am̦	28
 jet	kõn	28
+im	jineer	28
 katak	kake	28
 ilo	jerbalin	28
 kõj	make	28
@@ -2423,6 +2433,7 @@ allōñ	elikin	28
 aikuj	bed	28
 in	kōmelij	28
 fema	ej	28
+im	tõl	28
 an	lal	27
 in	jej	27
 in	nan	27
@@ -2431,6 +2442,7 @@ monono	in	27
 ne	ej	27
 koba	ibben	27
 wia	ko	27
+enaaj	jipan̄	27
 eok	kōn	27
 mālim	eo	27
 ko	iaar	27
@@ -2444,6 +2456,7 @@ enaaj	pād	27
 juon	doulul	27
 ro	jān	27
 katakin	ro	27
+kōtļo̧k	bwe	27
 allōn̄	ko	27
 jerbal	e	27
 in	kōm̧m̧ane	27
@@ -2465,7 +2478,6 @@ ilo	kauwōtata	27
 emenin	aikuj	27
 jerawiwi	im	27
 m̧ōttan	eo	27
-in	naan	27
 n̄an	ļoor	27
 eo	jinoin	27
 setan	ear	27
@@ -2484,7 +2496,6 @@ maron̄	bōk	27
 wōjke	in	27
 leen	ko	27
 ejjab	etto	27
-kein	me	27
 kein	raar	27
 im	kōjparok	27
 kar	itok	27
@@ -2494,7 +2505,9 @@ iaan	ro	27
 raan	ilo	27
 rej	ke	27
 kōn	gospel	27
+im	anij	27
 an	bōk	27
+ej	kōjerbal	27
 adam	im	27
 wāween	aer	27
 bōbrae	eo	27
@@ -2518,7 +2531,6 @@ rar	lukkuun	27
 me	el̦ap	27
 jeova	ekõn̦aan	27
 ko	raorõk	27
-kõjparok	kõj	27
 m̦õn̦õn̦õ	im	27
 im	jel̦ã	27
 jemãer	im	27
@@ -2560,7 +2572,6 @@ money	ko	26
 ke	ilo	26
 kwoj	aikuij	26
 rar	itok	26
-jibadbad	eo	26
 kwaļo̧k	juon	26
 im	irooj	26
 juon	en̄jake	26
@@ -2577,14 +2588,14 @@ ad	kar	26
 de	la	26
 im	jeļā	26
 kweilo̧k	in	26
-jabdewōt	jikin	26
 irooj	jisōs	26
-ro	otemjej	26
 otemjej	im	26
 ej	men	26
+ilo	tōmak	26
 liin	eaar	26
 aikuj	n̄an	26
 ej	āinwōt	26
+in	naan	26
 kapijuknen	eo	26
 ilo	baam̧le	26
 kom̧	make	26
@@ -2598,10 +2609,10 @@ kōnono	ko	26
 likao	ro	26
 kajoor	n̄an	26
 im	nana	26
+kein	me	26
 im	jema	26
 bar	jerbal	26
 ro	retiljek	26
-im	jouj	26
 ko	emen	26
 bwe	mour	26
 jipan̄	eok	26
@@ -2619,10 +2630,9 @@ jeje	ilo	26
 im	kajitok	26
 kein	jen	26
 ewōr	nejier	26
-im	jabdewōt	26
+we	can	26
 jino	an	26
 rej	etal	26
-tata	ñan	26
 ñan	mour	26
 on	his	26
 the	boatswain	26
@@ -2641,7 +2651,9 @@ im	ejjel̦o̦k	26
 en	l̦apl̦o̦k	26
 jeova	kõn	26
 ejjel̦o̦k	pere	26
+eo	el̦ap	26
 kõj	aolep	26
+kõjparok	kõj	26
 bar	jipañ	26
 ej	ãinwõt	26
 ewõr	jet	26
@@ -2687,6 +2699,7 @@ ko	einwot	25
 jen	bar	25
 kajin	majol	25
 juon	im	25
+jibadbad	eo	25
 em̧ōj	aer	25
 kōm̧m̧ane	men	25
 im	kōjerbal	25
@@ -2697,6 +2710,7 @@ im	āinwōt	25
 ad	bōk	25
 ba	ilo	25
 jipan̄	ilo	25
+jabdewōt	jikin	25
 obrak	kōn	25
 pād	ippān	25
 im	en	25
@@ -2719,6 +2733,7 @@ wāween	am	25
 kam̧ool	ko	25
 kwon	jab	25
 im	uwaak	25
+ko	otemjej	25
 kain	armej	25
 in	jeje	25
 aolep	menin	25
@@ -2726,6 +2741,7 @@ im	kile	25
 renaaj	kar	25
 itok	eo	25
 rekoot	in	25
+im	jouj	25
 laajrak	eo	25
 aorōk	in	25
 pād	eo	25
@@ -2742,8 +2758,10 @@ ta	men	25
 into	the	25
 nan	ad	25
 melele	ilo	25
+im	jabdewōt	25
 ro	ie	25
 a	reebok	25
+tata	ñan	25
 have	been	25
 child	is	25
 nuknuk	ṇe	25
@@ -2771,7 +2789,6 @@ jel̦ã	ta	25
 ej	kõm̦m̦ani	25
 baam̦le	ko	25
 joñan	wõt	25
-kwal̦o̦k	ad	25
 wõt	ilo	25
 joñak	eo	25
 elikin	an	25
@@ -2793,7 +2810,6 @@ lale	melele	25
 im	ejmour	25
 online	ilo	25
 an	arkansas	25
-jab	walok	25
 ro	jot	25
 emaroñ	in	25
 ñe	kwōnaj	25
@@ -2801,7 +2817,6 @@ kin	aer	25
 ko	maanlok	25
 im	remaron	25
 keij	ko	25
-repair	service	25
 tōrre	in	25
 aer	ej	25
 elañe	kwōnaj	25
@@ -2845,6 +2860,7 @@ epepen	in	24
 kōj	aolep	24
 raar	bōk	24
 lan̄lōn̄	ilo	24
+ro	otemjej	24
 ro	ak	24
 yio	eo	24
 ak	jen	24
@@ -2864,9 +2880,7 @@ bwe	kōn	24
 jon̄an	eo	24
 kein	n̄an	24
 er	kōn	24
-kijeek	eo	24
 jej	jar	24
-jetōb	in	24
 kallim̧ur	eo	24
 in	lo̧mo̧o̧r	24
 kōn	ro	24
@@ -2932,6 +2946,7 @@ im	jekl̦aj	24
 eo	wõt	24
 tokjãn	ko	24
 eo	jijej	24
+kwal̦o̦k	ad	24
 wõn	ro	24
 l̦oore	naanin	24
 wãween	kein	24
@@ -2951,6 +2966,7 @@ wot	kin	24
 hutchinson	ear	24
 teej	ilo	24
 kateruru	ilo	24
+jab	walok	24
 ñe	ewor	24
 allon	ko	24
 woñmaanlok	in	24
@@ -2980,7 +2996,6 @@ kotobar	ko	23
 what	is	23
 naj	bar	23
 rej	oktak	23
-jet	bwe	23
 komman	ilo	23
 juon	kūr	23
 im	ad	23
@@ -3005,7 +3020,9 @@ im	ejjeļo̧k	23
 jon̄an	an	23
 ad	maron̄	23
 koba	tok	23
+kijeek	eo	23
 rej	jino	23
+jetōb	in	23
 uwaan	kabun̄	23
 mejatoto	in	23
 n̄an	iakwe	23
@@ -3049,7 +3066,6 @@ jeḷā	bwe	23
 jān	aṃ	23
 you	stop	23
 ilo	awa	23
-rej	yokwe	23
 ear	lo	23
 yokwe	ro	23
 aolep	eklejia	23
@@ -3100,6 +3116,7 @@ armij	ñan	23
 tōbrak	in	23
 elab	im	23
 bōk	eddon	23
+repair	service	23
 godrej	window	23
 ac	repair	23
 jikin	takto	23
@@ -3133,9 +3150,8 @@ in	ao	22
 ewor	ke	22
 ijoko	jet	22
 rot	kein	22
+jet	bwe	22
 over	the	22
-n̄an	lo	22
-kein	ren	22
 elōn̄	men	22
 letok	juon	22
 naaj	bōk	22
@@ -3234,6 +3250,7 @@ ajri	eṇ	22
 jiban	kin	22
 koba	ippen	22
 pojak	in	22
+rej	yokwe	22
 kein	jibañ	22
 bojak	in	22
 juon	kõrã	22
@@ -3315,8 +3332,11 @@ an	lon	21
 tomak	ke	21
 ilo	springdale	21
 makitkit	ko	21
+n̄an	lo	21
 in	em̧m̧an	21
 branch	būreejtōn	21
+in	raan	21
+kein	ren	21
 tata	im	21
 ro̧o̧l	n̄an	21
 ak	eaar	21
@@ -3378,7 +3398,6 @@ juon	m̧ōttan	21
 ij	jar	21
 ej	barāinwōt	21
 im	ra	21
-kālet	n̄an	21
 mour	jen	21
 rej	waļo̧k	21
 im	inaaj	21
@@ -3402,7 +3421,6 @@ bwe	ajri	21
 kelet	eo	21
 n̄an	juōn	21
 lewaj	juon	21
-ko	rejimwe	21
 jen	lale	21
 to	your	21
 charge	reeb	21
@@ -3421,7 +3439,6 @@ ear	l̦ap	21
 bwe	el̦ap	21
 jipañ	eõ	21
 bõk	l̦õmn̦ak	21
-im	iv	21
 kõn	armej	21
 iien	kein	21
 tõl	ko	21
@@ -3484,7 +3501,6 @@ rej	ebōk	21
 akkoun	eo	21
 jinoe	claim	21
 juon	state	21
-in	kottar	21
 make	kamool	21
 in	droulul	21
 ilo	telebon	21
@@ -3532,7 +3548,6 @@ ro	jej	20
 kōm̧m̧ane	ilo	20
 katakin	kōj	20
 kūr	in	20
-jerbal	kōn	20
 n̄an	kōm	20
 ilo	m̧ool	20
 raar	jino	20
@@ -3588,6 +3603,7 @@ ilo	bukwōn	20
 an	maron̄	20
 in	kwaļo̧k	20
 likio	in	20
+kālet	n̄an	20
 renana	im	20
 ājmour	eo	20
 likjab	in	20
@@ -3623,6 +3639,7 @@ im	juōn	20
 in	lotak	20
 aolep	ren	20
 am	an	20
+ko	rejimwe	20
 ta	kõn	20
 aikuj	bōke	20
 ñan	jabdewōt	20
@@ -3657,7 +3674,6 @@ ippãn	jijej	20
 mel̦el̦ein	men	20
 ilo	baam̦le	20
 rej	kõm̦m̦an	20
-aikuj	jerbal	20
 armej	rar	20
 kõj	jãn	20
 lel̦o̦k	ñan	20
@@ -3718,7 +3734,6 @@ wã	kein	20
 godrej	dishwasher	20
 kajur	enbwinnier	20
 federal	ej	20
-raan	elikin	20
 ko	kwōmaron	20
 jikin	wia	20
 opij	eo	20
@@ -3765,7 +3780,7 @@ branch	eo	19
 iaar	lukkuun	19
 enan̄in	aolep	19
 kar	en̄jake	19
-jen	raan	19
+jerbal	kōn	19
 kam̧ool	n̄an	19
 jiron̄	er	19
 ko	rejako	19
@@ -3786,7 +3801,6 @@ aikuj	im	19
 iaar	maron̄	19
 im	en̄jake	19
 eaar	kōņaan	19
-eto	an	19
 an	lan̄	19
 an	jema	19
 jenaaj	lo	19
@@ -3822,10 +3836,10 @@ kapo	ko	19
 im	inepata	19
 aolep	kain	19
 in	social	19
-rej	letok	19
 bwe	menin	19
 eban	kar	19
 ko	jinoin	19
+reddik	im	19
 ilo	kapijuknen	19
 wāween	ad	19
 eļapļo̧k	jān	19
@@ -3875,7 +3889,6 @@ ilo	lalin	19
 and	other	19
 ear	kile	19
 ekar	jino	19
-jej	yokwe	19
 in	yokwe	19
 job	ear	19
 ilo	bukwõn	19
@@ -3897,12 +3910,13 @@ ko	reriab	19
 lo	m̦õn̦õn̦õ	19
 ren	jel̦ã	19
 im	kõm̦m̦ani	19
+aikuj	jerbal	19
 rũttõmak	ro	19
 jeova	en	19
 ear	l̦otak	19
+tepil̦	eo	19
 enaaj	wõr	19
 ad	jel̦ã	19
-im	ren	19
 eo	kwõmaroñ	19
 reebok	cheap	19
 is	always	19
@@ -3910,6 +3924,7 @@ kwalok	nan	19
 kit	ge	19
 kin	kwe	19
 kwe	kin	19
+peba	ko	19
 ak	pepa	19
 an	jemlok	19
 aer	lale	19
@@ -3938,6 +3953,7 @@ ikijen	wā	19
 scientist	ro	19
 and	prevention	19
 jerbal	kapeel	19
+raan	elikin	19
 ke	ewōr	19
 am	kebaak	19
 ewōr	covid	19
@@ -3963,7 +3979,6 @@ bõk	kun̦aaer	19
 kun̦aaer	ilo	19
 riwia	ro	19
 ko	rōkkwojarjar	19
-en	jipañ	19
 kij	ilo	18
 maron	im	18
 ene	ko	18
@@ -3983,6 +3998,7 @@ tok	im	18
 elap	tata	18
 an	naj	18
 im	am	18
+jen	raan	18
 n̄an	maron̄	18
 eo	ejejjet	18
 in	tōl	18
@@ -3997,7 +4013,6 @@ em̧m̧aan	eo	18
 etal	wōt	18
 kea	kōn	18
 elder	ro	18
-im	re	18
 jipan̄	doon	18
 kraist	eaar	18
 ļōmņak	bwe	18
@@ -4029,7 +4044,6 @@ ilo	mijen	18
 lan̄	ko	18
 juon	tōre	18
 āinwōt	e	18
-jouj	eo	18
 kom̧	bwe	18
 n̄e	kwoj	18
 ej	kōn	18
@@ -4067,6 +4081,7 @@ nejin	im	18
 in	laļ	18
 ekwojarjar	im	18
 m̧akūtkūt	in	18
+rej	letok	18
 likao	in	18
 im	ļoor	18
 alen	ilo	18
@@ -4089,6 +4104,7 @@ etale	eo	18
 ro	rerūtto	18
 riisrael	ro	18
 jān	kien	18
+jet	ren	18
 aikuj	ke	18
 of	a	18
 republic	of	18
@@ -4137,6 +4153,7 @@ im	ebar	18
 jako	jen	18
 tore	eo	18
 letok	ñan	18
+jej	yokwe	18
 ñan	mej	18
 an	jino	18
 ilo	elōñ	18
@@ -4167,6 +4184,7 @@ jepl̦aak	ñan	18
 rijjilõk	ro	18
 m̦weo	im̦õn	18
 aikuj	kate	18
+im	ren	18
 jokwe	im	18
 bũrom̦õj	im	18
 allōñ	in	18
@@ -4233,7 +4251,6 @@ kebaak	juon	18
 claim	an	18
 eo	kwōnaj	18
 kwōnaj	loe	18
-lalem	raan	18
 ñan	kōmmane	18
 in	bael	18
 ak	jiban	18
@@ -4255,6 +4272,7 @@ kein	bõbrae	18
 jol̦o̦k	an	18
 juon	molo	18
 paamle	ko	18
+en	jipañ	18
 juon	aelõñ	18
 imõn	jokwe	18
 eo	rikarejeran	18
@@ -4272,7 +4290,6 @@ ekkar	non	17
 jab	meloklok	17
 ne	enaj	17
 eo	epen	17
-rikabwijer	priesthood	17
 elōn̄	armej	17
 eō	ilo	17
 iaar	kōm̧m̧ane	17
@@ -4294,6 +4311,7 @@ jab	ļōmņak	17
 to	an	17
 jān	er	17
 kar	lukkuun	17
+im	re	17
 ko	jaar	17
 kūr	er	17
 kōn	wōt	17
@@ -4319,6 +4337,7 @@ jab	wōt	17
 e	en	17
 i	ar	17
 ro	rem̧m̧an	17
+jouj	eo	17
 renaaj	bar	17
 etal	ilo	17
 n̄an	dāpij	17
@@ -4385,7 +4404,6 @@ make	wot	17
 you	may	17
 jela	bwe	17
 itok	nan	17
-bar	yokwe	17
 lale	an	17
 eo	aolep	17
 jero̧wiwi	ko	17
@@ -4438,7 +4456,6 @@ jab	bõjrak	17
 pād	in	17
 an	em̦m̦aan	17
 ear	je	17
-wãween	jemaroñ	17
 remaroñ	bar	17
 im	remaroñ	17
 ñe	armej	17
@@ -4496,7 +4513,6 @@ ko	jot	17
 ñe	emoj	17
 ear	kōmman	17
 an	cares	17
-kwalok	ewōr	17
 lablok	an	17
 kin	mennin	17
 emaron	wōr	17
@@ -4527,6 +4543,7 @@ ilo	burokraam	17
 ui	eo	17
 in	jaan	17
 kamool	ko	17
+lalem	raan	17
 an	wiik	17
 in	kaje	17
 kwōn	kōmmane	17
@@ -4563,12 +4580,12 @@ won	eo	16
 men	en	16
 im	elaptata	16
 center	eo	16
+rikabwijer	priesthood	16
 kobaļo̧k	ippān	16
 pidodo	an	16
 jej	aolep	16
 ak	etke	16
 jej	jerbal	16
-im	kōm	16
 maron̄	kar	16
 kijeek	ko	16
 bōk	katak	16
@@ -4588,7 +4605,6 @@ in	naaj	16
 eo	irooj	16
 jen	jar	16
 erom	āinwōt	16
-kom̧	kōn	16
 kein	rar	16
 in	kin	16
 ej	wor	16
@@ -4651,7 +4667,6 @@ kōmeļeļe	ko	16
 kōn	waanjon̄ak	16
 rej	kile	16
 an	jemedwōj	16
-jeļā	kaki	16
 jab	loe	16
 eo	elukkuun	16
 en	etal	16
@@ -4684,10 +4699,10 @@ eo	ediktata	16
 mōñā	ko	16
 program	in	16
 ilo	school	16
-im	ālikin	16
 ej	kōṃṃan	16
 ad	maron	16
 na	ij	16
+bar	yokwe	16
 ak	ewor	16
 kunaer	ilo	16
 iakwe	er	16
@@ -4738,7 +4753,6 @@ before	you	16
 imaroñ	ke	16
 that	is	16
 when	i	16
-ñan	jinen	16
 the	end	16
 up	and	16
 they	have	16
@@ -4748,7 +4762,6 @@ make	wōt	16
 ñan	ña	16
 health	care	16
 kwelok	eo	16
-je	jeḷā	16
 lok	an	16
 kwōj	bed	16
 am	maroñ	16
@@ -4771,6 +4784,7 @@ in	kwal̦o̦k	16
 ekkã	aer	16
 jej	kõm̦m̦ani	16
 eñjake	ko	16
+wãween	jemaroñ	16
 aer	maroñ	16
 tõmak	im	16
 riit	im	16
@@ -4818,7 +4832,6 @@ wawein	eo	16
 tijtriik	eo	16
 owōj	ko	16
 kobalok	ibben	16
-pepa	kein	16
 ñan	kabōjrak	16
 kamool	eo	16
 jikuul	ak	16
@@ -4836,6 +4849,7 @@ nan	ajiri	16
 rej	jibañ	16
 ej	bellok	16
 an	enbwinnier	16
+kwalok	ewōr	16
 ro	elukkun	16
 ko	einwōt	16
 kajinet	eo	16
@@ -4903,7 +4917,6 @@ jen	ailin	15
 bill	in	15
 ke	ak	15
 wot	ke	15
-ekwojarjar	an	15
 m̧ōņōņō	kōn	15
 in	kōnono	15
 ij	lukkuun	15
@@ -4932,6 +4945,7 @@ aolepen	mour	15
 kōn	jekjek	15
 kam̧oolol	kōn	15
 im	leļo̧k	15
+kom̧	kōn	15
 n̄an	jemedwōj	15
 eo	einwot	15
 ak	kin	15
@@ -5002,6 +5016,7 @@ rej	iakwe	15
 likūt	pā	15
 aō	mour	15
 ij	kōjatdikdik	15
+jeļā	kaki	15
 ej	kam̧ool	15
 jen	ke	15
 im	lan̄lōn̄	15
@@ -5013,7 +5028,6 @@ kar	peptaij	15
 opiij	ko	15
 lale	eļan̄n̄e	15
 jino	jerbal	15
-ilo̧k	im	15
 juon	kain	15
 im	laļ	15
 ajiri	im	15
@@ -5075,13 +5089,14 @@ and	then	15
 and	i	15
 ek	ṇe	15
 use	your	15
-ajri	raṇ	15
+ñan	jinen	15
 ko	kein	15
 ilo	aṃ	15
 of	them	15
 israel	ro	15
 setan	ej	15
 ear	jilkintok	15
+ine	eo	15
 alikkar	ilo	15
 jiban	ro	15
 an	kabuñ	15
@@ -5111,12 +5126,14 @@ emman	im	15
 ilo	northwest	15
 program	ko	15
 jel̦ã	im	15
+wõt	anij	15
 kõn	ro	15
 ad	l̦õmn̦ak	15
 waanjoñak	eo	15
 eo	el̦aptata	15
 bwe	kwõj	15
 rõjañ	im	15
+eo	ekããl	15
 jerbal	bwe	15
 kein	ikkan	15
 elab	aer	15
@@ -5131,6 +5148,7 @@ community	eo	15
 eo	neju	15
 jorren	im	15
 ālikin	men	15
+im	ālikin	15
 ijello̧kun	wōt	15
 ej	kejbarok	15
 ritel	ro	15
@@ -5140,7 +5158,7 @@ nan	bok	15
 kin	wot	15
 ren	bar	15
 ejjeļọk	kalijekļọk	15
-kanne	pepa	15
+pepa	kein	15
 bunton	ko	15
 būrookraaṃ	eo	15
 claim	ikijen	15
@@ -5154,6 +5172,7 @@ am	baele	15
 elmen	an	15
 ekka	aer	15
 bwonbwon	eo	15
+aer	kin	15
 uak	ko	15
 iroij	im	15
 in	lewaj	15
@@ -5265,7 +5284,7 @@ ak	ejab	14
 too	much	14
 jonan	an	14
 ro	kajojo	14
-mour	kake	14
+ekwojarjar	an	14
 im	aiboojoj	14
 juon	kōjeram̧m̧an	14
 ij	kememej	14
@@ -5283,6 +5302,7 @@ wōr	iien	14
 ko	n̄e	14
 tōl	ļo̧k	14
 likūt	ilo	14
+im	kōm	14
 wōt	men	14
 karōk	ko	14
 im	em̧m̧an	14
@@ -5317,7 +5337,6 @@ kōjparok	im	14
 im	kōm̧m̧ane	14
 im	em̧ool	14
 aō	kōn	14
-in	kālet	14
 n̄an	pād	14
 aolep	bwe	14
 ar	lo	14
@@ -5337,7 +5356,6 @@ jān	kabun̄	14
 jān	laļ	14
 peba	eo	14
 maron̄	jeļā	14
-n̄an	raan	14
 aer	kōn	14
 ekwojarjar	ilo	14
 m̧ōttan	ko	14
@@ -5410,6 +5428,7 @@ ko	wōt	14
 ekka	an	14
 ke	men	14
 in	bujen	14
+ilo̧k	im	14
 bwe	ad	14
 wōt	jidik	14
 kin	jikin	14
@@ -5469,6 +5488,7 @@ what	you	14
 innem	ñe	14
 komaroñ	ke	14
 bok	aidik	14
+ajri	raṇ	14
 to	see	14
 and	we	14
 this	island	14
@@ -5524,7 +5544,6 @@ armej	remaroñ	14
 kõn	ad	14
 ippãn	juon	14
 wõt	ad	14
-tõl	kõj	14
 em̦õj	am̦	14
 rar	mej	14
 school	im	14
@@ -5540,7 +5559,6 @@ ium̦win	elõñ	14
 maroñ	kõm̦m̦ane	14
 em̦m̦an	ñe	14
 maroñ	jel̦ã	14
-ak	ñan	14
 ãt	eo	14
 aṃ	kar	14
 lab	an	14
@@ -5564,7 +5582,6 @@ ej	kalikar	14
 potata	eo	14
 ñan	website	14
 a	la	14
-eo	ibben	14
 school	ko	14
 jerbal	iben	14
 ilo	loblej	14
@@ -5577,7 +5594,7 @@ lok	ilo	14
 kilaaj	ko	14
 im	wawein	14
 in	jāān	14
-im	kanne	14
+kanne	pepa	14
 ñe	rijikuul	14
 an	melele	14
 ñan	kōjparok	14
@@ -5653,6 +5670,7 @@ kolla	eowoj	14
 ñan	akkoun	14
 im	loor	14
 kolla	kin	14
+an	kolla	14
 employment	department	14
 bok	kolla	14
 an	ui	14
@@ -5665,7 +5683,6 @@ eo	renaj	14
 melelein	ke	14
 ippān	juōn	14
 bōk	jibāñ	14
-lak	iam	14
 bellọk	ñan	14
 ejjab	lukkun	14
 bōbrae	covid	14
@@ -5716,7 +5733,6 @@ raanin	ekajet	14
 iroij	ro	13
 ko	kab	13
 eo	moktata	13
-majol	in	13
 kajuon	im	13
 im	elab	13
 bok	ien	13
@@ -5740,10 +5756,10 @@ elap	ao	13
 an	majol	13
 kio	im	13
 ilo	hawaii	13
-ear	kwalok	13
 e	ao	13
 the	last	13
 joij	im	13
+mour	kake	13
 kōn	iien	13
 juon	eddo	13
 me	emaron̄	13
@@ -5792,6 +5808,7 @@ kōnke	ej	13
 ak	kar	13
 tōprak	ilo	13
 n̄an	ron̄jake	13
+in	kālet	13
 eo	ekōņaan	13
 im	dān	13
 er	aolep	13
@@ -5822,6 +5839,7 @@ ijjan̄in	kar	13
 kar	jiron̄	13
 aikuj	kōm̧m̧an	13
 rej	jamin	13
+n̄an	raan	13
 brigham	young	13
 jipan̄	kom̧	13
 kōm̧m̧ani	n̄an	13
@@ -5859,7 +5877,6 @@ in	ko	13
 kareel	eo	13
 juon	teej	13
 n̄an	em̧m̧an	13
-ad	lukkuun	13
 ko	rekajoor	13
 an	kumi	13
 n̄an	kakūrm̧ool	13
@@ -5885,7 +5902,6 @@ jea	eo	13
 eo	make	13
 bwe	kwaar	13
 im	pija	13
-n̄an	pokake	13
 juon	aō	13
 karuo	ilo	13
 ioon	armej	13
@@ -5942,7 +5958,6 @@ bwe	komin	13
 bar	katak	13
 ilo	juun	13
 ro	ioon	13
-ilo	gospel	13
 ren	lale	13
 bōke	ilo	13
 jet	renaaj	13
@@ -5995,6 +6010,7 @@ aō	ekar	13
 im	email	13
 komanman	ko	13
 lain	eo	13
+je	jeḷā	13
 ioon	laḷ	13
 rej	errā	13
 ñan	ankilaan	13
@@ -6041,6 +6057,7 @@ ejel̦ã	bwe	13
 emaroñ	kõm̦m̦an	13
 tõprak	ilo	13
 ad	karejar	13
+tõl	kõj	13
 kajjitõk	in	13
 ilo	internet	13
 eok	jãn	13
@@ -6055,7 +6072,6 @@ jej	kwal̦o̦k	13
 ilo	betel̦	13
 wal̦o̦k	juon	13
 ñan	eklejia	13
-yokwe	armej	13
 ejjel̦o̦k	jorrããn	13
 in	kwajalein	13
 jōōt	ṇe	13
@@ -6085,6 +6101,7 @@ letok	nan	13
 jonan	wot	13
 katak	kajin	13
 card	eo	13
+eo	ibben	13
 mokta	lok	13
 ko	rokaal	13
 dubuque	community	13
@@ -6097,6 +6114,7 @@ am	lelok	13
 kij	jen	13
 eo	emōkajtata	13
 zip	code	13
+im	kanne	13
 kajjitok	ko	13
 an	nej	13
 ro	renej	13
@@ -6126,6 +6144,7 @@ kejbarok	melele	13
 kin	jabdewōt	13
 ko	kobban	13
 mennin	ekoba	13
+ak	ñan	13
 eo	remaron	13
 federal	ñan	13
 lale	jikin	13
@@ -6163,8 +6182,6 @@ ej	kolla	13
 emoj	aō	13
 pua	eo	13
 ke	am	13
-federal	im	13
-im	state	13
 jen	wot	13
 kajitok	kein	13
 elab	joñan	13
@@ -6173,7 +6190,6 @@ bōk	jibañ	13
 ñan	peuc	13
 ej	kōjerbale	13
 kwoj	kojerbal	13
-alen	in	13
 ñi	eo	13
 imōm	im	13
 jiljino	ne	13
@@ -6203,7 +6219,6 @@ jidik	kõn	13
 rel̦l̦ap	im	13
 eḷaññe	kwōj	13
 mōn̄ā	ko	13
-notify	im	13
 kamol	ilo	13
 wūno	in	13
 kwelak	eo	13
@@ -6234,6 +6249,7 @@ tel	ro	12
 an	ailin	12
 melele	ikijen	12
 einwot	ad	12
+majol	in	12
 manit	in	12
 kien	ilo	12
 an	utiej	12
@@ -6260,6 +6276,7 @@ ne	kwe	12
 nan	ao	12
 kar	maron	12
 men	otemjij	12
+ear	kwalok	12
 ilo	nitijela	12
 kio	ke	12
 komman	menin	12
@@ -6314,7 +6331,6 @@ metak	ko	12
 kōņaan	eo	12
 eo	ippa	12
 ļo̧k	jen	12
-bwe	jabdewōt	12
 ron̄	juon	12
 kālet	eo	12
 eaar	jar	12
@@ -6323,7 +6339,6 @@ epen	n̄an	12
 eo	kōm	12
 bar	koba	12
 bwe	jikin	12
-im	mijenede	12
 in	eo	12
 n̄an	ioon	12
 n̄an	jidik	12
@@ -6349,7 +6364,6 @@ an	joseph	12
 eo	m̧ōtta	12
 iaar	katak	12
 irooj	kōn	12
-raan	n̄an	12
 is	an	12
 through	the	12
 kōm̧m̧ani	ilo	12
@@ -6380,7 +6394,6 @@ ta	kar	12
 āinwōt	ilo	12
 tiljek	im	12
 im	jorrāān	12
-im	je	12
 wōr	ad	12
 ej	m̧ōttan	12
 elōn̄	iaan	12
@@ -6388,6 +6401,7 @@ kōnono	im	12
 ilo	ijin	12
 kallib	in	12
 ilo	marok	12
+ad	lukkuun	12
 ko	rettoon	12
 an	kanniōk	12
 ioon	men	12
@@ -6429,6 +6443,7 @@ make	ej	12
 eaorōk	n̄an	12
 eo	jaar	12
 peran	im	12
+n̄an	pokake	12
 ron̄jake	ainikien	12
 ej	anij	12
 rool	n̄an	12
@@ -6487,6 +6502,7 @@ jako	an	12
 juon	kaat	12
 aikuj	kein	12
 wiik	ak	12
+ilo	gospel	12
 an	jet	12
 ear	jutak	12
 ke	armej	12
@@ -6588,6 +6604,7 @@ aikuj	kõjparok	12
 ak	kiiõ	12
 tarin̦ae	eo	12
 jeova	ñan	12
+anij	ñan	12
 bwe	jabdewõt	12
 lukkuun	kõl̦mãnl̦o̦kjen̦	12
 emaroñ	ke	12
@@ -6615,6 +6632,7 @@ lukkuun	yokwe	12
 tokjãn	jãn	12
 ta	wãween	12
 im	eñtaan	12
+kein	ãliktata	12
 aikuj	kõm̦m̦an	12
 im	kam̦m̦oolol	12
 lol̦o̦k	eklejia	12
@@ -6622,6 +6640,7 @@ am̦	kwal̦o̦k	12
 rar	etal	12
 im	m̦anit	12
 kõnono	kajin	12
+yokwe	armej	12
 kwal̦o̦k	kajjitõk	12
 juon	iaaer	12
 president	eo	12
@@ -6637,7 +6656,6 @@ kõn	tõmak	12
 ej	kõn	12
 mour	indreo	12
 etan	jikin	12
-et	eo	12
 emoj	ami	12
 ao	ej	12
 katak	kin	12
@@ -6695,7 +6713,6 @@ bwe	wā	12
 in	nañinmej	12
 an	k	12
 mweo	mweir	12
-kōmman	jen	12
 eo	emokajtata	12
 lelok	wā	12
 ilo	uwōta	12
@@ -6759,8 +6776,11 @@ walok	ñe	12
 juon	kōjella	12
 bael	wiik	12
 jen	jibañ	12
+kottar	eo	12
 maron	ebbok	12
 ewor	ao	12
+federal	im	12
+im	state	12
 nan	kollaiki	12
 in	kir	12
 an	pua	12
@@ -6770,6 +6790,7 @@ elab	emōj	12
 aer	loe	12
 an	lwa	12
 lelok	ñan	12
+alen	in	12
 n̄an	covid	12
 text	im	12
 n̄an	melele	12
@@ -6806,12 +6827,13 @@ raan	ālikin	12
 walok	nan	12
 in	immigration	12
 em	im	12
-in	ekanak	12
+jibbon	ñan	12
 phone	eo	12
 pfizer	im	12
 an	j	12
 kojella	eo	12
 ewor	naninmij	12
+notify	im	12
 bōk	kunan	12
 iep	kwelak	12
 fema	ilo	12
@@ -6892,7 +6914,6 @@ pukōt	n̄an	11
 būreejtōn	monson	11
 e	enaaj	11
 rej	āinwōt	11
-jab	kōtļo̧k	11
 im	ļaddik	11
 kūr	kom̧	11
 armej	kōn	11
@@ -6902,7 +6923,6 @@ in	ij	11
 kar	waļo̧k	11
 jepļaak	n̄an	11
 naaj	lo	11
-ok	ko	11
 ak	bōlen	11
 in	ekajet	11
 jutak	kōn	11
@@ -6931,6 +6951,7 @@ im	non	11
 jej	en̄jake	11
 kōn	rilo̧mo̧o̧r	11
 im	kea	11
+bwe	jabdewōt	11
 bōk	mālim	11
 enaaj	jerbal	11
 bwe	n̄an	11
@@ -6939,6 +6960,7 @@ jipan̄	armej	11
 kom̧	kar	11
 ak	eļan̄n̄e	11
 ikdelel	n̄an	11
+im	mijenede	11
 im	kōjatdikdik	11
 baļuun	eo	11
 ro	ruo	11
@@ -6960,6 +6982,7 @@ aō	jab	11
 kōn	meram	11
 juon	uwaak	11
 jon̄ak	eo	11
+raan	n̄an	11
 made	him	11
 in	our	11
 iakwe	doon	11
@@ -6998,14 +7021,12 @@ ukōt	mour	11
 mijenede	ej	11
 ak	āinwōt	11
 jān	am	11
-priesthood	ro	11
 eo	etto	11
 n̄an	kapijuknen	11
 ko	aikuji	11
 rekwojarjar	rej	11
 ilo	ko̧jpeļ	11
 eo	etiljek	11
-ej	kōjparok	11
 juon	m̧akūtkūt	11
 eddōkļo̧k	eo	11
 ekwojarjar	n̄an	11
@@ -7056,7 +7077,6 @@ likūt	e	11
 ko	eļap	11
 jān	jeje	11
 an	indeeo	11
-ej	m̧ool	11
 im	eddo	11
 ilo	tiljek	11
 em̧ool	ej	11
@@ -7070,6 +7090,7 @@ ilo	ikkure	11
 tōl	n̄an	11
 remenin	aikuj	11
 kar	jipan̄	11
+ko	pein	11
 rej	mej	11
 kake	n̄an	11
 im	alikkar	11
@@ -7160,7 +7181,6 @@ en	toij	11
 kai	euqewj	11
 eij	to	11
 ewõr	aer	11
-aer	nañinmij	11
 kakkije	ko	11
 tou	qeou	11
 each	of	11
@@ -7212,7 +7232,6 @@ ilo	dān	11
 jab	ñan	11
 part	of	11
 kio	ej	11
-aurōk	ñan	11
 aer	kōmmane	11
 raan	ñan	11
 ak	iar	11
@@ -7385,6 +7404,7 @@ ko	inaboj	11
 alikkar	ko	11
 an	metak	11
 ajiri	ilo	11
+kōmman	jen	11
 kanne	ablikajon	11
 enbwinnier	maron	11
 maron	bōbrae	11
@@ -7456,19 +7476,16 @@ re	maroñ	11
 arkansas	medicaid	11
 call	eo	11
 mōn	wia	11
-im	teej	11
 juōn	uwaan	11
 jimwe	ñan	11
 ñan	jikuul	11
 juōn	bukwōn	11
 juōn	jerbal	11
-jōt	ilo	11
 kwoj	jokwe	11
 cdc	ej	11
 an	county	11
 bellọk	ilo	11
 kōmman	covid	11
-am	epāāke	11
 epāāke	covid	11
 onean	eo	11
 jonan	in	11
@@ -7480,7 +7497,6 @@ im	rōjañ	11
 im	mweiuk	11
 juōn	ian	11
 kin	juōn	11
-buñten	ko	11
 buki	jen	11
 armej	jen	11
 kanne	ñan	11
@@ -7504,8 +7520,7 @@ ajeded	covid	11
 jet	ko	11
 ikar	loe	11
 kwar	boke	11
-ekanak	maaj	11
-jibbon	ñan	11
+in	ekanak	11
 exposure	notifications	11
 ej	kajerbal	11
 ear	epaak	11
@@ -7522,7 +7537,6 @@ bwe	elukkuun	11
 menin	kauwatata	11
 if	my	11
 bar	wōr	11
-riboot	in	11
 baby's	doctor	11
 nejom	ej	11
 kallim̦ur	bwe	11
@@ -7539,7 +7553,6 @@ wia	em	11
 baibõl̦	ear	11
 kwõjkwõjin	mej	11
 doon	ãinwõt	11
-pen	ñan	11
 rot	e	11
 kein	katak	11
 mrna	wā	11
@@ -7600,11 +7613,11 @@ juon	branch	10
 ijo	eaar	10
 n̄an	doulul	10
 en̄jake	juon	10
-juon	jetōb	10
 im	im̧we	10
 ta	jerbal	10
 jerbal	me	10
 ejjab	kōn	10
+jab	kōtļo̧k	10
 bōke	im	10
 aolepen	men	10
 ko	rejim̧we	10
@@ -7644,7 +7657,6 @@ kōn	jar	10
 bar	lo	10
 rilo̧mo̧o̧r	im	10
 anemkwoj	in	10
-anemkwoj	eo	10
 in	bukot	10
 jerbal	non	10
 armij	en	10
@@ -7709,7 +7721,6 @@ ro	m̧ōttaer	10
 aer	eaar	10
 ro	rainin	10
 itok	bwe	10
-im	kwon	10
 bwe	kajoor	10
 ilo	kallim̧ur	10
 an	ke	10
@@ -7741,21 +7752,23 @@ kōn	aorōk	10
 juon	bujen	10
 kōmeļeļe	eo	10
 n̄an	naan	10
+priesthood	ro	10
 ren	pokake	10
 ruo	iiō	10
 jerbal	aolep	10
 im	erreo	10
+im	je	10
 kar	aikuji	10
 kalim̧m̧ur	ko	10
 jined	im	10
 im	wōn	10
+ej	kōjparok	10
 aer	kajoor	10
 meram	im	10
 emakijkij	an	10
 ami	kōn	10
 jen	ami	10
 ioļapļap	in	10
-m̧ool	ej	10
 ej	etetal	10
 ak	uno	10
 kalle	leen	10
@@ -7829,6 +7842,7 @@ iaar	ekkatak	10
 jako	jān	10
 em̧m̧an	jān	10
 n̄an	aolepān	10
+ej	m̧ool	10
 jej	kōnono	10
 kōn	unin	10
 kōn	oktak	10
@@ -7852,7 +7866,6 @@ iakwe	an	10
 aolep	renaaj	10
 lo	ro	10
 bwe	jaar	10
-ko	pein	10
 an	rej	10
 eo	ekadu	10
 ro	ri	10
@@ -7935,7 +7948,6 @@ jejtōr	ro	10
 reilo̧k	n̄an	10
 jān	jorrāān	10
 riab	in	10
-e	in	10
 aer	ren	10
 rot	ko	10
 an	aikuj	10
@@ -7962,6 +7974,7 @@ kai	en	10
 autwn	kai	10
 o	de	10
 health	insurance	10
+aer	nañinmij	10
 jortoklik	in	10
 ak	ien	10
 fish	for	10
@@ -7992,7 +8005,6 @@ so	i	10
 i	went	10
 in	kadek	10
 that	it	10
-lale	ro	10
 a	long	10
 we	should	10
 my	shirt	10
@@ -8011,10 +8023,10 @@ m̧aan	ro	10
 juon	nan	10
 nan	armej	10
 jino	aer	10
-eḷaññe	jej	10
 ear	yokwe	10
 an	kora	10
 armij	emoj	10
+aurōk	ñan	10
 kadreloñ	ajiri	10
 ko	ñe	10
 jet	remaroñ	10
@@ -8125,6 +8137,7 @@ eddo	im	10
 jab	kwal̦o̦k	10
 ñan	ippãn	10
 kõm̦m̦ane	jerbal	10
+jipañ	doon	10
 nõbar	im	10
 kõm̦m̦an	bõd	10
 aer	karejar	10
@@ -8267,7 +8280,6 @@ ejellok	kein	10
 email	eo	10
 aer	kōjerbal	10
 an	google	10
-rekkar	ñan	10
 ikijen	kejbarok	10
 iomwin	jet	10
 jet	remaron	10
@@ -8321,6 +8333,7 @@ kein	jimor	10
 ewor	ruo	10
 am	ejab	10
 kin	jekjek	10
+aer	kolla	10
 loor	melele	10
 bedbed	ioon	10
 melele	ke	10
@@ -8356,6 +8369,7 @@ bōk	nan̄inmej	10
 kenono	ippen	10
 ak	jeje	10
 kōmelij	im	10
+im	teej	10
 emōj	lelak	10
 kwar	ke	10
 in	loore	10
@@ -8363,11 +8377,13 @@ bejnej	ko	10
 anḷain	ilo	10
 rijikuul	ilo	10
 ñe	kwōnij	10
+jōt	ilo	10
 ñe	bukwōn	10
 in	mijinede	10
 ekar	katakin	10
 an	ron	10
 kwalok	juōn	10
+am	epāāke	10
 aikuj	jibāñ	10
 uno	ñan	10
 bar	jōt	10
@@ -8378,6 +8394,7 @@ ilo	jelālọkjān	10
 jikin	jelālọkjān	10
 etaale	ko	10
 rej	aurōk	10
+buñten	ko	10
 imon	jikuul	10
 kein	katakin	10
 mwil	im	10
@@ -8421,6 +8438,7 @@ em̗ōj	aer	10
 bok	wā	10
 wá	kein	10
 smartphone	ko	10
+ekanak	maaj	10
 washington	im	10
 washington	rej	10
 kalbubu	māj	10
@@ -8429,7 +8447,6 @@ kejbarok	am	10
 ebar	lon	10
 jokdron	ñe	10
 ak	kojella	10
-jones	center	10
 children	are	10
 in	mweo	10
 juon	code	10
@@ -8446,6 +8463,7 @@ ejjab	bōk	10
 fema	ejjab	10
 fema	helpline	10
 ippen	fema	10
+riboot	in	10
 doctor	if	10
 nejom	elane	10
 im	er	10
@@ -8456,8 +8474,6 @@ maroñ	peptaij	10
 bwe	el̦aññe	10
 joñak	em̦m̦an	10
 ekar	jiron̄	10
-d	mark	10
-mark	ii	10
 kalbubu	mej	10
 oṇãn	rent	10
 jãn	iṃõn	10
@@ -8489,6 +8505,7 @@ lukkuun	ra	10
 jidrik	ko	10
 jikin	ikkure	10
 ilo	tarin̦ae	10
+pen	ñan	10
 tõl	ippãn	10
 fema	ejab	10
 kõj	in	10
@@ -8509,7 +8526,6 @@ tomak	im	9
 im	jejet	9
 kin	wawen	9
 mokta	ilo	9
-dim	ilo	9
 elon	ro	9
 jutak	bin	9
 jabdrewot	ien	9
@@ -8530,7 +8546,6 @@ waj	nan	9
 insurance	in	9
 kea	kin	9
 wot	ne	9
-mour	wot	9
 nan	kein	9
 yuk	kin	9
 field	trip	9
@@ -8538,6 +8553,7 @@ imon	jar	9
 lukkuun	jejjet	9
 kajjitōk	eļan̄n̄e	9
 im̧ōn	jar	9
+juon	jetōb	9
 n̄e	eaar	9
 menin	ekar	9
 ko	indeeo	9
@@ -8547,7 +8563,6 @@ ilo	kōļmenļo̧kjeņ	9
 n̄e	enaaj	9
 lan̄	im	9
 n̄an	kōļapļo̧k	9
-ad	jeļā	9
 n̄an	kotak	9
 kōņaan	n̄an	9
 eļan̄n̄e	ewōr	9
@@ -8556,7 +8571,6 @@ kallim̧ur	bwe	9
 jej	jamin	9
 pād	ippāer	9
 im	ilo̧k	9
-lukkuun	pen	9
 ippāer	ilo	9
 eaar	je	9
 jab	meļeļe	9
@@ -8591,6 +8605,7 @@ kwaļo̧k	ad	9
 ainemon	eo	9
 ilo	lol	9
 united	nations	9
+anemkwoj	eo	9
 otemjej	ren	9
 eo	elaptata	9
 ien	otemjej	9
@@ -8627,7 +8642,6 @@ ilo	karōk	9
 eaar	likūt	9
 juon	wun	9
 kwaļo̧k	an	9
-ie	ļo̧k	9
 jinoin	ilo	9
 in	mijen	9
 in	edik	9
@@ -8656,6 +8670,7 @@ ripoot	eo	9
 ekōnono	kōn	9
 mormon	ej	9
 ej	naan	9
+im	kwon	9
 n̄e	kom̧ij	9
 eaar	ļōmņak	9
 eaar	jeje	9
@@ -8663,7 +8678,6 @@ ej	uwaak	9
 rein	ruo	9
 in	kōnke	9
 in	iiō	9
-jab	wānōk	9
 kōm̧m̧an	im	9
 jiron̄	kom̧	9
 kōto	ko	9
@@ -8733,6 +8747,7 @@ kōm̧m̧an	āindein	9
 wāween	mour	9
 ļo̧k	im	9
 eļaptata	ilo	9
+m̧ool	ej	9
 wōt	me	9
 an	ritōl	9
 kijejeto	eo	9
@@ -8923,6 +8938,7 @@ ippān	jemed	9
 kōjerbale	n̄an	9
 bōk	jen	9
 in	renaaj	9
+e	in	9
 renana	me	9
 tok	in	9
 jet	naan	9
@@ -8948,7 +8964,6 @@ if	reebok	9
 before	the	9
 kōjerbal	ilo	9
 en	taij	9
-kai	hn	9
 jidik	bwe	9
 kōjro	etal	9
 let's	wait	9
@@ -8990,6 +9005,7 @@ over	to	9
 these	are	9
 to	school	9
 an	baaṃle	9
+lale	ro	9
 went	to	9
 niñniñ	ṇe	9
 that	coconut	9
@@ -9029,8 +9045,6 @@ e	ṃool	9
 koṃ	jeḷā	9
 ri	nana	9
 jab	yokwe	9
-bwe	eñin	9
-im	eñin	9
 ear	jerbal	9
 dri	jiban	9
 bed	iumin	9
@@ -9043,7 +9057,6 @@ im	rũttol̦o̦k	9
 juon	bukwõn	9
 iar	lukkuun	9
 in	aõ	9
-in	maroñ	9
 iar	etal	9
 im	m̦ool	9
 armej	ie	9
@@ -9103,6 +9116,7 @@ etale	jet	9
 enaaj	kõm̦m̦ane	9
 kõjparok	eok	9
 jeim̦	im	9
+ilo	tõmak	9
 etke	ejjab	9
 lio	pãleen	9
 bwe	l̦eo	9
@@ -9272,6 +9286,7 @@ iien	aer	9
 ilo	week	9
 week	in	9
 kem	ej	9
+kolla	ak	9
 loloorjak	am	9
 juon	wewein	9
 ko	ejab	9
@@ -9313,7 +9328,6 @@ ilo	ejellok	9
 emōj	kwalok	9
 ak	emōj	9
 jab	kōmman	9
-ro	redik	9
 ear	bōk	9
 obij	in	9
 kobalok	ñan	9
@@ -9322,6 +9336,7 @@ ian	jikin	9
 jejjet	ñan	9
 kwōmaron	kōmmane	9
 kwalok	kein	9
+rekkar	ñan	9
 aoleb	melele	9
 ko	iomwin	9
 bōk	ien	9
@@ -9465,7 +9480,6 @@ kōmman	jān	9
 jokdoon	ñe	9
 kamol	eo	9
 ñi	ko	9
-a	im	9
 alap	ro	9
 economy	eo	9
 kwe	ne	9
@@ -9539,6 +9553,7 @@ kako	eo	9
 jikin	wa	9
 download	ae	9
 ewi	waween	9
+jones	center	9
 rent	eo	9
 kolla	wonen	9
 kwe	maroñ	9
@@ -9673,7 +9688,9 @@ in	renaj	8
 takto	ilo	8
 karuo	ej	8
 im	kelet	8
+ion	springdale	8
 ba	in	8
+mour	wot	8
 jolok	ao	8
 emaron	jab	8
 im	kora	8
@@ -9701,6 +9718,7 @@ im	kōkajoorļo̧k	8
 kōkajoorļo̧k	baam̧le	8
 n̄an	kadedeļo̧k	8
 jebar	im	8
+ad	jeļā	8
 n̄an	niknik	8
 kōm̧m̧an	juon	8
 an	renaaj	8
@@ -9713,6 +9731,7 @@ jarlepju	in	8
 eaar	loe	8
 jenaaj	aolep	8
 doulul	an	8
+lukkuun	pen	8
 e	naaj	8
 loi	im	8
 kadedeļo̧k	jerbal	8
@@ -9743,7 +9762,6 @@ elōn̄	ro	8
 im	branch	8
 ej	ļōmņak	8
 ko	jejjab	8
-ad	remaron̄	8
 kōn	lan̄lōn̄	8
 ko	m̧oktaļo̧k	8
 rej	einwot	8
@@ -9762,6 +9780,7 @@ aurok	in	8
 kakije	ko	8
 eo	ebwe	8
 jen	konan	8
+lo	kōj	8
 n̄an	alooje	8
 bwe	emaron̄	8
 emaron̄	kōm̧m̧an	8
@@ -9782,6 +9801,7 @@ wōt	ta	8
 n̄an	pedped	8
 eaar	etetal	8
 an	jabdewōt	8
+ie	ļo̧k	8
 juon	nejin	8
 n̄an	ankilaan	8
 āne	eo	8
@@ -9820,6 +9840,7 @@ eo	kab	8
 raar	etal	8
 jet	allōn̄	8
 ritōl	an	8
+jab	wānōk	8
 in	leļo̧k	8
 pein	anij	8
 eaar	katak	8
@@ -9912,7 +9933,6 @@ epaake	doon	8
 jen	bok	8
 im	eļaptata	8
 ļapļo̧k	ad	8
-āinļo̧k	wōt	8
 ak	branch	8
 kōm̧anm̧an	eo	8
 ium̧win	iiō	8
@@ -10037,7 +10057,6 @@ emakijkij	aer	8
 ad	kōm̧m̧an	8
 rejjab	em̧m̧an	8
 jab	em̧m̧an	8
-po	ilo	8
 an	likao	8
 jabōt	eo	8
 kijejeto	im	8
@@ -10311,7 +10330,6 @@ lale	wāween	8
 in	laḷ	8
 keotak	e	8
 kien	ñan	8
-rej	jān	8
 mokaj	an	8
 ejeja	an	8
 renaj	jerbal	8
@@ -10328,8 +10346,10 @@ ippãer	im	8
 im	lol̦o̦k	8
 ro	jeiũ	8
 jeiũ	im	8
+im	jatũ	8
 ren	katak	8
 im	tokãlik	8
+in	maroñ	8
 kajin	hibru	8
 eõ	im	8
 ak	kõn	8
@@ -10356,7 +10376,6 @@ kõtl̦o̦k	an	8
 an	jel̦ã	8
 eoktak	jãn	8
 im	jejjab	8
-kwal̦o̦k	wãween	8
 kõn	lal̦	8
 wõt	ippãn	8
 jorrããn	im	8
@@ -10412,7 +10431,6 @@ im	wõr	8
 kããlõt	ñan	8
 wal̦o̦k	ñane	8
 itok	ioon	8
-an	ear	8
 jãn	ijo	8
 eñtaan	eo	8
 jum̦ae	ko	8
@@ -10468,6 +10486,7 @@ cheap	reebok	8
 in	bu	8
 as	i	8
 jikin	kallip	8
+in	ñe	8
 turin	mejān	8
 to	jān	8
 i	can't	8
@@ -10632,6 +10651,7 @@ aikuj	lelok	8
 oregon	health	8
 errā	kin	8
 loe	jen	8
+ro	redik	8
 kombani	ko	8
 atorej	in	8
 emaron	kōmman	8
@@ -10683,7 +10703,6 @@ godrej	toll	8
 urban	clap	8
 clap	air	8
 refrigerator	service	8
-center	india	8
 ro	ikijen	8
 ajeded	in	8
 ibben	im	8
@@ -10787,7 +10806,6 @@ in	pad	8
 rental	assistance	8
 condado	de	8
 de	benton	8
-nañinmijin	ñad	8
 aṃ	bōk	8
 mej	in	8
 armij	ie	8
@@ -10906,7 +10924,6 @@ aer	ion	8
 an	kojerbal	8
 enwot	juon	8
 ñan	ejmour	8
-court	eo	8
 aer	renaaj	8
 jiban	bwe	8
 ebbok	wā	8
@@ -10921,7 +10938,6 @@ attorney	general	8
 eo	nejōṃ	8
 nōṃba	ko	8
 pepe	ñan	8
-ie	ke	8
 kwōj	teej	8
 kōjerbale	juōn	8
 im	abnōnō	8
@@ -11021,6 +11037,7 @@ el̦ap	jãn	8
 kõn	kain	8
 ren	jar	8
 jab	kajju	8
+wōjke	olive	8
 im	ņa	8
 juon	aelōn̄	8
 jeff	williams	8
@@ -11073,7 +11090,6 @@ jepl̦aak	ñane	8
 eddodo	kõn	8
 iien	emman	8
 ejab	kall	8
-jem̦jerã	ko	8
 wic	ñan	8
 ewic	kaat	8
 bũrom̦õj	kõn	8
@@ -11157,7 +11173,6 @@ kōm̧m̧an	ko	7
 im	karōk	7
 n̄an	kalimjōk	7
 im	enjeļ	7
-jerbal	ekkar	7
 kōn	karōk	7
 n̄an	bōke	7
 kōnono	kaki	7
@@ -11168,6 +11183,7 @@ jab	make	7
 iien	jerbal	7
 jilu	iiō	7
 make	ļo̧k	7
+keidi	n̄an	7
 ālkin	aer	7
 jeļā	im	7
 im	jaar	7
@@ -11181,7 +11197,6 @@ eļapļo̧k	jen	7
 ad	lo	7
 jikin	kweilo̧k	7
 maron̄	loi	7
-dim	wōt	7
 aolep	aō	7
 n̄an	jem̧ļo̧k	7
 bwe	kwar	7
@@ -11193,6 +11208,7 @@ eo	eim̧we	7
 ko	kom̧ij	7
 jen	etal	7
 men̄e	jej	7
+ad	remaron̄	7
 eaar	mour	7
 ilan̄	kōn	7
 juon	bwe	7
@@ -11273,7 +11289,6 @@ bwe	bok	7
 im	rijilōk	7
 rej	kabwijer	7
 eļan̄n̄e	men	7
-raorōk	tata	7
 idajon̄jon̄	eo	7
 mālijon̄	an	7
 kōjerbal	tōmak	7
@@ -11298,6 +11313,7 @@ kajjitōk	ilo	7
 eaorōk	tata	7
 eļan̄n̄e	armej	7
 men̄e	iaar	7
+iminene	eo	7
 iaar	itok	7
 katak	n̄an	7
 ļapļo̧k	in	7
@@ -11378,6 +11394,7 @@ in	meram	7
 an	nana	7
 em̧m̧an	ej	7
 ej	kōpooj	7
+āinļo̧k	wōt	7
 kōjerbal	pija	7
 eļļā	ioon	7
 innām	rej	7
@@ -11401,7 +11418,6 @@ ko	im̧aan	7
 inepata	bwe	7
 bwe	kōrā	7
 eaar	kōjparok	7
-m̧ool	kein	7
 āinwōt	eaar	7
 mej	ej	7
 in	m̧ool	7
@@ -11428,7 +11444,6 @@ ippa	kōn	7
 m̧wil	nana	7
 inaaj	kōm̧m̧an	7
 ren	erom	7
-eo	eto	7
 kallim̧ur	in	7
 lukkuun	bōk	7
 kijenmej	ilo	7
@@ -11630,7 +11645,6 @@ juon	jeļā	7
 me	elukkuun	7
 ren	bōke	7
 jilu	wiik	7
-aolep	kajoor	7
 ilo	pinmuur	7
 katak	ak	7
 ron̄	eo	7
@@ -11639,7 +11653,6 @@ kar	kōjerbal	7
 likieo	in	7
 copy	in	7
 eo	jema	7
-bee	ko	7
 ijo	kuņaer	7
 en	erom	7
 enaaj	jako	7
@@ -11759,7 +11772,6 @@ ak	emaroñ	7
 community	health	7
 rej	kajin	7
 to	pneuma	7
-nuknuk	kā	7
 that	girl	7
 is	more	7
 you	any	7
@@ -11778,7 +11790,6 @@ the	sea	7
 up	with	7
 ñan	jema	7
 ioon	teek	7
-ḷeo	ear	7
 to	catch	7
 won't	be	7
 is	going	7
@@ -11871,9 +11882,10 @@ kiō	im	7
 those	who	7
 jilkinlok	juon	7
 lelok	bwe	7
-koṃwin	jab	7
 ilo	laḷ	7
 im	eṃṃan	7
+rej	jān	7
+bwe	eñin	7
 kajjitōk	im	7
 of	oregon	7
 wonmanlok	ko	7
@@ -11922,6 +11934,7 @@ im	apañ	7
 jabdewõt	bok	7
 menin	lel̦o̦k	7
 im	lal̦	7
+kwal̦o̦k	wãween	7
 an	jãn	7
 kajjien	anij	7
 aolep	bok	7
@@ -11993,6 +12006,7 @@ ko	ippãn	7
 kããlõt	ta	7
 kõm̦m̦an	pepe	7
 en	letok	7
+an	ear	7
 aer	kõm̦m̦ane	7
 eo	l̦o̦k	7
 kõm̦m̦ane	ej	7
@@ -12090,7 +12104,6 @@ menin	jeramon	7
 jeramon	ko	7
 menin	aurok	7
 in	etto	7
-in	ñe	7
 like	this	7
 jab	teru	7
 down	to	7
@@ -12156,7 +12169,6 @@ meram	ko	7
 ear	ko	7
 nan	anij	7
 etam	im	7
-et	ko	7
 jitob	in	7
 yuk	make	7
 ilo	buruom	7
@@ -12188,6 +12200,7 @@ de	aprendizaje	7
 information	about	7
 your	family	7
 safe	and	7
+health	officials	7
 públicas	de	7
 ro	nejum	7
 case	kein	7
@@ -12637,6 +12650,7 @@ em̗ōj	an	7
 kojerbal	e	7
 im	jukjuk	7
 kwoj	aikuji	7
+court	eo	7
 kalijekļọk	ilo	7
 jooj	ej	7
 jorran	ko	7
@@ -12662,6 +12676,7 @@ bed	jab	7
 maron	kejbarok	7
 re	ban	7
 notify	e	7
+ie	ke	7
 notify	ke	7
 nōṃba	in	7
 aō	iiō	7
@@ -12669,7 +12684,6 @@ in	bōnbōn	7
 jen	washington	7
 in	pātōre	7
 riukok	ilo	7
-make	iam	7
 eo	ekoba	7
 jikin	ebbōk	7
 im	etan	7
@@ -12704,7 +12718,6 @@ am	māke	7
 ñan	kōjbarok	7
 juōn	kōjjellā	7
 ke	rekar	7
-kōjerbal	wa	7
 jiped	link	7
 kajitok	jibañ	7
 aitok	kitien	7
@@ -12724,7 +12737,6 @@ m̗akūtkūt	ko	7
 elane	ninnin	7
 kir	lok	7
 kein	jorome	7
-jorome	dan	7
 the	cord	7
 wawin	in	7
 akkiin	pain	7
@@ -12824,7 +12836,6 @@ kwal̦o̦k	ettã	7
 an	kũraij	7
 ri	jeje	7
 jãn	aelõñ	7
-wōjke	olive	7
 im	pool	7
 pool	in	7
 m̗okta	jen	7
@@ -12859,7 +12870,6 @@ ilo	lābōl	7
 nej	raan	7
 ko	renej	7
 jān	bu	7
-ak	kadkad	7
 kanne	peba	7
 ien	idin	7
 bun̄tōn	kein	7
@@ -12904,6 +12914,7 @@ ilaija	ear	7
 josep	im	7
 rejjab	weeppãn	7
 im	iioon	7
+utiej	bõro	7
 rejjab	m̦ool	7
 jab	kõm̦m̦ani	7
 kom̦	maroñ	7
@@ -12913,6 +12924,7 @@ wiik	otemjej	7
 juōn	jeramman	7
 kijoone	eo	7
 jako	am̦	7
+jem̦jerã	ko	7
 an	wic	7
 hawai'i	wic	7
 im	rekabũrom̦õjm̦õj	7
@@ -12941,7 +12953,6 @@ aurok	eo	6
 lelok	ilo	6
 ao	naan	6
 ri	tel	6
-ilon	in	6
 kabijuknen	ko	6
 monono	eo	6
 ko	jar	6
@@ -13025,6 +13036,7 @@ kile	menin	6
 rejitōn	bōro	6
 aenōm̧m̧an	n̄an	6
 kōjeram̧m̧an	mour	6
+jerbal	ekkar	6
 ad	kōņaan	6
 bar	wāween	6
 jab	mour	6
@@ -13174,6 +13186,7 @@ bwe	rikanaan	6
 ilo	kajoor	6
 kememej	naan	6
 kōņaan	bōk	6
+raorōk	tata	6
 juon	idajon̄jon̄	6
 juon	mālijon̄	6
 eo	loe	6
@@ -13327,6 +13340,7 @@ jen	rikanaan	6
 ijjino	kōn	6
 lukkuun	mour	6
 eo	ļo̧k	6
+m̧ool	kein	6
 jenaaj	mour	6
 kōto	in	6
 aolep	bwebwenato	6
@@ -13361,7 +13375,6 @@ eļan̄n̄e	inaaj	6
 kōm̧m̧ane	ej	6
 lo	jet	6
 iien	kakkije	6
-ikōņaan	kōnono	6
 im	jukjukin	6
 ak	wāween	6
 ko	tokālik	6
@@ -13582,10 +13595,8 @@ mōkaj	im	6
 im	jaten	6
 josaia	ear	6
 jab	kōṇaan	6
-im	eṃōj	6
 wawein	ad	6
 kom	nan	6
-available	for	6
 even	if	6
 bok	ilo	6
 lukkun	in	6
@@ -13620,6 +13631,7 @@ eo	emour	6
 de	in	6
 pilawā	im	6
 im	revelesōn	6
+aolep	kajoor	6
 ņae	eō	6
 uwe	eo	6
 elder	david	6
@@ -13649,7 +13661,6 @@ naan	jān	6
 ilo	jerusalem	6
 kabun̄-jar	n̄an	6
 en	ilo	6
-ejjeḷọk	armej	6
 ña	ij	6
 ej	eo	6
 ren	jejjet	6
@@ -13744,7 +13755,6 @@ easytone	abc	6
 that	reebok	6
 but	it	6
 that	all	6
-in	eb	6
 imminene	ilo	6
 kwōn	lale	6
 ippāer	im	6
@@ -13913,16 +13923,17 @@ aer	etal	6
 kōnnaan	kake	6
 im	ar	6
 an	in	6
+koṃwin	jab	6
 jejewōj	ñan	6
 eo	koṃ	6
 ilo	koṃ	6
 bwe	koṃ	6
-im	koṃ	6
 rej	alikkar	6
 jen	yokwe	6
 ear	likūt	6
 naan	ak	6
 a	ilo	6
+im	eñin	6
 of	all	6
 nejum	ilo	6
 jibañ	ajiri	6
@@ -13977,7 +13988,6 @@ nana	ñan	6
 tũriam̦o	ñan	6
 im	kõtl̦o̦k	6
 ejjab	baj	6
-wãween	et	6
 aolep	kanaan	6
 letok	eaorõk	6
 eaorõk	im	6
@@ -14014,6 +14024,7 @@ tarin̦ae	in	6
 ej	kam̦ool	6
 etke	men	6
 riab	im	6
+kallim̦ur	ñan	6
 ukot	mour	6
 el̦aññe	em̦ool	6
 ta	ankilaan	6
@@ -14023,13 +14034,13 @@ in	lal̦	6
 jejel̦o̦k	ñan	6
 kein	rem̦m̦an	6
 remaroñ	kõm̦m̦an	6
+rem̦m̦anl̦o̦k	jãn	6
 kõjparok	er	6
 im	jãn	6
 jãn	m̦anit	6
 ko	rebõd	6
 jej	roñ	6
 ilo	tv	6
-jemaroñ	kõjparok	6
 rej	ekkatak	6
 epidodo	ñan	6
 meñe	emaroñ	6
@@ -14098,7 +14109,6 @@ lewaj	eo	6
 yokwe	in	6
 kõm̦akũt	eok	6
 tõmak	ej	6
-jemaroñ	kwal̦o̦k	6
 kõm̦m̦ane	kwõjkwõj	6
 ñan	rainin	6
 kakeememej	kõj	6
@@ -14138,7 +14148,6 @@ enaaj	pãd	6
 iaaer	ej	6
 em̦õj	ad	6
 wõt	ñe	6
-enaaj	ejjel̦o̦k	6
 ke	kwal̦o̦k	6
 litok	ñan	6
 ej	epaaktok	6
@@ -14298,7 +14307,6 @@ bwe	n̄aij	6
 rekar	kanooj	6
 an	jon	6
 unin	am	6
-jej	bareinwot	6
 ij	bareinwot	6
 komanman	otemjej	6
 turin	mejen	6
@@ -14365,7 +14373,6 @@ in	ebin	6
 am	ejjab	6
 tok	rijikuul	6
 kein	kajjojo	6
-lōmnak	in	6
 joortoklik	ñan	6
 science	im	6
 ñan	rūtto	6
@@ -14559,6 +14566,7 @@ services	in	6
 near	me	6
 numbers	in	6
 godrej	top	6
+center	india	6
 to	pay	6
 maron	kar	6
 am	kall	6
@@ -14605,7 +14613,6 @@ emoj	kadriklok	6
 aikuj	kōjella	6
 wot	jerbal	6
 mweo	mweer	6
-in	būlu	6
 ien	jorren	6
 aikuj	kebaak	6
 make	koontrak	6
@@ -14651,12 +14658,12 @@ joñan	wot	6
 maron	ak	6
 enaj	lelok	6
 oregon	employment	6
+kottar	ne	6
 jerbal	walok	6
 jen	pandemic	6
 online	claim	6
 claim	system	6
 jen	peuc	6
-eb	ej	6
 nan	peuc	6
 in	lablok	6
 ñan	lablok	6
@@ -14749,7 +14756,6 @@ jibān̄	eok	6
 im	maje	6
 kwōj	kōjerbal	6
 ilo	bōtōktōk	6
-mande	ñan	6
 ukok	naan	6
 kōmelij	ilo	6
 kautiej	er	6
@@ -14845,7 +14851,6 @@ kolla	onean	6
 rekar	jerbal	6
 ḷōmṇak	kin	6
 book	ko	6
-ain	aolep	6
 the	language	6
 jokwe	mweo	6
 create	a	6
@@ -14862,7 +14867,6 @@ kalimur	ko	6
 bok	kin	6
 ekwe	bar	6
 an	jelōt	6
-eto	aer	6
 im	matōrtōr	6
 ekajet	im	6
 ad	illu	6
@@ -14995,7 +14999,6 @@ community	in	6
 ak	nañinmij	6
 elane	kwojab	6
 human	rights	6
-aikuj	loor	6
 jerpal	in	6
 imonono	in	6
 ñan	būrookraaṃ	6
@@ -15057,7 +15060,6 @@ rejjab	ṃool	6
 ilo	wá	6
 katakin	cell	6
 jelet	er	6
-g	eo	6
 kōjellā	kin	6
 loor	bunten	6
 kojellaik	ro	6
@@ -15094,6 +15096,7 @@ epāāk	ñan	6
 with	our	6
 loe	liaona	6
 ekelel	tak	6
+kōjerbal	wa	6
 ilo	ilo	6
 in	epaake	6
 bwe	laļ	6
@@ -15128,7 +15131,6 @@ ri-majol	ro	6
 iben	takto	6
 ilo	bato	6
 lok	takto	6
-dan	eo	6
 place	your	6
 lok	non	6
 the	vaccine	6
@@ -15138,7 +15140,6 @@ elõñ	bukwi	6
 likũti	ilo	6
 apañ	ilo	6
 an	m̦ool	6
-emaroñ	lukkuun	6
 ilo	idiñ	6
 eo	nejũ	6
 jipañ	jãn	6
@@ -15179,7 +15180,6 @@ eo	pālleō	6
 in	jero̧wiwi	6
 otemjeļo̧k	rej	6
 etan	aolep	6
-ii	dslr	6
 dslr	era	6
 nan	jodikdik	6
 bed	ilobelej	6
@@ -15193,7 +15193,6 @@ ear	bareinwōt	6
 kiik	awōt	6
 rent	ñan	6
 kwalok	jabdewōt	6
-walok	wōn	6
 wāwein	kōjjellā	6
 in	jiped	6
 kōjjellā	ko	6
@@ -15314,6 +15313,7 @@ lābōl	eo	6
 kilaj	ko	6
 immigration	ko	6
 kajitok	im	6
+ak	kadkad	6
 im	cdc	6
 kömelim	buki	6
 maj	im	6
@@ -15352,7 +15352,6 @@ keini	am̦	6
 am̦	kõn̦aan	6
 jãn	wãween	6
 in	aorõk	6
-ri	kwal̦o̦k	6
 ej	kõjerbal	6
 kar	l̦õmn̦ak	6
 pãd	ilañ	6
@@ -15433,7 +15432,6 @@ service	commission	5
 government	ko	5
 private	sector	5
 jet	mottad	5
-rainin	jen	5
 jen	ao	5
 non	ao	5
 kenono	im	5
@@ -15521,7 +15519,6 @@ summer	in	5
 in	jitob	5
 of	god	5
 web	site	5
-an	aolepān	5
 n̄an	priesthood	5
 ro	em̧ōj	5
 eddo	ekwojarjar	5
@@ -15590,7 +15587,6 @@ n̄an	kōtļo̧k	5
 eo	epaak	5
 aer	kile	5
 lale	wa	5
-ko	waer	5
 juon	meļeļe	5
 wōt	jet	5
 men	āinwōt	5
@@ -15697,7 +15693,6 @@ kar	kepooj	5
 an	kōņaan	5
 jab	en̄jake	5
 ippān	ļo̧k	5
-ilo̧k	ie	5
 in	aenōm̧m̧an	5
 nejū	im	5
 lan̄	eaar	5
@@ -15737,7 +15732,6 @@ ej	ukweļo̧k	5
 an	en̄taan	5
 rōn̄ōl	eo	5
 ukweļo̧k	jān	5
-aen	ko	5
 iiō	rem̧ootļo̧k	5
 pejnej	eo	5
 eaar	ioon	5
@@ -15747,7 +15741,6 @@ kōm̧m̧an	aolep	5
 bōk	eok	5
 aer	aorōk	5
 leke	eo	5
-dim	im	5
 kejōkļo̧kjeņ	kōn	5
 kone	eo	5
 lan̄	ilo	5
@@ -15803,6 +15796,7 @@ an	bisop	5
 an	nin̄nin̄	5
 em̧ōj	am	5
 kalim̧m̧ur	eo	5
+jen	irooj	5
 emaron̄	tōl	5
 menin	kom̧	5
 eo	aikuji	5
@@ -16016,6 +16010,7 @@ naaj	loe	5
 inaaj	aikuj	5
 kiki	eo	5
 n̄an	ikkure	5
+ikōņaan	kōnono	5
 n̄an	erreo	5
 bar	riiti	5
 rūttoļo̧k	ie	5
@@ -16302,6 +16297,7 @@ kaṃool	naan	5
 kom	woj	5
 god	bless	5
 tried	to	5
+available	for	5
 naaj	bok	5
 ij	konan	5
 ej	emmon	5
@@ -16437,6 +16433,7 @@ m̧oktata	n̄an	5
 ilo	ak	5
 ña	make	5
 mour	bwe	5
+ejjeḷọk	armej	5
 ij	maron̄	5
 kōjatdikdik	im	5
 anjo	jān	5
@@ -16519,7 +16516,6 @@ an	noelle	5
 to	hold	5
 to	its	5
 can	reebok	5
-b	reebok	5
 not	reebok	5
 care	coverage	5
 years	of	5
@@ -16576,14 +16572,13 @@ it's	hard	5
 the	amount	5
 with	an	5
 uk	a	5
-am	reebok	5
 way	you	5
 are	able	5
 content	and	5
 uk	s	5
-x	reebok	5
 the	game	5
 at	school	5
+risk	of	5
 over	and	5
 when	a	5
 ensure	that	5
@@ -16732,6 +16727,7 @@ jibboñ	im	5
 start	to	5
 ek	eo	5
 bwe	kōjro	5
+the	birds	5
 even	though	5
 woman	is	5
 baaṃle	eo	5
@@ -16833,17 +16829,18 @@ rej	mij	5
 ar	roñjake	5
 im	kōnnaan	5
 en	obrak	5
+eḷaññe	jej	5
 e	kein	5
 jeḷā	e	5
 ej	kōjdate	5
 an	marok	5
 jeḷā	eo	5
 bōk	anjọ	5
+im	koṃ	5
 jān	ri	5
 an	laḷ	5
 jab	jeḷā	5
 bwe	ine	5
-yokwe	ej	5
 eḷaññe	ewor	5
 yokwe	ilo	5
 kōṃṃan	men	5
@@ -16953,7 +16950,6 @@ rũttarin̦ae	ro	5
 ekar	jejjet	5
 bareinwõt	kõm̦m̦an	5
 kajejjet	aolep	5
-kallim̦ur	ñan	5
 emaroñ	kõm̦m̦ane	5
 letok	jãn	5
 kõn	karõk	5
@@ -16966,6 +16962,7 @@ ear	kõmel̦el̦eik	5
 kõmel̦el̦eik	er	5
 ippãn	elõñ	5
 ren	l̦õmn̦ak	5
+jemaroñ	kõjparok	5
 em̦m̦an	ippãn	5
 in	kõm̦m̦an	5
 aõ	mour	5
@@ -17034,7 +17031,6 @@ nemãmeen	wõt	5
 wãween	men	5
 weeppãn	im	5
 rũkõm̦akoko	ñan	5
-iv	rar	5
 ro	nejierro	5
 otemjej	jãn	5
 en	tõprak	5
@@ -17060,6 +17056,7 @@ kõm̦m̦ane	ke	5
 kwal̦o̦k	am̦	5
 kam̦m̦oolol	anij	5
 am̦	ñane	5
+jemaroñ	kwal̦o̦k	5
 ear	kakien	5
 m̦akoko	in	5
 grik	eo	5
@@ -17098,6 +17095,7 @@ kũrl̦o̦k	kõj	5
 kõn	kadkad	5
 ewõr	ad	5
 innem	enaaj	5
+enaaj	ejjel̦o̦k	5
 kõnke	rekõn̦aan	5
 m̦õñã	ko	5
 rej	joñan	5
@@ -17121,7 +17119,6 @@ on	you	5
 next	month	5
 aṃ	kōnono	5
 pieces	of	5
-ej	et	5
 aṃ	mour	5
 in	aṃ	5
 you	were	5
@@ -17278,7 +17275,6 @@ an	mol	5
 pen	eo	5
 bar	bukot	5
 am	koba	5
-aor	eo	5
 eo	eromak	5
 air	jerbal	5
 kim	kin	5
@@ -17309,8 +17305,8 @@ ko	ion	5
 ella	jen	5
 tor	tok	5
 ium̧win	liaakeļo̧k	5
-kwo	naaj	5
 ijo	jikier	5
+jej	bareinwot	5
 romak	tok	5
 am	kelet	5
 jen	na	5
@@ -17433,11 +17429,11 @@ jen	droon	5
 iman	mejen	5
 eo	jino	5
 kōttar	wōt	5
-im	lōmnak	5
 kakkobaba	in	5
 obija	ro	5
 in	ijjino	5
 ke	oktak	5
+lōmnak	in	5
 elaptata	nan	5
 juon	bed	5
 rej	kōļļā	5
@@ -17473,7 +17469,6 @@ kōmane	katak	5
 jikuul	ro	5
 awa	kein	5
 kein	emōj	5
-an	aurōk	5
 awa	raelap	5
 lale	wōt	5
 kejbarok	ajiri	5
@@ -17481,6 +17476,7 @@ aikuij	jibañ	5
 todas	las	5
 que	no	5
 ñan	data	5
+officials	ear	5
 bareinwõt	ripoot	5
 ripoot	e	5
 jen	gov	5
@@ -17822,6 +17818,7 @@ kwōnaer	ilo	5
 kilok	ilo	5
 kollaiki	na	5
 ij	ebōk	5
+in	būlu	5
 jen	governor	5
 kateruru	ñane	5
 eowoj	jen	5
@@ -17905,7 +17902,6 @@ kajitōke	juon	5
 kin	jaan	5
 ke	kwōmaron	5
 eo	ālikin	5
-kottar	eo	5
 pandemic	in	5
 in	jonan	5
 jonan	jaan	5
@@ -17974,7 +17970,6 @@ kein	renej	5
 ilo	peuc	5
 an	jinoe	5
 ien	emōj	5
-ñan	eb	5
 kwōmaron	lale	5
 mael	ae	5
 jerbal	jidik	5
@@ -18045,6 +18040,7 @@ jikin	koba	5
 koba	ko	5
 aolepen	wā	5
 n̄an	nin̄nin̄	5
+mande	ñan	5
 koj	ilo	5
 telebon	ak	5
 ak	online	5
@@ -18257,7 +18253,6 @@ emakit	ilo	5
 eo	ilal	5
 kwalok	jerbal	5
 ekatak	kaki	5
-nan	majol	5
 bwij	in	5
 wot	armij	5
 jen	icrp	5
@@ -18284,7 +18279,6 @@ iumin	kien	5
 ro	rebun̄bun̄	5
 n̄an	bok	5
 riiti	im	5
-digital	access	5
 by	reebok	5
 us	reebok	5
 white	the	5
@@ -18414,10 +18408,12 @@ kwon	maroñ	5
 kom	ke	5
 juon	rukook	5
 me	ikar	5
+im	eṃōj	5
 jorrāān	ñan	5
 kōjparok	ājmuur	5
 williams	ej	5
 nōōj	an	5
+aikuj	loor	5
 ko	walok	5
 juon	mottan	5
 kommane	jerbal	5
@@ -18425,7 +18421,6 @@ jelōte	aolepan	5
 aolepan	laļ	5
 ko	woj	5
 jema	ilo	5
-pandemic	ebt	5
 iwoj	ilo	5
 rekaal	im	5
 im	elmen	5
@@ -18535,7 +18530,6 @@ kōjeḷlā	eo	5
 keij	in	5
 ke	jiban	5
 ilo	retio	5
-loor	buñten	5
 ak	jolok	5
 epaake	juon	5
 lukkun	kebaak	5
@@ -18686,6 +18680,7 @@ iaolepen	lal̦	5
 aelõñ	otemjej	5
 em̦ool	an	5
 an	mãlõtlõt	5
+emaroñ	lukkuun	5
 juon	jo̦dikdik	5
 kar	baibõl̦	5
 kijenmej	ium̦win	5
@@ -18780,22 +18775,20 @@ nōōj	eo	5
 emaron	bin	5
 jikin	quarantine	5
 wõr	jet	5
+walok	wōn	5
 kōjjellā	ro	5
 kin	teej	5
 elikin	teej	5
 kwōnij	aikuj	5
 loore	buñten	5
-kar	kebāāk	5
 tāākij	mājej	5
 uwaan	bamle	5
 ij	aikuij	5
-ke	remāroñ	5
 relaplak	ikijen	5
 kwōmāron̄	in	5
 pad	eo	5
 jãn	ami	5
 jãn	raan	5
-kwo	maroñ	5
 kein	kwalok	5
 kanne	application	5
 reboraro	im	5
@@ -18886,6 +18879,7 @@ naaj	men	5
 enaaj	kajoorl̦o̦k	5
 anij	rot	5
 jar	ak	5
+bõro	im	5
 jeorl̦o̦k	bõd	5
 bõd	im	5
 jej	kajjitõk	5
@@ -18902,7 +18896,6 @@ er	joñan	5
 je	bok	5
 elõñ	kajin	5
 aolep	aelōn̄	5
-ro	rikarejeran	5
 em̧ōj	leļo̧k	5
 lo	eō	5
 kōjan̄	jilel	5
@@ -18912,7 +18905,6 @@ mour	ium̦win	5
 renana	jãn	5
 bareinwõt	kwal̦o̦k	5
 aurōk	ilo	5
-real	id	5
 jemjera	eo	5
 n̄an	mel̗el̗e	5
 kakolkol	in	5
@@ -18947,7 +18939,6 @@ unemployment	insurance	5
 n̄an	kajojo	5
 uwaan	baamļe	5
 mij	eo	5
-jab	po	5
 uchtdorf	ej	5
 in	jepel	5
 in	sign	5
@@ -19041,6 +19032,7 @@ jakol̦o̦k	ium̦win	5
 ium̦win	dãn	5
 kwõj	keememej	5
 juon	jiroñ	5
+ri	kwal̦o̦k	5
 jon	ear	5
 jãn	lañ	5
 ñan	jemãn	5
@@ -19049,7 +19041,6 @@ l̦õm̦aro	pãleer	5
 kar	jitõñ	5
 grafti	tok	5
 ņa	kōņ	5
-karo	eo	5
 juļo̧k	ilo	5
 m̧adm̧ōdi	im	5
 le	ko	5
@@ -19142,7 +19133,6 @@ bõk	kauwe	5
 im	wõn	5
 renaaj	yokwe	5
 an	ettã	5
-wãween	ak	5
 bokin	jeremaia	5
 ilo	jeova	5
 m̦õn̦õn̦õ	ippãn	5
@@ -19178,9 +19168,7 @@ etke	anij	5
 m̦wil	im	5
 aitwerõk	eo	5
 kããlõt	men	5
-ro	ring	5
 ring	flash	5
-for	canon	5
 ekkatak	gospel	5
 jetjet	n̄an	5
 ro	rōkwojarjar	5
@@ -19204,14 +19192,12 @@ kõn	job	5
 josep	ekar	5
 nan	community	5
 ralik	ratak	5
-rv	rv	5
 his	shirt	5
 jōōt	eo	5
 injin	ḷọk	5
 rar	ripoot	5
 de	crear	5
 puedo	crear	5
-mi	respuesta	5
 enja	enos	4
 lelok	kamolol	4
 ad	iumin	4
@@ -19228,6 +19214,7 @@ dri	kaki	4
 kaki	ro	4
 juon	kile	4
 rej	kobatok	4
+rainin	jen	4
 bwil	kein	4
 kwalok	jet	4
 ilo	belakin	4
@@ -19263,7 +19250,6 @@ wor	ien	4
 an	lomnak	4
 jokun	mour	4
 bwe	elon	4
-lok	ilon	4
 ibar	konan	4
 lady	lejla	4
 jen	lomnak	4
@@ -19333,6 +19319,7 @@ assembly	of	4
 ilo	california	4
 renaj	koman	4
 imon	wia	4
+an	aolepān	4
 me	ilo	4
 anij	jān	4
 jem̧aanļo̧k	iaar	4
@@ -19406,7 +19393,6 @@ juon	iaad	4
 etetal	ippān	4
 aer	jinoin	4
 nana	aer	4
-door	ok	4
 m̧okta	ļo̧k	4
 parijet	in	4
 kanne	wa	4
@@ -19434,7 +19420,6 @@ an	rikaļoor	4
 lo	mour	4
 me	rejjan̄in	4
 im	kālet	4
-n̄an	dim	4
 aolep	tōre	4
 iakwe	eok	4
 sa	rang	4
@@ -19532,6 +19517,7 @@ iien	kar	4
 kar	karōke	4
 e	kōņaan	4
 ajri	ak	4
+ilo̧k	ie	4
 kalikar	ilo	4
 mijen	ej	4
 n̄an	kōm̧akūt	4
@@ -19548,7 +19534,6 @@ jej	erom	4
 enaaj	pinej	4
 ar	katakin	4
 n̄an	ippa	4
-ro	jatū	4
 jenaaj	en̄jake	4
 ekoba	ko	4
 ij	kallim̧uri	4
@@ -19579,7 +19564,6 @@ kōn	wa	4
 tōm̧a	eo	4
 jab	alikkar	4
 eaar	kajieon̄	4
-po	eo	4
 em̧ool	bwe	4
 kōm	aolep	4
 kar	meļeļe	4
@@ -19603,6 +19587,7 @@ a	en	4
 komij	jab	4
 kōmetak	ro	4
 ilo̧k	ilo	4
+aen	ko	4
 ad	tiljek	4
 būreejtōn	david	4
 raar	em̧m̧akūt	4
@@ -19849,7 +19834,6 @@ kar	kāleti	4
 bwe	oktak	4
 raar	kalle	4
 aer	eddōk	4
-ōōn	ko	4
 raar	wōnm̧aanļo̧k	4
 im	eddōkļo̧k	4
 ami	jeļā	4
@@ -20124,7 +20108,6 @@ en	kōm̧m̧an	4
 kom̧	men	4
 ak	kōrā	4
 ej	jeban	4
-bwe	ko̧jpeļ	4
 im	ko̧jpeļ	4
 jab	katakin	4
 katakin	eok	4
@@ -20144,7 +20127,6 @@ rej	etetal	4
 waļo̧k	jān	4
 ļain	im	4
 im	kanaan	4
-im	dim	4
 im	ejamin	4
 ilo	apan̄	4
 ak	jon̄an	4
@@ -20411,7 +20393,6 @@ iien	bōkḷọk	4
 an	bōrọro	4
 bwe	eṃṃan	4
 iṃaan	mejān	4
-a	ke	4
 ḷōmṇak	kōn	4
 enjeḷ	in	4
 irooj	ear	4
@@ -20658,7 +20639,6 @@ mour	en	4
 maron̄	bwe	4
 iaar	lewōj	4
 bwe	ālkin	4
-em̧ool	āindein	4
 jisōs	ri	4
 loļo̧k	er	4
 ijoko	jabdewōt	4
@@ -20683,7 +20663,6 @@ ilōn̄	tata	4
 ikdeleel	n̄an	4
 ilo	kakkije	4
 in	wāween	4
-a	jabdewōt	4
 in	rōjan̄	4
 jen	jepļaaktok	4
 bōk	koņaad	4
@@ -20817,7 +20796,6 @@ be	reebok	4
 use	it	4
 it	reeb	4
 reebok	answer	4
-see	more	4
 w	reebok	4
 just	reebok	4
 a	code	4
@@ -20908,6 +20886,7 @@ we	just	4
 got	in	4
 services	and	4
 z	reebok	4
+x	reebok	4
 c	reebok	4
 sensation	to	4
 not	good	4
@@ -21163,7 +21142,6 @@ aer	kaddiwōjḷọk	4
 kaddiwōjḷọk	waini	4
 goods	and	4
 has	to	4
-eṃōj	aō	4
 will	go	4
 during	the	4
 up	all	4
@@ -21256,7 +21234,6 @@ i	raan	4
 kein	kajiljilimjuon	4
 ḷaddik	eṇ	4
 the	year	4
-pilawā	kā	4
 aṃ	ruj	4
 ej	ettōr	4
 but	don't	4
@@ -21366,12 +21343,11 @@ roñjake	jān	4
 aolepen	laḷ	4
 ej	romaak	4
 bwe	eṃōj	4
-im	laḷ	4
-ar	roñ	4
 ri	juṃae	4
 juṃae	kraist	4
 in	elōñ	4
 jab	kōṃṃan	4
+yokwe	ej	4
 ṃweiuk	ko	4
 eḷap	jān	4
 eḷaññe	rej	4
@@ -21535,7 +21511,6 @@ am̦	riit	4
 in	tok	4
 likin	wōjjā	4
 pools	on	4
-ilo	rom	4
 karreelel	ko	4
 jãn	bwebwenato	4
 jãn	l̦õmn̦ak	4
@@ -21636,6 +21611,7 @@ eo	ikõtaan	4
 wõr	an	4
 make	kõm̦m̦an	4
 juon	jorrããn	4
+otemjej	rar	4
 ñan	jerawiwi	4
 kõn̦aan	in	4
 im	katok	4
@@ -21724,6 +21700,7 @@ sam	ear	4
 kũr	er	4
 m̦anit	eo	4
 ak	jejjab	4
+el̦ap	me	4
 in	kwal̦o̦ke	4
 in	inelep	4
 in	kau	4
@@ -21897,6 +21874,7 @@ kanniōkin	kau	4
 islands	of	4
 ñan	lowaan	4
 kōn	bu	4
+my	head	4
 walking	on	4
 ḷak	ilbōk	4
 always	be	4
@@ -22023,7 +22001,6 @@ ibben	eo	4
 kiin̄	noa	4
 ilo	ittino	4
 an	innaan	4
-raar	ilo̧k	4
 bōk	etan	4
 im	alma	4
 n̄an	ron̄	4
@@ -22228,6 +22205,7 @@ kom	bwe	4
 rijikuul	rein	4
 jikuul	bwe	4
 ilo	mandre	4
+im	lōmnak	4
 jen	baamle	4
 rej	kajjeon̄	4
 an	tijtriik	4
@@ -22282,9 +22260,9 @@ juon	rijikuul	4
 required	to	4
 ilo	taije	4
 ipad	ak	4
+an	aurōk	4
 jibañ	rijikuul	4
 kab	lale	4
-es	el	4
 los	alumnos	4
 para	el	4
 lo	que	4
@@ -22433,10 +22411,8 @@ aujpitōl	ko	4
 karōk	juon	4
 for	medical	4
 ilal	in	4
-id	ko	4
 ilo	uams	4
 ilo	juje	4
-id	in	4
 appointment	eo	4
 jān	wā	4
 juon	allōñ	4
@@ -22661,7 +22637,6 @@ repair	jobs	4
 refrigerator	repair	4
 all	in	4
 machine	installation	4
-godrej	tv	4
 dishwasher	won't	4
 depends	on	4
 parts	and	4
@@ -22680,6 +22655,7 @@ mokaj	am	4
 maron	kebaak	4
 jikin	claim	4
 kōjerbal	peba	4
+kolla	ej	4
 ke	rejab	4
 kakkije	an	4
 kab	lōtak	4
@@ -23001,7 +22977,6 @@ eo	jemlok	4
 kolla	im	4
 in	kaitōklok	4
 āliktata	ñan	4
-an	eb	4
 jab	bōki	4
 rar	bed	4
 waj	juon	4
@@ -23156,7 +23131,6 @@ jenolọk	ak	4
 jān	jikuul	4
 ozark	in	4
 or	have	4
-ok	question	4
 question	title	4
 kõmmane	jerbal	4
 ñan	mõñã	4
@@ -23341,7 +23315,6 @@ eo	kwōnaaj	4
 ñan	cell	4
 cell	phone	4
 epidodo	an	4
-id	kaat	4
 bar	armej	4
 kōllā	ko	4
 akkaun	ko	4
@@ -23456,6 +23429,7 @@ ilo	ene	4
 joran	eo	4
 elon	wawen	4
 rar	etale	4
+nan	majol	4
 rar	komman	4
 lok	mokta	4
 etale	kein	4
@@ -23482,6 +23456,7 @@ ikar	juōn	4
 n̄an	wāween	4
 ami	mour	4
 will	reebok	4
+digital	access	4
 time	you	4
 know	about	4
 just	got	4
@@ -23559,7 +23534,6 @@ emaroñ	kõm̦akũt	4
 kõm̦akũt	er	4
 ear	keidi	4
 kate	ñan	4
-kõj	ikijjeen	4
 bokin	joel	4
 downloadi	pija	4
 ñan	keememej	4
@@ -23584,7 +23558,6 @@ ejim̦we	kõn	4
 rar	kajjioñ	4
 alikkar	men	4
 im	mãlõtlõt	4
-jab	l̦oor	4
 ear	kõnnaan	4
 kar	daniel	4
 im	kajitũkin	4
@@ -23606,6 +23579,7 @@ ad	kõn	4
 in	jelõt	4
 kwõn	kajjitõk	4
 jãn	kweilo̦k	4
+ro	m̦õttam	4
 elõñ	apañ	4
 peptaij	bwe	4
 jema	en	4
@@ -23727,10 +23701,11 @@ men	ikar	4
 ebeben	ko	4
 kar	jinoe	4
 im	etolak	4
-kan	an	4
 the	government	4
+application	ko	4
 meḷeḷe	kein	4
 wot	jidik	4
+pandemic	ebt	4
 eļaññe	ewõr	4
 governor	inslee	4
 kein	ijin	4
@@ -23755,7 +23730,6 @@ koj	aikuj	4
 ak	medicaid	4
 ak	wor	4
 bed	lowaan	4
-maaj	im	4
 rejanin	wā	4
 bar	ekatak	4
 am	wã	4
@@ -23786,7 +23760,6 @@ taktō	me	4
 leḷọk	wā	4
 kōbōjrak	jorren	4
 kin	menkein	4
-ñan	bolaide	4
 ilobelej	ak	4
 dedelok	an	4
 aikuj	kwalok	4
@@ -23803,7 +23776,6 @@ kajerbal	bluetooth	4
 bluetooth	low	4
 low	energy	4
 dik	an	4
-an	kañ	4
 rej	jabdetakwōt	4
 kwaḷọk	meḷeḷe	4
 jān	cdc	4
@@ -23890,7 +23862,6 @@ jerbal	wa	4
 notify	enaj	4
 loe	kojella	4
 wia	kein	4
-ebellok	mande	4
 renaj	lewaj	4
 kojerbal	melele	4
 im	kojella	4
@@ -23899,6 +23870,7 @@ enaj	kadiklok	4
 ej	kamool	4
 ej	jilkinlok	4
 ak	kōjella	4
+loor	buñten	4
 woñ	kwe	4
 kin	kebaak	4
 naninmij	im	4
@@ -24126,7 +24098,6 @@ apny	noto	4
 noto	ko	4
 ko	tabdeel	4
 tabdeel	kar	4
-kar	len	4
 we	all	4
 just	because	4
 ibareinwot	konan	4
@@ -24367,6 +24338,7 @@ kepāāk	nañinmej	4
 māroñ	kwalok	4
 kōjjellā	eo	4
 einwōt	wā	4
+kar	kebāāk	4
 im	loore	4
 remāroñ	kār	4
 jen	doh	4
@@ -24464,7 +24436,6 @@ eij	ierousalhm	4
 panta	ta	4
 utiej	ro	4
 im	elabtata	4
-wj	de	4
 kai	idwn	4
 epi	touj	4
 o	pauloj	4
@@ -24546,6 +24517,7 @@ ro	wõj	4
 computer	ko	4
 ak	kõm̦m̦ani	4
 kiin̄	kein	4
+ro	rikarejeran	4
 an	iakwe-em̧ool	4
 aaiboojoj	eo	4
 kōmour	er	4
@@ -24848,7 +24820,6 @@ kwõjjab	aikuj	4
 etan	jemãn	4
 juon	m̦anit	4
 en	kwal̦o̦k	4
-naan	rein	4
 rem̦ool	kõn	4
 enaaj	lel̦o̦k	4
 etale	ruo	4
@@ -25028,6 +24999,7 @@ kadkadin	armej	4
 renana	armej	4
 utiej	bũrueer	4
 rem̦ool	rej	4
+wãween	ak	4
 ak	em̦õj	4
 taitõl̦	ko	4
 im	erro	4
@@ -25082,7 +25054,6 @@ working	families	4
 families	tax	4
 paamle	ne	4
 ak	bõk	4
-ilo	jel	4
 mõñā	in	4
 mõñā	eo	4
 kõra	ro	4
@@ -25094,7 +25065,6 @@ ad	non	4
 en	emakit	4
 payroll	ne	4
 ri	jibadok	4
-mālim	im	4
 an	jim̧we	4
 lukkuun	jipañe	4
 ãinwõt	e	4
@@ -25110,6 +25080,8 @@ m̦an	rijum̦ae	4
 rijum̦ae	rein	4
 rijikuul̦	eo	4
 setan	ñan	4
+ro	ring	4
+for	canon	4
 mōttan	kein	4
 jerbal	em̧m̧anļo̧k	4
 kein	jiljino	4
@@ -25128,12 +25100,12 @@ couple	shoot	4
 repidodo	ñan	4
 jãn	yokwe	4
 a	kõn	4
+rej	kabuñbũrueer	4
 aer	kajjitõk	4
 mel̦el̦ein	ãt	4
 share	ej	4
 kōjerbal	share	4
 romrell	ekar	4
-r	iv	4
 bõro̦ro	eo	4
 iud	ko	4
 lep	in	4
@@ -25152,7 +25124,6 @@ ilo	nobōm̗ba	4
 jiban̄	jisōs	4
 tawōr	ko	4
 solofo	ej	4
-būlu	eo	4
 an	full	4
 officer	rein	4
 monjar	eo	4
@@ -25168,16 +25139,14 @@ lel̦o̦k	kaje	4
 graham	ear	4
 shirt	is	4
 ak	kōjjeḷā	4
+ke	remāroñ	4
 ilo	wanotify	4
 loore	buñtōn	4
 kōjjeḷā	ro	4
-en	mi	4
 frases	sencillas	4
 la	lengua	4
 de	utilizar	4
-mi	capacidad	4
 capacidad	para	4
-address	by	3
 ij	kobalok	3
 im	onake	3
 non	kijwoj	3
@@ -25214,7 +25183,6 @@ dri	majol	3
 jelmae	elon	3
 jen	kile	3
 ijin	rainin	3
-ilon	ilo	3
 ekajur	ilo	3
 dron	ie	3
 kwalok	lomnak	3
@@ -25360,9 +25328,6 @@ ilo	kansas	3
 ien	jar	3
 koman	ilo	3
 aoleb	ilo	3
-kake	ko̧jpeļ	3
-etke	priesthood	3
-aolepān	men	3
 ippān	em̧m̧aan	3
 im	laudin̄din̄	3
 aer	leke	3
@@ -25699,6 +25664,7 @@ renaaj	uwaak	3
 n̄āāt	kōm	3
 ejjeļo̧k	am̧	3
 im	kanuknuk	3
+ro	jatū	3
 kōn	raan	3
 eaar	ļōn̄aj	3
 kar	n̄a	3
@@ -25714,7 +25680,6 @@ aō	jetōb	3
 jim̧or	ro	3
 jenaaj	jerbal	3
 ekajet	an	3
-remaron̄	ilo̧k	3
 rej	en̄taan	3
 kōn	bōd	3
 jitōn̄	eō	3
@@ -25736,7 +25701,6 @@ maron̄	ron̄	3
 eaar	kajoor	3
 jeļā	enaaj	3
 tōpar	jikin	3
-jikin	po	3
 men	kom̧	3
 rejet	eo	3
 jān	ioon	3
@@ -25763,7 +25727,6 @@ jejjab	jeļā	3
 kakkure	eo	3
 kar	kadedeļo̧k	3
 kadedeļo̧k	ilo	3
-eļan̄n̄e	kwo	3
 kōkajoor	e	3
 ej	kōļapļo̧k	3
 āinwōt	eļap	3
@@ -26019,11 +25982,9 @@ ilo	uwaake	3
 aer	uwaake	3
 litok	jān	3
 kom̧win	ilo̧k	3
-ko	otemjej	3
 enaaj	iien	3
 ālkin	kar	3
 jej	kōņaan	3
-iien	rak	3
 lo̧mo̧o̧ren	armej	3
 eļap	ippān	3
 ad	enaaj	3
@@ -26237,9 +26198,7 @@ ro	roktak	3
 pere	ak	3
 ļōmņak	ippa	3
 lo	ruo	3
-ok	eo	3
 inaaj	likūt	3
-jān	ok	3
 n̄an	meļo̧kļo̧k	3
 ebwe	n̄an	3
 kōm̧m̧an	mennin	3
@@ -26538,6 +26497,7 @@ ami	enaaj	3
 kajjitōk	ippāmi	3
 n̄an	leke	3
 n̄an	waanjon̄ok	3
+bwe	ko̧jpeļ	3
 erom	rioktak	3
 jon̄ak	em̧m̧an	3
 jemaron̄	katak	3
@@ -27024,7 +26984,6 @@ ro	uwan	3
 ejjelok	an	3
 remaroñ	etal	3
 an	jiroñ	3
-im	jekob	3
 eo	ṇa	3
 ṇa	etan	3
 joñoul	im	3
@@ -27036,7 +26995,6 @@ joḷọk	e	3
 nejin	ṃaan	3
 en	kaṃool	3
 ear	kōnono	3
-ke	eṃōj	3
 tōr	eo	3
 kane	jen	3
 your	phone	3
@@ -27225,7 +27183,6 @@ bar	keememej	3
 ke	tōmak	3
 ej	jim̧we	3
 kwaļo̧k	jilu	3
-eto	ad	3
 kar	jei	3
 jei	ilo	3
 jab	kar	3
@@ -27445,6 +27402,7 @@ im	leke	3
 men	im	3
 kōj	mour	3
 mej	ear	3
+em̧ool	āindein	3
 kraist	em̧ool	3
 im	kake	3
 karreo	n̄an	3
@@ -27496,7 +27454,6 @@ bwil	āinwōt	3
 okar	ak	3
 jepta	in	3
 itok	raan	3
-innām	enaaj	3
 enaaj	ukōt	3
 ilo	jino	3
 in	elijah	3
@@ -27642,6 +27599,7 @@ jab	bōd	3
 n̄an	ļoore	3
 atartar	ioon	3
 weppān	ilo	3
+rikkure	rein	3
 turin	mejāer	3
 in	kōppopo	3
 tōprak	ak	3
@@ -27752,7 +27710,6 @@ eļan̄n̄e	in	3
 men	emaroñ	3
 kain	en̄jake	3
 jeļā	ej	3
-wāween	dein	3
 naaj	obrak	3
 juon	rikarejeran	3
 kar	kapit	3
@@ -27849,7 +27806,6 @@ r	reebok	3
 take	your	3
 and	dry	3
 ilo	england	3
-eb	ippān	3
 am̧	iien	3
 mormon	emaron̄	3
 ļo̧k	ke	3
@@ -27895,7 +27851,6 @@ apo	twn	3
 to	ploion	3
 en	mesw	3
 thj	qalasshj	3
-hn	gar	3
 ou	gar	3
 epi	toij	3
 thn	perixwron	3
@@ -27985,7 +27940,6 @@ you	like	3
 with	me	3
 for	dinner	3
 kāāj	ṇe	3
-a	barb	3
 now	the	3
 the	process	3
 types	of	3
@@ -28219,6 +28173,7 @@ imported	than	3
 copra	that	3
 is	exported	3
 ilọk	in	3
+eṃōj	aō	3
 school	in	3
 on	and	3
 jān	u	3
@@ -28291,7 +28246,6 @@ the	heavy	3
 are	doing	3
 lo	aṃ	3
 an	accident	3
-po	im	3
 it	had	3
 to	first	3
 can	get	3
@@ -28421,6 +28375,7 @@ the	tip	3
 ruo	rōkar	3
 continued	to	3
 locate	the	3
+birds	roost	3
 jako	aṃ	3
 sail	to	3
 ḷọk	ippān	3
@@ -28558,7 +28513,6 @@ ro	rellap	3
 im	jonak	3
 innem	eban	3
 mokta	jan	3
-an	dan	3
 jokjok	in	3
 raar	likiti	3
 im	kwaḷọk	3
@@ -28567,18 +28521,15 @@ je	jab	3
 ej	karreoik	3
 jej	make	3
 im	ṃool	3
-ij	jejewōj	3
-im	eḷaññe	3
-eḷaññe	jabdewōt	3
 ej	jerọwiwi	3
 ri	jojomar	3
 kōn	jerọwiwi	3
 ri	riab	3
 i	jab	3
 kōjdate	jein	3
-a	eo	3
 anjọ	ioon	3
 a	rej	3
+ar	roñ	3
 bwe	eḷaññe	3
 en	kaalikkar	3
 jab	ippān	3
@@ -29114,7 +29065,6 @@ im	ejenolok	3
 ejenolok	jen	3
 jān	stake	3
 ilo	highland	3
-im	eto	3
 larrik	ro	3
 nan	ran	3
 an	mayor	3
@@ -29236,7 +29186,6 @@ swim	without	3
 without	asking	3
 asking	permission	3
 be	careless	3
-ṃōñā	kā	3
 jete	aṃ	3
 jaij	in	3
 the	size	3
@@ -29413,7 +29362,6 @@ to	sail	3
 reebok	shop	3
 cheap	brand	3
 brand	trainers	3
-reebok	wholesale	3
 reebok	women	3
 crossfit	nano	3
 reebok	sneakers	3
@@ -29639,7 +29587,6 @@ anij	enaj	3
 jab	lomnak	3
 lomnak	bwe	3
 pa	ko	3
-iman	aor	3
 ren	obrak	3
 buru	etta	3
 boub	wot	3
@@ -29658,8 +29605,8 @@ bwe	kwonaj	3
 ilo	jibon	3
 kein	alma	3
 jān	jero̧wiwi	3
+raar	ilo̧k	3
 ilo	tōrerein	3
-cmour	indeeo	3
 ikdeelel	eo	3
 apeptaij	ilo	3
 ānbwinnin	kanniōk	3
@@ -29823,7 +29770,6 @@ the	inner	3
 im	jol	3
 kwojela	bwe	3
 menin	melejon	3
-aor	in	3
 itino	ilo	3
 kemin	maron	3
 make	mokta	3
@@ -29948,7 +29894,6 @@ ejjelok	wonaan	3
 kem	ilo	3
 ilo	etta	3
 drenin	kemjalal	3
-im	ilon	3
 im	etta	3
 jikin	drelon	3
 idrak	jen	3
@@ -30314,7 +30259,6 @@ ekaal	tata	3
 jenaj	wonmanlok	3
 kon	jerbal	3
 im	emmanlok	3
-ļe	im	3
 katakkajin	iñlij	3
 state	ewōr	3
 jipañ	rijikuuļ	3
@@ -30371,7 +30315,6 @@ ao	in	3
 ejellok	bar	3
 ad	ippen	3
 or	call	3
-tar	jen	3
 rej	tel	3
 nan	ial	3
 hijo	en	3
@@ -30385,7 +30328,6 @@ que	está	3
 encuesta	sobre	3
 sobre	el	3
 el	idioma	3
-es	un	3
 del	idioma	3
 idioma	inglés	3
 survey	is	3
@@ -30677,7 +30619,7 @@ refrigerator	center	3
 refrigerator	customer	3
 for	refrigerator	3
 machine	is	3
-replacement	india	3
+godrej	tv	3
 won't	start	3
 start	india	3
 on	ac	3
@@ -31014,7 +30956,6 @@ jikin	droulul	3
 ewor	rej	3
 jinoe	bar	3
 am	aolep	3
-kottar	ne	3
 talboon	nomba	3
 jiban	aolep	3
 off	im	3
@@ -31047,6 +30988,7 @@ eo	ediklok	3
 aō	kateruru	3
 kōmelim	ilo	3
 kabojrak	ak	3
+kottar	ej	3
 kwonej	bok	3
 renaaj	bok	3
 wor	ao	3
@@ -31058,6 +31000,7 @@ ekka	am	3
 federal	kin	3
 komman	kotaan	3
 kwalok	kamool	3
+kottar	im	3
 kollaiki	wot	3
 bok	aolepen	3
 ioon	naat	3
@@ -31196,15 +31139,11 @@ federal	ak	3
 kajju	drelone	3
 kakopapa	in	3
 drelone	aitoklok	3
-eb	ilo	3
 ko	innem	3
 ao	komaate	3
 ke	kollaiki	3
 ñe	joñan	3
-ilo	eb	3
-ebōk	eb	3
 an	kōjellāik	3
-eb	enaj	3
 ilo	babode	3
 emakūtlok	ñan	3
 kinke	emōj	3
@@ -31320,6 +31259,7 @@ jen	trust	3
 an	eowoj	3
 ui	ilo	3
 renaj	likūt	3
+joñan	iminene	3
 ej	beddo	3
 beddo	tok	3
 kolla	lablok	3
@@ -31458,7 +31398,6 @@ in	ejjelok	3
 n̄an	balaide	3
 im	konaan	3
 wāween	lale	3
-redik	ak	3
 kakōlle	im	3
 māāj	ilo	3
 ejjab	laplak	3
@@ -31530,7 +31469,6 @@ bwe	em̧m̧an	3
 ippāer	kōn	3
 in	mālim	3
 pād	bajjōk	3
-elder	im	3
 org	ej	3
 ikdeelel	n̄an	3
 bar	covid	3
@@ -31545,7 +31483,6 @@ elōñ	injuran	3
 jarko	rej	3
 charge	e	3
 jab	lelak	3
-kan	aer	3
 ebbõk	wã	3
 in	bonbon	3
 bonbon	ko	3
@@ -31750,6 +31687,7 @@ jibañ	kim	3
 smiles	ej	3
 juon	injuran	3
 ñi	ñan	3
+a	im	3
 ro̧o̧ltok	eo	3
 mweien	rijikuul	3
 ped	wot	3
@@ -31954,7 +31892,6 @@ aer	innem	3
 ear	kabilok	3
 im	ebbok	3
 kilen	ekatak	3
-an̄juwiwi	kein	3
 juōn	kōrā	3
 n̄an	imōn	3
 ar	ron̄	3
@@ -31997,9 +31934,11 @@ restaurant	week	3
 use	of	3
 a	week	3
 a	month	3
+b	reebok	3
 from	his	3
 want	reebok	3
 know	you	3
+am	reebok	3
 i	do	3
 charged	a	3
 off	this	3
@@ -32167,6 +32106,7 @@ jetõb	ro	3
 renana	ãinwõt	3
 ad	el̦ap	3
 ñan	jum̦aik	3
+kõj	ikijjeen	3
 bõd	ak	3
 l̦o̦k	peij	3
 juon	print	3
@@ -32196,6 +32136,7 @@ jab	tõmak	3
 ebõd	ke	3
 wõr	nejier	3
 im	l̦oori	3
+jab	l̦oor	3
 ke	jesus	3
 jab	l̦ap	3
 an	kõnnaan	3
@@ -32345,7 +32286,6 @@ me	elõñl̦o̦k	3
 ial̦	in	3
 im	wãnõk	3
 im	litok	3
-ikijjeen	ad	3
 eaorõk	ilo	3
 kõkkar	me	3
 me	jaar	3
@@ -32502,7 +32442,6 @@ rekar	baj	3
 boom	in	3
 ilo	mwon	3
 ṃōṇōṇō	in	3
-application	ko	3
 komaron	ebbok	3
 kilin	leta	3
 ebt	kaat	3
@@ -32555,6 +32494,7 @@ aikuj	kommane	3
 rej	kakure	3
 kakol	eo	3
 lowaan	hospital	3
+maaj	im	3
 aurõk	bwe	3
 in	mwemom	3
 news	eo	3
@@ -32578,7 +32518,6 @@ an	kawatata	3
 flu	eo	3
 community	ak	3
 waan	jeñọk	3
-ñon	ro	3
 wot	ian	3
 johnson	wā	3
 kōjerbal	wā	3
@@ -32602,6 +32541,7 @@ menkein	ilo	3
 ilo	ebbok	3
 ebbok	wã	3
 ba	kajin	3
+ñan	bolaide	3
 ñan	jabot	3
 rekaal	an	3
 aikuj	ekōnak	3
@@ -32644,7 +32584,6 @@ armej	bōk	3
 eḷaññe	wa	3
 ḷoor	meḷeḷe	3
 google	apple	3
-kōjparok	meḷeḷe	3
 kajerbal	app	3
 bōlen	ear	3
 ear	iturin	3
@@ -32795,6 +32734,7 @@ kwomaron	kar	3
 kein	bonobon	3
 bonobon	eo	3
 kurlok	lain	3
+ebellok	mande	3
 jab	aen	3
 eṃōj	kar	3
 jinointata	in	3
@@ -32827,7 +32767,6 @@ talebon	ibben	3
 kōṃṃan	kein	3
 en	lelok	3
 am	kurlok	3
-ibben	ej	3
 rejab	am	3
 jonan	ien	3
 kojerbal	link	3
@@ -32977,7 +32916,6 @@ ejjab	melelein	3
 melelein	aolep	3
 ilo	jōt	3
 first	presbyterian	3
-nd	street	3
 bon	acha	3
 leave	a	3
 welcome	to	3
@@ -33125,7 +33063,6 @@ ie	kin	3
 wonen	jokwe	3
 ejjelok	jikin	3
 nan	wonen	3
-komman	bwen	3
 bobrae	kein	3
 kalet	nan	3
 in	em	3
@@ -33268,7 +33205,6 @@ dron	non	3
 non	komman	3
 kamolol	kien	3
 kio	non	3
-ao	enan	3
 jerbali	im	3
 ripoot	im	3
 non	wanjonak	3
@@ -33325,7 +33261,6 @@ wūjḷā	eo	3
 filled	with	3
 jebwe	eo	3
 an	kijoñ	3
-jam	on	3
 jokwe	ioon	3
 pilawā	e	3
 jāānkun	in	3
@@ -33380,7 +33315,6 @@ a	change	3
 ilo	tariṇae	3
 tariṇae	eo	3
 world	war	3
-war	ii	3
 i	think	3
 anyone	else	3
 things	for	3
@@ -33411,7 +33345,6 @@ until	we	3
 ṇe	adeañ	3
 ilju	jota	3
 tomorrow	evening	3
-ḷeo	eṇ	3
 jino	jebjeb	3
 what	the	3
 the	boat's	3
@@ -33750,7 +33683,6 @@ elaplak	armij	3
 an	jibāñ	3
 been	exposed	3
 kebāāk	covid	3
-kebāāk	nañinmej	3
 an	kōjbarok	3
 in	kōjellā	3
 kin	kepāāk	3
@@ -33760,8 +33692,6 @@ rej	tōbar	3
 tōbar	eok	3
 an	wāwein	3
 ejjab	bar	3
-ewōr	nañinmej	3
-remāroñ	kar	3
 remāroñ	loore	3
 mājej	eo	3
 kwar	epaake	3
@@ -33777,7 +33707,6 @@ ear	kõmman	3
 onean	utilities	3
 joñan	kein	3
 ilo	application	3
-im	kwo	3
 ilo	hark	3
 hark	community	3
 kwõj	jerbal	3
@@ -33867,7 +33796,6 @@ aitōk	im	3
 jibañ	aikuj	3
 am	kakolkol	3
 ṃweo	iṃōṃ	3
-iam	im	3
 tūrin	ro	3
 kwomaron	aikuj	3
 wor	jabdewot	3
@@ -34037,7 +33965,6 @@ ear	kajejjete	3
 rel̦l̦ap	rej	3
 l̦ap	aõ	3
 ko	imaroñ	3
-imaroñ	kõm̦m̦ani	3
 jipañ	kal̦apl̦o̦k	3
 wãween	jej	3
 jej	kabuñ	3
@@ -34079,7 +34006,6 @@ illu	ippãn	3
 wõr	aenõm̦m̦an	3
 ad	anõke	3
 kõn	kajoor	3
-enaaj	ain	3
 aolep	rũkkapit	3
 kwõn	pãd	3
 iien	kwõjkwõjin	3
@@ -34136,7 +34062,6 @@ maroñ	epaakel̦o̦k	3
 kõmij	kõm̦m̦ani	3
 rej	ri	3
 je	katak	3
-kõnke	ri	3
 computer	im	3
 bũrookraam̦	ko	3
 bũrookraam̦	in	3
@@ -34168,7 +34093,6 @@ kōpooje	n̄an	3
 ej	enjeļ	3
 bar	lōn̄	3
 e	ium̧win	3
-ain	ippān	3
 doon	jarin	3
 inelep	ko	3
 im	jarin	3
@@ -34197,7 +34121,6 @@ eddōkļǫk	in	3
 juon	urim	3
 kōjeraam̧m̧an	jān	3
 into	law	3
-id	act	3
 president	donald	3
 ijoko	konaer	3
 im	haus	3
@@ -34540,7 +34463,6 @@ k	fori	3
 fori	ilaj	3
 ka	fori	3
 fori	illaj	3
-kan	k	3
 in	urdu	3
 kaan	dard	3
 ka	ilaj	3
@@ -34654,7 +34576,6 @@ am	akkoun	3
 kwoj	plan	3
 jarko	mottam	3
 kein	elap	3
-iam	ak	3
 expose	ñan	3
 rejañin	wã	3
 ilo	namoj	3
@@ -34863,6 +34784,7 @@ ippam̦	im	3
 kiiõ	mour	3
 kate	kom̦	3
 rej	wõnm̦aanl̦o̦k	3
+naan	rein	3
 ren	tõmak	3
 ñan	jijej	3
 jel̦ã	etan	3
@@ -34886,7 +34808,6 @@ im	epidodo	3
 dike	ñe	3
 jim̦we	an	3
 an	iioon	3
-ejjel̦o̦k	ruon	3
 ilo	al̦al̦	3
 ko	jemãn	3
 kiiñ	in	3
@@ -34955,7 +34876,6 @@ jerbal	ippāer	3
 kwelo̧k	eo	3
 kakkije	eo	3
 nejin	moses	3
-ej	abōk	3
 ekkōl	kōn	3
 watōk	men	3
 eta	renaaj	3
@@ -34973,9 +34893,7 @@ inslee	ear	3
 bujinej	ko	3
 elañe	koj	3
 novel	coronavirus	3
-ko	ñon	3
 ber	iturin	3
-etal	ñon	3
 inebata	ak	3
 nutrition	assistance	3
 their	address	3
@@ -35000,7 +34918,6 @@ in	n̄an̄inmej	3
 juon	lajraak	3
 kiien	eo	3
 ortar	kein	3
-elōn̄	teej	3
 relaplak	ije	3
 coconut	leaves	3
 padres	y	3
@@ -35148,6 +35065,7 @@ ecousia	tauta	3
 wãween	ammim	3
 ak	baibõl̦	3
 itok	jem̦l̦o̦kin	3
+an	tepil̦	3
 im	kwõnaaj	3
 rej	jejjet	3
 wal̦o̦k	tarin̦ae	3
@@ -35357,7 +35275,6 @@ kin	onake	3
 judge	ro	3
 ilo	droulul	3
 kakmelmel	in	3
-wot	rainin	3
 kolmenlokjen	kein	3
 ronjake	ko	3
 jelmae	juon	3
@@ -35628,6 +35545,7 @@ walok	in	3
 ilak	lale	3
 electoral	officer	3
 nan	ri	3
+mālim	im	3
 ioon	bar	3
 ioon	priesthood	3
 ak	jeļāļo̧kjeņ	3
@@ -35661,7 +35579,6 @@ ej	iroojin	3
 iroojin	lal̦	3
 armej	iiooni	3
 jeova	kõtl̦o̦k	3
-iv	bwe	3
 ear	jum̦ae	3
 kar	kajju	3
 kajjioñ	kõmel̦el̦eik	3
@@ -35755,7 +35672,6 @@ wal̦o̦k	kõn	3
 jab	kõm̦m̦an	3
 kaorõk	jããn	3
 lõke	anij	3
-rej	kabuñbũrueer	3
 jen	eñtaan	3
 rejjab	kõn̦aan	3
 kwõnaaj	maroñ	3
@@ -35820,15 +35736,14 @@ eo	rikanaan	3
 kōpooje	ilo	3
 ukook	ej	3
 juon	ukook	3
-kajin	mam	3
 em̧	ko	3
 n̄an	résumé	3
 lale	kain	3
+būlu	eo	3
 walok	tornado	3
 ilo	jones	3
 president	nan	3
 money	kin	3
-ii	jikin	3
 ibben	officer	3
 involve	ilo	3
 nan	raan	3
@@ -35849,9 +35764,6 @@ ekelisia	in	3
 likao	jidik	3
 bar	komane	3
 youth	rally	3
-cm	id	3
-id	cm	3
-id	id	3
 em̦õj	jol̦o̦k	3
 baibõl̦	rein	3
 in	m̦are	3

@@ -1,7 +1,7 @@
 # Ajagbe : FineWeb-2 ajg_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
 yí	2482
-le	1911
+le	1910
 nɔ	1771
 mɔ	1269
 mɛ	1240
@@ -43,7 +43,7 @@ wowo	195
 taɖo	186
 yesu	180
 cɛ	178
-ɔ	173
+ɔ	172
 ye	171
 wa	169
 e	166
@@ -1218,7 +1218,6 @@ avanyi	5
 amɔ	5
 gligaan	5
 ahun	5
-p	5
 microsoft	5
 jeshidu	5
 edɔ̀danyɔwo	5
@@ -1306,7 +1305,6 @@ drodro	4
 dandandan	4
 ŋumɛ	4
 ɖeviwo	4
-ya	4
 agbetɛnŋ	4
 gbɔkɔ	4
 elanwo	4
@@ -1505,7 +1503,6 @@ enudɔndɔn	4
 sege	4
 yɛana	4
 kpobishi	4
-yì	4
 esɔgbe	4
 shisalu	4
 ʒuda	4
@@ -1560,7 +1557,6 @@ agbaŋugba	3
 jea	3
 trɔva	3
 zɔnɖo	3
-nú	3
 oo	3
 nɛnɛa	3
 jro	3
@@ -1777,7 +1773,6 @@ oxwegbe	3
 tɛnxo	3
 zruya	3
 ŋusunglo	3
-onɔ	3
 oxolɔɖonyitɔ	3
 onyi	3
 naɖe	3
@@ -1837,7 +1832,6 @@ yizanzansewo	3
 dedasɛ	3
 mìaxo	3
 wodeɖo	3
-er	3
 woanya	3
 dekpla	3
 ŋkpɛn	3
@@ -1855,7 +1849,6 @@ harmagedɔn	3
 droamu	3
 yewoasɛn	3
 danu	3
-ble	3
 elododo	3
 shicu	3
 dá	3
@@ -1989,7 +1982,6 @@ danyɛ	3
 ejiŋ	3
 mìvayi	3
 jika	3
-he	3
 ʒakɔbu	3
 mamu	3
 woma	3

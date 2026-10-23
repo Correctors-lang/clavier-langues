@@ -1,10 +1,10 @@
 # Bigrammes pdc (FineWeb-2 pdc_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
 funn	di	1323
-un	hott	1265
+un	hott	1264
 in	di	1026
 eah	hott	922
-un	di	906
+un	di	907
 da	hah	813
 di	leit	722
 henna	tattoo	714
@@ -17,8 +17,8 @@ un	henn	627
 es	eah	591
 no	hott	530
 awl	di	519
-da	kaynich	511
-es	da	508
+da	kaynich	510
+es	da	507
 ich	habb	497
 hott	ksawt	478
 zu	di	470
@@ -56,9 +56,9 @@ ganga	un	271
 hott	di	261
 vi	en	258
 auf	pinterest	256
-es	es	254
 henn	di	254
 un	ich	253
+es	es	253
 en	mann	252
 is	es	251
 zu	eich	249
@@ -69,7 +69,7 @@ kumma	un	246
 un	en	244
 no	is	244
 si	sinn	241
-funn	israel	241
+funn	israel	240
 hott	en	240
 mitt	di	239
 vo	di	233
@@ -78,6 +78,7 @@ hott	no	227
 ich	binn	226
 henna	tattoos	225
 em	hah	221
+zu	miah	218
 es	en	215
 is	eah	209
 da	dawfit	209
@@ -99,7 +100,7 @@ eah	voah	182
 dee	sacha	181
 in	en	181
 sich	selvaht	180
-kaynich	funn	179
+kaynich	funn	178
 habb	ich	177
 sinn	di	177
 f	r	175
@@ -164,7 +165,6 @@ es	nett	136
 in	da	136
 tattoo	designs	135
 mitt	iahra	135
-so	hott	135
 gott	sei	135
 ennich	ebbah	135
 si	voahra	135
@@ -175,6 +175,7 @@ im	land	133
 fa	si	132
 deich	da	132
 mitt	eem	132
+so	hott	132
 di	zeit	132
 zu	iahra	131
 di	kinnah-israel	130
@@ -187,9 +188,9 @@ eah	zayld	126
 da	tempel	126
 is	di	124
 veil	eah	124
-aus	di	124
 vann	ich	124
 so	vi	124
+aus	di	123
 un	du	122
 sei	boova	122
 di	sacha	122
@@ -214,20 +215,21 @@ henna	designs	112
 du	solsht	112
 is	no	112
 ksawt	zumm	112
-gott	hott	111
+gedu	hott	112
 funn	eena	111
 vann	si	110
 in	iahra	109
 is	vi	109
 funn	eich	109
-dess	voah	109
 un	fa	109
 aw	nett	108
+dess	voah	108
 un	in	107
 funn	mei	107
 da	faddah	107
 bei	di	107
 zumm	kaynich	107
+gott	hott	106
 vi	di	106
 da	mosi	106
 funn	juda	106
@@ -277,12 +279,12 @@ diah	hend	93
 di	philishtah	93
 avvah	ich	92
 es	am	92
-binn	ich	91
 diah	sind	91
 eah	di	90
 bei	em	90
 mann	es	90
 di	sunn	90
+binn	ich	90
 da	paulus	90
 eah	sich	89
 da	joseph	89
@@ -327,16 +329,16 @@ hah	jesus	82
 even	vann	82
 du	nett	82
 un	so	81
-un	zu	81
 vann	da	81
 un	selli	81
 diah	sellet	81
-hott	eem	81
 da	petrus	81
 awl	sei	81
 mitt	miah	81
 di	anra	80
 sellah	es	80
+un	zu	80
+hott	eem	80
 vass	ich	80
 vekk	funn	80
 di	dohda	80
@@ -387,6 +389,7 @@ sei	zu	73
 hott	em	73
 vo	ich	73
 di	yingah	73
+zu	uns	72
 is	vass	72
 henn	miah	72
 dess	sinn	72
@@ -407,6 +410,7 @@ fa	ich	70
 da	vayk	70
 funn	awl	70
 di	hand	70
+unsah	gott	70
 ideen	zu	69
 un	mitt	69
 sei	leit	69
@@ -434,6 +438,7 @@ vo	nett	67
 di	bundes-lawt	67
 gans	israel	67
 sei	kobb	67
+di	voahheit	66
 mitt	eich	66
 eah	si	66
 ganga	fa	66
@@ -465,11 +470,11 @@ fa	sich	64
 sei	fa	63
 voah	zu	63
 da	abraham	63
-gevva	es	63
 eah	am	63
 di	annah	63
 di	deah	63
 di	evvahshti	63
+gevva	es	62
 mann	sei	62
 henn	no	62
 ksawt	katt	62
@@ -477,6 +482,7 @@ es	sich	62
 kumma	es	62
 ich	vays	62
 gott	da	62
+da	dawk	62
 kshikt	fa	62
 funn	eiyah	62
 vadda	funn	62
@@ -488,7 +494,6 @@ voah	am	61
 un	alles	61
 da	neksht	61
 deah	mann	61
-da	dawk	61
 fa	dess	61
 da	solomon	61
 avvah	vo	61
@@ -564,15 +569,16 @@ nuff	an	55
 gott	is	55
 uf	iahra	55
 shtatt	funn	55
+ivvah	da	55
 loss	een	55
 bei	eich	55
-hott	iahra	55
 nett	di	55
 eah	gedu	55
 es	uf	55
 hott	dess	55
 di	kfoah	55
 eich	nett	55
+da	say	55
 en	opfah	55
 uf	en	55
 es	iahra	54
@@ -580,9 +586,9 @@ selber	bauen	54
 un	deich	54
 en	gebott	54
 nett	in	54
-ivvah	da	54
 fa	eiyah	54
 is	un	54
+hott	iahra	54
 di	leevi	54
 ich	sawk	54
 da	mensha	54
@@ -638,7 +644,6 @@ un	voahra	51
 funn	uns	51
 diah	en	51
 groofa	un	51
-jesus	hott	51
 awl	zvay	51
 andvat	gevva	51
 iahra	hend	51
@@ -654,6 +659,7 @@ vadda	un	50
 veil	du	50
 sich	kfeicht	50
 fa	eah	50
+jesus	hott	50
 im	tempel	50
 unsah	hah	50
 dawfit	hott	50
@@ -711,7 +717,6 @@ henna	design	46
 du	en	46
 du	dei	46
 es	dess	46
-un	loss	46
 gevva	un	46
 funn	deim	46
 bei	miah	46
@@ -728,6 +733,7 @@ en	grohsah	45
 runnah	kumma	45
 ich	du	45
 dann	is	45
+un	loss	45
 un	gay	45
 gvoond	henn	45
 noch	nett	45
@@ -763,6 +769,8 @@ aynah	es	44
 si	da	44
 si	zu	44
 sei	mennah	44
+dawk	un	44
+di	nacht	44
 sich	anna	44
 en	zeit	44
 es	een	44
@@ -793,8 +801,6 @@ eem	ksawt	43
 un	alli	43
 am	kumma	43
 uf	kshtanna	43
-dawk	un	43
-di	nacht	43
 sei	aykni	43
 ich	di	43
 zayld	nett	43
@@ -860,7 +866,6 @@ un	zayld	40
 di	nohch-kummashaft	40
 mei	meishtah	40
 nett	gedu	40
-da	pharao	40
 sei	ksicht	40
 katt	es	40
 avvah	en	40
@@ -892,6 +897,7 @@ sacha	funn	39
 datt	is	39
 seit	fumm	39
 sawwa	zu	39
+da	pharao	39
 fa	miah	39
 sei	in	39
 gay	mitt	39
@@ -918,8 +924,8 @@ datt	hott	38
 nett	da	38
 vo	du	38
 eem	voahra	38
-un	gott	38
 in	unsah	38
+en	anra	38
 zeit	fa	38
 zeit	is	38
 dess	hott	38
@@ -930,6 +936,7 @@ gmacht	vadda	38
 di	mitt	38
 gedrayt	un	38
 sei	hend	38
+funn	mensha	38
 naus	gegrisha	38
 drei	dawk	38
 veil	miah	38
@@ -979,7 +986,6 @@ da	annah	37
 bei	eena	37
 en	veibsmensh	37
 yoah	fumm	37
-gedu	sei	36
 besten	henna	36
 noch	di	36
 es	awl	36
@@ -1009,6 +1015,7 @@ gmacht	katt	36
 uns	nett	36
 christus	jesus	36
 ich	hab	35
+gedu	sei	35
 hand	tattoo	35
 tattoo	ideas	35
 di	bivvel	35
@@ -1018,6 +1025,7 @@ vass	miah	35
 sei	fees	35
 di	hend	35
 gott	es	35
+un	gott	35
 no	en	35
 gmacht	funn	35
 di	fekkel	35
@@ -1141,7 +1149,6 @@ ich	zu	32
 in	selli	32
 eich	in	32
 hend	funn	32
-nau	di	32
 dei	gnechta	32
 du	dess	32
 ich	mach	32
@@ -1173,6 +1180,7 @@ du	am	31
 si	doon	31
 du	kansht	31
 di	vand	31
+nau	di	31
 en	shtikk	31
 en	boo	31
 meishtah	sei	31
@@ -1469,6 +1477,7 @@ gnumma	vadda	26
 hah	voah	26
 da	dritt	26
 fumm	say	26
+alli	lendah	26
 im	geisht	26
 en	kaynich	26
 im	glawva	26
@@ -1522,7 +1531,6 @@ t	towierungen	25
 naus	in	25
 si	ksawt	25
 en	shtatt	25
-es	eiyah	25
 da	evvahsht	25
 sei	kinnah	25
 di	rebekka	25
@@ -1534,6 +1542,7 @@ ennichs	funn	25
 kenna	miah	25
 zu	unsah	25
 vi	kann	25
+dess	land	25
 eich	is	25
 eb	di	25
 sayk	funn	25
@@ -1585,6 +1594,7 @@ tattoo	pinterest	24
 un	an	24
 sayna	es	24
 ich	kann	24
+es	eiyah	24
 miah	sawwa	24
 un	hend	24
 eah	eena	24
@@ -1767,6 +1777,7 @@ tattoo	and	22
 eb	ich	22
 es	ma	22
 sawwa	es	22
+sei	sohn	22
 unsah	sinda	22
 es	dich	22
 vo	em	22
@@ -1854,6 +1865,7 @@ vatt	zu	22
 zu	essa	22
 funn	syria	22
 in	difreind	22
+fa	essa	21
 pennsylvania	dutch	21
 und	ihre	21
 tattoos	henna	21
@@ -1864,6 +1876,7 @@ yusht	ay	21
 si	zammah	21
 un	sawwa	21
 vatt	es	21
+fumm	jakob	21
 is	nunnah	21
 am	vayk	21
 vayk	nohch	21
@@ -1893,7 +1906,6 @@ diah	da	21
 miah	di	21
 eah	noch	21
 hosht	zu	21
-ich	da	21
 mei	gebodda	21
 un	may	21
 miah	kumma	21
@@ -1995,6 +2007,7 @@ nee	nimmi	20
 flaysh	un	20
 leit	zammah	20
 dee	do	20
+ich	da	20
 sinn	dee	20
 en	glay	20
 voahra	uf	20
@@ -2125,12 +2138,12 @@ un	immah	19
 mann	vo	19
 es	alles	19
 sei	ayknah	19
+un	drinka	19
 gegukt	fa	19
 voahra	bei	19
 vatt	fa	19
 vels	funn	19
 am	dish	19
-avvah	jesus	19
 kshlauwa	mitt	19
 een	no	19
 mitt	fumm	19
@@ -2282,6 +2295,7 @@ da	meishtah	18
 am	shaffa	18
 in	miah	18
 si	datt	18
+avvah	jesus	18
 henn	vass	18
 uf	mich	18
 diah	miah	18
@@ -2426,6 +2440,7 @@ da	shtay	17
 boova	voahra	17
 fatt	kshikt	17
 sei	nett	17
+is	doht	17
 shpaydah	hott	17
 gay	zu	17
 dess	soll	17
@@ -2895,6 +2910,7 @@ ivvahrich	fumm	15
 so	sei	15
 mosi	gebodda	15
 un	fumm	15
+say	un	15
 fa	immah	15
 henn	see	15
 recht	fa	15
@@ -3030,7 +3046,6 @@ un	hottʼs	14
 shtimm	funn	14
 mohl	so	14
 langi	zeit	14
-am	ohfang	14
 sei	geisht	14
 loss	di	14
 noch	iahra	14
@@ -3474,6 +3489,7 @@ gessa	sei	13
 fa	gay	13
 fabei	gay	13
 sinn	samm	13
+am	ohfang	13
 huahrahrei	dreiva	13
 g	nstig	13
 da	shtawb	13
@@ -3518,6 +3534,7 @@ sanny	kaur	12
 pinterest	mandala	12
 tattoo	tattoo	12
 mei	mutt	12
+un	ess	12
 kumm	ich	12
 ideas	for	12
 henna	patterns	12
@@ -3576,6 +3593,7 @@ diah	mitt	12
 leit	kumma	12
 un	nemmet	12
 essa	gmacht	12
+s	voah	12
 fraw	sei	12
 is	veil	12
 un	gebb	12
@@ -3813,7 +3831,6 @@ gebikt	un	12
 im	flaysh	12
 ich	shreib	12
 grikt	fa	12
-neiyah	vei	12
 fumm	esau	12
 da	elia	12
 jehu	hott	12
@@ -3833,7 +3850,6 @@ if	you	11
 muster	und	11
 tatuajes	de	11
 bildergebnis	f	11
-r	henna	11
 mehndi	muster	11
 with	henna	11
 tattoo	berlin	11
@@ -3889,7 +3905,6 @@ iahra	nohch-kummashaft	11
 dess	zayld	11
 dei	kinnah	11
 en	sohn	11
-ich	vott	11
 gott	eem	11
 sellet	kenn	11
 so	aw	11
@@ -3901,7 +3916,6 @@ zammah	gegeddaht	11
 sei	shveshtah	11
 sawk	miah	11
 see	zu	11
-s	voah	11
 nett	recht	11
 en	reichah	11
 reichah	mann	11
@@ -4117,7 +4131,6 @@ da	bull	11
 awl's	fett	11
 di	deahm	11
 fabrenna	uf	11
-di	esh	11
 vi	eah's	11
 mitt	israel	11
 an	gilgal	11
@@ -4222,6 +4235,7 @@ drayya	funn	11
 sei	feinda	11
 voah	ayns	11
 nett	fashtanna	11
+neiyah	vei	11
 kaynich	darius	11
 eisa	un	11
 land	in	11
@@ -4244,6 +4258,7 @@ dei	vadda	10
 art	pinterest	10
 template	mehndi	10
 hand	ideen	10
+r	henna	10
 vorlagen	bilder	10
 tattoo	vorlage	10
 hand	design	10
@@ -4322,6 +4337,7 @@ di	voch	10
 kenn	leevi	10
 havva	hott	10
 zayld	mei	10
+mei	shveshtah	10
 hott	may	10
 may	un	10
 sei	zeit	10
@@ -4563,6 +4579,7 @@ nett	deich	10
 hokk	dich	10
 sei	bamhatzichkeit	10
 fumm	levendicha	10
+levendicha	gott	10
 gerecht	gmacht	10
 fumm	geisht	10
 vass	fa'n	10
@@ -5008,6 +5025,7 @@ moll	di	9
 gvest	fa	9
 eena	ganga	9
 in	jesus	9
+christus	un	9
 leevi	es	9
 havva	in	9
 henn	deich	9
@@ -5097,7 +5115,6 @@ di	fashpreching	9
 yusht	sell	9
 avvah	so	9
 zu	vass	9
-levendicha	gott	9
 an	een	9
 so	goot	9
 ksetz	is	9
@@ -5170,6 +5187,7 @@ drinka	un	9
 hokka	un	9
 drayya	un	9
 eah	kshvoahra	9
+ebbes	gevva	9
 avvah	veil	9
 leit	ksenna	9
 veibsleit	un	9
@@ -5241,6 +5259,7 @@ di	kebb	9
 dann	shikk	9
 an	bethlehem	9
 heida	es	9
+mei	freind	9
 si	gebodda	9
 bei	feiyah	9
 fei	mayl	9
@@ -5382,7 +5401,6 @@ leicht	henna	8
 for	you	8
 auf	dem	8
 henna	mandala	8
-er	set	8
 ne	henna	8
 mei	mann	8
 leit	en	8
@@ -5877,7 +5895,6 @@ henn	vo	8
 gerechtichkeit	funn	8
 kumd	deich	8
 hend	in	8
-iahra	gedanka	8
 ay	gott	8
 veibsleit	es	8
 may	ivvahrich	8
@@ -5904,6 +5921,7 @@ adda	dei	8
 adda	si	8
 di	blinda	8
 selli	leit	8
+un	muddah	8
 nett	ayns	8
 frohkt	fa	8
 sinn	dei	8
@@ -5991,7 +6009,6 @@ iahra	dayl	8
 gedu	veil	8
 shvetza	kenna	8
 ivvah	gans	8
-denket	diah	8
 eiyah	broodah	8
 fumm	hatz	8
 ich	bring	8
@@ -6010,6 +6027,7 @@ ivvah	gebaut	8
 in	dreebsawl	8
 du	yusht	8
 em	grund	8
+im	goahra	8
 dawk	vann	8
 zumm	joseph	8
 ich	gnawt	8
@@ -6786,6 +6804,7 @@ un	frohk	7
 veit	funn	7
 nett	unsah	7
 en	pharisayah	7
+iahra	gedanka	7
 ich	famohn	7
 goodi	verka	7
 sinn	zayla	7
@@ -7035,6 +7054,7 @@ fees	un	7
 em	kaisah	7
 nett	visset	7
 nett	heiyahra	7
+denket	diah	7
 unni's	ksetz	7
 ich	hass	7
 maydel	iahra	7
@@ -7245,6 +7265,7 @@ en	ohdenkes	6
 du	bei	6
 nei	du	6
 bring	ich	6
+unsah	awwa	6
 em	faddah	6
 seim	sohn	6
 miah	im	6
@@ -7360,6 +7381,7 @@ ich	gleich	6
 eaht	voah	6
 voah	gans	6
 goot	voah	6
+un	meiyets	6
 fumm	vassah	6
 ovva	droh	6
 sei	an	6
@@ -7871,6 +7893,7 @@ yusht	in	6
 sacha	un	6
 christus	fa	6
 ivvah	alles	6
+letzes	gedu	6
 da	elsht	6
 vatt	deich	6
 fadeend	henn	6
@@ -8042,6 +8065,7 @@ lawfa	uf	6
 yingah	een	6
 em	boat	6
 een	ohgraykt	6
+ksund	vadda	6
 dawfit	ksawt	6
 un	benjamin	6
 sinn	kshtauva	6
@@ -8567,7 +8591,6 @@ beliebte	motive	5
 tattoo	aufkleber	5
 uralte	kunst	5
 kunst	zur	5
-tempor	ren	5
 m	s	5
 tradition	bedeutung	5
 henna	blumen	5
@@ -8652,7 +8675,6 @@ besten	mehndi	5
 there	is	5
 that	you	5
 tatouage	henn	5
-el	fna	5
 henna	images	5
 tattoo	fuss	5
 r	cken	5
@@ -8858,7 +8880,7 @@ this	year	5
 uff	em	5
 now	i	5
 ich	brauch	5
-un	meiyets	5
+ohvets	un	5
 hott's	vassah	5
 di	shpann	5
 es	frucht	5
@@ -10315,7 +10337,6 @@ adda	zu	5
 endlich	is	5
 roht	gnumma	5
 hot	es	5
-to	eat	5
 the	time	5
 a	good	5
 ksenna	bei	5
@@ -10721,7 +10742,6 @@ henna	hands	4
 dise	o	4
 rosen	tattoo	4
 t	towieren	4
-x	golecha	4
 und	mehndi	4
 hand	natural	4
 foot	henna	4
@@ -10790,7 +10810,6 @@ re	video	4
 un	hab	4
 froh	as	4
 em	hatz	4
-ee	paar	4
 iss	gut	4
 east	ganga	4
 funn	sinear	4
@@ -10806,13 +10825,10 @@ awwer	der	4
 the	month	4
 month	of	4
 hope	you	4
-witt	du	4
 wann	der	4
 day	in	4
 a	special	4
 so	i	4
-did	you	4
-i	did	4
 in	layva	4
 leit	gans	4
 vetsht	du	4
@@ -11024,12 +11040,9 @@ di	harf	4
 deah	yung	4
 mich	kshlauwa	4
 hah	ohbayda	4
-did	not	4
 hot	mich	4
 daag	schpotyaahr	4
 im	september	4
-der	ern	4
-ern	muun	4
 of	fall	4
 harvest	moon	4
 waar	es	4
@@ -11046,13 +11059,12 @@ zeit	in	4
 voah	dunkel	4
 geisht	voah	4
 fumm	dunkla	4
-ohvets	un	4
 es	vassah	4
-gott	hott's	4
 lichtah	in	4
 shpann	fumm	4
 macha	uf	4
 dawk	sei	4
+nacht	sei	4
 mitt	flikkel	4
 da	fimft	4
 diahra	funn	4
@@ -12264,7 +12276,6 @@ sella	fa	4
 gedu	grawt	4
 kshvind	vekk	4
 noch	tharsis	4
-ich	vett	4
 im	shadda	4
 macha	ivvah	4
 iahra	rechtsi	4
@@ -12572,6 +12583,7 @@ lot	sei	4
 kanaaniddah	un	4
 di	pheresiddah	4
 gaygend	funn	4
+un	lawf	4
 di	leng	4
 egypta	voah	4
 shtaynd	diah	4
@@ -13699,7 +13711,6 @@ ich	ordlich	4
 on	der	4
 un	os	4
 my	fraw	4
-yusht	ea	4
 the	table	4
 ich	insures	4
 insures	os	4
@@ -13763,6 +13774,7 @@ ayknah	boo	4
 nohtvendich	is	4
 dess	ess-sach	4
 preacher	was	4
+cell	phone	4
 die	insching	4
 the	indians	4
 sei	kamayla	4
@@ -14007,7 +14019,6 @@ berlin	henna	3
 er	tattoo	3
 zu	beachten	3
 tattoos	im	3
-henn	et	3
 en	pinterest	3
 pinterest	tatuajes	3
 os	de	3
@@ -14060,7 +14071,6 @@ für	jungs	3
 produkte	von	3
 design	flower	3
 welche	wandfarbe	3
-er	jahre	3
 selber	malen	3
 mit	tannenzapfen	3
 braune	augen	3
@@ -14098,7 +14108,6 @@ tattoo	art	3
 paste	wei	3
 wei	kegel	3
 kegel	in	3
-g	golecha	3
 tattoo	tutorial	3
 k	rperkunst	3
 von	shahieda	3
@@ -14128,7 +14137,6 @@ mei	vatt	3
 zeit	katt	3
 an	d	3
 tii	woaz	3
-tass	tes	3
 hott	vun	3
 midipass	woa	3
 alles	hott	3
@@ -14186,7 +14194,6 @@ muster	tattoos	3
 stock	foto	3
 pinterest	einfache	3
 so	beautiful	3
-les	tatouages	3
 sun	henna	3
 paste	kegel	3
 henna	abend	3
@@ -14201,7 +14208,6 @@ mit	kochinsel	3
 weihnachtsdeko	selber	3
 tattoo	tatoo	3
 arm	on	3
-mod	les	3
 pictures	photos	3
 photos	and	3
 and	images	3
@@ -14211,7 +14217,6 @@ kopf	bilder	3
 makedes	com	3
 mujeres	tatuajes	3
 place	djemma	3
-djemma	el	3
 mandala	unterarm	3
 bl	tter	3
 simple	white	3
@@ -14227,7 +14232,6 @@ schablone	tattoo	3
 tattoo	hennaschablone	3
 hennaschablone	hand	3
 schwarz	henna	3
-djemaa	el	3
 den	k	3
 rper	mit	3
 henna	versch	3
@@ -14711,7 +14715,6 @@ frucht	katt	3
 himmel	sei	3
 fumm	yoah	3
 fa	helling	3
-nacht	sei	3
 un's	dunkla	3
 sadda	diahra	3
 eaht	soll	3
@@ -14882,7 +14885,6 @@ vatt	kalda	3
 un	hokk	3
 tempel	gebaut	3
 hend	noch	3
-do	hunna	3
 du	haldsht	3
 hosht	gedu	3
 hald	sell	3
@@ -15579,7 +15581,6 @@ vayyah	blakka	3
 hott	diah	3
 ich	drawk	3
 no	gayn	3
-da	kis	3
 nemm	ayns	3
 land	benjamin	3
 un	fangd	3
@@ -15979,6 +15980,7 @@ ich	bamhatzich	3
 kann	geyyich	3
 ding	vo	3
 eah	ay	3
+gott	kaysa	3
 veyyich	israel	3
 kinnah-israel	is	3
 eahvet	faddich	3
@@ -16138,6 +16140,7 @@ hott	gebodda	3
 si	drinka	3
 haychsht	ivvah-saynah	3
 ivvah-saynah	hott	3
+gott	hott's	3
 mich	veyyich	3
 dayt	da	3
 gnechta	fa	3
@@ -16520,7 +16523,6 @@ eiksetzt	is	3
 fasell	binn	3
 gott	bisht	3
 layva	vekk	3
-vett	leevah	3
 doht	sei	3
 fa	bays	3
 bays	sei	3
@@ -16760,7 +16762,6 @@ reis	es	3
 shmeis	es	3
 gaysht	mitt	3
 selli	saylich	3
-vass	denket	3
 alli	vatt	3
 si	frohwa	3
 mohl	sivva	3
@@ -16901,7 +16902,6 @@ tatouage	mandala	3
 to	inspire	3
 and	hand	3
 rose	tattoo	3
-v	gel	3
 wei	er	3
 mini	tattoos	3
 arm	ideen	3
@@ -17489,7 +17489,6 @@ sich	recht	3
 nett	bekeaht	3
 veahra	in	3
 un	hedda	3
-esh	kokt	3
 hatt	sei	3
 in	sodom	3
 jesus	gebayda	3
@@ -18324,7 +18323,6 @@ funn	zoba	3
 sacha	keilicht	3
 ahitob	sei	3
 diah	fagevva	3
-gedanka	gvist	3
 shpaydah	vo	3
 jesus	im	3
 pharisayah	dess	3
@@ -18468,7 +18466,6 @@ yaahr	daag	3
 new	year's	3
 year's	day	3
 gewisst	as	3
-wenn	du	3
 un	er	3
 die	deitsche	3
 sacha	gmacht	3
@@ -18954,6 +18951,7 @@ goot	zu	3
 eich	datt	3
 dawk	biss	3
 eiyah	vayk	3
+muddah	un	3
 da	hathach	3
 un	frohwa	3
 sei	goldichah	3
@@ -19447,7 +19445,6 @@ nei	yorrick	3
 om	end	3
 wass	der	3
 my	gooter	3
-ea	ding	3
 now	amohl	3
 doh	for	3
 se	is	3
@@ -19479,8 +19476,6 @@ we	ar	3
 garn	os	3
 de	notion	3
 yohr	un	3
-un	ea	3
-ea	dawg	3
 mich	der	3
 tzu	cooma	3
 cooma	for	3
@@ -19515,7 +19510,6 @@ josaphat	sei	3
 salb	dich	3
 jehu	is	3
 kaynich	frohkt	3
-un	reit	3
 huahrahrei	gedrivva	3
 gedrivva	mitt	3
 kawf-leit	funn	3
@@ -19616,12 +19610,14 @@ the	more	3
 the	leaves	3
 he	would	3
 die	pilyer	3
+the	pilgrims	3
 die	ernt	3
 lanna	vi	3
 gebayst	is	3
 sei	deich	3
 sell	reich	3
 vassah	greeya	3
+aw	vassah	3
 iahra	vassah-tsheah	3
 see	kshvind	3
 dei	kamayla	3
@@ -19681,7 +19677,6 @@ natt	end	3
 ithamar	sei	3
 fumm	eleasar	3
 em	hiram	3
-veisheit	gevva	3
 in	lebanon	3
 kaynich	ohdreffa	3
 da	chimham	3

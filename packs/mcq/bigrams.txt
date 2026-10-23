@@ -1,10 +1,10 @@
 # Bigrammes mcq (FineWeb-2 mcq_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
 ijihuni	maijaho	1165
-ea	ka'ene	1127
+ea	ka'ene	1126
 ea	ka	680
 ea	mapoka	670
-ea	irara	537
+ea	irara	536
 ee	ea	507
 keriso	oni	450
 hu	ijá	386
@@ -14,8 +14,8 @@ ene	ea	295
 ejume	hu	294
 ejume	pu	293
 raka	ka'ene	284
+ja	ea	283
 pana	kaivo	283
-ja	ea	282
 natohwi	jihuni	272
 vea	ka'ene	264
 ee	huni	242
@@ -28,7 +28,7 @@ ene	hu	218
 uneunecha	mapoka	218
 ei	pini	217
 raka	ka	212
-na	ja	211
+na	ja	212
 oni	vaji	211
 godoni	ira	203
 hu	huni	184
@@ -46,12 +46,12 @@ ani	ani	161
 ene	ja	161
 kaivo	hu	161
 ene	pu	159
-huni	tisaiporu	154
+huni	tisaiporu	155
 vea	ka	153
 enarena	hu	151
 ona	oji	148
 pu	pu'úmo	147
-e	na	146
+e	na	147
 pu	ea	145
 mapoka	ka'ene	142
 avena	sisea	141
@@ -67,15 +67,15 @@ maijaho	hu	127
 uneunecha	ka'ene	125
 jihuni	maijaho	125
 majama	hihuna	125
+e	ja	125
 ka'ene	na	124
 ene	huni	124
-e	ja	124
 e	hu	124
 huni	vaji	123
 wama	a	121
 a	ka	121
-na	nimaa	120
 e	ea	120
+na	nimaa	119
 ona	oji'ina	119
 joni	oja	119
 maijaho	ja	117
@@ -170,13 +170,13 @@ aho'a	ka'ene	68
 ira	ajira	68
 ú	a	68
 pu	niho'o	68
+na'ia	mapoka	68
 jihuni	vaji	68
 hu	godoni	68
 iraka	ka	68
 nimaa	roji	68
 kwaa	ara	67
 uneunecha	maho'o	67
-na'ia	mapoka	67
 avena	sisei	67
 oja	mahe	67
 amajaho	hu	67
@@ -258,7 +258,6 @@ ea	areri	55
 huni	tisaiporua	55
 a	kehuni	55
 ene	nuni	54
-ja	niho'o	54
 puni	ira	54
 mamaa	ka'ene	54
 mosisi	oni	54
@@ -270,6 +269,7 @@ ene	puni	53
 vu'a	maa	52
 hu	kú'o	52
 enakúne	ja	52
+ja	niho'o	52
 hu	hu'úmo	52
 ka'ene	pu	52
 godi	nimaa	52
@@ -475,7 +475,6 @@ napara	ka'ene	36
 kaivo	godi	36
 ejumakame	hu	36
 ijí	vea	36
-ja	areri	36
 ijí	henareja	36
 areri	ea	36
 nuni	hariha	36
@@ -499,6 +498,7 @@ hura	raka	35
 irara	na	35
 kwaa	ka'ene	35
 ronujaho	hu	35
+ja	areri	35
 va'e	ea	35
 ea	kajija	35
 pu	na	35
@@ -544,10 +544,12 @@ pu	va	33
 avena	ka	33
 i	pu	33
 ea	mama	33
+enakaivo	jesu	32
 huni	tisaiporuepo	32
 napara	pina	32
 oni	iha	32
 warahuna	pana	32
+ichá'ina	ka'ene	32
 nú	hu	32
 nú	núni	32
 eha	vena	32
@@ -559,7 +561,6 @@ na	pu	32
 na	niho	32
 eme	pu	32
 ene	mai	32
-enakaivo	jesu	31
 ene	a	31
 ee	mwe	31
 ene	sisea	31
@@ -574,7 +575,6 @@ godoni	ura	31
 sisea	vwihane	31
 hahi	na	31
 pu	ja	31
-ichá'ina	ka'ene	31
 ejume	porura	31
 hura	hara	31
 huni	mumora	31
@@ -587,6 +587,7 @@ iavume	pu	31
 a	niho'o	31
 ja	raka	31
 ee	jesu	31
+e	joni	31
 e	veju	31
 ja	niho	31
 o	ka	31
@@ -613,7 +614,6 @@ vejume	maranajina	30
 eka	roe	30
 veje	ja	30
 aporama	ijá	30
-e	joni	30
 a	maiu	30
 e	rene	30
 sisea	apehuna	29
@@ -646,6 +646,7 @@ kaivo	godoni	28
 vwehu	núna	28
 no'ona	no'o	28
 huni	pinana	28
+oma	ka'ene	28
 huni	vwiha	28
 pura	raka	28
 puni	vwiha	28
@@ -684,7 +685,6 @@ vwicha	jiami	27
 va'e	huni	27
 aneja	púsa	27
 niho'o	oja	27
-oma	ka'ene	27
 oni	pwea	27
 vaji	hinu	27
 ena'omo	nú	27
@@ -881,6 +881,7 @@ rene	roe	22
 núni	oja	22
 roe	nimaa	22
 vaji	hine	22
+joni	oma	22
 haha	ka'ene	22
 ikehuni	hahi	22
 ee	kuriki	22
@@ -945,7 +946,6 @@ vo	ja	21
 ea	arira	21
 ka'ene	iki	21
 natohwijara	ijá	21
-joni	oma	21
 maho'o	ka'ene	21
 ka'ene	mwe'a	21
 ejakame	ea	21
@@ -1013,6 +1013,7 @@ toa	vaji	20
 oni	rena	20
 sesahu	nune	20
 roajaho	hu	20
+sisea	vwihana	20
 ea	hu	20
 ara	kaji	20
 ara	iha	20
@@ -1035,6 +1036,7 @@ ene	vu	20
 unama	apene	20
 ijihuni	túna'i	20
 eje	hu	20
+ka'ene	akúpa	20
 aja	iropu	20
 iava	nú	20
 varapa	tamana	20
@@ -1085,7 +1087,6 @@ vejujaho	ja	19
 godi	hu	19
 ura	renau	19
 nuni	vu'a	19
-sisea	vwihana	19
 ahopo	ijá	19
 jesu	nimaa	19
 karari	vaji	19
@@ -1113,7 +1114,6 @@ pirisitia	mama'ina	19
 ijá	rona	19
 hu	apena	19
 setani	oni	19
-ka'ene	akúpa	19
 kajihi	puni	19
 vejume	huni	19
 oni	nia	19
@@ -1193,7 +1193,6 @@ oni	haha	18
 anae	kwahuna	18
 ara	oni	18
 vaji	huni	18
-na	nimai	18
 enakaivo	godoni	18
 eha	ka'ene	18
 hu	rone	18
@@ -1299,6 +1298,7 @@ a	huni	17
 iama	joni	17
 a	ijá	17
 natohwi	jihuna	17
+ina	kajara	17
 o	na	17
 ina	pina	17
 vea	mai	17
@@ -1307,7 +1307,6 @@ puni	vu	17
 jerusaremi	va	17
 ene	hua	17
 harura	ka	17
-ina	kajara	17
 eme	jesu	17
 i	hijara	17
 e	puni	17
@@ -1397,6 +1396,7 @@ ijí	hena	16
 ka'ene	ijihuni	16
 ee	hami	16
 mapoka	rukina	16
+na	nimai	16
 roe	pu	16
 enakaivo	vu	16
 roe	puni	16
@@ -1628,6 +1628,7 @@ hu	oni	14
 irara	areri	14
 na	jona	14
 núne	ja	14
+ahi	hinujara	14
 mapoka	ani	14
 saimani	oni	14
 suha	apene	14
@@ -1790,7 +1791,6 @@ ojuta	hwena	13
 wama	ike	13
 kajaho	ja	13
 ene	icha	13
-ahi	hinujara	13
 najahe	pu	13
 ura	renaura	13
 jesu	ea	13
@@ -2693,6 +2693,7 @@ ea	ike	9
 nimaa	rojakame	9
 hu	jua	9
 mapoka	ja	9
+jesu	ijí	9
 nimaa	rojumakame	9
 mapoka	rehuna	9
 poropeti	aisea	9
@@ -3077,7 +3078,6 @@ kwaaka	mapokaki	8
 jerusaremi	pasova	8
 ahaja	ijuri	8
 ijí	hinuna	8
-jesu	ijí	8
 va	ranavara	8
 rena	roa	8
 aisea	nitama	8
@@ -3255,6 +3255,7 @@ ja	ijaho	8
 vene	ira	8
 niheju	nú	8
 apene	joni	8
+jara	ichá'ina	8
 ú	joni	8
 pura	roe	8
 apena	roara	8
@@ -3356,6 +3357,7 @@ ejume	poruho	8
 godoni	rene	8
 na	unenu	8
 va'e	huri'a	8
+ahopuni	sisea	8
 ene	varapa	8
 nara	ichihi	8
 vejujihi	puni	8
@@ -3826,7 +3828,6 @@ veje	ariramaa	7
 hine	godoni	7
 mapoka	ahuma	7
 nú	hami	7
-jara	ichá'ina	7
 vaji	taura	7
 taura	ka'ene	7
 ka'ene	natohwijaho	7
@@ -3999,7 +4000,6 @@ ijí	uneka	7
 arira	ka'ene	7
 a	ikino	7
 maijaho	oni	7
-ahopuni	sisea	7
 tinia	apena	7
 pina	akúpa	7
 tisaiporua	ijá	7
@@ -4558,7 +4558,6 @@ mihuri	vajijino	6
 nuni	temarijaho	6
 ja	napuhu	6
 majama	hihuna'e	6
-ja	mwe'a	6
 mwe'a	kehuna	6
 na	sisei	6
 nuni	omiji	6
@@ -4957,7 +4956,6 @@ joni	sisei	6
 juapo	eha	6
 wama	ijaho	6
 irahipo	sisea	6
-hu	kimajaho	6
 sorutia	irechamiume	6
 nú	puretia	6
 ee	oaha	6
@@ -5586,6 +5584,7 @@ ura	renauji	5
 ike	uneunechakija	5
 rarena	parahuna	5
 maijaho	raka	5
+ja	mwe'a	5
 re'ipisa	ja	5
 areri	pavehuni	5
 na	ija'ina	5
@@ -5773,6 +5772,7 @@ ea	ijihuni	5
 e'eje	ea	5
 monia	senisu	5
 va'e	sohi	5
+are'avajaho	joni	5
 roajime	jesu	5
 eha	ijá	5
 irakijihuna'e	ja	5
@@ -6128,6 +6128,7 @@ ja	najahe	5
 keriso	ona	5
 ijí	ani	5
 rukina	ea	5
+hu	kimajaho	5
 pasikaho	veju	5
 ee	sajusia	5
 a	godi	5
@@ -7018,7 +7019,6 @@ ka'ene	maraku'a	4
 kwinu	godoni	4
 ka'ene	tamana	4
 irakijihuna'e	pu	4
-ijihuna'e	joni	4
 unama	pina	4
 pina	panamu	4
 irahipo	ea	4
@@ -7455,6 +7455,7 @@ ojijara	ura	4
 areria	pareniu	4
 a	iviasi	4
 mwe'a	vaja	4
+vwihana	arehuna	4
 ijija	joni	4
 pina	veju	4
 kaivo	kaukara	4
@@ -7598,7 +7599,6 @@ tisaiporua	iropu	4
 vai'i	kamajaho	4
 mapoka	hina	4
 vwihana	ijá	4
-are'avajaho	joni	4
 pina	oahoni	4
 oahoni	tea	4
 veko	temiporu	4
@@ -7818,7 +7818,6 @@ ijí	ateha	4
 natohwa	rena	4
 oja	paveje	4
 rone	na	4
-amo	uni	4
 panimaa	ro'avajaho	4
 raka	nuni	4
 hu	niheju	4
@@ -7992,6 +7991,7 @@ kehuni	sisea	4
 hu	pakavura	4
 avena	kahi	4
 ahi	hija	4
+joniho	huni	4
 kavume	jesuho	4
 ararihae	va'ara	4
 jesu	karari	4
@@ -8342,7 +8342,6 @@ jara	icha	4
 godoni	vahuna	4
 ichá'ina	ve'eja	4
 pa'urahi'i	ea	4
-iva	ja	4
 pu	vejume	4
 godi	ijá	4
 ee	jenitarua	4
@@ -9071,6 +9070,7 @@ eka	ruva	4
 otua	veji	4
 ho	unenu	4
 ene	mumora	4
+e	erapo	4
 e	kwamasahi	4
 eme	porura	4
 e	romu	4
@@ -9149,6 +9149,7 @@ pa'ajihuni	vea	3
 iruma	ihunijaho	3
 ka'ene	ichuto	3
 ara	natohwi	3
+no'o	pu'úmo	3
 iruma	inu	3
 ka'ene	puretia	3
 na	nahamihunijaho	3
@@ -9605,7 +9606,6 @@ ka'ene	ranamiume	3
 ichá'ina	veje	3
 ee	parui	3
 ee	napasina	3
-parui	nene	3
 ija'ina	veji'inijija	3
 vu'a	ani'ina	3
 kehuni	harai	3
@@ -9775,6 +9775,7 @@ pina	ma	3
 re'amajaho	ijaho	3
 vajakino	nú	3
 vaji	vejaja'ina'e	3
+ijihuna'e	joni	3
 aho'a	namahujaho	3
 namahujaho	a	3
 hinujaho	ja	3
@@ -10289,7 +10290,6 @@ nú	vu'a	3
 sesahu	núpuni	3
 kú'o	pa'unama	3
 hura	hinani	3
-vwihana	arehuna	3
 poropetiepo	raka	3
 pina	panimaa	3
 panimaa	rohuna	3
@@ -11046,7 +11046,7 @@ poropetia	aiseara	3
 jonira	eha	3
 marahu'ora	puna'i	3
 avenijino	samahuna	3
-joniho	huni	3
+pu'úmo	naminana	3
 urine	jesu	3
 hu	aporama	3
 no'ohe'i	ka'ene	3
@@ -11056,7 +11056,6 @@ ka'ene	josapi	3
 jesu	ka'eme	3
 a	isureri	3
 a	túna'i	3
-jesuni	ohi	3
 na	ona	3
 mai'o	paroi'ina	3
 vene	ija	3
@@ -11708,7 +11707,6 @@ venaume	maraniajina	3
 ira	pa'ana	3
 eaka	mapokakipo	3
 ene	kija	3
-tiapirasi	ese	3
 ja	toi	3
 urijara	kaivo	3
 pa'are'eme	pu	3
@@ -11890,6 +11888,7 @@ kú'o	pahehuna	3
 naheha	ka'ene	3
 ma'u'u	maa	3
 maa	kajija	3
+waravukúne	jara	3
 hihuna	pane	3
 iruma	pa'eke	3
 harura	pavene	3
@@ -12086,6 +12085,7 @@ rukina	pu	3
 hu	marahuna	3
 núni	godijihuna	3
 ijuri	ruhi	3
+ka'ene	hihunijaho	3
 ruha	kajino	3
 jesuho	jerusaremi	3
 ahiujija	pu	3
@@ -12594,7 +12594,6 @@ ene	sipia	3
 hari	hi	3
 ene	uchaha	3
 mumora	siseraji	3
-e	erapo	3
 a	pasise	3
 e	jenitaru	3
 ene	aririjaho	3

@@ -13,6 +13,7 @@ mɛ	ciwo	104
 nu	yí	100
 nɔ	wo	99
 nɔ	mì	89
+nu	nɔ	89
 ji	mɔ	79
 le	hamɛ	74
 yí	sɔ	72
@@ -99,6 +100,7 @@ e	bo	26
 nukplavi	lɔ	26
 yí	wanɔ	25
 so	enu	25
+nɔ	mìwo	25
 ciwo	pleŋ	25
 na	nɔ	25
 ci	yehowa	25
@@ -305,6 +307,7 @@ koɖo	enu	13
 do	mì	13
 mì	shi	13
 mawu	fyɔɖuxu	13
+mawu	nu	13
 bibla	nukplaviwo	13
 le	ŋkeke	13
 bibla	koɖo	13
@@ -333,6 +336,7 @@ so	bibla	12
 habɔbɔ	lɔ	12
 shi	yí	12
 kpenɔ	do	12
+sugbɔ	ciwo	12
 edɔ	ciwo	12
 gbɔ	yí	12
 sugbɔ	so	12
@@ -615,6 +619,7 @@ yí	mìwo	8
 agbe	mavɔ	8
 yí	li	8
 nɔ	yesu	8
+ŋɛnywi	lɔ	8
 sɔ	ɖe	8
 yí	yesu	8
 ɖe	koŋ	8
@@ -1272,6 +1277,7 @@ lɔwo	jiɔ	5
 yí	zannɔ	5
 gɔnmɛsese	ci	5
 ci	woyɔnɔ	5
+mawu	ŋkɔ	5
 kristotɔwo	nu	5
 pɔlu	koɖo	5
 taɖo	yesu	5
@@ -2087,6 +2093,7 @@ wosɔ	ɖo	4
 ci	mìkpɔ	4
 timɔte	mɔ	4
 ɖo	mì	4
+tamɛ	bubu	4
 èkpla	so	4
 ci	ŋɖo	4
 sugbɔ	ci	4
@@ -2523,6 +2530,7 @@ si	yí	3
 ecɛ	yí	3
 nɔ	ŋsu	3
 gangan	enyi	3
+ŋkɔ	yí	3
 nyigban	jiɔ	3
 ahan	kpɔ	3
 le	gbedoxɔ	3
@@ -3109,9 +3117,9 @@ yí	jinjin	3
 woaɖo	kojo	3
 kojo	nɔ	3
 ye	a	3
-a	yì	3
 ayi	rɔma	3
 nɔ	míwo	3
+enunywi	nɔ	3
 yehowa	atɛnŋ	3
 eshi	lɔ	3
 nɔ	sɔja	3

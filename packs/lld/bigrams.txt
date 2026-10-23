@@ -4,17 +4,17 @@ y	la	903
 che	l	847
 per	la	833
 per	l	812
-y	de	733
-che	la	728
+y	de	732
+che	la	727
 che	i	691
 cun	la	653
 y	l	609
 y	i	590
 de	n	580
 che	à	580
-al	é	547
+al	é	546
 che	ie	539
-che	al	528
+che	al	527
 di	ladins	502
 sun	la	501
 l	ie	483
@@ -81,6 +81,7 @@ cun	n	186
 a	livel	186
 ie	l	186
 por	le	186
+y	dl	184
 sort	de	183
 chëi	che	182
 nia	plu	182
@@ -95,14 +96,15 @@ ne	ie	171
 südtirol	pass	170
 valedes	ladines	169
 da	se	168
+dla	val	167
 l	ladin	167
 pert	dla	166
 sun	i	165
 la	storia	165
 é	la	165
-cunsëi	provinziel	164
 te	chësc	163
 y	di	163
+cunsëi	provinziel	163
 provinzia	de	163
 é	n	162
 che	á	162
@@ -199,6 +201,7 @@ che	va	113
 la	lista	113
 dötes	les	112
 dla	scora	112
+y	tl	111
 la	gran	111
 ladins	de	111
 la	svp	111
@@ -217,6 +220,7 @@ y	nce	107
 la	vita	107
 ejam	de	107
 ora	de	107
+düc	i	107
 a	una	107
 dla	scola	107
 che	ai	106
@@ -243,12 +247,12 @@ ladin	standard	102
 y	plu	101
 é	gnü	101
 dl	museum	101
-ne	ti	99
 de	vita	99
 reverda	la	99
 la	union	99
 y	cultura	99
 la	lege	98
+ne	ti	98
 da	udëi	98
 l	cunsëi	98
 de	scola	97
@@ -703,7 +707,6 @@ una	dla	50
 de	agost	50
 fova	l	50
 la	familia	50
-dla	ladinia	50
 la	sconanza	50
 dla	generela	50
 ladines	y	50
@@ -728,6 +731,7 @@ de	s	49
 te	uni	49
 de	abiné	49
 nia	n	49
+dla	ladinia	49
 ie	unic	49
 ti	é	49
 bon	de	49
@@ -754,7 +758,6 @@ y	chësc	47
 nchin	a	47
 chertes	de	47
 talian	y	47
-la	medema	47
 á	la	47
 a	chël	47
 iel	nce	47
@@ -763,6 +766,7 @@ nce	sce	47
 ora	per	47
 ani	de	47
 la	persones	47
+n	pue	47
 che	na	47
 inant	la	47
 ntan	che	47
@@ -790,6 +794,7 @@ uni	ann	46
 na	persona	46
 nce	da	46
 di	comuns	46
+la	medema	46
 n	ucajion	46
 co	che	46
 de	mëter	46
@@ -811,6 +816,7 @@ i	scolars	46
 museum	de	45
 na	sort	45
 da	sacun	45
+lingaz	y	45
 su	y	45
 ite	tl	45
 i	resultac	45
@@ -870,6 +876,7 @@ ma	nia	43
 fova	nia	43
 de	jené	43
 mo	al	43
+val	de	43
 inant	cun	43
 na	mostra	43
 dla	lege	43
@@ -954,6 +961,7 @@ de	tëmp	40
 ne	possa	40
 n	se	40
 de	fauré	40
+che	vel	40
 chësta	plata	40
 a	cie	40
 prim	iede	40
@@ -1037,6 +1045,7 @@ de	mete	38
 artejanat	artistich	38
 per	ejëmpl	38
 plu	y	38
+tan	che	38
 vigni	de	38
 de	persenon	38
 se	damandé	37
@@ -1091,6 +1100,7 @@ l	ufize	36
 l	personal	36
 de	trilinguism	36
 maniera	che	36
+politica	y	36
 de	doi	36
 dles	valades	36
 tla	scoles	36
@@ -1140,7 +1150,6 @@ nce	a	35
 a	desposizion	35
 de	nuvëmber	35
 él	pa	35
-val	de	35
 dan	da	35
 y	perchel	35
 chela	de	35
@@ -1349,11 +1358,11 @@ l	abo	31
 la	dumanda	31
 n	cajo	31
 la	nfurmazions	31
+ora	dl	31
 ejams	de	31
 tl	cunsëi	31
 plu	o	31
 ne	vëgn	31
-a	pert	31
 post	de	31
 basa	de	31
 pea	pra	31
@@ -1361,7 +1370,6 @@ a	chisc	31
 de	lën	31
 nchin	che	31
 abiné	adum	31
-fej	nia	31
 n	valgönes	31
 de	ester	31
 adum	y	31
@@ -1379,7 +1387,6 @@ tla	valedes	31
 su	i	31
 dij	che	31
 n	program	31
-ti	fej	31
 formes	de	31
 la	bona	31
 te	chëla	31
@@ -1417,6 +1424,7 @@ jëuni	gherdëina	30
 metuda	a	30
 i	sun	30
 avëi	na	30
+fej	nia	30
 dla	minonga	30
 minonga	che	30
 da	ntlëuta	30
@@ -1455,6 +1463,7 @@ n	curs	30
 la	gauja	30
 che	pó	30
 an	pó	30
+ti	fej	30
 dla	consulta	30
 ite	y	30
 scora	alta	30
@@ -1483,6 +1492,7 @@ y	chi	29
 dla	populazion	29
 dla	persona	29
 dl	lëur	29
+a	pert	29
 n	dumënia	29
 tl	saut	29
 dà	ju	29
@@ -1593,7 +1603,6 @@ comunanza	ladina	28
 pié	via	28
 ladina	a	28
 ucajion	per	28
-ejim	secul	28
 sota	la	28
 via	per	28
 fova	de	28
@@ -1656,6 +1665,7 @@ ara	vá	27
 al	gnará	27
 por	ladin	27
 le	liber	27
+de	val	27
 n	svilup	27
 dl	sela	27
 tla	storia	27
@@ -1708,18 +1718,19 @@ l	segondo	26
 a	cë	26
 fat	ora	26
 ester	na	26
+n	pü	26
 me	à	26
 dla	persones	26
 sot	al	26
 l	medemo	26
 milesc	de	26
 la	dezijiun	26
+ciamp	dl	26
 chël	uel	26
 se	damané	26
 tles	mans	26
 ladins	à	26
 ladina	é	26
-é	demé	26
 dantaldut	de	26
 ala	é	26
 familia	y	26
@@ -1796,6 +1807,7 @@ dl	stat	25
 per	chësc	25
 mëte	man	25
 ne	va	25
+é	demé	25
 i	laours	25
 di	grups	25
 na	funzion	25
@@ -1909,6 +1921,7 @@ la	lies	24
 la	manifestazion	24
 duc	canc	24
 alfreider	y	24
+mendranzes	linguistiches	24
 trëi	ani	24
 la	plu	24
 na	si	24
@@ -2007,6 +2020,7 @@ metü	man	23
 persones	y	23
 do	ala	23
 y	nosta	23
+con	de	23
 ti	dá	23
 per	chëi	23
 ma	sce	23
@@ -2018,7 +2032,6 @@ de	veduda	23
 sistem	scolastich	23
 fova	unì	23
 adum	a	23
-y	pra	23
 dl	mer	23
 nëus	jëuni	23
 cheder	de	23
@@ -2046,7 +2059,6 @@ tres	plu	23
 y	jëuni	23
 ann	scolastich	23
 consei	de	23
-ey	de	23
 de	net	23
 de	forá	23
 gherdeina	y	23
@@ -2075,6 +2087,7 @@ che	uni	22
 al	presidënt	22
 de	purté	22
 fat	y	22
+y	po	22
 fova	bele	22
 bele	n	22
 de	jënt	22
@@ -2154,6 +2167,7 @@ a	ji	22
 luech	y	22
 viers	dl	22
 mussner	y	22
+y	pra	22
 sorvisc	ai	22
 nia	ciamò	22
 na	familia	22
@@ -2187,7 +2201,6 @@ l	ombolt	22
 vën	l	21
 che	dut	21
 à	giapà	21
-dla	ue	21
 da	puech	21
 furmazion	de	21
 studëntes	y	21
@@ -2273,7 +2286,6 @@ dert	de	21
 raprejentant	ladin	21
 le	proiet	21
 i	artisć	21
-de	val	21
 y	sön	21
 per	chest	21
 fé	a	21
@@ -2454,7 +2466,6 @@ ence	n	20
 na	lia	20
 i	chemuns	20
 ladines	che	20
-la	vijita	20
 tla	sala	20
 chësc	ciamp	20
 dla	chertes	20
@@ -2497,6 +2508,7 @@ la	families	19
 la	sajon	19
 nchin	al	19
 tlo	da	19
+n	cër	19
 ti	vëniel	19
 per	mutons	19
 scola	prufesciunela	19
@@ -2608,6 +2620,7 @@ assessëur	per	19
 acioche	la	19
 cultura	de	19
 gherdëina	ie	19
+la	vijita	19
 prejentazion	dl	19
 de	roma	19
 na	vijion	19
@@ -2654,6 +2667,7 @@ nuzé	de	18
 ie	propi	18
 ëiles	che	18
 la	regules	18
+mpue	de	18
 sculeies	dla	18
 publich	y	18
 a	chëles	18
@@ -2797,6 +2811,7 @@ ie	jic	18
 de	trëi	18
 la	vedla	18
 tëut	pert	18
+vel	per	18
 ti	la	18
 svilup	y	18
 l	vedl	18
@@ -2902,10 +2917,10 @@ gra	a	17
 i	tlienc	17
 priesc	de	17
 talia	y	17
+cin	ani	17
 cont	che	17
 la	direziun	17
 dla	sconanza	17
-sambëgn	ince	17
 lascé	alsavëi	17
 ciamó	n	17
 é	por	17
@@ -2926,7 +2941,6 @@ al	me	17
 de	messel	17
 l	tema	17
 de	njonta	17
-l	possa	17
 tout	la	17
 fova	da	17
 da	foradecà	17
@@ -2951,6 +2965,7 @@ de	musiga	17
 le	consëi	17
 vita	di	17
 dl	artejanat	17
+laora	tl	17
 en	lönesc	17
 dantadöt	por	17
 gröm	de	17
@@ -2970,7 +2985,6 @@ copa	dl	17
 la	fundamënta	17
 l	model	17
 ti	agn	17
-re	de	17
 i	é	17
 svilupé	inant	17
 na	udleda	17
@@ -3109,6 +3123,7 @@ trëi	agn	16
 mo	de	16
 ne	po	16
 tratan	le	16
+de	te	16
 publica	y	16
 l	fej	16
 vester	n	16
@@ -3128,6 +3143,7 @@ dà	na	16
 por	chësta	16
 n	model	16
 les	assoziaziuns	16
+sambëgn	ince	16
 chël	ó	16
 sciöche	le	16
 en	forza	16
@@ -3162,6 +3178,7 @@ a	bon	16
 dess	vegnì	16
 inò	a	16
 mé	de	16
+l	possa	16
 la	bria	16
 sia	identité	16
 dla	comunité	16
@@ -3319,7 +3336,6 @@ di	media	16
 de	otober	16
 de	frea	16
 piera	da	16
-le	re	16
 i	obietifs	16
 chestion	dl	16
 avei	na	16
@@ -3387,6 +3403,7 @@ per	mëter	15
 scrit	ite	15
 ie	é	15
 na	dumanda	15
+drë	de	15
 nosta	bela	15
 y	ulache	15
 do	da	15
@@ -3394,7 +3411,6 @@ ne	me	15
 dé	de	15
 nia	te	15
 nia	le	15
-de	te	15
 la	speranza	15
 de	gragn	15
 che	nos	15
@@ -3477,12 +3493,14 @@ por	ciafé	15
 da	encuei	15
 do	le	15
 n	problem	15
+te	val	15
 al	nes	15
 tres	indô	15
 la	presentaziun	15
 él	vegnú	15
 santa	lizia	15
 cialan	de	15
+de	sant	15
 dant	i	15
 plü	avisa	15
 plü	de	15
@@ -3575,6 +3593,7 @@ dlongia	la	15
 à	sapù	15
 tré	ite	15
 ca	la	15
+vel	un	15
 dl	gag	15
 di	do	15
 da	iló	15
@@ -4082,6 +4101,7 @@ a	chela	13
 region	trentin-südtirol	13
 jì	l	13
 adum	la	13
+pervia	dl	13
 l	sibe	13
 se	merita	13
 situazion	politica	13
@@ -4224,6 +4244,7 @@ tratan	i	13
 grups	etnics	13
 tigní	cunt	13
 n	aiut	13
+nia	drë	13
 jonëza	y	13
 se	ghira	13
 plates	internet	13
@@ -4612,6 +4633,7 @@ de	lëgn	12
 se	tenì	12
 a	fin	12
 na	dita	12
+le	dër	12
 an	adora	12
 i	contribuc	12
 dl	prim	12
@@ -4961,7 +4983,6 @@ pa	le	11
 na	strategia	11
 fat	a	11
 al	grup	11
-n	pue	11
 mond	y	11
 ince	chësc	11
 ti	tol	11
@@ -5063,6 +5084,7 @@ da	en	11
 i	ultims	11
 net	nia	11
 miec	y	11
+y	todesc	11
 nia	cis	11
 su	con	11
 l	radio	11
@@ -5193,6 +5215,7 @@ por	mioré	11
 l	minister	11
 dl	juech	11
 dé	ite	11
+n	con	11
 la	dumënia	11
 pertes	dla	11
 mumënc	de	11
@@ -5237,6 +5260,7 @@ iel	per	11
 n	chëla	11
 si	sor	11
 situazion	di	11
+te	vel	11
 dà	l	11
 ferata	o	11
 dl	corp	11
@@ -5294,6 +5318,7 @@ ai	mutons	11
 svp	y	11
 do	ai	11
 l	lën	11
+per	vel	11
 dalonc	da	11
 la	peves	11
 la	nuet	11
@@ -5441,6 +5466,7 @@ damandé	do	10
 de	crëta	10
 numer	di	10
 de	giapé	10
+l	drë	10
 da	fundamënt	10
 muet	de	10
 ala	persones	10
@@ -5492,6 +5518,8 @@ che	pra	10
 al	segondo	10
 na	mesura	10
 se	sënt	10
+n	po	10
+po	se	10
 adum	l	10
 dl	vedl	10
 for	na	10
@@ -5520,6 +5548,7 @@ strategia	de	10
 de	döt	10
 avisa	la	10
 rënder	cont	10
+pue	de	10
 me	feji	10
 importanza	de	10
 n	turism	10
@@ -5677,6 +5706,7 @@ contribut	a	10
 i	proscimi	10
 por	porsones	10
 da	gnì	10
+y	val	10
 n	monn	10
 y	gran	10
 desvalies	y	10
@@ -5813,7 +5843,6 @@ plu	sortes	10
 dis	dan	10
 richard	agreiter	10
 artistich	de	10
-de	esperc	10
 da	esperc	10
 les	possa	10
 prim	var	10
@@ -6183,6 +6212,7 @@ a	me	9
 valch	che	9
 por	me	9
 mo	ara	9
+n	te	9
 dà	n	9
 trata	nia	9
 de	fà	9
@@ -6354,7 +6384,6 @@ ince	en	9
 internet	y	9
 cina	a	9
 y	fosch	9
-te	val	9
 medem	tëmp	9
 deache	la	9
 i	mëmbri	9
@@ -6519,6 +6548,7 @@ cina	al	9
 de	zirca	9
 de	viena	9
 l	frut	9
+de	esperc	9
 stlù	ora	9
 diretëur	dla	9
 cunsëi	regiunel	9
@@ -6787,6 +6817,7 @@ ti	dajan	9
 di	tëmps	9
 toca	pra	9
 bën	nce	9
+n	drë	9
 fossa	plu	9
 ani	plu	9
 pudëi	ti	9
@@ -6957,7 +6988,6 @@ politich	ladins	9
 amisc	dla	9
 la	rejoneda	9
 dl	laour	9
-la	ll	9
 plu	iadesc	9
 indenité	de	9
 n	comun	9
@@ -7102,6 +7132,7 @@ dla	parora	8
 à	podü	8
 al	gnarà	8
 se	aspeta	8
+pü	de	8
 la	dorada	8
 max	castlunger	8
 adöm	al	8
@@ -7331,6 +7362,7 @@ nes	lascia	8
 jí	ite	8
 so	contribut	8
 la	utia	8
+cin	valedes	8
 l	digan	8
 prejenté	n	8
 pro	vigni	8
@@ -7471,6 +7503,7 @@ da	pitl	8
 cruzia	de	8
 prejentà	n	8
 fova	stat	8
+la	cin	8
 fé	y	8
 dedicheda	a	8
 ora	mo	8
@@ -7498,6 +7531,7 @@ y	proiec	8
 dl	livel	8
 de	plantes	8
 na	rëi	8
+posc	de	8
 y	col	8
 facolté	de	8
 les	capazités	8
@@ -7516,6 +7550,7 @@ cun	chëi	8
 fata	dal	8
 fova	chëla	8
 vester	la	8
+val	y	8
 de	bierjun	8
 o	miec	8
 l	euregiofamilypass	8
@@ -7612,6 +7647,7 @@ cun	rëmes	8
 alexander	demetz	8
 pra	chisc	8
 se	tratovela	8
+miec	che	8
 duc	si	8
 aut	de	8
 pudù	fé	8
@@ -7629,7 +7665,6 @@ laur	fat	8
 fin	dl'edema	8
 a	nia	8
 les	ressurses	8
-mile	euro	8
 suvënz	nce	8
 n	giapa	8
 de	aministrazion	8
@@ -7977,6 +8012,7 @@ nduneda	plenera	8
 si	usc	8
 eserzité	si	8
 a	email	8
+tl	ert	8
 dl	passé	8
 tres	email	8
 gran	itiosaur	8
@@ -8125,6 +8161,7 @@ proteziun	di	7
 modalités	de	7
 de	gestiun	7
 it	y	7
+referimënt	al	7
 a	terzi	7
 dà	dant	7
 posta	eletronica	7
@@ -8160,8 +8197,6 @@ nce	ëila	7
 arjont	la	7
 l	proscimo	7
 ciantarins	y	7
-n	po	7
-po	se	7
 dant	plu	7
 y	gherdëina	7
 cunsëi	nuef	7
@@ -8201,7 +8236,6 @@ fat	le	7
 i	feji	7
 ala	porsona	7
 gnü	dè	7
-bel	dî	7
 pa	n	7
 i	va	7
 insegnamënt	dla	7
@@ -8278,7 +8312,6 @@ possen	pa	7
 a	maië	7
 energia	y	7
 sada	y	7
-esperc	dla	7
 i	ueves	7
 l	culëur	7
 perchël	nce	7
@@ -8674,6 +8707,7 @@ de	retlam	7
 dac	y	7
 devënta	for	7
 lëur	fat	7
+a	vel	7
 demetz	de	7
 stefan	planker	7
 si	rujeneda	7
@@ -8732,7 +8766,6 @@ si	maniera	7
 la	carateristiches	7
 raport	de	7
 se	cunfrunté	7
-n	con	7
 culturela	imateriela	7
 la	cunlaurazion	7
 radio	gherdëina	7
@@ -9007,6 +9040,7 @@ vëniel	nce	7
 la	tlasses	7
 dat	inant	7
 dala	gran	7
+vel	una	7
 on	udù	7
 mo	mei	7
 la	pruzescion	7
@@ -9029,9 +9063,9 @@ pona	inò	7
 a	sud	7
 i	cater	7
 à	mparà	7
-nia	al	7
 tl	mer	7
 zità	de	7
+y	vel	7
 bon	ciaut	7
 l	dlacier	7
 tëut	dant	7
@@ -9175,7 +9209,6 @@ per	chëles	7
 n	ruf	7
 nia	saurida	7
 ite	ti	7
-de	mendranzes	7
 souramont	à	7
 bujëns	dla	7
 vallazza	ie	7
@@ -9197,7 +9230,6 @@ fin	é	7
 obietifs	y	7
 evaluazion	da	7
 parlament	europeich	7
-la	ue	7
 dla	comiscion	7
 ence	chel	7
 les	regions	7
@@ -9255,6 +9287,7 @@ na	tradizion	7
 pro	ala	7
 n	dependënt	7
 le	coliamënt	7
+ie	po	7
 ie	suzedù	7
 natura	che	7
 tò	ca	7
@@ -9335,6 +9368,7 @@ la	fancela	7
 mpo	no	7
 ova	inuem	7
 speranza	de	7
+de	vel	7
 unì	ju	7
 nuef	la	7
 la	capaziteies	7
@@ -9342,7 +9376,6 @@ lista	dles	7
 plataformes	carbonatiches	7
 region	trentin-sudtirol	7
 de	cumëmbri	7
-de	dî	7
 aspec	de	7
 nuef	sun	7
 usc	che	7
@@ -9421,6 +9454,7 @@ ofize	provinzial	7
 lijëndes	ladines	7
 popul	ladin	7
 l	romantizism	7
+dl	ert	7
 gherdëina	tl	7
 a	col	7
 nia	cie	7
@@ -9428,7 +9462,6 @@ les	brosciüres	7
 la	nduneda	7
 di	cunselieres	7
 de	cunselier	7
-tl	ert	7
 l	spirt	7
 pascion	da	7
 i	draps	7
@@ -9737,7 +9770,6 @@ bona	y	6
 inant	ie	6
 ala	prima	6
 na	destanza	6
-in	den	6
 ani	dan	6
 sun	ti	6
 cherdà	ite	6
@@ -9770,8 +9802,8 @@ che	tröc	6
 nët	nia	6
 é	poscibl	6
 ne	ves	6
-n	te	6
 à	dè	6
+a	val	6
 y	ares	6
 dl	hotel	6
 plan	y	6
@@ -9896,6 +9928,7 @@ la	fiera	6
 de	cuatieres	6
 edizion	dla	6
 tematica	dl	6
+esperc	dla	6
 web	dl	6
 protocol	parola	6
 per	parola	6
@@ -10729,9 +10762,11 @@ chësc	vel	6
 sensibilisé	i	6
 tëmps	da	6
 de	sanité	6
+cun	düc	6
 via	dl	6
 an	pudù	6
 à	scialdi	6
+mile	euro	6
 desposizion	per	6
 unì	tenì	6
 tla	grupa	6
@@ -10757,7 +10792,6 @@ arjonje	chest	6
 comité	de	6
 dess	ti	6
 al	lingaz	6
-ad	hoc	6
 di	raprejentanc	6
 nce	sciche	6
 degré	y	6
@@ -10824,7 +10858,6 @@ da	cie	6
 da	maridé	6
 de	svilupé	6
 troi	che	6
-per	vel	6
 bel	che	6
 bel	post	6
 abinà	na	6
@@ -10847,6 +10880,8 @@ mont	su	6
 sa	la	6
 ben	la	6
 da	savëi	6
+nia	al	6
+fé	vel	6
 on	metù	6
 trëi	mutans	6
 rì	y	6
@@ -10995,6 +11030,7 @@ propi	tla	6
 tieres	de	6
 renunzié	a	6
 i	consëis	6
+de	cin	6
 i	montli	6
 sá	nia	6
 chir	fora	6
@@ -11073,6 +11109,7 @@ sibe	te	6
 á	lascé	6
 lascé	fá	6
 de	dert	6
+de	mendranzes	6
 la	problematica	6
 per	souravive	6
 te	anpezo	6
@@ -11135,6 +11172,7 @@ de	sureghes	6
 dantaldut	dla	6
 l	guant	6
 scumenciadiva	de	6
+à	po	6
 pert	te	6
 dumanda	y	6
 la	dé	6
@@ -11278,6 +11316,7 @@ si	cumpetënza	6
 mudé	i	6
 nöia	dla	6
 dret	bel	6
+i	turisc	6
 l	pice	6
 contest	de	6
 al	ambolt	6
@@ -11300,6 +11339,7 @@ se	spustova	6
 mé	sun	6
 dolomites	de	6
 la	piera	6
+mé	drë	6
 cuntac	cun	6
 n	fajova	6
 de	sanch	6
@@ -11416,6 +11456,7 @@ vën	fac	6
 produc	che	6
 al	fej	6
 ince	canche	6
+val	che	6
 fé	deventé	6
 dla	mostres	6
 dala	pandemia	6
@@ -11565,6 +11606,7 @@ santificazion	dl	6
 ojöp	freinademetz	6
 entratant	i	6
 na	iniziativa	6
+todesc	te	6
 tol	posizion	6
 l	vicar	6
 daidé	pro	6
@@ -11724,7 +11766,6 @@ tla	chestion	6
 les	seides	6
 la	fuev	6
 respet	a	6
-éla	pa	6
 àla	for	6
 bera	konrad	6
 direzions	raioneles	6
@@ -11914,7 +11955,6 @@ resultat	arjont	5
 chësc	ultim	5
 lecurdon	che	5
 dl	calënder	5
-sculees	b	5
 à	batù	5
 se	candidé	5
 inant	dal	5
@@ -11950,7 +11990,6 @@ zu	einem	5
 ajache	truepa	5
 nia	dal	5
 ufize	dl	5
-y	po	5
 l	unich	5
 sa	nia	5
 ie	iust	5
@@ -12061,7 +12100,6 @@ l	finanziamënt	5
 cun	cherta	5
 autorità	de	5
 la	proes	5
-mpede	la	5
 dëssel	unì	5
 nchin	ncuei	5
 da	coche	5
@@ -12179,6 +12217,7 @@ ie	mei	5
 mei	stat	5
 prinzips	dla	5
 autonomia	da	5
+dërt	dl	5
 propi	perchël	5
 chësc	dërt	5
 union	de	5
@@ -12298,6 +12337,7 @@ ma	se	5
 plu	gen	5
 sie	pice	5
 ativités	y	5
+jornalisc	de	5
 é	tles	5
 sie	idiom	5
 vantaje	per	5
@@ -12476,6 +12516,7 @@ cultura	di	5
 liber	da	5
 dles	majeres	5
 mituns	dles	5
+cin	valades	5
 valades	y	5
 ladin	en	5
 é	valch	5
@@ -12526,7 +12567,6 @@ scrić	ite	5
 liber	cun	5
 pëia	ia	5
 baia	de	5
-y	val	5
 dla	leteratöra	5
 pice	liber	5
 i	dessëgns	5
@@ -12586,6 +12626,7 @@ dl	fotoclub	5
 ma	chilò	5
 dedô	él	5
 inant	de	5
+tesc	de	5
 y	so	5
 dles	atres	5
 pli	de	5
@@ -12631,7 +12672,6 @@ post	che	5
 n	col	5
 raiun	de	5
 dles	liëndes	5
-tl	edl	5
 nos	ia	5
 na	esperiënza	5
 ntenzion	de	5
@@ -12765,7 +12805,6 @@ particulariteies	dla	5
 fin	iel	5
 de	proietazion	5
 pedagogich	ladin	5
-für	den	5
 adoré	per	5
 la	direzions	5
 gramatica	dl	5
@@ -12830,7 +12869,6 @@ a	metù	5
 rujenà	dla	5
 moroder	a	5
 calënder	de	5
-te	cunsëi	5
 do	cun	5
 nteres	y	5
 la	butëiga	5
@@ -12880,7 +12918,6 @@ confins	fora	5
 ladines	dles	5
 ciamó	da	5
 cina	la	5
-tan	dî	5
 mëss	le	5
 les	funziuns	5
 vëgn	tigní	5
@@ -12907,7 +12944,6 @@ scëmples	y	5
 material	linguistich	5
 por	cherié	5
 rëi	de	5
-posc	de	5
 adöm	te	5
 él	por	5
 tëmp	danter	5
@@ -12916,7 +12952,6 @@ dles	alpes	5
 de	pices	5
 chësc	sistem	5
 le	mantignimënt	5
-ri	da	5
 i	bojëgns	5
 lauré	por	5
 gní	adoré	5
@@ -12993,6 +13028,7 @@ per	cunëscer	5
 trá	ite	5
 mantigní	la	5
 forma	che	5
+fat	vel	5
 la	ublianza	5
 pudëssa	avëi	5
 nce	unit	5
@@ -13051,6 +13087,7 @@ saut	de	5
 val	di	5
 la	relazions	5
 su	nce	5
+nce	mpue	5
 tla	rujeneda	5
 caji	te	5
 a	truep	5
@@ -13092,6 +13129,7 @@ a	bën	5
 iede	na	5
 for	da	5
 di	la	5
+medemo	vel	5
 paiamënt	y	5
 ajache	n	5
 atuel	y	5
@@ -13259,6 +13297,7 @@ rie	a	5
 y	partezipanc	5
 la	distanza	5
 da	coi	5
+pra	vel	5
 àl	fat	5
 bel	tëmp	5
 ndut	iel	5
@@ -13370,7 +13409,6 @@ ert	te	5
 liedia	y	5
 nueva	che	5
 soziei	y	5
-vel	una	5
 la	tré	5
 na	zità	5
 l	stil	5
@@ -13463,6 +13501,7 @@ la	me	5
 deguna	lerch	5
 per	fermé	5
 de	degun	5
+canada	goose	5
 de	ideies	5
 i	litadëures	5
 viv	a	5
@@ -13971,7 +14010,6 @@ na	crisa	5
 ite	duta	5
 lauré	tl	5
 respet	de	5
-ie	po	5
 nosta	grupa	5
 vijions	per	5
 è	un	5
@@ -14057,6 +14095,7 @@ strutures	che	5
 dé	ala	5
 sun	coche	5
 te	puec	5
+nce	vel	5
 y	ciuldì	5
 che	manacia	5
 possa	bën	5
@@ -14190,6 +14229,7 @@ dl	latemar	5
 le	contignü	5
 dl	mangé	5
 lukas	plancker	5
+val	te	5
 ie	reprejentedes	5
 dla	trëi	5
 eserzize	de	5
@@ -14234,6 +14274,7 @@ zona	tarifera	5
 de	fede	5
 ruvé	te	5
 la	mascra	5
+val	a	5
 le	variöl	5
 picera	muntagnola	5
 mont	che	5
@@ -14438,7 +14479,6 @@ sauté	fora	5
 damané	de	5
 dezijions	dla	5
 che	raprejenteia	5
-dl	ert	5
 montes	y	5
 maniera	ne	5
 di	viages	5
@@ -14527,6 +14567,7 @@ ite	duc	5
 de	proposta	5
 pò	daidé	5
 i	liams	5
+di	tesc	5
 la	ocajion	5
 ence	aldidancuei	5
 da	urtijei	5
@@ -14646,7 +14687,6 @@ usc	a	5
 ti	fajan	5
 storia	dl'autonomia	5
 y	nsenianc	5
-provinziela	dr	5
 y	autres	5
 l	maiour	5
 ne	fòvel	5
@@ -14891,6 +14931,7 @@ y	bojëgns	4
 a	vo	4
 de	tennis	4
 nosc	bel	4
+dé	vel	4
 ajache	me	4
 pass	ie	4
 sun	duc	4
@@ -14986,7 +15027,6 @@ respunsabla	per	4
 servisc	che	4
 y	auzé	4
 sun	ciuna	4
-dl	d	4
 scrita	te	4
 tesć	y	4
 le	reconescimënt	4
@@ -15076,7 +15116,6 @@ ie	donca	4
 sport	de	4
 ju	dantaldut	4
 garejeda	che	4
-categuria	b	4
 chëst'ena	passeda	4
 fat	plu	4
 dl	resultat	4
@@ -15114,8 +15153,6 @@ coche	dit	4
 scialir	plu	4
 chësc	de	4
 in	riga	4
-bei	den	4
-und	den	4
 legrëza	a	4
 se	nuté	4
 mostra	si	4
@@ -15178,11 +15215,13 @@ chësta	cossa	4
 nia	insciö	4
 dè	la	4
 te	hotel	4
+val	da	4
 porsones	dla	4
 la	cëna	4
 da	limité	4
 pa	avëi	4
 le	pinsier	4
+na	te	4
 i	dè	4
 jënt	se	4
 che	tolarà	4
@@ -15225,7 +15264,6 @@ dla	stlüta	4
 feji	degöna	4
 degöna	morvëia	4
 morvëia	che	4
-i	ùn	4
 stima	y	4
 da	ca	4
 se	destaca	4
@@ -15291,6 +15329,7 @@ al	standard	4
 n	prodot	4
 lonc	per	4
 dassëssa	nia	4
+mpede	la	4
 cualità	per	4
 a	cëria	4
 dla	zitadines	4
@@ -15340,7 +15379,6 @@ gnì	tut	4
 düć	chi	4
 tema	y	4
 sotrissëia	che	4
-an	ô	4
 dla	proposta	4
 se	chirì	4
 situaziun	dl	4
@@ -15431,6 +15469,7 @@ la	pista	4
 le	fligher	4
 na	strotöra	4
 sun	y	4
+vel	te	4
 da	susc	4
 i	messëis	4
 él	dagnora	4
@@ -15626,7 +15665,7 @@ uega	per	4
 ruvé	al	4
 autorités	politiches	4
 y	projec	4
-jornalisc	de	4
+i	jornalisc	4
 provinzial	ladin	4
 posć	che	4
 identité	te	4
@@ -15676,7 +15715,6 @@ sic	web	4
 pó	ti	4
 dignité	dla	4
 personala	y	4
-da	lí	4
 mëss	la	4
 de	laurs	4
 o	dé	4
@@ -15759,7 +15797,6 @@ debojëgn	dl	4
 so	referat	4
 la	chestiun	4
 ince	dër	4
-al	esist	4
 porcënt	dla	4
 ince	che	4
 cultures	y	4
@@ -15971,7 +16008,6 @@ pici	mutons	4
 damprò	a	4
 porté	i	4
 a	vegnì	4
-l	dr	4
 corì	les	4
 reconesciment	dla	4
 ladins	desche	4
@@ -15979,6 +16015,7 @@ na	poscibelté	4
 adoré	ence	4
 piesc	y	4
 i	speron	4
+i	posc	4
 chësta	ediziun	4
 la	fotografia	4
 tröc	é	4
@@ -16082,7 +16119,6 @@ standard	cualitatifs	4
 deache	chësc	4
 liberté	y	4
 na	maiú	4
-insciö	ái	4
 de	azeté	4
 i	sá	4
 i	detais	4
@@ -16155,7 +16191,6 @@ iade	te	4
 plena	de	4
 de	cheles	4
 ciamò	encuei	4
-dl	re	4
 les	ganes	4
 à	conté	4
 y	fora	4
@@ -16242,6 +16277,7 @@ a	dumandes	4
 trata	la	4
 rujenà	cun	4
 esperta	de	4
+dl	università	4
 danter	duc	4
 se	nteressea	4
 tres	nosta	4
@@ -16351,7 +16387,7 @@ ulon	nce	4
 a	a	4
 fata	a	4
 vën	uni	4
-a	vel	4
+te	cunsëi	4
 mond	te	4
 ududes	dant	4
 vijita	dl	4
@@ -16364,7 +16400,6 @@ l	cumisser	4
 n	cunvëni	4
 de	nrescides	4
 y	lëura	4
-la	cin	4
 valeda	per	4
 coche	chisc	4
 i	jiva	4
@@ -16464,7 +16499,6 @@ ejam	vëgn	4
 trami	i	4
 te	internet	4
 sö	les	4
-dan	g	4
 dl	paîsc	4
 paîsc	de	4
 de	coliamënt	4
@@ -16559,6 +16593,7 @@ lëura	te	4
 unides	a	4
 vën	plu	4
 moroder	che	4
+con	dla	4
 danila	serafini	4
 daria	valentin	4
 valentin	che	4
@@ -16806,7 +16841,6 @@ or	tl	4
 n	möt	4
 tó	para	4
 de	daurì	4
-ô	ester	4
 i	jun	4
 possen	cun	4
 furnea	debant	4
@@ -17041,7 +17075,6 @@ ejm	post	4
 post	a	4
 a	bruneck	4
 jëuna	de	4
-pra	vel	4
 pià	via	4
 iede	pra	4
 nce	inant	4
@@ -17176,7 +17209,6 @@ nchin	su	4
 permò	cun	4
 se	cialé	4
 sensazion	de	4
-de	lus	4
 da	ann	4
 a	ann	4
 l	spiedl	4
@@ -17340,6 +17372,7 @@ tosc	ruvei	4
 y	ruvé	4
 do	marënda	4
 iesi	jic	4
+o	vel	4
 se	damandova	4
 dla	hutia	4
 nchina	a	4
@@ -17512,7 +17545,6 @@ debota	y	4
 de	banda	4
 gran	mudaziuns	4
 sá	da	4
-dî	y	4
 ie	nasciudes	4
 lascé	de	4
 chësc	tl	4
@@ -17786,7 +17818,6 @@ la	njonta	4
 de	auta	4
 val	debujën	4
 ie	deventeda	4
-esm	secul	4
 a	priori	4
 l	lim	4
 chiche	ne	4
@@ -17818,10 +17849,10 @@ gherdëina	da	4
 dl	diare	4
 jëunes	de	4
 à	chesta	4
+cun	cin	4
 purté	ora	4
 perchël	fova	4
 ben	y	4
-n	drë	4
 y	genitores	4
 chisc	mutons	4
 l	lascia	4
@@ -18311,6 +18342,7 @@ tan	grant	4
 unì	svilupà	4
 la	dates	4
 scomenciadia	dl	4
+ciao	maroc	4
 nöies	cun	4
 chëstes	é	4
 introduziun	dl	4
@@ -18337,7 +18369,6 @@ trëi	de	4
 implant	portamont	4
 les	pistes	4
 ala	và	4
-i	turisc	4
 de	dificolté	4
 tamben	da	4
 classes	y	4
@@ -18405,7 +18436,6 @@ autramënter	che	4
 dla	sëites	4
 lames	de	4
 univel	fat	4
-dan	za	4
 n	bosch	4
 i	troies	4
 o	di	4
@@ -18413,7 +18443,6 @@ tl	ambient	4
 che	tlo	4
 n	adurvova	4
 cërn	y	4
-la	pel	4
 la	sostes	4
 de	plan	4
 gran	puron	4
@@ -18428,7 +18457,6 @@ do	cëina	4
 abiné	i	4
 i	plans	4
 sota	i	4
-per	za	4
 tëmps	che	4
 per	smendrì	4
 che	purtova	4
@@ -18508,7 +18536,6 @@ l	cramer	4
 mut	y	4
 se	pënsa	4
 se	nfidova	4
-de	vel	4
 ma	do	4
 nëif	che	4
 da	ulëta	4
@@ -18559,7 +18586,6 @@ de	magnesium	4
 unì	la	4
 delibra	dla	4
 publicaziun	nöia	4
-ute	senoner	4
 inće	a	4
 ti	trasmëte	4
 families	por	4
@@ -18595,7 +18621,6 @@ le	vizepresidënt	4
 y	tudëscia	4
 al	gniss	4
 a	mutans	4
-la	lun	4
 daujin	da	4
 fac	y	4
 dl	nücënt	4
@@ -18671,6 +18696,7 @@ organisé	na	4
 majera	colaborazion	4
 bele	abù	4
 tl	lech	4
+i	ghesc	4
 dl	pd	4
 dolomites	con	4
 en	raprejentanza	4
@@ -18689,6 +18715,7 @@ l	mandat	4
 tant	ben	4
 à	sciche	4
 dlongia	a	4
+de	posc	4
 senta	a	4
 comun	a	4
 regn	de	4
@@ -18722,7 +18749,6 @@ dut	adum	4
 prufesciunela	per	4
 manco	jëuni	4
 possa	scrì	4
-ejim	y	4
 l	pan	4
 mubiltà	daniel	4
 ala	mpreja	4
@@ -19008,7 +19034,6 @@ tenì	ala	4
 dla	posta	4
 no	nia	4
 de	piun	4
-km	che	4
 dagnora	a	4
 fá	le	4
 ores	a	4
@@ -19303,7 +19328,6 @@ de	börz	4
 touta	ite	4
 trei	agn	4
 di	temps	4
-eisem	secul	4
 fins	furmatifs	4
 ativiteies	y	4
 pudëi	liejer	4
@@ -19370,7 +19394,6 @@ strutures	y	4
 informazion	y	4
 uel	tò	4
 di	internazionel	4
-crist	re	4
 la	benedescion	4
 de	crist	4
 metù	ite	4
@@ -19414,7 +19437,6 @@ davertes	y	4
 con	ei	4
 dantfora	da	4
 veid	ite	4
-ne	ae	4
 y	dì	4
 savei	cie	4
 nosc	digan	4
@@ -19596,7 +19618,6 @@ les	mesures	4
 stedes	les	4
 dla	fondazion	4
 aladò	dles	4
-la	ati	4
 al	rondenesc	4
 barbara	kostner	4
 negatives	dla	4
@@ -19896,6 +19917,7 @@ i	mandli	4
 nchin	la	4
 anda	herta	4
 anda	mariele	4
+po	nce	4
 ani	àla	4
 i	crisć	4
 cieche	l	4
@@ -19909,6 +19931,7 @@ impulsc	sön	4
 paula	pitscheider	4
 si	mandli	4
 for	ziplà	4
+po	ti	4
 de	zittau	4
 di	draps	4
 śën	inant	4
@@ -19992,6 +20015,7 @@ banca	dates	3
 a	svilups	3
 bel	sport	3
 jì	deberieda	3
+vel	cunsëi	3
 nosta	atività	3
 nosc	cumëmbri	3
 cumpedei	su	3
@@ -20090,7 +20114,6 @@ via	dai	3
 iede	n	3
 mustrà	ca	3
 recunescimënt	che	3
-che	vel	3
 iel	assé	3
 da	almanco	3
 mëns	a	3
@@ -20105,7 +20128,6 @@ i	ciafëis	3
 dla	levines	3
 comunicac	stampa	3
 despusizion	la	3
-sù	la	3
 unì	prejentedes	3
 sciafer	o	3
 ie	respunsabli	3
@@ -20191,6 +20213,7 @@ nseniamënt	clil	3
 an	bele	3
 prima	esperienzes	3
 metuda	n	3
+vel	l	3
 patrons	de	3
 luna	ora	3
 ma	nchin	3
@@ -20230,7 +20253,6 @@ man	o	3
 anuzadus	da	3
 nia	adorè	3
 cookies	por	3
-ô	dì	3
 de	sesciun	3
 se	perd	3
 la	navigaziun	3
@@ -20261,7 +20283,6 @@ meterà	a	3
 plu	manifestazions	3
 manifestazions	a	3
 che	vela	3
-b	y	3
 na	prestazion	3
 arjonta	ie	3
 che	fajerà	3
@@ -20421,8 +20442,8 @@ dessigü	inće	3
 ne	capësc	3
 capësc	nia	3
 che	vëiga	3
+te	dé	3
 la	scincunda	3
-dî	nes	3
 i	dà	3
 tl	chît	3
 monn	olache	3
@@ -20434,7 +20455,6 @@ de	ći	3
 ares	à	3
 dla	belëza	3
 aumënt	de	3
-n	pü	3
 y	devertimënt	3
 che	ëra	3
 tuta	sö	3
@@ -20494,7 +20514,6 @@ y	respet	3
 se	giustifiché	3
 se	daudé	3
 che	ven	3
-me	sal	3
 n	sibe	3
 son	segur	3
 sen	nia	3
@@ -20598,7 +20617,6 @@ cuntenut	dl	3
 che	cuntën	3
 di	proscimi	3
 proscimi	cin	3
-cin	ani	3
 se	rënd	3
 mëter	ite	3
 dumandes	n	3
@@ -20848,6 +20866,7 @@ dal	iade	3
 jí	tl	3
 atoché	da	3
 n	comerziant	3
+da	cin	3
 auto	a	3
 valur	dla	3
 cis	de	3
@@ -21069,7 +21088,6 @@ les	aspirazions	3
 fat	ne	3
 nia	puec	3
 dì	fora	3
-i	jornalisc	3
 sie	partit	3
 decret	dla	3
 cie	se	3
@@ -21279,6 +21297,7 @@ insciö	nia	3
 dla	caritas	3
 paisc	dl	3
 y	dailó	3
+al	esist	3
 laur	o	3
 porcënt	di	3
 di	movimënc	3
@@ -21414,6 +21433,7 @@ maria	pezzedi	3
 medem	momënt	3
 jüch	de	3
 da	interpreté	3
+da	val	3
 bunes	da	3
 ne	podunse	3
 tëmp	na	3
@@ -21453,7 +21473,6 @@ salpü	da	3
 dé	so	3
 dolomites	él	3
 metú	man	3
-cin	valedes	3
 passés	a	3
 region	trentin	3
 generela	milva	3
@@ -21629,7 +21648,6 @@ n	personaje	3
 cui	schi	3
 ater	punt	3
 monn	de	3
-tesc	de	3
 de	religiun	3
 nezesciares	por	3
 consëi	o	3
@@ -21705,6 +21723,7 @@ chir	n	3
 politich	é	3
 burt	y	3
 alta	badia	3
+bur	tëmp	3
 tëmp	passé	3
 chi	é	3
 pa	chisc	3
@@ -21765,7 +21784,6 @@ comié	da	3
 la	sensaziun	3
 na	contrada	3
 mo	tl	3
-con	de	3
 la	fermeda	3
 sëni	dla	3
 la	ntenzion	3
@@ -21798,6 +21816,7 @@ i	details	3
 n	prisc	3
 la	sora	3
 mai	na	3
+sciöche	val	3
 i	tëgni	3
 ala	cualité	3
 design	y	3
@@ -21843,6 +21862,7 @@ per	bën	3
 trëi	servijes	3
 maniera	strënta	3
 levines	y	3
+val	manira	3
 permez	ai	3
 do	ce	3
 i	chilometri	3
@@ -21986,7 +22006,6 @@ fossa	de	3
 maiuranza	de	3
 bilanz	dl	3
 sun	pana	3
-tlap	de	3
 de	beliscimi	3
 ani	udon	3
 ruveda	segonda	3
@@ -22166,7 +22185,6 @@ aldò	dles	3
 carateristiches	dla	3
 veiden	che	3
 encuei	de	3
-ela	à	3
 nuzeda	sciche	3
 y	provedimenc	3
 colaborazion	de	3
@@ -22204,6 +22222,7 @@ a	pona	3
 ewald	moroder	3
 cumité	per	3
 cuntënc	che	3
+vel	maniera	3
 ti	a	3
 demetz	che	3
 nscila	la	3
@@ -22269,6 +22288,8 @@ chësc	post	3
 dla	tofles	3
 i	singui	3
 la	mauta	3
+cun	vel	3
+vel	ejëmpl	3
 cm	de	3
 for	i	3
 propi	sun	3
@@ -22405,6 +22426,7 @@ te	grups	3
 tëmp	mesan	3
 tiers	salvari	3
 porsona	plü	3
+ti	posc	3
 sot	les	3
 vëgn	adorades	3
 adorades	por	3
@@ -22426,7 +22448,6 @@ de	mosoraziun	3
 prinzipales	de	3
 le	col	3
 plü	vedla	3
-dër	ri	3
 dla	profesciun	3
 lëdia	de	3
 pedagogia	soziala	3
@@ -22576,7 +22597,6 @@ lerch	tl	3
 mujiga	che	3
 dla	giaurida	3
 defati	de	3
-con	dla	3
 tradizion	orala	3
 orala	ladina	3
 to	n	3
@@ -22802,7 +22822,6 @@ unì	vendudes	3
 chësta	norma	3
 nia	respeteda	3
 la	unes	3
-te	vel	3
 local	dl	3
 cura	di	3
 agenzies	de	3
@@ -23232,12 +23251,10 @@ iel	ruvà	3
 mo	dala	3
 fadies	y	3
 auter	a	3
-ti	ste	3
 terzi	dla	3
 metri	ti	3
 terzo	y	3
 lëur	ti	3
-a	cles	3
 di	non	3
 mieur	o	3
 gran	sodisfazion	3
@@ -23362,6 +23379,7 @@ la	nasciüda	3
 de	presënza	3
 furnei	inant	3
 tëmp	nia	3
+vel	nfurmazion	3
 de	pelegrinaje	3
 plajù	ai	3
 davani	de	3
@@ -23639,7 +23657,6 @@ ucajions	defrëntes	3
 tradizions	che	3
 la	particulariteies	3
 generazion	a	3
-a	generazion	3
 ancunteda	de	3
 santuer	de	3
 pruzescion	de	3
@@ -23675,7 +23692,6 @@ coche	mé	3
 a	vëncer	3
 storia	fata	3
 n	blot	3
-vel	un	3
 an	mo	3
 gag	a	3
 ai	mo	3
@@ -23683,6 +23699,7 @@ a	pera	3
 jan	sun	3
 cun	calma	3
 che	fan	3
+po	do	3
 bus	che	3
 se	purtova	3
 ncunferton	bel	3
@@ -23779,15 +23796,16 @@ mumënc	plu	3
 al	dat	3
 de	set	3
 ma	dant	3
+po	mo	3
 nscila	de	3
 y	pudova	3
 esperiënzes	fates	3
+po	ënghe	3
 se	fermé	3
 la	ries	3
 univel	mo	3
 mo	jit	3
 pernanche	l	3
-y	vel	3
 n	lonch	3
 coche	for	3
 se	dessené	3
@@ -23797,6 +23815,7 @@ per	scrì	3
 trat	sëura	3
 ju	danter	3
 montes	dl	3
+fova	mpue	3
 mo	se	3
 la	cëina	3
 defin	da	3
@@ -23857,7 +23876,6 @@ adum	o	3
 à	duta	3
 jonta	y	3
 dl	ambolt	3
-canada	goose	3
 lista	che	3
 mi	ntënder	3
 y	mendranza	3
@@ -24263,7 +24281,6 @@ te	ciafes	3
 olâ	ciafi	3
 y	documentaziun	3
 podëise	ves	3
-por	tè	3
 scora	o	3
 dess	mëte	3
 dessi	pa	3
@@ -24271,7 +24288,6 @@ dessi	pa	3
 averda	y	3
 feji	pa	3
 sostëgn	da	3
-da	d	3
 interes	y	3
 dër	desvalies	3
 n	colloquium	3
@@ -24312,7 +24328,6 @@ forma	dla	3
 orden	di	3
 ie	bendebò	3
 consëis	por	3
-de	cin	3
 lavé	jö	3
 nia	debojëgn	3
 insciö	ne	3
@@ -24391,7 +24406,6 @@ auter	aspet	3
 chesta	chestion	3
 sciche	tl	3
 baudié	che	3
-al	ae	3
 formazion	linguistica	3
 situazion	él	3
 posizion	contra	3
@@ -24816,6 +24830,7 @@ cie	nes	3
 an	paia	3
 conesce	plu	3
 plu	lingac	3
+al	po	3
 tegnì	a	3
 ejempl	y	3
 na	speranza	3
@@ -24941,7 +24956,6 @@ nuvëmber	y	3
 aministradù	de	3
 dl'aministraziun	provinziala	3
 sconanza	che	3
-che	ô	3
 danfora	n	3
 poscibilité	dla	3
 de	dependënza	3
@@ -25025,7 +25039,6 @@ dl	autere	3
 cheder	cun	3
 cina	tl	3
 giuani	paul	3
-paul	ii	3
 na	lizënza	3
 y	union	3
 lia	dal	3
@@ -25039,7 +25052,6 @@ unic	litei	3
 doi	provinzies	3
 su	mujiga	3
 o	ënghe	3
-per	té	3
 savëssa	bel	3
 realisé	ti	3
 giaurì	n	3
@@ -25055,6 +25067,7 @@ di	chedri	3
 ai	cumëmbri	3
 la	cumunità	3
 si	età	3
+dl	eucarestia	3
 pluania	per	3
 n	cëir	3
 ega	santa	3
@@ -25071,7 +25084,6 @@ jit	da	3
 furmà	la	3
 generazion	de	3
 y	dirighënt	3
-regulamënt	ue	3
 fins	istituzionei	3
 comunichei	a	3
 unì	lascei	3
@@ -25392,6 +25404,7 @@ on	dat	3
 na	alternativa	3
 ne	jiva	3
 jiva	nia	3
+mpue	l	3
 si	zitadins	3
 che	ulon	3
 criatives	y	3
@@ -25625,7 +25638,6 @@ y	manieres	3
 a	rabat	3
 sofia	ferdigg	3
 tl	marocco	3
-ciao	maroc	3
 medema	eté	3
 sté	sön	3
 acompagná	da	3
@@ -25743,6 +25755,7 @@ y	rumanc	3
 ladins	ie	3
 che	cunlieia	3
 y	naturela	3
+dla	cin	3
 proiet	nuef	3
 teater	de	3
 costruzion	dla	3
@@ -25780,7 +25793,6 @@ a	luech	3
 spëisa	per	3
 de	ciacia	3
 bujën	nce	3
-de	za	3
 cunescënzes	y	3
 bonamënter	ne	3
 cuantiteies	de	3
@@ -25986,6 +25998,7 @@ fova	ilò	3
 la	campania	3
 ntier	y	3
 n	cianton	3
+cin	dis	3
 nce	autra	3
 te	pericul	3
 ustaria	da	3
@@ -26296,8 +26309,8 @@ puntin	y	3
 mutons	ne	3
 categoria	mutans	3
 ju	chesta	3
+vel	pitl	3
 la	zones	3
-marlene	cup	3
 scola	sportiva	3
 raetia	a	3
 la	tlasifica	3
@@ -26399,7 +26412,6 @@ teater	comunal	3
 da	susy	3
 dlongia	al	3
 les	entravegnudes	3
-al	corp	3
 can	a	3
 ejempl	che	3
 na	ousc	3
@@ -26411,6 +26423,7 @@ dla	seira	3
 seira	é	3
 dl	poem	3
 musical	fanes	3
+i	tesc	3
 mujiga	dl	3
 raprejenteia	la	3
 dla	lijenda	3
@@ -26427,7 +26440,6 @@ no	na	3
 vegnuda	fata	3
 partì	che	3
 grups	politics	3
-con	ela	3
 de	matthias	3
 campions	dl	3
 categuria	u	3
@@ -26487,9 +26499,7 @@ problem	é	3
 möt	y	3
 dis	olache	3
 la	ria	3
-fa	sües	3
 é	veramënter	3
-val	che	3
 fà	sce	3
 sce	mi	3
 sëra	cioch	3
@@ -26555,7 +26565,6 @@ sté	che	3
 assessur	daniel	3
 les	normatives	3
 i	standarg	3
-che	tól	3
 de	produziun	3
 sostëgn	pro	3
 obietifs	dl	3
@@ -26568,6 +26577,7 @@ stlüta	de	3
 la	defujiun	3
 gran	desfida	3
 y	maestres	3
+val	por	3
 jüs	te	3
 elementara	ladina	3
 stat	do	3
@@ -26845,8 +26855,6 @@ gran	svilup	3
 de	miuramënt	3
 das	blatt	3
 blatt	mit	3
-mit	den	3
-den	lösungen	3
 i	a	3
 la	cunté	3
 pra	cuncorsc	3
@@ -26981,7 +26989,6 @@ ne	jí	3
 jí	nia	3
 les	saites	3
 impormetü	a	3
-a	ey	3
 dai	nemisc	3
 or	dl'aurona	3
 mul	ti	3
@@ -27099,6 +27106,7 @@ inviern	che	3
 uel	chësc	3
 nosc	sit	3
 deache	les	3
+km	che	3
 pro	chisc	3
 segnai	de	3
 degun	istitut	3
@@ -27180,7 +27188,6 @@ cunsëi	o	3
 uni	legislatura	3
 comisciun	paritetica	3
 chël	todësch	3
-de	zes	3
 si	doi	3
 y	azeté	3
 ma	pona	3
@@ -27301,7 +27308,6 @@ bon	umor	3
 chësc	drap	3
 y	ressurezion	3
 trëi	persones	3
-ejim	cheder	3
 de	diplom	3
 mé	trëi	3
 presbitere	ntan	3
@@ -27328,7 +27334,6 @@ reviers	ti	3
 bele	a	3
 dla	culezion	3
 n	blòt	3
-maz	de	3
 pitl	renfrësch	3
 si	cunferënza	3
 la	mierla	3
@@ -27552,7 +27557,6 @@ alaut	la	3
 gnì	adoré	3
 ladina	mess	3
 giaté	la	3
-demé	valch	3
 se	meritassa	3
 che	auda	3
 auza	la	3
@@ -27560,8 +27564,6 @@ cuer	ai	3
 ei	se	3
 atual	che	3
 contra	sia	3
-divide	et	3
-et	impera	3
 ladin	no	3
 novités	sön	3
 recorda	les	3
@@ -27580,7 +27582,6 @@ ruvedes	adalerch	3
 àn	podù	3
 l	fabricat	3
 endere	na	3
-éla	vegnuda	3
 fé	lerch	3
 él	passé	3
 derzé	fora	3
@@ -27777,6 +27778,7 @@ cumbinazion	cun	3
 zità	y	3
 a	programs	3
 ntroduzion	tl	3
+pue	da	3
 y	nfurmazion	3
 sepa	direct	3
 direct	debit	3
@@ -27811,6 +27813,7 @@ la	urità	3
 dl	cuer	3
 l	tlavier	3
 funzion	à	3
+zënza	ne	3
 dites	de	3
 l	fal	3
 de	mescedé	3
@@ -27967,7 +27970,6 @@ i	sé	3
 savon	ence	3
 y	cristians	3
 chisc	problems	3
-ae	nia	3
 unserer	pfarrgemeinde	3
 creazion	y	3
 die	ausstellung	3
@@ -28102,6 +28104,7 @@ ne	éssen	3
 vegn	demé	3
 svp	dla	3
 ciamò	dant	3
+generazion	joena	3
 koiné	ladina	3
 che	scraia	3
 la	logica	3
@@ -28168,6 +28171,7 @@ gran	trafich	3
 trafich	de	3
 a	scomencé	3
 scomencé	da	3
+de	turisc	3
 rejoneda	todescia	3
 vigni	autra	3
 dal	jouf	3
@@ -28253,7 +28257,6 @@ cheles	dla	3
 chesta	enciaria	3
 dantfora	con	3
 realté	culturala	3
-che	ae	3
 manifestazions	culturales	3
 ne	mostra	3
 segondo	statut	3
@@ -28360,7 +28363,6 @@ tl	auter	3
 dles	informazions	3
 plu	vegnì	3
 paussa	a	3
-ati	zimmerhofer	3
 oferta	de	3
 i	maiours	3
 president	albert	3
@@ -28398,7 +28400,6 @@ en	ciaria	3
 da	assessour	3
 sostegn	politich	3
 chest	con	3
-che	ela	3
 di	partis	3
 an	cialarà	3
 cesa	é	3
@@ -28614,7 +28615,6 @@ de	raprejentanza	3
 sen	a	3
 souramont	che	3
 i	sozes	3
-ae	l	3
 generazions	joenes	3
 envers	l	3
 concreta	de	3
@@ -28671,6 +28671,7 @@ no	sciche	3
 personal	ladin	3
 nia	vigni	3
 unitar	scrit	3
+ai	ghesc	3
 de	valgugn	3
 ladins	co	3
 conflic	de	3
@@ -28999,7 +29000,6 @@ ofize	dl	3
 l	profil	3
 mozions	de	3
 enchina	ciamň	3
-ladin	ae	3
 giata	n	3
 y	basta	3
 l	avocat	3
@@ -29119,8 +29119,6 @@ chesta	pert	3
 ciamò	mai	3
 streda	al	3
 abiteia	y	3
-co	éla	3
-ad	multos	3
 volenté	dla	3
 che	lascé	3
 franz	comploi	3
@@ -29280,6 +29278,7 @@ dl'oma	ladina	3
 i	kyrios	3
 l	prîsc	3
 dala	curieres	3
+vel	pertes	3
 custimënt	de	3
 la	corona	3
 ferata	tl	3
@@ -29291,7 +29290,6 @@ cun	lezions	3
 sezion	destacheda	3
 l	ite	3
 ti	tën	3
-ri	y	3
 persona	ie	3
 pudëi	mparé	3
 lingaz	unificà	3

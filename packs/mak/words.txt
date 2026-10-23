@@ -1,24 +1,24 @@
 # Basa Mangkasara : FineWeb-2 mak_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-ri	9831
-anjo	3834
-siagang	2899
+ri	9830
+anjo	3829
+siagang	2898
 tau	2535
-ke'nanga	2013
+ke'nanga	2014
 allata'ala	1835
 mae	1686
 anne	1503
-na	1488
-isa	1412
-battu	1351
-mingka	1210
+na	1486
+isa	1413
+battu	1350
+mingka	1205
 punna	1073
 tena	1064
 lanri	859
 ngaseng	850
-nampa	816
 lalang	816
-nia	810
+nampa	813
+nia	808
 angkanaya	806
 mange	801
 apa	727
@@ -27,29 +27,29 @@ taua	719
 sikamma	644
 tu	628
 a'jari	623
-ia	607
+ia	606
 sollanna	571
-sikontu	487
+sikontu	486
 wattunna	466
-ikambe	457
+ikambe	458
 niaka	454
 kalenna	451
-jari	451
+jari	450
 angkana	436
 le'baka	423
 kau	421
-untu	413
+untu	412
 pole	409
 almasi	409
 sa'genna	404
-batara	398
+batara	399
 manna	363
 iamintu	363
 karaeng	352
 baji	350
 yang	347
 mako	346
-kamma	342
+kamma	341
 ero	339
 apa-apa	332
 todong	331
@@ -58,8 +58,8 @@ akkulle	320
 sallang	317
 iami	315
 paulus	314
-yareka	310
-nakana	308
+nakana	309
+yareka	309
 ana	306
 nakke	294
 kammayatompa	283
@@ -72,7 +72,7 @@ tuli	264
 allah	263
 tommi	263
 linoa	261
-a'lampa	255
+a'lampa	254
 ikau	254
 musti	247
 se're	244
@@ -86,7 +86,7 @@ balla'na	216
 sitau	213
 kammaya	208
 gurunna	205
-sangkamma	204
+sangkamma	203
 tenaya	201
 le'ba	201
 antu	200
@@ -94,23 +94,23 @@ bawang	199
 rupataua	199
 massing	198
 tappa	198
-inakke	197
+inakke	195
 tongi	194
 antekamma	193
 maki	191
 appala	189
 balla	185
-le'baki	185
+le'baki	184
 battua	181
 jaia	179
 jai	178
 maraenga	177
 ikatte	176
-nakanamo	175
 nia'mo	175
+nakanamo	174
 petrus	173
-sanna	171
 yahudia	171
+sanna	170
 maka	168
 wattua	168
 rohna	164
@@ -118,19 +118,19 @@ ana'na	162
 kabara	161
 tenamo	157
 ngasengi	148
-a	147
 siapa	147
 dallekanna	147
 are	147
+a	146
 ero'na	145
-a'lampami	144
-i	143
+a'lampami	143
 bajika	142
+i	141
 le'ba'mi	141
 yohanes	141
 tampa	139
 kalennu	139
-wattu	139
+wattu	138
 di	137
 mate	136
 alloa	130
@@ -190,7 +190,6 @@ la'bi	100
 takkulleai	100
 jaina	99
 kotaya	98
-iaminne	97
 umma'na	97
 passangalinna	97
 bainea	96
@@ -199,6 +198,7 @@ karaenga	96
 tidak	95
 butta	95
 nakkulle	94
+iaminne	94
 the	94
 paralluko	93
 a'gau	92
@@ -239,17 +239,17 @@ doang	78
 kammana	78
 ammenteng	78
 sai	78
-passabakkang	78
 dalam	77
 tenapa	77
+passabakkang	77
 nasuro	77
 dari	76
-ka	75
 sala	75
 akkullei	75
 na'bi	75
 c	75
 niarenga	74
+ka	74
 ruaya	74
 sura	74
 kamateanga	74
@@ -307,6 +307,7 @@ napau	62
 naasseng	62
 of	62
 angnganre	61
+mi	61
 koasa	61
 maria	61
 ati	60
@@ -316,7 +317,6 @@ nalangngere'na	60
 langika	60
 koro'bang	60
 farisia	60
-mi	59
 orang	59
 ada	59
 tunisurona	59
@@ -327,7 +327,6 @@ taalah	58
 daera	58
 tamparanga	58
 galilea	58
-battui	57
 matea	57
 iaji	57
 chord	57
@@ -335,6 +334,7 @@ ambokoi	57
 angngerang	56
 bajiki	56
 kalenta	56
+battui	56
 si	56
 tattulisi	56
 herodes	56
@@ -345,7 +345,6 @@ toana	55
 taung	55
 nuasseng	55
 satunggu-tungguna	55
-allahu	54
 rannu	54
 kamma-kammaya	54
 para	54
@@ -353,6 +352,7 @@ minjo	54
 matu-matunna	54
 sesena	54
 areng	54
+allahu	53
 teaki	53
 israel	53
 sambayanga	53
@@ -417,7 +417,6 @@ ballaka	46
 saya	46
 sukkuru	46
 paranna	46
-la	46
 karena	46
 tomminjo	46
 tenanniakka	46
@@ -430,6 +429,7 @@ iji	45
 bicara	45
 dosaya	45
 guru	45
+la	45
 nasare	45
 kalase'renna	45
 sikammaya	45
@@ -465,7 +465,6 @@ sike'de	43
 singaraka	43
 rolong	43
 roti	43
-simon	43
 kura-kura	43
 kira-kira	43
 rupa	42
@@ -480,6 +479,7 @@ assuroa	42
 tangnga-tangnganu	42
 masihi	42
 is	42
+simon	42
 ismail	41
 sangnging	41
 koko	41
@@ -547,7 +547,6 @@ sanrapangi	37
 aganga	37
 ampabattui	37
 napa'jari	37
-by	37
 in	37
 mereka	37
 kemae	36
@@ -560,11 +559,11 @@ angngajara	36
 download	36
 garringa	36
 maraengannaya	36
+by	36
 kabattuanna	36
 pangngebarang	36
 rupanna	35
 tallu	35
-mangemi	35
 pepe	35
 dudua	35
 anrong	35
@@ -582,6 +581,7 @@ pammari-marianga	35
 saulus	35
 anakna	34
 tojenga	34
+mangemi	34
 assarei	34
 rate	34
 anynyomba	34
@@ -645,13 +645,11 @@ assombala	31
 pammatei	31
 suraka	31
 karisteng	31
-lannasa	31
 kammaminjo	31
 you	31
 bb	31
 kapala	31
 maya'na	31
-x	30
 sukku	30
 kale	30
 nampami	30
@@ -662,6 +660,7 @@ jammang	30
 kitta	30
 dorakaya	30
 a'lampamako	30
+lannasa	30
 malaeka	30
 nna	30
 manggenu	30
@@ -724,7 +723,6 @@ alle	27
 pun	27
 bija	27
 jama-jamanga	27
-pappala	27
 mama	27
 sa'ri	27
 atorang	27
@@ -742,6 +740,7 @@ alkamah	26
 anatta	26
 nataba	26
 mintu	26
+pappala	26
 nagappa	26
 panrannuang	26
 napala	26
@@ -894,7 +893,6 @@ andi	22
 anjoremmi	22
 appare	22
 bine	22
-biseanga	22
 pikkiranna	22
 kala'busang	22
 kaparalluang	22
@@ -938,6 +936,7 @@ anjakkalaki	21
 barani	21
 batua	21
 bicaranna	21
+biseanga	21
 ikaumi	21
 tappaki	21
 taeroka	21
@@ -1000,7 +999,6 @@ sipa'-sipa	20
 wattunnu	20
 efesus	20
 ide	20
-patampulo	20
 matangkasaka	20
 niassengi	20
 takkulleami	20
@@ -1059,6 +1057,7 @@ kiamaka	19
 pammantangang	19
 mappasalama	19
 tantara	19
+patampulo	19
 anaqna	19
 nacaritami	19
 pau	18
@@ -1066,7 +1065,6 @@ takabbere	18
 towa	18
 naku	18
 insya	18
-ma	18
 kucini	18
 cini	18
 waktu	18
@@ -1145,6 +1143,7 @@ kaisarea	18
 komandanga	18
 tutu	17
 malabbirika	17
+ma	17
 attinro	17
 kapunna	17
 rinakke	17
@@ -1174,7 +1173,6 @@ assibuntulu	17
 assala'na	17
 aja	17
 tojengi	17
-ji	17
 akkala	17
 akkiok-kio	17
 anggota	17
@@ -1313,10 +1311,8 @@ bokona	15
 fitri	15
 empoanna	15
 napa	15
-nabokoi	15
 uru	15
 lebih	15
-nakajariang	15
 nasuroa	15
 tulolo	15
 allayani	15
@@ -1336,7 +1332,6 @@ can	15
 lakajariang	15
 numaka	15
 membuat	15
-pakkaramulanna	15
 tomi	15
 narapiki	15
 labattui	15
@@ -1356,7 +1351,6 @@ kugappa	15
 nilappassang	15
 koro'banga	15
 arumpone	15
-akbar	14
 mannannungang	14
 nabbi	14
 bangkengku	14
@@ -1395,11 +1389,11 @@ dua	14
 air	14
 rioloa	14
 nisessa	14
+nabokoi	14
 yus	14
 mallakki	14
 akkarena	14
 ammantanga	14
-ammari	14
 ammoli	14
 ampappicinikangi	14
 angkanami	14
@@ -1424,11 +1418,11 @@ tojeng-tojengi	14
 nugaukangi	14
 site	14
 rea	14
+nakajariang	14
 jadi	14
 dinisa	14
 atas	14
 hingga	14
-comment	14
 yesaya	14
 naballei	14
 nabongka	14
@@ -1449,6 +1443,7 @@ pangngellai	14
 satunggu-tunggua	14
 taerokako	14
 tappakko	14
+pakkaramulanna	14
 katojenganga	14
 minynya'-minynya	14
 sa'raya	14
@@ -1464,6 +1459,7 @@ na'bia	14
 paje'ne	14
 zakharia	14
 ringgi	14
+akbar	13
 apami	13
 risesena	13
 ummat	13
@@ -1505,6 +1501,7 @@ lamung-lamung	13
 niakka	13
 natenamo	13
 sassang	13
+allata'alana	13
 kuerang	13
 video	13
 makoasa	13
@@ -1513,6 +1510,7 @@ a'rupami	13
 ajarang	13
 akkatintinga	13
 ambangungko	13
+ammari	13
 ammarrang	13
 ampaui	13
 ampi'na	13
@@ -1551,6 +1549,7 @@ dabbu	13
 karung	13
 yaitu	13
 loe	13
+comment	13
 yordan	13
 passikko	13
 nazaret	13
@@ -1620,7 +1619,6 @@ pappasanna	12
 allo-allona	12
 kali	12
 tentang	12
-allata'alana	12
 ambangummi	12
 annarima	12
 appakkaramulamo	12
@@ -1713,8 +1711,6 @@ kongkong	11
 wikipedia	11
 pammuji	11
 kasalamakkanga	11
-z	11
-t	11
 nilassukang	11
 jamaah	11
 salasa	11
@@ -1863,7 +1859,6 @@ inung	10
 assamaturu	10
 nialle	10
 limbu'bu	10
-inaika	10
 nagaukammi	10
 ada'-ada	10
 akkulleko	10
@@ -1917,7 +1912,6 @@ kare	10
 cerita	10
 kupabattu	10
 setang-setanga	10
-tu'guru'mi	10
 ann	10
 serta	10
 tirinya	10
@@ -1972,7 +1966,6 @@ pinggawana	10
 simaya	10
 keledaia	10
 nasiapa	9
-ala	9
 dinging	9
 matanta	9
 inaimo	9
@@ -2083,6 +2076,7 @@ gimbala'na	9
 guburnur	9
 hukkunganna	9
 hukkunganga	9
+inaika	9
 nibarakkaki	9
 nagappaya	9
 lambusu	9
@@ -2182,6 +2176,7 @@ matinroe	9
 balandaya	9
 pa'karenang	9
 rammanga	9
+tu'guru'mi	9
 apolos	9
 napahang	9
 turungkaya	9
@@ -2191,6 +2186,7 @@ ja	9
 jangang-janganga	9
 makna	8
 na'lampa	8
+ala	8
 pa'lappassang	8
 towana	8
 bellami	8
@@ -2245,7 +2241,6 @@ namanna	8
 napassabakki	8
 sedeng	8
 inja	8
-s	8
 napinawang	8
 angkanai	8
 kapereka	8
@@ -2377,6 +2372,7 @@ sebab	8
 begitu	8
 ato	8
 mungkin	8
+lampa	8
 sangka	8
 kittita	8
 mangkasarak	8
@@ -2529,6 +2525,7 @@ piti	7
 matu-matu	7
 turere	7
 katena	7
+s	7
 sanggena	7
 nampai	7
 angnginrang	7
@@ -2666,7 +2663,6 @@ aplikasi	7
 file	7
 be	7
 lamminawang	7
-lampa	7
 filipi	7
 pauangi	7
 sabbatasi	7
@@ -3419,6 +3415,7 @@ rioloang	5
 kamaya	5
 karaengta	5
 arenga	5
+t	5
 nitayang	5
 pikkiranta	5
 nisambei	5
@@ -3473,7 +3470,6 @@ accu'la	5
 tujupulo	5
 pangngamaseanta	5
 akkelong	5
-kisarei	5
 memainkan	5
 allassukang	5
 aba	5
@@ -3711,7 +3707,6 @@ kukkulu	5
 kusiratang	5
 liaraka	5
 tungnganre	5
-linta'mi	5
 tassiara	5
 rammusu	5
 nabantu	5
@@ -4018,7 +4013,6 @@ kammanjo	4
 lanu	4
 angngarruki	4
 belo-belo	4
-tanu	4
 riballa'na	4
 mangeki	4
 berkatalah	4
@@ -4141,13 +4135,14 @@ na'bita	4
 pappijo'jo	4
 tunipakala'birika	4
 tumabuttaya	4
+z	4
 rigolongang	4
 ansuro	4
 ee	4
 taungku	4
+x	4
 injapi	4
 appasang	4
-y	4
 a'boko	4
 dale	4
 nisusung	4
@@ -4556,7 +4551,6 @@ kudaki	4
 samara	4
 kimamajiki	4
 about	4
-tahu	4
 dikenal	4
 peserta	4
 jatuh	4
@@ -4577,9 +4571,9 @@ menghormati	4
 singkat	4
 rupa-rupa	4
 kanrea	4
+kisarei	4
 tunisuroku	4
 nasungkeang	4
-nikio'mi	4
 nisoso	4
 lampata	4
 nata'gala'mi	4
@@ -4644,8 +4638,6 @@ pbtun	4
 ahm	4
 nknmo	4
 teanmo	4
-tal	4
-nau	4
 durhaka	4
 menjawab	4
 berangkat	4
@@ -4767,7 +4759,6 @@ tarian	4
 variety	4
 minang	4
 cultures	4
-k	4
 ambon	4
 main	4
 menarik	4
@@ -5054,6 +5045,7 @@ taccokko	4
 nikelongang	4
 nusa'ring	4
 sialia	4
+linta'mi	4
 lanialleangi	4
 langngarru'-arru	4
 lasanrapangi	4
@@ -5121,7 +5113,6 @@ ba	3
 qamah	3
 tulang	3
 ammakna	3
-kanne	3
 akkana-kana	3
 angngapai	3
 ammaka	3
@@ -5181,6 +5172,7 @@ nikamaseangi	3
 pa'lappassanga	3
 natenaja	3
 nammuntulu	3
+baki	3
 min	3
 riwattunna	3
 lonna	3
@@ -5355,7 +5347,7 @@ tiai	3
 latattaba	3
 tbur	3
 ã	3
-ur	3
+y	3
 akkorobang	3
 tamate	3
 maarenga	3
@@ -5456,10 +5448,8 @@ ammentenna	3
 tetena	3
 akhirna	3
 bokong	3
-attimboi	3
 kalarroanta	3
 posso	3
-bodoi	3
 allanynya'mi	3
 sallota	3
 numalangnge	3
@@ -6164,7 +6154,6 @@ kayuji	3
 pokokna	3
 jangang-jangangnga	3
 napa'nassa	3
-mai	3
 napasammi	3
 baien	3
 sgi	3
@@ -6210,7 +6199,6 @@ toanu	3
 rua-rua	3
 sicinik	3
 kutaeng	3
-siangang	3
 lekbakmi	3
 pintallungi	3
 konkong	3
@@ -6384,7 +6372,6 @@ now	3
 pictures	3
 quality	3
 version	3
-may	3
 lansaleori	3
 tabs	3
 berjudul	3
@@ -6403,6 +6390,7 @@ kalimantan	3
 dayak	3
 tribe	3
 sasak	3
+k	3
 known	3
 manise	3
 most	3
@@ -6440,6 +6428,7 @@ kioki	3
 nuaganga	3
 nusomba	3
 matojenga	3
+nikio'mi	3
 nawattu	3
 pakkattoanga	3
 lanikatto	3

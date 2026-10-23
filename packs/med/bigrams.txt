@@ -1,27 +1,28 @@
 # Bigrammes med (FineWeb-2 med_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-ei	nga	2669
-got	nga	1692
+ei	nga	2668
+got	nga	1691
 elim	nga	1553
-kona	ila	1382
+kona	ila	1381
 wamp	mb	1269
+ei	mel	1183
 ei	ndi	1122
 wamp	mbʉ	1118
-enim	nga	1067
+enim	nga	1066
 wu	ei	902
 na	nga	884
 nga	ik	846
 ei	k	810
-nga	wamp	743
+nga	wamp	742
 ik	ei	729
 mbʉ	nga	677
 ei	kʉn	662
 nim	nga	659
 nga	u	631
 nga	numan	617
-en	enim	592
+en	enim	591
 wu	ni	574
-nga	mbi	511
+nga	mbi	510
 mi	ik	494
 mondpa	pili	452
 nga	k	450
@@ -29,16 +30,16 @@ wamp	ei	405
 wu	nuim	398
 ni	k	398
 kun	kai	391
-n	nga	388
+n	nga	387
 wu	ti	381
 nga	kongun	372
 kona	peng	366
-ik	mbo	365
+ik	mbo	364
 mbʉ	ndi	362
 ei	ka	358
 mbʉ	kʉn	355
 wamp	mat	354
-ila	wamp	354
+ila	wamp	353
 jisas	nga	349
 nimba	mel	348
 nuim	ei	344
@@ -58,10 +59,10 @@ ik	kai	291
 got	k	291
 elpa	elpa	290
 wu	k	287
-ti	ndi	285
+ti	ndi	284
 ni	kʉ	283
 k	r	281
-mel	mb	279
+mel	mb	278
 kraist	nga	274
 jura	wamp	272
 wamp	nga	271
@@ -72,19 +73,20 @@ kai	mb	255
 ou	ndupa	253
 nga	r	252
 nga	kitip	251
-manga	ila	247
 manga	wingti	247
+manga	ila	246
 kit	mb	244
-enim	kʉn	241
+enim	kʉn	240
 kuimp	keta	239
-got	kʉn	232
 mʉi	kona	232
+got	kʉn	231
 mel	ku	230
 kai	ei	227
 wu	mb	226
 n	k	222
 kai	mbʉ	221
-nga	manga	213
+a	mam	214
+nga	manga	212
 nga	pu	211
 mel	mbʉ	209
 numan	kai	208
@@ -93,8 +95,8 @@ wu	ra	206
 rui	u	206
 kur	kit	206
 nga	kuimp	205
-wamp	r	205
 ila	mo	204
+wamp	r	204
 wu	mbʉ	202
 kitip	k	202
 ik	n	202
@@ -105,10 +107,11 @@ ik	ti	200
 numan	ngui	199
 iti	nat	198
 n	u	196
+kupa	ei	195
 enim	wamp	195
 na	k	194
-mumuk	rui	193
 wu	mat	193
+mumuk	rui	192
 ni	wu	191
 ng	ei	191
 kona	ei	190
@@ -215,18 +218,18 @@ mba	ei	120
 pilpa	kung	120
 nga	wingti	119
 nga	kona	119
-wamp	nimbʉ	119
 wak	ropa	119
 n	ik	119
-kai	ti	118
 enim	numan	118
 ila	mana	118
 ik	mbʉ	118
 wamp	na	118
 nuim	jisas	118
 ila	wu	118
+wamp	nimbʉ	118
 m	ndam	118
 nga	ku	118
+kai	ti	117
 eng	nui	117
 wamp	nimb	117
 pili	nap	117
@@ -243,35 +246,35 @@ ei	t	113
 pi	n	113
 enim	u	112
 wamp	numan	112
-nimbʉ	ndi	112
 ila	ruk	112
 p	n	112
 ng	orunga	112
 itim	u	111
 jerusalem	kona	111
+nimbʉ	ndi	111
 kit	etmin	110
 nga	el	110
 nga	nombu	109
-rui	nar	109
-nga	t	109
 kona	wamp	108
 nga	ti	108
 rʉnang	ik	108
+rui	nar	108
+nga	t	108
 mel	mon	107
 ou	ila	107
 nga	nuim	107
 ya	m	107
 nim	kʉn	106
 n	r	106
-pa	mumuk	106
 mat	ndi	105
 ngui	u	105
 numan	wang	105
 pris	kuimbal	105
 kona	nila	105
-atinga	manga	105
+pa	mumuk	105
 kont	mul	104
 mel	nant	104
+atinga	manga	104
 nga	tipam	103
 jisas	ni	103
 nt	ei	103
@@ -291,6 +294,7 @@ nga	keta	98
 wamp	t	98
 k	et	98
 wote	got	97
+wu	kupa	97
 nga	pilpa	97
 mana	orunga	97
 nga	ei	96
@@ -415,7 +419,6 @@ pa	kundi	73
 kindmant	wamp	73
 wamp	mel	73
 wamp	pu	73
-rui	kona	73
 k	mek	73
 m	wamp	73
 i	ila	73
@@ -424,6 +427,7 @@ numan	minal	72
 ik	rondu	72
 kongun	kindmant	72
 elpa	mat	72
+rui	kona	72
 mong	ei	72
 k	mormin	72
 murum	ei	71
@@ -555,11 +559,9 @@ elpa	mbʉ	57
 ngui	ngangg	57
 k	mo	57
 mp	k	57
-manga	kel	57
 kit	ei	56
 muna	mon	56
 wamp	pora	56
-ila	morung	56
 nga	mang	56
 nim	wu	56
 aip	ila	56
@@ -567,11 +569,13 @@ murum	ila	56
 n	mel	56
 mundi	nam	56
 n	mon	56
+manga	kel	56
 mat	ou	55
 ki	mbo	55
 ik	nimba	55
 ui	ti	55
 purum	ei	55
+ila	morung	55
 ila	ku	55
 n	angge	55
 r	t	55
@@ -695,7 +699,6 @@ kont	nga	47
 etmin	wu	47
 ila	morum	46
 kraist	ei	46
-a	omba	46
 nga	itim	46
 mana	ndupa	46
 rom	kona	46
@@ -711,6 +714,7 @@ angge	n	46
 enim	wu	46
 wamp	on	46
 ang	ila	45
+a	omba	45
 nim	ik	45
 iti	u	45
 wamp	elpa	45
@@ -749,7 +753,6 @@ murum	ni	44
 wamp	kurpa	44
 ila	puk	44
 morung	ni	44
-ant	mong	44
 ti	ku	44
 l	wu	44
 kit	et	44
@@ -771,6 +774,7 @@ jura	wu	43
 wu	kai	43
 murum	kona	43
 imp	mu	43
+ant	mong	43
 mundi	n	43
 n	ui	43
 ni	nand	43
@@ -780,7 +784,6 @@ ila	rondu	42
 mondʉk	pili	42
 peng	kont	42
 kat	ndi	42
-kʉn	angge	42
 ui	ou	42
 ila	mondpa	42
 etpa	numan	42
@@ -796,8 +799,8 @@ ng	mong	42
 ei	kupa	41
 kol	ropa	41
 man	ik	41
+kʉn	angge	41
 rʉng	mbʉ	41
-omba	ei	41
 i	mon	41
 nga	mbo	41
 mbi	ndui	41
@@ -820,6 +823,7 @@ kit	mu	40
 tʉpa	mepa	40
 kona	ou	40
 kundpa	nitim	40
+omba	ei	40
 nʉnt	ei	40
 nʉtʉng	ik	40
 amp	ni	40
@@ -870,7 +874,6 @@ nim	wamp	38
 mbun	koma	38
 ei	wak	38
 kai	mu	38
-mbo	endpa	38
 rawe	etpa	38
 nde	wu	38
 pana	ila	38
@@ -895,6 +898,7 @@ mbʉ	tʉk	37
 itim	ni	37
 purum	ni	37
 mba	u	37
+mbo	endpa	37
 kʉn	mondʉk	37
 el	nde	37
 ui	mat	37
@@ -955,7 +959,6 @@ int	yant	35
 rawe	et	35
 kai	et	35
 ui	n	35
-morung	wamp	35
 mint	mba	34
 nga	mʉi	34
 ei	pora	34
@@ -975,6 +978,7 @@ timp	nimba	34
 tʉk	mek	34
 punt	rop	34
 kona	ant	34
+akup	ya	34
 kun	etpa	34
 ti	kʉn	34
 mek	o	34
@@ -987,6 +991,7 @@ n	mor	34
 pa	o	34
 mat	n	34
 ya	kona	34
+morung	wamp	34
 kai	k	34
 mbi	nimba	34
 pitim	ei	33
@@ -1010,7 +1015,6 @@ atinga	ropa	33
 wu	mel	33
 nga	etmin	33
 ila	nu	33
-kel	ila	33
 nʉk	pʉtʉng	33
 kont	ei	33
 pai	nok	33
@@ -1046,6 +1050,7 @@ ila	kep	32
 waka	ila	32
 kʉn	numan	32
 nimbʉ	kʉn	32
+kel	ila	32
 mindil	mam	32
 kongun	etmin	32
 peka	ropa	32
@@ -1189,7 +1194,6 @@ ng	na	29
 ping	ei	29
 pili	napilik	29
 p	r	29
-aip	mb	29
 molk	k	29
 n	kraist	29
 ei	p	29
@@ -1235,6 +1239,7 @@ a	k	28
 n	iti	28
 nga	pop	28
 wote	r	28
+aip	mb	28
 em	ei	28
 pilpa	k	28
 nuim	mb	28
@@ -1472,7 +1477,6 @@ mat	tʉk	24
 mbun	mam	24
 masaroniya	kona	24
 tip	timal	24
-tʉk	mendʉk	24
 wamp	kat	24
 iti	natʉk	24
 oporpa	o	24
@@ -1539,6 +1543,7 @@ ndi	wu	23
 nga	rup	23
 morung	ei	23
 enim	mbun	23
+tʉk	mendʉk	23
 enim	kongun	23
 nga	kaip	23
 nam	ndi	23
@@ -1664,7 +1669,6 @@ ti	tʉpa	22
 ya	mon	21
 tʉpa	rapʉndʉmba	21
 ik	unt	21
-kʉn	rukʉr	21
 ekit	ui	21
 mel	mo	21
 mbʉ	numan	21
@@ -1699,7 +1703,6 @@ etʉk	kit	21
 ila	pitim	21
 kit	rukʉr	21
 mormin	u	21
-nga	tʉk	21
 piling	ei	21
 i	etʉk	21
 um	ei	21
@@ -1743,6 +1746,7 @@ ropa	pet	21
 nga	pana	21
 k	pei	21
 kona	nant	21
+mam	ni	21
 kang	nana	21
 amp	kangambu	21
 orunga	murum	21
@@ -1751,7 +1755,6 @@ kit	kai	21
 mint	pilik	21
 sisa	ei	21
 mʉi	ei	21
-angge	nʉk	21
 kʉn	etpa	20
 got	tipam	20
 pi	ei	20
@@ -1759,6 +1762,7 @@ kʉn	mu	20
 i	nambrʉm	20
 nga	ʉngʉnʉl	20
 wu	got	20
+kʉn	rukʉr	20
 akup	got	20
 pʉtʉm	ei	20
 ni	nanʉnt	20
@@ -1802,6 +1806,7 @@ rut	nimba	20
 kint	pombu	20
 pin	ndam	20
 kol	rui	20
+nga	tʉk	20
 ngumba	ei	20
 wamp	kupa	20
 itim	wu	20
@@ -1854,7 +1859,6 @@ p	kun	20
 k	mou	20
 ila	oi	20
 ui	tila	20
-mam	ni	20
 mon	n	20
 rok	purung	20
 oporpa	t	20
@@ -1864,6 +1868,7 @@ kit	n	20
 a	tʉk	20
 rʉpndi	mat	20
 rʉng	na	20
+angge	nʉk	20
 etpa	eng	19
 tʉn	ndi	19
 itim	mbʉ	19
@@ -1892,7 +1897,6 @@ enim	wi	19
 orunga	morum	19
 ik	pai	19
 kupa	ila	19
-ila	got	19
 bapilon	kona	19
 ou	ni	19
 ila	pu	19
@@ -1989,6 +1993,7 @@ wu	jisas	18
 ndip	ei	18
 ei	kai	18
 pilik	molk	18
+ila	got	18
 onum	ei	18
 ila	mek	18
 ndip	ila	18
@@ -3089,7 +3094,6 @@ kai	na	12
 nga	mbʉ	12
 na	kundpa	12
 ang	mba	12
-mendʉk	mu	12
 ei	kan	12
 mat	nʉk	12
 kai	etpa	12
@@ -3396,6 +3400,7 @@ kona	mu	11
 rukʉr	tʉmba	11
 kandʉk	ting	11
 mat	nguimp	11
+mendʉk	mu	11
 a	ting	11
 minal	ngurum	11
 nant	kʉn	11
@@ -3484,7 +3489,6 @@ ila	m	11
 mundpa	k	11
 pa	pora	11
 min	mb	11
-kai	mondpa	11
 mat	ropa	11
 l	ropa	11
 peka	rurum	11
@@ -3805,6 +3809,7 @@ pindi	n	10
 a	mond	10
 kanu	kat	10
 purum	mb	10
+kai	mondpa	10
 k	mbi	10
 ropa	kundpa	10
 ku	mb	10
@@ -3828,7 +3833,6 @@ bret	yis	10
 kalk	t	10
 nok	mo	10
 ti	pet	10
-pung	ndam	10
 enim	ur	10
 kot	kep	10
 imp	morung	10
@@ -3906,8 +3910,8 @@ nga	murum	10
 kot	p	10
 ik	rangg	10
 mumuk	ni	10
-mʉlʉ	ropa	10
 nimbʉ	kundpa	10
+kʉni	nʉkʉning	10
 tʉn	ya	10
 ku	mbʉ	10
 ka	etʉk	10
@@ -4177,7 +4181,6 @@ l	wamp	9
 k	ngurung	9
 ruk	ui	9
 n	jura	9
-p	mana	9
 n	rop	9
 enim	pep	9
 ou	nd	9
@@ -4245,6 +4248,7 @@ k	normin	9
 kump	k	9
 k	pena	9
 rok	kelik	9
+pung	ndam	9
 rorung	ik	9
 tek	n	9
 nim	painui	9
@@ -4341,6 +4345,7 @@ aldpa	wamp	9
 mbo	ila	9
 n	ngumba	9
 pili	amp	9
+mʉlʉ	ropa	9
 kai	mondʉk	9
 kʉi	mbʉ	9
 purung	ei	9
@@ -4655,6 +4660,7 @@ mel	it	8
 ya	t	8
 mp	nguimp	8
 ei	mbo	8
+p	mana	8
 nimba	kurum	8
 mong	kat	8
 n	mi	8
@@ -5344,8 +5350,6 @@ ki	ti	7
 itim	ku	7
 keta	t	7
 wote	ant	7
-ropa	kai	7
-mong	rorum	7
 kun	enmin	7
 wote	pilik	7
 wei	k	7
@@ -6101,7 +6105,6 @@ kun	etp	6
 enim	ngur	6
 tmin	ik	6
 i	etp	6
-mana	ndup	6
 n	mep	6
 tetmin	kona	6
 pi	k	6
@@ -6144,6 +6147,8 @@ ila	titim	6
 pa	m	6
 rong	mul	6
 i	kai	6
+ropa	kai	6
+mong	rorum	6
 ropa	pitim	6
 i	rop	6
 ei	wote	6
@@ -6389,6 +6394,7 @@ rui	na	6
 tenda	wu	6
 mbi	ndurm	6
 ora	nd	6
+got	n	6
 pris	wu	6
 betseita	kona	6
 kum	rui	6
@@ -6473,7 +6479,6 @@ kont	it	6
 it	ik	6
 kan	pilda	6
 ok	mou	6
-mong	raldika	6
 n	pilpa	6
 n	mindil	6
 ei	mep	6
@@ -7171,6 +7176,7 @@ mormun	ni	5
 el	itmin	5
 ik	wei	5
 pilik	kand	5
+mana	ndup	5
 kongun	it	5
 n	nitim	5
 ngurun	ei	5
@@ -7311,7 +7317,6 @@ ralt	ndi	5
 nmin	wamp	5
 i	etk	5
 pora	kit	5
-mok	rui	5
 mba	nombu	5
 pa	ngorum	5
 tenda	morum	5
@@ -7422,6 +7427,7 @@ nda	nimba	5
 ku	rondu	5
 kuta	nga	5
 pa	enim	5
+ning	n	5
 pa	apra	5
 t	ik	5
 kona	ping	5
@@ -7682,6 +7688,7 @@ mbuldung	n	5
 orunga	mindil	5
 listra	kona	5
 titmin	ei	5
+mong	raldika	5
 raldika	elinga	5
 ila	pa	5
 mam	mbila	5
@@ -7785,7 +7792,6 @@ tekʉn	morʉn	5
 mek	pukʉn	5
 tʉkrʉpa	mint	5
 nila	rukʉr	5
-rukʉr	omba	5
 ropa	wʉlʉ	5
 mundi	nʉmʉndi	5
 tʉn	tʉkʉn	5
@@ -8039,6 +8045,7 @@ ka	nu	4
 kormin	ei	4
 nok	mint	4
 nga	bekim	4
+rundi	mormin	4
 munding	mel	4
 ndi	nim	4
 baibel	stadi	4
@@ -8791,7 +8798,6 @@ kulda	rui	4
 ya	nu	4
 mba	atinga	4
 k	mundi	4
-raldika	itim	4
 ku	pek	4
 ya	onum	4
 mbo	keta	4
@@ -8823,6 +8829,7 @@ mat	mi	4
 kan	iti	4
 enim	iteing	4
 el	manda	4
+mok	rui	4
 rop	kund	4
 mbo	indangga	4
 ti	kongun	4
@@ -8989,7 +8996,6 @@ nimp	ik	4
 i	pet	4
 aldpa	ui	4
 pilip	rund	4
-ning	n	4
 enim	tek	4
 a	mbu	4
 norum	u	4
@@ -9210,7 +9216,6 @@ nga	morm	4
 piral	ndumba	4
 jisas	ku	4
 wote	ninim	4
-got	n	4
 p	imp	4
 mura	kai	4
 lasarus	ni	4
@@ -9408,6 +9413,7 @@ ang	pangga	4
 mbi	ndurmin	4
 pilik	iting	4
 onunga	ila	4
+peng	ombil	4
 ninmin	mel	4
 wote	galili	4
 jisas	enim	4
@@ -9422,7 +9428,6 @@ kan	u	4
 k	kili	4
 pei	mondum	4
 kun	munding	4
-mbi	t	4
 rop	ngeimp	4
 punt	k	4
 i	ik	4
@@ -9624,6 +9629,7 @@ ngʉk	etʉng	4
 kiya	kandʉk	4
 mina	kʉn	4
 ʉngʉnʉl	na	4
+rukʉr	omba	4
 pepa	ʉndrʉm	4
 kng	kʉ	4
 kandrʉng	mel	4
@@ -10032,7 +10038,6 @@ numan	ngʉi	4
 ngurmʉn	ei	4
 enim	kʉng	4
 nguk	rukʉr	4
-nʉk	nguk	4
 ti	nʉkʉn	4
 kʉn	ka	4
 nokundpʉn	mormʉn	4
@@ -11104,6 +11109,7 @@ pint	ei	3
 k	rut	3
 aldpa	mba	3
 kundrum	mel	3
+raldika	itim	3
 pek	morm	3
 kanmin	mon	3
 ropa	nomba	3
@@ -11494,6 +11500,7 @@ ndurum	mel	3
 ui	ongum	3
 oka	pek	3
 nga	teng	3
+nuim	ou	3
 nguk	kongun	3
 ei	kandk	3
 kont	mormun	3
@@ -11540,7 +11547,6 @@ pela	mel	3
 min	pi	3
 ila	nin	3
 tepa	punum	3
-atinga	runt	3
 runt	ei	3
 kat	mint	3
 nga	ngui	3
@@ -11891,6 +11897,7 @@ l	ei	3
 n	pendpa	3
 kili	u	3
 ila	wuta	3
+mbi	t	3
 mint	pum	3
 mel	kund	3
 moni	punt	3
@@ -12175,7 +12182,6 @@ unt	etpa	3
 ndi	elpa	3
 ama	kongun	3
 paka	kai	3
-wamp	mana	3
 p	norum	3
 rorum	k	3
 kunda	mormin	3
@@ -12353,7 +12359,6 @@ kona	ranggʉ	3
 pili	ti	3
 mint	rok	3
 mat	mint	3
-mana	ti	3
 tepa	tʉpa	3
 tʉpa	kona	3
 rʉng	pu	3
@@ -12473,7 +12478,6 @@ pitim	nimbʉ	3
 ronggʉt	ku	3
 ei	kundkʉn	3
 nok	tʉk	3
-endpa	kʉn	3
 pili	napʉnmin	3
 ok	mʉk	3
 kangʉmʉl	mbʉ	3
@@ -13042,6 +13046,7 @@ numan	rukrʉng	3
 nʉtimp	nʉmp	3
 roldʉnga	norum	3
 kʉmp	tin	3
+nʉk	nguk	3
 kit	etmʉn	3
 a	randrʉm	3
 akup	pʉnmʉn	3

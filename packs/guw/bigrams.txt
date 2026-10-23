@@ -1,17 +1,25 @@
 # Bigrammes guw (FineWeb-2 guw_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
+tọn	lẹ	4477
 lẹ	po	3145
-to	whenue	2328
+lẹ	tọn	3031
+tọn	mẹ	2483
+to	whenue	2327
+lẹ	mẹ	1947
+lọ	tọn	1930
 tin	to	1740
-he	yin	1553
-lọ	lẹ	1524
+etọn	lẹ	1615
+he	yin	1551
+lọ	lẹ	1523
 nọ	yin	1522
 lọ	mẹ	1494
-jehovah	tọn	1466
+jehovah	tọn	1465
 he	nọ	1463
 e	ma	1374
-tọn	he	1326
-he	to	1222
+tọn	he	1325
+jiwheyẹwhe	tọn	1313
+he	to	1221
+tọn	de	1157
 lẹ	nọ	1137
 nado	nọ	1100
 ma	yin	1034
@@ -20,58 +28,68 @@ yetọn	lẹ	1019
 de	he	1008
 ma	nọ	970
 mẹ	to	960
+tọn	po	947
+tọn	lọ	910
 tọn	to	907
-e	na	905
-e	nọ	880
-lẹ	ji	852
+e	na	904
+na	yé	891
+e	nọ	879
+lẹ	to	878
+lẹ	ji	851
+mẹ	lẹ	849
 ma	na	837
-gbẹtọ	lẹ	828
+gbẹtọ	lẹ	827
 de	mẹ	800
 he	mẹ	772
 ko	yin	757
 lẹ	na	749
 e	yin	745
 na	yin	724
-mí	nọ	715
+mí	nọ	713
 lẹ	go	710
 wẹ	e	708
 nọ	yí	702
 jlo	na	691
 sọgbe	hẹ	690
+lẹ	do	676
 mẹdevo	lẹ	652
-nọ	hẹn	641
+nọ	hẹn	640
+towe	lẹ	635
 na	ẹn	633
+na	mí	619
 devo	lẹ	610
 he	tin	600
-e	sọ	600
+mẹ	wẹ	599
+e	sọ	599
 tọn	ji	599
 yé	nọ	596
-biblu	tọn	593
+biblu	tọn	592
 mítọn	lẹ	592
 na	nọ	584
-to	owhe	583
+to	owhe	579
 to	aliho	571
-nado	hẹn	571
+nado	hẹn	570
 wẹ	yin	566
+na	mi	565
 dọ	dọ	555
 tọn	na	543
 whenue	e	541
 dohia	dọ	537
-he	ma	534
+he	ma	533
 to	ojlẹ	532
 po	tọn	531
 lẹ	wẹ	530
 he	e	525
-e	ko	525
 tọn	wẹ	524
+e	ko	524
 lẹ	nado	523
-mẹhe	to	521
+mẹhe	to	520
 lọ	ji	517
 ṣie	lẹ	517
 yé	na	511
 dopo	to	510
-kunnudetọ	jehovah	508
-wẹ	nọ	506
+kunnudetọ	jehovah	507
+wẹ	nọ	505
 lẹ	ma	504
 bọ	e	499
 de	to	490
@@ -89,13 +107,13 @@ etọn	mẹ	447
 podọ	to	446
 tọn	go	443
 tọn	do	443
-to	azán	436
-nugbo	lọ	427
+to	azán	433
 ma	sọgan	426
-bo	na	422
+nugbo	lọ	426
 yẹn	na	422
+bo	na	421
 wá	sọn	419
-ji	to	418
+ji	to	417
 de	na	413
 nado	mọ	412
 he	na	408
@@ -108,13 +126,14 @@ dona	nọ	396
 lọ	po	394
 etọn	po	394
 yé	ma	391
+jesu	tọn	391
 ma	dona	385
 we	nado	385
 na	hẹn	383
 bosọ	nọ	382
 yé	to	380
 to	aigba	379
-lẹ	ko	377
+lẹ	ko	376
 nọ	saba	375
 do	to	374
 a	na	373
@@ -124,22 +143,23 @@ na	we	370
 mí	ni	368
 sọgan	yin	367
 mí	na	367
-bo	to	366
 mí	to	366
+bo	to	365
 he	mí	360
 ehe	mẹ	360
 nọ	basi	359
 ma	ko	352
-to	whenuena	352
-dọ	mí	350
+to	whenuena	351
+dọ	mí	349
 lẹ	bo	349
 ma	nado	346
 nado	basi	346
 wẹ	ya	345
 de	tọn	345
-hẹn	ẹn	344
+wá	na	344
 he	yé	343
 jehovah	jiwheyẹwhe	343
+hẹn	ẹn	343
 yin	bibasi	343
 nọ	na	342
 wẹ	na	338
@@ -154,7 +174,7 @@ nado	yin	334
 aliho	he	332
 lọ	go	331
 nọ	wà	331
-islaeli	tọn	330
+islaeli	tọn	329
 tọn	lẹpo	328
 dọ	yé	328
 bo	ma	326
@@ -181,6 +201,7 @@ to	yé	288
 yé	ko	288
 bọ	yé	286
 mẹ	nado	284
+tọn	nọ	284
 etlẹ	yindọ	283
 gọalọna	we	282
 mí	dona	282
@@ -196,6 +217,7 @@ yé	mẹ	276
 delẹ	to	272
 lẹ	yin	271
 nado	wà	266
+e	mẹ	266
 lẹ	he	266
 mìtọn	lẹ	264
 mẹ	tọn	264
@@ -204,12 +226,12 @@ susu	lẹ	262
 na	yí	261
 po	go	261
 wẹ	mí	261
-na	jehovah	260
 po	mẹ	260
 nado	yí	259
 tọ́n	sọn	259
 na	mẹhe	259
 jlo	dọ	259
+na	jehovah	259
 be	a	257
 ahọluduta	lọ	257
 sinai	do	256
@@ -228,14 +250,14 @@ po	do	249
 yé	do	247
 na	owhe	247
 eyin	e	246
-nọ	mọ	245
 voovo	lẹ	245
 lẹpo	mẹ	244
+nọ	mọ	244
 de	nado	244
-yin	jiji	240
 yin	na	240
 lẹpo	po	240
 visunnu	etọn	240
+yin	jiji	239
 e	ji	237
 yin	hinhẹn	237
 yí	do	236
@@ -244,15 +266,15 @@ tọn	yin	236
 dọ	a	234
 ji	bo	234
 wà	nuhe	233
-islaelivi	lẹ	233
 he	wá	232
 na	ewọ	231
+islaelivi	lẹ	231
 mẹ	hẹ	230
 na	nuhe	230
 olọn	mẹ	230
-mì	gbọ	229
 he	yè	228
 lọ	do	228
+mì	gbọ	228
 e	tindo	227
 wẹ	yindọ	226
 do	e	226
@@ -269,25 +291,27 @@ nọ	wá	221
 to	biblu	221
 lẹpo	wẹ	221
 nado	tindo	220
+klisti	tọn	220
 gbigbọmẹ	tọn	219
 yẹn	ko	218
 tọn	mítọn	218
 nuhe	e	217
-tindo	owhe	217
 basi	zẹẹmẹ	217
 yetọn	mẹ	216
+tindo	owhe	216
+lọ	he	216
 na	gọalọna	215
 ṣie	mẹ	215
 mítọn	mẹ	213
 lẹ	sọ	213
 de	po	213
 tọn	wutu	212
-podọ	nado	212
 yin	yiyizan	212
 sọgan	hẹn	212
 de	ji	211
+podọ	nado	211
 biblu	mẹ	210
-ko	hẹn	210
+ko	hẹn	209
 ode	awetọ	209
 yẹn	ma	208
 zan	nado	208
@@ -298,25 +322,25 @@ wẹ	yẹn	205
 ewọ	na	205
 nọ	dọ	205
 to	egbehe	205
-lẹ	ṣẹnṣẹn	204
 lẹ	wá	204
 na	mọ	204
+lẹ	ṣẹnṣẹn	203
 mẹdepope	he	202
 tọn	ma	201
 mí	tindo	201
-jehovah	ko	201
 bo	yin	200
 mí	ko	200
+jehovah	ko	200
 mẹ	gbọn	200
 gbẹtọvi	lẹ	200
 na	to	199
 gọalọna	mí	198
-be	e	198
 ko	to	198
 bo	hẹn	198
-tòdaho	lọ	197
+be	e	197
 ji	tọn	196
 kẹdẹ	wẹ	196
+tòdaho	lọ	196
 sọgan	nọ	195
 sọgan	gọalọna	195
 nado	yọ́n	195
@@ -331,6 +355,7 @@ mẹ	do	192
 etọn	do	192
 mẹ	podọ	190
 aigba	lọ	190
+hlan	jehovah	190
 etọn	na	190
 daho	de	190
 ko	mọ	189
@@ -339,14 +364,16 @@ hiẹ	sọgan	189
 to	nukọn	189
 nọ	ze	188
 nuhe	yin	188
+na	jiwheyẹwhe	187
 po	wẹ	187
-ni	yin	187
 dagbe	de	187
 lẹdo	aihọn	187
-podọ	na	186
+ni	yin	186
 yí	baptẹm	186
 zindonukọn	nado	186
+po	na	186
 ju	lẹ	186
+podọ	na	185
 kọndopọ	mẹ	185
 sọgan	ko	185
 yin	nado	184
@@ -356,21 +383,21 @@ wá	aimẹ	183
 hẹ	ẹ	183
 yin	dide	183
 whenue	mí	183
-lẹ	sọn	183
 wẹ	to	183
 tọn	yetọn	183
 ko	yí	182
 whenuena	e	182
+lẹ	sọn	181
 lọ	yin	181
 jehovah	na	180
 lẹ	dọ	180
 nado	plọn	180
 po	nọ	180
 lẹ	ni	180
-lẹ	dali	179
 to	agun	179
 po	nado	178
 nado	na	178
+lẹ	dali	178
 yin	to	178
 ṣigba	e	178
 họnwun	dọ	177
@@ -383,7 +410,6 @@ ojlẹ	de	176
 dọ	to	176
 e	họnwun	176
 kọdetọn	dagbe	176
-nado	sọgan	176
 do	pọ́n	176
 to	jehovah	176
 etlẹ	yin	175
@@ -391,6 +417,7 @@ nọ	yì	175
 nujọnu	tọn	175
 po	he	175
 e	dọ	175
+nado	sọgan	175
 tọn	nado	175
 mì	ma	174
 yin	nina	174
@@ -424,6 +451,7 @@ tindo	nuhudo	165
 e	yí	164
 do	na	164
 te	lẹ	164
+lẹ	hẹn	164
 lọ	ma	164
 de	do	164
 lẹdo	lọ	163
@@ -431,17 +459,17 @@ agun	tọn	163
 owhe	kanweko	162
 do	nọ	162
 nọ	biọ	162
-jesu	klisti	162
 etọn	to	161
 awe	lẹ	161
+tọn	ehe	161
 to	sinsẹ̀n	161
 ko	tindo	161
+jesu	klisti	161
 eyin	yé	160
 podọ	yé	159
 gbọ	mí	159
 ahọluduta	jiwheyẹwhe	159
 towe	tọn	158
-tọn	gbè	158
 hẹ	yé	158
 yin	yinyọnẹn	158
 mì	na	157
@@ -449,6 +477,7 @@ asi	etọn	157
 go	bo	157
 go	lẹ	157
 tindo	to	157
+tọn	gbè	157
 yin	mimọ	157
 ohó	jiwheyẹwhe	157
 mẹ	dọ	156
@@ -472,9 +501,9 @@ basi	nudide	152
 he	yẹn	152
 ji	wẹ	152
 ko	wà	151
-ma	sọgbe	151
 e	wá	151
 nọ	yinuwa	151
+ma	sọgbe	150
 pò	to	149
 na	basi	149
 do	yin	149
@@ -507,20 +536,21 @@ yẹn	to	144
 ma	yọ́n	144
 dọ	jiwheyẹwhe	143
 ko	sọ	143
-poun	wẹ	143
 ojlẹ	he	143
 etọn	he	143
 nawẹ	mí	143
+yise	dọ	142
 e	jẹ	142
 na	ojlẹ	142
 dọ	ewọ	142
+poun	wẹ	142
 mẹ	po	142
-ji	nado	142
 sọ	to	142
 yé	ni	142
 nuhe	yé	142
 hiẹ	ko	141
 yèdọ	mẹhe	141
+ji	nado	141
 lẹpo	ji	141
 ẹn	nado	141
 asi	po	140
@@ -533,6 +563,7 @@ basi	hihọ́na	138
 ma	jlo	138
 po	ji	138
 nuhe	nọ	138
+mẹ	he	137
 lẹ	yí	137
 ewọ	ko	137
 ehe	lẹpo	137
@@ -547,25 +578,26 @@ yé	tindo	136
 mí	do	136
 ahọluduta	tọn	136
 yọ́n	pinpẹn	136
-eyin	hiẹ	136
 nọ	pọ́n	135
 asu	po	135
-mẹnu	wẹ	135
 ewọ	ma	135
 po	mẹhe	135
 devi	etọn	135
 lẹ	gando	135
 to	nuhe	135
 onú	ehelẹ	135
-lẹ	wutu	135
 mì	to	135
 nado	ze	135
 yé	ji	135
 klistiani	lẹ	135
+eyin	hiẹ	135
 nudi	owhe	135
 to	godo	134
+mẹnu	wẹ	134
+lẹpo	tọn	134
 bo	nasọ	134
 e	yindọ	134
+lẹ	wutu	134
 lọ	ko	134
 to	aihọn	134
 gbẹtọ	lọ	134
@@ -614,7 +646,6 @@ mahẹ	to	126
 naijilia	tọn	126
 wà	to	125
 nugbo	wẹ	125
-be	hiẹ	125
 nado	wleawuna	125
 to	gigọ́	125
 etọn	titi	125
@@ -624,6 +655,7 @@ to	whepoponu	125
 bọ	mí	125
 owe	lọ	125
 mahopọnna	dọ	125
+be	hiẹ	124
 ovi	lẹ	124
 mì	ko	124
 homẹ	tọn	124
@@ -656,7 +688,6 @@ do	sọ	120
 bibasi	to	120
 e	jlo	120
 oṣiọ	lẹ	120
-biblu	dọ	120
 jiwheyẹwhe	nugbo	120
 yí	sọn	119
 to	ayimatẹn	119
@@ -664,6 +695,7 @@ mi	to	119
 tin	he	119
 to	hodọ	119
 yé	wá	119
+biblu	dọ	119
 dawe	lọ	119
 e	taidi	119
 wẹ	dọ	118
@@ -688,9 +720,7 @@ a	ko	117
 ehe	wẹ	117
 pò	lẹ	116
 taun	to	116
-mí	yin	116
 to	whedelẹnu	116
-pọ́n	lehe	116
 a	dona	116
 na	hiẹ	115
 tọn	podọ	115
@@ -698,6 +728,8 @@ whenue	a	115
 mẹ	wá	115
 he	go	115
 lizọnyizọn	lọ	115
+mí	yin	115
+pọ́n	lehe	115
 akọta	lẹ	115
 po	ko	115
 tọn	sọn	115
@@ -709,7 +741,6 @@ pọmẹ	hẹ	114
 to	ahun	114
 nido	yin	114
 mẹ	bọ	114
-yọyọ	lọ	114
 to	ogbè	114
 ko	dọ	113
 depope	to	113
@@ -719,6 +750,7 @@ sọ	yí	113
 na	omẹ	113
 wà	nado	113
 he	bẹ	113
+yọyọ	lọ	113
 tọn	delẹ	113
 mẹho	agun	113
 azọ́n	yẹwhehodidọ	113
@@ -744,7 +776,6 @@ mẹdetiti	tọn	110
 lẹ	tin	110
 omẹ	etọn	110
 de	tin	110
-jehovah	nọ	110
 tindo	yise	110
 dile	yé	110
 ayiha	mẹ	110
@@ -754,13 +785,13 @@ ma	nasọ	109
 osẹ́n	lọ	109
 wẹ	tin	109
 nado	dọ	109
+jehovah	nọ	109
 ojlo	mẹ	109
 yise	to	109
 plitẹnhọ	ahọluduta	109
 ewọ	he	109
 lọ	wá	109
 na	do	109
-intẹnẹt	ji	108
 sọn	e	108
 ehe	ji	108
 nọ	ylọ	108
@@ -769,15 +800,17 @@ po	mẹmẹyọnnu	108
 to	sinsẹ̀nzọn	108
 na	tin	108
 to	onú	108
-sọ	hẹn	108
 to	ṣẹnṣẹn	108
 de	nọ	108
+intẹnẹt	ji	107
 ko	basi	107
 hohowhenu	tọn	107
+sọ	hẹn	107
 sẹ̀	sọn	107
 sọawuhia	to	107
 nuhe	na	107
 do	go	107
+yin	nugbonọ	107
 yẹwhehodidọ	tọn	107
 aimẹ	to	106
 mẹ	e	106
@@ -800,7 +833,6 @@ tọn	wá	104
 yetọn	po	104
 e	mọ	104
 to	mì	104
-nuhe	mí	104
 ma	dẹn	104
 otò	lọ	104
 ohọ̀	jehovah	104
@@ -811,6 +843,7 @@ tọn	devo	103
 etọn	yin	103
 mẹmẹsunnu	po	103
 dovivẹnu	nado	103
+nuhe	mí	103
 hiẹ	dona	103
 kudeji	dọ	103
 ji	na	102
@@ -839,6 +872,7 @@ to	whenẹnu	99
 yé	go	99
 yetọn	tọn	99
 ayidego	tọn	99
+to	bẹjẹeji	99
 dopolọ	mẹ	99
 to	yìyì	99
 whẹho	lọ	99
@@ -861,9 +895,9 @@ towe	po	97
 de	sọn	97
 po	nuhe	97
 sọgan	plọn	97
-nuhe	biblu	97
 nawẹ	a	96
 a	ni	96
+tọn	kavi	96
 mẹ	ma	96
 zanhẹmẹ	tọn	96
 po	ma	96
@@ -871,13 +905,14 @@ ze	e	96
 lẹpo	na	96
 jehovah	to	96
 opli	lẹ	96
+nuhe	biblu	96
 jehovah	nukọn	96
 to	olọn	96
 awọnlin	tọn	96
 nọ	yọ́n	95
-diun	dọ	95
 omẹ	ehelẹ	95
 tọn	dali	95
+to	jelusalẹm	95
 davidi	tọn	95
 gbesisọ	mẹ	95
 ko	lẹzun	95
@@ -887,6 +922,7 @@ sẹ̀n	jehovah	95
 godo	mẹ	94
 yẹn	nasọ	94
 na	lẹzun	94
+diun	dọ	94
 nọ	mọdọ	94
 tindo	numọtolanmẹ	94
 jehovah	wẹ	94
@@ -903,15 +939,16 @@ do	niyẹn	93
 ojlẹ	enẹ	93
 ji	e	93
 dọ	eyin	93
-dile	mí	93
 ko	tin	93
 na	jlo	93
 lehe	mí	93
 hẹ	mi	93
 bọ	a	93
+yin	alọkẹyi	93
 a	jlo	93
 daho	lọ	93
 ko	de	93
+mẹ	lọ	92
 jẹakọ	hẹ	92
 yẹwhenọ	lọ	92
 dọna	mi	92
@@ -922,12 +959,12 @@ bosọ	yin	92
 ẹn	to	92
 taun	nado	92
 bo	yì	92
-mẹ	lọ	91
 ehelẹ	mẹ	91
 taidi	mẹhe	91
 biblu	pinplọn	91
 to	afọdopolọji	91
 lọ	blebu	91
+dile	mí	91
 bo	dọna	91
 nukun	homẹ	91
 kú	to	91
@@ -942,7 +979,6 @@ ahọlu	lọ	90
 sika	tọn	90
 dọ	jesu	90
 eyin	mì	90
-gando	lehe	90
 onú	lẹpo	90
 to	nudi	90
 mì	mẹ	90
@@ -961,6 +997,7 @@ lẹpo	nado	89
 to	gbesisọ	89
 e	dè	89
 po	wá	89
+gando	lehe	89
 lẹ	gblamẹ	89
 mẹ	nọ	89
 podọ	sọn	89
@@ -968,7 +1005,6 @@ pli	dopọ	89
 oyín	jiwheyẹwhe	89
 podọ	ewọ	88
 wẹ	mì	88
-ẹn	diun	88
 kleun	de	88
 whenẹnu	wẹ	88
 do	nuhe	88
@@ -990,6 +1026,8 @@ dawe	de	88
 mọ	to	88
 biblu	plọntọ	88
 mi	taun	88
+mẹ	jẹ	87
+ẹn	diun	87
 yin	yiylọ	87
 gando	nuhe	87
 basi	tito	87
@@ -1016,6 +1054,7 @@ na	azọ́n	86
 lọ	whenu	86
 nọ	hia	86
 mọ	ẹn	86
+towe	na	86
 etẹwẹ	yin	86
 e	biọ	86
 dọ	mì	85
@@ -1098,7 +1137,6 @@ yẹn	wẹ	81
 deji	dọ	81
 a	te	81
 nọ	zan	81
-wẹ	sọgan	81
 plọn	mí	81
 gbẹzan	etọn	81
 sù	te	81
@@ -1116,7 +1154,7 @@ delẹ	he	80
 sunnu	po	80
 na	kanbiọ	80
 mìtọn	mẹ	80
-ji	gbọn	80
+wẹ	sọgan	80
 hugan	lẹ	80
 he	taidi	80
 avọ́nunina	mimẹ̀	80
@@ -1136,6 +1174,8 @@ ji	do	79
 akuẹ	he	79
 nado	plọnnu	79
 apọsteli	paulu	79
+ẹn	lẹ	79
+ji	gbọn	79
 mẹjitọ	lẹ	79
 daho	hugan	79
 mimọ	to	79
@@ -1167,12 +1207,12 @@ dekọtọn	do	77
 hù	i	77
 yíyí	do	77
 to	okú	77
+tọn	godo	77
 to	gbẹtọ	77
 ko	sè	77
 agun	mẹ	77
 mẹhe	na	77
 do	wiwe	77
-ehe	bẹ	77
 plọn	sọn	77
 jo	na	77
 ojlẹ	dindẹn	77
@@ -1194,7 +1234,6 @@ yè	na	76
 ojlẹ	lọ	76
 magbe	nado	76
 aliho	dagbe	76
-etọn	ji	76
 hia	ẹ	76
 go	do	76
 do	lehe	76
@@ -1209,14 +1248,15 @@ wiwe	lẹ	76
 tọn	susu	76
 hẹn	mí	76
 lẹ	whenu	75
-nuhe	jehovah	75
 yí	sọwhiwhe	75
 sọwhiwhe	do	75
 ṣie	do	75
+etọn	ji	75
 plọnnu	gando	75
 po	whẹndo	75
 ni	ma	75
 nọ	lẹndọ	75
+ehe	bẹ	75
 dona	wà	75
 nugbo	biblu	75
 to	whẹndo	75
@@ -1230,6 +1270,7 @@ po	dali	74
 yin	wiwà	74
 jẹ	obá	74
 yetọn	go	74
+nuhe	jehovah	74
 nado	biọ	74
 jehovah	po	74
 naegbọn	mí	74
@@ -1290,6 +1331,7 @@ mí	yọnẹn	71
 e	de	71
 wá	mọ	71
 nọ	tin	71
+titi	mẹ	71
 mí	mọ	71
 nado	dín	70
 he	gbè	70
@@ -1302,7 +1344,6 @@ ninọmẹ	lọ	70
 jesu	po	70
 dọ	nugbo	70
 nuhe	ma	70
-lọ	yí	70
 lẹdogbedevomẹ	aihọn	70
 onọ̀	etọn	70
 na	mẹdevo	70
@@ -1330,6 +1371,7 @@ aihọn	tọn	69
 nado	mọnukunnujẹ	69
 yizan	mẹ	69
 wà	dagbe	69
+lọ	yí	69
 lẹ	mọ	69
 ma	yọnẹn	69
 ẹn	do	69
@@ -1371,15 +1413,14 @@ daho	lẹ	67
 whẹndo	de	67
 yin	didohia	67
 lẹ	ya	67
-nado	pọ́n	67
 yetọn	do	67
 ṣigba	na	67
 jiwheyẹwhe	wẹ	67
-tẹmpli	lọ	67
 lẹpo	to	67
 to	nugbo	67
 tọn	towe	66
 ohó	he	66
+mi	do	66
 biblu	hẹ	66
 hlan	jiwheyẹwhe	66
 nado	bẹ	66
@@ -1392,10 +1433,12 @@ gbẹ́	nado	66
 eyin	yẹn	66
 lọsu	nọ	66
 hugan	he	66
+nado	pọ́n	66
 owhé	etọn	66
 sọ	mọ	66
 lọ	nukọn	66
 delẹ	nọ	66
+tẹmpli	lọ	66
 e	lẹzun	66
 fọ́n	bo	66
 he	ewọ	66
@@ -1404,7 +1447,6 @@ akọta	he	66
 ehe	do	65
 yé	omẹ	65
 ogbẹ̀	tọn	65
-sọgan	basi	65
 gbẹ́	nọ	65
 omẹ	wiwe	65
 do	alọ	65
@@ -1430,6 +1472,7 @@ eyin	ewọ	65
 lẹpo	do	65
 sọ	tindo	65
 to	nọtẹn	64
+sọgan	basi	64
 mí	wá	64
 didọ	dọ	64
 nugopọntọ	lẹdo	64
@@ -1460,7 +1503,6 @@ ofi	wiwe	64
 wẹ	tindo	63
 hiẹ	ni	63
 do	mi	63
-podọ	ehe	63
 mọ	nuhe	63
 de	poun	63
 do	whẹho	63
@@ -1495,10 +1537,10 @@ de	kavi	62
 to	kandai	62
 nugbo	tọn	62
 tọn	kọ̀n	62
+podọ	ehe	62
 mí	nido	62
 dote	na	62
 gblọndo	na	62
-jehovah	ma	62
 hẹn	homẹgble	62
 yì	opli	62
 nado	wàmọ	62
@@ -1527,10 +1569,10 @@ he	sọ	61
 dagbe	mẹ	61
 nọ	kanse	61
 mọ	gblọndo	61
+jehovah	ma	61
 ojlo	jiwheyẹwhe	61
 yinuwa	po	61
 ma	penugo	61
-etẹwẹ	a	61
 nado	hia	61
 yin	dandan	61
 etẹwẹ	mí	61
@@ -1543,7 +1585,6 @@ tangan	de	61
 ahun	etọn	61
 otẹn	tintan	61
 yọyọ	lẹ	61
-na	awagbà	61
 ye	nọ	61
 po	sọ	60
 hùn	dotẹnmẹ	60
@@ -1556,6 +1597,7 @@ e	nasọ	60
 doalọ	to	60
 finẹ	lẹ	60
 enẹ	tọn	60
+etẹwẹ	a	60
 hugan	lọ	60
 angẹli	lẹ	60
 hodẹ̀	hlan	60
@@ -1568,6 +1610,7 @@ hẹji	yì	60
 finẹ	wẹ	60
 hogbe	lọ	60
 vẹawu	nado	60
+na	awagbà	60
 na	ovi	59
 yin	zinzinjẹgbonu	59
 mìwlẹ	na	59
@@ -1649,7 +1692,6 @@ mítọn	he	57
 mẹjitọ	etọn	57
 họntọn	etọn	57
 dukosọ	hẹ	57
-to	tẹmpli	57
 nùdego	to	57
 fọtọ́n	susu	57
 ayajẹ	wá	57
@@ -1682,6 +1724,7 @@ yin	dọ	56
 yin	visunnu	56
 na	ylando	56
 we	lẹ	56
+to	tẹmpli	56
 ṣie	wẹ	56
 do	lẹ	56
 sinai	to	56
@@ -1704,7 +1747,6 @@ a	yin	55
 ni	dọ	55
 gbẹzan	mítọn	55
 mẹhe	go	55
-te	do	55
 podọ	nawẹ	55
 pọ́n	nuhe	55
 nujijọ	he	55
@@ -1726,12 +1768,12 @@ tlẹ	sọgan	55
 to	odẹ̀	55
 dawe	he	55
 ayimatẹn	awọnlin	55
+sọn	jehovah	54
 bọ	yẹn	54
 tọn	ehelẹ	54
 basi	lẹ	54
 kakati	nido	54
 mímẹpo	wẹ	54
-na	ahọlu	54
 mẹlọ	lẹ	54
 omẹ	islaeli	54
 obá	he	54
@@ -1754,6 +1796,7 @@ dona	ko	54
 podọ	yẹn	54
 na	nudi	54
 mítọn	po	54
+te	do	54
 to	hagbẹ	54
 hlan	mì	54
 wá	mọdọ	54
@@ -1771,6 +1814,7 @@ whẹndo	yetọn	54
 go	dọmọ	53
 ji	lẹpo	53
 tindo	jlọjẹ	53
+na	ahọlu	53
 ewọ	ni	53
 do	mẹhe	53
 lẹpo	go	53
@@ -1788,6 +1832,7 @@ sọgan	na	53
 to	tintan	53
 mì	yin	53
 fihe	e	53
+ehelẹ	tọn	53
 sọgan	yọ́n	53
 yẹwhenọ	daho	53
 daho	he	53
@@ -1835,7 +1880,6 @@ he	yọ́n	52
 na	dù	52
 mi	bo	52
 wiwe	de	52
-hosọ	lọ	52
 wleawufo	nado	52
 dona	basi	51
 na	taidi	51
@@ -1846,6 +1890,7 @@ azọ́ndena	nado	51
 na	hùn	51
 wà	azọ́n	51
 tlẹ	ko	51
+mítọn	to	51
 ẹ	to	51
 ewọ	nasọ	51
 ko	degbe	51
@@ -1877,6 +1922,7 @@ yinyọnẹn	taidi	51
 yin	pinplọn	51
 falesi	lẹ	51
 owhe	atọ̀n	51
+hosọ	lọ	51
 fie	nuhudo	51
 malia	po	51
 ahi	lọ	51
@@ -1899,7 +1945,6 @@ to	nulẹnpọn	50
 do	wá	50
 wẹ	nkọ	50
 to	egbé	50
-mì	sọgan	50
 kàn	kanbiọ	50
 na	ayajẹ	50
 towe	do	50
@@ -1915,7 +1960,6 @@ susu	po	50
 lọsu	wẹ	50
 lẹ	gọna	50
 to	dandannu	50
-sinsẹ̀n	lalo	50
 tonudidọ	tọn	50
 na	emi	49
 ehelẹ	na	49
@@ -1928,6 +1972,7 @@ do	finẹ	49
 ahọlu	islaeli	49
 po	wutu	49
 tindo	numimọ	49
+ji	sọn	49
 e	nado	49
 yin	oylọ-basina	49
 plọnnu	sọn	49
@@ -1963,6 +2008,7 @@ dali	to	49
 dopo	gee	49
 lẹ	gbè	49
 pẹvi	lọ	49
+mì	sọgan	49
 to	whemẹwhemẹ	49
 intẹnẹt	tọn	49
 jiwheyẹwhe	do	49
@@ -1978,6 +2024,7 @@ to	pipehẹ	49
 wẹndagbe	ahọluduta	49
 sinsẹ̀n-bibasi	whẹndo	49
 yise	hia	49
+sinsẹ̀n	lalo	49
 heblu	tọn	49
 na	gbẹtọvi	49
 nuhudo	sù	49
@@ -1990,7 +2037,6 @@ tọn	enẹ	48
 jọja	de	48
 mítọn	nọ	48
 ojlẹ	vude	48
-yigbe	dọ	48
 to	alọwle	48
 asi	e	48
 to	gbejizọnlin	48
@@ -2043,6 +2089,7 @@ hlan	nado	47
 tọn	pete	47
 mose	tọn	47
 yin	vivasudo	47
+yigbe	dọ	47
 yin	nuhe	47
 owe	sinai	47
 tọn	hlan	47
@@ -2086,7 +2133,6 @@ sọ	do	46
 jiwheyẹwhe	islaeli	46
 de	dọ	46
 do	dọ	46
-to	agewaji	46
 whẹndo	mítọn	46
 owhe	awe	46
 yiwanna	ẹn	46
@@ -2130,6 +2176,7 @@ we	dọ	45
 gbẹzan	towe	45
 nido	nọ	45
 bo	masọ	45
+to	agewaji	45
 tọn	hẹ	45
 nado	sè	45
 basi	nunina	45
@@ -2144,7 +2191,6 @@ didẹ	nuhahun	45
 aflika	tọn	45
 do	wà	45
 josẹfu	tọn	45
-emitọn	lẹ	45
 tọ́n	to	45
 dẹ́	do	45
 mì	yí	45
@@ -2162,6 +2208,7 @@ hiẹ	do	45
 ko	dọna	45
 jehovah	sọ	45
 dopodopo	mẹ	45
+gbẹtọ	lẹpo	45
 aihọn	mẹ	45
 omẹ	jehovah	45
 ahun	towe	45
@@ -2173,9 +2220,7 @@ gòhọ	tọn	45
 nọ	yi	45
 e	yi	45
 ewọ	to	44
-jiwheyẹwhe	sọ	44
 ehe	wutu	44
-adam	po	44
 jẹ	dọ	44
 to	odò	44
 nuhe	tin	44
@@ -2212,6 +2257,7 @@ fie	mí	44
 lẹ	godo	44
 mọ	bọ	44
 otọ́	yetọn	44
+emitọn	lẹ	44
 po	gbọn	44
 mẹ	ko	44
 nọ	sọawuhia	44
@@ -2242,6 +2288,7 @@ ote	tọn	44
 a	mọ	44
 to	aihun	44
 onú	wiwe	43
+mẹ	de	43
 lọ	ni	43
 bibiọ	to	43
 biblu	na	43
@@ -2260,8 +2307,8 @@ whẹndo	towe	43
 nawẹ	hiẹ	43
 lẹ	tọ́n	43
 na	mẹdepope	43
-dọ	omẹ	43
 to	plitẹnhọ	43
+de	wutu	43
 delẹ	tọn	43
 do	sisi	43
 ayajẹ	do	43
@@ -2313,6 +2360,7 @@ dokọ̀	tọn	43
 owhlẹ	ote	43
 po	de	42
 nado	whlẹn	42
+adam	po	42
 dopodopo	tọn	42
 i	zan	42
 ajọwiwa	tọn	42
@@ -2330,6 +2378,7 @@ tọn	taidi	42
 wẹ	omẹ	42
 ewọ	go	42
 yé	pé	42
+dọ	omẹ	42
 etẹwẹ	sọgan	42
 klistiani	de	42
 bo	tlẹ	42
@@ -2372,7 +2421,6 @@ hùn	do	42
 avọ́nunina	ylando	42
 to	paladisi	42
 po	lizọnyizọn	42
-amẹlika	tọn	42
 dọ	ovi	41
 sè	ogbè	41
 nọ	gbọn	41
@@ -2406,7 +2454,6 @@ ko	jọ	41
 bọdego	ehelẹ	41
 ahun	mítọn	41
 otọ́	de	41
-oplọn	tọn	41
 to	whedepopenu	41
 devo	depope	41
 gbọn	yise	41
@@ -2425,7 +2472,6 @@ ojlo	hia	41
 bibasi	gbọn	41
 pete	ji	41
 yé	wà	41
-to	azọ̀njẹ	41
 azọ́n	dagbe	41
 edetiti	tọn	41
 to	tepọn	41
@@ -2440,7 +2486,7 @@ wefọ	he	41
 satani	tọn	41
 wehọmẹ	daho	41
 gbẹzan	po	41
-to	intẹnẹt	40
+amẹlika	tọn	41
 e	po	40
 nasọ	yí	40
 nọtẹn	ehe	40
@@ -2450,7 +2496,6 @@ yin	bibẹ	40
 glọ	to	40
 to	kunnudetọ	40
 hẹ	lẹ	40
-lọ	te	40
 dagbe	tọn	40
 yin	dagbe	40
 to	dindin	40
@@ -2463,7 +2508,6 @@ do	mì	40
 ṣie	ma	40
 dagbe	to	40
 mẹ	gando	40
-zinjẹgbonu	ehe	40
 biblu	ma	40
 jesu	go	40
 e	sè	40
@@ -2486,7 +2530,9 @@ mẹ	dile	40
 to	alọdlẹndo	40
 ogbè	lélé	40
 azán	godo	40
+mìtọn	to	40
 odẹ̀	mẹ	40
+to	azọ̀njẹ	40
 owhe	ao	40
 po	sisi	40
 jesu	yin	40
@@ -2494,6 +2540,7 @@ sọwhiwhe	po	40
 bọ	gbẹtọ	40
 yetọn	nọ	40
 nọ	diọ	40
+to	intẹnẹt	39
 podọ	hiẹ	39
 mọ	yé	39
 kavi	na	39
@@ -2512,6 +2559,7 @@ nuhahun	lẹ	39
 wà	nudopolọ	39
 fidepope	he	39
 nuhe	hiẹ	39
+lọ	te	39
 wá	e	39
 họntọn	towe	39
 na	akọta	39
@@ -2522,6 +2570,7 @@ to	gandu	39
 tindo	lẹ	39
 mí	te	39
 kandai	biblu	39
+oplọn	tọn	39
 nujọnu	hugan	39
 he	bọawu	39
 yiyizan	na	39
@@ -2538,7 +2587,6 @@ ota	etọn	39
 to	anademẹ	39
 na	gànhiho	39
 enẹ	ji	39
-mìtọn	to	39
 yede	jo	39
 gbẹzan	he	39
 nado	dọyẹwheho	39
@@ -2566,7 +2614,6 @@ yizan	nado	39
 wekantẹn	alahọ	39
 nọ	wa	39
 ji	we	38
-aliho	devo	38
 bẹ	azọ́n	38
 agọe	tọn	38
 to	gblagbla	38
@@ -2589,6 +2636,7 @@ sù	taun	38
 to	hodidọ	38
 biblu	hihia	38
 ko	pé	38
+zinjẹgbonu	ehe	38
 do	adà	38
 to	oklunọ	38
 mẹhe	do	38
@@ -2640,6 +2688,7 @@ aki	lọ	38
 dé	he	38
 gando	jiwheyẹwhe	37
 mẹ	te	37
+aliho	devo	37
 lẹ	gbẹ́	37
 osẹ́n	jiwheyẹwhe	37
 jẹ	nado	37
@@ -2695,6 +2744,7 @@ to	awhàn	37
 he	sẹpọ	37
 nọ	vẹawu	37
 podọ	gbọn	37
+susu	tọn	37
 nọ	kú	37
 podọ	lehe	37
 dọ	biblu	37
@@ -2744,7 +2794,6 @@ he	dẹn	36
 wẹnlatọ	ahọluduta	36
 tọn	enẹlẹ	36
 zẹẹmẹdo	dọ	36
-yiyizan	dali	36
 ni	do	36
 sinsẹ̀nzọn	wiwe	36
 huhlọn	he	36
@@ -2841,6 +2890,7 @@ yẹn	jlo	35
 to	agbegbe	35
 to	jijlo	35
 po	nuyiwa	35
+yiyizan	dali	35
 tẹnpọn	bo	35
 mẹ	a	35
 nado	didẹ	35
@@ -2879,7 +2929,6 @@ ahun	mìtọn	35
 osin	he	35
 nọ	jọ	35
 mí	taun	35
-sù	to	35
 sisi	po	35
 nuhe	ylan	35
 basi	vọjlado	35
@@ -2977,6 +3026,7 @@ biblu	plọnmẹ	34
 gblọndo	he	34
 na	lẹ	34
 to	agbasa-liho	34
+sù	to	34
 owanyi	tọn	34
 towe	wẹ	34
 nawẹ	yé	34
@@ -3003,6 +3053,7 @@ azọ́n	mítọn	34
 mẹnu	lẹ	34
 dọ	lehe	34
 yé	mọdọ	33
+jiwheyẹwhe	sọ	33
 whégbè	tọn	33
 ma	kẹalọyi	33
 ze	afọdide	33
@@ -3014,6 +3065,7 @@ jelusalẹm	lẹ	33
 azán	enẹ	33
 enẹlẹ	tọn	33
 sọgan	lẹzun	33
+nọte	do	33
 owhé	mítọn	33
 yé	basi	33
 go	wutu	33
@@ -3038,7 +3090,6 @@ tọn	dagbe	33
 nado	dọhodo	33
 sinsẹ̀nzọn	jehovah	33
 na	lizọnyizọn	33
-bẹ	hosọ	33
 etẹwẹ	e	33
 lọsu	sọgan	33
 na	míwlẹ	33
@@ -3130,7 +3181,6 @@ yise	yetọn	32
 lẹkọ	do	32
 sọ	de	32
 nado	glọnalina	32
-mẹdelẹ	ko	32
 dọ	klistiani	32
 pọ́n	ya	32
 to	apajlẹ	32
@@ -3141,6 +3191,7 @@ nado	zan	32
 mọnkọtọn	mẹ	32
 biblu	donù	32
 ehe	dohia	32
+mẹsia	lọ	32
 na	apajlẹ	32
 go	podọ	32
 awetọ	ji	32
@@ -3159,7 +3210,6 @@ yin	whẹdana	32
 na	dewe	32
 gọalọna	mẹhe	32
 dọyẹwheho	to	32
-apòmẹ	tọn	32
 ovi	ṣie	32
 apajlẹ	de	32
 vivẹnudo	nado	32
@@ -3220,6 +3270,7 @@ awhànpa	lẹ	31
 etọn	tin	31
 mẹ	yè	31
 to	babilọni	31
+to	họntonu	31
 pekọ	wá	31
 yin	whiwhlepọn	31
 osẹ	dopo	31
@@ -3228,6 +3279,7 @@ fihe	yé	31
 sè	nuhe	31
 omẹ	juda	31
 osó	lẹ	31
+mẹdelẹ	ko	31
 yọnbasi	nado	31
 nado	duvivi	31
 pinpọnhlan	taidi	31
@@ -3237,7 +3289,7 @@ kavi	be	31
 yí	adọgbigbo	31
 yin	madogánnọ	31
 go	biblu	31
-hosọ	oplọn	31
+bẹ	hosọ	31
 ma	yindọ	31
 ẹnẹ	lẹ	31
 ẹnẹ	lọ	31
@@ -3255,6 +3307,7 @@ dona	ze	31
 vẹawuna	we	31
 mọ	nudọnamẹ	31
 to	jw	31
+apòmẹ	tọn	31
 bo	gọalọna	31
 yí	ogbè	31
 ede	do	31
@@ -3316,6 +3369,7 @@ mẹhe	basi	30
 dai	lẹ	30
 na	yè	30
 sọn	ahun	30
+po	hlan	30
 do	we	30
 plan	ẹn	30
 sọ	zindonukọn	30
@@ -3368,6 +3422,7 @@ go	bosọ	30
 do	dọmọ	30
 tọn	jehovah	30
 sọ	wà	30
+aliho	lọ	30
 sè	bọ	30
 jehovah	lẹ	30
 aihundida	lanmẹyiya	30
@@ -3375,7 +3430,6 @@ lizọnyizọnwiwa	tọn	30
 pinplọn	tọn	30
 yé	biọ	30
 gee	he	30
-mọ	ale	30
 mọ	ayajẹ	30
 to	yakẹ	30
 yì	otò	30
@@ -3388,7 +3442,6 @@ na	hodidọ	30
 nọ	gọ́	30
 tọn	lẹdo	30
 whenuena	yé	30
-basi	dodinnanu	30
 mí	tin	30
 wazọ́n	na	30
 ewọ	dona	30
@@ -3397,7 +3450,6 @@ tọn	kẹdẹ	30
 hinhẹn	nado	30
 to	jijọho	30
 awetọ	to	30
-tọ	tọn	30
 sọgan	duto	30
 jelusalẹm	po	30
 pli	to	30
@@ -3486,6 +3538,7 @@ azán	dopodopo	29
 apajlẹ	yise	29
 yẹdide	lọ	29
 nado	gbọṣi	29
+hosọ	oplọn	29
 sọgan	dohia	29
 yí	owe	29
 nọ	payi	29
@@ -3517,8 +3570,10 @@ dlan	zannu	29
 dè	nado	29
 he	diyin	29
 devizọnwatọ	lizọnyizọnwiwa	29
+mọ	ale	29
 ale	he	29
 taidi	mẹdehlan	29
+basi	dodinnanu	29
 yèdọ	sọn	29
 po	bọ	29
 zọnpọ	hẹ	29
@@ -3611,7 +3666,6 @@ mítọn	nado	28
 dali	na	28
 ylankan	de	28
 nọ	dekọtọn	28
-lẹpo	ni	28
 pọndohlan	he	28
 na	kẹalọyi	28
 nado	yise	28
@@ -3766,6 +3820,7 @@ po	tin	27
 mi	na	27
 na	ale	27
 to	whelọnu	27
+lẹpo	ni	27
 hodọ	gando	27
 finẹ	bo	27
 lẹ	glọ	27
@@ -3796,14 +3851,11 @@ hẹn	homẹhun	27
 zannu	do	27
 ji	yé	27
 jehovah	jlo	27
-etẹwẹ	hiẹ	27
 susu	do	27
 nuhudo	alọgọ	27
 he	dọhodo	27
-mí	yiwanna	27
 to	gbétatò	27
 delẹ	die	27
-hiẹ	tindo	27
 tindo	pekọ	27
 po	nujikudo	27
 wẹkẹ	lọ	27
@@ -3854,7 +3906,6 @@ pehẹ	avùnnukundiọsọmẹnu	27
 mí	plọn	27
 singigọ	lọ	27
 go	gba	27
-tọ	osun	27
 nado	dugán	27
 ylando	yetọn	27
 hẹ	họntọn	27
@@ -3902,6 +3953,7 @@ osun	atọ̀n	26
 mítọn	hùn	26
 nọpọ́	hẹ	26
 sọn	dè	26
+tọn	gba	26
 ze	alọ	26
 de	yé	26
 pipli	de	26
@@ -3952,8 +4004,10 @@ dona	to	26
 etẹwẹ	dogbọn	26
 amọ́	to	26
 wefọ	lọ	26
+mí	yiwanna	26
 mọ	mi	26
 dopodopo	mìtọn	26
+hiẹ	tindo	26
 dọ	mìwlẹ	26
 ojlẹ	ehe	26
 na	dọho	26
@@ -4061,7 +4115,6 @@ kú	lẹ	25
 mì	lẹ	25
 nujinọtedo	walọ	25
 ojlo	lọ	25
-bo	gbọ	25
 pé	lẹ	25
 yin	sisè	25
 nuhahun	sinsinyẹn	25
@@ -4111,6 +4164,7 @@ nado	má	25
 jọdani	tọn	25
 aliho	enẹ	25
 dandan	tọn	25
+etẹwẹ	hiẹ	25
 ohó	ṣie	25
 otò	yetọn	25
 biblu	do	25
@@ -4129,6 +4183,7 @@ ai	to	25
 tin-to-aimẹ	to	25
 duvivi	etọn	25
 susu	dogọ	25
+gọwá	ogbẹ̀	25
 e	zẹẹmẹdo	25
 wẹ	mẹlọ	25
 kunnudetọ	he	25
@@ -4205,9 +4260,7 @@ mẹhe	yí	25
 whẹ́n	mẹho	25
 aflanmẹ	tọn	25
 taidi	họntọn	25
-diọ	to	25
 gbagli	tọn	25
-yin	huhu	25
 lẹdo	gandudu	25
 wà	nususu	24
 sọgan	dù	24
@@ -4241,6 +4294,7 @@ sinsẹ̀n	nugbo	24
 egbesọegbesọ	tọn	24
 dọ	ẹ	24
 to	avivi	24
+bo	gbọ	24
 po	todido	24
 ko	waylando	24
 mẹde	na	24
@@ -4341,7 +4395,6 @@ tọgbo	mítọn	24
 ylọ	oyín	24
 kanyinylan	po	24
 dandan	dọ	24
-gbọn	ehe	24
 ewọ	gblamẹ	24
 nẹmu	he	24
 etọn	di	24
@@ -4403,9 +4456,11 @@ he	mẹde	24
 yin	gbehosọnalitọ	24
 owhe	aflanmẹ	24
 lọ	jọ	24
+diọ	to	24
 azọ́n	họ̀gbigbá	24
 plọn	ẹn	24
 wa	lẹzun	24
+yin	huhu	24
 harry	potter	24
 ovi	de	23
 wiwe	jiwheyẹwhe	23
@@ -4428,7 +4483,6 @@ do	lọ	23
 tọn	dote	23
 dopo	poun	23
 nudevo	lẹ	23
-enẹ	lẹpo	23
 whenu	tọn	23
 dali	dọ	23
 tọn	lọsu	23
@@ -4486,7 +4540,6 @@ yé	dali	23
 wiwà	na	23
 te	ma	23
 sọn	gbẹtọ	23
-to	budi	23
 jiwheyẹwhe	he	23
 apá	na	23
 to	dẹ̀ho	23
@@ -4518,7 +4571,6 @@ tindo	whẹwhinwhẹ́n	23
 mọto	lọ	23
 tọgbo	mìtọn	23
 jiwheyẹwhe	tọgbo	23
-lẹpo	bo	23
 otò	susu	23
 to	alọnuwe	23
 na	gigo	23
@@ -4545,6 +4597,7 @@ gbehosọnalitọ	lẹ	23
 lẹndai	jiwheyẹwhe	23
 hezeheze	dọ	23
 nọ	hẹnmẹ	23
+gbọn	ehe	23
 avọ́sinsan	lẹ	23
 ohọ̀	jiwheyẹwhe	23
 mìtọn	lẹpo	23
@@ -4619,6 +4672,7 @@ zizedo	alọmẹ	22
 nọ	ganjẹ	22
 yin	nuyọnẹntọ	22
 podọ	fie	22
+enẹ	lẹpo	22
 hlan	mi	22
 do	awe	22
 afọnnu	tọn	22
@@ -4675,6 +4729,7 @@ delẹ	go	22
 hugan	gbede	22
 dọ	yinkọ	22
 de	gbọn	22
+agbasalan	mẹ	22
 hlan	di	22
 na	okú	22
 ze	nukun	22
@@ -4700,6 +4755,7 @@ do	gbẹtọ	22
 otò	etọn	22
 mì	omẹ	22
 penugo	bo	22
+to	budi	22
 to	na	22
 wiwe	hlan	22
 gbọ	ewọ	22
@@ -4738,6 +4794,7 @@ hia	di	22
 yin	huhlọnnọ	22
 do	azọ́n	22
 nọvisunnu	mìtọn	22
+lẹpo	bo	22
 nuyise	mítọn	22
 dona	na	22
 na	diọ	22
@@ -4897,6 +4954,7 @@ hẹn	onú	21
 nọ	dapana	21
 na	aliho	21
 kandai	he	21
+tọn	dù	21
 mẹdevo	depope	21
 na	ahọluduta	21
 nulẹ	wá	21
@@ -5005,7 +5063,6 @@ ehe	dali	21
 whẹhuhu	tọn	21
 mọdọ	jehovah	21
 nado	dindona	21
-pà	jehovah	21
 lẹpo	gọna	21
 to	danji	21
 mẹdehlan	lẹ	21
@@ -5078,7 +5135,6 @@ towe	bo	21
 po	sẹ̀	21
 whẹdatẹn	lọ	21
 lẹ	ganji	21
-ale	lọ	21
 plọnmẹ	dọ	21
 yin	yiyijlẹdo	21
 amì	do	21
@@ -5102,6 +5158,7 @@ ma	wàmọ	20
 to	dagbe	20
 obu	po	20
 gblamẹ	lẹ	20
+aigba	ehe	20
 huhlọnnọ	de	20
 osẹ́n	mose	20
 yin	yinyan	20
@@ -5114,7 +5171,6 @@ klistiani	hatọ	20
 dọ	azọ́n	20
 he	mẹjitọ	20
 mi	tuli	20
-yin	sunnu	20
 to	wekanhlanmẹ	20
 ja	to	20
 nado	gbadopọnna	20
@@ -5255,6 +5311,7 @@ moabi	tọn	20
 zindonukọn	bo	20
 dawhá	dọmọ	20
 gbẹtọgun	daho	20
+pà	jehovah	20
 na	davidi	20
 whenue	davidi	20
 penukundo	azọ́n	20
@@ -5263,7 +5320,6 @@ na	osẹ́n	20
 mọ	do	20
 te	taun	20
 na	yewlẹ	20
-na	nọte	20
 ohọ̀n	lọ	20
 nọ	pé	20
 taun	eyin	20
@@ -5273,6 +5329,7 @@ hẹn	mẹhe	20
 ylankan	ehe	20
 lá	na	20
 yì	to	20
+hia	mí	20
 tọ́n	na	20
 azán	dopo	20
 na	gbadopọnna	20
@@ -5325,6 +5382,7 @@ na	wàmọ	20
 hẹ	to	20
 nọ	whleawu	20
 bẹ	hodọdopọ	20
+do	wẹ	20
 to	numọtolanmẹ-liho	20
 mi	hugan	20
 nọ	zọnpọ	20
@@ -5340,11 +5398,13 @@ todido	lọ	20
 yin	nude	20
 nado	hùn	20
 to	mọto	20
+nile	tọn	20
 tọ̀sisa	lọ	20
 akuẹ	do	20
 yí	ohó	20
 sọ	yì	20
 tindo	mẹdekannujẹ	20
+ale	lọ	20
 sọgan	gbẹ́	20
 jesu	sọ	20
 dọnsẹpọ	jehovah	20
@@ -5376,7 +5436,6 @@ nugopipe	lọ	19
 bo	hodẹ̀	19
 sọn	jelusalẹm	19
 wẹ	pò	19
-aigba	ehe	19
 to	awánu	19
 hẹn	nugbajẹmẹji	19
 jẹte	wá	19
@@ -5389,6 +5448,7 @@ hẹ	ewọ	19
 etọn	godo	19
 sọha	he	19
 alahọ	mẹ	19
+yin	sunnu	19
 yetọn	gbè	19
 to	wunkẹngbe	19
 dona	yì	19
@@ -5490,7 +5550,6 @@ to	glẹnsigbe	19
 te	dai	19
 bo	yọ́n	19
 nọtẹn	he	19
-devo	ji	19
 die	wayi	19
 gbẹzan	tọn	19
 yindọ	hiẹ	19
@@ -5549,8 +5608,8 @@ ko	tọ́n	19
 ko	whlé	19
 lẹzun	omẹ	19
 hinhẹn	sọawuhia	19
-lẹ	liai	19
 whlá	do	19
+na	nọte	19
 yí	dotẹnmẹ	19
 hẹn	azọ́ndenamẹ	19
 wá	finẹ	19
@@ -5676,6 +5735,7 @@ sọgan	penukundo	18
 enẹ	po	18
 whiwhẹ	po	18
 taidi	asi	18
+dogọ	na	18
 yidogọ	dọ	18
 mi	wutu	18
 ko	yizan	18
@@ -5761,7 +5821,6 @@ to	aihundida	18
 susu	ko	18
 alọnu	din	18
 a	nido	18
-alọnuwe	apòmẹ	18
 go	bọ	18
 homẹfa	po	18
 owhe	lọ	18
@@ -5769,7 +5828,7 @@ ale	susu	18
 yin	súsú	18
 to	kanbiọ	18
 ojlẹ	ayajẹ	18
-e	gbọn	18
+devo	ji	18
 nọgodona	azọ́n	18
 nugbonọ	podọ	18
 otàn	gbẹzan	18
@@ -5831,6 +5890,7 @@ devo	tọn	18
 jiwheyẹwhe	gbọn	18
 tẹwẹ	mí	18
 sinsinyẹn	bo	18
+lẹ	liai	18
 mẹ	hugan	18
 yé	sẹ̀	18
 biọ	owhé	18
@@ -5883,7 +5943,6 @@ kàn	ayiha	18
 ahọlu	sọlomọni	18
 tangan	lẹ	18
 sẹ̀	bo	18
-tọ	mẹ	18
 to	wefọ	18
 dọ	mẹdevo	18
 numọtolanmẹ	etọn	18
@@ -5953,6 +6012,7 @@ mẹmẹsunnu	jọja	18
 enẹlẹ	ji	18
 mẹlẹ	nọ	18
 dọ	họntọn	18
+jona	tọn	18
 gán	zọ́n	18
 gandudu	dokọtọn	18
 wa	sọn	18
@@ -6064,7 +6124,6 @@ yin	nuyọnẹnnu	17
 sọn	mì	17
 to	gbigbọ	17
 mì	te	17
-yin	didona	17
 lilá	di	17
 na	nọgbẹ̀	17
 opagbe	lọ	17
@@ -6074,7 +6133,6 @@ whlẹn	mi	17
 na	pé	17
 sọgan	penugo	17
 mìtọn	wutu	17
-flẹ	jẹ	17
 do	flinflin	17
 gigo	jiwheyẹwhe	17
 mọdopolọ	wẹ	17
@@ -6090,6 +6148,7 @@ nado	gbọn	17
 hẹn	alọnu	17
 gbẹzan	jlẹkaji	17
 to	nuyọnẹn	17
+alọnuwe	apòmẹ	17
 kẹkẹ	afọ	17
 etọn	te	17
 na	asi	17
@@ -6103,6 +6162,7 @@ mẹdehlan	to	17
 azọ́ndena	do	17
 viyọnnu	pẹvi	17
 brooklyn	tọn	17
+e	gbọn	17
 biọ	domọ	17
 aṣli	wiwe	17
 kavi	gbọn	17
@@ -6190,7 +6250,6 @@ olọn	lẹ	17
 lọ	taidi	17
 amolinu	lẹ	17
 tọ́n	wá	17
-hẹnnu	islaeli	17
 do	wẹnsagun	17
 naegbọn	jehovah	17
 lọ	bẹ	17
@@ -6392,6 +6451,7 @@ dè	po	16
 ojlẹ	awusinyẹn	16
 nado	dà	16
 didohia	to	16
+yin	didona	16
 yin	klisti	16
 gbọn	jiwheyẹwhe	16
 jiwheyẹwhe	dali	16
@@ -6404,6 +6464,7 @@ asia	tọn	16
 ojlẹ	delẹ	16
 he	pannukọn	16
 ẹn	bọ	16
+mí	lọ	16
 ohù	tọn	16
 do	bọ	16
 to	tọjihun	16
@@ -6434,7 +6495,6 @@ nugopipe	nado	16
 ze	todido	16
 mọwiwà	na	16
 yizan	na	16
-vlavo	hiẹ	16
 do	sẹ̀n	16
 pehẹ	ninọmẹ	16
 mẹde	nado	16
@@ -6552,6 +6612,7 @@ zinvlu	gọ́ngọ́n	16
 jehovah	sọgan	16
 na	biblu	16
 osun	awe	16
+hẹnnu	islaeli	16
 bọ	ehe	16
 daho	etọn	16
 hugan	lehe	16
@@ -6657,7 +6718,6 @@ enẹlẹ	ma	16
 yí	nunọwhinnusẹ́n	16
 ja	do	16
 lẹdo	gbigbọ	16
-sinsẹ̀n-bibasi	hlan	16
 na	agbasa	16
 hẹn	ovi	16
 angẹli	lọ	16
@@ -6857,6 +6917,7 @@ titengbe	lẹ	15
 jiwheyẹwhe	ṣie	15
 enẹlẹ	go	15
 whenue	omẹ	15
+vlavo	hiẹ	15
 kavi	a	15
 whenu	po	15
 enẹ	gọalọna	15
@@ -6870,7 +6931,6 @@ sọn	nudi	15
 fidevo	lẹ	15
 ni	ze	15
 dopodopo	na	15
-zẹ̀	nuhe	15
 hiẹ	mọ	15
 tin	yededenu	15
 to	todoaina	15
@@ -6889,7 +6949,6 @@ yin	hùnhùn	15
 mẹ	biọ	15
 do	biọ	15
 mìwlẹ	po	15
-podọ	hlan	15
 hẹn	apotin	15
 nukun	do	15
 ogbẹ̀	na	15
@@ -7099,6 +7158,7 @@ ma	jẹagọdo	15
 dọ	gbigbọ	15
 yin	jijona	15
 he	mẹhe	15
+sinsẹ̀n-bibasi	hlan	15
 to	sinima	15
 nugopipe	etọn	15
 gán	sọ	15
@@ -7313,6 +7373,7 @@ wiwà	lẹ	14
 sọn	owhè	14
 onú	lẹ	14
 agbasalilo	dagbe	14
+yọnẹn	do	14
 whenu	towe	14
 sọ	taidi	14
 whenue	asu	14
@@ -7333,6 +7394,7 @@ yin	kinkọndopọ	14
 dọhona	mi	14
 tlala	de	14
 nudepope	tọn	14
+zẹ̀	nuhe	14
 poun	wutu	14
 mẹ	poun	14
 kaka	bo	14
@@ -7359,6 +7421,7 @@ jọ	bọ	14
 huhlọn	yí	14
 yinyin	hinhẹn	14
 to	nunina	14
+podọ	hlan	14
 kakajẹ	egbehe	14
 nuyọnẹn	wintinwintin	14
 titengbe	hugan	14
@@ -7380,7 +7443,6 @@ pọndohlan	yetọn	14
 lehe	jiwheyẹwhe	14
 ṣigba	dọ	14
 lọsu	tlẹ	14
-e	jlẹ	14
 awhànpa	lọ	14
 alọwle	mìtọn	14
 to	devizọnwatọ	14
@@ -7424,6 +7486,7 @@ yọnẹn	to	14
 ji	kakajẹ	14
 dindlan	do	14
 biọ	ahọluduta	14
+yẹwhegán	de	14
 jesu	nado	14
 voovo	wẹ	14
 dona	yọnẹn	14
@@ -7551,7 +7614,6 @@ avọ́sinsan	ofligọ	14
 mì	yọnẹn	14
 nudi	gànhiho	14
 ehelẹ	he	14
-whẹwhinwhẹ́n	depope	14
 sinsẹ̀nzọnwiwa	to	14
 podọ	gando	14
 jihàn	pipà	14
@@ -7606,6 +7668,7 @@ dewe	hia	14
 po	fataka	14
 zẹẹmẹ	do	14
 jẹliko	tọn	14
+dopo	blebu	14
 hẹn	nunina	14
 sinsinyẹn	na	14
 sinsẹ̀n-bibasi	wiwe-ṣeke	14
@@ -7652,7 +7715,6 @@ sọn	otọ́	14
 jobu	tọn	14
 azinponọ	na	14
 nọviyọnnu	towe	14
-hosọ	biblu	14
 aihun	lọ	14
 bo	yi	14
 dọ	ye	14
@@ -7660,7 +7722,6 @@ to	amẹlika	14
 ovo	he	14
 to	otogbo	14
 yovo	lẹ	14
-tọ	owhe	14
 wa	to	14
 to	azọnwhe	14
 lẹ	dó	14
@@ -7833,7 +7894,6 @@ yí	ojlẹ	13
 gbọn	e	13
 atọ̀ntọ	gbè	13
 po	alọ	13
-sọ	jlẹ	13
 to	hihò	13
 do	kọmẹ	13
 eyin	yọnnu	13
@@ -7891,7 +7951,6 @@ kọngbedopọ	do	13
 pete	po	13
 ewọ	hẹn	13
 homẹgble	sinsinyẹn	13
-lẹ́	sọn	13
 visunnu	mìtọn	13
 yé	hù	13
 wiwe	lẹpo	13
@@ -7943,7 +8002,6 @@ tọn	tọ́n	13
 salmu	lẹ	13
 owhe	ẹnẹ	13
 etọn	blebu	13
-flọ	miyọ́n	13
 awe	na	13
 yé	jo	13
 yin	yẹn	13
@@ -8005,7 +8063,6 @@ osó	de	13
 hiẹ	kẹdẹ	13
 azọ́n	susu	13
 wutu	mí	13
-tọn	tó	13
 po	akuẹ	13
 sinsẹ̀nzọn	kunnudegbe	13
 daho	towe	13
@@ -8105,6 +8162,7 @@ sọha	alokan	13
 gli	de	13
 nọ	kọngbedopọ	13
 sẹ̀n	na	13
+whẹwhinwhẹ́n	depope	13
 ogán	lọ	13
 ẹn	tuli	13
 tindo	ji	13
@@ -8196,6 +8254,7 @@ go	ko	13
 to	gungbe	13
 ogle	etọn	13
 dagbe	yetọn	13
+gblehomẹ	bo	13
 ogbẹ́	lọ	13
 do	whẹndo	13
 a	jẹ	13
@@ -8262,6 +8321,7 @@ nujijọ	vonọtaun	13
 opá	lọ	13
 lẹ	tẹnmẹ	13
 enẹgodo	wẹ	13
+hosọ	biblu	13
 azọ́nplọnmẹ	yí	13
 wekun	asi	13
 hẹ	osó	13
@@ -8817,6 +8877,7 @@ yiwanna	mí	12
 gando	tito	12
 nọ	dẹn	12
 osẹ́n	glọ	12
+nugbo	na	12
 asu	lọ	12
 po	sila	12
 hẹn	lodo	12
@@ -8871,14 +8932,12 @@ to	aslọ	12
 osó	olivie	12
 afanumẹ	etọn	12
 ehe	lọsu	12
-be	jehovah	12
 jidide	do	12
 lẹ	pehẹ	12
 nuhudo	tin	12
 gbọn	lẹdo	12
 hihodo	e	12
 lẹ	dín	12
-tọ	po	12
 lẹnvọjọ	bo	12
 azọ́nwhé	lọ	12
 vlavo	yé	12
@@ -8946,7 +9005,6 @@ sauli	po	12
 do	otò	12
 mí	wà	12
 pipli	sunwhlẹvu	12
-do	hosọ	12
 wá	plidopọ	12
 fihe	gbẹtọ	12
 tlẹ	gán	12
@@ -8957,7 +9015,6 @@ university	of	12
 yin	bibla	12
 russia	tọn	12
 nado	dè	12
-sọ	vọ	12
 nọ	yín	12
 aihundatọ	he	12
 gbọngodo	lẹ	12
@@ -8979,7 +9036,6 @@ to	wema	11
 mì	jlo	11
 na	jide	11
 lọ	mọdọ	11
-tọn	yiyizan	11
 na	deanana	11
 gán	yí	11
 tito	ọdinatẹẹ	11
@@ -9608,6 +9664,7 @@ nujijọ	ylankan	11
 nudide	towe	11
 jẹ	hia	11
 ji	eyin	11
+towe	pọ́n	11
 nuṣiwa	lẹ	11
 hia	a	11
 ji	a	11
@@ -9671,6 +9728,7 @@ gbọṣi	nukle	11
 hẹ	nugopipe	11
 enẹgodo	zín	11
 do	hodẹ̀	11
+be	jehovah	11
 go	mlẹnmlẹn	11
 tẹmpli	he	11
 nunina	họakuẹ	11
@@ -9764,7 +9822,6 @@ yetọn	gbọn	11
 hẹn	oyìnsú	11
 gbẹzan	jesu	11
 nawẹ	jiwheyẹwhe	11
-wutu	e	11
 te	poun	11
 wàjọ	hẹ	11
 yàn	aovi	11
@@ -9775,7 +9832,6 @@ po	awù	11
 yẹwhenọ-yọnnu	lẹ	11
 a	plọn	11
 mẹ	bibiọ	11
-yiwanna	gbẹtọ	11
 basi	oylọ	11
 nkọ	de	11
 ehe	dekọtọn	11
@@ -9784,6 +9840,7 @@ wekanhlanmẹ	alokan	11
 e	tọn	11
 klohugan	to	11
 nado	sà	11
+do	hosọ	11
 malenu	lẹ	11
 russie	tọn	11
 hẹn	nugbonọ-yinyin	11
@@ -9834,9 +9891,11 @@ to	awufiẹsa	10
 dotoaina	ogbè	10
 tin	togbẹ̀	10
 de	dohia	10
+tọn	yiyizan	10
 yí	nọtẹn	10
 gando	osẹ́n	10
 ma	zẹẹmẹdo	10
+nọ	alọji	10
 tito	de	10
 he	gbọngodo	10
 pọnte	hugan	10
@@ -9845,6 +9904,7 @@ sọ	gbọṣi	10
 do	devizọnwatọ	10
 wá	sọta	10
 we	podọ	10
+ehe	lẹ	10
 odò	lẹ	10
 whlẹn	ẹn	10
 yẹwhe	ovọ́	10
@@ -10061,7 +10121,6 @@ po	adà	10
 bẹ	gbẹtọ	10
 danuwatọ	lẹ	10
 lẹ	sọmọ	10
-lọ	tó	10
 finẹ	kakajẹ	10
 ohàn	ahọluduta	10
 yèdọ	mẹmẹyọnnu	10
@@ -10194,7 +10253,6 @@ taidi	kọdetọn	10
 asisa	osin	10
 na	opli	10
 towe	wutu	10
-ehe	gblamẹ	10
 de	mẹhe	10
 yí	okàn	10
 sọn	tẹmpli	10
@@ -10208,7 +10266,7 @@ nado	plọnmẹ	10
 mẹ	ṣigba	10
 baptizitọ	lọ	10
 jelusalẹm	wẹ	10
-ahọluduta	enẹ	10
+awubla	po	10
 i	lẹ	10
 gbigbọ	etọn	10
 blawu	taun	10
@@ -10610,7 +10668,6 @@ nado	jona	10
 mẹjitọ	lọ	10
 mẹde	ji	10
 akuẹsẹdotẹn	tọn	10
-dodinnanu	do	10
 vẹawuna	mí	10
 do	jesu	10
 kọ̀n	nuhe	10
@@ -10618,7 +10675,6 @@ to	agbán	10
 sọ	kọ̀n	10
 po	yẹwhegán	10
 zánnu	do	10
-dali	he	10
 awugbó	etọn	10
 owẹ̀n	jiwheyẹwhe	10
 tọn	whẹpo	10
@@ -10641,6 +10697,7 @@ podọ	gbigbọ	10
 ogú	yetọn	10
 walọ	yetọn	10
 adà	agbà	10
+ede	flu	10
 aalọn	yẹwhenọ	10
 jọja	po	10
 lẹzun	devi	10
@@ -10713,6 +10770,7 @@ mẹyiwanna	towe	10
 mado-ao	ojlẹnu	10
 to	sisẹpọ	10
 jesu	ze	10
+wutu	e	10
 klasi	lọ	10
 mẹdekannujẹ	tọn	10
 visunnu	leubẹni	10
@@ -10723,8 +10781,6 @@ wehọmẹ	wẹndagbe-jlatọ	10
 wẹndagbe-jlatọ	ahọluduta	10
 ju	susu	10
 mẹjitọ	mítọn	10
-gbọn	whiwhẹ	10
-whiwhẹ	dali	10
 to	galili	10
 otò	enẹ	10
 mẹ	whla	10
@@ -10742,6 +10798,7 @@ gbonu	osla	10
 taidi	afanumẹ	10
 na	aṣẹ	10
 yinyọnẹn	di	10
+yiwanna	gbẹtọ	10
 nigéria	tọn	10
 odẹ̀	towe	10
 biọ	aki	10
@@ -10826,7 +10883,6 @@ dali	dọmọ	9
 to	avùnho	9
 e	bosọ	9
 podọ	sọta	9
-ehe	lẹ	9
 ṣie	ahọlu	9
 ni	kẹalọyi	9
 na	jẹte	9
@@ -11247,7 +11303,6 @@ bosọ	wá	9
 dọ	owe	9
 jiawu	de	9
 de	mí	9
-pọ́n	hosọ	9
 hihla	dai	9
 to	yọdò	9
 jẹgbonu	do	9
@@ -11258,6 +11313,7 @@ nudide	mẹdetiti	9
 sọn	mẹmẹsunnu	9
 mẹhe	whè	9
 kunnu	yin	9
+ehe	gblamẹ	9
 nuhudo	nado	9
 whladopo	podọ	9
 delẹ	tindo	9
@@ -11285,6 +11341,7 @@ ko	mọaleyi	9
 to	aovi	9
 jesu	mọdọ	9
 fidevo	depope	9
+ahọluduta	enẹ	9
 penukundo	go	9
 po	gọalọna	9
 numọtolanmẹ	dopolọ	9
@@ -11328,6 +11385,7 @@ flinnu	mí	9
 pegan	lẹ	9
 wẹ	ze	9
 titengbe	ehe	9
+matiu	tọn	9
 matthew	tọn	9
 to	kunnudide	9
 ko	họnwun	9
@@ -11382,7 +11440,6 @@ to	nukunbibia	9
 to	osọhia	9
 sẹ̀n	boṣiọ	9
 ko	yindọ	9
-to	susu	9
 to	atọ̀họ̀	9
 niyẹn	bọ	9
 jo	jehovah	9
@@ -11746,11 +11803,13 @@ kansẹẹ	tọn	9
 yì	azọ́nwatẹn	9
 nọ	po	9
 yinuwa	gando	9
+dodinnanu	do	9
 numọtolanmẹ	enẹ	9
 yiwanna	de	9
 dona	yé	9
 agbán	etọn	9
 gbekanlin	lọ	9
+dali	he	9
 gbaugbau	de	9
 hia	ohó	9
 owe-hihá	ehe	9
@@ -11884,8 +11943,9 @@ wema	lọ	9
 na	otẹn	9
 podọ	awetọ	9
 mẹjitọ	klistiani	9
+gbọn	whiwhẹ	9
+whiwhẹ	dali	9
 nọ	ṣinuwa	9
-viyẹyẹ	he	9
 devi	johanu	9
 vonọtaun	ehe	9
 jei	vivọnu	9
@@ -12069,6 +12129,7 @@ alẹnu	hoho	8
 hẹ	nuyise	8
 tenu-núdùdù	oklunọ	8
 titi	wẹ	8
+sinsẹ̀n	klandovo	8
 nulunọ	lẹ	8
 vọ́	yé	8
 ko	dọ̀n	8
@@ -12201,6 +12262,7 @@ gbọn	do	8
 gbọn	finẹ	8
 podọ	nudepope	8
 yí	enẹ	8
+jehovah	podọ	8
 jlọjẹ	viplọnji	8
 viplọnji	tọn	8
 asi	he	8
@@ -12258,7 +12320,6 @@ dotẹnmẹ	ma	8
 i	bo	8
 wunkẹngbe	afọnnu	8
 ṣinawe	to	8
-sunnu	lẹpo	8
 fọ́n	ojlo	8
 tọn	jw	8
 tọn	jideji	8
@@ -12495,6 +12556,7 @@ nasọ	wà	8
 whẹho	devo	8
 taidi	apọsteli	8
 yindọ	biblu	8
+pọ́n	hosọ	8
 la	bible	8
 yin	hihla	8
 whèvi	lọ	8
@@ -12540,6 +12602,7 @@ yàn	jẹgbonu	8
 whẹpo	jesu	8
 donù	wayi	8
 yin	magbọjẹnọ	8
+ko	dọnsẹpọ	8
 he	jẹflumẹ	8
 homẹgble	po	8
 whepoponu	bo	8
@@ -12657,6 +12720,7 @@ do	plọnnu	8
 whẹwhinwhẹ́n	lọ	8
 yise	ayidego	8
 whenuho	gbẹtọvi	8
+to	susu	8
 podọ	ojlẹ	8
 lọ	gbá	8
 do	sọn	8
@@ -12906,7 +12970,6 @@ jọnun	lẹ	8
 yelọsu	na	8
 na	pò	8
 gán	ze	8
-lehe	mẹhe	8
 huhlọnnọ	lọ	8
 do	blo	8
 ehe	gbè	8
@@ -12975,6 +13038,7 @@ na	kunnudenu	8
 yajiji	do	8
 gando	nuhewutu	8
 pé	owhe	8
+alọkẹyi	sọgbe	8
 nulẹnpọn	ji	8
 nuvọ́nọ-yinyin	tọn	8
 wayi	bo	8
@@ -13031,7 +13095,6 @@ mì	jẹ	8
 na	nuplọnmẹ	8
 ayinamẹ	tẹwẹ	8
 to	aihunda	8
-whẹwhinwhẹ́n	devo	8
 yé	kudeji	8
 whenue	mẹjitọ	8
 kavi	okú	8
@@ -13051,11 +13114,9 @@ dike	e	8
 to	alọji	8
 biọ	gbọjẹ	8
 ko	plan	8
-do	wutu	8
 tọn	ṣigba	8
 nasọ	vọ́	8
 nado	whlá	8
-ninọmẹ	oṣiọ	8
 tọn	kakadoi	8
 plọnmẹ	gando	8
 yaji	to	8
@@ -13107,7 +13168,6 @@ nukunnumọjẹnumẹ	mítọn	8
 apotin	amiyọnwhé	8
 lọ	sin	8
 jona	ylando	8
-tọ	owe	8
 zan	walọ	8
 satani	nọ	8
 sinsinyẹn	deji	8
@@ -13173,6 +13233,7 @@ dagbe	ji	8
 dọ̀n	yé	8
 họ̀	ẹ	8
 nasọ	bẹ	8
+oyọnẹn	nugbo	8
 hẹndi	dọdai	8
 jijọho	he	8
 to	núgbà	8
@@ -13190,6 +13251,7 @@ e	ylan	8
 zan	lẹ	8
 bọ	mẹjitọ	8
 sisẹ́	ẹ	8
+pọ́n	do	8
 na	whẹ́n	8
 pé	we	8
 hẹn	nugopipe	8
@@ -13395,6 +13457,7 @@ tindo	nukunmẹ	8
 na	nudevo	8
 yin	mẹpipe	8
 jesu	yọnẹn	8
+viyẹyẹ	he	8
 yọnnu	etọn	8
 etọn	jesu	8
 podọ	susu	8
@@ -13466,7 +13529,6 @@ wycliffe	tọn	8
 bo	dín	8
 mọ	asi	8
 nugopipe	vonọtaun	8
-fọ	naijíria	8
 kẹdẹdi	etọn	8
 android	tọn	8
 he	sọha	8
@@ -13601,7 +13663,6 @@ whèjai	dopo	7
 oylọ	basina	7
 to	septembre	7
 hò	yetọn	7
-tọ	wehọmẹ	7
 do	flansegbe	7
 opli	ehe	7
 po	jlo	7
@@ -13763,8 +13824,6 @@ dagbe	nankọ	7
 kavi	họntọn	7
 nido	gọalọna	7
 enẹlẹ	sọgan	7
-hẹn	kinklan	7
-kinklan	wá	7
 kavi	asi	7
 emi	yiwanna	7
 podọ	dopodopo	7
@@ -13842,6 +13901,7 @@ towe	nukọn	7
 tọṣiọvi	lẹ	7
 po	asuṣiọsi	7
 towe	whenu	7
+sunnu	lẹpo	7
 onù	na	7
 agbà	jehovah	7
 hugan	gbẹtọ	7
@@ -13873,6 +13933,7 @@ alihogbó	lẹ	7
 yanwle	enẹ	7
 dotuhomẹna	mí	7
 mí	dọmọ	7
+ẹn	ganji	7
 dẹpẹ	lẹ	7
 nugopipe	po	7
 eyin	jọja	7
@@ -13893,7 +13954,6 @@ biọ	jehovah	7
 ṣie	jẹ	7
 míwu	ovi	7
 lọ	la	7
-yẹn	ṣo	7
 nunamẹ	nọ	7
 whedelẹnu	dọ	7
 obu	di	7
@@ -13949,7 +14009,6 @@ po	whiwhẹ	7
 nuhe	ahọlu	7
 daho	tlala	7
 hù	kanlin	7
-tọ	gbè	7
 na	susu	7
 yin	levinu	7
 ṣite	bo	7
@@ -14062,7 +14121,6 @@ juvi	de	7
 gbejizọnlin	yẹwhehodidọ	7
 awuvivi	tọn	7
 wẹ	wazọ́n	7
-nado	lẹ́	7
 nugbo	jiwheyẹwhe	7
 na	suhugan	7
 e	kudeji	7
@@ -14276,7 +14334,6 @@ dọ	fọnsọnku	7
 basi	asidan	7
 pọ́n	dọ	7
 ja	na	7
-er	septembre	7
 owhè	ṣádada	7
 mọto	po	7
 susu	bosọ	7
@@ -14388,7 +14445,6 @@ tọn	hoho	7
 bẹ	oyín	7
 to	gbọdo	7
 gbọdo	glọ	7
-lẹ́	ayidonugo	7
 owe	yetọn	7
 bọ	nuhe	7
 hoyidọ	sọn	7
@@ -14459,7 +14515,6 @@ bẹ	adọkunnu	7
 dìdì	dopọ	7
 sọ	dike	7
 ahun	he	7
-na	gídí	7
 do	okọ̀	7
 na	fiọ	7
 to	awutugonu	7
@@ -14546,7 +14601,6 @@ whenẹnu	lẹ	7
 lẹpo	sè	7
 bosọ	sè	7
 dike	na	7
-flẹ	sọn	7
 owhẹ̀	de	7
 asia	pẹvi	7
 poyọnho	bo	7
@@ -14632,6 +14686,7 @@ dandan	gba	7
 sọta	akọta	7
 ṣie	dali	7
 ẹn	wẹ	7
+lehe	mẹhe	7
 amì	lọ	7
 ze	ogbè	7
 biọ	lẹ	7
@@ -14775,6 +14830,7 @@ e	gbá	7
 wẹ	devi	7
 yọ́n	we	7
 aṣẹ	do	7
+whẹwhinwhẹ́n	devo	7
 kanse	yede	7
 wà	bọ	7
 yelọsu	ko	7
@@ -14808,6 +14864,7 @@ mẹyiwanna	ṣie	7
 gbigbọ	ṣie	7
 ewọ	nado	7
 jiwheyẹwhe	kẹalọyi	7
+do	wutu	7
 to	avase	7
 lẹnnupọn	to	7
 jo	nugbo	7
@@ -14821,6 +14878,7 @@ yinmọ	na	7
 yin	whẹwhinwhẹ́n	7
 dè	bọ	7
 mẹde	kú	7
+ninọmẹ	oṣiọ	7
 whenuena	gbẹtọ	7
 to	gbigbọjẹ	7
 wefọ	devo	7
@@ -14859,7 +14917,6 @@ mẹ	jiwheyẹwhe	7
 nujijọ	lẹ	7
 diọ	ninọmẹ	7
 jẹnukọn	dọ	7
-ko	hùwhẹ	7
 sọ	yigbe	7
 mahopọnna	nuhe	7
 owhe	dopodopo	7
@@ -15383,7 +15440,6 @@ nọ	dẹn-to-aimẹ	7
 dọ	jijọho	7
 jọdani	mẹ	7
 yọnẹn	taidi	7
-osun	adali	7
 awetọ	etọn	7
 to	ahọluzangbe	7
 nulẹ	do	7
@@ -15433,7 +15489,6 @@ azọnwhe	he	7
 dó	nọ	7
 yayi	boni	7
 to	whejisun	7
-tọn	pọn	7
 to	london	7
 su	hugan	7
 ye	sọgan	7
@@ -15451,7 +15506,6 @@ of	nigeria	7
 ladipo	tọn	7
 ahi	de	7
 bọ	apadewhe	7
-nọ	pọn	7
 yin	naijilia	7
 high	school	7
 ayimatẹn	osun	7
@@ -15592,7 +15646,6 @@ lẹzun	mẹdehlan	6
 nudide	ṣie	6
 nudide	to	6
 jẹ	sinsẹ̀n	6
-tọ	giliadi	6
 dọ	wehọmẹvi	6
 mẹho	na	6
 lẹ	yinuwado	6
@@ -15624,7 +15677,6 @@ a	wanu	6
 to	oylọ	6
 de	daga	6
 ziọni	tọn	6
-na	lẹ́	6
 taidi	kanlin	6
 to	kannukannu	6
 azọ̀nylankan	he	6
@@ -15724,7 +15776,6 @@ dopodopo	whenu	6
 yí	weta	6
 jidide	mítọn	6
 hẹnnu	bẹnjamini	6
-jiji	gbọn	6
 titi	he	6
 to	yajiji	6
 ze	dee	6
@@ -15770,6 +15821,8 @@ sinyẹn	dogọ	6
 apajlẹ	josẹfu	6
 dọ	whẹho	6
 whẹndo	josẹfu	6
+hẹn	kinklan	6
+kinklan	wá	6
 yetọn	podọ	6
 asu	kavi	6
 bo	yọnwhanpẹ	6
@@ -15847,6 +15900,7 @@ godo	nado	6
 sọgan	hù	6
 taidi	afàsúnú	6
 sọn	mẹde	6
+to	akọ́nnu	6
 otọ́	tọn	6
 haṣinṣan	vonọtaun	6
 hodo	to	6
@@ -15896,7 +15950,6 @@ aṣeji	gando	6
 jla	aliho	6
 jẹnukọn	nado	6
 gando	jọja	6
-ẹn	ganji	6
 bikan	to	6
 gọalọna	mẹde	6
 yọnẹn	de	6
@@ -15991,7 +16044,6 @@ daho	sọ	6
 po	nuyise	6
 nọ	dovọ́na	6
 dọ	sinsẹ̀n-bibasi	6
-jiwheyẹwhe	dona	6
 wẹ	nugbo	6
 pọ́n	gblọndo	6
 homẹ	kunnudetọ	6
@@ -16330,7 +16382,6 @@ mẹho	kavi	6
 yetọn	bosọ	6
 linlẹn	jiwheyẹwhe	6
 yin	todin	6
-nọte	kakadoi	6
 eyin	linlẹn	6
 whenue	agun	6
 deanana	opli	6
@@ -16638,6 +16689,7 @@ owhé	ahọlu	6
 nupinplọn	ehe	6
 gọalọna	yọpọvu	6
 wiwle	gbọn	6
+na	gídí	6
 yin	hinhọ́n	6
 avọ̀	etọn	6
 he	doalọ	6
@@ -16756,7 +16808,6 @@ ogán	yetọn	6
 sọn	lọ	6
 yì	whégbè	6
 yí	sọha	6
-lẹkọwa	to	6
 enẹ	sọgbe	6
 okú	ma	6
 na	fọnsọnku	6
@@ -16835,14 +16886,11 @@ azán	aotọ	6
 tlintlin	bo	6
 yin	ofánpò	6
 atọ̀họ̀	họngbo	6
-jlẹ	dòtin	6
 kọ̀n	jẹ	6
 gbọn	họngbo	6
 atọ̀họ̀	lẹ	6
 dòtin	awe	6
-jlẹ	ẹ	6
 ẹnẹ	lẹpo	6
-bo	jlẹ	6
 lọ	gblo	6
 podọ	míwlẹ	6
 yin	ginglọn	6
@@ -17011,7 +17059,6 @@ na	nọtẹn	6
 ganji	do	6
 nọ	jla	6
 nuhahun	tẹlẹ	6
-tọ	gandudu	6
 họ̀njinọtọ	lẹ	6
 azọ́nyọnẹntọ	lẹ	6
 owe	osẹ́n	6
@@ -17038,7 +17085,6 @@ ahun	nọ	6
 jẹagọdo	mí	6
 lẹpo	dopọ	6
 wàmọ	wẹ	6
-tọ	ahọlu	6
 osọ́-kẹkẹ	lẹ	6
 hẹji	sọn	6
 kàn	nuhewutu	6
@@ -17172,6 +17218,7 @@ tọn	sudo	6
 yì	họ̀	6
 gọna	ovi	6
 whlé	nado	6
+ko	hùwhẹ	6
 whèmẹ	tọn	6
 pinplan	yì	6
 yin	akuẹ	6
@@ -17297,7 +17344,6 @@ do	ohà	6
 nuplọn	gando	6
 he	plan	6
 wá	pehẹ	6
-oyọnẹn	nugbo	6
 dọ	tọn	6
 nudi	ogbè	6
 du	monde	6
@@ -17441,6 +17487,7 @@ yin	dodo	6
 po	delẹ	6
 dagbe	tọ́n	6
 dona	azọ́n	6
+nugopọntọ	tọn	6
 opẹ̀n	lẹ	6
 ahọsi	ṣeba	6
 kanbiọ	etọn	6
@@ -17680,7 +17727,6 @@ hinhọ́n	he	6
 lọsu	go	6
 kandai	ẹnẹ	6
 na	mẹplọntọ	6
-mẹplọntọ	he	6
 numọtolanmẹ	po	6
 luku	po	6
 dagbe	hẹ	6
@@ -17698,7 +17744,6 @@ dile	osẹ́n	6
 biọ	ẹ	6
 na	isaki	6
 to	dotọ̀	6
-de	tó	6
 dọ	lebeka	6
 adavo	eyin	6
 paa	de	6
@@ -17830,7 +17875,6 @@ na	hogbe	6
 okunnu	de	6
 jọ	na	6
 ko	gbọṣi	6
-tọ	to	6
 ayidonugo	gbẹtọ	6
 nukunpipedo	ovi	6
 to	inde	6
@@ -17897,7 +17941,6 @@ nujọnu	lẹ	6
 nawẹ	ewọ	6
 yí	wuntuntun	6
 ayiha	nado	6
-nùflo	etọn	6
 dagbe	nọ	6
 yinuwado	ahun	6
 yọyọ	mítọn	6
@@ -17924,7 +17967,7 @@ yiylọdọ	to	6
 mẹ	matin	6
 lọsu	basi	6
 odò	de	6
-adali	tọn	6
+osun	adali	6
 tọn	jẹagọdo	6
 osọ́-kùntọ	ẹnẹ	6
 dọyẹwheho	gbọn	6
@@ -17997,7 +18040,6 @@ whenue	é	6
 dokọ	tọn	6
 lẹzun	ògán	6
 yi	osẹn	6
-nado	pọn	6
 wẹkẹwhan	awetọ	6
 tọn	yi	6
 wheyihọ	aflika	6
@@ -18007,7 +18049,6 @@ nọ	godo	6
 oto	devo	6
 whejisun	owhè	6
 oto	russia	6
-no	yin	6
 mi	dona	6
 tindo	aliho	6
 nado	nọgbẹ	6
@@ -18016,7 +18057,6 @@ scotland	tọn	6
 lẹzun	apadewhe	6
 awè	he	6
 lẹdo	aihọnpe	6
-e	no	6
 to	whegbe	6
 doalọte	na	6
 he	yi	6
@@ -18056,7 +18096,6 @@ zangbetọ	lẹ	6
 nugbo	yin	6
 takuẹ	lẹ	6
 dọdọ	emi	6
-tọ	liyasun	6
 to	egbe	6
 yin	amẹlikanu	6
 azọ́n	wedudu	6
@@ -18092,9 +18131,6 @@ linlinwe	punch	6
 tọn	fihe	6
 ohún	satọ	6
 wepinplọn	etọn	6
-academy	awards	6
-africa	movie	6
-movie	academy	6
 azọn	wa	6
 of	education	6
 dọ	pita	6
@@ -18388,7 +18424,6 @@ yì	whèyihọ-waji	5
 mẹjidugando	etọn	5
 afọdide	devo	5
 nudide	enẹ	5
-er	mars	5
 to	mardi	5
 ajọwatọ	tomẹyitọ	5
 nudide	delẹ	5
@@ -18406,6 +18441,7 @@ to	ayidonugo	5
 dali	bosọ	5
 wẹ	wàmọ	5
 azán	ṣinatọ̀ntọ	5
+jiji	gbọn	5
 osẹ́n	gblamẹ	5
 di	onú	5
 lẹpo	hlan	5
@@ -18588,6 +18624,7 @@ be	míwlẹ	5
 ojlo	po	5
 alunlun	mẹ	5
 na	ohẹ̀	5
+osaa	lẹ	5
 ojlẹ	po	5
 zẹẹmẹ	nujijọ	5
 tindo	kunnudenu	5
@@ -18620,7 +18657,6 @@ mẹsusu	yiwanna	5
 bo	whẹ́n	5
 ko	jẹflumẹ	5
 hẹn	aihọn	5
-ṣo	wẹ	5
 gando	ayajẹ	5
 hẹnwa	go	5
 yí	homẹhunhun	5
@@ -18700,6 +18736,7 @@ davidi	he	5
 gbeje	nuhe	5
 nuplọnmẹ	po	5
 plọnmẹ	taun	5
+jiwheyẹwhe	dona	5
 voovo	ṣidopo	5
 we	vọnu	5
 to	gbedena	5
@@ -18837,6 +18874,7 @@ davidi	yí	5
 jehoiada	tọn	5
 nọ	jlẹkaji	5
 a	whẹ́n	5
+ovi	wẹ	5
 we	gbede	5
 ṣigba	ni	5
 dọhodeji	hẹ	5
@@ -18919,7 +18957,6 @@ okànnọ	lẹ	5
 sọta	kẹntọ	5
 juda	ji	5
 e	duahọlu	5
-ma	lẹ́	5
 dù	otàn	5
 ahọlu	amọninu	5
 dile	otọ́	5
@@ -19020,7 +19057,6 @@ gán	yise	5
 di	na	5
 azán	atọ́n	5
 to	onọ̀	5
-dee	ṣo	5
 jehovah	si	5
 mi	jijọho	5
 mọ	jijọho	5
@@ -19052,6 +19088,7 @@ sè	poun	5
 todin	gando	5
 na	yozò	5
 masọ	mọ	5
+ohia	lọ	5
 awetọ	gbè	5
 gàntọ	de	5
 sesali	dè	5
@@ -19102,6 +19139,7 @@ ayidedai	he	5
 jehovah	gbẹwanna	5
 dín	ayinamẹ	5
 nudide	na	5
+nọte	kakadoi	5
 ze	azọngban	5
 azọngban	titengbe	5
 kakatimọ	yé	5
@@ -19123,7 +19161,6 @@ mọ	hogbe	5
 mi	nususu	5
 hihia	na	5
 sè	bosọ	5
-mì	pà	5
 tlọlọ	to	5
 jehovah	lẹpo	5
 whlá	ede	5
@@ -19550,6 +19587,7 @@ biọ	yé	5
 vivẹ̀	ẹ	5
 dọ	kanbiọ	5
 alokan	etọn	5
+lẹkọwa	to	5
 tẹnpọn	whlasusu	5
 whlasusu	nado	5
 ogán	aihọn	5
@@ -19785,12 +19823,12 @@ nuhahun	enẹ	5
 dapana	ẹn	5
 wẹ	lehe	5
 hodọdopọ	tọn	5
+towe	gbọn	5
 gbemanọpọ	lọ	5
 lẹ	gboawupo	5
 vẹvẹ	na	5
 adà	tẹwẹ	5
 numọtolanmẹ	alọwlemẹ	5
-degbè	dọ	5
 linlẹn	kavi	5
 dọ	ahunmẹdunamẹnu	5
 vẹvẹ	to	5
@@ -20065,6 +20103,7 @@ doafọna	jijọho	5
 yí	núdùdù	5
 mọ	dotẹnmẹ	5
 aslọ	titli	5
+ohó	depope	5
 dogọ	ba	5
 to	laodikea	5
 kinkọndopọ	pẹkipẹki	5
@@ -20085,6 +20124,7 @@ aṣẹpipa	yetọn	5
 hodọdopọ	mọnkọtọn	5
 kanwehlan	mi	5
 mẹjlọdote	tọn	5
+pọ́n	kavi	5
 bo	miọnhomẹna	5
 flin	bo	5
 todido	sọgodo	5
@@ -20473,7 +20513,7 @@ plitẹnhọ	plidopọ	5
 nugbonọ	hohowhenu	5
 po	dohia	5
 titengbe	nado	5
-nugopọntọ	tọn	5
+tọn	whladopo	5
 hẹn	whlẹngán	5
 whédo	islaeli	5
 ajalẹn	po	5
@@ -20825,7 +20865,6 @@ gẹlṣọninu	lẹ	5
 nọ	dosla	5
 mẹ	zan	5
 jẹagọdo	ojlo	5
-yí	ya	5
 zọ̀n	lẹngbọvu	5
 avọ́nunina	lọ	5
 asu	ṣinawe	5
@@ -20833,6 +20872,7 @@ na	ayimatẹn-gán	5
 sọn	wutu	5
 de	kandai	5
 sè	wẹndagbe	5
+mẹplọntọ	he	5
 mí	gbadopọnna	5
 todin	hugan	5
 hẹn	dọdai	5
@@ -20863,7 +20903,6 @@ lẹblanulọkẹyi	lẹ	5
 nọ	wàjọ	5
 po	yọ́n	5
 todin	taidi	5
-do	jlẹ	5
 namẹ	wẹ	5
 dagbe	ovi	5
 in	mọ	5
@@ -20935,6 +20974,7 @@ etọn	dile	5
 klisti	do	5
 klọ́	ẹ	5
 nọ	gbẹwanna	5
+agbasalan	dopo	5
 ohia	ayidego	5
 po	sonia	5
 sonia	po	5
@@ -21034,7 +21074,6 @@ sunnu	islaeli	5
 ṣie	davidi	5
 owẹ̀n	lẹ	5
 mẹdopodopo	sọgbe	5
-lẹ́	ahun	5
 po	tamẹ	5
 todidoai	na	5
 mẹlọ	tindo	5
@@ -21291,7 +21330,9 @@ e	gbẹwanna	5
 hosọ	yọyọ	5
 to	awhànfuntọ	5
 hamani	tọn	5
+adali	tọn	5
 linlẹn	dopolọ	5
+nùflo	etọn	5
 nado	yiavunlọ	5
 pehẹ	nukundiọsọmẹ	5
 sìn	homẹblanu	5
@@ -21348,6 +21389,7 @@ gblọndo	odẹ̀	5
 video	de	5
 hẹ	mẹlẹ	5
 wefọ	de	5
+mẹ	enẹ	5
 depope	wẹ	5
 nuhọakuẹ	lẹ	5
 codex	de	5
@@ -21371,7 +21413,6 @@ jijọ	delẹ	5
 dagbe	hia	5
 lángwej	wé	5
 dẹm	de	5
-spík	am	5
 dovlomẹ	olọn	5
 dín	hosọ	5
 nukle	to	5
@@ -21407,7 +21448,6 @@ azan	he	5
 dè	ohò	5
 sọ	dó	5
 ye	mẹ	5
-nọ	hu	5
 ojlẹ	dé	5
 gbẹ	to	5
 amasin	ehe	5
@@ -21425,7 +21465,6 @@ wẹ	mẹlẹ	5
 dé	ma	5
 yiyi	to	5
 yọn	lehe	5
-sun	tzu	5
 he	gbẹ	5
 gbẹtọ	nukundeji	5
 sinsẹn	tọn	5
@@ -21441,7 +21480,6 @@ tindo	kandai	5
 voovo	devo	5
 azán	gbàntọ	5
 baba	suwe	5
-pọn	to	5
 do	nukiko	5
 é	nọ	5
 yiwa	to	5
@@ -21480,7 +21518,6 @@ omẹ	europe	5
 asisa	he	5
 dahomey	po	5
 de	ehe	5
-ehe	fọ́n	5
 portugal	po	5
 ohún	devo	5
 akọ̀	devo	5
@@ -21532,6 +21569,9 @@ awe	nọ	5
 dido	gbọn	5
 naira	livi	5
 tòdaho	ibadan	5
+academy	awards	5
+africa	movie	5
+movie	academy	5
 kakajẹ	whenuena	5
 osun	widopotọ	5
 widopotọ	owhe	5
@@ -21541,8 +21581,6 @@ tọn	whẹ́n	5
 kakajẹ	whla	5
 jo	ahọ́	5
 họntọn	emitọn	5
-aliho	nusisọ́	5
-nusisọ́	tọn	5
 avọ̀	juju	5
 kanlin-yú	de	5
 tòdaho	gbó	5
@@ -21805,7 +21843,6 @@ sunnu	jọja	4
 yetọn	kẹdẹ	4
 sọn	họndekọn	4
 tindo	biblu	4
-be	sinsẹ̀n	4
 na	yẹwhegán	4
 gbọgbé	lẹ	4
 to	awhànfunfun	4
@@ -21974,6 +22011,7 @@ dogọ	lẹ	4
 ayidonugo	he	4
 weta	lọ	4
 yé	bẹhẹn	4
+ganji	kavi	4
 yin	pinplọnmẹ	4
 awagundido	mítọn	4
 omẹ	devo	4
@@ -22098,6 +22136,7 @@ wẹ	akọta	4
 tún	mí	4
 dona	ablaham	4
 gbẹkọ	e	4
+okún	towe	4
 wẹ	ogú	4
 opagbe	de	4
 mẹ	nido	4
@@ -22112,7 +22151,6 @@ kàn	dagbemẹninọ	4
 sakla	dali	4
 mimẹ̀	po	4
 sọn	afọnnu	4
-hiẹ	ṣo	4
 nukunmọnu	na	4
 wá	jiwheyẹwhe	4
 dejido	lẹ	4
@@ -22310,7 +22348,6 @@ gàntọ-ṣọ́tọ	lẹ	4
 tòdaho	voovo	4
 nọ	jugbọn	4
 to	londres	4
-na	flẹ	4
 gbehosọnalitọ	na	4
 lẹ	gbonu	4
 nulunu	wẹ	4
@@ -22328,7 +22365,6 @@ alidohiamẹ	tọn	4
 nù	na	4
 wekanhlanmẹ	hlan	4
 saba	na	4
-tó	bo	4
 saba	dọna	4
 yé	ja	4
 hogbe	ohàn	4
@@ -22706,7 +22742,6 @@ visunnu	asafi	4
 asafi	tọn	4
 jehoṣafati	po	4
 mìtọn	gbàdo	4
-tó	to	4
 hoavùn	to	4
 awhàn	ehe	4
 dotó	mi	4
@@ -22740,7 +22775,6 @@ plọntọ	susu	4
 owe-wiwe	lẹpo	4
 nuhe	họnwun	4
 ṣigba	mẹnu	4
-er	mai	4
 ylọ	jehovah	4
 hiẹ	sè	4
 pọ́n	tẹmpli	4
@@ -23000,6 +23034,7 @@ po	zinvlu	4
 nọ	fiọ	4
 nọ	yọ́	4
 oklunọ	aigba	4
+mì	pà	4
 lehe	kandai	4
 hinhẹnwa	ogbẹ̀	4
 wema	he	4
@@ -23036,7 +23071,6 @@ yin	ayajẹnu	4
 voovo	ji	4
 má	numimọ	4
 glọnalina	gbẹtọ	4
-er	juillet	4
 dotuhomẹna	klistiani	4
 hia	zinjẹgbonu	4
 zinjẹgbonu	lẹ	4
@@ -23126,6 +23160,7 @@ mẹde	kanhose	4
 gando	olọn	4
 mọ	todin	4
 mìmẹpo	tọn	4
+na	akọndonanu	4
 mọ	ahọluduta	4
 nukunbibia	tọn	4
 gigopana	to	4
@@ -23178,7 +23213,6 @@ didohlan	nado	4
 po	magbe	4
 yetọn	gando	4
 bo	dohomẹkẹn	4
-le	phare	4
 phare	de	4
 la	tour	4
 tour	de	4
@@ -23187,7 +23221,6 @@ afọdide	mọnkọtọn	4
 yin	enẹ	4
 nukunbibia	lẹ	4
 podọ	todido	4
-ma	yá	4
 gbọn	ogbẹ̀	4
 nado	gbọwhẹ	4
 ylando	gbọn	4
@@ -23568,7 +23601,6 @@ whẹho	sinsẹ̀n	4
 ṣigba	biblu	4
 kunnudenu	tẹwẹ	4
 tẹwẹ	dohia	4
-lọ	le	4
 kẹdẹ	do	4
 hù	mẹsusu	4
 po	avùnnukundiọsọmẹnu	4
@@ -23785,6 +23817,7 @@ titli	etọn	4
 bọ	jiyiyi	4
 whèzẹtẹn	lọ	4
 bo	hẹ	4
+họntonu	etọn	4
 lẹ	dẹn	4
 họntonu	họngbo	4
 homẹ	lọ	4
@@ -23796,7 +23829,6 @@ nùvo	de	4
 na	họntonu	4
 gblo	to	4
 wá	awánu	4
-jlẹ	tedidi	4
 e	dite	4
 gbọn	pèkán	4
 họngbo	agewaji	4
@@ -23981,10 +24013,10 @@ eyin	asi	4
 taidi	tatọ́	4
 aliho	hodọdopọ	4
 aliho	hodidọ	4
-towe	gbọn	4
 hẹn	nude	4
 avase	dọmọ	4
 bo	vẹvẹ	4
+degbè	dọ	4
 kavi	numọtolanmẹ	4
 dọ	pọndohlan	4
 hia	ya	4
@@ -24009,13 +24041,13 @@ gbẹtọ	yin	4
 nuhewutu	gbẹtọvi	4
 do	gbọnvo	4
 nkọ	ewọ	4
-mado	atọ̀n	4
 naegbọn	yajiji	4
 vlavo	nuhe	4
 amọ́	nado	4
 gbadopọnna	delẹ	4
 mẹhe	wlealọ	4
 he	hunnukun	4
+matindo	po	4
 kinkanse	ede	4
 winyan	nọ	4
 mítọn	awe	4
@@ -24075,7 +24107,6 @@ mose	na	4
 egipti	godo	4
 yì	ahun	4
 kada	na	4
-deji	do	4
 ogbè	mítọn	4
 lẹ	klan	4
 aṣẹpipa	gandudu	4
@@ -24269,7 +24300,6 @@ nọ	doagban	4
 wẹ	hù	4
 he	hodọ	4
 hugan	jiwheyẹwhe	4
-er	juin	4
 to	nugbonọ	4
 nugbonọ	yin	4
 lẹ	dekunnu	4
@@ -24308,7 +24338,6 @@ wunvi	mẹ	4
 gọalọ	gbọn	4
 po	ahundoponọ-yinyin	4
 ehe	yẹn	4
-whẹwhinwhẹ́n	awetọ	4
 linlẹn	mọnkọtọn	4
 lẹn	lẹ	4
 gando	to	4
@@ -24336,7 +24365,6 @@ hlan	mẹlọ	4
 ko	dọmọ	4
 tin	di	4
 dù	atin-sinsẹ́n	4
-satani	sọ	4
 bosọ	dù	4
 po	kò	4
 sisi	matindo	4
@@ -24498,7 +24526,6 @@ pipli	sinsẹ̀ngán	4
 bọ	yẹdide	4
 i	jlẹdo	4
 yin	gigonọ	4
-aigba	sọ	4
 fọ́n	nado	4
 ylọ	mose	4
 ko	fiọ	4
@@ -24619,7 +24646,6 @@ zánmẹ	gbèdopo	4
 wá	kudeji	4
 wẹ	mẹlẹpo	4
 mọ	pipli	4
-to	janvier	4
 yẹwhehodọ	sọn	4
 po	zọ̀n	4
 go	dai	4
@@ -24989,6 +25015,7 @@ dona	zinzọnlin	4
 sọ	gblehomẹ	4
 demẹ	na	4
 nudide	basi	4
+nude	wẹ	4
 dona	họ̀	4
 dai	ba	4
 na	alọwlemẹ	4
@@ -25043,7 +25070,6 @@ dali	dohia	4
 sẹpọ	ede	4
 fẹayihasẹna	mí	4
 azọ́ntẹn	nugopọntọ	4
-tọn	whladopo	4
 ohù	po	4
 dawhẹ	jijlọ	4
 mọ	nuyọnẹn	4
@@ -25102,7 +25128,6 @@ tlẹ	doayi	4
 ṣie	susu	4
 vọ́	hẹn	4
 gbọjẹ	daho	4
-er	décembre	4
 to	flala	4
 orthodoxe	tọn	4
 ayinamẹ	yin	4
@@ -25174,7 +25199,6 @@ décembre	tọn	4
 danji	to	4
 ohó	ahọlu	4
 zẹẹmẹ	susu	4
-des	écritures	4
 nido	hoavùn	4
 wuntuntun	po	4
 nọ	fó	4
@@ -25198,7 +25222,6 @@ míde	do	4
 jẹ	mẹde	4
 tindo	whiwhẹ	4
 témoins	de	4
-de	jéhovah	4
 gọna	mẹdevo	4
 yọ́n	sọha	4
 hẹ	titobasinanu	4
@@ -25310,7 +25333,6 @@ matin	osẹ́n	4
 agbasa	he	4
 alọnuwe	wẹndagbe	4
 bọdego	lọ	4
-to	nisan	4
 gbọn	ayiha	4
 wle	jesu	4
 họ̀	afanumẹ	4
@@ -25380,7 +25402,6 @@ nù	lẹ	4
 ohàn	po	4
 bọ	tòdaho	4
 tọn	watch	4
-to	san	4
 titona	azọ́n	4
 devizọnwatọ	alahọ	4
 zomọ	lọ	4
@@ -25569,7 +25590,6 @@ sinsẹ̀n	basi	4
 pọ́n	lẹdo	4
 taidi	owhé	4
 ko	jẹte	4
-nado	flọ	4
 sọn	adò	4
 pipli	osó	4
 meditelane	tọn	4
@@ -25823,7 +25843,6 @@ yèdọ	aliho	4
 bo	mọnukunnujẹemẹ	4
 tindo	ogú	4
 yin	zinvlu	4
-oji	we	4
 hlan	asu	4
 ẹ	wé	4
 wlebòna	ẹn	4
@@ -26019,7 +26038,6 @@ ni	diọlinlẹn	4
 lẹgba	ko	4
 delẹ	ni	4
 kọgbidinamẹ	lọ	4
-nọ	flẹ	4
 do	nudide	4
 gando	mẹdevo	4
 dọ	mílọsu	4
@@ -26044,6 +26062,7 @@ he	nugopọntọ	4
 jijideji	wutu	4
 doayi	azọ́n	4
 vivẹnudido	towe	4
+yí	ya	4
 apọ̀	nọ	4
 sala	ma	4
 sọgbe	podọ	4
@@ -26180,8 +26199,6 @@ odẹ́	etọn	4
 hẹn	gbẹninọ	4
 to	pòzọ̀n	4
 pòzọ̀n	jẹ	4
-fọ́n	nudindọn	4
-nudindọn	dote	4
 mọ	yọnnu	4
 fiwiwe	gbonu	4
 fide	tin	4
@@ -26256,6 +26273,7 @@ nujọnu	lọ	4
 poun	ma	4
 po	ylanwiwa	4
 kàn	ji	4
+gbògbéna	ẹn	4
 tepọn	ẹn	4
 dibla	yin	4
 yí	whiwhle	4
@@ -26694,7 +26712,6 @@ oto	benẹ	4
 yi	akuẹ	4
 otò	flans	4
 ohu	ji	4
-he	no	4
 yin	dudu	4
 zan	amasin	4
 do	dè	4
@@ -26703,7 +26720,6 @@ pẹẹde	na	4
 osẹn	dó	4
 wunmẹwunmẹ	wẹ	4
 yi	dó	4
-lo	ton	4
 ye	yi	4
 yin	mima	4
 he	su	4
@@ -26748,7 +26764,6 @@ nọ	nọpọ	4
 taun	po	4
 kan	owe	4
 yin	yẹdide	4
-aigba	jí	4
 russell	yise	4
 ni	eyin	4
 to	aihundatọ	4
@@ -26760,7 +26775,6 @@ yi	otò	4
 é	ko	4
 to	bọlu	4
 bọlu	hiho	4
-ho	bọlu	4
 awetọ	owhe	4
 ye	tọn	4
 jijọho	nido	4
@@ -26799,6 +26813,7 @@ to	abeokuta	4
 po	whẹpo	4
 kavi	akọ	4
 togbo	lọ	4
+jlo	mẹdekannujẹ	4
 oto	pẹvi	4
 pẹvi	devo	4
 yi	nado	4
@@ -26851,6 +26866,7 @@ ehe	yidogọna	4
 republic	of	4
 nọ	penukúndo	4
 omẹ	portugal	4
+ehe	fọ́n	4
 po	portugal	4
 ahọlu	portugal	4
 taidi	togbogan	4
@@ -26869,7 +26885,6 @@ nọtẹn	ajọwiwa	4
 devo	yì	4
 ahisinọ	lọ	4
 osun	wiawetọ	4
-whe	gbau	4
 lẹdo	aihọ́n	4
 wikipedia	tọn	4
 nottingham	forest	4
@@ -26917,7 +26932,6 @@ united	nations	4
 eyin	dide	4
 america	tọn	4
 po	azọn	4
-tọ	whejisun	4
 po	gbedewema	4
 dó	yinkọ	4
 male	tọn	4
@@ -26959,6 +26973,8 @@ hùn	ahun	4
 míwlẹ	nkọ	4
 sọ́	mi	4
 jona	mẹmẹsunnu	4
+aliho	nusisọ́	4
+nusisọ́	tọn	4
 sọnú	to	4
 sọ	zọ́n	4
 dewe	po	4
@@ -27035,7 +27051,6 @@ nado	vùn	4
 dupò	lọ	4
 yèdọ	mẹdehlan	4
 adọtẹn	mítọn	4
-nọ	lẹkọwa	4
 alahọ	grande-bretagne	4
 to	irlande	4
 zun	fie	4
@@ -27110,11 +27125,9 @@ jinukundutọ	po	4
 business	school	4
 yin	ògán	4
 taidi	kọmiṣọna	4
-gídí	ahọluduta	4
 dọ	isaki	4
 ablaham	dọ	4
 homs	sin	4
-do	bio	4
 akwe	towe	4
 mima	gban	4
 me	to	4
@@ -27176,7 +27189,6 @@ etẹwẹ	jọja	3
 to	sisi	3
 zọnpọ	po	3
 pdf	he	3
-tọn	lẹ	3
 gideoni	tọn	3
 atin	jipa	3
 jide	tọn	3
@@ -27231,6 +27243,7 @@ yí	anademẹ	3
 bo	yigbena	3
 yigbena	alẹnu	3
 tọn	depò	3
+alọji	lẹ	3
 alọji-ninọ	tọn	3
 jlẹdo	mẹhe	3
 ehelẹ	dohia	3
@@ -27362,6 +27375,7 @@ bẹtẹli	taidi	3
 titengbe	gbọn	3
 mi	deji	3
 tọn	doalọtena	3
+be	sinsẹ̀n	3
 vọ́	wá	3
 dọdai	sọta	3
 dọdai	yetọn	3
@@ -27556,6 +27570,7 @@ yí	gandudu	3
 lehe	ahọlu	3
 titona	yé	3
 numimọ	dagbe	3
+dù	dile	3
 vonọtaun	tẹlẹ	3
 ahọlu	dide	3
 plọn	cambodge-gbè	3
@@ -27719,7 +27734,6 @@ wá	whlẹn	3
 jẹ	osindò	3
 bosọ	dlan	3
 jẹ	odò	3
-ṣo	ma	3
 whenu	ko	3
 kanlinmọgbenu	na	3
 ogbẹ̀	emitọn	3
@@ -28096,7 +28110,6 @@ wekanhlanmẹ	ahọlu	3
 he	họ̀ngán	3
 mimọ	do	3
 yin	tasinyẹntọ	3
-nido	lẹ́	3
 mẹdelẹ	sọn	3
 dali	lọ	3
 agun	daho	3
@@ -28262,6 +28275,7 @@ omá	lẹ	3
 dawhẹna	devizọnwatọ	3
 dehe	yiaga	3
 payi	e	3
+ogbẹ̀	podọ	3
 ogbẹ̀	whladopo	3
 do	oṣiọ	3
 to	whẹdaján	3
@@ -28359,7 +28373,6 @@ yí	nùdonùgo	3
 dọnudo	ode	3
 te	ni	3
 gbawhàn	filistinu	3
-nado	jlẹ	3
 ahọlu	zoba	3
 ahọlu	hadadezẹli	3
 sọn	silianu	3
@@ -28407,8 +28420,6 @@ de	kudeji	3
 dọ	vọjlado	3
 to	homẹbibiọ	3
 homẹbibiọ	owe	3
-ko	lẹ́	3
-lẹ́	yé	3
 jẹ	tintẹnpọn	3
 tintẹnpọn	ji	3
 eyin	ahọlu	3
@@ -28431,10 +28442,7 @@ dali	gbẹ́	3
 bo	tọ́nalùn	3
 to	avọ́san	3
 avọ́san	hlan	3
-wá	lẹ́	3
-lẹ́	jẹ	3
 fọ́n	awuwhàn	3
-ko	flọ	3
 ogá	ṣie	3
 dọ̀n	gbọn	3
 odàn	adínọ	3
@@ -28747,6 +28755,7 @@ dodonu	depope	3
 akọta	ṣie	3
 sọn	dọ́n	3
 bo	sù	3
+mlẹnmlẹn	gando	3
 yì	omẹ	3
 mọnukunnujẹemẹ	to	3
 miọn	nukun	3
@@ -29307,7 +29316,6 @@ vivọnu	do	3
 dọnmẹdogo	taun	3
 e	zedai	3
 he	aihọn	3
-donukun	go	3
 jẹ	gbigbọjẹ	3
 gbigbọjẹ	ji	3
 gbè	sọn	3
@@ -29360,7 +29368,6 @@ nupọntẹn	de	3
 do	doakọnna	3
 tindo	nutindo	3
 tindo	homẹhun	3
-er	janvier	3
 te	pẹpẹ	3
 ján	sọmọ	3
 zoji	lẹ	3
@@ -29455,7 +29462,6 @@ ganji	lẹpo	3
 lẹpo	sá	3
 he	akọta	3
 ahọlu	wá	3
-le	po	3
 yí	dewe	3
 doayi	nuyiwa	3
 onú	ṣidopo	3
@@ -29652,7 +29658,6 @@ mẹmẹsunnu	gọna	3
 gọna	mẹmẹyọnnu	3
 tọn	họnwun	3
 azọ́n	tangan	3
-le	mystère	3
 mystère	accompli	3
 awuvẹ	na	3
 biblu	kẹdẹ	3
@@ -29770,7 +29775,6 @@ yìyì	godo	3
 na	zingbejizọnlin	3
 tẹmpli	pẹvi	3
 diọlinlẹnna	gbẹtọ	3
-bo	lẹ́	3
 ṣigba	diblayin	3
 wọ̀	biọ	3
 biọ	nupọntẹn	3
@@ -29950,7 +29954,6 @@ gbigblo	họntonu	3
 dopodopo	dite	3
 pannukọn	homẹ	3
 dopodopo	he	3
-jlẹ	họngbo	3
 sọn	họntonu	3
 atọ̀họ̀	he	3
 nukọn	yì	3
@@ -30199,7 +30202,6 @@ viyọnnu	kenani	3
 po	levi	3
 levi	po	3
 wẹ	dina	3
-sọgan	gblewhẹdo	3
 ba	wẹ	3
 wẹ	alọwle	3
 po	mẹzunzun	3
@@ -30211,6 +30213,7 @@ mọnkọ	to	3
 lehe	asu	3
 hia	asi	3
 duto	dee	3
+awọntin	towe	3
 alọwle	he	3
 mẹ	miyọ́n	3
 mẹ	owanyi	3
@@ -30361,6 +30364,7 @@ na	tonudidọ	3
 blavo	nado	3
 nọ	kada	3
 gando	wẹndagbe	3
+deji	do	3
 alindọn	lẹpo	3
 aṣẹpipa	daho	3
 tòvi	yetọn	3
@@ -30617,7 +30621,6 @@ mẹhe	doakọnna	3
 doakọnna	homẹkẹn	3
 akúdido	lọ	3
 juda	to	3
-lẹ	tó	3
 osin	depope	3
 to	agbá	3
 sọ	ṣinyọnnudo	3
@@ -30641,7 +30644,6 @@ jẹna	ẹn	3
 mílọsu	ga	3
 sọ	gbọjẹ	3
 mìtọn	sinyẹn	3
-azán	devo	3
 mẹdepope	nikaa	3
 depope	bo	3
 hupetẹn	lẹ	3
@@ -30692,6 +30694,7 @@ okú	si	3
 gbọn	mẹsusu	3
 mẹsusu	dali	3
 azán	oklunọ	3
+whẹwhinwhẹ́n	awetọ	3
 yìn	mi	3
 depope	po	3
 mọwẹ	podọ	3
@@ -30723,6 +30726,7 @@ jipa	mẹ	3
 anademẹ	owanyinọ	3
 satani	jlo	3
 ni	yise	3
+satani	sọ	3
 jiwheyẹwhe	gbẹ́	3
 yé	desọn	3
 bo	vẹtolina	3
@@ -30875,6 +30879,7 @@ po	tọ́nawhàn	3
 gbawhàn	otò	3
 dọdai	mọnkọtọn	3
 na	diyin	3
+gbigbà	hányán	3
 whenue	daniẹli	3
 to	pakistan	3
 yinkọ	dawe	3
@@ -30900,6 +30905,7 @@ bọ	nọvisunnu	3
 zọnhẹ	mí	3
 míwlẹ	do	3
 plan	nọvisunnu	3
+mìtọn	wá	3
 saki	mìtọn	3
 nido	jo	3
 afọdopolọji	dọmọ	3
@@ -30971,6 +30977,7 @@ nọ	sẹ́	3
 awhànfuntọ	lẹpo	3
 masọ	pé	3
 hiẹ	dopo	3
+aigba	sọ	3
 yí	pipotọ	3
 adi	yetọn	3
 mìtọn	bosọ	3
@@ -31157,6 +31164,7 @@ hodidọ	to	3
 danú	he	3
 to	mìdelẹ	3
 po	poun	3
+to	janvier	3
 plá	ẹ	3
 fọ́n	homẹgble	3
 whẹho	enẹlẹ	3
@@ -31346,7 +31354,6 @@ adàgbigbo	go	3
 yèdọ	yẹwhegán	3
 hinhẹnflu	po	3
 nado	donú	3
-lẹ	flẹ	3
 tindo	otó	3
 nina	nado	3
 po	dodonọ	3
@@ -31370,7 +31377,6 @@ yin	malia	3
 jehovah	gbọdo	3
 gbọdo	yẹwhegán	3
 he	yẹwhegán	3
-tọ	whenu	3
 les	saintes	3
 saintes	écritures	3
 traduction	du	3
@@ -31393,7 +31399,6 @@ wepinplọn	watchtower	3
 yèdọ	nugbo	3
 osẹ́n	lomu	3
 ma	duto	3
-tọ	ji	3
 dona	setonuna	3
 gbèta	he	3
 te	ko	3
@@ -31403,7 +31408,6 @@ yọyọ	ehelẹ	3
 ehe	omẹ	3
 yí	nudevo	3
 video	po	3
-omẹ	emitọn	3
 lẹ	detọ́n	3
 alọgọ	mítọn	3
 azọ́n	mẹpinplọn	3
@@ -31772,6 +31776,7 @@ na	dokuavọna	3
 lẹzun	mẹpipe	3
 ojlo	nutogbẹ̀	3
 nutogbẹ̀	lẹpo	3
+tọn	dandan	3
 anademẹ	satani	3
 whẹho	gbigbọmẹ	3
 etẹwẹ	kunnudetọ	3
@@ -32300,6 +32305,7 @@ afọdide	atọ̀n	3
 po	lẹkọ	3
 azán	awe	3
 dọ	apọsteli	3
+to	nisan	3
 họyiyi	owhè	3
 daho	kaifa	3
 kaifa	tọn	3
@@ -32379,7 +32385,6 @@ lẹ	nọgodona	3
 okú	madonukun	3
 sisi	de	3
 na	miọnhomẹna	3
-ṣo	bo	3
 sin	asi	3
 ayinamẹ	mẹhe	3
 hihọ́-bibasina	nudọnamẹ	3
@@ -32535,6 +32540,7 @@ mí	anademẹ	3
 ganji	lehe	3
 dasin	lẹ	3
 ma	gboawupo	3
+dekunnu	mlẹnmlẹn	3
 ni	lẹnvọjọ	3
 bo	lẹhlan	3
 dọ	gànpamẹ	3
@@ -32584,7 +32590,6 @@ he	ṣinuwa	3
 sánkanna	kanṣiṣa	3
 kanṣiṣa	depope	3
 e	deayọ	3
-ṣẹnṣẹn	wutu	3
 whlepọn	enẹ	3
 hia	alọwlemẹ	3
 e	dali	3
@@ -32704,7 +32709,6 @@ aigba	uzi	3
 uzi	tọn	3
 jai	bọ	3
 mìtọn	lọ	3
-oji	aga	3
 hẹ	akọta	3
 to	kandlẹn	3
 jẹ	akọta	3
@@ -32813,7 +32817,6 @@ pọnhlan	taidi	3
 tẹnmẹ	bo	3
 dọho	kavi	3
 hẹn	hodọdopọ	3
-e	yá	3
 nukunvandomẹtọ	lẹ	3
 nuyizan	agbà	3
 panu	lẹ	3
@@ -33202,7 +33205,6 @@ lẹ	ja	3
 kọ̀n	ovẹn	3
 aliho	sinsẹ̀n-bibasi	3
 lẹzun	mahẹtọ	3
-do	oji	3
 fli	ojlẹ	3
 gọna	ohàn	3
 matin	dihó	3
@@ -33241,7 +33243,6 @@ ohọ̀n	etọn	3
 nọ	deji	3
 he	haya	3
 gbẹ́	nuhe	3
-san	salvador	3
 basi	yẹdide	3
 podọ	asi	3
 nọtẹn	aihundida	3
@@ -33493,7 +33494,6 @@ didohlan	azọ́nwatẹn	3
 basi	onú	3
 mẹhe	vẹtoli	3
 gbá	ji	3
-sọ	dite	3
 po	abò	3
 odò	pete	3
 petlezìn	ṣẹnṣẹn	3
@@ -33653,7 +33653,6 @@ dogọ	kavi	3
 lẹ	yiaga	3
 ohia	devo	3
 tindo	ota	3
-mado	atọ̀ntọ	3
 ogàn	tọn	3
 aigba	podọ	3
 ovi	sunnu	3
@@ -33804,7 +33803,6 @@ e	jiya	3
 avọ́sinsan	pipà	3
 nọ	litai	3
 hẹji	jei	3
-gbọn	islaelivi	3
 yin	zẹẹmẹ-basina	3
 jehovah	lodo	3
 susu	dopọ	3
@@ -33882,7 +33880,6 @@ whégbè-zọ́n	ṣie	3
 vẹawuna	mẹsusu	3
 tọn	dole	3
 hẹn	jlẹkajininọ	3
-azọ̀njẹ	lọ	3
 etlẹ	taidi	3
 ṣie	devo	3
 yè	masọ	3
@@ -33956,6 +33953,7 @@ gbangba	podọ	3
 to	wekun	3
 diọnukunsọ	yé	3
 biblu	bosọ	3
+mẹdekannujẹ	sọn	3
 bẹ	oplọn	3
 oplọn	biblu	3
 biọ	zẹgẹ	3
@@ -34006,6 +34004,8 @@ gbọnvo	mẹ	3
 gbẹninọ	vẹawuna	3
 pòtọnọ	de	3
 lẹdo	lẹ	3
+fọ́n	nudindọn	3
+nudindọn	dote	3
 tọn	nagbè	3
 bo	wlealọ	3
 adó	tẹmpli	3
@@ -34201,7 +34201,6 @@ hẹ	hodotọ	3
 yiylọdọ	tenu-núdùdù	3
 anademẹ	jesu	3
 hẹ	gbeegbe	3
-wán	do	3
 do	kẹdopo	3
 nulọ	wẹ	3
 kúnkan	sọgodo	3
@@ -34317,6 +34316,7 @@ to	nusisọ́	3
 pita	wlan	3
 nudide	bibasi	3
 dọ̀n	asu	3
+depope	gbọn	3
 yiyizan	dopọ	3
 wá	sawhé	3
 po	kanlin-yinyin	3
@@ -34826,7 +34826,6 @@ vọ́	jidenamẹ	3
 sunnu	pipé	3
 na	tonusise	3
 to	étude	3
-perspicace	des	3
 mẹhe	sẹpọ	3
 sẹpọ	jesu	3
 dindin	na	3
@@ -35003,7 +35002,6 @@ magbe	ogbè	3
 pinpẹn-nutọn	mítọn	3
 wekun	daho	3
 kanweko	atọ̀ntọ	3
-atọ̀ntọ	j	3
 mọnukunnujẹ	owe-wiwe	3
 john	wycliffe	3
 do	latingbe	3
@@ -35099,16 +35097,12 @@ gbọn	titobasinanu	3
 na	nukunnumọjẹnumẹ	3
 na	lángwej	3
 naijíriá	pípol	3
-spík	an	3
-an	ọndastán	3
 lángwej-dẹm	wé	3
 sábí	spík	3
-gó	skul	3
 skul	de	3
 ték	tọ́k	3
 wit	ích	3
 ích	ọ́da	3
-naijíria	an	3
 po	aihọn	3
 aihọn	po	3
 mọ	hinhọ́n	3
@@ -35194,7 +35188,6 @@ buhari	yin	3
 vobibla	whenu	3
 jẹ	ganduji	3
 lọ	podo	3
-to	eji	3
 na	otọ	3
 wehọmẹ	dokọ	3
 dó	owhe	3
@@ -35235,7 +35228,6 @@ hẹ	oto	3
 dà	nusọnu	3
 yin	dida	3
 hodide	yin	3
-hu	ovi	3
 dó	yin	3
 dé	e	3
 tindo	bo	3
@@ -35299,7 +35291,6 @@ boni	yin	3
 akuẹzizan	go	3
 university	to	3
 azọnwhe	akuẹsẹdotẹn	3
-e	sẹn	3
 dó	nado	3
 na	akuẹsẹdotẹn	3
 togbogan	he	3
@@ -35363,11 +35354,9 @@ nido	dejido	3
 nkọ	a	3
 nukundeji	na	3
 martins	yin	3
-e	ho	3
 bọlu	na	3
 na	bọluhogbẹ	3
 eagles	naijilia	3
-ko	ho	3
 to	ayọgbe	3
 pọninọ	mẹyu	3
 congo	tọn	3
@@ -35446,9 +35435,6 @@ abia	tọn	3
 apa	na	3
 na	ahi	3
 mẹ	dó	3
-of	no	3
-no	return	3
-nu	osin	3
 to	akọ	3
 susu	ṣẹnṣẹn	3
 akọ	voovo	3
@@ -35531,7 +35517,7 @@ yi	nude	3
 nugbonọ	delẹ	3
 nuhe	wa	3
 wa	ye	3
-tọ	lidosun	3
+lala	na	3
 nue	du	3
 azọ́nwanu	dagbe	3
 azán	koatọ́n-nukundopotọ	3
@@ -35608,7 +35594,6 @@ wle	do	3
 ahọlu	gigonọ	3
 spain	tọn	3
 amẹlika	ma	3
-pọn	gbede	3
 nudego	to	3
 william	foster	3
 azán	koatọ́n-nukunẹnẹtọ	3
@@ -35662,7 +35647,6 @@ sẹndoaitọ	lẹ	3
 dù	ayimatẹngan	3
 ayimatẹngan	dé	3
 ovo	devo	3
-e	vọ	3
 amọ	e	3
 po	wehihia	3
 wehihia	etọn	3
@@ -35672,7 +35656,6 @@ gbẹ	zindonukọn	3
 college	he	3
 dó	dù	3
 dù	ogán	3
-gbọn	j	3
 rowling	dali	3
 yin	ogan	3
 nue	gando	3
@@ -35702,7 +35685,6 @@ ayimatẹn	kaduna	3
 sọha	pósu	3
 pósu	tọn	3
 yin	topẹvi	3
-tọ	abọ̀húsun	3
 afọzọ̀ntọ	lẹ	3
 hẹ	linlinnamẹtọ	3
 yinkọ	emitọn	3
@@ -35735,7 +35717,6 @@ dibla	yi	3
 livi	ṣidopo	3
 he	hitler	3
 ọgbẹ	lọ	3
-nado	ho	3
 ganpamẹ	na	3
 tonudidọ	etọn	3
 é	mọ	3
@@ -35760,7 +35741,6 @@ núdùdù	sinsinyẹn	3
 ahọvi-yọnnu	lọ	3
 lgd	lọ	3
 ikorodu	ayimatẹn	3
-sp	benjamin	3
 benjamin	hundeyin	3
 diun	na	3
 wehọmẹ	po	3
@@ -35769,7 +35749,6 @@ alavọ	ahmadu	3
 ahmadu	bello	3
 to	zaria	3
 ye	dé	3
-do	ho	3
 yín	ayidego	3
 azan	koatọn-tọ	3
 mẹjitọ	jesu	3
@@ -35815,7 +35794,6 @@ naira	tọn	3
 akwẹ	sẹdotẹn	3
 to	tohomẹ	3
 zokẹkẹ	he	3
-whe	hugan	3
 vẹnudo	dọ	3
 agbegbe	kwi	3
 kwi	tọn	3
@@ -36010,7 +35988,6 @@ hẹ	sinsẹ̀n-bibasi	3
 dona	duahunmẹna	3
 nọ	dù-whè	3
 sọ	nọte	3
-ahọlu	yọyọ	3
 hiẹ	bo	3
 zadọki	po	3
 po	abiatali	3
@@ -36135,6 +36112,7 @@ gọna	tito	3
 mẹmẹsunnu	hughes	3
 húnglintẹn	lọ	3
 janwẹ	mí	3
+nọ	lẹkọwa	3
 to	hùwaji-whèzẹtẹn	3
 na	afọzedaitọ	3
 josia	sọ	3
@@ -36249,14 +36227,9 @@ sọha	etọn	3
 hogbẹ	barcelona	3
 azọnwhe	lẹ	3
 rosine	vieyra	3
-lọ	bà	3
 ruby	yin	3
-mẹhe	hu	3
-nado	vọ	3
 didi	do	3
-hẹ	eji	3
 standard	route	3
-sọ	le	3
 otò	nepal	3
 omẹ	awelẹ	3
 ehe	biọ	3
@@ -36294,10 +36267,8 @@ hunyanhunyan	he	3
 azán	koatọ́n-nukunawetọ	3
 hollywood	tọn	3
 dé	bo	3
-nu	lẹ	3
 nupinplọn-do-plọnnu	tọn	3
 azán	koatọ́n-nukunatọ̀ntọ	3
-taidi	le	3
 dọdọ	mẹhe	3
 nado	yọn	3
 aihun	de	3
@@ -36387,6 +36358,7 @@ akuẹsẹdotẹn	lọ	3
 ayimatẹngan	awọnlin	3
 ji	dó	3
 yin	doto	3
+gídí	ahọluduta	3
 lebeka	ma	3
 nùsin	te	3
 etọn	ablaham	3
@@ -36399,26 +36371,15 @@ yì	họsa	3
 wẹ	gbá	3
 oho	towe	3
 akwe	yinyan	3
-ho	oho	3
-no	awonlin	3
 dee	yin	3
-ton	to	3
 to	jle	3
-jeto	ton	3
-ton	na	3
-ton	we	3
-bio	do	3
-no	su	3
 akwe	lo	3
 tito	lagos	3
-nu	e	3
 tito	akwe	3
 lo	yin	3
 e	ye	3
 sin	tito	3
-na	no	3
 to	sunme	3
-ni	no	3
 sè	nado	3
 sislẹ	lọ	3
 lọ	jiawu	3
@@ -36488,7 +36449,6 @@ to	ahàn	3
 lẹzun	biblu	3
 tonudidọ	naijilia	3
 sinsẹn	basitọ	3
-dọ	viyẹyẹ	3
 plọnwe	ganji	3
 apọ̀	ṣì	3
 tẹnpọn	whenu	3
@@ -36504,7 +36464,6 @@ naijilia	to	3
 maja	yin	3
 ze	azọnwhe	3
 azán	fọtọ̀n-nukunẹnẹtọ	3
-na	zé	3
 dindòn	wẹ	3
 ṣigba	dinvie	3
 do	yín	3

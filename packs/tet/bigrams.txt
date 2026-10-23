@@ -1,42 +1,47 @@
 # Bigrammes tet (FineWeb-2 tet_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
 ida	ne'e	2849
-sira	ne'ebé	2200
-i	maromak	1716
-sira	iha	1211
+sira	ne'ebé	2198
+i	maromak	1710
+sira	ne'e	1345
+sira	iha	1210
 ida	ne'ebé	1150
+sira	nia	1096
 ne'ebé	mak	964
 ne'e	mak	962
-iha	tinan	859
+iha	tinan	857
 ne'e	iha	783
 atu	halo	736
+timor	leste	717
 ita	nia	682
 tanba	ne'e	679
 ne'ebé	iha	666
-iha	loron	658
-nia	laran	642
+iha	loron	659
+nia	laran	641
 husu	ba	621
-iha	fatin	616
+iha	fatin	614
 ba	sira	606
 ba	ema	577
 hamutuk	ho	566
 ne'ebé	maka	562
-ema	mak	539
+iha	ne'e	538
+ema	mak	538
 primeiru	ministru	520
 kona	ba	519
 ona	iha	519
 sira	seluk	513
-ne'e	sei	512
+ne'e	sei	511
 ema	ida	508
 hirak	ne'e	507
-hela	iha	504
+hela	iha	502
 ida	iha	489
 ha'u	nia	488
-ba	iha	484
 iha	rai	483
+ba	iha	483
 tiha	ona	476
 liu	husi	474
-hodi	halo	460
+hodi	halo	458
+hanesan	ne'e	457
 iha	tempu	452
 iha	nia	439
 parlamentu	nasionál	436
@@ -45,21 +50,21 @@ la	iha	430
 ne'e	ba	430
 sira	atu	428
 sei	la	420
-ona	ba	411
+ona	ba	410
 ne'e	la	407
 ba	nia	405
 atu	bele	402
 ida	ba	400
 ita	bele	400
-durante	ne'e	400
 di'ak	liu	400
+durante	ne'e	399
 nian	iha	390
 iha	timor-leste	389
 ne'e	nia	381
 iha	timor	379
 ne'ebé	halo	377
 ne'e	hanesan	373
-iha	ona	371
+iha	ona	370
 mai	husi	368
 sai	hanesan	357
 ne'e	ita	357
@@ -70,13 +75,15 @@ tan	ba	349
 to'o	iha	348
 ho	nia	347
 sira	no	337
-sei	iha	333
+komunidade	sira	333
+sei	iha	332
 bele	halo	330
 liu	tan	328
 tama	iha	327
 timor	oan	321
 halo	ona	320
 saida	mak	320
+ha'u	la	320
 mak	iha	320
 ema	seluk	319
 iha	ne'ebá	319
@@ -85,7 +92,7 @@ sei	halo	315
 iha	nasaun	311
 ba	ita	309
 sira	bele	307
-mak	la	306
+mak	la	305
 oras	ne'e	304
 buat	ida	303
 mak	ita	302
@@ -93,45 +100,49 @@ sira	ba	301
 ami	nia	298
 ne'e	atu	297
 iha	parlamentu	297
+ba	governu	296
 ema	ne'ebé	292
 iha	mundu	291
 hodi	bele	290
 liu	iha	287
 la	hatene	287
-ema	nia	286
+ema	nia	285
 ohin	loron	285
+sira	hosi	285
 liu	ba	284
+oan	sira	284
 baa	ema	284
-ne'e	bele	279
-ba	oin	278
+ne'e	bele	278
 fó	sai	278
+ba	oin	277
 sira	hanesan	277
 sira	halo	277
 ita	boot	277
-ne'ebé	sei	276
 iha	dili	275
+ne'ebé	sei	275
 matan	ruak	273
 nia	la	272
 ida	mak	272
 ha'u	hanoin	271
 ne'ebé	nia	270
-ba	povu	270
 sira	hodi	270
+ba	povu	269
 rua	ne'e	265
-deputadu	sira	265
 taur	matan	265
+deputadu	sira	264
 ne'e	maka	263
-iha	uma	262
+iha	uma	261
 la	bele	261
 mai	iha	259
 ida	ho	258
-to'o	agora	256
+nia	oan	258
+to'o	agora	255
 na'in	rua	253
 iha	fulan	252
 ne'e	mós	251
 mak	sei	251
-ema	hotu-hotu	250
 ema	na'in	250
+ema	hotu-hotu	249
 baa	na	249
 no	ema	247
 barak	liu	247
@@ -139,9 +150,9 @@ mak	bele	247
 moris	iha	246
 dehan	katak	246
 nian	ne'ebé	246
-nia	moris	245
 sira	la	245
 sira	sei	244
+nia	moris	244
 ne'ebé	la	244
 iha	parte	242
 katak	iha	242
@@ -158,16 +169,16 @@ ita	la	232
 nasaun	ne'e	231
 atu	ba	226
 iha	área	224
-labarik	sira	223
 ha'u	sei	223
+labarik	sira	222
 ema	barak	222
 ne'ebé	sira	221
 sira	mak	219
 halo	iha	218
 mak	halo	218
 hatene	katak	216
-nia	mak	216
-iha	suku	216
+nia	mak	215
+iha	suku	215
 ne'ebe	mak	213
 tinan	ida	212
 la	halo	212
@@ -179,17 +190,17 @@ nian	no	209
 sia	la	209
 tuir	mai	208
 bazeia	ba	208
-baa	emi	208
-ida	ne'ebe	206
+baa	emi	207
 seidauk	iha	206
 ne'ebé	hetan	206
-nia	moos	206
+ida	ne'ebe	205
 hau	nia	205
-ne'e	ami	205
+nia	moos	205
 akontese	iha	204
-baa	oras	204
+ne'e	ami	203
 barak	mak	203
-ita	hotu	203
+ita	hotu	202
+baa	oras	202
 xanana	gusmão	201
 ba	tinan	201
 bele	hetan	201
@@ -199,8 +210,8 @@ ne'ebé	ita	200
 nia	iha	200
 ne'e	la'ós	199
 ne'ebé	di'ak	199
-ema	yahudi	199
 buat	hotu	198
+ema	yahudi	198
 balun	ne'ebé	197
 ne'e	duni	197
 ba	rai	197
@@ -214,20 +225,20 @@ nian	ba	194
 ona	katak	194
 iha	momentu	194
 dadaun	ne'e	192
-hotu	ona	192
 iha	ema	191
 hotu	iha	191
+hotu	ona	191
 mós	iha	191
 ida	hodi	190
 mak	atu	190
 ita	sei	189
-lia	nia	189
+lia	nia	188
 ne'e	no	187
 hanoin	katak	186
 estudante	sira	184
-governu	nian	183
 ne'e	ha'u	183
 yesus	kristus	183
+governu	nian	182
 governu	atu	182
 tan	nia	182
 husu	atu	182
@@ -251,11 +262,12 @@ no	la	176
 ne'e	tanba	176
 haree	ba	176
 ba	malu	175
-nia	sia	175
-sia	moos	174
 da	costa	173
-la	noo	173
+nia	sia	173
+sia	moos	173
+ka	lae	172
 no	sira	171
+la	noo	171
 buat	ne'e	170
 ho	di'ak	170
 jornalista	sira	169
@@ -271,9 +283,9 @@ ami	sei	166
 nian	ne'e	165
 ne'e	hodi	165
 la	konsege	165
-ba	halo	165
 ami	la	165
 malu	ho	164
+ba	halo	164
 sira	ho	164
 sidadaun	sira	164
 ida	atu	163
@@ -315,11 +327,11 @@ buat	ruma	149
 halo	buat	149
 ho	ema	149
 ita	haree	149
-ema	raiklaran	149
-ne'e	sai	148
 lori	ba	148
 la	hetan	148
 ba	ha'u	148
+ema	raiklaran	148
+ne'e	sai	147
 de'it	mak	147
 nia	parte	147
 ministériu	saúde	147
@@ -327,6 +339,7 @@ antes	ne'e	146
 hodi	nune'e	146
 daudaun	ne'e	145
 iha	semana	145
+tan	ne'e	145
 hetan	ona	145
 iha	tasi	144
 diak	liu	144
@@ -356,11 +369,12 @@ baa	ha	137
 ne'ebé	durante	136
 para	bele	135
 mak	sira	135
-sira	mai	135
 seluk	tan	134
+ona	atu	134
 servisu	hamutuk	134
 ema	ne'e	134
 mak	ema	134
+sira	mai	134
 hasoru	malu	133
 tau	matan	133
 ami	iha	133
@@ -381,13 +395,14 @@ foin	lalais	129
 fila	ba	129
 mai	ha'u	129
 seluk	ne'ebé	129
-noo	ema	129
 dadi	baa	129
 pm	taur	129
+iha	ne'ebé	128
 de'it	iha	128
 kalo	ema	128
 ita	labele	127
 no	ba	127
+noo	ema	127
 hanesan	ema	126
 iha	ne'eba	126
 osan	ne'e	126
@@ -405,6 +420,7 @@ la	fó	125
 feto	sira	124
 halo	servisu	124
 ko'alia	kona-ba	124
+rai	liur	124
 ramos	horta	123
 di'ak	ba	123
 iha	raiklaran	123
@@ -424,17 +440,18 @@ lia	di	120
 tanba	nia	119
 iha	mós	119
 hirak	ne'ebé	119
-simu	vasina	119
 u	la	119
 ho	naran	118
 da	silva	118
-iha	pn	118
 ida	seluk	118
 fatin	ne'e	118
+kay	rala	118
 rala	xanana	118
 lubuk	ida	118
+simu	vasina	118
 ne'e	mos	117
 ba	uma	117
+iha	pn	117
 nebe	mak	117
 seluk	sia	117
 iha	ministériu	116
@@ -444,7 +461,6 @@ fatin	ida	116
 ida	de'it	115
 ne'ebé	mai	115
 hotu	nia	115
-ami	halo	115
 la	simu	115
 ne'ebé	sai	115
 ministru	taur	115
@@ -457,9 +473,9 @@ ba	timor	114
 ba	kazu	114
 husi	bankada	114
 nia	oin	114
-la	to'o	114
 ba	ami	114
 tau	iha	114
+ami	halo	114
 ba	fatin	114
 no	ida	114
 iha	futuru	114
@@ -469,20 +485,23 @@ estadu	emerjénsia	114
 sia	iha	114
 iha	governu	113
 nakonu	ho	113
+la	to'o	113
 ba	ida	113
 ne'ebé	ha'u	113
 iha	ita	113
 bele	hatene	113
 orsamentu	jerál	113
 ida	nia	112
-to'o	ona	112
 kada	tinan	112
 ba	ministériu	112
 ita-boot	sira	112
 atu	labele	111
 de'it	ba	111
+isin	lolon	111
 dehan	nia	111
+to'o	ona	111
 ha'u	mai	111
+estadu	nian	110
 ne'ebe	iha	110
 osan	ba	110
 ida	naran	110
@@ -498,14 +517,13 @@ iha	postu	109
 jerál	estadu	109
 iha	sira	108
 halo	hela	108
-povu	nia	108
 ne'e	katak	108
 agora	daudaun	108
 ne'e	nian	108
 ba	ita-nia	108
 ne'e	governu	107
 tuir	nia	107
-postu	administrativu	107
+povu	nia	107
 ne'e	hetan	107
 laran	di	107
 barak	maka	106
@@ -513,6 +531,7 @@ agora	ne'e	106
 kazu	ne'e	106
 iha	dalan	106
 sei	sai	106
+postu	administrativu	106
 nebee	emi	106
 mai	ne'e	105
 ne'e	la'o	105
@@ -536,16 +555,16 @@ baa	sia	103
 u	moos	103
 nasaun	ida	102
 xefe	estadu	102
-atu	lori	102
 ne'e	dehan	102
 nia	ba	102
 fó	apoiu	102
 sei	hetan	102
 kompostu	husi	102
 ba	sidadaun	102
-bele	sai	101
+atu	lori	101
 ne'e	husu	101
 maibé	ha'u	101
+nia	isin	101
 mak	mai	101
 ne'ebé	ho	101
 iha	palásiu	101
@@ -554,15 +573,16 @@ nia	liman	100
 nia	hanoin	100
 ne'e	mosu	100
 ne'e	laiha	100
+bele	sai	100
 nia	mós	100
 ona	husi	100
-nia	isin	100
 sia	hotu-hotu	100
 talin	malu	100
 maka	sei	99
 nia	servisu	99
 ne'e	seidauk	99
 ba	públiku	99
+tempu	badak	99
 fatin	ne'ebé	99
 rai	ida	99
 sira	labele	99
@@ -585,6 +605,7 @@ balun	iha	97
 bele	haree	97
 parte	iha	97
 tanba	ha'u	97
+tebes	ba	97
 ne'ebé	tama	97
 ne'ebe	maka	96
 tinan	rua	96
@@ -616,7 +637,6 @@ ona	nia	94
 sei	moris	94
 mak	tenke	94
 orsamentu	ne'ebé	94
-niakaan	ema	94
 hanesan	ho	93
 ho	lian	93
 prosesu	ne'e	93
@@ -625,10 +645,10 @@ nia	husu	93
 iha	sentru	93
 ita	presiza	93
 sekretáriu	estadu	93
+niakaan	ema	93
 ba	timor-leste	92
 husi	ema	92
 tuir	informasaun	92
-hela	de'it	92
 iha	situasaun	92
 barak	iha	92
 iha	laran	92
@@ -638,6 +658,7 @@ ba	estadu	91
 tanba	ida	91
 hodi	ba	91
 hola	parte	91
+hela	de'it	91
 nia	aman	91
 dehan	ba	91
 hodi	hetan	91
@@ -662,15 +683,14 @@ haktuir	hosi	89
 halo	parte	89
 ba	projetu	89
 bodik	ema	89
-lia	ne	89
 tan	ha	89
-katak	baa	89
 seluk	iha	88
 husi	nasaun	88
 iha	kazu	88
-ita	hatene	88
 la	di'ak	88
 hamutuk	na'in	88
+lia	ne	88
+katak	baa	88
 mak	nalo	88
 rua	nia	87
 husik	hela	87
@@ -678,9 +698,11 @@ semana	ida	87
 hein	katak	87
 haree	katak	87
 ema	iha	87
+ita	hatene	87
 iha	jogu	87
 la'o	ho	87
 sira	dehan	87
+uma	laran	87
 nebee	sia	87
 emi	bele	87
 no	sai	86
@@ -694,11 +716,11 @@ haruka	ba	86
 baa	niakaan	86
 emi	musti	86
 uma	hamulak	86
-neon	di	86
 agora	iha	85
 depende	ba	85
 governu	iha	85
 de	jesus	85
+mak	ne'e	85
 to'o	tinan	84
 la'o	hela	84
 hateten	ba	84
@@ -707,6 +729,7 @@ sai	nu'udar	84
 hosi	ema	84
 buat	barak	84
 hanesan	iha	84
+neon	di	84
 tinan	lima	83
 sai	iha	83
 atu	buka	83
@@ -720,9 +743,7 @@ ho	montante	83
 rua	ne'ebé	83
 mós	husu	83
 ha'u	halo	83
-hori	uluk	83
 eman	sia	83
-sia	mak	83
 la	natene	83
 para	atu	82
 tuir	lei	82
@@ -732,8 +753,9 @@ sira	katak	82
 ema	boot	82
 fó	ona	82
 katak	ha'u	82
-ita	ema	82
+hori	uluk	82
 lahoos	yahudi	82
+sia	mak	82
 munisípiu	dili	82
 parte	seluk	81
 nain	rua	81
@@ -747,6 +769,7 @@ mundu	tomak	81
 osan	ne'ebé	81
 oinsá	mak	81
 governu	sira	81
+ita	ema	81
 ho	tinan	81
 sai	hosi	81
 mak	mate	81
@@ -757,7 +780,6 @@ fó	hanoin	81
 ne'ebé	hanesan	81
 bele	moris	81
 ministériu	finansas	81
-ha'u	atu	81
 i	yesus	81
 husi	rai	80
 ida	tan	80
@@ -765,17 +787,20 @@ ba	buat	80
 timor	nian	80
 ema	nebe	80
 no	bele	80
+malu	iha	80
 lei	ne'e	80
 no	seluk	80
 inan	aman	80
 iha	merkadu	80
 mak	governu	80
+ha'u	atu	80
 tuir	na	80
 kalo	ita	80
 situasaun	ne'e	79
 depois	de	79
 dalan	ba	79
 foun	sira	79
+ema	la	79
 partidu	cnrt	79
 durante	loron	79
 hamutuk	iha	79
@@ -812,6 +837,7 @@ hala'o	servisu	77
 boot	ba	77
 iha	aldeia	77
 hahú	husi	77
+lu	olo	77
 maromak	kmalar	77
 iha	lale	77
 corona	virus	77
@@ -879,6 +905,7 @@ se	karik	72
 hato'o	ba	72
 entaun	ita	72
 sira	ninia	72
+la	loos	72
 daudauk	ne'e	72
 iha	de'it	72
 ne'e	hamutuk	72
@@ -894,7 +921,6 @@ lia	hotu-hotu	72
 dala	rua	71
 mai	ami	71
 governu	nia	71
-ho	situasaun	71
 bainhira	nia	71
 iha	foho	71
 buka	dalan	71
@@ -906,10 +932,12 @@ seidauk	bele	71
 deputadu	bankada	71
 la	no	71
 ba	eskola	70
+nasaun	nian	70
 atu	tama	70
 tolu	ne'e	70
 iha	planu	70
 rai	li'ur	70
+ho	situasaun	70
 la'o	ba	70
 ne'e	ninia	70
 ami	bele	70
@@ -924,6 +952,7 @@ lidera	husi	70
 yesus	eman	70
 tan	emi	70
 maka	nia	69
+nia	rai	69
 tuir	planu	69
 maibé	agora	69
 ba	situasaun	69
@@ -934,7 +963,6 @@ halo	nia	69
 tinan	kotuk	69
 kada	fulan	69
 lia	hirak	69
-mais	ema	69
 sia	baa	69
 dala	uluk	68
 ne'e	importante	68
@@ -976,8 +1004,8 @@ oan	mane	67
 iha	sala	67
 ne'ebé	simu	67
 maromak	mak	67
+mais	ema	67
 ema	lear	67
-mais	kalo	67
 maibe	iha	66
 timor-leste	iha	66
 bele	ajuda	66
@@ -993,6 +1021,7 @@ hahú	iha	66
 suku	sira	66
 maibé	to'o	66
 bibi	malae	66
+mais	kalo	66
 maromak	eman	66
 timor-leste	nia	65
 mai	atu	65
@@ -1030,7 +1059,6 @@ fatin	sira	64
 ho	ida	64
 atu	ko'alia	64
 iha	lista	64
-kaer	ukun	64
 foin	mak	64
 e	sia	64
 see	mak	64
@@ -1048,6 +1076,7 @@ la	mai	63
 hodi	sai	63
 timor	laran	63
 ida	mai	63
+kaer	ukun	63
 ne'ebé	servisu	63
 moris	tuir	63
 relasaun	ho	63
@@ -1079,7 +1108,6 @@ aloka	ba	62
 iha	loron-tersa	62
 baa	kota	62
 hotu	sia	62
-ema	na	62
 sesta	bázika	62
 ba	moras	61
 populasaun	sira	61
@@ -1100,13 +1128,13 @@ ne'ebé	foin	61
 liuliu	iha	61
 ne'ebé	laiha	61
 ba	lusa	61
+ema	na	61
 ba	covid	61
 nune'e	mos	60
 governu	no	60
 mós	bele	60
 karik	iha	60
 ne'e	hau	60
-atu	simu	60
 gasta	osan	60
 tuir	observasaun	60
 hamutuk	hodi	60
@@ -1121,7 +1149,6 @@ tasi	ibun	60
 ne'ebé	mate	60
 ne'ebé	hatudu	60
 iha	loron-segunda	60
-ne'ebé	to'o	60
 sira	tanba	60
 nebee	ita	60
 nia	nalo	60
@@ -1136,8 +1163,8 @@ bele	mai	59
 oin	mai	59
 vizita	ba	59
 an	atu	59
+atu	simu	59
 sa'e	ba	59
-seidauk	hatene	59
 mai	halo	59
 ne'ebé	hakarak	59
 nian	mak	59
@@ -1146,7 +1173,7 @@ la	kleur	59
 hira	mak	59
 hakerek	iha	59
 ida	la	59
-ami	rua	59
+ne'ebé	to'o	59
 mais	nia	59
 ami	mai	59
 emi	moos	59
@@ -1160,6 +1187,8 @@ ne'e	liu	58
 atu	kontinua	58
 katak	governu	58
 fatin	refere	58
+atu	hasai	58
+seidauk	hatene	58
 na'in	sira	58
 jerasaun	foun	58
 mak	uluk	58
@@ -1172,6 +1201,7 @@ husi	ministériu	58
 bele	uza	58
 barak	ne'ebé	58
 rua	mak	58
+ami	rua	58
 timor-oan	sira	58
 baa	o	58
 no	na	58
@@ -1241,11 +1271,11 @@ tanba	laiha	56
 kota	nia	56
 nia	na	56
 an	sia	56
+lú	olo	56
 nia	rohan	55
 uma	kain	55
 atu	sira	55
 iha	leten	55
-feto	ida	55
 nia	hanesan	55
 hela	fatin	55
 iha	lei	55
@@ -1255,6 +1285,7 @@ hau	la	55
 laran	no	55
 ita	ba	55
 ha'u	seidauk	55
+iha	ne	55
 tebes	no	55
 ba	ministru	55
 mundu	ne'e	55
@@ -1275,6 +1306,7 @@ nain	sira	54
 halo	ne'e	54
 atu	uza	54
 fo	sai	54
+feto	ida	54
 fatin	iha	54
 lei	ida	54
 hakarak	halo	54
@@ -1297,12 +1329,10 @@ di'ak	liután	54
 foun	ne'ebé	54
 situasaun	ne'ebé	54
 halo	tratamentu	54
-ministra	saúde	54
 traballadór	sira	54
 tékniku	sira	54
 sasán	sira	54
 maromak	manfatin	54
-emikaan	neon	54
 ikus	liu	53
 ema	timor	53
 halo	ho	53
@@ -1317,7 +1347,6 @@ iha	hanoin	53
 sira	uza	53
 mak	tama	53
 nia	rain	53
-iha	ne	53
 uza	hodi	53
 nebe	ita	53
 hamutuk	rihun	53
@@ -1334,8 +1363,10 @@ hosi	nasaun	53
 no	feto	53
 sentru	saúde	53
 husi	kompañia	53
+ministra	saúde	53
 mós	tenke	53
 tan	saa	53
+emikaan	neon	53
 atu	iha	52
 mos	la	52
 balun	ba	52
@@ -1354,6 +1385,7 @@ estadu	ne'e	52
 ha'u	rona	52
 tinan	tolu	52
 atu	moris	52
+nia	nasaun	52
 hafoin	ne'e	52
 nia	hatete	52
 projetu	ida	52
@@ -1367,7 +1399,6 @@ jeral	estadu	52
 katak	lia	52
 malae	oan	52
 champions	league	52
-klosan	sia	52
 mais	sia	52
 nasionál	timor-leste	52
 u	ktitu-karee	52
@@ -1384,6 +1415,7 @@ ne'e	hateten	51
 maibé	ida	51
 fatin	ba	51
 fatin	hanesan	51
+boot	iha	51
 nia	rasik	51
 kleur	ona	51
 atu	loke	51
@@ -1404,9 +1436,10 @@ funsionáriu	sira	51
 sia	nalo	51
 sia	bele	51
 bele	simu	51
+klosan	sia	51
 bei	musa	51
-emi	la	51
 husi	munisípiu	51
+oin	sa	50
 servisu	ne'e	50
 maka	bele	50
 ho	idade	50
@@ -1415,7 +1448,6 @@ semana	kotuk	50
 kontinua	halo	50
 mate	no	50
 presiza	atu	50
-atu	foo	50
 ba	ne'e	50
 ne'e	hahú	50
 hodi	simu	50
@@ -1439,6 +1471,7 @@ pakote	referendu	50
 autoridade	lokál	50
 lider	nasionál	50
 u	kakara	50
+emi	la	50
 u	kbele	50
 itakaan	neon	50
 raiklaran	ne	50
@@ -1456,6 +1489,7 @@ la	konkorda	49
 hare	ba	49
 husi	deputadu	49
 iha	ospitál	49
+atu	foo	49
 maibé	governu	49
 hanesan	ita	49
 hakat	ba	49
@@ -1486,9 +1520,7 @@ oras	nia	49
 anan	timur	49
 sai	nosi	49
 ema	lahoos	49
-nebee	ema	49
 aan	baa	49
-kalo	ha	49
 aat	nia	49
 sarani	sia	49
 maka	la	48
@@ -1501,6 +1533,7 @@ ne'ebe	sei	48
 nia	inan	48
 ka	la	48
 ne'ebé	presiza	48
+barak	ona	48
 deklara	katak	48
 bainhira	halo	48
 hodi	hatudu	48
@@ -1513,7 +1546,6 @@ buat	seluk	48
 seluk	atu	48
 ne'e	problema	48
 veteranu	sira	48
-iha	posibilidade	48
 la'o	iha	48
 no	hosi	48
 hodi	kontinua	48
@@ -1529,7 +1561,9 @@ boot	nia	48
 an	nia	48
 nosi	ema	48
 nosi	lia	48
+nebee	ema	48
 in	hira	48
+kalo	ha	48
 nebee	na	48
 dodan	baa	48
 pandemia	covid	48
@@ -1561,6 +1595,7 @@ estadus	unidus	47
 tinan	haat	47
 bainhira	ha'u	47
 mós	ho	47
+iha	posibilidade	47
 ona	hanesan	47
 iha	terenu	47
 iha	grupu	47
@@ -1589,7 +1624,6 @@ iha	nivel	46
 la'o	hamutuk	46
 semana	ne'e	46
 no	labele	46
-nebe	iha	46
 tanba	ami	46
 oan	nia	46
 ba	publiku	46
@@ -1601,7 +1635,6 @@ fulan	tolu	46
 ita	ko'alia	46
 nia	sorin	46
 ema	rihun	46
-tenke	ba	46
 alende	ne'e	46
 iha	baze	46
 nian	hanesan	46
@@ -1640,6 +1673,7 @@ hanorin	loos	46
 bankada	khunto	46
 partidu	khunto	46
 halo	sira	45
+nebe	iha	45
 nian	ida	45
 halo	tiha	45
 marka	prezensa	45
@@ -1650,7 +1684,9 @@ sei	hein	45
 hatudu	ona	45
 ho	totál	45
 iha	sistema	45
+tenke	ba	45
 da	paz	45
+ho	ha'u	45
 hetan	moras	45
 ne'e	buat	45
 autoridade	sira	45
@@ -1660,11 +1696,9 @@ hatan	ba	45
 la	uza	45
 sei	haree	45
 hatete	iha	45
-ne'ebé	ohin	45
 kontratu	ho	45
 atu	dehan	45
 apela	ba	45
-mais	la	45
 ita	tau	45
 iha	mota	45
 kuandu	ita	45
@@ -1706,7 +1740,6 @@ fiar	ba	44
 keta	halo	44
 ona	mak	44
 hotu	ba	44
-fulan	rua	44
 hotu	tiha	44
 hatudu	ba	44
 ema	mate	44
@@ -1724,7 +1757,9 @@ rihun	ida	44
 iha	moris	44
 ne'ebé	antes	44
 mós	halo	44
+ne'ebé	ohin	44
 kaer	metin	44
+mais	la	44
 iha	enkontru	44
 halo	prevensaun	44
 timor	gap	44
@@ -1748,6 +1783,7 @@ bainhira	sira	43
 la	selu	43
 governu	mak	43
 ne'ebé	ke	43
+fulan	rua	43
 sasan	sira	43
 sa	mak	43
 nia	ho	43
@@ -1771,6 +1807,7 @@ nia	sai	43
 bee	moos	43
 hetan	osan	43
 ekipa	ida	43
+ba	familia	43
 agora	ha'u	43
 maun	boot	43
 ak	liu	43
@@ -1787,7 +1824,6 @@ beran	baa	43
 sera	dodan	43
 ba	pn	43
 jenerál	lere	43
-sente	kontente	43
 pesoál	saúde	43
 ne'e	signifika	42
 tomak	iha	42
@@ -1834,7 +1870,6 @@ di'ak	hodi	42
 aprezenta	ona	42
 nia	foo	42
 maromak	la	42
-sira	hela	42
 josé	ramos	42
 governu	foun	42
 palasiu	governu	42
@@ -1843,6 +1878,7 @@ iha	na	42
 mak	noo	42
 hutun	sarani	42
 palásiu	prezidensiál	42
+sente	kontente	42
 iha	komunidade	41
 ne'ebe	la	41
 oportunidade	ba	41
@@ -1889,14 +1925,13 @@ povu	sira	41
 ami	hetan	41
 ohin	ami	41
 liña	eletrisidade	41
-ne'ebé	dadaun	41
 rai	maran	41
+sira	hela	41
 iha	públiku	41
 realiza	iha	41
 ba	konsellu	41
 sia	no	41
 foo	baa	41
-nia	dale	41
 u	baa	41
 noo	folin	41
 u	ema	41
@@ -1967,13 +2002,14 @@ ba	proposta	40
 kedas	iha	40
 no	laran	40
 la	liu	40
+ne'ebé	dadaun	40
 depois	mak	40
 na'in	sia	40
 ita	lalika	40
 ita	moos	40
 dalan	moris	40
 impase	polítika	40
-uk	mak	40
+nia	dale	40
 u	kusu	40
 mate	ti	40
 in	yesus	40
@@ -2040,11 +2076,11 @@ husi	suku	39
 seguransa	ba	39
 hotu-hotu	atu	39
 niakaan	kmalar	39
+uk	mak	39
 ema	makfiar	39
 no	barnabas	39
 masik	ema	39
 niakaan	makbukar	39
-hakerek	moon	39
 namaan	aan	39
 surtu	covid	39
 iha	kooperativa	39
@@ -2054,12 +2090,10 @@ nasionál	sira	38
 lakohi	atu	38
 akontesimentu	ne'e	38
 hodi	rezolve	38
-laiha	kapasidade	38
 ne'e	laos	38
 atu	ita	38
 buka	hatene	38
 liga	ho	38
-ami	tenke	38
 moos	bele	38
 bele	ko'alia	38
 refere	ba	38
@@ -2069,7 +2103,6 @@ ho	ami	38
 maibé	ema	38
 fo	hatene	38
 timor	lorosa'e	38
-mak	kaer	38
 atu	kaer	38
 ba	área	38
 oan	no	38
@@ -2138,17 +2171,19 @@ sei	fo	37
 feto	no	37
 ami	ba	37
 bele	rezolve	37
+laiha	kapasidade	37
 servisu	fatin	37
 tasi	laran	37
 mai	hau	37
 mate	isin	37
 ou	menus	37
+ami	tenke	37
 hanoin	ida	37
 dalan	ida	37
 no	tinan	37
-ida-idak	nia	37
 pntl	sira	37
 governu	mós	37
+mak	kaer	37
 ha'u	hatete	37
 mak	manan	37
 no	hanesan	37
@@ -2170,7 +2205,6 @@ ba	sistema	37
 nia	liafuan	37
 eskola	sira	37
 hotu-hotu	bele	37
-boot	mak	37
 husi	dili	37
 ne'ebé	hahú	37
 semana	rua	37
@@ -2192,7 +2226,6 @@ tanba	tuir	37
 repúblika	francisco	37
 fatin	nia	37
 maromak	boi	37
-ama	maromak	37
 oi	lulik	37
 eis	prezidente	37
 tan	ho	36
@@ -2224,6 +2257,7 @@ maka	ema	36
 sira	hahú	36
 nia	serbisu	36
 iha	debate	36
+ida-idak	nia	36
 mak	mosu	36
 importante	mak	36
 tenke	hatene	36
@@ -2234,6 +2268,7 @@ atu	kria	36
 iha	banku	36
 iha	serimónia	36
 monu	iha	36
+ida	ne	36
 rai	timor	36
 sira	hanoin	36
 nia	ain	36
@@ -2252,6 +2287,7 @@ loron	ne'e	36
 pasiente	sira	36
 di'ak	iha	36
 timor	nia	36
+boot	mak	36
 parte	governu	36
 ita	nian	36
 nasaun	ne'ebé	36
@@ -2269,6 +2305,7 @@ mak	dale	36
 iha	final	36
 o	bele	36
 kedan	hori	36
+ama	maromak	36
 u	kmai	36
 tuir	niakaan	36
 katak	na	36
@@ -2276,6 +2313,7 @@ bodik	ita	36
 mais	ha	36
 diabu	ulun	36
 in	rua	36
+hakerek	moon	36
 koligasaun	foun	36
 hanesan	nasaun	35
 tur	iha	35
@@ -2283,7 +2321,6 @@ nian	sei	35
 publika	iha	35
 ninian	iha	35
 sei	hasoru	35
-oan	feto	35
 sarani	sira	35
 hodi	hatene	35
 ho	membru	35
@@ -2358,19 +2395,17 @@ oan	sia	35
 nalo	aat	35
 oin	nunabee	35
 sia	nodi	35
-hakerek	ne	35
 o	nima-nimak	35
 postu	saúde	35
 tokon	us	35
 ba	ukun	34
-sira	seidauk	34
 ki'ik	liu	34
 atu	taka	34
 iha	interese	34
 ba	dili	34
 iha	oin	34
 mak	hau	34
-kapasidade	atu	34
+oan	feto	34
 servisu	no	34
 iha	universidade	34
 hela	no	34
@@ -2432,6 +2467,7 @@ ha'u	rasik	34
 servisu	ne'ebé	34
 aan	mai	34
 mak	sia	34
+ema	ne	34
 ne'e	maibé	34
 tanba	sei	34
 produtu	lokál	34
@@ -2439,6 +2475,7 @@ na'in	ba	34
 governu	fó	34
 filafali	ba	34
 prevensaun	ba	34
+virus	ne'e	34
 nia	hafoin	34
 semana	oin	34
 emi	mak	34
@@ -2447,11 +2484,13 @@ keta	to	34
 sia	musti	34
 boi	nola	34
 mai	nikar	34
+hakerek	ne	34
 beran	atu	34
 governu	daualu	34
 molok	ne'e	34
 rai	seluk	33
 nia	okos	33
+sira	seidauk	33
 susar	atu	33
 lokál	sira	33
 governu	bele	33
@@ -2460,6 +2499,7 @@ prezidente	partidu	33
 nasaun	rua	33
 iha	nebe	33
 iha	igreja	33
+kapasidade	atu	33
 hatutan	katak	33
 no	komunidade	33
 ninia	servisu	33
@@ -2529,10 +2569,8 @@ la	sufisiente	33
 neon	no	33
 isin	rua	33
 governu	tl	33
-tanba	ho	33
 ita	husu	33
 haruka	ha'u	33
-virus	ne'e	33
 manchester	united	33
 u	katak	33
 baa	itakaan	33
@@ -2592,7 +2630,6 @@ la	haree	32
 forma	governu	32
 de'it	ema	32
 parte	rua	32
-ba	osan	32
 ho	servisu	32
 simu	informasaun	32
 uma	ida	32
@@ -2613,6 +2650,7 @@ parte	hosi	32
 loron-sesta	ne'e	32
 sira	maibé	32
 pertense	ba	32
+maibé	ho	32
 no	hatudu	32
 liu	ne'ebé	32
 sei	to'o	32
@@ -2634,6 +2672,7 @@ hatán	ba	32
 mak	di'ak	32
 kedas	ba	32
 tanba	atu	32
+tanba	ho	32
 ne'e	boot	32
 joga	iha	32
 oras	sia	32
@@ -2654,13 +2693,11 @@ hafoin	reuniaun	32
 habesi	aan	32
 aan	fatin	32
 iha	dezenvolvimentu	31
-ne'ebe	nia	31
 ba	informasaun	31
 serbisu	ba	31
 servisu	sira	31
 besik	liu	31
 ba	funsionáriu	31
-de	timor	31
 hotu	sei	31
 no	lei	31
 hodi	ajuda	31
@@ -2697,6 +2734,7 @@ ba	husu	31
 ne'e	servisu	31
 oras	ami	31
 ita	mos	31
+ba	osan	31
 ema	timoroan	31
 fila	ona	31
 iha	tempo	31
@@ -2755,10 +2793,12 @@ timor-oan	na'in	31
 cesta	bázika	31
 hirak	liu	30
 iha	ne'ebe	30
+ne'ebe	nia	30
 sira	foti	30
 ho	povu	30
 ba	pesoál	30
 ho	rezultadu	30
+de	timor	30
 husi	ministeriu	30
 hodi	troka	30
 husi	timor	30
@@ -2922,7 +2962,6 @@ iha	hau	29
 estudu	iha	29
 kuandu	sira	29
 ba	diresaun	29
-ohin	ne'e	29
 nia	konsidera	29
 halo	tan	29
 ona	mai	29
@@ -3001,7 +3040,6 @@ nia	hahalok	28
 nia	hatene	28
 ho	oin	28
 imi	hotu	28
-osan	estadu	28
 vise	ministra	28
 osan	boot	28
 fali	nia	28
@@ -3011,7 +3049,6 @@ moos	tuir	28
 ne'ebé	de'it	28
 ona	ninia	28
 hakerek	nia	28
-sai	boot	28
 iha	ami	28
 konfiansa	ba	28
 nian	maka	28
@@ -3090,6 +3127,7 @@ ne'e	kuandu	28
 nia	loke	28
 boot	ne'ebé	28
 iha	konferénsia	28
+sira	ne	28
 atu	partisipa	28
 ba	kontratu	28
 loos	ka	28
@@ -3124,7 +3162,6 @@ moos	musti	28
 maromak	ukun-badu	28
 nia	to	28
 deside	hodi	28
-husi	aldeia	28
 kona-ba	ida	28
 hafoin	remata	28
 atinje	ona	28
@@ -3142,6 +3179,7 @@ husu	deskulpa	27
 ba	hasoru	27
 involve	iha	27
 hala'o	serbisu	27
+osan	estadu	27
 hatene	buat	27
 hahu	iha	27
 no	simu	27
@@ -3160,6 +3198,7 @@ prezidente	bankada	27
 polítika	ida	27
 intensaun	atu	27
 desizaun	ne'ebé	27
+sai	boot	27
 instituisaun	sira	27
 dehan	fali	27
 hotu-hotu	ne'ebé	27
@@ -3199,8 +3238,10 @@ iv	governu	27
 ne'e	fila	27
 deputada	bankada	27
 ida	liu	27
+ohin	ne'e	27
 deklara	ona	27
 aas	tebes	27
+sai	ema	27
 politiku	sira	27
 iha	no	27
 governu	ba	27
@@ -3291,13 +3332,13 @@ no	silas	27
 o	ti	27
 itakaan	salan	27
 oras	ema	27
-emi	ti	27
 hahalok	nia	27
 nia	boi	27
 sondadu	ulun	27
 no	itakaan	27
 oras	ita	27
 musti	moris	27
+husi	aldeia	27
 fó	pose	27
 hetan	pose	27
 deputada	olinda	27
@@ -3305,6 +3346,7 @@ tanba	ita-nia	27
 sentru	integradu	27
 ba	kooperativa	27
 rezultadu	husi	26
+mane	sira	26
 sira	lakohi	26
 kiak	sira	26
 halo	desizaun	26
@@ -3406,13 +3448,13 @@ rua	nian	26
 da	conceição	26
 liu	hau	26
 nosi	ikus	26
+rama	metan	26
 nia	rezultadu	26
 haat	nia	26
 planu	ba	26
 sees	husi	26
 iha	kontratu	26
 an	rasik	26
-ema	dehan	26
 maibé	bainhira	26
 ba	média	26
 tenke	ser	26
@@ -3431,7 +3473,6 @@ mak	presiza	26
 ona	planu	26
 atu	garante	26
 atu	katak	26
-mós	laiha	26
 ita	laiha	26
 aban	bainrua	26
 mós	atu	26
@@ -3451,17 +3492,15 @@ maromak	solok	26
 nia	natudu	26
 nia	ti	26
 moos	atu	26
-maromak	foo	26
 a	aan	26
 oin	nunia	26
 tenik	baa	26
 no	sia	26
 masik	ita	26
+emi	ti	26
 o	emi	26
 serwisu	bodik	26
 nunia	moos	26
-mais	oras	26
-foo	moris	26
 no	raiklaran	26
 solok	tabe	26
 ne'e	relasiona	26
@@ -3479,7 +3518,6 @@ depois	nia	25
 no	hatene	25
 atu	hasa'e	25
 ne'e	hamosu	25
-maka	governu	25
 balun	ne'ebe	25
 ba	distritu	25
 atu	muda	25
@@ -3536,6 +3574,7 @@ nasional	sira	25
 servisu	ida	25
 nia	aan	25
 triste	tanba	25
+aman	no	25
 no	fo	25
 ho	lia	25
 direta	ba	25
@@ -3583,6 +3622,7 @@ atus	resin	25
 iha	komunikadu	25
 haat	ne'ebé	25
 fó	atensaun	25
+tomak	no	25
 ba	foho	25
 ho	moras	25
 hosi	sira	25
@@ -3608,6 +3648,7 @@ tokar	lauk	25
 hotu	la	25
 simu	pose	25
 kondisaun	ne'ebé	25
+ema	dehan	25
 nian	hamutuk	25
 lalais	ba	25
 bele	buka	25
@@ -3615,7 +3656,6 @@ tan	ha'u	25
 ho	autoridade	25
 mak	ko'alia	25
 matan	delek	25
-moris	foun	25
 imprensa	iha	25
 moos	iha	25
 saúde	ne'ebé	25
@@ -3627,6 +3667,7 @@ pose	ba	25
 ne'e	tau	25
 ko'alia	ona	25
 tasi	mane	25
+mós	laiha	25
 filme	ne'e	25
 aldeia	sira	25
 jogador	sira	25
@@ -3635,6 +3676,7 @@ aan	hodi	25
 neon	ida	25
 polísia	sira	25
 sori	ita	25
+maromak	foo	25
 nia	latan	25
 atu	baa	25
 naruka	ema	25
@@ -3647,9 +3689,11 @@ ho	kristus	25
 ok	niakaan	25
 u	na	25
 no	yohanis	25
+mais	oras	25
 tula	sala	25
 maromak	beer	25
 emi	simu	25
+foo	moris	25
 mak	dadi	25
 u	kanorin	25
 munisípiu	baukau	25
@@ -3668,6 +3712,7 @@ iha	ambiente	24
 parte	balun	24
 husi	eskola	24
 polítika	governu	24
+maka	governu	24
 responsabilidade	ba	24
 internasionál	sira	24
 iha	oportunidade	24
@@ -3722,7 +3767,6 @@ serbisu	sira	24
 sasan	iha	24
 ba	jornal	24
 ne'e	mesak	24
-nia	konta	24
 dili	iha	24
 tebes	hodi	24
 mos	halo	24
@@ -3763,7 +3807,6 @@ fali	osan	24
 liafuan	sira	24
 nia	belun	24
 tiha	nia	24
-husi	ita	24
 ne'ebé	hakerek	24
 ka	rua	24
 afirma	katak	24
@@ -3799,6 +3842,7 @@ ne'ebé	loloos	24
 diretór	jerál	24
 rasik	seidauk	24
 rai	nia	24
+moris	foun	24
 kestaun	ida	24
 ha'u	fo	24
 tolu	mak	24
@@ -3811,6 +3855,7 @@ komisaun	d	24
 mak	imi	24
 inan-aman	sira	24
 kona-ba	kazu	24
+ha'u	aman	24
 u	kalo	24
 lia	yesus	24
 kristus	niakaan	24
@@ -3900,6 +3945,7 @@ tamba	deit	23
 ne'e	nafatin	23
 konta	ho	23
 hakarak	ka	23
+nia	konta	23
 sa	ida	23
 foin	sa'e	23
 ba	buka	23
@@ -3910,10 +3956,10 @@ iha	loja	23
 dalan	ne'e	23
 udan	boot	23
 iha	iha	23
+malu	ne'e	23
 ba	simu	23
 ahi	mate	23
 baze	iha	23
-halo	negosiasaun	23
 uma	kreda	23
 tanba	to'o	23
 loron	seidauk	23
@@ -3959,6 +4005,7 @@ iha	inísiu	23
 nian	ka	23
 ida	entre	23
 konfirma	ona	23
+husi	ita	23
 iha	ai-laran	23
 ne'ebé	aat	23
 nia	produtu	23
@@ -4054,7 +4101,6 @@ labarik	feto	22
 no	hakerek	22
 lalais	liu	22
 ba	forsa	22
-oin	ne'e	22
 atu	hari'i	22
 ne'e	susar	22
 no	kooperasaun	22
@@ -4114,6 +4160,7 @@ vizita	ida	22
 husi	banku	22
 iha	liman	22
 durante	iha	22
+halo	negosiasaun	22
 ho	estadu	22
 laiha	tan	22
 orgaun	soberanu	22
@@ -4233,7 +4280,6 @@ ponte	ne'e	22
 laran	mak	22
 komunidade	suku	22
 neon	la	22
-ho	ita-nia	22
 ona	sira-nia	22
 presiza	hadi'a	22
 ba	kofre	22
@@ -4245,13 +4291,11 @@ ai	karuus	22
 o	mate	22
 sia	neon	22
 sura	loron	22
-ukun	baa	22
 dale	wa	22
 o	kota	22
 nariik	iha	22
 klubun	seluk	22
 tenik	na	22
-maromak	du	22
 i	kotuk	22
 kona-ba	prosesu	22
 an	mak	22
@@ -4276,7 +4320,6 @@ reis	amaral	22
 tempo	timor	22
 tenke	hatudu	22
 governu	sentrál	22
-arão	noé	22
 komandu	pntl	22
 apoiu	governu	22
 ita-nia	komunidade	22
@@ -4298,9 +4341,9 @@ mane	no	21
 husi	moras	21
 entre	nasaun	21
 diak	iha	21
+oin	ne'e	21
 tan	atu	21
 no	kapasidade	21
-forsa	defeza	21
 estranjeiru	sira	21
 ligasaun	ba	21
 sei	tama	21
@@ -4395,7 +4438,6 @@ tama	fali	21
 toba	iha	21
 ho	grupu	21
 husi	postu	21
-sei	aumenta	21
 ne'e	balun	21
 tratamentu	ba	21
 maka'as	tebes	21
@@ -4415,7 +4457,6 @@ rihun	resin	21
 ita	haruka	21
 komunidade	ida	21
 kontrolu	ba	21
-dadaun	iha	21
 nia	kna'ar	21
 eventu	ida	21
 mai	mak	21
@@ -4433,6 +4474,7 @@ tan	hodi	21
 sei	ko'alia	21
 kontratu	ne'ebé	21
 ministériu	agrikultura	21
+e	la	21
 maromak	nian	21
 husi	media	21
 laran	iha	21
@@ -4440,7 +4482,6 @@ maka'as	hodi	21
 desizaun	hodi	21
 ita	hasoru	21
 hetan	fali	21
-di'ak	ho	21
 iha	mudansa	21
 ba	fundu	21
 no	ohin	21
@@ -4454,6 +4495,7 @@ rui	maria	21
 fo	hanoin	21
 halo	duni	21
 agora	laiha	21
+e	moos	21
 koñesimentu	ba	21
 nia	istória	21
 eletrisidade	iha	21
@@ -4480,6 +4522,7 @@ bibi	atan	21
 ami	hotu-hotu	21
 ita-nia	an	21
 kargu	nu'udar	21
+ho	ita-nia	21
 iha	família	21
 sarani	ema	21
 ita	hadomi	21
@@ -4490,11 +4533,10 @@ katak	kedan	21
 bodik	nia	21
 hotu-hotu	moos	21
 tuir	kristus	21
+ukun	baa	21
 emikaan	klaran	21
 serwisu	nia	21
-in	mak	21
 loron	hira	21
-nia	nanis	21
 nia	nakara	21
 in	baa	21
 lia	tate	21
@@ -4503,7 +4545,7 @@ tulun	ha	21
 maromak	neon	21
 kota	efesus	21
 bei	abraham	21
-oras	na	21
+maromak	du	21
 nune'e	bainhira	21
 maromak	naran	21
 ekipa	husi	21
@@ -4528,6 +4570,7 @@ nasionál	ba	20
 nasionál	nian	20
 kooperativa	sira	20
 atu	mantein	20
+forsa	defeza	20
 nia	kompeténsia	20
 hein	iha	20
 sei	realiza	20
@@ -4604,6 +4647,7 @@ hanesan	loron	20
 sira	ko'alia	20
 portugés	sira	20
 iha	facebook	20
+ha'u	no	20
 ha'u	mos	20
 oho	ema	20
 mak	lidera	20
@@ -4647,6 +4691,7 @@ lia	no	20
 ba	area	20
 ba	dadus	20
 haksesuk	malu	20
+sei	aumenta	20
 tempu	barak	20
 ho	aviaun	20
 hala'o	viajen	20
@@ -4662,6 +4707,7 @@ la'os	atu	20
 neon	metin	20
 dook	husi	20
 ne'e	depende	20
+dadaun	iha	20
 ha'u	gosta	20
 ho	liman	20
 agora	nia	20
@@ -4695,6 +4741,7 @@ balun	nia	20
 la	diak	20
 iha	hngv	20
 nia	mandatu	20
+di'ak	ho	20
 ne'e	lakon	20
 ami	katak	20
 primeiru	lugar	20
@@ -4705,7 +4752,6 @@ balun	hosi	20
 violénsia	doméstika	20
 nia	númeru	20
 naneo	na	20
-e	moos	20
 hatudu	rezultadu	20
 haree	buat	20
 katuas	rama	20
@@ -4732,7 +4778,6 @@ hetan	aprovasaun	20
 ba	ospitál	20
 kaer	kilat	20
 labele	ko'alia	20
-iha	baukau	20
 ekipa	ne'ebé	20
 timoroan	ne'ebé	20
 ba	bee-moos	20
@@ -4754,6 +4799,7 @@ e	na	20
 no	kristus	20
 nosi	niakaan	20
 an	bodik	20
+iha	ha	20
 tadak	na	20
 an	nosi	20
 maromak	dalan	20
@@ -4765,13 +4811,14 @@ mak	sakar	20
 niakaan	hakaran	20
 serwisu	iha	20
 siakaan	hahalok	20
+in	mak	20
 tasi	tehen	20
 atu	no	20
 ema	nodi	20
 u	kmusti	20
 kota	antiokia	20
-rona	na	20
 nodi	niakaan	20
+nia	nanis	20
 tuir	ha	20
 emi	moris	20
 moos	solok	20
@@ -4779,12 +4826,11 @@ nola	emi	20
 mak	di	20
 iha	nebaa	20
 u	mak	20
-masik	ha	20
 dei	mak	20
-sia	dadi	20
 saa	emi	20
 bodik	na	20
 aat	sia	20
+oras	na	20
 ami	hanorin	20
 sia	tuir	20
 baa	tasi	20
@@ -4927,7 +4973,6 @@ agora	halo	19
 nebe	hau	19
 ba	veteranu	19
 no	loron	19
-fatin	ne'ebe	19
 prosesu	konstrusaun	19
 resin	lima	19
 konfirma	ho	19
@@ -4944,7 +4989,6 @@ maske	governu	19
 ba	edtl	19
 atu	esplika	19
 esforsu	atu	19
-depois	ha'u	19
 posibilidade	atu	19
 iha	períudu	19
 manas	liu	19
@@ -4993,6 +5037,7 @@ tuir	fali	19
 timor-leste	hodi	19
 governu	foti	19
 mate	tan	19
+blog	ne'e	19
 fó	osan	19
 sei	partisipa	19
 hatene	kona-ba	19
@@ -5010,6 +5055,7 @@ kompaña	sira	19
 foti	husi	19
 ba	sekretáriu	19
 la	inklui	19
+de'it	osan	19
 governu	liu	19
 komisaun	a	19
 husi	autoridade	19
@@ -5038,6 +5084,7 @@ seguransa	nian	19
 foos	ne'e	19
 cnrt	ne'e	19
 emprezáriu	timor	19
+iha	baukau	19
 halo	di'ak	19
 ho	lider	19
 avaliasaun	ba	19
@@ -5048,6 +5095,7 @@ hetan	mós	19
 dalan	loos	19
 mak	naran	19
 iha	maliana	19
+ha'u	hela	19
 ona	teste	19
 governu	prepara	19
 iha	mak	19
@@ -5075,18 +5123,20 @@ lia	kristus	19
 nalore	lia	19
 netan	moris	19
 makotu	lia	19
+rona	na	19
 baa	yerusalem	19
 u	ko	19
 tuir	ukun-badu	19
 niakaan	manfatin	19
 yahudi	na	19
-moos	katak	19
 haat	mak	19
 la	dala	19
 o	ha	19
 liu	resik	19
 ak	bodik	19
 is	mate	19
+masik	ha	19
+sia	dadi	19
 hotu-hotu	baa	19
 lahoos	ema	19
 hitu	nia	19
@@ -5096,7 +5146,6 @@ harui	aan	19
 nalo	emi	19
 tan	siakaan	19
 an	ha	19
-buat	nia	19
 hatene	lia	19
 nosi	itakaan	19
 itakaan	isin	19
@@ -5159,6 +5208,7 @@ ho	cnrt	18
 aprova	tiha	18
 pn	hodi	18
 ne'e	haruka	18
+fali	ha'u	18
 foti	liman	18
 ho	deputadu	18
 fukun	parlamentu	18
@@ -5195,7 +5245,6 @@ o	rai	18
 hodi	moris	18
 seidauk	rona	18
 oan	barak	18
-seluk-seluk	tan	18
 ba	oje	18
 to'o	tempu	18
 sira	rua	18
@@ -5272,6 +5321,7 @@ membru	komisaun	18
 tiha	fali	18
 para	haree	18
 identifika	ona	18
+fatin	ne'ebe	18
 situasaun	hanesan	18
 ne'ebé	daudauk	18
 sujere	ba	18
@@ -5285,6 +5335,7 @@ balun	mai	18
 lamenta	tebes	18
 mak	importante	18
 prosesu	ne'ebé	18
+depois	ha'u	18
 hau	haree	18
 wainhira	sira	18
 iha	sabadu	18
@@ -5410,7 +5461,6 @@ is	baa	18
 no	emi	18
 nalo	nia	18
 no	yesus	18
-nodi	neon	18
 baa	uma	18
 hanesan	kristus	18
 emi	hakara	18
@@ -5424,6 +5474,7 @@ nia	nosi	18
 la	netan	18
 in	ida	18
 dadi	niakaan	18
+moos	katak	18
 foin	ha	18
 bodik	ha	18
 toe	malu	18
@@ -5435,6 +5486,7 @@ netan	susar	18
 nosi	mate	18
 mai	ti	18
 ita	nosi	18
+buat	nia	18
 hatene	ti	18
 la	nalo	18
 media	sosial	18
@@ -5442,7 +5494,6 @@ tama	no	18
 preokupasaun	ne'e	18
 nadomi	ita	18
 munisípiu	baucau	18
-noé	de	18
 kontinua	servisu	18
 ministériu	relevante	18
 jesus	da	18
@@ -5543,6 +5594,7 @@ ne'e	dadauk	17
 oan	hotu	17
 indonézia	no	17
 maibe	ho	17
+seluk-seluk	tan	17
 foho	sira	17
 haruka	oho	17
 iha	funu	17
@@ -5610,7 +5662,6 @@ obra	ne'e	17
 ba	kondisaun	17
 hotu	ne'e	17
 lei	númeru	17
-eskola	no	17
 moris	rohan	17
 rai	sira	17
 nia	domin	17
@@ -5626,7 +5677,6 @@ maromak	iha	17
 seidauk	fó	17
 aprovasaun	ba	17
 ministru	ho	17
-mak	husi	17
 servisu	mak	17
 komisaun	e	17
 ró	sira	17
@@ -5651,7 +5701,6 @@ viajen	ne'e	17
 sai	di'ak	17
 ikus	hosi	17
 millaun	resin	17
-empreza	sira	17
 lusa	katak	17
 akontese	tanba	17
 sidadaun	timoroan	17
@@ -5704,12 +5753,12 @@ keke	lema	17
 ita-nia	rain	17
 uluk	fohon	17
 ona	orsamentu	17
+familia	no	17
 na'in	sanulu	17
 laran	nian	17
 tuir	konstituisaun	17
 projetu	ne'ebé	17
 ambiente	no	17
-atu	jere	17
 ne'ebé	barak	17
 de'it	husi	17
 ba	kapitál	17
@@ -5785,7 +5834,6 @@ kria	kampu	17
 sei	hasai	17
 defeza	timor-leste	17
 paixão	de	17
-halo	sosializasaun	17
 faluk	sira	17
 ministeriu	saude	17
 komemora	loron	17
@@ -5811,6 +5859,7 @@ atu	dale	17
 natudu	dalan	17
 kedan	lia	17
 nabesi	aan	17
+nodi	neon	17
 tonu-naboot	na	17
 beran	nia	17
 rai	makedonia	17
@@ -5820,7 +5869,6 @@ i	oin	17
 lear	oin	17
 simu	sia	17
 niakaan	uma	17
-sia	nusu	17
 nanorin	lia	17
 maromak	dale	17
 dala	wa	17
@@ -5832,7 +5880,6 @@ tuir	itakaan	17
 u	kfoo	17
 nosi	nia	17
 mak	fatan	17
-sia	keta	17
 o	matene	17
 u	kamulak	17
 ak	nola	17
@@ -5852,7 +5899,6 @@ oin	baa	17
 ukun-badu	nia	17
 tuir	formasaun	17
 iha	to	17
-mai	hato'o	17
 ba	ezekusaun	17
 meza	pn	17
 prezidensiál	bairru-pite	17
@@ -5877,7 +5923,6 @@ tanba	covid	17
 kréditu	uniaun	17
 bazika	ne'e	17
 mídia	sosiál	17
-uma	mdg	17
 teste	swab	17
 centro	asdt	17
 loke	hanit	17
@@ -5888,6 +5933,7 @@ husi	labarik	16
 saude	no	16
 no	edukasaun	16
 iha	forsa	16
+feto	nian	16
 no	dezenvolvimentu	16
 interese	atu	16
 impaktu	husi	16
@@ -6009,7 +6055,6 @@ se	la'e	16
 maka	akontese	16
 akontese	duni	16
 iha	tibar	16
-kontente	ho	16
 bele	foo	16
 ho	lalais	16
 membru	do	16
@@ -6037,6 +6082,7 @@ libertasaun	nasional	16
 ne'e	hatutan	16
 arbiru	de'it	16
 la	klaru	16
+surat	tahan	16
 laek	sira	16
 de'it	hodi	16
 hamutuk	no	16
@@ -6057,6 +6103,7 @@ duni	ka	16
 lakohi	fó	16
 katuas	xanana	16
 katak	orsamentu	16
+eskola	no	16
 katak	situasaun	16
 bayu	undang	16
 primeiru	governu	16
@@ -6069,6 +6116,7 @@ halo	ami	16
 dalaruma	ita	16
 eis	ministru	16
 intervensaun	iha	16
+mak	husi	16
 halai	sai	16
 ohin	iha	16
 folin	dolar	16
@@ -6097,6 +6145,7 @@ kalkula	katak	16
 prezensa	hosi	16
 lekirauk	sira	16
 bolu	atensaun	16
+empreza	sira	16
 ba	empreza	16
 selu	ona	16
 ona	kona-ba	16
@@ -6156,6 +6205,7 @@ foin	hatene	16
 orsamentu	hamutuk	16
 kona-ba	orsamentu	16
 ministru	ida	16
+atu	jere	16
 osan	tokon	16
 planu	ida	16
 ministériu	finansa	16
@@ -6182,6 +6232,7 @@ kuaze	tinan	16
 obrigadu	ba	16
 mak	uza	16
 ho	diretór	16
+ami	hare	16
 hein	desizaun	16
 hosi	liga	16
 liafuan	ne'ebé	16
@@ -6231,6 +6282,7 @@ haruka	ema	16
 dadus	iha	16
 governante	sira	16
 la	asesu	16
+halo	sosializasaun	16
 ba	aman	16
 parseiru	sira	16
 deputadu	no	16
@@ -6265,6 +6317,7 @@ hotu	paulus	16
 ema	uma	16
 sia	fiar	16
 fila	baa	16
+sia	nusu	16
 ok	serwisu	16
 ema	moos	16
 rai	mesir	16
@@ -6284,6 +6337,7 @@ emikaan	hahalok	16
 lolon	du	16
 maromak	nase	16
 baa	emikaan	16
+sia	keta	16
 niakaan	mamaluk	16
 nikar	nosi	16
 ema	tama	16
@@ -6303,6 +6357,7 @@ boi	atu	16
 ita	hodi	16
 ministériu	solidariedade	16
 pn	nian	16
+mai	hato'o	16
 dehan	xefe	16
 mós	preokupa	16
 dekretu	governu	16
@@ -6320,6 +6375,7 @@ par	ita	16
 munisípiu	manufahi	16
 prevensaun	covid	16
 nodi	ha	16
+uma	mdg	16
 oan	joven	16
 hari'i	kooperativa	16
 babelen	atu	16
@@ -6465,7 +6521,6 @@ povu	sei	15
 fitun	rua	15
 la	hela	15
 preokupasaun	ba	15
-hafoin	vizita	15
 maka'as	husi	15
 dehan	de'it	15
 hau	hatene	15
@@ -6475,6 +6530,7 @@ sala	de	15
 ne'ebe	mosu	15
 mai	nia	15
 husi	ministeiru	15
+kontente	ho	15
 bankada	pd	15
 ne'e	loron	15
 maibe	ba	15
@@ -6486,7 +6542,6 @@ halo	debate	15
 husi	orgaun	15
 hasai	foto	15
 no	programa	15
-lideransa	sira	15
 ba	hare	15
 barak	atu	15
 oan	balun	15
@@ -6792,7 +6847,6 @@ nodi	foo	15
 mai	baa	15
 raiklaran	tomak	15
 uk	la	15
-emi	du	15
 nosi	emi	15
 niakaan	oras	15
 neon	loos	15
@@ -6826,7 +6880,6 @@ adriano	do	15
 rejiaun	administrativa	15
 tenke	kumpri	15
 no	foin	15
-sara	lobo	15
 cárceres	da	15
 atividade	ne'ebé	15
 ro	haksolok	15
@@ -6974,7 +7027,6 @@ husi	ne'ebá	14
 ne'e	konta	14
 iha	oan	14
 australia	no	14
-e	depois	14
 mos	ema	14
 iha	distrito	14
 de	timor-leste	14
@@ -7013,6 +7065,7 @@ jeneral	taur	14
 gosta	liu	14
 foho	leten	14
 no	liu	14
+hafoin	vizita	14
 i	nia	14
 ba	investigasaun	14
 maibe	mos	14
@@ -7034,6 +7087,7 @@ iha	kongresu	14
 nasional	iha	14
 informasaun	ruma	14
 parte	leste	14
+lideransa	sira	14
 ita	koalia	14
 ne'ebe	dehan	14
 dehan	buat	14
@@ -7151,6 +7205,7 @@ sei	serbisu	14
 traballador	sira	14
 ema	ka	14
 ita	hanesan	14
+malu	ba	14
 dada	kadoras	14
 tasi	nia	14
 laloran	tasi	14
@@ -7168,6 +7223,7 @@ halo	observasaun	14
 rua	ne	14
 mas	hau	14
 nia	lider	14
+hau	rona	14
 ida	ami	14
 resposta	ba	14
 fo	ona	14
@@ -7207,9 +7263,9 @@ tulun	husi	14
 sei	menus	14
 o	mai	14
 entaun	se	14
+intervensaun	ba	14
 ajuda	ona	14
 komesa	iha	14
-ida	bé	14
 ho	kapasidade	14
 tenke	uza	14
 ba	infraestrutura	14
@@ -7320,7 +7376,6 @@ league	nian	14
 bainhira	tama	14
 maibé	ohin	14
 ek	aan	14
-rona	nola	14
 sia	naree	14
 ema	moon	14
 nia	nameno	14
@@ -7348,6 +7403,7 @@ la	biit	14
 maromak	nanis	14
 nosi	siakaan	14
 mesan	mak	14
+emi	du	14
 emi	ka	14
 daka	aan	14
 la	hoo	14
@@ -7525,6 +7581,7 @@ konta	ba	13
 servisu	ona	13
 ba	media	13
 tuir	kursu	13
+e	depois	13
 nain	ida	13
 nia	laiha	13
 josé	ramos-horta	13
@@ -7598,6 +7655,7 @@ rua	husi	13
 seidauk	konsege	13
 do	que	13
 halo	enkontru	13
+mean	iha	13
 iha	misaun	13
 iha	organizasaun	13
 ba	direitu	13
@@ -7896,7 +7954,6 @@ sira	haruka	13
 foin	mai	13
 hodi	lidera	13
 oan	ki'ak	13
-moris	ne'ebé	13
 fakar	ran	13
 hahán	sira	13
 mesh	potato	13
@@ -7949,6 +8006,7 @@ atleta	na'in	13
 dirijente	sira	13
 baku	fila	13
 u	ha	13
+rona	nola	13
 balu	tenik	13
 emi	rona	13
 lulik	baa	13
@@ -8028,6 +8086,7 @@ nia	solok	13
 laiha	osan	13
 ksolok	tabe	13
 moris	moon	13
+olo	iha	13
 ulun	mak	13
 neon	baa	13
 itakaan	fiar	13
@@ -8220,7 +8279,6 @@ oportunidade	ne'e	12
 kedas	ona	12
 so	iha	12
 ema	uza	12
-no	seluk-seluk	12
 ka	sira	12
 sira	ema	12
 hosi	povu	12
@@ -8480,7 +8538,6 @@ barak	tan	12
 joão	paulo	12
 the	da	12
 mai	sei	12
-bainhira	laiha	12
 projetu	boot	12
 hatán	kona-ba	12
 halo	diálogu	12
@@ -8536,13 +8593,11 @@ pozisaun	daruak	12
 no	orsamentu	12
 ho	ministeriu	12
 husi	kompaña	12
-sira	bé	12
 ne'e	planu	12
 investe	ba	12
 la	hatama	12
 atu	proteze	12
 afeita	ba	12
-traballadór	timor-oan	12
 ministériu	negósiu	12
 labele	selu	12
 fó	benefísiu	12
@@ -8553,6 +8608,7 @@ timor-leste	hanesan	12
 ho	lei	12
 bele	hakotu	12
 mak	tuur	12
+han	malu	12
 nebe	fiar	12
 ha'u	uluk	12
 ne'ebé	joven	12
@@ -8606,6 +8662,7 @@ timor	ne'ebé	12
 sosa	sasan	12
 hola	ema	12
 merese	atu	12
+halao	servisu	12
 husik	ona	12
 ba	kaer	12
 maibé	oinsá	12
@@ -8659,6 +8716,7 @@ governu	haruka	12
 halai	sees	12
 momentu	sira	12
 asu	ida	12
+moris	ne'ebé	12
 fiar	no	12
 no	ulun	12
 rekolla	dadus	12
@@ -8721,6 +8779,7 @@ ba	kombate	12
 maliak	ida	12
 ak	saa	12
 as	na	12
+dalen	ne	12
 la	to	12
 solok	nia	12
 u	kalore	12
@@ -8738,12 +8797,10 @@ kristus	ti	12
 la	nanono	12
 liu	tenik	12
 maromak	naruka	12
-in	moos	12
 ema	bui	12
 nusu	na	12
 nakotu	ti	12
 barnabas	no	12
-moos	noo	12
 yesus	mak	12
 ak	ti	12
 liu	ha	12
@@ -8924,6 +8981,7 @@ no	barak	11
 bele	taka	11
 barak	ne'e	11
 ne'ebe	hela	11
+nia	saude	11
 atu	komprende	11
 kultura	no	11
 ne'e	ki'ik	11
@@ -9071,6 +9129,7 @@ hotu-hotu	hatene	11
 de'it	tinan	11
 sira-nia	naran	11
 serbisu	nian	11
+no	seluk-seluk	11
 sira	koalia	11
 rona	de'it	11
 dalan	ninin	11
@@ -9189,6 +9248,7 @@ nia	avo	11
 iha	vila	11
 intervista	ho	11
 no	kalan	11
+dezastre	iha	11
 komandante	pntl	11
 sosa	karreta	11
 ida	antes	11
@@ -9326,6 +9386,7 @@ fa'an	sasán	11
 malae	mutin	11
 mai	ne	11
 ne'e	moras	11
+rai	ne	11
 lider	ida	11
 hosi	fonte	11
 koñesidu	ho	11
@@ -9344,6 +9405,7 @@ vinci	code	11
 mosu	duni	11
 iha	fim	11
 mak	loron	11
+bainhira	laiha	11
 báziku	sira	11
 akontese	no	11
 hato'o	mós	11
@@ -9430,6 +9492,7 @@ prosesu	tenderizasaun	11
 husi	timor-leste	11
 orsamentu	tokon	11
 timor-leste	seidauk	11
+traballadór	timor-oan	11
 fó	razaun	11
 ekipamentu	ne'ebé	11
 fó	resposta	11
@@ -9477,7 +9540,6 @@ ne'ebá	hodi	11
 maibé	depende	11
 marka	iha	11
 númeru	hosi	11
-embaixadór	sira	11
 tratamentu	saúde	11
 ha'u	fila	11
 bloku	aliansa	11
@@ -9642,6 +9704,7 @@ imi	mak	11
 jesus	iha	11
 keta	kona	11
 ne'ebé	hakotu	11
+france	football	11
 sei	di'ak	11
 apresia	ba	11
 nia	saída	11
@@ -9666,7 +9729,6 @@ moos	nakara	11
 ita	ne	11
 tuir	hanorin	11
 nusu	baa	11
-dalen	ne	11
 tan	oras	11
 emi	ida-idak	11
 nikar	ti	11
@@ -9689,6 +9751,7 @@ baa	buka	11
 ama	sia	11
 tebe-tebes	na	11
 paulus	moos	11
+in	moos	11
 iha	bui	11
 moos	rona	11
 sai	sia	11
@@ -9697,6 +9760,7 @@ mai	nasoru	11
 nanorin	ema	11
 rai	siprus	11
 moos	baa	11
+moos	noo	11
 nosi	bei	11
 o	dadi	11
 kristus	natudu	11
@@ -9709,11 +9773,11 @@ balu	simu	11
 lia	baa	11
 hosi	na	11
 nodi	siakaan	11
+ema	manorik	11
 nia	nanorin	11
 kdale	ne	11
 baa	loron	11
 baa	ama	11
-nahuu	nosi	11
 u	ti	11
 ema	nalo	11
 fiar	yesus	11
@@ -9899,6 +9963,7 @@ a'as	liu	10
 serbisu	barak	10
 maka	falta	10
 feto	iha	10
+no	sunu	10
 bazea	ba	10
 no	privadu	10
 ba	investimentu	10
@@ -10038,6 +10103,7 @@ manán	prémiu	10
 mos	hatene	10
 durante	prosesu	10
 ba	vitima	10
+la	moe	10
 hato'o	kestaun	10
 ha'u	koalia	10
 okupadu	ho	10
@@ -10058,6 +10124,7 @@ politika	no	10
 mauk	moruk	10
 o	keta	10
 nia	ibun	10
+ain	fatin	10
 bele	kaer	10
 barak	los	10
 moras	fuan	10
@@ -10144,7 +10211,6 @@ nasaun	foun	10
 liu	hanesan	10
 mak	aat	10
 nia	forsa	10
-igreja	nian	10
 mak	hakerek	10
 doben	ida	10
 seluk	mos	10
@@ -10173,6 +10239,7 @@ sei	sosa	10
 indonesia	sira	10
 ne'ebe	konsege	10
 monu	rai	10
+nia	liurai	10
 entaun	di'ak	10
 husi	vizita	10
 ba	hadia	10
@@ -10395,6 +10462,7 @@ tanba	prezidente	10
 isin	mate	10
 iha	inglaterra	10
 maske	ema	10
+no	alin	10
 hela	faze	10
 tomak	katak	10
 ho	atetude	10
@@ -10531,6 +10599,7 @@ temporada	ne'e	10
 avansadu	hosi	10
 markador	di'ak	10
 iha	españa	10
+embaixadór	sira	10
 partidu	ne'e	10
 ema	atus	10
 direitu	umanu	10
@@ -10814,6 +10883,7 @@ kroman	nia	10
 katak	niakaan	10
 katak	sain	10
 baa	sondadu	10
+nahuu	nosi	10
 nola	na	10
 as	kaliuk	10
 lia	aram	10
@@ -10857,7 +10927,6 @@ lia	ema	10
 nia	netan	10
 kakerek	lia	10
 e	malu	10
-foun	baa	10
 moris	dame	10
 nia	idade	10
 ida	foin	10
@@ -10999,7 +11068,6 @@ i	hotu-hotu	10
 iha	bnctl	10
 maijór	jenerál	10
 frente	sira	10
-konta	bankária	10
 voice	mail	10
 labele	dehan	10
 formasaun	no	10
@@ -11022,7 +11090,6 @@ suku	liurai	10
 hothotu	tenke	10
 niakaan	ilas	10
 iha	habesi	10
-buat	meak	10
 e	kuda	10
 tanba	rai	9
 hatene	koalia	9
@@ -11193,7 +11260,6 @@ haksolok	no	9
 mutin	no	9
 kotuk	iha	9
 ba	ne'ebe	9
-ne'ebe	oras	9
 e	agora	9
 indonesia	nian	9
 nain	hitu	9
@@ -11206,7 +11272,7 @@ hau	hein	9
 loke	tan	9
 sira	nebe'e	9
 bot	ba	9
-la	moe	9
+ba	direitus	9
 distribui	ona	9
 nia	knar	9
 knar	fatin	9
@@ -11224,9 +11290,9 @@ ami	la'o	9
 hodi	fo'o	9
 ha'u	hakfodak	9
 sira	oho	9
+la	metin	9
 iha	fuan	9
 fuan	iha	9
-ain	fatin	9
 ho	orgullu	9
 ema	se	9
 fuan	ida	9
@@ -11257,6 +11323,7 @@ ba	ajensia	9
 tenta	halo	9
 area	rurais	9
 hodi	tane	9
+atu	servi	9
 nunka	hanoin	9
 resin	neen	9
 loron	importante	9
@@ -11305,6 +11372,7 @@ la	kontrola	9
 povu	la	9
 nia	implementasaun	9
 hodi	distribui	9
+igreja	nian	9
 tiha	no	9
 komisaun	ida	9
 maibe	laiha	9
@@ -11473,7 +11541,6 @@ ne'ebé	selu	9
 sosa	ona	9
 simu	hosi	9
 estudu	sira	9
-posibilidade	hodi	9
 ba	liberdade	9
 sira	hadomi	9
 ba	títulu	9
@@ -11576,6 +11643,7 @@ uza	ninia	9
 sei	sa'e	9
 aluga	uma	9
 ami	komesa	9
+pasiar	iha	9
 tenke	kaer	9
 serimonia	ne'e	9
 baseia	ba	9
@@ -11698,6 +11766,7 @@ la	utiliza	9
 li'ur	no	9
 buat	sira-ne	9
 husu	fali	9
+hau	rasik	9
 hakarak	mak	9
 bainhira	simu	9
 hasoru	fali	9
@@ -11782,6 +11851,7 @@ lori	hotu	9
 parte	kompetente	9
 rai	lafaek	9
 tiha	katak	9
+poder	ba	9
 ne'e	ukun	9
 no	asina	9
 atu	soe	9
@@ -11811,7 +11881,6 @@ suku	balun	9
 buka	halo	9
 lista	ida	9
 ba	zona	9
-km	husi	9
 total	orsamentu	9
 timor	ida	9
 iha	fulan-setembru	9
@@ -12059,6 +12128,7 @@ iha	modalidade	9
 bele	no	9
 haree	saida	9
 avansadu	portugés	9
+merengue	sira	9
 prémiu	ne'ebé	9
 jogador	ida	9
 ba	brazil	9
@@ -12236,6 +12306,7 @@ okaan	neon	9
 nodi	moon	9
 ukun	hotu-hotu	9
 sakar	kristus	9
+foun	baa	9
 natudu	na	9
 mais	sei	9
 o	mohu	9
@@ -12286,13 +12357,13 @@ dalan	legál	9
 dehan	vise	9
 khunto	ne'ebé	9
 sei	pendente	9
-preokupa	ba	9
 prezidente	interinu	9
 husi	komandu	9
 bankada	apoiu	9
 husi	situasaun	9
 konselu	ministru	9
 seitór	privadu	9
+fakar	sai	9
 ekipa	ba	9
 ne'ebé	toma	9
 atividade	saida	9
@@ -12354,7 +12425,6 @@ la	viola	9
 santos	iha	9
 ninia	intervensaun	9
 loron	daruak	9
-de'it	fulan	9
 ko'alia	mós	9
 bosok	povu	9
 liberdade	ba	9
@@ -12419,7 +12489,6 @@ demisaun	ne'e	9
 sira-nia	rai	9
 sintomas	covid	9
 la'ós	bolseiru	9
-toos-nain	sira	9
 aviaun	citilink	9
 totál	estudante	9
 kuarentena	obrigatoriu	9
@@ -12431,6 +12500,7 @@ izolamentu	iha	9
 la	nase	9
 kazu	grave	9
 dehan	lere	9
+konta	bankária	9
 servisu	migrasaun	9
 francisco	martins	9
 grupu	kooperativa	9
@@ -12490,7 +12560,6 @@ governu	ka	8
 ba	be	8
 sira	ladun	8
 no	abuzu	8
-no	durante	8
 timor	barak	8
 tiha	ema	8
 bain	rua	8
@@ -12642,7 +12711,6 @@ mós	la'o	8
 uitoan	de'it	8
 hela	ninia	8
 lotaria	ne'e	8
-hapara	tiha	8
 tuir	deputadu	8
 amp	ne'e	8
 governu	kria	8
@@ -12692,6 +12760,7 @@ okos	ne'e	8
 cjitl	online	8
 ita	liu	8
 liu	ne'ebe	8
+ne'ebe	oras	8
 ona	e	8
 rezigna	an	8
 mak	ajuda	8
@@ -12860,6 +12929,7 @@ sira	se	8
 atu	konta	8
 katak	loron	8
 oin	ho	8
+nelson	mandela	8
 mak	menus	8
 internasional	ba	8
 de'it	tan	8
@@ -13078,6 +13148,7 @@ timor-leste	la	8
 billete	sira	8
 hosi	labarik	8
 afirma	iha	8
+posibilidade	hodi	8
 loloos	ida	8
 fotografia	sira	8
 konvida	ona	8
@@ -13111,7 +13182,6 @@ ne'ebé	taka	8
 estadu	islámiku	8
 iha	atentadu	8
 família	iha	8
-ne'ebé	hafoin	8
 janeiru	tinan	8
 tinan	sia	8
 halo	inspesaun	8
@@ -13171,7 +13241,6 @@ presiza	de'it	8
 projetu	nian	8
 sempre	prontu	8
 nebe	mosu	8
-sira	ne	8
 the	new	8
 orgullu	tanba	8
 amerikanu	sira	8
@@ -13199,7 +13268,6 @@ nune'e	hodi	8
 iha	radio	8
 tenki	mate	8
 la	hotu	8
-sei	kiik	8
 tenki	buka	8
 tan	moras	8
 salva	nia	8
@@ -13230,7 +13298,6 @@ nia	furak	8
 los	ho	8
 iha	portaun	8
 kedan	ho	8
-do	ano	8
 timor	hodi	8
 fó	serbisu	8
 lejislativu	sira	8
@@ -13279,6 +13346,7 @@ sunu	uma	8
 nune'e	povu	8
 fo	moris	8
 ne'e	projetu	8
+sira	be	8
 situasaun	agora	8
 hetan	hotu	8
 estabilidade	no	8
@@ -13430,6 +13498,7 @@ ho	instituisaun	8
 hela	metin	8
 no	loke	8
 suspensaun	ba	8
+i	no	8
 hotu-hotu	hanesan	8
 pn	no	8
 s	ne'ebé	8
@@ -13490,6 +13559,7 @@ mai	tiha	8
 ilegal	ne'e	8
 unidade	no	8
 nian	seidauk	8
+km	husi	8
 pasiente	na'in	8
 hosi	moras	8
 hosi	kazu	8
@@ -13591,7 +13661,6 @@ hosi	osan	8
 hanesan	agrikultura	8
 prima	food	8
 nia	estatutu	8
-sa'e	to'o	8
 para	lori	8
 mak	cnrt	8
 hafoin	rona	8
@@ -13690,6 +13759,7 @@ sai	nu'udár	8
 mós	liu	8
 kualidade	di'ak	8
 mai	sobu	8
+zona	espesial	8
 infraestrutura	báziku	8
 kontinua	nia	8
 hatama	keixa	8
@@ -13837,6 +13907,7 @@ maromak	ka	8
 nia	mosu	8
 la	hasai	8
 fatuk	kuak	8
+to'o	rohan	8
 hanesan	boot	8
 hodi	reprezenta	8
 ronaldo	nia	8
@@ -13936,7 +14007,6 @@ nalore	ti	8
 teen	sia	8
 yesus	nia	8
 maromak	loke	8
-mak	naruka	8
 dadi	hanesan	8
 nakbiit	siakaan	8
 kabaas	nia	8
@@ -13946,13 +14016,11 @@ neo-neon	baa	8
 ema	matas	8
 ur	nola	8
 maromak	ain-liman	8
-susi	ruin	8
 atu	serwisu	8
 maromak	bele	8
 uluk	baa	8
 halo	nunia	8
 hotu-hotu	natene	8
-u	kla	8
 la	kbele	8
 nakneter	nia	8
 nalore	na	8
@@ -14112,6 +14180,7 @@ ho	lista	8
 ba	señor	8
 nia	progresu	8
 nune'e	halo	8
+preokupa	ba	8
 ensinu	báziku	8
 husik	de'it	8
 prontu	apoiu	8
@@ -14128,7 +14197,6 @@ atu	identifika	8
 maioria	mak	8
 angelina	sarmento	8
 dahuluk	nian	8
-husu	ministru	8
 investigasaun	kriminál	8
 autór	ne'ebé	8
 prioridade	ne'ebé	8
@@ -14167,6 +14235,7 @@ hala'o	operasaun	8
 ministériu	interiór	8
 foti	dadus	8
 maior	jeneral	8
+de'it	fulan	8
 francisco	miranda	8
 miranda	branco	8
 setór	agrikultura	8
@@ -14274,7 +14343,7 @@ entidade	sira	8
 parte	simu	8
 bainhira	sidadaun	8
 aprova	osan	8
-entaun	komunidade	8
+toos-nain	sira	8
 debate	espesialidade	8
 nasionál	kay	8
 gusmão	mak	8
@@ -14372,6 +14441,7 @@ progresu	iha	7
 husi	rendimentu	7
 proporsaun	husi	7
 hetan	pagamentu	7
+no	durante	7
 mas	ne'e	7
 no	ahi	7
 iha	aban	7
@@ -14576,6 +14646,7 @@ ne'ebé	jornalista	7
 sei	ativu	7
 ida	hela	7
 maka	manan	7
+hapara	tiha	7
 kria	lei	7
 oan	nian	7
 manan	ona	7
@@ -14777,6 +14848,7 @@ fila	nia	7
 sei	boot	7
 hetan	valor	7
 rua	deit	7
+ba	daruak	7
 nudar	presidente	7
 no	independente	7
 jornalista	ida	7
@@ -14885,7 +14957,6 @@ nota	iha	7
 eleitoral	iha	7
 hahu	tuku	7
 tour	de	7
-nia	sa'e	7
 ki'ak	no	7
 hodi	povu	7
 mundiál	ba	7
@@ -14896,6 +14967,7 @@ husu	hodi	7
 la	dada	7
 ne'ebe	komunidade	7
 folin	baratu	7
+asanami	sabino	7
 nebe	koalia	7
 aumentu	ida	7
 hirak	tuir	7
@@ -14965,6 +15037,7 @@ ruma	kona	7
 iha	kontinente	7
 iha	plenariu	7
 ninia	kualidade	7
+uitoan	tan	7
 kondisaun	ba	7
 halo	filme	7
 loke	ba	7
@@ -15111,6 +15184,7 @@ presiza	tulun	7
 ne'e	afeta	7
 hetan	bandu	7
 hatudu	mós	7
+ne'ebé	hafoin	7
 inspesaun	ba	7
 hetan	problema	7
 ikan	ho	7
@@ -15198,6 +15272,7 @@ hanesan	vítima	7
 neen	ne'ebé	7
 seguru	ba	7
 katuas	fuk	7
+fuk	mutin	7
 nia	jerasaun	7
 manu	fuik	7
 nia	lalaok	7
@@ -15219,6 +15294,7 @@ lori	ita	7
 no	hanorin	7
 igreja	ne'e	7
 tempo	badak	7
+sei	kiik	7
 iha	futuro	7
 refere	mak	7
 ema	nebee	7
@@ -15349,15 +15425,14 @@ ba	para	7
 sosa	fali	7
 hodi	faan	7
 que	hau	7
+hetan	salvasaun	7
 rai	sei	7
 ba	subar	7
 jesus	ho	7
 atu	komemora	7
-iha	cuba	7
 hanoin	barak	7
 fó	ami	7
 lao	hela	7
-ga	lae	7
 gasta	iha	7
 gasta	tiha	7
 hela	hosi	7
@@ -15701,6 +15776,7 @@ nian	la'o	7
 bázika	sira	7
 lei	anti	7
 bolu	fali	7
+sa'e	to'o	7
 nia	komandante	7
 hetan	esperiénsia	7
 kestaun	hirak	7
@@ -15718,7 +15794,6 @@ nu'udar	estudante	7
 diretór	sira	7
 nia	observasaun	7
 maibé	kada	7
-sai	polémika	7
 seidauk	prontu	7
 lider	istóriku	7
 lideradu	husi	7
@@ -16023,7 +16098,6 @@ treinadór	di'ak	7
 ekipa	no	7
 serbisu	maka'as	7
 iha	barcelona	7
-manán	tiha	7
 futeból	nian	7
 karta	ne'ebé	7
 aviaun	ne'ebé	7
@@ -16077,7 +16151,6 @@ mane	nurak	7
 atu	nalore	7
 sia	nakotu	7
 sia	nebee	7
-mais	yesus	7
 kota	filipi	7
 ami	sa	7
 niakaan	ulun	7
@@ -16091,7 +16164,6 @@ sia	tama	7
 hamulak	yahudi	7
 nia	ne	7
 baa	bolu	7
-mais	maromak	7
 emi	dale	7
 emi	hosi	7
 siakaan	bei	7
@@ -16110,7 +16182,6 @@ emi	ema	7
 as	basuk	7
 baa	bele-bele	7
 ami	hadomi	7
-serwisu	susi	7
 serwisu	hodi	7
 u	emi	7
 simu	fafa	7
@@ -16165,6 +16236,7 @@ sakar	ha	7
 ukaan	manfatin	7
 oi-oik	mak	7
 o	maree	7
+mak	naruka	7
 a	lia	7
 la	nata	7
 iha	leo	7
@@ -16174,7 +16246,6 @@ samea	nia	7
 iha	roo	7
 ho	malu	7
 ema	sakar	7
-noo	na	7
 gubernur	naruka	7
 hanesan	moras	7
 gubernur	feliks	7
@@ -16280,7 +16351,6 @@ sai	sasin	7
 husi	matebian	7
 ne'e	buka	7
 negósiu	sira	7
-ak	bei-beik	7
 naloos	sia	7
 malo	lia	7
 musti	nanono	7
@@ -16300,7 +16370,6 @@ modi	neon	7
 mais	o	7
 katene	baa	7
 babelen	baa	7
-ek	nia	7
 mak	susar	7
 iha	polísia	7
 públiku	hatene	7
@@ -16355,7 +16424,6 @@ atividade	negósiu	7
 seasonal	worker	7
 mak	ladi'ak	7
 nu'udar	mós	7
-fakar	sai	7
 rezultadu	ba	7
 hotu-hotu	katak	7
 timoroan	hamutuk	7
@@ -16587,6 +16655,7 @@ fó	perigu	7
 mak	sidadaun	7
 sé	bele	7
 husi	na'in	7
+entaun	komunidade	7
 saúde	mak	7
 fó	subsidiu	7
 kuarentena	no	7
@@ -16645,6 +16714,7 @@ polisia	militár	7
 aifunan	azul	7
 aifunan	ne'e	7
 karau	no	7
+husu	ministru	7
 lakohi	koopera	7
 golpe	estadu	7
 konsellu	admistrasaun	7
@@ -17002,6 +17072,7 @@ monu	no	6
 ba	imprensa	6
 ai	laran	6
 alkatiri	nian	6
+hirak	ne	6
 mosu	uluk	6
 mak	politiza	6
 i	am	6
@@ -17027,6 +17098,7 @@ nia	mensajen	6
 media	komunikasaun	6
 nia	doben	6
 timor-leste	is	6
+ha	u	6
 u	nia	6
 bainhira	hau	6
 mos	hau	6
@@ -17320,6 +17392,7 @@ dili	ninian	6
 fakar	osan	6
 ho	ai	6
 ne'e	feto	6
+subar	hela	6
 xanana	dehan	6
 halo	kedan	6
 naran	inisial	6
@@ -17339,6 +17412,7 @@ deklara	deputadu	6
 nia	lamenta	6
 atividade	governu	6
 ninia	hahalok	6
+nia	sa'e	6
 nia	operasaun	6
 intervensaun	husi	6
 fin	do	6
@@ -17396,7 +17470,6 @@ entaun	jornalista	6
 klarifika	katak	6
 mak	hare	6
 nian	balu	6
-ne'e	keta	6
 hatama	de'it	6
 parte	imigrasaun	6
 ha'u	koñese	6
@@ -17420,6 +17493,7 @@ ita	depende	6
 ruma	akontese	6
 atu	faan	6
 maka	partidu	6
+sa	ita	6
 é	o	6
 fo	liman	6
 nia	horik	6
@@ -17955,6 +18029,7 @@ hedi	nia	6
 manu	no	6
 no	soe	6
 komemora	tinan	6
+iha	cuba	6
 estudante	timor	6
 balu	mós	6
 nia	preparasaun	6
@@ -18217,7 +18292,6 @@ kuandu	liu	6
 mais	de	6
 via	telemovel	6
 duni	kompañia	6
-dona	maria	6
 maria	sau	6
 maibé	ate	6
 ulun	ba	6
@@ -18278,6 +18352,7 @@ bele	duni	6
 grupu	juventude	6
 tuur	hakmatek	6
 halo	aan	6
+tilun	diuk	6
 lakon	ne'e	6
 investigador	sira	6
 peska	ilegal	6
@@ -18413,6 +18488,7 @@ ami	senti	6
 dehan	labele	6
 hahu	ona	6
 balu	ema	6
+soe	ona	6
 nian	nune'e	6
 ne'e	rekomenda	6
 katak	pipeline	6
@@ -18502,6 +18578,7 @@ konjuntu	ne'e	6
 baukau	no	6
 ne'ebé	banku	6
 mai	dala	6
+sai	polémika	6
 realidade	ita	6
 amu	sira	6
 ba	migrasaun	6
@@ -18660,6 +18737,7 @@ ho	ran	6
 hasoru	ha'u	6
 la	kestiona	6
 karik	hetan	6
+tan	ne	6
 mak	veteranu	6
 fahe	fali	6
 informasaun	hanesan	6
@@ -18879,6 +18957,7 @@ seguransa	sosial	6
 valor	ba	6
 ai	fuan	6
 superior	sira	6
+laran	to'o	6
 hanesan	laiha	6
 ne'ebé	rona	6
 ho	volume	6
@@ -18912,7 +18991,6 @@ ita	hato'o	6
 ezemplu	di'ak	6
 korea	sul	6
 hetan	asidente	6
-han	etu	6
 rona	iha	6
 nia	prezidente	6
 manuel	ramos	6
@@ -19040,6 +19118,7 @@ sai	forte	6
 jogu	iha	6
 loron	sia	6
 iha	jornada	6
+manán	tiha	6
 ekipa	téknika	6
 nia	kabaas	6
 nu'udar	futebolista	6
@@ -19050,6 +19129,7 @@ despede	hosi	6
 sempre	fó	6
 futebolista	di'ak	6
 kompetisaun	ne'e	6
+red	devils	6
 hodi	asina	6
 iha	rekursu	6
 tolu	hodi	6
@@ -19103,6 +19183,7 @@ sarani	hotu-hotu	6
 paulus	nakara	6
 tan	kmalar	6
 manfatin	iha	6
+mais	yesus	6
 tasi	balu	6
 hanoin	na	6
 balu	baa	6
@@ -19125,6 +19206,7 @@ moos	bolu	6
 nanorin	na	6
 paulus	nein	6
 beer	basuk	6
+mais	maromak	6
 an	seluk	6
 u	lai	6
 beer	na	6
@@ -19197,7 +19279,6 @@ hodi	matan	6
 ema	nakara	6
 aan	halo	6
 nalai	keen	6
-ema	ta	6
 yesus	naran	6
 natudu	kedan	6
 naruka	sondadu	6
@@ -19228,6 +19309,7 @@ nasoru	nia	6
 hosi	itakaan	6
 nunabee	ema	6
 nakara	sori	6
+noo	na	6
 katak	nosi	6
 mais	siakaan	6
 mais	arumak	6
@@ -19240,7 +19322,6 @@ no	timotius	6
 emi	hodi	6
 noo	uma	6
 mohu	ti	6
-kleur	oda	6
 hakerek	bodik	6
 atu	namulak	6
 u	koo	6
@@ -19280,7 +19361,6 @@ kastikar	mak	6
 mak	sasa	6
 nima-nimak	baa	6
 laran	du	6
-nanis	simu	6
 emi	haree	6
 hatene	na	6
 ema	maksoin	6
@@ -19288,7 +19368,6 @@ selu	nikar	6
 o	serwisu	6
 bodik	itakaan	6
 ema	nusu	6
-hanoin	kokon	6
 i	lale	6
 niakaan	hakerek	6
 latan	niakaan	6
@@ -19305,7 +19384,6 @@ soe	nia	6
 is	aan	6
 baa	mesir	6
 mak	ilas	6
-karau	baka	6
 maromak	se	6
 nia	nariik	6
 sia	nasusar	6
@@ -19410,6 +19488,7 @@ kompetisaun	ida	6
 rekoñesimentu	ba	6
 lori	produtu	6
 okaan	hahalok	6
+ak	bei-beik	6
 kristus	dadi	6
 aan	moris	6
 sala	bei-beik	6
@@ -19438,6 +19517,7 @@ natene	dauk	6
 tan	hotu-hotu	6
 tonu-haboot	na	6
 kbele	kalo	6
+ek	nia	6
 serwisu	oi-oik	6
 emikaan	leet	6
 emi	haklibur	6
@@ -19457,7 +19537,6 @@ komisaun	nasionál	6
 fó	todan	6
 labele	ema	6
 presiza	servisu	6
-fernanda	lay	6
 ruak	deside	6
 hatama	filafali	6
 plenária	mak	6
@@ -19484,7 +19563,6 @@ prosesu	estudu	6
 ba	formandu	6
 kondolénsia	ba	6
 bele	kobre	6
-sabino	soares	6
 la'o	tiha	6
 ba	amu	6
 dulce	de	6
@@ -19763,6 +19841,7 @@ ba	cnrt	6
 cnrt	atu	6
 deputadu	patrocino	6
 mak	identifika	6
+olo	atu	6
 parseria	ho	6
 akademista	ne'e	6
 foun	f-fdtl	6
@@ -19951,7 +20030,6 @@ imunidade	ne'e	6
 terenu	nota	6
 husi	mapkoms	6
 governu	atribui	6
-ba	ida-idak	6
 kumpre	regra	6
 presiza	tenke	6
 sira-nia	hanoin	6
@@ -19997,7 +20075,6 @@ rekuperasaun	ekonómiku	6
 f-fdtl	maijór	6
 maiór	f-fdtl	6
 koordenadór	asuntu	6
-to'o	us	6
 ba	ángela	6
 tenke	hola	6
 husi	ai-laran	6
@@ -20062,7 +20139,6 @@ seguransa	lorosa'e	6
 ona	sala	6
 movimentu	ilegal	6
 tanba	ko'alia	6
-vasina	ema	6
 nia	kna'ar-fatin	6
 koreia	súl	6
 kooperativa	cocamau	6
@@ -20145,7 +20221,6 @@ lolon	rohan	6
 ktitu-karee	buat	6
 baa	habesi	6
 musti	makerek	6
-meak	nia	6
 ulun	baa	6
 nananu	kananuk	6
 iha	kalo	6
@@ -20162,7 +20237,6 @@ sidade	boot	5
 maibe	sai	5
 ema	timór	5
 iha	referendu	5
-pur	anu	5
 fila	ema	5
 nia	ohin	5
 hosi	fretilin	5
@@ -20369,6 +20443,7 @@ la	responde	5
 dada	tempu	5
 no	amizade	5
 ami	durante	5
+too	mai	5
 tebes	ida	5
 ho	amp	5
 foho	nian	5
@@ -20479,6 +20554,7 @@ maka	hodi	5
 ba	bandeira	5
 hetan	reasaun	5
 reasaun	husi	5
+nian	ne	5
 durante	de	5
 mak	senhor	5
 sira	hamnasa	5
@@ -20504,7 +20580,6 @@ oituan	atu	5
 staf	sira	5
 unamet	nian	5
 hau	hadomi	5
-ha	u	5
 sei	bá	5
 bá	ema	5
 ba	lia-tetun	5
@@ -20638,7 +20713,6 @@ rain	no	5
 rai	to'o	5
 keixa	iha	5
 husu	responsabilidade	5
-husi	oan	5
 polisia	imigrasaun	5
 rdtl	ne'e	5
 nia	la'en	5
@@ -20956,6 +21030,7 @@ funsionáriu	ne'e	5
 hare	de'it	5
 ba	kritériu	5
 ninia	meza	5
+ne'e	keta	5
 prosesu	administrasaun	5
 akuza	katak	5
 turizmu	ne'ebé	5
@@ -21050,6 +21125,7 @@ foin	haruka	5
 to	iha	5
 hahu	fali	5
 ona	ahi	5
+mean	ba	5
 mos	fila	5
 pntl	balun	5
 sira	kala	5
@@ -21515,6 +21591,7 @@ do	norte	5
 husi	apoiu	5
 hela	nasaun	5
 foun	hanesan	5
+aplikasaun	ne'e	5
 hau	hili	5
 depois	sai	5
 nia	banku	5
@@ -21638,7 +21715,6 @@ dezde	fulan	5
 hanesan	asaun	5
 hosi	asaun	5
 dedika	ba	5
-tinan	dahuluk	5
 nia	gabinete	5
 ema	oioin	5
 sosa	ekipamentu	5
@@ -21709,7 +21785,6 @@ iha	forum	5
 hein	tinan	5
 balu	dehan	5
 ema	laiha	5
-falintil	forsa	5
 ba	komemorasaun	5
 tempu	sei	5
 hanoin	mak	5
@@ -21779,6 +21854,7 @@ sia	balu	5
 ita	hariik	5
 klubun	ida	5
 sia	fa	5
+no	mina	5
 rekursu	ida	5
 sira	hadi'a	5
 mesak	no	5
@@ -21876,7 +21952,6 @@ seidauk	hanoin	5
 dook	liu	5
 faan	ba	5
 ka	oinsa	5
-ke'e	sai	5
 oioin	atu	5
 tasi	okos	5
 katak	karik	5
@@ -21952,6 +22027,7 @@ fo	nia	5
 maibe	hetan	5
 ba	atambua	5
 li'ur	ne'ebá	5
+anin	iha	5
 no	furak	5
 rezultadu	eleisaun	5
 konsidera	atu	5
@@ -22043,6 +22119,7 @@ hahalok	balun	5
 mak	antes	5
 partidu	iha	5
 hetan	ameasa	5
+agostu	tinan	5
 tolu	sei	5
 dili	halo	5
 privadu	hodi	5
@@ -22126,7 +22203,6 @@ oinsa	sira	5
 nia	abilidade	5
 omenajen	ba	5
 hetan	sei	5
-sita	hosi	5
 dahuluk	maka	5
 sira	organiza	5
 ne'ebé	defende	5
@@ -22285,7 +22361,6 @@ ho	pesoal	5
 preparasaun	hodi	5
 fasilidade	saúde	5
 hetan	isin	5
-aumenta	ho	5
 dahuluk	husi	5
 mensajen	ne'ebé	5
 bele	forma	5
@@ -22393,6 +22468,7 @@ husi	us	5
 husu	aumenta	5
 kareta	sira	5
 maibe	labele	5
+tabele	hela	5
 planu	orsamentu	5
 ho	se	5
 iha	udan	5
@@ -22415,7 +22491,6 @@ kompañia	seguransa	5
 membru	seguransa	5
 saúde	ka	5
 fila-fali	mai	5
-saláriu	ne'e	5
 la'ós	ida	5
 liuliu	husi	5
 entaun	lalika	5
@@ -22459,7 +22534,6 @@ no	dada	5
 hapara	kontratu	5
 autoridade	relevante	5
 loke	ho	5
-mós	sita	5
 informa	nia	5
 ona	diskusaun	5
 husi	embaixadór	5
@@ -22543,12 +22617,14 @@ hetan	ida	5
 polítiku	ne'e	5
 halo	renovasaun	5
 naruk	ho	5
+hola	anin	5
 fulan	klaran	5
 atividade	ekonómika	5
 suku	bidau	5
 ne'ebá	kedas	5
 sira	deklara	5
 rezultadu	konkursu	5
+ki'ik	ho	5
 ne'ebé	lider	5
 sai	duni	5
 mário	viegas	5
@@ -22645,6 +22721,7 @@ ministeiru	finansas	5
 projetu	ne'ebe	5
 lei	orsamentu	5
 eletrisidade	ne'ebe	5
+balibó	five	5
 mak	komete	5
 tropa	s	5
 hakru'uk	ba	5
@@ -22840,6 +22917,7 @@ maka	tula	5
 tempu	la	5
 mai	atualiza	5
 ba	diálogu	5
+lulik	no	5
 ne'ebe	hatete	5
 hanesan	eskritor	5
 hetan	ha'u	5
@@ -22855,6 +22933,7 @@ almosu	ho	5
 tanba	lori	5
 da	reconstrução	5
 total	hamutuk	5
+update	ha'u-nia	5
 ita	boot-nia	5
 nune'e	tiha	5
 tiha	ita	5
@@ -22965,6 +23044,7 @@ kontinua	fali	5
 loloos	maka	5
 matan	dalan	5
 sei	aranka	5
+matenek	nia	5
 ho	estudante	5
 atividade	ba	5
 ita	leno	5
@@ -23199,6 +23279,7 @@ defeza	ba	5
 ne'ebé	divulga	5
 la	garante	5
 kuda	kafé	5
+serbisu	tinan	5
 diretor	ne'e	5
 afavór	ba	5
 hosi	tasa	5
@@ -23225,7 +23306,6 @@ league	ho	5
 hodi	ultrapasa	5
 ida	laiha	5
 sei	tuun	5
-gareth	bale	5
 katak	cristiano	5
 andré	gomes	5
 klube	inglés	5
@@ -23242,6 +23322,7 @@ ha'u	moe	5
 ho	messi	5
 la	joga	5
 juventus	nian	5
+kartaun	mean	5
 no	halakon	5
 mós	jogador	5
 joga	ona	5
@@ -23444,7 +23525,6 @@ hakara	ha	5
 naneo	loos	5
 nalo	neon	5
 er	no	5
-keta	simu	5
 masik	ami	5
 naran	di	5
 emi	tebe-tebes	5
@@ -23463,7 +23543,6 @@ kroman	maksinak	5
 ida	tuun	5
 o	masusar	5
 nia	nataa	5
-u	kataa	5
 naran	ananias	5
 natene	di	5
 rona	nosi	5
@@ -23611,6 +23690,7 @@ ulun	bodik	5
 sia	kre	5
 maromak	namutuk	5
 lia	bodik	5
+nanis	simu	5
 yahudi	simu	5
 makfiar	seluk	5
 an	tenik	5
@@ -23624,6 +23704,7 @@ tulun	sia	5
 hira	mai	5
 mate	moos	5
 mesak	dei	5
+hanoin	kokon	5
 taka	ibun	5
 malu	nodi	5
 raiklaran	sia	5
@@ -23639,7 +23720,6 @@ dadomin	mak	5
 moris	tuan	5
 siakaan	beer	5
 loos	hanesan	5
-yusuf	moos	5
 mamenon	baa	5
 iha	mesir	5
 siakaan	matenek	5
@@ -23738,7 +23818,6 @@ la	makonak	5
 doris	day	5
 hanesan	atrís	5
 ho	rihun	5
-ne'ebé	sita	5
 loron	rai	5
 administrativu	espesiál	5
 fiar	hetak	5
@@ -23831,7 +23910,6 @@ buat	oioin	5
 sarani	musti	5
 raiklaran	moos	5
 atu	tuun	5
-baa	kuak	5
 la	furak	5
 ida	noo	5
 selu	aat	5
@@ -23919,6 +23997,7 @@ votasaun	a	5
 abstensaun	zero	5
 servisu	seguransa	5
 iha	google	5
+sabino	soares	5
 bolu	hikas	5
 períodu	ida	5
 preparasaun	no	5
@@ -23957,6 +24036,7 @@ mós	agora	5
 iha	adn	5
 señora	ministra	5
 no	pagamentu	5
+sai	mafia	5
 costa	atu	5
 iha	korreia	5
 uma	hirak	5
@@ -24181,6 +24261,7 @@ nia	sample	5
 fó	importánsia	5
 ba	kategória	5
 nia	totál	5
+patrimóniu	estadu	5
 kondutór	sira	5
 estabelese	tan	5
 halo	postu	5
@@ -24339,7 +24420,6 @@ bázika	ba	5
 proposta	dekretu	5
 agora	estudante	5
 forma	hodi	5
-sosializasaun	iha	5
 tuir	rezolusaun	5
 ministru	fidelis	5
 figura	ida	5
@@ -24399,7 +24479,6 @@ adidu	iha	5
 diretór	jeral	5
 to'o	dia	5
 ba	mnek	5
-prejuizu	ba	5
 witness	k	5
 iha	kolega	5
 área	seluk	5
@@ -24410,6 +24489,7 @@ konferénsia	internasionál	5
 futuru	mak	5
 faze	tuir	5
 pakote	lejislasaun	5
+obriga	prezidente	5
 hela	identifikasaun	5
 apoiu	seguransa	5
 osan	viajen	5
@@ -24477,7 +24557,6 @@ kontra	pandemia	5
 ba	mop	5
 ho	tahu	5
 dívida	sira	5
-kona-ba	lista	5
 obrigadu	wain	5
 sira-nia	iha	5
 informa	asuntu	5
@@ -24608,10 +24687,10 @@ didi'ak	tanba	5
 prosesu	preparasaun	5
 miguel	pereira	5
 administrasaun	suku	5
+naimori	bukar	5
 moras	kardíaku	5
 kardíaku	reumátiku	5
 ona	tenke	5
-laiha	preparasaun	5
 defaktu	ne'e	5
 membru	forsa	5
 fahe	subsidiu	5
@@ -24635,8 +24714,8 @@ alin	naimori	5
 ne'e	maromak	5
 lori	mós	5
 sapa	matrikula	5
-governu	desidi	5
 husu	labele	5
+ba	ida-idak	5
 antónio	guterres	5
 folin	liu	5
 sira	oinsá	5
@@ -24657,6 +24736,7 @@ foin	ida	5
 ministeriu	públiku	5
 ita	rezolve	5
 labele	halibur	5
+mós	mate	5
 sidadaun	estranjéiru	5
 hahú	uluk	5
 rezisténsia	nasionál	5
@@ -24717,7 +24797,6 @@ lucas	do	5
 lere	mós	5
 ferreira	iha	5
 merkadu	fronteíra	5
-sekoop	elizário	5
 persaudaraan	setia	5
 setia	hati	5
 balun	agora	5
@@ -24728,7 +24807,7 @@ husi	mf	5
 xefe	arnaldo	5
 nasional	aniceto	5
 rekopera	ekonomia	5
-sunset	jazz	5
+to'o	us	5
 atinje	to'o	5
 atividade	produtivu	5
 kompañia	ne'ebe	5
@@ -24833,13 +24912,13 @@ hanoin	oinsá	5
 sentru	izolamentu	5
 loron	falintil	5
 falintil	ba	5
-iha	kolmera	5
 kapitál	hamutuk	5
 nakfilak	ba	5
 kooperativa	rasik	5
 ha'u	informa	5
 tiru	karau	5
 atu	vasina	5
+vasina	ema	5
 simu	uluk	5
 isabel	ferreira	5
 ne'ebé	afeita	5
@@ -24999,7 +25078,6 @@ fiar	bei-beik	5
 aat	nomer	5
 i	nosi	5
 nariik	se	5
-noo	nidin	5
 fukun	na	5
 a	nodi	5
 maromak	habesi	5
@@ -25013,7 +25091,6 @@ anggor	fuan	5
 bolu	emi	5
 hakerek	lulun	5
 emi	ahan	5
-sita	malu	5
 morin	raan	5
 tubi	no	5
 uma	ruin	5
@@ -25654,7 +25731,6 @@ kualidade	hodi	4
 ita	deskonfia	4
 kualidade	hanesan	4
 jerasaun	ida	4
-sita	iha	4
 pakote	referendum	4
 projeitu	sira	4
 salva	o	4
@@ -25695,6 +25771,7 @@ momentu	importante	4
 sira	deskonfia	4
 iha	ikus	4
 instituisaun	ne'ebe	4
+husi	oan	4
 unidade	polisia	4
 nia	roupa	4
 estadu	seguransa	4
@@ -25737,6 +25814,7 @@ ne'ebe	hatais	4
 ne'ebe	loke	4
 bairo	dos	4
 dos	grilos	4
+hamenus	ona	4
 tiha	problema	4
 f-fdtl	maka	4
 maka	involve	4
@@ -26080,7 +26158,6 @@ duni	politika	4
 maka	deskonfia	4
 foos	ho	4
 katak	balun	4
-ninia	relatoriu	4
 ona	naran	4
 haat	hodi	4
 ferik	katuas	4
@@ -26146,7 +26223,6 @@ ho	antónio	4
 hare	ema	4
 nia	dokumentus	4
 hare	kona	4
-ba	sra	4
 uma	halo	4
 ho	raan	4
 dezlokadu	sira	4
@@ -26335,7 +26411,6 @@ hakfodak	bainhira	4
 ho	istória	4
 in	ne'ebé	4
 notísia	sira	4
-daruak	maka	4
 rua	hamutuk	4
 iha	global	4
 global	voices	4
@@ -26347,7 +26422,6 @@ temperatura	média	4
 ambiente	iha	4
 hosi	tempu	4
 maka	rejista	4
-c	aas	4
 no	uzu	4
 hanesan	espésie	4
 ne'e	aas	4
@@ -26558,6 +26632,7 @@ hosi	kapital	4
 previzaun	sira	4
 implika	atu	4
 rai-nakdoko	ne'ebé	4
+el	mundo	4
 norma	ne'e	4
 populasaun	no	4
 polísia	na'in	4
@@ -26633,7 +26708,6 @@ atu	hemu	4
 daudaun	hela	4
 ne'e	hari	4
 signifika	la	4
-telemovel	no	4
 direitu	la	4
 fo	komentariu	4
 durante	ha'u	4
@@ -26816,6 +26890,7 @@ transparensia	no	4
 uma	sorin	4
 foin	fulan	4
 hanesan	ai	4
+ha'u	komprende	4
 nia	temi	4
 ne'ebé	ha'u-nia	4
 ami	temi	4
@@ -26973,7 +27048,6 @@ korea	no	4
 horta	hateten	4
 iha	intervista	4
 fali	sistema	4
-aplikasaun	ne'e	4
 laran	bele	4
 no	banku	4
 rahun	diak	4
@@ -27069,7 +27143,6 @@ hakarak	ou	4
 ou	lakohi	4
 labele	naran	4
 istóriku	timoroan	4
-sri	chinmoy	4
 kór	no	4
 ho	alunu	4
 esperansa	nian	4
@@ -27103,7 +27176,6 @@ ukun	ida	4
 ona	hakat	4
 timor	ka	4
 nian	komesa	4
-ke'e	no	4
 prontu	halo	4
 deputadu	aderito	4
 hamriik	no	4
@@ -27170,6 +27242,7 @@ iha	dare	4
 fatin	di'ak	4
 forma	no	4
 maka	timoroan	4
+tinan	dahuluk	4
 iha	timoroan	4
 tratamentu	aat	4
 aat	tanba	4
@@ -27227,7 +27300,6 @@ katak	fulan	4
 simu	subsidiu	4
 mane	simu	4
 katak	estudante	4
-d	ne'e	4
 husi	fakuldade	4
 ha'u-nia	maluk	4
 ha'u	tanis	4
@@ -27268,6 +27340,7 @@ mai	ida	4
 suporta	no	4
 so	ema	4
 laiha	moral	4
+falintil	forsa	4
 hafoin	debate	4
 no	votasaun	4
 oecusse	nian	4
@@ -27325,7 +27398,6 @@ kona-bá	nia	4
 hau	to	4
 ema	keta	4
 ne	mai	4
-kuak	boot	4
 bee	lihun	4
 ai	kabelak	4
 boot	ne	4
@@ -27699,7 +27771,6 @@ ninia	ruin	4
 indonézia	ninian	4
 surat	ne'ebé	4
 la	hataan	4
-dehan	joaquim	4
 ba	surat	4
 husi	presidente	4
 parte	aprovizionamentu	4
@@ -27744,7 +27815,6 @@ haknaar	an	4
 kna'ar	ne'e	4
 inspetór	jerál	4
 atuál	ne'e	4
-perigu	nia	4
 ba	ne'eba	4
 fulan	junho	4
 esforsu	ba	4
@@ -27776,13 +27846,11 @@ konaba	saida	4
 sel-seluk	tan	4
 liu	entrega	4
 estraga	husi	4
-agostu	tinan	4
 autoridade	iha	4
 iha	asina	4
 taka	ne'e	4
 paradise	ne'e	4
 kinta	semana	4
-ke'e	ona	4
 rona	ne'e	4
 halo	bee	4
 tasi	mak	4
@@ -27804,7 +27872,6 @@ karik	tanba	4
 misaun	hodi	4
 ha'u	konfia	4
 antes	ami	4
-lori	ninia	4
 ba	nian	4
 mosu	konfrontasaun	4
 to'o	momentu	4
@@ -28071,6 +28138,7 @@ husu	ho	4
 fatin	servisu	4
 totál	traballadór	4
 hasa'e	númeru	4
+tahan	leten	4
 maibé	dehan	4
 ne'e	parese	4
 tiha	proposta	4
@@ -28098,6 +28166,7 @@ nia	parteira	4
 sira	hasa'e	4
 no	bebe	4
 sei	limitadu	4
+aumenta	ho	4
 parteira	sira	4
 sistema	saúde	4
 bele	informa	4
@@ -28114,7 +28183,6 @@ iha	protesaun	4
 bele	viola	4
 kastigu	ba	4
 maio	de	4
-maliana	no	4
 faan	sira	4
 katak	foho	4
 mak	sidauk	4
@@ -28269,6 +28337,7 @@ guarda	ida	4
 hanesan	kompañia	4
 problema	saúde	4
 balun	servisu	4
+saláriu	ne'e	4
 mós	ezije	4
 lalika	tau	4
 de'it	kuandu	4
@@ -28377,7 +28446,6 @@ reforma	ne'e	4
 hakarak	hasoru	4
 oi-oin	iha	4
 tersa	feira	4
-ni	kolegan	4
 kolegan	sira	4
 ysa	ene	4
 ona	na'in	4
@@ -28471,7 +28539,6 @@ no	nasionál	4
 sente	ida	4
 kestaun	atu	4
 sira	enfrenta	4
-idak	nia	4
 duni	tenke	4
 estabelese	tiha	4
 parlamentu	mak	4
@@ -28628,6 +28695,7 @@ no	matan	4
 hanoin	ha'u	4
 ba	arguido	4
 kontra	p	4
+ida	de	4
 mota	no	4
 universitariu	ida	4
 komisaun	nian	4
@@ -28828,6 +28896,7 @@ diskusaun	ida	4
 estrada	nebe	4
 presija	mos	4
 komunidade	nebe	4
+kontinua	halao	4
 ahi	la	4
 tamba	ahi	4
 konstrui	husi	4
@@ -29198,7 +29267,6 @@ ho	kakutak	4
 inimigu	ida	4
 ami	mesak	4
 dezafiu	ne'e	4
-sira	eskola	4
 ne'ebe	hatudu	4
 ne'e	oras	4
 motivu	sira	4
@@ -29247,6 +29315,7 @@ dionísio	babo	4
 nu'udar	primeiru-ministru	4
 parlamentu	iha	4
 aas	nafatin	4
+tamba	ne	4
 tetu	didiak	4
 polítika	ne'ebe	4
 programa	la	4
@@ -29449,7 +29518,6 @@ hanesan	hotu	4
 hakerek	naran	4
 opsaun	tolu	4
 mundial	futebol	4
-france	football	4
 serimónia	ida	4
 entrega	prémiu	4
 ho	dignidade	4
@@ -29652,7 +29720,9 @@ osan	euro	4
 polísia	ne'e	4
 maibé	na'in	4
 sira-nia	inan-aman	4
+mout	ona	4
 sona	ema	4
+nakfilak	sai	4
 kampeaun	inglés	4
 ideia	atu	4
 ha'u	kumpri	4
@@ -29723,7 +29793,6 @@ petrus	dale	4
 naree	saa	4
 baa	mane	4
 dale	saa	4
-hanesan	loro	4
 moos	kalo	4
 uluk	nodi	4
 yesus	ema	4
@@ -29781,16 +29850,13 @@ o	uluk	4
 simu	amikaan	4
 kalo	lahoos	4
 serwisu	folin	4
-nebee	emikaan	4
 kristus	dauk	4
 kota	ikonium	4
 ema	yunani	4
 nasirin	rai	4
-naruka	nunia	4
 siakaan	loron	4
 nosi	feto	4
 ilas	mean	4
-kalo	ama	4
 ema	natama	4
 silas	baa	4
 feto	nurak	4
@@ -29845,6 +29911,7 @@ dadi	saksiin	4
 an	nakerek	4
 rai	dook	4
 nalo	yesus	4
+loron	ne	4
 lahoos	na	4
 nalo	moris	4
 kastikar	to	4
@@ -29875,6 +29942,7 @@ rai	hirus	4
 kmai	baa	4
 o	tan	4
 serwisu	hamutuk	4
+keta	simu	4
 amikaan	naran	4
 nunia	atu	4
 hatudu	ha	4
@@ -30091,6 +30159,7 @@ moos	nakerek	4
 tenik	naran	4
 u	kakotu	4
 la	tone	4
+halo	ha	4
 moos	tanis	4
 a	ti	4
 ulun	la	4
@@ -30161,6 +30230,7 @@ baa	ata	4
 ema	ti	4
 i	mesir	4
 moos	nadomi	4
+yusuf	moos	4
 moos	kaer	4
 salaen	boot	4
 moos	moris	4
@@ -30180,7 +30250,6 @@ nunia	ka	4
 kbele	tulun	4
 kusu	baa	4
 hahalok	mak	4
-keta	blaar	4
 dale	loko	4
 hahalok	du	4
 in	ha	4
@@ -30226,7 +30295,6 @@ stefanus	mate	4
 nahuu	baa	4
 rona	niakaan	4
 dadi	di	4
-u	krai	4
 o	manoin	4
 kastikar	nia	4
 la	loke	4
@@ -30500,11 +30568,11 @@ fiar	dauk	4
 emikaan	mamaluk	4
 naluli	na	4
 mak	naa	4
-keta	maa	4
 maromak	serwisu	4
 neon	ruak	4
 malo	tuir	4
 an	kodi	4
+baa	kuak	4
 nunabee	sia	4
 ak	dei	4
 e	babelen	4
@@ -30560,6 +30628,7 @@ estrada	nasionál	4
 amu	locateli	4
 bele	involve	4
 belo	ne'ebé	4
+golden	boy	4
 hanesan	orgaun	4
 agora	problema	4
 husi	doutór	4
@@ -30625,7 +30694,6 @@ oinsá	buka	4
 para	buat	4
 para	ko'alia	4
 ho	klaru	4
-deputadu	sabino	4
 idade	ne'ebé	4
 susar	uitoan	4
 konsidera	ida	4
@@ -30660,7 +30728,6 @@ bainhira	tuun	4
 bele	sees	4
 estranjeiru	balun	4
 atividade	no	4
-lú	olo	4
 parte	loraik	4
 membru	kpk	4
 povu	tenke	4
@@ -30671,7 +30738,6 @@ hanesan	kapitál	4
 tenke	husi	4
 husi	konselu	4
 ba	mf	4
-sai	mafia	4
 husi	deklarasaun	4
 fó	rezultadu	4
 mafia	iha	4
@@ -30689,7 +30755,6 @@ ona	pose	4
 difikuldade	no	4
 difikuldade	balun	4
 señor	deputadu	4
-lista	embaixadór	4
 nu'udar	embaixadór	4
 akontese	ne'e	4
 nia	ezekusaun	4
@@ -30715,7 +30780,6 @@ tenke	estuda	4
 orgaun	ida	4
 dignifika	estadu	4
 nu'udar	deputada	4
-ho	átu	4
 soares	katak	4
 nafatin	halerik	4
 atu	transfere	4
@@ -30797,7 +30861,6 @@ de'it	para	4
 hola	ba	4
 nasionál	sei	4
 presta	omenajem	4
-situasaun	governu	4
 kuandu	seidauk	4
 ona	krime	4
 halo	interpretasaun	4
@@ -30828,7 +30891,6 @@ lakohi	tenke	4
 tenke	vota	4
 konsidera	laiha	4
 ona	ministériu	4
-pela	primeira	4
 istória	timor-leste	4
 loos	de'it	4
 aquita	tama	4
@@ -31060,7 +31122,6 @@ kona-ba	jestaun	4
 públika	ba	4
 postu	iha	4
 relata	kona-ba	4
-interina	sara	4
 ona	treinamentu	4
 swine	fever	4
 konsege	hamate	4
@@ -31298,6 +31359,7 @@ ona	akta	4
 dosente	sira	4
 no	funsionamentu	4
 ba	loza	4
+ayam	potong	4
 nee	mós	4
 signifika	governu	4
 ba	kbi'it	4
@@ -31345,6 +31407,7 @@ sustenta	moris	4
 loke	investigasaun	4
 ne'ebé	termina	4
 termina	ona	4
+sosializasaun	iha	4
 hodi	kumpre	4
 fo	konfiansa	4
 iha	inserteza	4
@@ -31362,7 +31425,6 @@ mak	vigora	4
 reprezentante	komunidade	4
 lista	husi	4
 ho	impase	4
-maiór	jenerál	4
 mak	timor-leste	4
 baze	fundamentál	4
 nunka	hatete	4
@@ -31882,6 +31944,7 @@ desportu	no	4
 sarani	nian	4
 tenke	dehan	4
 hana	ema	4
+laiha	preparasaun	4
 intende	didi'ak	4
 ezekusaun	ne'ebé	4
 timur	ba	4
@@ -31944,6 +32007,7 @@ ezekuta	programa	4
 atu	serví	4
 planu	ordenamentu	4
 informasaun	dehan	4
+governu	desidi	4
 pesoál	front	4
 ep	nian	4
 sa'e	subida	4
@@ -32058,6 +32122,7 @@ psht	nian	4
 media	na'in	4
 ne'e	mapkoms	4
 tan	ró	4
+kona-ba	lista	4
 suspeitu	cdj	4
 médiku	ida	4
 munisipál	dili	4
@@ -32094,6 +32159,7 @@ josé	lucas	4
 lidera	instituisaun	4
 ne'e	jenerál	4
 komunidade	rasik	4
+sekoop	elizário	4
 kooperativa	fó	4
 taur	bainhira	4
 sei	kaptura	4
@@ -32106,7 +32172,6 @@ maibé	bee	4
 públika	nian	4
 katak	esforsu	4
 urjente	atu	4
-armindo	maia	4
 ne'e	veteranu	4
 maluk	veteranu	4
 preparasaun	ne'ebé	4
@@ -32131,6 +32196,7 @@ fahe	ituan	4
 internet	ilimitadu	4
 no	k-rdtl	4
 kilat	de'it	4
+sunset	jazz	4
 kompleta	membru	4
 ne'ebé	sufisiente	4
 sira	kooperativa	4
@@ -32234,7 +32300,6 @@ akomoda	ona	4
 hanesan	komputadór	4
 munisipiu	ermera	4
 mak	kuda	4
-ho	sekoop	4
 kooperativa	nia	4
 konstrusaun	edifísiu	4
 mkae	joaquim	4
@@ -32249,7 +32314,6 @@ sira-nia	preokupasaun	4
 fernanda	lai	4
 defeza	nasionál	4
 moras	ruma	4
-hotu	nune'e	4
 saláriu	désimu	4
 malu	to'o	4
 maibé	komu	4
@@ -32338,6 +32402,7 @@ enerjia	eletrisidade	4
 ms	mós	4
 emerjénsia	ne'e	4
 fali	foun	4
+iha	kolmera	4
 ótika	ne'e	4
 ita-nia	ne'e	4
 sira	empresta	4
@@ -32382,6 +32447,8 @@ nia	movimentu	4
 ospitál	lahane	4
 foin	foti	4
 iha	ceftec	4
+oan	soru	4
+prejuizu	ba	4
 don	virgílio	4
 bosco	timor-leste	4
 konis	santana	4
@@ -32544,7 +32611,6 @@ video	lirik	4
 komfinamentu	obrigatóriu	4
 aldeia	bekusi	4
 halo	vasina	4
-mak	hak	4
 ami	konfirma	4
 no	eduka	4
 sistema	kanu	4
@@ -32670,8 +32736,6 @@ emikaan	la	4
 emikaan	feen	4
 bosco	fuiloru	4
 en	nolu	4
-manutolu	ga	4
-ga	ayam	4
 ayam	petelur	4
 latan	isin	4
 moris	sasobo	4
@@ -32719,6 +32783,7 @@ la	nanis	4
 hanorin	hotu-hotu	4
 hetan	babelen	4
 netan	beran	4
+noo	nidin	4
 an	rua	4
 kalo	sura	4
 moos	titu-karee	4
@@ -33150,7 +33215,6 @@ dehan	amo	3
 udan	bo'ot	3
 paixon	tarutu	3
 lemo	iha	3
-fatu	ahi	3
 ho	ahi	3
 ninian	to'o	3
 palacio	governu	3
@@ -33290,7 +33354,6 @@ ka	obra	3
 ajente	ne'ebé	3
 no	toos	3
 que	se	3
-ke'e	rai	3
 maski	hanesan	3
 maski	ema	3
 nia	jeitu	3
@@ -33424,7 +33487,6 @@ regula	no	3
 no	legaliza	3
 legaliza	jogu	3
 objetivu	boot	3
-ne'e	transfere	3
 estadu	liu	3
 ita	enfrenta	3
 presiza	gasta	3
@@ -33485,7 +33547,6 @@ katak	bandeira	3
 ebe	hetan	3
 good	bye	3
 pm	husu	3
-hirak	ne	3
 ka	insidente	3
 de	misa	3
 loron	ne'eba	3
@@ -33546,7 +33607,6 @@ too	tuku	3
 iha	treinu	3
 cjitl	nia	3
 intervista	ba	3
-you	can	3
 maubere	nian	3
 natalino	guterres	3
 hadomi	o	3
@@ -33873,7 +33933,6 @@ dehan	uluk	3
 uluk	involve	3
 entaun	povu	3
 dehan	imi	3
-ga	la'e	3
 ne'e	katuas	3
 katuas	lere	3
 lere	ninia	3
@@ -33884,7 +33943,6 @@ wainhira	mosu	3
 mos	involve	3
 ami	informa	3
 pm	sira	3
-ida	be'e	3
 sei	para	3
 ba	odamatan	3
 ne'e	alega	3
@@ -34103,6 +34161,7 @@ dalan	oinsa	3
 maibe	igreja	3
 lori	solusaun	3
 sosial	ne'ebe	3
+talk	show	3
 ninin	sira	3
 fenomena	ida	3
 transforma	fali	3
@@ -34200,6 +34259,7 @@ libertasaun	ne'e	3
 de	verifikasaun	3
 dehan	problema	3
 wainhira	la	3
+foin	hanoin	3
 maibe	lei	3
 tuir	veteranus	3
 veteranus	ne'ebe	3
@@ -34290,7 +34350,6 @@ ofisial	pntl	3
 tuir	karik	3
 ne'ebe	subar	3
 policia	sira	3
-tah	de'it	3
 refere	maibe	3
 halo	ataka	3
 ne'e	sorte	3
@@ -34356,7 +34415,6 @@ ne'e	kompania	3
 ne'ebe	nain	3
 dehan	estudante	3
 finalista	ida	3
-pedro	lay	3
 transporte	publiku	3
 bele	hamriik	3
 atividade	tour	3
@@ -34453,6 +34511,7 @@ nia	armajen	3
 hanesan	nune'e	3
 sira	ne'ene	3
 jeral	da	3
+ninia	relatoriu	3
 relatoriu	anual	3
 tauk	lakon	3
 lansa	probaganda	3
@@ -34588,10 +34647,7 @@ hanorin	tuir	3
 maromak	ho	3
 kristu	sei	3
 kasu	mundu	3
-o	seu	3
-seu	amor	3
 o	que	3
-glória	ao	3
 atu	hananu	3
 metin	atu	3
 la'o	rai	3
@@ -34804,6 +34860,7 @@ ho	todan	3
 ho	deit	3
 manutensaun	rutina	3
 molok	hato'o	3
+asal	bunyi	3
 mos	ne'e	3
 asesu	katak	3
 ho	fenómenu	3
@@ -34833,6 +34890,7 @@ momentu	seluk	3
 kontinua	klik	3
 hanesan	kaben-na	3
 peskiza	iha	3
+daruak	maka	3
 maka	okupa	3
 taylor	swift	3
 ne'ebé	badak	3
@@ -34869,6 +34927,7 @@ liubá	hosi	3
 maka	ratifika	3
 konta	de'it	3
 limiti	ba	3
+c	aas	3
 aprezentasaun	hosi	3
 no	implementasaun	3
 avansadu	ne'ebé	3
@@ -35015,7 +35074,6 @@ norte-amerikanu	nian	3
 hela	iha-ne	3
 laiha	aman	3
 oinsá	nia	3
-barack	obama	3
 ne'ebé	konfirma	3
 antes	sai	3
 iha	vídeo	3
@@ -35167,7 +35225,6 @@ liuliu	ida	3
 ajuda	nasaun	3
 tanba	rai-nakdoko	3
 ona	dolar	3
-el	mundo	3
 hosi	kantora	3
 we	are	3
 kordenasaun	ba	3
@@ -35300,6 +35357,7 @@ iha	paixaun	3
 paixaun	no	3
 no	orientasaun	3
 konta	youtube	3
+telemovel	no	3
 ba	atensaun	3
 ba	mensajen	3
 nia	video	3
@@ -35625,6 +35683,7 @@ ten	sira	3
 sulin	ba	3
 total	populasaun	3
 timor	maran	3
+nasaun	ne	3
 alias	revolusaun	3
 tenki	mosu	3
 kria	ambiente	3
@@ -36212,7 +36271,6 @@ ministerio	saude	3
 ne'e	via	3
 ne'ebe	fahe	3
 watery	desktop	3
-d	iha	3
 no	kolega	3
 sira	iha-ne	3
 husi	likisá	3
@@ -36331,7 +36389,6 @@ soldadu	ne'e	3
 mos	prezidenti	3
 mós	jornalista	3
 ka	saida	3
-ida	idak	3
 ninia	mehi	3
 asisti	ba	3
 tauk	ba	3
@@ -36358,6 +36415,7 @@ múziku	sira	3
 pozitivu	sira	3
 hatudu	tok	3
 toos	ne	3
+kuak	boot	3
 hau	hateke	3
 naruk	loos	3
 monu	tuun	3
@@ -36390,7 +36448,6 @@ atu	kotu	3
 sei	inaugura	3
 iha	biblioteka	3
 hosi	fotografia	3
-rai	fehan	3
 sia	kabuar	3
 fuan	na	3
 uma	tetu	3
@@ -36398,6 +36455,7 @@ hetan	naran	3
 nalo	sa-saa	3
 siakaan	lian	3
 sia	nanaran	3
+benar	karin	3
 nosi	lorosa	3
 grupu	hadomi	3
 hadomi	produtu	3
@@ -36416,7 +36474,6 @@ xanana	hetan	3
 no	emprezariu	3
 rai	halo	3
 haruka	informasaun	3
-rama	metan	3
 ne	se	3
 mak	katuas	3
 rua	mesak	3
@@ -36426,6 +36483,7 @@ xanana	tama	3
 espresaun	ida	3
 kal	la	3
 lokraik	ida	3
+metan	iha	3
 tuur	rona	3
 nia	perguntas	3
 metan	mos	3
@@ -36618,7 +36676,6 @@ komesa	tuun	3
 nia	submisaun	3
 orsamentu	no	3
 no	prezerva	3
-bé	iha	3
 la	konsistente	3
 kompostu	ho	3
 atu	maneja	3
@@ -36640,6 +36697,7 @@ tenke	públika	3
 impaktu	ambientál	3
 no	análiza	3
 ba	opsaun	3
+orgaun	independente	3
 fó	garantia	3
 primeira	pedra	3
 didi'ak	ne'e	3
@@ -36701,9 +36759,7 @@ rendimentu	iha	3
 husi	rezerva	3
 rezerva	mina	3
 maske	timor-leste	3
-esi	ba	3
 prediksaun	sira	3
-sei	ke'e	3
 halo	tenke	3
 hanesan	valor	3
 nia	interpretasaun	3
@@ -36806,7 +36862,6 @@ sei	maka'as	3
 tan	karik	3
 ami	nudar	3
 sei	aprende	3
-hak	nia	3
 komentariu	oi-oin	3
 no	relatoriu	3
 rekonstrusaun	no	3
@@ -36979,6 +37034,7 @@ de'it	estrada	3
 hodi	justifika	3
 direitu	para	3
 bainhira	dada	3
+dehan	joaquim	3
 tiha	dokumentu	3
 foo	projetu	3
 esforsu	ona	3
@@ -37029,6 +37085,7 @@ bele	toma	3
 pur	ezemplu	3
 mak	urjente	3
 dun	malu	3
+perigu	nia	3
 horta	halo	3
 seriu	liu	3
 nasaun	kiik	3
@@ -37143,6 +37200,7 @@ salva	vida	3
 servisu	diak	3
 husi	asosiasaun	3
 iha	me	3
+lori	ninia	3
 ospitál	nian	3
 animál	ida	3
 ne'ebé	toba	3
@@ -37711,6 +37769,7 @@ iha	lisensa	3
 alin	maria	3
 silva	ho	3
 halo	selebrasaun	3
+maliana	no	3
 akompanha	husi	3
 madre	nain	3
 participa	iha	3
@@ -37731,6 +37790,7 @@ loron	mos	3
 tiha	fatin	3
 tutun	ita	3
 la	update	3
+update	blog	3
 pasaporte	sira	3
 ba	pasaporte	3
 pasaporte	foun	3
@@ -37871,7 +37931,6 @@ nia	relatoriu	3
 miliaun	us	3
 ne'ebe	dezenvolve	3
 ambiente	ne'ebe	3
-sita	husi	3
 diretamente	husi	3
 to'o	deit	3
 nia	argumentu	3
@@ -37920,7 +37979,6 @@ infraestrutura	ne'e	3
 la'ós	merkadu	3
 bosok	tanba	3
 darwin	de'it	3
-ke'e	fali	3
 vida	sei	3
 entaun	husik	3
 book	ona	3
@@ -38298,6 +38356,7 @@ sosa	trator	3
 balun	laloos	3
 dehan	vice	3
 ne'ebé	emprezáriu	3
+support	letter	3
 ami	hateten	3
 nia	entaun	3
 duni	kestaun	3
@@ -38352,8 +38411,6 @@ mega	sosiedade	3
 sosiedade	de	3
 de	turizmu	3
 ho	royal	3
-royal	kai	3
-kai	bauk	3
 para	hala'o	3
 iha	dívida	3
 ho	kompletu	3
@@ -38514,7 +38571,6 @@ hahalok	no	3
 no	hamoos	3
 kuandu	temi	3
 agora	saida	3
-karau	vaka	3
 no	metan	3
 prosesu	judisiáriu	3
 iha	la'ós	3
@@ -38744,6 +38800,7 @@ balun	wainhira	3
 gnr	ninia	3
 tan	hetan	3
 ba	sela	3
+tun	ho	3
 ida	tun	3
 kona	ha'u	3
 foti	tan	3
@@ -38876,6 +38933,7 @@ asesmentu	ida	3
 tun	ona	3
 parte	ministeriu	3
 munisipiu	refere	3
+e	peskas	3
 sorumutu	ida	3
 husi	map	3
 map	atu	3
@@ -38888,7 +38946,6 @@ nia	aihan	3
 mak	presija	3
 guvernu	ne'e	3
 hatene	komunidade	3
-d	ba	3
 rai	pedasuk	3
 sei	atinji	3
 mak	agrikultura	3
@@ -39086,7 +39143,6 @@ ema	rasik	3
 mt	gil	3
 vale	liu	3
 alves	no	3
-se	gita	3
 okupasaun	indonesia	3
 portugues	nebe	3
 oho	hau	3
@@ -39216,7 +39272,6 @@ dada	nia	3
 lalaok	moris	3
 sira	esplika	3
 email	no	3
-oras	nee	3
 hanesan	fasilitador	3
 kafe	ida	3
 ona	ohin	3
@@ -39320,6 +39375,7 @@ sedu	ba	3
 to'o	kuaze	3
 kuda	buat	3
 klamar	nian	3
+moruk	no	3
 iha	mákina	3
 hosi	notísia	3
 atentadu	sira	3
@@ -39533,6 +39589,7 @@ kona-ba	vida	3
 artista	nia	3
 kna'ar	maka	3
 hahan	mai	3
+hakerek	nian	3
 planu	ne'ebe	3
 maka	buat	3
 nia	lolon	3
@@ -39575,6 +39632,7 @@ sei	sinti	3
 tama	fulan	3
 tempu	bailoro	3
 iha	kalohan	3
+ataka	fali	3
 hetan	ataka	3
 hakarak	toba	3
 united	no	3
@@ -39591,6 +39649,7 @@ rai	tetuk	3
 prontu	iha	3
 soran	ema	3
 ita	subar	3
+blog	hanesan	3
 bainhira	ita-nia	3
 ha'u-nia	prezensa	3
 posse	iha	3
@@ -39633,6 +39692,7 @@ internasional	nian	3
 okupasaun	indonezia	3
 indonezia	no	3
 maiu	nia	3
+fatuk	lalian	3
 unicef	nian	3
 tabela	hosi	3
 prátika	ne'e	3
@@ -39663,11 +39723,11 @@ besik	tama	3
 natal	nian	3
 ami	laran	3
 no	naran	3
+sira	eskola	3
 taka	provisoriumente	3
 provisoriumente	igreja	3
 desizaun	ne'ebe	3
 iha	progressu	3
-presenza	iha	3
 katak	pntl	3
 votante	sira	3
 nia	tasi-ibun	3
@@ -39770,7 +39830,6 @@ tenke	tur	3
 dignidade	nasaun	3
 internasional	tasi	3
 lei	internasional	3
-yayasan	hak	3
 la	entende	3
 hahú	hamosu	3
 governu	dahitu	3
@@ -39855,7 +39914,6 @@ fatin	aas	3
 liña	ne'e	3
 iha	hun	3
 mai	livre	3
-nivel	altu	3
 hafoin	ema	3
 forma	foun	3
 mak	vizita	3
@@ -40228,6 +40286,7 @@ fransés	ho	3
 jogu	ikus	3
 ne'ebé	distingi	3
 époka	liubá	3
+log	in	3
 ba	violénsia	3
 kontra	feto	3
 husi	centro	3
@@ -40477,6 +40536,7 @@ ba	medellín	3
 tripulante	na'in	3
 fatin	asidente	3
 portugés	bele	3
+el	chiringuito	3
 juventus	iha	3
 kontinua	tuir	3
 tanba	imi	3
@@ -40679,6 +40739,7 @@ dale	maka	3
 atu	katuun	3
 kalo	baa	3
 blaar	iha	3
+hanesan	loro	3
 matan	nakukun	3
 mean	laak	3
 hanesan	raa	3
@@ -40730,6 +40791,7 @@ hosi	dook	3
 no	saa	3
 haksakar	aan	3
 amikaan	dalen	3
+nebee	emikaan	3
 tonu	ema	3
 kota	derbe	3
 nasoru	mane	3
@@ -40742,6 +40804,7 @@ nakahik	sia	3
 keta	baa	3
 nalore	maromak	3
 mai	tulun	3
+naruka	nunia	3
 baa	awan	3
 hein	loron	3
 hamulak	fatin	3
@@ -40751,6 +40814,7 @@ dook	iha	3
 mean	asuaten	3
 moos	madinas	3
 tene	ami	3
+kalo	ama	3
 e	fiar	3
 ukaan	uma	3
 nia	leno	3
@@ -40759,7 +40823,6 @@ netan	osan	3
 mana	baa	3
 nodi	naruka	3
 kodi	yesus	3
-sai	mosi	3
 krakat	tan	3
 sia	nahii	3
 nahii	maka	3
@@ -40804,8 +40867,6 @@ siakaan	husar-binan	3
 nosi	mesir	3
 fuik	sia	3
 bein	sasoin	3
-isai	oan	3
-nosi	daud	3
 ukaan	hakaran	3
 kakara	katak	3
 dauk	niakaan	3
@@ -40850,7 +40911,6 @@ dale	aan	3
 loos	nosi	3
 kosi	ha	3
 keta	mose	3
-masik	na	3
 u	keta	3
 u	nohuun	3
 ukaan	isin	3
@@ -40882,8 +40942,6 @@ natene	moe	3
 hakara	foo	3
 ain-liman	mak	3
 ami	haterus	3
-kona	ta	3
-hetu	aan	3
 simu	hola	3
 hodi	sakar	3
 natene	amikaan	3
@@ -41264,6 +41322,7 @@ ami	libur	3
 uk	lia	3
 boot	katak	3
 nodi	tuir	3
+ak	ne	3
 sarani	atu	3
 yesus	nodi	3
 beran	la	3
@@ -41367,6 +41426,7 @@ lahoos	emi	3
 u	kola	3
 ko	nia	3
 saa	ha	3
+keta	blaar	3
 selu	siakaan	3
 hafolin	aan	3
 emikaan	naha	3
@@ -41467,7 +41527,6 @@ okaan	lia	3
 kalo	sala	3
 u	kloke	3
 la	todan	3
-ama	bele	3
 musti	solok	3
 makfiar	baa	3
 o	ikus	3
@@ -41822,7 +41881,6 @@ símbolu	hosi	3
 tradisaun	ho	3
 ema	rote	3
 original	husi	3
-ba	be'e	3
 no	produsaun	3
 kanta	tan	3
 childfund	timor-leste	3
@@ -41873,7 +41931,6 @@ os	luan	3
 kakaku	aan	3
 huun	nia	3
 niakaan	to	3
-tubir	nikar	3
 hodi	haneo	3
 nunia	bei-beik	3
 no	boi	3
@@ -41927,8 +41984,6 @@ mak	naluli	3
 nakneter	itakaan	3
 sain	na	3
 halo	itakaan	3
-o	maa	3
-maa	na	3
 metu	neon	3
 malo	sala	3
 neon	ain	3
@@ -42009,6 +42064,7 @@ misa	no	3
 hanesan	adekuadu	3
 fa'an	hanesan	3
 ka	produtu	3
+masin	ba	3
 ai-fuan	nian	3
 kona-ba	produtu	3
 husi	alemaña	3
@@ -42042,7 +42098,6 @@ abandonadu	no	3
 iha	kruz	3
 ho	triplex	3
 bebé	na'in	3
-ida	ne'ebè	3
 tau	no	3
 tane	liman	3
 matan	ne'ebé	3
@@ -42132,6 +42187,7 @@ ezekusaun	ki'ik	3
 ajuda	membru	3
 duni	pursentu	3
 abrão	de	3
+lugu	ba	3
 halo	kontinuasaun	3
 nascimento	iha	3
 pante	makasar	3
@@ -42169,6 +42225,7 @@ hanoin	presiza	3
 haree	to'o	3
 estrada	mós	3
 autór	krime	3
+deputadu	sabino	3
 ita	monta	3
 diskriminasaun	no	3
 ami	autoridade	3
@@ -42212,6 +42269,7 @@ hafoin	foti	3
 retira	oje	3
 virginia	ana	3
 servisu	de'it	3
+d	ne'e	3
 instituisaun	públiku	3
 no	fim	3
 iha	asesor	3
@@ -42299,6 +42357,7 @@ sira-nia	pasaporte	3
 balun	para	3
 kona-ba	falsifikasaun	3
 deklarasaun	kona-ba	3
+lista	embaixadór	3
 molok	haruka	3
 atividade	balun	3
 livru	oje	3
@@ -42335,7 +42394,6 @@ ona	la'ós	3
 buka	saida	3
 vasconcelhos	iha	3
 plenária	bainhira	3
-átu	ne'ebé	3
 internasionál	halo	3
 deputada	josefa	3
 ba	lidera	3
@@ -42470,6 +42528,7 @@ kompañia	iha	3
 akordu	katak	3
 marka	pajero	3
 pajero	sport	3
+situasaun	governu	3
 pendente	kandidatu	3
 orgaun	seluk	3
 ninia	kompetensia	3
@@ -42498,6 +42557,7 @@ ida	fahe	3
 ba	kuda	3
 hadi'a	filafali	3
 kultura	hodi	3
+oho	fali	3
 hatudu	faktu	3
 ona	sekretáriu	3
 pereira	da	3
@@ -42824,11 +42884,9 @@ no	pn	3
 mós	direitu	3
 no	preokupasaun	3
 tribunál	deklara	3
-a	númeru	3
 desizaun	la	3
 rezultadu	ezame	3
 ministériu	transporte	3
-iha	mtk	3
 husi	pursentu	3
 ne'ebé	ezekuta	3
 rekolla	taxa	3
@@ -42950,6 +43008,7 @@ plenaria	hodi	3
 oioin	halo	3
 problema	eletrisidade	3
 eletrisidade	sira	3
+show	force	3
 petrolífeiru	no	3
 halo	reformulasaun	3
 kumpri	konstituisaun	3
@@ -43231,7 +43290,6 @@ grava	no	3
 diskusaun	entre	3
 públiku	ninian	3
 públiku	labele	3
-halo	rekursu	3
 sivíl	ne'ebé	3
 setembru	mak	3
 sei	eziste	3
@@ -43245,7 +43303,6 @@ ministru	deside	3
 para	tama	3
 ne'ebá	de'it	3
 natal	ne'e	3
-átu	polítika	3
 lori	investidór	3
 entaun	oinsa	3
 mak	polítika	3
@@ -43306,6 +43363,7 @@ foti	médida	3
 ambiente	negósiu	3
 inisiativa	sira	3
 neneik	ba	3
+metin	tanba	3
 polítika	husi	3
 membru	koligasaun	3
 inocencio	xavier	3
@@ -43476,6 +43534,7 @@ limpeza	ne'e	3
 suku	atu	3
 malu	katak	3
 omenajen	nian	3
+maiór	jenerál	3
 jenerál	falintil-fdtl	3
 husu	lider	3
 bele	envolve	3
@@ -43603,8 +43662,6 @@ josé	dos	3
 ne'e	pr	3
 ninia	karta	3
 troka	taur	3
-sita	kona-ba	3
-defeza	de	3
 ne'e	aproveita	3
 ho	ditadura	3
 karakter	urjénsia	3
@@ -43675,7 +43732,6 @@ problema	hodi	3
 de	abril	3
 inspesaun	jeral	3
 tribunal	nian	3
-iha	deskonfiansa	3
 no	ministeriu	3
 hodi	timor-leste	3
 tolu	simu	3
@@ -43728,6 +43784,7 @@ kobe	bryant	3
 sei	sente	3
 tanba	rona	3
 vida	iha	3
+domin	tomak	3
 lori	tl	3
 hatudu	momós	3
 muda	lei	3
@@ -43789,7 +43846,6 @@ ho	medalla	3
 nia	kompañeru	3
 triste	hanesan	3
 programa	lubuk	3
-ministra	sara	3
 mós	envolve	3
 triste	bainhira	3
 tema	ne'ebé	3
@@ -44168,8 +44224,6 @@ efetividade	husi	3
 liña	depoiz	3
 koko	rasik	3
 ne'ebé	kuda	3
-ne'ebè	mak	3
-sira	ne'ebè	3
 agrikultòr	seluk	3
 lú-olo	atu	3
 renovasaun	estadu	3
@@ -44185,7 +44239,6 @@ nune'e	foin	3
 konta	ne'e	3
 center	cnrt	3
 emerjénsia	relasiona	3
-atividade	ohin	3
 edifisiu	ministeriu	3
 populasaun	sira-nia	3
 ne'ebá	par	3
@@ -44592,7 +44645,6 @@ katak	prontu	3
 atividade	kriminal	3
 atu	intende	3
 defaktu	atu	3
-preparasaun	atu	3
 opozisaun	defaktu	3
 daualu	atu	3
 no	kredivel	3
@@ -45030,6 +45082,7 @@ karik	labele	3
 fos	husi	3
 nia	kustu	3
 entaun	tenta	3
+liman	hamutuk	3
 durante	aplikasaun	3
 sidadaun	refere	3
 saúde	para	3
@@ -45064,7 +45117,6 @@ ita-nia	seguransa	3
 ne'e	alende	3
 selu	rasik	3
 toma	médida	3
-no	go	3
 negósiu	ba	3
 dau-daun	ne'e	3
 fronteira	ida	3
@@ -45436,6 +45488,7 @@ para	evita	3
 evita	transmisaun	3
 nia	kooperativa	3
 edifísiu	kooperativa	3
+ho	sekoop	3
 di'ak	tiha	3
 kréditu	nian	3
 ami-nia	membru	3
@@ -45463,6 +45516,7 @@ je	suis	3
 ho	lema	3
 funsionariu	permanente	3
 prioridade	no	3
+hotu	nune'e	3
 fiskalizasaun	surpreza	3
 congresso	nacionál	3
 governu	da-ualu	3
@@ -45625,7 +45679,6 @@ nia	ezisténsia	3
 mai	fan	3
 lor	loron	3
 ba	fan	3
-baukau	ne'e	3
 konsidera	moras	3
 depois	ohin	3
 sira	muta	3
@@ -45687,7 +45740,6 @@ ermera	maibé	3
 mais	barak	3
 tanba	idade	3
 atividade	halo	3
-dehan	moras	3
 reis	iha	3
 edifísiu	prokuradoria	3
 depois	sa'e	3
@@ -45700,7 +45752,6 @@ membru	mak	3
 komunidade	lubuk	3
 vikeke	nian	3
 ba	reklamante	3
-naan	karau	3
 terseiru	mak	3
 kualidade	liu	3
 ha'u-nia	ema	3
@@ -45772,7 +45823,6 @@ teste	saúde	3
 reprezentante	governu	3
 iha	koreia	3
 nasaun	koreia	3
-atividade	igreja	3
 ee	dasia	3
 sai	ezemplar	3
 sai	kooperativa	3
@@ -45788,7 +45838,6 @@ nu'udár	programa	3
 nível	postu	3
 revista	ba	3
 subvensaun	ba	3
-oan	soru	3
 tenke	verifika	3
 nino	konis	3
 bele	koñese	3
@@ -45974,7 +46023,6 @@ koʼalia	nakloke	3
 koʼalia	barak	3
 kombate	virus	3
 ita-nia	hanoin	3
-e	ohin	3
 terminal	tasi	3
 faze	kritiku	3
 atu	prosesu	3
@@ -46000,7 +46048,6 @@ mak	totál	3
 ne'e	bebeik	3
 kondutór	kazual	3
 kona-ba	ponte	3
-ne'ebè	iha	3
 ba	ermera	3
 ermera	oan	3
 avo	nana	3
@@ -46055,7 +46102,6 @@ yusuf	sei	3
 ama	no	3
 baa	kuda	3
 kuda	keledai	3
-maruka	sia	3
 matan	sanulu	3
 iha	paroquia	3
 dudu	o	3
@@ -46300,7 +46346,6 @@ moras	diárea	3
 povu	oekussi	3
 to'o	postu	3
 konflitu	interpesoál	3
-moras	konplikadu	3
 lori	kedan	3
 ba	kréditu	3
 vasina	dala	3
@@ -46379,7 +46424,6 @@ ami-nia	planu	3
 sánitaria	no	3
 kama	laran	3
 regra	serka	3
-estádu	emerjénsia	3
 ida	tán	3
 tenke	atualiza	3
 iha	kursu	3
@@ -46459,8 +46503,6 @@ fahi	ne'e	3
 insurisaun	armada	3
 paz	ba	3
 kaptura	tiha	3
-no	ano	3
-ano	novu	3
 maizoumenus	iha	3
 iha	expo	3
 merese	hakoi	3
@@ -46555,7 +46597,6 @@ bairu	sarmata	3
 iha	hadak	3
 dalas	sanulu	3
 maria	nahoris	3
-servisu	hmutuk	3
 vasinasaun	doze	3
 doze	i	3
 doze	ii	3
@@ -46565,7 +46606,6 @@ bele	goja	3
 goja	sira-nia	3
 unu	el	3
 el	la	3
-sed	la	3
 torneiu	ida	3
 namoos	emi	3
 sasa	karin	3
@@ -46640,6 +46680,7 @@ laloran	eletromagnétiku	3
 orfanatu	kiak	3
 kiak	serví	3
 serví	kiak	3
+ebé	ha	3
 nakloke	iha	3
 ninia	maromak	3
 u-nia	laran	3
@@ -46710,8 +46751,6 @@ nakukun	luri	3
 nanawa	nalo	3
 an	tolek	3
 atu	natoba	3
-moos	taba	3
-taba	tutan	3
 saseban	nia	3
 ita	hanono	3
 simu	nosi	3
@@ -46737,7 +46776,6 @@ loron	rihun	3
 rua	neen	3
 nia	siku	3
 matan	dadi	3
-nidin	nia	3
 maten	rua	3
 nakalus	nola	3
 raiklaran	nodi	3

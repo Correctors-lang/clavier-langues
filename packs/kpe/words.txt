@@ -1,15 +1,15 @@
 # Kpɛlɛ : FineWeb-2 kpe_Latn (ODC-By). mot<TAB>freq.
 #! souligner : proches seulement
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-a	3279
+a	3278
 da	1577
 ma	1572
 à	1425
 gɛ́ɛ	1232
 mɛni	1129
-kɛ	1076
+kɛ	1075
 ziova	902
-maa	899
+maa	898
 su	895
 é	876
 è	875
@@ -22,7 +22,7 @@ kélee	683
 kwa	636
 káa	623
 kú	566
-ya	555
+ya	554
 i	539
 ɓé	510
 pɔri	489
@@ -39,7 +39,7 @@ kɛ́i	352
 nûa	347
 kɛ́	342
 berei	340
-kpɔŋ	326
+kpɔŋ	325
 mò	311
 támaa	308
 zîsɛ	306
@@ -1264,7 +1264,6 @@ stories	5
 ɉɛɓɛ	5
 nwɔnɔ	5
 maa-kɔri	5
-ŋwɛlii	5
 nuan	4
 maakwɛli	4
 ŋun	4
@@ -1513,6 +1512,7 @@ loŋ-kaa-ɓela	4
 inĩa-pɛlɛɛi	4
 goyaŋ	4
 kpiniŋ	4
+ŋwɛlii	4
 diwala-wala-laai	4
 dɔɔi	3
 bɔi	3

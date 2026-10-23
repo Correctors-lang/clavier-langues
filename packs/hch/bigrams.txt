@@ -28,11 +28,11 @@ tita	yuri	58
 müpaü	tinivarutahüave	58
 que	müreuyevese	55
 iyari	mütiyupata	52
-hicü	quesusi	51
 cacaüyari	teüterimama	51
 taheima	macave	51
 que	mütiuyü	50
 cacaüyari	hepaüsita	49
+hicü	quesusi	48
 mara'acate	memühüritüariecai	48
 icü	niuqui	47
 müquite	vasata	46
@@ -66,9 +66,9 @@ canihücütüni	que	34
 que	müti'ane	34
 tucari	mücaxüve	34
 taheima	mieme	34
-teüteri	que	33
 en	la	33
 papuru	que	33
+teüteri	que	32
 inüari	niuquiyarisie	32
 wa	hepa	32
 tita	m	32
@@ -176,7 +176,6 @@ müpaü	püta	18
 teüteri	vasata	18
 mücü	müpaü	18
 müpaü	meniutiyuanecaitüni	18
-mücü	canihücütüni	17
 masi	vaücava	17
 imagen	de	17
 yuri	ti'erietü	17
@@ -199,6 +198,7 @@ quepaucua	munuani	16
 axa	me'utiyuatü	16
 yuri	mürainesie	16
 naisarie	cuiepa	16
+mücü	canihücütüni	16
 mücü	masi	16
 müpaü	paine	16
 mücü	que	16
@@ -320,7 +320,6 @@ haica	teviyari	12
 miemete	teüteri	12
 xei	tapari	12
 que	mütiteva	12
-mericüsü	müpaü	11
 que	se	11
 por	el	11
 ka	m	11
@@ -415,9 +414,7 @@ que	mütiyumate	10
 waniu	m	10
 xei	terisi	10
 de	cultura	10
-concurso	neniuki	10
 mete	aya'at	10
-tita	yuricü	9
 nuestros	derechos	9
 la	declaración	9
 de	derechos	9
@@ -490,6 +487,7 @@ ui	xeme	9
 ri	ta	9
 ke	paɨ	9
 miriyari	cuyaxi	9
+concurso	neniuki	9
 uki	nunutsi	9
 temari	m	9
 yuri	memüteta'erienicü	8
@@ -517,6 +515,7 @@ cacuvu	vani	8
 müme	yunaitü	8
 yuri	neti'erietü	8
 müpaü	putayü	8
+tita	yuricü	8
 que	memüteyumate	8
 quename	vaniu	8
 aixüa	püyüniqueyu	8
@@ -567,6 +566,7 @@ que	mütitahüavixü	8
 que	mütiyüniquecai	8
 hicü	tevi	8
 nehesüa	mieme	8
+mericüsü	müpaü	8
 tevi	hepaüsita	8
 teyü'üquitüvamete	müpaü	8
 aixüa	pücayüni	8
@@ -589,16 +589,12 @@ hicü	xeime	8
 mɨɨkɨ	tsɨ	8
 xeime	neniu'enieni	8
 yunaucatü	memayeneniere	8
-narrativa	infantil	8
-infantil	wixárika	8
 la	lengua	8
 ke	m	8
 uka	nunutsi	8
 metatsiere	mem	8
 of	the	8
 que	müratüa	7
-mericüsü	tevi	7
-müpaü	tiniuyüni	7
 cacaüyarisüa	mümieme	7
 cacaüyarisüa	mieme	7
 condiciones	de	7
@@ -738,6 +734,8 @@ yuri	memüte'eriecaicü	7
 nitahüsieni	yucuxineta	7
 neicatuani	yuxacü	7
 la	secretaría	7
+narrativa	infantil	7
+infantil	wixárika	7
 rí	wa	7
 rí	wahetsie	7
 meyu	eniet	7
@@ -792,6 +790,7 @@ que	memüte'erie	6
 niuqui	yuri	6
 müme	xitequiya	6
 mütinaquecü	cacaüyari	6
+müpaü	tiniuyüni	6
 tucarisie	quepaucua	6
 que	xetecu'eriva	6
 que	nemaine	6
@@ -901,6 +900,7 @@ vahepaüsita	que	6
 hicü	ti'aitame	6
 ixaheri	xiüyarimama	6
 utaitü	quename	6
+mericüsü	tevi	6
 que	mütinaquecai	6
 qui	vevivamete	6
 carima	niutahiva	6
@@ -945,7 +945,6 @@ tsiere	x	6
 revitalización	de	6
 tevi	cacaüyari	5
 masi	cuiepa	5
-mericüsü	mücü	5
 ne	pücatixaü	5
 necanihücütüni	que	5
 müpaü	mete'icühüavetü	5
@@ -1315,6 +1314,7 @@ mujeres	y	4
 la	igualdad	4
 una	vida	4
 a	servicios	4
+tita	ti	4
 ti	h	4
 meta	m	4
 tita	tem	4
@@ -1525,6 +1525,7 @@ que	mütatinaqui'erie	4
 müpaü	mütiyuriene	4
 huriyusixi	va'ixüarari	4
 atahaica	viyari	4
+mericüsü	mücü	4
 ayumieme	huriyusixi	4
 huriyusixi	müpaü	4
 ayumieme	quesusi	4
@@ -1598,7 +1599,6 @@ xeme	nehesie	4
 memütama	vahüxie	4
 xehesüa	ne'uyeicatü	4
 que	memütecuxatacai	4
-ha	muhanesie	4
 müme	nenevieri	4
 mana	quenemie	4
 mericüsü	huriyusixi	4
@@ -1889,7 +1889,6 @@ política	cultural	4
 cultural	y	4
 y	comunitaria	4
 indígena	de	4
-neniuki	narrativa	4
 el	concurso	4
 tu	texto	4
 del	concurso	4
@@ -1983,6 +1982,7 @@ peti	uat	3
 maka	ut	3
 arikatsie	timieme	3
 we	ya	3
+te	uatamete	3
 quiénes	somos	3
 somos	personas	3
 un	entorno	3
@@ -2003,6 +2003,7 @@ integridad	física	3
 y	con	3
 la	justicia	3
 ka	ut	3
+a	wa	3
 estamos	detenidos	3
 de	detención	3
 a	nuestras	3
@@ -2453,6 +2454,7 @@ ne'uquiyarisüa	nemüyemiecü	3
 mü'ane	münesinaqui'erie	3
 quesusi	yumüireme	3
 ecüsü	püta	3
+ha	muhanesie	3
 müya	me'aneneme	3
 nenevieri	memipitüa	3
 que	nemütiuyuri	3
@@ -3026,9 +3028,7 @@ el	niño	3
 en	cada	3
 aixɨa	tiuka'iyaritɨ	3
 mɨpaɨ	kaniutayɨni	3
-mɨpaɨ	katiniuyɨni	3
 hetsɨa	mieme	3
-hikɨ	ketsutsi	3
 ya	tɨni	3
 tei	yɨɨrari	3
 tuura	hɨrie	3
@@ -3167,8 +3167,8 @@ siqueru	müvaiya	3
 quiecari	marivetü	3
 vaxuriya	mutayeuricü	3
 canaineni	que	3
-do	concurso	3
 educación	indígena	3
+neniuki	narrativa	3
 selección	de	3
 textos	narrativos	3
 narrativos	ganadores	3

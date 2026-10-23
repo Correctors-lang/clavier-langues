@@ -1,6 +1,6 @@
 # Bigrammes sma (FineWeb-2 sma_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-ij	leah	812
+ij	leah	811
 dan	åvteste	781
 mah	leah	647
 mij	lea	629
@@ -10,11 +10,12 @@ datne	maahtah	403
 jïh	saemien	395
 daan	biejjien	380
 vuesiehtimmien	gaavhtan	378
-jis	datne	358
+jis	datne	357
 jïh	dan	357
 jïh	aaj	354
 lea	akte	311
 jïh	guktie	303
+maam	akt	282
 dan	gaavhtan	269
 gaskem	jeatjah	255
 man	åvteste	251
@@ -49,7 +50,7 @@ jïh	dejtie	171
 bïjre	soptsestidh	170
 ulmie	lea	166
 ij	naan	163
-lohkh	vielie	163
+lohkh	vielie	161
 jïh	lea	160
 saemien	gïelesne	158
 årrodh	jïh	154
@@ -66,12 +67,12 @@ jïh	evtiedidh	147
 dïedtem	åtna	147
 joekoen	vihkeles	147
 datne	leah	146
-mijjieh	maehtebe	145
+mijjieh	maehtebe	144
 mah	eah	144
 lea	aaj	143
 jïh	mijjieh	141
-maahtah	aaj	141
 dejtie	mah	141
+maahtah	aaj	140
 jis	sïjhth	137
 jis	ih	136
 man	bïjre	136
@@ -79,9 +80,9 @@ saemien	gïele	136
 mah	maehtieh	134
 båetijen	aejkien	134
 ij	lij	131
-vielie	bïevnesh	131
 lea	saemien	130
 maahta	aaj	130
+vielie	bïevnesh	130
 gïelem	jïh	127
 edtja	aaj	127
 gïelem	nastedh	123
@@ -89,7 +90,7 @@ mijjieh	aaj	121
 er	en	121
 åarjelsaemien	gïelesne	121
 maanah	jïh	119
-datne	sïjhth	119
+datne	sïjhth	118
 jïh	gosse	118
 jïh	kultuvrem	118
 fïerhten	jaepien	117
@@ -108,10 +109,10 @@ mij	akt	107
 mah	saemien	107
 guktie	maahta	106
 dah	maehtieh	106
+voestes	aejkien	106
 jïh	mah	105
 reaktah	leah	105
 maanide	jïh	105
-voestes	aejkien	105
 dïhte	aaj	104
 mah	sijhtieh	104
 juktie	saemien	104
@@ -165,11 +166,11 @@ saemien	sijte	88
 gaajhkesh	dovnesh	88
 mïelen	mietie	88
 mijjieh	libie	87
-barkoen	bïjre	87
 dam	maam	87
 språk	og	87
 kultuvren	bïjre	87
 meatan	vaeltedh	87
+barkoen	bïjre	86
 jïh	orre	85
 saemien	dajvine	85
 ij	edtjh	85
@@ -199,11 +200,11 @@ reaktaj	bïjre	79
 gorredidh	jïh	79
 guktie	saemien	78
 som	er	78
-jollebe	ööhpehtimmie	78
 jeatjah	saemien	77
 jïh	dov	77
 jïh	vielie	77
 jis	edtja	77
+jollebe	ööhpehtimmie	77
 gram	m	77
 dam	saemien	76
 guarkedh	jïh	76
@@ -212,7 +213,6 @@ nuhtjedh	jïh	75
 jïh	mij	75
 dïhte	maahta	74
 mij	maahta	74
-lea	meatan	74
 samisk	språk	74
 man	gellie	74
 dan	jïjnjem	74
@@ -220,6 +220,7 @@ gïele	jïh	74
 gellie	jaepieh	74
 dïhte	sæjhta	73
 lohkedh	jïh	73
+lea	meatan	73
 sjïehteladtedh	guktie	73
 jïh	kultuvren	73
 jïh	ovmessie	72
@@ -237,6 +238,7 @@ leah	naan	70
 mah	lin	70
 abpe	laantesne	70
 edtja	viehkiehtidh	70
+åarjelsaemien	gïele	70
 vgs	jollebe	70
 ööhpehtimmie	giele	70
 jïh	gusnie	69
@@ -271,13 +273,13 @@ bïjre	lïeredh	65
 dej	gaskem	65
 raasten	rastah	65
 naan	aejkien	64
-jïh	daelie	64
 ih	maehtieh	64
 bïjre	lea	64
 jïh	geerve	64
 jïh	maahta	64
 saemien	kultuvren	64
 jïh	vihkeles	64
+jïh	daelie	63
 maehtieh	aaj	63
 dov	leah	63
 guktie	maahtah	63
@@ -380,7 +382,6 @@ jïh	learohkh	53
 jïh	edtja	53
 nuepiem	vedtedh	53
 man	guhkiem	53
-daennie	sæjrosne	53
 for	samisk	53
 jïh	vuarjasjidh	53
 almetjh	leah	53
@@ -398,10 +399,10 @@ dellie	ij	52
 maam	joem	52
 almetjidie	mah	52
 goh	jeatjah	52
+daennie	sæjrosne	52
 utnieh	jïh	52
 saemien	åålmege	52
 årrodh	saemien	52
-at	det	52
 seamma	aejkien	52
 daan	bijre	52
 guktie	saemieh	52
@@ -412,8 +413,8 @@ dïhte	dan	52
 ij	sïjhth	52
 gram	n	52
 dïhte	guhte	51
-dette	er	51
 manne	aaj	51
+at	det	51
 jïh	stoerre	51
 guktie	almetjh	51
 jis	edtjh	51
@@ -423,6 +424,7 @@ evtiedieh	gosse	51
 jis	dah	50
 jïh	gaajhkh	50
 datne	dov	50
+dette	er	50
 maahta	årrodh	50
 aaj	meatan	50
 gusnie	saemien	50
@@ -606,7 +608,6 @@ dah	gïeh	39
 bæjjese	fulkedh	39
 aerpievuekien	saemien	39
 saemien	parlamentarihkeles	39
-jïh	maehtedh	39
 lea	reakta	38
 tjïrrh	jïh	38
 almetji	bïjre	38
@@ -627,7 +628,7 @@ våarome	lea	38
 daennie	barkosne	38
 åvteste	mijjieh	38
 histovrije	jïh	38
-åadtjoeh	jis	38
+jïh	maehtedh	38
 learohkh	åadtjoeh	38
 learohkh	maahtoem	38
 nuepiem	vadta	37
@@ -654,7 +655,7 @@ mah	joe	37
 manne	lim	37
 daate	maahta	37
 maahtah	vielie	37
-bïjre	åadtjoeh	37
+åadtjoeh	jis	37
 gaajhkesh	mah	36
 edtja	dan	36
 vuejnedh	jïh	36
@@ -690,6 +691,7 @@ juktie	dam	36
 daennie	teemesne	36
 men	dellie	36
 vedtedh	guktie	36
+bïjre	åadtjoeh	36
 daaroengïele	isbn	36
 mer	om	35
 som	en	35
@@ -746,7 +748,6 @@ sïjhth	vielie	34
 guvvieh	jïh	34
 lea	faamosne	34
 aaj	lea	34
-mijjen	luvnie	33
 vaeltedh	jïh	33
 jïh	noerhtesaemien	33
 aaj	dah	33
@@ -777,6 +778,7 @@ darjodh	guktie	33
 mejtie	lea	33
 lea	mijjen	33
 åålmege	jïh	33
+mijjen	luvnie	32
 mijjieh	dam	32
 mietie	dle	32
 jïh	dannasinie	32
@@ -895,14 +897,12 @@ soejkesjidh	jïh	30
 jïh	såemies	30
 jïh	daerpies	30
 edtja	learoehkidie	30
-saemien	gïelegaaltije	30
 lea	bielie	29
 dellie	dov	29
 jis	dïhte	29
 guktie	dam	29
 lea	dam	29
 dah	jeatjah	29
-mah	dov	29
 dellie	tjuara	29
 ij	dïhte	29
 fïerhten	aejkien	29
@@ -950,15 +950,16 @@ vihkeles	årrodh	29
 jïh	guhkiebasse	29
 på	røros	29
 båata	jïh	29
-bïevnesh	barkoen	29
 öörnegen	mietie	29
 digitaale	dïrregh	29
 learohkh	leah	29
+saemien	gïelegaaltije	29
 aaj	guktie	28
 saemien	sijjienommh	28
 årrodh	jih	28
 maanah	edtjieh	28
 goh	mijjieh	28
+mah	dov	28
 gaajhkh	maanah	28
 jeatjah	almetjh	28
 aamhtese	lea	28
@@ -988,7 +989,6 @@ saemien	aerpievuekien	28
 båeries	jïh	28
 jaepiej	juassah	28
 mijjieh	dan	28
-saemien	sijtesne	28
 abpe	veartenisnie	28
 vuarjasjidh	jïh	28
 noerh	edtjieh	28
@@ -1002,8 +1002,8 @@ leah	hijven	28
 ööhpehtimmiem	vaeltedh	28
 tseegkedh	jïh	28
 jallh	saemien	28
+bïevnesh	barkoen	28
 saemien	gïelijste	28
-vuesiehtimmieh	vedtedh	28
 sïjse	loggedh	28
 eengelsken	gïelesne	28
 njaalmeldh	kultuvre	28
@@ -1028,7 +1028,6 @@ vadta	jïh	27
 nuepiem	utnieh	27
 jïh	annje	27
 slik	at	27
-gie	lea	27
 jïh	plearoeh	27
 noeride	jïh	27
 man	jïjnje	27
@@ -1056,6 +1055,7 @@ aktem	jaepiem	27
 gosse	ij	27
 almetjh	jïh	27
 saemiedigkien	jïh	27
+saemien	sijtesne	27
 mah	åarjelsaemien	27
 i	samarbeid	27
 en	av	27
@@ -1067,6 +1067,7 @@ jïh	byögkeles	27
 dellie	gujht	27
 er	den	27
 gaavnedh	jïh	27
+vuesiehtimmieh	vedtedh	27
 daesnie	aaj	27
 siebriedahke	daltese	27
 dïsse	maam	27
@@ -1085,6 +1086,7 @@ ibie	mijjieh	26
 jienebh	almetjh	26
 aerebi	goh	26
 mah	vuesiehtieh	26
+gie	lea	26
 eah	daarpesjh	26
 jïh	maanah	26
 på	norsk	26
@@ -1121,7 +1123,6 @@ dejtie	gïeh	26
 mietie	barkedh	26
 det	var	26
 jallh	maam	26
-jïh	daesnie	26
 aaj	jeahta	26
 jarngesne	åtna	26
 gïelem	evtiedidh	26
@@ -1134,7 +1135,6 @@ learohkh	aaj	26
 kråvnah	dåarjojne	26
 dov	maana	26
 gïelem	vedtedh	26
-raejeste	jïh	26
 j	mennie	26
 maahta	dejtie	25
 lea	dah	25
@@ -1185,6 +1185,7 @@ jiehtedh	mijjieh	25
 gaajhkh	saemieh	25
 lea	tseegkesovveme	25
 digkiedidh	guktie	25
+jïh	daesnie	25
 samiske	språk	25
 vielie	lïeredh	25
 vuajnoeh	jïh	25
@@ -1202,6 +1203,7 @@ akt	maam	25
 doelehtovveme	aamhtesh	25
 lohkehtæjja	jïh	25
 jïh	ussjedadtedh	25
+raejeste	jïh	25
 saemien	lidteratuvrem	25
 mijjieh	barkebe	24
 datne	reaktam	24
@@ -1256,7 +1258,6 @@ jïh	jåarhkeskuvlesne	24
 gïelese	jïh	24
 saemiej	vööste	24
 dej	saemien	24
-jis	edtjebe	24
 maahta	datnem	24
 åådtjeme	jïh	24
 gosse	lin	24
@@ -1324,6 +1325,7 @@ leah	dovne	23
 aktem	vihkeles	23
 leah	jarngesne	23
 maanide	mah	23
+jis	edtjebe	23
 lea	sjïere	23
 gærjah	jïh	23
 mejtie	saemien	23
@@ -1455,7 +1457,6 @@ maahta	vuesiehtimmien	21
 jallh	naan	21
 mejtie	edtja	21
 jïh	buerebe	21
-leah	dorjeme	21
 goh	datne	21
 dah	göökte	21
 gaajhkesh	maehtieh	21
@@ -1565,6 +1566,7 @@ aaj	nuepiem	20
 lea	sïejhme	20
 gosse	maana	20
 sveerjen	gïelesne	20
+leah	dorjeme	20
 ij	gie	20
 maahtah	jïjtje	20
 båeries	almetjh	20
@@ -1798,7 +1800,6 @@ bieline	årrodh	19
 utnedh	guktie	19
 mijjieh	datnem	19
 gïelen	reeremedajvesne	19
-jis	soptsesth	19
 gosse	edtjieh	19
 tjuetie	jaepieh	19
 identiteeten	bïjre	19
@@ -1898,6 +1899,7 @@ at	du	18
 saemien	musihkem	18
 jïh	jaepien	18
 aaj	gellie	18
+mubpien	aejkien	18
 gïelese	jarkoestamme	18
 årrodh	jallh	18
 vedtedh	mah	18
@@ -1950,6 +1952,7 @@ sjïere	saemien	18
 mah	dej	18
 lea	dåarjoem	18
 dåeriedidh	jïh	18
+jis	soptsesth	18
 opplæringen	er	18
 at	eleven	18
 eleven	skal	18
@@ -2048,7 +2051,6 @@ saemieh	lin	17
 daejrieh	man	17
 lij	saemien	17
 aejkien	bïjre	17
-mubpien	aejkien	17
 årrodh	dan	17
 doh	mubpieh	17
 tuhtjie	daate	17
@@ -2082,7 +2084,6 @@ jïh	nænnoestidh	17
 ellen	voestes	17
 moenehtse	edtja	17
 juktie	aktem	17
-dåarjoem	åadtjoeh	17
 maahta	hijven	17
 akten	saemien	17
 gïelesne	lea	17
@@ -2130,7 +2131,6 @@ jïh	dåeriesmoerh	17
 mij	gohtjesåvva	17
 aerpiemaahtoe	eatnemenåhtoe	17
 jïjnjh	almetjh	17
-det	blir	17
 jïh	eadtjohke	17
 hammoedidh	jïh	17
 aejkien	aaj	17
@@ -2267,6 +2267,7 @@ saaht	maam	16
 veeljemebiejjien	åvteli	16
 gusnie	årroeminie	16
 var	en	16
+dåarjoem	åadtjoeh	16
 leah	mov	16
 men	maahta	16
 sijjen	saemien	16
@@ -2329,6 +2330,7 @@ pryövenassem	vedtedh	16
 stïeresne	årrodh	16
 jallh	biehkiem	16
 og	hvordan	16
+det	blir	16
 grand	prix	16
 ïedtji	bïjre	16
 tjïrrh	learohkh	16
@@ -2488,7 +2490,6 @@ bijre	jih	15
 nöörjen	båatsoesaemiej	15
 mah	idtjin	15
 biejjien	raajan	15
-daesnie	maahta	15
 keskitalo	lea	15
 sne	jïh	15
 mij	åarjelsaemien	15
@@ -2739,7 +2740,6 @@ dov	nommem	14
 dah	learohkh	14
 learohkh	gïeh	14
 tjoevkesem	bïejedh	14
-ööhpehtimmie	jïh	14
 jeatjah	aktöörh	14
 mijjieh	dov	14
 gåetien	sisnie	14
@@ -2750,6 +2750,7 @@ dovne	nöörjen	14
 tseegkedh	juktie	14
 vååjnesasse	båetedh	14
 abpe	jieledem	14
+daesnie	maahta	14
 med	et	14
 jïh	gærjah	14
 maehtieh	daam	14
@@ -2765,7 +2766,6 @@ jallh	plearoeh	14
 dellie	edtja	14
 edtjh	dam	14
 jis	viehkiem	14
-mejtie	leah	14
 maam	ibie	14
 i	de	14
 mijjieh	daelie	14
@@ -2922,7 +2922,6 @@ maam	darjodh	13
 darjoeh	jïh	13
 jïh	ulmie	13
 gïelem	vaarjelidh	13
-jïjnjh	dejstie	13
 aaj	vuesehte	13
 jih	akten	13
 edtjh	datne	13
@@ -2974,7 +2973,6 @@ dellie	gosse	13
 viktig	å	13
 learoevierhtieh	evtiedidh	13
 guessine	mïnnedh	13
-du	er	13
 akte	gïele	13
 lij	hijven	13
 jallh	göökte	13
@@ -3018,6 +3016,7 @@ ulmiem	jaksedh	13
 mah	saemiestieh	13
 reaktoem	utnieh	13
 noerhtesaemien	jïh	13
+ööhpehtimmie	jïh	13
 abpe	nöörjesne	13
 destie	båata	13
 saaht	man	13
@@ -3049,6 +3048,7 @@ aktene	dejstie	13
 njieljie	jaepieh	13
 jallh	mejtie	13
 gosse	jienebh	13
+mejtie	leah	13
 gïelem	nænnoestidh	13
 prosjekten	ulmie	13
 leder	for	13
@@ -3255,6 +3255,7 @@ på	sydsamiska	12
 jïh	noerigujmie	12
 edtjebe	aaj	12
 eatneme	lea	12
+jïjnjh	dejstie	12
 dam	maahta	12
 gosse	dejtie	12
 njoelkedassi	bïjre	12
@@ -3318,6 +3319,7 @@ viktig	for	12
 nora	marie	12
 sametingsrådet	har	12
 learohkh	saemien	12
+du	er	12
 og	voksne	12
 på	skolen	12
 dan	barkoen	12
@@ -4130,7 +4132,6 @@ luste	sjædta	11
 lea	aelkedh	11
 jïjnjh	bïevnesh	11
 smi	cand	11
-dahkoe	jïh	11
 girtine	vuelkedh	11
 digkiedidh	man	11
 saemien	taalh	11
@@ -4180,7 +4181,6 @@ mietie	gihtjedh	10
 lære	seg	10
 tjaeledh	mah	10
 nuhtjebe	dellie	10
-daelie	dah	10
 dellie	maehtieh	10
 jis	sjïere	10
 edtja	seamma	10
@@ -4252,7 +4252,6 @@ aamhtesen	bijre	10
 ahte	ij	10
 åvteste	datne	10
 bïjre	vedtedh	10
-barkoem	åadtjoeji	10
 gaavhtan	maahta	10
 jïjnje	lea	10
 mijjen	barkoe	10
@@ -4324,7 +4323,6 @@ leah	annje	10
 saepmie	lea	10
 gujht	hijven	10
 frijje	jïh	10
-ovmessie	sijjine	10
 dan	nualan	10
 mah	sïjse	10
 dennie	voestes	10
@@ -4536,7 +4534,6 @@ jïh	åtnose	10
 sæjhta	dejtie	10
 gosse	naaken	10
 tïjjen	bïjre	10
-leah	daate	10
 mah	tjuerieh	10
 lea	gaajh	10
 itjmieslaakan	vaeltedh	10
@@ -4616,7 +4613,6 @@ dejstie	leah	10
 bïjre	ij	10
 ibie	tjoerh	10
 saemien	jieleme	10
-har	de	10
 gaavneme	jïh	10
 seksuelle	irhkemem	10
 akte	sïejhme	10
@@ -4730,7 +4726,6 @@ nuepiem	åtneme	10
 dej	nasjovnelle	10
 riddu	riđđu	10
 wollmann	magga	10
-millioner	kroner	10
 vihkeles	dïrrege	10
 plan	for	10
 dle	dan	10
@@ -4764,10 +4759,10 @@ tomas	colbengtson	10
 og	forsoningskommisjonen	10
 jïh	matematihkeles	10
 evtiedimmie	njaalmeldh	10
-pleie	og	10
 skjer	i	10
 privaate	bïjline	10
 fag	ved	10
+dahkoe	jïh	10
 kappfjell	sørfjell	10
 för	delaktighet	10
 dïhte	saajve	10
@@ -4801,7 +4796,6 @@ aaj	datnem	9
 nuerebe	goh	9
 gïeline	goetsebe	9
 sørsamisk	som	9
-gïeline	åahpenidh	9
 veiledning	og	9
 tjïeltigujmie	jïh	9
 dah	aktem	9
@@ -4835,6 +4829,7 @@ jïh	eensi	9
 daan	våhkan	9
 joekoen	sïejhme	9
 eah	almetjh	9
+daelie	dah	9
 jïh	mijjem	9
 viehkien	bïjre	9
 jallh	maahta	9
@@ -4902,6 +4897,7 @@ tjïelte	faala	9
 guktie	ovmessie	9
 å	sikre	9
 byörh	aaj	9
+barkoem	åadtjoeji	9
 bååstede	åadtjodh	9
 dellie	almetjh	9
 åvtese	lutnjedh	9
@@ -4978,6 +4974,7 @@ bïjre	digkiedidh	9
 lea	dihte	9
 lin	dan	9
 abpe	dam	9
+ovmessie	sijjine	9
 saemien	dajvijste	9
 sïjse	tjöönghkeme	9
 saemien	våarhkoe	9
@@ -5246,7 +5243,6 @@ dïhte	stoerre	9
 jïh	skuvline	9
 jeahta	dan	9
 jïh	magkerh	9
-gaajhki	siebriedahkesuerkiej	9
 byögkeles	aktöörh	9
 gïelem	nuhtjie	9
 enn	vielie	9
@@ -5256,6 +5252,7 @@ ulmine	utnieh	9
 mejtie	åtna	9
 åvtelen	jïh	9
 dååjrehtimmieh	jïh	9
+leah	daate	9
 identiteeteste	jïh	9
 röörosen	tjïelte	9
 jeahta	ahte	9
@@ -5297,7 +5294,6 @@ jïh	galka	9
 mij	galka	9
 gïele	aaj	9
 gaavnedh	guktie	9
-jïh	åvtese	9
 barkedh	saemien	9
 bæjhkoehtimmieh	jïh	9
 sisvegem	jïh	9
@@ -5352,7 +5348,6 @@ luste	vuejnedh	9
 aamhtese	lij	9
 gærjah	mah	9
 gosse	ibie	9
-nöörje	edtja	9
 meatan	vaaltasåvva	9
 jïh	golme	9
 dååjrehtimmiem	åtna	9
@@ -5374,6 +5369,7 @@ nsr	lea	9
 ajve	dan	9
 gååvnese	goh	9
 biejjien	goh	9
+har	de	9
 hvert	år	9
 med	og	9
 badth	aaj	9
@@ -5505,6 +5501,7 @@ nuepieh	åadtjoeh	9
 tjåanghkan	bïejesovveme	9
 mij	ulmine	9
 mariann	wollmann	9
+millioner	kroner	9
 dan	våhkoen	9
 dejtie	mejtie	9
 stoerre	tjoepere	9
@@ -5559,6 +5556,7 @@ bïjre	gihtjedh	9
 lea	lïhke	9
 prosjekte	sæjhta	9
 med	mulighet	9
+pleie	og	9
 dov	daerpiesvoeth	9
 guvviedidh	jïh	9
 sámi	oahpahusráđđi	9
@@ -5566,7 +5564,6 @@ hijven	barkoebyjresem	9
 vihkielommes	lea	9
 bc	dalarna	9
 med	embetseksamen	9
-gram	adj	9
 leavloem	beaja	9
 kreatijve	årrodh	9
 maehtedh	digitaale	9
@@ -5623,7 +5620,7 @@ aaj	soptsestidh	8
 soptsestidh	jis	8
 juktie	buerebe	8
 dah	tuhtjieh	8
-er	for	8
+gïeline	åahpenidh	8
 dan	akten	8
 tillgång	till	8
 barkoste	lea	8
@@ -5770,7 +5767,6 @@ lære	om	8
 og	videregående	8
 om	samiske	8
 har	ansvar	8
-som	tar	8
 i	sør	8
 samiske	samfunn	8
 å	legge	8
@@ -5985,7 +5981,6 @@ båarasåbpoe	almetjidie	8
 mietie	dan	8
 dan	mearan	8
 gujht	barre	8
-jallh	mubpiej	8
 daajra	maam	8
 manne	daajram	8
 mijjen	bïjre	8
@@ -5996,7 +5991,6 @@ aktem	dagkeres	8
 dellie	im	8
 noere	jïh	8
 ms	office	8
-dorjeme	guktie	8
 maahtah	datne	8
 jeenjebh	bïevnesh	8
 lea	vuekie	8
@@ -6226,6 +6220,7 @@ mij	heannadi	8
 millijovnh	almetjh	8
 er	veldig	8
 leah	v	8
+gaajhki	siebriedahkesuerkiej	8
 dejstie	råajvarimmijste	8
 viehkiehtieh	guktie	8
 vuajnelge	goh	8
@@ -6274,6 +6269,7 @@ mijjem	viehkehte	8
 raaktan	daan	8
 evtiedæmman	jïh	8
 sov	maahtoem	8
+jïh	åvtese	8
 lea	iemie	8
 mejtie	daerpies	8
 darjodh	dam	8
@@ -6330,6 +6326,7 @@ båetije	jaepien	8
 beapmoeh	jïh	8
 baajnehtidh	jïh	8
 mahte	abpe	8
+nöörje	edtja	8
 i	hattfjelldal	8
 lea	soptsese	8
 jïh	etihkeles	8
@@ -6629,7 +6626,6 @@ bertije	sámi	8
 jïh	mielhkiem	8
 filmen	bïjre	8
 vuelie	jïh	8
-jïh	dotkeme	8
 de	siste	8
 bovtsh	jïh	8
 ööhpehtimmie	saemiengïele	8
@@ -6747,7 +6743,6 @@ jis	aaj	7
 sån	lea	7
 laake	aaj	7
 maana	jïh	7
-daate	barkoegærja	7
 lohkehtæjjide	jïh	7
 andre	oppgaver	7
 jïh	hoksedh	7
@@ -6766,10 +6761,8 @@ dam	utnedh	7
 jih	dåarjegem	7
 mij	barkoem	7
 mijjieh	tuhtjebe	7
-sïjhth	jienebh	7
 tjïeltesne	gååvnese	7
 gellie	darjomh	7
-jienebh	daejredh	7
 dellie	sïejhme	7
 maahta	akten	7
 dov	persovneles	7
@@ -6879,6 +6872,7 @@ samiske	elever	7
 lære	samisk	7
 dette	kan	7
 på	videregående	7
+som	tar	7
 saemien	learoevierhtieh	7
 bïjre	gååvnesieh	7
 lea	bïevnesh	7
@@ -7048,7 +7042,6 @@ jïh	viehkie	7
 dej	aamhtesi	7
 åadtjodh	lea	7
 oslo	jïh	7
-ohtsememierie	lea	7
 lea	njoktjen	7
 dam	aarebi	7
 lïerehtimmiem	jïh	7
@@ -7091,6 +7084,7 @@ sjædta	dejtie	7
 jis	dan	7
 goh	dam	7
 striengkies	krïevenassh	7
+jallh	mubpiej	7
 gærhkoe	lea	7
 stoerre	veanhtadimmieh	7
 åarjelsaemien	dajve	7
@@ -7100,6 +7094,7 @@ maahtoem	utnedh	7
 lea	veeljesovveme	7
 lea	noerhtesaemien	7
 daelie	maahtah	7
+dorjeme	guktie	7
 aaj	geerve	7
 gïelesne	åadtjoeh	7
 ønsker	vi	7
@@ -7275,6 +7270,7 @@ jïh	muvhten	7
 maahta	joekoen	7
 våårege	årrodh	7
 goh	jienebelåhkoen	7
+jaahkenelkien	aanna	7
 sjædta	guktie	7
 olkese	båata	7
 dovne	jeatjah	7
@@ -7314,6 +7310,7 @@ jïh	daej	7
 jïjtsh	gïelesne	7
 daelie	saemiedigkie	7
 lea	bæjhkoehtamme	7
+aejkien	jaepien	7
 dellie	staaloe	7
 jïh	reeredh	7
 henhold	til	7
@@ -7427,7 +7424,6 @@ gïelelïerehtæmman	jïh	7
 jeatjah	råajvarimmieh	7
 goh	jieleme	7
 jïh	vaajesh	7
-gåetien	sïjse	7
 gåatan	jïh	7
 jïh	geehtedh	7
 leah	dellie	7
@@ -7475,7 +7471,6 @@ dellie	stoerre	7
 naakenh	vienhtieh	7
 juktie	dej	7
 passe	på	7
-når	vi	7
 vi	tar	7
 saemiedigkie	daelie	7
 dellie	saemiedigkie	7
@@ -7734,7 +7729,6 @@ og	vurdere	7
 at	elevene	7
 i	og	7
 thorkel	jonassen	7
-fra	snåsa	7
 dans	og	7
 interessert	i	7
 gosse	eah	7
@@ -8074,6 +8068,7 @@ jïh	dååjredh	7
 mah	joekoen	7
 fag	i	7
 fra	et	7
+jïh	dotkeme	7
 jïjtje	vaeltedh	7
 fuelhkie	lea	7
 jaepieh	dan	7
@@ -8226,7 +8221,9 @@ skuvle	jallh	6
 maehtieh	jïjtjh	6
 tjaeledh	jis	6
 guessine	båatah	6
+daate	barkoegærja	6
 bïhkedimmie	lohkehtæjjide	6
+er	for	6
 oppgaver	og	6
 jïh	soejkesje	6
 vuarjasjidh	gosse	6
@@ -8248,7 +8245,9 @@ gaajh	hijven	6
 dov	healsoejarngem	6
 voestegh	datne	6
 leah	nuepiem	6
+sïjhth	jienebh	6
 vihkeles	dutnjien	6
+jienebh	daejredh	6
 jih	jienebh	6
 passer	for	6
 tjaelieh	dan	6
@@ -8631,6 +8630,7 @@ maahtah	namhtah	6
 dïhte	byögkeles	6
 jaepieh	illieh	6
 baalte	bïejedh	6
+ohtsememierie	lea	6
 men	gåarede	6
 men	doh	6
 utnieh	dovne	6
@@ -8831,7 +8831,6 @@ lea	voerhtjen	6
 vadta	mah	6
 maehtieh	gaavnedidh	6
 vædtsoesvoetem	dååjroeh	6
-lena	kappfjell	6
 slik	som	6
 i	finland	6
 almetjh	daesnie	6
@@ -8956,7 +8955,6 @@ gååvnesieh	man	6
 vædtsoesvoetem	jïh	6
 daej	teemaj	6
 daej	aamhtesi	6
-aejkien	jaepien	6
 goh	staaloe	6
 saajvi	bïjre	6
 viehkiehtidh	daam	6
@@ -8967,7 +8965,6 @@ nåake	jïh	6
 jïjtsh	bïjre	6
 saemien	healsoen	6
 væhtah	jïh	6
-naan	vuesiehtimmieh	6
 aarporten	jïh	6
 lïerehtæmman	jïh	6
 jïh	aalkoealmetjh	6
@@ -9075,6 +9072,7 @@ aktöörh	jïh	6
 beapmoen	bïjre	6
 saemiengïeleldh	maahtoem	6
 åarjel-smaaregen	soptsesh	6
+gåetien	sïjse	6
 dle	lij	6
 institusjovni	gaskem	6
 evtiedimmine	jïh	6
@@ -9136,6 +9134,7 @@ lea	golken	6
 idtjin	maehtieh	6
 lij	vielie	6
 kan	man	6
+når	vi	6
 numhtie	lea	6
 åadtjodh	soptsestidh	6
 mietie	gihtjeme	6
@@ -9488,6 +9487,7 @@ nïerhkedh	juktie	6
 i	bruk	6
 bæjjese	vaeltieh	6
 dïhte	oktegh	6
+fra	snåsa	6
 i	kautokeino	6
 får	man	6
 jïh	sïjse	6
@@ -10556,7 +10556,6 @@ laakijste	jïh	5
 saemiedigkie	sov	5
 aaj	mubpide	5
 eller	en	5
-vi	vet	5
 ektesne	berkieh	5
 jïh	beapmoem	5
 reaktide	jïh	5
@@ -10825,6 +10824,7 @@ dejtie	dåeriesmoeride	5
 sjyöhtehke	daan	5
 barkosne	saemien	5
 mænngan	edtja	5
+buerie	biejjie	5
 aehtjie	gon	5
 åadtjoeh	gænnah	5
 jiehtedh	dej	5
@@ -11368,6 +11368,7 @@ det	opp	5
 skuvlesne	åadtjodh	5
 darjoeh	guktie	5
 guktie	darjoeh	5
+naan	vuesiehtimmieh	5
 jïh	jollebe	5
 tjïrrehtimmien	bïjre	5
 daajroe	leah	5
@@ -11432,7 +11433,6 @@ meatan	dellie	5
 ajve	dah	5
 erna	solberg	5
 gaskem	gosse	5
-jïh	materijelle	5
 saemien	dajvh	5
 jïh	rørosen	5
 prosessh	mah	5
@@ -12243,7 +12243,6 @@ fysiske	jallh	5
 meatan	mijjen	5
 jïh	guhkebe	5
 evtiedimmie	lea	5
-jïh	veeljemh	5
 byjresem	jïh	5
 teknologijen	jïh	5
 lea	guarkedh	5
@@ -12630,7 +12629,6 @@ jeatjah	darjodh	5
 katarina	lea	5
 daelie	aktem	5
 koronapandemijen	gaavhtan	5
-versjovne	https	5
 romsan	jïh	5
 åse	klemensson	5
 jïh	onne	5
@@ -12684,7 +12682,6 @@ gellieh	maanah	5
 daan	daelvien	5
 mænngan	jallh	5
 lea	gaajhki	5
-siebriedahkesuerkiej	bïjre	5
 politihkeles	prosessine	5
 daaresjimmie	jïh	5
 vööste	lïhke	5
@@ -12953,7 +12950,6 @@ meatan	dan	5
 healsoe	noerhte	5
 saemien	maanagïertesijjieh	5
 saemien	åålmegisnie	5
-kr	maeksedh	5
 mijjiem	bïeljelidh	5
 teeksth	mah	5
 maahtah	ussjedidh	5
@@ -13034,7 +13030,6 @@ dov	fuelhkie	5
 seamma	stoere	5
 å	følge	5
 nasjonaale	unnebelåhkoegïelesne	5
-nasjonaale	unnebelåhkoegïeline	5
 saemien	lïerehtimmien	5
 saemien	jarnge	5
 dej	sjïere	5
@@ -13501,7 +13496,6 @@ gaampel	gåmma	5
 die	laasse	5
 suetievaarjelimmien	bïjre	5
 göökte	boelhketjh	5
-the	thesis	5
 snåsa	barnehage	5
 jïh	máret	5
 og	fylkeskommunene	5
@@ -13635,7 +13629,6 @@ noeri	reaktah	4
 saemien	learoesoejkesjen	4
 lea	gïeline	4
 åarjelsaemien	mubpiegïeline	4
-for	nivå	4
 oppgaver	til	4
 i	læreverket	4
 læreverket	gïeline	4
@@ -13826,7 +13819,6 @@ og	gode	4
 deg	på	4
 vårt	nyhetsbrev	4
 upmejen	tjïelte	4
-hoksehtimmien	bïjre	4
 maahtah	ringkedh	4
 gååvnesh	mij	4
 dotkeme	aaj	4
@@ -14051,7 +14043,7 @@ saemien	skuvline	4
 vi	mener	4
 er	både	4
 voksne	som	4
-vet	at	4
+vi	vet	4
 skjer	på	4
 og	veiledning	4
 dejtie	vïjhte	4
@@ -14059,7 +14051,6 @@ tjaetsiem	jïh	4
 jalhts	eah	4
 eah	buektehth	4
 gosse	gaajhkesh	4
-lohkemegærja	lea	4
 edtjieh	vielie	4
 skal	de	4
 almetjh	joekehts	4
@@ -14171,7 +14162,6 @@ joekoen	laakan	4
 manne	jijtje	4
 mujhtedh	jïh	4
 bijre	bievnedh	4
-lea	mïetsken	4
 seamma	nommine	4
 mænngan	edtjieh	4
 dah	sov	4
@@ -14662,7 +14652,6 @@ daan	mieriedimmien	4
 dam	nommem	4
 almetjasse	mij	4
 dihte	tjaalasovveme	4
-edtja	våajnoes	4
 biejedh	jih	4
 edtja	bievnesh	4
 seedtedh	dejtie	4
@@ -15201,7 +15190,6 @@ teemaj	jïh	4
 bïjre	ussjedadtedh	4
 maadthskuvlese	jïh	4
 jïh	jåarhkelïerehtæmman	4
-jïh	mubpien	4
 staaloe	mij	4
 tjuedtjielidh	jïh	4
 mijjieh	sinsitniem	4
@@ -15341,6 +15329,7 @@ gosse	reerenasse	4
 ryöktesth	tsevtsedh	4
 ektie	goerkesem	4
 jïh	sjæjsjalimmieh	4
+jïh	materijelle	4
 maehtieh	saemide	4
 maehtedh	bïevnesh	4
 jïh	prosessh	4
@@ -15427,7 +15416,6 @@ amma	gaajhkesh	4
 tjïrrh	saemiedigkie	4
 jarngese	bïejedh	4
 jeatjah	hijven	4
-årrode	meatan	4
 bidrag	til	4
 datne	lïhtseginie	4
 lïhtseginie	aktene	4
@@ -15471,7 +15459,6 @@ i	verden	4
 mov	vaajmoen	4
 dïhte	reaktoe	4
 åvtehkinie	orreme	4
-latjkoen	bïjre	4
 åvtehkinie	årrodh	4
 årrodh	göökte	4
 manne	hijven	4
@@ -15593,7 +15580,6 @@ skuvlen	lïhke	4
 dam	tïjjem	4
 barkoem	ohtsedieh	4
 laavenjassesne	datne	4
-bruk	innholdvis	4
 akte	ellies	4
 jïh	tseegkeldahkijste	4
 sjïere	maahtojne	4
@@ -15879,7 +15865,6 @@ trygkesovveme	tjaalegh	4
 jïh	teekste	4
 jïh	tjeakoesbaakoem	4
 maehtede	aaj	4
-dejstie	båeries	4
 mietie	edtjieh	4
 meatan	åadtjoeh	4
 krirrie	åådtje	4
@@ -16012,7 +15997,6 @@ ovmessie	aamhtesinie	4
 mijjen	åvteste	4
 dåarjoem	vedtebe	4
 åadtjoeh	dåarjoem	4
-gosse	barkoem	4
 saemien	tsïegline	4
 mijjen	voestes	4
 jïh	stoerretjåanghkoeh	4
@@ -16205,7 +16189,6 @@ bïevnesh	gååvnese	4
 meänkielisne	jïh	4
 gaajhkh	nasjonaale	4
 seamma	magkerh	4
-vuajnoeh	jallh	4
 vielie	govledh	4
 maehtieh	jeatjah	4
 bïjre	almetji	4
@@ -16714,6 +16697,7 @@ dam	dutnjien	4
 dongkedh	jallh	4
 goh	institusjovne	4
 ekonomijen	jïh	4
+jïh	veeljemh	4
 monnehke	evtiedimmesne	4
 mah	dåeriesmoerh	4
 åarjelsaemien	akte	4
@@ -17381,6 +17365,7 @@ geerjene	sjïdtem	4
 vuesehte	magkeres	4
 barkoem	dah	4
 åtneme	sov	4
+jïh	mubpien	4
 bïjre	sveerjen	4
 dle	kultuvreraerie	4
 jih	kultuvride	4
@@ -17449,6 +17434,7 @@ biejjie	gosse	4
 jïh	elsa	4
 jïh	plassjen	4
 saemiedigkien	barkose	4
+siebriedahkesuerkiej	bïjre	4
 seamma	reaktajgujmie	4
 tjoelemïrrestallemen	bïjre	4
 heaptojne	årrodh	4
@@ -17476,6 +17462,7 @@ lij	bielie	4
 juktie	learohkh	4
 lij	mijjen	4
 voestes	sæjjan	4
+aanna	lij	4
 saemien	lohkeme	4
 åarjelh-saemien	gielesne	4
 trøøndelaagesne	jih	4
@@ -17745,8 +17732,6 @@ kronprinse	haakon	4
 håaledh	jïh	4
 biejjien	datne	4
 mah	krievieh	4
-golme	boelhkide	4
-boelhkide	juekedh	4
 symbole	lea	4
 saemien	saevegem	4
 mijjese	soptsestieh	4
@@ -18197,6 +18182,7 @@ vi	at	4
 åadtjodh	maadthskuvlesne	4
 seamma	plïeresne	4
 dej	vuajnoeh	4
+nasjonaale	unnebelåhkoegïeline	4
 laavenjostoelatjkoen	bïjre	4
 sjïere	fokusem	4
 edtja	dåarjoem	4
@@ -18669,7 +18655,6 @@ gåetiej	bijjeli	4
 raejeste	lea	4
 jïh	symboline	4
 dream	that	4
-one	day	4
 buerkesth	åenehkslaakan	4
 red	bull	4
 naemhtie	akte	4
@@ -19152,7 +19137,6 @@ lea	skuvlesne	4
 dát	lea	4
 orreme	dellie	4
 mun	lean	4
-mis	leat	4
 jïh	garmere	4
 lemet	máhtte	4
 máhtte	eira	4
@@ -19320,6 +19304,7 @@ maehtieh	rïhpestidh	4
 jiemiem	luejhtedh	4
 daelvie	lea	4
 åarjelsaemien	identiteete	4
+the	thesis	4
 saami	rights	4
 biegkefaamoe	daesnie	4
 veartenedåaran	mænngan	4
@@ -19539,7 +19524,6 @@ bïhkedimmieh	jïh	3
 leah	voestes	3
 læreverk	i	3
 som	andrespråk	3
-barkoegærja	lea	3
 mahte	gaajhkide	3
 cd	aaj	3
 i	arbeidsboka	3
@@ -19809,6 +19793,7 @@ aktiviteter	som	3
 til	økt	3
 veanhtadidh	dejnie	3
 deg	oppdatert	3
+hoksehtimmien	bïjre	3
 dah	jeanatjommes	3
 gjøre	rede	3
 rede	for	3
@@ -20118,6 +20103,7 @@ gjør	du	3
 du	når	3
 som	om	3
 hvis	det	3
+vet	at	3
 det	skjer	3
 hjelp	og	3
 møre	jïh	3
@@ -20127,6 +20113,7 @@ jïh	staaresne	3
 tjuara	orrijidh	3
 eatnemen	vierhtieh	3
 gærhkojde	jïh	3
+lohkemegærja	lea	3
 dah	teksth	3
 sjangerinie	jïh	3
 jïh	guhkie	3
@@ -20310,6 +20297,7 @@ lea	saemiedigkiem	3
 jïh	aavoedidh	3
 edtja	heevehtimmiem	3
 bransfjell	jeahta	3
+lea	mïetsken	3
 jïh	skïereden	3
 åådtjeme	jih	3
 pluppen	bijre	3
@@ -21044,7 +21032,6 @@ våaromem	bïeji	3
 barkose	maam	3
 satnem	meatan	3
 tjåadtjoen	sjïdti	3
-raajan	gosse	3
 mov	boelvesne	3
 juktie	jis	3
 daam	sæjroem	3
@@ -21177,6 +21164,7 @@ båateme	eannan	3
 dorje	maam	3
 edtja	nuhtjedh	3
 edtja	nommem	3
+edtja	våajnoes	3
 goeresne	gusnie	3
 gosse	ohtsemh	3
 siebrie	maahta	3
@@ -22077,6 +22065,7 @@ nöörjen	nyjsenæjjah	3
 seksuelle	daaresjimmiem	3
 seksualiteete	jïh	3
 håhkoem	vedtieh	3
+trygkesovvi	jaepien	3
 bååstide	båetedh	3
 olkese	bööti	3
 dellie	jeehti	3
@@ -22110,7 +22099,6 @@ ved	aajege	3
 skape	en	3
 og	øke	3
 en	offentlig	3
-i	samfunnet	3
 kommunikatijve	gïelelïerehtimmie	3
 aaj	laavenjostoem	3
 evtiesuvvieh	jïh	3
@@ -22525,6 +22513,7 @@ n	åvtehkinie	3
 vaajmoen	lïhkesadtje	3
 lea	åvtehkinie	3
 orreme	nöörjen	3
+latjkoen	bïjre	3
 guhte	maehtieh	3
 men	dovne	3
 saemiej	gïelh	3
@@ -22935,7 +22924,6 @@ eadtjohkevoetem	sjugniedidh	3
 maahtoe	åarjelsaemien	3
 vuartesjh	gaavnoes	3
 gaavnoes	barkoeh	3
-aaj	ohtsemem	3
 skuvle	jih	3
 prest	for	3
 for	sørsamer	3
@@ -23175,6 +23163,7 @@ vielie	raajroeh	3
 ruvhteraajroen	mietie	3
 orre	raajroeh	3
 aaj	buerebe	3
+dejstie	båeries	3
 jïh	voestegh	3
 gosse	leeneståvroe	3
 guktie	meatan	3
@@ -23399,7 +23388,6 @@ aaj	dorje	3
 vïnhtside	jïh	3
 ovmessie	aatide	3
 byjrehks	vyörtegsvoetetjirkemh	3
-jallh	laejhtemh	3
 maahtah	sjïere	3
 om	vård	3
 saemiedigkie	ohtsemh	3
@@ -23416,6 +23404,7 @@ saemien	reakta-aajhterh	3
 jïh	gegkeste	3
 gegkeste	satne	3
 dåarjoe	edtja	3
+gosse	barkoem	3
 på	finska	3
 gaajhkh	teeksth	3
 biejjien	minngemes	3
@@ -23743,9 +23732,9 @@ mijjine	gaskesadtedh	3
 gielesne	åadtjodh	3
 jïh	unnebelåhkoegïelen	3
 unnebelåhkoegïelh	edtja	3
-mij	nasjonaale	3
 altese	ietniengïelem	3
 jaepien	nuerebe	3
+vuajnoeh	jallh	3
 åejvieaamhtese	lea	3
 dah	åarjelsaemien	3
 dihte	mïerhkevuekie	3
@@ -23837,7 +23826,6 @@ beetnehvierhtieh	saemiedigkeste	3
 föörhkedidh	jïh	3
 saaht	seamma	3
 seamma	maam	3
-snåsa	som	3
 ligger	midt	3
 i	samme	3
 der	får	3
@@ -24833,7 +24821,6 @@ jååhkesje	jïh	3
 nuhtjie	mah	3
 viehkine	gosse	3
 maahta	tjïrrehtidh	3
-sisvege	edtja	3
 rijmh	jïh	3
 jïh	dallatjinie	3
 bïevnesh	reebledh	3
@@ -25865,6 +25852,7 @@ aavode	orre	3
 orre	musihkem	3
 nomme	akten	3
 åvtese	vuejnedh	3
+versjovne	https	3
 finnmarhken	fylhkentjïelte	3
 akte	prosjeekte	3
 dovne	sveerjen	3
@@ -26075,7 +26063,6 @@ dannasinie	barkoevedtije	3
 gosse	jeahta	3
 leah	buerebe	3
 buerebe	barkoem	3
-ih	dåarjoem	3
 gihtjie	jis	3
 nåakebe	barkoelaavenjassh	3
 datnem	stïlledh	3
@@ -26808,7 +26795,6 @@ replihkh	jïh	3
 jiehtege	tjiehpies-lidteratuvre	3
 guktie	guvvieh	3
 mietie	evtiedamme	3
-mïrhke	ï	3
 guktie	daaroen	3
 tjïelkelaakan	vååjnesasse	3
 bïjre	tjaelije	3
@@ -27098,8 +27084,6 @@ jïh	tjoejine	3
 tjïjhtje	tjaebpies	3
 nåå	dellie	3
 som	inviterer	3
-lek	og	3
-og	lek	3
 styrke	og	3
 utkom	på	3
 med	alle	3
@@ -27991,6 +27975,8 @@ saemien	jieledevuekie	3
 enn	maam	3
 gåetiem	tseegkedh	3
 gapta	lea	3
+golme	boelhkide	3
+boelhkide	juekedh	3
 jïh	nöörje	3
 politihke	maam	3
 nuhtjin	gosse	3
@@ -28033,7 +28019,6 @@ sijhtieh	viehkiehtidh	3
 giefiesvoetem	nåhkehtidh	3
 tjïrrh	edtja	3
 låhkoen	aalkoevisnie	3
-ennje	aajmene	3
 lij	våarome	3
 lij	gellie	3
 jïh	jonas	3
@@ -28174,7 +28159,6 @@ byjjenamme	gusnie	3
 lïhke	eatnamasse	3
 jïh	eatnamistie	3
 nuepie	jïjtje	3
-mubpide	lïerehtidh	3
 jïjnjem	dorjeme	3
 felgen	orkester	3
 kirkeråd	og	3
@@ -28908,7 +28892,6 @@ jis	sïjhtebe	3
 dïhte	mijjen	3
 gosse	numhtie	3
 mej	sïjse	3
-guktie	sisvege	3
 jïh	viehkie-dïrregh	3
 vuartasjæjjaj	luvnie	3
 veele	årrodh	3
@@ -29012,7 +28995,6 @@ sijhtieh	mijjen	3
 noerh	jïjtjh	3
 daan	prosjekten	3
 noerh	daamtaj	3
-edtjh	ryöktesth	3
 lïhkemes	bijjebe	3
 biejjiej	raejesne	3
 bijjebe	klååkedh	3
@@ -29132,7 +29114,6 @@ suetiem	heerredieh	3
 golme	ovmessie	3
 datne	jearsoes	3
 båata	jis	3
-materijelle	kultuvren	3
 jaepiej	raajan	3
 tseegkemem	orre	3
 mijjese	vedtieh	3
@@ -29433,7 +29414,6 @@ gie	tjaelije	3
 lea	gusnie	3
 laavenjassi	tjïrrh	3
 viehkine	bïevnesh	3
-daate	soejkesje	3
 gæmhpoeh	mah	3
 veelebelaakan	goerehtidh	3
 datnem	haestedh	3
@@ -29565,7 +29545,6 @@ viehkiehtamme	guktie	3
 maehtedh	daam	3
 mubpie	lïhtse	3
 nöörjen	delegasjovnesne	3
-gaskestaateles	moenehtsisnie	3
 jïjtsh	laakh	3
 goh	musihke	3
 aktem	radtjoes	3
@@ -29639,7 +29618,6 @@ seksuelle	overgrep	3
 havikesne	vaadtseme	3
 saemien	ajve	3
 saemien	lïeri	3
-gåajkoe	sygkeldidh	3
 vuejnieh	dan	3
 jaepien	manne	3
 kreeki	bïjre	3
@@ -30134,7 +30112,6 @@ akt	stoerre	3
 gaahtoe	jïh	3
 jïh	voerhtje	3
 goerkesasse	jïh	3
-dievasčoahkkin	álgá	3
 lea	juolludan	3
 stoerretjåanghkose	goeven	3
 lea	laejhtehks	3
@@ -30160,6 +30137,7 @@ miljovnna	kruvnno	3
 dárogiel	hállamaáddenprográmmii	3
 nåakebe	funksjovnine	3
 baalhkam	åådtje	3
+kr	maeksedh	3
 daam	eatnemem	3
 evtiedimmie	aktede	3
 regional	arealpolitikk	3
@@ -30519,8 +30497,6 @@ ektiedimmine	årrodh	3
 voestes	jaepiem	3
 jeg	på	3
 daaroen	siebriedahkesne	3
-raeriestæjja	lena	3
-lena	susanne	3
 susanne	gaup	3
 gaaltijh	maehtieh	3
 maehtieh	mijjen	3
@@ -30708,7 +30684,6 @@ akte	vuj	3
 visuelle	vierhkievierhtieh	3
 voerkeslaakan	jïh	3
 identiteetem	hammoedieh	3
-visuelle	jïh	3
 reaktoe	tïjje	3
 julevsaemiengïele	daaroengïele	3
 råajvarimmiej	åvteste	3
@@ -30818,7 +30793,6 @@ hïejmedïenesje	jïh	3
 datnem	ohtsebe	3
 ohtsijh	tjuerieh	3
 jis	nyjsenæjjah	3
-i	pleie	3
 ved	sykeheimen	3
 og	omsorgstjenesten	3
 tjenesten	er	3
@@ -31147,7 +31121,6 @@ mah	sïerredimmiem	3
 riksdagen	beslutar	3
 beslutar	om	3
 samiske	bygslene	3
-argues	that	3
 pårørende	og	3
 annen	relevant	3
 aerpievuekien	barkoem	3

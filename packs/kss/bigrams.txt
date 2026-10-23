@@ -4,6 +4,7 @@ o	cho	549
 ŋ	nɔ	407
 cho	o	362
 ŋ	cho	360
+cho	ni	317
 te	a	297
 nyɛ	o	293
 vɛlɛ	a	286
@@ -29,14 +30,15 @@ naa	le	192
 lachi	a	192
 nɔ	ma	190
 le	mbo	186
-nɔ	yɛ	184
 wana	o	183
 o	wana	183
+nɔ	yɛ	183
 wanaa	cho	176
 o	wali	174
 o	ba	174
 te	o	171
 cho	naa	164
+o	nɛi	161
 mɛɛ	o	161
 wa	pɛ	159
 le	tosaa	156
@@ -55,7 +57,7 @@ a	wanaa	145
 niŋ	te	144
 wa	a	144
 ma	wa	142
-ma	tosa	140
+ma	tosa	139
 o	yɔŋ	139
 le	wanaa	139
 nduyɛ	mi	139
@@ -82,6 +84,7 @@ o	nɔ	116
 ndoo	nɔ	116
 le	ndu	114
 yɛ	le	111
+wo	le	110
 ma	sina	109
 baabuiyo	niŋ	108
 cho	a	108
@@ -127,6 +130,8 @@ niŋ	a	92
 mi	waŋnda	92
 kɛ	mi	92
 nda	wa	92
+tosa	wo	91
+tosaa	wo	91
 wa	yɛ	91
 kɛndɔɔ	dimioo	90
 naa	o	90
@@ -160,14 +165,15 @@ wo	niŋ	82
 chɛhowa	cho	81
 chɔm	maa	80
 waa	naa	80
-yɛ	ma	80
 yɔŋ	bɛɛ	80
 nɔla	mbo	79
 o	teleŋ	79
 le	sabu	79
+yɛ	ma	79
 niŋ	ni	79
 nyɛ	cho	78
 tosa	yɛ	78
+choo	wo	78
 ŋ	yeema	77
 le	waŋnda	77
 kɔl	dɛɛniaa	77
@@ -182,6 +188,7 @@ o	bɛnda	75
 baabuiyo	pɛɛkoo	75
 yauwo	hoo	75
 a	sɔɔŋ	74
+le	wo	74
 pɛɛku	yɛ	74
 nyinaa	wɔɔŋnda	74
 nyɛ	nda	74
@@ -274,6 +281,7 @@ bɛɛ	mi	57
 num	ma	57
 a	wana	56
 o	buŋgɛi	56
+wo	ni	56
 pɛ	maa	56
 nda	nɔ	55
 miŋ	nɔ	55
@@ -341,7 +349,6 @@ mbo	ke	47
 mi	ŋ	47
 te	waŋndo	47
 kposoŋ	te	47
-a	nyɛm	47
 soliŋ	kpeku	47
 waŋnda	haa	47
 maa	wanaa	47
@@ -355,6 +362,7 @@ waŋnda	apum	46
 tiindaŋndo	maa	46
 okɔɔ	le	46
 o	fondaŋ	46
+a	nyɛm	46
 cho	wɔ	46
 mɛɛ	mi	46
 cho	vɛlɛ	46
@@ -441,7 +449,6 @@ lɛŋndeŋ	choo	39
 hei	tosaa	39
 kpeku	o	39
 nda	kpou	39
-tuupa	ma	39
 mbo	chɔm	38
 tolɔɔ	kɔɔli	38
 koŋ	niŋ	38
@@ -463,6 +470,7 @@ yɛɛ	cho	38
 laŋ	niŋ	38
 o	lɛŋii	38
 kɔl	iyama	38
+tuupa	ma	38
 le	pɛɛkoo	38
 waa	lende	37
 kɔl	nyuloo	37
@@ -474,6 +482,7 @@ o	dimi	37
 naŋ	kɔl	37
 wanaa	nduaa	37
 okɔɔ	wa	37
+kɔllo	o	37
 koŋ	ni	37
 kunda	lekilisiɔŋndo	37
 naŋ	chɔm	37
@@ -493,6 +502,7 @@ o	ke	36
 kɛɛsiaa	le	36
 soo	a	36
 ndoo	yeema	36
+mɛlɛka	lo	36
 yuŋgu	ndɔɔ	36
 mɛlɛkaa	niŋ	36
 wanaa	nda	36
@@ -684,10 +694,12 @@ te	wo	28
 niŋ	mbo	28
 kpou	nɔ	28
 cho	lachi	28
+kɛsɛ	maa	28
 mi	pitɛ	28
 kua	o	28
 ma	kandu	28
 chɛlaŋ	a	28
+wo	wa	28
 dimioo	wo	28
 ŋ	soliŋ	28
 waŋnda	le	28
@@ -779,6 +791,7 @@ o	pilɛ	25
 mɛlɛkaleŋ	okɔɔ	25
 hei	tosa	25
 o	chilaŋ	25
+bɔɔ	le	25
 ndu	maa	25
 chɛl	le	25
 yoomu	ndɔɔ	25
@@ -866,7 +879,6 @@ mɛɛ	a	23
 mbo	miiŋgu	23
 pɛ	aa	23
 wa	wɔ	23
-wa	nɔ	23
 o	kpele	23
 o	sina	23
 kɔndɔfillo	bii	23
@@ -902,6 +914,7 @@ waŋnda	pɛɛkoo	22
 masale	ndɔleŋ	22
 waŋndo	o	22
 tosaa	ni	22
+wa	nɔ	22
 wanaa	cheleŋ	22
 chii	niŋ	22
 mbo	soli	22
@@ -1015,7 +1028,6 @@ wo	dimi	20
 o	miiliɔŋndaŋ	20
 pɛɛku	nda	20
 le	woŋ	20
-tosa	kɛɛsiaa	20
 soliŋ	yɛ	20
 kala	ndɔ	20
 tasoŋ	niŋ	20
@@ -1025,7 +1037,6 @@ niŋndo	cho	20
 kindiŋndo	le	20
 wana	fee	20
 pa	maa	20
-nyɛm	cho	20
 a	pɛɛku	20
 nda	pɛ	20
 wana	wa	20
@@ -1054,7 +1065,6 @@ o	pulale	20
 ŋ	yiyaŋ	20
 nyɛ	nɛiyaa	20
 mbo	kua	20
-mi̍	mɛ̄lɛ̄ka̍	19
 ŋ	kaala	19
 miŋ	kɛsiŋ	19
 ndɔ	wo	19
@@ -1071,6 +1081,7 @@ nda	dimi	19
 miiliɔŋndaŋ	niŋ	19
 piɛi	ndu	19
 suu	o	19
+tosa	kɛɛsiaa	19
 kuɛɛ	choo	19
 diom	ndɔɔ	19
 mbo	yiyaŋ	19
@@ -1080,6 +1091,7 @@ o	intanɛtiiyo	19
 kpaaya	ndɔɔ	19
 ndaa	niŋ	19
 ma	nyuna	19
+nyɛm	cho	19
 le	waŋchieeya	19
 o	laalaŋndo	19
 kɔɔna	chɛhowaa	19
@@ -1113,7 +1125,6 @@ le	kɔl	19
 koŋ	ndo	19
 yɛɛ	chiisu	19
 mi	deeve	19
-sɔla	pɔyaŋndo	19
 naa	nda	18
 hɛnaŋ	mɛlɛkaa	18
 nduaa	o	18
@@ -1190,6 +1201,7 @@ naa	malaa	18
 walta	nyinaa	18
 wɔɔŋnda	okɔɔ	18
 nyɔŋ	okɔɔ	18
+sɔla	pɔyaŋndo	18
 chi̍e̍ēŋndo̍	chōo̍	17
 ŋ	che	17
 wana	chioo	17
@@ -1306,7 +1318,6 @@ yiyaŋ	naa	17
 i	yeema	17
 nda	sɔla	17
 nyina	diandaa	17
-nyɛ̄	wa̍wo̍ŋndo̍	16
 ŋ	cha	16
 wana	lanɔɔ	16
 tosaa	wa	16
@@ -1355,6 +1366,7 @@ ya	ni	16
 num	te	16
 puaa	haa	16
 dimul	wanaa	16
+suɛi	mɛlɛkɛi	16
 sawala	mandaala	16
 wo	chɔm	16
 wallo	kalaŋ	16
@@ -1419,6 +1431,7 @@ le	pɛɛku	16
 ɔɔ	miŋ	16
 ŋwaŋnda	chiee	16
 chiisu	miiŋgu	16
+nyɛ̄	wa̍wo̍ŋndo̍	15
 pɔnɔɔ	a	15
 suu	waa	15
 suɛi	kɛndɛ	15
@@ -1468,6 +1481,7 @@ mala	wanaa	15
 ma	piɛi	15
 a	mala	15
 hei	chɔm	15
+nyina	mɛlɛkaa	15
 chɛleŋ	niŋ	15
 piɛile	tonyaleŋ	15
 wali	ndɔɔ	15
@@ -1480,10 +1494,12 @@ sinaa	mɛɛ	15
 ŋ	looku	15
 le	muŋ	15
 chiisu	o	15
+niŋ	naŋ	15
 woŋ	okɔɔ	15
 a	boondii	15
 ndɔɔ	okɔɔ	15
 ve	cho	15
+niŋ	kpou	15
 o	yiyaŋ	15
 yaŋɔɔ	wa	15
 piɛi	o	15
@@ -1531,7 +1547,6 @@ teleŋndo	le	15
 pɛɛku	maa	15
 mi	choosɛ	15
 le	nɔɔ	15
-nyɛ̄	o̍	14
 wana	pɔnɔɔ	14
 laŋ	te	14
 chɔm	vɛlɛ	14
@@ -1592,6 +1607,7 @@ kindi	tiindaŋ	14
 loo	o	14
 che	ndu	14
 vɛɛ	ya	14
+kuɛ	a	14
 wanaa	o	14
 yeema	mbo	14
 kilisiɔŋaa	tonyaa	14
@@ -1673,6 +1689,7 @@ o	dialloŋ	14
 bii	nyɛ	14
 toosiaa	nyɔɔŋ	14
 nɔɔ	chuaa	14
+nyɛ̄	o̍	13
 ɔɔ	nyɛ	13
 miŋ	kpakpala	13
 wo	bɛɛ	13
@@ -1848,7 +1865,6 @@ wana	chieeyɛi	12
 suɛi	kɔl	12
 waa	ndoo	12
 nyɛpalaa	wa	12
-yɛɛ	wanaa	12
 o	waalaŋ	12
 yɛɛ	tosa	12
 a	nyuna	12
@@ -1939,6 +1955,7 @@ yɛɛ	okɔɔ	12
 nyindu	yɛ	12
 ma	yeema	12
 naapum	a	12
+dimul	num	12
 mi	siooŋnde	12
 nyɛ	mala	12
 o	biyɔɔ	12
@@ -2000,14 +2017,12 @@ diompilɛ	a	12
 muŋ	tosaa	12
 a	nyɔɔŋ	12
 muŋ	kpeku	12
-mɛlɛka	wa	12
 yiyaŋndo	maa	12
 le	nyinaa	12
 ŋ	bii	12
 mī	ŋ̄	11
 o̍	nyɛ̄	11
 ŋ	ke	11
-mi̍	chɔ	11
 a	lanɔɔ	11
 tosa	laŋ	11
 nɔ	naa	11
@@ -2030,6 +2045,7 @@ bɛɛ	nɔla	11
 kɔl	numndo	11
 kɛndɔɔ	le	11
 mi	nyɛpalaa	11
+yɛɛ	wanaa	11
 sɔla	piɔmndo	11
 waalaŋ	niŋ	11
 te	koŋ	11
@@ -2194,6 +2210,7 @@ chiisu	pɛɛku	11
 kɛndɛ	kɛndɛ	11
 chuaa	wa	11
 miŋ	soo	11
+mɛlɛka	wa	11
 o	yiyaŋnda	11
 wɔɔŋ	te	11
 iyama	naa	11
@@ -2202,9 +2219,9 @@ lɛfitikɔɔ	wo	11
 a	sɔvɛ	11
 le	yiyaŋnda	11
 sakpo	wo	11
+mi̍	mɛ̄lɛ̄ka̍	10
 ndu̍	cho̍	10
 a̍	ndu̍	10
-mi̍	chi̍i̍sū	10
 a̍	mɛ̄ɛ̍	10
 nɔ	kuee	10
 ŋ	chɛl	10
@@ -2324,6 +2341,7 @@ kunda	wanaa	10
 le	wɔsila	10
 waŋchieeya	le	10
 wali	ndɔ	10
+chɔ	le	10
 bɛndu	cho	10
 o	lehɔl	10
 masa	bɛndoo	10
@@ -2448,6 +2466,7 @@ a	chuauwaa	10
 chɔm	balika	10
 ndaa	kpou	10
 yɛ	mɛɛ	10
+laalaŋ	kɛsɛ	10
 yɛ	yɛ	10
 mɛlɛkaa	pɛɛkoo	10
 mi	naŋ	10
@@ -2485,7 +2504,6 @@ kooma	sala	10
 buɛiyaa	malalaŋnda	10
 yɔɔyaa	ŋwaŋnda	10
 o̍	ko̍ŋ	9
-ō	wa̍	9
 nɛi	kaalaa	9
 kaalaa	niŋ	9
 keŋ	cho	9
@@ -2827,6 +2845,7 @@ a	koowaŋ	9
 sala	hiɔɔluaŋ	9
 tonya	i	9
 wana	yɔɔyaa	9
+ō	wa̍	8
 ya̍	i̍	8
 wo̍	ni̍	8
 mī	lā	8
@@ -2863,7 +2882,6 @@ yɔŋnuŋ	te	8
 wana	ve	8
 hei	ve	8
 pa	a	8
-wanaa	sɔla	8
 yɛɛ	mɛlɛka	8
 kani	bɛɛ	8
 nyɛpalaa	cho	8
@@ -3094,6 +3112,7 @@ buɛiyaa	ibuŋgaa	8
 naa	kioo	8
 wanaa	kaŋ	8
 pɔɔl	a	8
+yau	o	8
 o	kɔfu	8
 kɔfu	nyɛm	8
 pa	chɔɔ	8
@@ -3239,13 +3258,12 @@ lemasaa	wa	8
 beediiyo	nduyɛ	8
 kol	muɛima	8
 muɛima	loonuŋyaa	8
-pɔyaŋndo	wa	8
 yoole	mapuululeŋ	8
 pāa̍le̍ŋ	lē	7
 dīōla̍ŋ	āā	7
 a̍	nyɛ̄	7
-ō	cho̍	7
 māā	ō	7
+mi̍	chɔ	7
 ŋ	ndo̍	7
 le̍	nyɛ̄	7
 kpeekpei	a	7
@@ -3282,6 +3300,7 @@ vɛɛ	mɛlɛka	7
 kuɛɛ	komallɛ	7
 pum	niŋ	7
 a	chuaambuaa	7
+wanaa	sɔla	7
 bɛndu	koŋ	7
 waŋnda	nyuna	7
 nda	tau	7
@@ -3446,6 +3465,7 @@ malaŋ	nda	7
 a	miiŋgu	7
 ndaŋ	a	7
 vɛɛ	kɔllo	7
+nuaa	yɛ	7
 o	va	7
 chum	le	7
 kaala	kpeekpeiyo	7
@@ -3473,6 +3493,7 @@ dimioo	aa	7
 po	itoopiaanɔɔ	7
 nduaa	aa	7
 nda	buɛiyaa	7
+sina	chɛhowa	7
 baabuiyo	niŋndaŋ	7
 duau	tiindaŋndo	7
 hakioo	niŋ	7
@@ -3523,6 +3544,7 @@ kanduŋ	a	7
 kɔɔfaa	teŋgeŋnda	7
 naŋ	che	7
 ndɔɔ	tosaa	7
+a	kilisiɔŋaa	7
 sala	yaa	7
 kpeku	wo	7
 waliŋ	naŋ	7
@@ -3545,7 +3567,6 @@ hiau	niŋ	7
 hunɔɔ	le	7
 paandu	le	7
 baabuileŋ	ndeŋ	7
-of	the	7
 o	bɛndu	7
 poonyiaa	diola	7
 veelu	chiisu	7
@@ -3754,6 +3775,7 @@ o	nya	7
 maalikɛinɔɔ	dimul	7
 pɔyaŋnda	nɔ	7
 dia	beediiyo	7
+pɔyaŋndo	wa	7
 le	bɔŋaŋndo	7
 maa	nyɔɔŋ	7
 yil	nya	7
@@ -3765,9 +3787,9 @@ o̍	lɛ̄ŋndē	6
 mbo̍	dīmī	6
 mɛ̄lɛ̄ka̍	tōōsīāā	6
 mɛ̄lɛ̄ka̍	wo̍	6
+ō	cho̍	6
 ndu̍	o̍kɔ̄ɔ̄	6
 o̍kɔ̄ɔ̄	wo̍	6
-ō	chō	6
 cho̍	wāna̍	6
 i̍	cho̍	6
 ŋ	lo	6
@@ -3811,6 +3833,7 @@ nyɛ	la	6
 nya	tosa	6
 nyuna	yɛ	6
 o	sɛi	6
+keŋ	nde	6
 pila	cho	6
 lɛŋndeŋ	le	6
 mi	mɔnɛi	6
@@ -3981,7 +4004,6 @@ ndaa	fula	6
 ve	nyɛ	6
 mi	kunda	6
 muŋ	chɔm	6
-teleŋ	mɛlɛka	6
 fafɛɛŋndo	sɔlaa	6
 buŋgɛi	keŋ	6
 kpɛ	o	6
@@ -4343,6 +4365,7 @@ numndo	choo	6
 ma	buulaŋ	6
 pa	wanaa	6
 mi	kɛɛ	6
+kindiŋ	kpoke	6
 ma	simul	6
 choo	mala	6
 kpɛɛluŋ	o	6
@@ -4431,7 +4454,6 @@ a	yuei	6
 mɛɛlula	chieeŋndo	6
 pila	nda	6
 cho	chua	6
-ma	fafaŋ	6
 lɛ	nda	6
 wa	hɔŋndo	6
 yulu	iso	6
@@ -4485,20 +4507,22 @@ nda̍	a̍a̍	5
 le̍	mī	5
 mɛ̄lɛ̄ka̍	ya̍a̍wɛ̄ɛ̄	5
 ā	chō	5
+ŋ	o̍	5
 nda̍	vēēlū	5
 ho̍ō	ō	5
 cho̍	ho̍ō	5
 mɛ̄ɛ̍	o̍	5
 o̍	cho̍	5
 mɛ̄ɛ̍	mɛ̄lɛ̄ka̍	5
+ō	chō	5
 le̍	mā	5
 ŋ̄	chō	5
 nda̍	āā	5
 le̍	wāŋnda̍	5
 ndu̍	āā	5
 le̍	mɛ̄lɛ̄ka̍	5
-dīi̍mā	ndɔ̄ɔ̍	5
 ā	wa̍	5
+mi̍	chi̍i̍sū	5
 ŋ̄	wa̍	5
 a	lanɔ	5
 kilisiɔŋnɔɔ	nɔ	5
@@ -4640,7 +4664,6 @@ ndaa	tosaa	5
 yɔŋnda	ndala	5
 ndala	wɔɔŋndaŋ	5
 wɔɔŋ	nda	5
-kɛɛsiaa	hoo	5
 wu	ŋdial	5
 ŋdial	o	5
 kaala	wa	5
@@ -4751,6 +4774,7 @@ cho	finya	5
 ndɔ	kɛndɔɔ	5
 o	takpa	5
 biyɔɔ	wo	5
+bɛndoo	wo	5
 yɔmndo	choo	5
 tiindaŋ	naŋ	5
 waŋchieeya	nɔ	5
@@ -4762,6 +4786,7 @@ kɔllo	sikpa	5
 a	piɔm	5
 kpeekpei	maa	5
 wanaa	fula	5
+teleŋ	mɛlɛka	5
 tei	mbo	5
 mi	kuɛ	5
 mi	kɔllo	5
@@ -4811,6 +4836,7 @@ kɔndɔfili	nɔ	5
 la	pɛɛku	5
 yuŋgoo	niŋ	5
 baabuileŋ	le	5
+buɛiyaa	ndɔ	5
 tɔɔ	le	5
 hiou	kpou	5
 deeve	finya	5
@@ -5011,7 +5037,6 @@ feleŋguaa	o	5
 nyɛ	sɔviɔɔ	5
 yɛ	lepum	5
 bɛnda	kpou	5
-translation	of	5
 baabuilaŋ	lapum	5
 ma	faŋa	5
 yɛɛ	kpeekpei	5
@@ -5086,6 +5111,7 @@ hau	le	5
 nduaa	ndaa	5
 le	yɔŋnɔŋndo	5
 a	suukaŋ	5
+sabula	ndɔlaŋ	5
 ma	pisi	5
 laŋ	laa	5
 le	ve	5
@@ -5132,6 +5158,7 @@ mɛlɛkaa	chɔm	5
 niŋndo	nɔ	5
 mbo	pilaŋ	5
 bahawɛila	naalaŋ	5
+nda	nduyɛ	5
 buulaŋndo	le	5
 kaala	ndoo	5
 hiou	ve	5
@@ -5440,6 +5467,7 @@ o	vidueiyo	5
 cho	simnɔŋ	5
 mbo	tiu	5
 tiu	kɔl	5
+ma	fafaŋ	5
 chɛhowaa	kɔɔli	5
 yɛɛ	pitɛ	5
 hueiyii	wa	5
@@ -5523,7 +5551,6 @@ wa̍	o̍	4
 o̍	fo̍ndāŋ	4
 dīmī	āā	4
 o̍	bā	4
-ŋ	o̍	4
 ō	nda̍	4
 vēēlū	āā	4
 wa̍	ni	4
@@ -5532,30 +5559,25 @@ ndu̍	wa̍	4
 wa̍wo̍ŋndo̍	ho̍ō	4
 nyūmnda̍ŋ	mā	4
 ŋ	ni̍	4
-wāna̍	cho̍	4
 mbo̍	tōōsīāā	4
 ŋ	a̍	4
 a̍	chɛ̍l	4
-wāŋnda̍	ā	4
 o̍	ndu̍	4
 ndu̍	ni̍ŋ	4
 chōo̍	cho̍o̍	4
 mbo̍	wā	4
 ŋ	wānā	4
-mbo̍	dīmūl	4
 mɛ̄lɛ̄ka̍	chu̍a̍	4
 chu̍a̍	būŋgɛ̄i̍	4
 wāna̍	su̍a̍ā	4
 te̍	cho̍	4
 ndu̍	kɔ̄ɔ̄lī	4
 ndu̍	o̍o̍	4
-mi̍	bu̍ɛ̍i̍yāā	4
 mi̍	pāa̍le̍ŋ	4
 o̍	yɔ̄m	4
 chi̍i̍sū	to̍sa̍	4
 kāla̍	ndɔ̄	4
 le̍	wāa̍	4
-mɛ̄ɛ̍	nda̍	4
 yāu̍	mɛ̄lɛ̄ka̍a̍	4
 ŋ̄	tōsa̍	4
 mbo	tosal	4
@@ -5727,6 +5749,7 @@ bɛnduaa	lo	4
 kɛɛsiaa	ni	4
 chal	a	4
 wɔɔŋ	wɔɔŋndaŋ	4
+kɛɛsiaa	hoo	4
 buɛiyaa	mɛlɛkaa	4
 cho	siŋgaŋndaŋ	4
 sɔla	yoomuaŋ	4
@@ -5776,7 +5799,6 @@ mi	isikiaa	4
 yooŋgu	mɛlɛkaa	4
 mi	daaniɛɛ	4
 sɔvɛlaŋ	le	4
-choŋ	choŋ	4
 suɛi	sɔvɛi	4
 tɛɛsiaa	le	4
 i	sɔvɛ	4
@@ -5792,6 +5814,7 @@ hiouwɔɔ	choo	4
 kpɛɛluŋ	ni	4
 lakɔ	o	4
 maaŋndo	niŋ	4
+lo	wa	4
 wa	kindiŋ	4
 nda	nyɛpalaa	4
 tuisi	choo	4
@@ -5860,7 +5883,6 @@ o	kpeŋgbei	4
 chal	ndu	4
 te	hei	4
 ma	hini	4
-bɛndoo	wo	4
 a	paŋgii	4
 miiŋguŋ	o	4
 poonyiaa	ni	4
@@ -6420,7 +6442,6 @@ sandei	o	4
 yɛ	batiuwaa	4
 kaa	chiisoo	4
 bii	bahawɛila	4
-nda	nduyɛ	4
 dimioo	niŋ	4
 nyiɛɛye	chɔmndo	4
 nduyɛ	kaala	4
@@ -6462,6 +6483,7 @@ bɔɔ	kɔllo	4
 bɛndu	ŋ	4
 kɛɛ	naa	4
 sɔla	tau	4
+wa	chɛl	4
 waŋnda	chua	4
 yooŋgu	naŋ	4
 cho	saŋgaa	4
@@ -6522,6 +6544,7 @@ fondaŋ	ŋ	4
 dimioo	hoo	4
 wa	ɔɔ	4
 ke	chuauwaa	4
+hɔlteŋ	kɔɔli	4
 feleŋguaa	naŋ	4
 komal	niŋ	4
 kɛsi	kpeleŋndaŋ	4
@@ -6645,6 +6668,7 @@ chɛhowaa	bɛŋgu	4
 tambɛilaŋ	nda	4
 ma	tul	4
 a	salala	4
+sɔlaa	wa	4
 o	handu	4
 kɔl	tuuwo	4
 nɛiyo	o	4
@@ -6688,6 +6712,7 @@ kala	o	4
 wallo	yɛ	4
 a	maŋ	4
 dialuŋ	pilɔŋ	4
+pilɔŋ	niŋ	4
 lɛŋii	bɔɔbɔɔ	4
 wo	fula	4
 ni	ɔɔ	4
@@ -7028,7 +7053,6 @@ kpeleŋnda	kuɛɛ	4
 naa	yoomuaŋ	4
 hiɔɔluaŋ	niŋndo	4
 maa	ndaa	4
-kooma	niaŋ	4
 de	saŋga	4
 wali	numndo	4
 suliŋ	le	4
@@ -7097,6 +7121,7 @@ suɛi	kulle	4
 bɛɛ	chua	4
 pɔyaŋndo	le	4
 siiŋguu	waŋnda	4
+waŋnda	buɛiyaa	4
 waŋndo	pɛɛkoo	4
 kandu	dɔɔ	4
 naalaŋ	te	4
@@ -7160,21 +7185,22 @@ nda̍	o̍	3
 ŋ	chu̍a̍u̍wāā	3
 ŋ	nda̍	3
 cho̍	ni̍	3
-mi̍	ō	3
 mbo̍	hu	3
 ho̍ō	ni	3
 na̍a̍	wo̍	3
 mbo̍	chɔ̄m	3
 ho̍ō	ni̍	3
 ō	bɛ̄ndū	3
+wāna̍	cho̍	3
+mɛ̄lɛ̄ka̍	po̍	3
 wāŋndā	chīe̍e̍ya̍	3
 wāna̍	mɛ̄lɛ̄ka̍	3
 wānā	yi̍ŋāa̍	3
-mi̍	wānāā	3
 chīɛ̍i̍	mɛ̄lɛ̄ka̍a̍	3
 mɛ̄lɛ̄ka̍a̍	ni	3
 chō	yɛ̄	3
 ndu̍	pi̍la̍	3
+mbo̍	dīmūl	3
 cho̍	ya̍	3
 ya̍	le̍	3
 būŋgɛ̄i̍	māā	3
@@ -7191,9 +7217,7 @@ wāŋnda̍	yīŋɔ̄ɔ̍	3
 mɛ̄lɛ̄ka̍a̍	ni̍	3
 cho̍	wo̍	3
 mi̍	lā	3
-mi̍	cha	3
 di̍mu̍l	nya̍	3
-chi̍i̍sū	wa̍	3
 nda̍	ā	3
 cho̍	o̍	3
 lɛ̄ŋndē	kāli̍līle̍ŋ	3
@@ -7201,12 +7225,12 @@ kāli̍līle̍ŋ	ni	3
 mi̍	fi̍li̍pī	3
 o̍	yāu̍	3
 bɛ̍ɛ̍	a̍	3
-mi̍	nāta̍nīɛ̄l	3
+po̍	ndɔ̄ɔ̍	3
 chi̍i̍sū	āā	3
 mā	tūāl	3
 o̍	bɔ̄ŋa	3
-ke̍nā	chi̍e̍e̍	3
 chi̍i̍sū	kāla̍	3
+mɛ̄ɛ̍	nda̍	3
 ŋ	ni	3
 ni̍ko̍	mī	3
 ŋndo̍	bōlle̍ŋ	3
@@ -7217,11 +7241,10 @@ wānāa̍	wa̍	3
 māā	chi̍i̍su̍	3
 chi̍i̍su̍	cho̍	3
 wā	le̍	3
-yāu̍wo̍	ho̍ō	3
-cho̍	ī	3
-ī	pōōnyīāā	3
 pōōnyīāā	a̍	3
+wāŋnda̍	ā	3
 yɛ̍	ni̍	3
+dīi̍mā	ndɔ̄ɔ̍	3
 a̍	chɔ̄mnɔ	3
 wo̍	o̍kɔ̄ɔ̄	3
 mɛ̄lɛ̄ka̍	kē	3
@@ -7813,7 +7836,6 @@ yɔŋi	nya	3
 ɔɔ	nyɛla	3
 baa	kalaŋ	3
 a	tambu	3
-aa	ei	3
 kɛsiŋ	hei	3
 tuei	niŋ	3
 wana	bɔɔbɔɔ	3
@@ -7854,6 +7876,7 @@ pɛɛkoo	tonya	3
 miŋ	tiuba	3
 chiisu	wu	3
 vaa	o	3
+ndɔlaŋ	yɛ	3
 dɔu	nyɛ	3
 nya	mala	3
 vɛlɛ	tiindaŋndo	3
@@ -8020,7 +8043,6 @@ wali	keŋnuŋ	3
 kɔl	kɔɔli	3
 kɛndiaa	wa	3
 bɔɔbɔɔ	ma	3
-toosiaa	a	3
 okoŋ	ŋ	3
 ndaa	dimul	3
 sina	o	3
@@ -8074,8 +8096,6 @@ dimul	chaaŋ	3
 ndɔ	kɛndɛ	3
 saboo	cho	3
 simnuŋ	kilisiɔŋnda	3
-ka	ka	3
-ka	a	3
 bɛɛ	yoomu	3
 bɔŋaŋ	naŋ	3
 lɔɔ	tɛɛŋndo	3
@@ -8206,6 +8226,7 @@ dimi	isɔɔ	3
 kɔndɔfillo	cho	3
 mi	hɛnaŋ	3
 che	niko	3
+niŋ	sim	3
 yɛ	lewundu	3
 buɛiyaa	pɔyaŋaa	3
 masanɔɔ	ke	3
@@ -8519,7 +8540,6 @@ chɛl	niŋ	3
 bɔɔbɔɔ	naŋ	3
 malaa	wa	3
 ndi	tɛtɛlɛ	3
-wa	chɛl	3
 tonyaa	naa	3
 pɛ	yiyaŋ	3
 tofa	buŋgɛi	3
@@ -8889,6 +8909,8 @@ kɛɛ	suɛi	3
 leya	cho	3
 nda	finya	3
 diompilɛ	ma	3
+kpaayaa	woŋ	3
+dɔu	kɔllo	3
 chua	koŋ	3
 bɛɛle	yiŋgoloŋndeŋ	3
 luehobowam	ndo	3
@@ -9418,6 +9440,7 @@ hɔŋndo	o	3
 viou	tiŋ	3
 kandu	mɔɔvaa	3
 peluŋ	ndɔŋ	3
+naa	kpaayaa	3
 o	maŋ	3
 hɔlla	hiŋndo	3
 mɛɛ	wali	3
@@ -9480,7 +9503,6 @@ a	kaalaŋ	3
 kpeleŋ	numndo	3
 a	teleŋnda	3
 koŋ	dimi	3
-nduɛi	yo	3
 duau	yɛ	3
 ndi	ni	3
 poonyiaa	pɛ	3
@@ -9547,15 +9569,10 @@ kposoŋ	mi	3
 kuee	le	3
 mi	maatiu	3
 hoo	kandu	3
-mi̍	nyūmnda̍ŋ	3
 ō	wā	3
-mɛ̄lɛ̄ka̍	chā	3
-chā	māā	3
 o̍	to̍o̍si̍a̍a̍	3
-mbo̍	kē	3
 lē	sīā	3
 mɛ̄ŋnda̍ŋ	tɛ̄ɛ̄ŋ	3
-mi̍	ī	3
 ŋ	mā	3
 lɛ̄ŋnde̍ŋ	lē	3
 chu̍u̍lū	mī	3

@@ -1,6 +1,6 @@
 # Bigrammes dnj (FineWeb-2 dnj_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-ya	kë	1210
+ya	kë	1209
 ö	tɔɔ	1178
 ka	bhë	890
 wo	bhë	768
@@ -18,7 +18,7 @@ ka	ka	427
 kë	ka	415
 dhö	bhë	412
 kwa	dëmɛ	405
-ö	yesu	405
+ö	yesu	404
 go	mü	388
 yaa	kë	370
 wo	wo	356
@@ -96,10 +96,10 @@ zo	yö	135
 ö	bhii	133
 nu	kë	132
 bha	tɔng	131
-nɛ	pë	130
+nɛ	pë	129
 yuö	kë	129
-a	nu	128
 wo	ka	127
+a	nu	127
 wo	go	127
 dhʋ̈	bha	124
 kɔ	bhë	123
@@ -134,6 +134,7 @@ yö	kwa	102
 dho	n	102
 pö	mɛ	101
 yö	yesu	99
+dhɛɛ	kpɔ	99
 kë	ü	98
 bha	pë	97
 bha	yuö	97
@@ -160,6 +161,7 @@ yesu	klisi	83
 dho	to	82
 wo	yesu	82
 pö	ö	82
+blɛɛ	ka	82
 bhë	kö	81
 dhɔ	kë	81
 bɔ	ka	81
@@ -198,15 +200,16 @@ bha	zian	69
 ö	atanna	69
 dho	go	68
 a	dɔ	67
-de	gia	67
 bhë	yaa	67
 kwa	kwa	67
 nɛ	ü	67
+de	gia	66
 kɛɛ	pë	65
 wo	pë	64
 tosiadhe	kë	64
 ü	bha	64
 dho	mɛ	64
+blɛɛ	mɛ	64
 ö	zuifö	64
 mɛ	ziizii	64
 ka	nu	63
@@ -214,7 +217,6 @@ nu	ziën	63
 dho	ü	63
 dhɛ	yesu	63
 kɛɛ	kë	63
-blɛɛ	mɛ	63
 ö	piɛɛ	63
 bha	bha	63
 ka	pë	62
@@ -273,6 +275,8 @@ kɔ	yaa	51
 zlan	gbö	51
 nu	ö	51
 dhɛ	kö	51
+blɛɛ	bhë	50
+yaa	ö	50
 ka	dɔ	50
 kɛɛ	a	50
 ya	n	50
@@ -289,6 +293,7 @@ gü	mü	49
 wo	do	48
 dɔ	bhë	48
 ö	gbö	48
+dhia	bhë	48
 na	n	48
 nu	bha	48
 dhang	bho	48
@@ -383,7 +388,6 @@ mü	n	38
 ya	ga	38
 dhö	waa	38
 de	kë	38
-iin	mɛ	38
 pë	kë	37
 gbo	bɔ	37
 an	zë	37
@@ -396,6 +400,7 @@ yö	gia	37
 pë	mɛ	37
 an	sü	37
 dɔ	ö	37
+iin	mɛ	37
 yö	atanna	37
 waa	wo	36
 tɔ	bhɔ	36
@@ -418,6 +423,7 @@ kë	zuifö	35
 bha	yö	35
 ö	dë	35
 n	dɔ	35
+kaa	bhë	34
 dhö	do	34
 nɛ	ö	34
 na	kö	34
@@ -449,9 +455,11 @@ dɔ	ka	32
 ka	dë	32
 kö	ü	32
 nu	dho	32
+yaa	mɛ	32
 ü	dho	32
 yi	do	32
 to	bhë	32
+kaa	ka	32
 pɔlö	waa	32
 dhiang	zë	32
 gü	do	31
@@ -494,6 +502,7 @@ zlan	dɔ	29
 gɔ	zian	29
 ma	kö	29
 an	bho	29
+këng	do	29
 ka	yi	29
 kwɛɛ	kö	29
 kɛɛ	yesu	29
@@ -574,8 +583,10 @@ ya	ü	25
 go	kwa	25
 sü	yö	25
 lo	ö	25
+zian	bhë	25
 ma	mɛgbö	25
 yö	kun	25
+mɛɛ	kö	25
 bhë	mɛ	25
 n	yö	25
 gü	ka	25
@@ -652,6 +663,7 @@ dhö	kwa	21
 dhe	waa	21
 bhii	a	21
 kë	slabhomɛ	21
+taa	bhë	21
 wa	ka	21
 dɔ	wo	21
 a	wo	21
@@ -680,6 +692,7 @@ dho	ma	21
 kö	atanna	21
 wo	gbɛ	21
 kë	zlöö	20
+bɔa	yesu	20
 bha	slabhomɛ	20
 a	züdɔyi	20
 nu	gbɛ	20
@@ -808,6 +821,7 @@ n	kwɛɛ	17
 zë	bhë	17
 a	këpë	17
 bhii	yö	17
+kaa	kö	17
 ka	bhɔ	17
 kɛɛ	kwa	17
 bhɔ	mɛ	17
@@ -838,7 +852,6 @@ yaan	yöë	16
 na	ö	16
 an	dha	16
 gü	wo	16
-zian	bhë	16
 tɛɛ	pa	16
 na	zlöö	16
 kwa	dheglu	16
@@ -880,6 +893,7 @@ ya	sü	15
 ziö	ka	15
 dhö	pë	15
 ö	dü	15
+kaa	n	15
 nu	kun	15
 ö	izlaɛlö	15
 ö	mali	15
@@ -969,6 +983,7 @@ bhaa	gbɛ	14
 wo	zude	14
 ta	ö	14
 waa	yesu	14
+kwaa	ka	14
 n	bun	14
 bho	ö	14
 ö	pëga	14
@@ -1008,6 +1023,7 @@ bhɛa	yesu	13
 lo	yesu	13
 kë	zeluzalɛmë	13
 wo	yaa	13
+bɔa	ö	13
 nu	nu	13
 pë	dho	13
 plɛ	ka	13
@@ -1063,6 +1079,7 @@ naa	bhë	12
 ziö	pë	12
 ya	pa	12
 wo	kpö	12
+yaa	bhë	12
 bhö	n	12
 kɔɔ	kö	12
 wodhiölomɛ	ezai	12
@@ -1119,7 +1136,6 @@ yöö	do	12
 dhɛ	a	12
 sië	ka	12
 atanna	gbö	12
-kaa	bhë	11
 kwaa	bhë	11
 ziö	kwa	11
 sa	kö	11
@@ -1127,7 +1143,6 @@ wo	dha	11
 pë	bho	11
 tɔbhɔdhe	waa	11
 bhɔ	ka	11
-blɛɛ	ka	11
 da	wo	11
 yi	bho	11
 waan	pë	11
@@ -1182,7 +1197,6 @@ pö	waa	11
 kan	ka	11
 nu	zeluzalɛmë	11
 ö	bhi	11
-yesu	yö	11
 wo	kö	11
 yö	gun	11
 piʋ̈	bha	11
@@ -1244,6 +1258,7 @@ kwa	bun	10
 kpa	klito	10
 ö	satan	10
 waan	ka	10
+kaa	mɛ	10
 an	dë	10
 ya	za	10
 n	dhe	10
@@ -1257,7 +1272,6 @@ baanabasö	waa	10
 ka	zeluzalɛmë	10
 to	yesu	10
 zë	kë	10
-kaa	ka	10
 nɛ	tɔng	10
 wo	bo	10
 gɔ	dho	10
@@ -1274,6 +1288,7 @@ dhiö	ö	10
 kë	zii	10
 zü	ö	10
 nu	giagia	10
+yesu	yö	10
 gwaa	kë	10
 zo	bho	10
 ya	yesu	10
@@ -1313,11 +1328,14 @@ slööslö	bhë	9
 ü	bun	9
 ka	moizö	9
 wo	giagia	9
+blɛɛ	yi	9
 gü	ü	9
 pa	bhë	9
 a	bhɔ	9
+blɛɛ	ö	9
 gɔ	plöö	9
 ö	yië	9
+dhië	ö	9
 yi	kpö	9
 go	gɔɔn	9
 bha	ü	9
@@ -1340,7 +1358,6 @@ yuö	bhë	9
 potaasü	nu	9
 kë	dëmɛ	9
 dha	bhë	9
-kaa	kö	9
 ka	yaagümɛ	9
 kan	n	9
 së	bhë	9
@@ -1357,7 +1374,6 @@ a	dɔa	9
 ma	yuö	9
 zeluzalɛmë	bhë	9
 dhë	n	9
-kwaa	ka	9
 ka	dhegluzë	9
 ka	kun	9
 ü	dhe	9
@@ -1396,6 +1412,7 @@ plüün	bho	9
 në	dho	9
 nuë	bhë	9
 wo	waa	9
+bhɛa	ka	9
 sü	do	9
 bha	këwun	9
 wo	i	9
@@ -1410,10 +1427,10 @@ ka	zakanmɛ	9
 suö	mɛ	9
 kë	i	9
 gasitɛ	kë	9
-yi	bha	9
 dhɛkpaɔ	dhia	9
 gbö	bha	9
 mü	i	9
+faan	nu	8
 yaan	n	8
 oo	pë	8
 bɔ	wo	8
@@ -1459,6 +1476,7 @@ kpö	bhë	8
 waan	pö	8
 yö	zö	8
 waan	ü	8
+kwaa	wo	8
 tɔbhɔdhe	nu	8
 wa	bɔ	8
 mü	zlöö	8
@@ -1495,6 +1513,7 @@ glusë	bhë	8
 dhasü	yö	8
 yö	nuë	8
 waan	mɛ	8
+zuö	dɔ	8
 sia	bhë	8
 nu	pë	8
 na	yiö	8
@@ -1549,6 +1568,7 @@ waan	ö	8
 gbaɔ	kë	8
 ü	yaagümɛ	8
 zië	ü	8
+yi	bha	8
 wɔn	do	8
 taamasü	ya	8
 da	bha	8
@@ -1576,6 +1596,7 @@ plɛ	dɔ	7
 waa	kpengdhö	7
 wa	n	7
 gludë	davidö	7
+kwaa	kö	7
 yaa	gɔɔn	7
 ö	zakali	7
 dhɛ	zan	7
@@ -1634,6 +1655,7 @@ yö	dhang	7
 bhë	kë	7
 tɔng	yaa	7
 ma	ga	7
+kaa	zlöö	7
 nuë	ka	7
 zɔn	bhë	7
 kë	izlaɛlö	7
@@ -1700,7 +1722,6 @@ sië	atanna	7
 su	ga	7
 ö	zlöö	7
 dhɛɛ	do	7
-bhɛa	ka	7
 ta	dhe	7
 wɔ	kwa	7
 ö	zakanmɛ	7
@@ -1761,7 +1782,6 @@ kpongtaadhɛ	waa	6
 ka	pödhɛ	6
 mɛ	waa	6
 kian	yaa	6
-bɔa	yesu	6
 së	mɛ	6
 kwa	gbaa	6
 klito	yaagümɛ	6
@@ -1798,6 +1818,7 @@ bɛn	to	6
 pö	e	6
 yi	ü	6
 yöë	n	6
+kwaa	pë	6
 ya	dhi	6
 dhi	ü	6
 ö	wlɔmë	6
@@ -1829,6 +1850,7 @@ sëëzë	bhë	6
 bha	dha	6
 zü	ka	6
 gü	dho	6
+siö	bhë	6
 ka	zö	6
 gü	oo	6
 bɔ	klito	6
@@ -1881,7 +1903,6 @@ kë	gbaɔ	6
 töng	pë	6
 tëë	yaazë	6
 yö	kpa	6
-zuö	dɔ	6
 dhɛ	zuifö	6
 a	blɔɔn	6
 ö	dhoo	6
@@ -1906,6 +1927,7 @@ ya	to	6
 kɔɔnmɛ	pilatö	6
 nuë	ü	6
 moizö	waa	6
+kaa	kwa	6
 tʋ̈ng	bha	6
 ö	ya	6
 naɔ	bha	6
@@ -1944,6 +1966,7 @@ bha	lë	6
 yö	gbaɔ	6
 lo	mü	6
 dho	zian	6
+zië	n	6
 ga	gbɔ	6
 ö	këpë	6
 wo	yiö	6
@@ -1996,6 +2019,7 @@ n	dhiö	5
 ziö	yi	5
 kë	yaa	5
 gbɛ	bɔ	5
+kwaa	n	5
 klu	yesu	5
 waa	ka	5
 kpɛa	kun	5
@@ -2058,6 +2082,7 @@ yö	simɔ	5
 kë	wü	5
 ka	galile	5
 yi	sü	5
+blɛɛ	zuifö	5
 ü	këyuö	5
 a	dö	5
 mɛ	tuö	5
@@ -2066,6 +2091,7 @@ nazalɛtë	bhë	5
 yesu	bhë	5
 ka	nii	5
 zü	pë	5
+kaa	ma	5
 gban	yi	5
 pö	ablaamö	5
 bɔ	yi	5
@@ -2105,6 +2131,7 @@ nɛ	dhe	5
 da	kö	5
 dö	dho	5
 zuifö	mɛ	5
+blɛɛ	kö	5
 dhɛ	siplë	5
 da	yi	5
 a	kun	5
@@ -2149,6 +2176,7 @@ tɔ	pö	5
 do	waa	5
 gbloo	bhë	5
 iin	kë	5
+kaa	yi	5
 waan	bɔ	5
 kö	lan	5
 tun	kö	5
@@ -2191,6 +2219,7 @@ da	bhë	5
 kɔ	kë	5
 ka	bhii	5
 kpën	yesu	5
+kwaa	mɛ	5
 yö	zlöö	5
 gbö	giagia	5
 dho	sü	5
@@ -2201,6 +2230,7 @@ mɛ	gia	5
 wa	yesu	5
 dhiang	yaa	5
 dhë	mü	5
+kaa	do	5
 plɛ	yö	5
 kë	dhamɛ	5
 wo	bho	5
@@ -2308,6 +2338,7 @@ kë	mɛbheedhe	4
 nu	galile	4
 kan	yi	4
 bhii	bhi	4
+siö	kö	4
 kɔ	kpong	4
 nɛ	bun	4
 yaan	yuö	4
@@ -2346,6 +2377,7 @@ go	blɔɔn	4
 na	zian	4
 tën	n	4
 bhö	ma	4
+zian	yö	4
 dhë	yaa	4
 dhoë	ö	4
 glöö	sü	4
@@ -2367,7 +2399,6 @@ kundhɛ	yö	4
 më	poo	4
 slööslö	yaa	4
 yö	falizi	4
-kwaa	wo	4
 kɔdhi	mɛ	4
 tun	mɛ	4
 dhɛ	pilatö	4
@@ -2381,10 +2412,12 @@ zlöö	mɛ	4
 gü	ga	4
 wun	tën	4
 dhë	klito	4
+yɔɔ	bhë	4
 gɔ	yaa	4
 de	yö	4
 buëndhö	bhë	4
 zü	yö	4
+bɔa	klito	4
 waa	dha	4
 kwaa	kë	4
 kö	ablaamö	4
@@ -2524,11 +2557,13 @@ bha	kpinngdhö	4
 ma	yö	4
 kwa	wɔ	4
 pë	yö	4
+sëë	bho	4
 wo	yuökëmɛ	4
 yan	dho	4
 an	gban	4
 bhlëyadhe	waa	4
 do	yesu	4
+kwaa	yi	4
 dhidhaapë	gbɛ	4
 nu	tuö	4
 ö	lazaa	4
@@ -2550,7 +2585,6 @@ giagia	yö	4
 tɔɔ	moizö	4
 dheglu	zan	4
 yɔɔn	piɛɛ	4
-mü	e	4
 yö	etiɛnö	4
 i	kë	4
 gbö	izaakö	4
@@ -2577,13 +2611,16 @@ dë	ablaamö	4
 ablaamö	bhë	4
 yö	züë	4
 wa	bhɔ	4
+kaa	wo	4
 kɔɔdhö	zö	4
 wo	laodise	4
+kaa	klito	4
 ö	zë	4
 në	dë	4
 ta	pë	4
 ta	zian	4
 ka	wɔ	4
+kwaa	ö	4
 a	këmɛ	4
 bha	yöö	4
 ta	oo	4
@@ -2627,6 +2664,7 @@ dhë	kwa	4
 pö	dho	4
 a	wöödhö	4
 dho	zlöö	4
+blɛɛ	kwa	4
 bɔ	maseduanë	4
 zlan	dhebɔ	4
 ö	efɛzö	4
@@ -2670,11 +2708,11 @@ gbö	do	4
 ya	dha	4
 dhiö	waa	4
 bhö	kë	4
+kaa	ö	4
 dho	blɔɔn	4
 dho	simɔ	4
 bɔng	kö	4
 nɛ	ablaamö	4
-zië	n	4
 wo	bɔa	4
 sɛisië	ö	4
 ü	gbö	4
@@ -2826,8 +2864,6 @@ go	zö	3
 nëdhezë	bhë	3
 lo	kɔɔ	3
 zo	yöë	3
-yaa	bhë	3
-këng	do	3
 ka	kɔɔ	3
 go	lan	3
 kɔɔnmɛ	bhë	3
@@ -2841,7 +2877,6 @@ ka	sɔ	3
 yöë	ka	3
 iin	wo	3
 dhiö	zian	3
-zian	yö	3
 tɔɔ	elɔdö	3
 wo	galile	3
 dhasi	do	3
@@ -2851,25 +2886,23 @@ yɔɔ	sia	3
 an	gbaa	3
 lo	sezale	3
 dɔ	giagia	3
-blɛɛ	zuifö	3
 tee	kë	3
 luu	kö	3
 siö	n	3
 godhɛ	dɔ	3
 pö	dhoë	3
 ka	glɛkö	3
+daan	bhë	3
 bhɔ	betelɛmë	3
 gɔ	tɔng	3
 ka	piɛɛ	3
 dhë	zlöö	3
 sü	gia	3
-bɔa	ö	3
 blɛɛ	yö	3
 da	waa	3
 bɔa	ka	3
 bha	këpë	3
 ma	kwa	3
-siö	bhë	3
 tun	kwa	3
 yi	pa	3
 së	ka	3
@@ -2884,7 +2917,6 @@ zuögludhi	bhë	3
 n	wö	3
 kpën	kwa	3
 dhë	a	3
-bɔa	klito	3
 wa	dha	3
 sië	mü	3
 gbaa	pë	3
@@ -2893,7 +2925,6 @@ giagia	dɔ	3
 zlöö	ka	3
 dhebɔ	mɛ	3
 bhi	ü	3
-kaa	mɛ	3
 waa	yën	3
 kplawo	kwa	3
 dho	pö	3
@@ -2911,6 +2942,7 @@ gbaɔ	bhë	3
 ta	yaa	3
 sɔ	ü	3
 nu	gbɛn	3
+dhië	ka	3
 po	ka	3
 ziën	zö	3
 nu	këwunyaazë	3
@@ -2941,6 +2973,7 @@ a	dha	3
 klobhɔdhe	do	3
 dëmɛ	bhë	3
 tɔɔ	sla	3
+bhɛa	yi	3
 iin	gɔɔn	3
 za	yaa	3
 to	klito	3
@@ -3017,6 +3050,7 @@ ya	do	3
 kë	nuɛazë	3
 nɛ	zën	3
 ta	gbɔ	3
+kwaa	yesu	3
 an	nii	3
 dhi	po	3
 tɔ	yaa	3
@@ -3079,6 +3113,7 @@ mü	ma	3
 bhɔ	wo	3
 dho	gɔɔn	3
 ziën	waa	3
+zian	waa	3
 tɔɔ	dëmɛ	3
 dhɛɛ	bhë	3
 kpongtaa	waa	3
@@ -3120,7 +3155,7 @@ dho	sɔ	3
 yaaga	dɔ	3
 yöë	ma	3
 pö	eli	3
-kaa	kwa	3
+mü	e	3
 zɔn	i	3
 yö	dhiang	3
 yö	izaakö	3
@@ -3165,7 +3200,6 @@ zlan	yö	3
 bhɔ	yesu	3
 dhɔ	giagia	3
 zë	kwa	3
-kwaa	mɛ	3
 a	goë	3
 ya	lë	3
 dho	lë	3
@@ -3214,7 +3248,6 @@ ta	dhɔa	3
 dhö	toë	3
 du	gɔn	3
 kë	slabhoëpë	3
-kaa	do	3
 yö	bhi	3
 waa	dhe	3
 ü	dhebɔ	3
@@ -3223,6 +3256,7 @@ tun	yi	3
 bhlë	gbɛ	3
 bha	gɔn	3
 ɛɛn	kö	3
+bhɛa	mɛ	3
 zii	do	3
 plɛ	züdɔyi	3
 gbaa	bhë	3
@@ -3309,17 +3343,21 @@ mɛ	këwun	3
 wo	poo	3
 yaa	kaa	3
 antiɔsö	plöö	3
+kpɛa	wo	3
 nu	kpa	3
 ö	pisidi	3
 bho	ezitö	3
 glooyi	mɛ	3
 to	kɔɔ	3
 kë	dü	3
+kaa	tɔng	3
 dhoë	zeluzalɛmë	3
 dhuö	zö	3
 na	ma	3
+kaa	mü	3
 bha	zuifö	3
 blɛɛ	pödhɛ	3
+bhɛa	dëmɛ	3
 duö	gbɔ	3
 dhi	kö	3
 piö	kwa	3
@@ -3366,6 +3404,7 @@ gɔ	wo	3
 va	gia	3
 dɔ	pɔlö	3
 bhë	o	3
+kaan	gɔɔn	3
 piö	falizi	3
 ta	za	3
 wun	ga	3
@@ -3444,6 +3483,7 @@ iin	ma	3
 glu	do	3
 dhɛɛdhɛ	bhë	3
 waan	nuë	3
+zong	bhë	3
 guö	gia	3
 dhia	mɛ	3
 ka	zuö	3
@@ -3490,6 +3530,7 @@ kwa	dhi	3
 bhɔ	pë	3
 ö	gwaan	3
 zian	nu	3
+zian	wo	3
 dɔ	yö	3
 bha	gwëëmi	3
 dhiʋ̈	n	3

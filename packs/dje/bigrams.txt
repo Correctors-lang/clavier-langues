@@ -9,7 +9,7 @@ ay	ga	159
 a	se	146
 kaŋ	ay	145
 ga	ti	136
-ga	ba	135
+ga	ba	134
 boro	kaŋ	130
 ka	ne	128
 aran	ma	117
@@ -147,7 +147,6 @@ ga	baa	30
 zama	araŋ	29
 si	bay	29
 no	araŋ	29
-hima	ga	28
 borey	ga	28
 ra	a	28
 bay	mo	28
@@ -155,6 +154,7 @@ a	di	28
 ay	boŋ	28
 i	ra	28
 nda	war	28
+hima	ga	27
 amma	boro	27
 nga	ga	27
 kan	gonda	26
@@ -643,7 +643,6 @@ go	i	9
 ti	cimi	9
 boro	ma	9
 ma	naanay	9
-biiri	ga	9
 ga	ay	9
 banda	ga	9
 kan	aran	9
@@ -749,6 +748,7 @@ kulu	no	8
 ka	goy	8
 moy	fiti	8
 ni	do	8
+biiri	ga	8
 ga	neera	8
 de	aran	8
 a	ganda	8
@@ -2529,8 +2529,6 @@ tuuri-nyaŋo	gaa	3
 gaa	i	3
 boobo	kulu	3
 no	kaù	3
-boro	mana	3
-mana	hima	3
 dadara	kira	3
 des	animateurs	3
 animateurs	pour	3

@@ -96,11 +96,11 @@ tato	piponikak	38
 ekoni	wetci	38
 ke	iti	37
 aka	ka	37
-nama	aric	37
 peikon	kaie	36
 e	pe	36
 kice	okimaw	36
 kaki	ici	36
+nama	aric	36
 kitci	nta	36
 ekote	e	35
 kaskina	awik	34
@@ -111,12 +111,12 @@ awik	ka	34
 mia	e	34
 ki	pa	34
 kitci	iti	33
-ekoni	ka	33
 la	nation	33
 atikamekw	nehiromowin	33
 enko	anihe	32
 nac	asko	32
 awesis	ka	32
+ekoni	ka	32
 nehirowisiwok	acteriw	32
 kaie	micta	31
 ke	otci	31
@@ -190,7 +190,6 @@ pour	la	22
 nous	avons	22
 enko	ka	22
 kirika	ki	22
-ka	ickwa	22
 mictikw	ka	22
 il	y	22
 nehirowisiwok	e	21
@@ -203,6 +202,7 @@ et	des	21
 kaie	kaskina	21
 ki	nta	21
 ota	ka	21
+ka	ickwa	21
 kekwariw	ka	21
 wa	ici	21
 nama	ni	21
@@ -371,7 +371,6 @@ kackitatc	e	14
 ki	wi	14
 wec	ki	14
 peiko	pipona	14
-mekwata	e	14
 e	ocitatc	14
 afin	de	14
 que	nous	14
@@ -417,6 +416,7 @@ iriniw	e	13
 aric	ma	13
 iriniwok	ka	13
 micta	weckatc	13
+mekwata	e	13
 court	de	13
 de	premier	13
 premier	cycle	13
@@ -597,7 +597,6 @@ anotc	ka	10
 ki	okimawiw	10
 at	the	10
 kaie	nama	10
-kata	iti	10
 est	de	10
 peuples	autochtones	10
 atikamekw	pisimw	10
@@ -684,6 +683,7 @@ kekwan	wetci	9
 acitc	ki	9
 e	nantonak	9
 otci	kitci	9
+kata	iti	9
 wi	nanto	9
 anihe	mackikiatikw	9
 ka	apatisitc	9
@@ -930,7 +930,6 @@ kice	mitato	7
 iriniwok	ki	7
 micta	micariw	7
 pitcipipon	pisimw	7
-atc	kitci	7
 moneikan	ka	7
 asini	ka	7
 nac	tekaci	7
@@ -1017,6 +1016,7 @@ tato	kickwa	7
 this	is	7
 when	i	7
 want	to	7
+québec	askik	7
 les	jeunes	7
 esko	micta	7
 patam	kata	7
@@ -1067,7 +1067,6 @@ aci	esko	6
 ka	mawtci	6
 manawan	kitotakan	6
 cet	article	6
-minawatc	ka	6
 a	la	6
 e	pamatisitc	6
 nehirowisi	pimatisiwin	6
@@ -1325,6 +1324,7 @@ on	met	5
 ni	ici	5
 ici	tipatcimomakak	5
 ki	icinikasotc	5
+minawatc	ka	5
 kekotc	iskwew	5
 on	ajoute	5
 quand	on	5
@@ -1902,7 +1902,6 @@ iriniwok	kitci	4
 kekat	mitowi	4
 ka	nanata	4
 ati	ke	4
-atc	acitc	4
 keki	ici	4
 e	pimotetc	4
 tca	wetci	4
@@ -2430,7 +2429,6 @@ nos	ancêtres	4
 la	colonisation	4
 colonisation	de	4
 de	peuplement	4
-e	siècle	4
 du	bois	4
 le	musée	4
 de	tous	4
@@ -2507,7 +2505,6 @@ ki	actew	3
 actew	kirika	3
 pactonew	aski	3
 enko	ohe	3
-e	e	3
 enko	kirowe	3
 ici	ocitakaniwok	3
 enko	kirika	3
@@ -2573,7 +2570,6 @@ la	fondation	3
 cadre	du	3
 la	connaissance	3
 atikamekw	dans	3
-a	eu	3
 nta	pakitohaniwok	3
 micikitiw	kaie	3
 tawok	kaie	3
@@ -2741,13 +2737,8 @@ aska	e	3
 wir	anaha	3
 kictapitak	e	3
 kaie	aric	3
-e	ocki	3
-ak	kitci	3
-atc	e	3
 moneikani	mikimo	3
 ooma	kobek	3
-atc	ati	3
-atc	eci	3
 kitci	nikani	3
 taci	tak	3
 kobek	monaikan	3
@@ -3236,7 +3227,6 @@ nesta	ta	3
 ci	kih	3
 om	aka	3
 hołé	ha	3
-ku	ɂedırı	3
 a	ɂası	3
 koqowey	ta'n	3
 en	matière	3
@@ -3256,8 +3246,6 @@ nos	grands-mères	3
 toute	leur	3
 leur	force	3
 nous	aider	3
-iti	nahiparin	3
-nahiparin	nanake	3
 va	se	3
 ka	kiwe	3
 nos	grands-pères	3
@@ -4120,7 +4108,6 @@ mon	père	3
 père	et	3
 et	mon	3
 kakina	awiyeg	3
-aki	kag	3
 nin	odja	3
 ka	ija	3
 maratak	ititamowin	3

@@ -2,13 +2,13 @@
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
 dɛn	we	282
 pipul	dɛn	226
-na	di	197
+na	di	196
 bin	de	181
 we	dɛn	152
 we	de	148
 tin	dɛn	118
 dɛn	fɔ	113
-dɛn	bin	111
+dɛn	bin	110
 i	bin	100
 dɛn	de	94
 di	wan	91
@@ -26,11 +26,11 @@ dɛn	na	66
 bɔt	di	62
 de	du	61
 we	di	59
-i	nɔ	59
 ɛn	di	58
 yu	de	58
 di	baybul	58
 we	nem	58
+i	nɔ	58
 dɛn	go	54
 we	go	53
 di	man	53
@@ -69,9 +69,9 @@ bin	dɔn	37
 di	ɔda	37
 se	na	36
 pan	di	36
-wi	go	36
 dɛn	dɔn	36
 mek	yu	36
+wi	go	35
 bɔt	jiova	35
 pɔsin	we	35
 want	fɔ	34
@@ -83,19 +83,19 @@ kɔntinyu	fɔ	34
 no	se	33
 fɔ	it	33
 we	gɛt	32
-wi	de	32
 go	de	32
 ebul	fɔ	32
 ɛn	in	32
 kɔmɔt	na	32
 no	wetin	32
-wi	nɔ	31
+wi	de	31
 na	wan	31
 disaypul	dɛn	31
 fɔ	di	31
 go	mek	30
 tin	we	30
 go	ɛp	30
+wi	nɔ	30
 insay	di	29
 fɔ	ɛp	29
 mek	wi	29
@@ -104,10 +104,10 @@ na	de	28
 tɔk	to	28
 to	di	28
 so	i	27
-a	go	27
 am	fɔ	27
 de	go	26
 se	dɛn	26
+a	go	26
 pan	ɔl	26
 tɛl	di	26
 na	jiova	26
@@ -157,7 +157,6 @@ de	wit	20
 bad	bad	20
 we	nɔ	20
 bɔt	gɔd	20
-na	dat	20
 bi	kiŋ	20
 kam	wit	20
 we	dɔn	20
@@ -175,13 +174,13 @@ baybul	buk	19
 wetin	i	19
 fɔ	bi	19
 ɛn	na	19
+na	dat	19
 i	mek	19
 dɛn	bigin	19
 di	bɔbɔ	19
 yu	tink	19
 want	mek	19
 so	dɛn	19
-a	de	18
 we	gɔd	18
 de	gi	18
 tin	ya	18
@@ -219,6 +218,7 @@ di	bad	17
 apɔsul	dɛn	17
 man	ya	17
 i	se	16
+a	de	16
 na	gɔd	16
 go	kam	16
 de	kam	16
@@ -268,7 +268,6 @@ nɔ	fɔ	14
 animal	dɛn	14
 go	bi	14
 ɔl	wetin	14
-dɛn	ɔl	14
 go	to	14
 in	disaypul	14
 dɛn	si	14
@@ -293,6 +292,7 @@ pikin	we	13
 di	tɛm	13
 na	izrɛl	13
 so	dat	13
+dɛn	ɔl	13
 lɛk	di	13
 ɛp	di	13
 di	men	13
@@ -363,14 +363,12 @@ gɛt	pawa	11
 de	sote	11
 we	a	11
 wi	gɛt	11
-una	fɔ	11
 una	nɔ	11
 a	dɔn	11
 jiova	tɛl	11
 wit	am	11
 se	jiova	11
 jiova	go	11
-na	mi	11
 pre	to	11
 ɛn	wi	11
 gud	wan	11
@@ -406,6 +404,7 @@ pan	am	10
 si	wan	10
 dɛn	pipul	10
 na	ɛvin	10
+una	fɔ	10
 mek	gɔd	10
 de	bifo	10
 fim	dɛn	10
@@ -419,6 +418,7 @@ gɔd	ɛn	10
 bin	fɔ	10
 pan	gɔd	10
 bɔt	aw	10
+na	mi	10
 dɔn	gɛt	10
 na	fɔ	10
 tek	tɛm	10
@@ -510,7 +510,6 @@ wit	in	8
 a	bin	8
 ples	we	8
 enjɛl	we	8
-dɛn	wan	8
 gi	di	8
 bin	ebul	8
 fɔ	si	8
@@ -575,13 +574,11 @@ yu	bin	7
 i	si	7
 bin	se	7
 mit	am	7
-a	si	7
 wan	ɔda	7
 di	las	7
 win	di	7
 tinap	fɔ	7
 fɔ	tek	7
-dɔn	dɛn	7
 kam	bak	7
 bɔt	wi	7
 se	jizɔs	7
@@ -590,7 +587,6 @@ pawa	fɔ	7
 rayt	fɔ	7
 di	masta	7
 du	gud	7
-we	una	7
 fɔ	sho	7
 dis	buk	7
 to	jiova	7
@@ -612,6 +608,7 @@ go	mɔs	7
 ɛn	kam	7
 padi	biznɛs	7
 ɛn	aw	7
+dɛn	wan	7
 wan	tɛm	7
 di	tu	7
 dɛn	put	7
@@ -686,6 +683,7 @@ i	d	6
 n	it	6
 wetin	de	6
 vɛks	pan	6
+a	si	6
 wata	we	6
 si	dɛn	6
 mek	fɔ	6
@@ -702,7 +700,6 @@ di	tɔd	6
 rayt	na	6
 tɛl	una	6
 dɔn	tɛl	6
-wɛn	a	6
 wit	una	6
 gud	gud	6
 wi	dɔn	6
@@ -726,10 +723,9 @@ wet	fɔ	6
 gɛt	tayt	6
 tayt	padi	6
 se	dis	6
-na	wi	6
-ɛnitɛm	we	6
 wi	no	6
 wi	bin	6
+we	una	6
 du	ɛn	6
 fɔ	dɛn	6
 yu	sabi	6
@@ -738,6 +734,7 @@ de	luk	6
 di	prist	6
 sɛn	sɔm	6
 sɔm	man	6
+nɔ	si	6
 ples	usay	6
 tɛl	in	6
 na	da	6
@@ -823,6 +820,7 @@ we	in	6
 bin	kɔntinyu	6
 edman	dɛn	6
 di	edman	6
+dɔn	dɛn	6
 wach	aw	6
 in	man	6
 i	min	6
@@ -849,6 +847,7 @@ di	sɛvin	5
 in	pawa	5
 nɔbɔdi	nɔ	5
 te	di	5
+wɛn	a	5
 bikɔs	wi	5
 if	una	5
 rayt	ɔltɛm	5
@@ -874,6 +873,7 @@ pɔsibul	fɔ	5
 in	tɛmpul	5
 nid	fɔ	5
 wit	jiova	5
+na	wi	5
 to	wi	5
 aw	una	5
 gud	nyus	5
@@ -884,7 +884,6 @@ biliv	di	5
 mek	ɔl	5
 wi	tɔk	5
 tru	gɔd	5
-dɛn	di	5
 du	we	5
 di	vɔys	5
 to	mi	5
@@ -976,6 +975,7 @@ sɔm	tɛm	5
 dɛn	lɛf	5
 na	idɛn	5
 if	dɛn	5
+ɛnitɛm	we	5
 we	ol	5
 kin	tek	5
 studɛnt	dɛn	5
@@ -1011,7 +1011,6 @@ we	d	4
 i	pas	4
 n	d	4
 i	grap	4
-a	want	4
 di	klawd	4
 mɔta	lman	4
 mek	am	4
@@ -1040,7 +1039,6 @@ a	gɛt	4
 du	so	4
 fɔ	lisin	4
 una	kɔmpin	4
-ɛn	una	4
 so	gɔd	4
 sho	una	4
 lɛkɛ	aw	4
@@ -1336,6 +1334,7 @@ in	m	3
 am	wit	3
 a	d	3
 n	am	3
+a	want	3
 se	we	3
 dat	we	3
 wɔnda	ful	3
@@ -1343,7 +1342,6 @@ bin	jɛs	3
 sɛvin	enjɛl	3
 sɛvin	bad	3
 go	tek	3
-dɛn	a	3
 we	tan	3
 pipul	we	3
 de	mɛmba	3
@@ -1392,6 +1390,7 @@ rayt	dɛn	3
 rich	de	3
 sɛn	mi	3
 i	sɛn	3
+ɛn	una	3
 una	lɛk	3
 lɛk	dɛn	3
 masta	jizɔs	3
@@ -1463,7 +1462,6 @@ nyus	bɔt	3
 wi	du	3
 wit	ɔl	3
 ɔl	dat	3
-una	bin	3
 una	dɔn	3
 de	wet	3
 di	san	3
@@ -1546,6 +1544,7 @@ dɛn	bɛt	3
 bad	bɔt	3
 ijipt	fɔ	3
 na	mirekul	3
+dɛn	di	3
 tɛnki	fɔ	3
 so	jiova	3
 jiova	sɛn	3

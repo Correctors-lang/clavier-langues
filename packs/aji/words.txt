@@ -1,44 +1,44 @@
 # Ajië : FineWeb-2 aji_Latn (ODC-By). mot<TAB>freq.
 #! souligner : proches seulement
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-na	16439
+na	16434
 mâ	6444
-yè	6191
+yè	6188
 vi	6106
-pâr̂â	5206
+pâr̂â	5205
 ka	4780
-bör̂i	4655
-rö	3712
+bör̂i	4654
+rö	3711
 kâmö	3557
-ré	3183
+ré	3182
 i	2913
-tö	2835
+tö	2834
 wè	2773
-da	2634
+da	2633
 wê	2632
 pè	2457
 é	2417
-cér̂é	2403
+cér̂é	2402
 vè	2343
-ké	2261
+ké	2260
 êr̂ê	2162
-aè	2078
-ki	1780
-e	1614
+aè	2077
+ki	1779
+e	1613
 pa	1596
 xi-e	1556
 waa	1456
 cè	1430
 gëve	1423
-bâô	1409
+bâô	1407
 gö	1390
 rö-i	1375
-dèxâ	1363
+dèxâ	1362
 tâ	1254
 né	1209
 xè-i	1177
 nè	1157
-ce	1088
+ce	1087
 pâi	1083
 kââ	1072
 nô	1031
@@ -63,7 +63,7 @@ mör̂u	656
 kau	654
 gè	617
 yaané	604
-ûr̂û	600
+ûr̂û	599
 wii	594
 xé-r̂é	593
 yèri	590
@@ -119,7 +119,7 @@ ko	309
 koa	309
 xi-i	308
 kaar̂u	302
-cëi	301
+cëi	300
 mââyöö	299
 ma	298
 ökâré	297
@@ -137,8 +137,8 @@ nêr̂ê	270
 aau	269
 wêyê	265
 nékö	265
-bwè	263
 cuè	262
+bwè	262
 câwâ	254
 kar̂ö	253
 vèr̂i	253
@@ -154,7 +154,7 @@ xar̂a	233
 winô	232
 re	230
 ara	227
-pwaér̂ö	226
+pwaér̂ö	225
 vèâ	223
 röi	221
 pèci	212
@@ -186,7 +186,7 @@ u	176
 mê	175
 rhëë	174
 wîr̂î	171
-gaamëë	171
+gaamëë	170
 yö	170
 paulo	169
 kè	168
@@ -451,7 +451,6 @@ veevee	44
 per̂e	44
 pi	44
 bo	44
-gwâ-ê	44
 bwèrè	44
 nîî	44
 ne	44
@@ -460,6 +459,7 @@ kö	43
 mèè	43
 bwi	43
 mui	43
+gwâ-ê	43
 kââwaa	43
 rai-nya	42
 mille	42
@@ -1329,7 +1329,6 @@ ker̂e-r̂é	7
 cirher̂e	7
 apolo	7
 pâlè-nya	7
-yakarui	7
 péö	7
 wêêkaâr̂â	7
 mör̂ö-i	7
@@ -1451,6 +1450,7 @@ kau-ve	6
 ër̂i-ve	6
 mâgöi	6
 bétéléma	6
+yakarui	6
 néxâi-nya	6
 pèr̂èmè-r̂é	6
 cöö-ve	6
@@ -1626,7 +1626,6 @@ kana	5
 pâgür̂ü-ré	5
 târ̂î-nya	5
 ânââ	5
-juuri	5
 pwêr̂êwaa-r̂é	5
 kwaôroé	5
 katawaiwânii	5
@@ -1796,6 +1795,7 @@ mêr̂ê-ve	4
 dui-ré	4
 nyêê	4
 tâvèr̂ii	4
+juuri	4
 kiâder̂e	4
 lasaro	4
 or̂o-é	4
@@ -2118,7 +2118,6 @@ yeaa-ve	3
 xôbé	3
 kigör̂ödiwi-ve	3
 mùù	3
-kavèè-ré	3
 jenur̂i-e	3
 ré-é	3
 köwi-vé	3

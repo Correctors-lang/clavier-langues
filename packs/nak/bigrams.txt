@@ -3,6 +3,7 @@
 te	la	8699
 la	tahalo	4345
 la	valalua	2637
+tahalo	uru	2532
 la	merera	2146
 eia	ge	2065
 eala	moli	1674
@@ -10,8 +11,9 @@ amuto	ge	1611
 mai	ele	1461
 e	iesus	1344
 mai	la	1342
+la	uru	1196
 egiteu	la	1175
-egite	ge	1175
+egite	ge	1174
 veia	ge	1159
 la	vuhula	1070
 valalua	me	1047
@@ -52,22 +54,26 @@ egiteu	e	481
 la	haro	460
 ale	taritigi	454
 ale	eau	450
+la	vimari	432
 egiteu	ale	432
 tegiteu	la	428
 te	iesus	427
 mai	ale	426
 tahalo	ale	426
 giteu	la	420
+la	vovo	419
 la	ilali	409
 la	maututula	408
 taro	la	406
 la	pulolou	400
 la	gabutatalala	399
 uru	eia	398
+e	kraist	368
 tomi	ale	368
 soio	tegiteu	366
 la	mulugaluga	364
 la	kalulu	359
+ale	uru	356
 tai	la	349
 sau	tola	347
 la	valolo	347
@@ -81,6 +87,7 @@ ele	veia	331
 egite	kama	331
 kama	kokora	327
 la	gauru	325
+e	iuda	323
 uru	ge	320
 veia	giteu	320
 sesele	la	316
@@ -135,6 +142,7 @@ tetala	ale	214
 la	matagaga	213
 me	eia	213
 oio	la	212
+hatavivile	tomi	211
 ale	ge	210
 tola	la	209
 ge	magiri	209
@@ -143,8 +151,8 @@ la	imamala	207
 e	ierusalem	207
 la	tia	205
 moli	egite	205
-mai	e	205
 tomi	te	203
+mai	e	203
 la	irovilala	202
 ge	abi	201
 veia	e	198
@@ -259,11 +267,11 @@ magiri	vagari	126
 e	latula	126
 robo	la	126
 moli	amuto	126
-la	sip	126
 vuhula	egite	125
 valalua	e	125
 tahalo	isa	125
 igo	la	125
+la	sip	125
 lotu	te	124
 taritigi	veia	124
 tigi	la	124
@@ -276,6 +284,7 @@ ge	mahuli	123
 uru	e	122
 iesus	veia	122
 la	matagagala	121
+e	ioanes	120
 me	egite	120
 ge	veipala	120
 mai	egiteu	120
@@ -376,6 +385,7 @@ isa	kama	93
 omai	te	93
 ge	hiloa	92
 gabutatalala	tegiteu	92
+ge	ouka	92
 eme	kama	92
 ge	koramulia	92
 mulugaluga	tegiteu	92
@@ -457,6 +467,7 @@ muga	la	79
 ale	isapolo	78
 ale	vagari	78
 tetala	soio	78
+e	tete	78
 la	hitu	78
 rivu	loua	77
 egiteu	veia	77
@@ -472,6 +483,7 @@ ale	pehoti	76
 igo	gegeru	76
 eau	masagea	75
 ge	tilimuli	75
+la	tauvalautu	75
 pou	oio	75
 veia	mutou	75
 tetala	mago	75
@@ -483,6 +495,7 @@ la	limala	74
 tio	egite	74
 e	satan	74
 la	karutula	74
+ge	tuga	74
 la	tilahi	74
 irovilala	te	74
 me	te	73
@@ -540,6 +553,7 @@ ge	beu	67
 marokala	eia	67
 soio	la	67
 savulusa	gete	67
+la	mago	67
 isahari	ale	67
 hilo	e	67
 haro	tabu	67
@@ -570,6 +584,7 @@ mautu	alele	65
 amite	goio	65
 pigi	robo	64
 hatavivile	la	64
+kama	rovia	64
 tomi	alele	64
 ge	vimavulaha	64
 eau	tai	64
@@ -612,7 +627,6 @@ ale	amite	61
 uru	pepeho	61
 vagagarila	te	61
 soko	la	61
-ge	vilua	61
 ge	veipalea	61
 goio	guvi	61
 e	rom	61
@@ -626,6 +640,7 @@ lou	e	60
 eia	magiri	60
 goio	veiala	60
 eia	baha	60
+ge	vilua	60
 mata	muli	60
 mai	isasa	60
 ilali	la	60
@@ -841,6 +856,7 @@ soio	e	45
 ale	loio	45
 tia	giteu	45
 isahari	la	45
+pepeho	sesele	44
 kara	igoie	44
 kraist	iesus	44
 te	ururu	44
@@ -906,6 +922,7 @@ eau	masaga	42
 sesele	veia	42
 giteu	veia	42
 mutou	te	42
+te	tete	42
 hitu	ale	42
 ge	polo	42
 tegiteu	mago	42
@@ -1034,7 +1051,6 @@ ge	liu	37
 rovi	e	36
 la	vulovulomu	36
 mari	te	36
-amuto	mai	36
 taho	tolu	36
 me	e	36
 kraist	sesele	36
@@ -1068,6 +1084,7 @@ igototolola	te	35
 merera	tetalale	35
 kama	vagari	35
 eia	muga	35
+amuto	mai	35
 ge	vahilo	35
 veia	oio	35
 robo	egiteu	35
@@ -1206,6 +1223,7 @@ tama	mutou	32
 lou	etatou	32
 mapa	la	32
 eia	valolo	32
+uru	me	32
 etato	mai	32
 usu	pepeho	32
 tuga	goio	32
@@ -1318,7 +1336,6 @@ giteu	ge	29
 la	mosi	29
 tataho	mai	29
 mahuli	rivula	29
-sip	ale	29
 ge	bolehoho	29
 eia	soioge	29
 veia	isa	29
@@ -1360,6 +1377,7 @@ eau	pala	28
 uru	tegiteu	28
 ge	mamuga	28
 taume	eia	28
+uru	taku	28
 tetala	te	28
 etato	kati	28
 tegatou	e	28
@@ -1374,10 +1392,12 @@ egite	kamati	28
 sibitala	te	28
 vimahuli	amutou	28
 pepeho	mai	28
+sip	ale	28
 kama	abi	28
 giteu	te	28
 tabarabara	giteu	28
 isahari	veia	28
+lou	eau	28
 hituhitu	ale	28
 la	ilabi	28
 ilabi	la	28
@@ -1669,6 +1689,7 @@ la	vuo	23
 ge	kokovu	22
 kaka	gogogo	22
 isa	giteu	22
+vimari	la	22
 gatou	te	22
 lou	ge	22
 isahari	tamutou	22
@@ -1736,6 +1757,7 @@ tilimuli	e	21
 ele	soio	21
 matagaga	ale	21
 eau	baha	21
+somai	tamutou	21
 ge	lege	21
 la	kalulugu	21
 isahari	oio	21
@@ -1823,6 +1845,7 @@ goio	valolo	20
 uru	sibitala	20
 hatavivile	e	20
 egite	gabutatala	20
+pou	tabaa	20
 uru	oata	20
 la	vitolola	20
 taritigi	ale	20
@@ -2904,7 +2927,6 @@ ge	abiamu	12
 lavalava	tetala	12
 goio	hele	12
 kama	taga	12
-ge	sivutia	12
 gove	e	12
 tola	soio	12
 ge	toa	12
@@ -3086,6 +3108,7 @@ magiri	oio	11
 ge	lotoa	11
 mata	soio	11
 egite	vaabila	11
+tavile	tai	11
 la	tururi	11
 kolia	giteu	11
 vulovulo	miteu	11
@@ -3128,6 +3151,7 @@ la	lelea	11
 la	togo	11
 valalua	tai	11
 sibitala	veia	11
+ge	sivutia	11
 la	sosobu	11
 oata	ovola	11
 egite	toia	11
@@ -3341,7 +3365,6 @@ e	vevea	10
 la	laion	10
 vola	eau	10
 goio	vimahuli	10
-tavile	tai	10
 gegeruti	la	10
 ale	tahola	10
 tomi	maie	10
@@ -3697,7 +3720,6 @@ veitia	veia	9
 pou	taitali	9
 eme	goio	9
 viligila	ale	9
-e	taive	9
 la	babaa	9
 la	kei	9
 lotu	ele	9
@@ -4058,6 +4080,7 @@ tali	kuraraba	8
 lou	isa	8
 tetala	ovola	8
 matagaga	la	8
+e	taive	8
 lage	eia	8
 satan	eia	8
 rovi	bakisi	8
@@ -4106,6 +4129,7 @@ souka	sibitala	8
 karutula	isahari	8
 la	ilotoloto	8
 bilalaha	tai	8
+tutubule	abraham	8
 ale	goio	8
 egite	taho	8
 goio	veipalea	8
@@ -4314,6 +4338,7 @@ kama	bisi	7
 pou	malau	7
 valolo	soio	7
 bilalaha	tamutou	7
+igogolu	aleie	7
 abitiagu	la	7
 amuto	sagege	7
 rovi	molia	7
@@ -4431,7 +4456,6 @@ etato	souka	7
 isahari	kama	7
 la	bibisi	7
 moli	taku	7
-isasa	moli	7
 tahalole	goio	7
 amite	hiliti	7
 taro	moliti	7
@@ -4977,7 +5001,9 @@ la	ilalea	6
 gauru	mai	6
 limala	oata	6
 bisisi	ele	6
+isasa	moli	6
 sekela	oio	6
+e	tamamu	6
 lou	emei	6
 iesus	koliala	6
 usu	sesele	6
@@ -5088,7 +5114,6 @@ salatu	lua	6
 magiri	olau	6
 rara	la	6
 sagaiti	sesele	6
-e	tahola	6
 valalua	halaba	6
 isahari	sibitala	6
 visigologolola	sesele	6
@@ -5242,6 +5267,7 @@ sabala	la	6
 taro	leme	6
 igo	taia	6
 uati	soio	6
+matamu	ele	6
 ge	lulu	6
 eau	omai	6
 igogolu	oio	6
@@ -5837,6 +5863,7 @@ ge	raga	5
 raga	sotalo	5
 goio	piligi	5
 lege	vahi	5
+e	tahola	5
 ge	selua	5
 la	hilimu	5
 goio	vitikumu	5
@@ -6798,6 +6825,7 @@ vahari	amiteu	4
 tavu	amiteu	4
 amiteu	mai	4
 guvi	olau	4
+e	pentikos	4
 vulovulo	aleie	4
 eau	veipalatia	4
 igogolu	veia	4
@@ -7132,6 +7160,7 @@ pehoti	ge	4
 ulai	la	4
 kama	rava	4
 puila	la	4
+tabaa	muga	4
 omai	epesas	4
 vile	e	4
 lotu	vikapopo	4
@@ -7621,6 +7650,7 @@ tomi	lolo	4
 kekesi	tegiteu	4
 lotalo	e	4
 isahari	vahari	4
+tahalo	kokora	4
 eau	kumuli	4
 valalua	tamutou	4
 ge	ligiligi	4
@@ -7644,7 +7674,6 @@ moli	sotalo	4
 paa	mulimuli	4
 eia	galu	4
 lapu	amutou	4
-eau	molie	4
 eia	roviti	4
 iesus	taliti	4
 sereka	gegeru	4
@@ -7675,7 +7704,6 @@ gogogo	e	4
 taku	bakisie	3
 me	latatumu	3
 eau	isu	3
-tahalo	uru	3
 visuli	mai	3
 soukama	igo	3
 amuto	igogolu	3
@@ -7807,7 +7835,6 @@ varu	mutou	3
 gabutatala	mave	3
 ouka	gologolo	3
 igogolu	isapolo	3
-ale	isasa	3
 mahulila	tetalale	3
 soioge	lolotia	3
 sulu	egiteu	3
@@ -7831,7 +7858,6 @@ masovala	kama	3
 kama	pu	3
 kama	kusi	3
 la	tutu	3
-la	mago	3
 kokorale	eia	3
 makapipila	sesele	3
 tegiteu	tai	3
@@ -8008,6 +8034,7 @@ maroka	etatou	3
 oilo	veia	3
 vilua	sesele	3
 oio	hagagaviti	3
+paua	viruru	3
 rom	la	3
 tatavu	moli	3
 lou	megiteu	3
@@ -8361,6 +8388,7 @@ buruko	vikapopo	3
 igo	maie	3
 vulovulo	mite	3
 eme	koramulia	3
+taku	gageie	3
 lotu	tamiteu	3
 iuda	mago	3
 pala	vagari	3
@@ -8451,7 +8479,6 @@ igoa	mulimuli	3
 piligi	loua	3
 boru	posa	3
 vulo	giteu	3
-tahola	ge	3
 etato	tetalati	3
 vitikumu	loua	3
 loula	la	3
@@ -9443,6 +9470,7 @@ loale	pita	3
 loale	saimon	3
 isasasa	oio	3
 vigagiala	ale	3
+eau	ruruti	3
 la	kuvo	3
 te	iudas	3
 eme	sesele	3
@@ -9626,6 +9654,7 @@ vikararala	tegite	3
 tai	rovia	3
 la	havu	3
 iakob	goio	3
+ge	sivutiau	3
 amite	baha	3
 umala	liliu	3
 valalua	ouka	3
@@ -9918,6 +9947,7 @@ iesus	isasa	3
 bret	ilima	3
 gale	loio	3
 uaga	tegiteu	3
+eau	molie	3
 egite	goma	3
 egite	tutubu	3
 ilava	eia	3

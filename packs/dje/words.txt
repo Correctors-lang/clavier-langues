@@ -1,7 +1,7 @@
 # Zarmaciine : FineWeb-2 dje_Latn (ODC-By) ; FineWeb-2 ses_Latn (ODC-By) ; FineWeb-2 ddn_Latn (ODC-By). mot<TAB>freq.
 #! souligner : proches seulement
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-ga	3127
+ga	3125
 kaŋ	1920
 a	1866
 ra	1249
@@ -16,7 +16,7 @@ mo	654
 nga	577
 ni	535
 si	521
-boro	517
+boro	516
 da	511
 araŋ	467
 na	454
@@ -37,13 +37,13 @@ do	286
 koy	280
 tee	263
 irikoy	252
-mana	245
+mana	244
 din	242
 borey	238
 kul	234
 boŋ	226
 aran	218
-ba	217
+ba	216
 yesu	213
 di	194
 baaba	194
@@ -87,9 +87,9 @@ wane	99
 boobo	98
 woodin	97
 waati	92
-hima	89
 yaŋ	89
 foo	89
+hima	88
 dan	86
 yan	85
 koyne	81
@@ -181,11 +181,11 @@ labo	39
 biya	39
 man	39
 jiiri	39
-handu	39
 dira	38
 furo	38
 yaadin	38
 noodin	38
+handu	38
 jama	38
 beerandi	38
 sii	38
@@ -339,7 +339,6 @@ macin	19
 nka	19
 kɑ	19
 dendi	18
-hinza	18
 foyan	18
 moy	18
 waney	18
@@ -355,6 +354,7 @@ citaaboo	18
 jingaroo	18
 kʼay	18
 labey	17
+hinza	17
 almaney	17
 tilam	17
 dumizo	17
@@ -450,7 +450,6 @@ in	13
 nyum	13
 maryama	13
 albora	13
-biiri	13
 gazon	13
 fondawey	13
 porožewoo	13
@@ -481,6 +480,7 @@ ey	12
 hanga	12
 nooniizo	12
 tomaato	12
+biiri	12
 gaabu	12
 pleurote	12
 parajubaea	12
@@ -1146,7 +1146,6 @@ funay	4
 hagu	4
 caraw	4
 kondo	4
-almano	4
 tomato	4
 le	4
 présent	4
@@ -1397,6 +1396,7 @@ wura	3
 gaa-koonu	3
 beejandi	3
 takubayaŋ	3
+almano	3
 gaaru	3
 dadara	3
 kira	3

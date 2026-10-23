@@ -2,7 +2,7 @@
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
 aen	dangj	1026
 laeb	caezcienz	528
-youq	ndaw	509
+youq	ndaw	508
 caeuq	gij	506
 guek	raeuz	501
 mbouj	ndaej	464
@@ -12,37 +12,38 @@ dwg	gij	379
 dwg	aen	371
 itdingh	aeu	357
 dangj	raeuz	343
-doengh	gij	331
+doengh	gij	330
 siujsoq	minzcuz	312
-seveicujyi	miz	305
+seveicujyi	miz	304
 mbouj	miz	291
 youq	gwnz	285
-daezsang	gij	278
+daezsang	gij	277
 aen	cidu	275
 bae	guh	266
 gij	hong	263
 gak	gaep	256
 gij	vwndiz	251
 miz	daegsaek	240
-cungguek	daegsaek	233
-miz	cungguek	231
+cungguek	daegsaek	232
 ndaw	dangj	230
+miz	cungguek	230
 ndaw	guek	229
-couh	dwg	229
+couh	dwg	226
 dangj	cujciz	223
 gij	vunz	218
 dangj	caeuq	218
 doengh	aen	216
 yiengh	seveicujyi	216
 cungj	mbouj	215
-miz	gij	214
+miz	gij	213
 guh	ndei	208
-gij	naengzlig	206
 gij	cidu	206
+gij	naengzlig	205
 caeuq	fazcanj	204
 gaijgwz	hailangh	203
 daegsaek	cungguek	202
 youq	mwh	202
+mbouj	dwg	198
 le	gij	198
 aen	gihci	197
 daegbied	dwg	194
@@ -59,7 +60,7 @@ neix	dwg	175
 gak	cungj	170
 gyoengq	vunz	169
 guh	gij	169
-diuz	roen	167
+diuz	roen	166
 song	hamq	166
 hwnqguh	aen	164
 caezcienz	gij	164
@@ -95,7 +96,7 @@ dijci	gaijgwz	137
 cungj	aeu	135
 ciuqfap	guenj	135
 giz	dieg	133
-de	dwg	132
+de	dwg	131
 gij	gihbwnj	130
 yungh	gij	130
 gak	hangh	130
@@ -114,7 +115,7 @@ dangj	cunghyangh	120
 cienzmienh	doicaenh	119
 miz	vunz	116
 henhoh	gij	116
-hawj	de	115
+hawj	de	114
 dwng	siujbingz	112
 cuz	yinzminz	112
 laebndei	gij	112
@@ -131,9 +132,9 @@ guh	hong	108
 giekdaej	sezsih	108
 saedhengz	gij	108
 aen	minzcuz	108
-hawj	gij	108
 de	bae	107
 hawj	vunz	107
+hawj	gij	107
 ginghci	sevei	106
 boux	vunz	105
 gak	loih	105
@@ -143,8 +144,8 @@ song	aen	103
 gij	gienzik	102
 lij	miz	101
 gensez	aen	101
-guh	ndaej	100
 ciuq	fap	100
+guh	ndaej	99
 gyoengq	beksingq	99
 sam	aen	98
 gaijgez	gij	98
@@ -152,15 +153,15 @@ ndaej	miz	98
 caeuq	gyoengq	98
 laeb	ndei	97
 aeu	dawz	96
-de	couh	95
 fazcanj	caeuq	95
 cungguek	gungcanjdangj	95
 gij	gunghcoz	95
 gij	cozyung	95
 laebndei	aen	95
-hawciengz	ginghci	94
 ceiq	youqgaenj	94
+de	couh	93
 gak	fuengmienh	93
+hawciengz	ginghci	93
 gij	leih'ik	93
 gij	vah	93
 yinzminz	ginzcung	92
@@ -175,12 +176,12 @@ ciuq	gij	90
 daibyauj	daihhoih	90
 hungzgvanh	diuzgung	90
 dangj	lingjdauj	90
-gij	saeh	90
 ok	gij	90
 gak	guek	89
 gij	gvanhaeh	89
 ndei	bae	89
 gaijndei	gij	89
+gij	saeh	89
 laebhwnj	gij	88
 cauxbaenz	aen	87
 laebcaez	aen	87
@@ -230,19 +231,19 @@ gun	song	76
 saeh	neix	75
 fueng	dieg	75
 ndaej	engq	74
-byaij	diuz	74
 seveicujyi	yendaiva	74
 aeu	gyagiengz	74
 dieg	minzcuz	74
-miz	boux	73
 hix	mbouj	73
 song	boux	73
+byaij	diuz	73
 aen	gunghcwngz	73
 guenjleix	dijci	73
 guekmiz	giyez	73
 gvanhaeh	daengz	73
 gij	gaenbonj	73
 vut	gungz	73
+miz	boux	72
 song	cungj	72
 dwg	aeu	72
 ndei	aen	72
@@ -270,7 +271,6 @@ gij	giekdaej	69
 cauhlaeb	aen	69
 gyagiengz	gensez	69
 gak	minzcuz	69
-cungj	miz	68
 cujciz	caeuq	68
 gij	dijci	68
 daengz	aen	68
@@ -279,6 +279,7 @@ ndaw	mbanj	68
 vahsaw	siujsoq	68
 hix	dwg	67
 miz	aen	67
+cungj	miz	67
 dwg	youq	67
 dox	giethab	67
 cunghyangh	veijyenzvei	67
@@ -293,7 +294,6 @@ gig	daih	65
 gyavaiq	doicaenh	65
 daihlig	fazcanj	65
 cunghyangh	cwngcigiz	65
-aen	hozdung	65
 minzcuz	vwnzva	65
 ndawbiengz	fazcanj	64
 cwngfuj	caeuq	64
@@ -301,6 +301,7 @@ rog	hailangh	64
 ndawbiengz	baujcang	64
 moix	vunz	64
 sawj	gij	64
+aen	hozdung	64
 de	caeuq	63
 raeuz	yaek	63
 aen	daibyauj	63
@@ -320,7 +321,6 @@ gij	cwngci	62
 de	ndaej	62
 cungfaen	fazveih	62
 gij	faplwd	62
-daengx	seiqgyaiq	62
 ciuq	aen	62
 cwngci	swnghhoz	62
 gijliz	genjcaz	62
@@ -333,6 +333,7 @@ bienq	bae	61
 cungj	ndaej	61
 coicaenh	ginghci	61
 moix	bi	61
+daengx	seiqgyaiq	61
 aeu	miz	61
 gij	yinvu	61
 gij	hingzveiz	61
@@ -360,7 +361,6 @@ cauh	ok	58
 caeuq	faplwd	58
 couh	ndaej	58
 neix	couh	58
-haeuj	ndaw	58
 aen	mbanj	58
 lai	lo	58
 de	guh	57
@@ -372,16 +372,17 @@ gij	suijbingz	57
 guh	haedsim	57
 gij	ligliengh	57
 cwngcwz	cosih	57
-ndaw	sim	57
+haeuj	ndaw	57
 gihbwnj	goenggungh	57
-hawj	faenhsou	57
 miz	gienz	56
 ceiq	daemq	56
 gij	canjnieb	56
+raeuz	youq	56
 gij	fazcanj	56
 ndaej	hawj	56
 gij	hozdung	56
 gyadaih	gij	56
+ndaw	sim	56
 doicaenh	hwnqguh	56
 aen	guek	56
 gij	cingzgvang	55
@@ -409,8 +410,8 @@ aen	vwndiz	54
 miz	haujlai	54
 gij	souhaeuj	54
 bouxboux	cungj	54
+hawj	faenhsou	54
 aen	duenhmbaek	53
-gangj	vah	53
 dangj	daengx	53
 bae	doicaenh	53
 ceih	dangj	53
@@ -419,6 +420,7 @@ dwg	cungj	52
 guek	caeuq	52
 gaep	cwngfuj	52
 fazcanj	fuengsik	52
+gangj	vah	52
 cwngcwz	aen	52
 gij	yigen	52
 gwnz	giekdaej	52
@@ -530,8 +532,6 @@ guenjleix	caeuq	45
 henhoh	guekgya	45
 guenjleix	cidu	45
 cibbet	gaiq	45
-sojmiz	hih	45
-gangj	daengz	44
 aen	yinvu	44
 aeu	youq	44
 ndaej	youq	44
@@ -555,10 +555,11 @@ mbaetyungh	nwngzyenz	44
 gyoengq	hagseng	44
 dungcuz	swciyen	44
 gvangjsih	minzcuz	44
-yah	lengj	44
+sojmiz	hih	44
 cangqdiq	dih	44
 lai	boux	43
 mbouj	aeu	43
+gangj	daengz	43
 aen	lizsij	43
 dwg	diuz	43
 cungguek	haenx	43
@@ -576,6 +577,7 @@ ok	le	43
 mbaet	yungh	43
 yungh	song	43
 sanhgyangh	dungcuz	43
+yah	lengj	43
 vah	neix	42
 couh	miz	42
 gizmen	moq	42
@@ -604,7 +606,6 @@ lai	fanh	41
 ancienz	swnghcanj	41
 feihvuzciz	vwnzva	41
 gij	cienz	41
-doenghheij	vunz	41
 ranz	de	40
 baujhoh	caeuq	40
 dieg	cungqgyang	40
@@ -627,7 +628,6 @@ aen	fuengmienh	40
 yungh	nwngzyenz	40
 vwnzva	canjnieb	40
 doiq	gyoengq	40
-cibgouj	daih	40
 vah	saw	40
 bae	lo	40
 yungh	youq	39
@@ -650,12 +650,13 @@ gak	gyaiq	39
 rauh	iq	39
 ndaej	lai	39
 gyavaiq	gensez	39
+cibgouj	daih	39
 haujlai	vunz	39
+doenghheij	vunz	39
 guekgya	caeuq	38
 gij	guekgya	38
 bak	bi	38
 genhciz	aeu	38
-seveicujyi	hawciengz	38
 youq	dangqnaj	38
 hawj	aen	38
 mingzbeg	doekdingh	38
@@ -670,7 +671,6 @@ gij	ganbu	38
 deihfueng	gak	38
 bingzonj	haemq	38
 lozsiz	gij	38
-caemh	dwg	38
 fanh	ik	38
 yihliuz	baujyiemj	38
 caetliengh	caeuq	38
@@ -678,6 +678,7 @@ aen	cwngfuj	38
 vwnzva	minzcuz	38
 lai	miz	37
 haeuj	aen	37
+seveicujyi	hawciengz	37
 aen	gizmen	37
 ndaej	ndei	37
 gihminz	souhaeuj	37
@@ -706,7 +707,6 @@ youq	ranz	37
 sam	nyied	37
 nyied	sam	37
 gou	caeuq	37
-gou	dwg	37
 golaux	dungcuz	37
 boux	guh	36
 mbouj	gaeuq	36
@@ -730,6 +730,7 @@ hungnaek	caeuq	36
 gangj	gij	36
 cauhmoq	gij	36
 daeuj	guh	36
+caemh	dwg	36
 cienzmienh	saedhengz	36
 cingouj	cuzgouj	36
 goenggungh	vwnzva	36
@@ -737,7 +738,6 @@ gyagiengz	baujhoh	36
 gij	sawqdiemj	36
 guekmiz	swhbwnj	36
 huzbingz	doengjit	36
-de	yienghneix	36
 daengz	seizneix	36
 liujcouh	si	36
 ndaw	doz	36
@@ -776,7 +776,6 @@ gig	ndei	35
 dangj	cwngci	35
 guh	aen	35
 dwg	mbouj	35
-de	gangj	35
 byaij	okbae	35
 gij	ranzyouq	35
 miz	mbangj	35
@@ -788,8 +787,10 @@ guh	boux	35
 gvangjsih	bouxcuengh	35
 daeuj	daengz	35
 mbouj	raen	35
+de	yienghneix	35
 myauzcuz	swciyen	35
 banh	aen	35
+gou	dwg	35
 guh	baenz	34
 ceiq	ndei	34
 gag	miz	34
@@ -815,6 +816,7 @@ coengzyiemz	ceih	34
 yungh	vunz	34
 mbouj	dingz	34
 boux	lingjdauj	34
+de	gangj	34
 haenx	youq	34
 gij	gyauyuz	34
 hingzcwng	caepfap	34
@@ -825,7 +827,6 @@ duenhmbaek	cogaep	34
 gij	doxgaiq	34
 yienghneix	guh	34
 yienghneix	naeuz	34
-caemh	ij	34
 cunghvaz	yinzminz	33
 yinzminz	gunghozgoz	33
 yinzminz	cwngfuj	33
@@ -913,7 +914,6 @@ hezdiuz	fazcanj	31
 doengh	giz	31
 lai	aen	31
 cungj	sojyoujci	31
-doengh	cungj	31
 swhsiengj	cwngci	31
 raeuz	caeuq	31
 siujgangh	sevei	31
@@ -939,10 +939,10 @@ vaiq	di	31
 aeu	itcig	31
 eu	fwen	31
 dwg	vunz	31
-faenhsou	ij	31
+caemh	ij	31
 cangqdiq	he	31
-gak	boux	30
 neix	miz	30
+vunz	dih	30
 lai	vunz	30
 dijci	seveicujyi	30
 cienzmienh	guhbaenz	30
@@ -984,7 +984,9 @@ ginghci	mbouj	30
 banh	ndei	30
 caeuq	ginhdui	30
 neix	le	30
+faenhsou	ij	30
 vah	cangqdiq	30
+gak	boux	29
 boux	hagseng	29
 aen	seiqgyaiq	29
 boux	miz	29
@@ -999,6 +1001,7 @@ caeuq	cihciz	29
 aeu	lai	29
 seveicujyi	cidu	29
 caeuq	minzcuz	29
+doengh	cungj	29
 dwg	hangh	29
 cwngfuj	aeu	29
 mbaw	geizhauh	29
@@ -1056,13 +1059,11 @@ ma	ranz	29
 naeuz	de	29
 dingq	le	29
 he	bae	29
-faenhsou	caemh	29
 caeuq	cwngci	28
 boux	boux	28
 iq	caeuq	28
 faplwd	cidu	28
 gig	youqgaenj	28
-roen	seveicujyi	28
 lenzcwng	gensez	28
 bi	daeuj	28
 cidu	seveicujyi	28
@@ -1089,7 +1090,6 @@ caeuq	saedhengz	28
 gauhgiz	ganbu	28
 naengh	youq	28
 roengzrengz	bae	28
-gij	gingniemh	28
 gihci	caeuq	28
 baujcang	cidu	28
 couh	youq	28
@@ -1110,7 +1110,6 @@ youq	gij	27
 ceiq	hung	27
 sat	le	27
 haemq	lai	27
-hawj	doengh	27
 bi	gonq	27
 neix	youq	27
 lai	gvaq	27
@@ -1120,6 +1119,7 @@ yienhdaih	nungzyez	27
 diuzgen	de	27
 guh	caezcienz	27
 sigij	moq	27
+roen	seveicujyi	27
 caeuq	seizdaih	27
 gij	gozci	27
 saehnieb	fazcanj	27
@@ -1148,6 +1148,7 @@ aeu	laeb	27
 hingzcwng	guenjleix	27
 suciz	sang	27
 daengx	bi	27
+gij	gingniemh	27
 dox	boiqhab	27
 gijgwn	gijyw	27
 nwngzyenz	moq	27
@@ -1168,11 +1169,10 @@ couh	lumj	27
 son	vunz	27
 gungz	gunggeng	27
 geij	ngoenz	27
-gou	gangj	27
-couh	doq	27
 ndaej	fazcanj	26
 guh	gijmaz	26
 vwnzva	caeuq	26
+hawj	doengh	26
 vunz	caeuq	26
 miz	lai	26
 yinzminz	swnghhoz	26
@@ -1202,7 +1202,6 @@ gyoengq	dangjyenz	26
 gij	diuzgienh	26
 dangj	veijyenzvei	26
 haenx	gij	26
-gij	ndei	26
 gij	anqgienh	26
 caemh	miz	26
 gig	vaiq	26
@@ -1249,9 +1248,9 @@ ca	mbouj	26
 gou	youq	26
 hozdung	neix	26
 maenz	ngaenz	26
-de	raen	26
+gou	gangj	26
 gou	cungj	26
-gou	naeuz	26
+couh	doq	26
 goj	mbouj	26
 ij	rai	26
 raeuz	yehsuh	26
@@ -1317,7 +1316,6 @@ daengxcungq	beksingq	25
 cawqleix	ndei	25
 gyavaiq	laeb	25
 caeuq	beksingq	25
-gou	couh	25
 yied	daeuj	25
 daeuj	yied	25
 de	gaenq	25
@@ -1325,7 +1323,9 @@ yawj	ndaej	25
 mbouj	yungh	25
 ginghci	hwngfat	25
 yaep	he	25
-caeuq	gou	25
+de	raen	25
+gou	naeuz	25
+yehsuh	couh	25
 boux	lwgsae	25
 hawj	boux	24
 gij	dieg	24
@@ -1371,6 +1371,7 @@ dwg	bi	24
 gaep	gijliz	24
 dwg	gyoengq	24
 ganbu	aeu	24
+gij	ndei	24
 gezgou	caeuq	24
 ndawbiengz	huzciz	24
 gyagiengz	gamguenj	24
@@ -1383,7 +1384,6 @@ gij	hingzsik	24
 roengzrengz	gaijgez	24
 cienzmienh	coengzyiemz	24
 gauhyau	bizyezswngh	24
-dauq	dwg	24
 hingzcwng	saemjbae	24
 swnghhoz	baujcang	24
 gyoebhab	ceihleix	24
@@ -1416,10 +1416,10 @@ ok	daeuj	24
 cingsaenz	cibgouj	24
 ranz	gou	24
 hoeng	gou	24
+caeuq	gou	24
 ndei	lo	24
-daxmeh	gou	24
 gangj	naeuz	24
-yehsuh	couh	24
+faenhsou	caemh	24
 hih	gij	24
 caeuq	gihbwnj	23
 gij	hawciengz	23
@@ -1467,6 +1467,7 @@ seiq	aen	23
 diuz	loh	23
 gunghcoz	gihci	23
 youq	seiqhenz	23
+dauq	dwg	23
 hungnaek	ndeu	23
 haj	dwg	23
 ndaej	ndeicawq	23
@@ -1486,6 +1487,7 @@ banggungz	haifat	23
 bae	gauj	23
 boux	lwgnyez	23
 hong	guh	23
+gou	couh	23
 baez	daih'it	23
 swcigih	laebbaenz	23
 gij	gezgou	23
@@ -1494,6 +1496,7 @@ couh	dawz	23
 geij	boux	23
 daih	dangj	23
 couh	heuh	23
+daxmeh	gou	23
 de	dingq	23
 he	caeuq	23
 ok	ma	23
@@ -1576,7 +1579,6 @@ daengz	gwnz	22
 doicaenh	gensez	22
 saedyienh	le	22
 ngeix	daengz	22
-gij	neix	22
 gangj	mbouj	22
 dawz	de	22
 gij	heiqfaenh	22
@@ -1593,7 +1595,6 @@ gou	goj	22
 hih	saeh	22
 ij	ngaiz	22
 ij	hawj	22
-miz	hih	22
 miz	genz	21
 hix	miz	21
 neix	aeu	21
@@ -1644,7 +1645,6 @@ cienzmienh	lozsiz	21
 raeuz	aen	21
 famh	fap	21
 cujciz	lawz	21
-yiengq	de	21
 youqgaenj	caeuq	21
 cunghyangh	lingjdauj	21
 daengj	gij	21
@@ -1699,7 +1699,6 @@ gyoengqde	naeuz	21
 dwg	de	21
 dah	de	21
 vangz	ci	21
-aenvih	gyoengqde	21
 mij'z	vunz	21
 couh	majcangq	21
 heuh	de	20
@@ -1789,7 +1788,6 @@ gij	sezsih	20
 hamj	gyaiq	20
 sevei	gohyoz	20
 hengzguh	cizcwz	20
-haenx	dwg	20
 ndaej	daj	20
 dwg	haj	20
 gij	ndawbiengz	20
@@ -1811,6 +1809,7 @@ ciuqfap	hingzcwng	20
 rox	daengz	20
 gij	roenloh	20
 faplwd	fuzvu	20
+gij	neix	20
 genhciz	yungh	20
 gietdingh	cienzhoih	20
 cienzhoih	daezok	20
@@ -1833,6 +1832,7 @@ daeuj	hih	20
 gangj	hih	20
 fazliz	cenhgyah	20
 vunz	mwnq	20
+miz	hih	20
 dih	cangqdiq	20
 cunghgoz	gungcanjdangj	19
 le	haujlai	19
@@ -1873,6 +1873,7 @@ yenzcwz	aen	19
 minzcuj	gienzleih	19
 hag	gij	19
 boux	ganbu	19
+yiengq	de	19
 couh	deng	19
 de	soj	19
 dingq	gij	19
@@ -1912,6 +1913,7 @@ gij	vanzging	19
 dieg	henzguek	19
 ndawde	gij	19
 saedyienh	cunghvaz	19
+haenx	dwg	19
 doengjit	haenx	19
 ndaej	haeuj	19
 dwg	gijmaz	19
@@ -2064,7 +2066,6 @@ fuzvu	caeuq	18
 cunghbu	sihbu	18
 ceiqdingh	gij	18
 fangzdicanj	hawciengz	18
-vanzlij	miz	18
 gyagiengz	guh	18
 bingzyaenx	fazcanj	18
 gij	yunghcawq	18
@@ -2072,7 +2073,6 @@ daengj	lai	18
 bae	henhoh	18
 cienzhoih	aen	18
 guh	hozdung	18
-genhciz	byaij	18
 gya	rengz	18
 cangzdai	moq	18
 doxngamj	fazcanj	18
@@ -2100,6 +2100,7 @@ gwn	ngaiz	18
 caeuq	mehyah	18
 ciengx	nonsei	18
 nyok	hawj	18
+aenvih	gyoengqde	18
 fangz	doz	18
 cwngci	hezsangh	17
 veijyenzvei	caeuq	17
@@ -2168,7 +2169,6 @@ dwg	vihliux	17
 lohsienq	fuengcim	17
 mbouj	dawz	17
 guh	mbouj	17
-gienzlig	yinhhengz	17
 miz	cwzyin	17
 mbouj	gamj	17
 baenzbaenz	mbouj	17
@@ -2218,11 +2218,13 @@ gemj	cai	17
 daejyienh	le	17
 ndei	neix	17
 gihcwngz	yihliuz	17
+vanzlij	miz	17
 gyamaenh	gij	17
 gangjvah	youqgaenj	17
 yinzda	daibyauj	17
 de	bienq	17
 aen	cuj	17
+genhciz	byaij	17
 aen	iugouz	17
 sawqmwh	fatseng	17
 doek	youq	17
@@ -2232,7 +2234,6 @@ cungguek	dog	17
 bauj	hawj	17
 fungsug	sibgvenq	17
 minzcuz	comzyouq	17
-cungj	vunz	17
 minzcuz	daegsaek	17
 couh	hawj	17
 canjnieb	hwngfat	17
@@ -2252,7 +2253,6 @@ yienghneix	gangj	17
 hoeng	de	17
 han	naeuz	17
 sinhgvanh	feiyenz	17
-doenghgij	vunz	17
 fwn	doek	17
 mbouj	sinq	17
 mwnq	miz	17
@@ -2260,13 +2260,11 @@ naeuz	le	17
 gajlaeng	yehsuh	17
 baenx	haujlai	17
 neix	hih	17
-gyoengqde	youq	16
 neix	doiq	16
 yinzminz	ndaej	16
 roxnaeuz	mbouj	16
 de	ma	16
 dwg	yungh	16
-aenvih	de	16
 soengq	hawj	16
 youq	seiz	16
 caeuq	gaijgwz	16
@@ -2358,6 +2356,7 @@ diuz	miengloh	16
 moix	aen	16
 vunz	siujsoq	16
 gihci	hawj	16
+gienzlig	yinhhengz	16
 guh	seng'eiq	16
 yiengh	lajmbanj	16
 diuhdoengh	gij	16
@@ -2432,9 +2431,9 @@ iq	rauh	16
 aen	ranz	16
 de	hawj	16
 soj	gangj	16
+cungj	vunz	16
 ndei	hangh	16
 de	haeuj	16
-de	caiq	16
 raen	de	16
 youq	namzningz	16
 namzningz	si	16
@@ -2452,11 +2451,11 @@ gij	dinfwngz	16
 swcigih	minzcunghveij	16
 gyoengq	bouxhag	16
 miz	ngoenz	16
-gou	siengj	16
 naeuz	mwngz	16
 he	hwj	16
 naeuz	gou	16
 gwnz	muengx	16
+doenghgij	vunz	16
 ngaiz	vunz	16
 naeuz	vunz	16
 yienghneix	le	16
@@ -2464,12 +2463,14 @@ mwnq	bae	16
 dingq	daengz	16
 hwj	ngaiz	16
 beij	bak	15
+gyoengqde	youq	15
 yungh	vah	15
 byaij	haeuj	15
 yinzminz	caeuq	15
 ma	daengz	15
 it	bak	15
 heuh	guh	15
+aenvih	de	15
 fwndou	muzbyauh	15
 dwk	roengz	15
 fazcanj	canloz	15
@@ -2499,7 +2500,6 @@ doengjit	cansen	15
 yinzminz	gaijfangginh	15
 caeuq	fanj	15
 ceiq	guengjdaih	15
-raeuz	genhciz	15
 cungj	raen	15
 gunghyinz	gaihgiz	15
 aen	lijsiengj	15
@@ -2653,6 +2653,7 @@ ndawbiengz	baujyiemj	15
 ngoenz	ndeu	15
 fat	ok	15
 bak	lai	15
+de	caiq	15
 doxgaep	guh	15
 minzcuz	dayoz	15
 rox	gangj	15
@@ -2663,6 +2664,7 @@ yungh	sawcuengh	15
 foux	saeceij	15
 swciyen	youq	15
 beizyin	son'gyauq	15
+gou	siengj	15
 ca	di	15
 raen	gou	15
 haeuj	bae	15
@@ -2680,7 +2682,6 @@ gwn	laeuj	15
 naeuz	dwg	15
 lij	gen	15
 vahsaw	guekgya	15
-gajlaeng	de	15
 yehsuh	bae	15
 ngamq	baex	15
 bae	hih	15
@@ -2711,6 +2712,7 @@ ginghci	vwnzva	14
 nduknaeuh	doucwngh	14
 cibfaen	yawjnaek	14
 ciuq	hengz	14
+raeuz	genhciz	14
 seizgeiz	guek	14
 diuz	mingh	14
 yenzcwz	caeuq	14
@@ -2920,14 +2922,12 @@ he	couh	14
 gyoengq	doengzhag	14
 le	lij	14
 cunh	neix	14
-haiguh	aen	14
 yizcanj	mingzloeg	14
 hoizguh	denyingj	14
 ngoenz	he	14
 bouxcoz	haenx	14
 lwg	neix	14
 gou	dingq	14
-aenvih	gou	14
 gou	gwn	14
 song	ngoenz	14
 bang	gou	14
@@ -2939,7 +2939,6 @@ cuengh	yauz	14
 naenx	lahbah	14
 he	ma	14
 caeuq	vahsaw	14
-caemh	luj	14
 dwg	ij	14
 de	hwj	14
 hih	boux	14
@@ -2952,7 +2951,6 @@ cenhgyah	he	14
 ij	wnggai	14
 cujyau	baengh	13
 miz	bizyau	13
-muzdiz	dwg	13
 minzcuz	vunz	13
 doeg	saw	13
 sang	ndeu	13
@@ -3158,7 +3156,6 @@ veiswngh	gihgou	13
 boux	souhaeuj	13
 gvendaengz	gij	13
 raemx	swhyenz	13
-de	vanzlij	13
 nwngzyenz	vanzbauj	13
 habfap	gienzik	13
 vaiq	gvaqbouh	13
@@ -3209,7 +3206,6 @@ gauhdwngj	yozyau	13
 gij	saenqsik	13
 banh	le	13
 gijmaz	saeh	13
-hawj	gyoengqraeuz	13
 bang	gyoengqde	13
 vunzlai	gak	13
 gaep	fazyen	13
@@ -3226,6 +3222,7 @@ boq	aenvenz	13
 cuz	swciyen	13
 swciyen	banh	13
 youq	gwnzmbwn	13
+haiguh	aen	13
 yungzanh	yen	13
 lijyouz	vwnzva	13
 beixnuengx	yauzcuz	13
@@ -3237,7 +3234,6 @@ doxdax	neix	13
 dou	daeuj	13
 daxmeh	de	13
 mwngz	miz	13
-mwh	gou	13
 mbanj	gou	13
 dai	vunz	13
 lwg	gou	13
@@ -3247,7 +3243,6 @@ gou	cij	13
 de	ok	13
 liux	lo	13
 gaemh	dawz	13
-mwngz	ij	13
 de	heuh	13
 gaengjdingq	ij	13
 faenhsou	ndaej	13
@@ -3266,14 +3261,14 @@ de	hih	13
 vih	ij	13
 daengz	hih	13
 de	mwnq	13
-gyoengqde	caemh	13
+gajlaeng	de	13
 caeuq	doenghheij	13
 ngoenz	mwnq	13
 cangqdiq	bae	13
 ruz	bae	13
 naeuz	sou	13
 gaenhbaenj	mbouj	13
-mwngz	caemh	13
+caemh	luj	13
 gunghdenq	cangqdiq	13
 gwnz	gyaq	13
 mbaw	rong	13
@@ -3286,6 +3281,7 @@ fazcanj	baenz	12
 raeuz	miz	12
 boux	deng	12
 mbouj	baenz	12
+muzdiz	dwg	12
 haj	aen	12
 bak	gouj	12
 seizneix	miz	12
@@ -3552,6 +3548,7 @@ gij	beijlwd	12
 yozvuz	cidu	12
 sevei	ciengxlaux	12
 naengzlig	caeuq	12
+de	vanzlij	12
 goengbingz	cwng'yi	12
 ndawbiengz	douzswh	12
 hojnanz	de	12
@@ -3604,6 +3601,7 @@ ra	hong	12
 daengj	hingzsik	12
 gvi	haeuj	12
 hwnjdaeuj	lo	12
+hawj	gyoengqraeuz	12
 siengj	daengz	12
 goengbingz	leixcingq	12
 son	gyoengq	12
@@ -3629,7 +3627,9 @@ nanzningz	si	12
 sihlinz	yen	12
 myauzcuz	yangh	12
 gou	raen	12
+aenvih	gou	12
 dwg	byawz	12
+mwh	gou	12
 mwngz	couh	12
 lai	le	12
 gou	guh	12
@@ -3638,8 +3638,8 @@ gou	aeu	12
 de	le	12
 gvaq	song	12
 cungj	lau	12
-gou	rox	12
 bouxcai	cangqdiq	12
+mwngz	ij	12
 raen	yienghneix	12
 ndaej	gw	12
 bouxyiuz	nding	12
@@ -3650,10 +3650,9 @@ yungh	vahsaw	12
 doengyungh	caeuq	12
 gaj	bouxsai	12
 maex	gou	12
-faenhsou	mbouj	12
 dih	daiqbiuj	12
 gouzhaenh	cangqdiq	12
-hauhnaeuz	miz	12
+gyoengqde	caemh	12
 ngoenz	ngoenzyietbaeg	12
 yehsuh	naeuz	12
 hawj	cangqdiq	12
@@ -3666,7 +3665,6 @@ guh	hwj	12
 sou	ni	12
 ndaej	dauqlix	12
 doiq	faenhsou	12
-muengh	cangqdiq	12
 doxdaeuj	gij	11
 miz	sam	11
 dwg	yinzminz	11
@@ -3924,7 +3922,6 @@ vuzciz	vwnzmingz	11
 doiq	guekgya	11
 duivuj	gensez	11
 yisiz	hingzdai	11
-yiyi	youqgaenj	11
 ndaej	bae	11
 miz	haenx	11
 gyagiengz	gozfangz	11
@@ -3933,7 +3930,6 @@ baenaj	gig	11
 aeu	cagaenj	11
 gvancez	daengz	11
 cingzcik	moq	11
-daj	rog	11
 guding	swhcanj	11
 daengj	buek	11
 cauhmoq	haenx	11
@@ -3957,7 +3953,6 @@ yihliuz	baujcang	11
 giyez	duiyouh	11
 lajmbanj	hozcoz	11
 deng	cai	11
-daengx	mbanj	11
 swnghcanj	swhliu	11
 doenghduz	doenghgo	11
 gihbwnj	ginghyingz	11
@@ -4125,6 +4120,7 @@ gou	yawj	11
 miz	lo	11
 vunz	baekfueng	11
 rox	de	11
+gou	rox	11
 rox	lo	11
 naeuz	mbouj	11
 naeuz	goq	11
@@ -4134,12 +4130,15 @@ ok	bae	11
 de	baez	11
 yijvwnz	yenzgiu	11
 ndang	gou	11
+he	le	11
 vunz	dawz	11
 saw	siujsoq	11
 goj	dwg	11
 naeuz	ndaej	11
 baij	daeuj	11
+faenhsou	mbouj	11
 ndaw	lauz	11
+hauhnaeuz	miz	11
 he	hih	11
 ngaiz	gyaeng	11
 raen	geizheih	11
@@ -4171,7 +4170,6 @@ roxnyinh	gij	10
 de	gig	10
 youz	gij	10
 youq	guekgya	10
-yienghneix	couh	10
 de	dih	10
 bi	ceiq	10
 cib	haj	10
@@ -4301,7 +4299,6 @@ caeuq	gaijgez	10
 guh	yienghndei	10
 caeuq	henhoh	10
 haenx	miz	10
-dwg	haeuj	10
 vanzlij	cawqyouq	10
 hwnqguh	giekdaej	10
 gaijndei	hungzgvanh	10
@@ -4344,7 +4341,6 @@ aeu	giengiet	10
 vwndiz	mbouj	10
 itdingh	mbouj	10
 youq	swhsiengj	10
-caiq	gangj	10
 cungj	cingzgvang	10
 ndei	mbouj	10
 sawj	dangj	10
@@ -4455,6 +4451,7 @@ vwnzva	miz	10
 gensez	miz	10
 iugouz	caeuq	10
 sien	fazcanj	10
+yiyi	youqgaenj	10
 coicaenh	vwnzva	10
 gozfangz	gensez	10
 mboujduenh	fazcanj	10
@@ -4466,6 +4463,7 @@ daengz	dangj	10
 yienhsiengq	nduknaeuh	10
 bae	naeuz	10
 lij	yaek	10
+daj	rog	10
 engqgya	gagrox	10
 siuhauq	nwngzyenz	10
 nwngzyenz	lai	10
@@ -4504,6 +4502,7 @@ caenh'itbouh	laeb	10
 saedhengz	caeuq	10
 cizgungh	gihbwnj	10
 hawsingz	cizgungh	10
+daengx	mbanj	10
 lungzdouz	giyez	10
 daegsaek	canjnieb	10
 cingzcik	hungloet	10
@@ -4682,15 +4681,12 @@ dahnuengx	gou	10
 gou	baez	10
 faj	fwngz	10
 dauq	mbouj	10
-de	doq	10
 gvaq	yaep	10
 mwh	de	10
 goeng	de	10
 siengj	hawj	10
-de	ij	10
 goq	naeuz	10
 he	lo	10
-cangqdiq	couh	10
 de	lo	10
 naengh	laedienh	10
 ndaw	laedienh	10
@@ -4720,13 +4716,11 @@ byaij	goq	10
 singqgingh	ndaw	10
 sij	naeuz	10
 doenghgij	vah	10
-faenhsou	ijaeu	10
 mbouj	danhcij	10
 de	goq	10
 vunz	cangqdiq	10
 aen	bingj	10
 mbouj	nginh	10
-caemh	rox	10
 suen	mwnq	10
 faenhsou	mwnq	10
 sinq	yehsuh	10
@@ -4736,6 +4730,7 @@ mbouj	naemj	9
 bingzfueng	goengleix	9
 rox	guh	9
 neix	dih	9
+yienghneix	couh	9
 roxnaeuz	gij	9
 lizsij	vwnzva	9
 dieg	miz	9
@@ -4882,6 +4877,7 @@ bae	gietdingh	9
 gienzlig	guh	9
 comzgiet	gij	9
 gyoengq	bouxcoz	9
+dwg	haeuj	9
 ceiqdingh	caemhcaiq	9
 caemhcaiq	saedhengz	9
 caeuq	siuhfei	9
@@ -5104,7 +5100,6 @@ yiengq	daengx	9
 yied	baez	9
 baez	yied	9
 haenx	hawj	9
-youqgaenj	youh	9
 ciengx	mou	9
 cungdenj	haenx	9
 vunz	gwn	9
@@ -5357,11 +5352,13 @@ mwngz	cungj	9
 ma	hawj	9
 bae	cawx	9
 yw	ndei	9
+de	doq	9
 buet	bae	9
 mehyah	de	9
 gihduz	dih	9
 mbouj	gaj	9
 couh	yienghneix	9
+cangqdiq	couh	9
 baenx	cenz	9
 rox	naeuz	9
 daegsaek	daihneix	9
@@ -5389,7 +5386,7 @@ cangqdiq	lo	9
 ij	baenzlaw	9
 gajlaeng	gyoengqde	9
 ceh	doek	9
-gou	soj	9
+faenhsou	ijaeu	9
 naengh	ruz	9
 gij	gw	9
 goeng	hihliz	9
@@ -5398,6 +5395,8 @@ doenghgij	saeh	9
 dih	vuengz	9
 ij	guh	9
 gihduz	hwj	9
+mwngz	caemh	9
+caemh	rox	9
 rox	cangqdiq	9
 ma	dangq	9
 the	lord	9
@@ -5567,6 +5566,7 @@ gungcanjcujyi	caeuq	8
 miz	bonjsaeh	8
 dwg	ndaej	8
 laebdaeb	guh	8
+gouq	vunz	8
 gij	dangjyenz	8
 couh	gag	8
 gizyawz	gij	8
@@ -5626,6 +5626,7 @@ sizcen	cauhmoq	8
 yiemzsuk	cawqleix	8
 gaen	hwnj	8
 cunghyangh	gij	8
+caiq	gangj	8
 guh	couh	8
 byaij	baenaj	8
 giengiet	fuengzre	8
@@ -5860,6 +5861,7 @@ cidu	yienghmoq	8
 cungdenj	ca'ndei	8
 ik	gaen	8
 nungzcanjbinj	youqgaenj	8
+youqgaenj	youh	8
 hwnqguh	nungzyez	8
 suijgu	iq	8
 cawz	yiemj	8
@@ -5990,7 +5992,6 @@ gij	baujcang	8
 yamq	ok	8
 moq	miz	8
 lwnhgangj	gij	8
-gij	yiyi	8
 daegsaek	dwg	8
 doekdingh	de	8
 mizyouq	haenx	8
@@ -6140,7 +6141,6 @@ cezmuz	ndeiyawj	8
 yananz	yangh	8
 lingzyinz	yen	8
 rumz	swnh	8
-doengh	go	8
 ranz	raeuz	8
 gaiq	hong	8
 gveilinz	si	8
@@ -6186,7 +6186,6 @@ gou	lo	8
 gawq	vah	8
 gou	naemj	8
 seizneix	de	8
-gou	muengh	8
 maj	daengz	8
 vunznoix	gvangjsih	8
 nyouh	conh	8
@@ -6196,6 +6195,7 @@ rox	baenzlawz	8
 mbouj	guhsing	8
 dih	yehsuh	8
 guh	yah	8
+de	ij	8
 baenx	gyoengq	8
 aen	de	8
 doengh	duz	8
@@ -6219,10 +6219,7 @@ couh	daiq	8
 gyoengq	nyezrauh	8
 daizbyaeklaux	cuengh	8
 ngaenz	he	8
-daxboh	daxmeh	8
-daengj	daengz	8
 gaenxguh	seuqcingh	8
-yehsuh	caiq	8
 faenhsou	ni	8
 hih	dwg	8
 hab'eiq	habhoz	8
@@ -6244,6 +6241,7 @@ doenghheij	lwgsae	8
 yehsuh	caemh	8
 akak	rengzrengz	8
 doengh	ceh	8
+gou	soj	8
 faenhsou	rox	8
 faenhsou	hih	8
 ma	gangj	8
@@ -6255,13 +6253,12 @@ gaenq	rai	8
 couh	haeuj	8
 gij	seihaiz	8
 faenhsou	naeuz	8
-caemh	vanzlij	8
 gou	hih	8
 youq	dineix	8
 daeg	de	8
-faenhsou	youq	8
 raeuz	hih	8
 caensim	caen'eiq	8
+muengh	cangqdiq	8
 yienh	hawj	8
 mwngz	hih	8
 dangq	guh	8
@@ -6339,7 +6336,6 @@ hawciengz	bae	7
 gvi	aen	7
 baez	daengx	7
 hungmbwk	dwng	7
-doicaenh	yendaiva	7
 vih	gvancez	7
 ndaej	gyagiengz	7
 ndaej	daezswng	7
@@ -6480,7 +6476,6 @@ aeu	gaengawq	7
 banhfap	bae	7
 hoih	geizgan	7
 cujciz	gak	7
-gangj	couh	7
 caeuq	genjcaz	7
 ginzcung	gunghcoz	7
 sam	faenh	7
@@ -7019,6 +7014,7 @@ ndaw	guekgya	7
 doengzcaez	nyinhnaeuz	7
 moq	gvendaengz	7
 gaijgwz	fueng'yiengq	7
+gij	yiyi	7
 fuengmienh	daeuj	7
 yiengq	ndaw	7
 di	vwndiz	7
@@ -7254,6 +7250,7 @@ ngoenz	daihngeih	7
 sanglinz	yen	7
 bouxhek	daeuj	7
 leih	beksingq	7
+doengh	go	7
 si	neix	7
 doxcomz	giz	7
 he	youq	7
@@ -7296,7 +7293,6 @@ youh	bae	7
 gaej	gangj	7
 lwgnyez	dou	7
 roengz	ci	7
-maeuq	youq	7
 cij	deng	7
 lai	dangqmaz	7
 hag	ndaej	7
@@ -7305,7 +7301,6 @@ aen	he	7
 gangj	gojgaeq	7
 nyumx	baengz	7
 geijlai	nanz	7
-aenvih	aen	7
 mbanj	de	7
 swz	moq	7
 dawz	ma	7
@@ -7352,7 +7347,6 @@ yienghmwnq	bae	7
 cungj	mij	7
 mbouj	gwn	7
 okdaeuj	he	7
-yiengq	couh	7
 raen	gij	7
 neix	naeuz	7
 go	de	7
@@ -7400,19 +7394,18 @@ youq	yizgyangh	7
 swiq	baiz	7
 gyoengqde	raen	7
 gveng	roengz	7
+daxboh	daxmeh	7
 miz	byawz	7
 buh	de	7
+daengj	daengz	7
 youq	ngoenz	7
 gyoengqde	gangj	7
 gyoengqde	dingq	7
 cimh	yehsuh	7
 cangqdiq	baij	7
 vanzlij	caiq	7
-yehsuh	vanzlij	7
-cingq	luj	7
 sinq	de	7
 ndaej	seiqseiz	7
-aenvih	cangqdiq	7
 hwj	ndaej	7
 daengz	yehsuh	7
 cangqdiq	hwj	7
@@ -7420,7 +7413,6 @@ cangqdiq	neix	7
 ndaej	mienx	7
 mienx	coih	7
 ma	hih	7
-hih	mbouj	7
 boux	ngaiz	7
 gvi	hawj	7
 de	ni	7
@@ -7428,11 +7420,11 @@ yehsuh	dingq	7
 gij	fawz	7
 hawj	yehsuh	7
 boenq	fangz	7
-hawj	doenghheij	7
 bae	cimh	7
 cimh	de	7
 maj	lo	7
 mij	banqfaz	7
+yehsuh	caiq	7
 mwnq	naeuz	7
 gyoengqde	yienghneix	7
 gajlaeng	gyoengq	7
@@ -7444,7 +7436,6 @@ caemh	gaengjdingq	7
 yehsuh	gangj	7
 gangj	doenghgij	7
 hih	couh	7
-doiq	doenghheij	7
 goq	bae	7
 caeuq	mwngz	7
 hih	ngaenz	7
@@ -7456,10 +7447,10 @@ gij	laehbeih	7
 cangqdiq	dwgcaengz	7
 hih	doenghheij	7
 gou	gouz	7
+faenhsou	youq	7
 gaen	mwngz	7
 vunz	ndei	7
 doenghheij	mbouj	7
-faenhsou	wnggai	7
 aenvih	faenhsou	7
 dawz	yehsuh	7
 hih	ngoenz	7
@@ -7470,10 +7461,6 @@ ding	hwnj	7
 cixcib	bae	7
 codaengj	gyauyuz	7
 gyauyuz	yozyen	7
-gyoengqraeuz	caemh	7
-gyoengqraeuz	soj	7
-so	that	7
-hauhnaeuz	gyoengqraeuz	7
 dwg	cunghgoz	6
 it	aen	6
 cunghgoz	yinzminz	6
@@ -7553,6 +7540,7 @@ veijyenzvei	yiengq	6
 aen	daihhoih	6
 youq	sigij	6
 guh	seveicujyi	6
+doicaenh	yendaiva	6
 gensez	daengj	6
 guek	guenj	6
 yingjyangj	mbouj	6
@@ -7704,6 +7692,7 @@ youz	gaep	6
 bae	caephengz	6
 gietdingh	haenx	6
 cujciz	de	6
+gangj	couh	6
 yawjnaek	aen	6
 faenh	cih	6
 it	gaep	6
@@ -8509,7 +8498,6 @@ guhcawj	caeuq	6
 hengz	ndei	6
 cuj	hwnjgauj	6
 hwnjgauj	vwnzgen	6
-youh	gyaeraez	6
 laebbaenz	doxdaeuj	6
 mingzbeg	daezok	6
 gvendaengz	cienzmienh	6
@@ -8776,7 +8764,6 @@ mbouj	caeuq	6
 caeuq	gueknden	6
 youh	caiq	6
 loengh	cingcuj	6
-de	vih	6
 gyoengqde	dawz	6
 mbouj	hai	6
 caeuq	cinghseuq	6
@@ -8921,7 +8908,6 @@ lumjnaeuz	miz	6
 gou	cam	6
 daengz	namzningz	6
 gauj	mbouj	6
-miz	haemh	6
 youh	daeuj	6
 ranz	bae	6
 siengcouh	yen	6
@@ -8932,6 +8918,7 @@ raedceij	mulaujcuz	6
 fuluz	myauzcuz	6
 ciengq	fwen	6
 veiz	bazginz	6
+aenvih	aen	6
 ndeu	guh	6
 daibyaujsing	hanghmoeg	6
 miz	fuk	6
@@ -8942,12 +8929,14 @@ song	maenz	6
 ndaej	liedhaeuj	6
 youq	sanhgyangh	6
 daengz	sanhgyangh	6
+feihyiz	vwnzva	6
 haenx	gou	6
 de	okdaeuj	6
 gangj	gawq	6
 aeu	fwngz	6
 aen	vanj	6
 cungj	heuh	6
+gou	muengh	6
 gvaq	cieng	6
 bae	ranz	6
 dwg	goeng	6
@@ -8978,9 +8967,8 @@ doengh	daih	6
 daih	gajlaeng	6
 vunz	hijswzlez	6
 vunz	hih	6
-de	gaengjdingq	6
 minzcuz	daeuj	6
-baenz	lo	6
+yiengq	couh	6
 rongh	sagsag	6
 hung	he	6
 gou	hawj	6
@@ -9003,7 +8991,6 @@ heuh	gyoengqde	6
 de	naengh	6
 ndonj	gvaq	6
 gwn	liux	6
-muengh	mwngz	6
 daeq	gyaeuj	6
 itsienq	hoenx	6
 hoenx	binghraq	6
@@ -9070,8 +9057,9 @@ cenzgangj	cangqdiq	6
 daeuj	gaen	6
 gou	bax	6
 yehsuh	doiq	6
-song	daeglwg	6
+hih	mbouj	6
 yehsuh	dih	6
+hawj	doenghheij	6
 cenzgangj	gij	6
 lo	bax	6
 mohsih	dih	6
@@ -9082,6 +9070,7 @@ miz	sinqsim	6
 gij	coih	6
 maj	ranz	6
 yienghneix	doiq	6
+yehsuh	vanzlij	6
 caemh	gaen	6
 han	gyoengqde	6
 mwngz	vihmaz	6
@@ -9098,6 +9087,7 @@ he	lah	6
 ndaw	lwgra	6
 faenhsou	soj	6
 danhcij	naeuz	6
+doiq	doenghheij	6
 naeuz	gyoengqde	6
 lau	hwj	6
 ndaej	goq	6
@@ -9116,30 +9106,29 @@ vunz	gw	6
 gw	gij	6
 cangqdiq	dunghgoq	6
 vih	yienghneix	6
-mij	gijmaz	6
+caemh	vanzlij	6
 bietdingh	ij	6
 mingh	bonjfaenh	6
 yehsuh	he	6
 hih	nej	6
 daixlingh	boux	6
 cam	mwngz	6
-cangqdiq	cij	6
 dajbwiz	caeuq	6
 youq	baixgvaz	6
 dang	ak	6
 mijyaengz	miz	6
+faenhsou	wnggai	6
 dih	cawjeiq	6
 dih	majliqyaq	6
-guh	hoiq	6
 hezvei	daibyauj	6
 sam	cib	6
 bak	seiq	6
-gou	vanzlij	6
+gyoengqraeuz	caemh	6
 habhoz	cangqdiq	6
 ndaej	diudik	6
 raeuz	dih	6
 cingj	faenhsou	6
-miz	hoenzsaenz	6
+so	that	6
 dih	hoenzsaenz	6
 dauq	daeuj	6
 haj	cib	5
@@ -9605,7 +9594,6 @@ guekcingz	neix	5
 doicaenh	majgwzswhcujyi	5
 yinzminz	ginhdui	5
 ndaej	doenghngauz	5
-mwh	gij	5
 haedsim	dwg	5
 baujciz	doxdoengz	5
 baijbouh	dangj	5
@@ -10182,7 +10170,6 @@ gij	fukheiq	5
 vih	coicaenh	5
 caeuq	dangdieg	5
 gozci	cwzyin	5
-daih	cingsaenz	5
 gou	daiqbiuj	5
 daiqbiuj	gozvuyen	5
 cwnghez	veijyenz	5
@@ -10462,6 +10449,7 @@ guh	gangjmingz	5
 guekgya	gensez	5
 vih	gaijgez	5
 gih	si	5
+youh	gyaeraez	5
 cungjdaej	iugouz	5
 de	daezok	5
 ndwen	lai	5
@@ -10976,6 +10964,7 @@ guekgya	mbouj	5
 boux	caeuq	5
 lijlun	cwngzgoj	5
 mbouj	doeng	5
+de	vih	5
 miz	roen	5
 youq	minzcuz	5
 cingsaenz	yienghsiengq	5
@@ -11250,6 +11239,7 @@ gven	dou	5
 swenj	hwnjdaeuj	5
 haenx	naeuz	5
 daeuj	gwn	5
+miz	haemh	5
 daengz	hagdangz	5
 gaemz	heiq	5
 meh	gou	5
@@ -11359,6 +11349,7 @@ simndei	simsoh	5
 he	dih	5
 cangqdiq	youq	5
 dwg	hoenzsaenz	5
+de	gaengjdingq	5
 vah	de	5
 cangqdiq	caeuq	5
 aen	suen	5
@@ -11366,6 +11357,7 @@ hwnj	bya	5
 cangqdiq	cauh	5
 gij	rongh	5
 raemx	he	5
+baenz	lo	5
 coengq	youq	5
 gij	bya	5
 dieg	banggungz	5
@@ -11402,6 +11394,7 @@ aen	dieggoek	5
 aen	ndoi	5
 lumj	boux	5
 ndwencieng	daengz	5
+muengh	mwngz	5
 sim	caengz	5
 aeu	hong	5
 ndaw	gyausiz	5
@@ -11485,7 +11478,6 @@ cij	ndei	5
 gou	itdingh	5
 de	gingqyienz	5
 cik	ga	5
-du	vaz	5
 sij	sei	5
 cinz	naijgvei	5
 danghnaeuz	gou	5
@@ -11510,6 +11502,7 @@ dwg	sojmiz	5
 raen	goq	5
 dih	saeh	5
 faenhsou	vanzlij	5
+cingq	luj	5
 mbouj	ngaiz	5
 coih	lo	5
 guh	sijlij	5
@@ -11522,7 +11515,6 @@ boux	mwnq	5
 laeng	de	5
 dwg	gihduz	5
 gojyez	moq	5
-gou	seizneix	5
 gou	gaengjdingq	5
 dwg	saedsaeh	5
 cangqdiq	bohmbwn	5
@@ -11536,6 +11528,7 @@ yehsuh	daj	5
 caemh	ngaiz	5
 loek	gaijgoq	5
 de	yawjraen	5
+song	daeglwg	5
 gyoengqde	caeuq	5
 ma	lo	5
 caemh	dingq	5
@@ -11596,6 +11589,7 @@ ij	dingq	5
 doenghgij	ndaengndwet	5
 hih	doenghgij	5
 byiq	myaiz	5
+mij	gijmaz	5
 gijmaz	ndaej	5
 sim	faenhsou	5
 vah	couh	5
@@ -11614,6 +11608,7 @@ mbwn	cauh	5
 cauh	deih	5
 luj	doenghheij	5
 ij	baenzlawz	5
+cangqdiq	cij	5
 byawz	ndaej	5
 ngaiz	gyoengqde	5
 faenhsou	gouz	5
@@ -11625,24 +11620,21 @@ hauhnaeuz	faenhsou	5
 co	suen	5
 bouxcawj	suen	5
 dauqlix	le	5
-caenhgag	de	5
 ij	siujsim	5
-cangqdiq	vih	5
 hih	ma	5
 ciet	bienqgoqbae	5
 doenghheij	goengjsae	5
 cangqdiq	gaenq	5
 caeuq	faenhsou	5
 saedsaeh	he	5
+guh	hoiq	5
 veiz	siuhngai	5
 saenq	sien	5
 hagseng	sizsiz	5
 cib	nyied	5
 youq	rogranz	5
 fuengz	byaj	5
-cinhngaiq	dih	5
 gyoengqraeuz	couh	5
-ij	naeuz	5
 diudik	he	5
 dih	haijliengh	5
 duet	ok	5
@@ -11651,7 +11643,7 @@ faenhsou	bang	5
 faenhsou	guh	5
 beixnuengx	hax	5
 naeuz	gyoengqraeuz	5
-gij	siuhsiz	5
+miz	hoenzsaenz	5
 jesus	christ	5
 gyaeng	hih	5
 ij	baengh	5
@@ -11709,7 +11701,6 @@ cib	seiq	4
 beij	gouj	4
 de	gaj	4
 ciemq	dieg	4
-a	gaep	4
 lijyouz	gingjgih	4
 gemjmbaeu	gij	4
 ceiq	raez	4
@@ -12241,6 +12232,7 @@ ronzdoeng	daengz	4
 mbouj	nyinh	4
 genhciz	daj	4
 dwg	giendingh	4
+mwh	gij	4
 mbouj	leix	4
 mbouj	habgek	4
 gij	cenzduz	4
@@ -12714,8 +12706,6 @@ yienhdaih	cizyez	4
 bwnjgoh	gauhyau	4
 yiengq	lajmbanj	4
 lwg	nungzminzgungh	4
-dwz	ci	4
-ci	dij	4
 vunzcaiz	suciz	4
 doicaenh	yihliuz	4
 bangbouj	swhginh	4
@@ -12951,7 +12941,6 @@ ginwngz	ak	4
 doh	hawsingz	4
 aen	segih	4
 saehnieb	caiq	4
-doiq	raeuz	4
 fazcanj	youh	4
 gyadaih	cihciz	4
 anbaiz	couhnieb	4
@@ -13050,6 +13039,7 @@ yinzminz	cuengq	4
 youq	ndawsim	4
 diegvih	ceiq	4
 ndei	youq	4
+daih	cingsaenz	4
 mboujduenh	duedaeu	4
 moq	engq	4
 baugau	cwngfuj	4
@@ -14517,7 +14507,6 @@ rom	miz	4
 gannanz	hungnaek	4
 miz	fwn	4
 bijcung	daj	4
-gyaqcienz	den	4
 gij	doxdawz	4
 caiq	doiq	4
 gig	gungz	4
@@ -14805,7 +14794,6 @@ yinzda	minzveij	4
 aiq	miz	4
 myauzcuz	caeuq	4
 liujcouh	siveij	4
-youq	yungzsuij	4
 hong	doihengz	4
 minzcuz	dangj	4
 gamjdoengh	vunz	4
@@ -14845,7 +14833,6 @@ cungsim	hoizguh	4
 ndaw	denyingj	4
 bouh	denyingj	4
 fugsaeh	fanhoiz	4
-hozdung	vwnzva	4
 bui	gons	4
 duengh	suijzeeng	4
 muengz	rog	4
@@ -14923,7 +14910,6 @@ vunzlai	dingq	4
 gwn	ngaizhumx	4
 henz	mbanj	4
 maz	bae	4
-song	meh	4
 hwnj	ndoi	4
 bae	cungj	4
 di	le	4
@@ -14945,8 +14931,6 @@ baizdoih	cungj	4
 daeuj	gai	4
 yienghneix	gij	4
 gij	buhvaq	4
-dwg	bouxcoz	4
-aen	aek	4
 daengz	lumj	4
 gyae	di	4
 vihmaz	aeu	4
@@ -15130,7 +15114,6 @@ deng	lo	4
 raeuz	rox	4
 hong	ndaej	4
 gaiq	noh	4
-doq	gangj	4
 dahsau	lengj	4
 neix	caemh	4
 bak	haeu	4
@@ -15148,6 +15131,7 @@ daigoz	nanzbangh	4
 nanzbangh	vangzgyah	4
 vangzgyah	dayoz	4
 gaiq	mwngz	4
+gihduz	dwg	4
 daqveiq	goengjvuengz	4
 goengjvuengz	neix	4
 hijswzlez	ngaiz	4
@@ -15171,7 +15155,6 @@ haujlai	nanz	4
 gaiqgaiq	cungj	4
 ndaw	hagdangz	4
 guengjsae	raeuz	4
-caiq	naeuz	4
 de	cauh	4
 mwnq	le	4
 ngoenz	daixngeih	4
@@ -15194,7 +15177,6 @@ gaemh	bae	4
 gwnzmbwn	daeuj	4
 fatbag	nei	4
 neix	cij	4
-gip	ndaej	4
 boux	gwn	4
 yungyiemj	neix	4
 laep	lo	4
@@ -15341,7 +15323,6 @@ mwngz	caeuq	4
 gij	raemxyw	4
 roekcib	bi	4
 feiyenz	miz	4
-deng	maeuq	4
 yaek	cienjfat	4
 daengx	boux	4
 boux	yinzminz	4
@@ -15353,7 +15334,6 @@ goj	deng	4
 bouxsai	deng	4
 mbat	neix	4
 saek	it	4
-gouh	bouxmaex	4
 bouxmaex	haenx	4
 raen	naj	4
 ndaw	caw	4
@@ -15389,7 +15369,6 @@ couh	rag	4
 mbouj	dawzhaeujsim	4
 dawz	gou	4
 cuengq	gou	4
-rag	de	4
 ok	sing	4
 iq	lo	4
 dingz	lo	4
@@ -15421,11 +15400,12 @@ hwj	mbouj	4
 gyoengqde	lau	4
 neix	goq	4
 youzdaiq	saengj	4
-yiengq	miz	4
 boux	youzdaiq	4
 lwgsae	yozhanq	4
 ndei	cwnjbiq	4
+gou	seizneix	4
 raen	hih	4
+aenvih	cangqdiq	4
 to	the	4
 singz	hih	4
 de	nej	4
@@ -15446,7 +15426,6 @@ cungj	cenz	4
 caeuq	yajgoz	4
 fawz	de	4
 vunz	ngaiz	4
-daixgya	cungj	4
 siuhsiz	cangqdiq	4
 daeuj	he	4
 ndaej	yw	4
@@ -15476,7 +15455,6 @@ vihmaz	mbouj	4
 daengz	mwhmwnq	4
 bae	nej	4
 ij	youq	4
-nanzdauh	faenhsou	4
 faenhsou	mij	4
 doeg	goq	4
 boux	goengjsae	4
@@ -15556,7 +15534,6 @@ caeuq	yehsuh	4
 caenhgag	miz	4
 gyoengqraeuz	mbouj	4
 boux	rafangz	4
-gij	mingh	4
 siuhsiz	hwj	4
 dauq	ngaiz	4
 roxnginh	saetnaj	4
@@ -15592,13 +15569,12 @@ guh	bouxhoiq	4
 daengz	yehluqsajlaengj	4
 mbanj	bwzdaqniz	4
 bya	gamjlamj	4
-gyoengqraeuz	wnggai	4
 wnggai	haenh	4
 boux	co	4
 goq	saedceij	4
 goengjvuengz	lozmaj	4
+caenhgag	de	4
 dwg	bouxcawj	4
-ij	caensim	4
 daengj	gou	4
 coengq	hih	4
 ciqgyaiq	dih	4
@@ -15608,7 +15584,7 @@ daengz	ciqgyaiq	4
 cenz	hawj	4
 lajmbwn	sojmiz	4
 faenhsou	ngaiz	4
-gaeq	haen	4
+cangqdiq	vih	4
 ciet	cawz	4
 cawz	yauqmuj	4
 youz	rang	4
@@ -15638,10 +15614,11 @@ from	the	4
 cungj	dienheiq	4
 guh	ndeisaeh	4
 rox	gyoengqraeuz	4
+gyoengqraeuz	soj	4
 gyoengqde	ij	4
 caepcingq	bonjfaenh	4
 miz	aiqsim	4
-yiengq	gangj	4
+ij	naeuz	4
 caeuq	bouxcawj	4
 wnggai	rox	4
 ndwn	ndaej	4
@@ -15650,6 +15627,7 @@ rai	youq	4
 dunghgoq	yehsuh	4
 de	nyok	4
 dih	rengz	4
+gij	siuhsiz	4
 hoenzsaenz	de	4
 gaem	gienz	4
 gienz	hih	4
@@ -15660,6 +15638,7 @@ saedsaeh	neix	4
 haeuj	cangqdiq	4
 doiq	mwngz	4
 dawz	cangqdiq	4
+gou	vanzlij	4
 vanzlij	ij	4
 daengz	gajlaeng	4
 ndei	cangqdiq	4
@@ -15667,12 +15646,11 @@ gihduz	hih	4
 hih	sim	4
 daengz	nanh	4
 gyoengqraeuz	naeuz	4
-song	mehbawx	4
+hauhnaeuz	gyoengqraeuz	4
 mehbawx	de	4
 gag	maj	4
 dauq	ij	4
 that	you	4
-i	am	4
 daengz	baekging	3
 sevei	ginghci	3
 vunz	doxcomz	3
@@ -15699,7 +15677,6 @@ youq	gwn	3
 caeuq	hozbingz	3
 hwnj	daeuj	3
 gyoengqde	lij	3
-doiq	cungj	3
 youq	yinzminz	3
 mbouj	ityiengh	3
 gij	wnq	3
@@ -15758,7 +15735,6 @@ daezsang	yinzminz	3
 gueklig	caeuq	3
 fazcanj	dwk	3
 raeuz	yendaiva	3
-yendaiva	cincwngz	3
 aeu	sinsizva	3
 ginghci	yauyiz	3
 swhyenz	youhsi	3
@@ -16193,7 +16169,6 @@ rog	fatbiuj	3
 fatbiuj	cawjcieng	3
 gietdingh	gaep	3
 cingzgvang	bonj	3
-ndaej	goenghai	3
 caeuq	gezyi	3
 vunz	gij	3
 doengz	de	3
@@ -16305,7 +16280,6 @@ neix	bietdingh	3
 ciuqsouj	gijliz	3
 gvendaengz	henhoh	3
 dangjyenz	ndaw	3
-de	yiengq	3
 baihgwnz	miz	3
 gienz	genjcaz	3
 veijyenzvei	baihlaj	3
@@ -17211,7 +17185,6 @@ yinzyenz	aeu	3
 nyinhcaen	guhndei	3
 gyagiengz	cozfungh	3
 gunghvuyenz	duivuj	3
-gik	guh	3
 gihci	gikcoi	3
 gikcoi	caeuq	3
 guengjdaih	ganbu	3
@@ -17595,6 +17568,7 @@ gyagiengz	goenggungh	3
 saedhengz	mienx	3
 yienghmoq	haenx	3
 haenx	caenh'itbouh	3
+doiq	raeuz	3
 caeuq	caiq	3
 daihdaej	gaijgez	3
 couhnieb	atlig	3
@@ -18498,6 +18472,7 @@ caeuq	gyaeraez	3
 gouz	gij	3
 gij	yaugoj	3
 gij	ngeixnaemj	3
+dwg	couh	3
 gihbwnj	gwzgiz	3
 daih'it	bouhfaenh	3
 daihhaj	bouhfaenh	3
@@ -19214,7 +19189,6 @@ de	daemq	3
 cwngcwz	neix	3
 daihgya	aeu	3
 ok	geiq	3
-naengzlig	gaemguenj	3
 daengxbuenz	ginghci	3
 bae	neix	3
 bonjndang	gaijgwz	3
@@ -20192,7 +20166,6 @@ boizbouj	gij	3
 bouxguhnaz	haenx	3
 souhaeuj	dabdaengz	3
 lienzdaemh	haemq	3
-gip	aeu	3
 doiok	gij	3
 rengzhoengh	ginghci	3
 le	couhnieb	3
@@ -20496,6 +20469,7 @@ ywbingh	baujyiemj	3
 yungh	fuengsik	3
 doidoengh	diegndaw	3
 vunqsik	moq	3
+seicouz	gwnzhaij	3
 guh	neiyungz	3
 guh	diuz	3
 aen	minzcuj	3
@@ -20740,7 +20714,6 @@ dued	aeu	3
 seizneix	hwnj	3
 gunghyoujci	saedyienh	3
 gij	minghmeg	3
-dem	yauq	3
 cobouh	laebhwnj	3
 caeuq	faenboiq	3
 gij	vanzgingj	3
@@ -20908,7 +20881,6 @@ miz	mbat	3
 canloz	hwngfat	3
 couh	gaenq	3
 caeuq	doxgaep	3
-hoeng	song	3
 caez	roengzrengz	3
 doengzsim	saedyienh	3
 cingq	fat	3
@@ -21098,7 +21070,6 @@ faensoq	sienq	3
 sienq	gauj	3
 ndaej	gauhciz	3
 gauhconh	guengjsae	3
-siujyoz	gyauyuz	3
 dangnaj	gaujsi	3
 hagsib	geizgan	3
 geizgan	cienzhag	3
@@ -21219,6 +21190,7 @@ bouxgangjlwnh	beksingq	3
 daih'it	youq	3
 daj	gizneix	3
 youz	liujcouh	3
+youq	yungzsuij	3
 si	yinzminz	3
 baez	canjlanj	3
 canjlanj	neix	3
@@ -21293,7 +21265,6 @@ hwnjguh	gij	3
 simndei	giyez	3
 gwnz	yizsi	3
 lienzhab	haiguh	3
-gyaqcienz	dij	3
 bouh	daeuz	3
 denyingj	vahmulauj	3
 bouhloh	haiguh	3
@@ -21320,7 +21291,6 @@ youq	yienhsingz	3
 hozdung	banh	3
 ndaej	senjhaeuj	3
 ndawbiengz	minzcuz	3
-enj	aek	3
 conzdungj	yauzcuz	3
 vunzlai	caeuq	3
 hagseng	maenhndei	3
@@ -21349,10 +21319,10 @@ fanhoiz	coenz	3
 gyanghcouh	gih	3
 vunz	gaenq	3
 gaenq	rox	3
+hozdung	vwnzva	3
 humx	youq	3
 yawj	nauhyied	3
 hingzsik	diuqfoux	3
-lauxnyaeq	saimbwk	3
 aeu	doxgaiq	3
 rumz	hung	3
 doek	fwn	3
@@ -21459,6 +21429,7 @@ he	gwn	3
 cungj	fungsug	3
 cij	daengz	3
 gvaq	maz	3
+song	meh	3
 cungj	dingz	3
 cungj	lumz	3
 ok	lwed	3
@@ -21469,7 +21440,6 @@ vihmaz	ne	3
 ak	dahraix	3
 mwngz	gwn	3
 hoeng	ciuqyiengh	3
-bae	daeuq	3
 de	vunz	3
 aenvih	mbouj	3
 leix	loh	3
@@ -21496,8 +21466,6 @@ daenj	sam	3
 dumz	hanh	3
 yaek	rueg	3
 dingj	mbouj	3
-boux	baihnaj	3
-lengj	haenx	3
 raen	yah	3
 lengj	yaek	3
 haenx	vunz	3
@@ -21527,10 +21495,10 @@ rox	miz	3
 lij	suenq	3
 ci	cungj	3
 naeng	lot	3
-mbouj	baen	3
 siengj	haeuj	3
 yienghneix	boux	3
 saek	duz	3
+dwg	bouxcoz	3
 gvaq	bouxcoz	3
 hawj	lwg	3
 riu	naeuz	3
@@ -21736,7 +21704,6 @@ cij	lwnh	3
 mwngz	dingq	3
 seng	okdaeuj	3
 bak	couh	3
-maz	viz	3
 cuengqhag	le	3
 lai	mbouj	3
 fwngz	mbouj	3
@@ -21842,7 +21809,6 @@ lingh	cungj	3
 gou	laihnaeuz	3
 gou	ndei	3
 ndei	liux	3
-baen	miz	3
 dwg	ndang	3
 baenz	ae	3
 dou	bouxboux	3
@@ -21899,6 +21865,7 @@ saenq	de	3
 gangj	gienh	3
 siengj	gwn	3
 cawx	ma	3
+doq	gangj	3
 beij	mbouj	3
 couh	han	3
 ndwnj	roengzbae	3
@@ -21929,7 +21896,6 @@ bahbijlwnz	hih	3
 daengz	bahbijlwnz	3
 goeng	gojyez	3
 miz	cibseiq	3
-yiengq	caiq	3
 buen	bae	3
 haq	hawj	3
 cangqdiq	soengq	3
@@ -21951,6 +21917,7 @@ laep	saengxsaengx	3
 gij	hoenzsaenz	3
 doq	miz	3
 gij	laep	3
+caiq	naeuz	3
 mwnq	he	3
 mwnq	heuh	3
 go	mak	3
@@ -22048,7 +22015,6 @@ daeuj	dem	3
 dunggang	cunh	3
 cunh	cizdij	3
 guh	lawz	3
-rox	ndeq	3
 mwngz	rox	3
 guh	ciet	3
 vwnzva	liuz	3
@@ -22401,7 +22367,6 @@ ndangdai	haenx	3
 laeng	bya	3
 ndoengndoek	laeng	3
 go	faexsa	3
-daenj	geu	3
 yiengh	lumj	3
 lawz	goj	3
 goek	gosa	3
@@ -22419,7 +22384,6 @@ langh	mbouj	3
 yaek	ra	3
 naeuz	coenz	3
 ndoengndoek	bae	3
-fag	mid	3
 dai	goj	3
 hauq	neix	3
 gou	fwt	3
@@ -22457,8 +22421,8 @@ de	nyi	3
 ndaw	fangzhwnzloq	3
 dauqma	lo	3
 nanz	lo	3
+dawz	bien	3
 mbwn	gaenq	3
-ndaej	dangx	3
 caij	cauz	3
 guh	ceijsa	3
 dai	beijlwd	3
@@ -22505,7 +22469,6 @@ bae	haenhndei	3
 gou	hai	3
 gyaq	mozdozceh	3
 dwg	daxboh	3
-maeuq	roengzbae	3
 roengzdaeuj	dwg	3
 hawj	daxmeh	3
 doeklaeng	dwg	3
@@ -22548,6 +22511,7 @@ diemq	guh	3
 boux	caemh	3
 vunz	bouxboux	3
 caiq	dwk	3
+rag	de	3
 haujlai	ngaenz	3
 geq	hix	3
 ngoenz	cietfwen	3
@@ -22597,7 +22561,6 @@ seizneix	caemh	3
 angq	ij	3
 gou	nej	3
 cauhgoq	sojmiz	3
-boux	cangqdiq	3
 mwnq	gangj	3
 mwngz	gou	3
 muengh	gyoengq	3
@@ -22634,6 +22597,7 @@ daengz	he	3
 dingq	gyoengqde	3
 rag	dawz	3
 bingh	mwnq	3
+daixgya	cungj	3
 yehsuh	byaij	3
 hwj	gouz	3
 dih	gveihdingq	3
@@ -22652,6 +22616,7 @@ guh	sou	3
 mwhde	caemh	3
 luj	doengh	3
 neix	siengzseiz	3
+yiengq	miz	3
 lwgsae	yehsuh	3
 de	vihmaz	3
 he	gw	3
@@ -22662,6 +22627,7 @@ ma	doiq	3
 mbouj	gw	3
 laeuj	moq	3
 ngaiz	gij	3
+nanzdauh	faenhsou	3
 mij	doeg	3
 daeuzdaeuz	hih	3
 yehsuh	dwg	3
@@ -22678,6 +22644,7 @@ bangjlaih	de	3
 ij	cimh	3
 byawz	dwg	3
 couh	yawjyawj	3
+yawj	hux	3
 bae	mwnq	3
 yungh	beijgangj	3
 beijgangj	ma	3
@@ -22721,7 +22688,6 @@ fangz	yak	3
 gajlaeng	boux	3
 gvih	bomz	3
 gou	souh	3
-aenvih	gyoengqraeuz	3
 gyoengq	fangz	3
 mwnq	daihgaiq	3
 daihgaiq	miz	3
@@ -22787,7 +22753,6 @@ mij'z	yungh	3
 mingqlingq	cangqdiq	3
 vwt	gij	3
 faenhsou	yienghneix	3
-couh	vih	3
 caemh	ijaeu	3
 rox	haj	3
 doegdoeg	siebsieb	3
@@ -22813,6 +22778,7 @@ ni	de	3
 daengz	daixsam	3
 daixsam	ngoenz	3
 yehsuh	dauq	3
+gij	mingh	3
 ngaiz	vwt	3
 maz	ik	3
 lix	hih	3
@@ -22858,7 +22824,6 @@ hawj	hih	3
 guxmaz	vunz	3
 ndaej	luj	3
 couh	cimyawj	3
-hoj	huh	3
 mwh	gyoengqde	3
 daiqbiuj	couh	3
 ma	nyoujnyak	3
@@ -22870,10 +22835,10 @@ dingqri	naeuz	3
 nazsajlwz	vunz	3
 byaij	goqbae	3
 daqveiq	dih	3
-gej	duz	3
 soj	raengq	3
 naeuz	gijmaz	3
 aeu	buh	3
+gyoengqraeuz	wnggai	3
 dih	doxgaiq	3
 siengj	banqfaz	3
 ij	gaj	3
@@ -22891,6 +22856,7 @@ caemh	mij	3
 caemh	rai	3
 faenhsou	doiq	3
 ceiq	cungqyauq	3
+ij	caensim	3
 diuz	neix	3
 caiq	mij	3
 aiq	vunz	3
@@ -22912,11 +22878,9 @@ doengh	ngoenz	3
 gihduz	caeuq	3
 dih	boux	3
 he	ok	3
-cangqdiq	senj	3
 ij	yawjraen	3
 vi	miz	3
 gij	fwj	3
-hauhnaeuz	de	3
 yauqmuj	he	3
 lwgsae	ndaw	3
 boux	buenqduz	3
@@ -22973,7 +22937,7 @@ daiyangznwngz	yezsuijgi	3
 cangceiq	fuengz	3
 dienheiq	lumj	3
 lumj	gauhyazgoh	3
-gou	sij	3
+cinhngaiq	dih	3
 dih	baengzyoux	3
 caensim	bae	3
 beixnuengx	neix	3
@@ -22991,7 +22955,6 @@ dih	saedceij	3
 gienq	vunz	3
 daengz	doenghheij	3
 bonjfaenh	soj	3
-sojhij	gyoengqraeuz	3
 ni	hih	3
 gij	gveihdingq	3
 gyoengqraeuz	he	3
@@ -22999,7 +22962,6 @@ caemh	muengh	3
 cawjeiq	de	3
 rengz	hwj	3
 bae	faenhsou	3
-cangqdiq	caemh	3
 faenhsou	ndei	3
 gij	dwzbaijyienz	3
 faenhsou	haijliengh	3
@@ -23044,7 +23006,6 @@ sinq	bouxcawj	3
 maj	laeng	3
 ciuq	gou	3
 raengq	mwngz	3
-cangqdiq	gouq	3
 doenghheij	bouxcai	3
 cangqdiq	mwnq	3
 ngoenz	saemjbuenq	3
@@ -23058,16 +23019,16 @@ rai	hih	3
 yawjnaek	de	3
 swiq	cengh	3
 mingh	neix	3
-gyoengqraeuz	dawz	3
 bohmbwn	caeuq	3
-seizneix	gyoengqraeuz	3
 guek	hijswzlez	3
 bwzliqhaengz	singz	3
+song	mehbawx	3
 aen	cuz	3
 mehbawx	ngeih	3
 ngeih	de	3
 you	may	3
 on	the	3
+i	am	3
 ij	luj	3
 dih	cingzgvangq	3
 muengh	faenhsou	3

@@ -1,27 +1,27 @@
 # Krio : FineWeb-2 kri_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-dɛn	1903
-di	1391
-we	1190
+dɛn	1896
+di	1390
+we	1189
 de	1008
 fɔ	980
-na	891
-ɛn	690
-i	631
+na	887
+ɛn	689
+i	628
 go	613
 bin	603
 yu	509
 in	469
-mek	437
+mek	436
 se	402
-wan	364
+wan	363
 nɔ	362
-bɔt	352
-wi	323
+bɔt	351
+wi	320
 am	280
 du	266
 jiova	263
-dɔn	262
+dɔn	261
 wetin	256
 pipul	254
 gɛt	237
@@ -29,17 +29,17 @@ gɔd	229
 tin	223
 to	200
 dis	182
-so	171
+so	170
 tɔk	164
 kam	162
 pan	155
 tɛl	154
 ɔl	153
-una	152
-a	141
+una	150
 man	140
 wit	137
 aw	136
+a	135
 lɛk	130
 no	129
 kin	127
@@ -57,7 +57,7 @@ bɔku	89
 tɛm	88
 want	87
 bak	85
-mi	83
+mi	82
 nem	82
 yuz	81
 bikɔs	76
@@ -235,7 +235,6 @@ jekɔb	16
 reab	16
 l	15
 f	15
-wɛn	15
 fɛn	15
 ivin	15
 stɔp	15
@@ -245,7 +244,6 @@ drink	15
 lɔng	15
 jɛrimaya	15
 prich	15
-s	14
 yon	14
 b	14
 waka	14
@@ -262,6 +260,7 @@ nyu	14
 daniɛl	14
 naomi	14
 bra	13
+s	13
 lɛkɛ	13
 mɛmba	13
 oba	13
@@ -274,6 +273,7 @@ bil	13
 stil	13
 savant	13
 jɛriko	13
+wɛn	12
 abop	12
 dawnlod	12
 lɔt	12
@@ -371,7 +371,6 @@ spirit	8
 blo	8
 wet	8
 lɛta	8
-ɛnitɛm	8
 liv	8
 mɛsej	8
 plɛnti	8
@@ -422,6 +421,7 @@ kia	7
 ɛgzampul	7
 apia	7
 land	7
+ɛnitɛm	7
 jel	7
 doc	7
 let	7
@@ -632,7 +632,6 @@ sid	3
 wans	3
 te-e	3
 fip	3
-p	3
 tide	3
 wayl	3
 lɔntɛm	3

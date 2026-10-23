@@ -1,8 +1,8 @@
 # Bigrammes kue (FineWeb-2 kue_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-ana	ye	839
-yomba	ta	674
-ana	yomba	476
+ana	ye	834
+yomba	ta	673
+ana	yomba	475
 i	ene	468
 ya	te	394
 i	mina	379
@@ -10,22 +10,22 @@ ana	ene	349
 ana	god	346
 i	ye	321
 yomba	prapra	299
-yesus	krais	288
-yomba	tau	275
+yesus	krais	287
+yomba	tau	273
 te	yomba	259
-ka	i	240
+ka	i	239
 i	god	235
 mambuno	i	233
 pangwa	i	231
 ene	mina	225
 ana	na	220
-juda	yomba	206
+juda	yomba	202
 kaiya	mokna	202
 god	yombama	202
-ba	ye	199
 i	yomba	197
 pirngi	dingwa	196
-ana	yesus	191
+ba	ye	196
+ana	yesus	186
 i	na	183
 mina	suna	183
 holi	spirit	182
@@ -33,25 +33,25 @@ ye	ka	181
 mambuno	kinde	180
 te	ye	178
 ka	yegl	176
-ba	yomba	172
 ba	ene	172
+ba	yomba	171
 yomba	ye	170
 mambuno	wakai	166
-ye	mina	164
 god	kamo	163
 ye	yene	163
+ye	mina	163
 i	prapra	162
-na	ka	159
 i	ta	159
+na	ka	158
 erikwa	i	157
 meglkwa	i	156
 ende	ikine	151
 ye	god	142
 bogl	akiye	140
 yomba	merkinde	140
-taragl	prapra	138
-yagl	ta	136
+taragl	prapra	136
 orkwa	i	134
+yagl	ta	133
 yegl	dungwa	132
 wakai	ere	131
 dungwa	i	130
@@ -61,48 +61,48 @@ ka	kaima	126
 na	ene	126
 pindre	ana	124
 ba	god	121
-god	eremogl	121
 kamo	i	120
-yomba	i	120
+god	eremogl	120
 dindre	ana	119
+yomba	i	118
 ene	yomba	117
 kor	aimande	113
 ye	yomba	112
 mina	ene	112
 dingwa	i	110
 taragl	i	110
-ana	okuwo	110
 ana	nono	110
+ana	okuwo	108
 dipene	ende	107
 kamambuno	wakai	107
 wakai	kaima	107
 mambuno	yegl	105
 te	ene	102
 ene	taragl	102
-yomba	bina	102
 wedi	pirngi	101
 ye	ende	101
 ba	na	101
 god	yene	101
-enge	igle	98
+yomba	bina	101
 taragl	wakai	98
 spirit	kinde	98
 yegl	di	96
 i	nono	96
 ana	taragl	96
 ande	enge	95
-ene	nomano	95
+ene	nomano	94
 ende	menda	94
 kuno	yegl	94
 pirtre	ana	93
 ipre	ene	93
-ana	ka	93
 i	keunde	93
 ana	no	92
+ana	ka	92
 ene	meglmara	92
 yegl	ere	92
 ka	giglendi	91
 ene	ka	91
+enge	igle	91
 taragl	ta	91
 ye	yegl	90
 mina	ye	90
@@ -134,10 +134,10 @@ i	kaima	78
 yomba	ka	78
 holi	yungumo	78
 yomba	kande	77
-israel	yomba	77
 ene	mambuno	77
 ende	ana	77
 nomano	mina	77
+israel	yomba	76
 taragl	kanekane	76
 ere	god	76
 ye	eremogl	76
@@ -149,7 +149,6 @@ pre	na	74
 pond	kaima	74
 pre	ye	74
 yombamo	i	74
-yesus	ka	74
 i	no	74
 eremogl	yomba	74
 ka	ta	73
@@ -163,17 +162,18 @@ krais	mina	70
 god	ene	70
 undre	ana	70
 yombuglo	ere	70
-yegl	erikwa	70
+yesus	ka	70
 i	yegl	69
+yegl	erikwa	69
 plau	dinambuka	68
-angrima	wagle	67
 ene	ama	67
-kamambuno	pepa	66
+angrima	wagle	66
 mogl	ana	66
 yegl	orkwa	66
 ana	yagl	66
 ongumuglo	mina	65
 moglkwa	i	65
+kamambuno	pepa	65
 kande	wagle	65
 makandle	yomba	65
 ene	ta	65
@@ -193,7 +193,6 @@ ye	prapra	64
 yegl	dingwa	63
 pre	ka	63
 kaima	ta	63
-ana	enge	63
 kamange	ere	63
 pirkan	erikwa	62
 yagl	i	62
@@ -202,6 +201,7 @@ na	mina	62
 ana	yaglkande	62
 yaglkande	yesus	62
 gun	pond	62
+ana	enge	62
 yomba	suwarata	62
 erikwa	yomba	62
 ana	pol	61
@@ -236,23 +236,22 @@ dumo	igle	56
 andigl	ukor	55
 i	ka	55
 nono	god	55
-parisi	wagle	54
 teingwa	yomba	54
 ende	atne	54
 muno	bogl	54
 kangiye	kande	54
-pirpogl	singwa	54
 pris	kande	53
 wagle	ya	53
 ipre	ye	53
 ta	moglkwa	53
-okuna	imbo	53
 god	taragl	53
 lo	ka	53
 deno	munduno	53
+pirpogl	singwa	53
 yomba	mambuno	53
 kuno	orkwa	53
 gigle	dungwa	53
+okuna	imbo	52
 makan	koglkoglo	52
 yagl	ambu	52
 i	wakai	52
@@ -261,22 +260,22 @@ ye	wu	52
 god	dembiye	52
 god	wakaimo	52
 yungu	ombuno	52
+parisi	wagle	51
 we	dingwa	51
 kaima	pangwa	51
 prapra	ye	51
 kinde	kanekane	51
 god	ongumuglo	50
 i	yesus	50
-yesus	eremogl	50
 ana	erme	50
 sindre	ana	50
 kondo	ende	50
 yomba	ya	50
 ipre	god	50
-ana	juda	50
 god	mina	50
 igle	yomba	50
 ikine	ende	49
+yesus	eremogl	49
 ye	pre	49
 pre	ene	49
 orko	ana	49
@@ -313,6 +312,7 @@ ikra	ene	46
 taragl	kinde	46
 wu	suwara	46
 kane	yungu	46
+ana	juda	46
 yomba	mina	46
 beke	teingwa	45
 pango	ana	45
@@ -332,7 +332,6 @@ ta	ene	45
 yomba	kinde	45
 karaugl	ere	45
 nono	yomba	45
-yegl	dungo	44
 okuna	eingwa	44
 i	kandre	44
 andigl	giglendi	44
@@ -345,10 +344,10 @@ taragl	merkinde	44
 te	ikine	44
 yaglkandeno	yesus	43
 yomba	meglmara	43
+yegl	dungo	43
 na	yomba	43
 wagle	ye	43
 mina	ta	43
-god	lomo	43
 na	taragl	43
 eremogl	god	43
 god	diwakai	43
@@ -383,7 +382,9 @@ na	ta	40
 i	wu	40
 ka	dingwa	40
 nono	yaglkandeno	40
+god	lomo	40
 pirkan	ounga	40
+na	ye	40
 ba	nono	40
 ye	ta	40
 yomba	nomano	40
@@ -393,7 +394,6 @@ di	simbogl	40
 yeglpre	ene	39
 meglkwa	ye	39
 suna	moglkwa	39
-na	nana	39
 tandaglme	erikwa	39
 i	taragl	39
 kaima	yene	39
@@ -403,8 +403,8 @@ erimbi	ana	39
 sabat	enge	39
 ye	gun	39
 sugl	meglkwa	38
-god	nangiglma	38
 i	bogl	38
+na	nana	38
 yegl	pangwa	38
 kinde	i	38
 kande	mina	38
@@ -420,7 +420,7 @@ yomba	tongwa	38
 i	ere	37
 yagl	kande	37
 tendre	te	37
-god	wam	37
+god	nangiglma	37
 yegl	mina	37
 ana	tandaglme	37
 te	mambuno	37
@@ -430,6 +430,7 @@ na	kangina	37
 kondo	ana	37
 yeglpre	ye	36
 na	pepa	36
+god	wam	36
 ana	ande	36
 yesus	moglmara	36
 yesus	wedi	36
@@ -451,7 +452,6 @@ eraglkwa	i	36
 gak	kembra	36
 ana	angelo	36
 pre	yegl	35
-ye	yagl	35
 koko	ende	35
 i	yaglkande	35
 nono	mina	35
@@ -479,6 +479,7 @@ pepa	i	34
 bogl	ene	34
 di	ene	34
 suwo	i	34
+ye	yagl	34
 prapra	god	34
 pirngi	dinaglkwa	34
 kaima	i	34
@@ -515,7 +516,6 @@ gun	yenaglkwa	33
 kande	pangwa	33
 pre	munduno	33
 ambumo	i	33
-ambu	werai	33
 wakai	dipene	32
 mina	muno	32
 ta	moglkrikwa	32
@@ -526,7 +526,6 @@ ere	yongwa	32
 ene	sraglpre	32
 ende	tongwa	32
 panan	ana	32
-ye	wakai	32
 nangino	mina	32
 geglkwa	mambuno	32
 ikra	ye	32
@@ -535,6 +534,7 @@ mina	okuna	32
 yomba	yeglmere	32
 yomba	yene	32
 sipsip	nangigle	32
+ambu	werai	32
 wu	wakai	31
 auro	ipi	31
 ye	kaiya	31
@@ -542,6 +542,7 @@ yomba	na	31
 ye	yaglkande	31
 mina	ungwa	31
 nono	ye	31
+ye	wakai	31
 mitna	ende	31
 erika	i	31
 i	erme	31
@@ -569,13 +570,13 @@ yagle	i	30
 moses	lomo	30
 dinambuka	i	30
 mina	plau	30
+enge	sungunagle	30
 yeglpre	yomba	30
 pai	pogl	30
 dra	mina	29
 pol	ka	29
 ana	kimbirnem	29
 na	pirkan	29
-yegl	orko	29
 tandaglmeno	koko	29
 kaima	moglkwa	29
 suna	i	29
@@ -593,7 +594,6 @@ pirpogl	sikrikwa	29
 na	erme	29
 krais	ye	29
 ama	ye	29
-yesus	disaipelma	29
 nigl-kongun	yoko	29
 yomba	suwara	29
 te	ta	29
@@ -611,6 +611,7 @@ erme	na	28
 te	yagl	28
 tau	ama	28
 okuna	ene	28
+yegl	orko	28
 diga	i	28
 erimere	yegl	28
 ama	ene	28
@@ -620,6 +621,7 @@ akeple	dinambuka	28
 atne	ende	28
 amedi	moglkwa	28
 ikine	ikine	28
+yesus	disaipelma	28
 yumbun	kanekane	28
 ende	god	28
 ongumutno	mina	28
@@ -632,7 +634,6 @@ mina	kongun	28
 kande	kaima	28
 na	pre	27
 ana	yaglmo	27
-ye	okuna	27
 muno	boglkwa	27
 mina	mogl	27
 ana	kor	27
@@ -664,6 +665,7 @@ te	tau	26
 kimbirnem	sutno	26
 ene	sragl	26
 ye	pra	26
+ye	okuna	26
 ungwa	i	26
 ta	pirngi	26
 nono	pirkan	26
@@ -694,7 +696,6 @@ kinde	ere	26
 ye	ere	26
 kamambuno	kongun	26
 nangino	punduno	26
-ka	tau	26
 enge	suwarata	26
 dungwa	ikra	26
 i	kuno	26
@@ -723,7 +724,6 @@ ye	ombugl	25
 gagl	alap	25
 ana	ambumo	25
 yomba	kamambuno	25
-ene	pirpogl	25
 kunda	ikine	25
 dina	pre	25
 ene	nangino	25
@@ -772,12 +772,14 @@ bogl	ende	24
 suwara	pi	24
 yungu	dra	24
 ikor	endungwa	24
+ene	pirpogl	24
 yene	wam	24
 ende	jerusalem	24
 nomano	kinde	24
 te	makan	24
 pre	kongun	24
 ana	yombamo	24
+ka	tau	24
 no	mina	24
 ikine	pi	24
 eran	ana	24
@@ -1066,7 +1068,6 @@ kaima	ere	18
 mambuno	kaima	18
 endinan	ana	18
 ye	suwara	18
-ye	wakaimo	18
 ka	mongo	18
 meglmara	igle	18
 ande	kuiya	18
@@ -1140,6 +1141,7 @@ ya	nigl	17
 ana	wakai	17
 uglmange	ere	17
 yene	yombama	17
+ye	wakaimo	17
 wakaimo	ya	17
 jon	baptais	17
 ene	krais	17
@@ -1311,9 +1313,7 @@ yomba	yegl	15
 te	angelo	15
 meglmara	pukamugl	15
 ye	kangino	15
-te	juda	15
 ende	na	15
-ana	tangina	15
 ene	kangin	15
 galili	kamun	15
 pre	nono	15
@@ -1455,6 +1455,7 @@ ene	noman	14
 topo	ere	14
 yagl	gakmugl	14
 te	spirit	14
+te	juda	14
 yungugl	pi	14
 ene	kanno	14
 ene	kakimbi	14
@@ -1563,11 +1564,9 @@ di	ye	13
 kaima	we	13
 kamo	pinande	13
 suna	ende	13
-ye	kane	13
 ye	gak	13
 god	ere	13
 ambuglange	i	13
-ye	makandle	13
 kaima	ye	13
 prapra	ere	13
 moglmara	igle	13
@@ -1595,7 +1594,6 @@ neno	god	13
 orkwa	ikra	13
 ye	kimagl	13
 prapra	wu	13
-ana	pris	13
 no	nangino	13
 no	ta	13
 pirtre	ye	13
@@ -1614,6 +1612,7 @@ taragl	pre	13
 yombuglomo	kande	13
 wu	ikine	13
 ye	yombuglo	13
+ana	tangina	13
 ya	pirngi	13
 kamambuno	pirkwa	13
 punduno	bogl	13
@@ -1670,7 +1669,6 @@ ene	topo	13
 te	kaiya	13
 okuwo	ene	13
 etnga	i	13
-ana	heven	13
 ofa	ere	13
 nigl	kande	13
 ingwa	yomba	13
@@ -1750,7 +1748,6 @@ beke	yongwa	12
 ye	heven	12
 yomba	erekinde	12
 giglendi	andigl	12
-yeglpre	yesus	12
 kembra	ta	12
 i	duglo	12
 du-yene	we	12
@@ -1816,6 +1813,7 @@ wakai	eraglkwa	12
 ta	aglau	12
 ta	i	12
 eremogl	ambu	12
+ye	makandle	12
 prapra	mambuno	12
 tau	yomba	12
 erikwa	ikra	12
@@ -1825,6 +1823,7 @@ kamun	kondo	12
 jopa	kamun	12
 mina	ere	12
 bitno	gagl	12
+ana	heven	12
 erambuka	pre	12
 suwota	mina	12
 te	nigl	12
@@ -1840,6 +1839,7 @@ i	yoko	12
 wu	holi	12
 kuno	ere	12
 yomba	kindaginde	12
+ye	kane	12
 bumbuno	geglkwa	12
 ene	kinde	12
 nomano	yumbun	12
@@ -1868,7 +1868,6 @@ yagl	gak	11
 kor-meglkwa	i	11
 pre	ungwa	11
 ere	i	11
-ana	jon	11
 ta	pinde	11
 ka	mina	11
 propet	aisaia	11
@@ -1908,6 +1907,7 @@ yombama	prapra	11
 i	pirkwa	11
 pi	god	11
 kinde	suna	11
+ana	pris	11
 ye	akeple	11
 kana	god	11
 yombama	wagle	11
@@ -1922,6 +1922,7 @@ te	ande	11
 beglkwa	i	11
 kanpogl	sinaglkwa	11
 spiritmo	mina	11
+yeglpre	yesus	11
 inagledi	pre	11
 krais	kongun	11
 ka	dimere	11
@@ -2076,7 +2077,6 @@ erimere	i	10
 te	enene	10
 prumere	ere	10
 ana	ambuglange	10
-jon	eremogl	10
 sraglpre	yomba	10
 pirkan	erekrikwa	10
 enge	tangina	10
@@ -2179,7 +2179,6 @@ pre	kamambuno	10
 kombuglo	i	10
 yombamo	kande	10
 ta	doko	10
-kamange	erikwa	10
 nigl-kongun	yomba	10
 yungu	ta	10
 suwara	yeingwa	10
@@ -2347,7 +2346,6 @@ yomba	kane	9
 wingwa	ikra	9
 nem	moglkwa	9
 ene	ka-tange	9
-abraham	ye	9
 juda	ya	9
 mogl	ende	9
 yegl	erimbo	9
@@ -2362,6 +2360,7 @@ god	dumo	9
 ba	yene	9
 meglme	dungwa	9
 na	krais	9
+ana	jon	9
 grik	ka	9
 mina	ake	9
 konbauna	ende	9
@@ -2462,6 +2461,7 @@ ye	propet	9
 ikra	yesus	9
 ka	bekete	9
 pirtre	te	9
+kamange	erikwa	9
 ye	pirtre	9
 kamange	yegl	9
 king	wagle	9
@@ -2675,6 +2675,7 @@ kade	ye	8
 ta	pir	8
 yegl	dinarkwa	8
 spirit	ende	8
+jon	eremogl	8
 yesus	omara	8
 te	grik	8
 god	angelomo	8
@@ -2849,6 +2850,7 @@ na	nangrima	8
 kanwakai	yomga	8
 prapra	pirkan	8
 wam	yesus	8
+abraham	ye	8
 ene	dumo	8
 ya	ye	8
 ye	kanwakai	8
@@ -2951,6 +2953,7 @@ ake	indre	8
 king	yomara	8
 igle	ombuno	8
 kongun	suwara	8
+pirpogl	sumga	8
 unan	ana	8
 kondungo	ana	8
 suna	pi	8
@@ -3074,7 +3077,6 @@ yesus	kugl	7
 yagl	du-yene	7
 dumere	mere	7
 kangiye	i	7
-ana	maria	7
 i	pai	7
 dinongugl	endungwa	7
 no	pi	7
@@ -3085,8 +3087,6 @@ ta	pango	7
 i	israel	7
 yene	mambunomo	7
 ende	wongo	7
-jon	ka	7
-ana	komnaiye	7
 ana	ditongwa	7
 mina	kangiye	7
 ende	galili	7
@@ -3149,8 +3149,8 @@ moglme	dingwa	7
 dingwa	wagle	7
 teinga	ikra	7
 mambuno	sraglmere	7
-na	mana	7
 meglmara	na	7
+du	yene	7
 bogl	moglka	7
 yegl	digo	7
 poglodi	piraglkwa	7
@@ -3385,6 +3385,7 @@ kamo	beke	7
 ye	ipi	7
 ene	nen	7
 moglkwa	imbo	7
+i	to	7
 dumo	ta	7
 na	wedi	7
 kunogl	gundo	7
@@ -3571,7 +3572,6 @@ pra	god	6
 mina	kau	6
 wam	kaima	6
 suwara	ye	6
-jerusalem	dumo	6
 endinambuka	pre	6
 waule	suna	6
 ende	yegl	6
@@ -3582,9 +3582,9 @@ igle	wu	6
 pre	erika	6
 pirkan	erekrika	6
 morambuka	i	6
-yesus	kan	6
 ene	yungu	6
 akiye	igle	6
+jon	ka	6
 no	kan	6
 aposelmo	moglka	6
 krais	ende	6
@@ -3721,6 +3721,7 @@ mogl	wingwa	6
 yomba	ofa	6
 mogl	winambo	6
 di	giglendi	6
+ana	komnaiye	6
 enaglkwa	yomba	6
 undre	god	6
 dumere	ere	6
@@ -3737,7 +3738,6 @@ ya	ende	6
 ende	antiok	6
 tau	no	6
 ye	drano	6
-ba	jon	6
 ye	kindekondo	6
 mane	dungwa	6
 kagle	siyungwa	6
@@ -4060,7 +4060,6 @@ ta	pirkraglkwa	6
 ikra	di	6
 ende	yesus	6
 abraham	gawama	6
-buglayungu	yomere	6
 yesus	bormaimo	6
 endigo	ana	6
 prisno	kande	6
@@ -4254,7 +4253,6 @@ yomba	igle	5
 ye	devit	5
 ye	abraham	5
 wam	aisak	5
-ana	josep	5
 josep	ye	5
 krais	we	5
 igle	plau	5
@@ -4265,9 +4263,9 @@ yesus	we	5
 kugl	yenambuka	5
 mambunomo	yegl	5
 ye	ugl	5
+ana	maria	5
 imbo	god	5
 ana	kor-meglkwa	5
-ye	ken	5
 i	neno	5
 ye	ambuglangemo	5
 yomba	ipre	5
@@ -4477,6 +4475,7 @@ enge	yomere	5
 yene	yombano	5
 yegl	dumga	5
 okuwo	pol	5
+ba	jon	5
 ere-ere	erikwa	5
 ye	miurara	5
 pre	ongo	5
@@ -4602,7 +4601,6 @@ krais	nigl	5
 god	di	5
 angelomo	ta	5
 di	endungo	5
-jon	pepa	5
 okuwo	unambuka	5
 ye	kingdomo	5
 pirngi	diga	5
@@ -4772,6 +4770,7 @@ kana	na	5
 ba	yombamo	5
 pirmere	yegl	5
 wam	i	5
+jerusalem	dumo	5
 gunyei	ana	5
 pre	tongwa	5
 eraglmara	i	5
@@ -4815,6 +4814,7 @@ atne	endinaglkwa	5
 ene	toki	5
 prapra	engre	5
 kinde	ene	5
+yesus	kan	5
 wagle	kandre	5
 ene	kanigwa	5
 sragl	wedi	5
@@ -4879,7 +4879,6 @@ dindre	ene	5
 na	angra	5
 i	king	5
 nare	ikine	5
-ta	k	5
 moglmara	eingwa	5
 kur	yungwa	5
 suna	endungwa	5
@@ -4945,6 +4944,7 @@ olto	ta	5
 ta	kogl	5
 endi	inge	5
 no	erme	5
+buglayungu	yomere	5
 mina	poglodi	5
 wakai	mounga	5
 di	gigle	5
@@ -4975,7 +4975,6 @@ nomana	yumbun	5
 pre	winga	5
 nigl	beiye	5
 beiye	kra	5
-ena	pre	5
 erme	mambuno	5
 kongun	erimere	5
 kongun	pond	5
@@ -5260,7 +5259,6 @@ keingwa	mereyegl	5
 no	sragl	5
 pond	ta	5
 kangina	ake	4
-in	the	4
 sidakagl	mounga	4
 i	uglmange	4
 kaglande	singwa	4
@@ -5305,6 +5303,7 @@ yungu	ombunomo	4
 te	angiglma	4
 king	devit	4
 tau	meglkwa	4
+ana	josep	4
 ye	maria	4
 akiye	ta	4
 ta	motnga	4
@@ -5329,7 +5328,6 @@ koko	endina	4
 ye	ira	4
 pir	kanpogl	4
 pene	enan	4
-na	i	4
 yesus	konbauna	4
 embriko	ana	4
 ana	krapogl	4
@@ -5514,7 +5512,6 @@ goglmere	yegl	4
 omere	yegl	4
 muku	yombuglo	4
 ere	erika	4
-ina	pre	4
 agle	dungwa	4
 wau	bogl	4
 heven	nem	4
@@ -5607,7 +5604,6 @@ pirngi	dingo	4
 kauglange	giglendi	4
 prapra	ere-inambuka	4
 god	diendungwa	4
-jon	ye	4
 yembi	ana	4
 ene	kimagl	4
 prapra	holi	4
@@ -5727,6 +5723,7 @@ ditenambuka	pre	4
 muno	boglka	4
 prapra	gun	4
 dinaglkwa	enge	4
+jon	pepa	4
 suna	yeingwa	4
 erme	moglkwa	4
 king	prapra	4
@@ -6159,7 +6156,6 @@ embriye	mambunono	4
 akiye	mouglka	4
 pirkan	erimbi	4
 di	teinga	4
-ene	abraham	4
 abraham	taragl	4
 nina	kangiye	4
 yegl	eraglka	4
@@ -6706,6 +6702,7 @@ yomba	kor-meglkwa	4
 ende	nono	4
 ambumo	ye	4
 ken-lam	gagl	4
+ye	ken	4
 orko	kanigwa	4
 ambaimo	i	4
 prapra	meglmara	4
@@ -6784,9 +6781,7 @@ spirit	okuna	4
 boglkwa	yagle	4
 ende	spen	4
 mam	suwo	4
-buglayungu	a	4
 filipai	yungu	4
-look	at	4
 testament	with	4
 with	color	4
 ta	ikrika	3
@@ -6860,14 +6855,12 @@ maria	gak	3
 dane	moglkwa	3
 moglme	digo	3
 kondinagledi	prukwa	3
-ye	uglmange	3
 dite	yegl	3
 ombuno	ta	3
 dane	mina	3
 ta	akiye	3
 yungumugl	ongwa	3
 maria	wam	3
-ana	ken	3
 i	mim	3
 god	diendungo	3
 dipene	endinan	3
@@ -6902,7 +6895,6 @@ kanaglkwa	pre	3
 undre	ye	3
 yesus	disaipel	3
 eremogl	disaipelmo	3
-ye	disaipelmo	3
 suwo	ka	3
 ene	undre	3
 auro	yu	3
@@ -7328,6 +7320,7 @@ di	pita	3
 ikra	yagl	3
 di	uglmange	3
 ikine	yungugl	3
+jon	ye	3
 ere	yumbu	3
 kan	ikrikwa	3
 dimere	i	3
@@ -7557,8 +7550,6 @@ kua	kruwo	3
 mereyegl	ambuglange	3
 de	gogl	3
 te	dikumba	3
-ya	gon	3
-gon	mina	3
 akiye	nongwa	3
 kande	giglendi	3
 ake	yegl	3
@@ -7683,6 +7674,7 @@ nigl	mingi	3
 yeitendre	ana	3
 bret	bukondi	3
 nemara	i	3
+nangiye	kaima	3
 suwara	omga	3
 ye	ofa	3
 kanekane	eramga	3
@@ -8246,6 +8238,7 @@ do	dumere	3
 poko	endinan	3
 kongunmo	yoko	3
 ere	tekunga	3
+ene	abraham	3
 neno	abraham	3
 meglmbi	kade	3
 ormere	mere	3
@@ -8265,6 +8258,7 @@ bormaino	indre	3
 pangwa	te	3
 kamambuno	yungu	3
 angai	holi	3
+yene	we	3
 si	yokungo	3
 enge	suwarandi	3
 erme	wu	3
@@ -8753,7 +8747,6 @@ goglko	yesus	3
 yesus	ere	3
 mogltre	okuwo	3
 dra	yomara	3
-yagl	goglkwa	3
 mangigl	pindre	3
 yomara	ongwa	3
 uno	mo	3
@@ -9741,6 +9734,7 @@ kamun	i	3
 yange	sinambedi	3
 yungo	olto	3
 dembino	sikraglka	3
+na	i	3
 wain	i	3
 dumgo	ye	3
 mokna	keunde	3
@@ -9796,4 +9790,3 @@ nangiye	suwara	3
 i-suwara	endungo	3
 keunde	moglkrikwa	3
 tisa	kimbi	3
-lasarus	goglkwa	3

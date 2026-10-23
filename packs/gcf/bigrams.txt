@@ -1,35 +1,36 @@
 # Bigrammes gcf (FineWeb-2 gcf_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-té	ka	4723
-ka	fè	2368
-yo	ka	2319
-i	té	2298
-pa	té	2033
-ki	té	1883
-pa	ka	1833
-ki	ka	1826
-i	ka	1746
-té	ni	1709
-nou	ka	1698
-yo	té	1660
+té	ka	4716
+ka	fè	2366
+yo	ka	2318
+i	té	2293
+pa	té	2032
+ki	té	1882
+pa	ka	1832
+ki	ka	1824
+i	ka	1743
+té	ni	1707
+nou	ka	1696
+yo	té	1659
 sa	ki	1559
-ni	an	1535
+ni	an	1534
 sé	an	1373
 ou	ka	1291
 pa	ni	1257
-ka	di	1230
+ka	di	1228
 sé	pa	1209
 i	pa	1183
-moun	ki	1138
-yo	pa	1127
+moun	ki	1135
+yo	pa	1126
 ki	pa	1032
-té	ké	1016
+té	ké	1013
 moun	ka	880
+tout	moun	820
 pou	sa	803
 nou	pa	789
-sa	ka	787
-an	ka	759
-ki	ni	724
+sa	ka	786
+an	ka	758
+ki	ni	722
 fè	an	696
 pou	fè	692
 sé	té	676
@@ -37,18 +38,20 @@ kon	sa	670
 nou	té	670
 sé	on	664
 pou	nou	654
-adan	an	638
-de	la	637
+adan	an	637
+de	la	636
 nou	pé	605
-ou	pa	600
-pou	yo	590
+ka	kriyé	604
+ou	pa	599
+pou	yo	589
 ki	sé	583
 sa	yo	576
 pé	ké	565
-ka	palé	554
+ka	palé	553
 lè	ou	545
-an	ti	532
+an	ti	530
 nou	ké	527
+a	yo	524
 sa	pa	502
 ou	pé	501
 an	nou	494
@@ -56,18 +59,19 @@ té	an	493
 an	péyi	492
 ou	té	485
 i	ni	481
-sa	i	478
+sa	i	477
+an	mwen	477
 ka	vini	472
-ki	an	471
 man	pa	470
-ké	ni	468
+ki	an	470
+ké	ni	467
 pé	pa	466
 lè	i	460
 kon	an	454
-man	ka	448
-man	té	448
+man	ka	447
+man	té	447
 adan	sé	433
-épi	an	432
+épi	an	431
 yo	ké	417
 adan	on	416
 ni	on	412
@@ -75,23 +79,25 @@ sé	sa	412
 an	té	410
 lè	yo	409
 sa	nou	406
-la	ka	397
+la	ka	398
 ou	sé	390
 sé	ki	389
 i	ké	384
 ka	pran	377
 sé	pou	373
 ka	wè	368
+tout	sé	365
 si	ou	364
 tou	sa	363
 a	pa	361
 an	pa	357
 pou	i	355
 sa	té	354
-ka	ba	349
-ka	mandé	349
+ka	ba	348
+ka	viv	348
+ka	mandé	348
 ek	i	346
-nou	ni	345
+nou	ni	344
 té	lé	342
 té	pé	340
 yo	pé	340
@@ -107,10 +113,10 @@ pou	di	319
 ki	sa	317
 pa	lé	315
 lè	nou	313
-sav	ki	311
-ka	rivé	310
+sav	ki	310
 té	ja	310
 é	sé	310
+ka	rivé	308
 nou	an	307
 ba	yo	306
 ki	fè	305
@@ -124,24 +130,24 @@ an	bel	297
 pa	sav	296
 i	pé	296
 di	sé	294
-ka	pasé	290
+ka	pasé	289
 es	sé	287
 ké	pé	286
-pou	an	285
-an	bagay	282
+pou	an	284
 ka	mété	281
+an	bagay	281
 a	sé	281
 si	nou	280
 ni	dé	278
 anlo	moun	277
-ka	sèvi	277
-sé	moun	277
 pas	i	276
+sé	moun	276
+ka	sèvi	275
 é	i	268
-pa	koté	267
 pa	menm	267
 i	di	266
-sé	dé	265
+pa	koté	265
+sé	dé	264
 ké	fè	264
 palé	di	263
 pa	janmen	262
@@ -149,10 +155,10 @@ sa	an	262
 bagay	ki	262
 fè	nou	257
 pé	di	256
-la	ki	254
-ek	ki	254
+la	ki	255
 i	fè	254
 sé	di	253
+ek	ki	253
 fè	on	252
 di	yo	251
 ka	woulé	250
@@ -166,20 +172,20 @@ ka	pwan	244
 pé	fè	242
 di	an	241
 yo	fè	237
-é	an	237
 à	la	237
 pou	té	236
 pa	djè	236
+é	an	236
 sa	ou	235
 mwen	an	235
 té	fè	234
 ek	yo	233
-an	kréyol	232
+an	kréyol	231
 yo	ni	229
 an	gran	226
 sav	sa	224
-on	ti	223
 di	i	223
+on	ti	221
 ka	vwè	218
 si	sé	218
 la	pou	217
@@ -191,22 +197,23 @@ an	menm	212
 ki	pli	212
 moun	an	212
 lè	an	212
-ni	pou	211
 ni	moun	211
 é	yo	211
 ou	ni	210
+ni	pou	210
+an	bon	209
 trapé	an	208
-on	moun	208
+on	moun	207
 mété	an	206
 é	ki	205
-zot	wè	204
 di	ki	203
-an	boug	199
+zot	wè	203
+an	boug	198
 mé	i	198
 fè	moun	198
 sé	jou-tala	197
-di	nou	196
 fè	yo	196
+di	nou	195
 ka	travay	194
 ki	moun	194
 ki	ké	193
@@ -214,23 +221,27 @@ a	on	193
 pas	yo	193
 la	té	192
 ka	kwè	192
+menm	si	190
 si	i	190
 sé	la	189
 tout	kalté	189
-ka	pòté	189
 ka	touvé	188
+ka	pòté	188
 si	zot	187
 mé	sé	186
 ka	tann	185
 ba	nou	185
+ka	sanm	184
+nou	tout	181
 ka	gadé	180
 té	la	180
 la	fwans	180
+adan	tout	179
 lang	kréyol	179
 sé	kon	177
 ni	labitid	177
 ki	pé	176
-nou	tout	176
+plis	ki	175
 ka	montré	175
 yo	di	174
 té	pou	173
@@ -247,23 +258,24 @@ toujou	ka	167
 yo	an	165
 ba	sé	163
 pa	pou	162
-adan	yo	162
 pou	sé	162
+adan	yo	161
 fok	pa	161
 pou	ba	161
 pies	kalté	160
 ki	sòti	160
+nou	sav	160
 lè	man	159
 ka	atann	159
 mé	yo	158
 fè	tan	157
 ni	sa	157
-ki	adan	156
-oben	an	156
 tousa	ki	156
 on	biten	156
-ki	i	154
+ki	adan	155
+oben	an	155
 asou	an	154
+ki	i	153
 té	di	152
 sa	pé	152
 péyi	gwadloup	152
@@ -278,19 +290,21 @@ ki	nou	149
 ni	yonn	149
 é	nou	149
 pa	di	149
+yo	tout	148
 pèsonn	pa	148
 sé	li	148
 an	fwans	148
 ka	santi	148
-boug	ki	147
 nou	fè	147
 yo	lé	147
+boug	ki	146
 épi	i	146
-la	sé	146
-ka	maché	146
+pou	tout	146
+la	sé	145
 kon	yo	145
 mé	an	145
 ja	ka	145
+ka	maché	145
 tou	lé	144
 sa	vré	144
 ja	ni	144
@@ -298,35 +312,36 @@ asou	latè	144
 pou	moun	142
 sa	pou	141
 épi	sé	141
-yo	sé	141
 ba	mwen	141
 pasé	an	140
 pou	mété	140
+yo	sé	140
 èvè	on	140
 sé	menm	139
-ek	an	139
 fè	sé	139
 ka	fet	139
 an	jou	139
+ek	an	138
 ki	pou	138
 ni	dwa	137
 ni	bon	137
+la	an	137
 a	moun	137
 nou	sé	137
-la	an	136
 an	ké	136
 yo	pou	135
 la	pa	135
 ka	sòti	135
 misié	té	135
 ki	di	135
-zot	ka	135
 sa	fè	134
-pran	an	134
+zot	ka	134
+pran	an	133
+yo	kriyé	133
 ki	ja	133
 li	ki	132
-ka	chaché	132
 ni	plis	131
+ka	chaché	131
 kalté	model	131
 pou	on	131
 ké	di	131
@@ -335,10 +350,11 @@ ka	jwenn	130
 épi	yo	130
 ka	chèché	130
 yo	ki	129
-sé	moun-tala	129
+té	sav	129
 moun	pé	129
 on	bèl	129
 a	ki	128
+sé	moun-tala	128
 a	péyi	128
 ki	jan	128
 sé	yo	128
@@ -346,16 +362,19 @@ pou	rivé	127
 nou	ki	127
 manniè	pou	127
 sòti	an	126
-dans	le	126
+ka	vin	126
 an	ki	125
+ka	matjé	125
 léta	fwansé	125
 en	créole	124
 yo	mété	124
 la	i	124
-an	mitan	124
+dans	le	124
 ka	vréyé	123
 ou	wè	123
+an	mitan	123
 i	ja	122
+ban	mwen	122
 ka	jwé	121
 an	péyi-la	121
 é	pou	121
@@ -363,8 +382,8 @@ di	zot	120
 adan	sa	120
 ka	chanté	119
 ou	fè	119
-yo	a	119
 sav	si	118
+yo	a	118
 tan	pou	118
 dé	sèten	117
 ka	manjé	117
@@ -375,36 +394,37 @@ sé	konsa	116
 es	nou	116
 épi	sa	115
 i	lé	115
-éti	yo	115
 nou	pou	115
 ka	monté	115
 paré	pou	115
 ki	fet	115
 an	frans	114
 et	de	114
+éti	yo	114
 mété	doubout	114
-lè	zot	114
+an	tout	114
 mé	sa	114
 rantré	adan	114
 i	rivé	114
 la	langue	114
 tout	bagay	114
 dan	an	113
-zafè	a	113
+lè	zot	113
 palé	kréyol	113
 péyi	ki	113
 ka	mennen	112
+zafè	a	112
 mwen	sé	112
 té	sa	112
 lè	sé	112
 sé	moun-la	111
 mwen	té	111
 vini	an	110
-péyi	a	110
 fwansé	a	109
 té	za	109
 rivé	an	109
 asi	latè	109
+péyi	a	109
 a	la	109
 yonn	ki	109
 men	i	109
@@ -412,6 +432,7 @@ ka	chonjé	108
 pou	alé	108
 ban	nou	108
 moun	a	108
+a	tout	107
 ek	sa	107
 rivé	fè	107
 on	jou	107
@@ -421,16 +442,17 @@ mwen	ki	105
 sé	ti	105
 té	kay	105
 ké	rivé	105
-ka	goumen	104
 pou	mwen	104
-ka	konstaté	104
 mwen	pa	103
 pa	bizwen	103
+ka	bat	103
 ka	viré	102
 ki	ta	102
 i	mété	102
 ba	tout	102
+ka	goumen	102
 pa	rivé	102
+ka	konstaté	102
 menm	manniè	101
 té	on	101
 ayen	pa	101
@@ -446,39 +468,40 @@ pa	nou	100
 ka	li	99
 tala	ki	99
 a	zòt	99
-wè	sa	99
 ka	ni	99
-ka	vann	98
+pèp	gwadloup	98
+wè	sa	98
 e	sé	98
+ka	vann	97
 pies	toubannman	97
 tini	on	97
 ka	fèt	97
 ki	pasé	97
 nou	lé	97
-yonn	adan	97
 es	yo	97
 an	gwo	97
 la	ek	96
-si	an	96
-pli	bel	96
+yonn	adan	96
 si	sa	96
 wè	ki	96
 moun	ké	96
 an	bidim	96
 ki	rivé	95
-fanm	ki	95
+si	an	95
 on	dòt	95
+pli	bel	95
 sé	mwen	95
 sé	pas	94
 sé	péyi	94
+fanm	ki	94
 an	pé	94
-es	i	94
 an	sé	94
 zot	pa	94
 men	sa	94
 an	fransé	93
 an	liv	93
 ka	pati	93
+es	i	93
 ka	kouri	93
 adan	menm	92
 la	sa	92
@@ -499,6 +522,7 @@ nou	yé	90
 kriyé	an	90
 an	koté	90
 pou	sav	90
+fè	tout	90
 y	a	89
 té	rivé	89
 dé	moun	89
@@ -510,6 +534,7 @@ moun	pou	89
 té	adan	89
 ka	tonbé	88
 la	ou	88
+ki	tout	88
 nou	menm	88
 matjé	an	88
 yo	menm	88
@@ -525,21 +550,22 @@ di	mond	88
 a	té	87
 sé	anni	87
 sé	pé	87
-an	fanm	87
 pé	ni	87
 chak	moun	87
 ni	adan	87
 la	ctm	87
 fok	ou	86
-sa	yé	86
 anlè	an	86
-goumen	pou	86
+an	tèt	86
 té	toujou	86
 pas	nou	86
+an	fanm	86
 i	sé	86
 sé	adan	86
 rantré	an	86
 ni	rézon	85
+sa	yé	85
+goumen	pou	85
 sav	sé	85
 ka	koumansé	85
 ki	tan	85
@@ -549,7 +575,6 @@ lé	jou	84
 té	mété	84
 é	on	84
 ni	lontan	84
-an	tèt	84
 ni	dot	84
 é	ka	84
 an	kréyòl	84
@@ -571,7 +596,6 @@ man	ké	82
 pran	tan	82
 otjipé	di	82
 pa	pran	81
-matinik	la	81
 ka	voyé	81
 si	on	81
 a	kaz	81
@@ -580,6 +604,7 @@ an	gwadloup	81
 kon	sé	81
 té	kontan	81
 bon	enpé	81
+matinik	la	80
 ou	lé	80
 il	y	80
 ka	djè	80
@@ -595,9 +620,10 @@ ka	sonjé	79
 la	yo	79
 fini	pa	79
 pran	fè	79
+ou	sav	79
 ni	menm	79
 mi	sa	79
-mé	es	79
+i	mandé	79
 mi	sé	79
 anlè	yo	79
 gras	a	79
@@ -607,6 +633,7 @@ anlè	sé	78
 men	a	78
 nou	ja	78
 le	créole	78
+mé	es	78
 sé	kalté	78
 mandé	mwen	77
 sé	bien	77
@@ -615,13 +642,13 @@ té	konnet	77
 sé	lézot	77
 ki	ou	77
 té	bien	77
-fè	lafet	77
 ka	rantré	77
 yé	a	76
 ek	man	76
 di	zòt	76
 kon	i	76
 bon	fè	76
+fè	lafet	76
 sé	mésié	76
 dans	les	76
 pati	an	76
@@ -634,6 +661,7 @@ té	pli	75
 wè	sé	75
 on	pakèt	75
 an	péyi-a	75
+kon	tout	75
 té	sòti	75
 i	toujou	75
 é	ou	75
@@ -646,11 +674,13 @@ mwen	menm	74
 pé	rivé	74
 nonm	ki	74
 pli	fò	74
+an	vil	74
 anni	gadé	74
 ki	toujou	74
 té	vlé	74
 yo	é	74
 sé	lang	74
+ni	tout	74
 pou	man	74
 matinik	ek	74
 yon	sel	74
@@ -661,7 +691,6 @@ za	ka	73
 an	men	73
 ka	mò	73
 yo	vlé	73
-kon	tout	73
 konpwann	ki	73
 manniè	yo	73
 vé	di	73
@@ -699,24 +728,25 @@ adan	zafè	70
 non	a	70
 i	yé	70
 ké	vini	70
-il	est	70
 on	gran	70
 ki	sav	70
 nou	adan	70
 atè	matinik	70
 té	oblijé	70
+moun	sav	70
 lanné	pasé	70
 manniè	nou	70
 pou	ayen	69
 té	fini	69
 pou	ni	69
 ni	onlo	69
-an	fwansé	69
 pou	pa	69
 ka	ki	69
 mété	yo	69
+il	est	69
 moun-la	ki	69
 fwansé	ka	69
+an	fwansé	68
 i	wè	68
 té	blijé	68
 pwan	fè	68
@@ -742,6 +772,7 @@ alé	an	66
 kon	dé	66
 an	tè	66
 épi	moun	66
+sé	tout	66
 fò	pa	66
 rivé	a	66
 nou	kay	66
@@ -752,11 +783,11 @@ ka	di'w	66
 bagay	ka	66
 yo	sav	66
 ayen	ki	66
+a	bondyé	66
 man	di	65
 la	nou	65
 on	lang	65
 té	mandé	65
-pour	la	65
 an	toujou	65
 djè	ni	65
 ka	ped	65
@@ -771,13 +802,13 @@ ni	asé	64
 yo	sa	64
 menm	palé	64
 avan	yo	64
+pour	la	64
 ek	pou	64
 adan	péyi	64
 a	sa	64
 an	kalté	64
 sé	nou	64
 ka	chayé	64
-ka	pété	63
 dakò	pou	63
 fok	yo	63
 ka	konté	63
@@ -797,9 +828,10 @@ an	tjou-patat	62
 é	si	62
 dé	mo	62
 nou	toujou	62
-pli	lwen	62
 fè	ki	62
 en	mwen	62
+ka	mèt	62
+ka	pété	62
 a-y	é	62
 an	dé	62
 mwen	pou	62
@@ -807,16 +839,16 @@ an	pal	62
 ta	nou	62
 ni	ka	62
 ba	an	62
-adan	ti	62
 mèt	a	61
 lè	on	61
 i	trapé	61
 ka	wouvè	61
-ka	mèt	61
+pli	lwen	61
 an	mo	61
 ka	ri	61
 et	la	61
 gadé	sa	61
+adan	ti	61
 tan	lontan	61
 que	je	61
 de	notre	61
@@ -834,19 +866,22 @@ ka	défann	60
 sé	ké	60
 an	fè	60
 tan	an	60
-de	son	60
 sa	rivé	60
 an	bout	60
-asiparé	komkidiré	60
 nou	vlé	60
 pon	moun	60
 si	man	60
 ki	fini	59
+ou	yé	59
 pou	trapé	59
 mété	déwò	59
 douvan	an	59
+tout	koté	59
+ké	touvé	59
 pou	ou	59
+de	son	59
 nou	za	59
+asiparé	komkidiré	59
 ja	di	59
 ek	tout	59
 bagay	nou	59
@@ -865,7 +900,6 @@ manniè	i	58
 ka	suiv	58
 ba	zòt	58
 bon	pou	58
-chak	jou	58
 di	kon	58
 la	ni	58
 nou	la	58
@@ -885,6 +919,7 @@ ou	ja	57
 a	pèp	57
 pa	kay	57
 ka	dòmi	57
+chak	jou	57
 an	pies	57
 davwa	sé	57
 é	lè	57
@@ -912,10 +947,10 @@ tousa	i	56
 pwan	an	56
 ka	véyé	56
 travay	pou	56
+es	ou	56
 ka	tiré	56
 wè	i	56
 pa	anni	56
-fè	a	55
 moun	i	55
 asou	sé	55
 palé	ba	55
@@ -935,7 +970,6 @@ i	sòti	55
 pasé	pa	55
 an	nouvo	55
 mé	man	55
-i	sav	55
 ka	péyé	55
 ka	opozé	55
 ka	bliyé	55
@@ -948,7 +982,7 @@ anlè	sa	55
 ékip	nasyonal	55
 yonn	dé	54
 kréyol	ki	54
-konstaté	ki	54
+fè	a	54
 pli	red	54
 si	ni	54
 on	koté	54
@@ -959,7 +993,6 @@ ka	rakonté	54
 lang	ki	54
 fè	épi	54
 et	le	54
-mé	pa	54
 an	fon	54
 nou	é	54
 ka	désann	54
@@ -968,14 +1001,13 @@ ni	lajan	54
 ki	mété	54
 éti	nou	54
 boug	la	54
-ki	ba	54
 menm	biten	54
 anba	jouk	54
 té	bizwen	53
 plis	di	53
 dépi	ou	53
-i	ba	53
 sa	lé	53
+konstaté	ki	53
 menm	an	53
 moun	la	53
 ka	rann	53
@@ -983,6 +1015,7 @@ ka	espéré	53
 ké	toujou	53
 té	anvi	53
 ankò	pli	53
+mé	pa	53
 est	une	53
 la	ké	53
 ka	ba'w	53
@@ -994,17 +1027,20 @@ a	pou	53
 man	lé	53
 fè	menm	53
 moun	kon	53
+i	sav	53
 sé	ta	53
 épi	dot	53
 sé	sel	53
 lang	fransé	53
 sé	épi	53
+ki	ba	53
 la	culture	53
 i	koumansé	53
 jenn	manmay	53
 i	kay	53
 dè	sa	53
 fè	dé	53
+i	ba	52
 moun	adan	52
 èvè	sé	52
 pran	bon	52
@@ -1020,11 +1056,10 @@ pas	ou	52
 kriyé	sa	52
 es	fok	52
 pa	anvi	52
+ka	tounen	52
 poutji	yo	52
 ek	lè	52
 fèt	an	52
-ka	séré	52
-yo	la	52
 an	vwè	52
 i	poko	51
 oben	ki	51
@@ -1048,8 +1083,10 @@ gwadloup	ka	51
 ka	sanblé	51
 lasimenn	pasé	51
 an	mové	51
+ka	séré	51
 man	sé	51
 péyi	matinik	51
+yo	la	51
 sur	la	50
 pa	yo	50
 jan	nou	50
@@ -1082,6 +1119,7 @@ travay	a	49
 kè	an	49
 i	kriyé	49
 bagay	la	49
+tout	biten	49
 tann	di	49
 ké	sa	49
 ké	mété	49
@@ -1108,6 +1146,7 @@ mandé	pou	48
 pas	sa	48
 koté	yo	48
 i	pati	48
+an	sav	48
 touvé	on	48
 pwan	tan	48
 ka	pansé	48
@@ -1117,18 +1156,21 @@ menm	ka	48
 lajan	pou	48
 ké	wè	48
 pa	jenmen	48
-man	konnet	48
 ki	ped	48
 tann	an	48
+ka	réponn	48
 pé	wè	48
 moun	lan	48
 kè	i	48
+tout	ka	48
 i	za	48
 ka	bwè	48
 nou	rété	47
 wè	jou	47
 péyi	la	47
+pa	tout	47
 ki	pi	47
+tout	péyi	47
 pawòl	a	47
 an	komin	47
 on	boug	47
@@ -1144,6 +1186,7 @@ man	sav	47
 la	vi	47
 pa	bliyé	47
 ba'y	an	47
+man	konnet	47
 la	éti	47
 le	monde	47
 ki	za	47
@@ -1152,7 +1195,6 @@ lè	pou	47
 a	pas	47
 é	labitid	47
 yo	bizwen	47
-sé	a	47
 lot	bò	47
 ka	fouté	47
 asi	sa	47
@@ -1162,7 +1204,6 @@ ké	sav	46
 ka	ba'y	46
 la	martinique	46
 red	pou	46
-rivé	trapé	46
 pa	adan	46
 rivé	jik	46
 mé	si	46
@@ -1190,21 +1231,24 @@ yo	poko	46
 lè	moun	46
 fè	siwawa	46
 li	menm	46
+sé	a	46
 lé	dé	46
 an	vlé	46
 ki	anba	46
 épi	anlo	46
 ti	péyi	46
 la	man	45
+rivé	trapé	45
 a	lang	45
 ou	an	45
 yo	kay	45
 a	léta	45
 té	pasé	45
 mèsi	pou	45
+fè	si	45
 di	la	45
+pas	an	45
 sa	ni	45
-ka	sa	45
 vwè	on	45
 lé	tann	45
 annou	pa	45
@@ -1225,13 +1269,10 @@ adan	lang	45
 é	moun	45
 on	gwan	45
 ni	pasé	44
-sé	lanné	44
 té	djè	44
 yo	ek	44
-konnet	an	44
 fo	ou	44
 pran	on	44
-ti	moman	44
 ki	fèt	44
 la	adan	44
 neg	ki	44
@@ -1240,13 +1281,12 @@ pou	pé	44
 il	a	44
 an	sa	44
 ké	alé	44
-dé	fwa	44
+ka	sa	44
 misié	ka	44
 ka	paret	44
 an	model	44
 goumen	kont	44
 nan	péyi	44
-ki	bon	44
 pou	zafè	44
 i	anni	44
 i	ay	44
@@ -1254,12 +1294,14 @@ drapo	a	44
 sèten	moun	44
 kontel	an	44
 chak	lanné	44
-konsidiré	sé	44
 ni	anchay	44
 ka	sibi	43
+sé	lanné	43
+konnet	an	43
 menm	bagay-la	43
 lang	ek	43
 ek	kilti	43
+ti	moman	43
 dépi	yonndé	43
 pou	vini	43
 mwen	é	43
@@ -1267,21 +1309,24 @@ toujou	la	43
 mwen	kon	43
 di	tou	43
 jou	nou	43
-davwa	i	43
 ay	fè	43
 fè	ayen	43
 ka	pèd	43
 di	pa	43
+dé	fwa	43
 koté	pou	43
 ka	permet	43
 é	man	43
 oben	si	43
+ki	bon	43
 a	épi	43
+konsidiré	sé	43
 kò	yo	43
 et	les	43
 ni	anpil	43
 ka	prétann	43
 pran	sa	42
+konprann	ki	42
 montré	ki	42
 jik	an	42
 yo	rété	42
@@ -1291,16 +1336,19 @@ an	danjé	42
 vwè	sa	42
 fè	bon	42
 san	fè	42
+nonm	ka	42
 vini	pou	42
 sé	boug	42
 fè	la	42
 kaz	a	42
+davwa	i	42
 fè	jé	42
 il	faut	42
 yo	yé	42
 sa	bien	42
 yo	koumansé	42
 an	sosiété	42
+ti	moun	42
 fwa	an	42
 ké	trapé	42
 pri	an	42
@@ -1372,7 +1420,6 @@ pou	vréyé	40
 ek	adan	40
 dépi	yo	40
 ka	fè'w	40
-ki	pran	40
 yo	fini	40
 fok	sav	40
 tou	ki	40
@@ -1394,7 +1441,6 @@ ni	anlot	40
 ki	mandé	40
 pa	sé	40
 é	a	40
-sé	toujou	40
 davwa	yo	40
 chimen	a	40
 pa	enmen	40
@@ -1417,13 +1463,17 @@ karayib	la	39
 pé	sav	39
 ka	nou	39
 pwan	bon	39
+ki	pran	39
 apré	an	39
+tout	ti	39
 jan	ou	39
 mwen	si	39
+vin	on	39
 par	le	39
 té	pè	39
 dapré	mwen	39
 ceux	qui	39
+fin	pa	39
 épi	kisasayésa	39
 ka	trouvé	39
 kréyol	ka	39
@@ -1433,8 +1483,8 @@ koté	ki	39
 pòté	mannev	39
 ni	pliziè	39
 lè	mwen	39
-apré	i	39
 gadé	an	39
+sé	toujou	39
 pa	vlé	39
 ké	ba	39
 éti	ki	39
@@ -1477,20 +1527,19 @@ pou	gadé	38
 pété	an	38
 ké	pasé	38
 kivédi	sé	38
-pou	défann	38
 dé	biten	38
 té	fet	38
 mi	on	38
 kidonk	i	38
 ni	la	38
 vini	fè	38
+apré	i	38
 par	la	38
 sur	les	38
 vlé	pa	38
 sanblé	pou	38
 koté	éti	38
 mandé	moun	38
-an	chimen	38
 i	pasé	38
 ta	sé	38
 on	drapo	38
@@ -1525,9 +1574,9 @@ pou	vwè	37
 nous	sommes	37
 lé	kwè	37
 pati	a	37
-chaché	an	37
 jik	di	37
 ki	misié	37
+pou	défann	37
 menm	sav	37
 fet	pou	37
 davwè	yo	37
@@ -1537,6 +1586,7 @@ tout	lang	37
 que	tu	37
 pou	pwan	37
 té	bel	37
+an	chimen	37
 plus	de	37
 davwè	sé	37
 sété	on	37
@@ -1558,7 +1608,6 @@ ki	vlé	36
 si	zò	36
 pa	moun	36
 pou	manjé	36
-an	gro	36
 i	vlé	36
 apré	sa	36
 a	été	36
@@ -1573,6 +1622,7 @@ menmsi	i	36
 tousa	nou	36
 fwansé	té	36
 yo	tou	36
+chaché	an	36
 ka	otjipé	36
 ki	anlè	36
 nou	mété	36
@@ -1614,8 +1664,8 @@ ka	fini	35
 sé	pousa	35
 ni	yon	35
 kon	on	35
-è	siek-la	35
 kouté	sa	35
+an	gro	35
 pas	la	35
 ka	djoubaké	35
 pa	janmé	35
@@ -1625,7 +1675,6 @@ té	ay	35
 kon	ou	35
 an	tou	35
 bagay	yo	35
-jou	i	35
 pa	tann	35
 tousa	yo	35
 an	moman	35
@@ -1670,7 +1719,6 @@ té	pwan	34
 pli	ta	34
 kon	ta	34
 té	two	34
-douvan	sé	34
 men	man	34
 ki	pwan	34
 ki	fok	34
@@ -1693,6 +1741,7 @@ tèt	a-y	34
 li	é	34
 ou	sa	34
 ou	di	34
+jou	i	34
 toujou	di	34
 li	ka	34
 lè	ni	34
@@ -1700,6 +1749,7 @@ péyi	nou	34
 an	lanmen	34
 sa	vé	34
 ki	jik	34
+konprann	sa	34
 palé	an	34
 sa	red	34
 la	a	34
@@ -1713,6 +1763,7 @@ opozé	moun	34
 jan	pou	34
 dòt	moun	34
 toujou	rété	34
+èvè	tout	34
 pé	ba	34
 yo	téka	34
 selman	ki	34
@@ -1723,7 +1774,6 @@ fè	ti	34
 souvan	ki	34
 fè	tou	34
 chonjé	sa	34
-ké	viré	34
 ké	lé	34
 jou	pou	34
 pli	mové	34
@@ -1734,6 +1784,7 @@ nich-twel	la	34
 yo	za	34
 éti	moun	33
 pa	li	33
+douvan	sé	33
 pli	douvan	33
 sé	diféran	33
 ké	sèvi	33
@@ -1754,7 +1805,6 @@ chonjé	ki	33
 ké	la	33
 sav	i	33
 lanné	a	33
-par	les	33
 vi	a	33
 ni	lentansion	33
 épi	lé	33
@@ -1783,10 +1833,10 @@ bay	on	33
 ki	rété	33
 koté	i	33
 on	timoun	33
+ké	viré	33
 bel	ti	33
 touvé	kò'y	33
 ka	rimatjé	33
-pawol	ki	33
 kidonk	an	33
 sa	palé	33
 anlè	nou	33
@@ -1807,7 +1857,6 @@ pé	konpwann	32
 on	fanm	32
 on	lidé	32
 i	pwan	32
-pa	mandé	32
 di	ayen	32
 de	ses	32
 nou	kon	32
@@ -1816,6 +1865,7 @@ kalté	manniè	32
 ou	a	32
 menmsi	nou	32
 sa	mwen	32
+par	les	32
 moun	fè	32
 sa	ja	32
 kwè	yo	32
@@ -1823,7 +1873,6 @@ sé	yenki	32
 douvan	douvan	32
 mandé	sé	32
 di	moun	32
-yonndé	moun	32
 ka	tjenbé	32
 adan	liv	32
 pli	souvan	32
@@ -1849,6 +1898,7 @@ mwen	di	32
 ka	ékri	32
 lang	fwansé	32
 an	krey	32
+pawol	ki	32
 an	fanmi	32
 toutt	moun	32
 an	dlo	32
@@ -1871,6 +1921,7 @@ lévé	gawoulé	31
 achté	an	31
 jan	yo	31
 i	bien	31
+pa	mandé	31
 ka	palé'y	31
 mwen	la	31
 a	zot	31
@@ -1885,6 +1936,7 @@ pou	tousa	31
 pé	alé	31
 pa	mwen	31
 dé	lang	31
+yonndé	moun	31
 an	jounal	31
 wè	si	31
 moun	sé	31
@@ -1899,7 +1951,6 @@ pé	touvé	31
 man	alé	31
 toutes	les	31
 yo	anni	31
-é	adan	31
 on	mannyè	31
 istwa	a	31
 ou	bien	31
@@ -1919,7 +1970,6 @@ yo	lè	31
 sòti	anba	31
 anba	an	31
 montré	moun	31
-fwansé	ek	31
 ek	moun	31
 sav	ou	31
 jwé	épi	31
@@ -1935,6 +1985,7 @@ lanné	prochenn	30
 pli	ba	30
 ki	asou	30
 ki	man	30
+tout	tan	30
 i	matjé	30
 travay	ki	30
 di	fok	30
@@ -1945,6 +1996,7 @@ la	karayib	30
 ba	kréyol	30
 yonndé	tan	30
 fèt	pou	30
+tout	an	30
 woulé	an	30
 moun	koumansé	30
 ka	volé	30
@@ -1970,7 +2022,6 @@ moun	lé	30
 sé	nonm	30
 kifè	yo	30
 ki	dépi	30
-sé	manmay	30
 politik	ki	30
 ka	entérésé	30
 pou	chaché	30
@@ -1986,6 +2037,7 @@ nou	aprann	30
 asou	koté	30
 pasé	pou	30
 ka	dépann	30
+la	frans	30
 menm	sé	30
 kò	a-y	30
 a	moman	30
@@ -2000,6 +2052,7 @@ li	sa	30
 palé	épi	30
 nou	pwan	30
 asou	chimen	30
+fwansé	ek	30
 li	épi	30
 ou	toujou	30
 tout	le	30
@@ -2038,6 +2091,7 @@ anpami	sé	29
 la	di	29
 touvé	sa	29
 an	politik	29
+sav	an	29
 té	a	29
 mé	kon	29
 mwen	ou	29
@@ -2054,8 +2108,8 @@ vé	pa	29
 pas	anlo	29
 ka	brilé	29
 man	pran	29
-chanté	nowel	29
 bliyé	ki	29
+sé	manmay	29
 tout	lé	29
 ka	bien	29
 mé	tout	29
@@ -2065,7 +2119,7 @@ ek	gwadloup	29
 fout	sa	29
 kon	mwen	29
 oben	sé	29
-a	lè	29
+é	adan	29
 moun-lan	ka	29
 pwoblèm	a	29
 enmen	fè	29
@@ -2102,6 +2156,7 @@ a	lkp	28
 ké	mandé	28
 vréyé	bon	28
 on	madanm	28
+té	vin	28
 an	rivé	28
 rivé	douvan	28
 di	sid	28
@@ -2109,7 +2164,6 @@ zot	an	28
 bagay	i	28
 pé	ay	28
 ka	prézanté	28
-la	première	28
 ka	menné	28
 tan	mwen	28
 ka	envité	28
@@ -2118,6 +2172,7 @@ aprann	li	28
 pou	lang	28
 on	a	28
 anrajé	kon	28
+chanté	nowel	28
 bay	an	28
 yonn	pa	28
 liv	ki	28
@@ -2125,16 +2180,15 @@ asiparé	i	28
 matinitjé	a	28
 lajan	an	28
 sé	jan	28
-antré	an	28
 lé	wè	28
 pa	trapé	28
 oben	es	28
 parce	que	28
 sé	neg-la	28
-liv	la	28
 ka	déviré	28
 dan	lisid	28
 sa	zot	28
+a	lè	28
 manmay	ki	28
 tala	pa	28
 lé	zot	28
@@ -2148,14 +2202,12 @@ ké	ka	28
 ek	fanm	28
 san	nou	28
 avan	nou	28
-a-y	ka	28
 of	the	28
 pran	yo	28
 rété	bò	28
 prèmyé	fwa	28
 oben	on	28
 voté	ba	28
-viré	pran	28
 ayen	pou	28
 man	za	28
 sanm	an	28
@@ -2190,7 +2242,6 @@ an	karayib-la	27
 voyé	on	27
 mwen	ni	27
 yo	bien	27
-ki	kréyol	27
 pli	ou	27
 douvan	tribinal	27
 sé	blan-an	27
@@ -2199,6 +2250,7 @@ tonbé	dakò	27
 mandé	nou	27
 zòt	pa	27
 ès	sé	27
+la	première	27
 pa	vwè	27
 qui	se	27
 lang	la	27
@@ -2222,6 +2274,7 @@ ki	dé	27
 lisé	chelchè	27
 non	an	27
 lé	ba	27
+antré	an	27
 yo	bay	27
 an	lidé	27
 an	simenn	27
@@ -2251,14 +2304,15 @@ zot	sa	27
 nonm	ek	27
 fè	gran	27
 poutji	nou	27
-palé	asi	27
 sòti	la	27
+a-y	ka	27
 kivédi	i	27
 kréyòl	é	27
 ki	rarman	27
 ti	pawol	27
 té	paré	27
 sé	timoun-la	27
+viré	pran	27
 bò	dlo	27
 fini	pasé	27
 tan	gadé	27
@@ -2308,11 +2362,14 @@ mové	tan	26
 épi	ti	26
 a	gwadloupéyen	26
 pou	touvé	26
+ké	vin	26
 éséyé	fè	26
+nou	palé	26
 wè	tout	26
 pas	si	26
 pou	konpwann	26
 i	monté	26
+ki	kréyol	26
 pou	bokanté	26
 ra	kon	26
 sé	dènié	26
@@ -2326,6 +2383,7 @@ two	ta	26
 é	ta	26
 di	konsa	26
 lé	an	26
+rété	doubout	26
 dans	une	26
 pé	trapé	26
 té	konnèt	26
@@ -2340,8 +2398,8 @@ an	matjè	26
 nan	lanné	26
 lanné	é	26
 mété	mwen	26
+liv	la	26
 pou	aprann	26
-sé	pawol	26
 sé	gras	26
 zot	sé	26
 manzel	té	26
@@ -2361,6 +2419,7 @@ ou	pran	26
 pawol	initil	26
 sé	nouvo	26
 ek	dot	26
+palé	asi	26
 ki	met	26
 nenpòt	ki	26
 péyi	kon	26
@@ -2421,6 +2480,7 @@ di	osi	25
 an	ay	25
 ka	janmen	25
 atjelman	i	25
+an	vin	25
 mandé	ki	25
 vwè	yo	25
 an	afrik	25
@@ -2428,10 +2488,10 @@ fè	dèyè	25
 konnet	sé	25
 an	solision	25
 toujou	fè	25
+i	vin	25
 fò	ou	25
 viv	épi	25
 ké	ja	25
-rété	doubout	25
 si	la	25
 pòté	an	25
 montré	sé	25
@@ -2451,6 +2511,7 @@ dan	lé	25
 kréyol	ek	25
 dé	kalté	25
 trapé	on	25
+sé	pawol	25
 même	si	25
 fet	épi	25
 labitid	fè	25
@@ -2498,6 +2559,7 @@ ki	jou	25
 lan	té	25
 en	martinique	24
 atjelman	sé	24
+tout	kalité	24
 sé	ni	24
 ni	tousa	24
 pou	bon	24
@@ -2509,7 +2571,6 @@ ou	gadé	24
 a	i	24
 ki	lang	24
 yo	pasé	24
-laplipa	adan	24
 sé	primié	24
 on	lyannaj	24
 ki	mèt	24
@@ -2525,14 +2586,12 @@ i	palé	24
 lanné	ki	24
 fwa	adan	24
 ki	zafè	24
-in	the	24
 la	dépi	24
 fè	sik	24
 adan	tousa	24
 pa	posib	24
 gwadloup	an	24
 fè	i	24
-mizik	an	24
 sé	prèmié	24
 vini	la	24
 ka	antré	24
@@ -2546,7 +2605,6 @@ sa	vini	24
 ka	wosé	24
 rivé	pou	24
 adan	kilti	24
-kréyol	é	24
 ké	anvi	24
 épi	bon	24
 a	di	24
@@ -2626,6 +2684,7 @@ ka	dékalé	23
 bagay	an	23
 rété	estébékwé	23
 pòkò	té	23
+laplipa	adan	23
 konsa	nou	23
 èvè	dòt	23
 mas	a	23
@@ -2647,11 +2706,14 @@ travay	ba	23
 ba	matinik	23
 tousa	ou	23
 vwè	ki	23
+mizik	an	23
 prèmié	fwa	23
+lè	tout	23
 pi	lwen	23
 on	nonm	23
 pou	tann	23
 ka	apiyé	23
+gadé	mwen	23
 tousa	pou	23
 ka	èspéré	23
 qui	ont	23
@@ -2666,6 +2728,7 @@ pli	bon	23
 a	moman-tala	23
 man	jik	23
 manman	yo	23
+kréyol	é	23
 touvé	adan	23
 an	zouti	23
 liv	yo	23
@@ -2687,9 +2750,11 @@ lé	mété	23
 ba	lang	23
 lang	ka	23
 histoire	de	23
+si	tout	23
 man	kwè	23
 mais	aussi	23
 la	littérature	23
+fanm	an	23
 an	sans	23
 ké	vlé	23
 on	pal	23
@@ -2697,6 +2762,7 @@ on	pal	23
 moun	ou	23
 nou	sanblé	23
 sa	fèt	23
+vant	a	23
 mèt	an	23
 ké	konpwann	23
 sé	blan-la	23
@@ -2723,7 +2789,6 @@ anlè	lanmè	23
 ké	asepté	23
 épi	apré	23
 anni	fè	23
-sèvi	an	23
 an	vakans	23
 an	blan	23
 langue	et	23
@@ -2752,11 +2817,11 @@ an	vi	23
 kontinyé	fè	23
 viré	koumansé	23
 on	manman	23
+vin	an	23
 konpwann	sé	23
 kay	fèt	23
 adan	chanpyona	23
 ou	blijé	23
-montray	kreyol	23
 a	lanmou	23
 jéova	ka	23
 à	son	22
@@ -2788,6 +2853,7 @@ lafet	épi	22
 maché	adan	22
 mayé	épi	22
 é	dé	22
+in	the	22
 mé	adan	22
 ni	trop	22
 fo	pou	22
@@ -2875,6 +2941,7 @@ ki	pòtalan	22
 an	tet-li	22
 ek	si	22
 ek	ba	22
+sèvi	an	22
 nou	vwè	22
 oben	i	22
 tiré	méprizasion	22
@@ -2882,7 +2949,6 @@ dé	bon	22
 ped	lavi-yo	22
 pa	opozé	22
 sel	koté	22
-adan	kalté	22
 fè	gwo	22
 an	paka	22
 mwen	fè	22
@@ -2898,7 +2964,6 @@ ta'y	la	22
 sé	frè	22
 woulé	atè	22
 ba	misié	22
-ké	bizwen	22
 avec	le	22
 bannzil	karayib	22
 en	guadeloupe	22
@@ -2909,6 +2974,7 @@ jou	ka	22
 ka	aji	22
 est	la	22
 wou	ki	22
+montray	kreyol	22
 neg	la	22
 moun	lontan	22
 man	key	22
@@ -2935,7 +3001,6 @@ mwen	adan	21
 ki	enmé	21
 é	ni	21
 on	pawòl	21
-a-yo	pou	21
 zò	sav	21
 zò	vlé	21
 kaz	a-y	21
@@ -2949,7 +3014,6 @@ hip	hop	21
 sé	boug-la	21
 gran	nonm	21
 é	dòt	21
-lè	tout	21
 on	lanné	21
 épi	dlo	21
 davwa	an	21
@@ -3050,6 +3114,7 @@ pòté	plent	21
 pep	matinik	21
 batjé	abò	21
 ki	ti	21
+adan	kalté	21
 ki	téka	21
 ka	répété	21
 ka	di-w	21
@@ -3066,8 +3131,8 @@ pou	mennen	21
 labann	a	21
 rivé	sav	21
 pou	édé	21
+ké	bizwen	21
 nou	enmen	21
-ki	reskonsab	21
 opozé	yo	21
 nou	pli	21
 la	même	21
@@ -3107,6 +3172,7 @@ ki	pòté	20
 on	zanmi	20
 kilti	a	20
 an	sèl	20
+a-yo	pou	20
 ki	bizwen	20
 aka	sé	20
 manjé	sa	20
@@ -3119,6 +3185,7 @@ vini	matinik	20
 douvan	on	20
 nou	touvé	20
 té	prévwè	20
+tèt	an	20
 pas	tout	20
 afos	i	20
 kò'y	ka	20
@@ -3144,7 +3211,6 @@ tou	sèl	20
 de	tout	20
 que	des	20
 mété	sa	20
-konsi	i	20
 ayen	ankò	20
 ka	komansé	20
 èvè	dé	20
@@ -3166,7 +3232,6 @@ pou	fini	20
 ni	yonn-dé	20
 ni	osi	20
 di	bien	20
-ni	tò	20
 wè	a	20
 wè	ni	20
 ka	lavé	20
@@ -3200,6 +3265,7 @@ an	mwé	20
 ka	wè'y	20
 ola	ou	20
 ba-y	on	20
+an	prèmyé	20
 sé	konsi	20
 é	ba	20
 mizik	la	20
@@ -3260,6 +3326,8 @@ misyé	louwa	20
 a-y	la	20
 nou	bien	20
 di'y	kon	20
+ki	reskonsab	20
+réponn	li	20
 wè	zot	20
 kantékant	épi	20
 yo	on	20
@@ -3295,6 +3363,7 @@ mannyòk	a	19
 valè	a	19
 kivédi	yo	19
 e	an	19
+palé	é	19
 palé	lang	19
 twa	fwa	19
 kon	di	19
@@ -3310,6 +3379,7 @@ pou	tou	19
 ka	méné	19
 jédi	pasé	19
 té	douvan	19
+té	di'y	19
 tout	jan	19
 jan	matinik	19
 mé	épi	19
@@ -3324,6 +3394,7 @@ sé	vyé	19
 a'y	é	19
 ja	vwè	19
 té	tonbé	19
+konsi	i	19
 ne	sont	19
 mennen	nou	19
 elle	est	19
@@ -3341,13 +3412,13 @@ falé	té	19
 yo	anlè	19
 ek	jik	19
 wè	moun	19
-kifè	sé	19
 épi	anlot	19
 fò	an	19
 ké	péyé	19
 ka	tjwé	19
 pou	toutbon	19
 asou	dé	19
+pou	konprann	19
 fè	travay	19
 jou	ki	19
 viré	fè	19
@@ -3397,6 +3468,7 @@ poko	menm	19
 sirtou	sa	19
 sé	mo	19
 ka	pèwmèt	19
+sé	plis	19
 palé	ki	19
 yo	yonn	19
 péyi	an	19
@@ -3504,6 +3576,7 @@ fè	ganm	18
 an	dézienm	18
 plis	ankò	18
 ké	disparet	18
+ki	non	18
 sèten	adan	18
 kréyé	on	18
 padavwa	yo	18
@@ -3511,10 +3584,11 @@ ka	jéré	18
 on	mouvman	18
 pli	fasil	18
 mété	sé	18
-di	adan	18
 pri	a	18
+ja	konnèt	18
 fè	onlo	18
 toupatou	an	18
+zot	tout	18
 boug-la	té	18
 pou	si	18
 pwan	yo	18
@@ -3531,7 +3605,6 @@ réponn	mwen	18
 moun-la	ka	18
 ki	blan	18
 monté	adan	18
-tèt	an	18
 ka	anonsé	18
 fè	lé	18
 jik	tan	18
@@ -3539,6 +3612,7 @@ pies	pa	18
 vlé	vwè	18
 enpé	moun	18
 i	pòté	18
+pou	viv	18
 kité	nou	18
 pèp	la	18
 on	fòs	18
@@ -3556,6 +3630,7 @@ la	femme	18
 ni	plas	18
 nou	asou	18
 i	fo	18
+la	fin	18
 mété	douvan	18
 kriyé	on	18
 pa	oubliyé	18
@@ -3569,6 +3644,7 @@ an	sak	18
 té	fèt	18
 bagay	sé	18
 apiyé	anlè	18
+kifè	sé	18
 fouté	an	18
 ped	an	18
 pou	bien	18
@@ -3576,7 +3652,6 @@ an	chay	18
 apré	sé	18
 tann	mach	18
 fò	adan	18
-ka	nouri	18
 té	ped	18
 pran	douvan	18
 pou	goumen	18
@@ -3594,7 +3669,6 @@ pa	zafè	18
 viv	kon	18
 di	kont	18
 pa	kontinié	18
-fè	konsi	18
 ja	an	18
 kidonk	ki	18
 sa	mété	18
@@ -3660,6 +3734,7 @@ sa	la	18
 asiré	nou	18
 lé	palé	18
 nou	enmé	18
+a	lot	18
 dé	jenn	18
 ek	ta	18
 abò	an	18
@@ -3715,6 +3790,7 @@ men	es	18
 sé	neg	18
 an	valè	18
 anba	fey	18
+pou	bondyé	18
 parapot	a	18
 kivédi	nou	18
 anba	artik-tala	18
@@ -3724,6 +3800,7 @@ kaskod	épi	18
 sé	met	18
 kouté-w	la	18
 labib	ka	18
+mwen	es	17
 trapé	bon	17
 a	adan	17
 i	pli	17
@@ -3747,8 +3824,10 @@ ou	la	17
 kyouyé	on	17
 ké	on	17
 an	pyé	17
+di	adan	17
 dé	simenn	17
 adan	listwa	17
+pa	réponn	17
 i	lévé	17
 ka	touné	17
 ki	avan	17
@@ -3757,11 +3836,11 @@ fout	ou	17
 ka	planté	17
 an	wout	17
 i	jwenn	17
-vou	ka	17
 dépi	lanné	17
 menm	dwa	17
 ki	neg	17
 di	bétiz	17
+pou	chak	17
 fè	di	17
 nou	paré	17
 épi	tousa	17
@@ -3796,11 +3875,11 @@ tousa	an	17
 pati	laritret	17
 ja	las	17
 asiré	yo	17
+man	mandé	17
 sé	péchè	17
 ped	tan	17
 ka	foukan	17
 ka	djélé	17
-nan	sé	17
 nan	bouk	17
 adan	lékol	17
 antouléka	sa	17
@@ -3815,6 +3894,7 @@ rimatjé	ki	17
 manniè	moun	17
 fransé	ka	17
 i	genyen	17
+ka	nouri	17
 moun	mò	17
 gadé	adan	17
 an	fidji	17
@@ -3827,6 +3907,7 @@ asi	chimen	17
 ka	souflé	17
 sa	cho	17
 an	siklòn	17
+fè	konsi	17
 mété	dé	17
 sé	tan-tala	17
 vini	kon	17
@@ -3885,7 +3966,6 @@ ka	enki	17
 fè	èvè	17
 a	moun-la	17
 ka	toufé	17
-é	tou	17
 et	du	17
 yo	pli	17
 pa	fouti	17
@@ -4006,6 +4086,7 @@ té	jenn	16
 té	moun	16
 lanné	ek	16
 péyi	kréyolopal	16
+ké	konprann	16
 déwò	pou	16
 ki	pibliyé	16
 konba	a	16
@@ -4029,9 +4110,9 @@ an	sòti	16
 a	fanmi	16
 éfò	pou	16
 an	magazen	16
+vou	ka	16
 nan	finisman	16
 en	pa	16
-pou	chak	16
 jou	sé	16
 ké	tonbé	16
 zòt	pé	16
@@ -4060,6 +4141,7 @@ kouri	an	16
 péchè	ki	16
 asou	lé	16
 é	anlo	16
+nan	sé	16
 sé	kréyol	16
 apwann	li	16
 yo	blijé	16
@@ -4121,6 +4203,7 @@ zépon	natirel	16
 man	di'w	16
 santi	i	16
 afin	de	16
+mandé	sa	16
 créole	à	16
 kay	la	16
 ba	lé	16
@@ -4136,6 +4219,7 @@ kay	jwé	16
 si	latè	16
 pas	épi	16
 lo	moun	16
+kont	a	16
 tala	yo	16
 palé	nou	16
 pa	dé	16
@@ -4155,7 +4239,6 @@ an	rev	16
 an	gou'y	16
 ka	moli	16
 sa	posib	16
-jik	nan	16
 sel	ti	16
 ki	diféran	16
 dé	lanné	16
@@ -4168,7 +4251,6 @@ en	place	16
 nou	konnet	16
 yol	matinik	16
 pa	moli	16
-an	fé	16
 ka	tijé	16
 lé	menm	16
 rété	on	16
@@ -4255,6 +4337,7 @@ fè	sérémoni	16
 ti	bolonm	16
 mi	nou	16
 yo	plis	16
+nou	vin	16
 risivwè	an	16
 le	pen	16
 moman	taa	16
@@ -4292,7 +4375,6 @@ an	prèmié	15
 érisi	fè	15
 i	pété	15
 osi	adan	15
-ké	konprann	15
 pi	gwo	15
 pasé	sa	15
 moun	tout	15
@@ -4310,7 +4392,6 @@ travay	é	15
 pou	désann	15
 chak	bètafé	15
 ped	tout	15
-mé	ka	15
 maché	an	15
 vou	ki	15
 boug	an	15
@@ -4319,7 +4400,6 @@ wè	mwen	15
 ja	wè	15
 viv	li	15
 on	kou	15
-tout	sòs	15
 a	lendikatif	15
 sans	a	15
 rédé	nou	15
@@ -4338,6 +4418,7 @@ qui	ne	15
 est	tout	15
 ké	chwézi	15
 li	ni	15
+tout	en	15
 est	ce	15
 ne	pas	15
 ès	nou	15
@@ -4372,7 +4453,6 @@ an	kannaval	15
 rivé	anlè	15
 bel	balan	15
 dèyè	yo	15
-ka	pibliyé	15
 sé	dokiman-an	15
 épi	menm	15
 lafen	lanné	15
@@ -4408,7 +4488,6 @@ mé	lé	15
 misié	fè	15
 la	oben	15
 sé	dèyè	15
-an	lékriti	15
 adan	pies	15
 nou	rantré	15
 ki	ta-y	15
@@ -4480,6 +4559,7 @@ lari	chenn	15
 fò	i	15
 gason	a	15
 ka	kalkilé	15
+é	tou	15
 pour	nous	15
 que	vous	15
 ek	pli	15
@@ -4497,6 +4577,7 @@ pé	tann	15
 té	ta	15
 nou	plis	15
 koupé	kann	15
+jik	nan	15
 libèté	sé	15
 poutji	ou	15
 nou	anni	15
@@ -4517,6 +4598,7 @@ toutt	kalté	15
 an	ma	15
 ki	prézidan	15
 mété	bon	15
+an	fé	15
 di	ba	15
 a	fanm	15
 séré	dèyè	15
@@ -4531,7 +4613,6 @@ ka	menyen	15
 ka	anpéché	15
 man	poko	15
 li	yo	15
-pa	péyé	15
 lanmè	a	15
 li	osi	15
 ké	pati	15
@@ -4578,6 +4659,7 @@ tan	avan	15
 kréyol	lékol	15
 ka	joué	15
 patjé	moun	15
+tout	kò	15
 kijan	i	15
 oben	adan	15
 ka	débatjé	15
@@ -4599,7 +4681,6 @@ dékatman	a	15
 fet	nan	15
 djélé	anmwé	15
 pétèt	kè	15
-la	mort	15
 je	vais	15
 comme	des	15
 kidonk	si	15
@@ -4607,6 +4688,7 @@ adan	travay	15
 tout	vi	15
 y	ka	15
 lajan	adan	15
+an	tann	15
 ek	délè	15
 pies	dot	15
 ka	lyanné	15
@@ -4689,6 +4771,7 @@ konstwi	an	14
 travay	anlè	14
 é	fo	14
 nou	si	14
+pa	konèt	14
 pannan	on	14
 douvan	tout	14
 fè	péyi	14
@@ -4706,6 +4789,7 @@ adan	komin	14
 bètafé	ka	14
 lontan	i	14
 en	langue	14
+mé	ka	14
 adan	yonn	14
 pa	enmé	14
 ké	fè'y	14
@@ -4722,6 +4806,7 @@ bob	marley	14
 nou	mandé	14
 pou	le	14
 kon	la	14
+tout	sòs	14
 lendikatif	prézan	14
 anba	men	14
 créole	dans	14
@@ -4732,7 +4817,6 @@ dè	moun	14
 koulè	a	14
 ki	dwol	14
 san	a	14
-pa	dèyè	14
 de	leurs	14
 ka	byen	14
 wè	ayen	14
@@ -4762,16 +4846,15 @@ désann	nan	14
 sav	lè	14
 ki	tou	14
 fè	kannaval	14
-sé	matjè	14
 anlè	tab	14
 lévé	doubout	14
 lé	sé	14
+ka	pibliyé	14
 an	sèvis	14
 an	épi	14
 matinitjé	ki	14
 alé	pli	14
 épi	pliziè	14
-sé	mè	14
 tet	sé	14
 moun-lan	té	14
 asou	lakot	14
@@ -4811,6 +4894,7 @@ an	sann	14
 sé	palakoz	14
 lavil	fodfrans	14
 a	fait	14
+an	lékriti	14
 men	kon	14
 délè	i	14
 dépann	di	14
@@ -4841,6 +4925,7 @@ an	mèt	14
 ka	ègzisté	14
 menm	moun	14
 tout	koulè	14
+la	san	14
 rantré	andidan	14
 té	telman	14
 i	ladjé	14
@@ -4875,7 +4960,6 @@ on	peut	14
 un	peu	14
 les	enfants	14
 yonndé	lanné	14
-adjilbè	ka	14
 sé	dènyé	14
 men	adan	14
 dé	kalité	14
@@ -4915,7 +4999,6 @@ zié	mwen	14
 an	konba	14
 olié	nou	14
 i	anvi	14
-atravè	tout	14
 vwè	nou	14
 an	lantoupriz	14
 zanmi	èvè	14
@@ -4926,6 +5009,7 @@ fok	zot	14
 jou	tala	14
 jou	san	14
 fanm	a	14
+pa	péyé	14
 épi	vié	14
 ka	disparet	14
 an	li	14
@@ -4978,7 +5062,6 @@ lé	dimanch	14
 man	viré	14
 jounal	la	14
 dot	lang	14
-yan	kalté	14
 dé	gwo	14
 militan	ki	14
 bravo	ba	14
@@ -4998,7 +5081,7 @@ di	ek	14
 fè	konsidiré	14
 pannan	sé	14
 on	chanté	14
-ola	sé	14
+la	mort	14
 pwan	plas	14
 tchè	a	14
 mandé	tout	14
@@ -5018,6 +5101,7 @@ ka	kouvè	14
 lè	pa	14
 pou	prèmyé	14
 zò	konpwann	14
+mond	a	14
 a	mizik	14
 lè'y	té	14
 boug	a	14
@@ -5031,7 +5115,6 @@ ka	èspliké	14
 kriyé	sé	14
 i	gannyé	14
 pé	kouté	14
-rété	kon	14
 a-w	ka	14
 an	zonbi	14
 boug-la	ki	14
@@ -5132,6 +5215,7 @@ fè	débouya	13
 débouya	pou	13
 manjé	é	13
 pé	kriyé	13
+pa	dèyè	13
 wè	la	13
 ès	yo	13
 di	ka	13
@@ -5171,11 +5255,13 @@ an	ewop	13
 ou	pwan	13
 an	ti-pawol	13
 ki	di'y	13
+sé	matjè	13
 sé	péyi-tala	13
 kò'y	kon	13
 sòti	épi	13
 ka	obliyé	13
 vréyé	yo	13
+sé	mè	13
 en	france	13
 ou	ba	13
 sav	kiles	13
@@ -5268,7 +5354,6 @@ ki	bèl	13
 pou	véyé	13
 si	pyé	13
 de	guadeloupe	13
-la	san	13
 yo	kité	13
 kay	li	13
 an	lari-a	13
@@ -5312,6 +5397,7 @@ fo	yo	13
 i	kouri	13
 rivé	pli	13
 kon	lé	13
+adjilbè	ka	13
 pa	lévé	13
 machandiz	ki	13
 makak	té	13
@@ -5349,6 +5435,7 @@ sé	ansien	13
 wè	manniè	13
 soutou	adan	13
 yo	rantré	13
+atravè	tout	13
 yonn-dé	moun	13
 entjet	kon	13
 finet	nef	13
@@ -5439,6 +5526,7 @@ péyi	natif-natal	13
 pran	plass	13
 plass	mwen	13
 santi	mwen	13
+ola	sé	13
 nou	pèd	13
 sosial	la	13
 aprann	nou	13
@@ -5493,6 +5581,7 @@ konsidiré	nou	13
 ka	òganizé	13
 konsi	sé	13
 fwansé	pou	13
+rété	kon	13
 onlo	dòt	13
 ki	té'é	13
 lontan	té	13
@@ -5503,6 +5592,7 @@ a-w	é	13
 an	févriyé	13
 la	mémoire	13
 avè	on	13
+a	nenpot	13
 ka	rélé	13
 au	niveau	13
 foutbol	la	13
@@ -5596,7 +5686,6 @@ pou	réponn	12
 rivé	di	12
 té	si	12
 chofè	taksi	12
-an	asosiyasion	12
 menm	wotè	12
 yo	dékouvè	12
 sé	pétet	12
@@ -5691,7 +5780,6 @@ teks	ki	12
 pi	bon	12
 pati	fè	12
 an	sanblé	12
-é	chak	12
 kréyol	ba	12
 a	lèsklavaj	12
 kaz	a'y	12
@@ -5711,6 +5799,7 @@ sadin	épi	12
 mé	atjelman	12
 atjelman	ni	12
 mé	akondi	12
+an	krab	12
 an	lòtograf	12
 sé	tou	12
 matjé	sa	12
@@ -5722,6 +5811,7 @@ pour	que	12
 menm	rivé	12
 sé	tousa	12
 nou	kriyé	12
+pa	vin	12
 di	asi	12
 ka	rèsté	12
 sèvi	nou	12
@@ -5895,6 +5985,7 @@ an	ansien	12
 comme	le	12
 de	recherches	12
 ka	antréné	12
+tout	lannuit	12
 anlè	dé	12
 pofité	fè	12
 dapiyan	asou	12
@@ -5916,6 +6007,7 @@ ann	atandan	12
 ek	anlo	12
 vou	ou	12
 timoun	an	12
+pou	vin	12
 atè	an	12
 ka	tjilé	12
 man	enmen	12
@@ -6129,12 +6221,14 @@ mo	an	11
 an	kontak	11
 bouch	an	11
 sé	rété	11
+an	asosiyasion	11
 ki	pri	11
 san	péyé	11
 rivé	nan	11
 dwa	ki	11
 ni	lapo	11
 kon	neg	11
+mèt	yo	11
 si'w	ka	11
 a	blan	11
 tout	lari	11
@@ -6156,6 +6250,7 @@ koté	man	11
 on	tou	11
 zò	tout	11
 zépol	pou	11
+pwan	tout	11
 la	nuit	11
 à	ses	11
 dwa	pou	11
@@ -6181,9 +6276,11 @@ ja	pa	11
 pa	asiré	11
 an	nich	11
 zé	bourik	11
+kout	kon	11
 konnet	yonndé	11
 es	tousa	11
 rété	anlè	11
+anlè	kont	11
 pou	oubliyé	11
 jik	jou	11
 pli	méyè	11
@@ -6236,9 +6333,9 @@ adan	manniè	11
 goumen	kon	11
 nonm	kon	11
 ped	lavi'y	11
+é	chak	11
 ka	fett	11
 mwen	vin	11
-ti	liv	11
 mé	moun	11
 jenn	ki	11
 lé	mò	11
@@ -6264,14 +6361,12 @@ fè	lagrev	11
 pasé	té	11
 opérasion	mòlòkòy	11
 konba	ki	11
-lafet	épi'y	11
 ek	ékri	11
 sé	esklav-la	11
 kontel	sé	11
 épi	tou	11
 fet	avan	11
 di	ta	11
-lékriti	ki	11
 pa	bagay	11
 et	si	11
 sé	timoun	11
@@ -6343,6 +6438,7 @@ nou	mèt	11
 sé	non	11
 on	plas	11
 ka	miziré	11
+tout	liv	11
 la	gwadloup	11
 gwo	lapli	11
 jòdi	sé	11
@@ -6359,7 +6455,6 @@ yo	maké	11
 tini	moun	11
 délè	ou	11
 a	lantou	11
-ka	déchèpiyé	11
 pwan	sé	11
 mò	adan	11
 fèt	èvè	11
@@ -6426,6 +6521,7 @@ moun	malad	11
 tatjet	an	11
 tout	fanm	11
 moun	bon	11
+tout	lanné	11
 tour	yol	11
 ka	dénonsé	11
 pé	sòti	11
@@ -6470,7 +6566,6 @@ an	péké	11
 foto	a	11
 i	paté	11
 an	bondyé	11
-pou	vin	11
 pou	timoun	11
 aprann	kréyol	11
 ki	tounen	11
@@ -6502,7 +6597,6 @@ an	i	11
 kanmarad	la	11
 ka	dérayé	11
 té	boudé	11
-té	wè'y	11
 fok	ké	11
 pa	nenpot	11
 lé	mwen	11
@@ -6584,7 +6678,6 @@ ka	kwazé	11
 kontak	épi	11
 viré	sèvi	11
 kè	lè	11
-c	on	11
 za	la	11
 ka	pwenté	11
 tet	kolé	11
@@ -6593,7 +6686,6 @@ a	oben	11
 oben	moun	11
 ka	ankourajé	11
 y	téka	11
-menm	jan	11
 lizin	a	11
 byen	é	11
 yé	sa	11
@@ -6621,8 +6713,6 @@ asi	papyé	11
 prèmyé	minis	11
 alò	nou	11
 é	poutan	11
-li	kant	11
-kant	a-y	11
 de	schoelcher	11
 balan	an	11
 an	konplosité	11
@@ -6645,7 +6735,6 @@ pou	toujou	11
 kont	zafè	11
 adan	sans	11
 nou	pies	11
-on	lòt	11
 syéra	léòn	11
 bagay-la	té	11
 an	kanman	11
@@ -6696,7 +6785,6 @@ met	la	11
 jwé	mizik	11
 lé	média	11
 pis	ni	11
-fé	on	11
 an	bet	11
 mwen	rivé	11
 fwa	a	11
@@ -6747,7 +6835,6 @@ an	militan	10
 nou	pòkò	10
 té	jis	10
 pou	blijé	10
-primié	douvan	10
 fwa	man	10
 pou	katjilé	10
 le	point	10
@@ -6774,7 +6861,6 @@ nou	ankò	10
 é	blan	10
 chanjé	sa	10
 tan	té	10
-ka	swé	10
 kò'y	épi	10
 tout	pawol	10
 a	vou	10
@@ -6793,8 +6879,6 @@ lésé	yo	10
 a	kochon	10
 fanm	kon	10
 chivé	grennen	10
-han	han	10
-mèt	yo	10
 poté	mannèv	10
 jan	sa	10
 la	place	10
@@ -6809,6 +6893,7 @@ moun	ri	10
 tout	matinitjé	10
 plis	anlè	10
 adan	mizik	10
+an	gout	10
 on	paket	10
 bay	la	10
 on	lè	10
@@ -6817,7 +6902,7 @@ en	particulier	10
 manman	an	10
 viv	ansanm	10
 kisa	i	10
-pwan	tout	10
+fin	bat	10
 sa	zòt	10
 konsa	sé	10
 plas	li	10
@@ -6905,7 +6990,6 @@ mitan	tet	10
 di	ankò	10
 lanné	asou	10
 anba	grenn	10
-chimen	ki	10
 césaire	té	10
 anni	tounen	10
 viv	matinik	10
@@ -6923,6 +7007,7 @@ pa	konnett	10
 pouki	an	10
 an	maké	10
 an	konkou	10
+ti	liv	10
 fè	ladjè	10
 sé	manniè	10
 moun	chonjé	10
@@ -6954,12 +7039,14 @@ pou	tonbé	10
 akondi	pawol-la	10
 vini	red	10
 ka	limen	10
+lafet	épi'y	10
 la	question	10
 anni	pran	10
 men	annou	10
 ni	bagay	10
 mondial	la	10
 sé	mo-a	10
+lékriti	ki	10
 ni	valè	10
 kilti	ek	10
 moun	anlè	10
@@ -7057,6 +7144,7 @@ i	pi	10
 dèpi	an	10
 vi	é	10
 trapé	tout	10
+byen	fèt	10
 yo	enmé	10
 the	caribbean	10
 vwè	la	10
@@ -7082,6 +7170,7 @@ yo	douvan	10
 koumansé	di	10
 apré	dé	10
 menm	jan-la	10
+ka	déchèpiyé	10
 nou	bliyé	10
 ké	antré	10
 é	chanté	10
@@ -7177,6 +7266,7 @@ fransé	yo	10
 an	doub	10
 pri	nobel	10
 nou	andwa	10
+fanm	pou	10
 vié	pawol	10
 sòti	dan	10
 plastik	ka	10
@@ -7249,7 +7339,6 @@ pa	fot	10
 ja	trapé	10
 a	kon	10
 anba	bra	10
-pa	obliyé	10
 oksidantal	la	10
 wè	pies	10
 oswa	on	10
@@ -7272,14 +7361,15 @@ sé	lanné-a	10
 bagay	ba	10
 kabéché	asou	10
 dépi	latit	10
-de	manière	10
 moman	pou	10
 jenn	tibray	10
 rivé	asou	10
+té	wè'y	10
 sé	van	10
 ek	dlo	10
 tjè	mwen	10
 biten	la	10
+on	sòt	10
 menm	pé	10
 ou	anvi	10
 kontinyé	maché	10
@@ -7353,6 +7443,7 @@ ils	sont	10
 pour	faire	10
 pli	rèd	10
 le	soleil	10
+ka	fin	10
 bagay	éti	10
 touvé	travay	10
 tit	a	10
@@ -7376,11 +7467,14 @@ pou	prézanté	10
 ay	gadé	10
 sé	rézilta-a	10
 ké	aprann	10
+a	bout	10
+c	on	10
 mwen	kè	10
 ka	sonné	10
 fè	bagay	10
 sé	foto-a	10
 débaké	an	10
+menm	jan	10
 san	palé	10
 jé	olenpik	10
 kivédi	sa	10
@@ -7420,6 +7514,8 @@ ka	fasadé	10
 ki	dwèt	10
 an	réyalité	10
 konpòtasyon	a	10
+li	kant	10
+kant	a-y	10
 koré	di	10
 sé	lézòt	10
 kont	pwofitasyon	10
@@ -7434,6 +7530,7 @@ adan	diféran	10
 larmé	fwansé	10
 senk	lanné	10
 a	lafifa	10
+tout	on	10
 nou	té'é	10
 lè	lé	10
 ni	mové	10
@@ -7446,6 +7543,7 @@ chaj	a	10
 latjé	a	10
 anlè	foto-a	10
 pep-la	pa	10
+on	lòt	10
 té	vivan	10
 zanmi	a-y	10
 pa	pété	10
@@ -7486,7 +7584,6 @@ mi	bel	10
 lézot	péyi	10
 a-w	pou	10
 asou	entènet	10
-la	kontel	10
 lanné-a	ki	10
 moli	ba	10
 koté	sa	10
@@ -7529,14 +7626,13 @@ yonn-dé	tan	10
 za	bliyé	10
 mèt	sé	10
 ka	dépotjolé	10
+fé	on	10
 gwoka	la	10
 otjipé	di'y	10
 lang	neg	10
 péyi	lafrans	10
 kon	matinik	10
 djè	konnet	10
-lire	la	10
-sé	chanté	10
 mété	kòyo	10
 danjéré	kité	10
 kité	danjéré	10
@@ -7566,8 +7662,8 @@ zot	pijé	10
 jenn	fi-a	10
 ti	bet	10
 germain	kanuti	10
+ou	palé	10
 kont	kè	10
-ti	loto	10
 moun	sòti	10
 a	lanmen	10
 akòz	dè	10
@@ -7596,7 +7692,6 @@ di	jou	9
 adan	koloni	9
 lé	sa	9
 lalwa	ka	9
-tout	moun	9
 la	ba	9
 an	montray	9
 éti	man	9
@@ -7605,11 +7700,11 @@ man	désidé	9
 voyé	ba	9
 matjé	ki	9
 palé	plis	9
-jis	fè	9
 difikilté	pou	9
 an	favè	9
 té	asé	9
 moun	nan	9
+primié	douvan	9
 tet-yo	ek	9
 tout	lèrestan	9
 djè	palé	9
@@ -7638,6 +7733,7 @@ on	vidéo	9
 a-yo	asi	9
 pou	plis	9
 ay	asi	9
+boul	an	9
 mwenmenm	an-mwen	9
 té	mayé	9
 tou	dousman	9
@@ -7646,6 +7742,7 @@ yo	kouri	9
 moun-la	té	9
 yo	chaché	9
 chanté	pou	9
+i	fèt	9
 entènasional	kréyol	9
 aprann	ki	9
 mété	atè	9
@@ -7686,7 +7783,6 @@ i	kréyé	9
 bokanté	pawòl	9
 la	jouné	9
 jou	la	9
-an	gout	9
 radyo	la	9
 an	chef	9
 la	vansé	9
@@ -7794,6 +7890,7 @@ ka	pòté'y	9
 dé	liv	9
 vini	aboli	9
 kouvè	épi	9
+chimen	ki	9
 dévlopé	an	9
 té	kapab	9
 pou	jwenn	9
@@ -7883,7 +7980,6 @@ chanté	ek	9
 té	fèmen	9
 i	trouvé	9
 dépi	le	9
-jan	ki	9
 lékol	épi	9
 moun	tann	9
 tann	pou	9
@@ -7928,6 +8024,7 @@ lan	an	9
 fè	dézod	9
 kon	gran	9
 lontan	ki	9
+tout	manniè	9
 bagay	pa	9
 ba	lézot	9
 pliziè	moun	9
@@ -8141,7 +8238,6 @@ chanté	épi	9
 i	konprann	9
 é	pèsonn	9
 dé	vié	9
-biten	adan	9
 yo	jwenn	9
 sé	jé	9
 tet	a	9
@@ -8170,7 +8266,6 @@ an	bannann	9
 chanté	é	9
 adan	konba	9
 mè	pa	9
-man	zoun	9
 fwans	é	9
 mayé	é	9
 an	dakò	9
@@ -8180,6 +8275,7 @@ ba	madanm	9
 yo	arété	9
 nou	paka	9
 mak	a	9
+ki	dòt	9
 pli	ho	9
 vlé	sé	9
 à	nos	9
@@ -8205,10 +8301,10 @@ sé	papa	9
 rivé	yo	9
 lespri	moun	9
 pòkò	paré	9
-yo	tout-la	9
 jou	adan	9
 bouch	anba	9
 yonndé	jou	9
+pa	obliyé	9
 éti	neg	9
 kivédi	moun	9
 nan	pié	9
@@ -8241,6 +8337,7 @@ kon	dan	9
 danjéré	pou	9
 sé	plaj-la	9
 an	jandam	9
+de	manière	9
 lè'w	té	9
 lanné-a	ka	9
 yo	oblijé	9
@@ -8332,10 +8429,8 @@ ki	asi	9
 konsèy	réjyonal	9
 la	kay	9
 palestinien	an	9
-piti	ti	9
 asou	do	9
 yo	bel	9
-ka	fin	9
 pati	di	9
 non	a'y	9
 a	lékòl	9
@@ -8360,7 +8455,6 @@ non	pa	9
 épi	manjé	9
 ki	ra	9
 kè	si	9
-a	bout	9
 kité	sa	9
 moniman	istorik	9
 mété	lod	9
@@ -8444,7 +8538,6 @@ lkp	té	9
 dòt	jenn	9
 a	répiblik	9
 a	koup	9
-si	diré	9
 pa	lè	9
 kisa	ou	9
 di	mwin	9
@@ -8529,6 +8622,7 @@ mwa	oktob	9
 bel	rad	9
 vakabonnajri	kon	9
 pé	vréyé	9
+la	kontel	9
 adan	pwop	9
 pwop	péyi-yo	9
 red	kité	9
@@ -8578,9 +8672,11 @@ bet-long	lan	9
 épi	anchay	9
 sé	met-la	9
 an	lawonn	9
+lire	la	9
 aloski	sé	9
 chimen	an	9
 moman	la	9
+sé	chanté	9
 tianmay	la	9
 ti	chal	9
 liv	tala	9
@@ -8611,6 +8707,7 @@ ti	bébé-a	9
 a	koumansé	9
 kouzen	mwen	9
 lensireksion	lisid	9
+ti	loto	9
 kliké	asi	9
 a	lasanblé	9
 pa	key	9
@@ -8636,7 +8733,6 @@ rézon	douvan	8
 sé	koloni	8
 yo	apwann	8
 fè	chimen'y	8
-deux	ans	8
 wouvè	chimen	8
 sé	misié	8
 té	étidian	8
@@ -8646,6 +8742,7 @@ tjou-patat	adan	8
 kréyol	anlè	8
 té	tibwen	8
 anba	lopsion'y	8
+jis	fè	8
 ka	milité	8
 jik	dèyè	8
 do	bondié	8
@@ -8726,6 +8823,7 @@ jennjan	ki	8
 ek	sel	8
 atè	pou	8
 vini	ankò	8
+sav	fè	8
 tan	siklòn	8
 kandida	a	8
 sa	bèl	8
@@ -8793,6 +8891,7 @@ force	de	8
 ki	wòl	8
 a	les	8
 a	fòs	8
+pou	fin	8
 pawtisipé	adan	8
 é	konpwann	8
 a-y	fè	8
@@ -8833,7 +8932,6 @@ pou	endé	8
 de	le	8
 ki	fouté	8
 oben	gwadloup	8
-fèt	épi	8
 té	ladjé	8
 té	lib	8
 jik	jòdijou	8
@@ -8967,6 +9065,7 @@ a	yonn	8
 menm	tan-la	8
 vyé	lidé	8
 bon	é	8
+té	fin	8
 pou	réfléchi	8
 ka	gadé-y	8
 sa	propre	8
@@ -8984,6 +9083,7 @@ sé	madanm-lan	8
 ki	manzel	8
 lé	manmay	8
 fini	é	8
+jan	ki	8
 jan	gwadloup	8
 anlè	lot	8
 pa	douvan	8
@@ -9101,6 +9201,7 @@ kwè	kè	8
 jan	palé	8
 sèvi	mo	8
 péyi	asi	8
+dè	tout	8
 vwè	kè	8
 toujou	chaché	8
 péyi-lasa	ka	8
@@ -9158,7 +9259,6 @@ gadé	asou	8
 fè	van	8
 ké	viv	8
 la	sòti	8
-moun-tala	sé	8
 kout	tjok	8
 sanblé	sé	8
 a	mò	8
@@ -9192,7 +9292,6 @@ matjé	teks	8
 es	ni	8
 ka	dékatiyé	8
 sitelman	fò	8
-è	siek	8
 lakay	an	8
 kont	lé	8
 toulédé	té	8
@@ -9264,6 +9363,7 @@ tanbou	ki	8
 ki	débatjé	8
 fok	péyé	8
 ni	ti	8
+biten	adan	8
 pou	woté	8
 vré	ni	8
 osi	ka	8
@@ -9332,6 +9432,7 @@ volé	anlè	8
 travay	lopital	8
 yo	goumen	8
 an	majorité	8
+yo	tout-la	8
 mwa	out	8
 vann	an	8
 rat	ka	8
@@ -9348,7 +9449,6 @@ timoun	ki	8
 é	jan	8
 kilti	an	8
 labitid	an	8
-kontinié	konsa	8
 fè	lontan	8
 bel	fanm	8
 lanmonné	pou	8
@@ -9385,6 +9485,7 @@ lè	lannuit	8
 sa	palé'y	8
 avan	té	8
 e	wi	8
+tout	fason	8
 ayen	ba	8
 aprann	matjé	8
 sé	met-a-manyok	8
@@ -9502,6 +9603,7 @@ pa	vo	8
 pi	ho	8
 volonté	a	8
 ou	konnet	8
+piti	ti	8
 emmanuel	macron	8
 nonm	pé	8
 les	meilleurs	8
@@ -9523,7 +9625,6 @@ ou	konnèt	8
 du	français	8
 tè	ka	8
 adan	dòt	8
-travay	a'y	8
 gran	savann	8
 rèspé	pou	8
 é	kouté	8
@@ -9533,7 +9634,9 @@ tanbou	la	8
 paka	tann	8
 enmé	mwen	8
 aw	ka	8
+tout	mové	8
 dépann	dè	8
+mond	an	8
 alé	travay	8
 pé	a	8
 dépi	lé	8
@@ -9643,7 +9746,7 @@ matinitjé	té	8
 rivé	é	8
 ka	èché	8
 jwè	a	8
-bi	a	8
+si	diré	8
 kay	rantré	8
 gouvèlman	a	8
 èvè	ki	8
@@ -9675,7 +9778,6 @@ doubout	dèyè	8
 dont	le	8
 dé	tan	8
 touvé-y	adan	8
-yé	é	8
 sé	nèg-la	8
 ni	de	8
 moun	o	8
@@ -9798,6 +9900,7 @@ nos	enfants	8
 elle	se	8
 ka	tan	8
 il	en	8
+mèt	mwen	8
 poko	janmen	8
 pou	kabéché	8
 tour	de	8
@@ -9875,7 +9978,6 @@ vé	di-w	8
 kabéché	asi	8
 fwa	ankò	8
 de	las	8
-yo	sanfouté	8
 dwet	an	8
 asou	lavi	8
 tousa	man	8
@@ -9918,7 +10020,6 @@ ni	lokazion	8
 nef	san	8
 lé	man	8
 goumen	tou	8
-è	pou	8
 kréyol-la	an	8
 pé	anni	8
 toubannman	ek	8
@@ -9930,7 +10031,6 @@ dè	plis	8
 fanmi	an-mwen	8
 pòté	non'y	8
 an	misié	8
-las	ka	8
 lékonomi	matinik	8
 labitid	wè	8
 doubout	ka	8
@@ -10020,6 +10120,7 @@ vini	apré	7
 doubout	ek	7
 ankò	lè	7
 i	goumen	7
+a	kont	7
 on	jé	7
 ki	konnèt	7
 mwen	sonjé	7
@@ -10030,6 +10131,7 @@ la	pran	7
 sé	pasé	7
 on	pa	7
 pa	pi	7
+tout	pwoblèm	7
 kèsyon	a	7
 la	èvè	7
 la	tini	7
@@ -10040,7 +10142,6 @@ kat	pawol	7
 pli	ki	7
 y	an	7
 lité	pou	7
-dézyèm	tou-la	7
 bokantaj	a	7
 fwansé	fè	7
 lévé	yo	7
@@ -10061,12 +10162,10 @@ mwen	di'w	7
 ké	bat	7
 té	gwo	7
 bel	la	7
-yo	tout	7
 ké	santi	7
 anba	zié	7
 présé	pou	7
 li	asou	7
-jou	pa	7
 tèks	a	7
 péyi	a-w	7
 monté	pa	7
@@ -10094,7 +10193,8 @@ bagay-tala	ka	7
 fouti	kouyonnad	7
 chinwa	ka	7
 kay	ka	7
-ké	sé	7
+la	rèd	7
+sav	ké	7
 an	bèl	7
 asiparé	an	7
 sipòtè	ki	7
@@ -10118,7 +10218,10 @@ bout	chimen	7
 pòté	pou	7
 reggae	music	7
 diw	sé	7
+mwen	bat	7
+vwè	tout	7
 sa	pati	7
+bat	an	7
 vou	an	7
 épi	zòt	7
 méné	nou	7
@@ -10151,6 +10254,7 @@ nou	kouri	7
 sé	san	7
 kiles	ké	7
 maché	kon	7
+lévé	tèt	7
 ja	pwan	7
 mwen	anvi	7
 ki	ba'y	7
@@ -10172,6 +10276,7 @@ de	parler	7
 sitiyasyon	a	7
 konmen	adan	7
 la	mé	7
+on	sans	7
 tout	de	7
 yo	planté	7
 ola	an	7
@@ -10222,6 +10327,7 @@ est	encore	7
 lang	fwansé-a	7
 majorité	a	7
 débatjé	matinik	7
+fèt	épi	7
 pa	lang	7
 sé	milat-la	7
 té	érisi	7
@@ -10306,6 +10412,7 @@ vini	chaché	7
 ki	pabò	7
 kont	neg	7
 an	tonbé	7
+viv	èvè	7
 kréyol	andidan	7
 té	pito	7
 manmay	fok	7
@@ -10511,7 +10618,6 @@ kréyòl	gwadloup	7
 lang	annou	7
 annou	ki	7
 kon	lè	7
-i	am	7
 zo	a	7
 manjé	yo	7
 ès	i	7
@@ -10533,6 +10639,8 @@ kont	é	7
 fenfon	a	7
 lévé	timoun	7
 vin	dè	7
+bay	tout	7
+vin	la	7
 maré	ren	7
 prézidan	larépiblik	7
 an-nou	ki	7
@@ -10572,7 +10680,6 @@ ou	kapab	7
 jounalis	ka	7
 pou	alè	7
 an	woch	7
-komkidiré	i	7
 travay	nou	7
 vwè	ka	7
 atann	mwen	7
@@ -10645,6 +10752,7 @@ konm	sé	7
 prèmié	bagay	7
 sé	dabò-pou-yonn	7
 an	twaziem	7
+moun-tala	sé	7
 sanblé	alantou	7
 ki	pawol	7
 sibi	a	7
@@ -10721,6 +10829,7 @@ fontaine	la	7
 lot	kalté	7
 pli	obidjoul	7
 labitid	alé	7
+an	silans	7
 nou	goumen	7
 lé	vréman	7
 fok	wè	7
@@ -10807,6 +10916,7 @@ de	nouveaux	7
 mèkrèdi	pasé	7
 sé	lapo	7
 manniè	définitiv	7
+tout	son	7
 moun	plézi	7
 gouté	an	7
 an	biten	7
@@ -10842,6 +10952,7 @@ fransé	kon	7
 an	éli	7
 an	sèpan	7
 konnèt	la	7
+la	vin	7
 lè	té	7
 menmsi	pa	7
 ou	manjé	7
@@ -10948,10 +11059,12 @@ léta	fransé	7
 dizenn	lanné	7
 pansé	sé	7
 lendi	bonmaten	7
+kontinié	konsa	7
 ek	jenn	7
 lanmè	épi	7
 koté	lafrans	7
 kous	kouri	7
+kout	tanbou	7
 tanbou	an	7
 an	viékò	7
 selman	éti	7
@@ -11056,12 +11169,14 @@ i	mofwazé	7
 pasé	tan	7
 sé	tianmay-la	7
 rivé	ba	7
+mwen	pas	7
 ké	dakò	7
 anni	mété	7
 sa	a	7
 mwa	oktob-la	7
 an	pliziè	7
 atè	isi	7
+désidé	kriyé	7
 chanté	sa	7
 politik	pa	7
 brè	dlo	7
@@ -11180,8 +11295,10 @@ an	fondok	7
 pa	blan	7
 kwè	ni	7
 chayé	an	7
+penn	é	7
 van	a	7
 kiltirèl	a	7
+travay	a'y	7
 i	enmé	7
 rivé	konpwann	7
 fwansé	kon	7
@@ -11195,15 +11312,14 @@ voyé	mwen	7
 ay	viv	7
 santiman	ki	7
 jen	rivé	7
+konprann	tout	7
 mwen	santi	7
 my	pee	7
 ka	gannyé	7
+a	fos	7
 vous	êtes	7
-tout	mové	7
-mond	an	7
 pour	être	7
 dans	ma	7
-fès	a	7
 menm	ou	7
 par	rapport	7
 jen	fè	7
@@ -11217,7 +11333,6 @@ lenfòmasion	ki	7
 asou	larel	7
 montré	mwen	7
 on	y	7
-ni	afè	7
 zanmi	an-mwen	7
 olyé	ou	7
 pou	déplasé	7
@@ -11237,6 +11352,7 @@ adan	vidéo-a	7
 louis	boutrin	7
 k'ay	an	7
 kon	onlo	7
+sé	pèp	7
 ola	sa	7
 i	konnèt	7
 fwans	lan	7
@@ -11250,7 +11366,6 @@ yo	pa'a	7
 i	di-y	7
 jen	obliyé	7
 tini	déotwa	7
-péyé	enpo	7
 osi	èvè	7
 fò	ankò	7
 militan	ka	7
@@ -11264,7 +11379,6 @@ si	le	7
 quand	je	7
 o	pi	7
 nou	dè	7
-que	se	7
 se	trouve	7
 mové	labitid	7
 ka	priyé	7
@@ -11354,7 +11468,6 @@ fouté	difé	7
 mèt	tout	7
 à	fort-de-france	7
 mwin	ka	7
-ni	yan	7
 pou	krazé	7
 viré	doubout	7
 anlè	bitasion	7
@@ -11382,14 +11495,13 @@ la	promotion	7
 guadeloupe	et	7
 byen	pou	7
 ké	ba-w	7
+yé	é	7
 gwadloupéyen	an	7
 pòté	non	7
-di	maten	7
 tribinal	a-yo	7
 alain	richardson	7
 adan	lafifa	7
 sé	jenn-la	7
-nicolas	sarkozy	7
 fèt	avan	7
 ou	pa'a	7
 a-y	èvè	7
@@ -11410,13 +11522,11 @@ jwé	ba	7
 sal	la	7
 kè	tout	7
 voyé	dé	7
-é	fwansé	7
 mé	annou	7
 sété	pou	7
 jean	vanier	7
 konsidiré	ou	7
 wosé	pri	7
-h	di	7
 sa	konpwann	7
 sé	koulè	7
 enpé	lanné	7
@@ -11438,6 +11548,7 @@ o	pouvwè	7
 sa	tibwen	7
 é	rivé	7
 on	séri	7
+bizwen	plis	7
 an	gadé	7
 siek	la	7
 sizé	si	7
@@ -11531,6 +11642,7 @@ coordination	lawonn	7
 nou	chak-la	7
 jwenn	anlè	7
 sanm	konsidiré	7
+tout	vié	7
 et	i	7
 ka	pren	7
 et	culture	7
@@ -11648,7 +11760,6 @@ zié'y	té	7
 térib	téroris	7
 an	jennjan	7
 lékol	té	7
-c	pa	7
 bondié	ka	7
 drapo	blé-blan-wouj	7
 an	poblenm	7
@@ -11677,6 +11788,7 @@ ek	gadé	7
 kay	trapé	7
 neg	a	7
 lang-lan	pa	7
+yo	sanfouté	7
 pa	jòdi	7
 viré	wè	7
 anni	lévé	7
@@ -11772,8 +11884,8 @@ lésé	sa	7
 ba-w	on	7
 épi	mi	7
 mi	atjelman	7
+las	ka	7
 yo	simen	7
-è	é	7
 gadé-wè	es	7
 dlo	mouchach	7
 mouchach	pou	7
@@ -11781,6 +11893,7 @@ té	dous	7
 kisa	ka	7
 pè	odjis	7
 mò	nan	7
+abò	moto	7
 an	kamo	7
 épi	lanng	7
 man	majlen	7
@@ -11813,7 +11926,6 @@ lèwvwè	on	7
 man	chonjé	7
 té	timanmay	7
 asi	paj	7
-è	édimi	7
 timanmay	ka	7
 ni	viris-la	7
 ou	key	7
@@ -11824,7 +11936,6 @@ trézò	ki	7
 yo	pibliyé	7
 soley	lévé	7
 pou	espitjé	7
-wayom	ini	7
 tanbou	a-w	7
 santral	la	7
 fè	sosiété	7
@@ -11907,7 +12018,6 @@ sent-lisi	ek	6
 la	pwan	6
 pa	ladjé	6
 ladjé	mòdan	6
-a	kont	6
 anpéché	sé	6
 chouk	a	6
 libèté	a	6
@@ -11958,6 +12068,7 @@ yo	brilé	6
 kolé	asou	6
 si'y	té	6
 i	chanté	6
+jou	pa	6
 wouvè	dé	6
 ou	wouvè	6
 konpwann	on	6
@@ -11991,8 +12102,7 @@ sid	la	6
 péyi-a	dépi	6
 lapo	nwè	6
 etsétéra	tan	6
-la	rèd	6
-sav	ké	6
+ké	sé	6
 dépi	tou	6
 lari	fodfrans	6
 douvan	télé-yo	6
@@ -12026,8 +12136,6 @@ vou	sèl	6
 pliss	ki	6
 lan'nwit	kon	6
 viv	on	6
-vwè	tout	6
-bat	an	6
 si	vou	6
 les	amis	6
 koté	asi	6
@@ -12058,7 +12166,6 @@ bèl	kaz	6
 épi	papa-y	6
 misyé	té	6
 té	konmansé	6
-ti	jo	6
 a	zôt	6
 a	konpè	6
 apiyé	asi	6
@@ -12111,7 +12218,6 @@ pi	plis	6
 tini	adan	6
 rété	toujou	6
 bon	sé	6
-première	fois	6
 ont	fait	6
 mwen	palé	6
 la	direction	6
@@ -12120,6 +12226,7 @@ yo	kou	6
 se	dit	6
 pas	du	6
 ké	jan	6
+la	penn	6
 vérité	nou	6
 pé	dékouvè	6
 konpwann	adan	6
@@ -12380,7 +12487,6 @@ gadé	tout	6
 adan	chanté	6
 red	ba	6
 zafè	tout	6
-konstaté	an	6
 pou	chapé	6
 di	atjelman	6
 journée	internationale	6
@@ -12416,7 +12522,6 @@ touvé-y	sé	6
 dwa	a-y	6
 à	se	6
 mal	à	6
-asi	zafè	6
 idantité	a	6
 toupatou	asi	6
 ès	an	6
@@ -12486,14 +12591,12 @@ au	bout	6
 kon'y	té	6
 madanm-lan	té	6
 tout	kò'y	6
-swé	kon	6
 yonn-dé	jou	6
 é	bon	6
 an	pié'y	6
 jiktan	i	6
 madanm-lan	ki	6
 gran	wob	6
-an	si	6
 rimatjé	sé	6
 wol	i	6
 nous	offre	6
@@ -12604,6 +12707,7 @@ kilti	an-nou	6
 a	konsèy	6
 tèt	an-nou	6
 diri	ka	6
+tout	nasyon	6
 ka	kyenn	6
 osi	sé	6
 on	gwadloup	6
@@ -12653,6 +12757,7 @@ yo	avan	6
 lé	patriyot	6
 plis	sa	6
 pié	mango	6
+komkidiré	i	6
 vié	goril	6
 désanm	lan	6
 té	sipòté	6
@@ -12689,6 +12794,7 @@ ka	karé	6
 épi	madanm	6
 nou	admet	6
 pè	é	6
+bèt	a	6
 lasa	sé	6
 hélé	anmwé	6
 biten	pa	6
@@ -13059,6 +13165,7 @@ bizwen	mété	6
 lansé	an	6
 ce	même	6
 sa	led	6
+tout	jenn	6
 real	madrid	6
 madanm-lan	pa	6
 fè	kòlè	6
@@ -13079,7 +13186,6 @@ bizwen	ay	6
 ka	endé	6
 jòdijou	sé	6
 kouman	yo	6
-dé	twa	6
 péchè-a	ka	6
 kandida	pou	6
 sé	média	6
@@ -13110,7 +13216,6 @@ pofité	di	6
 trapé	satis	6
 chwézi	pou	6
 sèten	sé	6
-pété'y	désann	6
 yo	mennen'y	6
 di	ké	6
 i	konstaté	6
@@ -13231,7 +13336,6 @@ fè	yonndé	6
 sav	gran	6
 le	jeudi	6
 an	chofè	6
-zié	pa	6
 ka	floté	6
 vié	lodè	6
 insurrection	du	6
@@ -13310,6 +13414,7 @@ sosiété	nou	6
 maché	kantékant	6
 selman	lè	6
 an	réjion	6
+pli	kout	6
 adan	siel-la	6
 tann	lan	6
 deux	langues	6
@@ -13347,6 +13452,7 @@ adan	montray	6
 osi	asi	6
 a	vyé	6
 sé	kréyòl	6
+tout	valè	6
 au	sud	6
 la	guyane	6
 fait	une	6
@@ -13460,6 +13566,7 @@ blog	la	6
 ta	lé	6
 ni	konfyans	6
 me	suis	6
+an	fèy	6
 doubout	é	6
 ai	déjà	6
 de	partager	6
@@ -13488,7 +13595,7 @@ pa	fouté	6
 pa	flipé	6
 sur	son	6
 fait	de	6
-afè	épi	6
+ni	afè	6
 la	bel	6
 bank	nimérik	6
 sanblé	ek	6
@@ -13541,6 +13648,7 @@ ansyen	prézidan	6
 ou	le	6
 pa	bwè	6
 prêt	à	6
+que	se	6
 corps	et	6
 aw	ké	6
 une	nouvelle	6
@@ -13579,6 +13687,7 @@ adan	klasman	6
 konbatan	a	6
 dèpi	lanné	6
 adan	ékip	6
+dézyèm	tou-la	6
 fè	apré	6
 pa	klè	6
 rété	kouté	6
@@ -13723,6 +13832,7 @@ boom	boom	6
 for	the	6
 konkonm	san	6
 san	grenn	6
+di	maten	6
 a	plastik	6
 ja	monté	6
 a	pwofitasyon	6
@@ -13733,6 +13843,7 @@ sé	politisyen	6
 an	koup	6
 pa'a	rivé	6
 dènyé	koloni	6
+nicolas	sarkozy	6
 pli	kouyon	6
 rété	yo	6
 enmé	nou	6
@@ -13756,8 +13867,10 @@ ni	déotwa	6
 kous	a	6
 bèl	moman	6
 sé	pwoblèm	6
+péyé	enpo	6
 é	mété-y	6
 pa	té'é	6
+é	fwansé	6
 ka	woté	6
 gawoulé	ki	6
 apwann	nou	6
@@ -13770,7 +13883,6 @@ mo	asi	6
 foto-a	ka	6
 djoubaké	adan	6
 défann	lentéré	6
-ba	travay	6
 dé	son	6
 vin	adan	6
 coupe	du	6
@@ -13796,11 +13908,11 @@ pou	tèbè	6
 lanné	lékol	6
 koté	kon	6
 comme	dans	6
+ki	tris	6
 et	moi	6
 ils	se	6
 on	men	6
 et	non	6
-bizwen	plis	6
 ja	touné	6
 est	devenu	6
 dékalé	sé	6
@@ -13903,6 +14015,7 @@ zyé	a-w	6
 foto	an	6
 pran	gou	6
 avan	menm	6
+ka	vinn	6
 ay	té	6
 le	contact	6
 ében	yo	6
@@ -13915,8 +14028,8 @@ lanng	kréyol-la	6
 mérité	a	6
 moun	za	6
 version	française	6
-tout	vié	6
 lè-a	rivé	6
+pou	tèt	6
 ti	fi	6
 asiz	adan	6
 san	fouté	6
@@ -13960,7 +14073,6 @@ za	wè	6
 li	tout	6
 pé	osi	6
 an	chwazi	6
-a'y	ki	6
 nou	manmay	6
 la	victoire	6
 gloriyé	lang	6
@@ -14061,6 +14173,7 @@ ek	falé	6
 oben	té	6
 limiè	ka	6
 ou	poko	6
+c	pa	6
 tanbou	pou	6
 konpè	yo	6
 nou	rayi	6
@@ -14088,10 +14201,10 @@ an	konstaté	6
 ay	lwen	6
 an	ji	6
 on	nivo	6
+ou	mèt	6
 chanjé	konpòwtasyon	6
 menm	ba	6
 bel	anba	6
-yé	misyé	6
 lapli	ek	6
 a	son	6
 vivan	toujou	6
@@ -14253,7 +14366,6 @@ an	zòn	6
 an	ri	6
 kivédi	lang	6
 ti-mons	lan	6
-abò	moto	6
 enben	sé	6
 san	sé	6
 bliyé	non	6
@@ -14279,6 +14391,7 @@ yé	ek	6
 kouté	radio	6
 douboutt	la	6
 ta'w	la	6
+pi	grav	6
 wè	bon	6
 vansé	anlè	6
 ni	chimen	6
@@ -14427,7 +14540,6 @@ lékol	sigondè	5
 pwan	kontak	5
 anlè	kanpis	5
 natif-natal	li	5
-a	tout	5
 an	atitid	5
 chaché	mété	5
 abitié	épi	5
@@ -14455,6 +14567,7 @@ et	cultures	5
 kréyol-la	pou	5
 douvan	ankò	5
 ka	kriyéy	5
+ou	kont	5
 jwé	sa	5
 é	konsèy	5
 tousèl	ki	5
@@ -14558,6 +14671,7 @@ sé	chinwa-a	5
 manniè	di	5
 nwè	ek	5
 annou	chonjé	5
+foss	pou	5
 la	pè	5
 lavi	la	5
 ni	dè	5
@@ -14581,6 +14695,7 @@ ou	lévé	5
 mwen	kay	5
 vréyé'y	alé	5
 kolé	an	5
+an	chivé	5
 gro	bri	5
 wouvè	ba	5
 san	é	5
@@ -14641,10 +14756,10 @@ kontinié	di	5
 épi	gadé	5
 ni	fos	5
 ka	jiré	5
+e	menm	5
 vini	jwenn	5
 an	chantè	5
 sav	kouman	5
-aurait	pu	5
 droit	à	5
 partir	de	5
 pòkò	ni	5
@@ -14668,12 +14783,12 @@ dèmen	nou	5
 pwòp	lang	5
 a	pwan	5
 pa	ban	5
+première	fois	5
 membres	du	5
 fait	le	5
 en	effet	5
 artis	ki	5
 konpwann	ayen	5
-en	mode	5
 moun-lasa	pa	5
 èspliké	mwen	5
 une	personne	5
@@ -14950,6 +15065,7 @@ fo	ké	5
 bri	an	5
 jik	vini	5
 mé	kanmenm	5
+konstaté	an	5
 an	laj	5
 ni	konba	5
 ti-kochon	ka	5
@@ -14986,6 +15102,7 @@ ka	a	5
 un	état	5
 gadévwè	si	5
 de	travail	5
+asi	zafè	5
 on	kèsyon	5
 kimoun	an	5
 menm	moun-la	5
@@ -15113,6 +15230,7 @@ konprann	bien	5
 madanm	té	5
 tou	yonn	5
 an	léta-tala	5
+an	si	5
 on	glas	5
 la	faculté	5
 une	traduction	5
@@ -15217,7 +15335,6 @@ i	piti	5
 épi	fòs	5
 vlé	mèt	5
 mèt	tèt	5
-é	liv	5
 kapital	a	5
 oti	i	5
 sé	étidyan-la	5
@@ -15261,6 +15378,7 @@ kay	èvè	5
 èvè	prézidan	5
 ké	sanblé	5
 zòt	dè	5
+zòt	tout	5
 chouval	a	5
 kenbé	on	5
 é	pawòl	5
@@ -15389,6 +15507,7 @@ doktè	di	5
 ni	poblem	5
 mandé	péyé	5
 man	dakò	5
+minit	apré	5
 en	frans	5
 matinik	trapé	5
 épi	lidé'y	5
@@ -15537,6 +15656,7 @@ ka	tombé	5
 é	toutt	5
 fodré	ou	5
 y	fè	5
+yonn	ou	5
 là	ou	5
 adan	siel	5
 bernabé	a	5
@@ -15544,7 +15664,6 @@ li	kivédi	5
 yo	sel	5
 fè	mannev	5
 matjé	lang	5
-kivédi	nan	5
 ki	fondasé	5
 matjè	kon	5
 an	grafi	5
@@ -15768,7 +15887,6 @@ min	ou	5
 kom	an	5
 doubout	anlè	5
 on	paké	5
-la	vin	5
 dlo	i	5
 bò	lari	5
 dan	le	5
@@ -15838,6 +15956,7 @@ pasaj	a	5
 té	prèmyé	5
 téka	palé	5
 blan-la	té	5
+bon	santé	5
 biten	konsa	5
 ti	krazi	5
 pas	fò	5
@@ -15894,6 +16013,7 @@ lapli	té	5
 fè	grev	5
 fanm-lan	pa	5
 péyé	dlo	5
+dé	twa	5
 manjé	manjé	5
 manjé	péyi-a	5
 vini	osi	5
@@ -15940,6 +16060,7 @@ mwen	onlo	5
 édé	mwen	5
 an	frijidè	5
 pé	chwézi	5
+pété'y	désann	5
 an	péyi'y	5
 sa	padavwa	5
 an	mis	5
@@ -15951,7 +16072,6 @@ an	komen	5
 labitid	an-nou	5
 an	ti-bébé	5
 moustik	ka	5
-an	pay	5
 zot	chonjé	5
 maré	mwen	5
 an	med	5
@@ -15992,7 +16112,6 @@ brennen	an	5
 i	bwè	5
 bizwen	di	5
 lé	wè'y	5
-ti	kochon	5
 koté	ofanswa	5
 ka	ékri-a	5
 ka	sali	5
@@ -16113,6 +16232,7 @@ gran	papa	5
 chofè	loto	5
 pou	mouyé	5
 fè	ankò	5
+zié	pa	5
 di	lavérité	5
 le	combat	5
 rimet	li	5
@@ -16220,7 +16340,6 @@ qui	vont	5
 annou	espéré	5
 éleksion	mè	5
 voté	kont	5
-toupatou	sé	5
 pou	ranmasé	5
 publié	aux	5
 une	manière	5
@@ -16250,7 +16369,6 @@ sab	ki	5
 adan	réjion	5
 an	diférans	5
 de	lire	5
-airbus	a	5
 est	facile	5
 la	voie	5
 a	participé	5
@@ -16382,7 +16500,6 @@ on	lizin	5
 a	jé	5
 an	nanm	5
 yo	chèché	5
-mwenn	ti	5
 ka	partisipé	5
 politik	matinitjé	5
 mété	yonn	5
@@ -16427,6 +16544,7 @@ on	woman	5
 é	lèspri	5
 asi	lang	5
 pou	onlo	5
+vlé	tann	5
 enmé	é	5
 lèwvwè	sé	5
 pawol	é	5
@@ -16492,11 +16610,13 @@ an	zimaj	5
 sèvi	lenfòmasion	5
 aprann	fè	5
 kiltirel	ek	5
+y	pa	5
 o	pipiri	5
 matière	de	5
 ki	gen	5
 kè	zot	5
 gran	moman	5
+afè	épi	5
 nimérik	patrimwàn	5
 ni	zouti	5
 ek	kiltirel	5
@@ -16593,11 +16713,11 @@ tiré	on	5
 pyé	bwa	5
 a	plus	5
 mon	peuple	5
-une	belle	5
 ton	esprit	5
 fond	de	5
 klé	a	5
 demande	à	5
+on	mond	5
 plito	ki	5
 swen	an	5
 depuis	le	5
@@ -16610,7 +16730,6 @@ nous	ont	5
 île	aux	5
 konba	la	5
 fè	fanmi	5
-ans	après	5
 a	point	5
 la	misié	5
 sanblé	la	5
@@ -16849,7 +16968,6 @@ fè	kont	5
 té	mélé	5
 sé	militan-la	5
 li	asi	5
-tan-la	ka	5
 vakans	a	5
 mayo	a	5
 osi	yo	5
@@ -16914,6 +17032,7 @@ pal	ba	5
 yo	té'é	5
 ka	kryé	5
 zot	on	5
+pat	a	5
 kivédi	si	5
 pa	mannyé	5
 a-y	yo	5
@@ -16966,6 +17085,7 @@ lespri	sé	5
 éwo	an	5
 bidim	loto	5
 ils	veulent	5
+ba	travay	5
 osi	a	5
 moun	nwè	5
 a-y	osi	5
@@ -16993,7 +17113,6 @@ on	byen	5
 éséyé	fè'y	5
 lanmen	sé	5
 anni	tonbé	5
-ki	tris	5
 la	crise	5
 il	te	5
 as	pas	5
@@ -17004,7 +17123,6 @@ rivé	ka	5
 adan	dlo	5
 ni	ou	5
 pas	sur	5
-un	atout	5
 kon	blan	5
 nécessité	de	5
 anlè	montray	5
@@ -17044,6 +17162,7 @@ rété	fidèl	5
 kisa	nou	5
 dot	manmay	5
 gratiant	pa	5
+nou	kont	5
 douz	lanné	5
 té	vidjò	5
 épi	manman'y	5
@@ -17134,8 +17253,6 @@ sé	latilié-a	5
 sé	aviyon	5
 sé	lantoupriz-la	5
 trapé	lajan	5
-fè	mwens	5
-mwens	bri	5
 simié	fè	5
 un	coup	5
 mété-w	an	5
@@ -17188,8 +17305,8 @@ gloriyé	kréyol	5
 nan	tan	5
 ba	sèten	5
 politik	kisasayésa	5
+pèson	pa	5
 mannyè	an	5
-pou	tèt	5
 lékòl	la	5
 est	comme	5
 plis	é	5
@@ -17210,6 +17327,7 @@ lévé	anrajé	5
 répond	à	5
 comme	si	5
 mouvman	ka	5
+solid	kon	5
 quand	même	5
 é	mizik	5
 pas	les	5
@@ -17270,6 +17388,7 @@ ant	sa	5
 an	dékouvè	5
 sé	afòs	5
 réyalité	an	5
+a'y	ki	5
 sé	lilèt	5
 pè	sa	5
 ek	bokanté	5
@@ -17353,10 +17472,11 @@ lè	mim	5
 lavi	fè	5
 avè	dòt	5
 mwen	avè	5
-sound	la	5
+grav	ki	5
 ké	di'w	5
 sound	an	5
 menm	la	5
+vin	jwenn	5
 é	balan	5
 balan	yo	5
 konba	kont	5
@@ -17542,10 +17662,9 @@ toute	sa	5
 two	vié	5
 abo	la	5
 comme	il	5
+yé	misyé	5
 dé	sa	5
 ya	yé	5
-menn	si	5
-byen	dé	5
 véyé	sé	5
 an	batiman	5
 koté	tout	5
@@ -17563,7 +17682,6 @@ ni	apenn	5
 la	colonie	5
 à	voir	5
 del	caribe	5
-politique	et	5
 sé	alantou	5
 té	rifizé	5
 goumen	adan	5
@@ -17578,7 +17696,6 @@ gwoka	sé	5
 ké	menné	5
 jénérasyon	ka	5
 di	gran	5
-sèpan	boa	5
 ou	téka	5
 lé	ékriven	5
 roots	editions	5
@@ -17914,6 +18031,7 @@ kréyol	ké	5
 gwo	ladjè	5
 kivédi	ba	5
 zesklav	la	5
+man	touvé	5
 lajol	dikos	5
 komin	maren	5
 dominik	coco	5
@@ -18045,7 +18163,6 @@ dam	léona	5
 mas	anlè	5
 viris-la	pa	5
 patisipé	adan	5
-le	chant	5
 madanm-li	a	5
 anlè	lawout-la	5
 an	twazienm	5
@@ -18096,6 +18213,7 @@ an-nou	ègzaminé	5
 lasanblé-la	pé	5
 poukwa	fò-nou	5
 ègzanp	pou	5
+mandé-nou	fè	5
 an	réinyon	5
 ansòt	pou	5
 é	poukwa	5
@@ -18149,7 +18267,6 @@ ce	moment	5
 du	siècle	5
 la	peur	5
 man	fifi	5
-ce	roman	5
 sé	plas	5
 historia	de	5
 is	a	5
@@ -18250,7 +18367,6 @@ swa	ou	4
 ékip	la	4
 ay	pozé	4
 koté	prési	4
-ou	kont	4
 pyé	adan	4
 si	zôt	4
 gadé	vidéo	4
@@ -18334,6 +18450,7 @@ adan	bouch	4
 sa	dan	4
 bon	mitan	4
 pas	san	4
+jwenn	tout	4
 asou	kò	4
 pòté	mwen	4
 avan	jou	4
@@ -18362,7 +18479,7 @@ le	mieux	4
 sé	apenn	4
 mwen	plis	4
 ki	nouvel	4
-moman	apré	4
+é	fin	4
 padavwa	ni	4
 pié	an	4
 sizé	la	4
@@ -18371,7 +18488,6 @@ vin	owa	4
 koumansé	palé	4
 fè	ahak	4
 di	siklòn	4
-ka	viv	4
 santi	tout	4
 aprann	lékol	4
 bel	fraz	4
@@ -18390,13 +18506,15 @@ manjé	adan	4
 ek	zendien	4
 lé	pagna	4
 poté	an	4
-foss	pou	4
+an	mannèv	4
 pété	pou	4
 an	soti	4
+viv	lontan	4
+mèg	kon	4
+pot	a	4
 fè	sou	4
 a	jounou	4
 le	mercredi	4
-dé	bi	4
 konprann	kréyol	4
 jwé	kon	4
 ka	glisé	4
@@ -18437,6 +18555,7 @@ sèl	an	4
 an	kouté	4
 ka	mwen	4
 on	rèv	4
+tout	pòt	4
 vou	sé	4
 mwen	pani	4
 jou	anlè	4
@@ -18485,7 +18604,6 @@ chanté	kokiyoko	4
 kochon	blan	4
 blan	a	4
 kat	pat	4
-kochon	ka	4
 ni	bouden	4
 chak	kochon	4
 ni	sanmdi	4
@@ -18494,9 +18612,9 @@ pi	ta	4
 mal	i	4
 à	propos	4
 tèt	ou	4
+chenn	la	4
 wotè	pou	4
 ay	pa	4
-e	menm	4
 lontan	mwen	4
 adan	bra	4
 bra	mwen	4
@@ -18555,11 +18673,10 @@ ka	soutyenn	4
 ko	sav	4
 mè	bon	4
 star	jee	4
-fois	de	4
 pour	mon	4
 ai	des	4
-an	k	4
 an	fin	4
+en	mode	4
 pétèt	yo	4
 pour	ses	4
 an	chanjé	4
@@ -18568,7 +18685,6 @@ sizé	an	4
 apwann	konnèt	4
 jouné	la	4
 on	lantou	4
-mannyè	yo	4
 lé	koloni	4
 ni	poblèm	4
 oswa	adan	4
@@ -18593,7 +18709,6 @@ ni	larantré	4
 ba	lajénes	4
 pandan	tan	4
 péyé	plis	4
-ki	lésans	4
 tan-an	ka	4
 tan	ankò	4
 jòn	la	4
@@ -18660,13 +18775,13 @@ lanmen	dèyè	4
 nen	yo	4
 yo	anchouké	4
 sistenm	fwansé	4
-défann	laliwonday	4
 dépi	mitan	4
 kon	gilbert	4
 max	rippon	4
 ki	chanjé	4
 twazè'd	maten	4
 ped	la	4
+la	lin	4
 kontinié	vréyé	4
 jounen	travay	4
 an	maren	4
@@ -18762,7 +18877,6 @@ lari	a	4
 fè	labonm	4
 koulé	pa	4
 opozé	dot	4
-celle	du	4
 à	parler	4
 sort	de	4
 jòdijou	ka	4
@@ -19111,7 +19225,6 @@ jik	moun	4
 an	enfimiez	4
 enfimiez	ki	4
 asiré	moun	4
-lésans	ki	4
 klè	ki	4
 zot	trapé	4
 janmen	sòti	4
@@ -19331,11 +19444,11 @@ kafé	a	4
 gran	fòs	4
 dyab	ka	4
 tèt	ansanm	4
-an	fyè	4
 annou	li	4
 fè	pou-y	4
 rivé	viv	4
 viv	lib	4
+é	liv	4
 i	ba-y	4
 on	wòl	4
 wòl	adan	4
@@ -19444,7 +19557,6 @@ a-y	oben	4
 vin	èvè	4
 a	lari	4
 pliziè	parti	4
-an	tò	4
 gwadloup	vini	4
 pòl	pa	4
 konpwann	fò	4
@@ -19526,6 +19638,7 @@ pres	lanmwatié	4
 sé	machandiz	4
 timoun	a'y	4
 a'y	pou	4
+pa	minm	4
 manjé	bon	4
 bagay-la	pa	4
 an	révé	4
@@ -19732,7 +19845,6 @@ la	riviè	4
 i	mangé	4
 dé	foi	4
 ka	songé	4
-yonn	ou	4
 an	gouan	4
 lè	ki	4
 zibié	ka	4
@@ -19749,6 +19861,7 @@ sé	fabilis	4
 chak	adan	4
 tijé	déwò	4
 adan	fab	4
+kivédi	nan	4
 yonn-dé	ti	4
 lanng	fwansé	4
 tou	anlè	4
@@ -19912,12 +20025,12 @@ simenm	pasé	4
 achté	loto	4
 loto	nef	4
 douvan	i	4
+alé	péché	4
 man	paré	4
 a	dwet	4
 ké	asiz	4
 konfians	an	4
 ké	red	4
-an	bi	4
 bon	kréyol	4
 an	tjek	4
 tjek	pa	4
@@ -20361,6 +20474,7 @@ tranpaj	la	4
 manmay	yo	4
 nou	moli	4
 yol	ka	4
+ti	kochon	4
 tjéri	dol	4
 moun-an	pa	4
 marche	pour	4
@@ -20404,7 +20518,6 @@ latit	jik	4
 disparet	té	4
 wouzé	ta'w	4
 matjé'y	ek	4
-les	autorités	4
 péyi-nou	a	4
 appel	à	4
 ki	responsab	4
@@ -20527,6 +20640,7 @@ moun	paré	4
 pou	garé	4
 lisid	ek	4
 alé	ayè	4
+epi	tout	4
 kalté	lodè	4
 vini	pizanpi	4
 ka	kom	4
@@ -20552,11 +20666,9 @@ kon	let	4
 toujou	yo	4
 latjé	douvan	4
 dépi	lafen	4
-i	résisité	4
 ki	lapli	4
 chofè	ki	4
 wawet	anfanngas	4
-bè	an	4
 wouklé	an	4
 andré	aliker	4
 artik	asou	4
@@ -20704,6 +20816,7 @@ ti	fi-a	4
 de	raphaël	4
 à	savoir	4
 mè-a	pa	4
+toupatou	sé	4
 viann	lan	4
 du	site	4
 précis	de	4
@@ -20753,6 +20866,7 @@ la	tribune	4
 tribune	des	4
 et	vous	4
 des	articles	4
+airbus	a	4
 ne	comprend	4
 météorologiques	en	4
 plus	important	4
@@ -20896,6 +21010,7 @@ licence	de	4
 sa	grande	4
 yon	gwan	4
 mété'y	asou	4
+bon	vwayaj	4
 une	semaine	4
 à	vous	4
 tu	le	4
@@ -20923,7 +21038,6 @@ rézon	pas	4
 chak	ti	4
 ou	chèché	4
 toujou	byen	4
-an	pèd	4
 san	kè	4
 ki	dlo	4
 la	bèl	4
@@ -20945,7 +21059,6 @@ on	lèspwi	4
 lenj	é	4
 lajan	san	4
 travayè	an	4
-ka	kontrol	4
 pé	sanblé	4
 kon	toutmoun	4
 association	de	4
@@ -21045,6 +21158,7 @@ péké	pé	4
 ki	rantré	4
 mwen	néyé	4
 lè	milat	4
+adan	mond	4
 ma	mère	4
 que	mes	4
 aussi	la	4
@@ -21102,7 +21216,6 @@ lékol	oben	4
 fet	menm	4
 latilié	pou	4
 vé	vwè	4
-y	pa	4
 anpéché	mwen	4
 bétiz	asi	4
 yè	o	4
@@ -21117,7 +21230,6 @@ timoun	lékòl	4
 ké	mété'y	4
 zò	té	4
 et	yo	4
-é	mé	4
 patrimwàn	kiltirel	4
 sistem	lenfòmasion	4
 lenfòmasion	jéyografik	4
@@ -21149,7 +21261,6 @@ koté-a	éti	4
 ba	konsey	4
 jiskont	pou	4
 ek	libèté	4
-kwa	si	4
 vini	gadé	4
 bagay	adan	4
 wouchach	an	4
@@ -21202,6 +21313,7 @@ ka	zòt	4
 péyi	sé	4
 mété	bel	4
 adan	lasanblé	4
+plent	pou	4
 pou	anni	4
 ka	véyé'w	4
 nou	wont	4
@@ -21254,10 +21366,12 @@ si	ki	4
 a	le	4
 le	bien	4
 tan	dè	4
+une	belle	4
 ils	nous	4
 prèmyé	an	4
 dè	di	4
 on	kouyon	4
+lè	mond	4
 on	bal	4
 a	écrit	4
 pas	besoin	4
@@ -21639,6 +21753,7 @@ fwa	sa	4
 an	aljéri	4
 asi	péyi	4
 èvè	léta	4
+tan-la	ka	4
 vyé	mès	4
 alò	fò	4
 pannan	vakans	4
@@ -21887,7 +22002,6 @@ obliyé	sé	4
 lé	kat	4
 en	kréyol	4
 konté	plis	4
-a	fèt	4
 pwan	suit	4
 fwa	kon	4
 sové	vi	4
@@ -21928,6 +22042,7 @@ mandé	kò'w	4
 lanné	sa	4
 on	akò	4
 pé	konsidéré	4
+dé	minit	4
 an	out	4
 kont	lavi	4
 kontinyé	travay	4
@@ -21966,10 +22081,12 @@ yo	jalou	4
 la	kriz	4
 ni	le	4
 ne	pense	4
+o	mond	4
 pas	des	4
 tu	nous	4
 bord	de	4
 si	elle	4
+un	atout	4
 en	ai	4
 en	février	4
 ce	jour	4
@@ -21978,7 +22095,6 @@ les	peuples	4
 nich-twel	nou	4
 latè	tou	4
 nouvel	asou	4
-artik	an	4
 an	arab	4
 dot	pep	4
 ka	rimèsié	4
@@ -22185,6 +22301,8 @@ simen	anlè	4
 ti	pwason	4
 anlè	tousa	4
 dola	pou	4
+fè	mwens	4
+mwens	bri	4
 aviyon	an	4
 pou	démaré	4
 pé	chayé	4
@@ -22277,7 +22395,6 @@ de	trois	4
 lors	des	4
 sé	mésié-tala	4
 lékol	yo	4
-è	ladjè	4
 les	familles	4
 certain	nombre	4
 la	fonction	4
@@ -22293,7 +22410,6 @@ monté	pi	4
 kréyol	lè	4
 kont	adan	4
 jou	oswè-tala	4
-pèson	pa	4
 tôti	ki	4
 de	page	4
 pas	créole	4
@@ -22324,7 +22440,6 @@ y	aura	4
 dé	bout	4
 trump	pa	4
 pas	être	4
-solid	kon	4
 mété	ayen	4
 dwet	douvan'y	4
 le	soutien	4
@@ -22477,7 +22592,6 @@ fè	péyi-a	4
 pòté	ba'w	4
 ni	mémwè	4
 aloski	ni	4
-an	pov	4
 lékol	fwansé	4
 mo	ek	4
 blijé	rimatjé	4
@@ -22559,6 +22673,7 @@ ka	toasté	4
 jwenn	avè	4
 étidyan	a	4
 on	sound	4
+sound	la	4
 system	é	4
 chak	té	4
 ki	maché	4
@@ -22586,7 +22701,6 @@ tou	éti	4
 tala	asou	4
 sèten	militan	4
 istwa	an	4
-swé	bon	4
 du	bien	4
 sèten	politisien	4
 le	projet	4
@@ -22602,7 +22716,6 @@ déviré	adan	4
 nou	o	4
 la	lettre	4
 amadou	hampâté	4
-hampâté	bâ	4
 au	service	4
 i	travèsé	4
 épi	lespwa	4
@@ -22681,10 +22794,8 @@ o	ka	4
 sé	panyol-la	4
 vini	mandé	4
 sa	mérité	4
-ans	de	4
 le	nombre	4
 men	an-nou	4
-pò	a	4
 fè	blan	4
 tout	pwoblem	4
 ou	touché	4
@@ -22699,6 +22810,7 @@ adan	loséan	4
 débatjé	anlè	4
 pawol	nan	4
 ni	rilasion	4
+pa	bout	4
 afritjen	oben	4
 monté	asou	4
 zafè	sargas-la	4
@@ -22813,6 +22925,7 @@ man	bout	4
 bout	la	4
 sel	neg	4
 lotel	la	4
+konèt	vespa	4
 déziem	la	4
 sa	jis	4
 dot	ni	4
@@ -22890,10 +23003,8 @@ fè	man	4
 za	press	4
 se	doit	4
 de	reconnaître	4
-mandé	bibi	4
-bibi	rété	4
-toujou	vou	4
-misyé	bobo	4
+menn	si	4
+byen	dé	4
 mwen	tout	4
 pani	tan	4
 vréman	nésésè	4
@@ -22915,7 +23026,6 @@ zesklav	té	4
 sé	zesklav-la	4
 neg	travay	4
 chimen	kochi	4
-èm	siek	4
 sé	lang-lan	4
 épi	lèrestan	4
 kréyol-la	té	4
@@ -22925,6 +23035,7 @@ lang	afritjen	4
 li	va	4
 té	en	4
 la	condition	4
+politique	et	4
 titjap	ek	4
 konsa	pa	4
 labé	barboten	4
@@ -23147,7 +23258,6 @@ té	labé	4
 tout	au	4
 en	une	4
 man	augustin	4
-avec	ce	4
 ti	kaka-la	4
 apa	pou	4
 two	pré	4
@@ -23217,6 +23327,7 @@ rifizé	ki	4
 lanméri	fodfrans	4
 travers	les	4
 est	possible	4
+sòt	dè	4
 rété	o	4
 a	sentàn	4
 vlé	aprann	4
@@ -23229,8 +23340,6 @@ di	manman	4
 mwen	mwen	4
 les	images	4
 mapipi	adan	4
-asou	pò	4
-pò	fodfwans	4
 nan	poch-li	4
 fè	lajol	4
 kouri	genyen	4
@@ -23462,7 +23571,6 @@ désidé	blotjé	4
 forum	vous	4
 gangann	nou	4
 kann	pou	4
-martinique	la	4
 manniè	anba	4
 sé	dirijan	4
 adjilbè	épi	4
@@ -23667,6 +23775,7 @@ twa	gran	4
 kalé	djel-li	4
 djè	pres	4
 apiyé	kò'y	4
+si'w	lé	4
 la	pou'w	4
 mizi	ou	4
 ka	pisé	4
@@ -23816,7 +23925,6 @@ gwo	konba	4
 abo	ou	4
 foulbak	épi	4
 ce	soit	4
-soley-la	té	4
 mété	pli	4
 gerec	té	4
 rikrité	pwofésè	4
@@ -24024,6 +24132,7 @@ fo	la	4
 sé	jézi	4
 sè	ka	4
 an	makak	4
+ka	tout	4
 pé	anpéché-nou	4
 kè	noutout	4
 sèwvis	an	4
@@ -24070,7 +24179,6 @@ konsolidé	fwa	4
 é	fò-nou	4
 pou	fè-nou	4
 imité	jéova	4
-è	laprémidi	4
 li	dikté-a	4
 misié	mandibèlè	4
 moun	aprésié	4
@@ -24108,6 +24216,7 @@ mari	a-w	4
 mèt-zòt	dakò	4
 désizyon	a	4
 glass	la	4
+fè	y	4
 an	sézon	4
 jòdi	ou	4
 lé	baw	4
@@ -24144,11 +24253,6 @@ an	sité	4
 dansé	bèlè	4
 té	krazé	4
 raoul	grivalliers	4
-f	gm	4
-a	dm	4
-dm	bb	4
-bb	c	4
-f	a	4
 an	troupo	4
 fè	jes	4
 ko	zot	4
@@ -24175,12 +24279,14 @@ jenn	karlos	4
 du	prix	4
 un	roman	4
 son	nom	4
+ce	roman	4
 fonmi	fol	4
 de	littérature	4
 chen	ki	4
 palais	national	4
 la	dictature	4
 de	chemin	4
+le	chant	4
 sé	laboratwa-la	4
 pwason-an	té	4
 politik	langistik	4
@@ -24281,7 +24387,6 @@ konnet	kréyol	3
 poveb	kréyol	3
 vini	lamenm	3
 fransé	mété	3
-tout	kalité	3
 pèp	matinik	3
 lapenn	pou	3
 épi	tè	3
@@ -24314,7 +24419,6 @@ tan	rantré	3
 kanmarad-li	a	3
 bon	grenn	3
 ba	pep-la	3
-plis	ki	3
 ki	kat	3
 woulé	ansanm	3
 konyen	lespri-mwen	3
@@ -24327,7 +24431,6 @@ fonétik	la	3
 fakilté	dé	3
 dé	let	3
 dé	gwadloupéyen	3
-ka	kriyé	3
 mè	endépandantis	3
 kontel	jik	3
 ki	pwen	3
@@ -24360,6 +24463,7 @@ mizi	sé	3
 ayiti	pou	3
 an	guiyàn	3
 balan	adan	3
+téwowis	é	3
 anpéché	lot	3
 pozé	on	3
 zôt	pé	3
@@ -24378,7 +24482,6 @@ lendépandans	yo	3
 dis	mil	3
 gouvèlman	ki	3
 adan	mannèv	3
-pa	tout	3
 a	solidarité	3
 sé	pwojé	3
 sèvi	ba	3
@@ -24463,6 +24566,7 @@ kéchoy	pou	3
 lalin	an	3
 pwan	lè	3
 pou	ritouné	3
+tout	plim-li	3
 mwen	dòmi	3
 wè	bien	3
 mwen	tranblé	3
@@ -24500,7 +24604,6 @@ ké	ten	3
 ké	san	3
 en	love	3
 san	modération	3
-ni	clé	3
 baw	en	3
 sé	officiel	3
 officiel	en	3
@@ -24518,13 +24621,13 @@ vin	tonbé	3
 mwen	kanmenm	3
 an	ped	3
 konnet	mwen	3
+moman	apré	3
 fin	péyé	3
 an	magazen-la	3
 on	souri	3
 wout	an	3
 an	pangnol	3
 entérésan	é	3
-tout	ti	3
 ni	dizan	3
 dé	sè	3
 ni	kek	3
@@ -24552,25 +24655,28 @@ ek	chivé	3
 moun	silon	3
 trinidad	ki	3
 dépi	etsétéra	3
-an	mannèv	3
 la	où	3
+sav	kay	3
 a	drogba	3
 cho	cho	3
 mé	douvan	3
 ka	léssé	3
 boss	la	3
+a	pèd	3
+en	vinn	3
+vinn	fè	3
 sé	gwada	3
 gwada	an	3
 alow	ki	3
-viv	lontan	3
 kartié	la	3
 léssé	mwen	3
-mèg	kon	3
-pot	a	3
 fuck	lé	3
 gwada	ka	3
 hop	la	3
+a	fout	3
+fout	an	3
 tchou	pou	3
+ké	finn	3
 en	kè	3
 pa	jin	3
 a	ped	3
@@ -24642,17 +24748,16 @@ up	ba	3
 enpé	ka	3
 bèl	bout	3
 system	an	3
-admiral	t	3
 touvé'y	ka	3
 é	aprésa	3
 manké	mwen	3
 ki	lò	3
 sé	inki	3
 dè	tou	3
-tout	pòt	3
 ka	défonsé	3
 fwa	kè	3
 konté	lè	3
+tout	bitin	3
 cliquez	sur	3
 gadé	pi	3
 on	mètamannyòk	3
@@ -24689,7 +24794,6 @@ an	fèt	3
 fèt	on	3
 men	dòt	3
 asi	kontinan	3
-apwé	yo	3
 jan	a-y	3
 lodè	an	3
 vwè	lè	3
@@ -24701,7 +24805,6 @@ wòch	yo	3
 tisè	an	3
 ka	woumèt	3
 papan	nou	3
-ka	vin	3
 dèyè	té	3
 non	lasa	3
 té	janbé	3
@@ -24735,8 +24838,10 @@ bwa	sèk	3
 anfas	a	3
 on	kochon	3
 kochon	a	3
+se	té	3
 paré	tout	3
 ren	a	3
+kochon	ka	3
 vou	osi	3
 a'w	ka	3
 gran	pwet-la	3
@@ -24744,11 +24849,10 @@ a	pep-la	3
 an	konsey	3
 pou	désidé	3
 yo	dé	3
-lévé	tèt	3
 ou	woy	3
 konyen	la	3
 ralé	sé	3
-chenn	la	3
+sé	chenn	3
 sof	an	3
 jojo	pa	3
 pou	chwazi	3
@@ -24843,7 +24947,7 @@ ké	byen	3
 byen	vwè	3
 wi	sa	3
 zòt	si	3
-lanné	lasa	3
+fois	de	3
 en	gros	3
 jénès	an	3
 mais	c	3
@@ -24855,6 +24959,7 @@ vin	douvan	3
 an	foukan	3
 yo	tèlman	3
 manman	toujou	3
+fin	an	3
 si	pèp	3
 tout	prix	3
 hasta	la	3
@@ -24865,6 +24970,7 @@ téritwa	a	3
 a	bawbad	3
 asi	koté	3
 nou	a-y	3
+mannyè	yo	3
 té	tan	3
 é	sosyal	3
 on	kontré	3
@@ -24899,6 +25005,7 @@ gouvelman	di	3
 lentansion	moli	3
 pofitasion	ka	3
 sav	manniè	3
+ki	lésans	3
 chanjman	adan	3
 asou	kalté	3
 fok	tiré	3
@@ -24987,6 +25094,7 @@ lang-la	ki	3
 pé	parèt	3
 marc	pulvar	3
 du	travail	3
+défann	laliwonday	3
 pa	apiyé	3
 nan	lépok-la	3
 lanné	travay	3
@@ -25146,7 +25254,6 @@ profond	de	3
 ai	appris	3
 appris	à	3
 parler	en	3
-trois	ans	3
 le	sort	3
 mais	ça	3
 rien	au	3
@@ -25302,6 +25409,7 @@ international	des	3
 lèwvwè	nou	3
 pa	annéta	3
 boulvès	a	3
+tout	bèt	3
 boulvès	é	3
 janmé	tann	3
 lavalas	ka	3
@@ -25477,6 +25585,7 @@ aux	autres	3
 janmé	pwan	3
 grèk	a	3
 tout	lidé	3
+fann	an	3
 la	difficulté	3
 de	pensée	3
 la	naissance	3
@@ -25613,6 +25722,7 @@ pilot	la	3
 kom	dabitid	3
 lévé	zié	3
 mandé'y	si	3
+lésans	ki	3
 mouch	rouj	3
 prochenn	nou	3
 pa	rann	3
@@ -25665,7 +25775,6 @@ des	contes	3
 les	premières	3
 premières	lignes	3
 créole	si	3
-pu	être	3
 créole	des	3
 non	seulement	3
 son	ouvrage	3
@@ -25785,7 +25894,6 @@ tou	bonnman	3
 dé	zè	3
 an	kouto	3
 lé	paran-y	3
-kè	ité	3
 mal	bouden	3
 an	baboul	3
 kawolin	téka	3
@@ -25798,7 +25906,6 @@ téka	chanté	3
 montré-y	kè	3
 tanbou	woulé	3
 telman	bel	3
-ité	di	3
 kanmarad	li	3
 alè	tala	3
 bagay	épi	3
@@ -25852,7 +25959,6 @@ ki	kantité	3
 pou	siyanka	3
 moman	épi	3
 o	moman	3
-tout	ka	3
 mété'y	douvan	3
 nou	oubliyé	3
 ké	rajouté	3
@@ -25989,6 +26095,7 @@ awtik	ki	3
 gwadloup	dwèt	3
 awtik	adan	3
 ek	anlot	3
+non	ka	3
 yonndé	jennjan	3
 jennjan	té	3
 ké	respekté	3
@@ -26028,7 +26135,6 @@ kréyòl-la	yo	3
 touléjou	la	3
 mannyè	a	3
 a	lwa	3
-a	rètrèt	3
 pari	é	3
 pa	vansé	3
 ni	nou	3
@@ -26050,7 +26156,6 @@ wa	la	3
 i	téni	3
 kouri	telman	3
 koté	on	3
-on	kwa	3
 littérature	créole	3
 en	version	3
 sé	ansyen	3
@@ -26062,14 +26167,12 @@ laradyo	oben	3
 ka	obéyi	3
 palé	byen	3
 ki	chiré	3
-yèm	syèk-la	3
 poèm	yo	3
 jik	alè	3
 sitiyasyon-lasa	ka	3
 pawôl	palé	3
 pawôl	maké	3
 é	annou	3
-ka	paléy	3
 lang	pé	3
 moun	menm	3
 gadé	menm	3
@@ -26192,7 +26295,6 @@ fête	des	3
 tour	à	3
 le	fils	3
 de	m	3
-tu	vas	3
 va	faire	3
 bien	des	3
 était	là	3
@@ -26291,7 +26393,6 @@ trouvé	on	3
 kalité	bèl	3
 fè	chyen	3
 makak	an	3
-i	k	3
 gè	bon	3
 fè	mouin	3
 mandé	ou	3
@@ -26701,7 +26802,6 @@ kontel	ta	3
 françois	marbot	3
 déwò	liv	3
 lòtograf	fwansé	3
-koté	mitan	3
 katjilé	tou	3
 pastè	pwotestan	3
 ta	fwansé-a	3
@@ -26917,7 +27017,6 @@ jou	si	3
 dapré	zot	3
 pé	ranplasé	3
 matjez	matinik	3
-ti	wet	3
 non'y	an	3
 anlè	chak	3
 achté	tout	3
@@ -26966,7 +27065,6 @@ koupè	kann	3
 kann	té	3
 té	zendien	3
 zendien	ek	3
-ans	et	3
 ki	réyisi	3
 césaire	et	3
 et	papa	3
@@ -27392,6 +27490,7 @@ bo	yo	3
 yo	téni	3
 sé	kolon-la	3
 chè	a	3
+fèt	menm	3
 nonm	a-y	3
 dè	ki	3
 jou	apwé	3
@@ -27460,7 +27559,6 @@ bien	pati	3
 kannaval	lanné-tala	3
 sanm	anlo	3
 anlo	group	3
-nan	pay	3
 kraché	difé	3
 ka	vaporé	3
 zafè	pòté	3
@@ -27578,7 +27676,6 @@ an	a	3
 an	plich	3
 soutni	yo	3
 pou	éliminé	3
-èm	la	3
 an	léfan	3
 ké	défilé	3
 pé	bwè	3
@@ -27603,7 +27700,6 @@ con	ça	3
 adjilbè	mandé	3
 rann	anlo	3
 pas	léta	3
-sio	dlo	3
 ou	wè'y	3
 twa	mil	3
 mandé	préfé-a	3
@@ -27739,7 +27835,6 @@ anpil	adan	3
 rivé	linivèsité	3
 trapé	chans	3
 palé'y	la	3
-pò	té	3
 kifè	dépi	3
 bouch	tout	3
 li-a	té	3
@@ -27775,6 +27870,7 @@ ek	lagrinad	3
 pran	kréyol	3
 blan	pé	3
 pli	flouz	3
+les	autorités	3
 ti	plaj	3
 ranmasé	lajan	3
 un	proche	3
@@ -27944,7 +28040,6 @@ apa	ti	3
 réponn	on	3
 a	ti-chika	3
 jan	li	3
-an	pò	3
 tèlman	pè	3
 an-mwen	ka	3
 ka	gyéri	3
@@ -28011,6 +28106,7 @@ friyapen-an	té	3
 sé	pié	3
 lévé'y	di	3
 portab	yo	3
+i	résisité	3
 limiè	ek	3
 finalman	sé	3
 sèvi	ordinatè	3
@@ -28024,7 +28120,6 @@ jou	pas	3
 enmen	ti	3
 pa	konfonn	3
 ni	pwéson	3
-mété	bè	3
 ké	plis	3
 arman	nikola	3
 la	révolution	3
@@ -28118,7 +28213,6 @@ kay	lachas	3
 tala	di	3
 la	montré	3
 ped	travay-yo	3
-por	la	3
 dé	mas	3
 bel	an	3
 sanblé	yo	3
@@ -28126,7 +28220,6 @@ kouri	anlè	3
 radio	pou	3
 lis	moun	3
 moman	menm	3
-tonbé	dri	3
 yo	brè	3
 bay	chabon	3
 bwè	manjé	3
@@ -28152,7 +28245,6 @@ moun	sirtou	3
 dlo	ba	3
 konnet	anlo	3
 trop	sik	3
-met	jo	3
 antouléka	si	3
 doktè	pou	3
 éséyé	mofwazé	3
@@ -28328,7 +28420,6 @@ nan	péyi-nou	3
 ba	lang-nou	3
 tiraj	powézi	3
 kwéyol	sent-lisi	3
-désidé	antré	3
 lang	pangnol	3
 nan	karayib-la	3
 voir	les	3
@@ -28487,7 +28578,6 @@ reconnaissance	et	3
 qui	peuvent	3
 ne	serait	3
 doute	pas	3
-pas	pu	3
 des	responsables	3
 notre	culture	3
 chose	à	3
@@ -28637,7 +28727,6 @@ ce	fut	3
 pyébwa	tonbé	3
 atè	ki	3
 endé	nou	3
-bon	vwayaj	3
 rasin	ki	3
 a	comme	3
 quelque	part	3
@@ -28686,7 +28775,9 @@ le	clip	3
 pa	cheché	3
 poukwa	ou	3
 chèché	konprann	3
+kont	mwen	3
 byen	pwòp	3
+an	pèd	3
 pèd	vou	3
 sòti	vwè	3
 mèt	vou	3
@@ -28695,7 +28786,6 @@ pon	dot	3
 follow	me	3
 ni	pasyans	3
 on	sorte	3
-lèv	aw	3
 flè	pou	3
 an	monman	3
 gannyé	plis	3
@@ -28720,8 +28810,8 @@ tè	galbas	3
 èkta	tè	3
 distribisyon	a	3
 kontinyé	manjé	3
-asi	pò	3
 mouvman	sosyal	3
+ka	kontrol	3
 voyé	zyé	3
 manjé	kon	3
 an	laliwondaj	3
@@ -28763,7 +28853,6 @@ ils	parlent	3
 avant	et	3
 cela	est	3
 ai	le	3
-fyè	dè	3
 koulè	an	3
 an	venn	3
 venn	an	3
@@ -28771,6 +28860,7 @@ voix	de	3
 ont	dit	3
 alors	je	3
 ansèt	an	3
+tout	menm	3
 listwa	ka	3
 passe	dans	3
 les	rues	3
@@ -28920,6 +29010,7 @@ mwen	chanjé	3
 pren	on	3
 gannyé	kous	3
 ka	modé	3
+vin	si	3
 ka	briyé	3
 lé	zôt	3
 voir	que	3
@@ -28933,6 +29024,7 @@ dieu	de	3
 en	faisant	3
 yo	avè	3
 as	trouvé	3
+fè	fas	3
 tchenbé	on	3
 a	fôs	3
 peut-être	que	3
@@ -29033,7 +29125,6 @@ ay	menm	3
 dé	text	3
 surtout	pour	3
 aussi	en	3
-allè	la	3
 fess	aw	3
 mwen	mm	3
 en	pani	3
@@ -29072,7 +29163,6 @@ permet	fè	3
 téritwè	matinik	3
 lé	dom	3
 travay	si	3
-pwojè	a	3
 mon	blog	3
 ki	asou'y	3
 oben	tala	3
@@ -29102,6 +29192,7 @@ ka	plogé	3
 dwet	pitjet	3
 do	moun	3
 asou	zot	3
+non	ek	3
 pou	dékatiyé	3
 zot	sonjé	3
 oben	zot	3
@@ -29256,7 +29347,6 @@ mizik	an-nou	3
 osi	fò	3
 a-yo	osi	3
 misyé	wojé	3
-séré	lajan	3
 a	son-la	3
 pou	son-la	3
 ban	fè	3
@@ -29329,8 +29419,6 @@ fè	érè	3
 nombreux	sont	3
 vu	la	3
 la	sortie	3
-quatre	ans	3
-cinq	ans	3
 suis	un	3
 des	erreurs	3
 mes	yeux	3
@@ -29341,7 +29429,6 @@ ka	pèsé	3
 le	talent	3
 ta	meuf	3
 argent	et	3
-pay	pou	3
 dè	gwadloupéyen	3
 ka	soupwann	3
 ankò	anba	3
@@ -29360,7 +29447,6 @@ koumansé	pwan	3
 pa	sizé	3
 byen	tini	3
 sé	ayisyen-la	3
-km	a	3
 èvè	loto	3
 poumon	a	3
 tousa	parapòt	3
@@ -29542,9 +29628,7 @@ pétwòl	an	3
 an	giyàn	3
 mé	plito	3
 oben	gaz	3
-pétèt	menm	3
 jen	sòti	3
-ou	k	3
 si	nonm	3
 on	tifanm	3
 a	moune	3
@@ -29556,7 +29640,6 @@ di	mond-lasa	3
 trapé	méday	3
 chimen	é	3
 kwazé	dwèt	3
-tou	kont	3
 favori	pou	3
 ka	kalifyé-y	3
 konpè	a-y	3
@@ -30116,6 +30199,7 @@ imn	nasyonal	3
 fwi	é	3
 baz	a	3
 ou	dot	3
+tout	difikilté	3
 paskè	pou	3
 afin	kè	3
 donk	an	3
@@ -30123,7 +30207,6 @@ tradisyon	an	3
 tropik	kansè	3
 pa	anho	3
 tout	lanné-la	3
-jwenn	t	3
 janmé	pasé	3
 an	mitan-mitan	3
 soleil	est	3
@@ -30150,7 +30233,6 @@ pli	ansyen	3
 pouki	ou	3
 i	osi	3
 pa	kè	3
-bug	j	3
 vé	an	3
 ni	assé	3
 on	bwat	3
@@ -30189,7 +30271,6 @@ lajòl	a-yo	3
 é	dèmi	3
 avoka	a	3
 boug-lasa	sé	3
-the	world	3
 lé	swa	3
 méné	on	3
 tonbé	ou	3
@@ -30422,6 +30503,7 @@ plis	ka	3
 have	a	3
 douvan	pèp-la	3
 fanmi	ou	3
+tout	vlé	3
 sé	sényò-la	3
 vini	koté	3
 sa	dèyè	3
@@ -30453,7 +30535,6 @@ a-y	ni	3
 té	kaché	3
 kaché	an	3
 mandé	lafwans	3
-èm	nasyon	3
 nouvo	non	3
 chajé	èvè	3
 an	débi	3
@@ -30529,6 +30610,7 @@ té	préparé	3
 sa	tonbé	3
 dan	diféran	3
 kat	la	3
+a	fèt	3
 match-la	té	3
 rich	an	3
 nou	lwen	3
@@ -30550,7 +30632,6 @@ za	a	3
 davwè	pa	3
 tout	zouti	3
 adan	labank	3
-rsa	sé	3
 twa	kongré	3
 pon	prèv	3
 nou	pwotéjé	3
@@ -30608,7 +30689,6 @@ chanpyona	panamériken-la	3
 i	asi	3
 adan	pi	3
 anlè	lè	3
-é	janvié	3
 janvié	pou	3
 simenn	ki	3
 pann	i	3
@@ -30657,7 +30737,6 @@ on	big	3
 suiv	kijan	3
 moun	andwa	3
 otila	moun	3
-zè	é	3
 radyo	an	3
 lot	chimen	3
 divini	limanité	3
@@ -30683,7 +30762,6 @@ monboug	té	3
 menmjan	yo	3
 rèd	a	3
 ton	ami	3
-o	mond	3
 le	compte	3
 au	bord	3
 i	on	3
@@ -30697,6 +30775,7 @@ une	main	3
 on	fôs	3
 comme	ce	3
 la	moindre	3
+souf	an	3
 après	les	3
 ma	famille	3
 des	blancs	3
@@ -30708,6 +30787,7 @@ pas	moins	3
 adan	mwa	3
 lang-la	ek	3
 toubannman	pis	3
+artik	an	3
 an	italien	3
 ki	nasionalis	3
 mouvman	lakréyolité	3
@@ -30761,7 +30841,6 @@ tout	estasion	3
 estasion	sèvis	3
 loto	asou	3
 wotè	an	3
-anmizi	man	3
 an	bra	3
 pou	dòmi	3
 mennen	ba	3
@@ -31109,7 +31188,6 @@ travailler	dur	3
 ba-w	dé	3
 pwan	souf	3
 ki	vakans	3
-diré	on	3
 a	mori	3
 é	téka	3
 é	krazé	3
@@ -31166,10 +31244,7 @@ tèks-la	sa	3
 onlo	wouchach	3
 mèsi	anlo	3
 pé	é	3
-mitan	lariviè-a	3
-roz	té	3
 té	anmen	3
-pran	sonmey	3
 tala	mété	3
 mété	lenj	3
 an	zéklè	3
@@ -31190,6 +31265,7 @@ lèspri	a-w	3
 konmisyon	a	3
 sé	kwè	3
 bondyé	bon	3
+tout	kaz	3
 kwayans	a	3
 sèl	bondyé	3
 dè	non	3
@@ -31305,7 +31381,9 @@ militan	kréyol	3
 adan	lafet	3
 collé	en	3
 lè	cô-ï	3
+pa	rikonnet	3
 fè	malélivé	3
+vié	blag	3
 lè	lè-a	3
 tôti	ka	3
 tou	fô	3
@@ -31320,7 +31398,6 @@ pour	comprendre	3
 lang	étranjé	3
 ou	suiv	3
 loin	que	3
-té	kéy	3
 près	tout	3
 konnèt	byen	3
 aprann	konté	3
@@ -31528,7 +31605,6 @@ an	linivèsité	3
 koté	misié	3
 la	gent	3
 autres	créoles	3
-è	la	3
 lévé	ek	3
 anni	bokanté	3
 zié	tout	3
@@ -31633,6 +31709,7 @@ ki	grandè	3
 péyi-a	ankò	3
 loto	ké	3
 ti	péyi-tala	3
+fenm	là	3
 mé	en	3
 on	pié	3
 ay	owa	3
@@ -31804,7 +31881,6 @@ suiv	larel	3
 larel	sé	3
 an	pozision	3
 pa	véyatif	3
-annou	di	3
 dépi	lézanné	3
 rantré	la	3
 an	wòl	3
@@ -31972,8 +32048,6 @@ tjenbé	kò'w	3
 matjè-a	ki	3
 antan	i	3
 wè'y	kon	3
-bon	swé	3
-swé	pou	3
 chèchè	an	3
 fondok	tjè'y	3
 pou	djoubaké	3
@@ -32053,7 +32127,6 @@ ké	kontrolé	3
 pran	mozaik	3
 anvi	mandé	3
 asi	blog	3
-a	mon	3
 yenki	nan	3
 anlo	matjè	3
 a	fas	3
@@ -32269,7 +32342,6 @@ nou	yonndé	3
 pies	davwè	3
 parti	marine	3
 alé	pis	3
-é	novanm	3
 fini	dékouvè	3
 goumen-an	ek	3
 an	selman	3
@@ -32293,10 +32365,10 @@ té	fiè	3
 on	chofè	3
 piti	piti	3
 la	voiture	3
-konèt	vespa	3
 vespa	la	3
 mandé'w	si	3
 twaziem	la	3
+ka	répon	3
 ti	artik-tala	3
 di-set	lajè	3
 vini	konyen	3
@@ -32347,7 +32419,6 @@ gadé	tousa	3
 adan	épizòd	3
 nwèsè	a	3
 ka	vréman	3
-han	solo	3
 adan	nwèsè	3
 maduro	a	3
 doubout	dwet-pitjet	3
@@ -32426,7 +32497,6 @@ klowdékòn	ka	3
 sénatè	matinik	3
 vous	faut	3
 et	y	3
-jouer	de	3
 sé	akondi	3
 izrayel	an	3
 ki	primié	3
@@ -32457,15 +32527,15 @@ le	territoire	3
 des	écrivains	3
 reconnaître	que	3
 musique	dans	3
-g	f	3
 ba'w	manjé	3
 an	chantan	3
+mandé	bibi	3
+bibi	rété	3
+toujou	vou	3
 an	prizonyé	3
 ni	maldon	3
 yé	ya	3
-kon	madon	3
-ti	solo	3
-on	sav	3
+misyé	bobo	3
 enmé	mizik	3
 vidéo	ka	3
 fo	ki	3
@@ -32536,7 +32606,6 @@ victor	hugo	3
 direktiman	épi	3
 centro	de	3
 èvè	la	3
-a	pu	3
 des	plus	3
 paskè	sa	3
 nou	janmen	3
@@ -32579,7 +32648,6 @@ ek	chinwa	3
 kont	krab-la	3
 an	bot	3
 gran	an	3
-té	pété'y	3
 lékol	fè	3
 fè	ta'y	3
 ta'y	tou	3
@@ -32609,11 +32677,9 @@ mwen	oben	3
 kabéché	é	3
 antrè	nonm	3
 kat	an	3
-boa	ka	3
 pou	gwo	3
 gwo	bonda	3
 man	sosioniz	3
-yan	model	3
 ki	vié	3
 pa	terbolizé	3
 la	manman	3
@@ -32763,6 +32829,7 @@ bullet	nou	3
 nou	ou	3
 la	peine	3
 on	mic	3
+nou	las	3
 sa	sété	3
 minit	pou	3
 ka	témwayé	3
@@ -32798,7 +32865,6 @@ ti	zandwa	3
 fè	jan	3
 kat	sèpan-an	3
 tou	pas	3
-nouri	épi	3
 ni	drapo	3
 fè'y	ba	3
 fè	la-a	3
@@ -32842,7 +32908,6 @@ dédié	à	3
 ne	savais	3
 fort	de	3
 mais	un	3
-mon	avis	3
 une	voie	3
 de	développement	3
 du	patrimoine	3
@@ -33008,6 +33073,7 @@ dit	à	3
 et	voilà	3
 le	coup	3
 on	fait	3
+avec	ce	3
 vous	me	3
 an	kaka	3
 ti	mango-la	3
@@ -33087,8 +33153,6 @@ i	vwayajé	3
 koumansé	tonbé	3
 poto	pouri	3
 dòmi	la	3
-è	ek	3
-è	lanné	3
 ki	risivwè	3
 pou	esplitjé	3
 siantifik-la	ka	3
@@ -33135,7 +33199,6 @@ misié	adan	3
 toutafetman	posib	3
 twa	siek	3
 marx	la	3
-a'w	menm	3
 yo	men	3
 poèt	an	3
 sa	le	3
@@ -33508,8 +33571,6 @@ kidonk	dé	3
 lé	kaskod	3
 pis	ki	3
 john	compton	3
-yan	monplaisir	3
-épi	yan	3
 bò	politik	3
 fiè	dè	3
 nobel	la	3
@@ -33685,6 +33746,7 @@ komin	té	3
 oben	nan	3
 bann	vakabon	3
 juin	censurée	3
+martinique	la	3
 la	discrimination	3
 simen	adan	3
 bliyé	sonjé	3
@@ -34045,7 +34107,6 @@ an	sakré	3
 ni	kanmenm	3
 mo	adan	3
 san	pwoblem	3
-bobo	a	3
 toupatou	ka	3
 yo	fen	3
 tan	ladjoukann	3
@@ -34339,7 +34400,6 @@ di	to	3
 manière	dont	3
 ouvrages	qui	3
 la	pratique	3
-de	constater	3
 plus	la	3
 plus	près	3
 aux	élèves	3
@@ -34575,7 +34635,6 @@ vwè	a	3
 i	ba-yo	3
 rété	séré	3
 lidé'y	di'y	3
-préfé	matinik	3
 anni	bétjé	3
 eben	misié	3
 brital	chantez	3
@@ -34684,7 +34743,9 @@ pwan	lablag	3
 ti	ponponm	3
 yo	wè'w	3
 wè'w	nan	3
+soley-la	té	3
 anlè	miklon-an	3
+chanté	tout	3
 lannuit	ek	3
 ki	dabitid	3
 di	soley	3
@@ -35282,7 +35343,6 @@ dimi	pou	3
 chouval	ka	3
 pòté	pies	3
 pa	chansé	3
-ni	mar	3
 asi	vèwsé	3
 rèn	wayom	3
 babad	ké	3
@@ -35296,6 +35356,7 @@ sé	jes-pengad	3
 ki	labé	3
 aprann-yo	fè	3
 an	mandé-zòt	3
+mandé-zòt	fè	3
 ba	disip	3
 kèsyon	nou	3
 adan	awtik-lasa	3
@@ -35322,7 +35383,6 @@ onlo	jantiyès	3
 préché	èvè-y	3
 ti	karé-la	3
 jézi	mandé-nou	3
-mandé-nou	fè	3
 sa	toutafè	3
 di-yo	kè	3
 yo	pé'é	3
@@ -35424,7 +35484,6 @@ yo	jous	3
 nou	aji	3
 nou	pé'é	3
 anlè	divini	3
-é	syèk	3
 rèd	la	3
 moun	viré	3
 bel	koté	3
@@ -35533,7 +35592,6 @@ mwen	le	3
 i	dramatik	3
 laprémidi	pou	3
 moun	bonvini	3
-sé	korektè-a	3
 teks	dikté-a	3
 késion-an	ki	3
 épi	matjè	3
@@ -35570,7 +35628,6 @@ chalviré	adan	3
 ranmasay	zòdi	3
 plodari	asou	3
 ka	estimé	3
-fè	piblisité	3
 vé-di	ki	3
 poko	trapé	3
 pwenté	bout	3
@@ -35610,7 +35667,6 @@ difikilté	i	3
 confiant	sé	3
 potomitan	adan	3
 oben	mari	3
-fè	y	3
 enfòwmasyon	ki	3
 on	lanmou	3
 a-w	asi	3
@@ -35644,7 +35700,6 @@ ki	ésansiel	3
 misié	déklaré	3
 libréri	pa	3
 kasé	zel	3
-liv	éti	3
 gawoulé-a	ki	3
 lélékou-a	éti	3
 vini	blan	3
@@ -35961,6 +36016,7 @@ ki	répons	3
 kyè	annou	3
 de	mata	3
 tant	de	3
+tout	samb	3
 an	chalè	3
 pankat	ki	3
 bokanté	èvè	3
@@ -36095,7 +36151,6 @@ of	mountains	3
 is	also	3
 that	they	3
 i	think	3
-the	dominican	3
 think	that	3
 fwa	annou	3
 témwanyé	dè	3

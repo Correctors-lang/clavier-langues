@@ -1,14 +1,15 @@
 # Bigrammes sgs (FineWeb-2 sgs_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-taisītė	straipsnė	344
-straipsnė	wiki	344
-wiki	teksta	344
+taisītė	straipsnė	343
+straipsnė	wiki	343
+wiki	teksta	343
 no	ė	247
 ka	jau	241
 ne	tik	189
 diel	tuo	176
 ka	ons	147
 tēp	pat	141
+gal	būtė	125
 bet	ėr	125
 žemaitiu	kalba	124
 ka	ė	122
@@ -29,10 +30,10 @@ tēp	ė	93
 kāp	ė	88
 ons	īr	86
 nu	tuo	86
-ė	bova	85
+ė	bova	84
 ana	īr	84
 so	anou	84
-pėrma	karta	84
+pėrma	karta	83
 ė	tas	83
 vėins	ėš	82
 so	tou	82
@@ -42,21 +43,20 @@ kultūras	draugėjės	80
 ėš	tuo	76
 vėsa	laika	74
 ė	viel	74
-par	vėsa	73
 no	vuo	73
+par	vėsa	72
 liuob	būtė	72
 tas	ī	72
 so	sava	70
 jau	ė	70
 tor	būtė	69
-kap	ė	69
 vėina	ėš	68
+kap	ė	68
 ė	tēp	68
 daug	kas	67
 ka	aš	67
 ka	tas	66
 kėta	karta	66
-skouda	rajuona	64
 ka	ana	64
 ė	ka	64
 ėš	kor	64
@@ -64,6 +64,7 @@ ka	anėi	64
 diel	kuo	64
 ėr	ėš	63
 pu	tuo	63
+skouda	rajuona	63
 pri	tuo	63
 tas	pats	61
 na	tik	61
@@ -105,7 +106,7 @@ aš	jau	47
 ana	bova	46
 vėina	dėina	46
 aš	ė	46
-rajuona	savėvaldībės	46
+rajuona	savėvaldībės	45
 kad	ėr	45
 ka	īr	44
 pri	pat	44
@@ -188,6 +189,7 @@ i	anou	34
 kad	ana	34
 ka	ėr	34
 pas	mumis	34
+gal	būt	33
 pri	anuos	33
 ka	tėi	33
 če	īr	33
@@ -215,7 +217,6 @@ ont	galvuos	31
 bova	tuoks	31
 šėik	tėik	31
 īr	dėdėlē	31
-na	vėina	31
 jau	ne	31
 vo	jau	31
 pri	tuos	31
@@ -223,15 +224,16 @@ istuojė	i	30
 ėr	anuo	30
 ėš	anuos	30
 dėl	tuo	30
-ka	par	30
 ė	da	30
 ėr	anū	30
 sodarīts	ėš	30
 bet	tas	30
+na	vėina	30
 no	ka	30
 žemaitiu	kalvarėjės	29
 xx	omžiaus	29
 svieta	vainuos	29
+ka	par	29
 ė	jau	29
 so	anās	29
 žmuogus	tor	29
@@ -444,7 +446,6 @@ kāp	ėr	20
 so	kėtās	20
 ė	pu	20
 če	jau	20
-būtė	ė	20
 telšiū	rajuona	20
 vėdorėnė	muokīkla	20
 par	ton	20
@@ -484,9 +485,11 @@ aš	bovau	20
 ka	mūsa	20
 ė	če	20
 no	pat	20
+ė	īr	19
 šiū	dėinū	19
 ėr	ož	19
 xvi	o	19
+būtė	ė	19
 priklausa	nu	19
 lietoviu	ė	19
 vėsa	lietova	19
@@ -531,6 +534,7 @@ vo	dabar	19
 ėr	diel	18
 toukart	bova	18
 kelis	kartus	18
+tek	i	18
 lietovuos	ė	18
 katras	bova	18
 ė	rītū	18
@@ -740,7 +744,6 @@ so	tuokēs	15
 so	vėso	15
 dėdėlē	daug	15
 ka	žemaitėjė	15
-tou	pati	15
 i	kuokė	15
 ni	vėns	15
 bet	a	15
@@ -791,6 +794,7 @@ vėsuos	lietovuos	14
 km	ī	14
 ta	kalba	14
 jongtėnė	karalīstė	14
+ītek	i	14
 šmuota	nū	14
 uns	bova	14
 ka	anū	14
@@ -836,7 +840,7 @@ i	žemaitėjė	14
 so	žemaitiu	14
 bet	je	14
 so	tuokio	14
-aš	anou	14
+tou	pati	14
 ne	kas	14
 vuo	če	14
 ka	je	14
@@ -925,6 +929,7 @@ ka	žmuogos	13
 ė	šėndėin	13
 vuo	dabar	13
 bova	tēp	13
+aš	anou	13
 aš	ėr	13
 ė	vėsā	13
 ēt	i	13
@@ -1005,7 +1010,6 @@ i	jūra	12
 i	rītū	12
 ton	čiesa	12
 miesta	herbs	12
-tor	daug	12
 īr	tas	12
 ans	īr	12
 a	nu	12
@@ -1156,6 +1160,7 @@ iš	anū	11
 īr	dėdliausis	11
 aplinkuos	apsauguos	11
 i	torgo	11
+tor	daug	11
 bet	nieks	11
 ne	vėins	11
 gruožėnės	literatūras	11
@@ -1280,7 +1285,6 @@ ar	ana	11
 ne	mona	11
 tas	īra	11
 ėš	muokīklas	11
-mona	mama	11
 ėr	vėskas	11
 km	nug	11
 nieka	nier	11
@@ -1338,7 +1342,6 @@ tonkē	būn	10
 īr	vadėnama	10
 a	pu	10
 km	nū	10
-bova	anuos	10
 īr	gerā	10
 ka	gal	10
 vėino	ėš	10
@@ -1493,6 +1496,7 @@ po	bėški	10
 i	bažninčė	10
 kou	aš	10
 ton	dainelė	10
+mona	mama	10
 vėsa	gīvenėma	10
 kāp	par	10
 kad	i	10
@@ -1568,6 +1572,7 @@ lietovuos	mozėkas	9
 gīvenėms	ėr	9
 sava	tievū	9
 īr	ontra	9
+bova	anuos	9
 ėr	po	9
 par	vėina	9
 ė	lėnkėjės	9
@@ -2115,7 +2120,6 @@ toriejė	būtė	8
 tėn	anėi	8
 no	tas	8
 bet	vėstėik	8
-i	plungė	8
 to	mona	8
 tuoki	bova	8
 nie	kuo	8
@@ -2209,7 +2213,6 @@ kā	aš	8
 tū	laikū	7
 ė	mažė	7
 īr	pri	7
-gal	būtė	7
 senuobie	bova	7
 īr	labā	7
 pėrm	kart	7
@@ -2292,6 +2295,7 @@ kumet	ana	7
 palē	dėdloma	7
 žemaitėjė	ė	7
 šēp	jau	7
+tas	gal	7
 tuo	bova	7
 dar	prīš	7
 žemės	ėr	7
@@ -2487,7 +2491,6 @@ no	tėi	7
 žemaitiu	akademėjės	7
 folkluora	ansamblė	7
 i	skouda	7
-kultūras	nomū	7
 i	kėtus	7
 augals	ī	7
 galva	ė	7
@@ -2604,6 +2607,7 @@ kāp	mes	7
 je	aš	7
 jog	bova	7
 ont	ežera	7
+i	plungė	7
 ne	kap	7
 bet	tėi	7
 kad	tik	7
@@ -2787,7 +2791,6 @@ uoršas	kuova	6
 īr	laikuoms	6
 nes	ana	6
 īr	žmuogaus	6
-miesta	teises	6
 nū	lietovuos	6
 patek	i	6
 i	vėsus	6
@@ -3112,7 +3115,6 @@ ons	iš	6
 tik	vėns	6
 īr	bovė	6
 nieks	negaliejė	6
-tėkrā	īr	6
 kiauras	dėinas	6
 tėi	metā	6
 ka	vedo	6
@@ -3144,6 +3146,7 @@ draugėjės	redakcėjės	6
 ėr	kultūras	6
 kėtus	žmuonis	6
 ėr	kėta	6
+kultūras	nomū	6
 rusu	kalbuos	6
 pri	vikipedėjės	6
 kuošė	so	6
@@ -3657,6 +3660,7 @@ ba	žėniuos	5
 paplėta	pu	5
 patenk	i	5
 kuoki	nuors	5
+miesta	teises	5
 i	pėitvakarius	5
 kalba	tor	5
 ta	ruoda	5
@@ -4095,6 +4099,7 @@ bet	dā	5
 kap	reikint	5
 vėsa	tuo	5
 davė	anam	5
+tėkrā	īr	5
 kuoki	tėn	5
 tėn	pas	5
 a	tėkrā	5
@@ -4439,6 +4444,7 @@ pu	metu	5
 metus	dėrba	5
 kiedainiu	rajuonė	5
 kon	tās	5
+o	mes	5
 kāp	žmuonis	5
 karta	par	5
 ka	pas	5
@@ -4718,7 +4724,6 @@ tēp	būtom	5
 so	vakās	5
 tou	žmuogo	5
 saka	ons	5
-par	šėrdi	5
 ne	tuo	5
 tuo	anuo	5
 ir	po	5
@@ -4764,7 +4769,6 @@ ka	vieliava	5
 so	žemaitėškās	5
 katra	palėka	5
 darba	rateliu	5
-ož	longa	5
 ėr	kumet	5
 kūlė	gadīnė	5
 žemaitijos	nacionaliniame	5
@@ -5195,6 +5199,7 @@ vuo	anuos	4
 and	the	4
 su	ana	4
 bet	pati	4
+vuo	vakarūs	4
 kėtū	šaliū	4
 kėtū	kraštū	4
 lietoviū	ė	4
@@ -6257,7 +6262,6 @@ vuo	toukart	4
 no	dabar	4
 tėn	gal	4
 anėi	če	4
-mūsa	bova	4
 i	vėdori	4
 aš	jums	4
 kon	kėta	4
@@ -6598,7 +6602,6 @@ ka	tumet	4
 ė	kam	4
 to	po	4
 menėnė	skaitīma	4
-ka	ans	4
 yr	paskelbės	4
 tėn	dėrba	4
 kas	sau	4
@@ -6848,7 +6851,6 @@ vėinė	kitīms	4
 šiaurės	šmuota	4
 ėr	apīlėnkiu	4
 svieta	ė	4
-z	okolí	4
 okolí	města	4
 bova	žėnuoms	4
 žemaitėjuo	bova	4
@@ -6884,6 +6886,7 @@ tas	gīvenėms	4
 tus	šuokius	4
 tēp	mon	4
 i	griuovi	4
+par	šėrdi	4
 kas	dā	4
 mūsa	suoduo	4
 jau	anou	4
@@ -6916,6 +6919,7 @@ i	dobīsa	4
 iš	lieta	4
 ont	galvo	4
 ka	nomėi	4
+gal	pradietė	4
 so	stanisluovo	4
 vės	dėltuo	4
 o	paskou	4
@@ -6969,6 +6973,7 @@ bus	pu	4
 rīšiū	so	4
 svieta	valstībiu	4
 ė	dėdlis	4
+ož	longa	4
 ė	truoba	4
 anuo	ėr	4
 parke	yra	4
@@ -7680,6 +7685,7 @@ mergeles	marėjes	3
 dongo	bažninčė	3
 rūmā	ė	3
 dalie	īr	3
+uns	gal	3
 data	īr	3
 kėles	nu	3
 nu	bėndrėnė	3
@@ -7715,7 +7721,6 @@ sosėdūrė	so	3
 ė	ragėna	3
 kėtū	vieru	3
 omžios	pr	3
-vi	o	3
 slavu	kalbas	3
 kalba	ėš	3
 makeduonu	kalba	3
@@ -7742,6 +7747,7 @@ medėnė	šv	3
 vīskopīstės	moziejos	3
 i	senuoves	3
 terituorėjes	rėbas	3
+tuoj	vėituo	3
 koltūras	cėntrū	3
 ė	leidies	3
 nu	varniū	3
@@ -8151,6 +8157,7 @@ vėsam	svietou	3
 anuo	jau	3
 īr	itrauktė	3
 miestė	ė	3
+da	gal	3
 ėš	ton	3
 dabartėnio	čieso	3
 bova	žīdā	3
@@ -8182,7 +8189,6 @@ i	karšta	3
 nator	privėlėjės	3
 metū	nhl	3
 tauries	laimietuos	3
-il	canto	3
 canto	degli	3
 degli	italiani	3
 lietovuos	tarība	3
@@ -8212,7 +8218,6 @@ bova	pastatītė	3
 šiaures	rītus	3
 i	šiauri	3
 šiauri	nu	3
-soteiktas	miesta	3
 metū	laikū	3
 joustuo	ėr	3
 ēn	terp	3
@@ -8255,7 +8260,6 @@ zoikė	barzda	3
 to	jautīs	3
 par	plati	3
 tuoks	kap	3
-kad	par	3
 onkstėi	rītmetie	3
 meta	onkstėi	3
 visur	aplink	3
@@ -8325,6 +8329,7 @@ ir	ėmė	3
 tiek	daug	3
 ten	ir	3
 žemaitėjės	vėituos	3
+taip	skaniai	3
 tėik	skanē	3
 vadintė	ont	3
 ont	alaus	3
@@ -9076,6 +9081,7 @@ dieka	sava	3
 ī	dvė	3
 per	tū	3
 tū	laik	3
+persikiel	i	3
 vėsu	laiku	3
 kai	kuriū	3
 ėš	pradžiu	3
@@ -9918,6 +9924,7 @@ meta	so	3
 kad	ēs	3
 patė	pėrma	3
 kor	mūsa	3
+mūsa	bova	3
 jiemė	tas	3
 ė	pajiemė	3
 tuoki	linksma	3
@@ -9975,7 +9982,6 @@ opė	ė	3
 tonkė	žovės	3
 nuognē	retā	3
 nervėniu	skaidolu	3
-onis	skėrtė	3
 skėrtė	jiedō	3
 ir	nu	3
 skaitītė	kap	3
@@ -9988,7 +9994,6 @@ perkelta	i	3
 pavasarė	ė	3
 ė	rogpjūtė	3
 uors	sošīl	3
-saulės	energėjės	3
 tuokis	uors	3
 ė	nelīn	3
 ont	jūras	3
@@ -10013,7 +10018,6 @@ po	kuriuo	3
 tik	patis	3
 i	ansambli	3
 elvė	gerbiejū	3
-katrė	tikė	3
 īr	gīvs	3
 pasėkavuojės	nū	3
 ė	gerbieju	3
@@ -10168,7 +10172,6 @@ spalė	pabėnguo	3
 liuob	neštė	3
 ė	jiedė	3
 cfl	lėmpeles	3
-a	klasės	3
 kompaktėškas	fluorescentėne	3
 fluorescentėne	alektras	3
 alektras	lėmpeles	3
@@ -10690,12 +10693,12 @@ anam	pritar	3
 vėsuo	europuo	3
 pri	pruoguos	3
 katruo	vëtuo	3
+tuo	pat	3
 svēkė	atvīkė̄	3
 nes	īr	3
 ka	tamė	3
 ta	idiejė	3
 kāp	anou	3
-part	of	3
 the	new	3
 from	now	3
 feel	free	3
@@ -10750,7 +10753,6 @@ your	rights	3
 i	žemės	3
 tarmė	ė	3
 juona	krėkštītuojė	3
-x	o	3
 vėins	seniausiu	3
 i	sūri	3
 ī	ont	3
@@ -10774,6 +10776,7 @@ kalbuos	muokytuojė	3
 ė	kūrė	3
 katras	ėš	3
 gėmtoujė	tarmė	3
+ka	ans	3
 pradėnė	muokykla	3
 o	ėš	3
 šuokis	ī	3
@@ -10808,7 +10811,6 @@ evangelikū	refuormatū	3
 lietovuo	tas	3
 metu	bus	3
 ne	žemaitē	3
-č	ė	3
 vėina	darba	3
 todėl	ir	3
 vėsks	būtom	3
@@ -10859,7 +10861,6 @@ davė	i	3
 vėsa	vakara	3
 mona	metu	3
 a	kor	3
-mama	toriejė	3
 jau	pradiejau	3
 so	klumpelēs	3
 kap	bova	3
@@ -10997,7 +10998,6 @@ biegsi	par	3
 par	kėimieli	3
 aš	juojau	3
 ėš	darželė	3
-ta	jaš	3
 ka	jaunuoji	3
 i	kamėna	3
 anuo	žuodius	3
@@ -11248,7 +11248,6 @@ vielėniu	dėina	3
 išvėntints	konėgo	3
 termėnū	žuodi̇̄na	3
 pėitū	atsiūstė	3
-out	of	3
 of	these	3
 these	cookies	3
 pas	katrus	3
@@ -11352,7 +11351,6 @@ ir	o	3
 tai	tik	3
 įvardžiuotiniuose	žodžiuose	3
 arba	virsta	3
-ą	virsta	3
 tampa	dvigarsiu	3
 bendrėnė	kalba	3
 tautėnius	drabužius	3
@@ -11535,7 +11533,6 @@ po	laukus	3
 patiuos	šėrdėis	3
 ka	vasarė	3
 tuo	kāp	3
-gal	pradietė	3
 mozėkas	akademėjuo	3
 papasakuotė	aple	3
 jodo	so	3
@@ -12354,7 +12351,6 @@ tautū	koltūru	3
 but	i	3
 to	commons	3
 i	don't	3
-the	ip	3
 teisės	gava	3
 karta	eso	3
 dešimtmetis	prasidies	3
@@ -12680,7 +12676,6 @@ tuokiū	pat	3
 ibn	al	3
 kuo	mon	3
 po	sava	3
-atvažiavau	i	3
 ė	reikiejė	3
 švėlpau	ė	3
 kiauliu	ganītė	3

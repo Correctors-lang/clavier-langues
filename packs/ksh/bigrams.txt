@@ -1,48 +1,53 @@
 # Bigrammes ksh (FineWeb-2 ksh_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-en	de	1989
-op	de	1182
-in	de	979
-un	de	969
-in	der	963
-en	der	913
-dat	es	864
-van	d	807
-vun	de	768
-en	d	736
+en	de	1988
+op	de	1181
+in	de	978
+un	de	968
+in	der	960
+en	der	911
+dat	es	863
+van	d	806
+vun	de	766
+en	d	735
 an	de	619
-vun	der	565
+e	paar	574
+vun	der	564
 un	dat	532
 för	de	532
-un	dann	523
+un	dann	522
 op	der	519
 an	der	506
 un	et	488
 et	es	486
 och	noch	484
 für	die	479
-en	dä	471
+en	dä	470
 wie	et	460
-dat	et	452
 wenn	et	452
-mit	dem	431
+dat	et	451
 en	kölle	430
-in	den	428
+mit	dem	429
+in	den	427
 in	die	422
 met	de	420
 un	die	416
 es	et	415
 en	et	408
-dat	mer	394
+dat	mer	393
 un	och	387
-op	dä	379
+op	dä	378
+en	dr	373
 em	joohr	371
 vun	dä	371
 der	quälltäx	368
 quälltäx	ändere	368
+von	de	364
 es	dat	358
 un	en	358
-und	die	358
+und	die	357
+op	dr	350
+ich	han	350
 dat	de	338
 op	d	337
 dat	hä	336
@@ -52,7 +57,7 @@ bei	der	323
 un	dä	322
 von	der	320
 wie	ich	318
-bei	uns	315
+bei	uns	314
 wenn	ich	310
 nit	mih	309
 ävver	och	308
@@ -60,42 +65,45 @@ dat	dat	305
 wie	de	302
 on	de	301
 un	der	299
-ich	ben	297
+all	die	297
+ich	ben	296
 van	dr	295
-nur	noch	295
+nur	noch	294
 ich	mich	294
 dat	se	290
-un	ich	290
+un	ich	289
 durch	de	288
+noch	ens	287
 et	wor	287
-das	ist	287
+das	ist	286
 och	en	283
 wie	die	283
 noch	nit	278
-han	ich	274
 auf	der	274
-van	de	273
+han	ich	273
+van	de	272
 öm	de	270
 der	stadt	270
 wenn	de	269
 em	johr	268
 bläck	fööss	267
-op	die	265
+in	dr	267
 bei	de	265
+op	die	264
 es	en	259
 dat	is	257
 in	köln	257
-wor	et	253
 met	der	253
+wor	et	252
 an	die	250
-met	däm	248
-un	do	247
+met	däm	247
 wie	en	246
-auf	den	244
-nicht	mehr	244
+un	do	246
 mit	der	243
-et	och	241
+auf	den	243
+nicht	mehr	243
 et	nit	241
+et	och	240
 aus	dem	239
 ich	bin	238
 durch	die	236
@@ -107,47 +115,50 @@ noch	net	225
 un	wenn	224
 vun	kölle	219
 immer	noch	219
-auf	dem	219
 es	ist	219
+auf	dem	218
 och	de	216
 de	stadt	216
 dat	die	216
+noch	e	216
 op	et	215
 och	nit	215
 han	se	215
-van	öt	214
+van	öt	212
 mer	nit	209
 et	dann	209
 de	welt	206
 met	dä	204
 nit	mieh	204
 dat	dä	203
-dann	och	203
-wie	se	203
 un	d	202
-dat	och	201
+dann	och	202
+wie	se	202
+dat	och	200
 aan	de	200
-un	wie	200
+un	wie	199
 un	mer	198
 gibt	es	198
+mir	sin	197
 han	mer	197
 wat	mer	196
 aus	der	196
-mer	en	195
-su	wie	195
-vun	däm	195
 auf	die	195
+mer	en	194
+su	wie	194
 mer	sin	194
+wenn	man	194
+vun	däm	193
 die	stadt	193
 un	dr	191
 un	wat	191
 mer	han	189
 dat	en	188
 wenn	se	188
-sich	die	187
 wann	mer	187
 de	janze	186
 wie	mer	186
+sich	die	186
 met	dem	184
 för	et	184
 jo	och	184
@@ -173,7 +184,7 @@ wenn	die	172
 on	dat	172
 et	noch	171
 an	dr	170
-un	op	170
+un	op	169
 dann	noch	169
 an	d	166
 nit	esu	166
@@ -182,19 +193,20 @@ on	dann	165
 mer	och	164
 es	de	164
 wann	et	164
-un	es	163
 un	su	162
+un	es	162
 se	en	162
 op	dem	161
-en	paar	160
 för	en	160
-off	de	160
 die	zwei	159
+en	paar	159
+off	de	159
 am	rhing	158
 en	die	158
 sich	de	158
 es	nit	158
 dat	janze	157
+hann	ich	157
 för	die	157
 on	die	157
 de	lück	156
@@ -213,24 +225,25 @@ es	doch	153
 habe	ich	153
 uff	de	152
 us	der	150
+un	wann	150
 ist	das	150
 an	den	150
 wie	ene	149
 do	es	149
+der	welt	149
 och	die	149
 et	hätz	149
-für	den	149
-un	met	148
-un	zo	148
-der	welt	148
+für	den	148
 et	jitt	147
 en	dat	147
-ich	kann	147
+un	met	147
+un	zo	147
 ich	noch	147
 mer	sich	147
 am	engk	146
 hät	et	146
 hät	hä	146
+ich	kann	146
 se	och	145
 das	war	145
 en	di	144
@@ -240,6 +253,7 @@ wann	de	142
 dann	en	142
 in	dä	141
 un	mir	141
+wie	e	141
 noch	nie	141
 kann	mer	141
 de	kölsche	140
@@ -247,15 +261,15 @@ noch	jet	140
 mer	noch	140
 ävver	dat	139
 op	dat	139
-on	et	139
 dann	de	139
-us	dem	139
 im	jahr	139
 för	ze	138
 ö	paar	138
 met	enem	138
 von	dem	138
+on	et	138
 dat	net	138
+us	dem	138
 di	zitt	137
 dä	es	137
 en	däm	136
@@ -263,33 +277,34 @@ kumm	loss	136
 met	dr	135
 wo	mer	135
 op	en	135
-för	der	135
-es	e	134
 wat	se	134
-hat	sich	134
+för	der	134
+es	e	133
 weil	et	133
 mer	de	133
+hat	sich	133
 ist	ein	133
 on	och	133
-ben	ich	133
 dat	ess	132
 un	em	132
 noch	de	132
+ben	ich	132
 für	mich	131
 ävver	nit	131
 wie	hä	131
 wor	en	130
 über	die	130
 nach	dem	130
-immer	widder	130
-wat	ich	129
+och	e	129
+immer	widder	129
 mer	et	128
 es	dann	128
-wie	der	128
 se	de	128
 dat	alles	128
 mit	einem	128
+wat	ich	128
 ob	de	128
+wie	der	127
 wenn	du	127
 ävver	net	126
 wenn	mer	126
@@ -297,20 +312,21 @@ dann	die	125
 wann	ich	125
 haben	wir	125
 dat	woar	125
-in	kölle	125
-ich	will	125
-un	hä	124
+noh	de	124
 dat	kann	124
 ich	nit	124
 ein	paar	124
+in	kölle	124
+ich	will	124
+un	hä	123
 ze	maache	123
 hä	en	123
 wo	et	123
 un	so	123
 dann	es	123
-dat	hät	123
 äan	der	123
 dat	do	122
+dat	hät	122
 mer	op	122
 nicht	nur	122
 su	en	122
@@ -329,21 +345,22 @@ es	noch	119
 die	mer	119
 sich	en	119
 et	levve	118
-wat	et	118
 um	die	118
 ist	die	118
 doch	noch	117
 op	un	117
 am	eng	117
+op	kölsch	117
+wat	et	117
 us	d	116
 es	och	116
 se	dann	116
 an	dä	116
 ich	och	116
 do	wor	115
-sin	mer	114
 der	kopp	114
 wat	es	113
+sin	mer	113
 och	ens	113
 op	däm	113
 et	em	113
@@ -358,53 +375,55 @@ wie	dä	112
 kann	et	112
 es	war	112
 well	ich	112
-net	mi	111
 wat	de	111
 och	dat	111
+de	sonn	111
 es	jo	111
 und	so	111
 wir	uns	111
+net	mi	110
 de	minsche	110
-us	dr	110
-hä	es	110
+lang	her	110
 dat	met	110
-mer	dann	110
 dat	der	109
+us	dr	109
+hä	es	109
 es	dä	109
-in	et	109
 zo	dä	109
-all	dat	109
+mer	dann	109
 ech	mech	109
 ich	hann	109
-et	is	109
 un	noch	108
 hä	sich	108
+in	et	108
+all	dat	108
 mer	singe	108
+et	is	108
 muss	ich	108
-ich	habe	108
-ens	en	107
 sich	in	107
 weil	se	107
 ist	der	107
+ich	habe	107
 un	esu	106
+ens	en	106
 als	wie	106
 net	mie	106
-levve	lang	106
 noch	immer	105
 net	mieh	105
 ich	en	105
-er	ist	105
 ich	dich	105
+levve	lang	105
 weed	et	105
 un	nit	104
 för	dä	104
 dat	dann	104
-op	eimol	104
 doch	die	104
 kölsche	sproch	104
+er	ist	104
 hät	sich	104
 es	die	103
 is	et	103
+op	eimol	103
 en	en	103
 an	dem	103
 mit	mir	103
@@ -416,11 +435,11 @@ off	der	102
 wenn	ech	102
 mer	se	101
 un	han	101
-hät	de	101
 su	dat	101
 dass	die	101
 wo	ich	101
 aber	auch	101
+hät	de	100
 noch	die	100
 und	es	100
 ist	nicht	100
@@ -428,13 +447,12 @@ met	em	100
 auch	die	100
 hä	och	99
 en	enem	99
-weil	die	99
 ich	dat	99
 un	sich	99
 uns	kölsche	99
 zu	den	99
 doch	nit	99
-e	levve	99
+et	doch	99
 och	dä	98
 vill	ze	98
 all	de	98
@@ -442,7 +460,9 @@ kölle	un	98
 de	frau	98
 er	hat	98
 er	sich	98
-es	hä	97
+e	levve	98
+nit	nur	97
+weil	die	97
 vun	enem	97
 de	ganze	97
 kölsche	jung	97
@@ -452,18 +472,18 @@ sich	op	96
 et	sich	96
 wenn	dä	96
 wie	es	96
-dass	es	96
 es	der	96
 hat	noch	96
 us	öt	95
 es	ene	95
 do	en	95
+es	hä	95
 för	dat	95
 su	vill	95
 noch	nicht	95
+dass	es	95
 die	kölsche	95
 mir	kölsche	95
-und	ich	95
 d	dütsche	94
 de	mamm	94
 es	un	94
@@ -471,16 +491,17 @@ met	nem	94
 un	in	94
 wann	se	94
 für	uns	94
-auch	nicht	94
-n	paar	94
+und	ich	94
 un	sing	93
-wie	mir	93
 un	all	93
 denn	wenn	93
-wat	do	93
 in	diesem	93
+auch	nicht	93
+n	paar	93
 öt	joohr	92
 üvver	de	92
+wie	mir	92
+wat	do	92
 et	jo	92
 us	däm	92
 hät	dat	92
@@ -506,8 +527,6 @@ nit	nor	91
 der	zeit	91
 et	kütt	91
 se	nit	90
-dat	di	90
-dat	wasser	90
 hätt	et	90
 et	hät	90
 dat	all	90
@@ -515,36 +534,38 @@ es	in	90
 ävver	et	90
 un	weil	90
 sich	nit	90
-so	wie	90
 dr	naam	89
 nit	en	89
-och	em	89
-sich	dann	89
+dat	di	89
 kann	me	89
 us	kölle	89
 die	welt	89
 die	liebe	89
 met	demm	89
+so	wie	89
 wie	dr	89
 jedes	johr	88
 se	noch	88
+och	em	88
 de	kirch	88
 un	hät	88
+sich	dann	88
+hätt	ich	88
 jov	et	88
 wood	hä	87
 van	di	87
 die	et	87
 dat	beld	87
 mer	all	87
+dat	wasser	87
 et	weed	87
 und	dat	87
 und	zu	87
 auch	noch	87
-denn	die	87
-ben	ne	87
 nicht	so	87
 auch	in	87
 nur	die	86
+ben	ne	86
 öm	d	85
 dann	doch	85
 es	dr	85
@@ -553,6 +574,7 @@ und	de	85
 sie	sich	85
 doch	dat	85
 on	wenn	85
+denn	die	85
 dass	sie	85
 geht	es	85
 do	bes	84
@@ -563,7 +585,6 @@ wat	wor	84
 on	dä	84
 bei	den	84
 wir	sind	84
-ich	an	84
 la	la	84
 öm	et	83
 dat	sö	83
@@ -571,17 +592,18 @@ dass	ich	83
 jitt	öt	83
 bei	dir	83
 die	en	83
-doch	der	83
 bei	mir	83
+ich	an	83
 cat	ballou	83
 un	öt	82
 fun	de	82
 wann	hä	82
+e	bessje	82
 will	ich	82
 et	su	82
 dat	noch	82
-hat	die	82
 wie	ein	82
+doch	der	82
 ich	die	82
 dr	kopp	81
 do	han	81
@@ -590,9 +612,9 @@ kann	och	81
 met	en	81
 weil	ich	81
 wenn	der	81
+hat	die	81
 doch	net	81
 der	hand	81
-wir	haben	81
 han	ech	81
 für	das	81
 die	ich	81
@@ -608,6 +630,7 @@ ich	weiß	80
 sin	de	80
 die	ganze	80
 ab	und	80
+wir	haben	80
 der	kölner	80
 noh	der	80
 kölsche	pass	80
@@ -616,7 +639,6 @@ op	di	79
 es	net	79
 net	ze	79
 wo	se	79
-oder	nie	79
 och	jet	79
 wo	die	79
 och	wenn	79
@@ -630,6 +652,8 @@ muss	mer	78
 et	ess	78
 dä	janze	78
 die	de	78
+oder	nie	78
+all	dä	78
 dat	sin	78
 och	ene	78
 de	letzte	78
@@ -640,11 +664,8 @@ wat	för	78
 die	zeit	78
 ich	in	78
 jing	et	78
-die	frau	78
-ein	wenig	78
 weiß	ich	78
 der	ist	78
-dat	öt	77
 och	met	77
 su	e	77
 dat	eß	77
@@ -653,6 +674,8 @@ wenn	mir	77
 et	woar	77
 ich	se	77
 et	widder	77
+die	frau	77
+ein	wenig	77
 weil	de	76
 och	et	76
 ens	widder	76
@@ -667,13 +690,12 @@ sin	die	76
 un	da	76
 dass	er	76
 es	nicht	76
-sind	die	76
 ich	well	76
 gab	es	76
 am	ende	76
-ne	räuber	76
 de	ääd	75
 sich	och	75
+dat	öt	75
 et	de	75
 et	hätt	75
 ech	hann	75
@@ -681,11 +703,11 @@ e	paa	75
 is	dat	75
 van	der	75
 hat	er	75
+sind	die	75
 dat	ech	75
-ne	jefalle	75
+ne	räuber	75
 beitrag	zu	75
 bes	en	74
-jit	et	74
 us	dä	74
 die	zick	74
 wat	soll	74
@@ -696,20 +718,20 @@ als	wenn	74
 och	der	74
 vör	de	74
 du	bist	74
-hück	oder	74
+ne	jefalle	74
 noch	niemand	74
 einen	beitrag	74
 no	dr	73
 de	hand	73
+jit	et	73
 wie	du	73
 an	däm	73
 e	stöck	73
 de	schull	73
 sich	mit	73
-et	op	73
 vor	allem	73
 mehr	als	73
-dummer	ne	73
+hück	oder	73
 bisher	hat	73
 dat	hat	72
 un	domet	72
@@ -720,27 +742,27 @@ do	nit	72
 su	schön	72
 leje	wie	72
 ene	dudezeddel	72
+et	op	72
 he	in	72
+dummer	ne	72
 niemand	einen	72
 en	janz	71
 dat	ävver	71
-der	name	71
-un	an	71
 wenn	sie	71
 nit	ze	71
 vor	dem	71
 und	ein	71
-noch	am	71
 hat	et	71
 un	noh	71
 schief	is	71
 is	englisch	71
-do	kann	70
 von	dä	70
 vöör	dr	70
 se	met	70
+der	name	70
 he	en	70
 noch	an	70
+un	an	70
 hä	dann	70
 un	dem	70
 de	oma	70
@@ -748,11 +770,12 @@ hatte	mer	70
 et	met	70
 se	dat	70
 um	den	70
+noch	am	70
 mer	doch	70
 de	auge	70
 die	es	70
 uff	dr	70
-vöör	öt	69
+do	kann	69
 mer	em	69
 no	d	69
 do	kütt	69
@@ -766,16 +789,15 @@ immer	wieder	69
 ist	er	69
 denn	do	69
 do	hät	69
-immer	immer	69
 was	ich	69
 r	wiel	69
+vöör	öt	68
 sich	met	68
 öt	land	68
 et	dat	68
 wenn	do	68
 dann	op	68
-of	the	68
-un	för	68
+un	als	68
 de	wikkipehdija	68
 met	mir	68
 sin	se	68
@@ -791,6 +813,8 @@ op	uns	67
 se	op	67
 die	janze	67
 janz	schön	67
+of	the	67
+un	för	67
 für	dich	67
 weed	en	67
 dat	muss	67
@@ -803,10 +827,9 @@ jot	un	67
 die	idee	67
 der	kölsche	67
 nach	der	67
+immer	immer	67
 zweide	weltkresch	66
-me	sich	66
 d	usa	66
-z	see	66
 dat	wör	66
 noch	ne	66
 dä	och	66
@@ -820,12 +843,15 @@ ja	auch	66
 emmer	noch	66
 net	nur	66
 wenn	me	66
+ich	hatt	66
 hä	wor	66
 das	lied	66
 net	su	66
 dä	jriis	66
+me	sich	65
 wat	dat	65
 wat	dä	65
+z	see	65
 net	lang	65
 d	lüüh	65
 ich	doch	65
@@ -834,21 +860,20 @@ dat	mir	65
 es	ävver	65
 met	singem	65
 nit	su	65
-bei	dem	65
+mir	die	65
 dat	du	65
 un	dot	65
 die	hon	65
 über	den	65
 on	der	65
 es	heimat	65
-reinhören	reinhören	65
 hä	met	64
 et	do	64
 kann	sich	64
 es	do	64
-mir	die	64
 der	hat	64
 se	sech	64
+bei	dem	64
 nit	lang	64
 hat	de	64
 noch	su	64
@@ -859,6 +884,7 @@ akademie	för	64
 vun	uns	64
 is	a	64
 ich	wor	64
+reinhören	reinhören	64
 un	wood	63
 d	ischde	63
 dä	sigg	63
@@ -874,7 +900,6 @@ hon	se	63
 die	kinder	63
 dass	wir	63
 die	dat	62
-un	däm	62
 wor	ich	62
 met	uns	62
 mer	met	62
@@ -889,23 +914,22 @@ woar	dat	62
 es	auch	62
 auf	das	62
 nix	zo	62
-für	eine	62
 noch	do	62
 en	dem	62
+ich	hab	62
 alle	mann	62
 ich	euch	62
 och	all	62
 ich	nicht	62
 en	däe	62
 die	kölner	62
-nie	marie	62
 un	saate	62
 nur	en	61
 op	öt	61
 als	hä	61
 öt	volk	61
 et	janze	61
-do	kanns	61
+un	däm	61
 un	bei	61
 och	för	61
 kann	dat	61
@@ -917,33 +941,35 @@ bei	dä	61
 die	sin	61
 und	mit	61
 und	sie	61
+für	eine	61
 dieser	zeit	61
 en	den	61
 doch	ens	61
 un	du	61
 mit	einer	61
 mich	su	61
-av	un	61
 mer	fiere	61
+nie	marie	61
 die	lück	60
 et	johr	60
 der	rhing	60
 dat	su	60
 unger	de	60
+do	kanns	60
 die	noch	60
 hätt	de	60
 datt	se	60
 se	net	60
 dat	esu	60
-bes	dat	60
 en	e	60
 und	dem	60
 opp	de	60
+hatt	ich	60
 vor	der	60
 man	kann	60
 ze	arbeide	60
 aber	nicht	60
-es	ön	59
+av	un	60
 joov	öt	59
 es	am	59
 weil	dat	59
@@ -960,10 +986,10 @@ un	vun	59
 in	dieser	59
 kütt	se	59
 für	en	59
+bes	dat	59
 von	mir	59
 noch	vill	59
 alles	op	59
-ist	mir	59
 künnt	ehr	59
 unter	dem	59
 die	uns	59
@@ -977,6 +1003,7 @@ un	ze	59
 óp	de	59
 es	sich	59
 am	eigelstein	59
+es	ön	58
 en	ö	58
 wie	me	58
 dat	op	58
@@ -991,13 +1018,12 @@ is	de	58
 jo	net	58
 kann	se	58
 noch	in	58
-net	esu	58
 on	wat	58
 et	e	58
 ich	do	58
 war	das	58
 ech	noch	58
-hast	du	58
+ist	mir	58
 r	dom	58
 ich	üch	58
 och	ald	58
@@ -1013,16 +1039,19 @@ quelltext	bearbeiten	57
 dat	weed	57
 dich	nit	57
 en	ener	57
+net	esu	57
 die	och	57
-bej	de	57
+de	nas	57
 fier	de	57
 von	einem	57
 von	uns	57
 es	so	57
+hast	du	57
 bist	du	57
 he	nit	57
 op	den	57
 noh	dem	57
+am	rhein	57
 war	es	57
 wor	die	56
 die	nit	56
@@ -1036,7 +1065,9 @@ un	wor	56
 un	he	56
 han	en	56
 jar	kein	56
+bej	de	56
 aus	em	56
+so	ein	56
 dass	man	56
 dä	mer	56
 mer	jo	56
@@ -1052,7 +1083,6 @@ es	musik	56
 de	immer	56
 ahn	de	55
 jäng	öt	55
-dat	dr	55
 zo	di	55
 dat	land	55
 wi	di	55
@@ -1074,7 +1104,6 @@ kölsche	junge	55
 doch	nur	55
 auch	ein	55
 dat	doch	55
-un	hot	55
 es	geht	55
 sin	eins	55
 darfs	de	55
@@ -1082,11 +1111,11 @@ de	leo	55
 hätt	dat	54
 is	en	54
 un	di	54
+dat	dr	54
 övver	d	54
 su	es	54
 du	bess	54
 hä	dat	54
-er	johre	54
 noch	met	54
 et	joot	54
 dass	du	54
@@ -1097,16 +1126,15 @@ van	dä	54
 hät	die	54
 wor	och	54
 mer	do	54
-in	the	54
 woar	et	54
 und	wir	54
-un	nu	54
 han	zwei	54
 zwei	ärm	54
 ärm	för	54
 en	schöpp	54
 doch	et	54
 es	esu	54
+un	hot	54
 all	ens	54
 han	et	54
 du	hast	54
@@ -1120,7 +1148,6 @@ dörch	dr	53
 uns	en	53
 sich	dä	53
 all	di	53
-met	vill	53
 net	en	53
 un	hätt	53
 verdamp	lang	53
@@ -1133,12 +1160,12 @@ lang	nit	53
 freuen	uns	53
 bes	do	53
 auf	einmal	53
-muss	man	53
 ist	eine	53
 do	war	53
-ze	sinn	53
+in	the	53
 hä	nit	53
 und	was	53
+un	nu	53
 mach	en	53
 zu	der	53
 dann	am	53
@@ -1147,6 +1174,7 @@ kucken	darfs	53
 un	ene	52
 hä	op	52
 dat	wood	52
+met	vill	52
 se	et	52
 hat	se	52
 ävver	de	52
@@ -1159,15 +1187,18 @@ kütt	et	52
 der	sich	52
 öm	en	52
 is	ja	52
+muss	man	52
 die	im	52
 die	han	52
 doch	de	52
+ze	sinn	52
 ming	frau	52
 sech	de	52
 dös	is	52
 dausend	levve	52
 g	d	52
 dat	sich	51
+hätt	en	51
 och	d	51
 denn	dat	51
 öm	die	51
@@ -1201,14 +1232,13 @@ en	plaat	51
 schöpp	drus	51
 wor	nit	51
 üvver	die	51
-so	viel	51
 für	ein	51
 me	net	51
-beiträge	e	51
 mer	danze	51
 schäl	sick	50
 dat	för	50
 noch	ene	50
+dat	e	50
 ess	dat	50
 ens	op	50
 als	en	50
@@ -1222,7 +1252,6 @@ un	vill	50
 als	de	50
 dat	leed	50
 die	met	50
-noch	so	50
 datt	die	50
 aan	et	50
 den	ganzen	50
@@ -1239,13 +1268,16 @@ decke	trumm	50
 dass	das	50
 ich	mer	50
 s	war	50
+so	viel	50
 och	schon	50
 viel	zu	50
 e	neu	50
 on	e	50
+beiträge	e	50
 du	kannst	50
 met	dn	50
 van	önö	49
+hätt	sich	49
 freut	sich	49
 esu	lang	49
 vür	allem	49
@@ -1258,6 +1290,7 @@ de	andere	49
 die	se	49
 et	esu	49
 mer	su	49
+noch	so	49
 als	der	49
 da	ist	49
 nix	wie	49
@@ -1275,10 +1308,10 @@ zu	einem	49
 in	numburch	49
 hon	ich	49
 und	wie	49
+em	norde	48
 en	ön	48
 ävver	en	48
 aan	un	48
-nit	vill	48
 die	mir	48
 wo	dä	48
 se	em	48
@@ -1290,16 +1323,13 @@ noch	em	48
 hä	de	48
 nit	us	48
 datt	de	48
-er	war	48
 nach	hause	48
 he	un	48
 un	uns	48
-se	do	48
 ist	auch	48
 durch	das	48
 un	jeder	48
 die	hatten	48
-so	gut	48
 et	ävver	48
 is	doch	48
 su	ne	48
@@ -1307,33 +1337,33 @@ nach	köln	48
 plaat	als	48
 als	jar	48
 dot	dat	48
+es	is	48
 kölner	karneval	48
 stadt	köln	48
 uns	in	48
 in	das	48
-er	joohre	47
-em	norde	47
 zösamme	met	47
 noch	op	47
 net	mä	47
 ävver	noch	47
+nit	vill	47
 die	dann	47
 dä	mann	47
 die	ahl	47
+hätt	se	47
 to	the	47
 die	beiden	47
 de	wikkimehdija	47
 soll	ich	47
 net	met	47
-ens	e	47
 de	mam	47
 et	huus	47
-un	mit	47
+se	do	47
 hat	man	47
-das	nicht	47
 he	sich	47
 do	hot	47
 dis	johr	47
+so	gut	47
 weil	er	47
 ist	so	47
 ich	su	47
@@ -1344,7 +1374,6 @@ et	jet	47
 nit	so	47
 ich	mit	47
 wenn	das	47
-sech	dat	47
 de	jonge	47
 junge	bütze	47
 bütze	joot	47
@@ -1363,18 +1392,22 @@ wi	dat	46
 en	neu	46
 se	in	46
 sich	öm	46
-in	en	46
+ens	e	46
 op	jöck	46
+e	poar	46
 die	sache	46
 und	er	46
 wo	der	46
+er	war	46
 mir	zwei	46
 beitrag	dä	46
 oh	oh	46
 en	frau	46
 ich	jo	46
 mir	de	46
+un	mit	46
 wo	du	46
+das	nicht	46
 und	auf	46
 ze	sin	46
 dies	johr	46
@@ -1387,11 +1420,13 @@ noh	huus	46
 ich	op	46
 es	uns	46
 ist	noch	46
+wie	er	46
 ich	bei	46
 et	uns	46
 on	hat	46
 die	man	46
 em	nächste	46
+sech	dat	46
 lang	die	46
 no	de	46
 mer	hant	46
@@ -1415,8 +1450,8 @@ im	winter	45
 un	wo	45
 für	alle	45
 öm	der	45
+in	en	45
 do	kom	45
-findet	ihr	45
 dann	do	45
 doch	alles	45
 der	akademie	45
@@ -1477,9 +1512,9 @@ met	dämm	44
 han	dat	44
 die	letzte	44
 et	all	44
+findet	ihr	44
 ich	als	44
 nix	ze	44
-un	den	44
 mit	seinem	44
 ein	kleines	44
 was	ist	44
@@ -1490,7 +1525,6 @@ wir	in	44
 ich	ens	44
 wor	hä	44
 üvver	der	44
-nor	noch	44
 et	jot	44
 doch	och	44
 mit	nem	44
@@ -1500,8 +1534,6 @@ die	augen	44
 mir	dat	44
 mir	in	44
 die	ahle	44
-er	in	44
-zu	hause	44
 och	widder	44
 der	dom	44
 von	dn	44
@@ -1537,8 +1569,8 @@ nit	de	43
 dat	kütt	43
 in	unserem	43
 ald	en	43
+un	den	43
 es	im	43
-jedem	jeck	43
 die	em	43
 noa	de	43
 ech	dann	43
@@ -1546,11 +1578,14 @@ wann	die	43
 mit	dir	43
 wat	mir	43
 alles	en	43
+hatt	et	43
+nor	noch	43
 hat	ich	43
-nit	mehr	43
 uns	op	43
 mer	kölsche	43
 zum	beispiel	43
+er	in	43
+zu	hause	43
 so	dass	43
 aber	die	43
 rut	un	43
@@ -1566,7 +1601,6 @@ sich	das	42
 un	alle	42
 mer	der	42
 dann	der	42
-un	singe	42
 in	d	42
 hück	noch	42
 öt	en	42
@@ -1593,15 +1627,13 @@ wann	dat	42
 um	das	42
 und	ist	42
 die	leute	42
-sing	mötz	42
+jedem	jeck	42
 ist	und	42
 dat	huus	42
 ech	dat	42
 mir	och	42
 die	große	42
 der	letzte	42
-och	bei	42
-hätt	ich	42
 et	mir	42
 un	s	42
 net	all	42
@@ -1609,6 +1641,7 @@ die	hat	42
 ein	bisschen	42
 sie	nicht	42
 ene	kölsche	42
+nit	mehr	42
 mer	muss	42
 den	kopf	42
 mir	dann	42
@@ -1616,7 +1649,6 @@ bis	heute	42
 mer	ens	42
 die	männer	42
 ne	kölsche	42
-en	singer	42
 us	dm	42
 zu	mir	42
 noch	der	42
@@ -1633,6 +1665,7 @@ me	en	41
 net	op	41
 dä	do	41
 wat	der	41
+un	singe	41
 dr	kresch	41
 jar	nit	41
 de	stroße	41
@@ -1657,27 +1690,29 @@ och	wann	41
 och	in	41
 dä	sich	41
 im	sommer	41
-jeck	jefällt	41
-jefällt	sing	41
+sing	mötz	41
 sich	am	41
-wie	wir	41
 nich	so	41
 do	op	41
 noch	et	41
 dä	hat	41
+och	bei	41
 kann	doch	41
 e	lecker	41
 mer	e	41
 ich	de	41
 die	geschichte	41
 nit	all	41
+de	eck	41
 hot	de	41
+en	singer	41
 uff	dm	41
 bess	die	41
 hin	und	41
 es	su	41
 jedes	jahr	41
 diesem	jahr	41
+ich	jetz	41
 so	ist	41
 bütze	de	41
 de	luxe	41
@@ -1694,6 +1729,7 @@ op	dich	40
 mer	ene	40
 die	von	40
 dom	en	40
+häs	de	40
 e	beßje	40
 de	en	40
 d	kerch	40
@@ -1707,10 +1743,14 @@ woar	en	40
 es	zu	40
 nur	in	40
 hät	nix	40
+jeck	jefällt	40
+jefällt	sing	40
+wie	wir	40
 schon	mal	40
 ooch	noch	40
 ze	finge	40
 met	singer	40
+de	reih	40
 et	schönste	40
 et	sech	40
 weil	der	40
@@ -1739,7 +1779,6 @@ leechter	noch	40
 ohne	dat	40
 an	einem	40
 wie	ech	40
-bej	uss	40
 mann	am	40
 hä	woch	39
 an	öt	39
@@ -1748,7 +1787,6 @@ wood	em	39
 als	se	39
 önö	hoof	39
 dr	ischde	39
-me	kann	39
 se	die	39
 sech	op	39
 e	klein	39
@@ -1769,7 +1807,6 @@ dann	et	39
 di	do	39
 se	es	39
 hätt	noch	39
-war	die	39
 en	ganz	39
 es	wird	39
 hät	dann	39
@@ -1805,6 +1842,7 @@ bernd	stelter	39
 hat	sech	39
 ich	nur	39
 großen	kölner	39
+bej	uss	39
 verdammt	lang	39
 et	öm	38
 he	es	38
@@ -1814,6 +1852,7 @@ em	himmel	38
 ävver	mer	38
 di	hä	38
 onger	de	38
+me	kann	38
 noch	ze	38
 die	me	38
 et	jov	38
@@ -1821,7 +1860,6 @@ wie	do	38
 öt	lajer	38
 och	su	38
 der	andere	38
-jet	zo	38
 et	wör	38
 sich	für	38
 einfach	nur	38
@@ -1832,9 +1870,9 @@ et	jeht	38
 he	op	38
 muss	sich	38
 weed	dat	38
-datt	es	38
 woar	de	38
 im	dorf	38
+war	die	38
 auch	im	38
 den	weg	38
 un	springe	38
@@ -1856,7 +1894,6 @@ noh	hus	38
 als	er	38
 off	dat	38
 met	denne	38
-soll	dat	38
 ist	für	38
 wat	hät	38
 als	kölsche	38
@@ -1865,6 +1902,7 @@ janze	johr	38
 noch	all	38
 und	an	38
 die	nächste	38
+em	veedel	38
 et	kann	38
 sich	bei	38
 et	gitt	38
@@ -1884,6 +1922,7 @@ wird	es	38
 mich	an	38
 sin	kölsche	38
 de	sunn	37
+vun	dr	37
 hä	dr	37
 ze	krijje	37
 hä	wood	37
@@ -1893,12 +1932,12 @@ am	lääve	37
 woch	dr	37
 ze	vill	37
 hä	noch	37
-nur	dat	37
 mer	för	37
 woh	mer	37
 et	jetz	37
 he	de	37
 zo	de	37
+jet	zo	37
 zo	kamelle	37
 han	e	37
 wie	soll	37
@@ -1914,6 +1953,7 @@ un	kann	37
 se	an	37
 möt	de	37
 on	su	37
+datt	es	37
 soll	dich	37
 un	datt	37
 noch	im	37
@@ -1937,6 +1977,7 @@ hat	der	37
 kom	et	37
 ganz	genau	37
 sich	auch	37
+soll	dat	37
 mer	mich	37
 dat	jetz	37
 nicht	in	37
@@ -1952,14 +1993,12 @@ ich	es	37
 hann	et	37
 zo	dir	37
 die	sech	37
-das	muss	37
 se	e	37
 op	einmol	37
 unn	die	37
 das	kann	37
 an	sich	37
 wie	bei	37
-der	kirche	37
 d	a	37
 ä	dütschland	36
 jeiht	et	36
@@ -1976,6 +2015,7 @@ för	sich	36
 han	un	36
 ja	nit	36
 kanns	do	36
+nur	dat	36
 dat	woch	36
 un	immer	36
 wi	hä	36
@@ -1989,7 +2029,6 @@ maache	un	36
 do	dat	36
 ze	künne	36
 et	leech	36
-an	ze	36
 ne	schöne	36
 sing	zick	36
 en	paa	36
@@ -2003,7 +2042,6 @@ dat	ma	36
 denn	ich	36
 mäat	der	36
 hatte	sich	36
-war	und	36
 ich	ja	36
 in	seinem	36
 ovends	danze	36
@@ -2015,6 +2053,7 @@ doch	e	36
 för	ne	36
 noh	un	36
 denn	mer	36
+freud	un	36
 man	in	36
 auf	kölsch	36
 of	de	36
@@ -2038,7 +2077,7 @@ ja	net	36
 an	diesem	36
 e	beispill	36
 das	geht	36
-dat	eine	36
+das	muss	36
 man	es	36
 nit	in	36
 sing	mit	36
@@ -2046,6 +2085,7 @@ ich	am	36
 d	burch	36
 be	de	36
 et	trmmelche	36
+der	kirche	36
 on	net	36
 d	ääd	35
 lang	noch	35
@@ -2057,7 +2097,6 @@ woch	öt	35
 noch	janz	35
 muss	me	35
 sisch	ävver	35
-a	un	35
 zo	ön	35
 noh	dr	35
 völl	lüüh	35
@@ -2065,6 +2104,7 @@ f	g	35
 do	in	35
 unn	dä	35
 och	esu	35
+en	freud	35
 beij	de	35
 dä	kopp	35
 dä	kann	35
@@ -2077,6 +2117,7 @@ un	wer	35
 de	ärm	35
 hun	mir	35
 oder	en	35
+war	und	35
 und	eine	35
 unrääch	dun	35
 der	schinner	35
@@ -2094,7 +2135,6 @@ es	für	35
 dä	jupp	35
 der	bühne	35
 freue	mich	35
-sie	die	35
 em	huus	35
 bes	et	35
 die	hät	35
@@ -2113,6 +2153,7 @@ die	saach	35
 dä	et	35
 mer	jetz	35
 der	stroß	35
+dat	eine	35
 besoffe	vör	35
 vör	glück	35
 mer	stelle	35
@@ -2130,6 +2171,7 @@ va	do	34
 us	un	34
 us	di	34
 ävver	d	34
+a	un	34
 wann	dä	34
 ess	en	34
 en	fläsch	34
@@ -2137,7 +2179,6 @@ di	och	34
 wor	ene	34
 di	mer	34
 do	weed	34
-dann	kütt	34
 watt	op	34
 de	tant	34
 se	wor	34
@@ -2146,6 +2187,7 @@ un	is	34
 van	dat	34
 die	is	34
 hätt	die	34
+an	ze	34
 unn	dann	34
 es	bei	34
 ävver	em	34
@@ -2186,6 +2228,7 @@ bei	us	34
 bes	hück	34
 zo	sin	34
 sie	den	34
+sie	die	34
 levve	un	34
 hä	dä	34
 su	jot	34
@@ -2205,6 +2248,7 @@ uns	die	34
 dann	nit	34
 über	das	34
 dat	ens	34
+die	leut	34
 mit	seinen	34
 wenn	di	34
 im	karneval	34
@@ -2215,7 +2259,6 @@ noch	zu	34
 das	erste	34
 es	ne	34
 wo	es	34
-auch	der	34
 ob	ich	34
 so	hot	34
 on	the	34
@@ -2253,6 +2296,7 @@ bis	in	33
 wood	als	33
 noch	dä	33
 de	römer	33
+dann	kütt	33
 hät	och	33
 uß	dä	33
 is	och	33
@@ -2288,16 +2332,17 @@ widder	e	33
 jetz	nit	33
 dat	deit	33
 sin	all	33
-och	immer	33
+hät	e	33
 för	üch	33
 soll	das	33
 durch	dat	33
+denk	ich	33
+un	im	33
 vun	d	33
 e	kind	33
 de	dann	33
 dr	welt	33
 en	unserem	33
-wore	mer	33
 wat	ech	33
 noch	als	33
 du	mich	33
@@ -2307,10 +2352,10 @@ de	gäng	33
 bloß	noch	33
 net	mihe	33
 ick	hab	33
+nich	mehr	33
 und	hat	33
 auch	schon	33
 die	minsche	33
-vuur	de	33
 deit	mer	33
 do	muss	33
 hot	die	33
@@ -2321,6 +2366,7 @@ aber	ich	33
 der	sonn	33
 ja	schon	33
 liebe	gewinnt	33
+auch	der	33
 der	reih	33
 ob	der	33
 on	dr	33
@@ -2378,8 +2424,6 @@ wo	er	32
 uns	auf	32
 zu	machen	32
 in	unserer	32
-die	hä	32
-et	bett	32
 de	been	32
 sich	schon	32
 se	hatten	32
@@ -2388,6 +2432,7 @@ der	wind	32
 von	dir	32
 ich	den	32
 dieses	jahr	32
+och	immer	32
 do	die	32
 de	lütt	32
 dann	sin	32
@@ -2407,6 +2452,7 @@ dem	jahr	32
 bis	zur	32
 der	künnt	32
 mich	dropschweiße	32
+wore	mer	32
 mich	op	32
 was	das	32
 t	is	32
@@ -2416,6 +2462,7 @@ au	noch	32
 der	kölschen	32
 die	meisten	32
 an	en	32
+vuur	de	32
 is	nit	32
 haben	sie	32
 der	großen	32
@@ -2480,7 +2527,8 @@ der	war	31
 jet	in	31
 wat	noch	31
 die	wor	31
-ald	ens	31
+die	hä	31
+et	bett	31
 durch	der	31
 et	der	31
 so	e	31
@@ -2496,7 +2544,6 @@ wat	du	31
 ich	jläuv	31
 sich	zu	31
 nichts	mehr	31
-ende	der	31
 konrad	adenauer	31
 dä	eine	31
 op	enem	31
@@ -2513,6 +2560,7 @@ uns	im	31
 bis	zu	31
 die	ganz	31
 und	noch	31
+all	em	31
 esch	hann	31
 konnt	me	31
 es	keine	31
@@ -2553,9 +2601,9 @@ va	d	30
 mo	sisch	30
 enne	van	30
 jo	de	30
+sinn	se	30
 e	kölsch	30
 dä	andere	30
-kölle	alaaf	30
 d	ängländer	30
 vun	do	30
 un	für	30
@@ -2576,16 +2624,15 @@ immer	mehr	30
 hat	das	30
 in	seiner	30
 de	zäng	30
-beitrag	jedem	30
 de	maue	30
 me	se	30
 hant	se	30
 em	bett	30
+ald	ens	30
 bis	dat	30
 üvver	et	30
 mer	net	30
 watt	se	30
-der	anderen	30
 et	trömmelche	30
 ich	war	30
 ehr	üch	30
@@ -2604,7 +2651,6 @@ nur	nicht	30
 e	bier	30
 der	herr	30
 es	wirklich	30
-so	ne	30
 kumm	mer	30
 die	janz	30
 doch	in	30
@@ -2613,12 +2659,12 @@ un	denn	30
 jet	en	30
 sich	als	30
 und	für	30
-wor	dann	30
+ende	der	30
 net	de	30
 et	zo	30
+er	johre	30
 auf	und	30
 sie	auch	30
-dann	auch	30
 wie	im	30
 am	dom	30
 kuhl	un	30
@@ -2671,6 +2717,7 @@ fingk	mer	29
 dä	op	29
 z	vänge	29
 als	et	29
+kölle	alaaf	29
 kann	es	29
 me	dat	29
 auch	eine	29
@@ -2678,7 +2725,6 @@ lang	mer	29
 se	hann	29
 so	lang	29
 di	zwei	29
-ob	dat	29
 em	bösch	29
 mer	üch	29
 zo	huus	29
@@ -2691,6 +2737,7 @@ jo	en	29
 hun	eich	29
 er	auch	29
 dat	ed	29
+beitrag	jedem	29
 un	was	29
 dä	die	29
 ech	net	29
@@ -2700,6 +2747,7 @@ sing	vrau	29
 aan	ze	29
 es	ganz	29
 ich	nie	29
+der	anderen	29
 alt	un	29
 es	hier	29
 wör	et	29
@@ -2707,7 +2755,6 @@ haben	die	29
 mit	viel	29
 su	richtich	29
 ich	im	29
-schon	widder	29
 et	ganze	29
 mr	sech	29
 on	her	29
@@ -2717,12 +2764,16 @@ ich	sinn	29
 du	dir	29
 seit	dem	29
 und	wird	29
+so	ne	29
 de	kerch	29
+möchte	ich	29
 on	da	29
+wor	dann	29
 wird	das	29
 ich	denke	29
 der	zigg	29
 auf	ein	29
+dann	auch	29
 de	uhre	29
 nit	zu	29
 un	au	29
@@ -2750,7 +2801,6 @@ aus	köln	29
 su	vell	29
 große	kölner	29
 net	alleen	29
-minsche	wie	29
 der	nacht	29
 de	kenner	29
 so	schön	29
@@ -2808,9 +2858,11 @@ ov	mer	28
 sin	och	28
 on	an	28
 mer	hann	28
+ob	dat	28
 wie	och	28
 dann	kom	28
 se	ze	28
+dann	hätt	28
 die	sind	28
 noch	mal	28
 ist	immer	28
@@ -2850,11 +2902,12 @@ mer	als	28
 nit	kennt	28
 zo	wie	28
 hier	ist	28
-möchte	ich	28
+e	ganz	28
 och	vun	28
 zum	himmel	28
 der	baas	28
 de	zeit	28
+un	hatt	28
 ob	se	28
 han	jo	28
 auch	mal	28
@@ -2880,7 +2933,6 @@ der	brust	28
 vun	im	28
 es	jetzt	28
 ooch	nich	28
-erst	mal	28
 wir	alle	28
 nur	so	28
 dann	is	28
@@ -2890,6 +2942,7 @@ e	hätz	28
 oes	de	28
 wat	jitt	28
 hann	esch	28
+minsche	wie	28
 su	ä	28
 am	bickendorfer	28
 d	jupp	28
@@ -2911,7 +2964,6 @@ un	öm	27
 ävver	met	27
 es	immer	27
 wood	sö	27
-janz	einfach	27
 di	met	27
 ösu	jott	27
 do	ess	27
@@ -2949,7 +3001,6 @@ die	hätt	27
 nit	för	27
 bei	denne	27
 ov	et	27
-kölsche	tön	27
 noch	enn	27
 üvver	kölle	27
 uns	de	27
@@ -2972,7 +3023,6 @@ in	dir	27
 ech	kann	27
 die	der	27
 mer	he	27
-un	doch	27
 se	mich	27
 on	di	27
 et	sönnche	27
@@ -2983,9 +3033,9 @@ wat	für	27
 was	sie	27
 die	angere	27
 nur	der	27
-is	noch	27
 jetz	es	27
 moot	ich	27
+schon	widder	27
 denn	dann	27
 do	hatt	27
 so	schnell	27
@@ -3011,7 +3061,6 @@ sie	es	27
 es	se	27
 die	ersten	27
 es	ja	27
-er	jahren	27
 well	ech	27
 esu	ene	27
 der	aktuellen	27
@@ -3037,6 +3086,7 @@ man	müsste	27
 off	dä	27
 jet	neues	27
 ich	em	27
+erst	mal	27
 dät	et	27
 mer	stonn	27
 no	der	27
@@ -3051,7 +3101,6 @@ ohne	dich	27
 guten	morgen	27
 t	möpje	27
 letzte	leed	27
-eat	sleep	27
 sleep	alaaf	27
 alaaf	repeat	27
 altstadt	weed	27
@@ -3069,11 +3118,13 @@ wie	op	26
 mi	un	26
 dat	bei	26
 us	wie	26
+uns	stadt	26
 ä	sing	26
 öt	weed	26
 alder	va	26
 net	janz	26
 net	ösu	26
+janz	einfach	26
 jott	un	26
 dat	hee	26
 hand	un	26
@@ -3120,6 +3171,7 @@ on	hann	26
 dä	jo	26
 dat	nur	26
 do	dich	26
+kölsche	tön	26
 so	richtig	26
 spaß	an	26
 op	heim	26
@@ -3139,6 +3191,7 @@ vörr	de	26
 noch	mit	26
 dä	zick	26
 immer	jot	26
+un	doch	26
 on	all	26
 das	mit	26
 su	richtig	26
@@ -3146,6 +3199,7 @@ dat	spill	26
 nur	ne	26
 uns	dann	26
 off	en	26
+is	noch	26
 dat	uns	26
 et	wie	26
 eesch	ens	26
@@ -3154,6 +3208,7 @@ ich	janz	26
 nor	för	26
 jo	doch	26
 hat	ehr	26
+dat	hatt	26
 nicht	auf	26
 der	ahle	26
 bei	all	26
@@ -3181,12 +3236,10 @@ wird	der	26
 der	mann	26
 ens	die	26
 do	woe	26
-die	schöne	26
 hä	doch	26
 uss	de	26
 zusammen	mit	26
 war	noch	26
-wir	die	26
 sich	von	26
 alles	in	26
 für	immer	26
@@ -3199,7 +3252,6 @@ nur	an	26
 hatt	de	26
 einfach	mal	26
 der	es	26
-dr	hand	26
 loss	uns	26
 schenk	mir	26
 fiere	et	26
@@ -3221,6 +3273,7 @@ und	weil	26
 on	wann	26
 für	e	26
 doch	dann	26
+hab	ick	26
 net	ens	26
 der	text	26
 ben	e	26
@@ -3285,9 +3338,11 @@ dä	daach	25
 daach	un	25
 de	wält	25
 dat	ihr	25
+jetz	noch	25
 dich	en	25
 un	sinn	25
 wie	datt	25
+wollt	ich	25
 de	jong	25
 mäat	em	25
 woar	ed	25
@@ -3313,6 +3368,7 @@ nur	dä	25
 un	kein	25
 de	groß	25
 no	kölle	25
+hat	och	25
 der	eeschte	25
 üvver	dat	25
 denn	he	25
@@ -3349,7 +3405,6 @@ nit	em	25
 se	uns	25
 all	den	25
 su	is	25
-ich	da	25
 nichts	zu	25
 kann	de	25
 em	momang	25
@@ -3378,27 +3433,32 @@ he	am	25
 de	große	25
 ich	ald	25
 aus	liebe	25
+die	schöne	25
 dr	papp	25
 alles	so	25
 so	hon	25
 wie	s	25
 dann	ganz	25
 war	de	25
+wir	die	25
 sich	et	25
 hä	die	25
 ech	well	25
 ich	hah	25
 doch	das	25
+hück	naach	25
 nei	de	25
 nach	einem	25
 wir	mit	25
 nit	allein	25
+hatt	der	25
 nächste	johr	25
 sich	ja	25
 da	kommt	25
 an	das	25
 sondern	auch	25
 durch	kölle	25
+dr	hand	25
 lässt	sich	25
 da	is	25
 werden	kann	25
@@ -3406,7 +3466,6 @@ die	leeder	25
 dat	weiß	25
 den	ich	25
 dat	war	25
-janz	allein	25
 dom	in	25
 et	ens	25
 se	nich	25
@@ -3433,6 +3492,7 @@ wi	d	24
 wi	se	24
 der	schull	24
 öt	joov	24
+hab	ich	24
 em	dörp	24
 uns	em	24
 an	all	24
@@ -3459,7 +3519,6 @@ kölle	en	24
 op	sich	24
 su	an	24
 mer	esu	24
-dann	von	24
 paar	mol	24
 sich	ä	24
 ze	esse	24
@@ -3481,7 +3540,6 @@ wat	mich	24
 fier	oas	24
 hätt	och	24
 ed	woar	24
-viel	mehr	24
 hier	und	24
 ein	stück	24
 sich	ganz	24
@@ -3513,6 +3571,7 @@ dann	su	24
 vör	der	24
 die	jecke	24
 noch	was	24
+sich	jetz	24
 eine	der	24
 stellt	sich	24
 jeden	tag	24
@@ -3525,9 +3584,9 @@ wenn	e	24
 dät	sich	24
 isch	han	24
 von	euch	24
-dat	hatt	24
 und	wer	24
 er	dann	24
+ich	da	24
 immer	su	24
 dich	noch	24
 was	du	24
@@ -3545,7 +3604,6 @@ ich	un	24
 un	dej	24
 en	och	24
 hät	he	24
-er	es	24
 hatten	sich	24
 do	woren	24
 hat	mich	24
@@ -3571,7 +3629,6 @@ sie	uns	24
 esch	mesch	24
 eine	schöne	24
 der	ress	24
-er	jahre	24
 noch	emmer	24
 sind	und	24
 dä	stell	24
@@ -3580,11 +3637,10 @@ mir	dein	24
 karl	berbuer	24
 ich	freue	24
 sproch	es	24
-on	datt	24
 ein	neues	24
 die	waren	24
 gar	nichts	24
-natürlich	och	24
+janz	allein	24
 so	in	24
 jebütz	besoffe	24
 eins	mer	24
@@ -3614,7 +3670,6 @@ den	namen	24
 höhner	kumm	24
 durch	en	24
 g	c	24
-bella	ciao	24
 ov	krüzz	24
 krüzz	oder	24
 ahle	kess	24
@@ -3626,10 +3681,8 @@ nit	dä	23
 vunn	dä	23
 der	nöh	23
 et	no	23
-dr	ischte	23
 hä	ä	23
 bei	d	23
-un	ding	23
 jaa	nit	23
 jet	op	23
 hä	am	23
@@ -3668,9 +3721,11 @@ uss	em	23
 dat	in	23
 emmer	en	23
 et	ene	23
+ich	möch	23
 et	he	23
 d	franzuse	23
 vun	dämm	23
+dann	von	23
 et	noh	23
 ävver	di	23
 wann	en	23
@@ -3682,7 +3737,6 @@ können	wir	23
 die	das	23
 dat	hann	23
 dä	andre	23
-die	dä	23
 wat	met	23
 övver	dä	23
 er	noch	23
@@ -3692,12 +3746,11 @@ em	wasser	23
 esse	un	23
 ze	fenge	23
 mit	diesem	23
-vun	hätze	23
-wie	oft	23
 zu	lassen	23
 ich	e	23
 dat	kölsche	23
 widder	de	23
+viel	mehr	23
 als	wir	23
 aber	es	23
 pänz	un	23
@@ -3717,7 +3770,7 @@ en	denne	23
 ganz	schön	23
 han	noch	23
 wat	he	23
-nor	e	23
+ich	hätt	23
 he	bei	23
 van	dem	23
 dr	janze	23
@@ -3753,6 +3806,7 @@ on	den	23
 mot	de	23
 soll	die	23
 nit	sin	23
+er	es	23
 ein	vun	23
 en	düx	23
 unger	der	23
@@ -3795,11 +3849,13 @@ uut	de	23
 su	joot	23
 müsste	nochmal	23
 die	rose	23
+on	datt	23
 na	na	23
 hat	uns	23
 sich	so	23
 man	auch	23
 mech	en	23
+natürlich	och	23
 sie	zu	23
 och	nor	23
 ich	auf	23
@@ -3828,6 +3884,7 @@ r	lou	23
 uus	dn	23
 dich	nicht	23
 zu	sagen	23
+bella	ciao	23
 r	hannes	23
 nacht	in	23
 föhls	du	23
@@ -3840,13 +3897,14 @@ d	joohre	22
 en	stöck	22
 fröher	en	22
 spass	an	22
+dr	ischte	22
 zo	dr	22
 maade	hä	22
 dörch	dat	22
+un	ding	22
 op	z	22
 sich	d	22
 ich	kenn	22
-der	minsch	22
 kott	dono	22
 z	könne	22
 di	ävver	22
@@ -3897,13 +3955,12 @@ dä	aale	22
 damit	die	22
 zur	verfügung	22
 uß	de	22
-en	einem	22
 vill	vun	22
 sinn	de	22
 mo	dat	22
+die	dä	22
 de	sigg	22
 hät	me	22
-ahn	der	22
 zwesche	dä	22
 wat	nit	22
 et	dä	22
@@ -3913,6 +3970,9 @@ wat	ess	22
 wor	ald	22
 se	hätt	22
 un	nohreeschte	22
+üvver	uns	22
+vun	hätze	22
+wie	oft	22
 ze	dun	22
 die	uhr	22
 de	freud	22
@@ -3923,7 +3983,6 @@ der	straße	22
 hatte	er	22
 war	er	22
 enn	dä	22
-henger	de	22
 han	jet	22
 mach	net	22
 ze	machen	22
@@ -3952,7 +4011,7 @@ et	nie	22
 hät	doch	22
 ich	kunnt	22
 em	hätze	22
-et	nor	22
+nor	e	22
 wat	di	22
 ech	nit	22
 ömmer	noch	22
@@ -3976,7 +4035,6 @@ im	haus	22
 der	familie	22
 bes	mer	22
 de	rebbe	22
-wor	doch	22
 hä	sech	22
 ich	sie	22
 die	polizei	22
@@ -4003,7 +4061,6 @@ de	lü	22
 noch	von	22
 als	nächstes	22
 dn	sinn	22
-es	an	22
 so	is	22
 ov	andere	22
 das	buch	22
@@ -4016,7 +4073,6 @@ johr	ald	22
 dä	sech	22
 des	kölner	22
 am	nächste	22
-ich	jonn	22
 sie	alle	22
 sä	sich	22
 in	sein	22
@@ -4024,6 +4080,7 @@ nit	och	22
 uns	bei	22
 vor	den	22
 ävver	e	22
+ich	denk	22
 nicht	mit	22
 wat	uns	22
 noch	das	22
@@ -4045,12 +4102,12 @@ kütt	dann	22
 ich	esu	22
 hä	well	22
 wör	dat	22
+kei	wood	22
 ming	heimat	22
 us	en	22
 dä	kolumbus	22
 han	esch	22
 ich	ahn	22
-ut	dem	22
 dann	jeht	22
 in	jeder	22
 wenn	och	22
@@ -4060,6 +4117,7 @@ wieder	auf	22
 liebe	nit	22
 kein	engel	22
 die	aal	22
+d	g	22
 du	nicht	22
 de	hank	22
 hände	zum	22
@@ -4085,6 +4143,7 @@ do	stonn	21
 dat	woor	21
 lang	en	21
 och	hück	21
+der	minsch	21
 z	iisch	21
 kann	nix	21
 der	deutschen	21
@@ -4096,7 +4155,6 @@ sisch	met	21
 wärm	un	21
 ess	die	21
 rhing	un	21
-hab	ich	21
 als	sö	21
 es	als	21
 em	internet	21
@@ -4107,6 +4165,7 @@ dat	loch	21
 bes	hüü	21
 met	et	21
 do	jitt	21
+all	dem	21
 sech	die	21
 op	demm	21
 de	löck	21
@@ -4119,7 +4178,6 @@ un	litt	21
 met	ö	21
 kütt	de	21
 sö	ä	21
-se	sesch	21
 jo	un	21
 se	ne	21
 mieh	als	21
@@ -4127,7 +4185,6 @@ en	andere	21
 äver	och	21
 em	rhingland	21
 en	bonn	21
-un	andere	21
 immer	an	21
 em	fastelovend	21
 sin	op	21
@@ -4139,8 +4196,10 @@ bis	an	21
 ob	dem	21
 me	och	21
 dat	heh	21
+en	einem	21
 du	häss	21
 du	et	21
+ahn	der	21
 der	jupp	21
 sech	nit	21
 jöv	et	21
@@ -4166,6 +4225,7 @@ man	von	21
 eines	tages	21
 dem	krieg	21
 meine	mutter	21
+henger	de	21
 sich	und	21
 auge	zo	21
 es	dir	21
@@ -4193,6 +4253,7 @@ de	nit	21
 on	ich	21
 op	besök	21
 vun	unsem	21
+et	nor	21
 noh	enem	21
 för	alle	21
 bloß	en	21
@@ -4209,6 +4270,7 @@ noch	nich	21
 im	kopp	21
 an	alle	21
 mit	ner	21
+kom	en	21
 mir	nur	21
 ich	mal	21
 dem	ich	21
@@ -4228,12 +4290,13 @@ dat	mäht	21
 in	einen	21
 zick	dem	21
 mer	es	21
-noch	emol	21
 janz	alleen	21
 emmer	widder	21
+wor	doch	21
 wor	janz	21
 unger	uns	21
 ald	em	21
+die	sonn	21
 sich	nach	21
 och	kein	21
 uss	dem	21
@@ -4264,6 +4327,7 @@ säht	mer	21
 wie	fröher	21
 all	jet	21
 dann	kam	21
+es	an	21
 sie	das	21
 un	esch	21
 weil	es	21
@@ -4271,6 +4335,7 @@ jahre	alt	21
 aber	das	21
 jo	immer	21
 nit	mieë	21
+ich	jonn	21
 ich	hat	21
 als	kind	21
 ist	mit	21
@@ -4284,6 +4349,7 @@ sesch	de	21
 off	em	21
 wie	off	21
 et	endlich	21
+als	e	21
 oder	auch	21
 die	auch	21
 es	aber	21
@@ -4311,12 +4377,12 @@ dat	äas	21
 sie	an	21
 ne	janz	21
 der	ahl	21
+ut	dem	21
 dä	net	21
 ne	kleene	21
 während	der	21
 er	nicht	21
 frau	schmitz	21
-für	köln	21
 engel	bist	21
 in	denen	21
 das	zu	21
@@ -4324,7 +4390,6 @@ teil	des	21
 aber	der	21
 e	winnig	21
 mer	lääve	21
-d	g	21
 mal	in	21
 uns	das	21
 viva	colonia	21
@@ -4388,7 +4453,6 @@ met	hör	20
 sö	öt	20
 met	ön	20
 d	russe	20
-kann	dä	20
 sinn	die	20
 weil	me	20
 weed	de	20
@@ -4408,12 +4472,15 @@ de	och	20
 de	täsch	20
 am	daach	20
 a	d	20
+se	sesch	20
 su	jenannte	20
 is	dann	20
 un	isch	20
+un	andere	20
 vun	dänne	20
 mer	wolle	20
 hand	di	20
+et	se	20
 stolz	op	20
 för	se	20
 ze	jonn	20
@@ -4428,6 +4495,7 @@ di	net	20
 ess	de	20
 dat	zo	20
 trock	hä	20
+do	steht	20
 enn	van	20
 em	juni	20
 domet	dat	20
@@ -4495,7 +4563,6 @@ dä	ganze	20
 man	muss	20
 am	hoot	20
 un	enem	20
-auf	einem	20
 des	ovends	20
 solle	mer	20
 sie	haben	20
@@ -4505,6 +4572,7 @@ das	haus	20
 wird	sich	20
 boor	nit	20
 för	dr	20
+noch	emol	20
 im	leben	20
 im	alter	20
 jet	et	20
@@ -4520,7 +4588,6 @@ et	hee	20
 de	woch	20
 ze	bränge	20
 ich	finde	20
-die	gemeinde	20
 hügg	noch	20
 die	ein	20
 un	nich	20
@@ -4536,6 +4603,7 @@ hon	sich	20
 und	hot	20
 in	bonn	20
 mann	met	20
+ja	nich	20
 jet	am	20
 ist	jetzt	20
 wir	hier	20
@@ -4588,6 +4656,7 @@ weil	en	20
 uns	zo	20
 das	bezahlen	20
 ä	gene	20
+für	köln	20
 die	arbeit	20
 nohberschaff	et	20
 land	et	20
@@ -4618,6 +4687,7 @@ ich	mach	20
 die	frage	20
 kolibris	die	20
 ech	bin	20
+sahr	ich	20
 un	häh	20
 nicht	gut	20
 beiträge	dat	20
@@ -4652,6 +4722,7 @@ op	eemol	19
 wood	ä	19
 en	idee	19
 dann	muss	19
+kann	dä	19
 de	preuße	19
 z	kikke	19
 un	ming	19
@@ -4704,9 +4775,9 @@ opjrond	van	19
 jong	van	19
 hee	em	19
 unn	se	19
-wood	et	19
 mer	künne	19
 datt	wohr	19
+wie	enn	19
 unn	wie	19
 im	himmel	19
 auch	hier	19
@@ -4765,6 +4836,7 @@ op	emol	19
 un	övver	19
 aan	on	19
 net	so	19
+all	sin	19
 für	jede	19
 net	emmer	19
 die	bilder	19
@@ -4783,13 +4855,13 @@ hatt	dä	19
 un	nix	19
 un	er	19
 mer	hatten	19
-en	ganze	19
 all	noch	19
 ich	gern	19
 vielen	dank	19
 su	nem	19
 on	du	19
 hört	man	19
+auf	einem	19
 es	kölle	19
 ejal	wo	19
 em	rheinland	19
@@ -4829,6 +4901,7 @@ unger	anderem	19
 noch	zo	19
 darf	ich	19
 ald	immer	19
+die	gemeinde	19
 fühlt	sich	19
 et	aan	19
 wie	dann	19
@@ -4909,6 +4982,7 @@ von	allen	19
 ous	dem	19
 hat	doch	19
 der	erste	19
+en	all	19
 die	ist	19
 met	mingem	19
 with	the	19
@@ -4926,7 +5000,6 @@ beitrag	dölmes	19
 und	her	19
 zu	schreiben	19
 an	dir	19
-dat	ding	19
 mit	songtext	19
 ech	an	19
 vun	minger	19
@@ -4938,12 +5011,12 @@ den	anderen	19
 jet	te	19
 der	wird	19
 pass	kumm	19
+dann	sinn	19
 findet	sich	19
 ersten	blick	19
 eetste	fründin	19
 gäng	ich	19
 ess	jo	19
-für	mech	19
 domet	se	19
 texttext	von	19
 das	ich	19
@@ -5055,8 +5128,7 @@ esu	jood	18
 net	jott	18
 well	de	18
 in	e	18
-och	am	18
-war	nicht	18
+wood	et	18
 on	weil	18
 on	nit	18
 et	alt	18
@@ -5108,7 +5180,6 @@ se	jetz	18
 di	vrau	18
 och	wat	18
 t	nit	18
-mi	hätz	18
 so	es	18
 de	dör	18
 sich	aus	18
@@ -5121,7 +5192,6 @@ oder	so	18
 dank	für	18
 auch	von	18
 et	kom	18
-wänn	de	18
 kom	de	18
 bei	einer	18
 esu	wigg	18
@@ -5134,6 +5204,7 @@ on	alle	18
 em	senn	18
 de	angere	18
 wor	schon	18
+en	ganze	18
 soll	dä	18
 de	ganzen	18
 die	muss	18
@@ -5141,7 +5212,6 @@ doch	als	18
 doch	was	18
 dann	das	18
 jede	daach	18
-ov	en	18
 lommer	nimmih	18
 die	finger	18
 anders	als	18
@@ -5218,6 +5288,7 @@ menschen	in	18
 nicht	die	18
 jett	et	18
 wir	euch	18
+mir	jetz	18
 hätten	se	18
 un	üvver	18
 nit	der	18
@@ -5270,6 +5341,7 @@ hier	geht	18
 mit	denen	18
 du	och	18
 und	alles	18
+do	häss	18
 von	ne	18
 de	lüh	18
 neben	der	18
@@ -5285,6 +5357,7 @@ em	letzte	18
 jenau	su	18
 wir	hatten	18
 zu	ende	18
+dat	ding	18
 sich	beim	18
 und	einen	18
 log	dich	18
@@ -5305,6 +5378,7 @@ kölsche	singe	18
 ehr	en	18
 die	zwä	18
 un	sou	18
+für	mech	18
 noch	jett	18
 joow	et	18
 de	brauerei	18
@@ -5327,7 +5401,6 @@ daß	he	18
 au	das	18
 bej	demm	18
 dr	buuer	18
-de	bruij	18
 och	enne	17
 mo	d	17
 och	joot	17
@@ -5342,7 +5415,6 @@ em	juli	17
 em	september	17
 un	ald	17
 dat	määt	17
-op	ö	17
 in	uns	17
 singe	duud	17
 hä	net	17
@@ -5432,8 +5504,10 @@ d	büühn	17
 dä	köbes	17
 se	bei	17
 e	johr	17
+och	am	17
 hä	wohr	17
 ävver	för	17
+war	nicht	17
 jet	wie	17
 se	der	17
 de	hellije	17
@@ -5479,6 +5553,7 @@ man	sie	17
 nach	und	17
 säin	die	17
 mer	maache	17
+ganze	welt	17
 noch	un	17
 ich	zo	17
 of	der	17
@@ -5491,6 +5566,7 @@ on	wo	17
 nit	fott	17
 wor	ech	17
 gof	et	17
+mi	hätz	17
 enn	paar	17
 schön	wor	17
 die	zukunft	17
@@ -5500,6 +5576,7 @@ hä	selvs	17
 die	us	17
 de	zwei	17
 sich	hin	17
+wänn	de	17
 en	jot	17
 jo	die	17
 in	ihren	17
@@ -5523,13 +5600,12 @@ net	immer	17
 was	macht	17
 du	es	17
 neet	mië	17
+ov	en	17
 lommer	sage	17
 und	en	17
-fing	an	17
 sie	wird	17
 der	famillich	17
 dä	kütt	17
-de	mull	17
 op	heem	17
 wat	mr	17
 und	han	17
@@ -5545,7 +5621,6 @@ für	ihre	17
 hier	zu	17
 e	de	17
 e	in	17
-er	johr	17
 sin	kann	17
 ene	große	17
 meine	ich	17
@@ -5598,6 +5673,7 @@ senn	die	17
 jrad	en	17
 ja	die	17
 noch	än	17
+ich	hoff	17
 das	land	17
 hat	in	17
 jetz	die	17
@@ -5683,10 +5759,10 @@ vör	e	17
 widder	hin	17
 r	großen	17
 dir	die	17
-doch	immer	17
 heim	an	17
 ich	hee	17
 uns	un	17
+hatt	dat	17
 de	dhünn	17
 et	zick	17
 et	i	17
@@ -5724,6 +5800,7 @@ et	rus	17
 lang	wie	17
 zu	un	17
 a	tool	17
+sin	klsche	17
 zu	fuß	17
 hon	die	17
 de	owend	17
@@ -5750,7 +5827,6 @@ bess	e	17
 so	einfach	17
 c	h	17
 miljö	su	17
-sahr	ich	17
 un	hon	17
 au	de	17
 häh	sich	17
@@ -5760,18 +5836,17 @@ kaffee	in	17
 der	schönste	17
 un	aen	17
 dr	wärt	17
+de	bruij	17
 dat	öess	17
-e	hätt	17
 lück	em	16
 nöh	vun	16
 konnt	et	16
 johr	de	16
 bes	dä	16
-will	noch	16
-wood	van	16
 z	äng	16
 z	mache	16
 dunn	se	16
+op	ö	16
 koom	hä	16
 wärm	no	16
 belder	va	16
@@ -5796,10 +5871,12 @@ und	dr	16
 dr	chef	16
 lüüh	us	16
 un	eß	16
+noh	all	16
 die	als	16
 em	nu	16
 d	jäjend	16
 de	deutsche	16
+setz	ich	16
 bes	no	16
 der	so	16
 dä	rhing	16
@@ -5824,6 +5901,8 @@ jetz	wor	16
 so	langsam	16
 als	he	16
 do	wood	16
+heiß	et	16
+weiß	mer	16
 d	nööde	16
 der	en	16
 äwwer	nit	16
@@ -5841,7 +5920,6 @@ vill	minsche	16
 en	wat	16
 kütt	die	16
 dä	oot	16
-at	öns	16
 emme	noch	16
 ich	saach	16
 alles	nix	16
@@ -5966,12 +6044,14 @@ de	fööß	16
 sech	doch	16
 nimmih	lommer	16
 nicht	zum	16
+fing	an	16
 in	ihre	16
 du	nur	16
 flöck	en	16
 do	do	16
 nix	dran	16
 hät	mr	16
+de	mull	16
 do	wore	16
 noch	joot	16
 hot	se	16
@@ -5998,15 +6078,12 @@ mich	dat	16
 das	herz	16
 su	kom	16
 unter	den	16
-name	vun	16
 uch	en	16
 dat	thema	16
-zu	dürfen	16
 letzte	woch	16
 koot	drop	16
 wurde	von	16
 en	kirch	16
-die	zo	16
 finden	sich	16
 jahre	später	16
 mol	de	16
@@ -6071,7 +6148,6 @@ müssen	wir	16
 nicht	von	16
 ist	nur	16
 in	dingem	16
-do	jing	16
 denn	en	16
 un	kei	16
 mih	en	16
@@ -6161,9 +6237,9 @@ dat	sech	16
 das	du	16
 denn	wir	16
 r	bühn	16
+doch	immer	16
 die	so	16
 wenn	ick	16
-hatt	dat	16
 de	firma	16
 ich	weeß	16
 mir	e	16
@@ -6204,7 +6280,6 @@ i	jen	16
 im	moment	16
 am	rosenmontag	16
 dat	kölle	16
-e	bissje	16
 vörr	enne	16
 ihr	könnt	16
 ejal	wie	16
@@ -6236,7 +6311,6 @@ beiträge	et	16
 fööss	dat	16
 jedäuf	met	16
 in	aller	16
-et	jütt	16
 d	r	16
 o	s	16
 n	s	16
@@ -6250,6 +6324,7 @@ brings	nur	16
 von	daen	16
 nach	aen	16
 üss	em	16
+e	hätt	16
 et	öess	16
 un	doh	15
 bes	dohen	15
@@ -6257,7 +6332,9 @@ ens	dä	15
 me	dä	15
 de	funke	15
 up	de	15
+will	noch	15
 öt	em	15
+wood	van	15
 als	di	15
 fun	däm	15
 es	wat	15
@@ -6319,7 +6396,6 @@ alles	su	15
 dann	jitt	15
 et	kaum	15
 soll	mer	15
-dat	werk	15
 hä	wör	15
 och	he	15
 doch	em	15
@@ -6350,7 +6426,9 @@ noh	dir	15
 mir	un	15
 at	en	15
 hä	weed	15
+at	öns	15
 mich	nur	15
+ich	vun	15
 wood	dä	15
 dr	bösch	15
 do	zo	15
@@ -6489,6 +6567,7 @@ udder	en	15
 nemme	mer	15
 der	letzten	15
 immer	de	15
+wär	doch	15
 war	et	15
 sein	und	15
 loss	es	15
@@ -6512,11 +6591,11 @@ der	einen	15
 nit	die	15
 kütt	wie	15
 r	himmel	15
-er	dat	15
 langs	de	15
 och	für	15
 et	litt	15
 et	vun	15
+zu	dürfen	15
 jet	üvver	15
 et	woodt	15
 vum	dom	15
@@ -6524,6 +6603,7 @@ soll	de	15
 um	eine	15
 aber	so	15
 noch	för	15
+die	zo	15
 weed	se	15
 immer	mih	15
 die	nach	15
@@ -6547,7 +6627,6 @@ war	dr	15
 wie	vor	15
 noh	en	15
 dit	frauchen	15
-is	so	15
 bin	ick	15
 och	so	15
 ihr	nicht	15
@@ -6555,6 +6634,7 @@ mit	ihr	15
 und	natürlich	15
 genau	su	15
 kölle	is	15
+hatt	e	15
 un	nett	15
 a	poar	15
 is	ä	15
@@ -6575,6 +6655,7 @@ ich	ihn	15
 ouch	noch	15
 en	nit	15
 sin	uns	15
+do	jing	15
 kann	der	15
 et	dem	15
 e	loch	15
@@ -6596,7 +6677,6 @@ du	en	15
 komme	ich	15
 als	eine	15
 oder	der	15
-en	urlaub	15
 köln	zu	15
 bliev	nix	15
 ist	man	15
@@ -6695,7 +6775,6 @@ nur	einen	15
 ä	gen	15
 hier	auch	15
 der	jan	15
-kütt	der	15
 hingerher	die	15
 mag	ich	15
 setze	un	15
@@ -6725,6 +6804,7 @@ hä	jo	15
 un	hatte	15
 se	den	15
 das	wetter	15
+e	bissje	15
 noch	jot	15
 wieder	mit	15
 de	wällsche	15
@@ -6762,6 +6842,7 @@ köllner	mir	15
 paveier	mir	15
 doch	auch	15
 sech	jet	15
+et	jütt	15
 g	roß	15
 roß	e	15
 karnevalshits	der	15
@@ -6779,6 +6860,7 @@ der	will	15
 thomas	cüpper	15
 kommentar	et	15
 me	ja	15
+ich	trink	15
 ming	mutter	15
 de	schöll	15
 van	demm	15
@@ -6879,6 +6961,7 @@ bis	et	14
 mit	sich	14
 wolfgang	niedecken	14
 nit	grad	14
+dat	werk	14
 koot	noh	14
 ja	och	14
 wo	sö	14
@@ -6935,7 +7018,6 @@ mich	dann	14
 för	ons	14
 van	sing	14
 r	hand	14
-un	stell	14
 wie	us	14
 wat	bei	14
 dem	auto	14
@@ -6985,8 +7067,8 @@ vorbei	un	14
 jar	nich	14
 die	e	14
 der	ärm	14
-dat	leedche	14
 ze	singe	14
+wollt	et	14
 un	sie	14
 met	ehrem	14
 de	mädcher	14
@@ -7050,6 +7132,7 @@ de	hangk	14
 die	stelle	14
 van	däm	14
 no	hus	14
+nach	haus	14
 wird	et	14
 net	an	14
 wollt	ihr	14
@@ -7078,23 +7161,24 @@ wird	sie	14
 wer	hat	14
 seit	der	14
 ich	danz	14
-mir	zu	14
 mer	nie	14
 et	os	14
+woren	all	14
 bi	dn	14
 em	keller	14
 und	sein	14
 es	fott	14
+er	dat	14
 der	reihe	14
 e	klee	14
 in	frankreich	14
+name	vun	14
 hee	bei	14
 mer	wesse	14
 de	lange	14
 im	september	14
 ens	all	14
 ich	finge	14
-op	ener	14
 letzte	woche	14
 ich	dachte	14
 ens	öm	14
@@ -7121,8 +7205,8 @@ sich	vor	14
 deit	dat	14
 därch	de	14
 det	ick	14
-wie	n	14
 mit	hilfe	14
+is	so	14
 un	nem	14
 hätz	es	14
 hans	va	14
@@ -7139,7 +7223,6 @@ dass	de	14
 gut	und	14
 ahn	un	14
 schon	mit	14
-mehr	aus	14
 in	dan	14
 ober	net	14
 die	hot	14
@@ -7181,6 +7264,7 @@ ich	kumme	14
 op	eins	14
 lange	zeit	14
 bis	op	14
+en	urlaub	14
 und	se	14
 die	straße	14
 der	stelle	14
@@ -7211,6 +7295,7 @@ hat	ma	14
 och	von	14
 sie	von	14
 fir	de	14
+die	freud	14
 met	ehrer	14
 de	köch	14
 un	band	14
@@ -7309,12 +7394,14 @@ die	kenne	14
 et	fröher	14
 dank	an	14
 nit	god	14
+kütt	der	14
 wird	nicht	14
 nie	en	14
 de	nächsten	14
 denen	man	14
 johr	em	14
 um	einen	14
+auch	gern	14
 alt	und	14
 sigg	vun	14
 leben	ist	14
@@ -7370,7 +7457,6 @@ einen	guten	14
 das	christkind	14
 muss	ja	14
 die	mädcher	14
-hätt	dr	14
 uch	nit	14
 läuf	dat	14
 so	einem	14
@@ -7380,7 +7466,6 @@ han	sech	14
 so	an	14
 nicht	lange	14
 uch	dat	14
-treffen	sich	14
 bm	a	14
 dis	jo	14
 et	wo	14
@@ -7403,7 +7488,6 @@ noch	gut	14
 die	mensche	14
 querbeat	stonn	14
 vor	glück	14
-bej	os	14
 johr	e	14
 denn	es	14
 n	d	14
@@ -7429,6 +7513,7 @@ kleber	leed	14
 uns	fründe	14
 ens	weihbischof	14
 kommentare	du	14
+oder	hundert	14
 woode	en	13
 un	vöör	13
 watt	sö	13
@@ -7544,7 +7629,6 @@ em	visualeditor	13
 jäje	dr	13
 dir	de	13
 et	muss	13
-ich	vun	13
 so	hat	13
 janz	joot	13
 dat	uch	13
@@ -7581,19 +7665,20 @@ mir	vun	13
 ävver	als	13
 dr	wääch	13
 sich	noh	13
-dann	ens	13
 ich	künnt	13
 e	leedche	13
 ömesöns	es	13
 mr	nit	13
 noch	keiner	13
 sing	soldate	13
+un	stell	13
 jeden	dag	13
 vör	freud	13
 de	steckern	13
 zu	gehen	13
 mäat	de	13
 iwer	de	13
+e	steck	13
 dat	hot	13
 ein	gutes	13
 der	hatte	13
@@ -7644,6 +7729,7 @@ nischt	ze	13
 litt	op	13
 besser	wie	13
 bes	se	13
+dat	leedche	13
 dat	deer	13
 wie	ehr	13
 nor	et	13
@@ -7657,11 +7743,9 @@ met	ehre	13
 off	et	13
 et	senn	13
 die	zweite	13
-der	naach	13
 ens	der	13
 als	hätten	13
 ein	jeder	13
-senn	un	13
 sich	selver	13
 zo	off	13
 ein	jahr	13
@@ -7718,6 +7802,7 @@ nit	mi	13
 janz	still	13
 wor	jet	13
 weed	sich	13
+hatt	die	13
 eß	doch	13
 i	kirchroa	13
 däm	motto	13
@@ -7749,6 +7834,7 @@ wie	zwei	13
 do	häste	13
 wie	nen	13
 wat	dr	13
+nit	e	13
 emol	en	13
 huus	on	13
 immer	schon	13
@@ -7757,6 +7843,7 @@ zesamme	un	13
 hück	ovend	13
 mit	inne	13
 un	daach	13
+als	hätt	13
 nie	mieh	13
 de	fööss	13
 e	jlas	13
@@ -7770,6 +7857,7 @@ jet	mieh	13
 sen	se	13
 woar	dann	13
 die	ham	13
+mir	zu	13
 onn	de	13
 et	oss	13
 beij	önö	13
@@ -7787,7 +7875,6 @@ jemaat	han	13
 da	muss	13
 ihr	dat	13
 och	mol	13
-denn	wer	13
 noch	nen	13
 r	boom	13
 un	dunn	13
@@ -7804,6 +7891,7 @@ wenn	alles	13
 ich	daach	13
 hatt	jo	13
 der	regel	13
+op	ener	13
 in	rodenkirchen	13
 schon	fast	13
 so	hoch	13
@@ -7840,6 +7928,7 @@ de	cdu	13
 kölsch	mädche	13
 hatte	der	13
 das	heißt	13
+wie	n	13
 je	nach	13
 an	einer	13
 hier	eine	13
@@ -7852,6 +7941,7 @@ die	nächsten	13
 üch	och	13
 do	wärd	13
 de	haupsaach	13
+mehr	aus	13
 dem	kopf	13
 war	zu	13
 hot	me	13
@@ -7931,7 +8021,6 @@ fir	en	13
 seit	vielen	13
 es	kaum	13
 zo	han	13
-hot	ma	13
 war	en	13
 en	richtig	13
 sinn	in	13
@@ -7960,12 +8049,12 @@ un	evvens	13
 pänz	schon	13
 en	ne	13
 mich	un	13
+freud	am	13
 freuen	sich	13
 kinder	und	13
 wär	ich	13
 muß	mer	13
 ein	großer	13
-nor	met	13
 weede	kann	13
 marie	mer	13
 kommentar	tinnef	13
@@ -8050,7 +8139,6 @@ mir	auch	13
 mie	en	13
 jetz	han	13
 sesch	op	13
-um	in	13
 war	im	13
 die	aus	13
 för	öm	13
@@ -8070,6 +8158,7 @@ hür	ens	13
 die	einen	13
 vielen	jahren	13
 in	unseren	13
+ens	ne	13
 senn	se	13
 kölsche	aat	13
 dat	nich	13
@@ -8126,6 +8215,7 @@ sich	aber	13
 de	annere	13
 bal	en	13
 em	dicke	13
+hätt	dr	13
 een	paar	13
 wo'er	et	13
 de	letzten	13
@@ -8169,6 +8259,7 @@ höhner	hey	13
 is	heimat	13
 klüngelköpp	jedäuf	13
 dä	bot	13
+bej	os	13
 uns	immer	13
 kasalla	mer	13
 kebekus	helau	13
@@ -8190,6 +8281,7 @@ litt	mer	13
 kommentare	sit	13
 dat	marieche	13
 mir	eine	13
+treffen	sich	13
 üwwer	de	13
 därr	graf	13
 dr	peter	13
@@ -8293,8 +8385,11 @@ sing	zitt	12
 janze	stadt	12
 und	wo	12
 di	us	12
+e	woot	12
 e	ne	12
 em	jaade	12
+die	mädche	12
+se	se	12
 jold	un	12
 wi	sö	12
 bruch	me	12
@@ -8303,7 +8398,6 @@ name	för	12
 no	rom	12
 han	ene	12
 jonn	un	12
-steht	für	12
 jään	ens	12
 op	do	12
 jet	em	12
@@ -8315,7 +8409,6 @@ all	an	12
 de	nöh	12
 is	jetzt	12
 hü	noch	12
-öt	oohr	12
 es	mä	12
 mer	övver	12
 un	woröm	12
@@ -8364,7 +8457,6 @@ hät	nit	12
 wikkimehdija	schtefftong	12
 för	zom	12
 hüü	noch	12
-ess	se	12
 do	kam	12
 dat	vöör	12
 met	eenem	12
@@ -8414,6 +8506,7 @@ de	dat	12
 iss	en	12
 ein	wort	12
 selvs	de	12
+dann	ens	12
 ov	ich	12
 et	wigger	12
 maach	dich	12
@@ -8457,21 +8550,22 @@ den	hals	12
 wej	henn	12
 ön	längde	12
 de	eldere	12
-un	laache	12
 hatten	et	12
 ging	de	12
 bis	de	12
+hätt	der	12
 un	hatten	12
 do	soß	12
 hinger	sich	12
 singem	vatter	12
-alle	drei	12
 mieh	su	12
 op	jädde	12
 ze	baue	12
 dat	dorf	12
+der	naach	12
 sich	widder	12
 en	met	12
+senn	un	12
 sind	schon	12
 man	da	12
 schon	zu	12
@@ -8580,7 +8674,6 @@ emmer	op	12
 on	ons	12
 dem	die	12
 wat	hück	12
-als	hätt	12
 immer	auf	12
 un	trotzdem	12
 janz	flott	12
@@ -8601,12 +8694,12 @@ zoù	der	12
 mir	oas	12
 ze	maachen	12
 oder	einfach	12
-dat	jeit	12
 dann	will	12
 jet	anders	12
 jeck	es	12
 wat	m	12
 han	he	12
+denn	wer	12
 dat	muß	12
 kölsch	es	12
 singer	frau	12
@@ -8671,11 +8764,11 @@ eine	ganze	12
 als	erstes	12
 der	größte	12
 da	auch	12
-vor	ort	12
 wat	deit	12
 dach	un	12
 de	frauen	12
 un	dit	12
+mit	ne	12
 ma	doch	12
 weg	von	12
 ick	kann	12
@@ -8685,7 +8778,6 @@ wird	im	12
 zwei	jahre	12
 uns	auch	12
 es	gut	12
-un	plötzlich	12
 und	all	12
 fest	in	12
 alles	andere	12
@@ -8757,6 +8849,7 @@ kölschem	holz	12
 die	preußen	12
 schon	etwas	12
 ein	kind	12
+er	jahre	12
 med	en	12
 ben	jo	12
 un	loss	12
@@ -8788,6 +8881,7 @@ dat	fällt	12
 dat	ganz	12
 os	net	12
 deit	hä	12
+hot	ma	12
 alles	nur	12
 met	allem	12
 denn	im	12
@@ -8819,6 +8913,7 @@ mer	treff	12
 sesch	aam	12
 dann	geht	12
 sid	ehr	12
+hundert	johr	12
 zigg	för	12
 hä	för	12
 hä	deit	12
@@ -8841,9 +8936,11 @@ stolz	un	12
 die	freiheit	12
 ich	ene	12
 üvverhaup	nit	12
+nor	met	12
 ich	eine	12
 nicht	ein	12
 haus	un	12
+ich	föhl	12
 eß	der	12
 dr	ring	12
 mo	sich	12
@@ -8880,6 +8977,7 @@ de	troisdorfer	12
 ene	jroße	12
 r	weetschaff	12
 die	namen	12
+e	sich	12
 immer	alles	12
 wurde	in	12
 unn	wenn	12
@@ -8899,7 +8997,6 @@ nur	nach	12
 em	roxy	12
 maach	ich	12
 der	grund	12
-os	op	12
 ich	jet	12
 wär	et	12
 un	bier	12
@@ -8939,6 +9036,7 @@ geld	für	12
 dä	ich	12
 die	kapell	12
 zu	pflegen	12
+um	in	12
 un	links	12
 sich	sehr	12
 all	esu	12
@@ -9026,6 +9124,7 @@ woe	dat	12
 nie	mie	12
 doch	nu	12
 es	sind	12
+e	m	12
 bye	my	12
 ich	ze	12
 und	doch	12
@@ -9047,7 +9146,6 @@ hätte	se	12
 däten	se	12
 met	ons	12
 dr	helmut	12
-weil	dr	12
 hant	dann	12
 dis	jo'ehr	12
 r	jo	12
@@ -9113,6 +9211,7 @@ denn	häh	12
 die	war	12
 das	nit	12
 dann	nach	12
+war	s	12
 n	ganz	12
 ich	doheim	12
 wie	hät	12
@@ -9120,7 +9219,6 @@ wie	hät	12
 es	eigentlich	12
 beiträge	leev	12
 de	richtije	12
-mol	ratinger	12
 do	deit	12
 doch	wohl	12
 ich	au	12
@@ -9222,7 +9320,6 @@ no	e	11
 at	jet	11
 de	ieschte	11
 alles	an	11
-die	mädche	11
 su	manches	11
 die	deck	11
 am	andere	11
@@ -9230,8 +9327,8 @@ mo	dr	11
 dä	dörch	11
 no	paris	11
 dat	fluppde	11
-de	name	11
 et	spill	11
+steht	für	11
 en	do	11
 esu	wi	11
 wood	di	11
@@ -9248,6 +9345,7 @@ zaahl	va	11
 sö	zo	11
 noch	jätt	11
 es	zwar	11
+öt	oohr	11
 dat	ö	11
 dat	öm	11
 wä	sisch	11
@@ -9309,6 +9407,7 @@ wärkzüsch	för	11
 öm	op	11
 mer	jäz	11
 wikkimehdija	commons	11
+ess	se	11
 hann	un	11
 eß	ävver	11
 hä	dörch	11
@@ -9405,6 +9504,7 @@ noch	hück	11
 kölsche	musik	11
 zum	mitsingen	11
 im	herzen	11
+durch	e	11
 un	mäat	11
 hot	och	11
 woar	eich	11
@@ -9415,6 +9515,7 @@ wikimedia	commons	11
 en	annder	11
 widder	öm	11
 et	wore	11
+un	laache	11
 do	wie	11
 de	mösche	11
 säht	de	11
@@ -9425,6 +9526,7 @@ em	hus	11
 die	eck	11
 wor	an	11
 wat	ehr	11
+alle	drei	11
 noch	jung	11
 oder	bei	11
 hot	en	11
@@ -9514,7 +9616,6 @@ dä	vatter	11
 lied	ist	11
 vum	johr	11
 minsche	un	11
-hatt	die	11
 van	all	11
 wenn	eck	11
 woar	eck	11
@@ -9608,13 +9709,13 @@ ze	de	11
 bi	de	11
 und	schon	11
 bei	misch	11
-min	omma	11
 so	als	11
 döö	woar	11
 soù	woar	11
 männer	un	11
 de	wöschentlesche	11
 war	auch	11
+dat	jeit	11
 will	dich	11
 ahn	ze	11
 johr	wor	11
@@ -9627,6 +9728,7 @@ die	durch	11
 de	neuste	11
 in	singem	11
 kölle	jonn	11
+stell	ich	11
 en	bröck	11
 däm	se	11
 hier	bei	11
@@ -9693,6 +9795,7 @@ do	uff	11
 stammt	aus	11
 es	nach	11
 hä	ne	11
+vor	ort	11
 oder	eine	11
 jeder	hat	11
 so	än	11
@@ -9702,6 +9805,7 @@ im	auto	11
 denn	mit	11
 und	vielleicht	11
 schönste	stadt	11
+r	thek	11
 natürlich	nicht	11
 auch	etwas	11
 kommen	wir	11
@@ -9713,6 +9817,7 @@ et	eesch	11
 zitt	va	11
 doohter	van	11
 auch	über	11
+un	plötzlich	11
 euch	allen	11
 do	bei	11
 kann	wie	11
@@ -9726,7 +9831,6 @@ nex	mehr	11
 die	senn	11
 ober	die	11
 jetzt	mit	11
-mit	än	11
 mol	än	11
 de	feuerwehr	11
 et	geld	11
@@ -9794,6 +9898,7 @@ am	tag	11
 nämlich	die	11
 noch	sehr	11
 hann	isch	11
+all	för	11
 mih	för	11
 jetz	ald	11
 un	natörlich	11
@@ -9848,6 +9953,7 @@ sich	mal	11
 kenne	ich	11
 r	daag	11
 rand	un	11
+er	hätt	11
 dä	pänz	11
 dat	ies	11
 dat	wüer	11
@@ -9856,7 +9962,6 @@ wöre	mer	11
 ähnlich	wie	11
 auf	ihre	11
 ze	kalle	11
-de	zong	11
 dr	franz	11
 mäht	uns	11
 treff	sesch	11
@@ -9874,6 +9979,7 @@ hä	se	11
 die	vill	11
 anders	wie	11
 der	dud	11
+am	levve	11
 des	abends	11
 der	tag	11
 och	passeet	11
@@ -9894,7 +10000,6 @@ stippefott	strüßjer	11
 denne	et	11
 medmaacher	kann	11
 met	musik	11
-man	eine	11
 me	am	11
 un	lang	11
 soll	der	11
@@ -9934,17 +10039,14 @@ ene	janze	11
 met	ihrem	11
 hingerm	horizont	11
 datt	klärchen	11
-die	alte	11
 do	sät	11
 dä	jakob	11
-e	sich	11
 un	ahn	11
 die	nix	11
 uch	jet	11
 fonn	dämm	11
 te	völl	11
 en	rund	11
-nit	ahn	11
 se	künne	11
 das	ding	11
 er	seine	11
@@ -9965,6 +10067,7 @@ vun	unse	11
 mer	einfach	11
 do	uns	11
 mih	zo	11
+os	op	11
 ens	flöck	11
 r	schull	11
 se	fott	11
@@ -9990,7 +10093,6 @@ dat	nu	11
 drop	sin	11
 üch	op	11
 die	art	11
-er	un	11
 unsere	beiträge	11
 beiträge	findet	11
 der	sigg	11
@@ -10037,6 +10139,8 @@ herr	jesus	11
 ess	nu	11
 den	bläck	11
 der	song	11
+träne	in	11
+ich	manchmol	11
 hück	op	11
 sie	bitte	11
 alle	wikis	11
@@ -10080,9 +10184,9 @@ da	ängel	11
 das	nächste	11
 de	halle	11
 un	endlich	11
+da	ma	11
 und	um	11
 de	ding	11
-am	abend	11
 bis	hin	11
 essen	und	11
 ess	datt	11
@@ -10102,7 +10206,6 @@ jiehn	ech	11
 zu	deck	11
 denn	hier	11
 das	de	11
-de	ädäppele	11
 ja	ma	11
 es	me	11
 un	seich	11
@@ -10115,7 +10218,6 @@ räuber	für	11
 arbeit	und	11
 der	meistgeklickten	11
 ins	rampenlicht	11
-kölsche	en	11
 wo	das	11
 met	kies	11
 ich	nor	11
@@ -10125,7 +10227,6 @@ de	moul	11
 van	nem	11
 widder	schneit	11
 ha	da	11
-sin	klsche	11
 klle	alaaf	11
 kütt	jo	11
 schönste	platz	11
@@ -10145,6 +10246,7 @@ esch	et	11
 send	die	11
 hadde	mer	11
 em	medienzentrum	11
+weil	dr	11
 dann	dr	11
 em	fröhjohr	11
 on	watt	11
@@ -10158,7 +10260,6 @@ för	onse	11
 hät	öm	11
 mattes	overstolz	11
 hand	se	11
-an	duur	11
 dr	här	11
 land	am	11
 dem	dorf	11
@@ -10206,6 +10307,7 @@ die	kleen	11
 all	net	11
 das	ging	11
 mir	pänz	11
+dr	letzte	11
 der	bär	11
 die	schüez	11
 den	augen	11
@@ -10316,7 +10418,6 @@ dann	eß	10
 rund	öm	10
 johr	am	10
 dr	stroß	10
-en	dr	10
 uss	dämm	10
 wi	vill	10
 donn	et	10
@@ -10391,6 +10492,7 @@ lück	un	10
 dä	eß	10
 va	karl	10
 nävver	d	10
+de	name	10
 jo	da	10
 doch	hä	10
 einfach	an	10
@@ -10442,6 +10544,7 @@ han	nix	10
 schon	jet	10
 öt	dat	10
 wä	en	10
+de	kneip	10
 dä	lade	10
 weet	och	10
 kapott	un	10
@@ -10483,7 +10586,6 @@ nit	üvver	10
 sitt	me	10
 se	ene	10
 et	kohm	10
-weil	em	10
 bild	vun	10
 unn	dat	10
 un	moch	10
@@ -10674,7 +10776,6 @@ grad	wie	10
 wie	vun	10
 der	kreeg	10
 wurden	wir	10
-bei	allem	10
 ich	loss	10
 ham	sich	10
 konnte	sich	10
@@ -10709,6 +10810,7 @@ einer	dä	10
 text	von	10
 nit	schlääch	10
 doch	wor	10
+die	mam	10
 de	tür	10
 ald	för	10
 dunn	ich	10
@@ -10763,6 +10865,7 @@ kom	och	10
 d	nordsee	10
 sehen	und	10
 mich	zu	10
+dat	noh	10
 dä	fingk	10
 eine	nevven	10
 nevven	sich	10
@@ -10785,6 +10888,7 @@ de	polizei	10
 sach	ich	10
 komm	ich	10
 der	teufel	10
+seh	ich	10
 ist	denn	10
 do	sen	10
 med	de	10
@@ -10805,6 +10909,7 @@ datt	du	10
 ich	nu	10
 un	een	10
 denen	ich	10
+min	omma	10
 he	dä	10
 ma	noch	10
 hei	un	10
@@ -10845,6 +10950,7 @@ innerhalb	der	10
 ein	neuer	10
 un	äd	10
 ston	se	10
+do	jetz	10
 der	erde	10
 en	rudekirche	10
 dä	esu	10
@@ -10852,6 +10958,7 @@ de	gemeinde	10
 vun	wiggem	10
 de	zigge	10
 bei	so	10
+er	jahren	10
 se	ob	10
 zu	sich	10
 mit	n	10
@@ -10874,6 +10981,7 @@ on	senge	10
 hat	on	10
 me	hät	10
 ging	der	10
+wor	dr	10
 lieder	von	10
 woren	do	10
 nohm	kreech	10
@@ -10883,7 +10991,6 @@ dich	dat	10
 der	nur	10
 jo	e	10
 och	allt	10
-ze	kriesche	10
 hä	un	10
 wie	heißt	10
 janze	wält	10
@@ -10941,6 +11048,7 @@ geschichten	aus	10
 ich	kanns	10
 nex	ze	10
 sä	noch	10
+mit	än	10
 von	dän	10
 wor	nämlich	10
 dä	kerl	10
@@ -10951,6 +11059,7 @@ jood	un	10
 wollt	hä	10
 janz	neu	10
 jeder	hät	10
+er	joohre	10
 de	waldemar	10
 no	em	10
 et	off	10
@@ -10970,7 +11079,6 @@ ist	seit	10
 eetste	mol	10
 mer	levve	10
 noch	wigger	10
-esu	aan	10
 nor	dat	10
 ich	sagen	10
 in	bewegung	10
@@ -10991,6 +11099,7 @@ der	här	10
 et	mem	10
 nit	drop	10
 ehr	künnt	10
+jetz	endlich	10
 för	ehr	10
 mer	bes	10
 de	köpp	10
@@ -11055,7 +11164,6 @@ ballou	immer	10
 eß	hä	10
 die	twiee	10
 sech	wie	10
-de	düer	10
 ze	schwer	10
 an	jedem	10
 de	baas	10
@@ -11080,7 +11188,6 @@ jetzt	wird	10
 in	dein	10
 e	glas	10
 sehr	viel	10
-ze	spille	10
 die	geschicht	10
 die	kenner	10
 vill	von	10
@@ -11111,6 +11218,7 @@ do	küss	10
 sind	mit	10
 der	eifel	10
 ze	losse	10
+de	zong	10
 ick	dann	10
 se	schon	10
 juhni	aan	10
@@ -11161,6 +11269,7 @@ e	mol	10
 damit	der	10
 den	herrgott	10
 von	anfang	10
+man	eine	10
 heimat	denk	10
 leeder	en	10
 nie	zo	10
@@ -11169,7 +11278,9 @@ se	emmer	10
 he	us	10
 nie	em	10
 zu	wenig	10
+das	wär	10
 bis	ze	10
+maria	un	10
 en	paus	10
 die	insel	10
 un	sujar	10
@@ -11222,13 +11333,13 @@ mäat	dem	10
 der	zweschenzeit	10
 de	stall	10
 nicht	genau	10
-dat	problem	10
 r	jesellschaff	10
 no	en	10
 vom	dorf	10
 einfach	alles	10
 woar	datt	10
 datt	woar	10
+die	alte	10
 dä	mech	10
 schon	ganz	10
 die	sprache	10
@@ -11239,6 +11350,7 @@ oos	der	10
 dä	drei	10
 äwwer	en	10
 hätt	vill	10
+nit	ahn	10
 nix	mi	10
 und	ohne	10
 jedes	mol	10
@@ -11268,7 +11380,6 @@ vu	de	10
 dom	zo	10
 zo	lang	10
 et	möt	10
-en	ihrem	10
 dürch	de	10
 mir	jo	10
 pack	et	10
@@ -11289,7 +11400,6 @@ pack	ich	10
 euch	nicht	10
 kommt	die	10
 und	isch	10
-von	zu	10
 und	is	10
 mit	zieng	10
 se	öm	10
@@ -11301,7 +11411,6 @@ e	deil	10
 cheimat	es	10
 uns	sehr	10
 geschichten	und	10
-noch	eins	10
 mett	demm	10
 hammer	de	10
 sie	war	10
@@ -11333,8 +11442,8 @@ kein	zick	10
 vum	ääzbischoff	10
 noh	singem	10
 viele	menschen	10
-träne	in	10
-ich	manchmol	10
+auge	loor	10
+loor	ich	10
 noch	zesamme	10
 gütt	ett	10
 un	quer	10
@@ -11385,6 +11494,7 @@ wat	ick	10
 bloß	dat	10
 die	schwatte	10
 der	gesellschaft	10
+am	abend	10
 ze	setze	10
 der	pastor	10
 maach	e	10
@@ -11405,6 +11515,7 @@ paar	tage	10
 sie	nach	10
 ist	mein	10
 gien	isch	10
+ich	konnt	10
 ich	om	10
 denn	ech	10
 nit	völl	10
@@ -11412,6 +11523,7 @@ mih	als	10
 um	et	10
 leever	jott	10
 de	ecke	10
+de	ädäppele	10
 net	emme	10
 jon	un	10
 glas	bier	10
@@ -11431,6 +11543,7 @@ eher	jüngere	10
 querbeat	dä	10
 fööss	reinhören	10
 mot	dam	10
+kölsche	en	10
 de	leppe	10
 et	jraav	10
 en	kier	10
@@ -11480,6 +11593,7 @@ dem	daach	10
 sinn	mir	10
 vor	einigen	10
 de	bee	10
+an	duur	10
 wikkis	erus	10
 et	woa	10
 doch	einfach	10
@@ -11573,6 +11687,7 @@ ist	etwas	10
 der	nächsten	10
 die	schoon	10
 me	vatte	10
+denke	an	10
 auf	etwas	10
 eben	nicht	10
 is	immer	10
@@ -11592,17 +11707,20 @@ eine	nacht	10
 et	wih	10
 et	ies	10
 kumm	bliev	10
+mol	ratinger	10
 un	nischt	10
 ihrem	mann	10
 käsch	kumm	10
 he	sinn	10
 nummer	zwei	10
 ich	alles	10
+g	em	10
 toni	steingass	10
 em	c	10
 datt	alles	10
 ja	äh	10
 unnere	gemäh	10
+wünsch	ich	10
 se	war	10
 un	machte	10
 geht	mir	10
@@ -11729,11 +11847,11 @@ von	enem	9
 e	bützje	9
 kritt	en	9
 fläsch	bier	9
-bier	en	9
 wör	noch	9
 jäjen	de	9
 de	masse	9
 aan	dämm	9
+bleib	ich	9
 ich	bis	9
 vöör	hör	9
 hä	vong	9
@@ -11811,7 +11929,6 @@ zo	ö	9
 nöhde	va	9
 d	zaahl	9
 d	oohre	9
-em	fernsehe	9
 van	dö	9
 donn	han	9
 ees	dat	9
@@ -11903,7 +12020,9 @@ de	schrievwies	9
 dat	kanns	9
 me	jo	9
 sons	nix	9
+weil	em	9
 keiner	mieh	9
+do	von	9
 woor	dä	9
 öm	all	9
 de	shprooch	9
@@ -11949,7 +12068,6 @@ eng	vun	9
 mr	kann	9
 et	projramm	9
 sisch	z	9
-z	se	9
 d	schweiz	9
 en	sproch	9
 lange	zick	9
@@ -11979,7 +12097,6 @@ ahn	et	9
 stöck	land	9
 fier	ze	9
 dö	hätt	9
-de	stroaßen	9
 vum	dörref	9
 un	äam	9
 de	äppel	9
@@ -12070,12 +12187,14 @@ un	dono	9
 z	wääde	9
 dr	mönsterbaach	9
 rhing	erop	9
+der	hatt	9
 sen	och	9
 jitt	ävver	9
 all	dänne	9
 janz	bestemmp	9
 fällt	mer	9
 den	blick	9
+heut	nacht	9
 man	weiß	9
 sich	selber	9
 de	alpe	9
@@ -12098,7 +12217,6 @@ des	johr	9
 mett	dänn	9
 et	schunn	9
 dich	he	9
-alles	em	9
 steiht	et	9
 jenau	dat	9
 wat	maache	9
@@ -12110,10 +12228,10 @@ die	ander	9
 doch	ganz	9
 nohm	ich	9
 oder	ich	9
+de	wies	9
 ooch	en	9
 em	süüde	9
 mood	hä	9
-öt	ön	9
 hat	mo	9
 de	möglichkeit	9
 koeln	domains	9
@@ -12132,6 +12250,7 @@ hand	dat	9
 hät	us	9
 die	luff	9
 de	opa	9
+er	hät	9
 richtig	en	9
 mit	alle	9
 op	te	9
@@ -12146,6 +12265,7 @@ sie	will	9
 jan	von	9
 lange	her	9
 han	met	9
+bei	allem	9
 do	ming	9
 ed	ess	9
 zu	sehn	9
@@ -12206,7 +12326,6 @@ dann	werd	9
 on	ganz	9
 r	janse	9
 oes	tse	9
-heë	hat	9
 en	vier	9
 dem	anderen	9
 on	bei	9
@@ -12311,7 +12430,6 @@ dan	och	9
 wohr	dat	9
 wall	och	9
 dat	denge	9
-sin	dann	9
 un	deshalb	9
 och	mir	9
 der	anner	9
@@ -12391,6 +12509,7 @@ uns	eine	9
 geschichte	und	9
 vör	en	9
 sesch	för	9
+ze	kriesche	9
 dann	kumme	9
 alles	besser	9
 dat	finster	9
@@ -12492,6 +12611,7 @@ die	über	9
 art	von	9
 ändert	sich	9
 vun	inne	9
+esu	aan	9
 vor	kurzem	9
 zum	anderen	9
 noch	weiter	9
@@ -12624,6 +12744,7 @@ ihr	leut	9
 bla	bla	9
 großes	fest	9
 die	antwort	9
+ze	spille	9
 der	wirtschaft	9
 doch	vill	9
 l	e	9
@@ -12631,8 +12752,8 @@ un	däh	9
 kamen	die	9
 so	wurde	9
 vor	uns	9
+könnt	ich	9
 botz	noch	9
-er	bis	9
 op	eimohl	9
 machst	du	9
 du	so	9
@@ -12653,7 +12774,6 @@ et	jingk	9
 ene	bleck	9
 hinger	uns	9
 vör	uns	9
-zo	müffele	9
 vr-bank	nordeifel	9
 isch	als	9
 ma	nich	9
@@ -12711,12 +12831,10 @@ dä	jet	9
 di	no	9
 wir	lassen	9
 ahle	platz	9
-das	wär	9
 eine	ganz	9
 singem	dud	9
 jejen	die	9
 name	vum	9
-maria	un	9
 de	la	9
 daach	op	9
 datt	hä	9
@@ -12779,6 +12897,7 @@ jrad	noch	9
 noch	äam	9
 äan	dem	9
 leet	sich	9
+dat	problem	9
 im	selben	9
 mal	der	9
 wenn	datt	9
@@ -12813,7 +12932,6 @@ wie	von	9
 you	do	9
 un	fuhr	9
 doch	wer	9
-et	allt	9
 se	dir	9
 op	jeder	9
 sollten	sie	9
@@ -12830,6 +12948,7 @@ so	zu	9
 d	turiste	9
 dat	ungernemme	9
 uns	produkte	9
+ha	mer	9
 wo	kann	9
 dat	jeng	9
 jemaht	un	9
@@ -12843,9 +12962,11 @@ der	bauer	9
 uns	mutter	9
 tirek	op	9
 über	einen	9
+do	weiß	9
 is	dr	9
 van	do	9
 ess	ett	9
+da	hätt	9
 jo	nitt	9
 van	denne	9
 im	april	9
@@ -12855,6 +12976,7 @@ für	sein	9
 inne	en	9
 villeich	es	9
 be	dä	9
+en	ihrem	9
 ist	natürlich	9
 well	dä	9
 am	laache	9
@@ -12868,6 +12990,7 @@ di	me	9
 se	ouch	9
 et	gött	9
 c	am	9
+von	zu	9
 wat	zu	9
 do	meinte	9
 danke	an	9
@@ -12894,6 +13017,7 @@ et	kapellche	9
 eesch	zick	9
 wie	singe	9
 wigger	noh	9
+noch	eins	9
 mit	ein	9
 die	franzosen	9
 en	sölz	9
@@ -12959,9 +13083,6 @@ hätt	in	9
 so	eene	9
 ald	an	9
 hans	knipp	9
-mit	träne	9
-auge	loor	9
-loor	ich	9
 und	gehen	9
 uns	noh	9
 do	widder	9
@@ -12978,6 +13099,7 @@ sie	doch	9
 nicht	alle	9
 glauben	an	9
 lieben	gott	9
+mit	träne	9
 ma	se	9
 mer	säht	9
 jän	ens	9
@@ -13029,6 +13151,7 @@ en	ehr	9
 doch	ne	9
 noch	vor	9
 sieht	es	9
+der	ferne	9
 und	dazu	9
 dir	und	9
 oder	es	9
@@ -13059,7 +13182,6 @@ em	urlaub	9
 dat	kleene	9
 ónn	de	9
 et	éss	9
-én	de	9
 also	wenn	9
 unn	su	9
 ach	du	9
@@ -13073,7 +13195,6 @@ nich	an	9
 e	krütz	9
 gehe	ich	9
 wohl	nicht	9
-der	saison	9
 der	köch	9
 leet	de	9
 public	domain	9
@@ -13126,6 +13247,7 @@ ma	ha	9
 schmitz	backes	9
 genau	an	9
 mich	es	9
+et	lis	9
 meister	hans	9
 adam	wrede	9
 ins	hochdeutsche	9
@@ -13227,7 +13349,6 @@ bald	wieder	9
 wann	jeiht	9
 wenn	nicht	9
 der	keller	9
-ihr	in	9
 er	kommt	9
 spaziergang	durch	9
 wer	da	9
@@ -13253,7 +13374,6 @@ der	nas	9
 de	hek	9
 r	droad	9
 woren	mer	9
-stroß	eat	9
 de	schohn	9
 wör	ich	9
 bis	e	9
@@ -13301,7 +13421,6 @@ de	ä	9
 die	ech	9
 s	c	9
 es	bald	9
-e	rt	9
 et	griet	9
 die	hitliste	9
 hitliste	und	9
@@ -13344,13 +13463,13 @@ r	doch	9
 wie	möglich	9
 homberjer	treff	9
 so	schlimm	9
+wat	sollt	9
 mer	freuen	9
 dem	titel	9
 en	koh	9
 moost	mer	9
 da	woar	9
 dat	korn	9
-mir	dun	9
 uns	ja	9
 froh	und	9
 r	ärm	9
@@ -13366,6 +13485,7 @@ wurde	und	9
 verliert	sich	9
 jupp	on	9
 met	dree	9
+her	by	9
 me	ous	9
 e	do	9
 jot	ävver	9
@@ -13546,7 +13666,7 @@ merk	me	8
 mache	un	8
 jenannt	weed	8
 damet	dat	8
-bleib	ich	8
+bier	en	8
 auf	euch	8
 heechd	dat	8
 bei	öt	8
@@ -13595,7 +13715,6 @@ wor	fott	8
 hand	d	8
 ä	afrika	8
 tösche	dr	8
-z	nämme	8
 sö	z	8
 wood	net	8
 homo	habilis	8
@@ -13641,6 +13760,7 @@ komm	noch	8
 di	dä	8
 op	dö	8
 mä	d	8
+em	fernsehe	8
 noch	enns	8
 ävver	spiir	8
 öm	so	8
@@ -13661,7 +13781,6 @@ dä	prinz	8
 bes	spät	8
 aan	en	8
 de	johrhunderte	8
-kriesche	un	8
 sechs	uhr	8
 langsam	op	8
 de	runde	8
@@ -13794,6 +13913,7 @@ eng	vum	8
 lääve	lang	8
 selver	nit	8
 jät	ze	8
+z	se	8
 ald	bösch	8
 veedel	vun	8
 paar	mond	8
@@ -13831,6 +13951,7 @@ mä	en	8
 bliff	äas	8
 ed	hot	8
 noch	kaum	8
+de	stroaßen	8
 wenn	henn	8
 zeit	nur	8
 dat	henn	8
@@ -13951,7 +14072,6 @@ dat	mich	8
 esu	ganz	8
 d	salomone	8
 koome	d	8
-t	e	8
 sollt	mer	8
 schon	em	8
 johre	schon	8
@@ -13975,6 +14095,8 @@ wohr	noch	8
 de	tante	8
 noch	keen	8
 anderen	seite	8
+als	noch	8
+alles	em	8
 alles	klor	8
 ze	verzälle	8
 wenn	uns	8
@@ -13996,6 +14118,7 @@ huus	met	8
 domet	a	8
 dat	süht	8
 noch	platt	8
+öt	ön	8
 dr	brand	8
 an	a	8
 kapott	jemaat	8
@@ -14024,7 +14147,6 @@ es	aus	8
 mir	us	8
 soll	jo	8
 jo	nur	8
-emmer	dat	8
 bovven	drop	8
 der	schönen	8
 er	seinen	8
@@ -14094,6 +14216,7 @@ eck	doch	8
 eck	die	8
 eck	well	8
 die	name	8
+heë	hat	8
 vür	däm	8
 uns	ald	8
 en	unsere	8
@@ -14101,7 +14224,6 @@ nun	ist	8
 hä	hatte	8
 nächsten	morjen	8
 de	doch	8
-doch	beim	8
 im	keller	8
 wer	hät	8
 jedem	haus	8
@@ -14235,9 +14357,11 @@ kölsche	karneval	8
 es	ä	8
 en	roll	8
 für	andere	8
+erzähl	ich	8
 minne	oppa	8
 de	küch	8
 dann	dem	8
+sin	dann	8
 von	wem	8
 dä	di	8
 meim	papp	8
@@ -14370,6 +14494,7 @@ tief	in	8
 numburjer	land	8
 mol	mit	8
 weit	un	8
+in	n	8
 dr	boohm	8
 der	feder	8
 hätz	om	8
@@ -14551,7 +14676,6 @@ sie	um	8
 und	seele	8
 wäsche	un	8
 ze	müffele	8
-müffele	un	8
 och	sage	8
 das	schöne	8
 das	im	8
@@ -14575,7 +14699,6 @@ och	mih	8
 zigg	nit	8
 jo	em	8
 es	god	8
-gut	wie	8
 mark	an	8
 widder	bubbelwasser	8
 bubbelwasser	jedrunke	8
@@ -14681,6 +14804,7 @@ jeiht	dat	8
 vum	land	8
 mich	ahn	8
 en	ding	8
+zo	müffele	8
 so	von	8
 is	dit	8
 dieser	text	8
@@ -14792,6 +14916,7 @@ hätt	er	8
 die	knoche	8
 dich	su	8
 in	mingem	8
+lieb	dich	8
 balduin	va	8
 dr	rhing	8
 dat	linux	8
@@ -14849,7 +14974,6 @@ de	eene	8
 opp	dänn	8
 ohne	de	8
 üch	ens	8
-kunnt	dat	8
 kurz	un	8
 dej	hun	8
 um	enn	8
@@ -14887,6 +15011,7 @@ un	aus	8
 dem	rad	8
 hier	können	8
 erinnerungen	an	8
+un	jesunge	8
 hät	domols	8
 met	vell	8
 denen	die	8
@@ -14924,6 +15049,7 @@ hoor	un	8
 un	voll	8
 sich	hinger	8
 oder	schneit	8
+et	allt	8
 mir	zo	8
 kann	datt	8
 der	johann	8
@@ -14984,7 +15110,6 @@ et	dr	8
 hier	zum	8
 e	veedel	8
 immer	wor	8
-alles	hat	8
 de	bross	8
 sech	he	8
 nehme	ich	8
@@ -15001,7 +15126,6 @@ die	kääls	8
 im	januar	8
 schon	sehr	8
 ed	éss	8
-ä	ge	8
 en	tiit	8
 tusje	de	8
 kannst	nicht	8
@@ -15144,7 +15268,6 @@ kommt	er	8
 geschenk	für	8
 r	auge	8
 mer	jon	8
-ding	mama	8
 einem	jahr	8
 schon	ein	8
 die	party	8
@@ -15263,6 +15386,7 @@ och	nie	8
 dä	manni	8
 schöner	als	8
 et	jede	8
+der	saison	8
 sing	auge	8
 dat	ming	8
 nix	vun	8
@@ -15270,7 +15394,6 @@ ejal	woher	8
 wenn	dau	8
 säan	de	8
 mir	woaren	8
-wieder	für	8
 in	fischeln	8
 und	vielen	8
 de	dech	8
@@ -15358,6 +15481,7 @@ r	mónk	8
 esch	met	8
 haus	zu	8
 ratinger	sekt	8
+schon	e	8
 mer	sind	8
 uhr	hammer	8
 dr	wilfried	8
@@ -15484,6 +15608,7 @@ ihn	zu	8
 platz	in	8
 un	gar	8
 jetzt	mal	8
+ihr	in	8
 ze	sorje	8
 einmal	in	8
 der	park	8
@@ -15515,7 +15640,6 @@ de	vrauw	8
 r	tieën	8
 bis	er	8
 nach	rom	8
-ons	en	8
 liebe	alles	8
 was	ihr	8
 r	dür	8
@@ -15541,7 +15665,6 @@ de	ärbet	8
 et	jeseech	8
 und	davon	8
 och	mit	8
-ze	kalt	8
 die	soldate	8
 wie	däe	8
 wann	eene	8
@@ -15643,9 +15766,9 @@ fooss	noh	8
 em	ratinger	8
 ratinger	brauhuus	8
 monkartowend	em	8
-wat	sollt	8
 uus	dem	8
 kom	mer	8
+mir	dun	8
 henn	äan	8
 et	wo'er	8
 on	wi	8
@@ -15786,7 +15909,6 @@ ne	geschichte	8
 dr	mazath	8
 das	well	8
 hann	eich	8
-die	saison	8
 woar	ja	8
 däät	henn	8
 höhner	mer	8
@@ -15935,7 +16057,6 @@ me	sitt	7
 ess	am	7
 met	ne	7
 nor	bei	7
-met	fründe	7
 ess	nit	7
 dä	neu	7
 d	anger	7
@@ -15975,7 +16096,6 @@ bei	et	7
 er	e	7
 der	der	7
 der	deck	7
-wor	on	7
 noch	kenn	7
 beij	dat	7
 sammele	un	7
@@ -15984,7 +16104,7 @@ homo	sapiens	7
 litt	tösche	7
 mi	ösu	7
 un	deere	7
-dann	wood	7
+z	nämme	7
 sisch	vörstelle	7
 ongerscheed	sisch	7
 häm	no	7
@@ -16004,6 +16124,7 @@ do	öt	7
 lang	hä	7
 am	em	7
 kei	jeld	7
+kümmer	dich	7
 naam	va	7
 di	ställ	7
 dr	rest	7
@@ -16051,6 +16172,7 @@ doh	nit	7
 dat	will	7
 vun	meer	7
 oma	en	7
+kriesche	un	7
 nit	zum	7
 öm	sechs	7
 un	domit	7
@@ -16113,6 +16235,7 @@ vill	mie	7
 mie	als	7
 in	kontakt	7
 lese	un	7
+et	end	7
 en	afrika	7
 zahl	vun	7
 vöör	dat	7
@@ -16161,7 +16284,6 @@ op	ehr	7
 su	kumme	7
 kumme	moot	7
 merk	ich	7
-do	von	7
 woor	dat	7
 ze	wääde	7
 dat	völl	7
@@ -16209,7 +16331,6 @@ häm	z	7
 häm	un	7
 ens	övver	7
 d	jeschichte	7
-ode	an	7
 ös	en	7
 neue	welt	7
 koffer	un	7
@@ -16297,7 +16418,6 @@ wänn	datt	7
 unn	wohr	7
 te	dauen	7
 on	een	7
-do	hod	7
 wode	woch	7
 dörch	z	7
 troff	hä	7
@@ -16390,6 +16510,7 @@ es	wärm	7
 maache	dat	7
 et	kalt	7
 zick	och	7
+t	e	7
 nach	all	7
 sollte	man	7
 das	gefühl	7
@@ -16486,12 +16607,12 @@ zwei	mann	7
 ruck	zuck	7
 ihr	lewe	7
 kütt	öt	7
+emmer	dat	7
 zusammen	und	7
 sich	etwas	7
 der	ihr	7
 wer	du	7
 ich	suche	7
-er	und	7
 und	setzt	7
 hä	noh	7
 soß	hä	7
@@ -16575,6 +16696,7 @@ met	andere	7
 am	samstag	7
 euch	mol	7
 mol	an	7
+doch	beim	7
 ich	sahn	7
 nä	dat	7
 wur	och	7
@@ -16592,6 +16714,7 @@ dä	ganzen	7
 langem	hin	7
 die	rechnung	7
 alles	parat	7
+un	schwer	7
 hück	ess	7
 kennt	se	7
 doch	besser	7
@@ -16612,6 +16735,7 @@ nur	dann	7
 fall	es	7
 määt	dat	7
 se	dunn	7
+weed	e	7
 sin	es	7
 jedem	kölsche	7
 zo	laache	7
@@ -16856,7 +16980,6 @@ setz	dich	7
 ze	wäde	7
 nit	erus	7
 steit	et	7
-omma	selech	7
 va	virginia	7
 die	wohl	7
 sich	des	7
@@ -16889,7 +17012,6 @@ den	garten	7
 is	das	7
 hot	von	7
 ver	de	7
-in	n	7
 der	hät	7
 bin	auch	7
 das	von	7
@@ -16956,9 +17078,7 @@ tön	un	7
 ovend	zo	7
 sinn	doch	7
 die	fremde	7
-zo	demm	7
 óch	de	7
-ze	zunt	7
 in	ing	7
 de	eppel	7
 man	mich	7
@@ -17043,8 +17163,6 @@ minsche	us	7
 dat	vür	7
 enem	kleine	7
 wie	heute	7
-alter	markt	7
-wir	waren	7
 zum	einen	7
 jetzt	so	7
 im	fernsehen	7
@@ -17054,6 +17172,7 @@ die	kneipe	7
 ich	dem	7
 direkt	in	7
 do	ald	7
+do	steihs	7
 noch	viele	7
 ömm	die	7
 do	maache	7
@@ -17117,6 +17236,7 @@ im	radio	7
 menschen	mit	7
 dat	off	7
 vum	aale	7
+müffele	un	7
 mer	god	7
 nun	schon	7
 hatte	und	7
@@ -17141,6 +17261,7 @@ freud	maache	7
 einfach	esu	7
 wat	wells	7
 vängt	moch	7
+gut	wie	7
 ihm	de	7
 süht	us	7
 mai	aan	7
@@ -17261,7 +17382,6 @@ der	ess	7
 den	tisch	7
 haben	den	7
 weg	zum	7
-anfang	der	7
 eezte	mohl	7
 de	letste	7
 jenou	esu	7
@@ -17443,6 +17563,7 @@ the	translation	7
 di	schprohch	7
 es	fass	7
 du	weiß	7
+ich	lieb	7
 för	dem	7
 de	linus	7
 et	zu	7
@@ -17504,13 +17625,13 @@ saat	hä	7
 köln	oder	7
 lange	film	7
 d	ziegfeld	7
+kunnt	dat	7
 se	vür	7
 ze	lossen	7
 em	ze	7
 e	bessi	7
 ed	ganz	7
 fier	denn	7
-wähde	en	7
 jan	wellem	7
 wie	emmer	7
 on	ob	7
@@ -17528,7 +17649,6 @@ on	janz	7
 de	blare	7
 se	dobei	7
 äwer	dä	7
-widder	janz	7
 wat	säht	7
 hann	doch	7
 ech	dä	7
@@ -17650,6 +17770,7 @@ in	klle	7
 nit	genau	7
 gebore	weed	7
 un	geiht	7
+alles	hat	7
 satt	on	7
 donn	dat	7
 künnt	sich	7
@@ -17687,6 +17808,7 @@ der	muul	7
 sin	ich	7
 die	spanier	7
 schon	vor	7
+er	bis	7
 und	dieser	7
 gebore	un	7
 nohm	zweite	7
@@ -17787,6 +17909,7 @@ evvens	die	7
 zint	maria	7
 üvver	e	7
 all	öm	7
+sollt	dat	7
 un	süht	7
 einer	an	7
 nennt	man	7
@@ -17801,8 +17924,6 @@ den	meisten	7
 kaufen	bei	7
 to	your	7
 naach	met	7
-fingk	en	7
-kannß	de	7
 dann	jingk	7
 noh	e	7
 der	historie	7
@@ -17891,6 +18012,7 @@ dat	joar	7
 angisch	als	7
 als	sich	7
 di	kenger	7
+ni	mieh	7
 wir	gerne	7
 haben	das	7
 gemacht	und	7
@@ -18036,6 +18158,7 @@ letzten	mal	7
 schäng	blasius	7
 blasius	flönz	7
 flönz	rakete	7
+wieder	für	7
 gern	mit	7
 oder	dä	7
 immer	für	7
@@ -18088,7 +18211,6 @@ do	süht	7
 un	eesch	7
 nu	woar	7
 dös	auto	7
-n	de	7
 im	wind	7
 dobei	en	7
 hürt	et	7
@@ -18271,7 +18393,6 @@ de	dokter	7
 heißt	der	7
 platt	gesprochen	7
 vum	translatewiki	7
-denn	jetz	7
 de	jemeend	7
 em	kreech	7
 ne	minsch	7
@@ -18334,7 +18455,6 @@ dä	döres	7
 mih	es	7
 berjische	löw	7
 r	dä	7
-doch	bahl	7
 die	spannung	7
 r	o	7
 vür	mech	7
@@ -18404,6 +18524,7 @@ is	ze	7
 ze	hant	7
 och	bal	7
 mih	lück	7
+ons	en	7
 zick	anita	7
 kommentare	bye	7
 de	miehste	7
@@ -18418,7 +18539,6 @@ de	brell	7
 bis	ne	7
 hätz	am	7
 am	rechte	7
-noch	nix	7
 de	kaffee	7
 in	valbert	7
 nu	in	7
@@ -18429,6 +18549,7 @@ et	üvverall	7
 een	oder	7
 em	denge	7
 ze	verliere	7
+ich	hür	7
 et	halt	7
 sühste	do	7
 teil	der	7
@@ -18443,6 +18564,7 @@ wo	höck	7
 sesch	net	7
 et	müjjelesch	7
 von	ihrem	7
+ze	kalt	7
 woe	dumols	7
 hatte	jo	7
 mie	su	7
@@ -18473,7 +18595,6 @@ hammer	dann	7
 mir	sind	7
 eck	mi	7
 ihr	jetzt	7
-und	stellt	7
 einfach	auf	7
 oder	eben	7
 de	moppe	7
@@ -18514,6 +18635,7 @@ von	verdun	7
 kann	auch	7
 arbeide	un	7
 konnten	die	7
+steht	er	7
 heimat	un	7
 dä	dokter	7
 dr	angere	7
@@ -18583,7 +18705,6 @@ ein	guter	7
 sich	zwei	7
 de	fall	7
 sondern	nur	7
-ehr	mich	7
 zeröcknämmer	en	7
 och	paar	7
 aber	am	7
@@ -18623,7 +18744,7 @@ dat	hier	7
 jet	nöher	7
 und	seit	7
 marita	dohmen	7
-jon	mer	7
+ich	sag	7
 et	knee	7
 ganz	secher	7
 dor	helmut	7
@@ -18746,6 +18867,7 @@ muss	der	7
 was	bedeutet	7
 dom	und	7
 dr	lu	7
+em	h	7
 un	bi	7
 hot	disse	7
 nach	dm	7
@@ -18868,10 +18990,10 @@ augebleck	bella	7
 iwigkeit	gut	7
 kommentar	schwimmbutz	7
 mä	de	7
+die	saison	7
 jetz	janz	7
 dat	deht	7
 de	keus	7
-hs	de	7
 das	hänneschen	7
 van	ose	7
 hier	aus	7
@@ -18941,7 +19063,6 @@ ech	dr	7
 sie	schlug	7
 hodd	dä	7
 on	said	7
-send	ers	7
 di	lüüt	7
 ech	häuw	7
 di	laub	7
@@ -19076,6 +19197,7 @@ di	alt	6
 vill	loss	6
 ene	kleene	6
 me	met	6
+met	fründe	6
 och	maache	6
 aatikkel	övver	6
 den	tod	6
@@ -19152,6 +19274,7 @@ desch	ze	6
 einer	hand	6
 ihr	net	6
 daach	hann	6
+wor	on	6
 op	ihrem	6
 sisch	öt	6
 lääve	z	6
@@ -19161,6 +19284,7 @@ net	beij	6
 övv	sö	6
 sö	at	6
 och	a	6
+dann	wood	6
 kräät	d	6
 storv	em	6
 us	dö	6
@@ -19189,7 +19313,6 @@ un	sprich	6
 un	kümmer	6
 einer	zo	6
 anderes	als	6
-e	en	6
 litt	och	6
 wä	öns	6
 di	he	6
@@ -19302,7 +19425,6 @@ en	zahl	6
 buure	un	6
 et	hüüdije	6
 vöör	de	6
-e	joore	6
 de	een	6
 et	koome	6
 vun	andere	6
@@ -19415,6 +19537,7 @@ wenn	us	6
 janz	eng	6
 oohne	de	6
 nennt	me	6
+in	där	6
 alle	andere	6
 märr	bloß	6
 dann	wohr	6
@@ -19443,7 +19566,6 @@ de	schprohche	6
 ald	vun	6
 aanfang	aan	6
 öt	manneken	6
-manneken	pis	6
 öt	schauspelle	6
 un	at	6
 di	roll	6
@@ -19513,6 +19635,7 @@ awer	en	6
 ganz	brav	6
 vun	vill	6
 denn	vun	6
+nie	e	6
 woar	dej	6
 zur	oma	6
 ob	ed	6
@@ -19550,6 +19673,7 @@ wood	spiir	6
 enn	dämm	6
 noch	draan	6
 dann	ok	6
+do	hod	6
 önö	jüdd	6
 vorloor	hä	6
 siel	un	6
@@ -19603,7 +19727,6 @@ no	moskau	6
 öm	sesch	6
 die	mott	6
 he	net	6
-et	jövv	6
 die	lü	6
 kennt	die	6
 dat	unger	6
@@ -19749,6 +19872,7 @@ ad	lang	6
 johr	und	6
 im	fasteleer	6
 s	schon	6
+s	wär	6
 ne	lange	6
 wor	halt	6
 du	warst	6
@@ -19762,10 +19886,10 @@ en	wie	6
 d	demokrate	6
 wood	hör	6
 d	staate	6
-als	lang	6
 vreuer	ön	6
 name	von	6
 am	augustinerplatz	6
+wollt	de	6
 huus	us	6
 fruh	sin	6
 en	halw	6
@@ -19788,7 +19912,6 @@ hod	d	6
 beede	länder	6
 als	och	6
 van	öm	6
-us	all	6
 öm	och	6
 komme	es	6
 di	hodde	6
@@ -19828,6 +19951,7 @@ keiner	vun	6
 macht	ihr	6
 einen	mann	6
 ins	land	6
+er	und	6
 sehr	lange	6
 ich	deer	6
 säht	zo	6
@@ -19951,6 +20075,7 @@ und	musik	6
 denn	e	6
 e	deel	6
 der	hott	6
+treck	dich	6
 dat	lied	6
 tage	lang	6
 em	jepäck	6
@@ -20063,7 +20188,6 @@ zo	schad	6
 beim	danze	6
 och	möt	6
 du	kress	6
-die	fenster	6
 fö	jewöönlesch	6
 zwesche	em	6
 en	ennem	6
@@ -20144,7 +20268,6 @@ dä	wääsch	6
 dom	noch	6
 dr	jlaube	6
 nävver	öt	6
-m	huh	6
 das	fort	6
 rahme	vun	6
 fritz	encke	6
@@ -20169,7 +20292,6 @@ sin	kein	6
 an	üch	6
 jetz	för	6
 mol	jet	6
-däm	klei	6
 denne	de	6
 unsere	stadt	6
 auf	all	6
@@ -20202,7 +20324,6 @@ vom	lehrer	6
 der	heiligen	6
 wääch	un	6
 se	um	6
-danke	wa	6
 i	de	6
 alle	anderen	6
 di	jüdde	6
@@ -20249,7 +20370,6 @@ ad	ens	6
 on	nohm	6
 de	drette	6
 füe	ze	6
-dat	konnt	6
 der	ehemalige	6
 russ	us	6
 e	problehm	6
@@ -20263,13 +20383,13 @@ als	met	6
 mir	jecke	6
 die	stroße	6
 jedem	saal	6
-e	die	6
 de	ens	6
 otto	von	6
 et	chreskenk	6
 wat	domet	6
 ze	waade	6
 no	ens	6
+omma	selech	6
 äwer	de	6
 unge	de	6
 koot	un	6
@@ -20296,7 +20416,6 @@ jetzt	hier	6
 die	entwicklung	6
 uf	dm	6
 alle	gesehn	6
-zu	sehr	6
 sicheren	quellen	6
 ins	sichedippen	6
 hä	wird	6
@@ -20307,6 +20426,7 @@ wird	dr	6
 dr	merten	6
 vor	dr	6
 sich	n	6
+em	in	6
 net	dr	6
 däm	öt	6
 es	könnte	6
@@ -20398,9 +20518,11 @@ nit	nemme	6
 wat	bes	6
 jet	loß	6
 jetz	dat	6
+zo	demm	6
 möht	ich	6
 jekumme	es	6
 bes	em	6
+ze	zunt	6
 ze	oes	6
 et	schingk	6
 ich	rufe	6
@@ -20419,7 +20541,6 @@ länger	als	6
 hück	jet	6
 drop	jewaat	6
 die	woche	6
-hück	naach	6
 sind	im	6
 frähn	uns	6
 die	erscht	6
@@ -20508,6 +20629,7 @@ op	fastelovend	6
 däm	aale	6
 vun	fröher	6
 ja	das	6
+alter	markt	6
 aber	vor	6
 schon	für	6
 als	früher	6
@@ -20517,6 +20639,7 @@ in	sülz	6
 einer	großen	6
 do	enne	6
 all	janz	6
+dich	jetz	6
 de	weckschnapp	6
 gleich	die	6
 kritt	dat	6
@@ -20560,7 +20683,6 @@ e	denkmol	6
 lang	nix	6
 ze	wigg	6
 beim	fc	6
-mer	om	6
 et	rodhuus	6
 der	sommer	6
 mer	wöre	6
@@ -20620,7 +20742,6 @@ send	doch	6
 befand	sich	6
 freunde	der	6
 hat	nichts	6
-lang	hück	6
 eine	brücke	6
 liegt	auf	6
 sind	immer	6
@@ -20774,7 +20895,6 @@ hast	ja	6
 die	schul	6
 dem	stall	6
 dem	lade	6
-fer	en	6
 haut	noch	6
 eich	bei	6
 mäi	modder	6
@@ -20786,10 +20906,10 @@ ess	su	6
 et	ganz	6
 wie	gold	6
 ess	net	6
-kann	eich	6
 um	dat	6
 nu	kom	6
 bei	mer	6
+anfang	der	6
 das	heute	6
 zu	setzen	6
 die	stemm	6
@@ -20922,7 +21042,6 @@ t	ess	6
 un	trok	6
 wör	hä	6
 wat	häs	6
-dir	nit	6
 mer	liere	6
 zo	schrieve	6
 em	spidol	6
@@ -20933,7 +21052,6 @@ et	manchmol	6
 es	singe	6
 weede	en	6
 üvverall	en	6
-nit	vum	6
 zigg	es	6
 em	op	6
 mih	us	6
@@ -21019,7 +21137,6 @@ dat	treffe	6
 dät	die	6
 dätt	hä	6
 dä	will	6
-in	denne	6
 woren	op	6
 doch	zo	6
 do	wunne	6
@@ -21095,6 +21212,7 @@ nevve	dä	6
 ett	wohr	6
 noch	vell	6
 sich	vum	6
+hatt	esch	6
 esch	noch	6
 huh	ze	6
 on	vill	6
@@ -21119,6 +21237,7 @@ und	vun	6
 döö	säan	6
 hun	ed	6
 äng	vom	6
+wähde	en	6
 kleen	on	6
 de	düssel	6
 öwer	dat	6
@@ -21142,6 +21261,7 @@ jet	vom	6
 ech	all	6
 von	sech	6
 papp	hät	6
+widder	janz	6
 met	so'nem	6
 verstonn	könne	6
 mech	nu	6
@@ -21164,6 +21284,7 @@ is	natürlich	6
 und	tun	6
 ja	jetz	6
 viele	von	6
+wir	waren	6
 mir	persönlich	6
 aba	wat	6
 wir	ham	6
@@ -21268,7 +21389,6 @@ dä	heilije	6
 ald	drei	6
 er	su	6
 er	widder	6
-vür	johre	6
 hatt	dann	6
 zom	nächste	6
 auf	seinen	6
@@ -21308,7 +21428,6 @@ och	schnell	6
 johr	immer	6
 en	bes	6
 mer	richtig	6
-vür	die	6
 frau	hät	6
 halve	stond	6
 ne	jrueße	6
@@ -21445,6 +21564,7 @@ der	ehemaligen	6
 alle	haben	6
 wellem	kaesen	6
 handel	met	6
+er	un	6
 noch	fünf	6
 ens	vör	6
 seit	wochen	6
@@ -21476,7 +21596,6 @@ on	kütt	6
 sö	häm	6
 a	häm	6
 die	spd	6
-süffele	un	6
 ümm	de	6
 mett	der	6
 die	fläsche	6
@@ -21582,6 +21701,7 @@ dä	hellije	6
 dem	sofa	6
 die	beste	6
 su	witt	6
+kannß	de	6
 et	rääsch	6
 einer	för	6
 dobei	hatt	6
@@ -21591,7 +21711,6 @@ ze	saare	6
 määt	de	6
 wat	ens	6
 graf	vun	6
-un	hoffe	6
 zick	ze	6
 kann	eck	6
 leute	zu	6
@@ -21601,6 +21720,7 @@ eck	nich	6
 noch	emoal	6
 schon	dä	6
 künne	die	6
+fingk	en	6
 mr	se	6
 uch	janz	6
 jet	suffe	6
@@ -21698,6 +21818,7 @@ welt	jitt	6
 kölle	stonn	6
 kommentare	schenk	6
 machen	und	6
+stonn	uns	6
 vun	nix	6
 ein	zweites	6
 müllemer	böötche	6
@@ -21768,7 +21889,6 @@ den	e'ihm	6
 et	dach	6
 schunn	de	6
 ganz	lang	6
-met	derm	6
 da	herr	6
 emstänne	on	6
 s	maria	6
@@ -21830,7 +21950,6 @@ fc	un	6
 secher	sin	6
 in	nit	6
 sich	nämlich	6
-nu	ess	6
 so	schwer	6
 stolz	auf	6
 vell	freud	6
@@ -21883,7 +22002,6 @@ die	messe	6
 dat	luuter	6
 en	boor	6
 hä	hodd	6
-im	bette	6
 levve	vun	6
 imma	wieda	6
 zeit	von	6
@@ -22003,13 +22121,13 @@ mer	kennt	6
 noh	düsseldorf	6
 programm	för	6
 wos	ä	6
-me	hot	6
 su	gut	6
 hot	nä	6
 is	ölles	6
 euch	heit	6
 ä	schö	6
 a	boar	6
+n	de	6
 öb	sä	6
 zo	dämm	6
 him	de	6
@@ -22101,6 +22219,7 @@ kies	oder	6
 sind	am	6
 ins	gesicht	6
 freude	machen	6
+freud	und	6
 die	joode	6
 mäht	se	6
 ganz	normal	6
@@ -22203,7 +22322,6 @@ dr	russische	6
 watt	am	6
 t	ich	6
 jing	ich	6
-schwaade	un	6
 in	unser	6
 die	milch	6
 dat	esse	6
@@ -22283,6 +22401,7 @@ schprohche	un	6
 de	öffentleschkeit	6
 mih	de	6
 sen	op	6
+denn	jetz	6
 von	ihren	6
 beste	was	6
 dat	läddche	6
@@ -22374,6 +22493,7 @@ vör	dä	6
 leedcher	vun	6
 de	zukunft	6
 war	nich	6
+doch	bahl	6
 nit	drüvver	6
 r	b	6
 dä	kunnt	6
@@ -22471,13 +22591,11 @@ et	wierd	6
 nog	ee	6
 heë	is	6
 r	jan	6
-de	kas	6
 de	klas	6
 heë	ziech	6
 kölsch	ze	6
 lot	mar	6
 ahl	die	6
-denn	an	6
 of	em	6
 hand	on	6
 die	ziet	6
@@ -22494,7 +22612,6 @@ r	nöl	6
 kölsche	funke	6
 et	hutel	6
 am	nökste	6
-all	zu	6
 un	unsere	6
 dann	vum	6
 hieß	et	6
@@ -22505,12 +22622,12 @@ se	jrad	6
 wilhelm	tell	6
 dat	schlemmste	6
 dann	schnell	6
-der	arme	6
 ich	drop	6
 kummen	se	6
 sujar	dä	6
 e	orjenal	6
 der	website	6
+noch	nix	6
 mer	kenne	6
 hä	ess	6
 ech	kaan	6
@@ -22531,7 +22648,6 @@ halt	su	6
 geschrieben	hat	6
 zu	kaufen	6
 de	sonne	6
-hawwich	mich	6
 so	bin	6
 un	ließ	6
 sehen	kann	6
@@ -22553,7 +22669,6 @@ hier	den	6
 da	mit	6
 wie	vür	6
 über	alles	6
-un	wänn	6
 manchmal	auch	6
 äwwe	ne	6
 äwwe	och	6
@@ -22610,6 +22725,7 @@ mit	sinn	6
 dir	nicht	6
 mich	ist	6
 das	können	6
+und	stellt	6
 jeder	noch	6
 lasst	mich	6
 das	höchste	6
@@ -22712,7 +22828,6 @@ die	kinner	6
 is	me	6
 will	me	6
 ließ	hä	6
-is	jetz	6
 mer	so	6
 mer	kunnte	6
 you	need	6
@@ -22754,7 +22869,6 @@ ich	woe	6
 do	woere	6
 die	haan	6
 moot	me	6
-däe	schoomäche	6
 woeren	die	6
 en	osse	6
 meng	motte	6
@@ -22769,6 +22883,7 @@ mir	janz	6
 am	meiste	6
 de	fabrik	6
 on	vom	6
+ehr	mich	6
 bevor	er	6
 man	schnell	6
 in	kauf	6
@@ -22802,7 +22917,6 @@ ich	etwas	6
 werner	overstolz	6
 un	jon	6
 jeck	is	6
-es	werd	6
 hatten	wer	6
 em	garden	6
 hatten	sech	6
@@ -22830,6 +22944,7 @@ mer	wulle	6
 et	marita	6
 da	wir	6
 üvver	dr	6
+jon	mer	6
 etwas	auf	6
 ihm	eine	6
 von	weitem	6
@@ -22888,6 +23003,7 @@ pitter	op	6
 gekommen	ist	6
 n	nurren	6
 nu	well	6
+das	sahr	6
 au	ne	6
 die	anneren	6
 nit	gelohren	6
@@ -22972,6 +23088,7 @@ als	letzte	6
 anders	kann	6
 diese	stadt	6
 junge	frau	6
+ich	dr	6
 se	kenne	6
 mich	jrad	6
 ohm	hein	6
@@ -23015,7 +23132,6 @@ an	ner	6
 an	ihr	6
 un	warf	6
 und	wollte	6
-nicht	besonders	6
 ihr	müsst	6
 man	fühlt	6
 hatte	sie	6
@@ -23034,7 +23150,6 @@ tanzen	und	6
 kölsche	texte	6
 dom	un	6
 en	boom	6
-em	h	6
 unger	dr	6
 sich	gleich	6
 un	disse	6
@@ -23088,6 +23203,7 @@ merr	en	6
 stonn	de	6
 et	klärchje	6
 wichtig	es	6
+meine	liebe	6
 stadt	nazareth	6
 kaan	ech	6
 mit	kölsch	6
@@ -23120,6 +23236,7 @@ war	awer	6
 dach	met	6
 dr	hund	6
 awer	nich	6
+fär	mich	6
 awer	au	6
 dr	ganzen	6
 waenn	me	6
@@ -23202,7 +23319,6 @@ die	ahlen	6
 erwähn	ich	6
 bis	zwei	6
 dr	wolfgang	6
-jährigen	jubiläum	6
 dann	luure	6
 t	ieëtsjte	6
 de	günter	6
@@ -23212,7 +23328,6 @@ en	son	6
 van	jott	6
 dech	net	6
 dat	kenk	6
-dann	hs	6
 in	lindlar	6
 eng	und	6
 lotti	krekel	6
@@ -23299,7 +23414,6 @@ en	lenkler	6
 du	jehü	6
 säh	hon	6
 dr	gerhard	6
-fis	m	6
 widder	huusmeister	6
 piraten	sind	6
 frei	text	6
@@ -23344,10 +23458,8 @@ golpear	show	6
 english	hit	6
 hit	show	6
 kölsch	fottdöüje	6
-woar	enne	6
 dat	jong	6
 nei	die	6
-ping	eat	6
 sie	jetzt	6
 jätt	op	6
 em	wönkter	6
@@ -23356,13 +23468,11 @@ net	dös	6
 jetz	uff	6
 däe	annere	6
 vörr	dr	6
-million	ahle	6
 der	decksteiner	6
 vun	si	6
 jan	stemmeler	6
 chressmett	op	6
 deiht	sakkokolonia	6
-á	la	6
 la	suite	6
 er	noh	6
 mit	ee	6
@@ -23389,11 +23499,9 @@ ech	modd	6
 m	theater	6
 bej	drickes	6
 demm	johannes	6
-freu	misch	6
 oos	motte	6
 ming	gitta	6
 di	latze	6
-ert	en	6
 am	e	6
 kräät	dr	5
 naam	no	5
@@ -23477,7 +23585,6 @@ ene	daach	5
 ene	oot	5
 fott	em	5
 fun	enem	5
-em	hillije	5
 jehood	zo	5
 woch	vöör	5
 dr	holocaus	5
@@ -23509,7 +23616,6 @@ unn	da	5
 ußß	dä	5
 doohter	va	5
 zwar	ä	5
-iih	sö	5
 dö	famelisch	5
 un	henger	5
 d	bökanndste	5
@@ -23578,7 +23684,6 @@ jehüüre	d	5
 se	hodde	5
 send	at	5
 hä	zwei	5
-ö	jooh	5
 hä	solld	5
 solld	dr	5
 famelisch	va	5
@@ -23675,6 +23780,7 @@ keiner	süht	5
 einer	met	5
 en	einfach	5
 allein	zu	5
+e	en	5
 do	häß	5
 beß	do	5
 döck	vöör	5
@@ -23834,7 +23940,6 @@ dä	joode	5
 se	sisch	5
 se	fröher	5
 dä	böjreff	5
-mi	z	5
 dann	send	5
 minütte	lange	5
 oder	esu	5
@@ -24027,7 +24132,6 @@ en	nöü	5
 mi	do	5
 et	passiere	5
 ze	sehe	5
-in	där	5
 bliev	ene	5
 de	veenuß	5
 der	früh	5
@@ -24118,7 +24222,6 @@ un	wolle	5
 mih	an	5
 wie	wiet	5
 soch	hä	5
-no	drei	5
 förr	änn	5
 jät	övver	5
 nur	kölsche	5
@@ -24175,7 +24278,6 @@ ganz	zeit	5
 un	zoù	5
 äam	zollhaus	5
 dat	hun	5
-ää	moal	5
 poar	joahr	5
 wenn	dej	5
 mäat	seim	5
@@ -24290,6 +24392,7 @@ wiener	kongress	5
 stadt	zo	5
 d	huchschüll	5
 dr	handel	5
+et	jövv	5
 do	sitt	5
 die	un	5
 witt	et	5
@@ -24462,7 +24565,6 @@ dir	jot	5
 he	bes	5
 noch	he	5
 im	lot	5
-mir	sin	5
 jecke	süht	5
 süht	mr	5
 jeht	es	5
@@ -24488,9 +24590,9 @@ joov	ävver	5
 rääte	van	5
 vraue	un	5
 vrau	va	5
+als	lang	5
 dat	bewerbungsverjöcke	5
 d	partei	5
-d	ddr	5
 ehr	die	5
 oche	un	5
 all	van	5
@@ -24533,6 +24635,7 @@ komm	un	5
 zeechde	sisch	5
 d	länder	5
 mai	un	5
+us	all	5
 un	richtung	5
 vong	ön	5
 ävver	mi	5
@@ -24554,6 +24657,7 @@ der	tiet	5
 hant	us	5
 un	hätz	5
 ich	jeboore	5
+nur	he	5
 mar	et	5
 ganz	kalker	5
 de	ronde	5
@@ -24567,7 +24671,6 @@ es	vör	5
 dann	mot	5
 all	dij	5
 doch	kloor	5
-der	kich	5
 ze	san	5
 wor	es	5
 su	hatten	5
@@ -24577,12 +24680,12 @@ dem	finster	5
 de	flammen	5
 die	komen	5
 dat	fir	5
+en	si	5
 un	onkel	5
 och	dörch	5
 der	luff	5
 fung	ich	5
 der	bekanntesten	5
-er	über	5
 einen	eigenen	5
 ihr	einen	5
 ist	längst	5
@@ -24697,6 +24800,7 @@ koot	nohm	5
 un	wohd	5
 en	sammlong	5
 auch	nie	5
+dacht	ich	5
 kollossal	möd	5
 dann	kommen	5
 die	mama	5
@@ -24713,6 +24817,7 @@ einmal	vor	5
 sie	nit	5
 en	beld	5
 ben	doch	5
+on	kaal	5
 fuhr	dann	5
 nach	alter	5
 der	bechtel	5
@@ -24724,7 +24829,6 @@ fröhlich	sein	5
 denn	heute	5
 von	ganz	5
 jede	eck	5
-de	kich	5
 muss	in	5
 och	det	5
 die	ging	5
@@ -24737,6 +24841,7 @@ oft	in	5
 sollen	et	5
 net	gekannt	5
 hatte	dann	5
+fühl	mich	5
 haus	vom	5
 is	flott	5
 noch	gesaht	5
@@ -24753,12 +24858,12 @@ kennt	sie	5
 machst	dich	5
 du	sein	5
 wie	tausend	5
+möt	dr	5
 di	janz	5
 on	sue	5
 äwer	noch	5
 fott	on	5
 daach	e	5
-de	eu	5
 had	dr	5
 dobeij	wäde	5
 welt	noch	5
@@ -24766,7 +24871,6 @@ singen	sie	5
 früh	in	5
 rast	und	5
 und	wollt	5
-de	theek	5
 ze	senge	5
 sprong	op	5
 der	ärme	5
@@ -24852,7 +24956,6 @@ johr	hammer	5
 en	dinne	5
 nas	on	5
 do	deht	5
-denn	met	5
 doch	emol	5
 mem	böötche	5
 noch	schlemmer	5
@@ -24903,6 +25006,7 @@ os	nur	5
 et	neueste	5
 et	ab	5
 de	flasch	5
+zitt	hatt	5
 sare	ich	5
 morjens	öm	5
 öm	aach	5
@@ -24933,6 +25037,7 @@ frau	noch	5
 de	mädche	5
 der	fred	5
 denn	her	5
+die	fenster	5
 dann	brennt	5
 un	freue	5
 nem	schöne	5
@@ -25092,8 +25197,8 @@ de	historie	5
 ene	knubbel	5
 de	dialekte	5
 finge	dat	5
+famillisch	un	5
 fingk	dat	5
-de	ddr	5
 hier	klicken	5
 vun	ehrer	5
 öcher	jolfclub	5
@@ -25116,6 +25221,7 @@ un	einer	5
 dat	anders	5
 hee	zo	5
 zo	lese	5
+däm	klei	5
 woodt	dä	5
 jo	no	5
 no	och	5
@@ -25154,6 +25260,7 @@ mer	wirklich	5
 aus	dir	5
 sech	ob	5
 noen	al	5
+danke	wa	5
 vöal	sjpas	5
 t	letste	5
 en	zunt	5
@@ -25199,6 +25306,7 @@ hät	dobei	5
 zosammehang	met	5
 un	woodt	5
 de	elbe	5
+wo	jeder	5
 ärjer	un	5
 dr	doktor	5
 kutt	mo	5
@@ -25219,6 +25327,7 @@ woe	ne	5
 erop	on	5
 dann	pack	5
 weede	soll	5
+dat	konnt	5
 noh	ihre	5
 e	dr	5
 a	de	5
@@ -25232,12 +25341,12 @@ aktuellen	session	5
 heeß	dat	5
 wudde	un	5
 een	et	5
+e	die	5
 joohre	wood	5
 dat	bleed	5
 alles	kapott	5
 uus	de	5
 än	dat	5
-ich	av	5
 mich	ene	5
 weed	wall	5
 wall	esu	5
@@ -25271,6 +25380,7 @@ doch	hat	5
 die	rolle	5
 dr	nächsten	5
 do	dahd	5
+zu	sehr	5
 wedder	n	5
 den	maibaum	5
 de	jungs	5
@@ -25285,7 +25395,6 @@ doch	nach	5
 hä	hott	5
 so	steht	5
 ganze	weile	5
-em	in	5
 dobi	es	5
 zwei	uhr	5
 komm	jätt	5
@@ -25296,6 +25405,7 @@ haus	in	5
 in	st	5
 die	originale	5
 dann	wierd	5
+zweidausend	johr	5
 do	künne	5
 ovschüns	hä	5
 e	päd	5
@@ -25304,10 +25414,8 @@ anjefange	hät	5
 eine	ov	5
 andere	jet	5
 von	büchern	5
-hillije	kölle	5
 der	heimatverein	5
 und	schüler	5
-nimmt	die	5
 nur	bis	5
 im	rhein	5
 als	unse	5
@@ -25330,7 +25438,6 @@ dr	freud	5
 mr	jet	5
 dä	hillije	5
 fott	en	5
-nit	fröh	5
 mät	ner	5
 doch	ah	5
 dn	nächsten	5
@@ -25426,7 +25533,6 @@ schö	widde	5
 begrüß	ich	5
 uns	jedes	5
 ja	fast	5
-es	is	5
 mir	von	5
 dös	kann	5
 und	nichts	5
@@ -25455,6 +25561,7 @@ me	jetzt	5
 bevur	me	5
 die	glocken	5
 jedes	joar	5
+mit	mein	5
 kümmt	de	5
 euch	gsooch	5
 sä	in	5
@@ -25535,9 +25642,9 @@ selbst	zu	5
 die	hälfte	5
 rahmen	der	5
 fünf	jahre	5
+jahre	war	5
 dr	balkan	5
 luff	en	5
-er	bei	5
 jecke	am	5
 steiht	och	5
 han	an	5
@@ -25592,6 +25699,7 @@ inne	de	5
 gään	han	5
 am	foß	5
 der	stroßebahn	5
+mer	om	5
 woren	sich	5
 wor	sing	5
 kom	op	5
@@ -25688,6 +25796,7 @@ ein	beliebtes	5
 sich	damals	5
 früher	in	5
 holz	kumm	5
+lang	hück	5
 beitrag	ovends	5
 wie	komme	5
 die	mülheimer	5
@@ -25739,7 +25848,6 @@ nichts	anderes	5
 die	lag	5
 richtig	god	5
 en	im	5
-de	technik	5
 sinn	ze	5
 dä	bach	5
 dä	quatsch	5
@@ -25898,7 +26006,6 @@ wirklich	wohr	5
 de	b	5
 der	sah	5
 em	wender	5
-zu	hoch	5
 ein	richtig	5
 do	konnte	5
 dabei	noch	5
@@ -25906,6 +26013,7 @@ dann	äh	5
 wer	es	5
 der	kriegt	5
 der	heinz	5
+fer	en	5
 en	usem	5
 hott	se	5
 ich	moß	5
@@ -25918,10 +26026,10 @@ ich	off	5
 die	schwalbe	5
 kann	alles	5
 viel	zeit	5
+kann	eich	5
 hänn	un	5
 der	esel	5
 von	vorn	5
-da	sitzt	5
 anderem	auch	5
 bläck	föös	5
 ein	wunderschönes	5
@@ -26077,14 +26185,12 @@ net	möt	5
 dat	sieht	5
 alle	tage	5
 on	dobei	5
-setzen	wir	5
 dat	hürt	5
 benne	vun	5
 nor	zo	5
 em	parterre	5
 ein	sigg	5
 om	ihrefeld	5
-de	mai	5
 den	titt	5
 hügg	e	5
 luuter	em	5
@@ -26129,6 +26235,7 @@ zog	es	5
 zum	kochen	5
 die	sollten	5
 bin	da	5
+da	wär	5
 ze	essen	5
 auch	ihre	5
 à	la	5
@@ -26139,6 +26246,7 @@ un	nie	5
 op	dauer	5
 unger	sich	5
 ich	jing	5
+dir	nit	5
 weht	et	5
 en	andre	5
 naach	dann	5
@@ -26158,6 +26266,7 @@ staatse	kääl	5
 ov	evvens	5
 die	hüng	5
 hä	üvver	5
+nit	vum	5
 ävver	selvs	5
 zwei	johre	5
 för	met	5
@@ -26166,6 +26275,7 @@ un	wagen	5
 lebt	und	5
 dat	mech	5
 övv	en	5
+hätt	dich	5
 zo	denke	5
 denne	lück	5
 god	geiht	5
@@ -26240,6 +26350,7 @@ zwei	doch	5
 wöss	mer	5
 er	hin	5
 seinem	alten	5
+wär	das	5
 wääch	noh	5
 noh	amerika	5
 för	noh	5
@@ -26266,6 +26377,7 @@ kolumbus	met	5
 de	weßßenschaftler	5
 dä	insel	5
 äver	nitt	5
+in	denne	5
 üver	de	5
 un	jett	5
 emmer	noh	5
@@ -26435,7 +26547,6 @@ dej	äas	5
 un	oas	5
 de	säck	5
 hun	un	5
-stroaßen	un	5
 ze	gäan	5
 fier	e	5
 ed	emmer	5
@@ -26472,6 +26583,7 @@ nie	op	5
 dä	baas	5
 on	mr	5
 bes	hütt	5
+jenau	jetz	5
 flöck	noh	5
 och	prima	5
 de	bux	5
@@ -26617,12 +26729,14 @@ jetz	bei	5
 nur	einer	5
 für	voll	5
 e	ründche	5
+vür	johre	5
 schön	doch	5
 r	franz	5
 mer	fröher	5
 met	sechs	5
 han	in	5
 künnt	jo	5
+letz	johr	5
 mer	spreche	5
 zur	eröffnung	5
 wigg	un	5
@@ -26667,6 +26781,7 @@ zick	üvver	5
 zo	weede	5
 noch	dran	5
 russ	un	5
+vür	die	5
 de	bär	5
 möt	dir	5
 du	stehs	5
@@ -26794,7 +26909,6 @@ aan	em	5
 pänz	vun	5
 drövver	laache	5
 mä	datt	5
-änn	dé	5
 änn	et	5
 ouch	nog	5
 ömmer	mië	5
@@ -26891,6 +27005,7 @@ auch	egal	5
 nicht	um	5
 se	mol	5
 metleed	met	5
+süffele	un	5
 bess	datt	5
 un	bunt	5
 die	fott	5
@@ -26910,6 +27025,7 @@ kein	loss	5
 et	kölle	5
 woodt	dat	5
 die	bunte	5
+er	johr	5
 de	verein	5
 de	nam	5
 de	kirk	5
@@ -26975,6 +27091,7 @@ dem	erfolg	5
 uch	am	5
 ist	ab	5
 sprache	ist	5
+geht	er	5
 doch	glatt	5
 den	ausdruck	5
 form	von	5
@@ -26997,10 +27114,10 @@ packe	mer	5
 en	weil	5
 jahre	nach	5
 ihnen	ein	5
-bau	mir	5
 facebook	songtext	5
 twittern	twitter	5
 twitter	whatsapp	5
+jahren	nicht	5
 wir	als	5
 fass	en	5
 und	datt	5
@@ -27067,6 +27184,7 @@ kräge	hät	5
 met	üvver	5
 er	mich	5
 treffe	un	5
+un	hoffe	5
 et	duurt	5
 himmel	koame	5
 wie	diese	5
@@ -27256,7 +27374,6 @@ es	koot	5
 wollte	ich	5
 mit	gewalt	5
 wurde	ja	5
-weg	war	5
 dä	saachjropp	5
 jett	en	5
 nit	pass	5
@@ -27286,12 +27403,10 @@ op	alles	5
 d	kinos	5
 z	schaffe	5
 ön	kapell	5
-lenke	siij	5
 kee	jeld	5
 schünn	es	5
 hä	saat	5
 willkommen	auf	5
-freud	he	5
 op	englisch	5
 et	att	5
 sind	zwei	5
@@ -27309,6 +27424,7 @@ in	ens	5
 der	boddem	5
 gedichte	von	5
 und	meine	5
+du	muss	5
 im	ruhestand	5
 nit	nach	5
 und	ließ	5
@@ -27422,6 +27538,7 @@ und	gedichten	5
 deel	von	5
 uss	en	5
 un	josef	5
+nu	ess	5
 datt	jo	5
 der	ältesten	5
 sind	eine	5
@@ -27509,7 +27626,6 @@ mer	hin	5
 för	freud	5
 do	öm	5
 driehte	sich	5
-e	pund	5
 ädäppele	un	5
 un	öllich	5
 leedcher	un	5
@@ -27534,6 +27650,7 @@ on	äs	5
 on	hodd	5
 es	sin	5
 dos	es	5
+im	bette	5
 hätt	mir	5
 kam	so	5
 ick	se	5
@@ -27587,7 +27704,6 @@ seich	net	5
 woù	eich	5
 gelaaf	un	5
 mäat	demm	5
-er	joahren	5
 konnte	mir	5
 schun	äam	5
 aller	zeiten	5
@@ -27653,9 +27769,9 @@ biermann	et	5
 das	schön	5
 reinhören	bläck	5
 blondes	haar	5
-udo	jürgens	5
 das	tier	5
 den	bauern	5
+wer	hätte	5
 ob	däe	5
 jeden	daag	5
 wore	en	5
@@ -27720,6 +27836,7 @@ dann	ding	5
 dat	foto	5
 och	koss	5
 zick	läuf	5
+me	hot	5
 sä	ihr	5
 gärn	mol	5
 gleich	widder	5
@@ -27729,12 +27846,10 @@ sich	lang	5
 am	matich	5
 urlaub	in	5
 alt	am	5
-et	natürlich	5
 und	jung	5
 hollt	de	5
 platt	ist	5
 auf	seiner	5
-ma	off	5
 wat	war	5
 ze	söke	5
 jot	em	5
@@ -27809,6 +27924,7 @@ singer	zigg	5
 mer	genau	5
 der	kölnischen	5
 weil	uns	5
+han	nen	5
 ming	schwester	5
 se	nohm	5
 sollt	der	5
@@ -27859,7 +27975,6 @@ dm	schntche	5
 leckerste	brtche	5
 brtche	fr	5
 stellt	h	5
-ht	d	5
 pd	un	5
 et	spanien-leed	5
 samstag	in	5
@@ -27888,6 +28003,7 @@ jet	vill	5
 ze	führe	5
 vielleicht	hat	5
 vunn	däm	5
+sie	hätt	5
 dä	düüvel	5
 die	spetz	5
 wat	denkt	5
@@ -27922,13 +28038,13 @@ jeht	der	5
 musik	die	5
 jonge	van	5
 des	ortes	5
-johr	old	5
 wor	lecker	5
 dem	hans	5
 dicke	tuen	5
 sind	dann	5
 en	ratinge	5
 he	well	5
+hammer	all	5
 dr	werner	5
 se	mett	5
 ons	noch	5
@@ -27936,7 +28052,6 @@ en	mundart	5
 frau	von	5
 met	belder	5
 pfeiffer	on	5
-die	serie	5
 er	schafft	5
 geben	wir	5
 et	hetz	5
@@ -27973,6 +28088,7 @@ schön	war	5
 han	jenau	5
 dom	is	5
 mir	einfach	5
+kein	wood	5
 du	mähs	5
 arsch	der	5
 liedtext	als	5
@@ -27993,6 +28109,7 @@ un	pass	5
 hammer	dat	5
 em	nome	5
 nome	vom	5
+weil	e	5
 dat	dicke	5
 be	ons	5
 nit	mol	5
@@ -28034,6 +28151,7 @@ hor	aha	5
 denn	sonst	5
 janze	met	5
 de	arm	5
+schwaade	un	5
 zu	künne	5
 geben	und	5
 dem	joahr	5
@@ -28168,6 +28286,7 @@ dä	stän	5
 enem	lange	5
 at	janz	5
 ne	sinn	5
+drink	mer	5
 russ	uss	5
 sigge	vun	5
 gelingt	es	5
@@ -28448,11 +28567,11 @@ sproch	nit	5
 e	beldche	5
 ens	selvs	5
 mih	wesse	5
-e	fes	5
 föhls	de	5
 wors	de	5
 vorbei	die	5
 koom	dä	5
+denn	an	5
 krijje	mer	5
 dann	jommer	5
 wedder	un	5
@@ -28470,6 +28589,7 @@ zoeesch	ens	5
 wor	wirklich	5
 nit	kott	5
 nem	kleine	5
+all	zu	5
 och	wirklich	5
 sull	en	5
 einblick	in	5
@@ -28481,6 +28601,7 @@ der	kasse	5
 was	gibt	5
 einmal	mit	5
 haben	doch	5
+der	arme	5
 aber	den	5
 wie	mit	5
 besser	nit	5
@@ -28545,7 +28666,7 @@ et	kuett	5
 zur	anhaltischen	5
 anhaltischen	mundart	5
 die	ware	5
-de	erschte	5
+hawwich	mich	5
 un	zoch	5
 man	do	5
 bis	noh	5
@@ -28580,6 +28701,7 @@ nix	is	5
 vill	sin	5
 se	spreche	5
 em	eije	5
+un	wänn	5
 fründlich	un	5
 einiger	zeit	5
 och	selver	5
@@ -28599,7 +28721,6 @@ off	däe	5
 moot	et	5
 oder	soll	5
 ein	muss	5
-un	dah	5
 den	schlüssel	5
 deef	em	5
 em	wonnzemmer	5
@@ -28790,10 +28911,7 @@ s	b	5
 rat	ich	5
 du	schön	5
 er	ald	5
-kö	lne	5
-lne	r	5
 s	k	5
-s	u	5
 l	a	5
 kölle	wie	5
 hoch	in	5
@@ -28852,6 +28970,7 @@ veer	johr	5
 will	sich	5
 net	nor	5
 sundern	och	5
+is	jetz	5
 gedichte	in	5
 kölsche	för	5
 schrööm	sing	5
@@ -28864,13 +28983,13 @@ your	wiki	5
 von	singer	5
 dr	saubaach	5
 es	dech	5
+drei	wünsch	5
 en	spur	5
 die	kennt	5
 dem	fenster	5
 ich	ihm	5
 ich	d	5
 ich	also	5
-dobei	jet	5
 laach	un	5
 ohne	vill	5
 wann	dr	5
@@ -28920,6 +29039,7 @@ ze	hüere	5
 däe	hätt	5
 bey	dä	5
 die	nähl	5
+däe	schoomäche	5
 aahl	zitt	5
 bej	oma	5
 auf	seite	5
@@ -29003,12 +29123,15 @@ inne	noh	5
 jed	johr	5
 watch	the	5
 the	song	5
+nabel	der	5
+minsche	all	5
 sin	üvver	5
 bliev	dat	5
 rhing	eraf	5
 jacques	offenbach	5
 durch	unsere	5
 is	schö	5
+es	werd	5
 is	passiert	5
 ens	für	5
 sigg	un	5
@@ -29020,7 +29143,6 @@ en	tetuan	5
 spät	för	5
 spaß	mit	5
 wer	einmal	5
-das	hast	5
 dä	herrjott	5
 franzjosef	schneider	5
 willi	birenfeld	5
@@ -29100,7 +29222,6 @@ dä	st	5
 doch	sehr	5
 unn	es	5
 sich	jätt	5
-dun	kriesche	5
 wie	fründe	5
 se	jekumme	5
 jekumme	zo	5
@@ -29270,6 +29391,7 @@ un	vielleich	5
 oss	de	5
 dieser	ausgabe	5
 nemmen	ich	5
+su	heiß	5
 und	kleine	5
 die	hadden	5
 dat	züch	5
@@ -29324,7 +29446,6 @@ für	öllä	5
 nächst	joar	5
 aus	sein	5
 mah	sei	5
-fe	de	5
 über	än	5
 nä	dös	5
 muss	halt	5
@@ -29397,6 +29518,7 @@ macht	und	5
 musste	er	5
 nicht	vor	5
 es	dieses	5
+nicht	besonders	5
 die	bäckerei	5
 es	steht	5
 ging	von	5
@@ -29457,9 +29579,7 @@ dich	kennt	5
 kleine	un	5
 de	di	5
 deit	en	5
-hätz	verlore	5
 dir	durch	5
-én	der	5
 r	met	5
 paar	bier	5
 janz	kloar	5
@@ -29538,7 +29658,6 @@ allerdings	nicht	5
 sich	mehr	5
 pitter	lutzenkirchen	5
 de	nääkste	5
-man	erst	5
 jetzt	zu	5
 hier	gut	5
 god	gelunge	5
@@ -29671,6 +29790,7 @@ he	wörre	5
 de	wärten	5
 n	dr	5
 herr	graf	5
+kann	dich	5
 bei	ihren	5
 r	wor	5
 jeht	e	5
@@ -29886,7 +30006,6 @@ keine	mieh	5
 in	remsched	5
 neëver	de	5
 jonn	de	5
-dä	stein	5
 e	nö-i	5
 zo	levve	5
 tirek	nevven	5
@@ -29908,7 +30027,6 @@ do	you	5
 woe	dä	5
 hatt	äwwe	5
 sich	mie	5
-zu	gehn	5
 jo	katharina	5
 moot	dat	5
 ze	flöck	5
@@ -29967,6 +30085,7 @@ eck	äok	5
 nich	teo	5
 moe	doach	5
 datt	äok	5
+ech	nix	5
 ihnen	und	5
 et	wonnzemmer	5
 den	kotten	5
@@ -29999,7 +30118,6 @@ benotzer	ka	5
 de	flüh	5
 die	bibel	5
 die	domstädter	5
-die	anne	5
 sahre	s	5
 häh	do	5
 städtischen	leben	5
@@ -30019,7 +30137,6 @@ bürgergemeinschaft	pro	5
 em	solig	5
 weg	hück	5
 weëd	ziech	5
-e	joar	5
 an	schwenke	5
 ein	bes	5
 bist	der	5
@@ -30066,6 +30183,7 @@ wibbel	ming	5
 nicht	gehn	5
 er	ech	5
 onn	et	5
+woar	enne	5
 de	noabersjaf	5
 dös	wär	5
 am	ballermann	5
@@ -30084,6 +30202,7 @@ un	kä	5
 de	beem	5
 der	katze	5
 die	infektion	5
+e	anger	5
 guido	meyer	5
 meyer	de	5
 de	voltaire	5
@@ -30110,7 +30229,6 @@ männekes	un	5
 die	wiffkes	5
 dr	stross	5
 neppeser	bürjerwehr	5
-corps	á	5
 by	cat	5
 deutschen	bersetzung	5
 dat	essene	5
@@ -30184,6 +30302,7 @@ hodd	dr	5
 hetti	on	5
 hodd	jo	5
 paul	palinski	5
+freu	misch	5
 halve	saache	5
 lääwen	ess	5
 ättech	protsännt	5
@@ -30302,6 +30421,7 @@ zosamme	en	4
 nit	övverall	4
 jenou	jenumme	4
 dä	alle	4
+em	hillije	4
 hör	optrette	4
 och	usserhalb	4
 no	london	4
@@ -30374,7 +30494,6 @@ z	spelle	4
 sitt	öt	4
 universität	va	4
 sollte	di	4
-joohre	van	4
 minsche	em	4
 de	städt	4
 noh	imm	4
@@ -30404,7 +30523,6 @@ dorä	z	4
 d	richtung	4
 zitt	at	4
 de	groot	4
-hä	at	4
 at	döck	4
 ädäppel	un	4
 satz	hä	4
@@ -30441,6 +30559,7 @@ z	voss	4
 jott	z	4
 hä	jehüüd	4
 woch	et	4
+ö	jooh	4
 es	döck	4
 häm	dozo	4
 treffe	am	4
@@ -30501,7 +30620,6 @@ sech	vürstelle	4
 de	wietschaff	4
 musik	von	4
 hatten	on	4
-all	die	4
 me	der	4
 ze	läje	4
 en	satz	4
@@ -30602,7 +30720,6 @@ in	zwei	4
 et	jeschaff	4
 immer	ens	4
 dat	eh	4
-litt	in	4
 en	fabrik	4
 schön	schwer	4
 johr	is	4
@@ -30611,7 +30728,6 @@ stadt	von	4
 dat	heeschd	4
 jruuße	zaahl	4
 öt	könnigrisch	4
-d	eu	4
 sö	lääve	4
 do	komm	4
 önö	nationalpark	4
@@ -30777,6 +30893,7 @@ en	planz	4
 am	sunndaach	4
 sätt	dä	4
 zwei	deele	4
+mi	z	4
 dat	jilt	4
 jilt	och	4
 jedriihnd	woode	4
@@ -30840,6 +30957,7 @@ dier	hann	4
 helfe	kann	4
 d	värv	4
 z	helpe	4
+nur	eh	4
 jrenze	vun	4
 hatte	me	4
 your	bot	4
@@ -31027,7 +31145,6 @@ ostermanns	will	4
 nit	jefalle	4
 im	su	4
 et	däät	4
-er	han	4
 wat	mo	4
 bee	z	4
 öt	hod	4
@@ -31165,6 +31282,7 @@ mett	sinnem	4
 seck	die	4
 ock	enns	4
 de	mauen	4
+no	drei	4
 drei	wäcken	4
 di	enn	4
 do	meinde	4
@@ -31297,7 +31415,6 @@ dem	fahrrad	4
 dann	über	4
 man	konnte	4
 unserer	zeit	4
-man	beim	4
 neben	seiner	4
 der	liegt	4
 von	nun	4
@@ -31372,7 +31489,6 @@ wohr	jo	4
 et	jereesch	4
 jemaad	woode	4
 wood	enne	4
-d	csu	4
 de	schriiver	4
 udder	dat	4
 ävver	dova	4
@@ -31552,7 +31668,6 @@ von	troisdorf	4
 troisdorf	un	4
 plaatz	es	4
 der	plaatz	4
-der	hatt	4
 der	bliev	4
 dat	troisdorf	4
 schon	een	4
@@ -31600,6 +31715,7 @@ doch	janit	4
 sollt	och	4
 d	hälvde	4
 un	kott	4
+e	ziel	4
 ess	joot	4
 däm	aurenbleck	4
 dir	doheim	4
@@ -31619,6 +31735,7 @@ wirklich	jitt	4
 schwör	ich	4
 wemmer	domet	4
 jehß	zo	4
+nohm	cinema	4
 em	kitschfilm	4
 un	sons	4
 sons	nit	4
@@ -31874,6 +31991,7 @@ hätt	nix	4
 jan	un	4
 dreißigjährigen	krieg	4
 em	ahlen	4
+er	über	4
 nimmt	er	4
 kann	als	4
 den	niederlanden	4
@@ -31990,7 +32108,6 @@ wör	alles	4
 hatt	im	4
 im	an	4
 hä	sollt	4
-däm	jupp	4
 mieh	in	4
 dä	text	4
 dem	jan	4
@@ -32028,7 +32145,6 @@ dat	schreit	4
 einer	op	4
 der	schlacht	4
 mir	hee	4
-einem	alten	4
 op	youtube	4
 morjens	bes	4
 ech	donn	4
@@ -32130,6 +32246,7 @@ su	net	4
 wat	beim	4
 an	det	4
 is	echt	4
+ich	fühl	4
 denn	beim	4
 mächt	ma	4
 mit	neuen	4
@@ -32178,7 +32295,6 @@ nachts	in	4
 wie	damals	4
 he	be	4
 be	oss	4
-möt	dr	4
 neet	miehr	4
 koom	enne	4
 all	wi	4
@@ -32195,12 +32311,12 @@ ohne	rast	4
 getan	und	4
 über	sie	4
 sie	waren	4
+de	theek	4
 et	danze	4
 de	stäne	4
 frau	net	4
 der	pief	4
 dorch	die	4
-alld	e	4
 jédder	daach	4
 indem	sie	4
 mer	doh	4
@@ -32267,7 +32383,6 @@ keine	zweite	4
 mer	soße	4
 wie	nett	4
 dä	jrad	4
-paar	pund	4
 kermes	wor	4
 et	kränche	4
 ver	dann	4
@@ -32323,6 +32438,7 @@ dr	wengk	4
 wenter	es	4
 si	fräuke	4
 de	sitt	4
+denn	met	4
 bloß	öm	4
 e	scheff	4
 fleu	em	4
@@ -32382,7 +32498,6 @@ föhlt	mer	4
 seit	langem	4
 un	woll	4
 dann	wur	4
-zitt	hatt	4
 en	rouh	4
 moss	net	4
 hann	wie	4
@@ -32419,6 +32534,7 @@ do	fehlt	4
 senn	et	4
 ich	jev	4
 un	jefiert	4
+frau	hätt	4
 uhr	morjens	4
 su	steht	4
 e	brett	4
@@ -32595,7 +32711,6 @@ net	allein	4
 einfach	net	4
 dä	schutzmann	4
 doch	enes	4
-nicht	allzu	4
 um	jet	4
 mar	nit	4
 t	vrugjoar	4
@@ -32651,7 +32766,7 @@ jekallt	weed	4
 mieh	noh	4
 natürlich	en	4
 jet	wo	4
-famillisch	un	4
+ming	fründe	4
 un	fingk	4
 jaa	nix	4
 wo	jo	4
@@ -32740,7 +32855,6 @@ die	jenau	4
 un	soot	4
 un	waat	4
 suchen	se	4
-daat	kund	4
 em	annere	4
 nog	effe	4
 vier	nog	4
@@ -32784,6 +32898,7 @@ et	kreppche	4
 mih	han	4
 staune	nit	4
 die	einzige	4
+wa	mer	4
 minsche	jitt	4
 et	ein	4
 hück	ze	4
@@ -32795,7 +32910,6 @@ de	sprooch	4
 esu	eß	4
 der	jannze	4
 alles	platt	4
-e	beßßje	4
 hand	dä	4
 un	jän	4
 dat	grad	4
@@ -32840,8 +32954,10 @@ ens	jät	4
 d	spanier	4
 wohl	im	4
 en	kann	4
+maht	de	4
 paar	äppel	4
 waaße	losse	4
+ich	av	4
 die	her	4
 dan	die	4
 die	krijje	4
@@ -32948,9 +33064,11 @@ dä	fiese	4
 jürgen	bennack	4
 hat	als	4
 reihe	von	4
+hillije	kölle	4
 die	geschichten	4
 rahmen	des	4
 die	schülerinnen	4
+nimmt	die	4
 mit	zahlreichen	4
 wichtig	ist	4
 dann	nohm	4
@@ -32971,6 +33089,7 @@ zo	liere	4
 met	angere	4
 jrad	de	4
 am	wahde	4
+nit	fröh	4
 hah	mich	4
 früher	mol	4
 fahre	kann	4
@@ -33030,7 +33149,6 @@ singe	eige	4
 gewäse	wör	4
 un	wesst	4
 uns	esu	4
-en	wirklichkeit	4
 gang	es	4
 dova	jesproche	4
 echnaton	un	4
@@ -33200,7 +33318,6 @@ kommt	das	4
 dass	an	4
 durch	seinen	4
 du	moß	4
-dr	baach	4
 dahte	un	4
 lans	schmitz-backes	4
 et	thema	4
@@ -33257,7 +33374,6 @@ der	art	4
 gleich	auf	4
 unsere	sprache	4
 er	sehr	4
-jahre	war	4
 des	festkomitees	4
 und	kölscher	4
 in	gold	4
@@ -33383,6 +33499,7 @@ un	meine	4
 nit	halde	4
 neue	ob	4
 der	jürgen	4
+wein	wär	4
 im	ävver	4
 lück	nit	4
 god	gemaht	4
@@ -33421,7 +33538,6 @@ mond	on	4
 wenn	hej	4
 welche	kölschen	4
 unserem	newsletter	4
-x	pro	4
 der	büggel	4
 schreibt	uns	4
 stroß	noch	4
@@ -33511,6 +33627,7 @@ zeit	es	4
 doa	hann	4
 isch	die	4
 un	mier	4
+de	eh	4
 e	es	4
 läwe	noch	4
 prima	en	4
@@ -33519,6 +33636,7 @@ oder	om	4
 jät	hann	4
 e	jannz	4
 wör	un	4
+mer	ech	4
 stundt	un	4
 kölle	jetz	4
 moot	der	4
@@ -33558,6 +33676,7 @@ nicht	klar	4
 dat	klor	4
 luxemburger	stroß	4
 koot	hinger	4
+de	technik	4
 meddelalder	es	4
 meddelalder	en	4
 zigg	ene	4
@@ -33615,7 +33734,6 @@ letzte	vürhang	4
 leed	wo	4
 kölle	jeht	4
 wichtiger	bestandteil	4
-eldorado	an	4
 sein	höhner	4
 rumtreiber	hey	4
 hey	marie	4
@@ -33750,12 +33868,14 @@ ist	zwar	4
 et	häi	4
 mia	honn	4
 noch	genau	4
+bald	wie	4
 mir	uus	4
 plötzlich	all	4
 ganz	groß	4
 wir	laden	4
 alle	wieder	4
 so	fröhlich	4
+mir	schun	4
 dat	doot	4
 der	zäit	4
 hon	noch	4
@@ -33849,11 +33969,11 @@ et	goof	4
 ma	än	4
 kannte	mer	4
 die	konnten	4
+zu	hoch	4
 für	manche	4
 dat	geft	4
 die	wollt	4
 wollt	dat	4
-konnte	net	4
 nicht	kann	4
 der	lehrer	4
 war	bei	4
@@ -33890,6 +34010,7 @@ ihm	von	4
 von	henne	4
 met	mie	4
 ihr	wat	4
+da	sitzt	4
 mitten	auf	4
 wohl	kein	4
 verloren	und	4
@@ -34089,6 +34210,7 @@ vater	ist	4
 der	jing	4
 dat	steng	4
 dat	schmitze	4
+setzen	wir	4
 uns	hin	4
 hätte	me	4
 dä	fröhe	4
@@ -34099,6 +34221,7 @@ schwaade	und	4
 enem	ömfeld	4
 on	widder	4
 moss	ek	4
+de	mai	4
 so	dökk	4
 ek	docht	4
 heb	ek	4
@@ -34237,7 +34360,7 @@ hochdeutsch	und	4
 sich	besser	4
 klan	prinzessin	4
 solle	dat	4
-bo	se	4
+der	wär	4
 kürzester	zeit	4
 stammen	von	4
 daach	am	4
@@ -34281,7 +34404,6 @@ deet	em	4
 kölle	jitt	4
 dämm	me	4
 dat	datum	4
-dä	ö	4
 nüüß	z	4
 vun	doh	4
 der	baach	4
@@ -34302,6 +34424,7 @@ dr	hoff	4
 molde	leonardo	4
 mi	em	4
 z	schriive	4
+santa	maria	4
 isch	am	4
 hodde	öt	4
 wärm	us	4
@@ -34320,7 +34443,6 @@ send	s	4
 un	jüppche	4
 kopp	dat	4
 op	unserer	4
-n	op	4
 zo	jedem	4
 kluster	stuben	4
 senn	em	4
@@ -34350,7 +34472,6 @@ uns're	schöne	4
 schöne	dom	4
 doch	viel	4
 die	hieß	4
-wär	das	4
 was	nützt	4
 spanische	könich	4
 vun	amerika	4
@@ -34533,6 +34654,7 @@ hellije	mann	4
 dä	hans	4
 op	mesch	4
 broder	un	4
+em	kleederkass	4
 sesch	su	4
 eenem	johr	4
 eldere	op	4
@@ -34655,6 +34777,7 @@ dej	äam	4
 woaren	och	4
 de	ween	4
 mir	zum	4
+stroaßen	un	4
 und	off	4
 der	glentsch	4
 hot	als	4
@@ -34717,7 +34840,6 @@ so	joot	4
 also	dä	4
 pänz	on	4
 de	socke	4
-to	go	4
 wo	on	4
 ech	on	4
 nu	et	4
@@ -34749,7 +34871,6 @@ för	dinge	4
 handy	un	4
 tirek	bei	4
 gemacht	on	4
-drickes	sat	4
 dech	op	4
 dech	noch	4
 die	besseme	4
@@ -34903,6 +35024,7 @@ rechter	platt	4
 gehabt	haben	4
 die	oft	4
 ver	os	4
+ka	mer	4
 wald	und	4
 die	aulen	4
 ä	sich	4
@@ -34981,6 +35103,7 @@ den	song	4
 doch	jett	4
 zö	komme	4
 r	pitter	4
+et	bill	4
 r	wand	4
 als	mädche	4
 das	närrische	4
@@ -35094,6 +35217,7 @@ selvs	net	4
 ich	looch	4
 janz	dringend	4
 de	volle	4
+hatt	mich	4
 denn	nicht	4
 wären	se	4
 kreje	mir	4
@@ -35165,7 +35289,6 @@ bej	die	4
 ech	mott	4
 hodd	ävver	4
 welt	för	4
-uit	de	4
 nit	noa	4
 wen	de	4
 is	lang	4
@@ -35307,7 +35430,6 @@ bühne	und	4
 dabei	und	4
 verein	für	4
 nachdem	ich	4
-off	twéï	4
 dadd	ech	4
 r	naam	4
 need	esu	4
@@ -35441,7 +35563,6 @@ dä	ovend	4
 wat	nu	4
 du	siehs	4
 wei	uns	4
-oan	den	4
 de	olle	4
 et	ook	4
 oder	bist	4
@@ -35478,7 +35599,6 @@ häm	op	4
 lääve	em	4
 feiert	die	4
 im	rathaus	4
-zo	süffele	4
 me'm	rad	4
 rad	in	4
 angern	dag	4
@@ -35508,6 +35628,7 @@ off	noh	4
 wat	grad	4
 stroße	vun	4
 em	stil	4
+pass	nit	4
 kome	en	4
 jo	eigentlich	4
 usgebaut	un	4
@@ -35703,6 +35824,7 @@ der	klnarena	4
 alben	immer	4
 en	bewjung	4
 besteht	aus	4
+bau	mir	4
 fass	un	4
 fleeje	de	4
 jeht	von	4
@@ -35928,7 +36050,6 @@ demm	sing	4
 dat	jläuv	4
 der	nökste	4
 das	volk	4
-die	website	4
 daran	zu	4
 zu	erinnern	4
 sitz	ich	4
@@ -35996,6 +36117,7 @@ nett	noch	4
 im	maubachtal	4
 sein	leben	4
 und	denken	4
+de	kuh	4
 bei	manchen	4
 so	woar	4
 de	schule	4
@@ -36072,6 +36194,7 @@ kölsch	als	4
 der	parkplatz	4
 doch	dies	4
 ze	seen	4
+do	wollt	4
 halt	nur	4
 ma	vor	4
 besser	kann	4
@@ -36109,6 +36232,7 @@ widd	et	4
 schnell	ging	4
 das	bringt	4
 sache	zu	4
+weg	war	4
 von	wegen	4
 jaa	kej	4
 de	schablohne	4
@@ -36141,7 +36265,6 @@ z	völl	4
 dr	buch	4
 soll	dr	4
 övverich	blävve	4
-ni	mieh	4
 odder	ene	4
 su	kalt	4
 et	dor	4
@@ -36162,12 +36285,14 @@ di	matrose	4
 vrau	un	4
 der	kommandant	4
 dr	övvichde	4
+lenke	siij	4
 se	d	4
 is	d	4
 kütt	va	4
 frei	von	4
 dr	justizpalast	4
 d	vöörwaahle	4
+freud	he	4
 jrößer	leid	4
 hermann	michel	4
 d	jaaßkammer	4
@@ -36203,7 +36328,6 @@ laache	on	4
 on	säät	4
 all	ganz	4
 kohm	noch	4
-du	muss	4
 spillt	de	4
 frau	kunnt	4
 jot	koche	4
@@ -36322,7 +36446,6 @@ niemand	mehr	4
 on	schon	4
 hadde	sej	4
 sej	op	4
-ok	den	4
 die	organisation	4
 der	gesamten	4
 em	jroße	4
@@ -36339,7 +36462,6 @@ sinn	des	4
 kamen	de	4
 kopp	jestellt	4
 mir	ööhs	4
-schon	länger	4
 ahl	lück	4
 ich	musste	4
 sogar	auf	4
@@ -36571,9 +36693,9 @@ en	ziet	4
 ob	und	4
 die	informationen	4
 em	richtije	4
+ha	ich	4
 lies	sich	4
 erscht	de	4
-schelle	un	4
 heiß	wäde	4
 en	mischung	4
 sujet	noch	4
@@ -36606,6 +36728,7 @@ in	hamburg	4
 un	bin	4
 de	treppe	4
 den	wech	4
+ick	wer	4
 ick	et	4
 ooch	det	4
 uff	een	4
@@ -36619,11 +36742,11 @@ et	wiet	4
 em	wääßel	4
 et	bloss	4
 woss	nit	4
+ich	kannt	4
 allt	sin	4
 meer	de	4
 wick	fott	4
 un	herr	4
-wie	domols	4
 mich	zwei	4
 dabei	zu	4
 ich	sogar	4
@@ -36658,7 +36781,6 @@ enfommazjuhne	för	4
 in	order	4
 to	allow	4
 the	text	4
-their	own	4
 this	site	4
 majority	of	4
 wiki	users	4
@@ -36692,7 +36814,6 @@ de	miller	4
 ed	äan	4
 dej	nau	4
 dörrich	ed	4
-off	ää	4
 ed	marianne	4
 dann	mäat	4
 dat	soù	4
@@ -36736,7 +36857,6 @@ euch	alle	4
 nu	kommt	4
 ins	spiel	4
 nicht	lang	4
-let	sich	4
 an	os	4
 net	messe	4
 jitt	dann	4
@@ -36750,7 +36870,6 @@ uns	jeiht	4
 un	spille	4
 dä	sö	4
 wade	bis	4
-tas	kaffieë	4
 e	werm	4
 vier	mit	4
 kannst	mir	4
@@ -36830,7 +36949,6 @@ brings	kölsche	4
 et	mettina	4
 mettina	us	4
 us	mettmann	4
-haar	udo	4
 los	und	4
 däe	stall	4
 on	ritte	4
@@ -36878,6 +36996,7 @@ jään	e	4
 im	stich	4
 de	schriever	4
 er	di	4
+wo	an	4
 stund	an	4
 stadt	e	4
 wurde	zu	4
@@ -36976,9 +37095,11 @@ do	kumm	4
 stellt	öch	4
 dat	jehürt	4
 de	wollef	4
+et	natürlich	4
 wie	denn	4
 das	platt	4
 und	schülern	4
+ma	off	4
 ze	soche	4
 su	äbbes	4
 good	on	4
@@ -37076,6 +37197,7 @@ do	nie	4
 selvs	och	4
 der	nöchste	4
 un	deswäge	4
+wann	er	4
 darf	un	4
 dann	hee	4
 zick	mih	4
@@ -37118,7 +37240,6 @@ esu	kom	4
 gebaut	han	4
 sind	dem	4
 erfolg	hät	4
-doher	kütt	4
 und	hören	4
 texte	in	4
 natürlich	mit	4
@@ -37156,7 +37277,6 @@ da	en	4
 evver	dat	4
 jeck	drop	4
 uns	vill	4
-am	rothuus	4
 bliev	uns	4
 de	band	4
 selver	och	4
@@ -37166,8 +37286,6 @@ sonst	so	4
 uns	ma	4
 oder	n	4
 der	josef	4
-dat	ht	4
-ht	e	4
 lecker	schntche	4
 schn	ihr	4
 ihr	brtche	4
@@ -37201,7 +37319,6 @@ tön	und	4
 es	still	4
 zum	verschicken	4
 jonn	dann	4
-schwaade	nit	4
 der	clemens	4
 clemens	auguss	4
 vun	bayern	4
@@ -37271,6 +37388,7 @@ karl-heinz	dahmen	4
 tom	jebortsdaach	4
 jebortsdaach	jratuliert	4
 to	maake	4
+johr	old	4
 als	klee	4
 termin	för	4
 jet	fröher	4
@@ -37306,6 +37424,7 @@ wie	on	4
 on	dan	4
 de	helmut	4
 vörschlach	jemaat	4
+die	serie	4
 anfang	des	4
 sah	ich	4
 hück	an	4
@@ -37519,7 +37638,6 @@ vor	jedem	4
 hinter	jedem	4
 den	hut	4
 so	still	4
-dem	wetter	4
 all	zesummen	4
 roufen	un	4
 seele	und	4
@@ -37551,6 +37669,7 @@ et	joa	4
 et	enn	4
 steht	so	4
 zu	langsam	4
+die	ruh	4
 die	mitte	4
 ist	schwer	4
 treu	und	4
@@ -37580,7 +37699,6 @@ eech	et	4
 emmer	un	4
 me'ih	ze	4
 met	allen	4
-soll	bei	4
 koamen	de	4
 hart	wie	4
 hart	un	4
@@ -37602,6 +37720,7 @@ en	es	4
 enn	dat	4
 leit	un	4
 doa	hat	4
+an	mein	4
 miar	noch	4
 de	boar	4
 pizza	per	4
@@ -37634,7 +37753,6 @@ och	fründe	4
 bier	jebraut	4
 mer	donnt	4
 ons	bier	4
-on	töm	4
 du	beß	4
 em	vatikan	4
 et	joh	4
@@ -37687,6 +37805,7 @@ ess	koot	4
 nit	erkläre	4
 naach	für	4
 routiniert	wie	4
+schrei	et	4
 nicht	erklären	4
 trinken	wir	4
 schrei	es	4
@@ -38103,7 +38222,6 @@ jlööwt	ihr	4
 hä	uch	4
 en	mainz	4
 sehr	schwer	4
-s	los	4
 ene	von	4
 vill	los	4
 kölsch	schmeckte	4
@@ -38187,6 +38305,7 @@ r	beusj	4
 sehen	uns	4
 jetz	klor	4
 die	schönen	4
+sonn	schön	4
 schön	schingk	4
 wünscht	allen	4
 sonn	nit	4
@@ -38254,6 +38373,7 @@ wiel	hat	4
 vrauw	van	4
 wie	ing	4
 zwischen	die	4
+und	hatt	4
 donoh	kom	4
 sin	jot	4
 gesunge	un	4
@@ -38307,10 +38427,10 @@ mott	demm	4
 da	vatta	4
 mott	dem	4
 kaffee	ze	4
-bestimmt	en	4
 anno	dazumal	4
 mott	em	4
 os	doch	4
+ma	hat	4
 söhke	eruß	4
 es	wia	4
 in	dei	4
@@ -38345,6 +38465,7 @@ die	jruße	4
 die	söns	4
 oma	nies	4
 mal	eben	4
+hatt	den	4
 de	booem	4
 mal	ganz	4
 wäch	no	4
@@ -38566,6 +38687,7 @@ fand	die	4
 de	hölle	4
 so	ziemlich	4
 se	warn	4
+könn	ma	4
 wie	jar	4
 dat	ass	4
 dann	jenau	4
@@ -38646,14 +38768,10 @@ morgen	früh	4
 kesha	reinhören	4
 jede	aureblick	4
 aureblick	nur	4
-cotton	eye	4
-eye	joe	4
 stadt	bläck	4
 helene	fischer	4
 die	faschingszeit	4
 rosen	und	4
-hück	ben	4
-ich	jlöcklich	4
 vom	leeve	4
 jeder	im	4
 nämlich	in	4
@@ -38725,7 +38843,6 @@ uns	jeschwore	4
 geschichte	aus	4
 norr	de	4
 et	wenkt	4
-op	ennen	4
 et	gefft	4
 all	ehr	4
 selvs	han	4
@@ -38743,7 +38860,6 @@ ihr	ein	4
 kapellche	zoläuf	4
 en	eng	4
 euch	in	4
-os	jo	4
 doch	wall	4
 doch	prima	4
 ouch	en	4
@@ -38866,18 +38982,19 @@ b	la	4
 d	o	4
 c	a	4
 r	j	4
-rm	a	4
 e	kö	4
 e	h	4
 a	c	4
 f	s	4
 ote	funken	4
 r	a	4
+s	u	4
 im	alten	4
 in	folge	4
 den	männi	4
 war	auf	4
 dä	has	4
+er	bei	4
 am	fuß	4
 rose	räuber	4
 n	klein	4
@@ -38906,7 +39023,6 @@ wollte	deswejen	4
 es	bi	4
 dn	fremdenverkehr	4
 mit	numburch	4
-derf	me	4
 luft	un	4
 mit	liebe	4
 hot	sinne	4
@@ -38994,6 +39110,7 @@ drieh	dich	4
 he	war	4
 jehatt	un	4
 es	jedes	4
+dobei	jet	4
 ze	fläje	4
 freue	sech	4
 bier	bestelle	4
@@ -39030,7 +39147,6 @@ vann	dämm	4
 unn	dänn	4
 hatte	kein	4
 do	sprach	4
-und	mutter	4
 consulat	eine	4
 auch	außerhalb	4
 dir	schon	4
@@ -39078,7 +39194,6 @@ en	zitt	4
 em	lewwe	4
 haan	en	4
 die	erfahrung	4
-oma	einz	4
 jode	daach	4
 füe	ne	4
 et	her	4
@@ -39211,6 +39326,7 @@ herz	auf	4
 se	springe	4
 de	herrschaff	4
 r	noh	4
+uns	uns	4
 mehr	kann	4
 de	janit	4
 sicher	noch	4
@@ -39249,7 +39365,6 @@ un	luhr	4
 mir	marokko	4
 deutsch	und	4
 bess	et	4
-nabel	der	4
 amazon	music	4
 cd	und	4
 frog	op	4
@@ -39306,6 +39421,7 @@ ess	wirklich	4
 wirklich	ein	4
 wirklich	schaad	4
 auf	deine	4
+das	hast	4
 en	johe	4
 nähste	johr	4
 dr	teller	4
@@ -39338,7 +39454,6 @@ ech	mein	4
 ungerm	boom	4
 ihrer	mutter	4
 de	fünkche	4
-und	sin	4
 über	zwei	4
 dä	politik	4
 schönsten	kölschen	4
@@ -39440,7 +39555,6 @@ on	daach	4
 widde	e	4
 seiht	se	4
 se	seiht	4
-ode	en	4
 och	fott	4
 moß	se	4
 se	spille	4
@@ -39480,6 +39594,7 @@ jot	op	4
 märr	e	4
 watt	m	4
 de	loot	4
+dun	kriesche	4
 jän	allein	4
 mr	hürt	4
 g	bm	4
@@ -39569,6 +39684,7 @@ der	wahrheit	4
 de	fans	4
 dann	wissen	4
 gehört	au	4
+de	erschte	4
 hingerm	tresen	4
 wollte	nach	4
 von	ner	4
@@ -39646,7 +39762,6 @@ länger	do	4
 das	hät	4
 die	liete	4
 und	äs	4
-jahren	nicht	4
 andere	kann	4
 ihr	und	4
 aus	mainz	4
@@ -39683,7 +39798,6 @@ all	sujet	4
 loss	is	4
 nit	verliere	4
 föör	en	4
-för	disch	4
 im	publikum	4
 publikum	in	4
 november	beginnt	4
@@ -39914,6 +40028,7 @@ wollt	der	4
 ühm	dät	4
 kopp	bis	4
 r	ohm	4
+en	red	4
 nor	dä	4
 och	keiner	4
 wasser	met	4
@@ -39981,6 +40096,7 @@ ze	spelle	4
 nimmp	dä	4
 doför	stommer	4
 dr	weetschaff	4
+trömmelche	jeit	4
 loht	unser	4
 unser	leeder	4
 bes	mi	4
@@ -40106,7 +40222,6 @@ aber	wird	4
 von	reinold	4
 vulgo	geistensterz	4
 die	bedeutung	4
-eau	de	4
 der	einzige	4
 besonders	an	4
 eigentlich	das	4
@@ -40182,7 +40297,6 @@ hie	oben	4
 so	kams	4
 eines	dahres	4
 wars	dann	4
-in	disser	4
 mäh	hon	4
 n	nurres	4
 hot	einer	4
@@ -40217,7 +40331,6 @@ un	arbeid	4
 für	alt	4
 zum	hals	4
 besje	jeck	4
-üch	doch	4
 mir	dr	4
 wigger	met	4
 denk	nit	4
@@ -40227,6 +40340,7 @@ dann	kutt	4
 r	jrößte	4
 denne	ehr	4
 des	titels	4
+hätz	verlore	4
 schön	die	4
 woar	der	4
 fing	doch	4
@@ -40252,7 +40366,6 @@ dat	bärbelche	4
 eine	vielzahl	4
 dat	fallt	4
 ist	besser	4
-et	kenk	4
 en	fackel	4
 e	löstig	4
 frohe	botschaft	4
@@ -40330,7 +40443,6 @@ un	jitz	4
 der	gedanke	4
 dej	sej	4
 die	praxis	4
-man	düt	4
 te	denke	4
 deck	on	4
 sej	sich	4
@@ -40349,7 +40461,6 @@ sich	enn	4
 datt	jebäude	4
 sie	machten	4
 alles	jeld	4
-dennd	mr	4
 he	je	4
 ejal	of	4
 jeder	hinsicht	4
@@ -40401,6 +40512,7 @@ hat	keine	4
 breslauer	platz	4
 ming	ahl	4
 landschaftsverband	rheinland	4
+man	erst	4
 das	sönnchen	4
 oder	nicht	4
 man	steht	4
@@ -40734,6 +40846,7 @@ noch	glück	4
 dät	wor	4
 en	det	4
 heimat	und	4
+ein	glück	4
 woe	du	4
 uns	mädcher	4
 he	vum	4
@@ -40946,7 +41059,6 @@ dr	küche	4
 die	lossen	4
 däh	hobt	4
 steh	ich	4
-ds	sichedippen	4
 nach	hingen	4
 au	an	4
 fer	ins	4
@@ -40964,6 +41076,7 @@ hon	n	4
 schwimmbutz	stadt	4
 datt	dänn	4
 de	doggdä	4
+jährigen	jubiläum	4
 jetzt	weed	4
 et	jeschäff	4
 ens	dr	4
@@ -41176,7 +41289,6 @@ usserdäm	en	4
 wünschen	allen	4
 winnich	wasser	4
 weich	koche	4
-dmich	ben	4
 öns	en	4
 die	französische	4
 de	här	4
@@ -41200,6 +41312,7 @@ dat	wür	4
 em	sunnesching	4
 fängk	aan	4
 der	jisbert	4
+dä	stein	4
 ens	richtig	4
 bedankt	und	4
 nassen	lappen	4
@@ -41252,6 +41365,7 @@ däe	su	4
 äe	de	4
 mie	oder	4
 mir	oos	4
+zu	gehn	4
 jetz	us	4
 neue	sierra	4
 zick	drei	4
@@ -41341,7 +41455,6 @@ noch	rächt	4
 euch	ja	4
 ober	nett	4
 uff	ämol	4
-die	bä	4
 in	rauastäh	4
 ne	na	4
 dort	wu	4
@@ -41363,6 +41476,7 @@ zwej	daach	4
 do	saat	4
 keiner	met	4
 soll	im	4
+im	die	4
 füe	dich	4
 och	secher	4
 kommentar	annemie	4
@@ -41409,7 +41523,6 @@ häam	mosse	4
 doch	bes	4
 miar	de	4
 am	luure	4
-ech	nix	4
 unn	mir	4
 bürgerverein	wünscht	4
 wünscht	ihnen	4
@@ -41524,11 +41637,11 @@ et	anja	4
 alles	weiß	4
 der	rainald	4
 der	barbarossa	4
-su	ze	4
 hädden	hä	4
 wual	ech	4
 zwei	liter	4
 die	ammis	4
+die	anne	4
 dn	jahren	4
 im	sichedippen	4
 dass	mäh	4
@@ -41559,6 +41672,7 @@ kenger	on	4
 schüen	op	4
 doa	weëd	4
 de	manslu	4
+e	joar	4
 de	vrauwlu	4
 foß	no	4
 wieder	was	4
@@ -41631,7 +41745,6 @@ däe	düwel	4
 dat	äe	4
 dobej	aan	4
 im	summer	4
-isch	freu	4
 kölner	haben	4
 mehr	menschen	4
 schöne	panther	4
@@ -41768,7 +41881,6 @@ seite	zu	4
 bes	dööhin	4
 der	abtei	4
 kölner	band	4
-on	let	4
 dä	kolben	4
 im	sechsten	4
 sechsten	monat	4
@@ -41783,7 +41895,6 @@ wat	mi	4
 ober	dä	4
 jetz	ä	4
 nooch	de	4
-rauestä	is	4
 ganzen	dooch	4
 wess	ja	4
 ämol	ä	4
@@ -41854,7 +41965,6 @@ und	chansons	4
 chansons	von	4
 von	henner	4
 sakkokolonia	op	4
-freiem	himmel	4
 öns	enne	4
 net	vörr	4
 et	hoor	4
@@ -41863,6 +41973,7 @@ jung	ich	4
 de	neppeser	4
 unserem	corps	4
 paa	wächen	4
+wood	by	4
 su	jhn	4
 essene	rentner	4
 mensch	bleiwe	4
@@ -41938,8 +42049,6 @@ sech	waal	4
 neue	dach	4
 gehlens	karin	4
 frau	klee	4
-t	bedde	4
-de	metzjer	4
 die	kuffer	4
 ens	wiër	4
 dää	kerl	4
@@ -42044,6 +42153,7 @@ döösch	jelaid	4
 zick	büdcheliebe	4
 bisa	berbahasa	4
 berbahasa	indonesia	4
+hundert	by	4
 by	miljö	4
 kein	halve	4
 jitt	nor	4
@@ -42100,6 +42210,7 @@ jeiht	die	3
 un	fies	3
 et	üvver	3
 am	rhingufer	3
+dr	nöh	3
 allt	et	3
 un	österreich	3
 eß	schon	3
@@ -42144,6 +42255,7 @@ en	schwazz	3
 em	wasserbett	3
 ner	luffmatratz	3
 op	weihnachte	3
+ess	d	3
 rock'n	roll	3
 ich	miehstens	3
 miehstens	saare	3
@@ -42235,7 +42347,6 @@ jävve	well	3
 z	hiirode	3
 un	doohter	3
 es	doher	3
-un	opß	3
 ene	beshtemmpte	3
 de	utc	3
 ze	bestemme	3
@@ -42323,6 +42434,7 @@ stell	em	3
 hör	opmerksam	3
 hat	mä	3
 kresch	koom	3
+joohre	van	3
 jrützde	roll	3
 qualm	en	3
 städt	met	3
@@ -42330,7 +42442,6 @@ kinder	zu	3
 un	stäng	3
 spelld	sö	3
 ävver	koom	3
-iih	öt	3
 önö	häzzschlach	3
 irsch	ens	3
 jit	ävve	3
@@ -42381,6 +42492,7 @@ mi	ledd	3
 ledd	aav	3
 wärmde	un	3
 zeechd	dat	3
+hä	at	3
 jömaad	hod	3
 brööhr	un	3
 ö	kläng	3
@@ -42400,7 +42512,6 @@ donn	hann	3
 die	wisse	3
 nit	wisse	3
 wie	schriev	3
-hes	do	3
 zom	heutige	3
 enfach	an	3
 und	stoße	3
@@ -42613,7 +42724,6 @@ ultimate	guitar	3
 guitar	tabs	3
 guitar	pro	3
 and	guitar	3
-c	der	3
 so	jään	3
 och	zällt	3
 weetschaft	es	3
@@ -42682,6 +42792,7 @@ widder	zesamme	3
 rhing	et	3
 jeschaff	un	3
 jebaut	werde	3
+litt	in	3
 usem	bett	3
 fööss	in	3
 manchmol	is	3
@@ -42907,7 +43018,6 @@ met	onjeväär	3
 wi	bei	3
 erkenne	un	3
 jemeinschaff	vun	3
-ėm	joohr	3
 doo	och	3
 stadt	sin	3
 ö	könnigrich	3
@@ -42970,7 +43080,6 @@ als	dreide	3
 en	kneip	3
 jemold	had	3
 aate	ze	3
-stell	der	3
 zo	allem	3
 jehüüre	och	3
 äwwer	ned	3
@@ -43090,13 +43199,11 @@ of	these	3
 keep	your	3
 this	will	3
 have	any	3
-let	me	3
 on	my	3
 my	talk	3
 i'm	a	3
 according	to	3
 the	stewards	3
-its	own	3
 the	wiki	3
 that	the	3
 sent	you	3
@@ -43215,7 +43322,6 @@ udder	dä	3
 ein	well	3
 ävver	kei	3
 un	bekannte	3
-zer	zick	3
 domet	ömjonn	3
 ier	name	3
 en	sigk	3
@@ -43237,7 +43343,6 @@ me	vun	3
 di	shprooch	3
 don	met	3
 esu	för	3
-noch	haeng	3
 haeng	ding	3
 un	maeht	3
 maeht	mich	3
@@ -43314,7 +43419,6 @@ d	prinz	3
 drei	deeler	3
 maade	sisch	3
 un	schaffde	3
-aar	tun	3
 tun	wiiß	3
 kilometer	van	3
 dat	braad	3
@@ -43352,7 +43456,6 @@ als	s	3
 besser	us	3
 och	sönß	3
 sesh	do	3
-bëij	onß	3
 der	leeve	3
 dat	bedügk	3
 noch	lääve	3
@@ -43365,6 +43468,7 @@ och	jäje	3
 jäje	de	3
 wi	su	3
 un	ahle	3
+er	han	3
 se	uß	3
 hod	ö	3
 johann	georg	3
@@ -43546,6 +43650,7 @@ net	wärm	3
 jönannd	weed	3
 ä	brüssel	3
 deed	öt	3
+joohre	koome	3
 miley	cyrus	3
 zosätzlich	zo	3
 di	jott	3
@@ -43632,11 +43737,9 @@ de	bergische	3
 ich	gebore	3
 geläv	han	3
 wore	ärg	3
-hatt	ich	3
 dressig	johr	3
 ävver	nie	3
 ming	bergisch	3
-wollt	ich	3
 eine	nit	3
 spille	un	3
 un	gedeechte	3
@@ -43648,6 +43751,7 @@ für	junge	3
 dofür	bruch	3
 bruch	mr	3
 luur	nit	3
+dr	zick	3
 de	krach	3
 es	wichtich	3
 en	dur	3
@@ -43810,6 +43914,7 @@ paar	jahre	3
 einen	oder	3
 konnte	auch	3
 in	merzig	3
+man	beim	3
 ist	also	3
 er	her	3
 auch	seine	3
@@ -44054,7 +44159,6 @@ r	alde	3
 oser	revier	3
 woar	al	3
 et	wemmke	3
-blu-es	en	3
 et	wal	3
 von	mensch	3
 un	döcks	3
@@ -44335,7 +44439,6 @@ plötzlich	alles	3
 endlich	keiner	3
 dir	will	3
 jraad	op	3
-e	ziel	3
 du	enn	3
 du	jähn	3
 obwohl	se	3
@@ -44478,6 +44581,7 @@ woßt	ich	3
 s	maul	3
 s	ihm	3
 oder	do	3
+fahr	ich	3
 dieng	auwwe	3
 bestimmt	nit	3
 isch	e	3
@@ -44656,7 +44760,6 @@ koome	no	3
 d	waffe	3
 un	sälvs	3
 su	huch	3
-d	polnische	3
 ä	warschau	3
 va	warschau	3
 no	norde	3
@@ -44706,7 +44809,6 @@ stadt	et	3
 lett	so	3
 te	dur	3
 t	de	3
-de	wart	3
 now	mot	3
 hej	kann	3
 de	jöngste	3
@@ -44970,6 +45072,7 @@ it	wor	3
 ävver	alles	3
 künnt	hä	3
 momang	de	3
+däm	jupp	3
 nix	jefunge	3
 watt	willste	3
 willste	maache	3
@@ -44998,7 +45101,6 @@ rode	dir	3
 sing	doch	3
 petrus	heimlich	3
 iss	un	3
-äch	kölsche	3
 ahle	sproch	3
 an	firstname	3
 doch	mr	3
@@ -45018,6 +45120,7 @@ soch	us	3
 sugar	der	3
 der	bürgermeister	3
 sid	nit	3
+einem	alten	3
 mich	würde	3
 düx	noh	3
 nit	möd	3
@@ -45035,7 +45138,6 @@ vun	europpa	3
 jingk	hä	3
 weßeschaffte	vun	3
 de	natuhr	3
-dacht	ich	3
 mal	abends	3
 abends	bei	3
 wat	angere	3
@@ -45179,7 +45281,6 @@ dä	fähler	3
 da	frank	3
 de	arweit	3
 lässt	ma	3
-da	kich	3
 hätt	wohl	3
 nächsten	daach	3
 die	wern	3
@@ -45312,6 +45413,7 @@ on	drenk	3
 et	warm	3
 en	fahn	3
 se	alld	3
+alld	e	3
 den	kompletten	3
 für	neue	3
 dieser	artikel	3
@@ -45498,6 +45600,7 @@ stroß	on	3
 vill	jedöns	3
 mer	send	3
 send	nit	3
+en	wärme	3
 düsseldorwer	platt	3
 e	fläschke	3
 jrad	ens	3
@@ -45624,6 +45727,7 @@ e	fass	3
 fass	bier	3
 att	op	3
 säu	un	3
+hätt	su	3
 un	hof	3
 wor	öm	3
 öm	vell	3
@@ -45637,7 +45741,6 @@ fällt	die	3
 vell	leever	3
 engelbert	seng	3
 schöne	frau	3
-frau	hätt	3
 se	dörch	3
 om	programm	3
 jenau	in	3
@@ -45772,7 +45875,6 @@ kenne	in	3
 of	ing	3
 d	viir	3
 och	döck	3
-sez	en	3
 öt	world	3
 als	jruuße	3
 a	werkde	3
@@ -45783,7 +45885,6 @@ wasser	dörch	3
 äng	vängd	3
 nur	aan	3
 dann	rötsch	3
-nit	drövver	3
 dämm	këijl	3
 och	fun	3
 en	kraff	3
@@ -45895,6 +45996,7 @@ uns	wirklich	3
 wirklich	leid	3
 rhein	ist	3
 heute	mit	3
+hab	es	3
 es	gestern	3
 wird	am	3
 die	einwohnerzahl	3
@@ -45932,6 +46034,7 @@ noh	fünf	3
 da	jong	3
 enes	noch	3
 emmer	wor	3
+nicht	allzu	3
 önö	ärzbischoff	3
 dä	än	3
 de	ende	3
@@ -45984,6 +46087,7 @@ jeck	em	3
 zum	zweiten	3
 zweiten	mal	3
 der	a	3
+m	huh	3
 wor	mit	3
 nur	winnisch	3
 em	kaale	3
@@ -46018,7 +46122,6 @@ deutsche	un	3
 zigg	de	3
 e	schmölzje	3
 ligge	kann	3
-ming	fründe	3
 do	säät	3
 zig	de	3
 meddsen	op	3
@@ -46036,7 +46139,6 @@ am	dritten	3
 sonntag	im	3
 feierten	die	3
 nachdem	er	3
-jahr	lang	3
 feiern	zu	3
 löste	sich	3
 der	heiland	3
@@ -46242,9 +46344,7 @@ dat	ahl	3
 woh	di	3
 de	joohre	3
 e	widder	3
-op	unß	3
 eije	websigge	3
-fott	maache	3
 mer	dänne	3
 wann	uns	3
 de	wees	3
@@ -46289,7 +46389,6 @@ wore	sich	3
 mahte	de	3
 zitt	woe	3
 se	emme	3
-der	ev	3
 der	verabschiedung	3
 das	beliebte	3
 rückblick	auf	3
@@ -46392,7 +46491,6 @@ dat	sengt	3
 voller	brust	3
 r	nandes	3
 bes	a	3
-e	singe	3
 jetz	een	3
 dat	uus	3
 et	ann	3
@@ -46425,7 +46523,6 @@ dem	tor	3
 us	sicheren	3
 domidde	well	3
 und	fertig	3
-uff	ds	3
 mai	in	3
 hon	mä	3
 fest	uff	3
@@ -46487,6 +46584,7 @@ söns	wor	3
 allt	bei	3
 keine	richtije	3
 jefunge	un	3
+der	roters	3
 der	spd	3
 maache	wollt	3
 mer	söken	3
@@ -46509,7 +46607,6 @@ das	trinkwasser	3
 wird	durch	3
 nicht	geeignet	3
 und	konnten	3
-un	sat	3
 he	künnt	3
 maat	och	3
 nur	ei	3
@@ -46521,7 +46618,6 @@ alles	hänge	3
 jeck	am	3
 de	wäschmaschin	3
 alles	dren	3
-do	ren	3
 es	bestemmp	3
 donn	hat	3
 duur	dr	3
@@ -46600,11 +46696,9 @@ bekommt	die	3
 denn	ne	3
 doröm	han	3
 leever	wie	3
-r	thek	3
 kölsche	mir	3
 fahren	met	3
 müllemer	bötche	3
-och	jonge	3
 längste	desch	3
 dom	am	3
 halven	hahn	3
@@ -46797,7 +46891,6 @@ drop	wie	3
 wie	blöd	3
 jing	ihm	3
 bess	dat	3
-finger	wund	3
 e	he	3
 dä	bühn	3
 dem	peter	3
@@ -46817,6 +46910,7 @@ kä	angst	3
 mol	vür	3
 winter	woar	3
 woar	von	3
+die	gab	3
 johr	von	3
 stand	de	3
 gibt's	doch	3
@@ -46831,6 +46925,7 @@ a	mit	3
 dann	gedacht	3
 dess	in	3
 zwä	männer	3
+schö	aus	3
 blick	in	3
 is	des	3
 mit	äre	3
@@ -46911,7 +47006,6 @@ kölner	doms	3
 jahr	eine	3
 förderung	des	3
 landes	nrw	3
-e	van	3
 d	breenijerheed	3
 jehüüd	och	3
 weet	no	3
@@ -46975,7 +47069,6 @@ jetz	drei	3
 aangefange	hät	3
 en	jannze	3
 an	account	3
-to	set	3
 would	like	3
 like	to	3
 wähde	de	3
@@ -47002,6 +47095,7 @@ zwei	tage	3
 de	eeschde	3
 de	flocke	3
 s	hand	3
+dr	baach	3
 woode	send	3
 weed	vam	3
 dr	donnerbersch	3
@@ -47485,7 +47579,6 @@ häd	der	3
 der	nie	3
 unbedingt	noch	3
 de	schbärrmill	3
-de	eh	3
 mier	hann	3
 wat	woor	3
 vonn	de	3
@@ -47712,6 +47805,7 @@ werk	und	3
 joker	colonia	3
 colonia	dat	3
 und	bereits	3
+eldorado	an	3
 marie	die	3
 die	lanxess	3
 hat	jährige	3
@@ -47719,8 +47813,6 @@ jährige	smartphone	3
 smartphone	mit	3
 mit	falschgeld	3
 falschgeld	bezahlt	3
-andreas	rühlow	3
-rühlow	hat	3
 entsprechend	der	3
 der	meisten	3
 mädche	brings	3
@@ -47752,7 +47844,6 @@ et	bitte	3
 all	niet	3
 de	krüjwage	3
 op	kalkar	3
-kalkar	orn	3
 te	halde	3
 waß	et	3
 dann	säg	3
@@ -47785,6 +47876,7 @@ met	leech	3
 ganze	levve	3
 kääl	nit	3
 wat	enem	3
+die	lamp	3
 der	altmeister	3
 ist	tot	3
 allem	an	3
@@ -47900,12 +47992,10 @@ einzije	wat	3
 et	eines	3
 dat	mos	3
 richtig	in	3
-bald	wie	3
 seht	doch	3
 der	jahreszeit	3
 uns	feiern	3
 stimmung	ist	3
-mir	schun	3
 us	e	3
 wer	eimoal	3
 der	well	3
@@ -47917,6 +48007,7 @@ weißt	nicht	3
 nicht	warum	3
 dich	ganz	3
 met	geld	3
+woch	es	3
 de	also	3
 en	hauwe	3
 wasser	es	3
@@ -48050,7 +48141,7 @@ wie	han	3
 dann	sen	3
 hott	alles	3
 noch	spaß	3
-mal	abschreiben	3
+konnte	net	3
 der	schrecken	3
 schu	en	3
 dat	haut	3
@@ -48188,6 +48279,7 @@ et	ander	3
 wie	koot	3
 jetz	sage	3
 dat	nämlich	3
+pakette	klopapeer	3
 ene	eije	3
 nämlich	nit	3
 natörlich	sin	3
@@ -48372,6 +48464,7 @@ am	lachen	3
 hann	dech	3
 on	stong	3
 du	mackß	3
+noch	beklopp	3
 twei	johr	3
 wer	ens	3
 jood	se	3
@@ -48408,7 +48501,6 @@ dun	wat	3
 saht	hä	3
 ovschüns	ich	3
 ene	jung	3
-zom	schwaade	3
 op	minsche	3
 fasshalde	deit	3
 fels	gebaut	3
@@ -48439,7 +48531,6 @@ wing	en	3
 ahl	schläuch	3
 gode	wing	3
 läuf	en	3
-de	sod	3
 minsch	do	3
 sing	jüngere	3
 zo	zigge	3
@@ -48638,8 +48729,6 @@ es	eins	3
 schöne	joddesdeens	3
 zosamme	fiere	3
 kann	dobei	3
-en	äch	3
-äch	kölsch	3
 eines	von	3
 uns	aus	3
 gesungen	werden	3
@@ -48663,7 +48752,6 @@ us	afrika	3
 nach	zwei	3
 wochen	lang	3
 lang	hat	3
-da	wär	3
 bin	dann	3
 großer	erfolg	3
 dä	volkshochschull	3
@@ -48810,6 +48898,7 @@ sich	nirjendwo	3
 nirjendwo	sterche	3
 sterche	kann	3
 vom	schloss	3
+bo	se	3
 en	al	3
 die	prinzessin	3
 se	uch	3
@@ -48884,6 +48973,7 @@ christe	de	3
 en	ruin	3
 mo	jätt	3
 sälvs	ä	3
+dä	ö	3
 orsprong	van	3
 leev	dat	3
 d	neue	3
@@ -49008,6 +49098,8 @@ keinen	sinn	3
 alten	platz	3
 bleibt	er	3
 in	schuß	3
+wär	für	3
+wär	vielleicht	3
 vielleicht	das	3
 wir	behalten	3
 et	bis	3
@@ -49311,6 +49403,7 @@ om	kanapee	3
 et	dit	3
 noch	nüx	3
 nen	neuen	3
+da	well	3
 et	chressdaach	3
 es	nämlich	3
 vürher	e	3
@@ -49318,7 +49411,6 @@ zwei	e	3
 ahl	schull	3
 un	wolld	3
 esch	alt	3
-em	kleederkass	3
 johr	woren	3
 an	ostere	3
 us	dann	3
@@ -49651,7 +49743,6 @@ de	matt	3
 matt	am	3
 nimieh	eso	3
 däm	oppa	3
-am	öwerläje	3
 jetz	bloß	3
 johr	so	3
 die	sare	3
@@ -49715,7 +49806,6 @@ dann	fohre	3
 fahre	sie	3
 on	drickes	3
 grad	de	3
-chres	sat	3
 enne	duude	3
 bajaasch	un	3
 en	för	3
@@ -49910,93 +50000,3 @@ be	dat	3
 und	vortrag	3
 wedder	is	3
 däm	nix	3
-janz	fröh	3
-en	schwazze	3
-off	sing	3
-der	meute	3
-vill	anders	3
-ess	als	3
-euch	zwei	3
-dem	nichts	3
-es	gerne	3
-eine	schwarze	3
-viel	anders	3
-als	so	3
-wollt	er	3
-janz	klar	3
-loft	wor	3
-su	scheen	3
-had	sich	3
-die	nächst	3
-sondern	e	3
-sujet	wirklich	3
-kitschfilm	jit	3
-mich	selfs	3
-weet	mer	3
-weet	ne	3
-jraad	woor	3
-en	dich	3
-fern	und	3
-und	nah	3
-und	unterhaltung	3
-oben	rechts	3
-der	übersetzungen	3
-wor	vielleich	3
-un	villeich	3
-jede	för	3
-övver	all	3
-do	kannst	3
-ehr	jot	3
-misch	im	3
-raus	mit	3
-gleich	dat	3
-am	stehtisch	3
-decke	zieh	3
-kann	am	3
-nit	nit	3
-hunn	ich	3
-dat	schild	3
-et	nämlich	3
-ich	morjens	3
-awer	emmer	3
-einmal	prinz	3
-kölsche	stropp	3
-eimol	prinz	3
-davon	hann	3
-kölsche	buur	3
-im	rähn	3
-maht	met	3
-je	ne	3
-einfluss	auf	3
-eine	sprache	3
-see	va	3
-allemol	de	3
-no	ze	3
-es	handelt	3
-handelt	sich	3
-großes	dankeschön	3
-was	wollen	3
-op	oos	3
-oos	aal	3
-näi	schutzhett	3
-et	joff	3
-die	daat	3
-stand	noch	3
-des	holzes	3
-net	oft	3
-die	fonn	3
-su	daat	3
-och	fea	3
-striek	ens	3
-en	klor	3
-dä	herrgott	3
-die	echte	3
-en	menge	3
-dat	allerbeste	3
-ma	von	3
-er	joa	3
-ess	ma	3
-ma	langsam	3
-die	flasche	3
-datt	woa	3
-goa	net	3

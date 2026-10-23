@@ -1,22 +1,22 @@
 # Nakanai : FineWeb-2 nak_Latn (ODC-By). mot<TAB>freq.
 #! souligner : proches seulement
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-la	39733
-ge	14030
+la	39732
+ge	14028
 te	10879
 eia	10846
-ale	9138
-e	7168
+ale	9136
+e	7166
 veia	6055
-egite	5873
-mai	5275
+egite	5872
+mai	5273
 uru	4765
-moli	4762
+moli	4761
 tahalo	4532
 me	3900
 egiteu	3405
-amuto	3403
-eau	3400
+amuto	3402
+eau	3399
 goio	3242
 kama	3111
 ele	3050
@@ -51,7 +51,7 @@ vulovulo	928
 lotu	837
 ovola	811
 igogolu	806
-isasa	793
+isasa	792
 pala	771
 vagari	762
 igo	732
@@ -258,9 +258,9 @@ visuli	129
 vibaumuli	129
 gogo	128
 rovitia	128
-sip	127
 kekesi	126
 ere	126
+sip	126
 lua	125
 soilo	125
 beu	124
@@ -361,13 +361,13 @@ tilahi	76
 papai	75
 limala	75
 vovola	75
-vilua	74
 ovolale	74
 boru	74
 tatuga	74
 raragi	73
 igototolola	73
 pouti	73
+vilua	73
 lavalava	73
 tahia	73
 sipi	73
@@ -377,10 +377,10 @@ latatu	72
 savelela	72
 hate	72
 sae	72
-tahola	71
 kumuli	71
 hituhitu	71
 igotia	70
+tahola	70
 kolia	70
 herod	70
 buruko	70
@@ -787,7 +787,6 @@ obobu	22
 goiloti	22
 vitokoromola	22
 kokovua	22
-sivutia	22
 kavikoki	22
 aisaia	22
 mererale	21
@@ -814,6 +813,7 @@ mota	21
 galili	21
 mamasi	21
 lapua	21
+sivutia	21
 balila	21
 matamu	21
 gabutalea	21
@@ -872,7 +872,6 @@ sisaria	18
 lias	18
 hos	18
 tamutoue	18
-molie	18
 tala	18
 sima	18
 toa	18
@@ -906,6 +905,7 @@ ualasiu	17
 tovoa	17
 pui	17
 rutule	17
+molie	17
 laharoa	17
 bula	17
 bau	17
@@ -1201,7 +1201,6 @@ usuti	10
 galugalu	10
 tao	10
 balile	10
-taive	10
 lovo	10
 giteuo	10
 vitokoromo	10
@@ -1274,6 +1273,7 @@ bokis	9
 tuala	9
 kopeti	9
 tari	9
+taive	9
 babaa	9
 kei	9
 tiligi	9
@@ -1847,7 +1847,6 @@ tabaati	4
 parakukuru	4
 paruparu	4
 ilau	4
-vuraga	4
 ivaale	4
 gilabu	4
 lubetia	4
@@ -2063,6 +2062,7 @@ toitoi	3
 tototolo	3
 mutele	3
 pusi	3
+vuraga	3
 sosolia	3
 tutulu	3
 karuturutu	3

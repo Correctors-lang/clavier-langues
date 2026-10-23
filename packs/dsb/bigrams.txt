@@ -1,56 +1,56 @@
 # Bigrammes dsb (FineWeb-2 dsb_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-jo	se	3685
-su	se	1328
-to	jo	1098
+jo	se	3683
+su	se	1326
+to	jo	1096
 až	do	1023
-jo	był	936
+jo	był	935
 w	lěśe	903
-in	der	825
-se	w	823
-se	na	758
-a	jo	737
-na	pśikład	682
+in	der	823
+se	w	822
+se	na	757
+a	jo	736
+na	pśikład	681
 z	tym	639
 k	tomu	622
 w	chóśebuzu	618
-až	jo	614
-toś	ten	611
-jo	to	592
-a	z	589
-za	to	586
+až	jo	613
+toś	ten	610
+jo	to	591
+a	z	588
+za	to	585
 su	byli	555
 wón	jo	551
-jo	była	541
+jo	była	540
 jo	w	539
 jo	było	535
-a	w	524
+a	w	521
 se	z	520
 a	to	495
 kótarež	su	489
 pśi	tom	485
 a	se	457
-a	na	456
+a	na	455
 aby	se	445
 dolnej	łužycy	444
-na	to	436
-za	serbski	436
+na	to	435
+za	serbski	435
 w	serbskem	433
 w	nimskej	428
 w	dolnej	426
 a	teke	404
-jo	teke	403
-serbski	lud	401
+jo	teke	402
+serbski	lud	400
 teke	w	398
 ako	teke	397
 se	teke	396
 toś	ta	393
 ako	jo	392
-k	dispoziciji	384
 toś	te	383
 ale	teke	383
+k	dispoziciji	383
 kenž	jo	376
-w	serbskej	375
+w	serbskej	374
 mimo	togo	371
 serbskeje	rěcy	368
 žrědłowy	tekst	359
@@ -70,8 +70,8 @@ klikniśo	na	302
 a	za	296
 prědny	raz	294
 kótarež	se	288
-až	su	286
 toś	to	286
+až	su	285
 su	w	280
 kótaraž	jo	278
 wó	tom	276
@@ -80,7 +80,7 @@ serbskego	sejma	271
 se	wót	269
 wót	lěta	264
 w	tom	262
-serbskej	rěcy	262
+serbskej	rěcy	261
 ako	su	258
 rěc	a	258
 we	łužycy	257
@@ -101,32 +101,32 @@ pak	jo	219
 teke	na	218
 jo	za	217
 toś	tom	216
-do	togo	216
+do	togo	215
 a	su	214
 mit	dem	210
 in	den	209
 jo	z	208
 na	zakłaźe	206
 rowno	tak	206
-se	pśez	205
-tak	ako	204
+se	pśez	204
 dalšne	informacije	203
 w	běgu	203
+tak	ako	203
 njejo	se	201
 a	jogo	201
 se	to	199
-teke	za	198
+teke	za	197
 dajo	se	196
-w	toś	196
-w	dolnoserbskej	194
+w	toś	195
 kenž	su	194
 tak	jo	194
 mit	der	194
+w	dolnoserbskej	193
 kótarež	jo	193
-za	źiśi	193
 informacije	wó	192
-w	měsće	191
-to	su	190
+za	źiśi	192
+w	měsće	190
+to	su	189
 su	na	189
 wušej	togo	189
 wót	togo	188
@@ -140,7 +140,7 @@ das	sorbische	179
 ma	se	177
 toś	tu	176
 a	wót	175
-ga	jo	175
+ga	jo	174
 dolnoserbsku	rěc	173
 z	togo	172
 w	cerkwi	172
@@ -155,17 +155,17 @@ na	zachopjeńku	169
 serbskego	luda	168
 se	pó	165
 rěc	w	165
-a	jich	163
 což	jo	163
 kaž	teke	163
+a	jich	162
 se	ako	162
 za	tym	162
 togo	jo	161
-a	k	160
 a	tak	159
+a	k	159
 dolnoserbskeje	rěcy	158
 dolnoserbskej	rěcy	158
-teke	z	158
+teke	z	157
 za	dalšne	157
 se	k	156
 für	das	156
@@ -182,33 +182,33 @@ na	toś	146
 su	měli	146
 kužde	lěto	144
 gaž	jo	144
-stej	se	144
 jo	južo	143
+stej	se	143
 ze	swójimi	142
 kak	móžośo	142
 tam	jo	141
 in	cottbus	141
 christian	matthée	141
 za	cas	140
-toś	tej	140
 aus	dem	140
 kenž	se	140
 co	jo	140
+toś	tej	139
 toś	tych	138
 to	serbske	138
 ako	na	137
-a	až	137
 na	pólu	137
 kak	se	136
 we	wobłuku	136
 jo	wót	136
 gromaźe	z	136
+a	až	136
 kótaryž	se	135
 som	se	135
-of	the	135
 jano	w	134
 ako	w	133
 tak	až	133
+of	the	133
 rěcny	centrum	133
 wót	zeger	133
 der	lausitz	133
@@ -217,8 +217,8 @@ za	dolnoserbsku	131
 centrum	witaj	131
 se	južo	131
 schillig	sofa	131
-a	ze	130
-buźo	se	130
+a	ze	129
+buźo	se	129
 glědajucy	na	129
 aus	der	129
 ze	serbskim	128
@@ -230,11 +230,10 @@ jo	pó	126
 mjaztym	až	126
 jo	wjelgin	126
 a	jeje	126
-ja	som	125
 a	do	125
-über	die	125
 und	die	125
 w	našom	125
+über	die	124
 kaž	tež	124
 die	sorbische	124
 ta	pśedłoga	123
@@ -242,6 +241,7 @@ krajnego	sejma	122
 in	die	122
 a	wubjeŕśo	122
 jo	malone	122
+ja	som	121
 se	pśi	121
 we	jsy	121
 ze	serbskeju	121
@@ -254,15 +254,15 @@ daju	se	119
 nimskej	rěcy	119
 w	górnej	119
 dolnoserbskego	gymnaziuma	119
-smy	se	119
 w	bórkowach	118
 górneje	łužyce	118
 dolna	łužyca	118
-und	der	118
+smy	se	118
 dla	togo	117
 mjazy	nimi	117
 w	lipsku	117
 a	wó	117
+und	der	117
 serbski	institut	117
 k	wěsći	116
 für	den	116
@@ -278,24 +278,22 @@ su	to	113
 von	der	113
 narodnych	mjeńšynow	113
 toś	togo	112
-to	pak	112
-in	diesem	112
-ako	se	111
 a	drugich	111
 to	groni	111
-auf	dem	111
+to	pak	111
 w	firefox	111
+in	diesem	111
 na	swójom	111
 ten	nastawk	110
+ako	se	110
 jo	ten	110
+auf	dem	110
 jo	pak	109
 in	the	109
 serbow	w	109
 serbskem	domje	109
-jo	nam	109
 a	we	108
 w	serbskich	108
-w	janšojcach	108
 by	se	107
 jo	wóna	107
 pśez	to	107
@@ -304,6 +302,8 @@ pśi	góźbje	107
 z	nim	107
 se	hyšći	107
 bei	der	107
+w	janšojcach	107
+jo	nam	107
 z	nich	106
 a	pótom	106
 w	našej	106
@@ -346,11 +346,11 @@ abo	w	98
 z	nimi	98
 hyšći	raz	98
 jo	tam	98
-cytańske	znamjenja	98
 až	to	97
 su	z	97
 a	pśi	97
 móžośo	teke	97
+cytańske	znamjenja	97
 kótaraž	se	96
 jano	na	96
 pak	njejo	96
@@ -359,9 +359,9 @@ pak	su	96
 rěc	jo	96
 su	te	96
 serbske	nastupnosći	96
-w	kótaremž	95
 an	der	95
 źož	su	95
+w	kótaremž	94
 maju	se	94
 ze	swójim	94
 firefox	za	94
@@ -369,18 +369,18 @@ serbskeje	kultury	94
 tom	casu	93
 auf	die	93
 co	se	93
-a	ako	92
 w	šuli	92
 toś	teje	92
 ale	to	92
 na	boku	91
 jo	hyšći	91
 a	te	91
-sich	die	91
 w	interneśe	91
 des	rbb	91
+a	ako	90
 a	ma	90
 nach	dem	90
+sich	die	90
 moderator	christian	90
 se	toś	89
 w	pólskej	89
@@ -394,12 +394,11 @@ serbow	a	88
 we	tej	88
 wěcej	wó	88
 sprache	und	88
-a	dalšne	87
 se	tam	87
 až	k	87
 na	swěśe	86
 serbski	muzej	86
-jano	za	86
+a	dalšne	86
 abo	z	86
 jo	měła	86
 za	wšykne	86
@@ -409,39 +408,40 @@ kulturu	a	86
 rěcnego	centruma	86
 budu	se	85
 se	groni	85
+jano	za	85
 a	tam	85
 auf	den	85
 na	jadnom	85
-w	lětach	85
-wjele	lět	85
 nastupnosći	serbow	85
-se	wě	85
-pó	standarźe	85
 spěchowańskego	towaristwa	85
 jo	serbski	85
 wjele	luźi	84
 na	kuždy	84
 tom	jo	84
+w	lětach	84
+wjele	lět	84
 w	drugich	84
-su	tam	84
-załožba	za	84
+se	wě	84
+pó	standarźe	84
 kuždy	źeń	84
 der	wendischen	84
 z	dolneje	84
 block	set	84
 raz	w	83
-jo	wjele	83
 tak	su	83
 za	mnjo	83
+su	tam	83
 jo	k	83
+załožba	za	83
 centruma	witaj	83
 togo	su	83
 pla	nas	83
-w	tej	82
+jo	wjele	82
 z	njeju	82
 pśistup	k	82
 pśecej	zasej	82
 za	toś	81
+w	tej	81
 buźo	w	81
 to	the	81
 k	prědnemu	81
@@ -465,7 +465,6 @@ teke	we	78
 wó	to	78
 za	serbow	78
 mit	den	78
-diesem	jahr	78
 mina	witkojc	77
 is	a	77
 tak	wjele	77
@@ -473,9 +472,9 @@ we	wšakich	77
 ale	jo	77
 w	srjejźišću	77
 jano	hyšći	77
+diesem	jahr	77
 w	slěpem	77
 z	jogo	76
-wón	se	76
 zakład	za	76
 se	how	76
 wusthof	classic	76
@@ -484,6 +483,7 @@ nježli	až	75
 ale	w	75
 za	wětšy	75
 jano	z	75
+wón	se	75
 až	w	75
 pak	teke	75
 se	zasej	75
@@ -497,7 +497,6 @@ na	městnje	74
 z	nami	74
 pó	tom	74
 firefox	jo	74
-k	temje	74
 w	slědnych	74
 a	klikniśo	74
 luźi	jo	74
@@ -506,6 +505,7 @@ togodla	jo	73
 wukniki	a	73
 serbskeje	rady	73
 kak	mógu	73
+k	temje	73
 na	serbske	73
 gregor	kliem	73
 ist	ein	72
@@ -531,7 +531,6 @@ lěc	jo	70
 su	wšykne	69
 tak	teke	69
 jadna	se	69
-tych	lět	69
 łužyskich	serbow	69
 zagronita	za	69
 kak	su	69
@@ -548,7 +547,6 @@ wó	serbach	67
 za	šćit	67
 in	einer	67
 nastajenja	za	67
-jo	móžno	66
 jolic	se	66
 cełem	swěśe	66
 jo	jaden	66
@@ -557,17 +555,18 @@ jo	jogo	66
 a	ja	66
 teke	wó	66
 auch	in	66
+jo	móžno	65
 pśikład	za	65
 w	dolnoserbšćinje	65
 z	górneje	65
 drugem	boce	65
-a	samo	65
 tam	su	65
 je	so	65
 na	wašom	65
 w	smogorjowje	65
 su	nastali	64
 jo	how	64
+a	samo	64
 łužycy	a	64
 domowiny	a	64
 zwězkowego	pśedsedarstwa	64
@@ -604,12 +603,10 @@ jadna	z	61
 su	we	61
 jo	nastała	61
 jo	pśi	61
-w	drugem	61
 se	zachopijo	61
 w	zmysle	61
 pó	źělach	61
 auch	die	61
-w	zwisku	61
 su	luźe	61
 k	nam	61
 to	z	61
@@ -623,11 +620,13 @@ z	mjenim	60
 město	togo	60
 nan	jo	60
 die	wendische	60
+w	drugem	60
 ze	swójeju	60
 jo	pśecej	60
 majski	bom	60
 to	na	60
 ten	jo	60
+w	zwisku	60
 so	w	60
 głownej	zgromaźinje	60
 serbskem	sedleńskem	60
@@ -653,7 +652,6 @@ a	serbski	59
 cerkwi	z	59
 startowy	bok	59
 z	tymi	59
-tak	daloko	59
 sinti	a	59
 na	drugi	58
 na	pódpołdnju	58
@@ -668,16 +666,15 @@ lětami	jo	58
 ale	nic	58
 so	na	58
 der	kirche	58
-ga	su	58
 až	sćo	58
 jo	pśišeł	58
+tak	daloko	58
 nuz	na	58
 tak	dłujko	57
 na	pódwjacorje	57
 wóni	se	57
 knigły	su	57
 na	zemi	57
-se	móžo	57
 kuždy	pad	57
 w	zjawnosći	57
 w	w	57
@@ -686,11 +683,12 @@ a	wukniki	57
 do	serbskeje	57
 zagronity	za	57
 se	mě	57
+ga	su	57
 co	ga	57
 wujadnańskego	wuběrka	57
 w	jadnej	56
-jo	toś	56
 tak	se	56
+se	móžo	56
 jo	źinsa	56
 njejsu	se	56
 um	die	56
@@ -700,12 +698,12 @@ witaj	w	56
 haben	wir	56
 su	mógali	56
 a	roma	56
+jo	toś	55
 wjelgin	derje	55
 njejo	było	55
 se	wjelgin	55
 jo	do	55
 źěło	a	55
-zwisku	z	55
 tom	dnju	55
 sedleńskego	ruma	55
 w	budyšinje	55
@@ -715,17 +713,16 @@ wót	serbskego	55
 w	jadnom	54
 w	kraju	54
 ten	bok	54
-z	wjelikim	54
 teke	druge	54
 pšawo	na	54
 w	našych	54
 vor	allem	54
 sich	mit	54
+zwisku	z	54
 wob	lěto	54
 njeglědajucy	na	54
 dawid	statnik	54
 to	grono	54
-der	niedersorbischen	54
 bóže	słowo	54
 lažy	w	53
 swětowej	wójnje	53
@@ -752,6 +749,7 @@ cerkwiny	źeń	53
 im	sorbischen	53
 jo	ta	53
 ze	serbskego	53
+der	niedersorbischen	53
 wšykne	su	53
 firefox	se	53
 kulturnego	derbstwa	53
@@ -760,6 +758,7 @@ raz	jo	52
 miny	witkojc	52
 jo	zasej	52
 na	jogo	52
+z	wjelikim	52
 póchada	z	52
 w	źiśownjach	52
 dokulaž	su	52
@@ -772,7 +771,6 @@ pód	gołym	52
 gołym	njebjom	52
 smy	w	52
 a	nowe	52
-wót	tych	52
 za	sorabistiku	52
 tomu	jo	52
 źinsa	hyšći	52
@@ -795,6 +793,7 @@ móžo	byś	51
 w	aprylu	51
 to	wšykno	51
 głowna	zgromaźina	51
+wót	tych	51
 hat	sich	51
 firefox	a	51
 do	šule	51
@@ -814,8 +813,6 @@ zwězkowe	pśedsedarstwo	50
 sorben	und	50
 wendische	sprache	50
 aber	auch	50
-lět	w	50
-źiśi	w	50
 muzeju	w	50
 wšedny	źeń	50
 ist	eine	50
@@ -832,7 +829,6 @@ jo	dało	49
 in	bautzen	49
 z	drugich	49
 k	tym	49
-źiśi	su	49
 w	slědnem	49
 su	kśěli	49
 hač	do	49
@@ -845,13 +841,13 @@ za	ten	49
 pśistup	na	49
 ist	das	49
 zakładnej	šuli	49
+lět	w	49
+źiśi	w	49
 pód	nawjedowanim	49
 jo	pśišło	49
 wěstem	modusu	49
 cas	jo	48
 na	krotkem	48
-ludowe	nakładnistwo	48
-nakładnistwo	domowina	48
 łužyce	a	48
 se	naroźił	48
 su	k	48
@@ -860,15 +856,13 @@ za	wědomnosć	48
 dośěgnu	dłujkosć	48
 we	wšych	48
 w	dolnoserbskem	48
-lower	sorbian	48
 in	einem	48
-za	lěto	48
+źiśi	su	48
 w	januarje	48
 tom	su	48
 na	jawišću	48
 lět	jo	48
 z	pjera	48
-maśica	serbska	48
 šule	za	48
 kak	to	48
 zakładneje	šule	48
@@ -880,17 +874,21 @@ se	nam	48
 se	cesto	47
 na	cełem	47
 w	srjejźnej	47
+ludowe	nakładnistwo	47
+nakładnistwo	domowina	47
 až	som	47
 a	togodla	47
-a	wón	47
 jadnom	boce	47
 akle	w	47
 w	regionje	47
+lower	sorbian	47
 aby	my	47
 how	w	47
 jo	mjazy	47
+za	lěto	47
 wót	załožby	47
 w	bramborskem	47
+maśica	serbska	47
 sprache	in	47
 sie	sich	47
 der	domowina	47
@@ -905,9 +903,9 @@ za	spěchowanje	46
 ty	sy	46
 jsy	a	46
 teke	wjele	46
-tych	lětach	46
 su	jogo	46
 k	toś	46
+a	wón	46
 jo	kśěł	46
 se	pśed	46
 źěło	w	46
@@ -1107,7 +1105,6 @@ serbske	žywjenje	40
 łapanje	kokota	40
 w	pśiducem	40
 z	wami	40
-die	in	40
 slědk	na	40
 in	deutschland	40
 muzeja	w	40
@@ -1136,7 +1133,6 @@ za	sebje	39
 se	jim	39
 na	kótarež	39
 za	android	39
-lět	stary	39
 in	das	39
 wósebnje	na	39
 dejali	se	39
@@ -1151,12 +1147,12 @@ ludowy	ansambel	39
 ako	by	39
 a	jaden	39
 wjaselimy	se	39
+die	in	39
 niedersorbischen	gymnasiums	39
 how	móžośo	39
 ze	žylowa	39
 serbsku	wucbu	39
 w	rěcnem	39
-z	dweju	38
 na	druge	38
 pśedewšym	w	38
 w	pódpołnocnej	38
@@ -1169,7 +1165,6 @@ ale	tež	38
 na	serbskich	38
 se	derje	38
 nulowy	meridian	38
-a	aby	38
 pózdźej	jo	38
 su	pak	38
 w	lěće	38
@@ -1183,6 +1178,7 @@ von	den	38
 program	za	38
 teke	pśi	38
 cełego	swěta	38
+lět	stary	38
 chóśebuza	a	38
 za	kubłanje	38
 šćit	datow	38
@@ -1203,6 +1199,7 @@ na	droze	38
 až	firefox	38
 informacije	k	38
 mě	jo	37
+z	dweju	37
 do	dolnoserbskeje	37
 das	ist	37
 ma	teke	37
@@ -1212,6 +1209,7 @@ pśikład	w	37
 a	smy	37
 na	pódpołnocy	37
 groni	se	37
+a	aby	37
 wokrejsu	sprjewja-nysa	37
 casnik	jo	37
 sind	die	37
@@ -1278,7 +1276,6 @@ jano	we	36
 za	pśichod	36
 serbskego	žywjenja	36
 serbske	koparje	36
-a	zasej	36
 und	dem	36
 jo	wiźeś	36
 ako	prědne	36
@@ -1301,7 +1298,6 @@ w	domje	35
 pótom	se	35
 if	you	35
 uniwersiśe	w	35
-in	berlin	35
 tom	paźe	35
 z	casa	35
 to	móžo	35
@@ -1316,7 +1312,6 @@ wognjoweje	wobory	35
 z	firefox	35
 weto	jo	35
 material	za	35
-chóśebuz	a	35
 nowego	lěta	35
 k	serbskim	35
 na	našej	35
@@ -1329,6 +1324,7 @@ geht	es	35
 des	wendischen	35
 w	pódstupimje	35
 und	des	35
+a	zasej	35
 su	swěśili	35
 na	meni	35
 se	rowno	35
@@ -1362,6 +1358,7 @@ to	mě	34
 wón	ma	34
 jo	musał	34
 jo	źěłał	34
+in	berlin	34
 ist	in	34
 se	jej	34
 w	głownem	34
@@ -1373,6 +1370,7 @@ až	mógu	34
 su	mě	34
 lěcrownož	jo	34
 su	how	34
+chóśebuz	a	34
 załožboweje	rady	34
 w	juliju	34
 se	zmakali	34
@@ -1423,7 +1421,6 @@ njejo	był	33
 na	pśecej	33
 toś	jo	33
 jo	dejał	33
-w	měsćańskem	33
 za	druge	33
 za	njogo	33
 will	be	33
@@ -1433,7 +1430,6 @@ chóśebuz	jo	33
 jo	město	33
 w	stawiznach	33
 pak	na	33
-dla	cogo	33
 rowno	som	33
 take	něco	33
 naraźenje	za	33
@@ -1452,7 +1448,6 @@ teke	pó	33
 wokrejsa	sprjewja-nysa	33
 płaśi	za	33
 die	ausstellung	33
-ewangelskeje	cerkwje	33
 njejo	hyšći	33
 über	das	33
 sich	in	33
@@ -1493,8 +1488,8 @@ była	w	32
 a	my	32
 w	českej	32
 jo	wažny	32
-w	nastawku	32
 mjeńšynowych	rěcow	32
+w	měsćańskem	32
 lěto	jo	32
 jo	zachopił	32
 projekt	za	32
@@ -1509,8 +1504,8 @@ mě	a	32
 hušej	togo	32
 ze	serbskeje	32
 a	pózdźej	32
+dla	cogo	32
 jolic	to	32
-für	eine	32
 bei	den	32
 es	in	32
 wót	njogo	32
@@ -1532,14 +1527,13 @@ how	su	32
 na	swóju	32
 cerkwi	w	32
 kśě	se	32
-su	nam	32
 w	bogatej	32
+ewangelskeje	cerkwje	32
 der	evangelischen	32
 der	sorbische	32
 die	die	32
 něnto	južo	32
 wustajeńca	w	32
-es	ist	32
 na	nas	32
 su	serbske	32
 die	lausitz	32
@@ -1555,7 +1549,6 @@ klikniśo	dwójcy	32
 co	to	32
 priwatny	modus	32
 šulske	towaristwo	32
-górna	łužyca	32
 waše	wósobinske	32
 wósobinske	daty	32
 wósebnje	za	32
@@ -1583,16 +1576,16 @@ wóna	ma	31
 jo	dostała	31
 do	města	31
 tak	pomjenjony	31
+w	nastawku	31
 abo	druge	31
-by	mógali	31
 njejo	nic	31
 zasej	w	31
 někotare	z	31
-a	ju	31
 zgóńśo	wěcej	31
 prědnem	rěźe	31
 nowe	lěto	31
 with	the	31
+für	eine	31
 how	to	31
 teke	pśez	31
 instituta	w	31
@@ -1603,9 +1596,9 @@ w	paźe	31
 župy	dolna	31
 ludowe	zastupnistwo	31
 serbska	wucba	31
+su	nam	31
 jo	ga	31
 rěcy	na	31
-domowina	a	31
 łužycy	w	31
 förderung	der	31
 swěźeń	w	31
@@ -1613,6 +1606,7 @@ ale	co	31
 how	se	31
 zu	einem	31
 taki	part	31
+es	ist	31
 serbskej	a	31
 serby	a	31
 wó	swójich	31
@@ -1632,6 +1626,7 @@ kužde	druge	31
 wó	serbskej	31
 z	cełeje	31
 su	hyšći	31
+górna	łužyca	31
 było	to	31
 wobźělenje	na	31
 serbske	kubłańske	31
@@ -1654,6 +1649,7 @@ bogumił	šwjela	30
 w	kuždej	30
 na	pódwjacor	30
 což	su	30
+by	mógali	30
 tom	se	30
 casa	jo	30
 za	źěło	30
@@ -1665,6 +1661,7 @@ su	cłonki	30
 dośěgnjo	wusokosć	30
 namakajo	se	30
 w	nimskem	30
+a	ju	30
 zu	einer	30
 w	jeje	30
 něnto	teke	30
@@ -1677,18 +1674,17 @@ sejma	jo	30
 mozilla	firefox	30
 až	maju	30
 nich	su	30
-dokulaž	se	30
 na	pśedań	30
 dolneje	a	30
 w	starem	30
 górneje	a	30
-góźi	se	30
 na	kótarychž	30
 jo	rowno	30
 serbski	kulturny	30
 pokazuju	se	30
 źěła	a	30
 na	njepilic	30
+domowina	a	30
 bogatej	licbje	30
 narodny	źeń	30
 der	cottbuser	30
@@ -1767,12 +1763,14 @@ maminu	rěc	29
 to	dej	29
 su	zasej	29
 na	našom	29
+dokulaž	se	29
 to	hyšći	29
 ludowe	spiwy	29
 su	něnto	29
 wjelgin	wažne	29
 spěchowanje	serbskeje	29
 šule	w	29
+góźi	se	29
 se	serbska	29
 za	wšyknych	29
 doglěd	do	29
@@ -1852,7 +1850,6 @@ a	źěła	28
 aby	mógał	28
 in	seiner	28
 gab	es	28
-se	wón	28
 žywy	był	28
 lěto	w	28
 zwězkowy	sejm	28
@@ -1920,7 +1917,6 @@ su	zwětšego	27
 so	za	27
 pak	w	27
 płaśi	ako	27
-jolic	coš	27
 nastawki	wó	27
 w	kategoriji	27
 pśikład	z	27
@@ -1958,6 +1954,7 @@ aby	wěcej	27
 teke	južo	27
 som	južo	27
 how	a	27
+se	wón	27
 se	zda	27
 drastwy	a	27
 pokazujo	na	27
@@ -2015,7 +2012,6 @@ teke	how	27
 lět	su	27
 nejnowšu	wersiju	27
 pólu	serbskeje	27
-wašo	licadło	27
 firefox	for	27
 teke	źinsa	27
 a	rowno	27
@@ -2046,9 +2042,9 @@ nastawk	z	26
 w	pódpołnocu	26
 wjele	z	26
 na	pódpołnocu	26
+jolic	coš	26
 nimskeje	a	26
 jolic	maśo	26
-km	na	26
 až	wóna	26
 rozeznawa	se	26
 se	jo	26
@@ -2130,6 +2126,7 @@ buźo	teke	26
 teke	to	26
 kraj	bramborska	26
 móžo	teke	26
+wašo	licadło	26
 gymnaziumje	w	26
 for	android	26
 in	wendischer	26
@@ -2137,7 +2134,6 @@ na	internetowem	26
 gegen	die	26
 w	dańskej	26
 z	mejlku	26
-pytańskego	póla	26
 kubłańske	wuwijanje	26
 sich	an	26
 za	swójo	26
@@ -2162,6 +2158,7 @@ cyniś	z	25
 zagronite	za	25
 za	naš	25
 mjazy	drugimi	25
+km	na	25
 jo	zwětšego	25
 drugim	w	25
 cas	žywjenja	25
@@ -2211,7 +2208,6 @@ namakajośo	na	25
 na	dobro	25
 we	łužicy	25
 jo	domowina	25
-gregor	wieczorek	25
 šwjela	jo	25
 rěcneje	komisije	25
 wenden	in	25
@@ -2236,7 +2232,6 @@ rozgronje	z	25
 som	w	25
 ze	mnu	25
 w	złem	25
-wědu	wó	25
 serbskich	jsach	25
 se	wobźěliło	25
 se	woglědaś	25
@@ -2253,7 +2248,6 @@ kótarejž	jo	25
 a	źiśi	25
 aby	firefox	25
 wšo	to	25
-był	a	25
 we	łazu	25
 wobstarajśo	se	25
 chor	łužyca	25
@@ -2266,6 +2260,7 @@ budu	w	25
 w	lnd	25
 wurownańskego	wuběrka	25
 na	was	25
+pytańskego	póla	25
 we	njej	25
 zwenka	łužyce	25
 k	jatšam	25
@@ -2301,7 +2296,6 @@ serbsku	drastwu	24
 swójogo	žywjenja	24
 serbski	casnik	24
 by	the	24
-su	wšake	24
 na	někotarych	24
 jo	cłonk	24
 hyšći	až	24
@@ -2357,6 +2351,7 @@ pśecej	hyšći	24
 jo	kradu	24
 aby	mógali	24
 su	pśi	24
+gregor	wieczorek	24
 se	załožyła	24
 dolnoserbskeje	rěcneje	24
 nowe	knigły	24
@@ -2382,6 +2377,7 @@ až	ten	24
 es	gibt	24
 su	stojali	24
 menijowy	tłocašk	24
+wědu	wó	24
 mógali	se	24
 był	ten	24
 und	auch	24
@@ -2402,6 +2398,7 @@ a	stej	24
 móžośo	toś	24
 z	mytom	24
 jo	naš	24
+był	a	24
 wětšy	źěł	24
 tej	jsy	24
 dwěma	lětoma	24
@@ -2438,6 +2435,7 @@ pśi	serbskem	23
 a	drugi	23
 za	jeje	23
 do	błotow	23
+su	wšake	23
 pśedłoga	jo	23
 a	gólcy	23
 ze	jsy	23
@@ -2532,13 +2530,11 @@ až	te	23
 namša	w	23
 cerkwinego	dnja	23
 a	chto	23
-hyšći	njejo	23
 firefox	w	23
 tak	smy	23
 serbski	swěźeń	23
 a	drugimi	23
 noch	nicht	23
-firefox	accounts	23
 łoni	jo	23
 wóni	budu	23
 pśišeł	do	23
@@ -2600,7 +2596,6 @@ milionow	luźi	22
 a	pšawo	22
 er	ist	22
 srjejźnego	mórja	22
-ych	lět	22
 běgu	casa	22
 mjaztym	jo	22
 był	wót	22
@@ -2623,7 +2618,6 @@ něnto	na	22
 ich	habe	22
 ceły	źeń	22
 to	źěło	22
-w	meniju	22
 za	rěc	22
 is	an	22
 póchadaju	z	22
@@ -2680,7 +2674,6 @@ erfahren	sie	22
 hat	die	22
 byli	teke	22
 se	pśizjawiś	22
-ale	wón	22
 sedleńskemu	rumoju	22
 w	pśiroźe	22
 wob	cas	22
@@ -2692,6 +2685,7 @@ krajneje	cerkwje	22
 mjazy	tymi	22
 to	we	22
 stare	a	22
+hyšći	njejo	22
 jo	drje	22
 cytaś	serbski	22
 w	rěźe	22
@@ -2701,7 +2695,6 @@ a	socialne	22
 wjacor	w	22
 we	swójich	22
 wón	był	22
-w	dialogu	22
 rada	jo	22
 šulskego	towaristwa	22
 a	snaź	22
@@ -2722,7 +2715,6 @@ pokazaś	na	22
 hynac	ako	22
 w	mósće	22
 kak	by	22
-der	sendung	22
 zwězkowe	pśedsedaŕstwo	22
 classic	chef	22
 to	běšo	22
@@ -2749,7 +2741,6 @@ jo	musała	21
 jo	znaty	21
 jo	groniła	21
 w	srjejźi	21
-do	zachopjeńka	21
 pó	drugej	21
 jo	nejskerjej	21
 pśed	tym	21
@@ -2780,9 +2771,8 @@ jo	pódla	21
 žywy	w	21
 jo	žywy	21
 at	the	21
-až	sy	21
-wutšobny	źěk	21
 nur	die	21
+w	meniju	21
 on	a	21
 we	wukraju	21
 druge	su	21
@@ -2845,9 +2835,9 @@ glejśo	nastawk	21
 serbach	a	21
 na	woglěźe	21
 šulskego	lěta	21
-do	ruki	21
 jo	wulicował	21
 te	informacije	21
+ale	wón	21
 rozgłosu	rbb	21
 w	šulskem	21
 na	nju	21
@@ -2860,14 +2850,15 @@ teke	někotare	21
 firefox	browser	21
 za	swóju	21
 tak	lažko	21
+firefox	accounts	21
 myto	jo	21
 wird	das	21
 pórucenja	za	21
 a	wšykno	21
 kupkow	a	21
+w	dialogu	21
 to	samske	21
 ma	z	21
-nic	w	21
 a	luźe	21
 dogromady	jo	21
 ze	wšakimi	21
@@ -2904,6 +2895,7 @@ helmut	kurjo	21
 startowego	boka	21
 cytańske	znamje	21
 wóno	se	21
+der	sendung	21
 program	na	21
 w	baršću	21
 die	schule	21
@@ -2913,7 +2905,6 @@ něco	wó	20
 na	bok	20
 kótarejž	su	20
 su	słušali	20
-móžo	w	20
 wětšy	part	20
 někotarych	padach	20
 na	kótaryž	20
@@ -2926,6 +2917,7 @@ jo	sobu	20
 z	tśimi	20
 jo	zwězane	20
 by	mógał	20
+do	zachopjeńka	20
 njejo	měł	20
 w	ndr	20
 w	zgórjelcu	20
@@ -2955,6 +2947,8 @@ wót	až	20
 był	prědny	20
 móžo	to	20
 wótegrona	na	20
+až	sy	20
+wutšobny	źěk	20
 som	to	20
 i	am	20
 móc	a	20
@@ -2997,7 +2991,6 @@ co	tam	20
 zu	finden	20
 słowa	a	20
 to	cełe	20
-běšo	se	20
 pó	wopśimjeśu	20
 abo	wó	20
 wěcej	a	20
@@ -3020,6 +3013,7 @@ tomu	słuša	20
 nationalen	minderheiten	20
 žywe	byli	20
 und	ein	20
+do	ruki	20
 šulskem	lěśe	20
 až	budu	20
 na	waše	20
@@ -3028,10 +3022,10 @@ na	zemju	20
 lěc	to	20
 film	wó	20
 do	drugeje	20
+ak	se	20
 a	wuknicow	20
 serbskej	wucbje	20
 w	klubowni	20
-ych	lětach	20
 jo	wšykno	20
 su	gronili	20
 z	hochoze	20
@@ -3050,6 +3044,7 @@ tak	som	20
 a	wy	20
 zagronitego	za	20
 na	łuce	20
+nic	w	20
 na	wutšobje	20
 arnošta	muki	20
 der	rbb	20
@@ -3096,6 +3091,7 @@ pśikaze	zapódaś	20
 klima	z	19
 luźi	a	19
 ministarski	prezident	19
+móžo	w	19
 pód	toś	19
 tropiska	klima	19
 se	pśedewšym	19
@@ -3133,7 +3129,6 @@ krotko	pó	19
 w	małem	19
 stej	to	19
 wjele	serbskich	19
-lětny	jubilej	19
 teke	dalšne	19
 pólskeje	a	19
 lichotnego	stata	19
@@ -3184,7 +3179,6 @@ jadnański	pórěd	19
 maju	pšawo	19
 na	pśepšosenje	19
 a	informacije	19
-drugem	źělu	19
 do	źinsa	19
 zu	hören	19
 se	togodla	19
@@ -3201,6 +3195,7 @@ za	serbskimi	19
 pód	tym	19
 ako	pśikład	19
 na	głowje	19
+běšo	se	19
 serbskeje	biblije	19
 se	wótměła	19
 ze	spiwanim	19
@@ -3296,7 +3291,6 @@ do	teje	19
 a	rěcne	19
 a	wótkubłarje	19
 sie	sind	19
-do	pytańskego	19
 a	nastajenja	19
 jill-francis	ketlicojc	19
 wulět	do	19
@@ -3328,7 +3322,6 @@ pśedłogi	za	18
 z	tśich	18
 nastawki	w	18
 a	projekty	18
-pšašanja	wó	18
 mógu	byś	18
 jo	rěc	18
 jano	pśez	18
@@ -3390,7 +3383,6 @@ za	ios	18
 jo	raz	18
 dom	w	18
 něnto	z	18
-a	bramborskeje	18
 serbske	narodne	18
 kenž	njejsu	18
 se	załožyło	18
@@ -3412,6 +3404,7 @@ jo	znata	18
 źiśi	z	18
 wót	swójogo	18
 domowiny	ako	18
+drugem	źělu	18
 města	chóśebuz	18
 buźo	na	18
 pód	adresu	18
@@ -3499,7 +3492,6 @@ zu	sein	18
 wucbu	w	18
 ceły	rěd	18
 tekst	z	18
-za	pšašanja	18
 serbskich	ludowych	18
 až	ta	18
 pódpěru	za	18
@@ -3531,7 +3523,6 @@ konto	firefox	18
 pandemije	dla	18
 die	beiden	18
 im	cottbuser	18
-aby	wam	18
 teke	tak	18
 do	nimšćiny	18
 drastwow	a	18
@@ -3546,7 +3537,7 @@ tenraz	z	18
 sie	diesmal	18
 ten	wótrězk	18
 w	ukrainje	18
-waše	cytańske	18
+do	pytańskego	18
 schreibt	man	18
 wjacor	zeger	18
 serbskeje	identity	18
@@ -3556,7 +3547,6 @@ wón	na	18
 the	sorbian	18
 haben	sich	18
 woglědaś	a	18
-hyšći	do	18
 we	srjejźišću	18
 to	ze	18
 er	sich	18
@@ -3581,6 +3571,7 @@ se	namakaju	17
 se	wugranja	17
 pódzajtšu	a	17
 su	tśi	17
+pšašanja	wó	17
 we	februarje	17
 na	pódpołdnjo	17
 samo	z	17
@@ -3668,6 +3659,7 @@ jo	stary	17
 tej	rěcy	17
 instituśe	za	17
 z	ruku	17
+a	bramborskeje	17
 se	dało	17
 abo	gaž	17
 w	formje	17
@@ -3761,6 +3753,7 @@ pśiducy	raz	17
 pśedsedaŕ	towaristwa	17
 jo	wujšło	17
 kooperaciji	ze	17
+za	pšašanja	17
 śim	wěcej	17
 a	tradicijow	17
 njejo	žeden	17
@@ -3780,7 +3773,6 @@ w	němskej	17
 naroźił	w	17
 maksimilian	hasacki	17
 něco	za	17
-serbskeje	muziki	17
 im	internet	17
 a	tejerownosći	17
 jo	projekt	17
@@ -3802,7 +3794,6 @@ nic	wěcej	17
 južo	pśecej	17
 se	rozgranjali	17
 na	dalšne	17
-a	mě	17
 na	njen	17
 am	niedersorbischen	17
 se	źiśi	17
@@ -3833,6 +3824,7 @@ som	tam	17
 chtož	jo	17
 wird	der	17
 ako	faraŕ	17
+waše	cytańske	17
 ja	to	17
 gósći	z	17
 im	mittelpunkt	17
@@ -3843,12 +3835,14 @@ a	wukraja	17
 jo	ale	17
 stawiznow	a	17
 datowej	bance	17
+hyšći	do	17
 za	wobźělenje	17
 pśizjawśo	se	17
 zdźaržanje	a	17
 zusammen	mit	17
 junge	leute	17
 w	nastajenjach	17
+aby	wam	17
 a	źowća	17
 wenn	es	17
 hier	können	17
@@ -3885,7 +3879,6 @@ rozpšawy	wó	16
 pó	słowje	16
 zwětšego	na	16
 metrow	nad	16
-wót	jeje	16
 tekst	jo	16
 město	a	16
 som	była	16
@@ -3941,7 +3934,6 @@ nichten	njejo	16
 to	do	16
 we	are	16
 die	mit	16
-togodla	som	16
 dass	der	16
 daty	a	16
 do	kótaregož	16
@@ -4110,6 +4102,7 @@ wurde	im	16
 wjele	wó	16
 mato	rizo	16
 on	firefox	16
+serbskeje	muziki	16
 se	raz	16
 młoźinski	magacin	16
 und	für	16
@@ -4135,7 +4128,6 @@ až	musymy	16
 na	nowy	16
 co	z	16
 pyta	za	16
-kněz	jo	16
 wjacor	wót	16
 pśedsedaŕstwo	domowiny	16
 su	rowno	16
@@ -4146,6 +4138,7 @@ a	dalšnymi	16
 znaty	serbski	16
 serbska	kulturna	16
 es	sich	16
+a	mě	16
 identity	a	16
 za	jaden	16
 iniciatiwy	za	16
@@ -4243,6 +4236,7 @@ comž	se	15
 na	bazy	15
 the	wikimedia	15
 cm	a	15
+wót	jeje	15
 su	wažne	15
 se	pózdźej	15
 był	wjelgin	15
@@ -4310,6 +4304,7 @@ tak	wažne	15
 což	ma	15
 w	mjenju	15
 war	es	15
+togodla	som	15
 a	teksty	15
 des	neuen	15
 die	möglichkeit	15
@@ -4341,7 +4336,6 @@ a	swóju	15
 klikniśo	górjejce	15
 su	wše	15
 w	tśich	15
-naźeju	na	15
 kótaregož	jo	15
 jo	jadnučki	15
 bok	z	15
@@ -4439,7 +4433,6 @@ bei	einem	15
 w	pśinosku	15
 des	landes	15
 mit	ihrem	15
-teke	jo	15
 wósobu	se	15
 google	analytics	15
 wót	was	15
@@ -4476,7 +4469,6 @@ a	chóśebuzu	15
 wiźeś	w	15
 wósadny	faraŕ	15
 jo	zazdaśim	15
-glejśo	firefox	15
 rozwězowanju	problemow	15
 se	dał	15
 was	ist	15
@@ -4561,6 +4553,7 @@ muzikowy	wideo	15
 se	ta	15
 hyšći	jo	15
 das	magazin	15
+kněz	jo	15
 nach	einem	15
 w	pšawem	15
 zejlerja	a	15
@@ -4574,7 +4567,6 @@ sejm	na	15
 wy	se	15
 daty	wó	15
 datow	a	15
-z	kliknjenim	15
 twaŕske	źěła	15
 kula	bula	15
 a	zgromadne	15
@@ -4694,7 +4686,6 @@ zaběrał	z	14
 drogowanje	do	14
 ten	slědny	14
 ako	góle	14
-wó	wužywanju	14
 jo	myslony	14
 což	by	14
 ako	ten	14
@@ -4741,7 +4732,6 @@ as	well	14
 need	to	14
 sowie	die	14
 až	my	14
-bis	zu	14
 teke	tam	14
 hier	die	14
 der	neuen	14
@@ -4765,8 +4755,8 @@ gronidła	a	14
 jo	prědna	14
 stanjo	se	14
 až	serby	14
-a	zdźěla	14
 chor	a	14
+naźeju	na	14
 z	wjelikimi	14
 atlantiskego	oceana	14
 firefox	do	14
@@ -4790,7 +4780,6 @@ za	kulturne	14
 runje	tak	14
 wó	serbsku	14
 stata	sakska	14
-a	budu	14
 se	sobotu	14
 pśedsedarja	domowiny	14
 zwisku	ze	14
@@ -4870,7 +4859,6 @@ part	jo	14
 a	kóńc	14
 kótaruž	sćo	14
 sćo	wy	14
-der	ddr	14
 to	pšawo	14
 njeźelu	jo	14
 weto	su	14
@@ -4887,6 +4875,7 @@ za	woplěwanje	14
 a	pśed	14
 z	takim	14
 von	einer	14
+teke	jo	14
 na	wšyknych	14
 źo	se	14
 se	póśěgujuce	14
@@ -4926,12 +4915,12 @@ na	temu	14
 wósady	a	14
 es	für	14
 z	wuknikami	14
-z	jadneju	14
 jano	jadno	14
 pó	zakóńcenju	14
 auf	deutsch	14
 žeńske	su	14
 z	kupku	14
+glejśo	firefox	14
 na	nejnowšu	14
 wó	rozwězowanju	14
 stej	teke	14
@@ -5058,6 +5047,7 @@ do	źiśownje	14
 der	europeada	14
 albin	moller	14
 luda	w	14
+z	kliknjenim	14
 a	pód	14
 źěła	jo	14
 buźo	zasej	14
@@ -5087,10 +5077,8 @@ su	wiźeś	14
 a	což	14
 kuždy	part	14
 njeźelu	w	14
-europejskeje	rady	14
 den	ersten	14
 wósebny	part	14
-er	jahre	14
 kannst	du	14
 dem	titel	14
 dass	sich	14
@@ -5117,7 +5105,6 @@ die	menschen	14
 byś	za	14
 za	wuběranje	14
 maria	elikowska-winkler	14
-dwa	tyźenja	14
 nastupnosći	wokrejsa	14
 stajśo	kokulku	14
 nowa	wustajeńca	14
@@ -5188,6 +5175,7 @@ dnja	jo	13
 zur	geschichte	13
 jo	prědne	13
 der	europäischen	13
+wó	wužywanju	13
 z	tak	13
 geografiskeje	šyriny	13
 swójom	źěle	13
@@ -5234,6 +5222,7 @@ die	wenden	13
 my	mamy	13
 bok	a	13
 napóraś	a	13
+bis	zu	13
 auch	bei	13
 nejskerjej	jo	13
 w	rožku	13
@@ -5276,6 +5265,7 @@ firefox	znowego	13
 und	aus	13
 wó	pomoc	13
 ze	zachopjeńkom	13
+a	zdźěla	13
 pśisamem	wšykne	13
 hyšći	njejsu	13
 to	wósebne	13
@@ -5298,6 +5288,7 @@ pśed	něźi	13
 a	šulach	13
 cakaju	na	13
 drugim	jo	13
+a	budu	13
 na	njej	13
 rewizijnego	wuběrka	13
 južo	dlejšy	13
@@ -5329,6 +5320,7 @@ wjele	wót	13
 městno	buźo	13
 wejsnej	droze	13
 spomina	na	13
+stopjeń	dlininy	13
 nimi	teke	13
 na	měsće	13
 muzeja	a	13
@@ -5382,6 +5374,7 @@ dajśo	nam	13
 sobu	a	13
 był	jaden	13
 abo	ze	13
+der	ddr	13
 se	take	13
 se	zjawnje	13
 a	kśě	13
@@ -5444,6 +5437,7 @@ sorbische	musik	13
 póžedanje	za	13
 jo	dr	13
 ten	prědny	13
+z	jadneju	13
 jaden	abo	13
 wersija	firefox	13
 a	wóno	13
@@ -5461,7 +5455,6 @@ wukniki	dolnoserbskego	13
 wulicował	wót	13
 w	měrje	13
 w	tekstowem	13
-nimjerne	žywjenje	13
 jo	wažna	13
 za	wucbu	13
 casa	su	13
@@ -5474,7 +5467,6 @@ do	jśpy	13
 až	we	13
 na	waš	13
 program	a	13
-a	załožba	13
 sorabistiku	na	13
 muzej	jo	13
 serbskeje	cerkwje	13
@@ -5550,7 +5542,6 @@ samo	gaby	13
 nas	a	13
 chto	ga	13
 der	neue	13
-z	młodymi	13
 w	zymjem	13
 měsćańskem	muzeju	13
 z	rownego	13
@@ -5599,7 +5590,6 @@ na	instituśe	13
 se	jasnje	13
 se	stara	13
 a	móžnosći	13
-kliknjenim	na	13
 pódobnje	ako	13
 w	telewiziji	13
 kiž	je	13
@@ -5647,6 +5637,7 @@ zjawnem	rumje	13
 es	eine	13
 tych	tśich	13
 roman	pernack	13
+europejskeje	rady	13
 die	initiative	13
 swójske	mjenja	13
 ma	swóje	13
@@ -5687,6 +5678,7 @@ und	sich	13
 z	partnarjami	13
 waš	startowy	13
 pó	kśěśu	13
+dwa	tyźenja	13
 kandidatow	za	13
 da	jo	13
 mjeńšynoweje	rady	13
@@ -5705,7 +5697,6 @@ tykac	flash	13
 verbunden	sind	13
 nowy	rejtark	13
 das	schleifer	13
-slow	juicer	13
 swójske	mě	12
 w	krotkozajtšnej	12
 stolica	jo	12
@@ -5746,7 +5737,6 @@ gespräch	mit	12
 w	europskej	12
 pomjenjujo	se	12
 pśinoski	k	12
-one	of	12
 wót	toś	12
 w	originalnej	12
 a	dwa	12
@@ -5831,7 +5821,6 @@ a	stoje	12
 měli	se	12
 do	dweju	12
 dlej	ako	12
-bok	wó	12
 to	this	12
 musy	byś	12
 chto	ma	12
@@ -6011,7 +6000,6 @@ rědce	na	12
 aby	swóju	12
 kótarež	móžośo	12
 mógał	se	12
-lětne	wobstaśe	12
 towaristwa	jo	12
 serbskich	kulturnych	12
 jo	ceło	12
@@ -6079,6 +6067,7 @@ na	póžedanje	12
 w	bórkojskem	12
 někotare	su	12
 kótaryž	dajo	12
+nimjerne	žywjenje	12
 cłonk	w	12
 jo	bejnje	12
 telewizijnego	magacina	12
@@ -6088,6 +6077,7 @@ institut	w	12
 źinsajšnem	pšawopisu	12
 se	myslili	12
 se	zachopiła	12
+a	załožba	12
 nationaler	minderheiten	12
 wurde	das	12
 jo	pśedewšym	12
@@ -6158,7 +6148,6 @@ k	našomu	12
 musik	der	12
 tag	der	12
 se	bok	12
-górjejce	napšawo	12
 něco	k	12
 casu	korony	12
 w	magacinje	12
@@ -6175,6 +6164,7 @@ firefox	account	12
 ines	neumannojc	12
 nimske	a	12
 za	tyźeń	12
+z	młodymi	12
 der	arbeit	12
 romana	pernaka	12
 se	weto	12
@@ -6203,15 +6193,12 @@ wužywaŕ	dsb	12
 cłonki	zwězkowego	12
 ako	serby	12
 a	wótkubłarjow	12
-kokota	a	12
 swěźeń	na	12
 starych	casow	12
 der	aktuellen	12
 ten	nowy	12
-jich	rěc	12
 jo	chopił	12
 tu	drogu	12
-domje	na	12
 gymnaziumje	a	12
 našom	regionje	12
 hat	sie	12
@@ -6241,6 +6228,7 @@ pó	studiumje	12
 wěcej	casa	12
 der	serbski	12
 thomas	kläber	12
+kliknjenim	na	12
 muzeumje	w	12
 jana	buka	12
 a	dolnoserbski	12
@@ -6361,7 +6349,6 @@ juraj	kubánka	12
 wótpołdnja	zeger	12
 buźo	sobotu	12
 telewizijny	magacin	12
-buźo	lětosa	12
 sprache	ist	12
 do	cerkwje	12
 to	nastajenjenastajenje	12
@@ -6379,7 +6366,6 @@ jo	mûa	12
 jo	dugi	12
 tùmûa	jo	12
 wusthof	walnut	12
-w	lčğe	12
 njewótwisny	stat	11
 su	pśedewšym	11
 informěrujo	wó	11
@@ -6420,6 +6406,7 @@ ma	wjeliki	11
 swět	jo	11
 wužywanje	w	11
 wědomnosći	a	11
+one	of	11
 městna	a	11
 móžo	pak	11
 w	italskej	11
@@ -6520,6 +6507,7 @@ a	jadna	11
 wódy	na	11
 pak	ako	11
 wustupujo	w	11
+bok	wó	11
 až	móžoš	11
 as	the	11
 you	will	11
@@ -6562,7 +6550,6 @@ swěźenje	a	11
 žeńskecy	chor	11
 w	picańskem	11
 se	pokazaś	11
-rady	jo	11
 w	kórjenju	11
 teke	online	11
 za	desktop	11
@@ -6614,7 +6601,6 @@ zajmy	serbow	11
 europskich	narodnych	11
 ludowu	kulturu	11
 jo	jo	11
-jo	licba	11
 drugem	boku	11
 projekta	wikidata	11
 wjeliku	licbu	11
@@ -6651,7 +6637,6 @@ a	cośo	11
 pśepšosyjomy	was	11
 pśedstajiju	se	11
 laže	na	11
-stopjeń	dlininy	11
 teke	wšykne	11
 amta	za	11
 a	jadno	11
@@ -6733,6 +6718,7 @@ mě	teke	11
 na	btu	11
 co	dej	11
 der	slawischen	11
+jeje	narěcow	11
 how	do	11
 móžośo	z	11
 njejsu	hyšći	11
@@ -6852,7 +6838,6 @@ w	poznanju	11
 w	pólskem	11
 cłonk	serbskego	11
 w	dalšnych	11
-jo	grała	11
 ako	źiśi	11
 tencas	w	11
 ako	gósć	11
@@ -6925,6 +6910,7 @@ mailingowu	lisćinu	11
 wšuźi	na	11
 wir	für	11
 něchten	jo	11
+górjejce	napšawo	11
 procowanje	wó	11
 wobźělone	na	11
 pětk	w	11
@@ -6939,7 +6925,6 @@ a	naša	11
 za	napóranje	11
 za	studium	11
 we	wobceŕku	11
-se	naša	11
 drogowanje	pśez	11
 za	informacije	11
 pódla	su	11
@@ -6983,15 +6968,18 @@ dokulaž	som	11
 hyšći	z	11
 swójej	domowni	11
 a	nazgónjenja	11
+kokota	a	11
 wón	słuša	11
 serbski	kral	11
 jogo	ako	11
 wšyknych	serbow	11
+jich	rěc	11
 gano	jo	11
 wudaśe	biblije	11
 njejsmy	mógali	11
 pó	serbskej	11
 marion	kwicojc	11
+domje	na	11
 ma	toś	11
 w	balokopanju	11
 za	domowinu	11
@@ -7042,7 +7030,6 @@ te	nastajenja	11
 wótergi	teke	11
 nimske	mě	11
 na	rěcny	11
-měsćańskem	domje	11
 wó	wopśimjeśu	11
 se	pśedstajijo	11
 njebjom	na	11
@@ -7076,7 +7063,6 @@ casa	za	11
 der	heutigen	11
 gaž	woglědujośo	11
 symbol	za	11
-ako	małe	11
 na	firefox	11
 te	pšašanja	11
 to	towaristwo	11
@@ -7186,6 +7172,7 @@ a	kulturnym	11
 mitglieder	des	11
 lěc	cośo	11
 a	wjelike	11
+buźo	lětosa	11
 škódne	programy	11
 mjeńšyna	z	11
 kliem	jo	11
@@ -7205,6 +7192,7 @@ steht	bei	11
 na	zasejwiźenje	11
 składowu	pśetrjebu	11
 kulturneje	akademije	11
+w	lčğe	11
 domena	smějo	11
 se	źo	10
 pódwjacorje	a	10
@@ -7242,7 +7230,6 @@ jen	do	10
 w	samskej	10
 z	lět	10
 za	lašowanje	10
-jo	zrazom	10
 w	žywjenju	10
 kupka	a	10
 wóna	w	10
@@ -7351,6 +7338,7 @@ pódpěru	z	10
 se	pśizamknuł	10
 na	pśichod	10
 kotrež	so	10
+lětny	jubilej	10
 swěśi	se	10
 ako	drugu	10
 mjaztym	su	10
@@ -7395,7 +7383,6 @@ lěc	sćo	10
 können	wir	10
 bok	za	10
 górjejce	w	10
-the	lower	10
 interesse	an	10
 bis	ende	10
 nicht	zu	10
@@ -7437,6 +7424,7 @@ kwiśonki	stoje	10
 jo	dobre	10
 z	kólasom	10
 pśisamem	jano	10
+rady	jo	10
 z	cłonkami	10
 w	nejwěcej	10
 dolnoserbske	knigły	10
@@ -7475,7 +7463,6 @@ prozny	bok	10
 wótkaz	za	10
 we	wokrejsach	10
 ma	mě	10
-šćit	za	10
 na	drogach	10
 błotach	jo	10
 do	wody	10
@@ -7511,7 +7498,6 @@ wudobywanje	brunice	10
 wósebnje	pak	10
 za	rozšyrjenje	10
 tom	pak	10
-gaž	wóni	10
 za	taki	10
 kak	móžoš	10
 móžoš	w	10
@@ -7533,10 +7519,10 @@ pśedsedarstwo	maćice	10
 cu	se	10
 lět	na	10
 zwězkowej	rowninje	10
+jo	licba	10
 wjelgin	malsnje	10
 hyšći	dalej	10
 witajśo	k	10
-nam	do	10
 wobswěta	a	10
 nowy	projekt	10
 na	wikidata	10
@@ -7548,7 +7534,6 @@ tom	konteksće	10
 w	górnoserbšćinje	10
 wjeliki	źěł	10
 rěcnych	wobrotow	10
-lětnego	jubileja	10
 wušy	promšt	10
 za	górnu	10
 ma	swóju	10
@@ -7576,7 +7561,6 @@ róža	domašcyna	10
 zymskem	casu	10
 powědaś	wó	10
 jsy	na	10
-können	sich	10
 nejpjerwjej	w	10
 dolnołužyskeje	domowiny	10
 kosyk	jo	10
@@ -7609,7 +7593,6 @@ bis	hin	10
 die	kirche	10
 sorbische	komponist	10
 wir	mit	10
-serbskego	komponista	10
 anne	holzschuh	10
 wendische	landschleicherin	10
 kulturnego	a	10
@@ -7789,6 +7772,7 @@ w	słownikach	10
 njeźelu	su	10
 we	cełem	10
 serbskeje	pisneje	10
+jo	grała	10
 dłujko	su	10
 se	mógała	10
 als	audio	10
@@ -7820,7 +7804,6 @@ to	myto	10
 nimskeju	a	10
 w	domowni	10
 how	wěcej	10
-dosć	derje	10
 wobźělijo	se	10
 noc	powěsćow	10
 hyšći	k	10
@@ -7854,7 +7837,6 @@ zgromaźinje	domowiny	10
 město	za	10
 ewangelske	serby	10
 łužyca	spiwa	10
-wjerašk	jo	10
 jo	ned	10
 ten	nadawk	10
 w	raźe	10
@@ -7900,6 +7882,7 @@ dobre	a	10
 njeźelu	pó	10
 pśedstajijo	w	10
 spiwy	z	10
+se	naša	10
 cookieje	tśeśich	10
 make	sure	10
 swóje	nastajenja	10
@@ -7939,7 +7922,6 @@ jo	zemrěł	10
 kontakt	ze	10
 móžnosć	za	10
 te	same	10
-er	jahren	10
 stare	lěto	10
 marion	stenselowa	10
 pśiwześ	a	10
@@ -7949,14 +7931,12 @@ z	nastawka	10
 a	wukraju	10
 kooperation	mit	10
 w	znamjenju	10
-ten	źěl	10
 wobgrozonych	rěcow	10
 a	swójo	10
 šćit	w	10
 na	pomocy	10
 wjeliku	rolu	10
 zakładneje	kazni	10
-ramikowe	dojadnanje	10
 staraju	se	10
 unserer	region	10
 žeńske	w	10
@@ -7975,6 +7955,7 @@ wó	kótaremž	10
 wuskokujucych	woknow	10
 wuběrańskem	meniju	10
 firefox	wužywa	10
+to	ten	10
 luźi	we	10
 mehr	über	10
 pódla	był	10
@@ -8047,6 +8028,7 @@ pšašanja	a	10
 teke	dolnoserbski	10
 zdźaržanje	serbskeje	10
 wendischen	kultur	10
+měsćańskem	domje	10
 wjaseliś	na	10
 wucbny	material	10
 źěłowego	městna	10
@@ -8095,6 +8077,7 @@ chóśebuzu	su	10
 sedłoweje	identity	10
 zwisk	jo	10
 zwisk	njejo	10
+ako	małe	10
 instalacije	firefox	10
 aby	swójo	10
 knife	classic	10
@@ -8215,7 +8198,6 @@ zatwarjony	pdf-cytak	10
 glejśo	problemy	10
 a	comy	10
 cytajśo	pšosym	10
-a	tek	10
 ines	neumanojc	10
 naša	serbska	10
 sorbische	kultur	10
@@ -8289,6 +8271,7 @@ google	widevine	10
 team	wordpress	10
 body	works	10
 sopel	na	10
+slow	juicer	10
 b	ank	10
 a	šyrokosć	9
 był	až	9
@@ -8328,6 +8311,7 @@ teksta	w	9
 napśeśiwo	drugim	9
 głowny	nadawk	9
 rozeznawaju	se	9
+jo	zrazom	9
 jo	nejwětše	9
 swójich	knigłow	9
 njejo	pśecej	9
@@ -8508,6 +8492,7 @@ pytańske	pólo	9
 se	ku	9
 serbow	za	9
 dolnoserbšćiny	a	9
+the	lower	9
 maja	až	9
 zur	zeit	9
 that	the	9
@@ -8550,7 +8535,6 @@ warianta	z	9
 za	rěcne	9
 až	druge	9
 jogo	w	9
-serbskej	rěcnej	9
 pó	krotkem	9
 drogi	a	9
 pórucenje	za	9
@@ -8592,6 +8576,7 @@ bok	ma	9
 za	grajkanišćo	9
 něnto	móžoš	9
 krajina	w	9
+šćit	za	9
 źo	do	9
 z	awtom	9
 apryla	až	9
@@ -8601,7 +8586,6 @@ wótkaze	na	9
 źěłowe	systemy	9
 hač	k	9
 a	statkowanje	9
-tej	chyli	9
 kiž	su	9
 ze	serbskej	9
 diskusiju	a	9
@@ -8621,6 +8605,7 @@ sebje	na	9
 serbske	naležnosće	9
 w	kotrymž	9
 se	groniś	9
+gaž	wóni	9
 za	wobźěłowanje	9
 k	zdźaržanju	9
 na	wusokem	9
@@ -8648,6 +8633,7 @@ móžnosći	k	9
 kulturu	z	9
 źěle	na	9
 stawa	se	9
+nam	do	9
 pśinosuju	k	9
 z	wužywanim	9
 a	pódpěra	9
@@ -8692,6 +8678,7 @@ a	knigłowe	9
 do	wejsneje	9
 wó	kołac	9
 serbskem	nałogu	9
+können	sich	9
 herzlich	zum	9
 wót	se	9
 až	how	9
@@ -8723,6 +8710,7 @@ ze	smjerśu	9
 a	awtor	9
 był	jano	9
 zwiski	k	9
+serbskego	komponista	9
 mit	hilfe	9
 serbskich	slědach	9
 w	swěśe	9
@@ -8762,7 +8750,6 @@ aby	jomu	9
 ako	smej	9
 dejała	byś	9
 na	kafejpiśe	9
-dalšne	serbske	9
 politiskem	pśewrośenju	9
 teksty	za	9
 woplěwanje	a	9
@@ -8802,7 +8789,6 @@ jadnym	kliknjenim	9
 aby	swój	9
 serbskich	knigłow	9
 jan	bjedrich	9
-bramborski	casnik	9
 nadawki	su	9
 pśiducy	tyźeń	9
 das	die	9
@@ -8877,7 +8863,6 @@ buźo	zeger	9
 prědny	źěl	9
 wuša	šula	9
 list	z	9
-zachopiła	z	9
 ze	spěchowańskim	9
 im	radio	9
 hat	und	9
@@ -8980,6 +8965,7 @@ na	gluku	9
 wót	nimskeje	9
 zwězanosć	z	9
 městna	su	9
+dosć	derje	9
 jo	pśistupił	9
 kultur	der	9
 über	diese	9
@@ -8997,7 +8983,6 @@ mobilny	póraźowański	9
 póraźowański	team	9
 seśi	za	9
 ty	dejš	9
-swójogo	blišego	9
 by	była	9
 jomu	se	9
 se	spódoba	9
@@ -9031,6 +9016,7 @@ na	žeden	9
 a	bóže	9
 teke	nadalej	9
 wót	młodych	9
+wjerašk	jo	9
 znankstwa	serbskeje	9
 kuždy	wót	9
 kšywowa	organizacija	9
@@ -9149,6 +9135,7 @@ bajki	za	9
 ansambel	jo	9
 auf	ihre	9
 do	krajnego	9
+ten	źěl	9
 kulturne	zarědowanja	9
 damit	die	9
 pisnu	rěc	9
@@ -9163,6 +9150,7 @@ a	sobotu	9
 swěźeński	pśeśěg	9
 kupkow	nimskeje	9
 do	zakładneje	9
+ramikowe	dojadnanje	9
 šćitoju	narodnych	9
 a	mjeńšynowych	9
 mjeńšynow	jo	9
@@ -9197,7 +9185,6 @@ a	běžy	9
 wót	pśisamem	9
 pótom	do	9
 naša	reportaŕka	9
-revitalisierung	der	9
 ein	neuer	9
 nejpjerwjej	jo	9
 handrija	zejlerja	9
@@ -9259,7 +9246,6 @@ se	zmakał	9
 material	jo	9
 słowjańske	rěcy	9
 źeń	we	9
-wóna	buźo	9
 tomu	pśinosowaś	9
 wjasele	pśi	9
 to	pšawe	9
@@ -9366,7 +9352,6 @@ až	někotare	9
 benedikt	dyrlich	9
 smy	zgónili	9
 serbskeju	rěcowu	9
-to	zmakanje	9
 kupkow	w	9
 je	ze	9
 pótom	budu	9
@@ -9408,7 +9393,6 @@ smy	to	9
 wuwija	a	9
 te	a	9
 smy	jano	9
-až	běšo	9
 wuknuś	a	9
 wjednica	šule	9
 en	la	9
@@ -9513,13 +9497,13 @@ wó	pśistajenje	9
 na	symbolowej	9
 wersijowe	informacije	9
 die	lutki	9
+a	tek	9
 na	historiju	9
 ako	něco	9
 to	pólo	9
 serbska	pójsynoga	9
 zeger	napoł	9
 drugich	serbskich	9
-južo	łoni	9
 projekt	zorja	9
 statusa	swětowego	9
 pyta	k	9
@@ -9548,7 +9532,6 @@ na	false	9
 a	wašo	9
 sprjewja-nysa	a	9
 die	nächste	9
-wódny	mu	9
 tu	serbsku	9
 to	wuběźowanje	9
 we	wušej	9
@@ -9733,7 +9716,6 @@ a	tuchylu	8
 z	pisanym	8
 susedneje	jsy	8
 kokota	jo	8
-gaž	wón	8
 togo	swěźenja	8
 jo	dnja	8
 pśi	kótarejž	8
@@ -9780,7 +9762,6 @@ pěś	lětami	8
 kótaryž	wopśimjejo	8
 zapisaś	do	8
 pśedsedaŕ	a	8
-dolnoserbski	tyźenik	8
 ako	samostatny	8
 z	nejwětšych	8
 a	wažny	8
@@ -9857,7 +9838,6 @@ teke	toś	8
 see	the	8
 have	been	8
 ten	stary	8
-x	a	8
 how	hyšći	8
 have	a	8
 is	to	8
@@ -9927,6 +9907,7 @@ w	cuzej	8
 ako	wucabnik	8
 starał	wó	8
 pózdźej	na	8
+serbskej	rěcnej	8
 mozilla	foundation	8
 do	awgusta	8
 muske	a	8
@@ -9972,7 +9953,6 @@ wažny	źěl	8
 drugego	boka	8
 raz	tak	8
 dolnoserbskich	tekstow	8
-slědujucy	tekst	8
 na	slědujucy	8
 do	stareje	8
 su	twarili	8
@@ -9983,6 +9963,7 @@ hornjej	łužicy	8
 kubłańskich	institucijow	8
 pó	pótrjebje	8
 domowiny	we	8
+tej	chyli	8
 w	hornjej	8
 kiž	so	8
 na	aktualne	8
@@ -10007,7 +9988,6 @@ lud	za	8
 jenož	za	8
 zajmow	a	8
 kótaraž	w	8
-tak	by	8
 cłonkow	rady	8
 zakłaźe	wobzamknjenja	8
 na	rozgronje	8
@@ -10196,7 +10176,6 @@ wurězk	z	8
 znamuško	domowiny	8
 rozsuźijo	wó	8
 lěpjej	gronjone	8
-cerkwi	sw	8
 prědne	zmakanje	8
 jo	pšawje	8
 což	na	8
@@ -10212,6 +10191,7 @@ jo	druga	8
 pó	wuspěšnem	8
 lětach	pó	8
 pó	njej	8
+dalšne	serbske	8
 ako	wšykne	8
 teke	cłonki	8
 a	organizěrujo	8
@@ -10262,7 +10242,7 @@ na	menijowej	8
 klikniśo	w	8
 wubjeŕśo	a	8
 swój	projekt	8
-wucabnik	a	8
+bramborski	casnik	8
 biblioteka	a	8
 w	depsku	8
 a	stawiznow	8
@@ -10316,7 +10296,6 @@ wšykne	zajmce	8
 huběrk	za	8
 nowe	medije	8
 pśi	wuknjenju	8
-wóni	pak	8
 glědał	na	8
 ako	how	8
 ja	śi	8
@@ -10341,6 +10320,7 @@ a	tym	8
 a	źěło	8
 rěcny	niwow	8
 nowego	casa	8
+zachopiła	z	8
 zdźaržaś	a	8
 w	lětosnem	8
 móžomy	ju	8
@@ -10435,7 +10415,6 @@ auch	noch	8
 nowem	testamenśe	8
 we	jśpě	8
 a	mama	8
-muziki	z	8
 mógali	na	8
 am	ersten	8
 se	naš	8
@@ -10471,7 +10450,6 @@ su	wobzamknuli	8
 se	pśewjeźo	8
 městach	a	8
 andreas	kirschke	8
-informacije	se	8
 der	bühne	8
 z	drugeju	8
 w	zběrce	8
@@ -10500,6 +10478,7 @@ słowow	a	8
 wšykno	se	8
 tolerancu	a	8
 wjelgin	cesto	8
+swójogo	blišego	8
 iniciatiwa	a	8
 starostow	a	8
 ideje	za	8
@@ -10607,7 +10586,6 @@ ta	zběrka	8
 hinter	die	8
 wo	er	8
 wie	er	8
-młodymi	wuměłcami	8
 musik	mit	8
 až	taki	8
 ze	slěpjańskeje	8
@@ -10664,7 +10642,6 @@ w	knize	8
 swóju	drastwu	8
 z	italskeje	8
 programy	a	8
-reju	a	8
 do	wěcej	8
 lena	hauptmann	8
 a	nowa	8
@@ -10728,6 +10705,7 @@ zakładny	kamjeń	8
 partnaŕ	za	8
 rěcy	abo	8
 interessen	der	8
+revitalisierung	der	8
 ddr	jo	8
 wobźělniki	su	8
 wót	jadneje	8
@@ -10813,6 +10791,7 @@ nowe	konto	8
 serbow	pśez	8
 ceptaŕ	na	8
 muki	jo	8
+wóna	buźo	8
 a	pitśku	8
 na	wótwórjenje	8
 w	nowo	8
@@ -10860,7 +10839,6 @@ ruce	a	8
 to	pokazujo	8
 tradition	des	8
 stawiznami	a	8
-pśeto	se	8
 dostaś	w	8
 móžośo	hyšći	8
 julija	jo	8
@@ -10993,6 +10971,7 @@ pokažo	na	8
 město	aby	8
 zmakanje	seśi	8
 su	wobźělniki	8
+to	zmakanje	8
 žydojska	wósada	8
 z	wěstosću	8
 ale	něco	8
@@ -11058,6 +11037,7 @@ temy	a	8
 a	zawěsće	8
 za	wuwijarje	8
 wjelgin	na	8
+až	běšo	8
 styri	źiśi	8
 to	wěcej	8
 cu	wam	8
@@ -11221,6 +11201,7 @@ wšuźi	su	8
 auf	ihrer	8
 ist	seit	8
 dłujka	a	8
+južo	łoni	8
 slědny	stwórtk	8
 david	statnik	8
 góle	w	8
@@ -11258,7 +11239,6 @@ derje	a	8
 informacija	lodka	8
 nazgónjenja	z	8
 su	młodostne	8
-z	reju	8
 wósada	w	8
 se	rada	8
 ten	móžo	8
@@ -11326,7 +11306,6 @@ njeźelu	wót	8
 im	sommer	8
 in	zeiten	8
 zeiten	der	8
-jolic	wašo	8
 serbskeju	wucbu	8
 w	slěpjańskem	8
 mjazynarodny	źeń	8
@@ -11350,10 +11329,8 @@ aby	sobu	8
 jolic	bok	8
 vor	und	8
 ze	stawiznow	8
-som	śi	8
 mógu	luźe	8
 pódla	budu	8
-firefox	pokazujo	8
 nowe	wokno	8
 extensions	that	8
 der	dänischen	8
@@ -11539,6 +11516,7 @@ doma	z	7
 k	swětkam	7
 z	pisanymi	7
 to	wón	7
+gaž	wón	7
 w	slěpjańskich	7
 źiwadłowe	graśa	7
 njama	žeden	7
@@ -11574,7 +11552,6 @@ wóne	su	7
 derje	na	7
 pśirownanju	k	7
 lěpše	ako	7
-póśěguju	se	7
 rozmějo	se	7
 nutśikokrajny	stat	7
 z	kamerunom	7
@@ -11606,6 +11583,7 @@ den	lausitzer	7
 na	diskusijnem	7
 zjadnośonem	kralojstwje	7
 njogo	su	7
+dolnoserbski	tyźenik	7
 casnika	w	7
 pódpołnocnem	źělu	7
 rěcne	zamóžnosći	7
@@ -11623,7 +11601,6 @@ cełu	mań	7
 sobotu	wót	7
 towaristwowe	žywjenje	7
 ale	mimo	7
-lětnego	wobstaśa	7
 někotare	serbske	7
 z	wašnju	7
 a	bóle	7
@@ -11632,7 +11609,6 @@ razoju	w	7
 z	wuspěchom	7
 za	pódpěranje	7
 zajtšu	z	7
-su	zgromadnje	7
 jo	žywe	7
 ako	druga	7
 pódla	togo	7
@@ -11843,6 +11819,7 @@ wótnožka	serbskego	7
 wam	how	7
 na	což	7
 wót	kótaregož	7
+slědujucy	tekst	7
 nawigacija	dokumentacije	7
 wažne	su	7
 wobstoje	z	7
@@ -11880,6 +11857,7 @@ až	dejali	7
 rownož	su	7
 krajnemu	sejmoju	7
 we	wólbnem	7
+tak	by	7
 se	wobźěliłej	7
 lud	z	7
 vertreter	des	7
@@ -12022,7 +12000,6 @@ tyźeń	we	7
 kótarež	buchu	7
 ako	dwa	7
 lud	ako	7
-serbske	cłonki	7
 a	płaśi	7
 žywjenje	z	7
 našogo	kraja	7
@@ -12182,6 +12159,7 @@ pśidaś	a	7
 wy	mógał	7
 we	wašych	7
 móžośo	swój	7
+wucabnik	a	7
 njejo	dało	7
 serbskeju	muziku	7
 była	serbska	7
@@ -12196,6 +12174,7 @@ pó	nowem	7
 jo	wšyknym	7
 bóže	blido	7
 hanka	rjelcyna	7
+jo	notny	7
 do	chóśebuskego	7
 wšykne	take	7
 na	swěźeńsku	7
@@ -12263,6 +12242,7 @@ njeźeli	pó	7
 zmakaś	a	7
 a	drogi	7
 šulskem	casu	7
+wóni	pak	7
 pśed	bogom	7
 se	žycył	7
 njejsmy	jano	7
@@ -12417,6 +12397,7 @@ gronidło	za	7
 kulturny	program	7
 zmakanja	ze	7
 rěcach	a	7
+muziki	z	7
 su	wuknice	7
 se	wšyknym	7
 für	junge	7
@@ -12471,6 +12452,7 @@ se	wrośiś	7
 ako	dar	7
 kenž	južo	7
 ako	swóju	7
+informacije	se	7
 na	fararja	7
 serbski	kraj	7
 maś	a	7
@@ -12532,7 +12514,6 @@ co	pak	7
 som	cytał	7
 se	pyta	7
 prjatkowanje	na	7
-wolfgang	wittchen	7
 za	wósobinske	7
 jetzt	in	7
 a	gaby	7
@@ -12550,7 +12531,6 @@ kupki	za	7
 muzeja	chóśebuz	7
 kenž	ako	7
 domowiny	se	7
-cogo	jo	7
 rozgrono	ze	7
 žycym	wam	7
 dolnołužyskich	serbow	7
@@ -12691,6 +12671,7 @@ fota	a	7
 von	pückler-muskau	7
 im	februar	7
 pak	stej	7
+młodymi	wuměłcami	7
 und	hörer	7
 mit	jungen	7
 jungen	künstlern	7
@@ -12757,7 +12738,6 @@ było	we	7
 słownik	jo	7
 a	rozměś	7
 zešywk	z	7
-tych	a	7
 we	wšom	7
 wendischen	dörfern	7
 stało	w	7
@@ -12773,6 +12753,7 @@ je	we	7
 w	cuzbje	7
 pomocu	parametra	7
 w	tu	7
+reju	a	7
 den	spuren	7
 dj	tobi	7
 junge	menschen	7
@@ -12907,7 +12888,6 @@ som	pśecej	7
 statnego	kněžaŕstwa	7
 musikalische	umrahmung	7
 wuměłcowki	a	7
-a	změnu	7
 more	about	7
 se	daty	7
 wěcej	móžno	7
@@ -13032,6 +13012,7 @@ des	cottbuser	7
 za	rědowanje	7
 of	my	7
 su	serbski	7
+pśeto	se	7
 źěłowego	zjadnośeństwa	7
 móžnosć	jo	7
 pomoc	a	7
@@ -13047,7 +13028,6 @@ pósrědnjenje	rěcnego	7
 sebje	w	7
 namakaśo	how	7
 a	hortach	7
-z	programom	7
 swěśi	lětosa	7
 za	familije	7
 jo	rědny	7
@@ -13195,7 +13175,6 @@ janšojcach	a	7
 a	rejowarje	7
 buźo	wiźeś	7
 wašu	historiju	7
-se	žycy	7
 kenž	teke	7
 tłocašk	zabyś	7
 wótpóraś	a	7
@@ -13247,7 +13226,6 @@ cytanja	gódny	7
 ze	słowjańskego	7
 wuša	promštowka	7
 cłonk	towaristwa	7
-sobu	źěłał	7
 ja	njejsom	7
 nich	a	7
 kulturneje	awtonomije	7
@@ -13302,6 +13280,7 @@ mjez	nimi	7
 se	bóžko	7
 direktnje	k	7
 ako	naše	7
+document	foundation	7
 ale	pśecej	7
 hyšći	to	7
 ze	swojeju	7
@@ -13331,6 +13310,7 @@ ned	do	7
 du	bist	7
 the	article	7
 der	vergangenheit	7
+rěc	zwězujo	7
 direktnje	pśi	7
 nowych	cłonkow	7
 ako	kśě	7
@@ -13388,7 +13368,6 @@ słowjańskich	rěcach	7
 pśez	swóje	7
 renej	šuster	7
 źož	kśě	7
-dolnoserbskej	kulturnej	7
 weto	hyšći	7
 sorbischen	programms	7
 niederlausitz	und	7
@@ -13436,7 +13415,6 @@ dataju	a	7
 klikniśo	pón	7
 zastojnika	dodankow	7
 pytańske	wuraze	7
-für	ihn	7
 we	wochozach	7
 woglědał	a	7
 we	wuskem	7
@@ -13511,7 +13489,6 @@ der	orgel	7
 pód	cysłom	7
 angažěruju	se	7
 pśigranjański	partnaŕ	7
-w	pśednosku	7
 spěchowańskich	srědkow	7
 awtochtonych	mjeńšynow	7
 wšykno	na	7
@@ -13543,6 +13520,7 @@ am	donnerstag	7
 und	gäste	7
 am	montag	7
 za	na	7
+x	a	7
 da	ja	7
 tam	wěcej	7
 ten	kóńc	7
@@ -13562,6 +13540,7 @@ bramborske	ministaŕstwo	7
 serbske	na	7
 zmakanju	z	7
 za	cłonkow	7
+z	reju	7
 załožyło	w	7
 ein	niedersorbisches	7
 lausitz	in	7
@@ -13635,7 +13614,6 @@ kóńcoju	koda	7
 der	natur	7
 pśeslědowaki	tśeśich	7
 wěnuje	so	7
-wam	a	7
 stellen	sich	7
 animaciski	efekt	7
 nur	ein	7
@@ -13671,6 +13649,7 @@ se	pśedstajił	7
 lutz	laschewski	7
 problem	rozwězał	7
 za	websedła	7
+jolic	wašo	7
 a	wopytajśo	7
 słowa	abo	7
 geht	um	7
@@ -13695,7 +13674,6 @@ za	elementy	7
 za	wikidata	7
 tema	na	7
 wikipedia	page	7
-tam	był	7
 dowěry	njegódny	7
 firefox	njamóžo	7
 se	dołojce	7
@@ -13709,7 +13687,6 @@ zawinujo	waš	7
 grafikowe	gónjaki	7
 serbskej	identiśe	7
 mitglieder	der	7
-ale	tek	7
 jo	zainstalěrowany	7
 wubjeŕśo	we	7
 the	domowina	7
@@ -13720,6 +13697,7 @@ die	spieler	7
 aby	nowe	7
 we	łužyskej	7
 trio	a	7
+som	śi	7
 zu	sorbischen	7
 im	studio	7
 buźo	stwórtk	7
@@ -13731,6 +13709,7 @@ sich	selbst	7
 maju	we	7
 błośańska	zeleznica	7
 a	drastwow	7
+firefox	pokazujo	7
 aby	dataju	7
 das	lernen	7
 nowego	a	7
@@ -13819,6 +13798,7 @@ gaž	stoj	6
 stoj	słyńco	6
 oktoberom	a	6
 jadnom	lěśe	6
+normalneju	nulu	6
 temu	stat	6
 atlantiski	ocean	6
 km	a	6
@@ -14017,12 +13997,12 @@ do	drježdźan	6
 k	rozměśeju	6
 nic	wót	6
 bližy	se	6
-sei	es	6
 im	park	6
 zajtšu	jo	6
 z	carnym	6
 nastawki	z	6
 był	znaty	6
+dlininy	a	6
 zemje	jo	6
 geografiske	koordinaty	6
 až	wóne	6
@@ -14030,6 +14010,7 @@ mórskich	kórtach	6
 togodla	ma	6
 rozrěduju	se	6
 cera	mjazy	6
+póśěguju	se	6
 znaty	był	6
 pśi	jogo	6
 stawa	słyńca	6
@@ -14079,6 +14060,7 @@ rěc	ma	6
 tśi	głowne	6
 do	towaristwa	6
 w	jubilejnem	6
+lětnego	wobstaśa	6
 serbske	duchowne	6
 su	pisali	6
 profesora	za	6
@@ -14089,6 +14071,7 @@ za	nimske	6
 ze	změnu	6
 teke	znate	6
 burkina	faso	6
+su	zgromadnje	6
 druga	rěc	6
 šule	jo	6
 w	maliju	6
@@ -14564,6 +14547,7 @@ kótaruž	se	6
 jo	lažała	6
 serby	se	6
 serbskich	gremijow	6
+serbske	cłonki	6
 wó	zaměrach	6
 diskusiji	su	6
 rěcnych	rumow	6
@@ -14733,6 +14717,7 @@ dalšne	wuwiśe	6
 das	vorliegende	6
 ako	njejsu	6
 wšo	derje	6
+tych	lět	6
 ale	wšake	6
 wótergi	jo	6
 glědajśo	do	6
@@ -14779,7 +14764,6 @@ des	nationalsozialismus	6
 die	slawische	6
 grono	było	6
 dalej	hyś	6
-jo	notny	6
 su	derje	6
 pśi	zachoźe	6
 dešańskem	muzeumje	6
@@ -14969,7 +14953,6 @@ w	duchu	6
 redaktor	a	6
 a	wudawaŕ	6
 žednje	njejo	6
-a	basnikaŕ	6
 zejlera	a	6
 prědne	jo	6
 mysli	k	6
@@ -15247,6 +15230,7 @@ cogodla	to	6
 towzynt	luźi	6
 nas	za	6
 gaž	jogo	6
+wolfgang	wittchen	6
 widmet	sich	6
 dem	leben	6
 frido	a	6
@@ -15268,6 +15252,7 @@ z	twóŕbami	6
 ako	stoje	6
 což	móžo	6
 ako	knigły	6
+cogo	jo	6
 jo	pśedsedaŕstwo	6
 boka	se	6
 ta	jadna	6
@@ -15276,7 +15261,6 @@ dejali	na	6
 krala	a	6
 wuznawa	se	6
 młoge	luźe	6
-jezus	pak	6
 spominanje	na	6
 stej	něnto	6
 stej	we	6
@@ -15374,7 +15358,6 @@ buch	ist	6
 jo	ceły	6
 cesć	a	6
 pśed	swójim	6
-ja	sam	6
 aby	nam	6
 na	kśicy	6
 dosć	za	6
@@ -15630,7 +15613,6 @@ digitalizacije	a	6
 byś	ten	6
 z	wutšoby	6
 cu	śi	6
-śi	z	6
 woglěźe	pla	6
 ze	słodkosćami	6
 abituru	na	6
@@ -15725,6 +15707,7 @@ firefox	waše	6
 wjelgin	dobry	6
 casnikaŕskeje	konference	6
 wót	stata	6
+a	změnu	6
 sejm	zmaka	6
 žeden	wliw	6
 zběraś	a	6
@@ -15857,7 +15840,6 @@ wóni	w	6
 wokoło	njogo	6
 južo	tam	6
 pśi	njom	6
-jo	śi	6
 namócy	a	6
 wóna	ako	6
 napśeśiwo	cuzym	6
@@ -15880,7 +15862,6 @@ pak	až	6
 mě	kraja	6
 za	wótźělenje	6
 medijowy	partnaŕ	6
-chóśebuskego	konserwatoriuma	6
 licencu	gpl	6
 a	kulturelne	6
 internetowy	portal	6
@@ -15919,6 +15900,7 @@ casowy	wobłuk	6
 grajne	plany	6
 jo	zběrka	6
 wobraze	k	6
+z	programom	6
 wuknice	w	6
 we	witaj-wucbje	6
 serby	maju	6
@@ -15947,7 +15929,6 @@ tśi	tyźenje	6
 tyźenje	do	6
 wó	statkowanju	6
 tom	ma	6
-dalšnych	cłonkow	6
 móžośo	swójo	6
 institucijach	a	6
 die	vogelhochzeit	6
@@ -16135,6 +16116,7 @@ zu	bewundern	6
 domowniskem	muzeumje	6
 se	wuwija	6
 njejsu	k	6
+se	žycy	6
 ga	groni	6
 cu	ja	6
 websedła	składuju	6
@@ -16189,6 +16171,7 @@ pśi	zwězkowem	6
 rěcy	njejo	6
 za	dokumentaciske	6
 cytanja	gódne	6
+sobu	źěłał	6
 na	casu	6
 wósebnosći	a	6
 zasajźujomy	se	6
@@ -16284,7 +16267,6 @@ kótarež	hyšći	6
 teke	wužywaś	6
 teke	direktnje	6
 maśo	pśistup	6
-document	foundation	6
 gaž	njejo	6
 ga	njejsom	6
 smy	šli	6
@@ -16342,7 +16324,6 @@ werden	wir	6
 als	eine	6
 kitas	und	6
 serbskego	kšywowego	6
-rěc	zwězujo	6
 z	pśistupom	6
 stoj	pla	6
 wó	rěcach	6
@@ -16421,6 +16402,7 @@ pó	jich	6
 powěsć	jo	6
 w	gubinje	6
 na	prědnu	6
+serbske	impresije	6
 jadnom	ze	6
 zeleneje	ligi	6
 a	nowu	6
@@ -16429,6 +16411,7 @@ naš	program	6
 a	clemens	6
 und	clemens	6
 wěcej	ze	6
+dolnoserbskej	kulturnej	6
 wót	žywjenja	6
 graśa	z	6
 młodej	generaciji	6
@@ -16490,6 +16473,7 @@ raźi	se	6
 jo	dłujka	6
 z	kontom	6
 na	hebrejarjow	6
+für	ihn	6
 mittelpunkt	der	6
 pfarrerin	jadwiga	6
 schleifer	dialekt	6
@@ -16537,7 +16521,6 @@ rady	z	6
 pśichod	našogo	6
 ma	něnto	6
 su	swěźeń	6
-serbske	swěźenje	6
 serbskego	wuběrka	6
 a	zgromadnje	6
 begrüßen	wir	6
@@ -16623,6 +16606,7 @@ pak	je	6
 za	cełe	6
 do	stwórtka	6
 wuwiśa	w	6
+w	pśednosku	6
 weto	z	6
 wuglěda	w	6
 tak	było	6
@@ -16687,7 +16671,6 @@ es	sind	6
 z	dańskeje	6
 dopomnjeśa	na	6
 zgromaźeństwa	belgiskeje	6
-ako	tśeśi	6
 ludowej	kupce	6
 na	finisažu	6
 serbske	žeńske	6
@@ -16778,7 +16761,6 @@ we	głownem	6
 žedne	serbske	6
 i	was	6
 jetzt	ist	6
-kósmate	a	6
 na	kraju	6
 ławki	a	6
 se	symbol	6
@@ -16855,6 +16837,7 @@ z	glinu	6
 móžośo	nam	6
 kontrolu	a	6
 z	pólskego	6
+wam	a	6
 co	groni	6
 erste	mal	6
 tonowe	nosarje	6
@@ -16965,6 +16948,7 @@ jo	iniciatiwa	6
 k	pódpěrje	6
 the	beatles	6
 note	that	6
+tam	był	6
 móžomy	jano	6
 za	młode	6
 to	open	6
@@ -16984,13 +16968,13 @@ normalnje	jo	6
 za	moderne	6
 moderne	wuměłstwo	6
 kotryž	je	6
+ale	tek	6
 dołojce	nalěwo	6
 situacije	w	6
 wusokošulske	wukubłanje	6
 abo	pódobne	6
 cas	wucynijo	6
 pšosym	až	6
-kulturnej	akademiji	6
 we	chóśebuzu	6
 we	wupóžycenjach	6
 su	tek	6
@@ -17099,7 +17083,6 @@ dresden	und	6
 swój	angažement	6
 planowanja	a	6
 cośo	śišćaś	6
-niedersorbischen	kulturakademie	6
 die	schülerinnen	6
 na	grodowej	6
 nowych	knigłow	6
@@ -17196,7 +17179,6 @@ lěc	dana	6
 dana	domena	6
 mjaz	oktoberom	5
 narodna	hymna	5
-normalneju	nulu	5
 kupka	kupow	5
 wóna	lažy	5
 oceanje	w	5
@@ -17523,7 +17505,6 @@ standard	jo	5
 šyrinowy	krejz	5
 małe	krejze	5
 pódpołnocneje	a	5
-radiusom	r	5
 granice	mjazy	5
 rěcy	maju	5
 koncept	jo	5
@@ -17929,7 +17910,6 @@ kótarež	dośěgnjo	5
 kótarež	słušaju	5
 kijašk	jo	5
 jo	rowny	5
-chinska	ludowa	5
 pšawem	boku	5
 bosco	jo	5
 familije	w	5
@@ -18141,7 +18121,6 @@ stej	jogo	5
 zrownju	jo	5
 aby	ze	5
 wustnje	dalej	5
-žywjenje	mjazy	5
 wjerašk	našogo	5
 institucijam	a	5
 zarědowanja	su	5
@@ -18212,7 +18191,6 @@ su	glědali	5
 akademiji	wědomnosćow	5
 rozšyrił	wó	5
 politiskem	pśewrośe	5
-rěcnej	komisiji	5
 komisiji	za	5
 europski	parlament	5
 a	zwětšego	5
@@ -18425,7 +18403,6 @@ and	search	5
 wopśimjejo	tuchylu	5
 drje	su	5
 maju	źiśi	5
-gaž	te	5
 te	dny	5
 tym	mjenim	5
 pla	kótarychž	5
@@ -18569,7 +18546,6 @@ stej	how	5
 mały	gólc	5
 kótarejež	jo	5
 dłymoko	w	5
-wó	mnjo	5
 žywjenje	ako	5
 su	młode	5
 w	mójom	5
@@ -18765,7 +18741,6 @@ kunst	und	5
 so	ist	5
 zarědowanjach	a	5
 a	barlinju	5
-demokratiska	republika	5
 po	łužicy	5
 na	puć	5
 je	tež	5
@@ -18820,6 +18795,7 @@ wuspěcha	pśi	5
 mógu	pak	5
 z	kompjuterom	5
 pśedsedarstwa	maćice	5
+lětnego	jubileja	5
 a	modernu	5
 mjertyna	gryza	5
 cesna	tofla	5
@@ -18879,6 +18855,7 @@ za	wudawanje	5
 pisał	a	5
 śišć	a	5
 bramborske	nowiny	5
+a	basnikaŕ	5
 kejžora	a	5
 smy	za	5
 comy	glědaś	5
@@ -18930,7 +18907,6 @@ ramikowe	huměnjenja	5
 jo	trěbna	5
 wjednistwo	pósejźenja	5
 póžedanja	wó	5
-ruki	a	5
 źěłowej	kupce	5
 až	trjeba	5
 se	rozsuźijo	5
@@ -18995,7 +18971,6 @@ słownik	dolnoserbšćiny	5
 zachopjeńku	běšo	5
 uniwersalny	wucony	5
 hier	auch	5
-und	niedersorbisch	5
 a	bitujo	5
 co	móžo	5
 hasacki	z	5
@@ -19090,7 +19065,6 @@ až	słyńco	5
 gaž	bog	5
 pokazkow	na	5
 skóńcnje	jo	5
-ten	pšawy	5
 ale	wěcej	5
 serbske	wustawki	5
 cyta	ze	5
@@ -19231,7 +19205,6 @@ co	nam	5
 njeźelu	spótnego	5
 za	swójske	5
 su	sej	5
-był	ducy	5
 njeby	ja	5
 byś	we	5
 frankfurśe	nad	5
@@ -19247,6 +19220,7 @@ za	koordinaciju	5
 radu	starostow	5
 dłujki	wjacor	5
 fryca	latka	5
+wobraze	z	5
 stakim	se	5
 dotychměst	w	5
 hyšći	wiźeś	5
@@ -19260,6 +19234,7 @@ z	połneju	5
 nowka	jo	5
 pšawo	jo	5
 južo	styri	5
+jezus	pak	5
 serbskich	ewangelskich	5
 ekbo	za	5
 faraŕ	helmut	5
@@ -19416,6 +19391,7 @@ jo	humrěł	5
 se	zasajźiś	5
 kněza	jezom	5
 se	myslim	5
+ja	sam	5
 kak	z	5
 nastajiś	a	5
 nadawki	ako	5
@@ -19531,6 +19507,7 @@ raz	wót	5
 do	diskusije	5
 z	dorostom	5
 lětosa	k	5
+ak	maju	5
 lěta	k	5
 staršeje	generacije	5
 jo	witane	5
@@ -19549,7 +19526,6 @@ cytał	a	5
 pólskej	rěcy	5
 tśeśi	raz	5
 wujšła	w	5
-ych	a	5
 publikacije	wó	5
 pak	źo	5
 tu	drastwu	5
@@ -19662,7 +19638,6 @@ dass	du	5
 se	vi	5
 w	delnjoserbskej	5
 na	swojej	5
-do	mikrofona	5
 na	dwórnišću	5
 hyšći	tak	5
 wón	powěda	5
@@ -19753,6 +19728,7 @@ słowami	a	5
 digitalna	edicija	5
 w	pósołskich	5
 pósołskich	statkach	5
+śi	z	5
 pód	šćitom	5
 źěło	mjazy	5
 gódowny	projekt	5
@@ -19795,6 +19771,7 @@ co	a	5
 gaž	wšykno	5
 pro	lusatia	5
 za	boga	5
+se	zas	5
 drugimi	słowami	5
 jo	skomponěrował	5
 da	ich	5
@@ -19924,7 +19901,6 @@ jatšownem	rejtowanju	5
 smy	we	5
 na	serwer	5
 wót	załoženja	5
-kijaški	su	5
 töža	sisemsädt	5
 te	uĺneś	5
 w	slědujucyma	5
@@ -20116,6 +20092,7 @@ a	maś	5
 jezusa	jo	5
 se	zaprědka	5
 zapowědanje	bóžego	5
+jo	śi	5
 namócnego	kněstwa	5
 jo	mógało	5
 byli	žeńske	5
@@ -20180,6 +20157,7 @@ welt	der	5
 der	erde	5
 pšašanja	w	5
 veröffentlichen	wir	5
+lětne	wobstaśe	5
 tłocenje	tasty	5
 certifikat	dolnoserbšćiny	5
 zgromadnem	europskem	5
@@ -20259,6 +20237,7 @@ hochoze	a	5
 wšykne	serby	5
 głosom	na	5
 towaristwa	do	5
+dalšnych	cłonkow	5
 program	thunderbird	5
 na	samem	5
 satirische	szene	5
@@ -20805,7 +20784,6 @@ nastał	jo	5
 ako	naslědnik	5
 der	bibel	5
 prědne	naspomnjenje	5
-což	firefox	5
 kótarež	luźe	5
 śichem	casu	5
 na	namšu	5
@@ -20831,7 +20809,6 @@ der	rechte	5
 in	hoyerswerda	5
 umliegenden	dörfern	5
 wokrejs	górne	5
-gromaźe	źěłaś	5
 dawidom	statnikom	5
 regionalna	powědaŕka	5
 wjeźenja	pó	5
@@ -20963,7 +20940,6 @@ for	download	5
 it	works	5
 software	wótwórjonego	5
 do	wšych	5
-z	blunja	5
 pśed	lětoma	5
 až	mój	5
 za	małych	5
@@ -21027,7 +21003,6 @@ te	zwóny	5
 a	wulicowańka	5
 pšawow	serbskego	5
 sejma	ako	5
-pśeto	to	5
 luda	ako	5
 wótpowědniki	w	5
 se	pśiwobrośiś	5
@@ -21167,6 +21142,7 @@ typiske	za	5
 groni	za	5
 ale	pśi	5
 ale	žedna	5
+serbske	swěźenje	5
 njeźelu	na	5
 njejo	ako	5
 take	słowa	5
@@ -21406,6 +21382,7 @@ zgromaźeństwo	wordpress	5
 zegerowy	cas	5
 sćo	pśišli	5
 pśikład	se	5
+ako	tśeśi	5
 na	twitter	5
 wobźěłanje	datow	5
 a	droga	5
@@ -21470,7 +21447,6 @@ wót	pětka	5
 pětk	a	5
 kurator	werner	5
 něco	serbskego	5
-pśepšosujomy	na	5
 togo	kśě	5
 prezidenta	parlamenta	5
 a	móžnosć	5
@@ -21593,6 +21569,7 @@ cesto	wó	5
 su	druge	5
 by	snaź	5
 direktor	instituta	5
+kósmate	a	5
 niederlausitz	zu	5
 chóroweje	hudźby	5
 snaź	w	5
@@ -21812,6 +21789,7 @@ eine	ausstellung	5
 bernd	pitkunings	5
 ist	zum	5
 cerkwju	a	5
+chóśebuskego	konserwatoriuma	5
 wjelikem	jawišću	5
 nowa	zběrka	5
 w	hungorskej	5
@@ -21991,6 +21969,7 @@ aktualizěrujśo	swóje	5
 wukubłanje	abo	5
 kenž	buźo	5
 ceptaŕkow	a	5
+kulturnej	akademiji	5
 groń	mě	5
 jo	wupyšnjony	5
 wejsna	loda	5
@@ -22016,7 +21995,6 @@ cłonkow	załožboweje	5
 kněžaŕstwo	w	5
 za	přichodne	5
 die	frauen	5
-z	naźeju	5
 se	wuwijaś	5
 mócy	a	5
 wšake	smy	5
@@ -22232,6 +22210,7 @@ mjeńšinowych	rěčow	5
 w	serwisu	5
 dla	z	5
 nogowa	smužka	5
+niedersorbischen	kulturakademie	5
 łopjena	za	5
 pódobny	jo	5
 a	wěste	5
@@ -22336,8 +22315,6 @@ pódpěrajuceje	technologije	5
 šćit	pśirody	5
 załožbowu	radu	5
 a	dorosćone	5
-buchstaben	ł	5
-ł	schreibt	5
 content	decryption	5
 decryption	module	5
 adobe	primetime	5
@@ -22377,7 +22354,6 @@ zasejwiźenje	ze	5
 slězynowa	barwa	5
 dalej	dali	5
 republic	of	5
-jo	byá	5
 ten	kuhaŕ	5
 gedankenstrich	steht	5
 gorneje	łužyce	5
@@ -22396,6 +22372,7 @@ a	pódpołdnjowym	4
 tropach	mjaz	4
 aprylom	a	4
 blisko	ekwatora	4
+nad	normalneju	4
 kupa	jo	4
 afriku	a	4
 pśi	pśibrjoze	4
@@ -22482,7 +22459,6 @@ tuchylu	su	4
 foundation	jo	4
 ze	źewjeś	4
 cerwjenym	mórjom	4
-tak	mjenjowany	4
 klima	w	4
 z	temperaturami	4
 lětach	se	4
@@ -22578,6 +22554,7 @@ a	słyńcu	4
 wuznam	w	4
 casnik	wót	4
 pśed	pśisamem	4
+tak	ak	4
 su	něgajšne	4
 sind	von	4
 haus	und	4
@@ -22674,7 +22651,6 @@ daloko	rozšyrjony	4
 pó	jatšownu	4
 luźe	muse	4
 na	wjacor	4
-m	wusoki	4
 na	wjerašku	4
 ludowej	wěrje	4
 za	wjas	4
@@ -22790,7 +22766,6 @@ do	pódpołnocneje	4
 šyrinowych	krejzow	4
 dolnoserbšćina	ma	4
 njerowna	se	4
-ł	a	4
 dolnoserbšćinje	jo	4
 jo	rozdźěl	4
 prědnem	a	4
@@ -23246,7 +23221,6 @@ pólskego	kralojstwa	4
 byłej	teke	4
 wó	což	4
 ze	źinsajšnym	4
-pismik	ł	4
 se	wugronił	4
 měli	dwě	4
 jo	pśejšło	4
@@ -23417,6 +23391,7 @@ jadnolětna	rostlina	4
 rězane	a	4
 kwiśonki	z	4
 ako	taiwan	4
+chinska	ludowa	4
 republice	kongo	4
 na	wucbu	4
 źewjeś	lět	4
@@ -23554,7 +23529,6 @@ a	nawjedujo	4
 kubłańskeje	seśi	4
 kubłańske	institucije	4
 hodźa	so	4
-na	př	4
 w	fokusu	4
 nowych	medijow	4
 na	dalše	4
@@ -23707,6 +23681,7 @@ z	kralom	4
 a	smjerś	4
 familiju	a	4
 a	nutśikowny	4
+žywjenje	mjazy	4
 do	raja	4
 rownocasnje	wólbna	4
 lětami	a	4
@@ -23809,6 +23784,7 @@ faraŕ	herbert	4
 glědała	na	4
 wóznam	słowa	4
 a	wugronjenje	4
+rěcnej	komisiji	4
 parlament	jo	4
 z	radu	4
 lichoty	a	4
@@ -24000,7 +23976,6 @@ cerkwinske	žywjenje	4
 cera	krejza	4
 k	s	4
 s	w	4
-r	jo	4
 nitka	pśez	4
 rolu	reformacije	4
 namšu	k	4
@@ -24054,7 +24029,6 @@ proti	nám	4
 na	tem	4
 samo	wót	4
 politiskej	změnje	4
-tych	w	4
 centrum	w	4
 w	zjadnośonej	4
 pódwjacornosłowjański	lud	4
@@ -24093,7 +24067,6 @@ you	the	4
 standarźe	jo	4
 kótaryž	śi	4
 a	wopisanje	4
-njedaj	se	4
 až	wónej	4
 a	short	4
 pages	with	4
@@ -24123,6 +24096,7 @@ aktiwne	nałožowanje	4
 spěchujo	w	4
 to	muse	4
 how	byli	4
+gaž	te	4
 se	smjejo	4
 online	skazaś	4
 možnosći	za	4
@@ -24251,7 +24225,6 @@ hupac	jo	4
 absolwent	serbskeje	4
 z	wěstotu	4
 pomocu	toś	4
-na	mozilla	4
 nad	wartu	4
 kótarež	powědaju	4
 móžo	južo	4
@@ -24302,6 +24275,7 @@ co	mě	4
 tak	rad	4
 ten	bom	4
 ako	argument	4
+wó	mnjo	4
 hyšći	žywy	4
 wóna	by	4
 a	njejsom	4
@@ -24400,7 +24374,6 @@ słowjańske	stawizny	4
 jo	wósebny	4
 zachadne	lěto	4
 a	mdr	4
-nam	wšyknym	4
 buźomy	dalej	4
 tež	ze	4
 stupili	do	4
@@ -24474,6 +24447,7 @@ myta	miny	4
 angažěrowanosć	na	4
 gmejny	w	4
 slědnych	dnjach	4
+tych	lětach	4
 dalej	wjele	4
 elana	a	4
 a	casopise	4
@@ -24617,6 +24591,7 @@ wódy	we	4
 zwisk	k	4
 daloko	segajuce	4
 bogate	na	4
+demokratiska	republika	4
 nastali	z	4
 z	něgajšnych	4
 tradicionalne	reje	4
@@ -24746,7 +24721,6 @@ se	nejžpjerwjej	4
 jo	pśinjasła	4
 institucije	za	4
 serbskej	ludnosći	4
-sed	a	4
 na	lěpše	4
 tradicijow	serbskego	4
 domowiny	mógu	4
@@ -24897,6 +24871,7 @@ praktiske	nazgónjenja	4
 móžne	a	4
 źinsa	we	4
 pórěd	a	4
+ruki	a	4
 hob	cas	4
 jo	žycone	4
 źěłowe	kupki	4
@@ -24992,6 +24967,7 @@ pód	znamjenim	4
 a	uniwersalny	4
 wudał	prědne	4
 herzlichen	glückwunsch	4
+und	niedersorbisch	4
 se	rejtarki	4
 rejtarkowej	rědce	4
 you	like	4
@@ -25080,6 +25056,7 @@ zgórjelcu	a	4
 jo	dar	4
 na	wjelich	4
 we	rědu	4
+ten	pšawy	4
 cerkwje	we	4
 serbskich	sedlišćow	4
 delegacija	serbskego	4
@@ -25233,7 +25210,6 @@ k	zdźaržanjeju	4
 žedna	serbska	4
 za	swójeju	4
 to	jomu	4
-jan	bok	4
 schadujo	se	4
 wón	bydli	4
 wudopołnjenje	a	4
@@ -25335,7 +25311,6 @@ anfang	des	4
 jeho	přećeljo	4
 jěwy-marje	čornakec	4
 jěžik	kałačik	4
-fotograf	wolfgang	4
 jogo	pśijaśele	4
 zasej	ducy	4
 znatego	serbskego	4
@@ -25373,7 +25348,6 @@ a	spiwaś	4
 ze	ćiska	4
 muzejom	a	4
 jogo	twóŕby	4
-wobraze	z	4
 zběrki	z	4
 su	mj	4
 jano	krotko	4
@@ -25387,8 +25361,6 @@ z	módłeje	4
 krajnego	raźca	4
 serbske	łopjeno	4
 łopjeno	jo	4
-ako	sam	4
-sam	se	4
 su	pśeśiwo	4
 młodymi	luźimi	4
 juž	dawno	4
@@ -26062,6 +26034,7 @@ baixo	soràb	4
 kein	sorbisch	4
 parolas	esperanton	4
 po	dolnołużycku	4
+do	mikrofona	4
 gaž	śi	4
 juliju	w	4
 w	městašku	4
@@ -26526,7 +26499,6 @@ karla	vouka	4
 tym	tež	4
 kulturne	institucije	4
 gaž	nic	4
-nałogami	a	4
 are	using	4
 a	pódpěrarjow	4
 pósejźenje	zasej	4
@@ -26547,6 +26519,7 @@ górne	błota	4
 łopjenow	za	4
 a	wódnym	4
 se	wjerśi	4
+kijaški	su	4
 samaj	se	4
 ěź	večkeve	4
 meze	teems	4
@@ -26692,6 +26665,7 @@ stej	wjadłej	4
 lěto	ako	4
 jo	zarědowanje	4
 mjena	a	4
+jich	wuznam	4
 jo	póchadał	4
 aby	serbsku	4
 jsach	zasej	4
@@ -26899,6 +26873,7 @@ wutšobnje	pśepšosyjo	4
 click	here	4
 cesto	pśez	4
 boku	za	4
+ten	kraj	4
 stej	musałej	4
 za	pódpołnocnu	4
 jadnorje	z	4
@@ -26928,8 +26903,6 @@ su	dojšli	4
 jo	płod	4
 wót	družyny	4
 den	traditionellen	4
-koncertowy	rěd	4
-se	skóńcył	4
 dataje	z	4
 dum	li	4
 dataje	su	4
@@ -27450,6 +27423,7 @@ tych	jsow	4
 z	gwězdowym	4
 tu	sadu	4
 wót	wótbagrowanja	4
+był	ducy	4
 mathias	berndt	4
 zu	ende	4
 als	pfarrer	4
@@ -27466,7 +27440,6 @@ wójnu	w	4
 produkty	za	4
 na	łužycu	4
 tu	njeźelu	4
-žeńske	wót	4
 prjatkował	jo	4
 a	pšose	4
 künstler	vor	4
@@ -27852,7 +27825,6 @@ ale	źož	4
 se	wopóznaś	4
 wopóznaś	z	4
 how	móžoš	4
-sed	jo	4
 žeden	drugi	4
 pórěd	w	4
 był	jogo	4
@@ -27886,7 +27858,6 @@ den	die	4
 die	landesregierung	4
 negatiwne	znamuško	4
 za	žedne	4
-napšawo	w	4
 gódnoty	se	4
 poziciska	mapa	4
 z	wjelikeje	4
@@ -28172,6 +28143,7 @@ dnja	zamrěśa	4
 a	dźěći	4
 neuausgabe	der	4
 bibel	in	4
+což	firefox	4
 we	śichem	4
 pśez	program	4
 tradicionelnje	w	4
@@ -28208,7 +28180,6 @@ of	germany	4
 will	not	4
 słowjańska	rěc	4
 what	is	4
-mi	ne	4
 malsuprasoraba	vikipedio	4
 mal	die	4
 źo	sy	4
@@ -28239,6 +28210,7 @@ den	beitrag	4
 stand	der	4
 wichtige	rolle	4
 serbski	kšywowy	4
+gromaźe	źěłaś	4
 pśedsedarjom	domowiny	4
 rumoju	serbow	4
 nowe	wiki	4
@@ -28260,7 +28232,6 @@ madlena	norberg	4
 hyšći	cas	4
 swět	we	4
 do	śěła	4
-aby	nicht	4
 wšo	buźo	4
 kenž	słuša	4
 a	źěłała	4
@@ -28415,7 +28386,6 @@ jo	padnuła	4
 rěcnem	planowanju	4
 hync	rychtaŕ	4
 rychtaŕ	jo	4
-a	toć	4
 na	plakatach	4
 januara	w	4
 sla	z	4
@@ -28474,6 +28444,7 @@ europy	a	4
 sobustatkujuce	a	4
 mój	stary	4
 domoj	wrośił	4
+z	blunja	4
 w	ptačecach	4
 a	woglěd	4
 skóro	zasej	4
@@ -28570,6 +28541,7 @@ jěłej	do	4
 a	tśo	4
 upload	the	4
 pšawniskich	srědkow	4
+pśeto	to	4
 dialoga	ze	4
 to	mógało	4
 will	das	4
@@ -28663,7 +28635,6 @@ namša	nowšego	4
 promšt	jan	4
 sebastiana	elikowskego-winklera	4
 jo	pśepowdał	4
-wrośenice	reformacije	4
 w	tšupcańskej	4
 schinkelowej	cerkwi	4
 dirigent	gerald	4
@@ -28736,7 +28707,6 @@ swóju	identitu	4
 dany	su	4
 měł	styri	4
 su	swój	4
-nawuknuli	wót	4
 su	źe	4
 teke	pokazki	4
 južo	njejo	4
@@ -29185,7 +29155,6 @@ jedes	kind	4
 in	stücke	4
 und	zucker	4
 hinzugeben	und	4
-und	ca	4
 se	wótpóraju	4
 citronowu	mězgu	4
 śěgnuś	daś	4
@@ -29355,7 +29324,6 @@ tabelu	z	4
 móžośo	pó	4
 artiklowy	numer	4
 tabulatorowu	tastu	4
-póla	w	4
 pólne	mjenja	4
 kótaryž	was	4
 datowego	póla	4
@@ -29379,6 +29347,7 @@ te	kamjenje	4
 wórach	a	4
 znamje	jo	4
 maju	něco	4
+pśepšosujomy	na	4
 starej	šuli	4
 a	zajmowanych	4
 parlamenta	nimskorěcnego	4
@@ -29395,7 +29364,6 @@ dolnej	łuycy	4
 zalu	serbskego	4
 cerkwinskego	dnja	4
 zajźonego	casa	4
-wutšobnje	pśepšosujomy	4
 sotšami	a	4
 a	bratšami	4
 mollerus	z	4
@@ -29456,7 +29424,6 @@ pśedłoga	wužywa	4
 schon	vor	4
 die	diesjährige	4
 wendisch	und	4
-dem	programm	4
 źiśi	serbske	4
 to	drjewo	4
 starše	generacije	4
@@ -29591,7 +29558,6 @@ někotare	móžnosći	4
 a	pólěpšyś	4
 do	kategorijow	4
 zeger	dweju	4
-hu	nas	4
 standardne	nastajenje	4
 se	wótwórijo	4
 kótarychž	wustupujo	4
@@ -29602,7 +29568,6 @@ wurzeln	vor	4
 ako	nowe	4
 zasej	take	4
 tam	maju	4
-sei	auch	4
 mjenja	sedlišća	4
 wuraz	jo	4
 to	rozsuźiś	4
@@ -30116,7 +30081,6 @@ póbitowanja	za	4
 ako	kulturny	4
 so	manche	4
 neuen	sorbischen	4
-a	swětło	4
 swětło	na	4
 aby	namakali	4
 śěžko	padnjo	4
@@ -30256,7 +30220,6 @@ jich	angažement	4
 młodostnych	a	4
 on	tour	4
 this	article	4
-derje	rozmějo	4
 kameru	pódla	4
 den	schülern	4
 am	tag	4
@@ -30424,7 +30387,6 @@ we	našej	4
 narske	na	4
 zapśimjeśa	do	4
 język	polski	4
-ale	wy	4
 nichten	se	4
 die	gastgeber	4
 muzikowych	kupkow	4
@@ -30552,6 +30514,7 @@ wuběrk	wokrejsa	4
 jo	cora	4
 słyšyśo	w	4
 za	wuběgańcow	4
+z	naźeju	4
 mjeńšynowych	regionow	4
 fleksiske	formy	4
 von	seiner	4
@@ -30595,7 +30558,6 @@ wejsneje	pśirady	4
 na	chóśebuskej	4
 stoj	to	4
 pśiduce	serbske	4
-take	serbske	4
 a	wuwiśa	4
 wobraz	wó	4
 deje	wukniki	4
@@ -30696,7 +30658,6 @@ pawšalne	spěchowanje	4
 wón	to	4
 ty	njejsy	4
 a	tradicionelne	4
-we	słowakskej	4
 rěcne	elementy	4
 do	kótarego	4
 raz	wužywaś	4
@@ -30826,7 +30787,6 @@ gymnaziuma	jo	4
 der	evaluierung	4
 sich	unsere	4
 a	dejali	4
-ako	jezus	4
 graśa	w	4
 kšace	w	4
 rejtarkowu	kupku	4
@@ -31018,7 +30978,6 @@ hyšći	žywa	4
 gromadu	pśišło	4
 źěłowy	krejz	4
 rochy	a	4
-w	šejnejźe	4
 wjele	znatych	4
 weniger	bekannte	4
 situacija	na	4
@@ -31035,7 +30994,6 @@ zachadny	kóńc	4
 der	menschen	4
 pórucenja	k	4
 lažy	blisko	4
-ego	lětnika	4
 z	wjasołym	4
 wjele	wuknikow	4
 war	und	4
@@ -31308,7 +31266,6 @@ ta	rědka	4
 woknje	pśiměrjeńskeje	4
 swójom	rěźe	4
 cytał	w	4
-tyźenja	we	4
 za	jawišćo	4
 wšednje	w	4
 redaktorka	marion	4
@@ -31515,7 +31472,6 @@ swójimi	pśiswójźbnymi	4
 und	märchen	4
 na	kubłańskich	4
 per	alta	4
-and	he	4
 nastawk	mjaseca	4
 słownych	kórtkow	4
 wobzamknjenja	nimskego	4
@@ -31531,6 +31487,7 @@ te	funkcije	4
 škódne	sedła	4
 z	wopytami	4
 kšywowy	zwčzk	4
+jo	byá	4
 wót	lčta	4
 jo	wordowaá	4
 eine	liste	4
@@ -31547,10 +31504,7 @@ wilamojska	rěc	4
 wilamojskej	rěcy	4
 wobkšuśeńskim	kodom	4
 pšawicaŕske	pady	4
-cozy	dog	4
-dog	torba	4
 torba	transportowa	4
-dog	budka	4
 regular	expressions	4
 ranchocadillac	ranchocadillac	4
 bank	jos	4
@@ -31564,7 +31518,6 @@ w	pódpołdnjowych	3
 geografiske	połoženje	3
 gustosć	ludnosći	3
 šef	kněžarstwa	3
-nad	normalneju	3
 a	nejniše	3
 britiske	kupy	3
 engelske	mě	3
@@ -31702,6 +31655,7 @@ jo	http	3
 mjaz	atlantiskim	3
 z	pódwjacora	3
 do	pódpołdnja	3
+tak	mjenjowany	3
 w	saharje	3
 sucha	a	3
 se	scełego	3
@@ -31881,7 +31835,6 @@ do	w	3
 było	jogo	3
 jo	wěcejlětna	3
 rědko	su	3
-m	wusoke	3
 ze	žołtymi	3
 a	semjenja	3
 wužywa	pśi	3
@@ -32323,7 +32276,6 @@ mócna	a	3
 lět	wó	3
 pšašanja	ako	3
 tom	modelu	3
-kótaremž	by	3
 wuměnjenja	w	3
 pó	prabuchu	3
 lět	kradu	3
@@ -32361,7 +32313,6 @@ howacej	su	3
 ako	wopyt	3
 pó	rozpaźe	3
 serbiska	a	3
-c	c	3
 kreditnog	rejtinga	3
 agencija	moody's	3
 bosni	i	3
@@ -32917,7 +32868,6 @@ any	language	3
 all	editors	3
 visualeditor	is	3
 this	wikipedia	3
-on	monday	3
 to	edit	3
 start	a	3
 you	don't	3
@@ -33345,7 +33295,6 @@ jo	carna	3
 naroźony	w	3
 zachopjeńku	njejo	3
 maminy	kraj	3
-zdźěla	teke	3
 akle	po	3
 jo	rozrědowanje	3
 źinsa	wopśimjejo	3
@@ -33826,7 +33775,6 @@ wjelikich	krejzach	3
 zemski	radius	3
 wó	někotare	3
 zwobraznjenje	na	3
-na	kórtach	3
 wšykne	wjelike	3
 how	móžo	3
 z	koordinatami	3
@@ -34272,7 +34220,6 @@ basisdemokratische	gruppe	3
 jo	dwa	3
 dwa	raz	3
 koresponděrujo	z	3
-r	a	3
 gronko	na	3
 se	śěgnuło	3
 śěgnuło	ako	3
@@ -34315,7 +34262,6 @@ młodych	dolnoserbow	3
 göbel	młodu	3
 pó	lěśojskich	3
 z	wukubłanim	3
-ana	jo	3
 nas	wjeźo	3
 zajmne	a	3
 staru	šulu	3
@@ -34357,7 +34303,6 @@ und	moderatorin	3
 orte	in	3
 gemeinde	im	3
 im	südosten	3
-er	zeigt	3
 ihr	unter	3
 reportarka	a	3
 zajtšu	bramborskeje	3
@@ -34374,6 +34319,7 @@ srjejźišća	w	3
 w	ddr-skem	3
 ddr-skem	casu	3
 pó	politiskej	3
+tych	w	3
 zmócniś	a	3
 drugich	w	3
 wuměnu	mjazy	3
@@ -34429,7 +34375,6 @@ the	bottom	3
 section	of	3
 outside	of	3
 by	adding	3
-južo	ma	3
 element	pó	3
 the	code	3
 code	for	3
@@ -34441,6 +34386,7 @@ wanted	to	3
 the	title	3
 the	search	3
 dwě	póli	3
+njedaj	se	3
 wšykne	póla	3
 that	an	3
 added	to	3
@@ -34681,6 +34627,7 @@ ministarka	za	3
 a	wobydlarje	3
 waše	muzikowe	3
 žycenja	našych	3
+zeger	jadnog	3
 nic	kužda	3
 sebje	raz	3
 napišćo	nam	3
@@ -34720,6 +34667,7 @@ te	problemy	3
 zmólki	abo	3
 žycenja	za	3
 rozpšawa	se	3
+na	mozilla	3
 testament	w	3
 stał	ze	3
 rěźe	wó	3
@@ -34955,6 +34903,7 @@ a	glědaju	3
 sćo	mógali	3
 stej	groniłej	3
 wón	měni	3
+nam	wšyknym	3
 ale	muse	3
 nowe	źěłowe	3
 eksponaty	z	3
@@ -35693,7 +35642,6 @@ pśigótowali	na	3
 a	wrota	3
 z	młoźinu	3
 na	wrota	3
-łapali	kokota	3
 pśiglědarje	su	3
 picańske	měsćańske	3
 źiśownje	su	3
@@ -35771,7 +35719,6 @@ jo	pódany	3
 abo	specialne	3
 dobry	zachopjeńk	3
 ten	něgajšny	3
-do	sed	3
 jo	gromadu	3
 zajźonych	lět	3
 januarje	togo	3
@@ -35845,7 +35792,6 @@ w	šyrokej	3
 běžeca	wóda	3
 tema	prědnego	3
 ty	na	3
-na	nimjerne	3
 se	zmaka	3
 z	rozšyrjonym	3
 da	ist	3
@@ -35882,7 +35828,6 @@ kradu	wósebne	3
 wósebne	a	3
 źowći	w	3
 jo	staw	3
-wopśimjejo	něźi	3
 šyrokosć	jo	3
 se	serbskemu	3
 źiwadłowym	graśim	3
@@ -36291,8 +36236,6 @@ blieben	aber	3
 aber	beständig	3
 der	gemeinschaft	3
 gemeinschaft	und	3
-wěcej	detailowe	3
-detailowe	informacije	3
 ked	jo	3
 jo	bede	3
 bede	džecko	3
@@ -36425,6 +36368,7 @@ zastupnistwa	serbow	3
 hobswětowych	zwězkow	3
 pśizamknuś	a	3
 cuzej	zemi	3
+jan	bok	3
 dich	nicht	3
 naraźenje	pśedsedarja	3
 pśigótujo	pósejźenja	3
@@ -36539,7 +36483,6 @@ rowninu	a	3
 póstajenje	šyriny	3
 howac	by	3
 dołojce	pódane	3
-teje	samskeje	3
 jolic	stej	3
 wšakich	wužywarjow	3
 móžo	wót	3
@@ -36649,7 +36592,6 @@ pśišli	we	3
 pó	nabóžninje	3
 kraju	na	3
 pla	městow	3
-a	ca	3
 wót	złego	3
 se	wustajeńca	3
 serbskego	wuměłca	3
@@ -36682,6 +36624,8 @@ se	wuznamjenił	3
 kradu	do	3
 nimskeje	politiki	3
 pó	boce	3
+ako	sam	3
+sam	se	3
 luźe	gronje	3
 jo	jadnu	3
 pisaś	wó	3
@@ -36792,7 +36736,6 @@ ein	star	3
 ako	drugeje	3
 drugeje	cuzeje	3
 do	koaliciskego	3
-pórucenje	k	3
 wěcej	pšawow	3
 a	buźomy	3
 sejmowego	huběrka	3
@@ -37184,7 +37127,6 @@ aus	steuermitteln	3
 w	nutśikownem	3
 hyšći	casy	3
 w	susednych	3
-města	wětošowa	3
 mój	zajm	3
 rozsuźiła	za	3
 som	źěłała	3
@@ -37214,7 +37156,6 @@ und	obersorbische	3
 den	chor	3
 die	besonderheit	3
 sängerinnen	und	3
-vor	ca	3
 und	tschechischen	3
 muzikoweje	kultury	3
 žywe	wóstali	3
@@ -37346,7 +37287,6 @@ bydlili	na	3
 njewótwisnosći	w	3
 jo	sobuzałožyła	3
 nosaŕ	nobelowego	3
-w	tv	3
 a	familija	3
 je	dźensa	3
 swóje	prědne	3
@@ -37434,7 +37374,6 @@ in	groß	3
 das	und	3
 denn	er	3
 frau	und	3
-es	sei	3
 das	kann	3
 z	śichym	3
 wendische	radioprogramm	3
@@ -37590,7 +37529,6 @@ za	zbrašnych	3
 njedajo	jano	3
 za	muzej	3
 teke	nowu	3
-nowu	wědu	3
 wědu	pśiswójś	3
 w	publikacijach	3
 muse	wšykne	3
@@ -37616,7 +37554,6 @@ kulojcowem	muzeju	3
 jo	witana	3
 pśisamem	tśi	3
 wendlanźe	w	3
-kólesko	z	3
 z	wuběźowanja	3
 w	decembru	3
 derje	pśigótowane	3
@@ -37780,7 +37717,6 @@ spatz	frido	3
 frido	und	3
 seinen	freunden	3
 slěźenje	na	3
-er	und	3
 die	originale	3
 heute	im	3
 nagrawanjow	z	3
@@ -37906,7 +37842,6 @@ paul	wiebe	3
 dem	regisseur	3
 visual	artist	3
 ergebnisse	zweier	3
-ist	kostenlos	3
 kostenlos	und	3
 gelten	die	3
 workshop	a	3
@@ -37950,7 +37885,6 @@ wužywaŕ	de	3
 bitte	die	3
 don't	understand	3
 la	soraban	3
-vi	ne	3
 ale	nie	3
 se	wužywarje	3
 slěduju	něnto	3
@@ -38263,7 +38197,6 @@ wjaselili	na	3
 wót	janšojskego	3
 sebje	serbski	3
 se	wuźěkowali	3
-ana	kosakojc	3
 hat	wie	3
 viele	junge	3
 ihr	abitur	3
@@ -38720,8 +38653,7 @@ na	iniciatiwje	3
 gromadu	wjadł	3
 identita	jo	3
 identita	a	3
-perspektiven	pokazuju	3
-mjazy	nałogami	3
+nałogami	a	3
 to	give	3
 pśewjadł	swójo	3
 buźo	tenraz	3
@@ -38836,7 +38768,6 @@ mócnje	na	3
 literatura	w	3
 sowjetskem	zwězku	3
 měrćina	nowaka-njechorńskego	3
-teke	jan	3
 maš	ty	3
 wó	roli	3
 a	zakóńcyjo	3
@@ -38987,7 +38918,6 @@ tym	comy	3
 zjawnje	pśistupny	3
 bźez	pśizjawjenja	3
 pśizjawjenja	móžne	3
-tek	na	3
 pótom	zapódajśo	3
 pak	móžośo	3
 maśo	na	3
@@ -39022,11 +38952,13 @@ gibanju	a	3
 a	stwóriśel	3
 stwóriśel	edicije	3
 serbska	dźiwadłowa	3
+dźiwadłowa	zběrka	3
 ako	wušy	3
 gymnazialny	wucabnik	3
 budyšyńskem	gymnaziumje	3
 rownocasnje	muka	3
 pśistupił	zjadnośeństwoju	3
+budyska	bjesada	3
 jo	pśebył	3
 pśebył	až	3
 gymnaziumje	albertinum	3
@@ -39252,7 +39184,6 @@ uns	eine	3
 to	stop	3
 leave	me	3
 za	dokumenty	3
-wersiju	libreoffice	3
 standardne	pjenjeze	3
 format	pjenjez	3
 narodnej	šemje	3
@@ -39389,7 +39320,6 @@ dispoziciji	stoje	3
 naraźenja	až	3
 do	mediawiki	3
 websedłoju	a	3
-specialnych	funkcijow	3
 pśedłogi	na	3
 žrědłowem	teksće	3
 pśida	wótkaz	3
@@ -39487,7 +39417,6 @@ běły	muster	3
 su	krotke	3
 tekst	hymny	3
 socialistiskeje	republiki	3
-si	nam	3
 vi	estas	3
 napisany	w	3
 w	php	3
@@ -40165,7 +40094,6 @@ zasej	byli	3
 njeby	źinsa	3
 su	potom	3
 tśi	lětźasetki	3
-była	ako	3
 źiśimi	jo	3
 nimski	powědało	3
 gaž	zasej	3
@@ -40547,6 +40475,7 @@ było	jadnab	3
 karin	kalawcyna	3
 była	dwójorěcna	3
 se	śěžko	3
+žeńske	wót	3
 norbergowa	a	3
 a	ingolf	3
 gódy	se	3
@@ -40848,7 +40777,6 @@ stare	wiki	3
 k	comuž	3
 wšykne	wěmy	3
 wažny	ako	3
-cerkwja	sw	3
 cerkwja	na	3
 mordaŕ	jo	3
 cełeju	dušu	3
@@ -40910,7 +40838,6 @@ iniciatiwow	a	3
 za	wuspěšne	3
 jadno	wósebne	3
 płaśe	wšykne	3
-lětnemu	wobstaśu	3
 zwězka	w	3
 se	njeraźi	3
 nich	dej	3
@@ -41202,7 +41129,6 @@ swójskich	mjenjach	3
 dej	wón	3
 zastojnstwowe	jadnotki	3
 wašni	pisanja	3
-zapiski	w	3
 deklinaciske	tabele	3
 zamrětych	jo	3
 njeźela	cerkwinego	3
@@ -41315,6 +41241,7 @@ ist	doch	3
 dlininy	ako	3
 ako	decimalne	3
 za	pódzajtšnu	3
+napšawo	w	3
 srědki	k	3
 google	maps	3
 hyšći	žeden	3
@@ -41352,6 +41279,7 @@ pśizamknu	se	3
 z	chóśebuskeje	3
 naglěda	se	3
 we	cerkwinem	3
+se	skóńcył	3
 su	město	3
 we	jadnej	3
 a	werner	3
@@ -41742,7 +41670,6 @@ wósebne	póbitowanja	3
 na	kóńcach	3
 wir	an	3
 bieten	wir	3
-ju	derje	3
 ako	daju	3
 ideje	su	3
 die	einen	3
@@ -42008,6 +41935,7 @@ wucby	we	3
 wucbu	z	3
 kopje	do	3
 ja	kśěł	3
+aby	nicht	3
 nade	mnu	3
 togodla	cu	3
 aby	ta	3
@@ -42389,8 +42317,6 @@ na	nerwy	3
 dawno	wěcej	3
 to	sami	3
 sami	ze	3
-parle	le	3
-le	français	3
 français	comme	3
 comme	langue	3
 langue	maternelle	3
@@ -42424,6 +42350,7 @@ za	słowjańske	3
 górna	kórta	3
 wjele	gluki	3
 wrośijo	se	3
+zas	domoj	3
 aby	pó	3
 pśi	rěcce	3
 cerkwi	torm	3
@@ -42437,7 +42364,6 @@ pśinosowali	k	3
 browse	the	3
 do	wrotow	3
 postom	na	3
-helmuta	kurja	3
 z	naju	3
 smy	jomu	3
 rozgranjali	a	3
@@ -42625,7 +42551,6 @@ jsy	do	3
 do	slěpeg	3
 slěpjańske	su	3
 su	ćěli	3
-toć	su	3
 do	zelezneje	3
 te	slěpjańske	3
 pó	te	3
@@ -42633,7 +42558,6 @@ katalańšćina	a	3
 a	špańšćina	3
 with	all	3
 major	browsers	3
-wp	placeholder	3
 drugim	rědom	3
 eduard	haußig	3
 boce	dolnoserbski	3
@@ -42675,7 +42599,6 @@ a	wence	3
 w	dolnołužyskich	3
 dolnołužyskich	jsach	3
 złym	komorowje	3
-wón	wó	3
 nowu	diskusiju	3
 abo	staru	3
 cyń	to	3
@@ -42839,6 +42762,7 @@ wobzamknuś	a	3
 wóni	wuknu	3
 zdaśim	derje	3
 namšu	z	3
+wrośenice	reformacije	3
 ze	žednymi	3
 wendischen	kirchentag	3
 das	motto	3
@@ -42974,7 +42898,7 @@ se	zjadnośili	3
 raz	wjele	3
 w	něntejšnem	3
 kupach	a	3
-połobskosłowjany	su	3
+nawuknuli	wót	3
 šćitaś	pśed	3
 wiźeś	na	3
 swóje	slědy	3
@@ -43409,7 +43333,6 @@ dajo	doglěd	3
 jsach	su	3
 tšojło	w	3
 ako	nowego	3
-barliń-bramborska-šlazyńska	górna	3
 cerkwju	z	3
 kněžaŕstwo	a	3
 něnto	ze	3
@@ -43994,7 +43917,6 @@ z	jušku	3
 nicht	auch	3
 mit	spreewälder	3
 mit	mehl	3
-zeleninoweje	juški	3
 małych	kuskow	3
 die	butter	3
 kommt	auch	3
@@ -44039,7 +43961,6 @@ swóje	pódłožki	3
 tam	wótedaś	3
 formular	namakajośo	3
 lěwem	źělu	3
-w	e	3
 byśu	a	3
 wšykno	ma	3
 den	sonderpreis	3
@@ -44303,6 +44224,7 @@ wiźiśo	dialog	3
 a	pušććo	3
 pśikaz	wulašowaś	3
 mjenim	w	3
+dokument	za	3
 pólnego	mjenja	3
 aby	kontekstowy	3
 meni	pokazał	3
@@ -44541,7 +44463,6 @@ jaden	wjeliki	3
 dobra	duša	3
 a	ceły	3
 anett	zyšcyna	3
-ma	mało	3
 wuzwólili	ako	3
 šła	na	3
 jśpy	a	3
@@ -44581,6 +44502,7 @@ wopis	za	3
 der	vorstellung	3
 freuen	sich	3
 gesungen	wird	3
+dem	programm	3
 skóńcnje	raz	3
 programa	z	3
 ihre	geschichte	3
@@ -45306,7 +45228,6 @@ projekśe	k	3
 is	on	3
 an	app	3
 kuchaŕ	jo	3
-toć	ten	3
 stojali	na	3
 dwě	noze	3
 poskićimy	tebi	3
@@ -45525,7 +45446,6 @@ zwěrjeta	na	3
 nawjerśeńske	knigły	3
 te	dobre	3
 tomu	wěriś	3
-gaž	jezus	3
 njebuźo	wěcej	3
 nam	něco	3
 wócy	za	3
@@ -45835,6 +45755,7 @@ gronkom	na	3
 žiwi	w	3
 za	swěźeń	3
 der	bekannte	3
+fotograf	wolfgang	3
 sie	nun	3
 lesen	und	3
 zum	leben	3
@@ -45914,7 +45835,6 @@ statkowaś	na	3
 slobrowita	šytawa	3
 šnapac	jo	3
 a	žołty	3
-wón	tam	3
 starostow	njejo	3
 tom	lažy	3
 gesangbuch	für	3
@@ -45938,6 +45858,7 @@ w	supermarku	3
 sćo	pla	3
 muzeja	wó	3
 michałskej	cerkwi	3
+wutšobnje	pśepšosujomy	3
 kazane	do	3
 do	farskego	3
 farskego	doma	3
@@ -46111,6 +46032,7 @@ tej	situaciji	3
 kurs	na	3
 hyšći	dalšny	3
 jogo	nadawki	3
+a	swětło	3
 cytaś	na	3
 pśewóźowaś	pśez	3
 našo	cełe	3
@@ -46241,7 +46163,6 @@ göbel	nam	3
 konnten	wir	3
 schulverein	des	3
 łužyskego	instituta	3
-lausitz	tv	3
 źěło	serbskich	3
 über	einem	3
 die	corona-pandemie	3
@@ -46374,7 +46295,6 @@ wobźělniki	se	3
 als	download	3
 sportowe	tšojenje	3
 sportowa	družyna	3
-cytajśo	slědujucy	3
 jo	moda	3
 luźe	pśed	3
 groni	to	3
@@ -46481,6 +46401,7 @@ w	rostocku	3
 jodie	foster	3
 cc	by-sa	3
 rowno	akle	3
+derje	rozmějo	3
 tema	była	3
 im	heimatmuseum	3
 des	alltags	3
@@ -46734,7 +46655,6 @@ pód	tel	3
 witane	na	3
 auf	cd	3
 zusammenarbeit	des	3
-oberkirche	st	3
 jo	marion	3
 až	nowa	3
 pśeśiwo	serbskej	3
@@ -46768,7 +46688,6 @@ certifikacija	identity	3
 symbol	na	3
 dokulaž	wudawarski	3
 pśigódne	mjazycertifikaty	3
-nastawku	pomocy	3
 wěstych	sedłach	3
 ako	google	3
 samosigněrowane	certifikaty	3
@@ -46836,7 +46755,6 @@ jadyn	z	3
 z	měchom	3
 wón	tomu	3
 tomu	drugemu	3
-kaž	som	3
 pśewjeźo	rěcny	3
 powěsćowych	póstawach	3
 wódnem	mužu	3
@@ -46867,6 +46785,7 @@ gnojowu	kopicu	3
 cesto	smy	3
 do	powětša	3
 w	karwonojcach	3
+ale	wy	3
 našej	wokolnosći	3
 se	stajijo	3
 takich	luźi	3
@@ -47247,7 +47166,6 @@ rozsudow	w	3
 z	myšu	3
 sedleńskim	rumom	3
 swěźenjach	w	3
-pśed	wušej	3
 se	zejšli	3
 su	zapisali	3
 to	mamy	3
@@ -47317,12 +47235,12 @@ wuběźowanje	młodych	3
 muzikowych	talentow	3
 academy	of	3
 pśidatne	informacije	3
-budu	žeńske	3
 wšakich	zarědowanjach	3
 wólbne	wopokazadła	3
 we	kótarych	3
 sorbische	auswahl	3
 zu	haben	3
+take	serbske	3
 nejlěpše	wuměnjenja	3
 rědne	jo	3
 móst	a	3
@@ -47376,7 +47294,6 @@ drastwje	z	3
 źiwadło	w	3
 spomnjejo	na	3
 wót	źaseś	3
-ddr	und	3
 we	lětach	3
 z	łapanim	3
 měli	jano	3
@@ -47469,7 +47386,6 @@ rejowańska	a	3
 do	lubina	3
 w	kamjenej	3
 za	pódrobnosći	3
-a	jezus	3
 nim	su	3
 za	študańce	3
 witaj	za	3
@@ -47595,6 +47511,7 @@ k	pśewjeźenju	3
 dalej	pó	3
 jonas	jo	3
 jakub	gruhl	3
+we	słowakskej	3
 wótrězka	rěcne	3
 zgónijośo	wuslědk	3
 bóžko	hyšći	3
@@ -48015,6 +47932,7 @@ wubrane	pśinoski	3
 jogo	twórba	3
 swěta	na	3
 und	eltern	3
+koncertowy	rěd	3
 móžośo	wurězki	3
 dobra	tradicija	3
 pśichoda	glědaś	3
@@ -48032,6 +47950,7 @@ we	krotkem	3
 swóju	wósebnu	3
 było	pódla	3
 serbskeje	załožby	3
+ako	jezus	3
 to	pokažo	3
 górnem	pšawem	3
 pšawem	rožku	3
@@ -48089,7 +48008,6 @@ wiźi	sebje	3
 zewšym	prědne	3
 a	zarědnik	3
 which	may	3
-new	age	3
 enya	jo	3
 grała	a	3
 spiwa	a	3
@@ -48477,7 +48395,6 @@ buźo	něnt	3
 farska	brožnja	3
 brožnja	jo	3
 naslědku	se	3
-mozilla	ca	3
 to	verify	3
 verify	that	3
 that	a	3
@@ -48545,6 +48462,7 @@ mě	wusměšowali	3
 wo	wjele	3
 slědnej	ławce	3
 sejźeł	na	3
+serbski	pinak	3
 pśi	piwje	3
 wot	zeger	3
 moj	nank	3
@@ -48627,6 +48545,7 @@ nadawk	za	3
 drogujucu	wustajeńcu	3
 wóni	wěźe	3
 a	cu	3
+w	šejnejźe	3
 tekstowa	barwa	3
 wašej	symbolowej	3
 śamnu	drastwu	3
@@ -48687,6 +48606,7 @@ drugim	kaž	3
 recept	za	3
 von	schülerinnen	3
 moderatorin	diana	3
+ego	lětnika	3
 stacijach	su	3
 někotare	wukniki	3
 wuknice	se	3
@@ -48754,6 +48674,7 @@ głowowa	a	3
 a	nogowa	3
 za	cedliki	3
 tom	dialogu	3
+póla	w	3
 dokument	a	3
 folijowe	sortěrowanje	3
 wobceŕk	a	3
@@ -48779,6 +48700,7 @@ dolnoserbskem	internaśe	3
 centrumje	we	3
 jubilej	dolnoserbskego	3
 na	šulski	3
+m	wusoki	3
 su	gusto	3
 dem	gelände	3
 gelände	des	3
@@ -48849,7 +48771,6 @@ naraźenja	we	3
 gaž	pytaśo	3
 gaž	zachopijośo	3
 norbert	eckstein	3
-ein	großer	3
 za	nowotwaŕ	3
 teke	serbskej	3
 togodla	južo	3
@@ -49327,7 +49248,6 @@ starych	serbskich	3
 wó	radu	3
 zasej	drugi	3
 dawa	a	3
-o	su	3
 jim	gluku	3
 z	torma	3
 tam	něźi	3
@@ -49335,7 +49255,6 @@ teke	knigły	3
 nejwěcej	jo	3
 było	tam	3
 a	zežywjenje	3
-šołty	a	3
 teke	akle	3
 dejśo	se	3
 łuki	a	3
@@ -49385,7 +49304,6 @@ lysann	kobbe	3
 wóžywjenje	dolnoserbskeje	3
 to	jich	3
 žydojske	žywjenje	3
-w	góletkowni	3
 a	źiśowni	3
 cuze	słowo	3
 zymskego	spanja	3
@@ -49617,7 +49535,6 @@ pla	rowa	3
 nimsko-serbska	gmejna	3
 muzika	za	3
 dolnoserbskeje	fachoweje	3
-tam	bydli	3
 abo	nanejmjenjej	3
 na	źinsajšnem	3
 a	wuspěšnje	3
@@ -49843,6 +49760,7 @@ rady	europy	3
 inspirěrowana	wót	3
 jich	kulturu	3
 politiskich	akterow	3
+pseudocolaptes	lawrencii	3
 źewjeśźasetych	lět	3
 symbol	górjejce	3
 wó	swóje	3
@@ -49923,7 +49841,6 @@ w	pančicach	3
 a	swoje	3
 štož	so	3
 hody	a	3
-přeju	wam	3
 unsere	sprache	3
 bórkow	su	3
 do	błótow	3
@@ -50000,3 +49917,86 @@ settings	can	3
 zwučowanja	k	3
 nowum	w	3
 nosarjow	a	3
+swójej	funkciji	3
+dolnoserbskich	słow	3
+za	wón	3
+abo	lěto	3
+pytańskich	nastajenjach	3
+kotraž	běše	3
+und	ebenso	3
+des	ganzen	3
+zu	herzen	3
+pśedsedaŕstwo	na	3
+słowjańske	derbstwo	3
+projektowa	kupka	3
+katja	atanasowa	3
+havas	jam	3
+jam	bonan	3
+bonan	scion	3
+scion	de	3
+wjelika	koalicija	3
+głowny	dypk	3
+macos	instalěrowaś	3
+wobydlaŕki	a	3
+slěpjańskego	spiwnika	3
+z	nazběranymi	3
+za	dokumentaciju	3
+fragen	bekommen	3
+pyšnotki	su	3
+sind	sowohl	3
+des	hauptamtlichen	3
+hauptamtlichen	bürgermeisters	3
+stadt	lübbenau	3
+spreewald	am	3
+z	graśim	3
+bei	łužyca	3
+zu	lesen	3
+pó	tarifje	3
+za	módrośišć	3
+pótom	móžośo	3
+tu	situaciju	3
+w	halbe	3
+z	młogich	3
+take	reje	3
+drogu	namakaś	3
+prěki	a	3
+rozwjaseliś	a	3
+pittkunings	und	3
+bei	nebensätzen	3
+łužyskeje	aliance	3
+auf	wendischer	3
+wendischer	spurensuche	3
+a	filozofka	3
+wikipedije	w	3
+wuměnjaju	se	3
+the	hostname	3
+the	edit	3
+serwerowe	mě	3
+w	błobošojcach	3
+können	und	3
+pósejźenje	serbskeje	3
+aktiwnje	se	3
+jo	wuběrk	3
+wšakorakimi	technikami	3
+gaž	zemja	3
+a	njetrjeba	3
+rewitalizacije	dolnoserbskeje	3
+smy	dojśpili	3
+bjatowaŕski	źeń	3
+powědał	z	3
+ze	zatwarjonym	3
+móžośo	dataju	3
+ferijowe	graśa	3
+gaž	trjebaśo	3
+wobźělniki	z	3
+jo	spomnjeński	3
+byli	to	3
+wót	stolěśow	3
+pśedewześow	w	3
+koordinaciske	městno	3
+krajna	centrala	3
+der	umgebung	3
+muzeju	janšojce	3
+heißt	die	3
+za	gluku	3
+in	casel	3

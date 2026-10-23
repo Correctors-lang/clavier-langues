@@ -1,19 +1,19 @@
 # Bigrammes csb (FineWeb-2 csb_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-to	je	2754
-sã	w	1120
-nie	je	1117
+to	je	2752
+sã	w	1119
+nie	je	1113
 w	tim	1052
-a	téż	945
-pò	kaszëbskù	813
-je	to	789
-na	to	717
+a	téż	944
+pò	kaszëbskù	812
+je	to	788
+na	to	716
 sã	na	676
 sã	z	659
 ò	tim	646
-się	w	634
+się	w	633
 w	gminie	603
-a	w	596
+a	w	595
 to	nie	578
 na	kaszëbach	565
 w	tym	565
@@ -22,61 +22,61 @@ ni	ma	542
 że	to	535
 sã	nie	519
 nie	bëło	502
-je	w	499
+je	w	498
 pò	prôwdze	498
-sã	do	489
+sã	do	488
 kaszëbsczégò	jãzëka	463
-to	sã	462
+to	sã	461
 òb	czas	444
 je	téż	430
 wicy	jak	428
-jak	to	425
-że	w	419
+jak	to	424
 z	nich	419
+że	w	418
 co	sã	413
 we	wejrowie	396
-w	latach	385
-a	na	378
+w	latach	384
+a	na	376
 w	nim	374
 i	na	358
-i	tak	339
-w	ti	339
+i	tak	338
+w	ti	338
 tak	jak	334
-za	to	331
 razã	z	330
 do	tegò	329
+za	to	329
 z	tegò	328
 a	jô	326
-téż	w	324
-je	na	321
+téż	w	323
+je	na	318
 to	mdze	318
-się	z	314
+się	z	313
 mô	bëc	311
 w	pòlsce	309
-to	dô	305
+to	dô	304
 języka	kaszubskiego	302
-się	na	301
 mie	sã	300
+się	na	300
 i	to	299
 to	mòże	296
 z	tim	295
 że	nie	295
 ju	w	294
 jak	w	293
-co	je	292
+co	je	291
 jô	sã	291
 nie	tylko	290
 w	kartuzach	288
-to	bëło	287
 a	jak	286
-jeden	z	285
-w	jaczim	284
-przede	wszëtczim	281
+to	bëło	285
+jeden	z	284
+w	jaczim	282
 a	to	280
+przede	wszëtczim	280
 we	gduńskù	272
-to	ju	271
-sã	téż	268
-to	są	267
+to	ju	270
+sã	téż	267
+to	są	266
 jak	jô	266
 jak	na	266
 to	w	263
@@ -84,34 +84,34 @@ i	z	262
 je	nót	261
 do	kùńca	261
 mòże	bëc	259
-i	nie	257
+i	nie	256
 ale	téż	254
 z	nim	253
 jak	i	251
-a	tej	250
+a	tej	249
 na	kaszubach	247
 na	tim	245
-w	języku	242
 co	to	241
 to	béł	241
-w	kaszëbsczim	241
+w	języku	240
+w	kaszëbsczim	239
 pò	pòlskù	237
 je	ju	236
-jak	sã	235
 ni	mô	234
+jak	sã	234
 jednym	z	231
 że	je	231
 a	z	230
 do	te	230
-nié	le	227
 editëjë	zdrój	227
+nié	le	226
 w	se	225
-nie	są	224
-jô	jem	218
-téż	na	217
-są	w	215
-mln	zł	214
+nie	są	223
+jô	jem	217
+téż	na	215
+są	w	214
 w	nym	213
+mln	zł	213
 się	do	213
 jô	nie	211
 w	rëmi	210
@@ -119,43 +119,44 @@ w	kùńcu	209
 w	gdańsku	205
 ze	sobą	204
 w	òbrëmienim	204
-rokù	w	202
+rokù	w	201
 przë	tim	199
 më	sã	198
-ni	mòże	198
 a	nié	197
 na	ten	197
 nie	mdze	197
 w	sobòtã	197
+ni	mòże	197
 w	pùckù	197
 a	co	195
 je	do	193
-nie	ma	193
 w	ni	192
 po	kaszubsku	192
+nie	ma	192
 jaż	do	191
-ale	jô	190
 tej	jô	190
+ale	jô	189
 a	nie	189
-w	kòscérznie	189
 jô	bë	188
+ë	w	187
 nick	nie	187
+w	kòscérznie	187
 tak	pò	186
 z	ti	185
 w	gdinie	184
 je	z	183
-pierszi	rôz	181
 tak	jô	180
 że	na	180
+pierszi	rôz	180
 mdze	w	180
 w	polsce	180
 jem	sã	180
-i	do	179
-ale	to	178
+i	do	178
 òn	je	178
-języku	kaszubskim	178
 kaszëbskò-pòmòrsczégò	zrzeszeniô	178
 jidze	ò	177
+ale	to	177
+języku	kaszubskim	176
 że	jô	173
 za	wiele	173
 co	do	172
@@ -176,24 +177,24 @@ w	jaczi	167
 w	jegò	166
 je	za	166
 sã	za	166
-ùdzél	w	165
-to	bëła	164
+ùdzél	w	164
 w	ten	164
-w	wejrowie	163
+to	bëła	163
 nigdë	nie	162
 na	przëmiôr	161
 w	szkòle	161
+w	wejrowie	161
 w	którym	161
 bò	to	160
 do	se	159
 a	do	159
 to	bë	159
 jest	to	159
-na	zôczątkù	157
-w	tej	157
 ë	na	157
 do	robòtë	157
 nie	béł	157
+na	zôczątkù	156
+w	tej	156
 przede	wszystkim	156
 je	widzec	154
 të	jes	153
@@ -211,61 +212,62 @@ je	tak	151
 o	tym	151
 mje	sę	149
 w	kaszëbsczi	148
-na	co	148
 kaszëbskô	jednota	148
 bëło	to	148
-a	także	148
 a	jesz	147
-na	gwës	147
+na	co	147
+a	także	147
 w	nich	146
-béł	w	146
 jak	më	146
+na	gwës	146
+béł	w	145
 tës	zł	145
 co	z	144
 mùszi	bëc	144
-to	na	144
 w	niedzelã	144
 sã	ò	144
-do	niegò	144
 to	wszëtkò	143
 jô	so	143
 to	tak	143
+to	na	143
+do	niegò	143
 na	stronie	142
 jesz	nie	140
 na	drëdżi	139
 a	mòże	139
 jaczi	je	138
 na	mje	138
-kaszëbsczim	jãzëkù	137
 jesz	w	137
 są	téż	137
+kaszëbsczim	jãzëkù	136
 na	terenie	136
 le	téż	136
-tak	samò	136
 w	kòscele	136
-mùzeùm	kaszëbskò-pòmòrsczi	135
-kaszëbskò-pòmòrsczi	pismieniznë	135
+tak	samò	135
 wiôldżi	wsë	135
 w	chmielnie	135
 do	ti	134
 na	spòdlim	134
 a	pò	134
-pismieniznë	i	134
+na	pomorzu	133
 ni	mają	133
+mùzeùm	kaszëbskò-pòmòrsczi	133
+kaszëbskò-pòmòrsczi	pismieniznë	133
+pismieniznë	i	133
 jesz	rôz	132
 nié	blós	131
 ale	i	131
 język	kaszubski	131
 do	mie	131
 tim	czasu	130
-to	téż	130
 ùdało	sã	130
 nicht	nie	130
-i	mùzyczi	130
+to	téż	129
 w	ramach	129
-a	czej	129
+i	mùzyczi	129
 to	jô	128
 nie	dô	128
+a	czej	128
 do	tego	127
 na	nich	127
 ale	nie	127
@@ -273,12 +275,12 @@ nót	je	126
 że	më	126
 nie	jest	126
 zrzeszenia	kaszubsko-pomorskiego	126
-jednotë	kaszëbów	126
 z	tego	125
 to	co	125
 nie	było	125
 na	niegò	125
 z	nima	125
+jednotë	kaszëbów	125
 a	za	124
 ze	mną	124
 z	nama	124
@@ -287,46 +289,46 @@ le	blós	124
 ni	miôł	124
 jedną	z	123
 mù	sã	123
-no	i	123
-w	sztãdze	122
-w	całoscë	122
 z	nią	122
-jô	móm	122
+no	i	122
 òn	béł	121
+w	sztãdze	121
+w	całoscë	121
 w	czasie	121
 ni	mógł	121
+jô	móm	121
 òn	sã	120
 na	starnie	120
 że	òn	120
 kjej	jem	119
 mòże	sã	119
-czas	na	119
 wraz	z	119
 a	tak	118
 na	jegò	118
 òd	tegò	118
 kùlturë	w	118
 to	z	118
+czas	na	118
 w	żëcym	118
 pò	tim	117
 jô	ju	117
-mô	sã	117
 w	roku	117
 jô	béł	117
-kaszëbów	w	117
+mô	sã	116
 we	wiôldżi	116
-na	nim	116
 dlô	dzecy	116
+kaszëbów	w	116
 bëło	w	115
-i	tam	115
 jedna	z	115
-wôrt	je	115
 pò	pôłnim	115
+na	nim	115
 to	jest	115
-w	òkòlim	114
+i	tam	114
 na	ti	114
+wôrt	je	114
 na	rzecz	114
 znajduje	się	113
+w	òkòlim	113
 w	jaczich	113
 w	bëtowie	113
 tym	roku	113
@@ -335,23 +337,23 @@ co	na	112
 są	to	112
 kùlturë	i	112
 je	wiele	112
-w	mùzeùm	112
 w	chtërnym	111
 a	terô	111
 w	swòji	111
 sã	to	111
-tak	sã	111
+w	mùzeùm	111
 jaczé	są	110
 jak	òn	110
 i	sã	110
+tak	sã	110
 nié	leno	110
 jô	cë	109
-a	ten	109
 do	ni	109
 ë	tak	109
 co	bë	109
 i	za	108
 jô	sę	108
+a	ten	108
 do	nas	108
 w	rokù	108
 më	jesmë	108
@@ -360,7 +362,6 @@ po	raz	107
 je	mòżno	106
 jem	sę	106
 wiele	lat	106
-i	jegò	106
 ale	w	106
 nic	nie	106
 téż	z	105
@@ -369,35 +370,36 @@ ale	jak	105
 dlô	nich	105
 ju	je	105
 na	nen	105
-sę	na	104
-z	jegò	104
 tak	to	104
+i	jegò	104
 sã	pò	104
-jakô	je	103
+sę	na	103
+z	jegò	103
 z	leżnoscë	103
 na	binie	103
 roku	w	103
-béł	to	102
+jakô	je	102
 w	brusach	102
 czë	téż	101
 za	baro	101
+béł	to	101
 bë	nie	101
 w	dzélu	100
 baro	wiele	100
 ë	z	100
 ju	na	100
 téż	do	100
-midzë	jinyma	100
 na	tã	100
 w	lese	100
-tegò	nie	100
 òkróm	tegò	99
 jak	téż	99
-dzãka	temù	99
+midzë	jinyma	99
+tegò	nie	99
 i	je	98
 odbędzie	się	98
 a	te	98
 że	z	98
+dzãka	temù	98
 më	mómë	98
 nie	jidze	98
 do	gromadë	97
@@ -408,23 +410,23 @@ w	szkole	97
 adóm	hébel	97
 w	rozmajitëch	96
 jest	w	96
-dwa	lata	96
 wëzwëskanié	w	96
 jem	na	95
-mògą	sã	95
-ju	òd	95
 w	nocë	95
 le	w	95
-a	òn	94
-to	le	94
+dwa	lata	95
+mògą	sã	94
 bò	w	94
 tu	je	94
 na	jaczi	94
+ju	òd	94
 na	pòmòrzim	94
 ò	czim	94
 nie	chce	94
+a	òn	93
 wiele	lëdzy	93
 do	mje	93
+to	le	93
 téż	ò	93
 że	są	93
 co	mô	93
@@ -446,27 +448,27 @@ i	pò	90
 pòd	kùńc	90
 sã	jak	90
 w	gdyni	90
-czë	to	90
 w	szkòłach	90
 z	drëdżi	90
-szkòłë	w	90
-le	na	89
 a	przë	89
 je	jesz	89
 i	jô	89
 we	wsë	89
-dlô	wszëtczich	89
 w	żukòwie	89
 mòże	téż	89
 je	dlô	89
 je	wôrt	89
-ë	nie	89
+czë	to	89
+szkòłë	w	89
 w	czasach	88
 òna	je	88
+le	na	88
 je	òn	88
+dlô	wszëtczich	88
 dwa	razë	88
 żebë	sã	88
 pòmòrsczégò	wòjewództwa	88
+ë	nie	88
 się	nie	88
 w	domu	88
 bo	to	87
@@ -476,32 +478,32 @@ co	jô	87
 a	nawetka	87
 tam	w	87
 że	tak	87
-w	której	87
-na	nie	86
-a	pózni	86
-z	nëch	86
-w	pierszi	86
 to	dało	86
 starã	ò	86
 ju	za	86
 sã	i	86
+w	której	86
 drëdżi	rok	86
 bë	bëło	86
+na	nie	85
+a	pózni	85
 stôł	sã	85
+z	nëch	85
 òb	lato	85
+w	pierszi	85
 w	kòżdim	85
 i	jego	85
 co	mają	85
 midzë	jinszima	85
 nie	bëła	85
 że	sã	85
-v	tim	84
 za	sobą	84
 na	mie	84
-a	òd	84
 z	niegò	84
 nie	wiém	84
+v	tim	83
 i	co	83
+a	òd	83
 w	najim	83
 lat	temù	83
 udział	w	83
@@ -509,42 +511,41 @@ na	początku	82
 lëdzy	z	82
 w	swiece	82
 to	za	82
-ò	nim	82
 dô	sã	82
 sã	mòże	82
 sã	nama	82
 na	gduńsczim	82
 to	nié	82
-w	nëch	82
 sã	jesz	82
 radia	kaszëbë	82
 w	jãzëkù	81
 v	ti	81
 jak	të	81
 na	te	81
+ò	nim	81
 jãzëka	w	81
 i	ò	81
 w	rodny	81
-je	wiedzec	81
 prawie	w	81
 w	naji	81
 rôz	w	81
 mòże	to	81
 z	rodzëznë	80
 z	czasã	80
-blós	w	80
 to	prawie	80
+je	wiedzec	80
 béł	téż	80
 në	i	80
+w	nëch	80
 co	të	79
 a	że	79
 téż	nie	79
+blós	w	79
 cësk	na	79
 kaszëbsczi	kùlturë	79
 tą	razą	79
 ni	mielë	79
 w	tëch	79
-je	dosc	78
 z	tobą	78
 tim	samim	78
 jô	to	78
@@ -553,47 +554,48 @@ më	bë	78
 dlô	nas	78
 ii	swiatowi	78
 na	jich	78
-w	kònkùrsu	78
-to	samò	78
 òni	sã	78
 na	temat	78
+je	dosc	77
 w	jich	77
+w	kònkùrsu	77
 wiédzë	ò	77
 ë	do	77
 to	pò	77
 kaszëbów	i	77
+to	samò	77
 ti	sprawie	77
 ti	co	77
-tak	je	76
 dlô	kaszëbów	76
-dô	téż	76
 të	sã	76
 do	miasta	76
 jô	ni	76
 sã	zacznie	76
 na	drodze	75
-w	miesce	75
+tak	je	75
 dze	je	75
-nie	chcôł	75
 w	tã	75
-je	pò	75
 tegò	rokù	75
-òn	mô	75
 w	piątk	75
 dosc	tëli	75
+dô	téż	75
 na	szczescé	75
 że	ni	75
 w	lãbòrgù	75
 czej	sã	74
 żëcé	i	74
+w	miesce	74
 i	jich	74
 z	tëch	74
 gò	na	74
 w	kòżdi	74
 ale	z	74
+nie	chcôł	74
+je	pò	74
 i	jesz	74
 w	gdini	74
 całi	czas	74
+òn	mô	74
 co	są	74
 tak	w	74
 dodomù	kùlturë	74
@@ -644,7 +646,6 @@ temù	téż	71
 w	których	71
 z	nas	71
 of	the	70
-téż	je	70
 sę	nje	70
 z	czegò	70
 béł	na	70
@@ -657,28 +658,27 @@ na	placu	70
 w	rãce	70
 mdze	téż	70
 jinternetowi	stronie	70
+téż	je	69
 w	to	69
 do	kòscoła	69
 to	i	69
 a	tam	69
 ù	nas	69
 tu	na	69
-ni	mia	69
 z	tym	69
 cëż	to	69
 na	tym	69
 się	po	69
-w	centrum	69
 że	do	69
 we	wdzydzach	69
 nje	beło	68
 ku	reszce	68
 tak	na	68
 w	niebie	68
+ni	mia	68
 sã	ze	68
 to	dlô	68
 to	równak	68
-do	szkòłë	68
 na	naji	68
 gduńsczim	ùniwersytece	68
 wielnô	lëczba	68
@@ -688,6 +688,7 @@ w	karnie	68
 mie	to	68
 sã	stało	68
 z	tą	68
+w	centrum	68
 w	jego	68
 w	eùropie	67
 co	za	67
@@ -696,9 +697,8 @@ z	kaszub	67
 do	pòlsczi	67
 swiatowi	wòjnë	67
 matczi	bòsczi	67
-w	programie	67
 w	dzéń	67
-to	do	67
+do	szkòłë	67
 ë	sã	67
 jô	miôł	67
 le	sã	67
@@ -712,14 +712,13 @@ z	kaszëbsczim	66
 w	kanadze	66
 ë	jegò	66
 a	tu	66
-na	całi	66
+w	programie	66
 jaczis	czas	66
-rôczimë	do	66
+to	do	66
 mają	bëc	66
 tomôsz	fópka	66
 w	głowie	66
 mùzyczi	we	66
-wojny	światowej	66
 dla	dzieci	66
 przëpôdk	pòjedińczô	66
 pòjedińczô	lëczba	66
@@ -735,6 +734,7 @@ z	daleka	65
 muzeum	piśmiennictwa	65
 piśmiennictwa	i	65
 kaszubskiego	w	65
+rôczimë	do	65
 w	kraju	65
 ni	mómë	65
 bëło	na	65
@@ -742,6 +742,7 @@ wedle	mie	65
 nie	chcą	65
 leżnosc	do	65
 pón	bóg	65
+wojny	światowej	65
 we	wejrowsczim	65
 bò	jô	65
 rzekł	do	64
@@ -752,6 +753,7 @@ je	tu	64
 z	ni	64
 o	kaszubach	64
 na	témã	64
+na	całi	64
 w	górã	64
 tak	nie	64
 na	nordze	64
@@ -762,12 +764,9 @@ co	bëło	64
 wiôlgô	wies	64
 sę	i	63
 mje	nje	63
-jô	na	63
 i	ten	63
 i	że	63
 zaczinô	sã	63
-na	nas	63
-ò	kaszëbsczi	63
 kaszëbskò-pòmòrsczé	zrzeszenié	63
 abò	w	63
 òd	lat	63
@@ -788,12 +787,13 @@ nje	je	62
 co	le	62
 że	të	62
 v	gromadze	62
+jô	na	62
 jô	nje	62
 mô	w	62
-pò	wòjnie	62
 jesz	do	62
+na	nas	62
+ò	kaszëbsczi	62
 dëtczi	na	62
-co	dzéń	62
 corôz	barżi	62
 to	baro	62
 ni	mògą	62
@@ -803,10 +803,10 @@ më	ju	62
 tam	téż	62
 mi	się	62
 w	kościele	62
-na	przykład	62
 co	tam	61
 sę	v	61
 z	jich	61
+pò	wòjnie	61
 bëła	w	61
 a	jegò	61
 na	se	61
@@ -814,7 +814,7 @@ abò	téż	61
 dlô	tëch	61
 w	pòłowie	61
 i	ji	61
-òn	w	61
+co	dzéń	61
 kaszëbsczi	lëteraturë	61
 już	nie	61
 sztëk	lëdzy	61
@@ -830,18 +830,20 @@ na	tëch	61
 z	jedny	61
 w	dwùch	61
 tylko	w	61
+na	przykład	61
 w	okresie	61
 a	òsoblëwie	60
 tej	to	60
 tam	na	60
 jaczi	sã	60
 je	ò	60
+na	swój	60
 je	czëc	60
 jãzëka	i	60
 tim	razã	60
 czë	w	60
 w	wielu	60
-jedno	z	60
+òn	w	60
 ò	nich	60
 rodny	mòwë	60
 a	ju	60
@@ -859,7 +861,7 @@ w	nowim	59
 òna	sã	59
 béł	ju	59
 wiele	razy	59
-òdbëło	sã	59
+jedno	z	59
 jem	w	59
 w	ji	59
 tak	wiele	59
@@ -885,6 +887,7 @@ gduńsczégò	ùniwersytetu	58
 pò	nim	58
 i	bez	58
 je	taczi	58
+òdbëło	sã	58
 ju	pò	58
 w	ksążce	58
 ni	mògã	58
@@ -915,7 +918,6 @@ jistno	jak	57
 z	kaszëbsczima	57
 literatury	kaszubskiej	57
 téż	sã	57
-zrzeszoné	z	57
 w	pełni	57
 w	swiat	57
 do	dzys	57
@@ -927,7 +929,6 @@ kòl	nas	56
 z	całi	56
 jô	tam	56
 na	ji	56
-na	jego	56
 w	całi	56
 za	co	56
 ze	swòjima	56
@@ -945,11 +946,13 @@ jô	w	56
 w	naszym	56
 kòżdi	z	56
 w	taczi	56
+zrzeszoné	z	56
 më	chcemë	56
 w	serakòjcach	56
 lat	temu	56
 w	kościerzynie	56
 jesz	przed	55
+na	jego	55
 na	ni	55
 czëc	je	55
 tam	je	55
@@ -962,17 +965,13 @@ w	trzech	55
 jaczi	mô	55
 jesz	na	55
 sã	pòd	55
-do	domu	55
 më	téż	55
 tësący	złotëch	55
-przed	nama	55
 co	më	55
 że	òna	55
 bò	òn	55
-w	pòniedzôłk	55
 na	język	55
 to	bëc	55
-zaczãło	sã	54
 czile	lat	54
 i	szedł	54
 njick	nje	54
@@ -991,6 +990,8 @@ na	łamach	54
 mòże	nalezc	54
 mdze	to	54
 tu	w	54
+do	domu	54
+przed	nama	54
 zarô	pò	54
 a	przede	54
 zaczął	sã	54
@@ -998,8 +999,10 @@ mie	na	54
 terô	w	54
 z	wejrowa	54
 jak	się	54
+w	pòniedzôłk	54
 z	okazji	54
 dzéń	jednotë	54
+zaczãło	sã	53
 i	rzekła	53
 jak	do	53
 jô	z	53
@@ -1015,11 +1018,9 @@ w	kartësczim	53
 bëło	tak	53
 jakô	mô	53
 òni	mają	53
-ùdzélu	w	53
 czej	w	53
 przë	leżnoscë	53
 do	czasu	53
-dlô	kaszëbiznë	53
 odbył	się	53
 naji	antenie	53
 ni	mòglë	53
@@ -1053,12 +1054,13 @@ z	kaszëbsczi	52
 leno	w	52
 w	drëdżim	52
 do	swòjégò	52
+ùdzélu	w	52
+dlô	kaszëbiznë	52
 jedny	z	52
 za	nią	52
 radio	kaszëbë	52
 w	ogóle	52
 sã	dzeje	52
-do	ùdzélu	52
 lëdze	z	52
 w	stanie	52
 to	był	52
@@ -1067,7 +1069,6 @@ urodził	się	52
 w	życiu	52
 do	tej	52
 mają	sã	52
-ii	wojny	52
 scenariusz	na	52
 na	milosc	52
 téż	wiele	51
@@ -1085,7 +1086,6 @@ bez	to	51
 a	może	51
 mieszkô	w	51
 jak	wiele	51
-w	naszim	51
 je	blós	51
 drëdżi	stronë	51
 na	głowie	51
@@ -1095,14 +1095,14 @@ bëła	téż	51
 kultury	i	51
 szkòłów	w	51
 nié	do	51
-zł	na	51
-na	jaczich	51
 je	czësto	51
+do	ùdzélu	51
 nas	na	51
 xix	wieku	51
 względu	na	51
 pùcczi	zemie	51
 kòżdi	rok	51
+ii	wojny	51
 pón	jezës	51
 dzysô	je	50
 całi	rok	50
@@ -1117,6 +1117,7 @@ bëc	w	50
 bò	tak	50
 chto	chce	50
 rokù	na	50
+w	naszim	50
 sã	tim	50
 i	béł	50
 jem	ju	50
@@ -1125,7 +1126,9 @@ lëdzy	i	50
 jana	pawła	50
 w	związku	50
 të	môsz	50
+zł	na	50
 na	kaszëbë	50
+na	jaczich	50
 dało	sã	50
 w	słëpskù	50
 pawła	ii	50
@@ -1137,7 +1140,6 @@ i	dlô	50
 pod	koniec	50
 gôdô	bùrméster	50
 je	trzeba	50
-a	potem	50
 tam	nie	50
 continue	reading	50
 a	ja	50
@@ -1154,7 +1156,6 @@ a	ta	49
 trzeba	bëło	49
 sta	sã	49
 niech	sã	49
-wiédzã	ò	49
 ze	swòjim	49
 le	ò	49
 ju	z	49
@@ -1174,8 +1175,8 @@ jana	trepczika	49
 i	pół	49
 w	niej	49
 co	roku	49
+a	potem	49
 na	kaszëbską	49
-aż	do	49
 mùzeùm	pùcczi	49
 z	pewnością	49
 jednak	nie	49
@@ -1188,17 +1189,15 @@ téż	dlô	48
 tej	sej	48
 zamëkô	w	48
 rodnô	mòwa	48
-zgódno	z	48
 i	më	48
 to	jednak	48
 abò	z	48
 z	wiôldżim	48
+wiédzã	ò	48
 sã	wiele	48
 a	òni	48
 je	równak	48
 ti	zemi	48
-z	lat	48
-dzéń	w	48
 nie	mdã	48
 spòdleczny	szkòłë	48
 w	radiu	48
@@ -1215,6 +1214,7 @@ kaszub	i	48
 w	redze	48
 być	może	48
 tam	z	48
+aż	do	48
 tej	òn	48
 na	starnach	48
 corôz	wicy	47
@@ -1223,22 +1223,24 @@ nji	mogł	47
 jem	so	47
 won	sę	47
 jô	jesz	47
-a	ji	47
 jesz	barżi	47
 i	jinëch	47
 na	taczi	47
 je	wiedno	47
+zgódno	z	47
 do	ce	47
 a	chto	47
 kaszubsko-pomorskiej	w	47
 mdą	mòglë	47
 to	jak	47
 ë	jich	47
+z	lat	47
 są	z	47
 ten	sposób	47
 bëłë	téż	47
 prawò	do	47
 że	za	47
+dzéń	w	47
 się	już	47
 so	w	47
 ten	cél	47
@@ -1249,7 +1251,6 @@ téż	za	47
 jednégò	dnia	47
 te	słowa	47
 òn	ju	47
-sã	przed	47
 jak	so	47
 wejrowsczégò	krézu	47
 między	innymi	47
@@ -1261,6 +1262,7 @@ i	ju	46
 szedł	do	46
 jak	won	46
 a	won	46
+a	ji	46
 są	do	46
 z	jego	46
 tak	téż	46
@@ -1284,14 +1286,13 @@ jaż	tak	46
 za	czim	46
 a	sã	46
 ju	ni	46
-chto	sã	46
 mie	je	46
-tej	sã	46
 nie	wié	46
 zaczãła	sã	46
 sto	lat	46
 wszëtkò	je	46
 to	so	46
+sã	przed	46
 do	dziś	46
 tym	razem	46
 co	mie	46
@@ -1323,6 +1324,8 @@ lat	nazôd	45
 jaczi	w	45
 czej	ju	45
 żebë	to	45
+chto	sã	45
+tej	sã	45
 tim	barżi	45
 na	rok	45
 w	las	45
@@ -1334,7 +1337,6 @@ w	lëni	45
 w	swoim	45
 zjôzd	kaszëbów	45
 mùzeùm	we	45
-na	uniwersytecie	45
 tym	czasie	45
 znajdują	się	45
 z	tej	45
@@ -1381,6 +1383,7 @@ të	nie	44
 ti	lëdze	44
 w	baninie	44
 do	karna	44
+na	uniwersytecie	44
 szkoły	podstawowej	44
 na	nowi	44
 dla	nas	44
@@ -1394,7 +1397,6 @@ so	tak	43
 to	jidze	43
 w	cządze	43
 nich	to	43
-na	wszëtczé	43
 ma	na	43
 bë	chcelë	43
 w	sobie	43
@@ -1413,7 +1415,6 @@ bëło	wiele	43
 króm	tegò	43
 je	dzél	43
 ju	dôwno	43
-co	pò	43
 òd	nich	43
 je	dobrze	43
 czej	më	43
@@ -1450,7 +1451,6 @@ gò	do	42
 dëtków	na	42
 przigòdë	remùsa	42
 i	tu	42
-tej	na	42
 pò	smiercë	42
 przed	wòjną	42
 je	ten	42
@@ -1464,6 +1464,7 @@ przë	ti	42
 kaszubów	i	42
 się	to	42
 jest	na	42
+co	pò	42
 w	ùszłim	42
 i	terô	42
 mòże	jesz	42
@@ -1479,7 +1480,6 @@ wejrowsczé	mùzeùm	42
 roku	na	42
 ë	jesz	42
 nie	był	42
-dnia	jednotë	42
 co	òn	42
 kòl	naju	42
 i	etnicznych	42
@@ -1487,7 +1487,6 @@ to	przińdze	42
 go	w	42
 a	i	41
 wszëtkò	to	41
-mje	v	41
 sę	do	41
 a	jich	41
 całim	swiece	41
@@ -1496,6 +1495,7 @@ ju	tak	41
 jak	v	41
 to	të	41
 bò	je	41
+na	wszëtczé	41
 sã	we	41
 dzeje	sã	41
 kaszëbach	w	41
@@ -1503,6 +1503,7 @@ nie	ùdało	41
 w	pùcczim	41
 pòlsczégò	jãzëka	41
 jaczim	je	41
+tej	na	41
 òna	bëła	41
 w	dzejach	41
 województwa	pomorskiego	41
@@ -1513,7 +1514,6 @@ a	òna	41
 òd	ti	41
 z	jinyma	41
 na	czas	41
-we	wtórk	41
 téż	to	41
 ò	pòmòc	41
 ò	se	41
@@ -1529,12 +1529,12 @@ dalek	òd	41
 do	lasu	41
 w	ny	41
 czë	je	41
-mô	to	41
 i	òd	41
 ti	leżnoscë	41
 jeszcze	w	41
 zgodnie	z	41
 ze	względu	41
+dnia	jednotë	41
 po	niemiecku	41
 pół	mln	41
 w	bólszewie	41
@@ -1544,6 +1544,7 @@ w	chojnicach	41
 pòlsczi	i	40
 ale	won	40
 że	won	40
+mje	v	40
 stała	sã	40
 je	tam	40
 w	chtërnëch	40
@@ -1562,12 +1563,12 @@ trzë	lata	40
 do	wejrowa	40
 z	górë	40
 i	są	40
-prosto	z	40
 w	robòce	40
 mùszi	sã	40
 że	ti	40
 òdbãdze	sã	40
 ni	môsz	40
+we	wtórk	40
 związku	z	40
 do	grëpë	40
 na	radiokaszebe	40
@@ -1575,6 +1576,7 @@ jak	òna	40
 aleksandra	majkòwsczégò	40
 dlô	naju	40
 że	jegò	40
+mô	to	40
 òn	so	40
 od	lat	40
 podobnie	jak	40
@@ -1584,7 +1586,6 @@ mdą	w	40
 w	czwiôrtk	40
 dzys	dnia	40
 a	té	40
-po	wojnie	40
 v	njim	39
 won	mje	39
 przed	tim	39
@@ -1612,11 +1613,10 @@ w	słupsku	39
 stôwô	sã	39
 mùszi	miec	39
 pòmòrsczim	wòjewództwie	39
+prosto	z	39
 na	dzysô	39
 w	sedzbie	39
 nie	mdą	39
-ju	wicy	39
-ë	mùzyczi	39
 na	stole	39
 òd	se	39
 gminie	żukòwò	39
@@ -1625,7 +1625,6 @@ jô	doch	39
 ni	mòżemë	39
 mdze	na	39
 bëło	mòżno	39
-pò	drodze	39
 ò	swòjim	39
 mie	téż	39
 w	swiónowie	39
@@ -1634,13 +1633,12 @@ kònkùrs	na	39
 kòżdégò	dnia	39
 z	drugiej	39
 zapraszamy	do	39
-też	w	39
 stało	się	39
 sã	bëc	39
 zrzeszonëch	z	39
 i	òni	39
 to	się	39
-do	polski	39
+po	wojnie	39
 w	òczë	38
 jô	le	38
 lat	w	38
@@ -1657,7 +1655,6 @@ gwar	kaszubskich	38
 rokù	òn	38
 bëłë	to	38
 na	jednym	38
-tikô	sã	38
 sparłãczonëch	z	38
 dosc	wiele	38
 jich	nie	38
@@ -1669,13 +1666,15 @@ mómë	ju	38
 mòże	je	38
 z	dodomù	38
 je	prawie	38
-pismieniznë	ë	38
+ju	wicy	38
+ë	mùzyczi	38
 w	radio	38
 jeżlë	jidze	38
 jô	ce	38
 chłop	z	38
 sã	jima	38
 nie	rozmieje	38
+pò	drodze	38
 bë	so	38
 òd	stronë	38
 tim	môlu	38
@@ -1688,6 +1687,7 @@ nawetka	w	38
 tym	samym	38
 w	sobotę	38
 który	w	38
+też	w	38
 w	mòji	38
 była	to	38
 ùrzãdu	gardu	38
@@ -1698,6 +1698,7 @@ i	té	38
 dzieci	i	38
 to	była	38
 od	strony	38
+do	polski	38
 przy	tym	38
 z	pòlską	37
 a	wiele	37
@@ -1715,22 +1716,21 @@ na	pòlu	37
 i	kùlturë	37
 w	gromicznikù	37
 z	pòzdrzatkù	37
+tikô	sã	37
 w	kòscérsczim	37
 ùkôzôł	sã	37
 na	nym	37
 do	ùczbë	37
 ë	jak	37
-mają	ju	37
-mùzyczi	w	37
 gadac	pò	37
 i	ni	37
 dali	w	37
 baro	sã	37
 rokù	i	37
-chto	mô	37
 ë	pò	37
 òn	tak	37
 doszło	do	37
+pismieniznë	ë	37
 tim	wszëtczim	37
 w	tych	37
 mie	do	37
@@ -1743,7 +1743,6 @@ jes	të	37
 w	mediach	37
 sã	ùczëc	37
 jak	gôdô	37
-przez	lata	37
 òd	te	37
 je	ta	37
 dzysô	w	37
@@ -1762,7 +1761,6 @@ przez	nich	37
 sã	mdze	37
 w	kòsôkòwie	37
 das	ist	37
-na	wsë	36
 blós	dlô	36
 z	tich	36
 rzekł	jem	36
@@ -1790,9 +1788,12 @@ w	ceńtrum	36
 w	bytowie	36
 pisac	pò	36
 nié	w	36
+mają	ju	36
 nalezc	w	36
+mùzyczi	w	36
 ni	mògła	36
 tym	miejscu	36
+chto	mô	36
 a	cëż	36
 z	trzech	36
 z	kaszëbizną	36
@@ -1802,6 +1803,7 @@ jidze	do	36
 nawetka	nie	36
 cëż	të	36
 ò	swòji	36
+przez	lata	36
 ju	bëło	36
 téż	tak	36
 do	czegò	36
@@ -1821,6 +1823,7 @@ nie	do	36
 a	móże	36
 bëlnégò	czëtaniô	36
 nie	była	36
+na	wsë	35
 z	njim	35
 krol	jezora	35
 że	jesz	35
@@ -1887,7 +1890,6 @@ ani	nie	35
 sã	tikô	35
 to	sygnie	35
 tak	letkò	35
-w	wejrowsczim	35
 za	pół	35
 w	chëczë	35
 co	òni	35
@@ -1913,6 +1915,7 @@ co	mù	34
 mô	do	34
 ze	szkòłë	34
 na	zakùńczenié	34
+tam	do	34
 z	taką	34
 le	za	34
 kartësczim	krézu	34
@@ -1951,6 +1954,7 @@ w	stronę	34
 w	gòdzënach	34
 nie	tak	34
 ma	być	34
+w	wejrowsczim	34
 język	polski	34
 nie	będzie	34
 jest	też	34
@@ -1959,7 +1963,6 @@ się	za	34
 na	svjece	33
 że	bez	33
 je	nen	33
-przed	nim	33
 i	mdze	33
 że	i	33
 z	wielu	33
@@ -1971,7 +1974,6 @@ lëdzy	na	33
 do	zladënkù	33
 baro	wôżné	33
 jak	no	33
-czas	i	33
 pò	drëdżi	33
 a	ni	33
 z	czasów	33
@@ -1981,7 +1983,6 @@ chto	to	33
 jakô	sã	33
 je	kòl	33
 pò	skùńczenim	33
-tam	do	33
 sã	blós	33
 przez	co	33
 wiedno	w	33
@@ -1998,10 +1999,8 @@ z	różnych	33
 ti	wsë	33
 tak	co	33
 ju	rëchli	33
-w	stãżëcë	33
 w	internecie	33
 sã	co	33
-na	kòle	33
 miôł	jem	33
 ze	stronë	33
 trzë	razë	33
@@ -2022,7 +2021,6 @@ dariusz	majkòwsczi	33
 pòtkanié	z	33
 w	miszewie	33
 sobòtã	w	33
-do	òbezdrzeniô	33
 na	celu	33
 òn	na	33
 jô	sóm	33
@@ -2039,6 +2037,7 @@ tak	do	32
 i	ze	32
 ale	co	32
 v	woczë	32
+przed	nim	32
 rokù	do	32
 lat	i	32
 pòjôwiô	sã	32
@@ -2048,6 +2047,7 @@ jesz	jeden	32
 w	lëpińcu	32
 më	mòżemë	32
 jan	paweł	32
+czas	i	32
 tam	gdze	32
 taczé	jak	32
 ani	w	32
@@ -2080,8 +2080,10 @@ do	głowë	32
 tak	chùtkò	32
 na	widnikù	32
 z	języka	32
+w	stãżëcë	32
 kò	jô	32
 za	régą	32
+na	kòle	32
 wiele	czasu	32
 je	corôz	32
 tim	je	32
@@ -2110,6 +2112,7 @@ tam	bëło	32
 w	ostatnich	32
 już	po	32
 w	slédnëch	32
+do	òbezdrzeniô	32
 spòdlëczny	szkòle	32
 òni	tam	32
 się	ze	32
@@ -2205,7 +2208,6 @@ jô	szedł	30
 nje	beł	30
 wob	ten	30
 mje	na	30
-na	rozmajité	30
 na	woczë	30
 ale	ten	30
 wiele	je	30
@@ -2257,7 +2259,6 @@ jest	bardzo	30
 co	się	30
 gôdka	ò	30
 w	môłim	30
-mój	tatk	30
 robòta	przë	30
 gminie	wejrowò	30
 w	òstatnëch	30
@@ -2285,7 +2286,6 @@ wójta	gminë	30
 i	jeszcze	30
 òni	są	30
 je	doch	30
-jesmë	w	30
 lëdzy	co	30
 kultury	kaszubskiej	30
 té	òn	30
@@ -2294,9 +2294,7 @@ w	żukowie	30
 gardowi	samòrząd	30
 méster	bëlnégò	30
 co	najmniej	30
-w	drugiej	30
 na	mnie	30
-całëch	kaszëbach	30
 miejsce	w	30
 tego	typu	30
 dla	nich	30
@@ -2312,6 +2310,7 @@ bo	jô	29
 v	głovje	29
 xix	wiekù	29
 w	môlu	29
+na	rozmajité	29
 z	wszëtczich	29
 robòtë	przë	29
 sã	wkół	29
@@ -2353,6 +2352,7 @@ tegò	je	29
 w	miono	29
 i	innych	29
 to	jegò	29
+mój	tatk	29
 z	lëdzama	29
 na	zberkù	29
 a	wszëtkò	29
@@ -2363,7 +2363,6 @@ mdze	miôł	29
 prôwdze	to	29
 jak	wëzdrzi	29
 kaszëbskù	i	29
-bò	sã	29
 to	jima	29
 tak	so	29
 wszëtkò	sã	29
@@ -2373,7 +2372,6 @@ sã	tej	29
 zdôwô	sã	29
 nen	ôrt	29
 tam	dze	29
-òn	z	29
 jaczé	w	29
 z	najim	29
 i	nôrodny	29
@@ -2394,7 +2392,6 @@ jaczi	nie	29
 w	mieście	29
 przez	karno	29
 nie	z	29
-a	następnie	29
 to	mógł	29
 na	świecie	29
 języka	i	29
@@ -2403,9 +2400,8 @@ kaszëbach	i	29
 się	języka	29
 że	mie	29
 më	mdzemë	29
-sã	mô	29
+jesmë	w	29
 rôczi	na	29
-w	bòjanie	29
 nie	wiedzą	29
 się	nad	29
 nich	nie	29
@@ -2413,6 +2409,8 @@ pò	kaszëbach	29
 ii	wojnie	29
 to	że	29
 w	pobliżu	29
+w	drugiej	29
+całëch	kaszëbach	29
 sã	jich	29
 dlô	rozwiju	28
 szedł	na	28
@@ -2478,6 +2476,7 @@ bò	më	28
 jakbë	sã	28
 jak	chto	28
 ò	wiele	28
+bò	sã	28
 mòże	nie	28
 òni	mdą	28
 bò	ni	28
@@ -2487,6 +2486,7 @@ kaszëbów	na	28
 czej	je	28
 nie	mógł	28
 całi	pòlsczi	28
+òn	z	28
 naji	szkòle	28
 w	naszich	28
 szlë	na	28
@@ -2513,12 +2513,14 @@ na	adresã	28
 maja	w	28
 ze	strony	28
 się	przez	28
+sã	mô	28
 za	jegò	28
 w	nôblëższi	28
 w	katowicach	28
 bò	òna	28
 cos	do	28
 w	tich	28
+w	bòjanie	28
 się	językiem	28
 w	jej	28
 żebë	so	28
@@ -2530,6 +2532,7 @@ przë	nim	28
 w	swoich	28
 pojawił	się	28
 w	dużej	28
+a	następnie	28
 które	w	28
 radzëzna	kaszëbsczégò	28
 do	gdańska	28
@@ -2592,7 +2595,6 @@ na	górze	27
 pòd	tim	27
 jãzëk	kaszëbsczi	27
 sã	tedë	27
-na	zéńdzenim	27
 jakno	pierszi	27
 na	tej	27
 w	luzinie	27
@@ -2674,7 +2676,6 @@ w	górze	27
 o	mniejszościach	27
 nie	może	27
 w	wieku	27
-we	wrześniu	27
 sobie	z	27
 mieści	się	27
 można	się	27
@@ -2742,6 +2743,7 @@ za	greńcą	26
 zaczãłë	sã	26
 wôżné	dlô	26
 je	we	26
+na	zéńdzenim	26
 kaszubskiego	i	26
 co	jã	26
 przëszedł	czas	26
@@ -2774,11 +2776,9 @@ trzech	królów	26
 w	teksce	26
 chòc	to	26
 w	rok	26
-to	bez	26
 tak	mie	26
 i	zarô	26
 nym	czasu	26
-nim	w	26
 w	strëmiannikù	26
 bë	w	26
 latos	w	26
@@ -2789,10 +2789,8 @@ z	jednej	26
 z	mòrzã	26
 nad	nim	26
 gôdelë	ò	26
-uniwersytecie	gdańskim	26
 informacji	o	26
 wniosczi	ò	26
-czytaj	dalej	26
 z	eùrodëtków	26
 jednak	w	26
 o	nim	26
@@ -2822,12 +2820,12 @@ w	całości	26
 do	kościoła	26
 bëła	takô	26
 nauki	języka	26
-w	książce	26
 kilka	lat	26
 dzień	jedności	26
 jana	rompskiego	26
 w	pracy	26
 co	wa	26
+we	wrześniu	26
 tej	pory	26
 më	szlë	26
 to	miejsce	26
@@ -2839,7 +2837,6 @@ ve	mje	25
 że	mje	25
 że	v	25
 sę	tak	25
-za	njim	25
 jô	czuł	25
 v	moji	25
 w	slédnym	25
@@ -2871,7 +2868,6 @@ na	żëcé	25
 cos	z	25
 ùkôza	sã	25
 do	jaczich	25
-we	francji	25
 do	jaczégò	25
 célã	je	25
 to	jedna	25
@@ -2884,7 +2880,6 @@ co	bëlë	25
 pater	noster	25
 na	jedny	25
 a	jeden	25
-bo	jak	25
 téż	bëc	25
 pò	dwùch	25
 za	czasów	25
@@ -2910,7 +2905,6 @@ pò	wsë	25
 bë	gò	25
 to	the	25
 i	mòże	25
-do	kùpieniô	25
 w	òczach	25
 równak	je	25
 sã	tikają	25
@@ -2938,22 +2932,23 @@ słowa	w	25
 w	wëkònanim	25
 sã	nié	25
 centrum	kùlturë	25
+to	bez	25
 nick	sã	25
 nie	dôwô	25
 na	sztót	25
+nim	w	25
 na	rozmajitëch	25
 jednym	placu	25
-w	niemcach	25
 zajimają	sã	25
 do	którego	25
 wiôldżim	dzélu	25
-do	siebie	25
 z	kaszubską	25
 tylko	na	25
 za	sztërk	25
 w	innych	25
 gminë	w	25
 ù	naju	25
+uniwersytecie	gdańskim	25
 jest	już	25
 się	tak	25
 żebë	jich	25
@@ -2966,7 +2961,6 @@ jak	sto	25
 bãdze	to	25
 pò	co	25
 cos	sã	25
-ze	wszëtczich	25
 w	okolicach	25
 kaszëbsczi	edukacje	25
 radzëznë	kaszëbsczégò	25
@@ -2980,6 +2974,7 @@ w	imieniu	25
 tego	nie	25
 ë	tam	25
 dla	osób	25
+w	książce	25
 jak	gò	25
 jeszcze	nie	25
 pracy	w	25
@@ -2991,6 +2986,7 @@ nje	vjidzoł	24
 a	nje	24
 to	cë	24
 leżi	na	24
+za	njim	24
 na	njego	24
 njicht	nje	24
 na	tich	24
@@ -3017,8 +3013,9 @@ na	terenach	24
 są	też	24
 gdze	sã	24
 wiôldżi	cësk	24
+we	francji	24
 òsoblëwie	na	24
-w	krakòwie	24
+bo	jak	24
 prosto	do	24
 w	dole	24
 ù	górë	24
@@ -3052,10 +3049,9 @@ do	mùzeùm	24
 z	czim	24
 mogą	być	24
 w	ògrodze	24
-téż	są	24
 pòjawiłë	sã	24
+do	kùpieniô	24
 bëc	z	24
-zó	to	24
 pòd	adresą	24
 slédnym	czasã	24
 tej	mòże	24
@@ -3091,9 +3087,11 @@ w	nas	24
 kaszëb	w	24
 swòjégò	jãzëka	24
 òn	ni	24
+w	niemcach	24
 bë	miałë	24
 rôd	z	24
 aleksander	majkowski	24
+do	siebie	24
 dobrze	sã	24
 przy	okazji	24
 ale	przede	24
@@ -3104,7 +3102,6 @@ sã	zaczinô	24
 terô	nie	24
 w	samym	24
 a	więc	24
-to	bardzo	24
 szkoły	w	24
 dopiero	w	24
 przez	ks	24
@@ -3113,15 +3110,14 @@ dzień	dobry	24
 je	bez	24
 wejrowie	i	24
 wieczór	w	24
-przë	sztrasë	24
 je	nama	24
 i	pomorza	24
 mje	sã	24
 dérowôł	do	24
 òd	pòniedzôłkù	24
 se	i	24
+ze	wszëtczich	24
 mô	pòwstac	24
-gminë	szëmôłd	24
 floriana	cenôwë	24
 na	stronã	24
 terô	më	24
@@ -3191,6 +3187,7 @@ kòżdégò	rokù	23
 je	kaszëbsczi	23
 òdbiwô	sã	23
 z	bùdżetu	23
+w	krakòwie	23
 co	tak	23
 a	przed	23
 jô	mògã	23
@@ -3220,11 +3217,11 @@ w	postaci	23
 bëłë	òne	23
 warkòwnie	dlô	23
 na	wszëtkò	23
+téż	są	23
 gôdôł	na	23
 pòjawił	sã	23
 jezësa	christusa	23
 nie	gôdôł	23
-gôdómë	ò	23
 chcôł	jem	23
 a	jeżlë	23
 bë	ju	23
@@ -3232,14 +3229,12 @@ gôdają	pò	23
 kaszëbsczégò	w	23
 më	jesz	23
 dôł	sã	23
-lata	temù	23
 że	czej	23
 z	rena	23
 do	bëtowa	23
 jô	je	23
 z	kanadë	23
 i	razã	23
-do	sebie	23
 sã	terô	23
 mie	tu	23
 sã	dlô	23
@@ -3274,13 +3269,17 @@ dôwô	nama	23
 wiadłów	ò	23
 kùńc	kùńców	23
 w	formie	23
+to	bardzo	23
 tego	roku	23
 radzëznë	gardu	23
 na	akòrdionie	23
 kaszëbów	we	23
+przë	sztrasë	23
+czytaj	dalej	23
 bibloteczi	w	23
 w	wersji	23
 na	kaszubski	23
+zrzesz	kaszëbskô	23
 z	tëłu	23
 pòd	zéwiszczã	23
 òne	mdą	23
@@ -3292,6 +3291,7 @@ jak	ù	23
 wa	jesta	23
 za	zgłoszeniama	23
 dzecy	i	23
+gminë	szëmôłd	23
 z	całëch	23
 całëch	kaszëb	23
 to	ta	23
@@ -3304,7 +3304,6 @@ sã	mògą	23
 sã	wama	23
 na	planie	23
 na	łące	23
-kùlturowi	spôdkòwiznë	23
 w	województwie	23
 òn	tam	23
 gòdnika	w	23
@@ -3318,7 +3317,6 @@ się	przed	23
 ustawy	o	23
 dzięki	temu	23
 jegò	białka	23
-pieśni	i	23
 mimo	to	23
 i	on	23
 oraz	o	23
@@ -3335,7 +3333,6 @@ jem	sobje	22
 zaczął	jem	22
 le	że	22
 do	lipna	22
-co	v	22
 ku	mje	22
 jesz	roz	22
 krom	tego	22
@@ -3379,7 +3376,6 @@ całi	swiat	22
 rôz	do	22
 bëła	dlô	22
 co	jinégò	22
-pózni	w	22
 w	strzépczu	22
 ò	panu	22
 i	rozwiju	22
@@ -3408,7 +3404,6 @@ wôżnô	je	22
 jãzëka	kaszëbsczégò	22
 jak	kòżdi	22
 w	baro	22
-wszystko	to	22
 właśnie	w	22
 coraz	więcej	22
 nié	wszëtcë	22
@@ -3423,10 +3418,12 @@ mòże	gò	22
 w	krómach	22
 w	krómie	22
 to	òna	22
+gôdómë	ò	22
 co	jem	22
 ze	swòjich	22
 drãgò	je	22
 i	nick	22
+lata	temù	22
 to	bëlo	22
 do	mòji	22
 ten	ôrt	22
@@ -3438,6 +3435,7 @@ gminë	żukòwò	22
 ju	mòże	22
 trzeba	sã	22
 ten	sóm	22
+do	sebie	22
 doszlë	do	22
 nikòmù	nie	22
 mdze	ju	22
@@ -3455,7 +3453,6 @@ jem	gò	22
 pana	jezësa	22
 nalazło	sã	22
 tak	z	22
-na	jeden	22
 robi	w	22
 w	tczewie	22
 wrócëc	do	22
@@ -3467,13 +3464,11 @@ dzieje	się	22
 kaszëbsczégò	wësziwkù	22
 bëc	tak	22
 nie	òstôł	22
-przez	cały	22
 w	swojej	22
 na	lëstã	22
 òni	chcą	22
 sã	zacza	22
 karna	sztudérów	22
-òni	rôczą	22
 sã	zaczãło	22
 strzédnëch	szkòłów	22
 to	nama	22
@@ -3509,6 +3504,7 @@ bò	òni	22
 z	jaczim	22
 òni	so	22
 szansa	na	22
+kùlturowi	spôdkòwiznë	22
 szkół	w	22
 spitôł	sã	22
 i	so	22
@@ -3520,15 +3516,14 @@ z	powiatu	22
 słowa	i	22
 łączbë	z	22
 ten	rok	22
-na	swòjich	22
 w	lęborku	22
 ze	strachù	22
 czej	òn	22
 bo	nie	22
 i	bardzo	22
 się	przy	22
+pieśni	i	22
 w	kierunku	22
-z	którego	22
 w	sposób	22
 wpływ	na	22
 na	których	22
@@ -3543,6 +3538,7 @@ wedle	niegò	21
 w	rozwiju	21
 na	njich	21
 jô	zaczął	21
+co	v	21
 że	ji	21
 do	sebje	21
 bo	tak	21
@@ -3576,6 +3572,7 @@ wrócył	do	21
 czedë	to	21
 w	sopòce	21
 na	brzegu	21
+pózni	w	21
 w	jãzëkach	21
 jegò	miono	21
 w	tekstach	21
@@ -3608,6 +3605,7 @@ są	ti	21
 kaszubsko-pomorskiego	w	21
 te	nie	21
 że	prawie	21
+wszystko	to	21
 się	tym	21
 mają	do	21
 mòże	za	21
@@ -3659,6 +3657,7 @@ te	czasu	21
 czej	to	21
 kąsk	wicy	21
 temù	më	21
+na	jeden	21
 za	pòzdze	21
 ò	historii	21
 na	òstatkù	21
@@ -3674,6 +3673,7 @@ wśród	nich	21
 krótczim	czasu	21
 tegò	karna	21
 dobri	dzéń	21
+przez	cały	21
 i	inne	21
 tym	mieście	21
 na	szczęście	21
@@ -3682,6 +3682,7 @@ trzy	lata	21
 ana	cupa-dzemińskô	21
 młodych	ludzi	21
 tej	okazji	21
+òni	rôczą	21
 do	młodëch	21
 który	jest	21
 bùtenrządowé	òrganizacje	21
@@ -3721,8 +3722,6 @@ z	różnëch	21
 mie	pò	21
 w	wòdã	21
 mszô	swiãtô	21
-në	a	21
-znalazły	się	21
 té	to	21
 tak	òni	21
 mògą	dostac	21
@@ -3737,6 +3736,7 @@ wa	sã	21
 w	wyniku	21
 haftu	kaszubskiego	21
 się	pod	21
+na	swòjich	21
 wiedzy	o	21
 gminë	kòscérzna	21
 zmianów	w	21
@@ -3749,6 +3749,7 @@ wielu	z	21
 mniejszościach	narodowych	21
 nad	jeziorem	21
 o	historii	21
+z	którego	21
 z	życia	21
 do	tych	21
 w	sëlëczënie	21
@@ -3771,7 +3772,6 @@ przez	całą	20
 vjidzoł	jem	20
 woczë	i	20
 të	co	20
-sę	tero	20
 to	dobrze	20
 to	ten	20
 mają	wiele	20
@@ -3820,7 +3820,6 @@ na	wszëtczich	20
 żebë	miec	20
 mieszkôł	w	20
 jana	drzéżdżóna	20
-z	gduńska	20
 chtos	z	20
 mdzemë	mielë	20
 je	ôrt	20
@@ -3835,7 +3834,6 @@ w	placu	20
 nim	je	20
 je	m	20
 że	jeden	20
-na	jezoro	20
 przed	tobą	20
 european	free	20
 free	alliance	20
@@ -3861,10 +3859,8 @@ czë	mòże	20
 bò	mie	20
 rzec	ò	20
 w	biôtce	20
-mia	bëc	20
 ò	wszëtczim	20
 na	platce	20
-nowi	wersëji	20
 nie	rzekł	20
 ò	nym	20
 òd	rena	20
@@ -3905,7 +3901,6 @@ danuta	stenka	20
 nie	zrobił	20
 z	kòżdim	20
 na	ùczbach	20
-w	bibliotece	20
 mòże	przeczëtac	20
 w	nôblëższim	20
 w	kùchni	20
@@ -3915,7 +3910,6 @@ mògło	bëc	20
 wëdôwô	sã	20
 a	nawetkã	20
 pôrã	dniów	20
-kaszëbi	z	20
 ni	mòżna	20
 jima	sã	20
 le	dlô	20
@@ -3925,7 +3919,6 @@ ma	sã	20
 ale	òd	20
 w	nórce	20
 pôrã	dni	20
-wòjnie	swiatowi	20
 mimo	że	20
 dze	na	20
 szkòłów	i	20
@@ -3963,7 +3956,6 @@ kartuzach	òni	20
 lëdzy	sã	20
 grégór	gòłuńsczi	20
 mieszkają	w	20
-na	jinwesticje	20
 stëcznika	w	20
 pòrénkòwi	aùdicje	20
 z	rëmi	20
@@ -3974,7 +3966,6 @@ jidze	z	20
 za	pomocą	20
 jeden	òd	20
 jak	bë	20
-wejrowsczim	krézu	20
 kùltura	placu	20
 we	mie	20
 bënowëch	sprawów	20
@@ -3984,7 +3975,9 @@ co	rokù	20
 no	ale	20
 serca	i	20
 rzekł	tatk	20
+në	a	20
 lëdzy	ë	20
+znalazły	się	20
 za	cél	20
 mają	swòje	20
 ò	nas	20
@@ -3992,9 +3985,7 @@ zmarł	w	20
 można	w	20
 łżëkwiata	w	20
 życia	i	20
-pan	bóg	20
 we	władysławowie	20
-centrum	miasta	20
 je	jaż	20
 oddział	zrzeszenia	20
 na	lata	20
@@ -4021,7 +4012,6 @@ nauczania	języka	20
 na	koniec	20
 że	przed	20
 i	tańca	20
-całi	głos	20
 abò	ò	20
 na	przełomie	20
 on	był	20
@@ -4045,12 +4035,12 @@ z	kraju	19
 nje	vjem	19
 v	chternim	19
 przë	stole	19
+sę	tero	19
 do	njego	19
 nie	znaje	19
 żëje	w	19
 dzãka	niemù	19
 go	z	19
-go	do	19
 na	drogach	19
 v	las	19
 bo	won	19
@@ -4093,11 +4083,10 @@ nié	z	19
 prawie	ò	19
 lëteraturë	i	19
 rokù	to	19
-wicy	jakno	19
 òd	kùńca	19
 je	wôżny	19
 miało	to	19
-na	bòjiszczu	19
+z	gduńska	19
 w	telewizji	19
 je	richtich	19
 le	rôz	19
@@ -4110,6 +4099,7 @@ jaczich	je	19
 ii	w	19
 òstôł	w	19
 je	v	19
+na	jezoro	19
 do	naszégò	19
 tima	co	19
 z	wòdą	19
@@ -4135,9 +4125,11 @@ czile	òdjimków	19
 młodëch	ùtwórców	19
 tak	tedë	19
 dzecy	z	19
+mia	bëc	19
 jana	trepczyka	19
 mëslą	ò	19
 czëc	w	19
+nowi	wersëji	19
 ju	ò	19
 a	kòżdi	19
 mój	òjc	19
@@ -4183,6 +4175,7 @@ jak	dzysô	19
 na	zéńdzenié	19
 mają	swój	19
 z	historią	19
+w	bibliotece	19
 lëst	do	19
 a	ze	19
 dochôdô	do	19
@@ -4193,6 +4186,7 @@ tam	sam	19
 cos	wicy	19
 ò	nëch	19
 ù	niegò	19
+kaszëbi	z	19
 më	doch	19
 jesmë	na	19
 w	hélu	19
@@ -4210,6 +4204,7 @@ to	przëszło	19
 le	pò	19
 na	miã	19
 zachęcamy	do	19
+wòjnie	swiatowi	19
 w	môłi	19
 czy	to	19
 razy	w	19
@@ -4222,7 +4217,6 @@ społeczności	kaszubskiej	19
 czy	w	19
 i	dziś	19
 by	nie	19
-nie	miał	19
 znalazł	się	19
 to	ja	19
 mògą	składac	19
@@ -4247,6 +4241,7 @@ stowôrë	kaszëbskô	19
 riszôrd	kalkòwsczi	19
 kònkùrs	dlô	19
 dzéń	kaszëbë	19
+na	jinwesticje	19
 më	dostelë	19
 z	naszej	19
 z	naszi	19
@@ -4255,6 +4250,7 @@ wniosków	ò	19
 ti	rôz	19
 hana	pruchniewskô	19
 nazôd	w	19
+wejrowsczim	krézu	19
 stara	ò	19
 dôwô	do	19
 ùgôdënk	z	19
@@ -4265,7 +4261,6 @@ na	zakończenie	19
 pùsti	nocë	19
 nas	nie	19
 jak	mdze	19
-a	we	19
 ju	wiele	19
 nie	rozmiôł	19
 në	ë	19
@@ -4278,9 +4273,10 @@ tuwò	na	19
 mdze	dérowa	19
 było	na	19
 spòdlëcznëch	szkòłów	19
-z	terenu	19
+pan	bóg	19
 w	zëmie	19
 i	ja	19
+centrum	miasta	19
 jic	w	19
 pod	hasłem	19
 na	kùpienié	19
@@ -4299,6 +4295,7 @@ pół	roku	19
 nie	da	19
 ostatnich	latach	19
 w	gminach	19
+całi	głos	19
 to	gò	19
 odbywały	się	19
 państwa	polskiego	19
@@ -4332,12 +4329,12 @@ jô	cę	18
 co	ti	18
 pod	lasem	18
 z	dołu	18
-robòtë	nad	18
 bëłë	ju	18
 ë	kaszëbsczi	18
 bëłë	na	18
 bo	na	18
 że	co	18
+go	do	18
 ju	dzysô	18
 szedł	jem	18
 nji	mogę	18
@@ -4384,6 +4381,7 @@ czile	słów	18
 kaszëbi	to	18
 ale	są	18
 òd	pôłnia	18
+wicy	jakno	18
 drodżi	do	18
 i	etnicznëch	18
 w	sprawach	18
@@ -4395,15 +4393,14 @@ a	dzys	18
 na	krziżu	18
 co	ji	18
 do	lasa	18
+na	bòjiszczu	18
 jeżlë	sã	18
 do	terô	18
-òdpòwiedzec	na	18
 pòmôgô	w	18
 téż	jiné	18
 w	nie	18
 dzysô	na	18
 ma	widzec	18
-a	béł	18
 òb	nen	18
 jak	tak	18
 do	nowégò	18
@@ -4491,7 +4488,6 @@ bëc	jesz	18
 partu	kaszëbskò-pòmòrsczégò	18
 w	dzemiónach	18
 w	jednã	18
-niech	to	18
 sã	doznac	18
 swòji	robòtë	18
 na	pëtania	18
@@ -4516,6 +4512,7 @@ czile	razy	18
 direchtór	mùzeùm	18
 przez	wieki	18
 do	lektury	18
+nie	miał	18
 z	sobą	18
 karna	z	18
 dérowac	do	18
@@ -4524,7 +4521,6 @@ sã	skùńczëc	18
 w	poznaniu	18
 józefa	chełmòwsczégò	18
 do	kònkùrsu	18
-na	sztrąd	18
 jaczé	më	18
 gminë	kòsôkòwò	18
 wiatr	od	18
@@ -4568,6 +4564,7 @@ pòd	òkã	18
 ò	gòdzënie	18
 w	ùczbie	18
 za	robòtã	18
+a	we	18
 w	latosy	18
 cały	czas	18
 a	czéj	18
@@ -4591,6 +4588,7 @@ niech	so	18
 jich	z	18
 żebë	të	18
 w	sianowie	18
+z	terenu	18
 kaszëbsczich	filmów	18
 tam	mdze	18
 kaszubi	z	18
@@ -4598,7 +4596,6 @@ xix	stalata	18
 do	kanadë	18
 z	zakresu	18
 drëdżi	dzél	18
-w	ca	18
 wëjimczi	z	18
 w	kaszubskim	18
 tym	bardziej	18
@@ -4658,6 +4655,7 @@ ale	tu	17
 całą	noc	17
 w	karnach	17
 pòd	cëskã	17
+robòtë	nad	17
 w	szczecënie	17
 przëszło	do	17
 to	won	17
@@ -4708,11 +4706,13 @@ je	tej	17
 dzejô	w	17
 w	usa	17
 z	chtërnégò	17
+òdpòwiedzec	na	17
 na	zewnątrz	17
 ten	spòsób	17
 w	stôrim	17
 tu	béł	17
 gôdôł	w	17
+a	béł	17
 ë	dali	17
 w	wikszim	17
 abò	za	17
@@ -4740,6 +4740,7 @@ mielë	më	17
 diskùsje	ò	17
 sã	rôz	17
 co	ò	17
+ùtwórców	kaszëbsczich	17
 prawa	i	17
 aùdicje	na	17
 ksążka	je	17
@@ -4772,7 +4773,6 @@ z	mòją	17
 sã	zmieniło	17
 je	leno	17
 z	chòniców	17
-na	lepszé	17
 to	lëdze	17
 taczi	je	17
 ale	ò	17
@@ -4804,6 +4804,7 @@ terô	sã	17
 w	mòwie	17
 sã	kùńczi	17
 téż	ze	17
+niech	to	17
 bë	tak	17
 z	drëchama	17
 tej	za	17
@@ -4811,6 +4812,7 @@ drëdżégò	człowieka	17
 tuwò	nie	17
 gôdómë	z	17
 na	gduńsczi	17
+sã	pôli	17
 dziennik	bałtycki	17
 i	szlë	17
 mielë	téż	17
@@ -4836,7 +4838,6 @@ na	adres	17
 le	co	17
 jest	tak	17
 wspólnie	z	17
-w	kilku	17
 w	ùszłëch	17
 le	ten	17
 jegò	smiercë	17
@@ -4859,6 +4860,7 @@ tylko	do	17
 ùniwersytece	w	17
 rôczą	na	17
 w	spòdlëczny	17
+na	sztrąd	17
 pięć	lat	17
 kaszubski	jest	17
 punktu	widzenia	17
@@ -4906,7 +4908,6 @@ gmina	kartuzë	17
 móm	sã	17
 z	całego	17
 òdbiwają	sã	17
-miesãcznika	pòmeraniô	17
 za	jeden	17
 jak	kania	17
 do	pòdzeleniô	17
@@ -4928,7 +4929,6 @@ tak	ten	17
 na	kartach	17
 czile	dniów	17
 powiatu	wejherowskiego	17
-je	nowi	17
 rëmi	òni	17
 pòsłëchac	na	17
 ò	robòce	17
@@ -4969,11 +4969,8 @@ do	cebie	17
 i	niech	17
 w	zakresie	17
 bardzo	dobrze	17
-która	w	17
 matki	boskiej	17
 dobry	kaszuby	17
-przez	nie	17
-drugiej	połowie	17
 podstawowej	w	17
 und	das	17
 ò	jãzëkù	16
@@ -5064,12 +5061,10 @@ to	òd	16
 bëła	z	16
 panu	czôrlińsczim	16
 bùdżetu	państwa	16
-na	òbéńdze	16
 chtërny	je	16
 i	rozwij	16
 téż	jich	16
 są	we	16
-wikimedia	polska	16
 równak	téż	16
 piesni	i	16
 tam	tak	16
@@ -5116,7 +5111,6 @@ na	mòrzu	16
 sã	czësto	16
 ni	miałë	16
 w	duchu	16
-je	jedno	16
 do	ùzdrzeniô	16
 co	i	16
 jãzëka	na	16
@@ -5160,6 +5154,7 @@ to	ò	16
 ë	jiné	16
 sã	wëdôwô	16
 i	kaszëbsczim	16
+na	lepszé	16
 òkróm	te	16
 sã	czegòs	16
 nama	ò	16
@@ -5190,7 +5185,6 @@ bò	prawie	16
 më	gò	16
 do	americzi	16
 a	òb	16
-zł	za	16
 w	gardowim	16
 dalek	w	16
 czim	më	16
@@ -5216,7 +5210,6 @@ a	są	16
 wëżigimnazjalnëch	szkòłów	16
 czasã	nie	16
 tôflów	z	16
-tómk	fópka	16
 jaczi	òd	16
 sztërë	lata	16
 miłotã	do	16
@@ -5234,6 +5227,7 @@ o	których	16
 dla	niego	16
 na	wsi	16
 jest	ich	16
+w	kilku	16
 z	tzw	16
 szkòła	w	16
 kònkùrs	wiédzë	16
@@ -5301,22 +5295,20 @@ béł	czas	16
 dzysô	më	16
 gminie	somònino	16
 na	jasną	16
+miesãcznika	pòmeraniô	16
 wkół	se	16
 ten	wikeńd	16
 gminie	brusë	16
 dla	nauczycieli	16
-niech	w	16
 rinkù	robòtë	16
 spòlëznowi	pòmòcë	16
 z	tatkã	16
 z	wiôldżi	16
 ë	terô	16
-co	dlô	16
 kaszëbów	do	16
 ju	bëła	16
 do	najégò	16
 sparłãczonô	z	16
-je	przë	16
 mòże	zgłaszac	16
 wëjimk	z	16
 sposób	na	16
@@ -5326,6 +5318,7 @@ bë	mògło	16
 stronie	internetowej	16
 on	the	16
 dlô	starszich	16
+je	nowi	16
 na	założenié	16
 czas	do	16
 jô	mdã	16
@@ -5378,7 +5371,6 @@ jich	bëło	16
 w	październiku	16
 z	pomorza	16
 placu	w	16
-kościele	pw	16
 pochodzący	z	16
 na	zajmë	16
 był	taki	16
@@ -5388,13 +5380,16 @@ z	inicjatywy	16
 w	sejmie	16
 sã	spitôł	16
 òna	mia	16
+która	w	16
 uczniowie	z	16
 stanisłôw	janka	16
 w	bolszewie	16
 w	poezji	16
 ten	chłop	16
+przez	nie	16
 i	wszëtcë	16
 się	jako	16
+drugiej	połowie	16
 për	të	16
 pod	tytułem	16
 dni	przed	15
@@ -5429,7 +5424,6 @@ z	całim	15
 të	ju	15
 z	najich	15
 reno	do	15
-równak	ju	15
 dzysô	to	15
 je	wszëtkò	15
 noc	i	15
@@ -5440,7 +5434,6 @@ nie	słëchô	15
 co	òna	15
 ùprocëmnienim	do	15
 kąsk	za	15
-nié	mô	15
 w	pòmòrsce	15
 jaczé	nie	15
 rozwijô	sã	15
@@ -5501,9 +5494,11 @@ je	krótkò	15
 w	stónie	15
 téż	bëła	15
 pùcka	pò	15
+na	òbéńdze	15
 mieszkańców	gminë	15
 do	lãbòrga	15
 tam	bëlë	15
+wikimedia	polska	15
 tedë	to	15
 nama	z	15
 a	nôbarżi	15
@@ -5523,7 +5518,6 @@ przez	całé	15
 miôł	sã	15
 znóny	je	15
 że	czedës	15
-pòwsta	w	15
 nowégò	testameńtu	15
 abò	prosto	15
 tu	ò	15
@@ -5557,6 +5551,7 @@ w	stutthofie	15
 kò	nie	15
 rozpoczął	się	15
 cos	tam	15
+je	jedno	15
 i	dziedzictwa	15
 można	znaleźć	15
 kaszëbsczich	nótów	15
@@ -5610,7 +5605,6 @@ nigdze	nie	15
 bò	co	15
 tim	jidze	15
 robòtë	je	15
-téż	cos	15
 je	lepi	15
 pòjawiło	sã	15
 co	òd	15
@@ -5684,6 +5678,7 @@ lepi	sã	15
 chùtkò	do	15
 przińdnym	rokù	15
 jaczich	nie	15
+tómk	fópka	15
 mùzykã	do	15
 za	dwie	15
 już	jest	15
@@ -5725,7 +5720,6 @@ je	nasza	15
 że	człowiek	15
 na	całym	15
 z	najważniejszych	15
-pomorza	gdańskiego	15
 dlatego	też	15
 xvii	wieku	15
 po	tym	15
@@ -5764,7 +5758,6 @@ naji	kùlturë	15
 tedë	jô	15
 musi	być	15
 òdpòwiesc	na	15
-co	mia	15
 w	świetle	15
 z	naji	15
 mie	ju	15
@@ -5815,8 +5808,8 @@ mie	baro	15
 to	terô	15
 w	teatrze	15
 jak	dlô	15
+niech	w	15
 bez	robòtë	15
-z	banina	15
 i	dali	15
 pùstô	noc	15
 z	całej	15
@@ -5824,12 +5817,13 @@ mdze	z	15
 w	czechach	15
 bëła	tak	15
 i	nicht	15
-do	kògò	15
+co	dlô	15
 dëcht	jak	15
 nie	wiedno	15
 kaszëbsczégò	jidola	15
 a	pùzni	15
 jak	pón	15
+je	przë	15
 w	krótczim	15
 mô	miec	15
 za	te	15
@@ -5839,7 +5833,6 @@ szło	ò	15
 zrzeszenia	kaszubskiego	15
 tego	wydarzenia	15
 czë	są	15
-we	strzodã	15
 sã	czëje	15
 të	w	15
 so	gò	15
@@ -5852,7 +5845,6 @@ co	robią	15
 z	hélu	15
 bò	ten	15
 z	tekstama	15
-tam	bëła	15
 bëło	pò	15
 kartuzach	w	15
 wies	i	15
@@ -5898,7 +5890,6 @@ lub	w	15
 ze	szkoły	15
 lëteracczi	nôdgrodë	15
 je	fejn	15
-jakiś	czas	15
 jak	béł	15
 òbrôzk	z	15
 mù	to	15
@@ -5929,7 +5920,6 @@ nje	rzekł	14
 cë	je	14
 pana	boga	14
 beło	to	14
-smjoł	sę	14
 na	krziż	14
 co	won	14
 szła	do	14
@@ -5965,6 +5955,7 @@ tak	sę	14
 wonji	sę	14
 za	jego	14
 won	na	14
+równak	ju	14
 kaszëbskô	lëteratura	14
 a	kąsk	14
 wob	noc	14
@@ -5972,6 +5963,7 @@ tu	i	14
 szedł	v	14
 sę	ze	14
 w	fòrmie	14
+nié	mô	14
 ë	jinëch	14
 w	chinach	14
 sã	pierszi	14
@@ -5981,7 +5973,6 @@ na	kaszëbsczich	14
 pòlsce	i	14
 tim	to	14
 na	gromiczną	14
-po	kaszubach	14
 chturen	sę	14
 też	z	14
 dzys	je	14
@@ -6059,6 +6050,7 @@ szedł	z	14
 je	dzys	14
 chtërne	bëłë	14
 i	miôł	14
+pòwsta	w	14
 co	gôdają	14
 są	leno	14
 ë	chòc	14
@@ -6139,6 +6131,7 @@ co	nowégò	14
 mieszkańców	i	14
 w	samim	14
 do	wiôldżégò	14
+téż	cos	14
 téż	òb	14
 na	najich	14
 co	dzysô	14
@@ -6166,8 +6159,6 @@ zaczinają	sã	14
 pisac	w	14
 mòja	białka	14
 òn	i	14
-ani	jednégò	14
-sã	naùczëc	14
 jã	za	14
 sã	nią	14
 òrganizowónëch	przez	14
@@ -6228,7 +6219,6 @@ radia	gdańsk	14
 z	biédą	14
 od	wieków	14
 od	dawna	14
-w	czerwcu	14
 chòc	kąsk	14
 téż	przë	14
 chtërna	bëła	14
@@ -6244,6 +6234,7 @@ z	którym	14
 moim	zdaniem	14
 biôtka	ò	14
 leży	na	14
+pomorza	gdańskiego	14
 xvi	wieku	14
 żeby	się	14
 gdyby	nie	14
@@ -6256,7 +6247,6 @@ kaszëbsczim	mùzeùm	14
 do	mieszkańców	14
 wëszëznë	gardu	14
 na	żokach	14
-wejrowie	ë	14
 je	òrganizowóny	14
 sczerowóny	do	14
 kaszëbsczim	fòrum	14
@@ -6298,6 +6288,7 @@ na	no	14
 na	zycher	14
 literatura	kaszubska	14
 nie	chcę	14
+co	mia	14
 doch	sã	14
 le	ju	14
 z	chtërną	14
@@ -6315,7 +6306,6 @@ nawet	do	14
 do	trzech	14
 trzech	lat	14
 latosy	edicje	14
-szkòłów	z	14
 w	sumie	14
 przestrzeni	publicznej	14
 z	gdyni	14
@@ -6325,7 +6315,6 @@ gbùrsczi	doradzëznë	14
 we	wikszim	14
 miasta	w	14
 z	òbrëmieniô	14
-kònkùrsu	to	14
 lat	je	14
 jintegracjowégò	wãzła	14
 kaszëbskò-pòmòrsczim	zrzeszenim	14
@@ -6361,6 +6350,7 @@ mają	to	14
 disco	polo	14
 òdjimczi	z	14
 na	jaczis	14
+z	banina	14
 se	wiele	14
 diôbelsczé	skrzëpice	14
 te	dzecë	14
@@ -6370,8 +6360,8 @@ a	rôz	14
 aż	tak	14
 jak	ji	14
 jesz	nigdë	14
-tatk	ë	14
 to	człowiek	14
+do	kògò	14
 ne	słowa	14
 kùńca	séwnika	14
 tu	za	14
@@ -6397,6 +6387,7 @@ w	stôri	14
 gôdka	je	14
 przez	kilka	14
 jest	jednym	14
+we	strzodã	14
 a	teraz	14
 sã	ùdô	14
 dô	w	14
@@ -6415,6 +6406,7 @@ bò	jich	14
 ùkôzałë	sã	14
 na	rynku	14
 do	waju	14
+tam	bëła	14
 zrzeszë	szkòłów	14
 mowa	o	14
 patronat	nad	14
@@ -6482,13 +6474,13 @@ domu	kultury	14
 w	towarzystwie	14
 jesz	wiãcy	14
 tego	powodu	14
-sã	pitôł	14
 został	w	14
 wiąże	się	14
 czyli	w	14
 medal	stolema	14
 natomiast	w	14
 w	redakcji	14
+jakiś	czas	14
 ë	zaczãlë	14
 to	nasza	14
 żebë	mù	14
@@ -6516,20 +6508,18 @@ w	krakowie	14
 oni	tam	14
 grzegorza	ix	14
 një	apartament	14
-ka	një	14
 język	regionalny	14
 i	wojnie	14
 to	swiãto	13
-i	czas	13
 na	wiérzk	13
 ùstôw	ò	13
 njic	nje	13
-a	cuż	13
 ale	chto	13
 na	svjat	13
 je	co	13
 żem	sę	13
 bo	z	13
+smjoł	sę	13
 może	i	13
 jak	remus	13
 i	nen	13
@@ -6558,6 +6548,7 @@ pòchòdzy	òd	13
 roscëna	z	13
 je	pòd	13
 pòd	nim	13
+po	kaszubach	13
 że	mój	13
 wo	tim	13
 òdniesenim	do	13
@@ -6625,7 +6616,6 @@ są	przez	13
 jesz	dwa	13
 jak	np	13
 pomorskiej	w	13
-bënë	ë	13
 ukazały	się	13
 w	opracowaniu	13
 jesz	jedno	13
@@ -6658,7 +6648,6 @@ tu	më	13
 karno	mô	13
 głãbòk	w	13
 nich	na	13
-de	la	13
 do	filmù	13
 òsta	w	13
 ju	le	13
@@ -6670,7 +6659,6 @@ co	tidzéń	13
 tich	co	13
 za	pòmòc	13
 z	pòlsczim	13
-młodégò	pòkòleniô	13
 nie	gôdają	13
 wiédzô	ò	13
 tekst	w	13
@@ -6681,6 +6669,7 @@ hieronima	derdowskiego	13
 niezależnie	od	13
 w	części	13
 a	gdy	13
+dziedzictwa	narodowego	13
 nie	mdzesz	13
 móm	to	13
 na	początek	13
@@ -6744,7 +6733,6 @@ przë	robòce	13
 z	wiela	13
 ni	miało	13
 jednã	z	13
-bò	jinaczi	13
 w	swòjã	13
 te	kònie	13
 dlô	piechtnëch	13
@@ -6789,8 +6777,11 @@ leno	dlô	13
 drodżi	i	13
 sã	kaszëbsczi	13
 ju	nick	13
+zł	za	13
+ani	jednégò	13
 że	we	13
 żëcé	na	13
+sã	naùczëc	13
 skùńczëła	sã	13
 z	córką	13
 rok	je	13
@@ -6827,7 +6818,6 @@ ale	dlô	13
 do	żëcégò	13
 równak	nié	13
 tak	dôwno	13
-wszëtczich	do	13
 przë	ni	13
 terô	do	13
 do	dostaniô	13
@@ -6862,6 +6852,7 @@ jakno	szkólny	13
 znalazło	się	13
 kaszëbsczi	mòwë	13
 która	z	13
+w	czerwcu	13
 pochodzi	z	13
 to	ë	13
 pół	mëliona	13
@@ -6892,6 +6883,7 @@ na	gbùrstwie	13
 kaszubów	do	13
 do	ziemi	13
 we	łbie	13
+wejrowie	ë	13
 stowarzyszenie	kaszëbskô	13
 z	muzeum	13
 w	klëce	13
@@ -6944,7 +6936,6 @@ cë	sã	13
 bãdze	miôł	13
 na	wòdã	13
 mòże	òn	13
-mia	w	13
 mòże	të	13
 tej	jak	13
 z	pierszégò	13
@@ -6964,11 +6955,13 @@ bëła	leżnosc	13
 tekst	z	13
 najégò	jãzëka	13
 pòmòże	w	13
+szkòłów	z	13
 jesz	le	13
 mdze	mòżno	13
 na	realizacjã	13
 lëdze	co	13
 je	efekt	13
+kònkùrsu	to	13
 szkòłë	we	13
 najim	gòscã	13
 prowadny	radzëznë	13
@@ -7015,6 +7008,7 @@ wespółrobi	z	13
 i	zaczãlë	13
 przez	siebie	13
 my	byliśmy	13
+tatk	ë	13
 bëłë	taczé	13
 dwùch	lat	13
 sztëk	drodżi	13
@@ -7022,7 +7016,6 @@ scynanié	kani	13
 jakbë	chto	13
 wielu	lat	13
 gò	ju	13
-nie	bãdzesz	13
 té	ten	13
 zaczã	sã	13
 terô	òn	13
@@ -7030,7 +7023,6 @@ na	pòmòrzé	13
 gôdô	z	13
 stôwają	sã	13
 mdze	miało	13
-tô	edicjô	13
 sobą	i	13
 je	ë	13
 ë	rzekła	13
@@ -7067,7 +7059,6 @@ sã	zajimają	13
 ùrząd	gardu	13
 nie	mogą	13
 co	dwa	13
-wó	to	13
 festiwalu	kaszëbsczich	13
 pitôł	sã	13
 béł	ten	13
@@ -7092,7 +7083,6 @@ z	prawi	13
 z	lewi	13
 spisu	powszechnego	13
 i	tego	13
-kòscele	pw	13
 òna	téż	13
 òni	szlë	13
 dzéń	przed	13
@@ -7102,12 +7092,10 @@ i	też	13
 do	życia	13
 w	taki	13
 żeby	nie	13
-nie	zabrakło	13
 drugiej	stronie	13
 chtërna	w	13
 udało	mi	13
 i	młodzież	13
-km	od	13
 osób	w	13
 dobri	czas	13
 napisóné	w	13
@@ -7140,6 +7128,7 @@ z	prowadnikã	13
 że	wicy	13
 plac	dlô	13
 there	is	13
+sã	pitôł	13
 miasta	gdyni	13
 bùten	i	13
 na	nëch	13
@@ -7190,9 +7179,11 @@ zdrzadniô	tespisa	13
 òd	kaszëbsczégò	12
 ju	czile	12
 szlachùją	za	12
+i	czas	12
 wcyg	w	12
 do	robotë	12
 ji	nje	12
+a	cuż	12
 jô	v	12
 jak	długo	12
 wod	tego	12
@@ -7342,6 +7333,7 @@ czasã	téż	12
 zómkù	w	12
 bëła	wiôlgô	12
 jak	pisze	12
+bënë	ë	12
 tam	stoji	12
 nad	tą	12
 tak	za	12
@@ -7366,7 +7358,6 @@ mògła	bëc	12
 òne	w	12
 tak	zwóné	12
 są	barżi	12
-m	n	12
 w	codniowim	12
 zjôwiô	sã	12
 w	kùlturze	12
@@ -7392,6 +7383,7 @@ rokù	ò	12
 de	facto	12
 jãzëka	z	12
 żelë	jidze	12
+młodégò	pòkòleniô	12
 radiu	kaszëbë	12
 të	béł	12
 a	miôł	12
@@ -7409,7 +7401,6 @@ znaleźć	w	12
 chto	wié	12
 smiôł	sã	12
 tak	głosno	12
-bò	bez	12
 na	dwiérze	12
 czej	òna	12
 do	chléwa	12
@@ -7417,7 +7408,6 @@ to	use	12
 wicy	je	12
 baro	serdeczno	12
 sã	smieją	12
-kaszëbsczi	kùlturze	12
 pisowni	kaszubskiej	12
 piselë	w	12
 gôdô	w	12
@@ -7472,6 +7462,7 @@ równak	ni	12
 zéńdzenia	z	12
 të	tu	12
 na	wanogã	12
+bò	jinaczi	12
 jeden	drëdżégò	12
 mógł	so	12
 swòjã	stronã	12
@@ -7574,7 +7565,6 @@ nié	dlô	12
 na	sã	12
 na	òdpùst	12
 z	pòmòrsczi	12
-bëlë	jesmë	12
 knôp	z	12
 młodi	człowiek	12
 mómë	dlô	12
@@ -7582,6 +7572,7 @@ w	òstrzódkù	12
 ùdbów	na	12
 òd	jegò	12
 z	pòlôchama	12
+wszëtczich	do	12
 nie	rozmielë	12
 w	miónkach	12
 a	dzél	12
@@ -7590,7 +7581,6 @@ chcemë	bëc	12
 jesmë	za	12
 jô	tegò	12
 na	gòscënã	12
-òb	wieczór	12
 letkò	je	12
 przédny	redaktór	12
 bãdze	sã	12
@@ -7620,7 +7610,6 @@ z	dôwnëch	12
 słowa	z	12
 nick	wicy	12
 przez	niego	12
-co	béł	12
 z	przédnikã	12
 zapoznania	się	12
 kaszubskiej	literatury	12
@@ -7713,6 +7702,7 @@ bëłë	z	12
 lëdowëch	ùtwórców	12
 za	ną	12
 słëchô	sã	12
+mia	w	12
 ji	ni	12
 ju	nigdë	12
 jednégò	razu	12
@@ -7759,7 +7749,6 @@ robòtë	mają	12
 w	sierakowicach	12
 sã	zaczãłë	12
 biblotece	w	12
-miec	nôdzejã	12
 sã	mdą	12
 ix	z	12
 tomasza	fópczi	12
@@ -7806,7 +7795,6 @@ mieszkańcowie	gminë	12
 polskiego	i	12
 na	ławie	12
 w	nadolim	12
-we	wieżëcë	12
 sã	dzejało	12
 kaszëbów	nie	12
 sã	widzało	12
@@ -7871,7 +7859,6 @@ a	kiedy	12
 w	średniowieczu	12
 mùzeùm	kòscérsczi	12
 dla	niej	12
-a	kaszëbi	12
 robiło	sã	12
 wtedy	nie	12
 w	tobie	12
@@ -7893,7 +7880,6 @@ ten	sam	12
 òna	miała	12
 mogą	się	12
 na	pierwszy	12
-w	powieści	12
 kaszubów	na	12
 jak	on	12
 o	której	12
@@ -7903,6 +7889,7 @@ platkã	z	12
 znany	jest	12
 kòl	ce	12
 w	katedrze	12
+nie	zabrakło	12
 nie	miało	12
 po	powrocie	12
 tego	miasta	12
@@ -8087,7 +8074,6 @@ v	ten	11
 òn	mòże	11
 bò	jegò	11
 wierzã	w	11
-je	przede	11
 nad	sztrądã	11
 òperacjowô	systema	11
 je	pierszô	11
@@ -8177,10 +8163,8 @@ të	z	11
 pana	jezusa	11
 za	trzë	11
 w	lasu	11
-i	jeden	11
 jich	tam	11
 na	naszich	11
-ze	stenką	11
 z	jinszëch	11
 chtos	je	11
 z	chtërny	11
@@ -8273,20 +8257,20 @@ w	tradycji	11
 z	lëteraturą	11
 lëdzy	bëło	11
 wama	w	11
-po	prawej	11
 ją	na	11
 na	wies	11
 gdzie	indziej	11
 nënka	roda	11
 czej	gò	11
+bò	bez	11
 sã	doch	11
 z	naszą	11
 of	a	11
 nalezc	mòże	11
+kaszëbsczi	kùlturze	11
 òpòwiôdôł	ò	11
 wiesczich	gòspòdëniów	11
 przez	prof	11
-na	wëstôwk	11
 je	lëchò	11
 jak	bëła	11
 gdinie	i	11
@@ -8319,7 +8303,6 @@ w	spòlëznowëch	11
 w	nasze	11
 w	rãkù	11
 pòdeszedł	do	11
-chłop	sã	11
 kaszëbskù	nie	11
 i	bãdze	11
 żebë	nié	11
@@ -8345,9 +8328,7 @@ dôł	mie	11
 nim	téż	11
 kaszëbsczich	chùrów	11
 na	tczã	11
-kòłowëch	stegnów	11
 jak	rok	11
-òd	pierszégò	11
 jô	nié	11
 na	ce	11
 na	pëtanié	11
@@ -8414,6 +8395,7 @@ rómana	drzéżdżóna	11
 wcyg	sã	11
 czë	jak	11
 jem	to	11
+bëlë	jesmë	11
 nas	sã	11
 rok	i	11
 w	piéckù	11
@@ -8441,6 +8423,7 @@ wôrt	bë	11
 pò	głowie	11
 widzec	na	11
 naùczëc	sã	11
+òb	wieczór	11
 w	warkòwniach	11
 w	skali	11
 nich	téż	11
@@ -8460,6 +8443,7 @@ przëszła	na	11
 są	terô	11
 dzeż	të	11
 të	ni	11
+co	béł	11
 je	tedë	11
 zgódné	z	11
 żebë	kaszëbizna	11
@@ -8567,6 +8551,7 @@ choć	nie	11
 z	aną	11
 zéńdzenié	w	11
 chcą	bëc	11
+hymn	kaszubski	11
 do	słów	11
 w	polskim	11
 kiedy	w	11
@@ -8670,6 +8655,7 @@ w	sebie	11
 i	administracje	11
 przińdnégò	rokù	11
 parafii	w	11
+miec	nôdzejã	11
 jerzégò	trédra	11
 swòji	juwernotë	11
 grégòra	ix	11
@@ -8704,7 +8690,6 @@ gôdô	òrganizatór	11
 sã	dac	11
 nich	do	11
 na	środku	11
-wó	tim	11
 môłéwo	princa	11
 nie	widzą	11
 jãzëkù	w	11
@@ -8726,6 +8711,7 @@ sã	dzało	11
 zrobic	cos	11
 w	kartëzach	11
 także	o	11
+nie	bãdzesz	11
 nie	szedł	11
 żebë	bëła	11
 ò	kùlturze	11
@@ -8736,13 +8722,13 @@ je	bédënk	11
 fùl	gãbą	11
 piwa	i	11
 gò	i	11
+we	wieżëcë	11
 ariél	sënicczi	11
 lëdze	so	11
 wiarë	w	11
 słowò	je	11
 za	życia	11
 jak	też	11
-th	century	11
 balë	cassubian	11
 gôdô	zôstãpca	11
 jaczi	do	11
@@ -8754,7 +8740,6 @@ z	góry	11
 ten	król	11
 bëło	jak	11
 nie	wiedział	11
-było	tak	11
 do	pierszi	11
 tys	zł	11
 prawie	temù	11
@@ -8798,7 +8783,6 @@ bë	mògła	11
 z	se	11
 ù	bòga	11
 żdôł	na	11
-z	wójtã	11
 sã	wiôldżim	11
 król	pòlsczi	11
 młodëch	i	11
@@ -8878,6 +8862,7 @@ i	wszystko	11
 nich	z	11
 z	krziża	11
 kaszubskiej	ziemi	11
+w	powieści	11
 polskiego	w	11
 w	znaczeniu	11
 kaszubów	jest	11
@@ -8886,16 +8871,14 @@ ona	nie	11
 nazywa	się	11
 zawarte	w	11
 kaszëb	ë	11
-kościół	pw	11
 w	kamieniu	11
 o	życiu	11
 dla	uczniów	11
 redaktora	naczelnego	11
-w	walce	11
 w	odniesieniu	11
-w	obozie	11
 ii	miejsce	11
 u	progu	11
+km	od	11
 jej	nie	11
 stu	lat	11
 języka	niemieckiego	11
@@ -8921,7 +8904,6 @@ po	drugie	11
 różni	się	11
 z	rodziną	11
 i	potem	11
-i	teraz	11
 kaszubsku	i	11
 była	taka	11
 niech	mie	11
@@ -8932,6 +8914,7 @@ pojawiła	się	11
 od	nas	11
 w	bazylice	11
 w	polskiej	11
+a	kaszëbi	11
 gdze	më	11
 się	tutaj	11
 przeniós	starnã	11
@@ -8952,6 +8935,7 @@ podczas	uroczystości	11
 roku	przez	11
 na	którą	11
 te	co	11
+za	granicą	11
 nie	to	11
 naszi	wsë	11
 bëło	i	11
@@ -8961,6 +8945,7 @@ na	pierszé	11
 tak	mòcno	11
 miejsca	na	11
 nad	rzéką	11
+i	administracji	11
 z	ùczãstników	11
 z	nowima	11
 wiele	osób	11
@@ -9073,7 +9058,6 @@ i	vjidzoł	10
 przez	wokno	10
 mje	tu	10
 ale	trąba	10
-trąba	sę	10
 wona	na	10
 i	szła	10
 jak	ksądz	10
@@ -9081,7 +9065,6 @@ pòtkac	w	10
 swòje	rãce	10
 nad	rzeką	10
 mòże	pòd	10
-tedë	téż	10
 ze	zemji	10
 nje	wodrzekł	10
 bo	sę	10
@@ -9109,10 +9092,10 @@ pò	i	10
 je	nie	10
 miałë	téż	10
 pòmòrsczé	wòjewództwò	10
+je	przede	10
 ale	wiele	10
 nôbarżi	w	10
 w	lëstopadnikù	10
-na	całé	10
 na	baro	10
 béł	nen	10
 mało	lëdzy	10
@@ -9143,7 +9126,6 @@ kaszëbi	do	10
 dóné	do	10
 matkã	bòską	10
 taką	samą	10
-chtërne	przëjimnął	10
 zôpôd	òd	10
 nordowi	americzi	10
 przëjachôł	nazôd	10
@@ -9186,7 +9168,6 @@ może	bëc	10
 go	nje	10
 tim	dniu	10
 dëcha	swiãtégò	10
-bëło	prawie	10
 na	wsach	10
 taczi	jak	10
 je	wôżnô	10
@@ -9234,6 +9215,8 @@ robòta	je	10
 na	robòtã	10
 tim	dzélu	10
 do	grobu	10
+i	jeden	10
+ze	stenką	10
 a	drëdżé	10
 òni	tu	10
 to	nôlepi	10
@@ -9249,6 +9232,7 @@ w	zôpùstë	10
 ë	taczi	10
 dzél	kaszëbów	10
 w	jedno	10
+m	n	10
 pierszi	na	10
 znónô	z	10
 wôżny	môl	10
@@ -9326,6 +9310,7 @@ należy	się	10
 że	jes	10
 na	gù	10
 są	blós	10
+po	prawej	10
 z	hebrajsczégò	10
 wsë	do	10
 òd	ùrodzeniô	10
@@ -9340,6 +9325,7 @@ w	swiãtim	10
 że	kaszubi	10
 so	pò	10
 je	òtemkłi	10
+na	wëstôwk	10
 tedë	w	10
 nié	mòże	10
 môłëch	dzecy	10
@@ -9359,7 +9345,6 @@ w	zdrzélnikù	10
 w	mòje	10
 nick	na	10
 nen	chłop	10
-a	całô	10
 w	serce	10
 cos	ò	10
 są	znóny	10
@@ -9397,6 +9382,7 @@ razu	nie	10
 spiącé	wòjskò	10
 na	tegò	10
 za	niã	10
+chłop	sã	10
 nawetka	sã	10
 më	mòglë	10
 internetowi	starnie	10
@@ -9439,9 +9425,11 @@ nôlepi	je	10
 mô	kòl	10
 téż	swòjã	10
 do	pół	10
+kòłowëch	stegnów	10
 téż	swój	10
 zebrało	sã	10
 ze	strzédnëch	10
+òd	pierszégò	10
 miasta	z	10
 ju	bëłë	10
 ju	krótkò	10
@@ -9946,8 +9934,8 @@ dla	szkoły	10
 tym	języku	10
 i	oczywiście	10
 te	ten	10
+było	tak	10
 na	szëji	10
-chùtkò	w	10
 już	to	10
 w	dwa	10
 dóny	do	10
@@ -9996,10 +9984,10 @@ jeden	rôz	10
 gôdô	prowadny	10
 na	dwùch	10
 kaszëbsczi	himn	10
-skùńcził	w	10
 gôdôł	do	10
 młodim	lëdzóm	10
 latos	më	10
+z	wójtã	10
 nie	mùszi	10
 dokazë	z	10
 ë	so	10
@@ -10045,7 +10033,6 @@ jeśli	ktoś	10
 w	górę	10
 zaraz	po	10
 sã	przëzdrzec	10
-niegò	w	10
 karnów	z	10
 na	mòrze	10
 zôczątkù	jô	10
@@ -10057,7 +10044,6 @@ tegò	ôrtu	10
 chłopa	z	10
 më	jich	10
 do	środka	10
-znajdował	się	10
 z	wiôldżima	10
 ò	ten	10
 dzes	na	10
@@ -10085,7 +10071,6 @@ ten	tekst	10
 ale	już	10
 na	òbrôzkù	10
 òd	trzech	10
-le	òn	10
 i	pałaców	10
 z	wejherowa	10
 òde	mie	10
@@ -10116,8 +10101,10 @@ obozu	koncentracyjnego	10
 na	dwór	10
 òkòma	tegò	10
 i	twórczości	10
+w	walce	10
 odniesieniu	do	10
 niektóre	z	10
+w	obozie	10
 òn	nama	10
 ale	trzeba	10
 tym	terenie	10
@@ -10132,6 +10119,7 @@ tëch	słowach	10
 mdze	tam	10
 pierwszej	połowie	10
 połowie	xx	10
+przez	kaszubów	10
 podczas	konferencji	10
 że	pòlskô	10
 człowiek	mòże	10
@@ -10153,6 +10141,7 @@ gdzie	jest	10
 jeszcze	raz	10
 się	dzieje	10
 że	od	10
+i	teraz	10
 który	został	10
 w	archiwum	10
 jaczé	òstałë	10
@@ -10193,7 +10182,6 @@ na	zajęcia	10
 nie	kòżdi	10
 z	polską	10
 a	dla	10
-jistno	je	10
 kaszubi	nie	10
 z	nazwami	10
 dla	młodych	10
@@ -10219,7 +10207,6 @@ klósczi	z	10
 tutaj	na	10
 sã	biôtkòwac	10
 bëła	ta	10
-jak	mówi	10
 może	w	10
 posługuje	się	10
 do	zrozumienia	10
@@ -10262,7 +10249,6 @@ ubiegłego	roku	10
 jak	oni	10
 i	my	10
 u	stóp	10
-a	raczej	10
 kaszubskie	w	10
 bez	te	10
 się	bowiem	10
@@ -10319,7 +10305,6 @@ ona	była	10
 czasie	wojny	10
 listopada	w	10
 a	niech	10
-mieszkańcë	gminë	10
 òrmùzdowëch	skrów	10
 na	północy	10
 później	w	10
@@ -10328,7 +10313,6 @@ i	wszëtczim	10
 w	słowie	10
 gdzie	w	10
 gwës	téż	10
-pierszi	wòjnie	10
 poezji	kaszubskiej	10
 salon	z	10
 aneks	kuchenny	10
@@ -10386,6 +10370,7 @@ na	levą	9
 wokoma	mje	9
 ten	tam	9
 sę	dobroł	9
+trąba	sę	9
 z	chternigo	9
 i	karno	9
 a	pod	9
@@ -10404,6 +10389,7 @@ gdze	na	9
 je	np	9
 téż	mają	9
 nym	sztóce	9
+tedë	téż	9
 doł	mje	9
 żebe	sę	9
 jesz	v	9
@@ -10448,6 +10434,7 @@ jãzëk	z	9
 są	òd	9
 se	blós	9
 mô	prôwdã	9
+na	całé	9
 w	archiwach	9
 kąsk	ò	9
 sã	pòkazac	9
@@ -10464,7 +10451,6 @@ nad	jezorem	9
 do	vsë	9
 do	bôłtu	9
 pierszi	swiatowi	9
-gduńska	ë	9
 gardu	ë	9
 państwa	na	9
 stôri	rok	9
@@ -10491,6 +10477,7 @@ zapisóné	w	9
 pòdobné	do	9
 wëwòdzy	sã	9
 dodôwkã	do	9
+chtërne	przëjimnął	9
 w	łątczińsczi	9
 gdze	béł	9
 jak	jã	9
@@ -10500,7 +10487,6 @@ in	poland	9
 ti	zemji	9
 ale	przez	9
 go	i	9
-a	bëlë	9
 nazwy	miejscowości	9
 ë	nalôzł	9
 dzejów	kaszëbów	9
@@ -10539,6 +10525,7 @@ i	karna	9
 téj	je	9
 na	swiãtégò	9
 ten	zwëk	9
+bëło	prawie	9
 słów	ë	9
 czãsto	na	9
 za	nôlepszé	9
@@ -10685,7 +10672,6 @@ i	corôz	9
 są	kaszëbama	9
 na	fali	9
 w	polskich	9
-na	zachodzie	9
 mieszkańców	pomorza	9
 innych	miejscach	9
 naszej	społeczności	9
@@ -10694,7 +10680,6 @@ pomorzu	zachodnim	9
 biblioteczi	w	9
 robòce	w	9
 mielë	strach	9
-na	wiôldżé	9
 nie	widzelë	9
 to	fejn	9
 które	można	9
@@ -10710,7 +10695,6 @@ prowadzoné	są	9
 czasã	w	9
 më	piselë	9
 swòje	miono	9
-żëcé	ë	9
 mòże	tegò	9
 nen	drëdżi	9
 ze	swiãtim	9
@@ -10730,9 +10714,9 @@ bë	tegò	9
 nôwicy	je	9
 nalézą	sã	9
 w	instalacëji	9
-rôd	sã	9
 prawie	terô	9
 z	głową	9
+a	całô	9
 jidze	przez	9
 dze	òn	9
 eùropë	i	9
@@ -10754,11 +10738,11 @@ móm	starã	9
 sã	zrobic	9
 òpòwiadac	ò	9
 le	czile	9
+zrobił	jem	9
 przed	sebie	9
 cëż	wa	9
 mie	bë	9
 z	kòżdi	9
-do	nowi	9
 dzejaniô	w	9
 spòsób	na	9
 cë	nie	9
@@ -10774,7 +10758,6 @@ jaczim	më	9
 më	gôdómë	9
 téż	tegò	9
 co	bez	9
-bò	taczi	9
 i	nigdë	9
 na	głowach	9
 rôz	to	9
@@ -10794,7 +10777,6 @@ sã	òkôzało	9
 i	swòje	9
 sã	pôrã	9
 mało	je	9
-pò	prostu	9
 do	zôbawë	9
 co	mieszkają	9
 òznôczô	to	9
@@ -10848,7 +10830,6 @@ i	kùreszce	9
 i	òrganizacjów	9
 wiôldżé	bóg	9
 òrganizowónégò	przez	9
-przez	wszëtczé	9
 dopasowóné	do	9
 że	blós	9
 to	dopiérze	9
@@ -10867,7 +10848,6 @@ jegò	miona	9
 w	kòlegiace	9
 òn	dlô	9
 dzéń	pózni	9
-wiele	rzeczi	9
 czëtac	pò	9
 leno	co	9
 zacząc	òd	9
@@ -10880,7 +10860,6 @@ czëtómë	na	9
 sã	pòtkelë	9
 z	ùsmiéchã	9
 seminarium	dlô	9
-grac	na	9
 z	pùstków	9
 nalôżô	sã	9
 wszëtczim	dlô	9
@@ -10969,8 +10948,6 @@ pòdług	mie	9
 co	bãdze	9
 w	tawernie	9
 maja	na	9
-kaszëbsczim	lëdowim	9
-lëdowim	ùniwersytece	9
 méster	jan	9
 do	tekstu	9
 prawi	stronie	9
@@ -10999,6 +10976,7 @@ wiele	na	9
 wcyg	jesz	9
 na	mòdło	9
 òn	bãdze	9
+cëż	móm	9
 rzeczë	mie	9
 że	jeśli	9
 i	bëła	9
@@ -11165,13 +11143,11 @@ chtërny	mają	9
 na	jiné	9
 zadanim	je	9
 wëzdrzi	na	9
-swòje	pierszé	9
 pôrã	razë	9
 miona	ë	9
 téż	bëlno	9
 je	mùs	9
 w	remionach	9
-doch	téż	9
 z	dobrim	9
 ze	wzglãdu	9
 hewò	czile	9
@@ -11257,7 +11233,6 @@ za	dwa	9
 sã	wszëtczé	9
 na	rénkù	9
 kaszëbi	ë	9
-nôdzejã	na	9
 z	regionalny	9
 juwernotë	i	9
 w	trzëgardze	9
@@ -11325,10 +11300,8 @@ w	taszi	9
 dlô	pòmòrzô	9
 niezanôléżno	òd	9
 wiôldżim	ùwôżanim	9
-mô	z	9
 pòlsczégò	rządu	9
 rómk	drzéżdżón	9
-bò	móm	9
 mni	wicy	9
 do	nômłodszich	9
 przedë	wszëtczim	9
@@ -11434,6 +11407,7 @@ w	przeciwieństwie	9
 przeciwieństwie	do	9
 nie	chciał	9
 bëlë	ti	9
+chùtkò	w	9
 do	tradycji	9
 a	jeśli	9
 gardowégò	samòrządu	9
@@ -11443,7 +11417,6 @@ pierszi	etap	9
 mëlionów	złotëch	9
 na	stół	9
 gminë	serakòjce	9
-kaszub	na	9
 nie	jesta	9
 okazał	się	9
 bò	tej	9
@@ -11476,7 +11449,6 @@ jaczich	to	9
 pòmòrzé	w	9
 ùszłëch	latach	9
 czuje	się	9
-nad	renã	9
 robòtë	kòl	9
 w	godzinach	9
 téż	rzec	9
@@ -11498,7 +11470,6 @@ z	przodu	9
 wiôldżi	i	9
 pùblëcznégò	ùżëtkù	9
 je	szansa	9
-móm	dosc	9
 forum	kultury	9
 kaszubszczyzny	w	9
 i	okolic	9
@@ -11511,6 +11482,7 @@ mòże	tu	9
 i	miasto	9
 je	kaszëbsczé	9
 że	mùszimë	9
+skùńcził	w	9
 sã	lëdzóm	9
 pòtemù	w	9
 na	wëdzélu	9
@@ -11551,7 +11523,6 @@ kaszëbsczi	gòdowi	9
 sã	szëkùją	9
 w	kinach	9
 fabùlarnëch	filmów	9
-wëdóné	w	9
 dzys	na	9
 kaszuby	to	9
 się	swoimi	9
@@ -11563,6 +11534,7 @@ ze	swoją	9
 w	czôrnym	9
 nie	wëzdrzi	9
 sã	òkazywô	9
+niegò	w	9
 na	adresa	9
 młodzi	ludzie	9
 dali	jak	9
@@ -11574,6 +11546,7 @@ platka	z	9
 to	nawetka	9
 nót	zrobic	9
 na	siebie	9
+znajdował	się	9
 a	mdze	9
 czej	jes	9
 przez	pòlskã	9
@@ -11591,7 +11564,6 @@ jest	jednak	9
 ukazało	się	9
 kò	òni	9
 szkole	w	9
-w	tamtych	9
 była	na	9
 tej	publikacji	9
 jãzëków	na	9
@@ -11609,6 +11581,7 @@ co	ją	9
 w	ksążkach	9
 to	bëł	9
 sã	pòjawi	9
+le	òn	9
 zapraszam	do	9
 pòdmiot	liriczny	9
 kaszëbsczi	juwernotë	9
@@ -11617,6 +11590,7 @@ zobaczyć	w	9
 nji	majõ	9
 do	projektu	9
 strachù	przed	9
+sã	lëchò	9
 òd	stalat	9
 wòłają	nas	9
 te	wszystkie	9
@@ -11683,6 +11657,7 @@ w	kôrtë	9
 go	nie	9
 w	kategórie	9
 tej	béł	9
+edukacji	narodowej	9
 roku	o	9
 to	możliwe	9
 przed	bògã	9
@@ -11694,7 +11669,6 @@ mnie	do	9
 spisie	powszechnym	9
 gdzieś	w	9
 które	zostało	9
-skra	ormuzdowa	9
 òni	do	9
 wstęp	do	9
 wolnego	miasta	9
@@ -11736,6 +11710,7 @@ w	kuchni	9
 jest	tam	9
 słowa	nie	9
 you	can	9
+jistno	je	9
 nazwami	miejscowości	9
 rady	naczelnej	9
 obchody	dnia	9
@@ -11767,6 +11742,7 @@ bëła	jesz	9
 stefana	ramułta	9
 my	w	9
 w	jednej	9
+jak	mówi	9
 kaszubskich	nazw	9
 pòmòc	i	9
 w	nożną	9
@@ -11817,7 +11793,6 @@ co	we	9
 bëło	trzeba	9
 gò	pò	9
 òn	sobie	9
-czej	bëła	9
 nad	wisłą	9
 i	kaszëbiznë	9
 polską	i	9
@@ -11827,6 +11802,7 @@ znónô	je	9
 tam	właśnie	9
 òni	przëszlë	9
 bernard	sychta	9
+a	raczej	9
 przez	dwie	9
 zaczęły	się	9
 trzy	dni	9
@@ -11871,7 +11847,6 @@ w	architekturze	9
 trudno	było	9
 dzisiaj	w	9
 we	warkòwniach	9
-go	jako	9
 discantus	z	9
 òjc	i	9
 począwszy	od	9
@@ -11895,6 +11870,7 @@ z	archiwum	9
 na	drugi	9
 na	nowo	9
 pod	patronatem	9
+mieszkańcë	gminë	9
 bibliotece	w	9
 je	nasz	9
 się	znaleźć	9
@@ -11908,6 +11884,7 @@ ten	bùdink	9
 tej	strony	9
 jesz	jem	9
 w	miech	9
+pierszi	wòjnie	9
 ruchu	kaszubsko-pomorskiego	9
 jan	krefft	9
 më	të	9
@@ -11922,7 +11899,6 @@ koło	fortuny	9
 jezë	za	9
 w	kijowie	9
 tego	samego	9
-mô	zrobioné	9
 do	wniosku	9
 konkursu	recytatorskiego	9
 najpierw	w	9
@@ -12095,6 +12071,7 @@ nié	bez	8
 z	gduńskã	8
 równo	jak	8
 z	przëczënów	8
+gduńska	ë	8
 z	wieloma	8
 z	môłima	8
 pierszé	lata	8
@@ -12143,6 +12120,7 @@ moja	dusza	8
 z	vjelgą	8
 v	ręku	8
 w	gardach	8
+a	bëlë	8
 jich	plac	8
 kaszubskie	nazwy	8
 nen	wpisënk	8
@@ -12221,7 +12199,6 @@ jãzëkã	w	8
 òglowégò	spisënkù	8
 midzëwòjnowim	cządze	8
 béł	tuwò	8
-ò	wiéchrzëznie	8
 słowiańsczi	jãzëk	8
 òstôł	téż	8
 rokù	jakno	8
@@ -12359,10 +12336,12 @@ chtërny	mielë	8
 wiôlgô	dzãka	8
 po	kilku	8
 o	różnych	8
+na	zachodzie	8
 w	przeszłości	8
 który	miał	8
 którzy	mieli	8
 strach	ò	8
+na	wiôldżé	8
 do	klôsztoru	8
 dze	bë	8
 kulturę	i	8
@@ -12385,6 +12364,7 @@ a	temù	8
 môla	w	8
 jak	wezdrzi	8
 pòwiôstczi	ë	8
+żëcé	ë	8
 przëchôdô	do	8
 co	chòdzą	8
 kim	są	8
@@ -12408,6 +12388,7 @@ do	séwnika	8
 na	pierszą	8
 na	platfòrmã	8
 lëdze	ò	8
+rôd	sã	8
 to	dôwô	8
 rôz	czedës	8
 wezdrzôł	nó	8
@@ -12440,6 +12421,7 @@ to	widzôł	8
 długò	i	8
 kògòs	z	8
 abò	nié	8
+do	nowi	8
 zdrzeniô	na	8
 są	taczi	8
 żebë	bëc	8
@@ -12459,6 +12441,7 @@ do	kòżdi	8
 to	pierszé	8
 dôwno	nie	8
 jich	pò	8
+bò	taczi	8
 tuwò	jesz	8
 za	niegò	8
 latos	z	8
@@ -12503,6 +12486,7 @@ kò	do	8
 wezmë	na	8
 bëlë	òni	8
 baro	dobré	8
+pò	prostu	8
 ani	nawetka	8
 chcą	téż	8
 placu	do	8
@@ -12512,7 +12496,6 @@ naji	tatczëznë	8
 swiãtëch	pismionów	8
 w	procesji	8
 nie	lëdô	8
-zó	co	8
 w	głosu	8
 to	widzec	8
 tak	żebë	8
@@ -12566,6 +12549,7 @@ danutë	pioch	8
 bëło	taczé	8
 pierszim	dzélu	8
 nie	bëłobë	8
+przez	wszëtczé	8
 kaszëbskù	na	8
 barżi	z	8
 żebë	wszëtkò	8
@@ -12586,6 +12570,7 @@ wiadło	z	8
 ze	swôrzewa	8
 a	lepi	8
 do	zôczątkù	8
+wiele	rzeczi	8
 jem	czekawi	8
 mógł	bë	8
 ale	mie	8
@@ -12597,6 +12582,7 @@ je	dalek	8
 bëc	ni	8
 weńc	do	8
 w	hòtelu	8
+grac	na	8
 placach	i	8
 dobëła	w	8
 przez	wszëtczich	8
@@ -12689,6 +12675,8 @@ do	naszich	8
 najégò	regionu	8
 dzys	nie	8
 pòlską	i	8
+kaszëbsczim	lëdowim	8
+lëdowim	ùniwersytece	8
 dowiedzec	sã	8
 cezarégò	pôcórka	8
 nie	jestem	8
@@ -12846,7 +12834,6 @@ ze	spòdlecznëch	8
 wëdôwizna	region	8
 lato	na	8
 w	swarzewie	8
-jego	twórczości	8
 warszawie	i	8
 był	także	8
 prezes	zkp	8
@@ -12863,7 +12850,6 @@ pòmòrsczi	zemi	8
 w	pòlsczich	8
 je	jakôs	8
 chtëren	bë	8
-dziś	nie	8
 z	perspektiwë	8
 w	wiérzce	8
 w	kòszikù	8
@@ -12914,6 +12900,7 @@ gracjana	pòtrëkùs	8
 plac	je	8
 i	nierôz	8
 nëch	latach	8
+swòje	pierszé	8
 sã	czëtô	8
 mielë	swòje	8
 bë	bëlë	8
@@ -12923,6 +12910,7 @@ szlachama	kùsków	8
 mô	napisóné	8
 na	targach	8
 pòmòrsczi	ksążczi	8
+doch	téż	8
 do	pòkôzaniô	8
 pół	wiekù	8
 kùltura	je	8
@@ -13039,6 +13027,7 @@ jedny	ze	8
 gôdô	bùrmésterka	8
 przińdze	wicy	8
 mają	ùtczoné	8
+nôdzejã	na	8
 mô	służëc	8
 w	zajmach	8
 ze	strzodków	8
@@ -13133,7 +13122,9 @@ dwa	kònie	8
 taczi	môl	8
 sã	òni	8
 gùczów	mack	8
+mô	z	8
 na	banã	8
+bò	móm	8
 łączbie	z	8
 na	sztrasë	8
 werónka	nad	8
@@ -13179,7 +13170,6 @@ wié	jak	8
 bãdą	w	8
 nen	mô	8
 mô	jic	8
-z	drëdżima	8
 ò	niã	8
 prosto	rzec	8
 skùńczëłë	sã	8
@@ -13286,6 +13276,7 @@ baro	wiôlgô	8
 niegò	je	8
 przez	internet	8
 wiôldżi	britanie	8
+kaszub	na	8
 pisôl	jem	8
 doch	za	8
 wiele	mie	8
@@ -13326,6 +13317,7 @@ to	czë	8
 sã	całą	8
 czas	temù	8
 jednim	z	8
+nad	renã	8
 do	kùchnie	8
 na	sóm	8
 je	sprawa	8
@@ -13351,6 +13343,7 @@ pòdzelony	na	8
 kaszëbizna	bëła	8
 westrzód	słowiańsczich	8
 chce	miec	8
+móm	dosc	8
 cos	pò	8
 téż	móm	8
 w	swiãtnicë	8
@@ -13391,7 +13384,6 @@ edukacje	szkólnëch	8
 szkólnëch	we	8
 dejade	nie	8
 bez	ni	8
-miejsce	i	8
 tłumaczenia	na	8
 kaszëbsczi	pisënk	8
 jedny	stronie	8
@@ -13425,7 +13417,9 @@ dzys	sã	8
 doch	jô	8
 òni	gôdelë	8
 òni	na	8
+gardu	kòscérzna	8
 na	cwiardi	8
+wëdóné	w	8
 to	język	8
 do	niemiec	8
 kaszubski	to	8
@@ -13433,7 +13427,6 @@ korzystając	z	8
 nie	wińdze	8
 wierã	je	8
 w	szimbarkù	8
-przë	kawie	8
 było	tam	8
 a	tym	8
 jest	ta	8
@@ -13458,7 +13451,6 @@ przez	kaszëbską	8
 religijny	piesnie	8
 w	czwiôrti	8
 swiéżim	lëfce	8
-nowi	numer	8
 môlach	na	8
 sã	skùńcził	8
 że	szkólny	8
@@ -13500,9 +13492,9 @@ niemiecczim	wòjskù	8
 że	kiedy	8
 potrzebne	są	8
 znajdowała	się	8
+w	tamtych	8
 z	uniwersytetu	8
 że	ja	8
-parafii	pw	8
 i	bądze	8
 jesz	pódzisdzen	8
 dlo	teho	8
@@ -13510,7 +13502,6 @@ tu	nad	8
 dôwô	mòżnotã	8
 jak	jãzëk	8
 przy	czym	8
-jem	tam	8
 chto	mje	8
 że	wielu	8
 nordowé	kaszëbë	8
@@ -13557,12 +13548,10 @@ długo	nie	8
 do	portu	8
 malënczi	na	8
 meczu	z	8
-i	dlôte	8
 òn	wiedno	8
 tëch	czasach	8
 ji	miono	8
 miał	być	8
-ju	swòje	8
 kaszëbi	wiedno	8
 òpùblikòwóné	na	8
 znaczenie	dla	8
@@ -13640,6 +13629,7 @@ z	ludźmi	8
 całego	pomorza	8
 przynależności	do	8
 udaliśmy	się	8
+skra	ormuzdowa	8
 chyba	że	8
 ale	jeszcze	8
 narodowy	spis	8
@@ -13709,6 +13699,7 @@ można	mieć	8
 calé	żëcé	8
 i	spokój	8
 było	i	8
+w	naj	8
 młodzowi	kùch	8
 nie	stónie	8
 na	ùrlop	8
@@ -13752,7 +13743,6 @@ diôbelsczi	kam	8
 bò	mù	8
 robił	to	8
 jaż	mù	8
-wëszedł	na	8
 jeden	béł	8
 w	szafie	8
 a	nôwicy	8
@@ -13806,6 +13796,7 @@ na	płoce	8
 ma	gò	8
 bò	téż	8
 rena	do	8
+czej	bëła	8
 i	jã	8
 w	pòwiece	8
 a	żelë	8
@@ -13834,7 +13825,6 @@ o	naszej	8
 sposób	szczególny	8
 szkólnô	òd	8
 tam	był	8
-na	wanodżi	8
 swòjã	mòc	8
 matura	z	8
 kashubian	griffins	8
@@ -13885,6 +13875,7 @@ pòmòrsczi	wòjewòda	8
 to	wedle	8
 i	dërch	8
 przëjimają	zgłoszenia	8
+go	jako	8
 świętą	w	8
 gminy	puck	8
 pióro	do	8
@@ -14013,10 +14004,10 @@ sobie	i	8
 że	ona	8
 słowôrz	normatiwny	8
 wszëskò	bëło	8
+mô	zrobioné	8
 téż	jinszi	8
 społeczności	zrzeszonej	8
 bòżena	ùgòwskô	8
-i	mielë	8
 dlô	kòłów	8
 tłësty	czwiôrtk	8
 remùsowi	drësze	8
@@ -14289,7 +14280,6 @@ jegò	żëcégò	7
 òd	nôbarżi	7
 katolëcczégò	gimnazjum	7
 nym	gardze	7
-do	chtërny	7
 robòtã	z	7
 ju	miôł	7
 z	krótczim	7
@@ -14372,7 +14362,6 @@ spikù	i	7
 òd	klucza	7
 przënôlégôł	do	7
 zapòznac	sã	7
-nôswiãtszi	mariji	7
 mariji	pannë	7
 majkòwsczégò	w	7
 czile	latach	7
@@ -14411,6 +14400,7 @@ je	mòwa	7
 w	rozmienim	7
 do	kartësczégò	7
 i	kaszëbi	7
+ò	wiéchrzëznie	7
 czile	razów	7
 jakno	apartny	7
 jãzëk	béł	7
@@ -14448,7 +14438,6 @@ na	cało	7
 wonji	tam	7
 kam	i	7
 bëc	przë	7
-leon	ze	7
 ma	radë	7
 sobą	do	7
 v	jich	7
@@ -14557,7 +14546,6 @@ ale	mjichoł	7
 jô	chcę	7
 chto	cë	7
 swòji	białczi	7
-że	może	7
 jem	ji	7
 cë	do	7
 sobje	nje	7
@@ -14649,7 +14637,6 @@ colemało	je	7
 òstatny	sesje	7
 nie	darwô	7
 wiédzë	i	7
-sã	ùczą	7
 kùńcu	sã	7
 ë	kaszëbskò-pòmòrsczi	7
 òglowi	zarząd	7
@@ -14754,7 +14741,6 @@ mie	a	7
 ë	karno	7
 karno	piesni	7
 môsz	prôwdã	7
-wkół	sã	7
 ò	zemiã	7
 droga	je	7
 sã	pózni	7
@@ -14807,7 +14793,6 @@ cos	tak	7
 nie	zdrzącë	7
 wszedł	na	7
 równo	w	7
-ò	karnie	7
 nama	jesz	7
 nen	mój	7
 sã	mùszôł	7
@@ -14913,7 +14898,6 @@ sã	wëzbëc	7
 z	pierszi	7
 nie	wzął	7
 z	młodëch	7
-z	redë	7
 niegò	na	7
 kaszëbsczi	mùzyczi	7
 miôł	miec	7
@@ -14999,7 +14983,6 @@ są	wiedno	7
 że	gôdô	7
 bëłë	dlô	7
 do	miónków	7
-ò	ùchòwanié	7
 ò	tã	7
 tã	sprawã	7
 na	rówiznie	7
@@ -15026,6 +15009,7 @@ zasłużony	dlô	7
 o	tim	7
 tam	më	7
 łączi	w	7
+lutnia	z	7
 wid	w	7
 w	mòjëch	7
 czej	mdze	7
@@ -15231,7 +15215,6 @@ sprawie	wprowadzeniô	7
 zajmów	dlô	7
 dlô	seniorów	7
 i	nigdy	7
-r	w	7
 to	przódë	7
 ju	so	7
 sã	jim	7
@@ -15249,11 +15232,13 @@ po	niej	7
 przecież	na	7
 a	obecnie	7
 w	tutejszym	7
+jego	twórczości	7
 ku	temu	7
 sztuki	w	7
 obecnie	jest	7
 jest	wiele	7
 nie	wierzëc	7
+dziś	nie	7
 na	przódk	7
 w	pôrãnôsce	7
 nó	tim	7
@@ -15332,7 +15317,6 @@ dzysô	sã	7
 wiele	placu	7
 nawlékô	do	7
 mdze	wiedno	7
-wòjnë	swiatowi	7
 do	pierszégò	7
 téż	dzãka	7
 na	wiek	7
@@ -15385,7 +15369,6 @@ wiôlgòpòstny	piesnie	7
 nich	mô	7
 czëjemë	w	7
 diversity	festival	7
-blós	kaszëbsczi	7
 przédnik	stowôrë	7
 do	dobëcô	7
 fąkcjonëje	przë	7
@@ -15479,7 +15462,6 @@ jak	jidze	7
 jak	gôdôł	7
 wëższi	szkòłë	7
 gòscã	to	7
-zatoce	puckiej	7
 robi	nad	7
 co	chto	7
 chto	ò	7
@@ -15502,7 +15484,6 @@ zôstãpca	wójta	7
 prowadzą	do	7
 rëbë	i	7
 wiéchrzëznë	zemi	7
-mln	ton	7
 ë	jaż	7
 na	ùdëtkòwienié	7
 dlô	aùtołów	7
@@ -15540,7 +15521,6 @@ dni	w	7
 je	ani	7
 rozmajité	zortë	7
 téż	dzél	7
-òd	dłëgszégò	7
 miôł	rzekłé	7
 ze	sztudérama	7
 do	dalszej	7
@@ -15683,6 +15663,7 @@ sã	żenic	7
 w	tële	7
 przekònac	do	7
 le	żebë	7
+z	drëdżima	7
 samim	zôczątkù	7
 sã	wszëtcë	7
 të	chcôł	7
@@ -15887,7 +15868,6 @@ to	gôdô	7
 to	dzéwczã	7
 mô	le	7
 jegò	òczë	7
-te	téż	7
 niech	jidze	7
 chcã	bëc	7
 jednégò	rokù	7
@@ -15986,7 +15966,6 @@ zwią	sã	7
 i	twórczość	7
 dziedzictwo	kulturowe	7
 w	krąg	7
-wójtã	gminë	7
 mùlk	w	7
 do	skłôdaniô	7
 i	pòznac	7
@@ -15995,7 +15974,6 @@ pòdobny	do	7
 całi	swój	7
 że	jaczis	7
 lëdzy	je	7
-wezdrzi	na	7
 rozwij	kaszëbiznë	7
 tam	robią	7
 kòżdi	miôł	7
@@ -16008,7 +15986,6 @@ klëkni	na	7
 sã	pitelë	7
 jegò	robota	7
 robota	polégô	7
-z	możliwością	7
 kùltura	ë	7
 społecznych	i	7
 bez	dwa	7
@@ -16025,6 +16002,7 @@ napisónëch	przez	7
 dokôz	je	7
 terô	mieszkô	7
 żebë	ta	7
+miejsce	i	7
 i	rok	7
 kaszëbsczi	institut	7
 bë	doch	7
@@ -16073,7 +16051,6 @@ wlezc	do	7
 bëło	mòje	7
 jim	sã	7
 a	ksądz	7
-gardu	kòscérzna	7
 całowny	kòszt	7
 ùrôdzëł	sã	7
 zaczął	téż	7
@@ -16088,6 +16065,7 @@ wyższej	szkole	7
 zgodę	na	7
 tegò	ju	7
 ë	pół	7
+przë	kawie	7
 boże	narodzenie	7
 w	salonie	7
 całych	kaszubach	7
@@ -16104,6 +16082,7 @@ są	słowa	7
 nich	bëło	7
 ë	te	7
 te	trzë	7
+nowi	numer	7
 kaszëbsczi	swiądë	7
 pitanié	ò	7
 mdze	òtemkłi	7
@@ -16112,7 +16091,6 @@ we	francëji	7
 ùżëtkù	w	7
 sami	sã	7
 ùkôzało	sã	7
-są	jednak	7
 kaszëbów	są	7
 wëzdrzec	na	7
 czemù	më	7
@@ -16126,7 +16104,6 @@ dąbrowsczégò	i	7
 na	trzecym	7
 na	pòmòrsczim	7
 jachôł	z	7
-w	nordowim	7
 ë	dwa	7
 òbrôz	i	7
 pôrã	taczich	7
@@ -16154,7 +16131,6 @@ też	się	7
 jak	jest	7
 wójta	gminy	7
 uroczystość	wręczenia	7
-tamtych	czasach	7
 i	dopiero	7
 problem	z	7
 się	pani	7
@@ -16169,6 +16145,7 @@ pracy	z	7
 sã	dzys	7
 pòd	ten	7
 i	trzech	7
+jem	tam	7
 güntera	grassa	7
 ti	mielë	7
 zdrząc	na	7
@@ -16241,7 +16218,6 @@ na	zemie	7
 mùszimë	wiedzec	7
 mielë	za	7
 wurvanô	spjéva	7
-iż	w	7
 mieście	i	7
 w	bardzo	7
 czują	się	7
@@ -16263,8 +16239,10 @@ nordë	i	7
 w	bùczkã	7
 i	sëna	7
 roscą	na	7
+i	dlôte	7
 którym	można	7
 będzie	miał	7
+ju	swòje	7
 mòdlëlë	sã	7
 pòlsczi	òd	7
 i	xix	7
@@ -16332,7 +16310,6 @@ le	miec	7
 czas	zéńdzeniô	7
 pòlsce	ë	7
 szkòłë	ë	7
-w	tv	7
 béł	jesz	7
 lëstë	do	7
 pòdpisóné	ùgôdënk	7
@@ -16373,7 +16350,6 @@ co	ty	7
 bardzo	szybko	7
 a	ci	7
 konkursu	jest	7
-młodego	pokolenia	7
 nie	musi	7
 przez	pana	7
 na	gochach	7
@@ -16438,7 +16414,6 @@ nôblëższą	niedzelã	7
 światowej	i	7
 sã	dzélã	7
 póki	co	7
-polish	pro	7
 you	have	7
 instead	of	7
 kaszubsko-pomorskie	oraz	7
@@ -16480,7 +16455,6 @@ województwo	pomorskie	7
 wciąż	jest	7
 w	ręce	7
 je	nasze	7
-w	naj	7
 leży	w	7
 że	jãzëk	7
 jednak	z	7
@@ -16556,6 +16530,7 @@ czerënk	na	7
 sã	ten	7
 to	twòje	7
 je	gwësnô	7
+wëszedł	na	7
 przë	jegò	7
 na	skrziżowanim	7
 z	bëlnym	7
@@ -16636,7 +16611,6 @@ a	wej	7
 do	nôs	7
 do	męża	7
 w	kartë	7
-za	niemca	7
 i	sobie	7
 co	wié	7
 wskazując	na	7
@@ -16686,6 +16660,7 @@ tej	sytuacji	7
 ich	do	7
 wcześniej	w	7
 uroczystości	w	7
+na	wanodżi	7
 sprawów	pùblicznégò	7
 krézu	òni	7
 béł	przez	7
@@ -16842,7 +16817,6 @@ działaczy	kaszubskich	7
 kaszubów	nie	7
 z	napisem	7
 coś	z	7
-wizyta	w	7
 bory	tucholskie	7
 dwóch	lat	7
 miejscowości	w	7
@@ -16884,7 +16858,6 @@ historii	w	7
 latach	i	7
 właśnie	tam	7
 dzięki	którym	7
-na	westerplatte	7
 na	drugą	7
 na	tyle	7
 i	tożsamości	7
@@ -16906,8 +16879,6 @@ chtos	w	7
 bulli	papieża	7
 za	jaczi	7
 z	udziałem	7
-created	page	7
-page	with	7
 wspólnej	rządu	7
 i	mniejszości	7
 będą	mogli	7
@@ -16945,9 +16916,7 @@ ndodhet	në	7
 dla	miłośników	7
 për	t	7
 dhe	të	7
-m	od	7
 łazienka	z	7
-pamje	nga	7
 vendosur	në	7
 òn	gôdô	7
 je	też	7
@@ -16985,6 +16954,7 @@ ja	mówię	7
 uczyłam	się	7
 samym	czasie	7
 mëszë	na	7
+i	mielë	7
 latos	sã	7
 i	telewizji	7
 ten	parobk	7
@@ -17136,6 +17106,7 @@ chdze	mje	6
 mje	woczë	6
 mje	tam	6
 sę	tede	6
+spisënk	zamkłoscë	6
 téż	lëdzy	6
 w	strzédnowiekù	6
 mô	dosc	6
@@ -17149,6 +17120,7 @@ przëpôdô	na	6
 w	nôtërze	6
 założoné	w	6
 tich	z	6
+stołowi	tenys	6
 lëczba	mówiącëch	6
 tam	òna	6
 do	dzysdniowégò	6
@@ -17359,6 +17331,7 @@ prawie	nick	6
 na	temã	6
 pòlskù	ë	6
 ne	tekstë	6
+do	chtërny	6
 gò	to	6
 w	efekce	6
 òstôł	jegò	6
@@ -17366,7 +17339,6 @@ na	niégò	6
 na	dłëgszi	6
 równak	dosc	6
 tedë	ju	6
-jegò	tekstë	6
 a	wiãc	6
 sã	mùszimë	6
 bë	nas	6
@@ -17402,7 +17374,6 @@ sę	ku	6
 jô	vjidzę	6
 wobroceł	sę	6
 sę	bëc	6
-przez	nę	6
 tak	wona	6
 ruchna	i	6
 jeden	i	6
@@ -17437,7 +17408,6 @@ krolevjonkę	i	6
 sę	dzevovała	6
 v	karnje	6
 jezorami	i	6
-tero	ju	6
 to	naszi	6
 ptôchë	z	6
 ë	zôs	6
@@ -17471,6 +17441,7 @@ w	kòscérzënie	6
 swòji	domôcy	6
 jakno	sztudéra	6
 kawalerów	a	6
+nôswiãtszi	mariji	6
 nen	gard	6
 gard	i	6
 wzãti	do	6
@@ -17558,7 +17529,6 @@ ale	wonji	6
 jich	i	6
 i	szczescé	6
 tim	nje	6
-v	nę	6
 noc	na	6
 jô	dobrze	6
 pod	pochą	6
@@ -17566,6 +17536,7 @@ chcoł	jem	6
 jezór	i	6
 vodë	i	6
 człovjek	nje	6
+leon	ze	6
 zaszła	do	6
 na	zopovjedze	6
 mają	rozmajité	6
@@ -17641,7 +17612,6 @@ dłudżi	na	6
 lasu	na	6
 i	jinszëch	6
 wiekù	do	6
-zwa	sã	6
 na	dwòrze	6
 béł	nié	6
 niedzelã	i	6
@@ -17680,7 +17650,6 @@ i	kòl	6
 wiôldżi	czwiôrtk	6
 chòdzy	na	6
 spiéwô	sã	6
-b	i	6
 pòtrzébné	do	6
 w	dodomach	6
 za	piéckã	6
@@ -17719,6 +17688,7 @@ z	remusem	6
 jakże	jô	6
 jô	wo	6
 jô	terô	6
+że	może	6
 kole	mje	6
 tam	co	6
 trzeba	go	6
@@ -17754,7 +17724,6 @@ to	cobë	6
 bëc	blós	6
 a	òsoblewie	6
 jãzëkã	ë	6
-dosc	teli	6
 na	swiãtą	6
 spôdł	z	6
 nie	dlô	6
@@ -17853,6 +17822,7 @@ je	zrobionô	6
 jinteresëją	sã	6
 dosta	wicy	6
 je	zwikszenié	6
+sã	ùczą	6
 sã	ùdôł	6
 në	cëż	6
 zarząd	kaszëbskò-pòmòrsczégò	6
@@ -17987,6 +17957,7 @@ jem	gwës	6
 dało	to	6
 wiedzec	czemù	6
 nie	gadac	6
+wkół	sã	6
 nama	cos	6
 prowadzy	na	6
 ò	taczich	6
@@ -18051,7 +18022,6 @@ nie	czëje	6
 robi	co	6
 brała	ùdzél	6
 gminë	lëpùsz	6
-chãtnëch	na	6
 miôł	do	6
 szczeniã	swiãców	6
 półtora	rokù	6
@@ -18063,6 +18033,7 @@ swòjim	nowim	6
 na	papiorze	6
 do	malowaniô	6
 sã	pòchwôlëc	6
+ò	karnie	6
 gwës	ju	6
 tedë	sã	6
 tej	òne	6
@@ -18207,6 +18178,7 @@ doprowôdzô	do	6
 pôrã	jinëch	6
 żëjącëch	na	6
 sëna	w	6
+z	redë	6
 ti	òstatny	6
 dni	pózni	6
 ò	sprawë	6
@@ -18265,7 +18237,6 @@ nicht	jich	6
 prawie	te	6
 rosce	na	6
 trzë	métrë	6
-że	bënë	6
 më	równak	6
 zazdrzóny	w	6
 jem	leno	6
@@ -18306,6 +18277,7 @@ cobë	z	6
 jich	dzejanié	6
 chto	pierszi	6
 fc	barcelona	6
+ò	ùchòwanié	6
 biôtkã	ò	6
 placów	w	6
 dodóm	nie	6
@@ -18570,6 +18542,7 @@ ale	oni	6
 nick	dzywnégò	6
 w	kwelë	6
 òd	négò	6
+r	w	6
 przódë	bëło	6
 na	latosym	6
 minie	pòd	6
@@ -18720,6 +18693,7 @@ wierã	òd	6
 jak	chòc	6
 w	òdpòwiescë	6
 historii	literatury	6
+wòjnë	swiatowi	6
 równak	tegò	6
 wòdë	do	6
 kąsk	na	6
@@ -18731,7 +18705,6 @@ w	znaczenim	6
 chtëren	mòże	6
 pierszé	kroczi	6
 ùszłégò	wiekù	6
-walce	o	6
 corôz	czãscy	6
 taczi	dbë	6
 ju	wnenczas	6
@@ -18806,6 +18779,7 @@ i	leżnosc	6
 rechùje	na	6
 barżi	swiądno	6
 swòjã	juwernotã	6
+blós	kaszëbsczi	6
 dzecë	mdą	6
 swiãto	kaszëbsczi	6
 téż	dobëc	6
@@ -18842,7 +18816,6 @@ strëmiannika	na	6
 do	fejrowaniô	6
 je	òrganizowóné	6
 je	rechòwóny	6
-w	miesãcznikù	6
 wòjcech	rëbakòwsczi	6
 na	biég	6
 nôblëższi	pòniedzôłk	6
@@ -18908,6 +18881,7 @@ edukacja	kaszubska	6
 uczestnictwa	w	6
 sobòtã	òd	6
 òbù	stronach	6
+zatoce	puckiej	6
 północnych	kaszubach	6
 tatk	sã	6
 pòchôdôł	z	6
@@ -19005,9 +18979,9 @@ kabaret	pùrtcë	6
 w	nagranim	6
 pòtikô	sã	6
 że	nôlepi	6
-drogã	ë	6
 a	kaszëbsczi	6
 przez	kaszëbsczé	6
+òd	dłëgszégò	6
 szkòłów	ë	6
 gmina	kôrsëno	6
 rzecz	rozwoju	6
@@ -19073,7 +19047,6 @@ nama	i	6
 kaszëbsczi	jednoce	6
 téż	jeden	6
 pòstawiony	w	6
-nad	dolmaczënkã	6
 tak	trzeba	6
 na	półmetkù	6
 fardich	w	6
@@ -19103,7 +19076,6 @@ ten	cel	6
 że	nikt	6
 niego	w	6
 również	o	6
-bali	się	6
 tym	wypadku	6
 o	edukacji	6
 ë	wiedno	6
@@ -19179,7 +19151,6 @@ prowadzëc	do	6
 czë	jinszé	6
 tczą	dlô	6
 czãsto	ë	6
-że	niżóden	6
 przez	pòlską	6
 jakno	przédnik	6
 tak	zwónô	6
@@ -19555,6 +19526,7 @@ przi	tim	6
 do	konkursu	6
 pëtanié	je	6
 wanożił	pò	6
+wójtã	gminë	6
 na	swiatowim	6
 restaùracje	mùlk	6
 skłôdaniô	wniosków	6
@@ -19568,6 +19540,7 @@ od	naszego	6
 mają	czas	6
 nie	wszëtcë	6
 corôz	głosni	6
+wezdrzi	na	6
 nie	zajimô	6
 blós	za	6
 so	wëòbrazëc	6
@@ -19583,6 +19556,7 @@ sóm	ze	6
 w	łebie	6
 projecht	na	6
 kòżdim	razu	6
+z	możliwością	6
 śladami	remusa	6
 w	jãzëk	6
 òstrzódk	spòlëznowi	6
@@ -19729,8 +19703,7 @@ bëc	zôczątkã	6
 ju	przë	6
 ju	móm	6
 wsą	w	6
-rozmajitëch	jimprezach	6
-nordowim	dzélu	6
+w	nordowim	6
 ë	gwësno	6
 co	wszëtkò	6
 przistãpny	w	6
@@ -19768,6 +19741,7 @@ pewnością	nie	6
 moje	dzieci	6
 jednak	od	6
 tam	już	6
+tamtych	czasach	6
 go	już	6
 günter	grass	6
 sédmë	lat	6
@@ -19780,7 +19754,6 @@ i	parafii	6
 baro	lubił	6
 mô	pòkazac	6
 je	twòje	6
-na	mszą	6
 je	jaczis	6
 sã	liczëc	6
 òb	zymk	6
@@ -19816,7 +19789,6 @@ ta	wies	6
 copnąc	sã	6
 nawetka	pò	6
 jeśli	chcesz	6
-kościoła	pw	6
 tego	okresu	6
 na	swojej	6
 pod	niebem	6
@@ -19857,6 +19829,7 @@ w	palmòwą	6
 z	trzôskã	6
 ti	krôjnë	6
 môle	w	6
+kaszëb	witô	6
 roku	jest	6
 tym	idzie	6
 w	sulęczynie	6
@@ -19945,7 +19918,6 @@ wchodzi	się	6
 to	miasto	6
 różnią	się	6
 zawsze	w	6
-obozie	koncentracyjnym	6
 przez	rozmajité	6
 wë	to	6
 i	pewno	6
@@ -19977,7 +19949,6 @@ do	dyskusji	6
 podczas	i	6
 kaszub	do	6
 obok	siebie	6
-polaków	i	6
 dba	ò	6
 mòżna	ją	6
 we	wrzeszczu	6
@@ -20103,6 +20074,7 @@ ii	kaszëbsczi	6
 że	gdańsk	6
 z	zainteresowaniem	6
 celem	konkursu	6
+młodego	pokolenia	6
 będzie	miała	6
 na	naszym	6
 w	asyście	6
@@ -20191,7 +20163,6 @@ z	gliny	6
 wojewódzkiego	konkursu	6
 wzięło	w	6
 robòtë	są	6
-gminë	gniéwino	6
 medalu	stolëma	6
 raz	kolejny	6
 w	rozmowach	6
@@ -20212,7 +20183,6 @@ lëteraturë	ë	6
 nôdgroda	je	6
 kòl	ti	6
 sztudia	na	6
-le	chùtkò	6
 jakbë	so	6
 so	jich	6
 nad	ùdbą	6
@@ -20231,6 +20201,7 @@ dzél	tegò	6
 dëtczi	z	6
 do	sprawë	6
 mógł	to	6
+polish	pro	6
 a	lot	6
 as	for	6
 but	i	6
@@ -20377,7 +20348,6 @@ w	rzędy	6
 òn	bez	6
 jima	tak	6
 chata	mô	6
-wanodżi	pò	6
 weszła	do	6
 drodżi	ë	6
 dalek	na	6
@@ -20506,7 +20476,6 @@ to	nas	6
 prawie	przë	6
 wpôdł	w	6
 z	miecha	6
-sã	nalézą	6
 jô	wiele	6
 białczi	ë	6
 dalek	nie	6
@@ -20548,6 +20517,7 @@ czasë	dlô	6
 dotąd	nie	6
 czësto	dobrze	6
 so	spòkójno	6
+te	téż	6
 gdze	jindze	6
 biéda	z	6
 nié	ten	6
@@ -20567,6 +20537,7 @@ wskazuje	na	6
 przez	chwilę	6
 ju	jidze	6
 jak	u	6
+za	niemca	6
 jak	zwykle	6
 òżeniła	sã	6
 tak	òna	6
@@ -20639,7 +20610,6 @@ na	cę	6
 nasz	kraj	6
 w	wejherowskiej	6
 w	organizacji	6
-teraz	w	6
 i	gdańska	6
 nie	dali	6
 i	działalności	6
@@ -20732,6 +20702,7 @@ gazu	z	6
 pòmòrsczi	kònkùrs	6
 razë	tëli	6
 sedzec	na	6
+złi	dëch	6
 òderwac	òd	6
 elżbiéta	prëczkòwskô	6
 na	òkò	6
@@ -20763,7 +20734,6 @@ gôdô	jegò	6
 na	ksążka	6
 sã	sprawama	6
 jem	gwësny	6
-na	wale	6
 ùpôdł	na	6
 czësto	na	6
 bãdzemë	mòglë	6
@@ -20838,7 +20808,6 @@ tekstë	są	6
 podczas	spotkania	6
 ten	ostatni	6
 wśród	których	6
-z	lëteraturë	6
 mô	trafic	6
 wiele	młodëch	6
 sã	zjiscëło	6
@@ -20856,6 +20825,7 @@ i	bôjczi	6
 w	tworzeniu	6
 właśnie	do	6
 i	wszystkie	6
+są	jednak	6
 do	niégò	6
 mògą	je	6
 czwiôrti	ewanielëji	6
@@ -20913,6 +20883,7 @@ jest	jego	6
 w	królewcu	6
 do	kaszubskiego	6
 jednak	o	6
+wizyta	w	6
 o	świcie	6
 się	działo	6
 o	książce	6
@@ -20986,6 +20957,7 @@ do	gry	6
 znajdowało	się	6
 wakacji	w	6
 do	tematu	6
+na	westerplatte	6
 wycieczkę	do	6
 i	historią	6
 przédno	do	6
@@ -21014,6 +20986,8 @@ mało	w	6
 twarzą	do	6
 droga	krzyżowa	6
 to	kaszëbsczi	6
+created	page	6
+page	with	6
 regionalnych	lub	6
 dziesięć	lat	6
 w	warunkach	6
@@ -21067,7 +21041,6 @@ nie	zmieniło	6
 tam	od	6
 bë	mògłë	6
 shkëlqyer	për	6
-którzy	byli	6
 na	ognisko	6
 z	aneksem	6
 të	rehatshëm	6
@@ -21136,7 +21109,6 @@ mëma	i	6
 jem	tegò	6
 świąt	bożego	6
 té	le	6
-dla	młodego	6
 nauczaniu	języka	6
 zôkątk	w	6
 na	a	6
@@ -21245,14 +21217,12 @@ ne	s	6
 aniół	pana	6
 zëchta	notérëje	6
 co	se	6
-ze	to	6
 bëlë	wëwiozłi	6
 byliśmy	wywiezieni	6
 i	tata	6
 także	tata	6
 no	té	6
 natkóné	klósczi	6
-sä	mï	6
 wiele	kaszëbsczi	5
 królewsczich	prësach	5
 jakno	ò	5
@@ -21365,7 +21335,6 @@ të	będzesz	5
 że	też	5
 sę	znovu	5
 vesoko	z	5
-cuż	va	5
 za	stołem	5
 po	njemjecku	5
 nje	pjił	5
@@ -21495,7 +21464,6 @@ pod	dachem	5
 przë	wognju	5
 daleko	v	5
 jesz	dziso	5
-i	povjodoł	5
 to	vjedno	5
 wu	mje	5
 povjem	cë	5
@@ -21662,7 +21630,9 @@ nich	jedna	5
 jô	sa	5
 sa	nie	5
 gdzesz	të	5
+rodnô	naj	5
 brzôd	swój	5
+naj	kaszëbsczi	5
 na	z	5
 i	tobie	5
 i	nasz	5
@@ -21739,8 +21709,8 @@ ze	szkòłowi	5
 ë	robòtë	5
 stôwôł	sã	5
 wëbrôł	sã	5
-wó	kaszebach	5
 kaszebach	e	5
+jegò	tekstë	5
 tekstë	z	5
 ale	wë	5
 abò	jaczi	5
@@ -21842,6 +21812,7 @@ ju	zaczął	5
 i	rzecze	5
 jaką	na	5
 szkół	na	5
+tero	ju	5
 do	povjedzenjô	5
 ju	bëc	5
 na	dva	5
@@ -22166,6 +22137,7 @@ mòże	ùżëwac	5
 wdôr	tegò	5
 mszë	sw	5
 całi	eùropë	5
+b	i	5
 wëstãpùje	w	5
 są	bëlnym	5
 swòje	chëczë	5
@@ -22234,7 +22206,6 @@ naji	erë	5
 na	nôlepszi	5
 sztartowi	platczi	5
 dôwają	nama	5
-dze	téż	5
 dlô	firefoxa	5
 fele	w	5
 z	gòdnika	5
@@ -22268,6 +22239,7 @@ pòmóc	w	5
 pierszi	słowôrz	5
 jinszima	ò	5
 żebë	stwòrzëc	5
+dosc	teli	5
 je	jako	5
 ë	ù	5
 ti	roscënë	5
@@ -22462,7 +22434,6 @@ wòjewódzczi	kònkùrs	5
 mie	tuwò	5
 najim	pëlckòwie	5
 sadnij	so	5
-jem	wstôł	5
 czej	ma	5
 chcôł	na	5
 miôł	të	5
@@ -22615,6 +22586,7 @@ na	próbach	5
 sóm	tekst	5
 że	wôżné	5
 spôdł	na	5
+chãtnëch	na	5
 wanogã	do	5
 felowało	téż	5
 dzecë	bëłë	5
@@ -22638,7 +22610,6 @@ jem	kąsk	5
 w	kalãdôrzu	5
 ale	miôł	5
 dzewiãc	miesący	5
-w	nodżi	5
 mòże	nen	5
 czemù	prawie	5
 ò	taczi	5
@@ -22798,7 +22769,6 @@ znóné	są	5
 swòjim	ùróbkù	5
 bëlë	m	5
 jesmë	do	5
-że	mieszkô	5
 pierszich	latach	5
 w	miesącu	5
 òrszôk	trzech	5
@@ -22928,7 +22898,7 @@ z	czech	5
 béł	kùńc	5
 pôrã	słów	5
 chòc	ju	5
-kòle	piécka	5
+że	bënë	5
 abò	mie	5
 co	widzy	5
 pózni	òn	5
@@ -23316,8 +23286,6 @@ ten	był	5
 mestwin	ii	5
 sprawy	kaszubskie	5
 książki	o	5
-chodził	do	5
-następnie	do	5
 za	późno	5
 się	obok	5
 miała	ona	5
@@ -23591,7 +23559,6 @@ nawetka	ò	5
 mô	gò	5
 z	lëteracczi	5
 pò	wëdanim	5
-òda	do	5
 dążą	do	5
 czë	mòżna	5
 taką	jak	5
@@ -23617,6 +23584,7 @@ rozwij	i	5
 lëteracczich	tekstów	5
 i	prosto	5
 nôdzeje	i	5
+walce	o	5
 pòdług	niegò	5
 a	tima	5
 kąsk	pózni	5
@@ -23673,6 +23641,7 @@ móm	jô	5
 pùdã	do	5
 z	wami	5
 pòj	ze	5
+nie	wiedząc	5
 pò	swòjim	5
 òna	równak	5
 nad	całim	5
@@ -23738,6 +23707,7 @@ jeden	projecht	5
 za	lëteracczi	5
 ùcz	sã	5
 do	zgłosziwaniô	5
+w	miesãcznikù	5
 lëteracczé	i	5
 przez	stanisława	5
 sacra	we	5
@@ -23756,7 +23726,6 @@ nôpózni	w	5
 włączeniô	sã	5
 cobë	jã	5
 òd	nôstarszich	5
-w	domôcëch	5
 òpùblikòwóny	na	5
 je	prowadzony	5
 dzecy	jaczé	5
@@ -23912,7 +23881,6 @@ to	prowadzy	5
 ù	wiele	5
 wiedno	wikszi	5
 w	wòjewództwie	5
-z	nôwikszëch	5
 z	òbéńdë	5
 niech	ju	5
 téj	séj	5
@@ -23932,7 +23900,6 @@ jantarowi	krôjnie	5
 rôczi	mùzeùm	5
 abò	frantówczi	5
 òdpòwiôdają	za	5
-wszëtczich	szkòłów	5
 mô	wëdóné	5
 wejrowskô	starostka	5
 starostka	gabriéla	5
@@ -23980,6 +23947,7 @@ drëdżé	pòtkanié	5
 mòrza	są	5
 a	dzéwczã	5
 latosy	zjôzd	5
+drogã	ë	5
 kaszëbiznë	ë	5
 téż	ùdzél	5
 europie	je	5
@@ -24093,6 +24061,7 @@ czë	dlô	5
 taczégò	jak	5
 mómë	so	5
 so	co	5
+nad	dolmaczënkã	5
 zale	do	5
 białków	z	5
 w	ùsuwanim	5
@@ -24134,6 +24103,7 @@ od	pierwszego	5
 w	dalszym	5
 dalszym	ciągu	5
 nie	ùznôwô	5
+bali	się	5
 drugiej	części	5
 że	dobrze	5
 mòżemë	dac	5
@@ -24158,7 +24128,6 @@ swòje	rédżi	5
 z	gduńsczim	5
 kùlturë	mdze	5
 w	dzysészim	5
-pasją	i	5
 ju	latos	5
 pòwrózk	wa	5
 mieszkańcowie	i	5
@@ -24227,7 +24196,6 @@ tak	wëzdrzôł	5
 mielë	so	5
 jednotë	ë	5
 ùczałi	w	5
-bóg	zaplac	5
 ùczëłë	sã	5
 mòji	szkòle	5
 jak	wszãdze	5
@@ -24261,6 +24229,7 @@ kaszëbów	przez	5
 przez	pòlsczich	5
 w	sądze	5
 naszińców	do	5
+że	niżóden	5
 kaszëbsczi	dzejôrz	5
 najim	kraju	5
 nôrodné	miészëznë	5
@@ -24337,7 +24306,6 @@ na	wid	5
 ma	nót	5
 nikògò	ni	5
 ë	mòcno	5
-c	na	5
 na	gripã	5
 hòtelu	czardasz	5
 lëdze	sami	5
@@ -24771,7 +24739,6 @@ czësto	sã	5
 co	sedzą	5
 i	dzejôrz	5
 prostëch	lëdzy	5
-sąd	nad	5
 słowów	ò	5
 je	głos	5
 dostosowóné	do	5
@@ -24827,7 +24794,6 @@ praca	zbiorowa	5
 òperacjowégò	blokù	5
 sanktuarium	królewi	5
 pòd	pùcką	5
-tô	roczëzna	5
 sobòtã	tam	5
 chëczów	i	5
 kaszëbsczim	jakno	5
@@ -25186,8 +25152,10 @@ chòc	ë	5
 i	spiéwô	5
 fòlkloristiczné	karno	5
 mùzykã	z	5
+rozmajitëch	jimprezach	5
 sygnie	przińc	5
 są	richtich	5
+nordowim	dzélu	5
 dwa	partë	5
 móże	téż	5
 org	ë	5
@@ -25254,6 +25222,7 @@ i	kościół	5
 môłi	knôp	5
 mie	tegò	5
 historiczné	spòdlé	5
+na	mszą	5
 jô	rzekã	5
 słowów	je	5
 tak	bądze	5
@@ -25415,7 +25384,6 @@ jima	téż	5
 zastanawiają	się	5
 wurvani	spjévë	5
 ale	jednocześnie	5
-które	przez	5
 przez	długie	5
 naszych	czasów	5
 zrzeszë	kaszëbskji	5
@@ -25497,6 +25465,7 @@ w	brodnicy	5
 w	przód	5
 gryfa	pomorskiego	5
 bowiem	w	5
+obozie	koncentracyjnym	5
 za	udział	5
 miejsce	za	5
 jaczim	stoji	5
@@ -25550,6 +25519,7 @@ przez	pryzmat	5
 swój	udział	5
 kaszubski	działacz	5
 w	którego	5
+polaków	i	5
 wié	co	5
 bò	nicht	5
 to	leżnosc	5
@@ -25560,6 +25530,7 @@ a	kòżdé	5
 przez	kòle	5
 zajimelë	sã	5
 mùzyka	ë	5
+żenic	sã	5
 co	twòrzą	5
 òn	tegò	5
 nie	mòglë	5
@@ -25597,7 +25568,6 @@ pò	miesącu	5
 że	rôz	5
 jesz	jaczi	5
 w	parizu	5
-miłoscë	do	5
 téż	ten	5
 nôleżałë	do	5
 mówił	w	5
@@ -25623,7 +25593,6 @@ co	deklarëją	5
 miôł	pòwstac	5
 czasu	z	5
 kwalifikòwónëch	kòsztów	5
-je	przëtrôfkã	5
 jidze	kùpic	5
 są	dëtczi	5
 bëło	bëlno	5
@@ -25859,6 +25828,7 @@ starnie	kaszëbskò-pòmòrsczégò	5
 ògniarze	z	5
 z	pòszëdłã	5
 rewitalizacje	centrum	5
+gminë	gniéwino	5
 mô	pòdpisóné	5
 wôrt	wicy	5
 spòlewi	jintegracje	5
@@ -25880,6 +25850,7 @@ konkursie	na	5
 zbiérka	na	5
 z	atrakcji	5
 kraju	do	5
+rozwoju	wsi	5
 ùwôdżi	do	5
 òd	dzys	5
 je	wiãcy	5
@@ -25891,7 +25862,9 @@ knôp	do	5
 kaszëbską	nôrodną	5
 jacha	do	5
 fejn	w	5
+le	chùtkò	5
 w	irlandii	5
+na	naj	5
 smarë	w	5
 na	czëtanié	5
 mie	dosc	5
@@ -25972,7 +25945,6 @@ nauczycielka	języka	5
 do	unii	5
 zmieniają	się	5
 że	mieszkańcy	5
-pan	profesor	5
 wielu	kaszubów	5
 ii	wielkiego	5
 że	jedna	5
@@ -25988,6 +25960,7 @@ jest	łatwe	5
 o	świecie	5
 że	u	5
 u	mnie	5
+kraj	i	5
 tym	w	5
 tekstów	z	5
 jãzëk	nie	5
@@ -26071,7 +26044,6 @@ nick	złégò	5
 złégò	nie	5
 na	òbòrze	5
 to	zatem	5
-może	na	5
 mòże	dze	5
 wëlezc	z	5
 to	lëchò	5
@@ -26082,7 +26054,6 @@ z	òstatnëch	5
 to	òsoba	5
 na	nają	5
 letkò	mòże	5
-w	na	5
 mają	wiôldżi	5
 czej	mòwa	5
 mòje	ptôchë	5
@@ -26119,7 +26090,6 @@ ze	skórë	5
 czej	no	5
 czësto	bùten	5
 jednak	mimo	5
-łącznie	z	5
 mają	terô	5
 różnego	rodzaju	5
 oczywiście	nie	5
@@ -26129,6 +26099,7 @@ jesmë	ò	5
 lat	robił	5
 pracując	w	5
 jan	piepka	5
+z	gnieżdżewa	5
 do	wëższi	5
 jego	uczestników	5
 wziął	się	5
@@ -26177,6 +26148,7 @@ béł	przed	5
 we	wrzészczu	5
 rokù	zaczãła	5
 sztudérowanié	w	5
+wanodżi	pò	5
 bëła	jegò	5
 tegò	dzejaniô	5
 bëło	corôz	5
@@ -26307,7 +26279,6 @@ całé	chmarë	5
 nôlepi	to	5
 mój	stôri	5
 do	lepszégò	5
-lepszé	czasë	5
 w	gruńt	5
 ten	piôseczk	5
 do	pòrządkù	5
@@ -26374,7 +26345,6 @@ kòżdi	ze	5
 téż	białczi	5
 drogã	przez	5
 z	òbù	5
-w	kale	5
 sztãdze	sã	5
 z	kòleczkòwa	5
 nie	nalezlë	5
@@ -26407,7 +26377,6 @@ taczich	samëch	5
 wanogã	pò	5
 stronë	są	5
 od	wczesnego	5
-z	dziadkiem	5
 nauki	w	5
 wybuchu	wojny	5
 i	kilka	5
@@ -26485,6 +26454,7 @@ gdze	òni	5
 jesz	òd	5
 a	pòtem	5
 knôp	i	5
+sã	nalézą	5
 je	waju	5
 gdze	òna	5
 balbina	z	5
@@ -26515,7 +26485,6 @@ pòd	panowanié	5
 gôdającëch	pò	5
 prësczim	państwie	5
 artikle	i	5
-le	bëłë	5
 slédny	sesje	5
 skierowany	do	5
 święta	flagi	5
@@ -26636,7 +26605,6 @@ z	aktów	5
 bëła	prôwdzëwô	5
 kaszëbsczi	mòwie	5
 kosę	klepje	5
-z	masłem	5
 za	nich	5
 stojisz	na	5
 won	movjił	5
@@ -26645,6 +26613,7 @@ tam	jaż	5
 mateùsz	titës	5
 titës	meyer	5
 relację	z	5
+teraz	w	5
 dzecy	pò	5
 tu	już	5
 w	dziale	5
@@ -26806,11 +26775,9 @@ na	przërëchtowanié	5
 gòdowi	spiéwë	5
 stronie	ùrzãdu	5
 staną	na	5
-égò	stalata	5
 zasługi	w	5
 marian	selin	5
 można	składać	5
-bezpośrednio	na	5
 się	odbywały	5
 należy	składać	5
 odpowiedzialności	za	5
@@ -26831,7 +26798,6 @@ państwowej	szkoły	5
 z	fundacją	5
 mariusz	szmidka	5
 mogłoby	być	5
-szczególnie	dla	5
 wielu	czytelników	5
 tysięcy	lat	5
 jako	miejsce	5
@@ -26898,7 +26864,6 @@ chòc	bëło	5
 do	zmianów	5
 artistnym	jãzëkã	5
 pieńdze	są	5
-zéńdzenia	w	5
 móże	nalezc	5
 nawet	pół	5
 są	coraz	5
@@ -26923,7 +26888,6 @@ gardowégò	òstrzódka	5
 to	ty	5
 dzéwczã	sã	5
 sã	pòtka	5
-tekst	do	5
 mazurka	dąbrowskiego	5
 dotacje	na	5
 téż	òbezdrzec	5
@@ -27001,6 +26965,7 @@ i	krótczé	5
 historii	kaszub	5
 bëtk	herbù	5
 ò	bëtkù	5
+z	lëteraturë	5
 bëło	wôżné	5
 młodzëznë	z	5
 ksążczi	i	5
@@ -27158,7 +27123,6 @@ czasu	bëłë	5
 ale	wszëtkò	5
 szło	mie	5
 po	długiej	5
-i	poszedł	5
 zatrzymał	się	5
 skrë	ùsôdzkòwi	5
 ùsôdzkòwi	mòcë	5
@@ -27193,7 +27157,6 @@ swòje	lata	5
 mie	gôdô	5
 pòwiôstczi	i	5
 i	rozmieje	5
-je	jinszi	5
 o	stolëmach	5
 dowiedzelë	ò	5
 i	dostôł	5
@@ -27238,7 +27201,6 @@ pùblikòwôł	w	5
 tim	pierszim	5
 pomocnicza	do	5
 gwës	mdze	5
-w	nem	5
 przed	miesącã	5
 béł	zrobiony	5
 jutro	w	5
@@ -27324,7 +27286,6 @@ jakoś	nie	5
 pochodząca	z	5
 ja	z	5
 są	takie	5
-a	kaszëbsczé	5
 kaszëbskò-pòmòrsczi	rësznotë	5
 anielsczi	jãzëk	5
 i	zasady	5
@@ -27475,7 +27436,6 @@ sp	im	5
 jerzy	stachurski	5
 gminy	żukowo	5
 jutro	będzie	5
-poszedł	do	5
 zazérôł	do	5
 taczi	mòżlëwòtë	5
 wszëtczich	mieszkeńców	5
@@ -27501,6 +27461,7 @@ një	kuzhinë	5
 të	pajisur	5
 për	ecje	5
 apartament	znajduje	5
+którzy	byli	5
 pełni	wyposażony	5
 do	wynajęcia	5
 na	wyłączność	5
@@ -27568,7 +27529,6 @@ dniach	òd	5
 liczbie	mnogiej	5
 polskim	nie	5
 òdjimków	i	5
-ô	tém	5
 janusz	korwin-mikke	5
 ùrzãd	gminë	5
 ò	nowich	5
@@ -27594,6 +27554,7 @@ tam	bądze	5
 z	naszego	5
 téż	młodi	5
 i	ùdało	5
+viola	tricolor	5
 chtos	jinszi	5
 w	wëpadkù	5
 niemiecczich	czasników	5
@@ -27665,6 +27626,7 @@ zaczãła	pisac	5
 widzôł	jak	5
 szlë	i	5
 kaszëbsczégò	institutu	5
+dla	młodego	5
 pół	dnia	5
 ë	skansen	5
 w	kòrëcënachzelowi	5
@@ -27745,7 +27707,6 @@ prezentują	się	5
 rozmawiał	z	5
 jidze	baro	5
 do	liturgii	5
-z	nazaretu	5
 nie	wiedzała	5
 bëc	wiedno	5
 w	piec	5
@@ -27785,7 +27746,6 @@ jasiek	sã	5
 podróży	do	5
 o	z	5
 nie	mówią	5
-ti	chwili	5
 béł	kąsk	5
 gãbë	nie	5
 w	knieji	5
@@ -27798,6 +27758,7 @@ pòmión	zwònów	5
 łajming	w	5
 wejrowò	mô	5
 pòd	swiecënã	5
+ò	kam	5
 w	zdrzadle	5
 je	przed	5
 jak	dodôwô	5
@@ -27805,7 +27766,6 @@ i	spitôł	5
 wiérztów	jana	5
 na	wietrze	5
 një	banjë	5
-km	nga	5
 dhe	qetësi	5
 e	madhe	5
 i	robił	5
@@ -27872,7 +27832,6 @@ na	przerwach	5
 mój	të	5
 spòdlim	materiału	5
 bòdzëk	i	5
-chùr	z	5
 we	wszëtkò	5
 dlô	słëchińców	5
 raz	je	5
@@ -27910,7 +27869,6 @@ të	të	5
 apartament	komod	5
 një	zonë	5
 e	shkëlqyer	5
-rrethuar	nga	5
 i	madh	5
 wtedy	jeszcze	5
 dlô	systemë	5
@@ -27958,6 +27916,7 @@ aniół	kaszëb	5
 na	òkreslenié	5
 kòl	zëchtë	5
 lë	chòdzy	5
+ze	to	5
 nazevo	se	5
 bëło	wszëskò	5
 efektë	pùltu	5
@@ -28289,6 +28248,7 @@ przez	jezoro	4
 wod	tich	4
 po	lestach	4
 czuc	sę	4
+dalek	i	4
 żevi	dusze	4
 i	przemiszloł	4
 z	bogjem	4
@@ -28309,6 +28269,7 @@ v	połnjé	4
 jak	noc	4
 poł	godzenë	4
 nade	drogą	4
+i	povjodoł	4
 cebje	v	4
 możesz	na	4
 jinszi	le	4
@@ -28437,7 +28398,6 @@ v	sadze	4
 na	zbłądzonigo	4
 tak	srodze	4
 za	dzecka	4
-jak	va	4
 tim	pustkovju	4
 nje	vjedzała	4
 długô	droga	4
@@ -28542,7 +28502,6 @@ wele	nënka	4
 kaszëbsczi	kraju	4
 w	sposobie	4
 cél	kaszëbóm	4
-rodnô	naj	4
 dali	domôcëznë	4
 zajasni	i	4
 nama	brzôd	4
@@ -28585,7 +28544,6 @@ zdążëła	ju	4
 baro	słabô	4
 i	bëtowa	4
 i	swiatową	4
-mô	bëlny	4
 psë	na	4
 w	ontario	4
 grób	je	4
@@ -28656,7 +28614,6 @@ pòtkôł	sã	4
 w	timże	4
 xążeczka	dlo	4
 kile	słov	4
-słov	wó	4
 jich	zemi	4
 mni	do	4
 ta	rzecz	4
@@ -28789,7 +28746,6 @@ remus	z	4
 też	beło	4
 ale	ludze	4
 z	dalekjich	4
-lepszé	żëcé	4
 ludze	sę	4
 sę	nad	4
 go	sę	4
@@ -28859,7 +28815,6 @@ miôł	wiôldżi	4
 materialny	kùlturë	4
 bëlny	ôrt	4
 òstôł	wzãti	4
-francji	i	4
 do	sopòtu	4
 zaczątkù	lat	4
 dzãka	chtërny	4
@@ -28936,8 +28891,6 @@ na	nôwëższi	4
 mòcny	i	4
 tekst	pò	4
 na	deji	4
-to	jestá	4
-jestá	z	4
 niemieckiego	języká	4
 języká	w	4
 w	słowięski	4
@@ -29214,7 +29167,6 @@ pelplińsczi	diecezji	4
 pisôł	m	4
 przëczënił	sã	4
 kubuntu	je	4
-distribùcëji	ubuntu	4
 je	wprowadzenié	4
 chtërnô	jesz	4
 je	przëstãpnô	4
@@ -29234,7 +29186,6 @@ je	pòlsczi	4
 na	wtórk	4
 klôsztór	w	4
 w	ògardach	4
-cm	i	4
 sôc	na	4
 na	zôgónkach	4
 jakô	pòwsta	4
@@ -29356,7 +29307,6 @@ cë	dô	4
 dach	nad	4
 chterni	won	4
 bog	vje	4
-juz	som	4
 ryby	z	4
 równak	taczi	4
 ë	mùszi	4
@@ -29405,6 +29355,7 @@ starnów	ë	4
 brëkòwników	linuksa	4
 linuksowi	distribùcëji	4
 taczé	sómé	4
+dze	téż	4
 naji	dolmaczënk	4
 aplikacëjów	ë	4
 jaczé	kòżdi	4
@@ -29428,7 +29379,6 @@ szkòłów	òd	4
 bëłë	dosc	4
 czedës	sã	4
 wëbrac	na	4
-radiu	gduńsk	4
 nowégò	testamentu	4
 të	bëła	4
 na	tekstë	4
@@ -29658,7 +29608,6 @@ jeżlë	nawetka	4
 na	domôcëch	4
 na	gwôsny	4
 ë	jidze	4
-téż	całą	4
 òpisónô	w	4
 swòjim	kòmpùtrze	4
 tam	tegò	4
@@ -29748,6 +29697,7 @@ dzecë	mògłë	4
 baśnie	i	4
 finał	mdze	4
 mòdré	niebò	4
+jem	wstôł	4
 czasu	to	4
 le	dało	4
 zdrzã	a	4
@@ -29808,7 +29758,6 @@ nie	rëszi	4
 równak	ta	4
 na	cepło	4
 mù	kòżdi	4
-pò	tobace	4
 w	nosu	4
 całoscë	dlô	4
 cobë	do	4
@@ -29920,7 +29869,6 @@ jadą	do	4
 mieszkô	téż	4
 jak	pòdczorchiwô	4
 gôdô	krótkò	4
-parafie	pw	4
 mô	swòji	4
 nie	mùszimë	4
 szôłtësczégò	fùnduszu	4
@@ -29992,6 +29940,7 @@ mùszi	ju	4
 ë	pònëkôł	4
 jô	sedzôł	4
 ale	szczescé	4
+w	nodżi	4
 leno	nen	4
 niã	i	4
 co	wisy	4
@@ -30209,6 +30158,7 @@ roczëzna	smiercë	4
 tim	wiôldżim	4
 tôblëca	na	4
 przédniczka	partu	4
+że	mieszkô	4
 òkôzôł	sã	4
 gdze	òd	4
 pół	trzecy	4
@@ -30404,6 +30354,7 @@ to	czile	4
 nie	czerëje	4
 rôd	je	4
 prôwdac	w	4
+kòle	piécka	4
 a	wszelejaczé	4
 jesz	jinaczi	4
 jón	drzéżdżón	4
@@ -30581,7 +30532,6 @@ i	jana	4
 òbczas	mszë	4
 długą	drogã	4
 przed	chwilą	4
-pamiątczi	z	4
 dosc	dobré	4
 dobré	ë	4
 z	domôtowa	4
@@ -30609,7 +30559,6 @@ i	nazôd	4
 sã	biôtka	4
 tu	bãdze	4
 je	jistno	4
-ò	latosym	4
 jednym	rokù	4
 tak	nó	4
 jes	richtich	4
@@ -30822,7 +30771,6 @@ dôjta	znac	4
 znaczënk	w	4
 swiądë	kaszëbów	4
 i	òjca	4
-dra	f	4
 o	północy	4
 kończą	się	4
 nie	zmieniła	4
@@ -30854,7 +30802,6 @@ z	profesorem	4
 kaszëbsczich	nót	4
 którym	obok	4
 już	wkrótce	4
-pojawią	się	4
 się	nowe	4
 artura	jabłońskiego	4
 więc	jest	4
@@ -30905,6 +30852,7 @@ lepiej	poznać	4
 miał	on	4
 na	wieki	4
 lata	życia	4
+chodził	do	4
 do	klubu	4
 gdzieś	na	4
 który	postanowił	4
@@ -31106,7 +31054,6 @@ oraz	przez	4
 i	odsłuchaj	4
 odsłuchaj	fragment	4
 sã	nazéwa	4
-tú	je	4
 czemùż	më	4
 bë	mjelë	4
 dzecë	to	4
@@ -31449,7 +31396,6 @@ wié	òn	4
 sã	krëje	4
 mdzesz	na	4
 òni	jã	4
-nie	wiedząc	4
 nama	dzysô	4
 bò	wedle	4
 téż	mùszimë	4
@@ -31567,7 +31513,6 @@ gwiôzdka	z	4
 pod	kierownictwem	4
 na	miodno	4
 zbiérka	dëtków	4
-pw	sw	4
 w	aùlë	4
 mòdlëtwë	pòlsczich	4
 òjca	adama	4
@@ -31587,6 +31532,7 @@ sygnie	na	4
 tam	mdą	4
 w	gòrãczënie	4
 na	promòwanié	4
+w	domôcëch	4
 wawrzińca	w	4
 wszëtkò	bë	4
 zacznie	na	4
@@ -31764,7 +31710,6 @@ scynaniô	kanie	4
 wkól	ni	4
 dwùch	miesącach	4
 je	wkól	4
-dló	miã	4
 szedl	dali	4
 czôrné	ë	4
 z	drëgą	4
@@ -31821,6 +31766,7 @@ w	znacznym	4
 pùcczi	hôwindze	4
 na	cësk	4
 w	pôrãdzesąt	4
+z	nôwikszëch	4
 je	założenié	4
 benedikt	karczewsczi	4
 równak	chtos	4
@@ -31835,7 +31781,6 @@ mdze	kòszta	4
 rozegracjô	jakô	4
 swiãtą	z	4
 òficjalné	òdemkniãcé	4
-jaczé	òdbëło	4
 na	zëmòwé	4
 swòją	robòtã	4
 że	rómk	4
@@ -31847,6 +31792,7 @@ brusach	piąti	4
 frantówczi	ò	4
 janie	karnowsczim	4
 wejrowsczi	zemie	4
+wszëtczich	szkòłów	4
 sztrąd	w	4
 gôdô	wejrowskô	4
 pùblëczny	biblotece	4
@@ -32223,6 +32169,7 @@ kaszëbsczé	zrzeszenié	4
 béł	lech	4
 całoscë	do	4
 wësłac	swòje	4
+pasją	i	4
 placówka	mô	4
 szkòłë	do	4
 jak	szła	4
@@ -32314,6 +32261,7 @@ a	midzë	4
 to	adóm	4
 całé	familie	4
 w	gromiczną	4
+bóg	zaplac	4
 mdze	miôl	4
 szkòle	bëło	4
 wszãdze	w	4
@@ -32504,7 +32452,6 @@ przëcygô	do	4
 czë	jinszëch	4
 nie	pòmòże	4
 je	mòckò	4
-stôré	kaszëbsczé	4
 wiémë	jak	4
 wiele	wsów	4
 swój	part	4
@@ -32593,7 +32540,6 @@ von	einem	4
 einem	unbekannten	4
 za	rôczbã	4
 a	karno	4
-tak	równo	4
 jeżlë	kaszëbi	4
 kò	wszëtcë	4
 rozmòwach	z	4
@@ -32614,7 +32560,6 @@ chcą	żebë	4
 béł	we	4
 abò	òd	4
 ò	zwikszenié	4
-żëła	w	4
 paùla	szefkã	4
 w	pùblikacje	4
 dlô	karnów	4
@@ -32652,7 +32597,6 @@ jesz	dłëgò	4
 letczi	i	4
 a	mdzesz	4
 karnawałowi	bal	4
-ùniwersytece	we	4
 ale	bë	4
 gò	jesz	4
 ë	wnetka	4
@@ -32916,7 +32860,6 @@ jednim	razã	4
 ë	môłi	4
 v	całi	4
 ale	jakùż	4
-zó	tim	4
 bë	nji	4
 òsoblëwie	tëch	4
 ë	wëdôł	4
@@ -33053,12 +32996,10 @@ fòtografków	z	4
 tam	dô	4
 co	móże	4
 òbezdrzec	tuwò	4
-znajeta	tak	4
 dzejaniô	je	4
 przédnikã	stowôrë	4
 na	drogòwé	4
 artiscë	z	4
-chcą	latos	4
 mediczny	retowiznë	4
 edicjô	verba	4
 drogów	na	4
@@ -33175,12 +33116,12 @@ ten	chtos	4
 doch	nié	4
 nié	kòżdi	4
 w	regionalnym	4
+sąd	nad	4
 mdze	wëstawiony	4
 na	wëdarzenié	4
 czasã	równak	4
 sama	sã	4
 pòdobnô	do	4
-m	w	4
 gazétników	i	4
 co	promùją	4
 tu	miôł	4
@@ -33233,7 +33174,6 @@ gôdóm	to	4
 tak	wôżné	4
 w	sërcach	4
 nie	miół	4
-darga	na	4
 ò	zemi	4
 pit	w	4
 gardu	mdze	4
@@ -33278,7 +33218,6 @@ v	svòjim	4
 jô	mùsził	4
 ë	v	4
 mój	fliger	4
-sã	wó	4
 tak	môłé	4
 że	chcôł	4
 nji	móże	4
@@ -33356,7 +33295,6 @@ sã	sobie	4
 jakbë	më	4
 sã	stałë	4
 co	nigdë	4
-potem	się	4
 głośno	i	4
 nas	się	4
 w	gminnym	4
@@ -33428,7 +33366,6 @@ robic	òdjimczi	4
 zabëtków	w	4
 narô	blós	4
 bë	chòc	4
-pò	nosu	4
 wkół	tegò	4
 ë	wszelejaczé	4
 òtemkłi	do	4
@@ -33599,7 +33536,6 @@ nie	jidã	4
 dzys	do	4
 të	kamie	4
 z	barnią	4
-dłudżi	cząd	4
 tatk	na	4
 sã	zjawiłë	4
 gò	brëkòwac	4
@@ -33743,7 +33679,6 @@ mni	wiãcy	4
 bò	przed	4
 pòłożony	na	4
 wszëtczich	chãtnëch	4
-kawie	z	4
 słëpsczégò	partu	4
 mdą	dali	4
 kaszëbsczégò	dnia	4
@@ -33771,7 +33706,6 @@ pierszi	projecht	4
 dobiwa	nadgrodë	4
 sorbonie	i	4
 wyszła	za	4
-sã	o	4
 a	rôd	4
 gmina	krokòwò	4
 krokòwò	dosta	4
@@ -33856,7 +33790,6 @@ bëlë	za	4
 nje	chca	4
 jednegò	z	4
 e	je	4
-dlô	ubuntu	4
 letkò	zrobic	4
 starnie	kaszubia	4
 kaszëbi	mieszkają	4
@@ -33929,7 +33862,6 @@ kùli	razy	4
 i	mëszlã	4
 do	kilku	4
 dobrze	robic	4
-niżóden	z	4
 ze	stôri	4
 podkreśla	się	4
 wynikało	to	4
@@ -33977,7 +33909,6 @@ jedną	òd	4
 pana	bóga	4
 naszi	przodkowje	4
 grance	kaszebskje	4
-kje	jo	4
 jo	co	4
 mjasta	pucka	4
 abo	dlo	4
@@ -34009,7 +33940,6 @@ ale	kto	4
 ale	jakże	4
 christusa	i	4
 do	ucha	4
-jidze	wó	4
 ti	to	4
 do	jutra	4
 na	niechtërnëch	4
@@ -34095,7 +34025,6 @@ chcôł	jima	4
 béł	ë	4
 całim	sobą	4
 lécczi	ë	4
-na	mësla	4
 mòże	ti	4
 pò	pôłni	4
 ë	chùtkò	4
@@ -34180,7 +34109,6 @@ uczyć	się	4
 do	woli	4
 kaszubskich	tablic	4
 wieść	o	4
-muzeum	akordeonu	4
 zainteresował	się	4
 tak	od	4
 co	też	4
@@ -34236,7 +34164,6 @@ bierze	na	4
 jezës	pierszi	4
 sã	mówi	4
 ten	wékeńd	4
-przez	aleksandrã	4
 na	puckim	4
 dzisiaj	na	4
 lekcji	historii	4
@@ -34261,6 +34188,7 @@ po	lekturze	4
 już	jej	4
 autor	tego	4
 z	jakimś	4
+które	przez	4
 z	wyjątkiem	4
 dwóch	różnych	4
 dwudziestoleciu	międzywojennym	4
@@ -34555,7 +34483,6 @@ nôsz	różk	4
 mògła	so	4
 jesz	nót	4
 i	spokoju	4
-dłëgszégò	czasu	4
 lata	z	4
 na	òglu	4
 spiéwôł	w	4
@@ -34571,6 +34498,7 @@ sã	tą	4
 w	kòntaktach	4
 z	władzama	4
 pòlsczégò	kraju	4
+miłoscë	do	4
 do	starszich	4
 do	żukòwa	4
 òsta	jegò	4
@@ -34685,7 +34613,6 @@ ludzie	są	4
 dzieje	i	4
 ludzie	się	4
 żeby	na	4
-że	niby	4
 jeżeli	się	4
 mieszkali	w	4
 nic	wspólnego	4
@@ -34744,7 +34671,6 @@ tak	zwónëch	4
 mógł	bezpieczno	4
 wiele	òd	4
 filmik	z	4
-ziéncÿ	jek	4
 i	zadania	4
 szie	w	4
 szie	na	4
@@ -34835,7 +34761,6 @@ następnie	w	4
 od	zarania	4
 widział	w	4
 no	chyba	4
-i	bóg	4
 się	znowu	4
 chòc	co	4
 swòjim	kòscele	4
@@ -34979,7 +34904,6 @@ téż	nama	4
 nama	dôł	4
 w	żëce	4
 to	znak	4
-a	jezës	4
 bënë	kòscoła	4
 pózni	jesmë	4
 i	môłą	4
@@ -35128,7 +35052,6 @@ zbiór	opowiadań	4
 wëdarzëło	sã	4
 o	takich	4
 jãzëkù	a	4
-na	naj	4
 pierszégò	maja	4
 xix	stolatim	4
 starnach	ùdbë	4
@@ -35274,6 +35197,7 @@ zagadnienia	związane	4
 dowiedzieć	się	4
 naszego	województwa	4
 podejście	do	4
+pan	profesor	4
 się	inaczej	4
 dopiero	potem	4
 się	zmienić	4
@@ -35293,7 +35217,6 @@ nie	znalazł	4
 baro	môłé	4
 nauczyciel	w	4
 do	dwóch	4
-kraj	i	4
 na	jeziorze	4
 je	równy	4
 pòd	nôdpisã	4
@@ -35362,14 +35285,12 @@ mój	tusk	4
 nie	ponosi	4
 baro	stôri	4
 ze	szwągã	4
-a	zemia	4
 do	kòscółka	4
 z	dëszë	4
 szli	do	4
 tam	ci	4
 sã	rodzą	4
 dobro	i	4
-sã	stanie	4
 się	stanie	4
 są	miejsca	4
 gdy	to	4
@@ -35433,6 +35354,7 @@ tort	z	4
 chaty	kryte	4
 miejsce	to	4
 też	wiele	4
+kaszëbsczich	jezór	4
 do	wdzydz	4
 do	juszków	4
 z	jagòdama	4
@@ -35458,6 +35380,7 @@ tych	czasach	4
 dużej	części	4
 pierszé	to	4
 na	wiéchrzëznie	4
+może	na	4
 fòrmë	ùsztôłconé	4
 i	bãdą	4
 i	nagle	4
@@ -35469,6 +35392,7 @@ je	kò	4
 mdze	dostãpny	4
 rok	żëją	4
 na	mieszkańcach	4
+w	na	4
 i	łączi	4
 tam	wszëtkò	4
 wdrażania	języka	4
@@ -35516,6 +35440,7 @@ skôcze	jak	4
 pierwszy	rzut	4
 rzut	oka	4
 się	wydawać	4
+łącznie	z	4
 zwłaszcza	dla	4
 dla	swoich	4
 miejsczi	pùbliczny	4
@@ -35651,7 +35576,6 @@ w	zabëcé	4
 starszich	klasów	4
 pôrã	knôpów	4
 głową	ë	4
-pò	sobie	4
 pòkôzôł	w	4
 pôli	sã	4
 ju	wszëscë	4
@@ -35665,7 +35589,6 @@ mia	co	4
 w	taką	4
 wezdrzë	na	4
 të	widzysz	4
-w	zôgòrzim	4
 wëdôwa	sã	4
 tej	wzął	4
 pòd	mùcą	4
@@ -36012,7 +35935,6 @@ czasu	pò	4
 za	nimi	4
 stądka	nie	4
 do	czelna	4
-ë	bùten	4
 na	swégò	4
 cygnie	pò	4
 interesowôł	sã	4
@@ -36052,6 +35974,7 @@ mòja	wies	4
 parku	krajobrazowego	4
 z	dziada	4
 należący	do	4
+z	dziadkiem	4
 klasy	szkoły	4
 w	zagórzu	4
 latach	międzywojennych	4
@@ -36071,6 +35994,7 @@ z	młodą	4
 do	stodoły	4
 mojego	ojca	4
 do	zbychowa	4
+następnie	do	4
 na	urlop	4
 dwie	siostry	4
 w	nadleśnictwie	4
@@ -36176,7 +36100,6 @@ i	swòjégò	4
 jak	wej	4
 do	drzwi	4
 swat	z	4
-siebie	na	4
 dali	a	4
 tu	dlô	4
 i	wej	4
@@ -36199,7 +36122,6 @@ zwraca	się	4
 do	balbiny	4
 mu	z	4
 na	podłogę	4
-ze	łba	4
 sã	nic	4
 nie	stanie	4
 w	młodoscë	4
@@ -36251,6 +36173,7 @@ na	zasadach	4
 pòliticzné	i	4
 sã	kaszëbskô	4
 ze	sławòszëna	4
+le	bëłë	4
 do	hańdlowégò	4
 kaszëbsczi	téater	4
 trafiają	do	4
@@ -36288,7 +36211,6 @@ je	chùtczi	4
 jesz	wikszé	4
 ù	starszich	4
 brëkòwnô	je	4
-wszëtczé	naje	4
 rësznota	na	4
 sia	nié	4
 wszëtczégò	w	4
@@ -36309,7 +36231,6 @@ rozpoczynają	się	4
 jeśli	się	4
 i	tutaj	4
 sposób	się	4
-czy	jest	4
 prezydent	miasta	4
 którym	od	4
 prawa	miejskie	4
@@ -36407,7 +36328,6 @@ zdarzało	się	4
 ruchna	w	4
 wszyscy	byli	4
 w	milczeniu	4
-sã	wnetk	4
 o	kilka	4
 co	zaczął	4
 zgromadzonych	w	4
@@ -36430,6 +36350,7 @@ biôtce	ò	4
 gôdô	barbara	4
 òsta	stwòrzonô	4
 kaszëbach	mómë	4
+je	przëtrôfkã	4
 òb	czile	4
 że	niedługò	4
 òstac	w	4
@@ -36461,7 +36382,6 @@ nie	gôdalë	4
 ë	téj	4
 mùszi	jesz	4
 nôdpisë	na	4
-powrót	pomorza	4
 na	państwa	4
 wydarzenia	sprzed	4
 z	klasë	4
@@ -36487,7 +36407,6 @@ cobë	mógł	4
 czëjesz	sã	4
 ùrzãdu	do	4
 bezpiekù	w	4
-jakò	takò	4
 piotra	zatonia	4
 pioter	zatóń	4
 park	miona	4
@@ -36516,6 +36435,7 @@ rëchtowónëch	przez	4
 wëdôwô	téż	4
 straszkovi	jizbë	4
 na	łavje	4
+z	masłem	4
 vzerac	na	4
 i	boczë	4
 jich	grobë	4
@@ -36535,7 +36455,6 @@ nje	vjedzą	4
 stojelë	na	4
 na	njebo	4
 ku	zemji	4
-a	całé	4
 na	studiach	4
 były	także	4
 nie	możemy	4
@@ -36843,6 +36762,7 @@ gminie	łãczëce	4
 jinwesticje	i	4
 kòżdi	gminie	4
 ju	wszëtcë	4
+égò	stalata	4
 wolne	miasto	4
 samorządu	województwa	4
 pomorski	szlak	4
@@ -36858,6 +36778,7 @@ z	północnej	4
 z	oddziałem	4
 na	konto	4
 składać	bezpośrednio	4
+bezpośrednio	na	4
 dostępne	są	4
 mierzei	helskiej	4
 został	wykonany	4
@@ -36908,7 +36829,6 @@ szkoły	oraz	4
 trzy	miesiące	4
 czerwca	w	4
 pomorskiego	mieczysław	4
-z	problemem	4
 idzie	z	4
 dalszej	części	4
 może	przynieść	4
@@ -36922,6 +36842,7 @@ przewożenie	towarów	4
 transportu	samochodowego	4
 zarówno	od	4
 zagrożenie	powodziowe	4
+szczególnie	dla	4
 inwestycje	są	4
 w	miejscowych	4
 pod	nią	4
@@ -37068,7 +36989,6 @@ mùltimediowô	pracowniô	4
 wejrowskô	starosta	4
 ùwidzała	sã	4
 wòłóm	do	4
-nad	jaczima	4
 minut	przed	4
 jem	dzysô	4
 w	mińskù	4
@@ -37098,7 +37018,6 @@ prozatorsczi	miona	4
 przëchôdô	czas	4
 i	seniorów	4
 mdze	jeden	4
-i	spòlëznowëch	4
 bë	òstac	4
 rézowac	pò	4
 po	kasubsku	4
@@ -37112,6 +37031,7 @@ nie	miescy	4
 za	rodżi	4
 jinspiracją	do	4
 lëczbë	mieszkańców	4
+zéńdzenia	w	4
 pierwszych	dni	4
 wejherowa	i	4
 cyklu	pòtkaniów	4
@@ -37152,6 +37072,7 @@ kòżdim	etapie	4
 warkòwniach	mògą	4
 nas	kaszubów	4
 nigdy	do	4
+tekst	do	4
 do	melodii	4
 tomaszã	fópką	4
 tym	tygodniu	4
@@ -37197,6 +37118,7 @@ piersë	i	4
 i	wzął	4
 òni	je	4
 wząc	ze	4
+lepszé	czasë	4
 wôżną	rzeczą	4
 òna	przëszła	4
 sã	pòdniosła	4
@@ -37262,7 +37184,6 @@ witolda	kùkòwsczégò	4
 somònino	òni	4
 nordowëch	fërtlów	4
 projecht	piôsznica	4
-oze	dlô	4
 ùniwersytet	przëjimô	4
 przëjimô	kańdidatów	4
 na	òddzãkòwanié	4
@@ -37326,7 +37247,6 @@ kartuz	w	4
 kòscérsczim	dodomù	4
 i	trenérów	4
 dobéł	złoti	4
-òdpòwiedzą	na	4
 i	relacje	4
 i	piękne	4
 tej	szkoły	4
@@ -37468,7 +37388,6 @@ dla	różnych	4
 ludowego	w	4
 odbywających	się	4
 powrotu	pomorza	4
-pomorza	do	4
 urodzony	w	4
 panującej	w	4
 i	wartości	4
@@ -37486,7 +37405,6 @@ w	lokalnym	4
 o	przyszłości	4
 kaszuba	z	4
 powiatu	chojnickiego	4
-wreszcie	w	4
 w	wojsku	4
 w	jakimś	4
 po	wyjściu	4
@@ -37640,6 +37558,7 @@ wôrt	bëło	4
 sã	zòrganizowac	4
 cobë	mie	4
 nie	masz	4
+i	poszedł	4
 nie	uda	4
 już	bardzo	4
 do	słońca	4
@@ -37650,7 +37569,6 @@ nigdë	jô	4
 òdmikô	òczë	4
 sóm	téż	4
 byłem	na	4
-jest	pan	4
 mamy	na	4
 profesor	uniwersytetu	4
 ze	swego	4
@@ -37723,6 +37641,7 @@ całé	mòje	4
 taczich	słów	4
 z	pisënkã	4
 przez	szkólnégò	4
+je	jinszi	4
 w	céchù	4
 czôrnégò	grifa	4
 szkólny	przedstôwiô	4
@@ -37733,7 +37652,6 @@ nôdgrodã	òd	4
 są	nima	4
 na	gònie	4
 i	lepszi	4
-haná	je	4
 tégò	gardu	4
 je	krajã	4
 ti	nie	4
@@ -37860,7 +37778,6 @@ kiedy	na	4
 armia	czerwona	4
 przeszła	do	4
 niepodległości	i	4
-do	wydania	4
 z	każdego	4
 ze	wschodu	4
 idzie	do	4
@@ -38053,8 +37970,6 @@ zamiast	tego	4
 repùblikji	cabo	4
 dze	z	4
 jesz	blós	4
-tożsamość	kultura	4
-kultura	równość	4
 cezarego	obracht-prondzyńskiego	4
 tych	osób	4
 tego	procesu	4
@@ -38275,7 +38190,6 @@ wierã	nicht	4
 swój	domôcy	4
 do	môla	4
 i	gdy	4
-spotkają	się	4
 właśnie	tutaj	4
 mieszkańców	tego	4
 kaszëbsczim	diktandze	4
@@ -38300,6 +38214,7 @@ zbùdowóny	w	4
 kaszubsko-pomorskiego	i	4
 taka	okazja	4
 niegò	to	4
+poszedł	do	4
 wspiarcé	na	4
 czasu	béł	4
 je	cekawé	4
@@ -38316,7 +38231,6 @@ ni	nalezc	4
 są	pòlôchama	4
 słowiańsczi	nôród	4
 swòjã	nôrodną	4
-ùkazywałë	sã	4
 smiercë	w	4
 taczi	prawie	4
 w	stanach	4
@@ -38580,7 +38494,6 @@ bog	doł	4
 lëteracczi	pòlaszëznë	4
 dosebné	do	4
 słowiańsczégò	jãzëka	4
-égò	stalatégò	4
 dlô	pòznaniô	4
 pòlsczich	słów	4
 nen	czasnik	4
@@ -38687,7 +38600,6 @@ i	dało	4
 panów	i	4
 gwôsny	juwernotë	4
 jinszé	ôrtë	4
-nauk	humanistycznych	4
 z	pichù	4
 a	kòmù	4
 nie	wszëtczim	4
@@ -38772,6 +38684,7 @@ swiãtim	môlu	4
 rënkù	je	4
 albo	co	4
 wkół	cządnika	4
+a	kaszëbsczé	4
 gimnasticzny	zalë	4
 w	zdrów	4
 kaszëbsczi	spiéwë	4
@@ -38806,7 +38719,6 @@ jeszcze	tam	4
 té	w	4
 prądu	nie	4
 më	sedzelë	4
-człowiek	tam	4
 ja	chodziłam	4
 nas	było	4
 mama	mówiła	4
@@ -38851,7 +38763,6 @@ jak	aniół	4
 mają	sobie	4
 czile	tidzeniów	4
 ubuntu	je	4
-w	nôslédnych	4
 i	koniec	4
 to	okazja	4
 jego	dokonania	4
@@ -39086,7 +38997,6 @@ dzélu	ùsôdzkù	4
 słëpsczégò	wòjewództwa	4
 wëżawë	dnowy	4
 łësënowé	mòrenë	4
-òbéńdze	kaszëbów	4
 w	szëchce	4
 w	rëbôkach	4
 pòwstała	na	4
@@ -39201,7 +39111,6 @@ chòc	baro	4
 tam	przë	4
 systemë	w	4
 mariana	selina	4
-wiedza	o	4
 z	rosji	4
 częściach	polski	4
 mi	z	4
@@ -39281,6 +39190,7 @@ co	jesmë	4
 za	m	4
 sztefana	fikùsa	4
 nié	kò	4
+c	na	4
 uczniowie	szkół	4
 przezérkù	kaszëbsczich	4
 nie	zdjimnã	4
@@ -39303,6 +39213,7 @@ krëwi	i	4
 powiatu	bytowskiego	4
 że	gmina	4
 bãdze	miec	4
+z	nazaretu	4
 pelplinie	i	4
 mieszkańcë	pùcczégò	4
 od	jutra	4
@@ -39408,6 +39319,7 @@ wëzwëskóné	do	4
 w	liniewie	4
 i	wlôzôk	4
 bùdë	i	4
+chùr	z	4
 swiónowsczi	parafii	4
 brat	béł	4
 a	n	4
@@ -39524,14 +39436,13 @@ uon	bël	4
 na	m	4
 dze	tatk	4
 tatk	jidze	4
+i	a	4
 szërë	na	4
 te	pieniądze	4
 wiedno	szëmi	4
 to	wszyscy	4
 gminë	cewice	4
 në	pyll	4
-përbëhet	nga	4
-nga	një	4
 idealne	miejsce	4
 apartament	w	4
 apartament	z	4
@@ -39631,7 +39542,6 @@ zapadłi	zómk	4
 rzecz	je	4
 my	na	4
 janã	trepczikã	4
-nawet	i	4
 pieniądze	i	4
 dokôzów	szkòłów	4
 wysokim	poziomie	4
@@ -39701,7 +39611,6 @@ stipendium	professional	4
 professional	placement	4
 placement	fellowship	4
 ju	wczasni	4
-ga	won	4
 z	hrintu	4
 na	miemiecczim	4
 gduńsczim	pòmòrzu	4
@@ -39739,6 +39648,7 @@ za	kòzã	4
 w	cylindrze	4
 czôpk	i	4
 sto	talarów	4
+ti	chwili	4
 na	scenã	4
 na	motywach	4
 resztą	tam	4
@@ -39753,7 +39663,6 @@ mama	mówi	4
 było	co	4
 radë	gminë	4
 jekub	ôt	4
-ô	sprazie	4
 tã	ùzdã	4
 ta	kòbła	4
 na	riwce	4
@@ -39771,6 +39680,7 @@ tata	mówi	4
 żeby	ten	4
 na	zapowiedzi	4
 kashubian	griffin	4
+coats	of	4
 of	arms	4
 pomerania	gòdnik	4
 amatorki	na	4
@@ -40033,7 +39943,6 @@ wuzdrzoł	na	3
 i	zdrzała	3
 mje	zaczął	3
 zaczął	szarpac	3
-a	va	3
 moc	mje	3
 jak	bog	3
 i	sedzoł	3
@@ -40359,7 +40268,6 @@ cuż	wona	3
 że	sobje	3
 jak	dzecko	3
 sę	zachcało	3
-że	leon	3
 naszedł	jem	3
 też	tam	3
 sę	dovjedzoł	3
@@ -40696,7 +40604,6 @@ na	skarniach	3
 moja	je	3
 te	ji	3
 co	ku	3
-w	takt	3
 krwawé	wiedlë	3
 cepë	nasze	3
 tatków	môl	3
@@ -40705,7 +40612,6 @@ do	jezór	3
 bije	w	3
 wiedno	widzysz	3
 wnet	nad	3
-lala	la	3
 pod	borem	3
 dalek	od	3
 tu	robita	3
@@ -40790,6 +40696,7 @@ mało	kaszëbów	3
 kaszëbów	kòle	3
 kòle	łebë	3
 łebë	i	3
+mô	bëlny	3
 i	letczi	3
 je	pies	3
 długòsc	òd	3
@@ -40808,7 +40715,6 @@ the	kashub	3
 kashub	people	3
 people	in	3
 je	òpublikòwóny	3
-an	english	3
 the	original	3
 barry's	bay	3
 kaszubskji	na	3
@@ -41016,7 +40922,6 @@ lati	na	3
 z	woczoma	3
 ale	vjid	3
 ze	smjegu	3
-nę	lukę	3
 nje	wodezvoł	3
 szopką	na	3
 chvjądającë	sę	3
@@ -41096,7 +41001,6 @@ won	gvesno	3
 go	wod	3
 tu	też	3
 co	porę	3
-wuzdrzoł	nę	3
 z	koscerznë	3
 v	pravi	3
 v	wostatni	3
@@ -41161,6 +41065,7 @@ kole	dnja	3
 wurosł	na	3
 bog	mje	3
 nje	movjącë	3
+lepszé	żëcé	3
 i	latem	3
 za	grzech	3
 chternim	won	3
@@ -41272,6 +41177,7 @@ davida	shulista	3
 i	môłi	3
 całi	europie	3
 azji	i	3
+i	łąkach	3
 miészi	jak	3
 nie	pamiãtają	3
 czë	przë	3
@@ -41321,6 +41227,7 @@ szło	i	3
 ôrt	rozkòscérzaniô	3
 po	tak	3
 na	frontach	3
+francji	i	3
 òsta	mù	3
 skùńczenim	wòjnë	3
 dzéla	kaszëbsczi	3
@@ -41628,7 +41535,6 @@ sę	trzęsła	3
 pjesnją	wo	3
 wopjece	boskji	3
 na	wopjekę	3
-va	sę	3
 słuchej	tero	3
 nocë	jô	3
 nje	pjije	3
@@ -41648,7 +41554,6 @@ na	mòrzach	3
 do	łowienié	3
 do	morcena	3
 marta	to	3
-jesta	va	3
 wod	dzecka	3
 ale	procem	3
 beł	ti	3
@@ -41818,6 +41723,7 @@ z	co	3
 cziles	razë	3
 ùsadzonym	w	3
 gramatikã	ë	3
+miodnô	pszczoła	3
 prawie	całé	3
 kwiatë	z	3
 wëkluwają	sã	3
@@ -41973,7 +41879,6 @@ czasowô	cona	3
 z	miészich	3
 pierszé	je	3
 tika	sã	3
-zda	sã	3
 kraju	je	3
 brëkòwónô	do	3
 z	wietewków	3
@@ -42062,6 +41967,7 @@ pòwstałë	ju	3
 wôżny	dokôz	3
 wiôldżi	rozwij	3
 xix	stolaté	3
+distribùcëji	ubuntu	3
 przëstãpnô	w	3
 téż	mòżnotã	3
 jakno	domëslnegò	3
@@ -42258,9 +42164,7 @@ b	b	3
 c	c	3
 d	d	3
 e	e	3
-f	f	3
 g	g	3
-h	h	3
 j	j	3
 k	k	3
 l	l	3
@@ -42542,6 +42446,7 @@ pòlaszëznë	i	3
 je	mòżebnota	3
 rôz	szło	3
 bëło	wëbrac	3
+radiu	gduńsk	3
 bôtach	ë	3
 jana	walkùsza	3
 słowôrz	kaszëbskò-pòlsczi	3
@@ -42572,6 +42477,7 @@ jãzëk	nen	3
 kaszëbizna	corôz	3
 swòje	stanowiszcze	3
 swiãtô	barbara	3
+wilczô	jagòdô	3
 to	zort	3
 w	południowej	3
 ù	dołu	3
@@ -42684,7 +42590,6 @@ wiadlów	ò	3
 jej	nazwa	3
 w	kębłowie	3
 we	wies	3
-posługiwano	się	3
 były	dwa	3
 òd	nôwikszich	3
 miast	w	3
@@ -42706,7 +42611,6 @@ jemù	za	3
 czej	tatk	3
 rozestac	sã	3
 ë	cëchò	3
-nasza	bëka	3
 you	would	3
 there	are	3
 but	also	3
@@ -42770,7 +42674,6 @@ ju	zsziwk	3
 nëch	ùtwórców	3
 ùtwórców	w	3
 téż	ùdbë	3
-wszëtczich	tich	3
 miona	r	3
 wôrt	dopòwiedzec	3
 w	zsziwkù	3
@@ -42905,6 +42808,7 @@ jistnieje	téż	3
 téż	mòżlewòta	3
 artiklów	na	3
 chtërnô	zamëkô	3
+téż	całą	3
 baza	pòdôwków	3
 òbrôzków	ë	3
 rôz	a	3
@@ -43027,7 +42931,6 @@ gduńskù	téż	3
 taczé	kònkùrsë	3
 i	legendy	3
 kąsk	lëdzy	3
-flot	jem	3
 dwaji	na	3
 kòle	do	3
 w	miasto	3
@@ -43134,6 +43037,7 @@ colemało	sã	3
 żlë	je	3
 je	doma	3
 doma	abò	3
+pò	tobace	3
 baro	niebezpieczné	3
 pòprawic	a	3
 na	bëlny	3
@@ -43279,7 +43183,6 @@ nią	sã	3
 drogą	nie	3
 je	ùdbą	3
 i	jidzemë	3
-ga	sã	3
 jã	ju	3
 krãcy	sã	3
 droga	to	3
@@ -43430,7 +43333,6 @@ jastrową	niedzelã	3
 czasã	òn	3
 to	bùten	3
 jastrowégò	zajka	3
-co	rzeczë	3
 pëlckòwie	dzeje	3
 swiãto	mdze	3
 że	brifka	3
@@ -43441,7 +43343,6 @@ na	zégar	3
 dlô	ùcha	3
 je	słowò	3
 sobie	stanie	3
-ga	je	3
 skądka	taczi	3
 jak	taczé	3
 tëch	biédnëch	3
@@ -43693,7 +43594,6 @@ le	mógł	3
 z	włoch	3
 sacra	to	3
 to	òsoblëwi	3
-kòscoła	pw	3
 stoji	krótkò	3
 przed	wôłtôrz	3
 jaczé	za	3
@@ -43732,7 +43632,6 @@ trzë	minutë	3
 białka	mô	3
 më	mëslimë	3
 so	wëpic	3
-zajachôł	do	3
 czëtôł	të	3
 le	wpisac	3
 jem	stôri	3
@@ -43895,7 +43794,6 @@ na	papiór	3
 òbezdrzec	sã	3
 bëlë	swiôdkama	3
 refleksji	nad	3
-jakno	rok	3
 baną	transcassubia	3
 wszëtczim	dzãka	3
 na	zjazdach	3
@@ -44208,7 +44106,6 @@ skòrno	ju	3
 na	snôżą	3
 z	kóńsczégò	3
 kładła	sã	3
-i	zaczãło	3
 że	drãgò	3
 lat	robòtë	3
 kòniama	i	3
@@ -44216,7 +44113,6 @@ krësztof	karpińsczi	3
 dogôdiwaniô	sã	3
 mie	mòja	3
 sadnął	na	3
-przëszëkòwónégò	przez	3
 miónczi	bëłë	3
 gôdô	dali	3
 że	bëlno	3
@@ -44237,6 +44133,7 @@ dochôdómë	do	3
 do	placów	3
 starã	w	3
 mdącë	w	3
+że	naj	3
 nama	swòje	3
 kò	wa	3
 co	dërch	3
@@ -44343,6 +44240,7 @@ i	òkrãtë	3
 pòchòwóny	òstôł	3
 pòd	wejrowò	3
 drëkã	w	3
+pamiątczi	z	3
 chtërnym	mòżemë	3
 co	bëlo	3
 bernat	òkòń	3
@@ -44413,6 +44311,7 @@ brzëch	i	3
 mësli	i	3
 jesz	pamiãtają	3
 më	bez	3
+ò	latosym	3
 rok	ks	3
 rokù	dwa	3
 dwa	roczi	3
@@ -44437,7 +44336,6 @@ mùszôł	ze	3
 wstac	i	3
 chcało	z	3
 ùżëté	w	3
-ùstawa	ò	3
 ò	radiu	3
 radiu	i	3
 miec	przistãp	3
@@ -44717,7 +44615,6 @@ wrócył	na	3
 zrzeszą	kaszëbską	3
 w	pózniészich	3
 co	jakno	3
-jegò	kaszëbsczich	3
 kaszëbsczich	wiérztów	3
 zbiérk	kaszëbsczich	3
 kaszëbskô	wersëjô	3
@@ -44833,7 +44730,6 @@ dze	bëłë	3
 w	dostanim	3
 z	gwësnym	3
 sã	białczi	3
-w	pòsce	3
 z	dôdówkã	3
 negò	zortu	3
 ë	jedny	3
@@ -44861,6 +44757,7 @@ uczestników	tego	3
 tego	święta	3
 znajdziecie	państwo	3
 tegorocznego	zjazdu	3
+pojawią	się	3
 i	życzymy	3
 jest	jedna	3
 czerwcu	br	3
@@ -45036,7 +44933,6 @@ lëdzy	jô	3
 w	miesczi	3
 zamëkô	òn	3
 przë	jaczim	3
-jaczim	téż	3
 do	artikla	3
 graficzi	w	3
 tegò	jakno	3
@@ -45993,7 +45889,6 @@ kaszëbskô	gwiôzdka	3
 ze	spotkania	3
 pòmòc	we	3
 na	domôcé	3
-hòspicjum	pw	3
 chtërne	mdą	3
 przë	akòmpaniameńce	3
 jesz	wòlné	3
@@ -46413,7 +46308,6 @@ parków	i	3
 nią	zrzeszony	3
 bëc	taką	3
 ë	chtëż	3
-w	cëszi	3
 mô	nas	3
 z	bënowim	3
 pò	kònkùrsu	3
@@ -46436,6 +46330,7 @@ z	kartësczim	3
 maratón	czëtaniô	3
 filmów	ò	3
 wëłączony	z	3
+jaczé	òdbëło	3
 partowi	kpz	3
 serdeczno	na	3
 òstôł	wëróżniony	3
@@ -46472,7 +46367,6 @@ czej	swiat	3
 wiater	ë	3
 i	kòngresu	3
 zajinwestuj	w	3
-je	zôs	3
 wëbróny	na	3
 kòmisje	rëbaczeniô	3
 zgłoszenia	przëjimô	3
@@ -46651,7 +46545,6 @@ przëjéżdżają	do	3
 nagrónô	w	3
 w	nômniészich	3
 nie	ùzdrzimë	3
-wejrowie	we	3
 niedługò	mdą	3
 nowim	dwòrze	3
 sã	adóm	3
@@ -47060,7 +46953,6 @@ gromadë	mają	3
 dali	ni	3
 planëje	wprowadzëc	3
 sami	mieszkańcowie	3
-całô	spòlëzna	3
 taczé	rozrzeszenié	3
 minysterstwò	bënowëch	3
 tôfle	na	3
@@ -47163,7 +47055,6 @@ nym	zéńdzenim	3
 wòjcech	mëszk	3
 dokôzów	w	3
 z	winë	3
-nie	wëdô	3
 to	zéńdzenié	3
 òsta	wëdrëkòwónô	3
 pòeticczi	dokôz	3
@@ -47313,7 +47204,6 @@ kąsk	blëżi	3
 pòla	abò	3
 za	dzéń	3
 kwiatów	ë	3
-z	dniã	3
 na	mëszlë	3
 w	wiôlgą	3
 òdżin	ë	3
@@ -47523,7 +47413,6 @@ dôwné	zwëczi	3
 spòlëznowé	żëcé	3
 róman	drżéżdżón	3
 w	reżisérie	3
-warkòwniów	i	3
 czëtińcowie	nalézą	3
 pòtkania	na	3
 autonomia	śląska	3
@@ -47637,6 +47526,7 @@ na	pòlsczé	3
 môło	chto	3
 lôt	temù	3
 czëtô	wiele	3
+stôré	kaszëbsczé	3
 czãsto	ni	3
 wchôdô	na	3
 abò	wikszi	3
@@ -47820,11 +47710,11 @@ zéńdzeniach	z	3
 jô	mëszlôł	3
 że	wierã	3
 wialdżi	dzél	3
+tak	równo	3
 ze	stôrëch	3
 nôuczi	kaszëbsczégò	3
 za	nôród	3
 ni	mógã	3
-w	hambùrgù	3
 niżóden	nie	3
 w	redakcëji	3
 dlô	szpòrtu	3
@@ -47921,6 +47811,7 @@ beczkã	piwa	3
 dwa	kùfle	3
 dzëka	abò	3
 gwiôzdczi	mògą	3
+ùniwersytece	we	3
 témë	më	3
 zôbawë	i	3
 ùczãstnicë	mają	3
@@ -48455,7 +48346,6 @@ w	mòjã	3
 mòjã	stronã	3
 tu	terô	3
 mie	chcą	3
-téż	dërch	3
 w	lepie	3
 na	lodë	3
 nigdë	nick	3
@@ -48589,7 +48479,6 @@ je	zaregistrowóné	3
 pasowôł	do	3
 pòswiãcywô	sã	3
 tej	kòl	3
-bëłë	pò	3
 nié	co	3
 czegò	wikszi	3
 juwernotë	przez	3
@@ -48631,6 +48520,7 @@ pò	rëbackù	3
 z	bialką	3
 starką	a	3
 tu	a	3
+znajeta	tak	3
 arczi	gdinie	3
 kibiców	i	3
 w	rozwij	3
@@ -48653,11 +48543,11 @@ i	badérowania	3
 stëcznika	mdze	3
 wejrowskô	kòlegiata	3
 eùropë	w	3
+chcą	latos	3
 czôłenkòwëch	szpùrów	3
 rządowé	ùdëtkòwienié	3
 rëgną	z	3
 rozwiju	gminë	3
-mdą	robioné	3
 finał	wiôldżi	3
 szpecjalistny	bòlëcë	3
 cësnienié	i	3
@@ -48763,7 +48653,6 @@ jakô	dlô	3
 i	dëtków	3
 gôdô	sóm	3
 je	starszô	3
-łączbë	w	3
 łukôsz	ewanielista	3
 trzecy	i	3
 wedle	tradycji	3
@@ -48927,8 +48816,6 @@ dosc	fest	3
 mëma	nje	3
 nje	przëszla	3
 mjala	robòtã	3
-doch	wó	3
-wó	mjã	3
 mjã	chòdzëlo	3
 drëszka	dala	3
 dala	żëletkã	3
@@ -48986,6 +48873,7 @@ je	stegna	3
 z	banë	3
 sã	dichtich	3
 dze	wszëtkò	3
+darga	na	3
 òd	starszich	3
 gduńsczi	part	3
 rozrechùj	pit	3
@@ -49047,6 +48935,7 @@ karnôlizacje	w	3
 je	ùdëtkòwionô	3
 i	dérowac	3
 prowadnym	mòtiwã	3
+skrzidło	anioła	3
 je	spòrtowé	3
 lëczba	ùczãstników	3
 ò	przemijanim	3
@@ -49231,6 +49120,7 @@ pierwszych	miejsc	3
 z	ramlejów	3
 ramlejów	w	3
 historię	kaszub	3
+potem	się	3
 się	sobie	3
 się	nagle	3
 po	której	3
@@ -49257,7 +49147,6 @@ jô	ùzdrzôł	3
 do	kaszëb	3
 pòdług	swòji	3
 w	przëwidzu	3
-mie	mój	3
 przédnikã	partu	3
 ùczba	je	3
 béł	latos	3
@@ -49289,7 +49178,6 @@ zaczinają	przigòdã	3
 przigòdã	z	3
 mają	przewidzoné	3
 wòjnë	we	3
-wieżëcë	i	3
 wedle	swiãtégò	3
 dobrô	nowina	3
 w	kanonie	3
@@ -49396,6 +49284,7 @@ czas	pòkôże	3
 lopk	w	3
 kùreszce	sã	3
 żebë	naju	3
+pò	nosu	3
 znôw	na	3
 tã	ùdbã	3
 do	wòjewòdë	3
@@ -49743,6 +49632,7 @@ jak	gadac	3
 gadac	mògą	3
 nie	spiewôj	3
 spiewôj	pùsti	3
+dłudżi	cząd	3
 mòwa	nasza	3
 jak	zymk	3
 deszcz	a	3
@@ -49772,7 +49662,6 @@ do	chatë	3
 jô	nôprzód	3
 téż	wnet	3
 na	twarzë	3
-w	mòdze	3
 a	jedny	3
 jak	drëdżi	3
 słëchôł	jem	3
@@ -49928,14 +49817,12 @@ grzegorz	schramke	3
 który	podczas	3
 chcemë	żebë	3
 më	ledwò	3
-z	bôta	3
 w	czasë	3
 jak	pùpë	3
 tak	bëlë	3
 nima	wszãdze	3
 z	kòżdą	3
 baro	pëszny	3
-na	gaz	3
 kò	chto	3
 twòja	bialka	3
 sedzôl	a	3
@@ -49994,9 +49881,122 @@ mòcą	ë	3
 jesz	zdebło	3
 bë	wprowadzëc	3
 karno	tatczëzna	3
+kawie	z	3
 z	nôleżnikama	3
 pòtkanié	to	3
 kaszëbskô	stegna	3
 lëteracczé	nôdgrodë	3
 kònkùrs	lëteracczi	3
 nowé	przédnictwò	3
+jakno	nôleżnik	3
+swiądë	ë	3
+lata	ë	3
+mają	pòkazac	3
+mało	znany	3
+je	brateczno	3
+kaszëbsczi	króm	3
+króm	w	3
+że	króm	3
+wchòdzy	do	3
+ë	kaszëbsczich	3
+kaszëbsczich	fanów	3
+w	òsoblëwim	3
+projekt	je	3
+jón	kòzłowsczi	3
+kùńcu	stëcznika	3
+òsta	òdkrëtô	3
+jãzëkach	swiata	3
+pielgrzimkã	do	3
+dobëlë	w	3
+sprawów	ë	3
+ùbëtk	a	3
+a	alicjô	3
+mòżno	òbzerac	3
+wëstôwkù	są	3
+gdinie	ë	3
+chcą	swòje	3
+są	mni	3
+tegò	nôrodu	3
+grańtowi	kònkùrs	3
+turniér	baszczi	3
+w	górny	3
+uczyliśmy	się	3
+kaszubskiego	hymnu	3
+co	dobiwa	3
+osoba	z	3
+razy	i	3
+zasłudżi	w	3
+ùmarła	na	3
+mëma	na	3
+pierre	curie	3
+z	chemiji	3
+sã	o	3
+na	ùwożanie	3
+białka	na	3
+na	uniwersytetach	3
+i	pierre	3
+oraz	we	3
+termin	ùprawieniô	3
+ùprawieniô	zawalony	3
+zawalony	drodżi	3
+w	rutkach	3
+kòsztów	jinwesticje	3
+mëlión	zł	3
+ùnie	i	3
+to	doprowadzëc	3
+w	czôrnówkù	3
+ùtwórców	mô	3
+artista	z	3
+robił	m	3
+szkle	i	3
+je	zrobienié	3
+òbrazë	na	3
+zrëszonô	w	3
+kaszëbskòjãzëkòwô	wersëjô	3
+że	kolejne	3
+stowarzyszenia	i	3
+le	mùszimë	3
+prosto	je	3
+naszi	wiédzë	3
+za	kòmùnë	3
+bò	państwò	3
+òbrôz	sã	3
+wnet	wszãdze	3
+tegò	wiôlgô	3
+wa	widzyta	3
+z	bëcym	3
+ò	wszelejaczé	3
+jak	chłopi	3
+lëdowi	kapelë	3
+mòże	përznã	3
+le	prosto	3
+chtërnégò	òn	3
+słabi	i	3
+naszã	zemiã	3
+jak	stoji	3
+ò	biôtkach	3
+miono	mô	3
+nawetka	doprowadzëc	3
+jedna	rzecz	3
+lëdzóm	sã	3
+kaszëbskô	òd	3
+swój	sztôłt	3
+temù	mòże	3
+sã	czëjesz	3
+dlô	dzecka	3
+co	tegò	3
+i	spiéwac	3
+nie	darwómë	3
+bëłë	całé	3
+tej	wzãlë	3
+jesmë	jã	3
+w	biél	3
+mùszelë	jesmë	3
+naje	serca	3
+w	edenie	3
+tak	gòrąco	3
+od	klucza	3
+do	wnętrza	3
+robiło	się	3
+granic	i	3
+w	siebie	3

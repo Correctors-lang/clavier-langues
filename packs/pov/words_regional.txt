@@ -11,7 +11,7 @@ ki	196
 un	157
 e	153
 pudi	143
-si	129
+si	128
 ka	122
 o	113
 sta	108
@@ -22,9 +22,9 @@ tene	90
 deus	87
 ten	87
 mas	77
-a	71
 es	69
 ke	67
+a	64
 da	63
 diritu	63
 fasi	54
@@ -91,9 +91,9 @@ tustumuñas	19
 pui	18
 toma	18
 dia	18
-jesus	18
 kontra	17
 buska	17
+jesus	17
 bo	17
 papia	17
 son	17
@@ -440,7 +440,6 @@ amor	4
 bos	4
 rusultadu	4
 obi	4
-or	4
 by	4
 purmesa	4
 tras	4
@@ -565,8 +564,6 @@ bissau	3
 tok	3
 setal	3
 pirdi	3
-on	3
-u	3
 kurpu	3
 alma	3
 koba	3

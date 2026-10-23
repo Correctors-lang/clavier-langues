@@ -5,7 +5,7 @@
 mɛni	ma	286
 kɛ	a	273
 a	pâi	273
-kpɔŋ	maa	265
+kpɔŋ	maa	264
 è	mò	192
 maa	tɛɛ	162
 gɛ́ɛ	dí	154
@@ -74,8 +74,8 @@ laai	la	52
 a	ŋwɛ̂lii	52
 kpaa	máŋ	52
 su	a	51
-a	kpɔŋ	51
 ɣâla	è	50
+a	kpɔŋ	50
 gîe	ma	50
 ɓé	maa	49
 nɔ́	ɓé	49
@@ -282,7 +282,6 @@ da	gɛ	20
 támaa	káa	20
 su	é	20
 tɛɛ	dípɔ	20
-ya	kɛ	20
 a	sɛŋ	20
 ziova	nĩ̂a-mɛni	20
 ziova	fé	20
@@ -297,6 +296,7 @@ pɔ́	a	19
 dí	ɣâla	19
 kɛ̀	kwa	19
 i	bîlaŋ	19
+ya	kɛ	19
 káa	lai	19
 kúɓarâŋ	kôrai-ɓelai	19
 e	kɛ́	19
@@ -1841,6 +1841,7 @@ mà	à	5
 gɛ́ɛ	ífe	5
 ǹyaa	ka	5
 fêi	gáa	5
+ŋãa	mii	5
 a	kaa	5
 gɛ́ɛ	ŋãa	5
 ǹúui	tí	5
@@ -2389,7 +2390,6 @@ káai	ma	4
 fé	ma	4
 máŋ	a	4
 dífa	ŋãa	4
-ŋãa	mii	4
 dakɛ	ma	4
 ŋãa	siɣei	4
 dîa	nyii-ŋai	4
