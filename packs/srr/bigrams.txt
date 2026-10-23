@@ -87,6 +87,7 @@ a	waaga	16
 a	wara	16
 um	a	16
 ndax	nu	16
+src	ne	16
 no	rimel	16
 kaa	na	16
 xa	ƥiy	16
@@ -221,7 +222,9 @@ cang	a	9
 no	hiid	9
 xar	refu	9
 yo	fa	9
+o	ga	9
 a	watin	9
+a	fi	9
 o	ƥiy	9
 kam	biibal	9
 a	tedu	9
@@ -270,6 +273,7 @@ mbaa	o	8
 ndax	bugaa	8
 no	lak	8
 took	asamaan	8
+fi	boo	8
 laltaa	yee	8
 sax	ee	8
 ndaa	a	8
@@ -300,6 +304,7 @@ na	a	7
 safe	no	7
 ake	in	7
 fo	we	7
+ne	o	7
 no	maat	7
 mbog	no	7
 no	mberaand	7
@@ -370,10 +375,11 @@ jof	no	6
 xan	o	6
 a	lakas	6
 lak	of	6
-o	ga	6
 fo	lakas	6
 a	njeg	6
 maad	oxe	6
+dimle	wiin	6
+fi	ke	6
 faap	um	6
 ndax	andaa	6
 nu	mbugangaa	6
@@ -393,8 +399,10 @@ fo	xa	6
 a	reeƭu	6
 a	pi	6
 yoon	fo	6
+mbi	boo	6
 nu	mbaagu	6
 a	bug	6
+bug	a	6
 kiid	xa	6
 qeƭ	ake	6
 ngim	onqe	6
@@ -541,7 +549,9 @@ yexowa	kaa	5
 yaam	a	5
 mayu	kaa	5
 ke	nu	5
+ndimle	a	5
 o	wod	5
+mbaagna	mbi	5
 yaal	o	5
 a	yoon	5
 yee	xan	5
@@ -723,6 +733,7 @@ nam	o	4
 no	ndigil	4
 a	sakna	4
 malaaka	ke	4
+ci	a	4
 na	ƭing	4
 lalit	ee	4
 we	too	4
@@ -742,6 +753,7 @@ ale	a	4
 waaga	dimle	4
 boo	nu	4
 o	waago	4
+ta	fi	4
 o	layaa	4
 fee	too	4
 ne	na	4
@@ -766,7 +778,6 @@ nu	mbaagna	4
 ta	regitna	4
 o	fagkeer	4
 in	ne	4
-mbaagna	mbi	4
 a	refu	4
 aadama	fa	4
 o	eetaand	4
@@ -988,7 +999,7 @@ milyoŋ	no	3
 maadoox	took	3
 adna	fa	3
 fa	mbonu	3
-fi	ke	3
+fi	no	3
 kiin	oxaa	3
 lay	no	3
 and	ne	3
@@ -1163,6 +1174,7 @@ too	fa	3
 fee	in	3
 yeesu	fane	3
 lalta	ee	3
+o	ndimle	3
 ndeer	den	3
 ba	nu	3
 a	keene	3

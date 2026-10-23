@@ -1,36 +1,36 @@
 # Åarjelsaemien : FineWeb-2 sma_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-jïh	32587
-lea	9326
-saemien	7581
-bïjre	5459
-leah	5454
-aaj	4784
-mah	4521
-guktie	4194
-jallh	4048
-mij	4035
+jïh	32574
+lea	9322
+saemien	7578
+bïjre	5455
+leah	5451
+aaj	4782
+mah	4520
+guktie	4192
+jallh	4044
+mij	4034
 dan	3990
-gosse	3537
+gosse	3536
 goh	3489
-jis	3473
-dïhte	3436
-dah	3305
+jis	3469
+dïhte	3435
+dah	3304
 dellie	3281
-jih	3160
-og	3061
-datne	3038
-ij	2887
-årrodh	2800
+jih	3159
+og	3059
+datne	3037
+ij	2886
+årrodh	2799
 akte	2770
-edtja	2735
-mijjieh	2714
-maam	2582
+edtja	2734
+mijjieh	2713
+maam	2581
 dam	2566
-i	2554
-maahta	2405
+i	2551
+maahta	2404
 jeatjah	2087
-dov	1975
+dov	1974
 juktie	1959
 gusnie	1942
 åvteste	1902
@@ -38,42 +38,42 @@ lij	1846
 maehtieh	1818
 dejtie	1800
 vihkeles	1753
-daate	1753
-maahtah	1726
-meatan	1622
+daate	1750
+maahtah	1725
+meatan	1621
 daan	1600
 mietie	1545
-mijjen	1529
+mijjen	1527
 edtjieh	1516
 men	1509
 manne	1499
 dej	1484
 utnieh	1460
 aktem	1423
-åarjelsaemien	1416
-jaepien	1400
+åarjelsaemien	1415
+jaepien	1401
 dovne	1395
-åadtjoeh	1385
+åadtjoeh	1383
 åadtjodh	1374
-er	1339
-på	1332
-vielie	1327
-som	1314
+er	1336
+på	1331
+vielie	1326
+som	1313
 man	1303
 sæjhta	1289
 orre	1280
 almetjh	1275
-for	1262
-ovmessie	1257
-daelie	1242
+for	1259
+ovmessie	1256
 darjodh	1239
+daelie	1239
 åtna	1233
-gaavhtan	1215
-dle	1208
-mejtie	1195
+gaavhtan	1214
+dle	1207
+mejtie	1194
 hijven	1188
 mænngan	1181
-det	1180
+det	1179
 med	1174
 til	1160
 en	1126
@@ -82,42 +82,42 @@ seamma	1118
 stoerre	1072
 utnedh	1052
 eah	1041
-joekoen	1033
+joekoen	1032
 nuhtjedh	1026
 av	1025
 gellie	1014
 gïelem	987
-naan	968
-akten	960
-aejkien	914
+naan	967
+akten	959
+aejkien	916
 sjædta	893
-abpe	889
+abpe	888
 å	888
 gaajhkh	887
 barkedh	868
-edtjh	862
-har	862
-bïevnesh	858
+edtjh	861
+har	861
+bïevnesh	857
 learohkh	855
 sov	817
 sjïere	811
 evtiedidh	811
-daesnie	809
+daesnie	808
 saemieh	808
 saemiedigkie	806
 tjïrrh	805
 orreme	804
-dejstie	802
+dejstie	801
 mov	801
 biejjien	801
-sïjhth	785
-vedtedh	784
-jienebh	777
+sïjhth	784
+vedtedh	783
+jienebh	775
 saemiej	756
 om	754
 nöörjen	750
 maanah	743
-voestes	729
+voestes	730
 soptsestidh	720
 dihte	712
 daam	711
@@ -127,55 +127,55 @@ jeahta	687
 tjuara	685
 lin	656
 saemiedigkien	651
-dejnie	649
+dejnie	648
 sijhtieh	629
-gie	626
-tjïelte	606
+gie	625
+tjïelte	605
 tjaeledh	598
 ajve	597
 daerpies	596
 lohkedh	587
 gïelesne	581
-vi	574
-maehtebe	573
+vi	573
+maehtebe	571
 jïjtse	569
 och	569
-de	564
+de	563
 sijjen	562
 göökte	560
-du	553
-båeries	548
+du	552
 akt	547
+båeries	547
 jiehtedh	545
 jïjtje	544
 jaepieh	540
 vaeltedh	538
 reaktah	533
-ih	531
+ih	530
 vööste	523
 samisk	522
-daennie	520
-barkoem	517
+daennie	519
+barkoem	516
 viehkiehtidh	499
 den	495
 dennie	493
 aktene	491
-tjïelten	490
+tjïelten	489
 buerie	489
 barkoe	487
 maanide	485
 åådtjeme	482
-maehtedh	482
-gujht	481
-at	481
+maehtedh	481
+gujht	480
+at	480
 gïeh	479
 vuejnedh	475
 fïerhten	469
 minngemes	467
-sjïdtedh	466
+sjïdtedh	465
 båata	465
-gååvnesieh	464
 doh	464
+gååvnesieh	463
 gïelh	462
 dïedtem	460
 gåessie	459
@@ -187,12 +187,12 @@ båetieh	450
 skuvlesne	450
 nuepiem	445
 lïeredh	445
-sïjse	445
-tjoerh	443
+sïjse	444
+tjoerh	442
 åådtje	442
-vadta	440
-golme	437
+vadta	439
 geerve	437
+golme	436
 bijre	435
 maahtoem	434
 mohte	428
@@ -222,18 +222,18 @@ tjuerieh	370
 dajvesne	367
 båetedh	367
 jïjtsh	367
-dorjeme	366
+dorjeme	365
 ibie	365
 digitaale	364
 viehkiem	358
 n	355
-jïjnjh	354
 soptseste	354
+jïjnjh	353
 gaavnedh	353
-edtjebe	350
 daajroem	350
-fra	346
+edtjebe	349
 joe	345
+fra	345
 aerpievuekien	344
 guhkiem	343
 viehkine	343
@@ -247,14 +247,14 @@ tjaaleme	335
 barre	334
 ånnetji	333
 reaktam	330
-dåarjoem	324
-nasjonaale	324
+dåarjoem	323
 samiske	322
+nasjonaale	322
 sjïdti	321
 ulmie	320
-lohkh	320
-raejeste	318
+lohkh	318
 buerkiestidh	317
+raejeste	317
 lïhke	314
 sámi	313
 daejtie	313
@@ -267,8 +267,8 @@ skuvle	306
 maana	304
 njaalmeldh	303
 gåetesne	301
-luvnie	297
 jïjnjem	297
+luvnie	296
 destie	296
 barkosne	295
 att	295
@@ -277,12 +277,12 @@ sïjhtebe	293
 språk	293
 darjoeh	292
 annje	291
-gïeline	290
+gïeline	289
 almetji	286
 mijjese	286
-daejredh	286
-åtnah	285
+daejredh	285
 almetje	284
+åtnah	284
 gïelen	283
 læjhkan	282
 sjidtieh	280
@@ -291,16 +291,16 @@ dehtie	278
 bïejedh	276
 stuerebe	275
 tjoerebe	275
-raajan	275
 sveerjesne	274
+raajan	274
 maanaj	273
 gåarede	272
 vihkele	272
 gaajhkide	271
 saemide	269
 dajvine	268
-barkoen	268
 idtji	268
+barkoen	267
 die	267
 buektedh	265
 dïsse	264
@@ -318,11 +318,11 @@ satne	256
 vil	256
 båatsoe	256
 im	254
-kultuvren	254
 joekehts	254
-gåajkoe	253
 veeljedh	253
 aamhtesh	253
+kultuvren	253
+gåajkoe	252
 barkijh	252
 tjïelke	251
 guhkiebasse	249
@@ -353,10 +353,10 @@ tjaelije	233
 byögkeles	232
 aarebi	232
 galka	231
-våajnoes	230
 nrk	230
-bijjelen	230
 hov	229
+våajnoes	229
+bijjelen	229
 bööremes	228
 vihth	226
 bæjjese	225
@@ -369,37 +369,37 @@ noere	222
 vuarjasjidh	222
 daejnie	222
 politihkeles	220
+gærja	219
 jeenjemes	218
 dorje	218
-åadtjoeji	218
 båetijen	218
-gærja	218
-vihkielommes	217
+åadtjoeji	217
 guvvieh	216
+vihkielommes	216
 ved	215
 mejnie	214
-ööhpehtimmie	214
 daejrieh	213
 jalhts	213
+ööhpehtimmie	213
 også	212
 daamtaj	211
 gïelide	210
 daaroen	210
 sosijaale	210
-the	209
 seedtedh	209
 daajroe	209
 råajvarimmieh	209
 jïjnje	209
 nimhtie	208
 till	208
+the	207
 sjyöhtehke	207
 maeksedh	205
 utnebe	205
 barkeme	205
-kråvnah	205
 saemiedigkieraerie	205
 gærjah	204
+kråvnah	204
 don	203
 vedtieh	202
 voestegh	202
@@ -415,13 +415,13 @@ mubpie	198
 tjaalasovveme	197
 vaeltieh	196
 barka	195
-snåsa	194
+snåsa	193
 vihties	193
 båateme	193
 nbdef	193
-sisnjelen	191
 raerieh	190
 saemiengïelesne	190
+sisnjelen	190
 enn	189
 saepmesne	189
 se	188
@@ -429,28 +429,28 @@ sijjieh	188
 luste	188
 åtneme	188
 ikke	188
+mubpien	188
 tjïelth	187
 staaten	187
 sjïehteladtedh	187
-mubpien	187
 barkeminie	186
 dåarjoe	186
 byjjes	186
 aktine	186
-skuvlen	185
 snåasen	185
 noerhtesaemien	184
+skuvlen	184
 tjarke	184
 ektie	184
 jïjtjemse	184
-jollebe	184
 jarngesne	184
-dette	182
+jollebe	183
 unnemes	182
 bielesne	182
 gïetedidh	181
 sån	181
 lohkehtæjja	181
+dette	181
 soptsestieh	181
 dagke	180
 laavenjassh	180
@@ -488,14 +488,14 @@ reaktoe	169
 mahte	169
 tuhtjie	168
 gïelese	168
-juekedh	167
 vuekieh	166
+juekedh	166
 bijjemes	165
 åålmege	165
-soptsesth	165
 tjïrrehtidh	164
 jåhta	164
 faageles	164
+soptsesth	164
 bovtsh	164
 idtjin	164
 gram	163
@@ -522,12 +522,12 @@ sisnjeli	158
 olkese	157
 in	156
 eatnemen	156
-åvtese	156
 vuj	156
 vaedtsedh	156
 edtji	156
 gellien	156
 tjaktjen	156
+åvtese	155
 dåeriedidh	155
 eejhtegh	155
 lïerehtimmiem	155
@@ -552,18 +552,18 @@ oktegh	151
 ut	151
 må	151
 and	150
-dåeriesmoerh	150
 naakenh	150
 aktede	150
 sijjesne	149
+dåeriesmoerh	149
 goerkesem	149
 faamosne	149
 sijjie	148
-vuesiehtimmieh	148
 identiteetem	148
 saaht	148
 eadtjohke	148
 barn	148
+vuesiehtimmieh	147
 andre	147
 amma	147
 bli	147
@@ -579,17 +579,16 @@ ellies	145
 såarhts	145
 jåma	145
 lissiehtidh	145
-a	144
 syökedh	144
 båatsoen	144
-namhtah	144
-blir	144
 ræhpas	144
 juhtedh	143
 nænnoestehtedh	143
 vååjnoe	143
 öörnedh	143
+namhtah	143
 gïeli	143
+blir	143
 var	143
 maahtoe	142
 vuekine	142
@@ -597,10 +596,10 @@ seg	142
 smaave	142
 saemie	142
 kultur	142
-jaksedh	141
 veeljh	141
 båarasåbpoe	141
 vaenie	141
+jaksedh	140
 beetnegh	140
 evtiedieh	140
 tïjjem	140
@@ -613,10 +612,10 @@ hoksedh	139
 aellieh	138
 jåerhkedh	138
 alle	138
-of	137
 learohke	137
 låhkoen	137
 maanagïerte	137
+of	136
 damtedh	136
 nuepie	136
 lim	136
@@ -655,18 +654,19 @@ veanhta	130
 sïjhtem	130
 reerenasse	129
 laake	129
-mubpiej	129
 tjaala	129
 lohkehtæjjah	129
 mïsse	129
 vadteme	128
 jiehtieh	128
+mubpiej	128
 åarjel	128
-muvhth	128
 lohkeme	128
 gellieh	127
+muvhth	127
 utni	127
 reereme	126
+a	126
 daarpesjieh	126
 etter	126
 får	126
@@ -685,12 +685,12 @@ prosjekte	123
 åvtelhbodti	122
 julevsaemien	122
 aamhtese	122
-ryöktesth	122
 nænnoestamme	122
 laaken	121
 eatneme	121
 tsiehkieh	121
 nov	121
+ryöktesth	121
 mange	121
 faamoem	120
 vaalteme	120
@@ -707,22 +707,22 @@ tjaatsestidh	119
 bæjhkoehtidh	118
 våaromem	118
 sjeahta	118
-mubpide	118
 våaroeminie	118
 jåarhkeskuvlesne	118
 kommune	118
 byöroe	117
 kaanne	117
 gihtjedh	117
+mubpide	117
 disse	117
 dïenesjh	116
 tsevtsedh	116
-vuajnoeh	116
 mer	116
 vuelkedh	116
 ektiedamme	116
 mujhtieh	116
 luhkie	116
+vuajnoeh	115
 ett	115
 gaajhke	115
 aamhtesi	115
@@ -733,7 +733,6 @@ jieleme	114
 luhpiem	114
 tïjje	114
 tjïeltine	114
-denne	114
 både	114
 gærhkoe	114
 skole	114
@@ -747,6 +746,7 @@ bovtse	112
 gieh	112
 vaalta	112
 almetjen	112
+denne	112
 tråantesne	112
 reeremedajvesne	111
 bovtsigujmie	111
@@ -784,14 +784,13 @@ baakoe	107
 gærhkosne	107
 nuhtjebe	106
 sijjine	106
-nuekies	106
 maanan	106
 sijte	106
 jååhkesjidh	106
 daejstie	106
 sæjrosne	106
 lissiehtamme	106
-j	105
+nuekies	105
 sisvegem	105
 tjaalah	105
 fer	105
@@ -810,6 +809,7 @@ mannem	104
 siebriedahken	104
 saemiengïele	104
 nuhtjie	104
+j	103
 tjïelkestidh	103
 maahtam	103
 privaate	103
@@ -825,7 +825,6 @@ jarkan	102
 nå	102
 vuelie	101
 vuesiehtimmie	101
-sisvege	101
 nænnoste	101
 dijjieh	101
 edtjem	101
@@ -835,6 +834,7 @@ jaepie	101
 nb	101
 ekonomeles	101
 bieline	101
+sisvege	100
 åejvie	100
 laavenjostoe	100
 raasten	100
@@ -854,7 +854,6 @@ ble	98
 laavenjostedh	98
 tjaalegisnie	97
 daamhtaj	97
-soptsestalledh	97
 tuhtjem	97
 aelkieh	97
 aehtjie	97
@@ -864,13 +863,11 @@ lïhtsegh	97
 praktihkeles	97
 veeljemisnie	97
 han	97
-kr	96
+soptsestalledh	96
 veartenen	96
 filme	96
-daltesisnie	96
 doelehtovveme	96
 jienebe	95
-gåetien	95
 nyjsenæjjah	95
 uvtemes	95
 sápmi	95
@@ -883,7 +880,9 @@ learohki	95
 psykiske	95
 jååhkesjamme	95
 kommer	95
+daltesisnie	95
 smi	95
+gåetien	94
 filmh	94
 asken	94
 vaestiedidh	94
@@ -891,28 +890,28 @@ saemiengïelem	94
 goevten	94
 minngemosth	94
 bååstide	93
-gaajhki	93
 sjiehteles	93
-dahkoe	93
 guessine	93
 dorjesovveme	93
-når	93
 ta	93
 beajjetje	92
 jielije	92
+gaajhki	92
 histovrijem	92
+dahkoe	92
 almetjem	92
 gaajh	92
 dååjredh	92
-dotkeme	92
+når	92
 löönedh	92
 mubpiejgujmie	92
 gaaltijh	92
 formaate	92
 reakta-aajhtere	92
-b	91
 iktegisth	91
 åestedh	91
+kr	91
+dotkeme	91
 jaepiem	91
 tseegkeme	91
 gærjesne	91
@@ -944,7 +943,6 @@ beaja	89
 veartenisnie	89
 seabradahkesne	89
 sæjjan	88
-ohtsemem	88
 daerpiesvoeth	88
 seedth	88
 byörh	88
@@ -958,10 +956,9 @@ keskitalo	88
 ussjedadtedh	88
 jarkelidh	87
 laantine	87
+ohtsemem	87
 millijovnh	87
-daejrebe	87
 vihtiestidh	87
-nöörje	87
 naakede	87
 jieledem	87
 tsiehkine	86
@@ -974,12 +971,12 @@ tjidtjie	86
 gïehtelidh	86
 aejlies	86
 sjidtedh	86
+daejrebe	86
 åtnose	86
+nöörje	86
 v	85
 sinsitniem	85
 kommunen	85
-ennje	85
-aadtjen	85
 hammoedidh	85
 båatsosne	85
 tjåenghkies	84
@@ -993,6 +990,8 @@ båeteme	84
 jijtje	84
 laavenjostosne	84
 nualan	84
+ennje	84
+aadtjen	84
 gïeleldh	84
 staateles	83
 bueriedidh	83
@@ -1039,7 +1038,6 @@ laavenjostoem	81
 pryövedh	80
 gaskoeh	80
 din	80
-flere	80
 teekste	80
 åtnoe	80
 faalenassem	80
@@ -1052,11 +1050,11 @@ gaskesem	79
 ektievoetem	79
 unnebe	79
 del	79
-faala	79
 illedahkh	79
 lïhkemes	79
 maanam	79
 tjeeli	79
+flere	79
 lïereme	79
 saepmie	79
 båatsose	79
@@ -1073,6 +1071,7 @@ ringkedh	78
 ulmiem	78
 fïerhtene	78
 jeatjahlaakan	78
+faala	78
 sagke	78
 biejedh	77
 dåastodh	77
@@ -1135,7 +1134,6 @@ ringkh	73
 healsoen	73
 varki	73
 gode	73
-åvtehkinie	73
 sïjhti	73
 dajveste	73
 tjåanghkosne	73
@@ -1149,6 +1147,7 @@ guhkebe	72
 muvhtene	72
 domtesh	72
 gååvnesh	72
+åvtehkinie	72
 mïelem	72
 gåaredh	72
 madtjeles	72
@@ -1156,7 +1155,6 @@ ulmine	72
 baaktoe	72
 aajege	72
 nuhteligs	72
-vuesiehtamme	72
 viehkiehtieh	72
 konsekvensh	72
 tjoerin	72
@@ -1170,9 +1168,9 @@ baakoem	71
 tsiehkiej	71
 jupmelen	71
 meehti	71
+vuesiehtamme	71
 darjoeji	71
 såevmien	70
-soejkesje	70
 aarhskuvlesne	70
 golken	70
 mellom	70
@@ -1187,6 +1185,7 @@ jarkelimmieh	70
 saernieh	70
 geehtedh	69
 hævvi	69
+soejkesje	69
 satnem	69
 eannan	69
 dejgujmie	69
@@ -1248,6 +1247,8 @@ stoere	66
 gïelijste	66
 aktöörh	66
 darjobe	65
+b	65
+guvviem	65
 luhpie	65
 ööhpehtæmman	65
 tjïerteste	65
@@ -1262,14 +1263,12 @@ sïjte	65
 raeriestimmieh	65
 gaskemsh	65
 lustes	65
-eelkin	65
 mejgujmie	65
 veele	65
 tseegkesovveme	65
 stillingen	65
 nåhtadidh	64
 gïetede	64
-guvviem	64
 maaksoem	64
 dajvh	64
 dajven	64
@@ -1281,6 +1280,7 @@ arktiske	64
 vår	64
 bïhkedidh	64
 veeljije	64
+eelkin	64
 dåarjojne	64
 pryövenassem	64
 isbn	64
@@ -1314,7 +1314,6 @@ dåarjoeh	62
 vaaksjodh	62
 mujhtedh	62
 muvhten	62
-åahpenidh	62
 råakedh	62
 kreava	62
 sametingets	62
@@ -1331,6 +1330,7 @@ litteratuvre	62
 raeriestidh	61
 reeredh	61
 tuhtjh	61
+åahpenidh	61
 iehkeden	61
 sinsitnine	61
 samarbeid	61
@@ -1430,7 +1430,6 @@ slik	56
 maanagïerten	56
 veelti	56
 unnebelåhkojde	56
-vaadtsa	56
 daehtie	56
 sïemes	56
 fïereguhte	56
@@ -1459,6 +1458,7 @@ aajne	55
 utvikling	55
 provhkedh	55
 gåhkese	55
+vaadtsa	55
 aahka	55
 evtiedæmman	55
 dillie	55
@@ -1511,7 +1511,6 @@ sjïehtedidh	53
 regijonaale	53
 maereles	53
 baelien	53
-barki	53
 illedahke	53
 ska	53
 boka	53
@@ -1541,6 +1540,7 @@ veeljemem	52
 veeljemen	52
 lidteratuvre	52
 tsavtsa	52
+barki	52
 lohkehtæjjine	52
 åajvahkommes	52
 buakteme	52
@@ -1561,7 +1561,6 @@ lïerehtæmman	52
 baajnehtidh	52
 vaksineeredh	52
 eatnemefaage	52
-e	51
 barkojde	51
 fealadidh	51
 evtiedimmesne	51
@@ -1579,13 +1578,11 @@ teemah	51
 inte	51
 skuvlide	51
 sijjien	51
-tar	51
 aamhtesidie	51
 nænnoestimmieh	51
 lïhtsege	51
 faalenasse	51
 vyörtegs	51
-tid	51
 buektiehtamme	51
 biehkiem	51
 konvensjovne	51
@@ -1607,12 +1604,13 @@ vaadtseme	50
 vijries	50
 reaktide	50
 hele	50
+tar	50
 norske	50
 gelliej	50
 veelkes	50
 laula	50
-mïetsken	50
 tjåanghkose	50
+tid	50
 siebriedahkine	50
 unnebelåhkoeh	50
 eejnegen	50
@@ -1642,6 +1640,7 @@ tjöönghkeme	49
 tjïelkeste	49
 noe	49
 staeriedidh	49
+mïetsken	49
 råållam	49
 jearohke	49
 raeriestimmiem	49
@@ -1701,7 +1700,6 @@ derfor	47
 ussjede	47
 aalkah	47
 öörnege	47
-behov	47
 biejjeste	47
 ryöknedh	47
 beajjan	47
@@ -1727,7 +1725,7 @@ jïjtjemem	47
 gïelevåhkoe	47
 matematihkesne	47
 gyhtjelassine	46
-on	46
+e	46
 seedtesåvva	46
 nænnoestimmiem	46
 voenesne	46
@@ -1739,6 +1737,7 @@ rïektesisnie	46
 jaapan	46
 sïjhtin	46
 bearjadahken	46
+behov	46
 krïevedh	46
 karasjohkesne	46
 gåaroes	46
@@ -1757,6 +1756,7 @@ röörosen	46
 mt	46
 dåarjoen	45
 bovtsem	45
+on	45
 gååvnesidh	45
 bovtside	45
 bæjhkoehtimmie	45
@@ -1801,14 +1801,11 @@ lieredh	44
 bovtsen	44
 bruke	44
 årroji	44
-c	44
 laehpedh	44
 vadtasåvva	44
 aalkoe	44
 sjidteme	44
-innen	44
 orrestidh	44
-ungdom	44
 dïjrem	44
 soe	44
 la	44
@@ -1837,7 +1834,6 @@ duekesne	43
 gujhth	43
 sjugniedieh	43
 vært	43
-bruk	43
 vårt	43
 lægan	43
 ööhpehtidh	43
@@ -1848,7 +1844,9 @@ båajhtoeh	43
 guessieh	43
 byjjenamme	43
 geajnoe	43
+innen	43
 leder	43
+ungdom	43
 murreds	43
 sijhth	43
 argumentasjovne	43
@@ -1898,7 +1896,6 @@ vuekiej	42
 unnebelåhkoegïelem	42
 govlh	42
 uktsie	42
-utdanning	42
 innenfor	42
 öörnedidh	42
 ine	42
@@ -1926,7 +1923,6 @@ identiteeten	42
 eengelsken	42
 krirrieh	42
 aelhkies	41
-s	41
 juhtiehtidh	41
 ræjhkoes	41
 tjïeltese	41
@@ -1937,7 +1933,6 @@ fuelhkien	41
 bïejesåvva	41
 les	41
 veedtsi	41
-aajmene	41
 voelph	41
 dotkijh	41
 dasseme	41
@@ -1946,6 +1941,7 @@ ord	41
 stuvreme	41
 vijriebasse	41
 styrke	41
+utdanning	41
 snåase	41
 boelhkine	41
 gïese	41
@@ -1954,7 +1950,6 @@ daelvien	41
 magga	41
 vaallah	41
 easkah	41
-fjellheim	41
 guarkoeh	41
 larsen	41
 vedti	41
@@ -1971,7 +1966,6 @@ aalkoe-almetji	41
 lidteratuvrem	41
 symptomh	41
 sïjhtieh	40
-veeljemh	40
 kultuvremojhtesh	40
 garmeres	40
 jïlleskuvle	40
@@ -1983,6 +1977,7 @@ tjieltesne	40
 åasam	40
 goerehtimmie	40
 skïemtjelassem	40
+aajmene	40
 sijjem	40
 sijse	40
 naakenem	40
@@ -2006,6 +2001,7 @@ jijnjem	40
 dæjman	40
 byjresem	40
 støtte	40
+fjellheim	40
 nr	40
 dååjrehtimmiem	40
 haarjanidh	40
@@ -2020,11 +2016,11 @@ statusem	40
 pension	40
 nu	40
 dååjresh	40
-jaehkedh	40
 teemesne	40
 goltelh	40
 dåårjeme	40
 kreatijve	40
+veeljemh	39
 gaskenasjovnaale	39
 laakesne	39
 sjædtoeh	39
@@ -2041,7 +2037,6 @@ område	39
 upmejen	39
 kunnskap	39
 giejnie	39
-sijtesne	39
 råajvarimmie	39
 veaksehke	39
 muhteste	39
@@ -2070,11 +2065,13 @@ veeljesovveme	39
 dunnie	39
 moerh	39
 it	39
+jaehkedh	39
 erfaring	39
 eengelske	39
 persovnebïevnesh	39
 gïeleviehkie	39
 li	39
+s	38
 ektiedimmesne	38
 nedtesne	38
 barkoesijjieh	38
@@ -2084,10 +2081,12 @@ luhkieh	38
 gaahpode	38
 gallesh	38
 laavlodh	38
+bruk	38
 identiteetese	38
 meänkieli	38
 vihteste	38
 åarjelh-saemien	38
+sijtesne	38
 unnebelåhkoegïelide	38
 sjïerelaakan	38
 mïrrestalleme	38
@@ -2123,7 +2122,6 @@ veeljemesïetelh	38
 råajvarimmiej	38
 båantah	38
 persovnebïevnesidie	38
-helse	38
 dikth	38
 elektrovneles	37
 fierhten	37
@@ -2139,7 +2137,6 @@ suerkesne	37
 här	37
 syökemem	37
 gïehtelieh	37
-materijelle	37
 kommun	37
 tsiehkesne	37
 maadtoe	37
@@ -2163,6 +2160,7 @@ giesege	37
 biologeles	37
 teemam	37
 baernieh	37
+helse	37
 laavkome	37
 baalhkam	37
 jïenestidh	37
@@ -2194,6 +2192,7 @@ bievnesh	36
 arbeidet	36
 våre	36
 fokus	36
+materijelle	36
 irhkemem	36
 mubpene	36
 jesus	36
@@ -2271,7 +2270,6 @@ måjhtam	35
 vierhtide	35
 gålkoen	35
 saemiengïelese	35
-dorjesovvedh	35
 ligger	35
 vaajtelibie	35
 maja	35
@@ -2302,7 +2300,6 @@ lahtesh	35
 buerkiestieh	35
 lidteratuvreste	35
 etihkeles	35
-visuelle	35
 bijjene	34
 org	34
 maeksieh	34
@@ -2335,6 +2332,7 @@ barkoedåehkie	34
 somby	34
 fag	34
 vierhtijste	34
+dorjesovvedh	34
 aejlegen	34
 nytt	34
 hammoe	34
@@ -2368,8 +2366,8 @@ seabradahke	34
 e-skuvle	34
 åvtelhaarvoeh	34
 søker	34
+visuelle	34
 design	34
-gïelegaaltije	34
 cand	34
 aanna	33
 dållem	33
@@ -2411,7 +2409,6 @@ reektehtsem	33
 steinfjell	33
 tjiehpiedæjjah	33
 saemiedigkine	33
-tell	33
 gåarodh	33
 elevene	33
 dåehkiej	33
@@ -2430,6 +2427,7 @@ vaahram	33
 arbeiderpartiet	33
 sy	33
 englaantengïelesne	33
+gïelegaaltije	33
 polarbibblosne	33
 maaksoe	32
 bæjhkohte	32
@@ -2439,7 +2437,6 @@ aehtjebe	32
 aavosne	32
 vesties	32
 åelkiesbielesne	32
-cd	32
 gåetieluhpiem	32
 plaerieh	32
 politihkerh	32
@@ -2480,6 +2477,7 @@ jueriedisnie	32
 illedahkide	32
 vuelielisnie	32
 meedijinie	32
+tell	32
 gaebpien	32
 berit	32
 dom	32
@@ -2501,6 +2499,7 @@ raeriestamme	31
 beavna	31
 kultuvreaerpiem	31
 kanne	31
+cd	31
 veajkoej	31
 nåhkehtidh	31
 dån	31
@@ -2510,6 +2509,7 @@ guesside	31
 såjhtoem	31
 litteratur	31
 analyseradidh	31
+c	31
 jååhkesjimmie	31
 övtiedidh	31
 viehkiehtamme	31
@@ -2518,7 +2518,6 @@ daarpesjidh	31
 daaroeh	31
 sametingsrådet	31
 vierhtiej	31
-aktesne	31
 prosjektide	31
 nåå	31
 viser	31
@@ -2594,8 +2593,8 @@ skuvleste	30
 rørosesne	30
 rååresjidh	30
 våarhkoe	30
+aktesne	30
 tellefovnesne	30
-voksne	30
 ïedtji	30
 buektiehtibie	30
 daajram	30
@@ -2634,14 +2633,12 @@ tseahkan	30
 jïjtsevoeth	30
 vuelien	30
 raedtesne	30
-latjkoen	30
 martin	30
 ledig	30
 nærmere	30
 bijjieguvviem	30
 lidteratuvren	30
 gïetide	30
-soemen	30
 pedagogihke	30
 våarhkosne	29
 juakasovveme	29
@@ -2670,6 +2667,7 @@ maahtoen	29
 rett	29
 opplæringen	29
 gjør	29
+voksne	29
 daaletjen	29
 gaavnesjidh	29
 saemesth	29
@@ -2691,7 +2689,6 @@ fååtesieh	29
 gorredieh	29
 bearkoem	29
 mieresne	29
-hvilke	29
 tjirkijinie	29
 prosjektese	29
 dere	29
@@ -2709,12 +2706,14 @@ nïejtem	29
 tjoeje	29
 hööltedh	29
 musihkine	29
+latjkoen	29
 ealla	29
 felles	29
 aalkoe-almetjh	29
 baalkam	29
 daelhkie	29
 seabradahkese	29
+soemen	29
 seabradahkem	29
 darjome	28
 jaksoes	28
@@ -2744,7 +2743,6 @@ sisnjelds	28
 jaahkoem	28
 dåarjohte	28
 vijhte	28
-aarhskuvlen	28
 helt	28
 öörnie	28
 duedtiem	28
@@ -2771,11 +2769,11 @@ budsjedtesne	28
 riddu	28
 you	28
 skïemtjijh	28
-ohtsememierie	28
 regijovnaale	28
 orrestamme	28
 heannadimmiej	28
 tjeahpoen	28
+hvilke	28
 tjaatsestimmieleahpah	28
 vijriedidh	28
 mandaath	28
@@ -2817,7 +2815,6 @@ tjidtjien	27
 læstoeh	27
 bovresne	27
 kreekh	27
-esne	27
 lohkijh	27
 tjyölkehke	27
 barkijijstie	27
@@ -2832,6 +2829,7 @@ guarkebe	27
 demokrateles	27
 unnebelåhkojste	27
 sæjjasadtjh	27
+aarhskuvlen	27
 ööhpehtimmine	27
 plaerie	27
 goerehtieh	27
@@ -2868,6 +2866,7 @@ staare	27
 gegkeste	27
 scenesne	27
 jieliemidie	27
+ohtsememierie	27
 darjoemidie	27
 faagesuerkiej	27
 gærjide	27
@@ -2917,6 +2916,7 @@ bealesne	26
 moenedh	26
 jakseme	26
 seedteme	26
+esne	26
 fylhkenålmese	26
 jaksh	26
 rahkan	26
@@ -3055,6 +3055,7 @@ jïjnjemes	25
 fualhkan	25
 voeresidie	25
 voeresh	25
+hammosne	25
 tidligere	25
 saemiedigkieveeljemasse	25
 gaske	25
@@ -3172,7 +3173,6 @@ båatsoste	24
 internaatesne	24
 learohkidie	24
 gaptam	24
-öörnesovvi	24
 dïenestem	24
 mïnneme	24
 jieliedasse	24
@@ -3216,7 +3216,6 @@ vitni	24
 á	24
 ønskelig	24
 jåarhkeskuvlen	24
-lïerehtidh	24
 sliejhtedh	24
 sijti	24
 ohtsedibie	24
@@ -3236,7 +3235,6 @@ muerjieh	23
 goerehtimmeste	23
 vijreme	23
 jaahkoen	23
-laakide	23
 dåeredh	23
 gellievoete	23
 fylhkentjïelten	23
@@ -3276,7 +3274,6 @@ ektede	23
 europesne	23
 jorkesidh	23
 dohkoe	23
-hammosne	23
 juvri	23
 hilde	23
 hennes	23
@@ -3289,12 +3286,12 @@ kultuvreaerpeste	23
 jarkelamme	23
 gör	23
 orrijamme	23
-moenehtsisnie	23
 etnihkeles	23
 ansatte	23
 året	23
 af	23
 nænnoestin	23
+öörnesovvi	23
 suerkieh	23
 tuhtji	23
 voenen	23
@@ -3341,7 +3338,6 @@ sisveginie	23
 staaloeh	23
 diktesne	23
 tjaatsestimmielåhkosne	23
-tromsø	23
 arne	23
 tjïrrehte	23
 tjoevkesisnie	23
@@ -3352,6 +3348,7 @@ fire	23
 många	23
 að	23
 buerkiestimmieh	23
+lïerehtidh	23
 ryöjrehtidh	23
 seedtebe	23
 raajroeh	23
@@ -3376,7 +3373,6 @@ undervisning	23
 hon	23
 gïelegaaltijen	23
 gustie	22
-d	22
 vaaksjobe	22
 vaaksjoeh	22
 nommide	22
@@ -3384,6 +3380,7 @@ byjresasse	22
 daltesasse	22
 buektehte	22
 teekstesne	22
+laakide	22
 diskrimineeremen	22
 lohkemem	22
 lærer	22
@@ -3402,7 +3399,6 @@ vöörhkedh	22
 darjomigujmie	22
 saemien-gïelen	22
 siebriedahkeste	22
-samfunnet	22
 rette	22
 doestedh	22
 tema	22
@@ -3418,7 +3414,6 @@ bïerkenidh	22
 deres	22
 stiftelsen	22
 iktemearan	22
-vet	22
 barkijigujmie	22
 aavoedidh	22
 feerhmeles	22
@@ -3433,6 +3428,7 @@ stilleme	22
 åeredh	22
 kråahpe	22
 vad	22
+moenehtsisnie	22
 beeli	22
 saemiejgujmie	22
 maadtoste	22
@@ -3494,6 +3490,7 @@ fleksijbele	22
 byjjenimmie	22
 maahtoelutnjeme	22
 dotkedh	22
+tromsø	22
 daamtajommes	22
 jeenjesidie	22
 dijjem	22
@@ -3503,7 +3500,6 @@ dei	22
 siebredahkesne	22
 nve	22
 stoerretjåanghkosne	22
-eldre	22
 vuertieminie	22
 hoksebarkijh	22
 jeenje	22
@@ -3528,7 +3524,6 @@ language	21
 nasjovnellen	21
 elmie	21
 spååredh	21
-darjomidie	21
 dijpieh	21
 juvride	21
 bearkoe	21
@@ -3556,6 +3551,7 @@ teknihkeles	21
 nedtesæjrojne	21
 tjeahpoem	21
 åejvieladtjijste	21
+samfunnet	21
 skïemtjelassh	21
 brukes	21
 åålmegh	21
@@ -3579,6 +3575,7 @@ råd	21
 nora	21
 lars	21
 joekede	21
+vet	21
 soejkesjeminie	21
 veartenevijries	21
 gieries	21
@@ -3619,7 +3616,6 @@ faagem	21
 juhti	21
 goeresne	21
 steeredh	21
-gaskenasjovnale	21
 arbeide	21
 laavloeh	21
 handler	21
@@ -3658,6 +3654,7 @@ aarborten	21
 ietniengïelesne	21
 neebnedh	21
 krööhkedh	21
+eldre	21
 byjjesfaamoe	21
 viehkievierhtieh	21
 torsdag	21
@@ -3674,11 +3671,11 @@ dåastoejasse	21
 tjaalegi	21
 edtjien	21
 bïjline	21
-p	20
 baahke	20
 information	20
 tjïrkes	20
 voestemes	20
+darjomidie	20
 lïhtse	20
 mieriedimmieh	20
 ålvas	20
@@ -3693,7 +3690,6 @@ bæsvodh	20
 fïrnestehteme	20
 gïetedamme	20
 goerehth	20
-nivå	20
 fealadimmie	20
 klijma	20
 andra	20
@@ -3767,7 +3763,6 @@ ussjedim	20
 lohkede	20
 fjellgren	20
 barnehagen	20
-tseegkesuvvieh	20
 eskil	20
 gærhkoeraerie	20
 åtnosne	20
@@ -3794,13 +3789,13 @@ paehpierisnie	20
 nuepiej	20
 mehtie	20
 buektiehtieh	20
+gaskenasjovnale	20
 govlesuvvieh	20
 lohkemh	20
 lissehte	20
 materijaalh	20
 skoltesaemien	20
 eevtjieh	20
-versjovne	20
 bïenje	20
 bok	20
 maallh	20
@@ -3827,14 +3822,12 @@ gïelelïerehtimmiem	20
 sjïdteminie	20
 staaran	20
 skape	20
-immaterijelle	20
 stig	20
 gellide	20
 vaajta	20
 væjsehke	20
 vuajnalgidh	20
 inntil	20
-relevant	20
 litt	20
 reinen	20
 baernien	20
@@ -3845,7 +3838,6 @@ tjaalegijstie	20
 jïjtjemh	20
 sis	20
 jallan	20
-that	20
 daenbien	20
 kultuvri	20
 eksamenem	20
@@ -3881,7 +3873,6 @@ gïetedimmie	19
 grammatihke	19
 gellievoeten	19
 utniejidie	19
-x	19
 telefovne	19
 gïetedimmien	19
 tjaelieminie	19
@@ -3944,6 +3935,7 @@ löövles	19
 eeremasth	19
 bæjhkoehtibie	19
 per	19
+tseegkesuvvieh	19
 sametingsråd	19
 april	19
 akteraeresne	19
@@ -3954,7 +3946,6 @@ bïevnesi	19
 jarngen	19
 viehkehth	19
 ietniegïele	19
-unnebelåhkoegïeline	19
 soptsesidie	19
 ektiebarkoem	19
 kultuvreraerie	19
@@ -3998,11 +3989,13 @@ lyhkesidh	19
 svahken	19
 saamastallije	19
 veeljemesïetelisnie	19
+immaterijelle	19
 gïeth	19
 leevles	19
 programmet	19
 biehkine	19
 tïjjesne	19
+relevant	19
 kun	19
 møter	19
 boelvi	19
@@ -4018,6 +4011,7 @@ viermie	19
 ijje	19
 rætnoe	19
 nåhtojne	19
+that	19
 digkedh	19
 mearoesaemien	19
 evtiedimmienuepieh	19
@@ -4061,6 +4055,7 @@ maaksoen	18
 persovne	18
 learoevierhtie	18
 learoesoejkesjen	18
+nivå	18
 gaajhkesåarhts	18
 vaeljehke	18
 lag	18
@@ -4144,6 +4139,7 @@ mattias	18
 håhkesjem	18
 aavoe	18
 noerhtemes	18
+unnebelåhkoegïeline	18
 hïeljen	18
 jåarhkeööhpehtimmiem	18
 illieh	18
@@ -4173,6 +4169,7 @@ kommunikasjon	18
 viesjies	18
 gåsta	18
 tjoevke	18
+versjovne	18
 hatt	18
 andersen	18
 maajhööhpehtimmie	18
@@ -4254,8 +4251,8 @@ krievvie	17
 boelhkese	17
 dåeriedieh	17
 lyjhkedh	17
-andrespråk	17
 klååkemesuerkie	17
+x	17
 tjåådtjeme	17
 åårganisasjovnh	17
 aejkesne	17
@@ -4380,7 +4377,6 @@ bergsland	17
 kråvnoeh	17
 viehkie-dïrregh	17
 goevtesh	17
-bïjlem	17
 klies	17
 tomas	17
 daaroedehteme	17
@@ -4393,7 +4389,6 @@ staaloen	17
 gymhpeme	17
 heannadi	17
 åadtjoejigan	17
-millioner	17
 mubpine	17
 orrenöörjen	17
 gossege	17
@@ -4454,7 +4449,6 @@ teestedidh	17
 bijpele	17
 rijhkebiejjien	16
 åålegh	16
-t	16
 sjæjsjalamme	16
 sjædtoe	16
 orrije	16
@@ -4513,7 +4507,6 @@ uten	16
 barns	16
 forskning	16
 mierien	16
-ovttas	16
 arbeider	16
 barnehager	16
 fylhkine	16
@@ -4531,7 +4524,6 @@ sæjrojne	16
 herjedaelien	16
 raaste	16
 daaresjimmie	16
-https	16
 maanagïertem	16
 maanagïertefaalenassem	16
 biejjesne	16
@@ -4627,6 +4619,7 @@ bïjrekjernestoff	16
 sjugniehtovvedh	16
 teknologijem	16
 effektem	16
+bïjlem	16
 skreejrehte	16
 galkin	16
 synes	16
@@ -4645,6 +4638,7 @@ vïrre	16
 daaresjimmiej	16
 nïekedasse	16
 liten	16
+millioner	16
 heter	16
 tjaktjege	16
 aktivyöki	16
@@ -4697,7 +4691,6 @@ tïjjese	16
 vadtah	16
 håksoem	16
 saba	16
-sygkeldidh	16
 duodjeinstituhtta	16
 jupmielasse	16
 sïerredimmien	16
@@ -4735,6 +4728,7 @@ thonhaugen	16
 vuerpesne	16
 skåajjesoemen	16
 seammasïenten	15
+p	15
 beetnegidie	15
 bïegkefaamoe	15
 mieriedimmesne	15
@@ -4751,6 +4745,7 @@ telefon	15
 e-post	15
 idie	15
 lohkehtæjjan	15
+andrespråk	15
 stillie	15
 muvhti	15
 mïelide	15
@@ -4778,7 +4773,6 @@ bielide	15
 gaavnede	15
 relasjovnine	15
 juerie	15
-lena	15
 njealjede	15
 veanhtede	15
 aktegsalmetjh	15
@@ -4806,7 +4800,7 @@ læremidler	15
 grunnskolen	15
 høgskole	15
 gïehtelimmieh	15
-aktan	15
+ovttas	15
 religijovne	15
 radtjoes	15
 fortelle	15
@@ -4906,7 +4900,6 @@ soelege	15
 spïelh	15
 stueriedidh	15
 dál	15
-sámedikki	15
 ledtieh	15
 pryövoeh	15
 krïevenassem	15
@@ -4984,6 +4977,7 @@ kalv	15
 dængkoeh	15
 åesiestidh	15
 skolene	15
+sygkeldidh	15
 jearsoesvoete	15
 appe	15
 teknologijen	15
@@ -5038,10 +5032,8 @@ gohtjesuvvieh	14
 jijtjedh	14
 nyöjhkeme	14
 programmine	14
-os	14
 årromesijjem	14
 voenide	14
-laejhtemh	14
 vedtien	14
 riekte	14
 kjent	14
@@ -5086,6 +5078,7 @@ tjåanghkoste	14
 orrestehtedh	14
 fn	14
 skoler	14
+aktan	14
 jaahka	14
 jorkese	14
 sjïdtem	14
@@ -5097,6 +5090,7 @@ svaalhtesh	14
 tjöönghkie	14
 sijjiej	14
 seabran	14
+https	14
 sif	14
 bievneme	14
 jååhkesjimmien	14
@@ -5117,7 +5111,6 @@ raeriesti	14
 jeatjahtahteme	14
 prievesne	14
 ringki	14
-viedteldihkie	14
 dæjpeles	14
 jarkelimmesne	14
 sjugniedamme	14
@@ -5156,7 +5149,6 @@ valgt	14
 vihtiestimmie	14
 læstoeraeriestimmiem	14
 krærran	14
-goevtesen	14
 veeljemekåarhtem	14
 jearsoeslaakan	14
 fåantoej	14
@@ -5186,6 +5178,7 @@ kaarhth	14
 baalkan	14
 saemiengïelide	14
 learoesoejkesje	14
+sámedikki	14
 sáhttá	14
 grunn	14
 russlaanten	14
@@ -5316,15 +5309,14 @@ onnetje	14
 bovtsine	14
 svea	14
 e-påastesne	14
-pleie	14
 båaloebuertiem	14
 tæjmoem	14
 trööhnege	14
 lïeneståvroen	13
 krïevemh	13
 tsiehkijste	13
-f	13
-r	13
+d	13
+t	13
 dåeriedibie	13
 leejjedh	13
 darjomen	13
@@ -5348,7 +5340,9 @@ latjkedh	13
 bïhkedimmieh	13
 åesiestimmiem	13
 sujhtedh	13
+os	13
 laejhtemem	13
+laejhtemh	13
 gaskoe	13
 gïeleviehkie-dïrregh	13
 soptsestimmine	13
@@ -5442,6 +5436,7 @@ joseph	13
 vijredh	13
 lørdag	13
 juridihkeles	13
+viedteldihkie	13
 kirkeråd	13
 kirke	13
 aktuelle	13
@@ -5482,6 +5477,7 @@ seedtesuvvieh	13
 seedtesovvedh	13
 luhpiedimmiem	13
 miste	13
+goevtesen	13
 rååresjimmiej	13
 vuestelen	13
 mïelebe	13
@@ -5601,7 +5597,6 @@ terje	13
 mor	13
 jagi	13
 sannhets	13
-stillingene	13
 goerehtimmesne	13
 voejhkelimmieh	13
 filmeste	13
@@ -5676,7 +5671,6 @@ vaadtsam	13
 pensjovne	13
 masoni	13
 sámos	13
-saami	13
 fremmedspråk	13
 nielsenen	13
 klass	13
@@ -5686,6 +5680,7 @@ aemieluesemeåssjaldahkh	13
 was	12
 have	12
 l	12
+r	12
 aktööri	12
 deponeredh	12
 vierhtiem	12
@@ -5742,7 +5737,6 @@ måanta	12
 aevhkies	12
 voejhkelin	12
 gåaradamme	12
-aatijste	12
 åeliedimmieh	12
 govlehtimmesne	12
 meänkielin	12
@@ -5761,7 +5755,6 @@ tjeahpoeraerie	12
 byjreski	12
 dongkeme	12
 verdier	12
-studenter	12
 astrid	12
 periode	12
 laakijste	12
@@ -5991,6 +5984,7 @@ márjá	12
 barkoevoelpigujmie	12
 lidteratuvresne	12
 laavenjassigujmie	12
+stillingene	12
 soptsesuvvieh	12
 teemese	12
 vueleste	12
@@ -6078,6 +6072,7 @@ tjåervieh	12
 gïelepolitihke	12
 kveenen	12
 muligheter	12
+saami	12
 våarhkoem	12
 barkoebyjresem	12
 hilbes	12
@@ -6085,6 +6080,7 @@ elle	12
 gis	12
 geograafeles	12
 gïetesne	12
+pleie	12
 vaentjele	12
 demensine	12
 gaskesadtemen	12
@@ -6124,7 +6120,6 @@ vaarjelh	11
 reaktajgujmie	11
 daltesen	11
 mubpiegïeline	11
-barkoegærja	11
 våaromen	11
 nåhtedh	11
 elektronisk	11
@@ -6156,6 +6151,7 @@ elgåesne	11
 tjaktjese	11
 saemiestin	11
 soejkesjidie	11
+aatijste	11
 pedagogiske	11
 gieleste	11
 joekoenlaakan	11
@@ -6175,6 +6171,7 @@ klååkeme	11
 ministerh	11
 guvviedæjja	11
 ållermaahta	11
+studenter	11
 politikk	11
 learoevierhtide	11
 studentide	11
@@ -6267,6 +6264,7 @@ endringer	11
 mo	11
 aaremosth	11
 bæjhkoehtieh	11
+bilde	11
 vidda	11
 basert	11
 rammen	11
@@ -6303,7 +6301,6 @@ teehpemh	11
 krööhkestieh	11
 geelle	11
 dorjesem	11
-turisth	11
 sjugniehtovvi	11
 jïjtjenænnoestæmman	11
 jeatjebe	11
@@ -6318,7 +6315,6 @@ sahth	11
 gaavnedin	11
 gïetigujmie	11
 västerbotten	11
-retorihke	11
 bïejin	11
 teoretihkeles	11
 reebledh	11
@@ -6354,7 +6350,6 @@ isvelihke	11
 steder	11
 erika	11
 gåatodh	11
-siebriedahkesuerkiej	11
 illh	11
 reerenassine	11
 leeneståvroeh	11
@@ -6388,7 +6383,6 @@ skylleme	11
 edtjiejibie	11
 sjaavnjoe	11
 saemienööhpehtimmiem	11
-boelhkide	11
 geografijen	11
 geografije	11
 evtiesovveme	11
@@ -6428,6 +6422,7 @@ skïemtjine	11
 jeenjemesh	11
 pryövem	11
 dohkh	11
+modellh	11
 vuajnalgieh	11
 vaejlie	11
 mavve	11
@@ -6572,7 +6567,7 @@ fïrnestehtedh	10
 nïejtide	10
 mierede	10
 onterdh	10
-lohkemegærja	10
+barkoegærja	10
 nesten	10
 loeves	10
 skïemtjegåetie	10
@@ -6630,7 +6625,6 @@ konserth	10
 akute	10
 sang	10
 klasse	10
-lek	10
 jijjen	10
 åerieminie	10
 dubpene	10
@@ -6788,7 +6782,6 @@ tsælloeh	10
 sentrale	10
 følgende	10
 vïedteldahkesne	10
-bilde	10
 senere	10
 gaarvanidh	10
 njåvtasovvemem	10
@@ -6821,11 +6814,13 @@ jiene-jienebe	10
 edtjigan	10
 åestijh	10
 vadtesinie	10
+turisth	10
 åeliedimmiem	10
 eatnemevierhtide	10
 guvvien	10
 tjïelkestieh	10
 kååserije	10
+trygkesovvi	10
 tjeapohken	10
 læssanidh	10
 jaahkenelkien	10
@@ -6835,6 +6830,7 @@ prosjekteboelhken	10
 gïeleprosjektide	10
 kunna	10
 digkedeminie	10
+retorihke	10
 gïetedh	10
 novh	10
 tjoevkem	10
@@ -6882,6 +6878,7 @@ daelviem	10
 scena	10
 målsoeh	10
 bjørn	10
+siebriedahkesuerkiej	10
 vaarredh	10
 stille	10
 ohtsemegoere	10
@@ -6900,6 +6897,7 @@ detta	10
 radion	10
 behandling	10
 veasoeh	10
+bildet	10
 gællan	10
 samar	10
 hreindýrin	10
@@ -6907,7 +6905,6 @@ hreindýrin	10
 tsiehkie-baakoeh	10
 kaarhtese	10
 ektiedimmiej	10
-cv	10
 rekke	10
 engasjement	10
 lønn	10
@@ -6935,6 +6932,7 @@ frå	10
 trøøndelaagesne	10
 fulkh	10
 lïerehtimmine	10
+boelhkide	10
 klaeriejgujmie	10
 guarkajim	10
 egna	10
@@ -7146,6 +7144,7 @@ ruevtie-raajroe	10
 maahke	10
 ööhpehtimmieprogrammen	10
 dåehkievuesiehtimmiem	10
+modellem	10
 måelliebaakoe	10
 eadtjohkes	10
 maaketje	10
@@ -7157,7 +7156,7 @@ juvdelassji	10
 biejebe	10
 gaampel	10
 skreejreme	9
-u	9
+f	9
 jielemisnie	9
 tjelmiej	9
 risten	9
@@ -7186,6 +7185,7 @@ tjiehtjelh	9
 bæjhkoehtimmesne	9
 gaskesadta	9
 goetsebe	9
+lohkemegærja	9
 tekstene	9
 geerjehtimmiem	9
 vååksjedidh	9
@@ -7324,7 +7324,6 @@ tjïelkestimmiem	9
 tjaangeme	9
 askem	9
 sjeakodh	9
-utnijidie	9
 åenebe	9
 limen	9
 øøhpehtidh	9
@@ -7469,7 +7468,6 @@ eat	9
 ain	9
 leamaš	9
 fremtiden	9
-david	9
 gïelebaalhkam	9
 gulliegïele	9
 skåajje	9
@@ -7498,7 +7496,6 @@ gïehtjedimmiem	9
 rijme	9
 konklusjovnem	9
 meedijijstie	9
-trygkesovvi	9
 jaevresne	9
 våårege	9
 tjabredh	9
@@ -7590,7 +7587,6 @@ næringer	9
 mens	9
 bygget	9
 familien	9
-bildet	9
 maahtoedepartemeente	9
 sjeavodh	9
 åtte	9
@@ -7599,6 +7595,7 @@ gïeletsiehkie	9
 aejlege	9
 seammavyörtegsvoeten	9
 stillinger	9
+cv	9
 noreg	9
 vïnhtsem	9
 öörnedimmine	9
@@ -7682,7 +7679,6 @@ lo	9
 vïedtjesne	9
 maadtoeh	9
 soejkesji	9
-modellh	9
 sohten	9
 voepth	9
 aanta	9
@@ -7850,7 +7846,6 @@ sas	9
 koronan	9
 superfaamoe	9
 vearadamme	9
-adj	9
 meängïelesne	9
 seksem	9
 siebriedahki	9
@@ -7913,7 +7908,6 @@ irhkedh	8
 fïrneståvva	8
 laantedigkine	8
 tekstide	8
-leseboka	8
 naasjovne	8
 tillgång	8
 tjaatseginie	8
@@ -8036,7 +8030,6 @@ darjoemijstie	8
 gïelejarngide	8
 jåartaburresne	8
 barkoevuekiem	8
-saavremegaahtjemh	8
 dåarjoeöörnegen	8
 tjirrehtamme	8
 effekte	8
@@ -8047,6 +8040,7 @@ avgifter	8
 människor	8
 juhteme	8
 voeresalmetjidie	8
+utnijidie	8
 båatsoejielemasse	8
 aamhtsem	8
 gåatomen	8
@@ -8057,7 +8051,6 @@ nav	8
 toelhkeste	8
 oppleve	8
 kjenner	8
-stadig	8
 relasjoner	8
 eventuelt	8
 landsmøtet	8
@@ -8125,7 +8118,6 @@ eensi-laakan	8
 beabpmoe	8
 diskriminering	8
 innholdet	8
-reaktese	8
 sïjth	8
 saadtegem	8
 gorredibie	8
@@ -8186,7 +8178,6 @@ tjohpe	8
 gaskebiejjiem	8
 naestieh	8
 bijjiebasse	8
-museumisnie	8
 versjovnem	8
 teemide	8
 holdt	8
@@ -8210,6 +8201,7 @@ skïemtjelasside	8
 prioriterede	8
 dárbbaš	8
 vurdert	8
+david	8
 jarkoestimmien	8
 åvteguvvieh	8
 stipendh	8
@@ -8449,7 +8441,6 @@ eanet	8
 norrbottenisnie	8
 sïjhteden	8
 skaepiedihks	8
-maj	8
 fortellinger	8
 væhnah	8
 gïete	8
@@ -8668,7 +8659,6 @@ jieliemijstie	8
 vïhnegedåarjoe	8
 krjl	8
 programfag	8
-mig	8
 vikariat	8
 koronavaksijnem	8
 struktuvrine	8
@@ -8733,7 +8723,7 @@ mari-anne	8
 kultuvrebyjresem	7
 kultuvrehistovrijen	7
 northern	7
-te	7
+u	7
 jïenehke	7
 jårreminie	7
 sealoe	7
@@ -8765,9 +8755,9 @@ darjoejibie	7
 maanakonvensjovne	7
 rijhkebeajjan	7
 maanakonvensjovnen	7
+leseboka	7
 jaemieh	7
 bïjvelåbpoe	7
-daj	7
 minoritetsspråken	7
 lohkehtidh	7
 tjaatsegisnie	7
@@ -8915,6 +8905,7 @@ pluppe	7
 skiereden	7
 ovlæhkoeh	7
 gorresovvedh	7
+saavremegaahtjemh	7
 åpent	7
 lunsj	7
 midlene	7
@@ -8943,6 +8934,7 @@ aarvoen	7
 ånnanamme	7
 krisesenteret	7
 psykisk	7
+stadig	7
 heevehtimmievåhkoen	7
 bergenisnie	7
 plassjese	7
@@ -9022,6 +9014,7 @@ fuehpies	7
 kvinner	7
 bekymret	7
 rapport	7
+reaktese	7
 onneåabpa	7
 sveerjesåevmieladtjh	7
 sjïehteleslaakan	7
@@ -9105,6 +9098,7 @@ maaneste	7
 suehpede	7
 aaltoeh	7
 mieside	7
+museumisnie	7
 gaamesh	7
 regionalt	7
 fred	7
@@ -9167,7 +9161,6 @@ skolan	7
 båatsoeburride	7
 reaktesne	7
 deadtove	7
-mih	7
 dorjesovvh	7
 bïernem	7
 byöpmedi	7
@@ -9260,7 +9253,6 @@ plakaatem	7
 workshops	7
 healsoesuerkien	7
 tjohtjedh	7
-ietniegïelelïerehtimmiem	7
 sterke	7
 goerkesh	7
 live	7
@@ -9387,7 +9379,6 @@ gorredamme	7
 prosjekti	7
 altan	7
 gïetedallijem	7
-he	7
 vijrusistie	7
 geervide	7
 alternatijvh	7
@@ -9513,7 +9504,6 @@ barkoejieleden	7
 jåartam	7
 enkelt	7
 saemiepolitihke	7
-gle	7
 tjaetsieåerine	7
 krööhkestamme	7
 baakoevåarhkoem	7
@@ -9598,7 +9588,6 @@ gaaltiji	7
 sofia	7
 voereshokse	7
 stååkedimmien	7
-pr	7
 dato	7
 vitnemål	7
 eies	7
@@ -9689,7 +9678,6 @@ nsren	7
 fylhkentjïeltigujmie	7
 aemieluesemen	7
 jåarhkeööhpehtæmman	7
-jernbaneverket	7
 laanteraasti	7
 soptsestim	7
 girtedh	7
@@ -9852,7 +9840,6 @@ saemieskuvleståvroen	7
 gåhtjomem	7
 struktuvren	7
 ludenso	7
-modellem	7
 dembran	7
 goerehtallesovvedh	7
 råantjoe	7
@@ -9902,7 +9889,7 @@ vætnoem	6
 municipalities	6
 use	6
 its	6
-y	6
+te	6
 gåmmebem	6
 joejkije	6
 buaredh	6
@@ -10020,7 +10007,6 @@ scenekunst	6
 synliggjøring	6
 nettverk	6
 marked	6
-hoksehtimmien	6
 största	6
 kreeke-pryövenassh	6
 andres	6
@@ -10171,7 +10157,6 @@ vuesehtieh	6
 veedtedh	6
 saavremem	6
 byjresi	6
-saemiesiebrie	6
 luleå	6
 stealladamme	6
 nännoesti	6
@@ -10276,7 +10261,6 @@ västerbottenistie	6
 unescon	6
 saltfjellet	6
 vuajnije	6
-gob	6
 healsoevaarjelimmiem	6
 jeerehts	6
 tjengkerem	6
@@ -10501,7 +10485,6 @@ skuvleaajhtere	6
 gohtjedh	6
 personifikasjovne	6
 abstrakte	6
-guavla	6
 byjjenimmiem	6
 rudtjem	6
 giehpedh	6
@@ -10548,7 +10531,6 @@ biejjieöörnegisnie	6
 raastide	6
 viehkiehtibie	6
 ræhpaslaakan	6
-åehpiedehti	6
 skåajjese	6
 vaajmoegïelesne	6
 luajhteme	6
@@ -10558,6 +10540,7 @@ bidrag	6
 årroejinie	6
 moenehtsi	6
 tjïelteståvroen	6
+ietniegïelelïerehtimmiem	6
 voeresehoksen	6
 gangen	6
 viesjiesvoeth	6
@@ -10723,10 +10706,10 @@ jorkesieh	6
 juvleme	6
 sol	6
 darjomistie	6
+he	6
 gïeleviehkieh	6
 tv-programmh	6
 eksaamenh	6
-karanteenesne	6
 koronavijrusem	6
 aino	6
 muitalit	6
@@ -10746,7 +10729,6 @@ sisnjeles	6
 feelemisnie	6
 gaavnim	6
 kristin	6
-spealadi	6
 gærjabussen	6
 gielijste	6
 maŋŋel	6
@@ -10998,6 +10980,7 @@ jieledevuekide	6
 gaskedaltesisnie	6
 barnehageavdeling	6
 svaale	6
+pr	6
 muligheten	6
 gjøres	6
 sosialt	6
@@ -11126,6 +11109,7 @@ maana-tv	6
 nedtesæjroe	6
 healsoefaageles	6
 gaarsjelimmiesuerkieh	6
+jernbaneverket	6
 preessedåarjoem	6
 mieride	6
 eldreråd	6
@@ -11333,7 +11317,6 @@ tjearan	6
 sijth	6
 reaktasuerkesne	6
 aalkoealmetjegïelh	6
-gaske-nasjonaale	6
 laejhtememoenehtse	6
 åtnoes	6
 guektiengïelen-voete	6
@@ -11446,7 +11429,6 @@ vïhtesjimmiej	6
 girjegiisá	6
 julevsámegiella	6
 barents	6
-bïevnesekapselh	6
 pandemiija	6
 guhtet	6
 krever	6
@@ -11472,13 +11454,11 @@ legekontor	6
 sykepleier	6
 hïehkede	6
 gïeleskreejremeåasam	6
-lederteam	6
 edtjá	6
 sveerjesŋe	6
 aerviedimmine	6
 tjïehtin	6
 rovmeri	6
-thesis	6
 bygsel	6
 vikarer	6
 vierhtegs	5
@@ -11532,7 +11512,6 @@ deahpedh	5
 barkoesijjien	5
 dåastoehtamme	5
 lærerveiledning	5
-arbeidsboka	5
 nåhkelidh	5
 prijoriteradamme	5
 jeanojne	5
@@ -11596,6 +11575,7 @@ søkerbasert	5
 ordningen	5
 tråd	5
 tras	5
+hoksehtimmien	5
 skapar	5
 njåvtasuvvieh	5
 argumentasjon	5
@@ -11764,6 +11744,7 @@ kamp	5
 daarojne	5
 commons	5
 deej	5
+saemiesiebrie	5
 johkemehkesne	5
 ööhpehtimmiejarngesne	5
 öörnemisnie	5
@@ -11850,7 +11831,6 @@ tjoeperdidh	5
 juakam	5
 ulmiestuvreldh	5
 laanteburriedirektovraate	5
-direktöörine	5
 gemtebe	5
 norra	5
 saadthalmetjigujmie	5
@@ -12000,7 +11980,6 @@ bodde	5
 taalide	5
 vierteste	5
 maahtoeulmide	5
-mijjeh	5
 statistihkh	5
 byjjesfaamojde	5
 sundsvall	5
@@ -12152,6 +12131,7 @@ utkom	5
 garra	5
 epihke	5
 geerjehte	5
+guavla	5
 maadthlïerehtimmie	5
 bïevnesisnie	5
 jarkedh	5
@@ -12210,13 +12190,13 @@ faagesuerkesne	5
 viehkieabparaatese	5
 bïeljelieh	5
 digkiedibie	5
+åehpiedehti	5
 föörhkede	5
 eallin	5
 mánát	5
 filosofijen	5
 onterdamme	5
 gævnjoestidh	5
-årrode	5
 grunnskoler	5
 språkuka	5
 dialogem	5
@@ -12410,7 +12390,6 @@ kultuvrejieleme	5
 jovkeds	5
 geehtemem	5
 jielemevuekiem	5
-ean	5
 bijjiedimmie	5
 vaarremegaamegigujmie	5
 girtieh	5
@@ -12422,6 +12401,7 @@ saamelaiset	5
 että	5
 saamen	5
 eolus	5
+karanteenesne	5
 radijoven	5
 materijaaleste	5
 gihtjehtamme	5
@@ -12444,6 +12424,7 @@ bådåddjon	5
 perrongesne	5
 eirik	5
 svaalhtese	5
+spealadi	5
 råaki	5
 rájes	5
 olbmo	5
@@ -12553,7 +12534,6 @@ etaath	5
 lïerije	5
 eajhnadovvi	5
 njaelmie	5
-gïsse	5
 sjïdtede	5
 såevmiegïelesne	5
 daaroste	5
@@ -12575,7 +12555,6 @@ teeste	5
 utnih	5
 vaccination	5
 tjoerih	5
-sg	5
 tsaapma	5
 kungsbackesne	5
 bigkebe	5
@@ -12623,6 +12602,7 @@ naina	5
 öörnedibie	5
 mølla	5
 øyfjellet	5
+gle	5
 vïssjele	5
 motovrefealadimmielaake	5
 dokumentaare	5
@@ -12877,7 +12857,6 @@ rehabiliteringe	5
 onterde	5
 slaajperdidh	5
 suv	5
-akta	5
 devverde	5
 teemijste	5
 arhta	5
@@ -12979,7 +12958,6 @@ lover	5
 bachelor	5
 styrkes	5
 etablere	5
-ante	5
 kjemper	5
 astosne	5
 ryöjredeminie	5
@@ -13098,7 +13076,6 @@ bearkoejgujmie	5
 gæljoeji	5
 trygghet	5
 ulmiedåahkan	5
-grammatihkem	5
 goerkelimmiem	5
 eerjeme	5
 aajhtsebe	5
@@ -13132,7 +13109,6 @@ gihtjin	5
 latjkajin	5
 fihkeme	5
 árbevirolaš	5
-mas	5
 kveeneladtji	5
 sjangere-nommh	5
 njuenesne	5
@@ -13250,7 +13226,6 @@ geografijesne	5
 lest	5
 julian	5
 dynamihkeles	5
-strukturert	5
 tilkallingsvikarer	5
 helsefagarbeidere	5
 testamentesne	5
@@ -13282,7 +13257,6 @@ vierhkiesijjesne	5
 alternatijvem	5
 govlesadth	5
 vare	5
-polarbibblom	5
 polarbibblon	5
 soelke	5
 snjearah	5
@@ -13324,6 +13298,7 @@ leksikon	5
 gæmhpose	5
 værsjoe	5
 apph	5
+gaske-nasjonaale	5
 reereme-dajvesne	5
 maana-gïertesne	5
 lissie-tjaalegh	5
@@ -13393,7 +13368,6 @@ råtnoe	5
 åehpiedehtiemasse	5
 staatide	5
 aevhkijste	5
-gaskestaateles	5
 jaahkoebyjhkesjimmie	5
 bolle	5
 lohkehtæjjaskuvlesne	5
@@ -13467,11 +13441,11 @@ venstre	5
 dit	5
 duedtedh	5
 rhkosne	5
+bïevnesekapselh	5
 arbetsmarknads	5
 integrationsavdelningen	5
 pandemien	5
 dáiddárat	5
-mis	5
 nuorra	5
 jordbruk	5
 hedtiej	5
@@ -13517,6 +13491,7 @@ biblioteksøk	5
 programmetjaelije	5
 voestes-gïele	5
 laavlomegåetesne	5
+lederteam	5
 ááj	5
 comtat	5
 raajesen	5
@@ -13540,6 +13515,7 @@ system	5
 romaniåålmege	5
 skåajjesoemeladtji	5
 edit	5
+thesis	5
 fug	5
 studijovisnie	5
 naagen	5
@@ -13551,7 +13527,6 @@ sïebredahkem	4
 so	4
 them	4
 been	4
-æ	4
 words	4
 index	4
 learning	4
@@ -13606,7 +13581,6 @@ vååjnoen	4
 veadtaldahkesne	4
 jerhpiedidh	4
 transvestijte	4
-delle	4
 negkemen	4
 tsagkestidh	4
 diskriminieereme	4
@@ -13620,6 +13594,7 @@ maanavaaksjoje	4
 læreverk	4
 lesebok	4
 lohkemegærjesne	4
+arbeidsboka	4
 læreverket	4
 håvhtadidh	4
 sjæjsjalimmine	4
@@ -13633,7 +13608,6 @@ saehtedh	4
 prinsihpen	4
 orrestehteme	4
 tekstijste	4
-versjovnine	4
 bäjjese	4
 daerpiesvoetesne	4
 saadthalmetjem	4
@@ -13919,7 +13893,6 @@ saavremesiebrie	4
 saavremisnie	4
 eevtjebe	4
 johkemehkien	4
-vualtjarisnie	4
 hajkeminie	4
 tjöönghkesovvin	4
 måedtiem	4
@@ -14026,6 +13999,7 @@ grep	4
 sikrer	4
 fulkesuvvieh	4
 radtjoestidh	4
+direktöörine	4
 vilhelmina	4
 evtiedimmieh	4
 tsevtsemem	4
@@ -14263,7 +14237,6 @@ buerkiestimmesne	4
 beagkoesommes	4
 mytiske	4
 representerer	4
-ni	4
 buerievoetem	4
 bigkeminie	4
 vuerpieh	4
@@ -14528,7 +14501,6 @@ sonja	4
 populært	4
 kysten	4
 vakkert	4
-ol	4
 peter	4
 birgitte	4
 fjesing	4
@@ -14566,7 +14538,6 @@ innholdvis	4
 geajnojste	4
 seem	4
 digitalisering	4
-yte	4
 utviklingsenheten	4
 vilkår	4
 klaasse-tjïehtjelisnie	4
@@ -14619,8 +14590,6 @@ artistijste	4
 vuesiehtimmiejgujmie	4
 gohtjede	4
 tjaebpebe	4
-tog	4
-op	4
 mod	4
 renskötare	4
 kjønnsråållah	4
@@ -14631,7 +14600,6 @@ feestesne	4
 barkoeguejmieh	4
 virksomheter	4
 språksenter	4
-høgskolenivå	4
 engasjerte	4
 kvalifikasjoner	4
 pensjonsordning	4
@@ -14676,7 +14644,6 @@ didaktihkeles	4
 laakeöörnegen	4
 gïrreme	4
 funksjovneheaptoe	4
-sj	4
 åesteme	4
 skyllijh	4
 gærhkoeraerine	4
@@ -15220,7 +15187,6 @@ e-påasteadressem	4
 seejnes	4
 krïebpesjimmiem	4
 påastesne	4
-åasaj	4
 moerebaalka	4
 bietseste	4
 ståapojde	4
@@ -15231,7 +15197,6 @@ gierkine	4
 burhvieh	4
 johki	4
 jorkestovveminie	4
-dïete	4
 eekereaktam	4
 tiina	4
 sanila-aikio	4
@@ -15383,7 +15348,6 @@ geatskanimmie	4
 jïjtsanne	4
 ruvsen	4
 kråahpese	4
-daatne	4
 laarme	4
 språkarbeider	4
 goevtesigujmie	4
@@ -15741,7 +15705,6 @@ analyse	4
 johke	4
 gieltegåbpoe	4
 spaenjie-tjaalegi	4
-ï	4
 sámien	4
 veanhtoeh	4
 linke	4
@@ -15841,6 +15804,7 @@ seahkarimmine	4
 gaalloeh	4
 byjresistie	4
 viosesne	4
+grammatihkem	4
 oksesne	4
 kveenide	4
 opptak	4
@@ -16015,9 +15979,7 @@ feelemidie	4
 sislaanten	4
 eejehtallemefeelemh	4
 gåbloeh	4
-álgá	4
 degu	4
-dav	4
 dikken	4
 oattjo	4
 reaktasavkesne	4
@@ -16107,7 +16069,6 @@ njuenietrahpenassh	4
 halvt	4
 kunsten	4
 religijovni	4
-his	4
 moerigujmie	4
 baeniedåaktere	4
 seabradahkeevtiedimmien	4
@@ -16132,6 +16093,7 @@ hunden	4
 feegredh	4
 symbovlegïeline	4
 generell	4
+strukturert	4
 sommerjobb	4
 forvaltningskommunene	4
 jesusem	4
@@ -16196,6 +16158,7 @@ vurdering	4
 unjárga	4
 utnijigujmie	4
 research	4
+polarbibblom	4
 murredem	4
 skåerreste	4
 tadterh	4
@@ -16280,7 +16243,6 @@ linjaj	4
 ierielimmie	4
 nåhkieh	4
 gæmhpoeji	4
-day	4
 these	4
 pollisen	4
 haalvoe	4
@@ -16420,6 +16382,7 @@ smith	4
 samekonvensjon	4
 nagoyaprotokolle	4
 delegasjovnesne	4
+gaskestaateles	4
 klijmajarkelimmiej	4
 prååsehkommes	4
 københavnesne	4
@@ -16538,7 +16501,6 @@ mielhkeste	4
 aahkese	4
 gævnjan	4
 indivijdi	4
-dievasčoahkkin	4
 skïemtjehåksoem	4
 håksoejarngem	4
 rihpa	4
@@ -16692,7 +16654,6 @@ kollegaer	4
 autorisasjon	4
 fleksibilitet	4
 arbeidstid	4
-oy	4
 enkäätesne	4
 ltu	4
 länta	4
@@ -16729,7 +16690,6 @@ aalkoealmetje-nyjsenæjjaj	4
 barkoeprosessh	4
 maanajgïertesne	4
 staeriedæjjah	4
-ham	4
 aemieluesemeåssjaldahki	4
 gïeleskreejremeåasa	4
 saadtegigujmie	4
@@ -16744,10 +16704,8 @@ maana-giertesne	4
 akten-aejkien	4
 ietnien-gïelh	4
 båatsoe-saemiej	4
-maaø	4
 sjaevehtsvoetedïedten	4
 kúltúvre	4
-ákte	4
 ŋúepiem	4
 júekebe	4
 gáájhkide	4
@@ -16806,12 +16764,9 @@ parts	3
 two	3
 including	3
 efforts	3
-ø	3
-ö	3
 mujhtehte	3
 svïhtjeminie	3
 wikipedia	3
-id	3
 byjreseulmide	3
 byjresepolitihken	3
 healsoedåeriesmoerh	3
@@ -16915,6 +16870,7 @@ lïhtsegevoeten	3
 feerhmesovveme	3
 reeremeåårgane	3
 mojhtessaegkie	3
+versjovnine	3
 tjåanghkoes	3
 dongkemem	3
 darjojne	3
@@ -17205,7 +17161,6 @@ bïhkedassi	3
 gaahpoetijjen	3
 ryöknesovvedh	3
 stipeende	3
-à	3
 treavka	3
 stipeendem	3
 trøndelaagen	3
@@ -18115,7 +18070,6 @@ baenhtsesne	3
 guhtegh	3
 aaksjoem	3
 baahkedidh	3
-saehtieh	3
 dell	3
 dulvies	3
 saajve-jaevrine	3
@@ -18192,6 +18146,7 @@ biïre	3
 driftsavdelingen	3
 drifts	3
 velferdsteknologi	3
+yte	3
 tilsettes	3
 disponere	3
 zachariassen	3
@@ -18311,6 +18266,7 @@ gïelejarngese	3
 åårganisasjovnesne	3
 jïlleskuvledaltesisnie	3
 fjällstrøm	3
+høgskolenivå	3
 kommunikasjonsevne	3
 beivviin	3
 fyrste	3
@@ -18445,7 +18401,6 @@ tjaalegebigkemasse	3
 maana-jïh	3
 sjeltiem	3
 beavnardahkem	3
-jj	3
 ööstin	3
 iehtsieh	3
 tjoejkijh	3
@@ -18562,7 +18517,6 @@ barneoppdragelse	3
 tour	3
 building	3
 beerki	3
-gussnie	3
 eli	3
 beasan	3
 mieriedimmijste	3
@@ -18607,7 +18561,6 @@ tjoejenassh	3
 juogat	3
 artihkkala	3
 facebookas	3
-geassemánu	3
 beaivvi	3
 buohkat	3
 tornedaelien	3
@@ -19069,7 +19022,6 @@ gïeleteknologije	3
 tastatuvrem	3
 mobijlese	3
 orrestehtemh	3
-edtjih	3
 löönijinie	3
 åelkiesroenesne	3
 teknologijeevtiedimmie	3
@@ -19205,6 +19157,7 @@ samarbeidsprosjekt	3
 klassijhkerijstie	3
 kåarhten	3
 reeknege	3
+åasaj	3
 deellh	3
 dïenesjegåetie	3
 jårremestovline	3
@@ -19281,7 +19234,6 @@ gjennomgående	3
 speile	3
 målsettinger	3
 øktene	3
-inngår	3
 nedtevihte	3
 lahtestimmiej	3
 nænnoehkåbpoe	3
@@ -19307,7 +19259,6 @@ jïelemem	3
 sjïdtehtidh	3
 veljiem	3
 meetere	3
-jeatjam	3
 bivtemem	3
 iemiealmetjireaktah	3
 gåatomelaanth	3
@@ -19459,7 +19410,6 @@ fála	3
 mira	3
 mira-guovdásj	3
 vuonan	3
-dáv	3
 gielav	3
 baktu	3
 barggijt	3
@@ -19622,7 +19572,6 @@ bealjehki	3
 skisporet	3
 eret	3
 ruvnno	3
-jeajtah	3
 jienemes	3
 industrijh	3
 feerlege	3
@@ -20097,7 +20046,6 @@ peannine	3
 konsuvlente	3
 arkeologe	3
 mïnnimh	3
-tjöödtjehtidh	3
 vïedtjese	3
 förutsättningar	3
 lss-hoksem	3
@@ -20266,7 +20214,6 @@ logom	3
 cm	3
 helgen	3
 säger	3
-guatsa	3
 statsbygg	3
 horjem-njuanesne	3
 vætnose	3
@@ -20362,7 +20309,6 @@ takk	3
 fullt	3
 teknologi	3
 drive	3
-ytre	3
 gåatomedajvem	3
 beitelandet	3
 velvie	3
@@ -20462,6 +20408,7 @@ mielde	3
 galggat	3
 vihtandoarjaga	3
 vihtanin	3
+álgá	3
 muhtun	3
 ášši	3
 dihtii	3
@@ -20517,7 +20464,6 @@ fylhkigujmie	3
 representasjovnen	3
 reessehtæjjine	3
 representasjovnem	3
-daatoe	3
 ååktoe	3
 gïelegaaltijem	3
 tsïeglesjidh	3
@@ -20736,6 +20682,7 @@ elsvatnen	3
 kaarren	3
 gunhild	3
 oline	3
+vualtjarisnie	3
 lohkemestrategijh	3
 viehka	3
 modelli	3
@@ -20779,7 +20726,6 @@ baaltebarkijh	3
 iktedimmine	3
 soptsestimmievuekiem	3
 vuertesth	3
-marhta	3
 soptsestallemi	3
 healsoefaage	3
 fagskole	3
@@ -21012,7 +20958,6 @@ gieltiegåbpoe	3
 galkede	3
 laadth-bïekeren	3
 njoele-voessem	3
-duejtie	3
 feeri	3
 daesie	3
 dievvedh	3
@@ -21070,8 +21015,6 @@ geerjehtieh	3
 sleengkh	3
 vierhtiedibie	3
 bongo	3
-mtm	3
-fu	3
 stoerredigkienlæstosne	3
 bærekraftige	3
 koster	3
@@ -21127,7 +21070,6 @@ oajvvat	3
 jut	3
 dálla	3
 snjilltjamáno	3
-lip	3
 barggovaddedivut	3
 galggap	3
 årniga	3
@@ -21222,7 +21164,6 @@ vïenhtede	3
 aalkoevåarome	3
 ritnemen	3
 create	3
-d-modellem	3
 antisemittismen	3
 faalenassen	3
 riejriesvoete	3
@@ -21231,7 +21172,6 @@ ekskludeereden	3
 råajvarimmesne	3
 gåess'akt	3
 internedtem	3
-kreativiteetese	3
 barkoeaarhkem	3
 reageeredh	3
 skjellsord	3
@@ -21264,7 +21204,6 @@ cobo	3
 prosessigujmie	3
 nåhtadamme	3
 riddoduottarmuseat	3
-wipo'sne	3
 wipo	3
 mojhtesem	3
 klijmajarkelimmijste	3
@@ -21391,7 +21330,6 @@ svöörje	3
 freemjedh	3
 evtiehtidh	3
 different	3
-q	3
 any	3
 maanajgïertelohkehtæjjah	3
 maanajgïertide	3
@@ -21453,7 +21391,6 @@ figuvrine	3
 dåehkievuesiehtæmman	3
 vætnosne	3
 kodam	3
-vöörhkieh	3
 appellesne	3
 bïhkedibie	3
 gïesh	3
@@ -21545,6 +21482,7 @@ juolludan	3
 sámis	3
 regjering	3
 presidenten	3
+dievasčoahkkin	3
 háliida	3
 bargagoahtán	3
 tjoelh	3
@@ -21660,7 +21598,6 @@ helsekonferanse	3
 ektievoete-gïele	3
 motiveringsstipend	3
 espira	3
-ussjedadtemasse	3
 dålleste	3
 stååkedimmie-gaevnieh	3
 stååkede	3
@@ -21754,6 +21691,7 @@ nybegynnerkurs	3
 gapahuk	3
 persdatter	3
 læstoekandidaath	3
+figurer	3
 biejjiennööles	3
 konstitusjonskomiteen	3
 kulturminner	3
@@ -21768,7 +21706,6 @@ baakoe-stuvrije	3
 raavrvijhkesne	3
 jonare	3
 raavrvijhkeste	3
-maahte	3
 ebba	3
 maajh-jaevresne	3
 pleekeme	3
@@ -21785,7 +21722,6 @@ pruvrehtæjja	3
 brønstad	3
 gierhkiedåehkie	3
 mænngelem	3
-gutnie	3
 regijovnereformesne	3
 vuaptastehtedh	3
 tempo	3
@@ -22156,7 +22092,6 @@ beslutar	3
 forstås	3
 dotkemetjaalege	3
 land-lease	3
-argues	3
 formal	3
 demenskoordinator	3
 helsefaglig	3

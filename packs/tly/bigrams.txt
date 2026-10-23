@@ -17,30 +17,30 @@ be	ki	275
 təkidış	karde	225
 bə	tolışi	221
 bə	dınyo	218
-raporti	əsos	216
+raporti	əsos	215
 iyən	bə	208
 i̇roni	xarıci	203
 və	de	201
 be	və	198
 inə	sorədə	198
 xarıci	vəzir	195
-bə	dast	190
 bıə	ki	190
+bə	dast	189
 ki	bə	188
-i̇	bıə	186
 işorəş	karde	186
 yolə	rəhbəri	185
+i̇	bıə	185
 rəsmi	şəxson	184
 bə	vırə	183
 ki	ım	182
 elanış	karde	181
 bə	i̇ron	175
 karde	iyən	168
-bıə	milləton	166
 nə	sorədə	165
+bıə	milləton	165
+bə	ısət	156
 bə	xıdo	155
-bə	ısət	155
-minnə	sori	151
+minnə	sori	152
 kardə	ki	151
 ki	de	147
 əv	bə	146
@@ -56,9 +56,9 @@ kardə	və	131
 zınəş	be	130
 de	i̇roni	128
 de	ım	124
+tosə	bə	124
 iyən	de	123
 bə	hisob	123
-tosə	bə	123
 və	ım	121
 iyən	co	119
 bə	kəno	118
@@ -110,10 +110,10 @@ i	qılə	93
 çərçivə	konvensiya	93
 bedə	ki	92
 bı	barədə	92
-bə	i̇rna	91
 kardə	bıə	90
 bə	ıştə	90
 ıme	ki	90
+bə	i̇rna	90
 bə	məydon	89
 sionist	rejim	89
 iyən	çəy	88
@@ -130,9 +130,9 @@ de	amerkə	83
 çı	amerkə	83
 əlavəş	karde	83
 bə	əməl	82
-ən	yolə	82
 xarıci	vəzarətxonə	82
 hiç	qılə	81
+ən	yolə	81
 mənsub	bə	81
 i̇roni	millət	80
 i̇roni	prezident	80
@@ -194,9 +194,9 @@ kardəşe	ki	63
 əy	bə	63
 zinə	şəv	63
 ki	i̇roni	63
-har	kəs	62
 kardedə	və	62
 kamion	mənsub	62
+har	kəs	61
 karde	bəbe	61
 hicri	ğəməri	61
 i̇slom	respublika	61
@@ -232,12 +232,12 @@ bə	miyon	55
 de	xıdo	55
 bə	azərbaycan	55
 bə	ki	55
-icod	karde	55
 dodə	ki	55
 hejo	bə	54
 vey	yolə	54
 de	sionist	54
 ni	və	54
+icod	karde	54
 sorədə	əv	54
 respublika	xarıci	54
 bə	həmmə	53
@@ -331,7 +331,6 @@ təmin	karde	44
 bə	tırkiyə	44
 de	rusiyə	44
 çe	əvon	44
-əv	çı	43
 iminə	kərə	43
 bə	həminə	43
 i̇lham	əliyevi	43
@@ -350,6 +349,7 @@ i̇mom	xomeyni	43
 bino	bey	43
 nıvıştə	bə	42
 vote	bəbe	42
+əv	çı	42
 iyən	çı	42
 həmən	bə	42
 qəp	jəy	42
@@ -373,6 +373,7 @@ bə	həmonə	41
 holədə	ki	41
 məhərrəmə	manqi	41
 səudiyə	təcavuzkarə	41
+dınyo	şiəyon	41
 bıə	iyən	41
 icod	bıə	41
 zəxmin	bıən	41
@@ -386,13 +387,11 @@ be	iyən	40
 amerkə	bə	40
 bə	səudiyə	40
 seonist	rejimi	40
-dınyo	şiəyon	40
 nəfər	həm	40
 əlovəş	do	40
 bə	i̇raği	40
 varde	və	40
 tolışə	zıvonədə	40
-de	co	39
 nə	sor	39
 məhv	karde	39
 bo	tolışi	39
@@ -413,6 +412,7 @@ və	əlavəş	39
 xarıci	vəziron	39
 sərost	bykə	39
 bə	jimon	38
+de	co	38
 bə	iyəndı	38
 çimi	bə	38
 tolışi	sədo	38
@@ -436,7 +436,6 @@ qılə	şəxsi	38
 xarıci	koon	38
 har	çi	37
 i	kəs	37
-bə	tolışon	37
 hiç	qıləy	37
 bə	məntəğə	37
 sorədə	bə	37
@@ -456,6 +455,7 @@ iyən	ermənistoni	37
 hestin	ki	36
 təşkil	doə	36
 of	the	36
+bə	tolışon	36
 ım	ko	36
 ə	sori	36
 ki	dəvardə	36
@@ -493,7 +493,6 @@ inə	soriku	35
 ə	həzrəti	35
 edit	source	35
 saəti	mıddətədə	35
-minnə	rujədə	35
 ermənistoni	miyono	35
 zınə	və	35
 tırkiyə	prezident	35
@@ -540,8 +539,8 @@ xarıci	vəziri	33
 mardə	kəson	33
 miğdor	bə	33
 koon	vəziri	33
+minnə	rujədə	33
 hamsuyə	kişvəron	33
-və	ermənistoni	33
 həm	ıştə	33
 çandə	ruj	33
 i	poə	32
@@ -577,7 +576,7 @@ vəzir	bə	32
 bə	fələstini	32
 ki	az	32
 minə	vəzir	32
-və	suriyə	32
+və	ermənistoni	32
 ruj	bənav	32
 bə	dıyo	31
 vositə	bə	31
@@ -605,6 +604,7 @@ i̇roni	milli	31
 de	korona	31
 inə	soronədə	31
 qeneral	mayor	31
+və	suriyə	31
 i̇roni	həmmə	31
 çımiku	bənav	31
 nəfər	kıştə	31
@@ -660,7 +660,6 @@ bıə	qıləy	29
 amerkə	iyən	29
 kardey	xoto	29
 milyard	dollar	29
-xaric	bey	29
 elan	karde	29
 mıborəkə	surə	29
 desbə	ısət	29
@@ -695,9 +694,9 @@ minnə	ruji	28
 əncom	doe	28
 və	qıləy	28
 tələbış	kardə	28
+xaric	bey	28
 ətom	enerji	28
 ısət	bə	28
-işğal	bıə	28
 milyon	dollar	28
 ki	çəvon	28
 ğıvvon	fərmondə	28
@@ -740,6 +739,7 @@ sulh	və	27
 hiç	qıley	27
 çandə	qılə	27
 məntəğədə	bə	27
+işğal	bıə	27
 yanvarə	manqi	27
 bə	yəməni	27
 şəhid	və	27
@@ -830,17 +830,16 @@ tolışə	zıvon	25
 bə	i̇rib	25
 i̇ronədə	peydo	25
 sorədə	əy	25
-milləton	təşkiloti	25
 barədə	de	25
 tolışi	ədəbi	25
 kıştə	bıən	25
 bə	nəzər	25
 oko	doe	25
 i̇roni	mudafiə	25
-qılə	kişvər	24
 ıştə	jimoni	24
 moə	zıvoni	24
 həm	çı	24
+həmən	çı	24
 bə	zəmini	24
 bə	nəticə	24
 komək	karde	24
@@ -881,15 +880,16 @@ ijən	əlovəş	24
 minnə	ruj	24
 bıən	ki	24
 suriyə	və	24
+milləton	təşkiloti	24
 tərəfon	bə	24
 ki	bəpe	24
 təbiəti	elmon	23
+qılə	kişvər	23
 hiç	ki	23
 qəp	jəydə	23
 qıləyni	bə	23
 har	sor	23
 şe	bə	23
-həmən	çı	23
 inə	zıvonədə	23
 bəçəy	sə	23
 və	əmniyyəti	23
@@ -937,7 +937,6 @@ muxtəlifə	baxşonədə	23
 vey	çok	23
 qıləy	bəyoniyə	23
 kardən	ki	23
-vabəstə	bıə	23
 şəhid	bıə	23
 milyon	nəfər	23
 ısətnə	çərçivə	23
@@ -947,7 +946,6 @@ i̇çəşə	divi	23
 i	vırə	22
 co	kardə	22
 qılə	co	22
-ozod	be	22
 rost	karde	22
 rəhmət	şə	22
 de	çəmə	22
@@ -1001,6 +999,7 @@ bıə	i̇ron	22
 i̇roni	i̇slomi	22
 təsdiğış	kardə	22
 kardeyu	bə	22
+vabəstə	bıə	22
 bə	avropə	22
 zinə	i̇roni	22
 və	i̇	22
@@ -1015,6 +1014,7 @@ bə	dı	21
 kardeyro	bə	21
 əy	çı	21
 ki	əv	21
+ozod	be	21
 və	i	21
 bı	həxədə	21
 votedə	ki	21
@@ -1118,7 +1118,6 @@ az	çı	20
 bə	qornə	20
 vəziri	bə	20
 ıştə	xalqi	20
-sore	ki	20
 əy	ıştə	20
 arədə	bə	20
 ədəbi	zıvon	20
@@ -1191,6 +1190,7 @@ kardışe	bə	19
 rəhmət	bıko	19
 bino	kardışe	19
 ıştə	pıə	19
+sore	ki	19
 bə	çiçi	19
 bə	ğərol	19
 kali	qılon	19
@@ -1272,7 +1272,6 @@ bə	əli	18
 xəbə	bə	18
 çəmə	yolə	18
 ha	çımı	18
-şanbə	ruji	18
 hərbi	və	18
 hələ	ki	18
 qıləy	tojə	18
@@ -1380,7 +1379,6 @@ sıxan	bə	17
 bıə	de	17
 mədəniyyət	mərkəzi	17
 çiç	be	17
-ımrujnə	ruji	17
 çəvon	bə	17
 bə	yəndı	17
 lozim	ni	17
@@ -1491,6 +1489,7 @@ sə	dəşe	16
 ali	məktəb	16
 xosə	tolışon	16
 kardedəmon	ki	16
+ımrujnə	ruji	16
 ıştə	umri	16
 hiç	vaxti	16
 ım	bə	16
@@ -1501,6 +1500,7 @@ rəhbər	bə	16
 boy	bə	16
 ıştə	səy	16
 mudafiyə	vəzir	16
+şanbə	ruji	16
 nav	omə	16
 çı	har	16
 kardə	koon	16
@@ -1584,6 +1584,7 @@ vəzir	ijən	16
 millət	iyən	16
 əlovə	bıə	16
 təkid	bıə	16
+sentiyabrə	manqi	16
 ermənistoni	xarıci	16
 daeş	terroristiyə	16
 karde	roədə	16
@@ -1672,7 +1673,6 @@ roy	bə	15
 və	millət	15
 de	miladi	15
 lozim	bə	15
-amerkə	xaric	15
 dı	kərə	15
 hol	ım	15
 rejimi	tərəfo	15
@@ -1691,7 +1691,6 @@ ni	bəbe	15
 erməniston	və	15
 kıştə	bıə	15
 seyed	əbbas	15
-minə	ruj	15
 daxili	koon	15
 həll	karde	15
 iyən	i	15
@@ -1716,6 +1715,7 @@ bombardımon	kardə	15
 çan	qılə	15
 tı	bəmı	15
 ıştə	zıvoni	15
+ısət	i̇ronədə	15
 respublika	mudafiə	15
 təşkilati	fərmondə	15
 konqılə	ki	15
@@ -1727,7 +1727,6 @@ barzo	mamu	15
 rabitəon	bə	15
 iştiroki	bərpo	15
 qrupi	uzvon	15
-sentiyabrə	manqi	15
 bı	zıvonədə	15
 ımruj	de	15
 ərosnə	mərkəzi	15
@@ -1838,6 +1837,7 @@ vəzir	və	14
 və	əv	14
 bıə	ıştə	14
 amerkə	bəpe	14
+amerkə	xaric	14
 zumand	karde	14
 prezdent	ruhani	14
 iyən	sionist	14
@@ -1856,7 +1856,6 @@ ico	bə	14
 bedə	və	14
 be	qoroş	14
 əməl	karde	14
-odəm	bə	14
 bə	qılə	14
 bə	çand	14
 vırə	kardey	14
@@ -1865,6 +1864,7 @@ bə	ğərəboği	14
 nişon	dodə	14
 elan	kardışe	14
 de	milləti	14
+minə	ruj	14
 həmən	çe	14
 ıştə	dılədə	14
 ofayə	bıə	14
@@ -1890,14 +1890,12 @@ kəs	i̇ronədə	14
 i̇ronədə	tosə	14
 kam	bey	14
 de	ovi	14
-ısət	i̇ronədə	14
 hərbi	manevr	14
 nuktə	işorəş	14
 ico	bıə	14
 i̇bə	davləton	14
 iyən	əmniyyəti	14
 bərpo	bıbu	14
-minnə	umumiyə	14
 ıştə	kədə	14
 soxtə	bıə	14
 bıə	ım	14
@@ -2022,7 +2020,6 @@ milləti	zid	13
 və	mubarizə	13
 yəmənıjə	ğıvvon	13
 bə	trampi	13
-minə	vəziri	13
 bə	islamiyə	13
 iyən	i̇ron	13
 bə	islomi	13
@@ -2050,6 +2047,7 @@ jıqo	çi	13
 əlovə	karde	13
 bıə	həmmə	13
 karde	əbıni	13
+odəm	bə	13
 cəvob	doy	13
 bə	pe	13
 de	çı	13
@@ -2068,7 +2066,6 @@ kardışe	əv	13
 ğərbi	kişvəron	13
 səfə	manqi	13
 vaxtədə	bə	13
-tərəfi	əloğəon	13
 cumə	ruji	13
 rəhbəri	bə	13
 i̇mom	həzrəte	13
@@ -2187,7 +2184,6 @@ tolışi	qəp	12
 çı	liki	12
 çəvon	dılədə	12
 mandə	bə	12
-bə	rəbbi	12
 əbı	ni	12
 de	fəxri	12
 bə	işğaliyə	12
@@ -2214,11 +2210,8 @@ nışon	doə	12
 kardəmon	ki	12
 sorədə	çı	12
 yolə	hurməti	12
-bə	qiloni	12
 milləti	tərəfo	12
-ımi	bə	12
 kom	vırə	12
-bə	şəvon	12
 i̇mom	huseyni	12
 bənav	bıə	12
 az	əy	12
@@ -2246,6 +2239,7 @@ bıe	səbəbiku	12
 dini	və	12
 xəbə	doəşe	12
 bə	fələstinı	12
+minə	vəziri	12
 məruz	mandə	12
 çand	nəfər	12
 kişvəri	rabitəon	12
@@ -2443,6 +2437,7 @@ bı	ko	11
 bəştə	xəlği	11
 novruzəli	məmmədov	11
 iyən	zəmini	11
+bə	rəbbi	11
 ve	vaxt	11
 ha	kəs	11
 bə	çaş	11
@@ -2474,7 +2469,10 @@ co	bə	11
 kəşə	bıə	11
 yolə	zoə	11
 ıştə	yolə	11
+bə	qiloni	11
+ımi	bə	11
 fələstinıjə	cıvon	11
+bə	şəvon	11
 jəşe	ki	11
 ki	tojə	11
 dəvomış	heste	11
@@ -2587,6 +2585,7 @@ rujiku	bə	11
 bıə	yolə	11
 mığəddəsə	mıdofiyə	11
 bə	qıy	11
+tərəfi	əloğəon	11
 de	dastə	11
 nişo	doə	11
 bənə	tı	11
@@ -2641,7 +2640,6 @@ im	ruj	11
 şımə	ıştən	11
 vığandə	bıə	11
 vey	odəmon	11
-mənot	pul	11
 amburə	do	11
 canqi	bə	11
 terroristiyə	qrup	11
@@ -2695,7 +2693,6 @@ karde	nibəzne	11
 korona	mubarizə	11
 rejimi	qıləy	11
 ki	rusiyə	11
-fransə	və	11
 jiə	tolışon	11
 diə	kardə	11
 bə	prinsipon	11
@@ -3047,6 +3044,7 @@ bə	i̇sa	10
 bo	çəmə	10
 bino	kardən	10
 çımı	azizə	10
+mənot	pul	10
 de	əli	10
 de	boku	10
 abanə	manqi	10
@@ -3083,7 +3081,6 @@ xoto	ım	10
 de	təkid	10
 şəhid	bedə	10
 peydo	bəkay	10
-tolışə	mığonə	10
 mığonə	respublika	10
 fərvərdinə	manqi	10
 sıvoy	çımi	10
@@ -3108,6 +3105,7 @@ i̇roni	de	10
 ni	əmmo	10
 nışo	bıdə	10
 bois	bıbu	10
+fransə	və	10
 tojədən	i̇roni	10
 dınyo	məmləkəton	10
 şurə	uzvə	10
@@ -3251,7 +3249,6 @@ livani	hezbullah	9
 zinə	xəbon	9
 nəşr	karde	9
 ifadə	karde	9
-xıdo	çəmə	9
 vaxtonədə	bə	9
 kitob	çap	9
 çand	sore	9
@@ -3289,7 +3286,6 @@ cəvobış	doy	9
 jıqo	ko	9
 bə	dumot	9
 diyə	kardə	9
-bə	qorə	9
 çı	qıləy	9
 tolışi	poeziya	9
 tolışə	bandonədə	9
@@ -3302,7 +3298,6 @@ tərəfo	təşkil	9
 kay	ki	9
 bı	parsi	9
 az	bəpe	9
-fələstinıjə	cıvoni	9
 bə	rujon	9
 bə	cıvonə	9
 bo	i	9
@@ -3512,7 +3507,7 @@ işorə	iyən	9
 ijən	işorəş	9
 tı	çəmə	9
 dınyo	çı	9
-şərğədə	bıə	9
+ım	yəni	9
 yəmən	və	9
 iclosi	cərəyonədə	9
 həxon	rioyət	9
@@ -3613,6 +3608,7 @@ suriyə	ərtış	9
 çand	sor	9
 çı	tırkon	9
 elan	kardışone	9
+tolışə	mığonə	9
 prezident	əliəkrəm	9
 əliyevi	bə	9
 əv	həmən	9
@@ -3820,6 +3816,7 @@ tolışi	mədəniyyəti	8
 dosə	ımrujnə	8
 inkişafi	roədə	8
 ve	şo	8
+xıdo	çəmə	8
 kardə	har	8
 bəştə	moə	8
 zıvonədə	nıvıştə	8
@@ -3860,6 +3857,7 @@ soyb	be	8
 xəbəş	səy	8
 qırdə	be	8
 bı	ruj	8
+bə	qorə	8
 bə	moə	8
 bəmə	doə	8
 nə	qədər	8
@@ -3875,6 +3873,7 @@ səy	bə	8
 bə	nənə	8
 çı	azərbayconi	8
 ərəbıston	de	8
+fələstinıjə	cıvoni	8
 bəmı	votışe	8
 ə	sıxanon	8
 boçi	bəpe	8
@@ -4160,7 +4159,8 @@ masalli	rəyoni	8
 kardə	bıəbe	8
 təbrik	kardeydəmon	8
 həm	ın	8
-ım	yəni	8
+i̇ronədə	korna	8
+şərğədə	bıə	8
 de	vey	8
 ki	tolışi	8
 mir	həsən	8
@@ -4182,7 +4182,6 @@ ni	bəlkəm	8
 ərtış	dıyo	8
 nə	sordə	8
 i	zairon	8
-minnə	i̇mom	8
 çəy	bəfodorə	8
 pokə	hərəm	8
 şəxson	miyono	8
@@ -4197,7 +4196,6 @@ allahi	roədə	8
 və	stabiləti	8
 votışe	bəy	8
 bə	kəy	8
-sə	ve	8
 nomədə	bıə	8
 bənə	co	8
 bə	ovi	8
@@ -4468,7 +4466,6 @@ turizm	iyən	8
 i̇	kərən	8
 i	sornə	8
 təşkiloti	yol	8
-minnə	iclosədə	8
 mədəniyyət	və	8
 tırkiyə	bə	8
 ibn	əli	8
@@ -4497,7 +4494,6 @@ pəydo	bıə	8
 təkidış	be	8
 imzo	bey	8
 vəzir	husein	8
-tərəfiyə	rabitəon	8
 imom	huseyni	8
 vəy	qətey	8
 ıştə	vırəşon	8
@@ -4679,7 +4675,6 @@ munasibəti	dıli	7
 hejo	bənə	7
 yolə	nailiyyəton	7
 sor	təmom	7
-im	sor	7
 hisob	kardən	7
 ruj	çımi	7
 az	deştə	7
@@ -4709,7 +4704,6 @@ i̇	kəs	7
 im	sıxanon	7
 ıştı	həxədə	7
 pəydo	be	7
-bə	bi	7
 əy	çok	7
 çok	zınedəm	7
 ıştə	dimi	7
@@ -5030,7 +5024,6 @@ peydo	bəkarde	7
 çəvonku	təğribən	7
 çəş	kardən	7
 nəfər	i̇ronədə	7
-i̇ronədə	korna	7
 zıvonədə	bıə	7
 sə	kardə	7
 ğarət	karde	7
@@ -5058,6 +5051,7 @@ tirə	manqi	7
 şəhid	bin	7
 i̇şğal	bıə	7
 həmohənqəkə	muavin	7
+minnə	i̇mom	7
 i̇raği	rəsmi	7
 həvo	iyən	7
 həmləon	nəticədə	7
@@ -5075,6 +5069,7 @@ həmən	co	7
 bıə	holədə	7
 minə	soronədə	7
 oko	doydəmon	7
+minnə	umumiyə	7
 həmkoətion	barədə	7
 məntəğə	məsələon	7
 həminə	barədə	7
@@ -5083,6 +5078,7 @@ milləti	həx	7
 ğərore	ki	7
 mehr	manqi	7
 məhsulon	ixracat	7
+sə	ve	7
 de	miyonə	7
 vırə	be	7
 qılə	vırədə	7
@@ -5240,7 +5236,6 @@ hələb	şəhri	7
 i̇roni	tolışi	7
 qılə	kişvəriku	7
 muzakirəşon	karde	7
-çı	terroriston	7
 i̇ron	həm	7
 ehdəmonon	əməl	7
 ğəzzə	şimal	7
@@ -5589,7 +5584,6 @@ fələstin	islamiyə	7
 bandiyə	məntəğə	7
 kardeş	zınə	7
 ğıvvon	həvo	7
-suriyə	dıvləti	7
 tolışi	xəlxi	7
 qədə	qrupon	7
 fatimə	zəhra	7
@@ -5662,6 +5656,7 @@ təmom	be	6
 şə	ro	6
 çəmə	qəzeti	6
 çı	hilal	6
+çı	qəzeti	6
 bəvon	bə	6
 boçi	çəmə	6
 bə	qədə	6
@@ -5752,6 +5747,7 @@ vədə	bənə	6
 iminə	nubədə	6
 de	movardə	6
 dırozə	umur	6
+im	sor	6
 bə	polisi	6
 əmə	ve	6
 jə	bə	6
@@ -5794,7 +5790,6 @@ muhasirəş	kardə	6
 tı	bəpe	6
 çiçi	lozime	6
 fikron	bə	6
-cıvoni	şəhodət	6
 be	xoto	6
 kənoədə	de	6
 ve	vaxte	6
@@ -6247,7 +6242,6 @@ qılə	i̇ronıjə	6
 i̇lahi	əsma	6
 məsir	və	6
 bə	millət	6
-minnə	sorəqardışi	6
 zıneydə	ki	6
 har	zəmon	6
 tırkə	zıvono	6
@@ -6348,6 +6342,7 @@ tolyši	bandon	6
 əməl	omən	6
 vəzorətxonə	sıxənəvot	6
 behron	icod	6
+oktiyabrə	manqi	6
 ğəbulış	kardə	6
 vəsait	co	6
 tolış	bəpe	6
@@ -6434,7 +6429,6 @@ vəziri	muavini	6
 icro	kardey	6
 milyard	riyal	6
 həmkarion	dəvom	6
-edleb	ostani	6
 suriyə	şimalədə	6
 tərəfiyə	iclosi	6
 de	həmmə	6
@@ -6516,6 +6510,7 @@ kardəşon	ni	6
 suriyə	prezident	6
 bə	muxtəlif	6
 suriyə	ıştə	6
+çı	terroriston	6
 ğuds	təşkilati	6
 kişvər	səfərış	6
 və	muzakirəş	6
@@ -6604,7 +6599,6 @@ konvensiya	bo	6
 bo	avropə	6
 ğol	kəşero	6
 bəpeşt	omə	6
-ku	bə	6
 hərbiyə	qəmi	6
 iddio	bıə	6
 i	kərəən	6
@@ -6698,6 +6692,7 @@ azərboycon	respublikə	6
 həlok	və	6
 zəxmin	bıey	6
 bə	hukumət	6
+sori	sentiyabrə	6
 rujədə	de	6
 ərəbistoni	xarıci	6
 sıftəku	jıqoşə	6
@@ -6711,6 +6706,7 @@ inən	həvo	6
 həvo	kutlon	6
 mussonə	həvo	6
 ru	isə	6
+buə	ruon	6
 karde	ve	6
 əholi	bandiəti	6
 ə	ğədimə	6
@@ -6810,6 +6806,7 @@ kardey	votışe	6
 bəpeşt	çı	6
 bə	xərem	6
 sard	be	6
+vey	buə	6
 eruə	ruon	6
 həvon	təsiri	6
 amerkə	ısətnə	6
@@ -6901,6 +6898,7 @@ mərəncoədə	mandə	6
 tolışə	balon	6
 məntəğə	əmniyyət	6
 şosse	roon	6
+minnə	iclosədə	6
 bə	xəšəxuni	6
 bə	nyso	6
 cy	asijə	6
@@ -7026,7 +7024,6 @@ dollar	erj	6
 komək	bəkay	6
 inkişof	rəseyro	6
 iştirak	kardə	6
-umumiyə	icmaədə	6
 tanqə	sionist	6
 ce	məǧolə	6
 qılə	bepilotə	6
@@ -7079,6 +7076,7 @@ i̇raği	həşdu-şəəbi	6
 fələstin	əraziədə	6
 cımə	imom	6
 iyən	şəhid	6
+suriyə	dıvləti	6
 muhərrəmə	manqi	6
 tolışə	şeiron	6
 bəhs	kardə	6
@@ -7124,17 +7122,14 @@ bə	ehdımonon	6
 co-vıjneəti	ro	6
 bəndədə	bə	6
 kami	zıvoni	6
-bıə	di	6
 qıləy	fırsət	6
 rejimi	ərtışi	6
 şəhidi	nəşi	6
-minnə	iclosi	6
 sanksiyaon	barədə	6
 i	imoməti	6
 həsən	əskəri	6
 dialekt	və	6
 ğələmi	xıvand	6
-islom	vəl	6
 i̇sveç	və	6
 və	finlandiya	6
 ozoni	lay	6
@@ -7159,6 +7154,7 @@ vırə	qətə	5
 vaxti	çı	5
 tolışi	ən	5
 i̇roni	iyən	5
+dıroz	bedə	5
 tike	vey	5
 okeani	ovon	5
 qədə	asiyə	5
@@ -7198,14 +7194,12 @@ yolə	ustod	5
 yolə	odəm	5
 vəşə	ço	5
 millət	hiç	5
-çı	qəzeti	5
 qəzeti	koməkəti	5
 jıqo	zınedən	5
 co	kəs	5
 baş	redaktoru	5
 məqalə	və	5
 idi	ki	5
-heç	kim	5
 və	həmişə	5
 novruzəli	müəllimi	5
 qirəm	əvon	5
@@ -7261,7 +7255,6 @@ alim	və	5
 seyed	həsən	5
 internetiyə	mərkəzi	5
 from	the	5
-ba	bun	5
 bə	u	5
 on	roof	5
 boku	şəhərədə	5
@@ -7324,7 +7317,6 @@ nımunon	bə	5
 sorədə	çəmə	5
 i	vaxt	5
 rast	ome	5
-bə	vıjor	5
 de	ımrujnə	5
 de	həmə	5
 vey	vaxti	5
@@ -7417,6 +7409,7 @@ bə	çayxonə	5
 çi	bə	5
 bə	yodım	5
 bıə	vırəon	5
+cıvoni	şəhodət	5
 sıxanon	ki	5
 bəy	qıləy	5
 şımə	arədə	5
@@ -7552,7 +7545,6 @@ bə	turan	5
 daxili	və	5
 jiyədə	ğəror	5
 az	ki	5
-kiy	ki	5
 az	şıməku	5
 bə	dınyoədə	5
 amerkə	vəy	5
@@ -7860,7 +7852,6 @@ bıbo	ki	5
 milləti	sədo	5
 i̇roni	daxıli	5
 anti	bəşər	5
-ruji	raporti	5
 ım	vindımonədə	5
 liki	rəyon	5
 çokə	ro	5
@@ -7912,7 +7903,6 @@ oxo	əv	5
 çoko	bə	5
 xıdo	əməni	5
 bu	tolerant	5
-hər	iki	5
 heç	nə	5
 xəbon	bə	5
 vaxt	çımı	5
@@ -8047,6 +8037,7 @@ umri	dırozi	5
 xıdo	iştə	5
 ğoym	kardə	5
 zinə	i̇ronədə	5
+jə	bəy	5
 pars	tuday	5
 sosyal	şəbəkəonədə	5
 ziyod	kardedə	5
@@ -8195,7 +8186,6 @@ rəbb	i̇sa	5
 i̇sa	barədə	5
 rəsəyn	bə	5
 ce	vikipedia	5
-ja	ne	5
 ovaxte	bəzne	5
 čo	gylə	5
 ğədrdonəti	kardey	5
@@ -8221,7 +8211,6 @@ fələstin	millət	5
 soriku	çe	5
 ijən	ce	5
 bə	tolyši	5
-tolyši	xanəti	5
 pešo	bə	5
 bə	cəj	5
 pəjdo	karde	5
@@ -8230,7 +8219,6 @@ i̇roni	marzi	5
 livon	bə	5
 ım	şura	5
 iyən	dastqir	5
-oktiyabrə	manqi	5
 məsuliyəti	ğəbulış	5
 bey	bənav	5
 de	i̇slamiyə	5
@@ -8259,7 +8247,6 @@ karde	vocibe	5
 bəştə	məxsus	5
 kon	zıvonədə	5
 zıvonədə	sıxan	5
-co	ro	5
 çəmə	cıvonon	5
 fəlsəfə	doktor	5
 tolışə	jenon	5
@@ -8295,7 +8282,6 @@ puli	bə	5
 həmul	kardə	5
 ofəyə	bıə	5
 bıdə	əv	5
-ğəzzə	məntəğədə	5
 de	pesoxtə	5
 de	artileriya	5
 artileriya	bə	5
@@ -8361,6 +8347,7 @@ i̇roni	i̇slomiyə	5
 həmro	bə	5
 fəal	karde	5
 icro	bəbe	5
+edleb	ostani	5
 balestik	rəketi	5
 avğustə	manqi	5
 məsələ	əlağədar	5
@@ -8545,7 +8532,6 @@ həmlə	kardeşone	5
 rədio	raporti	5
 bıə	kəsonku	5
 dıvrə	daveon	5
-ku	bino	5
 rabitə	cərəyonədə	5
 mınoğişə	həl	5
 həl	kardero	5
@@ -8605,6 +8591,7 @@ sioniston	bə	5
 prezdent	bə	5
 bə	şiə	5
 do	kaşte	5
+ku	bə	5
 hələ	ım	5
 çəvon	vəziyət	5
 vəziyət	çok	5
@@ -8694,7 +8681,6 @@ oroməti	iyən	5
 daxil	karde	5
 respublika	bənə	5
 məsələon	həlliro	5
-bəşəri	fərzəndon	5
 ommani	xarıci	5
 viyanaədə	bıə	5
 ğədrdonətiş	kardə	5
@@ -8737,7 +8723,6 @@ portal	tibb	5
 rabitəon	inkişofi	5
 neynəvo	əyoləti	5
 əyoləti	əl-həmdaniyə	5
-sori	sentiyabrə	5
 koon	iyən	5
 beynəlxalğə	mısobiğəonədə	5
 həzo	barel	5
@@ -8768,9 +8753,9 @@ himalay	bandon	5
 əhotə	kardə	5
 molik	buə	5
 dıyo	həvo	5
+ku	vey	5
 bəməl	vardedə	5
 hard	kardə	5
-buə	ruon	5
 ni	bo	5
 bənə	merdi	5
 bərpo	bəkarde	5
@@ -8903,7 +8888,6 @@ detobə	ımrujnə	5
 coqlə	məmləkəton	5
 xeyli	bə	5
 avropə	kəfşənondə	5
-vey	buə	5
 ruon	bə	5
 mionə	inən	5
 həvo	bə	5
@@ -9058,7 +9042,6 @@ milləti	jiye	5
 ğıvvon	kamandiri	5
 bə	sepah	5
 votışe	iyən	5
-vəl	muslemin	5
 kəşfiyot	təşkilaton	5
 təşkilat	elanış	5
 xordadə	manqi	5
@@ -9122,7 +9105,6 @@ bə	žimon	5
 vəziron	vindemon	5
 vəziron	iclosi	5
 təşkiloti	sədr	5
-nıtğ	kardey	5
 hərbi	əməliyoti	5
 prezdent	i̇lham	5
 inə	çeçenistoni	5
@@ -9226,7 +9208,6 @@ ruhani	və	5
 oşkoş	kardə	5
 dınyo	canqadə	5
 zair	bə	5
-mərkəz	və	5
 tuvitter	mesajədə	5
 barədə	ve	5
 rejimi	vey	5
@@ -9290,7 +9271,6 @@ minnə	şəv	5
 i̇ron	vey	5
 mıstəğil	bey	5
 həmmə	qrupon	5
-vəl	muslimin	5
 ərəbon	əmirətion	5
 suleymani	və	5
 suleymani	terrori	5
@@ -9347,6 +9327,7 @@ iştirakış	kardəşe	5
 həlok	bıə	5
 york	səfə	5
 səfə	kardey	5
+umumiyə	icmaədə	5
 ğəror	bıə	5
 katib	bıə	5
 inə	prezident	5
@@ -9551,6 +9532,7 @@ bə	şəxs	5
 bə	co-vıjneəti	5
 bı	bəndədə	5
 ro	ən	5
+bıə	di	5
 kinəon	həndbol	5
 milli	kamandə	5
 islamiyə	i̇ron	5
@@ -9631,7 +9613,6 @@ dınyo	i	4
 iminə	vırədəy	4
 asiyə	inən	4
 materiki	xərem	4
-dıroz	bedə	4
 yəndıku	co	4
 qırd	qətedə	4
 vey	dəşe-beşeye	4
@@ -9866,6 +9847,7 @@ bıən	bə	4
 məydon	omə	4
 tolışə	ədəbi	4
 məsəlon	bə	4
+bə	vıjor	4
 xəbə	doydən	4
 dastək	bıə	4
 yolə	hurmət	4
@@ -10420,7 +10402,6 @@ isət	əv	4
 həmən	bənəy	4
 şanqonə	harde	4
 şəvi	ruj	4
-odəmi	jıqo	4
 odəm	de	4
 nim	saat	4
 bəy	nez	4
@@ -10622,6 +10603,7 @@ tovsiyəş	karde	4
 kon	ki	4
 həxon	vəziyəti	4
 və	sohbət	4
+ruji	raporti	4
 çokə	əloğəon	4
 mıştərək	noğtəon	4
 bəçəy	xıyzoni	4
@@ -10871,7 +10853,6 @@ i̇ronədə	koronavirusiku	4
 i̇ronədə	koronapeyvəndi	4
 həzo	doza	4
 fəğət	zinə	4
-jə	bəy	4
 fərhənqi	iyən	4
 bəzi	vıronədə	4
 soxtə	və	4
@@ -10909,7 +10890,6 @@ təğib	bıbu	4
 hələ	hiç	4
 vote	bıdə	4
 ğədəğən	be	4
-har	tolış	4
 ko	kardero	4
 rost	bıkə	4
 bə	azərboycon	4
@@ -10924,6 +10904,7 @@ bəyji	bəkarde	4
 hərəkət	kardedən	4
 respublika	əmniyyəti	4
 icozə	nibədamon	4
+minnə	sorəqardışi	4
 ki	deşmənon	4
 ki	islami	4
 aqah	və	4
@@ -10954,6 +10935,7 @@ oxoədə	bə	4
 ım	sıxənon	4
 doe	holədən	4
 holədən	və	4
+de	du	4
 inə	sasorədə	4
 ki	fars	4
 ərtışi	həmohənqəkə	4
@@ -11089,6 +11071,7 @@ qəp	jəşone	4
 vardışone	bə	4
 rəsmi	prinsiponədə	4
 bərobər	əməl	4
+ja	ne	4
 istifadə	məkən	4
 karde	bəznın	4
 iyən	imkanaton	4
@@ -11125,6 +11108,7 @@ partiya	dəşə	4
 ədə	əv	4
 nazir	bıə	4
 soxtə	byə	4
+tolyši	xanəti	4
 gətym	kardə	4
 mir	mystəfo	4
 bandon	ce	4
@@ -11188,6 +11172,7 @@ doy	ve	4
 ıştə	tarıxi	4
 şo	kardə	4
 bı	məsələdə	4
+co	ro	4
 tırkə	zıvoni	4
 ıştə	rəsmi	4
 bə	iminnə	4
@@ -11282,6 +11267,7 @@ hərəkət	bıkən	4
 həmul	karde	4
 mərkəzi	hucum	4
 fələstinı	muğavimət	4
+ğəzzə	məntəğədə	4
 yarəjə	kardən	4
 i̇rağədə	daeş	4
 muhəmməd	əli	4
@@ -11579,8 +11565,6 @@ hərorətinə	iştirok	4
 hərbiçiyon	bə	4
 di	sakinon	4
 muğavimət	karde	4
-terroriston	dastiku	4
-dastiku	ozod	4
 rejim	qıləy	4
 tırkiyə	be	4
 ğasım	soleymani	4
@@ -11692,6 +11676,7 @@ muğavimət	qurupon	4
 repressivə	hərəkəton	4
 həbs	məhkum	4
 muğavimət	cəhbədə	4
+ku	bino	4
 de	telefoni	4
 yolə	təhdid	4
 nibəbe	və	4
@@ -11806,7 +11791,6 @@ bə	xanəli	4
 merd	bəpe	4
 əmmo	hiç	4
 vanq	əkəy	4
-bıdə	çımı	4
 zoə	ıştə	4
 çand	bəjəm	4
 era	bə	4
@@ -11936,6 +11920,7 @@ və	tranziti	4
 piyə	odəmon	4
 de	şoyvo	4
 ki	mıni	4
+bəşəri	fərzəndon	4
 əcumlə	bə	4
 əmirəbdullahiyan	və	4
 hevujəti	barədə	4
@@ -12270,7 +12255,6 @@ oxo	bırəsi	4
 bey	zınəş	4
 bə	təxir	4
 muzakirə	əkə	4
-bəzi	co	4
 cəvob	doeyu	4
 mərkəzon	hucumışon	4
 ojbemoni	mərosim	4
@@ -12729,6 +12713,7 @@ fərda	qədirov	4
 inə	soronku	4
 ce	vikipedijə	4
 kişvəron	xarıci	4
+nıtğ	kardey	4
 bə	ğovmi	4
 fəğət	çand	4
 və	tehroni	4
@@ -12805,7 +12790,6 @@ ruj	nom	4
 amerkə	prezdenti	4
 bə	tələbəon	4
 hərbi	təcavuzi	4
-tərəfiyə	həmkari	4
 zinə	azərbaycan	4
 bə	xususi	4
 oxonə	ruji	4
@@ -12926,6 +12910,7 @@ səbarzəti	bəpeştə	4
 zu	iyən	4
 ləşkərədə	ko	4
 hakimiyyət	omə	4
+mərkəz	və	4
 tojə	tuvitter	4
 xəbə	elani	4
 milləti	kənoədə	4
@@ -12933,7 +12918,6 @@ enerji	baxşədə	4
 peydo	kardeyro	4
 bino	beədə	4
 coninə	ğıvvə	4
-qılə	sə	4
 de	məxsusə	4
 dəğande	və	4
 tolışə	iyən	4
@@ -13183,7 +13167,6 @@ sadir	kardey	4
 i̇lhom	əliyevi	4
 iyən	hamsuyə	4
 i̇roni	qomrok	4
-minnə	dıvləti	4
 i̇roni	əmtəə	4
 azərtac	aqentiyəti	4
 dıjdə	britaniya	4
@@ -13317,7 +13300,6 @@ iddioş	be	4
 həmkarəti	kardedə	4
 tırkiyə	de	4
 bə	israil	4
-minnə	əlavə	4
 əlavə	protokoli	4
 minnə	maddədə	4
 hərəkati	rəis	4
@@ -13658,7 +13640,6 @@ rujonədə	i̇roni	4
 ənsarullah	ğıvvon	4
 ımrujnə	rujiku	4
 dey	manqi	4
-minnə	yolə	4
 mənafe	əsos	4
 huccətul	islom	4
 seyd	muhəmməd	4
@@ -13837,7 +13818,7 @@ xeyzoni	i̇roni	3
 i̇roni	zıvonon	3
 sıxanon	hestin	3
 inən	iminə	3
-km	məsafədə	3
+məsafədə	dıroz	3
 tonokənon	tike	3
 kardə	ərəbiston	3
 körfəzi	bino	3
@@ -13872,7 +13853,6 @@ voteydən	ki	3
 məna	doydə	3
 ın	nom	3
 nişoş	doə	3
-inkşofış	kardə	3
 noe	inən	3
 sardə	canqi	3
 iqtisadi	inən	3
@@ -13950,7 +13930,6 @@ diədə	çəmə	3
 hukməti	odəmon	3
 kardə	ın	3
 tolışə	millət	3
-minə	numrə	3
 qəzeti	de	3
 rosti	bıvotom	3
 sore	de	3
@@ -13959,6 +13938,7 @@ be	ve	3
 mənəvi	dastək	3
 bə	nubə	3
 milləti	hiç	3
+minə	numrə	3
 qəzetinin	baş	3
 biz	də	3
 xalid	bağırov	3
@@ -14357,7 +14337,6 @@ xx	əsri	3
 ofəyə	bə	3
 uzv	bıəm	3
 məclisi	uzv	3
-tolışi	sipirişon	3
 rostbemoni	roədə	3
 karde	zınedənim	3
 bəşıkrə	nıbə	3
@@ -15220,6 +15199,7 @@ xonəku	bə	3
 qılə	kəybəş	3
 sə	noə	3
 sırəş	karde	3
+odəmi	jıqo	3
 jıqo	omedəbe	3
 mizi	kəno	3
 əve	əy	3
@@ -15399,7 +15379,6 @@ fıtrə	idi	3
 ruji	barədə	3
 məruz	mandən	3
 dim	beşə	3
-mlrd	sor	3
 ome	bino	3
 yeqanə	hələkə	3
 planon	bə	3
@@ -16071,6 +16050,7 @@ korna	peyvəndiku	3
 peyvəndiku	istifodə	3
 doza	nezi	3
 korona	peyvənd	3
+peyvənd	jə	3
 qıləy	i̇roni	3
 iyən	məlumaton	3
 sorisə	vey	3
@@ -16235,7 +16215,6 @@ bə	mı	3
 boçiki	ım	3
 ıştə	kişvəriku	3
 i̇ron	hərəkəton	3
-de	du	3
 pəù	ə	3
 ə	s	3
 bə	ğanunon	3
@@ -16290,6 +16269,7 @@ bə	ğoymə	3
 noxəş	zıney	3
 i̇ronədə	cəmədə	3
 bə	covid	3
+vaksin	tosə	3
 koədə	çe	3
 vəyu	vardedə	3
 diy	soveti	3
@@ -17418,6 +17398,8 @@ amerkəku	təbəiyət	3
 təbəiyət	karde	3
 suriyəku	xəbə	3
 aksiya	dəvoniyə	3
+terroriston	dastiku	3
+dastiku	ozod	3
 ijən	sionist	3
 terroristonku	himoyədorəti	3
 siyasəton	dəvomədə	3
@@ -17865,6 +17847,7 @@ mınış	vanq	3
 bı	arədə	3
 xanəli	boli	3
 ğobədəli	mamu	3
+bıdə	çımı	3
 kə	oqardeədə	3
 qılə	moğnə	3
 interneti	ğıymət	3
@@ -18405,7 +18388,7 @@ oxonə	vindemonədə	3
 səbarz	bıə	3
 kəsbış	kardə	3
 fərğ	heste	3
-qırd	kardə	3
+km	məsafədə	3
 inən	hindiston	3
 niməsəku	kobəson	3
 barzə	bandə	3
@@ -18843,6 +18826,7 @@ səudiyə	təcavuzkorə	3
 təcavuzkorə	koalisiya	3
 sulh	muzakirəonədə	3
 məğlubiyəti	dim	3
+bəzi	co	3
 sori	martiku	3
 martiku	bə	3
 yəmən	hərbi	3
@@ -19332,7 +19316,6 @@ pul	doydən	3
 kardənin	ki	3
 vüqar	mustafayev	3
 çox	maraqlı	3
-cu	ildən	3
 bir	daha	3
 yüzlərlə	talış	3
 bu	sevgi̇yə	3
@@ -19477,7 +19460,6 @@ sədo	votışe	3
 im	odəmon	3
 iyən	əloməton	3
 rostə	tərəfədə	3
-vəd	kardə	3
 milli	mətbuati	3
 oməy	kardə	3
 uğuron	noc	3
@@ -19975,6 +19957,7 @@ de	səhihə	3
 məsləhət	və	3
 ğuds	fərmondə	3
 hiç	curnə	3
+tərəfiyə	həmkari	3
 tırkiyə	nəğliyot	3
 texnoloqiya	və	3
 rabitə	iyən	3
@@ -20142,7 +20125,6 @@ nışo	do	3
 əloğəon	adi	3
 adi	karde	3
 ki	hukmən	3
-we	are	3
 jə	qəpon	3
 ğərəbaği	məntəğədə	3
 elan	kardeşone	3
@@ -20197,7 +20179,6 @@ komil	bey	3
 ğədimi	iyən	3
 rejimi	hərbiçiyon	3
 bina	soxte	3
-tolış	mığon	3
 əv	tolışi	3
 maçə	karde	3
 ğıbon	bə	3
@@ -20308,6 +20289,7 @@ bəes	rejimi	3
 bombaonku	istifodə	3
 im	həmlədə	3
 xalğ	iyən	3
+tərəfiyə	rabitəon	3
 bəbe	ijən	3
 iyən	bois	3
 stabilə	əmniyyəti	3
@@ -20642,7 +20624,6 @@ mardə	odəmon	3
 baxşi	qıniyə	3
 bəştə	pıə	3
 bə	bəhməni	3
-elvin	i̇sayev	3
 cəvob	doəşe	3
 jiə	odəmon	3
 ıştə	bı	3
@@ -20662,6 +20643,7 @@ ekoloqiya	cəhəto	3
 kaspiyən	portiku	3
 ənzəli	ozodə	3
 ozodə	məntəğə	3
+qılə	sə	3
 sa	sore	3
 xıdo	və	3
 bıkənən	ki	3
@@ -20905,6 +20887,7 @@ si	sor	3
 çe	yolə	3
 xarıci	siyasətədə	3
 və	eko	3
+minnə	dıvləti	3
 ton	əmtəə	3
 sanksiyaon	benəticə	3
 sanksiyaon	ki	3
@@ -21178,7 +21161,6 @@ rəhbər	ıştə	3
 dışmenon	tərəfo	3
 xıdovənde	xalıği	3
 kamissiya	iclos	3
-bıə	məntəğəon	3
 boku	dıvlət	3
 əməl	nıkardə	3
 ro	nəğliyat	3
@@ -21284,7 +21266,7 @@ ofəyə	karde	3
 iyən	dı	3
 muzakirə	bə	3
 kamion	həxon	3
-muhacir	hukuməti	3
+minnə	əlavə	3
 de	beynəlxəlqə	3
 beynəlxəlqə	i̇nə	3
 jie	orzu	3
@@ -22296,7 +22278,6 @@ rəhəri	əsəron	3
 əsəron	muntəşir	3
 məlumatərosnə	sayti	3
 tanqədə	bıə	3
-minnə	i̇momi	3
 istifodəş	kardə	3
 vardə	be	3
 bıə	canq	3
@@ -22329,6 +22310,7 @@ və	i̇nqılstoni	3
 peydo	və	3
 kəşf	be	3
 i̇raği	muxtəlif	3
+minnə	iclosi	3
 təhəvvulaton	barədə	3
 omani	xarıci	3
 ım	votımonədə	3
@@ -22386,7 +22368,6 @@ umjən	bıə	3
 yazılı	ədəbi	3
 xalqa	yaxın	3
 kütlə	vahidləri	3
-he	was	3
 for	the	3
 financial	support	3
 to	all	3
@@ -22427,7 +22408,6 @@ ofəy	kardə	3
 şair	etibar	3
 və	əçe	3
 və	bı	3
-səlomət	bi	3
 çe	vətəniku	3
 etibar	muəllimi	3
 şeiriədə	şair	3
@@ -22729,7 +22709,6 @@ yol	ijən	3
 mıborəkə	manqi	3
 manqi	fəziləton	3
 cinoyəton	oqətey	3
-curnə	cəzirəon	3
 co	nıbıə	3
 dıyo	həmkoəti	3
 həmkoəti	şura	3

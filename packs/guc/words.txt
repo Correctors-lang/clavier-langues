@@ -1,42 +1,42 @@
 # Wayuunaiki : FineWeb-2 guc_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-tü	7244
-de	3713
+tü	7238
+de	3706
 wayuu	2477
-la	2322
-süpüla	2300
-sünain	2267
-na	1703
-a	1629
-chi	1628
-y	1573
-en	1528
-que	1511
+la	2320
+süpüla	2297
+sünain	2265
+na	1701
+a	1627
+chi	1620
+y	1571
+en	1526
+que	1509
 el	1498
-otta	1314
+otta	1308
 jee	1127
 wanee	1115
 shia	1048
-los	1047
 wane	1045
+los	1044
 naa	1023
 kasa	914
 maleiwa	894
-süka	878
+süka	876
 sümaa	817
-je	816
+je	803
 tüü	775
-del	732
+del	731
 las	709
 se	679
 para	663
 nia	629
-u	611
-waya	609
+u	610
+waya	608
 naya	602
 eekai	587
 sulu'u	586
-sutuma	564
+sutuma	563
 pütchi	536
 namüin	534
 nümüin	518
@@ -47,39 +47,39 @@ tüu	501
 anain	489
 tia	488
 eere	485
-jia	473
 mmakat	472
+jia	471
 por	466
 con	452
 saa'u	426
 suulia	425
-müleka	408
 aka	404
+müleka	400
 mma	398
 müsia	389
-wayuukana	389
+wayuukana	388
 un	385
 sümüin	380
 siia	377
 una	376
-es	368
+es	362
 no	360
-o	356
+o	355
 su	353
 nütüma	338
 naa'in	324
-sünainjee	313
+sünainjee	312
 maleiwakai	310
 ma'i	299
 al	294
 süpüshua	289
 yaa	288
 the	287
-waneepia	285
+waneepia	284
 sunain	266
 wajiira	264
-in	263
 nümaa	263
+in	262
 sus	252
 cristo	249
 nnojotsü	249
@@ -87,21 +87,21 @@ supüla	247
 sic	245
 müin	239
 sükajee	236
-maa	234
 paala	234
 chaa	230
+maa	230
 süchiki	227
 jümüin	225
 anasü	225
-juya	224
+juya	223
 wamüin	222
 pia	222
 alijuna	218
-wanaa	217
+wanaa	215
 saa'in	209
 guajira	207
 shiia	205
-e	201
+e	199
 ne'e	197
 ipa	193
 lo	190
@@ -128,7 +128,7 @@ este	161
 sütüma	158
 nüchiki	157
 maka	153
-anakaja	153
+anakaja	152
 wenesueela	151
 nünain	149
 so'ü	143
@@ -137,11 +137,10 @@ wiwüliakat	142
 ya	140
 sumaa	138
 suluʼu	137
-eeshi	136
 porque	136
-wainma	134
+eeshi	135
 gov	134
-co	134
+wainma	133
 nünüiki	133
 kajamüin	132
 nnojolüin	131
@@ -151,10 +150,11 @@ jesucristo	126
 of	125
 anaataa	124
 municipio	123
-shiimüin	121
+co	123
 achiki	121
 and	121
 sulü	120
+shiimüin	119
 to	119
 ka	119
 sümaiwa	118
@@ -186,13 +186,13 @@ atuma	95
 ma'in	95
 so'u	95
 tepichi	95
-palajana	94
 wayuunaiki	94
 donde	94
 sou	94
 mojusü	94
 jesuu	94
 sain	93
+palajana	93
 soʼu	93
 nanüiki	91
 natüma	91
@@ -202,8 +202,8 @@ datos	91
 más	90
 cuando	90
 ma	90
-aa'in	89
 kai	89
+aa'in	88
 kasain	88
 alijunaka	88
 nnojoishi	87
@@ -282,7 +282,6 @@ naashin	63
 hay	63
 niain	63
 anaatawaa	63
-kaa	62
 atüma	62
 sünainmüin	62
 niños	62
@@ -293,6 +292,7 @@ también	60
 entre	60
 protección	60
 noumain	60
+kaa	59
 mürüt	59
 nüchekakat	59
 venezuela	59
@@ -328,17 +328,16 @@ cual	55
 así	55
 main	55
 días	55
-nnojo	55
 servicios	55
 kolomwia	55
 solicitud	55
-situación	55
 sipi	55
 nüchonkai	54
-ain	54
 so'uweena	54
 nnojolin	54
+nnojo	54
 marakaaya	54
+situación	54
 waneeirua	53
 mmakaa	53
 naapüin	53
@@ -355,6 +354,7 @@ nojotsu	53
 alatakaa	53
 süchiirua	52
 kasachiki	52
+ain	52
 eeshii	52
 tienen	52
 derecho	52
@@ -380,7 +380,6 @@ estado	49
 nojolüin	49
 mapa	49
 trabajo	49
-watüjaa	49
 poloo	49
 sukuwaʼipa	49
 familias	49
@@ -403,18 +402,18 @@ podrá	48
 eeka	47
 yala	47
 juan	47
+wayakana	47
 pablo	47
 artículo	47
 upuna	47
 michi	47
 mainma	47
 sumaiwa	46
-saa'ujee	46
 sa'in	46
 les	46
-wayakana	46
 süpüshuaʼa	46
 palaaka	46
+saa'ujee	45
 nünainmüin	45
 toolo	45
 wayuukai	45
@@ -426,6 +425,7 @@ manera	45
 estos	45
 nee	45
 nümakat	45
+watüjaa	45
 ekirajaa	45
 deberá	45
 süpüshi	44
@@ -442,7 +442,6 @@ todos	43
 atkawaa	43
 palabras	43
 antusu	42
-año	42
 jiakana	42
 wawalayuukana	42
 forma	42
@@ -457,10 +456,10 @@ waainjala	41
 naa'inrüin	41
 tamaa	41
 indígena	41
+año	41
 palaakat	41
 pa	41
 aa'ulu	41
-müshii	41
 neʼe	41
 palaa	41
 superintendencia	41
@@ -471,6 +470,7 @@ karalo'uta	40
 dos	40
 mujeres	40
 türa	40
+müshii	40
 amaa	40
 chakana	40
 número	40
@@ -497,7 +497,6 @@ chakat	38
 nu'upala	38
 münakat	38
 moisés	38
-be	38
 otros	38
 ne	38
 atención	38
@@ -520,7 +519,6 @@ niia	37
 medio	37
 ma'leiwa	37
 eesu	37
-wopukoo	37
 utakat	37
 shiale	36
 nama	36
@@ -538,13 +536,12 @@ territorio	36
 anuakat	36
 laülaayuu	36
 operador	36
-usuario	36
 müinma	36
+wopukoo	36
 putchi	35
 jamüinjatüin	35
 nakuaippa	35
 niakai	35
-ella	35
 era	35
 cómo	35
 caso	35
@@ -559,17 +556,16 @@ wayuukolüirua	34
 münaka	34
 anakat	34
 pueblos	34
+ella	34
 siguiente	34
 that	34
 ama	34
-durante	34
 alatüin	34
 eekat	34
 sistema	34
 achuntüshi	34
 industria	34
 consumidor	34
-soto	33
 pütchika	33
 wanepia	33
 educación	33
@@ -583,6 +579,7 @@ suluu	33
 shipia	33
 general	33
 wayuuirua	33
+usuario	33
 sukaa	32
 nüchikikat	32
 ayatüin	32
@@ -592,6 +589,7 @@ napüshi	32
 he	32
 you	32
 aa	32
+durante	32
 wayukana	32
 wa	32
 anüiki	32
@@ -614,9 +612,9 @@ nnojoleerü	31
 página	31
 persona	31
 nosotros	31
+be	31
 hijos	31
 wayumüin	31
-habitantes	31
 tatüjaa	31
 tashikai	31
 kojutüin	31
@@ -628,11 +626,11 @@ electrónico	31
 web	31
 tuu	31
 na'anasia	31
-troncal	31
 contactenos	31
 kaʼi	30
 münüsü	30
 mayaainje	30
+soto	30
 nnojotka	30
 tierra	30
 are	30
@@ -643,6 +641,7 @@ nukuaippa	30
 nayaawatüin	30
 nüpüshi	30
 müsüja	30
+habitantes	30
 akatsa'a	30
 ichii	30
 link	30
@@ -651,13 +650,13 @@ tenga	30
 mis	30
 müliyaa	30
 gentilekana	30
+troncal	30
 oikawakat	30
 nnojoliin	29
 naatajatü	29
 ekirajawaa	29
 dirección	29
 luego	29
-meses	29
 hizo	29
 estas	29
 dentro	29
@@ -674,8 +673,8 @@ chikinkiraa	29
 atijaa	29
 anüliaa	29
 eléctrico	29
-shiasa	28
 nnojotkat	28
+meses	28
 with	28
 was	28
 tanüiki	28
@@ -732,7 +731,6 @@ asuntos	27
 consultar	27
 enlace	27
 desleal	27
-alu'ujasa	26
 sujutu	26
 aashajawaa	26
 kasakat	26
@@ -744,7 +742,6 @@ social	26
 partir	26
 süpülajatü	26
 nuluwataain	26
-caribe	26
 aapünakat	26
 nikirajüinkana	26
 jünainmüin	26
@@ -761,17 +758,17 @@ alapajaa	26
 queja	26
 jurisdiccionales	26
 yalejee	25
-anashii	25
 wapüleerua	25
 sa'aka	25
+shiasa	25
 kanüliakat	25
 anneerü	25
 después	25
 madre	25
 deben	25
 supushua	25
-jalia	25
 wakuaippa	25
+caribe	25
 ayatawa	25
 aküjüliikana	25
 juyaka	25
@@ -787,6 +784,7 @@ achuntüshii	25
 pütüma	25
 punüiki	25
 delegatura	25
+anashii	24
 sütuma	24
 jutkataa	24
 hace	24
@@ -803,7 +801,6 @@ jeketkat	24
 eree	24
 nnojotsu	24
 población	24
-pdf	24
 luusa	24
 identidad	24
 ingresar	24
@@ -826,6 +823,7 @@ anas	23
 encuentra	23
 mayor	23
 joutai	23
+aya	23
 saa	23
 departamento	23
 kasaa	23
@@ -841,12 +839,10 @@ yalaa	23
 sulü'ü	23
 línea	23
 süpüshua'a	23
-soujee	23
 suchukua	23
 instituciones	23
 paso	23
 mülo'u	23
-casos	23
 shi'iree	23
 icha	23
 personales	23
@@ -870,10 +866,10 @@ hacen	22
 buscar	22
 dar	22
 süchikeje	22
-aya	22
 bogotá	22
 eejatü	22
 carrera	22
+jalia	22
 kanain	22
 talatüsü	22
 jeketü	22
@@ -894,7 +890,9 @@ organizaciones	22
 oficina	22
 valor	22
 santaka	22
+soujee	22
 noumainka	22
+casos	22
 tijitaatka	22
 demanda	22
 sunüiki	21
@@ -915,7 +913,6 @@ gran	21
 wuchii	21
 humanos	21
 sau	21
-quien	21
 proyecto	21
 antüin	21
 sainküinpünaa	21
@@ -942,9 +939,9 @@ clases	21
 su'unnaa	21
 productores	21
 solicitar	21
-files	21
 nüküjakat	20
 kaainjalain	20
+alu'ujasa	20
 a'in	20
 yootoo	20
 siguientes	20
@@ -954,10 +951,8 @@ as	20
 when	20
 bien	20
 comprar	20
-tashajüin	20
 nüshikai	20
 nekirajüin	20
-nnojoliishii	20
 satanás	20
 jaralüin	20
 mundo	20
@@ -966,6 +961,7 @@ otras	20
 katüin	20
 mmapaʼa	20
 sükaa	20
+quien	20
 laülaashiikana	20
 eeinjatüin	20
 anainjee	20
@@ -975,6 +971,7 @@ shiroku	20
 akuwaitpaa	20
 comunicación	20
 atüjaa	20
+pdf	20
 jünoujain	20
 quienes	20
 laa	20
@@ -1007,6 +1004,7 @@ pünainmüin	19
 nünainjee	19
 colombianos	19
 sa'akamüin	19
+nnojoliishii	19
 nüchikimaajatkat	19
 yolujaa	19
 aire	19
@@ -1131,6 +1129,7 @@ süchon	17
 kusinaka	17
 chia	17
 watüjaain	17
+tashajüin	17
 naalii	17
 yootirawaa	17
 pikirajaa	17
@@ -1151,6 +1150,7 @@ ejetsitaa	17
 realizó	17
 recurso	17
 mes	17
+resolución	17
 jaa'inrakat	17
 alijunakana	17
 radicado	17
@@ -1174,6 +1174,7 @@ posible	17
 naciones	17
 dicha	17
 nnojottle	17
+files	17
 importadores	17
 watuma	16
 antaa	16
@@ -1228,7 +1229,6 @@ alaatusu	16
 ounusu	16
 potable	16
 públicas	16
-resolución	16
 mürütka	16
 petición	16
 yataain	16
@@ -1251,8 +1251,6 @@ nakua'ipaka	16
 examen	16
 saau	16
 trámites	16
-sites	16
-default	16
 autorización	16
 wekirajüin	15
 español	15
@@ -1327,7 +1325,6 @@ artículos	15
 saa'uje	15
 jiitpai	15
 süpü	15
-x	15
 sukajee	15
 naajüin	15
 transformadores	15
@@ -1344,7 +1341,6 @@ chajee	15
 su'utpünaa	15
 ukat	15
 woumainpa	15
-reparador	15
 keeʼireekat	14
 idioma	14
 musiia	14
@@ -1361,7 +1357,6 @@ secretaría	14
 ese	14
 da	14
 hoy	14
-tú	14
 going	14
 fueron	14
 mucho	14
@@ -1373,10 +1368,8 @@ hecho	14
 nojoluin	14
 jietkat	14
 misma	14
-región	14
 süta	14
 ko	14
-ti	14
 nikirajakat	14
 woulia	14
 nekirajakat	14
@@ -1470,9 +1463,11 @@ expediente	14
 sicfacilita	14
 shipiakat	14
 reclamación	14
+default	14
 anüliekat	14
 cuáles	14
 supuleekat	14
+reparador	14
 anuiki	13
 yaakat	13
 alana'aleesia	13
@@ -1494,6 +1489,7 @@ cabo	13
 ir	13
 presente	13
 makuira	13
+región	13
 sólo	13
 nojoishi	13
 nojolüinjatüin	13
@@ -1549,6 +1545,7 @@ herodes	13
 p	13
 o'ota	13
 shian	13
+rapa	13
 formulario	13
 contraseña	13
 presenta	13
@@ -1590,6 +1587,7 @@ anoujasükalüirua	13
 taküjakat	13
 muestra	13
 pretensiones	13
+sites	13
 anüu	13
 punülia	13
 palajatkat	12
@@ -1699,7 +1697,6 @@ tasaküin	12
 shiyain	12
 shi'ipajee	12
 realiza	12
-rapa	12
 mmapa'akalü	12
 denunciar	12
 bogota	12
@@ -1764,7 +1761,6 @@ aa'uchii	11
 nümakalaka	11
 nuu'ulaain	11
 seema	11
-akaajasa	11
 neema	11
 importante	11
 hablar	11
@@ -1794,7 +1790,6 @@ kapüleein	11
 kamaneein	11
 galilea	11
 eeinjatü	11
-alatüsü	11
 judea	11
 makatüin	11
 apüleerua	11
@@ -1814,7 +1809,6 @@ n	11
 laülayuukana	11
 ayatakana	11
 neküin	11
-tû	11
 varios	11
 awalaja	11
 wamuin	11
@@ -1887,8 +1881,6 @@ irunu	11
 consumidores	11
 normas	11
 g	11
-reglamentos	11
-manual	11
 recibo	11
 verificación	11
 virtual	11
@@ -1961,6 +1953,7 @@ ja'akamüin	10
 juuntüin	10
 manoujainsatkalüirua	10
 tachonkai	10
+akaajasa	10
 rewiisütakat	10
 natural	10
 tejidos	10
@@ -1984,6 +1977,7 @@ aʼyataakana	10
 david	10
 korolo	10
 pülasü	10
+alatüsü	10
 ayuulii	10
 sülaülashiikana	10
 norte	10
@@ -2007,7 +2001,6 @@ versión	10
 müshi'iya	10
 pejepünaa	10
 au	10
-anata'aleeshiija'a	10
 takaaliijain	10
 tamakat	10
 identificación	10
@@ -2019,7 +2012,6 @@ ekirajüleeka	10
 kettapa	10
 origen	10
 maicao	10
-productor	10
 palajanaa	10
 jepirachi	10
 internacional	10
@@ -2032,6 +2024,7 @@ jagüey	10
 nasüin	10
 o'ttusu	10
 informar	10
+x	10
 leonardi	10
 dicho	10
 amünaka	10
@@ -2081,7 +2074,9 @@ watchua	10
 proveedor	10
 administrativas	10
 manejo	10
+reglamentos	10
 técnicos	10
+manual	10
 adjuntar	10
 dispuesto	10
 titular	10
@@ -2115,8 +2110,6 @@ shii	9
 sümaka	9
 young	9
 which	9
-have	9
-go	9
 about	9
 nüma	9
 noche	9
@@ -2131,7 +2124,6 @@ saü	9
 establecido	9
 jatü	9
 chajachi	9
-ta	9
 lotuin	9
 tradicional	9
 algunos	9
@@ -2141,6 +2133,7 @@ jümata	9
 sülaülashikai	9
 juwalakai	9
 nümüliajüin	9
+ujee	9
 wachiki	9
 constitución	9
 intercultural	9
@@ -2316,7 +2309,6 @@ audiencia	9
 seleccione	9
 antecedentes	9
 marcarios	9
-res	9
 figurativa	9
 pse	9
 invención	9
@@ -2329,7 +2321,6 @@ lotüinjatüin	8
 nukua	8
 aluwataanüshii	8
 naapaka	8
-nuuntüin	8
 moonooin	8
 sütüna	8
 taashi	8
@@ -2353,6 +2344,8 @@ numuin	8
 historia	8
 chinchorros	8
 man	8
+have	8
+go	8
 went	8
 kepiashi	8
 napüin	8
@@ -2410,6 +2403,7 @@ gestión	8
 seres	8
 capacidad	8
 sutüma	8
+diciembre	8
 miouskat	8
 aküjaliikana	8
 jamüshii	8
@@ -2462,7 +2456,6 @@ so'uka'i	8
 yalapüna	8
 jayain	8
 shiawasekat	8
-ujee	8
 palaamüin	8
 antirasu	8
 yootusu	8
@@ -2493,7 +2486,6 @@ shialee	8
 ayulaa	8
 kama	8
 ja'yain	8
-tamüshii	8
 lotüle	8
 haber	8
 diligencie	8
@@ -2509,6 +2501,7 @@ leonel	8
 jouchon	8
 objetivo	8
 piel	8
+productor	8
 naküjala	8
 sükaliakat	8
 alatakalü	8
@@ -2519,7 +2512,6 @@ sabios	8
 kulaala	8
 wasilikat	8
 shiakua	8
-cm	8
 ainjünüsü	8
 utilidad	8
 sirumaka	8
@@ -2626,7 +2618,6 @@ requisitos	8
 proteger	8
 incumplimiento	8
 reposición	8
-túü	8
 mujukat	8
 shikipüjana	8
 opciones	8
@@ -2648,6 +2639,7 @@ paü	7
 pan	7
 keraapa	7
 jeket	7
+nuuntüin	7
 watuushikana	7
 aapünüin	7
 ouktapa	7
@@ -2675,7 +2667,6 @@ nada	7
 into	7
 did	7
 but	7
-take	7
 family	7
 nuwalayuukana	7
 llegó	7
@@ -2713,10 +2704,8 @@ alijunairua	7
 versiones	7
 completo	7
 saberes	7
-washajüin	7
 wanaawajiraainjatüin	7
 ni'ipolokai	7
-jütüjaa	7
 jütüjaain	7
 niyouktüin	7
 jüüjüüinjanain	7
@@ -2746,7 +2735,6 @@ sumakat	7
 seguimiento	7
 políticas	7
 marco	7
-diciembre	7
 ashajünüsü	7
 kepein	7
 soushi	7
@@ -2842,6 +2830,7 @@ achikit	7
 ekerolaa	7
 supüshi	7
 descargar	7
+aleeshiija'a	7
 kasalajaneerü	7
 jünüiki	7
 achiajaanüshii	7
@@ -2940,7 +2929,6 @@ oushuwaa	7
 maracaibo	7
 nivel	7
 lunes	7
-genera	7
 tengo	7
 yaajatü	7
 maluusain	7
@@ -3001,6 +2989,7 @@ sheerunnajütüin	7
 tamüiwa	7
 ji'yataain	7
 trabajando	7
+tamüshii	7
 resultado	7
 mi'iraakat	7
 audiovisuales	7
@@ -3103,6 +3092,7 @@ llevó	6
 story	6
 you're	6
 it's	6
+take	6
 back	6
 majayüt	6
 emüin	6
@@ -3141,6 +3131,8 @@ dado	6
 pedir	6
 debo	6
 makalaka	6
+washajüin	6
+ujasa	6
 aküjüshii	6
 we'raajüin	6
 aishiikana	6
@@ -3148,6 +3140,7 @@ aa'inrakai	6
 ayateechi	6
 sülü'ülüin	6
 no'unüin	6
+jütüjaa	6
 ayatakai	6
 kaainjaralin	6
 ayatshia	6
@@ -3155,7 +3148,6 @@ shii'iranajaaitpain	6
 aijiraainjanain	6
 kasajachin	6
 aa'inrakana	6
-kamalainsü	6
 alawaakat	6
 waneeshikai	6
 sütüjaain	6
@@ -3232,7 +3224,6 @@ katsüinsü	6
 naaʼinraka	6
 nanoula	6
 ekirajaaya	6
-sotuin	6
 majayünnüü	6
 tepichin	6
 europa	6
@@ -3399,6 +3390,7 @@ jupula	6
 mojuu	6
 kajutka	6
 santaa	6
+cm	6
 shiakuwaa	6
 joüchon	6
 talataa	6
@@ -3452,6 +3444,7 @@ eijaa	6
 gubernamentales	6
 menos	6
 nacionales	6
+genera	6
 miedo	6
 palmar	6
 yayaa	6
@@ -3547,7 +3540,6 @@ sütümajee	6
 jaa'inrüinjatüin	6
 acompañamiento	6
 violación	6
-fe	6
 ingreso	6
 equipo	6
 apünüinshikii	6
@@ -3587,7 +3579,6 @@ normativo	6
 pootchi	6
 achiawaaka	6
 directamente	6
-primeros	6
 süika	6
 joutaikana	6
 ekale	6
@@ -3622,6 +3613,7 @@ puluwatain	6
 solicitado	6
 jurisdiccional	6
 establecer	6
+res	6
 wipo	6
 int	6
 ubique	6
@@ -3650,7 +3642,6 @@ jülüjüle	5
 eweetüshi	5
 nümülatu'u	5
 katakai	5
-nnojoliiwa'aya	5
 org	5
 saapain	5
 mojutüin	5
@@ -3680,9 +3671,7 @@ esposa	5
 corriendo	5
 dio	5
 had	5
-do	5
 say	5
-then	5
 took	5
 sumaka	5
 miasü	5
@@ -3711,7 +3700,6 @@ venta	5
 toma	5
 compra	5
 pasó	5
-we	5
 more	5
 mira	5
 bello	5
@@ -3756,13 +3744,11 @@ jamajatüin	5
 nnojoliinjanain	5
 nüla'ajaainjatüin	5
 makai	5
-ayatsia	5
 anakia	5
 nnojoliinapa	5
 waraittüin	5
 jima'aliikana	5
 majayünnüükana	5
-meerü	5
 alü'ütsü	5
 caín	5
 nuwalayuu	5
@@ -3776,6 +3762,7 @@ actual	5
 existencia	5
 laülaasükalü	5
 anaatiraa	5
+kamalainsü	5
 debemos	5
 condición	5
 wajira	5
@@ -3855,6 +3842,7 @@ eejiraain	5
 ekirajaaka	5
 oora	5
 naaʼinrüin	5
+sotuin	5
 kamalainka	5
 woonooin	5
 poloosü	5
@@ -4167,14 +4155,12 @@ raa	5
 polooin	5
 neiyatüin	5
 taalasü	5
-h	5
 raúl	5
 anuncio	5
 razones	5
 diarios	5
 atsü	5
 dólar	5
-affsfxthis	5
 taa	5
 medida	5
 asegura	5
@@ -4343,6 +4329,7 @@ asüüshi	5
 aainjunüsu	5
 apüshiikat	5
 shi'ire	5
+primeros	5
 relacionada	5
 atalejaaka	5
 joutaika	5
@@ -4429,6 +4416,7 @@ juya'wai	4
 anouktaa	4
 amülakat	4
 e'itaanakana	4
+nnojoliiwa'aya	4
 nüma'anamüin	4
 sükumajünüin	4
 human	4
@@ -4573,6 +4561,7 @@ tütüin	4
 naa'inreein	4
 nakuaippakat	4
 nawashirüin	4
+meerü	4
 atüjaana	4
 waneein	4
 ayouktakai	4
@@ -4885,7 +4874,6 @@ wayuunaiky	4
 nale	4
 pinchipa	4
 apünüsü	4
-re	4
 kettain	4
 amünii	4
 omüinjatüin	4
@@ -4984,7 +4972,6 @@ nashajitnüinjanain	4
 mmapaakat	4
 nayainjana	4
 analu'ulu	4
-süpüna	4
 ajutaa	4
 apünüinshii	4
 akua'ipaa	4
@@ -5023,14 +5010,12 @@ vienen	4
 esas	4
 infinito	4
 dormir	4
-ve	4
 enseñar	4
 dividivi	4
 hijo	4
 pestaña	4
 conoce	4
 concepción	4
-v	4
 outkajawa	4
 londoño	4
 uribe	4
@@ -5101,7 +5086,6 @@ palabreros	4
 münakaa	4
 antüsu	4
 alakajawaa	4
-ekülü	4
 jeerü	4
 kusinayuu	4
 shiitain	4
@@ -5219,6 +5203,7 @@ mostrar	4
 pala	4
 jutkataakaa	4
 yaajatkaa	4
+h	4
 atiendan	4
 coincide	4
 efectivo	4
@@ -5328,6 +5313,7 @@ nii'iyateerü	4
 naküjakat	4
 taashishii	4
 lotüsü	4
+ayatsia	4
 tekirajakat	4
 sa'aniraaitpain	4
 nanüikikat	4
@@ -5598,13 +5584,11 @@ servicioslinea	4
 celebrado	4
 sul	4
 shiyakuakat	4
-mb	4
 enviado	4
 notificación	4
 suku	4
 püchajakat	4
 banner	4
-vf	4
 püchaja	4
 comunicarse	4
 previamente	4
@@ -5634,7 +5618,6 @@ especializada	4
 agendar	4
 adquirió	4
 pitajerü	4
-dé	4
 cite	4
 considere	4
 refiriendo	4
@@ -5648,7 +5631,6 @@ preventivas	4
 ex	4
 básculas	4
 mercantil	4
-importador	4
 rues	4
 pin	4
 confirmación	4
@@ -5722,7 +5704,6 @@ nnojolüinjana	3
 ayatüinjatü	3
 nepialu'u	3
 waraitüin	3
-o'una	3
 akua'ipakat	3
 akümajaka	3
 kakoroloin	3
@@ -5784,6 +5765,7 @@ many	3
 morning	3
 wife	3
 why	3
+then	3
 running	3
 i'll	3
 become	3
@@ -5936,7 +5918,6 @@ jikeroloiwa'aya	3
 nimüliakai	3
 jikii	3
 natüjaainjatüin	3
-naapeerü	3
 aapünakai	3
 jükatalaain	3
 aijiraale	3
@@ -6372,7 +6353,6 @@ anainjanain	3
 atüjaakat	3
 atüjashiikana	3
 akumajünakat	3
-nau	3
 poli	3
 circo	3
 ounusü	3
@@ -6395,8 +6375,6 @@ napula	3
 jûpûla	3
 pûtchikat	3
 waikeyuukana	3
-j	3
-l	3
 sentimos	3
 cola	3
 yalamüin	3
@@ -6425,7 +6403,7 @@ límite	3
 noikakat	3
 nainjala	3
 ere'e	3
-ni'rapa	3
+anata'aleeshiija'a	3
 saapüneerüin	3
 anashaatakat	3
 suupünaa	3
@@ -6437,7 +6415,6 @@ nücheküle	3
 ka'wayuusere	3
 nia'aya	3
 püküjain	3
-nai	3
 paainjala	3
 nuwarala	3
 watujain	3
@@ -6543,7 +6520,6 @@ vientre	3
 indigenous	3
 akumalaasü	3
 süikeyuu	3
-ula	3
 joktai	3
 mokochira	3
 nawayuushe	3
@@ -6676,7 +6652,6 @@ compañeros	3
 musu	3
 olympic	3
 games	3
-am	3
 etnüin	3
 püleyates	3
 iiwa	3
@@ -6686,6 +6661,7 @@ sáakaje	3
 nupüshika	3
 süntapaa	3
 sa'ainka	3
+ekülü	3
 muloüsuka	3
 waneeirú	3
 nainjaka	3
@@ -6913,7 +6889,6 @@ puertas	3
 sucede	3
 tampoco	3
 pozos	3
-ven	3
 desayuno	3
 pasaje	3
 pasajes	3
@@ -6934,11 +6909,9 @@ agrega	3
 identifica	3
 pie	3
 formar	3
-evil	3
 given	3
 sins	3
 mounted	3
-cfaa	3
 shipijana	3
 yolujaakat	3
 inkat	3
@@ -7424,7 +7397,6 @@ garantías	3
 ta'in	3
 amuuyuu	3
 shipin	3
-súpüla	3
 nojut	3
 jümakat	3
 suuntüin	3
@@ -7588,7 +7560,6 @@ e'iyatia	3
 jouutsu	3
 a'tapaa	3
 napüle	3
-b	3
 shiraka	3
 süpülajanakat	3
 sapüinjatüin	3
@@ -7784,9 +7755,9 @@ oikashikana	3
 correctivas	3
 oikaliikana	3
 reparadores	3
+importador	3
 pujutterü	3
 matricula	3
-tecnicos	3
 modelos	3
 precintos	3
 combustibles	3
@@ -7801,7 +7772,6 @@ wikimedistas	3
 herido	3
 exigieron	3
 exigió	3
-transportistas	3
 pejejatkaa	3
 times	3
 anneetka	3

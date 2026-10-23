@@ -1,11 +1,11 @@
 # Purhepecha : FineWeb-2 tsz_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-ka	8320
-enga	5526
-ambe	4846
+ka	8291
+enga	5523
+ambe	4844
 no	4232
 ma	3526
-para	3340
+para	3339
 de	3192
 eska	3018
 engaksï	2809
@@ -13,26 +13,26 @@ jimbo	2244
 sési	2141
 la	1673
 tata	1651
-i	1415
+i	1414
 jingoni	1391
 na	1332
-ima	1279
+ima	1278
 y	1165
 úni	1109
-imeri	1011
-je	996
+imeri	1010
+je	995
 sánderu	965
 jeoba	945
-ísï	930
-o	904
+ísï	926
+o	903
 en	873
 el	869
-a	855
+a	849
 que	846
 eskaksï	812
 ini	799
 jeobaeri	768
-engachi	749
+engachi	746
 peru	744
 jaka	743
 imani	729
@@ -57,7 +57,7 @@ paraksï	488
 máru	484
 ístu	482
 eskachi	482
-jimboka	474
+jimboka	470
 jima	462
 del	455
 kʼéri	455
@@ -65,7 +65,7 @@ japka	436
 jesusi	421
 diosïni	406
 jauaka	393
-exeni	390
+exeni	389
 sesi	383
 con	377
 jarhani	374
@@ -107,11 +107,11 @@ jimbosï	215
 irekani	215
 cha	212
 conprar	208
-es	208
+es	207
 májkueni	206
 managua	205
-indeni	204
 bibliarhu	204
+indeni	203
 jatsiska	203
 jini	202
 úsïndi	202
@@ -128,11 +128,11 @@ jimbokaksï	184
 ixú	184
 una	181
 pauani	181
-tátsekua	180
 idioma	180
 uékajka	180
 ni	179
-exe	178
+tátsekua	179
+exe	177
 asta	176
 como	174
 kapikachhu	173
@@ -167,11 +167,11 @@ ireta	148
 tanimu	148
 uandani	146
 chíti	146
-lo	143
 eski	143
 iurhiri	143
 tiempu	143
 familia	142
+lo	142
 jimbanhi	140
 engari	139
 nénachi	138
@@ -188,11 +188,11 @@ estado	126
 ísku	126
 asï	126
 uandakua	125
-ju	125
 ménderu	125
 arhini	124
 itsï	124
 kómarhini	124
+ju	123
 parhakpini	123
 nochi	123
 nájkiruka	122
@@ -205,10 +205,10 @@ testiguecheri	118
 bibliani	118
 jámani	117
 úsïnga	117
-más	116
 jimpo	116
 michoacán	116
 máteruechani	116
+más	115
 jindeka	115
 ia	113
 orheta	113
@@ -256,9 +256,9 @@ mámaru	96
 libru	96
 nueva	96
 kurhajchani	95
-sóntku	94
 úpka	94
 sus	93
+sóntku	93
 xarhatasïndi	93
 uandapka	93
 járhati	92
@@ -277,7 +277,7 @@ uékani	89
 jukaparhakueka	88
 niraspti	88
 son	87
-espiritu	87
+espiritu	86
 májku	86
 eskajtsïni	86
 erachichani	86
@@ -407,7 +407,6 @@ uelta	61
 tánguarhikuecharhu	61
 niáraspti	61
 ya	60
-ne	60
 entre	60
 israelitecha	60
 israelitechani	60
@@ -434,14 +433,12 @@ k	57
 tiempo	56
 estados	56
 ari	56
-imaksï	56
 uinhapikua	56
 úkuarhiaka	56
 tʼirekua	56
 k'eri	55
 iamu	55
 káni	55
-chájtsï	55
 pʼikuarherani	55
 jukaparhakua	55
 pakaraspti	55
@@ -449,6 +446,8 @@ pakaraspti	55
 sapiichani	55
 úkuarhipka	55
 unidos	54
+chájtsï	54
+imaksï	54
 atalaya	54
 ísïksï	54
 kʼuiripuechaksï	54
@@ -513,6 +512,7 @@ tánguarhikuecha	47
 seguirini	47
 santaru	47
 sesikua	46
+ne	46
 jinkoni	46
 úrajka	46
 jiókuarhini	46
@@ -549,7 +549,6 @@ jatsi	44
 arhinhakuani	44
 jatsispka	44
 iurhirini	44
-énki	44
 también	43
 jukaparhakuesti	43
 u	43
@@ -564,8 +563,8 @@ pínandikua	43
 testiguechachi	43
 niárani	43
 santu	43
+énki	43
 ha	42
-qué	42
 les	42
 máteruecha	42
 japarini	42
@@ -582,6 +581,7 @@ iáminduechani	42
 úsïni	42
 bideuni	42
 sobre	41
+qué	41
 diósï	41
 ná	41
 irekapka	41
@@ -625,7 +625,6 @@ templurhu	39
 eratsikua	39
 leichani	39
 han	39
-pero	38
 jinguni	38
 tatá	38
 irekuarhu	38
@@ -645,10 +644,9 @@ pʼikuarheraaka	38
 nénajtsï	38
 ánjili	38
 días	37
+pero	37
 of	37
 org	37
-jesukristueri	37
-abraani	37
 nótki	37
 gobierno	37
 sector	37
@@ -674,7 +672,8 @@ uetarhejka	37
 tiene	36
 eratsekua	36
 comunidad	36
-jose	36
+jesukristueri	36
+abraani	36
 violencia	36
 purépecha	36
 úraparini	36
@@ -693,6 +692,7 @@ chúrikua	36
 arhikateri	36
 gabriela	36
 uandaaka	35
+jose	35
 kʼóru	35
 jukaka	35
 jámaaka	35
@@ -744,7 +744,6 @@ bedolla	33
 hasta	32
 manera	32
 pari	32
-uaka	32
 nos	32
 sea	32
 úkuechani	32
@@ -767,6 +766,7 @@ ramírez	32
 millones	32
 si	31
 parhakpeni	31
+uaka	31
 paisi	31
 paisirhu	31
 atención	31
@@ -889,7 +889,6 @@ gobernador	27
 arhiaka	27
 sapiicha	27
 mítiaka	27
-ísïchi	27
 siglurhu	27
 jarhastiksï	27
 relijioniri	27
@@ -925,6 +924,7 @@ derecho	26
 turhisï	26
 autoridad	26
 vida	26
+ísïchi	26
 úkuani	26
 úsïngachi	26
 imajtsïni	26
@@ -1006,7 +1006,6 @@ tu	24
 jurajku	24
 ménderueni	24
 kurhajchaani	24
-jimbokajtsïni	24
 karakatani	24
 eratsintani	24
 jorhenguarhiaka	24
@@ -1051,6 +1050,7 @@ toda	23
 entrega	23
 tema	23
 ioni	23
+jimbokajtsïni	23
 uénga	23
 jarhuataspti	23
 úspi	23
@@ -1087,9 +1087,7 @@ lenguas	22
 jimini	22
 eiámperata	22
 pekaduechani	22
-ambeski	22
 kanekua	22
-eka	22
 íntskusti	22
 josue	22
 uaani	22
@@ -1145,9 +1143,9 @@ instituto	21
 federal	21
 públicos	21
 juchajtu	21
+ambeski	21
 comunidades	21
 jimaksï	21
-diósïni	21
 jatasti	21
 erokuarhikua	21
 interesi	21
@@ -1202,6 +1200,7 @@ k'éri	20
 michoakani	20
 dependencia	20
 fin	20
+diósïni	20
 andani	20
 úparini	20
 uékasïni	20
@@ -1249,7 +1248,6 @@ uambuchani	19
 imajtu	19
 uenani	19
 meni	19
-iámendu	19
 noteru	19
 personas	19
 jindeski	19
@@ -1330,6 +1328,7 @@ sontku	18
 autoridades	18
 éski	18
 diciembre	18
+eka	18
 íntskuka	18
 uénasïndi	18
 bible	18
@@ -1395,6 +1394,7 @@ jimbó	17
 p'urhépecha	17
 mátaru	17
 dos	17
+iámendu	17
 unidad	17
 procesos	17
 ánchikuarhiteri	17
@@ -1402,7 +1402,6 @@ jindestiksï	17
 atender	17
 misma	17
 eianguni	17
-juchachi	17
 jatsiajka	17
 kasi	17
 marhuauaka	17
@@ -1603,6 +1602,7 @@ juramutini	15
 nuestro	15
 yámintu	15
 mítiparini	15
+juchachi	15
 jimbochi	15
 anapuechaksï	15
 jarhuatasïni	15
@@ -1942,10 +1942,8 @@ jiajkani	12
 jimajku	12
 jas	12
 s	12
-íni	12
 uexurhini	12
 jurhiani	12
-diósïri	12
 mintsikajka	12
 política	12
 í	12
@@ -1957,7 +1955,6 @@ nákiskiksï	12
 busca	12
 exerani	12
 toma	12
-necesario	12
 solicitud	12
 cómo	12
 además	12
@@ -2106,13 +2103,14 @@ uaxastani	11
 anapueni	11
 uandakata	11
 nasioni	11
+diósïri	11
 mucha	11
 bajo	11
 mandani	11
+necesario	11
 instituciones	11
 xasï	11
 kurhani	11
-nóksïni	11
 jarhaskia	11
 nirasti	11
 úkuarhisïnga	11
@@ -2308,11 +2306,11 @@ mediante	10
 patsani	10
 sean	10
 parakini	10
-b	10
 nuestros	10
 purépechas	10
 naxani	10
 uekajka	10
+nóksïni	10
 tumbicha	10
 chájtujtsï	10
 jurhaska	10
@@ -2535,6 +2533,7 @@ irékani	9
 necesidad	9
 subsecretaría	9
 unidas	9
+b	9
 notaru	9
 míteska	9
 nuestras	9
@@ -2812,14 +2811,12 @@ alguna	8
 grupo	8
 grupos	8
 m	8
-ara	8
 kunguarhikua	8
 anapueuaka	8
 eratsekuani	8
 jakua	8
 tátjembespti	8
 jakobueri	8
-k'óru	8
 maru	8
 kámaaka	8
 orhéjtsikukuani	8
@@ -2836,7 +2833,6 @@ solicitudes	8
 áreas	8
 miteni	8
 esfuerzos	8
-énga	8
 úati	8
 mismo	8
 takukata	8
@@ -3128,6 +3124,7 @@ dedicación	7
 amor	7
 materiales	7
 junto	7
+ara	7
 k'umanchikua	7
 j	7
 aati	7
@@ -3135,8 +3132,8 @@ ts	7
 imáni	7
 krístu	7
 jápka	7
+íni	7
 xarhakuspti	7
-ásï	7
 iurhitskiri	7
 jurhasti	7
 ekuatsi	7
@@ -3387,7 +3384,6 @@ jarhuajpika	7
 pakarajka	7
 tumbini	7
 kʼuetsapiti	7
-uákia	7
 juanuni	7
 armajedoni	7
 diosïjtsïni	7
@@ -3582,10 +3578,10 @@ imangi	6
 jandijku	6
 esïki	6
 chere	6
-ambo	6
 interés	6
 mayo	6
 pánhapka	6
+ásï	6
 carpa	6
 jatsiasti	6
 iréchekua	6
@@ -3644,6 +3640,7 @@ hidalgo	6
 janhanharhiaka	6
 exeska	6
 exeka	6
+k'óru	6
 nómeni	6
 ísïsïndi	6
 nósesi	6
@@ -3907,6 +3904,7 @@ tembuchajka	6
 uarhiitichani	6
 jurajperani	6
 eratsienga	6
+uákia	6
 sapichurhu	6
 kurhaajka	6
 jorhendaapiringa	6
@@ -4018,7 +4016,6 @@ quién	6
 niarani	6
 lucha	6
 dibujo	6
-menga	6
 textos	6
 inah	6
 irepita	6
@@ -4026,7 +4023,6 @@ tshiman	6
 jaxi	6
 tsïma	6
 tuminu	6
-mal	6
 incluso	6
 cambio	6
 representan	6
@@ -4170,12 +4166,10 @@ juchá	5
 jámaspti	5
 asia	5
 semanas	5
-on	5
 papel	5
 reconocimiento	5
 fortalecimiento	5
 éste	5
-má	5
 diversidad	5
 lingüística	5
 lingüísticas	5
@@ -4219,7 +4213,6 @@ podrás	5
 example	5
 correo	5
 deberá	5
-saber	5
 consultar	5
 unión	5
 transparentar	5
@@ -4252,7 +4245,6 @@ táte	5
 kurhajchaka	5
 k'amanharhintskuechani	5
 jámaxati	5
-jucheti	5
 xarhatasïnga	5
 xénhchajka	5
 nómbema	5
@@ -4615,7 +4607,6 @@ juchiniu	5
 kʼuanhatsintasïndi	5
 boluntariuecha	5
 ánchikuarhika	5
-nóteruni	5
 ánchikuarhisïrendi	5
 jukapiringa	5
 úkuarhijki	5
@@ -4962,8 +4953,6 @@ búsqueda	4
 jugar	4
 principio	4
 creador	4
-rar	4
-ikachhu	4
 version	4
 erokakua	4
 irekakueri	4
@@ -5057,6 +5046,7 @@ solicitada	4
 uandantaaka	4
 entregar	4
 disponible	4
+saber	4
 dicha	4
 orhéjtsikukuecheri	4
 modalidad	4
@@ -5143,7 +5133,6 @@ ebaeri	4
 maestruni	4
 petaantani	4
 jurajkusïnga	4
-sésii	4
 apoiarijka	4
 sésiuaka	4
 oh	4
@@ -5568,6 +5557,7 @@ nájkirukani	4
 arani	4
 kameiuechani	4
 kurhamarhipka	4
+nóteruni	4
 arhiasïrendi	4
 karruechani	4
 experiensia	4
@@ -5749,7 +5739,6 @@ jorhentpiaka	4
 miántasïndi	4
 uérasïndi	4
 arhijpini	4
-mp	4
 uandantskueni	4
 jánguarhisïngachi	4
 jarhuataasïnga	4
@@ -5960,7 +5949,6 @@ morts	4
 comme	4
 pas	4
 sang	4
-ce	4
 elle	4
 norma	4
 egresados	4
@@ -5984,7 +5972,6 @@ entregado	4
 jimarhu	4
 administrativo	4
 cheque	4
-ly	4
 recurso	4
 chutani	4
 kuarhutperakuani	4
@@ -6143,14 +6130,12 @@ cuánto	3
 varias	3
 web	3
 rojo	3
-nprar	3
+rar	3
 conp	3
-ar	3
-kachhu	3
+ikachhu	3
 manag	3
 this	3
 html	3
-engakso	3
 chékua	3
 jurhimbikuecha	3
 uandastiksï	3
@@ -6330,7 +6315,6 @@ pakaraka	3
 cruz	3
 juramukwa	3
 tsípekueri	3
-ekachi	3
 jurajpejka	3
 kurhandirakuni	3
 xénhchperakua	3
@@ -6344,11 +6328,10 @@ krístuni	3
 jimbojtsïsï	3
 jiókorhejka	3
 jinguniska	3
+jucheti	3
 xarhantaaka	3
-ekajtsï	3
 xénhchaka	3
 juti	3
-míteskachi	3
 p'ikuarhenheni	3
 kurhakuska	3
 irekaxakaia	3
@@ -7853,7 +7836,6 @@ seguramente	3
 turhixi	3
 engakxi	3
 paxirenti	3
-jembo	3
 hagan	3
 planes	3
 recorrido	3
@@ -7982,7 +7964,6 @@ uenaka	3
 beneficiadas	3
 vulnerable	3
 plataformas	3
-g	3
 mencionó	3
 refuerzan	3
 futuro	3

@@ -1,12 +1,13 @@
 # Bigrammes gcr (FineWeb-2 gcr_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-ki	ka	1129
+ki	ka	1128
 di	roun	644
 so	kò	589
 sa	roun	560
 é	di	336
 li	ka	314
 é	ka	310
+ka	fè	272
 i	ka	269
 nou	ka	241
 té	ka	229
@@ -25,8 +26,8 @@ ka	pèrmèt	120
 yé	kò	113
 annan	roun	108
 ki	pa	102
-ka	dézigné	101
 oben	di	101
+ka	dézigné	100
 ké	roun	98
 à	roun	95
 modifyé	wikikod	95
@@ -44,11 +45,11 @@ pou	nou	75
 pa	dé	75
 pa	té	74
 ké	so	73
-li	té	73
+li	té	72
 ki	yé	72
 nou	pa	71
 i	pa	71
-ensi	ki	71
+ensi	ki	70
 asou	roun	69
 sa	di	69
 di	yé	68
@@ -58,7 +59,7 @@ koumansman	di	65
 ka	vini	62
 té	gen	62
 à	partir	62
-yé	pa	61
+yé	pa	60
 yé	té	60
 a	pa	60
 roun	moun	60
@@ -76,11 +77,11 @@ ka	palé	54
 partir	di	54
 ké	dé	53
 té	ké	52
-ki	pouvé	51
 ki	pli	51
 sa	dé	51
 di	monn	51
 pa	pouvé	50
+ki	pouvé	50
 i	gen	50
 ka	trouvé	50
 kò	an	50
@@ -138,7 +139,6 @@ sa	pli	34
 ka	sèrvi	34
 ansanm-an	dé	34
 o	kour	34
-ka	mété	33
 lé	di	33
 ki	roun	33
 ka	sasé	33
@@ -151,6 +151,7 @@ finisman-an	di	33
 é	à	33
 ka	fòrmé	33
 si	nou	32
+ka	mété	32
 vini	di	32
 o	koumansman	32
 di	latè-a	32
@@ -190,7 +191,7 @@ tip	di	30
 pa	lègzanp	30
 so	frè	30
 frè	ké	30
-li	pa	29
+a	té	29
 ki	ké	29
 o	sid	29
 fè	di	29
@@ -201,8 +202,6 @@ isou	di	29
 ka	distengé	29
 nonm	di	29
 pou	sa	28
-a	té	28
-mo	ka	28
 ki	i	28
 pli	gran	28
 an	partikilyé	28
@@ -210,8 +209,10 @@ ka	aparèt	28
 ka	fondé	28
 di	nouvèl	28
 nosyon-an	di	28
+li	pa	27
 ka	rivé	27
 nou	té	27
+mo	ka	27
 ké	sa	27
 fè	so	27
 ka	poté	27
@@ -224,6 +225,7 @@ oben	dé	27
 di	nonbréz	27
 oben	òkò	27
 sa	ka	26
+a	sa	26
 ka	anprann	26
 so	non	26
 ka	étidjé	26
@@ -232,7 +234,6 @@ di	tan	26
 di	xixe	26
 ka	viv	25
 ké	ròt	25
-a	sa	25
 di	lagwiyann	25
 di	ròt	25
 fè	parti	25
@@ -276,10 +277,8 @@ dé	nonm	23
 ké	sò-ya	23
 pouvé	fè	22
 savé	ki	22
-mo	pa	22
 fè	roun	22
 di	lavi	22
-roun	di	22
 ki	pi	22
 asou	sa	22
 pou	zòt	22
@@ -293,10 +292,12 @@ mè	osi	22
 o	sans	22
 annan	nou	21
 fè	li	21
+mo	pa	21
 ki	an	21
 i	ké	21
 lò	yé	21
 di	mo	21
+roun	di	21
 ki	ja	21
 akoz	di	21
 ka	doumandé	21
@@ -380,7 +381,6 @@ kubilai	khan	18
 annan	tout	17
 pou	li	17
 ki	bay	17
-roun	jou	17
 é	a	17
 ka	antré	17
 dé	lannen	17
@@ -408,6 +408,7 @@ batay-a	di	17
 ka	roupran	17
 ké	tout	16
 li	ké	16
+roun	jou	16
 ki	fè	16
 nou	gen	16
 ka	mouri	16
@@ -509,7 +510,6 @@ wè	yé	14
 pa	yé	14
 ki	bon	14
 drwè	di	14
-nou	tout	14
 roun	ran	14
 si	li	14
 fè	pou	14
@@ -562,6 +562,7 @@ si	yé	13
 tousa	ki	13
 roun	bon	13
 asou	latè	13
+nou	tout	13
 ka	lésé	13
 roun	lannen	13
 ka	travay	13
@@ -588,7 +589,6 @@ roun	sèrten	13
 roun	nouvèl	13
 gen	di	13
 fika	roun	13
-a	di	13
 o	nivo	13
 baz	di	13
 dé	éléman	13
@@ -649,6 +649,7 @@ ki	di	12
 odéla	di	12
 di	pèp	12
 roun	menm	12
+a	di	12
 don	li	12
 sitchwé	à	12
 dé	lòbjè	12
@@ -1306,7 +1307,6 @@ pa	menm	7
 yé	pou	7
 bagaj	pou	7
 maché	ké	7
-lò	li	7
 annan	zafè	7
 fason	pou	7
 linyon	éropéyen-an	7
@@ -1482,7 +1482,6 @@ di	présyon	7
 té	dévlopé	7
 kozé	pa	7
 pasan	pa	7
-an	latè	7
 dé	processus	7
 nésésèr	pou	7
 à	léta	7
@@ -1580,7 +1579,6 @@ fransé	ké	6
 nou	roun	6
 rivé	fè	6
 sa	gran	6
-pésonn	pa	6
 kalifyé	di	6
 pou	travay	6
 savé	sa	6
@@ -1605,6 +1603,7 @@ mouri	di	6
 kouman	yé	6
 ki	monté	6
 fè	ki	6
+lò	li	6
 ka	li	6
 pou	wè	6
 gadé	sa	6
@@ -1780,14 +1779,12 @@ sa	étid-a	6
 dé	aksyon	6
 di	lòrd	6
 ka	angajé	6
-obténi	dé	6
 fika	itilizé	6
 mè	i	6
 roun	baz	6
 lansman	di	6
 so	pronmyé	6
 di	prodjwi	6
-dé	rousours	6
 dé	fonksyon	6
 ki	fondé	6
 an	fòrm	6
@@ -1836,6 +1833,7 @@ di	tchèk	6
 plan	di	6
 roun	pyès	6
 di	fòrm	6
+an	latè	6
 di	détèrminé	6
 pròp	à	6
 ka	ajouté	6
@@ -1983,6 +1981,7 @@ pou	fé	5
 tout	nasyon	5
 sa	pou	5
 ki	gangnen	5
+pésonn	pa	5
 rounso	ki	5
 li	gangnen	5
 moun	té	5
@@ -2040,6 +2039,7 @@ sa	non	5
 koté	sa	5
 ké	sosyété	5
 sa	pouvé	5
+a	ka	5
 sa	zafè	5
 konnèt	sa	5
 mé	mo	5
@@ -2266,6 +2266,7 @@ syans	moun	5
 roulévé	di	5
 nésésité	di	5
 dé	endividi	5
+obténi	dé	5
 zannimo	ki	5
 oun	lòbjè	5
 di	pratik	5
@@ -2288,6 +2289,7 @@ sa	mété	5
 di	répiblik	5
 politik	é	5
 dé	byen	5
+dé	rousours	5
 di	lar-a	5
 roun	kour	5
 roun	sèrtenn	5
@@ -2599,7 +2601,6 @@ ie	comnène	5
 renaud	di	5
 di	châtillon	5
 ka	ankourajé	5
-vi	di	5
 jean	san	5
 san	latè	5
 philippe	auguste	5
@@ -2663,7 +2664,6 @@ pronmyé	fwè	4
 té	divèt	4
 nou	frè	4
 pouvé	di	4
-nou	do	4
 di	a	4
 pas	a	4
 kouman	i	4
@@ -2715,7 +2715,6 @@ prézidan	konséy	4
 ka	achté	4
 li	asou	4
 krè	ki	4
-a	ka	4
 so	zak	4
 ka	antann	4
 mo	wè	4
@@ -2744,7 +2743,6 @@ ki	bagaj	4
 pou	bondjé	4
 ostral	sa	4
 pa	konvansyon	4
-e	paralèl	4
 kontinan	ki	4
 papa	ki	4
 pitèt	ou	4
@@ -3008,7 +3006,6 @@ di	maròk	4
 lwès	an	4
 i	fo	4
 rotò-a	di	4
-latè	ki	4
 ki	pwé	4
 tout	pronmyé	4
 annan	sèrten	4
@@ -3375,7 +3372,6 @@ jé	vidéyo	4
 pa	ki	4
 réyèl	oben	4
 roun	byen	4
-di	sab	4
 pouvé	alò	4
 dézigné	anba	4
 so	òv	4
@@ -3392,7 +3388,6 @@ o	fil	4
 ka	jénéralizé	4
 so	libèrté	4
 privé	di	4
-sa	dit	4
 roun	lagèr	4
 oryantal	di	4
 o	ive	4
@@ -3722,12 +3717,11 @@ ké	douré	4
 so	pouvwè	4
 di	gujarat	4
 asou	kot	4
-li	vini	4
+òbò	li	4
 wè	jézi	4
 asou	l	4
 di	l	4
 alé	ké	4
-lò	jézi	4
 to	wéy	4
 ba	nou	4
 langues	et	4
@@ -3861,6 +3855,7 @@ ké	koté	3
 a	ou	3
 di	kou	3
 wonm	ké	3
+yé	tèt	3
 ou	menm	3
 mè	a	3
 konsa	nou	3
@@ -4127,7 +4122,6 @@ mondjal-a	é	3
 nò-a	ké	3
 ké	kontinan	3
 kontinan	antargtik-a	3
-e	méridjen	3
 limit-ya	ki	3
 pou	loséyan	3
 pasifik	nò	3
@@ -4377,6 +4371,7 @@ dipi	ki	3
 ki	pronmyé	3
 établi	yé	3
 à	rotò-a	3
+latè	ki	3
 ké	médjéval	3
 ka	franchi	3
 di	christophe	3
@@ -4441,7 +4436,6 @@ enpòrtant	é	3
 tout	kò	3
 di	lamas	3
 fòrmé	so	3
-lavi-a	té	3
 lannen	plita	3
 di	planèt-a	3
 entèrval	di	3
@@ -4528,7 +4522,6 @@ dé	kichoz	3
 so	lépòk	3
 an	pézan	3
 rézo	di	3
-ki	sèrten	3
 entérè	pou	3
 asosyé	ké	3
 oben	zannimo	3
@@ -5038,8 +5031,6 @@ sa	dirijé	3
 di	gouvèlman	3
 pou	konfann	3
 konfann	ké	3
-dézigné	dé	3
-réyalizé	an	3
 kou	sinonim	3
 partaj	di	3
 di	islam-an	3
@@ -5640,7 +5631,6 @@ so	kouzen	3
 so	tonton	3
 lachin	ka	3
 ka	atribiyé	3
-e	jou	3
 à	laj-a	3
 laj-a	di	3
 alyé	yé	3
@@ -5703,7 +5693,6 @@ asou	zil-a	3
 ègzékité	pa	3
 kont-a	di	3
 di	savoie	3
-vi	ka	3
 kouronnen	rwa	3
 palè-a	di	3
 di	kyèv	3
@@ -5806,7 +5795,6 @@ di	siri	3
 an	finisman-an	3
 dé	légliz	3
 kaz	an	3
-raymond	vi	3
 di	khârezm	3
 di	philippe	3
 ka	préféré	3
@@ -5821,8 +5809,7 @@ soultanat	di	3
 lanpir	moghol-a	3
 ka	dispité	3
 tout	koté	3
-palò-a	té	3
-bondjé	fè	3
+li	vini	3
 pa	divini	3
 ké	volonté	3
 roun	mouché	3
@@ -5832,6 +5819,7 @@ so	bouch	3
 ti	mouton	3
 mouton	bondjé	3
 yé	wè	3
+lò	jézi	3
 pyèr	té	3
 fanm	té	3
 fè	des	3
@@ -5847,7 +5835,6 @@ rélé	mo	3
 suis	le	3
 ai	demandé	3
 demandé	à	3
-à	ma	3
 tu	avais	3
 avais	déjà	3
 les	langues	3
@@ -6003,6 +5990,4 @@ lité	kont	3
 di	conrad	3
 libèrté-a	di	3
 sa	mèt	3
-tristan	da	3
-da	cunha	3
 ibn	tashfin	3

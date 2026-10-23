@@ -1,8 +1,8 @@
 # Bigrammes rup (FineWeb-2 rup_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-di	la	1210
-a	lui	947
-nai	ma	538
+di	la	1209
+a	lui	946
+nai	ma	537
 a	lor	310
 ma	multu	308
 anamisa	di	290
@@ -15,8 +15,8 @@ a	mea	202
 cu	cari	199
 nu	va	195
 tu	limba	181
-di	pi	170
 a	lorù	170
+di	pi	169
 a	meu	167
 va	s-hibâ	166
 di	ma	166
@@ -42,6 +42,7 @@ cama	di	131
 ma	mari	130
 şi	a	130
 of	the	129
+a	nostru	126
 easti	unu	124
 că	nu	121
 a	loru	119
@@ -51,7 +52,7 @@ cari	easti	115
 shi	tu	115
 a	unui	115
 ditu	soni	113
-di	anji	113
+di	anji	112
 turlii	di	112
 ma	nu	110
 di	multu	110
@@ -94,10 +95,10 @@ ali	românie	93
 cari	va	90
 di	itia	90
 nu	mata	90
-cu	unâ	90
 ţi	u	90
 di	iu	89
 di	noi	89
+cu	unâ	89
 easti	unã	89
 di	unâ	87
 tru	cari	87
@@ -113,8 +114,8 @@ namisa	di	84
 a	ta	84
 a	deapoa	84
 partea	a	83
-li	di	82
 tu	un	82
+li	di	81
 câ	tu	81
 la	unâ	81
 di	lucru	81
@@ -131,21 +132,21 @@ tsi	va	76
 toma	enache	76
 tu	migdani	75
 un	di	75
-bana	armâneascâ	75
 a	anlui	75
 nu	avea	74
 a	noastrâ	74
+bana	armâneascâ	74
 modificare	sursă	74
 tu	kirolu	73
 limba	a	73
 nu	fu	72
 tuti	aesti	72
 di	a	72
-ashi	cumù	72
 di	un	72
 aclo	iu	71
-pânâ	la	71
 easti	tu	71
+ashi	cumù	71
+pânâ	la	70
 tu	minti	69
 ţi	li	69
 pânâ	tu	68
@@ -173,20 +174,20 @@ di	trei	63
 un	ficior	63
 un	lucru	63
 di	armânji	62
-ninti	di	62
 a	omlui	62
 cu	un	61
 cari	u	61
 ti	aestu	61
+ninti	di	61
 chirolu	a	61
 nu	voi	61
 a	li	61
 nica	şi	61
-shi	la	60
 va	u	60
 pri	limba	60
 și	a	60
 deadunu	cu	59
+shi	la	59
 a	sutsatâljei	59
 zborlu	di	58
 poati	s-hibâ	58
@@ -240,12 +241,12 @@ multu	ma	51
 di	omu	51
 ma	marea	51
 cu	a	51
-tu	hoara	51
 chiro	di	51
 că	easti	51
 nu	shtiu	51
 cari	li	50
 multu	ghini	50
+tu	hoara	50
 dzua	di	50
 furnjia	câ	49
 suti	di	49
@@ -257,7 +258,6 @@ di	elji	48
 isturia	a	48
 câ	ţe	48
 şi	la	48
-a	armân'ilor	48
 di	añi	48
 aşi	cum	48
 dupu	tsi	47
@@ -268,6 +268,7 @@ tu	eta	47
 zborlu	ti	47
 a	statlui	47
 ditu	românia	47
+a	armân'ilor	47
 unã	featã	47
 ali	vâsâlii	47
 câ	suntu	46
@@ -324,7 +325,6 @@ di	tini	42
 di	unu	41
 unâ	carti	41
 di	cându	41
-pi	ninga	41
 cari	fu	41
 tu	cartea	41
 pi	unâ	41
@@ -340,6 +340,7 @@ ma	nâinti	41
 dinintea	a	41
 di	bituli	41
 pi	armâneashti	40
+pi	ninga	40
 di	vârâ	40
 tu	europa	40
 ma	di	40
@@ -365,7 +366,7 @@ ti	aţea	39
 tu	arada	39
 di	mini	39
 ţi	eara	39
-ca	unu	38
+a	daua	39
 loclu	iu	38
 easti	ti	38
 de	la	38
@@ -384,6 +385,7 @@ cumù	shi	38
 bitisita	a	38
 trei	ori	38
 tu	unu	37
+ca	unu	37
 nu	mash	37
 unâ	nauâ	37
 va	s-dzâcâ	37
@@ -406,6 +408,7 @@ aminti	di	36
 unu	omu	36
 di	aesti	36
 eara	multu	36
+the	macedonarmâns	36
 easti	nai	36
 unâ	ahtari	36
 nu	li	36
@@ -429,6 +432,7 @@ from	the	35
 ari	unâ	35
 cu	mintea	35
 nica	nu	35
+cu	tini	35
 unâ	soi	35
 a	lu	35
 i	di	35
@@ -455,6 +459,7 @@ la	radio	34
 ţi	tricu	34
 di	ea	34
 câ	armânjlji	34
+di	el	34
 tut	ma	34
 tru	migdani	34
 di	aestâ	34
@@ -483,7 +488,7 @@ shi	ari	33
 și	di	33
 tu	mesi	33
 lucru	di	33
-până	la	33
+un	chiro	33
 atsea	câ	33
 di	cãtrã	33
 itia	a	33
@@ -500,6 +505,7 @@ limba	shi	32
 easti	ananghi	32
 di	pisti	32
 adrati	di	32
+până	la	32
 cu	tut	32
 easti	una	32
 la	rri	32
@@ -520,7 +526,6 @@ va	nâ	31
 kirolu	di	31
 pistipsescu	câ	31
 at	the	31
-si	nu	31
 va	s-hibã	31
 ca	unã	31
 si	da	31
@@ -544,6 +549,7 @@ ashi	cumu	30
 ma	marli	30
 cu	ea	30
 câ	ari	30
+si	nu	30
 universitatea	di	30
 amintarea	a	30
 tuti	alanti	30
@@ -575,7 +581,6 @@ ca	la	29
 cu	anami	29
 tu	lumea	29
 cum	shi	29
-multu	mari	29
 tutâ	lumea	29
 cându	va	29
 deadunù	cu	29
@@ -588,7 +593,6 @@ di	covid	29
 di	bucurești	29
 di	custantsa	28
 tu	miydani	28
-tsi	nâ	28
 cu	limba	28
 pi	cali	28
 easti	pi	28
@@ -609,6 +613,7 @@ aoa	şi	28
 di	anlu	28
 că	ari	28
 tra	si	28
+multu	mari	28
 tu	casa	28
 cu	el	28
 tu	vreari	28
@@ -617,6 +622,7 @@ tu	pâduri	28
 di	ananghi	28
 di	oamiñi	28
 tru	ună	28
+tsi	nâ	27
 locurli	iu	27
 shi	cari	27
 tu	numa	27
@@ -636,10 +642,9 @@ va	sâ	27
 ti	daima	27
 cari	poati	27
 mash	cu	27
-ți	ari	27
-pi	armâneaşti	27
 cu	nai	27
 cu	lilici	27
+eara	un	27
 nu	nâ	27
 tu	oara	27
 fu	un	27
@@ -671,6 +676,9 @@ cânticlu	a	26
 ti	a	26
 i	a	26
 suntu	multu	26
+pân	di	26
+ți	ari	26
+pi	armâneaşti	26
 an'i	di	26
 pi	loclu	26
 cã	nu	26
@@ -748,6 +756,7 @@ ari	tu	24
 ti	armânami	24
 cama	multi	24
 radio	românia	24
+pân	tu	24
 şi	ma	24
 canâ	nu	24
 di	atsea	24
@@ -767,13 +776,13 @@ di	nu	24
 ca	ti	24
 și	tru	24
 di	cănd	24
+an	di	24
 la	casa	24
 a	protlui	24
 cum	u	24
 truplu	a	24
 ari	doi	24
 mãrtatã	la	24
-ți	easti	24
 că	tu	24
 a	căsăbălui	24
 atsel	chiro	24
@@ -835,6 +844,7 @@ parti	dit	23
 că	suntu	23
 nu	mai	23
 ari	unã	23
+ți	easti	23
 a	tutulor	23
 până	tru	23
 soni	a	23
@@ -854,7 +864,6 @@ unâ	dzuuâ	22
 tsi	lu	22
 it	is	22
 suntu	unâ	22
-dupâ	tsi	22
 lucurlu	a	22
 a	profesorlui	22
 s-bagâ	tu	22
@@ -866,7 +875,6 @@ unu	lucru	22
 bana	di	22
 di	dealihea	22
 oarâ	tu	22
-pân	di	22
 tru	chirolu	22
 fără	di	22
 multu	tu	22
@@ -906,7 +914,6 @@ multsâ	di	21
 sh	nu	21
 cu	ma	21
 tu	atsea	21
-tu	gârtsii	21
 tuts	atselji	21
 la	unu	21
 cu	atsea	21
@@ -917,6 +924,7 @@ ca	hiindalui	21
 da	di	21
 gustav	weigand	21
 unâ	cu	21
+dupâ	tsi	21
 bâgarea	tu	21
 sâ	si	21
 tora	tu	21
@@ -941,6 +949,7 @@ ma	tu	21
 tu	anjlji	21
 sâ	scoatâ	21
 cum	si	21
+el	nu	21
 prezidentul	a	21
 shi	ca	21
 tora	nu	21
@@ -968,6 +977,7 @@ aura	pasha	21
 di	alertă	21
 ca	cumù	21
 a	limbâllei	21
+tu	gârtsii	20
 easti	prota	20
 vasili	protlu	20
 unu	mari	20
@@ -1022,6 +1032,7 @@ nicolae	batzaria	20
 tu	cai	20
 tut	ţi	20
 a	soarilui	20
+tu	xeni	20
 tu	bitule	20
 ti	u	20
 asi	cum	20
@@ -1048,6 +1059,8 @@ matilda	caragiu	19
 limbâ	armâneascâ	19
 di	simasii	19
 a	lucurlui	19
+shi	pi	19
+el	va	19
 di	teatru	19
 eta	di	19
 şi	ali	19
@@ -1081,6 +1094,7 @@ shi	limba	19
 câti	unu	19
 alexandru	gica	19
 la	andamusea	19
+ma	bun	19
 ca	minoritati	19
 io	va	19
 ca	na	19
@@ -1180,6 +1194,7 @@ unâ	cumatâ	18
 andamusi	cu	18
 ți	va	18
 la	ună	18
+di	an	18
 pi	mini	18
 pi	tini	18
 le	le	18
@@ -1349,7 +1364,6 @@ ama	di	16
 i	cu	16
 aţea	di	16
 ţi	fu	16
-pân	tu	16
 a	cafi	16
 la	vârâ	16
 easti	faptu	16
@@ -1375,7 +1389,6 @@ cu	aestu	16
 cum	nu	16
 cu	una	16
 mash	ti	16
-și	va	16
 cu	zori	16
 grailu	armânescu	16
 li	featsi	16
@@ -1441,7 +1454,6 @@ tudor	vladimirescu	16
 parti	ditu	16
 di	vaccinare	16
 a	obiectului	16
-ditù	cari	16
 la	unù	16
 tu	cireap	16
 a	lluj	16
@@ -1500,10 +1512,12 @@ alâxearea	a	15
 ari	ună	15
 că	ti	15
 la	lucru	15
+ti	el	15
 u	avem	15
 di	cai	15
 și	la	15
 de	a	15
+și	va	15
 ghini	cu	15
 mash	un	15
 cari	pot	15
@@ -1564,6 +1578,7 @@ tu	idyea	15
 ta	su	15
 easti	cu	15
 paplu	a	15
+atel	ti	15
 mini	va	15
 ti	ţi	15
 aţei	ţi	15
@@ -1582,6 +1597,7 @@ nica	și	15
 di	transportu	15
 a	născăntoru	15
 criscutã	di	15
+ditù	cari	15
 cu	stulitsi	15
 tu	ahurhitâ	14
 u	featsi	14
@@ -1646,7 +1662,6 @@ ea	va	14
 bagâ	tu	14
 românia	shi	14
 ca	pi	14
-tu	românie	14
 tu	dzuua	14
 câ	tora	14
 prezidentu	ali	14
@@ -1684,6 +1699,7 @@ shi	el	14
 data	di	14
 nãdia	câ	14
 limba	aromânã	14
+nu	i	14
 cu	oili	14
 di	harau	14
 câ	mi	14
@@ -1705,7 +1721,6 @@ u	voi	14
 mi	doari	14
 ta	s-ti	14
 soia	a	14
-nu	avu	14
 tu	unã	14
 u	lo	14
 ti	anlu	14
@@ -1801,9 +1816,9 @@ oara	a	13
 membrilji	a	13
 armânjlji	nu	13
 cari	nica	13
+tu	românie	13
 lucreadzâ	tu	13
 tuts	di	13
-tu	salâ	13
 easti	loclu	13
 a	banâljei	13
 ghini	câ	13
@@ -1837,7 +1852,6 @@ un	bun	13
 george	murnu	13
 muri	tu	13
 dininti	a	13
-a	revistâljei	13
 tu	revista	13
 minduearea	a	13
 ta	sâ-sh	13
@@ -1856,7 +1870,6 @@ limbâljei	armâneascâ	13
 lâ	deadi	13
 new	york	13
 di	flurii	13
-nu	i	13
 ma	mini	13
 di	tutâ	13
 muabeti	cu	13
@@ -1884,12 +1897,13 @@ unâ	featâ	13
 di	casâ	13
 tu	aestă	13
 ți	nu	13
-și	nu	13
 tuti	aţeali	13
 nu	s-poati	13
 constantin	belemace	13
 pi	lucru	13
 cât	ma	13
+yioryi	al	13
+nu	avu	13
 cu	untulemnu	13
 mari	simasie	13
 di	nordu	13
@@ -2003,6 +2017,7 @@ cari	lipseashti	12
 icâ	unâ	12
 spun	câ	12
 aminti	ti	12
+di	vâr	12
 easti	dealihea	12
 trâ	armânami	12
 di	artâ	12
@@ -2011,6 +2026,7 @@ nu	potu	12
 soie	di	12
 atseali	di	12
 ahtari	lucru	12
+tu	salâ	12
 cari	tora	12
 di	dumnidză	12
 prota	oară	12
@@ -2055,6 +2071,8 @@ di	azã	12
 cãndu	easti	12
 meu	di	12
 tut	ti	12
+a	revistâljei	12
+pân	la	12
 locurli	a	12
 via	egnatia	12
 maca	nu	12
@@ -2117,6 +2135,7 @@ cu	feata	12
 di	soi	12
 pi	aestu	12
 limba	armaneasca	12
+și	nu	12
 ațea	ți	12
 loc	tu	12
 ari	trei	12
@@ -2371,7 +2390,6 @@ cu	voi	11
 di	gioi	11
 di	mânâ	11
 cu	dau	11
-mini	cu	11
 dit	un	11
 care	nu	11
 di	canda	11
@@ -2574,7 +2592,6 @@ deadi	a	10
 tratatlu	di	10
 lucru	nu	10
 cu	greu	10
-shi	si	10
 shi	unu	10
 a	cânticlui	10
 dip	tu	10
@@ -2600,6 +2617,7 @@ di	shtiintsâ	10
 shi	alanti	10
 multsâ	anji	10
 di	alumtâ	10
+vâr	chiro	10
 oarâ	ti	10
 nu	pots	10
 gica	godi	10
@@ -2707,6 +2725,7 @@ tu	hoarâ	10
 tu	aistu	10
 di	amari	10
 aco	tu	10
+mini	cu	10
 dusi	tu	10
 şi	niţi	10
 mirachi	ti	10
@@ -2772,7 +2791,6 @@ ahâtu	di	10
 mi	ducu	10
 el	avea	10
 ghini	tu	10
-că	aestu	10
 și	unâ	10
 ispeti	ca	10
 din	sărună	10
@@ -2796,6 +2814,7 @@ tish	tu	10
 mults	anj	10
 cathi	dzuă	10
 săts	dzăc	10
+aţel	ţi	10
 și	de	10
 cum	și	10
 ti	cum	10
@@ -2966,6 +2985,7 @@ shi	eara	9
 muri	la	9
 shi	tuts	9
 carti	cu	9
+shi	si	9
 s-nu	chearâ	9
 tu	chiro	9
 aminti	a	9
@@ -3081,7 +3101,6 @@ di	maiù	9
 shi	tutâ	9
 tora	cu	9
 cumù	u	9
-a	tãu	9
 sutir	bletsa	9
 dit	gârtsii	9
 câ	elù	9
@@ -3126,13 +3145,13 @@ tini	hii	9
 di-a	lui	9
 inima	mea	9
 va	s-creascâ	9
-a	cui	9
 al	toma	9
 di	ori	9
 cum	s-nu	9
 cari	lucra	9
 că	u	9
 di	casa	9
+pãn	la	9
 va-ñi	ti	9
 tu	ilichii	9
 nu	putui	9
@@ -3184,6 +3203,7 @@ pi	cai	9
 u	spuni	9
 ei	tu	9
 dzâc	că	9
+că	aestu	9
 dauâ	ori	9
 a	oilor	9
 şi	feati	9
@@ -3659,8 +3679,9 @@ românâ	di	8
 publicati	tu	8
 carti	tu	8
 a	premiilorù	8
-ar	fi	8
+armân	di	8
 cantic	di	8
+di	asimi	8
 cu	chirolu	8
 a	lumiljei	8
 a	voastri	8
@@ -3736,7 +3757,6 @@ ti	ghini	8
 unu	pârã	8
 di	largu	8
 âi	cântâ	8
-tuts	cântâ	8
 si	la	8
 din	casâ	8
 unâ	ilâcâ	8
@@ -3772,13 +3792,13 @@ neg	tu	8
 di	dzali	8
 ma	ţi	8
 un	mes	8
-tut	cama	8
 si	cadi	8
 di	patru	8
 feati	sh	8
 featã	sh	8
 al	todi	8
 ficior	sh	8
+pãn	tu	8
 suntu	la	8
 al	cola	8
 caplu	di	8
@@ -3828,7 +3848,6 @@ ma	bunlu	8
 ma	mulţă	8
 shi	atumtsea	8
 locu	di	8
-cu	cântarea	8
 a	birbiljlui	8
 sala	a	8
 vidzu	că	8
@@ -3867,7 +3886,6 @@ si	tut	8
 tora	tru	8
 tru	idyiul	8
 atea	a	8
-atel	ti	8
 românia	tu	8
 să	te	8
 carti	ti	8
@@ -3899,6 +3917,7 @@ loc	tru	8
 si	pi	8
 ică	di	8
 turlie	câ	8
+aţel	dit	8
 a	roman'ilor	8
 poeziili	al	8
 un	cânticu	8
@@ -4022,13 +4041,11 @@ ti	educatsii	8
 atsilorù	tsi	8
 ndrepturli	tsi	8
 spunemù	câ	8
-adutsemù	aminti	8
 multu	buni	8
 ditù	vâryârii	8
 ali	sca	8
 noi	armânjlji	8
 unù	populù	8
-de	ani	8
 tu	americhii	8
 cauza	armâneascâ	8
 di	nurnberg	8
@@ -4036,7 +4053,6 @@ nâ	spunu	8
 yinu	di	8
 a	clublui	8
 easte	al	8
-acej	ci	8
 a	domnëlu	8
 di	pidimo	8
 ia	câ	8
@@ -4138,12 +4154,12 @@ cumu	nu	7
 easti	ninga	7
 unu	semnu	7
 s-nu	nâ	7
+di	armân	7
 among	the	7
 has	been	7
 the	ottoman	7
 ottoman	empire	7
 as	it	7
-th	c	7
 about	the	7
 the	old	7
 of	this	7
@@ -4178,7 +4194,6 @@ anyrâpsearea	a	7
 di	cultura	7
 unâ	ma	7
 carti	easti	7
-la	altâ	7
 nâinti	cu	7
 aestu	titlu	7
 aesti	numi	7
@@ -4337,7 +4352,6 @@ zboarã	nu	7
 ma	nsus	7
 va	s-videm	7
 tsi	lipsescu	7
-cu	k	7
 s-poati	ca	7
 di	oaminj	7
 di	casã	7
@@ -4360,7 +4374,6 @@ câ	vrea	7
 shi	io	7
 cari	pânâ	7
 armânjlorù	shi	7
-armânji	ditù	7
 al	kekaumenos	7
 ashi	câ	7
 ndruparea	a	7
@@ -4388,6 +4401,7 @@ tuti	lucrili	7
 si	sâ	7
 lui	ca	7
 ma	mãrli	7
+shi	mari	7
 a	atsilui	7
 furâ	bâgati	7
 anda	eara	7
@@ -4437,7 +4451,6 @@ si	în	7
 un	mare	7
 bair	di	7
 cu	peru	7
-di	asimi	7
 noaptea	di	7
 va	s-ma	7
 di	identitati	7
@@ -4477,6 +4490,7 @@ a	meale	7
 limba-a	noastră	7
 di	suflit	7
 tra	să	7
+păn	tu	7
 pi	crutsi	7
 di	foc	7
 să	si	7
@@ -4487,6 +4501,7 @@ di	furi	7
 sh-nu	mash	7
 cu	fatsa	7
 mintea	a	7
+mes	di	7
 canda	di	7
 tora	pi	7
 iara	va	7
@@ -4499,7 +4514,9 @@ tini	a	7
 la	cheptu	7
 di	mardzina	7
 ici	nu	7
+far	di	7
 yislu	a	7
+pan	la	7
 doi	anj	7
 fatsi	crutsea	7
 atsei	ma	7
@@ -4514,6 +4531,7 @@ shi	lâ	7
 soacra	mari	7
 di	altu	7
 pi	ea	7
+tuts	cântâ	7
 nâ	vini	7
 tu	yuneau	7
 tutâ	soyia	7
@@ -4549,6 +4567,7 @@ di	atsel	7
 di	guşi	7
 nu	escu	7
 eara	aclo	7
+tut	cama	7
 cu	hâiri	7
 cari	armasi	7
 suflitli	a	7
@@ -4577,7 +4596,6 @@ noi	avem	7
 da	unã	7
 di	protlu	7
 di	ańi	7
-cari	era	7
 fați	omlu	7
 a	prâvdzâloru	7
 di	earbâ	7
@@ -4618,6 +4636,7 @@ cari	el	7
 pi	el	7
 puteari	di	7
 s-mi	plângâ	7
+cu	cântarea	7
 ună	ditu	7
 ditu	aesti	7
 tu	sala	7
@@ -4850,7 +4869,6 @@ un	plan	7
 di	români	7
 turliili	di	7
 publicarea	a	7
-doilu	tur	7
 ministerlu	ti	7
 intră	tru	7
 ali	rusie	7
@@ -4914,6 +4932,7 @@ a	ministrului	7
 aestâ	problemâ	7
 ca	etnii	7
 sâ	spunemù	7
+adutsemù	aminti	7
 s-adutsemù	aminti	7
 avemù	nãdia	7
 va	s-putemù	7
@@ -4937,6 +4956,7 @@ preftu	armânù	7
 di	elù	7
 a	pareiljei	7
 cama	mare	7
+de	ani	7
 putemù	s-aspunemù	7
 s-aspunemù	câ	7
 unâ	minoritati	7
@@ -4978,7 +4998,6 @@ petrovich	njegosh	7
 tu	bisearicâ	7
 s-minteashti	ghini	7
 stulitsi	ti	7
-di	aprir	7
 di	planti	7
 cãcum	shi	7
 la	teatrul	7
@@ -5132,7 +5151,6 @@ fu	aflatu	6
 bâgatâ	pi	6
 adunari	di	6
 ahurhi	la	6
-altâ	limbâ	6
 anyrâpsitâ	tu	6
 cartea	lui	6
 a	bâsearicâljei	6
@@ -5142,7 +5160,7 @@ tu	armânami	6
 lipsea	sâ	6
 lucru	la	6
 unu	dealihea	6
-câ	trâ	6
+la	altâ	6
 câ	lâ	6
 s-hibâ	bâgati	6
 a	zboarâloru	6
@@ -5187,7 +5205,6 @@ maşi	câ	6
 ma	s-li	6
 maxusu	di	6
 zboarâ	ţi	6
-spiru	fuchi	6
 luńina	a	6
 eu	cu	6
 ma	s-nâ	6
@@ -5339,7 +5356,6 @@ di	anjlji	6
 partea	al	6
 ari	patru	6
 cându	un	6
-ashi	tu	6
 ma-n	sus	6
 câ	pi	6
 cari	zburashti	6
@@ -5353,6 +5369,7 @@ a	românjlorù	6
 articolu	a	6
 tu	noima	6
 a	istoriiljei	6
+armânji	ditù	6
 ali	amirãriljea	6
 pi	româneashti	6
 di	altili	6
@@ -5469,7 +5486,6 @@ hoara	easti	6
 dit	hoarâ	6
 dzenili	di	6
 mults	di	6
-ma	cându	6
 tish	cânda	6
 di	tsiva	6
 tu	amari	6
@@ -5485,7 +5501,6 @@ mi	turnai	6
 ved	că	6
 tini	mi	6
 ma	vre	6
-nu	a	6
 aesti	limbi	6
 cama	marea	6
 di	pâni	6
@@ -5517,6 +5532,7 @@ di	somnu	6
 ma	mushata	6
 un	grai	6
 la	restaurantul	6
+tu	mes	6
 mesi	di	6
 armânească	di	6
 armânjlji	cari	6
@@ -5532,7 +5548,6 @@ feata	mea	6
 lilici	di	6
 cã	tse	6
 gionli-a	meu	6
-di	an	6
 că	mini	6
 va	s-toarnã	6
 sa-ñi	ti	6
@@ -5562,7 +5577,6 @@ na	vinim	6
 nu-nj	mi	6
 la	altu	6
 el	poati	6
-pan	la	6
 vrei	tini	6
 soia	di	6
 uborlu	a	6
@@ -5651,7 +5665,6 @@ bitisi	facultatea	6
 ari	taifã	6
 nicukira	a	6
 eara	mari	6
-la	tv	6
 spusi	ti	6
 ti	mâc	6
 carni	di	6
@@ -5674,6 +5687,7 @@ ca	ţeara	6
 cari	s	6
 cama	ńiclu	6
 la	alantu	6
+cari	era	6
 deavârliga	di	6
 un	mesu	6
 nai	multu	6
@@ -5739,16 +5753,13 @@ maş	tru	6
 sud	di	6
 ma	mushat	6
 di	soni	6
-shi	tini	6
 pot	s-u	6
 di	pãndzã	6
 cu	pisti	6
-idyea	ashi	6
 ti	videari	6
 un	exemplu	6
 cu	multa	6
 şi	multu	6
-câ	escu	6
 s-da	la	6
 căt	u	6
 turmili	di	6
@@ -5907,6 +5918,7 @@ di	control	6
 guvernul	român	6
 anlu	ți	6
 di	cireșar	6
+di	oamin	6
 el	spusi	6
 ali	giustiții	6
 domenea	a	6
@@ -6004,6 +6016,7 @@ easte	şi	6
 lu	toma	6
 fu	prezentat	6
 furñia	a	6
+di	aţel	6
 aduţim	aminte	6
 cartea	ari	6
 autor	a	6
@@ -6079,6 +6092,7 @@ di	până	6
 după	ună	6
 cu	ocl'i	6
 ună	parte	6
+că	el	6
 a	dzuuăllei	6
 ditu	apirita	6
 numata	easti	6
@@ -6107,7 +6121,6 @@ au	borgea	6
 guvernului	di	6
 florin	cîţu	6
 lucreadză	tru	6
-tur	a	6
 alidzerilor	prezidenţiali	6
 vâsâlii	şi	6
 a	pensiilor	6
@@ -6121,7 +6134,6 @@ li	adra	6
 ditu	rusia	6
 al	tudor	6
 s-hibâ	ghini	6
-și	până	6
 casa	cu	6
 muzeulu	di	6
 turlie	că	6
@@ -6196,7 +6208,6 @@ mash	unù	6
 armâneascâ	s-hibâ	6
 a	sculiiljei	6
 consiliului	di	6
-cumù	nâ	6
 membri	di	6
 tsi	s-da	6
 statili	iu	6
@@ -6205,7 +6216,6 @@ featsi	ti	6
 a	bisearicâljei	6
 t	i	6
 n	t	6
-s	h	6
 l	u	6
 a	tinirlorù	6
 oaminji	tsi	6
@@ -6233,6 +6243,7 @@ bogdan	aurescu	6
 di	groşi	6
 un	cuţur	6
 lucru	tru	6
+acej	ci	6
 unu	proiectu	6
 easti	ahoryea	6
 năi	meatri	6
@@ -6290,6 +6301,7 @@ tãvãlu	pi	6
 s-talji	cumãts	6
 ãn	sãrunã	6
 ligatã	cu	6
+di	aprir	6
 unu	arburicu	6
 cari	esu	6
 di	alghini	6
@@ -6501,6 +6513,7 @@ in	vienna	5
 the	city	5
 city	of	5
 in	all	5
+the	macedonarmans	5
 of	his	5
 the	german	5
 apostolu	pavlu	5
@@ -6522,6 +6535,7 @@ amintari	a	5
 culturalâ	di	5
 semnulu	a	5
 cu	oclji	5
+altâ	limbâ	5
 tsi	putu	5
 cursuri	di	5
 trâ	tuti	5
@@ -6582,6 +6596,7 @@ româneascâ	tu	5
 noastrâ	armâneascâ	5
 carnea	a	5
 si	scoatâ	5
+spiru	fuchi	5
 tu	calea	5
 luna	nu	5
 calea	mea	5
@@ -6796,6 +6811,7 @@ dit	epir	5
 peninsula	balcanicâ	5
 negu	la	5
 și	supțâri	5
+ashi	tu	5
 cai	di	5
 muntile	ural	5
 a	vlahilorù	5
@@ -6886,11 +6902,13 @@ eara	unù	5
 aesti	va	5
 ti	agiutarea	5
 anù	a	5
+fâr	di	5
 si	dusi	5
 mânjli	a	5
 atselù	ditù	5
 sârbâtoarea	a	5
 cãtã	tu	5
+bun	di	5
 cã	eara	5
 dzua	shi	5
 s-vâ	spunù	5
@@ -6940,6 +6958,8 @@ sã	vã	5
 si	ea	5
 di	sydney	5
 esti	un	5
+lilicili	di	5
+canu	nu	5
 anda	tu	5
 atsea	că	5
 prindi	si	5
@@ -6964,6 +6984,7 @@ spuni	tu	5
 la	cama	5
 era	di	5
 bitisita	ali	5
+ma	cându	5
 ashe	cum	5
 di	preftu	5
 sândzili	a	5
@@ -6979,9 +7000,9 @@ di	lunjinâ	5
 mi	feci	5
 va	nidzem	5
 am	dor	5
+nu	a	5
 a	noastrã	5
 easti	borgea	5
-ńi	si	5
 ţiva	di	5
 ama	cându	5
 yisili	a	5
@@ -7220,6 +7241,7 @@ casa	iu	5
 di	sivdae	5
 ndreptu	tu	5
 di	vârnu	5
+pan	di	5
 la	hoara	5
 la	bucuresti	5
 cu	cashlu	5
@@ -7372,6 +7394,7 @@ ori	nu	5
 tră	noi	5
 poati	cà	5
 moartea	shi	5
+shi	tini	5
 lor	va	5
 banã	ti	5
 cari	yini	5
@@ -7405,7 +7428,6 @@ albi	ca	5
 lla	pllatei	5
 tu	săndzi	5
 voi	sij	5
-nu	vi	5
 avem	faptă	5
 ti	rrămănj	5
 nu	vrem	5
@@ -7437,12 +7459,12 @@ ună	padi	5
 pi	budză	5
 albă	ca	5
 voi	sinj	5
-hara	di	5
 ună	parei	5
 cu	bun	5
 ndau	zbôrră	5
 ca	mini	5
 si	bagă	5
+ună	stămănă	5
 plin	di	5
 stri	hôră	5
 vra	ta	5
@@ -7786,7 +7808,6 @@ ambasada	ali	5
 si	aclo	5
 ti	adutearea	5
 ti	s-feati	5
-armân'ilor	dit	5
 a	cure	5
 ti	colaborarea	5
 goran	puşuticulu	5
@@ -7828,6 +7849,7 @@ s-yinâ	cu	5
 di	orighini	5
 câ	avea	5
 a	fraţlor	5
+eara	armân	5
 tatăl	a	5
 u	spunea	5
 a	idyiului	5
@@ -7836,7 +7858,6 @@ tuti	că	5
 pi	nai	5
 di	hazi	5
 avem	ti	5
-și	după	5
 armân'i	dit	5
 si-ńi	ti	5
 i	dit	5
@@ -7908,7 +7929,6 @@ u	vidzu	5
 cu	alantă	5
 aestu	mesu	5
 ti	atsei	5
-că	el	5
 câ	i	5
 un	nivel	5
 ma	analtu	5
@@ -8003,6 +8023,7 @@ un	model	5
 a	taxilor	5
 sculii	di	5
 aestea	va	5
+și	până	5
 tru	stil	5
 tru	bitisita	5
 di	scamnu	5
@@ -8013,7 +8034,6 @@ di	miliuñi	5
 mări	zñii	5
 pi	frontul	5
 ditu	balcani	5
-anlu	nâu	5
 armāneascā	di	5
 ligor	thano	5
 di	poemati	5
@@ -8048,6 +8068,7 @@ contribuţia	a	5
 ministru	ali	5
 a	culturâl'ei	5
 ion	caramitru	5
+câ	escu	5
 di	urgenţă	5
 izini	ta	5
 nai	multi	5
@@ -8153,6 +8174,7 @@ alù	papù	5
 papù	cârciunù	5
 festivalu	folcloric	5
 a	protâljei	5
+cumù	nâ	5
 prezidentâ	a	5
 nãulu	consiliu	5
 steryiu	samara	5
@@ -8165,7 +8187,6 @@ a	oaspitslorù	5
 shi	s-alumtâ	5
 tsânearea	tru	5
 ahântsâ	anji	5
-de	puiq	5
 a	adunariljei	5
 armânescu	ca	5
 elù	easti	5
@@ -8244,7 +8265,6 @@ kasa	a	5
 us'i	fakë	5
 sum	aumbra	5
 tru	capitala	5
-ah	moi	5
 moi	tini	5
 di	pitesti	5
 tu	rolu	5
@@ -8309,9 +8329,7 @@ unul	dintre	5
 cu	maş	5
 ali	america	5
 a	s	5
-d	i	5
 i	t	5
-p	o	5
 nicushor	beli	5
 lucrãrli	a	5
 pritù	aestâ	5
@@ -8438,7 +8456,6 @@ dishcljidearea	a	4
 semnu	câ	4
 culturali	armâneshtsâ	4
 giocuri	armâneshtsâ	4
-lu	di	4
 aromânii	din	4
 trâ	unâ	4
 pitricu	a	4
@@ -8545,7 +8562,6 @@ ditu	cartea	4
 cându	bânǎ	4
 yinu	ti	4
 a	pap-su-lj	4
-tsi	lomu	4
 la	hoarâ	4
 atsea	ditu	4
 idyea	arâzgâ	4
@@ -8690,7 +8706,6 @@ alu	nectarie	4
 nectarie	târpu	4
 oarâ	trâ	4
 the	right	4
-th	century	4
 greek	characters	4
 and	here	4
 the	village	4
@@ -8769,6 +8784,7 @@ tu	armânâ	4
 editatâ	di	4
 chirolu	modernu	4
 avemu	unâ	4
+i	ditu	4
 di	texti	4
 simasii	trâ	4
 spiritualâ	a	4
@@ -8805,8 +8821,7 @@ li	tsânea	4
 ljei	eara	4
 limbâ	tu	4
 eara	mashi	4
-trâ	tsi	4
-i	câ	4
+câ	trâ	4
 cu	litere	4
 cu	sinferu	4
 apridutseari	a	4
@@ -9077,7 +9092,6 @@ aestu	universu	4
 i	lu	4
 cu	tihi	4
 easti	tutâ	4
-nu	caftâ	4
 tu-a	lui	4
 cânticlu	ali	4
 ta	s-treacâ	4
@@ -9111,7 +9125,6 @@ carti	pi	4
 a	sultanlui	4
 easti	canda	4
 papu	a	4
-nu	lj	4
 pândza	di	4
 emisiunea	pi	4
 di	mulţâ	4
@@ -9212,7 +9225,6 @@ fatsi	ca	4
 la	aestã	4
 atsel	a	4
 sã	scrii	4
-cu	h	4
 shi	s-aflã	4
 atseali	dit	4
 avem	shi	4
@@ -9337,7 +9349,6 @@ românii	shi	4
 a	nostâ	4
 membri	ali	4
 si	va	4
-multsâ	tiniri	4
 tutâ	eta	4
 armânjloru	ditu	4
 tuts	atselj	4
@@ -9461,7 +9472,6 @@ vreari	si	4
 pot	sa	4
 aromânilor	din	4
 faptul	cã	4
-poate	fi	4
 de	mai	4
 un	nou	4
 care	s-a	4
@@ -9471,8 +9481,6 @@ limba	latinã	4
 în	relief	4
 di	vreare	4
 cafi	searã	4
-lilicili	di	4
-canu	nu	4
 corlu	a	4
 sândzâli	a	4
 tsi	cara	4
@@ -9491,6 +9499,7 @@ di	armâńi	4
 maria	pariza	4
 ţi	avu	4
 a	radio	4
+pân	tora	4
 aestu	eara	4
 ca	tuţ	4
 prit	tut	4
@@ -9820,6 +9829,7 @@ nu-i	ghini	4
 ma	multâ	4
 esta-i	nuna	4
 voi	s-nu	4
+cu	oi	4
 yina	la	4
 va	s-pots	4
 cu	fluiara	4
@@ -9956,7 +9966,6 @@ aclo	unâ	4
 că	nica	4
 tsâ	ânyrâpseascâ	4
 tu	horli	4
-s-hibâ	mash	4
 ansurã	cu	4
 al	tasha	4
 mãrtã	la	4
@@ -10150,8 +10159,8 @@ armãneshtsã	di	4
 consilui	armãnjilor	4
 cari	s-featsi	4
 meslu	sumedru	4
+ca	avu	4
 ditu	cathi	4
-furnjia	a	4
 statutlu	di	4
 a	literaturil'ei	4
 el'i	işişi	4
@@ -10205,6 +10214,7 @@ el	furã	4
 cà	noi	4
 atsea	shi	4
 ta	s-lji	4
+idyea	ashi	4
 him	tu	4
 dumnidzà	nu	4
 bagã	tu	4
@@ -10314,6 +10324,7 @@ lla	funtănă	4
 sum	hôră	4
 cu	lizeti	4
 ta	sinj	4
+hara	di	4
 carră	friptă	4
 tuts	vra	4
 ti	numtă	4
@@ -10325,6 +10336,7 @@ z'vă	dzăc	4
 ninga	ună	4
 ia	nu	4
 tuti	soili	4
+ee	cu	4
 ti	vra	4
 llu	llo	4
 tora	siara	4
@@ -10335,7 +10347,6 @@ inăma	ca	4
 fără	mumă	4
 mari	poet	4
 nu	fech	4
-pi	caj	4
 dzăsi	cu	4
 cu	inati	4
 u	vădzui	4
@@ -10394,7 +10405,6 @@ pit	casi	4
 s-aflâ	namisa	4
 pot	s-hibă	4
 dit	istorie	4
-aţel	ţi	4
 parti	ș-di-alantâ	4
 escu	om	4
 ți	loa	4
@@ -10414,7 +10424,6 @@ cu	di	4
 cu	faţa	4
 şi	când	4
 banâ	şi	4
-muşatu	ca	4
 cari	creaști	4
 cu	mama	4
 tu	aumbra	4
@@ -10589,6 +10598,7 @@ dit	aestu	4
 u	adară	4
 a	nostri	4
 ună	literatură	4
+tu	balcan	4
 mi	ari	4
 di	didindi	4
 umutea	ca	4
@@ -10643,7 +10653,6 @@ sindicatili	dit	4
 aestâ	domeni	4
 yinitoarea	andamusi	4
 ei	mutrinda	4
-di	oamin	4
 vâsâliilor	membri	4
 moaubetea	a	4
 a	arușfetâl	4
@@ -10770,7 +10779,6 @@ tu	dzãlili	4
 tu	sudlu	4
 tu	ligaturã	4
 ligaturã	cu	4
-mulţă	di	4
 pirmituserli	a	4
 ţi	spuni	4
 putea	s-hibã	4
@@ -10824,9 +10832,10 @@ că	si	4
 un	câti	4
 li	aduna	4
 adutearea	aminti	4
+an	ti	4
 fu	ea	4
 ti	vor	4
-va	fi	4
+armân'ilor	dit	4
 ligată	di	4
 care	u	4
 easte	unâ	4
@@ -11189,7 +11198,6 @@ di	noaptea	4
 şi	trei	4
 unu	trupu	4
 di	român'i	4
-protlu	tur	4
 stog	di	4
 că	aesti	4
 vâsâlii	membri	4
@@ -11235,7 +11243,6 @@ easti	interesantu	4
 s-afireascâ	di	4
 taxilor	şi	4
 suntu	un	4
-dit	pib	4
 aminti	şi	4
 dosari	di	4
 dupu	ațea	4
@@ -11260,6 +11267,7 @@ izvuru	di	4
 di	informații	4
 pănu	tru	4
 ducă	ma	4
+și	după	4
 llei	di	4
 tru	grailu	4
 s-amintâ	tu	4
@@ -11514,6 +11522,7 @@ nu	s-hârsescu	4
 s-aducù	aminti	4
 shi	alù	4
 maria	de	4
+de	puiq	4
 tinirlorù	armânji	4
 premii	di	4
 nu	tsânù	4
@@ -11559,9 +11568,6 @@ la	elji	4
 cu	armânji	4
 dzãts	di	4
 câ	sâ	4
-tu	padzinjli	4
-padzinjli	a	4
-revistâljei	bana	4
 ali	academia	4
 matilda	caragiumariotseanu	4
 ori	tru	4
@@ -11604,7 +11610,6 @@ ti	ndreptul	4
 agenda	a	4
 aesta	va	4
 ti	na	4
-na	li	4
 la	tut	4
 tut	armân'il'i	4
 emisiunea	armâneascâ	4
@@ -11673,7 +11678,6 @@ a	llor	4
 a	dumëxë	4
 i'j	xësi	4
 a	llui	4
-ell	us	4
 us	hjibë	4
 ci	us'i	4
 tu	kasa	4
@@ -11705,7 +11709,6 @@ di	agiutoru	4
 ñicurarea	a	4
 titluri	di	4
 di	protecție	4
-cadri	medicali	4
 largu	tu	4
 eara	vinits	4
 tu	giumitatea	4
@@ -11741,7 +11744,6 @@ a	hoarãljei	4
 ca	bunãoarã	4
 unã	soe	4
 yinghits	anji	4
-th	cent	4
 traditional	costume	4
 costume	piece	4
 a	njiclui	4
@@ -11860,7 +11862,6 @@ regizorlu	toma	4
 unù	ndreptu	4
 axi	a	4
 si	de	4
-a	d	4
 istoria	shi	4
 cara	vrea	4
 minoritãtilor	nationale	4
@@ -11931,7 +11932,6 @@ eara	cãnãscut	4
 cãnãscut	ca	4
 ca	despotlu	4
 i	petrovich	4
-lalã-su	a	4
 li	tsãnea	4
 s-strãvãsi	cu	4
 di	dat	4
@@ -12071,7 +12071,6 @@ teta	lena	4
 la	fatsâ	4
 di	anù	4
 ali	maria	4
-amintã	loclu	4
 ma	bunù	4
 di	denari	4
 tricolorlu	românescu	4
@@ -12177,6 +12176,7 @@ va	s-aproachi	3
 yinyits	anji	3
 sh-cama	di	3
 di	folcloru	3
+lu	di	3
 alânci	tu	3
 din	albania	3
 aflats	tu	3
@@ -12324,8 +12324,6 @@ et	la	3
 la	civilisation	3
 civilisation	byzantine	3
 la	fin	3
-fin	du	3
-du	ixe	3
 ixe	siècle	3
 tru	librairie	3
 alphonse	picard	3
@@ -12339,6 +12337,7 @@ bânǎ	vasili	3
 informatsiili	tsi	3
 tsi	mutrescu	3
 eara	andreaptâ	3
+tsi	lomu	3
 isapi	tu	3
 vie	de	3
 de	administrando	3
@@ -12919,7 +12918,7 @@ trâ	anvitsarea	3
 a	ficiuritsloru	3
 sculii	a	3
 limbâljei	di	3
-nu	u-ai	3
+i	câ	3
 limbile	tsi	3
 doaua	parti	3
 dupâ	prândzu	3
@@ -12964,7 +12963,6 @@ buna	di	3
 mari	patriotu	3
 multu	fârâ	3
 loru	shi	3
-el	va	3
 pirifanu	cu	3
 ca	multi	3
 protili	texti	3
@@ -13009,7 +13007,6 @@ tu	arnjiu	3
 familia	moga	3
 din	macedonia	3
 tricu	unâ	3
-ńi	lu	3
 tutâ	calea	3
 bucureşti	fu	3
 poezia	blagianâ	3
@@ -13461,6 +13458,7 @@ ti	alantsâ	3
 ca	tse	3
 ca	iasti	3
 pristi	noi	3
+di	atel	3
 ș-u-aduți	cu-unâ	3
 cându	omlu	3
 tu	frândza	3
@@ -13527,6 +13525,7 @@ i	grescu	3
 trecu	tu	3
 di	gardu	3
 unâ	poezie	3
+nu	caftâ	3
 u	caftâ	3
 pi	frâmti	3
 unu	universu	3
@@ -13696,14 +13695,12 @@ s-veadi	di	3
 cã	tutã	3
 pronuntsati	shi	3
 shi	scriati	3
-cu	b	3
 cu	v	3
 zboarã	va	3
 va	poatã	3
 poatã	s-hibã	3
 pronuntsati	cu	3
 cu	sonurli	3
-cu	mb	3
 reguli	va	3
 niscriat	ninga	3
 si	s-avdã	3
@@ -13714,10 +13711,8 @@ yini	dupã	3
 poati	s-aibã	3
 s-aibã	un	3
 litira	compusã	3
-compusã	ch	3
 litirilor	e	3
 ascur	al	3
-litira	k	3
 ari	dupã	3
 zboarã	xeani	3
 shi	s-pronuntsã	3
@@ -13885,6 +13880,7 @@ armânâ	easti	3
 cratlui	a	3
 deadunù	tu	3
 cu	atselji	3
+ma	njicu	3
 eara	vitsinji	3
 easti	românia	3
 câtù	di	3
@@ -13954,6 +13950,7 @@ armânjloru	dit	3
 dit	arbinishii	3
 sutsatâljei	shi	3
 s-aibâ	ma	3
+multsâ	tiniri	3
 aistâ	va	3
 tsiva	shi	3
 s-apruchea	di	3
@@ -14204,12 +14201,12 @@ care	poate	3
 publicat	în	3
 masti	di	3
 di	ficioru	3
-di	d	3
 lai	anghil	3
 ună	cîte	3
 cîte	ună	3
 searã	di	3
 la	geami	3
+shi	amintã	3
 lipseashti	s-aibâ	3
 aestu	cântic	3
 daima	pi	3
@@ -14242,7 +14239,6 @@ cumândusearea	ali	3
 nuşi	tulliu	3
 la	tatălu	3
 tatălu	a	3
-pân	tora	3
 eara	zborlu	3
 eara	el	3
 al	dumnidzău	3
@@ -14273,6 +14269,7 @@ intratâ	tu	3
 aistâ	hoarâ	3
 capu	a	3
 cu	vrerea	3
+si's	facâ	3
 u	shtim	3
 easti	apandisea	3
 mini	u	3
@@ -14424,9 +14421,7 @@ suflitlu-a	meu	3
 tini	di	3
 plâng	di	3
 cari	easte	3
-ucenici	ľi	3
 ş-lă	dzâse	3
-e	ľi	3
 va	hibă	3
 cu	e	3
 seamnile	a	3
@@ -14598,7 +14593,6 @@ di	armanj	3
 cari	a	3
 nu	tradzi	3
 tsi	minduescu	3
-pirifanjea	a	3
 mintea	shi	3
 fatsi	parti	3
 zboara	di	3
@@ -14663,6 +14657,7 @@ mini	nu-nj	3
 mi	loara	3
 mea	vruta	3
 io-nj	mi	3
+can	nu	3
 nj-am	tu	3
 amplin	di	3
 plandzi	shi	3
@@ -14736,7 +14731,6 @@ hibâ	di	3
 nunlu	âi	3
 soyia	lui	3
 unu	lemnu	3
-cm	di	3
 la	ndoi	3
 u	trecu	3
 a	fârtatsloru	3
@@ -14847,7 +14841,6 @@ fatsi	omlu	3
 un	mer	3
 dau	la	3
 di	peri	3
-trâ	mini	3
 u	treatsi	3
 tu	dau	3
 cari-i	ma-msheatã	3
@@ -14881,8 +14874,6 @@ cã	ma	3
 ta	s-tsã	3
 voi	sã-nj	3
 că	multu	3
-tsi-nj	tsu	3
-tsu	vreai	3
 că	la	3
 gione	cara	3
 ti	am	3
@@ -15015,7 +15006,6 @@ ca	tseara	3
 spun	cu	3
 suflitlu	la	3
 lea	vruta	3
-var	chiro	3
 s-nu	cheara	3
 clo	sh-avea	3
 tsi	nã	3
@@ -15032,6 +15022,7 @@ escu	armãn	3
 prota	va	3
 geanlu	a	3
 spunj	cari	3
+di	armãn	3
 aestã	furnjii	3
 sã	spun	3
 pi	aestã	3
@@ -15072,7 +15063,6 @@ mi-acatsa	di	3
 dada	al	3
 cu	poala	3
 poala	di	3
-le	di	3
 foc	di	3
 nica	na	3
 da	lai	3
@@ -15120,6 +15110,7 @@ tsi	s-pari	3
 cadi	a	3
 dit	tuti	3
 ânyrâpseascâ	pi	3
+s-hibâ	mash	3
 cum	lã	3
 meu	avea	3
 sh	avea	3
@@ -15237,7 +15228,6 @@ de	independență	3
 i	se	3
 vãrnãoarã	nu	3
 icà	nu	3
-pi	cafi	3
 s-u	ascapã	3
 s-u	alãxeascã	3
 direct	di	3
@@ -15438,7 +15428,6 @@ tu	isihii	3
 a	răsculariljei	3
 altă	parti	3
 eliminarea	a	3
-cari	ninti	3
 atsea	avea	3
 internats	tu	3
 ligată	cu	3
@@ -15498,8 +15487,6 @@ tsi	s-featsirã	3
 tu	dumenea	3
 di	shtiintsã	3
 s-ari	bãgatã	3
-cu	furnjia	3
-nali	di	3
 va	s-putemu	3
 pãnã	adzã	3
 consilul	armãnjilor	3
@@ -15524,6 +15511,7 @@ tu	vinili	3
 doxa	a	3
 patridha	a	3
 roma	a	3
+a	moartil'ei	3
 trâ	calea	3
 mari	va	3
 bagâ	mâna	3
@@ -15720,6 +15708,7 @@ lucră	tu	3
 si	sură	3
 shi	patru	3
 mult	vreri	3
+ndau	dzăli	3
 ninga	casă	3
 lla	izvur	3
 di	lloc	3
@@ -15727,7 +15716,6 @@ fac	cărutsia	3
 tu	meidani	3
 mushată	ca	3
 di	llănă	3
-us	ti	3
 ti	viadă	3
 mini	est	3
 u	tsăn	3
@@ -15747,6 +15735,8 @@ tsi	căfta	3
 aco	ninga	3
 nă	fiată	3
 nu	si'avdi	3
+di	căp	3
+căti	or	3
 fitsia	numtă	3
 llă	da	3
 dzua	tsi	3
@@ -15792,6 +15782,7 @@ di	polum	3
 un	tată	3
 nu	llu	3
 llu	vra	3
+ti	fetsi	3
 ca	păpushă	3
 ti	mujeri	3
 mujer	sh'burbats	3
@@ -15938,6 +15929,7 @@ cu	bôtsi	3
 cai	esti	3
 cu	măna	3
 pi	cărutsi	3
+nu	muri	3
 hara	cai	3
 să	shtiai	3
 ar	faptă	3
@@ -16019,7 +16011,6 @@ që	u	3
 e	i	3
 të	mirë	3
 u	vranë	3
-do	të	3
 i	parë	3
 që	të	3
 kush	e	3
@@ -16045,8 +16036,6 @@ a	treilu	3
 unâ	nilie	3
 di	nâși	3
 om	ca	3
-cari	câț	3
-câț	pâradz	3
 pâradz	fați	3
 unâ	searâ	3
 huzmichear	ți	3
@@ -16082,6 +16071,7 @@ graiu	di	3
 cumu	fugu	3
 di	lunâ	3
 di	mări	3
+muşatu	ca	3
 trâ	mușuteațâ	3
 tru	realitati	3
 ama	io	3
@@ -16394,7 +16384,6 @@ iorgoveanu	mantu	3
 la	murmintul	3
 murmintul	a	3
 fumeal'ia	pitu	3
-s-turnă	tu	3
 ti	cântari	3
 popularâ	di	3
 cântiţi	şi	3
@@ -16602,7 +16591,6 @@ a	liberalilor	3
 giudicatâ	di	3
 ti	aruşfeti	3
 evaziuni	fiscalâ	3
-şi	lari	3
 ţi	îi	3
 lumi	cu	3
 tu	legislativ	3
@@ -16765,6 +16753,7 @@ arhiva	a	3
 tora	un	3
 aduşi	aminti	3
 armân'il'i	şi	3
+el	işiş	3
 tut	aşi	3
 lipseaşti	sã	3
 popului	român	3
@@ -16773,6 +16762,7 @@ fârâ	dânâseari	3
 altu	mari	3
 amarea	adriaticã	3
 soni	ma	3
+mulţă	di	3
 di	niscãntã	3
 a	vecl'ilor	3
 cã	aestã	3
@@ -17199,6 +17189,7 @@ dit	bucureşti	3
 la	instituţiili	3
 instituţiili	publiți	3
 easti	paranom	3
+doi	an	3
 hapsi	cu	3
 dosarlu	mutrinda	3
 corina	creţu	3
@@ -17243,7 +17234,6 @@ tuti	problemili	3
 s-hibâ	adratâ	3
 ti	dauâ	3
 moaubeti	di	3
-poati	fi	3
 s-hibâ	apruchiatâ	3
 la	foclu	3
 foclu	dit	3
@@ -17491,7 +17481,6 @@ protlu	scupo	3
 ici	ghini	3
 ghini	vinitâ	3
 easti	lucurlu	3
-aestu	proţes	3
 a	proţesului	3
 la	alidzeri	3
 ari	nâdia	3
@@ -17587,6 +17576,7 @@ ti	trafic	3
 âl'i	si	3
 multu	lişoru	3
 şeflu	a	3
+simfun	cu	3
 cu	datili	3
 momentul	di	3
 prezentat	di	3
@@ -17819,7 +17809,6 @@ tom	di	3
 bairi	di	3
 horili	dit	3
 di	scriitorlu	3
-tu	aist	3
 di	puiezii	3
 kirolu	cānd	3
 ti	cilimeanj	3
@@ -17935,7 +17924,6 @@ corespondentu	ali	3
 emisiun'ili	a	3
 suţatâl'ei	di	3
 di	hiritiseari	3
-di	dl	3
 fratili	ma	3
 dit	inimă	3
 primlu	ministru	3
@@ -17948,6 +17936,7 @@ idyea	numă	3
 codlu	rutier	3
 spuni	ună	3
 tru	ue	3
+an	ma	3
 crescu	cu	3
 facă	ma	3
 mări	şi	3
@@ -18015,7 +18004,6 @@ a	calillei	3
 in	viata	3
 nunlu	îlji	3
 shi	pârintsâlji	3
-îshi	fatsi	3
 preaclji	di	3
 si	îlji	3
 a	soacrâljei	3
@@ -18113,8 +18101,6 @@ a	diplomațiillei	3
 bagă	tru	3
 nkisită	di	3
 tatâl	a	3
-nâ	du	3
-du	pri	3
 atât	de	3
 va	veni	3
 shi	altâ	3
@@ -18272,6 +18258,7 @@ aclo	si	3
 dzasi	ca	3
 cultura	şi	3
 la	forumlu	3
+si	atel	3
 mari	embur	3
 al	dumidza	3
 atea	dit	3
@@ -18352,7 +18339,6 @@ dumniljei	a	3
 pitricu	unâ	3
 va	s-adutsemù	3
 la	etno	3
-etno	tv	3
 la	televizii	3
 nâ	loarâ	3
 shi	ahurhirâ	3
@@ -18501,7 +18487,6 @@ câ	pritù	3
 tu	dimândarea	3
 shi	deadunù	3
 cultura	easti	3
-cari	adutsemù	3
 sâ	s-tsânâ	3
 cafi	unui	3
 sâ-sh	spunâ	3
@@ -18529,6 +18514,9 @@ dupâ	elù	3
 culturâljei	shi	3
 emisii	pri	3
 cari	elji	3
+tu	padzinjli	3
+padzinjli	a	3
+revistâljei	bana	3
 banâljei	culturalâ	3
 tu	mânjli	3
 scoasâ	cu	3
@@ -18684,6 +18672,7 @@ a	aistui	3
 va	la	3
 ti	s-hiba	3
 nafoara	ali	3
+na	li	3
 di	leane	3
 suptu	di	3
 că	lu	3
@@ -18850,29 +18839,21 @@ ună	săhati	3
 di	agiocu	3
 loară	parti	3
 di	autorităț	3
-ashë	kum	3
-pi	dupi	3
-a	zakaria	3
-zakaria	i'j	3
 mujera	a	3
 un	fiçor	3
 a	përincëllu	3
 tu	tempull	3
-di	dumëxë	3
 a	david	3
 aisti	zbôrri	3
 ja	kjamë	3
 ma	marrë	3
 sëmtul	duh	3
-aca	ci	3
 a	noç	3
 tu	ațel	3
 olimpiţi	di	3
 dalgâ	di	3
 cu	ucraina	3
 capitala	a	3
-o	laĭ	3
-laĭ	gĭone	3
 pistea	si	3
 tricura	prit	3
 protlu	personaj	3
@@ -19059,6 +19040,7 @@ la	thimelliu	3
 ma	ñică	3
 ñică	andicra	3
 dit	arbinisie	3
+armân	si	3
 ti	agricultura	3
 limbã	di	3
 cu	optu	3
@@ -19106,6 +19088,7 @@ cundrata	di	3
 lâ	dâdea	3
 ma	nainti	3
 problema	ti	3
+si	armân	3
 u	adarâ	3
 trapsi	mânâ	3
 dimec	ti	3
@@ -19283,7 +19266,6 @@ mare	harauă	3
 çitatea	luĭ	3
 luĭ	david	3
 aiste	sboară	3
-trĕ	noĭ	3
 aistă	ḑîuă	3
 vĕ	spun	3
 dit	çer	3
@@ -19430,7 +19412,6 @@ costa	mina	3
 a	presâljei	3
 ôç	óõíýíôåõîç	3
 di	lachireari	3
-stati	europeani	3
 la	ce	3
 statili	ditù	3
 lungâ	shi	3
@@ -19541,6 +19522,7 @@ eara	ashtiptatã	3
 u	adapsi	3
 di	doilji	3
 ca	atsea	3
+lalã-su	a	3
 lui	suxesor	3
 tu	rusii	3
 patar	ii	3
@@ -19906,6 +19888,7 @@ relatsiili	cu	3
 s-lucrãmù	ti	3
 câftats	ca	3
 ndrepturi	a	3
+furnjia	a	3
 di	ndrepturli	3
 dialectulù	aromân	3
 ti	cândâsearea	3
@@ -19933,7 +19916,7 @@ ditù	românii	3
 ditù	nai	3
 festivalui	fu	3
 mash	vârâ	3
-loclu	i	3
+amintã	loclu	3
 premiul	i	3
 s-nu	shtibâ	3
 atselù	lucru	3
@@ -19983,13 +19966,11 @@ bâsearica	armâneascâ	3
 adzâ	pi	3
 parei	electronicâ	3
 s-hibâ	ânyrâpsitù	3
-ali	lar	3
 aestu	clasamentu	3
 impresariat	tu	3
 companii	di	3
 di	emburlichi	3
 di	magazini	3
-sif	transilvania	3
 di	cazari	3
 shi	traian	3
 ali	eblul	3
@@ -20154,7 +20135,6 @@ experiențe	dobrogene	3
 patru	añi	3
 agiocurli	olimpiţi	3
 persoane	cu	3
-nî	ştim	3
 ştim	di	3
 a	mllerloru	3
 mllearillei	suntu	3

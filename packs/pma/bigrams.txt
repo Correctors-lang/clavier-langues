@@ -1,25 +1,27 @@
 # Bigrammes pma (FineWeb-2 pma_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-en	out	1593
+meatin	keil	2481
+en	out	1592
 keil	koa	1541
 ten	out	1431
-keil	onen	1355
+keil	onen	1354
+onen	ahi	1031
 ral	min	1025
 vasi	keil	841
 asa	koa	777
 keil	ten	767
-asuv	houlu	751
+asuv	houlu	750
 sav	keil	677
-ka	navong	669
+ka	navong	666
 min	meatin	662
-en	avong	654
+en	avong	651
 min	keil	640
-ka	en	625
+ka	en	624
 keil	ka	614
 out	netan	596
 min	kami	589
-keil	en	550
 meatin	sav	550
+keil	en	549
 tai	koa	539
 tounah	keil	532
 iesu	kristo	501
@@ -29,35 +31,37 @@ koa	mul	497
 en	meten	494
 keil	enek	473
 meatin	tai	436
-tounah	vasi	428
+tounah	vasi	426
 en	keil	422
 koa	vi	406
-ka	meatin	391
-me-isrel	keil	380
+ka	meatin	390
+me-isrel	keil	379
 siu	keil	373
 mengkatien	keil	368
 keil	one	366
-meatin	koa	349
 onen	meatin	348
+meatin	koa	348
 en	usite	333
 avong	koa	324
 tounah	koa	322
-hetal	min	317
+hetal	min	316
+keil	keke	314
 meatin	vasi	311
-en	kami	309
+out	nesa	310
 keil	vasi	308
+en	kami	308
 keil	emun	307
 min	ahi	297
 en	eim	290
 en	meatin	287
 en	vati	283
 sakien	keil	280
-en	moulien	277
+en	moulien	276
 en	tounah	275
 vasi	koa	274
 kristin	keil	273
 onen	iesu	270
-ka	munak	269
+ka	munak	268
 selusien	onen	264
 taon	ten	255
 koa	amul	255
@@ -69,7 +73,9 @@ en	taon	248
 rendemien	onen	243
 more	longlongien	242
 vi	anatin	241
+meten	ahi	237
 tai	en	235
+keil	amul	235
 min	koakeil	233
 out	serusalem	232
 keil	ekek	232
@@ -78,7 +84,7 @@ ninin	votut	226
 viteni	min	219
 koa	meatin	218
 keke	meatin	215
-out	enek	214
+out	enek	213
 ka	koakeil	211
 tei	en	210
 kei	koa	210
@@ -94,38 +100,38 @@ keil	vit	191
 onen	siu	191
 ahi	mul	190
 en	hen	190
-keil	umai	189
+keil	umai	188
 pris	keil	187
-kei	vi	187
+kei	vi	186
 en	selusien	185
-kei	mul	185
 keke	ahi	185
 ran	matien	185
 tahos	imok	185
+kei	mul	184
 en	sise	184
 vatal	min	183
 ahi	koa	182
 kat	keil	182
 rie	lati	178
 ahi	ka	177
-en	mari	176
 provins	ten	176
+en	mari	175
 envatien	onen	173
 sakien	koa	172
 en	iesu	171
 ven	kami	171
-navong	meatin	170
 anatin	keke	169
 meatin	enek	169
 navong	iesu	169
-en	demkatien	168
+navong	meatin	168
 amul	en	167
 kat	revi	167
+en	demkatien	167
 rie	lat	165
-out	isip	165
+out	isip	164
 keil	onak	163
 kati	keke	162
-selusien	keil	161
+selusien	keil	160
 netan	min	160
 tisaen	keil	160
 onen	ka	160
@@ -137,7 +143,7 @@ demkatien	onami	157
 keihoen	onen	156
 keil	onami	156
 tisa	keil	155
-onen	asuv	153
+onen	asuv	152
 usite	onen	152
 koa	mal	151
 en	teim	151
@@ -147,19 +153,20 @@ ahi	en	148
 ka	mul	146
 ka	viteni	145
 houlu	mok	143
-munak	meatin	142
+munak	meatin	141
 sakien	ten	139
 en	atan	139
 ka	ahi	139
 out	vasi	138
-meatin	tavaeen	138
 moulien	onami	138
+meatin	tavaeen	137
 ka	tounah	137
+anatin	en	137
 keke	iesu	136
 vat	kati	136
 asuv	iesu	135
-hetetamen	keil	135
 ka	keil	135
+hetetamen	keil	134
 kat	meatin	133
 mini	vit	131
 ninin	tisa	131
@@ -189,7 +196,7 @@ vi	asuv	120
 min	iesu	119
 moulien	one	119
 eris	ran	119
-ran	out	119
+ran	out	118
 koa	avi	117
 eim	takeih	116
 tai	mul	115
@@ -199,6 +206,7 @@ kami	en	114
 mal	keke	114
 hihiseien	keil	114
 kat	kami	113
+iesu	ka	113
 houlu	ten	112
 sani	min	111
 sanien	votut	111
@@ -219,7 +227,9 @@ koa	tahos	104
 houlu	onen	104
 tiser	keil	102
 one	ka	102
+hatkatien	takeih	102
 mengkatien	onen	101
+keil	veni	101
 kami	ka	101
 umen	onen	101
 viteni	mini	101
@@ -229,7 +239,6 @@ onen	pris	100
 keil	enges	100
 usil	iesu	99
 koa	hemai	99
-meatin	onen	99
 houlu	ka	98
 out	rom	98
 farasi	keil	98
@@ -238,6 +247,7 @@ vatiamal	onen	97
 ten	eim	97
 onen	keke	97
 veni	ahi	97
+meatin	onen	97
 enek	ka	96
 ka	ven	96
 tatisa	keil	96
@@ -267,12 +277,12 @@ ka	veni	87
 onen	mul	87
 vati	sakien	87
 ek	vati	87
-titiali	keil	87
 anatin	eni	87
 rahit	usite	87
 onen	iahova	86
 min	komai	86
 keil	avi	86
+titiali	keil	86
 aneite	teni	85
 keil	avit	85
 hemai	ris	85
@@ -348,6 +358,7 @@ avise	en	72
 vi	meatin	72
 kei	va	72
 vaha	en	72
+eiloheh	keil	72
 koa	asuv	72
 koakeil	amul	72
 enek	vi	71
@@ -377,7 +388,6 @@ inau	navi	68
 kat	iesu	68
 usil	tounah	68
 vati	meatin	68
-en	meteimal	68
 sakien	onen	68
 slev	keil	68
 aling	demkatien	68
@@ -390,32 +400,35 @@ usil	sakien	67
 koa	ninin	67
 enek	mul	67
 teindan	elu	67
+en	meteimal	67
 veni	navong	67
 sav	tai	67
-koanik	vi	67
 ka	vit	67
 avong	ten	67
 meng	kat	66
 pol	en	66
 votut	keil	66
-avat	keil	66
 koa	ka	66
 veni	ka	66
 en	ir	66
+koanik	vi	66
 ven	keil	66
 vatte	ten	65
 aro	en	65
+nesa	ka	65
 selusien	ten	65
+avat	keil	65
 en	more	65
 ten	tisaen	65
+mahien	koa	65
 ahi	hesan	65
-lesi	keke	65
 ka	avong	64
 heisav	enges	64
 keil	eni	64
 kei	mumoni	64
 en	tisaen	64
 min	asuv	64
+lesi	keke	64
 neim	en	63
 mul	sakin	63
 en	asa	63
@@ -428,7 +441,6 @@ enges	koa	63
 keil	eris	62
 ven	meatin	62
 lat	isen	62
-mulamu	en	62
 en	aiveave	62
 heha	en	62
 ka	amul	62
@@ -440,6 +452,7 @@ mul	selus	62
 selus	min	62
 imok	keke	62
 koa	suval	62
+mulamu	en	61
 sak	revi	61
 ka	asuv	61
 netan	mini	61
@@ -451,19 +464,18 @@ koa	mimul	60
 ahi	ling	60
 ahi	sakin	60
 en	sios	60
-ka	koa	60
 natin	ahi	60
 onen	vit	60
 rohtoh	en	59
 kei	varei	59
-nakilea	keke	59
 mok	keke	59
+ka	koa	59
 aka	en	59
 ris	teim	58
 kristo	koa	58
 ahi	keke	58
+nakilea	keke	58
 mul	rie	58
-navong	ahi	58
 kei	viteni	58
 min	keilu	58
 keil	imai	58
@@ -478,6 +490,7 @@ matien	onen	57
 mahien	keil	57
 ran	meatin	57
 mumoni	en	57
+navong	ahi	57
 out	sudea	57
 iesu	en	57
 moulien	onak	57
@@ -488,13 +501,11 @@ ka	uva	56
 en	vekahoi	56
 mok	en	56
 revi	kami	56
-kei	san	56
 mari	taon	56
 mul	veah	56
 ka	onen	56
 keke	inau	56
 inau	mun	56
-onak	en	56
 kistal	en	56
 kati	en	56
 koa	tisa	56
@@ -506,11 +517,13 @@ en	kantri	55
 kami	veni	55
 imok	en	55
 rendemien	koa	55
+kei	san	55
 heite	hau	55
 en	kot	55
 keil	akur	55
 natin	meatin	55
 ten	tounah	55
+onak	en	55
 vi	votut	55
 revi	meatin	55
 hihiseien	onen	55
@@ -543,7 +556,6 @@ vensa	varei	53
 veni	meatin	53
 lat	meatin	53
 votut	ka	53
-mini	avit	53
 usil	asa	53
 rondan	en	53
 asuv	keil	52
@@ -551,11 +563,11 @@ selusien	koanik	52
 kami	mivi	52
 ahi	varei	52
 out	isrel	52
-hetahos	imok	52
 keke	navong	52
 moulien	orer	52
 tai	keke	52
 selusien	enek	52
+mini	avit	52
 sakien	tetahos	52
 vamai	vahi	52
 ka	vi	52
@@ -567,6 +579,7 @@ alei	kilea	51
 ro	en	51
 kat	ahi	51
 ahi	mumoni	51
+hetahos	imok	51
 moulien	hau	51
 lat	rendemien	51
 eni	keke	51
@@ -576,7 +589,6 @@ akur	anatin	51
 en	vatihou	51
 hanumau	elu	51
 lat	kami	51
-navong	asuv	51
 meatin	tisa	51
 teiai	onen	51
 ahi	ven	50
@@ -584,7 +596,6 @@ en	kei	50
 koa	aro	50
 ahi	ten	50
 ris	eni	50
-kei	kilea	50
 keil	asakras	50
 koa	kami	50
 nana	keil	50
@@ -596,9 +607,11 @@ ka	sakin	49
 en	atas	49
 kei	mun	49
 keih	en	49
+kei	kilea	49
 mul	san	49
 selkatien	keke	49
 moulien	onom	49
+navong	asuv	49
 tounah	onen	49
 iesu	viten	49
 atan	koa	48
@@ -620,7 +633,6 @@ taon	enek	48
 koa	inau	48
 houlu	vis	47
 out	tai	47
-tahos	keke	47
 keil	aviteni	47
 navong	mul	47
 taluvosien	keil	47
@@ -635,6 +647,7 @@ ten	hatkatien	47
 naviteni	min	47
 tovuol	en	47
 onak	ka	47
+tahos	keke	46
 enek	vit	46
 revi	en	46
 vati	lat	46
@@ -675,12 +688,10 @@ umen	koa	44
 onen	ninin	44
 mai	en	44
 teahu	ten	44
-houlu	deved	44
 tounah	one	44
 hatkatien	onen	44
 keik	kovi	44
 koakeil	enek	44
-me-sudah	keil	44
 anien	ten	44
 ka	sipsip	44
 mosis	ka	44
@@ -695,6 +706,7 @@ sanien	keil	43
 vit	usil	43
 out	en	43
 vasi	out	43
+houlu	deved	43
 sakras	vavus	43
 mini	ka	43
 matil	vovoien	43
@@ -702,7 +714,9 @@ sakien	tisa	43
 en	eisin	43
 iesu	selus	43
 koa	namumoni	43
+hekistal	en	43
 enek	keke	43
+me-sudah	keil	43
 luhu	en	43
 lei	kilea	43
 en	keilu	43
@@ -777,7 +791,6 @@ lises	ka	40
 hehi	anatin	40
 tai	min	40
 votut	viteni	40
-meatin	elu	40
 mai	ven	39
 kantri	ten	39
 uva	ris	39
@@ -789,6 +802,7 @@ houlu	keil	39
 en	vatin	39
 pol	vit	39
 sakin	ir	39
+ahi	veni	39
 umai	ven	39
 vaka	en	39
 anatinien	onen	39
@@ -798,9 +812,11 @@ teisav	en	39
 kat	sakien	39
 ran	eim	39
 vit	luvati	39
+meatin	elu	39
 kami	eris	39
 alah	ruai	38
 ka	avit	38
+ten	kavmen	38
 mari	vatiamal	38
 vasi	onen	38
 keil	min	38
@@ -815,7 +831,6 @@ veni	kami	38
 keil	iha	38
 emun	keke	38
 demkatien	koa	38
-ahin	koa	38
 mihelei	kat	38
 kat	tounah	38
 hanumau	tai	38
@@ -864,9 +879,9 @@ tovuol	ien	36
 koa	san	36
 lei	kat	36
 musil	asa	36
+ahin	koa	36
 koa	tata	36
 vuli	kat	36
-mun	en	36
 emi	vati	36
 mul	lei	36
 ilei	kilea	36
@@ -884,7 +899,6 @@ sios	onen	35
 minau	keke	35
 sise	onen	35
 en	komai	35
-rendemien	keil	35
 ahi	onen	35
 san	keihoen	35
 hihiseien	usil	35
@@ -894,6 +908,7 @@ ahi	suval	35
 ka	lisenges	35
 en	oai	35
 mea	ran	35
+mun	en	35
 revi	mok	35
 en	vongien	35
 tunali	keil	35
@@ -913,9 +928,9 @@ imoul	eris	34
 takeih	keil	34
 heha	min	34
 koa	rie	34
+rendemien	keil	34
 koa	naviteni	34
 houlu	tai	34
-koa	kistal	34
 avong	houlu	34
 onen	kristin	34
 pol	ka	34
@@ -944,6 +959,7 @@ kati	koa	33
 sion	baptis	33
 tounah	enek	33
 ien	koa	33
+koa	kistal	33
 keilu	ten	33
 keke	akilea	33
 musil	kat	33
@@ -982,7 +998,6 @@ vaha	min	32
 keke	avaha	32
 ka	keihoen	32
 onak	koa	32
-aviteni	mini	32
 kat	kristin	32
 sakien	one	32
 kutut	kat	32
@@ -1021,7 +1036,9 @@ keil	e	31
 keke	keil	31
 vat	min	31
 orer	en	31
+iesu	koa	31
 vasi	ka	31
+aviteni	mini	31
 min	tata	31
 enek	min	31
 keil	aling	31
@@ -1048,7 +1065,6 @@ out	kave	31
 aven	meatin	31
 kat	selusien	31
 tisa	koa	31
-envatien	onak	31
 halualim	emun	31
 koakeil	amum	31
 enges	en	31
@@ -1065,6 +1081,7 @@ koa	envatien	30
 va	neim	30
 avisi	avit	30
 avou	vini	30
+takeih	koa	30
 meseini	min	30
 kami	ven	30
 mesaea	koa	30
@@ -1072,6 +1089,7 @@ en	provet	30
 koa	ro	30
 keite	teni	30
 koa	keih	30
+kavmen	ten	30
 sios	ten	30
 vasin	tounah	30
 hetie	lati	30
@@ -1083,6 +1101,7 @@ eim	onen	30
 matien	ka	30
 kokoe	en	30
 vita	netan	30
+envatien	onak	30
 mun	min	30
 keil	ilei	30
 suk	keke	30
@@ -1176,6 +1195,7 @@ out	kenan	28
 heite	teni	28
 koa	elu	28
 koa	viteni	28
+asuv	onen	28
 ro	ien	28
 ihi	houlu	28
 avu	onami	28
@@ -1195,7 +1215,6 @@ munak	kami	27
 navi	meatin	27
 mul	kur	27
 avi	meatin	27
-marite	mok	27
 keil	asan	27
 min	mosis	27
 komai	en	27
@@ -1232,6 +1251,7 @@ vini	meatin	27
 veni	nakilea	27
 koa	mum	27
 ran	sakien	27
+onen	temat	27
 ka	tiser	27
 mengkatien	koa	27
 ran	anien	27
@@ -1249,6 +1269,7 @@ si	kei	26
 kiha	en	26
 koa	mumon	26
 mok	ka	26
+marite	mok	26
 mul	mumon	26
 kei	vat	26
 koa	komai	26
@@ -1305,7 +1326,6 @@ kesi	mini	25
 hatkatien	keil	25
 one	min	25
 avisu	en	25
-vasakin	kami	25
 keihoen	min	25
 tai	vit	25
 tuai	ka	25
@@ -1381,6 +1401,7 @@ rendemien	orer	24
 tas	en	24
 out	esia	24
 meteisauen	onen	24
+vasakin	kami	24
 en	sien	24
 ka	vasi	24
 koa	amusil	24
@@ -1399,6 +1420,7 @@ sion	en	24
 kur	revi	24
 amundemi	keke	24
 out	tesalonaeka	24
+koa	hekistal	24
 pol	sel	24
 min	onen	24
 keil	asak	24
@@ -1428,6 +1450,7 @@ meatin	onak	24
 ka	sani	24
 mita	netan	23
 keil	ilea	23
+mosis	koa	23
 en	avet	23
 keih	min	23
 akistal	en	23
@@ -1561,6 +1584,7 @@ vasi	netan	22
 tovuol	kilea	22
 onen	tata	22
 long	selusien	22
+ten	mahien	22
 suai	en	22
 vini	keil	22
 elu	koa	22
@@ -1569,7 +1593,6 @@ lati	ran	22
 uite	teni	22
 koa	heite	22
 tirendan	tisa	22
-nalesi	keke	22
 ekvati	mok	22
 keil	avis	22
 ten	houhouen	22
@@ -1658,8 +1681,8 @@ ka	visi	21
 out	seriko	21
 kati	mini	21
 kami	miheha	21
+nalesi	keke	21
 uit	keil	21
-inau	namul	21
 netan	ran	21
 vi	out	21
 enek	viteni	21
@@ -1694,7 +1717,6 @@ houlu	ven	20
 lah	lat	20
 meatin	kuren	20
 amai	kat	20
-kei	mum	20
 ka	kur	20
 out	pilipae	20
 keke	asa	20
@@ -1718,7 +1740,6 @@ keil	aselus	20
 kati	keil	20
 ka	lingi	20
 keil	tetahos	20
-keih	ramat	20
 kot	onen	20
 minau	ka	20
 teni	koa	20
@@ -1748,7 +1769,6 @@ ka	provet	20
 keihoen	ka	20
 muohien	onen	20
 tounah	tisa	20
-munak	kei	20
 en	tinomi	20
 koa	retalihe	20
 keke	avamai	20
@@ -1758,6 +1778,7 @@ ien	vati	20
 mimusil	kat	20
 vi	sanien	20
 aselus	tisa	20
+inau	namul	20
 oumunai	tatisa	20
 keil	tatisa	20
 ka	mosis	20
@@ -1794,13 +1815,13 @@ lat	nau	19
 komai	ka	19
 isen	vi	19
 vati	vatie	19
-keke	envatien	19
 meten	iahova	19
 hesakin	meatin	19
 tovuol	koa	19
 keih	vit	19
 rendemien	ten	19
 houlu	umai	19
+kei	mum	19
 alonge	keke	19
 keke	hemai	19
 vahit	kilea	19
@@ -1832,6 +1853,7 @@ demkatien	onom	19
 ka	demkatien	19
 keil	vuo	19
 koa	alei	19
+keih	ramat	19
 lei	rahit	19
 onen	ahin	19
 atan	onen	19
@@ -1845,7 +1867,6 @@ en	mesai	19
 kei	suval	19
 out	sameria	19
 heting	koe	19
-kistal	ran	19
 min	tunali	19
 onen	deved	19
 ahi	helei	19
@@ -1854,6 +1875,7 @@ ka	elda	19
 koakeil	amumon	19
 nimai	ris	19
 uite	ten	19
+munak	kei	19
 houlu	herod	19
 ran	atan	19
 naef	tavaeen	19
@@ -1883,7 +1905,6 @@ koa	kristo	18
 taon	tai	18
 isei	en	18
 asan	sanien	18
-munak	tai	18
 kapil	ral	18
 komai	keke	18
 vato	en	18
@@ -1896,6 +1917,7 @@ san	ninin	18
 tai	usil	18
 mutut	moulien	18
 ekek	min	18
+keke	envatien	18
 koakeil	umai	18
 hen	ahi	18
 votut	mai	18
@@ -1937,7 +1959,6 @@ usil	ahi	18
 vaka	ien	18
 keil	navong	18
 en	tatavolien	18
-iahova	selus	18
 meatin	koanek	18
 veni	mikilea	18
 varei	mul	18
@@ -1945,6 +1966,7 @@ ven	koa	18
 keil	amu	18
 ka	avisi	18
 kat	koakeil	18
+kistal	ran	18
 selusien	vasi	18
 en	ahin	18
 min	hetetamen	18
@@ -1960,6 +1982,7 @@ kantri	keil	18
 rahit	out	18
 ka	rahit	18
 sak	mesen	18
+more	min	18
 onen	tovuol	18
 kami	hetal	18
 nasel	kat	18
@@ -1989,6 +2012,7 @@ kami	miheilea	17
 amul	amusil	17
 pol	selus	17
 sa	varei	17
+munak	tai	17
 en	keite	17
 longe	keke	17
 usil	avong	17
@@ -2065,6 +2089,7 @@ vati	selusien	17
 avong	sav	17
 keik	kokilea	17
 vati	fik	17
+iahova	selus	17
 ka	vongien	17
 mihesi	kami	17
 vatina	keil	17
@@ -2103,7 +2128,6 @@ rokol	atan	16
 mukonek	keke	16
 kat	me-isrel	16
 ekek	ka	16
-vatiai	keil	16
 pol	mutis	16
 pol	masmas	16
 miheilea	revi	16
@@ -2198,7 +2222,6 @@ en	ai	16
 out	ist	16
 sisil	en	16
 keke	tei	16
-kami	mivailea	16
 keil	tuai	16
 saktisaen	keil	16
 asel	kutut	16
@@ -2269,6 +2292,7 @@ ahi	orer	15
 revi	ka	15
 iahova	meng	15
 sua	vasi	15
+vatiai	keil	15
 metareh	ten	15
 takeih	ral	15
 suai	onen	15
@@ -2290,6 +2314,7 @@ koanek	mul	15
 ka	natnali	15
 suval	sipsip	15
 keil	taluvosien	15
+ten	tomat	15
 usite	sav	15
 takeih	enek	15
 rali	lat	15
@@ -2306,6 +2331,7 @@ tivava	enek	15
 navong	koakeil	15
 onen	sakras	15
 ahi	ral	15
+ten	mututien	15
 vi	kristin	15
 ka	eiloheh	15
 ten	sise	15
@@ -2343,7 +2369,6 @@ imok	ka	15
 mahien	ven	15
 kei	hesan	15
 tai	ro	15
-veni	iahova	15
 out	tatondanien	15
 ka	lesi	15
 out	mulan	15
@@ -2361,10 +2386,10 @@ ka	ten	15
 etai	en	15
 sipsip	ka	15
 vas	eisin	15
-houhouen	min	15
 vi	mari	15
 va	ien	15
 vi	natnali	15
+kami	mivailea	15
 min	vati	15
 sise	enek	15
 vatiamal	onom	15
@@ -2501,6 +2526,7 @@ avit	avi	14
 mari	kot	14
 keke	mihoum	14
 votut	enek	14
+veni	iahova	14
 sanien	one	14
 vis	min	14
 inau	nisan	14
@@ -2528,6 +2554,7 @@ ritin	en	14
 en	sanien	14
 mundemi	vit	14
 muloh	va	14
+houhouen	min	14
 mal	ka	14
 siu	keke	14
 envatien	keil	14
@@ -2666,6 +2693,7 @@ onen	angelo	13
 naviteni	minuk	13
 inau	koa	13
 longe	mukok	13
+en	ara	13
 kuren	keil	13
 aro	vesesal	13
 sao	en	13
@@ -2727,6 +2755,7 @@ keke	iha	13
 ehon	enek	13
 koa	onen	13
 avise	keil	13
+tarhena	keil	13
 keke	asakras	13
 en	rea	13
 mahien	one	13
@@ -2849,6 +2878,7 @@ mukave	ahi	13
 ka	tai	13
 mane	koa	13
 out	neim	13
+ten	kot	13
 mea	ris	13
 mihousil	kat	13
 ren	ahi	13
@@ -3048,7 +3078,6 @@ min	tiser	12
 ka	mihelei	12
 meneai	onen	12
 onen	tiser	12
-tuomi	keil	12
 houlu	ien	12
 hemai	hesuval	12
 selus	ka	12
@@ -3170,7 +3199,6 @@ romultei	en	11
 provet	ilaetsa	11
 venuk	ka	11
 usil	aneite	11
-ara	onen	11
 voumon	tounah	11
 viteni	minuk	11
 avouhou	mini	11
@@ -3311,6 +3339,7 @@ mihelomal	en	11
 mihelei	kilea	11
 mikur	moulien	11
 amul	umai	11
+tuomi	keil	11
 mihoumon	sakien	11
 komai	meles	11
 matu	keil	11
@@ -3472,6 +3501,7 @@ ka	vasakin	10
 selusien	onom	10
 navong	angelo	10
 kei	hehi	10
+ara	onen	10
 votut	hemai	10
 koa	koviteni	10
 navong	rokol	10
@@ -3523,7 +3553,6 @@ ka	kumon	10
 rehesi	ir	10
 kaleli	ka	10
 koa	hiasuvien	10
-keilu	luvi	10
 iesu	mual	10
 amutimanin	en	10
 kat	ninin	10
@@ -3634,6 +3663,7 @@ keil	avalei	10
 ahin	one	10
 ka	asak	10
 tavaeen	ten	10
+ahi	maeni	10
 mum	revi	10
 usite	onom	10
 meatin	kilea	10
@@ -3745,7 +3775,6 @@ tirendan	enek	10
 hekistal	hehi	10
 out	votut	10
 keil	akuri	10
-selkatien	onen	10
 ka	nalesi	10
 atan	ekek	10
 alokovein	out	10
@@ -3807,7 +3836,6 @@ hoi	eim	9
 koa	akistal	9
 keil	anatin	9
 ten	vekahoi	9
-koakeil	uva	9
 akilea	avakur	9
 amusil	keil	9
 pol	koa	9
@@ -3867,7 +3895,7 @@ ka	tivava	9
 moul	mai	9
 keil	anousiltei	9
 ka	lei	9
-kindem	kat	9
+tahosien	ka	9
 moulien	enek	9
 vatie	keih	9
 keil	iselus	9
@@ -3890,7 +3918,6 @@ rokur	anatin	9
 navis	keke	9
 koa	vise	9
 sakras	vamat	9
-mivailea	keke	9
 mulin	meatin	9
 mul	vitehiten	9
 vi	siu	9
@@ -3920,6 +3947,7 @@ vahul	lat	9
 voumon	umen	9
 eiloheh	onak	9
 temat	mul	9
+keilu	luvi	9
 tiemes	ka	9
 mul	vihisei	9
 hihiseien	hau	9
@@ -3965,6 +3993,7 @@ vini	nau	9
 nau	nimat	9
 ka	rosantei	9
 kei	losil	9
+uasi	hemat	9
 sios	oulu	9
 ven	avong	9
 ka	helei	9
@@ -4168,6 +4197,7 @@ losilkatien	onom	9
 tirendan	koa	9
 keil	amulomal	9
 ahi	heto	9
+selkatien	onen	9
 kami	houlu	9
 tounah	tamun	9
 miheling	rendemien	9
@@ -4181,6 +4211,7 @@ vatina	enek	9
 navong	mimul	9
 asakin	meatin	9
 ka	mesau	9
+ral	minir	9
 vatiamal	vasi	9
 avong	hetel	9
 sise	vaha	9
@@ -4242,6 +4273,7 @@ keil	eke	8
 vasi	asa	8
 lin	meatin	8
 ten	vieh	8
+iahova	sani	8
 ka	atouli	8
 mai	mulomal	8
 selusien	teni	8
@@ -4258,6 +4290,7 @@ ekor	en	8
 en	ale	8
 kokoe	eni	8
 sa	en	8
+koakeil	uva	8
 mal	kristin	8
 rendemien	suai	8
 rendemien	tai	8
@@ -4339,6 +4372,7 @@ rokol	taon	8
 keil	ilosil	8
 elda	tai	8
 pol	vis	8
+kindem	kat	8
 tisaen	orer	8
 koakeil	akilea	8
 hesan	moulien	8
@@ -4358,6 +4392,7 @@ rehehati	lat	8
 tateisav	tai	8
 keke	moumon	8
 koa	tei	8
+mivailea	keke	8
 veni	more	8
 kami	milonge	8
 koa	nakuri	8
@@ -4368,6 +4403,7 @@ amul	aling	8
 takeih	telamu	8
 votut	ten	8
 suval	kilas	8
+iesu	suval	8
 mun	vit	8
 min	titan	8
 keil	arvitei	8
@@ -4472,7 +4508,6 @@ keilu	vasi	8
 avi	titiali	8
 keke	rehekur	8
 avalong	kat	8
-inau	namum	8
 kami	lisenges	8
 lisenges	en	8
 li	mok	8
@@ -4484,7 +4519,6 @@ alekat	sise	8
 kei	kistal	8
 telro	en	8
 min	kamil	8
-ka	luviteni	8
 nakilea	makur	8
 iesu	mumon	8
 sakien	sav	8
@@ -4709,6 +4743,7 @@ nakilea	en	8
 min	aven	8
 suval	eiloheh	8
 nitie	minuk	8
+ke	va	8
 mumon	ahor	8
 naef	onen	8
 keil	u	8
@@ -4757,7 +4792,6 @@ mu	ris	8
 onen	enek	8
 komundemi	kovit	8
 koa	areingeingen	8
-keik	kos	8
 mai	tuai	8
 hesuval	navong	8
 iesu	long	8
@@ -4848,7 +4882,6 @@ provet	netan	8
 avat	kati	8
 navi	isei	8
 inau	sasok	8
-ka	sol	8
 titi	sipsip	8
 avakur	anatin	8
 koa	maluv	8
@@ -5040,7 +5073,6 @@ pris	sav	7
 alah	ruain	7
 enek	evus	7
 koa	luvi	7
-iahova	mumoni	7
 koanek	tahos	7
 ka	kiles	7
 nitie	lati	7
@@ -5051,7 +5083,6 @@ vahis	muli	7
 buluk	tai	7
 titi	ehon	7
 keitel	telva	7
-ka	arahini	7
 ven	me-isrel	7
 koakeil	asak	7
 tatisaso	keil	7
@@ -5118,6 +5149,7 @@ keke	avales	7
 ka	hemukave	7
 keil	asesein	7
 kati	ral	7
+inau	namum	7
 keke	masan	7
 kei	vothot	7
 areingeingeni	keke	7
@@ -5127,6 +5159,7 @@ maen	meatin	7
 muas	keil	7
 mahien	teni	7
 lat	tahosien	7
+ka	luviteni	7
 kati	keih	7
 kur	ris	7
 mumoni	keih	7
@@ -5611,6 +5644,7 @@ min	sol	7
 nakapil	vituai	7
 selusien	tatisa	7
 aling	kati	7
+ka	sol	7
 mutah	mahien	7
 pesin	onen	7
 koviteni	keke	7
@@ -5644,7 +5678,6 @@ akur	rendemien	6
 vi	rendemien	6
 rovitei	ven	6
 miling	desien	6
-out	nesa	6
 mul	son	6
 umen	tetahos	6
 ileilien	onami	6
@@ -5833,12 +5866,14 @@ mun	vi	6
 vasi	min	6
 natnali	ka	6
 ka	natnahin	6
+iahova	mumoni	6
 ka	nitie	6
 hesan	asa	6
 ka	kuri	6
 inau	navis	6
 tai	mun	6
 rokol	handred	6
+ka	arahini	6
 apurun	keil	6
 uvae	kat	6
 avating	koe	6
@@ -5927,10 +5962,8 @@ sakvisien	takeih	6
 isrel	tai	6
 navong	telro	6
 telva	ris	6
-mini	luvit	6
 ramat	keke	6
 ka	nikur	6
-iahova	hesan	6
 anien	teni	6
 vise	kei	6
 kur	seh	6
@@ -5976,6 +6009,7 @@ amutisi	mul	6
 moul	veah	6
 ihati	keil	6
 vi	koakeil	6
+heou	keil	6
 teni	mini	6
 tahos	mikilea	6
 ten	muohien	6
@@ -6194,7 +6228,6 @@ kilea	vasak	6
 les	asa	6
 tisa	sav	6
 vakur	etai	6
-eim	mon	6
 rali	koteh	6
 deved	ral	6
 amumoni	navong	6
@@ -6348,7 +6381,6 @@ san	hen	6
 ka	votini	6
 avi	amus	6
 ten	tirendan	6
-hemea	ran	6
 isip	ral	6
 mun	mini	6
 titi	rea	6
@@ -6464,7 +6496,6 @@ hatte	tamun	6
 mosis	kur	6
 vatihou	enek	6
 oaisal	enek	6
-keik	koa	6
 kat	tiser	6
 kami	sav	6
 koakeil	amu	6
@@ -6548,7 +6579,6 @@ vulvul	omon	6
 omon	laeon	6
 onen	daniel	6
 keke	tahos	6
-kei	mundem	6
 imok	vahit	6
 enek	hemat	6
 koa	ir	6
@@ -6862,6 +6892,7 @@ romul	romusil	5
 rorie	lat	5
 anatin	navong	5
 houlu	aka	5
+more	one	5
 sion	mak	5
 kataunien	mini	5
 mak	mutis	5
@@ -6990,7 +7021,6 @@ veah	selus	5
 vil	ka	5
 eang	koa	5
 san	houhouen	5
-avaseini	tounah	5
 vahiteni	keke	5
 mumoni	romaltei	5
 mari	sanien	5
@@ -7018,11 +7048,13 @@ ous	romustei	5
 me-moab	keil	5
 ahin	moab	5
 keitel	vasi	5
+mini	luvit	5
 nikur	ris	5
 koanek	sakras	5
 sakras	vakur	5
 kiha	ien	5
 niha	ien	5
+iahova	hesan	5
 keilu	lumual	5
 lukistal	en	5
 sion	mai	5
@@ -7547,6 +7579,7 @@ keil	amusin	5
 keilu	mama	5
 en	veinan	5
 vinvini	meatin	5
+hemea	ran	5
 out	kosa	5
 mulamu	ka	5
 hesuval	asuv	5
@@ -7574,7 +7607,6 @@ keke	malah	5
 keil	alokoveini	5
 ka	viso	5
 hetokol	katuk	5
-navong	rut	5
 hesa	kesi	5
 vangite	keil	5
 usite	onealu	5
@@ -7762,6 +7794,7 @@ ven	siosep	5
 koa	lingi	5
 provet	sav	5
 kot	omon	5
+keik	koa	5
 haoa	etel	5
 vi	one	5
 en	eisilin	5
@@ -7840,6 +7873,7 @@ eris	usil	5
 keilu	sion	5
 masan	moulien	5
 aka	pas	5
+vati	ka	5
 kat	tavaeen	5
 avati	kati	5
 ninin	mul	5
@@ -7903,7 +7937,6 @@ oai	tovuol	5
 min	samuel	5
 kei	houtut	5
 nalong	tangien	5
-navong	samuel	5
 sila	eisisil	5
 keik	kumai	5
 ka	mekilea	5
@@ -7927,6 +7960,7 @@ musil	meteisauen	5
 houlu	derias	5
 ir	rosakras	5
 onen	ven	5
+kei	mundem	5
 kat	etai	5
 keke	mikur	5
 tai	luh	5
@@ -8080,7 +8114,6 @@ vasi	akilea	4
 akilea	avalesi	4
 tus	enek	4
 mun	selusien	4
-teim	sami	4
 ven	koanek	4
 avaseini	avong	4
 umai	ruai	4
@@ -8321,6 +8354,7 @@ sion	sepeti	4
 irkur	revitei	4
 keil	akapil	4
 romusiltei	anatinien	4
+ahin	ka	4
 er	hehathat	4
 hehathat	ir	4
 aka	vasi	4
@@ -8331,6 +8365,7 @@ tukahin	keil	4
 onealu	keke	4
 banabas	luva	4
 pita	ro	4
+mutisi	ka	4
 onen	pita	4
 keke	kur	4
 keihoen	mulin	4
@@ -8519,6 +8554,7 @@ tamun	onen	4
 alah	vasi	4
 natmali	keil	4
 retengeiril	vita	4
+avaseini	tounah	4
 romumontei	tisaen	4
 vati	vaha	4
 provins	keil	4
@@ -8556,6 +8592,7 @@ ahineli	rut	4
 navong	telmul	4
 navis	min	4
 tahosien	min	4
+vaha	vio	4
 kat	avu	4
 nito	ien	4
 tai	hemat	4
@@ -8695,7 +8732,6 @@ koa	mikapil	4
 dikon	keil	4
 onak	lises	4
 vasi	eni	4
-nalonge	tahos	4
 mirie	lat	4
 musil	more	4
 nau	navong	4
@@ -8787,6 +8823,7 @@ umai	akapil	4
 amusil	vati	4
 selus	retavoai	4
 heselus	heha	4
+aue	li	4
 uti	mani	4
 keil	avoum	4
 keil	alosil	4
@@ -8964,7 +9001,6 @@ veite	enek	4
 hau	veni	4
 atouli	koa	4
 ka	hemoul	4
-kele	eisin	4
 onen	mama	4
 souen	keil	4
 keih	ven	4
@@ -9130,7 +9166,6 @@ ahang	teni	4
 kat	provins	4
 mitheha	en	4
 tamun	heha	4
-en	oven	4
 keitel	telvaha	4
 vuo	eisin	4
 san	angelo	4
@@ -9389,6 +9424,7 @@ bale	koa	4
 betlehem	ka	4
 kum	en	4
 amum	ien	4
+navong	rut	4
 komul	komumoni	4
 ka	kantri	4
 tahosien	koa	4
@@ -9599,7 +9635,6 @@ vasi	housil	4
 enek	munak	4
 munak	mihermumontei	4
 kami	kristin	4
-avaseini	avi	4
 avi	tuami	4
 vuo	meahos	4
 meahos	sav	4
@@ -9754,7 +9789,6 @@ munak	mikur	4
 mivahiteni	min	4
 keil	uas	4
 onen	alonge	4
-ka	kilei	4
 mun	hati	4
 kovi	tai	4
 ka	valei	4
@@ -9795,7 +9829,6 @@ usil	matien	4
 ka	iti	4
 usivek	matu	4
 avuroh	kat	4
-vati	ka	4
 vavae	vatal	4
 vatal	keil	4
 armu	vinitei	4
@@ -9892,7 +9925,6 @@ sol	koa	4
 angelo	kur	4
 eni	mules	4
 ien	avi	4
-oai	keil	4
 ebraham	vi	4
 volvol	ten	4
 koa	oai	4
@@ -9951,6 +9983,7 @@ anien	sav	4
 navong	mivi	4
 en	mormore	4
 keihoen	onami	4
+navong	samuel	4
 houlu	navong	4
 silasil	en	4
 erovattei	availea	4
@@ -9972,7 +10005,6 @@ koe	voiteh	4
 keilu	lumea	4
 along	more	4
 mah	ven	4
-hihiseien	onak	4
 ahin	onami	4
 sav	keilu	4
 ka	romumon	4
@@ -10044,6 +10076,7 @@ lesien	onak	4
 aver	hehiles	4
 utiai	tai	4
 tetinien	ten	4
+adam	koa	4
 ebraham	keil	4
 vahiles	rendemien	4
 nisakin	vatiamal	4
@@ -10129,6 +10162,7 @@ hit	visi	4
 visi	min	4
 kei	vina	4
 keke	mosis	4
+kovi	vau	4
 enek	mumoni	4
 kat	onen	4
 keik	kumon	4
@@ -10193,8 +10227,6 @@ va	vis	4
 imai	ikur	4
 hati	veret	4
 romul	veah	4
-atas	enek	4
-kolaeot	mai	4
 talauien	onen	4
 ven	deved	4
 soutin	rokol	4
@@ -10230,7 +10262,6 @@ komul	kosak	4
 voutut	koakeil	4
 tahos	avoumon	4
 min	me-amelek	4
-miheha	mihevae	4
 namum	vasi	4
 rea	koanek	4
 laet	one	4
@@ -10279,7 +10310,6 @@ rea	va	4
 mani	houlu	4
 aviso	en	4
 taon	orer	4
-avi	tuomi	4
 inau	nakapil	4
 merokol	taon	4
 mero	ekonek	4
@@ -10472,6 +10502,7 @@ ka	memumon	3
 mirkilea	revitei	3
 hatte	helu	3
 moum	en	3
+nirmumontei	mun	3
 vasi	hatkatien	3
 sakras	valuvos	3
 onomai	emun	3
@@ -10487,6 +10518,7 @@ tunien	tai	3
 keke	valong	3
 min	time	3
 en	tunien	3
+luk	mutisi	3
 hihiseien	ka	3
 mul	mahis	3
 luk	rie	3
@@ -10494,6 +10526,7 @@ livere	keil	3
 mum	houlu	3
 keke	ka	3
 ka	luk	3
+more	visokon	3
 akistal	ien	3
 sakaraea	ka	3
 ka	lumusil	3
@@ -10707,7 +10740,6 @@ avi	ninin	3
 eiloheh	sion	3
 anousiltei	tiser	3
 arvitei	kristin	3
-ahin	ka	3
 veni	anatinien	3
 onealu	min	3
 keke	rehousil	3
@@ -10716,7 +10748,6 @@ rokur	rohtoh	3
 tuomi	tai	3
 nakur	kat	3
 ir	hehi	3
-more	one	3
 one	minuk	3
 houlu	amundemi	3
 litetai	koa	3
@@ -10791,6 +10822,7 @@ one	mulin	3
 mulin	hanumau	3
 koa	um	3
 saeloh	keke	3
+riti	vasi	3
 koe	keke	3
 mis	ka	3
 kilonge	hetahos	3
@@ -10860,7 +10892,6 @@ keil	kilea	3
 pol	viseini	3
 veni	rovi	3
 rova	netan	3
-lingkatien	keil	3
 keil	um	3
 kristo	hel	3
 sanien	vasi	3
@@ -10945,7 +10976,6 @@ ka	ren	3
 kat	hitu	3
 naef	tai	3
 suval	meteiai	3
-navita	netan	3
 ka	nisakini	3
 ten	rendemien	3
 avi	tatavolien	3
@@ -11004,7 +11034,6 @@ lesi	vi	3
 ka	navisi	3
 houmon	sise	3
 males	kami	3
-inau	nalesi	3
 nalesi	mukave	3
 inau	namoul	3
 namul	nalesi	3
@@ -11043,13 +11072,11 @@ milheha	ris	3
 ris	hetal	3
 min	natkuli	3
 koa	lumat	3
-luviteni	mini	3
 milmundemi	keke	3
 makur	ris	3
 ris	ehon	3
 ehon	elu	3
 kamil	milkilea	3
-vaha	vio	3
 inau	nasakras	3
 mun	niha	3
 onom	hehi	3
@@ -11191,7 +11218,6 @@ nandemtei	nahit	3
 vi	elu	3
 koa	nesa	3
 onami	houlu	3
-tahosien	ten	3
 meteiai	va	3
 koakeil	avati	3
 keih	navong	3
@@ -11245,6 +11271,7 @@ amusel	ral	3
 munak	nimoul	3
 etin	rendemien	3
 toumien	keilu	3
+nalonge	tahos	3
 nau	mun	3
 navit	kilea	3
 keke	ek	3
@@ -11481,6 +11508,7 @@ akilea	avasani	3
 mihehul	takis	3
 ahi	asuval	3
 minouastei	meatin	3
+meatin	namat	3
 vat	keik	3
 vatisa	min	3
 meneai	mul	3
@@ -11709,6 +11737,7 @@ umai	arondan	3
 arondan	vesesal	3
 amul	avou	3
 amumoni	ka	3
+vatisa	minuk	3
 veni	misakras	3
 mivalei	kilea	3
 koanek	vit	3
@@ -11891,8 +11920,6 @@ polis	keil	3
 ven	nana	3
 ka	mihervatei	3
 ison	kami	3
-mari	oven	3
-oven	tai	3
 along	tounah	3
 selien	ten	3
 ison	keil	3
@@ -12307,7 +12334,6 @@ sasom	enges	3
 mahien	navong	3
 vasakin	ahi	3
 avakur	mane	3
-munak	kumon	3
 ilonge	hetahos	3
 teim	en	3
 koa	avinvin	3
@@ -12367,13 +12393,11 @@ bale	en	3
 bale	ran	3
 ah	enek	3
 rokol	mendilah	3
-koa	lahi	3
 varei	helei	3
 nilah	ruain	3
 kiha	kum	3
 ka	rut	3
 ronges	ral	3
-navong	siona	3
 lokovein	taon	3
 nimal	teni	3
 tounah	veni	3
@@ -12417,7 +12441,6 @@ ien	mahis	3
 nau	mamai	3
 vi	havivis	3
 suval	keik	3
-kul	anatin	3
 hau	vi	3
 keke	ervat	3
 ir	rorie	3
@@ -12565,6 +12588,7 @@ ro	vesesal	3
 vesesal	venau	3
 ahi	heting	3
 kei	mesai	3
+more	minuk	3
 keke	minoumontei	3
 hersantei	mun	3
 asak	mese	3
@@ -12718,6 +12742,7 @@ selien	keil	3
 tai	hekistal	3
 mimusil	sakien	3
 rotahostei	keke	3
+avaseini	avi	3
 vuo	uva	3
 vuo	avi	3
 avi	tarhena	3
@@ -12829,7 +12854,6 @@ nakeih	kat	3
 koviteni	minau	3
 nihit	kes	3
 buluk	oulu	3
-kei	lahi	3
 ahinali	keil	3
 keil	san	3
 mane	ka	3
@@ -13013,6 +13037,7 @@ keil	amakul	3
 keil	ika	3
 ka	misakras	3
 vati	avou	3
+eim	tahisien	3
 keil	arun	3
 ien	ven	3
 rolei	kileatei	3
@@ -13028,6 +13053,7 @@ amundemko	houlu	3
 ven	pita	3
 mane	tai	3
 uit	bale	3
+ka	kilei	3
 pulangit	ran	3
 kat	vase	3
 inau	num	3
@@ -13283,8 +13309,10 @@ mulu	keih	3
 koa	ara	3
 ara	mul	3
 en	hatte	3
+oai	keil	3
 amun	oai	3
 amumoni	suval	3
+romuetei	mun	3
 akilea	avoual	3
 natin	ahin	3
 navong	oai	3
@@ -13456,6 +13484,7 @@ veni	sion	3
 misuval	titiali	3
 veni	misesein	3
 kami	misesein	3
+hihiseien	onak	3
 isan	matien	3
 hemai	hetokol	3
 onen	avi	3
@@ -13763,6 +13792,7 @@ tasilien	hetovuol	3
 navong	ir	3
 koa	imai	3
 veni	siu	3
+maluen	orer	3
 koakeil	akatau	3
 mumoni	mai	3
 keke	namum	3
@@ -13800,7 +13830,6 @@ ihit	keil	3
 heto	sasen	3
 maso	lat	3
 umoni	hesuvali	3
-kovi	vau	3
 sanien	onom	3
 navong	komumoni	3
 enek	hetal	3
@@ -13967,11 +13996,13 @@ lin	koa	3
 kat	one	3
 enek	san	3
 atas	vi	3
+atas	enek	3
 taveah	vina	3
 muris	mai	3
 ka	avouhou	3
 out	sokah	3
 out	kat	3
+kolaeot	mai	3
 houas	nau	3
 munak	inau	3
 osen	tamen	3
@@ -13985,6 +14016,8 @@ ahi	mundemi	3
 kilea	mini	3
 koa	houas	3
 along	asa	3
+ka	namu	3
+namu	vini	3
 laeon	ka	3
 ka	bear	3
 bear	keil	3
@@ -14074,6 +14107,7 @@ misesein	hihiseien	3
 ka	avisohiso	3
 ka	mesan	3
 en	vulioai	3
+is	onen	3
 amundem	kati	3
 mea	vit	3
 hesani	minau	3
@@ -14091,6 +14125,7 @@ aluvos	avit	3
 ahi	tateisav	3
 ason	koa	3
 vahiteni	minuk	3
+miheha	mihevae	3
 mihevae	hetal	3
 out	amelek	3
 mihou	vinvini	3
@@ -14168,7 +14203,6 @@ asani	vi	3
 artetalihetei	vatal	3
 asan	leta	3
 ruain	kristin	3
-navong	luro	3
 veah	ekonek	3
 mun	mimul	3
 meten	veni	3
@@ -14223,6 +14257,7 @@ umen	orer	3
 keil	avandem	3
 ekek	along	3
 keke	taon	3
+avi	tuomi	3
 rosuvaltei	asa	3
 keke	nuva	3
 memuloh	meva	3
@@ -14262,6 +14297,7 @@ lingkatien	koanik	3
 out	derbi	3
 luvitehiten	more	3
 kei	rondan	3
+ahi	sius	3
 lusao	en	3
 lusan	selusien	3
 mani	vasi	3

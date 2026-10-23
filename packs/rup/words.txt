@@ -1,117 +1,117 @@
 # Armãneashti : FineWeb-2 rup_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-di	22604
-a	14305
-tu	10425
-cu	8315
-ti	6190
-la	5639
-shi	5563
-nu	5138
+di	22593
+a	14294
+tu	10417
+cu	8309
+ti	6189
+la	5636
+shi	5557
+nu	5133
 şi	4154
-ma	4140
-easti	3851
-cari	3696
-ca	3522
-pi	3187
-tsi	2921
+ma	4138
+easti	3850
+cari	3691
+ca	3521
+pi	3181
+tsi	2918
 va	2634
-unâ	2614
+unâ	2613
 un	2529
-câ	2433
+câ	2430
 tru	2295
-si	2140
-dit	1943
-că	1767
+si	2139
+dit	1942
+că	1766
 ţi	1692
-și	1689
-u	1645
-i	1613
-ta	1571
+și	1684
+u	1644
+i	1610
+ta	1570
 eara	1552
-multu	1539
+multu	1538
 ali	1388
 ditu	1343
-suntu	1307
-lui	1280
-fu	1277
+suntu	1306
+lui	1279
+fu	1276
 cum	1216
 ama	1202
-ari	1158
+ari	1156
 iu	1147
-mari	1114
+mari	1113
 limba	1094
 al	1024
 ună	995
-li	988
-unu	975
-aestu	879
-armâneascâ	842
+li	985
+unu	974
+aestu	878
+armâneascâ	841
 the	835
-cându	829
+cându	828
 tuti	826
 noi	824
 mi	821
 aestâ	782
 dupu	771
 tora	771
-de	726
+de	724
 avea	722
-cama	713
+cama	711
 sh	708
 anlu	698
 multi	695
-nai	692
+nai	691
 lucru	650
-s-hibâ	649
-ți	647
-ditù	646
-lu	633
-nâ	611
+s-hibâ	648
+ți	645
+ditù	645
+lu	631
+nâ	609
 voi	607
 românia	601
-mini	592
+mini	591
 el	585
 nica	578
 icâ	577
-bana	570
+bana	569
 sâ	561
 ghini	554
-tut	544
+tut	543
 numa	540
 mea	520
 unã	519
 tini	516
 aesti	511
 tra	508
-tuts	507
 prota	507
-da	496
-poati	492
+tuts	506
+da	495
+poati	491
 ea	484
 chiro	484
 pri	484
 soni	478
-trâ	473
 atsea	471
+trâ	469
 parti	466
 s-nu	453
 unù	453
 au	447
-mash	446
+mash	445
 lor	431
 iara	424
-of	424
+of	423
 în	418
 in	412
-s-u	410
+s-u	409
 cumu	408
-ninti	405
-ashi	399
+ninti	404
 cã	397
+ashi	396
 aclo	391
-ei	389
-pânâ	375
+ei	388
+pânâ	374
 cai	374
 easte	364
 aoa	361
@@ -119,10 +119,10 @@ una	350
 alu	349
 nă	349
 pisti	345
-s	342
-trei	332
-zborlu	331
-armânji	329
+s	339
+trei	331
+zborlu	330
+armânji	328
 din	327
 alti	323
 oarâ	322
@@ -133,23 +133,23 @@ and	317
 io	314
 kiro	312
 chirolu	312
-aminti	311
+aminti	310
 anda	308
 furâ	307
 anamisa	303
 ninga	302
 vârâ	301
-dupâ	301
+dupâ	300
 lâ	295
 ori	286
 fârâ	286
-loclu	282
+loclu	281
 doi	280
 tutâ	279
-cara	279
 turlii	278
+cara	278
 aţea	277
-vini	274
+vini	273
 cali	267
 ia	265
 ira	265
@@ -158,20 +158,20 @@ calea	261
 armânjlji	260
 cănd	259
 cartea	258
-anji	257
 care	257
-cumù	257
 lumea	256
-am	253
+cumù	256
+anji	255
 partea	252
 vreari	252
+am	252
 aşi	250
 loc	250
 să	249
 dzâsi	249
 pot	247
 tră	247
-e	246
+e	244
 vrea	243
 elu	240
 cãndu	238
@@ -180,17 +180,17 @@ românii	233
 om	231
 pritu	229
 aproapea	228
-aesta	228
 yini	227
 sum	227
+aesta	227
 meu	224
 n	222
-lla	222
 s-lu	221
+lla	221
 deadun	220
 lucri	217
 s-li	212
-na	212
+na	211
 elji	209
 canda	209
 protlu	208
@@ -200,7 +200,6 @@ an	204
 hibă	204
 armânescu	203
 to	203
-o	199
 lipseaşti	199
 oara	198
 avu	197
@@ -208,9 +207,10 @@ lipseashti	197
 după	197
 dau	197
 aestă	197
-cafi	196
-fără	195
+o	195
+cafi	195
 cathi	194
+fără	194
 spuni	191
 bucureşti	191
 casa	191
@@ -222,10 +222,10 @@ pit	187
 hoara	186
 loru	185
 ljei	185
-dealihea	184
 altu	184
 are	184
 lorù	184
+dealihea	183
 ananghi	183
 omlu	183
 spusi	182
@@ -233,9 +233,9 @@ largu	181
 adzâ	180
 s-ti	179
 s-nâ	179
-maşi	178
-limbâ	177
 agiumsi	177
+limbâ	176
+maşi	176
 spun	174
 atselji	173
 ahtari	172
@@ -244,10 +244,10 @@ kirolu	171
 dzua	171
 curi	170
 nitsi	170
-altâ	170
 mutrinda	170
 tutu	169
 banâ	169
+altâ	169
 s-mi	169
 maş	169
 noastâ	168
@@ -264,18 +264,18 @@ sã	163
 arada	162
 tuţ	161
 daima	158
-hibâ	158
 dor	158
 nostru	157
 marea	157
 cultura	157
+hibâ	157
 soi	157
 lo	156
 su	156
 eali	155
-c	155
 lilici	155
 atumtsea	154
+c	154
 lai	153
 contra	152
 sh-cu	152
@@ -303,13 +303,12 @@ ică	142
 locu	140
 isturia	140
 vrearea	140
-românie	140
 marli	139
+românie	139
 cât	139
 niţi	138
 vra	137
 alù	137
-idyea	136
 zbor	136
 tricu	136
 inima	136
@@ -318,17 +317,17 @@ europa	135
 român	135
 suflitlu	135
 maxus	135
+idyea	134
 xeani	134
 maca	134
-era	133
 hiu	132
+era	132
 pãnã	132
 omu	131
 căt	131
 greu	130
 vahi	130
 atea	130
-us	129
 ved	129
 armân	128
 locuri	128
@@ -336,22 +335,23 @@ numirlu	128
 deadunu	127
 itia	127
 fatsi	127
+us	127
 sunt	127
-până	127
-caftâ	126
-adusi	126
 s-aibâ	126
+până	126
 patru	126
+caftâ	125
+adusi	125
 s-hibã	125
 atumţea	125
 sa	125
 munti	124
-featsi	123
-multsâ	123
 naima	123
-escu	123
+featsi	122
 dzuua	122
+multsâ	122
 feati	122
+escu	122
 mashi	121
 him	121
 mata	120
@@ -371,30 +371,29 @@ armãneascã	115
 câti	114
 populu	113
 putea	113
-cântâ	113
 este	113
 pe	113
 ficior	113
 ee	113
 sutsata	112
 s-da	112
+cântâ	112
 ţiva	112
 bunâ	111
 aţel	111
 lucurlu	110
 aţeali	110
 alexandru	109
-tas	109
 aestã	109
 locurli	109
 dada	108
 vruta	108
 mare	108
+tas	107
 mesi	107
 mintea	107
 for	107
 sta	107
-vedz	106
 pritù	106
 crushuva	106
 vâsâlii	106
@@ -403,6 +402,7 @@ bucureshti	105
 noastrâ	105
 is	105
 as	105
+vedz	105
 zori	105
 nâinti	104
 vasili	102
@@ -430,7 +430,6 @@ armasi	99
 s-facâ	99
 noaptea	99
 trã	99
-ci	99
 cãtrã	99
 el'i	99
 mutreaşti	99
@@ -442,6 +441,7 @@ pari	97
 from	97
 hari	97
 luna	97
+ci	97
 tutù	97
 pâradz	96
 putem	96
@@ -458,11 +458,10 @@ culturalâ	94
 practico	94
 andamusi	93
 armâneshtsâ	93
-tiniri	93
 alumta	93
 istoria	93
 në	93
-limbi	92
+tiniri	92
 ficiori	92
 was	92
 armânâ	92
@@ -475,7 +474,7 @@ bucurești	92
 ju	92
 aua	91
 sculii	91
-le	91
+limbi	91
 parei	91
 hii	91
 alantu	91
@@ -493,6 +492,7 @@ yinu	89
 s-aflâ	89
 adrati	89
 româneascâ	89
+le	88
 simasii	88
 revista	88
 cà	88
@@ -543,21 +543,21 @@ domnul	83
 iar	83
 faptă	83
 yin	83
-sumu	82
 bagâ	82
 unlu	82
 agiutorlu	82
-maria	82
 apa	82
 mă	82
 oili	82
 pareia	81
+sumu	81
 suti	81
 adarâ	81
 ici	81
 by	81
 nafoarâ	81
 grailu	81
+maria	81
 ţâ	81
 putu	80
 dzâtsi	80
@@ -642,12 +642,10 @@ facâ	71
 foc	71
 ş-cu	71
 minduescu	71
-furnjia	70
 anu	70
 boiagi	70
 ce	70
 casă	70
-dumnidzã	70
 sh-nu	70
 amarea	70
 bună	70
@@ -659,10 +657,12 @@ mas	70
 premierlu	70
 vărr	70
 șî	70
+furnjia	69
 canâ	69
 yioryi	69
 meali	69
 armaneasca	69
+dumnidzã	69
 europeanâ	69
 filmul	69
 euro	69
@@ -732,7 +732,6 @@ halep	64
 nunlu	64
 hôră	64
 dultsi	63
-m	63
 sistemlu	63
 em	63
 andamusea	62
@@ -765,7 +764,6 @@ naţionalâ	61
 machidunii	61
 ministerlu	61
 aleptu	60
-gri	60
 dinintea	60
 dorlu	60
 adră	60
@@ -786,7 +784,7 @@ napoi	60
 ministru	60
 cata	59
 datâ	59
-t	59
+gri	59
 ahurhita	59
 s-dzâcâ	59
 frati	59
@@ -794,34 +792,34 @@ zbura	59
 iţi	59
 mirachi	59
 statlui	59
-tinjii	59
 candu	59
 s-fatsi	59
 bisearica	59
 emu	59
 sutsatâljei	59
-bucuresti	59
 căndu	59
 dzăsi	59
 fiată	59
 desi	58
+t	58
 ahântu	58
 ndoi	58
-buna	58
 taifa	58
+tinjii	58
 moartea	58
 năi	58
 shti	58
+bucuresti	58
 proiectu	58
 cheptu	58
 culturali	57
 loclui	57
+buna	57
 poetlu	57
 mei	57
 spunu	57
 armânj	57
 earam	57
-armân'ilor	57
 adra	57
 luplu	57
 yrambolu	57
@@ -833,6 +831,7 @@ lipseaști	56
 bati	56
 sãntu	56
 cânticu	56
+armân'ilor	56
 uniunea	56
 zboarã	56
 si-ńi	56
@@ -858,7 +857,6 @@ di-a	54
 mihali	54
 which	54
 dina	54
-g	54
 dadâ	54
 freiburg	54
 muzica	54
@@ -871,7 +869,6 @@ bagă	54
 aibă	54
 klaus	54
 îlji	54
-s-yinâ	53
 amintarea	53
 not	53
 doilu	53
@@ -889,6 +886,7 @@ coli	53
 petar	53
 dumădză	53
 armânjiloru	52
+s-yinâ	52
 lucra	52
 aveari	52
 doru	52
@@ -908,6 +906,7 @@ vrem	51
 polimu	51
 mutrescu	51
 macedonia	51
+m	51
 casili	51
 membru	51
 problema	51
@@ -926,7 +925,6 @@ apofasea	50
 on	50
 hristu	50
 poezie	50
-stati	50
 ani	50
 papu	50
 multe	50
@@ -944,6 +942,7 @@ dipriunâ	49
 para	49
 s-avea	49
 comunitatea	49
+stati	49
 alidzerli	49
 trec	49
 hoară	49
@@ -1009,7 +1008,6 @@ adutsi	46
 picurari	46
 facu	46
 prefti	46
-tute	46
 nâsu	46
 mama	46
 sigura	46
@@ -1030,7 +1028,9 @@ alantsâ	45
 altsâ	45
 sua	45
 doilji	45
+g	45
 itsi	45
+tute	45
 hori	45
 studii	45
 ion	45
@@ -1110,7 +1110,6 @@ duri	42
 greek	42
 cuvata	42
 we	42
-fi	42
 unei	42
 cândroveanu	42
 r	42
@@ -1130,7 +1129,6 @@ inăma	42
 numata	42
 cozara	42
 boatsea	41
-nali	41
 evropa	41
 est	41
 pristi	41
@@ -1140,12 +1138,10 @@ has	41
 general	41
 alumtâ	41
 muabeti	41
-armâneaşti	41
 opera	41
 nau	41
 nicu	41
 chiru	41
-carte	41
 âl'i	41
 duc	41
 multă	41
@@ -1161,11 +1157,13 @@ noştri	41
 uidisit	41
 sânt	41
 vã	40
+nali	40
 dzâsirâ	40
 dzâcu	40
 iutsido	40
 poartâ	40
 familia	40
+armâneaşti	40
 scriari	40
 si-u	40
 scoatâ	40
@@ -1173,6 +1171,7 @@ mumă	40
 vâr	40
 piceava	40
 soarli	40
+carte	40
 iau	40
 optu	40
 tsintsi	40
@@ -1270,7 +1269,6 @@ s-adunâ	37
 loa	37
 mpadi	37
 weigand	37
-d	37
 s-bâneadzâ	37
 crescu	37
 bâgati	37
@@ -1388,10 +1386,8 @@ bâgă	34
 mass-media	34
 sots	34
 easi	34
-vi	34
 pasha	34
 featsirâ	34
-sh-ma	34
 cãrtsâ	34
 oclji	34
 noastã	34
@@ -1435,11 +1431,11 @@ you	33
 have	33
 balkan	33
 tot	33
+sh-ma	33
 ndoauâ	33
 etâ	33
 modernâ	33
 cãtã	33
-ne	33
 s-fac	33
 dzâlili	33
 cântitsi	33
@@ -1450,7 +1446,6 @@ cicioari	33
 mutreaști	33
 diznou	33
 teta	33
-sh'mini	33
 ficiorlu	33
 profesorlu	33
 horli	33
@@ -1490,6 +1485,7 @@ bâgarea	32
 pitricut	32
 s-feaţi	32
 dzâţi	32
+ne	32
 arta	32
 sântu	32
 românească	32
@@ -1503,6 +1499,7 @@ videa	32
 altã	32
 s-ved	32
 s-mãcã	32
+sh'mini	32
 nicuchira	32
 achicâseari	32
 himù	32
@@ -1587,7 +1584,6 @@ armâñiloru	31
 evropâ	30
 armãnj	30
 njicu	30
-amintã	30
 veclji	30
 s-tradzi	30
 eti	30
@@ -1649,6 +1645,7 @@ prezidentului	30
 europeană	30
 martsu	29
 idyia	29
+amintã	29
 philip	29
 sinferu	29
 minduiari	29
@@ -1674,7 +1671,6 @@ mplinâ	29
 ahânti	29
 njicâ	29
 nida	29
-salâ	29
 intrã	29
 deapoea	29
 mplini	29
@@ -1701,7 +1697,6 @@ armanescu	29
 ndreptul	29
 adrã	29
 andruparea	29
-km	29
 ka	29
 căntă	29
 dot	29
@@ -1747,6 +1742,7 @@ s-a	28
 yinaru	28
 seculu	28
 avets	28
+salâ	28
 muzicâ	28
 treilu	28
 gioacâ	28
@@ -1755,7 +1751,6 @@ s-him	28
 mutrindalui	28
 scoasâ	28
 tradzi	28
-iară	28
 furn'ia	28
 gheorghe	28
 poets	28
@@ -1764,7 +1759,6 @@ ahtãri	28
 cad	28
 niheamã	28
 istorii	28
-dl	28
 voastâ	28
 aveamù	28
 lucrili	28
@@ -1775,6 +1769,7 @@ zona	28
 aestea	28
 cântic	28
 shtim	28
+km	28
 dapoia	28
 poarta	28
 lae	28
@@ -1788,7 +1783,6 @@ alba	28
 soyia	28
 stri	28
 aţilui	28
-mulţă	28
 untulemnu	28
 s-faţi	28
 planti	28
@@ -1815,16 +1809,13 @@ caragiu	27
 new	27
 lunjina	27
 hâiri	27
-natsional	27
 armãnji	27
 lala	27
 scrii	27
 lumiľei	27
-spiru	27
 nomlui	27
 niheam	27
 lom	27
-ľi	27
 mu	27
 totâna	27
 farâ	27
@@ -1855,6 +1846,7 @@ liga	27
 cunoscu	27
 belemace	27
 agri	27
+mulţă	27
 vâsâlia	27
 ţi-l	27
 xeni	27
@@ -1874,7 +1866,6 @@ people	26
 also	26
 dumnidzău	26
 thunmann	26
-p	26
 academie	26
 budapesta	26
 academia	26
@@ -1884,9 +1875,10 @@ roma	26
 identitati	26
 hazi	26
 brumar	26
-ńi	26
+natsional	26
 acşi	26
 spiritlu	26
+spiru	26
 artâ	26
 vârnâ	26
 sâmtu	26
@@ -1936,7 +1928,6 @@ aminte	26
 spună	26
 llocu	26
 tsi'am	26
-ell	26
 një	26
 apărari	26
 film	26
@@ -1946,7 +1937,6 @@ ducă	26
 atelli	26
 di-aradã	26
 despotlu	26
-nr	25
 veria	25
 amintatâ	25
 sh-a	25
@@ -1957,7 +1947,6 @@ latin	25
 minduimu	25
 puturâ	25
 tihi	25
-du	25
 tsânâ	25
 pistea	25
 numiru	25
@@ -1996,7 +1985,6 @@ pan	25
 ta-s	25
 avândalui	25
 nji	25
-ah	25
 greashti	25
 fur	25
 mãcarea	25
@@ -2039,6 +2027,7 @@ feaţiră	25
 fotbal	25
 meatrili	25
 becali	25
+nr	24
 s-aproachi	24
 pitricutâ	24
 scamnu	24
@@ -2052,7 +2041,6 @@ sâ-lu	24
 dinâpoi	24
 mortu	24
 agiumsirâ	24
-do	24
 santa	24
 he	24
 armata	24
@@ -2079,7 +2067,6 @@ coranlu	24
 izvuri	24
 vâryârii	24
 catastisi	24
-h	24
 hiba	24
 unia	24
 lilicili	24
@@ -2147,7 +2134,6 @@ grilakis	24
 adunari	23
 yinitorlu	23
 safi	23
-th	23
 aromânii	23
 curagiu	23
 documentu	23
@@ -2157,7 +2143,6 @@ aiestâ	23
 et	23
 noimâ	23
 porphyrogenetlu	23
-lomu	23
 hoari	23
 been	23
 text	23
@@ -2167,7 +2152,6 @@ languages	23
 only	23
 apostol	23
 luńina	23
-k	23
 limba-a	23
 s-andreagâ	23
 profesorlui	23
@@ -2183,7 +2167,6 @@ loai	23
 idhyia	23
 chirolui	23
 pots	23
-meshi	23
 pilisterlu	23
 momentu	23
 tserlu	23
@@ -2199,7 +2182,6 @@ balcani	23
 grescu	23
 iholu	23
 tsea	23
-b	23
 chirearea	23
 dumidza	23
 aproape	23
@@ -2280,6 +2262,7 @@ ufilisitâ	22
 vlahu	22
 cupiili	22
 cratu	22
+lomu	22
 adusâ	22
 cunuscuts	22
 cicioarli	22
@@ -2309,6 +2292,7 @@ statu	22
 membrilji	22
 di-aoa	22
 catastisea	22
+meshi	22
 videts	22
 tenda	22
 njilji	22
@@ -2319,6 +2303,7 @@ plângu	22
 angâtan	22
 imna	22
 yii	22
+iară	22
 politic	22
 ficiuriţ	22
 badz	22
@@ -2394,7 +2379,6 @@ obiectu	22
 alânci	21
 adarã	21
 popullu	21
-tricuti	21
 vremu	21
 shtimu	21
 sâ-lj	21
@@ -2488,6 +2472,7 @@ viadă	21
 zbôrră	21
 păni	21
 sôrră	21
+ell	21
 turrăshti	21
 sofia	21
 zonă	21
@@ -2509,6 +2494,7 @@ mushuteatsa	20
 consiliu	20
 filip	20
 informatsii	20
+tricuti	20
 alathusi	20
 etâljei	20
 david	20
@@ -2535,7 +2521,6 @@ tsi-i	20
 rol	20
 pira	20
 național	20
-tirana	20
 istoricâ	20
 analtâ	20
 vrana	20
@@ -2556,7 +2541,6 @@ ahântâ	20
 nou	20
 yis	20
 națională	20
-s-turnă	20
 inj	20
 oamińi	20
 piste	20
@@ -2646,7 +2630,6 @@ işiş	20
 cumânduseari	20
 centrul	20
 cadrilater	20
-tr	20
 aluştoru	20
 intensivă	20
 sade	20
@@ -2691,8 +2674,8 @@ tiberiu	19
 uniti	19
 tsi-lji	19
 sia	19
-tv	19
 unâl'ei	19
+tirana	19
 zburâm	19
 spunemu	19
 dumnidzâ	19
@@ -2705,10 +2688,10 @@ ripublica	19
 aproaki	19
 ili	19
 sora	19
+s-turnă	19
 adrată	19
 ligat	19
 ma-s	19
-scriitorlu	19
 belimace	19
 vintu	19
 câsâbãlu	19
@@ -2753,7 +2736,6 @@ pita	19
 idghea	19
 crivati	19
 neauă	19
-ţânu	19
 sâ-şi	19
 internarea	19
 ushă	19
@@ -2820,7 +2802,6 @@ tricutâ	18
 mutrits	18
 marili	18
 cursuri	18
-adeti	18
 idheea	18
 cratlui	18
 evropeanâ	18
@@ -2858,6 +2839,7 @@ adresa	18
 irina	18
 dzuu	18
 fie	18
+scriitorlu	18
 foami	18
 dima	18
 ardi	18
@@ -2896,7 +2878,6 @@ dzâţe	18
 s-fați	18
 caftã	18
 udălu	18
-s-tsa	18
 mindui	18
 aeşti	18
 yislu	18
@@ -2909,6 +2890,7 @@ ocl'il'i	18
 tsatsa	18
 crushuveanj	18
 ursa	18
+ţânu	18
 balta	18
 scupadz	18
 internats	18
@@ -2930,7 +2912,6 @@ iei	18
 curayiu	18
 agiutarâ	18
 romanie	18
-tur	18
 fiscalâ	18
 împrustarea	18
 dosar	18
@@ -2986,6 +2967,7 @@ s-fugâ	17
 limbii	17
 numai	17
 aflã	17
+adeti	17
 avuts	17
 prândzu	17
 urnechi	17
@@ -2997,7 +2979,6 @@ ich	17
 aflu	17
 yisu	17
 adrai	17
-muşatu	17
 aleapti	17
 condutsirea	17
 s-hârsescu	17
@@ -3030,7 +3011,6 @@ capital	17
 dao	17
 senatlu	17
 toamnâ	17
-com	17
 lucrul	17
 nafoarã	17
 idyiulù	17
@@ -3086,6 +3066,7 @@ vinită	17
 viniră	17
 nãpoi	17
 lungã	17
+s-tsa	17
 putui	17
 ahat	17
 amintatic	17
@@ -3099,7 +3080,6 @@ doarâli	17
 cuscârii	17
 s-bitisi	17
 teatrul	17
-cântarea	17
 mutarea	17
 si-şi	17
 făţea	17
@@ -3139,7 +3119,6 @@ fech	17
 ôri	17
 faţ	17
 ăl'i	17
-ĭ	17
 autoritățli	17
 aruşfetâl'ei	17
 fmi	17
@@ -3241,7 +3220,6 @@ popescu	16
 sârunâ	16
 pi-tu	16
 vidzut	16
-ts	16
 adus	16
 hristo	16
 nicâ	16
@@ -3268,6 +3246,7 @@ nicukira	16
 s-videa	16
 site	16
 spunets	16
+com	16
 ahurhescu	16
 gionj	16
 son	16
@@ -3317,6 +3296,7 @@ canticlu	16
 shtia	16
 tricutlu	16
 lucră	16
+cântarea	16
 ș-cari	16
 tia	16
 şidea	16
@@ -3328,7 +3308,6 @@ grupa	16
 albã	16
 limbãljei	16
 compania	16
-untulemnul	16
 antologhia	16
 familii	16
 frontul	16
@@ -3386,7 +3365,6 @@ partidlui	16
 monumentu	16
 apropea	16
 cuscârlji	16
-acest	16
 afganistan	16
 obiectului	16
 s-putemù	16
@@ -3437,6 +3415,7 @@ ntreagâ	15
 fisi	15
 muşuteaţa	15
 flori	15
+muşatu	15
 s-mutâ	15
 contra-a	15
 shtiintsâ	15
@@ -3550,6 +3529,7 @@ amânat	15
 volum	15
 sediu	15
 nordul	15
+untulemnul	15
 aşiţi	15
 zmeulu	15
 căsăbadz	15
@@ -3574,7 +3554,6 @@ hapsi	15
 smi	15
 sută	15
 dialecti	15
-pa	15
 janë	15
 pirmitusearea	15
 ti-l	15
@@ -3615,6 +3594,7 @@ consiliul	15
 mulță	15
 dalgă	15
 băgati	15
+acest	15
 cheatrã	15
 apuhii	15
 hensel	15
@@ -3733,7 +3713,6 @@ articoli	14
 dipriună	14
 alina	14
 nji-u	14
-revistâljei	14
 supțâri	14
 iaste	14
 prezentat	14
@@ -3781,7 +3760,6 @@ nico	14
 seati	14
 keptu	14
 feci	14
-tsu	14
 jini	14
 literatură	14
 ţâni	14
@@ -3923,7 +3901,6 @@ câftãrli	14
 constanța	14
 aprâftâsi	14
 petrovich	14
-kg	14
 pam	14
 brătianu	14
 protâ	13
@@ -4039,6 +4016,7 @@ simplã	13
 ascur	13
 soe	13
 steale	13
+revistâljei	13
 textul	13
 amânatù	13
 egnatia	13
@@ -4088,7 +4066,6 @@ di-tŭ	13
 armâneșțâ	13
 câ-i	13
 ies	13
-cui	13
 murmintu	13
 shi-nj	13
 hrisafi	13
@@ -4213,7 +4190,6 @@ sănătatillei	13
 locărli	13
 ş-ca	13
 vr	13
-kë	13
 unăllei	13
 aeşţâ	13
 giudeţlu	13
@@ -4323,7 +4299,6 @@ câsâbâ	12
 scurtu	12
 fiind	12
 scâdearea	12
-cm	12
 dumnidzălu	12
 s-aleadzi	12
 apili	12
@@ -4483,7 +4458,6 @@ tsăn	12
 mâcarea	12
 oamini	12
 veacljea	12
-hara	12
 cãntic	12
 ti-am	12
 s-adrăm	12
@@ -4560,7 +4534,6 @@ eĭ	12
 sutsãts	12
 hromi	12
 aoati	12
-moment	12
 nu-n	12
 vruţ	12
 tin'isitu	12
@@ -4604,6 +4577,7 @@ personali	12
 iel	12
 mardzină	12
 measa	12
+kë	12
 ntrăoară	12
 germania	12
 bellio	12
@@ -4611,7 +4585,6 @@ moeabeti	12
 sighișoara	12
 ahătu	12
 pitreacă	12
-numiri	12
 soneti	12
 rumuneascā	12
 locări	12
@@ -4637,6 +4610,7 @@ feaçe	12
 ôçí	12
 furñiia	12
 nyrâpseaşti	12
+kg	12
 cãcum	12
 jancu	12
 diviaka	12
@@ -4688,7 +4662,6 @@ title	11
 s-fâtsea	11
 gârtseshtsâ	11
 nandreapta	11
-tãu	11
 ghermanâ	11
 culturalu	11
 spiritlui	11
@@ -4766,14 +4739,12 @@ s-avdzâ	11
 firida	11
 tu-unã	11
 ligătură	11
-lj	11
 spuneam	11
 balcan'i	11
 ş-prota	11
 muşeati	11
 laiu	11
 bârbat	11
-lua	11
 vin	11
 lucrâtori	11
 ahorghea	11
@@ -4795,7 +4766,6 @@ aplo	11
 armanamea	11
 mp	11
 bãgats	11
-ch	11
 s-avdza	11
 prumuveara	11
 ahântsâ	11
@@ -4890,6 +4860,7 @@ d-na	11
 cristina	11
 fumeal'ia	11
 adunã	11
+hara	11
 fatsã	11
 baga	11
 s-ul	11
@@ -4905,7 +4876,6 @@ dultsea	11
 doiljii	11
 vara	11
 acasa	11
-îshi	11
 gioñi	11
 numtarii	11
 socurlui	11
@@ -4978,7 +4948,6 @@ fitsiam	11
 kur	11
 turrăshtia	11
 picurarjă	11
-nviatsă	11
 ghăi	11
 qushtu	11
 duse	11
@@ -4986,6 +4955,7 @@ actul	11
 expozitia	11
 principal	11
 an'il'i	11
+moment	11
 muşaţ	11
 ãl'i	11
 ş-tini	11
@@ -5055,6 +5025,7 @@ illi	11
 turliili	11
 soţlli	11
 nidzemu	11
+numiri	11
 sānt	11
 persoane	11
 unirea	11
@@ -5187,7 +5158,6 @@ ora	10
 hări	10
 face	10
 dzuâljei	10
-anchisi	10
 peshtera	10
 sh-câ	10
 curbanea	10
@@ -5316,7 +5286,6 @@ realitati	10
 suţatâ	10
 oaspiţ	10
 na-ndreapta	10
-cd	10
 anveţ	10
 tatăl	10
 agiunsi	10
@@ -5457,7 +5426,6 @@ afllă	10
 greku	10
 amartii	10
 cănta	10
-shă	10
 sh'ell	10
 llôtă	10
 zverca	10
@@ -5467,6 +5435,7 @@ corr	10
 turră	10
 qindisită	10
 dumănică	10
+nviatsă	10
 torr	10
 ficiorru	10
 fitsets	10
@@ -5587,7 +5556,6 @@ dipisi	10
 s-turnã	10
 scenariul	10
 etnicã	10
-adutsemù	10
 organizã	10
 institutsii	10
 pero	10
@@ -5601,7 +5569,6 @@ imaghini	10
 zñiipsiti	10
 interimar	10
 armân'l	10
-zakaria	10
 dumëxë	10
 fakë	10
 photo	10
@@ -5670,7 +5637,6 @@ oani	9
 translated	9
 modern	9
 see	9
-lat	9
 testament	9
 pericle	9
 learned	9
@@ -5694,7 +5660,6 @@ shtiintsificâ	9
 xichi	9
 pitricutu	9
 ahurhitoari	9
-yramili	9
 limbile	9
 surãri	9
 tsãnu	9
@@ -5706,7 +5671,6 @@ către	9
 cuvendâ	9
 taşcu	9
 chiruti	9
-arhiva	9
 ma-nghiosu	9
 critica	9
 angreacâ	9
@@ -5747,7 +5711,7 @@ atsiloru	9
 sândzâ	9
 stranjili	9
 pricadi	9
-sârbâtori	9
+anchisi	9
 niacumtinatâ	9
 turnă	9
 nyrâpsiti	9
@@ -6005,7 +5969,6 @@ tsãni	9
 ntrâ	9
 mâc	9
 avinari	9
-lia	9
 atsea-i	9
 formã	9
 relatsii	9
@@ -6018,10 +5981,8 @@ vârʼ	9
 veḑ	9
 s-dânâseascâ	9
 pul'iu	9
-şhi	9
 chefi	9
 purtari	9
-s-achicâseascâ	9
 nostimi	9
 câsibâ	9
 literi	9
@@ -6197,7 +6158,6 @@ echipâ	9
 franţa	9
 publiți	9
 comata	9
-dupi	9
 acţiuni	9
 aților	9
 celsius	9
@@ -6247,6 +6207,7 @@ cãnãscut	9
 tin'ii	9
 numirù	9
 hârsimù	9
+adutsemù	9
 cilâstâsirli	9
 prezidentâ	9
 avdzâmù	9
@@ -6264,7 +6225,7 @@ mannheim	9
 border	9
 gretel	9
 insi	9
-kënd	9
+zakaria	9
 pruveadi	9
 metru	9
 photography	9
@@ -6376,6 +6337,7 @@ und	8
 vâryarâ	8
 musheatâ	8
 ananghea	8
+yramili	8
 pripuni	8
 slavi	8
 natsionalu	8
@@ -6398,10 +6360,10 @@ ilichie	8
 vrutã	8
 armãnami	8
 şi-unâ	8
+arhiva	8
 adavgu	8
 tradusâ	8
 tradusi	8
-fuchi	8
 ortodoxâ	8
 intratâ	8
 alinâ	8
@@ -6425,6 +6387,7 @@ treidzăts	8
 bârni	8
 etnitsi	8
 pragu	8
+sârbâtori	8
 lucrarâ	8
 picturi	8
 vâryârescu	8
@@ -6521,7 +6484,6 @@ cântâtoru	8
 simplu	8
 muntsâlji	8
 deja	8
-mb	8
 s-avdã	8
 nota	8
 s-pronuntsã	8
@@ -6552,7 +6514,6 @@ tricutu	8
 elevi	8
 scotù	8
 chirou	8
-bitisirâ	8
 inima-a	8
 noshtri	8
 amintãmù	8
@@ -6610,15 +6571,11 @@ imnu	8
 cirecu	8
 agiundzem	8
 văr	8
-kum	8
 nume	8
-ima	8
 şcoală	8
 omului	8
 gramoste	8
 ș-a	8
-petur	8
-chisa	8
 pârinţâ	8
 noștri	8
 țânâ	8
@@ -6755,6 +6712,7 @@ lider	8
 ți-l	8
 avumu	8
 ominji	8
+s-achicâseascâ	8
 asia	8
 vlahii	8
 topile	8
@@ -6850,7 +6808,6 @@ iarră	8
 mintuest	8
 alăxi	8
 shumë	8
-nuk	8
 despot	8
 cilimean	8
 treiľi	8
@@ -6920,7 +6877,6 @@ asistenţâ	8
 minduiaşti	8
 alâxerilor	8
 mediu	8
-proţes	8
 s-şi	8
 yismârciun	8
 primăria	8
@@ -7014,7 +6970,6 @@ opinia	8
 oamin'ii	8
 regii	8
 fata	8
-ala	8
 pensiilor	8
 pitricurâ	8
 dapoea	8
@@ -7075,8 +7030,6 @@ documentul	8
 apândisi	8
 căldură	8
 domiciliu	8
-acej	8
-ëngjëllu	8
 olimpiţi	8
 harauuâ	8
 wimbledon	8
@@ -7125,7 +7078,6 @@ voshopolea	8
 armâñil'i	8
 noastrţ	8
 romţn	8
-st	7
 pitricuts	7
 consillu	7
 ex	7
@@ -7252,6 +7204,7 @@ s-bitiseaşti	7
 latinicheascâ	7
 grâţeşti	7
 câtivârâoarâ	7
+fuchi	7
 orthodoxâ	7
 materie	7
 yilia	7
@@ -7355,7 +7308,6 @@ internațional	7
 hâbări	7
 iruşi	7
 ascultats	7
-cas	7
 yimishi	7
 cană	7
 tsă	7
@@ -7434,6 +7386,7 @@ s-organizeadzâ	7
 ahoria	7
 europâ	7
 balcanj	7
+bitisirâ	7
 ambar	7
 suflitù	7
 apriirù	7
@@ -7497,13 +7450,16 @@ arbinesh	7
 turnai	7
 s-mor	7
 pom	7
+kum	7
 gresht	7
 dhor	7
 şteari	7
 umtu	7
 samarina	7
 chimicu	7
+petur	7
 pitreţ	7
+chisa	7
 proză	7
 contemporani	7
 liricâ	7
@@ -7541,7 +7497,6 @@ sã-shi	7
 njata	7
 sheadi	7
 scol	7
-las	7
 msheatã	7
 s-vrets	7
 ts-u	7
@@ -7588,7 +7543,6 @@ strigâ	7
 carotsâ	7
 preayalea	7
 pâltescu	7
-inu	7
 lunea	7
 frândzi	7
 du-ti	7
@@ -7639,7 +7593,6 @@ dzãtseam	7
 arcati	7
 ş-dapoaia	7
 ardu	7
-s-pispileashti	7
 prăvdzâ	7
 crishtinj	7
 s-dzãcã	7
@@ -7851,7 +7804,6 @@ stâmân'i	7
 tezaurlui	7
 discl'isi	7
 s-di	7
-laĭ	7
 consilier	7
 xen'i	7
 legislativ	7
@@ -7872,6 +7824,7 @@ soţialâ	7
 planurli	7
 liderl'ii	7
 regimlui	7
+proţes	7
 bitisearea	7
 sesiuni	7
 organizaţia	7
@@ -7944,6 +7897,7 @@ viglleari	7
 evaluari	7
 companiillei	7
 şi-s	7
+dupi	7
 vigl	7
 firma	7
 icşurarea	7
@@ -8001,7 +7955,6 @@ secolui	7
 comunitatillei	7
 nădie	7
 oana	7
-nâu	7
 suţiali	7
 azā	7
 arāzga	7
@@ -8132,7 +8085,6 @@ rusescu	7
 fãrina	7
 terra	7
 aoatse	7
-aprir	7
 alghini	7
 antsãpats	7
 artile	7
@@ -8279,7 +8231,6 @@ editatâ	6
 biblia	6
 s-tipusirâ	6
 exemplaru	6
-pirifanjea	6
 s-aflarâ	6
 cu-aestâ	6
 ascâparâ	6
@@ -8419,7 +8370,6 @@ limbidâ	6
 ocljilji	6
 adutsem	6
 sed	6
-lar	6
 capit	6
 cacum	6
 india	6
@@ -8441,7 +8391,6 @@ hârsitâ	6
 i-ari	6
 sârmâ	6
 pute	6
-chi	6
 s-duchea	6
 cântâtorlu	6
 aushlji	6
@@ -8751,7 +8700,6 @@ sh-multi	6
 paputsã	6
 chefea	6
 pascu	6
-gusha	6
 cãntsã	6
 s-armãnã	6
 amintati	6
@@ -8791,6 +8739,7 @@ araua	6
 deadira	6
 dinapoi	6
 turmi	6
+s-pispileashti	6
 hrisusitâ	6
 cadâ	6
 silâ	6
@@ -8805,10 +8754,8 @@ umbra	6
 avina	6
 mintimena	6
 moara	6
-nari	6
 arosh	6
 fati	6
-cam	6
 ntribă	6
 ñ-si	6
 hăbarea	6
@@ -8883,7 +8830,6 @@ pozitsii	6
 rezultat	6
 clasic	6
 internari	6
-august	6
 victimi	6
 armati	6
 sculiilor	6
@@ -8976,7 +8922,6 @@ greshti	6
 limba'llor	6
 shqipării	6
 căftăm	6
-davli	6
 ôhtănt	6
 sh'ell-u	6
 ahtănts	6
@@ -9005,8 +8950,6 @@ sh'ca	6
 mărdzeli	6
 hărdzesht	6
 giocă	6
-caj	6
-amină	6
 ap'arratsi	6
 qindurastă	6
 z'vi	6
@@ -9221,7 +9164,6 @@ imnul	6
 cilâstâserli	6
 titu	6
 memorii	6
-lĭ	6
 fapte	6
 şi-ńi	6
 ńi-lu	6
@@ -9263,7 +9205,6 @@ dosarili	6
 ş'di	6
 v'ină	6
 ţe-l	6
-nî	6
 picàtile	6
 trâşi	6
 ațelli	6
@@ -9345,7 +9286,6 @@ huzmeti	6
 nkisească	6
 multoru	6
 insecti	6
-cadri	6
 vaccinaţ	6
 dizvărtească	6
 vărtoasi	6
@@ -9375,7 +9315,6 @@ cetăţeañilli	6
 complexă	6
 kabul	6
 aprăftăsi	6
-lac	6
 veni	6
 lugursitu	6
 ngrăpsească	6
@@ -9383,8 +9322,6 @@ cunuscute	6
 armâñl'iâ	6
 traditsia	6
 lucradzâ	6
-s-i	6
-shj	6
 ofiţer	6
 armãnescã	6
 strada	6
@@ -9449,6 +9386,7 @@ groşi	6
 cuţur	6
 aguditâ	6
 organizația	6
+acej	6
 avja	6
 kasa	6
 europei	6
@@ -9519,16 +9457,15 @@ yismãciuni	6
 amări	6
 ruseascã	6
 njegush	6
-ml	6
 chisat	6
 tighani	6
 s-frimitã	6
 oauãli	6
 s-tindu	6
 sarea	6
-coaji	6
 arizlu	6
 ovis	6
+aprir	6
 chipitoasi	6
 simințâli	6
 ghegu	6
@@ -9566,7 +9503,6 @@ câtiguria	6
 titatea	6
 experiențe	6
 pâpân	6
-nţ	6
 dauţ	6
 armţna	6
 s-facţ	6
@@ -9723,6 +9659,7 @@ populiloru	5
 tsi-avea	5
 profesoru	5
 oder	5
+pirifanjea	5
 sf	5
 latinitatea	5
 furnjie	5
@@ -9734,7 +9671,6 @@ filologhie	5
 editsiuni	5
 dishtiptarea	5
 nj-easti	5
-u-ai	5
 yiatru	5
 loclu-a	5
 lândzitu	5
@@ -9830,7 +9766,6 @@ feațe	5
 stâ-mârie	5
 council	5
 heritage	5
-doc	5
 rosaura	5
 shi-ari	5
 giudicu	5
@@ -9905,7 +9840,6 @@ ghirmana	5
 oaminjiloru	5
 cilimeanu	5
 bânai	5
-nunâ	5
 earea	5
 poeticu	5
 tradi	5
@@ -9913,7 +9847,6 @@ mealu	5
 pirâ	5
 mirâ	5
 mburi	5
-inâ	5
 concretâ	5
 criticlu	5
 turli	5
@@ -9926,7 +9859,6 @@ aventurâ	5
 dramaticâ	5
 stihlu	5
 materia	5
-aca	5
 cornu	5
 s-ascot	5
 câni	5
@@ -10345,6 +10277,7 @@ njcu	5
 muntsã	5
 ansuratu	5
 ioi	5
+gusha	5
 minduitã	5
 murirã	5
 dimci	5
@@ -10410,7 +10343,6 @@ lana	5
 nidzeam	5
 misurli	5
 apusi	5
-lari	5
 nunji	5
 sicara	5
 ploaie	5
@@ -10536,6 +10468,7 @@ cercetari	5
 natsională	5
 relatsiili	5
 condutsiri	5
+august	5
 tomalevschi	5
 spunerli	5
 grupili	5
@@ -10603,7 +10536,6 @@ ti'ar	5
 bitia	5
 pllatei	5
 riqii	5
-mar	5
 beri	5
 jia	5
 z'ja	5
@@ -10632,6 +10564,7 @@ dzăc-u	5
 aich	5
 axhută	5
 llunjină	5
+davli	5
 mi'allăsă	5
 nj'vini	5
 scutadhi	5
@@ -10664,6 +10597,7 @@ baiur	5
 funtănă	5
 ljin	5
 shtu	5
+amină	5
 căntuc	5
 vutsella	5
 biau	5
@@ -10763,7 +10697,6 @@ experimentu	5
 țeru	5
 amŭ	5
 nóstre	5
-maĭ	5
 iosifŭ	5
 acestŭ	5
 biligrad	5
@@ -10822,7 +10755,6 @@ trap	5
 baţ	5
 os	5
 s-usucâ	5
-subțâri	5
 alfavita	5
 aiestã	5
 produsi	5
@@ -10941,7 +10873,6 @@ acceslu	5
 niputearea	5
 antirachetâ	5
 deveselu	5
-cia	5
 senatorl'ii	5
 an'ii	5
 prezenţa	5
@@ -11218,7 +11149,6 @@ mărlli	5
 revoluția	5
 curmarea-a	5
 eforturi	5
-pib	5
 materialu	5
 hillilu	5
 interesantă	5
@@ -11373,7 +11303,6 @@ raritet	5
 etãljei	5
 agioclu	5
 tinjisitslji	5
-lalã-su	5
 unãi	5
 zãrzãvati	5
 spuninji	5
@@ -11394,7 +11323,6 @@ andridzea	5
 organizarâ	5
 sosia	5
 oaspitslorù	5
-puiq	5
 adunariljei	5
 cirishearù	5
 economia	5
@@ -11461,9 +11389,9 @@ zñie	5
 cetăţeañilor	5
 groapă	5
 britanic	5
+ëngjëllu	5
 fiçor	5
 hjibë	5
-ômënjjë	5
 aistë	5
 us'i	5
 nës	5
@@ -11589,6 +11517,7 @@ etimã	5
 hirbearea	5
 s-astricoarã	5
 arãndu	5
+coaji	5
 tãljatã	5
 s-herbu	5
 matsã	5
@@ -11650,7 +11579,6 @@ sţ-l	5
 dobrogene	5
 ghirmănia	5
 mllerloru	5
-mĕ	5
 studenţã	5
 sh-vrearea	4
 tiniriloru	4
@@ -11858,7 +11786,7 @@ s-tipusi	4
 vâryâreascâ	4
 shi-aestâ	4
 s-andridzea	4
-arushini	4
+u-ai	4
 sh-lâ	4
 româneshti	4
 litere	4
@@ -11982,7 +11910,6 @@ turțaľ	4
 atmosfera	4
 situații	4
 adunarâ	4
-oasti	4
 bombardat	4
 disi	4
 soluții	4
@@ -12009,6 +11936,7 @@ account	4
 relations	4
 majority	4
 present	4
+doc	4
 goldoni	4
 giudicâ	4
 conshtiintsâ	4
@@ -12073,7 +12001,6 @@ surili	4
 iu-s	4
 dimândărili	4
 sure	4
-tasi	4
 tsânuti	4
 usiili	4
 mesajlui	4
@@ -12108,7 +12035,6 @@ alumi	4
 kiremu	4
 ma-nsusu	4
 u-aflai	4
-iva	4
 metafora	4
 tensiuni	4
 eatu	4
@@ -12261,7 +12187,6 @@ anlji	4
 arhadzits	4
 minats	4
 di-agudirea	4
-cae	4
 fundamentale	4
 slave	4
 dzâsim	4
@@ -12437,7 +12362,6 @@ alâgari	4
 ḑâlili	4
 vârtosu	4
 axiili	4
-cunuşteari	4
 adeţ	4
 folcloriţi	4
 ş-află	4
@@ -12672,7 +12596,6 @@ sanatati	4
 sh-anda	4
 njurizma	4
 coapti	4
-var	4
 bana-i	4
 ti-adutsi	4
 duneaua	4
@@ -12778,10 +12701,8 @@ arați	4
 proaspitâ	4
 avutili	4
 roluri	4
-vs	4
 idheili	4
 yinitorlui	4
-eastu	4
 de-alihea	4
 stăi	4
 ndrept	4
@@ -12811,7 +12732,6 @@ capitan	4
 rana	4
 agudit	4
 cripa	4
-usi	4
 turnats-ñi	4
 port	4
 spuma	4
@@ -12839,7 +12759,6 @@ pãlteascã	4
 toda	4
 sucachi	4
 zurlâ	4
-oari	4
 ligai	4
 s-dipun	4
 aduca	4
@@ -12865,7 +12784,6 @@ mintea-a	4
 nacă	4
 şicai	4
 coca-cola	4
-acăţaţ	4
 teti	4
 turna	4
 stiznji	4
@@ -13312,12 +13230,10 @@ scir	4
 azbor	4
 cărtsăni	4
 ĥibă	4
-esi	4
 viniam	4
 ntreg	4
 afu	4
 shkollă	4
-fucaradz	4
 vuskupoia	4
 norjă	4
 morts	4
@@ -13370,7 +13286,6 @@ lënë	4
 interesante	4
 rreth	4
 gomari	4
-câț	4
 puțân	4
 bucurescĭ	4
 maiŭ	4
@@ -13482,6 +13397,7 @@ acoali	4
 arucutoasi	4
 oulu	4
 gâľinâ	4
+subțâri	4
 capitlu	4
 si-acaţâ	4
 tâpińiusirea	4
@@ -13859,7 +13775,6 @@ leagă	4
 năște	4
 preda	4
 tińia	4
-aceli	4
 viziti	4
 merkel	4
 sovieticâ	4
@@ -14087,7 +14002,6 @@ azboiuru	4
 muabeţ	4
 păzarea	4
 s-duţe	4
-pn	4
 veacl'ea	4
 porţâ	4
 șeflu	4
@@ -14183,7 +14097,6 @@ entrâ	4
 sh-dupu	4
 becea	4
 shcoli	4
-iâ	4
 dascalâ	4
 simacu	4
 litseu	4
@@ -14229,6 +14142,7 @@ surari	4
 paradzl'ii	4
 aduteri	4
 futâ	4
+lalã-su	4
 armatulã	4
 balcanica	4
 cãmpu	4
@@ -14267,6 +14181,7 @@ shi-avea	4
 armâneasacâ	4
 durusiti	4
 elementili	4
+puiq	4
 grasu	4
 niko	4
 duruseashti	4
@@ -14292,7 +14207,6 @@ thâmâsitâ	4
 titlulù	4
 ardirea	4
 armâ-neascâ	4
-padzinjli	4
 caragiumariotseanu	4
 mutari	4
 deportats	4
@@ -14391,8 +14305,10 @@ singirili	4
 ascapitata	4
 joan	4
 fëcja	4
+kënd	4
 llui	4
 jinë	4
+ômënjjë	4
 nësë	4
 kjamë	4
 existenti	4
@@ -14434,7 +14350,6 @@ ataclu	4
 microsoft	4
 recordu	4
 soyea	4
-snâ	4
 restrictivi	4
 ndzuuă	4
 reprezintă	4
@@ -14458,7 +14373,6 @@ s-ardã	4
 pinafore	4
 vest	4
 metallic	4
-cent	4
 thick	4
 tent	4
 lace	4
@@ -14555,7 +14469,6 @@ crêştiñĭ	4
 atumçea	4
 çitatea	4
 sboară	4
-trĕ	4
 păhnie	4
 lum̃ina	4
 anghel	4
@@ -14781,7 +14694,6 @@ cazari	4
 rezolutsia	4
 paligora	4
 cusha	4
-sā	4
 porta	4
 nyrâpseshtsâ	4
 epopeea	4
@@ -14817,7 +14729,6 @@ tţnutţ	4
 latinţ	4
 spetificu	4
 europţl'ei	4
-vţ	4
 bţneadzţ	4
 romţn'il'i	4
 dzţti	4
@@ -14837,7 +14748,6 @@ agiucai	4
 makidoñi	4
 costur	4
 informative	3
-march	3
 ghenerala	3
 ohrida	3
 sh-multsâ	3
@@ -14897,7 +14807,6 @@ s-adyivâseascâ	3
 trakianji	3
 pour	3
 tout	3
-fit	3
 s-fudzits	3
 migratoari	3
 astâsitu	3
@@ -15154,7 +15063,6 @@ enciclicâ	3
 ereticu	3
 manuscripti	3
 scularlji-a	3
-mit	3
 s-asprândeascâ	3
 avinã	3
 scupolu-a	3
@@ -15171,6 +15079,7 @@ zârtsinâ	3
 moscopoleanu	3
 ficiuritsloru	3
 suflitlu-nj	3
+arushini	3
 neologhismi	3
 didacticu	3
 tsinâ	3
@@ -15544,7 +15453,6 @@ mproastâ	3
 agonicu	3
 patrie	3
 con	3
-fâ	3
 s-aprindâ	3
 literaturili	3
 adunatu	3
@@ -15622,7 +15530,6 @@ computer	3
 simpozioani	3
 sh-dapoaia	3
 aumbrata	3
-sit	3
 loaiu	3
 phiat	3
 s-iesu	3
@@ -15840,7 +15747,6 @@ chestiunea	3
 initsiativâ	3
 cronicâ	3
 albanii	3
-uniâ	3
 domnjilji	3
 tinjisim	3
 sfacâ	3
@@ -15923,7 +15829,6 @@ valah	3
 apândâseashti	3
 etaljei	3
 cusuti	3
-zâ	3
 legiuni	3
 vlahia	3
 proba	3
@@ -16028,12 +15933,12 @@ aprukea	3
 pritŭ	3
 cândŭ	3
 noimi	3
-ditŭ	3
 murits	3
 acumpârâ	3
 ayora	3
 teshi	3
 nişani	3
+cunuşteari	3
 pictură	3
 câlisiţ	3
 licee	3
@@ -16108,7 +16013,6 @@ kerutsia	3
 fremti	3
 tore	3
 nj'grish	3
-une	3
 trek	3
 sint	3
 noptea	3
@@ -16457,7 +16361,6 @@ giocâ	3
 dusu	3
 hâraru	3
 n-avemu	3
-tsii	3
 ânveastâ	3
 mâ-sa	3
 sh-fugu	3
@@ -16622,7 +16525,6 @@ ochii-a	3
 dzatsea	3
 sh-va-ñi	3
 ia-mi	3
-val	3
 vdzishi	3
 cantats	3
 noptsa	3
@@ -16712,6 +16614,7 @@ aştiptam	3
 tu-ună	3
 nveţ	3
 oamiñ	3
+acăţaţ	3
 timsi	3
 ţ-u	3
 tetă	3
@@ -16978,9 +16881,7 @@ lugursiti	3
 perspectivă	3
 s-ahurhească	3
 mărlji	3
-ve	3
 şcoli	3
-curceauã	3
 yiani	3
 gheneralã	3
 statutlui	3
@@ -17195,7 +17096,6 @@ fllambură	3
 xenj	3
 scoliu	3
 sh'cultura	3
-ndrăptati	3
 cichullă	3
 qeri	3
 ôllăsară	3
@@ -17249,7 +17149,6 @@ mizei	3
 dup'un	3
 cărrcată	3
 turrăm	3
-căi	3
 dzatsi'anj	3
 trôră	3
 ôllantă	3
@@ -17476,6 +17375,7 @@ ampulusim	3
 vătămă	3
 năs-u	3
 jartă	3
+fucaradz	3
 njic-u	3
 z'vidia	3
 omari	3
@@ -17557,7 +17457,6 @@ shkuan	3
 faj	3
 këtu	3
 rrëzë	3
-tja	3
 shkoj	3
 përpjetë	3
 ç'do	3
@@ -17639,7 +17538,6 @@ excelenta	3
 nascanta	3
 agiutara	3
 tehnea	3
-tan	3
 an'ilor	3
 apriliu	3
 yismaciuni	3
@@ -17808,7 +17706,6 @@ earbâ-analtâ	3
 hearti	3
 curate	3
 stele	3
-tat	3
 ministerili	3
 serviciile	3
 lesenciuc	3
@@ -18107,7 +18004,6 @@ ultima	3
 hertu	3
 avde	3
 liturghie	3
-cultu	3
 treaţirea	3
 cântiţe	3
 poetică	3
@@ -18247,13 +18143,11 @@ uiduseari	3
 branislav	3
 treil'i	3
 hilĭlu	3
-avraamŭ	3
 iacovŭ	3
 iuda	3
 mulĭérea	3
 sŭntu	3
 nascerea	3
-șĭ	3
 tiñisiţ	3
 s-astindzi	3
 geoge	3
@@ -18285,7 +18179,6 @@ hil'ilu-a	3
 fântâńi	3
 mamâ-ta	3
 îţ	3
-birbil'iu	3
 cu-unu	3
 auşil'i	3
 yińi	3
@@ -18447,6 +18340,7 @@ gușa	3
 întunicătura	3
 omulu	3
 cherolu	3
+aceli	3
 săngele	3
 timofte	3
 românofonâ	3
@@ -18485,7 +18379,6 @@ năşĭ	3
 dzaţe	3
 ş'cu	3
 vîrnu	3
-ţî	3
 grădina	3
 ficĭorlu	3
 si-anvîrtea	3
@@ -18625,7 +18518,6 @@ decembrie	3
 s-alasă	3
 xjö	3
 ër	3
-jâ	3
 war	3
 xëli	3
 internări	3
@@ -18775,7 +18667,6 @@ azvimtu	3
 spionaj	3
 englezi	3
 pirmitusearillei	3
-ava	3
 membrilli	3
 tiñisea	3
 şingirili	3
@@ -18800,7 +18691,6 @@ hoarā	3
 yishteri	3
 margarit	3
 armānjilor	3
-eva	3
 muntsā	3
 economii	3
 prezidentlu	3
@@ -19203,7 +19093,6 @@ identic	3
 definitsii	3
 majoritari	3
 s-bâgã	3
-scâ	3
 ivrupeani	3
 grupurli	3
 sdzâcâ	3
@@ -19227,6 +19116,7 @@ tipusea	3
 nvitsâturâ	3
 armânesc	3
 s-arcã	3
+padzinjli	3
 uidii	3
 slujbili	3
 arâspândits	3
@@ -19293,7 +19183,6 @@ ahãti	3
 sugă	3
 zundane	3
 glară	3
-dut	3
 ş-aclo	3
 alanţî	3
 arbure	3
@@ -19392,7 +19281,6 @@ acață	3
 suptu	3
 cânâscum	3
 vinisi	3
-sie	3
 aoaltadz	3
 dzâteam	3
 apufusiiu	3
@@ -19437,7 +19325,6 @@ transparentu	3
 pitriţearea	3
 d-ul	3
 nibunâ	3
-um	3
 arăspândearea-a	3
 tiñiseascâ	3
 câlbâlâki	3
@@ -19484,7 +19371,6 @@ autorităț	3
 automat	3
 traficlui	3
 noj	3
-ashë	3
 judei	3
 stëtja	3
 mësa	3
@@ -19495,7 +19381,6 @@ përincëllu	3
 tempull	3
 turrë	3
 zbôrri	3
-dapoja	3
 çëlëmanu	3
 ruçënj	3
 xësë	3
@@ -19638,6 +19523,7 @@ cloak	3
 beaded	3
 belt	3
 beads	3
+cent	3
 cânduși	3
 vessels	3
 warm	3
@@ -19672,10 +19558,8 @@ worlds	3
 populaţiillei	3
 comunicatlu	3
 văsiliiloru	3
-trǎ	3
 multâl'i	3
 redactorlu	3
-unǎ	3
 pãrtâli	3
 sotlu	3
 hãbãri	3
@@ -20379,7 +20263,6 @@ sh-tsiva	3
 impresariat	3
 tamamù	3
 sistemù	3
-sif	3
 estival	3
 rivisti	3
 tvr	3
@@ -20452,7 +20335,6 @@ idealurloru	3
 anămusita	3
 suceavăllei	3
 dolini	3
-agiucâtoari	3
 pufleanu	3
 foarti	3
 janka	3

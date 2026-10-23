@@ -1,20 +1,24 @@
 # Bigrammes dak (FineWeb-2 dak_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
+kin	he	3503
+kin	hena	1728
 kin	en	1520
 kin	de	1336
 kte	sni	1058
-kte	cin	1028
+kte	cin	1027
 kin	on	833
 cin	he	712
 qa	he	634
 qa	taku	625
 kta	e	590
 oyate	kin	560
+qa	nakun	535
 he	en	495
 kta	iyececa	469
 makoce	kin	469
 kta	qa	432
 kin	owasin	429
+kta	he	423
 united	states	421
 kta	on	398
 wakan	kin	398
@@ -23,10 +27,11 @@ kin	etanhan	389
 qa	on	368
 tawa	kin	368
 wotanin	waste	363
+qon	he	358
 sni	kin	347
 qa	hena	345
 wowapi	wakan	344
-anpetu	kin	344
+anpetu	kin	343
 kin	heon	342
 kin	ekta	335
 sni	qa	330
@@ -38,7 +43,7 @@ kin	hee	306
 qa	heon	305
 qa	wicasta	304
 tipi	kin	304
-taku	wanji	299
+taku	wanji	298
 maka	kin	292
 un	kin	282
 hena	on	270
@@ -49,9 +54,11 @@ otonwe	kin	245
 taku	on	241
 qa	hehan	239
 wicasta	wakan	238
+qa	tona	238
 kte	qa	238
 he	ehan	236
 kta	wacin	234
+kin	le	230
 wan	en	228
 waste	kin	228
 is	eya	228
@@ -62,13 +69,14 @@ wicasta	wan	210
 heon	etanhan	209
 tanka	kin	208
 qa	wanna	204
-kin	el	204
+kin	el	203
 en	un	202
 hena	owasin	201
 taku	ota	197
 kte	kin	197
 kta	cin	195
 qa	tuwe	191
+hena	en	191
 qa	ake	189
 wicasta	kin	189
 kagapi	qa	188
@@ -77,14 +85,16 @@ yuhapi	kin	188
 taku	tona	188
 he	wanna	185
 kin	nina	181
-tipi	en	178
 unpi	kta	177
+tipi	en	177
 kin	taku	176
-qon	hena	176
 tanka	wan	175
 qa	tipi	175
+qon	hena	175
+en	taku	174
 omniciye	tanka	174
 kagapi	kin	174
+wicasa	wakan	174
 woonspe	tipi	173
 econpi	kta	171
 sni	tuka	171
@@ -92,6 +102,7 @@ en	unpi	170
 kin	wanna	170
 wicasta	ota	170
 pi	kin	170
+qa	oyate	169
 anpetu	wakan	168
 itancan	kin	168
 makoce	ekta	165
@@ -107,10 +118,11 @@ kin	heca	159
 ye	do	158
 kte	do	158
 ye	lo	157
+woyawa	tanka	156
 new	york	155
 ti	kin	155
-he	iyecen	155
 he	ohna	155
+he	iyecen	154
 kta	cinpi	152
 kin	qa	152
 qa	token	151
@@ -127,6 +139,7 @@ qa	maka	145
 kta	iyecece	144
 otonwe	en	143
 qa	iye	143
+kagapi	kta	142
 cin	on	142
 owasin	en	142
 kin	is	142
@@ -153,6 +166,7 @@ he	nakun	129
 econpi	kin	128
 omniciye	kin	126
 qa	is	126
+he	nina	125
 wanji	en	125
 kin	hehan	125
 on	taku	125
@@ -179,11 +193,13 @@ qa	de	116
 south	dakota	115
 un	qa	115
 taku	wan	115
+opapi	kin	113
 en	i	113
 mini	kin	113
 yapi	kta	113
 okodakiciye	wakan	112
 qa	hecen	112
+kta	okihi	112
 ni	un	111
 taku	kin	111
 kta	tka	111
@@ -215,19 +231,20 @@ okodakiciye	en	101
 kin	wanji	100
 kta	eyapi	100
 waste	kta	100
-wayawa	tipi	100
 woniya	wakan	99
-he	on	98
+wayawa	tipi	99
 states	en	97
 qa	hetanhan	97
+he	on	97
+sni	he	97
 eciyapi	he	96
 kin	be	96
+nitawa	kin	96
 qa	wowapi	96
 ptaya	owohdake	96
 he	icunhan	96
 kte	lo	96
 en	ipi	95
-nitawa	kin	95
 econ	kta	95
 oyate	en	94
 oie	kin	94
@@ -240,15 +257,17 @@ sanpa	wikcemna	92
 yanke	cin	92
 en	hi	91
 kin	iyecen	91
+pi	qa	91
 maka	owancaya	90
 wakantanka	oie	90
 qa	dena	90
 taku	sica	90
-qa	dakota	90
+na	he	90
 ye	kta	90
 kta	tuka	89
 tuka	wanna	89
 kagapi	kte	89
+qa	dakota	89
 on	nina	89
 ekta	i	89
 sni	ye	89
@@ -259,6 +278,7 @@ wocekiye	kin	88
 hena	eepi	87
 omaka	kin	87
 woonspe	kin	87
+qa	dehan	87
 wowapi	kaga	86
 hekta	omaka	86
 caje	kin	86
@@ -269,9 +289,11 @@ maka	iyutapi	85
 na	heon	85
 koska	kin	84
 tona	en	84
+wakpa	kin	84
 nina	ota	84
 wicasa	wan	84
 nonpa	sanpa	83
+sni	ecen	83
 owasin	tanyan	83
 kte	cinhan	83
 he	wakantanka	83
@@ -298,6 +320,7 @@ i	kin	79
 hena	tanyan	79
 canku	kin	79
 kta	uncinpi	79
+oyate	owasin	79
 de	on	79
 econpi	qa	79
 kin	maka	78
@@ -317,11 +340,11 @@ wikcemna	topa	75
 cante	wasteya	75
 tanka	wanji	75
 wata	kin	74
-e	on	74
 icupi	qa	74
 cinca	kin	74
 mitawa	kin	74
 taku	econ	74
+e	on	73
 ipi	qa	73
 heon	taku	73
 yuhe	cin	73
@@ -353,11 +376,13 @@ anpetu	iyohi	69
 yapi	kin	69
 york	otonwe	69
 nakun	taku	69
+kin	lena	69
 qa	can	69
 qa	wicasa	69
 eye	cin	68
 taku	econpi	68
 cin	en	68
+he	iyececa	68
 woecon	kin	68
 wan	kagapi	67
 qa	cinca	67
@@ -400,6 +425,7 @@ kin	heua	63
 kin	lila	63
 he	token	62
 iyaya	qa	62
+ovate	kin	62
 wicasta	qa	62
 kin	icunhan	62
 icage	cin	62
@@ -456,6 +482,7 @@ obe	kin	59
 yukanpi	kin	59
 okicize	kin	59
 kte	na	59
+econ	sni	58
 mazaska	awanyaka	58
 otonwe	ekta	58
 he	anpetu	58
@@ -492,6 +519,7 @@ he	wanji	55
 sni	po	55
 qa	united	55
 dena	on	55
+econpi	sni	55
 he	is	55
 kin	anpetu	55
 na	wicasa	55
@@ -499,15 +527,16 @@ mazaska	kin	55
 cinpi	kin	54
 hipi	qa	54
 omniciye	en	54
-aguyapi	su	54
 en	opa	54
 sni	hecen	54
 mazaska	kektopawinge	54
 unkan	wanna	54
 en	oyate	54
 tipi	tanka	54
+qa	woonspe	54
 yuhe	kta	54
 atkuku	kin	54
+aguyapi	su	53
 en	qa	53
 ekta	wicasta	53
 iyecece	sni	53
@@ -515,7 +544,6 @@ ota	on	53
 wi	wanji	53
 ni	kta	53
 kin	e	53
-u	kte	53
 kta	okihipi	53
 hecen	hena	53
 okihipi	kta	53
@@ -525,6 +553,7 @@ yuhapi	sni	53
 dakota	en	53
 cin	sni	53
 oyate	tokeca	52
+on	tapi	52
 se	ececa	52
 on	kin	52
 tuka	tuwe	52
@@ -534,11 +563,11 @@ on	wakantanka	52
 waste	kte	52
 en	tipi	52
 sni	ce	52
+u	kte	52
 tiyopa	kin	52
 okihipi	kte	52
 unkan	taku	52
 wan	el	52
-ayapi	qa	51
 hiyu	qa	51
 qa	waste	51
 on	wocekiye	51
@@ -555,8 +584,8 @@ ece	kin	51
 wakan	qa	51
 hececa	kin	51
 qa	wi	51
-e	he	51
 en	nina	50
+ayapi	qa	50
 tka	taku	50
 wowapi	wan	50
 taku	eye	50
@@ -571,6 +600,7 @@ en	dakota	50
 wayawa	unpi	50
 qa	ota	50
 qa	maza	50
+e	he	50
 hecen	tona	49
 winyan	wan	49
 training	school	49
@@ -615,7 +645,6 @@ en	wowapi	47
 wan	tanka	47
 de	etanhan	46
 wata	kinyan	46
-epa	wacin	46
 kin	wocekiye	46
 kici	un	46
 on	tanyan	46
@@ -627,11 +656,11 @@ tanka	wikcemna	46
 nina	waste	46
 hena	is	46
 akicita	tancan	46
-ye	ca	46
 paha	kin	46
 na	el	46
 sinasapa	wocekiye	46
 opapi	kta	45
+epa	wacin	45
 cin	etanhan	45
 kin	itokam	45
 kin	om	45
@@ -640,6 +669,7 @@ hena	ee	45
 maka	cahdi	45
 hecen	tohan	45
 kte	ciu	45
+ye	ca	45
 hena	iye	45
 omaka	wikcemna	45
 yuha	qa	45
@@ -658,7 +688,6 @@ e	heon	44
 kektopawinge	ota	44
 sni	naceca	44
 he	wowapi	44
-wica	kin	44
 heca	wan	44
 tuka	tohan	44
 dehan	wanna	44
@@ -681,6 +710,7 @@ hehan	nakun	43
 sni	e	43
 sni	hena	43
 tka	wanna	43
+wica	kin	43
 kte	sui	43
 owasin	se	43
 kaspapi	sakpe	43
@@ -723,6 +753,7 @@ ye	sni	42
 tokeca	wan	42
 cin	kin	42
 kte	qon	42
+north	dakota	42
 na	lila	42
 le	anpetu	42
 kte	ca	42
@@ -732,9 +763,7 @@ wokage	tipi	41
 tipi	tawa	41
 tona	wakantanka	41
 tanyan	econ	41
-inajin	qa	41
 unkan	anpetu	41
-icaga	qa	41
 ni	unpi	41
 yuha	skanpi	41
 dehantu	kin	41
@@ -757,11 +786,12 @@ token	econpi	40
 en	mazaska	40
 le	el	40
 nitawapi	kin	40
+miniwakan	kin	40
 de	wanna	40
-wokajuju	kaspapi	40
 qa	wiconi	40
 iyaye	cin	40
 nipi	kta	40
+inajin	qa	40
 kin	eu	40
 mazaska	wikcemna	40
 te	kin	40
@@ -781,9 +811,10 @@ heon	tona	39
 wocekiye	en	39
 qa	siceca	39
 tanyan	econpi	39
+wokajuju	kaspapi	39
 okodakiciye	wan	39
 mahpiya	ekta	39
-ciqon	he	39
+icaga	qa	39
 sa	kin	39
 wankantu	en	39
 kta	nina	39
@@ -817,9 +848,11 @@ qupi	kta	38
 qa	woniya	38
 kte	he	38
 tona	jesus	38
+ciqon	he	38
 wikcemna	sahdogan	38
 nape	ciyuzapi	38
 hecen	dehan	38
+hehan	wicasta	38
 tapi	qa	38
 hena	ecen	38
 taku	ni	38
@@ -851,6 +884,7 @@ heon	wicasta	37
 ozuye	wita	37
 mazaska	opawinge	37
 en	wayawa	37
+heon	ito	37
 makoce	wan	37
 qa	tokata	37
 hemani	canku	37
@@ -862,12 +896,11 @@ kta	yustanpi	37
 on	cante	37
 okolakiciye	wakan	37
 cinca	wan	37
+na	winyan	37
 wakan	el	37
-u	kin	37
 kin	mini	37
 wakan	woonspe	36
 obe	ota	36
-dakota	ehna	36
 unkan	dehan	36
 anpetu	wanji	36
 hee	sni	36
@@ -889,11 +922,11 @@ kin	bena	36
 hecen	ito	36
 wi	iyohi	36
 en	ope	36
+qa	nakuu	36
 wokiconze	kin	36
 na	lena	36
 nina	tanyan	36
 okihi	kin	36
-ekta	ye	36
 upi	qa	36
 kaga	qa	36
 tukte	ohna	36
@@ -937,11 +970,13 @@ kin	waste	35
 nom	sam	35
 tokiconze	kin	35
 he	el	35
+ekta	ye	35
 wan	yuha	35
 kin	wi	35
 de	ohna	35
 ekta	wai	35
 kta	iye	35
+u	kin	35
 kin	yuha	35
 kin	econhan	35
 unkan	maĥpiya	35
@@ -979,6 +1014,7 @@ qa	i	33
 kinhan	waste	33
 qa	decen	33
 decen	eya	33
+dakota	ehna	33
 wicadapi	sni	33
 wocekiye	el	33
 hena	e	33
@@ -1095,6 +1131,7 @@ president	wilson	31
 german	oyate	31
 ye	cin	31
 kin	han	31
+on	lila	31
 for	the	31
 kin	wicasa	31
 mary	okolakiciye	31
@@ -1113,7 +1150,6 @@ awanyake	cin	30
 yakonpi	kin	30
 he	econpi	30
 mis	eya	30
-wacin	kin	30
 kin	opta	30
 wanyakapi	qa	30
 icage	kte	30
@@ -1160,6 +1196,7 @@ un	kinhan	29
 wanna	dehan	29
 en	tuwe	29
 en	decen	29
+wacin	kin	29
 owanyag	waste	29
 yustanpi	qa	29
 wi	yamni	29
@@ -1257,6 +1294,7 @@ wan	kaga	28
 taku	yutapi	28
 hanyetu	kin	28
 iye	taku	28
+sdonyapi	qa	28
 on	token	28
 hi	kin	28
 opa	qa	28
@@ -1297,7 +1335,6 @@ en	ayapi	27
 cin	ee	27
 iyaye	kta	27
 wan	nina	27
-su	kin	27
 en	omaka	27
 makoce	tankaya	27
 en	ta	27
@@ -1361,12 +1398,14 @@ kte	iyececa	26
 ekta	iyaya	26
 atakuni	sni	26
 iye	tokaheya	26
+su	kin	26
 tuwe	wakantanka	26
 wayazanka	tipi	26
 tuka	nakun	26
 pejihuta	wicasta	26
 iwanyakapi	qa	26
 en	he	26
+nonpa	qa	26
 en	hdi	26
 is	nakun	26
 wicaqupi	kta	26
@@ -1439,6 +1478,7 @@ hena	maka	25
 kin	woonspe	25
 qa	tunkansidan	25
 hecetu	kta	25
+ito	taku	25
 wanji	waste	25
 en	ohinni	25
 hehan	dakota	25
@@ -1505,6 +1545,7 @@ kta	kecin	24
 owasin	wocekiye	24
 en	ounyanpi	24
 en	woope	24
+owihanke	wanice	24
 wanna	anpetu	24
 ekta	taku	24
 okihe	kin	24
@@ -1519,7 +1560,6 @@ keyapi	qa	24
 kin	ihukuya	24
 kage	qa	24
 un	qon	24
-hee	kta	24
 yuhe	kte	24
 ota	wicaktepi	24
 kta	hecetu	24
@@ -1530,6 +1570,7 @@ wanyake	ca	24
 qa	owotanna	24
 unyuhapi	kta	24
 tancan	tanka	24
+sni	ehantanhans	24
 de	ake	24
 wanna	wi	24
 ti	ekta	24
@@ -1549,6 +1590,7 @@ itancan	unyanpi	24
 heyin	kta	24
 etanhan	wakantanka	24
 tanka	kte	24
+owasin	cante	24
 i	na	24
 wanka	qa	24
 ni	kte	24
@@ -1570,7 +1612,6 @@ hehan	tona	23
 koska	ota	23
 wicolian	waste	23
 okodakiciye	de	23
-dehan	dakota	23
 kektopawinge	yamni	23
 winyan	mitawa	23
 kta	hehan	23
@@ -1598,6 +1639,7 @@ on	ni	23
 ocowasin	on	23
 en	tokaheya	23
 kin	te	23
+hee	kta	23
 ake	piya	23
 ota	icaga	23
 kicizapi	kin	23
@@ -1630,6 +1672,7 @@ ohna	econpi	23
 kin	lie	23
 qa	cinhintku	23
 october	wi	23
+ojuha	en	23
 siha	kin	23
 hena	ota	23
 mdoketu	de	23
@@ -1653,6 +1696,7 @@ kiu	on	22
 tanka	kta	22
 heca	wanji	22
 itancan	okihe	22
+dehan	dakota	22
 kin	econpi	22
 he	okna	22
 en	htani	22
@@ -1817,7 +1861,6 @@ maka	oyate	21
 awacinpi	qa	21
 hecen	wakantanka	21
 christian	hecapi	21
-ni	kin	21
 ekta	iyayapi	21
 kin	tohan	21
 ecee	qon	21
@@ -1845,6 +1888,7 @@ tka	qon	21
 omdake	kte	21
 wicohan	wakan	21
 hapi	kta	21
+kta	huwo	21
 wocekiye	qa	21
 skanpi	kta	21
 wasicun	sapa	21
@@ -1909,7 +1953,6 @@ ein	he	20
 ohna	wowapi	20
 he	wasicun	20
 kin	heya	20
-kin	i	20
 hemani	kin	20
 en	sanpa	20
 heon	dakota	20
@@ -1938,6 +1981,7 @@ wakantanka	kici	20
 sica	qa	20
 mdoketu	kin	20
 on	wi	20
+ni	kin	20
 eya	caje	20
 nina	osni	20
 kin	ehantanhan	20
@@ -1952,6 +1996,7 @@ na	okolakiciye	20
 unkan	de	20
 en	wicasa	20
 owohdake	kin	20
+ekta	tipi	20
 wanji	is	20
 iyotanke	cin	20
 iyecen	econ	20
@@ -1983,6 +2028,7 @@ kin	etan	20
 on	wiconi	20
 tancan	qa	20
 makoce	unkitawapi	20
+makoce	ataya	20
 ohnihde	kin	20
 onpi	kta	20
 el	st	20
@@ -2057,6 +2103,7 @@ en	ewacin	19
 uupi	kin	19
 hehan	he	19
 hena	owas	19
+kin	i	19
 ohna	yukanpi	19
 tawa	qa	19
 ecamon	kte	19
@@ -2264,6 +2311,7 @@ qa	ohni	18
 icagapi	qa	18
 qa	new	18
 ozuye	wata	18
+opawinge	sam	18
 qon	owasin	18
 eca	hehan	18
 he	tanin	18
@@ -2368,6 +2416,7 @@ wakaii	kin	17
 on	en	17
 econpi	ece	17
 on	econpi	17
+hecen	owasin	17
 hekta	wi	17
 hena	tohan	17
 ataya	mazaska	17
@@ -2391,6 +2440,7 @@ wicohan	tawapi	17
 kektopawinge	wanji	17
 ekta	un	17
 en	yankapi	17
+nakun	tipi	17
 oyate	qa	17
 en	iyaye	17
 ota	he	17
@@ -2449,6 +2499,7 @@ kin	isanpa	17
 tka	tuwe	17
 obe	owasin	17
 kte	heon	17
+ptaya	owokdake	17
 omniciye	unyuhapi	17
 qa	peji	17
 en	miniwakan	17
@@ -2478,6 +2529,7 @@ oyate	ataya	17
 en	aguyapi	17
 unhapi	qa	17
 wicohan	owasin	17
+wicasta	en	17
 tipi	he	17
 iyayapi	kin	17
 iwicacupi	qa	17
@@ -2525,7 +2577,6 @@ amnos	kin	17
 en	wicašta	17
 hokšidan	kin	17
 he	tunkansidan	16
-icahyapi	kin	16
 sanpa	sakpe	16
 iyutapi	wanji	16
 en	owasin	16
@@ -2548,7 +2599,6 @@ unmapi	kin	16
 odowan	wanji	16
 unpi	owasin	16
 yewicasipi	kin	16
-oyate	tona	16
 hecen	dakota	16
 esta	en	16
 ewacinpi	sni	16
@@ -2634,7 +2684,6 @@ tanyan	icaga	16
 en	ounye	16
 owasin	waste	16
 en	oitancan	16
-he	dakota	16
 heua	en	16
 duhapi	kta	16
 hena	wicasa	16
@@ -2688,6 +2737,7 @@ el	unpi	16
 toka	kin	16
 nipi	qa	16
 okodakiciye	opapi	16
+tokel	okihi	16
 tukte	ogna	16
 hoksina	wan	16
 ni	waun	16
@@ -2725,7 +2775,6 @@ tawa	on	16
 kin	kte	16
 on	etan	16
 tanka	el	16
-tona	le	16
 wocekiye	okna	16
 on	hand	16
 hakakta	kin	16
@@ -2743,6 +2792,7 @@ ota	wanna	15
 tona	dakota	15
 hecen	okodakiciye	15
 states	qa	15
+icahyapi	kin	15
 wiyopeyapi	kte	15
 tawa	kiu	15
 hena	ob	15
@@ -2776,6 +2826,7 @@ mazaska	denakeca	15
 qa	om	15
 owancaya	tanhan	15
 cajeyatapi	kta	15
+oyate	tona	15
 jerusalem	en	15
 heon	ake	15
 taku	tokaheya	15
@@ -2820,6 +2871,7 @@ wanna	hena	15
 dehan	makoce	15
 wastepi	qa	15
 naceca	tka	15
+wanji	qais	15
 ape	kin	15
 makoce	kiu	15
 hee	cin	15
@@ -2837,6 +2889,7 @@ taniya	kin	15
 okodakiciye	he	15
 wanyag	ipi	15
 en	tunkansidanyanpi	15
+en	kagapi	15
 heca	ecee	15
 el	un	15
 ecanmi	ye	15
@@ -2850,6 +2903,7 @@ kta	epce	15
 tuwe	wowapi	15
 he	otonwe	15
 otonwe	kiu	15
+qa	peta	15
 kin	iwankam	15
 kinyan	tawa	15
 wicohan	tona	15
@@ -2863,7 +2917,7 @@ nina	otapi	15
 hecapi	qa	15
 francis	frazier	15
 hehan	maka	15
-aye	kte	15
+he	dakota	15
 wanica	qa	15
 a	k	15
 ekta	wotanin	15
@@ -2923,6 +2977,7 @@ ihakam	yapi	15
 miniwanca	akasam	15
 he	qa	15
 he	kta	15
+eciyapi	hen	15
 wapi	kin	15
 waniyetu	wanji	15
 sni	okodakiciye	15
@@ -2977,8 +3032,10 @@ etanhan	wicasa	15
 oyatepi	kin	15
 miniwakan	on	15
 ocanku	kin	15
+el	wicasa	15
 woahtani	on	15
 qa	toki	15
+tona	le	15
 taku	un	15
 hecel	on	15
 icu	na	15
@@ -3011,7 +3068,6 @@ taku	eyapi	14
 el	lila	14
 tokata	ake	14
 taku	tawapi	14
-e	sni	14
 un	po	14
 wanji	etanhan	14
 awanyake	kta	14
@@ -3151,6 +3207,7 @@ yamni	on	14
 obepi	kin	14
 qa	uman	14
 okiyapi	kte	14
+aye	kte	14
 waste	oyaka	14
 icu	kin	14
 hehan	wasicun	14
@@ -3183,6 +3240,7 @@ iho	mitakuyepi	14
 yuhapi	kinhan	14
 kinhan	heon	14
 yawapi	kte	14
+qa	wicotawacin	14
 eye	ciqon	14
 eca	nina	14
 makoce	tawa	14
@@ -3238,7 +3296,6 @@ qa	okihe	14
 kin	napin	14
 hena	he	14
 sa	tuka	14
-kin	otoiyohi	14
 qon	iyecen	14
 koska	de	14
 onspe	sni	14
@@ -3254,6 +3311,7 @@ najinpi	kta	14
 oaye	hdajujupi	14
 akan	decen	14
 wasicun	wacipi	14
+it	is	14
 awacannipi	kta	14
 ekta	wanna	14
 wan	otonwe	14
@@ -3266,7 +3324,6 @@ inajin	kta	14
 aguyapi	kin	14
 sica	en	14
 nape	kiciyuzapi	14
-cin	le	14
 he	na	14
 tamakocepi	kin	14
 unkicupi	kta	14
@@ -3393,7 +3450,6 @@ koskapi	kin	13
 qa	tehan	13
 waniyetu	ake	13
 nina	en	13
-unpi	kinhan	13
 he	onspa	13
 qa	nom	13
 de	koska	13
@@ -3431,6 +3487,7 @@ yamni	kin	13
 nawahon	kin	13
 yacin	he	13
 tka	nina	13
+i	i	13
 ihangya	qa	13
 upi	kin	13
 sica	econ	13
@@ -3443,6 +3500,7 @@ kamnapi	kta	13
 kektopawinge	sakpe	13
 kta	econ	13
 ojupi	kin	13
+he	ehake	13
 makoce	toktokeca	13
 kta	i	13
 woyakapi	kin	13
@@ -3472,6 +3530,7 @@ owasin	icupi	13
 en	caje	13
 omaka	tona	13
 iwastepi	kte	13
+ito	tona	13
 ekta	unyanpi	13
 km	hena	13
 otonwe	he	13
@@ -3537,6 +3596,7 @@ tado	kin	13
 sdonkiye	sni	13
 wicohan	ikceka	13
 he	cajeyata	13
+wan	oyate	13
 wowapi	unqupi	13
 yutapi	kta	13
 ipi	kta	13
@@ -3567,11 +3627,13 @@ wau	en	13
 qa	heyapi	13
 from	the	13
 to	be	13
+kin	otoiyohi	13
 taku	toka	13
 hoksidan	kin	13
 on	hi	13
 winyan	wanji	13
 wanji	kin	13
+kapi	na	13
 tehika	aya	13
 icagin	kta	13
 ca	hena	13
@@ -3598,6 +3660,7 @@ makakde	inajinpi	13
 cante	en	13
 kinhan	wakantanka	13
 qa	sunka	13
+cin	le	13
 winyan	owasin	13
 ota	tohan	13
 de	wicohan	13
@@ -3641,7 +3704,6 @@ unkan	tona	13
 hiyu	kin	13
 wakiye	kta	13
 ake	nonpa	13
-nin	ecanmi	13
 unpi	qon	13
 wan	tanin	13
 kin	sinasapa	13
@@ -3697,7 +3759,6 @@ kin	owicakiye	12
 republican	obe	12
 wiyohpeyata	makoce	12
 he	iwohdakapi	12
-e	kin	12
 waye	kta	12
 opawinge	sakpe	12
 wacipi	qa	12
@@ -3739,6 +3800,7 @@ ota	econ	12
 de	sanpa	12
 kin	iapi	12
 taku	okihipi	12
+unpi	kinhan	12
 kin	ikiyedan	12
 wanji	econpi	12
 owasin	wicasta	12
@@ -3847,7 +3909,6 @@ qa	christian	12
 etanhan	tokan	12
 heon	tuwe	12
 iwastepi	qa	12
-aye	cin	12
 paris	otonwe	12
 tuwedan	en	12
 wakanpi	kin	12
@@ -3876,7 +3937,6 @@ sni	eya	12
 wicohan	dena	12
 wayaco	kin	12
 itancan	tawocekiye	12
-t	a	12
 wicakiyapi	kin	12
 woju	tipi	12
 wookiye	on	12
@@ -3905,6 +3965,7 @@ kta	kagapi	12
 ehantanhan	wanna	12
 wicayeksuyapi	kta	12
 ounkiyapi	qa	12
+kin	opawinge	12
 unkan	maka	12
 sakpe	hehanyan	12
 ee	ce	12
@@ -4036,7 +4097,6 @@ on	tokata	12
 yaotaninpi	kin	12
 wowapi	he	12
 can	on	12
-wanji	den	12
 on	de	12
 qon	ake	12
 mazaska	zaptan	12
@@ -4222,7 +4282,6 @@ yacin	kin	11
 ekta	tona	11
 waste	eyapi	11
 token	jesus	11
-iye	kici	11
 etanhan	ota	11
 owicakiyapi	kte	11
 on	opetonpi	11
@@ -4258,6 +4317,7 @@ wadake	do	11
 den	waun	11
 mazaska	hena	11
 okicize	econ	11
+eya	eajeyatapi	11
 wayawapi	en	11
 tona	wayawa	11
 ope	kte	11
@@ -4272,6 +4332,7 @@ qa	yuhe	11
 decen	wowapi	11
 wan	anpetu	11
 kuwa	qa	11
+he	can	11
 ohnihde	okodakiciye	11
 qa	tokan	11
 aipi	qa	11
@@ -4294,6 +4355,7 @@ ehpeyapi	qa	11
 ahipi	kin	11
 sicapi	kin	11
 iyehantu	sni	11
+t	a	11
 taku	nom	11
 wicolian	he	11
 pi	hena	11
@@ -4322,6 +4384,7 @@ wicayuhapi	kin	11
 ptanyetu	hehan	11
 yuha	kte	11
 qa	wakanheja	11
+lila	tanyan	11
 sinasapa	en	11
 kin	iyokipi	11
 canku	kagapi	11
@@ -4497,6 +4560,7 @@ tawoahope	kin	11
 miye	en	11
 unkan	hee	11
 wacin	tuka	11
+wanji	den	11
 ake	de	11
 na	te	11
 sni	wada	11
@@ -4546,6 +4610,7 @@ key	a	11
 tanin	iciye	11
 hehan	wicaśa	11
 chimney	coulee	11
+e	sni	11
 kin	maĥpiya	11
 wicakaška	tipi	11
 makata	eĥpeiciyapi	11
@@ -4671,6 +4736,7 @@ wotapi	kin	10
 wakantanka	cekiya	10
 miniwanca	opta	10
 wata	qa	10
+tapi	oyakapi	10
 he	opta	10
 kinhan	on	10
 oqapi	kin	10
@@ -4699,6 +4765,7 @@ kiye	sni	10
 icunhan	taku	10
 wikoske	kin	10
 cin	heua	10
+he	sdonyapi	10
 wicasta	tancan	10
 ke	kta	10
 waste	qais	10
@@ -4717,6 +4784,7 @@ atakuni	kte	10
 kta	iciconzapi	10
 unnipi	kin	10
 nakun	de	10
+iye	kici	10
 wanna	wowapi	10
 iyukcanpi	qa	10
 ekta	wicastayatapi	10
@@ -4749,6 +4817,7 @@ qa	unkis	10
 dena	wi	10
 akan	wicasa	10
 kta	eye	10
+tka	is	10
 dehan	wasicun	10
 de	iapi	10
 okolakiciye	wan	10
@@ -4791,6 +4860,7 @@ qa	yuonihanpi	10
 wowicada	kin	10
 cin	iye	10
 kin	awacin	10
+aye	cin	10
 oahe	en	10
 iyohi	etanhan	10
 wicasta	wakanpi	10
@@ -4884,7 +4954,6 @@ econ	wo	10
 kte	okihi	10
 qa	cincapi	10
 kte	ce	10
-wakantanka	etanhan	10
 kektopawinge	zaptan	10
 itokah	ihanke	10
 iyutapi	yamni	10
@@ -4939,7 +5008,6 @@ eyapi	kte	10
 kin	wanjikji	10
 hoksiyopa	wan	10
 wowacinye	kin	10
-a	kin	10
 na	woope	10
 santee	owayawa	10
 tanyan	skan	10
@@ -5127,6 +5195,7 @@ on	tancan	10
 tax	wokajuju	10
 ca	maka	10
 sahdogan	sam	10
+ekta	aipi	10
 tahu	kin	10
 ake	ekta	10
 iyaye	sni	10
@@ -5139,7 +5208,6 @@ kta	ohna	10
 micante	kin	10
 wanjina	en	10
 ohinni	wocekiye	10
-e	qa	10
 qa	bishop	10
 mnitan	on	10
 ihankeya	waste	10
@@ -5175,7 +5243,6 @@ da	kin	10
 śni	kin	10
 qa	christ	10
 a	a	10
-ĥe	kin	10
 nagipi	kin	10
 iyotan	wašake	10
 wanmdake	ca	10
@@ -5194,6 +5261,7 @@ hetu	kta	9
 he	nape	9
 den	hipi	9
 kta	kahnigapi	9
+ehna	wotanin	9
 hen	oyate	9
 hena	un	9
 he	wata	9
@@ -5396,7 +5464,6 @@ be	en	9
 tipi	unkitawapi	9
 tona	heca	9
 heon	cante	9
-e	kta	9
 tona	wica	9
 ekta	wasicun	9
 cuwita	tapi	9
@@ -5448,6 +5515,7 @@ ake	nakaha	9
 yuke	kte	9
 bojuju	qa	9
 de	iyotan	9
+ekta	on	9
 eciyapi	qon	9
 tapi	ece	9
 he	sagdasin	9
@@ -5536,6 +5604,7 @@ ko	ekta	9
 ehapi	kta	9
 dena	wicohan	9
 ito	mitakuyepi	9
+wakantanka	etanhan	9
 nayahonpi	kta	9
 en	litani	9
 american	board	9
@@ -5615,6 +5684,7 @@ en	wookiye	9
 ohna	tanyan	9
 jesus	ta	9
 woawacin	qa	9
+eepi	qa	9
 sunka	wakan	9
 wicala	sni	9
 wicasta	tuwe	9
@@ -5838,7 +5908,6 @@ qa	petijanjan	9
 cin	ota	9
 qa	july	9
 kin	najin	9
-e	cin	9
 qa	ihanhanna	9
 ohna	wicasta	9
 kinhan	dakota	9
@@ -5853,6 +5922,7 @@ okodakiciye	tona	9
 wicohan	iyotan	9
 qeyas	lila	9
 unkan	juda	9
+kin	to	9
 hehanyan	qa	9
 cinpi	na	9
 qa	anpetuwakan	9
@@ -5925,7 +5995,9 @@ on	qon	9
 na	neon	9
 the	church	9
 of	this	9
+a	kin	9
 qa	tuwena	9
+sinasapa	opapi	9
 wosnapi	econpi	9
 cunwintkupi	kin	9
 pi	ca	9
@@ -6014,6 +6086,7 @@ hiyaya	qa	8
 ataya	ihangya	8
 en	yewicasipi	8
 piya	kahnigapi	8
+kin	hi	8
 miksuya	po	8
 hecen	wocekiye	8
 he	wokiksuye	8
@@ -6083,6 +6156,7 @@ eceedan	en	8
 tuwe	maka	8
 tipi	nonpa	8
 taja	kin	8
+he	north	8
 north	qa	8
 owohdake	tanka	8
 apa	hehan	8
@@ -6128,15 +6202,18 @@ kiu	heua	8
 kin	deua	8
 dena	hecen	8
 unman	is	8
+sica	econpi	8
 hecon	sni	8
 wata	on	8
 sni	sece	8
 kte	lica	8
 on	hecece	8
+i	e	8
 nina	wa	8
 qa	russia	8
 ekta	icamna	8
 hemani	wicasta	8
+wasicun	iyecen	8
 iye	isnana	8
 kin	cinpi	8
 wan	wasicun	8
@@ -6204,6 +6281,7 @@ wicohan	le	8
 el	wakantanka	8
 nina	taku	8
 qa	hoksina	8
+mazaska	awanyanka	8
 wayazan	awanyaka	8
 wakantanka	ounkiyapi	8
 kte	uncinpi	8
@@ -6249,6 +6327,7 @@ iyaya	hecen	8
 hecen	otonwe	8
 ehpeyapi	kte	8
 on	woecon	8
+hena	na	8
 hehan	dehan	8
 itancan	yanke	8
 kta	ou	8
@@ -6376,6 +6455,7 @@ canku	hena	8
 wakau	kin	8
 kin	kokipapi	8
 otonwe	iyotan	8
+qais	nonpa	8
 hena	wotanin	8
 de	tipi	8
 he	wokokipe	8
@@ -6423,6 +6503,7 @@ contanka	kin	8
 iyotan	wasake	8
 tanyan	wanyaka	8
 wakpa	tanka	8
+wakan	ekta	8
 ociciyake	kta	8
 waye	sni	8
 ikiyedan	tipi	8
@@ -6617,6 +6698,7 @@ kin	ohodapi	8
 he	hecen	8
 south	carolina	8
 qa	sam	8
+kinhan	ake	8
 qa	naknn	8
 yatkanpi	qa	8
 waaia	wicasa	8
@@ -6645,7 +6727,6 @@ tipi	hanska	8
 ota	ehna	8
 qa	wicaktepi	8
 he	qu	8
-api	kte	8
 iyecen	unpi	8
 en	yuha	8
 de	yuha	8
@@ -6720,7 +6801,6 @@ he	hen	8
 sdonwaye	kta	8
 sni	aya	8
 om	unpi	8
-bon	homme	8
 mde	tanka	8
 aipi	kta	8
 hecetu	kin	8
@@ -6904,7 +6984,6 @@ kin	w	8
 maka	ko	8
 na	wanji	8
 kin	hunku	8
-q	a	8
 st	joseph	8
 kin	st	8
 waye	kte	8
@@ -6933,6 +7012,7 @@ na	iyuha	8
 k'a	pi	8
 ed	wayakapi	8
 he	hanhepi	8
+e	qa	8
 iciyamni	kin	8
 the	catholic	8
 wakiconzapi	wakan	8
@@ -7047,13 +7127,11 @@ etanhan	ake	7
 wau	kta	7
 qa	micinca	7
 de	ehake	7
-kin	hi	7
 tuka	iapi	7
 hena	decen	7
 maka	owihanke	7
 kta	wocekiye	7
 yaunpi	kiu	7
-of	july	7
 wakantanka	wopida	7
 awicaye	kte	7
 iyayapi	kte	7
@@ -7121,7 +7199,6 @@ tka	tuwedan	7
 wan	tuwe	7
 qa	congress	7
 tuwepi	kin	7
-ate	qa	7
 ito	ake	7
 kin	wasagya	7
 wanjiksi	on	7
@@ -7236,7 +7313,6 @@ wiyukcanpi	qa	7
 kta	kepce	7
 wicolian	hena	7
 tka	ecin	7
-unpi	ece	7
 ake	waniyetu	7
 unpi	hecinhan	7
 qa	ina	7
@@ -7345,7 +7421,6 @@ de	ikiyedan	7
 paha	napopa	7
 wanna	i	7
 makobaspe	en	7
-hena	na	7
 wakan	iyotan	7
 dehan	tona	7
 he	rev	7
@@ -7463,6 +7538,7 @@ icunhan	tuwe	7
 he	tukten	7
 eca	ohinni	7
 cistinna	esta	7
+un	qehan	7
 eya	hena	7
 wiyeya	un	7
 kuwapi	tka	7
@@ -7538,6 +7614,7 @@ nakaha	ihankeya	7
 wanna	wookiye	7
 russia	makoce	7
 kin	tiwahe	7
+wanji	wakantanka	7
 koska	wikoska	7
 skan	kta	7
 wicasta	htanipi	7
@@ -7601,6 +7678,7 @@ ounpapi	kin	7
 qes	ecanmi	7
 he	ihankeya	7
 ito	hena	7
+owas	en	7
 iyeye	sni	7
 koya	on	7
 wowapi	wicawaqu	7
@@ -7689,6 +7767,7 @@ de	ito	7
 tokata	anpetu	7
 sui	on	7
 wanice	kte	7
+taku	yuha	7
 en	iyayapi	7
 inyan	wan	7
 wan	yanka	7
@@ -7756,7 +7835,6 @@ tona	united	7
 nnpi	kin	7
 eu	qa	7
 iyotan	sica	7
-ni	kinhan	7
 dena	wicasta	7
 iyokipipi	kta	7
 e	ota	7
@@ -7911,6 +7989,7 @@ de	onge	7
 toktokeca	en	7
 rosebud	agency	7
 on	ojudan	7
+wani	kin	7
 cin	kta	7
 makaiyutapi	wikcemna	7
 ca	anpetu	7
@@ -8068,6 +8147,7 @@ koska	wikoske	7
 eya	tanyan	7
 iyayin	na	7
 enakiyapi	kta	7
+e	cin	7
 mazaska	owasin	7
 pa	yuksapi	7
 naceca	eyapi	7
@@ -8099,8 +8179,6 @@ hehan	philistine	7
 qa	wakeya	7
 tukte	tanhan	7
 iapi	qa	7
-a	on	7
-e	ye	7
 tokata	token	7
 tokata	waniyetu	7
 tuka	wa	7
@@ -8168,6 +8246,7 @@ sni	eyas	7
 ho	heon	7
 koskalaka	kin	7
 tohan	te	7
+e	kin	7
 nakun	iyotan	7
 he	tokeca	7
 mini	iyecen	7
@@ -8357,7 +8436,6 @@ kin	josep	7
 wicaakiĥan	kte	7
 el	wi	7
 to	congress	7
-tipi	qin	7
 torn	woglakapi	7
 koxka	kin	7
 xni	exa	7
@@ -8446,6 +8524,7 @@ ataya	wowapi	6
 okaga	makoce	6
 wacinyanpi	qa	6
 ehapi	ca	6
+of	july	6
 wopida	eciyapi	6
 eya	wicohan	6
 qa	onspa	6
@@ -8500,7 +8579,6 @@ en	manke	6
 ecanon	he	6
 etanhan	tankan	6
 ihanhanna	hehan	6
-e	kte	6
 hanyetu	wan	6
 wanuyanpi	ota	6
 unkan	winohinca	6
@@ -8515,7 +8593,6 @@ iyecen	un	6
 akinicapi	qa	6
 qa	anpetii	6
 england	makoce	6
-okihe	wanji	6
 hee	tka	6
 ozuye	witawata	6
 presbyterian	wicasta	6
@@ -8622,6 +8699,7 @@ kitanna	tanyan	6
 qais	toketu	6
 token	tuwe	6
 wowapi	kiu	6
+tuka	mis	6
 tuwe	tanyan	6
 hena	yuhapi	6
 hena	wanji	6
@@ -8652,6 +8730,7 @@ he	wicota	6
 sanpa	on	6
 unpi	nakaes	6
 wanji	unhapi	6
+ate	qa	6
 yamni	den	6
 word	carrier	6
 waste	dakapi	6
@@ -8695,6 +8774,7 @@ on	icupi	6
 jesus	tawoonspe	6
 en	wowasi	6
 e	sdonunkiyapi	6
+unkis	wanna	6
 jesus	hecen	6
 iyotan	tehika	6
 awauncinpi	kinhan	6
@@ -8716,7 +8796,6 @@ ito	lehan	6
 opa	esa	6
 kin	tanyau	6
 wakantanka	tipi	6
-e	lo	6
 napeciyuzapi	ye	6
 okihi	unyanpi	6
 le	yuha	6
@@ -9077,7 +9156,7 @@ iye	iyotan	6
 iyotanka	qa	6
 tukten	ti	6
 ohna	maka	6
-cinca	nom	6
+e	kta	6
 wahca	kin	6
 tona	ikiyedan	6
 hanyetu	owasin	6
@@ -9332,6 +9411,7 @@ pi	hehan	6
 qais	okicize	6
 tuwe	on	6
 owicakiyapi	kin	6
+ni	kinhan	6
 uupi	sni	6
 he	wicanagi	6
 owasin	ni	6
@@ -9495,7 +9575,6 @@ he	ope	6
 yusutapi	kta	6
 ohodapi	sni	6
 okodakiciye	teca	6
-wicoliau	kin	6
 htani	utapi	6
 de	icaga	6
 presbyterian	qa	6
@@ -9680,7 +9759,6 @@ makoee	en	6
 kin	ihanke	6
 eya	anpetu	6
 nina	tate	6
-th	he	6
 etanhan	wicota	6
 iye	hunku	6
 ta	keyapi	6
@@ -9819,6 +9897,7 @@ okini	he	6
 wicohan	ocaje	6
 wicasta	e	6
 hecen	iyukcanpi	6
+en	hasapa	6
 sakowin	on	6
 hen	wita	6
 kin	okiyakapi	6
@@ -9979,6 +10058,7 @@ sni	tipi	6
 woonspe	tawapi	6
 token	wocekiye	6
 na	tokatakiya	6
+a	on	6
 token	okihika	6
 on	okihi	6
 maka	ohnaka	6
@@ -10045,9 +10125,11 @@ kitawapi	kin	6
 wan	kte	6
 kin	iyo	6
 kiye	kin	6
+unkan	ta	6
 wanyake	cehan	6
 wan	e	6
 woyuonihan	qa	6
+wanji	to	6
 han	wicasta	6
 woope	kicaksa	6
 tona	hececapi	6
@@ -10068,6 +10150,7 @@ niye	etanhan	6
 ekta	icicawin	6
 john	baptist	6
 eciyatanhan	wicaho	6
+francis	mission	6
 joseph	okaspe	6
 taku	epin	6
 wakantanka	tawokonze	6
@@ -10129,6 +10212,7 @@ wan	ogna	6
 wanji	oncinpi	6
 bishop	heca	6
 tapi	wakan	6
+e	ye	6
 eyanpaha	iyacupi	6
 tona	onpi	6
 mini	huwe	6
@@ -10171,6 +10255,7 @@ istinme	kinhan	6
 cante	eciyatanhan	6
 anpetu	iciyamni	6
 el	wicai	6
+na	ovate	6
 father	jerome	6
 sinasapa	wayawa	6
 papi	kin	6
@@ -10182,7 +10267,6 @@ the	house	6
 waknawośnapi	kin	6
 owasin	nitawa	6
 ewicakiye	cin	6
-kini	kin	6
 tancan	wakan	6
 tona	wowacinye	6
 baptisma	wicaqupi	6
@@ -10212,6 +10296,7 @@ cin	pi	6
 aon	he	6
 na	mini	6
 hena	le	6
+heca	na	6
 con	he	6
 canze	qa	6
 niya	un	6
@@ -10278,7 +10363,6 @@ iwohdakapi	kin	5
 germany	makoce	5
 wan	miss	5
 africa	en	5
-ececa	qa	5
 opawinge	hehanyan	5
 boston	en	5
 den	makoce	5
@@ -10420,6 +10504,7 @@ jehowa	oie	5
 ehake	anpetu	5
 iye	tacanku	5
 wamnuha	hu	5
+e	kte	5
 kte	ecin	5
 wanyakapi	kinhan	5
 qa	owinja	5
@@ -10434,6 +10519,7 @@ heceii	cajeyatapi	5
 new	england	5
 dena	dakota	5
 tunkansidanyanpi	okihe	5
+okihe	wanji	5
 senator	allen	5
 spain	oyate	5
 is	wicasta	5
@@ -10587,6 +10673,7 @@ makoce	wau	5
 hena	o	5
 qa	heceu	5
 ito	token	5
+senator	dawes	5
 kici	wowapi	5
 yukan	ecee	5
 tokata	makoce	5
@@ -10621,6 +10708,7 @@ toua	en	5
 yakuwapi	kta	5
 eya	waniyetu	5
 kes	taku	5
+unpi	ece	5
 qa	koskapi	5
 ehan	unkipi	5
 unkipi	kta	5
@@ -10652,7 +10740,6 @@ ekta	kta	5
 qa	pusyapi	5
 ota	yatkanpi	5
 hanyetu	ekta	5
-hena	icahyapi	5
 tokapa	qa	5
 kin	heu	5
 qa	tohau	5
@@ -10697,6 +10784,7 @@ iyeye	cin	5
 kta	ecin	5
 enakiyapi	kte	5
 qa	oihduhe	5
+woonspe	eciyatanhan	5
 wowijice	qa	5
 naceca	ecanmi	5
 hiyaye	cin	5
@@ -10951,6 +11039,7 @@ iyukcanpi	kta	5
 oyate	ta	5
 ou	mazaska	5
 hecen	heua	5
+dena	econ	5
 econpi	esta	5
 hecinhan	qa	5
 tanyan	qa	5
@@ -11202,6 +11291,7 @@ aya	hecen	5
 iyecen	dehan	5
 wakage	cin	5
 hecen	mis	5
+cinca	nom	5
 florida	makoce	5
 wicota	sni	5
 ekta	wakpa	5
@@ -11367,7 +11457,6 @@ kakijapi	kin	5
 wacinye	cin	5
 unkitawapi	el	5
 ohiyapi	kin	5
-kte	oin	5
 abdeza	po	5
 kte	licin	5
 wanji	omniciye	5
@@ -11377,6 +11466,7 @@ ota	iyokipipi	5
 uu	sni	5
 qa	wicakaske	5
 ihanktonwan	ateyapi	5
+ataya	taku	5
 sni	undapi	5
 wan	siha	5
 seca	unkan	5
@@ -11442,7 +11532,6 @@ pierre	en	5
 he	owotanla	5
 kin	christmas	5
 opa	kinhan	5
-lena	el	5
 he	askatudan	5
 hen	koska	5
 tipi	kta	5
@@ -11616,7 +11705,6 @@ qa	nicaje	5
 kin	yawapi	5
 de	eyapi	5
 hades	ekta	5
-ake	kini	5
 anpetu	wocekiye	5
 wocekiye	tawa	5
 kin	sdonkiyapi	5
@@ -11725,6 +11813,7 @@ owodutaton	tanka	5
 wicasta	sakowin	5
 tipi	wanjiksi	5
 taanpetu	en	5
+wicoliau	kin	5
 awicakehan	taku	5
 hecen	itancan	5
 taku	wowapi	5
@@ -11746,7 +11835,6 @@ waonspepi	sni	5
 hena	wacin	5
 tawacin	ecen	5
 awauncinpi	qa	5
-kpa	wan	5
 lo	na	5
 owancaya	on	5
 the	iapi	5
@@ -11815,6 +11903,7 @@ hena	okna	5
 wiyope	yapi	5
 iho	hena	5
 makoce	heciya	5
+nina	sica	5
 he	ihakam	5
 eciyatanhan	wanna	5
 okini	tuwe	5
@@ -11962,6 +12051,7 @@ ti	iyaza	5
 omaka	kektopawinge	5
 wayacopi	kin	5
 tuka	united	5
+okodakiciye	hen	5
 hen	ope	5
 omniciye	econ	5
 kin	iyokipiya	5
@@ -12058,7 +12148,6 @@ qais	wowapi	5
 ake	tohan	5
 he	om	5
 en	wankan	5
-ojupi	unkan	5
 witaya	mniciyapi	5
 tona	nakaha	5
 tamakoce	en	5
@@ -12130,6 +12219,7 @@ luhapi	kte	5
 bena	eepi	5
 topa	hen	5
 wicakte	kta	5
+en	kahnih	5
 wanke	ciu	5
 iyounhipi	kta	5
 kun	yapi	5
@@ -12227,7 +12317,6 @@ tipi	tukte	5
 hecel	lila	5
 oyakihi	sni	5
 heipa	en	5
-in	he	5
 qa	woyatke	5
 obaspe	wanji	5
 kin	deen	5
@@ -12249,7 +12338,6 @@ ape	hiyeya	5
 eu	hipi	5
 owasin	tehike	5
 tka	kin	5
-en	hasapa	5
 qa	oehde	5
 kin	ostan	5
 wicasta	yuhapi	5
@@ -12352,6 +12440,7 @@ heceii	dehan	5
 kin	isam	5
 cen	on	5
 tona	nina	5
+kagapi	okodakiciye	5
 wapi	wakan	5
 hdustan	kta	5
 eu	woonspe	5
@@ -12423,7 +12512,6 @@ kta	nace	5
 nom	yuhapi	5
 tka	hehanyan	5
 ope	cin	5
-a	qa	5
 koska	dena	5
 kiu	sanpa	5
 wikoska	ko	5
@@ -12451,7 +12539,6 @@ qa	ha	5
 kin	iyowajapi	5
 qa	magaju	5
 cin	eca	5
-mini	wanca	5
 seca	on	5
 qais	sica	5
 untipi	kin	5
@@ -12552,7 +12639,6 @@ oyate	onpi	5
 dena	nakun	5
 akan	iyotan	5
 tuka	otonwe	5
-a	taku	5
 tanka	tawa	5
 ekta	iyahdeya	5
 ihupa	kin	5
@@ -12586,6 +12672,7 @@ kin	iyukcanpi	5
 wicasta	tonana	5
 toketu	he	5
 anpetn	kin	5
+na	owihanke	5
 unqonpi	tka	5
 sina	apahdate	5
 wicanagi	wanji	5
@@ -12632,6 +12719,7 @@ etanhan	yute	5
 uncinpi	na	5
 wicalapi	na	5
 hena	owihanke	5
+ho	mis	5
 waskuyeca	waste	5
 hetu	ca	5
 kin	tawicu	5
@@ -12656,6 +12744,7 @@ cincakinze	oyatepi	5
 qa	ipuspe	5
 be	the	5
 on	kiksuyapi	5
+e	lo	5
 kin	toki	5
 nina	hcin	5
 eya	tuwa	5
@@ -12725,6 +12814,7 @@ canke	on	5
 waste	ca	5
 el	ble	5
 joseph	oko	5
+awaoncinpi	kta	5
 tiyopa	awan	5
 tipiwakan	el	5
 peta	ide	5
@@ -12755,7 +12845,6 @@ kin	ha	5
 omnicive	tanka	5
 ca	e	5
 sapa	wocekiye	5
-matin	kte	5
 qu	na	5
 wakan	caje	5
 canna	sna	5
@@ -12794,6 +12883,7 @@ kin	tokel	5
 states	tokiconze	5
 wana	henala	5
 wocekive	opapi	5
+api	kte	5
 unkekiyapi	kta	5
 wasteundakapi	kin	5
 kta	o	5
@@ -12823,7 +12913,6 @@ kinhda	qa	5
 jesus	ohna	5
 wanikiya	ihakam	5
 ihakam	ye	5
-nasapa	wocekiye	5
 nagi	tawa	5
 yatke	kin	5
 el	lena	5
@@ -12873,7 +12962,6 @@ wayakapi	kte	5
 wicoh'an	kin	5
 hed	makoce	5
 owaunspe	wicasta	5
-th	century	5
 maka	ohna	5
 kici	waecun	5
 tipi	pi	5
@@ -12947,7 +13035,6 @@ hanyetu	wi	5
 wapetog	wicatonpi	5
 etanhan	šota	5
 iyamnimni	kin	5
-ĥe	wan	5
 mini	ĥdoka	5
 ca	wicašta	5
 šni	un	5
@@ -13096,6 +13183,7 @@ oyate	eu	4
 un	seca	4
 kin	wikoska	4
 ayustan	esta	4
+ececa	qa	4
 tokaheya	un	4
 on	wawokiyapi	4
 ate	ina	4
@@ -13541,7 +13629,6 @@ nina	cistina	4
 henakeca	yuha	4
 hecen	sanpa	4
 yuze	kte	4
-senator	dawes	4
 ipi	kinhan	4
 tawapi	kte	4
 hena	ees	4
@@ -13662,7 +13749,7 @@ detanhan	omaka	4
 heon	tuktekten	4
 kin	obe	4
 kiunniye	sni	4
-kia	he	4
+hena	icahyapi	4
 wieasta	ota	4
 en	eyapi	4
 de	ihukuya	4
@@ -13840,6 +13927,7 @@ wasicun	wowapi	4
 yawapi	eca	4
 pica	qa	4
 tipi	iyotan	4
+mazopiye	ota	4
 nakun	woyuha	4
 qa	wanyakapi	4
 hen	ikiyedan	4
@@ -13881,7 +13969,6 @@ tawicu	qon	4
 heon	tipi	4
 wanji	iyeyapi	4
 anpetu	osan	4
-api	kin	4
 wanua	omaka	4
 ohanyanpi	wowapi	4
 unkokahnigapi	kte	4
@@ -13982,6 +14069,7 @@ etanhan	na	4
 na	hankeya	4
 sanpa	econ	4
 wau	yuha	4
+tukte	he	4
 qa	duhe	4
 hecena	on	4
 wanna	ni	4
@@ -14363,13 +14451,14 @@ wokajuju	yuhapi	4
 wicaqupi	sni	4
 qa	yusicapi	4
 oaye	oyaka	4
+sdonyapi	kinhan	4
 ohodapi	qa	4
 tunkansidan	tamakoce	4
 cin	sdonya	4
-qin	qa	4
 kin	tokeii	4
 owakpamni	tipi	4
 wicaktepi	na	4
+wanna	wojupi	4
 maga	tanka	4
 wookiye	wicasta	4
 wicakicanpte	kta	4
@@ -14797,6 +14886,7 @@ yunkan	anpetu	4
 yutokecapi	kte	4
 nakun	ake	4
 el	ounpapi	4
+lena	el	4
 makoce	imahen	4
 se	en	4
 omniciye	tawa	4
@@ -14856,11 +14946,11 @@ oyaka	okihi	4
 nakun	lila	4
 cajeyatapi	na	4
 na	koskalaka	4
+okihi	wakantanka	4
 lila	oiyokipi	4
 na	ekta	4
 ota	wanunyakapi	4
 iyotan	he	4
-aste	kin	4
 hena	kiksuya	4
 de	wicolian	4
 iye	maka	4
@@ -15284,6 +15374,7 @@ wiconi	ayustan	4
 agency	etanhan	4
 china	wicasta	4
 tanyan	ihunnipi	4
+tanka	sakowin	4
 lena	wakantanka	4
 winyan	wakagege	4
 witaya	unkipi	4
@@ -15713,6 +15804,7 @@ duzahan	qa	4
 qa	hudson	4
 nakun	peta	4
 watoksu	kin	4
+hecen	hekta	4
 etanhan	jesus	4
 cansusbeca	en	4
 jesus	hunku	4
@@ -15803,6 +15895,7 @@ wicakicu	kta	4
 kin	wasakadan	4
 machine	wikicanye	4
 ohni	wicohan	4
+ojupi	unkan	4
 wata	de	4
 etanhan	hdi	4
 token	okodakiciye	4
@@ -16043,6 +16136,7 @@ wanna	wicahca	4
 en	april	4
 avowapi	avakan	4
 oksan	najinpi	4
+cekiya	ecee	4
 ehan	hi	4
 nis	taku	4
 takuna	eye	4
@@ -16065,6 +16159,7 @@ ekta	owasin	4
 oyate	nonpa	4
 tuka	tiwahe	4
 hehan	aguyapi	4
+in	he	4
 ota	eu	4
 avanna	omaka	4
 makasan	on	4
@@ -16144,7 +16239,6 @@ iye	nagi	4
 nakun	te	4
 awacin	manke	4
 stanpi	qa	4
-anpi	qa	4
 tunkansidan	etanhan	4
 wacinyepica	sni	4
 wacinye	pica	4
@@ -16385,11 +16479,11 @@ oiyute	wanji	4
 hehantu	kinhan	4
 nakun	qa	4
 heon	german	4
+a	qa	4
 tunkansidan	kahnigapi	4
 tunkansidan	pres	4
 kin	iseya	4
 wokiconze	wan	4
-waste	heon	4
 iyohi	wanji	4
 unkan	tanyan	4
 cansin	kin	4
@@ -16404,7 +16498,6 @@ tuka	wicanagi	4
 qa	sunkakan	4
 okna	tanyan	4
 kin	hetan	4
-a	santee	4
 owasin	woonspe	4
 tokel	owakihi	4
 kici	wai	4
@@ -16503,6 +16596,8 @@ itancan	teca	4
 hampton	owayawa	4
 maza	sdoyapi	4
 wanji	yustanpi	4
+wata	kinye	4
+kinye	kin	4
 yutanin	kin	4
 waonspepi	qa	4
 takudan	sdonyapi	4
@@ -16547,7 +16642,6 @@ tokata	mazaska	4
 nonpa	en	4
 wicokaske	tipi	4
 he	o	4
-a	is	4
 yapi	en	4
 wokajuju	hena	4
 woyute	ko	4
@@ -16727,7 +16821,6 @@ nakun	hecetu	4
 dena	econpi	4
 ecen	tapi	4
 onspekiyapi	kte	4
-le	wakantanka	4
 el	lakota	4
 sni	ecel	4
 akipe	cinhan	4
@@ -16818,7 +16911,6 @@ qa	sioux	4
 omakateca	eyapi	4
 hoksicala	kin	4
 akan	unqonpi	4
-th	of	4
 tunkansila	taoyate	4
 joseph	qa	4
 hena	woahtani	4
@@ -16905,6 +16997,7 @@ caga	akan	4
 ui	kin	4
 eca	maza	4
 ile	na	4
+mini	wanca	4
 mniciye	kin	4
 tohan	dena	4
 heyoka	wakanyan	4
@@ -16956,7 +17049,6 @@ qa	akam	4
 nici	unpi	4
 unkiye	token	4
 winyan	tankapi	4
-eya	on	4
 token	ehe	4
 qa	owote	4
 pacific	mniwanca	4
@@ -17178,6 +17270,7 @@ james	grass	4
 na	holy	4
 waon	kte	4
 selececa	na	4
+matin	kte	4
 cinhintku	na	4
 nitawa	el	4
 yamni	qon	4
@@ -17189,7 +17282,6 @@ he	kiksuyapo	4
 on	onyeksuyapi	4
 onyeksuyapi	wacin	4
 slolyapi	kta	4
-uon	hena	4
 kin	eci	4
 oyate	qeya	4
 qeya	el	4
@@ -17200,7 +17292,6 @@ he	wosnapi	4
 he	aiyopteya	4
 napin	kin	4
 on	wosnapi	4
-kin	iena	4
 kin	ei	4
 woyatke	on	4
 wakan	akan	4
@@ -17355,6 +17446,7 @@ ota	eya	4
 ecela	on	4
 oyanke	ecekce	4
 peta	idesasa	4
+witkosa	kin	4
 qa	wicoran	4
 qa	onman	4
 isiha	kin	4
@@ -17492,7 +17584,6 @@ teca	tonpi	4
 tamni	kin	4
 on	baptisma	4
 wicaceĥpi	kin	4
-nin	pi	4
 ihupa	šakowin	4
 tiyopa	iyuĥdoke	4
 iyuĥdoke	kin	4
@@ -17665,7 +17756,6 @@ etanhan	micinkši	4
 micinkši	on	4
 on	winoĥinca	4
 micinkši	kin	4
-wakan	nida	4
 camo	nitawa	4
 hde	ca	4
 kin	mici	4
@@ -17704,7 +17794,6 @@ paro	nape	4
 paro	itokam	4
 ope	šni	4
 wanjin	yayapi	4
-ni	he	4
 paro	wicaqu	4
 waniyetu	anpetu	4
 ate	wicawaye	4
@@ -18043,6 +18132,7 @@ he	iyemaceca	3
 taku	emakiye	3
 pa	yuwankan	3
 wasagmaye	kta	3
+wan	wiconi	3
 wiconi	can	3
 qa	canwapa	3
 canwapa	kin	3
@@ -18058,7 +18148,6 @@ keye	ciqon	3
 hinca	qa	3
 nina	sihda	3
 hecen	epe	3
-sni	he	3
 wani	kte	3
 hu	wan	3
 hecen	pa	3
@@ -18261,7 +18350,6 @@ ko	wicaqu	3
 euntonwanpi	sni	3
 kin	kikta	3
 epca	waun	3
-ca	ogna	3
 manka	eca	3
 tuwe	opeton	3
 kodayapi	waste	3
@@ -18439,7 +18527,6 @@ on	omanipi	3
 kes	tohan	3
 qa	maste	3
 ikikcupi	sni	3
-iye	qe	3
 kes	on	3
 omani	ece	3
 icunhan	hena	3
@@ -18493,9 +18580,9 @@ wicolian	pikiyapi	3
 hena	china	3
 can	kiu	3
 cin	etanhau	3
-kin	ojupi	3
 yuspipi	eca	3
 hehau	ake	3
+i	k	3
 ojupi	ece	3
 utapi	eca	3
 eca	tokaheya	3
@@ -18711,7 +18798,6 @@ kta	c	3
 onspa	i	3
 heca	keyapi	3
 owasin	anaptapi	3
-s	he	3
 kin	sakpe	3
 sakpe	wicakte	3
 nina	wape	3
@@ -18778,7 +18864,6 @@ tanyan	okalinigapi	3
 qa	sdonye	3
 kta	ihdustan	3
 hena	awicaye	3
-mazopiye	ota	3
 ekta	magaju	3
 dena	etanhau	3
 etanhan	inyan	3
@@ -18870,6 +18955,7 @@ yatkanpi	heon	3
 mani	kte	3
 on	wokaske	3
 tona	qa	3
+tona	kin	3
 ce	unkecinpi	3
 teliike	cin	3
 woonspe	ocaje	3
@@ -19384,7 +19470,6 @@ qa	makaiyutapi	3
 etanhan	tokeca	3
 wicasta	qais	3
 qais	winyan	3
-eya	un	3
 akau	taku	3
 osni	en	3
 liehan	wicasta	3
@@ -19624,7 +19709,6 @@ qa	nipi	3
 oyate	minisose	3
 tka	hecen	3
 ehpeye	kta	3
-kin	qin	3
 kin	heye	3
 tke	qa	3
 wicahcana	kin	3
@@ -19660,7 +19744,6 @@ hehan	wicaho	3
 wazi	can	3
 tuka	iecadan	3
 wicasta	tuwedan	3
-a	mini	3
 kagapi	wan	3
 patus	inajin	3
 tuka	hoksidan	3
@@ -20277,6 +20360,7 @@ kin	ieska	3
 washington	d	3
 qa	oicimani	3
 act	of	3
+en	wayazanka	3
 hetanhan	tawicu	3
 ekta	akipi	3
 woozikiye	en	3
@@ -20359,7 +20443,6 @@ unkicupi	na	3
 wanjila	esa	3
 winyaii	tona	3
 wakantanka	wicolian	3
-etu	na	3
 tawa	jesus	3
 qa	wiyohinyanpata	3
 tohan	wi	3
@@ -20908,6 +20991,7 @@ hehanyedan	kajuju	3
 icazo	hiyu	3
 hdajujupi	tanin	3
 iyakazopi	kin	3
+r	s	3
 tka	nahanli	3
 omniciye	token	3
 he	waaia	3
@@ -21470,6 +21554,7 @@ nahanh	nina	3
 owasin	wacipi	3
 ota	kage	3
 waceunkiyapi	kta	3
+is	icunhan	3
 e	timahen	3
 unsipi	tuka	3
 taku	unkekiciyapi	3
@@ -21529,8 +21614,6 @@ kici	unskanpi	3
 kici	qa	3
 kiu	etanhan	3
 iyecinka	ide	3
-kin	etanha	3
-e	wanji	3
 en	wicaakihan	3
 wankantu	itancan	3
 token	winyan	3
@@ -21581,7 +21664,6 @@ masica	qa	3
 nina	waceya	3
 ecetupi	sni	3
 on	to	3
-qa	gen	3
 wanakaja	te	3
 eya	esta	3
 ecoupi	kte	3
@@ -21645,7 +21727,6 @@ wankantu	de	3
 wicotawacin	wanjikji	3
 wanji	kalinigapi	3
 eca	is	3
-e	wan	3
 den	on	3
 unkiksuyapi	kin	3
 we	qa	3
@@ -21751,7 +21832,6 @@ han	wacipi	3
 kute	kin	3
 wanna	tehau	3
 token	eciye	3
-eciye	ciqon	3
 okpaza	aya	3
 tokeca	owasin	3
 iyayapi	kinhan	3
@@ -21852,7 +21932,6 @@ maka	wanji	3
 he	apiyapi	3
 ake	yamni	3
 wanji	wicasta	3
-wakin	kte	3
 taku	mini	3
 wowistece	tanka	3
 wakan	cekiyapi	3
@@ -21911,7 +21990,6 @@ lake	michigan	3
 ta	he	3
 etanhan	aguyapi	3
 wata	watoksu	3
-hecen	hekta	3
 en	peta	3
 econpi	unkans	3
 en	john	3
@@ -21963,7 +22041,6 @@ wiconte	etanhan	3
 etanhan	wiconi	3
 wicoie	qa	3
 eciyatanhan	unyakonpi	3
-etanhan	unpi	3
 isanpa	tanka	3
 unkiye	wakantanka	3
 otoiyohi	canteunkiciciyapi	3
@@ -22063,7 +22140,6 @@ heon	heciya	3
 tohnina	wicasta	3
 okicize	tehike	3
 ohna	kta	3
-od	ota	3
 oopeton	kin	3
 iyuta	po	3
 wan	sunkawakan	3
@@ -22126,7 +22202,6 @@ cetu	unpi	3
 kici	econpi	3
 mahen	wicasta	3
 he	kiu	3
-cin	iyowajapi	3
 wakan	okitahedan	3
 louisiana	makoce	3
 iyowinkiyapi	kte	3
@@ -22266,6 +22341,7 @@ kin	icante	3
 otoiyohi	wakantanka	3
 wakantanka	htakini	3
 mis	decen	3
+wakantanka	icekiya	3
 wanna	winyan	3
 na	miye	3
 makasan	wakpala	3
@@ -22390,7 +22466,6 @@ okihipi	e	3
 unkan	denakeca	3
 wanji	decana	3
 en	kaga	3
-uj	u	3
 wasi	sni	3
 ca	wasicun	3
 wasicun	tamaka	3
@@ -22468,7 +22543,6 @@ kin	waayupte	3
 wowapi	wakaga	3
 he	mi	3
 kali	ayapi	3
-tka	su	3
 sni	kepce	3
 en	hecetu	3
 tuka	ocim	3
@@ -22562,6 +22636,7 @@ on	wicakalinigapi	3
 qa	adam	3
 wicahca	qa	3
 en	wasaka	3
+dena	opapi	3
 wowapi	ahipi	3
 nom	hipi	3
 tka	hecon	3
@@ -22927,7 +23002,6 @@ dehan	wicota	3
 wokage	qa	3
 dena	om	3
 teku	tona	3
-a	ca	3
 sice	ca	3
 sece	epce	3
 ecel	ecamon	3
@@ -23203,7 +23277,6 @@ wicohau	tanka	3
 esta	okodakiciye	3
 taku	sdonunyanpi	3
 woyazan	ota	3
-aye	sni	3
 onspewicakiyapi	kinhan	3
 toksape	kin	3
 oyakapi	kinhan	3
@@ -23264,7 +23337,6 @@ wowapi	awanyake	3
 iye	waniyetu	3
 wata	cistina	3
 otonwe	hanke	3
-api	ece	3
 wan	city	3
 koce	ekta	3
 topa	kagapi	3
@@ -23306,7 +23378,6 @@ eu	akicita	3
 uuma	kin	3
 wakan	rev	3
 hecen	wayawa	3
-e	kagapi	3
 ekta	wicai	3
 ecanmi	ecee	3
 nakun	ptaya	3
@@ -23425,7 +23496,6 @@ ota	ayustanpi	3
 na	onge	3
 he	ko	3
 tokesta	hena	3
-ehna	ojupi	3
 thomas	wakeman	3
 tokaheya	icage	3
 hena	wokiksuye	3
@@ -23512,13 +23582,12 @@ qa	oinajin	3
 keya	heon	3
 on	ikeewicasta	3
 kin	ohanske	3
-wata	kinye	3
-kinye	kin	3
 winyan	ataya	3
 ojuha	eu	3
 iyotan	ksapapi	3
 iyotan	wastepi	3
 tokieonzepi	kin	3
+waste	heon	3
 ecin	iye	3
 wokonze	wan	3
 wicasi	kin	3
@@ -23639,6 +23708,7 @@ hehan	wikoska	3
 ohnayan	iyayapi	3
 wayupikapi	sni	3
 qa	september	3
+a	is	3
 in	be	3
 owinjapi	qa	3
 qa	okatanpi	3
@@ -23702,7 +23772,9 @@ nitawacin	on	3
 kinban	de	3
 tuwa	kasta	3
 heca	cin	3
+o	o	3
 a	d	3
+o	a	3
 ihduzapi	ecee	3
 ito	le	3
 el	can	3
@@ -24056,6 +24128,7 @@ eca	waskuyeca	3
 board	etanhan	3
 ohinni	iwacu	3
 kecanmi	yelo	3
+le	wakantanka	3
 kin	weksuye	3
 weksuye	kte	3
 owancaya	wapazopi	3
@@ -24134,8 +24207,6 @@ on	mahpiya	3
 ko	el	3
 na	iyamni	3
 kin	okahnigapi	3
-kin	kini	3
-kini	kta	3
 ye	tipi	3
 waanagoptanpi	kin	3
 oyate	united	3
@@ -24157,7 +24228,6 @@ en	ite	3
 qa	itan	3
 na	can	3
 can	wasteste	3
-okipi	sni	3
 mniwanca	huta	3
 wan	ohomni	3
 teca	eya	3
@@ -24219,7 +24289,6 @@ kin	kaska	3
 owasin	ki	3
 wakan	oyapapi	3
 iyopeiciya	po	3
-a	hi	3
 hanhepi	en	3
 nahanli	token	3
 sni	kuwapi	3
@@ -24571,6 +24640,7 @@ on	ka	3
 keya	owapi	3
 yusotapi	qa	3
 tankapi	esta	3
+eya	on	3
 tokahe	kin	3
 he	maqupi	3
 atlantic	mniwanca	3
@@ -24672,6 +24742,7 @@ oyate	toktokca	3
 owasin	o	3
 qon	lie	3
 zaniyan	unpi	3
+a	santee	3
 kan	nina	3
 kta	unkuwapi	3
 wakan	dapi	3
@@ -24964,13 +25035,11 @@ oie	wanji	3
 wiunyuskinpi	kte	3
 topa	can	3
 qa	qu	3
-mon	kta	3
 kici	can	3
 ball	etanhan	3
 kin	wowacinye	3
 he	hogan	3
 ekta	woyute	3
-ake	kin	3
 ohinni	wa	3
 tohinni	ayustan	3
 iyecen	nakun	3
@@ -24979,7 +25048,7 @@ ekta	wi	3
 titakuyepi	kin	3
 titakuye	owasin	3
 hena	mahpiya	3
-a	ce	3
+is	omniciye	3
 he	unki	3
 is	wikcemna	3
 mahen	su	3
@@ -25135,6 +25204,7 @@ tini	wakan	3
 i	iputaka	3
 homni	na	3
 dakiciye	kin	3
+wicotawacin	qa	3
 ni	ehna	3
 iwicatomni	kin	3
 abdustan	kte	3
@@ -25184,7 +25254,6 @@ qa	iecadan	3
 awicaye	ca	3
 ake	tohanyan	3
 tawa	hca	3
-qa	cansusbeca	3
 etanhan	we	3
 wiconi	wicaqu	3
 tuka	ecin	3
@@ -25207,6 +25276,7 @@ state	university	3
 woope	owasin	3
 inyan	akan	3
 iyunwin	codan	3
+owasin	is	3
 wakan	ce	3
 ito	tiwahe	3
 e	icekiya	3
@@ -25233,7 +25303,6 @@ na	henala	3
 assyrian	tipi	3
 cin	sui	3
 cinhan	te	3
-kpe	kin	3
 caye	cin	3
 tuka	wo	3
 wocekiye	awacin	3
@@ -25279,7 +25348,6 @@ sahdogan	e	3
 otonwe	km	3
 akisni	kte	3
 hepi	kin	3
-wikcemna	za	3
 an	petu	3
 en	fort	3
 fort	yates	3
@@ -25361,6 +25429,7 @@ hanyetu	cokaya	3
 kin	iwan	3
 tahcaska	awan	3
 mahpiva	ekta	3
+heon	to	3
 km	be	3
 qon	on	3
 kin	kiksuya	3
@@ -25368,6 +25437,7 @@ toka	kta	3
 kta	ua	3
 wowasake	wicaqu	3
 huhupi	kin	3
+nasapa	wocekiye	3
 woahtani	ohdag	3
 iyecetu	welo	3
 ho	le	3
@@ -25397,8 +25467,6 @@ taku	i	3
 aguyapi	span	3
 sni	neon	3
 woartani	tanka	3
-cankpeska	makahde	3
-makahde	inajin	3
 unkan	wa	3
 ojanjan	hdepi	3
 onyanui	kin	3
@@ -25421,6 +25489,7 @@ e	nape	3
 qa	woartani	3
 woartani	on	3
 paul	taku	3
+aste	kin	3
 sutaya	najinpo	3
 etan	nakun	3
 christmas	el	3
@@ -25553,7 +25622,6 @@ coulee	ed	3
 makoce	hed	3
 wotakuye	kin	3
 scotty	he	3
-maka	ohena	3
 kin	unge	3
 kin	toked	3
 mckenzie	mini	3
@@ -25609,6 +25677,7 @@ evanpaha	kin	3
 canna	ake	3
 mazakan	ptecena	3
 kin	ehaas	3
+on	heceh	3
 ovate	qeya	3
 qeya	hen	3
 kin	tuwa	3
@@ -25626,6 +25695,7 @@ wakantanka	niyepi	3
 kikta	on	3
 wawiyutan	kin	3
 el	na	3
+kta	onkecinpi	3
 woyute	na	3
 owotanla	on	3
 onyuhapi	kte	3
@@ -25647,6 +25717,7 @@ na	sna	3
 sni	ve	3
 lila	wocekiye	3
 oyapapi	qon	3
+a	taku	3
 tona	eyan	3
 kicincapi	kin	3
 onkokihipi	sni	3
@@ -25683,7 +25754,6 @@ iteowapi	otke	3
 joseph	taku	3
 wata	qon	3
 kakije	qa	3
-en	kini	3
 ohinni	yutapiwakan	3
 sinasapa	oya	3
 wosnapi	econ	3
@@ -25757,7 +25827,6 @@ qa	oknikde	3
 oknikde	itancan	3
 maĥpiya	qa	3
 e	wicayaqu	3
-yuha	kini	3
 nicinkśi	jesus	3
 nitawa	nunwe	3
 yutokan	iyeyin	3
@@ -25878,7 +25947,6 @@ wowašake	qupi	3
 hena	nagipi	3
 wicašta	itancanpi	3
 wowidake	unpi	3
-qa	ĥe	3
 najin	okihi	3
 iyohakam	maĥpiya	3
 topa	maka	3
@@ -25977,7 +26045,6 @@ nakun	ikce	3
 kin	tokedked	3
 makazi	ti	3
 kisha	he	3
-iteskapi	kin	3
 keyapi	ye	3
 coulee	hed	3
 he	wicoh'an	3
@@ -26198,7 +26265,6 @@ unkan	sodom	3
 sodom	wicašta	3
 ounye	ca	3
 sidim	mdaye	3
-sehir	ĥe	3
 zohar	he	3
 yutapi	ko	3
 wicašta	opawinge	3
@@ -26268,7 +26334,6 @@ mdatke	kta	3
 unkan	iš	3
 ookiye	qon	3
 he	jehowa	3
-oin	tanka	3
 qa	laban	3
 kin	icaĥda	3
 wate	kte	3
@@ -26335,7 +26400,6 @@ hena	jakob	3
 hdehdega	hdeškaška	3
 eye	cehan	3
 šni	nakaeš	3
-gilead	ĥe	3
 cin	wicakico	3
 tukte	kašta	3
 leha	tawakeya	3
@@ -26394,12 +26458,12 @@ sunka	yayapi	3
 tanhan	toki	3
 ewicakiye	ca	3
 otoiyohi	wojutonpi	3
-qin	wicakiyapi	3
 ekta	ateyapi	3
 ekta	hdapo	3
 jakob	ate	3
 miite	kin	3
 nisunkapi	kin	3
+ni	he	3
 ikce	qupi	3
 tašunke	šonšonna	3
 josep	hunka	3
@@ -26443,7 +26507,6 @@ cinca	catholic	3
 wocekiye	woope	3
 cin	iyehantu	3
 catholic	wo	3
-kte	shi	3
 han	de	3
 icisniyan	econ	3
 nina	wicoran	3
@@ -26467,7 +26530,6 @@ waste	yelo	3
 ca	epe	3
 laotanin	kta	3
 u	o	3
-wokage	cin	3
 yu	wakan	3
 ka	kte	3
 cekiye	el	3
@@ -26566,7 +26628,6 @@ onyuhapi	sni	3
 wakan	onkitawapi	3
 kte	huwo	3
 kin	canzepi	3
-ye	taeyanpaha	3
 en	aya	3
 nakun	sinasapa	3
 onhipi	qa	3
@@ -26582,7 +26643,6 @@ tohan	aguyapi	3
 cinca	he	3
 wayazanka	awan	3
 zaniyan	wahi	3
-qin	kin	3
 siceca	qeya	3
 r	akan	3
 iyecel	econqonpi	3
@@ -26602,7 +26662,6 @@ tuka	marpiya	3
 hogan	sa	3
 ohomni	makoce	3
 tanka	rinca	3
-cansusbeca	aicicaga	3
 kin	inarni	3
 tipiwakan	okiyapi	3
 bishop	okiyapi	3

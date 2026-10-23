@@ -1,143 +1,152 @@
 # Bigrammes gag (FineWeb-2 gag_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-n	b	3974
-n	k	2495
-n	d	2040
-n	h	1410
+n	b	3970
+n	k	2492
+n	d	2038
+n	h	1408
 n	y	1380
-r	k	1380
-r	v	1301
+r	k	1379
+r	v	1299
 n	s	1288
-r	b	1283
+r	b	1280
 k	b	1260
+r	d	1218
 n	t	1124
-n	v	1122
-n	g	1105
-var	nicä	945
-k	k	880
+n	v	1121
+n	g	1104
+r	y	969
+var	nicä	944
+k	d	892
+k	k	877
 r	t	850
 n	m	793
 r	ş	757
 k	v	755
-r	h	737
+r	h	736
 n	bu	713
-ani	bu	700
-n	ç	657
-escort	bayan	618
-r	m	617
-r	s	605
-n	f	594
-hem	da	586
-bu	yıl	568
-al	emi	559
+ani	bu	694
+n	ç	653
+r	m	614
+escort	bayan	614
+r	s	604
+n	f	592
+hem	da	584
+bu	yıl	563
+al	emi	557
 r	g	536
-bu	k	530
-k	y	511
-l	b	494
-k	s	474
-k	t	470
+bu	k	529
+k	y	510
+l	b	492
+k	s	472
+k	t	469
 pay	aldılar	468
-n	ve	468
+n	ve	467
+k	g	462
 z	b	447
 n	n	446
 k	h	436
-n	sonr	415
-r	ve	407
-m	d	399
+n	sonr	414
+r	ve	405
+m	d	398
+gagauz	dilindä	395
 n	p	387
-taa	çok	387
-ci	yılda	377
+taa	çok	385
 bir	az	376
-vä	ya	367
-ya	da	361
-r	z	359
+ci	yılda	375
+vä	ya	366
+ya	da	360
+r	z	358
 i̇rina	vlah	352
-bu	iş	351
-gagauziya	halk	351
-n	de	345
-taa	bir	331
-hem	başka	327
-k	ve	321
+bu	iş	350
+gagauziya	halk	350
+n	de	344
+taa	bir	330
+hem	başka	326
 gagauziya	başkanı	320
+z	d	319
+k	ve	319
 vä	s	318
 eç	kim	316
-gta	san	315
 bu	b	314
-r	f	312
-ve	b	303
+gta	san	314
+r	f	311
 dagı	bir	303
-n	ş	302
 ve	k	302
-bu	s	302
-da	bu	298
-san	andreas	297
-halk	topluşun	296
+n	ş	301
+bu	s	301
+ve	b	301
+da	bu	297
+san	andreas	296
+halk	topluşun	295
 n	ön	293
 n	l	292
 gagauz	dili	290
-m	b	289
 n	r	288
 t	v	288
-bu	gün	286
+m	b	288
+bu	gün	284
 t	b	284
-le	b	282
-ar	bir	281
+le	b	281
+ar	bir	280
 bir	neçe	276
 için	hem	269
-n	çok	269
 bolso	da	269
-var	nasıl	267
+n	çok	268
 n	z	267
+var	nasıl	266
 ci	yılın	265
 sora	da	265
-r	n	264
+r	n	263
 r	p	262
-r	ç	256
+z	k	258
 diil	sade	256
+r	ç	255
 hep	ölä	254
-k	ç	254
-ş	b	253
-m	v	253
+k	ç	253
+ş	b	252
 k	ol	252
+m	v	252
+z	v	246
 r	şek	244
 halk	topluşu	243
-k	m	242
+k	m	241
 ve	d	240
 bundan	kaarä	240
-komrat	kasabasının	240
 eç	kaçan	240
+komrat	kasabasının	239
 le	get	237
 hem	onun	235
-bu	d	235
 pay	aldı	235
-hem	gagauz	235
+bu	d	234
 başkanı	i̇rina	234
+hem	gagauz	234
 ve	bu	233
 bu	t	232
 eç	nerse	231
-n	ol	230
 en	büük	229
+n	ol	229
 da	bir	228
 n	en	228
-m	k	227
+m	k	226
 ve	m	226
 l	k	225
 l	v	223
 rı	d	220
-kandaydır	bir	220
+kandaydır	bir	219
 emne	üçün	219
 l	h	217
 n	c	217
-heç	bir	216
+heç	bir	215
 sı	g	215
 büük	bir	214
 pek	çok	213
+k	f	212
 bir	da	212
 ve	s	211
 ani	o	210
 häm	dä	210
 todur	zanet	209
-ana	sözü	209
+ana	sözü	208
 hem	de	206
 büyük	b	205
 menen	birge	205
@@ -145,52 +154,52 @@ bu	h	203
 bu	y	202
 büünkü	gündä	202
 yıl	geeri	200
-iş	için	195
 l	m	195
 kultura	hem	194
+iş	için	194
 rı	b	194
 ama	bu	193
 da	o	191
-türkiye	respublikasının	190
+türkiye	respublikasının	189
 r	l	189
 m	s	187
 yok	nicä	186
-hederlez	ayın	186
 eç	kanday	186
+hederlez	ayın	185
 rı	k	183
 z	h	181
-k	ş	181
-z	g	180
 m	y	180
+k	ş	180
+z	g	179
 m	t	179
 recep	tayyip	179
 ş	y	178
 ne	k	177
-m	ed	176
 onun	için	176
+m	ed	175
 bir	sıra	175
 moldova	respublikasının	175
 komrat	devlet	174
 bu	n	174
 ve	t	174
 bu	m	174
-t	d	174
 ve	h	173
+t	d	173
 canavar	ayın	173
 bu	uurda	172
 t	k	172
-bu	da	171
 üüsek	uurda	170
 en	çok	170
+bu	da	170
 teklif	etti	170
 n	kull	169
-da	var	169
 neçin	deyni	169
 bir	nerse	169
 hem	gagauziya	168
+da	var	168
 bu	işi	166
-gagauz	respublikasının	165
 r	ol	165
+gagauz	respublikasının	164
 gagauz	dilini	164
 hiç	bir	163
 bir	iş	163
@@ -198,77 +207,77 @@ rın	b	163
 n	büyük	163
 baba	marta	162
 andan	kiyin	162
-ne	b	161
+ne	b	160
 de	b	159
 o	da	158
 k	bu	158
-l	y	158
 bir	künü	158
 hem	kultura	157
+l	y	157
 onnarın	arasında	156
 nde	b	156
 z	s	155
 rı	v	154
-bir	top	154
 här	bir	153
 çadır	kasabasının	153
 şükür	etti	153
 bir	kerä	153
-ileri	dooru	152
+bir	top	153
 k	üzere	151
 k	üz	151
 bunun	için	151
-gagauz	milli	151
+ileri	dooru	151
 hem	gagauziyanın	151
 ne	kadar	150
 marta	ayın	150
-hem	moldova	150
+gagauz	milli	150
 bar	ele	150
-kasım	ayın	149
+hem	moldova	149
 her	yıl	148
 yardım	etmää	148
+kasım	ayın	148
 çok	d	148
 bundan	sora	147
 k	n	147
-t	ed	147
 l	t	146
+t	ed	146
 l	ol	146
 men	da	146
-ceviz	ayın	144
 hem	taa	144
 diil	lääzım	144
-l	d	144
 r	beled	144
-ynı	z	144
+ceviz	ayın	143
+ynı	z	143
 t	s	142
 hep	o	142
 n	önc	142
+l	d	142
 o	günü	142
 başka	bir	142
-taa	da	141
 söz	konusu	141
 bir	jolu	141
 ç	k	140
-türkiye	kişinev	140
+taa	da	140
 ona	görä	139
 bir	neçä	139
 m	ve	139
-gagauz	halkının	139
+türkiye	kişinev	139
 lääzım	olsun	138
 cü	yılda	138
+gagauz	halkının	138
 m	h	137
 z	ve	136
 r	bu	136
-gagauz	halkın	135
 r	gün	135
 bu	durum	135
-rı	h	134
-ş	v	134
+gagauz	halkın	134
 ne	göre	134
 r	r	134
 ani	onnar	134
+rı	h	133
+ş	v	133
 küçük	ayın	133
-yılın	içindä	133
+yılın	içindä	132
 l	ve	131
 vä	bu	131
 bul	jerde	131
@@ -281,13 +290,13 @@ t	t	128
 ev	sah	128
 k	için	127
 söz	k	127
-m	g	127
 l	s	127
 konut	kred	127
-n	uz	127
 e	b	127
 baarı	bir	127
 k	çok	126
+m	g	126
+n	uz	126
 bir	büük	125
 bin	ley	125
 birok	al	125
@@ -297,38 +306,38 @@ taa	ileri	124
 bu	cür	124
 orak	ayın	124
 cort	b	124
-nden	b	123
 bir	çox	122
 hem	bu	122
 z	m	122
 hem	dä	122
+nden	b	122
 n	tüm	122
 en	büyük	122
 ye	b	122
 pek	islää	121
 rı	s	121
-dooru	da	121
-harman	ayın	121
 rın	d	120
 n	çık	120
 k	p	120
+dooru	da	120
 te	o	120
+harman	ayın	120
 görä	dä	119
 le	k	119
 ne	d	119
-o	k	119
-t	h	119
 z	de	118
 n	türk	118
+o	k	118
+t	h	118
 kolu	menen	118
 ne	g	117
 ali	tähsil	116
-kongaz	küüyün	116
 n	dol	116
 taa	ii	116
 süper	l	116
 iddaa	programı	116
 bir	gana	116
+kongaz	küüyün	115
 k	z	115
 z	y	115
 dep	suradı	115
@@ -336,15 +345,16 @@ ar	kanday	115
 bu	büük	114
 neçin	ki	114
 l	ed	114
-l	g	114
 nde	k	114
-de	k	114
 n	bir	114
 rı	t	114
 ne	get	113
+de	k	113
 n	güz	113
 büük	ayın	112
-ani	biz	112
+l	g	112
+r	çok	112
+ani	biz	111
 nı	sır	111
 sı	y	111
 en	ii	111
@@ -357,40 +367,40 @@ bu	g	109
 ç	b	109
 canlı	bahis	109
 özü	da	109
-rını	d	108
-n	gün	108
 ne	da	108
 z	t	108
 yıldan	beeri	108
 rın	y	108
+rını	d	107
 belä	bir	107
 gagauz	dilinin	107
-m	kurulu	107
+n	gün	107
+m	kurulu	106
 r	c	106
 eç	kimge	106
 bir	dä	105
 n	ver	105
-ci	ildä	105
-angısına	görä	105
 n	her	105
 rı	ve	105
 jok	ele	105
 bu	üzerä	104
 nedän	sora	104
 hem	onnarın	104
+angısına	görä	104
 r	sür	104
 yardım	eder	104
 da	bar	104
+ci	ildä	103
 o	zaman	103
 çiçek	ayın	103
 olduğu	g	103
 rın	k	103
 m	ett	103
-joop	berdi	103
 gagauziyanın	başkanı	102
 escort	bayanread	102
 bayanread	more	102
 kele	jatkan	102
+joop	berdi	102
 k	r	101
 ş	ve	101
 kişinev	büükelçisi	101
@@ -401,29 +411,26 @@ her	türlü	100
 en	öneml	99
 l	ç	99
 nın	b	99
-bakannık	komitetin	99
-nasıl	oynanır	99
 z	bu	98
 moldova	hem	98
 t	g	98
 hem	sport	98
+bakannık	komitetin	98
+nasıl	oynanır	98
 bu	iki	97
 ilä	bağlı	97
 anılmış	gagauz	97
 güçlü	b	97
 ogo	beter	97
-moldova	prezidentı	97
 hem	türkiye	97
 ölä	da	96
 bu	ş	96
 rı	g	96
 daha	çox	96
-i̇gor	dodon	96
+moldova	prezidentı	96
 ilgili	olarak	96
-bakannık	komiteti	96
 bölä	bir	96
 r	türlü	96
-t	y	96
 iddaa	tahminleri	96
 kirez	ayın	95
 ı	b	95
@@ -431,6 +438,9 @@ gagauz	dilin	95
 p	b	95
 bu	yılın	95
 menen	koşo	95
+i̇gor	dodon	95
+bakannık	komiteti	95
+t	y	95
 eç	bir	95
 pay	almaa	94
 le	y	94
@@ -439,7 +449,6 @@ bizä	deyni	94
 men	saga	94
 erteñ	menen	94
 dili	hem	93
-da	taa	93
 biz	da	93
 y	k	93
 daha	da	93
@@ -449,6 +458,7 @@ biz	lääzım	93
 taa	çoyu	93
 menen	bir	93
 anın	üstünö	93
+da	taa	92
 dä	bu	92
 rın	h	92
 n	ort	92
@@ -466,13 +476,12 @@ sade	bir	90
 çok	s	90
 n	son	90
 wb	sts	90
-read	more	90
-var	mı	89
 bu	bir	89
 n	gel	89
 taa	sık	89
 sı	ve	89
 nın	k	89
+var	mı	88
 nde	y	88
 n	yen	88
 n	öz	88
@@ -484,13 +493,13 @@ oşonu	menen	88
 rşı	k	87
 her	zaman	87
 gagauziya	kultura	87
-oşol	zamat	87
+read	more	87
 pek	gözäl	86
 olan	bir	86
 m	ol	86
 bu	tür	86
 sı	v	86
-ne	demek	86
+oşol	zamat	86
 bir	şey	85
 çok	yıl	85
 n	olm	85
@@ -499,15 +508,14 @@ emes	ele	85
 gözäl	bir	84
 taa	sora	84
 bir	adam	84
-nız	g	84
 başın	yardımcısı	84
 t	ç	84
+ne	demek	84
 oşol	ele	84
 köp	ötpöy	84
 ve	f	83
-bakannıın	başı	83
+nız	g	83
 en	önemli	83
-ş	k	83
 birok	bul	83
 al	bir	83
 n	okunur	83
@@ -517,10 +525,11 @@ sı	d	82
 ne	de	82
 cü	yılın	82
 komrat	regional	82
+bakannıın	başı	82
 t	ol	82
+ş	k	82
 oşon	üçün	82
 bolgonu	menen	82
-uşaklara	deyni	81
 etmäk	üçün	81
 da	çok	81
 sı	b	81
@@ -528,6 +537,7 @@ lääzım	olacek	81
 n	dalı	81
 go	dep	81
 pek	büük	80
+uşaklara	deyni	80
 n	kend	80
 iddaa	da	80
 oşondoy	ele	80
@@ -548,9 +558,9 @@ n	eur	79
 iddaa	oran	79
 men	anı	79
 lı	b	78
+a	da	78
 k	zorund	78
 todur	zanetin	78
-taa	derindän	78
 iddaa	kuponu	78
 jana	anın	78
 jön	ele	78
@@ -567,15 +577,15 @@ yıldan	zeedä	77
 ve	ç	77
 wb	st	77
 anan	al	77
-dedi	al	77
 ve	türk	76
 ana	dili	76
 bu	ç	76
 r	durum	76
 ne	ve	76
 ani	gagauz	76
+mustafa	kemal	76
 ü	ü	76
-laflarına	görä	76
+dedi	al	76
 yapan	escort	76
 için	bir	75
 o	var	75
@@ -584,13 +594,12 @@ r	şey	75
 rın	s	75
 p	k	75
 biz	bu	75
-r	süre	75
 uşaklar	için	75
 pek	önemli	75
 cı	yılın	75
 yardım	edecek	75
 p	ol	75
-gelen	escort	75
+laflarına	görä	75
 yıldan	sora	74
 ı	v	74
 o	z	74
@@ -599,17 +608,15 @@ kırım	ayın	74
 maruneviç	adına	74
 al	da	74
 andan	soñ	74
+gelen	escort	74
 bir	insan	73
 ş	g	73
+r	süre	73
+taa	derindän	73
 nadir	şah	73
-ötö	ele	73
-dep	joop	73
-mına	uşul	73
 toorul	han	73
 n	a	72
 biz	dä	72
-ye	konuştu	72
-en	ç	72
 r	kull	72
 bu	f	72
 dä	komrat	72
@@ -619,7 +626,10 @@ de	bu	72
 gagauziyanın	baş	72
 bir	yıl	72
 gürol	sökmensüer	72
+ötö	ele	72
+dep	joop	72
 algan	jok	72
+mına	uşul	72
 al	jerde	72
 bütün	bu	71
 m	m	71
@@ -627,13 +637,14 @@ daha	bir	71
 özü	dä	71
 de	d	71
 l	p	71
+en	ç	71
 çadır	kasabasında	71
 arasında	var	71
 i̇öi̇	wb	71
 hiv	v	71
 iddaa	canlı	71
 ar	dayım	71
-pek	meraklı	70
+ye	konuştu	70
 rını	b	70
 nicä	bir	70
 türkiye	respublikası	70
@@ -646,7 +657,7 @@ her	z	70
 moldova	devletin	70
 l	medy	70
 jol	menen	70
-kaysı	bir	70
+pek	meraklı	69
 bir	daha	69
 bundan	sonra	69
 här	hansı	69
@@ -661,57 +672,56 @@ ki	bu	69
 büük	hem	69
 ş	h	69
 hem	büük	69
-ve	g	69
-maç	sonuçları	69
 birok	men	69
+kaysı	bir	69
 bir	maalda	69
 eni	bir	68
 mähz	bu	68
 ak	part	68
 a	d	68
-l	ş	68
-açan	biz	68
 hem	kendi	68
 hep	bu	68
 hem	komrat	68
+ve	g	68
 onnar	da	68
 düz	ava	68
 bu	konud	68
 sını	s	68
+maç	sonuçları	68
 menen	ele	68
 dagı	da	68
 tim	ele	68
 t	ve	67
-ölä	bir	67
 ci	yıldan	67
 da	b	67
 o	pek	67
 hep	okadar	67
+l	ş	67
+açan	biz	67
 yeni	bir	67
 için	da	67
 ani	bölä	67
 mihail	çaki̇r	67
-şindän	sora	67
 kerek	ele	67
+ölä	bir	66
 yok	nasıl	66
-ş	s	66
 de	y	66
 hulusi	kiliç	66
 diil	salt	66
 yapmaa	deyni	66
 y	b	66
+şindän	sora	66
 mınday	dedi	66
 başka	eç	66
 oşol	kezde	66
 nicä	da	65
 ani	lääzım	65
 ci	ilin	65
-dä	bir	65
 cı	yılda	65
+ş	s	65
 da	onun	65
 n	o	65
 gagauz	hem	65
-da	pek	65
 mehmet	selim	65
 yardım	etti	65
 gagauziya	başkanın	65
@@ -721,29 +731,29 @@ pay	alannarı	65
 aldı	da	65
 iddaa	bayi	65
 çın	ele	65
-o	bir	64
 o	qädär	64
 daha	sonra	64
 ilerlemesi	için	64
+dä	bir	64
 bu	konuda	64
 a	b	64
 statusu	için	64
 kararına	görä	64
-ani	moldova	64
 yardım	ederlär	64
 gagauziyanın	kultura	64
-iddaa	sonuçları	64
+da	pek	64
 bir	ele	64
 tez	ele	64
 taa	büük	63
+o	bir	63
 böyük	bir	63
 heç	dä	63
 var	idi	63
 len	b	63
 bu	işä	63
-yı	b	63
 nde	de	63
 valkaneş	kasabasının	63
+ani	moldova	63
 prezidentı	recep	63
 k	olm	63
 onnar	için	63
@@ -752,6 +762,7 @@ bu	proekt	63
 y	y	63
 ama	diil	63
 n	sur	63
+iddaa	sonuçları	63
 sıyaktuu	ele	63
 boluş	kerek	63
 eköö	teñ	63
@@ -760,6 +771,7 @@ birok	anın	63
 altan	handıgının	63
 n	bü	62
 yle	b	62
+yı	b	62
 ı	d	62
 da	gagauz	62
 kultura	evin	62
@@ -773,12 +785,10 @@ iddaa	analiz	62
 nicä	olsun	61
 vä	onun	61
 en	az	61
-devam	ediyor	61
 r	ön	61
 baş	redaktoru	61
 yardım	için	61
 moldovanın	hem	61
-ani	gagauziya	61
 ş	ol	61
 missis	març	61
 rus	dilindä	60
@@ -789,26 +799,26 @@ var	bir	60
 diil	çoktan	60
 çünkü	bu	60
 böyle	b	60
+devam	ediyor	60
 l	f	60
 r	şe	60
 uşak	başçalarında	60
 her	bir	60
 da	başka	60
 kendi	işini	60
+ani	gagauziya	60
 kıpçak	küüyün	60
 k	l	60
 ekonomika	hem	60
 dilindä	hem	60
 sı	h	60
 vayt	v	60
-bahis	siteleri	60
 hem	eni	59
 z	f	59
 r	olm	59
 nın	y	59
 n	etk	59
 ve	p	59
-n	u	59
 biri	dä	59
 hem	halk	59
 büünkü	günädän	59
@@ -816,15 +826,15 @@ vä	b	59
 taa	üüsek	59
 hem	bilim	59
 n	yüks	59
+bahis	siteleri	59
 canlı	iddaa	59
 iddaa	kupon	59
-men	seni	59
-bolgon	jok	59
 nı	z	58
+n	u	58
 bir	ay	58
 nde	h	58
 türk	dünnäsının	58
-o	d	58
+ı	t	58
 deyni	bu	58
 k	mümkün	58
 gençlik	hem	58
@@ -833,10 +843,12 @@ kaldı	da	58
 bunu	için	58
 andan	arı	58
 bar	ekenin	58
+men	seni	58
 degen	söz	58
 alıp	kelip	58
 al	üçün	58
 mından	arı	58
+bolgon	jok	58
 bolo	turgan	58
 genel	b	57
 resim	galereyasında	57
@@ -844,7 +856,7 @@ män	dä	57
 taa	islää	57
 bir	k	57
 vä	digär	57
-ı	t	57
+o	d	57
 r	üz	57
 saalık	hem	57
 ama	biz	57
@@ -869,6 +881,7 @@ türk	m	56
 fade	eden	56
 şu	anda	56
 f	b	56
+ş	d	56
 komrat	atatürk	56
 da	kendi	56
 dä	gagauziya	56
@@ -887,11 +900,8 @@ te	bu	56
 ömür	boyu	56
 er	l	56
 bara	jatkan	56
-uşul	jerde	56
-rın	g	55
 olan	bu	55
 eyni	zamanda	55
-da	öz	55
 başqa	bir	55
 bizim	için	55
 ş	t	55
@@ -916,13 +926,13 @@ e	ve	55
 bayan	b	55
 kündördün	birinde	55
 bul	jönündö	55
+uşul	jerde	55
+rın	g	54
 ci	il	54
+da	öz	54
 n	ek	54
-r	için	54
 p	g	54
-bir	zaman	54
 elde	ett	54
-r	de	54
 en	iyi	54
 r	yıl	54
 sergey	anastasov	54
@@ -934,13 +944,12 @@ taa	kolay	54
 n	num	54
 k	c	54
 nın	d	54
+r	günü	54
 danisma	komiteti	54
 bu	soruşu	54
 lduğunu	bel	54
 çok	ön	54
 komrat	kasabasında	54
-maya	sandu	54
-büünkü	günä	54
 üçün	da	54
 öz	ara	54
 yüz	yüze	54
@@ -950,14 +959,15 @@ olsa	da	53
 ana	dilindä	53
 o	gün	53
 bu	arada	53
-ci	yıldönümü	53
-n	ü	53
+r	için	53
+bir	zaman	53
 k	ön	53
 de	s	53
 nde	d	53
 üçün	bir	53
 her	b	53
 azär	häsrät	53
+r	de	53
 hem	ekonomika	53
 en	islää	53
 iki	devlet	53
@@ -974,7 +984,9 @@ bu	yüzd	53
 tähsil	müässisälärinin	53
 dionis	tanasoglunun	53
 üüsek	uura	53
+maya	sandu	53
 komrat	dolay	53
+büünkü	günä	53
 mına	bul	53
 oşondon	kiyin	53
 kalın	oguz	53
@@ -983,8 +995,10 @@ t	f	52
 bir	kaç	52
 bir	şekilde	52
 programasına	görä	52
+ci	yıldönümü	52
 bir	kiyat	52
 rın	t	52
+n	ü	52
 hem	çok	52
 bu	adam	52
 hızlı	b	52
@@ -1006,7 +1020,6 @@ verecek	kolaylık	52
 h	ter	52
 de	eden	52
 iddaa	sistem	52
-antkeni	al	52
 men	bul	52
 da	oşol	52
 çok	türlü	51
@@ -1025,9 +1038,7 @@ bän	da	51
 üç	yıl	51
 z	z	51
 kısa	bir	51
-eni	yıl	51
 teoretik	liţeyin	51
-s	s	51
 p	erdoğ	51
 ç	dökülm	51
 sı	ol	51
@@ -1035,6 +1046,7 @@ n	ötürü	51
 ğlık	b	51
 iddaa	ihalesi	51
 andan	körö	51
+antkeni	al	51
 munun	baarı	51
 yenä	dä	50
 ci	yıldönümünü	50
@@ -1049,7 +1061,9 @@ selim	kartal	50
 küüyün	primarı	50
 çok	vakıt	50
 le	s	50
+eni	yıl	50
 ani	gagauziyada	50
+s	s	50
 baş	kasabasında	50
 belli	edildi	50
 ç	t	50
@@ -1061,13 +1075,9 @@ regional	resim	50
 nın	h	50
 görev	y	50
 bolup	kalgan	50
-jalgız	gana	50
-ötköndön	kiyin	50
 bay	bora	50
 aleksandr	stoyanoglunun	50
-yok	etmää	49
 bunu	b	49
-bu	günä	49
 här	käs	49
 gün	b	49
 tipardan	çıktı	49
@@ -1088,31 +1098,33 @@ uzun	sür	49
 çok	b	49
 lo	v	49
 nde	s	49
-le	de	49
 hem	literaturasında	49
 r	dol	49
 oguz	begleri	49
 para	yatırma	49
 jön	gana	49
 da	emes	49
-men	üçün	49
 dal	oşol	49
 gana	emes	49
+jalgız	gana	49
 köptön	beri	49
 alıp	kelgen	49
+ötköndön	kiyin	49
 birinçi	jolu	49
 yılın	süresindä	49
 gta	sa	49
 an	üçün	49
 açan	o	48
+yok	etmää	48
 kanona	görä	48
 gagauz	kultura	48
 bu	yortu	48
+bu	günä	48
 bu	qädär	48
 ğlıklı	b	48
+nasıl	yapılır	48
 bir	däfä	48
 ve	en	48
-ar	türdüü	48
 ğlı	ol	48
 devlet	universitetın	48
 dä	var	48
@@ -1120,7 +1132,6 @@ n	bütün	48
 dän	zeedä	48
 oldu	bir	48
 bän	pek	48
-ama	taa	48
 ama	şindi	48
 hem	ne	48
 bu	diil	48
@@ -1131,12 +1142,14 @@ hem	ti̇ka	48
 en	bü	48
 gagauziyanın	halk	48
 ne	h	48
+le	de	48
 ruz	k	48
 spor	toto	48
 menen	da	48
 mına	emi	48
 kalgan	ele	48
 da	köp	48
+men	üçün	48
 bolor	ele	48
 nı	d	47
 bir	çok	47
@@ -1152,6 +1165,7 @@ başka	b	47
 tarafından	yapılan	47
 här	iki	47
 kat	mal	47
+ar	türdüü	47
 r	gel	47
 bindän	zeedä	47
 çünkü	b	47
@@ -1159,12 +1173,12 @@ açılışında	pay	47
 heç	vaxt	47
 hak	statusu	47
 ani	onun	47
+ama	taa	47
 için	dä	47
 var	taa	47
 ki	onnar	47
 ölä	dä	47
 genel	başkanı	47
-rının	y	47
 nadir	şahın	47
 i̇şbirlii	hem	47
 ght	deputatları	47
@@ -1189,8 +1203,8 @@ burada	da	46
 n	önce	46
 lmak	üzere	46
 on	beş	46
-kendi	tarafından	46
 hem	hepsi	46
+rının	y	46
 bir	araya	46
 bu	z	46
 angısında	pay	46
@@ -1202,7 +1216,6 @@ menen	anın	46
 bul	jolu	46
 je	bolboso	46
 kün	sayın	46
-alıp	çıgıp	46
 araket	kılıp	46
 bolup	çıktı	46
 al	özü	46
@@ -1216,11 +1229,11 @@ da	k	45
 ra	bedel	45
 n	bölg	45
 teşekkür	ed	45
-çok	k	45
 merkez	seçim	45
 da	gagauziya	45
 ltını	ç	45
 r	gör	45
+kendi	tarafından	45
 moldova	prezidentın	45
 ı	n	45
 prezidentı	i̇gor	45
@@ -1229,7 +1242,6 @@ komrat	kultura	45
 yılın	orak	45
 kendi	ana	45
 rının	b	45
-da	te	45
 o	taa	45
 taa	zeedä	45
 hem	moldovada	45
@@ -1248,7 +1260,7 @@ nde	t	45
 n	dış	45
 alt	üst	45
 kaçandır	bir	45
-payda	boldu	45
+alıp	çıgıp	45
 men	aga	45
 bir	çoñ	45
 on	eki	45
@@ -1264,6 +1276,7 @@ rının	t	44
 da	büük	44
 olduğu	kimi	44
 ve	r	44
+e	d	44
 mihail	formuzal	44
 bu	zaman	44
 nı	b	44
@@ -1273,6 +1286,7 @@ ve	şeh	44
 rılı	b	44
 nın	t	44
 n	kurtulm	44
+çok	k	44
 kabul	ed	44
 bu	durumd	44
 da	komrat	44
@@ -1280,6 +1294,7 @@ hem	para	44
 yılın	canavar	44
 türkiye	büükelçisi	44
 merkezin	başı	44
+da	te	44
 kazayak	küüyün	44
 moldovada	hem	44
 topluşun	deputatları	44
@@ -1293,10 +1308,10 @@ anmak	günü	44
 kimdir	biröö	44
 mınday	dep	44
 oşentse	da	44
+payda	boldu	44
 eger	sen	44
 qädär	dä	43
 kötü	b	43
-bütün	dünnedä	43
 en	ilkin	43
 sık	sık	43
 se	b	43
@@ -1306,7 +1321,6 @@ bu	durumda	43
 elde	ed	43
 bir	parça	43
 tayyip	erdoğanın	43
-n	olduğu	43
 devlet	arasında	43
 m	ç	43
 ı	h	43
@@ -1322,11 +1336,11 @@ da	hepsi	43
 dolay	bolniţasının	43
 p	v	43
 özel	b	43
-rt	b	43
 lduğu	b	43
 m	bu	43
 ğı	k	43
 selda	özdenoğlu	43
+n	tl	43
 bu	p	43
 m	eden	43
 i̇rina	vlahın	43
@@ -1336,17 +1350,20 @@ jana	başka	43
 alıp	barıp	43
 oşol	künü	43
 cif	escort	43
+ç	m	42
 n	düz	42
 için	lääzım	42
+f	v	42
 bu	bölg	42
 hep	taa	42
+bütün	dünnedä	42
 çok	öneml	42
 ve	l	42
-ola	bilär	42
 n	kr	42
 ala	turgan	42
 n	uygun	42
 p	d	42
+n	olduğu	42
 ani	gagauziyanın	42
 insannar	için	42
 ayırı	bir	42
@@ -1359,6 +1376,7 @@ etmää	deyni	42
 hem	koordinaţiya	42
 hem	gözäl	42
 en	f	42
+rt	b	42
 rın	v	42
 programaların	koordinatoru	42
 ve	n	42
@@ -1369,7 +1387,6 @@ ye	k	42
 n	bel	42
 ş	olm	42
 koydu	da	42
-da	al	42
 saalıı	korumak	42
 nesine	iddaa	42
 al	öz	42
@@ -1384,22 +1401,19 @@ da	uşul	42
 dal	uşul	42
 bir	kança	42
 altan	handıgına	42
-alıkul	osmonov	42
 sarışın	escort	42
-kanona	karşı	41
 hem	devlet	41
 hälä	dä	41
 bütün	türk	41
 bir	er	41
 z	n	41
 gün	g	41
-a	ve	41
 ak	b	41
-bu	kiyat	41
 r	ver	41
 nde	yer	41
 olduğunu	bel	41
 bunun	y	41
+ola	bilär	41
 kalgan	jok	41
 rı	ç	41
 dä	o	41
@@ -1426,7 +1440,7 @@ ne	t	41
 angıları	baalı	41
 devlet	b	41
 n	üret	41
-bir	payı	41
+da	al	41
 kurumun	başı	41
 bayan	k	41
 iddaa	nasıl	41
@@ -1438,15 +1452,19 @@ eldin	baarı	41
 eki	jüz	41
 kelgen	jok	41
 burhan	haldun	41
+alıkul	osmonov	41
 lavabo	gideri	41
 götten	veren	41
 veren	escort	41
 här	zaman	40
+kanona	karşı	40
 bir	qädär	40
 bunun	üçün	40
 bunun	dışınd	40
+a	ve	40
 än	böyük	40
 r	il	40
+bu	kiyat	40
 türk	l	40
 devam	ed	40
 istärsä	dä	40
@@ -1459,13 +1477,12 @@ hem	en	40
 şindi	da	40
 dä	gagauziyanın	40
 rının	k	40
+ci	yıllarda	40
 hem	uzun	40
 en	paalı	40
 ne	lääzım	40
 moldova	premyer-ministrusu	40
-bu	yüzden	40
 hem	diil	40
-e	s	40
 uşak	başçasına	40
 ri	h	40
 bu	yortuyu	40
@@ -1479,6 +1496,7 @@ türk	s	40
 n	söz	40
 lk	kez	40
 kurbannarını	anmak	40
+bir	payı	40
 rını	s	40
 büükelçisi	gürol	40
 ilk	eri	40
@@ -1492,19 +1510,17 @@ orada	da	39
 le	bu	39
 olmak	üzere	39
 rını	y	39
-emlak	verg	39
 le	g	39
 n	yüzde	39
 bir	azdan	39
-aynı	zamanda	39
 n	uygul	39
 canan	alpaslan	39
 o	büük	39
 resim	sergisi	39
 birkaç	yıl	39
-ci	yıllarda	39
-biri	olan	39
 bu	takım	39
+bu	yüzden	39
+e	s	39
 başı	sergey	39
 rını	t	39
 atatürk	bibliotekasında	39
@@ -1534,7 +1550,6 @@ sı	gerek	39
 on	çaktı	39
 seni	menen	39
 jok	dep	39
-degen	oy	39
 ötpöy	ele	39
 andreas	apk	39
 mister	bruk	39
@@ -1545,13 +1560,14 @@ fetiş	escort	39
 türbanlı	escort	39
 kendi	evinde	39
 z	ç	38
-n	sür	38
 sonuna	kadar	38
 göre	yüzde	38
+emlak	verg	38
 nı	s	38
 ı	ş	38
 bu	sezon	38
 yaxud	da	38
+aynı	zamanda	38
 yapılan	açıklamada	38
 r	u	38
 primarı	sergey	38
@@ -1561,15 +1577,14 @@ n	küçük	38
 insannar	da	38
 bu	süreçte	38
 halk	topluşunda	38
+biri	olan	38
 topluşu	başı	38
 biz	bir	38
 hem	valkaneş	38
 biz	taa	38
-pek	az	38
 r	çık	38
 le	ç	38
 ağamähämmäd	şah	38
-k	ort	38
 bir	başqa	38
 liţeyin	direktoru	38
 rı	m	38
@@ -1585,6 +1600,7 @@ s	v	38
 hem	nicä	38
 ç	y	38
 bir	tarafta	38
+nı	h	38
 terör	örgütler	38
 ama	onnar	38
 tını	k	38
@@ -1605,6 +1621,7 @@ bir	tuugan	38
 turgan	boldu	38
 bir	jagınan	38
 çınında	ele	38
+degen	oy	38
 forma	giyen	38
 bir	çeti	38
 evinde	escort	38
@@ -1613,6 +1630,8 @@ alisa	menen	38
 şk	f	38
 dooru	hem	37
 edir	ki	37
+ilk	däfä	37
+n	sür	37
 olduğu	k	37
 türk	dili	37
 şindiki	zamanda	37
@@ -1639,13 +1658,13 @@ ama	en	37
 devlet	universitetindä	37
 bu	yardım	37
 nde	konuştu	37
-yılın	hederlez	37
 bän	dä	37
-pay	alannar	37
 eri	aldı	37
 gagauziyanın	regional	37
+pek	az	37
 ani	pek	37
 n	tekn	37
+k	ort	37
 tüm	düny	37
 vadim	çeban	37
 nicä	lääzım	37
@@ -1675,13 +1694,9 @@ bere	turgan	37
 jana	bir	37
 uşunu	menen	37
 turup	kaldı	37
-gagauziyanın	üüretim	37
 bu	uura	37
-özbek	escort	37
 anal	yapan	37
-eve	gelen	37
 adlı	bir	36
-ilk	däfä	36
 var	ki	36
 topluşun	başı	36
 ğ	b	36
@@ -1700,18 +1715,17 @@ le	h	36
 nız	b	36
 pek	üüsek	36
 uşak	başçaları	36
-ani	moldovada	36
 hem	radio	36
 sora	o	36
 da	oldu	36
 bir	gagauz	36
 hem	iş	36
 saa	olsun	36
+yılın	hederlez	36
 çok	işlär	36
 nicä	bildirdi	36
+pay	alannar	36
 hem	oyun	36
-yılın	harman	36
-hem	aaraştırma	36
 gagauz	respublikasını	36
 nın	s	36
 şindiki	zaman	36
@@ -1754,13 +1768,14 @@ belli	ettilär	36
 bargan	sayın	36
 özün	özü	36
 bolgondon	kiyin	36
+gagauziyanın	üüretim	36
 r	yol	36
+eve	gelen	36
 nı	zamanda	35
 bu	l	35
 fade	ed	35
 eden	b	35
 bununla	da	35
-k	ett	35
 n	el	35
 köp	uzabay	35
 le	türk	35
@@ -1773,6 +1788,7 @@ y	kol	35
 gagauz	yeri	35
 taa	başka	35
 daha	ön	35
+ani	moldovada	35
 onnar	pek	35
 bu	zor	35
 kayıp	olan	35
@@ -1781,6 +1797,8 @@ hem	politika	35
 n	doğ	35
 taa	iki	35
 iki	yıl	35
+yılın	harman	35
+hem	aaraştırma	35
 hem	çadır	35
 evropa	birliin	35
 nicä	açıkladı	35
@@ -1789,12 +1807,10 @@ teklif	ediler	35
 başı	i̇van	35
 n	bulunduğu	35
 z	l	35
-ğını	b	35
 belli	eder	35
 için	kendi	35
 n	düny	35
 r	ek	35
-şükür	ederim	35
 k	o	35
 kurum	ve	35
 hepsi	insannar	35
@@ -1809,7 +1825,6 @@ adına	liţeyin	35
 cü	yıldan	35
 nı	recep	35
 p	s	35
-iddaa	bülteni	35
 ayagına	çeyin	35
 aldın	ala	35
 al	maga	35
@@ -1827,6 +1842,7 @@ söz	menen	35
 çıday	albay	35
 k	yılm	35
 kim	jok	35
+özbek	escort	35
 şk	sözl	35
 chp	genel	34
 ani	insan	34
@@ -1842,6 +1858,7 @@ r	i	34
 r	kısmı	34
 tek	b	34
 k	öz	34
+k	ett	34
 här	cür	34
 ün	menen	34
 bu	dönemde	34
@@ -1860,7 +1877,6 @@ sırasında	pay	34
 moldova	respublikasında	34
 dän	beeri	34
 bir	yortu	34
-ne	bu	34
 da	artık	34
 bir	açıklama	34
 büyük	bir	34
@@ -1879,6 +1895,7 @@ dimitriy	konstanti̇nov	34
 kasabasında	geçti	34
 ght	deputatı	34
 romın	hem	34
+ğını	b	34
 ü	ö	34
 şükür	etmää	34
 ne	m	34
@@ -1886,6 +1903,7 @@ n	topl	34
 leydän	zeedä	34
 deyni	o	34
 le	m	34
+şükür	ederim	34
 devam	ede	34
 söz	ks	34
 lääzım	taa	34
@@ -1897,6 +1915,7 @@ nden	f	34
 yı	y	34
 n	yüz	34
 rtluk	hizm	34
+iddaa	bülteni	34
 tek	maç	34
 buga	çeyin	34
 kaçan	gana	34
@@ -1922,7 +1941,6 @@ menen	çoguu	34
 bir	turup	34
 gagauziya	başkankası	34
 meraklı	hem	33
-cü	ildä	33
 hem	halklararası	33
 bilim	adamı	33
 rı	kull	33
@@ -1931,7 +1949,6 @@ maasuz	bu	33
 kimi	bir	33
 bu	kararı	33
 bir	başka	33
-darbe	g	33
 olduğunu	d	33
 son	yıll	33
 da	ona	33
@@ -1941,13 +1958,13 @@ nternet	s	33
 n	w	33
 hem	evropa	33
 türkiye	hem	33
-ani	moldovanın	33
 ani	uşaklar	33
 şükür	ederiz	33
 ani	bütün	33
 kendi	bakışlarını	33
 rşı	d	33
 hem	türlü	33
+ne	bu	33
 da	şindi	33
 vizit	zamanında	33
 türkiye	büükelçiliin	33
@@ -1972,7 +1989,6 @@ n	üç	33
 r	mı	33
 i̇yi̇	p	33
 moldovanın	baş	33
-yanı	sıra	33
 yı	k	33
 n	beş	33
 bir	keret	33
@@ -1992,12 +2008,12 @@ al	özün	33
 han	menen	33
 çını	menen	33
 jok	bolçu	33
-bora	beg	33
 kazan	beg	33
 android	oyun	33
 mister	lorens	33
 menen	dodo	33
 herbir	insanın	32
+cü	ildä	32
 var	hakı	32
 lääzım	olsunnar	32
 färqli	olaraq	32
@@ -2011,6 +2027,7 @@ n	geç	32
 var	olan	32
 m	de	32
 para	b	32
+darbe	g	32
 len	k	32
 çok	t	32
 daha	s	32
@@ -2024,7 +2041,7 @@ n	e	32
 ve	z	32
 çok	h	32
 birkaç	kerä	32
-s	t	32
+ani	moldovanın	32
 onun	adını	32
 gagauziya	için	32
 ğı	v	32
@@ -2046,7 +2063,6 @@ tombarlak	masa	32
 m	n	32
 n	üst	32
 n	on	32
-hem	yazıcı	32
 ö	ü	32
 ş	ç	32
 açıklamalarda	bulundu	32
@@ -2059,9 +2075,9 @@ bütün	dünneyä	32
 ani	diil	32
 gagauziya	bilim-aaraştırma	32
 nde	ve	32
+yanı	sıra	32
 iddaa	tahmin	32
 da	uşunday	32
-mına	oşol	32
 bolot	dep	32
 kanday	gana	32
 üçün	al	32
@@ -2078,6 +2094,7 @@ adamdar	menen	32
 s	d	32
 baş	neeti	32
 kendi	bakışını	32
+bora	beg	32
 gagauz	olan	32
 tura	kalıp	32
 bar	bolçu	32
@@ -2107,12 +2124,11 @@ uzun	b	31
 her	yılın	31
 nden	y	31
 moldovada	bulunan	31
-respublikasının	dışişleri	31
 için	biz	31
+s	t	31
 dä	türkiye	31
 da	vardı	31
 r	an	31
-neçin	ani	31
 bu	insannar	31
 gözledici	sovetin	31
 da	türkiye	31
@@ -2125,6 +2141,7 @@ komrat	hem	31
 f	d	31
 t	n	31
 dığı	b	31
+hem	yazıcı	31
 tüm	d	31
 p	y	31
 teklif	ederlär	31
@@ -2147,6 +2164,7 @@ bunu	d	31
 olup	olm	31
 dilinin	kullanmak	31
 beyrek	eydür	31
+mına	oşol	31
 al	emes	31
 jok	eken	31
 birok	sen	31
@@ -2170,7 +2188,6 @@ birok	da	31
 yılın	kirez	30
 yada	başka	30
 r	verd	30
-u	d	30
 bir	saat	30
 hem	ona	30
 ci	yıl	30
@@ -2192,6 +2209,7 @@ heydär	äliyev	30
 prezident	i̇lham	30
 deyni	hem	30
 f	k	30
+respublikasının	dışişleri	30
 hem	moldovan	30
 lk	d	30
 n	dört	30
@@ -2202,18 +2220,17 @@ zerä	o	30
 bir	gözäl	30
 zerä	bu	30
 o	iş	30
+neçin	ani	30
 olsun	deyni	30
 ama	onun	30
 yazıcılar	birlii	30
 yapıldı	hem	30
 ön	plana	30
-stepan	topal	30
 hem	onu	30
 bilim	adamnarı	30
 hem	iki	30
 da	d	30
 n	j	30
-devlet	devrimi	30
 l	bir	30
 dä	komratta	30
 ani	herbir	30
@@ -2257,7 +2274,6 @@ a	sen	30
 bolup	jatkan	30
 karap	turgan	30
 at	menen	30
-ünü	menen	30
 daroo	ele	30
 küngö	çeyin	30
 koygon	jok	30
@@ -2273,12 +2289,12 @@ gün	əvvəl	30
 alıkul	osmonovdun	30
 bu	çok	29
 lduğunu	b	29
+u	d	29
 çiçek	koydular	29
 korumaa	hem	29
 yardımcı	olmaa	29
 mövcud	olan	29
 olur	ki	29
-anmak	taşı	29
 r	çözüm	29
 nicä	taa	29
 yıla	kadar	29
@@ -2301,7 +2317,6 @@ yılın	kırım	29
 kazayak	küüyündä	29
 nç	b	29
 bu	işin	29
-üç	gün	29
 kle	b	29
 dä	olsa	29
 r	ülk	29
@@ -2319,11 +2334,13 @@ pek	paalı	29
 her	kerä	29
 bu	vakıdın	29
 vakıdın	içindä	29
+stepan	topal	29
 insan	var	29
 i	v	29
 bir	t	29
 l	r	29
 rı	bu	29
+devlet	devrimi	29
 ilä	baðlý	29
 komisiyasının	başı	29
 laf	gider	29
@@ -2364,10 +2381,9 @@ birok	bir	29
 es	alıp	29
 jana	bul	29
 er	jürök	29
-oşol	jerde	29
 köz	aldına	29
 anın	sözün	29
-eñ	çoñ	29
+ünü	menen	29
 alar	da	29
 bul	iş	29
 el	menen	29
@@ -2384,10 +2400,10 @@ nä	dä	28
 kimi	qäbul	28
 yox	idi	28
 idi	ki	28
-yeni	sezon	28
 odur	ki	28
 här	käsin	28
 r	zaman	28
+anmak	taşı	28
 ölä	nicä	28
 en	anılmış	28
 biraz	taa	28
@@ -2408,8 +2424,8 @@ azär	häsrätin	28
 kendi	sözündä	28
 bir	tarafa	28
 i̇gor	dodonun	28
+üç	gün	28
 n	kötü	28
-ne	dä	28
 r	ara	28
 ama	açan	28
 a	v	28
@@ -2440,9 +2456,9 @@ karşı	karşıya	28
 bu	kez	28
 cümne	birliin	28
 son	dakika	28
+ş	ş	28
 hemtaa	derindän	28
 p	f	28
-ben	de	28
 r	öz	28
 r	ürün	28
 ekaterina	jekova	28
@@ -2464,7 +2480,6 @@ tkı	s	28
 bir	metod	28
 çiftçilik	uurunda	28
 onnar	lääzım	28
-n	kurulu	28
 ki	bizim	28
 lı	ol	28
 moldovanın	gagauz	28
@@ -2481,10 +2496,11 @@ ar	kim	28
 da	bul	28
 neçe	kün	28
 boldu	da	28
-emes	eken	28
 al	eç	28
 sen	emne	28
 kim	ekenin	28
+oşol	jerde	28
+eñ	çoñ	28
 dep	oylogon	28
 gönüllüler	t	28
 tuura	kelet	28
@@ -2493,7 +2509,6 @@ aç	köz	28
 da	anı	28
 bir	azga	28
 emi	bul	28
-bolgon	emes	28
 bir	kün	28
 moñgol	askerleri	28
 olan	baş	28
@@ -2501,7 +2516,6 @@ baş	bakannıın	28
 prokuroru	aleksandr	28
 andreas	indir	28
 baş	iykep	28
-prezidentı	maya	28
 març	jeñe	28
 gideri	açan	28
 taptakır	ele	28
@@ -2509,16 +2523,19 @@ ama	pek	27
 da	pay	27
 bu	ilk	27
 devlet	tarafından	27
+yeni	sezon	27
 ile	ilgili	27
 k	dön	27
 her	ne	27
 içindä	var	27
 nikolay	baboglu	27
+ana	dilim	27
 n	kı	27
 t	bu	27
 vä	ona	27
 olan	här	27
 vä	än	27
+yılda	o	27
 k	belges	27
 n	değer	27
 m	r	27
@@ -2534,6 +2551,7 @@ dä	moldovanın	27
 r	alan	27
 evropa	birlii	27
 t	ş	27
+ne	dä	27
 o	diil	27
 lık	b	27
 bu	durumun	27
@@ -2565,10 +2583,10 @@ hem	açık	27
 durumu	için	27
 hem	türkiyenin	27
 çok	para	27
-bitki	yıllar	27
 s	m	27
 nı	y	27
 e	a	27
+ben	de	27
 çiftçilik	hem	27
 nı	t	27
 pay	alêrlar	27
@@ -2595,6 +2613,7 @@ da	yardım	27
 kez	d	27
 rını	g	27
 biri	da	27
+n	kurulu	27
 yor	v	27
 lääzım	bu	27
 en	kaavi	27
@@ -2602,7 +2621,6 @@ tlı	b	27
 sı	pl	27
 böönkü	gündä	27
 sı	gereken	27
-sovet	soţialist	27
 n	at	27
 hânum	ne	27
 tuura	keldi	27
@@ -2611,6 +2629,7 @@ maanige	ee	27
 kerek	bolso	27
 oşondo	gana	27
 uşul	uçurda	27
+emes	eken	27
 üygö	kirip	27
 dep	kıykırdı	27
 sen	üçün	27
@@ -2623,8 +2642,10 @@ dem	alıp	27
 boluu	kerek	27
 anın	bul	27
 boldu	ele	27
+bolgon	emes	27
 bolot	da	27
 men	dagı	27
+prezidentı	maya	27
 teklif	edilän	27
 yapı	denet	27
 polli	taeje	27
@@ -2638,7 +2659,6 @@ kultura	merkezi	26
 hem	bizim	26
 çok	zaamet	26
 ve	güvenl	26
-yılda	o	26
 göz	önünde	26
 yıl	oldu	26
 altını	ç	26
@@ -2662,7 +2682,6 @@ sı	beklen	26
 i̇lham	äliyev	26
 kişidän	zeedä	26
 aldılar	moldova	26
-bakanı	mevlüt	26
 hem	rus	26
 genç	gagauz	26
 cı	yıldan	26
@@ -2712,12 +2731,12 @@ için	en	26
 da	bölä	26
 insannara	deyni	26
 zerä	onnar	26
+bitki	yıllar	26
 mariya	maruneviç	26
 sını	t	26
 bir	halk	26
 de	f	26
 hem	nesoy	26
-ilk	hem	26
 n	onl	26
 bu	proektın	26
 ci	uşak	26
@@ -2738,14 +2757,14 @@ o	günkü	26
 n	ekonom	26
 başı	mihail	26
 sının	y	26
-çok	uşak	26
+n	sekmen	26
 işini	götürän	26
+soylamış	görelüm	26
 para	çekme	26
 iddaa	tek	26
 bolgon	eken	26
 anı	eç	26
 kantken	menen	26
-emne	degen	26
 ele	go	26
 a	eger	26
 kirip	keldi	26
@@ -2763,7 +2782,6 @@ menen	bolgon	26
 azır	al	26
 bütköndön	kiyin	26
 milli	birlik	26
-iddaa	canli	26
 indi	jo	26
 i̇van	mironov	26
 da	bütün	25
@@ -2774,7 +2792,6 @@ onun	bu	25
 uzun	müddät	25
 vä	hätta	25
 da	ondan	25
-n	kırmızı	25
 kırmızı	k	25
 uzun	zaman	25
 üüredicilik	upravleniyası	25
@@ -2804,13 +2821,12 @@ i̇spolkom	predsedatelin	25
 serginin	açılışında	25
 hem	meraklı	25
 hem	televideniye	25
-n	seç	25
 da	mümkün	25
 bunu	yapmaa	25
 e	t	25
 moldova	respublikası	25
 yıldönümünnän	ilgili	25
-mevlüt	çavuşoğlu	25
+bakanı	mevlüt	25
 için	gagauz	25
 bir	payını	25
 vä	buna	25
@@ -2821,7 +2837,6 @@ zı	d	25
 e	bu	25
 r	ür	25
 milli	teatrusunun	25
-uşaklar	hem	25
 may	hepsi	25
 da	ölä	25
 da	genä	25
@@ -2833,7 +2848,6 @@ küçük	bir	25
 kultura	upravleniyasının	25
 parlamentın	deputatı	25
 üüredicilik	hem	25
-için	karar	25
 korumak	için	25
 çadır	dolayın	25
 arasında	vardı	25
@@ -2847,13 +2861,11 @@ gagauziya	başkanına	25
 bu	oldu	25
 esaba	alarak	25
 su	hem	25
-ı	da	25
 k	kr	25
 deyni	da	25
 şindi	sa	25
 a	g	25
 ilk	gagauz	25
-n	gör	25
 hem	ilk	25
 neredä	var	25
 küüyün	kultura	25
@@ -2871,6 +2883,7 @@ n	genç	25
 er	alan	25
 de	türk	25
 akademik	hem	25
+ilk	hem	25
 moldova	kuvetleri	25
 diil	dooru	25
 m	edecek	25
@@ -2881,7 +2894,6 @@ sora	söz	25
 gagauziyada	var	25
 mümkün	değ	25
 sı	gerekt	25
-üst	üste	25
 t	ett	25
 y	aa	25
 ğı	g	25
@@ -2900,13 +2912,13 @@ sı	neden	25
 o	ş	25
 gagauziya	m	25
 cı	v	25
+çok	uşak	25
 bu	sport	25
 remont	işleri	25
-ğı	d	25
 mehmet	sekmen	25
 rüs	s	25
-nread	more	25
 r	düny	25
+sovet	soţialist	25
 sıra	gelyer	25
 dedi	kazan	25
 onu	lääzım	25
@@ -2917,7 +2929,7 @@ karadı	da	25
 jıl	murda	25
 men	azır	25
 kala	berdi	25
-birok	biz	25
+emne	degen	25
 boldu	eken	25
 eñ	akırkı	25
 berdi	da	25
@@ -2927,7 +2939,6 @@ rı	neden	25
 ötüp	ketti	25
 alıp	çıktı	25
 bir	ese	25
-dagı	ele	25
 jatkan	eken	25
 el	üçün	25
 sarı	kırmızılı	25
@@ -2940,6 +2951,7 @@ nicä	nışannadı	25
 dinnenmäk	günnerindä	25
 aleksandr	tarnavskiy	25
 lääzım	olacȇk	25
+iddaa	canli	25
 petr	nikolaiç	25
 olduu	için	24
 çok	sayıda	24
@@ -2951,6 +2963,7 @@ insanın	var	24
 da	insan	24
 mümkün	deyil	24
 dä	olan	24
+n	kırmızı	24
 bir	örnek	24
 r	düz	24
 çevre	ve	24
@@ -2975,14 +2988,17 @@ yakın	zamanda	24
 bet	alıp	24
 bütün	gün	24
 n	ülk	24
+n	seç	24
 klı	b	24
-dışişleri	bakanı	24
+mevlüt	çavuşoğlu	24
 hem	üüredicilär	24
 uzun	bir	24
 ani	ileri	24
+uşaklar	hem	24
 moldovanın	anılmış	24
 da	olacek	24
 lı	k	24
+r	mu	24
 herbir	uurda	24
 yılın	çiçek	24
 bu	dünnedä	24
@@ -2991,6 +3007,7 @@ gagauziya	üüredicilik	24
 üüredicilik	upravleniyasının	24
 neettä	var	24
 üülendän	sora	24
+için	karar	24
 çalışması	için	24
 kutluca	olsun	24
 o	h	24
@@ -3008,6 +3025,7 @@ nadir	xan	24
 saa	olsunnar	24
 rı	z	24
 t	üz	24
+ı	da	24
 uzun	süred	24
 ama	nicä	24
 uşak	başçalarına	24
@@ -3016,6 +3034,7 @@ ay	geeri	24
 ç	h	24
 bütün	moldovada	24
 rın	ç	24
+n	gör	24
 moldova	üüredicilik	24
 r	da	24
 rın	m	24
@@ -3037,11 +3056,11 @@ onnar	kendi	24
 bu	ol	24
 tarafından	hazırlanan	24
 gagauziyanın	kıymetli	24
-kultura	evi	24
 upravleniyasının	başı	24
 okadar	çok	24
 v	b	24
 eni	iş	24
+üst	üste	24
 la	b	24
 lduğunu	d	24
 s	y	24
@@ -3063,9 +3082,10 @@ ek	ve	24
 büyük	m	24
 için	annattı	24
 ani	siz	24
-kızıl	ay	24
 zor	durumda	24
+ğı	d	24
 n	or	24
+nread	more	24
 göreve	b	24
 ag	sakallu	24
 programı	indir	24
@@ -3075,7 +3095,7 @@ oşol	uçurda	24
 joop	berip	24
 üçün	men	24
 emi	men	24
-kabıl	alıp	24
+birok	biz	24
 emi	emne	24
 jönündö	da	24
 al	dayıma	24
@@ -3093,9 +3113,9 @@ degen	emne	24
 yıl	önce	24
 özünçö	bir	24
 jañı	gana	24
+dagı	ele	24
 mümkün	boluşunça	24
 bir	jakşı	24
-sezon	için	24
 degen	at	24
 uluu	sepildin	24
 kök	jal	24
@@ -3112,7 +3132,6 @@ z	sez	24
 çakir	adına	24
 ilk	sıra	24
 hızlı	medik	24
-andrey	dimitroglo	24
 dedi	beyrek	24
 delü	karçar	24
 jada	kalsa	24
@@ -3123,6 +3142,7 @@ bir	pastan	24
 sol	k	24
 lk	dokuz	24
 temir	bayke	24
+g	tv	24
 zımba	ristu	24
 kötülük	y	24
 bir	türk	23
@@ -3156,6 +3176,7 @@ cümne	kompaniyasının	23
 k	doğru	23
 lan	b	23
 ci	yıldönümünnän	23
+dışişleri	bakanı	23
 r	önc	23
 dışişleri	hem	23
 hem	evropaya	23
@@ -3220,7 +3241,10 @@ bu	problema	23
 aldılar	gagauziyanın	23
 r	öğr	23
 nasaat	etti	23
+kultura	evi	23
+dalı	harekatı	23
 terör	örgütünün	23
+an	b	23
 e	cumhur	23
 özür	d	23
 bu	yılkı	23
@@ -3239,8 +3263,8 @@ istoriyası	için	23
 n	topr	23
 bu	önemni	23
 r	neden	23
+kızıl	ay	23
 dedä	korkut	23
-moldova	parlamentin	23
 hem	ilerletmää	23
 ne	yönel	23
 başı	svetlana	23
@@ -3248,6 +3272,8 @@ bayan	s	23
 st	k	23
 gelän	yıla	23
 k	her	23
+ne	soylamış	23
+soylamış	eydür	23
 agam	kazan	23
 n	beled	23
 m	kurull	23
@@ -3257,6 +3283,7 @@ bul	da	23
 men	öz	23
 jana	ar	23
 közdön	kayım	23
+kabıl	alıp	23
 künü	keçinde	23
 kiyin	da	23
 emne	boldu	23
@@ -3279,7 +3306,6 @@ biz	anı	23
 menin	da	23
 biz	üçün	23
 çıga	turgan	23
-oy	menen	23
 sen	anı	23
 takımı	ile	23
 alar	üçün	23
@@ -3290,13 +3316,14 @@ basıp	ketti	23
 mına	mınday	23
 menen	süylöşüp	23
 kelgenden	kiyin	23
-ak	köñül	23
+sezon	için	23
 köp	ele	23
 z	c	23
 takımında	forma	23
 k	ek	23
 dostluk	sözl	23
 n	söyl	23
+andrey	dimitroglo	23
 yatan	kara	23
 dede	korkut	23
 aleksandr	stoyanogluyu	23
@@ -3335,7 +3362,6 @@ s	ed	22
 k	durm	22
 r	yen	22
 r	uygul	22
-bilär	ki	22
 sonra	isä	22
 r	üzer	22
 güney	qafqaz	22
@@ -3348,7 +3374,6 @@ türk	t	22
 durum	d	22
 nde	bulun	22
 iki	gün	22
-ilä	birlikdä	22
 adetlerini	hem	22
 ç	ve	22
 r	tut	22
@@ -3371,7 +3396,6 @@ gagauzlara	karşı	22
 neçin	sa	22
 başı	hem	22
 taa	tez	22
-o	uzak	22
 bu	haber	22
 kayıl	oldular	22
 için	maasuz	22
@@ -3429,7 +3453,6 @@ dığı	g	22
 ze	b	22
 n	terör	22
 ve	dış	22
-ç	olm	22
 düzmää	deyni	22
 o	y	22
 s	bedel	22
@@ -3449,6 +3472,7 @@ geçen	yılın	22
 sı	üzer	22
 bu	problemayı	22
 üüretim	bakannıın	22
+moldova	parlamentin	22
 uygun	olm	22
 p	olur	22
 rt	k	22
@@ -3472,12 +3496,12 @@ abdan	sonun	22
 kün	da	22
 üçün	gana	22
 dele	jok	22
-bul	emne	22
 bergen	jok	22
 azırkıga	çeyin	22
 ele	koy	22
 al	jerge	22
 anan	dagı	22
+oy	menen	22
 dı	ve	22
 oşol	kezdegi	22
 anın	artınan	22
@@ -3501,6 +3525,7 @@ uşunun	baarı	22
 jüz	miñ	22
 jebe	menen	22
 bolo	tüştü	22
+ak	köñül	22
 karar	ver	22
 bakışına	görä	22
 erli	kuvetlär	22
@@ -3516,7 +3541,6 @@ antkeni	menen	22
 pastan	kiyin	22
 doğru	d	22
 tezek	miti	22
-bütün	yaşamasını	21
 dığı	h	21
 pay	alannara	21
 görä	o	21
@@ -3544,17 +3568,18 @@ dä	hämin	21
 mart	ayında	21
 ını	b	21
 z	bir	21
-ancak	bu	21
 olduğunu	vurgul	21
 için	k	21
 bu	uygul	21
 n	yoğun	21
+bilär	ki	21
 o	vaxt	21
 n	günlük	21
 olan	b	21
 se	şu	21
 a	n	21
 onun	bir	21
+ilä	birlikdä	21
 adı	verildi	21
 bir	eni	21
 ani	iki	21
@@ -3581,6 +3606,7 @@ da	açan	21
 ama	çok	21
 bu	sıra	21
 taa	ilk	21
+o	uzak	21
 da	üç	21
 bu	yolda	21
 hem	dou	21
@@ -3592,6 +3618,7 @@ p	h	21
 n	ürünl	21
 festivaldä	pay	21
 gagauzların	en	21
+lı	d	21
 k	güz	21
 şindiyä	kadar	21
 cana	yakın	21
@@ -3651,6 +3678,7 @@ bu	soruşa	21
 ve	tur	21
 se	m	21
 ne	geld	21
+ç	olm	21
 sın	topl	21
 kulturası	hem	21
 n	gerçekleşt	21
@@ -3667,10 +3695,8 @@ nicä	olacek	21
 ret	ett	21
 bu	sır	21
 son	yıllarda	21
-olsun	kolaylık	21
 ana	sözu	21
 üncü	m	21
-y	m	21
 n	önün	21
 seçim	komisiyasının	21
 lyon	euro	21
@@ -3697,6 +3723,7 @@ bir	juma	21
 jardam	berip	21
 azır	bolso	21
 anın	orduna	21
+bul	emne	21
 jana	öz	21
 kerek	ekenin	21
 anın	da	21
@@ -3751,9 +3778,11 @@ lavabo	açma	21
 sahadan	iddaa	21
 yet	b	21
 sitka	çarli	21
+türk	telekom	21
 dedi	maksat	21
 marya	dmitrievna	21
 o	kendi	20
+bütün	yaşamasını	20
 gün	k	20
 kendisi	da	20
 daha	böyük	20
@@ -3766,7 +3795,6 @@ var	hepsi	20
 täbii	ki	20
 tüm	k	20
 gagauz	türküsü	20
-e	kadar	20
 k	gerek	20
 ri	b	20
 n	yol	20
@@ -3785,13 +3813,12 @@ h	ett	20
 on	b	20
 f	h	20
 bu	vä	20
-ya	digär	20
 r	dışınd	20
 n	özell	20
+ancak	bu	20
 i̇şte	bu	20
 bunun	da	20
 dä	çox	20
-arasında	bir	20
 vä	güney	20
 olan	vä	20
 nde	türk	20
@@ -3933,7 +3960,9 @@ geçen	sene	20
 l	güvenl	20
 de	bır	20
 başka	devletlerdä	20
+olsun	kolaylık	20
 z	gerek	20
+y	m	20
 onun	y	20
 n	sık	20
 ani	büük	20
@@ -3952,6 +3981,7 @@ r	ekonom	20
 mış	ol	20
 semön	pometko	20
 t	çek	20
+burada	soylamış	20
 bakdı	gördi	20
 iddaa	en	20
 köz	salıp	20
@@ -3968,8 +3998,6 @@ köñül	burbay	20
 menen	karap	20
 bir	eki	20
 degen	kabar	20
-mümkün	bolbogon	20
-kelgen	soñ	20
 kündön	kiyin	20
 emi	gana	20
 kanday	jakşı	20
@@ -4031,6 +4059,7 @@ gagauz	folklorunu	19
 izmir	escort	19
 çünkü	k	19
 bilgiler	verilmektedir	19
+e	kadar	19
 n	düşm	19
 bu	däfä	19
 bir	yerdä	19
@@ -4040,7 +4069,7 @@ bir	işi	19
 r	söz	19
 ilä	mäşğul	19
 bunun	n	19
-ne	a	19
+ya	digär	19
 h	edeb	19
 uzun	z	19
 en	ön	19
@@ -4050,6 +4079,7 @@ nail	olmaq	19
 heç	kimin	19
 olarak	k	19
 saat	on	19
+arasında	bir	19
 qafqaz	söz	19
 sädri	azär	19
 ve	abd	19
@@ -4110,7 +4140,6 @@ a	r	19
 ani	ozaman	19
 çok	m	19
 r	göz	19
-izmet	eder	19
 su	b	19
 hem	ikinci	19
 bu	sa	19
@@ -4127,7 +4156,6 @@ hem	büünkü	19
 bu	kiyatta	19
 çünkü	onnar	19
 yazıcı	hem	19
-yıl	için	19
 komratta	türkiye	19
 rı	p	19
 bendä	var	19
@@ -4138,7 +4166,6 @@ amerika	birleşik	19
 sevgi	hem	19
 ama	hepsi	19
 muzeyin	direktoru	19
-yardımcı	oldular	19
 tomay	küüyün	19
 da	ç	19
 ş	l	19
@@ -4162,7 +4189,6 @@ bu	yortunun	19
 yle	t	19
 h	ç	19
 k	bunu	19
-n	şeh	19
 nlış	b	19
 n	dev	19
 ama	kimi	19
@@ -4177,7 +4203,6 @@ r	hem	19
 gün	d	19
 ş	p	19
 fade	ederek	19
-v	y	19
 i̇ki	yıl	19
 r	ü	19
 göz	önünd	19
@@ -4186,7 +4211,6 @@ cumhurbaşkanı	erd	19
 yı	pl	19
 n	afr	19
 l	z	19
-n	oluşur	19
 ne	geç	19
 konut	s	19
 küülerin	hem	19
@@ -4253,10 +4277,11 @@ uşul	sıyaktuu	19
 aytıp	bergen	19
 bul	menin	19
 men	emi	19
-anın	janına	19
 ançalık	dele	19
 albay	turgan	19
 birok	oşol	19
+mümkün	bolbogon	19
+kelgen	soñ	19
 kiyin	anı	19
 sen	özüñ	19
 kelgen	ele	19
@@ -4347,6 +4372,7 @@ daha	çok	18
 açıq	şäkildä	18
 n	duruml	18
 ev	k	18
+ne	a	18
 r	durumdur	18
 n	boş	18
 da	s	18
@@ -4413,6 +4439,7 @@ säbäb	olur	18
 ani	gagauzların	18
 yın	h	18
 ğını	d	18
+izmet	eder	18
 bir	yıldan	18
 plana	görä	18
 büük	gagauz	18
@@ -4430,6 +4457,7 @@ ortak	bir	18
 bir	iz	18
 şkolasının	direktoru	18
 izmet	edän	18
+yıl	için	18
 çok	gözäl	18
 dış	işleri	18
 daha	d	18
@@ -4452,6 +4480,7 @@ onun	ardına	18
 kiyadın	prezentaţiyası	18
 adına	pedagogika	18
 pedagogika	kolecın	18
+yardımcı	oldular	18
 hemen	hemen	18
 k	dağıtım	18
 aydan	sora	18
@@ -4473,6 +4502,7 @@ bu	işlerä	18
 nikolae	ti̇mofti̇	18
 sın	t	18
 r	bur	18
+n	şeh	18
 de	p	18
 n	onu	18
 çık	b	18
@@ -4485,7 +4515,6 @@ bir	bilim	18
 ş	müşt	18
 bu	olaya	18
 baş	meydanında	18
-yıl	biz	18
 ye	t	18
 taa	ötää	18
 n	fenerb	18
@@ -4500,13 +4529,13 @@ başka	iş	18
 en	k	18
 aptığı	açıklamada	18
 genel	merkez	18
-kurulu	t	18
 olumlu	b	18
 e	devam	18
 yıl	o	18
 şindiya	kadar	18
 en	y	18
 h	d	18
+v	y	18
 hem	adetleri	18
 ş	olduğu	18
 adına	komrat	18
@@ -4515,6 +4544,7 @@ len	açıklamada	18
 işi	yapmaa	18
 ne	karşı	18
 oldu	gagauz	18
+n	oluşur	18
 eni	yıla	18
 yerel	seç	18
 ani	halk	18
@@ -4526,7 +4556,6 @@ k	düz	18
 hem	romın	18
 nu	d	18
 ğer	b	18
-t	l	18
 yle	k	18
 hem	regional	18
 yet	ve	18
@@ -4547,13 +4576,12 @@ yıl	d	18
 prezidenti	i̇gor	18
 ğer	y	18
 k	istiy	18
-r	söyl	18
+n	mu	18
 bütün	bunl	18
 n	üçüncü	18
 yı	g	18
 n	sıc	18
 rektörü	prof	18
-komitetin	azaları	18
 geniş	ekran	18
 mobil	iddaa	18
 oşol	üçün	18
@@ -4571,13 +4599,13 @@ joop	bergen	18
 ansız	da	18
 jatkan	ele	18
 munun	özü	18
-üçün	ötö	18
 eger	men	18
 da	tuura	18
 anan	alar	18
 nerse	bar	18
 oturdu	da	18
 bere	albay	18
+anın	janına	18
 jana	eñ	18
 jok	jana	18
 ketken	soñ	18
@@ -4616,7 +4644,6 @@ erteñ	menenki	18
 birinçi	bolup	18
 kim	menen	18
 sınıf	kur	18
-yılların	süresindä	18
 bu	kurumun	18
 teknik	direktör	18
 bu	proekti	18
@@ -4649,7 +4676,6 @@ xäzär	xäbär	18
 n	hubbl	18
 ev	saabileri	17
 olur	mu	17
-qäbul	etdi	17
 bir	ev	17
 ci	ildän	17
 rus	dilini	17
@@ -4661,7 +4687,6 @@ gün	için	17
 doğrudan	da	17
 yılda	da	17
 m	ede	17
-s	ve	17
 göz	k	17
 için	kull	17
 mihail	formuzalın	17
@@ -4691,11 +4716,11 @@ r	başka	17
 zde	b	17
 dä	här	17
 bu	barädä	17
+k	değ	17
 olduğu	d	17
 ye	ed	17
 o	saat	17
 bu	ürünl	17
-n	dere	17
 göz	önüne	17
 siz	dä	17
 etdi	ki	17
@@ -4720,7 +4745,6 @@ aid	olan	17
 de	g	17
 tüm	s	17
 pek	talantlı	17
-o	yılın	17
 i̇van	burgucu	17
 ali	şami̇l	17
 bilim	uurunda	17
@@ -4760,6 +4784,7 @@ gagauz	bilim	17
 insannara	yardım	17
 küçük	v	17
 güzel	ve	17
+e	de	17
 bir	vizitlan	17
 etti	türkiye	17
 moldova	dışişleri	17
@@ -4793,7 +4818,6 @@ bir	v	17
 ile	birlikte	17
 birlii	hem	17
 tarafından	verilän	17
-da	uşaklar	17
 ü	ç	17
 türk	h	17
 ama	onnarı	17
@@ -4813,6 +4837,7 @@ türkiye	respublikasında	17
 ne	uygun	17
 dä	çadır	17
 da	büün	17
+yıl	biz	17
 gagauz	erin	17
 n	kurb	17
 tı	y	17
@@ -4821,15 +4846,14 @@ yardım	ederiz	17
 pay	alsın	17
 ı	ç	17
 sı	ç	17
-respublikasının	üüsek	17
 gagauz	erinä	17
+kurulu	t	17
 büün	bu	17
 ks	y	17
 f	a	17
 hçb	vayt	17
 da	gider	17
 a	devam	17
-ve	sur	17
 le	mü	17
 gündeme	get	17
 karşı	karşı	17
@@ -4865,6 +4889,7 @@ bizim	ana	17
 l	at	17
 merkez	b	17
 ne	değ	17
+t	l	17
 t	çekt	17
 bütün	kuvedini	17
 hem	insan	17
@@ -4885,6 +4910,7 @@ bu	sene	17
 r	dev	17
 evlat	boylarına	17
 n	sosy	17
+n	kur	17
 sı	üz	17
 kiriyet	küüyün	17
 onnar	bu	17
@@ -4903,6 +4929,7 @@ da	nicä	17
 n	koc	17
 en	kıs	17
 y	ve	17
+r	söyl	17
 k	tesp	17
 parlamentin	deputatı	17
 rı	çok	17
@@ -4911,11 +4938,11 @@ bizdä	yok	17
 dmitriy	kara	17
 adına	gimnaziyasında	17
 ekonomika	uurunda	17
+komitetin	azaları	17
 nız	s	17
 taş	oguz	17
 bir	aydan	17
 bu	yoldan	17
-gagauz	avtonom	17
 k	en	17
 birok	alardın	17
 kimdir	biröönün	17
@@ -4934,6 +4961,7 @@ dep	eseptegen	17
 mınday	degen	17
 köz	aldında	17
 makul	boldu	17
+üçün	ötö	17
 al	jakta	17
 berdi	ele	17
 es	aluu	17
@@ -4975,7 +5003,6 @@ da	çoñ	17
 çıgıp	turgan	17
 jan	jok	17
 janına	kelip	17
-bara	jattı	17
 başın	iykep	17
 kelip	turat	17
 körünüp	turat	17
@@ -4992,14 +5019,13 @@ jok	boldu	17
 dep	oylodum	17
 başı	menen	17
 z	olur	17
-avtonom	sovet	17
+yılların	süresindä	17
 gökteki	padişahlaa	17
 çiftçilik	bakannıın	17
 n	i̇ng	17
 natalya	kristeva	17
 karşu	geldi	17
 kazan	begüñ	17
-bu	anmak	17
 eki	jagın	17
 degende	bir	17
 jakın	jerde	17
@@ -5011,12 +5037,10 @@ türk	dünnesinin	17
 uygar	mustafa	17
 al	abdan	17
 bul	abdan	17
-bu	sayede	17
 literaturasında	üürediciyka	17
 da	dedi	17
 iddaa	siteleri	17
 biten	maçlar	17
-tiktep	turdu	17
 bir	pas	17
 suu	menen	17
 var	nic	17
@@ -5029,6 +5053,7 @@ bir	eski	16
 bir	kultura	16
 köklü	anılmış	16
 här	gün	16
+qäbul	etdi	16
 altı	ay	16
 män	bu	16
 bundan	başka	16
@@ -5036,6 +5061,7 @@ görä	hem	16
 hepsi	uşaklar	16
 azärbaycan	milli	16
 vä	hämin	16
+s	ve	16
 moldovada	yaşayan	16
 ı	l	16
 bir	dil	16
@@ -5049,11 +5075,11 @@ rı	ş	16
 äbu	süfyan	16
 bu	işdä	16
 allahdan	başqa	16
+rt	d	16
 r	yaşam	16
 konut	ve	16
 nde	bulunan	16
 ayına	göre	16
-sona	erd	16
 m	kur	16
 nden	bu	16
 bu	vaxt	16
@@ -5076,13 +5102,13 @@ daxil	olmaqla	16
 n	tük	16
 genel	olarak	16
 konut	f	16
+n	dere	16
 olması	gerek	16
 vä	burada	16
 amma	bu	16
 de	kend	16
 olduğu	bel	16
 yer	aldığı	16
-ğer	t	16
 doğum	günü	16
 üçün	öz	16
 türkiye	respublikasına	16
@@ -5096,7 +5122,6 @@ alış-veriş	hem	16
 buluşmadan	sora	16
 r	kısmını	16
 lk	h	16
-bir	uurda	16
 bu	yıllarda	16
 gagauz	küülerindä	16
 deyni	gagauz	16
@@ -5107,6 +5132,7 @@ buluştu	türkiye	16
 iki	taraf	16
 hem	kongaz	16
 yıldönümünä	karşı	16
+o	yılın	16
 o	yıllarda	16
 gagauzlar	hem	16
 ardından	da	16
@@ -5157,7 +5183,6 @@ için	g	16
 ız	b	16
 de	en	16
 olacek	hem	16
-başbakanı	binali	16
 bu	akşam	16
 dünnä	kongresi	16
 komrat	kasabanın	16
@@ -5185,7 +5210,6 @@ ek	ç	16
 l	düz	16
 n	kurtul	16
 yı	h	16
-d	t	16
 gagauz	dilinnän	16
 k	olduğunu	16
 mış	b	16
@@ -5194,6 +5218,7 @@ bizä	bu	16
 moldova	bilimnär	16
 nız	v	16
 rçok	k	16
+da	uşaklar	16
 olsun	hem	16
 bilim	merkezin	16
 ylı	b	16
@@ -5206,6 +5231,7 @@ faydalı	olacek	16
 ğı	ve	16
 toplantıda	pay	16
 çok	önemli	16
+n	erzurum	16
 faydalı	hem	16
 ani	devlet	16
 çadır	rayonun	16
@@ -5231,6 +5257,7 @@ kultura	zaametçisi	16
 kultura	upravleniyası	16
 bütün	dünnä	16
 bu	lafları	16
+respublikasının	üüsek	16
 eğer	b	16
 anı	sıra	16
 rus	hem	16
@@ -5243,6 +5270,7 @@ r	ha	16
 biz	diil	16
 neçin	bu	16
 ani	onnarı	16
+ve	sur	16
 r	görüşme	16
 tamazlık	at	16
 başı	vasiliy	16
@@ -5265,7 +5293,6 @@ mı	t	16
 h	t	16
 n	geçt	16
 r	tehd	16
-cı	yıldönümünä	16
 iki	büük	16
 aaçlık	kurbannarın	16
 geçen	sez	16
@@ -5279,7 +5306,6 @@ büük	iş	16
 ne	neden	16
 r	ter	16
 ltere	prem	16
-k	adam	16
 e	n	16
 romın	dilindä	16
 onnarı	lääzım	16
@@ -5323,13 +5349,13 @@ herbir	işi	16
 respublikası	prezidentı	16
 doğum	günün	16
 sıl	d	16
+gagauz	avtonom	16
 l	genel	16
 canli	bahis	16
 iddaa	bayii	16
 iddaa	banko	16
 iddaa	mac	16
 canlı	sonuçlar	16
-bet	now	16
 iddaa	hazır	16
 canlı	skor	16
 bolsun	üçün	16
@@ -5385,6 +5411,7 @@ karmap	turgan	16
 anın	emne	16
 anın	ar	16
 dayar	turgan	16
+bara	jattı	16
 uzakka	sozulgan	16
 bara	turgan	16
 uşundan	kiyin	16
@@ -5406,16 +5433,18 @@ arañdan	zorgo	16
 n	cez	16
 nde	p	16
 bin	ektar	16
+avtonom	sovet	16
 bakannıın	başın	16
 önde	gelen	16
 angılarını	biz	16
 yıllık	sözleşme	16
 nın	f	16
 kendi	seslerini	16
-beg	eydür	16
 yarışmaklarda	pay	16
 baş	prokurorunu	16
 prokurorunu	aleksandr	16
+bu	anmak	16
+günü	ol	16
 teoretik	lițeyindä	16
 turuştuk	bere	16
 kündün	közü	16
@@ -5428,8 +5457,6 @@ sergey	zahariya	16
 işi	için	16
 ne	baalı	16
 nikolay	grahmez	16
-küüyün	yaşayanı	16
-başı	andrey	16
 mustafa	sertel	16
 gagauziya	komrat	16
 bakannıık	komiteti	16
@@ -5439,6 +5466,7 @@ bir	kızık	16
 bir	karap	16
 payda	bolot	16
 hastaların	sayısı	16
+bu	sayede	16
 bu	su	16
 k	göster	16
 lın	t	16
@@ -5452,6 +5480,7 @@ nlığı	t	16
 tikanikligi	açan	16
 pimas	açan	16
 bayan	g	16
+ye	h	16
 yle	d	16
 n	kurtulur	16
 görelüm	ne	16
@@ -5459,6 +5488,7 @@ iddaa	oyna	16
 moldova	konstituțiya	16
 bir	paska	16
 tom	anı	16
+tiktep	turdu	16
 eñ	kur	16
 kur	degende	16
 jagımsız	jana	16
@@ -5468,7 +5498,6 @@ am	em	16
 em	f	16
 halı	saha	16
 o	hâld	16
-pon	d	16
 n	yıll	15
 yılın	ilk	15
 kendi	üstünä	15
@@ -5514,7 +5543,9 @@ aynı	ayına	15
 ye	başkanı	15
 olduğunu	ve	15
 bu	ülkede	15
+sona	erd	15
 yürürlüğe	g	15
+n	abd	15
 n	fa	15
 n	sev	15
 le	tem	15
@@ -5550,9 +5581,9 @@ tüzel	k	15
 yılın	sonunda	15
 farklı	b	15
 ben	bu	15
+ğer	t	15
 heydär	äliyevin	15
 baş	verir	15
-şükür	ederäk	15
 halk	türkülerini	15
 hem	ruh	15
 anılmış	hem	15
@@ -5560,6 +5591,7 @@ dığını	b	15
 i	d	15
 moldova	arasında	15
 kötü	n	15
+bir	uurda	15
 gagauziyada	gagauz	15
 häyata	keçirilir	15
 bir	növ	15
@@ -5579,7 +5611,6 @@ dä	bunu	15
 idi	vä	15
 kez	daha	15
 da	onuştan	15
-açıkladılar	kendi	15
 da	moldovanın	15
 teklif	etmää	15
 alması	için	15
@@ -5625,6 +5656,7 @@ gagauziyaya	geldi	15
 bir	oyun	15
 r	kötü	15
 k	kol	15
+başbakanı	binali	15
 önündä	nasaat	15
 ne	olacek	15
 n	farklı	15
@@ -5667,11 +5699,11 @@ mänim	üçün	15
 o	gagauz	15
 para	yardımınnan	15
 ç	kull	15
+v	v	15
 yıl	geçti	15
 en	güçlü	15
 işlemää	başladı	15
 biz	bileriz	15
-poet	hem	15
 zalda	bulunan	15
 hem	nikolay	15
 i̇	i̇	15
@@ -5765,6 +5797,7 @@ türk	ve	15
 sı	ş	15
 da	burada	15
 lduğunu	ve	15
+cı	yıldönümünä	15
 beşalma	küüyündä	15
 türkiyenin	hem	15
 hem	insannarın	15
@@ -5784,6 +5817,7 @@ nmış	v	15
 o	avşam	15
 i̇l	emn	15
 nde	v	15
+k	adam	15
 z	ek	15
 ne	biz	15
 bizim	aramızda	15
@@ -5794,7 +5828,6 @@ hem	yaşamak	15
 dığını	bel	15
 r	fırs	15
 kısadan	annattı	15
-ght	hem	15
 un	m	15
 l	med	15
 ep	t	15
@@ -5827,7 +5860,6 @@ gagauziyanın	seçim	15
 için	kanon	15
 üüretim	hem	15
 vurgu	y	15
-nim	d	15
 et	b	15
 çoğu	z	15
 sınır	k	15
@@ -5845,6 +5877,7 @@ bir	dahı	15
 koca	oglı	15
 ag	bürçeklü	15
 iddaa	maçları	15
+bet	now	15
 süper	lig	15
 ele	mezgilde	15
 sözün	uladı	15
@@ -5909,7 +5942,6 @@ unçukpay	kaldı	15
 da	bolgon	15
 jerge	tüşüp	15
 jasap	jatkan	15
-basıp	kelip	15
 boz	üygö	15
 bolo	kaldı	15
 eki	jak	15
@@ -5956,7 +5988,6 @@ beş	jüz	15
 davranış	vä	15
 açıklama	geldi	15
 k	tedb	15
-soţialist	respublikasının	15
 bu	yılların	15
 kazayak	küüyünün	15
 taa	üç	15
@@ -5968,11 +5999,11 @@ türkiyä	devletin	15
 tretyakov	adına	15
 biz	isteriz	15
 pay	alȇr	15
+beg	eydür	15
 dedi	kız	15
 ve	hem	15
 gördi	kim	15
 n	pıhtıl	15
-ama	yok	15
 andreas	araba	15
 işi	jok	15
 bolboy	kaldı	15
@@ -5987,17 +6018,17 @@ anan	kayra	15
 berem	dep	15
 i̇gor	grosu	15
 desant	asker	15
-bitki	yılların	15
 başkankası	i̇rina	15
 saalık	merkezin	15
 cümnä	aktivisti	15
 okulun	başı	15
+küüyün	yaşayanı	15
+başı	andrey	15
 komrat	başkonsulu	15
 baarı	jakşı	15
 emi	bolso	15
 bolçu	jana	15
 jip	menen	15
-arı	jagınan	15
 annesinin	kafasını	15
 k	olduğu	15
 hem	biz	15
@@ -6019,6 +6050,7 @@ að	maya	15
 astropay	kart	15
 günlük	k	15
 ön	üüredicilik	15
+pon	d	15
 z	sıkışm	15
 alıkul	jönündö	15
 onun	en	14
@@ -6074,6 +6106,7 @@ sı	çok	14
 bu	bölgede	14
 r	yönt	14
 ayrı	ayrı	14
+satın	almak	14
 nasıl	b	14
 eylül	ayı	14
 bir	m	14
@@ -6105,6 +6138,7 @@ cü	yıldönümünü	14
 birliinä	girmää	14
 kordinatorluk	ofisin	14
 olesä	tanasoglu	14
+şükür	ederäk	14
 er	tepremesindän	14
 bir	bütün	14
 r	şekilde	14
@@ -6113,7 +6147,6 @@ bu	ha	14
 rın	ort	14
 güçlü	bir	14
 dä	belä	14
-içindä	gagauz	14
 bir	arada	14
 gagauzların	arasında	14
 o	vakıtlar	14
@@ -6147,6 +6180,7 @@ istoriyasını	hem	14
 angıları	bu	14
 onnarda	var	14
 cümne	kuruluşu	14
+açıkladılar	kendi	14
 pay	alması	14
 başkannık	binasının	14
 halk	oyunnarı	14
@@ -6201,7 +6235,6 @@ bu	küüdä	14
 dä	kişinevun	14
 baalı	olan	14
 täk	bir	14
-r	daha	14
 az	sonra	14
 tähsil	müässisälärindä	14
 baş	prokuror	14
@@ -6259,6 +6292,7 @@ rin	b	14
 da	başladı	14
 para	da	14
 olacek	bir	14
+hem	gagauzlar	14
 t	a	14
 bugün	d	14
 bu	kur	14
@@ -6270,10 +6304,10 @@ gündän	beeri	14
 rım	v	14
 bakanlar	kurulu	14
 fetullah	gülenin	14
-cuvap	etti	14
 ani	hiç	14
 bir	buçuk	14
 üüredici	hem	14
+poet	hem	14
 bütün	moldova	14
 duuma	gününü	14
 insan	da	14
@@ -6308,7 +6342,6 @@ nı	şek	14
 başka	devletlerä	14
 r	bul	14
 oyun	ansamblisi	14
-açılış	şiridini	14
 kın	z	14
 türk	k	14
 halklar	arası	14
@@ -6376,7 +6409,6 @@ geçti	bir	14
 ruh	h	14
 günün	b	14
 r	uzun	14
-ana	dilimizin	14
 hem	kim	14
 başı	elena	14
 n	esk	14
@@ -6394,6 +6426,7 @@ z	ed	14
 n	olup	14
 da	demiş	14
 ama	onu	14
+ght	hem	14
 gençlerä	deyni	14
 annattı	nicä	14
 usul	ve	14
@@ -6431,7 +6464,6 @@ mı	h	14
 n	gücü	14
 rol	oyn	14
 küçük	y	14
-n	org	14
 komradın	kultura	14
 ani	gelän	14
 diil	kayıl	14
@@ -6445,6 +6477,7 @@ kimi	sıra	14
 tüm	y	14
 sonucu	ol	14
 ncı	d	14
+nim	d	14
 rum	s	14
 camlı	bahçe	14
 anadolu	kavağı	14
@@ -6566,7 +6599,7 @@ emne	kıların	14
 ayta	baştadı	14
 da	ötö	14
 alıp	kele	14
-al	kişi	14
+basıp	kelip	14
 ketken	ele	14
 dep	buyruk	14
 bir	jan	14
@@ -6618,10 +6651,10 @@ bu	müc	14
 ğlup	ett	14
 hân	kızı	14
 dedi	dede	14
-biñ	dahı	14
 kurbân	olsun	14
 ol	gün	14
 başın	işini	14
+ama	yok	14
 geçirmää	deyni	14
 poliţiya	uzmannarı	14
 çok	saa	14
@@ -6641,6 +6674,7 @@ karap	kalıştı	14
 kapa	bolup	14
 dionis	nikolaeviç	14
 mart	ayın	14
+bitki	yılların	14
 yaşayannarı	da	14
 svetlana	duleva	14
 üüsek	üüretim	14
@@ -6648,12 +6682,11 @@ gözledici	soveti	14
 erli	kuvetlerin	14
 işi	hem	14
 önemli	hem	14
-aytıp	berip	14
 meg	menen	14
+arı	jagınan	14
 üüsek	daava	14
 o	bu	14
 dolu	b	14
-rtluk	h	14
 lık	y	14
 bilyoner	iddaa	14
 iddaa	listesi	14
@@ -6681,7 +6714,6 @@ sen	çal	14
 çal	kapımı	14
 i	y	13
 n	ruh	13
-n	durumu	13
 açılış	sözünü	13
 hiç	birisi	13
 kultura	programası	13
@@ -6737,7 +6769,6 @@ dä	ona	13
 fazla	k	13
 k	de	13
 yüzde	yüz	13
-gün	ärzindä	13
 eyni	vaxtda	13
 mal	sah	13
 yle	p	13
@@ -6780,11 +6811,11 @@ başda	olmaqla	13
 bölümünün	başı	13
 milli	kultura	13
 da	ilk	13
-türk	bibliotekasında	13
 diil	o	13
 yılda	bir	13
 moldova	prezidentına	13
 olduğu	için	13
+içindä	gagauz	13
 oldu	taa	13
 yılda	moldova	13
 pek	yakın	13
@@ -6836,7 +6867,6 @@ iş	var	13
 sade	ozaman	13
 bir	şäxs	13
 gagauzları	hem	13
-moldova	saalık	13
 balkannar	hem	13
 evrupa	daire	13
 başkanı	dr	13
@@ -6874,7 +6904,6 @@ n	tekl	13
 hızlı	ve	13
 n	iç	13
 dünnä	cengin	13
-binali	yildirim	13
 ofiţial	bir	13
 iş	adamı	13
 eni	tehnologiyalara	13
@@ -6882,6 +6911,7 @@ tehnologiyalara	görä	13
 çok	büük	13
 devlet	universitetı	13
 bu	devlet	13
+r	daha	13
 tomay	küüyündä	13
 bu	verer	13
 ilk	növbädä	13
@@ -6931,6 +6961,7 @@ ri	hizm	13
 l	kull	13
 n	güzel	13
 bir	g	13
+d	t	13
 dili	dä	13
 ne	p	13
 n	mutlu	13
@@ -6944,6 +6975,7 @@ l	öz	13
 t	sür	13
 moldovada	bir	13
 deyni	yardım	13
+cuvap	etti	13
 da	gözäl	13
 da	bizi	13
 azaları	hem	13
@@ -6983,9 +7015,9 @@ sının	s	13
 bilär	vä	13
 resimcilik	uurunda	13
 neler	y	13
-kontrol	eder	13
 n	il	13
 geçen	h	13
+açılış	şiridini	13
 neredä	onnar	13
 nbul	v	13
 hem	nekadar	13
@@ -6995,7 +7027,6 @@ ka	b	13
 binä	yakın	13
 baamsız	gagauz	13
 respublikasının	kurulması	13
-hem	tek	13
 üüsek	sovetin	13
 den	h	13
 küüyün	uşak	13
@@ -7059,6 +7090,7 @@ k	fazla	13
 n	gündem	13
 komunist	partiyasının	13
 lüdmila	pokrovskaya	13
+ana	dilimizin	13
 karşı	koymak	13
 bitki	vakıtlarda	13
 cı	yıllarında	13
@@ -7072,7 +7104,6 @@ ve	ülkem	13
 kişinev	büükelçiliindä	13
 stepan	topalın	13
 büük	yortu	13
-jandarma	k	13
 insannar	lääzım	13
 lääzım	bilsinnär	13
 k	ürünler	13
@@ -7120,6 +7151,7 @@ o	vakıtlarda	13
 k	nokt	13
 r	göst	13
 ltı	sul	13
+n	org	13
 kabledildi	karar	13
 moldovanın	başka	13
 r	sın	13
@@ -7192,8 +7224,6 @@ ele	köp	13
 bütkön	soñ	13
 kımınday	da	13
 bolo	albayt	13
-kol	salıp	13
-çıga	keldi	13
 özü	jalgız	13
 oşol	mezgilde	13
 alar	bul	13
@@ -7245,6 +7275,7 @@ kulak	salıp	13
 karmap	alıp	13
 kişi	bar	13
 jılga	çeyin	13
+al	kişi	13
 oñoy	ele	13
 koluna	alıp	13
 çın	bolso	13
@@ -7312,9 +7343,8 @@ en	değerl	13
 hlı	kuvvetler	13
 n	kafasını	13
 se	h	13
-nchester	c	13
+soţialist	respublikasının	13
 leya	kadar	13
-hız	kesmeden	13
 yıl	geri	13
 giyen	ve	13
 onnara	bu	13
@@ -7325,7 +7355,6 @@ zırlık	m	13
 devletin	hem	13
 bizim	televizion	13
 lääzım	çok	13
-nel	futb	13
 t	ür	13
 rklı	m	13
 kendi	becermeklerini	13
@@ -7338,9 +7367,7 @@ poliţiya	bakannıın	13
 erindeki	kuvetlerin	13
 club	gta	13
 kişinev	apeläțiya	13
-onnar	bizä	13
 kendi	iş	13
-ekonomika	agentleri	13
 yardımınnan	hem	13
 teoretik	lițeyin	13
 menen	işi	13
@@ -7360,14 +7387,13 @@ bolgon	işti	13
 dayar	bolup	13
 bu	kurum	13
 görä	hepsi	13
-bakannıık	komitetin	13
 büükelçisi	uygar	13
 üüretim	bakanı	13
 dedi	emi	13
 kalat	da	13
-men	bilem	13
 jakşı	bolup	13
 biz	menen	13
+aytıp	berip	13
 jok	bolgonduktan	13
 kel	dep	13
 jılmayıp	koydu	13
@@ -7394,6 +7420,7 @@ medya	hesabından	13
 lı	y	13
 n	hoşl	13
 sport	okulun	13
+rtluk	h	13
 tl	escort	13
 abd	t	13
 üüretim	bakannıı	13
@@ -7420,7 +7447,6 @@ eger	kimdir	13
 başkankası	evgeniya	13
 su	t	13
 här	hansý	13
-yks	terc	13
 boluusu	üçün	13
 spaceman	taktikleri	13
 nefes	nefese	13
@@ -7434,6 +7460,7 @@ jazuuçular	soyuzunun	13
 kendi	kuvedini	12
 ki	b	12
 i	ç	12
+n	durumu	12
 hem	türkü	12
 belediye	başkanı	12
 eni	çıkan	12
@@ -7486,6 +7513,7 @@ da	özü	12
 onlar	üçün	12
 doğru	yol	12
 ri	k	12
+hakikatın	sesi	12
 ceviz	ayının	12
 kadar	k	12
 ykur	r	12
@@ -7497,7 +7525,7 @@ da	t	12
 baş	verdi	12
 bir	hissäsini	12
 azärbaycan	vä	12
-hem	k	12
+gün	ärzindä	12
 stenen	belgeler	12
 t	olduğunu	12
 yasal	olarak	12
@@ -7506,7 +7534,6 @@ r	sey	12
 n	end	12
 olarak	da	12
 n	destek	12
-ağustos	ayı	12
 r	açıklama	12
 n	döv	12
 ne	dev	12
@@ -7519,6 +7546,7 @@ olumsuz	etk	12
 olduğunu	iddia	12
 ötän	häftä	12
 n	için	12
+kısa	sürede	12
 gelen	s	12
 ve	nasıl	12
 lyon	tl	12
@@ -7537,6 +7565,7 @@ bu	sergi	12
 işleri	hem	12
 ani	grt	12
 bibliotekasında	açıldı	12
+türk	bibliotekasında	12
 nlığı	k	12
 er	tepremesi	12
 r	w	12
@@ -7605,6 +7634,7 @@ ki	onun	12
 dä	pek	12
 äsgär	vä	12
 yardımcısı	nikolay	12
+moldova	saalık	12
 evgeniya	lülenova	12
 ti̇ka	balkannar	12
 daire	başkanı	12
@@ -7638,10 +7668,10 @@ k	farklı	12
 da	özünün	12
 başkanı	kemal	12
 n	durum	12
-k	çek	12
 n	muht	12
 n	sen	12
 sora	türkiye	12
+binali	yildirim	12
 çok	önemni	12
 vizit	yaptı	12
 ayın	birindän	12
@@ -7720,7 +7750,6 @@ derin	hem	12
 genä	da	12
 da	hem	12
 yıldız	futbolcunun	12
-galaxy	s	12
 başkannıı	altında	12
 da	ti̇ka	12
 olsun	dedi	12
@@ -7748,8 +7777,6 @@ hoş	b	12
 buna	da	12
 biz	geldik	12
 o	braktı	12
-sının	k	12
-iş	grupası	12
 başı	sofya	12
 prezidentı	nikolae	12
 larak	k	12
@@ -7781,6 +7808,7 @@ direktoru	i̇ordan	12
 önce	y	12
 gün	h	12
 ngi	b	12
+kontrol	eder	12
 n	ülkem	12
 n	kuş	12
 hem	şindiki	12
@@ -7798,6 +7826,7 @@ n	tar	12
 ve	den	12
 n	tw	12
 görmää	hem	12
+hem	tek	12
 r	tük	12
 ze	y	12
 kultura	başkasabası	12
@@ -7815,7 +7844,6 @@ dili	üüredicisi	12
 kut	k	12
 ve	eş	12
 katıı	s	12
-ğğ	zaa	12
 katıı	kavaıı	12
 semön	vasilyeviç	12
 üzä	çıktı	12
@@ -7842,7 +7870,6 @@ günnerindä	komratta	12
 geçti	gagauz	12
 biz	kablettik	12
 o	artık	12
-de	bulunduğu	12
 birisi	olan	12
 bütün	dünnedän	12
 nikolay	sulak	12
@@ -7897,6 +7924,7 @@ da	adam	12
 n	kuru	12
 dığı	z	12
 burada	bütün	12
+jandarma	k	12
 rşı	y	12
 norma	vä	12
 da	onnara	12
@@ -7904,7 +7932,6 @@ para	lääzım	12
 nlığı	hükümet	12
 n	yetk	12
 ne	teşekkür	12
-ki	olsun	12
 n	ulusl	12
 rusça	hem	12
 n	teşekkür	12
@@ -8013,7 +8040,6 @@ n	alm	12
 m	koşull	12
 lçe	seç	12
 fenerbahçe	beşiktaş	12
-mac	sonuclari	12
 ilk	yarı	12
 spor	bahisleri	12
 giriş	adresi	12
@@ -8054,7 +8080,9 @@ sen	eç	12
 aga	emne	12
 saldı	da	12
 sezip	turam	12
+kol	salıp	12
 al	jer	12
+çıga	keldi	12
 başkalar	da	12
 jıl	ötkön	12
 baarı	anı	12
@@ -8089,7 +8117,6 @@ tuñguç	iret	12
 orun	algan	12
 menen	el	12
 öz	elinin	12
-kele	jatkanın	12
 jatıp	alıp	12
 üçün	kerek	12
 menen	oşol	12
@@ -8099,7 +8126,6 @@ körgön	soñ	12
 algan	ele	12
 kança	ubakıt	12
 eki	közü	12
-oturgan	el	12
 aylası	ketip	12
 boygo	jetken	12
 anday	emes	12
@@ -8181,9 +8207,11 @@ rı	kırmızılıl	12
 taa	yok	12
 aaraştırmak	merkezin	12
 sergen	y	12
+nchester	c	12
 merkezi	hem	12
 yaradıcılık	evin	12
 ilk	keret	12
+hız	kesmeden	12
 pandemiya	zamanında	12
 taa	faydalı	12
 ç	ed	12
@@ -8191,6 +8219,7 @@ kontrol	ederlär	12
 üüretim	kurumnarın	12
 liţeyin	başı	12
 sergey	çimpoeş	12
+nel	futb	12
 nasaatın	başı	12
 bin	leyä	12
 sms	sır	12
@@ -8213,11 +8242,14 @@ bora	begüñ	12
 böyle	degeç	12
 sözüm	diñle	12
 kısırca	yenge	12
+biñ	dahı	12
 ogul	ogul	12
 prokurorun	aleksandr	12
 indir	apk	12
 yor	k	12
 petrol	malların	12
+onnar	bizä	12
+ekonomika	agentleri	12
 uşaklar	pek	12
 albay	kalgan	12
 adegende	ele	12
@@ -8256,12 +8288,13 @@ kendi	işindä	12
 bu	anılmış	12
 pek	siirek	12
 plana	koyulu	12
+bakannıık	komitetin	12
 n	ur	12
 ödemesi	için	12
 üürenmäk	kurumnarın	12
 körüp	turup	12
 atam	menen	12
-jakşı	körçü	12
+men	bilem	12
 maga	jardam	12
 katkırıp	külüp	12
 men	mınday	12
@@ -8282,7 +8315,6 @@ oşondoy	bolso	12
 sen	munu	12
 jakşı	jana	12
 ını	v	12
-grt	ck	12
 kendi	sırasında	12
 şindi	sä	12
 baş	kanonuna	12
@@ -8337,13 +8369,9 @@ kontrol	etmesinin	12
 de	kull	12
 lış	v	12
 tüm	p	12
-çok	sev	12
-şişman	escort	12
-basat	eydür	12
-x	or	12
+yks	terc	12
 lm	seçenekler	12
 evgeniy	mihayloviç	12
-satıp	al	12
 bir	kerâ	12
 marya	vasilevna	12
 esen	olsa	12
@@ -8355,13 +8383,11 @@ r	göçü	12
 dä	türkiyenin	11
 dünneyä	geldi	11
 yaşayan	insannar	11
-bir	pek	11
 o	yazdı	11
 başka	büük	11
 o	yok	11
 pek	zengin	11
 r	yön	11
-nbul	m	11
 ve	ort	11
 şiir	avşamnarı	11
 günnerindä	türkiyenin	11
@@ -8398,10 +8424,10 @@ r	arasında	11
 heç	cür	11
 äbu	süfyanın	11
 häräkät	etdi	11
-ona	qarşı	11
 ehtiyac	yoxdur	11
 bir	o	11
 äldä	edä	11
+lazım	olan	11
 bu	adı	11
 yalnız	bir	11
 bir	millätin	11
@@ -8410,7 +8436,6 @@ bir	näticä	11
 sık	k	11
 rı	düz	11
 hem	bereketli	11
-hakikatın	sesi	11
 ve	enerj	11
 ve	ver	11
 yıl	boyunca	11
@@ -8426,20 +8451,22 @@ r	hızl	11
 nde	z	11
 nlı	b	11
 ediräm	ki	11
-äbu	bäkirin	11
 vä	onu	11
 ve	çok	11
 de	çok	11
 n	gıd	11
+hem	k	11
 n	gereken	11
 r	konut	11
 anlamına	gel	11
 nde	yüzde	11
 cuma	günü	11
+ağustos	ayı	11
 n	kıl	11
 ı	il	11
 z	olarak	11
 le	ev	11
+mesken	olarak	11
 apartman	yönet	11
 üçün	än	11
 bununla	bağlı	11
@@ -8454,7 +8481,6 @@ z	daha	11
 hızlı	k	11
 ra	kontratı	11
 le	yen	11
-yaşında	bir	11
 ilk	öncä	11
 yapılan	bu	11
 ler	v	11
@@ -8497,7 +8523,6 @@ vardı	hem	11
 yıl	sora	11
 kendi	aralarında	11
 oldu	nicä	11
-ani	bakannık	11
 mäşğul	olan	11
 konkret	olaraq	11
 televiziya	vä	11
@@ -8524,6 +8549,7 @@ hem	uşakların	11
 da	benim	11
 mariya	i̇vanovna	11
 bir	aylä	11
+ın	t	11
 sayısı	da	11
 r	ul	11
 dä	bütün	11
@@ -8583,6 +8609,7 @@ k	gibi	11
 grup	t	11
 ünlü	b	11
 kendi	ustalıını	11
+k	çek	11
 u	s	11
 pay	almak	11
 ana	hem	11
@@ -8610,8 +8637,6 @@ da	faydalı	11
 çok	faydalı	11
 uurlarda	deputatların	11
 hem	rusiyanın	11
-gagauzların	iv	11
-iv	dünnä	11
 sınır	aşırı	11
 birkaç	kişi	11
 angısı	geçti	11
@@ -8684,6 +8709,7 @@ zı	y	11
 yabancı	dil	11
 kötü	bir	11
 türk	milletinin	11
+galaxy	s	11
 ani	yapıldı	11
 burada	yaşayan	11
 yıldönümü	için	11
@@ -8703,7 +8729,9 @@ gibi	bu	11
 biz	genä	11
 büük	er	11
 angılarını	o	11
+sının	k	11
 onnar	yok	11
+iş	grupası	11
 bütün	üreklän	11
 kultura	baş	11
 toplantısı	oldu	11
@@ -8726,8 +8754,8 @@ gagauziyanın	valkaneş	11
 ş	bulm	11
 rını	ç	11
 ye	ekonom	11
+dı	d	11
 primarı	hem	11
-kendi	halkını	11
 güç	b	11
 üüsek	erleri	11
 hem	resimcilik	11
@@ -8735,7 +8763,6 @@ t	geç	11
 da	daxil	11
 da	oradan	11
 o	zamandan	11
-nekadar	var	11
 j	v	11
 ağını	bel	11
 marina	semenova	11
@@ -8752,7 +8779,6 @@ oldu	büük	11
 grt	kanalında	11
 ölä	oldu	11
 nın	ön	11
-r	doğ	11
 l	güv	11
 örgütü	d	11
 k	op	11
@@ -8774,7 +8800,6 @@ devlet	sekretari	11
 komratta	yapılan	11
 oyun	hem	11
 k	iç	11
-respublikasının	içindä	11
 hem	üüredicilerä	11
 olan	devlet	11
 ağını	sö	11
@@ -8819,7 +8844,6 @@ başarılması	için	11
 hem	dünneyä	11
 hem	korumaa	11
 z	kend	11
-süre	s	11
 kle	de	11
 bu	ülke	11
 ve	kull	11
@@ -8835,6 +8859,7 @@ türklär	hem	11
 o	ses	11
 açıklamaya	göre	11
 k	kutl	11
+de	bulunduğu	11
 hem	bulgar	11
 deputatı	hem	11
 lım	k	11
@@ -8883,7 +8908,6 @@ evropa	çempionatı	11
 erlär	için	11
 lüdmila	pokrovskayanın	11
 vet	ed	11
-lı	t	11
 rmek	üzere	11
 m	değ	11
 n	rom	11
@@ -8910,6 +8934,7 @@ hem	sergey	11
 n	herkes	11
 gelen	k	11
 ani	başka	11
+ki	olsun	11
 yol	üstündä	11
 tılım	s	11
 n	tut	11
@@ -9005,7 +9030,6 @@ zor	durumd	11
 cı	b	11
 syon	s	11
 ye'ye	yönel	11
-haberledi	gagauziya	11
 şır	m	11
 çok	p	11
 ye	çık	11
@@ -9038,10 +9062,10 @@ bu	dünneyä	11
 rt	s	11
 angısı	geçecek	11
 güncel	adresi	11
+mac	sonuclari	11
 iddaa	tahmini	11
 com	iddaa	11
 nasıl	para	11
-ve	oranları	11
 iddaa'da	banko	11
 iddaa	sonuclari	11
 iddaa	bayiliği	11
@@ -9080,7 +9104,6 @@ adam	jok	11
 boldu	dep	11
 alar	anı	11
 oşol	sebeptüü	11
-al	ar	11
 takır	ele	11
 ele	eki	11
 jana	alar	11
@@ -9088,7 +9111,6 @@ bir	nerseden	11
 birok	özü	11
 kolunan	kelişinçe	11
 közün	jumup	11
-jakın	ele	11
 ekige	bölüp	11
 gana	anın	11
 jarım	saat	11
@@ -9131,12 +9153,12 @@ biz	munu	11
 menen	kelgen	11
 bilgen	emes	11
 körö	turgan	11
-bergenden	kiyin	11
+kele	jatkanın	11
 özünün	da	11
 karay	albay	11
 birin	biri	11
+oturgan	el	11
 künü	ele	11
-mınday	tursun	11
 körünüp	turgan	11
 bar	da	11
 aytkan	jok	11
@@ -9171,7 +9193,6 @@ kerek	bolgon	11
 başka	dagı	11
 rektör	f	11
 karañgı	tün	11
-saltı	boyunça	11
 koş	boyluu	11
 dep	at	11
 degen	oygo	11
@@ -9233,7 +9254,6 @@ k	etk	11
 geçen	sezon	11
 l	kılıçd	11
 gelecek	sez	11
-s	l	11
 r	güv	11
 n	mer	11
 perşembe	gününden	11
@@ -9335,6 +9355,7 @@ taa	geniştän	11
 acı	köşesi	11
 bul	kız	11
 jaman	emes	11
+jakşı	körçü	11
 bess	menen	11
 biröö	menen	11
 jönöp	kaldı	11
@@ -9378,11 +9399,9 @@ n	yumurt	11
 i̇l	jandarma	11
 ak	k	11
 olgun	escort	11
-r	j	11
 bu	düşünc	11
 k	müz	11
 cengin	veterannarın	11
-islää	bilerlär	11
 üniversiteli	escort	11
 nim	gibi	11
 uurunda	doktor	11
@@ -9414,6 +9433,7 @@ güncel	p	11
 iş	verän	11
 yet	h	11
 zapa	altına	11
+yor	d	11
 kın	g	11
 büük	elçilii	11
 yapon	kız	11
@@ -9426,15 +9446,19 @@ apartman	g	11
 afaq	xanımın	11
 sultan	mahmud	11
 yol	b	11
+çok	sev	11
+şişman	escort	11
 depegöz	eydür	11
+basat	eydür	11
 analiz	alt	11
+x	or	11
 n	küresel	11
 küüyün	gimnaziyasında	11
 eminesku	adına	11
 r	onu	11
+satıp	al	11
 aylık	kazancı	11
 jol	berbe	11
-de	edeb	11
 on	u	11
 moldovanın	saalıı	11
 y	sp	11
@@ -9450,11 +9474,11 @@ ep	telefonu	11
 emre	akb	11
 dedi	beryek	11
 burcu	y	11
-ğa	özüm	11
 azərbaycan	respublikasının	11
-kırmızı	od	11
 vardı	çok	10
+bir	pek	10
 raatlık	hem	10
+nbul	m	10
 oldu	vä	10
 davam	edän	10
 olduğu	zaman	10
@@ -9504,14 +9528,15 @@ her	h	10
 yanında	bir	10
 tämin	etmäk	10
 etdikdän	sonra	10
+ona	qarşı	10
 edän	vä	10
 bir	yerä	10
 n	sorumlu	10
-le	beraber	10
 bütün	yaşamasında	10
 ve	ger	10
 n	belges	10
 nde	r	10
+de	var	10
 r	anlaşma	10
 ve	yüzde	10
 yeter	k	10
@@ -9519,6 +9544,7 @@ n	altında	10
 lt	k	10
 arasında	bu	10
 mäqsädi	ilä	10
+äbu	bäkirin	10
 r	ömür	10
 arasında	değ	10
 t	ön	10
@@ -9549,11 +9575,10 @@ isä	onun	10
 nız	y	10
 lan	k	10
 satın	alan	10
+yaşında	bir	10
 sizin	üçün	10
 da	çox	10
 etdiyi	zaman	10
-n	uy	10
-rı	önl	10
 yavaş	yavaş	10
 türk	borçlar	10
 göre	k	10
@@ -9604,6 +9629,7 @@ hem	kasabalarda	10
 uşaklar	büük	10
 rus	dilinä	10
 iki	dildä	10
+ani	bakannık	10
 dili	kursları	10
 yıl	gagauz	10
 dövlät	vä	10
@@ -9634,7 +9660,6 @@ bunu	lääzım	10
 dä	bizim	10
 n	ulu	10
 bütün	k	10
-ın	t	10
 daha	doğrusu	10
 azärbaycan	kimi	10
 bu	ayın	10
@@ -9654,7 +9679,6 @@ bilir	ki	10
 dua	ederim	10
 prezidenti	vladimir	10
 bizim	üçün	10
-pek	sever	10
 yardım	edärdi	10
 biz	kendi	10
 için	bän	10
@@ -9804,6 +9828,7 @@ r	muğl	10
 dedi	bende	10
 şığı	b	10
 r	tarafından	10
+lım	d	10
 hepsi	isteyennär	10
 kapu	önündä	10
 onnar	bir	10
@@ -9889,7 +9914,7 @@ hızlı	yardım	10
 geçän	afta	10
 n'ın	b	10
 rılı	ol	10
-dı	d	10
+kendi	halkını	10
 bu	yeni	10
 bir	halda	10
 yurt	dışın	10
@@ -9908,6 +9933,7 @@ işbirlii	hem	10
 escort	ankara	10
 burada	onun	10
 ne	gagauziya	10
+nekadar	var	10
 gagauz	resimcisinin	10
 adını	da	10
 şäkildä	ifadä	10
@@ -9930,6 +9956,7 @@ taa	bu	10
 ani	gagauziyaya	10
 i̇gnat	kazmali	10
 proektın	paası	10
+r	doğ	10
 biz	bilmeeriz	10
 z	önc	10
 deaş	terör	10
@@ -9949,7 +9976,6 @@ mihai	emi̇neskunun	10
 bu	merkezin	10
 canabisi	annattı	10
 respublikasının	prezidentının	10
-b	t	10
 ni	s	10
 n	ara	10
 bir	aftanın	10
@@ -9958,6 +9984,7 @@ bir	patret	10
 kuruldu	gagauz	10
 ondan	sonra	10
 et	v	10
+respublikasının	içindä	10
 nikolaeviç	yasibaş	10
 hem	mariya	10
 ci	liţeyin	10
@@ -9978,7 +10005,6 @@ cort	d	10
 n	gele	10
 al	s	10
 r	hedef	10
-katıı	os	10
 kaa	aa	10
 aa	v	10
 i̇	r	10
@@ -10012,11 +10038,11 @@ baurçu	küüyündä	10
 insannar	bu	10
 rum	k	10
 len	v	10
+süre	s	10
 açan	sıra	10
 lın	v	10
 dört	h	10
 rın	bulunduğu	10
-bu	bizä	10
 gösterdilär	hem	10
 ci	er	10
 ci	eri	10
@@ -10079,7 +10105,6 @@ standartlarına	görä	10
 gagauz	dillerindä	10
 ü	m	10
 büyük	v	10
-kurulu	ü	10
 kendi	evindä	10
 mi	bu	10
 ana	dilimizdä	10
@@ -10092,6 +10117,7 @@ ve	rus	10
 bu	yaslı	10
 i̇van	födoroviç	10
 sı	türk	10
+lı	t	10
 ı	f	10
 n	avr	10
 n	sözleşmes	10
@@ -10147,7 +10173,6 @@ forumun	pay	10
 onnar	çok	10
 yok	eder	10
 islää	olacek	10
-devrimi	denemesi	10
 todur	zaneti	10
 k	kurm	10
 hiç	ta	10
@@ -10163,12 +10188,10 @@ ortak	g	10
 kte	h	10
 rtık	s	10
 n	avrup	10
-o	olacek	10
 yıl	s	10
 barış	hem	10
 hem	raatlık	10
 var	gagauz	10
-g	m	10
 sının	b	10
 k	yoktur	10
 r	sosy	10
@@ -10227,6 +10250,7 @@ nasaat	etmää	10
 cümne	saalıında	10
 perşembe	günü	10
 ler	me	10
+ld	trump	10
 n	üstün	10
 r	boyunc	10
 nde	görev	10
@@ -10250,6 +10274,7 @@ ze	de	10
 skı	y	10
 rdım	y	10
 m	olduğu	10
+haberledi	gagauziya	10
 bu	ülk	10
 ş	göst	10
 ren	y	10
@@ -10269,7 +10294,6 @@ nicä	annamaa	10
 z	dev	10
 hem	azerbaycan	10
 r	bunl	10
-ayoz	klise	10
 hem	kolay	10
 cümnä	kurumun	10
 sa	lääzım	10
@@ -10294,6 +10318,7 @@ nicä	gelsin	10
 klasbahis	güncel	10
 maç	programı	10
 nasıl	kazanılır	10
+ve	oranları	10
 banko	nedir	10
 iddaa	sahadan	10
 yeri	genel	10
@@ -10356,6 +10381,7 @@ jiberdi	ele	10
 kelet	dep	10
 da	kayra	10
 kıla	albayt	10
+al	ar	10
 kaytıp	keldi	10
 alıp	keldim	10
 küç	alıp	10
@@ -10369,6 +10395,7 @@ kalgan	emes	10
 adam	ele	10
 munu	körgön	10
 kuday	jalgap	10
+jakın	ele	10
 jakın	turgan	10
 dep	oyloştu	10
 ulam	bir	10
@@ -10414,11 +10441,13 @@ dobuş	menen	10
 kez	kelgen	10
 jürö	turgan	10
 turgan	jeri	10
+bergenden	kiyin	10
 söz	baştadı	10
 karap	koyup	10
 emne	deyt	10
 siler	da	10
 iştey	turgan	10
+mınday	tursun	10
 çıgara	turgan	10
 tüşkön	soñ	10
 kayrat	menen	10
@@ -10466,6 +10495,7 @@ jok	bolgon	10
 da	tañ	10
 çabuul	jasoogo	10
 alıp	jatkan	10
+saltı	boyunça	10
 degen	eki	10
 bir	üydö	10
 tuş	keldi	10
@@ -10514,7 +10544,6 @@ mından	eki	10
 jana	kara	10
 tirüü	kalgan	10
 degen	oydo	10
-tamak	içip	10
 handıgına	çabuul	10
 men	özümdü	10
 kuday	özü	10
@@ -10530,7 +10559,6 @@ menin	bir	10
 kolun	sundu	10
 jark	dey	10
 tündük	jagındagı	10
-jıldın	başında	10
 üröyü	uçup	10
 eñ	jakın	10
 bolso	öz	10
@@ -10548,6 +10576,7 @@ genç	futbolcu	10
 kolay	olacek	10
 gün	gündän	10
 nışannadı	gagauziyanın	10
+s	l	10
 m	olduğunu	10
 bu	zanaatı	10
 haberinä	görä	10
@@ -10573,6 +10602,7 @@ alarak	esaba	10
 televizion	grupamız	10
 merakla	beklediği	10
 vasiliy	arnaut	10
+n	ahmet	10
 genç	kızın	10
 sıradakı	oturuşunda	10
 soruş	baalı	10
@@ -10614,8 +10644,6 @@ dagı	bar	10
 bolso	bir	10
 jok	bolot	10
 berip	jatıp	10
-bolot	go	10
-añgıça	bolboy	10
 menen	koş	10
 azır	dele	10
 oygonup	ketti	10
@@ -10651,7 +10679,6 @@ regional	hem	10
 kuraklıın	beterinä	10
 s	çık	10
 saalık	merkezindä	10
-devletin	üülen	10
 zamandan	beeri	10
 serbest	güreşmesindä	10
 bucak	küüyün	10
@@ -10670,7 +10697,6 @@ grt	kompaniyanın	10
 başkonsulu	hasan	10
 k	doğ	10
 jaman	köröm	10
-jo	bolso	10
 saltanattuu	türdö	10
 bir	başkaça	10
 alıp	jatkanda	10
@@ -10738,6 +10764,7 @@ asa	mahkemes	10
 zmet	b	10
 dört	gözle	10
 n	hü	10
+r	j	10
 bu	du	10
 kisa	sürede	10
 boru	açan	10
@@ -10745,6 +10772,7 @@ r	üç	10
 nler	beled	10
 n	dölekl	10
 r	her	10
+islää	bilerlär	10
 n	sok	10
 l	pl	10
 saatlik	escort	10
@@ -10819,6 +10847,7 @@ bu	jerde	10
 kuzey	k	10
 alla	aga	10
 yerel	m	10
+de	edeb	10
 kuytu	kız	10
 han	sultan	10
 çapar	yetdi	10
@@ -10837,6 +10866,7 @@ barista	pinotage	10
 pinotage	south	10
 south	africa	10
 doku	r	10
+kırmızı	od	10
 ş	fest	10
 iddaa	aylık	10
 bu	taraftan	9
@@ -10902,6 +10932,7 @@ bu	tar	9
 r	sa	9
 den	fazla	9
 k	kıs	9
+in	d	9
 kkı	v	9
 n	mezun	9
 dönüş	y	9
@@ -10924,6 +10955,7 @@ qädär	çox	9
 rs	v	9
 rını	m	9
 sulh	hukuk	9
+le	beraber	9
 çiçek	ayının	9
 bir	alay	9
 gagauzların	evelki	9
@@ -10969,6 +11001,7 @@ söz	alan	9
 r	ile	9
 n	kişil	9
 yapılacak	olan	9
+düşük	olduğu	9
 düşük	sev	9
 äbu	talibin	9
 söz	aldı	9
@@ -10996,10 +11029,11 @@ elä	ilk	9
 sizä	bu	9
 här	şeyä	9
 da	belä	9
+n	uy	9
 ç	p	9
-göre	bel	9
 ve	ödeme	9
 h	nokt	9
+rı	önl	9
 p	i̇mar	9
 sıradan	bir	9
 edä	bilmäz	9
@@ -11111,6 +11145,7 @@ olub	vä	9
 var	te	9
 här	yerdä	9
 larak	kull	9
+pek	sever	9
 ani	maasuz	9
 hem	sovet	9
 şindi	bän	9
@@ -11201,7 +11236,6 @@ böyle	bir	9
 täsdiq	edir	9
 şah	qacar	9
 nlık	k	9
-rı	çıkm	9
 un	g	9
 enseyiş	günü	9
 adetleri	hem	9
@@ -11221,7 +11255,6 @@ hem	çeşitli	9
 heç	kimä	9
 bunun	bir	9
 elä	bu	9
-alsa	da	9
 ali	ixtisas	9
 qäbul	edilmäsi	9
 mäþðul	olan	9
@@ -11319,7 +11352,6 @@ gelen	h	9
 dım	b	9
 kın	k	9
 n	oldu	9
-ğlı	d	9
 respublikasının	prezidenti	9
 çok	gagauz	9
 o	lafları	9
@@ -11357,6 +11389,7 @@ bir	günün	9
 rus	dillerindä	9
 içişleri	ministerliin	9
 geçän	yılın	9
+gagauzların	birlii	9
 n	başka	9
 verilmesi	için	9
 gelen	m	9
@@ -11408,10 +11441,8 @@ gagauziyanın	üstolan	9
 gagauziya	başkan	9
 rım	b	9
 ğın	b	9
-gösterildi	hem	9
 ş	düny	9
 şöyle	dev	9
-rf	ed	9
 hem	sevgili	9
 kişi	yaralandı	9
 nt	m	9
@@ -11452,7 +11483,6 @@ nbul	cumhur	9
 dığı	v	9
 dışı	bır	9
 gagauz	gergefi	9
-aydınnatmak	hem	9
 hem	kanalizaţiya	9
 rolü	hem	9
 e	başla	9
@@ -11466,6 +11496,7 @@ gagauz	literatura	9
 komrat	muzeyin	9
 n	dönem	9
 sora	canabisi	9
+b	t	9
 lır	v	9
 oyun	halk	9
 halk	ansamblisi	9
@@ -11506,9 +11537,7 @@ v	a	9
 ğ	öükt	9
 sts	üz	9
 sabt	tf	9
-ğa	saj	9
 aak	çkşşt	9
-açısıa	ğğ	9
 y	vş	9
 y	ö	9
 y	ş	9
@@ -11543,6 +11572,7 @@ ne	rağmen	9
 k	konul	9
 ve	kırmızı	9
 l	bu	9
+bu	bizä	9
 gündä	bizim	9
 üüredicilik	ministerliin	9
 duudu	hem	9
@@ -11609,6 +11639,7 @@ le	v	9
 direktoru	mihail	9
 musaafirlerin	arasında	9
 hakkında	da	9
+kurulu	ü	9
 hem	kasabasında	9
 derin	maanalı	9
 prezidenti	stepan	9
@@ -11705,6 +11736,7 @@ ti̇ka	başkan	9
 da	türkiyenin	9
 hem	şannı	9
 bir	sözlän	9
+devrimi	denemesi	9
 hem	zor	9
 türlü	işlär	9
 ekonomika	ilerlemesi	9
@@ -11723,8 +11755,10 @@ küçük	ayında	9
 kasabasında	da	9
 kler	ve	9
 resimcisi	dimitriy	9
+o	olacek	9
 kiyadın	baş	9
 mış	olm	9
+g	m	9
 zamandaş	gagauz	9
 n	kurul	9
 ynı	k	9
@@ -11758,6 +11792,7 @@ rdımcı	olm	9
 başka	bişey	9
 o	eski	9
 lääzım	esaba	9
+o	genä	9
 yıp	y	9
 onun	d	9
 olsun	k	9
@@ -11852,6 +11887,7 @@ başkanın	i̇rina	9
 korunmak	için	9
 büük	payını	9
 son	z	9
+ayoz	klise	9
 kim	da	9
 onnarın	var	9
 hem	te	9
@@ -11985,7 +12021,6 @@ dep	jılmaydı	9
 je	dagı	9
 oşonduktan	anın	9
 bölmögö	kirip	9
-anın	sözünö	9
 berçü	emes	9
 bolgon	okuyanı	9
 menen	kütüp	9
@@ -12010,6 +12045,7 @@ sms	s	9
 tüm	hızıyl	9
 rt	n	9
 unes	belh	9
+n	bey	9
 k	yüz	9
 gün	ertelend	9
 eden	y	9
@@ -12058,14 +12094,11 @@ kanday	bolup	9
 kılıp	al	9
 jaktan	da	9
 birok	uşul	9
-kelip	çıkkan	9
 emneni	aytıp	9
 bolup	köründü	9
-ala	kaçıp	9
 menen	başka	9
 uşul	kezde	9
 da	uşu	9
-kiçine	ele	9
 jakın	kelip	9
 aytıp	jatkan	9
 oşonun	baarın	9
@@ -12103,7 +12136,6 @@ ele	oşol	9
 jakşı	da	9
 ümüt	kılıp	9
 bılk	etpey	9
-akırkı	iret	9
 gana	kütüp	9
 kütüp	turat	9
 bilinip	turdu	9
@@ -12133,7 +12165,6 @@ anın	öz	9
 üyünö	kirip	9
 kirip	kelgende	9
 menen	jañı	9
-ayaktagan	soñ	9
 joo	menen	9
 bar	emespi	9
 alıp	jürgön	9
@@ -12150,7 +12181,6 @@ emes	elem	9
 bolboyt	ele	9
 jana	çoñ	9
 ketet	da	9
-çeyin	al	9
 ırakmat	aytıp	9
 terisinen	jasalgan	9
 jönündö	jarlık	9
@@ -12160,7 +12190,6 @@ oturgan	jok	9
 kol	başçısı	9
 sunuş	kıldı	9
 da	koşup	9
-üçünçü	jolu	9
 ekenin	bilip	9
 turgan	uşul	9
 çıñgızhan	uşul	9
@@ -12181,6 +12210,7 @@ kün	nuruna	9
 jatkanın	körüp	9
 jerge	çeyin	9
 degen	jerge	9
+jıldın	başında	9
 üydün	içi	9
 arı-beri	basıp	9
 jok	go	9
@@ -12237,7 +12267,6 @@ seçimnär	için	9
 aykut	k	9
 bere	k	9
 ahmet	ağ	9
-adım	adım	9
 l	dostluk	9
 yol	v	9
 n	öyl	9
@@ -12246,7 +12275,6 @@ professional	uurunda	9
 oturuşunda	bakıldı	9
 paylaştılar	kendi	9
 kanon	proektinä	9
-peydalandı	kolaylık	9
 vakıdı	için	9
 ley	bir	9
 bu	sk	9
@@ -12260,7 +12288,6 @@ sport	bakannıı	9
 erdä	bulunȇr	9
 galatasaray	takımında	9
 bakanıın	başı	9
-kolaylık	tanışmaa	9
 üürendi	bizim	9
 beg	oglı	9
 üzerine	geldi	9
@@ -12300,6 +12327,8 @@ kalsa	kerek	9
 menen	baş	9
 kayra	bir	9
 jañı	kelgen	9
+bolot	go	9
+añgıça	bolboy	9
 kıska	jana	9
 degen	ısım	9
 jetkenden	kiyin	9
@@ -12311,7 +12340,6 @@ ele	koyölu	9
 ekinçi	bir	9
 joop	berüügö	9
 nayza	menen	9
-aytkan	eken	9
 sen	dele	9
 oşonduktan	bul	9
 baş-otu	menen	9
@@ -12345,16 +12373,15 @@ finans	yardımınnan	9
 kasabasının	yaşayannarı	9
 ektardan	zeedä	9
 angısı	bütün	9
+devletin	üülen	9
 onun	laflarına	9
 kasabanın	yaşayannarı	9
 bän	beenerim	9
 pı	k	9
-ukraina	gagauzların	9
 o	soy	9
 en	lääzımnı	9
 mı	nasıl	9
 ani	bişey	9
-barabar	iş	9
 hem	angıları	9
 imek	malların	9
 bu	kuralları	9
@@ -12374,6 +12401,7 @@ karşı	gitmäk	9
 gagauziyanın	üürenmäk	9
 da	kelbeyt	9
 emne	kılasıñ	9
+jo	bolso	9
 suu	bolgon	9
 degen	jok	9
 tepkiç	menen	9
@@ -12406,7 +12434,7 @@ jan	düynösü	9
 üçün	aga	9
 koyup	karap	9
 bolboy	ele	9
-kişi	b	9
+ak	sargıl	9
 ani	oldu	9
 bütün	devlettän	9
 kurucu	toplantısı	9
@@ -12435,7 +12463,6 @@ olup	olmadığını	9
 n	ülke	9
 ne	karar	9
 arsa	payı	9
-n	yanı	9
 edib	vä	9
 digär	bir	9
 moldovanın	toplu	9
@@ -12469,7 +12496,6 @@ dayma	konseyin	9
 önce	de	9
 bu	kötü	9
 moskva	oblastin	9
-cık	b	9
 hem	valkaneştä	9
 tüm	türk	9
 klozet	açan	9
@@ -12535,7 +12561,6 @@ gaydarjının	adına	9
 n	emekl	9
 geeri	bu	9
 olayda	pay	9
-kendi	düşünmeklerini	9
 sı	kol	9
 kömür	kıçkıl	9
 içki	dobuş	9
@@ -12565,7 +12590,6 @@ okulun	üürenicileri	9
 kum	l	9
 rin	sıc	9
 cı	t	9
-h	sonuçl	9
 ns	progr	9
 yılbaşı	mesajları	9
 küüyün	gimnaziyasının	9
@@ -12578,7 +12602,6 @@ oran	analizi	9
 para	hesaplama	9
 güvenilir	mi	9
 canlı	tv	9
-n	kesmek	9
 başın	iyip	9
 dep	seytek	9
 kee	biröö	9
@@ -12620,7 +12643,6 @@ olimpiya	ýdman	9
 kaç	beygir	9
 basma	tabak	9
 akın	jönündö	9
-osmonov	atındagı	9
 hem	geniş	8
 bu	hastalık	8
 ozaman	onun	8
@@ -12702,7 +12724,6 @@ günü	k	8
 gün	t	8
 ğlıklı	bir	8
 bilgi	v	8
-in	d	8
 n	gö	8
 lın	b	8
 un	v	8
@@ -12728,6 +12749,7 @@ häzräti	mähämmäd	8
 da	bel	8
 ne	gel	8
 eski	gagauz	8
+gagauzların	istoriyası	8
 halk	için	8
 etti	hem	8
 çok	çalıştı	8
@@ -12792,12 +12814,13 @@ azärbaycan	türklärinin	8
 ictimai	räyi	8
 dä	vardı	8
 r	kaç	8
+rum	d	8
 keçdikdän	sonra	8
+göre	bel	8
 dın	v	8
 düşünüräm	ki	8
 ruhsat	yen	8
 alınan	b	8
-vä	dövlät	8
 talep	ett	8
 ade	ed	8
 qädim	türk	8
@@ -12841,7 +12864,6 @@ insannar	taa	8
 yaratmak	evi	8
 geldi	hem	8
 ki	onnarın	8
-de	bunun	8
 sı	bu	8
 dını	t	8
 vä	indi	8
@@ -13029,6 +13051,8 @@ lde	ç	8
 ş	gücü	8
 göz	d	8
 k	görm	8
+n	chp	8
+rı	çıkm	8
 r	part	8
 geldi	moldova	8
 buluştular	gagauziya	8
@@ -13064,6 +13088,7 @@ kolaylık	verdi	8
 ildä	isä	8
 da	heç	8
 şah	qacarın	8
+alsa	da	8
 şah	öz	8
 neçä	il	8
 at	da	8
@@ -13074,7 +13099,6 @@ cý	illärin	8
 üçün	äsas	8
 çox	hallarda	8
 täläbälärin	sayý	8
-baðlý	olan	8
 özünüidarä	orqanlarýnýn	8
 mäsäläläri	üzrä	8
 ani	kim	8
@@ -13114,7 +13138,6 @@ bazı	k	8
 rın	c	8
 ne	n	8
 çünkü	t	8
-onu	çok	8
 olur	vä	8
 üçün	onun	8
 lt	ve	8
@@ -13158,7 +13181,6 @@ gagauz	türkücüsü	8
 şükür	eder	8
 komrat	mihail	8
 bu	aydın	8
-okudu	kendi	8
 o	herzaman	8
 hazır	yardım	8
 şindi	ne	8
@@ -13194,6 +13216,7 @@ mı	n	8
 z	o	8
 n	ödül	8
 m	he	8
+ğlı	d	8
 n	er	8
 sıl	g	8
 xidmät	edir	8
@@ -13208,7 +13231,6 @@ güzel	s	8
 fındık	fiyatları	8
 etmek	için	8
 kurulu	üy	8
-n	üm	8
 kamu	kurum	8
 l	günl	8
 bu	düz	8
@@ -13218,7 +13240,6 @@ da	nasıl	8
 paalı	bir	8
 n	güne	8
 hem	ti̇kanın	8
-millet	sancısı	8
 angısını	hazırladılar	8
 yıl	taa	8
 için	gagauziyanın	8
@@ -13257,15 +13278,12 @@ açılışta	pay	8
 gagauziyanın	mariya	8
 bin	euro	8
 ıl	ya	8
-g	ve	8
 ım	v	8
 geeri	olan	8
 okadar	büük	8
 gündä	biz	8
-angısı	bizä	8
 xix	asirin	8
 halkının	istoriyası	8
-hem	uşaklara	8
 bazı	b	8
 orak	ayında	8
 sofya	torlak	8
@@ -13290,7 +13308,6 @@ geçirilän	halk	8
 nasaat	eder	8
 vizit	çerçevesindä	8
 taa	efektiv	8
-için	bilgileri	8
 inkişaf	etmiş	8
 mümkün	olduğu	8
 olduğu	dön	8
@@ -13302,6 +13319,7 @@ soruşlar	da	8
 abdulkerim	di̇nç	8
 dolay	bolniţasına	8
 bu	klisedä	8
+gösterildi	hem	8
 yas	günü	8
 yın	recep	8
 nden	sonr	8
@@ -13321,7 +13339,6 @@ ler	arasında	8
 bu	etk	8
 kım	d	8
 türkiye	tarafı	8
-büyük	ölçüd	8
 m	bir	8
 musaafirlär	için	8
 çox	olan	8
@@ -13371,6 +13388,7 @@ ayın	sonunda	8
 çıkarılması	için	8
 türk	dilli	8
 hazırladı	gagauziyanın	8
+aydınnatmak	hem	8
 küü	içindä	8
 kasabasında	bulunan	8
 da	komradın	8
@@ -13393,6 +13411,7 @@ ama	gagauziya	8
 hem	şenniklän	8
 nız	k	8
 çok	v	8
+ğız	d	8
 nın	çok	8
 buna	göre	8
 gagauziyada	eni	8
@@ -13446,7 +13465,6 @@ hüc	yayı	8
 hç	b	8
 i̇öi̇	ç	8
 vataaşaı	k	8
-g	y	8
 h	g	8
 y	l	8
 vlah	teklif	8
@@ -13465,13 +13483,11 @@ en	prost	8
 günün	en	8
 bilerlär	hem	8
 küüyündän	hem	8
-hem	födor	8
 ve	yaşam	8
 n	der	8
 r	ist	8
 bir	sır	8
 yanına	da	8
-gider	o	8
 su	vermäk	8
 dalı	harekatı'nı	8
 georgiy	tabunşçi̇k	8
@@ -13512,6 +13528,7 @@ n	şunl	8
 ben	seni	8
 re	l	8
 m	j	8
+f	n	8
 da	anılmış	8
 k	ün	8
 lan	v	8
@@ -13561,6 +13578,7 @@ s	ü	8
 ve	ülke	8
 z	hem	8
 ğru	değ	8
+k	ded	8
 bu	terör	8
 r	sınır	8
 terör	örgütünü	8
@@ -13726,7 +13744,6 @@ n	yerel	8
 täsir	göstärir	8
 ama	bizä	8
 ötä	dooru	8
-bizä	çok	8
 dooru	taa	8
 ani	adandı	8
 ci	yılına	8
@@ -13763,13 +13780,11 @@ upravleniyası	başı	8
 oldu	onun	8
 angısı	kendi	8
 r	düşüş	8
-cü	yıldönümünä	8
 biraz	zor	8
 hem	ilerletmäk	8
 allaha	dua	8
 ze	ul	8
 georgiy	tabunşçik	8
-fayda	getirecek	8
 gagauziya	üüretim	8
 ki	bir	8
 kendi	küüyündä	8
@@ -13786,14 +13801,12 @@ baaşış	için	8
 kongaz	todur	8
 küüyün	primarın	8
 ofițial	açılışında	8
-kişinev	büükelçiliinä	8
 da	tipardan	8
 vitaliy	vlah	8
 primariya	da	8
 anastasov	hem	8
 onnara	da	8
 valentin	moşkovun	8
-onun	yardımınnan	8
 yaratmak	merkezin	8
 adlı	modalar	8
 açık	inan	8
@@ -13837,9 +13850,7 @@ moldova	tarafından	8
 bu	adet	8
 hederlez	günü	8
 için	bizim	8
-o	genä	8
 yıl	sıravardır	8
-fizika	hem	8
 k	sorunl	8
 yol	göst	8
 ş	bulunm	8
@@ -13998,7 +14009,7 @@ r	son	8
 olduğunu	h	8
 yoruz	k	8
 lk	günü	8
-rn	b	8
+ğım	d	8
 yakışıklı	allaha	8
 gagauziyanın	kongaz	8
 te	onnarı	8
@@ -14017,7 +14028,6 @@ l	pol	8
 n	yeş	8
 k	pol	8
 anna	nikolayevna	8
-n	se	8
 l	seç	8
 ye	p	8
 bizim	canımız	8
@@ -14056,7 +14066,6 @@ koşo	ala	8
 oturgandardın	baarı	8
 mınday	deyt	8
 emnesi	bar	8
-jata	kalıp	8
 toktotkon	jok	8
 baykap	kaldı	8
 bolup	kalışı	8
@@ -14138,6 +14147,7 @@ süygön	jarın	8
 kalp	aytıp	8
 anan	kantip	8
 ubakıttın	içinde	8
+anın	sözünö	8
 çak	tüştö	8
 jakşı	bilem	8
 eger	siz	8
@@ -14237,13 +14247,16 @@ atın	atap	8
 jatkan	kalıñ	8
 sırtka	çıgıp	8
 jürgön	ele	8
+kelip	çıkkan	8
 taba	algan	8
 janına	alıp	8
 art	jaktan	8
 bir	som	8
 suurup	alıp	8
+ala	kaçıp	8
 köz	irmemde	8
 bolup	körünöt	8
+kiçine	ele	8
 menen	akırın	8
 jakındagan	sayın	8
 turgan	bolsoñ	8
@@ -14277,6 +14290,7 @@ sen	al	8
 bir	özgöçö	8
 çalkasınan	tüşüp	8
 emi	ele	8
+akırkı	iret	8
 özünö	da	8
 alıp	ber	8
 naarazı	bolup	8
@@ -14332,7 +14346,7 @@ emi	mınday	8
 bir	kündö	8
 katuu	şamal	8
 uşul	sözdü	8
-jıl	içinde	8
+ayaktagan	soñ	8
 bir	katar	8
 jönü	bar	8
 tugla	darıyasının	8
@@ -14353,6 +14367,7 @@ sıyaktuu	bir	8
 altın	menen	8
 bul	saparkı	8
 esine	tüşüp	8
+çeyin	al	8
 suroolorgo	joop	8
 üçünçü	künü	8
 üçün	on	8
@@ -14366,6 +14381,8 @@ bul	jigit	8
 menen	emi	8
 jarık	düynö	8
 sardarlar	menen	8
+tamak	içip	8
+üçünçü	jolu	8
 bir	kezderde	8
 baş	çeninde	8
 menen	alpuruşup	8
@@ -14383,7 +14400,6 @@ okuyadan	kiyin	8
 kayra	keldi	8
 al	kızdı	8
 altımış	beş	8
-kaza	boldu	8
 tañgıt	elin	8
 menen	ügütöy	8
 basıp	alıp	8
@@ -14417,7 +14433,6 @@ n	konuşm	8
 reket	ed	8
 bizim	bütün	8
 onun	k	8
-tombarlak	masanın	8
 n	önünde	8
 sı	sey	8
 yet	k	8
@@ -14453,16 +14468,16 @@ y	tekn	8
 bitki	oturuşunda	8
 ki	hepsi	8
 hem	iilik	8
-saalık	korumak	8
 ki	uşaklar	8
 devlet	y	8
 bu	turnir	8
 sergey	stoyanoglo	8
 dığı	m	8
 dä	olacek	8
+adım	adım	8
 onu	k	8
-hem	şıralı	8
 türkiya	devletin	8
+peydalandı	kolaylık	8
 bän	büün	8
 cumaa	günü	8
 bakannıın	uzmannarı	8
@@ -14480,7 +14495,7 @@ moldovanın	cümne	8
 y	futb	8
 de	gerçekleşt	8
 kadar	var	8
-topluşun	eni	8
+kolaylık	tanışmaa	8
 angıları	türlü	8
 belli	edilerlär	8
 bamsı	beyrek	8
@@ -14527,7 +14542,6 @@ ceza	işi	8
 lı	ş	8
 n	hüküm	8
 adına	klisesinin	8
-orus	biyligine	8
 bolup	jürüp	8
 açuusu	kelip	8
 kara	sur	8
@@ -14565,13 +14579,13 @@ da	özünçö	8
 oşonduktan	biz	8
 sançı	sınçının	8
 ookat	kılıp	8
+aytkan	eken	8
 bilip	al	8
 bardık	jagınan	8
 suu	alıp	8
 da	bala	8
 saga	bir	8
 tınçtık	berbey	8
-tañ	atpay	8
 tigil	eköö	8
 et	menen	8
 emi	aga	8
@@ -14623,6 +14637,7 @@ avtonomiyanın	yaşayannarına	8
 taras	şevçenko	8
 hem	herzaman	8
 bän	düşünerim	8
+barabar	iş	8
 lääzım	onnarı	8
 komratta	bu	8
 kimdä	var	8
@@ -14718,6 +14733,7 @@ ki	onnarı	8
 kafasını	k	8
 devletlerdä	dä	8
 zor	olacek	8
+kişi	b	8
 erideki	kuvetlerin	8
 moldovanın	poyraz	8
 en	p	8
@@ -14745,7 +14761,6 @@ bu	işlerin	8
 lıcı	v	8
 rı	uygul	8
 ldığı	k	8
-r	vb	8
 ndığı	h	8
 lı	g	8
 komratta	bulunan	8
@@ -14760,6 +14775,7 @@ ze	a	8
 r	kere	8
 el	değ	8
 çleme	etk	8
+n	yanı	8
 kkat	etmel	8
 rmek	ve	8
 rden	fazla	8
@@ -14773,7 +14789,6 @@ duasını	qäbul	8
 ne	gönder	8
 i̇lham	äliyevi	8
 büükelçilii	hem	8
-başınan	ötkörgön	8
 birläşkän	dölätlär	8
 yan	yana	8
 olarak	kabul	8
@@ -14781,8 +14796,6 @@ l	ä	8
 ä	t	8
 çünki	här	8
 häddän	artıq	8
-ägär	bu	8
-iş	üçün	8
 bu	çempionatta	8
 bakışını	bu	8
 çadırda	hem	8
@@ -14791,6 +14804,7 @@ uşak	resim	8
 r	is	8
 k	fr	8
 gün	ön	8
+ukraina	gagauzların	8
 zaman	o	8
 eylem	pl	8
 r	çocuk	8
@@ -14812,7 +14826,6 @@ ete	g	8
 şe	g	8
 rlu	k	8
 hepsini	bu	8
-ve	güven	8
 k	görülm	8
 tütün	ürünler	8
 a	teşebbüs	8
@@ -14820,7 +14833,7 @@ rör	örgütünün	8
 azerbaycan	yazıcılar	8
 r	yandan	8
 k	dur	8
-n	göğü	8
+cık	b	8
 dın	k	8
 hem	soțialistlär	8
 tarafında	bulunan	8
@@ -14880,7 +14893,6 @@ sı	elemeler	8
 r	konud	8
 cester	c	8
 ön	s	8
-uşakların	sayısı	8
 hızlı	mediţina	8
 alıp	çıkkan	8
 berüünün	orduna	8
@@ -14897,7 +14909,6 @@ jol	jürüü	8
 sol	kolun	8
 djek	london	8
 kanon	proektin	8
-emlak	konut	8
 nezaman	onnar	8
 ani	kasabanın	8
 dele	eden	8
@@ -14906,6 +14917,7 @@ komitetin	hem	8
 milliondan	zeedä	8
 n	olumsuz	8
 n	mb	8
+kendi	düşünmeklerini	8
 liţeyin	komandası	8
 käär	dä	8
 yol	kurallarını	8
@@ -14942,6 +14954,7 @@ karşı	koyan	8
 gren	h	8
 ön	v	8
 kunuşu	sözlü	8
+h	sonuçl	8
 nne	ve	8
 için	pilda	8
 şır	yık	8
@@ -14951,6 +14964,7 @@ konkursun	pay	8
 onu	t	8
 n	böyle	8
 doğru	y	8
+n	kesmek	8
 moldova	tehnik	8
 bilim	jana	8
 jaş	fin	8
@@ -14970,7 +14984,6 @@ aadına	gimnaziyasının	8
 regional	ilerlemesi	8
 halı	s	8
 gününü	belli	8
-jana	senin	8
 kuldu	satıp	8
 bir	kila	8
 intellektual	oyunnarın	8
@@ -15006,7 +15019,6 @@ qazax	olimpiya	8
 məqsədi	ilə	8
 mühitin	mühafizäsi	8
 cümnä	toplumun	8
-novella	xanım	8
 nbul	yen	8
 harlampiy	i̇lyiç	8
 gelinnerin	paradı	8
@@ -15021,6 +15033,7 @@ için	bütün	7
 başka	insannarı	7
 nı	mu	7
 den	bu	7
+r	ded	7
 kultura	adamnarı	7
 dünneyin	en	7
 ta	var	7
@@ -15065,6 +15078,7 @@ gerçekten	çok	7
 robin	gud	7
 için	sa	7
 n	q	7
+aşık	veysel	7
 halk	poetı	7
 hem	aşırıdan	7
 istänilän	halda	7
@@ -15132,7 +15146,6 @@ p	olan	7
 hukuk	mahkemes	7
 gereken	tek	7
 hem	üüredici	7
-gagauzların	istoriyası	7
 merkez	mezarlıında	7
 orta	gel	7
 n	alt	7
@@ -15163,12 +15176,10 @@ bu	binanın	7
 se	en	7
 härbi	ämäliyyatlar	7
 daxil	oldu	7
-min	näfär	7
 sovet	ordusunun	7
 çoxlu	sayda	7
 kaşığı	b	7
 k	i̇ç	7
-ğrı	k	7
 açıkça	bel	7
 da	satın	7
 r	yatırım	7
@@ -15235,6 +15246,7 @@ yüksek	k	7
 bu	yazını	7
 här	täräfdän	7
 bir	ölkädä	7
+vä	dövlät	7
 bu	millätin	7
 n	talep	7
 nde	olan	7
@@ -15263,7 +15275,6 @@ bu	ilin	7
 äsgärin	yaşantıları	7
 yol	boyu	7
 isä	onların	7
-bu	kitabda	7
 son	vaxtlar	7
 qarşı	täräfin	7
 bağlı	olan	7
@@ -15300,6 +15311,7 @@ televideniye	cümne	7
 bu	sergiyä	7
 moldovada	çok	7
 islää	hem	7
+de	bunun	7
 er	tepremesinin	7
 hale	g	7
 z	öz	7
@@ -15428,7 +15440,6 @@ bu	yazıyı	7
 rusiya	büükelçiliin	7
 konţert	hem	7
 hem	ortak	7
-muzeyin	kurucusu	7
 grigoriy	radov	7
 kendi	kararınnan	7
 meropriyatiyada	pay	7
@@ -15567,7 +15578,6 @@ qeyd	edib	7
 görä	iki	7
 arasında	ekonomika	7
 abş	vä	7
-daha	rahat	7
 öz	aralarında	7
 bu	müddätdä	7
 dövlät	ali	7
@@ -15579,6 +15589,7 @@ tätbiq	edilir	7
 gänclärin	tähsil	7
 ali	mäktäblärä	7
 vä	kreditlär	7
+baðlý	olan	7
 ilä	yanaþý	7
 täsir	göstärän	7
 kalanı	da	7
@@ -15618,7 +15629,9 @@ bu	klubun	7
 ğlı	olm	7
 bu	gibi	7
 l	müdürlüğü	7
+kurumu	btk	7
 nız	ç	7
+onu	çok	7
 o	beni	7
 älaqädar	olan	7
 üst	l	7
@@ -15672,6 +15685,7 @@ onun	ilk	7
 sora	musaafirlär	7
 lääzımnı	hem	7
 bir	kutlama	7
+okudu	kendi	7
 üürencilerä	hem	7
 dilindä	üüredici	7
 peet	kiyadı	7
@@ -15734,12 +15748,12 @@ st	p	7
 tüp	b	7
 üst	düz	7
 m	görm	7
-bu	zorlu	7
 kötü	g	7
 kıpçak	küüyündän	7
 dä	yapmaa	7
 düştü	da	7
 bu	kişilerin	7
+millet	sancısı	7
 bunu	açıkladı	7
 şen	bir	7
 hem	bizi	7
@@ -15783,7 +15797,6 @@ su	var	7
 k	i̇l	7
 n	örn	7
 benim	gibi	7
-bir	insanı	7
 k	şey	7
 mlı	ol	7
 dedi	ve	7
@@ -15799,9 +15812,11 @@ angısı	büün	7
 lääzım	bir	7
 bukadar	çok	7
 zaamet	koydular	7
+angısı	bizä	7
 sade	lääzım	7
 vakıt	o	7
 dä	yardım	7
+hem	uşaklara	7
 kültür	m	7
 başarılı	yardımcı	7
 sur	h	7
@@ -15817,6 +15832,7 @@ n	int	7
 yı	ç	7
 onların	öz	7
 k	güçlü	7
+g	ve	7
 rımız	ve	7
 rını	söyl	7
 p	çıkm	7
@@ -15840,6 +15856,7 @@ milli	azinniklardan	7
 merkez	hem	7
 büük	önem	7
 eder	devlet	7
+için	bilgileri	7
 ıldızlı	ot	7
 olduğuna	d	7
 r	ya	7
@@ -15853,7 +15870,6 @@ açık	urok	7
 yıl	komrat	7
 üstolan	durumnarın	7
 kurulmasınnan	ilgili	7
-mihail	kendi̇gelän	7
 kişi	öldü	7
 de	yüzde	7
 tayyip	erdoğannan	7
@@ -15876,11 +15892,11 @@ azärbaycan	ordusu	7
 l	kur	7
 m	ver	7
 süre	ön	7
-daş	müşt	7
 umut	etti	7
 moldova	programaların	7
 yapması	için	7
 zeedä	para	7
+büyük	ölçüd	7
 l	kırıklığı	7
 aklına	getirer	7
 üç	ayda	7
@@ -15965,7 +15981,6 @@ romın	dilinä	7
 pötr	petkovi̇ç	7
 mihail	esi̇r	7
 kanonnara	görä	7
-üüsek	sovetinin	7
 prezidentı	stepan	7
 sport	yarışmaları	7
 ani	birkaç	7
@@ -15976,7 +15991,6 @@ birliinä	girän	7
 draganov	adına	7
 yapılan	proektlar	7
 cı	yıldönümünü	7
-yılda	kuruldu	7
 ci	halklararası	7
 uzun	kervan	7
 rolü	için	7
@@ -16046,6 +16060,7 @@ a	aağı	7
 b	vayt	7
 sts	vataaşaı	7
 dğşkk	p	7
+g	y	7
 adrese	dayalı	7
 yılda	ilk	7
 iş	aslıya	7
@@ -16061,11 +16076,13 @@ dilini	üürenmäk	7
 ama	eni	7
 hem	yakınnarına	7
 harman	ayının	7
+hem	födor	7
 müdür	yardım	7
 başkanı	verdi	7
 n	görm	7
 m	gö	7
 bir	vakıtta	7
+gider	o	7
 lumlu	b	7
 k	devletler	7
 nde	terör	7
@@ -16162,6 +16179,7 @@ gagauziya	baş	7
 nı	ç	7
 hiv	p	7
 n	aids	7
+aids	t	7
 t	veren	7
 n	duy	7
 dığı	ş	7
@@ -16240,6 +16258,7 @@ başka	bilim	7
 rt	g	7
 den	ber	7
 iki	afta	7
+sovet	zamanında	7
 alarak	onu	7
 kutlama	programasında	7
 isteyennär	var	7
@@ -16253,7 +16272,7 @@ futbol	komandası	7
 şveţovun	anmasına	7
 su	ve	7
 ve	ma	7
-ıs	a	7
+ye	de	7
 lduğu	ve	7
 şmeler	ve	7
 ti̇ka	yardımınnan	7
@@ -16280,7 +16299,6 @@ türkiye	parlamentın	7
 komrat	muniţipal	7
 izmet	için	7
 bir	küüdä	7
-acızgannıımızı	bildireriz	7
 anılmış	rus	7
 gagauz	milletin	7
 deyni	yapıldı	7
@@ -16290,6 +16308,7 @@ o	bölg	7
 bu	ve	7
 yer	almaktadır	7
 birbaşa	olaraq	7
+eşek	arısı	7
 sözündän	sora	7
 hem	bilgi	7
 iv-cü	halklararası	7
@@ -16297,7 +16316,6 @@ türkiye	ti̇ka	7
 eer	bu	7
 vä	däyärlär	7
 täqdim	edilir	7
-malik	olan	7
 programası	için	7
 insanın	önünä	7
 analar-bobalar	da	7
@@ -16320,7 +16338,6 @@ ardına	da	7
 dev	adamı	7
 açan	bizä	7
 gider	da	7
-pani	dädu	7
 sıra	gelärdi	7
 otuz	yıl	7
 lduğunu	k	7
@@ -16387,6 +16404,7 @@ n	beklend	7
 kaldırmaa	hem	7
 yardım	lääzım	7
 biz	hiç	7
+bizä	çok	7
 çakir	için	7
 mitropolitı	vladi̇mi̇r	7
 selda	özdenoğluya	7
@@ -16449,6 +16467,7 @@ insanı	hem	7
 hem	kiyadın	7
 denk	gelen	7
 aaraştırmak	merkezi	7
+fayda	getirecek	7
 da	koydu	7
 evlad	boyları	7
 bizim	en	7
@@ -16458,6 +16477,7 @@ aleksandra	i̇vanovna	7
 n	toplum	7
 n	kuruluş	7
 gagauziyanın	yaşlılar	7
+kişinev	büükelçiliinä	7
 ğı	doğru	7
 ama	iki	7
 rusiya	hem	7
@@ -16474,6 +16494,7 @@ gagauzça	türkü	7
 teklif	edildilär	7
 başka	devlet	7
 gagauziyaya	bir	7
+onun	yardımınnan	7
 gagauziyadan	bu	7
 istisna	olmaqla	7
 nä	däräcädä	7
@@ -16524,6 +16545,7 @@ hem	insannarı	7
 da	hederlez	7
 bu	festivalin	7
 ona	taa	7
+fizika	hem	7
 tehnologiyaları	hem	7
 k	bul	7
 y	boyunc	7
@@ -16611,9 +16633,7 @@ rı	sebeb	7
 z	sezon	7
 tl	c	7
 n	deney	7
-n	tl'ye	7
 tlı	y	7
-le	cez	7
 kım	y	7
 ğlı	m	7
 k	söyl	7
@@ -16716,7 +16736,6 @@ kanun	tekl	7
 pandemiya	beterinä	7
 beterinä	bu	7
 olduğunu	s	7
-bunu	t	7
 k	günü	7
 rçok	s	7
 dığımız	b	7
@@ -16726,6 +16745,7 @@ günü	v	7
 zım	s	7
 ş	ort	7
 dığını	sö	7
+rn	b	7
 son	günlerde	7
 r	vermek	7
 sı	verd	7
@@ -16756,6 +16776,7 @@ yıldönümünnän	hem	7
 da	çeketti	7
 reler	seç	7
 zmet	etmek	7
+n	se	7
 son	gün	7
 lçe	b	7
 z	süres	7
@@ -16801,6 +16822,7 @@ kudayga	şügür	7
 ele	çoñ	7
 toktono	albay	7
 dep	surayt	7
+jata	kalıp	7
 gana	al	7
 üçöö	teñ	7
 degendi	tüşündüröt	7
@@ -16889,7 +16911,6 @@ men	barıp	7
 sır	bar	7
 degi	ele	7
 bir	küç	7
-ala	kelgen	7
 menen	kandaydır	7
 kanday	eken	7
 çıga	baştadı	7
@@ -16910,7 +16931,6 @@ al	jerdegi	7
 men	özümö	7
 ekenin	eç	7
 közdöy	bastı	7
-izdep	jürüp	7
 uşunun	özü	7
 al	uşunçalık	7
 körör	zamat	7
@@ -16924,6 +16944,7 @@ da	jañı	7
 özünün	bir	7
 diplom	hem	7
 r	tem	7
+nbul	d	7
 recek	b	7
 nuk	ek	7
 n	arsl	7
@@ -16944,7 +16965,6 @@ kep	salıp	7
 kanday	ele	7
 ee	bolo	7
 gana	bolup	7
-kaysı	gana	7
 körsötüp	turat	7
 alda	kanday	7
 dey	turgan	7
@@ -17018,7 +17038,6 @@ bilet	eken	7
 dep	aytışat	7
 bul	kanday	7
 kün	batıp	7
-küügüm	kirip	7
 kelgende	gana	7
 baarın	teñ	7
 da	oñoy	7
@@ -17033,7 +17052,6 @@ baştap	alıp	7
 otura	berdi	7
 başçılık	kılgan	7
 esin	jıyıp	7
-kiyin	eki	7
 bıçak	menen	7
 kalıñ	jılkı	7
 dep	ayt	7
@@ -17136,7 +17154,6 @@ kol	salat	7
 uşul	üç	7
 elek	eken	7
 jol	boyundagı	7
-ayabay	jaktı	7
 bar	ekendigine	7
 on	jetige	7
 üçün	el	7
@@ -17144,6 +17161,7 @@ köçmön	el	7
 çabuul	koyup	7
 mında	kelip	7
 kündöy	suluu	7
+jıl	içinde	7
 küyüp	turgan	7
 ele	temüçin	7
 ortosuna	çeyin	7
@@ -17154,7 +17172,6 @@ saya	kuup	7
 jindi	bolup	7
 bütkön	boyun	7
 çıray	menen	7
-elem	go	7
 sözü	boyunça	7
 oñ	jana	7
 közünön	ot	7
@@ -17222,6 +17239,7 @@ miñ	tütün	7
 üçünçü	uulu	7
 aydan	açık	7
 bul	işte	7
+kaza	boldu	7
 turgan	adamdar	7
 tañgıt	eline	7
 da	jakın	7
@@ -17260,7 +17278,6 @@ başka	ayla	7
 jönü	jok	7
 öz	ömürün	7
 dep	buyurdu	7
-çıkpay	kaldı	7
 kündördün	bir	7
 şek	jok	7
 al	köpkö	7
@@ -17285,9 +17302,9 @@ adına	muzika	7
 uşaklarına	deyni	7
 dün	ge	7
 ptırım	uygul	7
-biz	hepsini	7
 her	y	7
 berlere	göre	7
+tombarlak	masanın	7
 moldova	parlamenti	7
 parlamenti	kabletti	7
 e	c	7
@@ -17344,8 +17361,8 @@ cümnä	aktivistleri	7
 proektin	pay	7
 ii	örnek	7
 hem	aaraştırmak	7
-adana	demirspor	7
 başarıları	için	7
+saalık	korumak	7
 standartlara	görä	7
 suyun	kalitesi	7
 dil	lääzım	7
@@ -17355,15 +17372,16 @@ ve	yüksek	7
 olduğu	ort	7
 kesmeden	dev	7
 n	surv	7
+n	sms	7
 çok	olur	7
 sıl	s	7
 n	ols	7
 p	z	7
 n	gül	7
 dost	k	7
+hem	şıralı	7
 bakıldı	soruş	7
 elena	karamit	7
-yıllar	için	7
 günlük	y	7
 bu	mümkün	7
 y	z	7
@@ -17393,6 +17411,7 @@ r	hâl	7
 ğı	ç	7
 için	insannar	7
 md	saytında	7
+topluşun	eni	7
 regional	uurunda	7
 para	yardımını	7
 gagauziyanın	ekonomika	7
@@ -17407,7 +17426,6 @@ karçar	eydür	7
 getürüñ	dedi	7
 dede	korkud	7
 dede	eydür	7
-ola	biñ	7
 dedi	bay	7
 kas	güldi	7
 bir	yigit	7
@@ -17469,11 +17487,13 @@ oruç	tutm	7
 yırlı	b	7
 o	günd	7
 n	tutm	7
+çukur	d	7
 baş	iygen	7
 baştan	ötkörgön	7
 koş	köñül	7
 köz	karaşın	7
 kele	kalgan	7
+orus	biyligine	7
 tee	ilgerki	7
 temir	menen	7
 atake	menen	7
@@ -17516,6 +17536,7 @@ degen	suroo	7
 tuura	jolgo	7
 tak	uşunday	7
 bul	zaman	7
+tañ	atpay	7
 arkan	menen	7
 kayra	dagı	7
 aga	moyun	7
@@ -17573,7 +17594,6 @@ oturuşun	süresindä	7
 ley	verildi	7
 etti	kendisini	7
 söledi	komrat	7
-r	wh	7
 lk	v	7
 axtarılıb	tapılır	7
 bu	yöntem	7
@@ -17604,7 +17624,6 @@ belli	olȇrlar	7
 lk	p	7
 f	p	7
 için	bücet	7
-komitetin	oturuşunda	7
 büükelçisi	moldovada	7
 sayısı	zeedelendi	7
 çok	işlemää	7
@@ -17622,7 +17641,6 @@ eskişehir	kasabasında	7
 kurdu	hem	7
 literaturası	uurunda	7
 n	ond	7
-leyä	kadar	7
 halk	topluşunnan	7
 ak	juumal	7
 tarmal	çaçı	7
@@ -17813,6 +17831,7 @@ r	pol	7
 t	öz	7
 kıbrıs	türk	7
 uluu	akın	7
+başınan	ötkörgön	7
 baarı	menen	7
 dunya	uyğur	7
 demokrasi	ve	7
@@ -17826,7 +17845,9 @@ ele	geçirmek	7
 bilindiği	gibi	7
 yırçı	qazaq	7
 sonsuza	kadar	7
+ägär	bu	7
 zamanda	bir	7
+iş	üçün	7
 bu	platforma	7
 bir	färd	7
 kalmadı	bir	7
@@ -17858,6 +17879,7 @@ n	dışında	7
 tarım	ve	7
 uz	k	7
 mümkün	ol	7
+ve	güven	7
 ve	dün	7
 rın	doğru	7
 nç	g	7
@@ -17881,6 +17903,7 @@ ren	turan	7
 ğrı	v	7
 seçim	kodeksına	7
 rın	ür	7
+n	göğü	7
 mın	d	7
 fazla	güz	7
 z	güz	7
@@ -17931,7 +17954,6 @@ yılın	sonuna	7
 öşün	koca	7
 tagum	yüksegi	7
 karusından	ag	7
-canli	mac	7
 iddaa	basket	7
 şampiyonluk	oranları	7
 iddaa	oranı	7
@@ -17985,6 +18007,7 @@ r	şöyle	7
 gençlär	var	7
 soţial	sigortalamak	7
 ayın	çeketmesindän	7
+uşakların	sayısı	7
 üstü	menen	7
 jürüp	ketti	7
 lon	mak-feyn	7
@@ -18019,6 +18042,7 @@ ngıç	y	7
 ük	katkı	7
 bu	yapılȇr	7
 var	kolaylıı	7
+emlak	konut	7
 bu	yaz	7
 alıp	esaba	7
 valeriy	yanioglo	7
@@ -18040,7 +18064,6 @@ ev	tutuklaması	7
 baş	prokurorluk	7
 iki	keret	7
 bölä	uurda	7
-komrat	türk	7
 yı	orucu	7
 bän	isterim	7
 moldovanın	genel	7
@@ -18088,20 +18111,20 @@ bu	yılda	7
 cra	tak	7
 g	a	7
 metrekare	f	7
-yorum	ve	7
 rak	hal	7
 hansý	bir	7
 kateqoriyasý	üzrä	7
 að	mayaný	7
 ä	r	7
-t	o	7
 dünyada	ilin	7
 ilin	än	7
 än	yax	7
 yax	þý	7
 güney	azärbaycanda	7
 barış	içindä	7
+cü	yıldönümünä	7
 mediţina	izmeti	7
+k	dönem	7
 ender	arat	7
 hem	yazısı	7
 n	prof	7
@@ -18115,7 +18138,6 @@ aynı	dönem	7
 yüz	k	7
 r	tutumd	7
 n	sizl	7
-vli	çiftl	7
 yimi	t	7
 rmeye	b	7
 rının	en	7
@@ -18207,6 +18229,7 @@ liţeyin	üürenicisi	7
 bununnan	baalı	7
 kış	vakıdına	7
 boluunu	kaalasañ	7
+jana	senin	7
 bolsun	jana	7
 bol	jana	7
 sözmö	söz	7
@@ -18222,11 +18245,11 @@ onun	bunun	7
 taşınmaz	malların	7
 ş	ücret	7
 marmara	konakları	7
-dü	ş	7
 açan	tezek	7
 rt	bulm	7
 ılır	göz	7
 cümneyi	koruma	7
+b	olm	7
 n	türkl	7
 kasabasının	mihail	7
 dimitriy	karaçoban	7
@@ -18240,7 +18263,6 @@ naz	körsötüp	7
 jaş	jürögün	7
 bu	dagı	7
 je	jigit	7
-asman	jerdi	7
 han	sultanga	7
 kiyin	ajımurat	7
 hanefi	menen	7
@@ -18274,6 +18296,7 @@ iddaa	karşılıklı	7
 karşılıklı	gol	7
 bayilik	bershka	7
 bayilik	şartlari	7
+novella	xanım	7
 erzurum	mng	7
 kır	atı	7
 kum	z	7
@@ -18288,6 +18311,7 @@ alıkuldun	bir	7
 kırgız	adabiyatının	7
 şota	rustavelinin	7
 alıkuldun	ırları	7
+osmonov	atındagı	7
 alıkuldun	ır	7
 baldar	üyünö	7
 mina	vasileviç	7
@@ -18299,12 +18323,10 @@ onun	başına	6
 hem	kısmet	6
 sade	onun	6
 neçinki	o	6
-r	d	6
 rtık	y	6
 açılışı	hem	6
 kara	deniz	6
 millet	hem	6
-häyat	yoldaşı	6
 täbiät	vä	6
 yusif	ziya	6
 bir	yana	6
@@ -18332,7 +18354,6 @@ göz	altında	6
 serbest	hem	6
 karşı	gidän	6
 çalışmaa	hem	6
-bu	sıraya	6
 lääzım	kabletsinnär	6
 açık	olsun	6
 arasında	hem	6
@@ -18483,6 +18504,7 @@ eden	bakan	6
 dua	ed	6
 ncı	b	6
 p	n	6
+ve	fed	6
 ve	denetleme	6
 nın	dört	6
 lduğunu	görü	6
@@ -18499,20 +18521,20 @@ menkul	üzer	6
 dağlıq	qarabağın	6
 etdiyinä	görä	6
 üçün	konkret	6
+min	näfär	6
 keçän	gecä	6
 cı	motoatıcı	6
 qätlä	yetirdilär	6
 may	ayının	6
 y	tük	6
 şırı	b	6
-para	cezası	6
+ğrı	k	6
 bağımsız	bölüm	6
 olduğunu	göster	6
 doğru	ve	6
 bazı	belgeler	6
 satış	f	6
 nde	bugün	6
-sel	gel	6
 ve	on	6
 n	güçlenmes	6
 n	sınırlı	6
@@ -18521,7 +18543,6 @@ rt	ve	6
 k	dökülm	6
 n	ar	6
 bulunan	m	6
-z	için	6
 al	b	6
 açıklama	yapan	6
 hdam	ve	6
@@ -18578,7 +18599,6 @@ ortaya	atıldı	6
 azad	etdi	6
 dä	eyni	6
 qadınlar	da	6
-ilä	vä	6
 göz	atab	6
 n	yılın	6
 yılın	son	6
@@ -18628,6 +18648,7 @@ mätbuat	şurasına	6
 iştirak	etmäk	6
 härbi	xidmät	6
 bir	yerindä	6
+bu	kitabda	6
 bir	gänc	6
 yer	alır	6
 olduğunu	bildirdi	6
@@ -18862,6 +18883,7 @@ festival	için	6
 i̇spolkomun	predsedatel	6
 departamentın	başı	6
 günnerindä	gagauziyanın	6
+muzeyin	kurucusu	6
 olan	moldova	6
 grt	televideniyasının	6
 el	ustaların	6
@@ -18896,7 +18918,6 @@ vä	pis	6
 allahı	yada	6
 vä	ilk	6
 peyğämbär	häzräti	6
-paralel	olarak	6
 bu	yıllar	6
 pek	mutlu	6
 sovetinin	başı	6
@@ -18950,7 +18971,6 @@ ayına	kadar	6
 taa	sovet	6
 artık	hepsi	6
 kabaatlı	buldu	6
-herbir	eni	6
 toplum	kuruluşları	6
 äslindä	isä	6
 can	atan	6
@@ -19003,7 +19023,6 @@ kömäk	edir	6
 yaalı	boya	6
 bibliotekanın	direktoru	6
 ndi	k	6
-zaman	b	6
 uzun	zamandır	6
 lan	bir	6
 tı	g	6
@@ -19014,6 +19033,7 @@ bu	dokument	6
 taa	ucuz	6
 idarä	edä	6
 häräkät	edän	6
+daha	rahat	6
 hälä	ki	6
 da	nadir	6
 kärim	xan	6
@@ -19041,7 +19061,6 @@ diqqäti	cälb	6
 olmalý	idi	6
 etmäk	mümkün	6
 mümkün	oldu	6
-iqtisadi	vä	6
 tähsil	mäsäläläri	6
 maliyyäläþdirilmäsinä	dair	6
 iräli	gälän	6
@@ -19090,7 +19109,6 @@ tähsil	sistemini	6
 olan	ümumi	6
 nazirliyi	vä	6
 tähsil	sistemi	6
-r	at	6
 tl	p	6
 a	gelen	6
 uzun	uzun	6
@@ -19109,7 +19127,6 @@ f	bir	6
 yın	v	6
 n	zeng	6
 lduğunu	düşünü	6
-kurumu	btk	6
 nu	k	6
 genel	müdür	6
 r	den	6
@@ -19223,6 +19240,7 @@ plenar	toplantısı	6
 olan	bäzi	6
 lığı	b	6
 tagram	h	6
+mu	y	6
 r	dört	6
 er	yok	6
 da	vermää	6
@@ -19265,11 +19283,11 @@ t	gör	6
 yurt	dışından	6
 çok	acı	6
 türk	halkının	6
+bu	zorlu	6
 devlet	olarak	6
 asker	selamı	6
 sa	bir	6
 merak	ediliyor	6
-c	ve	6
 nra	d	6
 raametli	olmuş	6
 birkaç	saat	6
@@ -19337,6 +19355,7 @@ n	kızı	6
 kımlı	v	6
 oldu	b	6
 ve	hatta	6
+bir	insanı	6
 uz	t	6
 r	proj	6
 herhangi	bir	6
@@ -19380,7 +19399,6 @@ olması	vä	6
 beynälxalq	säviyyädä	6
 çok	bü	6
 bilersiniz	mi	6
-oldular	o	6
 mihail	jelezoglu	6
 kissa	hem	6
 da	işlemää	6
@@ -19421,7 +19439,7 @@ yortu	başladı	6
 çok	soruşlar	6
 hem	industriya	6
 küüyü	liţeyin	6
-predsedateli	mihail	6
+mihail	kendi̇gelän	6
 klını	b	6
 ek	ol	6
 episkopu	anatoli̇y	6
@@ -19596,6 +19614,7 @@ küüyündä	oldu	6
 musaafirlär	tanıştılar	6
 r	görünüme	6
 da	kull	6
+üüsek	sovetinin	6
 sovetin	predsedateli	6
 evindä	yortulu	6
 şok	d	6
@@ -19607,6 +19626,7 @@ kaarä	kendi	6
 ministerliin	devlet	6
 kendi	yaratmalarınnan	6
 halk	hem	6
+yılda	kuruldu	6
 patret	sergisi	6
 bulunan	gagauz	6
 yapêr	hem	6
@@ -19686,7 +19706,6 @@ v	ç	6
 tük	ka	6
 hüc	yayıı	6
 y	vkt	6
-başkaıa	ğa	6
 b	sayı	6
 y	r	6
 g	ö	6
@@ -19740,6 +19759,7 @@ n	bedel	6
 mutlu	olduğunu	6
 ş	yönet	6
 demba	ba	6
+l	güneş	6
 bu	dokumenttä	6
 än	az	6
 şäxs	üçün	6
@@ -19757,7 +19777,6 @@ gagauziyanın	may	6
 angısında	o	6
 oldu	gagauzların	6
 altına	almaa	6
-aaraştırma	ministerlii	6
 hem	gelecää	6
 türküleri	çaldılar	6
 kongazın	todur	6
@@ -19795,6 +19814,7 @@ kle	d	6
 bunun	yanı	6
 et	halk	6
 halk	part	6
+z	hal	6
 önüne	g	6
 rum	v	6
 literaturasında	respublika	6
@@ -19841,7 +19861,6 @@ hem	islää	6
 geeri	biz	6
 bir	çirkin	6
 angısı	verecek	6
-getirer	ona	6
 buluşmaa	hem	6
 gün	bo	6
 ız	ilişki	6
@@ -19886,6 +19905,7 @@ a	karşı	6
 ruşturma	kapsamında	6
 deden	çavuş	6
 stlerden	tem	6
+n	nato	6
 temasları	kapsamında	6
 ve	barış	6
 ol	deeriz	6
@@ -19968,7 +19988,6 @@ milli	rubalarına	6
 t	etm	6
 neredä	sä	6
 i̇kincisi	da	6
-sovet	zamanında	6
 dooru	yoldan	6
 yortusu	bakılêr	6
 ruslan	garbali	6
@@ -20036,7 +20055,7 @@ bu	birlik	6
 hem	açan	6
 hem	cana	6
 geldi	o	6
-devletlerin	arasında	6
+acızgannıımızı	bildireriz	6
 nicä	büün	6
 dooru	yola	6
 ilk	prezidentı	6
@@ -20060,6 +20079,7 @@ kolaylıkları	için	6
 ya	yakın	6
 täşkil	edilir	6
 milyardlarla	dollar	6
+malik	olan	6
 täsir	göstärmäk	6
 paralel	üürenmäk	6
 ödülü	verildi	6
@@ -20107,7 +20127,6 @@ nden	ol	6
 ğer	tüm	6
 teatrunun	öndercisi	6
 ş	geld	6
-ve	gerçek	6
 lere	de	6
 ani	ilgiliydilär	6
 canabisi	teklif	6
@@ -20116,7 +20135,6 @@ hem	neredän	6
 görev	ve	6
 bu	konferenţiya	6
 nicä	devlet	6
-sonunda	kabledildi	6
 kendi	kararını	6
 odası	başkanı	6
 n	bes	6
@@ -20187,7 +20205,6 @@ arasında	politika	6
 yabancı	devletlerin	6
 da	gagauziyaya	6
 bizdä	da	6
-hepsimiz	bileriz	6
 bizä	karşı	6
 halkın	kendi	6
 bilä	gelän	6
@@ -20241,16 +20258,13 @@ mod	apk	6
 nı	mevlüt	6
 soru	üzer	6
 sı	beklenen	6
-vme	k	6
 teşekkür	eden	6
 incäzanaat	albom	6
 hem	mas-mediyaylan	6
-pek	seviner	6
 kiyatlar	için	6
 hederlez	ayında	6
 üst	yönet	6
 lması	neden	6
-yıldönümünä	hem	6
 diplomatlar	hem	6
 mihai	eminescu	6
 o	önemli	6
@@ -20290,7 +20304,6 @@ taman	o	6
 hem	kolada	6
 dışında	olan	6
 senin	gibi	6
-yardımınnan	biz	6
 k	gr	6
 ba	bir	6
 bir	karara	6
@@ -20324,7 +20337,6 @@ stepan	topalı	6
 halkının	hem	6
 önemni	olduunu	6
 kapalı	sport	6
-parlamentin	deputatları	6
 birinci	uşak	6
 taa	yavaş	6
 uşaklar	annattılar	6
@@ -20480,8 +20492,10 @@ gtm	korol	6
 r	kor	6
 rımızın	k	6
 ttığı	t	6
+n	tl'ye	6
 koruyucu	k	6
 nın	yen	6
+le	cez	6
 son	t	6
 zı	ç	6
 dün	de	6
@@ -20525,7 +20539,7 @@ dostluk	m	6
 rın	olm	6
 buçuk	m	6
 ben	k	6
-önce	h	6
+ve	erzurum	6
 ii-ci	dünnää	6
 ns	ort	6
 ek	h	6
@@ -20617,6 +20631,7 @@ de	sö	6
 gagauziyanın	öndercilerinnän	6
 şlıklı	h	6
 olduğu	vurgul	6
+bunu	t	6
 dlı	ş	6
 son	g	6
 rekete	geç	6
@@ -20629,7 +20644,6 @@ kunuşu	t	6
 n	sınırl	6
 ksız	t	6
 n	evler	6
-süre	sonr	6
 i̇oann	vartizedicinin	6
 lääzım	pek	6
 etmää	kendi	6
@@ -20722,7 +20736,6 @@ kelişti	da	6
 özün	da	6
 çınında	bul	6
 kabıl	alat	6
-etkenden	tak	6
 uşul	dep	6
 kayrılıp	keldi	6
 menen	añgemeleşip	6
@@ -20782,9 +20795,7 @@ da	eñ	6
 jaş	balanın	6
 ubada	berdi	6
 tamak	alıp	6
-baldar	da	6
 üçün	ayabay	6
-ele	oor	6
 bizge	bir	6
 handın	kızın	6
 men	mından	6
@@ -20844,6 +20855,7 @@ aytor	bir	6
 emes	bul	6
 öptü	da	6
 uşul	mezgilde	6
+ala	kelgen	6
 menen	uluu	6
 azapka	salıp	6
 ötüp	bara	6
@@ -20880,6 +20892,7 @@ men	birinçi	6
 çıkkan	bir	6
 ayabay	korkup	6
 oñoy	iş	6
+izdep	jürüp	6
 kim	bolot	6
 ukkan	emesmin	6
 nerse	kıla	6
@@ -20891,13 +20904,11 @@ kıldı	ele	6
 m	öz	6
 rım	k	6
 m	pl	6
-olmasına	rağmen	6
 fevral	ayın	6
 ştığı	h	6
 n	ödeme	6
 nde	dün	6
 ve	bü	6
-nbul	d	6
 n	kör	6
 sahasında	konuk	6
 tek	golle	6
@@ -20934,6 +20945,7 @@ elder	menen	6
 mına	uşular	6
 köz	aldıbızga	6
 öz	kezeginde	6
+kaysı	gana	6
 ketkim	kelet	6
 eñ	soñku	6
 turgan	çakta	6
@@ -20977,7 +20989,6 @@ menen	dal	6
 unçukpay	oturdu	6
 sözdörün	ugup	6
 akır	zaman	6
-dalaydan	beri	6
 oylodu	da	6
 dep	aytuuga	6
 jatkan	çoñ	6
@@ -21044,6 +21055,7 @@ dep	jar	6
 at	minip	6
 degen	uşul	6
 bardıgın	teñ	6
+küügüm	kirip	6
 kelgenge	çeyin	6
 jarmañke	başına	6
 kabar	keldi	6
@@ -21069,7 +21081,7 @@ emne	kılsa	6
 öz	bilgenin	6
 da	alda	6
 çıga	berdi	6
-akıl	aytıp	6
+kiyin	eki	6
 attın	başın	6
 koyö	berip	6
 saattın	içinde	6
@@ -21102,7 +21114,6 @@ tuuraluu	kabar	6
 bergen	emes	6
 degen	suroogo	6
 arañ	turgan	6
-aluuga	bolot	6
 aga	men	6
 bir	sözdü	6
 menen	emne	6
@@ -21147,7 +21158,6 @@ alakanı	menen	6
 asker	çıgaruunu	6
 anın	biri	6
 menen	barıp	6
-jüzdön	aşık	6
 tañ	erteñ	6
 menen	büttü	6
 da	kördü	6
@@ -21241,6 +21251,7 @@ segiz	kula	6
 toosunun	etegindegi	6
 dedi	temüçin	6
 törtünçü	künü	6
+ayabay	jaktı	6
 bular	menen	6
 mından	murda	6
 makul	bolgon	6
@@ -21253,6 +21264,7 @@ jarılıp	kete	6
 uşul	boluçu	6
 belgilüü	ele	6
 oşondon	tartıp	6
+elem	go	6
 uruusunan	çıkkan	6
 tüşsö	da	6
 dosum	dep	6
@@ -21302,7 +21314,6 @@ baş	alaman	6
 elçi	jiberip	6
 men	köp	6
 köp	keçikpey	6
-aluu	jönündö	6
 ayırması	jok	6
 ömür	sürüp	6
 tüşünüktüü	ele	6
@@ -21348,7 +21359,6 @@ bul	kol	6
 anan	uşul	6
 çakırtıp	alıp	6
 menen	subataydın	6
-kezde	anın	6
 jek	köröt	6
 emne	ekendigin	6
 öz	üyünö	6
@@ -21389,6 +21399,7 @@ kança	jıl	6
 alar	dagı	6
 dep	kolun	6
 bekem	karmap	6
+çıkpay	kaldı	6
 özü	jakşı	6
 bir	şaarga	6
 bir	kezdegi	6
@@ -21416,10 +21427,10 @@ lde	u	6
 m	yılınd	6
 real	madr	6
 bu	genç	6
-der	b	6
 nı	kem	6
 bizä	bizim	6
 zor	yaşamak	6
+biz	hepsini	6
 güzel	bir	6
 için	yardım	6
 nicä	moldova	6
@@ -21496,6 +21507,7 @@ rektörü	f	6
 taa	önemli	6
 hava	karg	6
 o	insanın	6
+adana	demirspor	6
 yı	etk	6
 analar	hem	6
 üüretim	sistemasının	6
@@ -21530,8 +21542,8 @@ dmitriy	manol	6
 sizin	işiniz	6
 kabledilmesinä	karşı	6
 deyni	belli	6
+yıllar	için	6
 yaroslav	bulgaru	6
-ck	gözledici	6
 komisiyanın	azaları	6
 birkaç	soruş	6
 var	hakları	6
@@ -21666,7 +21678,6 @@ r	hüküm	6
 angısı	komrat	6
 yaşlılar	sovetin	6
 varvara	topal	6
-çukur	d	6
 yardımın	içindä	6
 ministrusu	pavel	6
 açık	ürekli	6
@@ -21771,7 +21782,6 @@ turgan	dagı	6
 çoñ	ak	6
 oşondo	alar	6
 arı	jakta	6
-alalı	dep	6
 ötö	jakın	6
 jini	kelgen	6
 da	köz	6
@@ -21881,7 +21891,6 @@ bir	insandı	6
 sport	çeşiti	6
 azerbaycan	halk	6
 ük	ş	6
-kilalık	kategoriyasında	6
 onnar	getirdilär	6
 ödül	hem	6
 kopçak	küüyünün	6
@@ -21925,6 +21934,7 @@ bir	kıpımda	6
 bän	istedim	6
 ekmäk	için	6
 angıları	büün	6
+komitetin	oturuşunda	6
 çoyu	kurumnar	6
 muzeyindä	oldu	6
 bulundu	gagauziyanın	6
@@ -21948,10 +21958,10 @@ kuru	c	6
 topluşun	oturuşunda	6
 bin	leylik	6
 k	bunun	6
+leyä	kadar	6
 ani	üüredicilär	6
 teklif	edilmiş	6
 büünkü	gagauziya	6
-kızı	menen	6
 turgan	jo	6
 kıykırıp	iydi	6
 emne	kılayın	6
@@ -21962,7 +21972,6 @@ baarı	dayar	6
 oylop	koydu	6
 març	jeñege	6
 birok	anda	6
-al	jana	6
 abdan	jaktı	6
 işke	kirişti	6
 aytpadım	bele	6
@@ -22162,7 +22171,6 @@ bir	kap	6
 kızlar	hem	6
 dionis	tanasogluya	6
 nızı	b	6
-ze	çok	6
 len	p	6
 kle	m	6
 şey	v	6
@@ -22173,7 +22181,6 @@ vlah	pay	6
 eni	seçimnär	6
 da	kabletsinnär	6
 başka	önemli	6
-dığınız	d	6
 ilişkileri	için	6
 perinatal	merkezindä	6
 derindän	remont	6
@@ -22181,7 +22188,6 @@ iş	vizitin	6
 r'ın	b	6
 n	göç	6
 ynı	ç	6
-onu	g	6
 aleksandr	nedu	6
 kendi	konkurentlarını	6
 kilalık	kategoriyada	6
@@ -22246,7 +22252,6 @@ nasıl	da	6
 ele	kaldı	6
 vatandaşlar	için	6
 nümayändä	heyäti	6
-dän	çox	6
 salmaq	üçün	6
 on	iki	6
 här	häftä	6
@@ -22263,7 +22268,6 @@ tanış	oldum	6
 o	söledi	6
 birisi	onnardan	6
 rını	duyurdu	6
-lääzım	işlemää	6
 bän	var	6
 kız	hem	6
 pötr	kuru	6
@@ -22327,7 +22331,6 @@ dış	k	6
 e	kupası	6
 cenk	için	6
 kıran	ayında	6
-verdi	gagauz	6
 r	em	6
 i̇stanbul	ataköy	6
 s	memuru	6
@@ -22450,6 +22453,7 @@ rlıklı	k	6
 z	vur	6
 iddaa	vergi	6
 kod	okuma	6
+canli	mac	6
 analizi	nasıl	6
 net	basketbol	6
 iddaa	spor	6
@@ -22460,7 +22464,6 @@ canlı	yorum	6
 canlı	basket	6
 yasal	mı	6
 yarınki	iddaa	6
-iddaa	iy	6
 mındayça	aytkanda	6
 maalda	al	6
 oşondo	tom	6
@@ -22605,7 +22608,6 @@ survivor	yarışmasında	6
 muk	ve	6
 ldı	ve	6
 bakanı	andrey	6
-klu	c	6
 lt	üst	6
 da	üürendi	6
 len	sev	6
@@ -22614,6 +22616,7 @@ nicä	üüsek	6
 onun	önderciliindä	6
 moldovada	kuvettä	6
 dünnä	yarışmaklarında	6
+komrat	türk	6
 hem	yalpak	6
 hem	nışannadı	6
 ptığı	h	6
@@ -22657,6 +22660,7 @@ artık	ikinci	6
 kanon	proektindä	6
 grigoriy	dülger	6
 kompaniyasının	başı	6
+l	bulut	6
 bu	kolaylık	6
 kazmalı	adına	6
 deputatlar	lääzım	6
@@ -22665,7 +22669,6 @@ bu	uğurd	6
 göğüs	g	6
 herzaman	var	6
 aksakallar	sovetin	6
-karşı	gitmeklär	6
 ilk	iki	6
 insannara	taa	6
 ukrainada	cenk	6
@@ -22698,9 +22701,9 @@ nelere	d	6
 na	terlemes	6
 nden	geç	6
 ve	kent	6
+yorum	ve	6
 ne	değer	6
 metre	yüksekl	6
-r	üm	6
 avropa	oyunlarına	6
 g	flex	6
 çað	öyrätim	6
@@ -22713,6 +22716,7 @@ la	rýn	6
 ata	çinar	6
 a	ä	6
 o	l	6
+t	o	6
 ü	cib	6
 suðra	xaným	6
 ndän	dünyada	6
@@ -22741,6 +22745,7 @@ büyüme	ve	6
 hem	parasız	6
 r	misy	6
 dir	y	6
+vli	çiftl	6
 bayan	lütf	6
 ntı	sır	6
 ve	bors	6
@@ -22755,6 +22760,7 @@ dele	ett	6
 yet	genel	6
 neden	oluyor	6
 muhteşem	b	6
+yorum	d	6
 rtış	y	6
 güç	k	6
 edi	yıl	6
@@ -22791,6 +22797,7 @@ onel	mess	6
 kredi	kartı	6
 rı	dev	6
 kolaylıksız	uşaklar	6
+yır	d	6
 üüsek	bilgileri	6
 pas	partiyasının	6
 fin	elinin	6
@@ -22875,7 +22882,6 @@ tura	keldi	6
 iddaa	hesaplama	6
 z	ger	6
 z	yen	6
-aadına	gimnaziyasında	6
 vakıdını	belli	6
 nasıl	olacek	6
 adını	kablettilär	6
@@ -22899,7 +22905,6 @@ kızılay	türk	6
 üürenmäk	kurumu	6
 düzmäk	işlerindän	6
 güüs	kançer	6
-alöna	bezman	6
 hem	kasabada	6
 adına	bam	6
 yodlan	kaliy	6
@@ -22927,7 +22932,6 @@ uurunda	direktorun	6
 düz	y	6
 kupon	yırtık	6
 zm	b	6
-kuruglunun	aadına	6
 nce	s	6
 yes	ün	6
 üç	kez	6
@@ -22941,7 +22945,7 @@ je	çirkin	6
 kündör	öttü	6
 kıyal	menen	6
 süyüü	sırın	6
-kızıl	gül	6
+asman	jerdi	6
 köz	aldımda	6
 dep	bolotbek	6
 ikinci	okumakta	6
@@ -22992,10 +22996,7 @@ olsun	gelincügüm	6
 yaptığı	açıklama	6
 açıklama	ile	6
 a	retidür	6
-ı	ılä	6
 olmaø	rùşendür	6
-ra	mänì	6
-nefes-i	ra	6
 təqdim	edilməsi	6
 l	bör	6
 su	döngüsü	6
@@ -23022,7 +23023,6 @@ oynamak	günah	6
 excell	analiz	6
 futbol	hazır	6
 bahis	bagimliligi	6
-ır	saptarın	6
 degen	ırında	6
 jeeni	bolotbek	6
 jıldıgına	karata	6
@@ -23040,7 +23040,6 @@ kart	satın	6
 alfred	g	6
 kendisi	taa	5
 hem	kardaşlık	5
-yaşamasını	verdi	5
 iilik	yapmaa	5
 hem	başkaların	5
 k	e	5
@@ -23062,6 +23061,7 @@ kultura	adamı	5
 dünnenin	en	5
 bir	älaqäsi	5
 täräfdän	isä	5
+häyat	yoldaşı	5
 ağır	bir	5
 bir	cäbhä	5
 böyük	häväslä	5
@@ -23092,7 +23092,7 @@ kişi	hem	5
 için	yada	5
 iki	tarafın	5
 belli	edilsin	5
-hem	uygun	5
+bu	sıraya	5
 üürenmäk	lääzım	5
 hepsi	için	5
 ortaya	çıxan	5
@@ -23156,7 +23156,6 @@ bizim	küçük	5
 soţial	baalantılarda	5
 onun	iç	5
 online	sözlüü	5
-talantlı	insannar	5
 o	yaratmaları	5
 buna	bakmadaan	5
 ş	a	5
@@ -23171,7 +23170,6 @@ escort	hakkında	5
 çok	seviyorum	5
 facebook	şafak	5
 yapılan	bir	5
-km	den	5
 ilk	d	5
 eve	g	5
 n	sıkıntı	5
@@ -23251,7 +23249,6 @@ ona	uygun	5
 uygun	şek	5
 sı	da	5
 n	benzer	5
-ve	fed	5
 yukarı	yönlü	5
 yer	alacak	5
 bütün	dün	5
@@ -23291,7 +23288,9 @@ gun	t	5
 n	altındak	5
 ne	olursa	5
 özel	usulsüzlük	5
+cezası	kes	5
 n	banka	5
+para	cezası	5
 n	büyüklüğü	5
 önem	taşır	5
 belgeler	şunlardır	5
@@ -23302,6 +23301,7 @@ lde	bel	5
 z	yer	5
 r	kom	5
 bugün	açıklanacak	5
+sel	gel	5
 nde	bulunduğu	5
 hafta	boyunca	5
 yıl	sonu	5
@@ -23312,6 +23312,7 @@ ben	h	5
 n	işl	5
 bir	sür	5
 l	har	5
+z	için	5
 tarafından	k	5
 ı	gibi	5
 n	yeterl	5
@@ -23383,12 +23384,12 @@ ve	yük	5
 le	devam	5
 racı	ev	5
 bu	väziyyät	5
-bu	mä	5
 o	halda	5
 arasında	olan	5
 onun	kimi	5
 müsälman	oldu	5
 üçün	onu	5
+ilä	vä	5
 bir	häräkätdir	5
 biz	onların	5
 den	gözden	5
@@ -23429,7 +23430,6 @@ onlar	arasında	5
 azärbaycan	prezidenti	5
 vä	bütövlükdä	5
 türk	dünyasına	5
-ilä	birgä	5
 üçün	ciddi	5
 rast	gälmäk	5
 häsrät	bildirib	5
@@ -23542,7 +23542,6 @@ häzm	edä	5
 onnarın	aralarında	5
 tam	anlamı	5
 ında	k	5
-ki	mi	5
 li	v	5
 serbest	k	5
 da	ş	5
@@ -23596,7 +23595,6 @@ keçän	il	5
 äsasän	iki	5
 hücum	edän	5
 si	il	5
-n	itib	5
 ve	he	5
 gibi	m	5
 n	türkç	5
@@ -23604,7 +23602,6 @@ n	türkç	5
 i̇stanbul	büyükş	5
 k	gördüğü	5
 rı	sıv	5
-g	b	5
 ya	v	5
 üz	m	5
 n	ışık	5
@@ -23679,7 +23676,6 @@ dünyanın	än	5
 cänab	prezident	5
 lu	k	5
 bu	duruma	5
-aradan	qaldırılması	5
 här	täräfindä	5
 bir	müsälman	5
 son	günü	5
@@ -23750,7 +23746,6 @@ kırnak	hem	5
 imää	hem	5
 te	nasıl	5
 eni	yaşamayı	5
-taa	iy	5
 da	işi	5
 ani	evdä	5
 sizin	bu	5
@@ -23847,7 +23842,6 @@ tatarstanın	devlet	5
 cı	sayfada	5
 hem	tatarstan	5
 hem	venok	5
-bir	literatura	5
 halklararası	ilişkilär	5
 için	alınan	5
 direktorun	yardımcısı	5
@@ -23860,6 +23854,7 @@ yapılan	bütün	5
 kendi	dillerini	5
 yok	ki	5
 kalktı	da	5
+h	ı	5
 talantlı	poet	5
 kablettilär	bu	5
 üürener	hem	5
@@ -23906,6 +23901,7 @@ hazırlanmış	olan	5
 dmitriy	uzun	5
 bän	üürendim	5
 hem	yapılêr	5
+paralel	olarak	5
 bän	çoktan	5
 hak	etti	5
 büük	rol	5
@@ -23926,7 +23922,6 @@ i̇stanbul	ve	5
 olan	t	5
 r	gru	5
 n	kır	5
-da	izmet	5
 bizä	yardımcı	5
 bitkiyä	kadar	5
 bu	bölümü	5
@@ -23967,6 +23962,7 @@ iki	küçük	5
 hem	okumaa	5
 angısı	başladı	5
 yıllar	arasında	5
+herbir	eni	5
 azärbaycanda	insan	5
 äldä	edilmiş	5
 cänab	prezidentin	5
@@ -24054,6 +24050,7 @@ heç	kimi	5
 niyä	belä	5
 başqaları	üçün	5
 açıldı	gagauz	5
+zaman	b	5
 bir	kadın	5
 di	v	5
 n	kabul	5
@@ -24104,7 +24101,6 @@ kütlävi	xarakter	5
 ilä	müqayisädä	5
 tähsil	haqqýnýn	5
 tähsil	formasýnýn	5
-az	idi	5
 täläbälärin	sayýnýn	5
 täläbälärin	ümumi	5
 qeyri-dövlät	tähsil	5
@@ -24112,6 +24108,7 @@ müäyyän	edilän	5
 tädris	ilindä	5
 kimi	meydana	5
 ondan	istifadä	5
+iqtisadi	vä	5
 polþa	ali	5
 fänlär	üzrä	5
 baamsız	kandidat	5
@@ -24178,6 +24175,7 @@ problemläri	häll	5
 topluşun	başınnan	5
 türkiyenin	prezidentı	5
 ani	herzaman	5
+r	at	5
 n	dostu	5
 cok	guzel	5
 di	bende	5
@@ -24224,6 +24222,7 @@ gerek	yok	5
 vä	äbädi	5
 bu	dörd	5
 iki	rükät	5
+z	hesabı	5
 devlet	k	5
 şını	d	5
 rının	yüzde	5
@@ -24322,7 +24321,6 @@ benim	yaşamamda	5
 elena	mokanu	5
 oldu	eni	5
 bän	sa	5
-sän	taa	5
 o	yalpak	5
 dönmää	geeri	5
 su	da	5
@@ -24384,6 +24382,7 @@ genç	yazıcıların	5
 gagauziyada	en	5
 bir	teklif	5
 mış	durumd	5
+ın	bu	5
 her	g	5
 ı	i	5
 nu	ƅ	5
@@ -24397,6 +24396,7 @@ dım	v	5
 bugün	g	5
 r	öpücük	5
 n	tutup	5
+or	d	5
 oldu	mu	5
 ri	kull	5
 bu	seçeneğ	5
@@ -24530,7 +24530,6 @@ n	kurtuluş	5
 rı	uygun	5
 san	ayında	5
 r	görüşm	5
-c	m	5
 r	doğru	5
 n	di	5
 ilk	olaraq	5
@@ -24592,6 +24591,7 @@ n	hayat	5
 hemen	h	5
 sı	en	5
 ük	d	5
+oldular	o	5
 adrian	kandunun	5
 ama	moldova	5
 bu	buluşmada	5
@@ -24655,8 +24655,10 @@ bilän	hem	5
 gagauzların	yaşamasını	5
 karar	verecek	5
 konferenţiyada	pay	5
+predsedateli	mihail	5
 romıniya	hem	5
 onun	dolayında	5
+kın	d	5
 de	dev	5
 oyun	kolektivi	5
 prezidenti	recep	5
@@ -24690,7 +24692,6 @@ r	duruml	5
 bu	bu	5
 ile	de	5
 akan	sular	5
-mp	çözünürlüklü	5
 rini	t	5
 k	ab	5
 ş	müşter	5
@@ -24852,6 +24853,7 @@ burun	hızm	5
 ve	ol	5
 burun	hızma	5
 rtık	t	5
+c	ve	5
 şıcı	h	5
 üstolan	kongresinä	5
 kongresinä	ayırılan	5
@@ -24875,7 +24877,6 @@ başkanı	yardımcısı	5
 dokladlar	okundu	5
 komrat	muzeyindä	5
 bulunêr	o	5
-ozaman	vardı	5
 ani	barabar	5
 annattı	gagauz	5
 hem	kendilerinin	5
@@ -25002,7 +25003,6 @@ b	hakkı	5
 katıı	kavaı	5
 v	ğ	5
 kas	kavaıı	5
-ck	y	5
 ks	a	5
 vataaşaı	vayt	5
 i̇öi̇	s	5
@@ -25013,7 +25013,6 @@ st	hçb	5
 aağı	sağaya	5
 sts	sabt	5
 g	vg	5
-kk	v	5
 tl	y	5
 gün	ve	5
 ocak	ayı	5
@@ -25076,11 +25075,10 @@ bu	kararın	5
 sert	tepk	5
 gümrük	tar	5
 ğer	ülkeler	5
+n	cenk	5
 k	mutluyum	5
-l	güneş	5
 arabacinın	resim	5
 önünä	çıkarıldı	5
-pek	dar	5
 zor	vakıtlar	5
 a	dış	5
 görmezden	geld	5
@@ -25095,6 +25093,7 @@ james	d	5
 bu	çalışma	5
 respublikasında	yaşayan	5
 açık	candan	5
+aaraştırma	ministerlii	5
 çaldılar	türküyü	5
 hem	bakışlarını	5
 jurnalistika	uurunda	5
@@ -25205,6 +25204,7 @@ kasabaların	hem	5
 bu	çerçevedä	5
 angısının	adını	5
 baalı	gagauziyada	5
+getirer	ona	5
 da	bulmaa	5
 gagauziyanın	bilim-aaraştırmak	5
 gagauz	yazıcılarına	5
@@ -25232,6 +25232,7 @@ todur	marinoglu	5
 kuvetleri	dä	5
 ren	a	5
 lduğu	değerlend	5
+örgütü	ypg	5
 ze	daha	5
 ze	destek	5
 ve	kısa	5
@@ -25254,7 +25255,6 @@ nak	k	5
 mler	ve	5
 atın	da	5
 örgütüne	ü	5
-lmamakla	b	5
 ıl	hap	5
 mahkeme	he	5
 özgür	sur	5
@@ -25266,6 +25266,7 @@ kte	türk	5
 e'de	b	5
 r	seç	5
 orada	b	5
+r	düşün	5
 r	dönemden	5
 n	hala	5
 r	ülken	5
@@ -25306,7 +25307,6 @@ insannara	bu	5
 bu	konkurs	5
 eni	ömür	5
 randa	arttı	5
-ham	madde	5
 n	müşter	5
 i̇çişleri	ministerliin	5
 artık	ikincilää	5
@@ -25320,7 +25320,6 @@ muzey	için	5
 fazla	u	5
 n	uyku	5
 r	günde	5
-i̇sveç	ve	5
 ıl	da	5
 bir	z	5
 hem	büüklär	5
@@ -25337,7 +25336,6 @@ nicä	geçti	5
 birkaç	gündän	5
 iş	o	5
 n	ele	5
-çalışan	b	5
 hareket	ett	5
 r	gereğ	5
 da	z	5
@@ -25384,6 +25382,7 @@ bu	süreç	5
 a	la	5
 asa	k	5
 ve	i̇stanbul	5
+ve	mhp	5
 kaldı	k	5
 r	tavır	5
 derin	iz	5
@@ -25392,9 +25391,6 @@ bu	halkın	5
 hem	adam	5
 kapunun	önündä	5
 yortulu	sıra	5
-portulu	giyimnerin	5
-giyimnerin	milli	5
-milli	günü	5
 çok	material	5
 ık	t	5
 angısı	bir	5
@@ -25448,6 +25444,7 @@ kudüs'ü	i̇sra	5
 lduğunu	söyled	5
 da	büyük	5
 n	hükümet	5
+r	dem	5
 valentin	kara	5
 primarlar	hem	5
 bu	rahat	5
@@ -25520,7 +25517,7 @@ yahya	kemal	5
 respublikası	kultura	5
 bizim	küüdän	5
 bän	sä	5
-kendi	acızgannıımızı	5
+devletlerin	arasında	5
 topal	canavar	5
 ozaman	ona	5
 komşu	küülerdän	5
@@ -25566,7 +25563,6 @@ lme	k	5
 le	dev	5
 t	oldu	5
 ğımızı	b	5
-n	so	5
 n	ücrets	5
 dığı	bel	5
 kte	bu	5
@@ -25618,8 +25614,10 @@ gün	ben	5
 bu	teatrunun	5
 öndercisi	lidiya	5
 angısı	çok	5
+ve	gerçek	5
 ne	hem	5
 sevän	hem	5
+sonunda	kabledildi	5
 angısında	gagauz	5
 hem	ukraina	5
 deyni	ne	5
@@ -25666,7 +25664,6 @@ söz	alıp	5
 hem	candan	5
 açan	onun	5
 yle	ber	5
-n	ov	5
 ncelemelerde	bulundu	5
 k	hızl	5
 r	mühend	5
@@ -25728,6 +25725,7 @@ genişlenmesi	için	5
 geçti	tombarlak	5
 bir	politika	5
 işleri	taa	5
+hepsimiz	bileriz	5
 da	erinä	5
 alt	yapısı	5
 o	uurda	5
@@ -25810,6 +25808,7 @@ oruz	ve	5
 çalışmasınnan	hem	5
 sankt-peterburg	pravitelstvosunun	5
 pravitelstvosunun	basım	5
+pek	seviner	5
 candan-ürektän	şükür	5
 resimci	dimitriy	5
 hepsini	bunnarı	5
@@ -25842,7 +25841,6 @@ k	sosy	5
 sıl	v	5
 büyük	mülk	5
 n	dördüncü	5
-r	kuruluş	5
 kutlamaları	çerçevesindä	5
 gündä	burada	5
 başçasının	ofiţial	5
@@ -25862,6 +25860,7 @@ toplantının	sonunda	5
 yılda	kabledildi	5
 imzaladı	bir	5
 verdilär	bu	5
+yardımınnan	biz	5
 kendi	gözlerinnän	5
 lääzım	onun	5
 angısı	izmet	5
@@ -25903,6 +25902,7 @@ zor	zamannarda	5
 bu	topraklarda	5
 vlah	ta	5
 bir	azası	5
+parlamentin	deputatları	5
 infrastruktura	uurunda	5
 angısının	var	5
 karıların	hem	5
@@ -26221,7 +26221,7 @@ de	tr	5
 bu	tes	5
 şöyle	sürdürdü	5
 mden	b	5
-ve	erzurum	5
+önce	h	5
 yolunnan	türkiye	5
 yardımı	da	5
 yardımcı	olêrlar	5
@@ -26242,7 +26242,6 @@ t	progr	5
 sı	sebeb	5
 n	rek	5
 y	ort	5
-çok	talantlı	5
 rol	oynadı	5
 bilsinnär	kendi	5
 kunuşu	ç	5
@@ -26275,7 +26274,6 @@ vä	müällimlärin	5
 näzarät	altýnda	5
 hem	aşırı	5
 kiyat	hazırlandı	5
-nesoy	o	5
 dokumentleri	hem	5
 merkez	ve	5
 ve	yedek	5
@@ -26339,12 +26337,11 @@ dığınız	t	5
 l	sözl	5
 mutlu	yıll	5
 ve	kö	5
-n	birl	5
 in	g	5
 ödül	tören	5
 n	perform	5
 lmış	b	5
-ğım	d	5
+süre	sonr	5
 tsız	ed	5
 ne	ş	5
 hepsini	ne	5
@@ -26409,6 +26406,7 @@ n	çıkış	5
 rrem	i̇nce	5
 mız	d	5
 saygı	göstermää	5
+dil	için	5
 ikinci	günü	5
 yıl	öncä	5
 hem	kulturasında	5
@@ -26447,7 +26445,6 @@ petri	yalıncı	5
 o	çıkardı	5
 verdi	ona	5
 hem	koordinațiya	5
-za	karşı	5
 üçün	küröşüp	5
 al	bügün	5
 öz	boyuna	5
@@ -26460,7 +26457,6 @@ körsötö	turgan	5
 kabıl	aluusuna	5
 jol	tarttı	5
 işenim	menen	5
-anın	üç	5
 bütüp	kalgan	5
 miñ	jıl	5
 abdan	oor	5
@@ -26536,7 +26532,6 @@ men	sizden	5
 payda	bolso	5
 mınday	uçurda	5
 ele	jok	5
-jılı	da	5
 adam	degen	5
 mınday	işti	5
 uşul	tünü	5
@@ -26561,6 +26556,7 @@ birok	bizdin	5
 senin	bul	5
 sözsüz	bir	5
 al	bardıgın	5
+baldar	da	5
 jatkanın	kördü	5
 da	unutup	5
 unutup	kalıp	5
@@ -26569,6 +26565,7 @@ emne	degenin	5
 körünüp	ketti	5
 kayda	barsam	5
 maga	baarı	5
+ele	oor	5
 aydan	beri	5
 jatat	okşoyt	5
 bolup	ketişti	5
@@ -26674,6 +26671,7 @@ bütkül	düynögö	5
 joop	berdim	5
 jamandık	kılgan	5
 öz	maksatına	5
+etkenden	tak	5
 birok	senin	5
 bir	üygö	5
 emi	saga	5
@@ -26726,6 +26724,7 @@ degenden	başka	5
 al	janagı	5
 emgekteri	menen	5
 bulundu	komrat	5
+olmasına	rağmen	5
 adalı	gagauz	5
 bam	bilim	5
 milan	takımında	5
@@ -26736,6 +26735,7 @@ nı	mur	5
 gece	y	5
 r	eden	5
 n	çıkmış	5
+z	ded	5
 yıl	m	5
 lduğu	vurgul	5
 karşıya	geldi	5
@@ -26807,7 +26807,6 @@ eske	aluu	5
 da	orun	5
 oşol	el	5
 kök	jibek	5
-iyin	tireşken	5
 jetken	ele	5
 jarmanke	başındagı	5
 atkan	ogu	5
@@ -26859,6 +26858,7 @@ oozunan	çıkkan	5
 keñeş	kurup	5
 kelgende	da	5
 tür	körsötüp	5
+dalaydan	beri	5
 üç	kündö	5
 az	unçukpay	5
 saluu	kerek	5
@@ -26965,6 +26965,7 @@ oşol	ubakıtta	5
 bügünkügö	çeyin	5
 çıkkan	eken	5
 joldoştoru	menen	5
+akıl	aytıp	5
 jalınduu	jaş	5
 bul	añgemeni	5
 unçukpay	oturup	5
@@ -27015,6 +27016,7 @@ kişibizdin	söögün	5
 başın	bir	5
 köptön	kütkön	5
 kelip	kalganın	5
+aluuga	bolot	5
 emi	el	5
 tüş	ooy	5
 jamakenin	söögün	5
@@ -27068,6 +27070,7 @@ kudaydın	özü	5
 sebebi	uşul	5
 bolup	ketken	5
 jak	teñ	5
+jüzdön	aşık	5
 atı	çıkkan	5
 erteden	keçke	5
 menen	kara	5
@@ -27290,6 +27293,7 @@ dep	eseptelgen	5
 tee	alıstan	5
 üçtön	biri	5
 özü	baştap	5
+aluu	jönündö	5
 küngö	sozulup	5
 bir	tüp	5
 moñgol	jookerlerinin	5
@@ -27343,7 +27347,6 @@ kenje	uulu	5
 uulu	joçige	5
 çıñgızhan	eki	5
 bul	kılıgı	5
-düynödö	jalgız	5
 bu	düynödön	5
 jaydın	künü	5
 sözü	bir	5
@@ -27365,6 +27368,7 @@ ayının	orto	5
 kalıñ	kolgo	5
 bolo	turgandıgı	5
 jookerleri	menen	5
+kezde	anın	5
 dep	ünün	5
 bolo	turgandıgın	5
 soguş	sayın	5
@@ -27483,10 +27487,10 @@ nsı	s	5
 k	var	5
 o	genç	5
 temmuz	d	5
+der	b	5
 de	ort	5
 bütün	s	5
 or	k	5
-bu	pazar	5
 ama	h	5
 bir	şe	5
 beşiktaş	takımında	5
@@ -27574,7 +27578,6 @@ lunu	tut	5
 n	fern	5
 deandre	yedl	5
 ne	çek	5
-w	hızlı	5
 görünüm	k	5
 seçim	dolayında	5
 uşakların	anaları	5
@@ -27690,7 +27693,6 @@ tomay	hem	5
 sa	hep	5
 kırmızılı	ekip	5
 n	luy	5
-n	om	5
 oleg	garizan	5
 ani	insanın	5
 nicä	en	5
@@ -27868,7 +27870,6 @@ kire	kaçıp	5
 jaşoosu	üçün	5
 oñ	menen	5
 alardın	mınday	5
-adam	balasının	5
 dep	esepteşet	5
 kalgan	uçur	5
 uçur	eken	5
@@ -27939,7 +27940,6 @@ jerde	bolso	5
 uşunday	bolçu	5
 işi	oñunan	5
 menen	temirdin	5
-degen	tüşünüktün	5
 asıl	tukum	5
 kalk	üçün	5
 bolso	bul	5
@@ -27962,7 +27962,6 @@ uşul	maalda	5
 kelgen	sayın	5
 karay	jürüp	5
 açıla	elek	5
-jakşı	kabıl	5
 başında	turgan	5
 kelbeyt	dep	5
 oşondoy	kündördün	5
@@ -28019,6 +28018,7 @@ sarı	çiykil	5
 eki	taraptan	5
 jaman	nerse	5
 sunuş	kılat	5
+alalı	dep	5
 ömür	degen	5
 körö	albayt	5
 üstömdük	kılıp	5
@@ -28034,7 +28034,6 @@ kala	jazdagan	5
 keldi	dep	5
 esenkul	baatırdın	5
 jerde	eken	5
-ant	berip	5
 orustarga	karşı	5
 jıldan	baştap	5
 okup	berip	5
@@ -28189,7 +28188,6 @@ olsun	h	5
 i	lov	5
 ğı	olm	5
 sız	d	5
-n	wh	5
 nä	vaxt	5
 üçün	belä	5
 tarixdän	mälumdur	5
@@ -28199,6 +28197,7 @@ yeri	gäldikcä	5
 cämisi	bir	5
 anlamına	gelen	5
 zinaida	kanţır	5
+yıldönümünä	hem	5
 günündä	hem	5
 getirerim	aklıma	5
 bu	dünneyi	5
@@ -28206,6 +28205,7 @@ gagauz	yazıcılarını	5
 edecek	bizä	5
 vasilisa	tanasoglo	5
 hem	georgiy	5
+kilalık	kategoriyasında	5
 dän	çiçek	5
 bu	topl	5
 n	mes	5
@@ -28317,6 +28317,7 @@ kolaylıı	bu	5
 komitetinnän	teklif	5
 başkanını	hem	5
 hepsi	musaafirlerä	5
+kızı	menen	5
 jana	abdan	5
 satıp	alam	5
 dep	kıykırgan	5
@@ -28337,6 +28338,7 @@ nerse	degen	5
 nerseler	bar	5
 berse	bolot	5
 açtı	da	5
+al	jana	5
 lenta	menen	5
 abdan	jagat	5
 belek	kılıp	5
@@ -28352,7 +28354,6 @@ munu	kim	5
 bolobu	dep	5
 jaş	jentelmen	5
 ünün	ugup	5
-jakşı	boluptur	5
 dep	külüp	5
 men	degele	5
 ele	saga	5
@@ -28378,7 +28379,6 @@ sonun	bolot	5
 baştadı	da	5
 kılıp	jattı	5
 köñülü	bir	5
-araket	kılçu	5
 nerse	bolçu	5
 baktıluu	bolup	5
 bol	dep	5
@@ -28508,7 +28508,6 @@ al	ulam	5
 murunkusunday	ele	5
 dep	esepteysiñ	5
 dep	suroo	5
-abdan	tuura	5
 men	korkup	5
 jer	jok	5
 çet	ölkögö	5
@@ -28697,6 +28696,7 @@ mäşğul	olur	5
 reaksiya	verir	5
 az	olan	5
 ona	izmet	5
+ze	çok	5
 rten	k	5
 eden	ş	5
 i̇htärlara	deyni	5
@@ -28716,6 +28716,7 @@ deputatlar	kayıl	5
 baş	kanonunda	5
 mariya	mihaylovna	5
 serbest	vakıdını	5
+dığınız	d	5
 vlah	kendi	5
 aktivisti	mihail	5
 o	çeketti	5
@@ -28726,6 +28727,7 @@ lääzım	kabletsin	5
 n	yoksul	5
 k	i̇ng	5
 r	köprü	5
+onu	g	5
 lı	f	5
 birinci	okulun	5
 türlü	sebeplerä	5
@@ -28792,6 +28794,7 @@ m	sürec	5
 s	ek	5
 özel	sektörün	5
 ev	almak	5
+tapu	harcı	5
 satın	aldı	5
 müdürü	mustafa	5
 olup	olmadığı	5
@@ -28845,6 +28848,7 @@ da	sen	5
 sovetter	soyuzunun	5
 bu	ceza	5
 täkcä	bu	5
+dän	çox	5
 edirdilär	ki	5
 kişi	patlamalar	5
 olduğunu	düşünüyorum	5
@@ -28892,14 +28896,13 @@ mariya	durbaylo	5
 geldi	iki	5
 ii	iş	5
 artık	diil	5
+lääzım	işlemää	5
 çünkü	sade	5
 satın	alsın	5
 hem	kötü	5
 dünnä	çempionatına	5
 komratta	açıldı	5
 ama	bakmayarak	5
-hem	biologiya	5
-bu	iþin	5
 orada	bir	5
 deyilän	yerdä	5
 göz	y	5
@@ -28948,7 +28951,6 @@ dä	sizi	5
 yalnız	o	5
 yortu	pek	5
 tantalalı	hem	5
-olduğunu	düşünü	5
 bin	lira	5
 faizsiz	kredi	5
 örgü	m	5
@@ -29004,6 +29006,7 @@ bu	hedefe	5
 fade	etmek	5
 gözle	bekl	5
 ne	kı	5
+ler	g	5
 n	testler	5
 sını	ve	5
 daha	z	5
@@ -29024,6 +29027,7 @@ bay	vaninin	5
 devletlär	arası	5
 moldovanın	dış	5
 mlere	g	5
+verdi	gagauz	5
 z	düz	5
 ataköy	escort	5
 u	a	5
@@ -29056,6 +29060,7 @@ lääzım	pay	5
 nähäng	kütlälärin	5
 särf	edän	5
 vä	maraqları	5
+xüsusi	diqqät	5
 uurunda	çalışmaları	5
 büük	hodulluk	5
 sayın	büükelçi	5
@@ -29105,7 +29110,6 @@ r	boyu	5
 rı	topl	5
 rt	y	5
 o	günl	5
-bütün	türkiye	5
 çaldılar	türkü	5
 işini	yaptı	5
 kişinöv	hem	5
@@ -29120,7 +29124,6 @@ bayan	f	5
 yı	bil	5
 iki	yıldır	5
 sini	d	5
-lduğunu	söyl	5
 m	üyeler	5
 iilik	yapmak	5
 seçimnerinin	ii-ci	5
@@ -29144,6 +29147,7 @@ hem	birliktä	5
 ns	ver	5
 r	oluş	5
 sı	p	5
+r	okuyor	5
 r	yolunu	5
 rı	olduğunu	5
 net	ol	5
@@ -29312,7 +29316,6 @@ jakın	aradan	5
 öküm	sürdü	5
 baldar	dagı	5
 alar	özdörün	5
-kurman	bolgon	5
 suunun	agımın	5
 süzüp	jönödü	5
 tınçıp	kaldı	5
@@ -29359,7 +29362,6 @@ közün	açtı	5
 je	mümkün	5
 koygon	eken	5
 al	akçanı	5
-birok	dagı	5
 duuşar	bolgon	5
 jesir	ayal	5
 muktaj	emes	5
@@ -29372,6 +29374,7 @@ analiz	siteleri	5
 ekşi	sözlük	5
 maç	oranları	5
 için	dokumentleri	5
+l	ak	5
 tte	yüzde	5
 n	dışın	5
 burak	yılmaz	5
@@ -29385,7 +29388,6 @@ günden	itibaren	5
 karşısına	çıkan	5
 olduğunu	ort	5
 rçok	ülk	5
-n	oz	5
 rklılık	göst	5
 başkanlık	seçimi	5
 ani	hristos	5
@@ -29440,7 +29442,6 @@ künöm	sanap	5
 je	öz	5
 közübüz	menen	5
 bul	jol	5
-janına	basıp	5
 jañsap	körsötüp	5
 nazarın	salıp	5
 öz	jayında	5
@@ -29546,7 +29547,6 @@ az	uçar	5
 u	ç	5
 angıların	var	5
 moldovanın	kuvetleri	5
-eni	seçimneri	5
 bölümü	sudun	5
 gün	ev	5
 için	dünnä	5
@@ -29562,7 +29562,6 @@ filologiya	uurunda	5
 problemayı	da	5
 din	izmetçisi	5
 kurumu	hem	5
-stop	alkogol	5
 akılga	sıyarlık	5
 kelgen	da	5
 oy	jügürtüügö	5
@@ -29659,13 +29658,13 @@ güç	s	5
 neredä	toplu	5
 dece	y	5
 ser	l	5
-r	zorl	5
 anmak	nışan	5
 tutturmaa	deyni	5
 lääzım	mutlaka	5
 dooru	kararları	5
 bu	sokakta	5
 küüyün	yaşayannarına	5
+karşı	gitmeklär	5
 pravoslav	hristiannarında	5
 pravoslav	hristiannar	5
 gagauziya	i̇ş	5
@@ -29704,7 +29703,6 @@ düştüğü	m	5
 onu	hep	5
 apeläțiya	palatasına	5
 ani	bakmadaan	5
-ndığı	g	5
 de	üret	5
 bilgilerin	kontrol	5
 hak	kazanan	5
@@ -29751,6 +29749,7 @@ vasi	filioglu	5
 adım	ileri	5
 yardım	ederäk	5
 ci	äsrdä	5
+ifadä	etmäyä	5
 burada	onnarı	5
 sä	bir	5
 tähqir	vä	5
@@ -29996,7 +29995,6 @@ kurumnarın	üürenicileri	5
 kişinöv	kasabasının	5
 buluşmanın	süresindä	5
 r	rüy	5
-n	şü	5
 aftanın	süresindä	5
 karşılaşmasına	çıkacak	5
 ters	gider	5
@@ -30043,8 +30041,6 @@ elmäddin	älibäyzadänin	5
 rn	v	5
 oranlarının	yüzde	5
 destek	kred	5
-r	sürel	5
-aynî	hak	5
 konut	kredisi	5
 düşük	m	5
 ev	pans	5
@@ -30111,7 +30107,6 @@ svyaşçennik	mihail	5
 kudureti	küçtüü	5
 küyöö	bala	5
 baş	keser	5
-aligi	ayal	5
 bahis	hileleri	5
 m	bunun	5
 söz	söyl	5
@@ -30120,6 +30115,7 @@ düşme	h	5
 ylık	s	5
 hayirli	gunler	5
 gunler	dilerim	5
+z	ünder	5
 k	eş	5
 ve	bey	5
 sı	yeterl	5
@@ -30130,6 +30126,7 @@ güçlük	ç	5
 ye	kup	5
 ren	t	5
 komitetin	eni	5
+aadına	gimnaziyasında	5
 verginin	eklemäk	5
 tarafından	türkiyedä	5
 üürenicilerä	hem	5
@@ -30139,7 +30136,6 @@ korumak	bölümün	5
 olayın	pay	5
 zararlar	var	5
 çocuğun	y	5
-n	otoportr	5
 y	p	5
 kimä	sä	5
 geçti	üüsek	5
@@ -30177,6 +30173,7 @@ oşo	zamat	5
 jana	başkalar	5
 akın	özü	5
 zanaat	okulunda	5
+alöna	bezman	5
 yaşına	baalı	5
 topluluun	başı	5
 bu	kür	5
@@ -30192,8 +30189,6 @@ bu	vakit	5
 pap	ş	5
 ş	oy	5
 ı	nda	5
-ş	lad	5
-lad	ı	5
 nicâ	bir	5
 ani	bân	5
 sora	bân	5
@@ -30216,7 +30211,6 @@ brifingta	moldovanın	5
 avşamneyin	yapılan	5
 foreks	p	5
 mın	üçüncü	5
-kesmek	v	5
 sefere	çık	5
 doğu'nun	en	5
 n	lokomot	5
@@ -30235,6 +30229,7 @@ ns	ş	5
 sıl	kılınır	5
 yet	d	5
 kıt	d	5
+kuruglunun	aadına	5
 tl	sev	5
 show	tv	5
 çukur	ş	5
@@ -30261,6 +30256,7 @@ sur	zaman	5
 açuu	zaman	5
 sırdı	bekem	5
 men	elem	5
+kızıl	gül	5
 jok	debesten	5
 er	bolotbek	5
 jer	kuçaktap	5
@@ -30319,7 +30315,6 @@ bayırın	tepesinä	5
 lıcı	ol	5
 düşünüp	t	5
 yokluğunu	ç	5
-hırsız	olur	5
 kötü	duruml	5
 k	hâl	5
 kmış	g	5
@@ -30353,14 +30348,13 @@ soruşlarında	baş	5
 nem	k	5
 bakannıın	başına	5
 mount	w	5
-förüm	s	5
 öncü	v	5
 suçıktı	şiir	5
 şairlerin	yaratmalarında	5
-ve	yä	5
-yä	ud	5
 aøø	taúälå	5
+ı	ılä	5
 ki	ol	5
+ra	mänì	5
 ft	tapu	5
 hepsi	üürenmäk	5
 torun	bakım	5
@@ -30399,13 +30393,13 @@ i̇mar	durumu	5
 varlık	f	5
 kudüs	kararının	5
 sı	fırtın	5
+ır	saptarın	5
 alıkul	özü	5
 akın	menen	5
 lenin	atındagı	5
 ırlar	jana	5
 ır	saptarı	5
 miñ	nuskada	5
-en	birinçi	5
 sıylıgının	laureatı	5
 kırgız	ssrinin	5
 jolbors	terisin	5
@@ -30423,11 +30417,11 @@ onun	gözäl	4
 insannar	arasında	4
 da	taman	4
 pek	käämil	4
+yaşamasını	verdi	4
 hem	aydınnık	4
 bu	tekst	4
 buna	göz	4
 göz	yumm	4
-r	ded	4
 un	t	4
 bitki	kerä	4
 şelale	şiir	4
@@ -30478,6 +30472,7 @@ o	vakıtta	4
 duva	etmää	4
 bilgi	hem	4
 yolunnan	hem	4
+hem	uygun	4
 geçinmesi	için	4
 hem	genel	4
 lääzım	açık	4
@@ -30576,6 +30571,7 @@ deyni	onnara	4
 dili	üüredicilerin	4
 kasım	ayı	4
 lan	da	4
+talantlı	insannar	4
 evlad	boylarına	4
 geçmää	çok	4
 yazık	ki	4
@@ -30786,7 +30782,7 @@ racıların	k	4
 usul	kanunu	4
 banka	veya	4
 t	yok	4
-cezası	kes	4
+usulsüzlük	cezası	4
 anayasa	mahkemes	4
 almış	olduğu	4
 yapı	kullanma	4
@@ -30846,7 +30842,6 @@ gäläni	edir	4
 arasında	onun	4
 bu	hadisä	4
 mükämmäl	bir	4
-bu	bilgilär	4
 çox	yüksäk	4
 bir	geniş	4
 bu	yer	4
@@ -30929,7 +30924,6 @@ mart	ayından	4
 reel	sektör	4
 konut	sektörüne	4
 ve	bankaların	4
-e	çek	4
 bankalar	b	4
 t	olması	4
 r	durumda	4
@@ -30972,6 +30966,7 @@ problemläri	ilä	4
 vä	bäzi	4
 mövzu	ätrafında	4
 dekabr	ayının	4
+ilä	birgä	4
 qurtulmaq	üçün	4
 därk	etmäk	4
 biliräm	ki	4
@@ -31014,6 +31009,7 @@ n	haz	4
 olarak	n	4
 ele	alınıyor	4
 mde	b	4
+ş	oluyor	4
 durumu	göz	4
 l	beldeler	4
 n	det	4
@@ -31122,6 +31118,7 @@ prezidentura	hem	4
 yok	g	4
 de	ek	4
 nızı	ön	4
+ki	mi	4
 moldova	prezidentınnan	4
 er	aldılar	4
 prezidentı	urguladı	4
@@ -31200,6 +31197,7 @@ bu	suala	4
 bir-birinä	qarşı	4
 şübhä	etmiräm	4
 vä	nä	4
+n	itib	4
 öğrenmek	için	4
 zılı	d	4
 ile	ç	4
@@ -31208,6 +31206,7 @@ n	i̇stanbul	4
 nmış	ve	4
 r	araştırma	4
 r	he	4
+g	b	4
 l	ü	4
 ğmen	d	4
 bu	te	4
@@ -31221,7 +31220,6 @@ täsävvür	edin	4
 edin	ki	4
 cälb	edä	4
 sonra	belä	4
-qarabağla	bağlı	4
 bütündünnä	teatru	4
 moldovanın	premyer-ministru	4
 ahmet	yildizlan	4
@@ -31255,6 +31253,7 @@ bän	düştüm	4
 o	arada	4
 milli	bilimnär	4
 verdi	bana	4
+için	çıkan	4
 dilimizä	hem	4
 hem	rejisör	4
 film	için	4
@@ -31307,6 +31306,7 @@ sän	bu	4
 l	sağlık	4
 n	grubu	4
 da	müäyyän	4
+aradan	qaldırılması	4
 baş	veränlär	4
 diqqät	çäkir	4
 dünyanın	här	4
@@ -31326,7 +31326,6 @@ yok	halk	4
 şkolalarda	hem	4
 sovetnikleri	hem	4
 türkiye	halkına	4
-tarafından	türkiye	4
 bulunan	bu	4
 hem	onnarda	4
 ilk	müsälman	4
@@ -31563,6 +31562,7 @@ kazan	da	4
 türk	halklarının	4
 genel	sekreteri	4
 hem	varlık	4
+bir	literatura	4
 türk	dünäsında	4
 yılın	literatura	4
 literatura	adamı	4
@@ -31688,6 +31688,7 @@ bunun	c	4
 nıklı	b	4
 olmuş	b	4
 ön	t	4
+da	izmet	4
 sevgili	zanaatına	4
 sade	ii	4
 onu	bilerlär	4
@@ -31945,9 +31946,9 @@ olan	gänclärin	4
 çýxardý	ki	4
 yaþayan	gänclärin	4
 böyük	hissäsi	4
+az	idi	4
 aþaðý	olan	4
 sayýnýn	sürätlä	4
-ümumi	sayý	4
 effektiv	vä	4
 tähsil	formalarýnýn	4
 edilmälidir	ki	4
@@ -32112,6 +32113,7 @@ le	pyd	4
 pyd	arasında	4
 yaşanan	bu	4
 rının	bulunduğu	4
+n	doğu	4
 k	memnun	4
 ortak	olarak	4
 ve	abd'n	4
@@ -32230,6 +32232,7 @@ karşı	durmaa	4
 bän	seni	4
 peet	yazmaa	4
 bir	mum	4
+sän	taa	4
 hep	ileri	4
 yok	hiç	4
 hazırlêêr	hem	4
@@ -32388,7 +32391,6 @@ sağlık	s	4
 kapsamına	g	4
 n	sonuç	4
 ancak	d	4
-r	aldığı	4
 n	vazg	4
 fazla	olan	4
 geçän	bir	4
@@ -32498,7 +32500,6 @@ k	yoğun	4
 radyo	dinle	4
 arak	bu	4
 ve	ulusal	4
-k	olma	4
 al	ve	4
 l	her	4
 gagauziyada	kultura	4
@@ -32516,7 +32517,6 @@ tezdä	üürenecez	4
 poliţiya	birliin	4
 nikolay	terzi̇	4
 ol	m	4
-n	birç	4
 şım	y	4
 dığını	öğr	4
 başlamadan	önce	4
@@ -32772,10 +32772,8 @@ ile	d	4
 durumu	h	4
 nden	fazla	4
 ung	w	4
-ghz	frek	4
 dört	çek	4
 ram	ve	4
-mp	ön	4
 ydı	v	4
 n	ödün	4
 respublikasının	ti̇ka	4
@@ -32917,6 +32915,7 @@ gözler	önün	4
 söz	konu	4
 akıllı	telefon	4
 da	l	4
+lik	v	4
 li	b	4
 küüyündä	çok	4
 hem	seçim	4
@@ -33030,7 +33029,6 @@ rını	tüm	4
 rı	bulm	4
 rı	bul	4
 romıniyaylan	birleşmäk	4
-mı	onnar	4
 gündä	gagauziyanın	4
 hem	hepsini	4
 kasabasında	bir	4
@@ -33057,7 +33055,6 @@ respublikasını	kurmaa	4
 da	mihail	4
 hem	konţert	4
 o	aacı	4
-x	ve	4
 nden	uz	4
 n	şık	4
 çok	hoş	4
@@ -33075,6 +33072,7 @@ evi	hem	4
 hazırladı	gagauziya	4
 bibliotekası	başkanı	4
 kulturasının	ilerlemesindä	4
+ozaman	vardı	4
 neredä	annadılêr	4
 milli	bayraan	4
 pötr	vlahın	4
@@ -33154,7 +33152,6 @@ kompüter	tähsilinin	4
 yaradılması	vä	4
 yuxarıda	sadalanan	4
 i̇btidai	kompüter	4
-bu	problemlär	4
 bu	problemin	4
 hälli	ilä	4
 bu	problemi	4
@@ -33288,10 +33285,9 @@ vya	hba	4
 at	vayt	4
 sayı	i̇öi̇	4
 akt	yaası	4
-tük	tc	4
-tc	kuu	4
 d	ku	4
 kuu	vg	4
+kk	v	4
 v	p	4
 y	j	4
 g	d	4
@@ -33328,7 +33324,6 @@ var	insan	4
 hem	kimin	4
 iş	kesin	4
 sa	yok	4
-en	yufka	4
 eniletmää	deyni	4
 erinä	başka	4
 seçmää	deyni	4
@@ -33396,7 +33391,6 @@ e	sa	4
 r	seçenek	4
 ülkeler	tarafından	4
 son	sözü	4
-n	cenk	4
 m	öncel	4
 talantlı	bir	4
 muzeylär	hem	4
@@ -33404,6 +33398,7 @@ muzeylär	hem	4
 verimni	hem	4
 izin	vermeer	4
 moldova	evropanın	4
+pek	dar	4
 kısmetli	hem	4
 ani	may	4
 mänävi	cähätdän	4
@@ -33454,8 +33449,10 @@ günü	gagauziyanın	4
 rıza	çalımba	4
 gde	ve	4
 rektörü	mehmet	4
+ve	fenerbahçe	4
 adele	ede	4
 n	kez	4
+ır	d	4
 n	özgür	4
 var	d	4
 ses	ve	4
@@ -33464,7 +33461,6 @@ ne	hakaret	4
 hatırlatılması	üzer	4
 nra	sev	4
 nç	çığlığı	4
-a	çıktı	4
 i̇şgal	altındak	4
 küfür	ed	4
 hem	kasabalara	4
@@ -33542,7 +33538,6 @@ n	meşru	4
 kış	ol	4
 ıl	dönümü	4
 r	sal	4
-f	n	4
 n	açılış	4
 devlet	bahçel	4
 çevre	düzenlemes	4
@@ -33616,6 +33611,7 @@ n	şek	4
 k	ölçül	4
 f	çıkm	4
 i	z	4
+n	juventus	4
 rı	kırmızılı	4
 rşı	ç	4
 bilir	f	4
@@ -33645,6 +33641,7 @@ bu	bü	4
 lan	bölgede	4
 ve	rej	4
 l	tes	4
+ımız	var	4
 n	açıklamalarda	4
 seve	seve	4
 sınır	ötes	4
@@ -33684,6 +33681,7 @@ n	gem	4
 nde	daha	4
 nden	alınan	4
 aralarında	bulunduğu	4
+lmamakla	b	4
 tutuksuz	sanıklar	4
 ağır	ceza	4
 ceza	mahkemes	4
@@ -33697,7 +33695,6 @@ bunu	gerçekleşt	4
 eden	çavuş	4
 nusunda	da	4
 ak	t	4
-r	düşün	4
 m	artık	4
 e	başladığını	4
 a	başladığını	4
@@ -33777,6 +33774,7 @@ kapanmasından	sora	4
 onun	peetleri	4
 bu	grupta	4
 ve	üzeri	4
+i̇sveç	ve	4
 ve	let	4
 devam	etmek	4
 rması	g	4
@@ -33808,6 +33806,7 @@ onnara	izmet	4
 bu	ayırı	4
 yok	hem	4
 da	aslı	4
+çalışan	b	4
 n	bölgedek	4
 örgüt	saflarına	4
 kabul	etmed	4
@@ -33843,6 +33842,7 @@ dillerin	paralel	4
 k	ekr	4
 t	hal	4
 ışık	y	4
+t	et	4
 n	huzurunu	4
 nun	devre	4
 ün	na	4
@@ -33850,7 +33850,6 @@ n	sa	4
 grup	başkanvek	4
 sandık	güvenl	4
 aret	ederek	4
-k	zem	4
 aklarını	bel	4
 k	dem	4
 r	ada	4
@@ -33861,7 +33860,6 @@ i̇stanbul	m	4
 baka	baka	4
 ğum	günü	4
 u	bir	4
-en	iy	4
 k	öner	4
 lüdmila	aleksandrovna	4
 yıl	çalıştı	4
@@ -33878,6 +33876,9 @@ o	girdi	4
 bu	gözellää	4
 bu	günnän	4
 sıra	geçti	4
+portulu	giyimnerin	4
+giyimnerin	milli	4
+milli	günü	4
 bu	derin	4
 hem	özelliini	4
 halkın	kultura	4
@@ -33891,7 +33892,6 @@ diplomnar	hem	4
 ınıf	m	4
 bu	konularda	4
 başka	çok	4
-neeti	hem	4
 insannık	için	4
 onun	şiirleri	4
 dört	köşeli	4
@@ -33974,7 +33974,6 @@ kurban	verän	4
 daha	kolay	4
 rs	u	4
 devlettän	hem	4
-kurultayın	baş	4
 ti̇ka	budapeşt	4
 insan	geldi	4
 andriaş	zsolt	4
@@ -34027,7 +34026,6 @@ rı	gün	4
 le	ilgili	4
 ana-bobalar	uşaklarınnan	4
 uşaklarınnan	salt	4
-ama	bizi	4
 küülerdä	da	4
 durum	diil	4
 artık	her	4
@@ -34045,7 +34043,6 @@ k	puanı	4
 buna	b	4
 aldılar	kdu	4
 kdu	rektoruna	4
-kiyat	tiparlandı	4
 gider	gagauz	4
 dilini	taa	4
 r	telev	4
@@ -34079,6 +34076,7 @@ ederiz	hem	4
 kıvrak	boylu	4
 nedän	dä	4
 geçti	taa	4
+kendi	acızgannıımızı	4
 çıktı	todur	4
 hem	baaşışları	4
 mevlüt	çavuşoğlunun	4
@@ -34117,7 +34115,6 @@ ayak	yoluna	4
 içindä	da	4
 primarın	yardımcısını	4
 hem	yazıcıyı	4
-hem	üürencilerin	4
 elena	paçi̇	4
 deyni	komratta	4
 bir	seminar	4
@@ -34242,6 +34239,7 @@ hem	satın	4
 baaşış	verildi	4
 rlı	y	4
 için	kanonuna	4
+bana	kalsın	4
 ne	sana	4
 bizä	hem	4
 samuel	et	4
@@ -34289,7 +34287,6 @@ ve	sanatkarlar	4
 tarafından	gel	4
 mahkeme	tarafından	4
 lere	bu	4
-kararı	alan	4
 dığı	mes	4
 ve	mu	4
 terk	ed	4
@@ -34308,7 +34305,6 @@ banka	tarafından	4
 bölgesel	konul	4
 n	bölgen	4
 ndığını	d	4
-bölgede	b	4
 lım	ve	4
 angısı	o	4
 pımı	dev	4
@@ -34324,7 +34320,6 @@ keçmiş	vä	4
 hansı	formadasa	4
 ölä	bişey	4
 ayın	bitki	4
-bana	kalsa	4
 tarafından	ilk	4
 yardımcı	olan	4
 danışma	yaptı	4
@@ -34380,7 +34375,6 @@ on	v	4
 n	ruhunu	4
 on	p	4
 fı	d	4
-r	muh	4
 r	doğurur	4
 dünnä	çempionatlarında	4
 türk	dünnesindän	4
@@ -34602,7 +34596,6 @@ reket	etmek	4
 lk	günler	4
 le	ank	4
 üksek	sev	4
-rf	ett	4
 rı	ele	4
 bu	albom	4
 albom	kiyadı	4
@@ -34649,7 +34642,6 @@ nekadar	kahır	4
 ama	cuvap	4
 tek	gagauz	4
 ansamblisinin	kurucusu	4
-hem	artistik	4
 hem	gazetalar	4
 ynı	doğrultud	4
 uncu	v	4
@@ -34661,6 +34653,7 @@ bulunduğu	m	4
 nüfus	cüzd	4
 nmış	d	4
 n	durdurulm	4
+r	kuruluş	4
 nmış	olm	4
 ilgili	yortulu	4
 hem	ti̇kaya	4
@@ -34727,13 +34720,10 @@ milli	rubaların	4
 i̇vanovna	todi̇evanın	4
 bir	ayoz	4
 polþanýn	ali	4
-cý	il	4
 sistemindä	islahatýn	4
 qäbul	edildikdän	4
 üçün	imkan	4
 hätta	bu	4
-mäktäblärdä	tähsil	4
-tähsil	alanlarýn	4
 tähsilä	olan	4
 tabeçiliyindä	olan	4
 vä	täläbälärin	4
@@ -34917,6 +34907,7 @@ türlü	bu	4
 hem	informatika	4
 rklı	v	4
 ğlı	olduğunu	4
+m	gücü	4
 üstün	g	4
 hem	yolladı	4
 işlän	ilgili	4
@@ -34931,9 +34922,9 @@ dının	k	4
 rin	bir	4
 n	oluşmuştur	4
 lığı	k	4
+büyük	okyanus	4
 st	ol	4
 ruh	v	4
-rı	vb	4
 uygun	k	4
 pısı	v	4
 ntısı	v	4
@@ -35181,7 +35172,6 @@ net	ett	4
 zı	p	4
 ns	k	4
 açıklık	get	4
-dge	anal	4
 lde	seç	4
 değer	ka	4
 oyuncu	ve	4
@@ -35194,6 +35184,7 @@ sokağa	çıkma	4
 çıkma	yasağı	4
 m	kurulunun	4
 toplum	s	4
+c	m	4
 tarafından	yayımlanan	4
 unlu	m	4
 ekmek	ve	4
@@ -35206,7 +35197,6 @@ f	tutul	4
 n	görevl	4
 derece	y	4
 kuruluş	ve	4
-zorunlu	s	4
 ve	pl	4
 k	serv	4
 lzeme	ve	4
@@ -35372,6 +35362,7 @@ ve	yetenekler	4
 ve	str	4
 süreçte	de	4
 mler	y	4
+çok	talantlı	4
 repin	adına	4
 hem	işlärdi	4
 mihai	emi̇nesku	4
@@ -35426,6 +35417,7 @@ z	bölümd	4
 aşırı	devletlerdä	4
 üç	buçuk	4
 aaraştırmak	merkezinin	4
+nesoy	o	4
 bizim	istoriyamız	4
 k	hükümler	4
 nlık	m	4
@@ -35452,7 +35444,6 @@ toplantıya	katıldılar	4
 katıldılar	türkiye	4
 moldovada	azerbaycan	4
 büükelçisi	hem	4
-türkiyedän	gelän	4
 bu	sayının	4
 proektleri	için	4
 baalantılar	için	4
@@ -35580,7 +35571,6 @@ kişi	varıdı	4
 dedi	kılbaş	4
 verdi	eydür	4
 gelsün	dedi	4
-soylamış	eydür	4
 yemek	içmek	4
 atdan	aygırdan	4
 aygırdan	deveden	4
@@ -35657,7 +35647,6 @@ seçmen	k	4
 lçe	ve	4
 lere	b	4
 m	kend	4
-p	hem	4
 gerek	b	4
 zı	nokt	4
 de	geld	4
@@ -35690,7 +35679,6 @@ sonuçları	sahadan	4
 istanbul	iddaa	4
 todur	angeli	4
 tanasoglunun	adına	4
-xbet	x	4
 minimum	para	4
 maç	afişleri	4
 sonuçları	dün	4
@@ -35713,6 +35701,7 @@ gagauziyanın	çöşmä	4
 respublikasının	kurucu	4
 komrat	munițipiyin	4
 koordinațiya	agenstvosu	4
+za	karşı	4
 hem	kanalizațiya	4
 günü	ne	4
 ar	jaktan	4
@@ -35729,6 +35718,7 @@ ulam	jañı	4
 ak	jol	4
 karay	jol	4
 közdöy	alıp	4
+anın	üç	4
 ıgı	jok	4
 jok	bul	4
 kötörüp	çıgıp	4
@@ -35743,8 +35733,6 @@ ap	emi	4
 dep	suraşkanda	4
 esi	jok	4
 algan	bir	4
-degende	ak	4
-ak	etkenden	4
 dep	oyloysuñbu	4
 emi	tigil	4
 al	tez	4
@@ -35798,7 +35786,6 @@ jürgön	eki	4
 eç	arga	4
 kelişinçe	araket	4
 meni	aldap	4
-bir	katuu	4
 kireeri	menen	4
 alardın	arasınan	4
 duba	menen	4
@@ -35817,11 +35804,11 @@ birinçi	kezekte	4
 men	sözsüz	4
 egerde	menin	4
 dep	oyloşot	4
+jılı	da	4
 közümö	körünböy	4
 işti	kantip	4
 gana	jol	4
 suuk	ele	4
-derviş	aga	4
 jek	körüşöt	4
 uşintip	aytkan	4
 da	bilçü	4
@@ -35855,6 +35842,7 @@ burbay	ele	4
 kelip	berdi	4
 çurkap	jetip	4
 katkırıp	jiberdi	4
+talap	kılam	4
 bügündön	baştap	4
 baş	iyüügö	4
 bir	karaganda	4
@@ -36011,7 +35999,6 @@ jamgır	jaap	4
 bul	ayal	4
 suroo	berip	4
 bere	alasızbı	4
-salım	koşkon	4
 işke	aşıra	4
 anan	eköö	4
 üçün	jañı	4
@@ -36019,7 +36006,6 @@ uga	elek	4
 jana	baktıluu	4
 nerse	bilbeyt	4
 bilbeyt	eken	4
-anı	özünün	4
 kelgen	adam	4
 jardam	beresiñ	4
 kişi	ötö	4
@@ -36036,7 +36022,6 @@ jıyırma	jıl	4
 oylono	baştadı	4
 aldınça	bir	4
 argasız	kıldı	4
-anan	aga	4
 alim	menen	4
 közdöy	jol	4
 neçe	kadam	4
@@ -36055,7 +36040,6 @@ kaytkan	soñ	4
 dep	salam	4
 dep	atayt	4
 jolgo	çıgıştı	4
-koy	dep	4
 eñ	küçtüü	4
 söz	aytpa	4
 bir	tuuganınday	4
@@ -36135,7 +36119,6 @@ l	kızl	4
 başvuru	şartları	4
 ğlık	kurulu	4
 ve	tesc	4
-lûl	ve	4
 le	gelmes	4
 jıldıgına	arnalgan	4
 baarına	tegiz	4
@@ -36201,7 +36184,6 @@ bolo	turganın	4
 sezse	da	4
 bolup	jatpaybı	4
 söömöyü	menen	4
-çaçıp	turdu	4
 kelip	ketken	4
 oñ	kol	4
 sol	kol	4
@@ -36229,7 +36211,6 @@ gana	boldu	4
 bul	jıyında	4
 kara	jumuştu	4
 baarın	bilip	4
-ordu	menen	4
 aytıp	çıktı	4
 aldında	oturgan	4
 baykagan	jok	4
@@ -36284,7 +36265,6 @@ tolup	ketti	4
 albandın	balası	4
 karap	oturat	4
 dep	köp	4
-el	jok	4
 mından	kiyinki	4
 sözdörünön	kiyin	4
 otursa	da	4
@@ -36333,11 +36313,9 @@ at	jalın	4
 neçe	kişi	4
 er	bolsoñ	4
 kala	turganday	4
-jerde	ar	4
 attın	dübürtü	4
 külüp	koydu	4
 degen	bolot	4
-emne	deysiñ	4
 sabırduuluk	menen	4
 birok	oşentse	4
 süröt	tarta	4
@@ -36409,7 +36387,6 @@ menen	oturup	4
 jakka	barıp	4
 turganday	boldu	4
 tañ	atkanda	4
-appak	bolup	4
 almak	bolup	4
 jatıp	kalıştı	4
 şaşke	çende	4
@@ -36521,7 +36498,6 @@ izdep	kelgen	4
 turgan	kezi	4
 sarı	suu	4
 ele	anday	4
-oşol	arada	4
 jönündögü	kabardı	4
 ölümü	menen	4
 mınday	kılıp	4
@@ -36690,7 +36666,6 @@ menen	enesinin	4
 dene	jana	4
 uruusuna	karaştuu	4
 uruusunan	başka	4
-kurman	boldu	4
 anın	ortosunda	4
 menen	altan	4
 tukum	kurut	4
@@ -36786,7 +36761,6 @@ da	munun	4
 takır	baş	4
 zamat	joop	4
 enesi	başka	4
-mamile	jasoogo	4
 baarın	özüm	4
 merkit	taypasının	4
 müldö	başka	4
@@ -36846,7 +36820,6 @@ maşıguu	alıp	4
 tolgon	tokoy	4
 toorul	handan	4
 karşı	bolgon	4
-kolunda	bar	4
 temüçin	emi	4
 üçün	jan	4
 jetile	elek	4
@@ -36952,7 +36925,6 @@ iş	jasap	4
 kek	aluu	4
 alar	özdörünün	4
 kelgen	kezde	4
-jılı	küzündö	4
 da	tüşünüktüü	4
 kalıñ	kar	4
 aşıp	ötüp	4
@@ -36983,7 +36955,6 @@ atın	ukkanda	4
 tündük	jagında	4
 kaçan	bolso	4
 baybiçesi	börtönün	4
-degen	tıyanakka	4
 koñur	küzdün	4
 anı	jeñip	4
 on	kündön	4
@@ -37041,6 +37012,7 @@ tündük	jaktagı	4
 köp	nerseler	4
 hasar	kol	4
 düynödön	kaytkan	4
+düynödö	jalgız	4
 közü	tirüü	4
 aza	kütüp	4
 handıgın	talkaloo	4
@@ -37057,7 +37029,6 @@ elçi	keldi	4
 handıgının	padışası	4
 toktop	kalgan	4
 da	ordunan	4
-jıldın	mart	4
 bagıtındagı	jol	4
 basıp	ötöt	4
 handıgına	karşı	4
@@ -37118,7 +37089,6 @@ oyum	bar	4
 uşul	kattı	4
 kiyin	dagı	4
 jana	beş	4
-köz	ayalı	4
 ata	konuşuna	4
 şaardı	basıp	4
 zor	emgek	4
@@ -37185,7 +37155,6 @@ menen	subatayga	4
 alıstan	kelgen	4
 köptön	köp	4
 aldında	eç	4
-da	bolmok	4
 salsa	da	4
 şañşün	jinrindin	4
 ala	baştagan	4
@@ -37259,6 +37228,7 @@ d	br	4
 türkiye	ile	4
 nlığı	sınırl	4
 ın	cumhurb	4
+orum	ded	4
 klı	h	4
 kimi	müxtälif	4
 uyğun	gälmäyän	4
@@ -37461,8 +37431,6 @@ nden	n	4
 lle'de	f	4
 dönen	s	4
 lı	bu	4
-mp	ultr	4
-mp	m	4
 r'ın	h	4
 ettilär	en	4
 biz	gösterdik	4
@@ -37476,7 +37444,6 @@ verdi	moldovanın	4
 onnar	iki	4
 su	proektı	4
 da	çalışmaları	4
-dill	lääzım	4
 biz	herkerä	4
 hem	gagauzları	4
 arzu	ederiz	4
@@ -37494,7 +37461,6 @@ leme	ve	4
 kulüpten	y	4
 the	m	4
 etnografiya	muzeyin	4
-türlü	gözäl	4
 söledi	taa	4
 cu	klassların	4
 merkezin	başın	4
@@ -37510,7 +37476,6 @@ da	getirer	4
 verän	kurumun	4
 i̇lçe	b	4
 de	ver	4
-n	i̇br	4
 özel	uç	4
 prognozlarına	görä	4
 sıcak	havada	4
@@ -37532,6 +37497,7 @@ uşakları	doyurmak	4
 çok	önemlidir	4
 futbolcu	için	4
 bordo	m	4
+bruno	peres	4
 ren	ve	4
 sona	doğru	4
 aday	olarak	4
@@ -37585,7 +37551,6 @@ n	bozulm	4
 angısında	laf	4
 bu	komisiyaya	4
 cuvap	vermedi	4
-ck	öndercisi	4
 götürän	vitaliy	4
 devletlän	verilän	4
 diil	aslı	4
@@ -37611,7 +37576,6 @@ kasabanın	meydanında	4
 saat	edidä	4
 için	verdilär	4
 paası	kurȇr	4
-yt	k	4
 benzer	şek	4
 profilaktika	işlerini	4
 ın	üz	4
@@ -37710,7 +37674,6 @@ yüzi	nikâblu	4
 haber	sordı	4
 beyrek	dahı	4
 azîz	baba	4
-yâ	pes	4
 varsun	dediler	4
 yerüñ	üzerine	4
 geldi	baş	4
@@ -37724,9 +37687,8 @@ tañrınuñ	birligine	4
 birligine	yokdur	4
 vereyin	dedi	4
 dedi	üç	4
-görmemiş	ola	4
+ola	biñ	4
 mâl	istedi	4
-biñ	aygır	4
 dedi	dahı	4
 güldi	eydür	4
 ko	dedi	4
@@ -37795,6 +37757,7 @@ açıkladılar	hem	4
 oldu	ii	4
 hem	yaşayannar	4
 grt	televizionun	4
+bu	pazar	4
 herbir	yıl	4
 eni	dostları	4
 mariya	maruneviçin	4
@@ -37806,7 +37769,6 @@ tmış	v	4
 r	günümüzd	4
 küf	m	4
 lou	d	4
-olacȇk	kolaylıı	4
 muzika	okuluna	4
 yok	lääzımnı	4
 bölä	kolaylık	4
@@ -38045,6 +38007,7 @@ al	makul	4
 aldında	jatkan	4
 attan	tüşpöy	4
 menen	tiginin	4
+degen	tüşünüktün	4
 jigit	alıp	4
 ele	makul	4
 jarayt	dep	4
@@ -38093,12 +38056,14 @@ kabar	beret	4
 jılga	jakın	4
 ıza	bolgon	4
 dagı	öz	4
+adam	balasının	4
 bul	maseleler	4
 turgan	jerine	4
 kolunan	kele	4
 mezgil	keldi	4
 büt	kırgız	4
 degende	el	4
+jakşı	kabıl	4
 aalamda	jok	4
 er	jigittin	4
 tüp	kötörö	4
@@ -38171,7 +38136,6 @@ duuşar	boldu	4
 kara	küçkö	4
 toktolo	keteli	4
 biyligine	karşı	4
-jılı	orus	4
 çıgıp	ketip	4
 jana	mıktı	4
 çıgıştı	karay	4
@@ -38229,6 +38193,7 @@ ketip	kalat	4
 düynögö	keldi	4
 başınan	bir	4
 uluu	jüzdögü	4
+ant	berip	4
 abılmambet	han	4
 emi	eki	4
 birok	kün	4
@@ -38249,7 +38214,6 @@ kire	elek	4
 anı	taştap	4
 abılay	sultan	4
 buga	joop	4
-jılı	kışında	4
 köşögönün	artında	4
 ubada	berip	4
 tuş	tarabı	4
@@ -38282,7 +38246,6 @@ baş	kiyimin	4
 jark	etip	4
 menen	çektelip	4
 jakşı	bilip	4
-oor	bolup	4
 ayında	da	4
 arañ	çıktı	4
 bolup	jatsa	4
@@ -38308,7 +38271,6 @@ anı	baykap	4
 dele	oşondoy	4
 degen	emes	4
 berdim	ele	4
-da	eken	4
 jeri	bar	4
 çoñ	baatır	4
 tuuma	biy	4
@@ -38356,7 +38318,6 @@ bu	satın	4
 olduğu	bütün	4
 nekadar	zarar	4
 bütün	paası	4
-r	durur	4
 doğum	k	4
 nicä	kendilerini	4
 o	el	4
@@ -38618,7 +38579,6 @@ taa	illeri	4
 uşak	duudu	4
 ilk	günnerindä	4
 çadır	dolay	4
-bir	çocucak	4
 i̇mek	mallarını	4
 lääzım	danışsın	4
 diil	kabaatlı	4
@@ -38789,6 +38749,7 @@ abdan	kızıktuu	4
 da	kelbey	4
 kedey	bolgonduktan	4
 dey	algan	4
+jakşı	boluptur	4
 biz	emne	4
 alıp	jür	4
 menen	oynop	4
@@ -38827,6 +38788,7 @@ antkeni	apası	4
 emesmin	jana	4
 mister	març	4
 koyöm	dep	4
+araket	kılçu	4
 antkeni	başka	4
 jo	aga	4
 zarıl	bolgon	4
@@ -39013,7 +38975,6 @@ suu	kuyulgan	4
 jaş	tögüp	4
 şart	ele	4
 sunuş	kılam	4
-al	biz	4
 üçün	az	4
 jana	baarıbız	4
 kılıp	koydu	4
@@ -39077,6 +39038,7 @@ agıp	jattı	4
 çurkap	ketti	4
 aytpay	turup	4
 da	köbünçö	4
+abdan	tuura	4
 sezilip	ketti	4
 ooz	açkan	4
 aytıp	berseñ	4
@@ -39454,6 +39416,7 @@ dostluk	dernään	4
 küçük	m	4
 tür	m	4
 ş	r	4
+burada	yok	4
 su	g	4
 yaşayannarı	büük	4
 eni	elektrika	4
@@ -39649,6 +39612,8 @@ bunu	täsdiq	4
 beynälxalq	alämdä	4
 ve	düşük	4
 bloke	ed	4
+planı	ve	4
+ns	acıbadem	4
 aralık	ayında	4
 dua	etmäk	4
 uca	räbbimiz	4
@@ -39805,6 +39770,7 @@ iş	planını	4
 bu	proektlär	4
 bir	hayli	4
 bän	gittim	4
+hem	biologiya	4
 aklıma	getirerim	4
 ilä	älaqä	4
 filcan	şarap	4
@@ -39888,6 +39854,7 @@ cümlä	dä	4
 hämin	şäxs	4
 isä	ona	4
 baaşışlar	hem	4
+olduğunu	düşünü	4
 ve	erkekler	4
 n	üyeler	4
 durumunnan	hem	4
@@ -39916,6 +39883,7 @@ olmasa	belä	4
 ihraç	edilen	4
 olağanüstü	hal	4
 kanun	hükmünde	4
+ölüm	d	4
 çünkü	uşaklar	4
 rusiyanın	sankt-peterburg	4
 angısını	baaşladı	4
@@ -39933,6 +39901,7 @@ yaklaştı	o	4
 verildi	kolaylık	4
 ndum	n	4
 sorusunun	y	4
+yır	oyu	4
 v	sür	4
 çok	oy	4
 ldığı	t	4
@@ -39965,6 +39934,7 @@ st	r	4
 ama	gençlär	4
 tap	eden	4
 kulübün	b	4
+dursun	özbek	4
 ak	tar	4
 bu	göreve	4
 r	dönemde	4
@@ -40032,7 +40002,6 @@ dın	ve	4
 anet	i̇şler	4
 ler	m	4
 abdullah	av	4
-bay	vani	4
 yıl	eni	4
 vakıtlar	o	4
 da	gelsin	4
@@ -40167,7 +40136,6 @@ arayin	bizi	4
 lavabo	boru	4
 robot	makina	4
 gideri	gideri	4
-tikali	wc	4
 gölcük	kirmadan	4
 pimas	aç	4
 pimas	açici	4
@@ -40238,6 +40206,7 @@ yıp	k	4
 proekt	gerçeklener	4
 foto	hem	4
 ektar	toprak	4
+bütün	türkiye	4
 svetlana	romanova	4
 geçti	klastan	4
 milli	teatru	4
@@ -40261,8 +40230,6 @@ eni	kurallara	4
 taşı	koyuldu	4
 bir	ektardan	4
 kunuşu	n	4
-k	birl	4
-nım	zir	4
 rım	z	4
 escort	bayanların	4
 bayan	arayan	4
@@ -40278,6 +40245,7 @@ bayan	bulun	4
 k	üniv	4
 bilirim	diy	4
 ktiğini	unutm	4
+lduğunu	söyl	4
 şi	b	4
 ncı	ülk	4
 l	güz	4
@@ -40339,6 +40307,7 @@ z	sosu	4
 sık	görülür	4
 rşı	en	4
 r	sok	4
+okuyor	ek	4
 eğlence	mek	4
 n	orh	4
 r	ele	4
@@ -40347,6 +40316,7 @@ rılı	sonuçl	4
 nde	l	4
 spor	d	4
 rılı	ç	4
+n	mhp	4
 s	ett	4
 de	olm	4
 burada	birkaç	4
@@ -40520,7 +40490,6 @@ iddaa	kulübü	4
 skor	spor	4
 kurtlar	vadisi	4
 alt	ust	4
-sonuçları	ve	4
 oranları	excel	4
 ligi	iddaa	4
 bilyoner	en	4
@@ -40696,6 +40665,7 @@ korkuu	degendi	4
 hek	bir	4
 kündün	kürkürögönü	4
 çeyin	unçukpay	4
+kurman	bolgon	4
 sızıp	jönödü	4
 da	alıştı	4
 jeekti	boylop	4
@@ -40806,8 +40776,8 @@ tetçer	sot	4
 sot	menen	4
 maksatı	menen	4
 berer	beken	4
-toktotup	koydu	4
 eptep	bir	4
+birok	dagı	4
 neçen	iret	4
 emes	bir	4
 tamak	da	4
@@ -40848,7 +40818,6 @@ ted	ve	4
 kupası	eleme	4
 ile	sözleşmesi	4
 k	yüks	4
-su	buh	4
 yon	h	4
 sözleşmesi	biten	4
 ile	yolların	4
@@ -40909,7 +40878,6 @@ bu	xäritälärdä	4
 esiñde	barbı	4
 bolgon	jaş	4
 bir	ukmuştuu	4
-çanaga	çegilgen	4
 köptü	körgön	4
 jana	katuu	4
 beş	mil	4
@@ -40918,7 +40886,6 @@ akkan	köz	4
 menen	betteşip	4
 suluu	jaş	4
 jönündö	birdemelerdi	4
-dem	alsa	4
 kerek	bolgondo	4
 ekööbüz	bir	4
 tübündö	toñgon	4
@@ -40944,7 +40911,6 @@ kaydadır	bir	4
 ak	adamdar	4
 jana	jol	4
 karay	süzüp	4
-jetkenge	çeyin	4
 aga	koşulup	4
 aldan	tayıp	4
 heynstin	missiyasına	4
@@ -40979,10 +40945,10 @@ da	jolgo	4
 boyluu	adam	4
 menen	süylöşüügö	4
 kirip	kelişti	4
+janına	basıp	4
 kuyup	turgan	4
 adam	bolboyt	4
 gana	bolbosun	4
-joop	berem	4
 jogoru	jaktagı	4
 jılbay	turgan	4
 gana	oy	4
@@ -41190,7 +41156,6 @@ sora	moldovanın	4
 uşaklara	taa	4
 le	c	4
 gençlerin	elçileri	4
-üçüncü	kerä	4
 türlü	eni	4
 hem	unukaları	4
 konut	üret	4
@@ -41232,6 +41197,7 @@ sade	üç	4
 şannı	kultura	4
 öndercisi	vladimir	4
 hem	kasaba	4
+eni	seçimneri	4
 o	erlerdä	4
 seçim	bölümnerindä	4
 rolu	olan	4
@@ -41241,7 +41207,6 @@ onnar	ölä	4
 olan	işleri	4
 oy	etişmedi	4
 serdjiu	li̇tvi̇nenko	4
-kızgındı	hem	4
 kazandı	üçüncü	4
 sport	okulu	4
 deyni	kabletmää	4
@@ -41265,6 +41230,7 @@ kulturasına	hem	4
 ley	lääzım	4
 tanasoglo	nışannadı	4
 yol	razgelmeleri	4
+stop	alkogol	4
 zamanın	içindä	4
 poliţiya	inspektoratın	4
 vermää	lääzım	4
@@ -41355,7 +41321,6 @@ jaşoo	degen	4
 kıldat	jana	4
 ak	sakal	4
 iştep	çıguu	4
-özdörünö	taandık	4
 jan	düynösünö	4
 köpçülük	uçurda	4
 şıkaalap	karap	4
@@ -41482,9 +41447,11 @@ yolunu	da	4
 kolay	okumaa	4
 ğ	doku	4
 gelen	y	4
+ng	d	4
 n	komb	4
 nlış	d	4
 r	yöntem	4
+r	zorl	4
 kaliteli	olsun	4
 iş	yapılȇr	4
 futbol	meydanı	4
@@ -41574,7 +41541,6 @@ kassa	apparatlarını	4
 küüyün	süleyman	4
 çı	d	4
 pu	k	4
-mını	k	4
 kez	m	4
 nasıl	danışsınnar	4
 kasabasının	soţial	4
@@ -41586,6 +41552,7 @@ o	sade	4
 deyni	bakannık	4
 alsınnar	esaba	4
 i̇ki	ay	4
+ndığı	g	4
 sı	müdürü	4
 n	dava	4
 hem	ilin	4
@@ -41652,9 +41619,7 @@ inkiþaf	etdirmäk	4
 da	än	4
 bu	räqämi	4
 usta	hümmät	4
-us	ta	4
 neçä	däqiqä	4
-äl	iþläri	4
 lazým	olan	4
 häyat	yoldaþý	4
 mähämmäd	dayýnýn	4
@@ -41674,8 +41639,6 @@ komandasýnýn	üzvü	4
 ndän	ilin	4
 ndän	çempionlar	4
 da	möv	4
-möv	sü	4
-sü	mün	4
 gänc	futbolçusu	4
 moldova	büükelçisi	4
 bir	pak	4
@@ -41724,7 +41687,6 @@ rektoru	prof	4
 na	karşı	4
 söküntü	işläri	4
 t	sürm	4
-ri	bud	4
 deniz	ot	4
 gelen	son	4
 yolu	ç	4
@@ -41747,7 +41709,6 @@ n	öbür	4
 çık	m	4
 şkın	b	4
 kendi	baamsız	4
-büük	klasları	4
 referendum	yapmaa	4
 hem	gumanitar	4
 konstantin	moskovi̇ç	4
@@ -41803,7 +41764,6 @@ de	tek	4
 n	kurduğu	4
 dooru	ritmaylan	4
 kim	lafeder	4
-istoriya	için	4
 uzattı	elini	4
 halkın	önündä	4
 ederiz	bu	4
@@ -41853,14 +41813,12 @@ uşaan	anası	4
 genel	t	4
 k	sır	4
 tkı	m	4
-b	ol	4
 rdımcı	olurl	4
 soțialist	respublikasının	4
 tiyatro	tempo	4
 santim	kalınnıında	4
 parlamentın	predsedateli	4
 şli	v	4
-k	mucibinc	4
 nim	k	4
 m	işim	4
 işim	h	4
@@ -41892,7 +41850,6 @@ yoğurt	m	4
 mon	suyunu	4
 cun	kıv	4
 kıllı	b	4
-ösym	t	4
 yıt	h	4
 ön	l	4
 k	test	4
@@ -41931,7 +41888,6 @@ rler	k	4
 ş	ols	4
 yıl	daha	4
 yıla	da	4
-yorum	d	4
 yüksek	s	4
 büyük	depremler	4
 fet	yılı	4
@@ -41954,7 +41910,6 @@ k	öt	4
 kardaş	halkların	4
 t	tem	4
 alman	tur	4
-kriulän	rayonun	4
 r	durumu	4
 ll	c	4
 ğının	t	4
@@ -41970,7 +41925,6 @@ cı	olm	4
 yorum	b	4
 elinde	zebûn	4
 beş	yüz	4
-hem	hem	4
 yını	d	4
 ne	ves	4
 it	was	4
@@ -42064,7 +42018,6 @@ gelen	yen	4
 lduğu	s	4
 nefes	kred	4
 z	dönem	4
-r	yönetmel	4
 üçüncü	erdä	4
 nikolay	kazarenko	4
 bakannık	komitetın	4
@@ -42119,7 +42072,6 @@ komrat	televizionun	4
 televizionun	ilk	4
 bu	diişilmeklär	4
 vereceklär	kolaylık	4
-tl	para	4
 kultura	fakultetin	4
 serin	su	4
 kazandılar	ilk	4
@@ -42244,7 +42196,6 @@ bizim	gençlär	4
 olacek	kolaylıı	4
 bän	kararladım	4
 işindän	alınan	4
-födor	kazanjı	4
 da	kazandılar	4
 çempion	titulunu	4
 bu	halklararası	4
@@ -42284,7 +42235,6 @@ o	istedi	4
 başkanın	ilk	4
 zce	b	4
 bir	kızım	4
-çocuk	g	4
 regional	bilim	4
 lääzım	büük	4
 gün	abonament	4
@@ -42311,11 +42261,11 @@ işini	taa	4
 beterinä	çoyu	4
 rımız	g	4
 halkının	istoriyasına	4
-dooru	yolu	4
 kulturanın	ilerlemesi	4
 hem	geliştirmäk	4
 sade	gagauziyada	4
 soţial	tarafından	4
+rkür	güneş	4
 rkür'ün	yüz	4
 n	koyu	4
 n	dışt	4
@@ -42352,8 +42302,10 @@ dosya	masrafları	4
 le	satın	4
 recek	olan	4
 olan	konutlar	4
+r	sürel	4
 de	olsa	4
 n	sorumluluğu	4
+aynî	hak	4
 de	den	4
 nceleme	ve	4
 ve	eylemler	4
@@ -42372,7 +42324,6 @@ i̇mpo	i̇mar	4
 raz	da	4
 n	grubun	4
 bu	duyguyu	4
-sora	hepsini	4
 kaarä	o	4
 pötr	petkoviçin	4
 bölümü	ile	4
@@ -42388,13 +42339,13 @@ kazım	karab	4
 halkından	özür	4
 tv	müşt	4
 tv	müşter	4
-gerçek	h	4
 n	gülb	4
 n	doğum	4
 görülen	b	4
 n	gölü	4
 gören	b	4
 l	kanal	4
+n	psg	4
 de	uefa	4
 şer	m	4
 harekatı'nda	şeh	4
@@ -42430,6 +42381,7 @@ onnar	kablettilär	4
 ren	yalçın	4
 lyon	ton	4
 rlığın	b	4
+n	ok	4
 nrısı	ur	4
 k	onun	4
 ğlıklı	beslenme	4
@@ -42459,7 +42411,6 @@ ekmek	çeş	4
 tış	nokt	4
 ş	durm	4
 kunuşu	bununl	4
-n	iş	4
 pimiz	d	4
 lup	krit	4
 inin	mühim	4
@@ -42502,7 +42453,6 @@ zorluk	ç	4
 kötü	olm	4
 bin	leydan	4
 bir	kapu	4
-ck	dors	4
 llerde	b	4
 k	q	4
 şarapçılık	uurunda	4
@@ -42519,6 +42469,7 @@ satıp	alsa	4
 başka	biröönün	4
 kıyın	bolso	4
 da	mas	4
+aligi	ayal	4
 natalya	i̇vanovna	4
 bardık	adamdarga	4
 jazılgan	kat	4
@@ -42564,6 +42515,7 @@ peter	mihalko	4
 yıldız	oyuncu	4
 gübürlük	erlerindä	4
 valkaneş	kasabanın	4
+s	tuchel	4
 r	kulübe	4
 demokratiya	i̇lerlemesindä	4
 i̇lerlemesindä	halklararası	4
@@ -42590,11 +42542,11 @@ r	uğurl	4
 rdım	d	4
 onnar	hodullanȇrlar	4
 bilim	adamıydı	4
-yaşlı	insannarın	4
 önderciliindä	bulunan	4
 skolyoz	t	4
 sekretari	anna	4
 rtık	m	4
+n	otoportr	4
 eni	ruba	4
 mediţina	uzmannarın	4
 saalık	bakannıın	4
@@ -42688,7 +42640,6 @@ mamile	jasagan	4
 menen	çın	4
 degen	ayal	4
 esepsiz	köp	4
-eki	jüzdüü	4
 jazgan	kattı	4
 alıp	satar	4
 balkim	anın	4
@@ -42772,7 +42723,6 @@ n	günc	4
 nli	su	4
 gagauz	halkların	4
 k	çır	4
-nlu	kr	4
 ğı	bör	4
 merkez	k	4
 hep	bhen	4
@@ -42798,7 +42748,7 @@ r	oper	4
 bugünkü	t	4
 şletme	s	4
 mı	mes	4
-b	olur	4
+kesmek	v	4
 mınız	kutlu	4
 mınız	müb	4
 günü	kutl	4
@@ -42843,7 +42793,6 @@ resmi	sosyal	4
 yolu	hem	4
 t	tutulm	4
 yazıcısı	todur	4
-angılarınnan	biz	4
 tv	ekranlarının	4
 diziye	yeni	4
 grubun	d	4
@@ -42952,7 +42901,6 @@ bayırkı	atı	4
 eske	tüşöt	4
 joonu	jeñgen	4
 go	ün	4
-kök	deñizde	4
 kök	deñiz	4
 arnap	jazgan	4
 bülük	salıp	4
@@ -43070,6 +43018,7 @@ sınırı	v	4
 i̇slâm	d	4
 zırlık	y	4
 rını	z	4
+hırsız	olur	4
 n	buyrukl	4
 rt	ol	4
 ğı	konusund	4
@@ -43133,6 +43082,7 @@ zarzavatların	hem	4
 hem	meyvaların	4
 tto	y	4
 lson	gözl	4
+förüm	s	4
 ahne	küüyün	4
 bülür	gözlüklü	4
 mı	ne	4
@@ -43159,7 +43109,7 @@ olmaø	i	4
 üsn	ü	4
 ü	øub	4
 ı	men	4
-muräd	nefes-i	4
+nefes-i	ra	4
 olmaø	da	4
 ntep	büyükşeh	4
 klerden	b	4
@@ -43215,7 +43165,6 @@ sferalarını	genişletmäk	4
 rış	y	4
 kullanmak	ortamının	4
 m	genel	4
-m	özdem	4
 n	met	4
 n	öztürk'ün	4
 kasabasının	karıların	4
@@ -43236,12 +43185,12 @@ lık	graten	4
 födoroviç	konstandoglu	4
 korten	küüyün	4
 n	bölükl	4
-tlelere	ul	4
 spor	i̇lçe	4
 i̇lçe	müdürü	4
 nlı	tur	4
 de	j	4
 göçü	ol	4
+dro	günü	4
 devletin	intellektual	4
 öznur	k	4
 karşıya	geldilär	4
@@ -43288,6 +43237,7 @@ baş	sözün	4
 akındın	öz	4
 kırgızstan	jazuuçular	4
 osmonov	jönündö	4
+en	birinçi	4
 elena	dmitrievna	4
 jılı	frunzede	4
 akın	jana	4
@@ -43385,7 +43335,6 @@ resim	sergileri	3
 hem	türkülär	3
 bir	kasaba	3
 poetlarından	birisi	3
-halkın	eski	3
 halkı	bu	3
 millet	olarak	3
 insannar	listasi	3
@@ -43579,7 +43528,6 @@ bura	qädär	3
 etmäk	doğru	3
 köklü	bir	3
 bizim	fikrimizcä	3
-oxunma	sayı	3
 laflar	için	3
 geçti	sovet	3
 taa	bizä	3
@@ -43694,7 +43642,6 @@ sizi	çok	3
 k	bölümü	3
 terhis	t	3
 gün	sayısı	3
-z	d	3
 n	toplamda	3
 r	alm	3
 rınızı	bu	3
@@ -43703,7 +43650,6 @@ n	hakkı	3
 kısa	dön	3
 bazında	işl	3
 bağlı	ol	3
-k	d	3
 inde	y	3
 zaten	k	3
 dönem	a	3
@@ -43738,7 +43684,6 @@ n	ask	3
 un	ve	3
 üzerinde	b	3
 ere	t	3
-günlük	m	3
 bu	düş	3
 n	dışına	3
 on	m	3
@@ -43956,7 +43901,6 @@ sensiz	hayata	3
 kanunu	genel	3
 yıl	süre	3
 le	geç	3
-n	abd	3
 olan	ülke	3
 ülke	para	3
 ru	ve	3
@@ -43971,6 +43915,7 @@ bankacılık	düzenleme	3
 ergün	turan	3
 konumu	ve	3
 d	to	3
+to	d	3
 a	üzer	3
 ı	ya	3
 tılıp	k	3
@@ -44048,7 +43993,6 @@ daha	doğru	3
 alan	da	3
 r	zorunluluk	3
 n	elden	3
-usulsüzlük	cezası	3
 le	serbest	3
 ceza	kes	3
 raya	verenler	3
@@ -44092,7 +44036,6 @@ yı	teşekkür	3
 n	mel	3
 ih	ed	3
 te	l	3
-lik	bir	3
 zı	kull	3
 için	farklı	3
 de	ol	3
@@ -44126,6 +44069,7 @@ edä	bilmäräm	3
 vä	beläliklä	3
 yolda	bir	3
 äbu	talibä	3
+bu	bilgilär	3
 vä	bunları	3
 äräblär	arasında	3
 vä	zilhäccä	3
@@ -44169,7 +44113,6 @@ vä	iri	3
 vähşi	heyvan	3
 hardasa	bir	3
 bir	kilometr	3
-rahat	näfäs	3
 dä	yalnız	3
 ancaq	onlar	3
 daha	diqqätlä	3
@@ -44195,7 +44138,6 @@ bunun	isä	3
 dästäk	vermäk	3
 üçün	imkanlar	3
 cavab	olaraq	3
-bütün	dünyada	3
 çärçiväsindä	bu	3
 bu	vaxta	3
 nä	çox	3
@@ -44277,7 +44219,6 @@ i̇slamın	än	3
 insanlıqdan	känar	3
 illär	keçdikdän	3
 ancaq	o	3
-dä	äl	3
 bu	ikisi	3
 qureyşin	ağsaqqalları	3
 gäldiyini	xäbär	3
@@ -44286,6 +44227,7 @@ biz	indi	3
 lında	bu	3
 rı	yoktur	3
 bankalar	konut	3
+e	çek	3
 abd	doları	3
 yle	konut	3
 noktada	b	3
@@ -44316,7 +44258,6 @@ olarak	kullanılab	3
 olarak	kayıtlı	3
 kayıtlı	olan	3
 le	gerekl	3
-bu	verg	3
 yapılmaması	hal	3
 olarak	kullanılan	3
 vä	dünyanın	3
@@ -44423,7 +44364,6 @@ hakkı	da	3
 ancak	k	3
 ye	edeb	3
 avukat	k	3
-tc	k	3
 kadastro	müdürlükler	3
 k	belgeler	3
 vekalet	veren	3
@@ -44446,7 +44386,6 @@ veya	başka	3
 r	yıldan	3
 yıl	geçmed	3
 syonu	b	3
-hey	canım	3
 benim	de	3
 yola	baş	3
 qaziläri	vä	3
@@ -44616,9 +44555,8 @@ bu	yarışmada	3
 küüyündä	yaşayan	3
 i̇van	nikolaeviçin	3
 nikolaeviçin	hem	3
-hem	gina	3
-gina	födorovnanın	3
 ye	adına	3
+bosna	hersek	3
 nıtım	f	3
 en	yoğun	3
 görä	er	3
@@ -44840,6 +44778,7 @@ qarabağ	vä	3
 biz	başa	3
 dä	män	3
 dä	olub	3
+qarabağla	bağlı	3
 ähämiyyäti	olan	3
 bakılêr	baba	3
 teatrularından	kaarä	3
@@ -44979,7 +44918,6 @@ tükürük	b	3
 vä	özälliklä	3
 ictimai	räyä	3
 son	günlär	3
-qaldırılması	üçün	3
 amma	yenä	3
 amma	sonra	3
 yerinä	yetirilmälidir	3
@@ -45019,6 +44957,7 @@ prezidentına	recep	3
 kvartiralardan	anaktarları	3
 büün	bir	3
 biz	eni	3
+tarafından	türkiye	3
 kiliç	açıkladı	3
 türkiye	her	3
 ani	evin	3
@@ -45160,6 +45099,7 @@ ve	e	3
 ına	k	3
 ğını	gör	3
 yol	açan	3
+n	mısır	3
 olan	e	3
 l	çözümler	3
 rus	äsgärlärinin	3
@@ -45314,7 +45254,6 @@ o	ne	3
 rey	kärimoğlunun	3
 qarşı	här	3
 qarşı	daha	3
-davranışları	ilä	3
 katibi	äfsanä	3
 äfsanä	äläsgärli	3
 komissiyasının	sädri	3
@@ -45458,7 +45397,6 @@ paraşüt	sportunda	3
 pek	gözäldi	3
 hem	rumıniya	3
 arasında	birinci	3
-beeri	kurucu	3
 sözü	s	3
 baba	martanın	3
 başkanın	seçimneri	3
@@ -45713,7 +45651,6 @@ azerbaycan	cumhurbaşkanı	3
 cumhurbaşkanı	i̇lham	3
 da	düzenlenen	3
 ätrafında	müzakirälär	3
-c	d	3
 kımını	d	3
 hangi	b	3
 tüm	bunlara	3
@@ -45742,6 +45679,7 @@ yer	tutur	3
 möhtäşäm	bir	3
 vä	i̇rävanda	3
 rın	genel	3
+de	chp	3
 da	at	3
 dı	altında	3
 gagauziyada	oldu	3
@@ -46093,6 +46031,7 @@ täläbälärä	maddi	3
 ildä	dövlät	3
 dövlät	büdcäsi	3
 alan	täläbälärin	3
+ümumi	sayý	3
 idarä	etmäyä	3
 daha	effektiv	3
 kreditlär	sistemi	3
@@ -46312,7 +46251,6 @@ rı	kr	3
 rı	azaltmak	3
 rı	öneml	3
 t	san	3
-rı	haf	3
 k	norm	3
 r	mua	3
 tişim	b	3
@@ -46390,7 +46328,6 @@ oytun	orhan	3
 yavaş	s	3
 r	burada	3
 r	varlık	3
-n	alışver	3
 olarak	m	3
 nımı	g	3
 sı	gerekeb	3
@@ -46535,7 +46472,6 @@ bakıldı	hederlez	3
 başkasabasında	ankarada	3
 yortu	da	3
 yaşayan	bütün	3
-da	sınırlı	3
 hem	boyalı	3
 adetlerini	da	3
 hem	imeklär	3
@@ -46722,6 +46658,7 @@ n	kıvr	3
 lduğu	z	3
 ldı	v	3
 r	gönül	3
+w	tv	3
 güzel	ol	3
 r	kuc	3
 ak	mı	3
@@ -46767,7 +46704,6 @@ r	bi	3
 çin	s	3
 bu	ƅ	3
 çin	b	3
-ƅir	u	3
 da	u	3
 u	u	3
 ğlı	h	3
@@ -46876,6 +46812,7 @@ kanun	tasarısı	3
 karşı	g	3
 ş	güv	3
 r	yurt	3
+r	aldığı	3
 n	tamamlanmasının	3
 r	hakkında	3
 bu	kuruluşların	3
@@ -46900,8 +46837,6 @@ ettiği	konulardan	3
 sizlere	bu	3
 ılı	b	3
 için	n	3
-htc	one	3
-n	gl	3
 samsung	galaxy	3
 paarlament	grupasının	3
 grupanın	başkanı	3
@@ -47052,6 +46987,8 @@ dık	d	3
 yolu	k	3
 okunusu	k	3
 r	hayat	3
+k	olma	3
+al	d	3
 an	h	3
 rusiya	federaţiaysının	3
 federaţiaysının	tatarstan	3
@@ -47107,7 +47044,6 @@ a	ha	3
 gagauziyada	pestiţidları	3
 pestiţidları	yok	3
 moldovanın	korunmak	3
-n	vb	3
 zlere	b	3
 tek	tıkl	3
 güç	ta	3
@@ -47147,7 +47083,6 @@ ben	her	3
 mutlu	olmayı	3
 n	üçte	3
 rk	zu	3
-ty	l	3
 rin	ç	3
 ve	hang	3
 rcih	ed	3
@@ -47336,8 +47271,6 @@ kışıklı	b	3
 ırt	ü	3
 hazırladı	moldova	3
 ministerliin	baş	3
-hem	cd	3
-cd	disk	3
 kişinev	büükelçi	3
 başına	dimitriy	3
 zakonda	gagauz	3
@@ -47566,7 +47499,6 @@ ve	ürün	3
 nımı	v	3
 görüşmek	üzere	3
 araya	gelecek	3
-n	türkm	3
 nüstü	topl	3
 ğız	içind	3
 mäxsus	härbi	3
@@ -47603,7 +47535,6 @@ bir	ilk	3
 hızında	ç	3
 görünse	de	3
 çözüme	ul	3
-daş	müşter	3
 olarak	h	3
 numarası	i̇l	3
 burada	yapılan	3
@@ -48058,6 +47989,7 @@ konferenţiyaya	katıldılar	3
 nt	v	3
 r	çoğu	3
 hem	yardımınnan	3
+mı	onnar	3
 kultura	izmetçilerinin	3
 kompozitoruna	i̇lya	3
 i̇lyiç	fi̇leva	3
@@ -48105,6 +48037,7 @@ orada	bizi	3
 bir	kazan	3
 o	artistlär	3
 onun	hatırına	3
+x	ve	3
 n	kil	3
 zler	h	3
 kilo	verme	3
@@ -48302,6 +48235,7 @@ bağlı	daha	3
 bir	orta	3
 çox	asanlıqla	3
 i̇kt	üzrä	3
+bu	problemlär	3
 üçün	aşağıdakı	3
 dä	hiss	3
 özellikle	y	3
@@ -48487,13 +48421,11 @@ süc	şk	3
 at	s	3
 ks	t	3
 göz	v	3
-chat	bz	3
 b	ü	3
 asıa	ağ	3
 i̇öi̇	ps	3
 öçütü	vataaşaı	3
 tf	hattıı	3
-b	f	3
 ma	dkç	3
 mkz	düzy	3
 akz	bös	3
@@ -48597,6 +48529,7 @@ bu	denemäk	3
 bakannıı	bu	3
 ne	suvan	3
 başı	sayın	3
+en	yufka	3
 ama	üüredicilär	3
 eni	kiyatların	3
 genä	onnara	3
@@ -48829,7 +48762,6 @@ r	takıma	3
 bülent	tez	3
 rahmetle	ve	3
 e'de	m	3
-ır	d	3
 ne	bugün	3
 söz	sö	3
 rten	tez	3
@@ -48843,6 +48775,7 @@ e	hareket	3
 r	özet	3
 başkanı	re	3
 hakaret	etm	3
+a	çıktı	3
 ğer	asker	3
 lahı	kullanan	3
 kullanan	askere	3
@@ -48903,7 +48836,6 @@ dal	çağrısı	3
 nde	i̇sra	3
 ha	kent	3
 bir	kı	3
-isı	ve	3
 şının	f	3
 kırmızı	r	3
 da	iyi	3
@@ -48924,6 +48856,7 @@ için	m	3
 kısa	ve	3
 a	sür	3
 ağı	u	3
+r	şekl	3
 çözüm	olm	3
 az	olm	3
 gagauziya	yaşayannarı	3
@@ -49226,7 +49159,6 @@ z	öğretmen	3
 n	eser	3
 kadar	güzel	3
 bu	hale	3
-mena	bölge	3
 avaş	k	3
 da	fark	3
 r	parçası	3
@@ -49494,7 +49426,6 @@ l	bütün	3
 temel	karam	3
 nde	geçt	3
 görüşmede	türk	3
-r	zem	3
 de	mev	3
 n	münb	3
 ve	bugün	3
@@ -49623,6 +49554,7 @@ iki	kiyadı	3
 ani	az	3
 bir	uygun	3
 laf	ustası	3
+neeti	hem	3
 necin	ki	3
 lääzım	söleyelim	3
 eceli	için	3
@@ -49714,7 +49646,6 @@ le	bölgede	3
 e	çalışan	3
 n	i̇dl	3
 ve	kuruluşları	3
-k	bür	3
 deyni	iş	3
 gömülmesi	için	3
 hem	yazıcısı	3
@@ -49751,6 +49682,7 @@ sonucu	m	3
 rlı	m	3
 kudüs'e	taşıma	3
 n	ülkes	3
+karar	u	3
 lan	desteğ	3
 n	halkının	3
 ka	ülkes	3
@@ -49793,6 +49725,7 @@ zsolt	bi̇ro	3
 oyun	oynadılar	3
 ötmesi	altında	3
 iş	bu	3
+kurultayın	baş	3
 i̇ki	günnük	3
 gezdilär	hem	3
 büük	asker	3
@@ -49907,6 +49840,7 @@ dil	lafedilmäsä	3
 lafedilmäsä	uşak	3
 uşak	sokakta	3
 milli	duyguları	3
+ama	bizi	3
 ancak	rusça	3
 ne	kultura	3
 rusça	lafedärsä	3
@@ -49948,6 +49882,7 @@ larisa	çaki̇r	3
 hazırlanması	hem	3
 angısı	iki	3
 ukrayna	gagauzları	3
+kiyat	tiparlandı	3
 söz	gider	3
 hemen	cuvap	3
 sorataa	derindän	3
@@ -50000,3 +49935,68 @@ cı	yılında	3
 kasabasının	türk	3
 taa	evä	3
 büük	maşina	3
+gittim	işlemää	3
+aar	yaralandı	3
+bu	tragediyaylan	3
+türkiye	prezidentına	3
+prezidentı	da	3
+başta	türkiye	3
+çalışmalarını	hem	3
+anılmış	insannarın	3
+gagauziyanın	şkolalarına	3
+işlemiş	hem	3
+kimi	küülerdä	3
+sțenaya	çıktı	3
+geldilär	komşu	3
+kabletmektän	sora	3
+dış	politika	3
+bän	gagauzum	3
+laflarına	hem	3
+edi	gün	3
+canavar	yortularını	3
+maanalı	milli	3
+erdä	hem	3
+iileştirmää	deyni	3
+adamının	dionis	3
+hazırladıı	gagauz	3
+gagauziyanın	bibliotekalarına	3
+ilk	prezidentına	3
+cümne	kompaniyanın	3
+kompaniyanın	baş	3
+festivali	yapılêr	3
+mirça	snegur	3
+dä	imzalanan	3
+dünnäsı	günü	3
+başardı	türkiyenin	3
+hem	nezaman	3
+kararladı	enidän	3
+ık	v	3
+da	dış	3
+dış	ür	3
+rganlarında	ve	3
+kıllanma	başlar	3
+vücut	t	3
+cinsel	bölge	3
+yı	kirlenme	3
+kirlenme	ve	3
+ların	y	3
+si	çok	3
+y	olmaktadır	3
+ağrı	ve	3
+rtışı	g	3
+rı	mutl	3
+l	bölge	3
+ıtlı	olduğu	3
+i̇lk	dön	3
+vä	ümumiyyätcä	3
+filan	vaxt	3
+vaxt	filan	3
+siz	täsadüfän	3
+mäsäläsi	kimi	3
+cavab	verir	3
+sizä	kömäk	3
+ortaya	çıxa	3
+burada	kimi	3
+tanış	olmağa	3
+xarakter	daşıyan	3
+çox	cüzi	3

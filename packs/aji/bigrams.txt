@@ -1,6 +1,6 @@
 # Bigrammes aji (FineWeb-2 aji_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-na	bör̂i	1425
+na	bör̂i	1424
 pâr̂â	kâmö	1119
 na	pâr̂â	977
 wè	na	913
@@ -8,22 +8,24 @@ nè	yè	894
 kâmö	ré	889
 na	ce	860
 cè	ki	803
-ké	yè	770
-na	ki	668
+ké	yè	769
+na	ki	667
 aè	na	649
 pâi	pa	608
 na	wê	588
 kâmö	ka	574
 na	da	567
+mâ	vi	567
 cér̂é	bör̂i	559
 e	na	555
 tö	rhûû	544
 pâr̂â	kââ	536
 bör̂i	vi	528
 é	bör̂i	525
+mâ	pâr̂â	515
 i	bâô	498
-na	ké	456
-na	e	456
+na	ké	455
+na	e	455
 na	ka	450
 tâ	néwèi	449
 yè	bör̂i	448
@@ -60,16 +62,19 @@ na	bâô	279
 tö	vèa	277
 vi	méar̂i	276
 é	wê	275
-na	ûr̂û	273
+na	ûr̂û	272
 wêê	nénââ	271
+mâ	pè	267
 cè	ké-r̂é	260
 kââ	ré	257
 i	pâr̂â	254
 bar̂ee	na	254
 cér̂é	yè	251
 na	ma	251
+mâ	na	249
 na	kâmö	246
 pwa	na	245
+yè	mâ	245
 ka	tö	244
 ö	kââ-ré	244
 da	tö	242
@@ -78,6 +83,7 @@ mö	ké	231
 koa	yè	230
 êr̂ê	na	227
 wê	tö	226
+ki	mâ	225
 ka	yè	220
 pâi	xè	219
 na	pâi	219
@@ -100,12 +106,13 @@ ce	ré	195
 bör̂i	pwa	195
 pa	vi	195
 kâ	vè	194
+mâ	êr̂ê	191
 ka	é	190
 ye	vè	189
 tëë	na	189
 vi	or̂o	187
 vi	ru	185
-yè	bâô	183
+yè	bâô	182
 wè	gö	181
 bör̂i	da	180
 xè	juda	180
@@ -204,7 +211,7 @@ méar̂i	vi	114
 vi	pur̂â	114
 cér̂é	vi	114
 ké	êr̂ê	112
-ré	cér̂é	112
+ré	cér̂é	111
 waa	vè	110
 pâgür̂ü	xi-e	110
 rai	pâr̂â	109
@@ -215,9 +222,9 @@ mêr̂ê	aʼ	108
 bör̂i	rhau	108
 mâ	cér̂é	108
 ka	dö	108
-ki	da	107
 paxa	vi	107
 dèxâ	kââ	107
+ki	da	106
 yè	pâi	106
 mâ	ké	106
 kâmö	paxa	106
@@ -238,10 +245,10 @@ yè	kâmö	100
 na	gèi	100
 yè-r̂é	na	99
 yè	êr̂ê	99
-bâô	na	98
 na	nô	98
 tö	pwêr̂ê	98
 mâ	waa	98
+bâô	na	97
 mi	na	97
 rèi	nédaa	97
 rö-i	vi	97
@@ -298,7 +305,6 @@ yè	tâ	80
 tâ	nôô	80
 yè	dè	80
 na	ko	80
-e	yè	80
 tömâ	rua	80
 rhaaxâ	rö	80
 rö	xi-e	80
@@ -307,11 +313,13 @@ tö	rhûû-é	79
 gö	bör̂i	79
 gèré	yè	79
 tö	vâ	79
+e	yè	79
 na	tâ	78
 rö	i	78
 wè	nâ	78
 jië	na	77
 vaa	i	77
+xi-e	mâ	77
 wêyê	né	76
 waa	nêr̂ê	75
 bör̂i	dè	75
@@ -366,13 +374,13 @@ ubwa	i	66
 vi	ye	66
 nédaa	ré	66
 gëve	vi	66
+mâ	pâi	65
 vè	târi	65
 é	waa	65
 êê	ara	65
 xè	ria	65
 tèi	nédèè	64
 bör̂i	nââ	64
-ce	rö	64
 rö	wêê	64
 rha	kâmö	63
 dè	vi	63
@@ -380,13 +388,13 @@ ki	pè	63
 pwa	mi	63
 pûû-é	na	63
 bör̂i	tömâ	63
+ce	rö	63
 mwâ	i	63
 ké	da	63
 na	kau	63
 kau	mâmâ	63
 gëve	bör̂i	63
 aau	na	63
-rö	dèxâ	63
 nédaa	ka	63
 wânii	ré	62
 rö	bwêê	62
@@ -398,6 +406,7 @@ i	dèxâ	62
 yè-ve	na	62
 gëve	pâr̂â	62
 nââ	yè-è	62
+rö	dèxâ	62
 vi	kâ	62
 pâr̂â	pérövéta	61
 rö	bwêêwé	61
@@ -429,6 +438,7 @@ né	pâr̂â	58
 yar̂i	xi-e	58
 pwa	yèr̂i-e	58
 vèa	na	58
+bâô	mâ	58
 da	wii	58
 ka	yar̂i	58
 ûr̂û	pâr̂â	57
@@ -495,6 +505,7 @@ vè	pè	51
 néxar̂a	â-ê	51
 ö	ce	51
 yè	ièsu	51
+yu	mâ	51
 xè	ka	51
 rai	pâi	51
 vi	paa	51
@@ -553,6 +564,7 @@ yè	rhau	48
 bör̂i	waa	47
 na	kérisö	47
 tö	yêr̂ê	47
+mâ	rö	47
 né	bwêê	47
 gèvé	da	47
 ki	yèri	47
@@ -627,6 +639,7 @@ pèci	ar̃ii	42
 némèè	pâr̂â	41
 na	angéla	41
 pwar̂a-ve	na	41
+ce	mâ	41
 ria	na	41
 nénââ	xi-nya	41
 rö	é	41
@@ -654,6 +667,7 @@ mâ	wâyö	40
 ye	êê	40
 vi	wii	40
 tâ	pâgür̂ü	40
+mâ	dèxâ	40
 iérusalèm	na	39
 vi	tëë	39
 da	cëi	39
@@ -788,6 +802,7 @@ wîr̂î	na	33
 na	rhau	33
 kââ	rö	33
 bâô	rö-i	33
+mâ	bör̂i	33
 bwir̂i	na	33
 pwa	tëë	33
 jë	na	33
@@ -817,7 +832,9 @@ vèa	yè-r̂é	32
 ye	nôâ	32
 nénââ	xi-e	32
 rö	mwâcir̂i	32
+mâ	xiréé	32
 ka	ar̂inadö	32
+yaané	mâ	32
 e	mâ	32
 rö	wêyê	32
 ka	ē	32
@@ -843,11 +860,11 @@ vi	pëër̂ii	31
 na	mââyöö	31
 vi	rö	31
 da	rhî	31
-mâ	bör̂i	31
 rua	rö	31
 tö	yawi	31
 tâwai	ö	31
 yè	bâ	31
+mâ	rö-i	31
 rö	pwar̂a-r̂é	31
 bör̂i	aʼyè	31
 mör̂u	xi-e	31
@@ -907,10 +924,10 @@ mâ	pwaér̂ö	29
 mi	tëë	29
 gëve	tâ	29
 kâmö	i	29
+mâ	kâ	29
 wê	nââ	29
 yè	cuè	29
 nôô	yè	29
-mâ	rö-i	29
 dèxâ	mwâ	29
 bar̂a	i	29
 kâ	vèâi-r̂é	29
@@ -925,7 +942,6 @@ wii	nâ	29
 na	aʼvè	28
 êr̂ê	i	28
 na	tömâ	28
-yu	mâ	28
 na	kââ	28
 pè	vâr̂â	28
 ki	pâr̂â	28
@@ -1088,6 +1104,7 @@ ka	taadè	24
 da	bar̂a	24
 rua	xè-i	24
 bwè	ka	24
+mâ	yè	24
 rö-i	ièsu	24
 wê	pèii	24
 kaa	yâmar̂a	24
@@ -1105,8 +1122,10 @@ ka	virù	24
 aʼcëi	na	24
 awir̂è	i	24
 bör̂i	yùù	24
+gëve	mâ	24
 xi-e	yè	24
 rö-i	néé	24
+ar̂ii	mâ	24
 bâô	i	24
 te	rö	24
 êr̂ê	yè-i	24
@@ -1155,6 +1174,7 @@ né	tâ	23
 ko	yaané	23
 êr̂ê	rö	23
 mâ	pâni-e	23
+kau	mâ	23
 kau	rö	23
 bar̂ee	dèxâ	23
 nôô	yè-è	23
@@ -1205,8 +1225,10 @@ rö	pwar̂a-nya	22
 mör̂u-é	tëë	22
 pa	pèii	22
 tëë	i	22
+nè	mâ	22
 gëve	pè	22
 gëve	tâwai	22
+mâ	rhau	22
 kérisö	na	22
 gè	bör̂i	22
 nââ	yè-i	22
@@ -1240,6 +1262,7 @@ wè	pè	21
 i	o	21
 yè-è	êr̂ê	21
 dö	kau	21
+êr̂ê	mâ	21
 bör̂i	cuè	21
 ka	vee	21
 kaa	kur̂u	21
@@ -1249,6 +1272,7 @@ tö	kaa	21
 aʼ	xi-e	21
 yèri	bar̂ee	21
 wii	yè-r̂é	21
+mâ	cëi	21
 yaané	xé-r̂é	21
 ö	nédaa-ré	21
 na	méavor̂a	21
@@ -1256,7 +1280,6 @@ wè	cur̂u	21
 na	wi-ré	21
 néxâi	ké	21
 vè	ki-e	21
-mâ	yè	21
 pè	mör̂ö-ve	21
 rua	i	21
 nêr̂ê	ré	21
@@ -1400,12 +1423,11 @@ mwâ	na	19
 rhôê	i	19
 târi	mâ	19
 pâr̂â	wêyê	19
-aè	tö	19
+mâ	xè-i	19
 rai	paxa	19
 awir̂è	né	19
 yaané	xi-e	19
 xè-i	ko	19
-pwaér̂ö	yè	19
 vi	yôôbö	19
 ki-yé	ré	19
 yè	ara	19
@@ -1493,10 +1515,12 @@ na	kâ	18
 tö	êê	18
 néxar̂a	â-i	18
 i	mosé	18
+aè	tö	18
 ka	döwöö	18
 pwa	yèr̂i-nya	18
 gènyâ	ré	18
 ör̂ökau	xé-r̂é	18
+pwaér̂ö	yè	18
 ma	karir̂i	18
 xi-nya	mwêê	18
 virù	na	18
@@ -1682,6 +1706,7 @@ yè	yexèvè	16
 cêmè	rua	16
 na	virù	16
 pè	dùxè	16
+xe-ve	mâ	16
 mâ	koa	16
 pèkarir̂i	nédaa	16
 kâmö	kâmö	16
@@ -1735,6 +1760,7 @@ xe-ve	rö-i	16
 nédaa	mâ	16
 ékar̂aè	é	16
 pwêr̂êwaa	pâr̂â	16
+bör̂i	mâ	16
 ré	te	16
 mâ	yer̂e	16
 méar̂i	xi-e	16
@@ -1770,6 +1796,7 @@ rhavûû	rèi	15
 vèa	yè-è	15
 mör̂u	pâr̂â	15
 pâr̂â	yerii	15
+mé	mâ	15
 xè	névâ	15
 yè	mi	15
 pâr̂i-e	na	15
@@ -1784,7 +1811,6 @@ xè	mwâ	15
 iakobo	mâ	15
 ara	na	15
 mi	yè-è	15
-tö	pâr̂â	15
 yùù	néxar̂a	15
 wê	e	15
 mâ	kâyâi	15
@@ -1827,6 +1853,7 @@ ka	kièo	15
 yu	rö-i	15
 yè	mör̂ö	15
 paxa	pôr̂ô	15
+mâ	bâô	15
 gè	kâmö	15
 yè	vâr̂â	15
 kwéjî	rö	15
@@ -1850,7 +1877,6 @@ ru	rö-i	15
 na	ar̂inadö	15
 mâ	wêê	15
 pwaér̂ö	na	15
-bwè	na	15
 kîbô	ka	15
 pè	yerii-e	15
 mâ	daa	15
@@ -1886,11 +1912,9 @@ mè	ke	15
 pâr̃â	nedaa	15
 roa	boejë	15
 iehova	wè	15
-mâ	na	14
 cér̂é	mö	14
 bör̂i	ërëwaa-è	14
 cér̂é	mi	14
-êr̂ê	mâ	14
 tö	vèâ	14
 galilé	na	14
 rhûû	ö	14
@@ -1914,6 +1938,7 @@ vi	caa-r̂é	14
 tù	xè	14
 na	mèèxa	14
 yè-è	pâr̂â	14
+tö	pâr̂â	14
 pur̂â	rö	14
 â-ê	na	14
 cêrhö	na	14
@@ -1974,7 +1999,6 @@ gè	dè	14
 pè	var̂awa	14
 mâ	ara	14
 yèr̂i-ve	na	14
-cëi	na	14
 tâwai	waa	14
 nââ	vè	14
 vè	e-é	14
@@ -1985,6 +2009,7 @@ mâ	kè	14
 bâô	né	14
 paxa	yè	14
 néxâi	xe-ve	14
+bwè	na	14
 na	pètâbâ	14
 da	mi	14
 rai-ve	ré	14
@@ -2141,6 +2166,7 @@ rèi	pèkarir̂i	13
 yè-i	rö	13
 ki	mé	13
 pâr̂â	nékwêêr̂ê-ê	13
+cëi	na	13
 bwaar̂a	kör̂öna	13
 pètâbâ	né	13
 mör̂ö	pâr̂â	13
@@ -2244,7 +2270,6 @@ da	pâr̂i-nya	12
 vi	cér̂é	12
 yèri	tëë	12
 na	simona	12
-yè	pwaér̂ö	12
 vi	aʼyè	12
 cê	bë	12
 mwââ	mwââlöö	12
@@ -2319,7 +2344,6 @@ aʼpâgür̂ü	i	12
 ki	bar̂i	12
 ki	bâ	12
 gèvé	dè	12
-cér̂é	cëi	12
 kè	rö	12
 yêr̂ê	i	12
 vi	wêyê	12
@@ -2438,6 +2462,7 @@ pwêr̂ê	dèxâ	11
 rö	kwâ	11
 bör̂i	tëvë	11
 rhiè	mi	11
+yè	pwaér̂ö	11
 vè	pâr̂i	11
 târ̂î	ka	11
 juda	wânii	11
@@ -2458,6 +2483,7 @@ vi	ërëwaa	11
 néwèi	xi-e	11
 ërëwaa-è	na	11
 aè	dèxâ	11
+mâ	aʼpâgür̂ü	11
 nô	wânii	11
 xi-nya	ré	11
 rua	xina	11
@@ -2528,13 +2554,13 @@ pè	aʼ-è	11
 pwêê	rhëë	11
 pâr̂i-ve	na	11
 na	ke-ve	11
+cér̂é	cëi	11
 vi	ye-nôâ	11
 yè	abérahama	11
 vi	pwaér̂ö	11
 kâmö	rai-ve	11
 da	yu	11
 wi	na	11
-yè	bwè	11
 tèi	bwê	11
 waa	vèr̂i	11
 aè	bör̂i	11
@@ -2558,6 +2584,7 @@ rö	xè-i	11
 vèâ	gëve	11
 cér̂é	tâ	11
 cér̂é	bar̂i	11
+mi	mâ	11
 kau	i	11
 rö	yè	11
 vè	döwöö	11
@@ -2579,6 +2606,7 @@ mi	bar̂ee	11
 xi-i	ka	11
 ka	rhîaa	11
 lèèwi	ka	11
+rhîrhér̂é	mâ	11
 bör̂i	tö-a	11
 mâ	kaa	11
 pè	na	11
@@ -2743,6 +2771,7 @@ méar̂i	mâ	10
 avâr̂i	yè	10
 rö-i	nêr̂ê	10
 pûr̂û	gwâ-ê	10
+yè	bwè	10
 cëi	rai	10
 aè	ka	10
 ba	pa	10
@@ -2776,6 +2805,7 @@ rai-e	na	10
 angéla	na	10
 ka	uè	10
 viné	ka	10
+néxâi	mâ	10
 tâwai	rö	10
 kâmö	rai-r̂é	10
 mör̂u	xi-nya	10
@@ -2850,6 +2880,7 @@ kâmö	bar̂ee	9
 batiyi	i	9
 ua-è	mi	9
 simona	pètèru	9
+i	mâ	9
 xè	nazarèt	9
 kâmö	mi	9
 tö	rhûû-i	9
@@ -3046,6 +3077,7 @@ mwâ	xi-nya	9
 bör̂i	cir̂i	9
 bör̂i	ör̂ö	9
 télöna	mâ	9
+pè	mâ	9
 yar̂i	xi-i	9
 pwa	baayê	9
 ko	mâ	9
@@ -3368,7 +3400,6 @@ wêê	goo	8
 né	e	8
 pâr̂â	péröféta	8
 aè	gèi	8
-mi	mâ	8
 rö	ö	8
 rö	aigupito	8
 bwêêpë	i	8
@@ -3567,7 +3598,6 @@ avâr̂i-e	na	7
 mi	rhaadè-nya	7
 rö	pwar̂a-ré	7
 isaia	pérövéta	7
-mâ	êr̂ê	7
 da	tâwai-e	7
 duö	mwâ	7
 né	ioridanô	7
@@ -3599,6 +3629,7 @@ kavùè	bwâr̂âwê	7
 pâr̂â	gi	7
 bwâr̂âwê	mâ	7
 pâr̂i	yè	7
+mâ	i	7
 ioané	rö	7
 na	cur̂i	7
 ko-ar̂ii	na	7
@@ -3646,6 +3677,7 @@ méar̂i-e	na	7
 gëve	pwêr̂ê	7
 tùr̂ùwaa	mi	7
 xi-nya	yè-ve	7
+mâ	mi	7
 kérisö	vè	7
 yaané	xé-ré	7
 pâr̂i	cè	7
@@ -3704,6 +3736,7 @@ yè-ve	rö	7
 i	rö	7
 yiâ	xi-e	7
 pûr̂ûbwè	xi-e	7
+mâ	yèri	7
 cëi	bar̂ee	7
 i	rha	7
 rhôê	xi-e	7
@@ -3756,6 +3789,7 @@ pètâbâ	rö	7
 yè	kaxoo-é	7
 aʼvè	yerii	7
 waa	xe-ve	7
+yawi	mâ	7
 nôâ	yè-r̂é	7
 kaar̂u	vi	7
 da	yör̂a	7
@@ -3840,7 +3874,6 @@ mwâr̂â	tëë	7
 gö	pwêr̂ê	7
 tö	néxar̂a	7
 yer̂e	rö	7
-gaamëë	ré	7
 gââ	pâr̂â	7
 mèèxa	né	7
 duö	köwi-nya	7
@@ -4011,6 +4044,7 @@ rö	dö	7
 bwêêpë	vè	7
 pâi	dowa	7
 kîbô	na	7
+xiréé	mâ	7
 méar̂i	pâr̂â	7
 yar̂i	éé	7
 yeyèè	na	7
@@ -4200,6 +4234,7 @@ pwa	xar̂a	6
 wè	ko	6
 mi	nékö	6
 wê	aʼ	6
+yè-ve	mâ	6
 pâ	kaavèâi-ve	6
 ré	rhî	6
 pâgür̂ü	rai	6
@@ -4365,6 +4400,7 @@ rö	pwar̂awiè	6
 mâ	kwiè	6
 na	pwéé-ve	6
 bâ	pwaér̂ö	6
+mâ	pwânûr̂i	6
 yar̂i	cè	6
 gëve	kâmö	6
 aè	kâmö	6
@@ -4396,6 +4432,8 @@ ré	tö-a	6
 tö-a	bwêê	6
 kaa	pwé	6
 aè	kèi	6
+gaamëë	ré	6
+tâwai	mâ	6
 rhî	tâwai-r̂é	6
 rö	rö-i	6
 nââ	na	6
@@ -4512,6 +4550,7 @@ pâr̂â	nékwêêr̂ê-r̂é	6
 pâr̂â	pôr̂ômökau	6
 pwéé-é	na	6
 néjêr̂ê	ar̂ii	6
+rhavûû	mâ	6
 aʼyè	pâi	6
 yè	na	6
 yëwaa	yè	6
@@ -4727,10 +4766,10 @@ tùr̂ùwaa-nya	na	5
 mi	ua-è	5
 töö	xi-e	5
 dui	ré	5
+ioané	mâ	5
 i	bar̂ee	5
 na	yu	5
 yu	i	5
-yè	mâ	5
 rhûû	nékö	5
 wè	mör̂u	5
 wê	na	5
@@ -4832,6 +4871,7 @@ gèré	pè	5
 rö	némèè-ve	5
 wânii	yè	5
 rhavûû	xina	5
+rhîâgür̂ü-é	mâ	5
 tö	pwéé-nya	5
 wa	pevaa	5
 bör̂i	köiwaa	5
@@ -5054,6 +5094,7 @@ mosé	ré	5
 pwar̂a-ve	rö-i	5
 ké-r̂é	rhîâgür̂ü	5
 tèi	mélöö	5
+béâr̂i	mâ	5
 i-e	wa	5
 da	aʼcëi	5
 pèi	ièsu	5
@@ -5331,6 +5372,7 @@ kavèè	pâi	5
 é	dè	5
 paa	ka	5
 pâr̂i	ké	5
+vèa	mâ	5
 mâ	vipââr̂i	5
 vi	caawîî-r̂é	5
 kaar̂u	nédö	5
@@ -5388,6 +5430,7 @@ aʼpâgür̂ü	na	5
 ûr̂û-ré	pâr̂â	5
 ar̂ii	mwââ	5
 bâ	nââ	5
+xé-ré	mâ	5
 kau-r̂é	yè	5
 yè	néé	5
 mür̂ü	mâ	5
@@ -5668,7 +5711,6 @@ i	bwêê	4
 bör̂i	rhîâgür̂ü-é	4
 ûr̂û	mawi	4
 i	iona	4
-i	mâ	4
 mi	cè	4
 bör̂i	aʼcëi-e	4
 mâ	cîî	4
@@ -5778,6 +5820,7 @@ mââyöö	cè	4
 ré	pûû-é	4
 pûû-é	cè	4
 xè-i	kar̂ö	4
+i-e	mâ	4
 na	pâr̂i-nya	4
 dèxâ	mââyöö	4
 mâ	tuwir̂i-nya	4
@@ -5888,7 +5931,6 @@ vâr̂â	röi	4
 yè	üü	4
 taua	rö	4
 gènyâ	na	4
-xi-e	mâ	4
 méar̂i	o	4
 mâ	cêmèèr̂i	4
 cëi-nya	bar̂ee	4
@@ -5979,7 +6021,6 @@ xè-i	o	4
 ua-nya	pâr̂â	4
 yéyé	rai	4
 tâîî	pâr̂â	4
-mâ	xiréé	4
 ré	tuwir̂i	4
 bör̂i	mè	4
 ö	wi-ré	4
@@ -6019,7 +6060,6 @@ ké-r̂é	vipââr̂i	4
 ke-ve	pâr̂â	4
 nénui	na	4
 pâr̂â	nêr̂ê-ve	4
-yawi	mâ	4
 gèvé	rhî	4
 târ̂î	xe-ve	4
 kwéjî	rai-e	4
@@ -6049,7 +6089,6 @@ mwâ	wânii	4
 rö-i	cî	4
 yè	pérövéta	4
 bar̂i	bwaar̂a	4
-yakarui	gwâ-ê	4
 xè-i	nêr̂ê	4
 rhèè	wa	4
 gëve	kâ	4
@@ -6209,7 +6248,6 @@ mâ	keerher̂e	4
 né	gaamëë	4
 i	gaamëë	4
 yèri	bwêê	4
-tâwai	mâ	4
 aʼ	né	4
 vi	xi-e	4
 dö	méar̂i	4
@@ -6343,9 +6381,11 @@ xi-i	xè-i	4
 aau	ké	4
 tö	bwêêwé-r̂é	4
 ër̂i-e	rö	4
+urhii	mâ	4
 dö	pâlè-è	4
 kwââvâr̂â	mâ	4
 rö-i	kaa	4
+orê	mâ	4
 pâlè	daa	4
 pwêê	né	4
 gëve	rhîâgür̂ü	4
@@ -6471,6 +6511,7 @@ na	ker̂e-é	4
 pâr̂â	kaavûû	4
 vè	cêê	4
 mâiaa	i	4
+rheewaa-r̂é	mâ	4
 târi	vi	4
 pâr̂â	nékwêêr̂ê-nya	4
 kau	kâmö	4
@@ -7217,7 +7258,6 @@ vèr̂i	bör̂i	3
 bör̂i	ce	3
 rö	féniki	3
 rö-i	rèi	3
-mâ	rö	3
 yè	puvar̂ai	3
 ö	pèci	3
 puvar̂ai	pèci	3
@@ -7237,7 +7277,6 @@ arénio	ré	3
 mâ	lèèwi	3
 pwar̂a	ce	3
 na	ëi	3
-mâ	i	3
 vâ	wêyê	3
 pâr̂â	jöö	3
 jöö	wêyê	3
@@ -7327,7 +7366,6 @@ e	ra	3
 na	yö	3
 i	kââ	3
 ké	yaané	3
-i-e	mâ	3
 gö	köiwaa	3
 gö	yexèvè	3
 rö-i	êr̂ê	3
@@ -7401,7 +7439,6 @@ dè	yexèvè	3
 gèvé	nââ	3
 vi	rheewaa-ve	3
 teyâ	rai	3
-nè	mâ	3
 êr̂ê	xé-vé	3
 da	nô	3
 yè	méar̂i-ve	3
@@ -7559,6 +7596,7 @@ rhîrhér̂é	xè-i	3
 nénéviu	né-i	3
 pwêr̂ê	tëë	3
 jë	i	3
+mâ	pûû-é	3
 né	bâô	3
 yùù	vèr̂i	3
 gèi	wê	3
@@ -7625,6 +7663,7 @@ i	daa	3
 gëve	nô	3
 ce	ö	3
 vi	koomè	3
+köiwaa	mâ	3
 yè	kâmö-ré	3
 korhî	mâ	3
 yè	öxar̂a-r̂é	3
@@ -7692,6 +7731,7 @@ rhôê	vè	3
 gö	aʼvè	3
 aè	gwâ	3
 powè	na	3
+yakarui	gwâ-ê	3
 yaxai	wi	3
 da	aʼpâgür̂ü	3
 ke-ve	e	3
@@ -7929,9 +7969,9 @@ pwavii	viné	3
 bör̂i	texai	3
 viné	rö	3
 kwéjî	rö-i	3
-néxâi	mâ	3
 tëvë	xi-nya	3
 dèxâ	gaamëë	3
+vâ	mâ	3
 cevè	ör̂ökau	3
 pwéé	kâmö	3
 bâô	bar̂ee	3
@@ -7991,6 +8031,7 @@ na	dömwââr̂i	3
 mâ	aʼrhua	3
 cur̂u	dö	3
 poka	ka	3
+u	mâ	3
 târ̂î-r̂é	na	3
 névâ-ré	na	3
 ki	kâyâi	3
@@ -8149,7 +8190,6 @@ nêr̂ê	pè	3
 aʼvè	rhônô	3
 yèri	ké-r̂é	3
 ké-r̂é	rö-i	3
-orê	mâ	3
 né	daa	3
 kau	ör̂ökau	3
 rö-i	bar̂a	3
@@ -8285,6 +8325,7 @@ târ̂î-nya	na	3
 yu	pâr̂â	3
 târ̂î	nékwêêr̂ê-ê	3
 pè	rai-e	3
+rai-e	mâ	3
 na	kaniwî	3
 xè-i	lèèwi	3
 ré	avâr̂i	3
@@ -8335,7 +8376,6 @@ yar̂i	kâmö	3
 cëi	mwâcir̂i	3
 bâô	rhar̂i	3
 mâ	pâni-i	3
-rhavûû	mâ	3
 tâvèr̂ii	yè	3
 yè	kaméla	3
 kaméla	na	3
@@ -8547,6 +8587,7 @@ gè	avâr̂i	3
 némèè	kâmö	3
 da	yùè	3
 rai	kaar̂u	3
+wii	mâ	3
 wè	rhau	3
 mür̂ü	rö-i	3
 virù	cér̂é	3

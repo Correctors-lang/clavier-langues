@@ -21,8 +21,8 @@ vuäitak	vuäǯǯad	182
 tõn	diõtt	181
 vuäitt	lee	169
 lij	sää	168
+mnuõri	čeä	167
 da	tõt	166
-mnuõri	čeä	165
 lij	vuõiggâdvuõtt	160
 jie	leäkku	158
 mǩiõl	da	157
@@ -30,15 +30,15 @@ lij	vääžnai	157
 m	da	154
 tuâjjan	lij	154
 da	suåvâdvuõttkomissio	153
-st	lie	149
+st	lie	148
 da	jie	148
 lij	vuei	147
 kook	lie	146
 ǩǩ	lij	145
 di	sää	140
 ǧǧ	saaǥǥjåå	135
-dd	da	135
 da	pue	134
+dd	da	134
 tän	ee	133
 viikkâd	ooudâs	132
 m	ǩiõllka	132
@@ -48,8 +48,8 @@ lij	mie	130
 lij	nu	129
 ǩiõl	da	128
 rbi	mie	128
+ǧǧ	da	127
 ij	vuei	127
-ǧǧ	da	126
 be	jee	126
 da	ä	125
 jj	da	122
@@ -136,9 +136,9 @@ raaj	mie	75
 ǩ	â	73
 da	tää	72
 res	sää	72
+ǧǧ	halltõs	71
 d	koo	70
 vuäitt	ââ	70
-ǧǧ	halltõs	70
 lie	še	69
 tõn	mie	69
 vuõssmõs	vuâra	68
@@ -150,13 +150,13 @@ l	ko	67
 što	sij	66
 r	da	66
 mmlai	ä	66
-vvjânnmallaš	sää	66
 da	suåvâdvuõttprosee	66
 jj	meâldlaž	66
 lie	jiânnai	65
 st	ij	65
 rjj	lij	65
 kulttuur	da	65
+vvjânnmallaš	sää	65
 rred	määnpââ	65
 mon	leäm	64
 sse	da	64
@@ -229,16 +229,15 @@ zei	siida	54
 lij	vue	54
 ko	sää	54
 res	ve	54
-jiâ	leäkku	54
 da	tõõzz	54
 da	pâ	54
 mǩiõllsaž	ä	54
 kook	liâ	53
 tuâj	o	53
+jiâ	leäkku	53
 ddjânnmest	mainstum	53
 da	puu	53
 lij	tuejjääm	52
-ođđ	sää	52
 da	suu	52
 mainstum	sää	52
 m	parlamentaarlaž	52
@@ -246,6 +245,7 @@ da	mie	52
 mmlai	da	52
 mǩiõllsaž	da	52
 mi	ouddooumaž	51
+ođđ	sää	51
 dd	ra	51
 m	ǩiõli	51
 da	oou	51
@@ -256,19 +256,19 @@ da	če	50
 lie	sää	50
 vuäitt	tuejjeed	50
 da	te	50
+lmmat	ooccâmnalla	50
 da	ee	50
 muu	miõlâst	49
 loopp	räjja	49
 ldd	meä	49
-lmmat	ooccâmnalla	49
 ǧǧ	nuõrisuåvtõõzz	49
+rbbvuõđlaž	teâđ	49
 be	tõn	49
 što	mij	48
 elli	rantala	48
 luâttkõõskõs	siida	48
 da	fi	48
 kela	sää	48
-rbbvuõđlaž	teâđ	48
 kela	ko	48
 lij	ǩidd	47
 st	le	47
@@ -302,7 +302,6 @@ in	ođđâz	45
 ouddâl	ko	44
 taarr	sää	44
 hanna-maaria	kiprianoff	44
-tte	še	44
 aanar	kå	44
 da	viikkâd	44
 r	škooul	44
@@ -316,6 +315,7 @@ päärna	da	44
 bb	tää	44
 dd	saaǥǥjåå	44
 mǩiõl	u	43
+tte	še	43
 da	ǩiõllpie	43
 tõn	lââ	43
 ddjânnam	da	43
@@ -492,7 +492,6 @@ kuõskki	tu	33
 leäk	vuäǯǯam	32
 ei	ole	32
 da	e	32
-tt	ij	32
 mǩiõllsaž	kääzzkõõzzid	32
 oummu	lie	32
 še	lij	32
@@ -514,8 +513,8 @@ l	ǥu	32
 bb	oummu	32
 da	taarr	31
 da	ko	31
+tt	ij	31
 anna	lumikivi	31
-da	nääi	31
 d	da	31
 tiõrv	pue	31
 ldd	sä	31
@@ -544,9 +543,9 @@ koolm	sää	31
 vuâđđan	lij	31
 ruõcc	sää	31
 jj	le	31
-mmlai	vuõiggâdvuõđ	31
 što	vuei	31
 mǩiõli	da	31
+da	nääi	30
 tanja	sanila	30
 jji	mie	30
 mǩiõll	lij	30
@@ -566,7 +565,7 @@ da	luâttkõõskõs	30
 lij	tää	30
 nuõrisuåvtõõzz	da	30
 di	šiõǥǥ	30
-jõs	tuu	30
+mmlai	vuõiggâdvuõđ	30
 mmlai	jiõččmie	30
 lij	vie	30
 lij	vuäǯǯad	30
@@ -594,6 +593,7 @@ m	jie	29
 euroopp	unioon	29
 jj	muttâz	29
 da	tee	29
+jõs	tuu	29
 ǩ	lie	29
 jõs	vuäǯǯak	29
 mes	inn	29
@@ -686,13 +686,13 @@ htt	sää	26
 mǩiõllsai	kääzzkõõzzi	26
 da	peštt	26
 lǩǩriâšldõõǥǥ	vä	26
+mǩiõll	da	26
 vuäitak	va	26
 lij	ääi	26
 mes	oummi	26
 m	le	26
 da	ääi	26
 lij	tuejjuum	26
-jj	aalǥâst	26
 alggmeerai	vuõiggâdvuõđi	26
 lij	pie	26
 nuõri	akatemia	26
@@ -702,7 +702,6 @@ teâđ	sä	26
 mǩiõl	koontâr	26
 särnn	sää	26
 tt	što	26
-da	suä	26
 riikk	da	26
 ššin	da	26
 da	juõ	26
@@ -715,7 +714,6 @@ tauno	ljetoff	26
 jiõk	leäkku	26
 puõʒʒâlm	le	26
 jji	ääi	26
-st	leäi	25
 mõõnni	neä	25
 tän	vuâra	25
 še	nuõrttsää	25
@@ -739,11 +737,14 @@ da	silttad	25
 ǧǧest	uvddum	25
 tän	lââ	25
 huõl	tõ	25
+še	tän	25
+jj	aalǥâst	25
 htted	ou	25
 htt	ee	25
 še	tõn	25
 ǩiõllstaanpiisar	anne	25
 ǧǧ	såbbar	25
+da	suä	25
 be	ä	25
 jõs	ä	25
 n	kuu	25
@@ -764,6 +765,7 @@ j	va	25
 aarǥi	čiâss	25
 luâđast	joo	25
 ldd	vuâlas	25
+st	leäi	24
 õõut	vuâra	24
 lij	hää	24
 ǥu	tõt	24
@@ -775,7 +777,6 @@ n	son	24
 miõlâst	lij	24
 lij	vuäittmõš	24
 da	mõõn	24
-ko	jee	24
 jj	mââiårra	24
 mmlai	kõõskâst	24
 tti	tu	24
@@ -791,7 +792,6 @@ sse	lij	24
 da	kåå	24
 di	lää	24
 sse	email	24
-še	tän	24
 rj	da	24
 šiõttõsvuâđlaž	ââ	24
 da	i	24
@@ -835,6 +835,7 @@ jj-lappi	luâttkõõskõs	23
 što	mee	23
 žžen	da	23
 tti	sää	23
+ko	jee	23
 res	å	23
 nne	se	23
 ǧǧ	vaal-loǥstõ	23
@@ -852,7 +853,6 @@ lij	jii	23
 tuâjjǩiõččlâsttmõõžž	mie	23
 ǧǧin	da	23
 lie	norrum	23
-kela	da	23
 ŋǩǩõõzz	täävtõssân	23
 da	tiõrvâsvuõđ	23
 bb	ee	23
@@ -907,6 +907,7 @@ lij	o	22
 res	ä	22
 jin	da	22
 t	neä	22
+kela	da	22
 lij	jeä	22
 dd	le	22
 vuäitak	ââ	22
@@ -916,6 +917,7 @@ leo	aikio	22
 rj	lie	22
 vuõiggâdvuõttkansler	ij	22
 tte	vuäǯǯad	22
+m	äimmõs-suåvtõõzz	22
 leäi	sää	21
 da	šiõǥǥ	21
 ǩest	da	21
@@ -973,7 +975,6 @@ vuõiggâdvuõđ	da	21
 m	škooultemkõõskõõzzâst	21
 lij	viõǥǥâst	21
 kõskksaž	raaj	21
-m	äimmõs-suåvtõõzz	21
 tõt	le	20
 ko	sij	20
 lnn	sää	20
@@ -982,7 +983,6 @@ lnn	lij	20
 mǩiõl	sââ	20
 leämmaž	sää	20
 da	tä	20
-ddjânnmest	jälsteei	20
 tet	ââ	20
 da	tiõrvâsvuõtthuõl	20
 vuäitt	vuei	20
@@ -1049,6 +1049,7 @@ luâđast	jåå	20
 leäkku	veâl	19
 se	on	19
 llmest	da	19
+ddjânnmest	jälsteei	19
 da	mij	19
 mi	ouddooumžen	19
 mmla	da	19
@@ -1063,7 +1064,6 @@ mainsted	säämas	19
 lie	ââ	19
 pauliina	feodoroff	19
 lie	vuäǯǯam	19
-ǧǧ	vaalin	19
 lie	vääžnai	19
 lle	sää	19
 lappi	leett	19
@@ -1080,6 +1080,7 @@ oummu	da	19
 da	tiõrvâsvuõttkääzzkõõzzid	19
 lie	seämma	19
 leäkku	teänab	19
+jj	ââ	19
 ldd	vä	19
 din	da	19
 ǧǧ	reäšš	19
@@ -1140,7 +1141,6 @@ mon	jiõm	18
 lie	pâi	18
 ttel	da	18
 sij	haa	18
-ođđ	nuõrttsää	18
 tt	tu	18
 aivv	ođđ	18
 še	nuõrttsä	18
@@ -1156,6 +1156,7 @@ n	tän	18
 što	vaal-lu	18
 mainsted	sää	18
 oummu	le	18
+ǧǧ	vaalin	18
 lij	pukid	18
 samai	tää	18
 r	reeddast	18
@@ -1166,7 +1167,6 @@ nne	lij	18
 tt	âânn	18
 da	pää	18
 še	ä	18
-jj	ââ	18
 lokku	välddmõõžž	18
 da	õ	18
 ǩ	vuäitt	18
@@ -1178,7 +1178,6 @@ bbjõssân	lij	18
 da	õhtt	18
 ššin	va	18
 koolmin	sää	18
-õhtt	sää	18
 ddjânnmest	le	18
 še	säämas	18
 rbbvuõđlaž	sää	18
@@ -1218,6 +1217,7 @@ d	ouddmiârkkân	18
 nuõrid	da	18
 oummu	peä	18
 lij	pâ	18
+lij	vaalmâš	18
 digitaalʼlain	kääzzkõõzzin	18
 media	puu	18
 digitaalʼlaid	kääzzkõõzzid	18
@@ -1225,11 +1225,13 @@ dd	vä	18
 leäk	leämmaž	18
 kela	jää	18
 da	ku	17
+ođđ	nuõrttsää	17
 taarr	beä	17
 dest	lie	17
 da	tiõrvâsvuõttlu	17
 mannu	mie	17
 sara	wesslin	17
+lij	čuu	17
 mâŋŋa	ko	17
 leäi	mie	17
 jiõččnaž	da	17
@@ -1237,7 +1239,6 @@ mi	siidsåbbra	17
 mättjed	sää	17
 što	le	17
 lie	sä	17
-ddjânnmest	lie	17
 mmlai	aa	17
 âânnmõš	lij	17
 lij	välddam	17
@@ -1271,6 +1272,7 @@ rbvuâlaž	jie	17
 dde	pu	17
 ŋǩǩõõzz	poodd	17
 õhttsaž	aa	17
+õhtt	sää	17
 n	sää	17
 što	päärna	17
 kook	haa	17
@@ -1331,17 +1333,15 @@ lij	hue	16
 tuâj	vue	16
 cc	kai	16
 l	mon	16
-lij	čuu	16
 st	son	16
 lij	jiõčč	16
-ij	teänab	16
 še	u	16
 taar	sää	16
 sanila-aikio	da	16
 da	ruõššjânnam	16
 da	vuu	16
+ddjânnmest	lie	16
 lie	õinn	16
-tõt	i	16
 skolt	sámi	16
 tuâj	lie	16
 kõõččmõõžžâst	lij	16
@@ -1425,12 +1425,12 @@ kuälmad	vue	16
 ǩiõli	neä	16
 da	kääzzkõõzzi	16
 teâđ	vää	16
-lij	vaalmâš	16
 aimo	aikio	16
 jj	tuomas	16
 m	psykososiaalʼlaž	16
 tåimmvälddsaž	ve	16
 siirdčõõđak	lää	16
+teän	kue	16
 lij	pukin	15
 leäi	hää	15
 nn	lij	15
@@ -1441,12 +1441,14 @@ mon	še	15
 njauddâm	da	15
 ǩ	ool	15
 tti	čõõuč	15
+ij	teänab	15
 v	ääi	15
 da	tät	15
 d	lie	15
 lij	tuõ	15
 n	le	15
 što	ââ	15
+tõt	i	15
 di	še	15
 ij	le	15
 lij	muu	15
@@ -1571,7 +1573,6 @@ tõn	pääi	14
 ni	mâi	14
 jj	mu	14
 mmla	jälste	14
-t	tõt	14
 feodoroff	lij	14
 suu	jie	14
 eeva	nykänen	14
@@ -1604,7 +1605,6 @@ luâttkõõskõs	siidast	14
 vi	čiâss	14
 mmen	lie	14
 ddjânnmest	lij	14
-leâša	tõt	14
 t	mie	14
 to	the	14
 ij	pâi	14
@@ -1633,7 +1633,6 @@ rjjad	sää	14
 tuâj	liâ	14
 da	šõddmõõžžid	14
 lie	kuuitâǥ	14
-što	pukin	14
 res	ǩiõlin	14
 zz	ääi	14
 lij	vuä	14
@@ -1647,7 +1646,6 @@ jjest	šiõttuum	14
 rǩab	teâđaid	14
 täävtõs	lij	14
 oummid	da	14
-be	ää	14
 tõt	še	14
 tuõjju	ko	14
 ssteâđaid	oudd	14
@@ -1720,7 +1718,6 @@ da	vuâđđmättʼtõõzz	14
 zz	lää	14
 ttest	le	14
 lappi	vuu	14
-res	lää	14
 tǩǩed	da	14
 õhttneei	ä	14
 da	taarb	14
@@ -1788,12 +1785,12 @@ mi	kue	14
 čči	vääžnai	14
 liinj	mie	14
 âânnmõõžžâst	åårrai	14
-teän	kue	14
 ja	se	13
 jje	puättam	13
 da	samai	13
 htt	oummu	13
 seija	sivertsen	13
+t	tõt	13
 lij	aanrest	13
 jõnn	ä	13
 merja	fofonoff	13
@@ -1825,6 +1822,7 @@ tõn	rää	13
 mij	vuei	13
 da	oummu	13
 še	tõt	13
+leâša	tõt	13
 da	juätkkai	13
 täk	lie	13
 ddest	lie	13
@@ -1855,10 +1853,10 @@ da	taarrjânnam	13
 rj	siltteemkõõskõõzz	13
 rtõllum	sää	13
 lddi	lij	13
+što	pukin	13
 lij	puu	13
 mâŋŋa	tõ	13
 n	åå	13
-ij	vie	13
 škooulid	da	13
 jos	tu	13
 leâša	še	13
@@ -1874,6 +1872,7 @@ jiijjâs	ǩiõl	13
 di	mie	13
 lie	puättam	13
 da	sosiaal	13
+be	ää	13
 nni	lij	13
 lij	da	13
 ddest	le	13
@@ -1937,6 +1936,7 @@ mes	da	13
 alggmeerai	vuõiggâdvuõđid	13
 htt	tõt	13
 välddam	lokku	13
+res	lää	13
 uusimaa	mäddkåå	13
 dd	jåå	13
 samai	jõnn	13
@@ -1967,10 +1967,10 @@ da	ooumažvuõiggâdvuõđi	13
 da	uu	13
 kooum	sää	13
 anna-katariina	feodoroff	13
+lddminister	sanna	13
 dd	tuâjjan	13
 vuäǯǯad	vue	13
 mǩiõllsaž	ne	13
-ǧǧ	vaalpââ	13
 äävai	da	13
 vuõiggâdvuõđi	teâuddjummšest	13
 da	õõu	13
@@ -2054,6 +2054,7 @@ da	le	12
 m	ǩiõllsuåvtõõzz	12
 oudd	tu	12
 tt	ta	12
+ij	vie	12
 da	ǩiõttʼtõõllâd	12
 tuu	miõlâst	12
 oummi	vuõiggâdvuõđi	12
@@ -2112,7 +2113,6 @@ dd	kõskksaž	12
 šše	vuäitt	12
 mǩiõllsa	kääzzkõõzz	12
 ǩǩen	da	12
-halltõs	e	12
 rtõõvi	ǩiõččlâ	12
 res	årnn	12
 sij	vuei	12
@@ -2203,7 +2203,6 @@ da	pukid	12
 dååma	da	12
 son	vuäǯǯ	12
 jest	lää	12
-lddminister	sanna	12
 šiõttõllum	håiddtie	12
 res	ääi	12
 vuäitak	u	12
@@ -2212,6 +2211,7 @@ kääzzkõõzzi	pirr	12
 lie	mij	12
 vuässõõttâd	da	12
 mmlain	da	12
+ǧǧ	vaalpââ	12
 tlvažvuõđi	mie	12
 kääzzkõõzz	da	12
 lle	jee	12
@@ -2251,7 +2251,6 @@ luâtt	lij	11
 leäi	leämmaž	11
 n	pâi	11
 j	lij	11
-vuõssmõs	nuõrttsää	11
 õhtt	tõin	11
 tän	ǩee	11
 neeta	jääskö	11
@@ -2335,6 +2334,7 @@ tted	še	11
 sse	vuässõõttâm	11
 da	ii	11
 raajjâd	ođđ	11
+ooccâmnalla	mie	11
 aanar	sää	11
 valmštõõllʼjen	da	11
 m	ouddpeâmm	11
@@ -2358,7 +2358,6 @@ seminaar	lij	11
 škooultõs	lij	11
 šš	kuõskki	11
 tte	kue	11
-leša	ij	11
 âlgg	mä	11
 mǩiõl	sää	11
 d	škooultemkõõskõs	11
@@ -2373,6 +2372,7 @@ lie	pâ	11
 še	jiijjâs	11
 programm	lij	11
 vvel	kääzzkõspääi	11
+halltõs	e	11
 tuâjast	määu	11
 škooultõspiisar	ulla	11
 zzted	vä	11
@@ -2382,6 +2382,7 @@ kuõskki	kõõččmõõžžid	11
 rǩab	teâđ	11
 lli	da	11
 lij	ra	11
+d	di	11
 ǩǩ	â	11
 riikk	ve	11
 kolmm	sää	11
@@ -2531,6 +2532,7 @@ jiõnsted	tå	11
 l	ǩee	11
 laura	olsén-ljetoff	11
 mõõnni	ii	11
+tǩǩõõzzid	sää	11
 ooudâsviikkâm	diõtt	11
 meersaž	lää	11
 vuäitt	se	11
@@ -2573,6 +2575,7 @@ leâša	tän	10
 mǩiõli	sââ	10
 da	nuõrttsä	10
 gauriloff	da	10
+vuõssmõs	nuõrttsää	10
 heidi	gauriloff	10
 m	še	10
 l	vuäitt	10
@@ -2677,7 +2680,6 @@ be	e	10
 da	nuõrisuåvtõõzz	10
 risten	mustonen	10
 rben	tõn	10
-ooccâmnalla	mie	10
 tiuddeei	sää	10
 ǩeäk	jie	10
 oudldem	škooultõs	10
@@ -2709,6 +2711,7 @@ kooll	še	10
 be	leäk	10
 äävai	arggpeei	10
 lle	le	10
+leša	ij	10
 ddi	vuu	10
 ouddâl	tõn	10
 rǧǧneǩ	le	10
@@ -2748,7 +2751,6 @@ da	mättʼtõõzz	10
 alggmeerai	vuõiggâdvuõđin	10
 mme	da	10
 tuõjju	härjjnem	10
-tutustu	myös	10
 niki	rasmus	10
 lij	vuâlggam	10
 što	vuäǯǯap	10
@@ -2901,10 +2903,8 @@ tõid	vuei	10
 täk	ää	10
 da	äu	10
 siida	da	10
-ohjjeep	da	10
 håiddmõõžž	ooudâsvie	10
 rjid	vuäitt	10
-tǩǩõõzzid	sää	10
 tät	leäi	10
 što	še	10
 tän	ǩiõl	10
@@ -3014,6 +3014,7 @@ lij	staanâd	9
 ttmen	åårrai	9
 vuäitt	jåå	9
 ǧǧes	da	9
+alggmeerai	ä	9
 tǩǩummuš	lij	9
 dd	se	9
 leäk	šõddâm	9
@@ -3399,6 +3400,7 @@ liâ	vääžnai	9
 da	čõõđ	9
 ǧǧ	puätt	9
 be	nuu	9
+ohjjeep	da	9
 täid	aa	9
 raija	lehtola	9
 komissaarân	e	9
@@ -3558,7 +3560,6 @@ v	se	8
 ddi	mie	8
 tte	le	8
 mmlai	vuä	8
-alggmeerai	ä	8
 d	le	8
 lie	alttääm	8
 lij	plaanääm	8
@@ -3758,6 +3759,7 @@ tuejjeed	sää	8
 vuäitak	vuä	8
 ddaazzi	vuei	8
 r	pââ	8
+jj	muttsest	8
 lie	võl	8
 šiõǥǥ	päi	8
 särnn	saaǥǥjåå	8
@@ -3815,7 +3817,6 @@ rttai	še	8
 čiõlǥtõõzz	mie	8
 še	juätkast	8
 tti	pä	8
-uccjooǥǥ	da	8
 da	puärrsi	8
 zzid	da	8
 tǩǩõõzz	meâldlânji	8
@@ -3967,7 +3968,6 @@ be	tõt	8
 juum	puä	8
 set	piiđ	8
 lǩ	lää	8
-lie	õhtt	8
 ǩeäin	lij	8
 vitt	ee	8
 đteei	pirita	8
@@ -4101,11 +4101,9 @@ ddelm	lij	8
 tuu	kue	8
 ij	uu	8
 samai	sõõrǥab	8
-da	vuåppâp	8
 sse	kuulli	8
 t	tuejjeed	8
 v	vuäǯǯam	8
-mmlai	ooumažvuõiggâdvuõđi	8
 katja	gauriloffin	8
 sååbbar	kuuli	8
 leâša	åå	8
@@ -4240,7 +4238,6 @@ puärrsab	oummu	7
 še	leäm	7
 što	kuä	7
 pyhittäjä	trifon	7
-zzin	da	7
 rjstet	še	7
 puk	vuei	7
 ssmannu	peä	7
@@ -4427,6 +4424,7 @@ lij	vuõss-sââ	7
 da	ooudeed	7
 nuõrid	jurddum	7
 da	poott	7
+indigenous	peoples	7
 jânnmi	sää	7
 čõõđ	viikkmest	7
 tääid	di	7
@@ -4486,7 +4484,6 @@ vaarvuâlaž	nuõrttsää	7
 jiõnnvuõiggâdvuõttneǩ	vuäitt	7
 ji	ääi	7
 da	jiânnai	7
-jj	muttsest	7
 mes	kue	7
 di	nuu	7
 piâssâd	saǥstõõllâd	7
@@ -4584,6 +4581,7 @@ da	rääjj	7
 rjstummšest	da	7
 ldd	kåå	7
 štõ	sää	7
+uccjooǥǥ	da	7
 čõõđ	ee	7
 še	vuäi	7
 njäälmlaž	da	7
@@ -4765,6 +4763,7 @@ sse	še	7
 tiudd	mie	7
 ko	täk	7
 mättʼtõõzzâst	da	7
+lie	õhtt	7
 ldd	u	7
 mǩiõl	vee	7
 ouddmiârkkân	vuei	7
@@ -4863,7 +4862,6 @@ jõs	vuâmmšak	7
 da	vââ	7
 šše	sä	7
 p	tuejjääm	7
-vuõiggâdvuõđ	alggmeeran	7
 tted	ä	7
 nt	mie	7
 mmlaž	ä	7
@@ -4963,6 +4961,7 @@ liâ	tu	7
 be	ve	7
 lie	tuu	7
 vuäitt	tååimted	7
+da	vuåppâp	7
 vuõiggâdvuõtt	mie	7
 rttai	u	7
 jeät	vuåittu	7
@@ -4970,6 +4969,7 @@ lij	vasttõs	7
 âlgg	riâššâd	7
 da	meerteâttkoontâr	7
 llem	ortodookslaž	7
+mmlai	ooumažvuõiggâdvuõđi	7
 vuõiggâdvuõttkansler	vuäpp	7
 ǩii	vuäǯǯ	7
 ville-riiko	fofonoff	7
@@ -5168,6 +5168,7 @@ mij	sä	6
 dd	lää	6
 še	če	6
 lie	õhttsa	6
+lle	lij	6
 fondd	lij	6
 zz	le	6
 jõnn	da	6
@@ -5190,6 +5191,7 @@ on	avoinna	6
 mm	mu	6
 zei	ää	6
 histoor	da	6
+zzin	da	6
 mmlaid	nu	6
 ǩest	lij	6
 v	jeä	6
@@ -5551,7 +5553,6 @@ leämmaž	jõnn	6
 pukin	tää	6
 tuejjummša	di	6
 zz	vi	6
-anni-sofia	löf	6
 ldd	nuõrisuåvtõõzzâst	6
 nuõrid	rajjum	6
 seksuaalʼlažvuõtt	lij	6
@@ -5571,7 +5572,6 @@ jie	kaunnu	6
 n	puõ	6
 ššid	še	6
 tän	tu	6
-dad	sää	6
 mmlai	jiõn	6
 uccjooǥǥâst	da	6
 mǩiõl	lââ	6
@@ -5663,7 +5663,6 @@ takai	koontâr	6
 pâi	vue	6
 ttjummuž	da	6
 ttet	vue	6
-lappi	sie	6
 leämmaš	mie	6
 res	vuei	6
 min	da	6
@@ -5797,6 +5796,7 @@ luâđlaž	vue	6
 što	ha	6
 ttlin	da	6
 tarbb	lij	6
+t	vue	6
 da	vuâđđpue	6
 ttet	še	6
 r	paalǥâskåå	6
@@ -5998,6 +5998,7 @@ jõs	tõn	6
 j	liâ	6
 tän	pooddâst	6
 ldd	pâi	6
+vuõiggâdvuõđ	alggmeeran	6
 ji	toi	6
 llemåårrmõõžžid	da	6
 ni	õõut	6
@@ -6165,7 +6166,6 @@ da	koozz	6
 kuuitâǥ	vuei	6
 dåhttar	le	6
 âlgg	tä	6
-httešt	ee	6
 ko	tõid	6
 fsc	lää	6
 d	aa	6
@@ -6249,7 +6249,6 @@ tõn	vuä	6
 ljes	mâânn	6
 plaaneem	vue	6
 da	ujujju	6
-mååust	li	6
 ooudårra	tobdstõõđ	6
 pooddi	meâldlaž	6
 te	še	6
@@ -6279,8 +6278,6 @@ jj	vuâđald	6
 ldd	samai	6
 puäʒʒhoiddu	šõddâm	6
 ǥu	su	6
-kela	ouddõõzzi	6
-rtte	da	6
 meeraikõskksaž	tää	6
 llʼjeei	da	6
 ne	čiâss	6
@@ -6309,7 +6306,6 @@ technology	oy	6
 tuärj	sää	6
 što	tuâj	6
 što	te	6
-kela	õlmstõõ	6
 deem	da	6
 tuâj	diõtt	6
 še	le	6
@@ -6321,6 +6317,7 @@ liâ	päärnaid	6
 je	kollʼjee	6
 koon	lij	6
 seämmanalla	ǥu	6
+antti	aikio	6
 htt	ää	6
 ddi	kõõskâst	6
 jåått	saaujâst	6
@@ -6398,11 +6395,11 @@ jeät	sirddu	6
 oummuin	lij	6
 ritva	torikka	6
 vuäǯǯ	teâđ	6
+lij	maantõõttâm	6
 vuõssmõs	te	6
 äimmõsmuttâz	tuõ	6
 siidsåbbar	piisar	6
 rr	occan	6
-t	kela	6
 ooccmõõžžid	da	6
 kela	jee	6
 res	tuärjjõõzzid	6
@@ -6437,6 +6434,7 @@ teän	čää	6
 njuämmamtaaudin	va	6
 tååimted	kelaa	6
 ttem	ääi	6
+programm	õlmstõttum	6
 da	jeärbõ	6
 rajjum	teâttmašinaprograamm	6
 rajatonta	hoivaa	6
@@ -6507,7 +6505,6 @@ resnallšem	ko	5
 simo	jefremoff	5
 r	škoou	5
 da	jiõnsteei	5
-lle	lij	5
 kone	fondd	5
 lij	jiõččnaž	5
 lij	lee	5
@@ -6711,7 +6708,6 @@ st	kõõjjât	5
 õõlmâs	le	5
 ldd	vuä	5
 tted	viõ	5
-måttmi	paai	5
 r	tâ	5
 t	mâ	5
 luâđkuvddlõõzzâst	siidast	5
@@ -6850,7 +6846,6 @@ kulttuurministeria	miõttâm	5
 live	striim	5
 ldd	addrõõzzâst	5
 da	taarrjânnmest	5
-teâđ	saa	5
 tte	vuâstta	5
 mmlai	meersažpei	5
 unioon	o	5
@@ -6899,7 +6894,6 @@ mnuõri	seksuaalʼlaž	5
 ǧǧ	oudd	5
 lij	saǥstõõllâd	5
 vuässõõttâd	ougglõsõhttvuõđin	5
-indigenous	peoples	5
 v	pirr	5
 v	ne	5
 nnmannu	looppâst	5
@@ -7082,6 +7076,7 @@ nuõrisuåvtõõzzâst	ä	5
 ketola	marianne	5
 ketola	lij	5
 jest	nuõrisuåvtõõzz	5
+anni-sofia	löf	5
 lij	nuõrisuåvtõõzzâst	5
 nuõrisuåvtõõzzâst	nuu	5
 rasmus	tuåimmai	5
@@ -7269,6 +7264,7 @@ vvai	sää	5
 lǩǩõõzz	vuei	5
 tät	vuäitt	5
 papp	da	5
+lappi	sie	5
 nuõr	lie	5
 kaallšõs	kue	5
 ldd	če	5
@@ -7295,7 +7291,6 @@ siiskõõzz	da	5
 pirr	kaaunak	5
 lmmtõõttâd	ouddǩiõ	5
 v	ää	5
-m	pue	5
 lǩ	da	5
 li	kõskksaž	5
 âlgg	pue	5
@@ -7480,7 +7475,6 @@ da	väärrne	5
 lie	ti	5
 da	tuäivvap	5
 tuõđi	jiânnai	5
-t	vue	5
 jjsaaǥǥ	da	5
 da	čårstummuž	5
 story	of	5
@@ -8105,6 +8099,7 @@ tiõrvâsvuõtthuâl	ämmatooumaž	5
 da	talkkâz	5
 mme	kuulli	5
 tiõrvâsvuõtthuâl	tåimmjuâkksest	5
+httešt	ee	5
 d	vuä	5
 nned	â	5
 lnn	kaaunak	5
@@ -8280,6 +8275,7 @@ jj	vä	5
 rrvââjjam	da	5
 tuejjuum	tu	5
 stteei	åårrmõõžžin	5
+mååust	li	5
 nuõrisuåvtõs	vuäitt	5
 lie	tuõđi	5
 tääzz	lij	5
@@ -8303,7 +8299,6 @@ leäi	kõččâm	5
 kõččâm	da	5
 puärraz	da	5
 kook	reâugga	5
-da	privatt	5
 lddminister	marin	5
 m	ǩie	5
 jõs	puâccjak	5
@@ -8318,12 +8313,14 @@ jõs	ääiǥak	5
 tõõzz	tâ	5
 mättʼtõõzz	õõu	5
 mättʼtõõzz	põõššjen	5
+kela	ouddõõzzi	5
 siirdčõõttâm	lää	5
 ddjânnma	le	5
 lij	uvddum	5
 ŋǩǩõõzz	õhttân	5
 ââlda	tuu	5
 õhttsažtuâjj	lij	5
+rtte	da	5
 stted	tõn	5
 oođummšest	lij	5
 digitaalʼlaž	sää	5
@@ -8403,7 +8400,6 @@ da	õhttsažtuâj	5
 res	mättaunnsin	5
 vuäitt	mu	5
 mǩiõllsaž	kääzzkõsä	5
-antti	aikio	5
 še	tee	5
 đ	tiõrvân	5
 vuäitt	tue	5
@@ -8426,6 +8422,7 @@ obb	lappi	5
 bb	väärrsaaǥǥjåå	5
 mmlai	õõutverddsažvuõđ	5
 meâldlaž	da	5
+da	saǥstõõllâmõõlǥtõõzz	5
 sámi	siida	5
 da	sámi	5
 tuu	miõl	5
@@ -8556,6 +8553,7 @@ st	huõlǩâni	5
 vuäitt	mättjed	5
 da	risttreeidaid	5
 kooum	lää	5
+dd	piisren	5
 rajjum	ä	5
 spraavâm	diõtt	5
 ǩǩvuâđđan	lij	5
@@ -8567,7 +8565,6 @@ miõl	da	5
 avaskari	da	5
 vuäitak	tååimted	5
 mättjed	ǩiõl	5
-lij	maantõõttâm	5
 måtam	vuõ	5
 hååid	taarb	5
 llʼjem	vääras	5
@@ -8655,7 +8652,6 @@ the	following	5
 your	data	5
 vuäǯǯad	säursmâ	5
 vuässõõtti	budjetâsttmõš	5
-programm	õlmstõttum	5
 tuu	põrggsest	5
 alggmeerǩiõli	meeraikõskksaž	5
 meeraikõskksaž	lååiee	5
@@ -8672,7 +8668,6 @@ muukela	sizz	5
 vâjja	lee	5
 lõstt	lij	4
 dff	kjj	4
-kj	dff	4
 as	ñll	4
 as	dfg	4
 salas	gafas	4
@@ -9084,7 +9079,6 @@ rǩes	tuâj	4
 vuõiggâdvuõđ	naaudšed	4
 ldded	še	4
 tuåimi	pirr	4
-pstõs	sää	4
 åårrai	liiŋkâst	4
 ldd	ǩiõllhuõll	4
 kõõččmõõžžin	da	4
@@ -9216,6 +9210,7 @@ mainstum	ǩiõl	4
 såbbar	lääǥǥlažvuõđ	4
 lääǥǥlažvuõđ	da	4
 rj	ta	4
+teâđ	saa	4
 rmi	cõõggõõttâmplaan	4
 jõnn	va	4
 vuäitt	čuâvvad	4
@@ -9297,6 +9292,7 @@ net	sue	4
 ǧǧ	lu	4
 di	o	4
 juätkkai	uu	4
+mes	inn-festivaal	4
 ǩǩat	mi	4
 ǩǩat	ââ	4
 vuäzzlaid	da	4
@@ -9572,7 +9568,6 @@ joouk	mie	4
 ooccmõõžžid	mätt	4
 da	tuâjjtuõđštõõzzivui	4
 martta	alajärvi	4
-martta	lij	4
 vnjaarǥ	kontojääu	4
 löf	lij	4
 rasmus	uccjokkneǩ	4
@@ -9856,7 +9851,6 @@ jie	tiõuddu	4
 lle	lââ	4
 peäggtum	kåå	4
 d	paalǥâskåå	4
-dd	lappi	4
 ođđ	teknologia	4
 uccjooǥǥ	vuu	4
 lij	jaukkeed	4
@@ -9867,6 +9861,7 @@ ssteâđ	ha	4
 tʼtem	ne	4
 ǩǩe	lie	4
 mm	mie	4
+m	pue	4
 ldded	âânnmõ	4
 rab	årra	4
 ld	di	4
@@ -10259,6 +10254,7 @@ sååbbar	preemm	4
 väärrvuäzzla	va	4
 alttii	tuåimmjummšes	4
 še	tääu	4
+nnemnalla	âânnmõš	4
 leäkku	nuu	4
 õhtt	vuei	4
 ǩǩid	vuei	4
@@ -10491,11 +10487,9 @@ oummu	mie	4
 iv-ii	mie	4
 ǧǧ	tuâjjlažkådda	4
 diõtt	šõddi	4
-ooccâmnalla	åårrai	4
 jõnn	ärvv	4
 da	mââimõsân	4
 tlvaž	pue	4
-ođđ	skä	4
 njauddâm	saa	4
 vuäǯǯam	kue	4
 son	maainast	4
@@ -10634,6 +10628,11 @@ da	vaikkted	4
 zz	mättʼtõõttjid	4
 rǩben	sää	4
 st	ǩiõttʼtâ	4
+vvjânnmi	alggmeerai	4
+teâđ	suõjâst	4
+suõjâst	da	4
+da	aaunâste	4
+mes	jällmõõžžâst	4
 õhttõs	rõ	4
 oummin	le	4
 suu	hååidast	4
@@ -10705,8 +10704,8 @@ ldd	sij	4
 tõt	kuâskk	4
 be	organisaatio	4
 leäkku	ǩidd	4
-nnǩiõll	da	4
 resärvvsaž	sâjja	4
+ij	miârkkšõõv	4
 vuõiggâdvuõđ	jie	4
 jjest	tõt	4
 ooumaž	vuäǯǯ	4
@@ -11460,7 +11459,6 @@ d	peä	4
 täävtõõzzi	mie	4
 feodorooff	ǩiõlltee	4
 ođđ	tuâjjla	4
-lie	miâlggâd	4
 t	kâ	4
 filosofia	dåhttar	4
 še	mâ	4
@@ -11593,6 +11591,7 @@ t	pâi	4
 rr	ij	4
 ton	leäk	4
 tuâj	tõn	4
+da	privatt	4
 piijjâm	diõtt	4
 jpooddâst	da	4
 vvlest	lij	4
@@ -11645,6 +11644,7 @@ sij	ä	4
 õhttân	tää	4
 jiijjâs	beä	4
 da	kulttuurpirrõõzz	4
+stted	kõjldõ	4
 teâuddjummšest	da	4
 da	ǩiõlʼlaž	4
 l	nuõrttsää	4
@@ -11694,7 +11694,6 @@ pâi	uu	4
 ǩǩen	vuârstes	4
 mǩiõllsai	da	4
 mmai	sää	4
-hååid	kela-aa	4
 ššid	ääi	4
 da	meâlddõõzz	4
 ŋǩǩõõzzâst	rä	4
@@ -11772,6 +11771,7 @@ taarbi	mie	4
 jiõk	tâma	4
 saakkummuž	ä	4
 n	valmmša	4
+kela	õlmstõõ	4
 kela	õlmstâtt	4
 re	liâ	4
 m	tää	4
@@ -11869,7 +11869,6 @@ ss	tõin	4
 ddpeällõõǥǥi	nuõriorganisaatio	4
 poliittlaž	vuõiggâdvuõđi	4
 vuäǯǯam	jee	4
-da	saǥstõõllâmõõlǥtõõzz	4
 l	si	4
 res	tuâjain	4
 res	tåimmsuõ	4
@@ -11950,9 +11949,9 @@ nnem	vuâllsaž	4
 jeältõõǥǥ	le	4
 rvvõõzz	tâ	4
 ššid	vä	4
-jiõčč	mie	4
 v	håiddad	4
 tõn	seu	4
+taarr	ve	4
 raaveem	diõtt	4
 tobddi	da	4
 vuäinn	komissio	4
@@ -12195,7 +12194,6 @@ komissaar	tuâjain	4
 ǩiõččâd	yle	4
 lij	õuddmiârkkân	4
 što	õm	4
-dd	piisren	4
 vuõiggâdvuõttkanslerkonttrest	rajjum	4
 di	ǩiõttʼtõõllmõõžž	4
 takai	teâttsuejjasetõõzz	4
@@ -12287,6 +12285,7 @@ tt	tõ	4
 st	oummu	4
 ltõsõõlǥtum	puä	4
 lij	õõut	4
+t	kela	4
 ǩiõlljuâǥǥtõs	lij	4
 lle	õlmstõttum	4
 tiõddum	sää	4
@@ -12345,7 +12344,6 @@ seiddõõzzâst	kõ	4
 animaatio	mediašõddummša	4
 animaatio	da	4
 pedagooglaž	vuässõs	4
-vuässõs	stää	4
 täävtõõzzid	ođđ	4
 kovvõõzzi	vue	4
 d	jiõčč	4
@@ -12434,6 +12432,7 @@ henrik	magga	4
 mmlaid	tillʼlõõvi	4
 hanna	kiprianoff	4
 kirkko	on	4
+da	teän	4
 jiõčč	prää	4
 ǩǩvuõiggâdvuõđ	tu	4
 reâuǥast	le	4
@@ -12495,6 +12494,8 @@ luõzzi	mie	4
 teänjooǥǥ	čää	4
 sǩǩuum	šõddeemääi	4
 aanar	siidi	4
+sseb	vuässõõttjid	4
+ppvuõđpeivva	ää	4
 venetsia	arkkitehtuurbiennaal	4
 joar	nango	4
 girjegumpi	lij	4
@@ -12521,7 +12522,6 @@ ghgh	hghg	3
 dkd	dkk	3
 ll	sls	3
 kjj	dff	3
-dff	kj	3
 dfg	ñlk	3
 leäi	to	3
 mon	mainstem	3
@@ -13038,7 +13038,6 @@ staanvuõđâst	da	3
 lad	še	3
 liâ	čiččâm	3
 tuejj	juätkkai	3
-ne	liâ	3
 da	mäddkå	3
 mi	jälstemvu	3
 mõõnti	peäccam	3
@@ -13136,6 +13135,7 @@ täi	puki	3
 puki	ä	3
 tõin	kääzzkõõzzin	3
 da	tiõrvâsvuõttkõõskõs	3
+måttmi	paai	3
 ǩi	ju	3
 ld	pirr	3
 l	mâŋŋa	3
@@ -13228,6 +13228,7 @@ rǩsted	sää	3
 še	puk	3
 ko	obb	3
 vuåppmõš	da	3
+pstõs	sää	3
 tuåimmvoudda	kuulli	3
 ǩǩ	aanar	3
 ođđ	terminologia	3
@@ -13576,7 +13577,6 @@ vuõltteed	kõõččmõõžžid	3
 kääucad	vuâra	3
 det	õõutoummid	3
 õõutoummid	le	3
-mes	inn-festivaal	3
 ǧǧ	piisarkå	3
 tuäivat	šiõǥǥ	3
 måkam	teâđ	3
@@ -13830,7 +13830,6 @@ lij	mainstõttum	3
 ouddmiârkkân	ää	3
 jewelry	from	3
 from	petsamo	3
-th	anniversary	3
 for	this	3
 as	an	3
 about	the	3
@@ -14015,6 +14014,7 @@ dde	lää	3
 tooimted	sää	3
 toimmjummša	vuäitt	3
 alajärvi	martta	3
+martta	lij	3
 tti	tuåimmjempââ	3
 bb	tuåimmjempââ	3
 more	niki	3
@@ -14443,7 +14443,6 @@ nned	jeä	3
 ldd	täi	3
 sizz	ko	3
 dd	obbnes	3
-da	ortodookslaž	3
 ǩǩ	âânn	3
 ttlid	da	3
 ǩǩvuõtt	lij	3
@@ -14472,7 +14471,6 @@ ji	meä	3
 tuâi	da	3
 liâ	jiijjâs	3
 âlgg	põõššâd	3
-jälsteei	oummu	3
 vuâđđjurddjen	lij	3
 vnjaarǥ	gåårdest	3
 v	vuä	3
@@ -14636,7 +14634,6 @@ mättʼtõõttjin	lij	3
 määttain	da	3
 ŋǩǩõõzz	vuä	3
 ŋǩǩõõzz	teäggte	3
-ft	marja-liisa	3
 ššid	håiddad	3
 ooumaž	da	3
 vdded	teâđaid	3
@@ -14846,6 +14843,7 @@ be	puk	3
 mánáid	ruoktu	3
 nõõmääm	sää	3
 đđ	da	3
+alttad	sä	3
 tuâjj	juätkkai	3
 juätkkai	õinn	3
 jiõm	silttääm	3
@@ -15148,7 +15146,6 @@ ldd	såbbrid	3
 seärad	ää	3
 teknlaž	lu	3
 net	kå	3
-nnemnalla	âânnmõš	3
 mmstõõǥǥ	ââ	3
 nnʼjelsiid	saa	3
 cc	kääzzkõspäi	3
@@ -15553,7 +15550,6 @@ halltõs	vuäitt	3
 õutstõõzz	ee	3
 teâđai	serddmõš	3
 rǩesvuõđ	da	3
-res	eu	3
 ǩǩvuõđ	liâ	3
 mâŋŋa	puättam	3
 ǧǧ	reä	3
@@ -15641,6 +15637,7 @@ tǩǩ	â	3
 rttai	smiõttâd	3
 da	ho	3
 n	ooccâmnalla	3
+ooccâmnalla	åårrai	3
 vuäitt	kä	3
 ouddmiârkkân	mä	3
 lie	miõttum	3
@@ -15651,7 +15648,6 @@ koolm	riikk	3
 ǩǩ	vuõssaarǥ	3
 vuõssaarǥ	čiâss	3
 määŋgid	piârrjid	3
-nuõrr	skä	3
 leäkku	šõddâm	3
 låttjooǥǥâst	norrum	3
 suõus	lie	3
@@ -15899,11 +15895,6 @@ de	kollʼjee	3
 ji	päärnai	3
 teâđstemvuõđ	sä	3
 da	škooulkue	3
-vvjânnmi	alggmeerai	3
-teâđ	suõjâst	3
-suõjâst	da	3
-da	aaunâste	3
-mes	jällmõõžžâst	3
 ddjânnam	tâ	3
 ouddmiârkkân	ǩiõtt-tuâjaid	3
 nõõmid	da	3
@@ -16045,6 +16036,7 @@ be	ij	3
 deed	jiijjâs	3
 kääzzkõõzzid	jee	3
 kääzzkõõzzid	âlgg	3
+nnǩiõll	da	3
 lokku	ä	3
 ttjõõzz	sää	3
 puõcci	sââ	3
@@ -16053,7 +16045,6 @@ taarbid	di	3
 di	suu	3
 di	puä	3
 ldd	ij	3
-ij	miârkkšõõv	3
 kääzzkõõzzi	õõutverddsaž	3
 ǩiõlʼlaž	tää	3
 ttemvuõtt	vuäǯǯad	3
@@ -16611,7 +16602,6 @@ valmštõõllâd	e	3
 tõõzz	kuõskki	3
 ti	ou	3
 što	määŋgain	3
-ltǩani	leäkku	3
 vuäǯǯ	vue	3
 mijá	tekno	3
 õhttvuõttoummi	säimmõõzz	3
@@ -16755,8 +16745,9 @@ juätk	beä	3
 lnn	mie	3
 tet	juä	3
 tõn	se	3
+rräiggsa	proje	3
+ktt-tuâjjtuejjeei	tuâj	3
 nuõrisuåvtõs	vuässââtt	3
-alggmeerai	põõžži	3
 human	rights	3
 niittyvuopio	juätkk	3
 dihtosis-haŋǩǩõõzzâst	ooccât	3
@@ -16829,7 +16820,6 @@ järraz	jiâ	3
 da	vuäǯǯam	3
 rttai	tu	3
 rttai	åå	3
-da	ga	3
 taarbšeei	meâlddõõzzid	3
 tõt	vie	3
 ǩeerjlânji	da	3
@@ -17110,7 +17100,6 @@ suåvâdvuõttkomissio	piisarkåå	3
 dd	plaaneei	3
 da	presidee	3
 ssen	vuõiggâdvuõttkansler	3
-meerla	vuäi	3
 tuâjain	lie	3
 lij	võborše	3
 ǩǩen	ouddoummuvaalin	3
@@ -17122,6 +17111,7 @@ kulttuur	jeälltummuž	3
 oummui	miõlid	3
 mmstõktuâj	sää	3
 htt	vuäzzla	3
+dd	lappi	3
 alggmeer	jiõččmie	3
 tuäivam	še	3
 što	jeärraz	3
@@ -17237,7 +17227,6 @@ da	čuõvtõsnallšem	3
 m-meer	ou	3
 koin	uu	3
 vuõssmõs	saaǥǥjåå	3
-prograammâst	liâ	3
 ool	liâ	3
 nt	di	3
 vuäzzla	jee	3
@@ -17312,6 +17301,7 @@ ttjed	ääi	3
 poodd	vuäitt	3
 mõutstõõzz	da	3
 lǩǩõs	sää	3
+oođummuš	jåttai	3
 ouddâl	kue	3
 mõõn	vuâđald	3
 jeät	ǩiõttʼtõllu	3
@@ -17572,7 +17562,6 @@ vuäitak	saǥstõõllâd	3
 st	ääi	3
 še	domoi	3
 ǩest	vuäǯǯak	3
-šõddâd	kullum	3
 da	puõccipõõrtâst	3
 da	tuärjj	3
 sa	mère	3
@@ -18027,7 +18016,6 @@ da	tuejjeem	3
 še	mee	3
 ouddnummuž	di	3
 šš	puõ	3
-stted	kõjldõ	3
 sse	lää	3
 mǩiõl	lää	3
 l	â	3
@@ -18168,7 +18156,6 @@ kuul	ni	3
 lljeet	vu	3
 tååimtet	pâ	3
 vddvaalin	vuäi	3
-tiõttum	määinaivui	3
 jiõnstummuš	lij	3
 be	måtam	3
 täid	oudldõõzzid	3
@@ -18571,10 +18558,10 @@ veâl	ooudâs	3
 l	sii	3
 leep	še	3
 puätt	tän	3
-podd	tobdstõõttâd	3
 da	mätt	3
 jen	tåimmpââ	3
 rttel	vuäzzlaž	3
+tutustu	myös	3
 nnemnalla	åårrai	3
 jjest	ee	3
 dd	meeraikõskksaž	3
@@ -18794,6 +18781,7 @@ takssaaut	âânnmõ	3
 tuu	peä	3
 ššääd	te	3
 rjin	vuäitt	3
+jiõčč	mie	3
 jos	vä	3
 jben	håiddam	3
 šši	håiddam	3
@@ -18805,7 +18793,6 @@ be	tiõrvâsvuõđ	3
 ǧǧ	sä	3
 mmstõõǥǥ	vuâđđan	3
 da	taarrlaa	3
-taarr	ve	3
 rben	päärna	3
 rrjõõzzin	da	3
 takainalla	tå	3
@@ -18974,6 +18961,7 @@ da	parlamee	3
 ko	mâi	3
 lm	politiikk	3
 ššin	mie	3
+lie	miâlggâd	3
 mon	ååskam	3
 še	viikkâd	3
 vvjânnmallaš	õhttsažtuâj	3
@@ -19059,6 +19047,7 @@ lij	ärvv	3
 tte	ǩee	3
 še	määu	3
 vuäǯǯad	jeä	3
+mmla	soti-oođõõzzâst	3
 soti-kääzzkõõzzi	pirr	3
 soti-kääzzkõõzzi	ta	3
 ciâlklmest	soti-mäddkoo	3
@@ -19244,8 +19233,6 @@ tõt	ǩeäss	3
 ođđ	ââ	3
 ceälkk	saa	3
 ǩǩvuõđ	da	3
-seämma	hõõ	3
-ddin	ko	3
 siirdčõõđak	põõššjen	3
 susa	saukko	3
 jiõn	âânnmõõžž	3
@@ -19281,6 +19268,10 @@ kääzzkõõzzi	õõu	3
 ssen	kelast	3
 ougglõskääzzkõõzz	tâ	3
 vuäǯǯad	vuâđđpi	3
+juuso	teä	3
+ja	suåvâdvuõttprosee	3
+ss	o	3
+m-meer	na	3
 kuulât	ä	3
 teâđ	parlame	3
 lnn	sajoozzâst	3
@@ -19364,7 +19355,6 @@ vuäǯǯa	piâssmõõžž	3
 ŋǩǩe	da	3
 ouddmiârkkân	ǩe	3
 što	teâđaid	3
-še	teâđaid	3
 nnmest	le	3
 ekksaž	päärnaid	3
 rǩmõs	toi	3
@@ -19405,6 +19395,8 @@ jest	tuej	3
 ddjânnmest	nu	3
 meäccai	luâtt-tyypp	3
 koin	meä	3
+ddad	sää	3
+nnstem	diõtt	3
 mi	tuõđâsvuõtt	3
 da	väärrneǩ	3
 matti	aikio	3
@@ -19422,6 +19414,8 @@ lahti	gåårdest	3
 juuso	vaalšeš	3
 vaalšeš	sää	3
 ooʒʒõõttmõõžž	vääras	3
+piisren	va	3
+lljum	antti	3
 rest	ee	3
 tååimtum	da	3
 juâǥǥast	uvddum	3
@@ -19531,7 +19525,6 @@ mǩiõllsaid	ââ	3
 nned	jiijjâsǩiõllsaid	3
 vuõltteed	ooccmõõžžid	3
 da	meâlddõõzzid	3
-kela	alttad	3
 pääikla	oummu	3
 šõddâm	ju	3
 tte	õõutsâjja	3
@@ -19770,7 +19763,6 @@ tiõrvâsvuõttkõõskõõzz	da	3
 õhttvuõđ	koo	3
 šše	puä	3
 di	hååid	3
-hååid	seämma	3
 da	neävvai	3
 pâi	oummu	3
 rrvââjjmõš	da	3
@@ -19820,6 +19812,7 @@ vuõiggâdvuõttkansler	vuäitt	3
 jj	kõõut	3
 čõõđ	viikkmõõžž	3
 neellj	vuâra	3
+sanna	marinin	3
 vuâra	tän	3
 jj	aa	3
 rred	sää	3
@@ -19876,7 +19869,6 @@ rajjum	sä	3
 puõccuid	da	3
 dd	nuõrttvue	3
 lnn	jälste	3
-rreed	jiijjâs	3
 lmõs	tää	3
 vaaikted	sä	3
 tååimaid	sä	3
@@ -20100,7 +20092,6 @@ ceerkav	če	3
 kuurs	ââ	3
 dd	kõ	3
 lij	tobdstõõttâd	3
-da	teän	3
 ddi	ee	3
 pasi	oikarinen	3
 dd	kue	3
@@ -20219,9 +20210,6 @@ reâuggmõõžž	puuttmest	3
 sǩǩe	seämma	3
 ddjânnma	põõššjen	3
 puäđak	vuõlttuum	3
-kroota	puâccje	3
-mmen	kai	3
-bbjum	hååid	3
 halltõõzz	ra	3
 mǩiõl	mie	3
 lfoonâst	še	3
@@ -20241,8 +20229,10 @@ di	säursmâ	3
 ǩǩi	vuõiggâdvuõtt	3
 jälstemkoolai	jäänmõsmie	3
 rr	käggââtt	3
+ddkuullmõõžž	jåttje	3
 res	pue	3
 ääimas	mottai	3
+nuõrttsäämas	lij	3
 leämmaš	tuâjast	3
 rre	ǩee	3
 j	u	3
@@ -20378,8 +20368,10 @@ rj	alttummuš	3
 tǩǩeei	tuâj	3
 da	robotiikk	3
 net	jee	3
-sseb	vuässõõttjid	3
-ppvuõđpeivva	ää	3
+vest	še	3
+halltõs	miõđi	3
+miõđi	lââ	3
+v	puåđõõzz	3
 alttii	čeä	3
 vuässõõđi	venetsia	3
 arkkitehtuurbiennaal	ää	3
@@ -20435,6 +20427,8 @@ restrantt-tuâjjla	põõššinalla	3
 põõššinalla	viõǥǥâst	3
 in	kansainväliset	3
 kansainväliset	asiat	3
+räukk	nõõmeeme	3
+äimmõs-suåvtõõzz	vuäzzli	3
 äimmõspolitiik	vuõiggvuõđmeâldlažvuõđ	3
 leämmaž	vää	3
 neidenin	kolttasaamelainen	3

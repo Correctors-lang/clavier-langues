@@ -1,19 +1,23 @@
 # Bigrammes niu (FineWeb-2 niu_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-e	tau	14897
-ke	he	13276
+e	tau	14895
+ke	he	13274
 ko	e	12545
-mo	e	10753
+mo	e	10752
 he	tau	9268
 ki	a	3779
-a	ia	3662
+tau	tagata	3688
+a	ia	3661
+a	tautolu	3598
 a	koe	3011
+he	atua	2552
+tautolu	ke	2456
 a	lautolu	2284
 mai	he	2222
 tau	mena	2164
 koe	ke	1989
 po	ke	1941
-a	iehova	1812
+a	iehova	1811
 e	ia	1793
 e	heigoa	1778
 ka	e	1736
@@ -21,8 +25,9 @@ e	mena	1697
 tohi	tapu	1694
 kua	lata	1567
 ha	tautolu	1567
+ai	e	1547
 moua	e	1523
-ia	ke	1458
+ia	ke	1457
 taute	e	1409
 e	tautolu	1387
 he	tohi	1320
@@ -30,20 +35,24 @@ kua	nakai	1314
 ki	ai	1298
 e	koe	1272
 ma	e	1186
+ke	moua	1175
 ke	taute	1151
 e	iehova	1103
 ha	kua	1089
-ha	lautolu	1083
+ha	lautolu	1082
 e	tagata	1031
 e	ha	1027
-haau	a	983
+haau	a	982
 ha	ko	959
 ia	e	937
+he	taha	923
 e	taha	909
-hagaao	ke	894
+he	lalolagi	900
+hagaao	ke	893
 e	falu	881
 foki	e	876
 mena	ne	876
+atu	ke	862
 lautolu	ke	850
 ha	iehova	834
 heigoa	e	816
@@ -52,11 +61,12 @@ tautolu	e	814
 e	nakai	798
 he	magaaho	798
 ne	nakai	790
+e	atua	779
 he	falu	773
 kaeke	kua	741
 lahi	e	738
 a	iesu	725
-atu	e	724
+atu	e	723
 iloa	e	716
 mai	e	714
 ne	kua	694
@@ -78,6 +88,7 @@ loto	he	591
 e	fakaalofa	586
 he	tagata	584
 nakai	fai	583
+e	tama	567
 e	au	555
 e	tohi	554
 ke	lagomatai	551
@@ -102,9 +113,12 @@ fakakite	e	498
 maeke	ia	497
 fēfē	e	491
 ai	ke	485
+ai	a	484
+he	moui	484
 ni	e	481
 iehova	ke	474
 i	loto	468
+ia	he	467
 ne	talahau	461
 e	kakano	461
 tala	age	453
@@ -136,8 +150,9 @@ falu	a	377
 ka	kua	377
 e	gahua	373
 ti	ko	370
-he	haau	366
+he	haau	365
 vala	tala	365
+tumau	e	363
 tau	gahua	360
 kua	moua	360
 eke	mo	354
@@ -149,11 +164,13 @@ e	kupu	348
 ha	ne	344
 heigoa	ne	342
 he	mole	341
+atua	ke	341
 niu	silani	340
 ia	ki	339
 ha	i	334
 ia	ne	332
 mena	oti	332
+tau	matakainaga	332
 ke	nakai	331
 lahi	ke	331
 mai	a	328
@@ -177,10 +194,11 @@ hagaao	ki	307
 haau	ke	307
 mole	e	306
 ia	kua	306
+tau	koloa	303
 talahau	e	302
 ka	taute	302
-foki	ke	301
 e	fiafia	301
+foki	ke	300
 loga	e	299
 he	fakatufono	295
 he	kupu	294
@@ -190,6 +208,8 @@ lahi	a	291
 lautolu	a	290
 ko	ia	290
 tautolu	a	290
+tagata	oti	289
+ue	atu	288
 tau	kerisiano	288
 lagomatai	e	287
 ke	fakaaoga	286
@@ -209,8 +229,8 @@ a	mutolu	278
 he	magafaoa	276
 ia	a	275
 age	e	275
-ke	fai	274
 kua	fai	274
+ke	fai	273
 nei	ke	271
 mena	fakaalofa	271
 ti	kua	270
@@ -220,6 +240,7 @@ he	aho	268
 maeke	fēfē	268
 magaaho	ka	267
 ia	ko	267
+tau	kapitiga	267
 ne	fakaako	266
 he	motu	262
 a	laua	262
@@ -256,13 +277,14 @@ mena	kai	236
 mua	e	235
 o	mai	235
 iehova	mo	234
-ni	a	233
+ni	a	232
 ko	hai	232
 foki	he	231
 tau	magaaho	231
 e	tuaga	231
 e	matua	231
 nakai	lata	229
+fakafili	tonu	229
 taha	mena	227
 mitaki	e	227
 ne	tupu	227
@@ -279,7 +301,7 @@ tau	lekua	223
 kua	mua	222
 he	fono	221
 e	higoa	220
-lautolu	he	220
+lautolu	he	219
 kua	taute	217
 koe	mo	217
 he	mahani	216
@@ -295,6 +317,7 @@ mo	lautolu	210
 e	tala	209
 mailoga	e	209
 ko	iehova	209
+mitaki	ke	208
 taha	he	207
 moua	mai	207
 e	magafaoa	207
@@ -326,6 +349,7 @@ mahani	fakamooli	195
 e	malolo	195
 logona	hifo	195
 e	vala	194
+mitaki	he	194
 he	mogo	194
 ke	liu	193
 e	taute	193
@@ -362,10 +386,10 @@ e	lagomatai	180
 ke	manamanatu	180
 tautolu	mo	180
 e	mate	180
-he	nakai	179
 e	fifine	179
 logona	e	179
 e	finagalo	179
+he	nakai	178
 kakano	he	178
 ma	tautolu	178
 manatu	e	177
@@ -398,6 +422,7 @@ matua	fifine	171
 fiafia	a	171
 e	huki	171
 talia	e	170
+atua	mo	170
 e	mautolu	170
 fakamoli	a	170
 tau	agelu	170
@@ -417,6 +442,7 @@ e	manako	166
 he	matakavi	166
 he	gagao	166
 mooli	e	166
+atu	he	165
 fakalataha	mo	165
 age	a	165
 kua	kitia	164
@@ -496,6 +522,7 @@ a	au	139
 he	vala	138
 nakai	leva	138
 to	moua	138
+tau	fua	138
 ke	fakatumau	137
 kaeke	ko	137
 ke	fiafia	137
@@ -520,6 +547,7 @@ hagahaga	kelea	134
 ne	o	134
 puhala	he	134
 atua	a	134
+ia	ia	133
 e	fua	133
 e	fakatufono	133
 ka	tupu	133
@@ -539,6 +567,7 @@ manako	e	130
 i	mua	130
 nei	e	130
 la	ke	130
+ko	koe	130
 fakaalofa	a	130
 mooli	he	130
 faahi	gahua	129
@@ -558,19 +587,19 @@ ke	ha	127
 ke	nofo	127
 ne	toka	127
 ne	kamata	127
-nakai	iloa	127
 matakavi	ne	127
 lautolu	mo	127
 tau	manako	127
 kehe	e	126
+tagata	e	126
 e	fakamauaga	126
 ni	ne	126
+nakai	iloa	126
 fa	mahani	126
 e	fakatonuaga	126
 ke	fekafekau	126
 koe	kua	126
 nakai	manako	126
-maeke	foki	125
 malolō	tino	125
 fakaatā	e	125
 falu	ne	125
@@ -578,6 +607,7 @@ atamu	mo	125
 gahua	ke	124
 ne	eke	124
 mitaki	mo	124
+maeke	foki	124
 ke	fakamatala	124
 fakatoka	e	124
 he	fakamauaga	124
@@ -602,6 +632,8 @@ vala	he	120
 ne	tuku	120
 ke	tumau	120
 kia	e	120
+tala	mitaki	120
+he	mate	120
 kia	ia	119
 mooli	a	119
 hoko	ke	119
@@ -714,6 +746,7 @@ ke	talahau	104
 he	fonua	104
 kua	lahi	104
 moui	he	104
+ke	nonofo	104
 fiafia	ke	104
 fakaako	ke	104
 tau	tali	104
@@ -743,7 +776,6 @@ nei	ko	100
 pehē	e	100
 iloa	ko	100
 tohi	he	99
-pihia	mo	99
 i	niu	99
 ha	e	99
 kalo	kehe	99
@@ -755,6 +787,7 @@ he	iki	98
 tau	poakiaga	98
 atu	ai	98
 magaaho	kua	98
+pihia	mo	98
 ke	muitua	98
 haau	mo	98
 falu	magaaho	98
@@ -765,11 +798,11 @@ takitaki	e	97
 uta	e	97
 kua	lagomatai	97
 to	lagomatai	97
-tau	vai	97
 mate	a	97
 ne	fiafia	97
 e	tapuakiaga	97
 kua	lauia	96
+tau	vai	96
 e	fanau	96
 kua	tuga	96
 ha	ai	96
@@ -880,6 +913,7 @@ fakatonu	fono	86
 tuku	atu	86
 tau	maaga	86
 he	talahau	86
+tama	haau	86
 iloa	he	86
 mahani	mitaki	86
 e	hoa	86
@@ -925,11 +959,13 @@ ke	mahani	82
 e	leveki	82
 e	liu	82
 ke	kumikumi	82
+ke	mailoga	82
 nakai	kia	82
 ke	tupu	82
 tiaki	e	82
 e	kelea	82
 tau	fuata	82
+lalolagi	nei	82
 fono	he	81
 ekepule	niue	81
 haana	mo	81
@@ -941,7 +977,6 @@ e	lahi	81
 fiafia	he	81
 mo	tautolu	81
 gagao	covid	81
-ka	mole	80
 tuga	kua	80
 ti	pihia	80
 tau	lagomatai	80
@@ -950,6 +985,7 @@ ke	momoui	80
 e	manamanatu	80
 he	senetenari	80
 motu	ko	79
+ka	mole	79
 e	mafola	79
 e	iloa	79
 tautolu	ne	79
@@ -966,7 +1002,6 @@ ki	tua	78
 ki	lalo	78
 tohi	nei	78
 tau	fifine	78
-moui	ha	78
 e	pulotu	78
 fakamaama	he	78
 fakaako	a	78
@@ -983,6 +1018,7 @@ haana	tau	77
 e	tupe	77
 mukamuka	ke	77
 hoko	atu	77
+moui	ha	77
 e	hūhū	77
 iesu	mo	77
 he	fakaako	77
@@ -1027,6 +1063,7 @@ mate	e	74
 e	taane	74
 ia	iehova	74
 he	kamataaga	74
+tau	hala	74
 kau	gahua	73
 ai	ha	73
 e	fakamailoga	73
@@ -1123,7 +1160,6 @@ ia	au	69
 kua	talia	68
 manatu	ke	68
 nakai	la	68
-mole	atu	68
 e	mahina	68
 nofo	he	68
 nakai	taute	68
@@ -1149,6 +1185,7 @@ he	tapuakiaga	68
 liu	a	68
 tala	nei	68
 nei	ki	67
+mole	atu	67
 nakai	ha	67
 manatu	he	67
 ia	ma	67
@@ -1191,6 +1228,7 @@ kua	fakamooli	65
 ni	ka	65
 ke	tohi	65
 totogi	e	65
+leva	e	65
 ne	higoa	65
 ke	fifitaki	65
 heigoa	ha	65
@@ -1215,6 +1253,7 @@ e	hana	64
 uka	lahi	64
 e	aposetolo	64
 tagata	ki	64
+tau	mamoe	64
 e	mauokafua	64
 fakafiafia	a	64
 uka	ke	64
@@ -1261,6 +1300,7 @@ tau	vagahau	61
 ni	kua	61
 tupu	ki	61
 laua	e	61
+mua	ke	61
 noa	e	61
 ke	fakapuke	61
 e	matakavi	61
@@ -1368,6 +1408,7 @@ he	fanau	57
 kehekehe	e	57
 fitā	he	57
 ko	satani	57
+tau	iutaia	57
 e	kitia	57
 fakatupu	e	57
 fiafia	ha	57
@@ -1382,6 +1423,7 @@ ai	i	56
 fakaoti	e	56
 fakamooli	ha	56
 ia	kia	56
+tagata	ia	56
 tau	fakatokatokaaga	56
 e	takitaki	56
 tau	fakaholoaga	56
@@ -1391,6 +1433,7 @@ lagomatai	atu	56
 e	puipuiaga	56
 moui	haana	56
 mahuiga	lahi	56
+nonofo	a	56
 kerisiano	ke	56
 ne	talitonu	56
 heigoa	haau	56
@@ -1419,6 +1462,7 @@ ne	kotofa	55
 fakaholo	ki	55
 ka	maeke	55
 falu	kua	55
+malolō	he	55
 fakaohooho	e	55
 katoa	mo	55
 foki	ia	55
@@ -1511,6 +1555,7 @@ fakafili	he	52
 pule	gahua	52
 nakai	tuai	52
 tau	higoa	52
+ko	au	52
 leveki	ke	52
 e	maaga	52
 malolo	he	52
@@ -1577,6 +1622,7 @@ foaki	age	50
 tuku	age	50
 tumau	he	50
 puke	tagata	50
+he	mitaki	50
 tama	ke	50
 ke	finatu	50
 he	toto	50
@@ -1775,6 +1821,7 @@ mai	ha	45
 haana	e	45
 taha	vala	45
 ka	kitia	45
+tonu	he	45
 ke	fakaheke	45
 ne	fakavē	45
 kitekite	ke	45
@@ -1820,8 +1867,8 @@ tonu	e	44
 kehe	tau	44
 pulotu	ke	44
 koe	ha	44
-iloa	a	44
 tote	e	44
+kupu	moli	44
 katoatoa	a	44
 fitā	e	44
 ne	fakaatā	44
@@ -1830,6 +1877,7 @@ lahi	au	44
 kerisiano	he	44
 kerisiano	ne	44
 tautolu	ma	44
+fakamagalo	e	44
 kua	liu	44
 a	tanielu	44
 e	mose	44
@@ -1863,7 +1911,9 @@ kua	hepe	43
 ha	isaraela	43
 lima	e	43
 kua	kelea	43
+iloa	a	43
 tali	atu	43
+aho	ke	43
 i	fe	43
 ne	fakamau	43
 maveheaga	he	43
@@ -1996,6 +2046,7 @@ matua	haana	40
 kua	tala	40
 liliu	mai	40
 tamai	he	40
+e	tiapolo	40
 tufuga	e	40
 ne	tatai	40
 he	perofeta	40
@@ -2053,6 +2104,7 @@ hana	he	39
 mole	he	39
 ka	fehagai	39
 iehova	ka	39
+koloa	he	39
 tagata	foki	39
 aho	okioki	39
 he	koviti	39
@@ -2193,6 +2245,7 @@ gahua	ai	36
 fekau	he	36
 ke	tiaki	36
 taute	ni	36
+foou	he	36
 kitia	ko	36
 tau	fekau	36
 fakaaogaaga	he	36
@@ -2295,7 +2348,6 @@ tau	hoa	35
 he	fakatokatokaaga	35
 laua	mo	35
 he	agelu	35
-ha	hā	35
 mogonei	kua	35
 lekua	he	35
 ma	iehova	35
@@ -2337,6 +2389,7 @@ e	taliaaga	34
 hea	atu	34
 kua	hagahaga	34
 he	fakatonuaga	34
+mooli	kua	34
 e	palepale	34
 ia	mutolu	34
 e	fakamafanaaga	34
@@ -2379,8 +2432,6 @@ he	toloaga	34
 he	lahi	34
 fale	gahua	34
 mose	ke	34
-vai	puke	34
-he	vai-huki	34
 peehi	e	33
 fakatufono	a	33
 silani	ke	33
@@ -2393,7 +2444,6 @@ kia	eke	33
 kamata	mai	33
 tua	a	33
 e	nofo	33
-hu	atu	33
 totogi	he	33
 oti	ia	33
 lahi	ni	33
@@ -2405,6 +2455,7 @@ fakaheke	e	33
 aho	oti	33
 he	pulotu	33
 tupu	lahi	33
+tau	poaki	33
 tino	ha	33
 fakaalofa	lahi	33
 ke	manako	33
@@ -2415,6 +2466,7 @@ motu	ha	33
 kua	eketaha	33
 ne	liliu	33
 manatu	ha	33
+mo	au	33
 fanau	ikiiki	33
 malolō	haana	33
 e	perofeta	33
@@ -2435,7 +2487,10 @@ kua	to	33
 tala	hagaao	33
 kaina	ha	33
 hila	nei	33
+vai	puke	33
+he	vai-huki	33
 totou	puke	33
+peau	kula	33
 bowel	cancer	33
 e	fakatino	32
 falanaki	ke	32
@@ -2444,7 +2499,6 @@ niue	ne	32
 mogoia	ke	32
 he	lima	32
 fakatufono	mo	32
-ke	hu	32
 ke	fakahoko	32
 leveki	mo	32
 ke	fakatutala	32
@@ -2636,6 +2690,7 @@ mooli	kia	30
 lauia	a	30
 ne	vihiatia	30
 tote	ne	30
+e	vaha	30
 lalolagi	oti	30
 pehe	mai	30
 tagata	hana	30
@@ -2747,7 +2802,6 @@ manu	lele	28
 a	tama	28
 ti	matutaki	28
 fai	matutakiaga	28
-tau	moko	28
 puipui	aki	28
 koe	ti	28
 e	kamata	28
@@ -2774,6 +2828,7 @@ nei	ti	28
 atu	ne	28
 e	fakaatukehe	28
 tau	fakatai	28
+fakaalofa	atu	28
 onoono	la	28
 aposetolo	haana	28
 ui	e	28
@@ -2847,6 +2902,7 @@ gahua	a	27
 e	puke	27
 totou	mo	27
 kapitiga	tata	27
+tau	moko	27
 e	suka	27
 matutakiaga	he	27
 tau	huhu	27
@@ -2882,6 +2938,7 @@ fakauka	ke	27
 fakahagahaga	kelea	27
 tau	takitaha	27
 a	ierusalema	27
+tau	fetu	27
 tamate	a	27
 agaia	he	27
 papatiso	a	27
@@ -2899,6 +2956,7 @@ fakamalolō	a	27
 matafakatufono	he	27
 liuaki	mai	27
 ko	ioane	27
+agaaga	he	27
 tagata	ti	27
 tau	aikupito	27
 vahaloto	he	27
@@ -2918,7 +2976,6 @@ matakavi	he	27
 nimo	e	27
 nakai	putoia	27
 mutolu	mo	27
-hu	mai	27
 foliaga	fakaagaaga	27
 he	fakapilo	27
 fakatata	lahi	27
@@ -2959,7 +3016,6 @@ ke	liga	26
 hokulo	e	26
 he	vahāloto	26
 tagata	taute	26
-hā	i	26
 to	fano	26
 uho	ke	26
 lagomatai	ha	26
@@ -3055,6 +3111,7 @@ fakamooliaga	he	25
 kua	pule	25
 fakahiku	he	25
 ke	tatai	25
+he	mafola	25
 katoa	ne	25
 ne	fakagahua	25
 e	kamataaga	25
@@ -3195,10 +3252,12 @@ mitaki	kua	24
 fakamitaki	ke	24
 e	lagomataiaga	24
 mai	ko	24
+koe	po	24
 ka	to	24
 manamanatu	kua	24
 tuai	ne	24
 kua	kumi	24
+mautolu	ko	24
 fakafetuiaga	ha	24
 kua	mahuiga	24
 e	lauga	24
@@ -3622,6 +3681,7 @@ vilo	atu	21
 fakaalofa	kua	21
 mo	mena	21
 fakamamao	mai	21
+matakainaga	ke	21
 vihiatia	he	21
 au	ka	21
 puhala	foki	21
@@ -3642,6 +3702,7 @@ feleveiaaga	ha	21
 kautū	he	21
 he	fā	21
 kua	fakahala	21
+moli	a	21
 ko	kanana	21
 tau	tupa	21
 viko	takai	21
@@ -3749,6 +3810,7 @@ gahuahua	mitaki	20
 tokoluga	lahi	20
 tote	lahi	20
 e	molea	20
+poaki	he	20
 fua	lakau	20
 e	gako	20
 kua	tu	20
@@ -3768,6 +3830,7 @@ atu	fēfē	20
 kua	tutupu	20
 fanau	ai	20
 lima	mo	20
+toloaga	tagata	20
 fakamoli	ne	20
 matua	hana	20
 tagata	tane	20
@@ -3877,7 +3940,6 @@ nonofo	puipui	20
 nz	covid	20
 covid	tracer	20
 management	group	20
-a	lotokaina	20
 katofia	kaina	20
 e	mafuike	20
 emergency	mobile	20
@@ -3890,6 +3952,7 @@ tau	hukui	19
 e	pihia	19
 fono	ke	19
 e	onoono	19
+tonu	kua	19
 fakamau	kupu	19
 gahua	i	19
 lagaki	he	19
@@ -3980,14 +4043,12 @@ e	tamate	19
 tuaga	fakaagaaga	19
 matakainaga	kerisiano	19
 fuluhi	kehe	19
-ti	manatu	19
 satani	he	19
 e	afe	19
 ti	fakafano	19
 paulo	kua	19
 au	atu	19
 e	fakatutalaaga	19
-uka	he	19
 kua	mafiti	19
 tapu	ma	19
 ke	tata	19
@@ -3996,6 +4057,7 @@ aoga	a	19
 fakamamahi	e	19
 e	lauia	19
 fakamauaga	ha	19
+e	fulufuluola	19
 toko	mo	19
 noa	kua	19
 matematekelea	ha	19
@@ -4076,6 +4138,7 @@ poke	kua	19
 tau	peleoafi	19
 my	covid	19
 covid	record	19
+a	lotokaina	19
 a	telefoni	19
 tau	tivi	19
 pā	ihu	19
@@ -4092,6 +4155,7 @@ ha	puhala	18
 kua	tutala	18
 puhala	gahua	18
 ai	po	18
+tokologa	lahi	18
 e	tiaki	18
 fakatoka	ke	18
 e	mooli	18
@@ -4123,6 +4187,7 @@ he	matagi	18
 mena	to	18
 ke	oti	18
 kai	mitaki	18
+haau	ko	18
 suka	i	18
 to	logona	18
 nakai	gahuahua	18
@@ -4181,10 +4246,12 @@ tavita	mo	18
 ato	mate	18
 ke	hola	18
 fakatātā	e	18
+ti	manatu	18
 ti	fakatumau	18
 lalolagi	kelea	18
 fakauka	a	18
 to	fēfē	18
+uka	he	18
 hana	a	18
 kua	fehagai	18
 kua	moumou	18
@@ -4192,7 +4259,6 @@ e	kumi	18
 fakalahi	a	18
 kitia	mo	18
 mamahi	he	18
-teau	e	18
 to	tamai	18
 tufa	tau	18
 iloa	lahi	18
@@ -4338,6 +4404,7 @@ lalolagi	foou	17
 lima	haau	17
 takitokotaha	ke	17
 talitonu	ko	17
+tala	mooli	17
 ha	papelonia	17
 kerisiano	fakauku	17
 lautolu	nei	17
@@ -4349,8 +4416,10 @@ ni	haau	17
 tivi	ke	17
 paleko	ne	17
 vagahau	mitaki	17
+ne	fakamoli	17
 tau	fiti	17
 fakafifitakiaga	ne	17
+moli	he	17
 taute	fakamitaki	17
 fakamalolo	e	17
 matematekelea	a	17
@@ -4440,6 +4509,7 @@ kua	tiaki	17
 mau	ai	17
 he	national	17
 pihia	nakai	17
+tonu	ne	17
 matakainaga	talitonu	17
 ha	sara	17
 faituga	he	17
@@ -4505,11 +4575,13 @@ ka	talia	16
 tagata	pihia	16
 e	fakailoa	16
 fakatonu	atu	16
+kehe	mo	16
 fai	fakakiteaga	16
 kumikumiaga	he	16
 ne	fakaata	16
 e	talaga	16
 e	liliu	16
+atua	po	16
 tau	mogo	16
 tau	fakaliliuaga	16
 kai	a	16
@@ -4732,6 +4804,7 @@ fakafili	e	15
 he	ofisa	15
 nakai	tuku	15
 e	tokoua	15
+mafola	ke	15
 motu	i	15
 e	hafa	15
 tupe	ha	15
@@ -4815,6 +4888,7 @@ kua	ta	15
 fakaalofa	ia	15
 he	fakafetuiaga	15
 malolō	ne	15
+mataala	ke	15
 kelea	ai	15
 fai	he	15
 paulo	hagaao	15
@@ -4894,6 +4968,7 @@ he	hokotaki	15
 tagata	heke	15
 e	hoko	15
 ne	fakamalolō	15
+akau	fakalava	15
 kupu	a	15
 nakai	matutaki	15
 kautu	haana	15
@@ -4972,6 +5047,7 @@ fai	manatu	14
 kehe	ni	14
 pihia	ha	14
 kua	fakaata	14
+kehe	ke	14
 malolo	pule	14
 ke	tohia	14
 luga	mo	14
@@ -5074,6 +5150,7 @@ fakaako	fakalahi	14
 he	afiafi	14
 fe	a	14
 fonua	ha	14
+tautolu	po	14
 fanogonogo	mai	14
 fakamakamaka	ke	14
 uho	ki	14
@@ -5172,6 +5249,7 @@ keli	e	14
 talamai	he	14
 ne	tokihala	14
 mauokafua	to	14
+fulufuluola	he	14
 matua	fakaalofa	14
 loto	ia	14
 mooli	ko	14
@@ -5703,6 +5781,7 @@ fakakite	a	12
 ne	keli	12
 e	ekepoa	12
 mutolu	ne	12
+kehe	ne	12
 a	gagao	12
 kupu	ko	12
 fenoga	loa	12
@@ -5743,6 +5822,7 @@ iki	pule	12
 ko	aperahamo	12
 matagahua	ke	12
 iloilo	ke	12
+kapitiga	haaku	12
 ne	feaki	12
 fakamakutu	e	12
 ti	omoomoi	12
@@ -5829,6 +5909,7 @@ kua	fakatokatoka	12
 matagahua	ne	12
 la	a	12
 e	hāu	12
+e	mataala	12
 he	liga	12
 fakakiteaga	ke	12
 pisinisi	mo	12
@@ -5881,7 +5962,6 @@ mitaki	ia	12
 ka	toka	12
 e	fana	12
 kua	malona	12
-tohi	vakai	12
 kaina	fulufuluola	12
 mau	ki	12
 lologo	he	12
@@ -6044,6 +6124,7 @@ kau	mo	11
 atu	po	11
 ke	fakatonu	11
 he	holo	11
+tau	kaitalofa	11
 to	fakahoko	11
 in	the	11
 mogo	kua	11
@@ -6131,7 +6212,6 @@ he	fifitaki	11
 ta	e	11
 au	to	11
 to	galo	11
-totou	teau	11
 vahā	mitaki	11
 tote	ke	11
 fai	mahina	11
@@ -6222,7 +6302,6 @@ mamate	kua	11
 kua	momoui	11
 tau	miti	11
 tau	kautu	11
-e	tao	11
 he	fuga	11
 kelipopo	tagata	11
 ne	tutuli	11
@@ -6363,6 +6442,7 @@ manamanatuaga	haau	11
 ne	kamatamata	11
 to	ta	11
 foou	ha	11
+he	pahua	11
 to	fakahala	11
 ki	kanana	11
 e	senetenari	11
@@ -6588,6 +6668,7 @@ ne	futia	10
 futia	mai	10
 poaki	mai	10
 fakatai	e	10
+vaha	ha	10
 kakano	a	10
 fakatata	fefe	10
 totonu	mo	10
@@ -6952,6 +7033,7 @@ tau	vakalele	10
 hiva	e	10
 ofoofogia	nei	10
 kua	mauokafua	10
+poi	atu	10
 tonu	faka-atua	10
 nakai	ki	10
 uiina	ke	10
@@ -6989,7 +7071,6 @@ ko	niu	10
 he	minisituli	10
 kupega	he	10
 taute	auloa	10
-ku	a	10
 taha	kaina	10
 nofo-kehe	ke	10
 kua	ligaliga	10
@@ -7004,7 +7085,6 @@ puipui	kua	10
 pehē	nai	10
 hakoe	tau	10
 tau	mauku	10
-vai-huki	covid	10
 puipui	covid	10
 tata	kia	10
 malōlō	tino	10
@@ -7154,6 +7234,7 @@ hake	ki	9
 ke	ula	9
 mai	haau	9
 hifo	ko	9
+matematekelea	ai	9
 mooli	ma	9
 kamata	aki	9
 mahuiga	mo	9
@@ -7216,6 +7297,7 @@ kua	hūhū	9
 e	talahaua	9
 fakailoa	mai	9
 iosefa	mo	9
+tiapolo	ke	9
 he	pulagi	9
 tau	kuli	9
 kua	tututonu	9
@@ -7334,7 +7416,6 @@ monuina	foki	9
 to	tau	9
 a	lima	9
 fakakiteaga	nei	9
-e	teau	9
 maeke	kia	9
 lalolagi	e	9
 hau	mo	9
@@ -7426,7 +7507,6 @@ ko	maria	9
 manatu	foki	9
 lautolu	takitokotaha	9
 nakai	hepe	9
-magaaho	ku	9
 tutupu	ne	9
 e	kamapasi	9
 fakafifitakiaga	nei	9
@@ -7623,6 +7703,7 @@ medical	section	9
 hologa	ha	9
 fakamooli	nei	9
 keriso	mo	9
+moui	moli	9
 fakagahuahua	he	9
 fafo	mo	9
 tula	he	9
@@ -7658,6 +7739,7 @@ a	logonaaga	9
 ata	kifaga	9
 tau	fakamaumauaga	9
 vai-huki	fakagata	9
+vai-huki	covid	9
 vai-huki	pfizer	9
 a	ihu	9
 contact	tracing	9
@@ -7767,6 +7849,7 @@ ne	fakaoti	8
 pule	mai	8
 e	tu	8
 fakatumau	ni	8
+tapuaki	he	8
 ka	fanau	8
 vagahau	ne	8
 he	pū	8
@@ -7873,7 +7956,6 @@ fakakiteaga	ne	8
 fakamakai	ke	8
 tufa	e	8
 tau	kuku	8
-ne	hu	8
 fakamitaki	he	8
 tau	evagelia	8
 tagata	kamuta	8
@@ -8019,6 +8101,7 @@ hikiaga	he	8
 pō	he	8
 tala	i	8
 tau	mekasini	8
+mai	tumau	8
 e	taone	8
 kua	lafi	8
 tuku	fakalataha	8
@@ -8411,6 +8494,7 @@ holoholo	tumau	8
 e	tihe	8
 koho	poke	8
 healthline	he	8
+fufua	haau	8
 koloa	lalahi	8
 foaki	lagomatai	8
 tumau	agaia	8
@@ -8447,7 +8531,6 @@ poke	tohi	8
 potaaga	koloa	8
 fale	haau	8
 huki	kua	8
-vai-huki	mrna	8
 tiviaga	he	8
 puipui	fakakuolenetini	8
 tau	hea	8
@@ -8488,7 +8571,6 @@ mo	sila	8
 a	isaia	8
 ke	tapu	8
 fakahehē	ha	8
-nī	e	8
 puipuiaga	fufua	8
 matakavi	kehekehe	7
 ikipule	a	7
@@ -8591,7 +8673,6 @@ falanaki	e	7
 tau	tonuhia	7
 la	he	7
 liliu	he	7
-tapuaki	he	7
 mahuiga	kua	7
 ke	fakaliliu	7
 falu	mai	7
@@ -8602,7 +8683,6 @@ kia	takitokotaha	7
 niuean	version	7
 e	mamali	7
 a	talahauaga	7
-nī	ke	7
 totogi	tupe	7
 tau	meamea	7
 nai	ti	7
@@ -8632,7 +8712,6 @@ faofao	tumau	7
 toto	haau	7
 e	fafatiaga	7
 to	fakatonu	7
-ke	tao	7
 ke	laga	7
 ke	lagaua	7
 huhu	ne	7
@@ -8673,7 +8752,6 @@ mua	foki	7
 toko	he	7
 he	ikiiki	7
 falaoa	mo	7
-tau	moa	7
 ke	mena	7
 manu	ikiiki	7
 lata	tumau	7
@@ -8749,6 +8827,7 @@ talahaua	ke	7
 kautu	ko	7
 ke	talahaua	7
 fakamonuina	a	7
+iutaia	ko	7
 taha	higoa	7
 he	haia	7
 ekepoa	mo	7
@@ -8806,7 +8885,6 @@ fakamatakutaku	a	7
 eketaha	tumau	7
 kua	fakatuai	7
 kapitiga	e	7
-he	uka	7
 puhala	fakamatala	7
 ni	falu	7
 aga	fakafili	7
@@ -9044,6 +9122,7 @@ fakamaama	aki	7
 ne	tolo	7
 he	lologo	7
 kua	liti	7
+tagata	kaitalofa	7
 manatu	noa	7
 tokanoa	mai	7
 mahani	fakatane	7
@@ -9079,6 +9158,7 @@ agaia	ki	7
 fehola	mai	7
 kupu	mitaki	7
 foaki	fakalahi	7
+mamoe	kehe	7
 he	favaleaga	7
 i	efeso	7
 akonaki	atu	7
@@ -9126,7 +9206,6 @@ he	mohega	7
 liu	fakamoui	7
 kua	mokulu	7
 ke	vihiatia	7
-a	mo	7
 kamatamata	ha	7
 taufetului	mo	7
 ofoofogia	ne	7
@@ -9190,6 +9269,7 @@ matakainaga	oti	7
 agahala	kua	7
 puhala	hepe	7
 mooli	anei	7
+hao	ai	7
 kikila	he	7
 kautu	ia	7
 kua	tui	7
@@ -9246,6 +9326,7 @@ tagata	fou	7
 huo	kehe	7
 moumouaga	he	7
 liga	fakaako	7
+mamoe	ha	7
 moli	ke	7
 ke	fakaholofa	7
 he	tupaaga	7
@@ -9254,7 +9335,6 @@ tokaaga	he	7
 mukemuke	ke	7
 ka	fakatauhele	7
 e	tā	7
-hu	ki	7
 he	lalo	7
 e	atuhau	7
 tapaki	e	7
@@ -9461,7 +9541,6 @@ kua	tafe	7
 fakalutukia	ne	7
 koloa	malona	7
 ne	haohao	7
-totolo	he	7
 he	kuli	7
 kato	koloa	7
 mouga	pa	7
@@ -9610,7 +9689,6 @@ gahua	niue	6
 pauaki	ki	6
 fakailoaaga	ia	6
 fakatokatokaaga	gahua	6
-koe	falu	6
 tohi	oti	6
 ke	vala	6
 tuga	fa	6
@@ -9651,7 +9729,6 @@ aga	ke	6
 fakameā	e	6
 kua	hikihiki	6
 tuai	tuga	6
-sipunu	tī	6
 magafaoa	oti	6
 a	peritania	6
 leveki	ki	6
@@ -9678,7 +9755,6 @@ kua	tokolalo	6
 ne	inu	6
 logona	ha	6
 fakaave	e	6
-ku	e	6
 ke	fakaatukehe	6
 ai	moua	6
 tonu	ni	6
@@ -9698,7 +9774,6 @@ haana	aki	6
 falu	fanau	6
 fuata	he	6
 leo	taogo	6
-tamata	ai	6
 puhala	leveki	6
 moui	taane	6
 atu	pasifika	6
@@ -9782,7 +9857,6 @@ ne	taufetoko	6
 fenoga	ne	6
 ti	fakatū	6
 tote	nei	6
-iutaia	ko	6
 patuiki	i	6
 to	fanau	6
 a	herota	6
@@ -9823,7 +9897,6 @@ liga	fehagai	6
 vale	he	6
 e	fakahao	6
 fakaatukehe	ha	6
-hā	he	6
 nakai	mauokafua	6
 a	ke	6
 latatonu	ia	6
@@ -9887,6 +9960,7 @@ fakafita	a	6
 liga	matakutaku	6
 noa	ki	6
 fakauka	ki	6
+he	uka	6
 fakamatala	haana	6
 mena	tonu	6
 noa	haana	6
@@ -9922,11 +9996,11 @@ ke	mafanatia	6
 ka	matematekelea	6
 pauaki	mai	6
 fakateaga	a	6
-fakafili	tonu	6
 mena	eke	6
 kua	maaliali	6
 talahau	fakamaali	6
 hala	e	6
+hehē	kua	6
 ti	utakehe	6
 ha	mogoia	6
 nakai	fakatupu	6
@@ -9963,6 +10037,7 @@ fakaliliuaga	heperu	6
 fai	moui	6
 fakavaia	e	6
 papelonia	i	6
+e	fakaotioti	6
 kanavaakau	ke	6
 lima	ki	6
 vevehe	ua	6
@@ -9993,11 +10068,13 @@ tote	haana	6
 solomona	ke	6
 lologo	ne	6
 a	eseta	6
+patuiki	tukulagi	6
 ita	haana	6
 fakaako	ne	6
 pauaki	nei	6
 he	tamate	6
 tala	tohi	6
+lahi	hana	6
 tautolu	aki	6
 e	nofoaga	6
 heigoa	kia	6
@@ -10072,6 +10149,7 @@ tua	fale	6
 fulufuluola	lahi	6
 tavita	ne	6
 tau	gahuaaga	6
+tukulagi	ki	6
 katoatoa	mai	6
 ka	tauteute	6
 taha	matagahua	6
@@ -10151,6 +10229,7 @@ solofanua	tokofā	6
 matulei	ha	6
 he	fakamagalo	6
 mena	fakataulatua	6
+fakalava	he	6
 ka	heke	6
 heke	a	6
 koloa	haana	6
@@ -10252,6 +10331,7 @@ hako	po	6
 mogoia	kua	6
 lautolu	foki	6
 he	totoku	6
+a	mo	6
 mautauteute	ke	6
 ke	heigoa	6
 papatiso	ha	6
@@ -10435,7 +10515,6 @@ nakai	fakatauhele	6
 kapitiga	tokotolu	6
 tokotolu	haana	6
 ne	lalahi	6
-he	teau	6
 akau	he	6
 anei	ma	6
 fakamaama	ia	6
@@ -10473,6 +10552,7 @@ he	hila	6
 i	warwick	6
 lata	fēfē	6
 fakamau	tala	6
+mate	ne	6
 kua	hufia	6
 fī	e	6
 uaaki	he	6
@@ -10582,7 +10662,6 @@ lagomatai	malolo	6
 poke	finatu	6
 ai	poke	6
 liu	fale	6
-hā	hā	6
 feleveia	ke	6
 moui	olaola	6
 aho	i	6
@@ -10610,6 +10689,7 @@ he	miq	6
 hokotaki	ke	6
 kautaha	ne	6
 tolo	ke	6
+for	pacific	6
 support	fund	6
 momoui	olaola	6
 pulotu	kumikumi	6
@@ -10669,7 +10749,6 @@ e	totoloaga	6
 is	a	6
 on	the	6
 pine	ke	6
-hu	momi	6
 tagata	fetoko	6
 he	ata	6
 veha	mamao	6
@@ -10693,6 +10772,7 @@ palana	mo	6
 afi	puho	6
 mokulu	ki	6
 e	omicron	6
+totolo	he	6
 mae	taha	6
 mea	mo	6
 ke	uufi	6
@@ -10949,7 +11029,6 @@ malona	mo	5
 he	mamafa	5
 kia	fakaeneene	5
 kai	tuga	5
-fua	moa	5
 tunu	aki	5
 ke	tunu	5
 malolo	mitaki	5
@@ -11308,7 +11387,6 @@ uhu	lologo	5
 nonofo	kehe	5
 kuresa	e	5
 pelu	mo	5
-tau	tao	5
 fekau	mai	5
 vahega	fakaalofa	5
 mana	ne	5
@@ -11320,12 +11398,10 @@ he	penetekoso	5
 a	setefano	5
 fai	lagomataiaga	5
 ke	tufugatia	5
-lahi	hana	5
 mahakitaga	ha	5
 totolo	atu	5
 fakaeneene	a	5
 lagaki	e	5
-tao	mo	5
 fulufuluola	ne	5
 ne	uhu	5
 falu	tama	5
@@ -11355,7 +11431,6 @@ fakamooli	ia	5
 lautolu	mogonei	5
 tagata	fuata	5
 e	momotua	5
-tau	teau	5
 agelu	nei	5
 nakai	tamate	5
 farao	e	5
@@ -11378,7 +11453,6 @@ hana	ita	5
 liga	mailoga	5
 e	kariota	5
 holo	mafiti	5
-mao	kikiha	5
 fakamolulu	mo	5
 toga	lau	5
 to	holo	5
@@ -11432,7 +11506,6 @@ ne	uufi	5
 he	pelu	5
 loto	ni	5
 he	lapatoa	5
-manatu	ni	5
 hahamo	e	5
 he	kautū	5
 e	hao	5
@@ -11646,6 +11719,7 @@ haana	tokotoko	5
 mamate	ai	5
 e	pouli	5
 gutuhala	ha	5
+fakahiku	nei	5
 kana	mai	5
 fakahogohogo	manava	5
 la	ne	5
@@ -11808,6 +11882,7 @@ fakatoka	fēfē	5
 taha	fakahele	5
 to	mauokafua	5
 ka	lafi	5
+koe	falu	5
 kave	tolu	5
 mau	foou	5
 olioli	he	5
@@ -12071,6 +12146,7 @@ vakalele	ne	5
 gahua	au	5
 fiafia	fakatagata	5
 kotofaaga	foou	5
+pahua	he	5
 fakaliliu	ke	5
 fakamua	ato	5
 na	ua	5
@@ -12100,7 +12176,6 @@ tonu	mitaki	5
 veveheaga	kua	5
 monuina	ia	5
 aamotia	lahi	5
-ne	tamata	5
 fekau	haau	5
 toloaga	ke	5
 e	hake	5
@@ -12110,6 +12185,7 @@ gaga	he	5
 hana	i	5
 gagao	ti	5
 utakehe	a	5
+vaha	ne	5
 onoono	fakamakutu	5
 kia	ne	5
 kuenaia	ke	5
@@ -12134,7 +12210,6 @@ makalili	lahi	5
 fakamatala	mai	5
 puipui	haau	5
 fakaagaaga	haau	5
-moui	moli	5
 fakamoli	kua	5
 fifiliaga	hako	5
 e	laveaki	5
@@ -12366,7 +12441,6 @@ muaatu	ke	5
 defence	mo	5
 taha	fakatokatokaaga	5
 e	uufitia	5
-to	hu	5
 puke	mo	5
 fonua	tokoluga	5
 kua	hake	5
@@ -12435,6 +12509,7 @@ hana	ki	5
 tokanoaaga	nei	5
 moua	agaia	5
 ke	fakamakamaka	5
+moli	hagaao	5
 lomi	tohi	5
 talahau	a	5
 tapuina	ha	5
@@ -12561,7 +12636,6 @@ fakamafiti	ai	4
 pepa	oti	4
 a	matagahua	4
 pepa	kua	4
-tau	ohi	4
 mahani	tonu	4
 tau	vili	4
 fai	vili	4
@@ -12807,7 +12881,6 @@ moua	tumau	4
 palana	haau	4
 he	nosi	4
 ua	ula	4
-mao	ahua	4
 lalahi	hake	4
 tau	kona	4
 tapaka	he	4
@@ -12821,12 +12894,10 @@ tala	kia	4
 ne	pulotu	4
 e	isaraela	4
 kitia	atu	4
-at	the	4
 liu	fakamanatu	4
 mena	tau	4
 tugi	e	4
 ti	tu	4
-e	tv	4
 tatai	tumau	4
 fatu	noa	4
 fakatutala	ai	4
@@ -13255,7 +13326,6 @@ vagahau	hake	4
 galo	ne	4
 ne	fā	4
 fakahala	ke	4
-tao	ke	4
 tau	makoi	4
 he	fagai	4
 tokofā	e	4
@@ -13306,7 +13376,6 @@ ai	ato	4
 tua	i	4
 momotua	ke	4
 taha	vahā	4
-teau	miliona	4
 nonofo	mafola	4
 ne	fakatupa	4
 mitaki	anei	4
@@ -13404,6 +13473,7 @@ tau	ai	4
 tau	tukeua	4
 e	ate	4
 tuaga	tututonu	4
+manatu	ni	4
 haana	mogonei	4
 ke	fana	4
 kautū	au	4
@@ -13431,7 +13501,6 @@ ka	fakatū	4
 liu	fatiaki	4
 fulufuluola	a	4
 muitui	mo	4
-matakutaku	aitu	4
 moli	foki	4
 fifine	ki	4
 fiafia	po	4
@@ -13459,7 +13528,6 @@ fefe	au	4
 fakamagalo	a	4
 falu	po	4
 he	moli	4
-ku	ni	4
 utu	vai	4
 tau	matakutaku	4
 tohi	fakamatafeiga	4
@@ -13646,6 +13714,7 @@ au	nakai	4
 matutaki	tumau	4
 paleko	lahi	4
 e	fakamagalo	4
+tukulagi	hana	4
 e	totō	4
 tutala	ni	4
 omoomoi	lahi	4
@@ -13864,7 +13933,6 @@ paionia	i	4
 fahia	ai	4
 hūhū	ha	4
 liga	takitaki	4
-ka	hu	4
 tokotolu	ia	4
 mataio	mo	4
 pehē	hagaao	4
@@ -13951,7 +14019,6 @@ fakapotopotoaga	e	4
 fakamafola	aki	4
 ke	kaihā	4
 watchtower	ia	4
-hā	ia	4
 kia	tala	4
 e	mauhoana	4
 fofoga	ha	4
@@ -13993,7 +14060,6 @@ ka	fakamanatu	4
 tupu	ne	4
 iuta	isakariota	4
 tino	a	4
-a	enei	4
 aposetolo	ha	4
 ne	poa	4
 kula	e	4
@@ -14252,7 +14318,6 @@ fakaeneene	hifo	4
 puhala	ofoofogia	4
 ofisa	mo	4
 magafaoa	mai	4
-teau	tau	4
 fakauka	fakamooli	4
 tokaloto	tumau	4
 e	fakatataiaga	4
@@ -14429,7 +14494,6 @@ kana	ka	4
 gagao	kehekehe	4
 agelu	tua	4
 e	fakakatoatoaaga	4
-vaha	ne	4
 hokoia	ma	4
 mena	hane	4
 holofa	he	4
@@ -14570,7 +14634,6 @@ fakamafana	atu	4
 tupetupe	poke	4
 poke	tekisi	4
 neke	mahani	4
-fufua	haau	4
 gagao	coronavirus	4
 poke	fuafua	4
 holoholo	laupepa	4
@@ -14684,7 +14747,6 @@ fae	moua	4
 fakahanoa	e	4
 osetalia	poke	4
 vai	fakagata	4
-kua	hu	4
 fano	i	4
 tino	kaeke	4
 fakailoaaga	pauaki	4
@@ -14695,6 +14757,7 @@ taha	hagaao	4
 ke	talaage	4
 kitiaaga	he	4
 noa	ti	4
+spike	protein	4
 ke	tau-atu	4
 tau-atu	ke	4
 vai-huki	kua	4
@@ -14721,7 +14784,6 @@ hiki	haau	4
 fakaue	lahi	4
 ltib	nai	4
 he	ltib	4
-hā	ki	4
 magahala	nai	4
 akomena	pasifika	4
 aoga	ikiiki	4
@@ -14759,7 +14821,6 @@ palana	a	4
 fenoga	kaeke	4
 moko	ke	4
 he	work	4
-e	hā	4
 moui	poke	4
 mau	tauteute	4
 and	niue	4
@@ -14818,14 +14879,13 @@ he	letio	4
 lauia	ki	4
 ke	takiva	4
 kuli	e	4
-poke	hu	4
 ti	kitekite	4
 fai	faahi	4
 kautaha	gahua	4
 e	delta	4
 delta	variant	4
 e	palana	4
-e	lita	4
+kato	mo	4
 palana	mae	4
 koloa	uta	4
 ke	fakaputu	4
@@ -14942,7 +15002,6 @@ fakatupa	ke	4
 fakaaue	tumau	4
 a	john	4
 john	mo	4
-moli	hagaao	4
 ka	futia	4
 ti	matakutaku	4
 taleni	mo	4
@@ -14964,6 +15023,7 @@ matafakatufono	ma	4
 mena	patu	4
 he	fakavēaga	4
 hokotaki	nei	4
+kolo	malolō	4
 fakatokaaga	fakamatafakatufono	4
 e	fakatataaga	4
 fakatokaaga	fakatufono	4
@@ -15122,7 +15182,6 @@ fakafili	mai	3
 fakafili	a	3
 poakiaga	tohi	3
 fakamoleaga	he	3
-atu	he	3
 tuai	fakaaoga	3
 kehe	kaeke	3
 kotofaaga	a	3
@@ -15149,7 +15208,6 @@ ha	kotofaaga	3
 kotofaaga	haana	3
 taki	tokotaha	3
 mo	palemia	3
-he	atua	3
 fifiliaga	tonu	3
 na	mo	3
 ma	atua	3
@@ -15373,7 +15431,6 @@ e	fakamalolōaga	3
 puhala	tutala	3
 logonaaga	malolō	3
 fakatupua	a	3
-malolō	he	3
 ke	feofanaki	3
 fai	maamaaga	3
 tiviaga	fakamua	3
@@ -15400,7 +15457,6 @@ e	pene	3
 ono	tau	3
 to	hagahaga	3
 lali	tumau	3
-hā	ko	3
 hanai	ke	3
 tau	mitaki	3
 liga	mukamuka	3
@@ -15428,7 +15484,6 @@ fānau	ke	3
 tumau	foki	3
 taha	kave	3
 tumau	haana	3
-hā	kua	3
 tau	pā	3
 tama	kaeke	3
 tau	ifo	3
@@ -15469,7 +15524,6 @@ fakatokolalo	hifo	3
 taholi	pasikala	3
 ke	poi	3
 uneune	hake	3
-e	moa	3
 tahi	ke	3
 ke	fusi	3
 hui	haau	3
@@ -15506,8 +15560,6 @@ futi	matini	3
 matini	mo	3
 manatu	ma	3
 tapaka	i	3
-tau	mao	3
-e	mao	3
 fio	fakalataha	3
 pū	hio	3
 ula	i	3
@@ -16196,7 +16248,6 @@ aoga	fefe	3
 fakatokolalo	ko	3
 mahani	hula	3
 fehagai	atu	3
-ku	ke	3
 hana	kupu	3
 e	hifo	3
 hifo	ne	3
@@ -16216,7 +16267,6 @@ aua	ia	3
 talitonu	to	3
 fai	fakaveaga	3
 ko	iona	3
-tau	hala	3
 hala	ka	3
 kua	fakapuloa	3
 kelekele	ni	3
@@ -16391,7 +16441,6 @@ taone	i	3
 ko	petelehema	3
 tala	fakamatafeiga	3
 tokaloto	kua	3
-kua	teau	3
 laua	mai	3
 he	hako	3
 e	fakamahaniaga	3
@@ -16424,6 +16473,7 @@ temoni	kua	3
 fekehekeheaki	e	3
 e	fakatolomaki	3
 fakamotu	po	3
+laka	atu	3
 kua	hehē	3
 iehova	kaeke	3
 ne	fakaaue	3
@@ -16660,7 +16710,6 @@ foakiaga	ke	3
 fakamanavalahi	ha	3
 matakainaga	fakauku	3
 fakauku	mo	3
-mamoe	kehe	3
 talahau	ka	3
 asia	tote	3
 kua	akonaki	3
@@ -16803,7 +16852,6 @@ fai	nakai	3
 tupu	tumau	3
 fakapehia	e	3
 makutu	fakaagaaga	3
-hūhū	nā	3
 hikiaga	lalahi	3
 fakaakoaga	anei	3
 tupu	anoiha	3
@@ -16873,6 +16921,7 @@ lologo	ki	3
 taane	fakaalofa	3
 nakai	favale	3
 nakai	hepehepe	3
+moli	ko	3
 vala	kia	3
 taute	ua	3
 he	matatohi	3
@@ -17042,7 +17091,6 @@ iesepela	ke	3
 tamai	falu	3
 hokotaki	kua	3
 a	napota	3
-a	iehu	3
 iutaia	fakamooli	3
 lalagoaga	ke	3
 mua	haau	3
@@ -17323,6 +17371,7 @@ talahau	atu	3
 ahiahi	mo	3
 feua	nai	3
 liga	fakamatala	3
+fakamukamuka	tumau	3
 tino	ko	3
 haga	kehe	3
 fakaaoga	fakalahi	3
@@ -17443,7 +17492,6 @@ kaumahala	ha	3
 kua	fakakaupa	3
 fakamea	tumau	3
 ne	tokaloto	3
-ke	mao	3
 ne	malu	3
 malu	foki	3
 mea	he	3
@@ -18040,7 +18088,6 @@ liku	mo	3
 fakapuloa	atu	3
 ta	tika	3
 he	ta	3
-e	toi	3
 kili	i	3
 he	pou	3
 poke	fakamau	3
@@ -18099,7 +18146,6 @@ fakamau	hoana	3
 fakamauhoana	poke	3
 lago	e	3
 kuata	ke	3
-e	ku	3
 moua	kaeke	3
 ai	koe	3
 kaina	moe	3
@@ -18332,7 +18378,6 @@ he	nai	3
 fakagahua	agaia	3
 e	komuniti	3
 ka	katoatoa	3
-spike	protein	3
 ikiiki	i	3
 code	mo	3
 e	dna	3
@@ -18353,7 +18398,6 @@ fakalaulahi	hagaao	3
 moua	vave	3
 auloa	po	3
 e	fakapapahiaga	3
-mita	mo	3
 o	he	3
 muitua	fakafetuiaga	3
 gagao	ai	3
@@ -18467,7 +18511,6 @@ fale	utu	3
 fale	fakafili	3
 mata	fakamalolō	3
 he	molī	3
-moha	ia	3
 ha	pa	3
 kakano	taha	3
 fakamailoga	posetivi	3
@@ -18477,7 +18520,6 @@ peloafi	kua	3
 mahani	fakamalolō	3
 tihe	ki	3
 lagomatai	lafi	3
-hā	ne	3
 poke	ko	3
 lanu	lau	3
 fakakaupāaga	he	3
@@ -18619,7 +18661,6 @@ hagahagakelea	mo	3
 kae	ua	3
 finaatu	ki	3
 tokoluga	poke	3
-lita	he	3
 pakia	a	3
 taha	kato	3
 a	levekiaga	3
@@ -18660,7 +18701,6 @@ uha	tuli	3
 moumou	poke	3
 moumou	koloa	3
 koloa	ikiiki	3
-hu	ke	3
 ne	muaatu	3
 posetivi	ma	3
 e	rat	3
@@ -18677,6 +18717,7 @@ dwelling	form	3
 e	internet	3
 puhala	puipui	3
 uta	tala	3
+of	these	3
 fakaholo	ke	3
 lau	foki	3
 ota	ke	3
@@ -18684,6 +18725,7 @@ he	paka	3
 koloa	foki	3
 kai	haau	3
 e	fe	3
+fakatokaaga	pauaki	3
 lima	ka	3
 fakakite	mo	3
 kua	fakahū	3
@@ -18841,6 +18883,7 @@ perofeta	mai	3
 tagata	neke	3
 poaki	gutu	3
 ha	ka	3
+akoako	mitaki	3
 hokulo	ne	3
 aga	fakamokoi	3
 fakataitai	fefe	3
@@ -19066,7 +19109,6 @@ fakamatala	ti	3
 e	katharina	3
 a	christoph	3
 omoomoi	fēfē	3
-a	nā	3
 i	kaisaria	3
 kua	laukauka	3
 tohi	kavi	3
@@ -19239,7 +19281,6 @@ omai	pauaki	3
 lautolu	fehola	3
 regional	victoria	3
 fafo	kae	3
-nī	he	3
 pele	he	3
 i	metropolitan	3
 feleveia	ki	3
@@ -19283,7 +19324,6 @@ e	sim	3
 oho	atu	3
 covid	vaccination	3
 vaccination	healthline	3
-numela	nhi	3
 a	kupega	3
 fakatagata	he	3
 lalolagi	lahi	3

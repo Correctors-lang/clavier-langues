@@ -1,84 +1,84 @@
 # Žemaitėška : FineWeb-2 sgs_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-ė	12631
-ėr	6411
-i	6099
-ka	5702
-īr	4417
-bova	3993
-so	3373
-jau	2965
-ėš	2927
-kāp	2205
+ė	12627
+ėr	6409
+i	6095
+ka	5699
+īr	4416
+bova	3990
+so	3371
+jau	2964
+ėš	2926
+kāp	2204
 bet	2123
 sava	1973
 ons	1910
-a	1824
+a	1821
 tas	1748
-vuo	1722
+vuo	1721
 vo	1698
 tik	1633
 pri	1601
-kap	1600
-aš	1584
+kap	1598
 nu	1583
+aš	1583
 ont	1575
-par	1569
-tēp	1471
+par	1566
+tēp	1470
 ī	1468
 tuo	1436
 ta	1421
 ne	1382
-no	1338
-žemaitiu	1316
+no	1336
+žemaitiu	1315
 ana	1264
 ir	1253
-kad	1242
+kad	1241
 kas	1217
-tou	1100
-anuo	1080
-m	1077
-iš	1059
-vėina	1037
+tou	1098
+anuo	1081
+m	1074
+iš	1058
+vėina	1036
 metās	994
 kor	975
-gal	965
+gal	964
 ton	944
-daug	927
-anuos	915
+daug	926
+anuos	914
 če	894
 tėn	893
 dar	871
 aple	848
 ar	834
-o	822
-pat	819
+o	820
+pat	818
 liuob	764
-ož	757
 po	756
+ož	756
 je	756
 žmuonis	754
 anėi	750
 lietovuos	746
 to	745
 dėina	731
-tor	729
+tor	727
 ni	707
-anou	705
-vėsa	683
-pu	671
-taisītė	667
+anou	704
+vėsa	682
+pu	670
+taisītė	666
 anū	664
 rēk	662
 diel	661
 mon	646
 kalba	642
 metu	639
-mūsa	610
+mūsa	608
 žemaitėjės	605
-mona	598
+mona	597
 tuos	595
-būtė	578
+būtė	577
 būs	562
 nuors	561
 vėsė	558
@@ -90,8 +90,8 @@ pas	510
 da	498
 su	496
 kou	489
-anam	475
 tėik	475
+anam	474
 tėi	462
 žemės	458
 kuo	455
@@ -99,35 +99,35 @@ pradiejė	455
 dabar	448
 vėins	446
 katra	444
-pati	443
+pati	442
 aba	437
-karta	435
+karta	434
 lioub	430
 kon	429
 laika	426
-viel	426
+viel	425
 tuoks	419
 dā	418
-būtom	418
+būtom	417
 kalbuos	416
 kėik	416
 lig	404
 kumet	390
-na	388
+na	387
 jog	386
-wiki	383
-mes	376
-miesta	373
+wiki	381
+mes	374
+miesta	372
 katrėi	370
-teksta	368
 tuoki	367
+teksta	367
 dėdlē	366
 tū	365
 nier	364
 be	364
 puo	362
 būn	360
-straipsnė	357
+straipsnė	356
 gerā	352
 žmuoniū	349
 nes	342
@@ -137,7 +137,7 @@ svieta	337
 katras	336
 nie	335
 anon	333
-lietovuo	332
+lietovuo	331
 tus	328
 į	325
 dabā	322
@@ -146,16 +146,16 @@ katros	319
 vėn	313
 tam	312
 lietoviu	311
-kultūras	311
-darba	311
+kultūras	310
+darba	310
 nieks	310
 do	306
 arba	304
-toriejė	301
-ale	299
-yr	297
+toriejė	300
+ale	298
+yr	296
 tonkē	292
-rajuona	291
+rajuona	290
 toukart	289
 palėka	288
 žemaitē	286
@@ -164,7 +164,7 @@ ba	285
 vės	283
 jē	283
 anus	281
-žemė	280
+žemė	279
 gėmė	278
 čė	269
 žemaitėjuo	266
@@ -172,7 +172,7 @@ saka	262
 per	259
 gīven	258
 nū	258
-pėrma	256
+pėrma	255
 prīš	253
 čia	253
 katruo	252
@@ -207,7 +207,7 @@ nuognē	223
 kaima	223
 žemaičių	223
 paskiau	221
-žemaitėška	218
+žemaitėška	217
 kol	216
 miests	215
 šalėp	215
@@ -217,9 +217,9 @@ kaip	210
 eso	210
 gīvenėma	207
 šiaurės	205
-skouda	204
 vėskou	204
-dėrba	203
+skouda	203
+dėrba	202
 tarp	202
 lietuvuos	202
 tep	201
@@ -228,13 +228,13 @@ vėskas	198
 priš	197
 lietova	196
 žemaitėjė	196
-d	195
 euruopas	195
 katruos	195
-mama	195
 tad	194
+mama	193
 gali	193
 gedvė	193
+d	192
 karto	192
 pagal	192
 geriau	192
@@ -244,8 +244,8 @@ anas	192
 kartās	190
 vėlniaus	189
 daba	189
-palē	188
 moni	188
+palē	187
 už	187
 jav	186
 tievs	185
@@ -268,7 +268,7 @@ tava	174
 dainas	174
 kam	172
 ontra	171
-nē	171
+nē	170
 dėinas	169
 bus	168
 vākā	168
@@ -290,11 +290,11 @@ bovau	160
 draugėjės	159
 vakara	159
 istuorėjė	158
-saulės	157
 kaimė	157
 monėi	157
 uns	156
 bat	156
+saulės	156
 kai	154
 dėrbtė	154
 būt	153
@@ -313,10 +313,10 @@ tuokės	146
 saulė	146
 vāka	146
 monės	146
-sāva	146
 mozėkas	145
 posė	145
 žemaitis	145
+sāva	145
 anūm	144
 katrou	144
 aug	143
@@ -324,11 +324,11 @@ katrū	142
 muokīklas	142
 mėška	142
 tuokiū	141
-tėkrā	141
 kara	140
 ronkas	140
 dvara	140
 dainū	140
+tėkrā	140
 koltūras	139
 rosėjės	139
 ruoda	139
@@ -336,8 +336,8 @@ baisē	139
 kā	139
 sena	138
 dalės	138
-dėinuos	138
 vakarū	137
+dėinuos	137
 naujė	137
 rašītė	136
 daugiausē	136
@@ -349,12 +349,12 @@ nikumet	136
 kauna	135
 iki	135
 čieso	134
-buvo	134
 anopris	134
 žemaitėškas	133
 vėsos	133
 vasaras	133
 tėktās	133
+buvo	133
 plungės	133
 šėndėin	132
 svietė	131
@@ -365,13 +365,13 @@ mums	130
 jūras	129
 rajuonė	129
 gīventė	129
-nomū	128
 nuor	128
 tāp	128
 mėrė	127
 miestė	127
 tėk	127
 kalna	127
+nomū	127
 ētė	127
 ēn	126
 praded	126
@@ -398,21 +398,21 @@ kretinguos	118
 gava	117
 rītū	117
 biški	117
-maža	117
-muotrėška	117
 gīvenėms	116
 švėntė	116
 muotina	116
+maža	116
 vėsor	116
+muotrėška	116
 tavi	116
 baltu	115
 ežera	115
 jis	115
 bov	114
 bažnīčė	114
-galiejė	114
 in	114
 uo	114
+galiejė	113
 onkstiau	113
 cėntros	112
 tēpuogė	112
@@ -432,9 +432,9 @@ vākus	109
 ejė	109
 kėtus	108
 nomus	108
-sakė	108
 rasiet	108
 žuodiu	107
+sakė	107
 pėitū	105
 jė	105
 vieliau	105
@@ -445,13 +445,13 @@ muokīkluo	103
 savės	103
 pasakītė	103
 you	103
-petruonė	103
 tarsi	102
 tu	102
 abodo	102
 vėsks	102
 kningas	102
 ēt	102
+petruonė	102
 ėlga	101
 čiesa	101
 pėrmuojė	101
@@ -463,9 +463,9 @@ tink	101
 dėinū	100
 laikās	100
 vīrā	100
-šėrdi	100
 vėskon	99
 kėima	99
+šėrdi	99
 šėrdės	99
 uora	98
 žmuogou	98
@@ -476,7 +476,6 @@ dieva	97
 kėtēp	97
 būto	97
 nuoriejė	97
-savėvaldībės	96
 nuo	96
 liōb	96
 vākū	96
@@ -485,11 +484,12 @@ on	96
 muokslu	95
 darbus	95
 paprastā	95
-tėkra	95
+savėvaldībės	95
 pruojekta	95
 nuori	95
 of	94
 dėdėlė	94
+tėkra	94
 anėms	94
 jolė	94
 šiuo	93
@@ -503,13 +503,13 @@ istuorėjės	92
 atsėrada	92
 tamė	92
 pėina	92
-vīrs	92
 ondou	91
 kuokėi	91
 r	91
 žuodis	91
 kūna	91
 vards	91
+vīrs	91
 vuos	91
 vaikis	91
 vadėnama	90
@@ -523,21 +523,21 @@ sunkē	90
 katramė	89
 pasakė	89
 vāks	89
-kur	89
 šmuota	88
 vėino	88
 jauna	88
 darbs	87
 kuova	87
-e	87
 nego	87
 metas	87
 dongaus	87
+kur	87
 esam	87
 lėg	87
 šėtā	87
 valdė	86
 jied	86
+e	86
 šv	86
 vėsuos	86
 kalbū	86
@@ -556,13 +556,13 @@ savi	84
 dounas	84
 tuokius	84
 meilė	84
-tarmė	84
 lai	84
 balta	83
 kėtor	83
 lauk	83
 tepuogė	83
 negal	83
+tarmė	83
 tavės	83
 bėški	83
 tek	82
@@ -625,7 +625,6 @@ varda	75
 ondėns	75
 ronka	75
 žemaičiu	75
-ans	74
 aplė	74
 kū	74
 muoksla	74
@@ -633,6 +632,7 @@ muokies	74
 galė	74
 čiesos	74
 man	74
+ans	73
 trīs	73
 kronta	73
 žuodē	73
@@ -725,24 +725,23 @@ gražē	65
 nikāp	65
 anās	64
 sodara	64
-v	64
 prasided	64
 teisės	64
 vikipedėjė	64
 bėndrėnė	64
 prūda	64
 vėdorie	64
-dieltuo	64
 muokīkluos	64
 paveizietė	64
 varga	64
 vėsam	63
 vīka	63
-c	63
+v	63
 pasaulie	63
 kartu	63
 ant	63
 dėdėle	63
+dieltuo	63
 niekam	63
 švėnta	63
 gautė	63
@@ -834,11 +833,11 @@ bovuom	58
 tuokiuos	58
 gaspaduorios	58
 īra	58
-longa	58
 lioubam	58
 y	57
 bažnīčės	57
 kartus	57
+c	57
 vėso	57
 katalėku	57
 lietovėškā	57
@@ -848,18 +847,17 @@ nomūs	57
 pasauli	57
 bieg	57
 atruodė	57
+longa	57
 vaina	56
 konėgs	56
 konėgū	56
 mozėka	56
-g	56
 komandas	56
 apėntās	56
 auksa	56
 dous	56
 galvuo	56
 vadėn	56
-šeima	56
 dainioutė	56
 patėka	56
 aiškē	56
@@ -869,12 +867,12 @@ prie	56
 vondėns	56
 bikon	56
 žemaiťiu	56
-patsā	55
 baltėjės	55
 prezidėnta	55
 ded	55
 as	55
 patės	55
+šeima	55
 nors	55
 šuoktė	55
 muok	55
@@ -888,6 +886,7 @@ xvi	54
 ciela	54
 daktars	54
 euruopuo	54
+patsā	54
 bovė	54
 pasaulė	54
 laikė	54
@@ -901,7 +900,6 @@ dielkuo	54
 korėi	54
 granauskė	54
 bolvės	54
-gīvs	53
 vītauta	53
 straipsniu	53
 viera	53
@@ -925,6 +923,7 @@ atējė	53
 žemaite	53
 barbė	53
 vėliau	52
+gīvs	52
 dūšės	52
 omžiou	52
 paskum	52
@@ -939,7 +938,6 @@ jiestė	52
 jie	52
 puora	52
 plateliū	52
-pamatė	52
 kūrība	52
 kūrības	51
 žīdu	51
@@ -965,6 +963,7 @@ veiz	51
 pamatītė	51
 un	51
 velnė	51
+pamatė	51
 omžio	51
 luovas	51
 tuokio	50
@@ -987,11 +986,11 @@ parašė	49
 pėitu	49
 svarbos	49
 gėmėma	49
-paukštē	49
 sūnos	49
 metos	49
 žaid	49
 dvarė	49
+g	49
 vakarus	49
 šeimuo	49
 kūlis	49
@@ -1006,6 +1005,7 @@ mergātės	49
 negalio	49
 būdava	49
 vėsuokiū	48
+paukštē	48
 daugībė	48
 seima	48
 patīs	48
@@ -1040,8 +1040,6 @@ medē	47
 prigol	47
 veizietė	47
 ožgavieniu	47
-skėrta	47
-jo	47
 valgītė	47
 veselė	47
 jaunima	47
@@ -1056,18 +1054,19 @@ dalīka	46
 šaliū	46
 lėka	46
 muokslus	46
-b	46
 sājongas	46
 skėras	46
 galio	46
 patiuo	46
 idiejė	46
+skėrta	46
 tievū	46
 sied	46
 šalta	46
 klaipieda	46
 eilieraštius	46
 žėnuojė	46
+jo	46
 visi	46
 juonėniu	46
 telšiūs	46
@@ -1143,6 +1142,7 @@ valstībiu	43
 anims	43
 bėndra	43
 pavadėnėma	43
+b	43
 kalns	43
 dainė	43
 kaliedu	43
@@ -1192,7 +1192,6 @@ your	42
 vasarė	41
 galem	41
 fuolkluora	41
-laimės	41
 gamta	41
 ondens	41
 vadėna	41
@@ -1220,7 +1219,6 @@ matė	41
 u	41
 ondėni	41
 kėla	41
-tradicėjės	41
 vielevas	41
 mažeikiūs	41
 juona	41
@@ -1231,13 +1229,13 @@ papasakuojė	41
 kieli	41
 rēkala	41
 sakau	41
-tarmės	41
 nerēk	41
 raidės	41
 nagaliejė	41
 daugoma	40
 dongou	40
 čiesu	40
+laimės	40
 stodėntā	40
 pėitūs	40
 baltas	40
@@ -1247,13 +1245,13 @@ pėlna	40
 tuokēs	40
 šou	40
 akademėjės	40
+tradicėjės	40
 žuolė	40
 vieleva	40
 doutė	40
 greitā	40
 žuolės	40
 omžiu	40
-turi	40
 tavėm	40
 jok	40
 tėkrūju	40
@@ -1263,6 +1261,7 @@ doktie	40
 žemaitėškus	40
 tarmies	40
 kuol	40
+tarmės	40
 muokytuojė	40
 nomūsė	40
 amerėkas	39
@@ -1292,6 +1291,7 @@ sokortė	39
 šėlta	39
 muotrėšku	39
 nuoro	39
+turi	39
 jego	39
 tīlē	39
 ruoduos	39
@@ -1338,7 +1338,6 @@ jūzaps	38
 jolės	38
 šėrdie	38
 prieteliu	37
-liaudėis	37
 rokounas	37
 vikipedėjės	37
 dėdesnė	37
@@ -1376,6 +1375,7 @@ miestu	36
 buva	36
 karalios	36
 prancūzu	36
+liaudėis	36
 tebier	36
 dėdliausės	36
 sala	36
@@ -1472,7 +1472,6 @@ pavelda	34
 vikipedėjuo	34
 patio	34
 pabėnguo	34
-ėšruod	34
 klasės	34
 pabūdavuota	34
 būda	34
@@ -1489,7 +1488,6 @@ akiū	34
 akies	34
 suodas	34
 būtų	34
-er	34
 važiava	34
 būk	34
 rodėns	34
@@ -1518,6 +1516,7 @@ apīlinkies	33
 galieto	33
 rasa	33
 tuoms	33
+ėšruod	33
 tėkros	33
 jem	33
 keli	33
@@ -1535,6 +1534,7 @@ darboutėis	33
 ougas	33
 gīvuolius	33
 žėnuotė	33
+er	33
 žėnā	33
 vakarās	33
 salontū	33
@@ -1674,7 +1674,6 @@ vadėnuos	30
 mėškė	30
 varniū	30
 pradiets	30
-alaus	30
 senas	30
 nikuokė	30
 seminarėjė	30
@@ -1709,7 +1708,6 @@ radas	30
 bėndrėnės	30
 nežėnau	30
 tėisē	30
-n	30
 lītaus	30
 ansamblė	30
 nogara	30
@@ -1740,11 +1738,11 @@ indėjės	29
 kiedainiu	29
 pėlėis	29
 kapā	29
+alaus	29
 rajuonūs	29
 atsėrond	29
 muokītuos	29
 etnėnės	29
-krontė	29
 muokīklu	29
 ūkie	29
 lapa	29
@@ -1798,7 +1796,6 @@ saluos	28
 baimė	28
 stėpros	28
 respoblėka	28
-tarība	28
 vėdotėnė	28
 vīna	28
 spalvū	28
@@ -1806,7 +1803,6 @@ ketorė	28
 senuovės	28
 līguo	28
 autuoriu	28
-parašīta	28
 if	28
 nauduojama	28
 dėdli	28
@@ -1815,6 +1811,7 @@ dalėis	28
 laikuoma	28
 vėišuosės	28
 sviets	28
+krontė	28
 vėsuokiausiu	28
 vāku	28
 geresnė	28
@@ -1836,7 +1833,6 @@ išejė	28
 galū	28
 pajota	28
 arklīs	28
-matau	28
 poezėjės	28
 kuostiuma	28
 vākās	28
@@ -1856,6 +1852,7 @@ laida	27
 with	27
 žemaitiū	27
 tie	27
+tarība	27
 šiaures	27
 san	27
 senū	27
@@ -1864,6 +1861,7 @@ karaliaus	27
 galūnės	27
 leid	27
 miestalie	27
+parašīta	27
 galam	27
 gelžkelė	27
 aukštoma	27
@@ -1907,6 +1905,7 @@ rinktė	27
 sīluos	27
 dainuos	27
 patē	27
+matau	27
 prė	27
 vondėni	27
 leida	27
@@ -1965,7 +1964,6 @@ medėnės	26
 kėtūs	26
 rodou	26
 pavīka	26
-energėjės	26
 ivīka	26
 kninguo	26
 ronkuom	26
@@ -1989,6 +1987,7 @@ mamalė	26
 atsakė	26
 toriejau	26
 goliejė	26
+n	26
 sosėtėktė	26
 bėtės	26
 latvių	26
@@ -2009,7 +2008,6 @@ vertė	25
 dėdle	25
 dvi	25
 com	25
-sauguotė	25
 kg	25
 miestalis	25
 nato	25
@@ -2020,7 +2018,6 @@ sistema	25
 mėnavuojams	25
 veikies	25
 gyven	25
-mėnavuojama	25
 mažuojė	25
 žemaitijuo	25
 vėdorėnės	25
@@ -2048,16 +2045,15 @@ ontruojė	25
 tema	25
 bažnīčiuo	25
 idiejės	25
+energėjės	25
 veiktė	25
 atvažiava	25
 naujus	25
 karšta	25
 juokiū	25
-org	25
 valgyti	25
 skanē	25
 tikrai	25
-neso	25
 dieną	25
 šin	25
 pasakuotė	25
@@ -2084,6 +2080,7 @@ onėversėteta	24
 sėik	24
 rosėjuo	24
 žmuogu	24
+sauguotė	24
 dvasės	24
 atlaidus	24
 rinka	24
@@ -2098,6 +2095,7 @@ gausē	24
 žaidėms	24
 paskelbtė	24
 el	24
+mėnavuojama	24
 kaina	24
 adīna	24
 žemē	24
@@ -2133,12 +2131,14 @@ katrėj	24
 parapėjės	24
 dėinā	24
 bėngas	24
+org	24
 vėdori	24
 šiaudū	24
 šnekiejė	24
 radėjė	24
 galo	24
 soprata	24
+neso	24
 kartą	24
 tiek	24
 gīvė	24
@@ -2315,7 +2315,6 @@ mm	22
 infuormacėjė	22
 at	22
 rūmā	22
-plaukā	22
 malda	22
 velīkas	22
 adīnas	22
@@ -2402,7 +2401,6 @@ draugs	21
 nauja	21
 konėgākštis	21
 miestā	21
-x	21
 vīskopa	21
 neštė	21
 kėlst	21
@@ -2420,6 +2418,7 @@ vos	21
 nūnā	21
 prezidėnto	21
 švėntuosės	21
+plaukā	21
 azėjės	21
 aplinkuos	21
 valstībē	21
@@ -2492,7 +2491,6 @@ kūrėnius	21
 klasiu	21
 šis	21
 nuora	21
-ū	21
 rašuoma	21
 geriausė	21
 paveiziejė	21
@@ -2598,7 +2596,6 @@ darbo	20
 naujės	20
 aukštė	20
 narie	20
-ėm	20
 gėliau	20
 solaukė	20
 visą	20
@@ -2684,7 +2681,6 @@ onėversėtetė	19
 katrė	19
 seniausiu	19
 bavēk	19
-tė	19
 bluoga	19
 bažnīčes	19
 mėšės	19
@@ -2753,7 +2749,6 @@ keliu	19
 žadiejė	19
 istuorėks	19
 lietovis	19
-č	19
 kūries	19
 amerėkuo	19
 posiau	19
@@ -2798,7 +2793,6 @@ vīrėšks	19
 dailininks	19
 tabuoka	19
 atneš	19
-šėn	19
 šī	19
 liūdna	19
 keista	19
@@ -2954,6 +2948,7 @@ draugū	18
 rūka	18
 katru	18
 pėnkė	18
+šėn	18
 būsio	18
 kultūrėnė	18
 danutė	18
@@ -2961,7 +2956,6 @@ joukas	18
 pėnkiū	18
 valgė	18
 šalts	18
-rasintās	18
 bėjuojė	18
 papartė	18
 senėijē	18
@@ -2990,19 +2984,16 @@ pernā	18
 varė	18
 šauktė	18
 ketoris	18
-plungė	18
 trys	18
 panaši	18
 reek	18
 nebgaliejė	18
 mūs	18
-ō	18
 vīrou	18
 kairė	18
 inpormacėjė	18
 tuokėj	18
 barbelė	18
-jeruonims	18
 kūmas	18
 kamara	18
 dėkte	18
@@ -3082,7 +3073,6 @@ sīkiu	17
 juo	17
 lia	17
 svarbi	17
-z	17
 cėntro	17
 akcėjės	17
 žėnklos	17
@@ -3151,6 +3141,7 @@ pėnkės	17
 žemaitija	17
 sūno	17
 rūp	17
+rasintās	17
 vainėkus	17
 vaišės	17
 taks	17
@@ -3200,6 +3191,7 @@ stalo	17
 kuokiūm	17
 veltou	17
 takā	17
+plungė	17
 jims	17
 kuokio	17
 siekla	17
@@ -3216,7 +3208,6 @@ me	17
 natuolėi	17
 tōn	17
 būna	17
-ą	17
 but	17
 gėrdiejės	17
 žemelė	17
@@ -3226,6 +3217,7 @@ virsta	17
 tuokart	17
 krāšta	17
 mindauga	17
+jeruonims	17
 jauji	17
 mamunēlės	17
 kėp	17
@@ -3304,7 +3296,6 @@ klasie	16
 onglėjės	16
 puoets	16
 paukštė	16
-f	16
 ōžouls	16
 rokava	16
 regėjuonā	16
@@ -3345,7 +3336,6 @@ mėiguotė	16
 pasakuos	16
 tievīnė	16
 kūli	16
-pasakės	16
 senās	16
 mada	16
 noētė	16
@@ -3437,7 +3427,6 @@ would	16
 lauko	16
 pristatė	16
 kūrėma	16
-ė̅	16
 kuora	16
 kuojuom	16
 local	16
@@ -3594,6 +3583,7 @@ valstybės	15
 taigi	15
 bolbiu	15
 gelžėnė	15
+pasakės	15
 gabala	15
 idietė	15
 kėtūm	15
@@ -3637,7 +3627,6 @@ kuokēs	15
 vara	15
 leidėnė	15
 ateitė	15
-baltās	15
 vaisios	15
 klėbuons	15
 tarpās	15
@@ -3819,7 +3808,6 @@ vielės	14
 mintė	14
 vėršūnė	14
 gaisra	14
-h	14
 valdē	14
 pavadėnėmu	14
 tīrėma	14
@@ -3872,7 +3860,6 @@ pruotieviu	14
 koriou	14
 aukštaitē	14
 kamėna	14
-ž	14
 vartu	14
 gelžėis	14
 jausmū	14
@@ -3965,6 +3952,7 @@ ognelė	14
 vaistus	14
 dontėis	14
 vāsara	14
+baltās	14
 krūtėnė	14
 siūtė	14
 brongos	14
@@ -4114,7 +4102,6 @@ turietė	13
 rūpėnas	13
 kuomanda	13
 pusie	13
-onkstīva	13
 aktīvos	13
 disertacėjė	13
 dešimtis	13
@@ -4300,7 +4287,6 @@ mažeikių	13
 menėnė	13
 platės	13
 nablėka	13
-kitų	13
 pavardies	13
 ek	13
 biegs	13
@@ -4360,7 +4346,6 @@ mokīkla	12
 būtent	12
 onsā	12
 mašinu	12
-teises	12
 kaltė	12
 krėkštiuonībė	12
 ivairės	12
@@ -4419,7 +4404,6 @@ medėcėnas	12
 vėdoromžiu	12
 torgou	12
 vakaru	12
-istuorėku	12
 herbė	12
 ansamblē	12
 tv	12
@@ -4489,6 +4473,7 @@ gīvens	12
 vaduovā	12
 septīniū	12
 kalb	12
+onkstīva	12
 saulieta	12
 valdžė	12
 lietovio	12
@@ -4636,7 +4621,6 @@ juonėnės	12
 sosiedu	12
 swine	12
 lonkas	12
-oi	12
 šešė	12
 nebžėnau	12
 neblėka	12
@@ -4697,6 +4681,7 @@ tarmėška	12
 krūmā	12
 diutuo	12
 kuožnuo	12
+kitų	12
 palėkė̄s	12
 plaukiuo	12
 savuotėšks	12
@@ -4726,7 +4711,6 @@ ateis	12
 žėdėkū	12
 administracėnė	12
 kūryba	12
-či	12
 lietuva	12
 pluokštė	12
 žaizda	12
@@ -4767,7 +4751,6 @@ pasakuot	12
 mažomū	12
 zuzana	12
 flag	12
-vitālėjė	12
 muotinēlė	12
 paežeriūsė	12
 vuonelė	12
@@ -4777,6 +4760,7 @@ suostėne	11
 diestītuos	11
 mašėnas	11
 imperatuorios	11
+teises	11
 laikraštiūs	11
 papruotē	11
 nīkst	11
@@ -4813,7 +4797,6 @@ grozėjė	11
 salontūs	11
 laivū	11
 jūrū	11
-lr	11
 medicinas	11
 uoršas	11
 pajiegas	11
@@ -4833,6 +4816,7 @@ bos	11
 mažiausē	11
 gropiu	11
 tradicėnė	11
+istuorėku	11
 pabaiga	11
 gedėmėna	11
 kariava	11
@@ -4887,7 +4871,6 @@ mėlėjuona	11
 rinkini	11
 dėigtė	11
 iduomė	11
-taisė	11
 puortėgrapėjės	11
 karėnė	11
 devė	11
@@ -4907,7 +4890,6 @@ dainu	11
 krautovės	11
 ožbėngė	11
 bajuoru	11
-iv	11
 būsėmasis	11
 kateguorėjės	11
 rets	11
@@ -4957,10 +4939,8 @@ laivos	11
 žemaitėškuo	11
 pareiga	11
 kanadas	11
-il	11
 atėdavė	11
 gīvenvėitės	11
-pagada	11
 tonkė	11
 veneras	11
 gėntis	11
@@ -5089,7 +5069,6 @@ gīvulius	11
 darbos	11
 apkabėna	11
 ėlgās	11
-ougu	11
 žovėis	11
 nejė	11
 vabals	11
@@ -5175,7 +5154,6 @@ pagoldė	11
 bovėma	11
 radės	11
 sorėštė	11
-nuotrauka	11
 jimtė	11
 liodvėka	11
 grajėjė	11
@@ -5249,6 +5227,7 @@ tiktas	11
 loukės	11
 kōn	11
 kvėitėnius	11
+vitālėjė	11
 gargždus	11
 razė	11
 petruonē	11
@@ -5325,7 +5304,6 @@ autoriaus	10
 sotvarkītė	10
 indienu	10
 dėdesnės	10
-prekiu	10
 vėsuom	10
 greitiau	10
 uobjekts	10
@@ -5392,6 +5370,7 @@ name	10
 mana	10
 vieju	10
 mažėns	10
+taisė	10
 šlapės	10
 ilgai	10
 neprastā	10
@@ -5476,6 +5455,7 @@ prancūzėjuo	10
 krīptės	10
 abruozdielis	10
 gomtuo	10
+pagada	10
 mėgla	10
 nelabā	10
 kūčiu	10
@@ -5513,7 +5493,6 @@ līgintė	10
 mėslėji	10
 marškėnē	10
 sunku	10
-muotrėškelė	10
 nuotraukas	10
 praeiti	10
 priveizietė	10
@@ -5555,7 +5534,6 @@ ouga	10
 nuejau	10
 ētont	10
 nuosė	10
-te	10
 mustās	10
 linksmiau	10
 nenuoriejė	10
@@ -5637,6 +5615,7 @@ debesės	10
 šaukė	10
 vat	10
 lėnūm	10
+ougu	10
 namuose	10
 nelaimė	10
 viežīs	10
@@ -5693,7 +5672,6 @@ garsē	10
 saldė	10
 miestelio	10
 pjaus	10
-amata	10
 žingsni	10
 pėliakalnė	10
 gaidi	10
@@ -5761,6 +5739,7 @@ auguom	10
 ėšēsi	10
 gīvuoli	10
 bagduons	10
+nuotrauka	10
 šlapi	10
 ūkininkā	10
 šią	10
@@ -5958,6 +5937,7 @@ oficialē	9
 vėitėnē	9
 esontės	9
 padieti	9
+prekiu	9
 išēt	9
 skėrtoma	9
 pėrmūju	9
@@ -6043,7 +6023,6 @@ geltuonė	9
 gaspaduoriu	9
 posrītē	9
 laureats	9
-atradėmu	9
 ožtat	9
 nerada	9
 uofėcēlē	9
@@ -6076,7 +6055,6 @@ aukuos	9
 rugpjūtė	9
 karėnės	9
 stodėjoun	9
-kateguorėjė	9
 čempijuonat	9
 iēt	9
 gamėn	9
@@ -6157,7 +6135,6 @@ talėnta	9
 blezdingas	9
 martīna	9
 žvaizdie	9
-doju	9
 vardās	9
 pasninka	9
 kūčės	9
@@ -6188,7 +6165,6 @@ dirba	9
 kond	9
 gyvenimo	9
 jai	9
-ja	9
 bikāp	9
 balondis	9
 atneštė	9
@@ -6201,6 +6177,7 @@ soktė	9
 mėigt	9
 mīlo	9
 nebuvo	9
+muotrėškelė	9
 moteris	9
 naujienos	9
 niekas	9
@@ -6242,6 +6219,7 @@ torgu	9
 daržus	9
 pols	9
 žanintėis	9
+te	9
 atvažioun	9
 klausaus	9
 sožėnuojau	9
@@ -6283,7 +6261,6 @@ pleckaitis	9
 sosėtėkėms	9
 demuokratu	9
 maluonė	9
-uab	9
 dėdlīsis	9
 rieda	9
 ragus	9
@@ -6396,6 +6373,7 @@ taukū	9
 dīna	9
 prijem	9
 bėngiau	9
+amata	9
 tů	9
 skolptūras	9
 ejuom	9
@@ -6435,7 +6413,6 @@ sodiejė	9
 linksmībės	9
 kuožnamė	9
 alkieriaus	9
-nr	9
 version	9
 metra	9
 rėngini	9
@@ -6669,7 +6646,6 @@ puolitėnis	8
 nums	8
 ožėmė	8
 vienam	8
-fuorma	8
 sonaikintė	8
 fizėkas	8
 līgos	8
@@ -6712,7 +6688,6 @@ tautībės	8
 seniūnėjuo	8
 sorastė	8
 sālīgu	8
-kar	8
 euru	8
 revoliucėjės	8
 paslaugū	8
@@ -6760,7 +6735,6 @@ pavasarie	8
 akcėjū	8
 rėnkėmos	8
 kėrstė	8
-soteiktas	8
 valstiaus	8
 svarbiausius	8
 šėtas	8
@@ -6836,6 +6810,7 @@ aukštesnė	8
 paprastiau	8
 atsakīms	8
 snaps	8
+atradėmu	8
 vėlkavėškė	8
 apsėžanėjės	8
 japuonu	8
@@ -6847,7 +6822,6 @@ pavadints	8
 vėišpats	8
 sokortas	8
 sauguoms	8
-ma	8
 rūtas	8
 rūta	8
 jauni	8
@@ -6890,14 +6864,12 @@ kovuos	8
 kūn	8
 ėškelta	8
 puortėgrapėjė	8
-atšakas	8
 vieruo	8
 antanas	8
 audra	8
 formas	8
 zopės	8
 sausos	8
-apvali	8
 liuteruonu	8
 rūšiu	8
 daržuoviu	8
@@ -6956,13 +6928,13 @@ pardavės	8
 liberalu	8
 jong	8
 internets	8
-ip	8
 daugelie	8
 kortėis	8
 mienesius	8
 beržos	8
 kviedarnas	8
 aušrėnė	8
+doju	8
 panašės	8
 audras	8
 kraun	8
@@ -7108,6 +7080,7 @@ valstėjės	8
 žalgiris	8
 uoperas	8
 režisierios	8
+uab	8
 pruocėntu	8
 varūnas	8
 čīsts	8
@@ -7519,7 +7492,6 @@ vuors	8
 prancėškuonu	8
 ūsius	8
 dvigarsiu	8
-kl	8
 pažėnuojė	8
 medžeguos	8
 pilies	8
@@ -7566,7 +7538,6 @@ bėtininka	8
 nasunkē	8
 vaduoveliūs	8
 krikštynas	8
-kūmai	8
 bažnīnčės	8
 valerija	8
 dāra	8
@@ -7582,9 +7553,7 @@ jės	8
 senēliu	8
 okrainas	8
 tvens	7
-itakas	7
 noriejė	7
-mėr	7
 marks	7
 varlie	7
 grenlandėjės	7
@@ -7618,6 +7587,7 @@ nauduotuoju	7
 aukštuosės	7
 ad	7
 telp	7
+fuorma	7
 masės	7
 neigiama	7
 rosā	7
@@ -7712,6 +7682,7 @@ pruoblemu	7
 centrėnės	7
 prezidents	7
 varšovas	7
+soteiktas	7
 gvaraniu	7
 dinastėjė	7
 profesuorios	7
@@ -7766,7 +7737,6 @@ apple	7
 john	7
 puolėtėkas	7
 krīžē	7
-vi	7
 knīnga	7
 baguots	7
 numūs	7
@@ -7845,6 +7815,7 @@ dailėninks	7
 klaipėdos	7
 teismū	7
 kapuotė	7
+kateguorėjė	7
 neleid	7
 vėskam	7
 niu	7
@@ -7878,12 +7849,14 @@ kursus	7
 straipsn	7
 torėntė	7
 refuormacėjės	7
+atšakas	7
 valdītuos	7
 aktuorė	7
 palaikīma	7
 notėkėms	7
 diestītė	7
 panauduotė	7
+apvali	7
 dzūkėjuo	7
 žvėrblē	7
 pošis	7
@@ -8323,7 +8296,6 @@ galībė	7
 balsās	7
 paveiziet	7
 kepdava	7
-up	7
 dėdiausė	7
 tī	7
 informacijos	7
@@ -8346,7 +8318,6 @@ apatėnė	7
 okatas	7
 lervas	7
 vėršos	7
-keisti	7
 persirengėlių	7
 gerokai	7
 mondroms	7
@@ -8444,7 +8415,6 @@ sėmuona	7
 lenėna	7
 paskīra	7
 gerbieju	7
-puoselie	7
 tuokë	7
 stasīs	7
 asmenėškā	7
@@ -8731,6 +8701,7 @@ bėtininku	7
 privėlegėjės	7
 krīžeiviu	7
 nagėrdiejė	7
+kūmai	7
 kūmo	7
 brīlios	7
 šuonė	7
@@ -8771,6 +8742,7 @@ viešojoje	7
 ontkaklė	7
 lukuošienė	7
 tvenkėnis	7
+itakas	6
 muokytėis	6
 rašyt	6
 anglėška	6
@@ -8862,7 +8834,6 @@ gīvenė	6
 klaipiedos	6
 ivairiūs	6
 valstībėnis	6
-gīv	6
 zuona	6
 pramuonėniu	6
 ėspanā	6
@@ -9186,8 +9157,6 @@ rūpestio	6
 septīnis	6
 irėngta	6
 sovietū	6
-bovo	6
-px	6
 ekuonomėnė	6
 provincėjės	6
 baigies	6
@@ -9533,7 +9502,6 @@ apveiziejė	6
 šokas	6
 pašalie	6
 kapelius	6
-tabie	6
 kaimu	6
 pavelds	6
 sriuba	6
@@ -9610,7 +9578,6 @@ baltic	6
 stalina	6
 flu	6
 globally	6
-ca	6
 gėmė̄s	6
 ėšgarsiejė	6
 priēs	6
@@ -9845,6 +9812,7 @@ gīvenontiu	6
 uorgans	6
 kiaušė	6
 dīka	6
+keisti	6
 jodietė	6
 uoda	6
 tėisė	6
@@ -9984,7 +9952,6 @@ auklė	6
 pastaba	6
 nulēda	6
 neveiziejė	6
-veizam	6
 karštēs	6
 kauneckis	6
 arklieli	6
@@ -10013,6 +9980,7 @@ nežėnuojuom	6
 rauda	6
 papruotiū	6
 liciejos	6
+puoselie	6
 pasus	6
 narius	6
 pasos	6
@@ -10113,7 +10081,6 @@ vertėna	6
 jautrė	6
 šneko	6
 paveiziek	6
-muoki	6
 nējė	6
 juovala	6
 nešėna	6
@@ -10136,6 +10103,7 @@ bažninčē	6
 gyventojų	6
 šalteniūs	6
 sopėltė	6
+up	6
 vuožė	6
 inicētīvas	6
 paslaugu	6
@@ -10498,7 +10466,6 @@ namā	5
 brėtu	5
 studėjava	5
 pruoduktus	5
-nas	5
 nežėnuoma	5
 aštrė	5
 ivesta	5
@@ -10665,7 +10632,6 @@ keliūs	5
 nacēnalėnė	5
 eurovėzėjės	5
 ali	5
-būdėngs	5
 paklausa	5
 ėšvada	5
 nostatītė	5
@@ -10678,7 +10644,6 @@ ivīkst	5
 fėluosuops	5
 praejos	5
 žėnuomiausiu	5
-vienintelė	5
 miestou	5
 būdingas	5
 juonavuos	5
@@ -10704,7 +10669,6 @@ rajuone	5
 art	5
 puopierios	5
 ėšplėtosė	5
-žaliavū	5
 krėstė	5
 notrūka	5
 rezoltatė	5
@@ -10741,7 +10705,6 @@ istatīmus	5
 rogpjūti	5
 laukovuos	5
 donguos	5
-kėikė	5
 dėdliuoji	5
 dėrvuonā	5
 bē	5
@@ -11474,6 +11437,7 @@ laukiau	5
 viešuojuo	5
 sotarėma	5
 dejou	5
+tabie	5
 kūlupienu	5
 žodyną	5
 galvū	5
@@ -11570,7 +11534,6 @@ gripo	5
 jaustėis	5
 bornas	5
 full	5
-co	5
 stanislava	5
 stripinienė	5
 skėnda	5
@@ -11608,7 +11571,6 @@ galimībė	5
 kvietkelė	5
 augalos	5
 stėibū	5
-lapelēs	5
 ožsakus	5
 soejė	5
 vaikieliu	5
@@ -12015,7 +11977,6 @@ robliu	5
 ėšsėgondau	5
 parobkē	5
 bėškieli	5
-jaus	5
 perenė	5
 grūdūm	5
 praēs	5
@@ -12049,7 +12010,6 @@ vesieliu	5
 kalbūm	5
 nomielis	5
 oždiejė	5
-bota	5
 karštiu	5
 ežiu	5
 sodžiūvės	5
@@ -12067,7 +12027,6 @@ stombrė	5
 miestaliu	5
 rektuorio	5
 glaudies	5
-šėinpjūtė	5
 driegnuos	5
 prasidėjo	5
 spruogst	5
@@ -12197,7 +12156,6 @@ any	5
 write	5
 just	5
 sentences	5
-history	5
 create	5
 naudotojo	5
 līgiaus	5
@@ -12231,6 +12189,7 @@ pažīsto	5
 stėngous	5
 šluovies	5
 monāsis	5
+muoki	5
 drebiejė	5
 apējė	5
 nuorietomi	5
@@ -12380,7 +12339,6 @@ pamuokslu	5
 kasdėinībės	5
 galiejau	5
 bausmė	5
-patėkiejė	5
 ognis	5
 noskriausta	5
 ėlgės	5
@@ -12496,7 +12454,6 @@ ožmuokietė	5
 dīvėjuos	5
 biegsi	5
 mergoželė	5
-jaš	5
 ėšsėvežė	5
 ramta	5
 jiemiau	5
@@ -12617,7 +12574,6 @@ sieduos	5
 nenuori	5
 begaliedama	5
 turiesi	5
-paugės	5
 vakos	5
 saules	5
 gliese	5
@@ -12818,8 +12774,8 @@ ačiou	5
 prasidies	5
 vagas	5
 važiavuom	5
+veizam	5
 vaikūn	5
-mamātės	5
 kepenū	5
 tarmē	5
 latgaliu	5
@@ -13187,6 +13143,7 @@ kuonkorsė	4
 puovėla	4
 puoemas	4
 onėversėtetu	4
+būdėngs	4
 krėtoliū	4
 skėrstuomė	4
 mėškos	4
@@ -13202,6 +13159,7 @@ meliuodėje	4
 priskėramė	4
 matematėks	4
 dviejū	4
+vienintelė	4
 gražiausiu	4
 eglotė	4
 kėtkas	4
@@ -13224,6 +13182,7 @@ parjiemė	4
 hošėmina	4
 tūkstontiū	4
 prīžastiū	4
+žaliavū	4
 nakėlnuojama	4
 kainu	4
 kėtėma	4
@@ -13273,6 +13232,7 @@ vėdoropė	4
 ėškrėnt	4
 ondenskīras	4
 spali	4
+kėikė	4
 robežiom	4
 smolkūs	4
 pošīnā	4
@@ -13592,7 +13552,6 @@ naciuonalėnes	4
 vėsame	4
 pasiruošė	4
 garbingė	4
-vaikiokams	4
 paauglē	4
 kūdiki	4
 ruoštė	4
@@ -13802,7 +13761,6 @@ dūnėninku	4
 katie	4
 nalaimings	4
 turieti	4
-šova	4
 privėlėjės	4
 bėržuo	4
 siam	4
@@ -13850,7 +13808,6 @@ sogolė̄	4
 ėškėlmės	4
 derlio	4
 vīšnės	4
-sop	4
 vaisiaus	4
 sveikėna	4
 stebukla	4
@@ -14751,7 +14708,6 @@ senouji	4
 gelsvė	4
 tėtnagos	4
 randams	4
-tėtnaga	4
 vata	4
 dogno	4
 tronk	4
@@ -14831,7 +14787,6 @@ skraidė	4
 bartkaus	4
 sosoka	4
 kartūna	4
-sprindi	4
 kvietkieliu	4
 jenelės	4
 padelkas	4
@@ -15197,6 +15152,7 @@ perkelta	4
 opiekšliu	4
 gīvuoliu	4
 ganīma	4
+šėinpjūtė	4
 auštė	4
 jaunamė	4
 pėlnėjuo	4
@@ -15280,7 +15236,6 @@ kvaraba	4
 šaknu	4
 deivē	4
 aukors	4
-tortus	4
 bruoliokā	4
 skombietom	4
 albuma	4
@@ -15311,7 +15266,6 @@ gluobies	4
 lėikanas	4
 laužus	4
 tomsės	4
-hebraju	4
 fluorescentėne	4
 ėšlaikės	4
 sodalīvava	4
@@ -15335,6 +15289,7 @@ stėproms	4
 somėnka	4
 pamiegėna	4
 atšuoka	4
+lapelēs	4
 nesoprata	4
 aukštiesnis	4
 smėlgu	4
@@ -15402,7 +15357,6 @@ able	4
 wrote	4
 i'll	4
 thankyou	4
-best	4
 city	4
 šiek	4
 porom	4
@@ -15689,6 +15643,7 @@ pruotingesnė	4
 cielė	4
 ėšvėrta	4
 niekās	4
+patėkiejė	4
 bedognė	4
 vakarīkštē	4
 ožaugtė	4
@@ -15736,6 +15691,7 @@ geru	4
 bėngtė	4
 žėidadolkės	4
 rigvėda	4
+nas	4
 skalda	4
 pelkies	4
 jautiena	4
@@ -15802,7 +15758,6 @@ solaukės	4
 mušė	4
 piemenėlių	4
 pūslės	4
-gydė	4
 drīžė	4
 spalis	4
 mintovus	4
@@ -16168,6 +16123,7 @@ sosėtvarkītė	4
 ėšlėpės	4
 borno	4
 grėižtė	4
+paugės	4
 išdėdoma	4
 apsėprata	4
 panū	4
@@ -16216,7 +16172,6 @@ pasidžiaugtė	4
 vasarelės	4
 mėškelē	4
 tūtė	4
-smeng	4
 dėdiausis	4
 soējė	4
 struoka	4
@@ -16293,7 +16248,6 @@ novėrta	4
 nepatėka	4
 bėigts	4
 pravardė	4
-ėis	4
 žuodėnės	4
 grossos	4
 tebūs	4
@@ -16502,6 +16456,7 @@ dūsava	4
 nabtor	4
 nadėdėli	4
 grobē	4
+history	4
 gegožes	4
 kurėjes	4
 sobačiaus	4
@@ -16590,6 +16545,7 @@ bindzė	4
 pajiemosi	4
 turinti	4
 ėšverstė	4
+mamātės	4
 pažinti	4
 mokinių	4
 valstībėniu	4
@@ -16699,7 +16655,6 @@ krīvolės	4
 radžis	4
 līviu	4
 narūp	4
-lietōviu	4
 valaikė	4
 alfuonsus	4
 koncertou	4
@@ -16874,7 +16829,6 @@ geriause	3
 nuotīkē	3
 heruoju	3
 ožėm	3
-taj	3
 mogolu	3
 tadžmahals	3
 bodīnko	3
@@ -16975,7 +16929,6 @@ vėdėnē	3
 ėšgīvenėmā	3
 elgesė	3
 matai	3
-let	3
 santakuo	3
 arkiviskupėjes	3
 tėltā	3
@@ -17021,6 +16974,7 @@ gėntara	3
 ekspuonatu	3
 antano	3
 kūnūs	3
+gīv	3
 imperėjes	3
 naujėjē	3
 kongresos	3
@@ -17075,7 +17029,6 @@ vėdoramžes	3
 svarbio	3
 straipsne	3
 rongės	3
-onū	3
 bosnėjes	3
 sosėjusiu	3
 būsenu	3
@@ -17307,7 +17260,6 @@ aris	3
 panathinaikos	3
 pinyin	3
 paula	3
-von	3
 begalies	3
 hitleris	3
 dėdliuojo	3
@@ -17446,7 +17398,6 @@ kūrėn	3
 ožmošts	3
 dingst	3
 nebnuor	3
-fri	3
 savim	3
 sun	3
 nerond	3
@@ -17555,7 +17506,6 @@ savis	3
 mėlėjuons	3
 savėžodībės	3
 ėšskīrus	3
-jont	3
 depresėjės	3
 pagelbietė	3
 htm	3
@@ -17596,7 +17546,6 @@ palmės	3
 žėnuomiausės	3
 arkīvė	3
 nujuojau	3
-tvuo	3
 rūteles	3
 devintamė	3
 išgersim	3
@@ -17816,7 +17765,6 @@ jongtėnes	3
 reikalaun	3
 jūrėne	3
 karū	3
-ben	3
 karalīstie	3
 laivības	3
 koncentrouta	3
@@ -17835,6 +17783,7 @@ javā	3
 nerimst	3
 ėlg	3
 naujūjū	3
+vaikiokams	3
 rīkštiem	3
 špuokinīčė	3
 budinks	3
@@ -17878,7 +17827,6 @@ dialektās	3
 anglū	3
 pruodioseris	3
 reikšmi	3
-font	3
 spalvo	3
 kuosuova	3
 respoblėkā	3
@@ -18118,7 +18066,6 @@ nauduotuojē	3
 puoėts	3
 sorašīmūs	3
 perdouta	3
-car	3
 maiklos	3
 rūšė	3
 žvāzdės	3
@@ -18539,11 +18486,11 @@ televizija	3
 tiesą	3
 tiesų	3
 tiesiai	3
-eik	3
 tiesiogiai	3
 tikslas	3
 vėlu	3
 tt	3
+ūgis	3
 stuota	3
 debesys	3
 ontis	3
@@ -18588,7 +18535,6 @@ praneštė	3
 ėšgintė	3
 rekonstroutė	3
 ėšrinkta	3
-iaugės	3
 vėituovardiu	3
 vieliū	3
 spektaklē	3
@@ -18925,7 +18871,6 @@ mienesis	3
 skleidas	3
 bronge	3
 pasėmelstė	3
-sterva	3
 nebrek	3
 ausim	3
 truobālė	3
@@ -19167,7 +19112,6 @@ diseases	3
 united	3
 alert	3
 source	3
-int	3
 first	3
 today	3
 fėlmė	3
@@ -19255,7 +19199,6 @@ taisīs	3
 nȧtoriejė	3
 nȧmuokamā	3
 tiražo	3
-savë	3
 šūki	3
 vėrkštis	3
 vīnougės	3
@@ -19309,7 +19252,6 @@ cargotram	3
 pīlėma	3
 svėita	3
 beng	3
-astana	3
 programą	3
 pasakojimus	3
 šoblinskaitę	3
@@ -19341,7 +19283,6 @@ puorėna	3
 raimis	3
 turietu	3
 prisipažėna	3
-et	3
 šniūras	3
 puovili	3
 stanika	3
@@ -19398,7 +19339,6 @@ akiu	3
 puslapio	3
 vėsep	3
 saaka	3
-saava	3
 ožrašės	3
 tūkstonte	3
 ikūros	3
@@ -19635,6 +19575,7 @@ slinkė	3
 aniem	3
 diemiem	3
 pėlkšvā	3
+tėtnaga	3
 gausiausē	3
 luošiejā	3
 luoš	3
@@ -19682,7 +19623,6 @@ ok	3
 klausont	3
 veiziekėt	3
 atgaliuos	3
-buo	3
 kuojėnė	3
 palivarka	3
 senieje	3
@@ -19766,6 +19706,7 @@ pažaistė	3
 kriaučka	3
 ėlguoms	3
 ronkuoviems	3
+sprindi	3
 rauduonuoms	3
 pasėsveikėna	3
 kartūnās	3
@@ -20297,10 +20238,8 @@ jongėniū	3
 rēkcėjės	3
 aukso	3
 pastūmė	3
-ėšo	3
 pluono	3
 skaidolu	3
-onis	3
 prīveiza	3
 salīns	3
 ispanėškā	3
@@ -20347,7 +20286,6 @@ jiedėmou	3
 vikipedėje	3
 elvė	3
 gerbiejū	3
-tikė	3
 pasėkavuojės	3
 unikaliū	3
 tradicinius	3
@@ -20380,7 +20318,6 @@ oždara	3
 gīsmie	3
 valstėitē	3
 asya	3
-vy	3
 devā	3
 yajñam	3
 ye	3
@@ -20437,7 +20374,6 @@ zikas	3
 vairiausiu	3
 žuolīnės	3
 pateikiame	3
-juozo	3
 stipri	3
 nesvēka	3
 trokdītė	3
@@ -20499,6 +20435,7 @@ religėjės	3
 vėsuomenėnė	3
 žīmēs	3
 maluono	3
+tortus	3
 atsėrastom	3
 albumė	3
 folkluors	3
@@ -20556,6 +20493,7 @@ vīskopėjes	3
 seminarėjuo	3
 liciejou	3
 taro	3
+hebraju	3
 pėnėgos	3
 kompaktėškas	3
 lėmpeliu	3
@@ -20735,15 +20673,12 @@ another	3
 questions	3
 based	3
 pl	3
-title	3
-action	3
 hello	3
 needed	3
 įdėti	3
 supranta	3
 lygio	3
 išvės	3
-raš	3
 termėnās	3
 gitara	3
 akuordeuona	3
@@ -20905,7 +20840,6 @@ stuoka	3
 ėiva	3
 puondėivs	3
 draudė	3
-žėnuovs	3
 dongė	3
 katrōn	3
 diekingė	3
@@ -20989,7 +20923,6 @@ eglėm	3
 donato	3
 žurnalo	3
 šiol	3
-išspausdintas	3
 tekstuose	3
 kaimynai	3
 kuriose	3
@@ -21034,7 +20967,6 @@ latvee	3
 galeem	3
 kretingėškē	3
 eess	3
-saav	3
 muus	3
 pavz	3
 vejns	3
@@ -21086,7 +21018,6 @@ lietuviais	3
 bendrinėje	3
 bėda	3
 důna	3
-ná	3
 mienesio	3
 neutralos	3
 galūne	3
@@ -21265,7 +21196,6 @@ dėrbdamė	3
 glaustė	3
 žousū	3
 vešli	3
-java	3
 torint	3
 vejuos	3
 ognėi	3
@@ -21307,7 +21237,6 @@ pasoulie	3
 notrūkės	3
 stuoriausē	3
 plunksno	3
-ava	3
 lėipsnelės	3
 mėrka	3
 rėitas	3
@@ -21335,7 +21264,6 @@ kaitīma	3
 pasėnauduodams	3
 šabluona	3
 rosos	3
-part	3
 noticed	3
 taking	3
 week	3
@@ -21351,7 +21279,6 @@ bureaucrats	3
 projects	3
 special	3
 three	3
-set	3
 renamers	3
 tools	3
 start	3
@@ -21499,10 +21426,8 @@ pasėruodavuotė	3
 prėvėlėjės	3
 stėngiaus	3
 skaitiau	3
-ėns	3
 tarpėnės	3
 tomstas	3
-bêt	3
 atskiras	3
 kaimų	3
 dzūkė	3
@@ -21560,8 +21485,8 @@ pagīrėma	3
 goliedams	3
 dėdīsis	3
 ouksvūs	3
+gydė	3
 gumbus	3
-kapų	3
 velnią	3
 kotās	3
 koskeliems	3
@@ -21746,7 +21671,6 @@ soskaitė	3
 nubongas	3
 debesielis	3
 pasakīso	3
-jėš	3
 beniou	3
 pridiek	3
 stuoruonė	3
@@ -21894,6 +21818,7 @@ lifeguard	3
 ožgīnė	3
 recent	3
 gintarė	3
+svuoris	3
 big	3
 vīriausnībės	3
 maldininkā	3
@@ -22046,7 +21971,6 @@ sokėlėmā	3
 diesta	3
 konsekrava	3
 šėršūnā	3
-rava	3
 apaugis	3
 česluovs	3
 translioujems	3
@@ -22077,7 +22001,6 @@ tėkram	3
 raštai	3
 nupaveiksloutė	3
 tikslais	3
-out	3
 use	3
 lītėnės	3
 didžiausiu	3
@@ -22190,7 +22113,6 @@ litevského	3
 byla	3
 žmuď	3
 roku	3
-savas	3
 dūnininkai	3
 dounininkai	3
 ginti	3
@@ -22287,7 +22209,6 @@ ivertints	3
 pakvėista	3
 žvejų	3
 užsuko	3
-akį	3
 kunigaikštis	3
 kęstutis	3
 norintys	3
@@ -22378,6 +22299,7 @@ ašaruom	3
 leidontėis	3
 stebas	3
 kvapā	3
+smeng	3
 vedvėms	3
 eili	3
 pasėtrauks	3
@@ -22569,6 +22491,7 @@ muotīnas	3
 lapkrėti	3
 slapīvardis	3
 staibius	3
+ėis	3
 vertingiausiu	3
 ožrašū	3
 buolesluovs	3
@@ -22783,7 +22706,6 @@ nabėjau	3
 siedu	3
 mam	3
 vėlnuonė	3
-ėjau	3
 sopintus	3
 baigs	3
 bedėrbtė	3
@@ -22864,7 +22786,6 @@ pruotieve	3
 kuotrės	3
 magdūsė	3
 sogniaužė	3
-bar	3
 raštėnė	3
 drėižs	3
 audrios	3
@@ -23129,7 +23050,6 @@ prisimena	3
 krikšto	3
 veždavo	3
 kitu	3
-degtinės	3
 didžiausią	3
 geresnio	3
 pasakojo	3
@@ -23379,7 +23299,6 @@ vikipedijoj	3
 pasakyt	3
 teisingai	3
 megeno	3
-ap	3
 specialiai	3
 think	3
 problem	3
@@ -23512,6 +23431,7 @@ nejims	3
 maurus	3
 duovėnuok	3
 jokubaitītė	3
+lietōviu	3
 repetou	3
 pajotosi	3
 tulabienė	3
@@ -23527,7 +23447,6 @@ technika	3
 gūnė	3
 gargždėškė	3
 cīrolelis	3
-tės	3
 nusėstebiejė	3
 ākis	3
 gīvēnė	3
@@ -23712,7 +23631,6 @@ sominkšties	3
 padiejosi	3
 pasiotosė	3
 doubiets	3
-isėpīlė	3
 noliektė	3
 gaudotiūs	3
 temuoko	3
@@ -23789,7 +23707,6 @@ nuovelė	3
 nir	3
 priglund	3
 tīluos	3
-atvažiavau	3
 vaguonā	3
 gelžėnius	3
 privažiava	3

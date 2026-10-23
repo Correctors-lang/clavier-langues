@@ -1,8 +1,8 @@
 # ᐊᓂᔑᓈᐯᒧᐎᓐ : FineWeb-2 ojb_Cans (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
 ᑕᔥ	5364
-ᑲᔦ	4819
-ᑳᐐᓐ	2378
+ᑲᔦ	4818
+ᑳᐐᓐ	2377
 ᐃᐃ	2353
 ᒦᑕᔥ	2234
 ᐃᑕᔥ	1987
@@ -23,7 +23,7 @@
 ᐋᓃᔥ	927
 ᐋᓃᓐ	754
 ᒦᔥ	711
-ᑫᑰᓐ	702
+ᑫᑰᓐ	701
 ᒋᓴᓲᓐ	669
 ᑮᔥᐱᓐ	666
 ᐯᔑᒃ	552

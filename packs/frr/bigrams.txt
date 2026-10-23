@@ -1,28 +1,28 @@
 # Bigrammes frr (FineWeb-2 frr_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-uun	a	2785
-uk	uk	1762
+uun	a	2782
+uk	uk	1695
 faan	a	1647
 desk	fan	1575
 as	en	1405
 fan	di	1374
 foon	e	1368
-önj	e	1297
-ön	di	1219
+önj	e	1290
+ön	di	1218
 faan	det	534
 as	det	504
 tu	a	501
 uun	det	489
-fuar	di	472
+fuar	di	471
 üüb	a	460
-kweltekst	bewerke	448
+kweltekst	bewerke	446
 me	di	435
 en	di	418
 uk	en	405
 bi	di	394
-aw	e	393
+aw	e	391
 foon	da	379
-sa	üs	377
+sa	üs	376
 det	as	374
 leit	uun	373
 jaft	at	370
@@ -31,18 +31,18 @@ dat	di	363
 iin	ön	361
 an	a	359
 an	det	348
-bai	e	341
+bai	e	340
 tu	en	336
 an	uun	329
+bi	a	329
 wiar	en	328
-bi	a	328
 friisk	foriining	302
 as	di	298
-tö	di	291
+tö	di	290
 a	süüd	288
 aur	di	283
-for	e	281
 es	en	280
+for	e	280
 faan	dön	276
 mini	desk	276
 tu	e	266
@@ -53,7 +53,7 @@ en	betj	252
 uk	di	242
 a	nuurd	241
 ken	em	238
-en	dit	237
+en	dit	238
 wat	en	234
 a	waast	234
 än	e	233
@@ -65,7 +65,7 @@ man	uk	227
 üs	di	225
 an	en	217
 üs	en	217
-e	friisk	216
+e	friisk	215
 an	at	213
 ek	muar	211
 üp	di	210
@@ -80,9 +80,9 @@ wan	di	199
 för	a	199
 es	di	197
 dit	es	197
-uk	au	197
 faan	de	196
 auer	a	195
+uk	au	192
 wat	di	188
 iin	uun	186
 a	uast	186
@@ -93,22 +93,23 @@ das	weg	184
 robin	hood	183
 as	at	182
 jeft	et	182
-au	uk	182
 as	uk	180
-fan	en	179
+au	uk	179
 fuar't	miist	178
+fan	en	178
 mä	a	175
 hat	as	171
 am	a	171
 en	da	167
 ma	en	166
 dat	em	160
-hi	as	158
+hi	as	157
 en	bet	157
 ön	en	156
 as	et	154
-am	en	153
+üp	söl	153
 ei	muar	152
+am	en	152
 mä	det	151
 a	süüdwaast	151
 am	e	150
@@ -155,22 +156,22 @@ muar	üs	124
 a	nuurdwaast	123
 än	en	122
 ön't	jaar	122
-for	da	122
 as	ian	122
 en	uk	121
 önj	da	121
+for	da	121
 at	lun	121
 foon	di	120
 em	di	120
 diar	uk	119
 san	en	119
-in	the	119
 pink	desk	119
 fuar	en	118
 a	minsken	118
 für	die	118
 noch	en	117
 fan	dit	117
+in	the	117
 hur	di	116
 an	wat	116
 at	hoodsteed	116
@@ -181,17 +182,17 @@ tu	det	115
 man	di	115
 sü	as	114
 walnut	stool	114
-of	the	113
 as	e	112
 dat	hi	112
+of	the	112
 för	en	112
 hi	wiar	112
 foon	dåt	111
 ouer	e	110
 jen	fan	110
+a	nuurduast	110
 wooden	footstool	110
 und	die	109
-a	nuurduast	109
 stools	uk	109
 hee	tu	108
 uun't	juar	107
@@ -205,10 +206,10 @@ tu	hee	106
 en	gurt	104
 diar	en	104
 so	föl	104
-waar	di	104
 di	nööm	103
 uur	di	103
 wiar	det	103
+waar	di	103
 dial	faan't	103
 fan	usb	103
 efter	a	102
@@ -302,7 +303,6 @@ wat	ön	82
 könst	dü	82
 spräke	än	82
 uun't	waasten	82
-da	ken	82
 mit	dem	82
 em	dit	82
 en	grut	82
@@ -310,18 +310,19 @@ en	grut	82
 om	di	82
 diar	san	81
 wan	dit	81
+da	ken	81
 dat	ja	81
 dit	uk	81
 di	tir	81
 uk	al	81
 tuhuupe	ma	80
 wat	jam	80
-heer	en	80
 a	eilunen	80
 em	me	80
 uun	sin	80
 fan	with	80
 fan	des	79
+heer	en	79
 en	des	79
 dat	wü	79
 quiet	desk	79
@@ -360,18 +361,19 @@ et	nordfriisk	73
 de	iarst	73
 wiar	hi	72
 wat	hi	72
+jo	san	72
+wi	en	72
 en	diar	72
 dit	wiar	72
 et	en	72
 faan	at	72
 frasche	rädj	72
-as	ei	72
 hoodsteed	faan	72
 mist	fan	72
 komt	faan	71
-jo	san	71
 tu	maagin	71
 leit	det	71
+as	ei	71
 for	sale	71
 so	üs	70
 uk	a	70
@@ -395,15 +397,14 @@ di	ual	69
 ütj	at	69
 e	feriin	69
 steed	leit	69
-en	lait	68
 foon	jü	68
 an	faan	68
 det	ei	68
 faan't	regiuun	68
 nordfriisk	teooter	68
 fan	walmart	68
-km	lung	67
 da	uk	67
+en	lait	67
 dåt	da	67
 det	iarst	67
 di	jungen	67
@@ -416,6 +417,7 @@ en	stak	67
 e	gemiine	67
 table	fan	67
 forklift	fan	67
+km	lung	66
 önjt	iir	66
 ai	mör	66
 üüb	feer	66
@@ -428,7 +430,6 @@ wat	et	66
 heer	di	66
 det	uk	66
 as	an	66
-br	uk	66
 elektrischer	teekocher	66
 en	skööl	65
 uun't	uasten	65
@@ -441,23 +442,22 @@ san	da	64
 för	det	64
 tö	dön	64
 an	sin	64
-da	manschne	64
 for	ålem	64
 an	wan	64
 ap	tu	64
 tu	aanj	64
-ken	di	64
 tesken	a	64
 noch	ens	64
 ü	ü	64
+da	manschne	63
 uun't	süüden	63
 und	das	63
 es	ek	63
 wat	me	63
 an	hää	63
 troch	a	63
+ken	di	63
 uur	en	63
-e	dånsch	63
 goor	ei	63
 das	lied	63
 fan	walgreens	63
@@ -466,6 +466,7 @@ juar	ual	62
 di	hiili	62
 üt	et	62
 det	gratst	62
+e	dånsch	62
 man	en	62
 faan	sin	62
 wat	det	62
@@ -481,7 +482,7 @@ wat	as	61
 at	en	61
 wat	wi	61
 di	tekst	61
-uk	br	61
+br	uk	61
 fur	footstool	61
 auf	dem	60
 uk	me	60
@@ -489,11 +490,9 @@ wat	tö	60
 wan	det	60
 wan	diar	60
 di	wunter	60
-risem	schölj	60
 bi	üs	60
 süüd	faan't	60
 sinti	än	60
-br	br	60
 döör	e	59
 nicht	mehr	59
 ist	ein	59
@@ -505,6 +504,7 @@ a	welt	59
 ek	tö	59
 frasche	spräke	59
 a	san	59
+risem	schölj	59
 a	kreis	59
 uk	e	58
 önj	di	58
@@ -513,7 +513,6 @@ wat	a	58
 hi	di	58
 as	uun	58
 uk	üs	58
-bit	tö	58
 uk	wat	58
 auer	at	58
 nü	uk	58
@@ -525,6 +524,7 @@ huar	uun	58
 det	leit	58
 fan	quiet	58
 best	cooling	58
+br	br	58
 ham	uk	57
 aw	frasch	57
 noch	ei	57
@@ -549,6 +549,7 @@ dåt	et	56
 wat	ek	56
 aus	dem	56
 mit	der	56
+bit	tö	56
 es	uk	56
 tö	des	56
 lung	an	56
@@ -564,6 +565,8 @@ waar	dit	56
 haben	wir	56
 prowins	hee	56
 fan	target	56
+uk	br	56
+ön	dütsklön	55
 wörden	as	55
 gaar	ek	55
 üs	det	55
@@ -592,13 +595,13 @@ diar	di	54
 foont	stjör	54
 en	tö	54
 wan	wü	54
+üüs	ailön	54
 e	stää	54
 een	faan	54
 diar	faan	54
 et	stjör	53
 töhop	me	53
 uk	mä	53
-me	dit	53
 wan	ik	53
 hää	en	53
 dit	en	53
@@ -614,10 +617,10 @@ wat	för	53
 so	en	53
 hood	ääw	53
 läit	önjt	53
+me	dit	52
 da	biise	52
 em	ek	52
 önj	doogebel	52
-er	jaaren	52
 en	fuar	52
 an	de	52
 faan't	steed	52
@@ -626,13 +629,10 @@ jam	det	52
 at	komuun	52
 of	manerhaidspriaken	52
 metal	fan	52
-e	lasmootefersoomling	51
 hat	wiar	51
 uk	üüb	51
-ön	dütsklön	51
 wat	ja	51
 a	pasiifik	51
-wan	we	51
 as	diar	51
 fööraal	uun	51
 wat	önj	51
@@ -645,15 +645,18 @@ auf	den	51
 wiar	faan	51
 diar	am	51
 wooden	skewer	51
+e	lasmootefersoomling	50
 nuch	en	50
 dan	wi	50
 wat	foon	50
 sen	en	50
 üüb	at	50
+wan	we	50
 nü	en	50
 kür	em	50
 di	eeftermadi	50
 en	gans	50
+en	ual	50
 e	klook	50
 uk	faan	50
 hood	üüb	50
@@ -686,12 +689,10 @@ al	en	48
 uur	dit	48
 dat	en	48
 wat	dit	48
-an	mä	48
 töögen	di	48
 es	man	48
 a	miast	48
 bi	det	48
-wat	ei	48
 e	frasch	48
 a	nööm	48
 an	üüb	48
@@ -702,7 +703,6 @@ ab	nach	48
 prowins	leit	48
 üüb	arke	48
 slim	aluminium	48
-uk	ar	48
 wat	e	47
 hee	en	47
 di	lir	47
@@ -715,12 +715,14 @@ do	as	47
 a	atlantik	47
 dü	en	47
 aur	en	47
+an	mä	47
 di	film	47
 on	the	47
 uun	sjiisklun	47
 a	juaren	47
 haa	di	47
 üs	bi	47
+wat	ei	47
 ist	es	47
 aber	auch	47
 grens	mä	47
@@ -739,16 +741,12 @@ muar	en	46
 en	fan	46
 man	bluat	46
 at	uk	46
-en	ual	46
 tu	sen	46
 aal	a	46
 dåt	e	46
 a	krich	46
 waar	fan	46
 best	metal	46
-uk	kr	46
-za	uk	46
-cc	uk	46
 heet	e	45
 bai	da	45
 es	ön	45
@@ -765,8 +763,6 @@ da	bjarne	45
 schal	et	45
 bi	üüs	45
 diar	a	45
-e	friiske	45
-di	stroom	45
 amrumer	rezepte	45
 det	stak	45
 kalüün	spöören	45
@@ -775,6 +771,7 @@ waast	faan't	45
 di	baterii	45
 garden	obelisk	45
 uk	za	45
+za	uk	45
 spoon	fork	45
 as	mä	44
 diar	sen	44
@@ -791,14 +788,15 @@ of	det	44
 üs	hi	44
 uur	uk	44
 diar	ei	44
-ei	tu	44
 üs	wan	44
 e	tukamst	44
 tu	schüns	44
 uner	e	44
 en	sin	44
 hööchde	faan	44
+e	friiske	44
 di	krich	44
+di	stroom	44
 fuar	üüs	44
 de	naist	44
 ham	en	44
@@ -812,7 +810,7 @@ dit	jest	44
 amrum	und	44
 fan	cooler	44
 hks	facher	44
-uk	cc	44
+uk	kr	44
 en	dat	43
 an	am	43
 dat	a	43
@@ -825,6 +823,7 @@ mör	as	43
 en	was	43
 you	can	43
 kumt	fan	43
+ei	tu	43
 huuchwååder	önj	43
 uun't	lun	43
 föl	lidj	43
@@ -840,9 +839,8 @@ süüdwaast	faan't	43
 hoodsteed	faan't	43
 kön	ham	43
 von	menschen	43
-uk	nz	43
 wooden	stool	43
-kr	uk	43
+uk	cc	43
 di	jerst	42
 jin	a	42
 a	struum	42
@@ -865,7 +863,7 @@ wurd	faan	42
 saamlang	faan	42
 brükt	wurd	42
 haa	wü	42
-wurd	a	42
+of	a	42
 frisia	historica	42
 man	diar	42
 wü	üüs	42
@@ -877,11 +875,11 @@ geht	es	42
 an	hi	42
 det	skööl	42
 fan	for	42
-nz	uk	42
 retro	desk	42
 en	aluminium	42
+uk	ar	42
+cc	uk	42
 eefter	en	41
-än	heet	41
 ik	wal	41
 det	ment	41
 hi	sin	41
@@ -895,6 +893,7 @@ faan	jo	41
 näiste	biise	41
 biise	tunge	41
 minuute	ouf	41
+e	san	41
 of	di	41
 bi	de	41
 aur	dit	41
@@ -903,6 +902,7 @@ uk	at	41
 wat	da	41
 hat	woort	41
 san	an	41
+wurd	a	41
 me	langs	41
 heest	dü	41
 di	naist	41
@@ -914,10 +914,11 @@ maden	faan't	41
 tö	bispöl	41
 det	ham	41
 arke	faal	41
-km	tu	41
+uk	nz	41
 amazon	desk	41
 önjt	norden	40
 ön	sin	40
+än	heet	40
 heet	ham	40
 bai	en	40
 a	wai	40
@@ -932,13 +933,11 @@ da	es	40
 en	aanj	40
 koon	am	40
 a	waas	40
-e	san	40
 diar	es	40
 di	usa	40
 an	ei	40
 än	tu	40
 efter	en	40
-for	di	40
 as	efter	40
 dass	die	40
 dat	jo	40
@@ -947,7 +946,9 @@ san	we	40
 an	auer	40
 und	ich	40
 da	lasmoote	40
+km	tu	40
 di	huuchst	40
+nz	uk	40
 en	diil	39
 kris	nordfraschlönj	39
 di	noome	39
@@ -966,6 +967,7 @@ minuute	for	39
 ek	rocht	39
 nööm	faan	39
 manerhäide	önj	39
+for	di	39
 an	hiart	39
 tu	finjen	39
 nuurd	an	39
@@ -975,6 +977,7 @@ auf	sylt	39
 prowins	uun	39
 huuchst	berag	39
 aluminum	step	39
+kr	uk	39
 stool	walnut	39
 lasmoot	foon	38
 auer	hi	38
@@ -993,6 +996,7 @@ dialen	faan	38
 of	filmer	38
 ik	mi	38
 a	nuurdsia	38
+e	moune	38
 wiar	diar	38
 än	foon	38
 di	jarste	38
@@ -1026,7 +1030,6 @@ wat	nü	37
 jam	uk	37
 uk	föl	37
 di	sen	37
-e	moune	37
 di	gimiindi	37
 jarst	tooch	37
 et	dan	37
@@ -1070,7 +1073,6 @@ an	efter	36
 ik	en	36
 es	diar	36
 let	üüs	36
-wus	et	36
 noch	wat	36
 en	üüs	36
 nuurdwaast	faan't	36
@@ -1115,6 +1117,7 @@ wat	mä	35
 manerhäid	önj	35
 man	hi	35
 diar	mä	35
+wus	et	35
 mit	einem	35
 efter	de	35
 an	hü	35
@@ -1131,6 +1134,7 @@ nordfraschlönj	än	34
 än	wat	34
 for	dåt	34
 ik	san	34
+hark	olufs	34
 at	juar	34
 diarbi	as	34
 wi	det	34
@@ -1177,7 +1181,6 @@ diar	ön	33
 dåt	en	33
 di	aarber	33
 sin	leewent	33
-fanjst	dü	33
 di	spräke	33
 ma	dåt	33
 uk	ai	33
@@ -1219,7 +1222,6 @@ det	uun	33
 gab	es	33
 bit	nü	33
 at	nü	33
-ei	gans	33
 da	fjouer	33
 faan	bilen	33
 al	sant	33
@@ -1228,12 +1230,12 @@ fan	a	33
 däi	ōstfräisk	33
 step	stools	33
 dining	stool	33
-ar	ar	33
 önj	risem	32
 wus	e	32
 döör	en	32
 önj	sin	32
 wurd	kön	32
+fanjst	dü	32
 en	diarfuar	32
 uk	for	32
 hi	es	32
@@ -1256,6 +1258,7 @@ dit	skel	32
 giar	dit	32
 a	somer	32
 haa	uk	32
+söl	en	32
 e	dånsche	32
 det	kön	32
 hi	det	32
@@ -1278,6 +1281,7 @@ süüd	an	32
 faan't	grens	32
 wårt	et	32
 ist	das	32
+ei	gans	32
 apple	music	32
 hee	seeks	32
 det	det	32
@@ -1328,7 +1332,6 @@ arks	iir	31
 we	ma	31
 we	di	31
 ek	gur	31
-er	juaren	31
 en	waar	31
 unti	en	31
 jo	ei	31
@@ -1362,12 +1365,14 @@ ich	habe	31
 juar	faan	31
 huuchst	ponkt	31
 wood	foot	31
+ar	ar	31
 jaaren	ual	30
 dit	ön	30
 üt	da	30
 tu	dåt	30
 es	fuar	30
 me	tau	30
+ön	weesterlön	30
 uur	skel	30
 ek	ön	30
 maaket	uur	30
@@ -1382,6 +1387,7 @@ es	da	30
 da	di	30
 aurdat	em	30
 a	winj	30
+dit	lön	30
 söl'ring	foriining	30
 en	bi	30
 det	naist	30
@@ -1444,6 +1450,7 @@ en	jaar	29
 noome	foon	29
 üs	ik	29
 uk	tö	29
+di	grün	29
 det	tidj	29
 foont	lönj	29
 önj	slaswik-holstiin	29
@@ -1456,6 +1463,7 @@ en	es	29
 koon	uk	29
 di	gratst	29
 nööm	komt	29
+fan	weesterlön	29
 lun	hee	29
 uk	da	29
 bai	üs	29
@@ -1482,12 +1490,10 @@ republiik	kongo	29
 imer	noch	29
 dat	wi	29
 noch	einmal	29
-lei	a	29
 a	friisk	29
 office	desk	29
 fan	heater	29
 usb	powered	29
-au	au	29
 bi	des	28
 uk	diar	28
 hi	heet	28
@@ -1547,6 +1553,7 @@ am	an	28
 auch	die	28
 det	so	28
 struum	uun	28
+nuurduast	faan	28
 fu	jam	28
 an	hör	28
 as	för	28
@@ -1555,17 +1562,18 @@ höm	ek	28
 dit	uurt	28
 snaake	wi	28
 burkiina	faaso	28
+lei	a	28
 en	eilun	28
 dit	model	28
 fan	fan	28
 san	juan	28
+au	au	28
 önjt	sööden	27
 a	ööder	27
 det	stääd	27
 an	ham	27
 taal	faan	27
 di	toch	27
-ön	weesterlön	27
 ferring	stifting	27
 jeft	uk	27
 fuul	üs	27
@@ -1594,7 +1602,6 @@ am	diar	27
 di	foriining	27
 sin	werk	27
 as	ai	27
-dü	üüb	27
 uun	ööder	27
 as	ja	27
 durch	die	27
@@ -1684,7 +1691,6 @@ wat	al	26
 üüb	sal	26
 en	hat	26
 a	sia	26
-ma	jare	26
 uun	an	26
 bi	dit	26
 hen	tö	26
@@ -1693,6 +1699,7 @@ diar	iin	26
 jo	tau	26
 heet	et	26
 mä	hör	26
+dü	üüb	26
 do	tu	26
 und	auf	26
 sen	ek	26
@@ -1736,7 +1743,6 @@ fan	wiring	26
 min	fan	26
 wat	we	25
 önjt	ååsten	25
-üp	söl	25
 wü	dit	25
 dåt	jeeft	25
 nordfrasche	spräke	25
@@ -1776,6 +1782,7 @@ kön	det	25
 sa	ken	25
 sjocht	em	25
 wan	at	25
+ma	jare	25
 man	jo	25
 dåt	hi	25
 hi	faan	25
@@ -1853,6 +1860,7 @@ ek	olterfuul	24
 at	the	24
 di	mensk	24
 sa	fiir	24
+noch	so	24
 a	grünj	24
 wan	deer	24
 iir	üülj	24
@@ -1892,7 +1900,6 @@ hää	hi	24
 tu	saien	24
 wi	mjarne	24
 öner	di	24
-skel	dit	24
 än	wan	24
 a	loft	24
 en	regiuun	24
@@ -1909,7 +1916,6 @@ ik	wel	24
 we	hääwe	24
 wenn	man	24
 hat	hää	24
-en	stää	24
 uun	wat	24
 dit	tö	24
 wees	sü	24
@@ -1956,7 +1962,6 @@ da	jarste	23
 di	struum	23
 da	latje	23
 wörden	san	23
-as	for	23
 hü	ham	23
 diar	skel	23
 di	uk	23
@@ -1966,7 +1971,6 @@ wiar	da	23
 wurd	tu	23
 a	grat	23
 bluat	jen	23
-ste	önj	23
 önjt	lönj	23
 uk	bluat	23
 em	sin	23
@@ -1979,6 +1983,7 @@ woort	miast	23
 miast	ei	23
 a	matematiik	23
 befaadet	ham	23
+skel	dit	23
 wat	aw	23
 uun	arke	23
 wat	bluat	23
@@ -2001,6 +2006,7 @@ tidj	faan	23
 ütj	en	23
 dü	heest	23
 und	den	23
+en	stää	23
 pinocchio	aw	23
 waasten	faan	23
 lidj	faan	23
@@ -2052,24 +2058,23 @@ so	widjer	22
 än	bai	22
 det	woort	22
 is	en	22
+as	for	22
 des	wiar	22
 with	the	22
 uk	de	22
 oober	noch	22
 wat	üđers	22
 sa	lung	22
-er	iirnge	22
 en	hüs	22
 diar	fan	22
 wårde	da	22
 di	litj	22
-dat	jü	22
 uur	ön	22
 hee	hi	22
 tu	at	22
 em	da	22
 en	mal	22
-sidj	faan	22
+es	al	22
 grat	bedüüdang	22
 ham	e	22
 di	latje	22
@@ -2084,12 +2089,12 @@ dü	di	22
 sen	ön	22
 em	ön	22
 bluat	fuar	22
+dit	ual	22
 faan	detdiar	22
 än	ai	22
 arken	däi	22
 frasche	feriin	22
 et	lönj	22
-a	gang	22
 dåt	deer	22
 an	noch	22
 so	as	22
@@ -2144,7 +2149,6 @@ eilun	an	22
 e	bairädj	22
 tu	beschük	22
 faan	ingelun	22
-a	europariad	22
 der	friisk	22
 wooden	crochet	22
 fan	argos	22
@@ -2154,6 +2158,7 @@ ouers	ai	21
 än	oudere	21
 hi	ön	21
 jit	wat	21
+to	be	21
 auf	friesisch	21
 än	san	21
 kimen	as	21
@@ -2186,11 +2191,13 @@ fan	jen	21
 en	wichtig	21
 man	a	21
 sen	fan	21
+cm	lung	21
 bluat	ön	21
 al	leenger	21
 dit	sa	21
 uun	sjiina	21
 jens	mungard	21
+dat	jü	21
 jungen	en	21
 wiar	tö	21
 kaam	faan	21
@@ -2198,6 +2205,7 @@ faan	ham	21
 üp	wārel	21
 of	ön	21
 skel	uk	21
+sidj	faan	21
 san	uun	21
 as	so	21
 dit	giar	21
@@ -2211,6 +2219,7 @@ huum	ham	21
 e	ååstermååre	21
 feriin	for	21
 en	film	21
+a	gang	21
 brükt	woort	21
 wan	da	21
 friesische	sprache	21
@@ -2259,16 +2268,15 @@ an	waast	21
 playlist	üüb	21
 at	iarst	21
 a	uugenblak	21
-film	festival	21
 det	letj	21
 home	office	21
 ssw	önj	21
 faan	tau	21
 det	jo	21
 bait	iinje	21
+a	europariad	21
 e	prowins	21
 an	tau	21
-dit	giraat	21
 mjarne	eeder	21
 eeder	am	21
 dön	regjunool	21
@@ -2311,6 +2319,7 @@ diar	oober	20
 van	de	20
 wat	jü	20
 tö	se	20
+ön	nuurđfriislön	20
 en	hok	20
 auer	di	20
 woort	oober	20
@@ -2335,7 +2344,6 @@ sin	ain	20
 unti	uk	20
 uk	niin	20
 nü	tö	20
-cm	lung	20
 es	mal	20
 di	en	20
 di	haawen	20
@@ -2357,7 +2365,6 @@ föl	üs	20
 nuurd	tu	20
 e	gemiinde	20
 the	north	20
-en	list	20
 süüd	leit	20
 at	hood	20
 lasmoote	än	20
@@ -2419,6 +2426,7 @@ iarst	ens	20
 for	bjarne	20
 detheer	karta	20
 a	fering	20
+dit	giraat	20
 water	fan	20
 muarspriakethaid	an	20
 set	uk	20
@@ -2487,7 +2495,6 @@ a	berger	19
 ual	wiar	19
 diar	man	19
 uuren	wiar	19
-üüb	sin	19
 hee	sin	19
 dit	nü	19
 spriik	faan	19
@@ -2511,6 +2518,7 @@ sa	iinfach	19
 en	floose	19
 dåt	nordfrasche	19
 en	lik	19
+en	list	19
 ik	di	19
 spriaken	an	19
 um	den	19
@@ -2521,6 +2529,7 @@ forwüset	foon	19
 lasmoote	foont	19
 christiane	bodenhagen	19
 et	stuk	19
+uk	wi	19
 deling	es	19
 an	süüd	19
 wü	jir	19
@@ -2566,6 +2575,7 @@ wi	noch	19
 uk	imer	19
 hal	liis	19
 wat	auer	19
+film	festival	19
 ken	wü	19
 tjiin	gratst	19
 det	spriak	19
@@ -2592,7 +2602,6 @@ fan	clip	19
 small	wooden	19
 di	bipilingsmithidi	19
 uk	mx	19
-ua	uk	19
 fan	forklift	19
 fantuzzi	forklift	19
 fan	höm	18
@@ -2627,7 +2636,6 @@ ham	nü	18
 üüs	uun	18
 wenn	ich	18
 e	mal	18
-noch	uun	18
 ouer	en	18
 faan	ian	18
 jü	tid	18
@@ -2636,14 +2644,13 @@ di	code	18
 di	ööder	18
 fan	ombi	18
 fuar	ali	18
-üp	föör	18
-föör	en	18
 di	man	18
 becht	en	18
 ön	forskelig	18
 foon	jare	18
 wurd	oober	18
 it	is	18
+e	hönj	18
 kemen	es	18
 es	niin	18
 em	skel	18
@@ -2663,6 +2670,7 @@ es	jaa	18
 dit	üp	18
 ön	sleeswig-holstiin	18
 an	hed	18
+üüb	sin	18
 en	fuul	18
 uun	itaalien	18
 di	elektrisk	18
@@ -2673,7 +2681,6 @@ dånsch	än	18
 tu	brüken	18
 en	wichtag	18
 me	höör	18
-al	sent	18
 em	bi	18
 uun	flook	18
 uk	jarling	18
@@ -2704,7 +2711,6 @@ en	gåns	18
 foriining	heet	18
 det	hoodstääd	18
 en	ra	18
-hü	et	18
 önjt	stjör	18
 dånsche	än	18
 an	üs	18
@@ -2718,6 +2724,7 @@ ging	tu	18
 da	kumt	18
 ek	fuar	18
 wel	en	18
+fan	kairem	18
 süüdwaast	faan	18
 e	kl	18
 ei	am	18
@@ -2788,6 +2795,7 @@ from	the	18
 min	robin	18
 unitary	authority	18
 daalang	oober	18
+terra	preta	18
 aluminium	step	18
 fan	air	18
 personal	desk	18
@@ -2818,6 +2826,7 @@ ai	foole	17
 wat	deer	17
 wat	dåt	17
 ouers	önj	17
+noch	uun	17
 diar	komt	17
 wel	wü	17
 en	wel	17
@@ -2826,6 +2835,8 @@ en	skep	17
 heer	man	17
 es	jen	17
 deling	jit	17
+üp	föör	17
+föör	en	17
 tir	fan	17
 muar	sa	17
 fuar	jam	17
@@ -2871,6 +2882,7 @@ was	uk	17
 åltens	nuch	17
 et	jarst	17
 en	arken	17
+al	sent	17
 ian	of	17
 än	huum	17
 fant	huum	17
@@ -2890,6 +2902,7 @@ det	gongt	17
 noom	fan	17
 uk	et	17
 berthold	bahnsen	17
+hü	et	17
 lars	harms	17
 waar	hi	17
 des	waar	17
@@ -2903,12 +2916,10 @@ för	at	17
 grat	stääden	17
 arken	dai	17
 uun	öler	17
-fan	kairem	17
 om	üüs	17
 maning	liren	17
 nü	es	17
 a	letst	17
-et	ma	17
 liren	fan	17
 so	wie	17
 an	uast	17
@@ -2966,7 +2977,6 @@ det	hää	17
 kumt	em	17
 det	hiart	17
 ceiling	fan	17
-minority	film	17
 fan	reddit	17
 ööder	lunen	17
 hat	er	17
@@ -3000,7 +3010,6 @@ ferteel	iinjsen	17
 di	app	17
 thora	kahl	17
 fan	ii	17
-km	laap	17
 stool	small	17
 aluminum	stools	17
 e	manerhäiderädj	17
@@ -3008,7 +3017,6 @@ döndiar	spriaken	17
 fans	best	17
 di	nmd	17
 fantastic	furniture	17
-fork	holder	17
 sen	da	16
 jit	ön	16
 luke	uk	16
@@ -3020,14 +3028,12 @@ döör	dåt	16
 weer	dåt	16
 tö	sin	16
 dit	bi	16
-wat	skel	16
 turag	tu	16
 uun	neebel	16
 sid	foon	16
 foon	ham	16
 uuren	sen	16
 sü	grut	16
-eefter	büten	16
 diar	at	16
 hur'ling	di	16
 uk	aur	16
@@ -3035,7 +3041,6 @@ ark	dai	16
 wan	uk	16
 foon	oudere	16
 al	ön	16
-dit	fuar	16
 kür	uk	16
 as	foon	16
 nuurdelk	dial	16
@@ -3076,7 +3081,6 @@ sa	kür	16
 steeden	an	16
 en	hualew	16
 langsen	muar	16
-maaki	en	16
 önerwai	es	16
 uk	söner	16
 heer	bi	16
@@ -3098,6 +3102,7 @@ nuurdelk	eerdheleft	16
 en	flaak	16
 a	geest	16
 fööraal	för	16
+naa	söl	16
 kür	en	16
 tid	foon	16
 ham	efter	16
@@ -3150,6 +3155,7 @@ jo	salew	16
 wü	ken	16
 wiar	fuar	16
 an	dem	16
+et	ma	16
 natüürelk	uk	16
 wat	nai	16
 a	president	16
@@ -3231,7 +3237,6 @@ haa	mi	16
 faan't	sowjetunioon	16
 indisk	oosean	16
 di	golf	16
-becht	waar	16
 a	nei	16
 faan	rüslun	16
 lef	haa	16
@@ -3244,6 +3249,7 @@ im	friisk	16
 dass	ich	16
 we	ai	16
 en	minsk	16
+km	laap	16
 di	bateriien	16
 footstool	wooden	16
 window	fan	16
@@ -3256,9 +3262,8 @@ fan	reviews	16
 lit	de	16
 lasko	fan	16
 desk	fantastic	16
-ar	br	16
 uk	ua	16
-tw	uk	16
+ua	uk	16
 fan	aquarium	16
 token	tokens	16
 det	teema	15
@@ -3281,6 +3286,7 @@ eefter	da	15
 et	wus	15
 wörd	önj	15
 dü	beest	15
+wat	skel	15
 wat	wel	15
 e	politiik	15
 wai	faan	15
@@ -3288,15 +3294,18 @@ di	tidj	15
 wus	än	15
 der	welt	15
 et	al	15
+eefter	büten	15
 fööraal	faan	15
 furem	faan	15
 langsen	en	15
+fan	dütsklön	15
 aal	jo	15
 üüb	detdiar	15
 detdiar	sidj	15
 hurfan	di	15
 jit	sa	15
 meren	fan	15
+dit	fuar	15
 bit	dat	15
 aurdat	hi	15
 wat	diarbi	15
@@ -3349,6 +3358,7 @@ weer	hi	15
 am	dat	15
 kön	oober	15
 of	dit	15
+maaki	en	15
 ouers	nuch	15
 huum	ai	15
 mjarne	schal	15
@@ -3398,6 +3408,7 @@ juar	leeder	15
 nööm	för	15
 hääwe	jam	15
 årbe	foon	15
+di	hun	15
 man	muar	15
 schölj	än	15
 bahne	bahnsen	15
@@ -3429,11 +3440,13 @@ di	bleeren	15
 hee	uun	15
 hääwe	da	15
 en	ker	15
+tö	söl	15
 haa	jam	15
 faan	namiibia	15
 fuar	mi	15
 sölring	liren	15
 faan	arke	15
+dit	jil	15
 di	autos	15
 nur	noch	15
 um	das	15
@@ -3508,7 +3521,7 @@ diarbi	uk	15
 wurt	at	15
 foriining	as	15
 des	heer	15
-european	minority	15
+minority	film	15
 könang	faan	15
 en	hiili	15
 want	to	15
@@ -3523,8 +3536,8 @@ eilun	as	15
 leit	tesken	15
 uun't	süüduasten	15
 wurden	tu	15
+becht	waar	15
 music	an	15
-de	önj	15
 üs	an	15
 do	wurd	15
 diar	leit	15
@@ -3538,7 +3551,6 @@ klaar	kiming	15
 e	räis	15
 gemiine	läit	15
 sää	di	15
-en	baterii	15
 robert	habeck	15
 miljoon	minsken	15
 storage	footstool	15
@@ -3551,8 +3563,8 @@ wiset	ham	15
 däi	oostfräisk	15
 fan	blade	15
 with	clip	15
-uk	pl	15
-mx	uk	15
+ar	br	15
+tw	uk	15
 eames	walnut	15
 market	value	15
 tokens	token	15
@@ -3649,7 +3661,6 @@ jü	en	14
 uk	sa	14
 maaten	gur	14
 uun't	madelääler	14
-di	sir	14
 di	nuurđsee	14
 ik	weet	14
 des	systeem	14
@@ -3663,7 +3674,6 @@ maning	ünlike	14
 dånsche	schoule	14
 uk	oudere	14
 a	büürerei	14
-naa	söl	14
 des	hüs	14
 spraak	en	14
 wan	wat	14
@@ -3675,7 +3685,6 @@ heewe	we	14
 wal	e	14
 e	leeste	14
 et	diling	14
-än	hü	14
 sen	al	14
 man	üs	14
 schal	önj	14
@@ -3868,6 +3877,7 @@ en	kür	14
 föörmaan	faan	14
 en	ferbinjang	14
 uun't	ääler	14
+et	wi	14
 huar	jo	14
 jaa	al	14
 e	scheew	14
@@ -3887,6 +3897,7 @@ du	bist	14
 ich	das	14
 dediar	emil	14
 emil	al	14
+en	baterii	14
 diversity	team	14
 eeftermadi	am	14
 cooling	fans	14
@@ -3904,11 +3915,12 @@ a	kantoon	14
 stool	dining	14
 in	hit	14
 juan	pools	14
-uk	dating	14
+mx	uk	14
 tokens	tokens	14
 deis	site	14
 border	edging	14
 inline	bathroom	14
+fork	holder	14
 det	juar	13
 di	wiar	13
 en	sölring	13
@@ -3925,7 +3937,6 @@ ouer	di	13
 tö	wārel	13
 man	tö	13
 en	fraschen	13
-wörd	hi	13
 än	wörd	13
 dü	mä	13
 struum	as	13
@@ -3933,14 +3944,12 @@ en	dik	13
 huar	föl	13
 diar	fööraal	13
 wider	tu	13
-fan	dütsklön	13
 jo	ööder	13
 üüb	fering	13
 fuar	dat	13
 as	amanbi	13
 en	oudern	13
 in	wyk	13
-e	grut	13
 långs	e	13
 äine	spräke	13
 ouers	di	13
@@ -4015,9 +4024,11 @@ jeft	en	13
 wurd	jo	13
 me	fuul	13
 kām	dit	13
+uk	hol	13
 di	tau	13
 sin	iarst	13
 en	taal	13
+di	sir	13
 dit	jir	13
 wan	jen	13
 em	jaa	13
@@ -4029,10 +4040,10 @@ we	önj	13
 uun	nuurdsjiisklun	13
 an	koon	13
 da	wiar	13
-m	jip	13
 än	maning	13
 am	dåt	13
 önjtål	foon	13
+än	hü	13
 as	duch	13
 huum	koon	13
 ham	ma	13
@@ -4046,7 +4057,6 @@ di	wikipedia	13
 lidj	ei	13
 an	maaget	13
 ön't	nat	13
-e	grün	13
 tu	uast	13
 det	bil	13
 hoken	di	13
@@ -4068,7 +4078,6 @@ nuch	foole	13
 ian	juar	13
 auch	für	13
 und	zu	13
-e	jülmoune	13
 et	rucht	13
 charta	foon	13
 ik	de	13
@@ -4098,7 +4107,6 @@ awt	program	13
 e	floose	13
 foont	dånsch	13
 frasche	feriine	13
-iir	en	13
 as	iarst	13
 jaaren	leeter	13
 det	hi	13
@@ -4245,6 +4253,7 @@ an	kultüür	13
 süüdhualewkuugel	as	13
 misting	fan	13
 die	die	13
+european	minority	13
 huum	et	13
 unter	dem	13
 die	meisten	13
@@ -4275,7 +4284,6 @@ jin	at	13
 ham	an	13
 me	an	13
 im	jahr	13
-a	prowinsen	13
 hauke	üüb't	13
 haben	sich	13
 ik	finj	13
@@ -4303,6 +4311,7 @@ hat	die	13
 üüs	ek	13
 di	seen	13
 mit	däi	13
+the	cavalry	13
 jarling	wi	13
 un	däi	13
 und	eine	13
@@ -4320,8 +4329,7 @@ fan	silent	13
 fan	buy	13
 footstool	frames	13
 wood	garden	13
-uk	il	13
-vn	vn	13
+uk	pl	13
 europäisch	parlamänt	13
 burner	fan	13
 der	westküste	12
@@ -4339,6 +4347,7 @@ koon	di	12
 tö	keen	12
 wi	wiar	12
 a	wichtagst	12
+wörd	hi	12
 aw	et	12
 of	mener	12
 em	gur	12
@@ -4361,11 +4370,11 @@ deer	önj	12
 faan	ameerikoo	12
 der	nordfriesischen	12
 in	bredstedt	12
-er	jahren	12
 auf	das	12
 war	ein	12
 wie	es	12
 än	deerbai	12
+e	grut	12
 uk	heer	12
 uun	madeleuroopa	12
 sait	am	12
@@ -4379,7 +4388,6 @@ an	man	12
 jam	önj	12
 for	sin	12
 än	eefter	12
-årbe	än	12
 det	wichtagst	12
 of	fan	12
 fuar	höör	12
@@ -4392,6 +4400,7 @@ söl'ring	spraak	12
 dit	miist	12
 fuaral	uk	12
 kraft	fan	12
+a	a	12
 wjarn	da	12
 wårde	foon	12
 nai	mä't	12
@@ -4466,9 +4475,9 @@ en	hur	12
 töögen	dit	12
 wiar	jü	12
 jaaren	ön	12
+m	jip	12
 än	wårt	12
 än	koon	12
-a	best	12
 tu't	iarst	12
 hü	maning	12
 wårt	e	12
@@ -4477,7 +4486,6 @@ dan	ma	12
 aw	arken	12
 di	näiste	12
 din	rik	12
-an	e	12
 fuar	jen	12
 iir	üülje	12
 sööden	foon	12
@@ -4496,6 +4504,7 @@ do	jaft	12
 uk	deling	12
 wiis	kür	12
 di	ken	12
+e	grün	12
 ön	kiel	12
 hi	woort	12
 ja	her	12
@@ -4515,6 +4524,7 @@ jen	dai	12
 of	dat	12
 noch	flook	12
 hi	waar	12
+e	jülmoune	12
 följk	ham	12
 än	awt	12
 ailönj	hålilönj	12
@@ -4542,6 +4552,7 @@ da	ålere	12
 än	waane	12
 waane	foon	12
 dånsche	schöljferiin	12
+iir	en	12
 her	dit	12
 hur	hi	12
 hi	fan	12
@@ -4633,7 +4644,6 @@ hi	komt	12
 leedji	waar	12
 ja	waar	12
 üp	ark	12
-e	mistmoune	12
 uk	flook	12
 with	a	12
 breakfast	bar	12
@@ -4764,6 +4774,7 @@ hee	sant	12
 di	deutschland	12
 weeter	en	12
 man	fan	12
+a	prowinsen	12
 suufa	playlist	12
 mä	detdiar	12
 mä	marret	12
@@ -4836,7 +4847,7 @@ sun	ra	12
 tool	en	12
 br	ar	12
 au	za	12
-uk	hk	12
+uk	il	12
 ordnung	taum	12
 bosch	wat	12
 bauknecht	wat	12
@@ -4902,6 +4913,7 @@ of	üs	11
 jü	stää	11
 san	ai	11
 sin	årbe	11
+årbe	än	11
 sant	di	11
 tau	dialen	11
 ööder	as	11
@@ -4928,6 +4940,7 @@ as	daalang	11
 nü	wiar	11
 ik	bi	11
 tö	biiki	11
+ual	en	11
 di	al	11
 di	jung	11
 skul	em	11
@@ -4987,6 +5000,7 @@ di	numer	11
 et	san	11
 di	di	11
 kw	en	11
+niin	jil	11
 uuren	en	11
 ön	tau	11
 di	skel	11
@@ -5009,8 +5023,10 @@ at	tidj	11
 tidj	as	11
 änjörsne	önj	11
 uk	iinjsen	11
+a	best	11
 hü	as	11
 det	traad	11
+an	e	11
 wü	me	11
 diling	önj	11
 üs	wat	11
@@ -5038,6 +5054,7 @@ eegenskap	faan	11
 do	uun	11
 an	komt	11
 san	do	11
+fuar	söl	11
 fing	hi	11
 än	döör	11
 önj	ünlike	11
@@ -5078,7 +5095,6 @@ jarling	uk	11
 bit	fraidi	11
 jaaren	wiar	11
 fo	kür	11
-hi	wat	11
 waar	man	11
 theodor	storm	11
 miast	mä	11
@@ -5188,6 +5204,7 @@ tu	min	11
 ark	fal	11
 det	cuanza	11
 sul	prowins	11
+e	mistmoune	11
 al	fuar	11
 om	tö	11
 det	ääder	11
@@ -5223,7 +5240,6 @@ dat	dai	11
 an	leept	11
 ham	as	11
 jaaren	waar	11
-di	anø	11
 hiili	dai	11
 ein	kapitel	11
 kapitel	für	11
@@ -5285,7 +5301,6 @@ kannst	du	11
 hed	det	11
 diaram	woort	11
 mä	halep	11
-gans	klaar	11
 juar	as	11
 do	haa	11
 tu	detdiar	11
@@ -5371,7 +5386,6 @@ et	sü	11
 als	ich	11
 skul	ham	11
 detheer	episood	11
-di	laapwai	11
 wat	neis	11
 mad	ick	11
 ick	wes	11
@@ -5411,7 +5425,6 @@ struum	maaget	11
 we	koone	11
 manigfualighaid	uun	11
 wus	ouers	11
-en	aarberi	11
 stool	footstool	11
 operated	desk	11
 tu't	manst	11
@@ -5442,7 +5455,6 @@ fan	philippines	11
 fans	near	11
 amazon	usb	11
 jp	uk	11
-uk	tr	11
 uk	ph	11
 ligne	roset	11
 harrowby	hall	11
@@ -5529,6 +5541,7 @@ dütsklön	en	10
 di	maskiinen	10
 en	skelt	10
 efter	bütjen	10
+fan't	lön	10
 en	skul	10
 aur	lungi	10
 lungi	jaaren	10
@@ -5546,7 +5559,6 @@ wü	nü	10
 johannes	petersen	10
 as	deer	10
 uk	ål	10
-dåt	latj	10
 üs	jungen	10
 sen	deling	10
 liren	tö	10
@@ -5581,7 +5593,6 @@ twuntigst	jaarhönert	10
 en	ekstra	10
 wai	tö	10
 di	jit	10
-er	en	10
 en	hoog	10
 ken	of	10
 diarme	uk	10
@@ -5605,10 +5616,8 @@ dit	taust	10
 bet	üđers	10
 maaket	heer	10
 weet	em	10
-üüb	sidj	10
 uk	san	10
 as	möölik	10
-fiiw	iir	10
 mör	än	10
 ai	foon	10
 et	wårt	10
@@ -5624,7 +5633,6 @@ e	ra	10
 we	da	10
 e	ouder	10
 et	ål	10
-e	uursmoune	10
 di	iine	10
 det	bekäänd	10
 hü	lung	10
@@ -5649,6 +5657,7 @@ wurden	för	10
 sjiisklun	an	10
 dåt	üüljfrasch	10
 en	luki	10
+hol	en	10
 miast	üs	10
 ja	skel	10
 em	jen	10
@@ -5719,6 +5728,7 @@ foriining	lädt	10
 in	risum-lindholm	10
 wan	üüs	10
 en	liir	10
+hi	wat	10
 di	aart	10
 dön	aacht	10
 süüduast	an	10
@@ -5747,6 +5757,7 @@ maaket	di	10
 sa	waker	10
 dat	höm	10
 kön	diar	10
+jaaren	en	10
 läät	ham	10
 tinem	en	10
 tau	lop	10
@@ -5906,6 +5917,7 @@ a	steed	10
 ek	üs	10
 nicht	in	10
 immer	wieder	10
+suart	hool	10
 desjirem	leedji	10
 min	hart	10
 as	of	10
@@ -6005,6 +6017,7 @@ lidj	san	10
 hed	ik	10
 jo	en	10
 spriak	tu	10
+gans	klaar	10
 mä	lidj	10
 ma	üüs	10
 diar	föl	10
@@ -6108,6 +6121,7 @@ heer	sin	10
 sin	hart	10
 of	hat	10
 eerd	as	10
+di	laapwai	10
 model	s	10
 bigen	of	10
 nü	san	10
@@ -6147,7 +6161,6 @@ let	jam	10
 eilun	oomram	10
 süüdwaasten	faan	10
 ma	foole	10
-di	nüter	10
 bi't	tuuptäälen	10
 antenne	sylt	10
 in	das	10
@@ -6155,6 +6168,7 @@ e	gränse	10
 önj	slaswig-holstiinj	10
 üüs	jir	10
 ik	teenk	10
+en	aarberi	10
 a	politsei	10
 des	aart	10
 fans	at	10
@@ -6166,7 +6180,6 @@ route	nationale	10
 nur	die	10
 füng	e	10
 en	kriich	10
-m	di	10
 berag	faan	10
 steedkreis	leit	10
 as	bekäänd	10
@@ -6196,11 +6209,11 @@ footstool	plans	10
 vin	hit	10
 fan	singapore	10
 facher	k	10
+uk	tr	10
 au	kr	10
 za	za	10
-au	br	10
+uk	hk	10
 uk	tw	10
-cc	cc	10
 foon	harrowby	10
 value	dash	10
 token	price	10
@@ -6230,6 +6243,8 @@ dan	jeeft	9
 wårde	uk	9
 ouerdåt	ja	9
 em	se	9
+person	singular	9
+person	plural	9
 üüb	fresk	9
 än	heer	9
 häi	hi	9
@@ -6333,6 +6348,7 @@ nis	albrecht	9
 önjt	laawen	9
 än	ouer	9
 e	öfentlikhäid	9
+dåt	latj	9
 des	kür	9
 noch	di	9
 diar	em	9
@@ -6374,6 +6390,7 @@ kamt	et	9
 spölet	uur	9
 di	nak	9
 di	streenger	9
+benen	di	9
 twuntiger	jaaren	9
 en	iin	9
 diarom	waar	9
@@ -6405,18 +6422,21 @@ sa	haa	9
 huuger	üs	9
 a	istidj	9
 bluas	bi	9
+üüb	sidj	9
 denemark	an	9
 sodenang	uk	9
 a	dik	9
 häälen	wurd	9
 an	plaanten	9
 an	rocht	9
+fiiw	iir	9
 iir	lääser	9
 et	aw	9
 frasch	önj	9
 ai	bloots	9
 knaap	noch	9
 komt	uun	9
+ual	hüs	9
 fan	hamborig	9
 sa	her	9
 hur'ling	dit	9
@@ -6431,6 +6451,7 @@ mån	en	9
 wårt	di	9
 deer	wus	9
 det	formeltiaken	9
+e	uursmoune	9
 iar	wiar	9
 ei	üs	9
 huar	as	9
@@ -6447,13 +6468,13 @@ brükt	em	9
 diiljd	e	9
 gimiindi	söl	9
 di	kant	9
+üp	strön	9
 di	baarilir	9
 önjt	hüs	9
 letj	an	9
 biskiir	aur	9
 as	föl	9
 küd	jo	9
-m	an	9
 uun	nuurdameerikoo	9
 a	äälst	9
 koon	än	9
@@ -6565,7 +6586,6 @@ in	ihrer	9
 üüb	ingelsk	9
 üp	stair	9
 a	great	9
-jaaren	en	9
 di	werev	9
 swäärs	troch	9
 taal	as	9
@@ -6825,11 +6845,9 @@ die	leute	9
 uun	toogo	9
 faan	poolen	9
 at	bundeslun	9
-britisk	kolonii	9
 ham	jo	9
 tu	hualen	9
 in	husum	9
-schal	di	9
 es	wird	9
 faan	aasien	9
 faan	ghaana	9
@@ -7038,6 +7056,7 @@ er	ist	9
 ik	se	9
 faan	sjiisklun	9
 gemiine	heet	9
+di	nüter	9
 wir	wollen	9
 stääd	uun	9
 uastdial	faan	9
@@ -7067,6 +7086,7 @@ ek	aur	9
 köö	e	9
 åmt	läit	9
 bei	friisk	9
+m	di	9
 regiaring	faan	9
 dat	däi	9
 ōstfräisk	tóól	9
@@ -7091,7 +7111,6 @@ stipin	faan	9
 det	dön	9
 walmart	mini	9
 fan	home	9
-latj	stjör	9
 oostfräisk	flâağ	9
 önjt	heef	9
 de	djong	9
@@ -7117,16 +7136,14 @@ lou	reed	9
 mx	ar	9
 ph	uk	9
 sg	uk	9
-kr	kr	9
+au	br	9
 br	au	9
 uk	jp	9
 il	uk	9
-uk	everything	9
 tr	tr	9
 vik	barstool	9
 heater	for	9
 junge	hiire	9
-bfan	bed	9
 fur	dachschrage	9
 coole	betten	9
 et	nai	8
@@ -7175,6 +7192,7 @@ bluas	di	8
 des	sir	8
 dit	weet	8
 di	left	8
+söl	es	8
 uur	nü	8
 werden	und	8
 san	letj	8
@@ -7232,6 +7250,7 @@ bi't	jen	8
 me	weeter	8
 uun't	näät	8
 det	informatjuun	8
+üp	warel	8
 uk	forskelig	8
 an	skul	8
 this	page	8
@@ -7252,6 +7271,7 @@ and	is	8
 aw	jare	8
 ütj	sin	8
 skrewen	an	8
+al	sa	8
 mut	ek	8
 nü	jit	8
 tö	skuul	8
@@ -7296,7 +7316,6 @@ fan	fjuur	8
 this	user	8
 koon	ei	8
 me	to	8
-benen	di	8
 wat	lik	8
 gaar	niin	8
 di	twuntiger	8
@@ -7305,7 +7324,6 @@ beeter	maaki	8
 wat	ön't	8
 ken	me	8
 uk	sok	8
-en	höm	8
 da	haa	8
 bleft	en	8
 nü	sen	8
@@ -7316,6 +7334,7 @@ wääkst	uun	8
 üüb't	aanj	8
 at	siad	8
 en	faamen	8
+hentö't	fastlön	8
 höör	man	8
 üs	diar	8
 en	artikel	8
@@ -7358,7 +7377,6 @@ da	änkelte	8
 üüs	kultuur	8
 ai	eefter	8
 ütj	üs	8
-ual	hüs	8
 sin	hüs	8
 fan't	ailön	8
 dat	bi	8
@@ -7396,9 +7414,11 @@ deer	bai	8
 foon	deer	8
 än	awäädrie	8
 aw	san	8
+rocht	of	8
 staant	dit	8
 en	buum	8
 di	buum	8
+m	an	8
 uun	finlun	8
 am	uun	8
 a	rag	8
@@ -7479,7 +7499,6 @@ uun't	öömrang	8
 reinhard	jannen	8
 det	weder	8
 fööraal	uun't	8
-m	auer	8
 a	schweiz	8
 waar	ombi	8
 en	räis	8
@@ -7599,7 +7618,6 @@ dach	uk	8
 se	ik	8
 tö	juu	8
 et	teema	8
-jare	årbe	8
 üs	as	8
 duch	ai	8
 dediar	dai	8
@@ -7652,7 +7670,6 @@ woche	geht	8
 ole	amrum	8
 an	du	8
 ferleeden	feer	8
-mike	oldfield	8
 huar	mä	8
 diar	kām	8
 tö	jööl	8
@@ -7795,8 +7812,8 @@ the	army	8
 army	now	8
 dü	wel	8
 jam	oober	8
-diar	lei	8
 fan't	fastlön	8
+üp	lön	8
 för	welen	8
 am	mä	8
 hü	gau	8
@@ -7821,7 +7838,6 @@ haa	för	8
 wenn	das	8
 a	kieler	8
 ham	föl	8
-dreht	sich	8
 ein	lied	8
 chris	de	8
 de	burgh	8
@@ -7885,13 +7901,16 @@ sich	eine	8
 tö	siien	8
 nicht	viel	8
 tjiisk	armee	8
+britisk	kolonii	8
 a	wiard	8
 kür	ön	8
 wai	tu	8
 to	use	8
+schal	di	8
 zwischen	den	8
 faan	schiina	8
 fan	fans	8
+die	alten	8
 hat	ham	8
 guwernöör	faan	8
 war	der	8
@@ -8019,7 +8038,6 @@ wo	die	8
 det	gud	8
 it	was	8
 creative	commons	8
-kwh	kapatsiteet	8
 as't	ei	8
 an	bi't	8
 tu	dunn	8
@@ -8046,7 +8064,6 @@ flaak	faan	8
 es	aber	8
 de	us-ameerikoons	8
 höm	da	8
-s	me	8
 google	maps	8
 code	of	8
 partei	faan	8
@@ -8066,8 +8083,6 @@ da	tra	8
 da	bile	8
 nuurduasten	faan	8
 at	buk	8
-in	dulci	8
-dulci	jubilo	8
 die	sprache	8
 rüs	keiserrik	8
 föör	aal	8
@@ -8197,7 +8212,6 @@ di	smart	8
 man	et	8
 in	tu	8
 latjen	ütfluch	8
-e	samermoune	8
 klook	seeks	8
 und	nicht	8
 en	city	8
@@ -8221,6 +8235,7 @@ ual	brükdom	8
 auer	dön	8
 footstool	ikea	8
 footstool	small	8
+sölring	lön	8
 fans	desk	8
 step	ladder	8
 ultraslim	stools	8
@@ -8268,6 +8283,7 @@ uun	jar	8
 walmart	canada	8
 metal	fans	8
 di	leaf	8
+latj	stjör	8
 et	süüdjütlandsk	8
 siin	onkel	8
 partnersuche	true	8
@@ -8296,8 +8312,7 @@ mid	century	8
 century	modern	8
 vintage	desk	8
 tr	uk	8
-uk	events	8
-uk	vn	8
+cc	cc	8
 stool	by	8
 metal	desk	8
 spökeln	wüset	8
@@ -8309,7 +8324,6 @@ dai	watchtower	8
 site	uusra	8
 unfinished	footstool	8
 ioioi	iaea	8
-e	foodermoune	7
 wjarn	uk	7
 en	lönj	7
 foon	euroopa	7
@@ -8344,7 +8358,6 @@ sunt	jü	7
 leewent	üüb	7
 wesen	sen	7
 det	magneetisk	7
-huuch	an	7
 tu	duas	7
 oomram	as	7
 minsken	tu	7
@@ -8434,13 +8447,13 @@ het	di	7
 man	diarför	7
 het	hi	7
 di	noomen	7
+fan't	ual	7
 skeepen	me	7
 dåt	bil	7
 snaket	fan	7
 unti	manerhäidespräke	7
 mååst	en	7
 fan	ark	7
-en	aamrem	7
 wel	hol	7
 leeter	uk	7
 bit	hentö't	7
@@ -8528,6 +8541,8 @@ tou	waage	7
 önjt	leest	7
 da	ålerne	7
 ai	lung	7
+seeks	än	7
+grün	fan	7
 trii	eilunen	7
 uk	tu't	7
 könangrik	faan	7
@@ -8538,6 +8553,7 @@ jit	üp	7
 becht	es	7
 di	üp	7
 jen	fuar	7
+en	höm	7
 waar	des	7
 of	tau	7
 muar	fuar	7
@@ -8620,6 +8636,7 @@ jo	fööraal	7
 kem	an	7
 uun	jodiar	7
 fjuur	jungen	7
+ailön	söl	7
 klaar	wiar	7
 en	leeterhen	7
 dit	langsen	7
@@ -8647,7 +8664,6 @@ wees	kön	7
 et	ååsten	7
 en	ark	7
 da	fuar	7
-ste	bit	7
 bai	temperatuure	7
 ouf	soowen	7
 des	kaart	7
@@ -8715,7 +8731,6 @@ det	ruad	7
 oober	föl	7
 oober	miast	7
 bit	iin	7
-fuar	söl	7
 önj	oudere	7
 dåt	schal	7
 unti	oudere	7
@@ -8758,6 +8773,7 @@ iar	en	7
 uner	di	7
 süüdelk	eerdheleft	7
 a	alpen	7
+m	auer	7
 sok	giraaten	7
 boowen	üp	7
 gung	an	7
@@ -8789,6 +8805,7 @@ e	carsten	7
 carsten	än	7
 än	alfred	7
 iir	tu	7
+er	en	7
 plååttjüsch	än	7
 naie	lasmoote	7
 en	noopemårket	7
@@ -8820,6 +8837,7 @@ dai	fan	7
 des	herstellers	7
 use	of	7
 di	hoogst	7
+en	jöl	7
 jaar	heer	7
 sa	bleft	7
 dü	kenst	7
@@ -8863,6 +8881,7 @@ bäären	wurd	7
 fuar	söl'ring	7
 gang	braacht	7
 sa	wel	7
+jil	tö	7
 naier	bi	7
 dü	faan	7
 huar	jam	7
@@ -8899,6 +8918,7 @@ sölring	snakit	7
 me	jam	7
 luas	wiar	7
 üüs	aart	7
+jare	årbe	7
 et	heer	7
 ai	aw	7
 an	ging	7
@@ -8907,7 +8927,6 @@ du	an	7
 an	huaram	7
 lidj	jo	7
 ban	ik	7
-we	nuch	7
 tubai	e	7
 wat	nuch	7
 es	üüs	7
@@ -8985,6 +9004,7 @@ piratenhase	robin	7
 tidj	an	7
 a	iinwenern	7
 mä	musiik	7
+mike	oldfield	7
 ön	wiar	7
 üüs	ual	7
 man	jüst	7
@@ -9030,6 +9050,7 @@ wird	auch	7
 dit	beest	7
 zu	lassen	7
 und	wer	7
+weestern	fan	7
 jit	lung	7
 kreis	an	7
 gungt	dåt	7
@@ -9099,7 +9120,6 @@ lange	zeit	7
 tu	fertelen	7
 mut	ham	7
 en	stridj	7
-er	an	7
 weler	mä	7
 faan	das	7
 gud	üüs	7
@@ -9154,6 +9174,7 @@ that	you	7
 soldaaten	en	7
 tö	maakin	7
 a	uni	7
+diar	lei	7
 kem	a	7
 diar	gongt	7
 sii	en	7
@@ -9184,6 +9205,7 @@ werket	an	7
 wat	ölers	7
 krich	faan	7
 in	unserer	7
+dreht	sich	7
 blanket	uk	7
 än	nasjonååle	7
 for	frååge	7
@@ -9360,7 +9382,6 @@ wiar	een	7
 a	nobelpris	7
 stipe	än	7
 eeg	faan't	7
-di	kat	7
 hur	sen	7
 en	man	7
 er	war	7
@@ -9381,7 +9402,6 @@ di	nob	7
 fuar	ombi	7
 ark	me	7
 of	bluat	7
-di	db	7
 di	weelen	7
 di	sylt	7
 haa	nian	7
@@ -9438,7 +9458,6 @@ faan	tjabelstünj	7
 tö	bigening	7
 naa	di	7
 fan	ham	7
-tu	haan	7
 at	prefektüür	7
 nissen	än	7
 tö	duar	7
@@ -9568,6 +9587,8 @@ besäk	önjt	7
 wir	auf	7
 at	jipst	7
 lingt	deel	7
+in	dulci	7
+dulci	jubilo	7
 det	halig	7
 wiis	es	7
 diar	nönt	7
@@ -9604,7 +9625,6 @@ jung	liren	7
 da	hat	7
 sidj	as	7
 wi	kön	7
-an	heer	7
 uck	an	7
 uck	well	7
 s	uck	7
@@ -9620,6 +9640,7 @@ an	hä	7
 diar	mad	7
 an	an	7
 all	min	7
+s	me	7
 woort	ei	7
 at	do	7
 sant	ualang	7
@@ -9688,6 +9709,7 @@ di	apps	7
 dit	nöörig	7
 muar	bi	7
 seelew	wat	7
+lön	fan	7
 süđern	fan	7
 sie	im	7
 üüb	jul	7
@@ -9723,7 +9745,6 @@ da	goue	7
 hiart	det	7
 en	hili	7
 di	fiirde	7
-e	gjarsmoune	7
 des	app	7
 em	des	7
 faan	ual	7
@@ -9733,7 +9754,6 @@ we	e	7
 wat	hål	7
 fan	us	7
 med	siin	7
-ii	ii	7
 i	ii	7
 ii	i	7
 huum	sin	7
@@ -9747,6 +9767,7 @@ für	dich	7
 the	ghetto	7
 foriining	wi	7
 zum	biikebrennen	7
+e	samermoune	7
 en	leest	7
 eeftermadi	en	7
 amdat	det	7
@@ -9800,6 +9821,7 @@ e	kinigin	7
 für	ihn	7
 di	süđern	7
 dåt	editfälj	7
+kwh	kapatsiteet	7
 foon	flansborj	7
 uun't	parlament	7
 jit	eeđer	7
@@ -9809,6 +9831,7 @@ a	mount	7
 listen	to	7
 di	iirsen	7
 däi	ōstfräisen	7
+nóósjenóóel	minnerhaiden	7
 mååste	lönje	7
 seremoniel	graafskap	7
 e	uust	7
@@ -9870,7 +9893,6 @@ wooden	step	7
 vintage	wooden	7
 lai	at	7
 deerma	e	7
-for	fiiw	7
 de	mensk	7
 ma	rin	7
 fan	aldi	7
@@ -9901,10 +9923,9 @@ usb	wilko	7
 powered	mini	7
 hks	farbfacher	7
 ar	mx	7
-pk	uk	7
 za	au	7
 au	ar	7
-uk	pk	7
+kr	kr	7
 fan	is	7
 hiire	foon	7
 e	spökeln	7
@@ -9917,9 +9938,9 @@ footstool	target	7
 white	fur	7
 et	manerhäidekantoor	7
 deisa	site	7
-wen	duu	7
 toyota	forklift	7
 jenny	jürgensen	6
+e	foodermoune	6
 e	frååge	6
 we	wjarn	6
 tu	dånmark	6
@@ -9962,6 +9983,7 @@ moi	önj	6
 en	söl'ring	6
 bi	jen	6
 have	been	6
+person	dual	6
 san	weesen	6
 skel	wees	6
 nordfrasche	as	6
@@ -9980,6 +10002,7 @@ elektrisk	struum	6
 wiset	tu	6
 a	geograafisk	6
 en	krääft	6
+huuch	an	6
 liket	en	6
 es	muar	6
 grut	as	6
@@ -10078,7 +10101,6 @@ füsiik	as	6
 di	bokstaawen	6
 tiin	jaaren	6
 höör	nii	6
-fan't	ual	6
 jüst	dit	6
 di	bidrach	6
 lun	efter	6
@@ -10093,6 +10115,7 @@ di	kiar	6
 ön't	jen	6
 enen	fungen	6
 wiar	mal	6
+en	aamrem	6
 fan	san	6
 uur	üp	6
 uur	bit	6
@@ -10145,6 +10168,7 @@ en	mi	6
 biiki	tö	6
 en	üder	6
 da	mut	6
+söl	sen	6
 me	litj	6
 en	uuning	6
 albert	panten	6
@@ -10216,9 +10240,10 @@ e	stormmoune	6
 diilj	uk	6
 uk	wörklik	6
 wat	fründliker	6
-seeks	än	6
+san	gungt	6
+ouf	seeks	6
+moune	namt	6
 siren	fan	6
-grün	fan	6
 gratst	stääd	6
 spöli	ken	6
 en	konsert	6
@@ -10242,7 +10267,6 @@ jaa	langsen	6
 und	ihr	6
 of	new	6
 aurdat	en	6
-giar	bit	6
 huuch	wurd	6
 an	austraalien	6
 alian	uun	6
@@ -10304,7 +10328,6 @@ me	mener	6
 wat	fuul	6
 nü	wat	6
 ual	sölring	6
-söl	en	6
 skel	diar	6
 skel	a	6
 spriiken	san	6
@@ -10377,6 +10400,7 @@ wat	förter	6
 dat	tērp	6
 et	ön	6
 es't	ek	6
+tö	strön	6
 en	betken	6
 fan't	tērp	6
 as	fäästlaanj	6
@@ -10387,7 +10411,6 @@ ouers	ma	6
 än	köö	6
 jü	grut	6
 man	letj	6
-e	krölemoune	6
 foon	hålilönj	6
 rik	än	6
 häin	jam	6
@@ -10492,7 +10515,6 @@ oder	auf	6
 in	deutscher	6
 die	farben	6
 jare	spräke	6
-fort	friisk	6
 rucht	än	6
 än	bräng	6
 e	komuune	6
@@ -10589,6 +10611,7 @@ koon	dåt	6
 und	freunde	6
 des	vereins	6
 bil	foon	6
+jil	me	6
 wel	wat	6
 saad	a	6
 feer	uun't	6
@@ -10602,9 +10625,9 @@ kairem	es	6
 en	stün	6
 dechtings	fan	6
 forhenering	fan	6
+jaaren	bi	6
 haa	ken	6
 di	bisliip	6
-üs	fan	6
 es	iin	6
 dit	muar	6
 maaki	of	6
@@ -10736,6 +10759,7 @@ muar	am't	6
 dem	die	6
 in	unserem	6
 side	foon	6
+we	nuch	6
 dü	altert	6
 junk	en	6
 üs	sa	6
@@ -10835,6 +10859,7 @@ sa	ön	6
 t	jaar	6
 forkoopet	waar	6
 nii	becht	6
+dit	staant	6
 hat	sjocht	6
 ek	jens	6
 fuar	freer	6
@@ -11054,7 +11079,6 @@ as	wälj	6
 da	uugne	6
 und	am	6
 so	schön	6
-es	el	6
 es	fuaral	6
 wü	om	6
 brenda	spencer	6
@@ -11091,6 +11115,7 @@ an	skriiw	6
 at	bal	6
 und	ihren	6
 ään	dai	6
+di	sön	6
 liit	bi	6
 taalen	faan	6
 mä	wel	6
@@ -11114,7 +11139,6 @@ ja	auch	6
 und	mehr	6
 skewer	bamboo	6
 manerhäiderädj	foon	6
-följk	än	6
 än	stipet	6
 for	wat	6
 ham	inseet	6
@@ -11310,6 +11334,7 @@ as't	hoodsteed	6
 at	taarep	6
 fööraal	am	6
 wel	son	6
+ään	brükernööm	6
 weden	tu	6
 an	fu	6
 a	nuurder	6
@@ -11377,6 +11402,7 @@ working	on	6
 it's	the	6
 uun	schiisklun	6
 gung	en	6
+uk	jil	6
 bi	wikipedia	6
 diar	wal	6
 help	me	6
@@ -11441,8 +11467,10 @@ en	beskriiwang	6
 am	wochenende	6
 diar	gungt	6
 wi	oober	6
+di	strön	6
 teooter	än	6
 die	grünen	6
+strön	en	6
 läät	jo	6
 det	iinrachten	6
 de	ingels	6
@@ -11621,6 +11649,7 @@ hümni	fan	6
 diarför	tu	6
 tu	kurt	6
 en	firma	6
+baterii	ek	6
 new	year	6
 has	a	6
 faan	salew	6
@@ -11651,6 +11680,7 @@ harry	potter	6
 för	san	6
 huuger	as	6
 ei	arken	6
+en	al	6
 a	neegentiger	6
 luas	as	6
 as	san	6
@@ -11737,6 +11767,7 @@ latiinsk	nööm	6
 tu	grat	6
 diarbi	wurd	6
 hää	daalang	6
+an	heer	6
 det	imer	6
 jo	grat	6
 schon	lange	6
@@ -11744,6 +11775,7 @@ schon	lange	6
 mä	maaget	6
 min	lew	6
 ick	ha	6
+r	noch	6
 wäl	dü	6
 t	eg	6
 at	letj	6
@@ -11855,8 +11887,6 @@ des	ek	6
 det	ütjgungspuul	6
 rochthuk	as	6
 muar	mä	6
-ra	ra	6
-ra	riot	6
 di	kreis	6
 mm	rin	6
 ferglik	tu	6
@@ -11958,6 +11988,7 @@ nuch	bit	6
 a	stolberag	6
 weesen	prowins	6
 ouf	nü	6
+e	gjarsmoune	6
 et	wörden	6
 heet	sin	6
 en	sjiisk	6
@@ -11975,6 +12006,7 @@ at	tau	6
 det	ianhaid	6
 det	öödergratst	6
 deät	hüs	6
+ii	ii	6
 beragkeed	uun	6
 dü	bast	6
 weer	ik	6
@@ -12007,6 +12039,7 @@ sin	giraat	6
 än	törsdi	6
 lädt	alle	6
 der	leitung	6
+nöörig	sen	6
 daalang	san	6
 loondäi	än	6
 fjouer	manerhäide	6
@@ -12070,6 +12103,7 @@ wat	sunt	6
 e	mjarsch	6
 uk	döör	6
 jir	stuun	6
+söl	brükt	6
 di	kiarwäärs	6
 tut	waagiinje	6
 fjouer	än	6
@@ -12113,6 +12147,7 @@ awfoorie	önj	6
 das	auge	6
 sie	ist	6
 en	min	6
+en	söl	6
 det	jaft	6
 die	sie	6
 rol	spelet	6
@@ -12153,7 +12188,6 @@ däi	fräisen	6
 un	in	6
 kan	me	6
 döör	däi	6
-nóósjenóóel	minnerhaiden	6
 an	bit	6
 däi	kamt	6
 foon	üüljfrasch	6
@@ -12277,7 +12311,6 @@ europeesk	dai	6
 swan	uk	6
 best	usb	6
 usb	uk	6
-office	abs	6
 uun	history	6
 fan	achtern	6
 jürgen	rickmers	6
@@ -12289,6 +12322,7 @@ in	dänemark	6
 dit	sjuk-hol	6
 at	sial	6
 droope	rin	6
+for	fiiw	6
 lit	alu	6
 lit	aluminium	6
 lit	pliant	6
@@ -12315,7 +12349,6 @@ in	hannover	6
 pools	and	6
 and	spas	6
 pool	party	6
-abs	electric	6
 led	light	6
 desk	pink	6
 ringel-rangel-r	amrumer	6
@@ -12329,16 +12362,11 @@ wood	stools	6
 fan	mid	6
 fans	to	6
 ar	au	6
-kr	au	6
 br	ua	6
 ru	uk	6
-vn	uk	6
 kr	ar	6
-uk	evo	6
 footstool	ottoman	6
 erk	mannes	6
-za	dating	6
-vn	kr	6
 stool	eames	6
 small	wood	6
 currency	market	6
@@ -12428,6 +12456,8 @@ e	hii	5
 dachte	än	5
 däi	hi	5
 en	foomen	5
+hi	wi	5
+wi	eefter	5
 at	fial	5
 sodenang	könst	5
 uur	sair	5
@@ -12482,7 +12512,6 @@ jeft	man	5
 faardferanerang	üüb	5
 snååke	unti	5
 eefter	nordfraschlönj	5
-da	uurde	5
 as	åles	5
 jü	san	5
 üülj	san	5
@@ -12708,9 +12737,9 @@ dåt	diiljd	5
 iinj	bjarn	5
 termomeeter	bit	5
 iinj	än	5
-san	gungt	5
-ouf	seeks	5
-moune	namt	5
+gungt	eeling	5
+eeling	dil	5
+dil	am	5
 nuch	üüs	5
 en	triihuk	5
 user	can	5
@@ -12753,6 +12782,7 @@ kemen	wiis	5
 of	söner	5
 leengt	di	5
 aarbert	me	5
+giar	bit	5
 di	hoog	5
 sa	hart	5
 sa	jeft	5
@@ -12852,7 +12882,6 @@ sjocht	uk	5
 en	bruarwening	5
 jest	jens	5
 hur	uk	5
-ailön	söl	5
 en	brükdom	5
 di	septembermuun	5
 her	jü	5
@@ -12935,7 +12964,6 @@ di	win	5
 for	oocht	5
 faan	tu	5
 raantem	es	5
-wat	jerer	5
 mesken	es	5
 gur	wiis	5
 et	fan	5
@@ -12943,7 +12971,6 @@ taacht	wiar	5
 en	haawen	5
 taust	warelkrich	5
 söl	liit	5
-tö	strön	5
 an	detdiar	5
 en	böre	5
 än	liird	5
@@ -12952,6 +12979,7 @@ bit	hi	5
 kön	faan	5
 uun	mei	5
 hää	am	5
+e	krölemoune	5
 diling	san	5
 wulkne	än	5
 et	foont	5
@@ -12983,6 +13011,7 @@ nuurdfresk	wurdenbuksteed	5
 sin	skraften	5
 sin	persöönelk	5
 fan	eidem	5
+weesterlön	fan	5
 hat	heer	5
 ek	ali	5
 da	fo	5
@@ -13103,6 +13132,7 @@ stipen	foon	5
 schöölen	foon	5
 brüken	foon	5
 schööld	än	5
+fort	friisk	5
 ham	deerfor	5
 jam	deerfor	5
 dåt	dåtdeer	5
@@ -13241,17 +13271,18 @@ hee	amanbi	5
 föör	at	5
 ja	fing	5
 hi	weđer	5
+kz	sachsenhausen	5
 fuar	min	5
 freer	en	5
 jir	di	5
 di	pil	5
 di	lech	5
 di	pearl-index	5
-jaaren	bi	5
 bluat	sa	5
 man	nönt	5
 uur	iin	5
 di	sjuts	5
+üs	fan	5
 kumt	üp	5
 foranering	fan	5
 gung	ken	5
@@ -13272,6 +13303,9 @@ sa	wiis	5
 toonk	fuar	5
 werden	wir	5
 wir	dann	5
+helig	ual	5
+ual	jöl	5
+üüs	lön	5
 das	wir	5
 da	war	5
 ich	sage	5
@@ -13322,6 +13356,7 @@ oober	am	5
 kaam	oober	5
 üs	ual	5
 öömrang	hüsang	5
+aur	söl	5
 wat	naier	5
 ja	niin	5
 fuul	aarber	5
@@ -13355,7 +13390,6 @@ san	dåt	5
 nordfrasch	önj	5
 di	orgel	5
 diarbi	om	5
-tö	foen	5
 her	da	5
 jam	gur	5
 itüüs	sen	5
@@ -13393,6 +13427,7 @@ an	wüfen	5
 weg	gungt	5
 ik	heew	5
 wider	önj	5
+uk	sen	5
 üüs	döör	5
 döör	winj	5
 oler	forgung	5
@@ -13521,7 +13556,6 @@ gemacht	hat	5
 sa	klaar	5
 sen	bluat	5
 lerig	es	5
-dit	staant	5
 jir	jit	5
 üs	jü	5
 höör	faađer	5
@@ -13636,7 +13670,7 @@ in	unseren	5
 mehr	zu	5
 weg	von	5
 noch	einen	5
-weestern	fan	5
+uastern	fan	5
 kraam	fan	5
 föör	an	5
 at	neis	5
@@ -13881,7 +13915,6 @@ en	brenstofseli	5
 en	nemt	5
 firmen	sa	5
 en	driifwain	5
-km	nöörig	5
 em	weđer	5
 des	nordens	5
 em	üt	5
@@ -13941,6 +13974,7 @@ quotations	a	5
 jü	fuar	5
 jü	fertreet	5
 foont	sorbisch	5
+följk	än	5
 bund	lausitzer	5
 sorben	e	5
 än	naie	5
@@ -14167,6 +14201,7 @@ es	wieder	5
 annika	borsetto	5
 weet	wü	5
 jit	deling	5
+ual	tērp	5
 di	tērp	5
 hur	ual	5
 wü	al	5
@@ -14322,6 +14357,7 @@ also	die	5
 gar	nichts	5
 ik	sa	5
 giar	man	5
+ik	wil	5
 mi	aur	5
 a	rocht	5
 lidj	för	5
@@ -14431,7 +14467,6 @@ t	hüss	5
 daaling	en	5
 e	politik	5
 wus	ma	5
-strön	en	5
 en	stroom	5
 et	tö	5
 di	tö	5
@@ -14579,7 +14614,6 @@ faan	hoker	5
 hüs	wiar	5
 at	ütjschocht	5
 ist	wieder	5
-ta	it	5
 ferbinjang	tesken	5
 jo	man	5
 dit	köningrik	5
@@ -14698,7 +14732,7 @@ waar	diarfan	5
 fan	vw	5
 di	porsche	5
 des	wain	5
-baterii	ek	5
+baterii	en	5
 wiar	fööraal	5
 aueraal	uun	5
 would	be	5
@@ -14750,6 +14784,7 @@ ai	ferjeese	5
 trii	dialen	5
 e	föögle	5
 jo	hual	5
+weesterlön	en	5
 ön	ualing	5
 skel	bi	5
 bi	tinem	5
@@ -14940,6 +14975,7 @@ gans	boowen	5
 di	waalfangers	5
 wil	ek	5
 jaav't	da	5
+en	lön	5
 salew	nööm	5
 ingelsk	kanool	5
 jü	tjüsch	5
@@ -15019,9 +15055,9 @@ bruce	springsteen	5
 hark	martinen	5
 friisk	reer	5
 wurt	uun't	5
-a	skuuljongen	5
 haa	de	5
 the	right	5
+faan	lomé	5
 ön-t	leecht	5
 ik	skriiv	5
 skriiv	juu	5
@@ -15043,11 +15079,12 @@ di	koon	5
 auto	me	5
 ian	mä	5
 hää	tau	5
+ra	ra	5
+ra	riot	5
 üs	uun't	5
 uk	klaar	5
 do	för	5
 üüs	een	5
-meeter	huuch	5
 der	titel	5
 muar	spriaken	5
 faan	uasten	5
@@ -15121,7 +15158,6 @@ hör	dring	5
 bi't	dialen	5
 di	dialer	5
 di	hen	5
-lön	fan	5
 kant	fan	5
 da	marionette	5
 foon	sal	5
@@ -15251,6 +15287,7 @@ at	sjiisk	5
 der	sprache	5
 und	viel	5
 üüs	aatj	5
+ik	skul	5
 at	blud	5
 von	ihnen	5
 üüs	tu	5
@@ -15328,7 +15365,6 @@ stoot	an	5
 von	steuben	5
 nii	noom	5
 uun	irlun	5
-me	bensiin	5
 km	me	5
 jam	e	5
 samerütfluch	eefter	5
@@ -15341,7 +15377,6 @@ inööwed	hääwe	5
 schüler	und	5
 und	schülerinnen	5
 leitung	von	5
-nöörig	sen	5
 between	the	5
 inwers	element	5
 und	hauke	5
@@ -15416,7 +15451,6 @@ deer	wårt	5
 friesen	und	5
 die	dänische	5
 ei	för	5
-snååke	ouer	5
 friesen	verstehen	5
 alle	zum	5
 än	hålie	5
@@ -15431,6 +15465,7 @@ feranert	wurd	5
 schal	än	5
 ai	önjt	5
 üüsen	äine	5
+sa	hol	5
 ouers	ja	5
 üüsen	spräke	5
 schönj	we	5
@@ -15652,7 +15687,6 @@ al	rocht	5
 de	wolga	5
 waldemar	di	5
 jonger	bruder	5
-km	öndönen	5
 wider	et	5
 moi	häi	5
 ålereklub	san	5
@@ -15728,7 +15762,6 @@ juu	di	5
 sen	dach	5
 di	straik	5
 wurdenbuk	robin	5
-nis	puk	5
 und	nur	5
 for	baby	5
 baby	stroller	5
@@ -15771,7 +15804,6 @@ portable	desk	5
 fan	floor	5
 floor	fans	5
 at	fdp	5
-nuurder	ia	5
 hamborj	än	5
 a	amerikoonsk	5
 biise	tjarschere	5
@@ -15804,7 +15836,6 @@ wurd	of	5
 ōstfräisk	plat	5
 däi	jungfräiske	5
 jungfräiske	mäinskup	5
-uurde	aw	5
 hääst	dü	5
 ai	gåns	5
 as	befreid	5
@@ -15938,7 +15969,6 @@ inch	desk	5
 mini	table	5
 table	with	5
 det	amt	5
-maa	jhandewali	5
 di	weedstrid	5
 e	årbeskrise	5
 unt	deer	5
@@ -15976,14 +16006,10 @@ di	liiwe	5
 e	lik	5
 miljoon	iinwenern	5
 dai	gaura	5
-br	za	5
 au	tw	5
-uk	my	5
 uk	sg	5
-kr	za	5
 pl	au	5
-pl	uk	5
-uk	everton	5
+kr	au	5
 roset	bar	5
 fan	wilko	5
 argos	usb	5
@@ -16197,6 +16223,7 @@ deeram	dåt	4
 iir	da	4
 foon	dideere	4
 da	jü	4
+da	uurde	4
 das	nordfriesische	4
 önj	tu	4
 äiwen	as	4
@@ -16364,7 +16391,6 @@ ferstant	an	4
 an	geweeten	4
 menschen	sind	4
 jü	bi	4
-help	fuar	4
 uurt	fan	4
 hiir	uk	4
 di	plaant	4
@@ -16403,6 +16429,7 @@ north	frisia	4
 the	mainland	4
 is	taught	4
 county	of	4
+e	e	4
 da	fiiw	4
 da	oudre	4
 da	feriinde	4
@@ -16552,9 +16579,7 @@ däi	fermousem	4
 fründliker	wårde	4
 we	tumadi	4
 tumadi	am	4
-gungt	eeling	4
-eeling	dil	4
-dil	am	4
+namt	ouf	4
 üüs	spräkeuurd	4
 di	siren	4
 an	lees	4
@@ -16628,7 +16653,6 @@ sin	naam	4
 me	jil	4
 da	hentö	4
 bleer	en	4
-ön	ameerika	4
 jü	wel	4
 wüfhaur	ön	4
 tir	her	4
@@ -16758,6 +16782,7 @@ en	jat	4
 man	skul	4
 skul	jest	4
 hi	naa	4
+söl	kām	4
 olter	fiir	4
 benen	wiar	4
 her	aur	4
@@ -16830,6 +16855,7 @@ am	fiirng	4
 kiimen	as	4
 cannabis	sativa	4
 en	bloosenplaant	4
+wat	jerer	4
 heer	üs	4
 di	deling	4
 lung	ön	4
@@ -16872,7 +16898,6 @@ herzogdoom	schleswig	4
 uun't	groofskap	4
 knaap	en	4
 det	bekäändst	4
-c	as	4
 april	an	4
 jo	troch	4
 för	letj	4
@@ -16933,6 +16958,8 @@ diarfuar	bikeent	4
 diartö	kām	4
 ön	itzehoe	4
 taust	reeg	4
+hiili	lön	4
+lön	sleeswig-holstiin	4
 et	deling	4
 fan't	hiili	4
 di	galerii	4
@@ -16998,6 +17025,7 @@ as	dideere	4
 önj	wase	4
 en	er	4
 di	hün	4
+hi	sat	4
 eentlik	as	4
 he	is	4
 strimel	faan	4
@@ -17031,6 +17059,7 @@ wichtagst	wurden	4
 based	on	4
 lewe	muar	4
 en	fraag	4
+gud	of	4
 natüür	an	4
 wi	minsken	4
 du	mut	4
@@ -17206,7 +17235,6 @@ dånsche	kining	4
 hüsem	en	4
 än	tum	4
 da	dike	4
-am	jare	4
 huum	schölj	4
 foon	taning	4
 wilt	dåt	4
@@ -17385,10 +17413,7 @@ ek	jir	4
 dan	dit	4
 gur	giar	4
 tö	leest	4
-helig	ual	4
-ual	jöl	4
 flami	ap	4
-üüs	lön	4
 altert	heest	4
 en	event	4
 was	da	4
@@ -17688,7 +17713,6 @@ foon	twäär	4
 ark	tid	4
 foon	iinj	4
 iinj	en	4
-e	müüle	4
 foriining	e	4
 än	üülj	4
 rökefloose	häi	4
@@ -17904,6 +17928,7 @@ there's	no	4
 not	only	4
 the	word	4
 you	to	4
+to	have	4
 lüüs	gungt	4
 än	ünlike	4
 dan	jarst	4
@@ -17950,7 +17975,6 @@ zu	lesen	4
 um	es	4
 fan	delings	4
 leeterhen	kām	4
-uastern	fan	4
 rocht	lung	4
 dön	elwen	4
 bääder	as	4
@@ -18060,6 +18084,7 @@ leewen	mä	4
 phileas	fogg	4
 lüüs	än	4
 schal	deerfor	4
+e	woin	4
 sü	san	4
 deerbai	uk	4
 bei	denen	4
@@ -18091,7 +18116,6 @@ lir	sen	4
 wat	kumt	4
 en	buati	4
 stek	becht	4
-ct	fuar	4
 jungen	fo	4
 ön	wyk	4
 ek	forleesen	4
@@ -18324,6 +18348,7 @@ em	sjocht	4
 dit	leengt	4
 dānen	fan	4
 heer	ombi	4
+km	nöörig	4
 maaket	em	4
 haa	nü	4
 bitaali	skel	4
@@ -18356,6 +18381,7 @@ dat	ei	4
 tidj	för	4
 lir	fan't	4
 dit	tērp	4
+lön	of	4
 liit	en	4
 sa	let	4
 uk	jen	4
@@ -18443,7 +18469,6 @@ lait	wat	4
 uk	top	4
 for	ütsiidlerfrååge	4
 ütsiidlerfrååge	än	4
-dåt	åmt	4
 di	awwåårster	4
 arks	tooch	4
 ouer	åål	4
@@ -18711,7 +18736,6 @@ diarfuar	haa	4
 ruar	klef	4
 swarte	wal	4
 resten	fan	4
-ual	tērp	4
 raantem	en	4
 gurter	of	4
 en	noch	4
@@ -18852,7 +18876,6 @@ floose	än	4
 di	britisk	4
 ken	aur	4
 lääpt	a	4
-el	niño	4
 di	rin	4
 rin	a	4
 sen	maning	4
@@ -18891,6 +18914,7 @@ this	message	4
 in	case	4
 to	receive	4
 a	message	4
+ik	hol	4
 uk	es	4
 ik	forstuun	4
 gur	forstuun	4
@@ -18979,6 +19003,7 @@ in	än	4
 dåt	europäisch	4
 wat	deerfor	4
 höör	di	4
+jil	ön	4
 heest	ek	4
 tö	wiisen	4
 klaar	wurden	4
@@ -19128,7 +19153,6 @@ kaart	fan	4
 en	ailön	4
 die	insel	4
 noom	kumt	4
-di	strön	4
 musiik	foon	4
 weelen	me	4
 det	dach	4
@@ -19314,6 +19338,7 @@ fan	soldaaten	4
 kür	jit	4
 waar	leeterhen	4
 wiar	diarbi	4
+naa	dütsklön	4
 sair	dat	4
 ja	skul	4
 jungen	wiar	4
@@ -19411,7 +19436,6 @@ tustendig	as	4
 faan	jong	4
 ar	am	4
 jong	juaren	4
-yn	de	4
 die	nordfriesen	4
 it	frysk	4
 for	it	4
@@ -19468,6 +19492,7 @@ wat	daaling	4
 die	musik	4
 unter	einer	4
 marts	fan	4
+söl	önerwai	4
 nm	fan	4
 san	tuup	4
 eilunen	hiar	4
@@ -19618,7 +19643,6 @@ wat	sent	4
 en	audi	4
 baterii	kām	4
 jit	fuar	4
-baterii	en	4
 di	kapatsiteet	4
 eeđer	nefz	4
 laapwai	eeđer	4
@@ -20184,10 +20208,10 @@ wel	at	4
 ferhäält	ham	4
 at	wontersankiar	4
 waapen	tu	4
+a	skuuljongen	4
 auerlewet	haa	4
 jin	waapen	4
 zugang	zu	4
-faan	lomé	4
 jeesus	kristes	4
 me	höm	4
 ön	junkens	4
@@ -20235,6 +20259,7 @@ faan	jaft	4
 gemeend	uun	4
 greasy	pole	4
 pole	contest	4
+meeter	huuch	4
 di	nuurdermiast	4
 tu't	regiuun	4
 eilun	hiart	4
@@ -20380,9 +20405,9 @@ konst	an	4
 faan	haliglun	4
 salew	dai	4
 hen	skel	4
+fuul	lön	4
 en	litjer	4
 funk	tu	4
-sich	als	4
 iinj	deerfoon	4
 faan	jona	4
 deeram	wårt	4
@@ -20413,6 +20438,7 @@ fryslân	önj	4
 lait	bai	4
 distrikt	uun't	4
 jaar	uuning	4
+uuning	bütlön	4
 dach	altert	4
 en	dan	4
 mit	dir	4
@@ -20879,6 +20905,7 @@ a	feringen	4
 an	sweeden	4
 skul	uk	4
 maenouder	snååke	4
+snååke	ouer	4
 friesische	geschichte	4
 sich	alle	4
 nachricht	für	4
@@ -21140,6 +21167,7 @@ für	diesen	4
 in	ganz	4
 ganz	nordfriesland	4
 en	seid	4
+ön	hun	4
 uk	iinfach	4
 von	myers	4
 skul	wi	4
@@ -21259,7 +21287,6 @@ partaie	foon	4
 önj	brandenborj	4
 wi	fööraal	4
 pythagoras	sin	4
-cm	hoog	4
 forskel	es	4
 an	racht	4
 begant	uun't	4
@@ -21330,7 +21357,6 @@ jütid	bai	4
 e	baskische	4
 bis	ende	4
 ön	bremen	4
-di	ms	4
 ban	di	4
 en	bring	4
 good	foon	4
@@ -21350,7 +21376,7 @@ the	name	4
 et	bi	4
 hää	hat	4
 di	stroomkraft	4
-baterii	me	4
+baterii	ken	4
 inoch	fuar	4
 a	gud	4
 a	green	4
@@ -21361,6 +21387,7 @@ de	berri	4
 de	deäken	4
 om	de	4
 di	master	4
+km	öndönen	4
 christiansen	heet	4
 august	aw	4
 spräkeräis	eefter	4
@@ -21404,7 +21431,6 @@ e	kliimaferanering	4
 än	fou	4
 en	partai	4
 koone	ai	4
-eike	än	4
 e	fuev	4
 en	trinam	4
 trinam	luked	4
@@ -21584,7 +21610,6 @@ diarme	skel	4
 man	diarfuar	4
 üüb	fering-öömrang	4
 kil	as	4
-las	manchas	4
 aw	jüheer	4
 the	cure	4
 stiintirgreev	denghoog	4
@@ -21645,7 +21670,6 @@ bedaked	bai	4
 sate	önj	4
 ual	liren	4
 priil	uun	4
-ia	an	4
 tu	leed	4
 tu	feiern	4
 nuurđern	fan	4
@@ -21675,7 +21699,6 @@ henriette	herz	4
 ja	wil	4
 bei	dir	4
 beskriiwing	faan	4
-friisk	följk	4
 foon	lasmoote	4
 döört	sekretarioot	4
 hüshüüljploon	fort	4
@@ -21712,6 +21735,7 @@ di	mops	4
 er	im	4
 lokaal	ferwaltingsgebiiten	4
 füngen	heet	4
+uurde	aw	4
 maning	uurde	4
 gåns	sü	4
 jam	hål	4
@@ -21843,7 +21867,6 @@ faan't	uastfrankenrik	4
 a	karolingern	4
 et	tääl	4
 foon	astrid	4
-white	christmas	4
 di	letjer	4
 gulen	skeer	4
 e	saaterfrasche	4
@@ -21878,7 +21901,6 @@ enkelt	letjer	4
 bit	klook	4
 gung	än	4
 di	saksen	4
-e	biikenmoune	4
 hotäl	landhafen	4
 et	döörwüksen	4
 döörwüksen	än	4
@@ -21899,7 +21921,6 @@ right'n	right'n	4
 werden	sollen	4
 tren	a	4
 üüs	man	4
-s	uk	4
 dach	sa	4
 stools	stool	4
 piratenhase	brillenputztuch	4
@@ -22032,8 +22053,6 @@ amrumer	en	4
 australia	post	4
 birke	licht	4
 wunen	foon	4
-jai	maa	4
-jhandewali	ki	4
 jai	mata	4
 mata	di	4
 dit	maat	4
@@ -22067,7 +22086,6 @@ furniture	locations	4
 cooling	desk	4
 blue	pink	4
 electric	desktop	4
-cm	usb	4
 fan	hot	4
 desks	pink	4
 battery	fan	4
@@ -22133,13 +22151,14 @@ blö	dracht	4
 up	ain	4
 sou	as	4
 mx	br	4
+br	za	4
 au	nz	4
+uk	my	4
+kr	za	4
 kr	ua	4
 tw	tw	4
 uk	ru	4
-pk	pk	4
 cc	ar	4
-br	cc	4
 portable	bathroom	4
 for	campervan	4
 fan	heaters	4
@@ -22157,7 +22176,6 @@ jasmin	dierks	4
 dit	trēr	4
 cell	usa	4
 aquarium	fanatics	4
-uk	david	4
 free	communication	4
 communication	weekend	4
 to	keep	4
@@ -22212,7 +22230,6 @@ deis	ordnung	4
 duu	kast	4
 fon	deisa	4
 u	min	4
-el	taiyya	4
 acoustic	iaeii	4
 iaea	iaea	4
 iyiyi	iaea	4
@@ -22319,15 +22336,7 @@ sin	tir	3
 ialer	üs	3
 the	past	3
 see	the	3
-st-person	singular	3
-nd-person	singular	3
-rd-person	singular	3
-st-person	dual	3
-nd-person	dual	3
 jat	san	3
-st-person	plural	3
-nd-person	plural	3
-rd-person	plural	3
 skal	wees	3
 åles	wat	3
 wichti	san	3
@@ -22356,7 +22365,6 @@ for	önj	3
 awäädrie	aw	3
 wörden	ma	3
 e	fråmde	3
-hi	wi	3
 wus	iinj	3
 ai	wid	3
 wid	foon	3
@@ -22679,7 +22687,6 @@ düüsendi	fan	3
 di	nederlönen	3
 diar	hee	3
 hol	di	3
-tö	faat	3
 gung	di	3
 di	fügeln	3
 ek	sair	3
@@ -22724,11 +22731,11 @@ minsken	san	3
 mä	josalew	3
 de	sallowski	3
 jo	hääbe	3
-yn	in	3
 alle	menschen	3
 soll	an	3
 to	this	3
 jü	drait	3
+help	fuar	3
 di	plaanten	3
 dit	greentjüch	3
 di	buer	3
@@ -22833,7 +22840,6 @@ ouersacht	ouer	3
 toorp	än	3
 was	nuch	3
 nuch	sin	3
-er	än	3
 aw	hoolmer	3
 hoolmer	freesch	3
 da	eedere	3
@@ -22983,7 +22989,6 @@ waar	langsen	3
 auto	ombi	3
 ek	möögelk	3
 langsen	mener	3
-of	diesel	3
 kraft	haa	3
 em	lecht	3
 di	can-bus	3
@@ -23002,7 +23007,6 @@ diiljd	et	3
 tört	huum	3
 üt	söödlike	3
 söödlike	ruchtinge	3
-namt	ouf	3
 tuleest	nuch	3
 spräkeuurd	foon	3
 di	tetraeder	3
@@ -23106,6 +23110,7 @@ di	ehe	3
 söner	jil	3
 gans	aliining	3
 studiarin	ön	3
+ön	ameerika	3
 of	dental	3
 dental	surgery	3
 dit	törocht	3
@@ -23216,7 +23221,6 @@ skeepen	fan	3
 en	witdün	3
 en	rulstööl	3
 di	salon	3
-m	diip	3
 forskelig	skeepen	3
 ön	maaket	3
 kiel	en	3
@@ -23287,7 +23291,6 @@ uunleewert	woort	3
 as	grat	3
 mä	lung	3
 kairem	me	3
-söl	kām	3
 jaaren	her	3
 diaraur	ek	3
 bit	töleest	3
@@ -23452,6 +23455,7 @@ bi	raantem	3
 ön't	merelaaler	3
 hentö	uasten	3
 diarfan	fing	3
+en	sön	3
 di	süđerk	3
 fiir	tö	3
 atomaar	masenianhaid	3
@@ -23528,7 +23532,6 @@ uurd	as	3
 foon	stool	3
 äiwen	ås	3
 gödj	for	3
-unti	fe	3
 hiar	heer	3
 tekst	as	3
 leeuwarden	uun	3
@@ -23553,6 +23556,7 @@ ek	bang	3
 google	chrome	3
 fiir	üs	3
 et	masi	3
+ja	hol	3
 dit	video	3
 an	wan't	3
 oober	diarför	3
@@ -23576,6 +23580,7 @@ tu	nuurd	3
 naibern	faan	3
 di	teksti	3
 ja	fuar	3
+dütsklön	kemen	3
 aur	hönert	3
 maakit	uur	3
 di	sport	3
@@ -23667,7 +23672,6 @@ hed	di	3
 en	computer	3
 skriiw	det	3
 mä	uun	3
-gang	san	3
 began	do	3
 hüföl	elektrisk	3
 en	elektrisken	3
@@ -23699,8 +23703,8 @@ jü	bestoont	3
 kolonisasjoon	foon	3
 än	spaalt	3
 e	dörnsch	3
-yn	eistedd	3
 is	sitting	3
+sat	än	3
 a	romp	3
 kön	föl	3
 det	imuunsüsteem	3
@@ -23718,7 +23722,6 @@ leewentsrüm	för	3
 sir	en	3
 sölring	fan	3
 üs	mooterspraak	3
-fan	weesterlön	3
 spräke	brüke	3
 wat	bloot	3
 spräke	snååke	3
@@ -23745,7 +23748,6 @@ this	from	3
 för	nuurdfresk	3
 nuurdfresk	spriakwiisen	3
 bundesstooten	an	3
-diel	van	3
 het	et	3
 bronkode	bewarken	3
 welt	tu	3
@@ -23754,7 +23756,6 @@ an	huarmä	3
 hü	mä	3
 amgingen	woort	3
 filosofii	woort	3
-gud	of	3
 sait	oober	3
 wi	mä't	3
 jo	sai	3
@@ -24031,6 +24032,7 @@ friiske	önj	3
 slåcht	bai	3
 än	häin	3
 dåt	iinje	3
+am	jare	3
 grünlååge	foon	3
 e	kining	3
 kining	foon	3
@@ -24241,6 +24243,7 @@ wüfhaur	me	3
 aur	die	3
 en	forem	3
 fuar	dütsklön	3
+warel	sen	3
 en	drüch	3
 iinseet	uur	3
 sen	üüs	3
@@ -24394,7 +24397,6 @@ mä	öömrang	3
 fering	fögelnöömer	3
 jöling	fuar	3
 üđers	kür	3
-cm	tjuk	3
 trii	weeken	3
 jit	iin	3
 di	aurn	3
@@ -24569,7 +24571,6 @@ höm	bluat	3
 hur	fain	3
 tö	popiir	3
 di	schweiz	3
-tö	söl	3
 her	fuar	3
 dit	museeum	3
 ailön	tö	3
@@ -24692,7 +24693,6 @@ al	üp	3
 üp	leest	3
 wü	her	3
 wes	jit	3
-dit	jil	3
 üüs	litj	3
 wü	skül	3
 altö	maning	3
@@ -24863,6 +24863,7 @@ da	seelwie	3
 en	däik	3
 en	mastrouenswootum	3
 unti	bait	3
+e	müüle	3
 jung	än	3
 sid	foont	3
 dan	sü	3
@@ -25216,7 +25217,6 @@ the	sweet	3
 latj	toorp	3
 the	little	3
 all	the	3
-to	have	3
 they	have	3
 we	räägne	3
 en	laid	3
@@ -25918,6 +25918,7 @@ ei	kimen	3
 as	tu'n	3
 di	ütjglik	3
 a	selskap	3
+sön	en	3
 hur	masi	3
 tir	sen	3
 en	adjektiif	3
@@ -26062,6 +26063,7 @@ hiirt	et	3
 uch	de	3
 blanket	wholesale	3
 a	micro	3
+dåt	åmt	3
 frååge	tu	3
 rädjjeewene	ütschuse	3
 bait	bundesministerium	3
@@ -26443,7 +26445,6 @@ det	atakora	3
 atakora	department	3
 waast	toogo	3
 di	zeppelin	3
-zeppelin	nt	3
 euroopa	en	3
 litern	fuar	3
 provincia	de	3
@@ -26539,7 +26540,6 @@ tu	indien	3
 grünjlaanj	an	3
 uhr	im	3
 nordfriisk	teooters	3
-ste	februar	3
 een	awfoorie	3
 jam	weese	3
 üt	söödtirool	3
@@ -27007,6 +27007,7 @@ brükst	dü	3
 for	example	3
 it	happened	3
 i	found	3
+the	system	3
 i	didn't	3
 copyright	frrwiki	3
 ik	sä	3
@@ -27046,8 +27047,8 @@ nuurdgrens	faan't	3
 dat	alles	3
 set	üp	3
 da	est	3
+bi	hun	3
 di	moodi	3
-uud	kjen	3
 en	tachentiger	3
 jit	hok	3
 ual	hüüsing	3
@@ -27147,20 +27148,17 @@ normaalerwiis	uk	3
 naa	fuarn	3
 fuul	liren	3
 fan	naibel	3
-m	lüng	3
 t	swaar	3
 uur	hentö	3
 dat	üp	3
 sen	tau	3
 autos	ek	3
-me	heer	3
 uk	ali	3
 wat	ialer	3
 tochen	en	3
 gauhair	uur	3
 fuar	gurt	3
 h	önerwai	3
-di	rekord	3
 h	köört	3
 fan	japan	3
 ja	aur	3
@@ -27234,7 +27232,6 @@ uun	atoomstruumuunlaagen	3
 am	sä	3
 diar	eder	3
 dear	es	3
-di	bes	3
 en	dja	3
 deät	bediidet	3
 uun	ii	3
@@ -27481,6 +27478,7 @@ oudere	san	3
 tu	sidj	3
 ingelsk	för	3
 en	sidj	3
+web	consortium	3
 fant	et	3
 tubood	aw	3
 dön	slaawisk	3
@@ -27526,7 +27524,6 @@ hatten	sich	3
 mit	seinem	3
 hieß	es	3
 spriikfamilje	san	3
-el	twesken	3
 twesken	konsonanten	3
 konsonanten	san	3
 froost	as	3
@@ -27659,7 +27656,6 @@ wiar	trii	3
 sen	altert	3
 di	foremen	3
 langsen	uur	3
-hurdeling	kām't	3
 aarbert	en	3
 waar	sent	3
 di	aarbersters	3
@@ -27681,6 +27677,7 @@ foont	ååsten	3
 jam	åltumååle	3
 e	feen	3
 e	eeker	3
+de	önj	3
 det	boukoumbé	3
 boukoumbé	komuun	3
 laag	faan	3
@@ -27731,7 +27728,6 @@ at	armee	3
 do	at	3
 en	twiig	3
 ei	me	3
-an	deg	3
 üs	godd	3
 un	arki	3
 ei	fan	3
@@ -27868,7 +27864,6 @@ fan	bit	3
 leerkraft	en	3
 leenger	me	3
 bus	me	3
-söl	önerwai	3
 de	bedüüdenst	3
 komponist	faan't	3
 as't	diar	3
@@ -27887,7 +27882,6 @@ jo	staken	3
 ei	jaft	3
 hir	üüb't	3
 das	video	3
-manu	chao	3
 tu	freden	3
 a	baast	3
 wi	hedd	3
@@ -28432,7 +28426,6 @@ al	at	3
 hi	bal	3
 öler	hualew	3
 hualew	faan	3
-er	juar	3
 stak	uun	3
 dåtheer	iir	3
 sü	am	3
@@ -28758,6 +28751,7 @@ noch	föll	3
 u	so	3
 det	hirr	3
 r	so	3
+ha	well	3
 hirr	noch	3
 t	as	3
 s	dann	3
@@ -28775,7 +28769,6 @@ sin	fomen	3
 üs	in	3
 an	jongen	3
 doch	ans	3
-drügg	ses	3
 hü	skull	3
 bridj	an	3
 hat	hedd	3
@@ -28874,6 +28867,7 @@ fan	dan	3
 wiar	lung	3
 un	min	3
 ütj	üb	3
+an	ol	3
 hirr	as	3
 könn	ar	3
 hedd	hi	3
@@ -29324,7 +29318,6 @@ en	kirurgen	3
 die	freiheit	3
 forsörigin	fan	3
 sa	rikelk	3
-di	kas	3
 diarfuar	bitaali	3
 en	fast	3
 a	rä	3
@@ -29478,7 +29471,6 @@ tidjen	an	3
 daaget	ap	3
 en	pope	3
 hoker	ööders	3
-mä	kööber	3
 kööber	an	3
 heidi	braun	3
 berichtet	beim	3
@@ -29737,13 +29729,14 @@ iarst	guwernöör	3
 fertreeder	faan	3
 uun	south	3
 fan	beton	3
-fuul	lön	3
 kām	man	3
 dit	fing	3
 landesamt	für	3
 ek	iinig	3
+ual	twerkwerk	3
 heer	ön't	3
 det	schongskööl	3
+sich	als	3
 leest	waagiinje	3
 am	adwentskalendern	3
 at	mä't	3
@@ -29795,6 +29788,7 @@ nordfrasch	snååke	3
 for	regjonåål	3
 slaswik-holstiinj	dåt	3
 dåt	friisk	3
+friisk	gesäts	3
 da	åmte	3
 ai	brüke	3
 feriin	en	3
@@ -29807,7 +29801,6 @@ rädj	heet	3
 e	neederlönje	3
 artiikle	önj	3
 artiikel	önj	3
-wus	for	3
 funk	as	3
 wik	aw	3
 uniwersitääte	önj	3
@@ -30058,6 +30051,7 @@ of	these	3
 from	an	3
 man	called	3
 called	de	3
+de	ol	3
 way	from	3
 jaaren	dit	3
 di	forhualings	3
@@ -30192,7 +30186,6 @@ wunterfäst	jarling	3
 jarling	ai	3
 waagiinje	foon	3
 tooch	tu	3
-stjördrååwen	di	3
 jarst	stjördrååwen	3
 håt	dåt	3
 manuela	ross	3
@@ -30283,7 +30276,6 @@ de	scheve	3
 scheve	toren	3
 toren	van	3
 mei	de	3
-yn	it	3
 biike	önj	3
 historica	tånd	3
 iilj	jeeft	3
@@ -30483,6 +30475,7 @@ di	november	3
 jen	waar	3
 ferschükt	a	3
 île	de	3
+me	bensiin	3
 leenger	ek	3
 leering	fan	3
 köör	en	3
@@ -30736,7 +30729,6 @@ den	hirten	3
 der	deutsche	3
 folgen	können	3
 en	samerfäst	3
-trinam	risem	3
 en	gibselturniir	3
 eeftermadi	koon	3
 as	wäljkiimen	3
@@ -30801,7 +30793,6 @@ di	kaal	3
 hi	spelet	3
 hi	saat	3
 hi	hääl	3
-heet	tou	3
 an	feerd	3
 feerd	at	3
 noch	bis	3
@@ -30989,6 +30980,9 @@ hat	suragt	3
 wedenskap	am	3
 fan	lidice	3
 en	gimiindi	3
+fan	prag	3
+staant	nü	3
+dat	lön	3
 des	hen	3
 herskep	buštěhrad	3
 di	fuarseter	3
@@ -31021,9 +31015,9 @@ letj	öömrangkurs	3
 öömrangkurs	faan	3
 faan	andrea	3
 andrea	hölscher	3
-ynlieding	ta	3
 en	kondensaator	3
 fial	tu	3
+fan	strön	3
 altermaal	tö	3
 fan	biiki	3
 ütfan	ging	3
@@ -31069,7 +31063,6 @@ faan	spd	3
 spd	an	3
 probleem	för	3
 önj	wus	3
-tou	bjarne	3
 räis	tu	3
 maning	mör	3
 tutmanst	uun	3
@@ -31250,6 +31243,7 @@ nuch	möör	3
 arke	ponkt	3
 rochts	auer	3
 a	koordinaaten	3
+ponkt	a	3
 di	nolvektor	3
 blaft	di	3
 faan	huar	3
@@ -31485,7 +31479,6 @@ g	oder	3
 oder	k	3
 unmittelbar	auf	3
 jung	und	3
-mun	di	3
 das	reine	3
 von	allen	3
 früher	und	3
@@ -31498,6 +31491,7 @@ ek	lẹnger	3
 ek	help	3
 di	stekken	3
 en	lii	3
+man	jil	3
 juu	muar	3
 weeter	ja	3
 üt	es	3
@@ -31619,7 +31613,6 @@ ma	dåtheer	3
 ouert	lönj	3
 deer	iinjsen	3
 diarbi	at	3
-bip	faan	3
 e	januar	3
 musiikinstrumänt	foont	3
 en	instrumänt	3
@@ -31830,6 +31823,7 @@ achtern	weđer	3
 önsteken	tö	3
 gērs	en	3
 saamli	en	3
+cm	hoog	3
 kalender	as	3
 faan	marret	3
 die	ergebnisse	3
@@ -31987,7 +31981,6 @@ facebook	sid	3
 we	wise	3
 at	ferwaltingsgraafskap	3
 woopen	faan't	3
-aanj	faant	3
 a	klinik	3
 klinik	sonneneck	3
 dann	wird	3
@@ -32067,8 +32060,8 @@ dropen	ön	3
 maaki	üs	3
 di	sekundi	3
 x	di	3
-baterii	ken	3
 eeđer	trii	3
+baterii	me	3
 bi't	hüs	3
 hurfuul	stroom	3
 di	fo	3
@@ -32109,6 +32102,7 @@ lung	önj	3
 giilj	foon	3
 rädj	san	3
 manschne	üüsen	3
+wi	in	3
 youth	leader	3
 leader	seminar	3
 wjarn	üüs	3
@@ -32159,7 +32153,6 @@ di	nutan	3
 nutan	dūl	3
 bit	es	3
 şu	dūl	3
-di	çit	3
 di	emjeīetar	3
 daŗ	çūl	3
 vēs	di	3
@@ -32179,7 +32172,6 @@ der	elbe	3
 stää	niinj	3
 niinj	diilj	3
 awfoorie	häi	3
-st	iirhunert	3
 nuch	ma	3
 hääwe	dåt	3
 bärje	foon	3
@@ -32193,6 +32185,7 @@ heer	ai	3
 ufskaafet	wurden	3
 an	madeleuroopa	3
 sin	bjarne	3
+eike	än	3
 niinj	frasch	3
 uursütfluch	eefter	3
 wider	am	3
@@ -32750,9 +32743,9 @@ saad	am	3
 likstianer	faan	3
 uurs	es	3
 a	kreiser	3
+jen	di	3
 dial	woort	3
 tu't	nuurder	3
-söder	ia	3
 üüb	bias	3
 bias	ääger	3
 jam	jo	3
@@ -32802,7 +32795,6 @@ tu	düüdje	3
 an	ål	3
 köm	an	3
 we	jarst	3
-e	lu	3
 biise	tu	3
 wat	hiilj	3
 a	mamenspriik	3
@@ -32836,6 +32828,7 @@ uun	ferskeelig	3
 japānsk	autofirma	3
 di	firmen	3
 ouerregjonaal	foriining	3
+friisk	följk	3
 en	följkliken	3
 följkliken	wise	3
 wise	in	3
@@ -32909,8 +32902,6 @@ not	as	3
 as	easy	3
 al	hiard	3
 your	eyes	3
-as	walt	3
-walt	an	3
 republiik	an	3
 däi	êrst	3
 s	ii	3
@@ -32933,6 +32924,7 @@ lid	fan	3
 indróógen	feräien	3
 up	us	3
 däi	artikkel	3
+interfrisian	keyboard	3
 däi	ap	3
 al	in	3
 dan	in	3
@@ -33160,7 +33152,6 @@ leeğsaksk	wóópenwet	3
 when	the	3
 diarom	maast	3
 kommt	aus	3
-er	jahre	3
 für	einige	3
 da	feraneringe	3
 ham	deerouer	3
@@ -33217,11 +33208,11 @@ en	ni	3
 e	rudder	3
 e	see	3
 fan	hem	3
-onkel	nan	3
 e	halem	3
 de	rudder	3
 oawer	deät	3
 deät	djeow	3
+mäwerker	faan	3
 wie	finde	3
 with	arms	3
 stools	breakfast	3
@@ -33270,6 +33261,7 @@ wunter	ön	3
 vossloh	forkoopet	3
 loks	fan	3
 amrumbank	ii	3
+energii	fuar	3
 wiring	an	3
 an	exhaust	3
 a	ceiling	3
@@ -33350,6 +33342,7 @@ as	good	3
 kömen	tu	3
 a	ialtörn	3
 hööchte	faan't	3
+kompleks	fial	3
 jenen	fan	3
 ön	uasterjen	3
 hüs	di	3
@@ -33387,24 +33380,7 @@ spriik	spreegen	3
 det	bambara	3
 an	gooshiirder	3
 spriakwiisen	diar	3
-christmas	willie	3
-willie	j	3
-j	healey	3
-songs	for	3
-for	joanna	3
-joanna	eels	3
-everything's	gonna	3
-gonna	be	3
-be	cool	3
-cool	this	3
-this	christmas	3
-christmas	mike	3
-jubilo	bert	3
-bert	jansch	3
-the	bleak	3
-bleak	mid	3
-mid	winter	3
-winter	the	3
+white	christmas	3
 merry	christmas	3
 ferhual	faan	3
 di	grater	3
@@ -33496,7 +33472,6 @@ snä	tu	3
 minister	för	3
 än	oocht	3
 tångeberg	än	3
-haanewisschilde	bai	3
 bai	flansborj	3
 e	sölring	3
 schakd	wårde	3
@@ -33657,6 +33632,7 @@ dat	jir	3
 friesische	volksgruppe	3
 unterschiedlichen	dialekten	3
 ouerdåt	maning	3
+s	uk	3
 beslin	wårde	3
 die	sterne	3
 skül	lever	3
@@ -33862,6 +33838,7 @@ wård	e	3
 e	europäische	3
 seekstgrutst	stää	3
 vier	autochthonen	3
+e	biikenmoune	3
 oocht	iir	3
 ai	fermousem	3
 schal	uk	3
@@ -33911,7 +33888,6 @@ walgreens	small	3
 maaget	jo	3
 en	kraisforiiningen	3
 fu	küd	3
-a	puk	3
 bal	üüb	3
 bloot	üt	3
 duch	e	3
@@ -33962,7 +33938,6 @@ wat	neies	3
 langs	kum	3
 nordfriesischen	inseln	3
 zu	ziehen	3
-fuarof	me	3
 fjuur	krüüreriien	3
 grows	merry	3
 oler	muar	3
@@ -34009,8 +33984,6 @@ en	miarn	3
 air	bauk	3
 is	fon	3
 for	dai	3
-duu	dij	3
-dij	leewend	3
 bijbel	is	3
 sreewa	woura	3
 jin	wandaalen	3
@@ -34079,7 +34052,6 @@ sa'n	giraat	3
 en	tablets	3
 fuar	usb	3
 powerbank	me	3
-m	bit	3
 sleeben	lins	3
 to	köögin	3
 midlum	und	3
@@ -34157,7 +34129,6 @@ pools	prices	3
 fiberglass	swimming	3
 pool	the	3
 pools	margarita	3
-margarita	spa	3
 di	smas	3
 for	kids	3
 desktop	computer	3
@@ -34316,7 +34287,6 @@ jü	rous	3
 da	bloosme	3
 neues	buch	3
 en	glii	3
-iir	üüljen	3
 frisch	foont	3
 rin	san	3
 det	war	3
@@ -34350,8 +34320,6 @@ wat	dår	3
 der	lüür	3
 oiwer	dai	3
 hät	taum	3
-dij	helpa	3
-däit	dij	3
 br	mx	3
 my	uk	3
 cc	au	3
@@ -34364,11 +34332,11 @@ pl	ru	3
 jp	kr	3
 ar	tw	3
 ua	pl	3
+pl	uk	3
 au	my	3
 au	jp	3
 ar	kr	3
 jp	jp	3
-ua	ua	3
 ar	ru	3
 ar	cc	3
 ar	ua	3
@@ -34460,9 +34428,7 @@ fan	kit	3
 power	fan	3
 reise	amrumer	3
 di	friisensērk	3
-uk	dates	3
-uk	datsun	3
-uk	dav	3
+uk	ca	3
 ca	uk	3
 an	account	3
 most	important	3
@@ -34635,20 +34601,17 @@ velocity	desk	3
 di	seelter	3
 christine	jürgensen	3
 iaea	abo	3
-abo	el	3
 natural	kites	3
 kites	feat	3
 feat	ayah	3
 ayah	vii	3
 museumsverein	föhr	3
-en	oem	3
 dreegen	foon	3
 silent	usb	3
 cool	desktop	3
 mä	vueter	3
 the	garden	3
 acca	sellowiana	3
-ste	måi	3
 en	minus	3
 a	süüdstooten	3
 cool	blossom	3

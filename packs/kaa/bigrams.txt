@@ -1,33 +1,34 @@
 # Bigrammes kaa (FineWeb-2 kaa_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-qaraqalpaqstan	respublikası	1283
-ózbekstan	respublikası	1232
+qaraqalpaqstan	respublikası	1282
+ózbekstan	respublikası	1231
 bolıp	tabıladı	844
-basqa	da	794
+basqa	da	793
 menen	birge	657
-hám	basqa	637
+hám	basqa	636
 hár	bir	606
 hám	de	475
-ámelge	asırıw	458
+ámelge	asırıw	457
 bolıp	esaplanadı	419
 bir	neshe	405
 respublikası	ministrler	379
 bolıp	ótti	357
 menen	birgelikte	354
-shomanay	rayonı	336
+shomanay	rayonı	335
 menen	baylanıslı	332
 bir	qatar	326
 dep	ataladı	325
-bilim	beriw	315
+bilim	beriw	314
 payda	boladı	307
-islep	shıǵarıw	307
+islep	shıǵarıw	306
 u's	in	298
 mektepke	shekemgi	283
-hár	qıylı	283
+hár	qıylı	282
 jáne	de	274
 bul	jerde	271
-joqarı	oqıw	270
-ministrler	keńesi	270
+joqarı	oqıw	269
+ministrler	keńesi	269
+aldın	alıw	268
 belgili	bir	250
 hám	olardıń	244
 xalıq	aralıq	243
@@ -39,25 +40,25 @@ islep	shıǵıw	211
 shet	el	210
 respublikası	prezidentiniń	210
 ámelge	asırılıp	209
-hár	qanday	208
+hár	qanday	207
 qabıl	etilgen	205
 sonıń	menen	203
-hám	onıń	201
-máseleleri	boyınsha	197
+hám	onıń	200
+máseleleri	boyınsha	196
 ózbekstan	respublikasınıń	196
-usı	jıldıń	195
 iye	bolǵan	194
+usı	jıldıń	194
 óz	ishine	193
 shekemgi	bilimlendiriw	192
 dizimge	alıw	189
-ámelge	asırıladı	188
+ámelge	asırıladı	187
 qaraqalpaqstan	respublikasınıń	179
-menen	bir	178
 kórkem	óner	178
+menen	bir	177
 ha'r	qıylı	176
 awıl	xojalıǵı	174
-ulıwma	bilim	171
 payda	bolıwı	170
+ulıwma	bilim	170
 joqarǵı	keńes	169
 dem	alıw	168
 hár	tárepleme	167
@@ -71,18 +72,19 @@ alıw	ushın	157
 asırılıp	atırǵan	157
 qayta	islew	155
 derekti	jańalaw	155
-bolıwı	kerek	153
 respublikası	prezidenti	153
 iye	boladı	153
+bolıwı	kerek	152
 názerde	tutılǵan	151
-keńesi	baslıǵınıń	151
 ulıwma	orta	150
+keńesi	baslıǵınıń	150
 házirgi	waqıtta	149
 sol	sebepli	148
 jolı	menen	148
 puqaralar	jıyını	148
 bunnan	bılay	147
 óz	waqtında	145
+qaraqalpaqstan	respublikasi	143
 sırt	el	142
 ishine	aladı	140
 ha'r	bir	140
@@ -95,28 +97,28 @@ jumıs	alıp	137
 máseleler	boyınsha	137
 ministrler	ken	134
 alıp	barıw	132
-hár	jılı	131
 múnásibeti	menen	130
+hár	jılı	130
 orta	bilim	129
-isleri	boyınsha	126
 mámleketlik	uyımlar	125
+isleri	boyınsha	124
 hám	sport	124
-sanlı	ulıwma	124
 hám	olardı	123
-ǵalaba	xabar	123
+sanlı	ulıwma	123
 payda	bolǵan	123
 kelip	shıqqan	122
-xalıq	bilimlendiriw	122
 menen	támiyinlew	122
+ǵalaba	xabar	122
 hám	basqalar	122
+xalıq	bilimlendiriw	121
 bılay	da	121
 jumıs	penen	120
 qaraqalpaqstan	respublikasında	120
 alıp	barılıp	120
-orta	arnawlı	119
 mákan	puqaralar	119
 xalıqtı	dizimge	119
 biri	bolıp	118
+orta	arnawlı	118
 da	bir	118
 ministrler	keńesiniń	118
 alıp	keledi	117
@@ -134,13 +136,14 @@ densawlıqtı	saqlaw	111
 awıl	puqaralar	111
 bilimlendiriw	mákemeleri	111
 erkin	ekonomikalıq	110
-hám	orta	106
 bir	qatarda	105
 payda	bolg'an	105
 hám	bul	105
+hám	orta	105
 payda	boldı	104
 sonıń	ishinde	103
 atap	ótti	103
+ha'm	onın	102
 ol	jerde	101
 tayarlaw	hám	101
 joqarǵı	keńesi	101
@@ -151,41 +154,41 @@ támiyinlew	boyınsha	99
 joqarı	bilimlendiriw	99
 ele	de	98
 keń	kólemli	98
-alıw	hám	97
 hám	ol	97
 bolsa	da	96
 mámleketlik	emes	96
-asırıw	ushın	95
+alıw	hám	96
 hám	ózbekstan	95
 házirgi	kúnde	95
 bolıp	ótken	95
+asırıw	ushın	94
 ushın	zárúr	94
 ministrler	kabinetiniń	94
 bilim	bery	94
 ayrıqsha	itibar	93
-xızmet	kórsetiw	93
-rawajlandırıw	boyınsha	92
+xızmet	kórsetiw	92
 múmkin	emes	92
 mámleketlik	bilimlendiriw	92
 qandayda	bir	91
-ge	shekem	91
+rawajlandırıw	boyınsha	91
 shólkemlestiriw	hám	91
 shıǵıw	hám	91
 bólimi	baslıǵı	91
 menen	sıylıqlandı	91
+ge	shekem	90
 jolǵa	qoyıw	89
 jáne	onıń	89
 sonıń	ushın	89
 nókis	qalası	89
 rawajlandırıw	hám	88
-hám	qaraqalpaqstan	88
 jaslar	menen	87
 jumısların	alıp	87
-hám	onı	87
+hám	qaraqalpaqstan	87
 joqarǵı	keńesiniń	87
 birinshi	ret	86
 menen	qaraqalpaqstan	86
 qabıl	etildi	86
+hám	onı	86
 ózine	tán	86
 baslıǵınıń	orınbasarı	86
 xalıq	deputatları	86
@@ -199,7 +202,6 @@ sanlı	qararı	84
 jumıslar	ámelge	84
 barılıp	atırǵan	84
 mayıplıǵı	bolǵan	84
-jol	menen	83
 bir-biri	menen	83
 qabıl	etiw	83
 baslaması	menen	83
@@ -208,6 +210,7 @@ uyımlar	hám	83
 qala	hám	83
 jıldan	baslap	82
 ha'm	basqa	82
+jol	menen	82
 zárúr	bolǵan	82
 hám	kishi	82
 ózbekstan	respublikasında	82
@@ -216,23 +219,24 @@ huqıq	hám	82
 qaraózek	rayonı	82
 orta	aziya	81
 menen	tanısıp	81
-alǵan	halda	81
 islep	shıǵılǵan	81
 rayon	hákimi	81
 keń	túrde	81
 málimleme	kitapxana	81
 tek	g'ana	80
 oqıw	orınları	80
+alǵan	halda	80
 mámleketlik	hám	80
 respublikası	málimleme	80
 iye	bolıp	79
-joqarı	hám	79
 hám	olarǵa	79
 shomanay	rayonlıq	79
+sonın	ushın	78
 atap	aytqanda	78
 menen	tanıstı	78
 turg'yn	u'i	78
 aytıp	ótti	78
+joqarı	hám	78
 hám	sociallıq	78
 dawam	etedi	77
 iye	boldı	77
@@ -240,13 +244,13 @@ tashkent	qalasında	77
 menen	islesiw	77
 islep	shıg	77
 mámleketlik	hákimiyat	77
-ay	múddette	77
 hám	shólkemler	77
 qabıl	etiledi	76
 birge	islesiwdi	76
 hám	xojalıq	76
 alıw	boyınsha	76
 mámleketlik	basqarıw	76
+ay	múddette	76
 kórip	shıǵıw	76
 atı	menen	75
 hesh	qanday	75
@@ -257,18 +261,18 @@ jaslar	arasında	75
 atırǵan	jumıslar	75
 hám	mámleketlik	75
 qaraqalpaq	mámleketlik	75
-óz	aldına	75
 bólimi	tárepinen	75
 ol	jaǵdayda	75
-bilimlendiriw	ministrligi	74
 qayta	tayarlaw	74
 boyınsha	tiyisli	74
 hám	oqıw	74
 hám	ámelge	74
 nókis	mámleketlik	74
+óz	aldına	74
 payda	etiw	73
 qaraqalpaq	tili	73
 yamasa	basqa	73
+bilimlendiriw	ministrligi	73
 asırıw	boyınsha	73
 hám	joqarı	73
 ayrıqsha	jaǵdaylar	73
@@ -293,7 +297,6 @@ eń	kóp	70
 tárepinen	ámelge	70
 menen	belgilenedi	69
 bolıwı	mu'mkin	69
-arnawlı	bilimlendiriw	69
 ministrler	kabineti	69
 mámleketimiz	basshısı	69
 bul	baǵdarda	69
@@ -301,19 +304,21 @@ bul	baǵdarda	69
 hám	olar	69
 da	bar	68
 bul	haqqında	68
+arnawlı	bilimlendiriw	68
 respublikası	mámleketlik	68
 shólkemler	menen	68
-beriw	mektebiniń	68
 bir	márte	68
 nókis	filialı	68
-aqaba	suw	68
+sonın	menen	67
 jıllar	dawamında	67
 qurılıs	jumısları	67
-esapqa	alǵan	67
+beriw	mektebiniń	67
+aqaba	suw	67
 alıp	bardı	66
 alıp	baradı	66
 boyınsha	usınıslar	66
 kerek	boladı	66
+esapqa	alǵan	66
 turaq	jay	66
 tiyisli	taraw	66
 shomanay	rayonında	66
@@ -334,21 +339,21 @@ maqsetke	muwapıq	63
 qaraqalpaqstan	respublikasinin	63
 atap	ótildi	63
 hám	basqada	63
-kabel	arqalı	63
 orınlanıwı	boyınsha	62
 oqıw	jılı	62
 shavkat	mirziyoev	62
 olar	menen	62
 bul	boyınsha	62
-bir	bólegi	62
 atındaǵı	nókis	62
-túrles	huqıqlar	62
+kabel	arqalı	62
 awıl	xojalıq	61
 shıqqan	halda	61
 shólkemlestiriw	boyınsha	61
 boyınsha	ámelge	61
+bir	bólegi	61
 esi	baslıg	61
 hám	jaslar	61
+túrles	huqıqlar	61
 juwap	beredi	60
 oqıw	orınlarında	60
 payda	bolıw	60
@@ -401,7 +406,6 @@ menen	de	55
 hesh	kim	55
 satıp	alıw	55
 denetárbiyası	hám	55
-respublikası	joqarı	55
 menen	jaqınnan	55
 bir	kúni	55
 hám	óz	55
@@ -413,12 +417,12 @@ de	bar	54
 payda	bolıp	54
 nızam	menen	54
 dawam	etpekte	54
+respublikası	joqarı	54
 birinshi	orınbasarı	54
 hám	tiyisli	54
 hám	taǵı	54
 hám	ilimiy	54
 shólkemleri	hám	54
-paydalanıw	hám	54
 máhálle	hám	54
 kitapxana	orayı	54
 hesh	qashan	53
@@ -427,6 +431,7 @@ hám	qosımshalar	53
 baslıǵı	hám	53
 anıqlaw	hám	53
 rayonlıq	bólimi	53
+paydalanıw	hám	53
 onıń	ushın	53
 institutı	nókis	53
 o'z	ishine	52
@@ -470,7 +475,6 @@ hám	basqarıw	50
 kárxana	hám	50
 ózbekstan	mámleketlik	50
 hám	jas	50
-jasap	atırǵan	50
 shıǵarıw	hám	50
 beriw	mektebinde	50
 joqarı	dárejede	50
@@ -490,7 +494,7 @@ ortalıqtı	qorǵaw	49
 járdem	beredi	49
 atap	ótiw	49
 ayrıqsha	atap	49
-arqalı	ámelge	49
+jasap	atırǵan	49
 háreket	etedi	49
 hám	usı	49
 bólimine	qaraslı	49
@@ -511,12 +515,11 @@ támiyinlew	ushın	48
 nızam	hújjetlerine	48
 qarjıları	esabınan	48
 eń	úlken	48
+arqalı	ámelge	48
 sanlı	mektep	48
-klass	oqıwshısı	48
 xojalıq	basqarıw	48
 ruwxıylıq	hám	48
 avtorlıq	huqıq	48
-yamasa	kabel	48
 iye	bolg'an	47
 dawam	etken	47
 bul	eki	47
@@ -528,8 +531,10 @@ túri	boyınsha	47
 fermer	xojalıqları	47
 sońǵı	jıllarda	47
 nókis	qalasında	47
+klass	oqıwshısı	47
 haqqında	maǵlıwmatlar	47
 ámelge	asıriladı	47
+yamasa	kabel	47
 hesh	bir	46
 payda	bolıwına	46
 bir	adam	46
@@ -537,6 +542,7 @@ ne	ushın	46
 qararı	tiykarında	46
 oqıw	orınlarına	46
 usı	jıl	46
+yanvar	kúni	46
 paydalanǵan	halda	46
 wálayatlar	hám	46
 hám	milliy	46
@@ -550,11 +556,11 @@ hám	yuridikalıq	46
 bos	waqıtların	46
 júdá	kóp	46
 bul	dáwirde	46
+hám	ádebiyatı	46
 mámleketlik	salıq	46
 rayon	aymaǵındaǵı	46
 abu	nasr	46
 basshıları	menen	46
-jınayat	isleri	46
 ha'm	olardın	45
 tuwra	keledi	45
 ishimlik	suwı	45
@@ -562,7 +568,6 @@ respublikası	ishki	45
 ilimiy	hám	45
 jaqsılaw	boyınsha	45
 tárepinen	tayarlanǵan	45
-qanlıkól	rayonı	45
 alıw	maqsetinde	45
 kúnge	shekem	45
 nókis	filialında	45
@@ -570,6 +575,7 @@ bilimlendiriw	bólimine	45
 orınlaw	ushın	45
 kórkem	óneri	45
 etiw	hám	45
+jınayat	isleri	45
 penen	támiyinlew	45
 juwaplar	aldı	45
 dem	alıs	44
@@ -587,6 +593,7 @@ oliy	majlisi	44
 is-ilajları	haqqında	44
 etip	atırǵan	44
 ministrligi	hám	44
+qanlıkól	rayonı	44
 jumıs	orınları	44
 jıyını	aymaǵında	44
 tapsırmalar	berildi	44
@@ -658,7 +665,6 @@ puqaralar	jıyınları	42
 hám	ministrler	42
 waqıtların	mazmunlı	42
 ekonomikalıq	ósiw	42
-xızmetkerleri	tárepinen	42
 arnawlı	bir	42
 z	dizbegi	42
 eramızǵa	shekemgi	42
@@ -666,7 +672,7 @@ shekem	dawam	41
 tek	bir	41
 keyin	ala	41
 anıqlaw	ushın	41
-den	aslam	41
+sonın	ushında	41
 kelisimi	menen	41
 xalıq	penen	41
 joqarg'i	ken'esinin	41
@@ -682,12 +688,11 @@ sektor	basshıları	41
 hám	jámiyetlik	41
 almaty	oblysynyn	41
 hám	sapalı	41
-ádillik	bólimi	41
 xojalıq	basqarıwı	41
 taǵı	bir	41
+xızmetkerleri	tárepinen	41
 usı	nızamnıń	41
 ha'm	bul	40
-o'z	aldına	40
 biraq	ol	40
 mine	usı	40
 menen	dawam	40
@@ -696,21 +701,18 @@ r	tu	40
 jemqorlyqqa	qarsy	40
 menen	óz-ara	40
 ózbekstan	milliy	40
-hám	ǵalaba	40
 kelip	shıǵatuǵın	40
 respublikası	aymaǵında	40
 avgust	kúni	40
-mıńnan	aslam	40
 qorǵaw	boyınsha	40
 qazaq	tili	40
 ushın	eń	40
-talap	etetuǵın	40
 keńesi	tárepinen	40
 jańa	jıl	40
 májilisler	zalında	40
-etiwi	múmkin	40
 muwapıq	basqa	40
 menen	islew	40
+ádillik	bólimi	40
 payda	bolatuǵın	40
 tiykarǵı	maqseti	40
 nerv	sisteması	40
@@ -720,6 +722,9 @@ málim	bir	40
 jaslar	isleri	40
 birlesken	milletler	39
 sol	waqıtta	39
+o'z	aldına	39
+den	aslam	39
+o'zine	ta'n	39
 bir	topar	39
 alıw	huqıqına	39
 jetkerip	beriw	39
@@ -728,15 +733,19 @@ jetilistiriw	boyınsha	39
 sharayatlar	jaratıw	39
 ǵana	emes	39
 m	t	39
+hám	ǵalaba	39
 ushın	arnalǵan	39
 qabıl	etilip	39
 hám	awıl	39
 tárepinen	islep	39
+mıńnan	aslam	39
 shólkemlestiriwshiler	tárepinen	39
 hayal-qızlar	komiteti	39
+talap	etetuǵın	39
 ótkeriw	ushın	39
 usı	kúni	39
 sawǵalar	menen	39
+etiwi	múmkin	39
 tınıshlıq	hám	39
 baslıǵı	tárepinen	39
 múmkinshilik	beredi	39
@@ -748,19 +757,15 @@ rawajlanıwı	ushın	38
 ullı	britaniya	38
 bunnan	keyin	38
 en	jaydırıw	38
-den	artıq	38
 dep	esaplanadı	38
 bolıp	keledi	38
-respublikası	xalıq	38
 belgilep	alındı	38
 tiykarǵı	wazıypaları	38
-túrleri	boyınsha	38
 barıp	atırǵan	38
 a'r	tu'rli	38
 texnologiyaları	hám	38
 mámleketlik	komiteti	38
 hám	tolıq	38
-tártipke	salıw	38
 ótken	jılı	38
 bul	baǵdardaǵı	38
 ilajlardı	ámelge	38
@@ -775,11 +780,14 @@ en	u'lken	37
 ma'n	gilik	37
 menen	ushırasıp	37
 usı	jılı	37
+respublikası	xalıq	37
+túrleri	boyınsha	37
 sanaat	zonaları	37
 bul	tarawda	37
 júzege	kelgen	37
 mamanlıǵın	arttırıw	37
 qosımshaǵa	muwapıq	37
+tártipke	salıw	37
 hám	rayon	37
 júklengen	wazıypalar	37
 ózgerisler	hám	37
@@ -795,8 +803,8 @@ eń	joqarı	37
 orayı	tárepinen	37
 kommerciyalıq	emes	37
 prezidentimiz	tárepinen	37
-qararları	hám	37
 hám	isbilermenlik	37
+oktyabr	kúni	37
 rayon	aymaǵında	37
 kelip	shıǵıwı	37
 qáwipsizlik	xızmeti	37
@@ -806,8 +814,8 @@ bilim	alıwshılardıń	37
 kórsetiw	yaki	37
 sebebi	ol	36
 bir	jıl	36
-basqa	bir	36
 bolıp	qaldı	36
+den	artıq	36
 tuwrı	keledi	36
 r	bir	36
 isler	ministrligi	36
@@ -819,7 +827,6 @@ ushın	úlken	36
 hám	nátiyjeli	36
 jetilistiriw	hám	36
 rawajlandırıw	ushın	36
-óz	ara	36
 ilim	hám	36
 paydalanıw	múmkin	36
 atındaǵı	qaraqalpaq	36
@@ -829,6 +836,7 @@ haqqındaǵı	maǵlıwmatlar	36
 muzıka	hám	36
 mazmunlı	ótkeriw	36
 shıǵadı	hám	36
+qararları	hám	36
 jumıslar	menen	36
 boyınsha	anıq	36
 jumısları	ámelge	36
@@ -847,8 +855,8 @@ a'hmiyetke	iye	35
 ushın	juwapker	35
 sonlıqtan	da	35
 usı	jerde	35
+basqa	bir	35
 balalar	ushın	35
-ibarat	boladı	35
 jıl	burın	35
 tastıyıqlaw	haqqında	35
 mleketlik	ha	35
@@ -860,10 +868,10 @@ islep	shıǵaratuǵın	35
 respublikası	bas	35
 hám	xalıqtıń	35
 arnawlı	wákillikli	35
+óz	ara	35
 may	kúni	35
 hám	medicinalıq	35
 ámelge	asırılatuǵın	35
-hár	biri	35
 bilimlendiriw	mákemelerine	35
 emes	kommerciyalıq	35
 berdaq	atındaǵı	35
@@ -875,14 +883,15 @@ mákeme	hám	35
 sektor	baslıǵı	35
 hám	jámiyet	35
 qaraqalpaq	xalqınıń	35
+nerv	sistemasının	35
 bolǵan	hám	35
 bas	miyi	35
 grammatikalıq	ma	35
-hám	túrles	35
 waqıt	ishinde	34
 bar	bolıp	34
 ma'n	gi	34
 bolıwı	tiyis	34
+ibarat	boladı	34
 jaylasqan	bolıp	34
 o'zbekstan	respublikasi	34
 bilimlendiriw	tarawında	34
@@ -892,14 +901,13 @@ kez	kelgen	34
 milliy	hám	34
 menen	qutlıqladı	34
 bilimlendiriw	hám	34
-úsh	ay	34
 hám	rawajlandırıw	34
 jıldan	berli	34
 isler	bólimi	34
 ishimlik	suw	34
 mazmunı	hám	34
 orındı	iyeledi	34
-sorawlarına	juwaplar	34
+hár	biri	34
 birinshi	gezekte	34
 nókis	qalasındaǵı	34
 belgilep	berilgen	34
@@ -909,7 +917,6 @@ aral	boyı	34
 saplastırıw	boyınsha	34
 sanlı	qararına	34
 tárepinen	qabıl	34
-ózlerin	qızıqtırǵan	34
 hám	mádeniy	34
 xalıqtı	jumıs	34
 ushın	hár	34
@@ -920,11 +927,11 @@ tárepinen	belgilenedi	34
 rayonı	ádillik	34
 pedagogikalıq	programmalıq	34
 búgin	shomanay	34
+hám	túrles	34
 efir	yamasa	34
 jámáátlik	tiykarda	34
 derlik	barlıq	33
 rayxan	beruniy	33
-dep	atalıwshı	33
 tez	arada	33
 sebep	boladı	33
 sport	penen	33
@@ -934,6 +941,7 @@ haqqında	sóz	33
 ekologiya	hám	33
 hám	xalıqaralıq	33
 turmıs	tárizin	33
+úsh	ay	33
 ministrligi	menen	33
 kásiplik	awqamları	33
 respublikası	hám	33
@@ -944,19 +952,23 @@ islew	hám	33
 qayta	tiklew	33
 kúnnen	baslap	33
 rayonı	xalıq	33
-orın	alǵan	33
+sorawlarına	juwaplar	33
 bayram	menen	33
 atındaǵı	mámleketlik	33
 degenimiz	ne	33
 birge	islesiwshi	33
 jaslar	ushın	33
 orınbasarı	a	33
+noyabr	kúni	33
+ózlerin	qızıqtırǵan	33
+fevral	kúni	33
 hám	kórkem-óner	33
 jańa	ózbekstan	33
 berip	ótti	33
 deputatları	shomanay	33
 yaki	esittiriw	33
 ol	bul	32
+dep	atalıwshı	32
 sheshiw	ushın	32
 barıw	ushın	32
 turaq	jaylar	32
@@ -976,9 +988,11 @@ isbilermenlikti	rawajlandırıw	32
 tiyisli	mámleketlik	32
 ámelge	asırıwdı	32
 islep	shıǵıldı	32
+orın	alǵan	32
 eń	kem	32
 hám	ruwxıy	32
 birinshi	náwbette	32
+klass	oqıwshıları	32
 hám	huqıqıy	32
 isbilermenlik	subektleriniń	32
 máplerin	qorǵaw	32
@@ -987,17 +1001,14 @@ jaratılǵan	sharayatlar	32
 qollap-quwatlaw	hám	32
 mámleketlik	universiteti	32
 hújjetleri	hám	32
-noyabr	kúni	32
 ibarat	bolǵan	32
 ǵı	ózbekstan	32
 aymaǵında	jaylasqan	32
 qaraqalpaq	tiliniń	32
-biri	bolǵan	32
 analiz	qılıw	32
 emes	bilimlendiriw	32
 qaraqalpaq	tilin	32
 hákimligi	tárepinen	32
-qızıqtırǵan	sorawlarına	32
 hákim	járdemshileri	32
 mektepge	shekem	32
 z	dizbekleri	32
@@ -1008,7 +1019,6 @@ waqıt	dawamında	31
 sonnan	keyin	31
 jer	orta	31
 bolıp	qaladı	31
-menen	belgilengen	31
 biri	esaplanadı	31
 iye	bolıw	31
 jaratıw	ushın	31
@@ -1027,10 +1037,10 @@ saqlaw	ministrligi	31
 wazıypalar	hám	31
 sanlı	qararınıń	31
 jańa	basqıshqa	31
+sentyabr	kúni	31
 bilimlendiriw	mákemesiniń	31
 qaraqalpaqstan	respublikalıq	31
 bolıp	atırǵan	31
-klass	oqıwshıları	31
 keyingi	jıllarda	31
 hám	barlıq	31
 xar	kıylı	31
@@ -1040,7 +1050,9 @@ jol	qoyıladı	31
 muhammed	al-xorezmiy	31
 bilimlendiriw	shólkemleri	31
 usınıs	etiledi	31
+biri	bolǵan	31
 foma	akvinskiy	31
+qızıqtırǵan	sorawlarına	31
 bólimi	menen	31
 ekinshi	jer	30
 sebebi	bul	30
@@ -1048,6 +1060,7 @@ ol	bir	30
 kerek	dep	30
 baylanıslı	bolıp	30
 birinshi	bolıp	30
+menen	belgilengen	30
 olar	ushın	30
 oqıw	ushın	30
 jaratıw	maqsetinde	30
@@ -1064,7 +1077,6 @@ basqarıw	hám	30
 jaǵdaylardıń	aldın	30
 arttırıw	hám	30
 jeke	menshik	30
-qurılıs	hám	30
 menen	tikkeley	30
 ǵárezsizlik	jıllarında	30
 sisteması	arqalı	30
@@ -1129,6 +1141,7 @@ alıp	barılǵan	29
 hám	rayonlar	29
 ushın	tómendegi	29
 menen	tıǵız	29
+qurılıs	hám	29
 koncert	baǵdarlaması	29
 belsene	qatnasıp	29
 rayonlıq	keńesi	29
@@ -1152,7 +1165,6 @@ aymaǵında	jasawshı	29
 ushın	óz	29
 ózine	júklengen	29
 basqa	shólkemler	29
-nerv	sistemasının	29
 kelip	shıǵadı	29
 maqset	hám	29
 házirgi	zaman	29
@@ -1182,7 +1194,6 @@ beriw	mektepleriniń	28
 ámelge	asırıwı	28
 asırıw	hám	28
 ámelge	asırıp	28
-hám	qurılıs	28
 júdá	úlken	28
 qalası	hám	28
 aprel	kúni	28
@@ -1259,6 +1270,7 @@ eń	dáslep	27
 wákilleri	menen	27
 qabatlı	turaq	27
 ol	óziniń	27
+aldın	ala	27
 hám	qala	27
 jaslar	siyasatı	27
 qaraqalpaqstan	respublikasına	27
@@ -1271,6 +1283,7 @@ hám	kóp	27
 húrmetli	prezidentimiz	27
 qosımsha	ilajlar	27
 boyınsha	tapsırmalar	27
+hám	qurılıs	27
 etedi	hám	27
 tarawǵa	tiyisli	27
 suw	támiynatı	27
@@ -1297,6 +1310,7 @@ qaytıs	bolǵan	27
 teń	boladı	27
 oraydan	qashıwshı	27
 beriwshi	shólkemniń	27
+ol	o'zinin	26
 erisiw	ushın	26
 biraq	olar	26
 ha'm	og'an	26
@@ -1324,9 +1338,9 @@ islew	ushın	26
 m	ge	26
 oqy's	ylar	26
 ózin-ózi	basqarıw	26
-miynet	etip	26
 shet	elli	26
 wazıypalar	menen	26
+jaratıw	boyınsha	26
 tańlap	alıw	26
 beriw	mektepleri	26
 beriw	mekteplerinde	26
@@ -1342,7 +1356,6 @@ mektepke	deiingi	26
 hám	bilimlendiriw	26
 jıl	ushın	26
 ónim	islep	26
-ge	jaqın	26
 kurs	studenti	26
 bólim	baslıǵı	26
 ótkeriw	maqsetinde	26
@@ -1364,6 +1377,7 @@ menen	ámelge	26
 hár	eki	26
 tárepinen	bir	26
 sociallıq	qorǵawǵa	26
+dekabr	kúni	26
 xalıq	ara	26
 tán	alıw	26
 fizikalıq	jumıs	26
@@ -1382,6 +1396,7 @@ bul	jerge	25
 ushın	qosımsha	25
 ashıp	berdi	25
 bul	da	25
+qaraqalpaqstan	respublikasının	25
 keminde	bir	25
 ushın	qolay	25
 bul	ushın	25
@@ -1390,6 +1405,7 @@ juwap	beriw	25
 bir	jıllıq	25
 de	óz	25
 belgilep	berildi	25
+miynet	etip	25
 xızmet	kórsetken	25
 bolǵan	shaxslar	25
 sistemasın	engiziw	25
@@ -1416,6 +1432,7 @@ onıń	tiykarǵı	25
 tán	alınǵan	25
 isshi	topar	25
 respublikası	hákimshilik	25
+bulshıq	ettin	25
 shekemgi	tálim	25
 orta	hám	25
 kún	tártibindegi	25
@@ -1434,7 +1451,6 @@ sonıń	ushında	25
 aymaq	turǵınları	25
 tiyisli	mákeme	25
 elektr	jurgiziwshi	25
-azat	etiledi	24
 orındı	iyeleydi	24
 penen	birge	24
 ha'm	olar	24
@@ -1446,6 +1462,7 @@ jol	qoymaw	24
 ushın	isletiledi	24
 saqlap	qalıw	24
 ullı	jipek	24
+adamlar	ushın	24
 birinshi	orındı	24
 jıl	ishinde	24
 tayarlaw	ushın	24
@@ -1485,7 +1502,6 @@ tárepinen	tastıyıqlanǵan	24
 sharayatlar	menen	24
 ministrler	keńesine	24
 hám	maǵlıwmatlar	24
-boyınsha	hár	24
 sáykes	keledi	24
 hám	ótkeriw	24
 hám	nızam	24
@@ -1501,10 +1517,8 @@ bul	jaǵday	24
 biznes	hám	24
 puqaralar	menen	24
 qorǵawǵa	mútáj	24
-úsh	jıl	24
 málimleme-kitapxana	orayı	24
 payda	etiwshi	24
-bulshıq	ettin	24
 hám	hújjetler	24
 tálim	baǵdarı	24
 bolıp	ótedi	24
@@ -1519,6 +1533,8 @@ túsinikler	berip	24
 taraw	basshıları	24
 boyınsha	shomanay	24
 musılmansha	jıl	24
+azat	etiledi	23
+sonın	ishinde	23
 islep	shıqqan	23
 ha'reket	etedi	23
 bar	eken	23
@@ -1529,7 +1545,6 @@ onnan	da	23
 o'z	betinshe	23
 qaraqalpaq	xalıq	23
 sonday	aq	23
-adamlar	ushın	23
 balalar	arasında	23
 kerek	emes	23
 onnan	paydalanıw	23
@@ -1567,12 +1582,12 @@ ushın	jańa	23
 hám	zamanagóy	23
 jıldıń	ózinde	23
 orındı	iyelep	23
-boyınsha	óz	23
 pármanı	menen	23
 fizikalıq	shaxslar	23
 orınları	menen	23
 muwapıq	ámelge	23
 student	jaslar	23
+boyınsha	hár	23
 juwmaǵı	boyınsha	23
 gúresiw	boyınsha	23
 mámleketlik	kánshilik	23
@@ -1591,6 +1606,7 @@ múmkin	edi	23
 oqıp	atırǵan	23
 húrmetli	prezidentimizdiń	23
 bir	so	23
+úsh	jıl	23
 oqıw	zalı	23
 hám	funktsiyalardı	23
 basqarıwı	shólkemleri	23
@@ -1607,14 +1623,15 @@ kútá	úlken	23
 hám	tárbiya	23
 tálim	hám	23
 sáykes	keletuǵın	23
-efirge	beriw	23
 sport	gúresleri	23
 asırılǵan	jumısları	23
 jámietlik	shólkemleri	23
 jay	ga	23
 en	ko'p	22
 ha'm	basqada	22
+en	birinshi	22
 bir	bo'limi	22
+aldı	menen	22
 ta'sir	etedi	22
 urıw	ha'm	22
 ekenligi	haqqında	22
@@ -1679,11 +1696,11 @@ menen	dúzilgen	22
 jaslar	máseleleri	22
 jolǵa	qoyılǵan	22
 bos	jumıs	22
-bolǵannan	keyin	22
+iyun	kúni	22
 da	óz	22
-xabar	qurallarınıń	22
 júzege	shıǵarıw	22
 sırt	elli	22
+boyınsha	óz	22
 usı	maqsette	22
 baspadan	shıǵarıw	22
 tárbiyası	hám	22
@@ -1705,9 +1722,7 @@ atay'ly	a'ley'mettik	22
 ushın	tiykar	22
 er	adamlar	22
 joqarǵı	keńesine	22
-puqaralıq	isleri	22
 baslıqları	hám	22
-jámiyet	hám	22
 jeńilletilgen	kreditler	22
 isbilermenlik	hám	22
 payda	bolg	22
@@ -1724,6 +1739,7 @@ dúzilisi	hám	22
 jaǵdaylar	bólimi	22
 bo'linip	shıg'adı	22
 anaw	ya	22
+efirge	beriw	22
 hám	odan	22
 nuranıylardı	qollap-quwatlaw	22
 ol	halda	22
@@ -1747,6 +1763,7 @@ bergen	edi	21
 bar	bolsa	21
 huqiqina	iye	21
 kepillik	beriledi	21
+ministrler	kabinetinin	21
 is-ilajlar	haqqında	21
 m	ko	21
 tirishilik	etedi	21
@@ -1758,8 +1775,6 @@ hám	texnikalıq	21
 sondyqtan	da	21
 synyptan	tys	21
 baylanıslı	qosımsha	21
-dan	aslam	21
-a'kiminin	orynbasary	21
 talap	etip	21
 xabar	qurallarında	21
 baǵdarları	boyınsha	21
@@ -1770,7 +1785,6 @@ sın	kózqarastan	21
 málimleme	sisteması	21
 usınıslar	kirgizsin	21
 orınlanıwın	qadaǵalaw	21
-so'z	alg'an	21
 avtomobil	transportı	21
 qaǵıydalarına	ámel	21
 hám	dem	21
@@ -1789,10 +1803,12 @@ keńesi	hám	21
 z	waqtında	21
 usı	múnásibet	21
 ilajlardı	islep	21
+bolǵannan	keyin	21
 jumısları	hám	21
 júz	berdi	21
 kóp	jıllar	21
 eń	birinshi	21
+xabar	qurallarınıń	21
 materiallıq	hám	21
 jıldıń	eń	21
 basqıshına	jollama	21
@@ -1819,8 +1835,11 @@ asırıwǵa	qaratılǵan	21
 tárepinen	belgilengen	21
 respublikası	mektepke	21
 xojalıǵı	máseleleri	21
+puqaralıq	isleri	21
+jámiyet	hám	21
 sociallıq	járdemge	21
 orta	ásir	21
+ge	jaqın	21
 bolǵan	barlıq	21
 qánigeler	tárepinen	21
 sorawlar	menen	21
@@ -1835,7 +1854,6 @@ haqqında	túsinik	21
 ya	mınaw	21
 tiyisli	tártipte	21
 ámelge	asadı	21
-ornı	hám	21
 xalıq	qabıllawxanası	21
 reyting	hám	21
 llana	aladı	21
@@ -1866,6 +1884,7 @@ bul	oqıw	20
 menen	baylanıslar	20
 menen	sawda	20
 qurılıs	materialları	20
+m	olardın	20
 kelip	shıg	20
 oqıw	jılınan	20
 rawajlanıwı	menen	20
@@ -1877,15 +1896,15 @@ sonyn	is'inde	20
 yuridikalıq	shaxslar	20
 tek	qana	20
 el	investiciyaların	20
+a'kiminin	orynbasary	20
 ushırasıwı	bolıp	20
 milletler	shólkemi	20
 bárinen	burın	20
 ministrligi	janındaǵı	20
-sport	túrleri	20
 kelisilgen	halda	20
 qayta	kórip	20
-boyınsha	eń	20
 birgelikte	bir	20
+so'z	alg'an	20
 qolaylı	sharayatlar	20
 hám	xızmet	20
 ámelge	asıratuǵın	20
@@ -1906,7 +1925,6 @@ jeńimpaz	dep	20
 rayon	hám	20
 jas	óspirim	20
 biz	ushın	20
-hám	insan	20
 kelip	shıǵıw	20
 alıp	barǵan	20
 úles	qosqan	20
@@ -1964,11 +1982,10 @@ professional	bilimlendiriw	20
 nili	so	20
 nızam	aktlerinde	20
 puqaralıǵı	bolmaǵan	20
-beriw	yamasa	20
 keltirip	shıǵaradı	20
-bólimi	xızmetkerleri	20
 jergilikli	miynet	20
 tán	alınadı	20
+ornı	hám	20
 latın	jazıwına	20
 qurılıs	ońlaw	20
 bayram	keshesi	20
@@ -1979,6 +1996,7 @@ shomanay	rayonındaǵı	20
 artıq	kúni	20
 kúni	bar	20
 bul	o'z	19
+onın	en	19
 bir	waqıtları	19
 bul	bir	19
 xalıqaralıq	huqıq	19
@@ -1995,13 +2013,12 @@ menen	ol	19
 ala	otırıp	19
 bolıp	atır	19
 bar	dep	19
+ju'da	ko'p	19
 bilim	alıwı	19
 dep	ataymız	19
 qaraqalpaq	xalqının	19
 emes	dep	19
 qabıl	etti	19
-qaraqalpaqstan	respublikasının	19
-ministrler	kabinetinin	19
 biz	bul	19
 jılda	ol	19
 rawajlandırıw	ministrligi	19
@@ -2022,6 +2039,7 @@ o'z	kezeginde	19
 ju'zege	asyry	19
 mámleketlik	siyasattı	19
 awıllıq	jerlerde	19
+sport	túrleri	19
 sport	jarıslarında	19
 azat	etiw	19
 namangan	wálayatı	19
@@ -2051,6 +2069,8 @@ oqıwshılar	ushın	19
 estelik	sawǵaları	19
 ministrlikler	menen	19
 jazǵı	dem	19
+hám	insan	19
+boyınsha	eń	19
 jazıwshılar	awqamınıń	19
 baslıǵı	m	19
 sport	mektebi	19
@@ -2078,7 +2098,6 @@ jıllarǵa	mólsherlengen	19
 olar	tárepinen	19
 hám	bas	19
 materiallıq	járdem	19
-áhmiyeti	haqqında	19
 seminar	bolıp	19
 universiteti	nókis	19
 úzliksiz	túrde	19
@@ -2112,8 +2131,10 @@ sistemasın	jáne	19
 uyımları	tárepinen	19
 puqaralardıń	densawlıǵın	19
 mámleketlik	densawlıqtı	19
+beriw	yamasa	19
 usı	nızamda	19
 million	dollarlıq	19
+bólimi	xızmetkerleri	19
 kásipke	tayarlaw	19
 islep	shıǵıladı	19
 pedagogikalıq	keńes	19
@@ -2131,6 +2152,7 @@ futbol	associaciyası	19
 yamasa	túrles	19
 sanı	boyınsha	18
 qaytıs	boladı	18
+en	baslı	18
 bolıp	sanaladı	18
 inglis	tilinde	18
 mısal	retinde	18
@@ -2145,6 +2167,7 @@ dep	atalıp	18
 ol	sol	18
 payda	etti	18
 ol	menen	18
+ken	tarqalg'an	18
 biri	edi	18
 boyınsha	milliy	18
 ha'm	onnan	18
@@ -2186,6 +2209,7 @@ sentyabr	ayında	18
 qazirgi	kezde	18
 belgilew	hám	18
 a'n	gime	18
+dan	aslam	18
 jıllıq	bayramı	18
 bilim	men	18
 sporttı	rawajlandırıw	18
@@ -2232,7 +2256,6 @@ mıńǵa	jaqın	18
 shayır	hám	18
 ádebiyat	hám	18
 mámleketimiz	basshısınıń	18
-olardıń	hár	18
 joq	edi	18
 qızǵın	qutlıqladı	18
 birinshilerden	bolıp	18
@@ -2261,6 +2284,7 @@ shıǵarıw	boyınsha	18
 kabineti	tárepinen	18
 kem	bolmaǵan	18
 yuridikalıq	hám	18
+áhmiyeti	haqqında	18
 saltanatlı	túrde	18
 topar	aǵzaları	18
 málimleme	xızmetleri	18
@@ -2270,7 +2294,6 @@ zat	hám	18
 dep	aytıp	18
 basshıları	tárepinen	18
 jalǵız	baslı	18
-sudı	baslıǵı	18
 tártipte	ámelge	18
 konstituciyalıq	baqlaw	18
 komitetleri	hám	18
@@ -2293,7 +2316,6 @@ basqa	túrdegi	18
 ámel	etedi	18
 qutlıqladı	hám	18
 keledi	hám	18
-dúnyadaǵı	eń	18
 hám	keń	18
 juwapker	boladı	18
 oraylıq	nerv	18
@@ -2337,7 +2359,7 @@ pikiri	boyınsha	17
 qol	menen	17
 ornatıw	ushın	17
 hawa	rayı	17
-nan	aslam	17
+ju'da	u'lken	17
 bul	kitaptı	17
 usıl	menen	17
 jalpı	ishki	17
@@ -2388,7 +2410,6 @@ tayınlaw	hám	17
 sport	hám	17
 kárxanalarǵa	kómeklesiw	17
 múddette	ózbekstan	17
-eń	az	17
 hám	muwapıqlastırıw	17
 qalalar	menen	17
 shólkemler	hám	17
@@ -2400,7 +2421,6 @@ iske	túsirildi	17
 u'sh	tilde	17
 birge	islesiwdiń	17
 hám	óz-ara	17
-hám	áhmiyeti	17
 sum	muǵdarında	17
 orayı	hám	17
 qollap-quwatlaw	maqsetinde	17
@@ -2414,6 +2434,7 @@ basqıshı	ótkerildi	17
 barlıq	qala	17
 qolǵa	kirgizdi	17
 bul	másele	17
+iyul	kúni	17
 pútkilley	jańa	17
 mine	usınday	17
 sanlı	mekteptiń	17
@@ -2425,6 +2446,7 @@ da	keń	17
 ornı	bar	17
 bazar	ekonomikası	17
 hám	jáhán	17
+olardıń	hár	17
 ótip	atırǵan	17
 suw	quyıp	17
 ózleriniń	qızıqtırǵan	17
@@ -2452,7 +2474,6 @@ orınların	jaratıw	17
 jetilistiriw	maqsetinde	17
 da	hu	17
 melge	asıradı	17
-boyınsha	ministrler	17
 m	ministrler	17
 jergilikli	byudjet	17
 alkogol	ónimlerin	17
@@ -2492,11 +2513,11 @@ turizmni	rawajlandırıwdıń	17
 atqarıw	etuvchi	17
 iskerligin	shólkemlestiriw	17
 dus	kelgen	17
-jer	maydanı	17
 kórsetiw	múmkin	17
 siyasatınıń	tiykarǵı	17
 júzege	keledi	17
 belgili	bolǵan	17
+dúnyadaǵı	eń	17
 jaslar	qatnastı	17
 jasap	turǵan	17
 xix	ásirdiń	17
@@ -2557,6 +2578,7 @@ ha'm	ha'r	16
 alıp	kelingen	16
 juwap	bere	16
 bul	jer	16
+bunın	ushın	16
 tarawı	boyınsha	16
 dep	esaplaw	16
 doslıq	awqamı	16
@@ -2567,7 +2589,6 @@ tap	sonday	16
 mazmunı	boyınsha	16
 dawam	ettirip	16
 jer	betinde	16
-yaki	basqa	16
 beriw	mektebi	16
 dawam	ettirdi	16
 onnan	keyin	16
@@ -2591,6 +2612,7 @@ rejeleri	hám	16
 máresimi	bolıp	16
 islep	shıǵarıwǵa	16
 ag'ylshyn	tili	16
+qandai	da	16
 hám	sporttı	16
 mámleketlik	uyımlardıń	16
 basqarıw	sistemasın	16
@@ -2616,6 +2638,7 @@ jaǵınan	jańa	16
 hám	uzaq	16
 ayınan	baslap	16
 prezident	shavkat	16
+hám	áhmiyeti	16
 kóriw	múmkin	16
 sistemasın	rawajlandırıw	16
 sum	qarjı	16
@@ -2627,7 +2650,6 @@ jergilikli	hám	16
 hákimligi	hám	16
 kirip	keldi	16
 sonymen	birge	16
-ge	shamalas	16
 hám	aymaqlıq	16
 jaqınnan	tanıstı	16
 tutqan	ornı	16
@@ -2670,6 +2692,7 @@ hám	usınısların	16
 mákemeler	menen	16
 joqarıda	aytıp	16
 menen	támiyinlewge	16
+boyınsha	ministrler	16
 usınıslar	menen	16
 rayonlar	ha	16
 boyınsha	kompleks	16
@@ -2682,7 +2705,6 @@ dúziw	hám	16
 haqqında	tolıq	16
 menen	shuǵıllanatuǵın	16
 qadaǵalawdı	ámelge	16
-hám	abadan	16
 abadanlastırıw	hám	16
 bilimlendiriw	sistemasın	16
 qararınıń	orınlanıwın	16
@@ -2705,6 +2727,7 @@ hám	puqaralardıń	16
 mádeniy	hám	16
 nızamda	názerde	16
 orınbasarları	hám	16
+sudı	baslıǵı	16
 oraylıq	saylaw	16
 saylaw	komissiyası	16
 aralıǵındaǵı	dáwirde	16
@@ -2738,13 +2761,14 @@ xar	bir	16
 biykar	etiledi	16
 ushın	tiykarǵı	16
 asırılıp	atır	16
+jer	maydanı	16
 ótti	hám	16
 aqılǵa	say	16
 uyımları	hám	16
 kommunal	xizmet	16
+eń	az	16
 rayonı	hákiminiń	16
 tábiyiy	gaz	16
-oqıw	ornına	16
 ǵı	pármanı	16
 menen	teń	16
 mpj	da	16
@@ -2776,7 +2800,6 @@ hám	jazba	16
 aǵartıwshılıq	orayı	16
 isbilermenlerdiń	huqıqların	16
 ruxsat	beriw	16
-arqalı	jiberiw	16
 túrlerge	bólinedi	16
 kórgizbeli	seminar	16
 rayonı	bólimi	16
@@ -2793,6 +2816,7 @@ dep	biledi	15
 ha'm	jer	15
 orındı	iyelegen	15
 adam	ha'm	15
+nan	aslam	15
 of	the	15
 alıw	huqıqı	15
 bahalı	qag'azlar	15
@@ -2812,7 +2836,6 @@ anaw	yaki	15
 ibarat	edi	15
 transnatsional	korporatsiyalar	15
 mısal	etip	15
-jıldan	beri	15
 olar	bul	15
 qayta	islep	15
 iske	asırıw	15
@@ -2837,6 +2860,7 @@ belgili	bolıp	15
 da	ko'p	15
 boyınsha	basqa	15
 ashıp	beriw	15
+yaki	basqa	15
 ajralıp	turadı	15
 jazıwshılar	awqamı	15
 jollar	menen	15
@@ -2882,7 +2906,6 @@ mashqalalar	boyınsha	15
 málimleme-kommunikaciya	texnologiyaların	15
 úlken	kólemdegi	15
 júklengen	wazıypalardı	15
-tárepinen	tiyisli	15
 mámleketlik	xızmetlerdi	15
 kún	sayın	15
 ónimler	islep	15
@@ -2920,7 +2943,6 @@ dem	alıp	15
 kúnge	kelip	15
 hár	birimiz	15
 arasında	sporttıń	15
-óz	úlesin	15
 ózi	de	15
 qısqa	múddet	15
 jılı	tuwılǵan	15
@@ -2972,6 +2994,7 @@ latyn	grafi'kasyna	15
 kompleks	basshısının	15
 nızamshılıq	palatası	15
 tereń	úyreniw	15
+hám	abadan	15
 sanaat	kárxanaları	15
 apj	aymaǵındaǵı	15
 is-ilájları	haqqında	15
@@ -2994,11 +3017,11 @@ iye	hám	15
 qorǵaw	komiteti	15
 jerdiń	ózinde	15
 eslew	hám	15
+fevral	ayında	15
 qatnastı	hám	15
 hám	alıp	15
 joybarı	tiykarında	15
 bolmaǵan	muǵdarda	15
-sóz	hám	15
 bilim	alıwǵa	15
 respublikası	jınayat	15
 medicinalıq-sociallıq	járdem	15
@@ -3027,6 +3050,7 @@ materiallar	hám	15
 hám	maǵlıwmatlardı	15
 hám	tapsırmalardıń	15
 bilim	alǵan	15
+organizmnin	ishki	15
 vegetativlik	nerv	15
 mln	sumlıq	15
 atırǵan	bunday	15
@@ -3036,6 +3060,7 @@ suyıltırılǵan	gaz	15
 qatań	ámel	15
 mámleketlik	siyasat	15
 qorǵaw	ushın	15
+oqıw	ornına	15
 bilimlendiriw	shólkemlerinde	15
 mektep	oqıwshısı	15
 mádeniyatın	asırıw	15
@@ -3069,7 +3094,6 @@ bóliminde	kórsetilgen	15
 múrájat	etken	15
 belgilengen	eń	15
 bolǵan	shaxslardı	15
-baspa	sóz	15
 mámleketlik	joqarı	15
 keńesi	menen	15
 ózin	ózi	15
@@ -3086,6 +3110,7 @@ jaza	aladı	15
 óz	dáwiriniń	15
 uyqas	túrde	15
 boyınsha	wákil	15
+arqalı	jiberiw	15
 júdá	joqarı	15
 adam	hám	15
 órt	qáwipsizligin	15
@@ -3130,12 +3155,14 @@ bul	usıl	14
 so'z	benen	14
 orta	ten'izi	14
 programmalastırıw	tili	14
+ishinde	en	14
 yaki	mınaw	14
 joq	ekenligi	14
 islep	shıqtı	14
 turmısı	menen	14
 bir	jumıs	14
 bul	jag'dayda	14
+jıldan	beri	14
 joqarı	bolsa	14
 bir	jıldan	14
 ashıp	beredi	14
@@ -3165,10 +3192,12 @@ adamlar	menen	14
 dushshı	suw	14
 biliw	kerek	14
 den	kem	14
+respublikası	prezidentinin	14
 orın	iyeleydi	14
 miyasar	boldı	14
 ı	ta	14
 milliard	sumlıq	14
+payda	bolıwının	14
 ha'm	haywanlar	14
 sheshimi	menen	14
 seleler	boyınsha	14
@@ -3223,8 +3252,8 @@ olardı	qayta	14
 wazıypalardı	ámelge	14
 investiciyalar	hám	14
 etilmegen	basqa	14
-qurılıs	industriyası	14
 baqlaw	hám	14
+tárepinen	tiyisli	14
 kishi	kólemli	14
 mámleketlik	uyım	14
 ilimler	akademiyası	14
@@ -3247,6 +3276,7 @@ programmalıq	támiynat	14
 energiya	payda	14
 boly'y	tiis	14
 mirziyoevtiń	basshılıǵında	14
+ge	shamalas	14
 kólemi	hám	14
 rawajlanǵan	mámleketlerde	14
 itibar	qaratılǵan	14
@@ -3256,6 +3286,7 @@ keń	imkaniyatlar	14
 ashtı	hám	14
 taldyqorg'an	qalasy	14
 keń	jámiyetshilikke	14
+óz	úlesin	14
 tiykar	salǵan	14
 ásir	baslarında	14
 jer	júzinde	14
@@ -3337,12 +3368,12 @@ ekonomika	hám	14
 xalıqtı	sociallıq	14
 kásiplik	awqam	14
 múmkin	hám	14
+sóz	hám	14
 qaraqalpaqstan	respublikasın	14
 qosımshalar	kirgiziw	14
 keńes	komitetleri	14
 sheshimler	qabıl	14
 baylanıslı	basqa	14
-boyınsha	rayonlıq	14
 respublikası	nızamı	14
 párman	hám	14
 medicinalıq	xızmet	14
@@ -3360,7 +3391,6 @@ reformalardı	ámelge	14
 waqıtsha	jasaw	14
 qan	menen	14
 intizomini	bekkemlew	14
-jáne	social	14
 keńesinde	kórip	14
 shólkemler	basshıları	14
 basqarıwı	shólkemleriniń	14
@@ -3416,6 +3446,7 @@ birinshi	bóliminde	14
 ushın	haqı	14
 uyımı	tárepinen	14
 kórip	shıǵıladı	14
+baspa	sóz	14
 sorawların	berip	14
 názerde	tutıladı	14
 tarawındaǵı	wákillikli	14
@@ -3450,6 +3481,7 @@ aqıl	etiw	14
 bir	bo'legi	13
 anaw	yamasa	13
 ha'm	ekinshi	13
+biraq	onın	13
 ha'm	usı	13
 talap	etti	13
 bolıwı	ha'm	13
@@ -3473,6 +3505,7 @@ esapqa	ala	13
 tiyisli	bolıp	13
 bul	teoriya	13
 qaraqalpaqstan	jazıwshılar	13
+onın	menen	13
 olar	da	13
 jasınan	baslap	13
 basqa	tarawlarda	13
@@ -3514,7 +3547,6 @@ ministrler	ken'esinin	13
 arqalı	da	13
 dem	aladı	13
 imkaniyatı	bar	13
-respublikası	prezidentinin	13
 belsendi	qatnasıp	13
 menen	usı	13
 bilimlendiriw	tarawı	13
@@ -3527,6 +3559,7 @@ adam	ushın	13
 menen	tek	13
 ja'ne	ony	13
 jyl	buryn	13
+ry'hani	jan'g'yry	13
 maǵlıwmatlardı	jıynaw	13
 niyetler	menen	13
 avtomatikalıq	túrde	13
@@ -3538,6 +3571,7 @@ jyldan	beri	13
 jańa	dáwir	13
 óz-ara	paydalı	13
 ja'ne	a'ley'mettik	13
+osyg'an	orai	13
 syni	turg'ydan	13
 az	qamtylg'an	13
 milliy	olimpiada	13
@@ -3551,7 +3585,6 @@ vedomstvolar	menen	13
 hám	jetilistiriw	13
 ministriniń	orınbasarı	13
 respublikasınıń	bas	13
-jemisli	miynet	13
 bas	redaktorı	13
 avtomobil	transportın	13
 normativlik-huqıqıy	hám	13
@@ -3655,7 +3688,6 @@ haqqında	pikir	13
 jetkerip	beredi	13
 bolǵan	qızıǵıwshılıǵın	13
 huqıqıy	mádeniyatın	13
-quramı	hám	13
 prezidenti	janındaǵı	13
 klengen	wazıypalar	13
 aymaqlıq	bo	13
@@ -3671,8 +3703,8 @@ bekkemlew	hám	13
 qaysı	bir	13
 fermer	xojalıǵında	13
 háreket	etiwi	13
+qurılıs	industriyası	13
 qurıp	pitkerildi	13
-baslıǵı	r	13
 boyınsha	wazıypalar	13
 aymaqta	jasawshı	13
 medicinalıq	kórikten	13
@@ -3680,7 +3712,6 @@ qaraqalpaqstan	respublikasındaǵı	13
 bere	almaydı	13
 jer	iyeleri	13
 sol	jerdiń	13
-ǵa	jaqın	13
 áyyemgi	xorezm	13
 májilis	bolıp	13
 rayonı	hákimliginiń	13
@@ -3695,6 +3726,7 @@ rásmiy	túrde	13
 kópshilik	dawısı	13
 keńes	baslıǵınıń	13
 hám	nızamlarına	13
+boyınsha	rayonlıq	13
 hám	puqaralar	13
 hám	huqıq	13
 hám	turmıslıq	13
@@ -3724,11 +3756,11 @@ hámde	taǵı	13
 joqarı	jıynalısı	13
 jalb	jetiw	13
 shólkemleri	menen	13
+jáne	social	13
 respublikası	kásiplik	13
 jumıs	jobaları	13
 jumıs	beriwshi	13
 km	ge	13
-organizmnin	ishki	13
 menen	múrájat	13
 orınlaw	maqsetinde	13
 boyınsha	respublika	13
@@ -3869,7 +3901,6 @@ olar	bir	12
 dep	ataldı	12
 menen	baylanısı	12
 eramızg'a	shekemgi	12
-payda	etiwi	12
 bul	pikir	12
 degen	pikirler	12
 ol	adam	12
@@ -3968,7 +3999,6 @@ jumys	jasay	12
 man'yzy	bar	12
 dene	tárbiya	12
 uzaq	jıllar	12
-mıń	gektar	12
 bilim	bery'di	12
 bermey	atır	12
 sport	tarawında	12
@@ -3985,6 +4015,7 @@ qosımshalar	haqqında	12
 kabinetine	usınıslar	12
 hám	úshinshi	12
 usı	pármannıń	12
+jemisli	miynet	12
 medallar	menen	12
 tarawındaǵı	mámleketlik	12
 respublikası	ayrıqsha	12
@@ -4088,6 +4119,7 @@ iske	qosıw	12
 ushın	jáne	12
 hám	sonıń	12
 boyınsha	jańa	12
+quramı	hám	12
 ministri	a	12
 rejesin	islep	12
 boyınsha	belgilengen	12
@@ -4103,6 +4135,7 @@ mánisti	ańlatadı	12
 bolıp	bo	12
 hám	qalalar	12
 belgilengen	múddetlerde	12
+baslıǵı	r	12
 aymaq	xalqı	12
 xalqı	menen	12
 oqıwshı	hám	12
@@ -4182,12 +4215,12 @@ flora	ha'm	12
 eramızdan	burıng'ı	12
 jıl	ótkennen	12
 jas	ospirimler	12
+ten	boladı	12
 kirip	keliwi	12
 jumıssız	dep	12
 hám	úsh	12
 bir	ǵana	12
 bmsh	bas	12
-gektar	jer	12
 teoriyalıq	hám	12
 úy	aldı	12
 támiynatı	hám	12
@@ -4216,7 +4249,6 @@ túsinik	jumısların	12
 qaraqalpaq	til	12
 soǵan	qaramastan	12
 jaǵdaylar	basqarması	12
-júdá	kishi	12
 bul	halda	12
 xix	ásirde	12
 hám	qımbat	12
@@ -4229,7 +4261,6 @@ o't	suyıqlıg'ı	12
 áskeriy	xızmetke	12
 kóp	milletli	12
 paydalana	aladı	12
-mln	sum	12
 z	ha	12
 saqlaw	sistemasınıń	12
 nızam	aktlerine	12
@@ -4318,12 +4349,12 @@ galvanik	elementtiń	12
 du'nyanın	en	11
 kerek	bolg'an	11
 qaytıs	bolg'an	11
-biraq	onın	11
 ekonomikalıq	zona	11
 ishki	ha'm	11
 tolıg'ı	menen	11
 ushın	emes	11
 usılı	bolıp	11
+al	onın	11
 arasında	bolıp	11
 menen	kelgen	11
 tiri	organizmler	11
@@ -4334,6 +4365,7 @@ yamasa	ulıwma	11
 sonday-aq	bul	11
 alıw	bolıp	11
 bul	xalıq	11
+olardın	ha'r	11
 ha'r	biri	11
 ha'm	tag'ı	11
 xalıqlar	menen	11
@@ -4345,6 +4377,7 @@ joli	menen	11
 orta	aziyag'a	11
 bir	kitap	11
 quramına	kirgen	11
+payda	etiwi	11
 qashıqlıqta	jaylasqan	11
 atlantika	okeanı	11
 o'z	da'wirinin	11
@@ -4372,7 +4405,6 @@ menen	baylanısıp	11
 jetkerip	beriwshi	11
 al	bul	11
 qol	qoyıldı	11
-talap	etilgen	11
 kemshiliklerdi	saplastırıw	11
 baspadan	shıqtı	11
 qansha	joqarı	11
@@ -4429,7 +4461,6 @@ isler	uyımları	11
 tarawı	xızmetkerleri	11
 arqalı	xalıq	11
 menen	ma	11
-a	qarsı	11
 an	tu	11
 topıraq	penen	11
 u'lken	bolmag'an	11
@@ -4462,6 +4493,7 @@ eki	mámleket	11
 keńeytiw	boyınsha	11
 tiykarǵı	principleri	11
 sheklengen	jámiyeti	11
+mıń	gektar	11
 shet	elden	11
 syn	turg'ysynan	11
 ko'p	balaly	11
@@ -4544,6 +4576,7 @@ kórsetip	atır	11
 dárek	beredi	11
 qıynap	kiyatırǵan	11
 zatlar	hám	11
+bul	túrdegi	11
 házirgi	kúni	11
 óz	ústinde	11
 kóriwimizge	boladı	11
@@ -4740,7 +4773,6 @@ unamlı	jumıslar	11
 jas	isbilermen	11
 insan	qádiri	11
 túsinik	berip	11
-ǵa	shekem	11
 túsinik	jumısları	11
 joqarıda	keltirilgen	11
 etilgen	edi	11
@@ -4767,6 +4799,7 @@ til	menen	11
 belgilengen	bolsa	11
 ǵana	bir	11
 maǵlıwmat	berdi	11
+gektar	jer	11
 dáwir	ishinde	11
 maǵlıwmatlar	berdi	11
 óz	iskerliginde	11
@@ -4796,7 +4829,6 @@ million	dollarǵa	11
 hám	sanaat	11
 hám	xalıqtı	11
 respublikalıq	keńesi	11
-esesi	muǵdarında	11
 hám	belgili	11
 hám	ózine	11
 hám	student	11
@@ -4815,8 +4847,11 @@ tańlap	alınǵan	11
 qaraslı	ulıwma	11
 bir	waqtıniń	11
 waqtıniń	ózinde	11
+júdá	kishi	11
 atamasında	ushırasıw	11
+shartli	reflekslerdin	11
 juwap	reaktsiyası	11
+iskerligi	ushın	11
 bir	kansha	11
 bulshıq	etlerinin	11
 asqazan	astı	11
@@ -4830,9 +4865,9 @@ alınadı	hám	11
 sáneden	baslap	11
 bolǵanı	sıyaqlı	11
 mákemelerine	oqıwǵa	11
-túsinikler	berdi	11
 ashılıw	máresimi	11
 puqaralardıń	bántligin	11
+mln	sum	11
 al	so	11
 nige	iye	11
 nilik	jaqtan	11
@@ -4844,7 +4879,6 @@ nızamlı	wákilleri	11
 alınǵannan	keyin	11
 nızamsız	túrde	11
 puqaralardıń	huqıq	11
-hám	kadrlar	11
 buyrıǵı	menen	11
 jaǵdayına	kóre	11
 máseleleri	menen	11
@@ -4875,7 +4909,6 @@ hám	qorǵaw	11
 etiw	múddeti	11
 mámleketlik	akkreditaciyadan	11
 tártipke	salıwshı	11
-mısal	ushın	11
 qay	dárejede	11
 jańalanıw	hám	11
 biraq	olardıń	11
@@ -4920,6 +4953,7 @@ bolǵan	jańa	11
 jasları	qatnastı	11
 islewi	múmkin	11
 qurallar	járdeminde	11
+qaraqalpaq	ádebiyatı	11
 ekinshi	da	11
 kúshli	hám	11
 islep	shıǵarıwdaǵı	11
@@ -4993,6 +5027,7 @@ tag'ı	bir	10
 orta	a'sirlerdegi	10
 baylanıslı	barlıq	10
 emes	al	10
+dep	ta'n	10
 kelip	shıg'ıp	10
 boliwi	mu'mkin	10
 degen	pikir	10
@@ -5025,6 +5060,7 @@ degen	jerde	10
 quralı	bolıp	10
 asırılıwı	tiyis	10
 ruxsat	etiledi	10
+talap	etilgen	10
 basılıp	shıqqan	10
 neden	ibarat	10
 shekem	jetedi	10
@@ -5091,12 +5127,15 @@ ja'ne	o'zge	10
 boyınsha	pikir	10
 an	ko	10
 islesiw	sistemasın	10
+a	qarsı	10
 usılların	engiziw	10
 ushın	tek	10
 salay'atty	o'mir	10
 in	de	10
 u'les	qosyp	10
+ary	qarai	10
 aly	u's	10
+onyn	u'stine	10
 son'yna	dei'in	10
 tariyxı	menen	10
 bolıp	jumıs	10
@@ -5108,12 +5147,12 @@ bilim	aly'g'a	10
 al	endi	10
 qyzmeti	men	10
 eldin	qataryna	10
+talabyna	sai	10
 do'n	gelek	10
 joqarǵı	oqıw	10
 awıl	ha	10
 paydalı	birge	10
 oqyty'dyn	jan'a	10
-qandai	da	10
 dep	oilaimyn	10
 zine	ta	10
 memlekettik	til	10
@@ -5181,12 +5220,12 @@ yanvarǵa	shekem	10
 ushın	birden-bir	10
 jumısların	jetilistiriw	10
 sawda	ministrligi	10
-etip	kelmekte	10
 dúnya	júzilik	10
 sonıń	nátiyjesinde	10
 sawǵaları	tapsırıldı	10
 keleshek	áwladqa	10
 jeńimpazlar	shólkemlestiriwshiler	10
+qazaq	tilinin	10
 men	sol	10
 unamlı	sheshimin	10
 ximiyalıq	quramı	10
@@ -5207,7 +5246,6 @@ mashqalaların	úyreniw	10
 qızlar	arasında	10
 boyınsha	kórsetpeler	10
 paida	bolady	10
-bul	túrdegi	10
 oqıp	júrgen	10
 sol	dáwirdegi	10
 birine	aylandı	10
@@ -5420,12 +5458,12 @@ bul	protsess	10
 tiykarınan	eki	10
 hám	tiykarǵı	10
 menen	qaplanǵan	10
+ǵa	jaqın	10
 toqtalıp	ótti	10
 oqıw	isleri	10
 hám	birinshi	10
 eki	toparg	10
 a	deyin	10
-nan	artıq	10
 z	aldına	10
 a	ta	10
 jetiw	boyınsha	10
@@ -5497,6 +5535,7 @@ ilimiy-izertlew	hám	10
 filial	direktorı	10
 menen	sıylıqlanadı	10
 avgustqa	shekem	10
+esesi	muǵdarında	10
 olar	ózleriniń	10
 kóp	sandaǵı	10
 ásirdiń	baslarında	10
@@ -5524,6 +5563,7 @@ organizmnin	barlıq	10
 jokargı	nerv	10
 ulken	yarım	10
 refleksler	tiykarında	10
+reflekstin	payda	10
 nerv	impulsin	10
 tu'sken	nerv	10
 tegis	bulshıq	10
@@ -5542,6 +5582,7 @@ n	hám	10
 bas	qánige	10
 prezident	pármanı	10
 qızıqlı	hám	10
+túsinikler	berdi	10
 hám	kónlikpelerdi	10
 arqalı	dizimnen	10
 zler	menen	10
@@ -5552,6 +5593,7 @@ keselliklerdiń	aldın	10
 shártli	túrde	10
 ushın	qáwipli	10
 keyin	ǵana	10
+hám	kadrlar	10
 tiykarǵı	hám	10
 hám	waqıt	10
 tiykarǵı	sebebi	10
@@ -5574,7 +5616,6 @@ támiyinlew	tarawındaǵı	10
 jumıssız	adam	10
 huqıqıy	túsinikler	10
 hám	jaslardı	10
-bolǵan	joqarı	10
 rawajlandırıwǵa	baylanıslı	10
 shańaraqta	bilim	10
 alǵan	hám	10
@@ -5585,6 +5626,7 @@ ushın	olarǵa	10
 qaramaǵınan	ayrılǵan	10
 tárbiyalaw	ushın	10
 tayarlıq	jumısları	10
+mısal	ushın	10
 bul	ilaj	10
 hayallar	hám	10
 sud-huqıq	sistemasın	10
@@ -5668,7 +5710,6 @@ nolge	teń	10
 texnik	kórikten	10
 obektlerinen	paydalanıw	10
 professional	futbol	10
-rayonlar	aralıq	10
 olardıń	aldın	10
 suw	háwizleri	10
 maǵlıwmatlar	tiykarında	10
@@ -5694,6 +5735,7 @@ imtixan	tapsırıw	10
 tańlanba	kóplik	10
 integral	sxemalar	10
 dúnyaǵa	ilimiy	10
+ha'm	en	9
 nızamına	muwapıq	9
 o'zbekstan	respublikası	9
 payda	alıw	9
@@ -5764,7 +5806,7 @@ bildiriw	ushın	9
 ataması	menen	9
 ta'repinen	jaratılg'an	9
 sen	ushın	9
-ishinde	en	9
+ushın	en	9
 okeanı	menen	9
 bunda	da	9
 sıpatında	da	9
@@ -5777,6 +5819,7 @@ na'zerde	tutılg'an	9
 boyınsha	ha'r	9
 qanday	basqa	9
 benen	aytqanda	9
+onda	onın	9
 ten'iz	ha'm	9
 ushında	bul	9
 aytqan	edi	9
@@ -5789,6 +5832,7 @@ ornı	menen	9
 isenim	payda	9
 tiykar	saldı	9
 aspan	deneleri	9
+menen	onın	9
 metrge	shekem	9
 jer	silkiniw	9
 ja'miyettin	ustavlıq	9
@@ -5834,6 +5878,7 @@ adam	o'z	9
 ha'dden	tıs	9
 ayrılıp	turadı	9
 sheshiwdi	talap	9
+tan	atqansha	9
 ha'm	o'simlikler	9
 sonlıqtan	ol	9
 halda	qayta	9
@@ -5846,6 +5891,7 @@ menen	uqsas	9
 awız	eki	9
 jılı	bul	9
 bir	tutas	9
+ju'da	az	9
 orayında	jaylasqan	9
 hesh	biri	9
 iyelegen	bolsa	9
@@ -5873,6 +5919,7 @@ minnetdarshılıq	bildirip	9
 qanaatlanıwshılıq	penen	9
 orayları	arqalı	9
 qarjı	ajıratıw	9
+onın	qanday	9
 dep	aytıw	9
 ajıratıw	ushın	9
 keyingi	maqala	9
@@ -5889,6 +5936,7 @@ qala	a'kiminin	9
 elimizdin	a'r	9
 boyınsha	zárúr	9
 qoldana	otyryp	9
+a'ri	qarai	9
 ortasha	jıllıq	9
 xızmet	túrleri	9
 zárúr	jaǵdaylarda	9
@@ -5943,7 +5991,6 @@ tartıw	ushın	9
 kómeklesiw	hám	9
 islep	shıqsın	9
 sport	mektepleri	9
-kerekli	bolǵan	9
 hám	sistemalı	9
 jumısın	jetilistiriw	9
 qadaǵalaw	ózbekstan	9
@@ -6019,6 +6066,7 @@ joqarı	ball	9
 barlıq	sharayatlar	9
 xabar	agentliginiń	9
 jas	tamashagóyler	9
+etip	kelmekte	9
 gúresiw	baǵdarında	9
 jumıs	istey	9
 s	qa	9
@@ -6329,6 +6377,7 @@ isletiw	múmkin	9
 tásir	etip	9
 túri	bolıp	9
 onsha	úlken	9
+ǵa	shekem	9
 hár	saparı	9
 asıra	aytqan	9
 aytqan	bolmaymız	9
@@ -6343,6 +6392,7 @@ menen	ha	9
 qatnasta	boladı	9
 bul	tu	9
 as	pisiriw	9
+nan	artıq	9
 qan	arqalı	9
 biraq	bunday	9
 iske	asıp	9
@@ -6368,7 +6418,6 @@ wákilleri	hám	9
 hám	qosımsha	9
 sistema	bolıp	9
 silekey	bezleri	9
-ten	boladı	9
 hám	teńiz	9
 koronavirus	infekciyası	9
 keliwi	hám	9
@@ -6393,6 +6442,7 @@ keńesine	kiritilgen	9
 alıp	islew	9
 industriyası	hám	9
 qılınıp	atırǵan	9
+neft	ónimleri	9
 ónimleri	hám	9
 islew	menen	9
 bir	sóz	9
@@ -6401,8 +6451,6 @@ kúshke	iye	9
 respublikası	basqıshına	9
 hám	kásip-óner	9
 bolıp	jetilisiwine	9
-úlketanıw	mag	9
-ulıwma	bilimlendiriw	9
 kútilip	atır	9
 baslap	kúshke	9
 oǵan	muwapıq	9
@@ -6468,7 +6516,6 @@ yamasa	jumıs	9
 aralıqtan	oqıtıw	9
 turǵan	jer	9
 paydalanıw	huqıqı	9
-kirgiziw	hám	9
 jer	uchastkasın	9
 da	iye	9
 kórkem-óner	mektebinde	9
@@ -6522,6 +6569,7 @@ alınǵan	hám	9
 artıq	bolmaǵan	9
 penen	alıp	9
 olar	hár	9
+bolǵan	joqarı	9
 qaraqalpaq	hám	9
 bilimlendiriw	xızmetlerin	9
 jetpegen	bilim	9
@@ -6577,7 +6625,6 @@ erkin	puqaraliq	9
 eselengen	tólemli	9
 ekonomikalıq	ósiwge	9
 keri	jaǵdayda	9
-qosımsha	ósiw	9
 tólep	beriw	9
 bir	joqarı	9
 bilimlendiriw	shólkeminiń	9
@@ -6669,6 +6716,7 @@ jaslardı	jumıs	9
 tárizinde	xalıqtı	9
 avtorlıq	huqıqı	9
 is	boyınsha	9
+rayonlar	aralıq	9
 keńesi	deputatları	9
 paydalanıwshılar	menen	9
 yamasa	hár	9
@@ -6735,9 +6783,11 @@ dem	alıwı	8
 ja'rdem	berdi	8
 ishinde	ol	8
 basqalar	menen	8
+en	ullı	8
 huqıqıy	sana	8
 tarawı	bolıp	8
 ayrıqsha	huqıqlar	8
+yamasa	onın	8
 ha'm	ko'p	8
 jaqtan	qayta	8
 belgili	waqıt	8
@@ -6778,6 +6828,7 @@ orta	mektepti	8
 kelisim	beredi	8
 pitkergennen	keyin	8
 ekinshi	ret	8
+onın	ushın	8
 oqıwın	dawam	8
 er	jetip	8
 usı	waqıtları	8
@@ -6813,6 +6864,7 @@ usılları	bar	8
 bir	aydan	8
 bolıp	eki	8
 kelip	tu'sedi	8
+ju'da	ku'shli	8
 ustavlıq	kapitalın	8
 alıw	ha'm	8
 sıpatında	belgili	8
@@ -6821,6 +6873,8 @@ bergen	bolsa	8
 mu'mkin	dep	8
 belgileri	menen	8
 lekin	ol	8
+ju'da	tez	8
+ati	menen	8
 bo'limnen	turadı	8
 juwap	beriwi	8
 alıp	barılsa	8
@@ -6879,6 +6933,7 @@ diplomatiyalıq	korpus	8
 usı	sebepli	8
 bul	at	8
 akademiyası	qaraqalpaqstan	8
+bul	ju'da	8
 ha'r	dayım	8
 qalıp	atır	8
 ushın	qısqa	8
@@ -7023,8 +7078,6 @@ hám	samarqand	8
 basqarıw	sistemasına	8
 tómendegilerdi	názerde	8
 qarjılandırıw	dárekleri	8
-kapital	qurılıs	8
-basshısı	menen	8
 saylap	alıw	8
 tártipte	tastıyıqlanǵan	8
 xızmet	wazıypaların	8
@@ -7045,7 +7098,6 @@ jaratıw	imkaniyatın	8
 olardıń	biri	8
 arqa	tárepi	8
 km	aralıqqa	8
-di	quraydı	8
 birlesken	arab	8
 mart	ayında	8
 prezidenti	hám	8
@@ -7162,6 +7214,7 @@ erisip	atırǵan	8
 jeńil	atletika	8
 stol	tennisi	8
 jámááti	hám	8
+kerekli	bolǵan	8
 ol	eń	8
 orındı	alıwǵa	8
 bolatuǵın	edi	8
@@ -7252,6 +7305,7 @@ tereń	minnetdarshılıq	8
 bas	xatkeri	8
 atap	ótpekshimen	8
 hám	soǵan	8
+áhmiyetli	rol	8
 til	hám	8
 jasap	kelmekte	8
 ábiw	rayxan	8
@@ -7324,7 +7378,6 @@ oktyabr	kúngi	8
 arqalı	isbilermenlik	8
 juqpalı	kesellikler	8
 zamanagóy	málimleme	8
-kórsetiw	sapasın	8
 r	qanday	8
 pikirlerin	bildirdi	8
 qorshaǵan	ortalıqtıń	8
@@ -7398,6 +7451,7 @@ huqıqbuzarlıqlar	profilaktikası	8
 tártipti	saqlaw	8
 ótken	qısqa	8
 qala	beredi	8
+qaraqalpaq	tilinin	8
 baspadan	shıqqan	8
 menen	mektep	8
 tariyxında	birinshi	8
@@ -7468,7 +7522,6 @@ jıldıń	dekabr	8
 boyınsha	ózleriniń	8
 penen	kútip	8
 da	júdá	8
-kútip	alındı	8
 ǵárezsizlik	bayramı	8
 hám	ózbekstannıń	8
 aldaǵı	waqıtlarda	8
@@ -7533,7 +7586,6 @@ oqıw	jılına	8
 kásiplik	sheberligin	8
 grant	tiykarında	8
 tiykarında	bilim	8
-dı	quraydı	8
 keyingi	eki	8
 bes	jılda	8
 haqqında	málimleme	8
@@ -7636,6 +7688,7 @@ mal	sharwashılıǵı	8
 tariyxıy	hám	8
 solardıń	ishinde	8
 zamanagóy	texnikalar	8
+úlketanıw	mag	8
 kitap	kórgizbe	8
 kórgizbe	shólkemlestirildi	8
 oqıwın	kóshiriw	8
@@ -7650,7 +7703,6 @@ hám	innovaciyalar	8
 qalǵan	bólegi	8
 hám	topıraq	8
 mámleket	siyasatınıń	8
-bolǵanı	sebepli	8
 elementler	menen	8
 bul	kún	8
 atındaǵı	dóretiwshilik	8
@@ -7700,12 +7752,12 @@ organlarına	jetkerip	8
 jılda	tuwılǵan	8
 úgit-násiyatlaw	hám	8
 arqalı	emes	8
+kirgiziw	hám	8
 orınbasarı	n	8
 haqqında	ilim	8
 ashıq	sáwbet	8
 aldın	xabar	8
 aradan	kóp	8
-úsh	qıylı	8
 keńnen	túsinikler	8
 oqıp	berdi	8
 mıń	sum	8
@@ -7782,6 +7834,7 @@ mámleketlik	akkreditaciya	8
 tárepinen	mámleketlik	8
 sociallıq	qorǵawdıń	8
 tısqarı	bilimlendiriw	8
+ulıwma	bilimlendiriw	8
 yamasa	ruwxıy	8
 ruwxıy	nuqsanları	8
 joqarı	maǵlıwmat	8
@@ -7836,6 +7889,7 @@ menen	bayram	8
 uyım	hám	8
 belgilew	haqqında	8
 xalıqtıń	jan	8
+qosımsha	ósiw	8
 úlken	bolsa	8
 studentler	turaq	8
 sánesine	shekem	8
@@ -7897,7 +7951,6 @@ jılda	hyundai	8
 artıq	bolǵan	8
 hám	social	8
 texnikalıq	kórikten	8
-islep	shıǵarǵan	8
 qosımshalar	kiritiw	8
 elektr	maydanı	8
 sanap	ótilgen	8
@@ -7918,7 +7971,6 @@ keńes	bolıp	8
 sanası	hám	8
 nátiyjesinde	júzege	8
 bazar	ekonomikasın	8
-de	júdá	8
 úyrenip	shıǵıldı	8
 basıp	ótken	8
 qutlı	mákan	8
@@ -7929,7 +7981,6 @@ hákimi	orınbasarı	8
 turǵınları	qatnastı	8
 prokuraturası	tárepinen	8
 baslıǵı	q	8
-jaylasqan	mámleket	8
 avgust	kúngi	8
 belgileri	hám	8
 hám	hayal	8
@@ -7995,7 +8046,6 @@ test	tapsırmaları	8
 huqıqlar	haqqındaǵı	8
 dıqqatına	jetkeriw	8
 prokatqa	beriw	8
-huqıqlar	obektleriniń	8
 bolǵan	huqıq	8
 iyesiniń	kelisimisiz	8
 basqarıwshı	shólkemlerdiń	8
@@ -8035,6 +8085,7 @@ balası	bolg'an	7
 orın	alg'an	7
 en	da'slep	7
 iye	bolgan	7
+ju'da	belgili	7
 isletiw	ushın	7
 xalqı	sanı	7
 million	adam	7
@@ -8094,7 +8145,6 @@ boyınsha	barlıq	7
 ol	tez	7
 ekinshi	du'nya	7
 aslam	adam	7
-onın	ushın	7
 menen	turmay	7
 bir	qız	7
 ne	ekenin	7
@@ -8111,12 +8161,12 @@ usınday	bir	7
 ay	ha'm	7
 bir	maqsetke	7
 jıl	sayın	7
-ke	shekem	7
 mashina	qurılısı	7
 ushın	bekkem	7
 haqqında	emes	7
 ha'm	ilimiy	7
 nominal	bahasın	7
+bul	onın	7
 tiyisli	barlıq	7
 paydalanıw	huqıqına	7
 yag'nıy	onın	7
@@ -8131,6 +8181,7 @@ yamasa	ol	7
 joq	bolsa	7
 olimpiada	oyınları	7
 parazitlik	etedi	7
+olardın	ishinde	7
 shekem	bolg'an	7
 orın	alıp	7
 tiykar	boldı	7
@@ -8178,6 +8229,7 @@ qayta	isleniwi	7
 jetip	bardı	7
 boyında	jaylasqan	7
 jazıp	qaldırg'an	7
+ushın	onın	7
 alg'annan	keyin	7
 rawajlana	basladı	7
 qol	qoyılg'an	7
@@ -8237,6 +8289,8 @@ siyasiy	partiya	7
 zi	basqariw	7
 a'melge	asiriw	7
 belgilengen	ta'rtipte	7
+iye	boladi	7
+ha'm	oni	7
 tayinlaw	ha'm	7
 puqaraliq	isler	7
 isler	boyinsha	7
@@ -8274,6 +8328,7 @@ belsendileri	menen	7
 bolıp	o	7
 ashılıw	saltanatında	7
 qatar	ilajlar	7
+usı	jıldın	7
 elektr	energiya	7
 jumısın	bunnan	7
 avtotransport	quralları	7
@@ -8283,6 +8338,7 @@ boyınsha	a	7
 xızmetkerleri	ushın	7
 r	bolg	7
 onda	adamlar	7
+onnan	son	7
 alıw	arqalı	7
 bos	aqsha	7
 ushın	minnetli	7
@@ -8292,7 +8348,6 @@ degendi	bildiredi	7
 bul	birinshi	7
 esap	ayırısıw	7
 negiz	bar	7
-onın	qanday	7
 ja'ne	ol	7
 onı	qayta	7
 jip	iyiriw	7
@@ -8359,12 +8414,12 @@ qyzmet	etip	7
 sol	kezdegi	7
 bar	jerde	7
 osylai's	a	7
+da'l	osyndai	7
 du'ni'ege	kelgen	7
 ag'yls'yn	tilin	7
 ja'ne	g'ylym	7
 in	the	7
 qazaq	halqy	7
-talabyna	sai	7
 tili	de	7
 mektep	jasyna	7
 ja'ne	olardyn	7
@@ -8386,6 +8441,7 @@ bilim	bery'de	7
 qamtamasyz	etedi	7
 qorytyndy	jasay	7
 oilay	qabiletin	7
+qabiletin	damyty	7
 ma'ni	zor	7
 imkaniyatlar	jaratıw	7
 ju'zege	asyryly'da	7
@@ -8432,7 +8488,6 @@ tárepleme	hám	7
 zamanagóy	sport	7
 procesi	hám	7
 hám	sportqa	7
-hám	ádillik	7
 múddette	nızam	7
 kúshin	joyıtqan	7
 joyıtqan	dep	7
@@ -8449,7 +8504,6 @@ talapların	esapqa	7
 keńesiniń	baslıǵına	7
 tómendegiler	belgilensin	7
 jumıs	isleytuǵın	7
-menen	kelisip	7
 salıǵı	boyınsha	7
 hám	shólkemleriniń	7
 ministrligi	ózbekstan	7
@@ -8471,7 +8525,7 @@ ag'ylshyn	tilderin	7
 arza	bergen	7
 dizimge	alıwshı	7
 ishine	alıp	7
-c	qa	7
+di	quraydı	7
 arasında	óz-ara	7
 isenim	hám	7
 hám	turizm	7
@@ -8523,7 +8577,6 @@ jeńiske	erisken	7
 eki	jıldan	7
 balalardıń	súyikli	7
 bolǵan	balalardı	7
-ten	aslam	7
 hám	durıs	7
 jıllıǵına	baǵıshlanǵan	7
 saqlaw	ministrliginiń	7
@@ -8532,6 +8585,7 @@ baqsı	atındaǵı	7
 atındaǵı	balalar	7
 milliy	úrp-ádet	7
 maqsetinde	shólkemlestirilgen	7
+esletip	ótemiz	7
 birinshi	orın	7
 jazıp	alındı	7
 biraq	sol	7
@@ -8703,7 +8757,6 @@ qol	qatılmaslıǵın	7
 kirip	kiyatırǵan	7
 pátler	menen	7
 ir	bass'ysy	7
-amandyq	g'abbasuly	7
 orta	mektep	7
 jasag'an	taldykorgan-online	7
 turmys	sapasyn	7
@@ -8770,6 +8823,7 @@ joybarlaw	jumısların	7
 oqıw	procesine	7
 rawajlandırıw	mámleketlik	7
 jańa	áwlad	7
+basshısı	menen	7
 ornı	boyınsha	7
 dizimnen	ótiwdi	7
 islesiwshi	shólkemlerdiń	7
@@ -8786,7 +8840,6 @@ wazıypaları	bolıp	7
 repinen	o	7
 operativlik	penen	7
 baylanıslı	ilajlardı	7
-joybarların	tayarlaydı	7
 menen	tapsırmaları	7
 rtibin	bekkemlew	7
 talap	etetug	7
@@ -8834,6 +8887,7 @@ hám	kóklemzarlastırıw	7
 usınıw	hám	7
 viruslı	gepatit	7
 qamsızlandırıw	xızmetlerin	7
+kórsetiw	sapasın	7
 pedagogika	ja'ne	7
 bul	en	7
 ja'ne	o'z	7
@@ -8844,7 +8898,6 @@ baslaw	ushın	7
 qala	berdi	7
 mıńǵa	shamalas	7
 siz	benen	7
-mm	den	7
 jeke	gigiena	7
 bul	jay	7
 da	ko	7
@@ -8872,6 +8925,7 @@ filologiya	ilimleriniń	7
 ózleriniń	pikir	7
 da	zárúr	7
 aymaqlıq	basqarması	7
+marttan	baslap	7
 hám	masaqlı	7
 kepillik	berilgen	7
 dúzilgen	shártnamalar	7
@@ -8939,7 +8993,6 @@ baǵıwshısın	joǵaltqan	7
 maǵlıwmat	ornında	7
 kónlikpelerin	rawajlandırıw	7
 júritip	atırǵan	7
-baslıǵı	e	7
 respublikasında	turaqlı	7
 tutyny's	ylyq	7
 bolıp	ketti	7
@@ -9020,6 +9073,7 @@ menen	shártnamalar	7
 tolıq	maǵlıwmatlar	7
 náshebentlik	hám	7
 qaraqalpaqstanda	da	7
+kútip	alındı	7
 ilimleriniń	doktorı	7
 tán	ózgeshelikleri	7
 paytaxtımız	nókis	7
@@ -9127,6 +9181,7 @@ olardı	óz	7
 penen	támiyinlewge	7
 ekenligi	anıqlandı	7
 almasıw	protsessi	7
+dı	quraydı	7
 jıl	yanvar	7
 aprelge	shekem	7
 u'lken	emes	7
@@ -9181,6 +9236,7 @@ programma	hám	7
 qızlar	ushın	7
 informaciyalıq	texnologiyalar	7
 koronavirus	pandemiyası	7
+kapital	qurılıs	7
 iskerliginde	ózbekstan	7
 kórip	shıǵilıwını	7
 reformalardıń	ámelge	7
@@ -9191,7 +9247,6 @@ mineral	shiyki	7
 qazib	alıw	7
 kórinis	hám	7
 kórip	shıǵıwda	7
-keyin	olardıń	7
 olardıń	ámelge	7
 atqarılıwı	ushın	7
 qara	hám	7
@@ -9270,7 +9325,6 @@ ushın	oǵada	7
 múmkinshiligi	bar	7
 ushın	birdey	7
 saparı	waqtında	7
-m	biyiklikte	7
 qatnasında	ushırasıw	7
 ótiwimiz	kerek	7
 ózbekstan	chempionı	7
@@ -9283,12 +9337,14 @@ qáwimler	menen	7
 xvi	ásirdiń	7
 ásir	basında	7
 ásirlerge	tiyisli	7
+bolǵanı	sebepli	7
 qanday	materiallıq	7
 hám	sawǵalar	7
 hám	kitap	7
 mektebi	oqıwshıları	7
 qániygeler	tárepinen	7
 alıp	ketedi	7
+dekabr	ayında	7
 rayon	orayındaǵı	7
 hám	juwapker	7
 hám	qalasazlıq	7
@@ -9309,7 +9365,6 @@ qıylı	bo'limlerinde	7
 organizmde	zat	7
 miyi	ulken	7
 jeke	tirishilik	7
-reflekstin	payda	7
 a'hmiyeti	qanday	7
 protsessi	payda	7
 olarda	payda	7
@@ -9322,7 +9377,6 @@ nerv	impulsların	7
 reflektorlı	tu'rde	7
 tek	sol	7
 jetkerilip	beriledi	7
-bolıp	esaplanǵan	7
 hám	balalardıń	7
 ań	awlaw	7
 eki	qatar	7
@@ -9371,6 +9425,7 @@ bolǵan	úlken	7
 miynet	penen	7
 aldı	da	7
 onıń	ishki	7
+úsh	qıylı	7
 tilep	qalamız	7
 degeni	emes	7
 haqqındaǵı	reje	7
@@ -9590,7 +9645,6 @@ informaciya	texnologiyaların	7
 óndiris	kóleminiń	7
 ósiw	dárejesi	7
 tutınıw	hám	7
-ósiw	tempi	7
 mámleket	xalqınıń	7
 dárejesi	boyınsha	7
 baylanıslı	túrde	7
@@ -9604,7 +9658,6 @@ mlrd	sum	7
 rawajlanıwǵa	qaray	7
 waqıt	hám	7
 múmkinshilik	jaratıwshı	7
-yadqa	iye	7
 shıǵıw	múmkin	7
 fakulteti	jaslar	7
 ótkezgishli	diod	7
@@ -9629,7 +9682,6 @@ satıp	aldı	7
 ámelde	bolǵan	7
 cifrlı	televidenie	7
 hám	evropa	7
-kemeytiw	ushın	7
 da	múmkin	7
 world	wide	7
 sanına	qaray	7
@@ -9661,7 +9713,6 @@ kóship	ótti	7
 xabar	aldı	7
 jıldıń	yanvar-iyun	7
 sentyabrden	baslap	7
-hám	keyingi	7
 mashina	tiline	7
 baspa	etilgen	7
 jılda	ford	7
@@ -9684,6 +9735,7 @@ betman	xollveg	7
 rol	oynadı	7
 kóteriw	hám	7
 tómendegi	túrlerge	7
+islep	shıǵarǵan	7
 sistemasınan	paydalanıw	7
 bóliw	múmkin	7
 biri	onıń	7
@@ -9719,6 +9771,7 @@ awıl	hayalları	7
 atız	basında	7
 izertlew	jumısları	7
 endi	ǵana	7
+de	júdá	7
 puqaraları	hám	7
 rayon	hákimligine	7
 xalıq	bántligine	7
@@ -9733,10 +9786,10 @@ rayonlıq	xbb	7
 pikir	usınısların	7
 orınnıń	ózinde	7
 soń	rayon	7
+jaylasqan	mámleket	7
 hákiminiń	orınbasarları	7
 qatnasında	seminar	7
 turmıs	sharayatların	7
-iran	tilindegi	7
 mayıplılıǵı	bolǵan	7
 utambetov	hám	7
 fermer	xojalıq	7
@@ -9799,7 +9852,6 @@ dep	kórsetilgen	7
 phaj	bólimi	7
 ayanbay	xızmet	7
 isler	bóliminiń	7
-boyınsha	qońırat	7
 ministri	orınbasarı	7
 xızmetlerden	onlayn	7
 támiyinlewden	ibarat	7
@@ -9856,6 +9908,7 @@ audiovizual	shıǵarmanıń	7
 audiovizual	shıǵarma	7
 shıǵarmalardı	yamasa	7
 yamasa	nusqaların	7
+huqıqlar	obektleriniń	7
 huqıqtıń	háreket	7
 nıshan	yamasa	7
 eger	bunday	7
@@ -9925,6 +9978,7 @@ satıp	alıw-satıw	6
 g'a'rezli	boladı	6
 aktsionerlik	ja'miyettin	6
 ko'plegen	adamlar	6
+ol	ju'da	6
 bazasınan	paydalanıw	6
 qubla	amerikada	6
 u'lkenligi	boyınsha	6
@@ -9969,6 +10023,7 @@ ha'm	a'debiyat	6
 dep	oyladı	6
 oylap	taptı	6
 menen	sheklenbeydi	6
+bir	adamnın	6
 da	a'hmiyetli	6
 ha'zirge	shekem	6
 jol	tabıw	6
@@ -10023,6 +10078,7 @@ tamam	boladı	6
 bul	shıg'arma	6
 qızıqlı	bolıp	6
 ol	jaqta	6
+ke	shekem	6
 evropa	ha'm	6
 boyınsha	xızmetler	6
 rawajlanıp	atır	6
@@ -10073,10 +10129,12 @@ qaytıp	keldi	6
 bastan	keshirdi	6
 dep	jazıp	6
 suw	astında	6
+ja'ne	onın	6
 huqıq	penen	6
 eki	bo'limnen	6
 da	basqa	6
 bolsa	eki	6
+bir	waqıttın	6
 ko'rinisi	ha'm	6
 sıpatında	qaraladı	6
 ju'zege	keledi	6
@@ -10131,6 +10189,7 @@ hesh	qaysı	6
 ha'm	az	6
 suwdın	duzlılıg'ı	6
 menen	jergilikli	6
+ushın	u'lken	6
 jol	ashıp	6
 jasında	qaytıs	6
 adam	g'ana	6
@@ -10157,6 +10216,7 @@ arqasında	jaylasqan	6
 qaramastan	ol	6
 ford	motor	6
 motor	company	6
+sebebi	olardın	6
 boyınsha	adam	6
 arqalı	adam	6
 pikirinshe	adam	6
@@ -10184,7 +10244,6 @@ bul	mektep	6
 bolıp	esaplanbaydı	6
 bir	bo'limin	6
 den-sawlıqtı	saqlaw	6
-bul	ju'da	6
 men	ko'p	6
 jerge	iyelik	6
 ilimiy	miynetler	6
@@ -10216,9 +10275,10 @@ sudinin	baslig'i	6
 pitkennen	keyin	6
 joqarg'i	ken'estin	6
 yamasa	tiyisli	6
-g'a	jaqın	6
 ayırım	tu'rleri	6
 dep	oylaymız	6
+rol	atqaradı	6
+en	jas	6
 taw	aldı	6
 ajıratıp	alıw	6
 o'tiw	kerek	6
@@ -10298,6 +10358,7 @@ belgilengen	waqıt	6
 saparı	dawam	6
 jumys	orny	6
 bolyp	qala	6
+jylg'a	qarai	6
 bu'kil	a'lem	6
 hám	kárxanalardıń	6
 basqarıw	organı	6
@@ -10335,7 +10396,6 @@ bul	ko	6
 medalı	menen	6
 rayon	ha	6
 z	gezeginde	6
-ay'dan	a'kiminin	6
 turg'yn	u'i'ler	6
 quqyq	buzy's	6
 boli'p	esaplanadi	6
@@ -10347,13 +10407,13 @@ qáwipsizlikti	hám	6
 jaslar	huqıqları	6
 dúzilgen	bolıp	6
 bery	ju'iesinin	6
+ja'ne	ka'sibi	6
 bilimi	men	6
 mug'alim	u'shin	6
 ju'zege	asyratyn	6
 dizimine	kirgizilgen	6
 m	ag	6
 orta	mektebi	6
-osyg'an	orai	6
 qoldany	arqyly	6
 daryndy	balalardy	6
 ko'ry'ge	bolady	6
@@ -10396,7 +10456,6 @@ sport	ministri	6
 sisteması	tiykarında	6
 studentleri	arasında	6
 rawajlandırıw	bólimi	6
-olimpiada	rezervleri	6
 baǵdarlar	boyınsha	6
 olimpiadaǵa	tayarlaw	6
 sport	jarısların	6
@@ -10406,6 +10465,7 @@ shuǵıllanıw	ushın	6
 kompleksli	ilajlar	6
 texnikası	hám	6
 awqamları	federaciyası	6
+hám	ádillik	6
 usı	pármannan	6
 pármannan	kelip	6
 haqqında	ózbekstan	6
@@ -10473,7 +10533,6 @@ ushın	imkaniyat	6
 rezervke	alıw	6
 ushın	qanday	6
 alıw	sisteması	6
-teńiz	betinen	6
 basshısı	shavkat	6
 tayar	ekenligin	6
 túrkiya	respublikası	6
@@ -10544,7 +10603,7 @@ sport	zalı	6
 qánigeleri	qatnastı	6
 keńnen	en	6
 óz	ónerlerin	6
-esletip	ótemiz	6
+kerek	boladi	6
 ten'iz	qa'ddinen	6
 paida	bolg'an	6
 man'yzdy	emes	6
@@ -10769,6 +10828,7 @@ sapalı	etip	6
 úlken	qurılıs	6
 atırǵan	ózgerisler	6
 ku'n	is'inde	6
+amandyq	g'abbasuly	6
 kelip	tur	6
 birins'i	orynbasary	6
 ha'm	o'simlik	6
@@ -10819,7 +10879,6 @@ siyasatı	boyınsha	6
 eń	awır	6
 jaǵdayda	da	6
 hám	global	6
-áhmiyetli	rol	6
 hám	sonday	6
 jaqsı	qońsıshılıq	6
 wazıypa	etip	6
@@ -10871,6 +10930,7 @@ hám	joybarlardı	6
 investiciyalıq	hám	6
 joybarlaw	hám	6
 hám	kommerciyalıq	6
+menen	kelisip	6
 investiciyalıq	joybarlar	6
 birgelikte	úsh	6
 muwapıq	ózgerisler	6
@@ -10886,6 +10946,7 @@ olarda	qabıl	6
 boyınsha	qadag	6
 ilajların	a	6
 a	qoyıw	6
+joybarların	tayarlaydı	6
 m	qadag	6
 rejelerin	islep	6
 tapsırmaları	menen	6
@@ -10913,6 +10974,7 @@ alaw	toparının	6
 menen	bo	6
 basqarıw	kadrları	6
 da	ilajlardı	6
+yaki	onın	6
 m	isbilermenlik	6
 wazıypalarına	muwapıq	6
 satıw	sawda	6
@@ -10948,10 +11010,12 @@ qamsızlandırıw	hádiyseleri	6
 túsindiriw	jumısların	6
 mindetter	ju'kteidi	6
 kásip	iyeleri	6
+bilim	aly	6
 jas	aralyg'ynda	6
 boly'y	mu'mkin	6
 bir	top	6
 bilim	bery'men	6
+jag'dai	jasay	6
 de	bolsa	6
 húkim	súrgen	6
 syni	oilay	6
@@ -10964,6 +11028,7 @@ bul	ájayıp	6
 menen	kórip	6
 ekige	bólinip	6
 keyin	bul	6
+mm	den	6
 jumıs	ornında	6
 menen	qanday	6
 bir-birinen	keskin	6
@@ -11007,7 +11072,6 @@ shıǵılǵan	máseleler	6
 juwap	bergen	6
 talap	etiwshi	6
 xızmet	kórsetetuǵın	6
-marttan	baslap	6
 tiykarında	usı	6
 belgilenetuǵın	tártipte	6
 tiyisli	ilajlar	6
@@ -11086,6 +11150,7 @@ miynet	etiwge	6
 de	tap	6
 waqıyalar	haqqında	6
 hám	jumıssız	6
+baslıǵı	e	6
 baslıǵı	p	6
 baǵdarlaması	hám	6
 da	usınday	6
@@ -11110,7 +11175,7 @@ halda	erkin	6
 hám	tastıyıqlaw	6
 toy	baslaw	6
 so'z	bar	6
-júdá	ańsat	6
+birinen	son	6
 awqamı	shólkemi	6
 awqamı	aǵzası	6
 sonnan	beri	6
@@ -11164,6 +11229,7 @@ usı	párman	6
 paydalanıw	tártibi	6
 elimizdiń	jámiyetlik-siyasiy	6
 xızmeti	tárepinen	6
+men	senin	6
 tek	sen	6
 m	de	6
 bir	ku	6
@@ -11258,6 +11324,7 @@ yamasa	tek	6
 yamasa	o	6
 parazitlik	qıladı	6
 rawajlanıw	da	6
+juwan	ishektin	6
 olar	o	6
 sırtqı	ortalıqqa	6
 ı	tu	6
@@ -11399,6 +11466,7 @@ tasıw	hám	6
 zamanagóy	usılların	6
 ótiwdi	támiyinlew	6
 jańa	texnologiyalar	6
+keyin	olardıń	6
 keńesi	apparatı	6
 ekonomika	tarmaqların	6
 toplaw	hám	6
@@ -11433,7 +11501,6 @@ qárejetleri	hám	6
 baǵdarları	belgilep	6
 mln	swm	6
 salıq	jugin	6
-salıq	tólewshilerge	6
 mikrofirma	hám	6
 haqıyqattan	da	6
 hám	qararları	6
@@ -11442,7 +11509,6 @@ islep	shıǵıwdıń	6
 alıwı	kerek	6
 jergilikli	byudjetler	6
 respublikamız	salıq	6
-salıqqa	tartıwdıń	6
 tiyisli	shólkemler	6
 wazıypalardan	biri	6
 hámme	zat	6
@@ -11502,6 +11568,7 @@ jaqınlasıp	kiyatırǵan	6
 ózleri	jasap	6
 orayı	úlketanıw	6
 kózi	ázzi	6
+m	biyiklikte	6
 al	onıń	6
 ekenligin	hám	6
 el	mámleketleri	6
@@ -11551,6 +11618,7 @@ sóz	etiledi	6
 organizmde	jıllılıqtın	6
 salıstırmalı	turaqlı	6
 et	tkanı	6
+zat	almasıwdın	6
 menen	bir-birinen	6
 uqıplılıg'ına	iye	6
 jas	balalarda	6
@@ -11584,6 +11652,7 @@ nerv	orayı	6
 xızmetti	atqaradı	6
 tiykarın	salıwshılardıń	6
 hayal-qızlar	ushın	6
+bolıp	esaplanǵan	6
 hám	ot	6
 óz	sáwleleniwin	6
 jaqsı	tilekler	6
@@ -11611,7 +11680,6 @@ kórkem	ónerine	6
 qánigelestirilgen	mektep	6
 sózleri	menen	6
 nashar	jınıs	6
-eń	belgili	6
 rawajlanıwına	úles	6
 bul	qalanın	6
 sezimi	menen	6
@@ -11883,7 +11951,6 @@ menen	támiyinlengenligi	6
 maǵlıwmatlarına	qaraǵanda	6
 tárbiyası	menen	6
 oqıwshılar	tárepinen	6
-menen	juwmaqlandı	6
 eń	úlkeni	6
 jaǵdaylar	máseleleri	6
 etilgen	hújjetlerdiń	6
@@ -11929,6 +11996,7 @@ muǵdarı	menen	6
 bul	kórsetkishler	6
 teoriyası	hám	6
 hám	investiciya	6
+ósiw	tempi	6
 milliy	ónim	6
 xalqınıń	jasaw	6
 tayarlawdıń	milliy	6
@@ -11946,6 +12014,7 @@ izertlewler	hám	6
 sistemasın	jánede	6
 jámááti	atınan	6
 yaǵnıy	bul	6
+yadqa	iye	6
 ótkezgishlikke	iye	6
 bolǵan	eki	6
 kórinip	turıptı	6
@@ -12005,12 +12074,12 @@ dúnyadaǵı	birinshi	6
 boyınsha	dáslepki	6
 ornatıw	hám	6
 mámleketler	tárepinen	6
+kemeytiw	ushın	6
 mashqala	bolıp	6
 qollanılıp	atır	6
 hám	ádebiy	6
 kurs	student	6
 paydalanıw	múmkinshiligi	6
-qatnasıwshılar	ózlerin	6
 sanaat	ónimleri	6
 referendum	ótkeriwshi	6
 baslıǵı	bolıp	6
@@ -12047,6 +12116,7 @@ alǵan	teoriyalıq	6
 respublikası	xalqın	6
 xalqın	sociallıq	6
 sheklengen	hám	6
+hám	keyingi	6
 túsken	múrájatlar	6
 sheshiw	ilajların	6
 bolmaǵan	halda	6
@@ -12095,6 +12165,7 @@ tiykarǵı	bólimleri	6
 britaniya	menen	6
 jazǵan	edi	6
 ushın	waqıt	6
+jome	meshiti	6
 ushın	oǵan	6
 isley	basladı	6
 mámleketler	arasında	6
@@ -12178,6 +12249,7 @@ saltanatlı	jaǵdayda	6
 sol	orınnıń	6
 jańa	joybarlardı	6
 olardı	qıynap	6
+iran	tilindegi	6
 xalqınıń	ata-babaları	6
 túrki	tilles	6
 kelip	shıǵıwınıń	6
@@ -12302,6 +12374,7 @@ m	massalı	6
 bul	joqarı	6
 barılǵan	jumıslar	6
 jańa	bet	6
+bolmawi	kerek	6
 shomanay	rayon	6
 respublikası	shańaraq	6
 oq	jaydan	6
@@ -12327,6 +12400,7 @@ erkin	paydalanıw	6
 oq	atar	6
 menen	jámiyettiń	6
 akcionerlerdiń	ulıwma	6
+boyınsha	qońırat	6
 abadanlastırıw	basqarması	6
 kóshpeli	tártipte	6
 huqıqbuzarlıq	haqqındaǵı	6
@@ -12418,7 +12492,6 @@ qanday	tárizde	6
 shártnamada	basqasha	6
 huqıqları	tómendegi	6
 beriw	huqıqın	6
-jiberiw	huqıqı	6
 paydalanıwdıń	hár	6
 yamasa	audiovizual	6
 sáykes	kólemde	6
@@ -12470,6 +12543,7 @@ en	uzın	5
 huqıqıy	da'rejesi	5
 sırt	ellik	5
 bunda	tek	5
+bolıp	olardın	5
 bul	zonada	5
 ta'miyinlew	ushın	5
 orta	ha'm	5
@@ -12489,7 +12563,6 @@ boyınsha	du'nyada	5
 ju'z	berip	5
 ha'm	tiyisli	5
 basshılıq	qılıw	5
-al	onın	5
 aldı	ha'm	5
 bolıp	o'tti	5
 menen	oynap	5
@@ -12525,7 +12598,6 @@ usı	huqıq	5
 ha'reket	etken	5
 bir	bo'legin	5
 ha'm	ja'miyetlik	5
-ju'da	u'lken	5
 ko'p	jıllar	5
 ma'jbu'r	bolg'an	5
 mag'lıwmatlar	bazasın	5
@@ -12535,7 +12607,6 @@ onın	shıg'armaları	5
 bir	ma'mleket	5
 olar	ha'r	5
 grammatikalıq	jaqtan	5
-birinshi	usılda	5
 milliy	o'nim	5
 ulıwma	ekonomikalıq	5
 tiykarlap	beriw	5
@@ -12582,6 +12653,7 @@ bir	pul	5
 etedi	dep	5
 pikirge	keledi	5
 so'z	sheberi	5
+ju'da	a'hmiyetli	5
 eristi	ha'm	5
 mu'mkin	degen	5
 rol	oynag'an	5
@@ -12668,6 +12740,7 @@ ilimiy	ha'm	5
 mın	bir	5
 son'ın	ala	5
 boyınsha	bul	5
+bir	mın	5
 ertek	aytıp	5
 sebebi	ha'r	5
 kitaptan	ibarat	5
@@ -12706,7 +12779,6 @@ onnan	joqarı	5
 usılı	boyınsha	5
 ha'm	a'piwayı	5
 olar	belgili	5
-den	aslamı	5
 da'wir	ishinde	5
 esapqa	alg'an	5
 qurg'aqlıq	boyı	5
@@ -12722,6 +12794,7 @@ guwası	boldı	5
 endi	g'ana	5
 aytıp	ketken	5
 degen	so'zler	5
+menen	ten	5
 bunın	en	5
 orayları	menen	5
 studenti	a	5
@@ -12750,6 +12823,7 @@ bul	onı	5
 altı	ay	5
 dep	jazdı	5
 atama	menen	5
+ol	en	5
 basqa	jerlerge	5
 ha'r	jili	5
 subektleri	arasında	5
@@ -12833,7 +12907,6 @@ shıg'ıs	tu'rkistanda	5
 birinshi	yarımında	5
 joq	etildi	5
 milliy	azatlıq	5
-joq	etiliwi	5
 etiliwi	menen	5
 ushın	orta	5
 orta	a'sirlerde	5
@@ -12992,11 +13065,13 @@ komitetleri	ha'm	5
 ha'm	komissiyalarinin	5
 jumis	ta'rtibi	5
 dawis	beriw	5
+oliy	majlisinin	5
 a'melge	asiradi	5
 ishinde	qaraqalpaqstan	5
 tiyisli	sheshimler	5
 respublikasi	prezidenti	5
 belgilengen	basqa	5
+a	jaqın	5
 baylanıslı	bolmay	5
 tok	ku'shi	5
 jaqın	adam	5
@@ -13081,7 +13156,6 @@ ko'p	jıllıq	5
 tuwrı	kelmeydi	5
 dus	keledi	5
 bolıwı	za'ru'r	5
-c	tan	5
 artıq	bolsa	5
 birinshi	jılı	5
 ju'da	ha'r	5
@@ -13112,6 +13186,7 @@ jay'ap	bere	5
 ku'n	sai'yn	5
 adam	ata	5
 en	birins'i	5
+en	u'lkeni	5
 en	aqırında	5
 jerge	barıp	5
 qosıq	aytıp	5
@@ -13153,11 +13228,13 @@ ag'arty's	y	5
 el	is'inde	5
 qazaq	elinin	5
 qazaq	ay'ylynyn	5
+degen	oi	5
 ol	qaraqalpaq	5
 so'zi	bar	5
 bar	ha'm	5
 ag'yls'yn	tili	5
 osy	rette	5
+ja'ne	ma'deni	5
 toppen	jumys	5
 oqy's	y	5
 a'n	men	5
@@ -13189,6 +13266,7 @@ rawajlanıwın	támiyinlew	5
 bazasın	keńeytiw	5
 sıyaqlı	máseleler	5
 synyp	mug'alimi	5
+tuwri	keledi	5
 qıyın	bolıp	5
 bul	qollanba	5
 ayırım	tu	5
@@ -13198,6 +13276,7 @@ bir	ul	5
 m	bir	5
 ishki	janıw	5
 tu'rine	qarap	5
+ay'dan	a'kiminin	5
 joqarı	basım	5
 mirziyoev	hám	5
 islesiwdi	bunnan	5
@@ -13275,6 +13354,7 @@ arasında	ótkeriletuǵın	5
 tiyisli	túrde	5
 baslıǵı	menen	5
 májbúriy	túrde	5
+olimpiada	rezervleri	5
 saylandı	komandalar	5
 tayarlaw	orayı	5
 birgelikte	bul	5
@@ -13290,7 +13370,6 @@ boyınsha	imtixan	5
 alıw	sistemasın	5
 qamtıp	alǵan	5
 halda	olardıń	5
-bilimlendiriw	sisteması	5
 uyımları	jáne	5
 sport	klubı	5
 prezidentiniń	mámleketlik	5
@@ -13379,8 +13458,10 @@ ol	birneshe	5
 oqy'shylar	berilgen	5
 ettiriw	ushın	5
 jasyna	deiingi	5
+teńiz	betinen	5
 suw	bolıp	5
 jıllıq	temperatura	5
+c	qa	5
 qısı	suwıq	5
 arab	ámirlikleri	5
 hám	birlesken	5
@@ -13485,6 +13566,7 @@ tórtkúl	rayonı	5
 jollamanı	qolǵa	5
 hám	diplom	5
 i'z	mu'mkin	5
+qa	ten	5
 basqa	jerlerde	5
 boli'wi	kerek	5
 jewshi	o'simliktin	5
@@ -13516,6 +13598,7 @@ do'n	gelekli	5
 puw	mashinası	5
 jılda	aqsh	5
 menen	parıqlanadı	5
+jumys	istei	5
 islep	shi'g'ari'w	5
 menen	shug	5
 ın	keselliklerdi	5
@@ -13574,7 +13657,6 @@ maǵlıwmatlarǵa	qaraǵanda	5
 da	beter	5
 oqıp	atırman	5
 kitaplardı	oqıp	5
-kerek	hám	5
 berilgen	sorawlarǵa	5
 jergilikti	poli'si'a	5
 gay'har	ana	5
@@ -13647,7 +13729,6 @@ oǵan	hár	5
 rayon	orayına	5
 er	adamlardıń	5
 jıldıń	oktyabr	5
-termiz	qalasındaǵı	5
 penen	ushırasıw	5
 mart	xalıqaralıq	5
 jolı	hám	5
@@ -13761,7 +13842,6 @@ azi'a	ky'boginde	5
 fevral	kúngi	5
 isbilermenlikke	kómeklesiw	5
 joybarlar	islep	5
-huqıqıy	másláhátler	5
 el	kompaniyaları	5
 etiw	imkaniyatın	5
 bir	fizikalıq	5
@@ -14227,6 +14307,7 @@ o'z	pikirin	5
 teoriyalıq	ha	5
 a'ley'mettik	qorg'ay	5
 boy	tikledi	5
+ten	aslam	5
 bir	jasqa	5
 qolai'ly	jag'dai	5
 qaraqalpaq	ma'mleketlik	5
@@ -14356,7 +14437,6 @@ belgileydi	hám	5
 tiykarǵı	áhmiyet	5
 wazıypaların	orınlawda	5
 pedagogika	institutı	5
-men	senin	5
 da	a	5
 tek	seni	5
 ja'ne	osy	5
@@ -14514,14 +14594,13 @@ tısqarı	barlıq	5
 basqa	túrleri	5
 usılına	qaray	5
 degendi	an	5
+sırtqı	ortalıqtın	5
 jolların	u	5
 menen	gu	5
 qarsı	ilajlardı	5
 iske	asırıladı	5
-juwan	ishektin	5
 haqqında	tiyisli	5
 menen	baylanısadı	5
-yir	shıbınlar	5
 n	o	5
 zege	keledi	5
 depte	ataydı	5
@@ -14597,7 +14676,6 @@ halda	ómirde	5
 jaqsı	menen	5
 jazıw	kónlikpelerin	5
 vodorod	hám	5
-terek	hám	5
 sorawlar	berip	5
 halda	búgingi	5
 su't	emiziwshilerden	5
@@ -14614,6 +14692,7 @@ osip	baratırgan	5
 kletka	aralık	5
 xızmetin	atkaradı	5
 ulkeyiui	menen	5
+nerv	kletkalarının	5
 haywan	hám	5
 ketken	edi	5
 barlıq	mektepke	5
@@ -14631,7 +14710,6 @@ rus	hám	5
 qońsılas	qazaqstan	5
 túrli	millet	5
 ke	jetti	5
-jámiyet	tárepinen	5
 aldaǵı	wazıypalar	5
 kásip-ónerge	oqıtıw	5
 tarawlarında	da	5
@@ -14747,12 +14825,14 @@ salıw	sisteması	5
 parq	bar	5
 birden-bir	sociallıq	5
 salıǵı	stavkası	5
+salıq	tólewshilerge	5
 ózbetinshe	salıq	5
 xizmet	etiwi	5
 tiykarlanǵan	bolıwı	5
 shıǵıw	arqalı	5
 reformalardıń	nátiyjesi	5
 retinde	tán	5
+salıqqa	tartıwdıń	5
 da	ámeldegi	5
 ilimiy	tiykarlanǵan	5
 kelip	bul	5
@@ -14930,7 +15010,6 @@ miynet	quralları	5
 jokarı	nerv	5
 bul	xızmeti	5
 su't	kislotası	5
-mineral	duzlar	5
 organikalıq	birikpeler	5
 fiziologiyalıq	norma	5
 zatlar	quramında	5
@@ -15150,6 +15229,7 @@ qubılıs	sıpatında	5
 biliw	boyınsha	5
 sol	waqıtlardaǵı	5
 ayırmashılıǵı	sonda	5
+eń	belgili	5
 aqıl	hám	5
 ideyalar	dúnyası	5
 iye	bolmaydı	5
@@ -15360,6 +15440,7 @@ anıqlandı	hám	5
 jańa	tariyxı	5
 jumıslar	sistemasın	5
 sociallıq-ekonomikalıq	rawajlanıw	5
+iyul	kúnleri	5
 dárejede	ótkeriw	5
 erkinliklerin	támiyinlew	5
 hám	tájiriybesi	5
@@ -15406,7 +15487,6 @@ penen	juwap	5
 iskerligi	tuwrısında	5
 jańa	imaratınıń	5
 miynet	etpekte	5
-aldına	janr	5
 kúni	nawayı	5
 jergilikli	islep	5
 elektr	stanciyası	5
@@ -15474,6 +15554,7 @@ oqıwshılar	hám	5
 jıldıń	sáykes	5
 sáykes	dáwirine	5
 hár	kúngi	5
+menen	juwmaqlandı	5
 qábiletine	iye	5
 olardıń	eń	5
 jazıp	qaldırǵan	5
@@ -15504,6 +15585,7 @@ respublikasına	saparı	5
 saylaw	aldı	5
 tarmaqların	qurıw	5
 hám	tastıyıqlaydı	5
+hám	o	5
 usınısına	muwapıq	5
 boyınsha	isshi	5
 hám	ilimpazlar	5
@@ -15573,13 +15655,13 @@ suwretde	keltirilgen	5
 tálim	fakultetinde	5
 hám	oqıwshıları	5
 bayram	qatnasıwshıların	5
-úlesin	qosqan	5
 nerv	sistemasınıń	5
 dúnya	kóleminde	5
 basıp	shıǵarılǵan	5
 milliy	ideya	5
 xatkeriyatga	taluqli	5
 hám	hújjetlerdi	5
+mashqalalardi	sheshiw	5
 qánigelerdiń	kásiplik	5
 futbol	túri	5
 jarıs	juwmaǵına	5
@@ -15657,6 +15739,7 @@ tárepinen	jazılǵan	5
 biliw	múmkin	5
 sol	dáwir	5
 qoyıldı	hám	5
+qatnasıwshılar	ózlerin	5
 shıǵarılǵan	bolıp	5
 arnawlı	ajıratılǵan	5
 ózbekstan	kóshesi	5
@@ -15792,7 +15875,6 @@ dúnyadan	ótti	5
 interfeyske	iye	5
 túrine	kóre	5
 iyuldan	baslap	5
-jome	meshiti	5
 germaniya	federativ	5
 jol	qoyılıp	5
 eń	tómen	5
@@ -15803,7 +15885,6 @@ túri	ámeldegi	5
 zárúrli	bólegi	5
 iskerlik	alıp	5
 stator	hám	5
-jılǵa	deyin	5
 alıp	ketiw	5
 suwıq	hawa	5
 suwretde	kórsetilgen	5
@@ -15854,6 +15935,7 @@ odan	kóp	5
 sanı	qansha	5
 kóbirek	jaylasqan	5
 kiyim	islep	5
+ta	lim	5
 hám	quralları	5
 ámelge	asırilatuǵın	5
 hám	tekseriw	5
@@ -16276,6 +16358,7 @@ keminde	bes	5
 ólshew	ushın	5
 baylanıs	kanalı	5
 taslap	jiberedi	5
+g'a	jaqın	5
 ag'arty's	ynyn	5
 arman	a's	5
 m	tolady	5
@@ -16411,6 +16494,7 @@ háreketlerdi	ámelge	5
 bunday	háreketlerge	5
 háreketlerge	ruxsat	5
 nusqaların	prokatqa	5
+jiberiw	huqıqı	5
 efirge	uzatıw	5
 fonogrammanı	tayarlawshıǵa	5
 bolǵan	menshik	5
@@ -16429,7 +16513,6 @@ huqıqın	ózgeshe	5
 ámelge	asırılǵanda	5
 iyeleriniń	atınan	5
 statyası	birinshi	5
-shıǵarmalardıń	hám	5
 texnikalıq	quralları	5
 komiteti	baslıǵıǵa	5
 bir	bólimin	5
@@ -16525,7 +16608,6 @@ rawajlandırıwdı	xoshametlew	4
 bir	eldegi	4
 el	kapitalın	4
 ha'm	funktsionallıq	4
-bul	zonalar	4
 eksport	qılıw	4
 atqara	almaydı	4
 al	ekonomikalıq	4
@@ -16565,7 +16647,6 @@ xojalıq	ha'm	4
 jer	ju'zilik	4
 payda	bolg'annan	4
 keyin	belgili	4
-en	birinshi	4
 bolg'an	qan	4
 toplamınan	ibarat	4
 qa'siyetlerge	iye	4
@@ -16613,6 +16694,8 @@ boyınsha	du'nyanın	4
 tu'rleri	de	4
 bul	olardın	4
 tuwra	keletug'ın	4
+birinshi	usılda	4
+og'ada	jaqın	4
 alıp	atırg'an	4
 ekonomikalıq	o'siwge	4
 usıldan	paydalanıw	4
@@ -16626,6 +16709,7 @@ o'z	ornın	4
 bosatıp	berdi	4
 tiykarg'ı	maqseti	4
 ha'm	xalıqtın	4
+en	a'xmiyetli	4
 ol	materiallıq	4
 waqıtta	birinshi	4
 bilim	da'rejesi	4
@@ -16731,7 +16815,6 @@ to'rt	jıl	4
 sıpatında	belgilenedi	4
 jasınan	baslap-aq	4
 bolg'anı	ushında	4
-sonın	ushında	4
 jasar	bala	4
 ushın	g'ana	4
 ol	tap	4
@@ -16771,6 +16854,7 @@ arasındag'ı	baylanıs	4
 jıl	boyı	4
 jaqsı	ko'rip	4
 jumısqa	kiredi	4
+dep	onın	4
 qosıq	aytqan	4
 biraq	urıs	4
 kesent	etedi	4
@@ -16807,8 +16891,8 @@ qara	so'z	4
 benen	de	4
 menen	hesh	4
 c	tilinde	4
+egin	ha'm	4
 bir	bay	4
-ju'da	ko'p	4
 bir	hikayatta	4
 bul	qanday	4
 en	jaqsısı	4
@@ -16827,7 +16911,6 @@ tan	artıq	4
 bul	ma'seleni	4
 sonday	bir	4
 bir	ha'pte	4
-bir	mın	4
 bul	aralıqta	4
 tarqalıp	ketken	4
 a'dewir	jaqın	4
@@ -16899,10 +16982,12 @@ ha'm	qaraqalpaq	4
 orında	yamasa	4
 baslap	eki	4
 pul	menen	4
+kommertsiyalıq	banklerdin	4
 jag'dayları	menen	4
 haqqında	xalıq	4
 ko'rsetilgen	bolıwı	4
 belgilengen	bolıwı	4
+sonday-aq	onın	4
 shaxs	yamasa	4
 to'lem	mu'ddeti	4
 altı	aydan	4
@@ -16914,8 +16999,6 @@ sha'rtli	tu'rde	4
 gretsiyada	olimpiada	4
 bayramı	sıpatında	4
 juwırıp	barıp	4
-aralıqqa	juwırıw	4
-juwırıw	boyınsha	4
 dep	belgilenedi	4
 neshe	ese	4
 tonnadan	artıq	4
@@ -16946,6 +17029,7 @@ ol	keyingi	4
 bul	og'an	4
 keldi	ha'm	4
 da	adam	4
+biraq	onin	4
 juwmaq	shıg'arıw	4
 david	humenin	4
 kitaplar	alıp	4
@@ -16984,7 +17068,6 @@ xalifa	usman	4
 amir	temur	4
 a'sirler	dawamında	4
 islam	dininin	4
-bir	okean	4
 menen	tutas	4
 uqsas	formada	4
 olar	anıq	4
@@ -17081,6 +17164,7 @@ sawda	orayları	4
 menen	tolı	4
 sawda	baylanısların	4
 onın	u'stine	4
+joq	etiliwi	4
 jılı	qıtay	4
 etken	bolsa	4
 ta'repinen	du'zilgen	4
@@ -17128,6 +17212,7 @@ bir-birinen	parıq	4
 parıq	qıladı	4
 og'ada	u'lken	4
 dep	ayta	4
+jeti	ıqlım	4
 tiykarında	bahalaw	4
 ıshqı	muxabbat	4
 patshalar	obrazı	4
@@ -17162,6 +17247,7 @@ ertekleri	menen	4
 bir	taza	4
 sonnan	baslap	4
 bul	hesh	4
+hesh	kimnin	4
 biraq	hesh	4
 on	ekinshi	4
 jıllardan	keyin	4
@@ -17175,6 +17261,7 @@ ko'pshilik	bo'limi	4
 model	t	4
 dep	oyladi	4
 boliwina	qaramastan	4
+de	ken	4
 eki	birdey	4
 bolg'anlıg'ı	sebepli	4
 de	bunday	4
@@ -17210,16 +17297,17 @@ xalıqaralıq	ten'iz	4
 eki	tuwısqan	4
 tuwısqan	xalıqlar	4
 keltiriw	qıyın	4
+kaspiy	ten'izinin	4
 kitap	jazıp	4
 bolg'an	bul	4
 a'hmiyetli	ma'seleleri	4
 saqlanıwı	kerek	4
+aytqan	so'zin	4
 ushın	miynet	4
 adam	balası	4
 ushın	hesh	4
 ushırasıp	turadı	4
 so'z	etiwshi	4
-qanday	xalıq	4
 xalıq	tariyxı	4
 neshe	urıw	4
 birikpesinen	kelip	4
@@ -17244,6 +17332,7 @@ jaqsı	ta'sir	4
 tilin	jaqsı	4
 islep	atırg'an	4
 ushın	qıyın	4
+onın	baslı	4
 bir	dara	4
 bul	jerdin	4
 ulıwma	atı	4
@@ -17347,7 +17436,6 @@ rawajlanıw	barısında	4
 sho'l	ha'm	4
 jaz	ha'm	4
 de	mu'mkin	4
-v	klass	4
 aynası	payda	4
 o'tiw	ushın	4
 jerde	bul	4
@@ -17358,7 +17446,6 @@ olarg'a	suw	4
 jeterlikshe	islew	4
 ha'm	ja'ne	4
 ha'pteden	keyin	4
-egiw	kerek	4
 o'siwi	menen	4
 o'stiriw	ushın	4
 kg	g'a	4
@@ -17369,7 +17456,6 @@ orayına	aylanadı	4
 paytaxtı	bolıp	4
 bakalavr	ha'm	4
 filial	professor	4
-pitkeriw	keshesi	4
 da	belsendi	4
 olar	arasınan	4
 fakulteti	studentleri	4
@@ -17475,6 +17561,7 @@ menen	awqatlanıwshı	4
 tut	jipek	4
 jipek	qurtı	4
 ol	ha'm	4
+ishine	aladi	4
 u'lken	zıyan	4
 zbekistan	ha	4
 qatnasıqların	izbe-iz	4
@@ -17508,6 +17595,7 @@ putalar	ha'm	4
 artocarpus	odoratissimus	4
 shıg'ıwg'a	iye	4
 qalıp	ketken	4
+c	tan	4
 tu'rk	qag'anlig'i	4
 birotala	joq	4
 ushın	jaramlı	4
@@ -17549,12 +17637,14 @@ dey'ge	bolady	4
 alg'a	qarap	4
 mu'mkindik	berip	4
 elimiz	aman	4
+i	y	4
 pervogo	ty'ra	4
 sizge	qazaqstan	4
 qazaqstan	ustazdarynyn	4
 ustazdarynyn	qataryna	4
 qataryna	qosqanynyz	4
 sizder	arqyly	4
+s	vami	4
 en	bastysy	4
 ol	ty'raly	4
 arqyly	oqy's	4
@@ -17590,7 +17680,6 @@ bul	u's	4
 arqyly	jaryqtandyry	4
 tan'da	balamaly	4
 jer	asty	4
-a'ri	qarai	4
 sonyn	saldarynan	4
 qalpyna	keltiretin	4
 qaraqalpaqstan	r	4
@@ -17638,6 +17727,7 @@ erkin	bily	4
 al	osy	4
 aldynda	turg'an	4
 man'yzy	o'te	4
+mundai	jumystar	4
 jumystar	arqyly	4
 jumys	istei'di	4
 bul	tu'ri	4
@@ -17683,6 +17773,7 @@ olar	mayda	4
 pshilik	jag	4
 awqam	i̇limler	4
 i̇limler	akademiyası	4
+i̇limler	akademiyasının	4
 atqarıp	kelmekte	4
 bul	a	4
 salasyn	si'frlandyry	4
@@ -17717,6 +17808,7 @@ túskennen	keyin	4
 ornı	jaratıladı	4
 elderdin	qataryna	4
 ka'sibi	biliktiligin	4
+adamnyn	o'z	4
 ty'a	bitken	4
 oqy'shylardyn	shyg'armashylyq	4
 jalpy	adamzattyq	4
@@ -17731,6 +17823,7 @@ na'tijelerge	qol	4
 birinshi	kezekte	4
 onyn	damy	4
 barlyg'y	da	4
+sai	boly'y	4
 a	bag	4
 internet	tarmag	4
 zbekistan	xalıqlarının	4
@@ -17843,8 +17936,10 @@ qazaqstandyq	patri'oti'zmnin	4
 patri'oti'zmnin	jan'as'a	4
 jan'as'a	ustanymdaryn	4
 dini	basqarmasynyn	4
+ja'ne	ry'hani	4
 ai'typ	berdi	4
 qarag'andy	oblysynyn	4
+in	en	4
 ekenin	jetkizdi	4
 tikelei	bai'lanysty	4
 bul	orai'da	4
@@ -18101,6 +18196,7 @@ ese	kishi	4
 olar	bir-birinen	4
 torallyi	menen	4
 en	kishi	4
+bazi	bir	4
 menen	qalay	4
 juwmaqlawshı	basqıshı	4
 atırǵan	bolıp	4
@@ -18138,6 +18234,7 @@ aldag'ı	y'aqıtta	4
 qazaq	balalar	4
 negizgi	arqay'y	4
 ultynyn	uly	4
+qataryna	qosy	4
 uly	ag'arty'shynyn	4
 biri	bolyp	4
 altynsarinnyn	psihologiialyq	4
@@ -18158,6 +18255,7 @@ janıw	dvigateli	4
 tartıw	ku'shi	4
 u'lken	boladı	4
 habardar	bolyp	4
+talaptaryna	sai	4
 jumys	tu'rleri	4
 a'rbir	oqy'shynyn	4
 yarım	avtomatik	4
@@ -18176,6 +18274,7 @@ bilimdi	urpaq	4
 beibitshilik	pen	4
 belgisi	retinde	4
 mu'mkindik	berdi	4
+jasai	otyryp	4
 dollar	qarjı	4
 ekenin	ay	4
 o'tken	ey'ropa	4
@@ -18254,6 +18353,7 @@ jasyryn	emes	4
 sebebi	men	4
 qaratıwımız	kerek	4
 alıp	oqıp	4
+kerek	hám	4
 bolǵan	qızıǵıwshılıǵı	4
 say'da	jasap	4
 ten'ge	ko'leminde	4
@@ -18365,6 +18465,7 @@ aradan	biraz	4
 biraz	waqıt	4
 úyrenip	atırǵan	4
 elektr	togi	4
+termiz	qalasındaǵı	4
 úlken	áwlad	4
 sóz	etti	4
 bul	sorawdı	4
@@ -18392,6 +18493,7 @@ akademiyalıq	liceyiniń	4
 qánigelestirilgen	ulıwma	4
 hám	telefon	4
 jaqsı	maqala	4
+qol	tańba	4
 maqala	jazǵan	4
 lar	hám	4
 jaqın	dos	4
@@ -18578,6 +18680,7 @@ rkem	a	4
 kómeklesiw	orayları	4
 basqarma	tárepinen	4
 bank	kreditleri	4
+huqıqıy	másláhátler	4
 beriw	sıyaqlı	4
 rasul	zarikeev	4
 birgelikte	shólkemlestirilgen	4
@@ -18823,6 +18926,8 @@ sol	sebepten	4
 bag'yttarynyn	biri	4
 arttyry	maqsatynda	4
 menen	basqarıladı	4
+adamnın	jeke	4
+ushın	gu'resken	4
 vvedenie	v	4
 joqarı	qosımsha	4
 júk	tasıw	4
@@ -18969,6 +19074,7 @@ majlisi	palatalarının	4
 qararlarına	ha	4
 kirgizilgen	usınıslar	4
 boyınsha	awıl	4
+da	teren	4
 melge	asırıwdı	4
 rawajlandırıw	jumısların	4
 a	ug	4
@@ -19155,6 +19261,7 @@ onı	joqarı	4
 uslap	turadı	4
 qattı	ag'ash	4
 menen	toltırıw	4
+ge	ten	4
 basqa	jumıslar	4
 xabar	beriwi	4
 bir	jumısshı	4
@@ -19201,6 +19308,7 @@ jáne	óz-ara	4
 keńnen	tanıstırıw	4
 tanıstırıw	maqsetinde	4
 túrde	úyreniw	4
+avgust	sánesinde	4
 ádebiy	kesheler	4
 sáwlelendiriw	usınıs	4
 nda	ámelge	4
@@ -19276,7 +19384,6 @@ barıwdan	ibarat	4
 miynet	etetuǵın	4
 boyınsha	ha	4
 ı	u	4
-a	jaqın	4
 biz	joqarıda	4
 ol	hesh	4
 bunın	menen	4
@@ -19432,6 +19539,7 @@ asyry	u's	4
 tez	waqıt	4
 uqsas	bolg'an	4
 ko'z	aldına	4
+olardın	payda	4
 basım	bolıp	4
 mádeniyat	orayı	4
 onın	shayırlıq	4
@@ -19510,10 +19618,10 @@ tarawların	rawajlandırıw	4
 muzıka	menen	4
 ko'rkem	a'debiyat	4
 ushın	pul	4
+júdá	ańsat	4
 arza	menen	4
 bir	tarmaq	4
 biypul	huqıqıy	4
-sud	hám	4
 kásiplik	awqamlarınıń	4
 saylaw	hám	4
 joqarı	kásiplik	4
@@ -19915,6 +20023,7 @@ p	yadrolı	4
 morfologiyalıq	jaqtan	4
 ın	miksosporidiyalar	4
 et	jipsheleri	4
+bolıp	onın	4
 baslama	beredi	4
 bir	ana	4
 a	sebepshi	4
@@ -20087,6 +20196,7 @@ hám	geliy	4
 túrli	reńli	4
 hám	nurlanıw	4
 payda	etiledi	4
+terek	hám	4
 qayta	sorawlar	4
 qosımsha	tapsırma	4
 soń	boslıqlardı	4
@@ -20103,6 +20213,7 @@ sıpatlama	berin	4
 tirishilik	etiwshi	4
 qıylı	ha'm	4
 jerlerde	jasawshı	4
+olardın	tirishilik	4
 bolıp	ketiw	4
 barıw	kerek	4
 adam	organizimnin	4
@@ -20118,6 +20229,7 @@ sırtkı	ortalık	4
 tan	bolgan	4
 jatır	ishindegi	4
 jana	tuuılgan	4
+balalardın	jas	4
 jas	ospirimlerdin	4
 jas	ozgeshelikleri	4
 den	saulıktı	4
@@ -20165,6 +20277,7 @@ qarsı	shıqqan	4
 millet	wákilleri	4
 biri	esaplanıp	4
 qazaqstan	respublikasınıń	4
+jámiyet	tárepinen	4
 xalqınıń	turmısı	4
 jámiyeti	tárepinen	4
 bántligin	támiyinlewge	4
@@ -20362,7 +20475,6 @@ kitap	alıp	4
 puxaralar	jıyını	4
 onlayn	ádebiy	4
 kafedrası	oqıtıwshısı	4
-mektep	kitapxanashıları	4
 puqaralıq	jámiyetti	4
 paydalanıwshı	hám	4
 tásir	kórsetiw	4
@@ -20421,7 +20533,6 @@ teń	bolıwı	4
 salıstırǵanda	kóbirek	4
 dúzilisi	menen	4
 munasábette	bolıw	4
-ekonomikalıq	jáne	4
 etip	belgilep	4
 shıǵarıwı	múmkin	4
 ámeldegi	bolıwı	4
@@ -20675,6 +20786,7 @@ san	sheshimine	4
 sanitariya	hám	4
 hám	qaǵıydaları	4
 trubaları	hám	4
+hám	neft	4
 munasábeti	menen	4
 jaǵdaylar	hám	4
 kóbeyip	barmaqta	4
@@ -20718,9 +20830,9 @@ biliwge	boladı	4
 o'tetug'ın	barlıq	4
 adamlar	organizminde	4
 almasıw	protsessinde	4
+mineral	duzlar	4
 organizm	tirishiligi	4
 organizmnen	sırtqa	4
-depo	xızmetin	4
 kislotası	ha'm	4
 qang'a	sorıladı	4
 de	qosımsha	4
@@ -20729,7 +20841,6 @@ faktorlar	ta'sir	4
 jan'a	tuwılg'an	4
 kishi	boladı	4
 energiya	jumsaw	4
-duzlar	ha'm	4
 tu'sken	awqatlıq	4
 alınatug'ın	awqatlıq	4
 awqatlıq	zatlarg'a	4
@@ -20831,6 +20942,7 @@ ketiwi	yamasa	4
 jas	kelinshekler	4
 jası	úlkenler	4
 tez	sharshaw	4
+bul	protsesstin	4
 qansha	tez	4
 ha'm	waqıttın	4
 menen	ko'rinedi	4
@@ -20949,6 +21061,7 @@ ekinshi	jınıs	4
 ha'm	jınısıy	4
 jumıs	islewshi	4
 er	ha'm	4
+ha'm	olardan	4
 bolsa	joqarıda	4
 aralıq	suyıqlıg'ı	4
 bul	suyıqlıq	4
@@ -21261,7 +21374,6 @@ majlis	senatınıń	4
 aymaǵın	rawajlandırıw	4
 muwapıq	hár	4
 bir	qala	4
-salıǵınan	azat	4
 májiliste	qaraqalpaqstan	4
 ornı	jaratıldı	4
 sherek	juwmaǵı	4
@@ -21300,7 +21412,6 @@ muǵdarın	belgilew	4
 da	ilajlar	4
 beriwshi	hám	4
 jumıstan	azat	4
-járdemi	arqalı	4
 kásipke	baylanıslı	4
 uyımlarınıń	xalıqtı	4
 miynet	bazarın	4
@@ -21409,6 +21520,7 @@ olardıń	ulıwma	4
 alıwǵa	baylanıslı	4
 alıwdı	shólkemlestiriw	4
 yamasa	óz	4
+bilimlendiriw	sisteması	4
 balalardı	oqıtıw	4
 jaqtan	rawajlandırıwǵa	4
 tárbiya	haqqında	4
@@ -21569,7 +21681,6 @@ siyasat	júrgiziw	4
 ekenin	kórsetedi	4
 saylandı	hám	4
 rol	atqarmaqta	4
-iyul	kúnleri	4
 ǵana	bul	4
 oraylıq	aziyanı	4
 menen	baylanıstıratuǵın	4
@@ -21635,6 +21746,7 @@ etip	baradı	4
 ku'n	qayda	4
 veterinariya	hám	4
 hám	sharwashılıqtı	4
+aldına	janr	4
 seminarda	ózbekstan	4
 nawayı	wálayatında	4
 kóp	energiya	4
@@ -21846,7 +21958,6 @@ kirgiziw	yamasa	4
 sport	túrinen	4
 ol	ótken	4
 nátiyjelerin	járiyalaw	4
-ushırasıw	barısında	4
 ózleri	menen	4
 respublika	jámlengen	4
 processleri	menen	4
@@ -21968,6 +22079,7 @@ hám	finanslıq	4
 ol	miynet	4
 oqıwshılar	óz	4
 qatnasqan	oqıwshılar	4
+úlesin	qosqan	4
 esikler	kúni	4
 turǵyn	úı	4
 bas	tarttı	4
@@ -21991,6 +22103,7 @@ mákemeleriniń	jumısların	4
 kásiplik	dárejesin	4
 jumıs	júrgiziwdi	4
 bilimlendiriw	orınlarında	4
+adam	ta	4
 kubogi	ushın	4
 sporttıń	mini	4
 komandaları	iyeledi	4
@@ -22064,10 +22177,8 @@ ekskursiya	shólkemlestirildi	4
 mákemelerinde	qaraqalpaq	4
 rawajlandırıwdan	ibarat	4
 qáliplestiriwden	ibarat	4
-ekskursiya	dawamında	4
 máhálle	jetekshisi	4
 sheberlik	sabaqları	4
-oqıwshıları	tárepinen	4
 orayı	imaratında	4
 qadaǵalawǵa	alıw	4
 yarımınan	baslap	4
@@ -22323,7 +22434,6 @@ dollarǵa	satıp	4
 bas	direktor	4
 lawazımın	iyeledi	4
 ilgeri	súrdi	4
-qalay	bolsa	4
 tárepinen	dóretilgen	4
 de	o	4
 bul	belgiler	4
@@ -22332,7 +22442,6 @@ ol	xalıqtıń	4
 jazba	ádebiyatqa	4
 búginnen	baslap	4
 ara	tásir	4
-m	biyiklikke	4
 hám	hawa	4
 hám	qurǵaq	4
 hám	francuz	4
@@ -22348,7 +22457,6 @@ quralların	islep	4
 hám	hyundai	4
 jolına	iye	4
 kóp	bólegin	4
-jılda	islep	4
 jıl	iyun	4
 jıllarda	sport	4
 gúresleriniń	olimpiya	4
@@ -22420,6 +22528,7 @@ menen	bólisti	4
 baslanǵan	hám	4
 suwitiw	sisteması	4
 qızıw	temperaturası	4
+jılǵa	deyin	4
 kishi	bolǵan	4
 i	hám	4
 ushın	turaqlı	4
@@ -22502,7 +22611,6 @@ maqsetti	belgilew	4
 bul	wazıypalar	4
 kórsetilgen	bolıwı	4
 ne	bolıwı	4
-ta	lim	4
 kompyuter	hám	4
 nızamǵa	qarsı	4
 portlardı	tekseriw	4
@@ -23049,7 +23157,6 @@ puqaralardıń	múrájatleri	4
 múrájatleri	tıńlandı	4
 sistemasın	jańa	4
 qutlı	sáne	4
-jolındaǵı	barlıq	4
 pútkil	elimiz	4
 jaslarımız	benen	4
 shańaraqtıń	turaq-jayın	4
@@ -23148,11 +23255,9 @@ mádeniyatı	tálim	4
 suw	arqalı	4
 puqaralardıń	turmıs	4
 jasawshı	puqaralardıń	4
-rayonı	turǵını	4
 ellikqala	rayonlıq	4
 boyınsha	ellikqala	4
 hám	jaslarǵa	4
-qońırat	rayonlar	4
 paydasına	tárbiyasındaǵı	4
 ushın	aliment	4
 may	sánesinen	4
@@ -23234,7 +23339,6 @@ eki	júz	4
 muǵdarında	járiyma	4
 qamaq	jazası	4
 ideal	gaz	4
-k	ge	4
 k	kúshi	4
 bolatuǵın	bolsa	4
 sóz	dizbegi	4
@@ -23467,6 +23571,7 @@ tu'rkistan	qalasının	4
 ma	eken	4
 alatyn	bolady	4
 jobany	iske	4
+ten	qol	4
 genjebay	aǵa	4
 aldım	da	4
 bar	shıǵar	4
@@ -23574,6 +23679,7 @@ sharshaw	protsessi	4
 jumısı	nolge	4
 ju'rek	qan	4
 jılı	eki	4
+bag'anasına	ten	4
 alıw	barısında	4
 bo'linip	shıg'atug'ın	4
 juwapker	ekenligin	4
@@ -23629,7 +23735,6 @@ soraw	ga	4
 emes	ga	4
 pler	bas	4
 bolımsız	ga	4
-ndew	ga	4
 evolyutsiyalıq	rawajlanıwdın	4
 shekemgi	da	4
 miynet	shawqımı	4
@@ -23765,6 +23870,7 @@ paydalanıwdı	ámelge	4
 shıǵarmalardan	hám	4
 olardıń	máplerin	4
 huqıq	iyelerine	4
+shıǵarmalardıń	hám	4
 banki	qatnasında	4
 qatnasında	ulıwma	4
 esabatı	tuwralı	4
@@ -23980,11 +24086,9 @@ hazrati	umar	4
 báhárgi	teń	4
 jámáát	shártnamasınıń	4
 qıtay	ha'm	3
-sonın	menen	3
 bul	shegara	3
 kaspiy	ten'izine	3
 qalg'an	bo'limi	3
-ha'm	en	3
 iye	bolmawı	3
 puqaralıq	haqqındag'ı	3
 hu'jjetler	ha'm	3
@@ -24014,6 +24118,7 @@ ashıq	baylanıs	3
 investitsiyalar	ushın	3
 ju'da	qolaylı	3
 na'zerde	tutıladı	3
+zonada	en	3
 sebebi	ha'm	3
 bolıp	bir-birinen	3
 bir-birinen	parıqlanadı	3
@@ -24021,6 +24126,7 @@ usı	maqsetke	3
 kishi	ha'm	3
 rawajlanıp	atırg'an	3
 ekonomikalıq	zonaları	3
+bul	zonalar	3
 berli	bar	3
 eksport	etiletug'ın	3
 te	boladı	3
@@ -24037,7 +24143,6 @@ ushın	islegen	3
 birinshi	evropalı	3
 ju'zin	ju'zip	3
 ju'zip	sayaxat	3
-sonın	ushın	3
 bul	keme	3
 esaplanar	edi	3
 qıtay	filosofiyası	3
@@ -24081,6 +24186,7 @@ kletkalı	haywanlar	3
 ekenligi	tuwralı	3
 islep	shıg'adı	3
 ha'm	haywanlarda	3
+bir	kletkalılardın	3
 bir-birine	usas	3
 biraq	olardan	3
 keskin	parq	3
@@ -24117,11 +24223,11 @@ xalıqaralıq	huqıqıy	3
 xalıqaralıq	huqıqta	3
 sisteması	da	3
 xalıqaralıq	huqıqqa	3
-yamasa	onın	3
 formasında	bolıwı	3
 almasıw	imkaniyatı	3
 bul	ja'miyetlik	3
 sa'ykes	keledi	3
+yag'nıy	olardın	3
 alıwı	tiyis	3
 jen'illestiredi	ha'm	3
 menen	jasaydı	3
@@ -24164,7 +24270,6 @@ degende	tek	3
 sonday-aq	jan	3
 anıqlanadı	ha'm	3
 ha'm	ma'mlekettin	3
-og'ada	jaqın	3
 sıyaqlı	belgili	3
 xalqı	alıp	3
 anıqlawda	paydalanıw	3
@@ -24185,7 +24290,9 @@ teoriyasına	bosatıp	3
 rawajlanıw	ideyası	3
 maqseti	keleshek	3
 jaqtan	sheklewler	3
+joqarı	bolg'an	3
 basqa	sol	3
+jeke	adamnın	3
 ju'zindegi	en	3
 bir	basshı	3
 biraq	bunın	3
@@ -24235,6 +24342,7 @@ birikpelerinen	qa'liplesken	3
 iran	ha'm	3
 basqa	tillerdegi	3
 lekin	onin	3
+jasi	u'lken	3
 bir	ma'mleketke	3
 rawajlanıwına	o'z	3
 arasında	ken'nen	3
@@ -24347,6 +24455,7 @@ jerlengen	jeri	3
 ko'p	jerlerdi	3
 u'lken	tabıslarg'a	3
 keyin	adamlar	3
+dep	atay	3
 degen	ataqqa	3
 olar	sonday	3
 bir	jan'a	3
@@ -24372,6 +24481,7 @@ tasmag'a	jazılg'an	3
 ha'm	izbe-iz	3
 qutılıw	ushın	3
 usınıwı	menen	3
+yamasa	en	3
 ol	ja'ne	3
 tiri	qalıwı	3
 ha'm	adamlar	3
@@ -24400,10 +24510,11 @@ tolı	edi	3
 mektepti	pitkergen	3
 bo'lim	baslıg'ı	3
 onda	hesh	3
-dep	onın	3
+onın	o'zine	3
 o'zinin	jumıs	3
 jumıs	ornına	3
 aytqan	qosıg'ın	3
+da	onın	3
 institut	basshıları	3
 jas	shayır	3
 qutıla	almaydı	3
@@ -24412,6 +24523,7 @@ ju'rse	de	3
 astında	qaladı	3
 atlı	eki	3
 kempir	menen	3
+degen	adamnın	3
 qudıyar	g'arrı	3
 da	og'an	3
 kete	beredi	3
@@ -24420,6 +24532,7 @@ sotsiallıq	strukturası	3
 strukturası	haqqında	3
 taba	almaymız	3
 u'zliksiz	ha'reket	3
+olar	adamnın	3
 ushın	a'hmiyetli	3
 adjiva	menen	3
 menen	djivanı	3
@@ -24433,6 +24546,7 @@ logika	menen	3
 etip	qoymastan	3
 tamam	bolıwı	3
 a'sirese	balalar	3
+ju'da	paydalı	3
 qa'siyetke	iye	3
 ko'rnekli	wa'kili	3
 qunanbay	ulı	3
@@ -24449,6 +24563,7 @@ bolsada	ol	3
 on	jasınan	3
 maqset	bar	3
 shayırlar	ushın	3
+evgeniy	onegin	3
 klimatqa	iye	3
 suwıq	qıs	3
 ten'izi	klimatı	3
@@ -24461,7 +24576,6 @@ da	ken	3
 ko'rinip	turg'anınday	3
 shayırlardın	biri	3
 qaytadı	ha'm	3
-egin	ha'm	3
 kirip	keledi	3
 qapa	bolıp	3
 qıyın	bolsa	3
@@ -24473,6 +24587,7 @@ ishki	du'nyasın	3
 hesh	ekilenbesten	3
 hayran	bolıp	3
 musılmanlar	ushın	3
+arasında	en	3
 xabar	texnologiyaları	3
 boyınsha	mag'lıwmatlar	3
 menen	hayal	3
@@ -24484,6 +24599,7 @@ ha'm	usının	3
 ma'mleketler	arasında	3
 keleshegi	joq	3
 ulıwma	ma'pleri	3
+birge	islesiwdin	3
 ha'm	aymaqlıq	3
 usı	sha'rtnama	3
 almaydı	ha'm	3
@@ -24640,6 +24756,7 @@ tuwrı	bolıp	3
 turıwı	tiyis	3
 al	ayırımları	3
 yuridikalıq	shaxstın	3
+fizikalıq	shaxstın	3
 belgisiz	bolsa	3
 to'lem	ornı	3
 orın	bolıp	3
@@ -24652,6 +24769,8 @@ oyınlarının	payda	3
 bası	bir	3
 jetip	kelip	3
 o'lip	qaladı	3
+aralıqqa	juwırıw	3
+juwırıw	boyınsha	3
 tu'r	kiredi	3
 ko'p	sandag'ı	3
 da'wirinde	payda	3
@@ -24659,6 +24778,7 @@ joq	boladı	3
 adamlar	bir	3
 jerdin	betine	3
 u'lken	bolıp	3
+ilimler	akademiyasının	3
 tolıq	isenim	3
 beriledi	ha'm	3
 ortasha	tezlik	3
@@ -24669,7 +24789,6 @@ ha'm	topıraq	3
 baylanıslı	ha'r	3
 bir	bo'liminin	3
 bergen	bul	3
-menen	onın	3
 ja'ne	biri	3
 metr	bolıp	3
 olardan	en	3
@@ -24693,7 +24812,6 @@ ha'm	ja'miyettin	3
 tiyisli	o'zgerisler	3
 o'zgerisler	kirgiziw	3
 sheshim	aktsionerlerdin	3
-ustavı	menen	3
 ustavlıq	fondın	3
 boyınsha	ma'mleketlik	3
 bahasın	azaytıw	3
@@ -24706,6 +24824,7 @@ ku'n	ta'rtibinde	3
 jarqın	keleshekke	3
 da'wir	menen	3
 ten	qa'dem	3
+su'wretshilerinin	biri	3
 su'wret	salıwdı	3
 aytqan	so'zi	3
 birinshi	zamanago'y	3
@@ -24747,7 +24866,6 @@ sol	waqittag'i	3
 xalıqaralıq	sha'rtnamalar	3
 ha'm	xalıqaralıq	3
 huqıqtın	basqa	3
-ja'ne	onın	3
 jazba	tu'rde	3
 menen	retlestiriledi	3
 biraq	xalıqaralıq	3
@@ -24785,6 +24903,7 @@ betten	ibarat	3
 ha'm	rossiya	3
 respublikası	paytaxtı	3
 batista	amerikalar	3
+bir	okean	3
 tutas	bolg'an	3
 jerde	vulkanlar	3
 ha'zirde	elege	3
@@ -24976,6 +25095,7 @@ to'rt	tu'rli	3
 za'ru'r	bolıp	3
 aqıl	ha'm	3
 arqalı	sheshiledi	3
+qanday	adamnın	3
 menen	pu'tkil	3
 etip	tayınlaydı	3
 ushıp	kelgen	3
@@ -25005,7 +25125,6 @@ ko'ship	ketken	3
 mln	ga	3
 menen	toyınadı	3
 ulıwma	suw	3
-mın	km	3
 ts	ga	3
 qurg'aq	jerlerde	3
 hayal	adam	3
@@ -25035,12 +25154,14 @@ bayqara	menen	3
 on-on	eki	3
 da'wirlerde	de	3
 ketiwge	ma'jbu'r	3
+o'zinin	dostı	3
 keyin	sol	3
 patsha	bolıp	3
 esaplansa	da	3
 bolg'an	ayırım	3
 du'nyag'a	belgili	3
 nizamiy	ganjaviy	3
+ha'm	shiyrin	3
 u'lken	hu'rmet	3
 hu'rmet	penen	3
 penen	qaraydı	3
@@ -25054,6 +25175,7 @@ a'debiyatının	en	3
 germaniya	ha'm	3
 waqıya	haqqında	3
 bul	waqıyanın	3
+en	baslısı	3
 mınaday	tu'rlerge	3
 ja'miyetlik	siyasiy	3
 uqsap	ketedi	3
@@ -25214,11 +25336,11 @@ yadtan	shıg'arıp	3
 gazetasında	basılg'an	3
 desek	boladı	3
 ko'z	aldın'a	3
-kaspiy	ten'izinin	3
 adamlar	arasındag'ı	3
 sıpatında	qarap	3
 tilinde	baspadan	3
 jazılg'an	bolıp	3
+adam	balasının	3
 aldına	qoyg'an	3
 u'sh	toparg'a	3
 bo'lip	qaraydı	3
@@ -25230,12 +25352,14 @@ sebebi	adam	3
 ol	bala	3
 jaman	adam	3
 orta	mekteplerde	3
+degen	so'zdin	3
 tillerine	awdarılg'an	3
 eki	jas	3
 o'tken	son	3
 da'stu'ri	boyınsha	3
 jaqsılıq	ha'm	3
 da	beriledi	3
+qanday	xalıq	3
 izertleniwi	kerek	3
 qa'wim	birikpesinen	3
 dereklerdi	izertlew	3
@@ -25293,7 +25417,6 @@ u'lken	ta'sir	3
 ta'sir	ko'rsetken	3
 bul	so'zler	3
 mexanikada	dene	3
-onın	baslı	3
 programmalar	jaratıw	3
 fevral	ayı	3
 basqa	waqıtları	3
@@ -25314,7 +25437,6 @@ sport	zal	3
 az	adam	3
 jerde	tiykarınan	3
 muzika	mektebinde	3
-belgili	opera	3
 onin	en	3
 onin	menen	3
 ta'sir	etti	3
@@ -25409,7 +25531,6 @@ da	ja'miyetlik	3
 ha'kimiyattin	wa'killikli	3
 nizamda	ko'rsetilgen	3
 qadag'an	yetiledi	3
-iye	boladi	3
 uliwma	bilim	3
 huqiqina	kepillik	3
 onnan	tek	3
@@ -25470,6 +25591,7 @@ waqıt	boyınsha	3
 maydan	payda	3
 ju'z	beretug'ın	3
 onın	negizgi	3
+adamnın	denesi	3
 o'mir	su'redi	3
 qatar	jan'a	3
 gi	o'mir	3
@@ -25502,9 +25624,9 @@ eger	olarg'a	3
 bilsek	boladı	3
 o'z	o'lshemin	3
 olarg'a	tek	3
-c	temperaturada	3
 bir	ha'pteden	3
 birinshi	japıraqları	3
+egiw	kerek	3
 mayda	taslı	3
 ıssı	xanalarda	3
 xanalarda	ha'm	3
@@ -25525,6 +25647,7 @@ kadrlardı	tayarlap	3
 universiteti	no'kis	3
 tapsırıw	keshesi	3
 asırılıp	atırg'an	3
+pitkeriw	keshesi	3
 turmıs	qurıw	3
 atındag'ı	titu	3
 titu	no'kis	3
@@ -25614,7 +25737,6 @@ rayonlıq	bo	3
 resimi	bolıp	3
 energiyası	boyınsha	3
 da	uyımlardın	3
-usı	jıldın	3
 ı	m	3
 menen	telefon	3
 anı	ushın	3
@@ -25628,7 +25750,6 @@ bir	regionda	3
 onda	olar	3
 kamerası	yamasa	3
 keyin	qosıladı	3
-onnan	son	3
 aqsha	qa'rejetlerin	3
 nesiye	beriw	3
 uzaq	mezgilli	3
@@ -25688,6 +25809,7 @@ ja'ne	ju'rgiziw	3
 banknot	men	3
 awdarıw	menen	3
 nesiyeler	beriw	3
+onın	ishinde	3
 ja'ne	bahalı	3
 sonday-aq	olar	3
 organizmler	menen	3
@@ -25760,6 +25882,7 @@ sebebi	o'simlik	3
 in	intervalı	3
 ha'm	pa's	3
 suwıqqa	shıdamsız	3
+uslap	turın	3
 nicotiana	glauca	3
 saytimizdan	uzaqlaspan	3
 jasıl	tropik	3
@@ -25832,6 +25955,7 @@ orınlaw	kerek	3
 arqa	ayna	3
 bul	haqıyqıy	3
 jan'a	klip	3
+show-bizness	a'leminin	3
 onyn	aldyn	3
 jan'a	ju'i'e	3
 pikirler	de	3
@@ -25862,6 +25986,7 @@ almatylyq	kly'btyn	3
 men	a'r	3
 ai'aqtalg'an	son	3
 n	jan'a	3
+men	qay	3
 ne	odan	3
 al	ek	3
 nde	b	3
@@ -25886,12 +26011,13 @@ bildirgim	keledi	3
 ustazy	kog'amynyn	3
 kog'amynyn	ujymy	3
 alg'ysymdy	bildiremin	3
+jumys	jasai	3
 degim	keledi	3
 zor	u'les	3
 qosyp	otyrg'an	3
+boly	on'ai	3
 ony	ustap	3
 ustap	tury	3
-ary	qarai	3
 o'z	bilimin	3
 keyin	o'zinin	3
 ernazar	biy	3
@@ -25908,9 +26034,9 @@ orys	tilinde	3
 astana	qalasynyn	3
 qazaq	a'l	3
 kezde	g'ana	3
-ry'hani	jan'g'yry	3
 bul	jumysty	3
 l	b	3
+g'ylymi	zerttey	3
 qolı	menen	3
 berdaq	shayırdın	3
 adamlar	bolıp	3
@@ -25999,6 +26125,7 @@ azamat	bolyp	3
 ereks'e	ko'n	3
 il	bo'ledi	3
 ku's	ei'tip	3
+bul	jag'dai	3
 tilin	jetik	3
 ahmet	bai'tursynulymen	3
 el	u's	3
@@ -26053,6 +26180,7 @@ arttyry'g'a	mu'mkindik	3
 qyzyg'y's	ylyg'y	3
 y	o'z	3
 munda	mug'alim	3
+on'ai	ja'ne	3
 jetistikke	qol	3
 qol	jetkizy'ge	3
 jetkizy'ge	bolady	3
@@ -26064,6 +26192,7 @@ oqy's	yg'a	3
 want	to	3
 synyptar	arasynda	3
 kes	o'tti	3
+taqyrypqa	sai	3
 de	qyzyqty	3
 jan'a	bilimdi	3
 belsendi	tu'rde	3
@@ -26072,6 +26201,8 @@ quramdas	bo'ligi	3
 u'lken	jan'alyq	3
 urpaqtyn	qolynda	3
 ay'yz	a'debi'etinin	3
+halqy	qai	3
+qai	y'aqytta	3
 y'aqytta	bolmasyn	3
 basty	maqsat	3
 ay'yz	a'debi'etin	3
@@ -26094,6 +26225,7 @@ a'ser	etetin	3
 ulttyq	oi'yndar	3
 ko'rgendi	bolyp	3
 o'z	jerin	3
+ony	qadirlei	3
 bala	o'z	3
 bere	alsa	3
 qazaq	balasy	3
@@ -26118,7 +26250,6 @@ anyqtama	aly	3
 ai	sai'yn	3
 kivano	toq	3
 bolmasa	olar	3
-tuwri	keledi	3
 halda	alıp	3
 alıp	ju	3
 jasaw	ortalıg	3
@@ -26129,6 +26260,7 @@ sırtqı	ha	3
 m	ishki	3
 tirishilik	etiwi	3
 ında	bolıp	3
+boyınsha	olardın	3
 t	emiziwshiler	3
 omırtqalı	haywanlar	3
 zirgi	ku	3
@@ -26228,6 +26360,8 @@ boly'y	qajet	3
 o'z	u'lesin	3
 na'tijege	qol	3
 teren	men'gergen	3
+damy'yna	jag'dai	3
+qai	kezde	3
 u'shin	onyn	3
 boly'g'a	tiis	3
 miyette	milletleraralıq	3
@@ -26454,6 +26588,7 @@ oblysynyn	a'kimdigi	3
 memorandy'mg'a	qol	3
 qazybek	bi'din	3
 jyldyg'yna	orai	3
+ry'hani	qundylyqtardyn	3
 olardıń	shańaraqların	3
 arttırıw	baǵdarındaǵı	3
 prezidentiniń	qararı	3
@@ -26877,6 +27012,7 @@ deyin	de	3
 kiredi	ha'm	3
 jerlerde	o'siwshi	3
 tu'ngi	temperatura	3
+tiykarg'i	sebebi	3
 egiw	ko'rsetpesi	3
 qayırqomlıq	jámiyetlik	3
 háweskerlik	xalıq	3
@@ -26905,6 +27041,7 @@ biri	sol	3
 pikir	bildirgen	3
 jolay's	ılardın	3
 ju'rgizy's	i	3
+jol	bermey	3
 jan'artylg'an	bilim	3
 ta'y'elsizdik	jyldarynda	3
 sapaly	ju'zege	3
@@ -26974,6 +27111,7 @@ tag'y	biri	3
 er	jigitke	3
 tanyta	bilgen	3
 jas	balanyn	3
+g'oi	dep	3
 men	o'negeli	3
 mektep	pen	3
 pen	ata-ananyn	3
@@ -27241,6 +27379,7 @@ baslıǵı	lawazımında	3
 lawazımında	jumıs	3
 juwaplı	xatker	3
 keleshek	áwlad	3
+den	aslamı	3
 shette	qalmaydı	3
 pánler	akademiyası	3
 tariyxı	mámleketlik	3
@@ -27848,6 +27987,7 @@ sebebi	qaplama	3
 qaplama	tez	3
 keyin	toq	3
 dekorativligin	saqlap	3
+saqlap	qaladi	3
 o'zinin	ko'rinisin	3
 saqlap	qalg'an	3
 o'siriwin'iz	mu'mkin	3
@@ -28118,8 +28258,10 @@ zor	ekenin	3
 siz	ben	3
 ben	biz	3
 ray's	an	3
+dep	a'n	3
 ken'estin	mu's	3
 pikir	almastı	3
+oqıw	orınlarının	3
 el	ta'y'elsizdiginin	3
 qarqynmen	damyp	3
 barysynda	eki	3
@@ -28127,7 +28269,6 @@ qyzyg'y'shylyg'yn	arttyry	3
 son	bul	3
 tariyxıy	rawajlanıwdı	3
 adamzat	tariyxı	3
-adamnın	jeke	3
 tu'sinik	bolıp	3
 ibn	muxammed	3
 turmısta	jasap	3
@@ -28147,6 +28288,7 @@ kórsetkishleri	de	3
 potencialın	arttırıwǵa	3
 arasındaǵı	doslıq	3
 tayar	ekenin	3
+menen	tan	3
 da	payda	3
 sıpatlama	beriw	3
 bolg'an	sayın	3
@@ -28157,6 +28299,7 @@ a'h'miyetli	rol	3
 barlıq	materiallıq	3
 payda	bolıuına	3
 izertlew	arqalı	3
+arqalı	onın	3
 tariyx	ilimi	3
 baylanısqa	iye	3
 al	tariyx	3
@@ -28595,8 +28738,10 @@ en'bek	ety	3
 oqy'shylardy	shyg'armashylyq	3
 to'mengi	synyp	3
 o'mir	jolında	3
+sen	menin	3
 taslap	ketpe	3
 orın	algan	3
+jıldan	son	3
 bul	kásip	3
 reńdegi	kiyimlerdi	3
 bas	tartadı	3
@@ -28625,6 +28770,7 @@ sa'tten	bastap	3
 jay'ap	bery'ge	3
 qajet	ekendigin	3
 este	saqtay	3
+zamang'a	sai	3
 ana	mektebi	3
 sonshama	ko'p	3
 boly'g'a	tiisti	3
@@ -28633,11 +28779,12 @@ osy	jas	3
 ko'terin'ki	ko'n	3
 bul	endi	3
 keldi	degen	3
+qalai	ju'zege	3
+bar	g'oi	3
 jetkinshektik	kezen'nin	3
 keledi	de	3
 mu'mkindikteri	men	3
 men	balalar	3
-jag'dai	jasay	3
 u'lken	ro'l	3
 ro'l	atqarady	3
 en	man'yzdy	3
@@ -28788,6 +28935,7 @@ bas	qosqan	3
 asyry'g'a	mu'mkindik	3
 jog'ary	bilikti	3
 jumys	atqary'da	3
+qorytyndylai	kele	3
 menen	ótkerilip	3
 medicina	birlespesinde	3
 jumısları	hámde	3
@@ -28799,6 +28947,7 @@ milliy	qádiriyatlarımızǵa	3
 hám	xalqımızǵa	3
 kórikten	ótiw	3
 filosofiyası	haqqında	3
+onın	pikiri	3
 ha'm	jaman	3
 tariyxıy	waqıt	3
 ol	grek	3
@@ -28813,7 +28962,6 @@ keleshegine	bolǵan	3
 qunanbaevtıń	dóretiwshilik	3
 miyrasın	keń	3
 úgit-násiyatlawdı	shólkemlestiriw	3
-avgust	sánesinde	3
 gúl	qoyıw	3
 milliy	teleradiokompaniyası	3
 keńnen	sáwlelendiriw	3
@@ -28867,6 +29015,7 @@ waqıtta	usı	3
 alıw	jumısları	3
 h'a'dden	tıs	3
 mınadan	ibarat	3
+tirishilik	etiwdin	3
 qorshag'an	sırtqı	3
 ku'shke	iye	3
 toqtap	qalıw	3
@@ -28886,7 +29035,6 @@ hám	sharwashılıq	3
 shólkemler	aldındaǵı	3
 mámleketlik	maqsetli	3
 jetistiretuǵın	fermer	3
-onı	tártipke	3
 ushın	paxta	3
 tárepinen	kepillik	3
 jıldıń	zúrááti	3
@@ -28922,6 +29070,7 @@ mln	dana	3
 hám	jabıq	3
 balıq	ónimlerin	3
 qurıw	belgilengen	3
+juda	kushli	3
 juda	jakın	3
 forması	menen	3
 bolıp	atırgan	3
@@ -29019,6 +29168,7 @@ jer	ajıratıw	3
 lawazımlı	shaxslarǵa	3
 xám	qaraqalpaqstan	3
 bolmaǵan	jumıs	3
+orin	alg'an	3
 ha'm	elektron	3
 o'ner	ko'rsetti	3
 federasi'asynyn	prezi'denti	3
@@ -29086,6 +29236,7 @@ bass'ysy	erlan	3
 so'z	tizginin	3
 gektar	jerde	3
 ko's	irmesi	3
+y	ty'raly	3
 mln	ten'gege	3
 haqqında	joqarǵı	3
 keńestiń	baspasóz	3
@@ -29188,6 +29339,7 @@ qoldan	kelse	3
 eger	xalıq	3
 iske	qol	3
 xızmet	etse	3
+er	jigittin	3
 qaraqalpaqstang'a	miyneti	3
 birinshi	sanı	3
 redaktor	etip	3
@@ -29277,7 +29429,6 @@ geyparalar	bul	3
 kirip	ketedi	3
 endi	og'an	3
 bul	adamlardın	3
-olardın	payda	3
 formasında	beriledi	3
 mazmunı	haqqında	3
 ku'ni	keshte	3
@@ -29385,7 +29536,6 @@ telekommunikaciya	infrastrukturası	3
 hám	isbilermenliktiń	3
 xızmetlerdiń	sapasın	3
 azaytıwǵa	qaratılǵan	3
-esapqa	almay	3
 almay	atır	3
 sistemalı	jumıslar	3
 telekommunikaciya	xızmetleri	3
@@ -29430,13 +29580,13 @@ sog'an	qarag'anda	3
 saz	benen	3
 pikir	alısıp	3
 baslaması	boldı	3
-birinen	son	3
 basında	qaraqalpaq	3
 ashılıw	saltanatına	3
 mashaqatlı	miyneti	3
 mekemelerde	kásiplik	3
 tólemlerin	tólep	3
 huqıqıy	járdem	3
+sud	hám	3
 hám	múlk	3
 múrájáát	etiw	3
 tárepinen	shólkemlestiriletuǵın	3
@@ -29925,6 +30075,7 @@ bes	ku'nlik	3
 alıp	qoyılǵan	3
 sózsiz	támiyinlew	3
 ızdı	ko	3
+eger	sizdin	3
 a	shıg	3
 al	siz	3
 mazmunlı	ótkeriwleri	3
@@ -29933,6 +30084,7 @@ janıp	turg'an	3
 men	jaqsı	3
 unatıp	edim	3
 sol	ko	3
+men	juda	3
 a	barıp	3
 zer	salıp	3
 men	sen	3
@@ -29983,11 +30135,11 @@ qara	tal	3
 sapar	shekken	3
 asıq	dostım	3
 jaqqa	jetiwge	3
+ha'r	adamnın	3
 eger	sen	3
 senin	bir	3
 basım	menen	3
 ta	ag'ar	3
-f	ge	3
 nızamı	boyınsha	3
 dushshı	suwda	3
 yamasa	qısqa	3
@@ -30102,7 +30254,6 @@ adamlar	ta	3
 zatları	menen	3
 dep	atalg	3
 parazitotsenoz	tu	3
-sırtqı	ortalıqtın	3
 ekinshi	ta	3
 parazitler	menen	3
 ı	bolıp	3
@@ -30141,6 +30292,7 @@ m	meditsinalıq	3
 parazitler	tuwdıratug	3
 resiw	ushın	3
 orınlanıwın	tekseriw	3
+ushın	olardın	3
 arnawlı	xojalıqlarda	3
 bir	iret	3
 qaray	bo	3
@@ -30201,6 +30353,7 @@ jınıslı	ko	3
 ana	organizminen	3
 a	baslama	3
 bul	dene	3
+bul	kletkalardın	3
 ın	u	3
 basqa	ximiyalıq	3
 ushın	a	3
@@ -30525,12 +30678,14 @@ xam	baslauısh	3
 ozine	tan	3
 osedi	xam	3
 degenimiz	bul	3
+olardın	oz	3
 jas	ozgesheligin	3
 balalardın	xam	3
 ospirimlerdin	jas	3
 aldına	ilim	3
 xam	fizikalık	3
 tirishilik	jagdayın	3
+aldın	alıuda	3
 bas	miydin	3
 xazirgi	zaman	3
 xareket	etiushi	3
@@ -30543,10 +30698,12 @@ xızmeti	jagınan	3
 duziliske	iye	3
 as	pisiriu	3
 organizimnin	ishki	3
+organizmnin	belgili	3
 xam	sistemalar	3
 oz	rauajlanıuın	3
 balalık	dauir	3
 tez	osedi	3
+omirinin	akırına	3
 akırına	shekem	3
 jetkenge	shekem	3
 xızmeti	kanday	3
@@ -30917,7 +31074,6 @@ tiykarında	rayon	3
 sum	bolǵan	3
 metr	aralıqtaǵı	3
 dana	gaz	3
-km	gaz	3
 texnikalıq	tekseriwden	3
 soda	zavodı	3
 investiciyalıq	joybar	3
@@ -31391,7 +31547,6 @@ majlis	deputatı	3
 sanobar	ájapama	3
 ájapama	uqsaǵım	3
 uqsaǵım	keledi	3
-baxıtlı	hám	3
 ózbek	tilinde	3
 elge	jumıs	3
 bolmaǵanlıǵı	sebepli	3
@@ -31440,6 +31595,7 @@ mektep	oqıwshı	3
 tiykarın	salǵan	3
 kompleks	is-ilájlar	3
 viktorina	oyınları	3
+mektep	kitapxanashıları	3
 maqsetinde	balalar	3
 oqıw	seminar	3
 ótkeriw	rejelestirilgen	3
@@ -31452,7 +31608,6 @@ jol	qoyılmawı	3
 hám	ajqs	3
 hámde	respublika	3
 jaqsılaw	ilajları	3
-hám	neft	3
 rawajlanıw	orayı	3
 arqalı	kórsetip	3
 tilinde	oqıw	3
@@ -31567,13 +31722,13 @@ almasıwın	retleydi	3
 organizmde	okisleniw	3
 okisleniw	ha'm	3
 qa'lpine	keliw	3
+organizmde	beloklardın	3
 organikalıq	birikpelerdin	3
 iskerligi	ha'm	3
 ayırmashılıqqa	iye	3
 nashar	adamlarda	3
 onın	fiziologiyalıq	3
 etken	fizikalıq	3
-ha'm	kerekli	3
 awqatlıq	zattın	3
 organizmde	payda	3
 bolg'an	energiyanın	3
@@ -31594,6 +31749,7 @@ bolıu	mexanizmi	3
 reflekslerdin	irkiliui	3
 ha'm	kabıq	3
 kabıq	astı	3
+nın	en	3
 barlıq	reflektorlıq	3
 astı	bo'limlerinin	3
 ozine	ten	3
@@ -31648,6 +31804,7 @@ bul	basqısh	3
 jag'dayına	tu'sken	3
 bulshıq	etke	3
 du'zilisi	boyınsha	3
+ne	onın	3
 kozıu	protsessin	3
 sol	nerv	3
 jetkerip	beriushi	3
@@ -31728,6 +31885,7 @@ jaylasqan	ha'm	3
 as	sin'iriwdin	3
 qazan	astı	3
 mexanikalıq	jaqtan	3
+duzlar	ha'm	3
 organizmnin	tirishiliginde	3
 ha'm	a'hmiyetli	3
 usılın	islep	3
@@ -31738,11 +31896,13 @@ bul	quramalı	3
 quramalı	protsess	3
 bezleri	kiredi	3
 adamlarda	sutkasına	3
+xızmeti	onın	3
 asqazan	shiresinin	3
 ha'm	fizikalıq	3
 boyınsha	ishki	3
 adam	yaki	3
 tu'r	payda	3
+en	mayda	3
 da	bolıwı	3
 tirishilik	formaların	3
 tezligi	bir	3
@@ -31797,7 +31957,6 @@ ha'm	shartli	3
 jetkerip	beriu	3
 barlıq	ishki	3
 ishki	organlardı	3
-nerv	sistemaları	3
 kanday	xızmetler	3
 xızmetler	atkaradı	3
 vegetativ	nerv	3
@@ -31947,6 +32106,7 @@ hám	avtomatlastırıw	3
 jaqsı	dep	3
 tańlaw	jeńimpazı	3
 gruppag'a	bo'lip	3
+juda	az	3
 yamasa	tuwma	3
 shartli	reflekstin	3
 shartli	titirkendirgish	3
@@ -31974,6 +32134,7 @@ ha'm	nervlik	3
 axmietke	iye	3
 refleksler	bolıp	3
 xazirgi	waqıtta	3
+juda	kuramalı	3
 nerv	impulslerin	3
 ulken	axmietke	3
 ha'm	xayuanlar	3
@@ -32050,7 +32211,6 @@ dárejeli	diplom	3
 aǵza	mámleketlikler	3
 qatnasıwında	bolıp	3
 ushın	mámleket	3
-atqarıw	etdi	3
 ataǵına	iye	3
 etiwge	arnalǵan	3
 xızmeti	ushın	3
@@ -32121,7 +32281,6 @@ qararı	óz	3
 qarardı	belgilengen	3
 tártipte	xalıq	3
 qarar	rásmiy	3
-f	ke	3
 ke	jetedi	3
 ekstrozonal	soobshestvolar	3
 ayrım	tu'rleri	3
@@ -32169,6 +32328,7 @@ bunday	jumıslar	3
 baslap	payda	3
 bir-birinen	ajırata	3
 jastan	keyin	3
+denenin	ten	3
 esitiw	organın'a	3
 sesler	dep	3
 bala	sırtqı	3
@@ -32731,6 +32891,7 @@ aralboyı	aymaǵın	3
 úlken	áxmiyetke	3
 áxmiyetke	iye	3
 qadaǵalaw	ilajların	3
+salıǵınan	azat	3
 qarardıń	orınlanıwı	3
 swm	bolǵan	3
 asırılıwı	hám	3
@@ -32793,6 +32954,7 @@ tamamlaǵannan	keyin	3
 menen	tolıqtırılǵan	3
 puqaralardıń	jumıs	3
 biylik	etiw	3
+járdemi	arqalı	3
 jumıs	túrin	3
 aymaǵınan	tısqarıda	3
 respublikasında	jumıs	3
@@ -33280,7 +33442,6 @@ isenimli	dawam	3
 regionın	ekologiyalıq	3
 texnologiyalar	aymaǵı	3
 etiw	haqqındaǵı	3
-dún'ya	júzindegi	3
 hám	ázzi	3
 hám	qararlar	3
 oǵada	awır	3
@@ -33533,7 +33694,6 @@ turmıs	penen	3
 de	sonda	3
 keńnen	toqtalıp	3
 jaqınnan	tanıs	3
-ornına	kiriw	3
 nesip	etpedi	3
 baǵdarı	studenti	3
 ózimniń	hám	3
@@ -33544,6 +33704,7 @@ dóretpelerinen	ibarat	3
 sıpatında	tapsırdı	3
 forumı	bolıp	3
 mazmunına	qarap	3
+bul	kompaniyanın	3
 málimleme-resurs	orayında	3
 oqıw	rejesindegi	3
 oqıw	ádebiyatlar	3
@@ -33680,7 +33841,6 @@ jáne	mámleketlik	3
 ǵalabalıq	ilajlardı	3
 tayarlawda	hám	3
 funkciyalardı	ámelge	3
-baslıǵınıń	qararları	3
 toparǵa	júklengen	3
 hám	tayarlaydı	3
 ushın	kirgiziletuǵın	3
@@ -33806,6 +33966,7 @@ miynetleri	arqasında	3
 jılı	noyabr	3
 menen	basladı	3
 tuwrısında	túsinikler	3
+ushırasıw	barısında	3
 ózgeshe	tásir	3
 seminarı	ótkerildi	3
 seminardı	qaraqalpaqstan	3
@@ -33854,7 +34015,6 @@ basqariw	orginlarina	3
 emes	sho'lkemler	3
 insan	ha'm	3
 puqaraliq	ja'miyetti	3
-puqaralardin	o'zin-o	3
 onin	ko'nlikpesi	3
 hazirgi	zaman	3
 zaman	pani	3
@@ -34165,7 +34325,7 @@ hám	hújjetlerdiń	3
 hám	tayarlanǵan	3
 jıynalıslarında	hám	3
 moral	filosofiyasin	3
-adam	ta	3
+ham	ol	3
 jarısı	shólkemlestirildi	3
 it	texnikumı	3
 tayarlanǵan	diplom	3
@@ -34195,7 +34355,6 @@ qurılısında	da	3
 insan	denesiniń	3
 dionis	húrmetine	3
 zárúrli	máseleleri	3
-keń	orın	3
 máselesine	arnalǵan	3
 tımsalı	bolıp	3
 qolǵa	kirgizildi	3
@@ -34262,6 +34421,7 @@ sociallıq-ekonomikalıq	processlerdi	3
 iskerligine	tiyisli	3
 bul	arnawlı	3
 basqarıw	procesi	3
+ekonomikalıq	jáne	3
 islew	quralları	3
 finanslıq	támiynlew	3
 hám	kredit	3
@@ -34346,6 +34506,7 @@ qıtıwdıń	tiykarǵı	3
 sóylew	k	3
 lingvistikalıq	k	3
 jaslar	qatnasıwında	3
+ekskursiya	dawamında	3
 bárshe	qatnasıwshılar	3
 onda	nókis	3
 boyınsha	ózlerin	3
@@ -34355,6 +34516,7 @@ bir	kásipke	3
 sińgen	jurnalist	3
 shayırdıń	ómiri	3
 haqqında	bahalı	3
+oqıwshıları	tárepinen	3
 jumıssız	jaslardıń	3
 háreketleniwshi	suwretti	3
 da	isletiledi	3
@@ -34498,7 +34660,6 @@ mumkin	emes	3
 insan	ómiriniń	3
 bolıwdı	talap	3
 ortasında	payda	3
-v	ásirlerde	3
 payǵambarımız	muhammad	3
 júz	bolıp	3
 hám	monǵol	3
@@ -34885,7 +35046,7 @@ bir	ja	3
 ekinshi	tárepten	3
 ın	ilim	3
 tariyxımız	benen	3
-bolsa	solay	3
+qalay	bolsa	3
 dárejede	tásir	3
 a	xızmet	3
 kórip	qaladı	3
@@ -34896,6 +35057,7 @@ kórkem	awızeki	3
 baylanısta	bolıp	3
 bul	qatlamǵa	3
 aylanba	háreketi	3
+m	biyiklikke	3
 qıylı	bolıwına	3
 hám	ıǵal	3
 birneshe	jıl	3
@@ -34927,6 +35089,7 @@ yaki	qurban	3
 qurban	hayttan	3
 hayttan	aldıńǵı	3
 aldıńǵı	kúninde	3
+jılda	islep	3
 menen	endi	3
 satıp	alıwdı	3
 úgit-násiyatlaw	jumısların	3
@@ -35096,7 +35259,6 @@ atırǵan	ilimiy	3
 oqıwshılar	ózleriniń	3
 shańaraǵına	tiyisli	3
 aydarha	terekleri	3
-operativ	tranzit	3
 milliard	yuan	3
 jıl	sentyabrde	3
 sol	jıldıń	3
@@ -35385,7 +35547,6 @@ jaslar	da'pteri	3
 onıń	shańaraq	3
 báhár	paslı	3
 abat	bolıwına	3
-mıń	jıllıqta	3
 xalıq	punktleriniń	3
 góne	úrgenish	3
 bolǵan	dáwir	3
@@ -35675,7 +35836,6 @@ oguz	qáwimleriniń	3
 kaspiy	teńiziniń	3
 oguz	qáwimleri	3
 xalqınıń	qáliplesiwinde	3
-jergilikli	iran	3
 túrli	sebepler	3
 áyyemgi	iran	3
 qáwim	birikpesinen	3
@@ -36286,7 +36446,6 @@ seminarǵa	rayondaǵı	3
 xojalıq	isleri	3
 shólkemlerinde	awqatlandırıwdı	3
 awqatlandırıwdı	shólkemlestiriw	3
-keń	túsinikler	3
 bir	shólkemde	3
 shólkemde	balalar	3
 balalar	taǵamları	3
@@ -36547,6 +36706,7 @@ mazmun	mánisi	3
 balalardı	sociallıq	3
 belsendileri	tárepinen	3
 ilajı	ótkerildi	3
+jolındaǵı	barlıq	3
 otız	eki	3
 bekkem	den	3
 elimizdiń	jáne	3
@@ -36557,7 +36717,6 @@ turaq-jayın	shiferlaw	3
 baslap	jiberilgen	3
 sociallıq-ekonomikalıq	rawajlanıwına	3
 sizlerdi	jáne	3
-abadan	turmısı	3
 qaratqan	halda	3
 gáp	hám	3
 tábiyatı	hám	3
@@ -36568,7 +36727,6 @@ dáregi	járdeminde	3
 nurdıń	jemiriliwi	3
 tuwrı	islewi	3
 paydalı	ekenligin	3
-alıwıńız	kerek	3
 jemiriliwi	hám	3
 mámlekettiń	social	3
 avgust	ayınıń	3
@@ -36802,6 +36960,7 @@ million	sumnan	3
 xalıq	tıǵız	3
 alısta	jaylasqan	3
 zárúr	dep	3
+rayonı	turǵını	3
 qanday	hújjetsiz	3
 kiyatırǵan	puqara	3
 dene	jaraqatın	3
@@ -36810,6 +36969,7 @@ birinshi	respublikalıq	3
 jaslarǵa	bilim	3
 atırǵan	sociallıq-ekonomikalıq	3
 is	júritiwindegi	3
+qońırat	rayonlar	3
 usı	orınlaw	3
 menen	óndirilip	3
 ózbekstan	xdp	3
@@ -37001,6 +37161,7 @@ múmkin	bolıwı	3
 ese	úlkeygen	3
 usınday	jaǵdayda	3
 kinetikalıq	energiyası	3
+k	ge	3
 tómende	keltirilgen	3
 gorizontqa	múyesh	3
 múyesh	jasap	3
@@ -38021,6 +38182,7 @@ jer	iyelewshilik	3
 mádeniyatın	joqarılatıwǵa	3
 ın	bolsa	3
 etip	til	3
+til	iliminin	3
 zde	tutıladı	3
 sirler	boyı	3
 rli	ko	3
@@ -38198,7 +38360,6 @@ arasında	birge	3
 barıw	múmkin	3
 jaslardı	shaqırıqqa	3
 qaysı	tildi	3
-bunday	so	3
 sıpatında	ko	3
 qaray	tu	3
 ekinshi	tu	3
@@ -38288,6 +38449,8 @@ zi	qatnaslı	3
 eki	sostavlı	3
 bir	sostavlı	3
 bolımlı	ga	3
+ndew	ga	3
+bunday	ga	3
 tuwralı	ma	3
 rli	ma	3
 mln	jıllar	3
@@ -38598,7 +38761,6 @@ huqıqları	shártnama	3
 bunday	shártnamaǵa	3
 atqarıwshı	tárepinen	3
 járiyalanǵan	fonogramma	3
-fonogrammanı	efirge	3
 maqsette	járiyalanǵan	3
 járiyalanǵan	fonogrammanı	3
 esittiriw	jazıwın	3
@@ -38931,6 +39093,7 @@ sandaǵı	tájiriybelerde	3
 tájiriybelerde	tosinnanli	3
 izbe-izligi	úlken	3
 nızamına	boysinadi	3
+májburiy	ta	3
 túrli	sırtqı	3
 ulıwma	májburiy	3
 ulıwma	talim	3
@@ -38957,6 +39120,7 @@ miynet	tálimi	3
 fransiya	tálim	3
 jaǵdayda	oqıw	3
 nemis	tilinde	3
+shekem	ta	3
 tilinde	sóylesiwshi	3
 bolǵan	tálim	3
 belgiya	joqarı	3

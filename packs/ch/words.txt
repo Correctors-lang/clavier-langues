@@ -1,38 +1,38 @@
 # Chamoru : FineWeb-2 cha_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-na	18198
-i	17231
+na	18195
+i	17226
 y	16196
-ya	9938
-gi	8675
-yan	8340
+ya	9937
+gi	8670
+yan	8339
 ni	6467
-para	6324
+para	6323
 gui	4916
 ti	4018
-ha	3955
+ha	3954
 siha	3735
 sija	3592
 si	3490
-un	3274
+un	3273
 este	3228
 sa	2571
 pot	2569
 hu	2413
 u	2161
 taotao	2021
-lao	1813
+lao	1812
 ma	1676
 nai	1580
-guaha	1569
-guiya	1510
-ta	1501
+guaha	1568
+guiya	1509
+ta	1500
 esta	1355
 todu	1348
-the	1316
+the	1315
 mas	1266
 siña	1245
-yu	1231
+yu	1230
 todo	1210
 ayo	1192
 anae	1154
@@ -41,7 +41,7 @@ güiya	1113
 man	1006
 ginen	999
 as	972
-in	971
+in	970
 and	941
 güe	878
 haf	875
@@ -50,34 +50,34 @@ hit	839
 tano	820
 dos	799
 yuus	799
-put	795
+put	794
 giya	782
-pat	776
+pat	774
 niha	746
 taya	732
 ayu	730
 jesus	707
-an	704
+an	703
 bai	703
 nae	695
-of	689
+of	688
 familia	657
 mauleg	633
 guajo	616
 guine	609
 otro	583
 ilegña	583
-e	583
 lau	582
-gaige	578
-jago	561
+e	581
+gaige	577
+jago	560
 siempre	556
 chamoru	549
 pues	540
 jeova	538
 to	532
 di	526
-jafa	520
+jafa	519
 lokkue	484
 gof	482
 yo	476
@@ -86,7 +86,7 @@ iya	474
 tiempo	460
 debi	451
 hafa	448
-a	444
+a	442
 de	441
 fan	439
 hao	439
@@ -95,11 +95,11 @@ locue	431
 ham	416
 chamorro	416
 guinin	415
-kada	412
+kada	410
 uno	403
 tiempu	401
 asta	400
-unu	393
+unu	392
 guma	389
 tanu	388
 natibu	387
@@ -117,7 +117,7 @@ yaguin	342
 annai	341
 mato	341
 ke	340
-guaja	339
+guaja	338
 mina	337
 yu'us	328
 yanggen	323
@@ -133,9 +133,9 @@ güije	298
 sin	297
 håfa	293
 fino	292
-tasi	288
 lokue	288
 megae	288
+tasi	287
 hau	282
 is	281
 taimanu	275
@@ -145,8 +145,8 @@ hagas	268
 gu	268
 saina	265
 mismu	263
-kau	261
 malago	261
+kau	260
 tres	260
 pa	260
 taegüije	258
@@ -193,9 +193,9 @@ sumen	204
 nasion	202
 espiritu	202
 fina	201
-isla	201
 en	201
 atan	201
+isla	200
 güinaja	200
 manu	199
 piot	199
@@ -208,9 +208,9 @@ li'e	196
 deste	195
 it	194
 ilegñija	193
-tautau-ta	192
 bula	191
 polo	191
+tautau-ta	191
 mientras	190
 publiku	190
 he	189
@@ -265,8 +265,8 @@ diariu	150
 taelaye	149
 mohon	148
 entalo	148
-guam	147
 ayuda	147
+guam	146
 lai	146
 nina	145
 jalie	145
@@ -281,8 +281,8 @@ komprende	139
 tiempon	138
 lina'la	138
 yanguin	138
-suetdun	138
 ta'lo	137
+suetdun	137
 miyu	135
 juan	135
 ki	135
@@ -519,12 +519,12 @@ jesukristo	77
 tåno	76
 tana	76
 your	76
-propiu	76
 jame	76
 sapet	76
 anen	76
 biahi	75
 karera	75
+propiu	75
 hegsu	75
 prohimu	75
 calang	75
@@ -601,7 +601,6 @@ uttimo	67
 their	67
 tumungo	66
 taigue	66
-miyon	66
 dichu	66
 manope	66
 estorian	66
@@ -610,6 +609,7 @@ edukasion	65
 chetnot	65
 tininas	65
 diskuidu	65
+miyon	65
 ug	65
 matae	65
 planu	64
@@ -742,7 +742,6 @@ relihion	52
 pumalu	52
 fuetsau	52
 lagu	52
-islan	52
 fondun	52
 sedi	52
 sinagoga	52
@@ -756,6 +755,7 @@ hami	52
 chenot	52
 fattu	51
 atdau	51
+islan	51
 katkuet	51
 chatsaga	51
 planun	51
@@ -775,7 +775,6 @@ petmanente	50
 pueñge	50
 aksepta	50
 siempri	50
-sadog	50
 ninasiña	50
 aire	50
 finatae	50
@@ -792,6 +791,7 @@ muñga	49
 kantan	49
 nana	49
 jasangane	49
+sadog	49
 susede	49
 atdao	49
 machule	49
@@ -844,7 +844,6 @@ membron	46
 matto	46
 mediku	46
 gas	46
-duranten	46
 herodes	46
 egso	46
 jacone	46
@@ -866,6 +865,7 @@ mañglu	45
 mattiru	45
 nesessita	45
 federat	45
+duranten	45
 impottante	45
 mañaina-ta	45
 menus	45
@@ -1184,7 +1184,6 @@ sinsiyu	33
 jâgâ	33
 sais	33
 pinite	33
-n	33
 taduñg	33
 laymo	33
 mafanana	33
@@ -1196,6 +1195,7 @@ adahi	33
 u'usa	33
 lengguåhi	33
 taotao-ta	33
+uog	33
 gaigi	33
 many	33
 world	33
@@ -1227,7 +1227,6 @@ jalilis	32
 mamaela	32
 nii	32
 fuetsa	32
-uog	32
 pribeniyi	32
 eñglis	32
 humalum	32
@@ -1331,7 +1330,6 @@ matamo	29
 finapos	29
 hokog	29
 tano'-ta	29
-fa	29
 sigiente	29
 mañeluña	29
 corasonña	29
@@ -1479,7 +1477,6 @@ mandiquique	26
 pinasensia	26
 finatton	26
 elmundu	26
-adelanta	26
 trastes	26
 dibi	26
 futtunan	26
@@ -1536,6 +1533,7 @@ gacha	25
 atadogmo	25
 ayosija	25
 mañainata	25
+adelanta	25
 membro	25
 ramas	25
 famaguonta	25
@@ -1600,7 +1598,6 @@ papet	24
 sinparat	24
 nobia	24
 mihu	24
-mariånas	24
 adengjo	24
 diskuidun	24
 laña	24
@@ -1644,7 +1641,6 @@ manmåtto	24
 bihu	24
 mañaunau	24
 tiyan	24
-ay	24
 satbasionmo	24
 umaliligao	24
 inefresen	24
@@ -1680,6 +1676,7 @@ saith	24
 pulan	23
 monhayan	23
 listu	23
+mariånas	23
 fa'na'an	23
 mamaisen	23
 sañgan	23
@@ -1728,7 +1725,6 @@ ilek-na	23
 sanhiyong	23
 iyo-ña	23
 masusedi	23
-s	23
 adai	23
 todudu	23
 chanda	23
@@ -2049,7 +2045,6 @@ sueddu	18
 micronesia	18
 grupun	18
 mata	18
-miyas	18
 antau	18
 maskeseha	18
 ausiliu	18
@@ -2114,7 +2109,6 @@ siniente	18
 mama'tinas	18
 daily	18
 without	18
-class	18
 little	18
 kumunidåt	18
 publiko	18
@@ -2156,6 +2150,7 @@ gueku	17
 pasensiaye	17
 konsidedera	17
 cumuecuentos	17
+miyas	17
 matdision	17
 public	17
 pumega	17
@@ -2233,7 +2228,6 @@ program	17
 klas	17
 magi	17
 spirit	17
-chamorros	17
 story	17
 down	17
 entrega	17
@@ -2357,6 +2351,7 @@ mother	16
 hope	16
 maolekna	16
 receive	16
+chamorros	16
 want	16
 help	16
 fafana	16
@@ -2406,7 +2401,6 @@ estudia	15
 a'atan	15
 jinasoco	15
 anineng	15
-notte	15
 desdeki	15
 guaguaha	15
 sede	15
@@ -2491,6 +2485,7 @@ unibetsedåt	15
 setbi	15
 familia-ña	15
 kannai-ña	15
+class	15
 only	15
 version	15
 below	15
@@ -2578,7 +2573,6 @@ soñgsoñg	14
 hinatsan	14
 yayas	14
 ayuyu	14
-political	14
 publico	14
 nalibre	14
 esplikasion	14
@@ -2635,7 +2629,6 @@ lo	14
 talento	14
 iyo	14
 umagof	14
-yya	14
 etmas	14
 unalibre	14
 pacha	14
@@ -2730,6 +2723,7 @@ grupon	13
 historia	13
 dangkulo	13
 sobetbio	13
+notte	13
 dangkolo	13
 memegaiña	13
 ha'ilas	13
@@ -2750,6 +2744,7 @@ che'chu	13
 estadu	13
 namatman	13
 mayotmente	13
+political	13
 minagas	13
 tribunal	13
 umisao	13
@@ -2914,7 +2909,6 @@ nåna'i	13
 sumaunau	13
 gumubietnan	13
 mali	13
-ge	13
 tatiye	13
 sainata	13
 spake	13
@@ -3047,7 +3041,6 @@ taigui	12
 nahoñg	12
 assan	12
 full	12
-power	12
 ripot	12
 tumalaya	12
 ilek-hu	12
@@ -3289,6 +3282,7 @@ malesso	11
 båndan	11
 mamaisa	11
 hinasso-mu	11
+power	11
 fektus	11
 presiun	11
 inatuñgu	11
@@ -3598,7 +3592,6 @@ kareramu	10
 isao-ta	10
 sinó	10
 åcho	10
-st	10
 boysis	10
 kumahulu	10
 atburotu	10
@@ -3903,7 +3896,6 @@ kuentusisiyi	9
 tetset	9
 hawai'i	9
 macho'cho'cho	9
-th	9
 ayugue	9
 ya-na	9
 guinaiya-ku	9
@@ -3953,7 +3945,6 @@ atdit	9
 tåtnai	9
 tiningu	9
 chochu	9
-police	9
 asaguåhu	9
 sitbesa	9
 niman	9
@@ -4058,7 +4049,6 @@ inaligao	8
 unnalibre	8
 manjaspog	8
 magmata	8
-kadenan	8
 kuadrao	8
 brabu	8
 dumeskansa	8
@@ -4432,6 +4422,7 @@ manunu	8
 boi	8
 puedi	8
 kumbueni	8
+police	8
 fort	8
 oppi	8
 dafuntu	8
@@ -4563,6 +4554,7 @@ na'ma'ñao	7
 león	7
 umaalog	7
 tiyanña	7
+kadenan	7
 empottånte	7
 ihemplu	7
 katolisismu	7
@@ -4878,7 +4870,6 @@ chachagi	7
 mamomokkat	7
 danderu	7
 johnny	7
-area	7
 process	7
 hall	7
 division	7
@@ -4983,7 +4974,6 @@ ginasgas	7
 fañåga	7
 nginge	7
 lechen	7
-påra	7
 låmen	7
 hinemhom	7
 joy	7
@@ -5040,6 +5030,7 @@ orasion	7
 ñañgon	7
 matrimoniu	7
 sensura	7
+st	7
 judgment	7
 baban	7
 depattamentun	7
@@ -5296,7 +5287,6 @@ manmamananagüe	6
 jumujuyong	6
 tanga	6
 lebaduran	6
-suja	6
 jingog	6
 jamyoja	6
 dumingo	6
@@ -5571,7 +5561,6 @@ manggai	6
 kategoria	6
 kostumbren	6
 gådao	6
-ho	6
 fåtto	6
 tuna	6
 takhelo	6
@@ -5582,6 +5571,7 @@ manoppe	6
 bubu	6
 kamalen	6
 eppok	6
+area	6
 single	6
 famagu'on-miyu	6
 kombetsasion	6
@@ -5682,7 +5672,6 @@ kantot	6
 nobia-ña	6
 akompara	6
 fino'-ñiha	6
-giha	6
 photos	6
 already	6
 within	6
@@ -5806,7 +5795,6 @@ gasolina	6
 gangjeong	6
 mercy	6
 filled	6
-mountains	6
 poverty	6
 income	6
 supone	6
@@ -5864,7 +5852,6 @@ man-mofo	6
 malofan-yu	6
 amariyu	6
 dottrina	6
-se	6
 guennau	6
 ma-adelantan	6
 ekspressiun	6
@@ -6054,7 +6041,6 @@ orihinat	5
 mendiola	5
 dobladan	5
 bastus	5
-seha	5
 finaposhu	5
 angeles	5
 tumekun	5
@@ -6444,7 +6430,6 @@ forgive	5
 sure	5
 later	5
 change	5
-tv	5
 ega	5
 doesn't	5
 dagi	5
@@ -6744,10 +6729,8 @@ fåttu	5
 fañaonao	5
 kalamasa	5
 elementary	5
-william	5
 sigenti	5
 kåndit	5
-hot	5
 dog	5
 services	5
 agofli'e	5
@@ -6845,6 +6828,7 @@ pupulu	5
 man-mamadedese	5
 pie	5
 pininiti	5
+mountains	5
 valley	5
 waters	5
 buettas	5
@@ -6925,7 +6909,6 @@ chachalaña	5
 man-afaisen	5
 bendisioña	5
 mañgu	5
-ineppi	5
 gañg	5
 prinipone	5
 depattamentu	5
@@ -7706,7 +7689,6 @@ enimigoñija	4
 pinalaemo	4
 junamalag	4
 papapa	4
-sat	4
 mangugupo	4
 guijilo	4
 cumumple	4
@@ -7798,7 +7780,6 @@ nina'en	4
 kinalamten-ña	4
 franela	4
 tuma'lo	4
-michael	4
 robert	4
 honño	4
 lujan	4
@@ -7957,7 +7938,6 @@ pinilakes	4
 laknos	4
 sindalun	4
 bisinun	4
-july	4
 manali'e	4
 kuentos-ña	4
 mumaigo	4
@@ -7998,7 +7978,6 @@ types	4
 negative	4
 understood	4
 capable	4
-sit	4
 accept	4
 continue	4
 kontiempo	4
@@ -8093,7 +8072,6 @@ daughter	4
 chamoruyi	4
 karera-ta	4
 guinaiyan-ñiha	4
-ñiha	4
 science	4
 estutudia	4
 mundu	4
@@ -8154,6 +8132,7 @@ maestru	4
 mrs	4
 kandi	4
 infan	4
+william	4
 lalåtdi	4
 bidåña	4
 mamopbli	4
@@ -8327,7 +8306,6 @@ antigo	4
 eksu	4
 er	4
 edu	4
-mass	4
 releases	4
 polynesia	4
 purple	4
@@ -8456,6 +8434,7 @@ futtunata	4
 mesñgun	4
 luye	4
 pumadedesi	4
+ineppi	4
 kritikat	4
 tafafana	4
 tulus	4
@@ -8664,7 +8643,6 @@ generations	4
 generation	4
 shalt	4
 sleep	4
-ñija	4
 liyañg	4
 nisisidad	4
 legs	4
@@ -8714,7 +8692,6 @@ okupansian	4
 mafakcha	4
 kompletu	4
 atkilante	4
-påt	4
 tinenete	4
 kabalis	4
 tathetan	4
@@ -9531,7 +9508,6 @@ ogsoña	3
 magmatayo	3
 unyamag	3
 umason	3
-jo	3
 juguaguato	3
 yamo	3
 finitme	3
@@ -9802,6 +9778,7 @@ i-mel	3
 senmaolek	3
 dennis	3
 malakngos	3
+michael	3
 kandidåton	3
 ge'hilu'i	3
 pinekka	3
@@ -10042,6 +10019,7 @@ na'listo	3
 review	3
 hagga-hu	3
 konfrensia	3
+july	3
 kumetu	3
 umakuentusi	3
 essitan	3
@@ -10058,7 +10036,6 @@ linemlem	3
 sinembåtgo	3
 sinieñte	3
 alberto	3
-au	3
 cartoon	3
 letter	3
 spend	3
@@ -10070,7 +10047,6 @@ kamyo	3
 mccain	3
 fino'-na	3
 phrase	3
-senator	3
 basketball	3
 trini	3
 hagatna	3
@@ -10480,7 +10456,6 @@ ilek-niha	3
 kina	3
 fina'an	3
 pulitika	3
-mag	3
 store	3
 tingu	3
 chargualaf	3
@@ -10531,7 +10506,6 @@ desgrasiao	3
 na'libre	3
 muna'i	3
 doug	3
-ag	3
 nina'e	3
 prinitehen	3
 elektrisidåt	3
@@ -10586,7 +10560,6 @@ maestudiayi	3
 secret	3
 muna'annok	3
 deklara	3
-sam	3
 parehu-ña	3
 åño	3
 brings	3
@@ -10695,8 +10668,6 @@ bay	3
 obtained	3
 sky	3
 administration	3
-lagun	3
-sa'ipan	3
 mineddong-ña	3
 nps	3
 grazing	3
@@ -10949,7 +10920,6 @@ halulaye	3
 man-inaminasa	3
 despedida	3
 manlosus	3
-mo	3
 fatañgaye	3
 establesau	3
 mahutu	3
@@ -11004,7 +10974,6 @@ man-masusesede	3
 ma-u	3
 maputa	3
 rimulinon	3
-mv	3
 tarugu	3
 umadulalag	3
 ginatdun	3
@@ -11185,7 +11154,6 @@ manafa'maolek	3
 koru	3
 mandaton	3
 babarias	3
-sta	3
 man-siña	3
 spam	3
 mongolia	3
@@ -11224,7 +11192,6 @@ man-mamaisen	3
 seksiona	3
 kuattun	3
 mañgi	3
-ngai	3
 areglau	3
 man-malañgo	3
 finalagon	3
@@ -11238,7 +11205,6 @@ liñguahi-hu	3
 daibitis	3
 hinegsi	3
 invite	3
-malinau	3
 sottan	3
 barandan	3
 satgen	3
@@ -11350,8 +11316,6 @@ sayest	3
 seat	3
 scripture	3
 title	3
-gao	3
-pet	3
 satmon	3
 input	3
 agat	3
@@ -11382,6 +11346,7 @@ fåkto	3
 atgumento	3
 mankristiånu	3
 guardian	3
+mass	3
 users	3
 malagajes	3
 rikurso	3

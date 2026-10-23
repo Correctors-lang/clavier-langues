@@ -1,38 +1,38 @@
 # Kriyòl gwiyanè : FineWeb-2 gcr_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
 di	9323
-ka	5121
-ki	3954
-sa	3353
-roun	2847
-é	2160
-dé	2156
-ké	2120
-pa	1924
+ka	5119
+ki	3950
+sa	3352
+roun	2845
+é	2155
+dé	2153
+ké	2119
+pa	1923
 so	1649
-an	1481
-à	1348
+an	1479
+à	1347
 pou	1271
-yé	1166
-li	1162
+yé	1165
+li	1158
 annan	1125
 té	1035
-nou	1008
-oun	940
-oben	893
-o	817
+nou	1007
+oun	939
+oben	891
+o	816
 kò	805
 i	752
-asou	660
-a	610
+asou	658
+a	612
 fè	599
-pouvé	465
+pouvé	464
 kou	435
 pli	424
 moun	397
 tout	388
 gen	360
-mo	296
+mo	294
 fika	287
 atè	251
 ou	248
@@ -42,15 +42,15 @@ koté	232
 menm	226
 osi	225
 syèk	225
-lò	217
+lò	215
 ròt	208
 ant	201
 mè	188
 pronmyé	182
-mé	172
 pran	172
 épi	172
 si	171
+mé	171
 wè	171
 de	165
 san	161
@@ -61,22 +61,22 @@ byen	147
 lannen	146
 anba	146
 don	144
-dézigné	142
+dézigné	141
 la	140
 lé	136
 zòt	136
 aplé	134
 ansanm	131
 jouk	131
-bondjé	127
 kont	126
+bondjé	125
 itilizé	124
 tan	123
 nonm	122
 divèt	119
 dipi	119
-ensi	119
 to	118
+ensi	118
 parti	117
 vini	116
 mouri	108
@@ -86,7 +86,7 @@ lanng	104
 nò	103
 égalman	103
 politik	102
-mété	101
+mété	100
 palé	100
 soulon	100
 plizyò	97
@@ -104,11 +104,11 @@ défini	89
 rivé	88
 bò'd	88
 sitchwé	88
-alò	88
 sé	87
 divini	87
 lanmè	87
 ègzisté	87
+alò	87
 konstitchwé	87
 travay	86
 jéova	86
@@ -124,12 +124,12 @@ pi	82
 konsidéré	82
 bon	81
 pyès	80
-sèrten	78
 énèrji	78
 monn	78
-latè	77
+sèrten	77
 koumansman	77
 sasé	76
+latè	76
 pas	76
 trouvé	76
 viv	75
@@ -145,13 +145,13 @@ frè	71
 konpozé	71
 lyé	71
 ganyen	70
-anvan	70
 piti	70
 pannan	70
 lakèl	70
 prodjwi	70
 kour	70
 konprann	69
+anvan	69
 sosyal	69
 grann	69
 òkò	69
@@ -192,10 +192,10 @@ fason	58
 listwè	58
 trwa	58
 sosyété	58
-jézi	58
 fransé	57
 toujou	57
 jòdla	57
+jézi	57
 lèspès	57
 mouvman	56
 matématik	56
@@ -222,7 +222,6 @@ aparèt	52
 lalwa	51
 mwayen	51
 popilasyon	51
-e	51
 laj	51
 né	51
 lan	50
@@ -323,7 +322,6 @@ ouben	36
 des	36
 larj	36
 atlantik-a	36
-tèrm-an	36
 mwen	36
 domenn	36
 nonbréz	36
@@ -337,8 +335,8 @@ partikil	35
 endividi	35
 korèsponn	35
 atchwèl	35
+tèrm-an	35
 téyori	35
-men	34
 trapé	34
 pé	34
 ti	34
@@ -351,6 +349,7 @@ légliz	34
 matchè	34
 nosyon-an	34
 senk	33
+men	33
 kréyòl	33
 pèp	33
 rousouvwè	33
@@ -360,7 +359,6 @@ sèrvis	33
 asosyé	33
 lòské	33
 koumin	33
-kouran	33
 senp	33
 lwès	33
 janr	33
@@ -371,6 +369,7 @@ arété	32
 matéryèl	32
 milyé	32
 rapò	32
+kouran	32
 prézanté	32
 konsèp	32
 sours	32
@@ -389,7 +388,6 @@ mové	30
 lésé	30
 kapital	30
 piblik	30
-jen	30
 danbwa	30
 chèf	30
 divèrs	30
@@ -412,6 +410,7 @@ pitèt	29
 tchenbé	29
 manjé	29
 tiré	29
+jen	29
 bèl	29
 ès	29
 dékouvri	29
@@ -420,7 +419,6 @@ sit	29
 détèrminé	29
 sirfas	29
 enstalé	29
-obténi	29
 m	29
 koumin-an	29
 étid	29
@@ -429,6 +427,7 @@ mouché	28
 timoun	28
 lanmizik	28
 posib	28
+obténi	28
 otour	28
 sipèrfisi	28
 réjyon-an	28
@@ -535,7 +534,6 @@ modèl	23
 éropéyen	23
 frwi	23
 istwè	23
-réyalizé	23
 lékòl	23
 asiré	23
 fòs	23
@@ -570,6 +568,7 @@ rakaba	22
 monn-an	22
 limit	22
 lign	22
+réyalizé	22
 èspliké	22
 enfòrmasyon	22
 asé	22
@@ -590,7 +589,6 @@ apartni	22
 òbténi	22
 enpòrtant	22
 enstitisyon	22
-izaj	22
 rwayom	22
 rézo	22
 réjim	22
@@ -635,6 +633,7 @@ laswit-a	21
 karaktéristik	21
 li-menm	21
 échanj	21
+izaj	21
 opérasyon	21
 présyon	21
 aparèy	21
@@ -642,7 +641,6 @@ lèspas-a	21
 priz	21
 soultan-an	21
 zot	20
-out	20
 dézyenm	20
 rantré	20
 janvyé	20
@@ -680,6 +678,7 @@ pyé	19
 chwézi	19
 gangnen	19
 lokal	19
+out	19
 problenm	19
 moso	19
 plato	19
@@ -721,11 +720,9 @@ dinasti-a	19
 péi	18
 konséy	18
 sis	18
-jwiyé	18
 tèt	18
 lapè	18
 kaz	18
-atò	18
 pyébwa	18
 moman	18
 kontak	18
@@ -766,6 +763,7 @@ batay-a	18
 ibn	18
 mal	17
 janmen	17
+jwiyé	17
 brézil	17
 gro	17
 èkzanp	17
@@ -773,6 +771,7 @@ larout	17
 laro	17
 zouti	17
 anyen	17
+atò	17
 pour	17
 nimérik	17
 vyé	17
@@ -802,7 +801,6 @@ fondatò	17
 élémantèr	17
 tèks	17
 atomik	17
-ésansyèlman	17
 majò	17
 prè	17
 katib	17
@@ -829,7 +827,6 @@ aji	16
 chaché	16
 répons	16
 késyon	16
-lavi-a	16
 antouré	16
 plak	16
 batizé	16
@@ -861,6 +858,7 @@ popilèr	16
 tanpératir	16
 litérèr	16
 vizé	16
+ésansyèlman	16
 sibstans	16
 tablo	16
 entèrvini	16
@@ -884,6 +882,7 @@ pwé	15
 propozé	15
 kantik	15
 enstriman	15
+lavi-a	15
 dat	15
 prémyé	15
 fanmi-a	15
@@ -920,7 +919,6 @@ lòrganism	15
 minéral	15
 anglétèr	15
 matématisyen	15
-dit	15
 sò	15
 milénèr	15
 anprò	15
@@ -929,7 +927,6 @@ katibaj-a	15
 troup	15
 sa-la	15
 lontan	14
-pésonn	14
 déplasé	14
 fwè-a	14
 miyò	14
@@ -983,7 +980,6 @@ entérésé	14
 enpliké	14
 fourni	14
 lafwa	14
-s	14
 divèr	14
 rélijyéz	14
 jéyométrik	14
@@ -1002,17 +998,16 @@ dispozitif	14
 régné	14
 dèstiné	14
 ankourajé	14
-jan	14
 charles	14
 rwayom-an	14
 mongol-ya	14
 jijé	14
 toupatou	13
+pésonn	13
 yan	13
 rézilta	13
 dépasé	13
 profité	13
-do	13
 disan	13
 gouvèlman	13
 kozé	13
@@ -1042,7 +1037,6 @@ nésans	13
 kourt	13
 une	13
 jéyografik	13
-komèrs	13
 xviie	13
 katolik	13
 annglé	13
@@ -1056,6 +1050,7 @@ mantal	13
 soumèt	13
 pir	13
 koumansman-an	13
+s	13
 syans-a	13
 filozòf	13
 dévlopman-an	13
@@ -1068,7 +1063,6 @@ ménasé	13
 matchè-a	13
 òktòb	13
 akonpagné	13
-palò-a	13
 entèrn	13
 onn	13
 ranplasé	13
@@ -1079,7 +1073,6 @@ analiz	13
 gouvèlnò	13
 musulman	13
 syèj	13
-vi	13
 prizonnyé	13
 vasal	13
 tronn-an	13
@@ -1099,8 +1092,6 @@ désanm	12
 viré	12
 touché	12
 anvi	12
-févriyé	12
-h	12
 limyè	12
 artik-a	12
 vidéyo	12
@@ -1128,9 +1119,9 @@ térès-a	12
 pis	12
 anniyèl	12
 mwéyen	12
-y	12
 kréyasyon	12
 koulò	12
+komèrs	12
 sézon	12
 lapli	12
 kapital-a	12
@@ -1143,7 +1134,6 @@ lalwa-a	12
 lòrgann	12
 kontèks	12
 lansé	12
-da	12
 réyonnman	12
 léta-a	12
 konsouvwè	12
@@ -1199,6 +1189,7 @@ jwenn	11
 pon	11
 richès	11
 sèt	11
+févriyé	11
 éséyé	11
 féy	11
 nèt	11
@@ -1226,6 +1217,7 @@ ostral-a	11
 pasaj-a	11
 parti-a	11
 zétwèl	11
+y	11
 plus	11
 nòv	11
 sèk	11
@@ -1251,7 +1243,6 @@ izaj-a	11
 fénomèn	11
 entélèktchwèl	11
 rédjwi	11
-sèptanm	11
 détrwi	11
 itilizasyon	11
 endividjwèl	11
@@ -1303,6 +1294,7 @@ sanblé	10
 réjyonal	10
 minis	10
 volonté	10
+e	10
 anlè	10
 dapré	10
 désizyon	10
@@ -1344,7 +1336,6 @@ maren	10
 apèl	10
 diférans	10
 lakot	10
-rousours	10
 internet	10
 ce	10
 vie	10
@@ -1378,7 +1369,6 @@ sans-a	10
 sof	10
 laltitid	10
 mentni	10
-rousouvè	10
 èspilké	10
 blanng	10
 batiman	10
@@ -1388,6 +1378,7 @@ artis	10
 ouvraj	10
 ariane	10
 èstatistik	10
+sèptanm	10
 léchèk	10
 lar-a	10
 débi	10
@@ -1432,6 +1423,7 @@ péryodik	10
 konstant	10
 rasyonèl	10
 asyéjé	10
+jan	10
 sèrk	10
 philippe	10
 ronm	10
@@ -1491,6 +1483,7 @@ niyaj	9
 figiré	9
 frèt	9
 trété-a	9
+rousours	9
 avec	9
 ne	9
 klas	9
@@ -1522,6 +1515,7 @@ sélès	9
 magnétik	9
 tay	9
 djamèt	9
+rousouvè	9
 and	9
 okèl	9
 ive	9
@@ -1565,8 +1559,8 @@ fizisyen	9
 apòrté	9
 bronz	9
 vapò	9
+palò-a	9
 ranpli	9
-x	9
 asasiné	9
 nil	9
 entéryò	9
@@ -1686,7 +1680,6 @@ dékouvèrt-a	8
 èsploratò	8
 déroulé	8
 timoun-yan	8
-kan	8
 jéyopolitik	8
 kannanda	8
 malgré	8
@@ -1708,7 +1701,6 @@ rio	8
 roulévé	8
 proksimité	8
 planèt-a	8
-novanm	8
 ro	8
 òbjèktif	8
 pèrsonèl	8
@@ -1731,7 +1723,6 @@ kapasité	8
 nésans-a	8
 kontrol	8
 lafizé-a	8
-kad	8
 konsomé	8
 enféryò	8
 tansyon	8
@@ -1769,6 +1760,7 @@ mwayenn	8
 markè-palò	8
 kouran-an	8
 propriyété-ya	8
+x	8
 amériken	8
 kriz	8
 réyisi	8
@@ -1805,7 +1797,6 @@ vòl	8
 èspasyal-a	8
 tèkstil	8
 roura	8
-ma	8
 chouval	8
 fòrsé	8
 bizanten-an	8
@@ -1880,7 +1871,6 @@ vizité	7
 enkonnèt	7
 diférans-a	7
 aljèb-a	7
-p	7
 glòb	7
 via	7
 jéyografi	7
@@ -1958,6 +1948,7 @@ kontrol-a	7
 éliminé	7
 aparisyon-an	7
 polèr	7
+novanm	7
 réklanmen	7
 mòd	7
 rò	7
@@ -2191,7 +2182,6 @@ but	6
 lidé-a	6
 imilité	6
 toupiti	6
-co	6
 bangn	6
 ékwatoryal	6
 enposib	6
@@ -2258,6 +2248,7 @@ satélit-ya	6
 èstabilité	6
 èstasyon	6
 kanpangn	6
+h	6
 enstitisyonèl	6
 koòrdoné	6
 kondjwit	6
@@ -2273,7 +2264,6 @@ zann	6
 koutim	6
 endépandant	6
 réflèksyon	6
-langaj-a	6
 véso	6
 péryòd-a	6
 krwasant	6
@@ -2378,7 +2368,6 @@ tandans	6
 pèrsonnaj	6
 penn	6
 lanmizik-a	6
-limyèr-a	6
 cook	6
 lenn-an	6
 sentéli	6
@@ -2528,7 +2517,6 @@ maren-yan	5
 ouvri	5
 pétròl	5
 kontinantal-a	5
-sab	5
 fòk	5
 dépo	5
 mes	5
@@ -2538,6 +2526,7 @@ facebook	5
 lannen-an	5
 lantrépriz-ya	5
 twèl	5
+co	5
 lagwiyàn	5
 anmanzonnyen	5
 kolonnizasyon-an	5
@@ -2643,6 +2632,7 @@ bénéfis	5
 permèt	5
 difizyon	5
 komin	5
+langaj-a	5
 èstratéji	5
 koré	5
 nòrmalman	5
@@ -2732,7 +2722,6 @@ défòrmasyon	5
 répété	5
 gouvèlman-an	5
 tay-a	5
-douméré	5
 abòrdé	5
 fil	5
 adiksyon	5
@@ -2757,7 +2746,6 @@ adisyon	5
 xiie	5
 maskarengn	5
 lékonnonmi	5
-konsidérab	5
 nivèl	5
 zimaj-a	5
 konfondou	5
@@ -2824,6 +2812,7 @@ soukour	5
 adisyon-an	5
 ×	5
 élèktrik-a	5
+limyèr-a	5
 dra	5
 limitròf-ya	5
 kapitenn	5
@@ -2884,7 +2873,6 @@ malik	5
 simon	5
 lajwa	5
 vérité	5
-filip	5
 péché-a	5
 faché	5
 loto-a	5
@@ -3375,6 +3363,7 @@ vòlkan	4
 jéyoloji	4
 néyanmwen	4
 progré	4
+konsidérab	4
 tèks-ya	4
 imajri	4
 étimolojikman	4
@@ -3387,7 +3376,6 @@ ilistré	4
 sémantik	4
 santé-a	4
 afèkté	4
-kri	4
 sibmaren	4
 ris	4
 fron	4
@@ -3409,6 +3397,7 @@ frékant	4
 dout	4
 opéré	4
 vèrtébré	4
+douméré	4
 trajédi-a	4
 lapriyè-a	4
 domèstiké	4
@@ -3672,7 +3661,6 @@ bontchô	3
 lovri	3
 bét	3
 pès	3
-kré	3
 santim	3
 birman-an	3
 militér-a	3
@@ -3774,7 +3762,6 @@ piski	3
 ses	3
 konyen	3
 révolisyonèr	3
-ho	3
 lign-an	3
 méridjen	3
 lokalizasyon	3
@@ -3822,7 +3809,6 @@ bénéfisyé	3
 entégrasyon	3
 outils	3
 votre	3
-hz	3
 départman-an	3
 lokalizé	3
 kafé	3
@@ -3883,7 +3869,6 @@ koopérasyon	3
 davantaj	3
 chasò-kéyò	3
 enplanté	3
-sou	3
 tègtonnik	3
 létap	3
 doumòré	3
@@ -3915,7 +3900,6 @@ rédaksyon	3
 profésyonèl	3
 mayòt	3
 rich-ya	3
-potri	3
 maronni	3
 karayb	3
 chanté-a	3
@@ -4036,7 +4020,6 @@ robo	3
 komèstib	3
 glann	3
 risk-a	3
-domèstik	3
 kréyatò	3
 dròg	3
 byochimik	3
@@ -4170,7 +4153,6 @@ arbitrèr	3
 plastisité	3
 présizyon	3
 vèrtébré-ya	3
-zo	3
 radjasyon	3
 simétri	3
 èsépsyon	3
@@ -4211,7 +4193,6 @@ délivré	3
 byodivèrsité	3
 entansiv	3
 lékòs	3
-gal	3
 lirlann	3
 nòlwès	3
 britangn	3
@@ -4336,7 +4317,6 @@ protozoèr	3
 térès-ya	3
 granmèr	3
 lokitò	3
-ié	3
 skiltò	3
 kosmoloji-a	3
 tanjib	3
@@ -4514,7 +4494,6 @@ kouto	3
 manch	3
 brit	3
 bou	3
-ron	3
 témwagné	3
 alimantèr	3
 tropik	3
@@ -4787,7 +4766,7 @@ dispité	3
 fèstival	3
 kréòl	3
 réfizé	3
-natanayèl	3
+filip	3
 profèt-ya	3
 kanmza	3
 bois	3

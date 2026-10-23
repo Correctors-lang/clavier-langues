@@ -1,20 +1,21 @@
 # Bigrammes guc (FineWeb-2 guc_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-de	la	682
+de	la	681
 en	el	340
 chi	maleiwakai	295
 sünain	tü	256
 de	los	247
 tü	kasa	243
-en	la	240
+en	la	239
 a	la	206
+naa	wayuukana	195
 sulu'u	tü	194
-maa	aka	193
 otta	müsia	191
-na	wayuukana	163
+maa	aka	189
+na	wayuukana	162
 wayuu	eekai	162
-wanaa	sümaa	156
 de	las	155
+wanaa	sümaa	154
 tü	mmakat	151
 tü	wiwüliakat	141
 namüin	na	140
@@ -25,7 +26,7 @@ sic	gov	133
 shia	tü	132
 sümaa	tü	123
 na	wayuu	119
-gov	co	119
+gov	co	118
 a	los	114
 sutuma	tü	111
 wane	kasa	105
@@ -39,11 +40,11 @@ con	el	92
 nütüma	maleiwa	91
 namüin	naa	91
 otta	tü	90
-chi	wayuu	90
 nümüin	maleiwa	88
 wanee	kasa	88
 tü	makaa	87
 nütüma	chi	86
+chi	wayuu	86
 jee	müsia	86
 süpüshua	tü	85
 naa	wayuu	85
@@ -60,14 +61,14 @@ en	las	73
 namaa	na	72
 por	la	70
 na	anoujashiikana	70
-anakaja	müleka	70
 sünain	anoujaa	69
+anakaja	müleka	69
 la	guajira	68
 sümüin	tü	68
 municipio	guajira	68
 u	tü	67
-en	los	66
 jee	siia	66
+en	los	65
 naa'inkai	maleiwa	64
 maleiwa	süpüla	63
 wayuu	süpüshua	63
@@ -76,6 +77,7 @@ awalakajütkat	pütchi	61
 tü	wayuu	60
 u	tüü	60
 pütchi	wattapüna	60
+tü	naa'inrakat	59
 nümaa	maleiwa	59
 suulia	tü	59
 natuma	naa	59
@@ -109,7 +111,6 @@ chi	o'tte'erüikai	46
 je	sünain	46
 de	su	46
 es	el	46
-chi	eekai	46
 suluʼu	tü	46
 wanee	pütchi	46
 que	los	45
@@ -122,6 +123,7 @@ maa'ulu	yaa	44
 wayuu	süpüla	44
 a	su	44
 otta	na	44
+chi	eekai	44
 sunain	tü	44
 yaa	wajiira	44
 je	süka	43
@@ -153,10 +155,10 @@ a	sus	39
 chi	wasenyotsekai	39
 ipa	tüu	39
 la	opción	39
-je	tü	38
 tü	nuluwataakat	38
 la	superintendencia	38
 maleiwa	sünain	37
+je	tü	37
 en	este	37
 wayuu	jee	37
 sünain	aküjaa	37
@@ -206,6 +208,7 @@ industria	y	33
 que	nos	32
 de	manera	32
 sulu'u	mmakat	32
+pia	sünain	32
 shia	wane	32
 tü	wayuukolüirua	31
 wayuu	y	31
@@ -227,7 +230,6 @@ wayuu	tü	30
 taya	sünain	30
 chi	tashikai	30
 tü	alijunaka	30
-tü	wopukoo	30
 na	ekirajüliikana	29
 naa'in	na	29
 sulu'umüin	tü	29
@@ -240,11 +242,10 @@ tü	pueulokat	29
 siia	tü	29
 eke	ein	29
 número	de	29
-je	müleka	29
 correo	electrónico	29
 na	alijunaka	29
 saa'in	tü	29
-troncal	del	29
+tü	wopukoo	29
 tüü	awalakajütkat	29
 aa'ulu	sünain	28
 mmakat	süpüshua	28
@@ -255,6 +256,7 @@ ma'i	nia	28
 jee	müsüja	28
 de	datos	28
 las	familias	28
+troncal	del	28
 anaataa	anüliaa	28
 müin	sain	27
 es	un	27
@@ -266,15 +268,12 @@ sus	datos	27
 pueblo	wayuu	27
 nütüma	süpüla	27
 competencia	desleal	27
-otta	chi	26
 je	na	26
 sünain	anain	26
-soto	jaa'in	26
 la	universidad	26
 y	que	26
 que	en	26
 de	trabajo	26
-es	una	26
 a	partir	26
 soo'opünaa	tü	26
 washikai	maleiwa	26
@@ -282,6 +281,7 @@ la	entidad	26
 na	nikirajüinkana	26
 de	colombia	26
 shia	eere	26
+je	müleka	26
 registro	de	26
 del	pueblo	26
 las	autoridades	26
@@ -291,6 +291,7 @@ aküjaa	nüchiki	26
 tü	pütchikat	25
 aka	naa'in	25
 sümaa	nünüiki	25
+es	una	25
 maleiwa	je	25
 anoujaa	nünain	25
 nünain	chi	25
@@ -298,7 +299,6 @@ la	cultura	25
 tü	palaakat	25
 suulia	kaainjalaa	25
 namaa	naa	25
-in	the	24
 pütchi	nüchiki	24
 tü	outkajaaleekat	24
 eesü	tü	24
@@ -322,16 +322,18 @@ la	solicitud	24
 delegatura	para	24
 desleal	y	24
 y	propiedad	24
+in	the	23
+otta	chi	23
 sünain	alawaa	23
 sukuaippa	tü	23
 saainjala	wayuu	23
+soto	jaa'in	23
 wamüin	tü	23
 con	los	23
 maleiwa	süka	23
 anain	tü	23
 tü	alatakat	23
 waya	nümaa	23
-watüjaa	aa'ulu	23
 süka	jamüin	23
 saa'u	sünain	23
 nia	sünain	23
@@ -362,7 +364,6 @@ de	este	22
 por	las	22
 los	wayuu	22
 wanaa	nümaa	22
-tü	karaloukta	22
 jia	nütüma	22
 müshii	aka	22
 sükajee	tia	22
@@ -398,10 +399,10 @@ partir	de	21
 joolu'u	jümüin	21
 anaka	alu'u	21
 waya	suulia	21
-wainma	wayuu	21
 los	derechos	21
 los	habitantes	21
 aküjaa	pütchi	21
+tü	karaloukta	21
 müleka	nnojorule	21
 na	laülaashii	21
 sumüin	wayuu	21
@@ -416,7 +417,6 @@ esta	situación	21
 tü	mmakaa	21
 el	operador	21
 süpüshi	tü	20
-je	saa'u	20
 sünain	kasa	20
 otta	wane	20
 sümaa	tia	20
@@ -435,6 +435,7 @@ derechos	humanos	20
 protección	de	20
 en	una	20
 shiain	tü	20
+wainma	wayuu	20
 sainküin	mma	20
 siia	eke	20
 el	sistema	20
@@ -452,6 +453,7 @@ saa'in	tamüin	20
 shia	wanee	19
 napüla	na	19
 eesü	wane	19
+je	saa'u	19
 nüchekakat	chi	19
 chi	maleiwa	19
 jaa'in	tü	19
@@ -469,6 +471,7 @@ na	wayukana	19
 natüma	naa	19
 süka	nnojolüin	19
 na	manoujainsaliikana	19
+watüjaa	aa'ulu	19
 so'u	tü	19
 tü	mojusükat	19
 de	servicios	19
@@ -476,7 +479,6 @@ tü	shiimainkat	19
 otta	eesü	19
 watta	saalii	19
 na	wawalayuu	19
-je	maa	19
 todas	las	19
 sukuwaipa	tü	19
 tü	mmaka	19
@@ -496,7 +498,6 @@ anain	waya	18
 sünain	nnojolüin	18
 namüin	tü	18
 naa'in	chi	18
-otta	müshia	18
 süpüla	ouktaa	18
 aa'u	sünain	18
 wayuu	wainma	18
@@ -519,6 +520,7 @@ watüjaa	aa'uchi	18
 süka	shiain	18
 eesü	eekai	18
 sünain	ekirajaa	18
+je	maa	18
 shiia	tü	18
 con	sus	18
 si	la	18
@@ -531,7 +533,6 @@ medio	de	18
 viven	en	18
 jee	wayuu	18
 manifestó	que	18
-del	caribe	18
 de	forma	18
 wanee	karalo	18
 tüü	karalo	18
@@ -539,6 +540,7 @@ sain	tü	17
 tü	shiimüin	17
 chakat	iipünaa	17
 cristo	sünain	17
+otta	müshia	17
 tü	nüküjakat	17
 tü	karalouktakat	17
 jia	süpüla	17
@@ -580,7 +582,6 @@ puede	ser	17
 que	las	17
 que	esta	17
 süka	wayuunaiki	17
-habitantes	de	17
 la	situación	17
 los	docentes	17
 natuma	wayuu	17
@@ -589,7 +590,7 @@ taya	nütüma	17
 jaa'u	nümüin	17
 naya	nütüma	17
 en	materia	17
-la	troncal	17
+del	caribe	17
 y	servicios	17
 naciones	unidas	17
 upuna	tüü	17
@@ -647,10 +648,12 @@ el	siguiente	16
 aka	jamüin	16
 instituciones	educativas	16
 llamado	a	16
+habitantes	de	16
 cuando	el	16
 mainma	kasa	16
 ma'i	naya	16
 achuntüshi	taya	16
+la	troncal	16
 la	competencia	16
 tüu	pütchikat	16
 para	asuntos	16
@@ -702,7 +705,6 @@ se	debe	15
 sus	casas	15
 porque	el	15
 el	valor	15
-situación	que	15
 el	tiempo	15
 cristo	jesús	15
 wane	anaa	15
@@ -770,6 +772,7 @@ los	últimos	14
 las	instituciones	14
 por	los	14
 jee	parouja	14
+situación	que	14
 tü	e'irukuuka	14
 mma	eekai	14
 el	llamado	14
@@ -806,7 +809,6 @@ nünain	jesucristo	13
 nanüiki	na	13
 alin	waya	13
 alin	ma'i	13
-shiimüin	tü	13
 servicios	de	13
 y	sus	13
 pikirajaa	sünain	13
@@ -887,7 +889,6 @@ to	be	12
 por	su	12
 sus	hijos	12
 también	se	12
-otta	süka	12
 que	tiene	12
 waya	chi	12
 müleka	ayatüle	12
@@ -897,9 +898,11 @@ süka	niain	12
 nüchooin	waya	12
 aka	waya	12
 süka	alin	12
+kasa	anasükat	12
 waa'in	sünain	12
 ma'i	chi	12
 saa'u	mmakat	12
+shiimüin	tü	12
 oo'ulaka	tü	12
 de	nuestro	12
 el	departamento	12
@@ -982,7 +985,6 @@ sünain	mojuin	11
 sünain	nnojoliin	11
 tü	nnojotkat	11
 shia	sünain	11
-sünain	nümüin	11
 naapajiraain	nikii	11
 tüü	pütchi	11
 tüü	kasa	11
@@ -994,6 +996,7 @@ sobre	el	11
 que	me	11
 o	en	11
 la	misma	11
+otta	süka	11
 süka	wane	11
 je	sükajee	11
 sünain	kaainjalaa	11
@@ -1042,7 +1045,6 @@ el	botón	11
 eere	nuluwataain	11
 paa'in	sünain	11
 naya	suulia	11
-je	nümüin	11
 para	ello	11
 organización	de	11
 naa	a	11
@@ -1098,6 +1100,7 @@ yaa	mmolu'u	10
 tü	palajatkat	10
 aka	tia	10
 saa'u	waainjala	10
+sünain	nümüin	10
 anuu	tü	10
 nümüin	süpüla	10
 pienchi	shikii	10
@@ -1124,7 +1127,6 @@ sünain	wayuuin	10
 ma'i	jaa'in	10
 tü	piyuushikat	10
 jia	anoujashiikana	10
-tashajüin	joolu'u	10
 tü	tashajakat	10
 tia	pütchikat	10
 müsü	aka	10
@@ -1193,7 +1195,6 @@ süpüla	o'unaa	10
 dentro	del	10
 palabras	que	10
 chaa	wajiira	10
-anata'aleeshiija'a	ma'i	10
 tü	tamakat	10
 cumplimiento	de	10
 comité	de	10
@@ -1246,6 +1247,7 @@ tü	nanoulakat	10
 tatüjaa	aa'uchi	10
 na	puwalayuukana	10
 jóvenes	y	10
+je	nümüin	10
 ekirajaa	sünain	10
 taa'in	sünain	10
 anasü	saa'in	10
@@ -1256,7 +1258,6 @@ wayuu	laülaayuu	10
 sulu'u	wanee	10
 de	octubre	10
 para	exigir	10
-ain	tü	10
 espacio	seguro	10
 eesu	lapü	10
 la	oficina	10
@@ -1310,6 +1311,7 @@ en	bogotá	9
 joolu'u	tü	9
 je	wanaa	9
 waa'in	nümaa	9
+tashajüin	joolu'u	9
 anain	wayuu	9
 chi	kama'üraikai	9
 wayuu	naatajatü	9
@@ -1424,7 +1426,6 @@ wayuu	sümüin	9
 so'u	ka'ikat	9
 los	representantes	9
 la	presentación	9
-durante	los	9
 tü	atijaakaa	9
 sou	juyakaa	9
 tü	juyaka	9
@@ -1456,6 +1457,7 @@ de	cine	9
 y	video	9
 la	obligación	9
 nanülia	naa	9
+ain	tü	9
 un	proceso	9
 sujutu	tü	9
 suulia	süchepchiaa	9
@@ -1486,7 +1488,6 @@ examen	de	9
 tüu	supuleekat	9
 competencia	económica	9
 tü	makaá	8
-anashii	müleka	8
 atuma	tü	8
 paala	nütüma	8
 wamüin	sünain	8
@@ -1536,7 +1537,6 @@ maleiwa	paala	8
 naalii	na	8
 süpüla	jütüjaainjatüin	8
 jütüjaainjatüin	saa'u	8
-müleka	aire	8
 kataiwa'aya	wo'u	8
 je	nnojotsü	8
 maleiwa	wanaa	8
@@ -1776,6 +1776,7 @@ mma	mulo'usu	7
 mulo'usu	ameerikajatü	7
 tü	alijuna	7
 kaa	müin	7
+anashii	müleka	7
 eesü	sulu'u	7
 sükajee	shiain	7
 süpüla	naapüin	7
@@ -1820,7 +1821,6 @@ ouktüin	saa'u	7
 achiki	jümüin	7
 tü	aluwataanakat	7
 waya	wapüshua	7
-alu'ujasa	chi	7
 mojusü	naa'inrakat	7
 mojusü	kee'ireekat	7
 o'u	tü	7
@@ -1834,6 +1834,7 @@ müleka	mojule	7
 talatakat	atüma	7
 nüchiki	jesús	7
 tü	manoujainsatkalüirua	7
+müleka	aire	7
 ma'i	waya	7
 niain	chi	7
 nümakat	chi	7
@@ -1903,6 +1904,7 @@ süka	pülashin	7
 naapüin	tü	7
 nüchekakat	jüpüleerua	7
 chayaa	sulu	7
+eere	joo	7
 tü	miichi	7
 antunusu	anain	7
 alijunaka	epaainyajewai	7
@@ -1934,12 +1936,12 @@ süka	nayain	7
 watta	kai	7
 wajiira	sutuma	7
 müsüja	tü	7
+aleeshiija'a	ma'i	7
 süpüshua	jaa'in	7
 naa'u	chi	7
 anasü	jaa'inrakat	7
 paala	jia	7
 na	laülaayuukana	7
-jalia	pia	7
 müleka	lotüle	7
 je	eekai	7
 medio	del	7
@@ -2014,7 +2016,7 @@ wane	apüshii	7
 süpüla	ayatüinjatüin	7
 calendario	escolar	7
 este	trabajo	7
-que	durante	7
+durante	los	7
 que	sea	7
 nakuwaipa	wayuu	7
 importancia	de	7
@@ -2049,7 +2051,6 @@ mientras	que	7
 la	niñez	7
 aka	nia	7
 municipio	fronterizo	7
-una	situación	7
 yaapünaa	yaa	7
 tü	juyakaa	7
 süka	nücheküin	7
@@ -2164,7 +2165,6 @@ nuluwataaya	maleiwa	6
 otta	süchiki	6
 tü	shiia	6
 so'ü	mmakat	6
-müleka	shiimüinre	6
 chi	sacerdote	6
 tü	piamasükat	6
 paala	tü	6
@@ -2217,7 +2217,6 @@ the	earth	6
 la	piedra	6
 as	a	6
 para	hacer	6
-la	región	6
 región	de	6
 el	centro	6
 tü	ka	6
@@ -2231,7 +2230,6 @@ jümüin	süpüla	6
 jaa'in	wanaa	6
 tü	nikirajakat	6
 eere	nia	6
-alu'ujasa	müleka	6
 anain	nia	6
 saa'in	jümüin	6
 na	nuwalayuukana	6
@@ -2261,7 +2259,6 @@ maleiwa	sükajee	6
 nayaawateerü	aa'u	6
 maleiwa	wapüleerua	6
 aikana	apüla	6
-waya	na	6
 sünain	naapeerüin	6
 naa'inrakat	jesucristo	6
 pueblos	originarios	6
@@ -2381,7 +2378,6 @@ main	tü	6
 tü	shia	6
 ekirajaa	tü	6
 jia	saa'in	6
-tamüshii	paala	6
 süka	nünüiki	6
 je	süchikijee	6
 sümüin	wane	6
@@ -2390,7 +2386,6 @@ su'upala	tü	6
 aka	chi	6
 sütüma	wane	6
 sulu	tu	6
-del	año	6
 al	correo	6
 su	usuario	6
 atención	al	6
@@ -2497,6 +2492,7 @@ aulas	de	6
 cuanto	a	6
 docentes	de	6
 de	nuestra	6
+que	durante	6
 tü	shipiakaa	6
 u	wayuu	6
 sukuwaipa	wayuu	6
@@ -2504,7 +2500,6 @@ vida	en	6
 que	este	6
 natijakaa	apüleeruwa	6
 süpüla	apünajaa	6
-los	casos	6
 el	eje	6
 del	gobierno	6
 en	busca	6
@@ -2541,6 +2536,7 @@ el	jagüey	6
 sutuma	wüiñaasü	6
 nojotsü	eein	6
 esta	es	6
+una	situación	6
 según	los	6
 esta	semana	6
 süpüla	naapüinjachin	6
@@ -2616,7 +2612,6 @@ naa	o'nooshiikana	6
 wane	anua	6
 naa	wayuukanaa	6
 las	actividades	6
-sutuma	juya	6
 central	de	6
 anain	naa	6
 tü	naapakat	6
@@ -2722,6 +2717,7 @@ o'u	sümüin	5
 süchiki	nuluwataaya	5
 ü	mmakat	5
 müin	yaa	5
+müleka	shiimüinre	5
 kasa	eekalü	5
 je	eesü	5
 motüin	naa'in	5
@@ -2805,6 +2801,7 @@ para	evitar	5
 las	casas	5
 a	wayuu	5
 el	wayuu	5
+la	región	5
 the	same	5
 wanee	ka	5
 ir	a	5
@@ -2820,10 +2817,10 @@ wayakana	wapüshua	5
 anasükat	sümüin	5
 ayatüin	jia	5
 aishiikana	tapüla	5
-tashajüin	jümüin	5
 jaa'in	waneepia	5
 naa'inrakat	na	5
 kee'ireekat	naa'in	5
+alu'ujasa	chi	5
 niain	wane	5
 eekai	nünoujain	5
 maleiwa	jümüin	5
@@ -2834,7 +2831,6 @@ niain	nüchoin	5
 waya	naa'in	5
 so'uweena	ka'ikat	5
 maleiwa	nümüin	5
-otta	jiakana	5
 müleka	sotüle	5
 nnojoleena	waya	5
 achuntaa	nümüin	5
@@ -2847,7 +2843,6 @@ maleiwa	nümaa	5
 naya	je	5
 waainjala	süpüla	5
 naa'inkai	wamüin	5
-müleka	waa'inrüle	5
 mmolüin	neema	5
 waa'inrapü'ükat	kataiwa'aya	5
 süka	watüjaain	5
@@ -2859,7 +2854,6 @@ chi	tachonkai	5
 nüchekakat	wapüleerua	5
 kaainjarale	nia	5
 müleka	naa'inrüle	5
-je	watüjaa	5
 forma	de	5
 wamüin	süpüla	5
 una	gran	5
@@ -2876,7 +2870,6 @@ jeʼwaa	sutuma	5
 na	aapieekana	5
 saaʼin	wayuu	5
 mientras	se	5
-be	a	5
 tepichi	otta	5
 tiene	una	5
 porque	en	5
@@ -2966,6 +2959,7 @@ chi	nashikai	5
 naya	otta	5
 arthur	sünain	5
 wayuu	kepiakana	5
+waya	na	5
 nia	na	5
 wainmain	na	5
 seguridad	y	5
@@ -3059,7 +3053,6 @@ sütsüin	tü	5
 jee	müsüjaa	5
 wanee	jintüi	5
 na	pulüsia	5
-shiasa	süchikijee	5
 naa'in	süka	5
 eekai	kojutüin	5
 wane	aapiee	5
@@ -3085,6 +3078,7 @@ waneepia	sümüin	5
 eere	süpülee	5
 wayumüin	sümüin	5
 tü	jierü	5
+del	año	5
 el	calendario	5
 pueden	ser	5
 el	cumplimiento	5
@@ -3142,7 +3136,6 @@ chi	aipiakai	5
 nümüin	wayuu	5
 tü	süpanakaa	5
 naapaain	süpüla	5
-palajana	süpüla	5
 tü	sainkaa	5
 eesü	lapüt	5
 jee	eekai	5
@@ -3272,6 +3265,7 @@ tü	natijakaa	5
 raúl	bermúdez	5
 sus	clases	5
 clases	en	5
+los	casos	5
 y	otros	5
 paraguaipoa	y	5
 representantes	del	5
@@ -3427,6 +3421,7 @@ un	año	5
 los	médicos	5
 jemusia	tü	5
 müleka	talatüle	5
+tamüshii	paala	5
 nücheküin	chi	5
 naa	laülaashiikana	5
 sulu'u	tu	5
@@ -3435,7 +3430,6 @@ del	comité	5
 trabajo	que	5
 el	acompañamiento	5
 guajira	colombiana	5
-fe	y	5
 y	alegría	5
 namaa	wayuu	5
 tepichikana	jee	5
@@ -3448,6 +3442,7 @@ pukuaippa	sünain	5
 estos	casos	5
 y	si	5
 sümüin	pukuaippa	5
+jalia	pia	5
 video	wayuu	5
 sümaa	jieyuu	5
 namüin	tepichi	5
@@ -3459,6 +3454,7 @@ sin	el	5
 a	nivel	5
 tüü	a	5
 alatakaa	tü	5
+sutuma	juya	5
 tü	ekirajawaakaa	5
 tü	nakuwa'ipaka	5
 se	trata	5
@@ -3595,7 +3591,6 @@ ingresar	al	5
 las	sentencias	5
 realizar	la	5
 las	tasas	5
-es	pdf	5
 pasos	para	5
 tüü	piawasekat	5
 misma	solicitud	5
@@ -3770,7 +3765,6 @@ que	tenía	4
 los	días	4
 de	hoy	4
 que	yo	4
-washajüin	joolu'u	4
 nüchiki	jesucristo	4
 chi	kanüliakai	4
 sümaiwa	nnojolüiwa'aya	4
@@ -3786,14 +3780,12 @@ süpüla	nnojoliinjanain	4
 saa'u	saainjala	4
 jamüsü	watüjaaka'a	4
 watüjaaka'a	saa'u	4
-müleka	laülaale	4
 nia	yaa	4
 wayuu	paala	4
 tü	ekirajünakat	4
 je	saa'ujee	4
 katsüin	jaa'in	4
 sünain	nünüiki	4
-tü	nakuaippakat	4
 namüin	süka	4
 wayuu	aa'inrakai	4
 nümaa	süpüla	4
@@ -3801,7 +3793,6 @@ ni'ipolokai	cristo	4
 süka	nnojoliin	4
 maleiwa	nütüma	4
 süka	jütüjaain	4
-chi	ayouktakai	4
 niain	jesús	4
 wanaawajiraasü	naa'in	4
 ayatüle	jia	4
@@ -3811,9 +3802,7 @@ nia	sulu'u	4
 nnojotsü	nayaawatüin	4
 nayaawatüin	aa'u	4
 tü	yarüttakat	4
-tü	kaainjalaakat	4
 nümakat	maleiwa	4
-jütüjaa	aa'uchi	4
 süpüla	nüla'ajaainjatüin	4
 suulia	anoujaa	4
 eekai	naa'inrüin	4
@@ -3839,7 +3828,6 @@ wayuu	aa'inrakana	4
 aa'inrakana	tü	4
 na	nünüikimaajanayaakana	4
 nünüikimaajanayaakana	maleiwa	4
-akaajasa	müleka	4
 wayuuin	nia	4
 alawaa	nekirajakat	4
 süpüla	alinjatüin	4
@@ -3851,6 +3839,7 @@ süka	naapüin	4
 wayuu	yaa	4
 waalii	nüpüla	4
 cristo	sümüin	4
+müleka	waa'inrüle	4
 kasa	waa'inrapü'ükat	4
 wapüla	wapüshua	4
 na	nawalayuukana	4
@@ -3873,6 +3862,7 @@ ejercicio	de	4
 marco	del	4
 la	defensa	4
 en	lo	4
+diciembre	de	4
 funciones	de	4
 anain	sünain	4
 ekirajawaa	süpüla	4
@@ -3883,6 +3873,7 @@ wanee	aapiee	4
 el	tejido	4
 tü	einakalü	4
 katta	o'u	4
+be	a	4
 y	social	4
 y	está	4
 acciones	de	4
@@ -4192,6 +4183,7 @@ anain	sukuwaipa	4
 jesús	tü	4
 süpüla	juuntüin	4
 sümaiwa	sünain	4
+otta	jiakana	4
 jia	sütüma	4
 sümaa	tanüiki	4
 tatüma	tü	4
@@ -4327,6 +4319,7 @@ tü	unesco	4
 wanee	wunu'u	4
 tü	wunu'ukat	4
 saalii	tü	4
+palajana	süpüla	4
 tü	süchonkat	4
 süchonkat	aipia	4
 tü	mürütkat	4
@@ -4667,6 +4660,7 @@ anamiain	chi	4
 sünain	nüchiki	4
 süpüla	laülawaa	4
 kojutüinjachin	nia	4
+je	watüjaa	4
 nukuaippa	nümaa	4
 je	nücheküin	4
 nütüma	sümaa	4
@@ -4760,8 +4754,10 @@ jiakana	anoujashiikana	4
 wayuu	sünainjee	4
 ouktüin	cristo	4
 cristo	saa'u	4
+otta	wayakana	4
 jülüjakat	naa'in	4
 kekiin	naya	4
+alu'ujasa	müleka	4
 aka	eekai	4
 aneekünaka	nütüma	4
 sulu'u	jukuaippa	4
@@ -5248,7 +5244,6 @@ la	fiscalía	4
 de	suplantación	4
 suplantación	de	4
 de	identidad	4
-dé	a	4
 conocer	su	4
 pretensión	y	4
 y	cite	4
@@ -5572,6 +5567,7 @@ los	indígenas	3
 a	otro	3
 süpüla	nii'iratüinjatüin	3
 nia	wa'akamüin	3
+washajüin	joolu'u	3
 wanaawajiraainjatüin	jaa'in	3
 waa'in	wapüshua	3
 alawaa	ne'e	3
@@ -5587,6 +5583,7 @@ ne'e	nia	3
 cristo	tü	3
 tü	nüpünakat	3
 ji'raajüin	chi	3
+tashajüin	jümüin	3
 nakuaippakat	na	3
 kaainjaraliin	naya	3
 kee'ireesü	naa'in	3
@@ -5599,6 +5596,7 @@ na	nü'ünüükana	3
 jümüin	süka	3
 jütüjaain	saa'u	3
 jia	müin	3
+chi	ayouktakai	3
 jülüjüin	jaa'in	3
 wanaawajiraain	jaa'in	3
 jaa'in	noulia	3
@@ -5655,11 +5653,11 @@ nia	wapüla	3
 ne'e	chi	3
 chakai	iipünaa	3
 shiain	nünüiki	3
-je	nünüiki	3
 maleiwakai	sümüin	3
 jamüinjatü	wakuaippa	3
 naa'u	wane	3
 süka	tia	3
+akaajasa	müleka	3
 eekai	nnojolin	3
 nia	aluwataaka	3
 nüntüin	chi	3
@@ -5701,7 +5699,6 @@ las	decisiones	3
 la	gestión	3
 funciones	y	3
 el	decreto	3
-diciembre	de	3
 tü	kolootakat	3
 einjatün	tü	3
 naa	koumainshikana	3
@@ -5760,6 +5757,7 @@ püchajaa	wanee	3
 naya	waneepia	3
 sükajee	wanee	3
 naya	nuulia	3
+tü	kaainjalaakat	3
 waneepia	na	3
 suuʼuliwoʼu	tü	3
 maʼin	wayuu	3
@@ -6216,6 +6214,7 @@ kasa	ee	3
 süka	sukuwaipa	3
 naa	eekana	3
 naa	ekirajaashiikana	3
+poli	circo	3
 ayatakana	sulü	3
 nee	tü	3
 sümaa	talatüin	3
@@ -6223,6 +6222,7 @@ wanepia	otta	3
 la	versión	3
 jesús	sulu'u	3
 belén	sulu'u	3
+shiasa	süchikijee	3
 nujut	nümüin	3
 wayuu	wüinpuje'ewaliikana	3
 sujuuna	wayuu	3
@@ -6230,12 +6230,10 @@ süka	ne'rüin	3
 jia	cha'aya	3
 nümakalaka	chi	3
 sünain	no'unüin	3
-alatüsü	tüü	3
 keraainjatüin	tü	3
 maleiwakai	aküjünakat	3
 nütüma	wane	3
 tü	makat	3
-je	nüntapa	3
 palabras	con	3
 los	palabras	3
 el	generador	3
@@ -6276,6 +6274,7 @@ in	sümaa	3
 sukuwaipa	jee	3
 akuwaipaa	jee	3
 nakuwaipa	naa	3
+anata'aleeshiija'a	ma'i	3
 süka	nükaaliijain	3
 nüchooin	jia	3
 maleiwa	jüpüleerua	3
@@ -6441,7 +6440,6 @@ en	palabras	3
 estar	en	3
 espacio	infinito	3
 ancianos	sabios	3
-de	ti	3
 donde	está	3
 wayuu	el	3
 que	posee	3
@@ -7216,6 +7214,7 @@ tü	alateetkat	3
 tü	aapieekalüirua	3
 sünainjee	süpüshua	3
 süpüla	nu'tte'erüin	3
+müleka	laülaale	3
 paala	nnojolüiwa'aya	3
 kaainjalaa	süpüla	3
 müleka	kojutüle	3
@@ -7282,7 +7281,6 @@ kuruusakat	süpüla	3
 sotüin	taa'in	3
 süpüla	taküjainjachin	3
 sünain	pülashin	3
-otta	wayakana	3
 naashin	sünain	3
 naashajaakat	achiki	3
 na	pütchipü'ükana	3
@@ -7300,6 +7298,7 @@ jükaaliijain	taya	3
 taya	maa'ulu	3
 anasükat	jümüin	3
 o'u	cristo	3
+jütüjaa	aa'uchi	3
 takaaliijain	wayuu	3
 shiimüinkat	sümaa	3
 jia	nüpüla	3
@@ -7657,7 +7656,6 @@ tü	nüshajalakat	3
 tü	eekai	3
 otta	sümaa	3
 servicios	públicos	3
-y	habitantes	3
 cerraron	por	3
 como	medida	3
 medida	de	3
@@ -7960,7 +7958,6 @@ pertenencia	a	3
 clan	y	3
 cada	clan	3
 el	clan	3
-los	primeros	3
 su	vez	3
 del	cual	3
 süna	tü	3
@@ -8414,7 +8411,6 @@ no'upalapünaa	na	3
 de	leonel	3
 ocho	horas	3
 achuntaa	kajutaa	3
-los	transportistas	3
 kaa'ula	otta	3
 na	atüjaka	3
 tü	anneetka	3

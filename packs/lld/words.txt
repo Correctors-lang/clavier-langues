@@ -1,31 +1,31 @@
 # Ladin : FineWeb-2 lld_Latn (ODC-By). mot<TAB>freq.
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-de	22105
-y	17576
-la	16020
-che	12624
-l	11509
-a	8281
+de	22102
+y	17573
+la	16017
+che	12621
+l	11508
+a	8273
 n	8201
 da	7866
 i	7592
-dla	6889
+dla	6888
 per	6384
 dl	6232
 na	5730
 ie	4229
-al	3973
+al	3970
 cun	3941
 se	3938
-te	3936
+te	3935
 à	3747
 di	3724
-é	3705
-nia	3264
-ne	3026
+é	3704
+nia	3263
+ne	3025
 les	2965
-ti	2912
-tl	2799
+ti	2911
+tl	2797
 por	2493
 le	2344
 sun	2148
@@ -41,7 +41,7 @@ ala	1517
 gran	1421
 sce	1355
 do	1343
-pert	1267
+pert	1268
 dles	1242
 chësc	1240
 dal	1181
@@ -55,7 +55,7 @@ su	1038
 tres	1037
 mo	1009
 ladina	1006
-ence	1005
+ence	1004
 él	977
 fat	957
 ite	957
@@ -65,13 +65,13 @@ unì	921
 vën	901
 iel	896
 inant	889
-ince	873
+ince	872
 en	850
 dé	848
 an	844
 ann	818
 duc	770
-dala	744
+dala	743
 jì	742
 südtirol	727
 sciche	720
@@ -104,7 +104,7 @@ vëgn	540
 canche	537
 dut	535
 cultura	528
-fej	524
+fej	523
 mé	513
 via	510
 dai	498
@@ -127,13 +127,13 @@ bel	425
 dan	423
 nes	421
 ester	418
-cunsëi	417
+cunsëi	416
 urtijëi	412
 politica	401
 tan	399
 me	397
-demé	397
 tles	396
+demé	396
 sciöche	388
 dantaldut	384
 cësa	382
@@ -166,7 +166,7 @@ trëi	324
 autra	323
 badia	320
 autri	318
-lege	310
+lege	309
 cherta	309
 nuef	307
 ca	305
@@ -212,9 +212,9 @@ deplù	252
 lascé	252
 istitut	252
 sort	250
-provinziel	250
 unida	250
 mond	249
+provinziel	249
 fá	249
 tlo	247
 iade	247
@@ -270,8 +270,8 @@ mituns	206
 pass	204
 forma	204
 bela	204
-valch	203
 uel	202
+valch	202
 gní	202
 valeda	201
 contra	201
@@ -311,9 +311,9 @@ grupa	183
 sorvisc	181
 trata	180
 sibe	179
-adöm	178
 chel	178
 mëter	177
+adöm	177
 internet	176
 jonta	175
 moda	174
@@ -350,11 +350,11 @@ mete	159
 massa	158
 tenì	158
 son	158
-ladinia	158
 avei	158
 ciafé	157
 sëura	157
 so	157
+ladinia	157
 euro	156
 sarà	156
 fovel	155
@@ -412,10 +412,10 @@ zënter	136
 unirà	136
 und	136
 mai	136
-s	136
 turism	136
 damané	136
 dutes	136
+s	135
 dötes	135
 rejoné	135
 laour	135
@@ -490,12 +490,12 @@ autres	118
 senoner	118
 purté	117
 almanco	117
-cheder	117
 aposta	117
 mort	117
 mitans	117
 gnì	116
 chilò	116
+cheder	116
 ia	116
 encuei	116
 fates	115
@@ -539,13 +539,13 @@ sconanza	109
 funzion	109
 aministrazion	109
 nteres	108
-medema	108
 adora	108
 media	108
 lité	108
 vers	108
 pité	107
 pervia	107
+medema	107
 caje	107
 lies	107
 arjont	107
@@ -565,12 +565,12 @@ bera	106
 inuem	105
 sëgn	105
 gonot	105
-mendranzes	105
 todesch	105
 miec	105
 scolares	105
 tëmps	104
 assessour	104
+mendranzes	104
 mpue	103
 cumpré	103
 festa	103
@@ -613,11 +613,11 @@ fà	98
 sozieté	98
 unit	97
 atres	97
-damana	97
 dí	97
 ega	96
 populazion	96
 ê	96
+damana	96
 saut	96
 cosses	96
 minonga	96
@@ -688,7 +688,6 @@ nscila	88
 jiva	88
 ufize	87
 àn	87
-aut	87
 manifestazions	87
 firma	87
 sura	87
@@ -698,6 +697,7 @@ oma	87
 vënie	86
 mesun	86
 scrì	86
+aut	86
 cualità	86
 vedl	86
 insegnamënt	86
@@ -731,7 +731,6 @@ provinzies	83
 soluzion	83
 recordé	83
 sostëgn	83
-secul	83
 oradechël	82
 scrita	82
 chemuns	82
@@ -742,6 +741,7 @@ rejons	82
 svilupé	82
 davegnì	82
 alfreider	82
+secul	82
 milions	82
 florian	81
 drap	81
@@ -864,7 +864,6 @@ pieta	71
 tematica	71
 fotografies	71
 tut	71
-esperc	71
 general	71
 tegnì	71
 sas	71
@@ -877,6 +876,7 @@ puec	70
 ëura	70
 öna	70
 gën	70
+esperc	70
 realté	70
 idees	70
 vegnuda	70
@@ -1054,7 +1054,6 @@ vegnirà	58
 tofles	58
 indöt	58
 presenté	58
-vijita	58
 utënt	57
 pez	57
 atletica	57
@@ -1072,6 +1071,7 @@ diretour	57
 competënzes	57
 stories	57
 zacan	57
+vijita	57
 maiuranza	57
 cumenanza	57
 materies	57
@@ -1093,7 +1093,6 @@ unions	56
 ciaré	56
 mer	56
 stredes	56
-corp	55
 giapa	55
 tudësch	55
 scumenciamënt	55
@@ -1109,6 +1108,7 @@ derc	55
 prejentazion	55
 gnüda	55
 profescionala	55
+corp	54
 var	54
 studëntes	54
 pië	54
@@ -1151,7 +1151,6 @@ jic	53
 chirì	52
 documënt	52
 aspec	52
-m	52
 autes	52
 ëis	52
 gnüs	52
@@ -1182,7 +1181,6 @@ maran	51
 to	51
 rodes	51
 firmes	51
-sambëgn	51
 generala	51
 nfurmazion	51
 ciuldì	51
@@ -1201,6 +1199,7 @@ metudes	50
 döes	50
 guant	50
 laûr	50
+sambëgn	50
 culturela	50
 esprescion	50
 sterscia	50
@@ -1265,6 +1264,7 @@ diretëur	48
 bus	48
 dates	47
 resté	47
+m	47
 cëses	47
 terza	47
 vosta	47
@@ -1347,7 +1347,6 @@ jëuna	45
 ziplà	45
 persunel	44
 damanda	44
-ejim	44
 can	44
 lugio	44
 codesc	44
@@ -1371,7 +1370,6 @@ berstot	44
 alalongia	43
 vëij	43
 muda	43
-d	43
 mesures	43
 mustré	43
 provinziales	43
@@ -1405,6 +1403,7 @@ nstësc	42
 nüs	42
 luegia	42
 vëgnes	42
+ndut	42
 runggaldier	42
 perathoner	42
 organisé	42
@@ -1421,15 +1420,12 @@ daldò	42
 rujené	42
 veduda	42
 bonamënter	41
-ue	41
 tlienc	41
-p	41
 soziel	41
 fauré	41
 üsc	41
 podess	41
 computer	41
-ndut	41
 bones	41
 judà	41
 mparà	41
@@ -1460,6 +1456,7 @@ adurvanza	40
 miëur	40
 regula	40
 basta	40
+p	40
 pasca	40
 mëns	40
 giata	40
@@ -1491,7 +1488,6 @@ personai	39
 dita	39
 comunicaziun	39
 lità	39
-den	39
 iscrizion	39
 zachei	39
 rujenà	39
@@ -1507,7 +1503,6 @@ coscienza	39
 tresfora	39
 storics	39
 toch	39
-re	39
 barat	39
 culaburazion	39
 uem	39
@@ -1533,7 +1528,6 @@ gherdëna	38
 dreta	38
 daverta	38
 mostré	38
-dr	38
 dlijia	38
 economica	38
 ich	38
@@ -1711,7 +1705,6 @@ ensegnament	34
 autorités	34
 sterch	34
 lapró	34
-ae	34
 temesc	34
 ciases	34
 comiscion	34
@@ -1740,7 +1733,6 @@ punt	33
 ruvei	33
 cuntat	33
 minonghes	33
-ô	33
 artistica	33
 ciantarins	33
 ueia	33
@@ -1928,7 +1920,6 @@ devers	30
 sostigní	30
 impëgn	30
 cialan	30
-km	30
 christian	30
 mësses	30
 otober	30
@@ -1970,7 +1961,6 @@ partezipanc	29
 regiuneles	29
 lonc	29
 particulera	29
-des	29
 cialà	29
 nianca	29
 iö	29
@@ -1995,6 +1985,7 @@ litala	29
 opera	29
 oress	29
 tru	29
+km	29
 proscims	29
 cuntreda	29
 elemënc	29
@@ -2088,7 +2079,6 @@ ciaut	27
 garaté	27
 ntënder	27
 ponsé	27
-dî	27
 positiva	27
 enteresc	27
 critiches	27
@@ -2228,7 +2218,6 @@ paià	25
 plann	25
 ufierta	25
 situazions	25
-b	25
 elementara	25
 partit	25
 dediché	25
@@ -2335,7 +2324,6 @@ domënia	24
 respostes	24
 europeiches	24
 cunsumadëura	24
-mpede	24
 cuatier	24
 ortié	24
 grafica	24
@@ -2431,6 +2419,7 @@ orun	23
 spirit	23
 pur	23
 ebe	23
+mpede	23
 naziunel	23
 tlera	23
 finanziar	23
@@ -2488,7 +2477,6 @@ spina	23
 prejenza	23
 entant	23
 laion	23
-ey	23
 tennis	22
 paiamënc	22
 retlam	22
@@ -2624,7 +2612,6 @@ granda	21
 cumpanies	21
 abenëura	21
 costruzion	21
-g	21
 richëza	21
 bëre	21
 limité	21
@@ -2778,7 +2765,6 @@ valentin	20
 chiocchetti	20
 barieres	20
 sclut	20
-ela	20
 tlima	20
 sotligné	20
 scienzes	20
@@ -2894,12 +2880,10 @@ pëia	19
 maestri	19
 incuntades	19
 bal	19
-mile	19
 sis	19
 lungiarü	19
 spersa	19
 gara	19
-fa	19
 dassën	19
 fan	19
 confronté	19
@@ -2930,7 +2914,6 @@ profescionales	19
 scur	19
 iacun	19
 ciancia	19
-ll	19
 fineda	19
 cademia	19
 scolastiches	19
@@ -2952,7 +2935,6 @@ sostegnì	19
 legislatives	19
 pulitica	19
 curespuend	19
-za	19
 mul	19
 scluta	19
 òva	19
@@ -3034,7 +3016,6 @@ meisc	18
 fondamentales	18
 valores	18
 isarch	18
-lí	18
 scriv	18
 trasmiscions	18
 sezions	18
@@ -3109,7 +3090,6 @@ blason	18
 oies	18
 zenzauter	18
 poejies	18
-éla	18
 ermes	18
 angiuli	18
 portamont	18
@@ -3208,6 +3188,7 @@ strënta	17
 mies	17
 richard	17
 tët	17
+mile	17
 munts	17
 jona	17
 singui	17
@@ -3478,7 +3459,6 @@ posizions	15
 paré	15
 renunzië	15
 cëria	15
-medejines	15
 cundizion	15
 mpreja	15
 cunfrunté	15
@@ -3486,7 +3466,6 @@ retüda	15
 mudaziun	15
 adincuntra	15
 dessëgn	15
-nazionala	15
 cujiné	15
 risch	15
 dezijiuns	15
@@ -3563,9 +3542,7 @@ nvië	15
 trienala	15
 brosciura	15
 colaboradësses	15
-ri	15
 sëntes	15
-esposizion	15
 nternaziunel	15
 tenida	15
 variantes	15
@@ -3671,12 +3648,14 @@ vërda	14
 depënn	14
 mpera	14
 extra	14
+medejines	14
 definì	14
 tenian	14
 prodoc	14
 falé	14
 prigo	14
 aziun	14
+nazionala	14
 telefon	14
 ais	14
 fiera	14
@@ -3747,6 +3726,7 @@ rifesser	14
 testemunianzes	14
 stluj	14
 iscrizions	14
+esposizion	14
 dliejes	14
 euregiofamilypass	14
 bernardi	14
@@ -3878,7 +3858,6 @@ aodanzes	13
 demorvëia	13
 stlüta	13
 morvëia	13
-ùn	13
 ades	13
 veira	13
 senat	13
@@ -4087,7 +4066,6 @@ dureda	12
 cuncretamënter	12
 lerneri	12
 sciafer	12
-ii	12
 polizai	12
 cufri	12
 pîta	12
@@ -4151,7 +4129,6 @@ zifres	12
 pordërt	12
 fort	12
 respuend	12
-cer	12
 furlans	12
 emplù	12
 ignoré	12
@@ -4269,7 +4246,6 @@ davanië	12
 pop	12
 dldut	12
 persuneles	12
-nʼ	12
 davanià	12
 butà	12
 novité	12
@@ -4281,7 +4257,6 @@ implanc	12
 fam	12
 purtan	12
 sinergies	12
-ad	12
 corieres	12
 cincanta	12
 est	12
@@ -4342,7 +4317,6 @@ presidenza	12
 encueicondì	12
 ensegné	12
 reconesciuda	12
-sn	12
 paula	12
 dolomitans	12
 sovenz	12
@@ -4436,7 +4410,6 @@ adatada	11
 stabilí	11
 lascedes	11
 furmé	11
-pel	11
 cueciun	11
 pista	11
 inglesc	11
@@ -4494,7 +4467,6 @@ medejina	11
 tacuin	11
 comunal	11
 pö	11
-edl	11
 fondamënta	11
 pormët	11
 investimënt	11
@@ -4693,7 +4665,6 @@ firstname	10
 podest	10
 garejà	10
 carateriseda	10
-esm	10
 udons	10
 grandiscimo	10
 candidé	10
@@ -4795,7 +4766,6 @@ fenomen	10
 spezifich	10
 presënta	10
 conflic	10
-ái	10
 torona	10
 deputat	10
 competenza	10
@@ -4930,7 +4900,6 @@ tecnologies	10
 mebli	10
 preferënzes	10
 stabil	10
-dab	10
 tumà	10
 podun	10
 derturé	10
@@ -5208,7 +5177,6 @@ ideala	9
 analises	9
 bagli	9
 sostenibl	9
-as	9
 enconta	9
 destin	9
 locia	9
@@ -5513,6 +5481,7 @@ enghe	8
 asvelta	8
 diego	8
 arjunjan	8
+esm	8
 tulon	8
 arjonc	8
 tacheda	8
@@ -5573,7 +5542,6 @@ stlet	8
 revistes	8
 giape	8
 cunsië	8
-ejima	8
 atualità	8
 sëur	8
 sëuraududa	8
@@ -6031,7 +5999,6 @@ nvieda	7
 lumes	7
 tasc	7
 credic	7
-té	7
 frecuentea	7
 stlutes	7
 zapa	7
@@ -6172,7 +6139,6 @@ coordinamënt	7
 straordinara	7
 ecuiliber	7
 nezescité	7
-esist	7
 motifs	7
 creaziun	7
 arichí	7
@@ -6329,7 +6295,6 @@ teraces	7
 ndependënta	7
 galiani	7
 plazamënt	7
-tal	7
 nfati	7
 vich	7
 sotscrizion	7
@@ -6444,7 +6409,6 @@ finanziares	7
 puenc	7
 revisëures	7
 renuvamënt	7
-ativisć	7
 copé	7
 statistica	7
 sessuala	7
@@ -6559,7 +6523,6 @@ litadësses	7
 consultes	7
 creatöres	7
 gejú	7
-teʼ	7
 maratona	7
 manche	7
 comané	7
@@ -6756,12 +6719,10 @@ stlü	6
 zede	6
 chersciüda	6
 profit	6
-ses	6
 japé	6
 fosses	6
 elsa	6
 mondial	6
-sal	6
 majra	6
 zentreles	6
 remplazea	6
@@ -6867,6 +6828,7 @@ desplej	6
 stues	6
 caritas	6
 descrit	6
+esist	6
 regionala	6
 aldinfora	6
 permanënza	6
@@ -6920,7 +6882,6 @@ dijun	6
 detais	6
 fortüna	6
 damani	6
-dun	6
 anjenià	6
 carabinieri	6
 damandan	6
@@ -7085,7 +7046,6 @@ unìvel	6
 ferides	6
 emiscion	6
 grafia	6
-sî	6
 reinswald	6
 gabriel	6
 aspiranti	6
@@ -7100,7 +7060,6 @@ jenegger	6
 convocazion	6
 decathlon	6
 sesta	6
-ste	6
 sauteda	6
 distanza	6
 austriacs	6
@@ -7167,7 +7126,6 @@ ambiente	6
 poeta	6
 badiota	6
 fesc	6
-et	6
 desferenzies	6
 pitun	6
 stüa	6
@@ -7188,6 +7146,7 @@ vulcans	6
 arch	6
 rezetrasmiscion	6
 problemes	6
+ativisć	6
 classich	6
 medefüch	6
 cunscidran	6
@@ -7216,7 +7175,6 @@ silvius	6
 magnago	6
 cumbater	6
 lerner	6
-tè	6
 profesciuns	6
 sunsi	6
 colloquium	6
@@ -7406,7 +7364,6 @@ padon	6
 pilicia	6
 bate	6
 recordanza	6
-üna	6
 romantich	6
 teritores	6
 produzions	6
@@ -7537,7 +7494,6 @@ adorëis	5
 giapëis	5
 stuep	5
 apoteches	5
-sù	5
 refudea	5
 prescrizions	5
 regularità	5
@@ -7944,7 +7900,6 @@ toponomastiches	5
 nluegedes	5
 śaredes	5
 premià	5
-tló	5
 lietes	5
 pusizion	5
 sëurastanc	5
@@ -8014,7 +7969,6 @@ regulà	5
 grof	5
 cristoforo	5
 iusta	5
-tv	5
 provisoria	5
 artenienza	5
 agonistich	5
@@ -8378,7 +8332,6 @@ pêsc	5
 reprejenteda	5
 prinzipei	5
 resciesa	5
-lun	5
 spirituela	5
 cuncià	5
 grafiches	5
@@ -8509,7 +8462,6 @@ cudejiei	5
 tlisöra	5
 seires	5
 viesta	5
-eisem	5
 prié	5
 teorich	5
 mp	5
@@ -8523,7 +8475,6 @@ sciors	5
 capocomun	5
 dessegns	5
 budget	5
-cal	5
 lëuf	5
 pordoi	5
 eppan	5
@@ -8573,7 +8524,6 @@ saudés	5
 aministradours	5
 convegn	5
 féjen	5
-ati	5
 rondenesc	5
 manacés	5
 rumancia	5
@@ -8685,7 +8635,6 @@ anonimes	4
 menè	4
 mitënt	4
 mantignì	4
-pol	4
 autorisaziun	4
 dërć	4
 plazamënc	4
@@ -8733,7 +8682,6 @@ passe	4
 isabella	4
 turont	4
 spezialisà	4
-sus	4
 chit	4
 metarà	4
 mostrè	4
@@ -8803,7 +8751,6 @@ sotescrí	4
 degönes	4
 confermëia	4
 somënzes	4
-alc	4
 proibiziun	4
 obietiva	4
 claudio	4
@@ -8936,7 +8883,6 @@ vësco	4
 popolaziuns	4
 aldì	4
 pidrô	4
-tê	4
 ferdigg	4
 devëntes	4
 salvëza	4
@@ -9093,7 +9039,6 @@ obiec	4
 ratedes	4
 spartida	4
 influenza	4
-sè	4
 protestes	4
 desvalia	4
 identificaziun	4
@@ -9150,7 +9095,6 @@ daria	4
 foven	4
 servij	4
 domenica	4
-tre	4
 mustreda	4
 deventan	4
 plajëula	4
@@ -9288,7 +9232,6 @@ tofa	4
 sanitares	4
 spezialistiches	4
 regolara	4
-plus	4
 andamënt	4
 permët	4
 efizienza	4
@@ -9317,7 +9260,6 @@ portan	4
 permëter	4
 cruziova	4
 cuecen	4
-lus	4
 crises	4
 bani	4
 stimei	4
@@ -9375,7 +9317,6 @@ dlegà	4
 sarëin	4
 carnescià	4
 descedà	4
-cevedale	4
 giames	4
 ferma	4
 candidatures	4
@@ -9543,7 +9484,6 @@ batum	4
 desdruj	4
 romano	4
 religiousa	4
-cup	4
 tolun	4
 liada	4
 aplicaziun	4
@@ -9640,12 +9580,10 @@ thaler	4
 was	4
 dich	4
 zitadina	4
-ejem	4
 ncrujeda	4
 tlechel	4
 mpënies	4
 nfurmei	4
-sunà	4
 flam	4
 baur	4
 ntraudëi	4
@@ -9666,7 +9604,6 @@ turnà	4
 ciao	4
 maroc	4
 falz	4
-sei	4
 mbinci	4
 descurida	4
 damiec	4
@@ -9760,7 +9697,6 @@ basilica	4
 ispeturia	4
 marameolab	4
 ivonne	4
-ute	4
 stimé	4
 benedisciun	4
 gloria	4
@@ -9822,7 +9758,6 @@ saû	4
 dl'alcol	4
 adult	4
 brontora	4
-ten	4
 futur	4
 stimades	4
 atocades	4
@@ -9831,7 +9766,6 @@ dl'istruziun	4
 arlungé	4
 jw	4
 standarg	4
-tól	4
 ilustrazions	4
 helfer	4
 tuc	4
@@ -9865,7 +9799,6 @@ cajarina	4
 iagher	4
 sëch	4
 jufa	4
-poz	4
 zopa	4
 medrë	4
 muesses	4
@@ -9938,7 +9871,6 @@ furnel	4
 otto	4
 representea	4
 danmesdi	4
-cuna	4
 paleontologh	4
 paleontologia	4
 geologics	4
@@ -10545,7 +10477,6 @@ spezifizités	3
 reconescënc	3
 previdënza	3
 primer	3
-àles	3
 setores	3
 abui	3
 mprestà	3
@@ -10604,7 +10535,6 @@ frenner	3
 moderaziun	3
 abelí	3
 tantost	3
-port	3
 antiladina	3
 tar	3
 cunsorz	3
@@ -10754,7 +10684,6 @@ perfet	3
 despositif	3
 resservada	3
 novites	3
-poi	3
 porti	3
 eventuai	3
 mioramënc	3
@@ -10800,7 +10729,6 @@ publicherà	3
 parlamenteres	3
 residënc	3
 tapa	3
-tlap	3
 ntëurite	3
 stuffer	3
 cumpurtà	3
@@ -11081,7 +11009,6 @@ flessibli	3
 passaport	3
 spirituai	3
 quynh	3
-bala	3
 conoscënza	3
 massmedia	3
 marc	3
@@ -11109,7 +11036,6 @@ ciamenes	3
 plajor	3
 cage	3
 happening	3
-alan	3
 yoko	3
 ono	3
 taià	3
@@ -11135,7 +11061,6 @@ taliani	3
 spartiziun	3
 optanc	3
 dl'assoziaziun	3
-suc	3
 operadú	3
 abitaziun	3
 azeder	3
@@ -11173,7 +11098,6 @@ eptathlon	3
 fejun	3
 sciacà	3
 dossù	3
-cles	3
 unìi	3
 falchetti	3
 boniscimi	3
@@ -11298,7 +11222,7 @@ abu	3
 gitschberg	3
 floc	3
 hez	3
-zufallspitze	3
+cevedale	3
 martell	3
 abinè	3
 nteurvia	3
@@ -11306,7 +11230,6 @@ pasc	3
 dëssi	3
 funziunea	3
 elite	3
-air	3
 noir	3
 rigoroses	3
 aratun	3
@@ -11319,7 +11242,6 @@ ispiraziun	3
 nsenieda	3
 fotovoltaich	3
 tulons	3
-gor	3
 dunfierta	3
 semester	3
 rausciamënt	3
@@ -11678,7 +11600,6 @@ grazie	3
 primo	3
 dalponte	3
 inoltre	3
-suo	3
 contributo	3
 può	3
 agli	3
@@ -11913,7 +11834,6 @@ jüdes	3
 coordinea	3
 atribuì	3
 tafladöres	3
-alfa	3
 omega	3
 canticum	3
 novum	3
@@ -12080,11 +12000,9 @@ pentathlon	3
 saphira	3
 trentins	3
 dijons	3
-pai	3
 strionëc	3
 diaol	3
 plié	3
-percieche	3
 essenzial	3
 infeziuns	3
 infeziun	3
@@ -12106,7 +12024,6 @@ sperdù	3
 fruz	3
 ciuch	3
 grop	3
-esi	3
 boiü	3
 weg	3
 blatt	3
@@ -12114,7 +12031,6 @@ lösungen	3
 plaj	3
 ures	3
 lirica	3
-suv	3
 integral	3
 umanité	3
 onesté	3
@@ -12200,7 +12116,6 @@ invenzions	3
 invajion	3
 drusus	3
 retoromans	3
-zes	3
 misteriëuses	3
 nterregiunela	3
 ntern	3
@@ -12228,7 +12143,6 @@ catolich	3
 pilato	3
 unidì	3
 blòt	3
-maz	3
 mierla	3
 fotograf	3
 sedy	3
@@ -12354,13 +12268,11 @@ giaude	3
 destribuzion	3
 hochgruber	3
 kuenzer	3
-mt	3
 mbuceda	3
 passela	3
 bens	3
 baldin	3
 mantegní	3
-led	3
 contro	3
 ordinera	3
 straordinera	3
@@ -12521,7 +12433,6 @@ vertoles	3
 bambins	3
 utopia	3
 comparus	3
-éles	3
 professours	3
 visavis	3
 rejonon	3
@@ -12546,7 +12457,6 @@ mateo	3
 auto-aministrazion	3
 famous	3
 scluc	3
-porì	3
 sentenza	3
 assimilé	3
 tegnus	3
@@ -12693,7 +12603,6 @@ debleza	3
 vijitadours	3
 cumprova	3
 adatamenc	3
-res	3
 cocciardi	3
 gruber	3
 sàl	3
@@ -12848,7 +12757,6 @@ cunfruntadëures	3
 charter	3
 esposiziuns	3
 passel	3
-aea	3
 ozean	3
 veie	3
 mexiko	3
@@ -12859,7 +12767,6 @@ gupta	3
 dl'india	3
 antichs	3
 destachei	3
-len	3
 brüsces	3
 contejes	3
 quʼ	3

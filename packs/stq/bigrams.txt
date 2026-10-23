@@ -1,25 +1,25 @@
 # Bigrammes stq (FineWeb-2 stq_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
 fon	ju	1865
-fon	do	1657
-in	ju	1452
+fon	do	1656
+in	ju	1451
 in	dät	1259
 fon	dän	1142
-fon	dät	1101
-in	dän	902
+fon	dät	1100
+in	dän	899
 in	do	627
 un	dät	517
-dät	is	505
+dät	is	504
 un	ju	478
 is	dät	466
 in	n	453
-ap	ju	444
+ap	ju	442
 un	do	440
 rakt	dät	386
 nit	moor	374
 ap	dän	371
 is	ju	360
-foar	ju	337
+foar	ju	336
 fon	n	333
 is	n	323
 so	as	319
@@ -28,8 +28,9 @@ tou	ju	310
 ju	stääd	293
 dät	dät	288
 ätter	ju	285
-mäd	ju	284
-dät	ju	279
+mäd	ju	283
+bit	tou	280
+dät	ju	278
 dät	do	272
 ap	dät	266
 mäd	dän	264
@@ -38,17 +39,17 @@ deel	fon	254
 un	dan	251
 un	die	246
 kon	me	240
-rakt	et	240
+rakt	et	238
 dät	jier	237
 do	der	236
 uut	dät	234
 is	die	229
-roate	dät	229
 waas	dät	228
+roate	dät	228
 mäd	dät	225
 aal	do	225
-ätter	dät	217
 as	dät	216
+ätter	dät	216
 mäd	do	215
 quelltext	bearbeiten	213
 un	in	211
@@ -58,8 +59,8 @@ dät	nit	209
 man	dät	208
 truch	ju	208
 ätter	dän	207
-foar	dät	206
 an	ju	205
+foar	dät	205
 do	bee	202
 uk	noch	202
 uk	in	198
@@ -74,7 +75,7 @@ foar	do	187
 do	maaste	185
 ju	tied	185
 uut	ju	184
-un	dän	184
+un	dän	183
 tou	dät	181
 bie	ju	180
 goar	nit	180
@@ -101,7 +102,7 @@ wan	me	150
 uk	ju	148
 een	fon	148
 noch	nit	147
-dät	die	146
+dät	die	145
 fon	de	143
 twiske	do	140
 an	dän	139
@@ -116,18 +117,19 @@ waas	ju	132
 un	deer	131
 uum	dät	131
 fon	sien	131
-in't	jier	131
 ju	seelter	130
+in't	jier	130
 un	iek	130
 hie	sik	128
 dät	iek	128
 ju	der	127
 deeruum	dät	126
 truch	dän	125
-die	der	124
+tou	sjoon	124
 uum	ju	124
 truch	dät	124
 dät	jo	124
+die	der	123
 ju	meente	123
 do	uur	123
 nit	tou	120
@@ -148,24 +150,24 @@ un	so	112
 in	uus	112
 toun	biespil	111
 is	in	111
-uk	al	111
 dät	dan	110
 un	fon	110
+uk	al	110
 fon	een	110
 foar	n	109
 un	is	109
 uk	do	109
 wier	hie	108
 is	uk	107
-do	ljuude	106
 man	do	106
 wäd	dät	106
 uur	dät	106
-un	n	105
 in	düütsklound	105
 fon	uus	105
 iek	mie	105
+un	n	104
 dät	eerste	104
+do	ljuude	104
 in	hiere	104
 dät	noude	104
 waas	die	103
@@ -194,11 +196,11 @@ düsse	tied	97
 truch	do	96
 ju	ganse	95
 oaber	nit	95
-uum	dän	94
 dän	noome	94
 die	noome	94
 aan	fon	94
 oaber	uk	94
+uum	dän	93
 hie	dät	93
 ju	eerste	92
 do	eerste	92
@@ -217,13 +219,13 @@ as	uk	88
 bloot	noch	88
 hie	in	87
 n	bitje	87
-nit	in	87
 so	fuul	87
 dät	kon	86
 un	uur	86
 dät	seelterlound	86
 do	litje	86
 geen	dät	86
+nit	in	86
 foar	uus	86
 ju	haudstääd	85
 eende	fon	85
@@ -246,7 +248,6 @@ in	düsse	83
 dät	wie	83
 dät	noch	83
 dät	al	83
-uk	ne	82
 ju	in	82
 al	in	82
 wier	do	82
@@ -254,7 +255,9 @@ die	eerste	82
 do	sik	82
 dät	deer	82
 touhoope	mäd	81
+uk	ne	81
 un	ap	81
+as	iek	81
 an	n	81
 noch	n	81
 sik	nit	81
@@ -284,19 +287,17 @@ do	nit	75
 ju	waareld	74
 ap	seeltersk	74
 wan	do	74
-seelter	buund	74
 in	huus	74
 iek	dät	74
-er	jiere	73
 un	nit	73
 wuude	dät	73
+seelter	buund	73
 wie	uus	73
 me	dät	72
 as	een	72
 nit	fuul	72
 sik	uk	72
 wuude	in	72
-ätter	huus	72
 wol	iek	72
 fon	aal	71
 wan	hie	71
@@ -306,6 +307,7 @@ wäd	ju	71
 ju	äi	71
 dät	nu	71
 hiede	hie	71
+ätter	huus	71
 uus	määme	71
 do	fereende	70
 uk	fon	70
@@ -333,13 +335,13 @@ een	groote	68
 dät	täärp	67
 dät	aaste	67
 ju	slacht	67
-ju	uur	67
 wier	in	67
 uumdät	hie	67
 dän	seelter	67
 un	wier	67
 wan	wie	67
 ap	een	67
+ju	uur	66
 is	un	66
 et	rakt	66
 dät	seelterske	66
@@ -352,7 +354,6 @@ do	fon	65
 man	die	65
 seelter	sproake	65
 dät	fon	65
-dät	seeltersk	65
 waas	iek	65
 ap	de	64
 dät	een	64
@@ -361,6 +362,7 @@ wan	die	64
 ju	fon	64
 tou	kriegen	64
 waas	hie	64
+dät	seeltersk	64
 wuuden	do	63
 so	jädden	63
 sunt	in	63
@@ -406,7 +408,6 @@ so	goud	58
 dät	et	58
 do	uk	58
 tou	een	58
-is	nu	58
 sik	do	58
 in	mien	58
 do	oolde	57
@@ -418,7 +419,7 @@ hiede	dät	57
 sik	ju	57
 häd	hie	57
 dät	ganse	57
-dät	roate	57
+is	nu	57
 foar	mie	57
 foar	sien	56
 ätter	n	56
@@ -429,6 +430,7 @@ waas	uk	56
 waas	in	56
 fon	däälich	56
 uk	as	56
+dät	roate	56
 die	in	56
 geen	hie	56
 uumdät	jo	56
@@ -437,9 +439,7 @@ dät	näie	55
 do	ju	55
 un	waas	55
 mäd	sin	55
-noch	moor	55
 koast	du	55
-fon	him	55
 wuuden	sunt	54
 do	lääste	54
 uk	foar	54
@@ -447,19 +447,20 @@ dät	bie	54
 wuuden	is	54
 man	in	54
 truch	n	54
-dät	bouk	54
 do	fräisen	54
 hie	häd	54
 ju	säärke	54
+noch	moor	54
 dät	wäil	54
 in	t	54
 al	loange	54
 deer	is	54
+fon	him	54
 foarm	fon	53
 groote	deele	53
 in	disse	53
+dät	bouk	53
 ju	is	53
-man	nit	53
 ju	sunne	53
 dät	oaber	53
 mäd	uus	53
@@ -471,7 +472,6 @@ sunt	uk	52
 uk	bie	52
 dän	uur	52
 wäide	kon	52
-konnen	do	52
 sproake	fon	52
 fräiske	sproake	52
 fon	sowät	52
@@ -486,6 +486,7 @@ un	hiere	51
 do	fjauer	51
 bloot	in	51
 as	bie	51
+man	nit	51
 haudstääd	fon	51
 wäd	die	50
 fereende	stoaten	50
@@ -494,6 +495,8 @@ n	grooten	50
 do	do	50
 kon	iek	50
 deer	nit	50
+konnen	do	50
+silläärge	nit	50
 wier	die	50
 uk	so	50
 heel	un	50
@@ -540,7 +543,6 @@ noch	in	46
 un	foar	46
 nit	wier	46
 dät	hiede	46
-ju	siede	46
 die	pestoor	46
 me	sik	45
 uur	sproaken	45
@@ -554,7 +556,6 @@ do	tjo	45
 ja	nit	45
 do	sunt	45
 al	wier	45
-wät	deer	45
 dät	daach	45
 mie	dät	45
 häd	sik	44
@@ -574,6 +575,7 @@ hieden	do	44
 is	aan	44
 däälich	noch	44
 bestoant	uut	44
+ju	siede	44
 iek	dan	44
 iek	do	44
 die	twäide	43
@@ -590,7 +592,7 @@ dät	ne	43
 waas	deer	43
 nu	al	43
 is	deer	43
-do	dierte	43
+wät	deer	43
 un	kwaad	43
 un	bie	42
 dät	lieuwend	42
@@ -607,6 +609,7 @@ wude	dät	42
 un	kwad	42
 wie	hääbe	42
 waas	nit	42
+do	dierte	42
 nit	moal	42
 mäd	mie	42
 un	wäd	41
@@ -632,7 +635,6 @@ me	ju	41
 min	mon	41
 ja	wäil	41
 nit	goud	41
-un	geen	41
 ju	muure	41
 dät	geen	41
 sinti	un	41
@@ -651,6 +653,7 @@ moaste	iek	40
 wo	dät	40
 ieuwenske	ju	40
 jo	sunt	40
+un	geen	40
 uk	een	40
 ju	see	40
 un	roma	40
@@ -659,6 +662,7 @@ dän	kriech	39
 sik	deer	39
 die	groote	39
 moor	tou	39
+foar	aal	39
 in	skäddel	39
 suude	fon	39
 wät	tou	39
@@ -723,13 +727,11 @@ do	hiere	37
 provinz	fryslân	37
 iek	in	37
 wie	dät	37
-jo	hääbe	37
 iek	noch	37
 hööchte	fon	36
 loangte	fon	36
 un	ätter	36
 mäd	him	36
-him	tou	36
 bloot	een	36
 stääd	in	36
 ju	oamse	36
@@ -747,6 +749,7 @@ hie	wüül	35
 naite	fon	35
 deer	ap	35
 de	la	35
+him	tou	35
 wäil	moal	35
 lait	in	35
 un	wuude	35
@@ -762,6 +765,7 @@ me	nit	35
 al	so	35
 nit	fon	35
 dät	groote	35
+jo	hääbe	35
 wuden	is	35
 die	wäänt	35
 oaber	noch	35
@@ -777,7 +781,6 @@ is	dan	34
 wäästelk	fon	34
 dan	ju	34
 foar	ne	34
-die	oolde	34
 die	hoochste	34
 wuuden	in	34
 me	mäd	34
@@ -787,21 +790,20 @@ dät	lääste	34
 dan	do	34
 koom	die	34
 hääbe	jo	34
-ne	näie	34
 twiske	ju	34
 ju	ap	34
 uk	moal	34
 do	noudfräisen	34
 iek	oaber	34
-uur	siede	33
 sik	foar	33
 ju	twäide	33
 dän	twäiden	33
+dät	uum	33
 haaldeel	fon	33
 wie	in	33
-in	noudfräislound	33
 wät	hie	33
 ju	häd	33
+die	oolde	33
 of	n	33
 do	tou	33
 bruukt	wäide	33
@@ -816,10 +818,10 @@ moaked	wäide	33
 dän	groote	33
 dän	kääden	33
 niks	moor	33
-die	seelter	33
 tou	eende	33
 nu	is	33
 ap	eenmoal	33
+ne	näie	33
 deer	n	33
 do	usa	33
 dät	neen	33
@@ -836,9 +838,11 @@ inne	säärke	33
 dän	amazonas	33
 twäide	waareldkriech	32
 die	grootste	32
+uur	siede	32
 bloot	foar	32
 de	waareld	32
 is	al	32
+in	noudfräislound	32
 waas	oaber	32
 dät	riek	32
 waas	een	32
@@ -853,6 +857,7 @@ me	do	32
 jo	dät	32
 midde	fon	32
 bloot	n	32
+die	seelter	32
 juun	dän	32
 tou	begin	32
 beteekent	me	32
@@ -887,7 +892,6 @@ do	hieden	31
 bit	dät	31
 dät	roomske	31
 suun	fon	31
-foar	groote	31
 ju	region	31
 dät	kristendum	31
 do	noch	31
@@ -954,7 +958,6 @@ dät	wier	30
 iek	him	30
 die	koaster	30
 foar	sik	30
-nu	dät	30
 jo	hieden	30
 tou	de	30
 bau	fon	30
@@ -985,6 +988,7 @@ dan	dät	29
 of	uk	29
 bloot	do	29
 dän	artikkel	29
+foar	groote	29
 is	ap	29
 of	the	29
 me	ap	29
@@ -1000,6 +1004,7 @@ toun	biespiel	29
 do	uut	29
 ieuwenske	dät	29
 so	gau	29
+nu	dät	29
 me	dän	29
 hiede	sik	29
 seelterlound	un	29
@@ -1008,7 +1013,6 @@ tou	sien	29
 hie	wier	29
 is	also	29
 moor	so	29
-nu	n	29
 in't	noude	29
 wüül	iek	29
 him	dät	29
@@ -1056,7 +1060,6 @@ ju	oard	28
 so	tou	28
 tou	wäiden	28
 wäide	in	28
-fonsäärm	uk	28
 oard	fon	28
 noch	fon	28
 do	ferskeedene	28
@@ -1066,6 +1069,7 @@ ju	heele	28
 jo	nit	28
 ju	sälge	28
 ju	do	28
+nu	n	28
 hie	noch	28
 hie	ätter	28
 iek	mout	28
@@ -1078,6 +1082,7 @@ hääst	du	28
 uus	tou	28
 dän	rio	28
 mäd	aal	27
+nit	uurs	27
 is	ätter	27
 de	äide	27
 un	deerbie	27
@@ -1207,6 +1212,7 @@ dät	bit	25
 wäd	as	25
 wäide	uk	25
 dän	loop	25
+ju	al	25
 man	wät	25
 aal	in	25
 häd	een	25
@@ -1217,7 +1223,6 @@ slacht	fon	25
 ieuwenske	do	25
 der	ap	25
 dät	seelterfräiske	25
-seelterlound	mäd	25
 in	groote	25
 in	düssen	25
 ju	foarm	25
@@ -1244,7 +1249,6 @@ hiede	un	25
 een	näie	25
 sin	suun	25
 altied	so	25
-dät	museum	25
 ju	him	25
 iek	die	25
 ju	uunouhongegaid	25
@@ -1270,6 +1274,7 @@ ju	foulge	24
 man	tou	24
 koomen	do	24
 twäiden	waareldkriech	24
+nit	gjucht	24
 n	gans	24
 dät	skip	24
 sunt	fon	24
@@ -1298,6 +1303,7 @@ hääbe	dät	24
 groot	deel	24
 gans	uurs	24
 dät	aastfräiske	24
+seelterlound	mäd	24
 do	täärpe	24
 dät	däälich	24
 goud	tou	24
@@ -1308,6 +1314,7 @@ uut	ne	24
 sunt	wie	24
 also	nit	24
 dät	ooge	24
+fonsäärm	uk	24
 do	foar	24
 uk	neen	24
 nu	in	24
@@ -1321,6 +1328,7 @@ uk	altied	24
 do	iemen	24
 sik	uut	24
 waas	noch	24
+dät	museum	24
 uus	uk	24
 bee	do	24
 tou	ieten	24
@@ -1331,7 +1339,6 @@ dän	bierich	24
 dät	in't	24
 n	masse	24
 uus	in	24
-siede	un	24
 deer	wieren	24
 in't	suude	24
 häbe	iek	24
@@ -1372,7 +1379,6 @@ of	do	23
 so	groot	23
 een	jier	23
 uut	hiere	23
-oun	un	23
 wie	ju	23
 n	atom	23
 lound	un	23
@@ -1386,7 +1392,6 @@ ienwoonere	fon	23
 wääste	fon	23
 ju	eene	23
 in	düt	23
-dät	fluks	23
 as	aal	23
 sik	un	23
 uut	sien	23
@@ -1396,7 +1401,6 @@ un	in't	23
 of	uur	23
 mon	un	23
 un	koom	23
-dän	film	23
 liet	hie	23
 sik	een	23
 die	littje	23
@@ -1448,6 +1452,7 @@ uut	as	22
 pyt	kramer	22
 sik	dan	22
 dät	kumt	22
+oun	un	22
 unner	dät	22
 grootsten	deel	22
 ou	fon	22
@@ -1472,6 +1477,7 @@ un	moakede	22
 un	sogoar	22
 hie	wäil	22
 jo	mäd	22
+dät	fluks	22
 dät	was	22
 die	is	22
 eende	fon't	22
@@ -1491,8 +1497,8 @@ dän	ferdraach	22
 hie	al	22
 uus	inne	22
 tou	him	22
+siede	un	22
 foar	die	22
-toal	un	22
 uk	jädden	22
 bouk	is	22
 gemeinde	saterland	22
@@ -1528,7 +1534,6 @@ die	mäd	21
 him	ju	21
 him	uk	21
 dät	fäästlound	21
-wude	die	21
 nit	ju	21
 kuste	fon	21
 ju	macht	21
@@ -1563,7 +1568,6 @@ as	eerste	21
 dät	atom	21
 skäl	dät	21
 ja	al	21
-deer	aal	21
 nu	nit	21
 moasten	jo	21
 daach	noch	21
@@ -1575,16 +1579,16 @@ dät	wät	21
 uut	een	21
 weesen	waas	21
 die	deer	21
+dän	film	21
 dän	wiend	21
 sunt	deer	21
 ferdraach	fon	21
 moal	een	21
 wie	ap	21
-et	nu	21
 ju	britiske	21
 bit	do	21
 rebät	fon	21
-n	näie	21
+toal	un	21
 kreech	iek	21
 aastfräisk	plat	21
 stoaten	fon	20
@@ -1603,12 +1607,12 @@ in	änglound	20
 moakede	hie	20
 die	him	20
 as	ap	20
+wude	die	20
 iek	ap	20
 kricht	me	20
 wikipedia	is	20
 wai	ätter	20
 n	näien	20
-ju	oaine	20
 oaine	sproake	20
 sproake	is	20
 fon	skäddel	20
@@ -1682,6 +1686,7 @@ iek	deer	20
 du	die	20
 wieren	un	20
 junge	ljude	20
+et	nu	20
 häd	uus	20
 flakte	fon	20
 dän	kanoal	20
@@ -1689,6 +1694,7 @@ t	seelterlound	20
 hie	so	20
 sien	troppen	20
 buenos	aires	20
+n	näie	20
 du	mie	20
 jädden	liede	20
 nit	liede	20
@@ -1719,6 +1725,7 @@ kon	do	19
 in	gans	19
 lieuwend	fon	19
 fon	frankriek	19
+ju	oaine	19
 al	fon	19
 do	bit	19
 do	junge	19
@@ -1744,7 +1751,6 @@ deer	bloot	19
 is	siet	19
 koom	iek	19
 so	wät	19
-häd	nu	19
 deer	een	19
 ju	däälich	19
 ju	linke	19
@@ -1753,11 +1759,11 @@ van	der	19
 noch	mäd	19
 foar	un	19
 fon	sun	19
-wier	uk	19
 natuur	uut	19
 wai	tou	19
 in	fryslân	19
 ap	sin	19
+deer	aal	19
 uur	de	19
 un	wieren	19
 deer	dan	19
@@ -1858,6 +1864,7 @@ dät	latienske	18
 nu	ap	18
 dät	eed	18
 waas	daach	18
+häd	nu	18
 tou	skrieuwen	18
 ju	swaits	18
 lound	in	18
@@ -1865,13 +1872,13 @@ häd	fuul	18
 un	wäide	18
 uut	roomelse	18
 me	een	18
+wier	uk	18
 do	wäide	18
 groot	un	18
 do	bäien	18
 dät	lait	18
 wuud	in	18
 hieden	jo	18
-un	wude	18
 moal	so	18
 sik	ätter	18
 dät	gestrich	18
@@ -1954,6 +1961,7 @@ tou	leeren	17
 fräiske	sproaken	17
 uk	ful	17
 do	bie	17
+ju	fräiegaid	17
 ju	buurich	17
 belukt	sik	17
 wan	n	17
@@ -2000,11 +2008,11 @@ een	oard	17
 twintichste	jierhunnert	17
 fon	argentinien	17
 oolde	tieden	17
-deerfoar	ap	17
 hie	daach	17
 tou	kweeden	17
 ju	hiede	17
 aan	dai	17
+un	wude	17
 fuul	as	17
 koarte	fon	17
 noch	goud	17
@@ -2034,10 +2042,8 @@ uus	dan	17
 hie	sin	17
 dan	tou	17
 uum	uus	17
-gau	ap	17
 in't	aaste	17
 kon	nit	17
-toumäts	uk	17
 fon	mie	17
 fon	us	17
 mie	oaber	17
@@ -2046,14 +2052,12 @@ al	boalde	17
 ap	mien	17
 waas	ap	17
 t	huus	17
-museum	häd	17
 sien	huus	17
 do	oaber	17
 as	fröier	17
 fon	israel	17
 uunouhongegaid	fon	17
 uume	un	17
-tou	hooch	17
 ju	wüül	17
 wät	du	17
 deer	stuud	17
@@ -2065,7 +2069,6 @@ do	spoanske	17
 is	mie	17
 mai	iek	17
 oaber	dät	17
-uur't	seelterlound	17
 iek	n	17
 ju	uus	17
 wuchtere	un	17
@@ -2126,7 +2129,6 @@ wäd	n	16
 bäidene	un	16
 fon	groote	16
 ju	muur	16
-ljuude	sjo	16
 deerbie	is	16
 waas	fröier	16
 dan	ne	16
@@ -2164,7 +2166,6 @@ bit	sowät	16
 ju	hälle	16
 do	wiete	16
 fon	bee	16
-hier	nit	16
 do	an	16
 n	seelter	16
 die	knächt	16
@@ -2181,6 +2182,7 @@ sät	sik	16
 un	look	16
 deer	uut	16
 hie	noom	16
+toumäts	uk	16
 noch	gans	16
 ju	karibik	16
 koom	un	16
@@ -2190,11 +2192,12 @@ in	wäästfräislound	16
 un	ätters	16
 deer	wäil	16
 nit	as	16
-interessant	foar	16
 dät	uurs	16
 die	boas	16
+museum	häd	16
 al	moal	16
 jan	steen	16
+tou	hooch	16
 kon	nu	16
 saach	hie	16
 ap'e	naite	16
@@ -2203,8 +2206,8 @@ die	junge	16
 pestoor	sien	16
 do	wäänte	16
 uus	oolden	16
-seeltersk	rakt	16
 litje	antillen	16
+uur't	seelterlound	16
 neen	tied	16
 dät	goar	16
 appe	kop	16
@@ -2313,6 +2316,7 @@ de	doore	15
 wier	oun	15
 begon	ju	15
 wät	moor	15
+deerfoar	ap	15
 oawers	nit	15
 wuden	un	15
 aal	ju	15
@@ -2332,6 +2336,7 @@ wiertruch	dät	15
 do	as	15
 tou	sätten	15
 n	elektron	15
+hier	nit	15
 uur	een	15
 ju	uut	15
 ap	tou	15
@@ -2345,6 +2350,7 @@ dät	fröier	15
 uk	oafter	15
 jierhunnert	wuude	15
 sik	uum	15
+gau	ap	15
 dät	düsse	15
 bit	in't	15
 af	hie	15
@@ -2376,19 +2382,12 @@ wier	wät	15
 wäil	tou	15
 un	broachte	15
 uus	huus	15
-film	konnen	15
-näie	infotoafel	15
-infotoafel	uur't	15
-mäd	inspreeken	15
-inspreeken	seelterfräiske	15
-aal	däin	15
-däin	wät	15
+seeltersk	rakt	15
 in't	wääste	15
 dän	buund	15
 dät	mien	15
 iek	min	15
 natsionoale	minderhaiden	15
-kiekje	deerfoar	15
 tou	wiehnachten	15
 wie	kuden	15
 mie	noch	15
@@ -2476,6 +2475,7 @@ un	litje	14
 dät	noudwääste	14
 weese	un	14
 do	naiste	14
+ljuude	sjo	14
 kumt	fon	14
 dät	gebied	14
 mäd	woater	14
@@ -2483,6 +2483,7 @@ kuud	me	14
 de	foan	14
 wäil	noch	14
 loange	wai	14
+as	du	14
 as	määmesproake	14
 hieden	sik	14
 nit	bie	14
@@ -2497,7 +2498,6 @@ un	sunner	14
 ju	äntstoundenge	14
 in	dissen	14
 uk	däälich	14
-et	t	14
 me	nu	14
 fluks	wier	14
 uk	sun	14
@@ -2576,6 +2576,7 @@ dät	hier	14
 in	brasilien	14
 hiede	deer	14
 hier	tou	14
+interessant	foar	14
 do	europäere	14
 älke	dai	14
 kumt	uut	14
@@ -2603,11 +2604,11 @@ skäl	iek	14
 ap	mie	14
 tou	mie	14
 huus	tou	14
-bekoand	wude	14
 bekoand	moaket	14
-moal	gau	14
-un	sjuch	14
-sjuch	wät	14
+näie	infotoafel	14
+infotoafel	uur't	14
+mäd	inspreeken	14
+inspreeken	seelterfräiske	14
 fon	junner	14
 minderhaiden	un	14
 kwaad	tou	14
@@ -2688,7 +2689,6 @@ man	bie	13
 ju	theorie	13
 äänelk	as	13
 sunt	een	13
-wäd	truch	13
 fon	spanien	13
 dät	europäiske	13
 lound	wursten	13
@@ -2728,7 +2728,6 @@ määme	hiede	13
 noch	bie	13
 dät	finster	13
 waas	domoals	13
-as	du	13
 n	oard	13
 meente	in	13
 fon	munster	13
@@ -2747,7 +2746,6 @@ tied	uk	13
 fuul	ljuude	13
 do	gjuchte	13
 n	truchsleek	13
-wäil	in	13
 wo	me	13
 gungt	nit	13
 bie	die	13
@@ -2759,9 +2757,9 @@ bekoand	wuuden	13
 uur	groote	13
 muugelk	is	13
 däälich	uk	13
+et	t	13
 fon	wier	13
 as	sin	13
-nit	fluks	13
 fluks	in	13
 deerbie	wäd	13
 steede	wier	13
@@ -2810,7 +2808,6 @@ aal	wät	13
 dän	pot	13
 so	oafter	13
 sowät	as	13
-fluks	uk	13
 wude	ju	13
 mäd	groote	13
 ju	loangte	13
@@ -2846,7 +2843,6 @@ jie	dät	13
 him	noch	13
 do	iek	13
 die	höid	13
-him	aan	13
 moast	du	13
 sien	bäidene	13
 tou	sik	13
@@ -2870,17 +2866,19 @@ wier	bie	13
 uk	inne	13
 nit	al	13
 rund	uum	13
+bekoand	wude	13
 roomelse	gunge	13
-uk	interessant	13
-groote	ljuude	13
+film	konnen	13
 sänt	düsse	13
 kwaad	hie	13
 wäide	oaber	13
+aal	däin	13
+däin	wät	13
 do	seendengen	13
-noudfräislound	lieuwje	13
 dän	minderhaidenräid	13
 iek	kude	13
 mie	al	13
+kiekje	deerfoar	13
 hie	ja	13
 uus	bäidenstied	13
 inne	wieke	13
@@ -2912,6 +2910,7 @@ moakede	dät	12
 dät	sin	12
 uk	gjucht	12
 n	paat	12
+noomen	fon	12
 fon	nu	12
 bolde	nit	12
 antaal	fon	12
@@ -2925,7 +2924,6 @@ ju	koarte	12
 uum	de	12
 wo	ju	12
 al	een	12
-nu	rakt	12
 dät	siel	12
 poor	deege	12
 dät	noudaaste	12
@@ -2968,6 +2966,7 @@ artikkel	fon	12
 wierfon	do	12
 lound	fon	12
 is	uungefeer	12
+wäd	truch	12
 begränsed	fon	12
 wääste	un	12
 immer	moor	12
@@ -3024,6 +3023,7 @@ kumt	ju	12
 sunt	so	12
 wieren	in	12
 aal	sowät	12
+wäil	in	12
 in	tjo	12
 tied	noch	12
 waas	as	12
@@ -3045,6 +3045,7 @@ in	oolde	12
 hie	kreech	12
 unner	uur	12
 aal	moor	12
+nit	fluks	12
 do	oankelde	12
 hie	kuud	12
 do	nu	12
@@ -3096,6 +3097,7 @@ sleek	fon	12
 so	ful	12
 een	goude	12
 noch	aal	12
+fluks	uk	12
 do	däälich	12
 him	un	12
 sin	ätterfoulger	12
@@ -3155,6 +3157,7 @@ dät	inne	12
 der	goot	12
 in't	huus	12
 man	uumdät	12
+him	aan	12
 deer	hiede	12
 un	fluks	12
 sien	wieuwmaanske	12
@@ -3178,8 +3181,6 @@ uumdät	deer	12
 al	dän	12
 wier	wie	12
 wuude	een	12
-ne	idee	12
-idee	in	12
 bruke	neen	12
 neen	ienledenge	12
 ienledenge	un	12
@@ -3191,6 +3192,9 @@ winnerde	ienseendengen	12
 ienseendengen	wäide	12
 oaber	leter	12
 leter	bekoand	12
+moal	gau	12
+un	sjuch	12
+sjuch	wät	12
 peru	un	12
 in	peru	12
 deel	fon't	12
@@ -3206,20 +3210,13 @@ un	fräindai	12
 ap	westküste	12
 westküste	fm	12
 fm	heere	12
+noudfräislound	lieuwje	12
 in't	woater	12
 in	hongkong	12
 fon	min	12
 ju	wareld	12
 iek	an	12
 fonsäärm	nit	12
-ferkiersprognose	un	12
-dän	gewin	12
-gewin	fon	12
-do	bedrieuwere	12
-bedrieuwere	sunt	12
-sunt	duudelk	12
-duudelk	tou	12
-hooch	ounsät	12
 eerst	moal	12
 oaber	gans	12
 t	jiehr	12
@@ -3316,7 +3313,6 @@ ferbiendenge	mäd	11
 dan	sunt	11
 nit	bekoand	11
 waareld	keemen	11
-fjuur	un	11
 in	spanien	11
 groot	as	11
 kuud	hie	11
@@ -3513,7 +3509,6 @@ waas	do	11
 goud	ap	11
 ju	roode	11
 in	alle	11
-geen	ätter	11
 aan	mon	11
 oaber	do	11
 dät	altied	11
@@ -3565,6 +3560,10 @@ n	koaster	11
 wie	een	11
 un	keek	11
 ja	goar	11
+ne	idee	11
+idee	in	11
+uk	interessant	11
+groote	ljuude	11
 dät	moakede	11
 dät	doal	11
 deele	ap	11
@@ -3580,6 +3579,14 @@ diego	de	11
 min	früünd	11
 iek	wiel	11
 uus	ap	11
+ferkiersprognose	un	11
+dän	gewin	11
+gewin	fon	11
+do	bedrieuwere	11
+bedrieuwere	sunt	11
+sunt	duudelk	11
+duudelk	tou	11
+hooch	ounsät	11
 huus	an	11
 un	wol	11
 wäil	gans	11
@@ -3606,10 +3613,8 @@ un	wäänte	11
 środa	śląska	11
 do	buurgere	11
 äntelk	moal	11
-wurster	fräisk	11
 dät	aastfräisk	11
 do	ljudene	11
-star	wars	11
 me	as	10
 man	dan	10
 in	ruslound	10
@@ -3637,6 +3642,7 @@ fon	fjauer	10
 as	uur	10
 wude	ap	10
 un	sowät	10
+nu	rakt	10
 toal	tou	10
 wäide	kuud	10
 n	oainen	10
@@ -3694,6 +3700,7 @@ deer	neen	10
 rakt	n	10
 kriech	un	10
 un	gjucht	10
+fjuur	un	10
 sien	moanske	10
 däälich	fon	10
 ju	loangste	10
@@ -3734,7 +3741,6 @@ fon	roomelse	10
 ju	piepe	10
 dät	skäärjäiden	10
 ap	jusälge	10
-fon	näien	10
 ju	kunst	10
 foar	bäidene	10
 ju	foulgjende	10
@@ -3899,7 +3905,6 @@ wol	sik	10
 wäide	ap	10
 sien	tied	10
 ju	maaste	10
-wier	ne	10
 do	säks	10
 suk	een	10
 man	sik	10
@@ -3926,7 +3931,6 @@ gans	sicher	10
 wie	as	10
 dän	ju	10
 dät	deenske	10
-politiske	un	10
 een	foar	10
 die	häd	10
 een	twäide	10
@@ -3945,6 +3949,7 @@ die	noch	10
 dierte	sunt	10
 uus	bloot	10
 ju	technik	10
+geen	ätter	10
 ju	oksitoanske	10
 wät	uk	10
 koom	deer	10
@@ -4066,12 +4071,14 @@ waas	uus	10
 hillige	gäist	10
 fergeene	jiehr	10
 die	minderhaidenräid	10
+wurster	fräisk	10
 n	bíerig	10
 jungfräiske	mäinskup	10
 wädt	dät	10
 bouk	mose	10
 inne	winter	10
 hie	uus	10
+star	wars	10
 sik	ne	9
 uut	dissen	9
 dissen	gruund	9
@@ -4123,7 +4130,6 @@ km	loang	9
 kon	n	9
 me	so	9
 skrieuwen	wuuden	9
-der	sik	9
 dan	bloot	9
 ju	uurseeke	9
 focko	ukena	9
@@ -4200,6 +4206,7 @@ wäkke	mäd	9
 ap	die	9
 hat	ju	9
 gungt	ap	9
+fon	näien	9
 so	gungt	9
 bieldende	kunst	9
 kunst	is	9
@@ -4391,6 +4398,7 @@ lucht	in	9
 un	deerfon	9
 bloot	nit	9
 ut	dän	9
+wier	ne	9
 een	biespil	9
 uus	oolde	9
 wan	et	9
@@ -4434,6 +4442,7 @@ tied	ju	9
 in	moude	9
 so	fon	9
 do	färöer	9
+politiske	un	9
 af	nit	9
 in't	foarjier	9
 fluks	oun	9
@@ -4494,6 +4503,7 @@ nit	aan	9
 tou	waas	9
 haudstääd	un	9
 museumstäärp	kloppenbuurich	9
+du	bäst	9
 die	jeest	9
 twintich	jiere	9
 die	wai	9
@@ -4501,6 +4511,7 @@ fon't	jier	9
 een	million	9
 was	dät	9
 wo	wie	9
+dän	woain	9
 foulk	israel	9
 in	jerusalem	9
 gjucht	bliede	9
@@ -4698,6 +4709,7 @@ un	wiete	8
 noch	wäkke	8
 der	uur	8
 sik	foarallen	8
+der	sik	8
 ju	monarchie	8
 uur	sproake	8
 näie	sproake	8
@@ -4730,7 +4742,6 @@ ne	gans	8
 deerfon	kon	8
 de	facto	8
 wät	uut	8
-er	un	8
 beskrieuwenge	fon	8
 ne	ferbiendenge	8
 bruukt	uum	8
@@ -4939,7 +4950,6 @@ ienfierenge	fon	8
 die	bau	8
 so	wuude	8
 wuude	n	8
-ich	bin	8
 kloor	waas	8
 dät	jält	8
 of	jo	8
@@ -4977,7 +4987,6 @@ altied	ap	8
 ju	sälskup	8
 leedenge	fon	8
 määrkmoale	fon	8
-me	weet	8
 ju	trääde	8
 ju	spitse	8
 nit	genouch	8
@@ -5145,7 +5154,6 @@ nit	bruuke	8
 ap	noudfräisk	8
 die	een	8
 ju	kontrolle	8
-du	bäst	8
 jie	mie	8
 ap	sowät	8
 bie	düsse	8
@@ -5160,7 +5168,6 @@ tou	rädjen	8
 oolde	ljude	8
 ju	fräisensäärke	8
 die	kat	8
-dän	woain	8
 israel	sunt	8
 tel	aviv	8
 befoulkenge	in	8
@@ -5304,7 +5311,6 @@ sien	skiepe	8
 foutet	ap	8
 in	belize	8
 juust	nit	8
-oaber	een	8
 kude	dät	8
 ju	oaje	8
 foar	aaln	8
@@ -5360,7 +5366,6 @@ inne	krääf	8
 dät	mallör	8
 nu	koom	8
 hieden	dät	8
-hän	un	8
 uus	täärp	8
 dät	moakje	8
 as	mien	8
@@ -5377,7 +5382,6 @@ düütsklound	is	8
 fon	yucatán	8
 fon	guatemala	8
 noch	goar	8
-sicher	noch	8
 ju	däänske	8
 däänske	minderhaid	8
 ju	jungfräiske	8
@@ -5434,7 +5438,6 @@ dät	läichsaksiske	7
 fräiske	toal	7
 ju	koasterske	7
 un	seeltersk	7
-ras	lanuf	7
 noudaaste	fon	7
 stoaten	un	7
 wäd	nit	7
@@ -5560,6 +5563,7 @@ seelterlound	uk	7
 ju	meenenge	7
 sik	deeruur	7
 leeter	as	7
+tied	un	7
 sproake	as	7
 der	friesischen	7
 sien	lääste	7
@@ -5844,6 +5848,7 @@ of	moor	7
 n	proton	7
 biespil	fon	7
 griechiske	woud	7
+me	weet	7
 dän	valenzbeend	7
 tou	fieren	7
 do	bekoandste	7
@@ -5890,7 +5895,6 @@ mout	man	7
 bloot	truch	7
 de	saise	7
 alle	jiere	7
-un	kulturelle	7
 woud	tou	7
 uum	sowät	7
 alwen	stääde	7
@@ -5915,7 +5919,6 @@ foarmen	fon	7
 ju	froaie	7
 dan	roate	7
 wieren	ap	7
-sien	wierke	7
 aal	fon	7
 groot	is	7
 een	steede	7
@@ -6193,7 +6196,6 @@ chile	un	7
 haudstääd	cusco	7
 mäd	jou	7
 der	gemeinde	7
-oaine	toal	7
 do	burgere	7
 een	lieste	7
 fon't	roomske	7
@@ -6235,7 +6237,6 @@ do	wäästindiske	7
 wäästindiske	ailounde	7
 maasttieds	mäd	7
 kwaad	die	7
-nu	uurs	7
 oolde	haudstääd	7
 in	quito	7
 aan	burgerkriech	7
@@ -6267,6 +6268,7 @@ fon	links	7
 octavianus	sien	7
 un	kloor	7
 nood	hiede	7
+oaber	een	7
 wüül	dän	7
 oaber	tou	7
 aus	ramsloh	7
@@ -6342,6 +6344,7 @@ in	släswiek-holsten	7
 bale	un	7
 eerst	ätter	7
 aastfräiske	sproake	7
+sicher	noch	7
 uus	noaber	7
 das	ist	7
 hät	ju	7
@@ -6574,6 +6577,7 @@ läite	do	6
 do	regionoal	6
 seeltersk	as	6
 fangt	ju	6
+general	anzeiger	6
 do	psoolme	6
 seelterlound	ap	6
 ap	seelterfräisk	6
@@ -6722,6 +6726,7 @@ hääbe	aal	6
 annerde	sik	6
 fon	strukelje	6
 dät	wiest	6
+loanghoarster	iesk	6
 die	geschichte	6
 fon	belgien	6
 aan	oainen	6
@@ -7013,6 +7018,7 @@ wier	toun	6
 nit	deeruum	6
 wier	et	6
 häd	hieren	6
+un	kulturelle	6
 tied	as	6
 alles	tou	6
 fon	woud	6
@@ -7048,6 +7054,7 @@ al	kloor	6
 mäd	et	6
 de	stääd	6
 oafter	tou	6
+sien	wierke	6
 him	is	6
 ferbuunden	mäd	6
 du	in	6
@@ -7074,7 +7081,6 @@ atom	is	6
 hääbe	ap	6
 seelterfräiske	wikipedia	6
 wies	wäide	6
-c	un	6
 me	beeter	6
 nit	iete	6
 düsse	oard	6
@@ -7092,7 +7098,6 @@ sik	bit	6
 lucht	ap	6
 un	säälwer	6
 stoalt	sik	6
-bouke	fon	6
 bäidenstied	waas	6
 äärm	un	6
 do	äärme	6
@@ -7247,6 +7252,7 @@ deer	stounde	6
 foulkställenge	fon	6
 ju	skipfoart	6
 sträite	un	6
+kjuus	un	6
 besunners	foar	6
 sät	un	6
 dät	ferhooldnis	6
@@ -7341,7 +7347,6 @@ fääst	un	6
 ju	tällenge	6
 seelterske	tool	6
 olde	seelter	6
-in	romelse	6
 int	seelterlound	6
 een	woud	6
 in	bolivien	6
@@ -7368,7 +7373,6 @@ geen	nit	6
 deer	mee	6
 technik	fon	6
 gould	un	6
-roate	oaber	6
 eerste	jierhunnert	6
 dät	touminst	6
 is	deel	6
@@ -7491,6 +7495,7 @@ dän	beriek	6
 wät	moakje	6
 un	tied	6
 ju	suumertied	6
+oaine	toal	6
 wädt	in	6
 un	sloot	6
 suster	fon	6
@@ -7569,6 +7574,7 @@ holt	fon	6
 moal	ap	6
 josé	de	6
 hiere	stääd	6
+nu	uurs	6
 ju	foulgetied	6
 fon't	inka-riek	6
 dän	häärsker	6
@@ -8060,7 +8066,6 @@ unner	skuts	5
 grote	skoule	5
 do	sköilere	5
 fon	seelter	5
-general	anzeiger	5
 un	pyt	5
 alle	seelter	5
 un	lääste	5
@@ -8068,6 +8073,7 @@ skreeuw	uk	5
 tästamänt	un	5
 un	dööntjene	5
 wieke	fon	5
+jiere	moor	5
 jiere	mäd	5
 ju	oawers	5
 füüftiger	jiere	5
@@ -8075,7 +8081,6 @@ tied	wuud	5
 ju	foatenge	5
 wieruum	do	5
 n	praxis	5
-tied	un	5
 uk	bolde	5
 wuude	nit	5
 wierfon	hie	5
@@ -8261,7 +8266,6 @@ seelterlound	uut	5
 flaage	fon	5
 dän	oarden	5
 fienden	in	5
-loanghoarster	iesk	5
 dät	hoochste	5
 ju	woal	5
 mädnunner	rakt	5
@@ -8756,9 +8760,9 @@ man	ieuwenske	5
 stroom	truch	5
 in	älk	5
 do	stoaten	5
-af	uur	5
 plonten	woakse	5
 latienske	noomen	5
+c	un	5
 un	sünt	5
 mäd	wiete	5
 un	struuke	5
@@ -8778,6 +8782,7 @@ fon	ljuude	5
 dät	algemeene	5
 in	wääst	5
 uk	leeter	5
+bouke	fon	5
 un	lät	5
 do	loagen	5
 ätter	binnen	5
@@ -9007,7 +9012,6 @@ tou	tied	5
 meter	loang	5
 do	spuuren	5
 tourääch	ap	5
-kjuus	un	5
 goud	jäild	5
 jäild	tou	5
 tou	fertjoonjen	5
@@ -9025,6 +9029,7 @@ hauen	un	5
 gungt	dan	5
 do	eersten	5
 m	hooch	5
+er	jiere	5
 die	latienske	5
 cm	hooch	5
 ju	kumt	5
@@ -9092,6 +9097,7 @@ bit	dän	5
 so	froamd	5
 uure	loang	5
 et	ju	5
+skoulen	fon	5
 disse	region	5
 bierge	un	5
 präsidänt	fon	5
@@ -9150,6 +9156,7 @@ die	seelterbund	5
 bit	dälig	5
 sik	faar	5
 lät	un	5
+in	romelse	5
 do	sträiten	5
 wäid	is	5
 ju	siedlenge	5
@@ -9191,6 +9198,7 @@ oafter	so	5
 sik	düsse	5
 man	uum	5
 sjoon	kriege	5
+roate	oaber	5
 jält	die	5
 ne	loange	5
 aiske	loange	5
@@ -9238,7 +9246,6 @@ ruinen	fon	5
 moakeden	jo	5
 jo	deermäd	5
 anne	siede	5
-un	lääse	5
 dän	foarsleek	5
 sjoon	kreegen	5
 boalde	bie	5
@@ -9944,7 +9951,6 @@ die	turban	5
 ju	kuh	5
 druuge	tuwwelke	5
 iek	keek	5
-dän	pralinenkasten	5
 updrögt	bohnen	5
 paul	gerhardt	5
 swäite	moalk	5
@@ -10014,7 +10020,6 @@ die	foarstand	4
 kwäd	die	4
 oolden	mon	4
 ju	ferdäägenge	4
-bin	laden	4
 do	näiste	4
 wiete	un	4
 suldoaten	ap	4
@@ -10142,7 +10147,6 @@ hie	baude	4
 un	naamde	4
 ocko	ii	4
 fon	bremen	4
-buund	fon	4
 ubbo	emmius	4
 hiede	uum	4
 oamde	in	4
@@ -10297,7 +10301,6 @@ akzent	wäd	4
 nit	skrieuwen	4
 hoolfkuute	u	4
 jiere	ap	4
-jiere	moor	4
 do	trüütiger	4
 trüütiger	jiere	4
 in	eepene	4
@@ -10593,6 +10596,7 @@ dän	ploats	4
 oolde	bielden	4
 fon	theo	4
 theo	deddens	4
+un	noomen	4
 lääste	deel	4
 noude	an	4
 china	un	4
@@ -10606,7 +10610,6 @@ ne	spoule	4
 ne	wikselsponnenge	4
 haager	wäd	4
 hääbe	foar	4
-v	un	4
 rakt	also	4
 alkoholiske	jeesenge	4
 as	fjuurenge	4
@@ -10630,6 +10633,7 @@ ne	tjukte	4
 deel	truch	4
 foardeel	fon	4
 man	wäl	4
+licht	un	4
 sjoon	sunt	4
 nit	weet	4
 of	juun	4
@@ -10812,8 +10816,6 @@ nit	färre	4
 ju	houndbedrieuwene	4
 mäd	wiltshusen	4
 fääre	wuud	4
-sik	beschäftiget	4
-beschäftiget	mäd	4
 die	apstound	4
 hie	je	4
 al	oafter	4
@@ -11027,7 +11029,6 @@ ju	p-typ	4
 gjuchte	truch	4
 dan	lukt	4
 ne	grööte	4
-ie	in	4
 foarallen	mäd	4
 mäd	uurs	4
 tou	woater	4
@@ -11317,6 +11318,7 @@ antaal	protone	4
 buuten	do	4
 rulle	spielt	4
 tou	aal	4
+af	uur	4
 uur	litje	4
 düssen	artikel	4
 bruukt	n	4
@@ -12137,6 +12139,7 @@ mäd	gewalt	4
 wie	se	4
 nit	anne	4
 wie	gunge	4
+un	lääse	4
 wie	wai	4
 hoalje	ju	4
 jäild	wier	4
@@ -12226,10 +12229,8 @@ him	juust	4
 sin	aainen	4
 moaste	do	4
 wude	fräiged	4
-uns	in	4
 aan	äärmen	4
 äärmen	mon	4
-aan	däi	4
 koopede	hie	4
 so	äärm	4
 ounkeemen	waas	4
@@ -12262,7 +12263,6 @@ säärm	mäd	4
 deer	wäi	4
 moor	in't	4
 ju	swoote	4
-älken	däi	4
 aaltied	so	4
 do	monljüüde	4
 geen	tou	4
@@ -12366,7 +12366,6 @@ sunt	hoast	4
 in'n	moai	4
 ju	noaberskup	4
 läige	lound	4
-ô	û	4
 silläärge	noch	4
 ju	eerdere	4
 wäl	sik	4
@@ -12641,7 +12640,6 @@ un	fröier	4
 do	roomere	4
 kuumt	uut	4
 uk	seeltersk	4
-kiekje	moal	4
 tou	staalen	4
 ap	bit	4
 ist	nicht	4
@@ -12849,7 +12847,6 @@ middeloaler	een	4
 mon	uut	4
 sien	auto	4
 hie	gungt	4
-hinnerk	iv	4
 stoant	unner	4
 san	josé	4
 twäie	mäd	4
@@ -13290,12 +13287,6 @@ un	fersoachte	4
 frasche	rädj	4
 buundesministerium	foar	4
 uut	tlaxcala	4
-picture	frame	4
-with	acrylic	4
-acrylic	front	4
-front	and	4
-and	foam	4
-foam	board	4
 set	of	4
 wallpaper	decal	4
 home	kids	4
@@ -13370,6 +13361,7 @@ do	swoane	4
 ju	ooldenburichske	4
 ooldenburichske	loundskup	4
 telefone	an'n	4
+an'n	träid	4
 ju	spalte	4
 nu	altied	4
 wie	gans	4
@@ -13511,6 +13503,7 @@ un	laachede	4
 lätst	du	4
 wo	schuul	4
 iete	wollen	4
+dän	pralinenkasten	4
 uus	möie	4
 stuud	dan	4
 goude	buutere	4
@@ -13838,6 +13831,7 @@ naamde	sik	3
 buund	mäd	3
 brok	in	3
 fon	ukena	3
+buund	fon	3
 buurich	stickhusen	3
 toun	skuts	3
 waas	loange	3
@@ -14027,7 +14021,6 @@ in	groot-britannien	3
 daach	uurs	3
 uut	fräislound	3
 deertruch	äntstounde	3
-up	de	3
 do	bleedere	3
 n	wiet	3
 plonte	is	3
@@ -14511,7 +14504,6 @@ ferföiget	uur	3
 un	doaten	3
 doaten	fon	3
 bielden	uut	3
-un	noomen	3
 fon	pyt	3
 million	ljuude	3
 düütsk	as	3
@@ -14535,6 +14527,7 @@ dät	interessante	3
 do	sponnengen	3
 n	trafo	3
 kon	moorere	3
+v	un	3
 uurbrangen	fon	3
 fon	luud	3
 gjucht	nutselk	3
@@ -14782,7 +14775,6 @@ und	infos	3
 n	teeken	3
 jeegere	un	3
 fon	hoangste	3
-er	jieren	3
 tou	besätten	3
 foar	jiertjaande	3
 km	fääre	3
@@ -15047,7 +15039,6 @@ de	muure	3
 muure	in	3
 ap	gruunde	3
 in	praxis	3
-kuuden	truch	3
 truch	litje	3
 ju	wäästsiede	3
 uurräste	fon	3
@@ -15467,7 +15458,6 @@ periode	fon	3
 gruundloage	fon	3
 an	timotheus	3
 dän	petrus	3
-dät	nt	3
 testamänt	un	3
 dät	noudfräisk	3
 wäästfräiske	uursättenge	3
@@ -15711,8 +15701,6 @@ chor	un	3
 wenn	ich	3
 dän	junge	3
 steede	as	3
-dän	dom	3
-dom	fon	3
 händel	in	3
 naan	fon	3
 karl	von	3
@@ -15967,6 +15955,7 @@ tied	fuul	3
 sik	reeke	3
 ärkanne	kon	3
 heel	niep	3
+aal	n	3
 nuumen	neen	3
 befoulkenge	foar	3
 ne	region	3
@@ -16370,7 +16359,6 @@ eenfach	as	3
 ne	stins	3
 stins	is	3
 wuud	eerste	3
-älke	däi	3
 goang	truch	3
 täärp	skäddel	3
 dät	skäddeler	3
@@ -16630,7 +16618,6 @@ gunge	kuud	3
 woormer	wäd	3
 gruppen	un	3
 ju	geegend	3
-seelterbuund	fon	3
 deerbie	geen	3
 wieren	also	3
 geböärnisse	uut	3
@@ -16874,6 +16861,8 @@ un	glitskere	3
 junge	un	3
 deer	uum	3
 de	weeden	3
+sik	beschäftiget	3
+beschäftiget	mäd	3
 iendeelenge	is	3
 noome	waareldmusik	3
 ju	läichsaksiske	3
@@ -16934,7 +16923,6 @@ gruund	häbe	3
 un	smit	3
 ju	weede	3
 wiedet	sik	3
-munt	pers	3
 n	bupperen	3
 n	hotel	3
 bernina	un	3
@@ -17266,6 +17254,7 @@ hälgelound	wäd	3
 hälgelound	un	3
 haudailound	is	3
 apdeeld	twiske	3
+buppelound	un	3
 do	fälsen	3
 briten	hieden	3
 läiten	un	3
@@ -17424,7 +17413,6 @@ bit	appe	3
 mäd	mudde	3
 und	sich	3
 dass	sie	3
-uns	die	3
 in	scharrel	3
 es	jetzt	3
 nicht	mehr	3
@@ -17453,7 +17441,6 @@ wäägen	dät	3
 jiere	in't	3
 ängelske	woude	3
 fergeene	wieke	3
-anwalt	tjalling	3
 n	gjuchter	3
 omrop	fryslân	3
 dät	betjuudet	3
@@ -17506,7 +17493,6 @@ stoalden	do	3
 skuul	fon	3
 uum	hoolich	3
 die	linke	3
-mon	fon	3
 dät	projäkt	3
 truchmeeter	fon	3
 wie	ferstounde	3
@@ -17543,7 +17529,6 @@ wan	düsse	3
 düsse	tälstere	3
 ärheelden	un	3
 n	äärmen	3
-heelen	däi	3
 deer	ruut	3
 nieme	un	3
 ünner	aan	3
@@ -17678,7 +17663,6 @@ aal	koom	3
 tou	geen	3
 mäd	toufree	3
 groot	huus	3
-däi	koom	3
 dreegend	waas	3
 ruup	do	3
 wied	un	3
@@ -17928,6 +17912,7 @@ have	the	3
 luister	en	3
 tekst	en	3
 oun't	woater	3
+in't	täärp	3
 un	foar't	3
 dät	maracaibo-jooplound	3
 fon	guayana	3
@@ -18487,7 +18472,6 @@ sik	masse	3
 ailounde	tou	3
 un	deels	3
 dät	hubble	3
-deep	field	3
 rien	schäl	3
 fon	suudafrikoa	3
 ounhongere	fon	3
@@ -18549,6 +18533,7 @@ indioanere	uut	3
 dän	woaterspeegel	3
 aan	fjoodendeel	3
 griechiske	sproake	3
+kathoolske	bräive	3
 do	synoptiske	3
 synoptiske	evangelien	3
 un	dosälge	3
@@ -18593,7 +18578,6 @@ fereend	köönichriek	3
 brasilioanske	rio	3
 un	wirtskup	3
 do	privilegien	3
-er	jahren	3
 republik	suudafrikoa	3
 eerste	buurenkriech	3
 fon't	fereende	3
@@ -18906,7 +18890,6 @@ stroomsnällen	un	3
 ju	kolonioal-tied	3
 villas	bôas	3
 sänt	do	3
-man	dut	3
 gode	wieren	3
 tou	begriepen	3
 dän	hemel	3
@@ -19392,7 +19375,6 @@ knu	uk	3
 deerfon	uutgeen	3
 noch	wäl	3
 so	juun	3
-bei	uns	3
 junge	monljude	3
 mäd	junge	3
 ljude	is	3
@@ -19939,7 +19921,10 @@ mäd	alwen	3
 mäd	cortés	3
 do	geskoanke	3
 do	tachiwin	3
-wood	picture	3
+picture	frame	3
+with	acrylic	3
+acrylic	front	3
+front	and	3
 die	sich	3
 dän	koafje	3
 truchsät	häd	3
@@ -19991,6 +19976,7 @@ toal	häd	3
 dusse	toal	3
 oolde	aastfräiske	3
 moakje	fon	3
+de	un	3
 organeum	in	3
 aastfräislound	is	3
 organisation	foar	3
@@ -20088,7 +20074,6 @@ jíer	dät	3
 ju	du	3
 alle	fräiske	3
 dusse	dege	3
-dut	moal	3
 iek	heel	3
 iek	gau	3
 dät	lezen	3
@@ -20501,7 +20486,6 @@ brand	new	3
 figuredo	ferkiersprognose	3
 zeit	online	3
 ju	woudfrequenz	3
-gi	joe	3
 ljude	mäd	3
 altied	gjucht	3
 fiende	dät	3

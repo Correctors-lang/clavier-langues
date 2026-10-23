@@ -1,10 +1,10 @@
 # Bigrammes swg (FineWeb-2 swg_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-vu	d	1688
+vu	d	1687
 un	de	1574
-un	sie	1544
+un	sie	1543
 vum	herrn	1437
-dr	herr	1416
+dr	herr	1415
 in	d	1131
 un	d	1055
 uf	d	1008
@@ -15,7 +15,8 @@ un	sait	834
 un	s	743
 daß	sie	730
 dr	kenig	676
-uf	däm	670
+uf	däm	667
+in	dr	662
 vor	rem	654
 un	het	584
 kenig	vu	552
@@ -32,11 +33,11 @@ un	alli	473
 vu	sinem	469
 we	ä	465
 uf	un	460
-ich	will	453
+ich	will	452
 un	di	449
 a	d	445
 in	de	441
-vu	sinere	439
+vu	sinere	438
 des	huus	431
 daß	dü	425
 s	isch	418
@@ -46,7 +47,7 @@ mit	nem	410
 vor	d	404
 hi	un	404
 d	kenig	394
-un	in	394
+un	in	393
 so	daß	390
 un	vu	389
 dü	sollsch	389
@@ -57,7 +58,7 @@ un	will	372
 un	mit	370
 mit	d	361
 unda	d	352
-un	ihri	347
+un	ihri	346
 als	sie	328
 un	ihr	326
 un	dü	326
@@ -65,12 +66,12 @@ de	schtadt	320
 un	si	318
 in	des	318
 im	land	313
-un	sage	310
+un	sage	308
 un	nit	301
 a	däm	300
 vu	dinem	295
 sie	nit	291
-un	zue	286
+un	zue	285
 un	mi	285
 un	wenn	281
 herrn	un	278
@@ -79,16 +80,16 @@ in	däm	275
 des	herrn	273
 d	erde	272
 will	ich	272
-glo	hän	271
 der	wo	271
-zue	nene	270
+glo	hän	270
+zue	nene	269
 d	israelite	269
 vu	minem	265
 daß	ihr	264
 üs	dr	264
 sie	in	260
 a	un	258
-denn	sie	257
+denn	sie	256
 iba	de	254
 däm	kenig	250
 dr	schtadt	249
@@ -100,9 +101,9 @@ gsait	het	244
 het	sich	236
 aba	de	236
 denn	s	235
-vu	nem	234
 dü	hesch	233
-des	isch	231
+vu	nem	233
+des	isch	230
 sie	sich	228
 wenn	sie	226
 vum	huus	225
@@ -112,7 +113,7 @@ vu	israel	220
 un	wird	218
 un	uf	218
 zue	ma	217
-sie	hän	217
+sie	hän	216
 an	d	216
 vum	himmel	214
 vu	dr	213
@@ -148,15 +149,15 @@ sie	zue	184
 so	wird	184
 des	ganze	182
 isch	ä	181
-in	israel	181
+in	israel	180
 in	sinem	179
-iba	sie	178
+iba	sie	177
 uf	dr	177
 un	iba	176
 israel	un	176
-isch	des	175
 juda	un	175
 däm	land	175
+isch	des	174
 üs	d	174
 huus	israel	174
 zum	kenig	173
@@ -204,8 +205,8 @@ un	zeht	154
 sie	sin	154
 un	vum	152
 dag	vum	151
-un	sich	151
 dr	erde	151
+un	sich	150
 wenn	ihr	150
 un	we	150
 zuem	kenig	150
@@ -268,21 +269,21 @@ aba	d	132
 d	heide	131
 aba	des	130
 an	däm	130
-äich	nit	129
-wäre	un	129
 doe	het	129
 ihr	äich	128
+äich	nit	128
 wel	sie	128
 sie	uf	128
+wäre	un	128
 durch	de	128
 un	wer	128
-dmit	sie	127
 in	ä	127
 d	lit	127
 iba	di	127
 de	prieschta	126
 nit	zue	126
 mit	ihrem	126
+dmit	sie	126
 sie	aba	126
 de	lade	125
 sini	hand	125
@@ -301,27 +302,27 @@ dü	wirsch	122
 um	d	122
 nit	mit	122
 we	dr	121
-will	mi	121
 wel	dü	120
 un	legt	120
 sie	üs	120
-denn	de	120
 iba	alli	120
+will	mi	120
 nit	in	120
 un	am	119
 un	ha	119
+denn	de	119
 bis	zum	119
 d	wäg	119
 aba	ä	119
 mit	dr	119
 do	kummt	118
 soll	sie	118
-däm	berg	116
 volk	israel	116
 üs	un	116
 sag	zue	116
 d	hand	115
 un	glo	115
+däm	berg	115
 di	nit	115
 d	philista	115
 iba	israel	114
@@ -345,12 +346,12 @@ sie	de	110
 zue	jerusalem	110
 in	juda	110
 däm	wäg	110
-un	len	110
 un	fir	110
 wo	sie	110
 we	d	110
 nem	un	109
 d	ziit	109
+un	len	109
 hän	ihr	109
 isch	bassiert	109
 un	david	108
@@ -358,10 +359,10 @@ ihr	nit	108
 de	vu	108
 gege	sie	108
 bisch	dü	108
-däm	feld	108
 di	knecht	107
 er	het	107
 de	ziit	107
+däm	feld	107
 vu	dir	106
 sie	d	106
 als	des	106
@@ -388,7 +389,6 @@ un	isch	102
 herr	wird	102
 het	d	102
 un	nen	102
-sage	zue	102
 mi	hand	102
 ihr	sollt	101
 gmacht	hän	101
@@ -400,6 +400,7 @@ kenig	iba	100
 soll	ma	100
 lit	vu	100
 aba	sie	100
+sage	zue	100
 un	nohch	100
 nem	ä	99
 um	des	99
@@ -414,11 +415,11 @@ un	sin	98
 d	schtädt	98
 um	un	98
 un	schlat	98
-ganze	volk	98
 un	kei	98
 aba	het	98
 mit	äich	97
 iba	äich	97
+ganze	volk	97
 un	moses	97
 de	ganzi	96
 do	isch	96
@@ -431,7 +432,6 @@ nen	zue	95
 d	berg	95
 um	sie	95
 uf	fem	95
-so	isch	94
 so	will	94
 goht	hi	94
 ghärt	hän	94
@@ -445,6 +445,7 @@ daß	sa	93
 sich	in	93
 un	im	93
 isch	nit	93
+so	isch	93
 will	i	93
 bäut	het	93
 git	zantwort	93
@@ -491,30 +492,28 @@ het	des	89
 un	er	89
 vu	äich	88
 nen	nit	88
-het	dr	88
 als	dr	88
 vum	volk	88
 dü	aba	88
-ge	un	88
 alli	de	88
 un	doet	87
 het	de	87
 d	mensch	87
-zue	sinem	87
+het	dr	87
+ge	un	87
 iba	nen	87
 ä	wieb	87
-wore	isch	87
 des	alles	87
 ich	sie	87
 de	sich	86
 do	wird	86
 sinere	hand	86
 was	dü	86
-sinem	volk	86
-si	läbä	86
+zue	sinem	86
 däm	platz	86
 sie	soll	86
 un	guet	86
+wore	isch	86
 bi	dir	86
 ins	land	86
 moses	un	86
@@ -525,8 +524,10 @@ prieschta	un	85
 de	mit	85
 kummt	un	85
 un	ganz	85
+sinem	volk	85
 in	si	85
 herrn	wort	85
+si	läbä	85
 ab	un	85
 a	des	85
 wägä	ma	85
@@ -606,8 +607,6 @@ wird	da	76
 uf	sie	76
 noh	nit	76
 de	händ	76
-z	ge	75
-in	nem	75
 ä	end	75
 sin	de	75
 was	sie	75
@@ -620,6 +619,8 @@ erde	un	75
 soll	des	75
 will	de	75
 gege	mi	75
+z	ge	74
+in	nem	74
 in	alle	74
 kärre	un	74
 au	ä	74
@@ -683,11 +684,9 @@ der	het	70
 un	bringt	70
 iba	dich	70
 we	s	69
-sich	vu	69
 wenn	ä	69
 si	herz	69
 des	herz	69
-un	nene	69
 ihr	aba	69
 un	israel	69
 gege	di	69
@@ -699,8 +698,10 @@ dr	schtiftshitte	68
 d	rechte	68
 schof	un	68
 minem	name	68
+sich	vu	68
 di	volk	68
 un	noh	68
+un	nene	68
 in	ägypte	68
 volk	vum	68
 d	heilige	68
@@ -723,11 +724,9 @@ un	gang	67
 nem	d	67
 vu	assyrien	67
 do	sait	66
-aba	un	66
 ha	di	66
 land	dr	66
 het	in	66
-läbä	lang	66
 sich	mit	66
 wird	di	66
 un	der	66
@@ -739,11 +738,10 @@ nit	ä	66
 engel	vum	66
 ihr	solle	66
 zue	mir	66
-het	ma	65
 sait	dr	65
+aba	un	65
 sie	ä	65
-all	des	65
-wäre	de	65
+läbä	lang	65
 un	dir	65
 brot	un	65
 un	den	65
@@ -765,12 +763,15 @@ sin	un	64
 de	des	64
 herrn	zue	64
 des	sin	64
+het	ma	64
+all	des	64
 in	däne	64
 au	des	64
 kummt	zue	64
 de	d	64
 vor	gott	64
 wel	ihr	64
+wäre	de	64
 wird	sich	64
 sin	sie	64
 a	nene	64
@@ -785,7 +786,6 @@ do	kumme	63
 am	dag	63
 mit	däne	63
 d	dote	63
-z	ässä	63
 dmit	dü	63
 kenig	salomo	62
 gschtande	sin	62
@@ -799,6 +799,7 @@ etze	de	62
 s	nem	62
 do	het	62
 nohch	d	62
+z	ässä	62
 soll	d	62
 wird	nit	62
 des	wassa	62
@@ -934,7 +935,6 @@ si	name	55
 breda	un	55
 wird	si	55
 doe	hän	55
-soll	la	55
 sini	kleida	55
 ma	un	55
 sollsch	nit	55
@@ -946,6 +946,7 @@ het	nem	54
 in	ihra	54
 zue	un	54
 sie	gehn	54
+soll	la	54
 ziit	wird	54
 wenn	de	54
 schwert	un	54
@@ -1002,7 +1003,6 @@ a	vu	51
 nem	zue	51
 vum	tempel	51
 däne	dag	51
-un	jeda	51
 ihr	land	51
 sie	ware	51
 huus	juda	51
@@ -1017,6 +1017,7 @@ so	viel	50
 un	richte	50
 isch	kei	50
 etze	des	50
+un	jeda	50
 johr	zue	50
 schtier	un	50
 unda	dr	50
@@ -1034,7 +1035,6 @@ läbä	un	49
 s	uf	49
 de	zue	49
 ha	i	49
-zue	minem	49
 sie	zum	49
 sinene	vädere	49
 nem	de	49
@@ -1061,6 +1061,7 @@ do	git	48
 lang	un	48
 de	leviten	48
 herr	zue	48
+zue	minem	48
 des	fiir	48
 sundern	sie	48
 recht	un	48
@@ -1086,7 +1087,6 @@ de	grenze	48
 dü	mich	48
 rich	gottes	47
 d	geischt	47
-fir	sich	47
 isch	we	47
 meer	un	47
 vu	ällei	47
@@ -1102,7 +1102,6 @@ heer	vum	47
 fir	nen	47
 durch	di	47
 het	zue	47
-ma	in	47
 dert	ä	47
 mit	name	47
 im	oschte	47
@@ -1115,6 +1114,7 @@ sin	we	47
 nohch	ihre	47
 ich	dich	47
 gsait	ha	46
+fir	sich	46
 mir	hän	46
 de	noh	46
 loß	di	46
@@ -1123,6 +1123,7 @@ het	s	46
 macht	ä	46
 vierzig	johr	46
 aba	sait	46
+ma	in	46
 zum	huus	46
 denn	wenn	46
 mi	un	46
@@ -1202,7 +1203,6 @@ als	er	44
 het	nit	44
 wird	vu	44
 aba	isch	44
-de	heide	44
 was	dr	44
 kasch	dü	44
 hand	üs	44
@@ -1224,7 +1224,6 @@ altar	un	43
 a	sinem	43
 der	kenig	43
 drillt	sich	43
-in	ihr	43
 philista	un	43
 nen	zum	43
 am	dritte	43
@@ -1237,6 +1236,7 @@ um	dr	43
 noh	d	43
 d	site	43
 vor	de	43
+de	heide	43
 sinem	ganze	43
 uf	ihr	43
 d	kinda	43
@@ -1309,9 +1309,9 @@ daß	mi	41
 midde	in	41
 de	vor	41
 mi	herz	41
+in	ihr	41
 üs	ihrem	41
 kummt	dr	41
-de	manne	41
 s	goht	41
 a	sinene	41
 wird	s	41
@@ -1359,6 +1359,7 @@ s	git	40
 des	guete	40
 gebote	un	40
 brocht	het	40
+de	manne	40
 dü	au	40
 sie	zehn	40
 des	recht	40
@@ -1403,7 +1404,6 @@ dr	andere	39
 de	zwei	39
 herrn	a	39
 ma	d	39
-sini	händ	39
 knecht	david	39
 däg	un	39
 ge	ha	39
@@ -1425,7 +1425,6 @@ do	nimmt	39
 sinem	brueda	39
 iba	si	39
 kenig	ahasveros	39
-mit	ihra	39
 am	nägschte	39
 sich	des	39
 sie	z	39
@@ -1444,6 +1443,7 @@ wäre	vu	38
 un	rinda	38
 herrlichkeit	vum	38
 däm	thron	38
+sini	händ	38
 si	schädel	38
 si	wird	38
 sie	nähmä	38
@@ -1462,6 +1462,7 @@ wo	isch	38
 zue	david	38
 un	wirft	38
 wort	un	38
+mit	ihra	38
 schädel	un	38
 schtoht	uf	38
 si	bue	38
@@ -1506,7 +1507,6 @@ de	aba	37
 volk	vu	37
 unda	nene	37
 erschte	monet	37
-ihr	herz	37
 schtädt	un	37
 ganze	heer	37
 uf	ihrem	37
@@ -1546,7 +1546,6 @@ s	kumme	36
 soll	s	36
 platz	un	36
 was	nem	36
-des	unheil	36
 war	vu	36
 fir	si	36
 gsetz	vum	36
@@ -1565,10 +1564,10 @@ do	reft	36
 d	götze	36
 gehn	sie	36
 sich	bi	36
+ihr	herz	36
 um	mi	36
 je	ä	36
 a	ällei	36
-ab	vu	36
 des	wird	36
 un	eina	36
 un	jesus	36
@@ -1606,7 +1605,7 @@ di	aug	35
 name	un	35
 härä	un	35
 dene	un	35
-unheil	iba	35
+des	unheil	35
 denn	so	35
 sie	dir	35
 au	in	35
@@ -1628,6 +1627,7 @@ sie	her	35
 d	dod	35
 israels	un	35
 d	pharao	35
+ab	vu	35
 fihre	nen	35
 hand	gege	35
 un	hiilt	35
@@ -1655,6 +1655,7 @@ firschte	dr	34
 dr	ganze	34
 sinem	nächschte	34
 un	rechte	34
+unheil	iba	34
 ihri	kleida	34
 me	vu	34
 kenig	zue	34
@@ -1717,7 +1718,6 @@ des	im	33
 sinere	herrschaft	33
 nene	zue	33
 des	in	33
-we	di	33
 vor	ihrem	33
 mi	aug	33
 gfihrt	het	33
@@ -1783,6 +1783,7 @@ johr	vu	32
 mit	israel	32
 uf	sini	32
 aba	soll	32
+we	di	32
 ka	nit	32
 anderem	götta	32
 üs	minem	32
@@ -1826,11 +1827,9 @@ di	kumme	32
 dr	nacht	32
 wäre	we	32
 sie	wen	32
-vum	ganze	32
 vu	allem	32
 fiir	un	32
 d	große	32
-am	himmel	32
 nimmt	ä	32
 de	ma	32
 alli	dini	32
@@ -1889,10 +1888,11 @@ vu	wietem	31
 durch	si	31
 ihr	mi	31
 s	dir	31
+vum	ganze	31
+am	himmel	31
 uf	vu	31
 ghärt	un	31
 äich	uf	31
-d	sinde	31
 schtimm	un	31
 ihri	vädare	31
 nimmt	d	31
@@ -1972,6 +1972,7 @@ di	älteschte	30
 d	dritte	30
 gsait	hän	30
 z	kämpfe	30
+d	sinde	30
 so	sait	30
 sini	ziit	30
 dine	auge	30
@@ -1997,7 +1998,6 @@ d	linke	29
 gheiße	het	29
 schtiftshitte	un	29
 un	breitet	29
-s	vu	29
 sich	selbscht	29
 dü	nene	29
 noh	ihrem	29
@@ -2036,7 +2036,6 @@ sie	als	29
 sollsch	d	29
 wird	uf	29
 alle	mensche	29
-sie	äich	29
 der	in	29
 sie	iba	29
 wassa	un	29
@@ -2092,9 +2091,9 @@ des	war	28
 so	lang	28
 soll	iba	28
 ganzem	herz	28
+s	vu	28
 däm	sie	28
 kei	mensch	28
-nit	ab	28
 uf	ihri	28
 kumme	war	28
 nacht	un	28
@@ -2139,8 +2138,8 @@ na	het	28
 het	kei	28
 un	sähn	28
 s	volk	28
-ihr	wäre	28
 wurum	hän	28
+sie	äich	28
 zruck	un	28
 ihre	auge	28
 vu	dine	28
@@ -2187,6 +2186,7 @@ war	we	27
 un	hocke	27
 so	we	27
 wenn	jemads	27
+nit	ab	27
 obere	un	27
 wäre	mit	27
 noh	ibrig	27
@@ -2233,6 +2233,7 @@ isch	vor	27
 wenn	s	27
 große	un	27
 was	vu	27
+ihr	wäre	27
 vu	jericho	27
 s	ma	27
 ha	äich	27
@@ -2291,7 +2292,6 @@ gen	himmel	26
 di	land	26
 ihrem	land	26
 higo	un	26
-drum	het	26
 am	ufa	26
 thron	un	26
 kumme	in	26
@@ -2392,6 +2392,7 @@ ganza	seele	25
 un	dinem	25
 nem	in	25
 d	gott	25
+drum	het	25
 zwanzig	johr	25
 dinere	große	25
 war	des	25
@@ -2466,7 +2467,6 @@ nab	un	25
 de	muurene	25
 sie	ins	25
 nene	nit	25
-di	brueda	25
 schärfe	vum	25
 herrn	in	25
 het	a	25
@@ -2592,6 +2592,7 @@ zahl	vu	24
 hiile	un	24
 un	kehrt	24
 gsait	un	24
+di	brueda	24
 heilig	si	24
 vum	schwerts	24
 dir	si	24
@@ -2782,7 +2783,6 @@ im	gsetz	22
 gebot	vum	22
 trage	un	22
 hole	sie	22
-herz	ge	22
 vum	euphrat	22
 vum	prophete	22
 kenig	rehabeam	22
@@ -2887,7 +2887,6 @@ welt	bringe	22
 dod	schterbe	22
 des	ä	22
 des	joch	22
-isch	uf	22
 dine	knecht	22
 dü	däm	22
 midde	im	22
@@ -2926,7 +2925,6 @@ s	wisse	21
 guet	un	21
 will	däm	21
 zue	opfare	21
-ässä	ge	21
 macht	da	21
 de	direne	21
 alli	älteschte	21
@@ -2939,6 +2937,7 @@ wenn	di	21
 ä	arg	21
 ällei	mensch	21
 kummt	sie	21
+herz	ge	21
 un	benjamin	21
 so	zeht	21
 wandel	un	21
@@ -3012,7 +3011,6 @@ vum	herr	21
 mi	huus	21
 nene	ä	21
 dr	dritte	21
-un	froge	21
 un	bätet	21
 vum	feld	21
 de	wo	21
@@ -3054,6 +3052,7 @@ zue	alle	21
 durch	ihri	21
 z	losse	21
 un	wida	21
+isch	uf	21
 nit	me	21
 kumme	lo	21
 dini	nohchkumme	21
@@ -3084,6 +3083,7 @@ huus	zue	20
 schickt	zue	20
 d	feschte	20
 des	holz	20
+ässä	ge	20
 zue	mache	20
 nuf	noh	20
 un	ibazeht	20
@@ -3164,7 +3164,6 @@ un	bittet	20
 we	ka	20
 de	zehn	20
 wort	des	20
-un	johannes	20
 nit	sage	20
 sin	ä	20
 d	laichta	20
@@ -3178,6 +3177,7 @@ ha	mit	20
 odr	vu	20
 des	große	20
 der	mit	20
+un	froge	20
 alli	mi	20
 a	nen	20
 un	predige	20
@@ -3316,6 +3316,7 @@ sage	sie	19
 isch	ma	19
 um	si	19
 das	isch	19
+un	johannes	19
 ma	isch	19
 d	menschebue	19
 noh	ne	19
@@ -3901,7 +3902,6 @@ un	josef	17
 der	iba	17
 kehre	um	17
 gueti	botschaft	17
-sinde	jerobeams	17
 israel	sindige	17
 wüschte	mache	17
 wassa	abwäsche	17
@@ -4150,7 +4150,6 @@ d	lebändige	16
 herz	vu	16
 si	agsicht	16
 vuachtet	un	16
-däm	sini	16
 vor	gricht	16
 vubroche	un	16
 losse	in	16
@@ -4195,6 +4194,7 @@ land	vum	16
 unda	des	16
 obaschte	vu	16
 dinere	magd	16
+sinde	jerobeams	16
 sie	meße	16
 wore	bisch	16
 schwert	falle	16
@@ -4448,6 +4448,7 @@ d	esel	15
 ä	schtamm	15
 z	härä	15
 nem	a	15
+däm	sini	15
 rah	un	15
 daß	kei	15
 wassa	z	15
@@ -5243,7 +5244,6 @@ des	feld	13
 z	go	13
 im	kreg	13
 au	däm	13
-wer	uf	13
 dochta	zion	13
 mi	seele	13
 we	fiir	13
@@ -5259,7 +5259,6 @@ sage	losse	13
 vutilgt	wäre	13
 morge	wird	13
 schtadt	üsä	13
-loß	de	13
 di	ganzi	13
 baim	un	13
 äiri	nohchkumme	13
@@ -5563,7 +5562,6 @@ dr	mond	12
 ans	end	12
 knecht	d	12
 d	hohenprieschter	12
-petrus	aba	12
 aba	ihri	12
 viel	me	12
 der	au	12
@@ -5671,7 +5669,6 @@ un	gieß	12
 nimm	d	12
 laga	dr	12
 zeht	vu	12
-hän	äich	12
 sie	umbrocht	12
 sin	noh	12
 im	feld	12
@@ -5708,6 +5705,7 @@ heilige	platz	12
 ich	weiß	12
 sie	schterbe	12
 langa	ziit	12
+wer	uf	12
 grimmigen	zorn	12
 in	zion	12
 vor	hunga	12
@@ -5727,6 +5725,7 @@ opfare	in	12
 andere	morge	12
 d	viecha	12
 vieh	un	12
+loß	de	12
 ihr	sähn	12
 solle	mit	12
 israel	soll	12
@@ -5938,7 +5937,6 @@ wenn	i	11
 di	vada	11
 dr	iba	11
 un	higo	11
-sie	abäte	11
 nene	ge	11
 de	israeliten	11
 ghert	hän	11
@@ -6122,6 +6120,7 @@ odr	am	11
 brot	in	11
 goht	ä	11
 alli	un	11
+petrus	aba	11
 pilatus	aba	11
 daß	nen	11
 un	ka	11
@@ -6176,7 +6175,6 @@ mueß	i	11
 isch	keina	11
 nit	ge	11
 nit	bschtoh	11
-wäre	aba	11
 un	vieh	11
 un	schwätz	11
 dr	päpere	11
@@ -6187,7 +6185,6 @@ däm	will	11
 so	wir	11
 glaube	un	11
 dü	läbsch	11
-ä	deb	11
 azluege	we	11
 dr	middi	11
 un	uße	11
@@ -6260,6 +6257,7 @@ vu	sukkot	11
 lit	zue	11
 schtirbt	in	11
 de	baim	11
+hän	äich	11
 abimelech	un	11
 volk	ä	11
 richte	israel	11
@@ -6425,7 +6423,6 @@ ihr	bluet	11
 sinem	finga	11
 abwäsche	un	11
 wo	nit	11
-berg	hor	11
 un	opfat	11
 nit	ghorcht	11
 je	einem	11
@@ -6524,7 +6521,6 @@ dü	gsait	10
 dert	huuse	10
 bitte	un	10
 sie	bäte	10
-ge	noh	10
 ä	fremde	10
 gnennt	isch	10
 ihr	gebet	10
@@ -6539,6 +6535,7 @@ des	mi	10
 herz	soll	10
 soll	dert	10
 we	i	10
+sie	abäte	10
 feste	schtädt	10
 salomo	zue	10
 inekumme	isch	10
@@ -6774,7 +6771,6 @@ kenne	ihr	10
 d	zwöelf	10
 durch	den	10
 d	kelch	10
-des	gliche	10
 ihr	wida	10
 packe	un	10
 zweite	mol	10
@@ -6806,7 +6802,6 @@ mit	purpur	10
 di	bringe	10
 ebis	zue	10
 d	löwen	10
-noh	di	10
 un	bvor	10
 bvor	sie	10
 ä	halbe	10
@@ -6823,6 +6818,7 @@ um	nem	10
 sini	nohchkumme	10
 johr	aba	10
 brocht	hän	10
+wäre	aba	10
 un	ägypte	10
 sini	rechti	10
 linke	hand	10
@@ -6841,7 +6837,6 @@ so	bisch	10
 glich	nem	10
 ä	zweite	10
 pescht	un	10
-de	seele	10
 vum	wassa	10
 mond	un	10
 däm	brunne	10
@@ -7137,7 +7132,6 @@ barnabas	un	10
 wache	vu	10
 schtamm	benjamin	10
 un	obwohl	10
-provinz	asie	10
 volk	gsait	10
 des	nohch	10
 gsetz	vu	10
@@ -7150,7 +7144,6 @@ wohret	un	10
 vum	boden	10
 elften	johr	10
 namens	wille	10
-nene	dene	10
 dene	hän	10
 ne	me	10
 israels	zue	10
@@ -7183,6 +7176,7 @@ d	zipfel	10
 erbdeil	ge	10
 inmidde	dr	10
 wird	dert	10
+berg	hor	10
 gegeiba	jericho	10
 samt	alle	10
 de	ploog	10
@@ -7321,6 +7315,7 @@ sindigt	un	9
 erkenne	un	9
 zum	erbe	9
 odr	di	9
+ge	noh	9
 fernen	landen	9
 zue	herz	9
 sin	gottlos	9
@@ -7584,6 +7579,7 @@ dini	feß	9
 d	witwe	9
 wen	dr	9
 in	friede	9
+des	gliche	9
 de	schtund	9
 nen	alli	9
 dü	warsch	9
@@ -7591,7 +7587,6 @@ aba	eina	9
 des	doet	9
 der	vum	9
 selba	nit	9
-gschtorbe	isch	9
 wore	in	9
 de	lascht	9
 zum	fraß	9
@@ -7629,6 +7624,7 @@ groß	we	9
 wäg	sin	9
 voll	mit	9
 schtolz	un	9
+noh	di	9
 nigs	anderes	9
 ässä	vor	9
 beses	doe	9
@@ -7684,6 +7680,7 @@ de	gschtalte	9
 maß	gerschte	9
 goht	däm	9
 am	altar	9
+de	seele	9
 siebä	päpare	9
 d	schlange	9
 etze	kei	9
@@ -7950,7 +7947,6 @@ a	in	9
 fluech	un	9
 gschlecht	vu	9
 segne	un	9
-gsegnet	wäre	9
 zeh	hi	9
 zeht	nohch	9
 dü	nimi	9
@@ -7962,7 +7958,6 @@ wieb	üs	9
 gschwore	hän	9
 ma	fir	9
 dr	höhli	9
-mi	gsetz	9
 korn	un	9
 au	mi	9
 israel	gmacht	9
@@ -8018,6 +8013,7 @@ ellen	lang	9
 im	elften	9
 prieschta	üs	9
 israel	wird	9
+nene	dene	9
 gehn	nit	9
 land	a	9
 dir	zehn	9
@@ -8244,7 +8240,6 @@ dir	im	8
 als	salomo	8
 sähn	des	8
 vu	hamat	8
-sie	brocht	8
 eroberte	s	8
 vum	däg	8
 brocht	wird	8
@@ -8440,7 +8435,6 @@ nem	gschwätzt	8
 ufgschtande	un	8
 nem	gsi	8
 gfunde	hän	8
-hän	si	8
 denn	wägä	8
 hän	kenne	8
 gang	heim	8
@@ -8510,7 +8504,6 @@ letschte	si	8
 wenn	dich	8
 zwei	feß	8
 vum	afang	8
-d	ehe	8
 segnet	sie	8
 gsait	zue	8
 hiisa	un	8
@@ -8553,6 +8546,7 @@ land	bis	8
 un	fillt	8
 vu	obe	8
 muetter	vum	8
+gschtorbe	isch	8
 den	wo	8
 do	d	8
 äich	nohch	8
@@ -8704,7 +8698,6 @@ di	seele	8
 sin	sini	8
 falsche	prophete	8
 hauptlit	un	8
-agnumme	un	8
 däusend	johr	8
 un	zeigt	8
 dor	un	8
@@ -8732,7 +8725,6 @@ disch	un	8
 s	kennt	8
 so	kumm	8
 zue	bliebe	8
-minem	brueda	8
 üs	babel	8
 sippe	un	8
 ässä	vum	8
@@ -8993,7 +8985,6 @@ lang	willsch	8
 ihra	sinde	8
 lehre	un	8
 d	karre	8
-antworte	un	8
 ziige	gege	8
 un	gfange	8
 ohni	tadel	8
@@ -9016,7 +9007,6 @@ di	alte	8
 wert	gachtet	8
 un	mueß	8
 dr	not	8
-un	anderi	8
 üs	sinene	8
 so	hert	8
 z	schwer	8
@@ -9035,6 +9025,7 @@ d	arche	8
 wassa	uf	8
 un	allem	8
 nohchkumme	vu	8
+gsegnet	wäre	8
 alli	gschlechta	8
 wäre	mi	8
 ganzi	gegend	8
@@ -9053,6 +9044,7 @@ un	opfa	8
 bliebt	dert	8
 do	antworte	8
 dnohch	kummt	8
+mi	gsetz	8
 fenschta	un	8
 dinere	muetter	8
 vu	mensche	8
@@ -9166,7 +9158,6 @@ middi	vu	8
 äich	wohnt	8
 d	päpare	8
 vudeilt	wäre	8
-wüschte	zin	8
 nohch	hebron	8
 d	riese	8
 we	ei	8
@@ -9198,7 +9189,6 @@ hauptlit	dr	8
 wida	zruck	8
 nur	dr	8
 dir's	guet	8
-dini	ohre	8
 d	wache	8
 sella	het	8
 gschribe	im	8
@@ -9429,7 +9419,6 @@ sini	gegna	7
 ohre	horche	7
 sich	fräie	7
 prieschta	aba	7
-nene	gegeiba	7
 israel	schtoht	7
 halte	sie	7
 d	sinn	7
@@ -9441,6 +9430,7 @@ gwandelt	isch	7
 minem	land	7
 schpott	unda	7
 vulo	hän	7
+sie	brocht	7
 des	obere	7
 salomo	in	7
 ruf	üs	7
@@ -9696,6 +9686,7 @@ bisch	mi	7
 hän	im	7
 folg	nem	7
 ganz	schtadt	7
+hän	si	7
 nem	ku	7
 di	däm	7
 fir	dini	7
@@ -9763,6 +9754,7 @@ s	bessa	7
 d	hell	7
 di	fueß	7
 mensch	nit	7
+d	ehe	7
 wer	s	7
 däne	d	7
 wäg	gmacht	7
@@ -9845,7 +9837,6 @@ urdeil	iba	7
 dmit	er	7
 s	sinene	7
 gottes	vu	7
-vuborge	isch	7
 inä	vor	7
 gfangene	üs	7
 dir	wird	7
@@ -9999,6 +9990,7 @@ mit	fienem	7
 gfunde	wäre	7
 sänga	un	7
 zum	große	7
+agnumme	un	7
 d	sand	7
 nohch	sinene	7
 wird	bi	7
@@ -10036,6 +10028,7 @@ direne	vum	7
 nen	gschickt	7
 sich	nem	7
 bäut	hän	7
+minem	brueda	7
 nohchkumme	üs	7
 gnennt	wird	7
 ä	prieschta	7
@@ -10361,6 +10354,7 @@ si	lohn	7
 mini	däg	7
 mir	selba	7
 er	macht	7
+antworte	un	7
 mich	au	7
 nihmt	un	7
 odr	isch	7
@@ -10396,6 +10390,7 @@ nen	kummt	7
 als	ich	7
 un	härt	7
 dr	schakale	7
+un	anderi	7
 d	richta	7
 sundern	mi	7
 vor	ren	7
@@ -10538,7 +10533,6 @@ s	gsetz	7
 dr	oberscht	7
 dr	hoffnig	7
 nen	gfange	7
-lang	nit	7
 mit	joab	7
 noh	do	7
 greßa	wäre	7
@@ -10614,6 +10608,7 @@ fünfte	monet	7
 site	nohch	7
 bifehlt	d	7
 eina	vum	7
+dini	ohre	7
 festig	susa	7
 bi	allene	7
 z	häre	7
@@ -10827,7 +10822,6 @@ ii	un	7
 des	abkumme	7
 levitische	prieschta	7
 dinem	muul	7
-ei	schtamm	7
 ich	äire	7
 zuem	ma	7
 de	zuem	7
@@ -10933,6 +10927,7 @@ land	hi	6
 horche	uf	6
 flegt	fiir	6
 het	mache	6
+nene	gegeiba	6
 bach	ägyptens	6
 un	guete	6
 pescht	unda	6
@@ -11426,6 +11421,7 @@ ehri	vu	6
 un	trug	6
 umbringe	soll	6
 denn	nem	6
+vuborge	isch	6
 hesch	uns	6
 vu	ise	6
 teils	vu	6
@@ -11989,7 +11985,6 @@ d	erschtgeburt	6
 kei	huus	6
 wohnt	un	6
 herr	doe	6
-gsetz	in	6
 sie	gott	6
 umkähre	un	6
 ha	so	6
@@ -12125,7 +12120,6 @@ merkt	uf	6
 ihr	z	6
 zum	heil	6
 un	siehsch	6
-vu	mä	6
 ach	daß	6
 ä	fels	6
 kinda	in	6
@@ -12416,6 +12410,7 @@ wen	nen	6
 arg	wohl	6
 hiit	vor	6
 sich	umkähre	6
+lang	nit	6
 hiit	dr	6
 gehn	wäg	6
 schenes	maidle	6
@@ -12555,7 +12550,6 @@ so	soll's	6
 si	lyb	6
 ä	gfäß	6
 herrn	lit	6
-viel	wassa	6
 zue	bileam	6
 wida	mit	6
 auge	ufdoe	6
@@ -12741,7 +12735,6 @@ ihri	seele	6
 mache	in	6
 vuschtoße	in	6
 noh	äiri	6
-hete	äich	6
 lascht	am	6
 vädere	bifohle	6
 vum	südland	6
@@ -12973,6 +12966,7 @@ umkehre	un	6
 door	vum	6
 nit	umkehre	6
 dich	schicke	6
+ei	schtamm	6
 ihre	feinde	6
 sie	erschlen	6
 vum	bergland	6
@@ -13664,7 +13658,6 @@ volk	gege	5
 des	git	5
 äich	wird	5
 in	judäa	5
-feld	isch	5
 aba	däne	5
 bis	etzed	5
 himmel	flege	5
@@ -14147,7 +14140,6 @@ de	daniter	5
 goht	vum	5
 land	brocht	5
 äich	vutriebe	5
-israel	gsait	5
 volk	sini	5
 d	astarten	5
 un	vukauft	5
@@ -14345,7 +14337,6 @@ vugoh	un	5
 ewigi	ziit	5
 het	unda	5
 zehlt	wäre	5
-isch	viel	5
 sach	doe	5
 der	nohch	5
 däg	isch	5
@@ -14406,7 +14397,6 @@ juda	isch	5
 keini	rueh	5
 kumme	rah	5
 mi	elend	5
-heide	in	5
 noh	brot	5
 sinem	grimmigen	5
 mi	ä	5
@@ -14465,7 +14455,6 @@ schtarki	hand	5
 schtreck	di	5
 wäre	bi	5
 bi	vu	5
-brueda	aaron	5
 erschtgeborene	bue	5
 vusammle	alli	5
 gehn	moses	5
@@ -14514,13 +14503,13 @@ ihr	gsait	5
 dozue	het	5
 israelite	de	5
 z	ehre	5
-darf	fa	5
 so	darf	5
 ä	iheimische	5
 d	ungsiirte	5
 mueterschoß	durchbricht	5
 dir	we	5
 uf	dinere	5
+gsetz	in	5
 johr	fir	5
 fir	johr	5
 des	gnick	5
@@ -15181,7 +15170,6 @@ dmit	alli	5
 sunscht	keina	5
 ungedeilt	bi	5
 huus	wird	5
-herr	all	5
 ignumme	un	5
 er	däm	5
 eigene	aug	5
@@ -15345,6 +15333,7 @@ ysop	un	5
 mensch	soll	5
 bschprenge	un	5
 schtirbt	dert	5
+viel	wassa	5
 ne	üs	5
 vusammelt	wäre	5
 herrlichkeit	isch	5
@@ -15622,7 +15611,6 @@ guet	nähmä	5
 ihra	klei	5
 losse	s	5
 ä	frailossig	5
-jeda	fir	5
 ha	iba	5
 alli	judäer	5
 obere	zue	5
@@ -16188,7 +16176,6 @@ zum	hohn	4
 huus	so	4
 wird	sag	4
 ghängt	un	4
-abäte	un	4
 dient	hän	4
 aglegt	het	4
 nit	vutilgt	4
@@ -16227,7 +16214,6 @@ sin	näbe	4
 de	schiffe	4
 eimol	un	4
 salomo	greßa	4
-nem	jährlich	4
 fir	salomo	4
 vum	sehers	4
 gege	jerobeam	4
@@ -16868,7 +16854,6 @@ schtaub	vu	4
 sie	gsund	4
 z	ohre	4
 prophet	we	4
-un	hets	4
 ä	fromme	4
 sine	große	4
 oberschte	un	4
@@ -16932,7 +16917,6 @@ ufgschtande	isch	4
 sie	froge	4
 un	vuachtet	4
 herbrocht	zue	4
-o	ihr	4
 hilf	uns	4
 un	rißt	4
 z	froge	4
@@ -17010,6 +16994,7 @@ zwar	vu	4
 wird	selig	4
 der	git	4
 abe	un	4
+feld	isch	4
 zvor	gsait	4
 vudunkle	un	4
 menschebue	kumme	4
@@ -17361,7 +17346,6 @@ nit	vuliignet	4
 un	hurarai	4
 z	tribä	4
 in	gliecha	4
-will	lem	4
 ziit	ge	4
 umkähre	vu	4
 ihre	werke	4
@@ -17732,6 +17716,7 @@ jedoch	nit	4
 ufs	berg	4
 de	ebene	4
 gebiet	dr	4
+israel	gsait	4
 land	izneh	4
 lang	noh	4
 nördlich	vum	4
@@ -18051,6 +18036,7 @@ z	erforsche	4
 ha	alles	4
 alles	eitel	4
 gschidheit	isch	4
+isch	viel	4
 mit	gschidheit	4
 z	hebed	4
 ka	ha	4
@@ -18143,6 +18129,7 @@ un	vulo	4
 aluege	uf	4
 so	go	4
 het	dzue	4
+heide	in	4
 jakob	sini	4
 jumpfere	un	4
 mi	gegna	4
@@ -18204,6 +18191,7 @@ erschiene	isch	4
 nil	un	4
 däm	schtrom	4
 däm	trochene	4
+brueda	aaron	4
 doe	sollsch	4
 kehr	zruck	4
 zue	mine	4
@@ -18267,7 +18255,6 @@ vusindigt	a	4
 dod	vu	4
 bätet	zum	4
 unsari	viecha	4
-heet	di	4
 dir	nimi	4
 etze	zum	4
 zum	erschte	4
@@ -18443,7 +18430,6 @@ sini	zwei	4
 gold	mache	4
 wohnig	uf	4
 vier	säule	4
-vu	innä	4
 ihri	ringbända	4
 fuchzehn	elle	4
 eina	site	4
@@ -18839,7 +18825,6 @@ ware	zwei	4
 huuste	dert	4
 nabfahre	un	4
 vudeilt	het	4
-zug	vu	4
 in	haran	4
 gang	üs	4
 dich	segne	4
@@ -19377,6 +19362,7 @@ di	gsindigt	4
 dämselbe	däg	4
 israel	üsrotte	4
 ä	schpott	4
+herr	all	4
 gold	noh	4
 zum	gschenk	4
 däne	israel	4
@@ -20227,7 +20213,6 @@ sich	öbber	4
 un	schmieden	4
 guete	fiege	4
 sie	gnädig	4
-johr	nebukadnezars	4
 velka	ringsum	4
 velka	soll	4
 große	kenige	4
@@ -20290,6 +20275,7 @@ schaffe	im	4
 darbringt	un	4
 ufgoh	losst	4
 mit	dag	4
+jeda	fir	4
 frailossig	üs	4
 zuerichte	we	4
 ihr	lang	4
@@ -20597,7 +20583,6 @@ zue	vugieße	4
 er	sieht	4
 mich	iba	4
 ä	glanz	4
-ni	mi	4
 alla	ihra	4
 knecht	solle	4
 nimi	härä	4
@@ -20974,7 +20959,6 @@ mr	au	4
 au	no	4
 i	han	4
 i	no	4
-dia	mo	4
 hab	se	4
 voll	die	4
 nit	dohi	4
@@ -21033,7 +21017,6 @@ zeicheditta	un	4
 gsicht	in	4
 andere	inschtrumente	4
 wo	mir	4
-naß	wäre	4
 siebä	ziite	4
 sinene	mächtige	4
 vu	einare	4
@@ -21195,7 +21178,6 @@ d	prophetejinger	4
 aba	wo	4
 zuem	heiligtum	4
 gib	bene	4
-wo	jehu	4
 umbringe	lo	4
 z	bierdige	4
 ahab	het	4
@@ -21219,7 +21201,6 @@ muure	jerusalems	4
 d	greuliche	4
 greuliche	sittene	4
 sittene	vu	4
-anderi	götta	4
 höchi	un	4
 sie	ii	4
 bezirk	vu	4
@@ -21314,7 +21295,6 @@ dann	gang	4
 ned	so	3
 au	scho	3
 odr	willsch	3
-a	bar	3
 a	baar	3
 un	timotheus	3
 unsam	vada	3
@@ -21504,6 +21484,7 @@ worde	un	3
 soll	ewiglich	3
 dinem	königtums	3
 wäre	s	3
+abäte	un	3
 hiram	salomo	3
 untere	bet-horon	3
 baalat	un	3
@@ -21552,6 +21533,7 @@ ziit	salomos	3
 nigs	gachtet	3
 noh	tarsis	3
 gschidheit	als	3
+nem	jährlich	3
 grenze	ägyptens	3
 jerusalem	iba	3
 rehabeam	wird	3
@@ -21596,7 +21578,6 @@ un	nebenfrauen	3
 un	sechzig	3
 un	vuschafft	3
 zeht	im	3
-volk	war	3
 au	vulo	3
 uf	jerusalem	3
 s	heißt	3
@@ -22381,6 +22362,7 @@ wundere	sich	3
 da	des	3
 ge	wore	3
 brueda	vum	3
+vum	jakobus	3
 ärgere	sich	3
 als	in	3
 sinene	vuwandte	3
@@ -22539,7 +22521,6 @@ rechte	odr	3
 schtoht	ma	3
 jesus	sie	3
 herrscha	sin	3
-den	nene	3
 nene	gwalt	3
 menschebue	isch	3
 z	brelle	3
@@ -22650,8 +22631,6 @@ geld	d	3
 predigt	wird	3
 sie	froh	3
 un	vuschpreche	3
-nem	geld	3
-geld	z	3
 do	wo	3
 ässä	ka	3
 minene	jinger	3
@@ -23223,7 +23202,6 @@ siebä	dunnda	3
 siebte	engel	3
 s	vukindigt	3
 zum	engel	3
-un	has	3
 vorhof	vum	3
 heilig	schtadt	3
 dusigzweihundatunsechzig	däg	3
@@ -24194,7 +24172,6 @@ herz	gnumme	3
 s	trifft	3
 reine	we	3
 dzue	isch	3
-di	wi	3
 dü	liebhesch	3
 solang	dü	3
 di	deil	3
@@ -24701,6 +24678,7 @@ a	vier	3
 vorhang	un	3
 säule	üs	3
 sollsch	zum	3
+vu	innä	3
 innä	hohl	3
 zwanzig	säule	3
 zwanzig	feß	3
@@ -25330,8 +25308,6 @@ gott	wäg	3
 techtare	uf	3
 hundatzwanzig	johr	3
 un	trachte	3
-unda	räm	3
-räm	himmel	3
 war	vudorbe	3
 isch	volla	3
 vuderbe	mit	3
@@ -25454,7 +25430,6 @@ fienes	mehl	3
 ebis	unmeglich	3
 unmeglich	si	3
 erde	in	3
-nem	gsegnet	3
 denn	dzue	3
 huus	nohch	3
 nem	vuheiße	3
@@ -25540,7 +25515,6 @@ dü	zeh	3
 rebekka	un	3
 feld	gege	3
 un	rebekka	3
-bringt	nem	3
 sin	buebä	3
 vu	machpela	3
 abraham	vu	3
@@ -25788,7 +25762,6 @@ mit	ässä	3
 kanaan	zue	3
 bringt	da	3
 alli	seele	3
-seele	vum	3
 sin	lit	3
 ihr	huuse	3
 de	hungasnot	3
@@ -26749,7 +26722,6 @@ s	sage	3
 däte	de	3
 missetate	un	3
 erbete	hesch	3
-driba	nüs	3
 raub	si	3
 kinda	solle	3
 äiri	schuld	3
@@ -26953,7 +26925,6 @@ inähme	un	3
 ibriglo	hän	3
 ich	denkt	3
 äiri	grenze	3
-zin	un	3
 addar	un	3
 goht	rab	3
 nohch	ribla	3
@@ -27341,7 +27312,6 @@ saul	nimmt	3
 rache	a	3
 däm	tamariskenbaum	3
 wiberge	ge	3
-nob	kummt	3
 prieschta	ahimelech	3
 philista	schlat	3
 zeht	david	3
@@ -27881,6 +27851,7 @@ de	schlechten	3
 weggeführten	üs	3
 platz	ha	3
 sie	schicken	3
+johr	nebukadnezars	3
 bese	werke	3
 velka	vum	3
 vollschtrecke	un	3
@@ -28139,7 +28110,6 @@ andere	bluet	3
 so	sich	3
 sinde	gwahr	3
 un	siebemol	3
-vor	räm	3
 d	vorige	3
 fett	soll	3
 sine	sinde	3
@@ -28452,7 +28422,6 @@ d	geia	3
 sie	heile	3
 kämpft	het	3
 un	barfueß	3
-ä	zug	3
 vu	kärre	3
 ziit	uf	3
 isch	zerschtert	3
@@ -29255,16 +29224,12 @@ er	ka	3
 wenn	mr	3
 de	andre	3
 ond	de	3
-do	oba	3
-dr	alb	3
 abr	des	3
 han	i	3
 odr	au	3
 von	mir	3
 mag	se	3
 d	julia	3
-mag	ihn	3
-du	bisch	3
 dich	mache	3
 isch	unmeglich	3
 zue	ernaiere	3
@@ -29305,7 +29270,6 @@ gsait	war	3
 im	gesetz	3
 nimmt	er	3
 vum	fescht	3
-wit	un	3
 trage	kei	3
 hus	kummt	3
 aicha	friede	3
@@ -29382,12 +29346,10 @@ laute	un	3
 inschtrumente	härä	3
 au	errette	3
 mir	di	3
-nigs	aha	3
 so	viele	3
 viele	vuschiedene	3
 gsicht	uf	3
 im	gras	3
-un	naß	3
 sini	gedanke	3
 hechschte	gwalt	3
 d	gmeinschaft	3
@@ -29804,6 +29766,7 @@ rotte	vu	3
 mehl	ei	3
 vorne	an	3
 d	ritta	3
+wo	jehu	3
 flieht	nohch	3
 vubreche	de	3
 sabbat	aträte	3
@@ -29851,6 +29814,7 @@ dert	um	3
 alle	sinde	3
 im	siebenezwanzigschte	3
 siebenezwanzigschte	johr	3
+anderi	götta	3
 un	ascherabilda	3
 hoche	hiigel	3
 den	bäte	3
@@ -29894,7 +29858,6 @@ dich	gsindigt	3
 sie	erbarme	3
 opfate	vor	3
 un	gschytheit	3
-üsländische	wieba	3
 wo	mini	3
 volk	ghärt	3
 wo	dich	3

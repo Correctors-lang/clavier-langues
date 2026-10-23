@@ -3,7 +3,7 @@
 ij	la	673
 mij	la	497
 ma	li	338
-ja	de	307
+ja	de	306
 ja	ietjá	292
 dat	la	245
 danen	gå	242
@@ -16,11 +16,11 @@ gudi	li	200
 de	la	198
 jus	la	193
 gå	la	184
-la	ájnas	164
+la	ájnas	163
 dát	la	159
 mij	lip	152
 jus	dån	150
-sån	la	148
+sån	la	147
 dån	máhtá	146
 dujna	l	145
 ij	lim	132
@@ -49,16 +49,16 @@ duon	dán	96
 jus	sidá	93
 dán	jage	92
 dan	birra	91
-mielas	la	91
 máhtá	aj	91
 jus	dujna	91
 ienep	gå	90
+mielas	la	90
 la	buorre	89
 ja	la	88
 máhttá	aj	85
-dajna	gå	84
 åvddål	gå	83
-galggá	liehket	83
+dajna	gå	83
+galggá	liehket	82
 máhttá	liehket	82
 l	aj	81
 le	ájnas	80
@@ -68,7 +68,7 @@ svieriga	girkko	79
 diehti	gå	78
 valla	ij	77
 sij	li	76
-de	ij	76
+de	ij	75
 gå	li	74
 ja	sån	74
 ja	adnet	74
@@ -78,16 +78,16 @@ de	lij	72
 sij	gudi	72
 sån	lij	72
 duov	dáv	72
-ij	le	71
 la	dat	71
 dan	maŋŋela	71
+ij	le	70
 de	máhtá	70
 ja	suv	70
 ja	jus	70
-iehtjádij	siegen	69
 mij	ij	69
 li	moadda	69
 ja	nav	69
+iehtjádij	siegen	68
 ulmme	l	68
 valla	aj	68
 dån	i	68
@@ -96,10 +96,10 @@ ietján	gå	67
 ja	åvddånahttet	67
 ja	dav	67
 ja	duodden	67
-mij	galggá	65
 iv	la	65
 miján	li	65
 ja	ådå	64
+mij	galggá	64
 ja	kultuvrav	64
 la	nav	64
 ja	mån	64
@@ -119,7 +119,6 @@ mánájda	ja	59
 til	å	59
 j	dejtsajttorta	59
 de	máhttá	58
-barggat	vaj	58
 ij	máhte	57
 juohkka	jage	57
 sáme	li	57
@@ -127,6 +126,7 @@ de	l	57
 ja	danen	57
 da	li	57
 li	ájnnasa	57
+barggat	vaj	57
 máná	ja	57
 gånnå	sáme	56
 sæmmi	båttå	56
@@ -143,9 +143,9 @@ gielav	ja	53
 gå	mån	53
 ja	makkir	53
 ja	le	52
-ij	aktak	52
 ja	mijá	51
 ma	guosski	51
+ij	aktak	51
 mij	gullu	51
 kultuvra	birra	51
 sáme	álmmugij	51
@@ -232,7 +232,6 @@ gå	mij	40
 jut	sáme	40
 aj	ietjá	40
 gejn	la	40
-árran	julevsáme	40
 la	juo	40
 duot	dát	40
 maŋŋela	gå	40
@@ -248,12 +247,12 @@ dá	li	38
 dádjadit	ja	38
 ep	la	38
 ja	ma	38
+árran	julevsáme	38
 divtasvuona	suohkan	38
 dilev	láhtjet	38
 er	det	38
 la	dát	38
 ja	gudi	37
-gå	lij	37
 ja	muv	37
 ij	ga	37
 buorre	ja	37
@@ -270,9 +269,9 @@ ja	l	36
 baktu	ja	36
 lågå	ienebuv	36
 galggi	bessat	36
-dát	le	36
 ja	iehtjádij	36
 la	riektá	36
+gå	lij	36
 ma	gulluji	36
 la	de	36
 la	ållu	36
@@ -281,6 +280,7 @@ gejn	li	36
 sån	ij	36
 juohkka	biejve	35
 ja	vil	35
+dát	le	35
 ij	dåssju	35
 ájnas	le	35
 sáme	sebrudagá	35
@@ -291,7 +291,6 @@ duodden	la	35
 jus	galggá	35
 giella	ja	35
 galggi	oadtjot	35
-gå	dal	35
 låhkåt	ja	35
 nrk	sámi	35
 sámi	radio	35
@@ -303,6 +302,7 @@ gå	muv	34
 jus	duv	34
 la	ájn	34
 sáme	gielaj	34
+gå	dal	34
 gus	dujna	34
 ulmutja	li	34
 ja	man	34
@@ -405,7 +405,6 @@ de	galga	29
 språk	og	29
 da	la	29
 galggi	oahppe	29
-ja	gájkka	28
 ja	nubbe	28
 ja	rijkajgasskasasj	28
 ja	danna	28
@@ -431,6 +430,7 @@ juogu	dal	28
 vaj	mij	28
 li	guokta	28
 dunji	gut	27
+ja	gájkka	27
 ij	gávnnu	27
 dat	le	27
 miján	le	27
@@ -493,7 +493,6 @@ majt	la	25
 sån	guhti	25
 sidá	gus	25
 de	dujna	25
-og	sa	25
 åhpadiddje	galggá	25
 galggá	årrot	24
 birra	majt	24
@@ -515,6 +514,7 @@ gå	ij	24
 duv	viehkedit	24
 aj	ájnas	24
 majt	sidá	24
+ja	gu	24
 ma	e	24
 hans	ragnar	24
 dallutjis	gå	24
@@ -557,7 +557,6 @@ sáme	sebrudahkaj	23
 ja	oarjjelsáme	23
 dánna	máhtá	23
 gávnnuji	aj	23
-i	det	23
 la	sierra	23
 i	norge	23
 galggá	máhttet	23
@@ -603,11 +602,11 @@ barggo	l	22
 dat	gut	22
 moadda	sáme	22
 l	læhkám	22
-jeg	har	22
 jus	ájgo	22
 oahppe	oadtju	22
 gulldalit	ja	22
 ietjat	jienav	22
+og	sa	22
 lij	gå	21
 nubbe	nuppev	21
 nubbe	nubbáj	21
@@ -649,6 +648,8 @@ nrk	sáme	21
 árbbedábálasj	sáme	21
 ja	sebrudagá	21
 ja	vaddá	21
+i	det	21
+jeg	har	21
 dav	dahkat	21
 saemien	sijte	21
 åvddånahtti	máhtudagáv	21
@@ -662,7 +663,6 @@ dån	hähttu	20
 li	buorre	20
 lij	dal	20
 juohkka	sajen	20
-sáme	ássjij	20
 dåjmajda	ma	20
 dav	de	20
 la	tjáledum	20
@@ -693,7 +693,6 @@ majt	máhttá	20
 sámij	åhpadusguovdásj	20
 er	i	20
 ålles	rijkan	20
-julevsámegiellaj	ja	20
 dánna	gávna	20
 válljimin	sámediggáj	20
 välljimin	sámediggáj	20
@@ -721,6 +720,7 @@ la	ájnna	19
 máná	galggi	19
 det	är	19
 gávnnu	aj	19
+sáme	ássjij	19
 alep	åhpadus	19
 ja	dárogiellaj	19
 nuorajda	ja	19
@@ -759,6 +759,7 @@ sámegiella	ja	19
 dujna	le	19
 ja	máhtti	19
 li	tjanádum	19
+julevsámegiellaj	ja	19
 gielajt	ja	19
 sáme	sebrudahka	19
 ja	nasjåvnålasj	19
@@ -823,7 +824,6 @@ máná	e	18
 barggo	la	18
 gielav	oahppat	18
 galggi	aj	18
-og	det	18
 det	var	18
 li	årrum	18
 nåv	vaj	18
@@ -901,6 +901,7 @@ ja	ájn	17
 li	ja	17
 ietjas	åtsådit	17
 dan	aktijvuodan	17
+og	det	17
 jus	i	17
 dåjmajt	ma	17
 viehkedit	vaj	17
@@ -954,7 +955,6 @@ nágin	jage	16
 del	av	16
 tjårggit	vaj	16
 giellaj	ja	16
-sámedikke	ja	16
 sámijda	ja	16
 oasev	válldet	16
 man	ednagav	16
@@ -993,7 +993,6 @@ majt	mån	16
 gå	lidjiv	16
 sån	gut	16
 le	oadtjum	16
-miela	milta	16
 ja	geldulasj	16
 dåbdoj	birra	16
 milta	de	16
@@ -1020,7 +1019,6 @@ jus	galggap	16
 la	válljim	16
 har	vært	16
 som	skal	16
-og	de	16
 vidjurij	birra	16
 dån	aná	16
 vaj	ienep	16
@@ -1080,6 +1078,7 @@ sáme	mánájda	15
 majt	oahppe	15
 gå	vejulasj	15
 ådå	sáme	15
+sámedikke	ja	15
 gå	dálla	15
 gåktu	galggá	15
 de	aktavuodav	15
@@ -1109,7 +1108,6 @@ ulmmen	le	15
 galggá	ietjas	15
 niellja	jage	15
 gájkka	sáme	15
-la	iesj	15
 ienni	gå	15
 vuodon	la	15
 manna	l	15
@@ -1125,6 +1123,7 @@ ja	guhti	15
 lij	riek	15
 iv	le	15
 mikkelsen	la	15
+miela	milta	15
 ájggomus	la	15
 la	dagu	15
 bæjválasj	jådediddje	15
@@ -1193,7 +1192,6 @@ mij	vaddá	14
 sáme	nuorajda	14
 sámegielan	ja	14
 mijá	lunna	14
-du	har	14
 ja	tjielggit	14
 suv	birra	14
 l	sáme	14
@@ -1222,11 +1220,11 @@ den	som	14
 dalloj	lij	14
 li	álu	14
 ja	arvusmahttet	14
-dåssju	akta	14
 lij	sáme	14
 jubmel	le	14
 ragnar	mathisen	14
 ja	ulmutja	14
+la	iesj	14
 de	oadtju	14
 gå	galggi	14
 lij	nav	14
@@ -1262,6 +1260,7 @@ er	at	14
 slik	at	14
 la	jur	14
 la	gus	14
+og	de	14
 har	jeg	14
 la	jut	14
 namáv	ja	14
@@ -1335,6 +1334,7 @@ liehket	oassen	13
 ævtoj	milta	13
 guovlojn	gånnå	13
 oassen	sáme	13
+du	har	13
 ietjá	sajijn	13
 bargge	ja	13
 máná	li	13
@@ -1362,9 +1362,9 @@ la	rabás	13
 ja	ja	13
 de	ihkap	13
 duodden	de	13
+dåssju	akta	13
 nav	guhkev	13
 jage	gå	13
-han	var	13
 dát	lij	13
 valla	e	13
 de	vil	13
@@ -1416,14 +1416,12 @@ ja	åhpadimev	13
 la	sierraláhkáj	13
 ja	rubbmelasj	13
 jage	gaskan	13
-alle	som	13
 la	nuoges	13
 njálmálasj	tjehpudagá	13
 buktet	låhkåt	13
 mánán	la	13
 hejman	årrot	13
 ja	oassálasstet	13
-girjijt	ja	13
 duv	ulmusjdiedojt	13
 dan	gáktuj	13
 navti	vaj	13
@@ -1513,10 +1511,8 @@ vuonan	la	12
 e	diede	12
 samarbeid	med	12
 viesso	ja	12
-nuoraj	gaskan	12
 buoremus	láhkáj	12
 ja	sierra	12
-lij	dåssju	12
 ja	subtsas	12
 ja	árran	12
 gånnå	máná	12
@@ -1527,6 +1523,7 @@ suohkanij	ja	12
 ja	kultuvrajn	12
 mielas	lij	12
 iv	lim	12
+han	var	12
 buorre	bargov	12
 lij	sån	12
 mijá	sáme	12
@@ -1598,8 +1595,8 @@ ham	de	12
 hábbmit	ja	12
 sáme	gielajda	12
 gånnå	oahppe	12
-juohkka	máno	12
 duodje	ja	12
+alle	som	12
 buktet	tjállet	12
 duoddara	ráfe	12
 dujna	illa	12
@@ -1610,6 +1607,7 @@ dån	dagá	12
 ja	såbadimkommisjåvnå	12
 bágoj	ja	12
 bágo	ja	12
+girjijt	ja	12
 of	the	12
 dån	lä	12
 galggá	oahppijda	12
@@ -1715,6 +1713,7 @@ kråvnå	doarjjan	11
 i	tysfjord	11
 manen	ij	11
 ja	svierigin	11
+nuoraj	gaskan	11
 ja	viehkev	11
 lav	nav	11
 lav	ávon	11
@@ -1723,6 +1722,7 @@ sáme	giellagáldo	11
 dán	vuolen	11
 sábme	ja	11
 iv	mån	11
+lij	dåssju	11
 vihtta	jage	11
 dán	guovlon	11
 dat	sihtá	11
@@ -1747,7 +1747,6 @@ birra	ságastit	11
 li	sjaddam	11
 vuojno	milta	11
 ij	goassak	11
-árran	galggá	11
 mij	doajvvop	11
 ådå	diedojt	11
 harrieth	aira	11
@@ -1815,7 +1814,6 @@ som	en	11
 gåk	dån	11
 buorre	láhkáj	11
 plánit	ja	11
-ja	tjadádit	11
 árabut	jienastit	11
 la	boahtám	11
 birra	la	11
@@ -1837,6 +1835,7 @@ namma	la	11
 la	juogedum	11
 kan	du	11
 la	duodaj	11
+juohkka	máno	11
 vaj	dån	11
 nammadus	galggá	11
 diededit	jus	11
@@ -1994,7 +1993,6 @@ dassta	majt	10
 sijájs	gudi	10
 sáme	gudi	10
 aj	dahkat	10
-på	den	10
 nrk	sápmia	10
 biejvve	nrk	10
 viessot	ja	10
@@ -2017,6 +2015,7 @@ ja	tjállet	10
 lij	dát	10
 la	ilá	10
 boahtte	ájggáj	10
+árran	galggá	10
 uit	vuona	10
 ja	priváhta	10
 dát	sjaddá	10
@@ -2040,7 +2039,6 @@ ij	lulu	10
 dav	dahká	10
 åtsådimev	vaddet	10
 dagáduvvá	ja	10
-guhti	la	10
 jage	dallutjis	10
 jage	de	10
 huj	buorre	10
@@ -2083,6 +2081,7 @@ dajnas	la	10
 baktu	de	10
 ja	nuorajt	10
 iesj	máhtá	10
+ja	tjadádit	10
 gå	vuona	10
 mij	sjaddá	10
 ij	dåjma	10
@@ -2133,7 +2132,6 @@ mánájda	gudi	10
 la	nuorap	10
 mánájn	la	10
 man	namma	10
-da	han	10
 la	dáhpáduvvam	10
 nasjonála	unneplåhkuj	10
 ulmutjij	jienastit	10
@@ -2167,7 +2165,6 @@ barggat	váj	9
 ja	nuppe	9
 ja	dåbddåt	9
 ednamijda	ja	9
-jåhtuj	biejaduvvá	9
 birra	le	9
 le	stuorra	9
 gáktuj	mij	9
@@ -2326,6 +2323,7 @@ nav	álu	9
 gitta	jahkáj	9
 barggo	le	9
 de	ittjiv	9
+på	den	9
 mån	aj	9
 ij	de	9
 ma	sihti	9
@@ -2378,9 +2376,9 @@ jánndurav	birra	9
 la	danen	9
 gå	muhtem	9
 máhttá	ietjas	9
-gåktu	la	9
 suohkanin	li	9
 iv	máhte	9
+guhti	la	9
 le	sæmmi	9
 ájnas	barggo	9
 luondo	ja	9
@@ -2421,7 +2419,6 @@ sivva	manen	9
 l	dárbbo	9
 la	guovdátjin	9
 ja	galggap	9
-og	da	9
 dáppe	le	9
 la	åvvånis	9
 de	agev	9
@@ -2532,7 +2529,6 @@ oahppe	oahppi	9
 ja	viek	9
 baktu	gå	9
 dáse	mánájgárdde	9
-ja	tidnigijt	9
 rapport	financier	9
 ja	jasska	9
 máhtá	dån	9
@@ -2546,7 +2542,6 @@ bagádallamij	milta	9
 aj	máhtudagáv	9
 til	dem	9
 ahte	oahppe	9
-salige	er	9
 birra	gávnnu	8
 máhttá	vuojnnet	8
 härrá	ja	8
@@ -2566,6 +2561,7 @@ gaskan	li	8
 árvo	ja	8
 ahte	sij	8
 ásaduváj	jagen	8
+jåhtuj	biejaduvvá	8
 oassálasstema	baktu	8
 ja	máhtudahka	8
 jus	dáv	8
@@ -2704,7 +2700,7 @@ alep	åhpadussaj	8
 aktijvuodav	ja	8
 diehti	mij	8
 gut	le	8
-ij	lam	8
+gu	lij	8
 gå	gájka	8
 ejma	la	8
 ietjá	gå	8
@@ -2728,7 +2724,6 @@ baktu	nannit	8
 le	sáhka	8
 stivrra	máhttá	8
 av	dem	8
-men	de	8
 le	nåv	8
 e	sidá	8
 sáme	sáddagijs	8
@@ -2748,7 +2743,6 @@ muv	buoremus	8
 dás	åvddål	8
 sajijn	gånnå	8
 ja	stuor	8
-vuojnnet	ja	8
 mij	dal	8
 ja	tjavtjan	8
 viesso	duobddága	8
@@ -2792,6 +2786,7 @@ ja	bájke	8
 ij	diehttu	8
 gå	dajt	8
 máhttá	sjaddat	8
+gåktu	la	8
 sån	subtsas	8
 le	má	8
 dán	prosjæktaj	8
@@ -3007,12 +3002,12 @@ at	sáme	8
 oahppamij	ja	8
 med	deg	8
 dádjadit	oajvvesisanov	8
-dålkkut	ja	8
 aj	máhttet	8
 ja	diehto	8
 hábme	næhttabielle	8
 ja	lä	8
 gå	adni	8
+ja	tidnigijt	8
 rádjat	sisi	8
 une	association	8
 dajs	gudi	8
@@ -3029,7 +3024,6 @@ dán	rájdon	8
 vijdedit	ietjasa	8
 máhttudakvärmmádahka	sáme	8
 varresvuodav	ja	8
-da	de	8
 human	rights	8
 nasjåvnålasj	unneplågoálmmugij	8
 guhtik	guojmesa	8
@@ -3221,7 +3215,6 @@ ja	jåhtuj	7
 mielas	galggá	7
 le	rievtesvuohta	7
 árvo	li	7
-liehket	sáme	7
 sámij	vuosstij	7
 guosská	aj	7
 doarjjot	sáme	7
@@ -3298,6 +3291,7 @@ ja	joarkket	7
 institusjåvnå	ja	7
 dåbddåt	ja	7
 ja	unnep	7
+men	de	7
 ja	nrk	7
 råmsån	ja	7
 riek	ålov	7
@@ -3307,7 +3301,6 @@ svt	sápmi	7
 ep	mij	7
 de	påjttjå	7
 sihti	oassálasstet	7
-sáme	dájddár	7
 la	ållim	7
 valla	muhtem	7
 nordlándan	ja	7
@@ -3457,12 +3450,12 @@ hásstalusájt	ja	7
 de	dajna	7
 namma	le	7
 dasi	le	7
-oarjjelsámegiellaj	ja	7
 le	degu	7
 li	barggam	7
 dát	girjje	7
 ja	bargo	7
 la	navti	7
+vuojnnet	ja	7
 dát	buktá	7
 juohkka	vahko	7
 ja	vijdes	7
@@ -3611,7 +3604,6 @@ ja	várij	7
 av	en	7
 og	den	7
 tilbake	til	7
-ja	gálldokåvddå	7
 ájnegis	ulmutjijda	7
 la	makkirak	7
 válljimlanján	válljimbiejve	7
@@ -3688,7 +3680,6 @@ vuona	stáhtta	7
 ålles	svierigin	7
 ja	åvddånahttema	7
 li	sadjihin	7
-å	ta	7
 samiske	språkene	7
 lav	agev	7
 karin	tuolja	7
@@ -3703,7 +3694,6 @@ nasjonalt	senter	7
 sujtujn	aktavuodav	7
 rijkalasj	unneplågogiela	7
 hásstalusáj	birra	7
-men	han	7
 vuonasuobmelattjaj	vuosstij	7
 ja	gåvvidit	7
 viehkev	ja	7
@@ -3750,6 +3740,7 @@ li	viek	7
 lä	aj	7
 dat	ulmusj	7
 moattebelak	ja	7
+dålkkut	ja	7
 lájttális	ja	7
 diedojt	duv	7
 external	link	7
@@ -3794,7 +3785,6 @@ fálaldahka	l	7
 de	jubmel	7
 gå	kommisjåvnnå	7
 johannes	gástadiddje	7
-og	han	7
 hábbmijiddje	bargon	7
 digitála	ræjdojt	7
 idiejajt	ja	7
@@ -4060,6 +4050,7 @@ gullu	sáme	6
 åvddån	boahtet	6
 luondulasj	oasse	6
 mánájn	ja	6
+liehket	sáme	6
 le	nuoges	6
 hárráj	ma	6
 sáme	bájkálasj	6
@@ -4087,7 +4078,6 @@ sáme	máhtti	6
 dujna	gut	6
 gut	aná	6
 majt	aná	6
-og	tok	6
 universitetet	i	6
 li	viessum	6
 bágo	ma	6
@@ -4178,6 +4168,7 @@ soames	láhkáj	6
 lidjin	guokta	6
 ma	uddni	6
 musea	ja	6
+sáme	dájddár	6
 l	vuodon	6
 máhttelis	le	6
 jáhkáv	la	6
@@ -4374,6 +4365,7 @@ la	vássám	6
 ja	unneplågogielajda	6
 sámij	dárbo	6
 mij	namma	6
+oarjjelsámegiellaj	ja	6
 moadda	hásstalusá	6
 buorre	åvddågåvvån	6
 gudi	låhki	6
@@ -4390,6 +4382,7 @@ le	dunji	6
 bágojt	ma	6
 såj	libá	6
 gudi	juo	6
+og	da	6
 slik	som	6
 iv	de	6
 sierraláhkáj	jus	6
@@ -4542,7 +4535,6 @@ guhti	ietjas	6
 dagu	ådå	6
 ja	dárogiella	6
 meängiellaj	ja	6
-tjadádit	dav	6
 gárvedit	ja	6
 ja	giehtadallat	6
 moaddásij	mielas	6
@@ -4587,7 +4579,6 @@ ja	aktisattjat	6
 aj	galggi	6
 ma	vuosedi	6
 ietján	la	6
-nuorttasámegiellaj	ja	6
 ja	gehtja	6
 ja	tjuovo	6
 válljimbiejve	maŋŋela	6
@@ -4719,7 +4710,6 @@ ja	åvddånimev	6
 mij	giehttop	6
 har	behov	6
 å	snakke	6
-men	da	6
 alle	har	6
 ja	viehkken	6
 apmut	ivar	6
@@ -4819,7 +4809,6 @@ gájkajda	ma	6
 vijdes	ja	6
 oahppe	dádjadit	6
 vuojno	ja	6
-nå	har	6
 gu	lä	6
 låhkåt	gåk	6
 oahppat	ienebut	6
@@ -4895,6 +4884,7 @@ vuostasj	girje	6
 fábmo	ja	6
 kommisjåvnnå	giehtadallá	6
 ham	og	6
+og	han	6
 vásádusáj	ja	6
 gå	barggá	6
 opp	fra	6
@@ -5318,6 +5308,7 @@ politihkalasj	dilev	5
 dat	boahtá	5
 ja	gaskostittjat	5
 ulmutja	lidjin	5
+og	tok	5
 i	oslo	5
 i	samarbeid	5
 hábme	ja	5
@@ -5355,7 +5346,6 @@ soajtti	liehket	5
 ahte	de	5
 ja	mánno	5
 ja	och	5
-jn	se	5
 stállo	l	5
 mån	diede	5
 sån	dal	5
@@ -5383,7 +5373,6 @@ dån	dav	5
 ietjas	giellaj	5
 mij	gåvvit	5
 máhtti	aneduvvat	5
-árrana	stivrra	5
 vaj	dát	5
 gut	galggá	5
 prosjevta	baktu	5
@@ -5600,7 +5589,6 @@ de	dasi	5
 gå	boahttsu	5
 dánna	ja	5
 la	seksuálalattjat	5
-rádnastallam	la	5
 goassa	galggá	5
 aktavuodav	válldá	5
 álu	oadtju	5
@@ -5771,7 +5759,6 @@ sáme	kulturmujto	5
 gudi	oassálassti	5
 ja	romani	5
 i	livet	5
-du	skal	5
 den	største	5
 største	utfordringen	5
 i	samiske	5
@@ -5803,7 +5790,6 @@ gáktuj	la	5
 ælla	sæmmi	5
 aj	vejulasj	5
 subttsasa	li	5
-ålos	li	5
 ja	álmmugij	5
 galga	låhkåt	5
 bájkálasj	sebrudagán	5
@@ -5895,7 +5881,6 @@ at	jeg	5
 ved	árran	5
 lære	seg	5
 barnehager	og	5
-i	de	5
 som	ligger	5
 går	på	5
 ikke	bare	5
@@ -5937,6 +5922,7 @@ jus	diedo	5
 nasjåvnålattjat	ja	5
 la	birrusij	5
 da	diedo	5
+tjadádit	dav	5
 ragnar	mathisena	5
 stuoves	ja	5
 muhtema	sijájs	5
@@ -6000,6 +5986,7 @@ med	to	5
 til	de	5
 guoradallama	vuosedi	5
 la	vuogas	5
+nuorttasámegiellaj	ja	5
 valla	viertti	5
 gájkka	jiena	5
 válljimij	europaparlamänntaj	5
@@ -6059,7 +6046,6 @@ stuoves	mandáhta	5
 mandáhta	ja	5
 miljárda	kråvnå	5
 barggosajijt	ja	5
-danna	máhtá	5
 bájkoj	gålmmå	5
 alla	váre	5
 suv	åvdån	5
@@ -6226,11 +6212,9 @@ bierggima	diehti	5
 sjiervij	gaskan	5
 sebrudakiellema	birra	5
 nanna	ja	5
-jn	ja	5
 ja	tjátjijda	5
 vaj	boatsojæládus	5
 ja	árvojt	5
-sáme	rievtesvuodajt	5
 ja	åvdåsvásstádus	5
 bájkálasj	sebrudahkaj	5
 vuojnojt	buktet	5
@@ -6261,7 +6245,6 @@ ja	vuoge	5
 rádnastallam	er	5
 opplæring	i	5
 i	rádnastallam	5
-i	lag	5
 det	en	5
 allaskåvllå	ja	5
 adnet	gå	5
@@ -6337,6 +6320,7 @@ ma	duv	5
 ja	sujtov	5
 sámásta	mujna	5
 árggabiejven	ja	5
+da	han	5
 han	hadde	5
 dåbddåt	sij	5
 álmmuk	le	5
@@ -6470,6 +6454,7 @@ samiske	pasienten	5
 jus	välljidäjje	5
 maŋŋel	gu	5
 lä	ienap	5
+nå	har	5
 ma	mähtti	5
 ietjat	jienastimkurtav	5
 dån	jienastam	5
@@ -6488,7 +6473,6 @@ divna	ietjá	5
 ájádallat	gåktu	5
 tjoavddusijt	gávnnat	5
 le	ávkálasj	5
-for	jeg	5
 deg	og	5
 galggi	sjaddat	5
 ságastallat	gåktu	5
@@ -6598,7 +6582,6 @@ tjielgas	ja	5
 báhko	l	5
 dá	bágo	5
 og	sáme	5
-de	gikk	5
 majt	sihtá	5
 vuoras	ja	5
 lij	vuona	5
@@ -6611,7 +6594,6 @@ dásálasj	riektájt	5
 ja	ráfe	5
 le	midjij	5
 la	oss	5
-han	skal	5
 gus	de	5
 tevstav	jali	5
 jali	gåvåv	5
@@ -6647,8 +6629,6 @@ tjáledit	ietjat	5
 li	bágo	5
 giellaoahppa	tjåvdabáhko	5
 da	giehtadaláduvvi	5
-kommisjåvnnå	la	5
-da	jesus	5
 åvddånibme	fágan	5
 fágan	vuolggá	5
 ja	eksperimentierit	5
@@ -6657,11 +6637,8 @@ israela	vierrek	5
 de	lej	5
 til	orde	5
 sån	lej	5
-for	han	5
-han	er	5
 buktet	adnet	5
 identitiehta	ja	5
-hele	jorden	5
 han	sa	5
 luonndofáhka	galggá	5
 ja	dago	5
@@ -6678,7 +6655,6 @@ ieŋŋilsin	la	5
 dan	hárráj	5
 vássám	ájgev	5
 ja	adni	5
-máhtudakulme	jo	5
 oahppoprográmma	maŋŋela	5
 ja	tjuoldedum	5
 akti	gåjt	5
@@ -6692,7 +6668,6 @@ sihke	skåvlån	5
 maŋen	årrot	5
 sij	vuosedi	5
 superfábmo	la	5
-min	far	5
 for	mitt	5
 i	himmelen	5
 på	jorden	5
@@ -6831,7 +6806,6 @@ ja	bajássjaddam	4
 oslon	ja	4
 sån	adná	4
 bálle	gå	4
-árranin	le	4
 teknihkajt	ja	4
 stockholma	lenan	4
 gåktu	svieriga	4
@@ -7032,7 +7006,6 @@ máhtti	barggat	4
 barggat	ietjá	4
 sebrulasjvuoda	birra	4
 att	du	4
-att	ta	4
 riektáv	ja	4
 mij	vuojnnu	4
 dahkap	ja	4
@@ -7362,7 +7335,6 @@ dalle	dat	4
 dat	mánno	4
 årrot	r	4
 valla	men	4
-vuojdnet	jn	4
 håller	på	4
 mån	jag	4
 sån	han	4
@@ -7430,7 +7402,6 @@ ahte	dat	4
 ájgen	lij	4
 lij	såmes	4
 sån	dan	4
-de	sa	4
 ulmutja	oadtju	4
 ja	duot	4
 kirsti	guvsám	4
@@ -7677,7 +7648,6 @@ så	iv	4
 nav	árrat	4
 uddni	lav	4
 dánna	la	4
-km	klassisk	4
 sierraláhkáj	lij	4
 sámedikke	presidænnta	4
 gå	gålmmå	4
@@ -7733,7 +7703,6 @@ mån	ájádaláv	4
 ja	riek	4
 jus	mån	4
 dáv	dahkin	4
-sámedikkeráde	mielas	4
 ietjá	dåjmaj	4
 galggi	dán	4
 vumij	sisa	4
@@ -7760,6 +7729,7 @@ ga	dárbaha	4
 suoddjimpárkav	mij	4
 ja	gávna	4
 la	seksav	4
+rádnastallam	la	4
 ilá	maŋŋet	4
 ilá	árrat	4
 la	háhppidam	4
@@ -8160,6 +8130,7 @@ gáktuj	ma	4
 de	sidáv	4
 huoman	li	4
 sierraláhkáj	ájnnasa	4
+ålos	li	4
 ja	hæhttup	4
 ájnas	ulmme	4
 jali	gåk	4
@@ -8225,7 +8196,6 @@ sån	luluj	4
 sån	juo	4
 mån	ájgov	4
 njuolgadusájt	tjuovvot	4
-med	den	4
 sijáj	gaskan	4
 rolf	steffensen	4
 sjaddá	sierra	4
@@ -8345,6 +8315,7 @@ og	utdanning	4
 det	viktig	4
 det	viktigste	4
 av	samiske	4
+i	de	4
 å	utvikle	4
 samiske	samfunnet	4
 tiltak	for	4
@@ -8547,6 +8518,7 @@ boahtte	buolva	4
 l	ålles	4
 jali	ságájdahtátjit	4
 le	gåktu	4
+ja	gálldokåvddå	4
 adnuj	válldi	4
 ma	doajmmi	4
 kommuvnnafábmoduvvamij	ja	4
@@ -8638,6 +8610,7 @@ ihkeva	ávon	4
 tjoahkkáj	la	4
 vuostak	juogaduvvi	4
 majt	belludagá	4
+danna	máhtá	4
 oattjo	de	4
 la	bargodibme	4
 jienastimkårttå	rájaduvvá	4
@@ -8987,6 +8960,7 @@ gehtjadit	ja	4
 læhkám	låssåt	4
 birra	julevsámegiellaj	4
 dárojduhttempolitihka	vájkkudusájt	4
+sáme	rievtesvuodajt	4
 ietjasa	árbbedábálasj	4
 aj	ulmme	4
 aj	máhttelisvuodav	4
@@ -9255,7 +9229,6 @@ emil	schreiner	4
 ja	nuppát	4
 sunnun	lij	4
 ruopptot	oadtjot	4
-la	det	4
 suv	ja	4
 dujna	máhttá	4
 majda	dujna	4
@@ -9313,7 +9286,6 @@ dáppe	gávna	4
 ja	sijáj	4
 jag	har	4
 atv	bodø	4
-en	gang	4
 milta	makkir	4
 vuostasj	giellan	4
 ja	iejvvit	4
@@ -9396,10 +9368,10 @@ dasi	mån	4
 gaskav	anodit	4
 ja	stuorámus	4
 jali	jábmet	4
-la	nsr	4
 ållu	dábálasj	4
 mij	merkahij	4
 vuoge	gåktu	4
+for	jeg	4
 din	gud	4
 li	illastuvvam	4
 lip	gijttevattja	4
@@ -9623,6 +9595,7 @@ muv	irgge	4
 aj	mijá	4
 la	siján	4
 var	en	4
+de	gikk	4
 mijáv	le	4
 ja	dárbaha	4
 kristin	roskifte	4
@@ -9639,7 +9612,6 @@ gáhttit	nuppástimev	4
 jubmela	sidoda	4
 ietjas	sidoda	4
 ednamin	ja	4
-mange	folk	4
 av	sted	4
 og	si	4
 skal	gå	4
@@ -9678,7 +9650,6 @@ jubmela	birra	4
 jus	jábbmega	4
 jábbmega	e	4
 kristus	le	4
-slik	er	4
 katarina	spik	4
 spik	skum	4
 oahppe	dåbddi	4
@@ -9710,6 +9681,7 @@ jubmela	fábmo	4
 ham	le	4
 mun	lean	4
 låhkåm	ja	4
+kommisjåvnnå	la	4
 riektá	milta	4
 vuodo	la	4
 duv	persåvnnådiedojt	4
@@ -9732,6 +9704,7 @@ tok	til	4
 ja	åhpadisålmmå	4
 var	det	4
 en	mann	4
+han	er	4
 adnet	diedojt	4
 mav	ájgo	4
 ja	stiellit	4
@@ -9739,6 +9712,7 @@ galggi	ságastallat	4
 ságastallat	oahppij	4
 jäbddásasj	ävtoj	4
 ävtoj	hárráj	4
+hele	jorden	4
 som	han	4
 si	til	4
 the	sámi	4
@@ -9772,7 +9746,6 @@ diedojt	mij	4
 gen	namma	4
 og	hans	4
 gikk	de	4
-de	sju	4
 blåste	i	4
 i	hornene	4
 herren	har	4
@@ -9802,6 +9775,7 @@ gähttjat	ja	4
 lidjiv	mánnán	4
 ja	doajvov	4
 gåjt	mån	4
+min	far	4
 far	david	4
 gu	viega	4
 oahppoprográmman	gå	4
@@ -9884,7 +9858,6 @@ lásjmudallamin	vuolggá	4
 bajemusán	gåro	4
 dáv	boalov	4
 moadda	gåvvusijt	4
-te	reo	4
 cookies	that	4
 nissun	galggá	4
 vaddet	buojkulvisájt	4
@@ -10086,6 +10059,7 @@ dábijt	ja	3
 diehti	lip	3
 ja	sunnun	3
 sunnun	la	3
+árranin	le	3
 majt	suv	3
 le	maŋemus	3
 dájdajn	ja	3
@@ -10466,7 +10440,6 @@ politihkav	mij	3
 ja	oajvvadit	3
 sáme	oadtju	3
 oadtju	fálaldagáv	3
-iesj	vásedam	3
 varresvuodabargge	li	3
 sáme	suohkanijn	3
 sån	ja	3
@@ -10961,7 +10934,6 @@ sija	de	3
 de	dahkat	3
 dahkat	g	3
 g	göra	3
-de	kom	3
 jag	vet	3
 gävdnut	finnas	3
 jubmel	lij	3
@@ -11056,14 +11028,13 @@ sån	ahte	3
 de	båhtá	3
 de	eskán	3
 galgaj	årrot	3
-tjágŋat	ŋ	3
 ánná	vuollá	3
 dulutj	ájgen	3
 almatja	suv	3
+de	sa	3
 sa	sån	3
 ánná	vuollán	3
 jábmet	m	3
-m	dö	3
 baktu	ulmutja	3
 ja	idtjin	3
 ajtu	ij	3
@@ -11580,6 +11551,7 @@ majt	dagáv	3
 soajttá	sjaddá	3
 báhtariddjijdoalvvoma	birra	3
 væráldadoaro	ájge	3
+sámedikkeráde	mielas	3
 hæhttu	dahkat	3
 la	javllam	3
 guovlo	gånnå	3
@@ -12274,6 +12246,7 @@ aj	vuostasj	3
 buorep	vidjurijt	3
 ja	ávkkit	3
 ietjasa	rijkalasj	3
+du	skal	3
 og	hvorfor	3
 du	vært	3
 i	politikken	3
@@ -12469,6 +12442,7 @@ la	jåksåm	3
 gånnå	jiena	3
 jus	jiedna	3
 galggi	má	3
+med	den	3
 dålå	birra	3
 lip	guorrasam	3
 ságastallam	ja	3
@@ -12720,7 +12694,6 @@ være	i	3
 samisk	næring	3
 det	betyr	3
 betyr	at	3
-en	annen	3
 at	reindriftsnæringen	3
 være	et	3
 muligheter	til	3
@@ -12918,7 +12891,6 @@ sáme	birra	3
 birra	åhpadit	3
 ja	biejve	3
 navti	sjaddá	3
-dat	stuorra	3
 kommisjåvnnå	mij	3
 máhttá	oahppe	3
 njuolgadusá	li	3
@@ -13005,7 +12977,6 @@ ja	stivrra	3
 ja	buktá	3
 e	åvvå	3
 guovdátjav	jådedit	3
-a	milta	3
 nav	guhkken	3
 morten	kristensen	3
 ja	duoddara	3
@@ -13080,7 +13051,6 @@ lasedit	ruhtadårjav	3
 guokta	kilomehtera	3
 aktan	njuolgadusáj	3
 erlend	elias	3
-árran	mánájgárdde	3
 sámegielak	mánájgárdde	3
 dåbdos	sáme	3
 ja	åbbå	3
@@ -13595,6 +13565,7 @@ sáme	hiehte	3
 vuonan	mij	3
 fálaldahka	sáme	3
 oajvveulmme	l	3
+variánta	le	3
 ja	algebra	3
 máhtov	låpptit	3
 minsstarijt	ja	3
@@ -13902,7 +13873,6 @@ dættodit	jut	3
 guoddelis	ja	3
 bájkálasj	biebmoj	3
 ájnas	gájkajda	3
-dåhkkidibme	sáme	3
 iesjdåbdduj	ja	3
 aktisasj	rievtesvuoda	3
 ådå	bargov	3
@@ -14205,7 +14175,6 @@ sunji	le	3
 gå	divna	3
 ålema	birra	3
 gå	unna	3
-i	stedet	3
 stedet	for	3
 og	etter	3
 resultat	av	3
@@ -14286,6 +14255,7 @@ tjalmostahtátjit	sáme	3
 stuorra	rijkajgasskasasj	3
 girjálasjvuohtaj	ja	3
 han	i	3
+men	han	3
 finne	en	3
 mejt	iesj	3
 dibde	suv	3
@@ -14452,7 +14422,6 @@ andre	kåta	3
 men	den	3
 ja	dæ	3
 det	blir	3
-og	når	3
 han	opp	3
 manná	de	3
 dåbdov	gullut	3
@@ -14770,6 +14739,7 @@ såj	lijga	3
 lidjiv	nuorap	3
 universitiehta	diedoj	3
 bállám	ja	3
+la	det	3
 profæssor	kristian	3
 suv	juolgij	3
 dakkára	ma	3
@@ -14922,6 +14892,7 @@ jag	skriver	3
 och	en	3
 i	mitt	3
 dån	gehtja	3
+en	gang	3
 ønsker	vi	3
 på	nytt	3
 for	deg	3
@@ -15007,7 +14978,6 @@ ietjá	fábmudagájs	3
 gullu	ålles	3
 birra	diededit	3
 lågådallam	le	3
-sihtap	tjoahkkit	3
 divna	utmutjijt	3
 utmutjijt	gudi	3
 gudi	berusta	3
@@ -15129,6 +15099,7 @@ barggat	hejmas	3
 vuojnnet	aktijvuodajt	3
 vuostasj	havfarm	3
 la	vidnudahka	3
+la	nsr	3
 nsr	nuora	3
 guhti	lav	3
 surgulasj	ij	3
@@ -15196,7 +15167,6 @@ vaj	le	3
 ieŋŋilskgielak	rijkajn	3
 gaskostit	ja	3
 ságastallat	ietjas	3
-máhtudakmihto	jo	3
 ietjas	åhpadusprográmmas	3
 ja	sebrudakdilij	3
 njálmálasj	eksábma	3
@@ -15267,7 +15237,6 @@ rávvi	ådå	3
 gárvvit	ietjat	3
 lenastivrraj	gånnå	3
 iesj	i	3
-lag	med	3
 den	unge	3
 med	sine	3
 etter	at	3
@@ -15279,7 +15248,6 @@ dárkastiddje	máhttá	3
 lierrat	ja	3
 ja	skenit	3
 musea	siida	3
-dat	ĳ	3
 la	farra	3
 la	lågev	3
 ja	siettos	3
@@ -15416,7 +15384,6 @@ et	les	3
 un	rapport	3
 supérieures	à	3
 aj	hábmera	3
-lulesamisk	lue	3
 kort	historisk	3
 historisk	innblikk	3
 hvordan	sy	3
@@ -15431,7 +15398,6 @@ miella	barggat	3
 vieledibmáj	ja	3
 bielen	sámes	3
 la	jiedna	3
-oahppat	sámegielav	3
 sáme	giellavahkko	3
 ja	oahppam	3
 tevstajda	ja	3
@@ -15482,7 +15448,6 @@ dádjadusáv	luondos	3
 dáhpáduvvá	aj	3
 vaddi	oahppijda	3
 gå	gæhttjali	3
-og	om	3
 riektá	aktavuodav	3
 jali	tjálalattjat	3
 bargo	aktijvuodan	3
@@ -15753,7 +15718,6 @@ sjaddat	vájvedum	3
 oadtju	viehkev	3
 suv	subttsasav	3
 veahkaválddálašvuohta	sáhttá	3
-nu	go	3
 mánáiddálus	leat	3
 reaktam	utnieh	3
 imájdallat	ja	3
@@ -15988,7 +15952,6 @@ gárvedit	mánájt	3
 lev	didjij	3
 li	jábmám	3
 valla	jubmela	3
-le	kristus	3
 dijá	jáhkko	3
 bihkusij	boahtá	3
 lulu	tjuodtjelit	3
@@ -16088,12 +16051,10 @@ dåhkkidum	ortografidja	3
 bájkkenamá	duodasti	3
 le	dijá	3
 midjij	gudi	3
-som	jeg	3
 er	min	3
 går	til	3
 er	herren	3
 gud	som	3
-for	eg	3
 eg	er	3
 noe	å	3
 tor	gunnar	3
@@ -16111,7 +16072,6 @@ almulasj	geldulasjvuohta	3
 breva	jali	3
 rájaduvvá	duv	3
 dasi	makkir	3
-da	kom	3
 jesus	fra	3
 seg	som	3
 dát	vájkkut	3
@@ -16126,9 +16086,7 @@ sæbrram	ja	3
 birrasav	ja	3
 bessat	vásedit	3
 jeriko	stáda	3
-en	stor	3
 stor	folkemengde	3
-de	ropte	3
 jeg	skal	3
 hájn	vil	3
 mosesa	nuppát	3
@@ -16140,9 +16098,9 @@ herren	og	3
 da	skal	3
 stuorra	almasjfuovva	3
 ittjij	suv	3
-han	kom	3
 som	het	3
 komme	til	3
+for	han	3
 et	sted	3
 ned	og	3
 ham	med	3
@@ -16168,7 +16126,6 @@ sujtov	jäbddásasj	3
 e	dádjada	3
 til	hverandre	3
 for	oss	3
-dere	skal	3
 nord	university	3
 at	the	3
 how	do	3
@@ -16204,6 +16161,7 @@ de	hadde	3
 han	satt	3
 ikke	noe	3
 orde	og	3
+han	skal	3
 så	at	3
 vuodo	máhttudagá	3
 riektá	iednegiellaåhpadibmáj	3
@@ -16271,17 +16229,15 @@ andre	siden	3
 etter	ham	3
 kan	få	3
 satte	seg	3
-på	samme	3
 til	disiplene	3
 igjen	og	3
 og	gikk	3
 gielav	åvddånahttet	3
 de	subtsastij	3
 én	gang	3
-den	sjuende	3
 sju	ganger	3
 foran	herrens	3
-til	folket	3
+de	sju	3
 prestene	som	3
 gikk	foran	3
 den	dagen	3
@@ -16308,7 +16264,6 @@ queerik	sábme	3
 kárttit	ja	3
 aktijvalattjat	ja	3
 duostudiddje	juogos	3
-sáme	álmmukjuojgga	3
 sámeednam	duoddarijt	3
 majt	store	3
 leksikon	tjállá	3
@@ -16393,6 +16348,7 @@ buoremusát	lijkkuv	3
 juohkusa	vuosstij	3
 ájnat	jesus	3
 begynte	å	3
+da	de	3
 seg	opp	3
 doarjjum	ja	3
 guhkijt	læhkám	3
@@ -16665,7 +16621,6 @@ julevsáme	nissunij	3
 dal	sadjásisá	3
 dávvervuorkán	la	3
 ja	moaddásijda	3
-iv	gus	3
 didjij	lev	3
 gus	miján	3
 guhtis	gåjt	3

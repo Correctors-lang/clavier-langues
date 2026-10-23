@@ -10,18 +10,18 @@ mu	la	71
 mù	le	70
 mì	mu	70
 na	mì	69
-kè	wo	60
+kè	wo	59
 wo	mu	55
 ɖo	e	54
 eye	wo	52
 àfi	kè	52
 kè	mù	51
-wàlɛbɛ	kè	48
 ènu	kè	48
 ŋuti	ye	48
 gblɔ̃	be	47
 àmɛ̀	ɖe	47
 ɛ̀	be	46
+wàlɛbɛ	kè	46
 mawu	be	45
 mu	nyi	45
 àmɛ̀	kèwo	43
@@ -53,7 +53,6 @@ sìgbè	àlekè	28
 pò	nupo	28
 kè	dɔ̃	27
 yebe	nukplaviwo	27
-e	la	26
 wo	la	26
 ye	wo	26
 ɖù	ɖase	26
@@ -62,6 +61,7 @@ la	nɔ̀	26
 la	gbà	26
 ènu	kèwo	26
 mɛ̀	ò	26
+e	la	25
 juwo	be	25
 ye	mì	25
 wo	le	24
@@ -81,7 +81,6 @@ mu	jèsi	21
 la	va	21
 eye	mù	21
 be	nyi	20
-eye	e	20
 wò	mu	20
 na	wò	20
 kè	le	20
@@ -93,6 +92,7 @@ nɛ	àmɛ̀	20
 kpò	ye	20
 mù	lè	20
 do	àsi	19
+eye	e	19
 mu	le	19
 mu	xɔ̀	19
 ye	ŋutɔ	19
@@ -133,7 +133,6 @@ ye	la	16
 kè	lè	16
 sè	be	16
 wo	be	16
-wo	ɖo	16
 kè	la	16
 ɖase	so	16
 vɔ̀-a	àmɛ̀	16
@@ -152,6 +151,7 @@ mì	be	16
 kè	mɛ̀	15
 be	jesu	15
 nyi	be	15
+wo	ɖo	15
 be	wo-a	15
 wo	yɔna	15
 jesu	gblɔ̃	15
@@ -211,7 +211,6 @@ jesu	gbà	12
 sɔ	ɛ̀	12
 wo	kplɔ̀	11
 yɔna	be	11
-wo	jì	11
 ɖo	la	11
 be	ènyà	11
 ŋùkɔ̀	na	11
@@ -239,13 +238,12 @@ woa	dòmɛ̀	11
 ɛ̀	lè	10
 gbɔ̃gbɔ̃	kɔ̀kɔ̀ɛ	10
 e	wɔ̀	10
-ènu	kèawo	10
+wo	jì	10
 eye	mi	10
 mawunɔ̃	gãwo	10
 e	lè	10
 wò	be	10
 ku	yebe	10
-e	va	10
 nyi	mawu	10
 xɔ̀	ɛ̀	10
 ji	sè-a	10
@@ -279,17 +277,18 @@ lè	yebe	10
 gbɔ	nyɛ̀	10
 le	yì-a	10
 na	gogo	10
-ekè	wo	9
 gà	kè	9
 sù	be	9
 fɔ̃	so	9
 sè	ènyà	9
 wo	kpɔ	9
 la	nyi	9
+e	va	9
 so	e	9
 kpɔ	ò	9
 be	èvi	9
 wo	gbà	9
+ènu	kèawo	9
 be	lè	9
 eye	nyɛ̀	9
 va	kpɔ	9
@@ -392,7 +391,6 @@ wàlɛbɛ	ŋuã	7
 mì	kpɔ	7
 mì	va	7
 wo	jè	7
-mawu	ɖo	7
 wo	lè	7
 le	fã	7
 fã	àvi	7
@@ -485,6 +483,7 @@ la	to	6
 nɛ	ènyɛ̀	6
 ènyɛ̀	cã	6
 to	lè	6
+ekè	wo	6
 ku	ènɔ̀-a	6
 kaka	na	6
 kè	mawu	6
@@ -584,21 +583,18 @@ nyi	ŋùkèkè	6
 àtikplɔtɔ	ɖe	5
 ɖè	ye	5
 be	ènɔ̀	5
-àlekè	wo	5
 la	do	5
 ŋuti	lè	5
 la	jì	5
 la	yɔ	5
 lè	ku	5
 e	ɖo	5
-wo	bìɔ	5
 ji	na	5
-e	yɔ	5
 bìɔ	wo	5
 be	èdù	5
 la	kplɔ̀	5
 kpɔ	ɛ̀-a	5
-eye	ekè	5
+mawu	ɖo	5
 gbɔ	ò	5
 be	wò-a	5
 kèwo	mu	5
@@ -606,7 +602,6 @@ na	yè	5
 nɔ̀	ku	5
 to	e	5
 dɔ̃	ɖoɖa-a	5
-eye	mawu	5
 e	na	5
 xixe-a	be	5
 ye	na	5
@@ -614,7 +609,6 @@ be	nɔ̀	5
 yo	nyɛ̀	5
 ji	ye	5
 àmɛ̀	ɖeti	5
-mawu	kpɔ	5
 ekè-a	ye	5
 johanɛs	be	5
 nɛ	mi-a	5
@@ -771,11 +765,11 @@ ma	yì	4
 jè	èmɔ̃	4
 kè	to	4
 va	lè	4
+eye	ekè	4
 gbà	trɔyì	4
 wo	to	4
 kplɔ̀	ɖèvi-a	4
 ɖèvi-a	ku	4
-e	nɔ̀	4
 nɛ	zɔ̃	4
 kpɔ	ɖo	4
 ɖo	àsi	4
@@ -786,6 +780,7 @@ yì	galilea	4
 va	yì	4
 ɖe	va	4
 kè	va	4
+eye	mawu	4
 ɖo	xixe-a	4
 be	èviwo	4
 ye	àmɛ̀	4
@@ -795,6 +790,7 @@ mɛ̀	gbãna	4
 kpɔ	mawu	4
 wo-a	yì	4
 be	yè	4
+wo	bìɔ	4
 ènyɛ̀	ya-a	4
 be	ètɔ̀-a	4
 gblɔ̃	so	4
@@ -819,6 +815,7 @@ mì	wɔ̀	4
 ènu	ɖekpekpe	4
 woa	ɖokoewo	4
 èsì	kè	4
+e	yɔ	4
 gogo	fiɔ	4
 sɔ	wɔ̀	4
 ɖɛ	be	4
@@ -1024,7 +1021,6 @@ jì	ì	3
 judea	be	3
 to	so	3
 lè	nɛ̀nɛ-a	3
-e	yomɛ̀-a	3
 wo	sè	3
 jo	yì	3
 nɔ̀	funu	3
@@ -1037,7 +1033,6 @@ lè	èzã	3
 ɖo	èpè	3
 kpata	lè	3
 àgowo	ji	3
-nɛ̀nɛ-a	ye	3
 ye	ènu	3
 wo-a	ɖo	3
 àsi	àkɔ	3
@@ -1049,6 +1044,7 @@ nɛ	ènu	3
 ɛ	be	3
 so	gɔ̃mɛ̀jèje-a	3
 ku	mawu	3
+e	nɔ̀	3
 ye	mɛ̀	3
 mawu	dɔ̃	3
 yebe	nyikɔ	3
@@ -1065,6 +1061,7 @@ xɔ̀	yebe	3
 nɛ̀nɛ	ò	3
 wo	àgbè	3
 mì	sã-a	3
+mawu	kpɔ	3
 àta	gbɔ-a	3
 hũ	e	3
 nyi	mɛsia	3
@@ -1205,6 +1202,7 @@ be	wɔ̀nà	3
 èvia	cã	3
 kpata	ye	3
 nɛ	àmɛ̀siamɛ̀	3
+àlekè	wo	3
 ɖoɖa-a	ji	3
 mɛ̀	yì	3
 sè	yebe	3
@@ -1441,8 +1439,7 @@ ne	ze	3
 woa	teŋu	3
 yesù	kristò	3
 e	mè	3
-mawu	yɔ	3
-mawu	wɔ̀	3
+èŋù	kè	3
 lè	lilikpoa	3
 lilikpoa	be	3
 be	nɔ̀nɔmè	3

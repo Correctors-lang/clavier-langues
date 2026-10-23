@@ -2,9 +2,9 @@
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
 ne	me	2211
 me	kute	1311
-nhym	kam	1193
-ne	kam	1120
-nhym	me	1089
+nhym	kam	1191
+ne	kam	1117
+nhym	me	1088
 kam	me	1045
 to	me	961
 quê	ha	946
@@ -32,10 +32,10 @@ tu	amim	400
 ha	me	398
 me	to	396
 ne	cute	383
-dja	ba	380
+dja	ba	379
 te	me	379
 ne	kute	367
-mrãmri	ne	366
+mrãmri	ne	364
 pê	me	353
 dja	ga	352
 wa	ha	345
@@ -50,13 +50,13 @@ amji	to	311
 me	ipa	305
 hanea	ne	301
 nãm	me	299
-kwãrĩk	wãnh	295
 xà	ata	295
+kwãrĩk	wãnh	293
 arỳm	ar	291
 me	kum	290
 ne	kum	286
 ar	ajo	284
-kadjy	ne	281
+kadjy	ne	280
 to	amji	276
 metĩndjwỳnh	kute	274
 ar	aje	270
@@ -64,8 +64,8 @@ kam	hapac	269
 amim	jeju	265
 kute	amim	261
 mex	ne	261
-ar	amijo	259
 kôt	ar	258
+ar	amijo	258
 pi'ôk	no'ôk	257
 pahpãm	te	246
 te	amji	245
@@ -82,17 +82,17 @@ me	kunĩ	227
 kam	ar	220
 nhym	ar	217
 cu	ha	215
-ja	ne	213
 mebê	idjaer	212
 xà	ita	212
+ja	ne	211
 metĩndjwỳnh	arỳm	211
 to	ipa	210
 me	apa	209
-ba	ar	208
 bẽnjadjwỳr	djwỳnh	208
+ba	ar	207
 me	kwỳ	204
 ampeaj	kam	201
-ta	ne	199
+ta	ne	198
 ne	bar	198
 ate	me	198
 ba	ne	195
@@ -104,8 +104,9 @@ pê	pahpãm	186
 nhym	metĩndjwỳnh	183
 no'ôk	ne	183
 me	pamã	183
-kute	mrãmri	182
+kute	mrãmri	181
 kôt	me	181
+to	hahkre	181
 arỳm	kum	177
 jõ	krĩ	177
 ita	kam	177
@@ -140,18 +141,18 @@ kam	dja	153
 amã	arẽ	152
 kam	ne	152
 ha	nee	152
-metĩndjwỳnh	karõ	151
 ba	djwỳnh	151
 ar	o	151
+metĩndjwỳnh	karõ	150
 ba	arỳm	150
 to	prãm	150
 juta	catêjê	150
-mỳjja	kunĩ	149
 ar	arỳm	149
 me	bakukãmãre	149
+mỳjja	kunĩ	148
 jõ	pjê	148
-kute	amijo	147
 me	cupê	147
+kute	amijo	146
 me	imã	146
 jeju	te	146
 jirô	pê	146
@@ -221,7 +222,6 @@ ihtỳj	me	116
 kôt	ne	115
 tỳx	ne	115
 ne	o	114
-o	ba	114
 me	krãptĩ	114
 me	pajõ	114
 pê	wa	114
@@ -233,6 +233,7 @@ nhõ	me	111
 ne	amji	111
 djãm	ar	110
 gar	arỳm	110
+o	ba	110
 cwỳrjapê	ri	110
 me	me	109
 memã	axwe	109
@@ -241,6 +242,7 @@ amim	me	108
 ne	ihtỳj	108
 me	ajpẽn	108
 me	kabẽn	107
+me	ato	107
 na	ca	107
 kute	metĩndjwỳnh	106
 imã	me	106
@@ -265,7 +267,6 @@ me	te	101
 catêjê	te	101
 arỳm	amim	100
 ba	ije	100
-kam	metĩndjwỳnh	100
 amim	markumrẽx	100
 kute	gwaj	100
 atajê	to	100
@@ -273,6 +274,7 @@ ihkôt	me	100
 metĩndjwỳnh	kukwakam	99
 ar	iba	99
 jeju	to	99
+kam	metĩndjwỳnh	98
 na	pê	98
 carõ	pejti	98
 me	hũmre	98
@@ -329,6 +331,7 @@ atajê	mã	87
 me	gapac	87
 kute	o	86
 kĩnh	ne	86
+prãm	kêt	86
 wa	me	86
 õ	mỳjja	85
 me	aje	85
@@ -340,6 +343,7 @@ kôt	ba	84
 jarẽ	nhym	84
 xà	kam	84
 jarẽn	to	84
+me	papa	84
 pahpãm	to	84
 ihhêj	rũm	84
 amim	metĩndjwỳnh	83
@@ -348,9 +352,9 @@ arỳm	kute	83
 jeju	kute	83
 nã	gãm	83
 ne	por	82
-õ	me	81
 kabẽn	man	81
 cahê	na	81
+õ	me	80
 arỳm	o	80
 axwe	pãnh	80
 amijo	akẽx	80
@@ -389,7 +393,6 @@ pit	mã	76
 ã	ajarẽ	75
 mar	djwỳnh	75
 kute	jeju	75
-nhym	jeju	75
 me	bajo	75
 ujarẽnh	ny	75
 me	pahto	75
@@ -401,14 +404,15 @@ kêt	nhym	74
 n	kam	74
 jarẽnh	djwỳnh	74
 ar	me	74
-nãm	ar	74
 arỳm	kôt	74
+nhym	jeju	74
 me	awỳr	74
 me	tu	74
 hãn	ne	74
 jarẽn	xà	74
 cunea	to	74
 to	ame	74
+awỳr	bôx	73
 mỳj	dja	73
 bẽnjadjwỳr	rax	73
 dja	ar	73
@@ -417,6 +421,8 @@ pahte	me	73
 ma	me	73
 ata	pê	73
 katàt	amijo	72
+memã	ane	72
+nãm	ar	72
 ajo	ba	72
 kêtkumrẽx	ne	72
 me	hõ	72
@@ -458,6 +464,7 @@ me	hapac	67
 nhym	ren	66
 me	bẽnjadjwỳr	66
 metĩndjwỳnh	me	66
+o	pãnh	66
 me	utàr	66
 djwỳnh	kute	66
 amijo	me	66
@@ -620,7 +627,6 @@ me	hõmpun	51
 ar	aben	50
 nhym	kute	50
 gar	amã	50
-o	tẽn	50
 mỳj	kadjy	50
 pãnh	jarẽnh	50
 arỳm	kuma	50
@@ -634,6 +640,7 @@ jõ	kàhhôc	50
 anen	arỳm	49
 kunĩ	ne	49
 arỳm	amijo	49
+o	tẽn	49
 bê	memã	49
 memã	metĩndjwỳnh	49
 jeju	me	49
@@ -726,7 +733,6 @@ jarkwa	kôt	44
 pê	ihhêj	44
 apa	nare	44
 nhỹnh	ne	43
-amijo	iba	43
 me	jamã	43
 amiwỳr	me	43
 amã	kabẽn	43
@@ -736,6 +742,7 @@ bajo	ba	43
 o	amirĩt	43
 ar	ijã	43
 jeju	jarkwa	43
+apu	ipa	43
 catê	na	43
 mehkwỳ	mã	43
 kam	ri	43
@@ -750,6 +757,7 @@ nare	kam	43
 hajỹr	nare	43
 carõ	kên	43
 ngômã	me	42
+amijo	iba	42
 arỳm	imã	42
 ba	dja	42
 jeju'ã	ujarẽnh	42
@@ -817,6 +825,7 @@ metĩndjwỳnh	kum	39
 djãm	metĩndjwỳnh	39
 pãnh	jarẽ	39
 gar	ama	39
+aba	kêt	39
 jabej	ne	39
 ar	ja	39
 arỳm	prĩne	39
@@ -840,6 +849,7 @@ amim	karõ	38
 me	akwỳ	38
 amũ	me	38
 mỳjja	mex	38
+pãnh	ne	38
 kute	aben	38
 aben	pyràk	38
 arỳm	metĩndjwỳnhmã	38
@@ -875,7 +885,6 @@ amikĩnh	jarẽ	37
 kabẽn	jarẽnho	37
 kam	paur	37
 ja	kunĩ	37
-kam	memã	37
 ba	amã	37
 ne	ikjêkêt	37
 me	tãm	37
@@ -902,11 +911,13 @@ me	arĩk	36
 me	kukràdjà	36
 imã	arẽ	36
 bẽnjadjwỳr	jeju	36
+kam	memã	36
 me	ijõ	36
 ha	ita	36
 nee	jũm	36
 mam	me	36
 itỳj	me	36
+ikwỳ	nõ	36
 ihhimpej	xà	36
 pê	ri	36
 krĩ	wỳr	36
@@ -957,7 +968,6 @@ ja	jarẽ	34
 kam	tu	34
 kam	mebê	34
 amã	metĩndjwỳnh	34
-o	djuw	34
 amã	ar	34
 to	impejti	34
 amcro	ata	34
@@ -1018,7 +1028,6 @@ ipê	me	33
 cute	jeju	33
 nhipêx	ne	32
 ne	kubê	32
-nhym	ajte	32
 anhỹro	ba	32
 kum	mex	32
 kuman	arỳm	32
@@ -1030,6 +1039,7 @@ godja	gar	32
 tỳx	jadjà	32
 ijano	ba	32
 adjumar	mex	32
+o	djuw	32
 prĩne	ar	32
 djã	nã	32
 utàr	ne	32
@@ -1064,6 +1074,7 @@ gar	memã	31
 jao	ba	31
 me	uma	31
 paur	ar	31
+nhym	ajte	31
 kute	pi'ôk	31
 ato	prãm	31
 ipa	na	31
@@ -1172,7 +1183,6 @@ metĩndjwỳnh	kôt	28
 kwỳ	krẽn	28
 me	umar	28
 memã	akabẽn	28
-ngô	raxbê	28
 ano	nhym	28
 akati	nhym	28
 amijo	inhĩ	28
@@ -1240,6 +1250,7 @@ memã	jeju	27
 kam	mã	27
 kum	o	27
 arỳm	amũ	27
+ngô	raxbê	27
 karõ	jano	27
 ne	kritu	27
 kritu	kute	27
@@ -1279,7 +1290,6 @@ kwỳ	arỳm	26
 amijo	ba'ã	26
 jarẽnh	kadjy	26
 ã	ane	26
-karõ	kute	26
 ije	amã	26
 kôt	memã	26
 ba	kadjy	26
@@ -1311,7 +1321,6 @@ nhõ	àpênh	26
 ãno	dja	26
 kam	krĩraxbê	26
 anhõ	mỳjja	26
-mã	tẽ	26
 aben	pydji	26
 me	kàtàm	26
 djà	kêt	26
@@ -1336,7 +1345,9 @@ me	ĩ	25
 ije	memã	25
 jarẽnh	nhym	25
 kute	arkum	25
+karõ	kute	25
 me	kanga	25
+metĩndjwỳnh	kukràdjà	25
 ba	pyràk	25
 me	omũ	25
 amirĩt	nhym	25
@@ -1358,6 +1369,7 @@ ar	akĩnh	25
 kukwakam	memã	25
 kum	arẽ	25
 bamã	me	25
+mã	tẽ	25
 arỳm	jeju	25
 kam	mỳjja	25
 jejukôt	me	25
@@ -1386,7 +1398,6 @@ jipôc	ri	25
 ha	ampo	25
 nàr	djãm	24
 arỳm	mar	24
-kubê	metĩndjwỳnh	24
 arỳm	apỹnh	24
 ta	arỳm	24
 ne	kàj	24
@@ -1410,7 +1421,6 @@ arỳm	amã	24
 djã	nãm	24
 bẽnjadjwỳr	rũnh	24
 gar	ren	24
-ja	kute	24
 mã	wa	24
 ne	paur	24
 kabẽnkôt	ar	24
@@ -1437,7 +1447,7 @@ harkwa	hyr	24
 kikre	kudjỳ	24
 kaprĩo	atom	24
 nhõ	kikretikam	23
-kubê	ne	23
+kubê	metĩndjwỳnh	23
 ne	mrãmri	23
 nãm	te	23
 wãnh	ajaxwemã	23
@@ -1453,6 +1463,7 @@ my	kà	23
 ban	kam	23
 ikabẽn	ja	23
 mrãmri	me	23
+kabẽn	kajgo	23
 dja	te	23
 ikabẽn	ma	23
 o	iba	23
@@ -1465,6 +1476,7 @@ o	tĩn	23
 kam	bẽnjadjwỳr	23
 ar	tu	23
 kĩnh	kadjy	23
+ja	kute	23
 arỳm	bẽnjadjwỳr	23
 arỳm	abenmã	23
 kam	õ	23
@@ -1491,7 +1503,6 @@ me	hikaj	23
 par	nare	23
 cunea	ton	23
 ite	ampo	23
-mea	mã	23
 ne	mẽr	23
 ne	mam	23
 atajê	pê	23
@@ -1511,6 +1522,7 @@ bẽnjadjwỳrbê	kumkati	22
 metĩndjwỳnhmã	ngômã	22
 ruw	ne	22
 kabẽn	nhym	22
+kubê	ne	22
 pãnh	me	22
 ja	mar	22
 amijo	ban	22
@@ -1535,7 +1547,6 @@ akĩnh	djà	22
 ar	ajuw	22
 atĩn	ne	22
 memã	kungã	22
-wãnh	gar	22
 ar	amar	22
 metĩndjwỳnhmã	rax	22
 gadjwỳ	ar	22
@@ -1612,10 +1623,10 @@ arỳm	jakam	21
 amã	o	21
 akati	bôx	21
 me	tĩn	21
-ino	re	21
 kaprĩ	ngã	21
 maro	ba	21
 mrãmri	ar	21
+wãnh	gar	21
 me	amijo	21
 õ	bẽnjadjwỳr	21
 krãkamngônh	nhõ	21
@@ -1701,7 +1712,6 @@ bôx	gar	20
 ba	ikabẽn	20
 ã	imã	20
 nãm	kum	20
-je	tô	20
 inhõ	me	20
 amijo	tẽn	20
 kute	akubyn	20
@@ -1767,7 +1777,6 @@ anoo	biknor	20
 djãm	ije	19
 mỳjjao	metĩndjwỳnh	19
 ije	amim	19
-nhym	be	19
 mar	rax	19
 arkum	ane	19
 me	apỹnh	19
@@ -1809,6 +1818,7 @@ aban	arỳm	19
 gar	katàt	19
 kêt	pyràk	19
 gwaj	banhĩ	19
+o	ajkẽ	19
 mỳjja	ngã	19
 me	omũnh	19
 kute	pykakam	19
@@ -1917,7 +1927,6 @@ apỹnh	ar	18
 mỳjja	kêt	18
 dja	bôx	18
 punu	kute	18
-mã	kum	18
 ikabẽn	mar	18
 marmã	kam	18
 rômakam	me	18
@@ -1990,7 +1999,6 @@ kute	mỳjjao	17
 ije	mỳjja	17
 markam	ne	17
 pijàm	ne	17
-me'õ	nhidjibê	17
 me	jadjwỳ	17
 pyràk	nhym	17
 nhym	õ	17
@@ -2047,6 +2055,7 @@ ikabẽn	ne	17
 aje	jeju	17
 me	mỳjja	17
 mexo	kute	17
+mã	kum	17
 jakren	memã	17
 jabej	ba	17
 karõ	arỳm	17
@@ -2285,6 +2294,7 @@ ne	kumex	16
 me'õ	kuprỳ	16
 badjwỳ	dja	15
 mỳjja	kumex	15
+arỳm	ajaxwe	15
 jeju	arkum	15
 amim	anhỹr	15
 metĩndjwỳnh	gwaj	15
@@ -2324,6 +2334,7 @@ me	pãnh	15
 kôt	o	15
 o	kangõ	15
 ikôt	o	15
+axwe	jarẽ	15
 arỳm	kritu	15
 bajaxwe	kêt	15
 te	ije	15
@@ -2336,7 +2347,6 @@ amijo	mex	15
 meo	ane	15
 kute	me'ã	15
 arẽ	ga	15
-nãm	metĩndjwỳnh	15
 me	akubyn	15
 me	apytàr	15
 metĩndjwỳnh	rax	15
@@ -2493,7 +2503,6 @@ ja	jarẽnh	14
 amã	kritu'ã	14
 kadjwỳnhbê	amim	14
 bakukãmãre	memã	14
-djãm	arỳm	14
 me	kuma	14
 arẽn	memã	14
 metĩndjwỳnhmã	kabẽn	14
@@ -2513,6 +2522,7 @@ ba	on	14
 arỳm	me'ã	14
 kum	jeju	14
 amim	ngryk	14
+nãm	metĩndjwỳnh	14
 karõ	nhym	14
 ba	ĩ	14
 ar	axwe	14
@@ -2667,6 +2677,7 @@ abê	pi'ôk	14
 inhĩ	ne	14
 gwaj	ã	13
 arỳm	pijàm	13
+me'õ	nhidjibê	13
 o	ne	13
 me	kaprĩn	13
 kwỳ	jano	13
@@ -2682,6 +2693,7 @@ me	akre	13
 bajtem	ba	13
 kritu'ã	ajarẽ	13
 bẽnjadjwỳr	djwỳnhmã	13
+djãm	arỳm	13
 memã	ajarẽ	13
 mõr	tãmtã	13
 bamã	bajaxwe	13
@@ -2867,7 +2879,6 @@ kute	bĩn	12
 kôt	tẽ	12
 arỳm	ar'ã	12
 ar'ã	akati	12
-nãm	jeju	12
 inhĩ	dja	12
 me	amũ	12
 ne	amũ	12
@@ -2884,6 +2895,7 @@ amijo	iban	12
 bamex	ne	12
 me	arẽ	12
 kute	amijakreja	12
+kute	imar	12
 arẽnho	mõ	12
 bajaxwe	pãnh	12
 ren	memã	12
@@ -2943,7 +2955,6 @@ gwaj	bakaprĩ	12
 mỳjja	nhõr	12
 amijo	bakumrẽx	12
 ikabẽn	jarẽn	12
-dja	prĩne	12
 atĩn	prãm	12
 õ	ne	12
 me	krãkamngônh	12
@@ -3124,7 +3135,6 @@ kukwakam	ujarẽnh	11
 djuão	arỳm	11
 mrãmri	kute	11
 o	aminhõ	11
-mebê	metĩndjwỳnh	11
 bẽnjadjwỳrbê	kumkatibê	11
 mrãmri	tu	11
 ne	akati	11
@@ -3219,6 +3229,7 @@ abenmã	akabẽn	11
 akurê	djwỳnh	11
 nhym	memã	11
 kôt	katàt	11
+dja	prĩne	11
 anhõkre	kadjwỳnhbê	11
 aba	mexkumrẽx	11
 rãm	ne	11
@@ -3267,6 +3278,7 @@ kôt	arẽ	11
 byn	o	11
 ga	imã	11
 arỳm	umaje	11
+nãm	jeju	11
 inhõ	àpênh	11
 aktã	kabẽno	11
 arỳm	te	11
@@ -3333,6 +3345,7 @@ mã	ita	11
 kên	nõ	11
 quê	ame	11
 ato	ihhimpej	11
+hõmpun	nare	11
 kàj	mã	11
 pjê	catêjê	11
 imã	to	11
@@ -3433,6 +3446,7 @@ pi'ôk	no'ôk'ã	11
 ga	amim	10
 ne	kajgo	10
 bamã	aben	10
+ingryk	kêt	10
 nhipêx	djwỳnh	10
 me	axweja	10
 me	ro'ã	10
@@ -3459,10 +3473,10 @@ amim	me'ã	10
 amy	kà	10
 ajte	metĩndjwỳnh	10
 amijo	bakam	10
+mebê	metĩndjwỳnh	10
 metĩndjwỳnh	ren	10
 metĩndjwỳnhmã	àpênh	10
 memã	ja	10
-arĩk	amim	10
 ren	tu	10
 adjumar	djà	10
 ar	adjumar	10
@@ -3785,7 +3799,6 @@ kute	kêt	9
 aben	bê	9
 ne	djuão	9
 ujarẽnh	tẽ	9
-nhym	djuão	9
 ipêx	ne	9
 me	wỳnh	9
 kunĩmẽ	me	9
@@ -3812,6 +3825,7 @@ metĩndjwỳnh	kukràdjà'ã	9
 me	metĩndjwỳnhmã	9
 kritu	markam	9
 iban	arỳm	9
+arĩk	amim	9
 me'õ	me	9
 pytàr	ne	9
 jeju	markumrẽxja	9
@@ -4118,6 +4132,7 @@ pyràc	nare	9
 apejti	na	9
 ne	aracri	9
 xet	atajê	9
+na	jỹ	9
 jỹ	ne	9
 krĩ	atajê	9
 jũm	pê	9
@@ -4225,6 +4240,7 @@ kute	akamàt	8
 kunĩ	pumũnh	8
 tu	markumrẽx	8
 tykkam	me	8
+nhym	djuão	8
 kabẽnja	ne	8
 me	me'õ	8
 arỳm	umar	8
@@ -4419,7 +4435,6 @@ kute	amã	8
 ajte	amã	8
 bar	omũn	8
 kam	kĩnhkumrẽx	8
-ja	arỳm	8
 ar	ukaprĩkôt	8
 kam	wabin	8
 meo	mõn	8
@@ -4854,6 +4869,7 @@ ta	mexo	7
 pĩte'y'ã	wajêt	7
 wajêt	nhym	7
 gwaj	bajõ	7
+ne	wã	7
 jeju	markumrẽxkam	7
 amã	arẽnhmã	7
 ar	iro'ã	7
@@ -4875,7 +4891,6 @@ ajte	kôt	7
 kwỳ	pytàr	7
 nãm	ren	7
 me'ã	pi'ôk	7
-tok	nhym	7
 me	rôrôk	7
 meo	me	7
 akẽx	jabej	7
@@ -5008,7 +5023,6 @@ amextire	ne	7
 ije	kàj	7
 ije	ajte	7
 ibôx	ne	7
-ja	ar	7
 o	baba	7
 ã	dja	7
 tokry	pymaje	7
@@ -5036,6 +5050,7 @@ ar	kumẽ	7
 kurũm	tẽn	7
 ar	kurêtuw	7
 arkum	jeju	7
+ja	arỳm	7
 ukaprĩkôt	ar	7
 bar	ikĩnhkumrẽx	7
 akubyn	bôxmã	7
@@ -5044,6 +5059,7 @@ ar	akĩnhkumrẽx	7
 ajte	tẽ	7
 arỳm	krĩrax	7
 nhym	jejukôt	7
+abatành	djà	7
 arỳm	krãptĩ	7
 ne	kwãrĩk	7
 me'ã	akati	7
@@ -5057,7 +5073,6 @@ o	wadjà	7
 o	wabi	7
 kregu	kabẽnkam	7
 kabẽnkam	ne	7
-o	kato	7
 me'ã	akamàt	7
 ijê	nhym	7
 pedrumẽ	djuão	7
@@ -5510,7 +5525,6 @@ kabẽnkôt	amijo	7
 kadjy	pi'ôk	7
 amã	katàt	7
 mjênmẽ	ro'ã	7
-kõm	ne	7
 dja	bẽnjadjwỳr	7
 kam	kikre	7
 ibẽnjadjwỳr	rax	7
@@ -5568,6 +5582,7 @@ amũ	aben	6
 akam	ingryk	6
 o	ikõn	6
 kam	ajmã	6
+õ	nhidjibê	6
 kurwỳ	djà	6
 arỳm	kukwakam	6
 mexo	uma	6
@@ -5678,7 +5693,6 @@ prãm	ba	6
 badjwỳ	ibê	6
 idjaer	krãptĩ	6
 me	jakam	6
-par	tok	6
 imã	jeju	6
 jeju'ã	ajarẽ	6
 jakrenh	me	6
@@ -5692,7 +5706,6 @@ mebê	amijo	6
 atemã	kabẽn	6
 ujarẽnho	ane	6
 amijarẽnho	ba	6
-re	ne	6
 mebê	idjaero	6
 gwaj	kabẽn	6
 amim	karõn	6
@@ -5813,6 +5826,7 @@ ar	iwỳr	6
 paur	kôt	6
 axwe	mar	6
 aba	prãm	6
+ja	ar	6
 ajo	õ	6
 itokry	ne	6
 bikẽnho	ane	6
@@ -5926,6 +5940,7 @@ me	akujate	6
 kam	ô'ã	6
 kum	kikre	6
 ne	ajbir	6
+o	kato	6
 paur	me	6
 mebê	pardjêumẽ	6
 kabẽno	kumex	6
@@ -6185,7 +6200,6 @@ cute	cô	6
 cute	hõmpun	6
 te	cwat	6
 ne	caxwa	6
-atajê	mea	6
 ampo	catia	6
 hàhtôa	to	6
 to	hàhtô	6
@@ -6267,6 +6281,7 @@ jirên	xà	6
 ne	rỳ	6
 mã	krĩpinkrên	6
 mã	jowãw	6
+pejti	ne	6
 pê	curi	6
 catê	me	6
 ajpên	mõ	6
@@ -6471,7 +6486,6 @@ ar	ajamak	6
 mỳjja	krãptĩ	6
 bẽnjadjwỳr	krãdjê	6
 uba	kangô	6
-o	kõm	6
 pijàm	djàje	6
 rer	kêtkumrẽx	6
 imã	ikĩnh	6
@@ -6511,7 +6525,6 @@ djà	mỳn	6
 atom	djwỳnhmẽ	6
 djàri'ã	memã	6
 yo	ukabêr	6
-y	kwỳ	6
 mỳjjabit'ã	ajarẽ	6
 ikukràdjà	mar	6
 ã	tỹm	6
@@ -6573,6 +6586,7 @@ arẽnhkumrẽx	ne	5
 me	akren	5
 akren	memã	5
 katàt	pry	5
+amexo	ane	5
 idjaer	rũnh	5
 te	irax	5
 ãpre	bônh	5
@@ -6600,6 +6614,7 @@ arỳm	pykamã	5
 metĩndjwỳnhkôt	tĩn	5
 jabêo	ane	5
 me	akanga	5
+ikanga	kêt	5
 aje	amũ	5
 metĩndjwỳnh	pãnh	5
 ajte	mekôt	5
@@ -6703,7 +6718,6 @@ metĩndjwỳnh	õ	5
 kêtri	amijo	5
 kwỳ	pytà	5
 tỳxja	pumũ	5
-rôrôk	pyràk	5
 jeju	kĩnh	5
 arỳm	kĩ	5
 akubyn	metĩndjwỳnh'ỳr	5
@@ -6800,7 +6814,6 @@ mexo	mõ	5
 mar	djwỳnhmã	5
 bôr	nhym	5
 me	pijàm	5
-rax	kamẽ	5
 me	irãkam	5
 kabẽn	marmã	5
 me	bẽn	5
@@ -7113,7 +7126,6 @@ kôk	djàbêrkam	5
 raxo	ar	5
 bôx	ny	5
 me	bakabẽn	5
-ja	me	5
 me	bajabatành	5
 jarẽnh	mex	5
 ne	myt	5
@@ -7519,7 +7531,6 @@ quêt	mehcunea	5
 me	ipro	5
 ite	jũm	5
 prà	tepti	5
-ôr	te	5
 ihpôc	xà	5
 ne	cuna	5
 mãn	xà	5
@@ -7533,7 +7544,6 @@ pej	cunea	5
 jũrkwa	jamãr	5
 hũtàr	catê	5
 ipê	jũm	5
-pejti	ne	5
 quêt	jũm	5
 jũm	apu	5
 nee	rỳ	5
@@ -7963,6 +7973,7 @@ ngônh	arỳm	5
 me'õ	no	5
 me	jeju'ỳr	5
 kute	purkam	5
+y	kwỳ	5
 y'ã	akre	5
 bàri	kwỳkam	5
 kwỳkam	ijy	5
@@ -8071,7 +8082,6 @@ djeruxarẽkam	mebê	4
 inhõ	bẽnjadjwỳrbê	4
 ibê	kritu	4
 kadjy	on	4
-amexo	ane	4
 ijã	ne	4
 ba	ngômãbit	4
 me'õ	gêdja	4
@@ -8212,6 +8222,7 @@ kêtkumrẽx	ba	4
 me	anhy	4
 ba	pãnh	4
 kẽn	me	4
+rôrôk	pyràk	4
 kĩnh	kêtkam	4
 me	bajtem'ỳr	4
 me	bajtembit	4
@@ -8231,6 +8242,7 @@ wãnh	amijo	4
 kangan	arỳm	4
 ne	kanga	4
 kanga	pyràk	4
+ijo	ane	4
 jeju'ỳr	amijo	4
 utàr	mar	4
 kêt	ar	4
@@ -8323,9 +8335,7 @@ pràbê	tu	4
 kẽn	pãnh	4
 abeno	anhõbikwa	4
 nhym	dja	4
-kamẽ	nhym	4
 rũnh	pyràk	4
-mẽ	ro'ã	4
 ar	abakam	4
 wãnh	rã'ã	4
 memã	katàt	4
@@ -8408,7 +8418,6 @@ kute	kukwakam	4
 amikutã	me	4
 memã	kwỳ	4
 wãnh	kubê	4
-nê	kêt	4
 nàr	mjêno	4
 kàtàm	kêt	4
 dja	kritu	4
@@ -8420,7 +8429,6 @@ kum	akĩnh	4
 akabẽn	mexbit	4
 man	memã	4
 pãnh	ra	4
-metĩndjwỳnh	kanàrràm	4
 kabẽn	marja	4
 ban	kum	4
 wãnh	amidjwỳnhbit	4
@@ -9027,7 +9035,6 @@ jadjênh	ne	4
 me	ikĩnhkumrẽx	4
 me	nhỹ	4
 kunĩ	kĩnho	4
-re	nhym	4
 jakam	ã	4
 me	amijã	4
 amã	metĩndjwỳnh'ã	4
@@ -9158,6 +9165,7 @@ ampo	cãmjĩ	4
 ikĩn	nare	4
 icuxà	me	4
 xi	jarẽn	4
+ato	hane	4
 imõr	to	4
 na	ikrĩ	4
 ita	kwỳ	4
@@ -9339,7 +9347,6 @@ kam	pahhi	4
 ri	mehcunea	4
 pê	carôt	4
 pupun	prãmte	4
-pê	ôr	4
 atajê	pit	4
 pyràcti	ata	4
 caxêre	te	4
@@ -9477,7 +9484,6 @@ ne	ihpore	4
 ihpore	ata	4
 ha	gapacta	4
 me	agõ	4
-me	apỳm	4
 pahhi	nõ	4
 cama	cumã	4
 hõ	jõr	4
@@ -9754,7 +9760,6 @@ hàprê	catêjê	4
 mempejti	na	4
 kam	apê	4
 wakỳti	te	4
-mãa	mã	4
 papijapu	xà	4
 pyt	me	4
 gipõm	catêjê	4
@@ -9958,7 +9963,6 @@ curan	prãm	4
 pỳj	me	4
 me	hêj	4
 hy	kryjre	4
-kum	be	4
 man	me	4
 bar	kôt	4
 bar	itokry	4
@@ -9998,6 +10002,7 @@ kute	bãm	4
 kunĩ	noo	4
 abẽn	tỳx	4
 pry	jadjwỳrja	4
+jadjwỳrja	pyràk	4
 me	ane	4
 axwe	nhõ	4
 ãngre	ar	4
@@ -10079,6 +10084,7 @@ idjàmra	prãm	4
 ari	ar	4
 gê	goja	4
 rũm	imã	4
+imã	akàx	4
 ngôbê	djodão	4
 jakryo	mex	4
 kum	me'õ	4
@@ -10267,6 +10273,7 @@ amim	ikra	3
 ikra	markumrẽx	3
 nhym	ajmã	3
 amã	amex	3
+amex	kêtkumrẽx	3
 nhidjibê	kabẽn	3
 tĩn	djwỳnhkumrẽx	3
 mrãnhja	pumũ	3
@@ -10283,7 +10290,6 @@ ikôt	bôx	3
 raxo	katàt	3
 bakunĩo	djuw	3
 mexo	nhỹ	3
-môjdjê	ne	3
 pumũnh	got	3
 êx	kêt	3
 mẽnh	kêt	3
@@ -10320,7 +10326,6 @@ kàjkwa	abenbê	3
 axwe	jarẽnho	3
 aje	te	3
 ã	axweo	3
-t	memã	3
 baje	markumrẽx	3
 ajaxweo	ane	3
 anhỹrkam	djãm	3
@@ -10371,7 +10376,6 @@ anhỹro	iba	3
 metĩndjwỳnhmã	imex	3
 tu	gwaj	3
 amrẽbê	memã	3
-gar	arĩk	3
 djwỳnhmã	wabi	3
 kôt	omũn	3
 tyk	ba	3
@@ -10445,7 +10449,6 @@ ne	abenbê	3
 abenbê	ar	3
 me	amidjwỳnhbit	3
 no	rerekreja	3
-be	ar	3
 gar	mỳjja	3
 punu	mar	3
 ar	ajaxwemã	3
@@ -10686,6 +10689,7 @@ te	omũn	3
 kum	kajpar	3
 kajgo	kôt	3
 jakam	kum	3
+mẽ	ro'ã	3
 ajaxwe	pyma	3
 metĩndjwỳnhmã	amijangri	3
 amijangri	tỳx	3
@@ -10797,7 +10801,6 @@ me'ã	õ	3
 kambit	dja	3
 àpênh	djwỳnh	3
 adjàpênh	pãnh	3
-kubê	nê	3
 memã	anhõ	3
 karõkôt	kukràdjà	3
 kôt	gar	3
@@ -10821,6 +10824,7 @@ prĩne	mex	3
 djãm	apỹnh	3
 kôt	amex	3
 nire	kwỳ	3
+metĩndjwỳnh	kanàrràm	3
 kanàrràm	ar	3
 kabẽn	mexbit	3
 jabê	kêt	3
@@ -10991,7 +10995,6 @@ kupênho	ba	3
 rã'ãmã	ne	3
 memã	àkjêr	3
 àmra	prã	3
-t	ne	3
 we	memã	3
 gwaj	kudjwa	3
 kupa'ã	nàr	3
@@ -11361,6 +11364,7 @@ bajtem	kabẽnkam	3
 jabatành	djàkam	3
 marmã	arkam	3
 arkam	no	3
+ja	me	3
 bajabatành	djà	3
 ar	kuma	3
 djwỳnh	ar'ã	3
@@ -12205,7 +12209,6 @@ me	ipu	3
 pom	ate	3
 pê	jũ	3
 hũmre	cunea	3
-mehkra	mea	3
 pa	me	3
 apijapu	nare	3
 to	caprãr	3
@@ -12986,7 +12989,6 @@ hĩ	ahwỳ	3
 pahte	ame	3
 nõ	gõ	3
 apu	ita	3
-ampi	ne	3
 cute	ixaher	3
 kujahêc	to	3
 hõ	krãhtare	3
@@ -13103,7 +13105,6 @@ ita	kampa	3
 pahpãm	kĩnte	3
 ajpẽn	jĩkjê	3
 na	amehkrĩ	3
-cume	mãa	3
 me	pamẽn	3
 kwỳa	me	3
 gõtpê	me	3
@@ -13186,7 +13187,6 @@ kêtkam	arỳm	3
 kukràdjà	kupa'ã	3
 môjdjê	kukràdjàja	3
 amikukràdjà	jarẽ	3
-amim	idja	3
 ingrà	tỳx	3
 kanga	kêtmã	3
 iban	kôt	3
@@ -13384,7 +13384,6 @@ badjwỳ	imã	3
 ne	wãm	3
 kute	õbê	3
 katàt	nhym	3
-kõm	kêt	3
 kôt	bibãnh	3
 uba	kangômẽ	3
 kum	kadjwati	3
@@ -13578,6 +13577,7 @@ axwe	ra	3
 kaprĩo	tẽ	3
 djeruxarẽ'ỳr	o	3
 gar	me'ỳr	3
+kaprĩo	ane	3
 iwỳr	abôx	3
 abôx	kêt	3
 ar	wãm	3
@@ -13748,8 +13748,6 @@ akati	tãmkam	3
 ukabêr	mrã	3
 kre	kadjy	3
 tu	mỳjja	3
-kwỳ	prykam	3
-prykam	rôrôk	3
 pyka	purorrekam	3
 y	nhingrõt	3
 apỹnh	bàri	3
@@ -13934,7 +13932,6 @@ katẽn	tẽmja	3
 krĩpinkrên	na	3
 to	ipixô	3
 cumã	hê	3
-hê	pô	3
 tĩn	kadjy	3
 ruw	nhym	3
 ne	ikwã	3
@@ -13944,7 +13941,6 @@ akukãm	pykabê	3
 jakam	kute	3
 djuão'ỳr	bôxo	3
 ngryk	nhõ	3
-pidjô	djô	3
 kuwykam	me	3
 ano	kute	3
 mex	me	3
@@ -13977,7 +13973,6 @@ bôxja	pumũ	3
 me'õ	tỳx	3
 pidjô	bàri	3
 ne	tep	3
-bẽnjadjwỳr	ni	3
 arỳm	kurũm	3
 krĩ	ngrire	3
 djwỳnh	amãnhkrutmã	3
@@ -14134,7 +14129,6 @@ kikre	nhipôkri	3
 djà	krakri	3
 krakri	me	3
 djàri	kam	3
-ni	kra	3
 na	tỹm	3
 kum	ãm	3
 ãm	tỳx	3
@@ -14146,7 +14140,6 @@ kàjkwa	krax	3
 kumex	ba	3
 kute	pi'ô	3
 pi'ô	pyràk	3
-mỳj	xê	3
 bikẽnh	rax	3
 nhym	aka	3
 xitu	ar	3

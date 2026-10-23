@@ -6,14 +6,15 @@ tata	diosï	545
 tata	diosïri	513
 ma	enga	467
 de	la	434
-i	ambe	358
+tata	diosïni	367
+i	ambe	357
 na	enga	324
 ambe	ma	315
 enga	no	259
 engaksï	no	245
 ka	eska	225
 ka	no	215
-ka	enga	212
+ka	enga	211
 ambe	jimbo	192
 ma	ambe	186
 no	ma	180
@@ -22,7 +23,7 @@ ambe	engaksï	178
 iámindu	ambe	171
 jimbo	enga	167
 de	los	166
-exe	je	166
+exe	je	165
 imechani	engaksï	164
 no	méni	164
 jatsiska	para	164
@@ -35,8 +36,9 @@ ini	ambe	157
 en	la	153
 enga	xáni	153
 bibliaeri	ambe	152
-ka	imeri	149
 imani	ambe	149
+ka	imeri	148
+para	úni	147
 eska	ima	146
 eska	no	144
 eska	jeoba	142
@@ -47,6 +49,7 @@ jeobaeri	testiguecha	134
 a	la	131
 ambe	engachi	131
 enga	jeoba	130
+ma	jimbo	129
 kapikachhu	para	128
 de	las	127
 ka	engaksï	126
@@ -56,11 +59,11 @@ ambe	úni	123
 enga	ima	122
 sánderu	sési	122
 ambakiti	ambe	120
-ambe	ka	118
 enga	biblia	118
+ambe	ka	117
 que	se	116
 eska	na	115
-ju	je	115
+ju	je	113
 jeobaeri	testiguecheri	113
 conprar	kapikachhu	111
 jatsisti	para	110
@@ -68,6 +71,7 @@ ka	ambe	109
 jeobaeri	testiguechaksï	107
 jatsika	para	107
 ima	enga	106
+para	méntkisï	106
 enga	sánderu	103
 tsípikua	jingoni	103
 enga	jesusi	102
@@ -89,6 +93,7 @@ jatsiskachi	para	90
 uandasïndi	eska	85
 jimbo	ka	81
 del	nuevo	81
+ísï	úni	81
 ante	de	81
 jingoni	enga	80
 ima	engaksï	79
@@ -185,9 +190,9 @@ engachi	no	48
 ma	jatsini	48
 diosïri	reinu	48
 eska	biblia	47
-exeni	ambe	47
 enga	sési	46
 jimbo	jaka	46
+exeni	ambe	46
 peru	enga	46
 ka	tátsekua	46
 biblia	uandasïndi	46
@@ -235,10 +240,10 @@ sánderu	orhepatini	40
 eska	imeri	40
 ma	no	39
 enga	arhijka	39
-jimboka	no	39
 úsïndi	eska	39
 eska	sánderu	39
 ixú	echerirhu	39
+diosïni	ka	39
 para	exeni	39
 ka	iámindu	39
 educación	del	39
@@ -247,6 +252,7 @@ enga	uáka	38
 ka	eskachi	38
 inglesi	jimbo	38
 no	no	38
+jimboka	no	38
 ka	uánikua	38
 kʼéri	tánguarhikua	38
 ka	ísï	37
@@ -278,7 +284,6 @@ imecha	jingoni	35
 úkuarhini	jaka	35
 grupu	enga	35
 jorhenguarhini	bibliaeri	35
-ne	enga	34
 por	la	34
 eska	jucha	34
 jimboka	ima	34
@@ -298,11 +303,9 @@ májku	kʼéri	33
 la	secretaria	33
 juramuti	jorhenkuarhikueri	33
 ima	na	32
-ka	engachi	32
 no	uáka	32
 eska	kánikua	32
 no	sáni	32
-je	exeni	32
 biblia	no	32
 parajtsï	úni	32
 jorhenguarhi	je	32
@@ -314,6 +317,7 @@ que	no	31
 jeoba	jingoni	31
 kʼuiripu	enga	31
 eskachi	na	31
+je	exeni	31
 tata	jesukristueri	31
 néna	uá	31
 ambe	engari	31
@@ -328,6 +332,7 @@ ampe	enki	31
 na	enki	31
 ka	itku	31
 enki	menki	31
+ka	engachi	30
 juchantsïni	jimbo	30
 bibliaeri	jorhenguarhikua	30
 para	jucha	30
@@ -372,7 +377,6 @@ imeri	familia	28
 millones	de	28
 sesi	nitamakua	28
 por	el	27
-ísï	jimbo	27
 ka	imani	27
 mámaru	ambe	27
 májkueni	eska	27
@@ -418,6 +422,7 @@ ka	ma	26
 ka	arhiaspti	26
 de	pesos	26
 ka	inde	25
+ísï	jimbo	25
 ka	tata	25
 ambechi	uá	25
 parachi	sési	25
@@ -437,6 +442,7 @@ diosïri	xénchperakuarhu	25
 enga	jima	25
 xáni	uékajka	25
 ístu	uandaspti	25
+ánchikuarhita	jimbo	25
 enki	sesi	25
 es	una	24
 o	engaksï	24
@@ -499,6 +505,7 @@ menki	jauenakasï	23
 isï	enki	23
 la	violencia	23
 i	erechikueri	23
+ne	enga	22
 enga	jamberi	22
 arini	ambe	22
 jingoni	irekani	22
@@ -541,8 +548,10 @@ y	que	21
 la	entidad	21
 iamu	jasï	21
 exeni	eska	21
+ambe	újka	21
 jáma	je	21
 jorhentpini	bibliaeri	21
+sési	jarhasti	21
 jima	uératini	21
 andisï	no	21
 temungurhiri	ma	21
@@ -574,7 +583,6 @@ acceso	a	20
 como	la	20
 ka	is	20
 de	trabajo	20
-ísï	jámani	20
 uandajka	eska	20
 eska	ambe	20
 jesusi	no	20
@@ -602,6 +610,7 @@ enga	úpka	20
 ka	uandaspti	20
 para	jarhuataani	20
 exespti	eska	20
+imechani	jingoni	20
 iásï	anapu	20
 eska	jobu	20
 ka	nochi	20
@@ -617,6 +626,7 @@ iamendu	k'uiripu	19
 jauaka	ka	19
 ka	itsï	19
 exeni	ka	19
+ísï	jámani	19
 enga	satanasi	19
 ambe	sánderu	19
 ambe	uandasïni	19
@@ -942,7 +952,6 @@ transparencia	y	14
 ka	tanimu	14
 i	uandakua	14
 entrega	de	14
-ka	indeni	14
 no	se	14
 con	su	14
 tata	jesukristuni	14
@@ -995,6 +1004,7 @@ jaiaskuku	je	14
 rebista	la	14
 mítini	néna	14
 enga	jindeeka	14
+méni	jurajkuni	14
 uáka	exeni	14
 ka	íksï	14
 bideu	ma	14
@@ -1044,6 +1054,7 @@ que	las	13
 de	gobierno	13
 instituto	de	13
 enga	uétarhijka	13
+ka	indeni	13
 a	todos	13
 los	derechos	13
 la	creación	13
@@ -1066,6 +1077,7 @@ jindesti	ma	13
 uánikua	máteru	13
 méntku	no	13
 ixú	parhakpinirhu	13
+úni	mítini	13
 no	úsïndi	13
 erakuni	ambe	13
 idiomechani	jimbo	13
@@ -1167,7 +1179,6 @@ ka	jucha	12
 las	comunidades	12
 na	jásï	12
 enga	chári	12
-enga	úka	12
 je	imani	12
 ja	je	12
 eska	ísïska	12
@@ -1319,8 +1330,8 @@ los	municipios	11
 de	cada	11
 ka	méntkisï	11
 no	juchari	11
+enga	úka	11
 ka	imaksï	11
-ka	ne	11
 imeri	juramukuani	11
 ísïska	eska	11
 juchari	jakajkukua	11
@@ -1980,7 +1991,6 @@ con	lo	8
 frente	a	8
 el	calendario	8
 la	cual	8
-ara	managua	8
 of	the	8
 majku	jasï	8
 iapurhu	isï	8
@@ -2018,6 +2028,7 @@ ambe	o	8
 creación	de	8
 ka	iamindu	8
 ambe	juchari	8
+ka	ne	8
 máteru	nema	8
 eskachi	jucha	8
 enga	útasï	8
@@ -2151,6 +2162,7 @@ sési	pájperakua	8
 kʼumanchikua	para	8
 uátsïcha	ka	8
 ebreu	jimbo	8
+ánchikuarhitani	jimbo	8
 engaksï	ísku	8
 familia	ka	8
 jarhuata	je	8
@@ -2352,6 +2364,7 @@ como	los	7
 cual	se	7
 también	se	7
 sobre	todo	7
+ara	managua	7
 ka	komu	7
 jurhimbekuechani	ka	7
 eski	sesi	7
@@ -2951,9 +2964,7 @@ ya	se	6
 ampe	ka	6
 enga	diósï	6
 jucha	jinguni	6
-eka	nema	6
 eska	uájpa	6
-ne	engaksï	6
 néna	enga	6
 exeni	jarhani	6
 imeri	juramukua	6
@@ -3042,6 +3053,7 @@ jimbo	eska	6
 uánikua	jeobaeri	6
 ka	mándani	6
 ma	jarhasti	6
+ísï	újka	6
 parhakpinirhu	ka	6
 ladu	jaka	6
 ixú	uératini	6
@@ -3321,6 +3333,7 @@ sede	mundialini	6
 sóntku	úkuarhixati	6
 nénari	uá	6
 testiguecha	úka	6
+juchiti	mintsita	6
 jurhijkandani	ladu	6
 kʼuiripuni	eska	6
 sési	úrini	6
@@ -3626,9 +3639,7 @@ jurhimbekua	jatsikuarhesti	5
 jurhimbekuaecha	ka	5
 na	uandakata	5
 o	por	5
-tátsekua	engaksï	5
 engaksï	jesusini	5
-enga	jose	5
 enga	inde	5
 jimboka	inde	5
 ambe	ísï	5
@@ -3700,8 +3711,6 @@ jimpo	ka	5
 xáni	ambe	5
 eskachi	ísï	5
 eska	diósï	5
-engachi	uandajka	5
-íni	ambeksïni	5
 ambeksïni	karachexaka	5
 jesukristu	na	5
 je	enga	5
@@ -3794,6 +3803,7 @@ exesïni	eska	5
 iámu	no	5
 jeoba	uáti	5
 jesukristueri	uarhikuani	5
+ima	uékaaka	5
 ka	sésichi	5
 paraksï	orhepani	5
 jeoba	íntskuka	5
@@ -4207,6 +4217,7 @@ ka	ménisï	5
 ka	kʼérati	5
 enga	echeri	5
 noeni	ka	5
+ka	animalicha	5
 ánjilichani	jingoni	5
 jukari	ma	5
 ambe	arhispi	5
@@ -4254,7 +4265,6 @@ sési	mítitini	5
 kʼuiripu	eratsisïndi	5
 al	que	5
 ma	ratu	5
-juchiti	mintsita	5
 engaksï	úkuarhikia	5
 sterling	forest	5
 engaksï	warwick	5
@@ -4776,9 +4786,7 @@ en	relación	4
 al	menos	4
 el	momento	4
 managua	con	4
-rar	kapikachhu	4
 conprar	ka	4
-ikachhu	para	4
 ka	isku	4
 jurhimbikua	jimbo	4
 no	ima	4
@@ -4797,6 +4805,7 @@ el	pueblo	4
 de	mayo	4
 tátjembespti	ka	4
 kángorhespti	ka	4
+enga	jose	4
 kurucha	ka	4
 ísï	anapu	4
 ka	noteru	4
@@ -4892,6 +4901,7 @@ ka	kurhani	4
 eskachi	imani	4
 enga	uénani	4
 enga	diósïni	4
+ne	engaksï	4
 újka	o	4
 je	engaksïni	4
 eskachi	iásï	4
@@ -5166,6 +5176,7 @@ para	respetu	4
 juchari	diosï	4
 ka	persecha	4
 jeobaeri	templuni	4
+tátsekua	engaksï	4
 jimbo	tátsekua	4
 foietuni	chári	4
 xénchperakuarhu	ja	4
@@ -5412,7 +5423,6 @@ uandajka	máru	4
 paraksï	mítini	4
 kalebi	ka	4
 eneru	de	4
-ánchikuarhita	jimbo	4
 méxico	ka	4
 parhakpinirhu	anapuecha	4
 ka	uékani	4
@@ -5429,6 +5439,7 @@ imecheri	iretarhu	4
 no	mirikurhispti	4
 eskaksï	útasï	4
 tʼunguini	jingoni	4
+jingoni	jauaka	4
 úsïndi	uandani	4
 ambe	arhiaspi	4
 engaksï	kurhajchapka	4
@@ -5625,6 +5636,7 @@ no	apiringa	4
 isï	aianhpini	4
 enga	tátsekua	4
 jimbosï	pablu	4
+jurhiatikuechani	enga	4
 pakaraspti	irekani	4
 jesusi	itsï	4
 ka	apostuli	4
@@ -5803,6 +5815,7 @@ para	máru	4
 de	sangre	4
 nóksï	iámindu	4
 íksï	achaticha	4
+tumina	andani	4
 ambe	uandanhani	4
 espada	ma	4
 juchiti	nombri	4
@@ -5937,6 +5950,7 @@ enga	sóntku	4
 kʼumanchikuarhu	ma	4
 engaksï	jorhenguarhikia	4
 eska	chpiri	4
+je	kómarhini	4
 experiensiechani	engaksï	4
 estudianti	ma	4
 útasï	kánikua	4
@@ -6111,6 +6125,7 @@ febreru	de	4
 jimboka	sési	4
 je	imeri	4
 arhinhakuani	jimbo	4
+tateeri	sena	4
 i	karta	4
 erachichani	paraksï	4
 i	kʼumanchikua	4
@@ -6244,6 +6259,7 @@ jindesti	entre	4
 engari	jorhendanhaka	4
 úrani	iurhiri	4
 no	úraparini	4
+úraparini	iurhiri	4
 testiguechachi	jánguarhintasïnga	4
 diosï	eiatspipka	4
 para	charhakuni	4
@@ -6673,13 +6689,10 @@ con	otras	3
 junto	con	3
 el	mundo	3
 managua	c	3
-nprar	kapikachhu	3
+rar	kapikachhu	3
 managua	conp	3
-ar	kapikachhu	3
-kachhu	para	3
-a	managua	3
+ikachhu	para	3
 para	manag	3
-a	conprar	3
 jurhimbekua	ka	3
 xani	no	3
 uandakua	ka	3
@@ -6717,18 +6730,13 @@ ireteri	uandangukata	3
 uandangukata	ka	3
 ma	k'uiripuni	3
 arhijka	ka	3
-i	ambo	3
 ser	un	3
-ka	jakobu	3
-ka	juda	3
-ka	josiasi	3
 babilonia	pánhapka	3
 jiájkani	jamberi	3
 espiritu	sántuni	3
 ka	mariani	3
 xarhakuspti	ka	3
 jimboka	espiritu	3
-ka	maria	3
 jimbo	na	3
 uanamukuni	ísï	3
 imeri	xáni	3
@@ -6941,7 +6949,6 @@ ka	nójtu	3
 nósesi	ambe	3
 eska	erachi	3
 imeri	mintsitarhu	3
-ka	imajtsïni	3
 úni	jarhasïnga	3
 ima	uéjka	3
 engajtsïni	íntskuka	3
@@ -7286,6 +7293,7 @@ uékaaka	sési	3
 no	tsïtani	3
 kurhajchaani	imechani	3
 imechani	engaksïni	3
+engachi	uandajka	3
 engachi	tata	3
 diosïni	marhuakujka	3
 ka	kʼuiripuechani	3
@@ -7911,6 +7919,7 @@ xénchasïnga	jesusini	3
 exejka	eskachi	3
 ima	engarini	3
 ka	disipulu	3
+na	jámaenga	3
 uáka	juchari	3
 jimbo	parachi	3
 uá	ji	3
@@ -8012,6 +8021,7 @@ peru	imeri	3
 nochi	ambe	3
 sési	eratsintani	3
 erokuarhini	eska	3
+eratsikua	jukani	3
 eska	úkua	3
 para	mantenerini	3
 májkueni	exeni	3
@@ -8531,6 +8541,7 @@ imeri	jimbanhi	3
 ambe	jorhendajka	3
 uékasïrendi	jeobani	3
 para	isaaki	3
+sési	jáxespka	3
 jatsipti	para	3
 eska	rebeka	3
 nirani	jima	3
@@ -8745,10 +8756,10 @@ para	tradusirini	3
 méxico	anapu	3
 o	tsimani	3
 jorhentpiri	eskuela	3
+imeri	ermanuecha	3
 chpiri	no	3
 méntku	jauena	3
 jauena	je	3
-je	kómarhini	3
 ambakiti	experiensiechani	3
 jingoni	nirani	3
 ka	achati	3
@@ -8951,6 +8962,7 @@ eianhperakua	enga	3
 máru	bibliarhu	3
 arhinhajka	ka	3
 jimbo	újka	3
+alma	ka	3
 mandamientuechani	ka	3
 uékasïnga	no	3
 no	jukaparharani	3
@@ -8965,6 +8977,7 @@ no	kʼamakurhini	3
 no	kʼamakurhiaka	3
 jesukristueri	ambe	3
 máeska	tata	3
+jingoni	uandajpani	3
 engachi	jorhenguarhikia	3
 jarhasti	sánderu	3
 enga	eratsitini	3
@@ -9734,8 +9747,6 @@ eratakata	eska	3
 eska	jindeni	3
 jindeni	tumina	3
 tumina	ukua	3
-eratshikua	menga	3
-menga	unesco	3
 unesco	caranjaka	3
 caranjaka	ka	3
 ka	uandantanjaka	3

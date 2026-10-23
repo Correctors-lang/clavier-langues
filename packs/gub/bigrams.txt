@@ -1,36 +1,36 @@
 # Bigrammes gub (FineWeb-2 gub_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
-a'e	wà	3601
+a'e	wà	3600
 wà	nehe	2839
-a'e	rupi	1478
+a'e	rupi	1476
 nehe	no	1373
-ym	ma'e	1241
-a'e	nehe	1225
+ym	ma'e	1240
+a'e	nehe	1224
 ywy	rehe	1034
 wà	no	973
 rehe	har	848
 haw	rehe	782
-pe	wà	760
+pe	wà	762
 pe	har	759
-wà	kury	711
-a'e	pe	707
+wà	kury	712
+a'e	pe	708
 ar	mehe	705
 a'e	kury	645
 rehe	a'e	641
-ihe	nehe	630
+ihe	nehe	629
 a'e	xe	585
 kar	pà	581
 rehe	nehe	547
 pe	a'e	538
 tupàn	ze'eg	532
-a'e	mehe	484
+a'e	mehe	483
 putar	a'e	478
 wiko	ma'e	477
 ma'e	romo	474
-ma'e	iapo	465
+ma'e	iapo	464
 pà	a'e	459
 pe	nehe	458
-kar	putar	457
+kar	putar	456
 romo	a'e	450
 pà	wà	447
 ma'e	a'e	441
@@ -40,10 +40,10 @@ tuweharupi	wiko	423
 paw	rupi	407
 tupàn	tuweharupi	407
 haw	pe	404
-wà	xe	403
+wà	xe	402
 a'e	no	401
 tupàn	pe	393
-a'e	ma'e	387
+a'e	ma'e	385
 wanupe	a'e	379
 wanupe	nehe	370
 pà	nehe	353
@@ -55,8 +55,8 @@ her	ma'e	315
 ma'e	rehe	306
 amo	ae	303
 ikatu	ma'e	302
-ar	rehe	291
-har	romo	289
+ar	rehe	292
+har	romo	288
 kwaw	a'e	286
 har	a'e	285
 pixik	kwaw	281
@@ -67,7 +67,7 @@ teko	wanupe	273
 kwehe	arer	266
 pe	kury	253
 ihe	wà	251
-a'e	re	249
+a'e	re	248
 mehe	nehe	247
 wi	a'e	243
 nehe	xe	243
@@ -94,7 +94,7 @@ mehe	wà	201
 nezewe	mehe	201
 imume'u	har	200
 kar	haw	200
-kwehe	mehe	199
+kwehe	mehe	197
 rehe	we	197
 izupe	nehe	196
 romo	wà	195
@@ -106,10 +106,10 @@ aze	amo	192
 romo	nehe	190
 ym	pà	185
 piri	ywy	184
-amo	awa	180
 ma'e	paw	179
+amo	awa	179
 wi	nehe	175
-iapo	har	174
+iapo	har	173
 ta'e	tupàn	173
 a'e	ze'eg	172
 iapo	haw	169
@@ -121,14 +121,14 @@ a'e	wi	161
 kar	kwaw	161
 har	wà	161
 kwaw	ma'e	160
-ni	amo	158
+ni	amo	157
 ko	ywy	157
 rehe	ihe	157
 omono	kar	157
 rupi	wà	155
+taw	pe	155
 peme	a'e	155
 ma'e	wanupe	155
-taw	pe	154
 uma'ereko	ma'e	153
 teko	paw	152
 ma'e	wà	152
@@ -141,14 +141,14 @@ kar	a'e	147
 kwer	ikatu	147
 wanehe	nehe	147
 putar	haw	147
-romo	wanekon	146
 wi	wà	146
+romo	wanekon	145
 peme	ihe	143
 ma'e	tetea'u	143
 hemiapo	kwer	143
 izupe	a'e	141
-aze	teko	140
 wanemiapo	kwer	140
+aze	teko	139
 amo	teko	139
 ma'e	wi	138
 ikàg	wera'u	138
@@ -157,22 +157,22 @@ kwaw	ikatu	137
 a'e	ywy	137
 ne	wà	136
 oho	a'e	135
+wanupe	kury	135
 teko	tetea'u	134
-wanupe	kury	134
 har	pe	133
 we	har	133
 katu	haw	133
-nuiko	kwaw	132
 pà	kury	132
-ko	ma'e	130
+nuiko	kwaw	131
 uzapo	kar	129
 kwer	a'e	129
+ko	ma'e	129
 ihewe	a'e	129
 mehe	tupàn	128
 na'ikatu	kwaw	128
 aze	mo	127
 pape	rehe	126
-teko	a'e	123
+teko	a'e	122
 iapo	pyrer	122
 azeharomoete	har	121
 uzeapo	ma'e	121
@@ -183,8 +183,8 @@ haw	nehe	121
 putar	ikatu	118
 uzapo	putar	118
 putar	amo	117
-wanekon	a'e	117
 oho	iko	116
+wanekon	a'e	116
 putar	ma'e	116
 wi	putar	115
 har	rehe	114
@@ -232,19 +232,18 @@ henu	mehe	96
 haw	wà	95
 tupàn	hemiruze'eg	95
 newe	nehe	95
-uzexak	kar	94
 mehe	ihe	94
 pe	ihe	94
-izypy	mehe	93
+uzexak	kar	93
 tupàn	heko	93
 ma'e	peme	93
 wer	kwaw	93
 wanuwihaw	romo	93
 hemiapo	putar	93
+izypy	mehe	92
 kar	har	92
 umàno	ma'e	92
 kar	amo	91
-nukwaw	kwaw	91
 imume'u	haw	91
 romo	aiko	91
 uze'eg	pà	91
@@ -253,6 +252,7 @@ ma'e	ihewe	91
 pe	no	91
 upaw	rupi	91
 amume'u	putar	91
+nukwaw	kwaw	90
 hemetarer	katu	90
 uzepyk	putar	90
 pupe	wà	89
@@ -280,13 +280,13 @@ mehe	mo	82
 rupi	tupàn	82
 ze'eg	azeharomoete	82
 oho	waiko	82
-tupàn	umur	81
 ipuràg	eteahy	81
 aiko	ihe	81
 haw	wi	81
 zeruzarez	tawhu	80
 ài	a'e	80
 purupe	a'e	79
+tupàn	umur	79
 umur	kar	79
 romo	heko	79
 xe	a'e	79
@@ -310,13 +310,13 @@ putar	peme	75
 tuweharupi	a'e	74
 katete	a'e	74
 kwaw	katu	74
-hehe	wà	73
 haw	iapo	73
 ure	nehe	73
 katu	putar	73
 kwaw	teko	73
 wera'u	putar	73
 putar	tuwe	72
+hehe	wà	72
 wanuwi	a'e	72
 katu	a'e	72
 wanehe	we	72
@@ -324,6 +324,7 @@ rehe	imuapyk	71
 kwaw	wà	71
 wiko	pà	71
 tatahu	pe	71
+e	ma'e	70
 ywy	wi	70
 ma'e	newe	70
 xo	a'e	69
@@ -332,7 +333,6 @@ amono	kar	69
 wanuwi	nehe	69
 ze'eg	rehe	68
 ta'e	a'e	68
-e	ma'e	68
 hereko	har	68
 tupàn	a'ua'u	68
 nezewe	a'e	67
@@ -348,7 +348,6 @@ waiko	wà	66
 pe	xe	66
 aze	a'e	65
 zezuz	zaneruwihawete	65
-na'e	uze'eg	65
 ma'e	uzapo	65
 zemunehew	paw	65
 newe	ihe	65
@@ -357,6 +356,7 @@ waneko	haw	65
 tupàn	hemiapo	65
 ukwaw	putar	64
 kwer	paw	64
+na'e	uze'eg	64
 mai'u	haw	64
 uhua'u	ma'e	64
 zuta	ywy	64
@@ -364,6 +364,7 @@ uze'eg	nezewe	63
 newe	a'e	63
 we	a'e	63
 awer	rehe	63
+uhem	oho	63
 pupe	a'e	63
 ze'eg	a'e	63
 omono	putar	63
@@ -372,7 +373,6 @@ rupi	teko	62
 ma'e	uze'eg	62
 hexak	mehe	62
 wanuwi	wà	62
-uhem	oho	62
 uzeapo	putar	62
 mehe	arer	62
 putar	ko	62
@@ -404,7 +404,6 @@ romo	kury	58
 tupàn	hàpuzuhu	58
 ne	xe	58
 uze'eg	wi	58
-nuweruzar	kwaw	57
 romo	wiko	57
 imuapyk	pyrer	57
 amo	pe	57
@@ -414,6 +413,7 @@ mytu'u	haw	57
 wiko	a'e	56
 azapo	putar	56
 hehe	nehe	56
+nuweruzar	kwaw	56
 wi	wi	56
 rehe	tupàn	56
 wi	ihe	56
@@ -444,7 +444,6 @@ ur	ma'e	53
 ereiko	ne	53
 pupe	nehe	53
 zezuz	a'e	53
-uze'eg	zezuz	53
 amogwer	wanupe	53
 zezuz	oho	53
 kwaw	ize'eg	53
@@ -454,6 +453,7 @@ kwer	wà	53
 waiko	a'e	53
 ze'eg	hyru	53
 nuzeruzar	kwaw	52
+uze'eg	zezuz	52
 iahykaw	rehe	52
 tuwihaw	romo	52
 i'i	tupàn	52
@@ -474,6 +474,7 @@ rupi	oho	50
 putar	ihe	50
 zaneruwihawete	zezuz	50
 paw	pe	50
+izupe	kury	50
 kury	xe	50
 hekuzar	katu	50
 ukwaw	katu	50
@@ -486,7 +487,6 @@ peiko	putar	49
 romo	ne	49
 haw	hexak	49
 izuwi	wà	49
-izupe	kury	49
 katu	kar	49
 ma'e	izupe	49
 numume'u	kwaw	49
@@ -497,7 +497,6 @@ tupàn	hemimur	48
 kanetar	rehe	48
 a'e	kuzà	48
 putar	newe	48
-noho	kwaw	48
 ài	nehe	48
 kutyr	har	48
 kwer	nehe	48
@@ -505,6 +504,7 @@ teko	ywy	48
 ta'yr	romo	47
 tur	àwàm	47
 ize'eg	mehe	47
+noho	kwaw	47
 pe	wiko	47
 tupàn	ikàg	47
 eteahy	haw	46
@@ -584,7 +584,6 @@ iapo	kar	40
 awer	a'e	40
 romo	weko	40
 nezewe	nehe	40
-heta	putar	40
 wiko	mehe	40
 katu	pe	40
 haw	rupi	40
@@ -592,7 +591,6 @@ putar	penehe	40
 ma'e	teko	40
 har	ài	39
 rehe	no	39
-a'e	tupàn	39
 mokoz	awa	39
 uze'eg	izupe	39
 arer	rehe	39
@@ -601,6 +599,7 @@ haw	izupe	39
 amo	umume'u	39
 haw	ihewe	39
 we	nehe	39
+heta	putar	39
 ài	wanekon	39
 tetea'u	wà	39
 we	wà	39
@@ -610,7 +609,7 @@ umuhem	kar	39
 na'e	tupàn	39
 pe	rupi	38
 tuwe	teko	38
-na'e	zezuz	38
+a'e	tupàn	38
 i'i	amo	38
 kwaw	herehe	38
 har	wanuwi	38
@@ -687,9 +686,7 @@ ukwaw	kar	34
 teko	wanehe	34
 a'e	tuwihawete	34
 ukweraw	wi	34
-a'e	mokoz	34
 putar	ihewe	34
-na'e	a'e	34
 zezuz	umume'u	34
 pe	pe	34
 kwez	kury	34
@@ -705,11 +702,13 @@ urewe	a'e	34
 xo	pitài	34
 weityk	putar	34
 pà	peme	34
-ipuruzuka	wer	34
 zauxiapekwer	wanupe	34
 napeiko	kwaw	34
 uze'eg	a'e	33
 ywak	wi	33
+a'e	mokoz	33
+na'e	zezuz	33
+na'e	a'e	33
 ar	a'e	33
 ne	nehe	33
 katu	wera'u	33
@@ -727,6 +726,7 @@ hurywete	putar	33
 nànàn	nehe	33
 oho	tawi	33
 kwaw	ni	33
+ipuruzuka	wer	33
 oho	amo	33
 rehe	ne	33
 ae	teko	32
@@ -736,7 +736,6 @@ ymar	romo	32
 wemimu'e	wanupe	32
 rehe	arer	32
 uze'eg	ma'e	32
-na'e	uhem	32
 kar	zo	32
 rehe	xe	32
 ikatu	putar	32
@@ -750,12 +749,12 @@ izexak	kar	32
 tawhu	wi	32
 teko	ko	32
 kwaw	ihe	32
+na'e	uhem	32
 har	uze'eg	32
 àwàm	nehe	31
 tur	mehe	31
 naiko	kwaw	31
 imuapyk	pà	31
-amo	kuzà	31
 oho	tupàn	31
 zo	ma'e	31
 pyrer	rehe	31
@@ -779,10 +778,10 @@ teko	uzeruzar	30
 iapo	arer	30
 mehe	amo	30
 heraha	pà	30
+amo	kuzà	30
 wanuwihaw	a'e	30
 uzuka	kar	30
 kwehe	tete	30
-wer	hehe	30
 mawiron	pe	30
 peme	ure	30
 teko	nupuner	30
@@ -801,7 +800,6 @@ zane	wà	30
 kwaw	peme	30
 herehe	wà	30
 amo	wanupe	30
-uze'eg	oho	29
 nezewegatete	a'e	29
 tupàn	hape	29
 arer	romo	29
@@ -817,6 +815,7 @@ izupe	no	29
 amuigo	kar	29
 hekuzaromo	nehe	29
 tàpuzuhu	pe	29
+wer	hehe	29
 ma'e	ikwaw	29
 har	wi	29
 putar	wanehe	29
@@ -842,6 +841,7 @@ purupyro	ma'e	28
 oho	zezuz	28
 moizez	ze'eg	28
 nuzepyk	kwaw	28
+uze'eg	oho	28
 haw	uhua'u	28
 waze'eg	rehe	28
 ni'i	kwaw	28
@@ -949,8 +949,6 @@ awa	wiko	25
 waze'eg	rupi	25
 kwaw	xe	25
 ar	pawire	25
-wata	mehe	25
-xaxeto	wanuwihaw	25
 me	wà	25
 nànàn	wà	25
 ma'e	ne	25
@@ -980,14 +978,11 @@ huwake	a'e	24
 xaxeto	romo	24
 iko	ne	24
 zanepyro	har	24
-nuexak	kwaw	24
-uzewyr	oho	24
-zereko	haw	24
+wata	mehe	24
 pà	teko	24
 hàpuzuhu	pupe	24
 rehe	ze'eg	24
 zutew	wanuwihaw	24
-nuze'eg	kwaw	24
 uzàn	oho	24
 hereko	mehe	24
 no	ty	24
@@ -1021,6 +1016,7 @@ heruzar	haw	24
 amo	zauxiapekwer	24
 ài	peiko	24
 ko	pe	24
+xaxeto	wanuwihaw	24
 hehe	uzeruzar	23
 pitài	zo	23
 parizew	her	23
@@ -1030,10 +1026,12 @@ ize'eg	henu	23
 tuz	a'e	23
 rehe	uze'eg	23
 pe	ne	23
+nuexak	kwaw	23
 ure	wà	23
 tuwe	ma'e	23
 napezeruzar	kwaw	23
 herehe	nehe	23
+zereko	haw	23
 wi	haw	23
 i'u	haw	23
 pe	hekon	23
@@ -1047,6 +1045,7 @@ pezeruzar	ire	23
 waneruze'egar	romo	23
 rehe	amo	23
 romo	pe	23
+uzewyr	oho	23
 uhem	mehe	23
 izaew	ywy	23
 napekwaw	kwaw	23
@@ -1054,6 +1053,7 @@ wanekon	putar	23
 hemiapo	ràm	23
 romo	zane	23
 iàkàg	rehe	23
+nuze'eg	kwaw	23
 heruzar	har	23
 imono	pyrer	23
 rehe	upurumu'e	23
@@ -1069,7 +1069,6 @@ upyta	putar	23
 haw	purupe	23
 zauxiapekwer	paw	23
 ar	henataromo	23
-wamono	kar	22
 y	pupe	22
 ko	awa	22
 hemimur	karer	22
@@ -1120,6 +1119,7 @@ a'e	rihi	21
 uzeruzar	haw	21
 a'e	zo	21
 par	parizew	21
+wamono	kar	21
 pà	newe	21
 ze'eg	wà	21
 haw	kury	21
@@ -1168,7 +1168,6 @@ hawitu	ma'e	21
 putar	zezuz	21
 putar	zauxiapekwer	21
 putar	hekuzar	21
-pepyr	ihe	21
 ymar	wanupe	21
 heraha	haw	21
 uhyape	katu	20
@@ -1220,25 +1219,23 @@ putar	izaew	20
 rehe	tuweharupi	20
 imono	haw	20
 romo	wamuigo	20
+pepyr	ihe	20
 heho	àwàm	20
 ikwaw	paw	20
 kwaw	ihewe	20
 i'a	kwer	20
 a'e	temetarer	20
 arer	heruzar	20
-ur	a'e	19
 kar	awa	19
 purumuzahazahak	ma'e	19
 kwaw	tuwihawete	19
 awa	rehe	19
 kwez	peme	19
 oho	hupi	19
-amo	a'e	19
 mehe	pe	19
 umume'u	ma'e	19
 putar	penemiapo	19
 hàpuzuhu	pe	19
-i'i	zezuz	19
 nuhem	kwaw	19
 heruzar	pà	19
 hexak	pyr	19
@@ -1281,8 +1278,8 @@ amo	tuwihawete	19
 wemiruze'eg	zauxiapekwer	19
 aw	awa	19
 kar	tawi	19
-ywy	iapo	18
 wiko	tupàn	18
+ur	a'e	18
 kar	ko	18
 nereiko	kwaw	18
 ipyr	wà	18
@@ -1294,17 +1291,13 @@ itym	awer	18
 zanezar	zezuz	18
 kar	wà	18
 wata	pà	18
-waze'eg	mehe	18
 ma'erahy	a'e	18
 hemimono	karer	18
-uhem	zezuz	18
-tuwe	uzapo	18
 ma'e	ize'eg	18
 hemireko	romo	18
 i'i	tuwihawete	18
 newe	ure	18
 tuweharupi	tupàn	18
-mehe	ikatu	18
 nezewe	izupe	18
 tupàn	hemixak	18
 wapyro	pà	18
@@ -1354,6 +1347,7 @@ uzeupe	nehe	18
 uzeruzar	herehe	18
 putar	herehe	18
 har	rupi	18
+amo	a'e	18
 xo	tupàn	18
 nazapuner	kwaw	18
 omono'og	putar	18
@@ -1364,6 +1358,7 @@ ze'eg	henu	18
 amo	taw	18
 hexakaw	rehe	18
 putar	ma'ea'yr	18
+i'i	zezuz	18
 àràpuhàràn	wanehe	18
 wanuwihaw	wanupe	18
 huwake	kury	18
@@ -1371,6 +1366,7 @@ kwaw	heremiruze'eg	18
 putar	heru	18
 kwaw	ywy	17
 i'i	oho	17
+ywy	iapo	17
 wer	amo	17
 wemireko	romo	17
 kwaw	iapo	17
@@ -1388,11 +1384,14 @@ uzeapo	a'e	17
 ma'e	ikatuahy	17
 mehe	ure	17
 nànàn	no	17
+uhem	zezuz	17
 we	uhem	17
 mehe	wexak	17
 uzapo	mai'u	17
 pà	ywy	17
 arer	pape	17
+tuwe	uzapo	17
+mehe	ikatu	17
 kwaw	neze'eg	17
 henataromo	ihe	17
 tupàn	ua'u	17
@@ -1460,11 +1459,11 @@ tatainy	zàwenugar	16
 ize'eg	wà	16
 rehe	paw	16
 aiko	a'e	16
+i'i	wanupe	16
 ur	zezuz	16
 upuranu	pà	16
 ymaw	pe	16
 tuwihawete	purupyro	16
-nakwaw	kwaw	16
 hupi	a'e	16
 ume'e	pà	16
 ze'eg	pape	16
@@ -1512,6 +1511,7 @@ kwer	ihewe	16
 hemimutar	rupi	16
 pepy'a	pe	16
 amo	zutew	16
+waze'eg	mehe	16
 zezuz	huwake	16
 pe	ty	16
 wanupe	uze'eg	16
@@ -1551,15 +1551,14 @@ tupàn	romo	15
 pyr	tuweharupi	15
 har	wapyr	15
 rupi	peiko	15
-i'i	wanupe	15
 uzehe	a'e	15
 ikàgaw	ipuràg	15
 zaneruwihawete	inuromo	15
 zuàw	purumuzahazahak	15
+nakwaw	kwaw	15
 kar	romo	15
 kere	ywy	15
 upuranu	hehe	15
-wixe	oho	15
 umàno	re	15
 i'i	uzeupe	15
 oho	àwàm	15
@@ -1677,8 +1676,7 @@ rupi	wata	14
 har	ne	14
 urewe	wà	14
 tuwihawete	tupàn	14
-na'e	uzewyr	14
-na'e	umume'u	14
+wixe	oho	14
 peho	nehe	14
 ma'e	waiko	14
 uma'ereko	pà	14
@@ -1821,6 +1819,7 @@ ukàzym	putar	13
 har	izupe	13
 wanuwi	upaw	13
 yryhu	pe	13
+na'e	umume'u	13
 wahyhaw	rupi	13
 ze'eg	peme	13
 iko	zanewe	13
@@ -1883,6 +1882,7 @@ kwez	awa	13
 xaxeto	pe	13
 pyrer	nehe	13
 har	waneko	13
+na'e	uzewyr	13
 zauxiapekwer	wanupi	13
 wanuwihaw	wà	13
 ipo'o	haw	13
@@ -1943,7 +1943,6 @@ wenu	ize'eg	12
 taw	huwake	12
 imur	kar	12
 kar	pyrer	12
-na'e	upuranu	12
 haw	urewe	12
 awa	umume'u	12
 taw	a'e	12
@@ -1958,7 +1957,6 @@ ym	mà	12
 tupàn	nuzepyk	12
 ma'e	pewi	12
 ta'e	nukwaw	12
-ta'e	kwehe	12
 wexak	ma'e	12
 ma'e	peiko	12
 iapo	wi	12
@@ -1981,6 +1979,7 @@ na'e	zauxiapekwer	12
 imume'u	katu	12
 upuner	a'e	12
 tupàn	nezar	12
+na'e	upuranu	12
 uzuka	amo	12
 umugweraw	kar	12
 wi	pekyze	12
@@ -2088,6 +2087,7 @@ tupàn	zaneru	11
 kwaw	uze'eg	11
 henu	pà	11
 ym	romo	11
+hehe	kury	11
 amo	izaew	11
 nereko	mehe	11
 tetea'u	ihe	11
@@ -2105,6 +2105,8 @@ mehe	oho	11
 haw	kwez	11
 ezapo	kar	11
 ma'e	ukwaw	11
+kapanau	taw	11
+ta'e	kwehe	11
 nema'enukwaw	katu	11
 teko	wazar	11
 ma'e	tàpuzuhu	11
@@ -2128,7 +2130,6 @@ rupi	tuweharupi	11
 àwàm	peme	11
 rehe	heko	11
 pe	ipyr	11
-umuapyk	kar	11
 ràm	imume'u	11
 purupe	wà	11
 wanupe	ne	11
@@ -2307,7 +2308,6 @@ tàpuz	heta	10
 àwàm	imume'u	10
 i'i	ihewe	10
 hupi	wà	10
-hehe	kury	10
 pexak	putar	10
 waho	mehe	10
 putar	ywyra	10
@@ -2316,7 +2316,6 @@ arer	wanupe	10
 rupi	pepuner	10
 pezapo	ma'e	10
 kanek	por	10
-kapanau	taw	10
 a'e	mai'u	10
 wanuwi	no	10
 aipo	tupàn	10
@@ -2358,6 +2357,7 @@ ru'u	tupàn	10
 na'iàrew	kwaw	10
 uze'eg	urewe	10
 ta'e	aiko	10
+umuapyk	kar	10
 uze'eg	puràg	10
 iko	wanupe	10
 iko	tuweharupi	10
@@ -2418,7 +2418,6 @@ ma'e	henu	10
 xàrumàw	pe	10
 iaiw	haw	10
 uri	tyw	10
-na'e	i'i	10
 teko	xe	10
 wemi'u	ràm	10
 xe	ihewe	10
@@ -2534,7 +2533,6 @@ teko	izupe	9
 wer	penehe	9
 hehe	upuranu	9
 aipo	a'e	9
-upuranu	wi	9
 awer	xe	9
 rupi	izaew	9
 romo	hemuigo	9
@@ -2666,6 +2664,7 @@ eremume'u	putar	9
 wi	uzepyro	9
 ta'e	xo	9
 na'arewahy	nehe	9
+na'e	i'i	9
 wanupe	pitàitàigatu	9
 kar	tuwihaw	9
 wiko	xaxeto	9
@@ -2806,6 +2805,7 @@ ma'e	ywak	8
 ipurupyro	wer	8
 mehe	tuwihaw	8
 nemur	kar	8
+upuranu	wi	8
 putar	nereko	8
 uze'eg	imuapyk	8
 kutyr	a'e	8
@@ -2825,8 +2825,6 @@ tuwe	wà	8
 ta'e	zutew	8
 ikàgaw	a'e	8
 uzemono'og	oho	8
-wixe	zezuz	8
-na'e	uzapo	8
 nerepuner	kwaw	8
 rehe	ize'eg	8
 inugwer	her	8
@@ -3154,6 +3152,7 @@ imupu	pyr	8
 xau	hemiruze'eg	8
 teko	nezewe	8
 har	nuzeruzar	8
+zezuz	urewe	8
 zezuz	izuka	8
 wà	zezuz	8
 ma'e	nereha	8
@@ -3170,6 +3169,7 @@ uwihawete	romo	7
 upurupuhareko	katu	7
 wi	tatahu	7
 tetea'u	uzapo	7
+u	a'e	7
 zo	ukwaw	7
 arer	umume'u	7
 izewyr	àwàm	7
@@ -3185,7 +3185,8 @@ ipy	mehe	7
 zezuz	hetekwer	7
 kuzà	wà	7
 kwaw	waze'eg	7
-uze'eg	uzeupe	7
+e	zezuz	7
+e	a'e	7
 hero'o	kwer	7
 hurywete	wà	7
 aze'eg	nezewe	7
@@ -3282,6 +3283,7 @@ teko	wama'e	7
 ma'e	huwake	7
 ipy	pe	7
 umuaiw	putar	7
+na'e	uzapo	7
 ukyze	pà	7
 ma'e	ma'e	7
 nezewe	kury	7
@@ -3384,7 +3386,6 @@ wenu	a'e	7
 umukatu	a'e	7
 hemimu'e	ure	7
 zo	heta	7
-na'e	wixe	7
 zezuz	hexak	7
 umai'u	pà	7
 awa	wa'yr	7
@@ -3567,6 +3568,7 @@ iko	pe	7
 ame'eg	kar	7
 hema'ereko	haw	7
 ume'e	putar	7
+wapyk	a'e	7
 wanàpuz	me	7
 teko	werur	7
 ma'e	tur	7
@@ -3670,11 +3672,11 @@ o'ok	putar	7
 uzewyr	pà	7
 tàpuz	pupe	7
 xe	pepyr	7
-zezuz	urewe	7
 werur	amo	7
 zezuz	amo	7
 hepuràg	eteahy	7
 pureruze'egaw	rehe	7
+wixe	zezuz	7
 kar	àràm	7
 imuhem	kar	7
 iawy	kar	7
@@ -3690,7 +3692,6 @@ katu	zanerehe	6
 har	ko	6
 haw	azeharomoete	6
 kwaw	u	6
-u	a'e	6
 metàn	taw	6
 zuàw	rehe	6
 mo	romo	6
@@ -3701,7 +3702,6 @@ wi	hehe	6
 umume'u	hereko	6
 hereko	àwàm	6
 wiko	xe	6
-aexak	tupàn	6
 putar	zaneremiapo	6
 hekon	tuwe	6
 karer	a'e	6
@@ -3717,7 +3717,6 @@ waner	wà	6
 uzewyr	weko	6
 oho	pe	6
 taw	kutyr	6
-na'e	awa	6
 nerekwaw	kwaw	6
 kwaw	ne	6
 zezuz	nazare	6
@@ -3813,7 +3812,6 @@ pema'enukwaw	a'e	6
 zanepytywà	putar	6
 tupàn	uputar	6
 hema'enukwaw	katu	6
-e	a'e	6
 haw	amo	6
 awer	ne	6
 umumaw	kwarahy	6
@@ -3822,7 +3820,6 @@ tawhu	parer	6
 ihewe	pe	6
 napeputar	kwaw	6
 umehy	kwer	6
-neho	mehe	6
 hemàno	haw	6
 putar	newi	6
 peze	ihewe	6
@@ -3964,7 +3961,6 @@ har	weraha	6
 einu	katu	6
 awer	ihe	6
 opo	pupe	6
-neho	àwàm	6
 zo	wanuwi	6
 mehe	erepuner	6
 wàmàtyry'ym	pà	6
@@ -3985,6 +3981,7 @@ ezapo	zo	6
 na'e	zurupari	6
 paw	heraha	6
 kar	oho	6
+uze'eg	uzeupe	6
 hie	pe	6
 ta'e	zanezar	6
 pe	waho	6
@@ -4155,7 +4152,6 @@ ma'e	nuzawy	6
 ràm	ikwaw	6
 wer	haw	6
 ma'e	waneko	6
-wapyk	a'e	6
 pe	hexak	6
 tuwihaw	paw	6
 tetea'u	wanehe	6
@@ -4254,6 +4250,7 @@ nuzexak	kar	6
 par	pe	6
 numai'u	kwaw	6
 win	ipyahu	6
+na'e	wixe	6
 ta'e	pezapo	6
 nuàro	kwaw	6
 iko	zutew	6
@@ -4309,10 +4306,8 @@ hepyro	putar	6
 hyru	nehe	6
 nuenu	kwaw	6
 mezàmi	zuapyr	6
-amur	kar	6
 heremiaihu	izaew	6
 xau	henataromo	6
-ker	haw	6
 imuàtà	pyrer	6
 umupu	putar	6
 rekwe	wixe	6
@@ -4382,7 +4377,6 @@ eho	teko	5
 ni'i	pixik	5
 har	nukwaw	5
 wànàm	wanupe	5
-xo	màràn	5
 hera'yr	rehe	5
 tupàn	ipurumuzàmuzàg	5
 wera'u	tuwe	5
@@ -4401,7 +4395,6 @@ xe	teko	5
 iata	mehe	5
 etea'i	a'e	5
 tywyr	romo	5
-na'e	wekar	5
 a'e	her	5
 eho	herupi	5
 ar	ipy	5
@@ -4426,6 +4419,7 @@ awa	hemireko	5
 kwer	uzeupe	5
 kwez	urewe	5
 zezuz	uzypyrog	5
+oho	kapanau	5
 zanera'yr	wazuka	5
 mez	huwake	5
 kar	tapi'ak	5
@@ -4462,7 +4456,6 @@ teko	wanuwihaw	5
 mehe	erezapo	5
 a'e	weko	5
 namukononozor	pe	5
-mawiron	tawhu	5
 tuwihawete	iànàm	5
 wanàmuzgwer	waze'eg	5
 tuweharupi	har	5
@@ -4477,6 +4470,7 @@ kwàkwàmo	wanupe	5
 ire	kury	5
 u'u	kar	5
 puahu	zàwenugar	5
+tuwihawete	uze'eg	5
 wakatu	haw	5
 aze	tuwihawete	5
 aze	xo	5
@@ -4607,6 +4601,7 @@ zaneruwihawete	umàno	5
 putar	zane	5
 umumaw	mokoz	5
 we	arer	5
+upuranu	tawi	5
 zeàmàtyry'ymawhu	wi	5
 na'e	tawi	5
 ta'e	umàno	5
@@ -4622,7 +4617,6 @@ ta'e	upuhareko	5
 teko	wenoz	5
 ma'e	hemetarer	5
 wiko	hemetarer	5
-ka'a	kyr	5
 ma'e	uzeruzar	5
 aze	nupytu'u	5
 te	iahykaw	5
@@ -4706,7 +4700,6 @@ hetekwer	heraha	5
 ze'egaw	a'e	5
 pe	taw	5
 wanur	mehe	5
-ure	hemimu'e	5
 ipyr	ure	5
 tetea'u	kar	5
 azeharomoete	ereiko	5
@@ -4754,12 +4747,10 @@ nerezapo	pixik	5
 umàno	wà	5
 newe	ma'e	5
 wapapar	pà	5
-nezewe	zezuz	5
 zuze	pe	5
 hemireko	ràm	5
 ipuahu	pe	5
 kar	imemyr	5
-na'e	zuze	5
 imemyr	a'e	5
 waho	àwàm	5
 tuweharupi	ure	5
@@ -4768,6 +4759,7 @@ uru'e	uruiko	5
 werur	putar	5
 kwaw	ipyr	5
 ipytuhegatu	putar	5
+zanezar	a'e	5
 tàpuzuhu	tupàn	5
 ta'e	izypy	5
 pe	upaw	5
@@ -4863,7 +4855,6 @@ hepy'a	pe	5
 har	ikatuahy	5
 rupi	herurywete	5
 rupi	aha	5
-putar	pepytywà	5
 apyta	putar	5
 peruzar	putar	5
 aze	zurupari	5
@@ -4912,6 +4903,7 @@ uzapo	wà	5
 uwa	rupi	5
 ma'ea'yr	wazuka	5
 awa	weraha	5
+na'e	awa	5
 hyàkwegatu	ma'e	5
 haw	izywyr	5
 amo	oho	5
@@ -5010,6 +5002,7 @@ peiwy	rehe	5
 aze	upuner	5
 haw	hagaw	5
 ereho	putar	5
+aexak	tupàn	5
 paw	hereko	5
 e	zo	5
 amo	her	5
@@ -5199,6 +5192,7 @@ mokoz	tapi'ak	5
 mete-xemez	pe	5
 teko	ize'eg	5
 awa	izaew	5
+amur	kar	5
 izaew	piri	5
 tuwe	ereze'eg	5
 zimea	tawhu	5
@@ -5308,6 +5302,7 @@ zàwenugar	rehe	4
 upuner	hehe	4
 uzapo	ywy	4
 zo	uzeruzar	4
+xo	màràn	4
 wa'yr	rehe	4
 tuwe	ze'eg	4
 teko	nuexak	4
@@ -5336,7 +5331,6 @@ rupi	wezar	4
 pezur	herupi	4
 kwez	ure	4
 rehe	aha	4
-pet	a'e	4
 kwer	ure	4
 moizez	umume'u	4
 i'i	piri	4
@@ -5365,7 +5359,6 @@ hurywete	tuwe	4
 uzewyr	wà	4
 ukweraw	umàno	4
 tuwe	ure	4
-ipytuhegatu	hexak	4
 ukyze	izuwi	4
 tuwe	napezeruzar	4
 heta	temi'u	4
@@ -5378,14 +5371,11 @@ oho	wanuwi	4
 i'i	hemimu'e	4
 waiko	izupe	4
 hema'emume'u	haw	4
-wamai'u	mehe	4
 uhy	pe	4
 pyrer	wanupe	4
 ihy	a'e	4
 tywyr	a'e	4
-oho	kapanau	4
 pe	upyta	4
-zutew	uzapo	4
 huwake	wapyk	4
 tàpuzuhu	wi	4
 kar	àràpuhàràn	4
@@ -5424,6 +5414,7 @@ har	waner	4
 tupàn	nuze'eg	4
 putar	iko	4
 teko	weityk	4
+mawiron	tawhu	4
 ma'e	hezar	4
 exaexak	amo	4
 kwàkwàmo	tuwihawete	4
@@ -5584,9 +5575,9 @@ xau	imàno	4
 umu'i	ukamir	4
 uwàkàg	rehe	4
 rehe	ywy	4
+tawi	hehe	4
 izupe	nezewe	4
 hezuka	pà	4
-upuranu	tawi	4
 ko	zegar	4
 wamàno	awer	4
 ipuruzukaiwahy	ma'e	4
@@ -5651,6 +5642,7 @@ o	tuwihawete	4
 nepy'a	pe	4
 tuweharupi	ne	4
 amogwer	tuwihawete	4
+na'e	wekar	4
 oho	izaew	4
 waiwy	nànàn	4
 ywyramawa	zeàmàtyry'ymawhu	4
@@ -5791,7 +5783,6 @@ tupàn	upuraraw	4
 noho	pixik	4
 katu	waiko	4
 putar	uzeupeupe	4
-zanezar	a'e	4
 waiko	teko	4
 kuzà	hehe	4
 ma'e	zàwe	4
@@ -5802,7 +5793,6 @@ kwaw	wazar	4
 kwaw	ywyxig	4
 uzemono'ono'og	putar	4
 teko	ikàg	4
-za'e	a'e	4
 wemixamixak	kwer	4
 akwaw	kar	4
 hera'yr	ài	4
@@ -5948,6 +5938,7 @@ rupi	pezapo	4
 amume'u	wiwi	4
 hepytywà	iko	4
 zepe	ko	4
+putar	pepytywà	4
 rupi	peruzar	4
 tuwe	zaneruwihawete	4
 rehe	pepyr	4
@@ -6076,7 +6067,6 @@ izuapyapyr	waze'eg	4
 putar	ikwaw	4
 hemimume'u	ihewe	4
 har	newe	4
-tuwihawete	uze'eg	4
 ru'u	nehe	4
 peiko	pezeupe	4
 ta'e	uzuka	4
@@ -6440,8 +6430,6 @@ win	inuromo	4
 putar	ima'e	4
 romo	zo	4
 kwer	upaw	4
-ma'e	ro'o	4
-ro'o	kwer	4
 umume'u	wanemiapo	4
 pepytu'u	iapo	4
 izuapyapyr	wanuwi	4
@@ -6453,7 +6441,6 @@ na'e	namukononozor	4
 iapeao	haw	4
 wi	zauxiapekwer	4
 ta'yr	izuapyr	4
-mewe	katu	4
 urewi	nehe	4
 ipo	pe	4
 putar	uiwy	4
@@ -6543,6 +6530,7 @@ nezewegatete	awa	4
 ta'e	zurupari	4
 aipo	wiko	4
 wekar	putar	4
+na'e	zuze	4
 umume'u	nezewe	4
 tuwe	nereho	4
 uze'eg	imono	4
@@ -6552,6 +6540,7 @@ kwaw	urerehe	4
 wanàmuzgwer	a'e	4
 uzuka	tupàn	4
 uremupytu'u	kar	4
+nezewe	zezuz	4
 kwaw	i'ar	4
 aze	tekwe	4
 kwaw	wemixak	4
@@ -6588,7 +6577,6 @@ na'e	xamuew	4
 iko	nezewe	4
 haw	xau	4
 oho	xamuew	4
-neho	haw	4
 uhem	kwez	4
 pe	uzehe	4
 wixe	xau	4
@@ -6654,7 +6642,6 @@ uzeruzar	ta'yr	4
 haw	nuiko	4
 puràg	hemimutar	4
 ta'e	nuweruzar	4
-za'e	putar	4
 upuràgaw	zanewe	4
 umàno	zanerehe	4
 nuenu	pixik	4
@@ -6677,6 +6664,7 @@ zezuz	wata	4
 y	ihewe	4
 temi'u	ime'eg	4
 àràpuhàràn	a'e	4
+ure	hemimu'e	4
 urepuranu	pà	4
 umumaw	zezuz	4
 heru	uzapo	4
@@ -6833,8 +6821,6 @@ amo	ma'eà'yz	4
 ma'eà'yz	u'ar	4
 neru	ywate	4
 watypy'ak	imuapiruru	4
-za'e	zezuz	3
-za'e	izupe	3
 zaneru	ipyr	3
 zaneruwihawete	zo	3
 mo	naheta	3
@@ -6849,12 +6835,12 @@ hepurumuzàmuzàg	romo	3
 zezuz	her	3
 aikwez	a'e	3
 peme	heremimume'u	3
-heraikweromo	a'e	3
 wikuwe	tupàn	3
 ipyr	wiko	3
 haikwerupi	har	3
 peho	zuàw	3
 uremur	kar	3
+e	uze'eg	3
 mehe	izai	3
 yrykaw	waz	3
 àràpuhàràna'yr	zàwenugar	3
@@ -6863,16 +6849,14 @@ ur	zuàw	3
 rekwe	tur	3
 wezyw	ywak	3
 herekwe	puràg	3
-aexak	tuwe	3
 pe	mokoz	3
 wemimu'e	wapyr	3
 mokoz	hemimu'e	3
-uwak	zezuz	3
 ma'e	peputar	3
 i'i	zaneze'eg	3
 heixe	re	3
 ximàw	pet	3
-na'e	piri	3
+pet	a'e	3
 har	hemimume'u	3
 umume'u	heko	3
 imuapyk	mehe	3
@@ -6883,7 +6867,6 @@ muite	wi	3
 erezeruzar	herehe	3
 heru	heko	3
 har	wezyw	3
-wexak	ita	3
 uken	wi	3
 ima'enukwaw	a'e	3
 a'e	ize'eg	3
@@ -6916,6 +6899,7 @@ wemimu'e	taw	3
 uzeupir	zezuz	3
 pà	ywak	3
 ikatuahy	zanewe	3
+e	re	3
 pawire	heta	3
 kana	taw	3
 izar	wenoz	3
@@ -6927,6 +6911,7 @@ zezuz	ikàgaw	3
 ukàgaw	hexak	3
 rupi	hemimu'e	3
 kwarahy	nànàgatu	3
+zutew	uzapo	3
 pà	kwarahy	3
 ime'egar	wà	3
 temetarer	ima'e	3
@@ -6946,7 +6931,6 @@ tuwe	nemupytu'u	3
 teko	nerehe	3
 pà	nerehe	3
 ainoz	ma'e	3
-ekwaw	kar	3
 herurywete	ihe	3
 wera'u	wer	3
 one	rehe	3
@@ -7085,7 +7069,6 @@ hemen	wi	3
 wiko	hekutyr	3
 zo	ihewe	3
 wyzài	tawhu	3
-rehe	neho	3
 nerupi	ihe	3
 rehe	nereko	3
 heànàm	romo	3
@@ -7325,7 +7308,6 @@ har	nàtà	3
 nàtà	her	3
 tapi'aka'yr	ikyra	3
 ikyra	katu	3
-tawi	hehe	3
 ni	zauxiapekwer	3
 oho	nàtà	3
 ihy	pe	3
@@ -7387,6 +7369,7 @@ pyrer	wi	3
 wamurywete	kar	3
 rehe	mokoz	3
 nariw	tuwihawete	3
+ero	a'e	3
 oho	zuàw	3
 ukyze	teko	3
 kar	mai'u	3
@@ -7401,7 +7384,6 @@ rehe	uzeupe	3
 mokoz	pira	3
 imueta	tetea'u	3
 typy'ak	teko	3
-u'u	paw	3
 ym	pyrer	3
 ipapar	haw	3
 kuzàtàigwer	wà	3
@@ -7515,7 +7497,6 @@ erepuhareko	katu	3
 heremiaihu	wanehe	3
 pe	ta'e	3
 ere	teko	3
-ita	per	3
 heremiaihu	ywy	3
 zeruzarez	parer	3
 apuranu	hehe	3
@@ -7533,6 +7514,7 @@ urewi	wà	3
 paw	wazuka	3
 pà	wanehe	3
 utakihepuku	pupe	3
+wamai'u	mehe	3
 hàpuz	kutyr	3
 na'e	wapyk	3
 teko	umuawate	3
@@ -7767,7 +7749,6 @@ hehe	ume'e	3
 rupi	kuzà	3
 kuzà	uhem	3
 pe	hama	3
-ikamu	re	3
 ipytu'u	re	3
 zo	araha	3
 pitài	hyru	3
@@ -8360,7 +8341,6 @@ aze	hemetarer	3
 napezamutar	katu	3
 kwaw	peze	3
 teko	nehe	3
-arer	ihaw	3
 xikwaw	tupàn	3
 azeruzar	tupàn	3
 ma'e	aha	3
@@ -8504,7 +8484,6 @@ pà	tuwihaw	3
 tuwihaw	hom	3
 zepe	herehe	3
 ta'e	nuexak	3
-xez	her	3
 aha	iteko	3
 har	tur	3
 nur	pixik	3
@@ -8519,6 +8498,7 @@ kwaw	wixe	3
 har	nuexak	3
 ma'e	herur	3
 epyhyk	nerupaw	3
+ipytuhegatu	hexak	3
 naxixak	pixik	3
 wamu'e	re	3
 hemetarer	imono'ogar	3
@@ -8672,7 +8652,6 @@ imur	katu	3
 kirom	ipuku	3
 kirom	ipupy	3
 ywy	ihewe	3
-neho	pà	3
 imyter	pe	3
 wiko	haw	3
 putar	ytyzuzàmaw	3
@@ -9078,7 +9057,6 @@ rehe	zaneamutar	3
 zutew	nuzeruzar	3
 izupe	paw	3
 amo	wenoz	3
-henoz	tar	3
 kwer	imunànaw	3
 rupi	apuranu	3
 nuexaexak	kwaw	3
@@ -9210,7 +9188,6 @@ ae	tàpuz	3
 ma'e	wanuwa	3
 peme	iapo	3
 pema'enukwaw	putar	3
-pepytywà	àràm	3
 uzewyr	àwàm	3
 izupe	herer	3
 wemimu'e	wanehe	3
@@ -9294,7 +9271,6 @@ nezewegatete	heze'eg	3
 nezewegatete	no	3
 pet	zezuz	3
 apuraraw	putar	3
-uker	upà	3
 amo	kwarer	3
 neremimu'e	wanupe	3
 tupàn	pureruze'eg	3

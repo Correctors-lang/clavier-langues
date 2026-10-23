@@ -1,18 +1,18 @@
 # Bigrammes pri (FineWeb-2 pri_Latn (ODC-By)). mot1<TAB>mot2<TAB>freq
 # Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
 na	rà	1586
-â	é	1576
+â	é	1569
 na	é	1550
 naa	na	1126
-â	rà	1019
+â	rà	1017
 ê	pâ	959
-â	â	922
-ba	na	846
+ba	na	845
 âna	é	795
+â	â	746
 tèpa	âboro	732
-wà	tèpa	726
+wà	tèpa	725
 wà	pwi	616
-êco	na	607
+êco	na	604
 tàpé	na	568
 naa	goo	564
 âna	rà	534
@@ -27,8 +27,9 @@ wà	pwiduée	453
 pwi	a	451
 goro	ê	427
 é	ina	422
+pwi	ukai	410
 pwi	âboro	392
-gée	na	386
+gée	na	385
 ée	mwa	373
 kà	tèpa	367
 na	jè	367
@@ -39,15 +40,15 @@ pwi	jè	335
 kà	pwiduée	333
 â	guwà	323
 é	jèe	320
-à	à	320
-é	nye	311
+à	à	316
+é	nye	310
 càra	caa	307
 diri	ê	305
 é	pwa	292
 â	o	288
 goo	ê	287
 â	go	286
-na	ia	281
+na	ia	280
 câé	caa	277
 pwina	é	277
 gée	goo	273
@@ -66,6 +67,7 @@ tà	tèpa	227
 na	dau	221
 nye	ticè	221
 pâri	ma	218
+tèpa	juif	217
 cèikî	naa	215
 goo	wà	214
 na	èpà	213
@@ -82,6 +84,7 @@ kà	pwi	191
 câmu	kêe	190
 ã	ã	189
 de	la	187
+wâra	pwapwicîri	186
 é	pwi	186
 é	nama	184
 tèpa	cèikî	184
@@ -104,7 +107,7 @@ câgo	caa	160
 na	wâdé	159
 go	o	158
 câguwà	caa	157
-rà	ina	156
+rà	ina	155
 wà	pàra	155
 pàra	tèpa	151
 ê	wâro	151
@@ -115,9 +118,9 @@ tèpa	câmu	144
 go	ina	139
 âna	go	139
 tâmogòori	pâ	139
-ûna	é	138
 pwa	ê	138
 pwa	ma	137
+ûna	é	137
 nye	tà	137
 guwà	cibwaa	136
 ê	pwi	132
@@ -134,6 +137,7 @@ ina	tà	129
 na	ara	126
 ba	go	125
 wâjué	côwâ	125
+nyuâaê	pwicîri	124
 caa	tâmogòori	123
 nye	dau	122
 jèe	nye	121
@@ -164,7 +168,7 @@ kâra	ê	104
 tâa	wê	102
 na	pâ	102
 tàwà	ê	102
-guwà	jèe	102
+guwà	jèe	101
 ma	guwà	100
 êkaa	na	100
 é	dau	100
@@ -193,8 +197,9 @@ ba	guwà	92
 tòpi	ê	91
 rà	tâa	90
 tò	naa	90
-tàra	ê	89
+picémara	wâdé	90
 rà	tèpa	89
+tàra	ê	88
 kaa	ê	88
 é	tèepaa	88
 tâmogòori	ê	87
@@ -215,6 +220,7 @@ tà	pwi	82
 é	me	82
 dàra	gòiri	82
 na	bwaa	82
+wà	kériso	82
 wiâra	ê	81
 pwi	jèpwi	81
 go	nye	81
@@ -335,7 +341,6 @@ wiàna	guwà	59
 me	wà	59
 jè	o	59
 pwa	wà	59
-wàé	kaa	58
 too	naa	58
 ê	èpà	58
 é	têre	58
@@ -347,6 +352,7 @@ iésu	wà	57
 wâru	pâ	57
 pwi	ênawéna	57
 na	karapuu	57
+wàé	kaa	57
 tèpa	caa	57
 wàéni	ê	57
 go	mwa	56
@@ -421,7 +427,6 @@ rà	tòpi	49
 rà	popa	49
 pâ	na	49
 goro	i	49
-ba	càcaa	48
 é	wâro	48
 nümarà	na	48
 goo	pwiduée	48
@@ -440,7 +445,7 @@ guwà	nye	47
 rà	me	47
 nümoo	na	47
 mwa	pwa	47
-wàépwiri	ê	47
+ba	càcaa	47
 târa	pâ	47
 ênawéna	kîri	47
 na	câé	46
@@ -448,6 +453,7 @@ ba	gà	46
 rà	naa	46
 wàé	na	46
 pâra	wiâ	46
+wàépwiri	ê	46
 go	côo	46
 kêe	na	45
 ma	naa	45
@@ -459,6 +465,7 @@ dotée	goro	45
 â	pwa	45
 rà	niimiri	45
 tàwà	pâ	45
+pwa	pupûra	45
 wâjué	me	45
 kà	tàpé	45
 goro	pâ	45
@@ -619,9 +626,9 @@ jèe	ina	34
 ina	pwiri	34
 â	câgo	34
 paari	pâ	34
+a	pitûâ	34
 caapwi	co	34
 rà	tà	34
-â	napwa	34
 ê	wârimuru	34
 guwà	tà	34
 go	tâmogòori	34
@@ -643,6 +650,7 @@ caa	pâji	33
 âna	càra	33
 â	po	33
 wârori	ê	33
+â	napwa	33
 kaa	i	33
 é	wàrapwiri	33
 kà	paulo	33
@@ -652,6 +660,7 @@ tèpa	bée	33
 ê	domii	33
 pwina	gà	32
 mwa	tâa	32
+dau	èpà	32
 pwapwicîri	kà	32
 tèpa	apostolo	32
 ina	wèe	32
@@ -710,7 +719,6 @@ pwiduée	naa	30
 paulo	ma	30
 mwa	tà	30
 ê	jèkutâ	30
-é	picémara	30
 wànau	târa	30
 ê	pinaanapô	30
 âna	bà	30
@@ -719,6 +727,7 @@ gée	gooé	30
 maina	awé	30
 jè	jèe	30
 wâdé	têe	30
+tèpa	bà	30
 pwa	goro	30
 pâra	wii	30
 maagé	côo	30
@@ -728,6 +737,7 @@ na	me	29
 mwara	na	29
 wâdé	ba	29
 rà	po	29
+é	picémara	29
 pâ	wakè	29
 go	pâra	29
 ba	wàé	29
@@ -751,7 +761,6 @@ pwi	kupénoo	29
 ê	pé	29
 à	â	29
 â	à	29
-of	the	28
 pwi	apooro	28
 jèe	pâra	28
 ê	wâ	28
@@ -783,6 +792,7 @@ mwara	naa	28
 pacoo	ê	28
 pâ	napô	28
 ârabwée	kêe	28
+of	the	27
 mwa	ina	27
 non	è	27
 ina	ba	27
@@ -849,7 +859,6 @@ wâguwà	na	26
 wakè	kêe	26
 mwani	mii	26
 na	ité	26
-â	ipaiwà	26
 pa	ê	25
 iésu	na	25
 é	too	25
@@ -893,6 +902,7 @@ goo	tàpé	25
 wà	tupédu	25
 ê	ârabwée	25
 jè	cau	25
+â	ipaiwà	25
 in	the	24
 nye	tàgére	24
 goo	pai	24
@@ -1044,6 +1054,7 @@ muugère	kêe	21
 na	càùé	21
 tèpa	aéjii	21
 na	âracié	21
+pwapwicîri	na	21
 il	messaggio	21
 qui	a	21
 popai	goro	21
@@ -1076,12 +1087,14 @@ jè	tâmogòori	21
 guwà	tòpi	21
 popa	i	21
 rà	panuâ	21
+naèà	na	21
 gona	dà	21
 pâ	naèà	21
 naa	tâgà	21
 èpà	ê	21
 i	du	21
 popa	me	21
+poloa	na	21
 ê	poloa	21
 âna	dau	21
 bà	jèe	21
@@ -1097,8 +1110,8 @@ napô	na	21
 cidòri	nyuâa	21
 channel	is	21
 to	the	20
+nyaa	kêe	20
 rà	mu	20
-pwapwicîri	na	20
 jèe	nabwé	20
 controllo	del	20
 et	la	20
@@ -1136,6 +1149,7 @@ jii	wà	20
 bà	kà	20
 kâra	diri	20
 ma	tàpé	20
+na	pwicîri	20
 nee	pwi	20
 imudi	kà	20
 jèe	naa	20
@@ -1152,7 +1166,6 @@ rà	tàgére	20
 sản	phẩm	20
 c	mạ	20
 càcaa	pâji	19
-â	ûna	19
 niimiri	wà	19
 per	la	19
 del	traffico	19
@@ -1180,7 +1193,6 @@ rà	wàrapwiri	19
 ma	wàilà	19
 pwacèwii	tèpa	19
 wiàna	pwa	19
-go	panuâ	19
 rà	còobé	19
 pwiri	ê	19
 wà	tôoni	19
@@ -1252,6 +1264,7 @@ tèpa	béeò	18
 jèe	tòpi	18
 dau	kîri	18
 ê	autâmogòorimuru	18
+go	panuâ	18
 tàwà	wà	18
 tèpa	dotée	18
 wâru	mwara	18
@@ -1321,6 +1334,7 @@ ticè	cè	17
 ticè	pai	17
 gà	côo	17
 pâra	na	17
+â	ûna	17
 ê	napuu	17
 tèpa	roma	17
 i	wâ	17
@@ -1352,6 +1366,7 @@ wâdé	ê	17
 ioane	pwi	17
 tàpé	pâ	17
 namuru	na	17
+kâra	poloa	17
 tèpa	paao	17
 gée	côwâ	17
 ê	autâa	17
@@ -1360,6 +1375,7 @@ duée	imudi	17
 naa	wârimuru	17
 kîri	kà	17
 o	tòpi	17
+goro	atü	17
 dà	na	17
 pitûâ	naa	17
 na	câgo	17
@@ -1409,6 +1425,7 @@ wâgà	na	16
 kaa	naa	16
 âboro	wê	16
 tûu	naa	16
+pwicîri	na	16
 ba	péa	16
 du	ârailu	16
 ticè	jè	16
@@ -1500,6 +1517,7 @@ kêe	ma	15
 pâ	pàra	15
 tùra	ba	15
 jiié	pâ	15
+a	pwâ	15
 o	tà	15
 naa	goojè	15
 a	pa-udò	15
@@ -1555,6 +1573,7 @@ pitu	tàra	15
 pai	côo	15
 naa	nawià	15
 péa	tà	15
+pwiduée	ma	15
 â	câjè	15
 o	bwaa	15
 kâjè	iésu	15
@@ -1577,6 +1596,7 @@ di	un	14
 lo	stile	14
 a	êtăš	14
 kenbe	dosye	14
+péroféta	na	14
 guwà	ilari	14
 rà	medari	14
 rà	tawèerié	14
@@ -1689,7 +1709,6 @@ guwà	wârori	14
 o	wàilàapà	14
 kâra	èpà	14
 ilàri	gòronaigé	14
-xây	dá	14
 jè	village	13
 gée	galilée	13
 jèe	ticè	13
@@ -1825,6 +1844,7 @@ mwani	kêe	13
 é	ija	13
 cung	cấp	13
 chúng	tôi	13
+xây	dá	13
 compte	de	13
 chất	lượng	13
 nyaa	kà	12
@@ -1881,6 +1901,7 @@ càcaa	wâgo	12
 ê	auina	12
 gòropuu	diri	12
 auniimiri	kà	12
+miiri	goo	12
 wâro	wiâra	12
 jèe	nama	12
 rà	ciburà	12
@@ -1890,7 +1911,6 @@ tèpa	nari	12
 ija	ê	12
 â	pâri	12
 i	duée	12
-rà	tacoo	12
 na	pimeaari	12
 cèikî	béejè	12
 béârailu	kâra	12
@@ -1956,6 +1976,7 @@ nyaa	kâra	12
 bwaa	câguwà	12
 du	îê	12
 âna	me	12
+dau	pwicîri	12
 pwa	i	12
 pâ	macii	12
 ucina	bèeni	12
@@ -1993,7 +2014,6 @@ is	jade	12
 jade	on	12
 your	tv	12
 and	businesses	12
-thép	c	12
 càcaa	wâru	11
 rà	tâaboo	11
 your	favorite	11
@@ -2043,7 +2063,6 @@ tà	paulo	11
 wà	césar	11
 gée	napô	11
 rà	medarié	11
-picémara	tàra	11
 rà	pitùra	11
 mee	wà	11
 pai	tâmogòori	11
@@ -2066,6 +2085,7 @@ rà	mara	11
 wâdé	târa	11
 ére	bèepwiri	11
 duée	gooé	11
+rà	tacoo	11
 tâa	goowà	11
 tâmogòori	pwiduée	11
 èpà	kâjè	11
@@ -2125,7 +2145,6 @@ caa	niimiri	11
 bwàti	wà	11
 angela	kêe	11
 gée	iérusaléma	11
-dau	pwicîri	11
 âna	wâru	11
 guwà	mudàra	11
 me	naani	11
@@ -2181,7 +2200,6 @@ their	service	11
 of	wildfires	11
 la	valeur	11
 des	comptes	11
-báo	giá	11
 yêu	cầu	11
 if	the	10
 wà	nyaa	10
@@ -2237,6 +2255,7 @@ pwiduée	kâjè	10
 bà	tèepaa	10
 cèna	pâri	10
 bà	têre	10
+picémara	tàra	10
 é	tàpiri	10
 péa	rà	10
 rà	biirà	10
@@ -2309,6 +2328,7 @@ pwi	éaé	10
 pâriê	ma	10
 wà	tàpéebà	10
 kamu	goo	10
+tèpa	tàmanga	10
 tàrù	kàra	10
 rà	pitadàrùrà	10
 jè	dau	10
@@ -2399,7 +2419,9 @@ remain	consistent	10
 to	use	10
 the	standard	10
 de	commerce	10
+báo	giá	10
 äáp	ứng	10
+thép	c	10
 chi	phà	10
 col	span	10
 sản	xuất	10
@@ -2557,7 +2579,7 @@ inapàpari	tàra	9
 goro	ubati	9
 kâra	tòotù	9
 é	ciburà	9
-tèpa	tàmanga	9
+kamaî	tàra	9
 nye	wàrapwiri	9
 piênawéna	kêe	9
 ba	kâra	9
@@ -2666,7 +2688,6 @@ techniques	de	9
 la	comptabilité	9
 de	production	9
 nà	y	9
-the	wall	8
 with	the	8
 goro	piéa	8
 maina	kà	8
@@ -2757,7 +2778,6 @@ go	niimiri	8
 kâra	cè	8
 guwà	pi-ina	8
 jè	mu	8
-â	nümoo	8
 wâgo	kaa	8
 go	mara	8
 câgo	mwa	8
@@ -2996,6 +3016,7 @@ par	lâentreprise	8
 chãnh	hãng	8
 trên	thá	8
 phân	phá	8
+the	wall	7
 and	a	7
 pai	muugère	7
 wê	ê	7
@@ -3024,7 +3045,6 @@ l	e	7
 e	n	7
 le	policier	7
 dăšclaration	de	7
-il	a	7
 le	pays	7
 vue	de	7
 toutes	les	7
@@ -3051,12 +3071,12 @@ et	publique	7
 du	ministère	7
 une	fois	7
 du	code	7
-li	ka	7
 an	dwe	7
 dosye	enfòmasyon	7
 an	gen	7
 timoun	yo	7
 é	pagòo	7
+pitu	tâjè	7
 paari	naa	7
 goro	wâro	7
 pâri	naa	7
@@ -3121,6 +3141,7 @@ jè	wâra	7
 go	wâjué	7
 pâiti	jii	7
 tàgére	pwa	7
+â	nümoo	7
 pame	tàwà	7
 âji	naîô	7
 pitùra	goo	7
@@ -3134,6 +3155,7 @@ caa	tô	7
 â	êkaa	7
 bàrawià	galilée	7
 tacoo	goo	7
+a	cicara	7
 jèe	tèpa	7
 tâbawêe	ê	7
 béaa	wà	7
@@ -3433,7 +3455,6 @@ simona	pétéru	7
 i	kurucé	7
 dau	tubaèpà	7
 å	ç	7
-à	šà	7
 doanh	nghiá	7
 i	công	7
 i	vá	7
@@ -3523,6 +3544,7 @@ sur	un	6
 de	montrăšal	6
 dăšjă	â	6
 respect	des	6
+il	a	6
 pas	de	6
 dans	cette	6
 de	ses	6
@@ -3790,6 +3812,7 @@ uru	jii	6
 na	ne	6
 ma	pijinünü	6
 naa	jaarà	6
+poloa	kà	6
 pâ	upwâra	6
 é	kâa	6
 gona	o	6
@@ -3921,6 +3944,7 @@ guwà	ipwacèwii	6
 pàara	bèeni	6
 cimwü	ê	6
 piwakè	naima	6
+autâmogòorimuru	na	6
 caa	uti	6
 uti	kôo	6
 bà	kàra	6
@@ -4093,10 +4117,6 @@ chinh	steel	6
 ứng	dụng	6
 công	nghiá	6
 u	dà	6
-bảng	báo	6
-giá	xà	6
-xà	gỡc	6
-phù	hợp	6
 sắt	thép	6
 testimonial	image	6
 uy	tãn	6
@@ -4104,7 +4124,6 @@ will	be	5
 has	been	5
 càcaa	wâgà	5
 ma	maina	5
-â	tâa	5
 goro	jawé	5
 tàra	côwâ	5
 todà	pwi	5
@@ -4159,9 +4178,7 @@ s	t	5
 a	n	5
 la	femme	5
 jean	richard	5
-e	sommet	5
 à	son	5
-q	u	5
 rodolphe	jaar	5
 i	n	5
 en	cours	5
@@ -4377,6 +4394,7 @@ cau	ina	5
 jè	pimeaarijè	5
 me	pwina	5
 naîê	na	5
+pwiduée	â	5
 pimeaari	na	5
 wâdé	wà	5
 naja	gée	5
@@ -4397,6 +4415,7 @@ bére	wakè	5
 kériso	na	5
 nye	wâguwà	5
 ârapwaailò	tà	5
+na	wàra	5
 kàwà	wà	5
 nau	ipokâa	5
 rà	pâdié	5
@@ -4968,10 +4987,8 @@ coca	cola	5
 this	is	5
 là	má	5
 thông	tin	5
-viết	ná	5
 u	quả	5
 dung	website	5
-ngà	y	5
 a	công	5
 thương	hiá	5
 a	free	5
@@ -5056,19 +5073,20 @@ de	résultats	5
 et	fournitures	5
 de	stocks	5
 ensemble	des	5
-net	commercial	5
 â	câest	5
 gia	công	5
 kãch	thưá	5
 c	kì	5
 giá	thà	5
-tại	tphcm	5
+bảng	báo	5
+giá	xà	5
+xà	gỡc	5
 bảo	quản	5
 hoà	n	5
 n	toà	5
+phù	hợp	5
 ng	lượng	5
 i	gian	5
-thẩm	mỹ	5
 ứng	äæ	5
 a	tôi	5
 an	toà	5
@@ -5079,7 +5097,6 @@ be	found	4
 after	the	4
 all	the	4
 very	best	4
-nyaa	kêe	4
 pwina	kôo	4
 muugère	ma	4
 rà	pwaai	4
@@ -5147,7 +5164,6 @@ che	ha	4
 che	si	4
 this	sequence	4
 ip	address	4
-address	ph	4
 a	resv	4
 the	style	4
 scope	flag	4
@@ -5237,7 +5253,6 @@ i	o	4
 de	nous	4
 sur	des	4
 de	notre	4
-v	e	4
 les	moyens	4
 lutte	contre	4
 konte	miami-dade	4
@@ -5286,7 +5301,6 @@ metye	fè	4
 lè	yo	4
 epi	li	4
 an	te	4
-ka	bay	4
 li	pa	4
 dosye	sou	4
 paske	yo	4
@@ -5339,7 +5353,6 @@ pwanauri	pwi	4
 èpà	tôo	4
 pwacèwii	ni	4
 tapoo	naa	4
-pwi	ukai	4
 pâ	neemuruê	4
 ilagà	pâ	4
 pitôowâri	tâgà	4
@@ -5508,6 +5521,7 @@ nye	picémara	4
 jè	mwani	4
 pame	têe	4
 ma	nee	4
+na	wâgòro	4
 guwà	pitôowâri	4
 pwina	kêe	4
 rà	âjupâra	4
@@ -5570,7 +5584,6 @@ tà	nyaa	4
 ê	pûru	4
 jèe	ipwataâboro	4
 âboro	iésu	4
-tàpo	nao	4
 itàa	me	4
 bèeni	naa	4
 tâaboo	naawê	4
@@ -5609,6 +5622,7 @@ ba	pwi	4
 ticè	kêe	4
 burà	ina	4
 étò	kà	4
+â	tâa	4
 mwa	cipàpaa	4
 wàépwiri	kaa	4
 niimiri	côwâ	4
@@ -5642,7 +5656,6 @@ pâri	ê	4
 dàra	diri	4
 jèe	tipijè	4
 ê	tojii	4
-té	gée	4
 auina	kêe	4
 é	pitòotéri	4
 dàra	kâjè	4
@@ -5671,7 +5684,6 @@ ba	wàrapwiri	4
 jiiwà	cè	4
 kâjè	mwara	4
 tàpé	ma	4
-èrà	goo	4
 popai	kàra	4
 na	wâgo	4
 wiâ	kériso	4
@@ -5806,7 +5818,6 @@ gòri	ê	4
 rà	cipu	4
 càcaa	dau	4
 naa	ârabwée	4
-caa	nao	4
 mwara	goro	4
 tàcî	ma	4
 é	pâmarirà	4
@@ -5886,7 +5897,6 @@ babé	wâri	4
 wicèpwiri	ê	4
 dà	iésu	4
 pibu	naigé	4
-é	té	4
 puu	wà	4
 pwi	béejè	4
 câmu	bée	4
@@ -5998,7 +6008,6 @@ village	ma	4
 puu	wê	4
 pwapwicîri	wê	4
 ma	tubaèpà	4
-â	i	4
 pâ	po	4
 naa	iériko	4
 côo	kêe	4
@@ -6102,6 +6111,7 @@ caa	pétâ	4
 gòro	atü	4
 cè	jawé	4
 côwâ	nau	4
+mesia	na	4
 tubanabwé	diri	4
 târa	piûnya	4
 é	piûnya	4
@@ -6255,6 +6265,7 @@ pii	ê	4
 jènere	wà	4
 pwâra	paa	4
 naa	paé	4
+pwi	dopwa	4
 tàutôo	na	4
 nümee	naa	4
 tèpa	maina	4
@@ -6340,8 +6351,8 @@ font	color	4
 color	cc	4
 mang	lại	4
 chi	tiết	4
-nâ	jè	4
 cho	công	4
+ngà	y	4
 kế	poster	4
 trong	thiết	4
 staw	gospodarstwo	4
@@ -6510,6 +6521,7 @@ matières	et	4
 production	de	4
 stock	initial	4
 de	règlement	4
+net	commercial	4
 à	payer	4
 câest	un	4
 une	somme	4
@@ -6533,6 +6545,7 @@ ng	vá	4
 thép	lá	4
 än	mòn	4
 ng	như	4
+tại	tphcm	4
 c	và	4
 tấm	lợp	4
 khoảng	cách	4
@@ -6545,7 +6558,6 @@ sẽ	giảm	4
 ng	có	4
 ng	chãnh	4
 i	giá	4
-a	ra	4
 image	id	4
 y	äæ	4
 nhà	máy	4
@@ -6557,6 +6569,7 @@ phẩm	äạt	4
 thay	äá	4
 da	tocha	4
 tocha	olímpica	4
+roger	waters	3
 found	on	3
 and	will	3
 one	of	3
@@ -6577,8 +6590,6 @@ jè	ipâdi	3
 na	wâgà	3
 tiagoo	ni	3
 capernaüm	wà	3
-wâra	pwapwicîri	3
-tèpa	juif	3
 tapoo	tâa	3
 ni	na	3
 pâdari	ê	3
@@ -6743,7 +6754,6 @@ the	merged	3
 there	is	3
 all	psb's	3
 psb's	for	3
-for	ph	3
 the	rsvp	3
 download	mp	3
 free	right	3
@@ -6973,7 +6983,6 @@ ministre	de	3
 a	p	3
 la	production	3
 s	d	3
-i	q	3
 utilisation	de	3
 grâce	à	3
 est	dit	3
@@ -7029,7 +7038,6 @@ nan	men	3
 epi	ki	3
 sou	fòm	3
 fòm	yon	3
-yo	ka	3
 yo	sou	3
 pou	paran	3
 elèv	ki	3
@@ -7242,6 +7250,7 @@ jùrué	araé	3
 pacòobé	ê	3
 jè	nama	3
 jè	pa	3
+nari	akàna	3
 a	kûukû	3
 medarié	ê	3
 é	kûukû	3
@@ -7319,7 +7328,6 @@ naigé	ma	3
 na	nüma	3
 pwiri	wâdé	3
 mwani	bèeni	3
-tèpa	bà	3
 jè	ditàra	3
 popa	tô	3
 gòobàra	pwi	3
@@ -7417,7 +7425,6 @@ cau	ija	3
 cau	pwàro	3
 pwàro	diri	3
 dàra	noo	3
-kâra	poloa	3
 paao	maina	3
 parawére	jawé	3
 é	paé	3
@@ -7747,6 +7754,7 @@ picòo	tà	3
 kamaî	tà	3
 rà	wâni	3
 nabibiu	kâbà	3
+pai	pinuwa	3
 ê	pûrurà	3
 goo	târa	3
 wàé	ê	3
@@ -7813,7 +7821,6 @@ ticè	âji	3
 é	cipu	3
 cibwaa	dumapiê	3
 o	ija	3
-nao	goro	3
 ée	naa	3
 wâdé	kàwà	3
 too	i	3
@@ -7876,7 +7883,6 @@ na	tubaèpà	3
 muru	jiiwà	3
 ciburà	wàrapwiri	3
 dau	pagòo-o	3
-ticè	nao	3
 wâna	pwâranümoo	3
 maina	pai	3
 a	dau	3
@@ -8110,6 +8116,7 @@ iésu	goro	3
 o	pacoo	3
 dàpàgà	têe	3
 pâ	oropwêe	3
+â	i	3
 tüê	boo	3
 pwa	kaa	3
 rà	picâdiri	3
@@ -8306,7 +8313,6 @@ na	âraporomeegà	3
 ti	goro	3
 é	pacima	3
 pacima	ê	3
-ca	i	3
 é	wâmwünyabweri	3
 wà	iakobo	3
 cia	jawé	3
@@ -8471,6 +8477,7 @@ goorà	wà	3
 pitèparà	gée	3
 pitàmari	pwi	3
 ma	wakè	3
+ilò	puu	3
 i	puu	3
 niboo	bàrawià	3
 tèi	ê	3
@@ -8520,7 +8527,6 @@ paari	tâgà	3
 dau	miiri	3
 dau	mii	3
 wâro	béaa	3
-pwi	bé	3
 pai	pacoo	3
 ciburà	pitêre	3
 géaa	goo	3
@@ -8668,6 +8674,7 @@ wiàna	jèe	3
 na	pinaanapô	3
 pwiduée	wàijè	3
 patùra	pâ	3
+tàmanga	ma	3
 goro	autâmogòorimuru	3
 taa	ê	3
 uti	kâjè	3
@@ -8845,8 +8852,6 @@ kà	artémis	3
 ipwataâboro	pâ	3
 ukai	faraô	3
 tâmi	ê	3
-jèe	nyu	3
-nyu	côwâ	3
 é	tâmi	3
 du	parawére	3
 na	aupitèpaé	3
@@ -8854,16 +8859,13 @@ wà	philémon	3
 que	a	3
 latest	intern	3
 â	h	3
-ä	ä	3
 ä	ã	3
 â	ãƒæ	3
 ã	ç	3
-šà	à	3
 download	a	3
 yes	you	3
 can	listen	3
 the	future	3
-bao	gá	3
 tất	cả	3
 chia	sẻ	3
 ng	và	3
@@ -8881,7 +8883,6 @@ ng	thiết	3
 n	cho	3
 i	nhất	3
 i	ûgöö	3
-ûgöö	nâ	3
 au	moins	3
 thế	nà	3
 là	äiá	3
@@ -8889,7 +8890,6 @@ ty	cá	3
 ch	vụ	3
 äem	lại	3
 mục	äãch	3
-nh	vá	3
 c	tiếp	3
 camp	tonsafun	3
 again	new	3
@@ -9071,7 +9071,6 @@ enea	è	3
 una	proposizione	3
 get	a	3
 i	was	3
-c	sniffer	3
 value	from	3
 the	atmega	3
 the	command	3
