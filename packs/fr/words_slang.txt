@@ -850,3 +850,9 @@ nazes
 pourri
 rageux
 tanche
+
+# ------------------------------------------- manquants (2026-10-29)
+# Signalé à l'usage : « fiotte » était souligné en rouge et corrigé en
+# « flotte », faute d'exister au dictionnaire.
+fiotte
+fiottes
