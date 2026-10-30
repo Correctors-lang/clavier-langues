@@ -345,7 +345,7 @@ prendre	62616
 rien	61933
 groupe	61698
 moment	61517
-aujourd'hui	61445
+aujourd'hui	61457
 point	61303
 ici	61255
 ensemble	61249
@@ -994,7 +994,7 @@ c	23002
 met	22996
 mets	22996
 n	22975
-d'un	22905
+d'un	22954
 éviter	22878
 études	22817
 laisser	22807
@@ -1253,7 +1253,7 @@ via	21025
 achat	21024
 couleurs	20990
 club	20988
-d'une	20885
+d'une	20930
 couleur	20880
 travailler	20844
 outils	20803
@@ -2032,8 +2032,8 @@ reçu	15447
 davantage	15435
 double	15427
 installation	15398
+qu'il	15381
 compagnie	15357
-qu'il	15351
 valeurs	15351
 enquête	15336
 bonnes	15325
@@ -3034,8 +3034,8 @@ changements	11088
 tes	11068
 ami	11062
 publiques	11062
+n'est	11060
 avantages	11054
-n'est	11053
 violence	11027
 installer	11003
 champ	10997
@@ -6397,9 +6397,9 @@ développons-nous	6383
 développons-toi	6383
 développons-vous	6383
 développons-y	6383
+d'autres	6382
 intelligence	6376
 machines	6372
-d'autres	6367
 clientèle	6364
 offert	6364
 installé	6362
@@ -7977,12 +7977,12 @@ frontière	5296
 appartient	5292
 dangereux	5291
 présentent	5291
+n'a	5286
 passée	5283
 réalise	5283
 réalises	5283
 douche	5281
 civil	5279
-n'a	5279
 procéder	5279
 évident	5275
 empêche	5274
@@ -8106,6 +8106,7 @@ basé	5197
 devis	5197
 intérieure	5191
 accepté	5188
+s'est	5188
 seules	5188
 ressemble	5185
 apprenais-tu	5183
@@ -8211,7 +8212,6 @@ apprenons-toi	5183
 apprenons-vous	5183
 apprenons-y	5183
 exclusivement	5183
-s'est	5183
 étudier	5178
 colère	5175
 dépôt	5173
@@ -9687,6 +9687,7 @@ hauts	4399
 rendent	4399
 soupe	4399
 tapis	4398
+qu'ils	4395
 moto	4394
 comprennent	4393
 foyer	4392
@@ -9794,7 +9795,6 @@ protégez-moi	4392
 protégez-nous	4392
 protégez-toi	4392
 protégez-y	4392
-qu'ils	4391
 chaînes	4390
 québécois	4390
 totalité	4390
@@ -11273,11 +11273,11 @@ crime	4072
 fixer	4071
 label	4071
 pommes	4069
+qu'on	4069
 vies	4067
 odeur	4066
 comparaison	4065
 pratiquer	4065
-qu'on	4063
 extérieure	4061
 relais	4061
 géant	4060
@@ -11390,11 +11390,11 @@ voter	4053
 fonctionner	4051
 connecter	4050
 massif	4050
+d'être	4047
 dates	4047
 e-mail	4047
 riz	4046
 preuves	4045
-d'être	4044
 appelée	4043
 clinique	4043
 consommateur	4040
@@ -13392,9 +13392,9 @@ ordinateurs	3709
 courir	3707
 ultime	3707
 voyez	3707
+jusqu'à	3705
 moi-même	3704
 mélanger	3702
-jusqu'à	3701
 animations	3699
 personnalisé	3697
 consacrée	3696
@@ -15227,6 +15227,7 @@ alliés	3061
 amoureuse	3058
 maillot	3056
 miel	3056
+n'y	3056
 provoque	3056
 provoques	3056
 visibles	3056
@@ -15286,7 +15287,6 @@ respectons-y	3054
 grille	3053
 systématiquement	3053
 distinguer	3052
-n'y	3051
 réunir	3051
 modules	3050
 diffusé	3049
@@ -15438,6 +15438,7 @@ balance	3000
 balancer	3000
 balec	3000
 balek	3000
+bamboula	3000
 banger	3000
 bangers	3000
 baraque	3000
@@ -15455,6 +15456,7 @@ beaufs	3000
 beuh	3000
 beur	3000
 beurette	3000
+beurs	3000
 biberonner	3000
 bicrave	3000
 bicraver	3000
@@ -15471,6 +15473,7 @@ bobo	3000
 bobos	3000
 bolos	3000
 boloss	3000
+bolosse	3000
 bon sang	3000
 bordel	3000
 bordel de merde	3000
@@ -15481,6 +15484,8 @@ boudin	3000
 bouffe	3000
 bouffer	3000
 boug	3000
+bougnoule	3000
+bougnoules	3000
 boulotter	3000
 bouquin	3000
 bouse	3000
@@ -15555,6 +15560,7 @@ chieur	3000
 chieuse	3000
 chill	3000
 chiller	3000
+chinetoque	3000
 chiure	3000
 choper	3000
 chourave	3000
@@ -15686,6 +15692,8 @@ femmelette	3000
 ferme ta gueule	3000
 ferme-la	3000
 fesses	3000
+feuj	3000
+feujs	3000
 fichtre	3000
 fils de pute	3000
 fion	3000
@@ -15859,6 +15867,7 @@ minou	3000
 miskine	3000
 mitard	3000
 mocheté	3000
+mongolien	3000
 monte-en-l'air	3000
 morbleu	3000
 morfaler	3000
@@ -15875,6 +15884,7 @@ mégot	3000
 nabot	3000
 naze	3000
 nazes	3000
+niakoué	3000
 nibard	3000
 nibards	3000
 nichon	3000
@@ -15942,6 +15952,7 @@ poucaver	3000
 pouffe	3000
 pouffiasse	3000
 pouilleux	3000
+poukave	3000
 poulet	3000
 poulets	3000
 pourri	3000
@@ -15979,6 +15990,7 @@ ramdam	3000
 rapiat	3000
 ratpi	3000
 rebeu	3000
+rebeus	3000
 refroidir	3000
 relou	3000
 relous	3000
@@ -15993,6 +16005,7 @@ rien à foutre	3000
 rigoler	3000
 ringard	3000
 rizz	3000
+romano	3000
 rondelle	3000
 roploplo	3000
 roter	3000
@@ -16021,6 +16034,7 @@ saper	3000
 saperlipopette	3000
 sapes	3000
 sapristi	3000
+schlag	3000
 se barrer	3000
 se bourrer	3000
 se carapater	3000
@@ -16081,8 +16095,10 @@ taffe	3000
 taffer	3000
 tais-toi	3000
 tanche	3000
+tantouse	3000
 tapin	3000
 tapiner	3000
+tarlouze	3000
 tarpé	3000
 taré	3000
 tarée	3000
@@ -16118,9 +16134,12 @@ tocard	3000
 tomber dans les pommes	3000
 tranquille	3000
 tranquilou	3000
+trans	3000
+travelo	3000
 tromblon	3000
 tromé	3000
 trou du cul	3000
+trou-du-cul	3000
 trouduc	3000
 troufignon	3000
 troufion	3000
@@ -16135,6 +16154,7 @@ tête de linotte	3000
 tête de mule	3000
 tête de nœud	3000
 tête de pioche	3000
+tête-de-noeud	3000
 t’es sérieux	3000
 va au diable	3000
 va chier	3000
@@ -16159,8 +16179,11 @@ whippin	3000
 wsh	3000
 wtf	3000
 xptdr	3000
+youpin	3000
+youpins	3000
 zapper	3000
 zarbi	3000
+zbeub	3000
 zbeul	3000
 zbi	3000
 zboub	3000
@@ -17662,9 +17685,9 @@ assise	2658
 ios	2658
 panne	2656
 pub	2655
+s'il	2655
 varie	2654
 varies	2654
-s'il	2652
 fiscales	2651
 humidité	2651
 laboratoires	2651
@@ -17911,13 +17934,13 @@ acceptons-nous	2616
 acceptons-toi	2616
 acceptons-vous	2616
 acceptons-y	2616
+l'homme	2615
 prenons	2615
 prisonniers	2615
 individuels	2614
 déterminé	2613
 plume	2613
 territoriale	2613
-l'homme	2612
 placée	2611
 franchise	2610
 garantira-t-elle	2609
@@ -18605,9 +18628,9 @@ camarades	2503
 exclusive	2503
 cherché	2502
 accessibilité	2501
+l'autre	2501
 atteintes	2500
 bible	2500
-l'autre	2499
 sûreté	2499
 cardiaque	2498
 costume	2498
@@ -18690,6 +18713,7 @@ inscrivons-y	2486
 ongles	2486
 dieux	2485
 employeurs	2485
+l'ensemble	2485
 désigné	2484
 empêchais-tu	2484
 empêchait-elle	2484
@@ -18741,7 +18765,6 @@ merveille	2482
 visuelle	2482
 love	2481
 manquent	2481
-l'ensemble	2479
 retours	2479
 auberge	2478
 serrure	2478
@@ -19871,6 +19894,7 @@ gueule	2252
 cliniques	2251
 risquent	2251
 courtes	2250
+l'année	2250
 réuni	2250
 cohésion	2249
 décors	2249
@@ -19934,7 +19958,6 @@ conduisons-y	2247
 conduit-elle	2247
 conduit-il	2247
 conduit-on	2247
-l'année	2247
 vitamine	2247
 sont-ils	2246
 inquiétude	2244
@@ -20091,6 +20114,7 @@ fondre	2216
 progressive	2216
 coiffure	2215
 indices	2215
+l'histoire	2215
 relance	2215
 énergétiques	2215
 entoure	2214
@@ -20157,6 +20181,7 @@ inspirée	2209
 silhouette	2209
 biologiques	2208
 cents	2207
+d'avoir	2207
 départemental	2207
 inviter	2207
 socialistes	2207
@@ -20164,9 +20189,7 @@ sœurs	2207
 coller	2206
 consacre	2206
 consacres	2206
-l'histoire	2206
 sections	2205
-d'avoir	2204
 end	2204
 transformais-tu	2204
 transformait-elle	2204
@@ -20254,13 +20277,13 @@ parisiens	2190
 préalablement	2190
 espérant	2189
 immobiliers	2188
+n'ont	2188
 traversée	2188
 ontario	2187
 peaux	2187
 devriez	2186
 occupent	2185
 c'était	2183
-n'ont	2183
 ores	2183
 bloquer	2182
 expérimentation	2182
@@ -21524,6 +21547,7 @@ approuvé	1988
 digitale	1988
 cuivre	1987
 préfèrent	1987
+qu'à	1987
 évoluais-tu	1987
 évoluait-elle	1987
 évoluait-il	1987
@@ -21574,7 +21598,6 @@ préfèrent	1987
 extrêmes	1986
 intérieurs	1986
 tracé	1986
-qu'à	1985
 saveur	1985
 défend	1984
 défends	1984
@@ -24091,6 +24114,7 @@ petit-déjeuner	1702
 biologie	1701
 casserole	1701
 homogène	1701
+qu'en	1701
 am	1700
 arrivant	1700
 colonie	1700
@@ -24154,7 +24178,6 @@ revoyons-vous	1699
 revoyons-y	1699
 idéalement	1698
 lente	1698
-qu'en	1698
 routière	1698
 soutiennent	1698
 appropriée	1696
@@ -26625,6 +26648,7 @@ enregistrons-nous	1429
 enregistrons-toi	1429
 enregistrons-vous	1429
 enregistrons-y	1429
+l'europe	1429
 armoire	1428
 exploitant	1428
 méchant	1428
@@ -26633,7 +26657,6 @@ respirer	1428
 robuste	1428
 culinaire	1427
 gêne	1427
-l'europe	1427
 brûler	1426
 cancers	1426
 excellentes	1426
@@ -28112,6 +28135,7 @@ confirmons-toi	1330
 confirmons-vous	1330
 confirmons-y	1330
 débattre	1330
+l'intérieur	1330
 nostalgie	1330
 prononcée	1330
 propagation	1330
@@ -28140,7 +28164,6 @@ situer	1327
 suspendre	1327
 escaliers	1326
 exclu	1326
-l'intérieur	1326
 politiciens	1326
 blonde	1325
 bougies	1325
@@ -30721,6 +30744,7 @@ psychologue	1169
 respectives	1169
 simplification	1169
 annonçait	1168
+l'auteur	1168
 priver	1168
 remontée	1168
 avortement	1167
@@ -30901,7 +30925,6 @@ pointes	1157
 collaborateur	1156
 dotées	1156
 féminines	1156
-l'auteur	1156
 moniteur	1156
 peurs	1156
 remontais-tu	1156
@@ -38836,6 +38859,7 @@ verset	821
 âne	821
 causée	820
 digitales	820
+l'est	820
 métaphysique	820
 quais	820
 vainqueurs	820
@@ -38909,7 +38933,6 @@ expérimental	818
 habile	818
 identifiées	818
 justifiée	818
-l'est	818
 moléculaire	818
 pénitentiaire	818
 structurer	818
@@ -41203,6 +41226,7 @@ extrémistes	758
 interdisant	758
 intimement	758
 jugent	758
+l'énergie	758
 rebondissements	758
 rentrant	758
 side	758
@@ -41275,7 +41299,6 @@ géante	756
 incluse	756
 inspecteurs	756
 instauré	756
-l'énergie	756
 respectées	756
 résistante	756
 spirituelles	756
@@ -41960,6 +41983,7 @@ attrayant	740
 experte	740
 ignorent	740
 jouée	740
+l'administration	740
 mondialement	740
 plane	740
 accroîs	739
@@ -41988,7 +42012,6 @@ tremper	739
 being	738
 d'action	738
 entremise	738
-l'administration	738
 paient	738
 rajoutais-tu	738
 rajoutait-elle	738
@@ -44424,6 +44447,7 @@ capitalisation	669
 connecte	669
 connectes	669
 corail	669
+d'où	669
 europa	669
 optimisée	669
 paroisses	669
@@ -44616,7 +44640,6 @@ transférons-y	668
 berges	667
 cabaret	667
 captures	667
-d'où	667
 fascination	667
 habileté	667
 hépatite	667
@@ -45955,6 +45978,7 @@ constats	630
 constructif	630
 contracter	630
 coordonnateur	630
+d'exploitation	630
 doudou	630
 efface-je	630
 efface-la	630
@@ -46089,7 +46113,6 @@ remake	629
 sentence	629
 suffi	629
 coloriage	628
-d'exploitation	628
 efficience	628
 emmenais-tu	628
 emmenait-elle	628
@@ -50528,6 +50551,7 @@ fatiguée	544
 garantissons	544
 give	544
 gouffre	544
+l'usage	544
 manier	544
 marocaines	544
 mercenaires	544
@@ -50581,7 +50605,6 @@ galles	542
 habillée	542
 intrinsèque	542
 inversement	542
-l'usage	542
 modulation	542
 promettent	542
 reconnaissable	542
@@ -55703,6 +55726,7 @@ habillons-vous	461
 habillons-y	461
 interconnexion	461
 jedi	461
+l'onu	461
 ornée	461
 parure	461
 pourpre	461
@@ -56741,7 +56765,6 @@ gaming	447
 handball	447
 homicide	447
 inégalée	447
-l'onu	447
 mecque	447
 mémorisation	447
 notant	447
@@ -58114,6 +58137,7 @@ tree	432
 vidé	432
 ébauche	432
 assurait	431
+d'éviter	431
 dam	431
 déblocage	431
 embout	431
@@ -58210,7 +58234,6 @@ crions-nous	429
 crions-toi	429
 crions-vous	429
 crions-y	429
-d'éviter	429
 diagnostique	429
 dominicaine	429
 douaniers	429
@@ -59599,6 +59622,7 @@ focalise	408
 germanique	408
 glacial	408
 grant	408
+l'exploitation	408
 passible	408
 psychiatriques	408
 recouvrais-tu	408
@@ -59788,7 +59812,6 @@ honorons-toi	405
 honorons-vous	405
 honorons-y	405
 imminent	405
-l'exploitation	405
 lanceurs	405
 liqueur	405
 marient	405
@@ -62487,6 +62510,7 @@ convient-elle	382
 convient-on	382
 corridor	382
 croissantes	382
+d'années	382
 limitrophes	382
 légiférer	382
 manqueront	382
@@ -62679,7 +62703,6 @@ chiots	379
 choléra	379
 cofondateur	379
 comtesse	379
-d'années	379
 d'enfants	379
 divisais-tu	379
 divisait-elle	379
@@ -64423,6 +64446,7 @@ beignets	361
 browser	361
 collent	361
 cpe	361
+d'activités	361
 déguste	361
 dégustes	361
 dérangé	361
@@ -64619,7 +64643,6 @@ citadine	358
 comptera	358
 cutané	358
 cédant	358
-d'activités	358
 donations	358
 délocalisation	358
 enclins	358
@@ -68322,6 +68345,7 @@ i've	318
 immunitaires	318
 implémenter	318
 inaction	318
+l'opinion	318
 l'élection	318
 maigrira-t-elle	318
 maigrira-t-il	318
@@ -68665,7 +68689,6 @@ familiarisons-y	316
 franchie	316
 inacceptables	316
 irritations	316
-l'opinion	316
 lombaire	316
 loués	316
 marginaux	316
@@ -70559,6 +70582,7 @@ dominons-vous	302
 dominons-y	302
 fractions	302
 jetables	302
+l'émission	302
 loyal	302
 misent	302
 peuplent	302
@@ -70697,7 +70721,6 @@ influenceurs	300
 insérez	300
 j'adore	300
 jumeau	300
-l'émission	300
 maastricht	300
 meublée	300
 mms	300
@@ -73743,6 +73766,7 @@ commandos	275
 commentateur	275
 construisez	275
 crypte	275
+d'expérience	275
 déconnexion	275
 dépliant	275
 fertiles	275
@@ -74050,7 +74074,6 @@ bim	273
 cha	273
 contractantes	273
 culpabiliser	273
-d'expérience	273
 dif	273
 déverrouiller	273
 e-réputation	273
@@ -80054,6 +80077,7 @@ invoquons-vous	236
 invoquons-y	236
 ire	236
 l'avoir	236
+l'ouvrage	236
 labellisés	236
 lymphatique	236
 mangeait	236
@@ -80560,7 +80584,6 @@ intactes	233
 invitait	233
 kilogrammes	233
 l'aménagement	233
-l'ouvrage	233
 mime	233
 moelleuse	233
 morgue	233
@@ -87485,6 +87508,8 @@ avançons	200
 bagarres	200
 baignoires	200
 bastions	200
+bigramme	200
+bigrammes	200
 bile	200
 bombardiers	200
 calèche	200
@@ -91571,6 +91596,7 @@ insérées	183
 intimée	183
 jéhovah	183
 l'afp	183
+l'angleterre	183
 metteurs	183
 microscopiques	183
 mousser	183
@@ -92350,7 +92376,6 @@ incitatives	179
 incorporée	179
 inégalable	179
 jaeger-lecoultre	179
-l'angleterre	179
 macération	179
 manchon	179
 mesurables	179
@@ -108806,6 +108831,7 @@ jardinerie	104
 jojo	104
 kongo	104
 l'affiche	104
+l'arme	104
 l'auto	104
 l'internaute	104
 l'éclairage	104
@@ -109201,7 +109227,6 @@ jonchent	102
 jugea	102
 l'accroissement	102
 l'ami	102
-l'arme	102
 l'indique	102
 lag	102
 lagunes	102
@@ -118326,6 +118351,7 @@ l'actu	71
 l'ascension	71
 l'atteinte	71
 l'authenticité	71
+l'esthétique	71
 l'info	71
 l'insuffisance	71
 l'url	71
@@ -119027,7 +119053,6 @@ l'abonné	69
 l'agglomération	69
 l'entremise	69
 l'escalier	69
-l'esthétique	69
 l'expiration	69
 l'incertitude	69
 l'interaction	69
@@ -132594,6 +132619,7 @@ l'agression	44
 l'emporter	44
 l'entité	44
 l'escalade	44
+l'ouganda	44
 l'ouvrier	44
 l'us	44
 l'élu	44
@@ -132978,6 +133004,7 @@ curious	43
 cvthèque	43
 d'ambiance	43
 d'arbitrage	43
+d'il	43
 d'infraction	43
 d'instaurer	43
 d'intelligence	43
@@ -135591,7 +135618,6 @@ l'inconnu	40
 l'indifférence	40
 l'insuline	40
 l'observateur	40
-l'ouganda	40
 l'ouvrir	40
 l'u	40
 labeurs	40
@@ -138162,7 +138188,6 @@ d'authentification	37
 d'edf	37
 d'enquêter	37
 d'entraide	37
-d'il	37
 d'imprimer	37
 d'instructions	37
 d'istanbul	37
@@ -140901,6 +140926,7 @@ burnham	34
 béninoises	34
 bénéteau	34
 c'en	34
+c'est	34
 cabral	34
 cachais	34
 cagliostro	34
@@ -141497,6 +141523,7 @@ l'austérité	34
 l'empêche	34
 l'energie	34
 l'exploit	34
+l'hébergeur	34
 l'improvisation	34
 l'inconscient	34
 l'incroyable	34
@@ -143380,7 +143407,6 @@ désincarnée	32
 désintègre	32
 désintégré	32
 déviés	32
-dʼune	32
 e-marchands	32
 effondrait	32
 efforcerai	32
@@ -144527,7 +144553,6 @@ désœuvrement	31
 détaillait	31
 dévalué	31
 dînez	31
-dʼun	31
 eastman	31
 eastpak	31
 eater	31
@@ -150519,7 +150544,6 @@ l'appelant	27
 l'esclave	27
 l'habillement	27
 l'huître	27
-l'hébergeur	27
 l'incontournable	27
 l'indonésie	27
 l'initiation	27
@@ -159070,7 +159094,6 @@ bérézina	22
 bétis	22
 bétonnées	22
 bêta-testeurs	22
-c'est	22
 cadrait	22
 calculait	22
 calculations	22
@@ -168669,7 +168692,6 @@ dînait	18
 dînent	18
 dôngs	18
 dürrenmatt	18
-dġun	18
 e-gouvernement	18
 e-p	18
 earthcalm	18
@@ -180670,7 +180692,6 @@ quignard	15
 quintiq	15
 quiver	15
 quêter	15
-quʼil	15
 r-type	15
 raad	15
 rabote	15
@@ -183692,7 +183713,6 @@ lèverez	14
 légumières	14
 lénifiantes	14
 lévinas	14
-lġonu	14
 maalox	14
 maat	14
 maboul	14
@@ -186089,7 +186109,6 @@ dévalorisante	13
 déve	13
 dévisagent	13
 dónde	13
-dġune	13
 e-cartes	13
 e-privacy	13
 easyflyer	13
@@ -190106,7 +190125,6 @@ céphéides	12
 cérémoniels	12
 côtoiera	12
 côtoyais	12
-cġest	12
 cœliaques	12
 daad	12
 dacian	12
@@ -192492,7 +192510,6 @@ lévirat	12
 lévodopa	12
 lëtzebuerg	12
 línea	12
-lġauteur	12
 maaloula	12
 mabillon	12
 macaya	12
@@ -193980,7 +193997,6 @@ quirky	12
 quitt	12
 quizaine	12
 quétier	12
-quġil	12
 r-design	12
 r-n	12
 r-truth	12
@@ -197612,7 +197628,6 @@ attristent	10
 atténuateur	10
 audionumérique	10
 augmenterons	10
-aujourdġhui	10
 aulë	10
 auréolées	10
 auscultent	10
@@ -198380,7 +198395,6 @@ déçoive	10
 dînaient	10
 dîner-débat	10
 dût-il	10
-dġautres	10
 ebrié	10
 eckmühl	10
 económicas	10
@@ -206994,9 +207008,7 @@ lévitant	7
 lézignanais	7
 líder	7
 lösung	7
-lġhistoire	7
 lġtat	7
-lʼhébergeur	7
 macromoléculaire	7
 macromolécule	7
 madénian	7
@@ -207393,8 +207405,6 @@ néphropathies	7
 néphrotique	7
 númenor	7
 nüüd	7
-nġa	7
-nġest	7
 obeïssance	7
 objectivent	7
 objectivés	7
@@ -210345,7 +210355,6 @@ dupliquent	6
 durcissements	6
 durât	6
 duègne	6
-dáil	6
 dâă	6
 déballées	6
 débande	6
@@ -211311,7 +211320,6 @@ lézardés	6
 líneas	6
 löwy	6
 lützen	6
-lāensemble	6
 macramés	6
 macrorégion	6
 macère	6
@@ -211911,7 +211919,6 @@ quiétisme	6
 québec-est	6
 quémeneur	6
 quérable	6
-quġon	6
 rabattait	6
 rabâchée	6
 raccrochai	6
@@ -213997,7 +214004,6 @@ dévotionnels	5
 dévoûment	5
 dézippé	5
 dézoner	5
-díautres	5
 dîner-concert	5
 dîner-gala	5
 dînerez	5
@@ -215122,8 +215128,6 @@ néoconfucianisme	5
 néodémocrates	5
 néogéographie	5
 néophite	5
-nġont	5
-nġy	5
 oblitérées	5
 obscurcirent	5
 observeraient	5
@@ -216202,7 +216206,6 @@ sétifiens	5
 sévirait	5
 sêcher	5
 sôtô	5
-sġest	5
 tabassées	5
 taclée	5
 taffé	5
@@ -221917,7 +221920,6 @@ jureront	4
 juridicité	4
 jusq'à	4
 jusqu''à	4
-jusquʼà	4
 jussiê	4
 justacoté	4
 justiciabilité	4
@@ -222334,10 +222336,7 @@ lîle-de-france	4
 lóczy	4
 lörrach	4
 lüpertz	4
-lġangleterre	4
 lġintrieur	4
-lġouganda	4
-lʼintérieur	4
 maalé	4
 maccabée	4
 machiavélien	4
@@ -224619,7 +224618,6 @@ quésaco	4
 quétaines	4
 quételet	4
 químicos	4
-quġils	4
 qâdjâr	4
 qâdjârs	4
 qâf	4
@@ -230451,12 +230449,8 @@ döbeln	3
 dölf	3
 dûrent	3
 dübendorf	3
-dġavoir	3
 dōjutsu	3
 džeko	3
-dʼactivités	3
-dʼannées	3
-dʼêtre	3
 e-médecine	3
 e-médias	3
 e-stratégie	3
@@ -232282,11 +232276,7 @@ lösen	3
 lössl	3
 lúmine	3
 lġavaplammar	3
-lġexploitation	3
-lġhomme	3
-lġouvrage	3
 lġpoque	3
-lʼannée	3
 ma-cuvée	3
 maasaïs	3
 mabidé	3
@@ -234068,8 +234058,6 @@ québéco	3
 quélen	3
 quémandé	3
 quétigny	3
-quíil	3
-quġen	3
 qûnawî	3
 r-aléatoire	3
 rabattaient	3
@@ -235448,7 +235436,6 @@ sôurat	3
 sörenstam	3
 sürlawerla	3
 süß	3
-sġil	3
 tabaré	3
 table-rondes	3
 tabé	3
@@ -237390,7 +237377,6 @@ augmenterais	2
 augmenterions	2
 augura	2
 augurais	2
-aujourdāhui	2
 auksinė	2
 auprèsdes	2
 aurait-ils	2
@@ -240504,11 +240490,7 @@ dût-on	2
 dürfen	2
 dürr	2
 dębica	2
-dġexploitation	2
 dōmatchatm	2
-dʼexpérience	2
-dʼoù	2
-dʼéviter	2
 e-co-système	2
 e-commerçante	2
 e-communauté	2
@@ -243429,21 +243411,10 @@ lúthien	2
 lübbe	2
 lüdenscheid	2
 lützow	2
-lāhistoire	2
-lġadministration	2
-lġarme	2
-lġautre	2
-lġest	2
-lġeurope	2
 lġextrieur	2
 lġintrt	2
-lġopinion	2
-lġusage	2
 lġçopration	2
 lĩnh	2
-lʼesthétique	2
-lʼémission	2
-lʼénergie	2
 ma'sûm	2
 ma'âshî	2
 macadamisé	2
@@ -246350,7 +246321,6 @@ quéro	2
 quétineau	2
 quézaco	2
 química	2
-quʼà	2
 quốc	2
 qâdî	2
 qédochim	2

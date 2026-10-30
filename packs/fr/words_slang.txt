@@ -856,3 +856,33 @@ tanche
 # « flotte », faute d'exister au dictionnaire.
 fiotte
 fiottes
+
+# Signalés à l'usage le 2026-10-30 : « bougnoule » était souligné en rouge.
+# Mesure faite sur 113 insultes courantes du français — 23 manquaient, presque
+# toutes des injures ethniques, et c'est précisément la famille que le corpus
+# du web filtre le plus. Un correcteur décrit l'usage, il ne l'approuve pas :
+# souligner ces mots comme des fautes de frappe est une erreur de métier, et
+# proposer « bordeaux » à qui tape « bougnoule » en est une autre.
+bougnoule
+bougnoules
+bamboula
+youpin
+youpins
+feuj
+feujs
+rebeus
+beurs
+romano
+niakoué
+chinetoque
+tarlouze
+tantouse
+travelo
+trans
+bolosse
+poukave
+zbeub
+schlag
+tête-de-noeud
+trou-du-cul
+mongolien
