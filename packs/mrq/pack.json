@@ -3,5 +3,9 @@
   "name": "ʻEo ʻenana",
   "locale": "mrq-PF",
   "version": 1,
-  "inherits": "ty"
+  "inherits": "ty",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
 }

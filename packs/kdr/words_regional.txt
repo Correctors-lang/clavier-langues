@@ -1,0 +1,7 @@
+# Vocabulaire propre à kdr : kdr_Latn (ODC-By), mots absents de crh.
+# Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
+äşirap	7
+ücziuń	6
+jylynda	6
+mień	5
+oł	5

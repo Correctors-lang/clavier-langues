@@ -3,5 +3,9 @@
   "name": "عربي تشادي (Sudan)",
   "locale": "shu-SD",
   "version": 1,
-  "inherits": "shu"
+  "inherits": "shu",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
 }

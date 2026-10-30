@@ -5,7 +5,7 @@ sources ci-dessous, dont les licences demandent d'être citées :
 
 - FineWeb-2 (Hugging Face) — ODC-By 1.0 — https://huggingface.co/datasets/HuggingFaceFW/fineweb-2
   extrait d'octobre 2026
-  utilisé par : ab, abq, abt, ace, acf, acu, ada, ady, af, agg, agr, ajg … (428 packs)
+  utilisé par : ab, abq, abt, ace, acf, acu, ada, ady, aeb-dz, aeb-ly, af, agg … (460 packs)
 - FineWeb (Hugging Face, anglais) — ODC-By 1.0 — https://huggingface.co/datasets/HuggingFaceFW/fineweb
   extrait d'octobre 2026
   utilisé par : en
@@ -39,4 +39,4 @@ sources ci-dessous, dont les licences demandent d'être citées :
   extrait le 15 octobre 2026
   utilisé par : ca, es
 - Clavier AZERTY (travail original) — MIT
-  utilisé par : acf-dm, ar-ae, ar-bh, ar-dj, ar-dz, ar-eg, ar-iq, ar-jo, ar-km, ar-kw, ar-lb, ar-ly … (99 packs)
+  utilisé par : acf-dm, aeb-dz, aeb-ly, ar-ae, ar-bh, ar-dj, ar-dz, ar-eg, ar-iq, ar-jo, ar-km, ar-kw … (131 packs)

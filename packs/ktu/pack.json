@@ -3,5 +3,9 @@
   "name": "Kituba",
   "locale": "ktu-CD",
   "version": 1,
-  "inherits": "kg"
+  "inherits": "kg",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
 }

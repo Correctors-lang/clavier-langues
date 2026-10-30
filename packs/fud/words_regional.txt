@@ -1,0 +1,6 @@
+# Vocabulaire propre à fud : fud_Latn (ODC-By), mots absents de sm.
+# Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
+leia	6
+pule’aga	5
+seova	5
+leinei	5

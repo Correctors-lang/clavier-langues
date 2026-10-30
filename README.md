@@ -29,7 +29,7 @@ qui GARDENT la licence d'origine (voir `REUSE.toml` et `LICENSES/`).
 - Licence conservée : `ODC-By-1.0`
 - Repris : les textes, d'où sont comptés les mots et les suites de mots
 - Modifié : listes de fréquences par langue, bruit et fautes écartés
-- Packs : ab, abq, abt, ace, acf, acu, ada, ady, af, agg, agr, ajg, aji, ak, am, amu, an, ar, ar-ae, ar-bh …
+- Packs : ab, abq, abt, ace, acf, acu, ada, ady, aeb-dz, aeb-ly, af, agg, agr, ajg, aji, ak, am, amu, an, ar …
 
 ### FineWeb (Hugging Face, anglais)
 - Origine : https://huggingface.co/datasets/HuggingFaceFW/fineweb — Hugging Face

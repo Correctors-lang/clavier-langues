@@ -1,0 +1,20 @@
+# Vocabulaire propre à ktu : ktu_Latn (ODC-By), mots absents de kg.
+# Généré par tools/generateurs/build_corpus_packs.py — ne pas éditer à la main.
+pe	53
+yinza	32
+vuandaka	27
+n’a	15
+ina	15
+vwandaka	9
+ayi	9
+c’est	9
+se	9
+ná	7
+ngola	7
+va	6
+je	6
+nnene	6
+vie	6
+yinda	5
+kasi	5
+bântu	5

@@ -3,5 +3,9 @@
   "name": "Ayakuchu runasimi",
   "locale": "quy-PE",
   "version": 1,
-  "inherits": "qu"
+  "inherits": "qu",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
 }

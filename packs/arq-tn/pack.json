@@ -3,5 +3,9 @@
   "name": "العربية (Tunisia)",
   "locale": "arq-TN",
   "version": 1,
-  "inherits": "ar-dz"
+  "inherits": "ar-dz",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
 }

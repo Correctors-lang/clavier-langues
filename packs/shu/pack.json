@@ -3,5 +3,9 @@
   "name": "عربي تشادي",
   "locale": "shu-TD",
   "version": 1,
-  "inherits": "ar-sd"
+  "inherits": "ar-sd",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
 }

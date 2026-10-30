@@ -3,5 +3,9 @@
   "name": "Mfantse",
   "locale": "fat-GH",
   "version": 1,
-  "inherits": "ak"
+  "inherits": "ak",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
 }

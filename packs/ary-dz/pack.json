@@ -3,5 +3,9 @@
   "name": "العربية (Algeria)",
   "locale": "ary-DZ",
   "version": 1,
-  "inherits": "ar-ma"
+  "inherits": "ar-ma",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
 }

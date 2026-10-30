@@ -3,5 +3,9 @@
   "name": "Koyraboro senni",
   "locale": "ses-ML",
   "version": 1,
-  "inherits": "dje"
+  "inherits": "dje",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
 }

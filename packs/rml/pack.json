@@ -3,5 +3,9 @@
   "name": "Romani (Baltic)",
   "locale": "rml-PL",
   "version": 1,
-  "inherits": "rmn"
+  "inherits": "rmn",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
 }

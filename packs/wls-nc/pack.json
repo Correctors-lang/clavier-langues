@@ -3,5 +3,9 @@
   "name": "Fakaʻuvea (New Caledonia)",
   "locale": "wls-NC",
   "version": 1,
-  "inherits": "wls"
+  "inherits": "wls",
+  "files": {
+    "regionalWords": "words_regional.txt",
+    "regionalBigrams": "bigrams_regional.txt"
+  }
 }
