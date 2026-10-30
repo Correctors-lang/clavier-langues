@@ -46244,6 +46244,7 @@ malédiction	625
 nautique	625
 prose	625
 prototypes	625
+python	625
 quatuor	625
 redonne	625
 routeur	625
@@ -66548,6 +66549,7 @@ kiosques	337
 l'augmentation	337
 lorsqu'on	337
 magnitude	337
+mistral	337
 montraient	337
 mélangés	337
 n'aurait	337
@@ -87474,6 +87476,7 @@ accalmie	200
 accroc	200
 accusait	200
 allégement	200
+anthropic	200
 appréhendé	200
 appuyait	200
 arrachée	200
@@ -87489,6 +87492,7 @@ caméléon	200
 caucus	200
 cells	200
 chanoine	200
+chatgpt	200
 chiffrage	200
 ciblent	200
 cime	200
@@ -87533,6 +87537,7 @@ fortifié	200
 foulards	200
 fourrés	200
 fu	200
+gitlab	200
 gouttière	200
 hameçon	200
 hausser	200
@@ -87543,9 +87548,12 @@ intermittence	200
 intériorité	200
 jeunesses	200
 jeûner	200
+kotlin	200
+kubernetes	200
 l'aise	200
 l'attaque	200
 l'équipement	200
+llama	200
 magnat	200
 marasme	200
 mi-journée	200
@@ -87560,6 +87568,7 @@ nominés	200
 oeb	200
 oeuvrent	200
 onction	200
+openai	200
 orwell	200
 paradisiaques	200
 parrainages	200
@@ -87595,6 +87604,7 @@ stimulus	200
 synthé	200
 sédentaires	200
 tiers-monde	200
+tiktok	200
 tip	200
 tissent	200
 torturer	200
@@ -87602,6 +87612,7 @@ toxine	200
 transversaux	200
 trouveraient	200
 tuner	200
+typescript	200
 visez	200
 voilure	200
 written	200
