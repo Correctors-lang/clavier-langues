@@ -434,6 +434,62 @@
       "pattern": "\\bpar (ci|là|la) par (ci|là|la)\\b",
       "message": "« par-ci par-là » prend des tirets",
       "replace": "par-$1 par-$2"
+    },
+    {
+      "id": "parce-que-soude",
+      "flags": "i",
+      "pattern": "\\bparceque\\b",
+      "message": "« parce que » s'écrit en deux mots",
+      "replace": "parce que"
+    },
+    {
+      "id": "bien-sur-soude",
+      "flags": "i",
+      "pattern": "\\bbiens(ûr|ur)\\b",
+      "message": "« bien sûr » s'écrit en deux mots",
+      "replace": "bien sûr"
+    },
+    {
+      "id": "au-dessus-soude",
+      "flags": "i",
+      "pattern": "\\b(au|là|ci|en)(dessus|dessous|dedans|dehors|devant|delà)\\b",
+      "message": "ces adverbes prennent un trait d'union",
+      "replace": "$1-$2"
+    },
+    {
+      "id": "meme-soude",
+      "flags": "i",
+      "pattern": "\\b(elles|moi|toi|lui|elle|soi|nous|vous|eux)(mêmes|même)\\b",
+      "message": "« -même » prend un trait d'union",
+      "replace": "$1-$2"
+    },
+    {
+      "id": "celui-ci-soude",
+      "flags": "i",
+      "pattern": "\\b(celui|celles|celle|ceux)(ci|là)\\b",
+      "message": "« celui-ci », « celle-là » prennent un trait d'union",
+      "replace": "$1-$2"
+    },
+    {
+      "id": "apres-midi-soude",
+      "flags": "i",
+      "pattern": "\\baprèsmidis?\\b",
+      "message": "« après-midi » prend un trait d'union",
+      "replace": "après-midi"
+    },
+    {
+      "id": "la-bas-soude",
+      "flags": "i",
+      "pattern": "\\blàbas\\b",
+      "message": "« là-bas » prend un trait d'union",
+      "replace": "là-bas"
+    },
+    {
+      "id": "rendez-vous-soude",
+      "flags": "i",
+      "pattern": "\\brendezvous\\b",
+      "message": "« rendez-vous » prend un trait d'union",
+      "replace": "rendez-vous"
     }
   ],
   "confusions": [
