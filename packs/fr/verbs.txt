@@ -80363,7 +80363,6 @@ maintint	maintenir	ind:pas:3s
 maintînmes	maintenir	ind:pas:1p
 maintînt	maintenir	sub:imp:3s
 maintîntes	maintenir	ind:pas:2p
-mais	maître	imp:pre:2s,ind:pre:1s,ind:pre:2s
 maissaient	maître	ind:imp:3p
 maissais	maître	ind:imp:1s,ind:imp:2s
 maissait	maître	ind:imp:3s

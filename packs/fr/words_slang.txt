@@ -886,3 +886,41 @@ schlag
 tête-de-noeud
 trou-du-cul
 mongolien
+
+# Vocabulaire adulte, absent du corpus : FineWeb-2 écarte les documents
+# pour adultes, si bien que « porno » n'était NULLE PART dans le pack
+# français — souligné en rouge, avec « porto » et « borno » en face
+# (capture du 2026-11-12, 23:59). Les mots crus, eux, y étaient déjà :
+# ce n'est pas une censure, c'est un trou de corpus.
+porno
+pornos
+porn
+pornographie
+pornographique
+pornographiques
+hardcore
+sexto
+sextos
+nudes
+zguegue
+
+# Noms de modèles et de fournisseurs d'IA, et le vocabulaire qui va avec.
+# Le clavier propose lui-même de brancher Gemini, Grok, ChatGPT et Mistral :
+# il serait absurde qu'il souligne leurs noms. Relevé le 2026-11-13 —
+# « le dictionnaire ne connaît pas grok ? ». Non : « grok », « groq » et
+# « deepseek » manquaient, là où « gemini », « chatgpt », « mistral »,
+# « openai » et « anthropic » étaient déjà dans la grande liste.
+grok
+groq
+deepseek
+perplexity
+qwen
+gpt
+gguf
+huggingface
+mixtral
+gemma
+salamandra
+tokenizer
+embedding
+quantisation
