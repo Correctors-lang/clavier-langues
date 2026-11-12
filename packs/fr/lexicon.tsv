@@ -274,12 +274,12 @@ abjurées	abjurer	VER	f	p
 abjurés	abjurer	VER	m	p
 ablation	ablation	NOM	f	s
 ablations	ablation	NOM	f	p
-ablution	ablution	NOM	-	s
+ablution	ablution	NOM	f	s
 ablutions	ablution	NOM	-	p
 aboi	aboi	NOM	-	s
 aboie	aboyer	VER	-	-
 aboiement	aboiement	ADV	-	-
-aboiement	aboiement	NOM	-	s
+aboiement	aboiement	NOM	m	s
 aboiements	aboiement	NOM	-	p
 aboient	aboyer	VER	-	-
 aboiera	aboyer	VER	-	-
@@ -553,7 +553,7 @@ aboyées	aboyer	VER	f	p
 aboyés	aboyer	VER	m	p
 abrasif	abrasif	NOM	-	s
 abrasifs	abrasif	NOM	-	p
-abrasion	abrasion	NOM	-	s
+abrasion	abrasion	NOM	f	s
 abrasions	abrasion	NOM	-	p
 abreuva	abreuver	VER	-	-
 abreuvai	abreuver	VER	-	-
@@ -1344,7 +1344,7 @@ acclamassent	acclamer	VER	-	-
 acclamasses	acclamer	VER	-	-
 acclamassiez	acclamer	VER	-	-
 acclamassions	acclamer	VER	-	-
-acclamation	acclamation	NOM	-	s
+acclamation	acclamation	NOM	f	s
 acclamations	acclamation	NOM	-	p
 acclame	acclamer	VER	-	-
 acclament	acclament	ADV	-	-
@@ -1413,7 +1413,7 @@ acclimaté	acclimater	VER	m	s
 acclimatée	acclimater	VER	f	s
 acclimatées	acclimater	VER	f	p
 acclimatés	acclimater	VER	m	p
-accointance	accointance	NOM	-	s
+accointance	accointance	NOM	f	s
 accointances	accointance	NOM	-	p
 accola	accoler	VER	-	-
 accolade	accolade	NOM	f	s
@@ -1470,7 +1470,7 @@ accommodassiez	accommoder	VER	-	-
 accommodassions	accommoder	VER	-	-
 accommode	accommoder	VER	-	-
 accommodement	accommodement	ADV	-	-
-accommodement	accommodement	NOM	-	s
+accommodement	accommodement	NOM	m	s
 accommodements	accommodement	NOM	-	p
 accommodent	accommoder	VER	-	-
 accommoder	accommoder	VER	-	-
@@ -2020,7 +2020,7 @@ accréditassent	accréditer	VER	-	-
 accréditasses	accréditer	VER	-	-
 accréditassiez	accréditer	VER	-	-
 accréditassions	accréditer	VER	-	-
-accréditation	accréditation	NOM	-	s
+accréditation	accréditation	NOM	f	s
 accréditations	accréditation	NOM	-	p
 accrédite	accréditer	VER	-	-
 accréditent	accréditer	VER	-	-
@@ -2151,7 +2151,7 @@ accumulassent	accumuler	VER	-	-
 accumulasses	accumuler	VER	-	-
 accumulassiez	accumuler	VER	-	-
 accumulassions	accumuler	VER	-	-
-accumulateur	accumulateur	NOM	-	s
+accumulateur	accumulateur	NOM	m	s
 accumulateurs	accumulateur	NOM	-	p
 accumulation	accumulation	NOM	f	s
 accumulations	accumulation	NOM	-	p
@@ -2643,7 +2643,7 @@ acquisisses	acquire	VER	-	-
 acquisissiez	acquire	VER	-	-
 acquisissions	acquire	VER	-	-
 acquisit	acquire	VER	-	-
-acquisition	acquisition	NOM	-	s
+acquisition	acquisition	NOM	f	s
 acquisitions	acquisition	NOM	-	p
 acquisons	acquire	VER	-	-
 acquisse	acquérir	VER	-	-
@@ -3454,9 +3454,9 @@ adorassent	adorer	VER	-	-
 adorasses	adorer	VER	-	-
 adorassiez	adorer	VER	-	-
 adorassions	adorer	VER	-	-
-adorateur	adorateur	NOM	-	s
+adorateur	adorateur	NOM	m	s
 adorateurs	adorateur	NOM	-	p
-adoration	adoration	NOM	-	s
+adoration	adoration	NOM	f	s
 adorations	adoration	NOM	-	p
 adore	adorer	VER	-	-
 adorent	adorer	VER	-	-
@@ -4880,7 +4880,7 @@ agissait	agir	VER	-	-
 agissant	agir	VER	-	-
 agisse	agir	VER	-	-
 agissement	agissement	ADV	-	-
-agissement	agissement	NOM	-	s
+agissement	agissement	NOM	m	s
 agissements	agissement	NOM	-	p
 agissent	agir	VER	-	-
 agisses	agir	VER	-	-
@@ -5335,7 +5335,7 @@ aguerrit	aguerrir	VER	-	-
 aguerrîmes	aguerrir	VER	-	-
 aguerrît	aguerrir	VER	-	-
 aguerrîtes	aguerrir	VER	-	-
-aguet	aguet	NOM	-	s
+aguet	aguet	NOM	m	s
 aguets	aguet	NOM	-	p
 agîmes	agir	VER	-	-
 agît	agir	VER	-	-
@@ -6407,7 +6407,7 @@ allée	allée	NOM	-	s
 allées	aller	VER	f	p
 allées	allé	ADJ	f	p
 allées	allé	NOM	-	p
-allégation	allégation	NOM	-	s
+allégation	allégation	NOM	f	s
 allégations	allégation	NOM	-	p
 allégea	alléger	VER	-	-
 allégeai	alléger	VER	-	-
@@ -6422,7 +6422,7 @@ allégeasses	alléger	VER	-	-
 allégeassiez	alléger	VER	-	-
 allégeassions	alléger	VER	-	-
 allégement	allégement	ADV	-	-
-allégement	allégement	NOM	-	s
+allégement	allégement	NOM	m	s
 allégements	allégement	NOM	-	p
 allégeons	alléger	VER	-	-
 alléger	alléger	VER	-	-
@@ -7252,7 +7252,7 @@ amortissait	amortir	VER	-	-
 amortissant	amortir	VER	-	-
 amortisse	amortir	VER	-	-
 amortissement	amortissement	ADV	-	-
-amortissement	amortissement	NOM	-	s
+amortissement	amortissement	NOM	m	s
 amortissements	amortissement	NOM	-	p
 amortissent	amortir	VER	-	-
 amortisses	amortir	VER	-	-
@@ -7358,7 +7358,7 @@ amplifiées	amplifié	ADJ	f	p
 amplifiés	amplifier	VER	m	p
 amplifiés	amplifié	ADJ	e	p
 amplis	ampli	NOM	-	p
-amplitude	amplitude	NOM	-	s
+amplitude	amplitude	NOM	f	s
 amplitudes	amplitude	NOM	-	p
 ampls	ampl	ADJ	m	p
 ampoule	ampoule	NOM	f	s
@@ -7534,7 +7534,7 @@ aménageassent	aménager	VER	-	-
 aménageasses	aménager	VER	-	-
 aménageassiez	aménager	VER	-	-
 aménageassions	aménager	VER	-	-
-aménagement	aménagement	NOM	-	s
+aménagement	aménagement	NOM	m	s
 aménagements	aménagement	NOM	-	p
 aménagent	aménager	VER	-	-
 aménageons	aménager	VER	-	-
@@ -7892,7 +7892,7 @@ anglaises	anglais	ADJ	f	p
 anglaises	anglais	NOM	f	p
 angle	angle	NOM	m	s
 angles	angle	NOM	-	p
-anglicisme	anglicisme	NOM	-	s
+anglicisme	anglicisme	NOM	m	s
 anglicismes	anglicisme	NOM	-	p
 anglo-saxon	anglo-saxon	NOM	-	s
 anglo-saxons	anglo-saxon	NOM	-	p
@@ -7958,7 +7958,7 @@ animaient	animer	VER	-	-
 animais	animer	VER	-	-
 animait	animer	VER	-	-
 animal	animal	NOM	m	s
-animalerie	animalerie	NOM	-	s
+animalerie	animalerie	NOM	f	s
 animaleries	animalerie	NOM	-	p
 animant	animer	VER	-	-
 animas	animer	VER	-	-
@@ -8182,7 +8182,7 @@ annotassent	annoter	VER	-	-
 annotasses	annoter	VER	-	-
 annotassiez	annoter	VER	-	-
 annotassions	annoter	VER	-	-
-annotation	annotation	NOM	-	s
+annotation	annotation	NOM	f	s
 annotations	annotation	NOM	-	p
 annote	annoter	VER	-	-
 annotent	annoter	VER	-	-
@@ -8228,7 +8228,7 @@ annulassent	annuler	VER	-	-
 annulasses	annuler	VER	-	-
 annulassiez	annuler	VER	-	-
 annulassions	annuler	VER	-	-
-annulation	annulation	NOM	-	s
+annulation	annulation	NOM	f	s
 annulations	annulation	NOM	-	p
 annule	annuler	VER	-	-
 annulent	annuler	VER	-	-
@@ -8375,7 +8375,7 @@ anormaux	anormal	ADJ	m	p
 ans	an	NOM	m	p
 anse	anse	NOM	f	s
 anses	ans	NOM	-	p
-antagonisme	antagonisme	NOM	-	s
+antagonisme	antagonisme	NOM	m	s
 antagonismes	antagonisme	NOM	-	p
 antagoniste	antagoniste	NOM	m	s
 antagonistes	antagonist	NOM	-	p
@@ -8415,7 +8415,7 @@ anticipassent	anticiper	VER	-	-
 anticipasses	anticiper	VER	-	-
 anticipassiez	anticiper	VER	-	-
 anticipassions	anticiper	VER	-	-
-anticipation	anticipation	NOM	-	s
+anticipation	anticipation	NOM	f	s
 anticipations	anticipation	NOM	-	p
 anticipe	anticiper	VER	-	-
 anticipent	anticiper	VER	-	-
@@ -9230,7 +9230,7 @@ applaudissait	applaudir	VER	-	-
 applaudissant	applaudir	VER	-	-
 applaudisse	applaudir	VER	-	-
 applaudissement	applaudissement	ADV	-	-
-applaudissement	applaudissement	NOM	-	s
+applaudissement	applaudissement	NOM	m	s
 applaudissements	applaudissement	NOM	-	p
 applaudissent	applaudir	VER	-	-
 applaudisses	applaudir	VER	-	-
@@ -9242,10 +9242,10 @@ applaudit	applaudir	VER	-	-
 applaudîmes	applaudir	VER	-	-
 applaudît	applaudir	VER	-	-
 applaudîtes	applaudir	VER	-	-
-applet	applet	NOM	-	s
+applet	applet	NOM	m	s
 applets	applet	NOM	-	p
 appli	appli	NOM	e	s
-appliance	appliance	NOM	-	s
+appliance	appliance	NOM	f	s
 appliances	appliance	NOM	-	p
 applicable	applicable	ADJ	e	s
 applicables	applicable	ADJ	e	p
@@ -10278,7 +10278,7 @@ armassent	armer	VER	-	-
 armasses	armer	VER	-	-
 armassiez	armer	VER	-	-
 armassions	armer	VER	-	-
-armateur	armateur	NOM	-	s
+armateur	armateur	NOM	m	s
 armateurs	armateur	NOM	-	p
 armature	armature	NOM	f	s
 armatures	armature	NOM	-	p
@@ -10597,7 +10597,7 @@ arrivées	arrivé	ADJ	f	p
 arrivées	arrivé	NOM	-	p
 arrivés	arriver	VER	m	p
 arrivés	arrivé	ADJ	e	p
-arrière	arrière	NOM	-	s
+arrière	arrière	NOM	f	s
 arrière-grand-père	arrière-grand-père	NOM	m	s
 arrière-grand-pères	arrière-grand-père	NOM	m	p
 arrière-plan	arrière-plan	NOM	m	s
@@ -10835,7 +10835,7 @@ articulés	articulé	ADJ	m	p
 artifice	artifice	NOM	m	s
 artifices	artifice	NOM	-	p
 artificiellement	artificiellement	ADV	-	-
-artillerie	artillerie	NOM	-	s
+artillerie	artillerie	NOM	f	s
 artilleries	artillerie	NOM	-	p
 artisan	artisan	NOM	m	s
 artisanalement	artisanalement	ADV	-	-
@@ -11283,7 +11283,7 @@ asservîtes	asservir	VER	-	-
 assesseur	assesseur	NOM	-	s
 assesseurs	assesseur	NOM	-	p
 assessment	assessment	ADV	-	-
-asset	asset	NOM	-	s
+asset	asset	NOM	m	s
 assets	asset	NOM	-	p
 asseyaient	asseoir	VER	-	-
 asseyais	asseoir	VER	-	-
@@ -12214,7 +12214,7 @@ ateras	ater	VER	-	-
 aterez	ater	VER	-	-
 ateriez	ater	VER	-	-
 aterions	ater	VER	-	-
-atermoiement	atermoiement	NOM	-	s
+atermoiement	atermoiement	NOM	m	s
 atermoiements	atermoiement	NOM	-	p
 aterons	ater	VER	-	-
 ateront	ater	VER	-	-
@@ -13008,7 +13008,7 @@ attribuiez	attribuer	VER	-	-
 attribuions	attribuer	VER	-	-
 attribuons	attribuer	VER	-	-
 attribut	attribut	NOM	m	s
-attribution	attribution	NOM	-	s
+attribution	attribution	NOM	f	s
 attributions	attribution	NOM	-	p
 attributs	attribut	NOM	-	p
 attribuâmes	attribuer	VER	-	-
@@ -13291,7 +13291,7 @@ augerions	auger	VER	-	-
 augerons	auger	VER	-	-
 augeront	auger	VER	-	-
 auges	auger	VER	-	-
-auget	auget	NOM	-	s
+auget	auget	NOM	m	s
 augets	auget	NOM	-	p
 augez	auger	VER	-	-
 augeâmes	auger	VER	-	-
@@ -14414,7 +14414,7 @@ avortasses	avorter	VER	-	-
 avortassiez	avorter	VER	-	-
 avortassions	avorter	VER	-	-
 avorte	avorter	VER	-	-
-avortement	avortement	NOM	-	s
+avortement	avortement	NOM	m	s
 avortements	avortement	NOM	-	p
 avortent	avorter	VER	-	-
 avorter	avorter	VER	-	-
@@ -15343,7 +15343,7 @@ balbutiassiez	balbutier	VER	-	-
 balbutiassions	balbutier	VER	-	-
 balbutie	balbutier	VER	-	-
 balbutiement	balbutiement	ADV	-	-
-balbutiement	balbutiement	NOM	-	s
+balbutiement	balbutiement	NOM	m	s
 balbutiements	balbutiement	NOM	-	p
 balbutient	balbutier	VER	-	-
 balbutier	balbutier	VER	-	-
@@ -15467,7 +15467,7 @@ ballon	ballon	NOM	m	s
 ballonnement	ballonnement	ADV	-	-
 ballons	ballon	NOM	-	p
 ballot	ballot	ADJ	m	s
-ballot	ballot	NOM	-	s
+ballot	ballot	NOM	m	s
 ballote	ballot	ADJ	f	s
 ballotes	ballot	ADJ	f	p
 ballots	ballot	ADJ	m	p
@@ -16629,7 +16629,7 @@ beez	beer	VER	-	-
 beiez	beer	VER	-	-
 beige	beige	NOM	m	s
 beiges	beige	NOM	m	p
-beignet	beignet	NOM	-	s
+beignet	beignet	NOM	m	s
 beignets	beignet	NOM	-	p
 beions	beer	VER	-	-
 bel	bel	ADJ	m	s
@@ -16700,7 +16700,7 @@ bercerions	bercer	VER	-	-
 bercerons	bercer	VER	-	-
 berceront	bercer	VER	-	-
 berces	bercer	VER	-	-
-berceuse	berceuse	NOM	-	s
+berceuse	berceuse	NOM	f	s
 berceuses	berceuse	NOM	-	p
 bercez	bercer	VER	-	-
 berciez	bercer	VER	-	-
@@ -16787,7 +16787,7 @@ berlineront	berliner	VER	-	-
 berlines	berlin	NOM	-	p
 berlines	berliner	VER	-	-
 berlinez	berliner	VER	-	-
-berlingot	berlingot	NOM	-	s
+berlingot	berlingot	NOM	m	s
 berlingots	berlingot	NOM	-	p
 berliniez	berliner	VER	-	-
 berlinions	berliner	VER	-	-
@@ -17048,7 +17048,7 @@ biaisé	biaiser	VER	m	s
 biaisée	biaiser	VER	f	s
 biaisées	biaiser	VER	f	p
 biaisés	biaiser	VER	m	p
-bibelot	bibelot	NOM	-	s
+bibelot	bibelot	NOM	m	s
 bibelots	bibelot	NOM	-	p
 biberon	biberon	NOM	m	s
 biberons	biberon	NOM	-	p
@@ -17846,7 +17846,7 @@ blessés	blesser	VER	m	p
 blessés	blessé	ADJ	m	p
 blessés	blessé	NOM	-	p
 bleu	bleu	NOM	m	s
-bleuet	bleuet	NOM	-	s
+bleuet	bleuet	NOM	m	s
 bleuets	bleuet	NOM	-	p
 bleus	bleu	NOM	-	p
 blind	blind	NOM	-	s
@@ -18251,7 +18251,7 @@ bois	boire	VER	-	-
 bois	bois	NOM	m	s
 boisement	boisement	NOM	m	s
 boisements	boisement	NOM	m	p
-boiserie	boiserie	NOM	-	s
+boiserie	boiserie	NOM	f	s
 boiseries	boiserie	NOM	-	p
 boisson	boisson	NOM	f	s
 boissons	boisson	NOM	-	p
@@ -19895,7 +19895,7 @@ brainstorming	brainstorming	NOM	m	s
 brainstormings	brainstorming	NOM	m	p
 braise	braise	NOM	f	s
 braises	braise	NOM	-	p
-brancard	brancard	NOM	-	s
+brancard	brancard	NOM	m	s
 brancards	brancard	NOM	-	p
 brancha	brancher	VER	-	-
 branchage	branchage	NOM	m	s
@@ -21760,7 +21760,7 @@ bâtissions	bâtir	VER	-	-
 bâtissons	bâtir	VER	-	-
 bâtit	bâtir	VER	-	-
 bâton	bâton	NOM	m	s
-bâtonnet	bâtonnet	NOM	-	s
+bâtonnet	bâtonnet	NOM	m	s
 bâtonnets	bâtonnet	NOM	-	p
 bâtonnier	bâtonnier	NOM	m	s
 bâtonniers	bâtonnier	NOM	m	p
@@ -22404,7 +22404,7 @@ calassiez	caler	VER	-	-
 calassions	caler	VER	-	-
 calcaire	calcaire	NOM	m	s
 calcaires	calcaire	NOM	m	p
-calcification	calcification	NOM	-	s
+calcification	calcification	NOM	f	s
 calcifications	calcification	NOM	-	p
 calcium	calcium	NOM	m	s
 calciums	calcium	NOM	m	p
@@ -23734,7 +23734,7 @@ caressassent	caresser	VER	-	-
 caressasses	caresser	VER	-	-
 caressassiez	caresser	VER	-	-
 caressassions	caresser	VER	-	-
-caresse	caresse	NOM	-	s
+caresse	caresse	NOM	f	s
 caresse	caresser	VER	-	-
 caressent	caresser	VER	-	-
 caresser	caresser	VER	-	-
@@ -24427,7 +24427,7 @@ cathédrale	cathédrale	NOM	f	s
 cathédrales	cathédral	NOM	-	p
 cathéter	cathéter	NOM	m	s
 cathéters	cathéter	NOM	m	p
-cation	cation	NOM	-	s
+cation	cation	NOM	f	s
 cations	cation	NOM	-	p
 catéchisme	catéchisme	NOM	m	s
 catéchismes	catéchisme	NOM	m	p
@@ -26081,7 +26081,7 @@ chauffé	chauffer	VER	m	s
 chauffée	chauffer	VER	f	s
 chauffées	chauffer	VER	f	p
 chauffés	chauffer	VER	m	p
-chaumière	chaumière	NOM	-	s
+chaumière	chaumière	NOM	f	s
 chaumières	chaumier	NOM	-	p
 chaussa	chausser	VER	-	-
 chaussai	chausser	VER	-	-
@@ -26276,7 +26276,7 @@ cheminez	cheminer	VER	-	-
 cheminiez	cheminer	VER	-	-
 cheminions	cheminer	VER	-	-
 cheminons	cheminer	VER	-	-
-cheminot	cheminot	NOM	-	s
+cheminot	cheminot	NOM	m	s
 cheminots	cheminot	NOM	-	p
 chemins	chemin	NOM	-	p
 cheminâmes	cheminer	VER	-	-
@@ -26733,7 +26733,7 @@ chions	cher	VER	-	-
 chions	chier	VER	-	-
 chiot	chiot	NOM	m	s
 chiots	chiot	NOM	-	p
-chiotte	chiotte	NOM	-	s
+chiotte	chiotte	NOM	f	s
 chiottes	chiotte	NOM	-	p
 chip	chip	NOM	m	s
 chipa	chiper	VER	-	-
@@ -27937,7 +27937,7 @@ circonscrivît	circonscrire	VER	-	-
 circonscrivîtes	circonscrire	VER	-	-
 circonstance	circonstance	NOM	f	s
 circonstances	circonstance	NOM	f	p
-circonvolution	circonvolution	NOM	-	s
+circonvolution	circonvolution	NOM	f	s
 circonvolutions	circonvolution	NOM	-	p
 circuit	circuit	NOM	m	s
 circuits	circuit	NOM	-	p
@@ -29708,7 +29708,7 @@ coincées	coincer	VER	f	p
 coincées	coincé	ADJ	f	p
 coincés	coincer	VER	m	p
 coincés	coincé	ADJ	m	p
-coing	coing	NOM	-	s
+coing	coing	NOM	m	s
 coings	coing	NOM	-	p
 coins	coin	NOM	m	p
 coinça	coincer	VER	-	-
@@ -30840,7 +30840,7 @@ communiassiez	communier	VER	-	-
 communiassions	communier	VER	-	-
 communicant	communicant	NOM	-	s
 communicants	communicant	NOM	-	p
-communicateur	communicateur	NOM	-	s
+communicateur	communicateur	NOM	m	s
 communicateurs	communicateur	NOM	-	p
 communication	communication	NOM	f	s
 communications	communication	NOM	-	p
@@ -32762,7 +32762,7 @@ concrètemente	concrètement	ADJ	f	s
 concrètementes	concrètement	ADJ	f	p
 concrètements	concrètement	ADJ	m	p
 concrètes	concrète	ADJ	e	p
-concrétion	concrétion	NOM	-	s
+concrétion	concrétion	NOM	f	s
 concrétions	concrétion	NOM	-	p
 concrétisa	concrétiser	VER	-	-
 concrétisai	concrétiser	VER	-	-
@@ -33067,7 +33067,7 @@ conditionnés	conditionner	VER	m	p
 conditionnés	conditionné	ADJ	e	p
 conditions	condition	NOM	-	p
 condo	condo	NOM	m	s
-condoléance	condoléance	NOM	-	s
+condoléance	condoléance	NOM	f	s
 condoléances	condoléance	NOM	-	p
 condor	condor	NOM	m	s
 condors	condor	NOM	m	p
@@ -34799,7 +34799,7 @@ conspirassent	conspirer	VER	-	-
 conspirasses	conspirer	VER	-	-
 conspirassiez	conspirer	VER	-	-
 conspirassions	conspirer	VER	-	-
-conspirateur	conspirateur	NOM	-	s
+conspirateur	conspirateur	NOM	m	s
 conspirateurs	conspirateur	NOM	-	p
 conspiration	conspiration	NOM	f	s
 conspirations	conspiration	NOM	-	p
@@ -35590,7 +35590,7 @@ continués	continuer	VER	m	p
 continûment	continûment	ADV	-	-
 contions	conter	VER	-	-
 contons	conter	VER	-	-
-contorsion	contorsion	NOM	-	s
+contorsion	contorsion	NOM	f	s
 contorsionna	contorsionner	VER	-	-
 contorsionnai	contorsionner	VER	-	-
 contorsionnaient	contorsionner	VER	-	-
@@ -36792,7 +36792,7 @@ convoyé	convoyer	VER	m	s
 convoyée	convoyer	VER	f	s
 convoyées	convoyer	VER	f	p
 convoyés	convoyer	VER	m	p
-convulsion	convulsion	NOM	-	s
+convulsion	convulsion	NOM	f	s
 convulsions	convulsion	NOM	-	p
 convulsivement	convulsivement	ADV	-	-
 convînmes	convenir	VER	-	-
@@ -36857,7 +36857,7 @@ coopérassent	coopérer	VER	-	-
 coopérasses	coopérer	VER	-	-
 coopérassiez	coopérer	VER	-	-
 coopérassions	coopérer	VER	-	-
-coopérateur	coopérateur	NOM	-	s
+coopérateur	coopérateur	NOM	m	s
 coopérateurs	coopérateur	NOM	-	p
 coopération	coopération	NOM	f	s
 coopérations	coopération	NOM	-	p
@@ -38097,7 +38097,7 @@ courbassent	courber	VER	-	-
 courbasses	courber	VER	-	-
 courbassiez	courber	VER	-	-
 courbassions	courber	VER	-	-
-courbature	courbature	NOM	-	s
+courbature	courbature	NOM	f	s
 courbatures	courbature	NOM	-	p
 courbe	courbe	NOM	f	s
 courbe	courber	VER	-	-
@@ -38495,7 +38495,7 @@ coworking	coworking	NOM	m	s
 coworkings	coworking	NOM	m	p
 coéquipier	coéquipier	NOM	m	s
 coéquipiers	coéquipier	NOM	-	p
-coéquipière	coéquipière	NOM	-	s
+coéquipière	coéquipière	NOM	f	s
 coéquipières	coéquipier	NOM	-	p
 coïncida	coïncider	VER	-	-
 coïncidai	coïncider	VER	-	-
@@ -39198,7 +39198,7 @@ crinières	crinière	NOM	f	p
 crions	crier	VER	-	-
 crique	crique	NOM	f	s
 criques	cric	NOM	m	p
-criquet	criquet	NOM	-	s
+criquet	criquet	NOM	m	s
 criquets	criquet	NOM	-	p
 cris	cri	NOM	m	p
 crise	crise	NOM	f	s
@@ -45053,7 +45053,7 @@ dits	dit	NOM	-	p
 diurétique	diurétique	NOM	-	s
 diurétiques	diurétique	NOM	-	p
 diva	diva	NOM	f	s
-divagation	divagation	NOM	-	s
+divagation	divagation	NOM	f	s
 divagations	divagation	NOM	-	p
 divagua	divaguer	VER	-	-
 divaguai	divaguer	VER	-	-
@@ -45509,7 +45509,7 @@ dollar	dollar	NOM	m	s
 dollars	dollar	NOM	m	p
 dolmen	dolmen	NOM	m	s
 dolmens	dolmen	NOM	m	p
-doléance	doléance	NOM	-	s
+doléance	doléance	NOM	f	s
 doléances	doléance	NOM	-	p
 domaine	domaine	NOM	m	s
 domaines	domain	NOM	m	p
@@ -48028,7 +48028,7 @@ décaissassiez	décaisser	VER	-	-
 décaissassions	décaisser	VER	-	-
 décaisse	décaisser	VER	-	-
 décaissement	décaissement	ADV	-	-
-décaissement	décaissement	NOM	-	s
+décaissement	décaissement	NOM	m	s
 décaissements	décaissement	NOM	-	p
 décaissent	décaisser	VER	-	-
 décaisser	décaisser	VER	-	-
@@ -48712,7 +48712,7 @@ déchirassiez	déchirer	VER	-	-
 déchirassions	déchirer	VER	-	-
 déchire	déchirer	VER	-	-
 déchirement	déchirement	ADV	-	-
-déchirement	déchirement	NOM	-	s
+déchirement	déchirement	NOM	m	s
 déchirements	déchirement	NOM	-	p
 déchirent	déchirer	VER	-	-
 déchirer	déchirer	VER	-	-
@@ -52655,7 +52655,7 @@ déjanté	déjanté	ADJ	m	s
 déjantée	déjanté	ADJ	f	s
 déjantées	déjanté	ADJ	f	p
 déjantés	déjanté	ADJ	m	p
-déjection	déjection	NOM	-	s
+déjection	déjection	NOM	f	s
 déjections	déjection	NOM	-	p
 déjeuna	déjeuner	VER	-	-
 déjeunai	déjeuner	VER	-	-
@@ -54782,7 +54782,7 @@ dénombrassiez	dénombrer	VER	-	-
 dénombrassions	dénombrer	VER	-	-
 dénombre	dénombrer	VER	-	-
 dénombrement	dénombrement	ADV	-	-
-dénombrement	dénombrement	NOM	-	s
+dénombrement	dénombrement	NOM	m	s
 dénombrements	dénombrement	NOM	-	p
 dénombrent	dénombrer	VER	-	-
 dénombrer	dénombrer	VER	-	-
@@ -56114,7 +56114,7 @@ déprécié	déprécier	VER	m	s
 dépréciée	déprécier	VER	f	s
 dépréciées	déprécier	VER	f	p
 dépréciés	déprécier	VER	m	p
-déprédation	déprédation	NOM	-	s
+déprédation	déprédation	NOM	f	s
 déprédations	déprédation	NOM	-	p
 députation	députation	NOM	f	s
 députations	députation	NOM	f	p
@@ -61306,7 +61306,7 @@ embellissait	embellir	VER	-	-
 embellissant	embellir	VER	-	-
 embellisse	embellir	VER	-	-
 embellissement	embellissement	ADV	-	-
-embellissement	embellissement	NOM	-	s
+embellissement	embellissement	NOM	m	s
 embellissements	embellissement	NOM	-	p
 embellissent	embellir	VER	-	-
 embellisses	embellir	VER	-	-
@@ -62729,7 +62729,7 @@ encaissassiez	encaisser	VER	-	-
 encaissassions	encaisser	VER	-	-
 encaisse	encaisser	VER	-	-
 encaissement	encaissement	ADV	-	-
-encaissement	encaissement	NOM	-	s
+encaissement	encaissement	NOM	m	s
 encaissements	encaissement	NOM	-	p
 encaissent	encaisser	VER	-	-
 encaisser	encaisser	VER	-	-
@@ -65757,7 +65757,7 @@ enroulassiez	enrouler	VER	-	-
 enroulassions	enrouler	VER	-	-
 enroule	enrouler	VER	-	-
 enroulement	enroulement	ADV	-	-
-enroulement	enroulement	NOM	-	s
+enroulement	enroulement	NOM	m	s
 enroulements	enroulement	NOM	-	p
 enroulent	enrouler	VER	-	-
 enrouler	enrouler	VER	-	-
@@ -67536,7 +67536,7 @@ errai	errer	VER	-	-
 erraient	errer	VER	-	-
 errais	errer	VER	-	-
 errait	errer	VER	-	-
-errance	errance	NOM	-	s
+errance	errance	NOM	f	s
 errances	errance	NOM	-	p
 errant	errer	VER	-	-
 erras	errer	VER	-	-
@@ -67546,7 +67546,7 @@ errasses	errer	VER	-	-
 errassiez	errer	VER	-	-
 errassions	errer	VER	-	-
 erre	errer	VER	-	-
-errement	errement	NOM	-	s
+errement	errement	NOM	m	s
 errements	errement	NOM	-	p
 errent	errer	VER	-	-
 errer	errer	VER	-	-
@@ -67676,7 +67676,7 @@ escamotées	escamoter	VER	f	p
 escamotés	escamoter	VER	m	p
 escapade	escapade	NOM	e	s
 escapades	escapad	NOM	-	p
-escargot	escargot	NOM	-	s
+escargot	escargot	NOM	m	s
 escargots	escargot	NOM	-	p
 escarmouche	escarmouche	NOM	f	s
 escarmouches	escarmouche	NOM	f	p
@@ -68454,7 +68454,7 @@ estimassent	estimer	VER	-	-
 estimasses	estimer	VER	-	-
 estimassiez	estimer	VER	-	-
 estimassions	estimer	VER	-	-
-estimateur	estimateur	NOM	-	s
+estimateur	estimateur	NOM	m	s
 estimateurs	estimateur	NOM	-	p
 estimation	estimation	NOM	f	s
 estimations	estimation	NOM	-	p
@@ -68727,7 +68727,7 @@ exactemente	exactement	ADJ	f	s
 exactementes	exactement	ADJ	f	p
 exactements	exactement	ADJ	m	p
 exactes	exact	ADJ	f	p
-exaction	exaction	NOM	-	s
+exaction	exaction	NOM	f	s
 exactions	exaction	NOM	-	p
 exactitude	exactitude	NOM	e	s
 exactitudes	exactitude	NOM	e	p
@@ -68845,7 +68845,7 @@ examinassent	examiner	VER	-	-
 examinasses	examiner	VER	-	-
 examinassiez	examiner	VER	-	-
 examinassions	examiner	VER	-	-
-examinateur	examinateur	NOM	-	s
+examinateur	examinateur	NOM	m	s
 examinateurs	examinateur	NOM	-	p
 examine	examiner	VER	-	-
 examinent	examiner	VER	-	-
@@ -69253,7 +69253,7 @@ excommuniée	excommunier	VER	f	s
 excommuniées	excommunier	VER	f	p
 excommuniés	excommunier	VER	m	p
 excrément	excrément	ADV	-	-
-excrément	excrément	NOM	-	s
+excrément	excrément	NOM	m	s
 excréments	excrément	NOM	-	p
 excursion	excursion	NOM	e	s
 excursions	excursion	NOM	-	p
@@ -70305,9 +70305,9 @@ exportassent	exporter	VER	-	-
 exportasses	exporter	VER	-	-
 exportassiez	exporter	VER	-	-
 exportassions	exporter	VER	-	-
-exportateur	exportateur	NOM	-	s
+exportateur	exportateur	NOM	m	s
 exportateurs	exportateur	NOM	-	p
-exportation	exportation	NOM	-	s
+exportation	exportation	NOM	f	s
 exportations	exportation	NOM	-	p
 exporte	exporter	VER	-	-
 exportent	exporter	VER	-	-
@@ -70460,7 +70460,7 @@ expropriassent	exproprier	VER	-	-
 expropriasses	exproprier	VER	-	-
 expropriassiez	exproprier	VER	-	-
 expropriassions	exproprier	VER	-	-
-expropriation	expropriation	NOM	-	s
+expropriation	expropriation	NOM	f	s
 expropriations	expropriation	NOM	-	p
 exproprie	exproprier	VER	-	-
 exproprient	exproprier	VER	-	-
@@ -70597,7 +70597,7 @@ expérimentassent	expérimenter	VER	-	-
 expérimentasses	expérimenter	VER	-	-
 expérimentassiez	expérimenter	VER	-	-
 expérimentassions	expérimenter	VER	-	-
-expérimentateur	expérimentateur	NOM	-	s
+expérimentateur	expérimentateur	NOM	m	s
 expérimentateurs	expérimentateur	NOM	-	p
 expérimentation	expérimentation	NOM	f	s
 expérimentations	expérimentation	NOM	-	p
@@ -70842,7 +70842,7 @@ extorqués	extorquer	VER	m	p
 extra	extra	ADJ	m	s
 extra-terrestre	extra-terrestre	NOM	-	s
 extra-terrestres	extra-terrestre	NOM	-	p
-extraction	extraction	NOM	-	s
+extraction	extraction	NOM	f	s
 extractions	extraction	NOM	-	p
 extradition	extradition	NOM	e	s
 extraditions	extradition	NOM	e	p
@@ -70932,7 +70932,7 @@ extrapolés	extrapoler	VER	m	p
 extras	extra	ADJ	m	p
 extraterrestre	extraterrestre	NOM	m	s
 extraterrestres	extraterrestre	NOM	-	p
-extravagance	extravagance	NOM	-	s
+extravagance	extravagance	NOM	f	s
 extravagances	extravagance	NOM	-	p
 extravagant	extravagant	ADJ	m	s
 extravagante	extravagant	ADJ	f	s
@@ -70947,7 +70947,7 @@ extrayiez	extraire	VER	-	-
 extrayions	extraire	VER	-	-
 extrayons	extraire	VER	-	-
 extrement	extrement	ADV	-	-
-extrémisme	extrémisme	NOM	-	s
+extrémisme	extrémisme	NOM	m	s
 extrémismes	extrémisme	NOM	-	p
 extrémiste	extrémiste	NOM	-	s
 extrémistes	extrémiste	NOM	-	p
@@ -71406,7 +71406,7 @@ fadé	fader	VER	m	s
 fadée	fader	VER	f	s
 fadées	fader	VER	f	p
 fadés	fader	VER	m	p
-fagot	fagot	NOM	-	s
+fagot	fagot	NOM	m	s
 fagots	fagot	NOM	-	p
 fai	fai	NOM	f	s
 faible	faible	ADJ	e	s
@@ -72819,7 +72819,7 @@ fessassent	fesser	VER	-	-
 fessasses	fesser	VER	-	-
 fessassiez	fesser	VER	-	-
 fessassions	fesser	VER	-	-
-fesse	fesse	NOM	-	s
+fesse	fesse	NOM	f	s
 fesse	fesser	VER	-	-
 fessent	fesser	VER	-	-
 fesser	fesser	VER	-	-
@@ -73595,7 +73595,7 @@ finalisés	finaliser	VER	m	p
 finalisés	finalisé	ADJ	m	p
 finalité	finalité	NOM	f	s
 finalités	finalité	NOM	-	p
-finance	finance	NOM	-	s
+finance	finance	NOM	f	s
 finance	financer	VER	-	-
 financement	financement	NOM	m	s
 financements	financement	NOM	m	p
@@ -77991,7 +77991,7 @@ fuyaient	fuir	VER	-	-
 fuyais	fuir	VER	-	-
 fuyait	fuir	VER	-	-
 fuyant	fuir	VER	-	-
-fuyard	fuyard	NOM	-	s
+fuyard	fuyard	NOM	m	s
 fuyards	fuyard	NOM	-	p
 fuyez	fuir	VER	-	-
 fuyiez	fuir	VER	-	-
@@ -78189,7 +78189,7 @@ félicitassent	féliciter	VER	-	-
 félicitasses	féliciter	VER	-	-
 félicitassiez	féliciter	VER	-	-
 félicitassions	féliciter	VER	-	-
-félicitation	félicitation	NOM	-	s
+félicitation	félicitation	NOM	f	s
 félicitations	félicitation	NOM	-	p
 félicite	féliciter	VER	-	-
 félicitent	féliciter	VER	-	-
@@ -78308,7 +78308,7 @@ fêtaient	fêter	VER	-	-
 fêtais	fêter	VER	-	-
 fêtait	fêter	VER	-	-
 fêtant	fêter	VER	-	-
-fêtard	fêtard	NOM	-	s
+fêtard	fêtard	NOM	m	s
 fêtards	fêtard	NOM	-	p
 fêtas	fêter	VER	-	-
 fêtasse	fêter	VER	-	-
@@ -79630,7 +79630,7 @@ gesticulassent	gesticuler	VER	-	-
 gesticulasses	gesticuler	VER	-	-
 gesticulassiez	gesticuler	VER	-	-
 gesticulassions	gesticuler	VER	-	-
-gesticulation	gesticulation	NOM	-	s
+gesticulation	gesticulation	NOM	f	s
 gesticulations	gesticulation	NOM	-	p
 gesticule	gesticuler	VER	-	-
 gesticulent	gesticuler	VER	-	-
@@ -80601,7 +80601,7 @@ gourmandise	gourmandise	NOM	f	s
 gourmandises	gourmandise	NOM	-	p
 gourmands	gourmand	ADJ	e	p
 gourmands	gourmand	NOM	-	p
-gourmet	gourmet	NOM	-	s
+gourmet	gourmet	NOM	m	s
 gourmets	gourmet	NOM	-	p
 gourmette	gourmette	NOM	f	s
 gourmettes	gourmette	NOM	f	p
@@ -81834,7 +81834,7 @@ grinçons	grincer	VER	-	-
 grinçâmes	grincer	VER	-	-
 grinçât	grincer	VER	-	-
 grinçâtes	grincer	VER	-	-
-griot	griot	NOM	-	s
+griot	griot	NOM	m	s
 griots	griot	NOM	-	p
 grip	grip	NOM	m	s
 grippa	gripper	VER	-	-
@@ -82447,7 +82447,7 @@ guidés	guider	VER	m	p
 guidés	guidé	ADJ	e	p
 guilde	guilde	NOM	f	s
 guildes	guild	NOM	-	p
-guillemet	guillemet	NOM	-	s
+guillemet	guillemet	NOM	m	s
 guillemets	guillemet	NOM	-	p
 guillotine	guillotine	NOM	f	s
 guillotines	guillotine	NOM	f	p
@@ -82685,7 +82685,7 @@ gémissait	gémir	VER	-	-
 gémissant	gémir	VER	-	-
 gémisse	gémir	VER	-	-
 gémissement	gémissement	ADV	-	-
-gémissement	gémissement	NOM	-	s
+gémissement	gémissement	NOM	m	s
 gémissements	gémissement	NOM	-	p
 gémissent	gémir	VER	-	-
 gémisses	gémir	VER	-	-
@@ -83412,7 +83412,7 @@ hallucinassent	halluciner	VER	-	-
 hallucinasses	halluciner	VER	-	-
 hallucinassiez	halluciner	VER	-	-
 hallucinassions	halluciner	VER	-	-
-hallucination	hallucination	NOM	-	s
+hallucination	hallucination	NOM	f	s
 hallucinations	hallucination	NOM	-	p
 hallucine	halluciner	VER	-	-
 hallucinent	halluciner	VER	-	-
@@ -86279,7 +86279,7 @@ illégalement	illégalement	ADV	-	-
 illégales	illégal	ADJ	f	p
 illégaux	illégal	ADJ	m	p
 illégitimement	illégitimement	ADV	-	-
-ilot	ilot	NOM	-	s
+ilot	ilot	NOM	m	s
 ilots	ilot	NOM	-	p
 ils	ils	PRO	m	p
 image	image	NOM	e	s
@@ -86613,7 +86613,7 @@ immobilisassent	immobiliser	VER	-	-
 immobilisasses	immobiliser	VER	-	-
 immobilisassiez	immobiliser	VER	-	-
 immobilisassions	immobiliser	VER	-	-
-immobilisation	immobilisation	NOM	-	s
+immobilisation	immobilisation	NOM	f	s
 immobilisations	immobilisation	NOM	-	p
 immobilise	immobiliser	VER	-	-
 immobilisent	immobiliser	VER	-	-
@@ -86919,7 +86919,7 @@ imperait	imper	VER	-	-
 imperas	imper	VER	-	-
 imperceptiblement	imperceptiblement	ADV	-	-
 imperez	imper	VER	-	-
-imperfection	imperfection	NOM	-	s
+imperfection	imperfection	NOM	f	s
 imperfections	imperfection	NOM	-	p
 imperiez	imper	VER	-	-
 imperions	imper	VER	-	-
@@ -87227,7 +87227,7 @@ importassiez	importer	VER	-	-
 importassions	importer	VER	-	-
 importateur	importateur	NOM	m	s
 importateurs	importateur	NOM	-	p
-importation	importation	NOM	-	s
+importation	importation	NOM	f	s
 importations	importation	NOM	-	p
 importe	importer	VER	-	-
 importent	importer	VER	-	-
@@ -87485,7 +87485,7 @@ improvisassent	improviser	VER	-	-
 improvisasses	improviser	VER	-	-
 improvisassiez	improviser	VER	-	-
 improvisassions	improviser	VER	-	-
-improvisation	improvisation	NOM	-	s
+improvisation	improvisation	NOM	f	s
 improvisations	improvisation	NOM	-	p
 improvise	improviser	VER	-	-
 improvisent	improviser	VER	-	-
@@ -87809,7 +87809,7 @@ inaugurées	inaugurer	VER	f	p
 inaugurées	inauguré	ADJ	f	p
 inaugurés	inaugurer	VER	m	p
 inaugurés	inauguré	ADJ	m	p
-incantation	incantation	NOM	-	s
+incantation	incantation	NOM	f	s
 incantations	incantation	NOM	-	p
 incapable	incapable	ADJ	e	s
 incapables	incapable	ADJ	e	p
@@ -88484,7 +88484,7 @@ incrustés	incruster	VER	m	p
 incrédule	incrédule	NOM	-	s
 incrédules	incrédule	NOM	-	p
 incrément	incrément	ADV	-	-
-incubateur	incubateur	NOM	-	s
+incubateur	incubateur	NOM	m	s
 incubateurs	incubateur	NOM	-	p
 inculpé	inculpé	NOM	m	s
 inculpés	inculpé	NOM	-	p
@@ -88968,7 +88968,7 @@ inerties	inertie	NOM	e	p
 inexact	inexact	ADJ	m	s
 inexacte	inexact	ADJ	f	s
 inexactes	inexact	ADJ	f	p
-inexactitude	inexactitude	NOM	-	s
+inexactitude	inexactitude	NOM	f	s
 inexactitudes	inexactitude	NOM	-	p
 inexacts	inexact	ADJ	e	p
 inexistant	inexistant	ADJ	m	s
@@ -89652,7 +89652,7 @@ inhibiez	inhiber	VER	-	-
 inhibions	inhiber	VER	-	-
 inhibiteur	inhibiteur	NOM	m	s
 inhibiteurs	inhibiteur	NOM	-	p
-inhibition	inhibition	NOM	-	s
+inhibition	inhibition	NOM	f	s
 inhibitions	inhibition	NOM	-	p
 inhibons	inhiber	VER	-	-
 inhibâmes	inhiber	VER	-	-
@@ -89732,7 +89732,7 @@ initiassent	initier	VER	-	-
 initiasses	initier	VER	-	-
 initiassiez	initier	VER	-	-
 initiassions	initier	VER	-	-
-initiateur	initiateur	NOM	-	s
+initiateur	initiateur	NOM	m	s
 initiateurs	initiateur	NOM	-	p
 initiation	initiation	NOM	e	s
 initiations	initiation	NOM	-	p
@@ -89925,9 +89925,9 @@ innovassent	innover	VER	-	-
 innovasses	innover	VER	-	-
 innovassiez	innover	VER	-	-
 innovassions	innover	VER	-	-
-innovateur	innovateur	NOM	-	s
+innovateur	innovateur	NOM	m	s
 innovateurs	innovateur	NOM	-	p
-innovation	innovation	NOM	-	s
+innovation	innovation	NOM	f	s
 innovations	innovation	NOM	-	p
 innove	innover	VER	-	-
 innovent	innover	VER	-	-
@@ -90223,7 +90223,7 @@ insinuassent	insinuer	VER	-	-
 insinuasses	insinuer	VER	-	-
 insinuassiez	insinuer	VER	-	-
 insinuassions	insinuer	VER	-	-
-insinuation	insinuation	NOM	-	s
+insinuation	insinuation	NOM	f	s
 insinuations	insinuation	NOM	-	p
 insinue	insinuer	VER	-	-
 insinuent	insinuer	VER	-	-
@@ -90363,7 +90363,7 @@ inspirassent	inspirer	VER	-	-
 inspirasses	inspirer	VER	-	-
 inspirassiez	inspirer	VER	-	-
 inspirassions	inspirer	VER	-	-
-inspirateur	inspirateur	NOM	-	s
+inspirateur	inspirateur	NOM	m	s
 inspirateurs	inspirateur	NOM	-	p
 inspiration	inspiration	NOM	e	s
 inspirations	inspiration	NOM	-	p
@@ -90414,7 +90414,7 @@ installassent	installer	VER	-	-
 installasses	installer	VER	-	-
 installassiez	installer	VER	-	-
 installassions	installer	VER	-	-
-installateur	installateur	NOM	-	s
+installateur	installateur	NOM	m	s
 installateurs	installateur	NOM	-	p
 installation	installation	NOM	e	s
 installations	installation	NOM	-	p
@@ -90501,7 +90501,7 @@ instaurées	instaurer	VER	f	p
 instaurées	instauré	ADJ	f	p
 instaurés	instaurer	VER	m	p
 instaurés	instauré	ADJ	m	p
-instigateur	instigateur	NOM	-	s
+instigateur	instigateur	NOM	m	s
 instigateurs	instigateur	NOM	-	p
 instilla	instiller	VER	-	-
 instillai	instiller	VER	-	-
@@ -92062,7 +92062,7 @@ intimidassent	intimider	VER	-	-
 intimidasses	intimider	VER	-	-
 intimidassiez	intimider	VER	-	-
 intimidassions	intimider	VER	-	-
-intimidation	intimidation	NOM	-	s
+intimidation	intimidation	NOM	f	s
 intimidations	intimidation	NOM	-	p
 intimide	intimider	VER	-	-
 intimident	intimider	VER	-	-
@@ -92367,7 +92367,7 @@ intégreront	intégrer	VER	-	-
 intégrez	intégrer	VER	-	-
 intégriez	intégrer	VER	-	-
 intégrions	intégrer	VER	-	-
-intégrisme	intégrisme	NOM	-	s
+intégrisme	intégrisme	NOM	m	s
 intégrismes	intégrisme	NOM	-	p
 intégriste	intégriste	NOM	-	s
 intégristes	intégriste	NOM	-	p
@@ -92729,7 +92729,7 @@ investie	investi	ADJ	f	s
 investie	investir	VER	f	s
 investies	investi	ADJ	f	p
 investies	investir	VER	f	p
-investigateur	investigateur	NOM	-	s
+investigateur	investigateur	NOM	m	s
 investigateurs	investigateur	NOM	-	p
 investigation	investigation	NOM	f	s
 investigations	investigation	NOM	-	p
@@ -95221,7 +95221,7 @@ lamentassent	lamenter	VER	-	-
 lamentasses	lamenter	VER	-	-
 lamentassiez	lamenter	VER	-	-
 lamentassions	lamenter	VER	-	-
-lamentation	lamentation	NOM	-	s
+lamentation	lamentation	NOM	f	s
 lamentations	lamentation	NOM	-	p
 lamente	lamenter	VER	-	-
 lamentent	lamenter	VER	-	-
@@ -95294,7 +95294,7 @@ lampadaire	lampadaire	NOM	-	s
 lampadaires	lampadaire	NOM	-	p
 lampe	lampe	NOM	f	s
 lampes	lamp	NOM	-	p
-lance	lance	NOM	-	s
+lance	lance	NOM	f	s
 lance	lancer	VER	-	-
 lance-roquette	lance-roquette	NOM	m	s
 lance-roquettes	lance-roquette	NOM	m	p
@@ -95615,7 +95615,7 @@ largerons	larger	VER	-	-
 largeront	larger	VER	-	-
 larges	large	NOM	-	p
 larges	larger	VER	-	-
-largesse	largesse	NOM	-	s
+largesse	largesse	NOM	f	s
 largesses	largesse	NOM	-	p
 largeur	largeur	NOM	f	s
 largeurs	largeur	NOM	-	p
@@ -96064,7 +96064,7 @@ ledite	ledit	ADJ	f	s
 ledites	ledit	ADJ	f	p
 ledits	ledit	ADJ	m	p
 leffondrement	leffondrement	ADV	-	-
-legging	legging	NOM	-	s
+legging	legging	NOM	m	s
 leggings	legging	NOM	-	p
 legouvernement	legouvernement	ADV	-	-
 legs	legs	NOM	m	s
@@ -96519,7 +96519,7 @@ libérassent	libérer	VER	-	-
 libérasses	libérer	VER	-	-
 libérassiez	libérer	VER	-	-
 libérassions	libérer	VER	-	-
-libérateur	libérateur	NOM	-	s
+libérateur	libérateur	NOM	m	s
 libérateurs	libérateur	NOM	-	p
 libération	libération	NOM	f	s
 libérations	libération	NOM	-	p
@@ -96954,7 +96954,7 @@ lingeries	lingerie	NOM	f	p
 linges	linge	NOM	m	p
 lingette	lingette	NOM	f	s
 lingettes	lingette	NOM	-	p
-lingot	lingot	NOM	-	s
+lingot	lingot	NOM	m	s
 lingots	lingot	NOM	-	p
 linguiste	linguiste	NOM	m	s
 linguistes	linguist	NOM	-	p
@@ -97281,7 +97281,7 @@ littéralemente	littéralement	ADJ	f	s
 littéralementes	littéralement	ADJ	f	p
 littéralements	littéralement	ADJ	m	p
 littérallement	littérallement	ADV	-	-
-littérateur	littérateur	NOM	-	s
+littérateur	littérateur	NOM	m	s
 littérateurs	littérateur	NOM	-	p
 littérature	littérature	NOM	f	s
 littératures	littérature	NOM	f	p
@@ -99155,7 +99155,7 @@ machines-outil	machines-outil	NOM	-	s
 machines-outils	machines-outils	NOM	-	p
 machins	machin	NOM	-	p
 macro	macro	NOM	f	s
-macro-déchet	macro-déchet	NOM	-	s
+macro-déchet	macro-déchet	NOM	m	s
 macro-déchets	macro-déchets	NOM	-	p
 macros	macro	NOM	-	p
 macroéconomie	macroéconomie	NOM	f	s
@@ -99303,7 +99303,7 @@ magma	magma	NOM	m	s
 magmas	magma	NOM	m	p
 magnat	magnat	NOM	m	s
 magnats	magnat	NOM	m	p
-magnet	magnet	NOM	-	s
+magnet	magnet	NOM	m	s
 magnets	magnet	NOM	-	p
 magnifia	magnifier	VER	-	-
 magnifiai	magnifier	VER	-	-
@@ -99951,7 +99951,7 @@ malu	malu	NOM	m	s
 malus	malus	NOM	m	p
 malveillance	malveillance	NOM	f	s
 malveillances	malveillance	NOM	f	p
-malversation	malversation	NOM	-	s
+malversation	malversation	NOM	f	s
 malversations	malversation	NOM	-	p
 malvoyant	malvoyant	NOM	-	s
 malvoyants	malvoyant	NOM	-	p
@@ -100268,7 +100268,7 @@ manifestées	manifesté	ADJ	f	p
 manifestés	manifester	VER	m	p
 manifestés	manifesté	ADJ	e	p
 manifs	manif	NOM	-	p
-manigance	manigance	NOM	-	s
+manigance	manigance	NOM	f	s
 manigances	manigance	NOM	-	p
 maniiez	manier	VER	-	-
 maniions	manier	VER	-	-
@@ -100975,9 +100975,9 @@ markées	marker	VER	f	p
 markés	marker	VER	m	p
 marmite	marmite	NOM	f	s
 marmites	marmite	NOM	-	p
-marmot	marmot	NOM	-	s
+marmot	marmot	NOM	m	s
 marmots	marmot	NOM	-	p
-marmotte	marmotte	NOM	-	s
+marmotte	marmotte	NOM	f	s
 marmottes	marmotte	NOM	-	p
 maroc	maroc	NOM	m	s
 marocain	marocain	ADJ	m	s
@@ -102041,7 +102041,7 @@ maître	maître	VER	-	-
 maître-autel	maître-autel	NOM	m	s
 maître-autels	maître-autel	NOM	m	p
 maîtres	maître	NOM	-	p
-maîtres-mot	maîtres-mot	NOM	-	s
+maîtres-mot	maîtres-mot	NOM	m	s
 maîtres-mots	maîtres-mots	NOM	-	p
 maîtresse	maîtresse	NOM	f	s
 maîtresses	maîtresse	NOM	-	p
@@ -102302,7 +102302,7 @@ menez	mener	VER	-	-
 meniez	mener	VER	-	-
 menions	mener	VER	-	-
 menons	mener	VER	-	-
-menotte	menotte	NOM	-	s
+menotte	menotte	NOM	f	s
 menottes	menotte	NOM	-	p
 mens	mentir	VER	-	-
 mensonge	mensonge	NOM	m	s
@@ -102346,14 +102346,14 @@ mensongé	mensonger	VER	m	s
 mensongée	mensonger	VER	f	s
 mensongées	mensonger	VER	f	p
 mensongés	mensonger	VER	m	p
-menstruation	menstruation	NOM	-	s
+menstruation	menstruation	NOM	f	s
 menstruations	menstruation	NOM	-	p
 mensualité	mensualité	NOM	f	s
 mensualités	mensualité	NOM	-	p
 mensuel	mensuel	NOM	m	s
 mensuellement	mensuellement	ADV	-	-
 mensuels	mensuel	NOM	m	p
-mensuration	mensuration	NOM	-	s
+mensuration	mensuration	NOM	f	s
 mensurations	mensuration	NOM	-	p
 ment	ment	ADV	-	-
 ment	mentir	VER	-	-
@@ -102971,7 +102971,7 @@ micro-entreprises	micro-entreprise	NOM	-	p
 micro-management	micro-management	ADV	-	-
 micro-onde	micro-onde	NOM	m	s
 micro-ondes	micro-ondes	NOM	m	s
-micro-organisme	micro-organisme	NOM	-	s
+micro-organisme	micro-organisme	NOM	m	s
 micro-organismes	micro-organisme	NOM	-	p
 microbe	microbe	NOM	-	s
 microbes	microbe	NOM	-	p
@@ -103328,7 +103328,7 @@ minaient	miner	VER	-	-
 minais	miner	VER	-	-
 minait	miner	VER	-	-
 minant	miner	VER	-	-
-minaret	minaret	NOM	-	s
+minaret	minaret	NOM	m	s
 minarets	minaret	NOM	-	p
 minas	miner	VER	-	-
 minasse	miner	VER	-	-
@@ -103991,7 +103991,7 @@ modestes	modeste	NOM	e	p
 modestie	modestie	NOM	f	s
 modesties	modestie	NOM	f	p
 modests	modest	ADJ	m	p
-modeuse	modeuse	NOM	-	s
+modeuse	modeuse	NOM	f	s
 modeuses	modeux	NOM	-	p
 modif	modif	NOM	f	s
 modifia	modifier	VER	-	-
@@ -104669,7 +104669,7 @@ mont	mont	NOM	m	s
 monta	monter	VER	-	-
 montage	montage	NOM	m	s
 montages	montage	NOM	-	p
-montagnard	montagnard	NOM	-	s
+montagnard	montagnard	NOM	m	s
 montagnards	montagnard	NOM	-	p
 montagne	montagne	NOM	f	s
 montagnes	montagne	NOM	-	p
@@ -105817,7 +105817,7 @@ munissiez	munir	VER	-	-
 munissions	munir	VER	-	-
 munissons	munir	VER	-	-
 munit	munir	VER	-	-
-munition	munition	NOM	-	s
+munition	munition	NOM	f	s
 munitions	munition	NOM	-	p
 muniâmes	munier	VER	-	-
 muniât	munier	VER	-	-
@@ -106222,7 +106222,7 @@ myocyte	myocyte	NOM	-	s
 myocytes	myocytes	NOM	-	p
 myofibrille	myofibrille	NOM	-	s
 myofibrilles	myofibrille	NOM	-	p
-myofilament	myofilament	NOM	-	s
+myofilament	myofilament	NOM	m	s
 myofilaments	myofilaments	NOM	-	p
 myopie	myopie	NOM	f	s
 myopies	myopie	NOM	f	p
@@ -109172,7 +109172,7 @@ nuques	nuque	NOM	f	p
 nutella	nutella	NOM	m	s
 nutellas	nutella	NOM	m	p
 nutriment	nutriment	ADV	-	-
-nutriment	nutriment	NOM	-	s
+nutriment	nutriment	NOM	m	s
 nutriments	nutriment	NOM	-	p
 nutrition	nutrition	NOM	f	s
 nutritions	nutrition	NOM	f	p
@@ -109394,7 +109394,7 @@ néo-zélandaise	néo-zélandais	ADJ	f	s
 néo-zélandaise	néo-zélandais	NOM	f	s
 néo-zélandaises	néo-zélandais	ADJ	f	p
 néo-zélandaises	néo-zélandais	NOM	f	p
-néoconservateur	néoconservateur	NOM	-	s
+néoconservateur	néoconservateur	NOM	m	s
 néoconservateurs	néoconservateur	NOM	-	p
 néogéographie	néogéographie	NOM	f	s
 néogéographies	néogéographie	NOM	f	p
@@ -109882,7 +109882,7 @@ obteniez	obtenir	VER	-	-
 obtenions	obtenir	VER	-	-
 obtenir	obtenir	VER	-	-
 obtenons	obtenir	VER	-	-
-obtention	obtention	NOM	-	s
+obtention	obtention	NOM	f	s
 obtentions	obtention	NOM	-	p
 obtenu	obtenir	VER	m	s
 obtenu	obtenu	ADJ	m	s
@@ -110116,7 +110116,7 @@ occupassent	occuper	VER	-	-
 occupasses	occuper	VER	-	-
 occupassiez	occuper	VER	-	-
 occupassions	occuper	VER	-	-
-occupation	occupation	NOM	-	s
+occupation	occupation	NOM	f	s
 occupations	occupation	NOM	-	p
 occupe	occuper	VER	-	-
 occupent	occuper	VER	-	-
@@ -110261,7 +110261,7 @@ odés	oder	VER	m	p
 oedème	oedème	NOM	m	s
 oedèmes	oedème	NOM	m	p
 oeil	oeil	NOM	m	s
-oeillet	oeillet	NOM	-	s
+oeillet	oeillet	NOM	m	s
 oeillets	oeillet	NOM	-	p
 oeils	oeil	NOM	m	p
 oeuf	oeuf	NOM	m	s
@@ -110630,7 +110630,7 @@ oligarchies	oligarchie	NOM	-	p
 oligarque	oligarque	NOM	-	s
 oligarques	oligarque	NOM	-	p
 oligo-élément	oligo-élément	ADV	-	-
-oligo-élément	oligo-élément	NOM	-	s
+oligo-élément	oligo-élément	NOM	m	s
 oligo-éléments	oligo-élément	NOM	-	p
 oligoélément	oligoélément	ADV	-	-
 oliva	oliver	VER	-	-
@@ -110839,7 +110839,7 @@ ondulassent	onduler	VER	-	-
 ondulasses	onduler	VER	-	-
 ondulassiez	onduler	VER	-	-
 ondulassions	onduler	VER	-	-
-ondulation	ondulation	NOM	-	s
+ondulation	ondulation	NOM	f	s
 ondulations	ondulation	NOM	-	p
 ondule	onduler	VER	-	-
 ondulent	onduler	VER	-	-
@@ -111094,7 +111094,7 @@ optimisassent	optimiser	VER	-	-
 optimisasses	optimiser	VER	-	-
 optimisassiez	optimiser	VER	-	-
 optimisassions	optimiser	VER	-	-
-optimisation	optimisation	NOM	-	s
+optimisation	optimisation	NOM	f	s
 optimisations	optimisation	NOM	-	p
 optimise	optimiser	VER	-	-
 optimisent	optimiser	VER	-	-
@@ -111308,7 +111308,7 @@ orangé	oranger	VER	m	s
 orangée	oranger	VER	f	s
 orangées	oranger	VER	f	p
 orangés	oranger	VER	m	p
-orateur	orateur	NOM	-	s
+orateur	orateur	NOM	m	s
 orateurs	orateur	NOM	-	p
 oraux	oraux	NOM	-	p
 orbita	orbiter	VER	-	-
@@ -111520,7 +111520,7 @@ organisateur	organisateur	NOM	m	s
 organisateurs	organisateur	NOM	-	p
 organisation	organisation	NOM	e	s
 organisations	organisation	NOM	-	p
-organisatrice	organisatrice	NOM	-	s
+organisatrice	organisatrice	NOM	f	s
 organisatrices	organisateur	NOM	-	p
 organise	organiser	VER	-	-
 organisent	organiser	VER	-	-
@@ -111687,7 +111687,7 @@ ornassiez	orner	VER	-	-
 ornassions	orner	VER	-	-
 orne	orner	VER	-	-
 ornement	ornement	ADV	-	-
-ornement	ornement	NOM	-	s
+ornement	ornement	NOM	m	s
 ornements	ornement	NOM	-	p
 ornent	orner	VER	-	-
 orner	orner	VER	-	-
@@ -111800,7 +111800,7 @@ oscillassent	osciller	VER	-	-
 oscillasses	osciller	VER	-	-
 oscillassiez	osciller	VER	-	-
 oscillassions	osciller	VER	-	-
-oscillation	oscillation	NOM	-	s
+oscillation	oscillation	NOM	f	s
 oscillations	oscillation	NOM	-	p
 oscille	osciller	VER	-	-
 oscillent	osciller	VER	-	-
@@ -111851,7 +111851,7 @@ osons	oser	VER	-	-
 ossemen	ossemen	NOM	-	s
 ossemens	ossemens	NOM	-	p
 ossement	ossement	ADV	-	-
-ossement	ossement	NOM	-	s
+ossement	ossement	NOM	m	s
 ossements	ossement	NOM	-	p
 osta	oster	VER	-	-
 ostai	oster	VER	-	-
@@ -112065,7 +112065,7 @@ outragé	outrager	VER	m	s
 outragée	outrager	VER	f	s
 outragées	outrager	VER	f	p
 outragés	outrager	VER	m	p
-outrance	outrance	NOM	-	s
+outrance	outrance	NOM	f	s
 outrances	outrance	NOM	-	p
 outrancièrement	outrancièrement	ADV	-	-
 outre	outre	PRE	-	-
@@ -112162,7 +112162,7 @@ ouvrisses	ouvrir	VER	-	-
 ouvrissiez	ouvrir	VER	-	-
 ouvrissions	ouvrir	VER	-	-
 ouvrit	ouvrir	VER	-	-
-ouvrière	ouvrière	NOM	-	s
+ouvrière	ouvrière	NOM	f	s
 ouvrières	ouvrier	NOM	-	p
 ouvrons	ouvrir	VER	-	-
 ouvrîmes	ouvrir	VER	-	-
@@ -115899,7 +115899,7 @@ perchées	percher	VER	f	p
 perchés	percher	VER	m	p
 perciez	percer	VER	-	-
 percions	percer	VER	-	-
-percussion	percussion	NOM	-	s
+percussion	percussion	NOM	f	s
 percussionniste	percussionniste	NOM	m	s
 percussionnistes	percussionniste	NOM	m	p
 percussions	percussion	NOM	-	p
@@ -117592,7 +117592,7 @@ pillaient	piller	VER	-	-
 pillais	piller	VER	-	-
 pillait	piller	VER	-	-
 pillant	piller	VER	-	-
-pillard	pillard	NOM	-	s
+pillard	pillard	NOM	m	s
 pillards	pillard	NOM	-	p
 pillas	piller	VER	-	-
 pillasse	piller	VER	-	-
@@ -119654,7 +119654,7 @@ pluviosité	pluviosité	NOM	f	s
 pluviosités	pluviosité	NOM	f	p
 plâtre	plâtre	NOM	m	s
 plâtres	plâtre	NOM	m	p
-plâtrière	plâtrière	NOM	-	s
+plâtrière	plâtrière	NOM	f	s
 plâtrières	plâtrières	NOM	-	p
 plèbe	plèbe	NOM	f	s
 plèbes	plèbe	NOM	f	p
@@ -120702,7 +120702,7 @@ porc-épic	porc-épic	NOM	m	s
 porc-épics	porc-épic	NOM	m	p
 porcelaine	porcelaine	NOM	f	s
 porcelaines	porcelaine	NOM	f	p
-porcelet	porcelet	NOM	-	s
+porcelet	porcelet	NOM	m	s
 porcelets	porcelet	NOM	-	p
 porcha	porcher	VER	-	-
 porchai	porcher	VER	-	-
@@ -121794,7 +121794,7 @@ poussions	pousser	VER	-	-
 poussivement	poussivement	ADV	-	-
 poussière	poussière	NOM	f	s
 poussières	poussière	NOM	-	p
-poussoir	poussoir	NOM	-	s
+poussoir	poussoir	NOM	m	s
 poussoirs	poussoir	NOM	-	p
 poussons	pousser	VER	-	-
 poussâmes	pousser	VER	-	-
@@ -124745,7 +124745,7 @@ provisoirement	provisoirement	ADJ	m	s
 provisoiremente	provisoirement	ADJ	f	s
 provisoirementes	provisoirement	ADJ	f	p
 provisoirements	provisoirement	ADJ	m	p
-provocateur	provocateur	NOM	-	s
+provocateur	provocateur	NOM	m	s
 provocateurs	provocateur	NOM	-	p
 provocation	provocation	NOM	f	s
 provocations	provocation	NOM	-	p
@@ -125024,7 +125024,7 @@ préconisassent	préconiser	VER	-	-
 préconisasses	préconiser	VER	-	-
 préconisassiez	préconiser	VER	-	-
 préconisassions	préconiser	VER	-	-
-préconisation	préconisation	NOM	-	s
+préconisation	préconisation	NOM	f	s
 préconisations	préconisation	NOM	-	p
 préconise	préconiser	VER	-	-
 préconisent	préconiser	VER	-	-
@@ -125662,7 +125662,7 @@ prépondérant	prépondérant	ADJ	m	s
 prépondérante	prépondérant	ADJ	f	s
 prépondérantes	prépondérant	ADJ	f	p
 prépondérants	prépondérant	ADJ	m	p
-préposition	préposition	NOM	-	s
+préposition	préposition	NOM	f	s
 prépositions	préposition	NOM	-	p
 préposé	préposé	NOM	m	s
 préposés	préposé	NOM	-	p
@@ -127474,7 +127474,7 @@ péruviennes	péruvien	ADJ	f	p
 péruviennes	péruvien	NOM	f	p
 péruviens	péruvien	ADJ	m	p
 péruviens	péruvien	NOM	m	p
-pérégrination	pérégrination	NOM	-	s
+pérégrination	pérégrination	NOM	f	s
 pérégrinations	pérégrination	NOM	-	p
 péréquation	péréquation	NOM	f	s
 péréquations	péréquation	NOM	f	p
@@ -127596,7 +127596,7 @@ pétrole	pétrole	NOM	m	s
 pétroles	pétrole	NOM	m	p
 pétrolier	pétrolier	NOM	m	s
 pétroliers	pétrolier	NOM	-	p
-pétrolière	pétrolière	NOM	-	s
+pétrolière	pétrolière	NOM	f	s
 pétrolières	pétrolier	NOM	-	p
 pétrîmes	pétrir	VER	-	-
 pétrît	pétrir	VER	-	-
@@ -128930,11 +128930,11 @@ radio-réveil	radio-réveil	NOM	m	s
 radio-réveils	radio-réveil	NOM	m	p
 radioactivité	radioactivité	NOM	f	s
 radioactivités	radioactivité	NOM	f	p
-radioamateur	radioamateur	NOM	-	s
+radioamateur	radioamateur	NOM	m	s
 radioamateurs	radioamateur	NOM	-	p
 radiobalise	radiobalise	NOM	f	s
 radiobalises	radiobalise	NOM	f	p
-radiocommunication	radiocommunication	NOM	-	s
+radiocommunication	radiocommunication	NOM	f	s
 radiocommunications	radiocommunication	NOM	-	p
 radiodiffusion	radiodiffusion	NOM	f	s
 radiodiffusions	radiodiffusion	NOM	f	p
@@ -129190,7 +129190,7 @@ rageât	rager	VER	-	-
 rageâtes	rager	VER	-	-
 ragiez	rager	VER	-	-
 ragions	rager	VER	-	-
-ragot	ragot	NOM	-	s
+ragot	ragot	NOM	m	s
 ragots	ragot	NOM	-	p
 ragoût	ragoût	NOM	m	s
 ragoûts	ragoût	NOM	-	p
@@ -129870,7 +129870,7 @@ ramifiassent	ramifier	VER	-	-
 ramifiasses	ramifier	VER	-	-
 ramifiassiez	ramifier	VER	-	-
 ramifiassions	ramifier	VER	-	-
-ramification	ramification	NOM	-	s
+ramification	ramification	NOM	f	s
 ramifications	ramification	NOM	-	p
 ramifie	ramifier	VER	-	-
 ramifient	ramifier	VER	-	-
@@ -131180,7 +131180,7 @@ rattrapées	rattraper	VER	f	p
 rattrapées	rattrapé	ADJ	f	p
 rattrapés	rattraper	VER	m	p
 rattrapés	rattrapé	ADJ	m	p
-rature	rature	NOM	-	s
+rature	rature	NOM	f	s
 ratures	ratures	NOM	-	p
 ratâmes	rater	VER	-	-
 ratât	rater	VER	-	-
@@ -131722,7 +131722,7 @@ rebondissait	rebondir	VER	-	-
 rebondissant	rebondir	VER	-	-
 rebondisse	rebondir	VER	-	-
 rebondissement	rebondissement	ADV	-	-
-rebondissement	rebondissement	NOM	-	s
+rebondissement	rebondissement	NOM	m	s
 rebondissements	rebondissement	NOM	-	p
 rebondissent	rebondir	VER	-	-
 rebondisses	rebondir	VER	-	-
@@ -136943,7 +136943,7 @@ remontrai	remontrer	VER	-	-
 remontraient	remontrer	VER	-	-
 remontrais	remontrer	VER	-	-
 remontrait	remontrer	VER	-	-
-remontrance	remontrance	NOM	-	s
+remontrance	remontrance	NOM	f	s
 remontrances	remontrance	NOM	-	p
 remontrant	remontrer	VER	-	-
 remontras	remontrer	VER	-	-
@@ -141249,7 +141249,7 @@ retranchassiez	retrancher	VER	-	-
 retranchassions	retrancher	VER	-	-
 retranche	retrancher	VER	-	-
 retranchement	retranchement	ADV	-	-
-retranchement	retranchement	NOM	-	s
+retranchement	retranchement	NOM	m	s
 retranchements	retranchement	NOM	-	p
 retranchent	retrancher	VER	-	-
 retrancher	retrancher	VER	-	-
@@ -142384,7 +142384,7 @@ rhinocéros	rhinocéros	NOM	m	p
 rhubarbe	rhubarbe	NOM	f	s
 rhubarbes	rhubarbe	NOM	f	p
 rhum	rhum	NOM	m	s
-rhumatisme	rhumatisme	NOM	-	s
+rhumatisme	rhumatisme	NOM	m	s
 rhumatismes	rhumatisme	NOM	-	p
 rhume	rhume	NOM	m	s
 rhumes	rhum	NOM	-	p
@@ -143051,7 +143051,7 @@ rivée	river	VER	f	s
 rivées	river	VER	f	p
 rivés	river	VER	m	p
 riz	riz	NOM	m	s
-rizière	rizière	NOM	-	s
+rizière	rizière	NOM	f	s
 rizières	rizière	NOM	-	p
 rment	rment	ADV	-	-
 road	road	NOM	e	s
@@ -143523,7 +143523,7 @@ rosiées	rosier	VER	f	p
 rosiés	rosier	VER	m	p
 rosée	rosée	NOM	f	s
 rosées	rosée	NOM	f	p
-rotateur	rotateur	NOM	-	s
+rotateur	rotateur	NOM	m	s
 rotateurs	rotateur	NOM	-	p
 rotation	rotation	NOM	f	s
 rotations	rotation	NOM	-	p
@@ -143755,7 +143755,7 @@ routiez	router	VER	-	-
 routine	routine	NOM	f	s
 routines	routine	NOM	-	p
 routions	router	VER	-	-
-routière	routière	NOM	-	s
+routière	routière	NOM	f	s
 routières	routier	NOM	-	p
 routons	router	VER	-	-
 routâmes	router	VER	-	-
@@ -143880,7 +143880,7 @@ rudes	rude	NOM	-	p
 rudesse	rudesse	NOM	f	s
 rudesses	rudesse	NOM	f	p
 rudiment	rudiment	ADV	-	-
-rudiment	rudiment	NOM	-	s
+rudiment	rudiment	NOM	m	s
 rudimentaire	rudimentaire	ADJ	e	s
 rudimentaires	rudimentaire	ADJ	e	p
 rudiments	rudiment	NOM	-	p
@@ -144596,7 +144596,7 @@ réajustassiez	réajuster	VER	-	-
 réajustassions	réajuster	VER	-	-
 réajuste	réajuster	VER	-	-
 réajustement	réajustement	ADV	-	-
-réajustement	réajustement	NOM	-	s
+réajustement	réajustement	NOM	m	s
 réajustements	réajustement	NOM	-	p
 réajustent	réajuster	VER	-	-
 réajuster	réajuster	VER	-	-
@@ -145521,7 +145521,7 @@ réconforté	réconforter	VER	m	s
 réconfortée	réconforter	VER	f	s
 réconfortées	réconforter	VER	f	p
 réconfortés	réconforter	VER	m	p
-récrimination	récrimination	NOM	-	s
+récrimination	récrimination	NOM	f	s
 récriminations	récrimination	NOM	-	p
 récréation	récréation	NOM	f	s
 récréations	récréation	NOM	f	p
@@ -147544,7 +147544,7 @@ réjouis	réjouir	VER	m	p
 réjouissaient	réjouir	VER	-	-
 réjouissais	réjouir	VER	-	-
 réjouissait	réjouir	VER	-	-
-réjouissance	réjouissance	NOM	-	s
+réjouissance	réjouissance	NOM	f	s
 réjouissances	réjouissance	NOM	-	p
 réjouissant	réjouir	VER	-	-
 réjouissant	réjouissant	ADJ	m	s
@@ -147957,7 +147957,7 @@ répercuteront	répercuter	VER	-	-
 répercutes	répercuter	VER	-	-
 répercutez	répercuter	VER	-	-
 répercutiez	répercuter	VER	-	-
-répercution	répercution	NOM	-	s
+répercution	répercution	NOM	f	s
 répercutions	répercuter	VER	-	-
 répercutions	répercution	NOM	-	p
 répercutons	répercuter	VER	-	-
@@ -151222,7 +151222,7 @@ sangle	sangle	NOM	f	s
 sangles	sangle	NOM	-	p
 sanglier	sanglier	NOM	m	s
 sangliers	sanglier	NOM	-	p
-sanglot	sanglot	NOM	-	s
+sanglot	sanglot	NOM	m	s
 sanglota	sangloter	VER	-	-
 sanglotai	sangloter	VER	-	-
 sanglotaient	sangloter	VER	-	-
@@ -152533,10 +152533,10 @@ scrappées	scrapper	VER	f	p
 scrappés	scrapper	VER	m	p
 scraps	scrap	NOM	m	p
 screen	screen	NOM	m	s
-screenlet	screenlet	NOM	-	s
+screenlet	screenlet	NOM	m	s
 screenlets	screenlets	NOM	-	p
 screens	screen	NOM	-	p
-screenshot	screenshot	NOM	-	s
+screenshot	screenshot	NOM	m	s
 screenshots	screenshot	NOM	-	p
 scribe	scribe	NOM	m	s
 scribes	scrib	NOM	-	p
@@ -156111,7 +156111,7 @@ sont	être	VER	-	-
 sonts	sont	NOM	m	p
 sony	sony	NOM	m	s
 sonys	sony	NOM	m	p
-sophisme	sophisme	NOM	-	s
+sophisme	sophisme	NOM	m	s
 sophismes	sophisme	NOM	-	p
 sophistication	sophistication	NOM	f	s
 sophistications	sophistication	NOM	f	p
@@ -157422,7 +157422,7 @@ souvint	souvenir	VER	-	-
 souvînmes	souvenir	VER	-	-
 souvînt	souvenir	VER	-	-
 souvîntes	souvenir	VER	-	-
-soviet	soviet	NOM	-	s
+soviet	soviet	NOM	m	s
 soviets	soviet	NOM	-	p
 soviétique	soviétique	NOM	-	s
 soviétiques	soviétique	NOM	-	p
@@ -157511,7 +157511,7 @@ spams	spam	NOM	-	p
 sparadrap	sparadrap	NOM	m	s
 sparadraps	sparadrap	NOM	m	p
 spas	spa	NOM	-	p
-spasme	spasme	NOM	-	s
+spasme	spasme	NOM	m	s
 spasmes	spasm	NOM	-	p
 spatialement	spatialement	ADV	-	-
 spatule	spatule	NOM	f	s
@@ -157893,7 +157893,7 @@ spéculassent	spéculer	VER	-	-
 spéculasses	spéculer	VER	-	-
 spéculassiez	spéculer	VER	-	-
 spéculassions	spéculer	VER	-	-
-spéculateur	spéculateur	NOM	-	s
+spéculateur	spéculateur	NOM	m	s
 spéculateurs	spéculateur	NOM	-	p
 spéculation	spéculation	NOM	f	s
 spéculations	spéculation	NOM	-	p
@@ -158522,7 +158522,7 @@ stipulés	stipulé	ADJ	m	p
 stochastique	stochastique	NOM	m	s
 stochastiques	stochastique	NOM	m	p
 stock	stock	NOM	m	s
-stock-option	stock-option	NOM	-	s
+stock-option	stock-option	NOM	f	s
 stock-options	stock-option	NOM	-	p
 stocka	stocker	VER	-	-
 stockage	stockage	NOM	m	s
@@ -158560,7 +158560,7 @@ stockiez	stocker	VER	-	-
 stockions	stocker	VER	-	-
 stockons	stocker	VER	-	-
 stocks	stock	NOM	-	p
-stocks-option	stocks-option	NOM	-	s
+stocks-option	stocks-option	NOM	f	s
 stocks-options	stocks-options	NOM	-	p
 stockâmes	stocker	VER	-	-
 stockât	stocker	VER	-	-
@@ -159753,7 +159753,7 @@ sucrerais	sucrer	VER	-	-
 sucrerait	sucrer	VER	-	-
 sucreras	sucrer	VER	-	-
 sucrerez	sucrer	VER	-	-
-sucrerie	sucrerie	NOM	-	s
+sucrerie	sucrerie	NOM	f	s
 sucreries	sucrerie	NOM	-	p
 sucreriez	sucrer	VER	-	-
 sucrerions	sucrer	VER	-	-
@@ -160347,7 +160347,7 @@ suppliassent	supplier	VER	-	-
 suppliasses	supplier	VER	-	-
 suppliassiez	supplier	VER	-	-
 suppliassions	supplier	VER	-	-
-supplication	supplication	NOM	-	s
+supplication	supplication	NOM	f	s
 supplications	supplication	NOM	-	p
 supplice	supplice	NOM	m	s
 supplices	supplice	NOM	-	p
@@ -160723,7 +160723,7 @@ surchauffée	surchauffer	VER	f	s
 surchauffées	surchauffer	VER	f	p
 surchauffés	surchauffer	VER	m	p
 surclassement	surclassement	ADV	-	-
-surclassement	surclassement	NOM	-	s
+surclassement	surclassement	NOM	m	s
 surclassements	surclassement	NOM	-	p
 surcompensation	surcompensation	NOM	f	s
 surcompensations	surcompensation	NOM	f	p
@@ -162564,7 +162564,7 @@ sédentarisée	sédentariser	VER	f	s
 sédentarisées	sédentariser	VER	f	p
 sédentarisés	sédentariser	VER	m	p
 sédiment	sédiment	ADV	-	-
-sédiment	sédiment	NOM	-	s
+sédiment	sédiment	NOM	m	s
 sédimentation	sédimentation	NOM	f	s
 sédimentations	sédimentation	NOM	f	p
 sédiments	sédiment	NOM	-	p
@@ -164819,7 +164819,7 @@ tergiversassent	tergiverser	VER	-	-
 tergiversasses	tergiverser	VER	-	-
 tergiversassiez	tergiverser	VER	-	-
 tergiversassions	tergiverser	VER	-	-
-tergiversation	tergiversation	NOM	-	s
+tergiversation	tergiversation	NOM	f	s
 tergiversations	tergiversation	NOM	-	p
 tergiverse	tergiverser	VER	-	-
 tergiversent	tergiverser	VER	-	-
@@ -165328,7 +165328,7 @@ thérapeutes	thérapeute	NOM	-	p
 thérapie	thérapie	NOM	f	s
 thérapies	thérapie	NOM	m	p
 thés	thés	NOM	-	p
-thésard	thésard	NOM	-	s
+thésard	thésard	NOM	m	s
 thésards	thésard	NOM	-	p
 théâtralement	théâtralement	ADV	-	-
 théâtralité	théâtralité	NOM	f	s
@@ -165621,7 +165621,7 @@ tiraillassiez	tirailler	VER	-	-
 tiraillassions	tirailler	VER	-	-
 tiraille	tirailler	VER	-	-
 tiraillement	tiraillement	ADV	-	-
-tiraillement	tiraillement	NOM	-	s
+tiraillement	tiraillement	NOM	m	s
 tiraillements	tiraillement	NOM	-	p
 tiraillent	tirailler	VER	-	-
 tirailler	tirailler	VER	-	-
@@ -166788,7 +166788,7 @@ tourbillonnée	tourbillonner	VER	f	s
 tourbillonnées	tourbillonner	VER	f	p
 tourbillonnés	tourbillonner	VER	m	p
 tourbillons	tourbillon	NOM	-	p
-tourbière	tourbière	NOM	-	s
+tourbière	tourbière	NOM	f	s
 tourbières	tourbière	NOM	-	p
 tourelle	tourelle	NOM	f	s
 tourelles	tourelle	NOM	-	p
@@ -167093,7 +167093,7 @@ tractassent	tracter	VER	-	-
 tractasses	tracter	VER	-	-
 tractassiez	tracter	VER	-	-
 tractassions	tracter	VER	-	-
-tractation	tractation	NOM	-	s
+tractation	tractation	NOM	f	s
 tractations	tractation	NOM	-	p
 tracte	tracter	VER	-	-
 tractent	tracter	VER	-	-
@@ -170678,7 +170678,7 @@ tâtonnassiez	tâtonner	VER	-	-
 tâtonnassions	tâtonner	VER	-	-
 tâtonne	tâtonner	VER	-	-
 tâtonnement	tâtonnement	ADV	-	-
-tâtonnement	tâtonnement	NOM	-	s
+tâtonnement	tâtonnement	NOM	m	s
 tâtonnements	tâtonnement	NOM	-	p
 tâtonnent	tâtonner	VER	-	-
 tâtonner	tâtonner	VER	-	-
@@ -170803,7 +170803,7 @@ téléchargés	téléchargé	ADJ	e	p
 télécom	télécom	NOM	-	s
 télécommande	télécommande	NOM	f	s
 télécommandes	télécommande	NOM	-	p
-télécommunication	télécommunication	NOM	-	s
+télécommunication	télécommunication	NOM	f	s
 télécommunications	télécommunication	NOM	-	p
 télécoms	télécom	NOM	-	p
 téléconférence	téléconférence	NOM	f	s
@@ -171102,7 +171102,7 @@ ultraes	ultra	ADJ	f	p
 ultras	ultra	ADJ	m	p
 ultrason	ultrason	NOM	-	s
 ultrasons	ultrason	NOM	-	p
-ultraviolet	ultraviolet	NOM	-	s
+ultraviolet	ultraviolet	NOM	m	s
 ultraviolets	ultraviolet	NOM	-	p
 ultérieurement	ultérieurement	ADV	-	-
 uléma	uléma	NOM	-	s
@@ -173408,7 +173408,7 @@ vice-présidentes	vice-présidente	NOM	f	p
 vice-présidents	vice-président	NOM	-	p
 vices	vic	NOM	-	p
 vicieusement	vicieusement	ADV	-	-
-vicissitude	vicissitude	NOM	-	s
+vicissitude	vicissitude	NOM	f	s
 vicissitudes	vicissitude	NOM	-	p
 vicomte	vicomte	NOM	m	s
 vicomtes	vicomte	NOM	-	p
@@ -173590,7 +173590,7 @@ viendront	venir	VER	-	-
 vienne	venir	VER	-	-
 viennent	venir	VER	-	-
 viennes	venir	VER	-	-
-viennoiserie	viennoiserie	NOM	-	s
+viennoiserie	viennoiserie	NOM	f	s
 viennoiseries	viennoiserie	NOM	-	p
 viens	venir	VER	-	-
 vient	venir	VER	-	-
@@ -174883,7 +174883,7 @@ vomissait	vomir	VER	-	-
 vomissant	vomir	VER	-	-
 vomisse	vomir	VER	-	-
 vomissement	vomissement	ADV	-	-
-vomissement	vomissement	NOM	-	s
+vomissement	vomissement	NOM	m	s
 vomissements	vomissement	NOM	-	p
 vomissent	vomir	VER	-	-
 vomisses	vomir	VER	-	-
@@ -176328,7 +176328,7 @@ zéros	zéro	NOM	-	p
 âme	âme	NOM	e	s
 âmes	âme	NOM	-	p
 âne	âne	NOM	m	s
-ânerie	ânerie	NOM	-	s
+ânerie	ânerie	NOM	f	s
 âneries	ânerie	NOM	-	p
 ânes	âne	NOM	-	p
 âpre	âpre	ADJ	e	s
@@ -176785,7 +176785,7 @@ zéros	zéro	NOM	-	p
 échappatoires	échappatoire	NOM	f	p
 échappe	échapper	VER	-	-
 échappement	échappement	ADV	-	-
-échappement	échappement	NOM	-	s
+échappement	échappement	NOM	m	s
 échappements	échappement	NOM	-	p
 échappent	échapper	VER	-	-
 échapper	échapper	VER	-	-
@@ -179070,7 +179070,7 @@ zéros	zéro	NOM	-	p
 éléments-clés	éléments-clé	NOM	-	p
 éléphant	éléphant	NOM	m	s
 éléphants	éléphant	NOM	-	p
-élévateur	élévateur	NOM	-	s
+élévateur	élévateur	NOM	m	s
 élévateurs	élévateur	NOM	-	p
 élévation	élévation	NOM	f	s
 élévations	élévation	NOM	f	p
@@ -179478,7 +179478,7 @@ zéros	zéro	NOM	-	p
 émit	émettre	VER	-	-
 émoi	émoi	NOM	m	s
 émois	émoi	NOM	m	p
-émolument	émolument	NOM	-	s
+émolument	émolument	NOM	m	s
 émoluments	émolument	NOM	-	p
 émotion	émotion	NOM	e	s
 émotionnellement	émotionnellement	ADV	-	-
@@ -180380,7 +180380,7 @@ zéros	zéro	NOM	-	p
 épilée	épiler	VER	f	s
 épilées	épiler	VER	f	p
 épilés	épiler	VER	m	p
-épinard	épinard	NOM	-	s
+épinard	épinard	NOM	m	s
 épinards	épinard	NOM	-	p
 épine	épine	NOM	f	s
 épines	épine	NOM	-	p

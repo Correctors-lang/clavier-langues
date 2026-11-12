@@ -25045,7 +25045,6 @@ lufwa	lenda	6
 yandi	mesala	6
 nzambi	kusadilaka	6
 yo	tasalama	6
-ya	kisakasaka	6
 tapesa	yandi	6
 ndonga	mpi	6
 yo	paladisu	6
@@ -30065,7 +30064,6 @@ nde	akabi	5
 naboti	vandaka	5
 akabi	nde	5
 ntangu	akabi	5
-pusupusu	na	5
 nde	baale	5
 kwikila	kibeni	5
 na	babilonia	5
@@ -37332,7 +37330,6 @@ kangu	na	4
 mpe	bau	4
 mazina	ya	4
 bau	mbote	4
-na	pusupusu	4
 kesadisaka	bantu	4
 kekusaka	bantu	4
 kuzabisaka	bo	4
@@ -44097,9 +44094,6 @@ kebinga	yandi	3
 kelanda	tatubila	3
 ya	kesalama	3
 mpi	kukwendaka	3
-bapusupusu	na	3
-na	bapusupusu	3
-bapusupusu	ya	3
 na	katikati	3
 kuyimba	nde	3
 ka	mwa	3
@@ -45247,7 +45241,6 @@ yehowa	nungaka	3
 kubuyisa	beto	3
 buyisa	kisalu	3
 kumaka	kuvukana	3
-na	babalabala	3
 ya	zaïre	3
 kangaka	bima	3
 misionere	mpi	3
