@@ -191,6 +191,13 @@
       "replace": "ça va"
     },
     {
+      "id": "sava-colle",
+      "flags": "i",
+      "pattern": "\\b[sç]ava\\b",
+      "message": "« ça va » en deux mots",
+      "replace": "ça va"
+    },
+    {
       "id": "au-niveau",
       "flags": "i",
       "pattern": "\\bau niveau de\\b",
