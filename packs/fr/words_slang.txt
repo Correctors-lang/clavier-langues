@@ -908,8 +908,20 @@ zguegue
 # Le clavier propose lui-même de brancher Gemini, Grok, ChatGPT et Mistral :
 # il serait absurde qu'il souligne leurs noms. Relevé le 2026-11-13 —
 # « le dictionnaire ne connaît pas grok ? ». Non : « grok », « groq » et
-# « deepseek » manquaient, là où « gemini », « chatgpt », « mistral »,
-# « openai » et « anthropic » étaient déjà dans la grande liste.
+# « deepseek » manquaient, là où « chatgpt » (200), « mistral » (337),
+# « openai » (200) et « anthropic » (200) étaient déjà dans la grande liste.
+#
+# « gemini » et « gboard » ont été ajoutés le 2026-11-13 au soir, à la demande
+# de l'utilisateur, et pour deux raisons DIFFÉRENTES — la sonde les sépare :
+#  - « gboard » est tout simplement absent du corpus (proposé : « board »,
+#    « abord », « bord », « godard ») ;
+#  - « gemini » y EST, mais à 72 seulement, sous le seuil en dessous duquel
+#    le correcteur tient une entrée pour du bruit de corpus. Le mot passait
+#    donc pour inconnu, et comme « gémini » existe (7), la règle de l'accent
+#    manquant proposait « gémini » en bleu. Les lister ici leur donne la
+#    fréquence par défaut de ce fichier (350), au-dessus du seuil.
+gemini
+gboard
 grok
 groq
 deepseek
