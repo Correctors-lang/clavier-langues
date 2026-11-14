@@ -18507,7 +18507,7 @@ bons	bon	NOM	m	p
 bonté	bonté	NOM	f	s
 bontés	bonté	NOM	f	p
 bonu	bonu	NOM	m	s
-bonus	bonus	NOM	m	p
+bonus	bonus	NOM	m	e
 bonus-malus	bonus-malus	NOM	m	s
 book	book	NOM	m	s
 booka	booker	VER	-	-
@@ -20064,7 +20064,7 @@ braqué	braquer	VER	m	s
 braquée	braquer	VER	f	s
 braquées	braquer	VER	f	p
 braqués	braquer	VER	m	p
-bras	bra	NOM	m	p
+bras	bras	NOM	m	e
 brasier	brasier	NOM	m	s
 brasiers	brasier	NOM	m	p
 brassa	brasser	VER	-	-
@@ -69313,7 +69313,7 @@ excèderions	excéder	VER	-	-
 excèderons	excéder	VER	-	-
 excèderont	excéder	VER	-	-
 excèdes	excéder	VER	-	-
-excès	excès	NOM	m	p
+excès	excès	NOM	m	e
 excéda	excéder	VER	-	-
 excédai	excéder	VER	-	-
 excédaient	excéder	VER	-	-
@@ -71504,7 +71504,7 @@ faire-part	faire-part	NOM	m	s
 faire-parts	faire-part	NOM	m	p
 faires	faire	NOM	e	p
 fairs	fair	NOM	m	p
-fais	fai	NOM	f	p
+fais	fais	NOM	f	e
 fais	faire	VER	-	-
 faisabilité	faisabilité	NOM	f	s
 faisabilités	faisabilité	NOM	f	p
@@ -72338,7 +72338,7 @@ fautifs	fautif	NOM	m	p
 fauve	fauve	NOM	m	s
 fauves	fauve	NOM	m	p
 faux	faillir	VER	-	-
-faux	faux	NOM	m	p
+faux	faux	NOM	m	e
 faux-pa	faux-pa	NOM	m	s
 faux-pas	faux-pas	NOM	m	p
 faux-semblant	faux-semblant	NOM	-	s
@@ -74612,7 +74612,7 @@ fluids	fluid	ADJ	m	p
 fluorescence	fluorescence	NOM	f	s
 fluorescences	fluorescence	NOM	f	p
 flus	flu	NOM	m	p
-flux	flux	NOM	m	p
+flux	flux	NOM	m	e
 flyer	flyer	NOM	-	s
 flyers	flyer	NOM	-	p
 flâna	flâner	VER	-	-
@@ -75125,7 +75125,7 @@ fondriez	fondre	VER	-	-
 fondrions	fondre	VER	-	-
 fondrons	fondre	VER	-	-
 fondront	fondre	VER	-	-
-fonds	fond	NOM	m	p
+fonds	fonds	NOM	m	e
 fonds	fondre	VER	-	-
 fonds-en-dépôt	fonds-en-dépôt	NOM	m	-
 fonds-en-dépôts	fonds-en-dépôt	NOM	m	p
@@ -76343,7 +76343,7 @@ fraierions	frayer	VER	-	-
 fraierons	frayer	VER	-	-
 fraieront	frayer	VER	-	-
 fraies	frayer	VER	-	-
-frais	frai	NOM	m	p
+frais	frais	NOM	m	e
 fraise	fraise	NOM	f	s
 fraises	frais	NOM	-	p
 fraisier	fraisier	NOM	-	s
@@ -79070,7 +79070,7 @@ garrigue	garrigue	NOM	f	s
 garrigues	garrigue	NOM	f	p
 garrot	garrot	NOM	m	s
 garrots	garrot	NOM	m	p
-gars	gars	NOM	m	p
+gars	gars	NOM	m	e
 garâmes	garer	VER	-	-
 garât	garer	VER	-	-
 garâtes	garer	VER	-	-
@@ -100668,7 +100668,7 @@ marabouts	marabout	NOM	m	p
 marae	marae	NOM	m	s
 maraes	marae	NOM	m	p
 marai	marai	NOM	m	s
-marais	marais	NOM	m	p
+marais	marais	NOM	m	e
 marasme	marasme	NOM	m	s
 marasmes	marasme	NOM	m	p
 marathon	marathon	NOM	m	s
@@ -104261,7 +104261,7 @@ moine	moine	NOM	m	s
 moineau	moineau	NOM	m	s
 moineaux	moineau	NOM	m	p
 moines	moin	NOM	m	p
-moins	moin	NOM	m	p
+moins	moins	NOM	m	e
 moins	moindre	VER	-	-
 moins	moins	ADV	-	-
 moint	moindre	VER	m	s
@@ -108374,7 +108374,7 @@ noirs	noir	NOM	m	p
 nois	noi	NOM	f	p
 noisette	noisette	NOM	f	s
 noisettes	noisette	NOM	f	p
-noix	noix	NOM	f	p
+noix	noix	NOM	f	e
 nom	nom	NOM	m	s
 nomade	nomade	NOM	-	s
 nomades	nomad	NOM	-	p
@@ -111975,7 +111975,7 @@ ouragan	ouragan	NOM	m	s
 ouragans	ouragan	NOM	m	p
 ourlet	ourlet	NOM	m	s
 ourlets	ourlet	NOM	m	p
-ours	our	NOM	m	p
+ours	ours	NOM	m	e
 oursin	oursin	NOM	-	s
 oursins	oursin	NOM	-	p
 ourson	ourson	NOM	-	s
@@ -113905,7 +113905,7 @@ pariiez	parier	VER	-	-
 pariions	parier	VER	-	-
 parions	parer	VER	-	-
 parions	parier	VER	-	-
-paris	pari	NOM	m	p
+paris	paris	NOM	m	e
 parisien	parisien	ADJ	m	s
 parisien	parisien	NOM	f	s
 parisienne	parisien	ADJ	f	s
@@ -115244,7 +115244,7 @@ payiez	payer	VER	-	-
 payions	payer	VER	-	-
 payment	payment	ADV	-	-
 payons	payer	VER	-	-
-pays	pay	NOM	m	p
+pays	pays	NOM	m	e
 paysage	paysage	NOM	m	s
 paysage	paysager	VER	-	-
 paysagea	paysager	VER	-	-
@@ -122490,7 +122490,7 @@ privée	priver	VER	f	s
 privées	priver	VER	f	p
 privés	priver	VER	m	p
 privés	privé	NOM	m	p
-prix	pri	NOM	m	p
+prix	prix	NOM	m	e
 priâmes	prier	VER	-	-
 priât	prier	VER	-	-
 priâtes	prier	VER	-	-
@@ -123381,7 +123381,7 @@ progressées	progressé	ADJ	f	p
 progressés	progresser	VER	m	p
 progressés	progressé	ADJ	m	p
 progrè	progrè	NOM	m	s
-progrès	progrès	NOM	m	p
+progrès	progrès	NOM	m	e
 progs	prog	NOM	m	p
 progéniture	progéniture	NOM	f	s
 progénitures	progéniture	NOM	f	p
@@ -123994,7 +123994,7 @@ proportionnelles	proportionnel	ADJ	f	p
 proportionnelles	proportionnelle	NOM	f	p
 proportionnels	proportionnel	ADJ	m	p
 proportions	proportion	NOM	f	p
-propos	propos	NOM	m	p
+propos	propos	NOM	m	e
 proposa	proposer	VER	-	-
 proposai	proposer	VER	-	-
 proposaient	proposer	VER	-	-
@@ -138450,7 +138450,7 @@ reparut	reparaître	VER	-	-
 reparûmes	reparaître	VER	-	-
 reparût	reparaître	VER	-	-
 reparûtes	reparaître	VER	-	-
-repas	repas	NOM	m	p
+repas	repas	NOM	m	e
 repassa	repasser	VER	-	-
 repassage	repassage	NOM	m	s
 repassages	repassage	NOM	m	p
@@ -152833,7 +152833,7 @@ secourriez	secourir	VER	-	-
 secourrions	secourir	VER	-	-
 secourrons	secourir	VER	-	-
 secourront	secourir	VER	-	-
-secours	secour	NOM	m	p
+secours	secours	NOM	m	e
 secours	secourir	VER	-	-
 secourt	secourir	VER	-	-
 secouru	secourir	VER	m	s
@@ -155076,7 +155076,7 @@ smiley	smiley	NOM	m	-
 smileys	smiley	NOM	m	p
 smoking	smoking	NOM	m	s
 smokings	smoking	NOM	m	p
-sms	sm	NOM	m	p
+sms	sms	NOM	m	e
 snack	snack	NOM	m	s
 snacks	snack	NOM	m	p
 sneaker	sneaker	NOM	-	s
@@ -164064,7 +164064,7 @@ tartinés	tartiner	VER	m	p
 tarîmes	tarir	VER	-	-
 tarît	tarir	VER	-	-
 tarîtes	tarir	VER	-	-
-tas	ta	NOM	m	p
+tas	tas	NOM	m	e
 tassa	tasser	VER	-	-
 tassai	tasser	VER	-	-
 tassaient	tasser	VER	-	-
@@ -165398,7 +165398,7 @@ tieriez	tier	VER	-	-
 tierions	tier	VER	-	-
 tierons	tier	VER	-	-
 tieront	tier	VER	-	-
-tiers	tier	NOM	m	p
+tiers	tiers	NOM	m	e
 tiers-monde	tiers-monde	NOM	m	s
 tiers-mondes	tiers-monde	NOM	m	p
 ties	tier	VER	-	-
@@ -174093,7 +174093,7 @@ virées	viré	ADJ	f	p
 virées	viré	NOM	-	p
 virés	virer	VER	m	p
 virés	viré	ADJ	m	p
-vis	vi	NOM	e	p
+vis	vis	NOM	e	e
 vis	vivre	VER	-	-
 vis	voir	VER	-	-
 visa	visa	NOM	m	s
@@ -180594,7 +180594,7 @@ zéros	zéro	NOM	-	p
 épouvantails	épouvantail	NOM	m	p
 épouvante	épouvante	NOM	f	s
 épouvantes	épouvante	NOM	f	p
-époux	époux	NOM	m	p
+époux	époux	NOM	m	e
 épreuve	épreuve	NOM	f	s
 épreuves	épreuve	NOM	f	p
 épris	épris	ADJ	m	s
