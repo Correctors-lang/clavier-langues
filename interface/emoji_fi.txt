@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « fi » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	laatikko new painike teksti uusi uutta
+🧑‍🤝‍🧑	käsi pari pariskunta pitää toisiaan käsistä
+◽	muoto neliö pienehkö valkoinen
+⛽	asema bensapumppu bensiini polttoaine
+🔓	auki avata lukko
+👄	huulet pää suu vartalo
+🍴	aterimet haarukka ja veitsi ruokailu
+🏒	jää jääkiekko ja maila kiekko ottelu peli
+💦	hiki hikipisarat sarjakuva vesi
+🎐	juhla kello tuuli tuulikello
+😼	hymy ironinen kissa naama vino vinosti hymyilevä
+😉	flirtti huumori kasvot naama salaisuus silmä silmänisku
+📛	kyltti lappu nimi nimikyltti
+🚉	ajoneuvo asema juna rautatie
+💌	kirje posti rakkaus rakkauskirje romantiikka sydän
+🆘	apua hätämerkki merkki sos
+🛙	hoksata merenkulku meri merkki merkkivalo neuvonta ohjaus toivo valaista
+🍯	hunaja makea
+😿	itkevä kissa itku kyynel naama surullinen
+🫜	juuri juurikas kasvis kasvissyöjä nauris puutarha retiisi ruoka salaatti
+😳	naama punastunut tyrmistynyt vau
+🚨	hälytys poliisi valo vilkku
+🚌	ajoneuvo auto bussi linja-auto
+🌇	auringonlasku aurinko ilta sää
+🔝	alkuun nuoli top-nuoli ylös
+🙊	apina eläin en puhu pahaa hiljaa hups kielletty
+🐙	eläin meri valtameri
+🕦	11.30 23.30 30 aika kello kellonaika puoli kaksitoista
+🕞	15.30 3.30 30 aika kello kellonaika puoli neljä
+🙌	ele hurraa juhla käsi nostettu nousevat kädet vartalo
+🚗	ajoneuvo auto
+🕥	10.30 22.30 30 aika kello kellonaika puoli yksitoista
+🥱	haukotteleva naama haukotus kasvot kyllästynyt uni väsynyt
+🐎	kilpa kilpahevonen ratsastaja ratsu ratsuhevonen ravihevonen ravit
+👩‍🚒	nainen palonainen tulipalo tulitaistelija
+🪉	harppu musiikki orkesteri rakkaus soitin
+🫁	elin hengitys henkäisy keuhkot
+📲	kännykkä ja nuoli matkapuhelin puhelin puhelu saapuva
+💚	sydän vihreä
+📶	kenttä kuuluvuus kuuluvuuspalkit matkapuhelin palkki puhelin signaali
+🫦	flirttaileva hermostunut huolestunut huuli huulipuna kiusaantunut pelokas purra huulta seksikäs vaivautunut
+🌅	aamu auringonnousu aurinko sää
+🌂	asuste sää sade sateenvarjo suljettu
+🍲	pata ruokakulho
+🪜	askelma kiivetä tikapuut tikkaat
+✅	merkki oikein rasti tarkistusmerkki v valkoinen valintamerkki valmis
+📑	kirjanmerkki kirjanmerkkivälilehdet merkki välilehti
+👣	jalanjäljki jälki vaatteet vartalo
+👀	naama silmä silmät vartalo
+🤸	aktiivinen ihminen iloinen innostunut kuperkeikka liikunta urheilu voimistelu voltti
+⭕	o suuri ympyrä
+😆	auki hymy ja tiukasti suljetut silmät naama nauru suu tyytyväinen
+🔄	nuolet vastapäivään nuoli uudelleen
+🟢	vihreä ympyrä
+🧗	ihminen kiipeilee kallio kalliokiipeilijä kiipeily kiivetä ylös seinä vuori
+🌟	loistava tähti loiste säihke valo
+🤧	aivastaa aivastava aivastus kasvot naama terveydeksi
+🔛	nuoli on!-nuoli päällä
+🪫	akku vähissä sähkö tyhjä virta
+⏰	herätys kello myöhä
+🥕	porkkana ruoka vihannes
+➿	2 kaksoissilmukka nauhuri silmukka vastaaja
+🥂	juhlia juoda kilistää kippis lasi pikarit skumppa
+🪲	hyönteinen koppakuoriainen ötökkä
+🩹	haava hoito laastari
+🟧	neliö oranssi
+📍	karttanaula nasta naula neula pyöreä
+😽	kissa kissan pusunaama ja suljetut silmät naama pusu silmä suukko
+🐤	kananpoika lintu tipu
+🤵	häät henkilö smokki smokkipukuinen
+🛼	luistin urheilu
+🧩	arvoitus pala palapeli vihje yhteenliittynyt yhteensopiva
+🛝	leikki leikkiä leikkipuisto liukua
+🔇	äänenvoimakkuus äänetön hiljaa kaiutin mykistetty mykistys
+🏥	ensiapu hoito lääkäri rakennus sairaala
+🚔	ajoneuvo auto poliisi saapuva poliisiauto vastaantuleva
+💶	euro euroseteli pankki raha seteli valuutta
+🥭	hedelmä ruoka tehosekoitin trooppinen
+🫂	hei kiitos näkemiin rakkaus ystävä
+🔳	muoto neliö valinta valintaruutu valkoinen neliöruutu
+💹	kasvu käyrä markkinat nousu pankki raha valuutta yen ja nouseva
+🧺	kori maatalous piknik pyykki pyykkikori
+😖	hämmentynyt naama pöyristynyt tyrmistynyt
+🔐	avain ja lukko kiinni pyörä turva
+🈯	japani kirjoitusmerkki varattu-kirjainmerkki
+🏦	pankki rakennus
+🍧	herkku jää jäähile jäähilejälkiruoka jälkiruoka makea
+🧍	ihminen seisoa seisova
+🟠	oranssi ympyrä
+⛔	ajosuunta ei kielletty liikenne sallittu
+✊	isku käsi nostettu nyrkki puristettu vartalo
+🌜	kasvot kuu puolikuu sää taivaankappale vähenevä kasvoilla
+😹	ilo kissa ja naurunkyyneleet kissanaama kyyneleet naama nauru
+🧾	kirjanpito kuitti kulut tilinpito todistus tosite
+🪩	bileet disco disko diskopallo glitter juhlat peilipallo tanssi
+🏇	eläin hevonen jockey kilparatsastus ravit
+👦	miespuolinen nuori poika
+🏸	maila ottelu sulka sulkapallo sulkapallomaila
+🥜	pähkinä ruoka vihannes
+📱	kännykkä matkapuhelin mobiili mobiililaite puhelin
+🕎	juutalaisuus kynttilä menora seitsenhaarainen uskonto
+🚙	ajoneuvo auto katumaasturi
+🖤	musta sydän
+🪬	amuletti ennustus fatima hamsa kämmen käsi maria miriam suoja suojelu
+🚴	polkupyörä pyörä pyöräilijä
+🍷	baari juoda juoma lasi viini viinilasi
+💊	lääkäri lääke lääketiede pilleri tauti
+🍀	kasvi lehti neliapila nelilehtinen neljä
+🪌	korjaus kumittaa poistaa pyyhkiä virhe
+😷	flunssa lääkäri lääke naama ja hengityssuoja sairas suoja
+📆	kalenteri päiväkalenteri
+🙉	apina ei ele en kuule pahaa kielletty
+💱	pankki raha vaihto valuutanvaihto valuutta
+🩻	lääkäri lääketiede luuranko luut röntgen
+🏠	asumus koti rakennus
+📙	kirja oranssi
+🥔	peruna ruoka vihannes
+💮	kukka valkoinen
+🥌	curling-kivi jää kivi peli
+💩	hirviö kakka kakkakasa lanta naama sarjakuva sonta
+🍳	aamiainen kananmuna paistinpannu ruoanlaitto ruoka
+🦈	hai kala
+🌼	kasvi kukinta kukka
+😜	kieli ulkona ja silmänisku naama silmä vitsi
+🪁	leija leijailla lennättää
+⛎	horoskooppi horoskooppimerkki käärme käärmeenkantaja ophiuchus tähtikuvio
+🍾	baari juoda korkki poksauttaa pullo ja korkin poksautus
+🧇	aamiainen aamupala vohvelirauta
+🛞	ajoneuvo auto autonrengas kääntyminen pyörä
+📜	käärö kirjakäärö paperi
+🧎	ihminen polvi polvillaan polvistua polvistuminen
+🌕	kuu sää taivaankappale täysi täysikuu
+💽	levy minidisc minidisk tietokone
+💙	rakkaus romanssi sininen sydän tunne
+📏	suora viivain viivoitin
+🥡	noutoruoka ruoka syömäpuikot
+🕔	17 17.00 5 5.00 aika kello viisi kellonaika
+🤩	iloinen kasvot naama silmät tähdet tähtisilmä virnistys
+🟦	neliö sininen
+🐍	horoskooppi horoskooppimerkki käärme käärmeenkantaja viestintuoja
+🐉	lohikäärme satu
+🪎	arvoesineet hopea jalokivi korut kulta palkinto raha ryöstösaalis vauraus
+💯	100 pisteet sata pistettä täydet
+🌝	kasvot kirkas kuu sää täysikuu kasvoilla valo
+♏	horoskooppi horoskooppimerkki skorpioni skorpioni-merkki
+🪞	heijastus meikkaus peilata peili
+💅	kosmetiikka kynsi kynsihuolto kynsilakka lakka manikyyri vartalo
+🫫	hajota jännitys murentua muutos naamio paljastaa sinnikkyys
+🈁	japani katakana kirjoitusmerkki täällä-kirjainmerkki
+🍵	juoda juoma korvaton teekuppi kuppi tee
+⏳	ajanotto hiekka tiimalasi valuva
+🌙	kuu kuunsirppi sää sirppi taivaankappale
+🤭	hups käsi suun edessä kiherrys lipsahdus salaisuus yllätys
+🥗	ruoka salaatti vihreä
+🈹	alennus alennus-kirjoitusmerkki japani kirjoitusmerkki
+🔔	ääni kello kirkonkello sointi
+🦹	kelmi konna paha rikollinen roisto superpahis supervoimat
+🙎	ele mököttävä henkilö
+🫴	houkutella käsi kämmen ylöspäin kutsua nostaa pidellä pyydystää tarjota viittilöidä viittoa
+👨‍🦽	esteettömyys mies käsikäyttöisessä pyörätuolissa pyörätuoli
+🙇	anteeksi anteeksipyyntö ele kumarrus kumartava henkilö
+🔈	äänenvoimakkuus alhainen hiljainen kaiutin
+🍋‍🟩	cocktail hapan hedelmä kirpeä koriste lime limetti margarita mojito raikas salsa sitrus tequila trooppinen vihreä
+🪖	armeija kypärä sotilaallinen sotilas sotilaskypärä
+🪰	eläin mätänevä sairaus tauti toukka tuholainen
+👧	horoskooppi horoskooppimerkki neiti neito neitsyt nuori tytär tyttö
+🍂	kasvi lehti pudonnut putoava
+🍝	lihapullat pasta ravintola ruoka
+🧑‍🦼	esteettömyys henkilö moottoroidussa pyörätuolissa pyörätuoli
+🏂	laskettelu lumi lumilauta lumilautailija
+🏬	kauppa rakennus tavaratalo
+🤾	heittää heitto ihminen käsipallo kenttä liikunta ottaa koppi pallo urheilu viskata
+🌳	kasvi lehtipuu palmu puu
+🏐	lentopallo ottelu
+🧴	aurinkovoide hoitoaine hoitoainepullo kosteusvoide sampoo shampoo
+💨	juoksu pikalähtö sarjakuva
+🪱	eläin kastemato loinen
+🫕	juusto pata ruoka suklaa sulatettu sveitsiläinen
+🕧	00.30 12.30 30 aika kello kellonaika puoli yksi
+🥣	aamiainen congee murot puuro
+🍞	aamiainen paahtoleipä pala ravintola vehnä
+🌚	kasvot kuu sää taivaankappale uudenkuun
+🦨	eläin haista haju
+🚹	miesten wc miestenhuone vessa
+🪅	juhla juhlat juhlinta karkki meksiko pinada pinata piñata
+🪢	kiinnittää köysi naru solmu solmulla
+🫢	ällikkä ällistys epäusko hämmästys nolo peloissaan silmät pyöreinä käsi suun edessä yllättyny yllättynyt
+🎻	instrumentti jousi musiikki viulu
+🛫	ajoneuvo lähtevä lähtö lentokone
+💐	kasvi kimppu kukka romantiikka treffit
+👎	-1 alas käsi peukalo vartalo
+🤟	fanitus käsi kolme sormea rakastan sinua -ele rakkaus
+♋	horoskooppi horoskooppimerkki rapu rapu-merkki
+🦸	batman hyvä hyvis sankari sankaritar supermies supervoimat
+👏	käsi käsien taputus taputtaa vartalo
+🧚	fantasia hyönteismäinen keijukainen luonnotar menninkäinen myytti satu siivet tarina taru
+🏢	rakennus toimisto toimistorakennus
+🧻	paperipyyhkeet paperirulla talouspaperi vessapaperi wc-paperi
+🔅	himmennä kirkkaus nappi painike vähennä
+🆓	free ilmainen laatikko painike teksti vapaa
+🪛	meisseli ruuvi ruuvimeisseli taltta työkalu
+📖	avoin kirja
+🍬	jälkiruoka karkki makea
+🃏	jokeri kortti korttipeli peli
+🧪	kemia kemisti koe koeputki laboratorio tiede
+🍟	peruna ranskikset tikkuperunat
+🌏	aasia australia maailma maapallo jossa näkyy ja
+🧵	lanka lankarulla neula ompelu rulla rullalanka
+🆎	ab ab-veriryhmä veriryhmä
+👩‍🍼	äiti imettävä nainen syöttävä vauva
+🕛	00.00 12 12.00 24.00 aika kello kaksitoista kellonaika
+🍰	jälkiruoka kakku kakkupala leivonnainen makea pala
+🦩	flamingo pramea trooppinen
+😁	hymy kasvot naama silmä virnistys ja hymyilevät silmät
+⬛	iso musta neliö muoto
+🪻	kasvi kukka laventeli leijonankita luonto lupiini sinilupiini syreeni violetti
+🖖	käsi sormi spock vartalo vulkanilainen vulkanilaisten tervehdys
+🪍	kerätä pyydys pyydystää verkko
+⌚	ranne rannekello
+🐯	naama tiikeri tiikerin
+🚧	este rakennustyömaa tietyö tietyömaa
+🔵	muoto sininen ympyrä
+🌄	aamu auringonnousu vuorten takaa aurinko sää
+🚾	huussi käymälä vessa wc
+📮	posti postilaatikko
+🦽	esteettömyys pyörätuoli
+🌁	sää sumu sumuinen
+🫈	isojalka jätti karvainen kryptidi lumimies metsä sasquatch villi-ihminen
+🦷	hammas hammaslääkäri hampaisto lääkäri
+🪺	linnunpesä muna munat muninta pesiminen pesintä
+🐜	hyönteinen murkku puutarha
+🔋	akku akkuvirta paristo
+🟡	keltainen ympyrä
+🌑	kuu pimeä sää taivaankappale uusikuu
+😩	naama poikki uupumus uupunut väsynyt
+🛒	kärryt ostaminen ostokset ostoskärryt
+🆗	laatikko ok okay okei selvä
+🪝	haka koukku koukuttaa
+🥞	lettu letut ohukainen pannukakku ruoka
+💳	kortti luotto luottokortti pankki raha
+🦗	heinäsirkka sirkka
+🫛	edamame herne palko palkokasvi pavut ruoka vihannes
+🥧	leivonnainen piirakka täyte
+🧸	lelu nalle pehmolelu täytetty teddykarhu
+🧛	dracula elävä kuollut halloween hampaat naamiaisasu pelottava torahammas verenhimo verenimijä veri yliluonnollinen
+🟪	neliö violetti
+🐱	kissa kissan naama lemmikki
+🦺	hätä hätätilanne liivi turvaliivi turvallisuus
+🈴	hyväksytty arvosana -kirjoitusmerkki japani kiina kirjoitusmerkki
+🍏	hedelmä kasvi omena vihreä
+🌠	avaruus tähdenlento tähti toive
+❌	kertolasku merkki peruuta punainen rastimerkki x
+🐸	naama sammakko sammakon
+🧀	juusto palanen
+🪕	banjo kielisoitin musiikki
+🐩	eläin koira puudeli
+🦻	esteettömyys huonokuuloinen kuulolaite korvassa kuulonalenema
+👩‍🦼	esteettömyys nainen moottoroidussa pyörätuolissa pyörätuoli
+🧙	fantasia loitsu maagi noita roolileikki sauva taikasanat taikasauva taikavoima taikuri taikuus tietäjä
+👨‍🏫	koulu mies miesopettaja ohjaaja opettaja
+💄	huulipuna kosmetiikka kosmetiikkaa meikit meikki
+🚘	ajoneuvo auto saapuva
+👨‍🏭	hitsaaja mies miestehdastyöntekijä tehdas työntekijä
+🏣	japani japanilainen postitoimisto posti rakennus
+🫐	marja mustikat mustikka sininen
+🦑	kalmari mustekala ruoka
+🐵	apina banaani eläin naama
+🧊	jää jääkuutio jääpala kylmä
+🤿	snorkkelisetti snorklaus sukellus sukellusmaski
+📼	nauha vhs video videokasetti videonauha
+💟	143 sydän sydänkoriste tunne
+🎥	elokuva elokuvakamera kamera kuvaukset
+🧥	hrr päällysvaate pusero takki vaatteet
+🐽	kärsä naama nenä sian sika
+👭	kädestä pitäminen kaksoset käsi naiset pariskunta sisaret
+🚝	ajoneuvo juna raide yksiraidejuna
+🩷	pinkki rakkaus söpö sydän tunne tykkäys vaaleanpunainen
+🧑‍🎓	lakki opiskelija opiskelu valmistujaiset
+🏡	puutarha rakennus talo ja
+😮‍💨	hämmästyä hämmästynyt haukkoa henkeään helpotus hymiö kuiskaus puhaltaa tupakointi uupunut vihellys
+🔣	merkit symbolit syötä merkkejä
+🪚	käsisaha puuseppä saha sahatavara työkalu
+🧕	hijab huivipäinen nainen khimār mantilja pääliina silkkihuivi tichel
+🦂	horoskooppi horoskooppimerkki skorpioni
+➖	- matematiikka miinus miinusmerkki vähennys
+😮	auki empatia naama suu yllättynyt
+🪸	ilmastonmuutos koralliriutta meri riutta
+🚊	ajoneuvo raiteet raitioliikenne
+😟	huolestunut huoli naama
+📇	kortisto kortti rolodex
+🌽	kasvi maissi maissintähkä tähkä
+📫	lähtevä lippu ylhäällä postilaatikko suljettu
+🚄	ajoneuvo juna luotijuna pikajuna rautatie shinkansen
+🧑‍🎨	artisti paletti taiteilija
+🪪	ajokortti henkilökortti henkilötodistus henkkarit kortti kulkulupa tunnistus turvallisuus
+🫖	juoda juoma pannu ruoka tee
+🕘	21 21.00 9 9.00 aika kello yhdeksän kellonaika
+🈵	japani kirjoitusmerkki täynnä-kirjoitusmerkki
+🐔	eläin lintu muna
+👩‍🦽	esteettömyys nainen käsikäyttöisessä pyörätuolissa pyörätuoli
+🛗	esteettömyys hissi
+🍊	appelsiini c-vitamiini hedelmä kasvi
+🤒	kasvot kipeä kuume lämpö lämpömittari naama sairas
+🎾	pallo tennis tennispallo urheilu
+🤡	kasvot klovni pelle
+💰	raha rahapussi rahasäkki säkki
+🛴	lauta potku skuutti
+🪷	buddhalaisuus hindulaisuus intia kauneus kukka puhtaus rauhallinen viattomuus
+🦉	lintu pöllö viisas
+🐛	hyönteinen puutarha
+📣	ääni huomio kovaääninen megafoni suosionosoitus
+😱	huuto munch naama pelko pelokas
+🥨	kierretty pretzel rinkilä
+📎	klemmari liitin paperiliitin
+🍩	jälkiruoka makea munkki munkkirinkeli
+🐕	koira lemmikki
+🧑‍🧒‍🧒	aikuinen lapsi perhe
+🪮	afrokampaus esine harva hiukset kampa selvityskampa tukka
+🫗	juoma kaataminen läikyttää lasi tyhjä vahinko valuttaa
+📳	äänetön hiljainen kännykkä matkapuhelin puhelin värinä värinätila
+💏	pariskunta pusu romantiikka
+🔮	ennustaja ennustus kristalli kristallipallo povaus taika tulevaisuus
+🙆	ele harjoittelu käsi nainen ok ok-ele
+🏈	amerikkalainen jalkapallo pallo super bowl urheilu
+🥿	balettitossu balleriina kenkä lipokas tossu
+🦿	esteettömyys tekojalka
+💆	henkilö hieroja kasvot pääkipu salonki
+🫯	argumentti erimielisyys metakka nujakka paini tappelu väittely
+🫰	anna rahaa etusormi ja peukalo ristissä hinta kallis napsautus raha rakkaus sydän
+🥯	aamiainen aamupala bagel bageli leivonnainen rinkeli
+🦜	lintu merirosvo papukaija puhe puhuva
+👨‍🌾	maanviljelijä mies miesmaanviljelijä puutarhuri sato
+👖	farkut housut vaatteet
+🦕	brontosaurus dinosaurus eläin
+🚯	kielletty roska roskaaminen sotku
+🩱	uima-asu uimapuku
+➕	+ matematiikka plus plusmerkki
+😡	mököttävä naama punainen raivo suuttunut vihainen
+🥋	asu judo kamppailulajiasu kamppailulajit karate taekwondo urheilu
+🐣	kananpoika kuoriutuva lintu tipu
+👑	asuste kruunu kuningas kuningatar
+🏆	kisat palkinto pokaali urheilu
+🦔	eläin piikikäs
+✋	käsi nostettu vartalo
+🔪	keittiöveitsi leikkuuveitsi ruoanlaitto teräase työkalu veitsi
+🪔	diya lamppu öljy öljylamppu savilamppu
+🐏	horoskooppi horoskooppimerkki lammas oinas pässi
+🟣	violetti ympyrä
+🥦	broccoli vihannes
+👜	asuste käsilaukku laukku ostokset
+🍎	hedelmä kasvi omena punainen
+🍜	höyryävä kulho kuuma nuudeli ramen
+🐓	kukko lintu
+🪑	istua istuin istumapaikka tuoli
+🧠	aivot äly pää vartalo viisas
+📘	kirja sininen
+🛬	ajoneuvo laskeutuminen lentokone saapuva
+🍘	keksi riisi riisikakku
+🦚	eläin komeileva lintu mahtaileva pramea värikäs ylpeä
+🎆	ilotulitus juhla
+🫌	hauras muodonmuutos muutos muuttuminen ötökkä siirtyminen toivo toukka
+🤯	järkytys naama paukku räjähdys päässä raju sokki
+🟩	neliö vihreä
+🈲	japani kielletty-kirjoitusmerkki kirjoitusmerkki
+😈	fantasia hymy naama piru pirullinen ja sarvet satu
+💗	hermostunut innostunut kasvava sydämen syke sydän
+🔼	kolmio nappi painike ylös
+🎈	ilmapallo juhla
+🦀	horoskooppi horoskooppimerkki rapu
+🩸	kuukautiset lääketiede vamma verenluovutus veripisara
+📄	asiakirja dokumentti sivu
+🐋	eläin valtameri
+🍌	banaani hedelmä kasvi
+🤕	kipeä loukkaantunut naama ja pääside sairas side vamma
+👡	kenkä nainen naisen sandaali vaatteet
+🏤	posti postitoimisto rakennus
+🏓	maila ottelu pallo pingis pingispallo pöytätennis
+🧁	kuppikakku leivonnainen leivos makea vuokaleivos
+🌲	joulukuusi kasvi metsä puu
+🎂	jälkiruoka juhla kakku leivonnainen makea syntymäpäivä syntymäpäiväkakku
+💋	huulet huulipunajälki jälki pusu
+🤔	mietteliäs naama
+⛳	golf lippu reiän päällä reikä
+🧫	bakteerikasvusto bakteerit biologi laboratorio petrimalja viljely
+🥠	ennustus onnenkeksi
+👐	avoimet kädet avoin halaus käsi vartalo
+😃	auki hymy iloinen kasvot naama suu
+👅	kieli pää suu uhma vartalo
+🤨	epäilevä kasvot kohotetut kulmakarvat mietteliäs naama skeptinen
+🎌	japani juhla liput ristissä ristityt
+💫	pyörryttävä sarjakuva tähti
+🤹	hallita ihminen jongleerata jongleeraus jonglöörata jonglööraus multitaskaus pitää käsissä taito tasapainoilu
+📠	faksi faksilaite viestintä
+🚪	ovi
+🥹	hämmentynyt itku kiitollinen kyyneliä pidättelevä naama pidätellä itkua surullinen tunteellinen tunteet vihainen ylpeä
+🌖	kuu sää taivaankappale vähenevä puolikuu
+🙏	kämmenet yhdessä kiitos kumarrus pliis pyyntö rukous yläfemma
+🧑‍🎤	karaoke laulaja mikki
+🪥	hammasharja hampaat harja hygienia kylpyhuone puhdas
+🏄	lauta surffaaja surffaus
+👩‍🔬	nainen naistutkija tiede tutkija
+🤺	liikunta miekka miekkailija miekkailu urheilu
+🎠	hevonen karuselli karusellihevonen
+🈳	japani kiina kirjoitusmerkki tyhjä-kirjoitusmerkki
+🔥	liekki lieska nuotio tuli
+🪿	eläin hanhen huuto hassu lintu luonto siivekäs
+🍨	jälkiruoka kerma makea ravintola ruoka
+🕓	16 16.00 4 4.00 aika kello neljä kellonaika
+🔯	kuusisakarainen tähti pisteellä onnentähti uskonto
+📉	kaavio käyrä laskeva lasku suuntaus
+🐀	eläin harmaa
+👟	juoksukenkä kenkä lenkkarit urheilu vaatteet
+📯	posti postitorvi soitin torvi
+😅	auki hiki hymy ja kylmänhiki kylmä naama
+🦛	eläin virtahepo
+🌛	kasvava puolikuu kasvoilla kasvot kuu sää taivaankappale
+👔	asuste kravatti solmio vaatteet
+🧡	oranssi sydän
+❔	kysymysmerkki merkki välimerkki valkoinen
+🐺	naama suden susi
+🪹	koti linnunpesä pesä pesiminen pesintä
+🤴	fantasia kruunu kuninkaallinen satuprinssi
+🌘	kuu sää sirppi taivaankappale vähenevä kuunsirppi
+🩺	kuuntelu lääkäri stetoskooppi sydän
+🍣	raaka kala riisi ruoka
+🍢	merenelävät ravintola ruoka tikku varras
+🦐	äyriäiset katkarapu ruoka
+🫺	neutraali oikea osoittaa ote puolueeton tämä tuo
+🍮	jälkiruoka makea vanukas
+🥐	croissant leipä ranskalainen ruoka voisarvi
+🔖	kirjanmerkki merkki
+🥟	gyoza myky nyytti pelmeni ruoka taikinanyytti
+🎭	naamio näytelmä näyttämö näyttämötaiteet shakespeare taide teatteri
+🈚	japani kirjoitusmerkki maksuton-kirjainmerkki
+🚋	ajoneuvo raiteet ratikka spora
+🚦	ajaa liikenne liikennevalo risteys valo
+😒	ei naurata naama onneton
+🔹	muoto pieni sininen vinoneliö
+🪴	hoivata hyödytön kasvaa kasvi kokousfiikus koriste koti tylsä
+🧰	laatikko mekaaninen pakki työkalu työkalulaatikko työkalupakki
+🦃	kalkkuna lintu
+🍄	rihmasto sieni
+🟤	ruskea ympyrä
+🫱	kädenojennus käsi oikea oikealle ojentuva
+🧟	elävä kuollut halloween kauhu maailmanloppu pelottava tahdoton voodoo zombie
+👨‍🎤	karaoke laulaja mies mieslaulaja mikki
+🫩	pussit silmien alla uninen uupunut väsynyt
+🤗	halaava naama halaus hali
+⏩	2 eteen kelaa eteenpäin kelaus nappi nuoli painike
+🕜	1.30 13.30 30 aika kello kellonaika puoli kaksi
+📈	kaavio kasvu käyrä nouseva nousu suuntaus trendi
+🦆	lintu sorsa
+🤼	ihmiset kaksintaistelu kamppailu kehässä liikunta paini painia painija painijat painiturnaus urheilu
+🎶	musiikki nuotteja nuotti
+🦁	horoskooppi horoskooppimerkki leijona leijonan naama
+🤏	hippunen nipistävä käsi nipistys nipistysote pieni määrä sormet vähäinen vähän
+🪄	noita taika taikasauva taikuri velho
+🆖	good moka ng no teksti
+😙	hymy naama pusu pusunaama ja hymyilevät silmät silmä
+🙍	ele surullinen henkilö
+🚂	ajoneuvo juna rautatie veturi
+👰	häät huntu huntupäinen henkilö
+🚭	kielletty tupakka tupakointi
+😨	huolestunut naama pelästynyt pelko pelokas yllättynyt
+🎼	musiikki nuotti nuottiavain nuottiviivasto
+🤦	ei taas epätoivo epäusko facepalm ihminen järkytys käsi kasvot omg peittää kädellä kämmenellä pettymys turhautuneisuus voi
+📞	kuuloke luuri puhelin
+🚎	ajoneuvo auto johdinauto johdinbussi
+🔢	1234 numerot syötä numeroja
+🪣	ämpäri sanko
+😾	kissa mököttävä naama
+🥢	aterimet ruokailu syömäpuikot
+🏑	hockey maahockey maila ottelu pallo peli
+🎢	huvipuisto vuoristorata
+🐭	hiiren naama hiiri
+😧	ahdistunut ahdistus hätä naama
+🐷	eläin naama possu sika
+🫣	ihastunut kiehtova kurkistaa kurkistus sormien takaa kurkkia tiirata ujo vilkuilla
+🍈	cantaloupe hedelmä kasvi
+🤛	nyrkki vasemmalle vasen
+🙋	ele iloinen henkilö viittaa käsi nostettu
+🚲	ajoneuvo polkupyörä pyörä
+🍑	hedelmä kasvi persikka
+🌍	afrikka eurooppa maailma maapallo jossa näkyy ja
+👬	kädestä pitäminen kaksoset käsi miehet pariskunta veljet
+🐗	eläin possu sika
+🤎	ruskea sydän
+🚃	ajoneuvo juna junavaunu raitiovaunu rautatie
+🎤	karaoke mikki mikrofoni
+👿	demoni fantasia naama pikkupaholainen piru satu
+📡	antenni lautanen lautasantenni satelliitti satelliittiantenni
+🫨	hymiö maanjäristys naama omg paniikki shokissa tärähdys tärisevä vapiseva värisevä yllättynyt
+🤜	nyrkki oikealle oikea
+🌰	kasvi pähkinä
+🐨	karhu koala
+📚	kirja kirjapino kirjat kirjoja
+🌿	kasvi lehti yrtti
+♍	horoskooppi horoskooppimerkki neitsyt neitsyt-merkki
+📂	avoin tiedostokansio kansio tiedosto
+🔠	aakkoset abcd isot kirjaimet latinalaiset syötä isoja kirjaimia
+🔗	ketju lenkki
+🔱	ankkuri atrain kolme kolmikärki laiva meri
+🥒	kurkku ruoka vihannes
+⏪	2 kelaa taaksepäin kelaus nappi nuoli painike taakse
+🥁	musiikki rumpu rumpukapula
+📅	kalenteri päivämäärä
+👨‍🦼	esteettömyys mies moottoroidussa pyörätuolissa pyörätuoli
+🍚	keitetty riisi
+🐆	leopardi
+☔	asuste pisara sää sade sateenvarjo ja pisarat
+🍼	juoda maito pullo tuttipullo vauva
+🎳	keila keilailu keilapallo pallo peli
+🪭	arka jäähdytys kuuma lepatus taittuva käsiviuhka tanssi ujo viilentää viuhka
+🍉	hedelmä kasvi vesimeloni
+🎄	joulu joulukuusi joulupuu juhla kuusi
+🔲	muoto musta neliöruutu neliö valinta valintaruutu
+🧑‍🌾	farmari maanviljelijä puutarhuri
+🚩	golf kolmiolippu lippu
+🦓	nisäkäs raidallinen raidat seepra valkomusta
+🍗	kana koipi luu ruoka siipikarja
+🥮	juhla kuukakku syksy yuèbĭng
+🏪	kauppa ostokset rakennus
+🍓	hedelmä kasvi mansikka marja
+🤚	kädenselkä koholla kämmenselkä kohotettu
+📩	e-mail kirjekuori ja nuoli lähetetty lähtevä posti sähköposti sähköpostiviesti viesti
+📓	kirja lehtiö muistikirja muistio
+👥	kaksi rintasiluettia rintakuva siluetti
+📊	kaavio pylväs pylväskaavio tilasto
+🗽	new york patsas usa vapaus yhdysvallat
+🕒	15 15.00 3 3.00 aika kello kolme kellonaika
+🪋	avaruus katastrofi kivi painovoima pudota tähdenlento tulipallo
+👓	silmä silmälasit vaatteet
+🚰	hana juoma juomakelpoista vettä juomavesi juotava vesi
+🎽	juokseminen juoksupaita nauha paita urheilu
+😴	naama nukkuva uni väsynyt yö zzz
+🎦	elokuva kamera kuvata video videokuva
+🥏	frisbee kiekko liitokiekko ultimate
+🦡	eläin mesimäyrä
+🎨	maalari maali taide taiteilijan paletti
+🍖	liha lihaa luineen luu
+🔍	etsi haku lasi suurennuslasi vasemmalle työkalu
+🌹	kasvi kukka ruusu
+👩‍🚀	astronautti avaruus nainen naisastronautti
+🐚	eläin koraali kuori
+🎰	kasino kolikko pelikone rahapeli
+🕺	mies tanssii salsa tango tanssi
+🔡	aakkoset abcd kirjaimet latinalaiset pienet syötä pieniä kirjaimia
+👩‍🦯	esteettömyys nainen ja valkoinen keppi sokea
+🕍	juutalaisuus rakennus synagoga temppeli uskonto
+🛁	amme kylpy kylpyamme
+💘	amor nuoli romantiikka sydän ja
+🥍	haavipallo lacrosse maali maila pallo urheilu
+🧑‍🔧	mekaanikko putkiasentaja sähköasentaja työkalu
+😍	hymy ja sydänsilmät naama rakkaus silmä sydän
+🆑	cl kumita pyyhi pyyhi-näppäin
+🧃	juomat mehu pillijuoma tetra
+👒	hattu nainen naisen vaatteet
+♌	horoskooppi horoskooppimerkki leijona leijona-merkki
+🌞	aurinko kasvot kuu paiste sää valo
+🍆	kasvi kasvis munakoiso vihannes
+😊	hymy naama punastunut silmä
+🫸	käsi kieltäytyä odota oikealle työntävä seis stop työntö vartalo ylävitonen
+💲	dollari paksu dollarimerkki raha valuutta
+🦍	eläin gorilla
+🌈	biseksuali genderqueer hlbt hlbtq hlbtqia homo lesbo queer sää sade sateenkaari trans
+🙂	hymy naama pieni
+🧭	kompassi magneettinen navigointi suunnistus
+👞	kenkä miehen mies vaatteet
+🩳	alushousut shortsit uimahousut uimashortsit uinti
+🧑‍🚀	astronautti raketti
+🕚	11 11.00 23 23.00 aika kello yksitoista kellonaika
+😵	huimaus kuollut naama pyörtyvä tajuton tuupertuva
+📿	asuste helmet helminauha rukous rukoushelmet uskonto
+🤓	fiksu hymiö jänöhammas naama nörtti silmälasit
+🪀	jojo jojoilla lelu
+🏫	koulu oppi rakennus
+🍹	baari drinkki juoda lasi trooppinen
+🕝	14.30 2.30 30 aika kello kellonaika puoli kolme
+🕠	17.30 30 5.30 aika kello kellonaika puoli kuusi
+📟	hakulaite
+🎵	musiikki nuotti
+👙	bikinit ranta uida uimapuku vaatteet vesi
+🩲	alushousut uima-asu uimahousut vaatteet
+🤑	dollarisilmät ja rahasuu naama raha suu
+🚛	ajoneuvo auto kuorma-auto rekka
+🥘	paella pata pataruoka ruoka
+😘	lentosuukko naama pusu sydän
+🛺	autorikša tuktuk
+👱	blondi hiukset vaalea vaaleahiuksinen henkilö vaaleatukkainen
+🛂	passi passintarkastus tarkastus
+🪓	hakata halkoa kirves metsä pilkkoa puu
+🫝	haitta hapatettu herkku kurkku lisuke maustekurkku suolattu
+🔞	18 ikäraja ikärajoitus kielletty alaikäisiltä täysi-ikäinen
+🤝	kädenpuristus käsi kätellä sopimus tapaaminen
+📒	kirja kirjanpito lehtiö tilikirja
+🚥	liikenne liikennevalo vaakasuuntaiset liikennevalot valo
+🔊	äänekäs kaiutin äänenvoimakkuus kovempaa lisää
+🐴	hevonen hevosen naama
+😕	häkeltynyt hämmennys hämmentynyt naama
+🫑	capsicum paprika vihannes
+🫄	maha masu paisunut täynnä täysi turvonnut
+🪐	rengasplaneetta saturnus
+🏅	mitali urheilumitali
+🏯	japani japanilainen linna rakennus
+🌊	aalto meri tyrsky valtameri vesi
+💿	blu-ray cd dvd levy tietokone
+🪦	hauta hautakivi hautausmaa kuolema muisto
+⚾	baseball pallo pesäpallo urheilu
+👈	etusormi kämmenselkä käsi osoittaa sormi vartalo vasemmalle osoittava katsojaan päin
+🦒	kirahvi läikät
+🌗	kuu puolikuu sää taivaankappale viimeinen neljänneskuu
+🚸	jalankulkija lapsi lapsia liikenteessä liikenne suojatie ylitys
+🤳	kamera omakuva puhelin selfie
+🏀	koripallo pallo urheilu
+🚏	asema bussi pysäkki
+🥷	piilossa sotilas soturi taistelija väijyy
+⚽	jalkapallo pallo urheilu
+🚖	ajoneuvo auto saapuva taksi
+👂	korva kuulo kuunnella pää vartalo
+👝	asuste iltalaukku kirjekuorilaukku laukku
+📵	ei matkapuhelimia kielletty matkapuhelin puhelin
+🐳	naama suihkuttaa valas valtameri vesi
+😯	järkyttynyt naama sanaton yllättynyt
+🍫	jälkiruoka makea patukka suklaa suklaapatukka
+🌋	sää tulivuorenpurkaus tulivuori vuori
+🧝	fantasia haltia haltija kansanperinne keiju keijukainen mystinen myyttinen suippokorva
+💛	keltainen sydän
+👨‍💻	it it-mies koodaus mies tietokone
+🐃	puhveli vesi vesipuhveli
+🧆	falafel kasvispyörykkä kikherne
+💎	jalokivi romantiikka timantti
+🧑‍🚒	paloauto pelastaja
+📷	instagram kamera video
+⛪	kirkko kristinusko rakennus uskonto
+🚵	maasto maastopyöräilijä polkupyörä pyörä pyöräilijä
+🐟	horoskooppi horoskooppimerkki kala kalat
+🤥	kasvot valehdella valehteleva valehtelija
+😛	juhla kieli ulkona mahtavaa naama
+🦵	alaraaja jalka potkaista potku raaja
+🪒	ajaa parta partaveitsi terävä
+💈	kampaaja parturi punasiniraitainen pylväs raidat
+📹	kamera video videokamera
+🛵	ajoneuvo skootteri
+💸	pankki raha rahalla on siivet seteli valuutta
+🔦	lamppu sähkö taskulamppu työkalu valo
+🧑‍🧑‍🧒‍🧒	aikuinen lapsi perhe
+🚳	ei polkupyörille kielletty liikenne polkupyörä polkupyörällä ajo pyörä
+🪵	metsä pölkky puu puutavara
+😂	ilo itkunauru kasvot naurunkyynelissä naama naurunkyyneleet
+🐦	lintu pikkulintu turkoosi
+🔩	mutteri ruuvi ja työkalu
+🤠	cowboy cowboy-hattu hattu kasvot
+🔉	äänenvoimakkuus äänet kaiutin normaalilla äänenvoimakkuudella
+💇	hiustenleikkaus kauneus parturi salonki
+🧓	ikäihminen seniori sukupuolineutraali vanha vanhus
+👼	enkeli fantasia naama satu vauva vauvaenkeli
+🪠	imukuppi kakka putkimies viemäripumppu wc
+👨‍💼	mies miestoimistotyöntekijä pomo toimisto työntekijä valkokaulus
+🔃	myötäpäivään nuoli päivitä pystynuolet
+🦦	kalastaja kalastus leikkisä
+🗻	fuji fuji-vuori vuori
+🐖	emakko pekoni porsas possu
+🧲	hevosenkenkä magneetti magneettinen negatiivinen positiivinen puoleensavetävä
+🚻	saniteetti vessa wc
+💤	sänky sarjakuva uni väsynyt yö zzz
+🔌	pistoke sähkö sähköpistoke sähkötöpseli töpseli
+🏺	amfora horoskooppi horoskooppimerkki juoma kannu ruoanlaitto vesimies
+📻	radio vastaanotin viihde
+🧑‍🦯	esteettömyys henkilö ja valkoinen keppi sokea
+🪗	haitari hanuri harmonikka
+🍱	bento bento-rasia rasia
+🔘	muoto valinta valintanappi valintaruutu ympyrä
+🕙	10 10.00 22 22.00 aika kello kymmenen kellonaika
+👻	fantasia hirviö kummitus naama olio satu
+🧉	juoma mate
+🫀	elin kardiologia pulssi sydän syke verenkierto
+🦭	eläin meri merileijona
+👨‍🔬	biologi matemaatikko mies miestutkija tiede tutkija
+🐫	kaksikyttyräinen kameli kyttyrä
+♉	härkä härkä-merkki horoskooppi horoskooppimerkki
+👨‍🍳	kokki mies mieskokki paistinpannu ruoka
+🚢	ajoneuvo alus meri vene
+🥽	hitsaus silmien suojelu suojalasit uimalasit
+🚟	ajoneuvo juna kisko rata rautatie riippurata
+🔶	iso oranssi vinoneliö muoto
+🪡	käsinompelu kirjonta neula ompelu ompeluneula parsiminen silmäneula tikit
+⛺	leirintä teltta telttailu
+🙁	hieman surullinen naama
+👾	avaruushirviö avaruusmonsteri avaruusolio naama olio
+💷	pankki punta puntaseteli raha seteli valuutta
+🏉	jalkapallo pallo rugby rugby-pallo urheilu
+❓	kysymysmerkki merkki välimerkki
+👩‍🎨	kuvataiteilija maalari nainen naisartisti naistaiteilija taide taiteilija
+🐇	eläin lemmikki pupu
+🌾	kasvi riisi riisikasvi tähkä
+🛷	kelkka kouru lasku liukuri pulkkamäki
+🌀	hirmumyrsky pyörre pyörremyrsky sää sykloni
+🦴	koira luu luuranko luusto
+👨	mies miespuolinen
+💥	pum sarjakuva törmäys
+🗿	kasvot kivipatsas moai moait pääsiäissaari patsas
+⛵	ajoneuvo alus jahti meri purjevene vene
+🫵	etusormi osoittaa katsojaa sinä siinä
+🏰	eurooppalainen länsimainen rakennus
+🐞	hyönteinen leppäkerttu
+🚆	ajoneuvo rautatie saapunut
+🐕‍🦺	apu esteettömyys palveluskoira
+🐮	lehmä lehmän naama
+🏮	baari japani lyhty punainen paperilyhty valo
+😥	ahdistunut helpottunut hiki huh naama pettynyt mutta vaikea
+🧤	asuste hansikkaat hanskat kädet käsineet
+🐰	jäniksen naama jänis kani lemmikki pupu
+🏨	hotelli majoitus rakennus
+🍕	juusto pepperoni siivu viipale
+📗	kirja vihreä
+🎇	ilotulite juhla tähtisade tähtisadetikku
+🪳	hyönteinen russakka tuholainen
+⚡	korkeajännite sähkö sähköisku vaara virta
+⏬	2 alas kolmio nappi nopeasti painike
+🍻	baari juoda juoma kalja kippis olut tuoppi
+🚺	naisten wc naistenhuone vessa
+👚	nainen naistenvaatteet ostokset paita vaatteet
+🧳	matka matkalaukku matkatavara matkustus pakkaaminen
+♐	horoskooppi horoskooppimerkki jousimies jousimies-merkki
+🚤	ajoneuvo meri moottorivene pikavene vene
+📝	lyijykynä muistiinpanot muistio
+🪨	kallio kivi lohkare painava
+🍅	kasvi kasvis tomaatti vihannes
+📁	kansio tiedosto tiedostokansio
+🎁	juhla käärepaperi lahja lahjapaketti paketti
+🧑	aikaihminen aikuinen aikuisuus keski-ikäinen sukupuolineutraali täysikasvuinen
+🚒	ajoneuvo auto paloauto tulipalo
+👷	hattu rakennus työmies
+🔤	aakkoset abc kirjaimet latinalaiset syötä kirjaimia
+🚞	ajoneuvo funikulaari juna matka rautatie
+🌐	internet maailma maapallo netti pituuspiirit
+😸	hymy kissa naama silmä virnistävä ja hymyilevät silmät virnistys
+🫡	joukot käsi lippaan kunniatervehdys kunnioittava tervehdys kyllä ok palveluksessanne selvä
+🟰	matematiikka paksu yhtäsuuruusmerkki vastaus yhtä kuin yhtäsuuruus
+🚬	savuke tupakointi
+🆒	cool laatikko siistiä teksti
+🍺	alkoholi baari juoda kalja olut tuoppi
+🪏	haudata kaivaa kasvi kuoppa puutarha
+🐂	eläin horoskooppi horoskooppimerkki maatila
+🤙	käsi puhelu soita minulle
+♓	horoskooppi horoskooppimerkki kalat kalat-merkki
+👵	mummi mummo nainen vanha
+🐧	lintu pingviini
+❎	kertolasku laatikko merkki peruuta rastimerkki x
+🟫	neliö ruskea
+🥩	kyljys lampaankyljys lihanpala pihvi porsaankyljys
+🦾	esteettömyys tekokäsi
+🎣	kalastus onki onkivapa virveli
+😌	helpottunut helpotus naama
+🫷	käsi kieltäytyä odota seis stop työntö vartalo vasemmalle työntävä ylävitonen
+🐝	ampiainen hyönteinen kimalainen luonto pörriäinen
+🌻	auringonkukka aurinko kasvi kukka
+✨	loiste säihke tähti taika
+🚽	vessa vessanpönttö wc
+🥑	avokado hedelmä ruoka
+👛	asuste kolikko rahakukkaro
+🌮	meksikolainen tortilla
+📋	leikepöytä levy paperinpidike
+🦊	eläin kettu ketun naama
+⚫	muoto musta ympyrä
+♒	horoskooppi horoskooppimerkki vesimies vesimies-merkki
+🐈‍⬛	eläin epäonni kissa musta
+🩵	rakkaus sinivihreä syaani sydän tunne vaaleansininen
+📤	e-mail lähettää lähtevät postilaatikko sähköposti
+🐐	horoskooppi horoskooppimerkki kauris maatila maito
+🧂	mauste sirotin suola suolasirotin
+🎯	darts häränsilmä kymmenen napakymppi tikka tikkataulu
+🐻	karhu karhun naama
+🔨	korjaus työkalu vasara
+🚣	meri soutaa soutaja soutuvene vene
+👕	paita t-paita vaatteet
+🐼	bambu naama pandan
+👃	haju nenä pää tuoksu vartalo
+📭	alhaalla auki avoin postilaatikko lippu
+🚁	ajoneuvo helikopteri
+🛻	auto avolava kuljetus kuorma-auto
+🕤	21.30 30 9.30 aika kello kellonaika puoli kymmenen
+🫅	aatelinen kruunupäinen kuningas kuningatar kuninkaallinen monarkki ruhtinaallinen
+🧑‍🦽	esteettömyys henkilö käsikäyttöisessä pyörätuolissa pyörätuoli
+🌱	kasvi taimi verso
+😪	naama unelias uni
+🧒	lapsi lapsuus nuori sukupuolineutraali
+🦤	eläin lentokyvytön lintu mauritius sukupuutto
+👢	kenkä nainen naisen saapas ostokset vaatteet
+📬	auki avoin postilaatikko lippu ylhäällä
+🚼	lapsenhoito vaipanvaihto vauva vauva-merkki
+🚑	ajoneuvo ambulanssi auto
+😞	naama pettymys pettynyt
+🍸	baari cocktail cocktaillasi juoda lasi
+🥵	hikoilee kuume kuumeinen kuumissaan kuumottava lämpöhalvaus punanaama sairaus
+🫔	käärö meksikolainen
+👹	fantasia hirviö japanilainen naama olio peikko satu
+😬	irvistävä irvistys naama
+🤶	joulu joulupukin muori
+🎓	hattu juhla lakki vaatteet valmistujaiset valmistujaislakki
+👩‍🎓	lakki nainen naisopiskelija opiskelija opiskelu valmistujaiset valmistunut
+🛖	jurtta koti mökki savimaja talo
+🎬	elokuva klaffi klaffitaulu kuvaukset toiminta
+🤘	käsi rock sarvet sarviele sormi vartalo
+🕣	20.30 30 8.30 aika kello kellonaika puoli yhdeksän
+🤫	hiljentää hyssyttää hyssyttelevä kasvot shh
+🔭	kaukoputki teleskooppi työkalu
+🌸	kasvi kirsikankukka kirsikka kukka
+🥻	mekko sari vaate
+🎷	instrumentti musiikki saksofoni
+😺	auki hymy kissa leveästi hymyilevä naama suu
+😫	naama uupumus väsymys väsynyt
+😀	hymy kasvot leveä naama virnistys
+💭	ajatus ajatuskupla haaveet ilmapallo kupla sarjakuva
+🦼	esteettömyys pyörätuoli
+👩‍💼	nainen naistoimistotyöntekijä toimisto työntekijä valkokaulus
+♿	esteettömyys pyörätuoli
+🥄	aterimet lusikka ruokailu
+🧽	huokoinen imukykyinen pesu pesusieni sieni siivous
+💵	dollari dollariseteli pankki raha seteli valuutta
+🐹	hamsteri hamsterin naama lemmikki
+💾	disketti korppu levyke tietokone
+🌔	kasvava puolikuu kuu sää taivaankappale
+🥫	purkki ruoka säilykepurkki tölkki
+💴	pankki raha seteli valuutta yen yen-seteli
+🦧	apina eläin
+🍶	baari juoma kuppi pullo riisiviini sake
+⚪	muoto valkoinen ympyrä
+🆙	huutomerkki merkki päivitys up uutta ylös
+😎	aurinko aurinkolasihymy aurinkolasit cool hymy lasit
+📐	kolmio kolmioviivain viivain viivotin
+🫧	helmi kupla kuplat leijua pinnanalainen puhdas röyhtäisy saippua vedenalainen
+💕	kaksi sydäntä merkkipäivä rakkaus sydän xoxo
+😗	naama pusu pusunaama suudelma suukko
+🫤	epäilevä epävarma hämmentynyt naama suu vinossa pah pettynyt pyh skeptinen turhautunut
+💬	ilmapallo keskustelu kupla puhe puhekupla sarjakuva
+🛘	kivet maanjäristys mutavyöry onnettomuus vaara vuori vyöry
+🚚	ajoneuvo auto kuorma-auto rekka
+🔚	end-nuoli lopeta nuoli
+💺	lentokone tuoli
+🎉	hurraa juhla paukkuserpentiini yllätys
+🤲	anelu kämmenet vierekkäin toive
+😔	ajatteleva lannistunut mietteliäs naama pohdiskeleva
+👋	heilautus käden käsi vartalo vilkuttaa vilkutus
+🎊	juhla konfetti konfettipallo koristepaperi
+💼	salkku toimisto
+🥬	kaali lehtivihannes pinaattikiinankaali salaatinlehti salaatti
+🈸	hakemus hakemus-kirjoitusmerkki japani kiina kirjoitusmerkki
+🚱	ei juomakelpoinen juomakelvoton juominen kielletty kielto pilaantunut vesi juomakelpoista
+🐄	läikikäs maatila muu nauta
+⬜	iso valkoinen neliö muoto
+😝	kamala kieli ulkona ja silmät tiukasti kiinni maku naama silmä
+😓	hiki kylmä kylmänhiki naama
+🩼	kainalosauva keppi liikkumisen apuväline rajoite sauva vamma
+🙀	eläin kissa naama oho yllättynyt
+🧯	palonsammutin palosammutin sammutin sammuttaa sammutusväline tuli tulipalo
+🦖	dinosaurus eläin hirmulisko rex
+🧑‍🧒	aikuinen lapsi perhe
+🐒	banaani eläin
+🥴	aaltoileva suu heikotus humala huppelissa kännissä päissään silmät sikkaralla tokkurainen naama
+🧅	mauste sipuli
+🍙	japanilainen pallo riisi ruoka
+👨‍🚒	mies palomies tulipalo tulitaistelija
+🪈	esine huilu instrumentti musiikki nokkahuilu orkesteri pilli puupuhallin säkkipilli soitin urkupilli
+🏏	kriketti maila ottelu pallo
+👴	mies vanha
+🦝	ovela pesukarhu supi utelias viekas
+🎲	noppa noppakuutio peli viihde
+🚡	ajoneuvo gondoli hissi kaapeli rata
+😑	ilmeetön kasvot naama tunteeton tyhjä vihainen
+🥶	jääpuikot jäätynyt kasvot kylmä kylmettynyt paleleva sininen naama
+🚿	suihku vesi
+🖕	käsi keskari keskisormi sormi vartalo
+🫆	henkilöllisyys johtolanka rikostutkinta turvallisuus
+🧑‍🍳	keittiömestari kokki
+🫠	kadota kuuma liueta nolo pehmenevä sarkasmi sulaa sulava naama sulavat kasvot valuva
+🐑	lammas naispuolinen uuhi
+🕐	1 1.00 13 13.00 aika kello yksi kellonaika
+🔑	avain lukittu salasana
+🚕	ajoneuvo auto kyyti
+🎹	instrumentti koskettimet musiikki piano syntikka
+🦮	eläin esteettömyys koira opas sokea
+📃	asiakirja dokumentti käännetty sivu
+👨‍🔧	jakoavain mekaanikko mies miesmekaanikko työkalu
+😄	auki hymy hymyilevät silmät ja suu kasvot naama silmä
+🥲	helpottunut hymiö hymyilee hymyilevät kasvot ja kyynel itku kiitollinen liikuttunut ylpeä
+🫥	haihtuva häviävä introvertti katkoviivalla piirretty naama katoava masentunut näkymätön piiloon
+🥤	juoma limsa mehu pilli vesi
+🥃	juomalasi paukku viina viski
+🗼	japani rakennus tokio tokyo tower torni
+🙄	ihan sama naama pyörivä silmät silmien pyöritys
+🦥	hidas laiska laiskiainen
+🧞	fantasia genius hiero lamppua jinni juno lamppu lampunhenki mystinen myyttinen toive
+🤪	eripari mielipuoli silmät virne
+👩‍🍳	kokki nainen naiskokki paistinpannu ruoka
+🫘	munuainen palkokasvi papu pavut pieru ruoka tarhapapu
+🥇	ensimmäinen kulta kultamitali mitali voittaja
+🐘	elefantti norsu
+🔻	kolmio muoto punainen kärki alas
+🎡	huvipuisto maailmanpyörä
+🕢	19.30 30 7.30 aika kello kellonaika puoli kahdeksan
+💪	hauis lihas pullistaa pullistettu sarjakuva vartalo
+🎒	koulu koululaukku koulureppu laukku reppu
+😢	itkevä itku kyynel naama surullinen
+👨‍🦯	esteettömyys mies sokea valkoinen keppi
+🫪	ahdistus haavoittuvainen järkyttynyt paniikki turvonnut yllättynyt
+🔕	äänetön hiljaisuus kello kielto mykistetty mykistys
+📢	ääni huomio keskusradio kova kovaääninen
+🦟	hyönteinen hyttynen kuume malaria sääski sairaus tauti virus
+🎅	fantasia joulu joulupukki juhla satu
+❕	huutomerkki merkki välimerkki valkoinen
+🤽	ihminen liikunta pallo uinti urheilu vesi vesipallo vesiurheilu
+🗾	japani japanin kartta
+🔆	kirkasta kirkkaus lisää nappi painike
+🤣	kasvot kippura naama nauraa kippurassa nauru
+🦅	kotka lintu
+🧶	kerä kutominen lanka lankakerä neulominen virkkaus
+🍇	hedelmä kasvi rypäle viinirypäle viinirypäleet
+🌯	burrito meksikolainen
+🌎	amerikka maailma maapallo jossa näkyy
+🀄	keskusta lohikäärme mahjong peli punainen
+🦣	eläin sukupuutto suuri torahammas villainen
+🥝	hedelmä kiivi ruoka
+😻	hymy kissa ja sydänsilmät kissanaama naama rakkaus silmä sydän
+🎸	instrumentti kitara musiikki
+⏫	2 kolmio nappi nopeasti ylös painike
+🏩	hotelli rakennus tunti tuntihotelli
+🥓	aamiainen liha porsas ruoka
+➗	/ jako jakomerkki jakoviiva matematiikka
+🐦‍🔥	fantasia feeniks jälleensyntymä jälleensyntynyt kuolematon muuttua reinkarnaatio tulilintu uudelleensyntynyt uudistuminen
+🔁	myötäpäivään nappi nuoli painike toista uudelleen uudestaan
+👪	äiti isä lapsi perhe
+🤍	sydän valkoinen
+🪃	ase australia bumerangi kimmota takaisin seuraus
+🔧	jakoavain työkalu
+🐶	koira lemmikki naama pentu
+🦌	eläin hirvi peura
+🎋	bambu japani juhla puu tanabata tanabatapuu
+🕌	islam moskeija muslimi rakennus uskonto
+📔	kansi kirja kirjoitus koristeellinen muistikirja koulu lehtiö muistio
+🕗	20 20.00 8 8.00 aika kello kahdeksan kellonaika
+🐲	lohikäärme lohikäärmeen naama satu
+👊	isku käsi kohti tuleva nyrkki puristettu vartalo
+🫙	astia höyste kastike mauste purkki säilytys tyhjä
+🚇	ajoneuvo maanalainen matkailu
+🧏	esteettömyys korva kuulo kuuro
+🤐	naama suu vetoketju vetoketjusuu
+👩	aikuinen nainen naispuolinen
+🍡	dango jälkiruoka japanilainen makea tikku
+📧	e-mail email kirje sähköposti sähköpostiviesti viesti
+🛜	internet laajakaista langaton netti symboli tietokone verkko wifi
+🐊	eläin eläintarha
+📌	nuppineula
+🕕	18 18.00 6 6.00 aika kello kuusi kellonaika
+⛲	suihku suihkulähde vesi
+🔫	pistooli pyssy revolveri vesipyssy
+🍐	hedelmä kasvi päärynä
+⚓	alus ankkuri laiva merenkulku meri
+🪆	maatuska maatuskanuket nukke venäläinen
+📦	laatikko lähetys paketti pakkaus
+🧧	hóngbāo lahja lai see onni punainen kirjekuori raha
+🪽	enkeli lentää lentäminen liitää lintu mytologia
+🎪	sirkus sirkusteltta teltta
+😏	huvittunut hymy naama virne virnistys
+🛄	hihna luovutus matkatavarat
+♑	horoskooppi horoskooppimerkki kauris kauris-merkki
+🧑‍💼	arkkitehti toimisto toimistotyöntekijä valkokaulus yritys
+🐁	hiiri valkoinen
+🐌	eläin luonto
+👩‍🌾	maanviljelijä nainen naismaanviljelijä puutarhuri sato
+🕑	14 14.00 2 2.00 aika kello kaksi kellonaika
+🎀	juhla lahjanaru rusetti ruusuke
+📪	alhaalla lippu postilaatikko suljettu
+🎮	ohjain peli videopeli
+🔴	muoto punainen ympyrä
+🦞	äyriäinen äyriäiset äyriäiskeitto hummeri merenelävät sakset
+🛐	palvonta palvontapaikka pyhä rakennus pyhäkkö uskonto
+🛹	rullalauta skeittilauta
+👩‍🏭	hitsaaja nainen naistehdastyöntekijä tehdas työntekijä
+🙅	ei ei-ele ele käsi kielletty
+🏧	automaatti otto pankki pankkiautomaatti
+🧢	hattu lakki lippalakki vaatteet
+🫎	eläin luonto nisäkäs sarvet
+💁	apu info kämmentä ylöspäin näyttävä henkilö käsi nenäkäs
+🈶	ei ilmainen japani kirjoitusmerkki maksullinen-kirjainmerkki
+🌺	kasvi kiinanruusu kukka
+🤬	kasvot kiroilu sensuroitu suu sensuuri vihainen
+🤢	kasvot oksentaa pahoinvoida pahoinvointi pahoinvoiva
+💃	juhlat nainen salsa tanssi tanssija
+🦋	hyönteinen kaunis sievä
+🐥	kananpoika lintu tipu edestäpäin
+🚫	ei kielletty liikenne pääsy
+💞	pyörivä sydän toisiaan kiertävät sydämet
+🥖	leipä patonki ranskalainen ruoka
+🉑	hyväksyttävä-kirjoitusmerkki japani kiina kirjoitusmerkki
+🚓	ajoneuvo auto poliisi poliisiauto
+🧑‍🔬	biologi insinööri kemisti lääkäri tiede tutkija
+🔒	kiinni lukko yksityinen
+🐦‍⬛	eläin korppi lintu luonto musta mustavaris nokka siivekäs varis
+😐	naama peruslukemilla neutraali peruslukemat pettynyt surullinen tunteeton
+🪘	conga congarumpu kongo rumpu rytmi soitin
+🎩	hattu silinteri taikuri vaatteet
+👩‍🎤	karaoke laulaja mikki nainen naislaulaja
+🦄	naama yksisarvinen yksisarvisen
+🐠	kala trooppinen
+🥥	palmu piña colada
+🧣	asuste huivi kaula kaulaliina niska
+🎿	hiihto lumi sauvat sukset
+🌆	aurinko ilta kaupunki kaupunkimaisema illanhämärässä sää
+🧐	fiinu kalkkis katse monokkeli silmässä vanhanaikainen
+😭	ääneen itkevä itku kyynel naama nyyhky surullinen
+😰	auki avoin suu ja kylmänhiki hiki kylmä naama sininen
+💣	pommi räjähdys sarjakuva
+🐪	dromedaari kameli kyttyrä yksikyttyräinen
+👨‍🎓	lakki mies miesopiskelija opiskelu valmistujaiset
+👇	alas osoittava etusormi kämmenselkä katsojaan päin käsi osoittaa sormi vartalo
+🥉	kolmas mitali pronssi pronssimitali
+🚅	ajoneuvo juna luotijuna luotipikajuna rautatie shinkansen
+🥳	hattu juhla juhlia juhliva kasvot leikki pilli syntymäpäivä
+👳	henkilö turbaani
+🎧	korvanappi kuuloke nappi nappikuuloke
+📨	e-mail saapuva kirjekuori sähköposti sähköpostiviesti viesti
+⭐	tähti tähtitiede
+🫃	maha masu paisunut täynnä täysi turvonnut
+🌌	avaruus galaksi linnunrata sää
+🧖	hemmotella höyry kiuas kylpylä löyly löylyhuone nautinto rentoutua sauna spa
+🚠	ajoneuvo gondoli gondolihissi hissi kaapeli kabiini vuori
+🪙	aarre hopea kolikko kulta metalli raha
+🌵	kaktus kasvi
+😲	ällistynyt ihmetys järkyttynyt naama tosi
+🙃	naama väärinpäin ylösalainen
+🚶	ihminen kävelijä kävellä kävely patikointi
+👤	rintakuva rintasiluetti siluetti
+🛶	kanootti vene
+🌓	ensimmäinen neljänneskuu kuu puolikuu sää taivaankappale
+🌒	kasvava kuunsirppi kuu sää sirppi taivaankappale
+👽	alien avaruusolio olio
+🕡	18.30 30 6.30 aika kello kellonaika puoli seitsemän
+🐡	kala pallo
+🛃	paketti tulli
+🥛	juoma lasi maito maitolasi
+🛟	hengenpelastus kelluminen pelastaa pelastaminen turvallisuus uiminen
+🫚	juuri mauste olut ruoka
+🍋	hedelmä kasvi sitrus sitruuna
+🪶	höyhen keveä lento lintu sulka
+🫹	neutraali osoittaa ote puolueeton tämä tuo vasen
+👲	gua pi mao hattu mies ja kiinalainen
+🤰	maha masu nainen paisunut raskaana täynnä täysi turvonnut
+🧹	harja lakaisu luuta noita siivous
+💑	pariskunta ja sydän rakkaus romantiikka
+⛅	aurinko pilvessä pilvi sää
+🩶	harmaa hopea rakkaus siniharmaa sydän tunne
+🧨	dynamiitti ilotulitus räjähde raketti sähikäinen tykinlaukaus
+🏊	uimari uinti
+🕟	16.30 30 4.30 aika kello kellonaika puoli viisi
+🩰	baletti balettitossut tanssi
+📀	blu-ray cd dvd levy tietokone
+🏃	juokseminen maratoni urheilu
+🧜	ahti kalanpyrstö merenhaltija pyrstö vedenhaltija vetehinen
+🔽	alas kolmio nappi painike
+💻	kannetava kannettava läppäri pc tietokone toimisto
+🧋	helmi juoma kupla maito ruoka taiwan tee
+🫏	eläin itsepäinen luonto muuli muuliaasi nisäkäs potku
+🪟	aukko ikkuna kehys läpinäkyvä näkymä raikas ilma
+🐢	kilpikonna
+😤	höyry höyryä nenästä naama surullinen vihainen voittaja voitto
+👨‍🚀	astronautti avaruus mies miesastronautti
+👩‍💻	it it-nainen koodaus nainen tietokone
+🦠	ameba bakteeri sairaus tiede virus
+🥺	anova koiranpentuilme sääli
+🤮	darra kasvot naama oksennus oksentaa oksentava pahoinvointi yrjötä
+❗	huutomerkki merkki välimerkki
+🪼	auts eläin hyytelö kirvely lonkero luonto meri pistävä polte selkärangaton
+🎺	instrumentti musiikki torvi trumpetti
+🟥	neliö punainen
+😶	hiljaa hiljainen naama ilman suuta sanaton suu
+🧬	biologi dna evoluutio geeni genetiikka perimä
+😵‍💫	apua huimata hymiö hypnoosissa naama jolla spiraalisilmät ongelmia sekava spiraali
+📸	kamera ja salama video
+👩‍🔧	jakoavain mekaanikko nainen naismekaanikko työkalu
+💧	hiki pisara sää tippa vesi
+🪂	laskuvarjo laskuvarjohyppy riippuliito varjoliito
+🎃	halloween juhla kaivertaa kurpitsa kurpitsalyhty
+🫟	holi maali roiske tahra
+💖	innostunut kimalle kimaltava sydän
+💜	sydän violetti
+🚀	ajoneuvo avaruus raketti
+🎑	juhla juhlamenot kuu kuuseremonia
+🍦	jää jäätelö jälkiruoka kerma makea pehmeä pehmis
+🥀	kukka nuutunut
+😣	hellittämätön kärsivä naama peräänantamaton sisukas
+📰	lehti sanomalehti uutiset
+🥊	hanska liikunta nyrkkeily nyrkkeilyhanska urheilu
+🧑‍🏫	koulu opettaja
+🔺	kolmio muoto punainen kärki ylös
+📺	televisio telkkari tv video
+🦬	eläin lauma puhveli visentti
+👸	fantasia kruunu kuninkaallinen satuprinsessa
+😋	herkullinen herkullista ruokaa nauttinut hymy naama nam nami nautiskeleva
+👗	leninki mekko ostokset vaatteet
+🦎	lisko matelija
+🫳	ei kelpaa hätistää hätyyttää hus hylätä käsi kämmen alaspäin nostaa noutaa pudottaa tarttua
+🥎	hanska pallo räpylä softball urheilu
+💉	lääkäri lääke piikki rokote ruisku tauti työkalu
+🪧	kortti kyltti mielenosoitus protesti
+🌃	sää tähti tähtitaivas yö
+📕	kirja suljettu
+😇	enkeli hymy ja sädekehä naama satu viaton
+🍃	kasvi lehti tuulessa puhaltaa tuuli
+🫒	oliivi ruoka
+🔜	nuoli pian soon-nuoli tulossa
+🧑‍🍼	henkilö imettävä imetys isä syöttävä vanhempi vastasyntynyt vauva vauvaa
+🚍	ajoneuvo auto bussi linja-auto saapuva
+🧄	mauste valkosipuli
+👯	korva nainen pupu puputytöt tanssija tyttö
+🪤	ansa hiirenloukku hiiri juusto loukku syötti
+🥸	henkilö lasit naama naamio naamioitunut nenä tuntematon valepuku viikset
+🥅	liikunta maali maaliverkko urheilu
+🍪	jälkiruoka makea suklaa
+🔎	etsi haku lasi suurennuslasi oikealle työkalu
+🩴	flip flop rantasandaalit sandaalit tossut varvassandaali varvassandaalit varvastossut
+💢	pettynyt sarjakuva viha vihainen
+🥙	falafel gyros kebab leipä pita ruoka täyte
+🐈	eläin kissanpentu lemmikki
+📥	e-mail postilaatikko saapuvat sähköposti vastaanottaa
+🚮	roska roskakori roskat-merkki
+🟨	keltainen neliö
+🥼	koe lääkärintakki laboratoriotakki tohtori tutkija
+🧱	laasti muuri savi seinä tiilet tiili
+🧈	maitotuote voi
+💓	sydän syke sykkiä sykkivä
+🎏	juhla karppi karppiviiri koinobori viiri
+♈	horoskooppi horoskooppimerkki oinas oinas-merkki
+🛌	hotelli nukkua sänky uni yö
+🦇	eläin lepakko vampyyri
+🚐	ajoneuvo auto bussi linja-auto minibussi pikkubussi
+🐬	eläin flipper meri pyöriäinen
+🐅	eläin eläintarha iso kissa kissapeto peto
+🌉	sää silta yöllä yö
+🤌	käsi supussa käsiele kuulustelu mitä sarkastinen sormet
+🛀	kylpijä kylpy kylpyamme
+👶	lapsi nuori raskaana vauva
+🍁	kasvi lehti putoava vaahtera vaahteranlehti
+🚜	ajoneuvo auto maatila
+💠	kukka muoto vinoneliö vinoneliö/kukka
+😚	naama pusu pusunaama ja suljetut silmät silmä suljettu
+👮	etsivä konstaapeli kyttä laki
+🍥	kakku kala leivonnainen ravintola
+🧌	fantasia hirviö mörkö mörökölli peikko rölli satuolento trollata
+👠	kenkä korko korkokenkä nainen vaatteet
+🧑‍🎄	joulu joulupukki joulutonttu xmas
+👩‍🏫	koulu nainen naisopettaja opettaja
+🌴	kasvi palmu puu
+🏭	rakennus tehdas tuotanto
+🔷	iso sininen vinoneliö muoto
+💡	ajatus hehkulamppu lamppu sähkö valo
+🪾	kelo kuivuus lehdetön oksat paljas talvi
+🔙	back-nuoli nuoli takaisin
+🫲	kädenojennus käsi vasemmalle ojentuva vasen
+💒	häät kappeli romantiikka vihkiminen
+🆔	henkilöllisyystodistus id identiteetti
+🧑‍🩰	baletti tanssija
+🥪	aamiainen kerrosleipä leipä ruoka sandwich täyte
+⌛	ajanotto hiekka tiimalasi
+🔀	nappi nuoli painike ristissä sekoitus
+😦	auki naama surullinen ja suu
+🍄‍🟫	itiö kasvis kasvissyöjä luonto pizzan täytteet portobello ruoka ruskea sieni siitake tryffeli vegetaristi vihannes
+🦫	eläin hampaat pato
+🥚	kananmuna ruoka
+🛑	merkki pysähtyä stop
+🎫	lippu sisäänpääsylippu
+👺	fantasia hiisi hirviö japanilainen menninkäinen naama olio satu
+🤷	ehkä ei välitä en tiedä epäilys epävarmuus ihan sama kohauttaa olkapäitään niin kai olankohautus tietämättömyys välinpitämättömyys
+🦏	eläin sarvikuono
+🍿	elokuva leffa maissi popparit
+☕	höyryävä juoda juoma kahvi kuuma tee
+📴	kielletty matkapuhelin suljettava pois puhelin
+👘	japanilainen kimono vaatteet
+🚈	ajoneuvo juna kevytraidejuna rautatie
+🧷	hakaneula punk punkkari vaippa
+🍔	burgeri hamppari jauhelihapihvi
+🔸	muoto oranssi pieni vinoneliö
+🎎	japani japanilaiset nuket juhlinta nukke
+🧘	jalat ristissä jooga joogi meditaatio mietiskely rauha rento rentoutua risti-istunta zen
+🥾	erävaellus kenkä patikointi retkeily telttailu vaelluskenkä
+🦙	alpakka guanako laama vikunja villa
+🆚	merkki versus vs
+🧦	sukat vaatteet villasukka
+🛕	hindu hindutemppeli temppeli
+💝	nauha rakkaus sydän ja lahjanauha vuosipäivä ystävänpäivä
+🔂	kerran myötäpäivään nappi nuoli painike toista
+🌷	kasvi kukka tulppaani
+🧑‍🧑‍🧒	aikuinen lapsi perhe
+🥰	hymy ja kolme sydäntä ihailla ihastunut kasvot rakastunut
+💍	häissä kihlat romantiikka sormus timantti
+🕖	19 7 7.00 aika kello seitsemän kellonaika
+🚷	jalankulkija jalankulku kielletty
+🐾	jalka jälki käpälä tassu tassunjäljet
+👨‍🎨	maalari mies miesartisti miestaiteilija taide taiteilija
+🍤	katkarapu paistettu tempura
+🦢	eläin lintu ruma ankanpoikanen
+🔏	kirjoittaa lukko ja kynä mustekynä suojaus
+⛄	kylmä lumi lumiukko ilman lunta sää
+💀	hirviö kuolema naama pääkallo ruumis satu
+🏴	liehuva lippu musta
+👍	+1 käsi peukalo peukku vartalo ylös
+🧑‍💻	it-työntekijä kehittäjä keksijä koodari ohjelmisto
+🪊	instrumentti jazz liukua musiikki surullinen vaski
+🌭	hodari hot dog makkara nakki sämpylä
+♎	horoskooppi horoskooppimerkki libra vaaka vaaka-merkki
+🪇	esine instrumentti kalina lyömäsoittimet marakassit musiikki rämistä ravista ravistaa soitin
+💂	vartija
+🛸	lentävä lautanen ufo
+➰	kaareva silmukka
+🎴	hanafuda japani kortti korttipeli kukat kukkapelikortit
+🦪	helmi osteri sukellus
+🪯	khalsa khanda sikhi sikhiläinen sikhismi symboli uskonto veljeys
+🛅	matkatavarat säilytys säilytyslokero tavarasäilytys
+🉐	hyvä ostos -kirjainmerkki japani kirjoitusmerkki
+🧑‍🏭	kokoaminen tehdas tehdastyöntekijä teollisuus työntekijä
+🔰	ajokortti aloittelija auto japani japanilainen symboli aloittelijalle shoshinsha vihreä
+🫍	merellinen meri valas
+♊	horoskooppi horoskooppimerkki kaksonen kaksonen-merkki kaksoset
+🍒	hedelmä kasvi kirsikat kirsikka
+🦘	australia hypätä kenguru loikata pussieläin
+🦯	esteettömyys sokea valkoinen keppi
+🧼	kylpy palasaippua peseytyminen saippua saippuavaahto siivous
+🧿	amuletti helmi nazar-amuletti paha silmä taikakalu talismaani
+🎱	8 biljardi biljardipallo kahdeksan kasipallo pallo peli
+🍭	jälkiruoka karkki makea tikkari
+🥈	hopea hopeamitali mitali toinen
+🔬	koe mikroskooppi tiede työkalu
+🤞	käsi narrata onni risti sormet ristissä sormi
+🍛	curry curry-riisi riisi
+👌	käsi ok ok-sormiele vartalo
+👆	etusormi kämmenselkä käsi osoittaa sormi vartalo ylös osoittava katsojaan päin
+👉	etusormi kämmenselkä käsi oikealle osoittava katsojaan päin osoittaa sormi vartalo
+🎍	bambu havu japani juhla puukoriste
+🧔	karvainen parrakas henkilö parta pulisongit sänki viikset
+🦶	jalkaterä potkaista potku tallata töminä
+🈺	avoinna avoinna-kirjoitusmerkki japani kirjoitusmerkki
+🧮	helmitaulu koulu laskeminen
+🏁	kilpa-ajot ruutukuvio ruutulippu
+🙈	apina ei ele en näe pahaa kielletty paholainen pelokas
+🍠	bataatti paahdettu paistettu uunipaahdettu
+🕋	islam kaaba muslimi rakennus uskonto
+🫓	arepa lavash leipä naan pita ruoka
+😠	kiukku naama raivo suuttunut viha vihainen
+🫶	rakas rakastaa rakastan sinua rakkaus sydän sydänkädet sydänkuvio käsillä
+🤖	hirviö naama robotti robottinaama
+◾	muoto musta neliö pienehkö
+🤤	kasvot kuola kuolaava kuolata naama
+🏹	ase horoskooppi horoskooppimerkki jousi ja nuoli jousiammunta jousimies jousipyssy työkalu
+💔	särkyä särkynyt suru sydän tunne yksin
+🍍	ananas hedelmä kasvi
+🤱	äiti imettää rintamaito ruokkia syöttää vauva
+👨‍🍼	imettävä isä mies syöttävä vastasyntynyt vauva
+👫	kädestä pitäminen käsi mies ja nainen kädessä pariskunta

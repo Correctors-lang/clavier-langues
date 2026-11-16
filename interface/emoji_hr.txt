@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « hr » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	new tipka
+🧑‍🤝‍🧑	držanje za ruke držati osoba osobe koje se drže par ruka
+◽	geometrija geometrijski lik kvadrat srednje mali bijeli
+⛽	benzin gorivo postaja pumpa za
+🔓	lokot otključano otvoreno slomljeno
+👄	ljubiti poljubac ruž za usne šminka tijelo usta
+🍴	doručak glad hrana nož pribor za jelo restoran ručak večera vilica i
+🏒	hokej igra led pak palica i za na ledu sport
+💦	kapljice znoja karikatura prskanje znoj
+🎐	slavlje vjetar vjetreno zvono zvonjenje
+😼	ironija iskrivljeno lice mačke s kiselim osmijehom mačka smiješak životinja
+😉	flert lice koje namiguje namigivanje smajlić zavodljivo
+📛	bedž s imenom ime značka
+🚉	postaja vlak vozilo željeznica
+💌	ljubav ljubavno pismo pošta smajlić srce
+🆘	pomoć sos tipka
+🛙	more nada navigacija navođenje pomorstvo prosvjetljenje signal svjetlo svjetlosni odašiljač
+🍯	hrana med medvjed slatko tegla meda
+😿	lice mačka plakanje suze tuga uplakana životinja
+🫜	cikla korijen povrće repa vrt
+😳	čudno krivnja lice nesigurnost neugoda nevjerica rumenost vruće zacrvenjeno zarumenjeno
+🚨	alarm policija policijska rotirka sirena svjetlo vozilo
+🚌	autobus prijevoz škola školski vozilo
+🌇	sumrak sunce vrijeme zalazak sunca zgrada
+🔝	gore strelica s natpisom top vrh
+🙊	govoriti majmun koji ne govori ništa loše nevidljivo tajna tiho ups zabranjeno životinja zlo
+🐙	hobotnica ocean životinja
+🕦	11 11:30 jedanaest i trideset sat
+🕞	3 3:30 sat tri i trideset
+🙌	bravo hura podići podignute ruke ruka slavlje
+🚗	automobil vozilo vožnja
+🕥	10 10:30 deset i trideset sat
+🥱	dosadno drijemati drijemež laku noć lice pospanost umor vrijeme za spavanje zijevajuće zijevanje zz zzz zzzz
+🐎	konj trkaći utrka životinja
+👩‍🚒	vatrogaskinja vatrogasna kola žena
+🪉	glazba harfa instrument kupidon ljubav orkestar
+🫁	dah disanje izdisanje organ pluća udisanje
+📲	dolazni poziv mobilni telefon sa strelicom mobitel strelica
+💚	emocija ljubav romantika srce zeleno
+📶	antena crtice jačine signala mobitel prijam prijem signal telefona snaga telefon
+🫦	anksiozno flert koketiranje nervozno neugodno očijukanje poljubac ruž seksi strah ugriz usne zabrinuto zavođenje
+🌅	izlazak sunca jutro priroda sunce vrijeme
+🌂	kiša kišobran odjeća vrijeme zatvoreni
+🍲	gulaš hrana juha lonac s hranom zdjela
+🪜	ljestve penjanje prečka stuba
+✅	✓ gotovo gumb kvačica oznaka potvrđeno riješeno tipka s kvačicom
+📑	jezičak kartice knjižnih oznaka knjižna marker
+👣	noge otisak otisci stopala šetnja tijelo
+👀	lice oči oko tijelo
+🤸	aktivnost gimnastika osoba izvodi zvijezdu sport sreća sretna uzbuđenost zvijezda
+⭕	crveni krug s rupom o veliki
+😆	haha hahaha nasmijano lice s čvrsto zatvorenim očima otvorena usta smijeh smiješak sreća sretno zadovoljno zatvorene oči
+🔄	strelica suprotno od kazaljki na satu tipka sa strelicama ulijevo
+🟢	krug zeleni
+🧗	osoba se penje penjač penjanje planina planinarenje
+🌟	iskre noć pobjeda sjaj zvijezda koja sjaji
+🤧	bolesno kihanje lice koje kiše nazdravlje prehlada
+🔛	oznaka strelica s natpisom on uključeno
+🪫	baterija s niskom razinom napunjenosti elektronika ispražnjeno nije napunjeno niska razina snage potrošena
+⏰	alarm budilica čekanje kašnjenje sat sati vrijeme
+🥕	biljka hrana mrkva povrće
+➿	dvostruka vitičasta petlja dvostruko vitica
+🥂	čaša kucanje piće proslava zdravica
+🪲	buba insekt kukac životinja
+🩹	flaster samoljepivi
+🟧	kvadrat narančasti
+📍	čavlić karta lokacija pribadača zaobljena
+😽	lice mačke koja šalje poljubac sa zatvorenim očima mačka ljubi oko životinja
+🐤	beba pile ptica životinja
+🤵	mladoženja odijelo osoba u smokingu smoking
+🛼	koturaljka koturaljke rolanje role sport
+🧩	dio slagalice komadić slagalica trag
+🛝	dječji tobogan igra igralište spuštanje niz zabavni park
+🔇	glasnoća isključen zvučnik zvuk utišano
+🏥	bolnica doktor liječnik medicina zgrada
+🚔	automobil dolazak policija policijski u dolasku vozilo
+💶	banka euro novac novčanica sa znakom eura valuta
+🥭	mango tropsko voće
+🫂	hvala ljubav oproštaj osobe koje se grle pozdrav prijateljstvo utjeha zagrljaj zbogom
+🔳	bijela uglata tipka bijelo crni kvadrat s bijelim obrubom geometrija gumb obris uglato
+💹	grafikon rastućeg trenda sa znakom jena jen novac rast trend valuta
+🧺	domaćinstvo košara za piknik rublje
+😖	frustriranost lice lud osjećaj smetenost susramlje tužan zbunjeno zbunjenost živčanost
+🔐	ključ lokot sigurno zatvoreni s ključem zatvoreno
+🈯	gumb rezervirano japanski tipka s ideogramom
+🏦	banka zgrada
+🍧	desert hrana komadići led restoran slatko
+🧍	osoba stoji stajanje stajati
+🟠	krug narančasti
+⛔	ne promet ulaz zabrana ulaza zabranjeno
+✊	podignuta šaka ruka stisnuto udarac
+🌜	četvrt lice mjesec posljednje četvrti s licem snovi svemir vrijeme
+😹	lice mačke sa suzama radosnicama mačka smijanje smijeh suze veselje životinja
+🧾	dokaz o kupnji faktura knjigovodstvo račun računovodstvo
+🪩	disko kugla ogledalo ples šljokice zabava zrcalo
+🏇	džokej konj konjičke utrke sport utrka
+👦	dečkić dečko dječak mladić muško
+🏸	badminton igra loptica mrežica za reket sport
+🥜	grickalice hrana kikiriki povrće
+📱	mobilni telefon mobitel
+🕎	hanuka menora religija svijećnjak židovstvo
+🚙	rekreacija rekreacijsko vozilo rv suv
+🖤	crno iskvareno srce zlo
+🪬	amajlija fatima hamsa marija mirjam ruka sreća sudbina vođenje zaštita
+🚴	bicikl biciklist osoba vozi sport
+🍷	alkohol bar čaša za vino klub piće restoran
+💊	bolest doktor lijek lijekovi medicina pilula vitamin
+🍀	4 biljka četverolisna djetelina s četiri lista list
+🪌	brisanje crtanje greška ispravak obrisati pisanje pogreška poništiti trljati ukloniti
+😷	bolest dermatolog doktor lice s medicinskom maskom maska medicina mikrobi prehlada zubar
+📆	kalendar na trganje
+🙉	čuti majmun koji ne čuje ništa loše slušanje tajna uši zabranjeno životinja zlo
+💱	banka mjenjačnica novac valuta
+🩻	kosti kostur liječnik medicina rendgen rendgenska snimka
+🏠	dom građevina jednostavno kuća predgrađe vikendica zgrada
+📙	čitanje knjiga narančasta narančasto obrazovanje
+🥔	hrana krumpir povrće
+💮	bijeli cvijet biljka
+🥌	curling igra kamen za karling
+💩	čudovište drek drekec govance hrpica izmeta izmet lice smrdljivo strip
+🍳	doručak jaje kuhanje pečenje restoran tava
+🦈	morski pas riba životinja
+🌼	biljka cvijet cvjetanje
+😜	jezik lice s isplaženim jezikom koje namiguje ludo namigivanje oči šala šašavo smajlić smiješno zabava
+🪁	igračka let papirnati zmaj
+⛎	astrološki znak zmijonosca horoskop zmija zmijonosac zodijak
+🍾	bar boca iz koje izlijeće čep piće
+🧇	doručak neodlučan tost vafel
+🛞	automobil guma kotač krug okret vozilo
+📜	papir svitak
+🧎	klečati kleknuti na koljenima osoba kleči
+🌕	mjesec puni svemir uštap vrijeme
+💽	disk minidisk optički računalo
+💙	emocija ljubav plavo romantika srce
+📏	matematika ravnalo ravno
+🥡	dostava hrane kutija za dostavu kinesku hranu štapići jelo
+🕔	00 5 5:00 pet sati sat
+🤩	lice s očima u obliku zvijezda oči oduševljenje smajlić smiješak uzbuđenost
+🟦	kvadrat plavi
+🐍	horoskop ophiuchus životinja zmija zmijonosac zodijak
+🐉	bajka životinja zmaj
+🪎	blago bogatstvo dijamanti dragocjenost dragulj nagrada novac srebro zlato
+💯	100 apsolutno da definitivno istina jasno potpuno rezultat šala savršen sto bodova točno to vjerno
+🌝	lice mjesec puni s licem smajlić svemir vedro vrijeme
+♏	astrološki znak škorpiona horoskop škorpion zodijak
+🪞	odraz ogledalo šminka zrcalo
+💅	kozmetika lak za nokte manikura nokti
+🫫	lomljenje maskiranje mrvljenje napetost otkrivanje otpor transformacija
+🈁	japanski tipka s ideogramom ovdje
+🍵	čaj napitak piće piti šalica za bez ručke
+⏳	pijesak pješčani sat s pijeskom koji curi vrijeme
+🌙	mjesec polumjesec svemir vrijeme
+🤭	hihotanje iznenađenje iznenadna spoznaja lice s rukom preko usta smajlić šok tajna ups
+🥗	hrana salata zelena zeleno
+🈹	gumb japanski tipka s ideogramom popust
+🔔	crkva zvono zvuk
+🦹	kriminalac osoba supermoći zlo zločinac
+🙎	durenje grimasa izraz lica mrštenje osoba koja se duri razočaranje žena
+🫴	dođi dozivati držati ne znam nuditi ponuda poziv reci mi ruka s dlanom okrenutim prema gore uhvatiti
+👨‍🦽	čovjek u kolicima invalidska kolica muškarac invalidskim na ručni pogon pomagalo
+🙇	ispričavanje klanjanje kretnja meditacija naklon oprost osoba koja se klanja žaljenje žao mi je
+🔈	stišan zvučnik tiho utišano
+🍋‍🟩	citrus kiselo limeta margarita mojito salsa sok tekila tropsko voće
+🪖	kaciga rat ratnik šljem vojni vojnik vojska
+🪰	bolest crv insekt kukac muha nametnik trulež
+👧	djeva djevica djevojčica djevojka izražajne oči kćer mlada repići zodijak
+🍂	biljka jesen list otpali padanje
+🍝	hrana mesne okruglice restoran špageti tjestenina
+🧑‍🦼	invalidska kolica osoba u invalidskim kolicima na motorni pogon pomagalo
+🏂	daskanje skijanje snijeg snowboarder sport
+🏬	robna kuća trgovina zgrada
+🤾	bacanje gađanje lopta osoba igra rukomet rukometaš sport
+🌳	biljka drvo listopadno stablo
+🏐	igra lopta odbojkaška sport
+🧴	bočica losiona krema za sunčanje losion tijelo šampon
+💨	bježanje dim karikatura moram ići oblak otišao puštanje vjetra trčanje vjetar
+🪱	crv glista kolutićavac parazit životinja
+🫕	čokolada fondi fondue hrana otopljeno posuda rastopljeni sir skijanje švicarsko
+🕧	12 12:30 dvanaest i trideset sat
+🥣	doručak hrana zdjelica sa žlicom žitarice
+🍞	kruh restoran štruca tost ugljikohidrati
+🌚	lice mjesec mlađak s licem mladi svemir vrijeme
+🦨	smrad tvor
+🚹	muški toalet wc zahod
+🪅	meksiko pinjata rođendan slatkiši slavlje zabava
+🪢	čvor ispreplesti užad uže zapetljano zapetljati
+🫢	čuđenje divljenje iznenađenje lice s otvorenim očima i rukom preko usta nevjerica omg preplašenost šok šokantno strah
+🎻	glazba instrument violina
+🛫	avion odlazak polijetanje zrakoplova prijava prijevoz vozilo zrakoplov
+💐	biljka buket cvijet godišnjica romantika
+👎	-1 dolje loše ne sviđa mi se palac ruka
+🤟	gesta volim te ljubav ruka tri prsta
+♋	astrološki znak raka horoskop rak zodijak
+🦸	dobročinitelj junak junakinja superheroj superjunak supermoći
+👏	aplauz bravo čestitam čestitke izvrsno odlično odrađeno pljeskanje ruka ruke koje plješću uzbuđenost
+🧚	bajka fantazija kosjenka krila malik tintilinić priča vila vilinsko biće
+🏢	poslovna zgrada poslovni prostor ured uredski
+🧻	papirnati ručnici rola papira toaletni papir
+🔅	gumb slabo svjetlina tamno tipka za smanjivanje svjetline
+🆓	free gumb tipka
+🪛	alat odvijač vijak
+📖	beletristika čitanje knjiga knjižnica obrazovanje otvorena otvoreno roman znanje
+🍬	bombon desert hrana karijes slatko
+🃏	džoker igra kartanje karte
+🧪	eksperiment epruveta kemičar kemija laboratorij znanost
+🍟	brza hrana krumpirić pomfrit prženo
+🌏	australija azija globus s prikazom azije i australije svijet zemlja
+🧵	igla konac šivaća šivanje uzica
+🆎	ab krv krvna grupa tipka krvne grupe
+👩‍🍼	beba bočica dadilja dojenje dojilja hranjenje ljubav majka mama novorođenče osoba žena
+🕛	00 12 12:00 dvanaest sati sat
+🍰	desert kolač komad kolača kriška slatko tijesto torta
+🦩	flamingo plamenac tropski
+😁	lice koje sija od zadovoljstva s nasmiješenim očima lijepo oči oko smajlić smiješak sretno zubi
+⬛	crni kvadrat geometrija veliki
+🪻	biljka cvat cvijet jorgovan lavanda lila ljubičasto proljeće vučika zijevalica zumbul
+🖖	prst šaka spock vulkan vulkanski pozdrav zvjezdane staze
+🪍	mreža skupljati uhvatiti zamka
+⌚	ručni sat
+🐯	lice tigra tigar životinja
+🚧	gradnja prepreka radovi
+🔵	geometrija krug plavi plavo
+🌄	izlazak sunca iznad planina jutro sunce vrijeme zora
+🚾	nužnik toalet wc zahod
+📮	pošta poštanski sandučić
+🦽	invalidska kolica na ručni pogon pomagalo
+🌁	magla maglovito vrijeme
+🫈	bigfoot div divlji čovjek dlakav jeti kriptid sasquatch šuma
+🦷	bijeli zubi stomatolog zub zubar
+🪺	gniježđenje gnijezdo s jajima plavim jaja jaje ptica
+🐜	insekt kukac mrav životinja
+🔋	baterija
+🟡	krug žuti
+🌑	mjesec mlađak mrak svemir vrijeme
+😩	brige glad lice neee nesretan neuspjeh plakanje pospanost tužno umor
+🛒	kolica za kupnju kupnja kupovanje
+🆗	ok tipka u redu
+🪝	kuka prodajno mjesto udica uhvatiti uloviti zakrivljeno
+🥞	crêpe hrana palačinke
+💳	banka kartica kredit kreditna novac
+🦗	cvrčak insekt kukac skakavac
+🫛	edamame grah grašak mahuna mahunarke povrće soja graška
+🥧	kriška pite pita od jabuke punjenje tijesto
+🧸	igračka medvjedić plišanac plišani
+🧛	besmrtni drakula kostim krv maškare natprirodno neživa osoba noć vještica očnjaci vampir
+🟪	kvadrat ljubičasti
+🐱	lice mačke ljubimac mačka životinja
+🦺	hitni slučaj prsluk sigurnosni sigurnost spašavanje
+🈴	japanski prolazna ocjena tipka s ideogramom
+🍏	biljka jabuka voće zelena
+🌠	komet meteor padanje zvijezda padalica
+❌	križić množenje odustajanje oznaka križića puta x znak
+🐸	lice žaba životinja
+🧀	komad sira sir
+🪕	bendžo glazba žičani instrument
+🐩	ljubimac pas pudl životinja
+🦻	oštećen sluh pomagalo slušni aparat uho sa slušnim aparatom
+👩‍🦼	invalidska kolica pomagalo žena u kolicima motornim invalidskim
+🧙	čarobnjak čarolija fantazija igranje uloga mag magičar magija prizivati vještac vještica
+👨‍🏫	muškarac nastavnik profesor učitelj
+💄	kozmetika ruž za usne šminka
+🚘	automobil u dolasku dolazak vozilo
+👨‍🏭	industrija muškarac radnik traka tvornica tvornički
+🏣	japan japanski poštanski ured pošta zgrada
+🫐	bobica borovnica borovnice plavo šumsko voće
+🦑	hrana lignja mekušac životinja
+🐵	banana lice majmun životinja
+🧊	blok leda hladno kocka led santa
+🤿	maska za ronjenje
+📼	stara škola vhs video videokaseta vrpca
+💟	bijelo srce emocija ljubičasto ukras srca
+🎥	film filmska kamera kino
+🧥	hladnoća jakna kaput odjeća
+🐽	lice njuška svinje prase svinja životinja
+👭	držanje ruku najbolje prijateljice osoba par ruka žene
+🚝	jednotračna željeznica vozilo
+🩷	emocija ljubav neodoljivo posebno roza ružičasto slatko srce sviđanje
+🧑‍🎓	diplomant student
+🏡	dom dvorište kuća s vrtom kućica u cvijeću predgrađe vrt
+😮‍💨	dim iscrpljenost izdisaj lice koje izdiše olakšanje puhanje šapat stenjanje uzdah zvižduk
+🔣	& % ♪ 〒 simboli unos
+🪚	alat drvo pila rezanje ručna stolar
+🧕	hidžab marama žena s maramom
+🦂	horoskop škorpion zodijak
+➖	- matematika minus znak
+😮	iznenađenje lice s otvorenim ustima ne vjerujem nestvarno nevjerojatno otvoreno šok suosjećanje usta
+🪸	crveni koralj greben klimatske promjene more ocean
+🚊	tramvaj trolejbus vozilo
+😟	anksioznost briga iznenađenje lice pod stresom stres tuga zabrinuto zabrinutost živčanost živci
+📇	indeks kartice kartoteka rolodex
+🌽	biljka hrana klip kukuruza kukuruz
+📫	pošta poštanski sandučić zatvoreni s podignutom zastavicom zatvoreno
+🚄	brzi vlak brzina japanski shinkansen prijevoz željeznica
+🧑‍🎨	paleta slikar
+🪪	dokument dozvola id osobna iskaznica sigurnost vjerodajnice
+🫖	čaj čajnik napitak piće posuda topli
+🕘	00 9 9:00 devet sati sat
+🈵	gumb japanski popunjeno tipka s ideogramom
+🐔	koka kokoš životinja
+👩‍🦽	invalidska kolica pomagalo žena u invalidskim kolicima na ručni pogon
+🛗	dizalo dizanje lift pristupačnost
+🍊	biljka mandarina naranča vitamin c voće
+🤒	bolesno lice s toplomjerom prehlada toplomjer
+🎾	loptica reket sport tenis
+🤡	klaun lice klauna
+💰	bogatstvo dolar milijun novac oklada plaća plaćanje pobjeda vreća s novcem
+🛴	noga romobil
+🪷	blagostanje budizam čistoća cvijet hinduizam indija ljepota lotus mir vijetnam
+🦉	mudrost ptica sova životinja
+🐛	gusjenica insekt životinja
+📣	megafon navijanje zvuk
+😱	iznenađenje krik lice koje vrišti od straha munch šok šokiran strah vrisak
+🥨	ispleteno isprepleteno perec uvijeno
+📎	spajalica
+🍩	desert hrana krafna slatko
+🐕	ljubimac pas životinja životinje
+🧑‍🧒‍🧒	dijete obitelj odrasla osoba
+🪮	afrički afro češalj češljić kosa stiliziranje
+🫗	čaša izlijevanje tekućine nezgoda piće prazno proliti ups voda
+📳	mobitel način rada vibracije telefon vibracija
+💏	godišnjica osoba par poljubac romantika srce
+🔮	alat kristal kristalna kugla sudbina
+🙆	kretnja ok osoba pokazuje u redu ruka vježbanje žena
+🏈	američki nogomet amerika lopta sport
+🥿	balerinka cipela s ravnim đonom niska papuča
+🦿	mehanička noga pomagalo proteza
+💆	glavobolja lice masaža napetost opuštanje osoba salon terapija žena na masaži
+🫯	borba metež neslaganje rasprava sukob svađa tučnjava
+🫰	<3 ljubav novac pucketanje prstima ruka s prekriženim palcem i kažiprstom skupo srce
+🥯	doručak krafna kruh pecivo pekarski proizvod uštipak
+🦜	govor gusar papiga ptica
+👨‍🌾	farmer muškarac poljoprivrednik seljak vrtlar
+👖	hlače kupnja odjeća traperice
+🦕	brahiosaur brontosaur dinosaur diplodok sauropod
+🚯	ne nema otpaci zabranjen otpad zabranjeno bacanje otpadaka
+🩱	jednodijelni kupaći kostim
+➕	+ matematika plus znak
+😡	bijes crvenilo crveno durenje izluđujuće ljut ljutnja lud nesretan uzrujan
+🥋	borilačke vještine borilački sportovi džudo karate kimono taekwondo uniforma za
+🐣	beba izlijeganje pile izleglo iz jajeta životinja
+👑	kralj kraljevska obitelj kraljica kruna odjeća
+🏆	nagrada pehar pobjeda prvaci sport trofej
+🦔	bodlje jež
+✋	daj pet podignuta ruka šaka stop
+🔪	alat kuhanje kuhinjski nož oružje
+🪔	diya lampa ulje uljna
+🐏	horoskop ovan ovca rogovi životinja zodijak
+🟣	krug ljubičasti
+🥦	biljka brokula povrće
+👜	odjeća putna torba ručna torbica
+🍎	biljka crvena jabuka voće
+🍜	hrana kipuća zdjelica para ramen tjestenina
+🐓	kokot pijetao ptice životinja
+🪑	sjediti sjesti stolica
+🧠	inteligencija mozak pamet
+📘	čitanje knjiga plava plavo
+🛬	dolazak slijetanje zrakoplova zrakoplov
+🍘	hrana keks od riže riža
+🦚	paun paunica ponos ptica razmetljivost ukras životinja
+🎆	slavlje vatromet zabava
+🫌	gusjenica insekt krhko metamorfoza migracija nada promjena transformacija
+🤯	eksplodirajuća glava šok
+🟩	kvadrat zeleni
+🈲	japanski tipka s ideogramom zabranjeno
+😈	bajka lice ljubičasto nasmiješeno s rogovima rogovi smiješak vrag zlo
+💗	emocija nervoza poljupci puls pulsiranje srce koje raste uzbuđenje uzbuđenost
+🔼	gore gumb strelica tipka prema
+🎈	balon proslava rođendan slavlje
+🦀	horoskop rak zodijak
+🩸	darivanje krvi doniranje kap krv krvarenje medicina menstruacija
+📄	dokument stranica okrenuta prema gore
+🐋	kit ocean životinja
+🍌	banana hrana voće
+🤕	bol lice sa zavojem ozljeda zavoj
+👡	cipela obuća sandala žene ženska
+🏤	europa pošta poštanski ured zgrada
+🏓	igra loptica ping pong reket sport stol stolni tenis
+🧁	desert kolač muffin pekarski proizvod šećer slastica
+🌲	biljka božićno drvce drvo zimzeleno
+🎂	desert hrana rođendan slatkiš slatko slavlje tijesto torta tulum zabava
+💋	emocija otisak usana poljubac poljupci romantika spoj srce trag usne
+🤔	brada lice koje razmišlja razmatrati razmišljanje smajlić zapitati se
+⛳	golf rupa sport zastavica u rupi
+🧫	bakterije biolog biologija kultura laboratorij petrijeva posuda zdjelica
+🥠	kolačić sreće za sreću proročanstvo
+👐	otvorene ruke otvoreno ruka tijelo zagrljaj
+😃	izvrsno lice nasmijano s velikim očima otvorena usta smajlić smijanje smiješak sretno zubi
+👅	jezik lizanje tijelo
+🤨	blago iznenađenje hm lice s podignutom obrvom neodobravanje nepovjerenje nevjerica skepticizam skeptično skeptik
+🎌	japan križ prekrižene zastave prekriženo slavlje
+💫	karikatura sjaj vrtoglavica zvijeda padalica zvijezda zvijezde zvjezdice
+🤹	multitasking održavanje ravnoteže osoba žonglira vještina žongliranje
+📠	faks telefaks
+🚪	stražnja vrata
+🥹	aw aww divljenje lice koje se suzdržava od suza ljutito molim osjećaji otpor plač ponos sram suze radosnice tuga zahvalnost
+🌖	mjesec opadajuće prve četvrti treće opadanje padajući izbočeni svemir
+🙏	molitva moljenje naklon ruke sklopljeni dlanovi zahvala
+🧑‍🎤	glumac izvođač pjevač rock zabavljač zvijezda
+🪥	četkanje četkica za zube čisto dentalna higijena kupaonica zubi
+🏄	daskanje ocean plaža sport surfanje surfer valovi
+👩‍🔬	biologinja fizičarka inženjerka kemičarka žena znanstvenica
+🤺	mač mačevalac mačevanje osoba se mačuje
+🎠	konj konjić na vrtuljku vrtuljak zabavni park
+🈳	ima slobodnih mjesta japanski tipka s ideogramom
+🔥	alat plamen požar vatra
+🪿	gukanje guska jato perad ptica smiješno životinja
+🍨	desert hrana led restoran slatko vrhnje
+🕓	00 4 4:00 četiri sata sat
+🔯	šesterokraka zvijezda s točkom sreća židovska židovstvo
+📉	grafikon silaznog trenda pad silazni trend
+🐀	štakor životinja
+👟	cipela obuća sport tenisica
+📯	pošta poštanski rog
+😅	hladno nasmijano lice s kapljicom znoja nervozno otvoreno pod stresom smajlić smiješak stres uzbuđeno znoj
+🦛	hippo hippopotamus nilski konj vodeni vodenkonj
+🌛	četvrt lice mjesec prve četvrti s licem svemir vrijeme
+👔	košulja kravata odjeća ozbiljno zaposlenik
+🧡	narančasto srce
+❔	bijeli upitnik interpunkcija obris pitanje znak
+🐺	lice vuk životinja
+🪹	dom gniježđenje gnijezdo prazno
+🤴	kraljevska osoba princ
+🌘	mjesec opadanje polumjesec posljednje četvrti svemir vrijeme
+🩺	liječnik medicina srce stetoskop
+🍣	hrana sushi
+🍢	hrana morski plodovi oden ražnjić štapić
+🦐	hrana rak škamp školjka
+🫺	desno hvat neutralno ono ovo pokazati
+🍮	desert hrana krema od jaja puding slastice slatko
+🥐	francuska hrana kroasan kruh
+🔖	knjižna oznaka
+🥟	empanada gyōza jiaozi okruglica pierogi školjkica
+🎭	izvedba izvedbene umjetnosti kazalište maska umjetnost
+🈚	gumb besplatno japanski tipka s ideogramom
+🚋	tramvaj tramvajska kola trolejbus vagon vozilo
+🚦	okomiti semafor promet signalizacija svjetlo
+😒	čudno dosađivanje lice s izrazom dosade ljubomorno nervozno nesretno nezadovoljstvo nije zabavno smajlić u redu
+🔹	dijamant geometrija mali plavi romb plavo
+🪴	biljka u tegli kuća rasti ukras uzgoj
+🧰	alat crvena kutija za crveno mehaničar
+🦃	puran purica životinja
+🍄	biljka gljiva
+🟤	krug smeđi
+🫱	desna ruka desno doseg okrenuta udesno stisak ruke stisnuti ruku
+🧟	horor maškare nemrtvi noć vještica strašno živi mrtvac zombi
+👨‍🎤	glumac muškarac pjevač zabavljač zvijezda
+🫩	iscrpljenost lice s podočnjacima pospano umorno
+🤗	grljenje lice koje grli otvorene ruke smajlić zagrljaj
+⏩	dvostruko brzo premotavanje strelica tipka za pretraživanje unaprijed
+🕜	1 1:30 jedan i trideset sat
+📈	grafikon uzlaznog trenda rast uzlazni trend
+🦆	patka ptica životinja
+🤼	borba duel hrvač hrvanje ljudi osoba osobe se hrvaju sport u ringu
+🎶	glazba glazbene note nota
+🦁	horoskop lav lice lava safari životinja zodijak
+🤏	mala količina malo prsti ruka koja štipa samo
+🪄	čarobni štapić čarobnjak magija vještica
+🆖	gumb ng tipka
+😙	flert izlasci lice koje ljubi s nasmiješenim očima ljubav noć oči oko poljubac poljupci smajlić smiješak spoj zatvorene
+🙍	frustracija gesta izraz lica mrštenje osoba koja se mršti razočaranje uzrujanost žena
+🚂	lokomotiva motor para putovanje vlak vozilo željeznica
+👰	mladenka nevjesta s velom osoba veo vjenčanje
+🚭	ne nema pušenje zabranjeno
+😨	anksioznost krivnja lice preplašenost strah zabrinutost
+🎼	crtovlje glazba nota notno
+🤦	dlan lice lupanje dlanom o čelo ne opet nevjerica očaj osoba lupa šok
+📞	slušalica telefon telefonska
+🚎	autobus prijevoz prijevozno sredstvo tramvaj trolejbus vozilo
+🔢	1234 brojevi unos brojeva
+🪣	bačva kabao kanta vjedro
+😾	durenje lice mačka životinja
+🥢	kineski štapići za jelo
+🏑	hokej na travi lopta palica sport teren trava
+🎢	smrt vlak smrti vrtuljak zabavni park
+🐭	lice miša miš životinja
+😧	izmučeno lice iznenađenje muka nesretan pod stresom preplašeno što strašno vau zaboravljeno
+🐷	lice svinje svinja životinja
+🫣	neugoda očaranost preplašenost skrivanje sram sramežljivost strah virenje na jedno oko viriti
+🍈	biljka dinja voće
+🤛	ruka šaka ulijevo
+🙋	ja mogu pomoći znam kretnja odaberi me osoba s podignutom rukom pitanje podići ruka sreća žena
+🚲	bicikl vozilo vožnja bicikla
+🍑	biljka breskva hrana voće
+🌍	afrika europa globus s prikazom europe i afrike svijet zemlja
+👬	blizanci držanje za ruke horoskop muškarac muškarci koji se drže par
+🐗	divlja svinja vepar životinja
+🤎	smeđe srce
+🚃	pruga tramvaj trolejbus vagon vlak željeznica
+🎤	glazba karaoke mikrofon
+👿	bajka demon fantazija ljubičasto lice ljuto s rogovima nestašno vrag vražićak zlo
+📡	antena satelit satelitska tanjur
+🫨	drhtanje drhteće lice iznenađenje ludilo omg potres šok trešnja vibracija vibriranje
+🤜	ruka šaka udesno
+🌰	biljka kesten
+🐨	australija koala medvjed životinja
+📚	čitanje knjiga knjige knjižnica obrazovanje škola učenje znanje
+🌿	biljka list
+♍	astrološki znak djevice djevica horoskop zodijak
+📂	datoteka mapa otvorena otvoreno
+🔠	latinica slova unos velikih latiničnih velika
+🔗	karika karike veza
+🔱	alat brod grb posejdon sidro trozubac znak trozupca
+🥒	biljka hrana kiseli krastavac povrće
+⏪	dvostruko brzo premotavanje strelica tipka za pretraživanje unatrag
+🥁	bubanj glazba palice
+📅	datum kalendar
+👨‍🦼	čovjek u kolicima invalidska kolica muškarac motornim invalidskim pomagalo
+🍚	hrana kuhana riža
+🐆	leopard velika mačka životinja
+☔	kiša kišobran s kapima kiše odjeća vrijeme
+🍼	beba bočica za bebe hrana mlijeko piti rođenje
+🎳	igra kugla kuglanje sport
+🪭	flert hlađenje lepeza lepršanje ples sklopiva sramežljivo vruće
+🍉	biljka lubenica voće
+🎄	biljka božić božićno drvce drvo slavlje
+🔲	crna uglata tipka crno geometrija gumb s crnim okvirom uglato
+🧑‍🌾	farmer poljoprivrednik vrtlar
+🚩	golf pošta radovi trokutasta zastava
+🦓	pruge zebra životinja
+🍗	batak hrana kost noga perad piletina puretina
+🥮	festival jesen mjesečev kolač slastica
+🏪	dućan otvoreno 24 sata trgovina mješovitom robom zgrada
+🍓	biljka hrana jagoda voće
+🤚	dlan podignuto ruka gore uspravno
+📩	e-mail e-pošta komunikacija odlazno omotnica sa strelicom pismo slanje strelica
+📓	bilježnica
+👥	poprsja u silueti poprsje prijatelji silueta
+📊	grafikon podaci traka trakasti
+🗽	kip slobode new york sloboda
+🕒	00 3 3:00 sat tri sata
+🪋	apokalipsa gravitacija padanje stijena svemir vatrena kugla zvijezda
+👓	naočale odjeća oko
+🚰	piće pitka voda
+🎽	atletika majica za trčanje sport
+😴	drijemati krevet laku noć pospano spavanje umor vrijeme za zijevanje zzz
+🎦	film kamera kino
+🥏	disk frizbi leteći ultimate
+🦡	jazavac medojedni štetočina životinja
+🎨	muzej paleta slikarska slikarstvo umjetnost
+🍖	hrana kost meso na kosti
+🔍	alat povećalo nagnuto ulijevo staklo traženje
+🌹	biljka cvijet ruža valentinovo
+👩‍🚀	astronautkinja raketa svemir žena
+🐚	more plaža školja školjka spirala spiralna životinja
+🎰	automat igra na sreću jednoruki jack kasino
+🕺	čovjek elegantno flamenco muškarac pleše osoba ples plesač salsa tango
+🔡	abcd latinica mala slova unos malih latiničnih
+👩‍🦯	pomagalo slijepa slijepica žena s bijelim štapom
+🕍	hram judaizam religija sinagoga židovi židovstvo
+🛁	kada kupanje
+💘	kupid romantika srce sa strelicom strelica
+🥍	gol lacrosse lakros lopta sport štap
+🧑‍🔧	električar majstor mehaničar serviser vodoinstalater
+😍	lice ljubav nasmiješeno s očima u obliku srca oči smajlić smiješak srce
+🆑	cl gumb tipka
+🧃	sok u tetrapaku tetrapak
+👒	odjeća šešir žene ženski
+♌	astrološki znak lava horoskop lav zodijak
+🌞	lice sunce s licem svemir vedro vrijeme
+🍆	biljka patlidžan povrće
+😊	lice nasmiješeno s nasmiješenim očima oči rumeno smajlić smiješak
+🫸	blokiraj čekaj daj pet desno guranje odbij ruka koja gura udesno stop
+💲	dolar masno otisnut znak dolara milijun novac plaćanje valuta
+🦍	gorila životinja
+🌈	duga homoseksualno kiša lezbijski lgbt lgbtq lgbtqia pride priroda vrijeme
+🙂	blago nasmiješeno lice smajlić smiješak
+🧭	kompas magnetski navigacija orijentacija
+👞	cipela muška muškarci obuća
+🩳	bermude donje rublje hlače hlačice za kupanje kratke kupaći
+🧑‍🚀	astronaut kozmonaut raketa
+🕚	00 11 11:00 jedanaest sati sat
+😵	bolest lice s vrtoglavicom mrtvo nokautiran osjećaj prekrižene oči umor vrtoglavica
+📿	brojanica krunica molitva odjeća ogrlica perlice religija
+🤓	inteligentan lice lukav pametan pametnjaković smajlić šmokljan štreber štrebersko stručnjak
+🪀	igračka jo-jo
+🏫	škola zgrada
+🍹	alkohol bar klub koktel piće tropi tropsko zabava
+🕝	2 2:30 dva i trideset sat
+🕠	5 5:30 pet i trideset sat
+📟	dojavljivač pager
+🎵	glazba glazbena nota zvuk
+👙	bikini kupaći kostim odjeća plivanje
+🩲	donje rublje gaćice kupaći kostim
+🤑	lice novac plaća pohlepno smajlić usta
+🚛	kamion prikolica tegljač vozilo zglob zglobni
+🥘	hrana lonac paella plitko posuda s hranom
+😘	flert lice koje šalje poljubac ljubav ljubavnik nedostaješ mi romantično srce volim te
+🛺	rikša tuk
+👱	čovjek kosa lice muškarac osoba plava plavokosa
+🛂	kontrola putovnica
+🪓	alat drvo sječa sjeći sjekira
+🫝	fermentacija kiseliti krastavac namirnica nevolja rasol
+🔞	18 dobno ograničenje maloljetnici ne osamnaest zabranjeno za mlađe od
+🤝	dogovor ruka rukovanje sastanak stisak ruke
+📒	bilježnica računovodstvena knjiga
+🚥	promet raskrižje semafor signalizacija svjetlo vodoravni
+🔊	glasan zvučnik glasno glazba
+🐴	konj lice konja životinja
+😕	hmm lice ne znam nisam siguran tužan žao mi je zbunjen zbunjeno zbunjenost
+🫑	babura hrana papričica paprika povrće
+🫄	naduto prejedanje puno sitost trbuh trudna osoba trudno trudnoća
+🪐	planet s prstenom saturn
+🏅	medalja prva prvi sportska zlatna
+🏯	dvorac japan japanski zgrada
+🌊	more ocean val voda vodeni vrijeme
+💿	blu-ray cd disk optički računalo
+🪦	grob groblje nadgrobni spomenik počivao u miru rip smrt
+⚾	lopta za bejzbol sport
+👈	kažiprst koji pokazuje ulijevo pokazivanje prst šaka
+🦒	točke žirafa životinja
+🌗	četvrt mjesec posljednje četvrti svemir vrijeme
+🚸	dijete pješački prijelaz za djecu pješak promet zebra
+🤳	fotoaparat kamera selfie slikanje telefon
+🏀	košarkaška lopta skok sport
+🚏	autobus autobusna stanica postaja
+🥷	borac nindža osoba prikradanje rat skrivanje tajna ubojica vojnik
+⚽	lopta nogomet nogometna
+🚖	dolazak taksi u dolasku vozilo
+👂	sluh slušanje slušati tijelo uho uši zvuk
+👝	odjeća torba torbica
+📵	mobitel ne telefon zabranjena uporaba mobilnih telefona upotreba zabranjeno
+🐳	kit koji izbacuje mlaz vode lice životinja
+😯	ajme iznenađenje lice nevjerojatno ušutkano zapanjen
+🍫	čokolada desert hrana slatko tabla čokolade
+🌋	erupcija planina vrijeme vulkan
+🧝	folklor magično mit šumski vilenjak vilenjaci
+💛	srce žuto
+👨‍💻	izumitelj koder muškarac programer softver tehnološki inženjer
+🐃	bivol voda vodeni životinja životinje
+🧆	ćufte falafel okruglice slanutak
+💎	dijamant dragi kamen dragulj romantika
+🧑‍🚒	vatrogasni djelatnik vatrogasno vozilo
+📷	fotoaparat kamera putovanje selfie video
+⛪	crkva križ kršćanstvo religija zgrada
+🚵	bicikl biciklist brda osoba vozi brdski planina sport
+🐟	horoskop riba ribe životinja zodijak
+🤥	laganje laž lice koje laže pinokio smajlić
+😛	izvrsno jezik lice s isplaženim jezikom lijepo slatko smajlić zabava
+🦵	koljeno noga šutirati svinuta udariti nogom
+🪒	brijanje britva britvica oštro žilet
+💈	brijač frizer stup koji označava brijačnicu
+📹	kamera video videokamera
+🛵	motor motorkotač skuter vozilo
+💸	krila letjeti novac s krilima novčanica
+🔦	alat lampa ručna svjetiljka struja svjetlo
+🧑‍🧑‍🧒‍🧒	dijete obitelj odrasla osoba
+🚳	bicikl ne promet vozilo zabranjeno za bicikle
+🪵	cjepanica cjepanice drva drvo
+😂	hahaha lice sa suzama radosnicama lol plač od smijeha plačem smajlić smijeh smiješno sreća veselje
+🐦	ornitologija ptica životinja
+🔩	alat matica vijak i
+🤠	kauboj kaubojka lice šešir
+🔉	srednja glasnoća srednje glasan zvučnik zvuk
+💇	frizer frizerski salon frizura osoba šišanje uljepšavanje žena na šišanju
+🧓	osoba rodno neutralno stara starija
+👼	anđeo bajka beba lice mašta
+🪠	kakica odčepljivač odčepljivanje vakuum vodoinstalater wc
+👨‍💼	arhitekt menadžer muškarac poslovni čovjek službenik ured
+🔃	okomite strelice u smjeru kazaljki na satu ponovno učitavanje smjer strelica
+🦦	ribolov vidra zaigranost
+🗻	fuji japan planina priroda
+🐖	krmača prase svinja životinja
+🧲	magnet magnetizam megnetizam potkova privlačenje
+🚻	toalet wc zahod
+💤	karikatura laku noć pospano spavanje umor zz zzz
+🔌	struja strujni utikač
+🏺	amfora horoskop kuhanje piće vodenjak vrč zodijak
+📻	radio zabava
+🧑‍🦯	osoba s bijelim štapom pomagalo slijep
+🪗	glazba harmonika instrument mala ručna
+🍱	bento hrana kutija
+🔘	geometrija kružić za označavanje
+🕙	00 10 10:00 deset sati sat
+👻	bajka čudovište duh mašta stvor
+🧉	čaj mate piće
+🫀	anatomski anatomsko srce crveno kardiologija organ puls stvarno
+🦭	morski lav ocean tuljan životinja
+👨‍🔬	biolog fizičar inženjer kemičar muškarac zanimanje znanstvenik
+🐫	deva dvogrba grba pustinja životinja
+♉	astrološki znak bika bik horoskop zodijak
+👨‍🍳	kuhar muškarac osoba šef kuhinje
+🚢	brod prijevoz put putnici putovanje vozilo
+🥽	naočale za plivanje ronjenje varenje zaštita oči zaštitne
+🚟	prijevoz viseća vozilo željeznica
+🔶	dijamant geometrija narančasto romb veliki narančasti
+🪡	igla krojenje šavovi šivaća šivanje vezenje
+⛺	kampiranje šator
+🙁	blago namrgođeno lice mrgođenje tužno
+👾	čudovište izvanzemaljac izvanzemaljsko lice nlo stvor
+💷	banka funta novac novčanica sa znakom funte valuta
+🏉	američki nogomet lopta ragbi sport
+❓	crveni upitnik interpunkcija oznaka pitanje znak
+👩‍🎨	paleta slikarica umjetnica žena
+🐇	kunić ljubimac zec životinja
+🌾	biljka klas riže riža žitarice
+🛷	sanjkanje sanjke snijeg spuštanje
+🌀	ciklona orkan pijavica tajfun vrijeme vrtoglavica
+🦴	kost kosti kostur pas
+👨	dečko muškarac muško osoba prijatelj
+💥	bum eksplozija karikatura sudar
+🗿	kameni kip kipovi lice moai rapa nui
+⛵	brodica čamac jahta jedrenje jedrilica more odmor
+🫵	hej ti kažiprst uperen prema gledatelju pokazivati prstom ruka vi
+🏰	dvorac europa europski zgrada
+🐞	buba bubamara insekt
+🚆	dolazak vlaka vlak vozilo željeznica
+🐕‍🦺	pas pomagač vodič pomagalo pomoć radni traganje
+🐮	krava lice krave mlijeko životinja
+🏮	bar crveni lampion papirnati crveno restoran svjetlo
+😥	anksiozno komplicirano lice ne ovaj put olakšanje razočaranje tužno ali s izrazom olakšanja zamalo znoj
+🧤	ruka rukavice
+🐰	kunić lice zeca ljubimac zec životinja
+🏨	hotel zgrada
+🍕	hrana kriška pizza salama sir
+📗	čitanje knjiga obrazovanje zelena zeleno
+🎇	iskra prskalica slavlje vatromet
+🪳	insekt kukac nametnik žohar
+⚡	munja napon opasnost smrt struja visoki
+⏬	dolje dvostruko brzo strelica tipka za kretanje prema
+🍻	alkohol bar krigla kucanje piće pivo zdravica kriglama piva
+🚺	toalet wc zahod ženski
+👚	haljina odjeća žene ženska
+🧳	kofer prtljaga putna torba putovanje
+♐	astrološki znak strijelca horoskop strijelac zodijak
+🚤	brodica čamac gliser ljeto putovanje vozilo
+📝	bilješka olovka pismo
+🪨	čvrsto gromada kamen stijena teško
+🍅	biljka hrana povrće rajčica voće
+📁	datoteka mapa
+🎁	božić dar iznenađenje kutija poklon rođendan slavlje umotani umotano
+🧑	neodređeni spol odrasla osoba rodno neutralno
+🚒	kamion požar prijevoz vatra vatrogasno vozilo
+👷	građevina građevinski radnik gradnja izgraditi kaciga muškarac osoba rad šljem
+🔤	abc abeceda latinica slova unos latiničnih
+🚞	planina planinska željeznica vagon vozilo
+🌐	globus s meridijanima meridijani svijet zemlja
+😸	cerenje lice mačka nasmijana s nasmiješenim očima nasmijano mačke oči smiješak životinja
+🫡	da lice koje salutira poštovanje pozdrav salutiranje sretno sunčano u redu vojska
+🟰	jednako matematika podebljani znak jednakosti rezultat
+🚬	cigareta pušenje
+🆒	cool gumb tipka
+🍺	bar krigla za pivo piće
+🪏	kopati lopata motika rupa saditi snijeg vrt
+🐂	bik govedo horoskop vol životinja zodijak
+🤙	nazovi me poziv ruka
+♓	astrološki znak riba horoskop ribe zodijak
+👵	baka dama loša fizura mudrost osoba plave boje kose starica starost žena
+🐧	antarktika pingvin ptica životinja
+❎	kvadrat množenje tipka s oznakom križića x znak
+🟫	kvadrat smeđi
+🥩	crveno meso janjetina odrezak svinjetina
+🦾	mehanička ruka pomagalo proteza
+🎣	riba ribički štap sport
+😌	lice mir olakšanje smajlić smireno zen
+🫷	čekaj daj pet guranje odbij ruka koja gura ulijevo stani stop
+🐝	insekt kukac pčela proljeće životinja
+🌻	biljka cvijet sunce suncokret
+✨	čarolija iskra iskre zvijezda
+🚽	kupaonica toalet wc školjka
+🥑	avokado hrana voće
+👛	kupnja novčanik odjeća sitan novac
+🌮	hrana meksička taco
+📋	bilješke držač spisa popis zadataka
+🦊	lice lisica životinja
+⚫	crni krug geometrija
+♒	astrološki znak vodenjaka horoskop vodenjak zodijak
+🐈‍⬛	crna mačka crno mačak mijau nesreća noć vještica životinja
+🩵	emocija nebesko plavo posebno slatko srce svjetloplavo tirkizno
+📤	ladica izlazne pošte odlazne odlazna pošta pismo slanje
+🐐	horoskop jarac koza životinja zodijak
+🧂	okus slano sol soljenka uzrujan začin
+🎯	cilj igra meta pogodak u sredinu sredina strelica
+🐻	grizli lice medvjed životinja
+🔨	alat čekić popravci
+🚣	čamac osoba vesla plovilo sport veslanje vozilo
+👕	majica kratkih rukava s ovratnikom odjeća
+🐼	bambus lice panda životinja
+👃	miris nos tijelo
+📭	otvoreni poštanski sandučić sa spuštenom zastavicom otvoreno pošta spušteno
+🚁	helikopter putovanje vozilo
+🛻	automobil kamionet pick-up prijevoz teretno vozilo
+🕤	9 9:30 devet i trideset sat
+🫅	kraljevski kruna monarh osoba s krunom plemenito plemić plemstvo
+🧑‍🦽	invalidska kolica osoba u invalidskim kolicima na ručni pogon pomagalo
+🌱	biljka mlada mlado sadnica
+😪	laku noć lice plakanje pospano smajlić spavanje tužno umorno
+🧒	dijete mlada osoba mlado rodno neutralno
+🦤	dodo izumrlo mauricijus ptica veliko životinja
+👢	cipela čizma obuća žene ženska
+📬	otvoreni poštanski sandučić s podignutom zastavicom otvoreno pošta
+🚼	beba mijenjanje prematanje presvlačenje simbol bebe
+🚑	ambulantno vozilo hitna pomoć prijevoz
+😞	grozno gubitak krivnja lice nesretan razočaranje tuga užasno
+🍸	bar čaša za koktel klub martini piće
+🥵	crveno lice dahtanje isplažen jezik pregrijano toplinski udar umiranje vruće vrućica znoj
+🫔	hrana meksička meksičko tamal umotano
+👹	bajka čudovište fantazija lice maska ogar strašno stvor vrag
+😬	cerekanje čudno grimasa lice s grimasom sa zubima ništa smajlić smiješak zubar
+🤶	baka mraz božić majka osoba slavlje
+🎓	diploma kapa kićanka matura maturalna odjeća slavlje
+👩‍🎓	diplomantica studentica žena
+🛖	dom koliba kuća od slame slamnata
+🎬	film klapa
+🤘	prst rogovi rokaj ruka šaka znak rogova
+🕣	8 8:30 osam i trideset sat
+🤫	lice koje ušutkava smajlić tišina ušutkavanje
+🔭	alat kontakt teleskop vanzemaljski znanost
+🌸	biljka cvijet cvjetanje proljeće trešnja trešnjin
+🥻	haljina odjeća sari
+🎷	glazba instrument saks saksofon
+😺	lice mačka nasmijana otvorena usta smiješak životinja
+😫	drijemanje kihanje lice osjećaj tužno umor
+😀	cerek lice lijepo nasmijano smajlić smiješak sretno usta veselo zubi
+💭	crtić ideja izum izumiti misao misli oblačić za oblak odluke razmišljanje san sanjarenje shvatiti snovi strip zapitati se
+🦼	invalidska kolica na motorni pogon pomagalo
+👩‍💼	arhitektica arhitektkinja menadžerica poslovna žena službenica ured
+♿	invalid invalidska kolica pristup simbol
+🥄	hranjenje pribor za jelo žlica
+🧽	čišćenje porozno pranje spužva upijanje
+💵	banka dolar novac novčanica sa znakom dolara valuta
+🐹	hrčak lice ljubimac životinja
+💾	disk disketa računalo
+🌔	mjesec prve četvrti rastuće rastući izbočeni svemir vrijeme
+🥫	hrana konzerva limenka
+💴	banka jen novac novčanica sa znakom jena valuta
+🦧	majmun orangutan životinja
+🍶	bar boca napitak piće sake šalica
+⚪	bijeli krug geometrija
+🆙	gore tipka up znak
+😎	cool izvrsno kuliranje naočale nasmiješeno lice sa sunčanim naočalama opuštenost plaža smiješak stil sunčane
+📐	matematika ravnalo trokut
+🫧	biser čisto lebdenje mjehurić mjehurići pod vodom sapun
+💕	dva srca godišnjica ljubav poljupci puse spoj srce
+😗	flert izlasci lice koje ljubi ljubav poljubac pusa smajlić spoj volim te
+🫤	frustracija frustrirano lice s nakošenim ustima meh nesigurno razočarano skeptično svejedno zbunjeno zbunjenost
+💬	dijalog govor govorni oblačić mjehurić poruka razgovor sms strip tekst tipkanje
+🛘	kamenje katastrofa klizište lavina opasnost planina potres
+🚚	dostava dostavni kamion vozilo
+🔚	kraj strelica s natpisom end
+💺	sjedalo stolica
+🎉	ispaljivač konfeta konfeti rođendan slavlje uzbuđenje zabava
+🤲	molitva spojeni dlanovi
+😔	bezvoljnost dosadno gubitak lice mrtav razočaranje smajlić tuga užasno zamišljenost
+👋	bok hej ima li koga mahanje pozdrav ruka koja maše šaka tijelo zdravo
+🎊	konfeti kugla s konfetima slavlje zabava
+💼	aktovka ured
+🥬	blitva kelj kupus lisnato povrće salata zelena zeleno
+🈸	gumb japanski tipka s ideogramom zahtjev
+🚱	ne nije pitko voda za piće zabranjeno
+🐄	krava mlijeko životinja
+⬜	bijeli kvadrat geometrija veliki
+😝	gadno jezik lice s isplaženim jezikom i čvrsto zatvorenim očima oči odvratno oko okus užasno
+😓	glavobolja hladno lice nervoza osjećaj strah to je bilo blizu tuga tužno s kapljicom znoja znoj
+🩼	invaliditet ozljeda pomagalo za kretanje pomoć štaka štap
+🙀	briga izbezumljena mačka iznenađenje lice životinja
+🧯	gašenje vatre požar protupožarni aparat vatrogasni
+🦖	dinosaur t-rex tiranosaur životinja
+🧑‍🧒	dijete obitelj odrasla osoba
+🐒	banana majmun životinja
+🥴	intoksikacija iskrivljena usta nejednake oči ošamućeno lice pripitost vrtoglavica
+🧅	luk povrće
+🍙	hrana japan kuglica od riže riža
+👨‍🚒	muškarac vatrogasac vatrogasno vozilo
+🪈	blok flauta flautist frula glazba glazbalo puhački instrument
+🏏	igra kriket kugla palica sport
+👴	ćelav djed mudrost muškarac odrasla osoba starac starost
+🦝	lukavost rakun znatiželja
+🎲	igra igraća kocka
+🚡	gondola tramvaj vozilo žičara zračni
+😑	bezizražajno čudno loše mrtvo neutralno nije impresivno smiješno zabavno prazno ravno lice
+🥶	hladni zubi hladno ledeno lice ozebline plavo poplaviti smrznuto zamrznuto
+🚿	tuš voda
+🖕	prst ruka šaka srednji tijelo
+🫆	detektiv forenzika identitet misterij otisak prsta sigurnost trag zločin
+🧑‍🍳	kuhar šef kuhinje
+🫠	haha lice koje se topi nestajanje posramljeno razgrađivanje sarkastično sarkazam tekućina toplina topljenje toplo
+🐑	farma janje ovca vuna životinja
+🕐	00 1 1:00 jedan sat
+🔑	ključ lokot lozinka zaporka
+🚕	taksi vozilo vožnja žuti
+🎹	glazba instrument klavijatura klavir
+🦮	pas vodič pomagalo sljepoća
+📃	dokument savinuta stranica savinuto
+👨‍🔧	električar majstor mehaničar muškarac vodoinstalater
+😄	lice nasmijano s nasmiješenim očima oči oko otvoreno smajlić smiješak sretno usta
+🥲	bol dirnutost lice nasmiješeno sa suzom olakšanje ponos smiješak sreća suza zahvalnost
+🫥	depresivno introvert lice obrubljeno točkastom crtom meh nestajanje nestati nevidljivo sakrivanje sakriveno svejedno
+🥤	čaša sa slamkom piće sok voda
+🥃	čaša piće viski žestoko
+🗼	tokijski toranj tokio
+🙄	kolutanje očima lice s kolutajućim nije me briga oči smajlić svejedno
+🦥	lijen ljenjivac spor
+🧞	duh džin fantazija mistično mistika mit protrljajte lampu svjetiljka želje
+🤪	lude oči ludo lice malo nejednake oko šašavo veliko
+👩‍🍳	kuharica šefica kuhinje žena
+🫘	grah hrana mahunarka malo
+🥇	medalja prva prvi zlatna zlato
+🐘	slon životinja
+🔻	crveni trokut usmjeren prema dolje crveno geometrija
+🎡	kotač panorama panoramski zabavni park
+🕢	7 7:30 sat sedam i trideset
+💪	biceps dizač utega dizanje mišić mišići nabildano ruka snažno teretana tijelo
+🎒	obrazovanje škola školski ruksak torba
+😢	grozno lice nedostajati nesretan osjećaj plakanje plakati suze tuga
+👨‍🦯	muškarac s bijelim štapom pomagalo slijep slijepac
+🫪	iznenađenje otečen panika ranjivost šok tjeskoba
+🔕	isključen zvuk prekriženo zvono tišina zabranjeno
+📢	glasno obraćanje javnosti razglas zvuk
+🦟	bolest groznica insekt komarac malarija ugriz virus zaraza
+🎅	bajka božić djed božićnjak mraz mašta slavlje
+❕	bijeli uskličnik interpunkcija obris znak
+🤽	osoba osobe igraju vaterpolo plivanje polo sport voda vodeni
+🗾	japan karta japana
+🔆	svijetlo svjetlina svjetlo tipka za povećanje svjetline
+🤣	hahaha hehe plačem od smijeha smajlić smijeh smiješno umirem valjanje veselje
+🦅	orao ptica životinja
+🧶	klupko vune loptica pletivo vuna
+🍇	biljka grožđe voće
+🌯	burrito hrana meksička
+🌎	amerika globus s prikazom južna sjeverna svijet zemlja
+🀄	crveno igra mahjong crveni zmaj
+🦣	izumrla životinja izumrli kljove mamut veliki vuneni
+🥝	hrana kivi voće
+😻	lice ljubav mačka nasmiješena s očima u obliku srca nasmiješeno mačke oči smiješak srce životinja
+🎸	gitara glazba instrument
+⏫	dvostruko brzo gore strelica tipka za kretanje prema
+🏩	hotel ljubav ljubavni zgrada
+🥓	hrana meso slanina
+➗	÷ dijeliti dijeljenje matematika znak dijeljenja
+🐦‍🔥	besmrtno fantazija feniks oživjeti podići se ponovno rođenje preživjeti reinkarnacija slava vatrena ptica
+🔁	ponavljanje strelica tipka za u smjeru kazaljki na satu
+👪	dijete obitelj
+🤍	bijelo srce
+🪃	australija bumerang posljedica vraćanje
+🔧	alat francuski ključ
+🐶	lice psa ljubimac pas životinja
+🦌	jelen životinja
+🎋	drvo tanabata japan slavlje zastava
+🕌	džamija islam muslimani religija
+📔	bilježnica s ukrasnim omotom knjiga omot ukras
+🕗	00 8 8:00 osam sati sat
+🐲	bajka lice zmaja životinja zmaj
+👊	ruka šaka stisnuta stisnuto udarac
+🫙	ništa pohrana posuda prazno staklenka umak začin
+🚇	metro podzemna željeznica putovanje vozilo
+🧏	gluha osoba gluhoća pomagalo sluh uho
+🤐	lice s patentnim zatvaračem preko usta ustima zatvorenim patentni zatvarač smajlić tajna tiho
+👩	dama osoba plavuša žena žensko
+🍡	dango desert hrana japan ražnjić slatko štapić
+📧	e-pošta pismo pošta
+🛜	hotspot internet mreža pametni telefon povezivanje računalo ruter veza wi-fi wlan
+🐊	krokodil životinja zoo
+📌	igla pribadača
+🕕	00 6 6:00 sat šest sati
+⛲	fontana vodoskok
+🔫	alat oružje pištolj na vodu revolver ručni voda
+🍐	biljka hrana kruška voće
+⚓	alat brod sidro
+🪆	babuška lutka matrjoška rusija ruska
+📦	dostava kutija paket pošiljka
+🧧	crvena omotnica dar novac poklon sreća
+🪽	anđeoski avijacija krilo let letenje mitologija nebesko nebo ptica uvis visine
+🎪	cirkus cirkuski šator
+😏	flert frend lice koje se smijulji namigivanje obrve šaliti smajlić smijuljenje sumnjivo uglađeno
+🛄	preuzimanje prtljage prtljaga putovanje torbe zrakoplov
+♑	astrološki znak jarca horoskop jarac zodijak
+🧑‍💼	arhitekt menadžer poslovni čovjek službenik uredski djelatnik
+🐁	miš životinja
+🐌	puž vrt životinja
+👩‍🌾	farmerica poljoprivrednica seljakinja vrtlarica žena
+🕑	00 2 2:00 dva sata sat
+🎀	mašna slavlje
+📪	pošta sandučić spušteno zatvoreni poštanski sa spuštenom zastavicom zatvoreno
+🎮	igra kontroler playstation videoigrica xbox
+🔴	crveni krug crveno geometrija
+🦞	crveni jastog kliješta morski plodovi oklop
+🛐	bogoslužje mjesto za molitva religija
+🛹	kotači skateboard skejt skejter
+👩‍🏭	industrija radnica traka tvornica tvornička žena
+🙅	isključeno kretnja ne nema šanse osoba pokazuje ruka zabraniti zabranjeno žena
+🏧	banka bankomat gotovina znak za
+🧢	kapa sa šiltom šilterica
+🫎	jelen los rogovi sisavac životinja
+💁	informacije osoba s nagnutim dlanom ozbiljno pomoć ruka sarkastično sarkazam trač zabacivanje kose
+🈶	japanski naplaćuje se nije besplatno tipka s ideogramom
+🌺	biljka cvijet hibiskus
+🤬	cenzura lice sa simbolima na ustima lud psovanje ružne riječi uzrujan
+🤢	lice kojem je pozlilo muka odvratno povraćanje
+💃	elegantno flamenco osoba plesačica plesanje salsa tango žena pleše
+🦋	insekt leptir ljepota
+🐥	beba pile sprijeda životinja
+🚫	dim ne nema ulaz zabranjeno
+💞	godišnjica okretanje srca koja se vrte u krug srce
+🥖	baget francuska francuski kruh hrana
+🉑	ideogram japanski prihvatljivo tipka s ideogramom
+🚓	automobil patrola policija policijski vozilo
+🧑‍🔬	biokemičar biolog fizičar inženjer kemičar znanstvenik
+🔒	lokot privatno zaključano zatvoreno
+🐦‍⬛	crna ptica crno gavran kljun vrana životinja
+😐	bezizražajno čudno loše mrtvo neutralno nije impresivno smiješno zabavno prazno ravno lice
+🪘	bubanj instrument konga ritam udarac visoki
+🎩	cilindar odjeća šešir
+👩‍🎤	glumica pjevačica zabavljačica žena zvijezda
+🦄	jednorog lice
+🐠	riba tropi tropska ribica životinja
+🥥	hrana kokos palma pina colada voće
+🧣	hladnoća odjeća šal vrat
+🎿	skijanje skije snijeg sport
+🌆	grad krajolik panorama grada u sumrak večer zalazak zgrada
+🧐	bogataš lice s monoklom otmjeno smajlić uštogljeno
+😭	jecanje lice koje glasno plače nesretan plakanje ridanje suze tuga tužan
+😰	anksiozno lice s kapljicom znoja hladno otvorenim ustima i hladnim znojem nervozno plavo preplašeno užurbano znoj
+💣	bomba eksplozija karikatura opasno uskoro
+🐪	deva dromedar grba jednogrba životinja
+👨‍🎓	diplomant muškarac student
+👇	dolje kažiprst koji pokazuje prema pokazivanje prst šaka
+🥉	bronca brončana medalja treća treći
+🚅	brzi vlak s lokomotivom u obliku metka shinkansen brzina japan japanski metak putovanje željeznica
+🥳	hura lice koje se zabavlja proslava rođendan rođendanski šešir slavlje sretan tulum uzbuđenje zabava
+👳	osoba s turbanom turban
+🎧	slušalica slušalice zvuk
+📨	dolazno e-pošta omotnica dolazne pošte pismo primanje
+⭐	astronomija bijelo zvijezda zvijezde
+🫃	muškarac naduto prejedanje puno sit trbuh trudnoća
+🌌	kumova slama mliječna staza mliječni put svemir
+🧖	hamam luksuz opuštanje osoba u sauni para parna kupelj sauna spa dan toplice
+🚠	gondola planina vozilo žičara
+🪙	blago bogatstvo dolar euro kovanica metal novac srebro zlato
+🌵	biljka kaktus pustinja
+😲	lice nema šanse nevjerojatno šok zapanjenost
+🙃	gore-dolje lice naopačke okrenuto smajlić
+🚶	hodanje koračati korak muškarac hoda osoba pješak šetanje šetnja
+👤	poprsje u silueti silueta sjena
+🛶	brodica čamac kanu
+🌓	mjesec prve četvrti prva četvrt svemir vrijeme
+🌒	mjesec polumjesec prve četvrti prva četvrt rastući svemir vrijeme
+👽	izvanzemaljac lice mašta nlo stvor
+🕡	6 6:30 sat šest i trideset
+🐡	riba napuhača životinja
+🛃	carina pakiranje
+🥛	čaša mlijeka mlijeko piće
+🛟	bova plivanje plutanje pojas za spašavanje sigurnost spasitelj
+🫚	biljka đumbir korijen pivo prirodno začin zdravlje
+🍋	biljka limun voće
+🪶	lagano letjeti perje pero ptica
+🫹	hvat lijevo neutralno ono ovo pokazati
+👲	kapa kina okrugla osoba s kineskom kapom
+🤰	trudnica žena
+🧹	čišćenje metenje metla vještica
+💑	godišnjica ljubav osoba par sa srcem romantika srce
+⛅	oblačno oblak sunce iza oblaka vrijeme
+🩶	emocija ljubav osjećaj posebno sivo srce srebrno
+🧨	dinamit eksploziv petarda vatromet
+🏊	osoba pliva plivač plivanje slobodni stil sport
+🕟	4 4:30 četiri i trideset sat
+🩰	balet baletne papučice ples
+📀	blu-ray cd disk dvd optički računalo
+🏃	brzina brzo dolazim maraton muškarac trči osoba sport trčanje trkač utrka
+🧜	morska sirena muška oceanska stvorenja osoba trozubac
+🔽	dolje strelica tipka prema
+💻	osobno računalo pc prijenosno ured
+🧋	boba čaj kuglica mjehurić mjehuričasti mjehurići mlijeko napitak piće
+🫏	magarac mago sisavac tovar tvrdoglav životinja
+🪟	okvir otvaranje pogled prozirno prozor svjež zrak
+🐢	kornjača životinja
+😤	bijes lice kojem ide para na nos ljut ljutnja ljuto nesretan pobjeda trijumf
+👨‍🚀	astronaut muškarac raketa svemir
+👩‍💻	izumiteljica koderica programerka softver tehnološka inženjerka žena
+🦠	ameba bakterija mikrob virus znanost
+🥺	milost molećivo lice molim lijepo vas moliti pseći pogled tužno velike oči zašto ne
+🤮	bolest lice koje povraća mučnina povraćanje
+❗	crveni uskličnik interpunkcija oznaka znak
+🪼	beskralješnjak jao meduza more morska ocean opekotina plankton žarnjak životinja
+🎺	glazba instrument truba
+🟥	crveni kvadrat
+😶	bez riječi bezizražajno čudno lice usta ne mogu prazno tajna tiho tišina
+🧬	biologija dnk evolucija genetika geni život
+😵‍💫	hipnotizirano iznenađenje lice sa spiralnim očima nevolja spiralno vrtoglavica zbunjeno
+📸	bljeskalica fotoaparat s bljeskalicom kamera video
+👩‍🔧	električarka majstorica mehaničarka vodoinstalaterka žena
+💧	hladno kap kapljica karikatura priroda tuga voda vrijeme znoj
+🪂	padobran paraglajd paraglajder parajedrilica
+🎃	bundeva izrezbarena noć vještica slavlje
+🫟	holi mrlja proliti prskati slikati
+💖	dobro jutro emocija iskre laku noć osjećaji poljupci puse srce svjetlucavo uzbuđenost
+💜	ljubičasto srce
+🚀	putovanje raketa svemir vozilo
+🎑	mjesec mjesečeva svečanost slavlje
+🍦	desert hrana led meki sladoled meko slatko vrhnje
+🥀	cvijet uveo
+😣	glavobolja koncentracija koncentrirati se lice odlučno usredotočenost ustrajanje
+📰	novine papir vijesti
+🥊	boks boksačka rukavica sport
+🧑‍🏫	instruktor profesor učitelj
+🔺	crveni trokut usmjeren prema gore crveno geometrija
+📺	televizor tv video
+🦬	bizon europski govedo stado životinja
+👸	bajka kraljica kruna mašta osoba princeza
+😋	fino glad jesti lice koje uživa u hrani njam puno smajlić smiješak ukusno
+👗	haljina kupnja odjeća
+🦎	gušter reptil životinja
+🫳	ispustiti pokupiti potjerati pustiti ruka s dlanom okrenutim prema dolje uzeti zanemariti
+🥎	lopta za softball rukavica
+💉	bolest cjepivo igla injekcija medicina šprica
+🪧	demonstracije ploča prosvjed protest transparent znak
+🌃	noć vrijeme zvijezde zvjezdana
+📕	knjiga obrazovanje zatvorena zatvoreno
+😇	anđeli anđeo aureola bajka blagoslovljeno duh fantazija nasmiješeno lice s aureolom nevinost smajlić
+🍃	list koji treperi na vjetru puhanje treperenje vjetar
+🫒	hrana maslina
+🔜	strelica s natpisom soon uskoro
+🧑‍🍼	beba dadilja dojenje hranjenje mama osoba hrani bebu tata
+🚍	autobus u dolasku automobili dolazak prijevoz vozilo
+🧄	češnjak povrće
+👯	najbolje prijateljice osoba osobe sa zečjim ušima ples uho uživanje zabava zečica zečice
+🪤	klopka mamac mišolovka sir uhvatiti zamka
+🥸	brkovi inkognito lice maska naočale nos obrve prerušeno špijun špijuniranje
+🥅	gol mreža sport
+🍪	desert hrana keks slatko
+🔎	alat povećalo nagnuto udesno staklo traženje
+🩴	japanka japanke obuća za plažu plaža sandale zōri
+💢	bijes karikatura ljuto simbol ljutnje
+🥙	falafel giros hrana kebab lepinja
+🐈	ljubimac maca mačka životinja životinje
+📥	dolazna pošta ladica dolazne pošte pismo primanje
+🚮	koš za otpatke smeće otpad znak
+🟨	kvadrat žuti
+🥼	doktor eksperiment kuta laboratorijska liječnik odjeća znanstvenik
+🧱	cigla cigle glina žbuka zid
+🧈	maslac mliječni proizvod
+💓	kucanje otkucaj puls srce koje kuca
+🎏	cjevasti zmaj u obliku ribe riba slavlje
+♈	astrologija astrološki znak ovna horoskop ovan zodijak
+🛌	hotel laku noć osoba u krevetu počinak spavanje umor vrijeme za zz zzz
+🦇	šišmiš vampir životinja
+🚐	autobus kamionet kombi minibus prijevoz vozilo
+🐬	delfin dupin flipper ocean plaža životinja
+🐅	mačka tigar životinja
+🌉	most noću noć zvijezde
+🤌	gesta rukom ispitivanje opusti se pričekaj prsti sarkastično skupljeni umukni
+🛀	kada kupanje osoba koja se kupa u kadi
+👶	beba djetešce dojenče
+🍁	biljka javor javorov list padanje
+🚜	traktor vozilo
+💠	dijamant geometrija romb s točkom unutra
+😚	flert izlasci lice koje ljubi zatvorenih očiju oči oko poljubac poljupci pusa puse rumeno smajlić spoj zatvoreno
+👮	pandur policajac policija privesti privođenje uhićenje zakon
+🍥	hrana kolač riba riblji s motivom spirale spirala tijesto
+🧌	bajka čudovište fantastika trol trolanje zeleno
+👠	cipela s visokom potpeticom obuća potpetica žene
+🧑‍🎄	božić djed božićnjak mraz osoba šešir sretan
+👩‍🏫	nastavnica profesorica učiteljica žena
+🌴	biljka drvo palma plaža
+🏭	tvornica zgrada
+🔷	geometrija plavo romb veliki plavi
+💡	ideja struja svjetlo žarulja
+🪾	ogoljeno stablo bez lišća suša zima
+🔙	natrag strelica s natpisom back
+🫲	lijevo ruka okrenuta ulijevo stisak ruke
+💒	crkva kapelica romantika vjenčanje
+🆔	gumb id identitet tipka
+🧑‍🩰	balet plesačica
+🥪	kruh sendvič
+⌛	pijesak pješčani sat vrijeme
+🔀	prekriženo strelica tipka za nasumičnu reprodukciju pjesama
+😦	iznenađenje iznenađeno lice mrgođenje namrgođeno s otvorenim ustima preplašeno što strašno usta vau
+🍄‍🟫	gljive hrana pizza povrće priroda smeđa gljiva tartuf vegetarijanski
+🦫	brana dabar životinja zubi
+🥚	doručak hrana jaja jaje
+🛑	osmerokut stop znak
+🎫	ulaz ulaznica
+👺	bajka čudovište fantazija goblin lice ljut maska stvor zlo
+🤷	možda ne znam nesigurnost nezainteresiranost neznanje osoba slijeganje ramenima sumnja valjda
+🦏	nosorog životinja
+🍿	hrana kino kokice
+☕	čaj jutro kava kofein napitak šalica vruće vrući
+📴	isključen mobilni telefon isključeno mobitel
+👘	kimono odjeća udobna
+🚈	dolazak laka željeznica vozilo
+🧷	pelena pribadača punk rock sigurnica ziherica
+🍔	brza hrana burger hamburger
+🔸	dijamant geometrija mali narančasti romb narančasto
+🎎	festival japanske lutke japanski lutka slavlje
+🧘	joga meditacija mir opuštanje osoba u položaju lotosa prekrižene noge yoga zen
+🥾	čizma gojzerica kampiranje obuća za planinarenje smeđe cipele
+🦙	alpaka gvanako ljama vuna životinja
+🆚	protiv tipka vs versus
+🧦	čarape najlonke
+🛕	hinduski hram
+💝	emocija godišnjica poljupci puse srce s trakom traka valentinovo
+🔂	jedanput smjer kazaljki na satu strelica tipka za ponavljanje jedne pjesme u smjeru
+🌷	biljka cvijet cvjetanje tulipan
+🧑‍🧑‍🧒	dijete obitelj odrasla osoba
+🥰	lice ljubav nasmijano s 3 srca sa srcima obožavanje romansa romantika volim te zaljubiti se zaljubljenost
+💍	brak dijamant prsten romantika vjenčanje zaruke
+🕖	00 7 7:00 sat sedam sati
+🚷	ne pješak promet zabranjeno za pješake
+🐾	otisak šape stopala tragovi šapa
+👨‍🎨	muškarac paleta slikar umjetnik
+🍤	hrana kozica prženi račić prženo tempura
+🦢	labud ptica ružno pače životinja
+🔏	lokot pero privatnost tinta zatvoreni s nalivperom
+⛄	hladno snijeg snjegović bez snijega vrijeme
+💀	bajka čudovište lice lubanja smrt
+🏴	crna zastava vijorenje
+👍	+1 da dobro fora gore lijepo ludilo može odlično palac pozitivno ruka sviđa mi se
+🧑‍💻	izumitelj koder programer softver tehnološki djelatnik inženjer
+🪊	glazba instrument jazz klizanje limeni tužno
+🌭	hot dog hotdog hrana hrenovka kobasica
+♎	astrološki znak vage horoskop vaga zodijak
+🪇	cha glazba glazbalo instrument marakasi tresti udaraljke zvečka
+💂	buckinghamska palača čuvar kaciga london osoba stražar
+🛸	leteći tanjur nlo svemirski brod vanzemaljci
+➰	petlja vitica vitičasta
+🎴	cvijeće igra igraće karte s cvijećem japan kartanje
+🦪	biser izroniti kamenica školjka
+🪯	khanda religija sikh sikhi sikizam vjera
+🛅	odlaganje prtljage ormarići prtljaga
+🉐	japanski povoljno tipka s ideogramom
+🧑‍🏭	industrija radnik u tvornici traka tvornica
+🔰	čin japanski simbol za početnika list početnik strelica prema dolje žuto
+🫍	kit morski ocean
+♊	astrološki znak blizanaca blizanci horoskop zodijak
+🍒	biljka crveno hrana trešnja trešnje voće
+🦘	australija klokan skakanje tobolac životinja
+🦯	bijeli štap pomagalo sljepoća za slijepe
+🧼	čistoća kupanje pjena pranje sapun sapunica
+🧿	nazar perlica plavo oko talisman tursko zlo
+🎱	8 biljarske kugle crna osmica igra kugla osam
+🍭	bombon desert hrana lizalica slatko
+🥈	druga drugi medalja srebrna srebro
+🔬	alat eksperiment laboratorij mikroskop znanost
+🤞	držati fige palac prekriženi prsti sreća
+🍛	curry hrana riža
+👌	dva prsta može odlično ruka šaka shvaćam u redu znak rukom
+👆	gore kažiprst koji pokazuje prema pokazivanje prst šaka
+👉	kažiprst koji pokazuje udesno pokazivanje prst ruka šaka
+🎍	bambus biljka bor japanski slavlje ukras od češera
+🧔	brada bradonja muškarac s bradom osoba
+🦶	korak stopalo udarac zglob
+🈺	ideogram japanski otvoreno tipka s ideogramom
+🧮	abakus kalkulator računanje
+🏁	cilj pobjeda šahovnica sport utrka zastava s crno-bijelom šahovnicom
+🙈	majmun koji ne vidi ništa loše mogu gledati neugodno tajna vidjeti zaboravio životinja zlo
+🍠	batat biljka krumpir pečeni pečeno slatki
+🕋	islam kaba muslimani religija umrah
+🫓	bublica hrana kruh lepinja naan pecivo pita
+😠	bijes frustriranost izluđujuće krivnja ljut ljutnja lud nesretan osjećaj uzrujan
+🫶	<3 ljubav ruke koje tvore srce u obliku srca
+🤖	čudovište lice robot robotsko
+◾	geometrija kvadrat srednje mali crni
+🤤	lice slinjenje
+🏹	alat horoskop luk i strijela oružje strijelac zodijak
+💔	emocija slomljeno slomljenog srca srce tužno usamljenost zdrobljeno
+🍍	ananas biljka hrana voće
+🤱	beba dojenje grudi
+👨‍🍼	beba bočica dadilja dojenje hranjenje ljubav muškarac novorođenče otac tata
+👫	držanje za ruke muškarac par žena

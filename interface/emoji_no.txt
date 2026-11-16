@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « no » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	new new-knapp new-symbol ny nyhet
+🧑‍🤝‍🧑	hånd holde hender par personer som leier
+◽	firkant geometrisk hvit hvitt kvadrat lite/mellomstort liten/mellomstor
+⛽	bensin bensinpumpe bensinstasjon diesel stasjon
+🔓	åpen hengelås lås ulåst
+👄	fjes kropp lepper munn
+🍴	bestikk frokost gaffel kniv lunsj mat matlaging middag nam restaurant spise sulten
+🏒	hockey is ishockey kamp kølle puck
+💦	dråper sprut sprutende svette svettedråper tegneserie
+🎐	bjelle drømmefanger feiring vind vindspill
+😼	fjes ironisk katt med smil
+😉	blunke blunker erte fjes flørte glimt hjerteknuser sexy
+📛	navn navneskilt skilt
+🚉	jernbane stasjon tog togstasjon
+💌	brev med hjerte kjærlighesbrev romantikk
+🆘	hjelp hjelp-symbol sos sos-knapp sos-symbol
+🛙	fyr håp lys maritim navigasjon opplysning signal sjø sjøfart veiledning
+🍯	honning honningkrukke krukke
+😿	fjes gråt gråtende katt tåre trist
+🫜	bete grønnsak hage kålrot nepe rotgrønnsak turnips
+😳	fjes rød rødmer
+🚨	bil kjøretøy lys politi politilys roterende signal
+🚌	buss fremkomstmiddel
+🌇	bygning skumring sol solnedgang over byhorisont
+🔝	opp pil top top-pil topp med
+🙊	ape fjes forbudt holder munn ikke sier ingenting ondt
+🐙	blekksprut bløtdyr dyr
+🕦	11:30 23:30 halv tolv klokka klokken
+🕞	15:30 3:30 halv fire klokka klokken
+🙌	begge hender feirer feiring hånd hevede rekker armene i været
+🚗	bil kjøretøy
+🕥	10:30 22:30 halv elleve klokka klokken
+🥱	gjesp gjespende fjes kjedelig sliten sove søvn søvnig trøtt
+🐎	dyr galopp hest trav
+👩‍🚒	brannbil brannkonstabel brannmann brannvesenet kvinne kvinnelig
+🪉	amor harpe instrument kjærlighet musikk orkester
+🫁	åndedrett innpust lunger organ pust puste respirasjon utpust
+📲	anrop mobiltelefon med pil ring telefon
+💚	følelser grønn grønt hjerte
+📶	antenne mobil mobilsignaler signal signalstyrke telefon
+🫦	bekymret bite engstelig flørte kyss lepper leppestift munn nervøs redd sexy utilpass
+🌅	morgen morgensol sol soloppgang
+🌂	lukket paraply regn regnvær
+🍲	gryte gryterett middag middagsmat panne
+🪜	klatre steg stige trinn
+✅	✓ avkryssing avmerking hake hakemerke utført
+📑	bokmerke bokmerkefane faner markør merker
+👣	avtrykk fot fotavtrykk fotspor kropp spor
+👀	fjes øye øyne
+🤸	aktiv flikkflakk glad gym gymnastikk hjul person slå sport turn
+⭕	o rød sirkel stor tykk
+😆	åpen munn artig fjes flir fornøyd glad gøy haha latter le ler lol lykkelig morsomt smil med sammenknepne øyne smiler
+🔄	mot klokken piler
+🟢	geometrisk grønn sirkel
+🧗	bestige bestigning fjell klatre klatring person sikring sport
+🌟	glitrende lysende stjerne skinnende verdensrommet
+🤧	feber fjes forkjølelse influensa nys nyse prosit syk
+🔛	on on!-pil på pil utrop utropstegn
+🪫	batteri batterinivå elektronikk ladenivå lavt lite energi strøm utladet
+⏰	alarm klokke vekkerklokke
+🥕	grønnsak gulrot mat rot
+➿	dobbel løkke løkke-tegn
+🥂	drink feiring glass som skåler skål
+🪲	bille bug dyr insekt
+🩹	behandling plaster sår
+🟧	kvadrat oransje
+📍	kontorrekvisita markørnål rund stift
+😽	fjes katt kyss kyssende lukkede øyne
+🐤	baby dyr fugl kylling
+🤵	bryllup formelt person smoking
+🛼	gøy hjul rulle skøyter sport
+🧩	bit brikke del pekepinn puslespill puslespillbrikke
+🛝	fornøyelsespark leke lekeplass rutsjebane skli sklie
+🔇	dempet høyttaler med strek over ingen prating stille
+🏥	lege medisin sykehus
+🚔	bil kjøretøy motgående politibil
+💶	euro euroseddel penger seddel
+🥭	frukt mango tropisk
+🫂	farvel ha det hadet hei kjærlighet klem omfavnelse takk trøst venner vennskap
+🔳	firkant hvit firkantet knapp
+💹	graf marked oppover penger stigende diagram med yen trend
+🧺	jordbruk klesvask kurv piknik
+😖	fjes fortvilet sint skuffet
+🔐	lås med nøkkel låst sikker
+🈯	ideograf japansk knapp reservert
+🏦	bank bygning
+🍧	dessert is restaurant shave-ice slush-is
+🧍	person som står stå
+🟠	geometrisk oransje sirkel
+⛔	adgang forbudt enveiskjøring ingen skilt stopp
+✊	hånd hevet knyttneve knyttet neve
+🌜	kvartmåne med ansikt måneansikt nemåne
+😹	fjes glede gledestårer katt med kattefjes tårer
+🧾	arkiv bilag dokumentasjon kvittering regnskap
+🪩	dans disco diskokule diskotek fest glitter kule speil speilkule
+🏇	galopp hest hesteveddeløp jockey løp sport veddeløpshest
+👦	gutt menneske ung
+🏸	badminton birdie fjærball kamp racket
+🥜	grønnsak mat nøtt peanøtt peanøtter
+📱	mobil mobiltelefon telefon
+🕎	lysestake menora religion
+🚙	bil kjøretøy suv
+🖤	hjerte ond svart
+🪬	amulett beskytte beskyttelse fatima guide hamsa hånd håndflate maria miriam rikdom
+🚴	sport sykkel sykkelløp sykle syklist
+🍷	drikke glass rødvin vin vinglass
+💊	lege medisin pille tablett
+🍀	4 firkløver flaks hell kløver plante
+🪌	angre feil fjerne gni rettelse skrift skrivefeil slette tegning viske
+😷	bakterier doktor forkjølet lege medisin munnbind syk sykdom sykehus tannlege virus
+📆	kalender riv-av-kalender veggkalender
+🙉	ape fjes forbudt hører ikke ingenting ondt
+💱	bank penger valuta valutaveksling veksling
+🩻	bein doktor lege ribbein ribben røntgen skjelett
+🏠	bygning hjem hus
+📙	bibliotek bok fantasi lesing oransje utdannelse utdanning
+🥔	grønnsak mat potet
+💮	blomst blomsterstempel hvit stempel
+🥌	curlingstein sport stein
+💩	bæsj bæsjeklatt hundebæsj kuruke
+🍳	egg matlaging steke stekepanne
+🦈	dyr fisk hai
+🌼	blomst plante
+😜	blunk blunker og rekker tunge erte fjes rekke med spøk
+🪁	drage fly papirdrage sveve
+⛎	bærer slange slangebæreren stjernetegn
+🍾	bar drikke flaske med sprettkork kork sprette
+🧇	belgisk vaffel jern
+🛞	bil bildekk dekk dreie felg hjul kjøretøy rulle sirkel
+📜	papir papirrull papyrus pergament pergamentrull rull
+🧎	knele kneler person som
+🌕	full fullmåne hel måne
+💽	datadisk disk lagring md minidisk optisk
+💙	blå blått hjerte følelser
+📏	linjal rett
+🥡	bestille boks eske hentemat kinesisk mat spisepinner takeaway
+🕔	17:00 5 5:00 fem klokka klokken sytten
+🤩	fjes gliser smil stjerner i øynene
+🟦	blå blått kvadrat
+🐍	dyr orm slange slangebæreren stjernebilde stjernetegn
+🐉	drage dyr eventyr
+🪎	edelstener gull juveler penger premie rikdom skatt skattkiste sølv velstand verdisaker
+💯	100 full pott hundre poeng
+🌝	ansikt fullmåne med fullmåneansikt måne
+♏	skorpion skorpionen stjernetegn
+🪞	badespeil refleksjon sminke speil speilbilde stell
+💅	kosmetikk manikyr negl neglelakk
+🫫	anspent avsløre forvandling knuse maskere robust smuldre
+🈁	her japansk katakana knapp
+🍵	drikke suppe te tekopp
+⏳	sand startet timeglass tidtaker
+🌙	måne månesigd
+🤭	flire hand over munnen hånd handa hånden oi oops ops ups
+🥗	grønn mat salat
+🈹	ideograf japansk knapp rabatt
+🔔	bjelle klokke ringing
+🦹	kriminell ond person skurk superkrefter superskurk
+🙎	furter furting grimase mimikk opprørt person skuffet surmuling
+🫴	fortell hånd håndflate holde invitere kalle kom løfte på tilbud tilby vinke
+👨‍🦽	mann manuell rullestol tilgjengelighet
+🙇	angrer beklager bukke meditasjon meditere person sorry synd tilgi unnskyld
+🔈	høyttaler med lavt volum lav lyd ropert
+🍋‍🟩	cocktail frukt garnityr lime margarita mojito salsa sitrus syrlig tequila tropisk zest
+🪖	forsvaret hær hjelm krig kriger militær soldat
+🪰	dyr ekkel ekkelt flue forråtnelse insekt larver råtne sykdom
+👧	jente jomfruen menneske stjernebilde stjernetegn ung
+🍂	blad fallende høstblad løv
+🍝	pasta restaurant spagetti
+🧑‍🦼	person i motorisert rullestol tilgjengelighet
+🏂	snøbrett snøbrettkjøring snowboard snowboarder snowboarding vintersport
+🏬	butikk kjøpesenter varehus
+🤾	ball håndball idrett kaste person skudd sport
+🌳	blader løvtre tre
+🏐	ball kamp spill volleyball
+🧴	fuktighetskrem lotion lotionflaske shampoo sjampo solkrem
+💨	forsvinne løpe stikker av tegneserie
+🪱	agn dyr leddorm makk mark meitemakk meitemark parasitt
+🫕	fondue fondy gryte kos mat nam ost sjokolade smeltet sveitsisk
+🕧	0:30 12:30 halv ett klokka klokken
+🥣	bolle med skje congee frokost frokostblanding grøt
+🍞	brød loff
+🌚	ansikt måne nymåne med nymåneansikt
+🦨	dyr stank stinkdyr stinke
+🚹	do herrer herretoalett mannesymbol toalett wc
+🪅	cinco de feiring fest godteri mayo meksikansk pinada pinata piñata sukkertøy
+🪢	bånd knop knute knyte rep sammenflettet stikk tau tvinne
+🫢	åpne fjes flau forskrekkelse gispe hånd munnen omg over overraskelse øyne redd sjokk stille
+🎻	fele fiolin instrument musikk musikkinstrument
+🛫	avgang avganger fly som tar av flyavgang fremkomstmiddel innsjekk
+💐	blomst blomster bukett romantikk
+👎	hånd tegn tommel ned
+🤟	glad i deg deg-tegn hånd ily tegnspråk
+♋	krabbe kreps krepsen stjernetegn
+🦸	helt person super superkraft superkrefter
+👏	hånd hender klappende klapping
+🧚	eventyr fantasi fantasy fe myte person vinger
+🏢	bygning kontor kontorbygg
+🧻	rull med papir toalettpapir tørkepapir tørkerull
+🔅	lav lite lys-knapp lysstyrke
+🆓	free free-knapp free-symbol gratis
+🪛	håndverk montering reparasjon reparere skrue skrujern skrutrekker verktøy
+📖	åpen bibliotek bok fantasi kunnskap læring lesing romaner utdannelse utdanning
+🍬	godteri karamell smågodt søtsaker sukkertøy
+🃏	joker jokerkort kort spillkort
+🧪	eksperiment forskning kjemi kjemiker lab prøverør reagensrør
+🍟	chips pommes frites restaurant stekte poteter
+🌏	asia australia jorden jordklode med og verden
+🧵	nål snelle sy tråd trådsnelle
+🆎	ab ab-knapp blodtype blod type
+👩‍🍼	baby babyflaske barn kvinne mamma mat mor tåteflaske
+🕛	0:00 12:00 24:00 klokka klokken tolv
+🍰	dessert formkake kake kakestykke
+🦩	dyr flamingo fugl prangende tropisk
+😁	fjes glis glisefjes med smilende øyne latter lol smil smilefjes
+⬛	firkant geometrisk kvadrat stor svart
+🪻	blomst hyasint klokkeblåstjerne lavendel lilla lupin plante svibel vår
+🖖	finger hånd spock vulcan vulcan-hilsen
+🪍	fange felle håve nett samle
+⌚	armbåndsur ur
+🐯	dyr fjes tiger tigerfjes
+🚧	anleggsarbeid byggeplass byggeskilt skilt
+🔵	blå geometrisk sirkel
+🌄	fjell fjellsol morgen morgensol sol soloppgang over
+🚾	do toalett wc
+📮	post postkasse
+🦽	manuell rullestol tilgjengelighet
+🌁	tåke tåkete vær
+🫈	bigfoot gigant hårete kjempe kryptid skog uhyre vesen villmann yeti
+🦷	tann tannlege
+🪺	egg fugl grein gren heim hjem rede reir tomt
+🐜	dyr insekt maur
+🔋	batteri energilagring strøm
+🟡	geometrisk gul sirkel
+🌑	måne mørk nymåne
+😩	fjes sliten trøtt
+🛒	handle handlevogn innkjøp tralle vogn
+🆗	ok ok-knapp ok-symbol
+🪝	buet fange krok laste lasting løfte løftekrok lossing salgspunkt
+🥞	crêpe mat pannekake pannekaker
+💳	bankkort betalingskort kort kreditt kredittkort visa
+🦗	dyr gresshoppe insekt
+🫛	belg bønne bønner ertebelg erter grønnsak soyabønne sukkerert
+🥧	butterdeig fyll pai
+🧸	bamse leke teddybjørn
+🧛	blod dracula halloween huggtenner kostyme person skummel vampyr vandød
+🟪	kvadrat lilla
+🐱	dyr fjes katt kattefjes
+🦺	nødssituasjon refleks refleksvest sikkerhet vest
+🈴	bestått ideograf japansk knapp
+🍏	eple frukt grønn grønt
+🌠	fallende stjerne faller stjerneskudd verdensrommet
+❌	× avbryt kryss rødt x
+🐸	dyr fjes frosk
+🧀	ost ostestykke
+🪕	banjo musikk strengeinstrument
+🐩	dyr hund puddel
+🦻	hørsel hørselshemmet øre med høreapparat svak tilgjengelighet
+👩‍🦼	kvinne motorisert rullestol tilgjengelighet
+🧙	fantasy heks magi magiker person rollespill stav trolldom trollkvinne trollmann trollperson
+👨‍🏫	lærer mann mannlig skole undervisning
+💄	kosmetikk leppestift sminke
+🚘	bil kjøretøy motgående
+👨‍🏭	arbeider fabrikk industri mann produksjon sveiser verft
+🏣	bygning japansk postkontor post
+🫐	bær blå blåbær frukt mat
+🦑	akkar blekk blekksprut bløtdyr dyr sprut
+🐵	ape apefjes dyr fjes
+🧊	chill isbit isterning kald
+🤿	dykker dykkermaske dykking froskemann snorkling
+📼	kassett opptak vhs video videokassett
+💟	hjerte hjertedekorasjon
+🎥	film filmkamera kamera kino underholdning
+🧥	frakk jakke kåpe klær
+🐽	dyr gris grisetryne snute
+👭	bestevenner bff damer dating hender jenter kvinner par søstre tvillinger venner vennskap
+🚝	fremkomstmiddel monorail
+🩷	elsker følelse hjerte kjærlighet liker rosa søtt spesiell
+🧑‍🎓	skole student universitet
+🏡	bygning hjem hus med hage
+😮‍💨	fjes gisper hviske lettet plystre pust sliten sukk utpust utslitt
+🔣	〒♪&% inndata symboler
+🪚	bygge håndsag jobb sag snekker snekkersag tømrer tre verktøy
+🧕	hijab hodeskjerf hodeslør kvinne med muslim
+🦂	dyr skorpion skorpionen stjernebilde stjernetegn
+➖	- − fortegn matte minus minustegn negativt subtraksjon
+😮	åpen fjes forbauset forbløffet jøss munn oi overrasket sjokkert utrolig uvirkelig
+🪸	dyr hav klimaendringer korall korallrev rev
+🚊	fremkomstmiddel trikk
+😟	bekymret engstelig fjes nerver nervøs overrasket sommerfugler stress stresset trist
+📇	indeks kartotek register
+🌽	mais maiskolbe
+📫	flagg lukket postkasse med flagget oppe post
+🚄	fremkomstmiddel høyhastighetstog lyntog tog
+🧑‍🎨	kunstner maler
+🪪	adgangskort dokument førerkort id id-kort identifikasjon kort legitimasjon lisens sikkerhet
+🫖	drikke kanne te tekanne teselskap
+🕘	21:00 9 9:00 klokka klokken ni tjueen tjueett
+🈵	fullt ideograf japansk knapp
+🐔	dyr fugl høne
+👩‍🦽	kvinne manuell rullestol tilgjengelighet
+🛗	etasje heis ned opp tilgjengelighet
+🍊	appelsin c frukt klementin mandarin sitrus vitamin
+🤒	fjes med termometer syk
+🎾	ball racket sport tenninsball tennis
+🤡	fjes klovn klovnefjes
+💰	dollar penger pengesekk sekk
+🛴	spark sparkesykkel sykkel
+🪷	blomst buddhisme fred hinduisme lotus lotusblomst renhet ro sinnsro skjønnhet
+🦉	dyr fugl ugle vis
+🐛	åme dyr insekt kryp larve
+📣	heiing kommunikasjon megafon ropert
+😱	fjes frykt livredd munch redd skremt skrik
+🥨	saltkringle saltstenger snacks
+📎	binders kontorrekvisita
+🍩	dessert donut restaurant smultring
+🐕	dyr hund valp
+🧑‍🧒‍🧒	barn familie voksen
+🪮	afro afrokam hår kam stelle
+🫗	drikke glass helle ut væske oops søl søle tømme tomt uhell vann
+📳	mobil mobiltelefon modus vibrasjon vibrering vibreringsmodus
+💏	kyss kyssing mennesker romantikk
+🔮	krystallkule spådom spådommer
+🙆	gestikulerer greit hånd ok person
+🏈	amerikansk fotball ball oval sport
+🥿	flate sko pumps uten hæl
+🦿	mekanisk bein protese tilgjengelighet
+💆	ansikt ansiktsmassasje anspent avslapning hodepine massasje person skjønnhetssalong terapi
+🫯	bråk bryting diskusjon krangel slagsmål slåssing slåsskamp uenighet
+🫰	dyrt hand hånd knips kostbar kroner pekefinger penger tommel
+🥯	bagel bakst frokost påsmurt
+🦜	dyr fugl papegøye pirat snakkende snakker
+👨‍🌾	bonde dyrke gårdbruker jordbruk mann mannlig
+👖	bukser jeans klær
+🦕	brachiosaurus brontosaurus dinosaur diplodocus sauropod
+🚯	forsøpling ikke tillatt avfall ingen kasting skilt
+🩱	badedrakt badetøy
+➕	+ addisjon fortegn matte pluss plusstegn positivt
+😡	fjes rasende raseri rødt sinna sint sur
+🥋	drakt judo kampkunst kampsport kampsportdrakt karate selvforsvar taekwondo
+🐣	dyr fugl klekking kylling nyklekket
+👑	dronning klær konge krone
+🏆	premie trofé
+🦔	dyr pigger piggsvin pinnsvin
+✋	flat hånd håndflate hevet
+🔪	kniv kokkekniv matlaging våpen verktøy
+🪔	åpen oljelampe diya lampe olje
+🐏	bukk dyr stjernebilde stjernetegn væren
+🟣	geometrisk lilla sirkel
+🥦	brokkoli grønnsak
+👜	håndveske klær veske
+🍎	diett eple frukt helse modent rød rødt
+🍜	matbolle som damper nudelbolle ramen restaurant
+🐓	dyr fugl hane
+🪑	sete sitte sitteplass stol
+🧠	hjerne intelligent smart
+📘	bibliotek blå bok fantasi lesing utdannelse utdanning
+🛬	ankomme ankomst ankomster fly som lander fremkomstmiddel lande landing
+🍘	kjeks ris riskjeks
+🦚	dyr fugl påfugl prangende stolt
+🎆	feiring fyrverkeri nyttår
+🫌	endring forandring håp insekt metamorfose migrasjon omforming skjør sommerfugllarve transformasjon
+🤯	eksploderende hode forbløffet overrasket sjokkert
+🟩	grønn grønt kvadrat
+🈲	forbudt ideograf japansk knapp
+😈	djevel fjes horn smil smilende
+💗	følelser kjærlighet nervøs spent voksende hjerte
+🔼	oppover oppover-knapp pil
+🎈	ballong feiring
+🦀	dyr krabbe krepsen stjernebilde stjernetegn
+🩸	bloddråpe blodgiver dråpe medisin mens menstruasjon skadet
+📄	ark papir side som vender opp
+🐋	dyr hval
+🍌	banan frukt
+🤕	au bandasje bandasjert hode såret skade skadet vondt
+👡	dame damesandal klær sandal sko
+🏤	bygning europeisk post postkontor
+🏓	ball balltre bord bordtennis kamp racket tennis
+🧁	bakst cupcake søt
+🌲	barnåler bartre eviggrønt tre gran juletre
+🎂	bløtkake bursdag dessert feiring fødselsdag gebursdag gratulerer kake nam selskap
+💋	kyss kyssemerke lepper romantikk
+🤔	fjes tankefull tenkefjes tenker
+⛳	golf golfflagg golfhull hull
+🧫	bakterie biolog biologi kultur lab petriskål
+🥠	fortune cookie lykkekake spådom
+👐	åpen hand hånd åpne hender klem
+😃	åpen fjes glisende med vidåpne øyne latter munn smil smilefjes
+👅	fjes kropp tunge
+🤨	hevet øyebryn øyenbryn hm hva overrasket skeptisk tvil uenig
+🎌	feiring flagg japansk japanske kryssede krysset
+💫	se stjerner svimmel tegneserie
+🤹	balanse ferdighet kunst multitasking sirkus sjonglere sjonglering sjonglør underholdning
+📠	faksmaskin kommunikasjon telefon
+🚪	bakdør dør inngangsdør skapdør ytterdør
+🥹	ååå beundring følelser glede gråte rørt stolt takknemlig tårer trist
+🌖	avtakende fullmåne måne månefase ne
+🙏	be ber bevegelse bønn foldede hender hånd
+🧑‍🎤	artist konsert rock sanger
+🪥	bad baderom børste dental hygiene kost puss pusse tann tenner
+🏄	hav sport strand surfebrett surfer surfing
+👩‍🔬	biologi forsker forskning kjemi kvinne lab laboratorium medisin vitenskap
+🤺	fekte fekter fekting person sport sverd
+🎠	fornøyelsespark hest karusell karusellhest tivoli
+🈳	ideograf knapp ledig japansk
+🔥	flamme ild
+🪿	and dum dyr fjærkre fugl gås gasse gjess klukk tute
+🍨	dessert is iskrem restaurant
+🕓	16:00 4 4:00 fire klokka klokken seksten
+🔯	magi sekskantet sekstagget stjerne med prikk
+📉	chart diagram som peker nedover fallende graf ned negativ synkende
+🐀	dyr rotte
+👟	fritidssko joggesko klær sko tennissko
+📯	horn post posthorn
+😅	åpen glisende fjes som svetter kaldsvette munn smil med svette svett
+🦛	dyr flodhest
+🌛	kvartmåne med ansikt måneansikt nymåne
+👔	klær slips
+🧡	følelser hjerte oransje
+❔	hvit spørsmål spørsmålstegn
+🐺	dyr fjes ulv
+🪹	bygge grein gren heim hjem rede reir tomt
+🤴	prins
+🌘	avtakende måne månefase ne nemåne
+🩺	hjerte lege medisin stetoskop
+🍣	restaurant sushi
+🍢	oden restaurant sjømat på pinne sjømatspyd
+🦐	dyr liten mat reke
+🫺	den denne det dette grep høyre nøytral peke
+🍮	dessert karamellpudding pudding
+🥐	brød croissant fransk mat
+🔖	bokmerke merke
+🥟	dumpling empanada gyoza jiaozi melbolle pirog
+🎭	kunst scenekunst teater teatermasker underholdning
+🈚	gratis ideograf japansk knapp
+🚋	fremkomstmiddel lokaltog trikk trikkevogn trolleybuss vogn
+🚦	trafikk vertikale lys trafiklys
+😒	fjes misfornøyd sur
+🔹	blå geometrisk lite blått rutersymbol ruter
+🪴	dyrke grønn hus kjedelig plante potteplante pynt ubrukelig vanne
+🧰	kasse rød boks skrin verktøy verktøykasse
+🦃	fugl kalkun
+🍄	fluesopp sopp
+🟤	brun geometrisk sirkel
+🫱	hånd håndhilse håndtrykk høyre høyrevendt rekke ut
+🧟	apokalypse død halloween skrekk skummel udød vandød zombie
+👨‍🎤	artist konsert mann pop rock sanger stjerne underholder underholdning
+🫩	fjes kjedelig øyne poser sliten søvnig trøtt utslitt
+🤗	fjes som gir klem
+⏩	dobbel pil høyre spol framover-knapp spoling
+🕜	1:30 13:30 halv to klokka klokken
+📈	chart diagram som peker oppover graf opp positiv stigende
+🦆	and dyr fugl
+🤼	bryter bryting duell personer ring sport turnering wrestling
+🎶	musikk musikknoter noter
+🦁	fjes løve løven stjernebilde stjernetegn
+🤏	hand hånd klype knipe lite smått
+🪄	heks magi magiker trollmann trylle tryllekunster tryllekunstner tryllestav
+🆖	ikke bra ng ng-knapp ng-symbol no good
+😙	fjes kyss med smilende øyne slengkyss smil
+🙍	frustrert ikke fornøyd irritert mimikk misfornøyd person rynker brynene pannen skuffet sur
+🚂	fremkomstmiddel lokmotiv lokomotiv tog
+👰	brud med slør bryllup mennesker person
+🚭	forbudt ikke tillatt nei røyk røyking
+😨	fjes frykt redd skremt
+🎼	g-nøkkel musikk notetegn
+🤦	å nei ansikt facepalm fjes hånd ikke igjen irritasjon omg oppgitt person sjokk slår hånden mot pannen vantro
+📞	kommunikasjon telefon telefonrør
+🚎	buss fremkomstmiddel trolleybuss
+🔢	1234 inndata numeriske data tall
+🪣	beholder bøtte kar spann tømme
+😾	fjes katt sint sur surmulende
+🥢	hashi spisepinner
+🏑	ball hockey kamp kølle land landhockey
+🎢	berg-og-dal-bane fornøyelsespark tivoli
+🐭	dyr fjes mus musefjes
+😧	fjes lider pine smerte
+🐷	dyr fjes gris grisefjes
+🫣	fascinert fjes flau gjemme kikke øyne redd sjenert skjule smugkikke stirre titte
+🍈	cantaloupe frukt honningmelon melon
+🤛	hånd knyttneve mot venstre neve venstrevendt
+🙋	hand hånd her jeg meg opp person rekke spørsmål svaret vet
+🚲	kjøretøy sykkel
+🍑	fersken frukt
+🌍	afrika europa gaia globus jorda jorden klode tellus verden
+👬	bestevenner bff brødre dating gutter hender karer menn par tvillinger venner vennskap
+🐗	dyr villsvin
+🤎	brun brunt hjerte
+🚃	elektrisk fremkomstmiddel tog togvogn trikk
+🎤	karaoke mik mikrofon musikk underholdning
+👿	djevel fjes sint
+📡	antenne kommunikasjon parabol parabolantenne satellitt satellittantenne
+🫨	ansikt jordskjelv omg ør overraskelse panikk riste sjokk skjelvende sprøtt vibrere wow
+🤜	hånd høyre høyrevendt knyttneve mot neve
+🌰	kastanje kastanjenøtt nøtt
+🐨	dyr koala koalabjørn
+📚	bok bøker
+🌿	blader plante urt urteblader
+♍	jomfruen stjernetegn
+📂	åpen arkivmappe fil filmappe mappe
+🔠	abcd bokstaver inndata store
+🔗	lenke link to ringer
+🔱	anker emblem treenighet trefork treforkemblem tridentsymbol
+🥒	agurk grønnsak mat sylteagurk
+⏪	dobbel pil spol tilbake-knapp spoling venstre
+🥁	musikk tromme trommestikker
+📅	dato kalender
+👨‍🦼	mann motorisert rullestol tilgjengelighet
+🍚	kokt mat ris
+🐆	dyr leopard
+☔	dråpe klær paraply med regndråper regn vær
+🍼	babyflaske drikke melk tåteflaske
+🎳	bowling bowlingkule kule spill
+🪭	avkjøle avkjøling blafre blyg dans håndvifte rød varmt vifte
+🍉	frukt melon vannmelon
+🎄	høytid jul julefeiring juletre tre
+🔲	firkant knapp svart firkantet
+🧑‍🌾	bonde gårdbruker jordbruk
+🚩	golf posisjon trekantet vimpel
+🦓	dyr sebra striper zebra
+🍗	fjærfe fjærkre kyllingklubbe kyllinglår restaurant
+🥮	festival høst månekake yuebing
+🏪	butikk bygning dagligvare dagligvarebutikk storkiosk
+🍓	bær jordbær
+🤚	hånd håndbak løftet
+📩	brev e-post epost konvolutt med pil sende sendt utgående
+📓	kladdebok kontorrekvisita notatbok
+👥	byste menneske silhuett av byster
+📊	diagram histogram søylediagram stolpediagram
+🗽	frihet frihetsgudinnen statue
+🕒	15:00 3 3:00 femten klokka klokken tre
+🪋	apokalypse faller ildkule stein stjerne tyngdekraft verdensrommet
+👓	briller klær lesebriller
+🚰	drikke kran spring tappe vann vatn
+🎽	singlet sport t-skjorte treningstopp treningstrøye
+😴	fjes gjesp god natt godnatt snork sove søvn trett trøtt
+🎦	film filmkamera kamera kino underholdning
+🥏	frisbee ultimate
+🦡	grevling skadedyr
+🎨	kunst malerpalett maling
+🍖	kjøtt med bein kjøttbein restaurant
+🔍	forstørrelse forstørrelsesglass mot venstre glass lupe søk
+🌹	blomst rose
+👩‍🚀	astronaut kvinne kvinnelig romfart verdensrommet
+🐚	dyr skjell spiralskjell
+🎰	spill spilleautomat
+🕺	dans dansende mann
+🔡	abcd bokstaver inndata små
+👩‍🦯	blind kvinne med blindestokk tilgjengelighet
+🕍	bygning jøde jødisk religion synagoge tempel
+🛁	bad badekar badestamp
+💘	følelser hjerte med pil kjærlighet
+🥍	ball kølle lacrosse mål
+🧑‍🔧	elektriker handverker håndverker mekaniker rørlegger
+😍	fjes hjerte hjerteøyne kjærlighet øyne smilefjes med
+🆑	cl-knapp clear slett tøm
+🧃	drikkekartong juicekartong juskartong
+👒	damehatt hatt klær
+♌	løve løven stjernetegn
+🌞	ansikt lys sol solansikt
+🍆	aubergine grønnsak
+😊	fjes rødme smil med smilende øyne
+🫸	hånd håndflate hevet mot høyre high five high-five holdt nekte skyv stopp vent
+💲	dollar dollartegn penger stort
+🦍	ape dyr gorilla
+🌈	regn regnbue vær
+🙂	fjes smil smiler litt
+🧭	kompass magnetisk navigasjon orientering
+👞	herresko klær sko
+🩳	badeshorts badetøy bukse shorts underbukse undertøy
+🧑‍🚀	astronaut romfart verdensrommet
+🕚	11 11:00 23:00 elleve klokka klokken tjuetre
+😵	fjes ør svimmel
+📿	bønn bønnekrans halssmykke klær perler religion
+🤓	begavet briller ekspert fjes fornøyd intelligent lur nerd nerdefjes smart
+🪀	jojo leke opp og ned yo-yo yoyo
+🏫	bygning skole skolebygning
+🍹	bar drink juice tropisk
+🕝	14:30 2:30 halv tre klokka klokken
+🕠	17:30 5:30 halv seks klokka klokken
+📟	kommunikasjon personsøker telefon
+🎵	musikk musikknote note
+👙	badedrakt badetøy bikini klær
+🩲	badebukse badetøy bikinitruse truse undertøy
+🤑	fjes munn pengegal penger
+🚛	bil kjøretøy lastebil trailer trekkvogn
+🥘	lav gryte med mat paella stekepanne
+😘	elsker deg fjes glad i hjerte kyss slengkyss
+🛺	autorickshaw mototaxi trehjuling tuk-tuk
+👱	ansikt blond fjes hår lyshåret menneske person
+🛂	kontroll pass passkontroll
+🪓	dele hogge hugge kløyve øks ved
+🫝	agurk fermentere saltlake smakstilsetning sylte sylteagurk tilbehør
+🔞	18 aldersgrense år attenårsgrense ingen under
+🤝	avtale hånd håndhilse håndtrykk møte
+📒	kontorrekvisita notatbok spiralblokk
+🚥	horisontale lys trafikklys trafikk
+🔊	høy høyttaler med høyt volum lyd ropert
+🐴	dyr fjes hest hestefjes
+😕	fjes forvirrende forvirret hm ikke lei omtåket trist usikker vet
+🫑	capsicum chili grønn grønnsak paprika
+🫄	gravid mett oppblåst overspise person stappmett
+🪐	planet med ringer saturn verdensrommet
+🏅	idrettsmedalje medalje
+🏯	bygning japansk slott
+🌊	bølge hav kanagawa natur surfer surfing vann
+💿	blu-ray cd disk dvd lagring optisk plate
+🪦	død grav gravlund gravplass gravsted gravstein kirkegård rip
+⚾	ball baseball sydd
+👈	finger hånd pekende peker mot venstre – bakhånd
+🦒	dyr flekker sjiraff
+🌗	avtakende halvmåne måne månefase ne siste kvarter
+🚸	barn krysser veien skilt
+🤳	kamera selfie telefon
+🏀	ball basketball kurv sport
+🚏	buss busstopp holdeplass
+🥷	hemmelig kampkunst kampsport kriger ninja skjult slåss snikende
+⚽	ball fotball
+🚖	bil drosje kjøretøy motgående taxi
+👂	kropp øre
+👝	clutch-veske klær liten veske
+📵	forbudt ikke tillatt ingen telefonsamtaler mobil mobiltelefon nei telefon
+🐳	dyr hval sprutende spruter
+😯	fjes lamslått målløs overrasket sjokkert stum
+🍫	sjokoladeplate
+🌋	utbrudd vulkan vulkanutbrudd
+🧝	alv eventyr fantasy folklore magi magisk mystisk myte mytologi
+💛	følelser gul gult hjerte
+👨‍💻	data it koding mann mannlig it-ekspert programvare teknologi
+🐃	bøffel dyr vannbøffel
+🧆	falafel kebab kikerter kjøttboller
+💎	diamant edelsten romantikk smykkestein
+🧑‍🚒	brannbil brannkonstabel brannmann brannvesenet
+📷	foto kamera kamerateknikk video
+⛪	bygning kirke kors kristen religion
+🚵	atletisk mountainbike sport sykkel sykle syklist terrengsykkel terrengsyklist
+🐟	dyr fisk fiskene stjernebilde stjernetegn
+🤥	fjes løgn lyver pinocchio
+😛	fjes som rekker tunge tungen ut
+🦵	bein lem sparke
+🪒	barbere barbering barberkniv skarp
+💈	barberer barberersøyle barberskilt frisør frisørsalong
+📹	kamera video videokamera
+🛵	motor motorsykkel scooter
+💸	bank flygende seddel penger med vinger
+🔦	elektrisk lommelykt lykt lys
+🧑‍🧑‍🧒‍🧒	barn familie voksen
+🚳	ikke ingen sykler nei sykkel tillatt forbudt
+🪵	hoggestabbe hogst huggestabbe kubbe stokk tømmer tre trelast
+😂	fjes flire glede gledestårer gøy haha hoho latter le lol morsomt tårer
+🐦	dyr fugl
+🔩	mutter og skrue verktøy
+🤠	cowboy cowgirl fjes med cowboyhatt hatt
+🔉	høyttaler med middels volum lyd ropert
+💇	frisør frisørsalong frisyre hår hårklipp person salong skjønnhet skjønnhetssalong
+🧓	eldre gammel menneske senior voksen
+👼	ansikt babyengel engel eventyr
+🪠	avløp avløpsåpner mekanisk sugekopp toalett vask
+👨‍💼	kontor leder mann mannlig kontorarbeider næringsliv
+🔃	last inn på nytt piler vertikale med klokken
+🦦	dyr fisker lekende oter
+🗻	fjell fuji fuji-fjellet
+🐖	dyr gris
+🧲	hestesko magnet magnetisk tiltrekning
+🚻	do toalett toalettskilt wc
+💤	følelse god natt snorker sover soving søvn søvnig tegneserie trett trøtt zzz
+🔌	elektrisitet elektrisk plugg støpsel
+🏺	amfora drikke krukke matlaging stjernebilde stjernetegn vannmannen
+📻	radio radiosignaler teknologi
+🧑‍🦯	blind person med blindestokk tilgjengelighet
+🪗	accordeon concertina danseband gammaldans gammeldans musikk spell spill trekkspill
+🍱	bento bento-boks boks matboks
+🔘	knapp radio radioknapp
+🕙	10 10:00 22:00 klokka klokken ti tjueto
+👻	eventyr fjes skapning spøkelse
+🧉	drikke krukke mate
+🫀	anatomi blodpumpe hjerte-kar hjertemuskel hjerteslag kardiologi muskel organ puls
+🦭	dyr hav sel sjøløve
+👨‍🔬	biologi forsker forskning kjemi lab laboratorium mann medisin vitenskap
+🐫	dyr kamel pukkel
+♉	okse stjernetegn tyr tyren
+👨‍🍳	mann mannlig kokk matlaging restaurant
+🚢	båt fartøy fremkomstmiddel skip
+🥽	beskyttelsesbriller øyevern sveising svømming
+🚟	fremkomstmiddel svevebane
+🔶	geometrisk oransje ruter stort rutersymbol
+🪡	broderi nål skredder sting sutur sy synål tråd
+⛺	camping telt telttur
+🙁	fjes litt surt trist
+👾	fjes rommonster sci-fi ufo utenomjordisk
+💷	penger pund pundseddel seddel
+🏉	rugby rugbyball sport
+❓	rød spørsmål spørsmålstegn
+👩‍🎨	kunstner kvinne kvinnelig maler
+🐇	dyr hare kanin
+🌾	aks plante ris risplante siv strå
+🛷	kjelke slede
+🌀	orkan svimmel syklon tornado
+🦴	bein hund hundebein knokkel skjelett
+👨	mann menneske voksen
+💥	følelse kollisjon krasj smell tegneserie
+🗿	ansiktsstatue moai moai-statue påskeøya statue
+⛵	båt seilbåt
+🫵	deg der du finger hand hånd peke pekefinger stikk
+🏰	borg bygning europeisk slott festning
+🐞	bille dyr insekt marihøne
+🚆	fremkomstmiddel jernbane tog
+🐕‍🦺	hjelp hund servicehund tilgjengelighet
+🐮	dyr fjes ku kufjes
+🏮	bar izakaya lampe lanterne lykt rød papirlykt
+😥	fjes lettet puh skuffet
+🧤	hånd hansker klær
+🐰	dyr fjes kanin kaninfjes
+🏨	bygning hotell
+🍕	pizza pizzabit pizzastykke restaurant
+📗	bibliotek bok fantasi grønn lesing utdannelse utdanning
+🎇	feiring fyrverkeri nyttår stjerneskudd på pinne
+🪳	dyr ekkel insekt kakerlakk skadedyr utøy
+⚡	fare høy høyspenning høyspent lyn spenning
+⏬	dobbel pil ned raskt ned-knapp
+🍻	bar halvliter øl ølglass ølkrus som skåler pils
+🚺	damer dametoalett do kvinnesymbol toalett wc
+👚	dameklær klær
+🧳	bagasje pakking reise
+♐	bueskytter skytten stjernetegn
+🚤	båt fartøy speedbåt
+📝	blyant bok kommunikasjon notat
+🪨	berg blokk hard kampestein stein steinblokk steinrøys tung ur
+🍅	frukt grønnsak tomat
+📁	arkiv arkivmappe fil mappe
+🎁	bursdag feiring gave innpakket julegave presang
+🧑	kjønnsnøytral menneske person voksen
+🚒	bil brannbil kjøretøy
+👷	anlegg anleggsarbeider arbeider bygg hjelm ingeniør menneske person refleksvest vernehjelm
+🔤	abc bokstaver inndata latinsk alfabet
+🚞	bane fjell fjellbane fremkomstmiddel
+🌐	jorden jordklode med meridianer lengde- og breddegrader verden
+😸	fjes flirende katt med smilende øyne smil
+🫡	fjes som viser honnør ja lykke til militærhilsen respekt salutt skal bli yes ma’am sir
+🟰	er lik fet skrift likhet likhetstegn matematikk svar
+🚬	røyking tillatt sigarett skilt
+🆒	cool cool-knapp
+🍺	bar halvliter ølglass ølkrus pils pilsner
+🪏	grave hull skuffe spa spade
+🐂	dyr okse stjernebilde stjernetegn tyren
+🤙	hånd ring meg-hånd ringe
+♓	fisk fiskene stjernetegn
+👵	bestemor dame eldre gammel kjerring klok kvinne mormor
+🐧	dyr fugl pingvin
+❎	× kryss i firkant kvadrat x
+🟫	brun brunt kvadrat
+🥩	biff kjøttstykke lammekotelett lammeskank svinekotelett
+🦾	mekanisk arm protese tilgjengelighet
+🎣	fisk fiskestang fisking fritid natur
+😌	fjes lettet
+🫷	hånd håndflate hevet mot venstre high five high-five holdt nekte skyv stopp vent
+🐝	bie dyr honningbie insekt
+🌻	blomst sol solsikke
+✨	* glitrende skinnende stjerner
+🚽	dass do toalett vannklosett wc
+🥑	avokado frukt mat
+👛	klær portemoné pung
+🌮	meksikansk taco
+📋	ordrebrett skriveplate tavle utklippstavle
+🦊	dyr fjes rev
+⚫	geometrisk sirkel svart
+♒	stjernetegn vann vannmannen
+🐈‍⬛	dyr katt mjau pus svart uhell ulykke
+🩵	blågrønt cyan følelse himmelblå hjerte kjærlighet liker lyseblå lyseblått søtt spesiell
+📤	brev e-post kommunikasjon sendt skuff utboks
+🐐	dyr geit steinbukken stjernebilde stjernetegn
+🧂	bøsse krydder salt
+🎯	blink dart mål midt i blinken pilspill treff
+🐻	bjørn dyr fjes
+🔨	hammer verktøy
+🚣	åre båt elv fartøy fiske innsjø kano padle person i robåt rafting ro transport vann
+👕	klær skjorte t-skjorte
+🐼	dyr fjes panda
+👃	fjes kropp nese
+📭	åpen postkasse med flagget nede flagg post
+🚁	fremkomstmiddel helikopter
+🛻	bil frakt lastebil liten pickup transport vare varetransport
+🕤	09:30 21:30 halv ti klokka klokken
+🫅	adelig høyhet kongelig krone majestetisk monark person royal
+🧑‍🦽	person i manuell rullestol tilgjengelighet
+🌱	plante spire ung
+😪	fjes søvnig
+🧒	barn kjønnsnøytral menneske ung
+🦤	dodo dronte fugl mauritius stor utdødd
+👢	dame damestøvlett klær sko støvlett
+📬	åpen postkasse med flagget oppe flagg post
+🚼	babyskilt babysymbol stellerom stellestasjon
+🚑	ambulanse bil kjøretøy
+😞	fjes skuffelse skuffet
+🍸	bar cocktaildrink cocktailglass drink
+🥵	feber fjes heteslag rød svetter varm varmt
+🫔	latinamerikansk mat meksikansk tamal wrap
+👹	eventyr japansk ogre troll
+😬	fjes grimase
+🤶	jul julenissemor mor nisse
+🎓	feiring hatt klær studentlue uteksaminering
+👩‍🎓	kvinne kvinnelig student skole universitet
+🛖	heim hjem hus hytte jurt jurte overnatting rundhus
+🎬	action film filming filmklapper klapper underholdning
+🤘	bra finger hånd horn kult metal rock rock’n’roll rocke rocker to fingre
+🕣	20:30 8:30 halv ni klokka klokken
+🤫	hysj stillhet vær stille
+🔭	astronomi forskning teleskop verktøy vitenskap
+🌸	blomst kirsebær kirsebærblomst
+🥻	kjole klær sari
+🎷	instrument musikk musikkinstrument saksofon sax
+😺	åpen munn fjes katt smil smilende med
+😫	fjes overtrøtt sliten søvnig trøtt
+😀	fint fjes flir glad glis glisefjes latter smilefjes smiler tenner
+💭	boble tanke tankeboble tegneserie
+🦼	motorisert rullestol tilgjengelighet
+👩‍💼	kontor kvinne kvinnelig kontorarbeider leder næringsliv
+♿	handikaptilgang rullestol rullestolbruker rullestolsymbol
+🥄	bestikk skje
+🧽	absorberende porøs rengjøre svamp vaske
+💵	dollar dollarseddel penger seddel
+🐹	dyr fjes hamster
+💾	datamaskin disk diskett lagring
+🌔	måne månefase ny voksende fullmåne
+🥫	boks hermetikk hermetisk mat
+💴	penger seddel yen yenseddel
+🦧	ape orangutang
+🍶	drikke flaske karaffel mugge og kopp sake
+⚪	geometrisk hvit sirkel
+🆙	opp opp-symbol up up!-knapp up!-symbol
+😎	fjes kul lyst smilefjes med solbriller sol
+📐	linjal trekant trekantlinjal vinkel
+🫧	boble perle rengjøre rense såpe skum sveve vaske
+💕	elskere følelser kjærlighet to hjerter
+😗	elsker deg fjes glad i kyss kyssefjes slengkyss
+🫤	fjes forvirret frustrert meh næsj skeptisk skrått skuffet tja tvil uansett usikker
+💬	ballong boble dialog dialogboble snakkeboble tegneserie
+🛘	fare fjell jordskjelv katastrofe lavine skred steiner steinsprang
+🚚	bil kjøretøy varebil
+🔚	end-pil pil til venstre slutt med sluttpil
+💺	sete stol
+🎉	feiring fest serpentin smell-bon-bon
+🤲	ber bønn hånd håndflatene sammen
+😔	alvorlig fjes lei seg tankefull
+👋	farvel hallo hand hånd hei hilse sees senere ses vinke
+🎊	ball feiring fest konfettiball konfettikule wohoo
+💼	dokumentmappe stresskoffert
+🥬	bladgrønnsaker bladsalat grønnkål kål kinakål pak choy salat
+🈸	ideograf japansk knapp søknad
+🚱	ikke drikkbart drikkevann vann
+🐄	dyr ku
+⬜	firkant geometrisk hvit hvitt kvadrat stor
+😝	æsj fælt fjes lukkende øyne rekke tunge tungen ut med øynene lukket
+😓	ansikt kaldsvette kaldsvetter
+🩼	hjelp hjelpemiddel kjepp krykke skadet stokk ufør
+🙀	fjes jøsses katt overrasket sliten slitent kattefjes
+🧯	brann brannslokkingsapparat brannslukningsapparat slokke slukke
+🦖	dinosaur t-rex tyrannosaurus rex
+🧑‍🧒	barn familie voksen
+🐒	ape dyr
+🥴	bølgete munn brisen full svimmel svimmelt fjes ujevne øyne
+🧅	løk smakstilsetning tårer
+🍙	japansk onigiri restaurant ris risball
+👨‍🚒	brannbil brannkonstabel brannmann brannvesenet mann mannlig
+🪈	band blokkfløyte fløyte instrument korps musikk orkester treblåseinstrument treblåser
+🏏	ball balltre cricket kamp
+👴	bestefar eldre fyr gubbe klok mann mister håret morfar
+🦝	nysgjerrig sky vaskebjørn
+🎲	spill terning terningkast terningspill
+🚡	fremkomstmiddel gondolbane taubane
+😑	fjes ingen kommentar nøytral stum uttrykksløs
+🥶	blå fjes frost fryser istapper kald kaldt
+🚿	dusj vann
+🖕	finger hånd kropp langfinger vise fingeren
+🫆	avtrykk etterforskning fingeravtrykk identitet innbrudd krim sikkerhet spor teknisk tyveri
+🧑‍🍳	kokk matlaging restaurant
+🫠	fjes som smelter flau forsvinner går i oppløsning haha lol sarkasme sarkastisk smelte
+🐑	dyr sau søye
+🕐	1 1:00 13:00 ett klokka klokken tretten
+🔑	lås nøkkel passord
+🚕	bil kjøretøy taxi
+🎹	instrument keyboard musikk musikkinstrument piano tangenter
+🦮	blind førerhund hund tilgjengelighet
+📃	ark opprullet side med bøy
+👨‍🔧	bil elektriker handverker håndverker mann maskin mekaniker motor rørlegger
+😄	åpen fjes flir glis latter lol morsomt øye smil smilefjes tenner
+🥲	gledestårer lettet rørt smilefjes med tåre smiler stolt takknemlig
+🫥	deprimert forsvinner gjemme seg introvert meh samme det skjult smilefjes stiplet usynlig
+🥤	brus juice jus kopp med sugerør
+🥃	brennevin glass shot sprit whisky whiskyglass
+🗼	tårn tokyo tokyo-tårnet
+🙄	å nei fjes himler med øynene hva i all verden oppgitt øyne ruller utrolig
+🦥	dovendyr dyr henge lat treg
+🧞	aladdin ånd i lampe ånden flasken djinn fantasy flaskeånd genie gni på lampen ønsker
+🤪	fjes gal lite øye sinnssyk stort
+👩‍🍳	kvinne kvinnelig kokk matlaging restaurant
+🫘	belgfrukt bønner kidneybønner mat små
+🥇	førsteplass gull gullmedalje medalje
+🐘	dyr elefant
+🔻	geometrisk nedover rød trekant som peker ned
+🎡	fornøyelsespark pariserhjul tivoli
+🕢	19:30 7:30 halv åtte klokka klokken
+💪	biceps fleks muskel muskelfleksing sterk tegneserie
+🎒	ransel ryggsekk skolesekk
+😢	fjes gråter tårer trist
+👨‍🦯	blind mann med blindestokk tilgjengelighet
+🫪	angst oppblåst overrasket panikk sårbar sjokkert
+🔕	bjelle med strek over ingen lyd klokke lydløs overstreket stille
+📢	høy høyttaler kommunikasjon megafon ropert
+🦟	dyr feber insekt malaria mygg sykdom virus
+🎅	feiring jul julenissen nissefar nissen
+❕	hvit utrop utropstegn
+🤽	person polo sport svømming vann vannpolo
+🗾	japan kart over
+🔆	høy lysstyrke mye lys-knapp
+🤣	artig fjes flire flirer gøy gøyalt gulv hæhæ haha hoho latter le ler så jeg griner lol lykkelig morsomt roflmao ruller rundt på gulvet i
+🦅	dyr fugl ørn
+🧶	ball garn nøste
+🍇	drueklase druer frukt
+🌯	burrito meksikansk wrap
+🌎	amerika jorden jordklode med usa verden
+🀄	mahjong mahjongbrikke med rød drage spill
+🦣	dyr forhistorisk istid mammut stor støttenner tundra ull utdødd
+🥝	frukt kiwi mat
+😻	fjes forelsket hjerter katt kjærlighet øyne smilende med hjerteøyne
+🎸	gitar instrument musikk musikkinstrument
+⏫	dobbel opp pil raskt opp-knapp
+🏩	bygning hotell kjærlighetshotell
+🥓	bacon kjøtt mat
+➗	÷ dele deletegn deling divisjon divisjonstegn matte
+🐦‍🔥	dyr fantasy føniks fugl gjenopplive gjenoppstå ildfugl reinkarnasjon udødelig
+🔁	gjenta-knapp med klokken piler
+👪	barn familie far mennesker mor
+🤍	hjerte hvit hvitt
+🪃	aboriginer australia boomerang bumerang retur tilbake våpen
+🔧	fastnøkkel skrunøkkel verktøy
+🐶	dyr fjes hund hundefjes
+🦌	dyr hjort
+🎋	feiring papirremser stjernefestival tanabata tanabatatre tre
+🕌	bygning islam moské muslim religion
+📔	dekorert notatbok omslag
+🕗	20:00 8 8:00 åtte klokka klokken tjue
+🐲	drage dragefjes dyr eventyr fjes
+👊	enig hand hånd knyttet neve knyttneve kompis stein
+🫙	beholder ingenting krukke mos oppbevare pålegg syltetøy tom
+🚇	fremkomstmiddel metro t-bane tunnelbane undergrunnsbane
+🧏	døv person høre øre tilgjengelighet
+🤐	fjes med glidelåsmunn glidelås munn
+👩	kvinne menneske voksen
+🍡	dango japansk restaurant riskonfekt
+📧	brev e-post kommunikasjon post
+🛜	bredbånd datamaskin hotspot internett nettverk ruter smarttelefon tilkobling trådløst wi-fi wifi
+🐊	dyr krokodille
+📌	kontorrekvisita stift
+🕕	18:00 6 6:00 atten klokka klokken seks
+⛲	fontene
+🔫	leketøysvåpen pistol revolver vannpistol våpen
+🍐	frukt pære
+⚓	anker båt skip verktøy
+🪆	babusjka dukke hul matrjosjka matroshka matrosjka matruska russisk russland suvenir
+📦	eske levering pakke
+🧧	flaks gave hell og lykke hong bao lai see penger rød konvolutt
+🪽	engel engleaktig englevinge fly flyr fugl himmelsk mytologi vinge
+🎪	sirkus sirkustelt telt underholdning
+😏	fjes lurt smil selvtilfreds
+🛄	bagasje bagasjebånd rullebånd
+♑	geit steinbukken stjernetegn
+🧑‍💼	kontor kontorarbeider leder næringsliv
+🐁	dyr mus
+🐌	dyr snegle
+👩‍🌾	bonde dyrke gårdbruker jordbruk kvinne kvinnelig
+🕑	14:00 2 2:00 fjorten klokka klokken to
+🎀	bånd gavebånd sløyfe
+📪	flagg lukket postkasse med flagget nede post
+🎮	konsoll kontroller spill spillkonsoll spillkontroller tv-spill videospill
+🔴	geometrisk rød sirkel
+🦞	bisque hummer klør kreps sjømat skalldyr
+🛐	religion religiøst samlingssted tilbedelse
+🛹	brett rullebrett skateboard
+👩‍🏭	arbeider fabrikk industri kvinne produksjon sveiser verft
+🙅	forbudt hånd ikke lov mimikk nei person uaktuelt
+🏧	automatisk bank minibank minibankskilt penger
+🧢	caps kaps skyggelue
+🫎	dyr elg gevir pattedyr
+💁	hånd hjelp hjelpende informasjon menneske person sarkasme sarkastisk seriøst sladder
+🈶	betale gratis ideograf ikke japansk knapp kostnad
+🌺	blomst hibiskus
+🤬	banner fjes med munnen over rasende sensur symboler
+🤢	fjes kvalm oppkast spy
+💃	dans dansende kvinne
+🦋	dyr insekt pen sommer sommerfugl
+🐥	baby dyr fugl kylling forfra
+🚫	adgang forbudt ikke nei skilt
+💞	følelser hjerter kjærlighet snurrende søtt
+🥖	bagett baguette brød fransk mat
+🉑	akseptabelt ideograf japansk knapp
+🚓	bil kjøretøy politibil
+🧑‍🔬	biologi forsker forskning kjemi lab laboratorium medisin vitenskap
+🔒	hengelås lås låst privat
+🐦‍⬛	dyr fugl kra kråke nebb ravn svart
+😐	fjes ingen kommentar nøytral stum
+🪘	beat conga langtromme musikk perkusjon rytme tromme
+🎩	flosshatt hatt klær
+👩‍🎤	artist konsert kvinne pop rock sanger stjerne underholder underholdning
+🦄	enhjørning fjes
+🐠	dyr fisk tropisk
+🥥	kokos kokosnøtt palme piña colada
+🧣	hals klær skjerf
+🎿	ski og staver snø vintersport
+🌆	by bygning byhorisont bylandskap i skumring sol solnedgang
+🧐	fancy fjes formell monokkel rik stiv
+😭	fjes gråt strigråter tårer
+😰	åpen engstelig fjes frykt kaldsvette munn nervøs redd svetter syk
+💣	bombe følelse tegneserie
+🐪	dromedar dyr kamel pukkel
+👨‍🎓	mann mannlig student skole universitet
+👇	finger hånd pekende peker ned – bakhånd
+🥉	bronse bronsemedalje medalje tredjeplass
+🚅	fremkomstmiddel høyhastighetstog med kulenese lyntog shinkansen tog
+🥳	bursdag feiring fest fløyte fødselsdag glad gratulerer hatt hurra jippi party partyfjes
+👳	hodeplagg person turban turbankledd
+🎧	headset hodetelefoner øretelefoner underholdning
+📨	brev e-post epost innkommende konvolutt levering mail motta sendt
+⭐	stjerne verdensrommet
+🫃	gravid mann mett oppblåst overspise person stappmett
+🌌	galakse melkeveien verdensrommet
+🧖	avslapping badstue dampbad luksus person sauna spa
+🚠	fremkomstmiddel kabelbane
+🪙	dollar euro gull kroner metall mynt penger rik rikdom skatt sølv
+🌵	kaktus plante
+😲	fjes overrasket sjokkert stum
+🙃	fjes som er opp-ned
+🚶	fotgjenger fottur gå gående går gåtur person spasere steg tur
+👤	byste menneske silhuett av
+🛶	båt kano
+🌓	første kvarter halvmåne måne månefase ny voksende
+🌒	måne månefase ny voksende nymåne
+👽	fjes romvesen sci-fi ufo utenomjordisk
+🕡	18:30 6:30 halv sju syv klokka klokken
+🐡	dyr fisk kulefisk
+🛃	grense toll
+🥛	drikke glass melk melkeglass
+🛟	badering flyte livbøye livredder livredning redde liv redningsbøye svømme
+🫚	helse ingefær ingefærrot krydder naturlig øl rot sunn urt
+🍋	frukt sitron sitrus
+🪶	fjær fjærdrakt fjærpenn fugl lett
+🫹	den denne det dette grep nøytral peke venstre
+👲	gua pi mao hatt lue mann med kinesisk menneske
+🤰	gravid kvinne
+🧹	feie feiekost heks rengjøre
+💑	hjerte kjærlighet mennesker par med romantikk
+⛅	sky sol bak og
+🩶	følelse grått hjerte kjærlighet skifer sølv spesiell
+🧨	dynamitt eksplosiver fyrverkeri kinaputt
+🏊	crawl fristil frisvømming krål person sport svømme svømmer svømming triatlon
+🕟	16:30 4:30 halv fem klokka klokken
+🩰	ballett ballettsko dans
+📀	disk dvd dvd-plate lagring optisk plate
+🏃	fart fort idrett jogger jogging løp maraton person rask sport
+🧜	ariel eventyr havfolk havfrue havkvinne havmann havperson havvesen person sirene trident
+🔽	ned nedover nedover-knapp
+💻	bærbar datamaskin maskin pc
+🧋	boble-te bobler kuler melk perler taiwan te
+🫏	dyr esel muldyr mulesel pakkesel pattedyr sta
+🪟	åpning frisk luft friskluft gjennomsiktig glass ramme utsikt vindu vinduskarm
+🐢	dyr skilpadde
+😤	fjes jeg vant triumf triumferende
+👨‍🚀	astronaut mann mannlig romfart verdensrommet
+👩‍💻	data it koding kvinne kvinnelig it-ekspert programvare teknologi
+🦠	amøbe bakterie mikrobe virus
+🥺	bedende fjes nåde trygler valpeøyne
+🤮	fjes kaster opp kvalm oppkast spy
+❗	rød utrop utropstegn
+🪼	au brennmanet dyr glassmanet hav havdyr manet plankton sjø tentakler
+🎺	instrument musikk musikkinstrument trompet
+🟥	kort kvadrat rød rødt utvisning
+😶	fjes ingen munn uten
+🧬	biolog biologi dna evolusjon gen gener genetikk liv
+😵‍💫	fjes forvirret hypnotisert øyne problem spiral svimmel uææ
+📸	blits foto kamera med video
+👩‍🔧	bil elektriker handverker håndverker kvinne maskin mekaniker motor rørlegger
+💧	dråpe drypp tegneserie vann
+🪂	fallskjerm fallskjermhopp hangglider hengeglider paragliding
+🎃	gresskar gresskarlykt halloween halloweenlykt
+🫟	farge flekk holi maling søl sprut
+💖	følelser kjærlighet skinnende hjerte
+💜	følelser hjerte lilla
+🚀	fremkomstmiddel rakett verdensrommet
+🎑	feiring høytid måne månebeskuelsesseremoni månefeiring måneseremoni
+🍦	dessert is iskrem restaurant soft-is softis
+🥀	blomst tørket vissen
+😣	bommert fjes skuffet utholdende
+📰	avis nyheter publikasjon
+🥊	bokse boksehanske boksing hanske sport
+🧑‍🏫	lærer skole undervisning
+🔺	geometrisk oppover rød trekant som peker opp
+📺	fjernsyn tv video
+🦬	bison bøffel dyr horn okse stor visent
+👸	eventyr fantasy menneske prinsesse
+😋	deilig mat fjes mmm nam nam-nam sulten
+👗	kjole klær
+🦎	dyr firfisle øgle reptil
+🫳	avfeie hand hånd husj ned opp plukke slapp slippe
+🥎	ball hanske kasteball softball sport underarm
+💉	medisin nål sprøyte syk vaksine
+🪧	demonstrasjon informasjon plakat protest skilt tekst
+🌃	natt stjernenatt stjerner
+📕	bok lukket utdannelse utdanning
+😇	engel fjes glorie smil med uskyldig
+🍃	blader i vind blåse blåser blåst løv
+🫒	mat oliven
+🔜	pil snart med soon-pil
+🧑‍🍼	baby forelder mat mate nursing nyfødt spedbarn tåteflaske
+🚍	buss fremkomstmiddel motgående
+🧄	hvitløk smakstilsetning
+👯	bestevenner danser fest hareører identiske personer kaninører menneske par sjelevenner tvillinger
+🪤	åte fange felle mus musefelle ost snare
+🥸	bart briller fjes forkledning inkognito maske nese øyenbryn
+🥅	mål målnett nett sport
+🍪	cookie dessert kjeks restaurant
+🔎	forstørrelse forstørrelsesglass mot høyre glass lupe søk
+🩴	ferie flipflops flippflopp flippflopper sandaler sommer strand strandsandaler syden
+💢	følelse sinne sinnesymbol sint tegneserie
+🥙	falafel fylt pitabrød gyro kebab mat pita
+🐈	dyr katt
+📥	brev e-post innboks kommunikasjon mottatt skuff
+🚮	avfall avfallsskilt skilt søppel
+🟨	advarsel gul gult kort kvadrat
+🥼	doktor eksperiment forsker labfrakk lege
+🧱	mørtel mur murstein mursteiner sement vegg
+🧈	margarin meieriprodukt smør
+💓	bankende følelser hjerte hjertebank kjærlighet pulserende
+🎏	feiring japansk høytid karpe koinobori papirfisk
+♈	stjernetegn vær væren
+🛌	god natt hotell overnatting person i seng sengetid sove
+🦇	dyr flaggermus vampyr
+🚐	buss kjøretøy minibuss van
+🐬	delfin dyr flipper hav strand
+🐅	dyr tiger
+🌉	bro om natten natt
+🤌	betal fingertupper fingre hand hånd penger sarkastisk spørsmål
+🛀	bad badekar person i
+👶	baby menneske ung
+🍁	blad høstblad lønn lønneblad
+🚜	kjøretøy traktor
+💠	blomst diamant med prikk søtt
+😚	elsker deg fjes glad i kyss med lukkede øyne trutmunn
+👮	arrest arrestere betjent menneske pågripe politi politibetjent purk spaner
+🍥	fisk fiskekake med mønster restaurant
+🧌	eventyr fantasi fantasy monster nettroll troll
+👠	høyhælt sko klær
+🧑‍🎄	feiring jul julenisse nisse nisselue person
+👩‍🏫	kvinne kvinnelig lærer skole undervisning
+🌴	palme palmetre tre
+🏭	bygning fabrikk
+🔷	blå geometrisk ruter stort blått rutersymbol
+💡	elektrisitet idé lys lyspære pære tegneserie
+🪾	dødt stamme tørke tørt tre ufruktbart vinter
+🔙	back-pil pil til venstre tilbake tilbakepil
+🫲	hånd håndhilse håndtrykk rekke ut venstre venstrevendt
+💒	bryllup kapell romantikk
+🆔	id-knapp id-symbol identitet
+🧑‍🩰	ballett danser
+🥪	brød brødskive sandwich smørbrød
+⌛	ferdig timeglass sand tidtaker
+🔀	bland spor-symbol kryssede piler mot høyre
+😦	fjes oppgitt overrasket sjokkert med åpen munn
+🍄‍🟫	brun sopp mat matsopp natur pizzafyll portobello sjampinjong trøffel vegetar vegetarianer
+🦫	bever dam dyr tenner
+🥚	egg mat
+🛑	åttekantet skilt stopp stoppskilt
+🎫	adgang billett inngang underholdning
+👺	ansikt eventyr japansk troll tengu
+🤷	hand hånd idk kanskje likegyldighet person skuldertrekning trekker på skuldrene tvil vet ikke
+🦏	dyr horn nese neshorn
+🍿	kino popcorn popkorn
+☕	drikke kaffe kaffekopp koffein morgen rykende te tekopp varm
+📴	av mobil mobiltelefon
+👘	kimono kjole klær
+🚈	fremkomstmiddel jernbane lokaltog tog
+🧷	bleie punk sikkerhetsnål
+🍔	burger hamburger restaurant
+🔸	geometrisk lite oransje rutersymbol ruter
+🎎	festival japansk høytid japanske dukker
+🧘	avslapning bena i kryss fredfull lotusstilling meditasjon meditering slappe av yoga zen
+🥾	fjelltur gåtur støvel telttur tur turstøvel
+🦙	alpakka dyr guanaco lama ull
+🆚	versus vs vs-knapp vs-symbol
+🧦	klær labber sokker strømper
+🛕	hindu hindutempel religion tempel
+💝	bånd følelser hjerte med valentine
+🔂	1 gang én gjenta ett spor-knapp med klokken piler
+🌷	blomst tulipan
+🧑‍🧑‍🧒	barn familie voksen
+🥰	elsker forelsket kjærlighet romantikk smilefjes med hjerter
+💍	diamant ring romantikk
+🕖	19:00 7 7:00 klokka klokken nitten sju syv
+🚷	fotgjenger fotgjengere forbudt gående ikke tillatt nei skilt
+🐾	avtrykk dyr poteavtrykk poter spor
+👨‍🎨	kunstner maler mann mannlig
+🍤	fritert reke grillet scampi kongereke restaurant tempura
+🦢	den stygge andungen dyr fugl ornitologi svane vakker
+🔏	låst med penn personvern
+⛄	kald mann snø snømann
+💀	død dødninghode fjes hodeskalle
+🏴	flagg flagging svart
+👍	bra fint flott greit ja klart ok okay okei tommel topp
+🧑‍💻	data it it-ekspert koding programvare teknologi
+🪊	brass instrument jazz messing musikk trekkbasun trist trombone
+🌭	hot dog hotdog pølse med brød
+♎	rettferdighet stjernetegn vekt vekten
+🪇	cha dans fest instrument maracas marakas musikk perkusjon riste rytme
+💂	gardist menneske vakt
+🛸	alien flyende flygende marsboer tallerken ufo
+➰	løkke løkketegn
+🎴	kort kortspill spillkort
+🦪	dykking østers perle
+🪯	deg tegh fateh khalsa khanda religion sikh sikhisme tro
+🛅	bagasje bagasjeoppbevaring oppbevaring oppbevaringsboks
+🉐	ideograf japansk knapp kupp spesialtilbud
+🧑‍🏭	arbeider fabrikk industri industriarbeider produksjon
+🔰	grønn og gul grønt gult blad japansk tegn for nybegynner
+🫍	hav hval sjø
+♊	stjernetegn tvillingene tvillinger
+🍒	bær kirsebær moreller
+🦘	australia dyr hoppe kenguru pungdyr
+🦯	blind blindestokk tilgjengelighet
+🧼	bad såpe såpeskål såpestykke skum vaske
+🧿	amulett charm nazar ondt øye talisman
+🎱	8 åtte åtterkule biljard spill
+🍭	kjærlighet på pinne sukkertøy
+🥈	andreplass medalje sølv sølvmedalje
+🔬	forskning mikroskop verktøy vitenskap
+🤞	finger flaks hand hånd hell kryss lykke tvi
+🍛	curry karri karriris restaurant ris
+👌	ålreit bra glimrende greit hand hånd klart kult ok okay perfekt supert
+👆	finger hånd pekende peker opp – bakhånd
+👉	finger hånd pekende peker mot høyre – bakhånd opp
+🎍	feiring furudekorasjon japansk høytid nyttår
+🧔	mann med skjegg person
+🦶	fot sparke tråkke
+🈺	åpen bedrift handel ideograf japansk knapp
+🧮	abakus kuleramme regning
+🏁	1 flagg formel mål motorsport racingflagg rutete
+🙈	ape fjes forbudt ikke ser ingenting ondt
+🍠	bakt potet restaurant søtpotet
+🕋	islam kaba muslim religion
+🫓	arepa brød lavash mat nan pita pitabrød
+😠	fjes raseri sinna sint sur
+🫶	<3 elsker deg hender som lager hjerte hjertehender kjærlighet
+🤖	fjes monster robot
+◾	firkant geometrisk kvadrat lite/mellomstort liten/mellomstor svart
+🤤	fjes sikle sikler
+🏹	bue bueskytter pil og skytten stjernebilde stjernetegn våpen
+💔	brudd følelser hjerte knust
+🍍	ananas frukt
+🤱	ammer amming baby bryst morsmelk
+👨‍🍼	baby babyflaske barn far mann mat pappa tåteflaske
+👫	bestevenn bestevenner bff dating forelsket hånd holder hender kjærester kvinne mann par søsken

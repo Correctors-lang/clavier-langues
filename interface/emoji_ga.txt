@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « ga » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	cnaipe new comhartha nua
+🧑‍🤝‍🧑	daoine a bhfuil greim láimhe acu ar chéile daone lámh lanúin lánúin
+◽	cearnóg bán meán-bheag geoiméadrach meánchearnóg bheag bhán
+⛽	artola breosla caidéal peitreal pumpa stáisiún peitril
+🔓	glas neamhghlasáilte oscailte
+👄	áilleacht béal béaldath pógadh
+🍴	béile bia bialann blasta bricfeasta dinnéar forc ocras sceana scian agus
+🏒	bata agus cnag haca oighir cluiche oighear
+💦	aclaíocht a dhéanamh allas braoiníní allais braonta broainíní stealladh uisce
+🎐	an ghaoth ceiliúradh clingíní gaoithe
+😼	aghaidh ainmhí cat dóite íoróineach meangadh straoiseog cait le miongháire
+😉	aghaidh caochadh mealltach radaire straoiseog ag
+📛	ainm suaitheantas
+🚉	bóthar iarainn dart iarnród luas stad na traenach stáisiún traein
+💌	croí grá litir post rómánsúlacht vailintín
+🆘	cabhair cnaipe comhartha cabhrach sos fóirithint
+🛙	comhartha dóchas farraige léargas loingseoireacht muirí rabhchán solas treoir
+🍯	bia mil pota meala próca
+😿	aghaidh ainmhí brón cat ag gol deora
+🫜	biatas fréamh gairdín glasra tornapa
+😳	aghaidh dhearg lasta ionadh mearbhall straoiseog te teas tógtha trí chéile
+🚨	bonnán carr gardaí éigeandáil póilíní rabhachán solas rothlach
+🚌	bus buí feithicil ollcharbad scoil
+🌇	breacdhorcha foirgneamh gréine luí na
+🔝	aníos barr agus saighead thuas mullach bhairr top suas uachtar
+🙊	ainmhí moncaí nach labhraíonn faoin olc ndeir aon ná labhair
+🐙	ainmhí ochtapas
+🕦	11 11:30 30 am aon déag clog leathuair tar éis a haon
+🕞	3:30 clog leathuair tar éis a trí
+🙌	ardú lámha ceiliúradh gotha hurá lámh ardaithe moladh na
+🚗	carr feithicil gluaisteán tiomáint
+🕥	10 10:30 leathuair tar éis a deich
+🥱	aghaidh ag méanfach am codlata ar nós cuma liom dubh dóite leamh straoiseog tuirseach zz zzz zzzz
+🐎	ainmhí capall rásaíochta eachaí feirm rásaíocht
+👩‍🚒	bean comhraiceoir tine dóiteán inneall dóiteáin
+🪉	ceol ceolfhoireann cúipid grá uirlis
+🫁	anáil análú ball coirp scamhóga scámhóga
+📲	cuir glaoch fón póca le saighead guthán
+💚	croí glas grá mo chroí thú ghrá mothúchán rómánsúil uaine
+📶	aeróg le barraí comharthaí fóin guthán láidreacht
+🫦	ag baint greim as an liopa béal mealltach buartha cliúsa
+🌅	éirí na gréine grian maidine nádúr
+🌂	báiste báisteach fearthainn scáth báistí dúnta fearthainne
+🍲	bia pota le stobhach
+🪜	dreapadh dréimire dul in airde runga
+✅	cnaipe ticmhairc curtha i gcrích déanta marc tic ticmharc
+📑	clibeanna leabharmhairc leabharmharc leabharmharcanna marcáil táib
+👣	cos loirg choise lorg coise troigh
+👀	ag féachaint aghaidh féach gbdo súile
+🤸	aclaíocht bunoscionn casadh cleas an rotha duine gleacaíocht léim thar a corp rothalchleas rothchasadh sásta sona
+⭕	ciorcal dearg toll mór o
+😆	aghaidh béal ar oscailt fuirseoireacht gáire os ard greannmhar haha lol meangadh miongháire sásta straoiseog ag le súile dúnta go dlúth
+🔄	athnuaigh cnaipe saighead tuathail cúlchas saigheada tuathal
+🟢	ciorcal glas
+🧗	airde an mullach a bhaint amach caitheamh aimsire carraig cnoc deapadóir dreapadóir duine ag dreapadóireacht fána ghéar fearas dreapadóireachta
+🌟	lonrú réalt réalta ag
+🤧	aghaidh breoite sraoth straoiseog ag sraotharthach
+🔛	ar siúl marc on saighead
+🪫	cadhnra íseal ceallra lag cumhacht
+⏰	aláram alárm an t-am clog aláraim déanach
+🥕	bia glasra meacan dearg
+➿	lúb chatach dhúbailte
+🥂	champagne deoch deochanna gligleáil gloine gloiní a ghligleáil sláinte
+🪲	ainmhí ciaróg feithid míol
+🩹	bindealán greamaitheach
+🟧	cearnóg fhlannbhuí flannbhuí oráiste
+📍	léarscáil mapa suíomh tacóid chruinn
+😽	aghaidh ainmhí cat ag pógadh póg súil
+🐤	ainmhí éan éinín gearrshicín sicín
+🤵	culaith dhinnéir duine a bhfuil air le nuaphósta fear seaicéad
+🛼	scáta rothach scátáil spórt
+🧩	comhghlasáilte leid mír mearaí míreanna nod píosa tomhas
+🛝	sleamhnán súgartha súgradh
+🔇	balbh balbhaithe callaire ar ceal maothaithe ciúin ciúinas fuaim gan fhuaim glór
+🏥	dochtúir foirgneamh leigheas lia míochaine ospidéal otharlann
+🚔	carr gardaí ag teacht feithicil póilíní
+💶	100 airgead airgeadra banc euro nóta bainc saibhir
+🥭	bia mangó torthaí trópaiceach
+🫂	barróg a bhreith buíochas cairdeas compord croí isteach daoine dia duit grá slán fhágáil
+🔳	cearnóg bhán cnaipe geoiméadrach imlínithe
+💹	banc cairt dul i méid margadh ag éirí méadú le yen
+🧺	birdeog cis ciseán ciseog cléibhín cliabh cliabhán feirmeoireacht giúróg muirleog níochán picnic
+😖	ar buile brónach frustrachas mearbhall straoiseog le uirthi trí chéile
+🔐	faoi ghlas glas dúnta agus peann rothair glasáilte le heochair slán
+🈯	cnáipe seapáinis coinnithe cnaipe seapáinise seapánach
+🏦	banc foirgneamh
+🍧	bearrtha bialann milis milseog oighear reoite
+🧍	duine ina seasamh sheasamh seas
+🟠	ciorcal flannbhuí oráiste
+⛔	comhartha cosc ar iontráil thrácht níl cead dul isteach
+✊	buille carraig dlúthpháirtíocht dorn ardaithe teannta dúnta
+🌜	aghaidh ghealaí ina ceathrú dheireanach brionglóidí deireanach na gealaí le haghaidh
+😹	ag gáire aghaidh ainmhí áthas cat deora straoiseog cait le áthais
+🧾	admháil cuntasaíocht fianaise leabharchoiméad sonrasc
+🪩	coisir dioscó liathróid scátháin
+🏇	capall rása each gearrán marc marcaí marcaíocht rás rásaíocht chapall rith spórt
+👦	buachaill macán óg
+🏸	badmantan cluiche éinín eiteán raicéad slacán
+🥜	bia cnó glasra pis talún
+📱	cumarsáid fón póca guthán soghluaiste
+🕎	coinnleoir craobhach creideamh meanóra
+🚙	carr feithicil áineasa gluaisteán suv tiomáint
+🖤	croí dona dubh gránna mailíseach urchóideach
+🪬	bos cosaint hamsa
+🚴	clogad duine ar rothar lúthchleasaí rása rothaí rothaíocht spórt
+🍷	alcól beár bialann club deoch deochanna fíon gloine meisciúil ól ólachán
+💊	breoite cógais dochtúir drugaí leigheas piolla piollaí tinn
+🍀	4 ádh ádhúil ámharach ceithre duilleog éireannach planda rath seamair mhuire séan
+🪌	bain botún cealaigh ceartú cuimil earráid léirscrios líníocht scríbhneoireacht scrios
+😷	aghaidh agus masc uirthi breoite dochtúir fiaclóir fuar leigheas máinliachta straoiseog le leighis tinn
+📆	féilire instróicthe le stróiceadh
+🙉	ainmhí moncaí nach gcloiseann aon olc ná clois
+💱	airgead airgeadra banc malartán malartú airgid
+🩻	cnámha x-gha
+🏠	baile bruachbhaile foirgneamh teach tógáil
+📙	buí flannbhuí leabhar leabharlann léamh léitheoireacht oideachas oráiste
+🥔	bia fata fataí glasra práta prátaí
+💮	bán bláth
+🥌	carraig cloch churlála cluiche curláil
+💩	cac asail cacamas carn caca raiméis truflais
+🍳	bialann bricfeasta cócaireacht friochadh friochta friochtán ubh
+🦈	ainmhí craosaire iasc siorc
+🌼	bláth bláthú caisearbhán cam an ime planda
+😜	ait amaideach caochadh straoiseog ag le teanga amach agus súil á gobadh churtha
+🪁	eitil eitleog in airde
+⛎	nathair nimhe ophiuchus stoidiaca
+🍾	beár buidéal corc deoch popáil
+🧇	bricfeasta iarann iarn neamhchinnte vaifeal
+🛞	bonn carr feithicil roth
+📜	páipéar scroll scrolla páipéir
+🧎	ar do ghlúine duine a glúine téigh
+🌕	gealach lán na ré lánré luan
+💽	diosca ríomhaire md miondiosca
+💙	croí gorm mothúchán tá grá agam ort
+📏	imeall díreach mata rialóir uillinn
+🥡	bia bosca beir leat greim gasta coimeádán oisre
+🕔	5 a chlog an chloig 5:00 t-am cúig
+🤩	aghaidh meangadh réalt réalta straoiseog faoi gheasa súile
+🟦	cearnóg ghorm gorm
+🐍	ainmhí nathair nimhe ophiuchus sealbhóir stoidiaca
+🐉	ainmhí dragan finscéal síneach
+🪎	airgead creach duais earraí luachmhara ór saibhreas seoda seoid
+💯	100 pointe a+ céad cinnte fíor fírinne go soiléir iomlán lán scór
+🌝	aghaidh ar ghealach ghealaí láine na gealaí geal gealach
+♏	an scairp scorpion scorpius stoidiaca
+🪞	scáil scáthán smideadh
+💅	cosmaidí dubh dóite lámh-mhaisiú smideadh vearnais ingne
+🫫	acmhainneacht ag briseadh cumhdach titim as a chéile claochlú nocht teannas
+🈁	cnaipe seapáinise anseo katakana seapáinis seapánach
+🍵	cluas cupán deoch ól tae taechupán úlang
+⏳	ag fanacht am orláiste gainimh lán uaineadóir uaireanta
+🌙	an ghealach corrán gealaí gealach luan ré
+🤭	aghaidh le lámha ar an mbéal gan choinne rún scig-gháire scigireacht sciotaíl straoiseog lena lámh a béal
+🥗	bia glas glasraí sailéad
+🈹	cnaipe seapáinise lascaine saor in aisce seapánach
+🔔	clog cloigín eaglais fuaim séipéal sos
+🦹	bithiúnach coirpeach danartha drochdhuine gan trua taise glic gránna mímhacánta olc sárbhithiúnach sárchumhacht slítheánta
+🙎	cnáimhseáil díomách duine le phus orthu puisín air pusach gotha grainc a chur ort meallta pus roic bheith i do mhalaí smut suaite
+🫴	goitse greim inis dom lámh le bos suas ní fios
+👨‍🦽	cathaoir rothaí fear inrochtaineacht láimhe
+🙇	aiféala brón crom síos duine ag umhlú gabh mo leithscéal impigh machnamh maithiúnas tá orm mé buartha trua
+🔈	callaire íslithe fuaim
+🍋‍🟩	citris géire líoma manglam margarita mojito salsa sú tequila torthaí trópaiceach
+🪖	arm clogad míleata cogaíocht saighdiúir
+🪰	cuileog feithid lotnaid
+👧	an mhaighdean cailín iníon loinnir ina súile óg stoidiaca trilseáin
+🍂	duilleog thite fómhar titim
+🍝	bia bialann pasta spaigití
+🧑‍🦼	cathaoir rothaí duine innealta inrochtaineacht
+🏂	clár sneachta clárscimeálaí marcaíocht scimeáil spórt
+🏬	foirgneamh ranna siopa ilrannach
+🤾	aclaíocht caith duine ag imirt liathróid láimhe lámh lúthchleasaíocht pinniú
+🌳	caitheamh an duilliúir coill crann duillsilteach foraois glas gnáthóg
+🏐	cluiche eitpheil liathróid
+🧴	buidéal lóise foltfholcadh lóis maothóir seampú shampoo uachtar gréine ungadh
+💨	broim rith sciuird tapa
+🪱	cuiteog feithid péist talún seadán
+🫕	bia cáis eilvéiseach fondú leáite pota seacláid
+🕧	12:30 an t-am do dhéag leathuair tar éis a dó
+🥣	babhla brachán bricfeasta congee gránach leite spúnóg
+🍞	arán bia bialann builín aráin
+🌚	aghaidh na gealaí nua éadan gealach úr le haghaidh luan ré spás
+🦨	boladh bolladh scúnc
+🚹	comhartha fear fir leithreas na bhfear seomra teach an asail
+🪅	ceiliúradh cóisir meicsiceach milseáin piñata
+🪢	achrann casadh lúb snaidhm sreang téad
+🫢	a dhia aghaidh alltacht aniar aduaidh béal ciúin cnead díchreideamh ionadh iontas lámh náire oscailte scanraithe stangadh súile thar uamhan
+🎻	ceol fidil uirlis veidhlín
+🛫	aerfort aerthaisteal dul ar eite eitleán feithicil imeacht eitleáin imeachtaí seiceáil isteach taisteal
+💐	bláth breithlá comóradh crobhaing bláthanna grá
+👎	-1 cáineadh lámh ní haontaím hea ok ordóg síos thíos
+🤟	comhartha láimhe grá mo chroí thú lámh méara ghrá trí tusa
+♋	an portán cancer stoidiaca
+🦸	banlaoch cumhacht cumhachtaí osnádúrtha íocónach laoch maith neart dochreidte sárbhean sárchumhacht sárfhear sárlaoch teacht aniar
+👏	ar fheabhas bualadh bos comhghairdeas lámha maith thú
+🧚	lucharachán na daoine beaga púca sí síbhean sióg síog síogaí síscéal
+🏢	cathair foirgneamh oifigí oifig post
+🧻	leithreas páipéar rolla tuáillí
+🔅	cnaipe íslithe gile íseal
+🆓	cnaipe saor in aisce comhartha free
+🪛	scriú scriúire seiftiúil uirlis
+📖	eolas leabhar ar oscailt leabharlann léamh léitheoireacht oideachas oscailte úrscéalta
+🍬	bialann milseán milseog oíche shamhna
+🃏	an buachaill mór cárta imeartha cluiche fear na gcrúb
+🧪	ceimic ceimiceoir eolaíocht promhadán saotharlann triaileadán turgnamh
+🍟	bia sceallóga
+🌏	an áis áise astráil domhan cruinneog ag taispeáint na hásie agus hastráile
+🧵	biorán eiteán fuáil snáithead snáth spól snátha téad
+🆎	ab fuil fuilghrúpa grúpa
+👩‍🍼	babaí bean ag beathú linbh duine máthair naíonán
+🕛	00 12 a chlog an chloig 12:00 dó dhéag am clog dódhéag
+🍰	brioscarán cáca císte iarbhéile milis milseog mír slisín taosrán
+🦩	ainmhí éan éaneolaíocht lasairéan péacach trópaiceach
+😁	gáire meangadh miongháire straoiseag le súile ag déanamh straoiseog a bhfuil mór uirthi gháire &
+⬛	cearnóg dubh mór mhór dhubh geoiméadrach
+🪻	bláth bláthaigh corcra earrach hiasaint labhandar líológ lúipín gorm planda plúirín sailchuach srubh lao tor
+🖖	cuirtéis bholcáin ladhar lámh lámha méar spock star trek
+🪍	bailigh ceap i ngaiste mogalra
+⌚	am clog uaireadóir
+🐯	aghaidh tíogair ainmhí tíogar
+🚧	á thógáil bacainn comhartha tógála suíomh tógáil
+🔵	ciorcal mór gorm geoiméadrach
+🌄	éirí na gréine ar shléibhte thar sléibhte fáinne an lae grian maidine maidin sliabh
+🚾	leithreas na leithris
+📮	an post bosca litreacha poist litir
+🦽	cathaoir rothaí inrochtaineacht láimhe
+🌁	ceo ceomhar
+🫈	arracht clúmhach fathach fear fiáin foraois gruagach sasquatch yeti
+🦷	bán déad cailce fiacail fiacal fiacla fiaclóir
+🪺	éan nead le huibheacha neadú ubh uibheacha
+🐜	ainmhí feithid seangán
+🔋	cadhnra ceallra
+🟡	buí ciorcal
+🌑	dorcha duibhré fánas gealach nua ré spás úr
+😩	ag caoineadh míshásta ocrach straoiseog thraochta tuirse tuirseach
+🛒	carbad ollmhargadh siopadóireacht tralaí
+🆗	ceart go leor cgl cnaipe ok cnáipe comhartha
+🪝	croch crúca duán
+🥞	bia císte te crêpe pancóg pancóga
+💳	airgead tirim banc cáirde cárta creidmheasa creidmheas
+🦗	criogar féir dorsán dreoilín teaspaigh feithid míol píobaire fraoigh
+🫛	edamame faighneog pise piseanna glasra léagúm pis pónairí
+🥧	líonadh pióg taosrán toradh
+🧸	art béar béirín bréagán mathúin pluis rud imeartha stuáilte súgradh teidí
+🧛	diúl dracula fuil neach osnádúrtha neamh-mharbh oíche shamhna scanrúil starrfhiacla súigh súmaire vaimpír
+🟪	cearnóg chorcra corcra
+🐱	aghaidh cait ainmhí cat peata
+🦺	éigeandáil sábháilteacht veist sábháilteachta
+🈴	cnáipe seapáinis pasmharc cnaipe seapáinise seapánach sínis
+🍏	bia glas toradh úll
+🌠	oíche réalt réalta reatha spás
+❌	cealaigh crosmharc iolrúchán marc méadaigh méadú x
+🐸	aghaidh froig frog loscann
+🧀	cáis ding cháise mír
+🪕	bainseó ceol téadach
+🐩	ainmhí madra púdal
+🦻	áis allaíre cluas éisteacht inrochtaineacht
+👩‍🦼	bean cathaoir rothaí innealta inrochtaineacht
+🧙	asarlaí asarlaíocht cailleach cleasach draíocht draíodóir draíodóireacht draoi duine draíochta
+👨‍🏫	fear léachtóir múinteoir ollamh teagascóir
+💄	béaldath coinne cosmaidí smideadh
+🚘	ag teacht carr gluaisteán
+👨‍🏭	cóimeáil fear monarcha oibrí monarchan fireann tionscal tionsclaíoch
+🏣	foirgneamh oifig an phoist de chuid na seapáine seapánach post
+🫐	bia caora deoch fraochán sméara toradh triopall
+🦑	ainmhí bia moileasc scuid
+🐵	aghaidh ainmhí banana moncaí
+🧊	ciúb oighir cnoc fuar oighear
+🤿	masc tumadóireachta scúbadóireacht snorcláil tumadóireacht tumasdóireach
+📼	físeán fístéip sean seanstíl téip vcr vhs
+💟	croí corcra maisiúchán mothúchán
+🎥	bollywood ceamara hollywood pictiúrlann scannán scannánaíocht siamsaíocht taifead
+🧥	brrr cóta fuar seaicéad
+🐽	aghaidh ainmhí muc srón muice
+👭	aerach beirt bhan le chéile cairde deirfiúracha greim láimhe iníonacha lámh leannán leispiaigh mná
+🚝	aonráille feithicil traein
+🩷	álainn bándearg croí gleoite grá mo chroí thú is maith liom ghrá mothúchán speisialta taitneamhach
+🧑‍🎓	mac léinn
+🏡	baile bruachbhaile foirgneamh gairdín teach agus le ghairdín
+😮‍💨	aghaidh ag análú anáil cnead cogar faoiseamh ochlán séideadh traochta
+🔣	〒♪&% comharthaí ionchur siombailí ionchuir
+🪚	adhmad sábh cearpantóireachta sábhadóireacht siúinéir siúnéir uirlis
+🧕	bandána bean le caifirín cumhdach cinn buadán cafarr caille chloiginn cídeog cochall hijab mantilla scairf tichel
+🦂	an scairp scorpius stoidiaca
+➖	- comhartha lúide mata
+😮	béal ar oscailt dearmad déanta air dochreidte ionadh straoiseog le oscailte
+🪸	aigéan an t-athrú aeráide coiréal farraige sceir
+🚊	bus tralaí feithicil luas riancharr tram
+😟	brónach buartha faoi strus imní neirbhíseach straoiseog imníoch
+📇	cárta innéacs cártaí rolodex treorán
+🌽	arbhar indiach barra dias feirm grán buí
+📫	bosca litreacha dúnta le bratach ardaithe poist bhratach cumarsáid druidte iata post
+🚄	aibhléis amtrak ard-luas feithicil iarnród luas shinkansen traein ardluais
+🧑‍🎨	ealaíontóir
+🪪	cárta aitheantais ceadúnas
+🫖	deoch fliuchtar tae pota taephota
+🕘	9 a chlog an chloig 9:00
+🈵	cnáipe seapáinis níl aon folúntas cnaipe seapáinise fholúntas seapánach sínis
+🐔	ainmhí cearc éan sicín
+👩‍🦽	bean cathaoir rothaí inrochtaineacht láimhe
+🛗	ardaitheoir inrochtaineacht
+🍊	c citreas neachtairín oráiste táinséirín toradh vitimín
+🤒	aghaidh le teirmiméadar breoite go dona straoiseog tinn
+🎾	leadóg liathróid leadóige raicéad
+🤡	aghaidh bean ghrinn fear grinn fearr gáire
+💰	airgead tirim banc billiún bua dollar geall íocaíocht íoctha mála airgid milliún saibhir
+🛴	leanbh scútar gan inneall
+🪷	áilleacht bláth búdachas hiondúchas india loiteog síocháin suaimhneas vítneam
+🦉	ainmhí críonna éan stuama ulchabhán
+🐛	ainmhí feithid gairdín míol
+📣	fuaim meigeafón
+😱	ag screadaíl aghaidh screadach le heagla béic coscrach éadan eagla éamh faitíos munch scanradh scanraithe sceimhle scéin scread straoiseog béiceach amach uafás uamhan
+🥨	casta comhchasta preatsal
+📎	fáisceán páipéir fáiscín
+🍩	bia bricfeasta milis milseog taoschnó taoschnónna
+🐕	ainmhí ainmhithe madra peata
+🧑‍🧒‍🧒	fásta páiste teaghlach
+🪮	afro biorán cíor cóirigh gruaig
+🫗	doirteadh leacht a dhoirteadh uisce úps
+📳	fón póca guthán mód creatha
+💏	coinne grá póg pógadh
+🔮	cinniúint cruinneog chriostail síscéal uirlis
+🙆	ceart go leor cgl cleachtadh comharthaíocht lámh duine à dhéanamh ok ag comharthú gach rud i gceart gotha
+🏈	cluiche liathróid meiriceánach peil mheiriceánach spórt super bowl
+🥿	bróg bhailé chothrom dhúnta slipéar
+🦿	cos inrochtaineacht meicniúil próistéiteach
+💆	aghaidh cóireáil duine ag fáil suathaireachta scíth spá suaimhneas suathaireacht aghaidhe teannas teiripe tinneas cinn
+🫯	argóint bruíon coraíocht díospóid easaontas scliúchas troid
+🫰	airgead costasach croí grá lámh a bhfuil corrmhéar agus ordóg trasna ar chéile
+🥯	arán bácús béigeal schmear
+🦜	ainmhí caint éan foghlaí mara pearóid peata
+👨‍🌾	fear feirmeoir fireann garraíodóir rainseoir
+👖	bríste brístí géine deireadh seachtaine denim éadach éadaí gorm siopadóireacht treabhsar
+🦕	brachiosaurus brontasár dineasár diplodocus sárapód
+🚯	coiscthe comhartha cosc ar bhruscar ná caitear bruscar
+🩱	aonphíosa culaith shnámha snámh
+➕	+ comhartha mata móide
+😡	aghaidh fearg feargach pus smut straoiseog le puisín uirthi
+🥋	crios dubh culaith ealaíne troda éadach ealaín chomhraic júdó karate spórt taecuando
+🐣	ag teacht as an ubh ainmhí éan éinín naíonán
+👑	banríon coróin duine de theaghlach ríoga game of thrones rí
+🏆	an bua corn curadh duais spóirt
+🦔	dealg dealga dealgach gráinneog spíonach
+✋	bosa in airde lámh ardaithe páipéar stop
+🔪	arm cistin cócaire cócaireacht hocho scian uirlis
+🪔	diya lampa ola solas
+🐏	ainmhí ainmhithe an reithe caora fireann stoidiaca
+🟣	ciorcal corcra
+🥦	brocailí cabáiste fiáin
+👜	éadaí mála láimhe
+🍎	aibí aiste bia dearg sláinte toradh úll
+🍜	babhla núdal bia gal núdail ramen te
+🐓	ainmhí ainmhithe coileach éan éanlaithe
+🪑	cathaoir suí suíochán
+🧠	cliste éirimiúil inchinn
+📘	gorm leabhar leabharlann léamh oideachas
+🛬	ag teacht tuirlingt eitleán feithicil eitleáin teachtaí tuirling
+🍘	bia craicear ríse
+🦚	bródúil cearc phéacóige éan mórtasach mórthaibhseach péacóg sotalach thar fóir
+🎆	ceiliúradh tine ealaíne tinte tormán
+🫌	athrú bolb claochlú dóchas feithid imirce leochaileach meiteamorfóis
+🤯	baineadh geit asam croitheadh bainte pléascadh straoiseog lena ceann ag pléasadh suaite
+🟩	cearnóg ghlas glas
+🈲	cnáipe seapáinis cosc cnaipe seapáinise seapánach
+😈	adharca diabhlaí meangadh gáire miongháire straoiseog ag le hadharca
+💗	croí ag fás grá mothúchán neirbhíseach xoxo
+🔼	cnaipe suas dearg saighead triantán beag
+🎈	balún breithlá ceiliúir ceiliúradh cóisir éadromán lá breithe
+🦀	an portán cancer stoidiaca
+🩸	braoinín fola cuir fuil deonú gortú leigheas míostrú
+📄	doiciméad iompaithe leathanach páipéar suas
+🐋	aigéan ainmhí míol mór trá
+🍌	banana bananna toradh
+🤕	aghaidh le bindealán ar a cheann dochar gortaithe pian straoiseog ceann
+👡	bean bróg cuarán éadaí mná
+🏤	an post eorpach foirgneamh oifig phoist
+🏓	bata cluiche leadóg bhoird liathróid ping pang slacán
+🧁	bacús bácús bonnóg borróg císte cístín cupa milis milseán milseog siúcra
+🌲	coill crann giúise na nollag giúis péine síorghlas
+🎂	breithlá cáca breithe ceiliúradh císte cóisir lá sona milseog
+💋	beola croí marc póg póga
+🤔	ag machnamh smaoineamh aghaidh machnamhach straoiseog
+⛳	brat gailf i bpoll galf poll spórt
+🧫	baictéir bitheolaí bitheolaíocht mias petri saotharlann saothrán
+🥠	brioscán feasa tairngreacht táirngreacht
+👐	ar oscailt lámha oscailte
+😃	béal ar oscailt meangadh gáire sásta straoiseog ag le súile móra miongháire oscailte
+👅	colainn corp luí teanga amach
+🤨	aghaidh le mala ardaithe amhras amhrasach ionadh sceipteach straoiseog
+🎌	bratacha na seapáine trasnaithe seapánach
+💫	meadhrán mearbhall réalta reatha réaltaí
+🤹	fear iltascáil ionramháil láimhseáil lámhchleasaí lámhchleasaíocht liathróid rudaí a go cothrom scil taispeántas
+📠	cumarsáid facs meaisín facsála
+🚪	cúldoras doras tosaigh
+🥹	á deora áthais led thoil straoiseog ag coinneáil siar na
+🌖	caolú na ré cúlú gealaí gealach ag caitheamh dul ar gcúl scothlán atá goin seanghealach spás
+🙏	ag guí impí lámh lámha le chéile paidir
+🧑‍🎤	aisteoir amhránaí rac réalta siamsóir
+🪥	féinchóiriú fiacail glan scuab fiacla seomra folctha sláinteachas
+🏄	aigéan béal na toinne duine ag surfáil oibriú san fharraige spórt surfálaí tonnta trá
+👩‍🔬	bean bitheolaí ceimiceoir eolaí baineann fisiceoir innealtóir matamaiticeoir
+🤺	claíomh duine pionsóir pionsóireacht
+🎠	capall roithleagán siamsaíocht
+🈳	cnáipe seapáinis folúntas cnaipe seapáinise seapánach sínis
+🔥	dóiteán lasair lasracha te tine trí thine uirlis
+🪿	ainmhí amaideach ealta éan éaneolaíocht éanlaith gandal gé géanna lacha scaoth scread
+🍨	bia bialann milis milseog reoite uachtar
+🕓	4 a chlog an chloig 4:00 t-am ceathair
+🔯	giúdach giúdachas rath réalt réalta sé-rinneach agus ponc sa lár shé-rinneach le
+📉	cairt íslitheach síos graf sonraí treocht
+🐀	ainmhí francach
+👟	bróg reatha éadaí
+📯	adharc corn poist
+😅	béal ar oscailt faoi strus fuar fuarallas meangadh gáire neirbhíseach straoiseog ag le
+🦛	ainmhí dobhareach hippo
+🌛	aghaidh ghealaí céad cheathrú na gealaí le haghaidh ceathrú corrán éadan gealach spás
+👔	carbhat dáiríre éadaí fostaithe léine
+🧡	croí flannbhuí mo ghrá thú oráiste
+❔	ceist comhartha ceiste bán imlínithe marc poncaíocht
+🐺	aghaidh mic tíre ainmhí faolchú mac
+🪹	craobh nead fholamh neadú
+🤴	duine ríoga prionsa
+🌘	corrán dul ar gcúl gealach spás
+🩺	croí dochtúir doctúir leigheas steiteascóp
+🍣	bia sushi
+🍢	bia mara ar chipín
+🦐	beag bia ribe róibéis sliogiasc
+🫺	ar dheis greim méar a dhíriú neodrach seo sin
+🍮	custard milis milseog
+🥐	arán bia corrán croissant francach fuineadh rollóg chorránach
+🔖	leabharmharc marc
+🥟	bia domplagán empanada gyōza jiaozi pierogi potsticker
+🎭	aghaidhmhasc aisteoir amharclann ealaín ealaíon léiriú na taibhealaíona siamsa siamsaiocht siamsaíocht taibh-ealaín taibhdhearc taibhiúchán taibhsiú
+🈚	cnaipe seapáinise saor in aisce cnáipe seapáinis seapánach
+🚋	bus tralaí carr carráiste tram feithicil luas riancharr
+🚦	ceartingearach comhartha crosbhealach solas stad stopsholas tiomáinte trácht
+😒	aghaidh mhíshásta cgl dubh dóite míshásta straoiseog
+🔹	gorm muileata beag
+🪴	cothú fás fásra glasra leadránach planda pota
+🧰	aidhleann bocsa dearg bosca uirlisí cófra déan tú féin é diy lámhuirlis meicneoir uirlis
+🦃	cearc fhrancach éan gogal lá an altaithe nollaig turcaí
+🍄	beacán bearaigh fás aon oíche fungas mario púca peill
+🟤	ciorcal donn
+🫱	croitheadh láimhe lámh ar dheis sín amach
+🧟	arracht arrachtach badhbh neamh-mharbh neamhshaolta scanrúil uaigneach zombaí
+👨‍🎤	aisteoir amhránaí fireann boc mór fear réalt roc siamóir siamsóir
+🫩	codlatach traochta tuirseach
+🤗	ag beir barróg aghaidh a thabhairt lámha straoiseog tabhairt barróige
+⏩	ar aghaidh cnaipe mearchasaidh deas gasta mearchasadh saighead dúbailte dheis
+🕜	1 1:30 30 a chlog haon am aon clog leathuair tar éis tríocha
+📈	cairt mhéadaitheach fás graf sonraí treocht
+🦆	ainmhí éan lacha
+🤼	babhta coraíochta comórtas coraí coraíocht daoine ag iomrascáil duine iomrascálaí spórt téigh chun comhraic turnaimint
+🎶	ceoil ceol fuaim nóta nótaí
+🦁	aghaidh leoin ainmhí leo leon stoidiaca
+🤏	beag lámh ag pinseáil méara píosa
+🪄	bob cailleach feasa draíocht draíodóir draoi geis slat draíochta
+🆖	cnaipe comhartha ng
+😙	143 aghaidh coinne éadan meangadh miongháire póg pógadh rosc straoiseog ag le súile déanamh súil gáire dúnta
+🙍	buartha corraithe díomách duine le púic air gotha gruama meallta míshásta níl sí sona suaite
+🚂	bóthar iarainn cabús feithicil gal gal-inneall galinneall iarnród inneall traenach scruinge taisteal traein traenacha
+👰	bainis brídeach brídeog le caille uirthi duine air pósadh
+🚭	caitheamh tobaic coiscthe comhartha cosc ar thobac níl cead toirmiscthe toitíní
+😨	buartha eagla faitíos straoiseog eaglach
+🎼	ceoil ceol nóta scór
+🤦	a thiarcais aghaidh ina bos ar mire ciaptha de spadhar duine lena bhos gbdo lámh ní chreidim ó bhó go deo stop
+📞	comhrá cumarsáid faighteoir fón glacadán fóin glao guthán teileafón voip
+🚎	bus feithicil riancharr tralaí
+🔢	1234 ionchur uimhreacha ionchuir
+🪣	buicéad gorm gogán paol síothal tobán
+😾	aghaidh ainmhí cat le puisín air
+🥢	cipíní itheacháin hashi jeotgarak kuaizi
+🏑	bata cluiche haca liathróid páirc
+🎢	aonach iarnród bíse páirc siamsaíochta rollchóstóir siamsaíocht
+🐭	aghaidh luiche ainmhí luch luchóg
+😧	aghaidh cráite faoi strus míshásta straoiseog chráite
+🐷	aghaidh muice ainmhí muc
+🫣	cotúil faoi dhraíocht gliúc gliúcaíocht spléachadh stánadh straoiseog le súil ag píceáil
+🍈	cantalúp mealbhacán toradh
+🤛	ar chlé dorn na láimhe clé
+🙋	anseo ceist cuideoidh mise leat duine ag ardú láimhe lena lámh suas gotha á hardú in airde roghnaigh sona tá a fhios agam
+🚲	bus feithicil rothaíocht rothar glas
+🍑	péitseog toradh
+🌍	an afraic chruinne domhan eoraip cruinneog ag taispeáint na heorpa agus hafraice
+👬	aerach beirt fhear a bhfuil g le chéile cairde duine fear i ngrá lámha
+🐗	ainmhí muc torc
+🤎	croí donn mo ghrá thú
+🚃	bóthar iarainn bus tralaí carr ráille carráiste iarnróid feithicil iarnród iompar poiblí leictreach riancharr taisteal traein tram
+🎤	ceol karaoke karoke micreafón siamsaíocht
+👿	an t-olc deamhan diabhal diaibhlín straoiseog fheargach le hadharca
+📡	aeróg satailíte shatailíte eolaíocht mias satailít teagmháil
+🫨	aghaidh ag croitheadh crith talún turraing
+🤜	ar dheis dorn na láimhe deise
+🌰	almóinn cnó capaill planda
+🐨	ainmhí béar cóála
+📚	eolas leabhair leabhar leabharlann léamh léitheoireacht oideachas scoil staidéar úrscéalta
+🌿	duille duilleog luibh planda
+♍	an mhaighdean stoidiaca virgo
+📂	comhad fillteán comhaid oscailte oscail
+🔠	abcd ceannlitreacha laidineacha ionchuir laidineach litreacha
+🔗	naisc nasc
+🔱	comhartha trírinne trírinn uirlis
+🥒	bia cúcamar cularán gircín glasra
+⏪	clé cnaipe siar ar luas saighead dúbailte chlé
+🥁	ceol druma drumaí rac-cheol
+📅	dáta féilire
+👨‍🦼	cathaoir rothaí fear innealta inrochtaineacht
+🍚	bia rís bhruite chócaráilte cócaráilte
+🐆	ainmhí ainmhithe liopard
+☔	aimsir báisteach braon éadaí fearthainn scáth báistí le braonta baistí
+🍼	babaí babaithe bainne breith buidéal deoch naíonán nuabheirthe rugadh
+🎳	babhláil cluiche liathróid bhabhlála spórt stríoc
+🪭	blosc claic cliúsaíocht croitheadh cúthail damhsa fean fionnuar fuarú infhillte te
+🍉	mealbhacán uisce toradh
+🎄	ceiliúradh crann na nollag nollaig
+🔲	cearnóg dhubh cnaipe
+🧑‍🌾	feirmeoir
+🚩	bratach chuaille thriantánach galf
+🦓	séabra stiall stríoc
+🍗	cnámh cos éineoil sicín turcaí
+🥮	cáca gealaí féile fómhar yuèbǐng
+🏪	24 uair an chloig áisiúlacht díolbhoth foirgneamh siopa áise
+🍓	caor sú talún toradh
+🤚	ardaithe cúl láimhe in airde na lámh
+📩	amach clúdach litreach le saighead cumarsáid ríomhphost saighdead seol
+📓	ceap nótaí leabhar
+👥	cabhlacha cách cairde cara coirp daoine gach duine scáthchruth ceann
+📊	barrachairt barraghraf cairt graf sonraí
+🗽	dealbh na saoirse nua eabhrac
+🕒	3 a chlog an chloig 3:00 t-am clog trí
+🪋	ag titim an spás apacailipsis caor thine carraig domhantarraingt réalta
+👓	feisteas spéaclaí gréine súil
+🚰	comhartha uisce óil inólta
+🎽	léine reatha rith sais spórt t-léine
+😴	am luí codladh ina chodladh néal codlata oíche mhaith straoiseog suan tuirseach zz zzz zzzz
+🎦	pictiúrlann scannán siamsaíocht
+🥏	diosca eitilte friosbaí frisbee is fearr
+🦡	ainmhí broc cráigh mil
+🎨	dathannach ealaín ealaíontóir pailéad dathanna péint pictiúr
+🍖	cnámh feoil ar an gcnámh chnámh le
+🔍	gloine formhéadúcháin ar chlé uirlis
+🌹	bláth dearg grá rós
+👩‍🚀	bean fearann roicéad spáis spás spásaire baineann
+🐚	ainmhí bís sligeán sliogán trá
+🎰	casino cluiche meaisín sliotáin
+🕺	bean damhsa damhsóir fear ag flamenco rince salsa tango
+🔡	abcd laidineach litreacha mionlitreacha laidineacha ionchuir
+👩‍🦯	bán bean cána cuardach dall inrochtaineacht
+🕍	creideamh giúdach giúdachas giúdaigh sionagóg teampall
+🛁	folcadán
+💘	coinne croí agus saighead grá mothúchán
+🥍	báire bata crosógaíocht cúl lacrosse liathróid spórt
+🧑‍🔧	meicneoir
+😍	croíthe grá meangadh gáire póg staoiseog ag le ina súile straoiseog shúile i bhfoirm croí xoxo
+🆑	cl cnaipe comhartha glanta glan
+🧃	bosca dí deoch milis sop sú
+👒	éadaí hata mná
+♌	an leon leo stoidiaca
+🌞	aghaidh ar ghrian aimsir an le haghaidh geal grian grianmhar lá solas na gréine taitneamh teas trá
+🍆	glasra ubhthoradh
+😊	meangadh gáire miongháire sásta straoiseog ag le súile déanamh aoibhiúil súil
+🫸	bosa in airde ar dheis brú láimhe diúltaigh fan stop
+💲	$ airgead airgeadra billiún comhartha dollair trom dollar íoc milliún táille
+🦍	ainmhí goraille
+🌈	aerach aiteach an aimsir bogha báistí déghnéasach éighnéasach leispiach trasghnéasach tuar ceatha
+🙂	aghaidh áthas miongháire straoiseog ag de bheagán
+🧭	adhmainteach compás loingseoireacht maighnéadach treo treodóireacht
+👞	bróg fir éadaí
+🩳	bríste culaith fo-éadaí gearr shnámha snámh
+🧑‍🚀	roicéad spás spásaire
+🕚	11 a chlog an chloig 11:00 t-am
+😵	aghaidh breoite meadhrán meadhránach straoiseog mheadhránach tuirseach
+📿	creideamh éadaí muince paidrín urnaí
+🤓	aghaidh saoithíneach aibí amaideach ciotachán cliste éirimiúil gaoiseach geocach ríomhaire saineolaí saoithín spéaclaí straoiseog shaoithíneach
+🪀	athraigh bréagán yó-yó
+🏫	foirgneamh scoile scoil
+🍹	ar meisce deoch thrópaiceach puins teach tábhairne
+🕝	14:30 2 2:30 30 a dó clog leathuair tar éis tríocha
+🕠	30 5 5:30 an t-am leathuair tar éis a cúig
+📟	cumarsáid glaoire
+🎵	ceoil ceol fuaim nóta
+👙	bicíní bikini éadaí snámha linn trá
+🩲	aonphíosa brístíní culaith fo-éadaí shnámha snámh
+🤑	aghaidh airgead béal íoctha straoiseog le hairgead ina
+🚛	bog carr feithicil gluaisteán leantóir leath leoraí altach lorraí trucail
+🥘	bia casaról éadomhain friochtán paella stobhach
+😘	aghaidh croí grá agam ort póg pógadh rómánsúil straoiseog ag séideadh póige
+🛺	ricseá tuc uathoibríoch
+👱	aghaidh duine le gruaig fhionn fionn
+🛂	pas rialú pasanna
+🪓	adhmad ciorraigh gearr scoilt tua
+🫝	anlann goinbhlasta blastán coip cúcamar gircín sáile trioblóid
+🔞	18 coiscthe os cionn srian aoise
+🤝	aontú beannú comhaontú croitheadh láimhe lámh síocháin tairiscint
+📒	leabhar nótaí mórleabhar
+🚥	comhartha cothrománach crosbhealach solas stad stopsholas trácht
+🔊	airde ard callaire fuaime ceol fuaim
+🐴	aghaidh ainmhí capaill capall each feirm gearrán marc
+😕	brónach measctha nílim cinnte straoiseog mhearaithe trína chéile
+🫑	bia capsicum glasra piobar
+🫄	barraíocht ite duine torrach
+🪐	fáinne pláinéad satarn satarnach
+🏅	bonn óir spóirt buaiteoir ór
+🏯	caisleán foirgneamh seápánach
+🌊	farraige kanagawa muir surfálaí tonn san uisce tonnmharcaíocht
+💿	blu-ray diosca optúil dvd ríomhaire
+🪦	adhlacadh bás cur leac uaighe marbh nach maireann
+⚾	cluiche corr daorchluiche liathróid spórt
+👈	ciotóg corrmhéar cúl cormhéar ag pointeáil ar chlé corrmhéire díriú lámh méar
+🦒	baill sioráf spotaí
+🌗	ceathrú deireanach gealach spás
+🚸	comhartha leanaí leanbh páiste páistí ag trasnú trácht
+🤳	ceamara féinín fón guthán
+🏀	cispheil fonsa cispheile liathróid spórt
+🚏	bus stad bhus
+🥷	comhrac duine feallmharfóir ninja púicín saighdiúir
+⚽	caid celtic liathróid messi peil ronaldo roy keane sacair sacar
+🚖	carranna feithicil gluaisteáin tacsaí ag teacht
+👂	ag éisteacht cluas cluasa corp fuaim
+👝	éadaí gúna máilín mála spiorán tiachóg
+📵	cosc ar fhóin phóca guthán
+🐳	aghaidh ainmhí míol mór ag séideadh
+😯	gbdo ionadh iontas straoiseog ina tost thostach
+🍫	barra seacláide milis milseán oíche shamhna seacláid
+🌋	bolcán brúchtadh bolcáin nádúr sliabh
+🧝	béaloideas clutharachán draíocht draíochtúil lucharachán na daoine beaga síofróg síogaí
+💛	buí cairdiach croí grá mo chroí thú ghrá mothúchán
+👨‍💻	bogearraí códóir cruthaitheoir fear forbróir ríomhaire teicneolaí fireann
+🐃	ainmhí ainmhithe buabhall uisce
+🧆	falafel millín feola sicphiseánach
+💎	airgead bainis cloch lómhar diamant geamchloch pósadh seoid
+🧑‍🚒	comhraiceoir tine dóiteán inneall dóiteáin
+📷	ceamara físeán grianghraf grianghrafadán instagram
+⛪	creideamh críostaí cros foirgneamh séipéal
+🚵	aclaíocht duine ag rothaíocht ar rothar rothaí sléibhe sna sléibhte sliabh
+🐟	ainmhí iasc na héisc stoidiaca
+🤥	aghaidh bréag bréaga pinocchio straoiseog ag insint
+😛	aghaidh ar fheabhas cóisir deas straoiseog le teanga amach
+🦵	cic cos géag glúin lúbtha
+🪒	bearradh géar gearr rásúr
+💈	bearbóir bearr bearradh gruagaire pol úrnua
+📹	ceamara físcheamara físeán grianghrafadán
+🛵	inneall innealta mótarscútar scútar
+💸	airgead ag eitilt le sciatháin tirim banc billiún dollar íoc milliún nóta
+🔦	lampa leictreach tóirse uirlis
+🧑‍🧑‍🧒‍🧒	fásta páiste teaghlach
+🚳	cosc ar rothair rothar feithicil
+🪵	adhmad brosna connadh crann lomán
+😂	ag gáire deora áthais mhór golgháire greannmhar haha hehe lol sásta sna trithí straoiseog le
+🐦	ainmhí éan éaneolaíocht
+🔩	bolta cnó agus uirlis
+🤠	aghaidh buachaill bó cailín hata straoiseog le
+🔉	callaire ar leibhéal meánach fuaime ísle fuaim
+💇	áilleacht bearbóir bearradh gruaige cosmaideolaíocht duine ag fáil gruagaire gruaig siopa stíl
+🧓	aosach aosta críonna duine sean seantuismitheoir
+👼	aingeal óg leanbh séipéal
+🪠	leithreas pluiméir suncaire uirlis
+👨‍💼	ailtire bainisteoir bóna bán fear gnó oibrí oifig
+🔃	athlódáil athnuaigh ciorcal saighead saigheada deisil ingearacha ingéaracha ar deiseal
+🦦	ainmhí iascaireacht madra uisce súgrach
+🗻	dúlra fuji nádúr sliabh
+🐖	ainmhí ainmhithe bagún banbh cráin mhuice feirm muc ramhar
+🧲	adhmaint adhmainteach aomadh cró capaill crú dearfach diúltach maighnéad maighnéadach tarraingt u chruth
+🚻	comhartha na leithreas cró gcearc leithris teach an asail
+💤	codladh sámh ina chodladh néal codlata oíche mhaith srannadh suan tuirseach zz zzz zzzz
+🔌	aibhléis leictreachas plogóid pluga leictreach
+🏺	amfara aquarius cócaireacht crúiscín crúisín crúsca deoch uirlis
+📻	físeán raidió siamsaíocht
+🧑‍🦯	bán cána cuardach dall duine inrochtaineacht
+🪗	bosca ceoil uirlis cheoil
+🍱	bento bia bosca lóin
+🔘	cnaipe raidió geoiméadrach
+🕙	00 10 a chlog an chloig 10:00 deich
+👻	aghaidh arracht púca samhain síscéal taibhse
+🧉	comrádaí deoch maité
+🫀	anatamaíoch ball coirp cairdeolaíocht corp croí cuisle
+🦭	ainmhí mór-rón rón
+👨‍🔬	bitheolaí ceimiceoir eolaí fireann fear fiscieoir fisiceoir innealtoir innealtóir matamaiticeoir
+🐫	ainmhí baictriach camall le dhá dhronn camalóid dromadaire dronn dronnóg fásach gaineamhlach
+♉	an tarbh stoidiaca taurus
+👨‍🍳	chef cócaire fireann fear
+🚢	bád feithicil long paisinéir taisteal titanic
+🥽	cosaint súl gloiní cosanta scuba snámh spéaclaí táthú táthúchán tumadh tumadóireacht
+🚟	carráiste feithicil iarnród crochta
+🔶	flannbhuí muileata mór oráiste
+🪡	bróidnéireacht fuáil fuála greamanna greim snáth snáthaid táilliúireacht uamanna
+⛺	campa campáil puball
+🙁	aghaidh brónach grainc straoiseog le mionghrainc uirthi
+👾	arracht eachtráin cluiche cluichí eachtrán arrachtaigh picteilíní úfó
+💷	airgead airgeadra banc nóta bainc puint punt
+🏉	liathróid peil rugbaí spóirt spórt
+❓	ceist comhartha ceiste dearg marc poncaíocht
+👩‍🎨	baineann bean ealaíontóir pailéad
+🐇	ainmhí ainmhithe coinín peata
+🌾	dias grán planda punann ríse rís
+🛷	carr sleamhnáin sleamhnán sneachta
+🌀	aimsir cioclón cuaranfa iomghaoth
+🦴	cnáimhín súgartha cnámh cnámha creatlach madra
+👨	buachaill cara fear stócach
+💥	buama plab pléasc pléascadh pléascán torann
+🗿	dealbh oileán na cásca moyai taisteal
+⛵	bád seoil ionad saoire luamh muir seoltóireacht
+🫵	corrmhéar ag díriú ar an mbreathnóir priocadh tusa
+🏰	caisleán eorpach foirgneamh
+🐞	ainmhí bóín dé ciaróg feithid
+🚆	bóthar iarainn feithicil iarnród sroichte tagtha traein
+🐕‍🦺	cabhair inrochtaineacht madra seirbhíse mardra seirbhís
+🐮	aghaidh ainmhí bainne bó
+🏮	bialann dearg izakaya laindéar laintéar seapánach
+😥	allas cinneadh crua díomá faoiseamh straoiseog a bhfuil díoma ach le agus uirthi dhíomá suaimhneas intinne
+🧤	lámh lámhainn lámhainní
+🐰	aghaidh ainmhí coinín peata
+🏨	foirgneamh óstán
+🍕	bia bialann cáis iodálach ocras pepperoni píotsa pizza slisín
+📗	leabhar glas leabharlann léamh léitheoireacht oideachas uaine
+🎇	ceiliúradh spréachaire tine ealaíne tinte
+🪳	blatóg choiteann ciaróg dhubh feithid lotnaid séchosach
+⚡	ard ardvoltas comhartha ardvoltais contúirt leictreachas splanc thoirní tintreach voltas
+⏬	cnaipe síos ar luas dúbailte saighead tapaigh
+🍻	alcól beár beoir cling clingeadh deochanna flagúin meisciúil mhaith ólachán sláinte
+🚺	bean comhartha na mban leithreas mná seomra
+👚	ban bean blús cába éadaí éadaigh gléasta gúna léine mná siopadóireacht
+🧳	bagáiste cás málaí pacáil rothaí taisteal
+♐	an saighdeoir sagittarius stoidiaca
+🚤	bád feithicil loch luasbhád samhradh taisteal
+📝	cumarsáid meabhrán meáin nótaí peann luaidhe
+🪨	carraig cloch daingean geolaíocht trom
+🍅	bia glasra toradh tráta
+📁	comhad fillteán
+🎁	beart breithlá bronntanas cóisir nollaig
+🧑	aosach duine fásta neodrach ó thaobh inscne de
+🚒	dóiteán feithicil inneall dóiteáin tine
+👷	atógáil clogad oibre deisigh duine fear oibrí tógála tógáil tógálaí
+🔤	abc aibítear laidin litreacha laidineacha ionchuir
+🚞	carr cábla sléibhe feithicil iarnród sliabh turas
+🌐	an domhan gréasán domhanda cruinneog le fadlínte idirlíon
+😸	aghaidh ainmhí cat meangadh miongháire straoiseog cait le súile súil
+🫡	a bhean uasal dhuine uasail ádh ag déanamh cúirtéise aghaidh cúirtéis grianmhar maith go leor meas mór sea trúpaí
+🟰	comhartha cothrom le freagra mata
+🚬	ag caitheamh tobaic ól toitín tobac cead a chaitheamh comhartha
+🆒	cnaipe cúláilte díobhálaí faiseanta
+🍺	alcól an ghearmáin beoir coirm deochanna deutschland gloine beorach bheorach leann oktoberfest ól pionta stein teach tábhairne
+🪏	bury dig garden hole plant scoop shovel snow spade
+🐂	ainmhí ainmhithe an tarbh damh stoidiaca
+🤙	an lámh cur glao orm glaoch glaoigh guthán
+♓	na héisc pisces stoidiaca
+👵	bean fionn sean seanbhean seanmháthair
+🐧	ainmhí éan piongain
+❎	cnaipe crosmhairc cnáipe crosmharc iolraigh iolrú x
+🟫	cearnóg dhonn donn
+🥩	dearg feoil gearradh gríscín muiceola uaineola stéig
+🦾	géag inrochtaineacht meicniúil próistéiteach
+🎣	iasc iascaireacht siamsaíocht slat spórt
+😌	aghaidh faoiseamh síocháin straoiseog a bhfuil uirthi zen
+🫷	ar chlé bosa in airde brú láimhe diúltaigh fan stop
+🐝	ainmhí beach mheala bumbóg dúlra earrach feithid mil
+🌻	bláth lus na gréine planda taobh amuigh
+✨	* draíocht drithlí gealán réalt réaltaí
+🚽	cró na gcearc leithreas seomra folctha teach an asail
+🥑	abhacád bia toradh
+👛	airgead éadaí éadaigh galánta gúna láimhe mála siopadóireacht sparán
+🌮	meicsiceach meisiceach taco
+📋	fáisc-chlár gearrthaisce liosta nithe le déanamh nótaí rudaí
+🦊	aghaidh sionnaigh ainmhí éadan madra rua sionnach
+⚫	ciorcal dubh geoiméadrach
+♒	aquarius iompróir an uisce stoidiaca
+🐈‍⬛	ainmhí caitín cat dubh meamhlach peata
+🩵	bánghorm cian croí gleoite grá mo chroí thú is maith liom ghrá mothúchán spéir speisialta taitneamhach téal
+📤	amach bocsa bosca litir post seolta ríomhphost trádaire trae an bhosca
+🐐	ainmhí ainmhithe an gabhar stoidiaca
+🧂	blastán croiteoir salainn salann
+🎯	buille díreach cluiche dairt saighead siamsaíocht sprioc súil ghloine sprice
+🐻	aghaidh béair ainmhí béar liath éadan glam gnúsacht mil yosemite
+🔨	athchóiriú baile casúr deisiú uirlis
+🚣	abhainn bád rámhaíochta canú céasla duine ag rámhaíocht feithicil loch rafta
+👕	cába deireadh éadaí éadaigh gléasta gorm léine neamhfhoirmeálta seachtaine siopadóireacht t-léine
+🐼	aghaidh ainmhí bambú panda
+👃	boladh colainn corp srón
+📭	bosca bratach íslithe litreacha oscailte poist post
+🚁	feithicil héileacaptar héileacoptar ingearán taisteal
+🛻	gluaisteán trucail oscailte trucailín
+🕤	30 9 9:30 leathuair tar éis a naoi
+🫅	banríona duine le coróin air rí ríochas
+🧑‍🦽	cathaoir rothaí duine inrochtaineacht láimhe
+🌱	óg planda síolphlanda
+😪	aghaidh brónach caoineadh codladh straoiseog chodlatach tuirseach
+🧒	leanbh neodrach ó thaobh inscne de óg páiste
+🦤	dódó éag éan mór oileán mhuirís
+👢	bróg buatais buataisí mná éadaí
+📬	ardaithe bosca bratach litreacha oscailte poist post
+🚼	athrú do leanaí bord athraithe comhartha linbh leanbh
+🚑	éigeandáil feithicil otharcharr
+😞	díomá dobrónach míshásta straoiseog dhíomách uafásach
+🍸	007 alcól club deoch deochlann gloine mhanglaim james bond mad men manglam martini ól teach tábhairne
+🥵	ag cur allais fáil bháis aghaidh an-te análú trom dearg-ghnúiseach fiabhrasach stróc teanga amuigh teas
+🫔	bia fillteog meicsiceach pamonha tamale
+👹	aghaidh arrachtach fathach scanrúil seapánach síscéal
+😬	ag miongháire aghaidh grainc strainc straoiseog le cár uirthi
+🤶	bean ceiliúradh fantaisíocht máthair na nollag nollaig saintí saoire scéal shaintí sióg sona
+🎓	bronnadh céime caipín bronnta lucht acadúil ollscoil
+👩‍🎓	bean céimí mac léinn scoláire baineann
+🛖	baile bothán dóibe teach ceann tuí cruinn yurt
+🎬	aicsean clabaire scannán
+🤘	lámh na binne lean ort méar seinn siombail n-adharc
+🕣	8 8:30 leathuair tar éis a hocht
+🤫	aghaidh bí ciúin ciúnaigh ciúnas fuist
+🔭	teileascóp uirlis
+🌸	bláth silíní earrach planda silín
+🥻	éadaí gúna sáirí sari
+🎷	ceol sacsafón uirlis
+😺	aghaidh ainmhí cat ag miongháire meangadh mionngháire oscailte
+😫	aghaidh brónach costas sraoth straoiseog thuirseach tuirseach
+😀	aghaidh gáire meangadh sásta sona straoiseog ghealgháireach
+💭	ag smaoineamh bolgán brionglóid scamall smaointe
+🦼	cathaoir rothaí innealta mheicniúil inrochtaineacht
+👩‍💼	ailtire bainisteoir bean bóna bán gnó oibrí oifige baineann oifig
+♿	bealach isteach do chathaoireacha rothaí cathaoir comhartha siombal cathaoireacha
+🥄	ith sceanra spúnóg tae
+🧽	báigh cuir ar maos glanadh ionsúigh ionsúiteach mac dual póiriúil scagach spúinse
+💵	airgead airgeadra banc dollar nóta bainc dollair
+🐹	aghaidh hamstair ainmhí hamstar peata
+💾	bog diosca ríomhaire
+🌔	gealach ag líonadh teach ann scothlán dul ar gcúl atá ré spás
+🥫	bia stánaithe canna cannaí stán
+💴	airgead airgeadra nóta bainc yen
+🦧	ainmhí ápa órang-útan
+🍶	beár bialann buidéal cupán deoch ól sáicí
+⚪	bán ciorcal geoiméadrach
+🆙	aníos cnaipe thuas comhartha suas up
+😎	ar do shuaimhneas fheabhas meangadh gáire spéaclaí gréine straoiseog ag le
+📐	mata rialóir triantánach triantán uillinn
+🫧	boilgeoga bolgán gallúnach
+💕	coinne comóradh dhá chroí grá mothúchán xoxo
+😗	143 aghaidh póg straoiseog ag pógadh xoxo
+🫤	amhrasach is cuma neamhshuim straoiseog le béal fiarthrasna trína chéile
+💬	bolgán cainte caint clóscríobh sms téacs
+🛘	anachain carraigeacha contúirt crith talún maidhm shléibhe sciorradh láibe sliabh
+🚚	feithicil tiomáin trucail seachadta veain
+🔚	deireadh agus saighead ar chlé deiridh
+💺	cathaoir suíochán
+🎉	am spraoi ar fheabhas gor breithlá ceiliúir ceiliúradh cóisir comóir comóradh corraithe hurú lá breithe pléiscín cóisire
+🤲	bos na láimhe ardaithe le chéile bosa guí mian paidir
+😔	brónach díomách dubh dóite machnamhach smaointeach straoiseog mhachnamhach
+👋	beannú croitheadh haigh hé hóra lámh ag slán
+🎊	bainis ceiliúradh coinfití cóisir meall pósadh
+💼	mála cáipéisí oifig
+🥬	bok choy cabáiste cál glasra duilleach leitís
+🈸	cnáipe seapáinis iarratas cnaipe seapáinise seapánach sínis
+🚱	coiscthe ná óltar é nach bhfuil le hól neamh-inólta tirim uisce
+🐄	ainmhí ainmhithe bainne beithíoch bleachtach bleitheach bó búireach droimeann feirm múú riabhach
+⬜	cearnóg bán mór mhór bhán geoiméadrach
+😝	aghaidh blas straoiseog le teanga amach agus súile dúnta súil go dlúth ag gobadh churtha
+😓	brónach fuarallas imní neirbhíseach straoiseog in ísle brí le
+🩼	croisín maide croise
+🙀	aghaidh ainmhí cat iontas oh tuirseach
+🧯	dóiteán múch múchadh múchtóir tine
+🦖	t-rex tyrannosaurus rex
+🧑‍🧒	fásta páiste teaghlach
+🐒	banana moncaí
+🥴	ar meisce béal corrach meabhránach ólta siabhrán straoiseog trína chéile súile míchothroma
+🧅	blasóir oiniún oinniún
+🍙	bia liathróid ríse rís seapánach
+👨‍🚒	fear comhraic dóiteáin múchta dóiteán fearann inneall
+🪈	ceol ceolfhoireann fíf fliúit shasanach fliúiteadóir fliúiteog gaothuirlisí adhmaid grúpa máirseáil píb uirlis
+🏏	bata cluiche cruicéad liathróid slac
+👴	fear maol scothaosta sean seanathair seanfhear
+🦝	ainmhí fiosrach glic íogánta racún sleamhain
+🎲	cluiche dísle siamsaíocht
+🚡	aerga cábla carr gandala téadbhealach trambhealach
+😑	féachaint fholamh folamh gbdo gnúis dhúrúnta óró straoiseog le haghaidh
+🥶	aghaidh fhuar ghorm bior seaca briogadán coinlín reo coinlíní dó faoi náid chéim fuar gorm préachta reodóga reoite sioc straoiseog ghrom
+🚿	cith cithfholcadán cithfholcadh uisce
+🖕	corp lámh méar in airde láir
+🫆	aitheantas fóiréinsic sábháilteacht
+🧑‍🍳	cócaire
+🫠	aghaidh goa há imigh as radharc leá leacht leáigh náirithe searbhas searbhasach te teocht tuaslaig
+🐑	ainmhí baa baineann caora caorach craiceann olann uan
+🕐	1 a chlog an chloig 1:00 haon t-am
+🔑	díghlasáil eochair eochracha
+🚕	carr feithicil gluaisteán tacsaí tiomáin
+🎹	ceoil ceol méarchlár pianó uirlis
+🦮	ainmhí dall inrochtaineacht madra treoir
+📃	cáipéis doiciméad leathanach craptha le choirnín coirnín
+👨‍🔧	ceardaí fear leictreoir meicneoir fireann pluiméir
+😄	béal ar oscailt lol meangadh gáire sásta straoiseog ag le oscailte agus súile gealgháireacha bhéal déanamh miongháire uirthi
+🥲	aghaidh áthas bródúil buíoch corraithe deoir faoiseamh meangadh miongháire pian sásta sona straoiseog
+🫥	dofheicthe easpa spéise faoi ghruaim folaithe is cuma straoiseog le líne phoncaithe
+🥤	cupán le sop deoch shóide sú uisce
+🥃	albanach beatha biotáille fuisce gloine steall uisce
+🗼	tóiceo túr thóiceo
+🙄	aghaidh ar nós mo dhuine céard sa diabhal pé rud a deir tú féin straoiseog le súile ag casadh suas chun na bhflaitheas
+🦥	leisciúil mall spadán
+🧞	draíochtúil eagna fantaisíocht ginid mí-ádh mianta miotasach rúin samhlaíocht sióg
+🤪	beag mór rosc straoiseog chraiceáilte súil súile
+👩‍🍳	bean chef cócaire baineann
+🫘	bia pónairí
+🥇	1 1ú an chéad áit bonn óir buaiteoir ór órga
+🐘	ainmhí eilifint
+🔻	dearg triantán síos
+🎡	páirc siamsaíochta roth ferris mór
+🕢	30 7 7:30 leathuair tar éis a seacht
+💪	bícéips lúbtha láidir matáin tógáil meáchain tógálaí
+🎒	droim droma mála malaí oideachas saitsil scoil scoile taisteal
+😢	ag gol caoineadh deora míshásta straoiseog chaointeach uafásach
+👨‍🦯	bán cána cuardach dall fear inrochtaineacht
+🫪	imní iontas leochaileach scaoll séidte stangadh
+🔕	balbhaigh ciúnas cloigín ar ceal coiscthe níl
+📢	callaire láimhe cumarsáid fógairt phoiblí
+🦟	feithid fiabhras galar lotnaid maláire muiscít prioc víreas
+🎅	aimsir na nollag athair ceiliúradh daidí nollaig shona saintí san nioclás santa claus
+❕	comhartha uailbhreasa uailbhresa bán uaillbhreasa imlínithe imlíntieh poncaíocht
+🤽	caith duine liathróid marco póló snámh spórt uisce
+🗾	an tseapáin léarscáil na seapáine mapa
+🔆	cnaipe gile geal ard solas
+🤣	aghaidh fuirseoireacht gáire os ard golgháire greannmhar haha lol miongháire sna tríthí trithí urlár
+🦅	ainmhí éan iolar
+🧶	abhras cniotáil cróiseáil liathróid
+🍇	caor fhíniúna fíniúna caora fíonchaor fíonchaora toradh
+🌯	burrito fillteog meicsiceach
+🌎	críocha cruinne cruinneog domhan mheiriceá taispeáint
+🀄	cluiche dragan rua mah-jongg mahjong tíl
+🦣	ainmhí éag lomrach mamat ollmhór starrfhiacail
+🥝	bia ciobhaí cíobhaí kiwi toradh
+😻	aghaidh ainmhí cat croí croíthe sna súile grá meangadh miongháire súil
+🎸	ceol giotár stratocaster uirlis
+⏫	cnaipe suas ar luas saighead dhúbailte dúbailte tapaigh
+🏩	foirgneamh grá leaba óstán
+🥓	bagún bia feoil
+➗	÷ comhartha mata roinn roinnte
+🐦‍🔥	athbheochan athbhreith athchruthaigh athionchollú athmhuscailt bladhmsóg fantaisíocht feinics glóir neamhbhásmhar onóir
+🔁	cnáipe athdhéan cnaipe athdhéanta athsheanma deiseal saigheada deisil
+👪	páiste teaghlach
+🤍	bán croí mo ghrá thú
+🪃	an astráil anonn is anall astrálach búmarang filleadh
+🔧	athchóiriú baile castaire rinse uirlis
+🐶	aghaidh ainmhí coileán madra peata
+🦌	ainmhí fia
+🎋	ceiliúradh céiliúradh crann tanabata maisiúchán meirge seapánach stiallacha páipéir
+🕌	creideamh ioslam masjid mosc moslamach
+📔	leabhar nótaí maisithe scoil scríobh
+🕗	8 a chlog an chloig 8:00 clog
+🐲	aghaidh dragain ainmhí dragan finscéal
+👊	aontaím leat cinnte dorn atá chugat lámh
+🫙	crúsca folamh próca
+🚇	feithicil meitreo taisteal traein faoi thalamh
+🧏	bodhar cluas duine dall éist inrochtaineacht
+🤐	aghaidh béal ciúnas sip straoiseog le zipeáilte
+👩	bean bruinneall fionn
+🍡	bata dango liathróidí mocci ar chipín milis milseog mochi seapánach
+📧	clúdach litreach litir post ríomhphoist ríomhphost scéala teachtaireacht
+🛜	gan sreang gréasán idirlíon ríomhaire wifi
+🐊	ainmhí arlene foster crogall
+📌	biorán colláis tacóid ordóige
+🕕	6 a chlog an chloig 6:00 t-am sé
+⛲	foinse uisce fuarán scairdeán scardán
+🔫	arm gunna piostal uirlis
+🍐	piorra toradh
+⚓	ancaire bád comhartha farraige long
+🪆	bábóga rúiseacha matryoshka rúiseach
+📦	beart bocsa bosca cumarsáid pacáiste seachadadh
+🧧	ádh mór airgead bronntanas clúdach litreach dearg hóngbāo lai see
+🪽	ainglí deascabháil éan eitil eitilt eitlíocht faoileoireacht miotaseolaíocht neamhaí sciathán
+🎪	puball sorcais sorcas
+😏	amhrasach pioctha néata síodúil siotgháire sleamhain sotalach straoiseog ag déanamh seitgháire
+🛄	bagáiste limistéar taisteal
+♑	an gabhar capricorn stoidiaca
+🧑‍💼	ailtire bainisteoir bóna bán gnó oibrí oifig
+🐁	ainmhí ainmhithe luch luchóg
+🐌	faocha sheilide seilide
+👩‍🌾	bean feirmeoir baineann garraíodóir rainseoir
+🕑	2 a chlog an chloig 2:00
+🎀	ceiliúradh ribín
+📪	bosca bratach dúnta íslithe litreacha poist post
+🎮	cluiche ríomhaire playstation rialaitheoir cluichíochta xbox
+🔴	ciorcal dearg geoiméadrach
+🦞	ainmhí bia mara bísc crúba gliomach
+🛐	adhartha creideamh ionad paidir a rá teach
+🛹	clár scátála rothanna scáta rothach
+👩‍🏭	bean cóimeáil monarcha oibrí monarchan baineann tionsclaíoch
+🙅	bac coiscthe cosc dhá lámh trasna ar a chéile aici duine ag comharthú níl tabhairt le fios gan é dhéanamh thar an eile cead sé ceadaithe seans bith
+🏧	airgead atm banc comhartha umb meaisín bainc poll an bhainc
+🧢	caipín daorchluiche speiceach hata
+🫎	ainmhí beanna fia mór mamach múis mús
+💁	brú siar gruaige cabhair cibé rud cúlchaint deasc faisnéise duine lena lámh amach eolas faisnéis i ndáiríre á hiompú muiníneach tarcaisneach
+🈶	cnáipe seapáinis nach bhfuil saor in aisce cnaipe seapáinise seapánach
+🌺	bláth planda roiseog
+🤬	ar buile eascainí straoiseog le siombailí an mbéal
+🤢	aghaidh breoite fonn múisce masmas straoiseog bhreoite tinn
+💃	bean ag damhsa damhsóir flamenco salsa tangó
+🦋	féileacán feithid gleoite
+🐥	ainmhí éan éinín gearrshicín éadain leanbh óg sicín
+🚫	comhartha cosc ar chaitheamh tobac dhul isteach iontráil nil cead níl
+💞	comóradh lae croíthe ag rothlú mothúchán
+🥖	arán baguette bia francach
+🉑	cnáipe seapáinis inghlactha cnaipe seapáinise seapánach sínis
+🚓	5–0 carr patróil feithicil garda gardaí gluaisteán póilín póilíní
+🧑‍🔬	bitheolaí ceimiceoir eolaí fisiceoir innealtóir matamaiticeoir
+🔒	druidte dúnta glas glasáilte iata príobháideach
+🐦‍⬛	ainmhí coirbhideach dubh éan éaneolaíocht fiach gob grág préachán rúcach
+😐	aghaidh neodrach gan a bheith ag gáire tógtha míshásta straoiseog
+🪘	druma fada uirlis cheoil
+🎩	éadaí hata ard
+👩‍🎤	aisteoir amhránaí bean rac réalta siamsóir
+🦄	aghaidh aonbheannaigh aonbheannach
+🐠	ainmhí éisc iasc teochreasa teochriosach
+🥥	cnó cócó pailm piña colada
+🧣	fuar muineál scairf
+🎿	buatais marcaíocht sneachta scí agus scíonna spórt
+🌆	ag breacdhorcha breacdhorchadas cathair cathairdhreach foirgneamh hoíche na titim
+🧐	aghaidh le leathspéacla saibhir straoiseog uasaicmeach
+😭	brónach caoineadh go hard deora gol míshásta straoiseog ag os ard chaointeach
+😰	aghaidh allas béal brostaigh éadan faoi dheifir fuar fuarallas gorm oscailte scanraithe straoiseog fhaiteach le hallas
+💣	buama pléascadh pléascán
+🐪	ainmhí camaill camall dromadaire dronn dronnóg fásach gaineamhlach
+👨‍🎓	céimí fear mac léinn scoláire fir
+👇	ag díriú corrmhéar cúl cormhéar pointeáil síos corrmhéire na láimhe lámh méar thíos
+🥉	3ú áit bonn cré-umha tríú
+🚅	feithicil shinkansen piléir taisteal traein ardluais philéir
+🥳	ceiliúradh cóisir corn féile fleá hata hurá iontach lá breithe sona sceitimíní spraoi straoiseog chóisireachta tógtha
+👳	duine le turban air fear a bhfuil an turbain
+🎧	ceol cluasáin cluasán bachlóige fuaim
+📨	clúdach litreach isteach litir post faighte ríomhphost seolta
+⭐	réalt mheánach bhán réalta réalteolaíocht
+🫃	an iomarca a ithe fear torrach
+🌌	an láir bhán bealach na bó finne claí mór réaltaí spás
+🧖	cóireáil spá déan cineál do shuaimhneas a dhéanamh duine i seomra gaile folcadán allais sásta só-spá suaimhneas
+🚠	cábla cábla-bhealach sléibhe cáblabhealach carr feithicil gandala sliabh
+🪙	airgead airgeadra bonn miotal ór órga sóinseáil stórchiste
+🌵	cachtas cactas dúlra fáslach gaineamhlach planda triomach
+😲	a dhia aghaidh ar fad costas ionadh iontas ná habair ní hea stangadh
+🙃	aghaidh bonn os cionn miongháire straoiseog bun
+🚶	coisí duine ag siúl réidh siúlach siúlóid siúlóidín siúlóir spaisteoireacht
+👤	cabhail corp diamhrach duine rúndiamhrach scáth scáthchruth cinn
+🛶	bád caidhc canú
+🌓	céad cheathrú na gealí ceathrú gealaí gealach i mbéal ceathrún spás
+🌒	corrán gealaí ag dul ar gcúl atá líonadh gealach teacht ann spás
+👽	arracht eachtardhomhandach eachtrán úfó
+🕡	6 6:30 leathuair tar éis a sé
+🐡	ainmhí iasc torcánach
+🛃	custaim pacáiste
+🥛	bainne deoch gloine gloinne
+🛟	baoi fáinneach garda tarrthála sábháil snámh tarrthálaí
+🫚	beoir fréamh lus nádúrtha rúta sinséar sláinte spíosra
+🍋	citreas géar líomóid toradh
+🪶	cleite clúmh éadrom éan eitilt peann uirlis
+🫹	ar chlé greim méar a dhíriú neodrach seo sin
+👲	fear le caipín síneach gua pi mao air hata guapimao
+🤰	ag iompar linbh bean clainne torrach
+🧹	ag scuabadh bean sí cailleach glanadh scruab scuab chaillí
+💑	comóradh croí grá lánúin lanúin le póg
+⛅	aimsir dhorcha grian agus scamaill taobh thiar de na néal néaltach scamall scamallach
+🩶	airgead croí grá mo chroí thú liath ghrá mothúchán slinn speisialta
+🧨	dinimít pléascóg thine tine tinte ealaíne
+🏊	duine ag snámh snámhaí spórt trí-atlan
+🕟	4:30 am clog leathuair tar éis a ceathair
+🩰	bailé bróga damhsa
+📀	blu-ray cd diosca dlúthdhiosca dvd optúil ríomhaire
+🏃	ag rith déan deifir duine gasta luas maratón rása reathaí spórt
+🧜	aigéan duine murúch eireaball faoin bhfarraige maighdean mhara mistéireach fir ruball rúndiamhair
+🔽	anuas cnaipe síos dearg thíos triantán beag
+💻	glúine oifig pc pearsanta ríomhaire
+🧋	coinlín óil deoch tae bolgán
+🫏	ainmhí asail asal baineann burro ceanndána mamach miúil
+🪟	aer fráma fuinneog gloine oscailt radharc
+🐢	ainmhí tiripín toirtís turtar
+😤	bua fearg mórtas straoiseog le gal ón tsrón
+👨‍🚀	fear fearann roicéad spáis spás spásaire fireann
+👩‍💻	aireagóir bean bogearraí códóir forbróir ríomhaire teicneolaí baineann
+🦠	aiméibe baictéir eolaíocht miocrób víreas
+🥺	ag impí aghaidh brónach impigh le do thoil straoiseog impíoch súile coileáin móra trócaire
+🤮	aghaidh ag cur amach aiseag déistin gránna masmas straoiseog tinn urlacan
+❗	comhartha uaillbhreasa dearg marc poncaíocht
+🪼	áá aigéan ainmhí beathra braiteoga cealg dó ga inveirteabrach muir muirí planctón smugairle róin uisceadán
+🎺	ceol gléas ceoil stoc trumpa uirlis cheoil
+🟥	cearnóg dhearg dearg
+😶	aghaidh gan bhéal ciúin mhothúchán ina thost rún straoiseog
+🧬	adn beatha bitheolaí éabhlóid géin géinitic saol
+😵‍💫	aghaidh le súile bíse bís hiopnóisithe meadhránach mearaithe preach trioblóid whoa
+📸	ceamara le splanc físeán grianghrafadán
+👩‍🔧	bean ceardaí leictreoir meicneoir baineann pluiméir
+💧	aimsir allas braoinín braon cur allais fuar uisce
+🪂	faileoir crochta faoileoir paraisheol paraisiút spéirthumadóireacht
+🎃	cóisir oíche shamhna puimcín seán na gealaí tine ghealáin
+🫟	doirteadh dúch holi leacht péint praiseach sileadh smálú stealladh
+💖	143 croí ag lonrú grá mo ghrá thú mothúchán oíche mhaith póganna xoxo
+💜	corcra croí grá mo ghrá thú
+🚀	feithicil roicéad taisteal
+🎑	amharc ar an ngealach ceiliúradh deasghnáth amhairc féile na gealaí gealach
+🍦	bia bialann cón uachtair reoite iarbhéile milis milseog scroid uachtar bog coipthe
+🥀	bláth dul in éag sleabhctha
+😣	buanseasmhach dianmhachnamh leanaim orm pian sa cheann straoiseog bhuanseasmhachta dhíocasach
+📰	cumarsáid nuacht nuachtán páipéar nuachta
+🥊	dornálaíocht lámhainn dornálaíochta miteog muhammad ali spórt
+🧑‍🏫	léachtóir múinteoir ollamh teagascóir
+🔺	dearg triantán suas
+📺	físeán scáileán teilifís teilifíseán tv
+🦬	ainmhí athchogantach bíosún buabhall
+👸	banfhlaith banphrionsa banríon síscéal
+😋	aghaidh an-bhlasta an-deas bia blasta ith lán meangadh miongháire neam ocrach sásamh
+👗	éadaí gúna
+🦎	ainmhí earc luachra reiptíl
+🫳	lámh le bos faoi titim tóg tógáil
+🥎	bogliathróid lámh in íochtar lámhainn liathróid bhog spórt
+💉	dochtúir instealladh leigheas uirlis
+🪧	comhartha fógra plaiceard
+🌃	oíche réalta réaltaí
+📕	dúnta leabhar oideachas
+😇	ag miongháire aingeal beannaithe fáinne solais meangadh gáire sásta straoiseog le luan
+🍃	croith croitheadh duilleog gaoth séid
+🫒	bia crann olóige duilleog ológ
+🔜	go luath agus saighead ar dheis
+🧑‍🍼	beathú duine ag linbh fear naíonán
+🚍	ag teacht bus carranna
+🧄	blasóir gairleog
+👯	cailín cara cléibh cluasa coinín cóisir cóisireacht cúpla comhionann daoine le chluasa coiníní ag ceiliúradh orthu dís dlúthchairde í féin nó a leathcheann atá ann rinceoirí
+🪤	baoite cáis dol gaise gaiste luchóg
+🥸	aghaidh bréagriocht croiméal malaí spéaclaí srón straiseog faoi bhréagriocht straoiseog
+🥅	báire cúl liontán líontán spórt
+🍪	briosca sceallaí seacláide cisteog milis milseog
+🔎	gloine formhéadúcháin ar dheis
+🩴	cuarán flip fleap trá
+💢	ar buile fearg feargach greannán siombail suaite
+🥙	arán leathan stuáilte bia ceibeab falafel fillteog kebab tortilla
+🐈	ainmhí cat peata
+📥	bocsa bosca faigh faighte isteach litir post ríomhphost teachtaireacht trae an bhosca
+🚮	bosca bruscair bruscar bruscarán caith sa bhosca brúscair comhartha
+🟨	buí cearnóg bhuí
+🥼	cóta bán saotharlainne dochtúir doctúir eolaí lia saineolaí saotharlann turgnamh
+🧱	balla bríce brící cré falla moirtéal moirtéar múr
+🧈	déiríocht im
+💓	croí ag preabadh cuisle grá mothúchán
+🎏	maisiúchán sraoilleán éisc
+♈	an reithe aries reitheach stoidiaca
+🛌	codladh sámh duine i leaba sa lóistín oíche mhaith óstán zz zzz zzzz
+🦇	ainmhí bás dorcha feascarluch ialtóg leadhbán leathair leadhbóg leidhbín sciathán vaimpír
+🚐	bus feithicil mionbhus tiomáin
+🐬	aigéan ainmhí deilf lapa trá
+🐅	ainmhí cat mór leon breac tíogar
+🌉	droichead istoíche oíche
+🤌	céard ceistiú comhartha láimhe fáiscthe foighne greim hea lámh méara scíth searbhasach uch zip
+🛀	duine ag folcadh folcadán
+👶	babaí leanaí leanbh naíonán óg páistí
+🍁	duille duilleog mhailpe mailp titim
+🚜	feirm feithicil tarracóir
+💠	diamant laistigh muileata le ponc
+😚	coinne póg pógadh straoiseog ag le súile dúnta xoxo
+👮	dlí duine forghairm gabh garda faoi cheilt póilín póilíní stoptha tarraingthe i leataobh
+🍥	bia bialann cáca éisc le guairneán císte iasc
+🧌	arracht troll trolláil
+👠	bean bonn bróg bróga éadaí mná sáil ard sála arda stilletto
+🧑‍🎄	an nollaig daidí na nollag duine hata saintí
+👩‍🏫	bean léachtóir múinteoir ollamh teagascóir
+🌴	crann pailm planda teochriosach trá
+🏭	foirgneamh monarcha
+🔷	gorm muileata mór
+💡	bolgán solais leictreach smaoineamh solas solus
+🪾	geimhreadh seasc triomach
+🔙	saighead siar agus ar chlé
+🫲	croitheadh láimhe lámh ar chlé síneadh
+💒	bainis pósadh pósta rómánsaíocht séipéal
+🆔	aitheantas cnaipe aitheantais comhartha id
+🧑‍🩰	bailé damhsóir
+🥪	arán ceapaire
+⌛	am amadóir críochnaithe gaineamh orláiste
+🔀	saighead traiceanna ar suaitheadh saigheada deasa trasnaithe
+😦	aghaidh ar oscailt béal grainc iontas púic straoiseag ghruama le oscailte straoiseog
+🍄‍🟫	barráin beacán donn bia fungas glasraí muisiriún nádúr portobello síotaicé strufal veigeatórach
+🦫	ainmhí béabhar creimire damba
+🥚	bia ubh
+🛑	bóthar comhartha stop dearg stad tiomáint
+🎫	cead isteach comhdhuille ticéad
+👺	aghaidh fidil arrachtach éadan gruagach seapánach síscéal
+🤷	aineolas b’fhéidir é croith croitheadh duine ag a ghuaillí guaillí neamhshuim ní bheadh fhios agat beo níl agam pé is dóigh leat
+🦏	ainmhí srónbheannach
+🍿	gráin róstach grán rósta scannán
+☕	caife caifé caiféin chai deoch galú maidin ól tae te
+📴	casta fón as póca guthán
+👘	cimeonó compordach éadaí gúna kimono
+🚈	aonráille éadrom iarnród feithicil
+🧷	biorán brollaigh dúnta clúdín punc-cheol
+🍔	ag ithe bia gasta burgaire burgar ith ocras
+🔸	flannbhuí muileata beag oráiste
+🎎	babóga seapánacha ceiliúradh féile seapánach
+🧘	ag machnamh bean cos thar an gcos eile aici dhá chos trasna ar a chéile duine i suíomh na loiteoige mbun machnaimh ióga suaimhneach suaimhneas dhéanamh
+🥾	bróg dhonn buatais siúlóireachta campáil coisbheart dreapadóireacht lasmuigh saoire an mhála droma siúl siúlóireacht
+🦙	ainmhí alpaca guanaco láma olann vicuña
+🆚	cnaipe comhartha i gcoinne v versus vs
+🧦	giosáin stoca stocaí
+🛕	hiondúch teampall
+💝	143 cothrom lae croí le ribín cuimhneachán mothúchán póga vailintín xoxo
+🔂	1 cnáipe athdhéan amháin cnaipe athsheanma uair deiseal saigheada deisil le huimhir
+🌷	bláth planda tiúilip
+🧑‍🧑‍🧒	fásta páiste teaghlach
+🥰	aghaidh le 3 chroí breá croí croíthe cumann gean grá i ngrá is liom é meangadh miongháire mo ghrá thú searc splanctha straoiseog ag
+💍	bainis diamant fáinne geallta grá pósta
+🕖	00 7 a chlog an chloig 7:00 seacht
+🚷	coiscthe coisí comhartha cosc ar choisithe siúlóir
+🐾	ainmhí cosa lapa lorg lapaí
+👨‍🎨	ealaíontóir fear fearann pailéad
+🍤	cloicheán ribe róibéis séacla friochta
+🦢	ainmhí eala éan éinín gránna lachan lachín ghránna
+🔏	dúch glas agus peann glasáilte le príobháideachas
+⛄	fear sneachta gan fuar
+💀	aghaidh arracht bás blaosc marbh síscéal tá mé
+🏴	ar foluain bratach dhubh
+👍	+1 ar fheabhas go maith iontach is liom é thú moladh ok ordóg suas tá tuigim
+🧑‍💻	aireagóir bogearra códóir forbróir ríomhaire teicneolaí
+🪊	brónach ceol prás sleamhnaigh sleamhnú snagcheol uirlis
+🌭	brocaire francfurtar ispín te
+♎	an mheá libra stoidiaca
+🪇	ceol crith gliogar maracaí maracas tuargaint uirlis
+💂	garda an rí londain saighdiúir
+🛸	sásar eitilte ufo úfónna
+➰	cas lúb chatach
+🎴	cárta imeartha cártaí bláthanna cluiche seapánach
+🦪	oisre péarla tumadóireacht tumadóireacth
+🪯	khanda reiligiún suíceach
+🛅	bagáiste cás seirbhís bhagáiste
+🉐	cnáipe seapáinis sladmhargadh cnaipe seapáinise seapánach
+🧑‍🏭	oibrí monarchan
+🔰	seapánach siombal sheapánach le haghaidh tosaitheoirí tosaitheoir uirlis
+🫍	aigéan mara míol mór
+♊	an cúpla gemini stoidiaca
+🍒	silín silíní toradh
+🦘	ainmhí cangarú óg léim marsúipiach
+🦯	cána bán dall inrochtaineacht
+🧼	ag glanadh babhla sópa barra cúr folc folcadh gallúnach glan snámh sobal gallúnaí soitheach
+🧿	an drochshúil briocht buachloch coirnín gorm mealltacht nazar ortha
+🎱	8 cluiche liathróid púil snúcar
+🍭	bia bialann líreacán milseán
+🥈	2 2ú airgead bonn airgid dara háit
+🔬	eolaíocht micreascóp saotharlann turgnamh uirlis
+🤞	ádh ag súil crosach méara ar a chéile trasnaithe méarsa trasna
+🍛	bia curaí agus rís
+👌	beagán bídeach cgl gráinnín lámh ok tuigim
+👆	corrmhéar cúlbhuille dírigh díriú lámh méar suas
+👉	corrmhéar cúl cormhéar ag pointeáil ar dheis corrmhéire díriú na láimhe lámh méar
+🎍	athbhliain giúis maisiúchán péine planda seapánach
+🧔	duine feasóg fear féasóg féasógach meigeall
+🦶	barrchos cic cos cosa gread rúitín seas speach troigh
+🈺	ar oscailt i gcomhair gnó cnáipe seapáinis oscail le hagaidh cnaipe seapáinise oscailte haghaidh sínis
+🧮	abacas áireamhán ríomh
+🏁	bratach chríche rásaíocht spórt
+🙈	ainmhí moncaí nach bhfeiceann aon olc ná feic
+🍠	bia fata ionam práta milis rósta
+🕋	cába creideamh ioslam moslamach muslamach reiligiún
+🫓	arán leathan bia lavash naan pita
+😠	aghaidh ar buile cantalach corraithe fearg feargach locht míshásta mothú spréachadh spréachta
+🫶	croí grá lámha
+🤖	aghaidh arracht róbat
+◾	cearnóg dubh meán-bheag geoiméadrach meánchearnóg bheag dhubh
+🤤	aghaidh éadan prislíneacht straoiseog ag
+🏹	bogha agus saighead boghdóir sagittarius is stoidiaca uirlis
+💔	bris briste brón brúite croí croíbhriste mothúchán uaigneach
+🍍	anann colada piña toradh trópaiceach
+🤱	babaí bean beathú cíoch cothú cíche mam máthair
+👨‍🍼	athair beathú duine fear ag linbh naíonán
+👫	bean fear agus le chéile i ngrá lámha

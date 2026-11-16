@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « pl » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	new nowość nowy przycisk
+🧑‍🤝‍🧑	ludzie osoby trzymające się za ręce para rękę
+◽	biały figura geometryczna kwadracik kwadrat mały/średni
+⛽	benzyna dystrybutor paliwa stacja benzynowa paliw tankować
+🔓	kłódka odblokować otwarta
+👄	ciało usta wargi
+🍴	gotowanie jedzenie kolacja nóż obiad posiłek restauracja śniadanie sztućce widelec
+🏒	hokej kijek krążek lód na lodzie sport zima
+💦	deszcz krople potu pot wilgoć woda
+🎐	dzwonek dzwonki wietrzny
+😼	głowa ironia ironiczny kot z drwiącym uśmiechem kpiarski kpina zwierzę
+😉	buźka mrugnięcie oczko puszczać oko puszczenie oka twarz puszczająca zaczepka
+📛	plakietka z imieniem
+🚉	dworzec kolej kolejowa pociąg podróż pojazd stacja
+💌	kocham liścik list miłosny miłość serce wiadomość
+🆘	na pomoc przycisk ratunek ratunku sos
+🛙	kierować latarnia morska morze nadzieja nawigacja oświecenie światło sygnał
+🍯	beczka garnek jedzenie miód miodu słoik z miodem
+😿	buźka głowa kot łza płaczący płaczę smutek smutny zwierzę
+🫜	burak korzeń ogród rzepa warzywo
+😳	buźka rumieńce twarz z rumieńcami wypiekami wow wstyd wypieki zaskoczenie zdziwienie
+🚨	kogut lampa obrotowa policja policyjny sygnalizator świetlny
+🚌	autobus autokar pojazd
+🌇	budynki miasto zachód słońca zmierzch
+🔝	góra strzałka z napisem top w górę
+🙊	buźka co ja mówię gest głowa małpa zasłaniająca pyszczek małpka nie mówić niedobre zabronione zakrywam usta zwierzę
+🐙	macki morze ocean osiem ośmiornica zwierzę
+🕦	11 11:30 30 czas dwudziesta trzecia trzydzieści godzina jedenasta zegar
+🕞	3 3:30 30 czas godzina piętnasta trzydzieści trzecia zegar
+🙌	dłonie hura hurra ręce super wzniesione
+🚗	auto pojazd samochód
+🕥	10 10:30 30 czas dwudziesta druga trzydzieści dziesiąta godzina zegar
+🥱	buźka dobranoc drzemka nuda obojętność sen senność spanie ziew ziewać ziewająca twarz zmęczenie znudzony znużenie zzz
+🐎	koń konne wierzchowiec wyścigi wyścigowy zwierzę
+👩‍🚒	kobieta osoba praca strażaczka strażak wóz strażacki zawód
+🪉	amorek harfa instrument miłość muzyka orkiestra
+🫁	klatka piersiowa narząd oddech oddychanie organ płuca układ oddechowy wdech wydech
+📲	dzwonić komórka odebrać połączenie smartfon ze strzałką strzałka telefon komórkowy
+💚	kocham miłość serce zielone
+📶	sieć komórkowa siła sygnału zasięg
+🫦	całus dyskomfort flirt nerwowość niepokój pomadka przygryzanie wargi strach usta zmartwienie
+🌅	brzask słońce wschód słońca
+🌂	deszcz parasolka pogoda złożona złożony parasol
+🍲	danie garnek jednogarnkowe jedzenie potrawka z jedzeniem zupa
+🪜	do góry drabina hierarchia ranking stopnie szczebel wspinać się
+✅	parafka przycisk ze znacznikiem wyboru ptaszek tak zaznaczenie znacznik
+📑	dokument indeksujące karta karty przekładka przekładki zakładek zakładka zakładki
+👣	odciski stóp ślady stopy
+👀	obserwacja obserwowanie oczy oko twarz wow
+🤸	akrobatyka gimnastyczka gimnastyk gimnastyka gwiazda osoba przerzut bokiem robiąca gwiazdę robić sport
+⭕	czerwone gruby czerwony okrąg kółko koło o
+😆	buźka haha hahaha hehe lol rozbawienie satysfakcja śmiech uśmiech uśmiechnięta twarz z przymrużonymi oczami wesoły
+🔄	dookoła okrężny przycisk ze strzałkami przeciwnie do ruchu wskazówek zegara w kierunku przeciwnym strzałka
+🟢	kółko koło zielone
+🧗	osoba skałki sport wspinacz wspinaczka wspinająca się
+🌟	błyszcząca gwiazda gwiazdka lśniąca świecąca
+🤧	buźka choroba chory katar kichać kichająca twarz kicham na zdrowie smarkanie
+🔛	strzałka w obie strony z napisem on włączone
+🪫	bateria elektronika niski poziom energii słaba
+⏰	budzik zegar
+🥕	jedzenie marchew marchewka warzywo
+➿	pętla podwójna zawijas
+🥂	alkohol impreza kieliszki na zdrowie nowy rok przyjęcie stukające się świętowanie sylwester toast
+🪲	chrabąszcz chrząszcz owad żuk zwierzę
+🩹	opatrunek plaster
+🟧	kwadrat kwadratowy pomarańczowy
+📍	miejsce pinezka przypiąć szpilka z główką
+😽	buzi buziak całuję całus całuski głowa kot przesyłający całusa rumieniec zwierzę
+🐤	kura kurczaczek kurczak kurczątko pisklak ptak zwierzę
+🤵	elegancja głowa osoba ślub smoking w smokingu wesele
+🛼	jazda na rolkach łyżworolki rolki sport wrotka wrotkarstwo wrotki
+🧩	element układanki łączenie łamigłówka puzzle rebus układanka
+🛝	park rozrywki plac zabaw ślizgawka wesołe miasteczko zabawa zjeżdżalnia
+🔇	cicho cisza głośnik głośność wyciszony wyciszyć
+🏥	budynek lecznica lekarz medycyna szpital
+🚔	auto nadjeżdżający radiowóz patrol pojazd policja samochód policyjny
+💶	bank banknot euro pieniądze płacić rachunek waluta
+🥭	jedzenie mango owoc shaker tropikalna tropikalne tropikalny
+🫂	cześć do widzenia dzięki obejmujące się osoby objęcia pocieszenie przyjaźń przytulenie uścisk wsparcie
+🔳	biały kwadratowy przycisk czarny figura geometryczna kwadrat obramowanie
+💹	bank jen pieniądze rynek trend wzrostowy waluta wykres wzrostu z symbolem jena wzrost
+🧺	grzybobranie grzyby kosz koszyk ogród piknik pranie rolnictwo wiklina
+😖	buźka irytacja zakłopotana twarz zirytowana złość zły
+🔐	blokada kłódka kluczyk z kluczem zamknięcie zamknięta
+🈯	ideogram japoński palec przycisk zarezerwowane zarezerwowany
+🏦	bank budynek
+🍧	deser hawajskie jedzenie lody
+🧍	stać stoi stojąca osoba
+🟠	kółko koło pomarańczowe
+⛔	wejście wstęp zabroniony zakaz wjazdu
+✊	pięść ręka uniesiona wzniesiona zaciśnięta
+🌜	bajka baśń księżyc z twarzą noc ostatnia kwadra księżyca
+😹	głowa haha hehe kot ze łzami radości płaczę śmiechu płakać śmiech uśmiech zęby zwierzę
+🧾	dowód faktura księgowość kwitek paragon pokwitowanie rachunek rachunkowość
+🪩	dyskoteka kula dyskotekowa migotanie przyjęcie taniec
+🏇	dżokej jeździec koń konne sport wyścigi zawody
+👦	chłopiec dziecko głowa młody
+🏸	badminton gra lotka paletki rakieta sport zabawa
+🥜	fistaszki jedzenie orzech orzeszki ziemne
+📱	komóra komórka smartfon telefon komórkowy
+🕎	chanuka chanukija judaizm kandelabr menora religia świecznik żydowska
+🚙	auto pojazd samochód sport suv wypoczynkowy
+🖤	czarne serce czarny kocham miłość zło
+🪬	amulet chamsa dłoń fatimy z okiem fatima miriam ochrona ręka
+🚴	kolarka kolarz na rowerze osoba rower rowerzysta rowerzystka sport wyścig
+🍷	alkohol kieliszek restauracja wina wino
+💊	kapsułka lek lekarstwo pigułka tabletka
+🍀	czterolistna koniczyna koniczynka roślina szczęście
+🪌	błąd cofnąć kasować pisanie pomyłka poprawka rysunek usuwać wycierać zmazać
+😷	buźka choroba lekarz maska operacja pielęgniarka twarz w masce medycznej
+📆	data kalendarz spirala z wyrywanymi kartkami zdzierany
+🙉	buźka gest głowa głuchy małpa zasłaniająca uszy małpka nie słyszę słyszeć niedobre zabronione zakrywam zwierzę
+💱	kantor waluta wymiana walut waluty
+🩻	klatka piersiowa kości lekarz medycyna prześwietlenie rentgen szkielet zdjęcie rentgenowskie
+🏠	budynek dom mieszkalny
+📙	biblioteka czytać książka pomarańczowa
+🥔	jedzenie kartofel pyra warzywo ziemniak
+💮	biały kwiat kontury kwiatek pieczątka
+🥌	curling do curlingu gra kamień sport
+💩	buźka gnój kupa obornik odchody poo poop potwór smród twarz
+🍳	gotowanie jajko jedzenie patelnia smażyć
+🦈	morze ocean rekin ryba zwierzę
+🌼	kwiat kwiatek kwitnie roślina
+😜	buźka haha hehe język mrugnięcie pokazuję śmiech twarz wystawiająca i puszczająca oko żart
+🪁	latanie latawiec na wietrze wiatr
+⛎	wężownik znak zodiaku zodiak
+🍾	alkohol bar butelka impreza korek nowy rok przyjecie strzelający sylwester szampan toast
+🧇	gofr gofrownica jedzenie śniadanie
+🛞	koło pojazdu kręcić opona samochód
+📜	edykt papier pergamin pismo zwój
+🧎	klęcząca osoba klęczeć klęczki kolana na kolanach
+🌕	jasny księżyc noc pełnia pełny
+💽	dysk md optyczny komputer minidysk płyta
+💙	kocham miłość niebieskie serce
+📏	krawędź linia linijka prosta
+🥡	jedzenie na wynos pałeczki pudełko ryż
+🕔	00 5 5:00 czas godzina piąta siedemnasta zegar
+🤩	buźka fascynacja głowa gwiazdy haha hehe śmiech szczęście twarz uśmiech zabawa zafascynowany
+🟦	kwadrat kwadratowy niebieski
+🐍	dusiciel jadowity wąż żmija zwierzę
+🐉	bajka baśń fantasy legenda smok zwierzę
+🪎	bogactwo kamień szlachetny klejnot kosztowności łup nagroda pieniądze srebro złoto
+💯	100 setka sto punktów stówa stówka
+🌝	bajka baśń księżyc w pełni z twarzą pełnia
+♏	skorpion znak zodiaku zodiak
+🪞	akcesoria do domu lustro makijaż odbicie przeglądać się rama lustra stroić wiszące wystrój wnętrza zwierciadło
+💅	ciało kosmetyki lakier do paznokci lakierować paznokcie manicure pielęgnacja
+🫫	maskowanie napięcie odporność pokruszona połamana transformacja ujawniać
+🈁	ideogram japoński koko przycisk tutaj znak
+🍵	bez uszka filiżanka herbata miseczka spodek
+⏳	czas klepsydra z przesypującym się piaskiem odmierzać piasek
+🌙	księżyc noc półksiężyc sierp księżyca
+🤭	buźka chichotać głowa haha hehe hihi śmiech twarz z ręką na ustach ups
+🥗	jedzenie sałata sałatka surówka
+🈹	ideogram japoński podział przecena przycisk rabat
+🔔	dzwon dzwonek
+🦹	antagonista antybohater czarny charakter potwór przestępca superłotr supermoc supermoce zło złoczyńca zły bohater
+🙎	buźka foch głowa gniewać się kapryśna kobieta mina naburmuszać nadąsana osoba niezadowolona obrażona
+🫴	dłoń skierowana w górę łapanie nie wiem powiedz mi propozycja przywołanie skinienie wyciągnięta ręka
+👨‍🦽	dostępność mężczyzna na wózku inwalidzkim wózek inwalidzki
+🙇	gest osoba w ukłonie przepraszam skrucha ukłon wybacz żal
+🔈	dźwięk głośnik głośność niska głośnika
+🍋‍🟩	cytrus kwaśne limetka limonka mojito owoc soczysty tequila tropikalny
+🪖	armia hełm kask militaria ochrona głowy wojownik wojsko wojskowy żołnierz
+🪰	choroby giez gnicie insekt mucha owad szkodnik tse-tse zwierzę
+👧	dziecko dziewczynka głowa młoda panna znak zodiaku zodiak
+🍂	jesień jesienne liście roślina spadające
+🍝	jedzenie kluski makaron pasta spagetti spaghetti
+🧑‍🦼	dostępność osoba na elektrycznym wózku inwalidzkim wózek inwalidzki
+🏂	snowboard snowboardzista sport zima
+🏬	budynek dom towarowy sklep supermarket
+🤾	grająca osoba piłka piłką piłkarka piłkarz ręczna ręczny rzut sport szczypiorniak szczypiornista szczypiornistka w piłkę ręczną
+🌳	drzewo liściaste roślina
+🏐	do siatki siatkówki piłka siatka siatkowa siatkówka sport
+🧴	balsam butelka z płynem krem do opalania mleczko szampon
+💨	pęd pędzić podmuch wiatru pogoda szybkie poruszanie się szybkość wiatr wieje wietrznie
+🪱	dżdżownica glista kompostowanie pasożyt pierścienice robak zwierzę
+🫕	czekolada fondue garnek jedzenie na ciepło roztopione ser szwajcarskie
+🕧	12 12:30 30 czas dwunasta trzydzieści godzina zegar zero
+🥣	jedzenie miska z łyżką zupa
+🍞	bochenek chleb chleba jedzenie kawałek pieczywo
+🌚	bajka baśń księżyc w nowiu z twarzą noc nów
+🦨	skunks smród zwierzę
+🚹	dla mężczyzn męska męski szalet toaleta ubikacja ustęp wc
+🪅	cinco de mayo cukierki meksyk pinata piniata święto tradycja zabawa
+🪢	łączyć lina makrama połączenie splot supeł sznur sznurek węzeł wiązać wiązanie
+🫢	niedowierzanie niespodzianka omg przestrach przestraszona twarz szok z otwartymi oczami i ręką na ustach zasłonięte usta zawstydzona zdumienie
+🎻	altówka grać instrument muzyczny muzyk muzyka orkiestra skrzypce smyczek strunowy
+🛫	odlot odprawa podróż pojazd samolot samolotu start wylot
+💐	bukiet kwiatów kwiaty miłość roślina
+👎	brzydkie kciuk w dół nie lubię podoba mi się ręka
+🤟	dłoń gest kocham miłość miłości palce ręka rogi znak
+♋	rak znak zodiaku zodiak
+🦸	bohater bohaterka dobro moc pozytywny siła superbohater superbohaterka superman supermoc supermoce
+👏	brawa brawo klaskać klaskanie oklaski ręce ręka
+🧚	bajka baśń fantasy oberon puk tytania wróżka
+🏢	biurowiec blok budynek
+🧻	papier toaletowy ręczniki papierowe rolka papieru toaleta ubikacja
+🔅	jasność mała niska przyciemnić przycisk małej jasności słońce
+🆓	przycisk free za darmo znak braku opłaty
+🪛	narzędzie śruba śrubokręt wkręt wkrętak
+📖	czytać książka nauka otwarta uczyć się
+🍬	cukierek deser jedzenie słodki słodycze
+🃏	dżoker gra joker karta
+🧪	chemia chemik eksperyment laboratorium nauka probówka
+🍟	fast food frytki jedzenie
+🌏	australia azja kula ziemska przedstawiająca azję i australię planeta świat ziemia
+🧵	dratwa igła nawlekać nić nitka szpulka szyć szycie
+🆎	ab grupa krwi krew
+👩‍🍼	karmienie butlą piersią kobieta karmiąca niemowlę mama mleko modyfikowane
+🕛	00 12 12:00 dwunasta godzina północ południe zegar zero
+🍰	ciasto deser jedzenie przyjęcie słodycze tort
+🦩	ekstrawagancja flaming tropikalny zwierzę
+😁	buźka haha hehe śmiech szeroko uśmiechnięta twarz o roześmianych oczach uśmiech wyszczerzone zęby
+⬛	czarny duży figura geometryczna kwadrat średni
+🪻	bławatek chaber fioletowy hiacynt indygo krzew kwiat kwitnienie lawenda lilak łubin lwia paszcza purpurowy wiosna
+🖖	dłoń palce pozdrowienie ręka salut v wolkan wolkański wolkańskie żyj długo i pomyślnie
+🪍	łapać pułapka siatka zbierać
+⌚	godzina zegarek
+🐯	buźka głowa kot paski pyszczek tygrys tygrysa tygrysek zwierzę
+🚧	bariera prace drogowe znak drogowy
+🔵	figura geometryczna kółko koło niebieskie
+🌄	góry ranek słońce świt wschód słońca zza gór
+🚾	szalet toaleta ubikacja ustęp wc
+📮	listy na pocztowa skrzynka
+🦽	dostępność wózek inwalidzki ręczny
+🌁	mgła mglisto most podróż pogoda zamglenie zamglone
+🫈	człowiek z lasu gigant kryptyda las sasquatch wielka stopa włochate yeti
+🦷	białe dentysta stomatolog ząb zęby
+🪺	gniazdo gniazdowanie gnieżdżenie jajka ptasie z jajkami zniesione jaja
+🐜	mrówka owad zwierzę
+🔋	akumulator akumulatorek bateria energia
+🟡	kółko koło żółte
+🌑	ciemny księżyc noc nów
+😩	buźka cierpienie rezygnacja zmęczenie zmęczona znużona twarz
+🛒	koszyk sklep wózek sklepowy zakupy
+🆗	dobrze ok przycisk tak w porządku zgoda
+🪝	haczyk hak połknąć zaczep zahaczyć zakrzywiony zawiesić złapać złowić
+🥞	jedzenie naleśniki placki
+💳	bank karta kredytowa kredyt pieniądze
+🦗	konik owad polny świerszcz zwierzę
+🫛	edamame fasola groch grochu łuskać roślina soja sojowa strączek strączkowa strąk warzywo
+🥧	ciasto jedzenie placek szarlotka
+🧸	miś niedźwiadek niedźwiedź plusz pluszak pluszowa pluszowy przytulanka wypchana wypchany zabawka
+🧛	drakula nieumarły wampir
+🟪	fioletowy kwadrat kwadratowy
+🐱	buźka głowa kicia kot kota kotek pyszczek zwierzę
+🦺	bezpieczeństwo kamizelka ratunkowa ratowanie sytuacja awaryjna
+🈴	ideogram japoński ocena pozytywna przycisk razem zaliczenie
+🍏	jabłko jedzenie owoc zielone jabłuszko
+🌠	gwiazda kometa noc spadająca życzenie
+❌	× anuluj czerwony krzyżyk mnożenie x znak krzyżyka mnożenia
+🐸	buźka głowa żaby płaz ropucha traszka żaba żabka zwierzę
+🧀	jedzenie kawałek sera ser szwajcarski z dziurami żółty
+🪕	banjo instrument muzyka strunowy
+🐩	biały ostrzyżony pies piesek pudel pudelek zwierzę
+🦻	aparat słuchowy dostępność niedosłuch niedosłyszący ucho z aparatem słuchowym
+👩‍🦼	dostępność kobieta na elektrycznym wózku inwalidzkim wózek inwalidzki
+🧙	czarnoksiężnik czarnownica czarodziej fantasy magia
+👨‍🏫	mężczyzna nauczyciel osoba praca profesor wykładowca zawód
+💄	kosmetyki makijaż malować usta pomadka szminka
+🚘	auto nadjeżdżające nadjeżdżający pojazd samochód
+👨‍🏭	fabryka mężczyzna pracownik fabryki montażysta osoba praca spawacz zawód
+🏣	budynek japońska poczta
+🫐	antyoksydanty borówka amerykańska jagoda jedzenie owoc owoce leśne rośliny
+🦑	atrament jedzenie kałamarnica mątwa mięczak morze ocean ośmiornica owoce morza sepia tusz zwierzę
+🐵	buźka głowa małpy małpka zwierzę
+🧊	kostka lód lodu zimno zimny
+🤿	akwalung do nurkowania maska nurkowanie snorkeling snurkowanie sport z rurką
+📼	kaseta wideo taśma vhs
+💟	dekoracja z sercem kocham ozdoba serce
+🎥	film kamera filmowa kinematografia kino
+🧥	kurtka płaszcz zima zimno
+🐽	nosek ryj ryjek świni świnka świński zwierzę
+👭	kobieca para kobieta kobiety trzymające się za ręce miłość przyjaciółka przyjaźń zakochane zakochani
+🚝	jednoszynowa kolej pojazd szynowy
+🩷	143 emocje kocham cię lubić miłość różowe serce słodkie sympatia urocze
+🧑‍🎓	absolwent student
+🏡	budynek dom z ogrodem drzewo ogród
+😮‍💨	buźka dym gwizd twarz wypuszczająca powietrze ulga westchnienie wydech wydmuchiwać wykończony wypuszczać zmęczenie
+🔣	pisać symbole wprowadzać znaki
+🪚	majsterkowanie narzędzie piła do drewna przecinarka przycinać stolarz tarcica zębate ostrze
+🧕	chusta głowa hidżab hijab islam kobieta muzułmanka osoba uśmiech w chuście wesoła
+🦂	brązowy skorpion pajęczak trucizna zodiak zwierzę
+➖	- − matematyka minus odejmowanie odjąć znak
+😮	buźka o och szok twarz z otwartymi ustami zaskoczenie zaskoczona
+🪸	koralowa koralowiec ocean rafa
+🚊	pociąg pojazd szynowy tramwaj trolejbus
+😟	buźka martwić się ojej smutek zmartwienie zmartwiona twarz
+📇	wizytówka wizytówki wizytownik
+🌽	jedzenie kolba kukurydza kukurydzy warzywo
+📫	listy poczta pocztowa skrzynka z podniesioną flagą zamknięta
+🚄	kolej pendolino pociąg pojazd shinkansen szybki szynowy
+🧑‍🎨	artysta malarz paleta
+🪪	bezpieczeństwo dane osobowe dokument dowód osobisty tożsamości identyfikator prawo jazdy
+🫖	czajniczek czajnik dzbanek herbata imbryk na herbatę napój picie
+🕘	00 9 9:00 dwudziesta pierwsza dziewiąta godzina zegar
+🈵	brak ideogram japoński miejsc pełno pełny przycisk wypełnienie
+🐔	głowa kogut kura kurczak ptak zwierzę
+👩‍🦽	dostępność kobieta na wózku inwalidzkim wózek inwalidzki
+🛗	dostępność dźwig osobowy podnośnik winda wyciąg pionowy
+🍊	cytrus jedzenie mandarynka owoc pomarańcza
+🤒	buźka choroba gorączka smutek temperatura termometr twarz z termometrem
+🎾	do tenisa piłka rakieta sport tenis tenisowa
+🤡	buźka cyrk klown twarz klauna
+💰	bogaty dolary kasa pieniądze pieniędzy worek z pieniędzmi
+🛴	hulajnoga pojazd
+🪷	buddyzm czystość hinduizm kwiat lotos lotosu piękno spokój
+🦉	mądrość mądry noc oczy ptak sowa sówka zwierzę
+🐛	gąsienica owad robak zwierzę
+📣	kibicować megafon
+😱	buźka głowa krzycząca krzyk och przestrach strach twarz ze strachu
+🥨	ciastko jedzenie precel
+📎	biuro do papieru druciany spinać spinacz
+🍩	ciasto deser jedzenie pączek słodki z dziurką
+🐕	pies piesek psiaczek psinka zwierzę
+🧑‍🧒‍🧒	dorosły dziecko rodzina
+🪮	afro czesanie fryzjerski grzebień rozczesywanie włosy
+🫗	nalewanie płynu napój pusty rozlanie szklanka wylewanie
+📳	komórka telefon komórkowy tryb wibracji wibracje znak
+💏	buziaki całusy kocham miłość osoba osoby para pocałunek zakochani związek
+🔮	fortuna kryształowa kula przepowiadać wróżka wróżyć
+🙆	entuzjazm kobieta ojej ok osoba pokazująca gest podskok do góry ręce w górze zachwyt
+🏈	amerykański do futbolu amerykańskiego futbol piłka sport
+🥿	baleriny baletki but wsuwany buty obuwie pantofelek płaskie wygodne
+🦿	dostępność proteza nogi
+💆	ból głowy masaż odprężenie osoba podczas masażu relaks salon spa
+🫯	awantura dyskusja kłótnia raban różnica zdań walka
+🫰	dłoń ze skrzyżowanym palcem wskazującym i kciukiem drogie miłość pieniądze pstryknięcie palcami serce
+🥯	bajgiel chleb jedzenie pączek pieczywo piekarnia posmarować śniadanie
+🦜	gadająca mowa mówić papuga pirat ptak zwierzę
+👨‍🌾	farmer mężczyzna ogrodnik osoba praca rolnik zawód
+👖	dżinsy jeansy spodnie ubiór ubranie
+🦕	dinozaur głowa zauropod zwierzę
+🚯	nie śmiecić wolno wyrzucać śmieci zabronione zakaz śmiecenia
+🩱	jednoczęściowy strój kąpielowy kostium do kąpieli
+➕	+ dodać dodawać dodawanie matematyka plus znak
+😡	buźka czerwony dąsy nadąsana twarz wściekłość złość
+🥋	judo karate martial arts sport strój do sztuk walki sztuki taekwondo zawody
+🐣	kura kurczaczek kurczak kurczątko pisklak ptak wykluwać się wykluwające zwierzę
+👑	korona król królowa
+🏆	nagroda puchar sport trofeum zwycięstwo
+🦔	jeż jeżyk kolce zwierzę
+✋	dłoń ręka stop uwaga wzniesiona
+🔪	broń gotowanie kuchenny kuchnia narzędzie nóż
+🪔	dipa lampka oliwna
+🐏	baran baranek owca rogaty rogi zodiak zwierzę
+🟣	fioletowe kółko koło
+🥦	brokuł jedzenie warzywo zielone
+👜	bagaż damska torba torebka
+🍎	czerwone jabłko jedzenie owoc słodkie
+🍜	jedzenie kluski miska parująca parujące pho ramen zupa
+🐓	kogut ornitologia ptak zwierzę
+🪑	krzesło siadać siedzenie
+🧠	inteligentny mózg myśleć
+📘	biblioteka czytać książka niebieska
+🛬	lądowanie podróż pojazd przylot samolot samolotu
+🍘	jedzenie krakers ryż ryżowy
+🦚	dumna dumne dumny kolorowy ładny ptak ostentacyjna ostentacyjne ostentacyjny paw pawica piękny śliczny zwierzę
+🎆	fajerwerki nowy rok obchody ognie petardy święta sylwester sztuczne zimne
+🫌	delikatność gąsienica metamorfoza migracja motyl nadzieja owad transformacja zmiana
+🤯	buźka eksplodująca głowa eksplozja nie wiedzieć niemożliwe szok wybuch
+🟩	kwadrat kwadratowy zielony
+🈲	ideogram japoński przycisk zabronione zakaz
+😈	buźka diabełek fantasy rogi różki uśmiechnięta twarz z rogami wesoły złośliwy
+💗	bicie serca kocham puls rosnące serce rośnie tętno zdenerwowany
+🔼	do góry przycisk „w górę” strzałka trójkąt w górę
+🎈	balon balonik impreza uroczystość urodziny
+🦀	krab morze ocean plaża rak zodiak zwierzę
+🩸	krew kropla krwi krwawienie krwiodawstwo medycyna menstruacja oddawanie rana
+📄	dokument kartka maszynopis pismo strona
+🐋	morze ocean wieloryb zwierzę
+🍌	banan egzotyczny jedzenie owoc
+🤕	bandaż buźka czoło głowa rana skaleczenie smutny twarz z bandażem
+👡	but buty damski obuwie odzież sandał
+🏤	budynek poczta urząd pocztowy
+🏓	paletka piłeczka ping pingpong pong rakietka sport stołowy tenis
+🧁	babeczka ciastko cukier cukiernia deser jedzenie piekarnia podjadać posypka słodycze
+🌲	choinka drzewo iglaste igły las roślina wiecznie zielone
+🎂	ciasto jedzenie przyjęcie słodki słodkie świeczki święto świętowanie tort urodzinowy urodziny zdmuchnąć
+💋	odcisk ust pocałunek ślad po pocałunku usta
+🤔	buźka hm hmm myśląca twarz myślę zamyślony zastanawiam się zastanowienie
+⛳	flaga w dołku golf otwór pole golfowe sport
+🧫	badania bakteria bakterie biolog biologia kultura laboratorium płytka petriego szalka
+🥠	ciasteczko ciastko przepowiednia szczęście wróżba z wróżbą
+👐	otwarte dłonie puste ręce ręka złapać
+😃	buźka haha hehe radosny śmiech szczęśliwy uśmiech uśmiechnięta twarz z otwartymi ustami wesoły
+👅	ciało język mniam
+🤨	brew buźka dziwne głowa hę hmm nie wierzę sceptyczny twarz z podniesioną brwią zdziwiony że co
+🎌	japońskie flagi skrzyżowane uroczystość
+💫	gwiazda gwiazdka kosmos noc orbita spadająca zawroty głowy
+🤹	cyrk osoba spryt wielozadaniowość zarządzanie żongler żonglerka żonglowanie żonglująca
+📠	biuro faks
+🚪	drzwi
+🥹	duma łzy szczęścia wzruszenia opór płacz podziw proszę smutek smutna twarz powstrzymująca uczucia wdzięczność wzruszenie zawstydzenie zdenerwowanie
+🌖	chudnący księżyc z brzuszkiem noc tłusty zanikający między pełnią a ostatnią kwadrą
+🙏	dziękuję modlitwa prosić ręka złożone ręce
+🧑‍🎤	aktor artysta gwiazda muzyka piosenkarz
+🪥	czyszczenie do zębów higiena jama ustna łazienka myć zęby mycie szczoteczka szczotka
+🏄	deska fala morze ocean osoba sport surfer surferka surfing surfująca
+👩‍🔬	biolog chemik inżynier kobieta naukowiec osoba zawód
+🤺	osoba uprawiająca szermierkę sport szermierka szermierz szpada zawody
+🎠	karuzela koń z karuzeli konik
+🈳	ideogram japoński miejsce przycisk puste pusty wolne wolny
+🔥	ogień płomień pożar
+🪿	drób gąsior gęganie gęś gęsi głuptas kaczka ptak stado zwierzę
+🍨	deser jedzenie lody
+🕓	00 4 4:00 czas czwarta godzina szesnasta zegar
+🔯	gwiazda sześcioramienna z kropką szczęście żydowska
+📉	akcje bessa malejący rynek niedźwiedzia spadek spadkowa spadku strata tendencja trend wykres zniżkowa zniżkowy
+🐀	gryzoń mysz szczur szczurek zwierzę
+👟	bieganie but do biegania sport trampek
+📯	poczta pocztowa pocztyliona róg trąbka
+😅	buźka gafa haha hehe kropla potu oblana zimnym potem pot śmiech uśmiech uśmiechnięta twarz z otwartymi ustami wesoły zawstydzony
+🦛	hipcio hipopotam zwierzę
+🌛	bajka księżyc z twarzą noc pierwsza kwadra księżyca
+👔	koszula krawat męski ozdoba praca
+🧡	kocham pomarańczowe serce
+❔	biały znak zapytania co o chodzi pytajnik pytanie
+🐺	buźka dziki głowa las pysk wilk wilka zwierzę
+🪹	gniazdo gniazdowanie gnieżdżenie ptasie puste
+🤴	baśń głowa korona król książę mężczyzna monarcha w koronie
+🌘	cieniutki księżyc noc sierp zanikający półksiężyc
+🩺	lekarz medycyna praca serce stetoskop
+🍣	jedzenie sushi suszi
+🍢	jedzenie na patyku oden owoce morza szaszłyk
+🦐	jedzenie krewetka morze ocean owoce morza zwierzę
+🫺	chwyt neutralny prawo punkt ten to
+🍮	ciastko kremowe creme brulee custard deser jedzenie krem angielski słodkie
+🥐	croissant francuski jedzenie pieczywo rogal rogalik
+🔖	zakładka zaznaczenie
+🥟	gyoza jedzenie pieróg pierogi
+🎭	maski teatr teatralne występ występować
+🈚	bezpłatne darmowe ideogram japoński negacja przycisk za darmo
+🚋	pojazd szynowy tramwaj tramwajowy trolejbus wagon
+🚦	drogowe pionowa światła świetlna sygnalizacja uliczna
+😒	nah nie niezadowolenie niezadowolona buźka twarz obrzydzenie smutek wtf
+🔹	figura geometryczna kształt mały niebieski romb
+🪴	doniczka doniczkowa doniczkowy kwiat roślina
+🧰	czerwona klucze kombinerki mechanik na narzędzia narzędzie skrzynka z narzędziami
+🦃	indyk ptak zwierzę
+🍄	grzyb muchomor muchomorek trujący
+🟤	brązowe kółko koło
+🫱	dłoń skierowana w prawo prawa uścisk dłoni wyciągnięta
+🧟	chodzące trupy halloween horror nieumarli strach straszny zombie
+👨‍🎤	aktor mężczyzna osoba piosenkarz praca rock rocker zawód
+🫩	podkrążone oczy senność worki pod oczami zmęczenie
+🤗	buźka przytulać przytulanie ręka ściskam twarz z gestem przytulania uśmiech
+⏩	do przodu podwójna przewiń przycisk szybkiego przewijania strzałka szybkie przewijanie trójkąt
+🕜	1 1:30 30 czas godzina pierwsza trzydzieści trzynasta zegar
+📈	akcje hossa rosnący rynek byka tendencja trend wykres wzrost wzrostowa wzrostu zwyżkowa zwyżkowy
+🦆	kaczka kaczor ptak woda zwierzę
+🤼	na ringu osoby sport uprawiające zapasy walka wrestlerki wrestlerzy wrestling zapaśnicy zapaśniczka zapaśniczki zapaśnik
+🎶	muzyka nuta nuty
+🦁	buźka dziki głowa grzywa kot lew lwa pysk zodiak zwierzę
+🤏	ciut dłoń z gestem „trochę” mała ilość mało palce szczypta trochę
+🪄	abrakadabra czarodziej czarodziejka czarodziejska czary czary-mary hokus-pokus magia magik różdżka zaklęcie
+🆖	ng niedobrze przycisk źle znak
+😙	buzi buźka całująca twarz o roześmianych oczach całus pocałunek ślę całusa
+🙍	niepokój osoba przygnębienie smutek smutna smutny urażona urażony zachmurzona zachmurzony zmartwienie zmartwiona zmartwiony
+🚂	ciuchcia kolej lokomotywa pociąg podróż pojazd stara
+👰	osoba ślub w welonie welon wesele
+🚭	nie wolno palenie wzbronione papieros zabronione zakaz palenia
+😨	buźka przestraszona twarz strach wystraszona
+🎼	klucz muzyka nuty partytura pięciolinia wiolinowy
+🤦	facepalm fejspalm niedowierzanie osoba trzymająca się za czoło zakrywająca twarz dłonią tylko nie to załamanie załamka
+📞	rozmawiać słuchawka telefon telefoniczna
+🚎	autobus elektryczny pojazd trolejbus
+🔢	1234 cyfry kalkulator liczby wprowadzać
+🪣	ceber czerpak kubeł nabierać wodę naczynie na ciecz pojemnik skopek sprzątanie wiaderko wiadro
+😾	głowa grymas kot nadąsany obrażony zły zwierzę
+🥢	pałeczki
+🏑	boisko hokej kijek mecz na trawie piłka sport
+🎢	kolejka górska park rozrywki rollercoaster wesołe miasteczko
+🐭	buźka głowa myszy mysz myszka zwierzę
+😧	ból buźka niedowierzanie udręczona twarz zawód zdziwienie złość
+🐷	buźka głowa ryjek świni świnia świnka zwierzę
+🫣	chowanie się gapienie nieśmiałość podglądanie strach twarz z podglądającym okiem ukrywanie zaabsorbowana zawstydzenie
+🍈	jedzenie melon owoc
+🤛	cios pięść skierowana w lewo uderzenie z prawej żółwik
+🙋	gest halo hej osoba podnosząca rękę powitanie pozdrowienie ręka do góry witaj zgłaszać się zgłaszająca
+🚲	pojazd rower rowerek
+🍑	brzoskwinia jedzenie owoc
+🌍	afryka europa kula ziemska przedstawiająca europę i afrykę planeta świat ziemia
+👬	dwóch mężczyzn trzymających się za ręce gej lgbt mężczyźni miłość para zakochani
+🐗	dzik dzika głowa knur las świnia zwierzę
+🤎	brązowe serce
+🚃	elektryczny kolejowy pociąg pojazd szynowy tramwaj wagon
+🎤	karaoke mikrofon muzyka śpiewać
+👿	buźka diabełek fantasy rogi różki smutny zagniewana twarz z rogami zły
+📡	antena satelitarna czasza kosmici nauka obcy satelita talerz
+🫨	drganie łał niespodzianka omg oszołomienie szaleństwo szok trzęsienie ziemi twarz wibracje wow wstrząs wstrząśnięta
+🤜	cios pięść skierowana w prawo uderzenie z lewej żółwik
+🌰	jedzenie kasztan jadalny orzech orzeszek
+🐨	australia buźka eukaliptus głowa koala miś zwierzę
+📚	biblioteka czytać książka książki nauka
+🌿	liście roślina zioła zioło
+♍	panna znak zodiaku zodiak
+📂	dokumenty folder katalog otwarty teczka
+🔠	abcd alfabet łaciński duże litery kapitaliki łacińskie pisać wielkie wielkimi literami wprowadzać
+🔗	hiperłącze link ogniwa ogniwo połączenie
+🔱	emblemat kotwica okręt posejdon statek trójząb tryton z trójzębem
+🥒	jedzenie korniszon ogórek pikle warzywo
+⏪	do tyłu podwójna przewiń przycisk szybkiego przewijania strzałka szybkie przewijanie trójkąt w lewo wstecz
+🥁	bęben bębenek grać muzyka
+📅	data kalendarz
+👨‍🦼	dostępność mężczyzna na elektrycznym wózku inwalidzkim wózek inwalidzki
+🍚	gotowany jedzenie miseczka ryż z ryżem
+🐆	cętki drapieżnik dziki kot lampart zwierzę
+☔	deszcz opady pada parasol z kroplami deszczu parasolka pogoda
+🍼	bobas butelka dzidziuś mleko napój niemowlęca smoczek ze smoczkiem
+🎳	bowling kręgle kula sport
+🪭	flirt gorąco nieśmiałość ochłoda taniec wachlarz wachlować wachlowanie
+🍉	arbuz arbuza jedzenie kawałek lato owoc
+🎄	bombki boże narodzenie choinka bożonarodzeniowa drzewko święta
+🔲	biały czarny kwadratowy przycisk figura geometryczna kwadrat obramowanie
+🧑‍🌾	farmer ogrodnik rolnik
+🚩	chorągiewka czerwona flaga trójkątna słupek
+🦓	koń paski sawanna zebra zwierzę
+🍗	jedzenie kurczak mięso nóżka udko kurczaka
+🥮	biszkopt ciasteczko księżycowe ciasto jedzenie jesień placek święto yuèbǐng
+🏪	budynek sklep całodobowy
+🍓	jedzenie owoc truskawka
+🤚	cześć powitanie pozdrowienie pożegnanie stop uniesiona dłoń wzniesiony grzbiet dłoni
+📩	e-mail email koperta list mail odebrać poczta przychodząca wiadomość ze strzałką
+📓	notatnik notes szary zeszyt
+👥	osoby sylwetki popiersi
+📊	diagram słupek słupkowy wykres
+🗽	stany zjednoczone statua usa wolności
+🕒	00 3 3:00 czas godzina piętnasta trzecia zegar
+🪋	apokalipsa grawitacja gwiazda kula ognia przestrzeń skała spadać
+👓	oczy okulary szkła
+🚰	kran pić pitna szklanka woda
+🎽	bieganie do biegania koszulka sport szarfa t-shirt
+😴	buźka chrapanie dobranoc drzemka noc nuda sen spać spanie śpiąca twarz śpiący ziew zmęczenie zzz
+🎦	film kamera kino kręcić
+🥏	dysk frisbee frizbi sport
+🦡	borsuk ratel miodożerny zwierzę
+🎨	farby kolory malarska malarz muzeum paleta sztuka
+🍖	jedzenie kość mięso z kością
+🔍	detektyw lupa pochylona skierowana szukaj w lewo
+🌹	czerwony kwiat miłość roślina róża
+👩‍🚀	astronautka kobieta kosmos osoba praca rakieta zawód
+🐚	morze muszelka muszla spiralna plaża spirala zwierzę
+🎰	automat do gier gry gra hazard jednoręki bandyta kasyno
+🕺	impreza mężczyzna tancerz tańczący tańczyć taniec zabawa zawód
+🔡	abcd alfabet łaciński łacińskie litery małe małymi literami pisać wprowadzać
+👩‍🦯	dostępność kobieta z białą laską niewidoma
+🕍	religia świątynia synagoga żyd żydowski
+🛁	kąpiel wanna
+💘	kocham przebite serce strzałą ze
+🥍	bramka kij lacrosse piłka sport
+🧑‍🔧	elektryk hydraulik mechanik
+😍	buźka kocham miłość serca uśmiech uśmiechnięta twarz z oczami w kształcie zachwyt zakochany
+🆑	przycisk cl znak
+🧃	kartonik napój słodki słomka sok w kartoniku
+👒	damski kapelusz nakrycie głowy ze wstążką
+♌	lew znak zodiaku zodiak
+🌞	bajka baśń ciepło głowa magia promienny słońce z twarzą twarz uśmiech
+🍆	bakłażan jedzenie oberżyna warzywo
+😊	buźka haha hehe przyjazny serdeczny śmiech uśmiech uśmiechnięta twarz o roześmianych oczach
+🫸	blokować czekać dłoń pchająca w prawo odmawiać pchać piątka stop wstrzymać
+💲	dolar dolary gruby symbol dolara pieniądze usd waluta
+🦍	goryl zwierzę
+🌈	deszcz gej geje kolory les lesbijki lgbt lgbtq lgbtqia nadzieja pogoda pride słońce tęcza transpłciowość
+🙂	buźka haha hehe lekko uśmiechnięta twarz miły śmiech uśmiech wesoły
+🧭	kierunek kompas magnetyczny magnetyzm nawigacja orientacja w terenie strony świata
+👞	but męski
+🩳	bermudy bielizna spodenki strój do kąpieli szorty
+🧑‍🚀	astronauta rakieta statek kosmiczny
+🕚	00 11 11:00 czas dwudziesta trzecia godzina jedenasta zegar
+😵	buźka chory knock out nokaut oszołomiona twarz oszołomiony zawrót głowy
+📿	korale koraliki modlitwa naszyjnik religia różaniec sznur modlitewny
+🤓	buźka w okularach bystry inteligent kujon mózgowiec nerd okulary uśmiech utalentowany
+🪀	jojo zabawka
+🏫	budynek szkoła zegar
+🍹	alkohol bar drink impreza palemka tropikalny wakacje z palemką
+🕝	2 2:30 30 czas czternasta trzydzieści druga godzina zegar
+🕠	30 5 5:30 czas godzina piąta trzydzieści siedemnasta zegar
+📟	pager
+🎵	muzyka nuta
+👙	bikini do pływania strój kąpielowy ubiór ubranie
+🩲	bielizna kąpielówki majtki do kąpieli slipy strój
+🤑	bogaty buźka hajs kasa pieniądze twarz z pieniędzmi na ustach
+🚛	auto ciężarówka dostawczy pojazd samochód ciężarowy tir
+🥘	danie z patelni jedzenie paella patelnia rondel wok
+😘	buzi buźka całuję całus kocham miłość serce ślę całusa twarz przesyłająca
+🛺	autoriksza tuk-tuk
+👱	blond blondyn blondynka osoba włosy z włosami
+🛂	granica graniczna kontrola paszportowa paszport
+🪓	drewno rąbać rozłupywać siekiera topór
+🫝	fermentacja korniszon ogórek przyprawa przyprawiać sezon ogórkowy solanka
+🔞	18 niedozwolone niepełnoletni od lat ograniczenie osiemnastego osiemnastu poniżej roku życia wiekowe zabronione zakaz
+🤝	cześć dłonie powitanie ręce ręka spotkanie tak uścisk dłoni zgoda
+📒	notatki notatnik skoroszyt zeszyt żółty
+🚥	drogowe pozioma światła świetlna sygnalizacja uliczna
+🔊	duża głośność dźwięk głośnik wysoka głośnika
+🐴	głowa koń konia konik końska koński łeb zwierzę
+😕	buźka smutek zakłopotana zakłopotanie zastanowienie zdezorientowana twarz
+🫑	papryka paprykowy roślina słodka warzywo witaminy zielona
+🫄	brzuch ciąża najedzona osoba pełny przejedzenie w ciąży wzdęty
+🪐	pierścienie planeta z pierścieniami saturn saturnowy
+🏅	medal sportowy nagroda sport zawody
+🏯	budynek japoński zamek
+🌊	fala fale hokusai kanagawa morze obraz ocean tsunami wielka
+💿	blu-ray cd dvd dysk optyczny komputer płyta
+🪦	cmentarz epitafium grób kamień nagrobny miejsce pamięci mogiła nagrobek płyta nagrobna pomnik spoczywać w pokoju
+⚾	baseball mecz piłka sport
+👈	dłoń z palcem wskazującym w lewo lewa strona palec ręka tam wskazujący
+🦒	głowa sawanna zwierzę żyrafa
+🌗	księżyc kwadra noc ostatnia księżyca
+🚸	dla dzieci pieszych dziecko przechodzące przejście przez jezdnię uwaga
+🤳	aparat selfie telefon zdjęcie
+🏀	do kosza koszykówki kosz koszykowa koszykówka piłka sport
+🚏	przystanek autobusowy
+🥷	najemnik niewidoczny ninja osoba skradać się tajny agent ukryty wojna wojownik żołnierz
+⚽	futbolówka mecz nożna piłka sport
+🚖	auto nadjeżdżać nadjeżdżająca pojazd samochód taksówka taryfa taxi żółta żółty
+👂	ciało słyszeć ucho
+👝	damska portmonetka saszetka torba torebka
+📵	komórka nie wnosić wolno telefon komórkowy zabroniony zakaz korzystania z telefonów komórkowych
+🐳	fontanna morze ocean strumień tryskający wodą wieloryb woda wody zwierzę
+😯	buźka o zaskoczenie zaskoczona zdumienie zdumiona twarz zdziwienie
+🍫	czekolada deser jedzenie słodycze tabliczka czekolady
+🌋	erupcja góra lawa wulkan
+🧝	bajka baśń elf fantasy magia
+💛	kocham miłość serce żółte
+👨‍💻	inżynier komputer mężczyzna technolog oprogramowanie osoba praca programista wynalazca zawód
+🐃	bawół wół zwierzę
+🧆	ciecierzyca falafel jedzenie kotlecik z ciecierzycy
+💎	diament kamień klejnot miłość szlachetny
+🧑‍🚒	straż pożarna strażak wóz strażacki
+📷	aparat fotografia fotograficzny robić zdjęcie wideo
+⛪	chrześcijański kościół krzyż religia świątynia
+🚵	górska górski kolarka kolarz na rowerze górskim osoba rower rowerzysta rowerzystka sport wyścig
+🐟	morze ocean ryba rybka ryby woda zodiak zwierzę
+🤥	buźka długi nos kłamać kłamca pinokio twarz kłamcy
+😛	buźka pokazująca język pokazany pokazywać twarz wystawiająca uśmiech
+🦵	kolano kończyna kopnąć kopniak kopnięcie noga stopa zgięta
+🪒	brzytwa golarka ręczna golenie ostre narzędzie żyletka
+💈	fryzjer słup fryzjerski
+📹	kamera nagrywać wideo
+🛵	motor pojazd skuter
+💸	bank banknot dolary gotówka pieniądze rachunek skrzydła uskrzydlone waluta ze skrzydłami
+🔦	elektryczna lampka latarka światło
+🧑‍🧑‍🧒‍🧒	dorosły dziecko rodzina
+🚳	nie wolno pojazd rower zabroniony zakaz wjazdu rowerów
+🪵	drewno kłoda pień polano tarcica
+😂	absurd buźka haha hehe lol łza łzy radości płacz śmiech śmieszne twarz ze łzami wesoły
+🐦	ornitologia ptak zwierzę
+🔩	gwint mocowanie nakrętka narzędzia śruba i
+🤠	buźka głowa w kapeluszu kowbojskim haha hehe kapelusz kowboj kowbojka wesoły
+🔉	dźwięk głośnik głośność mała średnia głośnika
+💇	fryzjer fryzjerka fryzura osoba podczas strzyżenia praca ścinać strzyżenie włosów włosy
+🧓	babcia dziadek osoba siwa siwy stara starsza staruszek staruszka stary starzec
+👼	aniołek bajka buzia aniołka fantasy głowa
+🪠	hydrauliczne hydraulik narzędzie odetkać przepychać przepychacz do toalety przyssawka toaleta udrażnianie rur udrożnić
+👨‍💼	architekt biuro biznesmen mężczyzna pracownik biurowy osoba praca zawód
+🔃	odśwież okrężny pionowe strzałki zgodne z ruchem wskazówek zegara zgodnie strzałka
+🦦	bystre łapanie ryb wydra zabawne zwierzę
+🗻	fudżi góra natura
+🐖	świnia świnka zwierzę
+🧲	kształt u magnes magnetyczny magnetyzm odpychanie podkowa przyciąganie
+🚻	łazienka szalet toaleta toalety ubikacja wc
+💤	chrapanie dobranoc komiks nuda sen senny spanie śpiący zabawny żartobliwy zmęczenie znudzenie zzz
+🔌	elektryczna podłączyć prąd wtyczka
+🏺	amfora dzban puchar stągiew waza wodnik zodiak
+📻	odbiornik radio radioodbiornik radiowy
+🧑‍🦯	dostępność niewidoma niewidomy osoba z białą laską
+🪗	akordeon bajan harmonia instrument klawisze koncertyna muzyka
+🍱	bento jedzenie pudełko ryż
+🔘	figura geometryczna kółko przycisk radiowy wyboru opcji
+🕙	00 10 10:00 czas dwudziesta druga dziesiąta godzina zegar
+👻	biały buźka duch duszek halloween język potwór wesoły
+🧉	napój yerba mate
+🫀	anatomia bicie serca kardiologia mięsień sercowy narząd organ puls serce
+🦭	foczka foka lew morski ssak zwierzę
+👨‍🔬	biolog chemik inżynier mężczyzna naukowiec osoba praca zawód
+🐫	baktrian dwugarbny garb garby pustynia wielbłąd zwierzę
+♉	byk znak zodiaku zodiak
+👨‍🍳	głowa kucharz mężczyzna osoba praca szef kuchni zawód
+🚢	łódka łódź pasażerski statek
+🥽	gogle narciarstwo narty nurkowanie ochronne okulary pływanie snorkeling snorkling snowboard spawanie zjazd
+🚟	kolej pociąg podwieszana pojazd
+🔶	duży figura geometryczna kształt pomarańczowy romb
+🪡	cerówka haft igła krawiecka krawiectwo szwy szycie z nitką zszywać
+⛺	kemping namiot obóz pole namiotowe
+🙁	buźka ech grymas lekko zachmurzona twarz meh niezadowolenie niezadowolony smutek smutny
+👾	fantasy kosmiczny potwór kosmita kosmos obcy pozaziemski sci-fi szarak twarz ufo ufoludek
+💷	bank banknot funta funty pieniądze płacić rachunek waluta
+🏉	do rugby piłka sport
+❓	co czerwony znak zapytania o chodzi pytajnik pytanie
+👩‍🎨	artysta artystka kobieta malarka malarz osoba paleta praca zawód
+🐇	króliczek królik zając zwierzę
+🌾	pędy ryżu roślina ryż ziarno żniwa
+🛷	sanie sanki śnieg sport zabawa zima
+🌀	cyklon pogoda spirala tajfun
+🦴	kość kości pies szkielet
+👨	głowa mężczyzna
+💥	kolizja komiks wybuch zderzenie
+🗿	głowa moai posąg twarz wyspa wielkanocna
+⛵	jacht łódka łódź morze statek wakacje żaglówka
+🫵	palec wskazujący skierowany na patrzącego ty wskazywanie
+🏰	budynek europejski średniowiecze zamek
+🐞	biedronka chrabąszcz chrząszcz kropki owad w żuk zwierzę
+🚆	kolej pociąg podróż pojazd
+🐕‍🦺	dostępność opiekun pies pomoc pomocnik zwierzę
+🐮	buźka głowa krowa krówka krowy łaty mleko zwierzę
+🏮	bar izakaya czerwony lampion japonia lampa
+😥	buźka łza płacz smutek smutna twarz z wyrazem ulgi ulga
+🧤	ręka rękawiczka rękawiczki
+🐰	buźka futrzak głowa króliczek królik królika zając zająca zwierzę
+🏨	budynek hotel
+🍕	fast food jedzenie kawałek pizza pizzy
+📗	biblioteka czytać książka zielona
+🎇	fajerwerki nowy rok obchody ognie petardy święta sylwester sztuczne zimne
+🪳	karaczan karaluch owad prusak szkodnik zwierzę
+⚡	błysk błyskawica elektryczność napięcie niebezpieczeństwo piorun prąd wysokie
+⏬	na dół podwójna przycisk „szybko w dół” strzałka
+🍻	alkohol bar kufel kufle na zdrowie piwiarnia piwo pub stukające się piwa z piwem
+🚺	damska damski dla kobiet szalet toaleta ubikacja ustęp wc
+👚	bluzka damska ubiór ubranie damskie
+🧳	bagaż na kółkach pakować się pakowanie podróż wakacje walizka
+♐	strzelec znak zodiaku zodiak
+🚤	łódka łódź motorówka ścigacz wodny
+📝	kartka notatka notatki ołówek papier pisać zapiski
+🪨	blok skalny bryła ciężki głaz kamień minerał odłamek opoka skała twardy
+🍅	jedzenie pomidor szklarniowe warzywo
+📁	dokumenty folder katalog teczka
+🎁	kokarda kokardka paczka podarunek prezent zapakowany
+🧑	człowiek dorosły głowa osoba płeć neutralna twarz
+🚒	auto pojazd pożar samochód strażacki straż pożarna wóz
+👷	budowlaniec kask osoba praca robotnik w kasku zawód
+🔤	abc abecadło alfabet łaciński litery małe pierwsze wprowadzać
+🚞	górska górski góry kolej kolejka pojazd wagon
+🌐	glob globus kula ziemska z meridianami południkami południki równoleżniki ziemia
+😸	głowa haha hehe kot oczy roześmiany uśmiech uśmiechnięty o wesołych oczach wesoły zadowolony zwierzę
+🫡	ok pogodna twarz powodzenia salutowanie salutująca tak jest wojsko
+🟰	gruby znak równości matematyka równa się równość
+🚬	dla palących dym dymek palacz palić papieros
+🆒	aprobata cool przycisk świetnie zachwyt znak
+🍺	alkohol bar impreza kufel piwa piwo pub z piwem
+🪏	dziura kopać łopata szpadel
+🐂	byk krowa wół zodiak zwierzę
+🤙	dłoń w geście zadzwoń do mnie dzwonić essa luz ręka telefonować
+♓	ryby znak zodiaku zodiak
+👵	babcia kobieta siwa stara starsza staruszka
+🐧	antarktyda pingwin ptak zwierzę
+❎	anuluj iks w kwadracie krzyżyk mnożenie przycisk z krzyżykiem x
+🟫	brązowy kwadrat kwadratowy
+🥩	jedzenie kawałek mięsa mięso schabowy stek wieprzowina wołowina
+🦾	dostępność mechaniczne ramię proteza
+🎣	łowienie ryb wędka z rybą złowić
+😌	błogość buźka odprężenie odprężona twarz z wyrazem ulgi uf ulga uśmiech
+🫷	blokować czekać dłoń pchająca w lewo odmawiać pchać piątka stop wstrzymać
+🐝	owad pszczoła pszczółka wiosna zwierzę
+🌻	kwiat roślina słońce słonecznik
+✨	* błysk gwiazda gwiazdki gwiazdy iskry noc świecący świeci
+🚽	dolnopłuk muszla klozetowa sedes toaleta ubikacja
+🥑	awokado jedzenie owoc roślina
+👛	monety na pieniądze portmonetka różowa torebka
+🌮	jedzenie meksykańskie taco
+📋	do pisania kartka notes pisać pisanie podkładka referat
+🦊	buźka chytrość chytry głowa lis lisa przebiegły rudy zwierzę
+⚫	czarne figura geometryczna kółko koło
+♒	wodnik znak zodiaku zodiak
+🐈‍⬛	czarny kot nieszczęście pech przesąd zabobon zwierzę
+🩵	143 błękitne jasnoniebieskie kocham cię lubić miłość serce sympatia turkusowe urocze zielononiebieskie
+📤	e-mail email list mail na listy nadawać nadawcza pocztowa skrzynka wysyłać ze strzałką
+🐐	koza koziorożec kózka rogi zodiak zwierzę
+🧂	przyprawa słona słone słony smak sól solniczka
+🎯	cel dziesiątka gra lotki strzał trafienie w 10 dziesiątkę zabawa
+🐻	buźka głowa miś niedźwiedź niedźwiedzia zwierzę
+🔨	młot młotek naprawa narzędzia narzędzie
+🚣	łódka łódź osoba w łodzi wiosłowanie wiosłująca zawody
+👕	koszulka krótkie rękawy męska t-shirt z krótkimi rękawami
+🐼	buźka głowa miś panda pandy zwierzę
+👃	ciało nos
+📭	listy otwarta poczta pocztowa skrzynka z opuszczoną flagą
+🚁	helikopter pojazd śmigłowiec
+🛻	auto furgonetka pick-up pikap półciężarówka półtonówka przewozić samochód
+🕤	30 9 9:30 czas dwudziesta pierwsza trzydzieści dziewiąta godzina zegar
+🫅	korona król królewski monarcha osoba w koronie szlachta
+🧑‍🦽	dostępność osoba na wózku inwalidzkim wózek inwalidzki
+🌱	kiełek młoda pęd roślina roślinka sadzonka
+😪	buźka sen senna twarz senność spać śpiąca
+🧒	dziecko głowa młoda młody osoba
+🦤	dodo duży mauritius ptak ptaszysko wymarły zwierzę
+👢	but buty damski kozaczek kozak obuwie odzież ubranie
+📬	listy otwarta poczta pocztowa skrzynka z podniesioną flagą
+🚼	dziecko niemowlę niemowlęcia przewijak symbol znak
+🚑	ambulans auto erka karetka pogotowia pogotowie pojazd samochód
+😞	buźka przykro mi rozczarowana twarz rozczarowanie smutek
+🍸	alkohol bar drink impreza kieliszek koktajl z koktajlem
+🥵	choroba czerwona buźka twarz duszno dyszeć gorąco gorączka pocenie pot rozgrzana rozpalony spocony udar cieplny słoneczny upał
+🫔	danie jedzenie meksykańskie pamonha przekąska tamales zawijane
+👹	diabeł japonia maska ogr potwór zły
+😬	buźka grymas grymaśna twarz z grymasem wyszczerz zęby
+🤶	głowa kobieta mikołaj mikołajowa pani święta żona św mikołaja
+🎓	absolwenta biret czapka edukacja nakrycie głowy studia ubiór uczony uniwersytet uroczystość
+👩‍🎓	kobieta osoba studentka szkoła
+🛖	chata chatka dom domek jurta okrągły przytulny schronienie strzecha
+🎬	film kino klaps
+🤘	dłoń gest heavy metal mano cornuta ręka rock and roll rocker rogi rogów znak
+🕣	30 8 8:30 czas dwudziesta trzydzieści godzina ósma zegar
+🤫	buźka cicho cii cisza głowa sza twarz uciszać uciszająca
+🔭	luneta obserwacja powiększenie teleskop
+🌸	kwiat wiśni kwiatek kwitnąca wiśnia sakura
+🥻	odzież sari sukienka suknia ubranie
+🎷	instrument muzyka orkiestra saksofon
+😺	głowa haha hehe kot uśmiech uśmiechnięty z otwartym pyszczkiem wesoły zęby zwierzę
+😫	buźka kichać nie płacz rozpacz smutek smutny ziewanie zmęczenie zmęczona twarz
+😀	haha hehe roześmiana buźka śmiech szeroko uśmiechnięta twarz uśmiech
+💭	chmurka dymek myśli myśl myśleć
+🦼	dostępność elektryczny wózek inwalidzki
+👩‍💼	architekt biuro bizneswoman kobieta osoba praca pracownica biurowa zawód
+♿	dostępność inwalida inwalidzki inwalidzkiego na wózku niepełnosprawność niepełnosprawny symbol wózek wózka znak
+🥄	łyżeczka łyżka sztućce
+🧽	gąbka myć się mycie porowata porowaty sprzątać sprzątanie wchłanianie wsiąka wsiąkać
+💵	bank banknot dolara dolary pieniądze płacić rachunek waluta
+🐹	buźka chomik chomika głowa gryzoń mysz zwierzę
+💾	dysk dyskietka komputer
+🌔	księżyc z brzuszkiem narastający między pierwszą kwadrą a pełnią noc tłusty
+🥫	jedzenie puszka w puszce
+💴	bank banknot jena jeny pieniądze płacić rachunek waluta
+🦧	człekokształtna goryl małpa orangutan zwierzę
+🍶	alkohol butelka i kubek sake
+⚪	białe figura geometryczna kółko koło
+🆙	do góry przycisk up znak
+😎	buźka cool haha hehe lato luzak na luzie okulary szpaner uśmiech uśmiechnięta twarz w okularach przeciwsłonecznych zadowolony
+📐	ekierka linia linijka prosta trójkąt
+🫧	bąbelki mycie mydło piana plusk pod wodą
+💕	dwa serca kocham miłość
+😗	buzi buźka całująca twarz całus pocałunek ślę całusa
+🫤	do kitu frustracja niepewna twarz rozczarowana sceptyczna z ukośnymi ustami wątpienie zmieszanie
+💬	dialog dymek rozmowa
+🛘	góra katastrofa lawina błotna niebezpieczeństwo skały trzęsienie ziemi
+🚚	auto ciężarówka dostawa dostawczy pojazd samochód
+🔚	koniec strzałka z napisem end
+💺	fotel krzesło samolot siedzenie
+🎉	bal impreza konfetti tuba z uroczystość
+🤲	dawać dłonie do góry razem modlić się modlitwa ręce ręka
+😔	buźka smutek zamyślenie zamyślona twarz
+👋	cześć dłoń halo hej machać machająca pa papa powitanie pożegnanie ręka witaj
+🎊	bal impreza konfetti kula z uroczystość
+💼	aktówka biuro neseser teczka
+🥬	bok choy burger jarmuż jedzenie kapusta chińska pekińska liść pak sałata sałatka warzywo zielenina zielony
+🈸	aplikacja ideogram japoński przycisk wniosek zastosowanie
+🚱	nie pić wolno niezdatna woda do picia zabronione zakaz
+🐄	krowa krówka łaty mleko zwierzę
+⬜	biały duży figura geometryczna kwadrat
+😝	ble buźka haha hehe język niesmaczne okropne pokazywać smak twarz ze zmrużonymi oczami wystawiająca zamknięte oczy
+😓	beznadziejny buźka kropla potu nerwy pot spocony twarz ze spuszczonymi oczami oblana potem zimny
+🩼	ból kij kula laska niepełnosprawność pomoc w chodzeniu
+🙀	głowa kot przestrach przestraszony w szoku zaskoczony zdumiony zszokowany zwierzę
+🧯	gasić gaśnica ogień pożar ugasić zgasić
+🦖	dinozaur głowa t-rex tyranozaur zwierzę
+🧑‍🧒	dorosły dziecko rodzina
+🐒	małpa małpka zwierzę
+🥴	alkohol buźka faliste usta krzywe na gazie nierówne oczy niewyraźna twarz odurzony pijana pijane pijani pijany pod wpływem podchmielenie podchmielony rozbiegane wstawiony zamroczona zawroty głowy
+🧅	aromatyczna cebula jedzenie warzywo
+🍙	jedzenie kulka onigiri ryż ryżowa
+👨‍🚒	głowa mężczyzna osoba praca strażak wóz strażacki zawód
+🪈	dęty drewniany flet fujarka grać gwizdać instrument muzyka na flecie orkiestra piccolo pikolo piszczałka prosty
+🏏	do krykieta kij krykiet piłka sport
+👴	dziadek mężczyzna siwy starszy staruszek stary starzec
+🦝	buźka ciekawość ciekawski pracz szop zwierzę
+🎲	gra hazard kości kostka do gry w
+🚡	gondola gondolowa kolej kolejka linowa podwieszana wagonik
+😑	brak emocji buźka nic nie mam zdania obchodzi mnie twarz bez wyrazu wtf
+🥶	blada twarz buźka mróz mroźno niebieska odmrożenia odmrożenie poniżej zera sina siny sopel lodu sople szczękać zębami trzęsę się zimna zimno zmarznięta zmarznięty
+🚿	łazienka prysznic woda
+🖕	gest palec ręka środkowy wulgarny
+🫆	bezpieczeństwo odcisk palca tożsamość
+🧑‍🍳	kucharz szef kuchni
+🫠	gorąco płynna twarz rozpuszczająca się rozpuszczanie roztapiająca roztapianie sarkazm zawstydzenie znikająca
+🐑	baran baranek biały owca owieczka rogaty rogi wielkanoc zwierzę
+🕐	00 1 1:00 czas godzina pierwsza trzynasta zegar
+🔑	hasło klucz zamek zamknąć
+🚕	auto pojazd samochód taksówka taryfa taxi żółta żółty
+🎹	fortepian instrument keyboard klawiatura klawisze muzyka pianino
+🦮	dostępność niewidomi pies przewodnik zwierzę
+📃	dokument kartka maszynopis strona zawinięta
+👨‍🔧	elektryk hydraulik mechanik mężczyzna osoba praca zawód
+😄	buźka haha hehe śmiech uśmiech uśmiechnięta twarz z otwartymi ustami i roześmianymi oczami wesoły zadowolenia
+🥲	buźka dumny łza ulga uśmiechnięta ze łzą uśmiechnięty wdzięczność wdzięczny wzruszenie wzruszony
+🫥	chowanie się introwertyk niechęć niewidzialna twarz niewidzialność przygnębiona smutek otoczona linią przerywaną ukryta znikająca znikanie
+🥤	drink napój oranżada picie słomka soda szklanka ze słomką
+🥃	alkohol drink grube dno impreza szklanka whiskey whisky z grubym dnem
+🗼	tokio tokyo tower wieża
+🙄	buźka irytacja obojętność oczy pff przewracam oczami twarz przewracająca wszystko jedno zniecierpliwienie znudzenie
+🦥	leniwiec leniwy powolny
+🧞	aladyn alladyn bajka baśń dżin lampa życzenie
+🤪	buźka crazy duże głowa haha hehe małe oko oszaleć śmiech szał szalona twarz szalony
+👩‍🍳	kobieta kucharka osoba praca szef kuchni zawód
+🫘	fasola fasolka jedzenie nerkowata strąk
+🥇	medal za 1 miejsce pierwsze sport zawody złoto złoty zwycięstwo
+🐘	słoń trąba zwierzę
+🔻	czerwony trójkąt skierowany w dół figura geometryczna na wierzchołkiem
+🎡	diabelski karuzela młyn park rozrywki wesołe miasteczko
+🕢	30 7 7:30 czas dziewiętnasta trzydzieści godzina siódma zegar
+💪	biceps ćwiczyć mięśnie muskularny muskuły napięty ręka siła siłka silny siłownia
+🎒	edukacja plecak szkoła tornister
+😢	buźka ze łzą w oku łezka płacz płacząca twarz przykro mi smutek
+👨‍🦯	dostępność mężczyzna z białą laską niewidomy
+🫪	bezradność niepokój opuchlizna panika szok zaskoczenie
+🔕	cicho cisza dzwonek nie wolno przekreślony zabroniony zakazany
+📢	głośnik głośno komunikat komunikaty publiczne tuba głośnikowa
+🦟	choroba gorączka insekt komar malaria owad ugryzienie wirus zwierzę
+🎅	boże narodzenie głowa gwiazdor legenda mężczyzna mikołaj praca święta święty zawód
+❕	biały wykrzyknik krzyk okrzyk
+🤽	grająca osoba piłka piłkarka piłkarz sport w piłkę wodną woda wodna wodny
+🗾	japonia mapa japonii
+🔆	duża jasność przycisk dużej jasności rozjaśnić słońce wysoka
+🤣	buźka haha hehe kulać się lol łza łzy płakać ze śmiechu śmiech śmieszne tarza wesoły
+🦅	bielik orzeł ptak zwierzę
+🧶	dziergać dzierganie kłębek na drutach przędza robótki szydełkować szydełkowanie wełna włóczka
+🍇	jedzenie owoce winogrona
+🌯	burito burrito jedzenie meksykańskie wrap
+🌎	ameryka północna i południowa ameryki kula ziemska przedstawiająca planeta świat ziemia
+🀄	czerwony gra kafelek madżong mahjong smok
+🦣	epoka lodowcowa kieł mamut ogromny prehistoria słoniowaty włochaty wymarły zwierzę
+🥝	jedzenie kiwi owoc
+😻	buźka głowa kocham kot miłość oczy serca uśmiechnięty z oczami w kształcie zakochany zwierzę
+🎸	gitara instrument muzyka
+⏫	do góry podwójna przycisk „szybko w górę” strzałka górę
+🏩	budynek hotel miłości japoński miłość serce
+🥓	bekon boczek jedzenie mięso
+➗	÷ dzielenie matematyka znak dzielenia
+🐦‍🔥	feniks mityczny nieśmiertelność odrodzenie ognisty powstać ptak reinkarnacja z popiołów
+🔁	dookoła okrężny ponów powtórz przycisk powtarzania strzałki w prawo
+👪	dziecko mama matka ojciec rodzice rodzina tata
+🤍	białe serce
+🪃	broń bumerang pocisk wracający
+🔧	klucz warsztatowy mechanik narzędzia narzędzie warsztat
+🐶	buźka głowa psa pies piesek psiaczek pysk pyszczek szczeniaczek zwierzę
+🦌	jeleń rogacz rogi zwierzę
+🎋	bambus drzewko na tanabata drzewo życzeń japońskie życzenia
+🕌	islam meczet muzułmanin religia świątynia
+📔	książka notatnik notes z dekoracyjną okładką okładka ozdobna
+🕗	00 8 8:00 czas dwudziesta godzina ósma zegar
+🐲	bajka baśń fantasy głowa magia smok smoka zwierzę
+👊	cios pięścią dłoń pięść od przodu prawy prosty ręka sierpowy zaciśnięta
+🫙	pojemnik przechowywanie przyprawa pusty słoik słój sos zapas
+🚇	kolejka metro pociąg pojazd tunel
+🧏	dostępność głuchota osoba głucha słuch ucho
+🤐	buzia na kłódkę buźka nic nie powiem tajemnica twarz z zamkiem błyskawicznym ustach
+👩	głowa kobieta
+🍡	dango deser jedzenie kulki mochi
+📧	e-mail email list mail poczta elektroniczna
+🛜	bezprzewodowe bezprzewodowy hotspot internet komputer łączność router sieć szerokopasmowe wi-fi wifi wlan
+🐊	aligator gad jaszczur krokodyl zwierzę
+📌	pinezka przypiąć
+🕕	00 6 6:00 czas godzina osiemnasta szósta zegar
+⛲	fontanna
+🔫	broń palna pistolet na wodę rewolwer
+🍐	gruszka jedzenie owoc
+⚓	kotwica morze ocean okręt przyrząd statek
+🪆	drewniana kolekcja laleczka lalka matrioszka matrioszki rękodzieło rosyjska w lalce zabawka
+📦	paczka pakunek przesyłka pudełko
+🧧	chiny czerwona koperta hong bao hóngbāo lai see na szczęście pieniądze podarunek prezent wdzięczność
+🪽	anielskie latający latanie lotnictwo mitologia niebiańskie ptak skrzydło wznosić się
+🎪	cyrk namiot cyrkowy
+😏	buźka cyniczny haha hehe półuśmieszek twarz z uśmieszkiem uśmieszek
+🛄	bagaż bagażu lotnisko odbiór
+♑	koziorożec znak zodiaku zodiak
+🧑‍💼	architekt biznesmen menedżer praca biurowa pracownik biurowy
+🐁	mysz myszka zwierzę
+🐌	mięczak muszla powolny ślimak wolny zwierzę
+👩‍🌾	farmer farmerka kobieta ogrodniczka ogrodnik osoba praca rolniczka rolnik zawód
+🕑	00 2 2:00 czas czternasta druga godzina zegar
+🎀	kokarda kokardka ozdoba podarunek prezent wstążka
+📪	listy poczta pocztowa skrzynka z opuszczoną flagą zamknięta
+🎮	do gier gamepad gra wideo konsola kontroler pad
+🔴	czerwone figura geometryczna kółko koło
+🦞	czerwony homar owoce morza rak szczypce zwierzę
+🛐	kaplica kościół kult miejsce kultu modlitwa religia świątynia
+🛹	deska deskorolka kółka skate skateboard skater
+👩‍🏭	fabryka kobieta montażystka osoba praca pracownica fabryki pracownik spawacz zawód
+🙅	kobieta nic z tego nie ma mowy wolno osoba pokazująca gest skrzyżowane ręce sprzeciw zakaz
+🏧	atm bankomat pieniądze znak bankomatu
+🧢	bejsbolówka czapeczka czapka z daszkiem
+🫎	łoś poroże ssak zwierzę
+💁	no cóż osoba z wystawioną dłonią otwarta dłoń pomocna ręka sarkazm
+🈶	ideogram istnienie japoński płatne przycisk za opłatą
+🌺	hibiskus hibiskusa kwiat roślina
+🤬	bluzgać buźka głowa kląć przekleństwo przeklinać twarz z symbolami na ustach zły
+🤢	buźka choroba chory mdłości obrzydliwe twarz z mdłościami wymiotować zielony
+💃	impreza kobieta tancerka tańcząca tańczyć taniec zabawa zawód
+🦋	kolorowy motyl owad zwierzę
+🐥	kura kurczaczek kurczak kurczątko od przodu pisklak pisklę ptak zwierzę
+🚫	brak przejścia wejście zabronione zakaz znak
+💞	kocham miłość para serca dwa tańczące wirujące
+🥖	bagietka bułka chleb jedzenie pieczywo
+🉑	akceptacja dozwolone ideogram japoński przycisk
+🚓	auto patrol pojazd policja radiowóz samochód policyjny
+🧑‍🔬	biolog chemik fizyk inżynier naukowiec
+🔒	kłódka zablokowane zamknięta zamknięte
+🐦‍⬛	czarny dziób gawron krakanie kruk krukowate ptak wrona zwierzę
+😐	buźka bez wyrazu hm neutralna twarz nic nie mam zdania obchodzi mnie wtf
+🪘	bęben bębenek bębnić instrument konga muzyka rytm tamburyn
+🎩	cylinder kapelusz męskie nakrycie głowy
+👩‍🎤	aktorka kobieta osoba piosenkarka praca rock rockerka zawód
+🦄	głowa jednorożca jednorożec kucyk magia różowy zwierzę
+🐠	morze ryba rybka tropikalna tropiki woda zwierzę
+🥥	kokos orzech tropiki
+🧣	szalik szyja ubranie zima zimno
+🎿	narty śnieg sport stok zima
+🌆	budynki miasto o zmierzchu wieżowce zachód słońca zmierzch
+🧐	buźka głowa haha hehe mądry staromodny twarz z monoklem wesoły wyniosły
+😭	buźka głośno płacząca twarz głośny płacz łzy smutny zapłakana zapłakany
+😰	buźka nerwy oj pot strach zaniepokojona twarz oblana potem zmęczenie zziajana zziajanie
+💣	bomba bum eksplozja komiks niebezpieczeństwo wybuch
+🐪	dromader garb jednogarbny pustynia wielbłąd zwierzę
+👨‍🎓	mężczyzna osoba student szkoła
+👇	dłoń z palcem wskazującym w dół na palec ręka wskazujący
+🥉	brąz brązowy medal za 3 miejsce sport trzecie zawody
+🚅	kolej pendolino pociąg pojazd shinkansen szybki szynowy
+🥳	buźka czapeczka ekscytacja hura impreza piszczałka przyjęcie święto świętować świętowanie świętująca twarz trąbka urodziny życzenia
+👳	głowa nakrycie głowy osoba sikh turban w turbanie
+🎧	muzyka słuchawka słuchawki
+📨	e-mail email koperta list mail poczta przychodząca wiadomość
+⭐	gwiazda gwiazdka noc
+🫃	brzuch ciąża mężczyzna najedzony pełny przejedzenie w ciąży wzdęty
+🌌	droga mleczna gwiazdy niebo noc
+🧖	osoba pomieszczenie relaks sauna spa w zaparowanym pomieszczeniu zaparowane
+🚠	gondola gondolowa górska góry kolej kolejka linowa podwieszana wagonik wyciąg
+🪙	bogactwo dolar euro metalowa moneta pieniądze skarb srebrna złota
+🌵	kaktus kłuje kolce pustynia roślina
+😲	buźka och zadziwiona twarz zaskoczenie zaskoczona zdziwienie
+🙃	buźka do góry nogami haha hehe odwrócona twarz śmiech uśmiech wesoły
+🚶	chodzenie idąca iść na piechotę osoba piechur pieszo spacer
+👤	osoba sylwetka popiersia
+🛶	biwak jezioro kajak łódka łódź wakacje
+🌓	księżyc kwadra noc pierwsza księżyca
+🌒	cieniutki księżyc narastający półksiężyc noc sierp
+👽	bajka buźka fantasy kosmita kosmos obcy pozaziemski sci-fi szarak twarz ufo ufoludek
+🕡	30 6 6:30 czas godzina osiemnasta trzydzieści szósta zegar
+🐡	morze ocean rozdymka ryba zwierzę
+🛃	celna komora kontrola lotnisko
+🥛	biały jedzenie mleka mleko napój szklanka
+🛟	bezpieczeństwo koło ratunkowe pływak pływanie ratunek
+🫚	imbir imbiru korzeń naturalne przyprawa zdrowie zioła zioło
+🍋	cytrus cytryna jedzenie kwaśny owoc żółty
+🪶	fruwać latanie lekkość pierze pióra pióro do pisania upierzenie
+🫹	chwyt lewo neutralny punkt ten to
+👲	chińska czapka chiny głowa gua pi mao osoba w chińskiej czapce
+🤰	ciąża ciężarna kobieta w ciąży
+🧹	czarownica miotła sprzątać sprzątanie wiedźma zamiatać zamiatanie
+💑	kocham miłość osoba osoby para z sercem pocałunek randka razem serce zakochani związek
+⛅	chmura pogoda słońce zza chmury
+🩶	143 ciemnoszare kocham cię miłość serce specjalne srebrne szare
+🧨	dynamit fajerwerki iskra materiał materiały ogień petarda petardy trotyl wybuch wybuchowe wybuchowy
+🏊	basen kraulem na basenie osoba pływająca pływak pływanie sport triathlon woda zawody
+🕟	30 4 4:30 czas czwarta trzydzieści godzina szesnasta zegar
+🩰	balet baletki taniec
+📀	blu-ray cd dvd dysk optyczny komputer płyta
+🏃	bieg biegacz biegaczka bieganie biegnąca maraton osoba pośpiech sport szybko w ruchu
+🧜	bajka baśń magia morze syrena syrenka tryton warszawa
+🔽	na dół przycisk „w dół” strzałka trójkąt w
+💻	komputer laptop notebook osobisty wyświetlacz
+🧋	bubble tea herbata bąbelkowa kuleczka kulki tapioki mleko na słodko tapioka z tapioką
+🫏	muł osioł osiołek ssak uparty zwierzę
+🪟	framuga okno powietrze przezroczyste świeże szyba widok witryna
+🐢	powolny skorupa żółw zwierzę
+😤	buźka furia prychająca twarz smutek smutny sukces triumf z parą wylatującą nosa wygrana złość zły
+👨‍🚀	astronauta człowiek głowa kosmos mężczyzna osoba praca rakieta zawód
+👩‍💻	kobieta technolog komputer oprogramowanie osoba praca programistka wynalazczyni zawód
+🦠	ameba ameby bakteria bakterie drobnoustrój mikrob mikroby nauka wirus zarazek
+🥺	błagać błagająca twarz błaganie buźka duże oczy ładnie prosić litość poprosić proszę słodkie smutek smutna smutne smutny żebrać żebranie
+🤮	ble buźka choroba chory fuj głowa obrzydliwe rzygać twarz wymiotować wymiotująca wymioty
+❗	czerwony wykrzyknik krzyk okrzyk
+🪼	akwarium bezkręgowiec galareta macki meduza morski morskie morze ocean parzyć plankton zwierzę
+🎺	grać instrument muzyka orkiestra trąbka
+🟥	czerwony kwadrat kwadratowy
+😶	buźka bez ust cisza nic nie mówię oczy twarz
+🧬	biolog dna ewolucja gen genetyka geny życie
+😵‍💫	buźka konsternacja mętlik niedobrze mi spirale szok twarz ze spiralnymi oczami wow zahipnotyzowana zawroty głowy
+📸	aparat błyskowa błyskową flesz fotograficzny lampa z lampą zdjęcie
+👩‍🔧	elektryk hydraulik kobieta mechanik osoba zawód
+💧	kropelka kropla łza pot woda
+🪂	lotnia lotniarstwo motorową paralotnia parasailing skydiving spadochron spadochroniarstwo sport za łodzią
+🎃	dynia na halloween
+🫟	farba holi plama rozbryzg rozlanie
+💖	błyszczące serce kocham lśniące migoczące miłość
+💜	fioletowe kocham miłość purpurowe serce
+🚀	kosmiczny kosmos pojazd rakieta statek
+🎑	ceremonia oglądania księżyca jugoya księżyc podziwiać święto podziwiania świętować tsukimi
+🍦	jedzenie lody śmietankowe świderek w kubku włoskie
+🥀	kwiat płatki roślina róża smutek smutny więdnąć zwiędły
+😣	ból buźka napięcie skupienie uparta twarz upór zacięta
+📰	gazeta wiadomości
+🥊	boks rękawica bokserska sport zawody
+🧑‍🏫	instruktor nauczyciel pedagog profesor
+🔺	czerwony trójkąt skierowany w górę do góry figura geometryczna wierzchołkiem
+📺	kineskop kineskopowy odbiornik stary telewizor telewizja z anteną
+🦬	bizon puszcza stado wół żubr zwierzę
+👸	bajka baśń głowa królewna królowa księżniczka
+😋	buźka jedzenie mniam oblizywać się smaczne twarz delektująca pysznym jedzeniem uśmiech
+👗	lato sukienka suknia ubiór ubranie
+🦎	gad jaszczurka zwierzę
+🫳	dłoń skierowana w dół odrzucenie podnoszenie sio upuszczenie
+🥎	piłka softball sport tenis
+💉	chory doktor lekarstwo lekarz pielęgniarka strzykawka szczepienie szczepionka zastrzyk
+🪧	demonstracja manifa manifestacja pikieta protest sprzeciw tabliczka transparent wiec znak
+🌃	gwiazdy miasto noc z gwiazdami rozgwieżdżone niebo
+📕	książka zamknięta
+😇	buźka haha hehe nic nie zrobiłem niewinny uśmiech śmiech świętoszek uśmiechnięta twarz z aureolą wesoły
+🍃	liście na wietrze podmuch roślina wiatr wicher
+🫒	drzewo oliwne gałązka oliwna jedzenie oliwka oliwki roślina
+🔜	strzałka z napisem soon wkrótce
+🧑‍🍼	karmienie butelką piersią mama mężczyzna niemowlę osoba karmiąca rodzic tata
+🚍	autobus nadjeżdżać nadjeżdżający pojazd przód samochód
+🧄	aromatyczny czosnek jedzenie warzywo
+👯	bliźniaczki dziewczyny impreza kobiety króliczki osoby z uszami królika na przyjęciu przyjaciółki takie same tancerki taniec uszy
+🪤	łapka na gryzonie myszy szczury szkodniki potrzask przynęta pułapka ser sidła zasadzka
+🥸	anonimowy buźka w przebraniu incognito nos okulary przebranie szpieg twarz wąsy
+🥅	bramka gol mecz sport zawody
+🍪	ciastko deser jedzenie słodki słodkie
+🔎	detektyw lupa pochylona skierowana szukaj w prawo
+🩴	buty japonka japonki klapek klapki na basen lato plażę obuwie plaża sandał sandały z jednym paskiem
+💢	gniew komiks symbol gniewu złość
+🥙	bułka falafel gyros jedzenie kebab tortilla wrap
+🐈	kot kotek zwierzę
+📥	e-mail email list mail na listy odbierać odbiorcza otrzymywać pocztowa skrzynka ze strzałką
+🚮	kosz nie śmiecić śmieci znak kosza na
+🟨	kwadrat kwadratowy żółty
+🥼	biały fartuch płaszcz doktor dr eksperyment kitel laboratorium lekarz naukowiec laboratoryjny ubrania ubranie
+🧱	beton cegła cegły cement glina mur murek płot ściana zaprawa
+🧈	jedzenie masło nabiał
+💓	bijące serce kocham cię miłość
+🎏	flaga w kształcie karpia ryby
+♈	baran znak zodiaku zodiak
+🛌	dobranoc drzemka hotel łóżko nocleg nocowanie osoba pensjonat posłanie sen spać w łóżku zzz
+🦇	nietoperz wampir zwierzę
+🚐	auto bus busik minibus pojazd samochód
+🐬	delfin morze ocean zwierzę
+🐅	paski tygrys tygrysek zwierzę
+🌉	most nocą w nocy
+🤌	gest oczekiwanie palce poczekać przesłuchanie sarkazm szczypta włochy złączone
+🛀	biorąca kąpiel osoba w wannie wanna
+👶	bobas dziecko głowa niemowlę
+🍁	jesień jesienny klon klonowy klonu liść
+🚜	ciągnik pojazd rolniczy rolnik traktor
+💠	diament klejnot kryształ romb z kropką
+😚	buzi buźka całująca twarz z zamkniętymi oczami całus rumieniec ślę całusa
+👮	areszt gliniarz mężczyzna oficer osoba policja policjant praca zawód
+🍥	ciastko jedzenie narutomaki ramen ryba rybne spirala
+🧌	bajka fantazja potwór troll
+👠	but buty na obcasie szpilkach wysokim obcas obcasy obuwie odzież szpilka wysoki wysokie
+🧑‍🎄	boże narodzenie dziadek mróz gwiazdor mikołaj mikołajka mikołajki osoba prezenty święta wigilia
+👩‍🏫	kobieta nauczycielka osoba praca profesor wykładowczyni zawód
+🌴	drzewo palma roślina tropiki wyspa
+🏭	budynek fabryka produkcyjny zakład pracy
+🔷	duży figura geometryczna kształt niebieski romb
+💡	idea pomysł prąd światło żarówka
+🪾	bez liści drzewo susza zima
+🔙	strzałka z napisem back wstecz
+🫲	dłoń skierowana w lewo lewa uścisk dłoni wyciągnięta
+💒	kaplica kościół miłość serce ślub uroczystość
+🆔	id identyfikator przycisk znak
+🧑‍🩰	balet tancerka tancerz
+🥪	jedzenie kanapka śniadanie
+⌛	czas klepsydra odmierzać piasek
+🔀	krzyżujące się losowe losowego losowo mieszanie odtwarzania odtwarzanie przecinające przycisk skrzyżowane strzałki utworów
+😦	buźka co nie wierzę opadła mi szczęka szczena rozzłoszczona zachmurzona twarz z otwartymi ustami zawód zdziwienie
+🍄‍🟫	borowik brązowy grzyb jedzenie natura shiitake warzywo
+🦫	bóbr gryzoń tama zęby zwierzę
+🥚	jajko jajo jedzenie kura kurczak nabiał
+🛑	stop znak drogowy stopu
+🎫	bilet wstęp
+👺	diabeł goblin maska potwór stwór zły
+🤷	bezradność nie wiem obojętność osoba rozkładająca ręce wzruszająca ramionami wątpliwość wszystko jedno wzruszenie ramion
+🦏	nosorożec róg zwierzę
+🍿	jedzenie kino kukurydza popcorn
+☕	filiżanka gorąca gorący herbata kawa napój parująca picie
+📴	komórka telefon komórkowy wyłącz wyłączony
+👘	kimono ubiór ubranie
+🚈	kolej kolejka metro miejska pociąg podmiejska podmiejski pojazd
+🧷	agrafka pielucha punk rock
+🍔	bułka burger fast food hamburger jedzenie
+🔸	figura geometryczna kształt mały pomarańczowy romb
+🎎	japonia japońskie lalki
+🧘	joga medytacja osoba relaks siedząca siedzący siedzieć spokój w pozycji lotosu zen
+🥾	biwak brązowe brązowy but buty dzicz kemping obuwie spacer szlak trapery turystyczny wędrówka wyprawa
+🦙	alpaka gwanako lama wełna wikunia zwierzę
+🆚	kontra przycisk vs versus
+🧦	skarpetki skarpety stopy ubranie
+🛕	hinduizm świątynia hinduistyczna
+💝	kocham różowe serce ze wstążką walentynki wstążka
+🔂	dookoła jednokrotnego okrężny ponów raz powtarzania powtarzanie powtórz przycisk strzałki w prawo
+🌷	kwiat pąk roślina tulipan
+🧑‍🧑‍🧒	dorosły dziecko rodzina
+🥰	buźka kochać kocham cię miłość romans serca serce twarz uśmiech uśmiechnięta z sercami uwielbiać uwielbienie zadurzenie zakochać się zakochana zakochane zakochany
+💍	diament miłość pierścionek zaręczyny
+🕖	00 7 7:00 czas dziewiętnasta godzina siódma zegar
+🚷	nie wolno pieszy przejście wzbronione zabronione zakaz dla pieszych ruchu
+🐾	łapki łapy odciski ślady łap tropy
+👨‍🎨	artysta malarz mężczyzna osoba paleta praca zawód
+🍤	jedzenie krewetka smażona tempura
+🦢	biały brzydkie kaczątko łabędź łabędziątko ptak zwierzę
+🔏	atrament kłódka niejawne pióro podpis prywatność z piórem zamknięta
+⛄	bałwan bez śniegu bałwanek pogoda śnieg zabawa na zimno
+💀	czaszka duch kościotrup potwór śmierć szkielet trupia
+🏴	czarna flaga na wietrze żałoba
+👍	brawo kciuk w górę lubię to ok okej podoba mi się ręka tak porządku zgoda
+🧑‍💻	deweloper oprogramowanie programista technolog wynalazca
+🪊	instrument dęty blaszany jazz muzyka smutek suwak
+🌭	frankfurterka hot dog hotdog parówka
+♎	waga znak zodiaku zodiak
+🪇	cza grzechotać grzechotki impreza instrument marakasy muzyka perkusja perkusyjny potrząsać taniec
+💂	anglia gwardzista londyn strażnik
+🛸	fantastyka kosmici kosmita latający sci-fi sf spodek talerz ufo
+➰	pętla zawijas znak
+🎴	gra hanafuda japońska karciana karta kwiat
+🦪	małże nurkowanie ostryga perła perły zwierzę
+🪯	deg fateh khalsa khanda religia sikh sikhizm tegh wiara
+🛅	bagaż bagażu kluczyk pozostawiony przechowalnia skrytka walizka zamknięcie
+🉐	ideogram japoński korzyść okazja promocja przewaga przycisk
+🧑‍🏭	fabryka montażysta pracownik fabryki
+🔰	japoński kierowcy niebieski początkującego początkujący symbol szewron w dół zielony żółty
+🫍	morski ocean wieloryb
+♊	bliźnięta znak zodiaku zodiak
+🍒	czereśnie jedzenie owoce wiśnie
+🦘	kangur skakać skoczny skok torbacz zwierzę
+🦯	biała laska dostępność niewidomy
+🧼	kąpać się kąpiel kostka mydła myć mycie mydelniczka mydło piana pienić
+🧿	amulet błękitne charms fatimy koralik nazar niebieski oko paciorek proroka talizman złe
+🎱	8 bila bilard gra kula bilardowa
+🍭	deser jedzenie lizak słodki słodycze
+🥈	drugie miejsce medal za 2 sport srebrny srebro zawody
+🔬	laboratorium mikroskop nauka obserwacja powiększenie
+🤞	kciuki powodzenia ręka skrzyżowane palce trzymać trzymam
+🍛	curry jedzenie ryż sos z sosem
+👌	dłoń z gestem ok dobre idealnie okej potwierdzenie racja ręka super tak w porządku zgoda znak
+👆	dłoń z palcem wskazującym w górę do góry góra palec ręka wskazujący
+👉	dłoń z palcem wskazującym w prawo palec prawa strona ręka tam wskazujący
+🎍	bambus japońska dekoracja kadomatsu roślina sosna
+🧔	broda osoba z brodą
+🦶	kopnąć kopniak kostka nadepnąć stopa stopy tupanie zdeptać
+🈺	czynne działa ideogram japoński otwarte przycisk
+🧮	abakus kalkulator liczyć liczydło obliczać obliczanie obliczenia
+🏁	flaga w kratkę szachownicę sport wyścigi
+🙈	gest małpa zasłaniająca oczy małpka nie widzę widzieć niedobre zabronione zakrywam zwierzę
+🍠	batat jedzenie pieczony słodki ziemniak
+🕋	islam kaaba muzułmanin religia
+🫓	arepa chlebek jedzenie lawasz naan pita placek podpłomyk
+😠	buźka gniew rozgniewana zagniewana twarz złość
+🫶	<3 dłonie tworzące serce miłość
+🤖	głowa robota monstrum potwór robot twarz
+◾	czarny figura geometryczna kwadrat mały mały/średni
+🤤	buźka cieknie mi ślinka głodny mniam ślina śliniąca się twarz
+🏹	broń łucznik łuk i strzała narzędzie strzelec zodiak
+💔	kocham pęknięte serce złamane
+🍍	ananas egzotyczny jedzenie owoc
+🤱	dziecko karmić piersią karmienie kobieta matka miłość niemowlę pierś praca
+👨‍🍼	karmienie butlą mężczyzna karmiący niemowlę mleko modyfikowane
+👫	kobieta i mężczyzna ludzie miłość para rodzeństwo trzymający się za ręce zakochani

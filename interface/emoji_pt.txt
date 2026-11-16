@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « pt » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	botão new novo símbolo
+🧑‍🤝‍🧑	amigos casal dadas gêmeos mãos parceiros parceria pessoa
+◽	branco geométrico quadrado médio menor
+⛽	abastecer álcool bomba combustível gasolina posto
+🔓	aberto cadeado destrancado
+👄	batom beijo boca corpo lábios rosto
+🍴	almoço comer comida faca fome garfo e jantar restaurante talher talheres
+🏒	disco gelo hóquei no jogo taco
+💦	borrifo com suor emoção engraçado pingos de splash
+🎐	carrilhão de vento sino som
+😼	gato irônico rosto sorriso
+😉	flerte piscada rosto com olho piscando
+📛	crachá identificação nome
+🚉	estação de trem metrô
+💌	carta de amor coração correspondência com romance
+🆘	ajuda botão sos símbolo “sos” socorro
+🛙	esperança iluminação luz mar marítimo navegação orientação sinal
+🍯	mel pote de restaurante
+😿	chorando choro gato lágrima rosto triste
+🫜	beterraba legume nabo raiz tubérculo vegetal
+😳	atordoado deslumbrado horrorizado impressionado rosto ruborizado vergonha
+🚨	carro da polícia farol policial luz de viatura giratória sirene
+🚌	ônibus transporte público veículo
+🌇	anoitecer calor cidade entardecer pôr do sol sobre prédios prédio
+🔝	cima para seta top símbolo com
+🙊	animal boca tapada macaco não fale nada posso contar falar segredo silencio ups
+🐙	animal oceano octopus polvo
+🕦	11h30 23h30 onze e meia relógio
+🕞	3:30 3h30 relógio três e meia
+🙌	ambas as mãos comemoração levantando para comemorar cima viva
+🚗	automóvel carro veículo
+🕥	10h30 22h30 dez e meia relógio
+🥱	bocejo cansada cansado com sono entediada entediado rosto bocejando zzz
+🐎	animal cavalo corrida equestre
+👩‍🚒	bombeira caminhão corpo de bombeiros fogo incêndio mulher
+🪉	amor cupido harpa instrumento música orquestra
+🫁	anatomia espiração exalação inalação órgão pulmão pulmões respiração
+📲	celular chamada fazer ligar receber seta smartphone telefone
+💚	coração emoção s2 verde
+📶	antena com barras de sinal celular conexão força do internet sinais telefonia móvel telefone
+🫦	ansioso batom beijo flertar lábios medo mordida nervoso preocupação sedução sexy vontade
+🌅	amanhecer aurora sobre água natureza oceano rio sol da manhã nascendo
+🌂	chuva chuvoso guarda-chuva fechado
+🍲	ensopado panela restaurante tigela de comida
+🪜	degrau escada mão subir
+✅	✓ botão check completo feito marca de seleção branca verificação grande verificado
+📑	marcador marcar página
+👣	corpo gravura pé pegadas pés descalços rastro
+👀	olhando olho olhos rosto tô de
+🤸	animada animado esporte estrela estrelinha feliz ginasta ginástica pessoa
+⭕	aro círculo grande oco vermelho vazio o
+😆	gargalhada gargalhando hahaha kkk olhos fechados rir rosto risonho com semicerrados sorriso estilo xd
+🔄	anti-horário atualizar botão de setas em sentido no seta
+🟢	círculo verde
+🧗	alpinista escalada escalando escalar esporte montanha
+🌟	brilhante brilho cintilante estrela luminosa reluzente
+🤧	de cama doente espirrando espirro gripado resfriado rosto
+🔛	flecha marca on seta “on”
+🪫	acabando bateria cansado descarregada eletrônico energia fim fraca pilha pouca sem
+⏰	alarme atrasada atrasado despertador hora horário relógio
+🥕	cenoura comida fome legume salada vegetal
+➿	duas vezes duplo encaradolado loop encaracolado onda ondulado
+🥂	brinde champagne champanhe comemoração taça taças brindando tim-tim
+🪲	animal besouro bicho inseto
+🩹	adesiva atadura bandaid bandeide curativo
+🟧	laranja quadrado
+📍	alfinete localização mapa redonda tacha
+😽	beijando beijo fechado gato olho rosto
+🐤	animal ave bebê filhote galinha pintinho de perfil pinto rosto
+🤵	festa gala homem de smoking noivo pessoa
+🛼	esporte patinação patins de rodas roller
+🧩	dica encaixe peça quebra-cabeça
+🛝	brincar brinquedo escorregador escorregar parque de diversões parquinho playground
+🔇	alto-falante calar mudo mute quieto silenciar silêncio som
+🏥	doente hospital internado médico prédio
+🚔	polícia veículo viatura policial se aproximando
+💶	cédula dinheiro euro grana moeda nota
+🥭	comida fruta manga tropical
+🫂	abraçando abraço adeus amizade amor carinho conforto obrigado olá pessoas se
+🔳	botão quadrado branco e preto
+💹	ascendente ascensão crescimento dinheiro gráfico subindo com iene em alta mercado
+🧺	agrícola agricultura cesta lavanderia lavoura piquenique roupa suja
+😖	bravo frustrado indignado perplexo rosto
+🔐	cadeado chave fechado seguro trancado
+🈯	botão ideograma japonês reservado
+🏦	banco prédio
+🍧	gelo raspadinha de restaurante sobremesa
+🧍	de pé pessoa em
+🟠	círculo laranja
+⛔	entrada entre não placa proibida proibido sinal trânsito
+✊	pedra punho erguido levantado solidariedade
+🌜	lua com rosto de quarto minguante da
+😹	alegria chorando choro engraçado felicidade feliz gato lágrimas rir risos rosto
+🧾	contabilidade escrituração evidência fatura prova recibo
+🪩	balada boate bola brilho dança dançar discoteca espelhado espelho festa globo night
+🏇	cavalo corrida esporte jockey jóquei
+👦	garoto guri jovem loiro menino pessoas piá
+🏸	badminton jogo peteca raquete
+🥜	amendoim comida
+📱	celular telefone móvel
+🕎	candelabro judeu castiçal judaísmo memorah menorá religião
+🚙	carro suv trailer veículo recreacional
+🖤	coração negro preto s2
+🪬	amuleto fátima guia hamsa hamsá mão maria miriam palma proteção sorte
+🚴	bicicleta bike ciclismo ciclista esporte pedalar
+🍷	bar bebida cálice de vinho restaurante taça
+💊	cápsula comprimido medicina médico pílula remédio
+🍀	folhas irlandês planta quatro sorte sortudo trevo de
+🪌	apagar correção desenho desfazer equívoco erro escrita excluir passar remover
+😷	doente gripado máscara médica resfriado rosto com
+📆	calendário data destacáveis destacável dia folha páginas várias
+🙉	macaco não ouça o mal ouço ouve nada quero ouvir ouvidos tapados
+💱	banco câmbio de moeda dinheiro
+🩻	doutor esqueleto médico ossos radiografia raio x
+🏠	casa construção domicílio lar residência
+📙	apostila cartilha laranja livro
+🥔	batata comida fome legume vegetal
+💮	carimbo de flor parabéns branca
+🥌	curling jogo pedra
+💩	cocô estrume excremento fezes pilha
+🍳	comida culinária frigideira ovo estrelado frito restaurante
+🦈	peixe tubarão
+🌼	flor florescer planta
+😜	brincadeira língua para fora com piscadela piscando e mostrando a provocação rosto
+🪁	papagaio pipa planar voar
+⛎	cobra ofiúco ophiuchus serpente signo de zodíaco
+🍾	aniversário bar champagne champanha champanhe cidra comemorar espumante estourar festa garrafa parabéns
+🧇	doce gofre wafel waffle wafle
+🛞	carro círculo direção girar pneu roda veículo volante
+📜	pergaminho rolo de papel
+🧎	ajoelhado ajoelhar joelhos pedir pessoa por favor
+🌕	cheia lua luar
+💽	computação disc disco hd md mini minidisc rígido
+💙	azul coração emoção s2
+📏	régua reta
+🥡	caixa para viagem caixinha levar delivery marmita
+🕔	5 horas 5h00 cinco relógio
+🤩	estrela gargalhando olhos rosto com olhar maravilhado super animada animado feliz superanimada superanimado superfeliz
+🟦	anil azul quadrado
+🐍	animal cobra réptil serpente
+🐉	animal dragão game of thrones
+🪎	dinheiro joia joias ouro prata prêmio riqueza tesouro
+💯	100 cem certamente certeza conte comigo pontos sem dúvida top total
+🌝	cheia lua com rosto da
+♏	escorpião signo de zodíaco
+🪞	espéculo espelho maquiagem refletor reflexão reflexo
+💅	cosméticos esmalte de unha manicure mão unhas
+🫫	decepção quebrar a cara resiliência revelação tensão transformação
+🈁	aqui botão japonês katakana
+🍵	bebida chá verde xícara de sem alça
+⏳	ampulheta areia cheia contando em cima hora relógio tempo
+🌙	crescente lua
+🤭	hehe ops risadinha risonho rosto com a mão sobre boca sorriso envergonhado vergonha
+🥗	comida fome restaurante salada verde
+🈹	botão desconto ideograma japonês
+🔔	capela sino
+🦹	bandido criminoso mal malvado mau superpoder supervilão vilão
+🙎	beicinho beiço careta chateada chateado emburrada emburrado fazendo bico gesto pessoa
+🫴	acenar levantar mão com a palma para cima oferecer pegar segurar venha
+👨‍🦽	acessibilidade cadeira de rodas homem em manual
+🙇	arrependimento desculpa desculpe gesto meditação perdão pessoa fazendo reverência respeitosa
+🔈	alto-falante baixo mudo música silêncio som volume
+🍋‍🟩	acidez caipirinha cítrica cítrico drink fruta lima limão limonada tequila tropical verde
+🪖	capacete exército guerra guerreiro militar soldado
+🪰	animal apodrecendo doença inseto larva mosca mosca-varejeira praga varejeira
+👧	filha garota menina menininha neta pessoas
+🍂	caídas cair folha folhas outono
+🍝	comida espaguete fome italiano macarrão macarronada restaurante
+🧑‍🦼	acessibilidade cadeira de rodas pessoa em motorizada
+🏂	esporte inverno neve ski snowboard
+🏬	departamentos estabelecimento comercial loja de
+🤾	atleta bola esporte gol handball handebol jogador passe pessoa
+🌳	árvore cheia caidiça desfolha natureza
+🏐	bola jogar jogo vôlei
+🧴	condicionador creme frasco hidratante loção protetor shampoo solar xampu
+💨	correr corrida emoção engraçado fugir rapidez
+🪱	anelídeo animal minhoca parasita verme
+🫕	alimento chocolate comida derretido fondue panela queijo suíço
+🕧	12h30 doze e meia relógio
+🥣	café da manhã cereal prato de sopa tigela com colher
+🍞	pão de forma para fatiar restaurante torrada tostex
+🌚	lua nova com rosto da
+🦨	fedida fedido fedor gambá
+🚹	banheiro homem lavatório masculino símbolo toalete wc
+🪅	cinco de maio comemoração doce festa festival pinhata
+🪢	amarrar corda cordel emaranhado fio laço marinheiro nó
+🫢	assustada chocada descrença em choque espanto nossa omg passada quieta surpresa temor
+🎻	instrumento musical música violino
+🛫	avião decolar férias fui partindo partiu viagem viajando
+💐	aniversário buquê flor planta romance
+👎	dedão para baixo desaprovação desaprovado mão não gostei polegar ruim sinal
+🤟	amor gesto mão te amo
+♋	câncer caranguejo signo de zodíaco
+🦸	bem boa bom herói heroína super-herói super-homem superman superpoder
+👏	aplauso bom trabalho mãos aplaudindo palmas parabéns sinal
+🧚	asas conto encantado fada fantasia ser
+🏢	edifício comercial escritório
+🧻	higiênico papel rolo toalha
+🔅	botão de diminuir brilho escurecer símbolo para reduzir
+🆓	botão free grátis gratuito símbolo “free”
+🪛	chave de fenda ferramenta
+📖	aberto biblioteca leitura lendo ler livraria livro
+🍬	bala balinha doce
+🃏	baralho carta coringa curinga jogo joker
+🧪	ciência ensaio experiência experimento laboratório química químico tubo
+🍟	batata frita comida fast food fome fritas lanchonete restaurante
+🌏	ásia austrália globo mostrando e oceania planeta terra
+🧵	agulha barbante carretel costura linha
+🆎	ab botão tipo sanguíneo sangue
+👩‍🍼	alimentando amamentação amamentando amor bebê mãe mamãe mulher nascido neném pessoa recém recém-nascido
+🕛	12 horas 12h00 doze meia-noite meio-dia relógio
+🍰	bolo recheado doce fatia de pão ló morango restaurante sobremesa
+🦩	ave extravagante flamingo tropical
+😁	feliz olho olhos sorrindo rindo rosto contente com sorridentes sorridente sorriso aberto
+⬛	geométrico preto quadrado grande
+🪻	arbusto bluebonnet flor flor-crânio-do-dragão jacinto lavanda lilás lupinus planta primavera roxo violeta
+🖖	dedos jornada nas estrelas mão saudação star trek vulcana spock startrek
+🪍	armadilha capturar coletar malha
+⌚	hora relógio de pulso tempo
+🐯	animal rosto de tigre
+🚧	construção em símbolo para “em construção”
+🔵	azul bolinha círculo grande geométrico
+🌄	aurora sobre montanhas montanha nascer do sol as da manhã
+🚾	latrina lavabo privada toalete vaso sanitário wc
+📮	caixa carta correio correspondência enviar
+🦽	acessibilidade cadeira de rodas manual
+🌁	bruma cerração enevoado neblina névoa nevoeiro
+🫈	críptido eua floresta gigante pé grande pé‑grande peludo sasquatch yeti
+🦷	branco dente dentista
+🪺	aninhando galhos lar ninho com ovos ovo passarinho pássaro
+🐜	animal formiga inseto
+🔋	bateria pilha
+🟡	amarelo círculo
+🌑	escuro lua negra noite nova
+😩	aborrecido cansado cansei decepcionado desolado exausto infeliz perdi rosto
+🛒	carrinho compras mercado supermercado
+🆗	botão ok sim símbolo “ok”
+🪝	atração para venda bandido curva gancho pegar prender
+🥞	café da manhã comida crepes fome panquecas
+💳	banco cartão crédito débito dinheiro
+🦗	gafanhoto grilo inseto
+🫛	comida edamame ervilha feijão grão legume leguminosa pé de vagem vegetal
+🥧	abóbora carne doce fatia de torta fruta maçã padaria recheio salgado
+🧸	bichinho brinquedo enchimento pelúcia ursinho urso
+🧛	assustador bruxas dia drácula fantasia halloween monstro sangue terror vampiro
+🟪	púrpura quadrado roxo
+🐱	animal felino gatinho gato rosto de
+🦺	colete emergência refletivo salva-vidas segurança
+🈴	botão ideograma japonês mínima nota
+🍏	comida fome fruta maçã verde
+🌠	cadente cai estrela
+❌	× cancelar multiplicação multiplicar vermelho x xis
+🐸	animal rosto de sapo
+🧀	comida fome queijo suíço
+🪕	banjo cordas instrumento música
+🐩	animal cachorro poodle
+🦻	acessibilidade aparelho auditivo deficiência auditiva ouvido com surda surdo
+👩‍🦼	acessibilidade cadeira de rodas mulher em motorizada
+🧙	bruxa fantasia feiticeira feiticeiro feitiço maga magia mago rpg
+👨‍🏫	educador homem instrutor mestre professor
+💄	batom cosméticos makeup maquiagem vermelho
+🚘	automóvel carona carro se aproximando chegada veículo
+👨‍🏭	fábrica homem indústria metalúrgico operário trabalhador
+🏣	correio japonês oriental prédio
+🫐	alimento azul baga blueberry comida fruta mirtilo mirtilos silvestre
+🦑	animal comida lula molusco
+🐵	animal macaco rosto de
+🧊	cubo de gelo gelado iceberg
+🤿	esnórquel máscara mergulhador mergulho scuba snorkel snorkeling
+📼	cassete fita vhs vídeo videocassete
+💟	amor coração decoração decorativo roxo s2 selo
+🎥	câmera cinema entretenimento filmar filme hollywood
+🧥	agasalho blusa casaco frio jaqueta
+🐽	animal nariz de porco rosto
+👭	amigas casal dadas gêmeas mãos parceiras parceria pessoa
+🚝	monotrilho trem veículo
+🩷	adorável adorei amo você amor coração curtir emoção especial fofo gostar gostei te
+🧑‍🎓	aluno estudante graduando
+🏡	casa com jardim construção lar
+😮‍💨	alívio assobio assopro cansaço cansada choque exalar exausta fumaça suspiro triste
+🔣	〒♪&% digitação inserir símbolos
+🪚	carpinteiro cortar ferramenta madeira serra serrar serrote
+🧕	cabeça hijab lenço mulher
+🦂	animal deserto escorpião inseto zodíaco
+➖	- − diminuir matemática menos símbolo de subtração sinal travessão
+😮	boca aberta boquiaberto empatia pasmo rosto com
+🪸	coral mar mudança climática oceano recife
+🚊	bonde elétrico trólebus veículo
+😟	decepcionado preocupado rosto
+📇	índice de cartões
+🌽	comida espiga de milho fome
+📫	bandeira caixa correio correspondência fechada levantada
+🚄	alta bala japonês trem trens veículo velocidade veloz
+🧑‍🎨	artista paleta
+🪪	carta cartão carteira crachá credenciais documento habilitação identidade licença motorista rg segurança
+🫖	alimento bebida bule chá chaleira comida infusão
+🕘	21h 9 horas 9h00 nove relógio
+🈵	botão ideograma japonês sem vagas
+🐔	animal ave galinha
+👩‍🦽	acessibilidade cadeira de rodas mulher em manual
+🛗	acessibilidade descer elevador elevar subir
+🍊	cítrica fruta laranja tangerina
+🤒	de cama doente febre febril rosto com termômetro
+🎾	bola esporte raquete tênis
+🤡	cara circo engraçado palhaço piada rosto
+💰	dinheiro dólares saco
+🛴	brinquedo patinete
+🪷	beleza budismo calma flor de lótus hinduísmo índia paz pureza serenidade vietnã
+🦉	coruja pássaro sabedoria
+🐛	animal centopeia inseto lagarta
+📣	aplausos comunicação megafone
+😱	assustada assustado gritando grito medo rosto susto temeroso
+🥨	pão torcido pretzel
+📎	clipe de papel
+🍩	comida donut fome restaurante rosquinha sonho doce
+🐕	animal cachorro cão
+🧑‍🧒‍🧒	adulto crianças família
+🪮	afro cabelo crespo pente garfo pentear retrô
+🫗	acabou acidente água bebida copo derramar derrubar fim líquido ops pingar vazio
+📳	cel celular modo vibratório smartphone telefone vibração
+💏	amor beijar beijo casal coração pessoas romance
+🔮	adivinhação bola cristal destino futuro prever
+🙆	exercício gesto para ok mão mãos cima pessoa fazendo de “ok”
+🏈	americano bola esporte futebol super bowl
+🥿	confortável sapatilha de balé sapato sem fivela
+🦿	acessibilidade perna mecânica prótese
+💆	dor de cabeça massagem facial pele pessoa recebendo relaxar rosto spa tensão
+🫯	briga debate desacordo discussão luta tumulto
+🫰	<3 amor army caro coração dinheiro estalar k-pop kpop mão com dedo indicador e polegar cruzados
+🥯	café da manhã chimia comida confeitaria pão rosca rosquinha
+🦜	animal ave fala papagaio pássaro pirata repete
+👨‍🌾	agricultor fazendeiro homem jardineiro
+👖	calça jeans roupa
+🦕	braquiosaurus braquiossauro brontossauro brontossuro dinossauro diplódoco diplodocus saurópode
+🚯	jogar lixo não jogue no chão proibido símbolo
+🩱	banho maiô nadar praia roupa
+➕	+ cruz mais matemática símbolo de adição sinal maior somar
+😡	bravo furioso irado rosto vermelho zangado
+🥋	artes esporte faixa judô karatê marciais preta quimono taekwondo uniforme
+🐣	animal ave bebê chocando filhote galinha pintinho pinto
+👑	acessório coroa família real game of thrones medieval rainha realeza rei reinado
+🏆	campeã campeão prêmio troféu
+🦔	animal espinhoso ouriço porco-espinho
+✋	5 cinco erguida high five levantada mão papel pare toca aqui
+🔪	chef cozinhar faca de cozinha
+🪔	diya lâmpada de óleo
+🐏	animal áries carneiro chifre zodíaco
+🟣	círculo roxo
+🥦	brócoli brócolis
+👜	acessório bolsa fashion mala mão
+🍎	fruta maçã vermelha
+🍜	comida fome lámen macarrão miojo quentinha ramen restaurante sopa tigela de
+🐓	animal ave galo
+🪑	assento cadeira sentar
+🧠	cérebro inteligência inteligente
+📘	apostila azul escola estudo leitura livro
+🛬	aterrissagem aterrissando avião chegando pousando veículo voltando
+🍘	arroz biscoito de bolacha cracker
+🦚	animal ave colorido orgulhoso pavão pavoa pomposo
+🎆	ano novo comemoração fogos de artifício
+🫌	esperança frágil inseto lagarta metamorfose migração mudança transformação
+🤯	cabeça chocada chocado chocante choque explodindo incrível perplexo surpreendente surpresa surpreso
+🟩	quadrado verde
+🈲	botão ideograma japonês proibido
+😈	cara chifres diabinho diabo malícia rosto roxa sorridente sorriso
+💗	amor animado batendo coração crescendo emoção nervosismo s2
+🔼	acima botão apontando para cima de triângulo seta vermelho
+🎈	aniversário balão celebração comemoração festa parabéns
+🦀	animal marinho câncer caranguejo signo de zodíaco
+🩸	doação gota medicina menstruação sangrar sangue
+📄	documento oficial página papel
+🐋	animal baleia mar oceano
+🍌	banana fruta
+🤕	acidentado doente ferimento machucado rosto com atadura na cabeça curativos
+👡	acessório feminino médio salto sandália
+🏤	correio europeu prédio
+🏓	mesa pingpong pingue-pongue raquete tênis
+🧁	açúcar bolinho bolo comida confeitaria confeito cupcake doce sobremesa torta
+🌲	árvore de pinheiro conífera floresta natal pinheirinho
+🎂	aniversário bolo de comemoração doce feliz festa niver
+💋	beijo lábios marca de romance
+🤔	curiosa curioso dúvida hmm ideia ideias mão no queixo pensando pensativa pensativo rosto
+⛳	bandeira buraco esporte golfe
+🧫	bactéria biologia biologista biólogo ciência cultura laboratório petri placa
+🥠	biscoito chinês da fortuna sorte profecia
+👐	abertas mão mãos sinal de
+😃	aberto boca feliz olhos arregalados risada risonho rosto sorrindo com aberta sorridente sorriso
+👅	corpo língua rosto
+🤨	cética ceticismo cético confusa confuso desconfiada desconfiado desconfiança rosto com sobrancelha levantada
+🎌	bandeira comemoração cruzadas cruzar japão japonês
+💫	brilhante emoção engraçado estrelas olhando para as zonzo
+🤹	equilíbrio habilidade malabares malabarismo multitarefa
+📠	comunicação fax máquina de
+🚪	fechada porta
+🥹	admiração alegria chorar com raiva emoção gratidão iti malia lágrimas orgulho por favor resistir tristeza
+🌖	convexa lua minguante
+🙏	gesto mão mãos juntas reza rezando rezar
+🧑‍🎤	ator cantor entretenimento estrela rock
+🪥	banheiro dental dentes escova de higiene limpeza
+🏄	esporte onda ondas pessoa praia prancha surf surfista
+👩‍🔬	bióloga cientista física mulher professora química
+🤺	esgrima esgrimista espada esporte pessoa
+🎠	carrossel cavalo de entretenimento parque diversão
+🈳	botão ideograma japonês vago
+🔥	chama fogo
+🪿	animal ave bobo ganso gansos grasno marreco pássaro pato
+🍨	creme gelo restaurante sobremesa sorvete
+🕓	4 horas 4:00 4h00 horário quatro relógio
+🔯	adivinhação destino estrela de seis pontas
+📉	diagrama gráfico caindo de tendência negativa
+🐀	animal ratazana rato
+👟	acessório correr corrida esportivo sapato tênis
+📯	corneta correios postal
+😅	estressada estressado nervoso rindo rosto risonho com gota de suor sorriso frio mas suando
+🦛	animal hipopótamo
+🌛	crescente lua noite quarto rosto
+👔	acessório gravata roupa
+🧡	coração emoção laranja s2
+❔	delineado interrogação pergunta ponto de branco pontuação sinal
+🐺	animal lobo rosto de
+🪹	aninhando galhos lar ninho vazio passarinho pássaro
+🤴	príncipe realeza rei
+🌘	côncava lua minguante
+🩺	coração estetoscópio médica medicina médico tum
+🍣	comida japonesa restaurante japonês sashimi sushi
+🍢	espetinho frutos do mar no oden restaurante
+🦐	animal camarão comida crustáceo
+🫺	apontar aquele aquilo direita essa esse esta este isso isto lado neutro
+🍮	pudim de leite ovos restaurante
+🥐	café da manhã comida croissant fome pão
+🔖	livro marcador página
+🥟	asiático bolinho chinês dumpling empanada gyōza jiaozi massa pierogi potsticker
+🎭	arte ator atriz drama dramática entretenimento espetáculo máscara peça performance teatro
+🈚	botão gratuito ideograma japonês
+🚋	bonde elétrico carro trólebus veículo
+🚦	cruzamento luz semáforo sinal sinaleira trânsito vertical
+😒	aff blasé nada engraçado não achou graça está feliz rosto aborrecido de que quem
+🔹	azul diamante pequeno geométrico losango
+🪴	casa chato decoração nutrir planta plantar samambaia sem utilidade vaso com
+🧰	caixa ferramenta mecânico vermelha
+🦃	animal ave peru de natal
+🍄	champignon cogumelo fungo mario planta
+🟤	círculo marrom
+🫱	apertar aperto direita mão pegar segurar
+🧟	apocalipse assustador bruxas dia halloween morto-vivo terror zumbi
+👨‍🎤	artista ator cantor homem pop rock
+🫩	cansaço cansada cansado dorminhoco exausta exausto olheiras rosto com bolsas embaixo dos olhos
+🤗	abraço carinho feliz mãos abraçando rosto sorrindo
+⏩	avançar botão direita dupla flechas passar para a frente rápido seta
+🕜	1:30 13:30 13h30 1h30 relógio uma e meia
+📈	crescimento diagrama gráfico de tendência subindo
+🦆	animal pássaro pato
+🤼	combate esporte greco-romana livre luta lutador pessoa torneio
+🎶	música nota notas musicais
+🦁	animal leão rosto de zodíaco
+🤏	beliscar mão pequena quantidade pequeno pouco pouquinho
+🪄	bruxa condão magia mágica mago varinha
+🆖	botão ng símbolo “ng”
+😙	beijar e sorrir beijinho beijos flerte mandando beijo olhos sorrindo rosto beijando com sorridentes um sorriso
+🙍	brava bravo chateada chateado franzindo a sobrancelha testa gesto pessoa triste
+🚂	locomotiva trem vapor veículo
+👰	casamento noiva com véu pessoa pessoas de
+🚭	cigarro fumar não é permitido proibido símbolo
+😨	ansiedade assustado com medo preocupado rosto amedrontado
+🎼	música partitura musical
+🤦	como assim decepção decepcionada decepcionado desapontamento descrença inacreditável meu deus não acredito é possível pessoa dececionada
+📞	aparelho de telefone comunicação
+🚎	bonde elétrico ônibus movido a eletricidade trólebus veículo
+🔢	1234 digitação inserir números
+🪣	balde baldinho barril
+😾	bico bravo gato mal-humorado rosto
+🥢	comida japonesa hashi pauzinhos
+🏑	bola campo hóquei de jogo taco
+🎢	entretenimento montanha parque de diversões temático russa
+🐭	animal camundongo ratinho rato rosto de
+😧	angustiado rosto sofrendo
+🐷	animal porco rosto de
+🫣	cativada cativado envergonhada envergonhado esconder espiadinha espiando espiar olhar fixamente rosto com olho smiley tímida tímido vergonha
+🍈	fruta melão
+🤛	esquerdo fechada mão punho soco
+🙋	dúvida eu sei feliz gesto levantando a mão levantar pessoa
+🚲	bicicleta bike veículo
+🍑	fruta pêssego
+🌍	áfrica europa globo mostrando e terra
+👬	amigos casal dois homens gêmeos homem irmãos mãos dadas namorados pessoas
+🐗	animal javali
+🤎	coração marrom s2
+🚃	bonde elétrico ferroviário transporte trem trólebus vagão veículo
+🎤	cantar entretenimento karaokê mic microfone música
+👿	bravo chifres demônio diabinho diabo rosto zangado
+📡	antena comunicação parabólica satélite
+🫨	choque louco loucura meu deus pânico rosto surpresa susto terremoto tremendo vibração vibrar
+🤜	direito punho soco
+🌰	castanha planta
+🐨	animal coala
+📚	biblioteca estudando estudar leitura lendo ler livraria livro livros
+🌿	erva folha planta
+♍	signo de virgem zodíaco
+📂	aberta abrir arquivo pasta
+🔠	abcd caracteres latinos maiúsculos digitação inserir latinas letras maiúsculas
+🔗	anéis corrente dois link símbolo vínculo
+🔱	âncora emblema de tridente ferramenta navio símbolo
+🥒	comida fome legume pepino picles salada vegetal
+⏪	botão de retroceder dupla esquerda seta para a trás voltar
+🥁	baquetas música percussão tambor
+📅	calendário data datas
+👨‍🦼	acessibilidade cadeira de rodas homem em motorizada
+🍚	arroz cozido comida fome restaurante
+🐆	animal leopardo onça
+☔	acessório chuva clima gotas guarda-chuva sombrinha
+🍼	bebê leite leitinho mamadeira mamar neném
+🎳	bola boliche jogo strike
+🪭	abanar arejar balançar calor dança flertar leque quente refrescar timidez
+🍉	fruta melancia
+🎄	árvore comemoração natal pinheirinho
+🔲	botão quadrado preto e branco geométrico
+🧑‍🌾	agricultor jardineiro rancheiro
+🚩	bandeira informações localização poste triangular vermelha vermelho
+🦓	animal listra listras zebra
+🍗	aves comida coxa de frango coxinha fome osso peru restaurante
+🥮	bolo da lua lunar comida confeitaria festival chinês outono yuèbǐng
+🏪	24 horas 24h conveniência loja de prédio
+🍓	comida fome fruta frutas vermelhas morango
+🤚	dorso levantada levantado mão para tudo pare
+📩	carta comunicação correspondência e-mail email envelope seta
+📓	caderno folhas
+👥	amigos busto dupla pessoas silhueta de bustos
+📊	barra diagrama gráfico
+🗽	estátua da liberdade
+🕒	15h 3 horas 3:00 3h00 hora horário relógio três
+🪋	apocalipse bola de fogo espaço estrela gravidade queda rocha
+👓	acessório óculos
+🚰	água beber potável símbolo torneira
+🎽	camiseta corrida esporte faixa
+😴	boa noite cama cansada cansado cochilo dormindo dormir rosto soneca sono zzz
+🎦	cinema entretenimento filme símbolo do
+🥏	disco esporte frisbee ultimate voador
+🦡	animal incomodar ratel texugo de mel
+🎨	arte artista artística museu paleta pintor pintura tinta
+🍖	carne com osso no churras churrasco restaurante
+🔍	aumento busca esquerda ferramenta lente lupa pesquisa procura
+🌹	flor rosa
+👩‍🚀	astronauta espaço foguete mulher
+🐚	animal caramujo concha do mar em espiral
+🎰	aposta azar caça-níquel cassino jogo máquina
+🕺	dançando homem
+🔡	abcd caracteres latinos minúsculos digitação latinas latino letras minúsculas
+👩‍🦯	accessibilidade cega deficiência visual mulher com bengala para cego
+🕍	judaísmo judeu judia religião sinagoga templo
+🛁	banheira banho
+💘	amor coração cupido emoção flecha flechado paixão romance s2
+🥍	bastão bola esporte gol lacrosse raquete taco
+🧑‍🔧	eletricista encanador mecânico trabalhando prestador de serviço
+😍	amor apaixonado coração olhar olhos de paixão romance rosto sorridente com
+🆑	botão cl limpar símbolo do
+🧃	caixa de suco caixinha suquinho
+👒	acessório chapéu fashion feminino
+♌	leão signo de zodíaco
+🌞	praia rosto sol
+🍆	beringela berinjela comida legume vegetal
+😊	alegre encabulada envergonhada feliz fofo ruborizar satisfeita sim sorriso vergonha
+🫸	bate aqui bloquear direita empurrar esperar high five mão parar pausar recusar toca
+💲	cifrão dinheiro dólar grana moeda símbolo do em negrito
+🦍	animal gorila macaco
+🌈	arco-íris chuva clima gay lésbica lgbt lgbtqia+ natureza orgulho queer transgênero
+🙂	feliz rosto levemente sorridente sorrindo sorriso leve
+🧭	bússola magnética direção ímã magnético navegação norte orientação pontos cardeais
+👞	acessório sapato masculino sapatos
+🩳	banho bermuda nadar praia roupa shorts
+🧑‍🚀	astronauta foguete
+🕚	11 horas 11:00 11h00 onze relógio
+😵	acabado atordoado doente morto rosto tontura
+📿	acessório oração religião reza rosário de terço
+🤓	cdf esperto estudioso inteligência inteligente nerd óculos de grau rosto sabe tudo sabe-tudo
+🪀	brinquedo flutua ioiô
+🏫	colégio escola prédio da
+🍹	bar bebida coquetel de frutas drink happy hour restaurante tropical
+🕝	2:30 2h30 duas e meia relógio
+🕠	17h30 5h30 cinco e meia relógio
+📟	comunicação pager
+🎵	música nota musical
+👙	banho biquíni piscina praia roupa
+🩲	banho cueca íntima nadar praia roupa sunga
+🤑	avarenta caro cifrão dinheiro ganância grana rica riqueza
+🚛	caminhão articulado semi trailer veículo
+🥘	caçarola com comida fome paella panela rasa
+😘	beijo flerte jogando beijos mandando rosto um
+🛺	automóvel riquixá autorriquixá tuk
+👱	cabelo loiro louro pessoa loira loura rosto
+🛂	controle passaporte
+🪓	cortar machado madeira partir
+🫝	condimento conserva fermentar pepino picles problema salmoura
+🔞	18 anos dezoito idade menor menores proibido restrição
+🤝	aperto de mãos combinado cumprimento
+📒	caderno livro contábil
+🚥	cruzamento horizontal luz semáforo sinal sinaleira trânsito
+🔊	alto alto-falante gritar música som volume
+🐴	animal cavalo equino rosto de
+😕	confuso indeciso não entendi tenho certeza rosto
+🫑	alimento capsicum comida pimenta pimentão verde vegetal
+🫄	barriga cheia cheio comi demais excesso de peso grávida gravidez inchada pessoa
+🪐	anéis planeta saturnino saturno
+🏅	medalha esportiva vitória
+🏯	castelo japonês pagoda pagode prédio
+🌊	água mar oceano onda praia surfe tsunami
+💿	blu-ray cd computador disco dvd óptico
+🪦	cemitério descanse em paz lápide morto rip sepultura tumba túmulo
+⚾	beisebol bola esportes
+👈	costas dedo dorso esquerda indicador mão
+🦒	animal girafa
+🌗	lua de quarto minguante
+🚸	atravessando criança crianças pedestre símbolo tráfego
+🤳	camera câmera celular foto selfie smartphone
+🏀	basquete bola cesta esporte jogo
+🚏	bus busão ônibus ponto de transporte público
+🥷	assassino furtividade guerra habilidades luta lutador ninja oculto pessoa soldado
+⚽	bola futebol jogar
+🚖	chegada táxi transporte veículo
+👂	corpo escutar orelha ouvido
+👝	acessório bolsa carteira fashion pequena
+📵	cel celular não permitidos proibido sem smartphone telefone
+🐳	animal baleia esguichando água esguicho
+😯	espantado rosto surpreso uau
+🍫	barra de chocolate doce fome
+🌋	erupção vulcânica lava natureza vulcão
+🧝	duende elfo fantasia légolas magia mágico místico rpg ser encantado
+💛	amarelo amor coração emoção love s2
+👨‍💻	codificador computador criador desenvolvedor homem inventor programador software tecnólogo
+🐃	água animal búfalo búfalo-asiático
+🧆	almôndega falafel grão de bico
+💎	diamante joia pedra preciosa
+🧑‍🚒	bombeiro caminhão de bombeiros
+📷	câmera foto selfie vídeo
+⛪	capela cristã cristão igreja missa prédio religião
+🚵	bicicleta ciclismo ciclista esporte montanha mountain bike pedalando trilha
+🐟	animal peixe peixes pesca pescar signo de zodíaco
+🤥	mentindo mentira mentiroso nariz crescendo pinocchio pinóquio rosto de
+😛	língua para fora rosto com mostrando a
+🦵	chute joelho membro pé perna dobrada
+🪒	afiada afiado barbeador barbear depilar gilete lâmina raspar
+💈	barbearia barbeiro barber pole cortar cabelo poste de
+📹	câmera filmadora vídeo
+🛵	monareta motinho moto motoca scooter
+💸	asas banco cédula dinheiro indo embora nota voando
+🔦	elétrica ferramenta lanterna luz
+🧑‍🧑‍🧒‍🧒	adulto adultos criança crianças família filha filho
+🚳	bicicleta não permitidas proibido sem
+🪵	lenha madeira serrada tora tronco
+😂	alegria chorando de rir engraçada engraçado gargalhada hahaha kkk lágrimas rosto com
+🐦	animal pássaro
+🔩	construção ferramenta parafuso porca
+🤠	cara de cauboi caubói cowboy rosto com chapéu sertanejo vaqueiro
+🔉	alto-falante baixo diminuir médio som volume
+💇	beleza cortando o cabelo corte de pessoa salão
+🧓	adulto avô idoso sábio velho vovó
+👼	anjo bebê conto fadas rosto
+🪠	banheiro cocô desentupidor encanador fezes sanitário sucção vaso
+👨‍💼	arquiteto colarinho branco empresário escritório funcionário de gerente homem
+🔃	flechas recarregar sentido horário seta setas em na vertical verticais no símbolo de
+🦦	brincalhona lontra pesca
+🗻	montanha monte fuji
+🐖	animal porco
+🧲	atração ferradura ímã magnético positivo-negativo
+🚻	banheiro lavabo sanitário símbolo toalete
+💤	boa noite cansada cansado com sono dormindo dormir emoção engraçado roncando zzz
+🔌	cabo elétrica eletricidade energia plugue tomada
+🏺	ânfora ornamento chinês vaso
+📻	rádio radiola som vídeo
+🧑‍🦯	acessibilidade cego pessoa com bengala para
+🪗	acordeão concertina instrumento música sanfona
+🍱	almoço japonês bentô caixa de restaurante
+🔘	botão de opção geométrico rádio
+🕙	10 horas 10h00 22h dez relógio
+👻	assombração assombrado buu conto fadas fantasma halloween rosto
+🧉	bebida chimarrão cuia de mate tereré
+🫀	anatomia batimento cardíaco cardiologia centro coração humano vermelho órgão pulsação pulso s2
+🦭	animal marinho foca leão leão-marinho oceano
+👨‍🔬	biólogo cientista homem físico professor químico
+🐫	animal camelo asiático com duas corcovas corcova deserto
+♉	boi signo de touro zodíaco
+👨‍🍳	chef cozinheiro homem restaurante
+🚢	aquático barco cruzeiro férias navio veículo viagem
+🥽	mergulho natação óculos olhos proteção ski solda soldagem
+🚟	estrada de ferro suspensa suspensão trem veículo
+🔶	cor de laranja diamante grande geométrico losango
+🪡	agulha alfaiataria bordados costura linha pontos suturas vagonite
+⛺	acampamento acampar barraca
+🙁	rosto meio triste tristeza tristinho
+👾	alien e.t extraterrestre game invasores monstro ovni pixelado
+💷	cédula dinheiro grana libra moeda nota
+🏉	americano bola esporte futebol rugby
+❓	interrogação pergunta ponto de vermelho pontuação sinal
+👩‍🎨	artista plástica mulher pintura
+🐇	animal coelhinho da páscoa coelho
+🌾	arroz comida espiga de fazenda grãos planta do
+🛷	neve tobogã trenó
+🌀	ciclone clima espiral furacão tonto twister zonzo
+🦴	cachorro esqueleto osso
+👨	adulto amigo homem irmão marido namorado
+💥	colisão emoção engraçado explosão símbolo de
+🗿	estátua moai moyai rosto
+⛵	barco iate navegar oceano praia resort vela
+🫵	aí apontar cutucar dedo indicador apontando para o visualizador mão tu você
+🏰	castelo europeu medieval prédio
+🐞	animal besouro inseto joaninha tipo de
+🚆	ferrovia trem veículo
+🐕‍🦺	accessibilidade assistência cachorro cadela cão de serviço cão-guia pastor alemão
+🐮	animal fazenda leite muuu rosto de vaca vaquinha
+🏮	bar izakaya lanterna papel restaurante vermelha
+😥	aliviado decepcionado não rosto triste ufa
+🧤	inverno luva mão
+🐰	animal coelho rosto de
+🏨	hotel prédio
+🍕	fatia pizza restaurante
+📗	biblioteca caderno colégio escola estudar lendo ler livraria livro verde
+🎇	comemoração fogo de artifício vela estrela
+🪳	animal barata baratas inseto nojento nojo praga
+⚡	alta eletricidade natureza perigo relâmpago sinal tensão
+⏬	botão de avanço para baixo flechas retroceder rápido seta dupla
+🍻	bar caneca cerveja chope chopp restaurante
+🚺	banheiro feminino lavabo lavatório mulher símbolo toalete wc
+👚	azul blusa camiseta feminina roupa
+🧳	bagagem mala rodinhas viagem
+♐	arqueiro sagitário signo de zodíaco
+🚤	barco férias lancha praia veículo verão
+📝	anotações caderno comunicação lápis memorando notas
+🪨	pedra pedregulho pesado rocha seixo sólido
+🍅	fruta fruto legume tomate vegetal
+📁	arquivo pasta de arquivos
+🎁	comemoração embrulhado mimo presente
+🧑	adulta adulto pessoa
+🚒	bombeiro caminhão do corpo de bombeiros carro fogo incêndio veículo
+👷	capacete chapéu construção civil construir pessoa trabalhador de
+🔤	abc alfabeto digitação inglês inserir latino latinas letras
+🚞	carro estrada de ferro na montanha teleférico veículo
+🌐	globo com meridianos
+😸	gato rindo riso rosto sorrindo sorriso
+🫡	boa sorte exército ok respeito saudação senhor sim tropa
+🟰	conta iguais igual igualdade matemática resposta resultado sinal de
+🚬	cigarro é permitido fumar fumante fumo símbolo para “é fumar”
+🆒	botão cool legal símbolo “cool”
+🍺	bar bebida caneca de cerveja chopp gelada happy hour restaurante
+🪏	buraco cavar pá pazinha
+🐂	animal boi touro zodíaco
+🤙	legal ligar mão me liga
+♓	peixes signo de zodíaco
+👵	adulta idosa mulher pessoas velhinha vovó vovozinha
+🐧	animal antartica frio pinguim
+❎	× botão com x de caixa xis marcado multiplicar quadrado em um verde
+🟫	marrom quadrado
+🥩	bife carne vermelha corte de costela cordeiro costeleta porco
+🦾	acessibilidade braço mecânico prótese
+🎣	entretenimento peixe pesca pescador pescaria recreação vara
+😌	alívio em paz rosto aliviado zen
+🫷	bate aqui bloquear empurrar esperar esquerda high five mão parar pausar recusar toca
+🐝	abelha animal inseto natureza
+🌻	flor girassol planta
+✨	* brilhantes brilhos estrelas faíscas mágica
+🚽	banheiro patente privada sanitário toalete vaso
+🥑	abacate comida fruta
+👛	acessório bolsa bolsinha moeda niqueleira porta rosa
+🌮	comida mexicana mexicano taco tacos
+📋	anotações prancheta
+🦊	animal bicho raposa rosto de
+⚫	círculo geométrico preto
+♒	água aquário signo de zodíaco
+🐈‍⬛	animal azar dia das bruxas felino gata gato halloween miado miau preto
+🩵	adorar adorei amo você amor coração emoção especial fofo gostar gostei te
+📤	bandeja caixa comunicação correspondência enviada saída
+🐐	animal bode cabra capricórnio zodíaco
+🧂	comida condimento sabor sal saleiro salgado
+🎯	alvo certeiro dardos jogo mira mosca tiro
+🐻	animal rosto de urso
+🔨	construção ferramenta martelada martelo reparo
+🚣	barco bote canoa mar oceano pessoa remo rio
+👕	camisa camiseta roupa
+🐼	animal panda rosto de
+👃	cheirar cheiro corpo nariz odor rosto
+📭	aberta bandeira caixa de correio com abaixada correspondência e vazia
+🚁	helicóptero veículo viagem viajar voo
+🛻	automóvel caçamba caminhão caminhonete carro picape pick-up pickup transporte veículo
+🕤	9:30 9h30 hora nove e meia relógio
+🫅	coroa monarca nobre pessoa com princesa príncipe rainha real realeza rei reino
+🧑‍🦽	acessibilidade cadeira de rodas pessoa em manual
+🌱	brotar broto jovem muda de planta plantinha
+😪	cara de sono rosto com sonolento
+🧒	criança filho jovem neto pequeno
+🦤	animal ave dodô extinto grande maurício pássaro
+👢	acessório bota calçado feminina médio salto
+📬	aberta bandeira caixa de correio com levantada correspondência
+🚼	bebê fralda fraldário símbolo trocar
+🚑	ambulância veículo
+😞	decepção desapontado desapontamento rosto decepcionado triste
+🍸	bar beber bebida cachaça coquetel happy hour martini restaurante taça de
+🥵	calor febre febril insolação língua de fora ofegante quente rosto fervendo vermelho suando suor
+🫔	alimento comida enrolado mexicano milho pamonha tamale
+👹	assustador conto de fadas demoníaco japonês malvado máscara monstro ogro oni rosto
+😬	careta fazendo rosto expressando desagrado sem graça
+🤶	comemoração mamãe natal noel vovó
+🎓	capelo chapéu comemoração formatura
+👩‍🎓	aluna estudante formanda mulher
+🛖	abrigo cabana casa yurt
+🎬	cena claquete entretenimento filme tomada
+🤘	chifres dedos mão metal rock saudação do
+🕣	8:30 8h30 oito e meia relógio
+🤫	faça silêncio fica quieta quieto rosto fazendo sinal de
+🔭	ciência ferramenta telescópio
+🌸	cereja cerejeira flor de planta primavera
+🥻	índia indiana roupa sari vestido
+🎷	instrumento musical música sax saxofone
+😺	aberta animal boca feliz gato rosto sorrindo sorriso
+😫	cansado desesperado exausto rosto
+😀	engraçado feliz lol rindo risada riso rosto risonho sorridente
+💭	balão de pensamento engraçado ideia invenção inventando pensando
+🦼	acessibilidade cadeira de rodas motorizada
+👩‍💼	arquiteta branco colarinho empresária escritório funcionária gerente mulher
+♿	acesso cadeira rodas símbolo sinal
+🥄	colher talher
+🧽	absorção absorvente encharcar esponja limpeza porosa poroso
+💵	dinheiro dólar moeda nota bancária de
+🐹	animal hamster rosto de
+💾	computador disco flexível disquete
+🌔	convexa crescente lua
+🥫	comida enlatada lata
+💴	cédula dinheiro grana iene moeda nota
+🦧	macaco orangotango primata
+🍶	bar bebida copo garrafa e de saquê japonês restaurante
+⚪	branco círculo geométrico
+🆙	botão up para cima símbolo “up!”
+😎	muito sol na boa óculos escuros rosto sorridente com sorrindo de sorriso to legal
+📐	ângulo geometria matemática régua triangular triângulo
+🫧	água aquática aquático arroto bolha bolhas embaixo d’água flutuar limpo pérolas sabão
+💕	amor aniversário casal coração dois emoção s2
+😗	beijo rosto beijando com
+🫤	cético confusão decepção desapontado dúvida frustração indiferença inseguro meh tanto faz
+💬	balão de conversa diálogo engraçado
+🛘	avalanche desastre montanha perigo rochas terremoto
+🚚	caminhão de entrega veículo
+🔚	fim com seta para a esquerda final end ir o
+💺	assento cadeira poltrona
+🎉	alegria aniversário celebrar comemoração cone eba festa oba parabéns
+🤲	cima devoção juntas oração palmas unidas
+😔	abatido chateado deprimido desanimado pensativo pra baixo rosto
+👋	acenando aceno até mais está aí flw mão oi olá taí tchau
+🎊	bola celebração comemoração confete eba oba parabéns
+💼	mala maleta pasta
+🥬	alface bok choy comida couve hambúrguer repolho chinês salada verdura
+🈸	aplicação aplicativo botão ideograma japonês
+🚱	água consumo imprópria não potável proibido seco sem
+🐄	animal fazenda vaca
+⬜	geométrico quadrado branco grande
+😝	eca horrível língua para fora com os olhos fechados rosto semicerrados e
+😓	rosto cabisbaixo com gota de suor frio suando
+🩼	ajuda bastão bengala deficiência desculpa lesão machucar mobilidade muleta
+🙀	choque desolado gato meu deus oh rosto surpresa surpreso
+🧯	apagar extinguir extintor fogo incêndio
+🦖	dinossauro t-rex tiranossauro rex
+🧑‍🧒	adulto criança família
+🐒	animal macaco
+🥴	alcoolizado bêbada bêbado boca ondulada embriagada embriagado intoxicado olhos tortos rosto tonta tonto
+🧅	cebola tempero
+🍙	arroz bolinho de comida fome japonês onigiri restaurante
+👨‍🚒	bombeiro caminhão corpo de bombeiros fogo homem incêndio
+🪈	banda flauta flautim instrumento marcial música orquestra pífano pife sopro tubo
+🏏	betes bola críquete jogo taco
+👴	adulto avô careca homem idoso pessoas vovô
+🦝	animal astuto curioso guaxinim travesso
+🎲	dado dados jogo sorte
+🚡	aérea bonde gôndola linha teleférico veículo
+😑	aff inespressiva inespressivo nada a dizer rosto inexpressivo sem comentários expressão tanto faz
+🥶	abaixo de zero azul congelando congelei frio gelado gélido glacial rosto
+🚿	água banho chuveiro ducha
+🖕	dedo do meio gesto ofensivo mão
+🫆	identidade impressão digital investigação forense segurança
+🧑‍🍳	chef de cozinha cozinheiro
+🫠	calor derretendo derreter desaparecer dissolver envergonhada haha quente sarcasmo sarcástica vergonha
+🐑	animal fazenda lã ovelha
+🕐	1 hora 13h 1h 1h00 relógio uma
+🔑	chave senha trancado trancar
+🚕	táxi veículo
+🎹	instrumento musical música piano teclado
+🦮	acessibilidade cachorro cadela cão cão-guia cega cego cegueira deficiência visual guia labrador
+📃	dobrado documento página papel
+👨‍🔧	eletricista encanador homem mecânico prestador de serviços
+😄	aberta boca engraçado feliz haha lol risada riso risonho sorridente sorriso
+🥲	aliviada chorar contente emocionado felicidade feliz grata gratidão lágrima orgulhosa rir sorrir
+🫥	deprimida desaparecer esconder escondido indiferença introvertido invisível meh tanto faz
+🥤	água canudo copo com refrigerante suco
+🥃	bar bebida copo drink whisky
+🗼	japão tóquio torre de
+🙄	olhando para cima olhos revirando os rolando rosto com revirados tanto faz virando
+🦥	bicho-preguiça devagar lenta lentidão preguiça preguiçosa preguiçoso
+🧞	desejos fantasia gênio lâmpada mágica místico
+🤪	cara de maluco doida doido excêntrico grande louca louco olhar olho pequeno rosto bizarro
+👩‍🍳	chef cozinheira mulher
+🫘	alimento comida feijão feijões grão legume
+🥇	1o lugar 1º medalha ouro vitória
+🐘	animal elefante
+🔻	geométrico triângulo vermelho apontando para baixo triangulo
+🎡	entretenimento gigante parque de diversões roda
+🕢	7:30 7h30 relógio sete e meia
+💪	academia bíceps contraído engraçado forte musculação músculo
+🎒	bolsa escola mochila viagem viajar
+😢	chorando choro lágrimas rosto triste
+👨‍🦯	accessibilidade cego homem com bengala para
+🫪	ansiedade chocado inchado pânico surpreso vulnerável
+🔕	mudo notificação proibido quieto sem som silêncio silencioso sino
+📢	alto alto-falante aviso buzina comunicado discurso gritar megafone
+🦟	aedes aegypti amarela animal chicungunha dengue doença febre inseto malária mosquito pernilongo vírus zica
+🎅	comemoração festas natal noel papai
+❕	delineado exclamação mark ponto de branco pontuação sinal
+🤽	aquático competição esporte pessoa piscina polo
+🗾	japão mapa
+🔆	aumentar brilho botão de símbolo para
+🤣	chão choro engraçada feliz gargalhada haha kkk lágrimas rindo rir risada rolando
+🦅	águia pássaro
+🧶	bola crochê lã novelo tricô tricotar
+🍇	fruta uva uvas
+🌯	burrito comida mexicana mexicano
+🌎	américa as américas globo mostrando terra
+🀄	dragão jogo mahjong peça vermelho
+🦣	animal extinto grande lanoso mamute pré-histórico presa
+🥝	comida fruta kiwi
+😻	adorei amor apaixonado coração gato paixão rosto sorriso
+🎸	guitarra instrumento musical música
+⏫	botão de avanço para cima dupla flechas seta
+🏩	amor hotel motel prédio
+🥓	bacon comida fome toucinho
+➗	÷ dividir divisão matemática símbolo de sinal grande
+🐦‍🔥	fantasia fênix imortal pássaro de fogo reemergir reencarnação reencarnar reincarnação renascer renascimento reviver transformação
+🔁	botão de repetir flechas horário sentido seta setas em
+👪	família filho mãe pai pessoas um
+🤍	branco coração s2
+🪃	aborígene arma austrália bumerangue rebote repercussão
+🔧	chave ferramenta inglesa obra reforma
+🐶	animal cachorro rosto de
+🦌	animal cervo veado
+🎋	árvore comemoração estrelas festival japonesa papel tanabata tiras
+🕌	islã mesquita muçulmano religião
+📔	agenda caderno capa decoração escola livro
+🕗	8 horas 8:00 8h00 hora oito relógio
+🐲	animal dragão rosto de
+👊	beleza fechado força mão punho soco tá ligado
+🫙	armazenar condimento conserva jarra jarro molho nada pote recipiente vazio vidro
+🚇	metrô trem túnel subterrâneo veículo
+🧏	acessibilidade audição orelha pessoa surda surdo surdos
+🤐	boca fechada calada calado quieta quieto rosto com de zíper segredo
+👩	adulta garota guria loira menina mina mulher
+🍡	bolinho de mochi no espetinho japonês comida dango doce fome mochiko sobremesa
+📧	carta comunicação correspondência e-mail
+🛜	banda larga computador conectividade internet ponto de acesso rede roteador sem fio smartphone wi-fi wifi wireless
+🐊	animal crocodilo jacaré
+📌	alfinete tacha
+🕕	18h 6 horas 6h00 relógio seis
+⛲	água chafariz fonte praça
+🔫	água arma ferramenta pistola d’água revólver
+🍐	comida fome fruta pera
+⚓	âncora marinha navegar sinal
+🪆	boneca matriosca matrioska russa
+📦	caixa embrulho pacote
+🧧	boa sorte dinheiro envelope vermelho hóngbāo lai see presente
+🪽	angelical anjo asa ascender aviação celestial mitologia pássaro voando voar alto
+🎪	circo entretenimento lona de tenda
+😏	flerte rosto com sorriso maroto maldoso malicioso suspeito
+🛄	aeroporto área bagagem bagagens esteira férias mala recolhimento restituição viagem
+♑	cabra capricórnio signo de zodíaco
+🧑‍💼	arquiteto colarinho branco gerente negócios trabalhador de escritório
+🐁	animal camundongo ratinho
+🐌	animal caracol escargot
+👩‍🌾	agricultora fazendeira jardineira mulher
+🕑	14h 2 horas 2h 2h00 duas relógio
+🎀	comemoração fita laço presente
+📪	abaixada bandeira caixa correio correspondência fechada vazia
+🎮	controle game jogo jogos playstation video videogame xbox
+🔴	bola vermelha círculo vermelho grande geométrico
+🦞	animal bisque caldo fruto do mar garras lagosta
+🛐	culto local de sagrado oração religião reza
+🛹	rodinhas skate skatista
+👩‍🏭	fábrica indústria mulher operária trabalhadora
+🙅	de jeito nenhum gesto mão não proibido sem chance
+🏧	atm automático banco caixa dinheiro eletrônico grana saque símbolo
+🧢	boné de beisebol chapéu
+🫎	alce animal cervo chifres galhada mamífero rena
+💁	ajuda diva divo fala sério fofoca informações jogada de cabelo mão pessoa com a virada para cima palma sarcasmo
+🈶	botão grátis ideograma isento japonês não taxa
+🌺	flor hibisco planta primavera
+🤬	boca censurado fala mal rosto rude símbolos xingando
+🤢	doente enjoado enjoo náusea rosto nauseado vômito
+💃	bailarina dança dançando flamenco mulher pessoas salsa tango vamos dançar
+🦋	beleza borboleta inseto
+🐥	animal ave bebê fihote galinha pintinho de frente olhando para pinto
+🚫	entrada não proibida proibido símbolo sinal
+💞	adorável amor bonitinho coração corações emoção girando s2
+🥖	baguete bisnaga comida pão francês
+🉑	aceitável botão ideograma japonês
+🚓	carro patrulha polícia veículo viatura policial
+🧑‍🔬	biólogo cientista engenheiro físico químico
+🔒	cadeado fechado trancado
+🐦‍⬛	animal ave bico corvo gralha passarinho pássaro preto
+😐	neutro putz rosto sem emoção comentários reação
+🪘	atabaque batida comprido conga instrumento percussão ritmo tambor
+🎩	cartola chapéu chique entretenimento roupa
+👩‍🎤	artista atriz cantora mulher pop rock
+🦄	animal rosto de unicórnio
+🐠	animal peixe tropical
+🥥	coco fruta palmeira piña colada
+🧣	cachecol frio inverno pescoço
+🎿	bota esporte esqui esquiar neve
+🌆	anoitecer cidade ao noite paisagem pôr do sol prédio
+🧐	conservador rosto com monóculo
+😭	chorando alto chorar infeliz lágrimas rosto aos berros triste
+😰	boca aberta nervoso rosto ansioso com gota de suor azul frio suando
+💣	bomba emoção engraçado explosão explosivo perigo
+🐪	animal camelo de uma só corcova deserto dromedário
+👨‍🎓	aluno colando grau estudante formando graduação homem
+👇	abaixo costas da mão dedo apontado para baixo indicador dorso com apontando embaixo
+🥉	3o lugar 3º bronze medalha terceiro
+🚅	bala ferrovia japão trem velocidade veloz viagem
+🥳	animação aniversário apito chapéu comemoração comemorar feliz festa língua de sogra parabéns rosto festivo viva
+👳	pessoa com turbante
+🎧	entretenimento fone música ouvido som
+📨	carta chegando comunicação correspondência e-mail envelope nova recebida
+⭐	amarela astronomia estrela
+🫃	barriga cheia cheio comi demais excesso de peso gravidez grávido homem inchado pessoa
+🌌	céu espaço estrelado via láctea
+🧖	banho homem mulher pessoa relaxar sauna spa
+🚠	bonde cabo suspenso usado em teleféricos nas montanhas montanha teleférico na veículo
+🪙	dinheiro dólar euro metal moeda ouro prata real rica rico tesouro
+🌵	cacto deserto natureza planta seca
+😲	chocado estupefato rosto espantado totalmente
+🙃	de cabeça para baixo rosto invertido
+🚶	andar caminhada caminhar passo pedestre perambulando pessoa
+👤	busto mistério pessoas silhueta sombra
+🛶	barco canoa
+🌓	lua de quarto crescente
+🌒	côncava crescente lua noite
+👽	alienígena extraterrestre ovni rosto
+🕡	18h30 6h30 relógio seis e meia
+🐡	animal baiacu peixe
+🛃	aduana aduaneira alfândega bens federal impostos receita
+🥛	copo de leite
+🛟	boia colete flutuar guarda-vidas guardar nadar resgate salva salva-vidas segurança vidas
+🫚	cerveja comida erva especiaria gengibre natural raiz saúde tempero
+🍋	azedo cítrico fruta lima limão siciliano
+🪶	leve pássaro pena plumagem voo
+🫹	apontar aquele aquilo esquerda essa esse esta este isso isto lado neutro
+👲	chapéu chinês gua pi mao guapimao homem com de boné pessoas
+🤰	estou grávida gravidez mulher
+🧹	bruxa limpar limpeza varrer vassoura
+💑	casal apaixonado com um coração pessoas romance
+⛅	clima nublado nuvem sol
+🩶	adorar adorei amo você amor coração emoção especial gostar gostei te
+🧨	artifício bomba bombinha chiando dinamite estourar explosivo faísca fogo luz pirotecnia roubada
+🏊	esporte nadar natação olimpíada triatlo
+🕟	4h30 quatro e meia relógio
+🩰	bailarina balé dança sapatilha
+📀	blu-ray cd computador disco dvd óptico
+🏃	correndo correr corrida esporte maratona maratonista pessoa pressa
+🧜	canto cauda contos criatura fada fundo mar oceano ser encantado sereia sirene tridente
+🔽	botão apontando para baixo de triângulo seta vermelho
+💻	computador laptop notebook pc pessoal trabalho
+🧋	bebida bolha bubble tea chá perolado comida leite pérola pobá
+🫏	animais animal asno burro jegue mamífero mula relinchar relincho teimosa teimoso
+🪟	abertura ar fresco janela quadro transparente vidro vista
+🐢	animal tartaruga
+😤	brava bravo furiosa furioso irritada irritado rosto soltando vapor pelo nariz fumaça triunfo vitória
+👨‍🚀	astronauta homem espaço foguete
+👩‍💻	codificadora computador criadora desenvolvedora inventora mulher programadora software tecnóloga
+🦠	ameba bactéria ciência micróbio vírus
+🥺	implorando olhar de cachorrinho olhos grandes perdão por favor que não pq rosto triste
+🤮	doente nojenta nojento nojo rosto vomitando vômito
+❗	exclamação ponto de vermelho pontuação
+🪼	água-viva ai animal aquário ferrão invertebrado mar marinha medusa oceano queimadura tentáculos
+🎺	instrumento musical música trompete
+🟥	quadrado vermelho
+😶	calada calado quieto rosto sem boca comentários palavras
+🧬	biologista biólogo código dna evolução gene genética genético vida
+😵‍💫	caramba confuso desnorteado eita espirais hipnotizado problema putz tonto tontura uau
+📸	câmera flash foto fotografia vídeo
+👩‍🔧	eletricista encanadora mecânica mulher prestadora de serviços
+💧	com suor engraçado gota de
+🪂	asa-delta paraquedas paraquedista parasail saltar de
+🎃	abóbora comemoração dia das bruxas halloween jack lanterna
+🫟	mancha pingo respingo tinta
+💖	amor brilhante coração emoção emocionante s2
+💜	coração lilás emoção roxo s2
+🚀	espaço foguete veículo
+🎑	cerimônia de contemplação da lua comemoração
+🍦	doce fome sobremesa sorvete de casquinha massa italiano na
+🥀	flor morrendo murcha murchando
+😣	concentração concentrado dor de cabeça foco perseverança perseverante rosto
+📰	jornal notícias
+🥊	boxe esporte luta luva
+🧑‍🏫	instrutora professora na escola
+🔺	geométrico triângulo vermelho apontando para cima triangulo
+📺	canal televisão tv vídeo
+🦬	animal bisão bisonte búfalo rebanho
+👸	conto coroa fadas fantasia loira menina mulher pessoas princesa rainha
+😋	apetitoso comida gostosa delicioso gostoso nham rosto com sorriso saboreando saboroso
+👗	peça única roupa vestido
+🦎	animal lagartixa lagarto réptil
+🫳	cair derrubar descartar mão com a palma para baixo pegar segurar soltar xô
+🥎	bola esporte luva softball softbol
+💉	agulha injeção médico remédio seringa vacina vacinação
+🪧	aviso cartaz demonstração letreiro piquete placa protesto sinal
+🌃	cidade à noite estrelas estrelada prédios
+📕	apostila fechado livro
+😇	anjinho anjo auréola inocente rosto sorridente com sorriso
+🍃	folha ao vento soprando
+🫒	alimento azeitona comida oliveira
+🔜	“soon” com seta para a direita em breve flecha soon símbolo
+🧑‍🍼	alimentando amamentação amamentar bebê homem mãe mulher neném pai pessoa recém-nascido
+🚍	ônibus se aproximando veículo
+🧄	alho tempero
+👯	amigas coelho dançar dançarinas festa gêmeas melhores orelhas
+🪤	armadilha atrair isca prender queijo ratoeira
+🥸	bigode disfarce espião incógnito nariz óculos pessoa rosto disfarçado sobrancelha
+🥅	esporte futebol gol goleira goleiro rede
+🍪	biscoito bolacha comida cookie doce fome sobremesa
+🔎	aumento busca direita ferramenta lente lupa pesquisa procura
+🩴	alpargatas chinelo piscina praia rasteirinha sandália
+💢	com raiva emoção engraçado símbolo de
+🥙	comida kebab pão recheado recheio wrap
+🐈	animal felino gato
+📥	bandeja caixa comunicação correspondência e-mail email entrada recebida recebido
+🚮	coloque o lixo no lata lixeira símbolo
+🟨	amarelo quadrado
+🥼	cientista dr experiência experimento jaleco médico roupa
+🧱	argamassa argila cimento muro parede terra tijolo
+🧈	laticínio manteiga margarina
+💓	amor batendo coração emoção pulsante s2
+🎏	bandeira carpas comemoração koinobori
+♈	áries carneiro signo de zodíaco
+🛌	boa cama cochilo dormindo dormir hotel noite pessoa soneca sono
+🦇	animal morcego vampiro
+🚐	mini ônibus van veículo veraneio
+🐬	animal golfinho oceano
+🐅	animal tigre
+🌉	noite ponte à pontilhão
+🤌	beliscado coxinha dedos gesto de mão hã interrogação itália italiana maravilha o quê sarcástico
+🛀	água banheira banho espuma pessoa
+👶	bebê bebezinho grávida neném pessoas recém-nascido
+🍁	folha caída de bordo vermelha maple outono
+🚜	obra trator veículo
+💠	cômico dentro diamante com ponto um formato de geométrico
+😚	beijando com os olhos fechados beijinho mandando beijo rosto
+👮	autoridade multar pessoa polícia policial prender
+🍥	bolinho de peixe croquete redemoinho restaurante
+🧌	conto fadas fantasia gigante monstro ogro troll
+👠	acessório alto chique fashion moda mulher salto sapato scarpin
+🧑‍🎄	chapéu feliz festas gorro mamãe natal noel pessoa
+👩‍🏫	instrutora mestra mulher professora
+🌴	árvore de palmeira coqueiro
+🏭	fábrica prédio
+🔷	azul balão diamante grande geométrico losango
+💡	elétrica ideia lâmpada luz quadrinhos tenho uma
+🪾	árvore seca sem folhas inverno
+🔙	flecha seta back para a esquerda voltar com
+🫲	apertar esquerda mão pegar segurar
+💒	capela de casamento romance
+🆔	botão id identidade símbolo “id”
+🧑‍🩰	bailarino balé ballet dançarina dançarino
+🥪	pão de forma sanduíche
+⌛	ampulheta areia tempo
+🔀	botão de músicas aleatórias cruzadas flechas seta setas em direção à direita
+😦	aberta assustado boca decepcionado inesperado rosto franzido com uau
+🍄‍🟫	champignon cogumelo marrom comida fungo fungos natureza trufa vegetal vegetariano
+🦫	animal castor dentuço represa
+🥚	comida fome ovo
+🛑	pare sinal de
+🎫	entretenimento ingresso
+👺	bravo conto duende fadas goblin japonês máscara monstro raiva rosto tengu zangado
+🤷	dar de ombros dúvida ignorância indiferença não sei pessoa dando quem sabe lá tanto faz
+🦏	animal rinoceronte
+🍿	balde cinema pipoca
+☕	café cafeína cafezinho chá inverno quente
+📴	celular desligado desligue o smartphone telefone
+👘	quimono roupa vestir
+🚈	chegada cheguei leve trem urbano veículo
+🧷	alfinete de segurança fralda punk rock
+🍔	búrguer cheese burguer hambúrguer restaurante
+🔸	cor de laranja diamante pequeno geométrico losango
+🎎	bonecas comemoração festival japanesas japonês
+🧘	cruzadas ioga lótus meditação pernas posição postura relaxar serenidade yoga zen
+🥾	acampamento acampar bota de trekking caminhada marrom mochilão natureza sapato trilha
+🦙	alpaca animal guanaco lã lhama vicunha
+🆚	botão vs símbolo “vs” versus
+🧦	meia meião
+🛕	hindu templo
+💝	amor aniversário coração dia dos namorados fita presente s2
+🔂	botão de repetir uma única faixa horário número 1 vez sentido seta setas em com
+🌷	flor tulipa
+🧑‍🧑‍🧒	adulto criança família
+🥰	amando amei amo apaixonada coração crush paixão romance rosto sorridente te
+💍	anel diamante romance
+🕖	19h 7 horas 7h00 relógio sete
+🚷	não passagem pedestre permitidos proibida proibido
+🐾	animal pata patas patinhas de cachorro pegada
+👨‍🎨	artista homem pintor pintura plástico quadros
+🍤	camarão empanado frito restaurante tempura
+🦢	animal ave cisne pássaro patinho feio
+🔏	cadeado caneta privacidade privado tinteiro
+⛄	boneco frio inverno neve
+💀	caveira conto corpo fadas morte rosto
+🏴	bandeira preta tremulando
+👍	beleza cima concordo dedão joia mão ok polegar sim sinal valeu
+🧑‍💻	desenvolvedor inventor programador software tecnólogo
+🪊	instrumento jazz música sopro triste
+🌭	cachorro quente cachorro-quente hot dog pão com salsicha vina
+♎	balança justiça libra signo de virgem zodíaco
+🪇	chacoalhar chocalho dança festa instrumento maraca maracas maracás mexer música percussão
+💂	guarda londres palácio pessoas segurança
+🛸	alienígena disco et extra óvni terrestre voador
+➰	laço encaracolado loop onda ondulado volta
+🎴	baralho carta de flores hanafuda jogo
+🦪	frutos do mar mergulho ostra pérola
+🪯	deg tegh fateh fé khalsa khanda religião sikh sikhismo siquismo
+🛅	bagagem depósito esquecida malas serviço
+🉐	barganha botão ideograma japonês promoção
+🧑‍🏭	fábrica funcionário de industrial montagem trabalhador
+🔰	folha verde e amarela iniciante japonês símbolo de principiante para amarelo
+🫍	baleia marinho oceano
+♊	gêmeos signo de zodíaco
+🍒	cereja comida fome fruta frutas vermelhas
+🦘	animal austrália canguru filhote joey marsupial pula pulo salto
+🦯	acessibilidade bengala cega cego cegueira deficiente visual
+🧼	banho barra espuma limpar limpeza sabonete saboneteira
+🧿	amuleto conta grego mau-olhado miçanga nazar olho talismã
+🎱	bilhar bola oito jogo
+🍭	bala doce pirulito
+🥈	2o lugar 2º medalha prata segundo
+🔬	ciência ferramenta microscópico microscópio
+🤞	boa sorte cruzados dedos mão torcendo
+🍛	arroz com curry e restaurante
+👌	beliscar certo concordo mão ok ótimo rude sinal sinalizando
+👆	cima costas dedo para dorso indicador mão
+👉	apontar costas dedo direita dorso indicador mão
+🎍	bambu comemoração decoração de pinhas pinhos japonês pinha
+🧔	barba barbudo homem pessoa
+🦶	calcanhar chutar chute pé pisão pisar tornozelo
+🈺	aberto botão ideograma japonês negócios
+🧮	ábaco calculadora cálculo matemática número
+🏁	bandeira chegada corrida esporte quadriculada vitória
+🙈	envergonhado macaco não veja o mal vi nada olhos tapados vergonha
+🍠	assada batata batata-doce doce restaurante
+🕋	caaba islã muçulmano religião
+🫓	alimento arepa comida lavash naan pão folha sírio pita
+😠	irado rosto zangado
+🫶	<3 amei amo você amor coração mão mãos de te
+🤖	monstro robô robotizado rosto
+◾	geométrico preto quadrado médio menor
+🤤	babando babar rosto salivando
+🏹	arco e flecha arma sagitário zodíaco
+💔	amorosa coração decepção desilusão emoção partido quebrado rompimento s2 sofrendo sofrimento triste
+🍍	abacaxi comida fome fruta
+🤱	amamentação bebê leite mãe materno neném
+👨‍🍼	alimentando amamentação amamentando amor bebê homem neném pai papai pessoa recém nascido recém-nascido
+👫	amigos casal homem mãos dadas mulher pessoas

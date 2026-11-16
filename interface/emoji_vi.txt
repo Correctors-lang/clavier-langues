@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « vi » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	mới new nút
+🧑‍🤝‍🧑	cặp đôi giữ hai người nắm tay
+◽	hình học vuông nhỏ vừa màu trắng
+⛽	bơm nhiên liệu diesel gas khí trạm
+🔓	khóa mở
+👄	cơ thể hôn làm đẹp miệng môi
+🍴	ăn sáng bữa tối trưa cho dao dĩa đồ đói nấu ngon miệng nhà hàng
+🏒	băng gậy khúc côn cầu trên trận đấu
+💦	bắn tung tóe giọt mồ hôi nước hài hước tập thể dục
+🎐	chuông gió kêu vang lễ kỷ niệm
+😼	châm biếm con mèo khuôn mặt cười gượng mỉa mai nụ
+😉	mặt nháy mắt
+📛	tên thẻ
+🚉	đường sắt ga tàu hỏa
+💌	lá thư tình trái tim yêu
+🆘	nút sos trợ giúp
+🛙	ánh sáng biển đèn điều hướng giác ngộ hàng hải dẫn hy vọng tín hiệu
+🍯	hũ mật ong ngọt
+😿	buồn khóc mặt mèo đang nước mắt
+🫜	củ cải đường rau rễ vườn
+😳	choáng váng đỏ mặt ửng
+🚨	ánh sáng cảnh sát đèn hiệu xe quay vòng hơi
+🚌	trường học xe buýt cộ
+🌇	chạng vạng hoàng hôn mặt trời
+🔝	lên mũi tên top
+🙊	cấm điều xấu khỉ không nói mặt
+🐙	bạch tuộc đại dương động vật sinh
+🕦	11 11:30 ba mươi đồng hồ mười một giờ phút
+🕞	3 3:30 ba giờ mươi phút đồng hồ
+🙌	cử chỉ hai bàn tay giơ lên hoan hô lễ kỷ niệm nâng
+🚗	ô tô xe cộ
+🕥	10 10:30 ba mươi đồng hồ mười giờ phút
+🥱	buồn ngủ chán không quan tâm mặt đang ngáp mệt mỏi thôi sao cũng được
+🐎	cưỡi ngựa đua
+👩‍🚒	lính cứu hỏa nữ xe
+🪉	âm nhạc dàn cụ thần tình yêu
+🫁	cơ quan hít vào hô hấp hơi thở phổi ra
+📲	di động điện thoại có mũi tên gọi nhận
+💚	màu lục trái tim
+📶	ăng-ten di động điện thoại vạch
+🫦	cắn môi hồi hộp khó chịu lo âu lắng sợ hãi tán tỉnh
+🌅	bình minh buổi sáng mặt trời thiên nhiên
+🌂	chiếc ô mưa đã đóng quần áo
+🍲	hầm nồi thức ăn súp
+🪜	bậc thang leo trèo nấc
+✅	✓ chọn dấu đậm màu trắng tích nút
+📑	đánh dấu trang tab
+👣	các dấu chân trần in quần áo
+👀	đôi mắt mặt
+🤸	hào hứng lăng nghiêng người nhào lộn thể dục dụng cụ vui vẻ
+⭕	o vòng tròn lớn đậm
+😆	cười ngặt nghẽo ngoác miệng như được mùa to hài lòng mặt há mắt nhắm chặt
+🔄	làm mới mũi tên ngược chiều kim đồng nút hồ tua lại
+🟢	hình tròn màu xanh lá cây vòng lục
+🧗	leo núi trèo người đang phụ nữ nhà
+🌟	chiếu sáng lấp lánh ngôi sao phát
+🤧	cúm hắt hơi mặt sức khỏe
+🔛	dấu mũi tên on
+🪫	điện tử năng lượng thấp pin yếu
+⏰	báo thức đồng hồ muộn thời gian
+🥕	cà rốt thức ăn thực vật
+➿	cong kép vòng lặp đôi
+🥂	chạm cốc chúc mừng đồ uống tiếng keng
+🪲	bọ cánh cứng côn trùng động vật
+🩹	băng dán y tế dính vết thương
+🟧	da cam hình vuông màu ô
+📍	đinh ghim hình tròn
+😽	con mèo hôn khuôn mặt mắt nhắm
+🐤	chim gà con
+🤵	bộ vest chú rể người mặc
+🛼	con lăn giày trượt patin thể thao
+🧩	đầu mối ghép hình vào nhau mảnh trò
+🛝	cầu trượt chơi khu vui
+🔇	cái loa im lặng không ồn ào tắt tiếng
+🏥	bác sĩ bệnh viện thuốc
+🚔	cảnh sát đang tới xe hơi
+💶	euro hoá đơn tiền giấy tệ
+🥭	nhiệt đới trái cây xoài
+🫂	cảm ơn hai người ôm nhau tạm biệt tình bạn yêu xin chào
+🔳	hình học vuông mờ nút màu trắng
+💹	biểu đồ đồng yên tăng tiền
+🧺	cái giỏ dã ngoại giặt ủi trồng trọt
+😖	mặt xấu hổ
+🔐	bảo mật chìa đóng khóa với
+🈯	“đặt trước” chữ tượng hình nút tiếng nhật
+🏦	ngân hàng tòa nhà
+🍧	bào đá kem món tráng miệng ngọt
+🧍	đang đứng người
+🟠	da cam hình tròn màu vòng
+⛔	cấm vào giao thông không cho phép lối
+✊	cú đấm đoàn kết nắm giơ lên tay siết chặt
+🌜	mặt trăng phần tư hạ huyền hình người
+😹	mặt mèo có nước mắt vui sướng niềm
+🧾	biên nhận chứng từ ghi sổ sách giấy tờ thực hóa đơn kế toán
+🪩	buổi tiệc disco khiêu vũ long lanh quả cầu gương sàn nhảy
+🏇	cuộc đua ngựa người cưỡi
+👦	cậu bé con trai
+🏸	cầu lông kỹ thuật ghi trái trò chơi vợt
+🥜	đậu phộng quả hạch rau củ thức ăn
+📱	di động điện thoại
+🕎	cây đèn menorah nến giá đỡ tôn giáo
+🚙	giải trí ô tô tiện ích thể thao xe cộ đa dụng
+🖤	đen điều ác tim xấu
+🪬	bùa hộ mệnh fatima hamsa mary miriam sự bảo vệ tay
+🚴	đạp xe người đi thể thao vận động viên đua
+🍷	đồ uống ly rượu vang quán ba
+💊	bác sĩ bệnh thuốc viên vitamin
+🍀	4 bốn cỏ lá cây thực vật
+🪌	chà xát hoàn tác loại bỏ lỗi sai sót sửa đổi tẩy vẽ viết xoá
+😷	bác sĩ lạnh mặt đeo khẩu trang y tế nạ ốm
+📆	lịch quyển bloc
+🙉	cấm điều xấu khỉ không nghe mặt
+💱	đổi tiền ngân hàng tệ
+🩻	bác sĩ bộ xương x-quang y tế
+🏠	ngôi nhà
+📙	màu cam sách
+🥔	khoai tây thức ăn thực vật
+💮	hoa trắng
+🥌	bi đá trên băng trò chơi
+💩	chất thải đống phân hài hước khuôn mặt quái vật
+🍳	cái chảo chiên nấu ăn trứng
+🦈	cá mập động vật
+🌼	bồ công anh hoa thực vật
+😜	lưỡi mắt mặt lè nháy nói đùa
+🪁	bay lên lượn diều
+⛎	con rắn cung hoàng đạo người mang xà phu
+🍾	bật ra chai rượu với nút gỗ đồ uống quán bar
+🧇	bánh quế bữa sáng cứng cỏi thiếu quyết đoán
+🛞	bánh xe hình tròn lốp xoay
+📜	cuộn giấy sách
+🧎	đang quỳ người gối
+🌕	mặt trăng tròn
+💽	đĩa máy tính mini quang học
+💙	màu lam trái tim
+📏	cạnh thẳng thước kẻ toán
+🥡	cái xô đũa giao hàng hàu hộp mang đi đồ ăn
+🕔	00 5 5:00 đồng hồ giờ năm
+🤩	cười toét mắt mặt ngôi sao ngưỡng mộ
+🟦	hình vuông màu xanh da trời lam ô
+🐍	chòm sao xà phu cung hoàng đạo động vật rắn mang
+🐉	động vật hiệp sĩ rồng truyện cổ tích
+🪎	bạc chiến lợi phẩm đá quý đồ trang sức vật có giá trị giải thưởng sự giàu tiền vàng
+💯	100 điểm một trăm toàn bộ
+🌝	khuôn mặt trăng tròn sáng
+♏	bọ cạp cung hoàng đạo lá số tử vi thiên yết
+🪞	gương phản xạ ánh chiếu trang điểm
+💅	chăm sóc đánh bóng làm móng tay mỹ phẩm sơn
+🫫	sự căng thẳng che giấu chuyển hoá hé lộ kiên cường sụp đổ tan vỡ
+🈁	“tại đây” katakana nút tiếng nhật
+🍵	cốc đồ uống tách trà không có quai
+⏳	bộ định thời cát đồng hồ đang chảy
+🌙	lưỡi liềm mặt trăng
+🤭	mặt với tay che miệng cười xin lỗi
+🥗	salad rau xanh thức ăn
+🈹	“giảm giá” chữ tượng hình nút tiếng nhật
+🔔	cái chuông giờ nghỉ nhà thờ
+🦹	ác độc người nhân vật phản diện siêu năng lực tội phạm xấu xa
+🙎	bĩu môi cáu kỉnh cử chỉ hờn dỗi người đang nhăn nhó thất vọng
+🫴	bàn tay có lòng hướng lên bắt đến mời gọi vẫy
+👨‍🦽	hỗ trợ tiếp cận người đàn ông trên xe lăn tay
+🙇	cầu xin cử chỉ cúi người hối tiếc lấy làm lời lỗi đang đầu tha thứ tội nghiệp
+🔈	âm lượng loa thấp thanh nhẹ nhỏ
+🍋‍🟩	chanh ta họ cam quýt hoa quả margarita mojito nhiệt đới nước ép sốt tequila vị chua
+🪖	chiến binh mũ bảo hiểm sắt quân đội người lính sự
+🪰	bệnh con ruồi côn trùng động vật giòi thối rữa
+👧	bím tóc cô gái con cung hoàng đạo trẻ xử nữ
+🍂	lá rụng thực vật
+🍝	nhà hàng pasta spaghetti thịt viên thức ăn
+🧑‍🦼	khả năng tiếp cận người trên xe lăn điện
+🏂	người trượt ván tuyết
+🏬	cửa hàng bách hóa
+🤾	bắt bóng ném lốp người chơi phát thể thao vận động viên
+🌳	cây rụng lá rơi
+🏐	bóng chuyền quả trò chơi
+🧴	chai sữa dưỡng da dầu gội kem chống nắng ẩm
+💨	chạy chớp nhoáng hài hước lao đi
+🪱	động vật giun đất đốt ký sinh trùng sâu
+🫕	lẩu phô mai nấu chảy nồi sô cô la thức ăn trượt tuyết
+🕧	12 12:30 ba mươi đồng hồ mười hai giờ phút
+🥣	bát bữa sáng cháo ngũ cốc thìa yến mạch
+🍞	bánh mì nướng lúa ngũ cốc nhà hàng ổ thực phẩm tinh bột
+🌚	mặt trăng non
+🦨	chồn hôi mỹ động vật mùi
+🚹	nam nhà vệ sinh phòng wc
+🪅	buổi tiệc kẹo kỷ niệm lễ hội người mexico pinata piñata
+🪢	bện buộc dây thừng nút thắt rối xoắn
+🫢	hoài nghi kính nể kinh ngạc mặt với cặp mắt mở to và tay che miệng nhiên sợ hãi xấu hổ
+🎻	đàn violin nhạc cụ
+🛫	điểm khởi hành làm thủ tục máy bay tàu
+💐	bó hoa cây hẹn hò kỷ niệm lãng mạn sinh nhật tình yêu
+👎	-1 dấu ra hiệu từ chối không thích ngón tay cái xuống
+🤟	anh yêu em ba ngón tay cử chỉ nhau
+♋	con cua cự giải cung hoàng đạo lá số tử vi
+🦸	anh hùng người dơi nữ siêu năng lực tốt
+👏	hai bàn tay đang vỗ
+🧚	cánh tiên kỳ ảo oberon puck thần thoại titania
+🏢	công việc dạng lập phương thành phố tòa nhà văn phòng
+🧻	cuộn giấy toilet vệ sinh
+🔅	độ sáng mờ nút thấp
+🆓	free nút
+🪛	bắt vít đầu phẳng dụng cụ tua
+📖	mở sách đang
+🍬	kẹo món tráng miệng ngọt
+🃏	lá bài quân phăng teo trò chơi
+🧪	hóa học khoa nhà ống nghiệm phòng thí
+🍟	đồ ăn nhanh khoai tây chiên kiểu pháp
+🌏	châu á á-châu úc địa cầu thế giới thể hiện trái đất
+🧵	kim may ổng chỉ sợi xâu
+🆎	ab nhóm máu nút
+👩‍🍼	cho bú con đàn ông em bé mẹ người phụ nữ tình yêu trẻ sơ sinh
+🕛	00 12 12:00 đồng hồ giờ mười hai
+🍰	bánh miếng món tráng miệng ngọt
+🦩	hồng hạc nhiệt đới rực rỡ
+😁	cười nhe răng và mắt mặt
+⬛	hình học vuông lớn màu đen
+🪻	bluebonnet bụi hoa cây đậu lupin dạ lan hương len mũ xanh mõm sói oải tiên ông tử đinh lục bình màu chàm mùa xuân tím
+🖖	ngón tay spock thần lửa
+🪍	bắt bẫy lưới thu thập
+⌚	đồng hồ đeo tay thời gian
+🐯	dã thú động vật hổ mặt
+🚧	công trường rào chắn
+🔵	hình học tròn màu lam
+🌄	bình minh trên núi buổi sáng mặt trời
+🚾	nhà vệ sinh nước phòng wc
+📮	hòm thư hộp
+🦽	hỗ trợ tiếp cận năng xe lăn tay
+🌁	có sương thời tiết
+🫈	chân to khổng lồ người rừng tuyết nhiều lông sinh vật bí ẩn yeti
+🦷	nha sĩ răng trắng ngọc
+🪺	làm tổ có trứng
+🐜	côn trùng động vật kiến vườn
+🔋	pin
+🟡	hình tròn màu vàng vòng
+🌑	bóng tối mặt trăng non
+😩	kiệt sức mặt mệt mỏi
+🛒	mua hàng xe đẩy
+🆗	nút ok
+🪝	bắt bẫy cái móc điểm bán hàng đường cong
+🥞	bánh kếp thức ăn
+💳	ngân hàng thanh toán thẻ tín dụng tiền
+🦗	bọ bộ cánh thẳng châu chấu côn trùng dế động vật
+🫛	đậu hà lan nành quả rau vỏ
+🥧	bánh bí đỏ bột nhào miếng nhồi táo thịt trái cây
+🧸	đồ chơi gấu bông nhồi vải lông
+🧛	bất tử đáng sợ dracula halloween hóa trang ma cà rồng máu răng nanh siêu nhiên xác sống
+🟪	hình vuông màu tím tía ô
+🐱	động vật mặt mèo thú cưng
+🦺	an toàn áo bảo hộ cứu khẩn cấp
+🈴	“vượt cấp” chữ tượng hình nút tiếng nhật
+🍏	hoa quả táo xanh
+🌠	ngôi sao phóng rơi băng
+❌	dấu gạch chéo hủy nhân x
+🐸	ếch mặt
+🧀	miếng pho mát phô mai
+🪕	âm nhạc có dây đàn banjo
+🐩	chó xù cún động vật
+🦻	hỗ trợ tiếp cận nặng tai đeo thiết bị thính
+👩‍🦼	hỗ trợ tiếp cận người phụ nữ trên xe lăn điện
+🧙	bà cốt đạo sĩ đồng kỳ ảo pháp sư phép thuật phù thủy thần chú thầy thuỷ triệu hồi
+👨‍🏫	giáo sư viên nam người hướng dẫn
+💄	mỹ phẩm son môi trang điểm
+🚘	đang tới ô tô xe hơi
+👨‍🏭	công nghiệp nhân nhà máy nam lắp ráp
+🏣	bưu điện nhật bản kiểu
+🫐	hoa quả màu xanh mọng việt quất thực phẩm
+🦑	động vật mực ống thân mềm thức ăn
+🐵	động vật khỉ khuôn mặt quả chuối
+🧊	băng đá lạnh viên
+🤿	bình dưỡng khí ôxy lặn mặt nạ ống thở
+📼	băng vhs video
+💟	hình trang trí trái tim
+🎥	bollywood hollywood máy quay phim rạp chiếu
+🧥	áo choàng khoác lạnh
+🐽	động vật lợn mặt mõm mũi ngửi trang trại
+👭	bạn tốt nhất cặp đôi đồng tính nữ hai người phụ nắm tay
+🚝	đường một ray xe cộ
+🩷	dễ thương hồng thích trái tim màu yêu
+🧑‍🎓	sinh viên tốt nghiệp
+🏡	ngôi nhà có vườn
+😮‍💨	huýt sáo kiệt sức mặt thở ra mệt mỏi rên rỉ thì thầm dài hắt hổn hển
+🔣	〒♪&% nhập biểu tượng
+🪚	cắt cưa mộc dụng cụ gỗ xẻ thợ
+🧕	hijab khăn trùm đầu vuông người phụ nữ quàng tichel
+🦂	bọ cạp cung hoàng đạo
+➖	- − dấu toán trừ
+😮	mặt có miệng há mở thông cảm
+🪸	đại dương rặng san hô
+🚊	ô tô điện xe
+😟	lo lắng mặt
+📇	chỉ mục thẻ hộp danh thiếp
+🌽	bắp ngô
+📫	đóng hòm thư hộp được với lá cờ đứng
+🚄	đường sắt tàu cao tốc nhật bản hỏa độ
+🧑‍🎨	bảng màu họa sĩ
+🪪	bảo mật căn cước công dân cccd chứng minh nhân cmnd giấy phép thẻ nhận dạng
+🫖	ấm trà đồ uống thực phẩm ủ
+🕘	00 9 9:00 chín đồng hồ giờ
+🈵	“hết phòng” chữ tượng hình nút hết phòng bằng tiếng nhật
+🐔	chim động vật gà
+👩‍🦽	hỗ trợ tiếp cận người phụ nữ trên xe lăn tay
+🛗	kéo lên khả năng tiếp cận nhấc thang máy
+🍊	hoa quả cam quýt
+🤒	mặt có miệng ngậm nhiệt kế mệt ốm
+🎾	cái vợt quả bóng quần
+🤡	hề mặt
+💰	đô la tiền túi
+🛴	đẩy xe hẩy
+🪷	ấn độ giáo hoa sen phật sự tinh khiết việt nam
+🦉	chim cú động vật khôn ngoan
+🐛	bọ côn trùng động vật vườn
+📣	cổ vũ loa phóng thanh
+😱	kinh sợ la hét mặt hãi
+🥨	bánh quy xoắn
+📎	kẹp giấy
+🍩	bánh rán vòng món tráng miệng ngọt
+🐕	chó thú cưng
+🧑‍🧒‍🧒	gia đình người lớn trẻ em
+🪮	afro chải kiểu tóc lược pick
+🫗	đổ chất lỏng đồ uống ly thủy tinh tràn trống rỗng
+📳	chế độ rung di động điện thoại
+💏	cặp đôi hẹn hò nụ hôn yêu
+🔮	dụng cụ giả tưởng pha lê quả bóng cầu truyện cổ tích vận may
+🙆	cử chỉ đồng ý người ra hiệu ok tay thể dục
+🏈	bóng bầu dục mỹ người quả
+🥿	giày bệt búp bê đi trong nhà lười
+🦿	chân giả hỗ trợ tiếp cận
+💆	đau đầu mặt mát xa người được xoa bóp thẩm mĩ viện thư giãn trị liệu
+🫯	bất đồng quan điểm cãi nhau vã đánh náo loạn tranh luận vật lộn
+🫰	bàn tay với ngón trỏ và cái bắt chéo búng đắt tiền bạc tình yêu trái tim
+🥯	bánh mỳ vòng bữa sáng phết tiệm
+🦜	chim con vẹt cướp biển nói chuyện
+👨‍🌾	nam người làm vườn nuôi súc vật nông dân
+👖	quần áo bò dài
+🦕	khủng long chân thằn lằn to ăn cây cối hai óc uyển
+🚯	bị cấm nghiêm xả rác không
+🩱	áo tắm một mảnh bộ
+➕	+ cộng dấu toán
+😡	cơn thịnh nộ điên đỏ hờn dỗi mặt tức giận
+🥋	đồng phục võ thuật judo karate taekwondo thể thao
+🐣	ấp gà con mới nở
+👑	gia đình hoàng nữ quần áo vua vương miện
+🏆	chiến thắng cúp giải thưởng thể thao vô địch
+🦔	có gai nhím
+✋	bàn tay giơ lên dừng lại
+🔪	dao làm bếp dụng cụ hocho nấu nướng vũ khí
+🪔	dầu đèn diya
+🐏	cung bạch dương hoàng đạo cừu đực
+🟣	hình tròn màu tím tía vòng
+🥦	bông cải xanh bắp dại hoa lơ xúp
+👜	mua sắm quần áo túi xách ví
+🍎	đỏ hoa quả táo
+🍜	bát đũa mỳ ramen nóng hổi phở súp thức ăn
+🐓	chim động vật gà trống
+🪑	chỗ ngồi ghế
+🧠	não thông minh
+📘	sách màu lam xanh
+🛬	đến điểm hạ cánh máy bay nơi
+🍘	bánh quy giòn gạo thực phẩm
+🦚	chim con công mái phô trương tự hào
+🎆	giải trí lễ kỷ niệm pháo hoa
+🫌	biến đổi côn trùng di cư hoá bướm hy vọng mỏng manh sâu thay
+🤯	bị sốc đầu nổ tung
+🟩	hình vuông màu xanh lá cây ô lục
+🈲	“bị cấm” chữ tượng hình nút tiếng nhật
+😈	cười mặt có sừng truyện cổ tích tưởng tượng
+💗	bị kích thích lo lắng nhịp tim phát triển trái lớn dần
+🔼	đỏ mũi tên nút đi lên
+🎈	bóng bay lễ kỷ niệm sinh nhật
+🦀	cua cung cự giải hoàng đạo
+🩸	chấn thương chu kỳ kinh nguyệt giọt máu hiến thuốc y tế
+📄	tài liệu trang hướng lên trên
+🐋	bờ biển cá voi đại dương động vật
+🍌	chuối hoa quả kali
+🤕	băng đau mặt đeo đầu vết thương
+👡	giày phụ nữ quần áo xăng đan
+🏤	bưu điện kiểu châu âu
+🏓	bóng bàn gậy quả trò chơi vợt đánh
+🧁	bánh ngọt nướng nhỏ tiệm tráng miệng
+🌲	cây thông thường xanh giáng sinh rừng
+🎂	bánh sinh nhật lễ kỷ niệm món tráng miệng ngọt
+💋	dấu nụ hôn môi
+🤔	đang suy nghĩ mặt
+⛳	cờ trong lỗ gôn thể thao
+🧫	đĩa petri nhà sinh vật học nuôi cấy phòng thí nghiệm vi khuẩn
+🥠	bánh quy may mắn tiên tri
+👐	hai bàn tay đang xòe mở ra
+😃	cười há to mặt mắt mở miệng
+👅	cơ thể lưỡi
+🤨	hoài nghi mặt với lông mày rướn lên ngờ vực
+🎌	bắt chéo cờ gạch kiểu nhật bản lễ kỷ niệm
+💫	choáng váng hài hước ngôi sao
+🤹	cân bằng đa năng nhiệm giữ thăng kỹ người đàn ông tung hứng
+📠	fax máy
+🚪	cửa sau trước
+🥹	buồn chịu đựng giận giữ khóc mặt kìm nén nước mắt tự hào
+🌖	cuối tháng mặt trăng khuyết
+🙏	cảm ơn cầu nguyện chắp tay hỏi làm
+🧑‍🎤	ca sĩ diễn viên nghệ ngôi sao nhạc rock
+🪥	bàn chải răng nha khoa phòng tắm sạch sẽ vệ sinh
+🏄	bãi biển lướt sóng người thể thao vận động viên
+👩‍🔬	kỹ sư người phụ nữ nhà hóa học khoa sinh vật lý
+🤺	đấu kiếm người đánh
+🎠	đu quay ngựa giải trí
+🈳	“còn trống” chữ tượng hình nút tiếng nhật
+🔥	dụng cụ lửa ngọn
+🪿	cầm điểu chim con gà ngỗng vịt đàn động vật kêu khờ dại ngây ngô
+🍨	kem món tráng miệng ngọt
+🕓	00 4 4:00 bốn đồng hồ giờ
+🔯	may mắn ngôi sao sáu cánh có dấu chấm
+📉	biểu đồ giảm thị xu hướng xuống
+🐀	chuột cống động vật
+👟	giày chạy bộ đế mềm quần áo thể thao
+📯	bưu chính điện kèn
+😅	căng thẳng chán nản cười nhe răng hào hứng lạnh lo lắng mặt miệng mỉm mở mồ hôi
+🦛	động vật hà mã
+🌛	mặt phần tư trăng thượng huyền hình người
+👔	áo sơ mi cà vạt quần trang trọng
+🧡	màu cam trái tim
+❔	chấm câu dấu hỏi màu trắng mờ
+🐺	chó sói mặt
+🪹	làm tổ trống rỗng
+🤴	cổ tích giả tưởng hoàng gia tử vua vương miện
+🌘	cuối tháng không gian lưỡi liềm mặt trăng
+🩺	bác sĩ ống nghe tim y tế
+🍣	sushi thực phẩm
+🍢	hải sản kẹp món oden que xiên
+🦐	nhỏ thức ăn tôm cua
+🫺	cầm chỉ đó này phải trung lập
+🍮	bánh trứng món tráng miệng ngọt
+🥐	bánh móng ngựa mỳ sừng bò pháp thức ăn
+🔖	đánh dấu trang
+🥟	bánh bao sủi cảo
+🎭	biểu diễn mặt nạ nghệ thuật nhà hát
+🈚	“miễn phí” chữ tượng hình nút tiếng nhật
+🚋	ô tô điện tàu toa xe
+🚦	biển báo đèn giao thông dọc
+😒	buồn không vui mặt
+🔹	hình học thoi nhỏ màu lam
+🪴	chậu cây mọc nhà nuôi dưỡng thực vật trang trí trồng trong
+🧰	cơ khí dụng cụ hòm hộp thợ máy
+🦃	chim gà tây tạ ơn
+🍄	nấm thực vật
+🟤	hình tròn màu nâu vòng
+🫱	bàn tay hướng sang bên phải
+🧟	halloween kinh dị tận thế xác chết sống lại zombie
+👨‍🎤	ca sĩ nam diễn viên nghệ ngôi sao người đàn ông nhạc rock
+🫩	buồn ngủ kiệt sức mặt có túi mắt mệt mỏi
+🤗	mặt ôm
+⏩	kép mũi tên nhanh nút tua đi phía trước
+🕜	1 1:30 ba mươi đồng hồ một giờ phút
+📈	biểu đồ tăng thị lên trưởng xu hướng
+🦆	chim động vật vịt
+🤼	đấu vật đô giải người chơi trên võ đài
+🎶	các nốt nhạc
+🦁	cung hoàng đạo sư tử mặt
+🤏	ít số lượng nhỏ tay chụm
+🪄	gậy thần ma thuật phù thủy thầy
+🆖	ng nút
+😙	cười hôn mắt mặt
+🙍	bực tức buồn bã cau mày cử chỉ khó chịu không vui người đang thất vọng
+🚂	đầu máy xe lửa động cơ đường sắt hơi nước tàu hỏa
+👰	cô dâu với khăn voan cưới mạng che mặt người đội
+🚭	bị cấm nghiêm hút thuốc không
+😨	kinh hãi mặt sợ
+🎼	bản nhạc khuông
+🤦	hoài nghi không tin nổi lại nữa rồi lòng bàn tay mặt người dùng che lấy tức giận
+📞	điện thoại ống nghe bàn
+🚎	ô tô điện xe buýt goòng
+🔢	1234 nhập số
+🪣	thùng to xô
+😾	hờn dỗi mặt mèo
+🥢	đũa
+🏑	cây gậy khúc côn cầu trên cỏ quả bóng sân trò chơi
+🎢	con lăn công viên giải trí tàu lao dốc lượn siêu tốc
+🐭	chuột động vật mặt
+😧	đau khổ mặt
+🐷	động vật lợn mặt thịt xông khói trang trại
+🫣	mặt hé mắt nhìn trộm chằm lén quyến rũ
+🍈	dưa hoa quả
+🤛	hướng trái nắm đấm phía
+🙋	chọn tôi đi cử chỉ giơ tay nâng lên người cao vui vẻ ở bên này có thể giúp muốn hỏi
+🚲	xe cộ đạp
+🍑	đào hoa quả
+🌍	châu âu phi địa cầu thể hiện âu-châu thế giới trái đất
+👬	cặp đôi đồng tính nam song sinh hai người đàn ông nắm tay nhau hoàng đạo tử
+🐗	động vật lợn rừng
+🤎	màu nâu trái tim
+🚃	điện đường sắt tàu hỏa toa xe hơi
+🎤	âm thanh hát karaoke micrô nhạc
+👿	ma quỷ mặt giận dữ có sừng giữ tiểu yêu tưởng tượng
+📡	ăng-ten vệ tinh đĩa
+🫨	choáng động đất hốt hoảng lắc mặt ngạc nhiên rung sốc sửng sốt wow
+🤜	hướng phải nắm đấm sang
+🌰	hạt dẻ thực vật
+🐨	con gấu động vật túi koala úc
+📚	đọc học tập sách thư viện tri thức trường
+🌿	lá cây thảo mộc
+♍	cung hoàng đạo lá số tử vi xử nữ
+📂	mở tệp thư mục
+🔠	abcd chữ hoa la tinh nhập
+🔗	mắt xích
+🔱	biểu tượng đinh ba công cụ neo tàu
+🥒	dưa chua chuột thức ăn thực vật
+⏪	kép mũi tên nút tua lại nhanh
+🥁	dùi trống nhạc
+📅	lịch ngày
+👨‍🦼	hỗ trợ tiếp cận người đàn ông trên xe lăn điện
+🍚	cơm gạo nấu chín
+🐆	báo hoa mai con động vật ăn thịt
+☔	cái ô với những giọt nước mưa chiếc che quần áo rơi
+🍼	bình em bé mới sinh sữa trẻ sơ uống
+🎳	bowling quả bóng trò chơi
+🪭	e thẹn làm mát múa nóng quạt giấy tán tỉnh vỗ cánh
+🍉	dưa hấu hoa quả
+🎄	cây thông noel giáng sinh lễ kỷ niệm
+🔲	hình học vuông nút màu đen
+🧑‍🌾	chủ trang trại người làm vườn nông dân
+🚩	cờ tam giác đánh dấu xây dựng
+🦓	ngựa vằn sọc
+🍗	chân đói đùi gà tây gia cầm xương
+🥮	bánh trung thu lễ hội mặt trăng mùa
+🏪	cửa hàng tiện lợi
+🍓	dâu tây quả mọng trái cây
+🤚	giơ lên mu bàn tay
+📩	email mũi tên phong bì với thư đi
+📓	sổ ghi chép
+👥	bóng các tượng bán thân
+📊	biểu đồ thanh thị
+🗽	bức tượng new ny nyc tự do nữ thần
+🕒	00 3 3:00 ba đồng hồ giờ
+🪋	đá không gian ngôi sao rơi băng tận thế trọng lực
+👓	đeo kính mắt quần áo
+🚰	nước uống được
+🎽	áo chạy bộ sơ mi khăn quàng vai vận động viên
+😴	không quan tâm mặt đang ngủ mệt mỏi ngoan sao cũng được zzz
+🎦	bộ phim máy ảnh quay rạp chiếu
+🥏	đĩa bay trò chơi ném
+🦡	con lửng động vật mật quấy rầy
+🎨	bảng màu bảo tàng nghệ thuật vẽ
+🍖	thịt bám xương
+🔍	dụng cụ kính phóng đại nghiêng sang trái tìm kiếm
+🌹	cây hoa hồng màu đỏ sang trọng tình yêu valentine vẻ đẹp
+👩‍🚀	không gian nữ phi hành gia tên lửa
+🐚	bãi biển động vật vỏ xoắn ốc
+🎰	cờ bạc khe máy giật xèng trò chơi
+🕺	khiêu vũ người đàn ông đang
+🔡	abcd chữ thường la tinh nhập
+👩‍🦯	hỗ trợ tiếp cận khiếm thị mù người phụ nữ với cây gậy dò đường
+🕍	đền do thái giáo đường người tôn
+🛁	bồn tắm
+💘	mũi tên thần tình yêu trái tim với
+🥍	bóng vợt gậy gôn thể thao
+🧑‍🔧	thợ điện máy sửa ống nước thủ công
+😍	cười lãng mạn mắt mặt hình trái tim yêu
+🆑	cl nút
+🧃	đồ uống hộp ngọt nước ép ống hút
+👒	cái mũ phụ nữ quần áo
+♌	cung hoàng đạo lá số tử vi sư
+🌞	bãi biển mặt trời có hình người sáng thời tiết
+🍆	cà tím rau thực vật
+😊	cười mỉm đỏ mặt hài lòng mắt tươi với đôi biết vui mừng
+🫸	bàn tay đẩy sang phải chặn chờ đập dừng lại thôi từ chối
+💲	đô la ký hiệu đậm tiền tệ
+🦍	động vật khỉ đột
+🌈	cầu vồng chuyển giới đồng tính lưỡng mưa thời tiết tự nhiên
+🙂	cười mặt mỉm
+🧭	điều hướng định la bàn từ tính
+👞	đàn ông giày nam quần áo
+🩳	bộ đồ tắm quần bơi dài lót soóc
+🧑‍🚀	phi hành gia tên lửa
+🕚	00 11 11:00 đồng hồ giờ mười một
+😵	chóng mặt mệt ốm
+📿	hạt lời cầu nguyện quần áo tôn giáo tràng vòng cổ
+🤓	bốn mắt chuyên gia đam mê mặt mọt sách thông minh
+🪀	dao động đồ chơi yo-yo
+🏫	tòa nhà trường học
+🍹	đồ uống nhiệt đới quán bar
+🕝	2 2:30 ba mươi đồng hồ hai giờ phút
+🕠	5 5:30 ba mươi đồng hồ năm giờ phút
+📟	máy nhắn tin
+🎵	nhạc nốt
+👙	áo tắm hai mảnh bể bơi quần
+🩲	bộ đồ bơi tắm một mảnh quần lót
+🤑	mặt có tiền ở miệng
+🚛	di chuyển lái xe nối ô tô bán tải cộ
+🥘	chảo thức ăn nông nồi đất paella
+😘	hôn mặt đang gió
+🛺	túc tuk xe lam
+👱	người tóc vàng hoe
+🛂	hộ chiếu kiểm soát
+🪓	bổ đôi chặt chém gỗ rìu nhỏ
+🫝	dưa chuột bao tử gia vị lên men nước muối rắc rối tương ớt ngọt
+🔞	18 cấm người dưới tuổi giới hạn độ mười tám vị thành niên
+🤝	bắt tay đồng ý gặp mặt rung
+📒	sổ cái ghi chép
+🚥	biển báo đèn giao thông ngang
+🔊	âm lượng loa cao lớn
+🐴	mặt ngựa
+😕	bối rối mặt
+🫑	ớt chuông rau thức ăn
+🫄	bụng bầu căng phồng có thai người mang no đủ
+🪐	hành tinh có vành đai bao quanh sao thổ thần nông
+🏅	chiến thắng huy chương thể thao vàng vô địch
+🏯	kiểu nhật lâu đài bản
+🌊	đại dương nước sóng
+💿	cd đĩa máy tính quang
+🪦	an nghỉ bia mộ nghĩa địa trang
+⚾	bóng chày quả thể thao
+👈	chỉ mu bàn tay ngón trỏ trái sang
+🦒	đốm hươu cao cổ
+🌗	mặt trăng phần tư hạ huyền
+🚸	cho người đi bộ qua giao thông đường trẻ em
+🤳	điện thoại máy ảnh tự sướng
+🏀	bóng rổ quả thể thao vòng
+🚏	điểm dừng xe buýt lại
+🥷	ẩn chiến tranh đấu sĩ kẻ sát nhân kỹ năng người ninja tàng hình
+⚽	bóng đá quả thể thao vua túc cầu
+🚖	taxi đang tới xe cộ
+👂	âm thanh cơ thể nghe tai
+👝	quần áo túi cắp nách nhỏ
+📵	cấm điện thoại di động không
+🐳	bãi biển cá voi đại dương động vật khuôn mặt phun nước
+😯	choáng váng làm thinh mặt ngạc nhiên
+🍫	món tráng miệng ngọt sô cô la thanh
+🌋	núi lửa phun trào thiên nhiên
+🧝	cổ tích kỳ ảo phép thuật thần bí tộc tiên yêu ma tinh
+💛	cảm xúc màu vàng trái tim yêu
+👨‍💻	kỹ sư công nghệ nam lập trình viên người đàn ông phát minh nhà triển phần mềm
+🐃	động vật nước trâu vườn thú
+🧆	đậu hồi falafel thịt viên
+💎	đá quý đồ nữ trang kim cương viên ngọc
+🧑‍🚒	lính cứu hỏa xe
+📷	máy ảnh video
+⛪	cầu nguyện cây thánh giá đạo cơ đốc nhà thờ tôn giáo
+🚵	người đạp xe đi leo núi thể thao vận động viên đua
+🐟	cá cung hoàng đạo song ngư
+🤥	mặt nói dối pinocchio
+😛	lưỡi mặt lè
+🦵	chân tay đá gập
+🪒	cạo râu dao sắc
+💈	biển hiệu của thợ cắt tóc cột
+📹	máy quay phim video
+🛵	mô tơ xe tay ga
+💸	bay cánh đô la tiền có giấy
+🔦	ánh sáng đèn pin điện dụng cụ
+🧑‍🧑‍🧒‍🧒	gia đình người lớn trẻ em
+🚳	bị cấm nghiêm xe đạp không
+🪵	gỗ xẻ khúc
+😂	cười chảy nước mắt hài thật mặt với vui sướng đấy
+🐦	chim động vật
+🔩	bu lông đai ốc và dụng cụ
+🤠	cao bồi mặt đội mũ nữ
+🔉	âm lượng loa trung bình thanh
+💇	cắt tóc làm đẹp người được phong cách salon thợ tỉa tiệm vẻ
+🧓	già giới tính không xác định trung lập người lớn tuổi
+👼	bé con mặt thiên thần nhỏ truyện cổ tích tưởng tượng
+🪠	dụng cụ thông tắc hút lực cốc nhà vệ sinh thợ sửa ống nước
+👨‍💼	công việc văn phòng kiến trúc sư kinh doanh người đàn ông quản lý nhân viên nam
+🔃	chiều kim đồng hồ mũi tên thẳng đứng theo tải lại
+🦦	bắt cá nghịch ngợm rái
+🗻	núi phú sĩ
+🐖	động vật lợn nái thịt xông khói trang trại
+🧲	âm dương chữ u móng ngựa nam châm sức hút từ tính
+🚻	nhà vệ sinh phòng wc
+💤	buồn ngủ đang hài hước mệt ngất rồi
+🔌	điện phích cắm
+🏺	bảo bình hoàng đạo nấu ăn uống vò hai quai
+📻	radio video
+🧑‍🦯	khả năng tiếp cận mù người với gậy dò đường
+🪗	accordion âm nhạc buổi hòa hộp bóp cụ phong cầm
+🍱	cơm bento hộp
+🔘	hình học nút radio
+🕙	00 10 10:00 đồng hồ giờ mười
+👻	ma mặt quái vật sinh truyện cổ tích tưởng tượng
+🧉	đồ uống trà nhựa ruồi
+🫀	cơ quan tim giải phẫu khoa mạch màu đỏ nhịp trái thật trung tâm
+🦭	chó biển đại dương động vật hải cẩu sư tử
+👨‍🔬	kỹ sư người đàn ông nhà hóa học khoa nam sinh vật lý
+🐫	cái bướu con lạc đà động vật bactrian hai sa mạc
+♉	bò đực chòm sao cung hoàng đạo kim ngưu lá số tử vi
+👨‍🍳	đầu bếp nam nấu ăn
+🚢	di chuyển hành khách tàu thủy thuyền
+🥽	bảo vệ mắt bơi hàn kính hộ
+🚟	đường sắt trên cao treo
+🔶	hình học thoi lớn màu cam
+🪡	chỉ khâu kim may đo thêu
+⛺	cắm trại lều
+🙁	cau mày mặt hơi
+👾	đĩa bay khuôn mặt ngoài trái đất người hành tinh quái vật sinh
+💷	bảng hoá đơn tiền giấy tệ
+🏉	bóng bầu dục đá quả thể thao
+❓	chấm câu dấu hỏi
+👩‍🎨	bảng màu họa sĩ nữ nghệ
+🐇	con thỏ động vật thú cưng
+🌾	bó lúa bông gạo thực vật
+🛷	đi xe trượt tuyết
+🌀	bão choáng váng hình lốc xoáy
+🦴	bộ xương chó đòn
+👨	đàn ông người lớn
+💥	bom bùng nổ hài hước va chạm
+🗿	bức tượng khuôn mặt moai moyai
+⛵	biển du thuyền khu nghỉ dưỡng buồm
+🫵	bạn ngón trỏ chỉ vào người xem
+🏰	kiểu châu âu lâu đài
+🐞	bọ cánh cứng rùa con côn trùng thiên nhiên
+🚆	đường sắt tàu hỏa
+🐕‍🦺	chó hỗ trợ dịch vụ tiếp cận giúp
+🐮	bò cái động vật mặt sữa trang trại
+🏮	đèn lồng giấy màu đỏ quán bar
+😥	mặt thất vọng nhưng nhẹ nhõm ngạc nhiên
+🧤	găng tay
+🐰	con thỏ động vật mặt thú cưng
+🏨	khách sạn tòa nhà
+🍕	bánh pizza lát phô mai
+📗	giáo dục sách màu lục thư viện xanh
+🎇	chói sáng lễ kỷ niệm pháo bông hoa
+🪳	con gián côn trùng động vật
+⚡	cú đánh điện cao thế nguy hiểm sét tự nhiên
+⏬	kép mũi tên nút xuống nhanh
+🍻	bia chạm cốc đồ uống nước giải khát quán ba
+🚺	nhà vệ sinh nữ phòng wc
+👚	nữ quần áo
+🧳	đóng gói du lịch hành lý vali kéo
+♐	cung hoàng đạo lá số tử vi người bắn nhân mã
+🚤	thuyền xuồng cao tốc
+📝	bút chì sổ ghi nhớ
+🪨	đá hòn nặng rắn tảng
+🍅	cà chua rau thực vật
+📁	tệp thư mục
+🎁	gói quà hộp lễ kỷ niệm tặng
+🧑	giới tính chung không xác định người lớn
+🚒	động cơ lửa xe cứu hỏa tải
+👷	công nhân xây dựng mũ bảo hiểm sửa chữa tu
+🔤	abc bảng chữ cái la tinh nhập
+🚞	đường ray leo núi sắt toa xe
+🌐	địa cầu internet kinh tuyến thế giới trái đất ttoàn web
+😸	cười toét mắt mặt mèo tươi với hai híp lại
+🫡	chào mặt nắng nhà binh ok quân đội vâng
+🟰	bằng dấu đậm toán
+🚬	hút thuốc lá
+🆒	cool mát nút
+🍺	bia cốc đồ uống quán bar
+🪏	đào lỗ thuổng xẻng xúc
+🐂	bò đực mộng cung hoàng đạo kim ngưu
+🤙	bàn tay gọi cho tôi điện
+♓	con cá cung hoàng đạo lá số tử vi song ngư
+👵	cụ bà già người lớn phụ nữ
+🐧	chim cánh cụt động vật nam cực
+❎	dấu nhân hình vuông nút gạch chéo
+🟫	hình vuông màu nâu ô
+🥩	bít tết sườn cừu lợn tảng thịt
+🦾	cánh tay giả hỗ trợ tiếp cận
+🎣	cá cần câu giải trí thể thao
+😌	mặt nhẹ nhõm
+🫷	bàn tay đẩy sang trái chặn chờ đập dừng lại thôi từ chối
+🐝	con ong côn trùng động vật mùa xuân mật
+🌻	hoa hướng dương mặt trời thực vật
+✨	ánh lấp lánh kỳ diệu ngôi sao
+🚽	bệ xí bồn cầu
+🥑	hoa quả bơ thức ăn
+👛	đồng tiền quần áo xu ví
+🌮	bánh mexico taco
+📋	bảng ghi nhớ chú việc cần làm
+🦊	cáo động vật mặt
+⚫	hình học tròn màu đen
+♒	bảo bình cung hoàng đạo lá số tử vi người mang nước
+🐈‍⬛	đen động vật meo mèo vận
+🩵	143 cảm xúc đặc biệt dễ thương thích trái tim màu xanh dương nhạt lơ mòng két yêu
+📤	đã gửi hộp thư đi khay
+🐐	cung hoàng đạo ma kết dê động vật nông trại sữa
+🧂	bình lắc gia vị muối
+🎯	hồng tâm mục tiêu phi trò chơi trúng đích
+🐻	động vật gầm gấu xám mặt mật ong
+🔨	búa dụng cụ sửa chữa
+🚣	bè câu cá hồ người chèo thuyền sông có mái xuồng
+👕	áo phông sơ mi thun quần
+🐼	gấu trúc mặt
+👃	cơ thể mũi
+📭	hòm thư hộp được mở với lá cờ nằm ngang
+🚁	máy bay trực thăng xe cộ
+🛻	nhận hàng ô tô vận tải xe bán
+🕤	9 9:30 ba mươi chín giờ phút đồng hồ
+🫅	cao quý hoàng gia người đội vương miện quân giả
+🧑‍🦽	khả năng tiếp cận người trên xe lăn tay
+🌱	cây giống non nảy mầm thực vật
+😪	buồn ngủ khóc mặt
+🧒	giới tính chung không xác định trẻ em
+🦤	chim cưu động vật gà dodo lớn mauritius tuyệt chủng
+👢	bốt giày nữ phụ quần áo
+📬	hòm thư hộp được mở với lá cờ đứng
+🚼	biểu tượng trẻ em thay đồ
+🚑	xe cấp cứu cộ thương
+😞	mặt thất vọng
+🍸	cocktail đồ uống ly quán bar
+🥵	đỏ mặt đổ mồ hôi nóng sốc nhiệt sốt
+🫔	bánh tamale cuốn mexico pamonha thực phẩm
+👹	mặt quỷ quái vật ăn thịt người sinh truyện cổ tích tưởng tượng
+😬	mặt nhăn nhó
+🤶	bà già noel giáng sinh mẹ
+🎓	cái mũ lễ kỷ niệm tốt nghiệp quần áo
+👩‍🎓	nữ sinh viên tốt nghiệp
+🛖	lều tròn nhà túp
+🎬	bảng clapper diễn phim
+🤘	ký hiệu cặp sừng ngón tay tuyệt vời
+🕣	8 8:30 ba mươi đồng hồ tám giờ phút
+🤫	im lặng mặt ra dấu suỵt
+🔭	dụng cụ khoa học kính viễn vọng
+🌸	hoa anh đào thực vật
+🥻	đầm quần áo sari trang phục váy xari
+🎷	kèn saxophone nhạc cụ
+😺	con mèo khuôn mặt cười miệng há tươi mở ra nụ
+😫	mặt mệt mỏi
+😀	cười toe toét mặt
+💭	bong bóng suy nghĩ hài hước khí cầu
+🦼	hỗ trợ tiếp cận năng xe lăn tự động
+👩‍💼	công việc văn phòng kiến trúc sư kinh doanh người phụ nữ quản lý nhân viên
+♿	biểu tượng xe lăn lối vào người khuyết tật
+🥄	bộ đồ ăn thìa
+🧽	bọt biển hấp thụ hút làm sạch vệ sinh xốp
+💵	đô la hoá đơn tiền giấy tệ
+🐹	chuột hamster mặt thú cưng
+💾	đĩa máy tính mềm
+🌔	mặt trăng khuyết tròn dần
+🥫	đóng hộp thực phẩm
+💴	hoá đơn tiền giấy yên tệ
+🦧	động vật đười ươi vượn người
+🍶	chai cốc đồ uống quán ba rượu sake
+⚪	hình học tròn màu trắng
+🆙	dấu nút up
+😎	kính mặt cười đeo trời phong cách sáng
+📐	bộ tam giác thước kẻ
+🫧	bong bóng dưới nước ợ hơi sạch sẽ xà phòng
+💕	hai trái tim hẹn hò hôn yêu
+😗	hôn mặt
+🫤	buồn chán hoài nghi không chắc chắn mặt có miệng xiên thất vọng
+💬	bài diễn văn bóng bong lời nói hài hước thoại
+🛘	đá động đất lở nguy hiểm núi thảm họa tuyết
+🚚	giao hàng xe tải
+🔚	end mũi tên
+💺	chỗ ngồi ghế
+🎉	buổi tiệc lễ kỷ niệm pháo bông sinh nhật giấy
+🤲	cầu nguyện hai bàn tay chạm vào nhau lời
+😔	mặt trầm ngâm thất vọng
+👋	chào nhé có ai ở đó không đang vẫy tay nè xin
+🎊	bóng hoa giấy bữa tiệc lễ kỷ niệm quả
+💼	cặp tài liệu văn phòng
+🥬	cải bắp thìa xoăn rau diếp salat xanh lá
+🈸	“đơn xin” chữ tượng hình nút tiếng nhật
+🚱	không dùng để uống được nước
+🐄	bò cái sữa động vật trang trại
+⬜	hình học vuông lớn màu trắng
+😝	hương vị kinh khủng lưỡi mắt mặt thè nhắm chặt
+😓	lạnh mặt chán nản với mồ hôi
+🩼	đau gậy chống hỗ trợ di chuyển khuyết tật nạng
+🙀	mặt mèo mệt lử mỏi ngạc nhiên ôi
+🧯	bình chữa cháy cứu hỏa dập tắt lửa
+🦖	khủng long bạo chúa
+🧑‍🧒	gia đình người lớn trẻ em
+🐒	chuối con khỉ động vật quả
+🥴	chếnh choáng chóng mặt váng mắt đảo điên miệng uốn lượn say xỉn
+🧅	gia vị hành
+🍙	cơm nắm nhật bản
+👨‍🚒	lính cứu hỏa nam xe
+🪈	âm nhạc ban diễu hành dàn giao hưởng máy ghi cụ hơi bằng gỗ ống sáo tiêu
+🏏	gậy đánh bóng quả trò chơi cricket
+👴	cụ ông đàn đầu hói già người lớn
+🦝	động vật gấu trúc tinh nghịch tò mò
+🎲	con xúc xắc gieo trò chơi
+🚡	cáp treo đường xe điện toa trần trên không
+😑	không diễn cảm mặt vô thản nhiên
+🥶	đóng băng lạnh cứng mặt xanh tê cóng
+🚿	nước vòi hoa sen
+🖕	ngón giữa tay
+🫆	danh tính dấu vân tay pháp y sự an toàn
+🧑‍🍳	đầu bếp nấu ăn
+🫠	biến mất chất lỏng hòa tan mặt chảy
+🐑	bồng bềnh cái cừu non động vật lông nông trại
+🕐	00 1 1:00 đồng hồ giờ một
+🔑	chìa khóa mật khẩu
+🚕	lái xe màu vàng taxi cộ
+🎹	bàn phím đàn piano nhạc cụ
+🦮	chó dẫn đường hỗ trợ tiếp cận khiếm thị mù
+📃	quăn tài liệu trang bị
+👨‍🔧	cơ khí nam người đàn ông thợ điện máy sửa ống nước
+😄	cười mắt mặt miệng há mở
+🥲	biết ơn mặt cười với nước mắt mỉm nhẹ nhõm tự hào xúc động
+🫥	ẩn biến mất chán nản hướng nội mặt có đường viền chấm thất vọng vô hình
+🥤	cốc mạch nha nước ép ống hút soda uống
+🥃	cốc vại ly đáy phẳng ngụm rượu whisky
+🗼	tháp tokyo
+🙄	cái gì vậy đu đưa không quan tâm mắt mặt có sao cũng được
+🦥	chậm con lười đủng đỉnh
+🧞	chà đèn thần điều ước huyền bí kỳ ảo ma
+🤪	lớn mắt mặt làm trò hề ngốc nhỏ
+👩‍🍳	đầu bếp nữ nấu ăn
+🫘	cây họ đậu hạt thận thức ăn
+🥇	huy chương vàng nhất
+🐘	động vật voi
+🔻	đỏ hình học tam giác màu trỏ xuống dưới
+🎡	bánh xe công viên giải trí đu quay vòng
+🕢	7 7:30 ba mươi bảy giờ phút đồng hồ
+💪	bắp tay gập lại cơ hài hước
+🎒	ba lô đi học cặp trường túi
+😢	buồn khóc mặt nước mắt
+👨‍🦯	hỗ trợ tiếp cận khiếm thị mù người đàn ông với cây gậy dò đường
+🫪	căng phồng dễ tổn thương hoảng loạn lo lắng ngạc nhiên sốc
+🔕	cấm chuông với dấu gạch chéo im lặng tắt tiếng
+📢	địa chỉ công cộng loa phát thanh phóng lớn
+🦟	bệnh con muỗi côn trùng đốt sốt rét vi rút
+🎅	cha claus giáng sinh lễ kỷ niệm ông già noel noen santa
+❕	cảm thán chấm than dấu màu trắng mờ
+🤽	bơi lội bóng người chơi dưới nước thể thao
+🗾	bản đồ nhật
+🔆	độ sáng nút
+🤣	cười chảy nước mắt sung sướng lăn mặt bò sàn
+🦅	chim đại bàng
+🧶	cuộn len đan bằng kim móc sợi
+🍇	chùm nho hoa quả
+🌯	bánh burrito mexico
+🌎	châu mỹ địa cầu thế giới thể hiện trái đất
+🀄	đỏ mạt chược rồng trò chơi
+🦣	có lông động vật lớn ngà tuyệt chủng voi ma mút
+🥝	hoa quả kiwi thức ăn
+😻	con mèo hình trái tim khuôn mặt mắt cười nụ thân ái
+🎸	đàn ghi-ta nhạc cụ
+⏫	kép mũi tên nút lên nhanh
+🏩	khách sạn tình yêu
+🥓	thịt xông khói thức ăn
+➗	÷ chia dấu toán
+🐦‍🔥	bất tử chim lửa phượng hoàng đầu thai dục hỏa trùng sinh tái thăng thiên tưởng tượng vinh quang
+🔁	chiều kim đồng hồ lặp lại mũi tên nút
+👪	gia đình trẻ em
+🤍	màu trắng trái tim
+🪃	australia bật lại boomerang bumơrang dội thổ dân vũ khí
+🔧	chìa vặn cờ lê dụng cụ
+🐶	cún động vật mặt thú cưng
+🦌	động vật hươu
+🎋	biểu ngữ cây tanabata kiểu nhật bản lễ kỷ niệm
+🕌	hồi giáo nhà thờ thuộc tôn
+📔	bìa sách sổ ghi chép có trang trí
+🕗	00 8 8:00 đồng hồ giờ tám
+🐲	khuôn mặt rồng truyện cổ tích
+👊	cú đấm nắm tay siết chặt
+🫙	bình đựng cửa hàng gia vị nước sốt thùng chứa trống rỗng
+🚇	di chuyển tàu điện ngầm
+🧏	điếc hỗ trợ tiếp cận khiếm thính nghe người tai
+🤐	khóa kéo mặt có miệng bị
+👩	người lớn phụ nữ
+🍡	bánh trôi nhật bản món kiểu tráng miệng ngọt que
+📧	email thư
+🛜	băng thông rộng bộ định tuyến điện thoại minh hotspot internet kết nối không dây mạng lan máy tính wifi
+🐊	cá sấu động vật sở thú
+📌	cái ghim đinh
+🕕	00 6 6:00 đồng hồ giờ sáu
+⛲	đài phun nước
+🔫	dụng cụ súng gắn lục ổ quay nước vũ khí
+🍐	hoa quả lê
+⚓	dụng cụ mỏ neo tàu
+🪆	babooshka baboushka babushka búp bê lồng matryoshka nhau nước nga
+📦	bưu kiện gói hộp
+🧧	bao lì xì chúc may mắn hồng quà tặng tiền
+🪽	bay lên cánh chim hàng không thần thoại thiên đường
+🎪	lều rạp xiếc
+😏	cười khẩy mặt
+🛄	hành lý nhận nơi
+♑	con dê cung hoàng đạo lá số tử vi ma kết
+🧑‍💼	công việc văn phòng kiến trúc sư kinh doanh người quản lý nhân viên
+🐁	chuột động vật
+🐌	động vật ốc sên thiên nhiên vườn
+👩‍🌾	người làm vườn nuôi súc vật nông dân nữ
+🕑	00 2 2:00 đồng hồ giờ hai
+🎀	lễ kỷ niệm ruy băng
+📪	đóng hòm thư hộp được với lá cờ nằm ngang
+🎮	giải trí tay điều khiển thiết bị trò chơi điện tử
+🔴	đỏ hình học tròn màu
+🦞	càng động vật hải sản tôm hùm xúp cua
+🛐	nơi thờ phụng tôn giáo sùng
+🛹	ván trượt
+👩‍🏭	công nghiệp nhân nhà máy nữ lắp ráp
+🙅	cấm cử chỉ không bao giờ cho phép đời nào người ra hiệu phản đối tay
+🏧	atm ký hiệu máy rút tiền ngân hàng tự động
+🧢	mũ bóng chày lưỡi trai
+🫎	động vật có vú gạc nai sừng tấm bắc mỹ xám
+💁	giúp hất tóc mách nước mỉa mai nghiêm túc người ra hiệu trợ tay thông tin tươi tắn vuốt
+🈶	“không miễn phí” chữ tượng hình nút tiếng nhật
+🌺	hoa dâm bụt thực vật
+🤬	chửi rủa thề mặt có các ký hiệu trên miệng tức giận
+🤢	buồn nôn mặt mửa
+💃	khiêu vũ người phụ nữ đang nhảy
+🦋	bướm côn trùng đẹp
+🐥	chim gà con mặt trước
+🚫	bị cấm không có lối vào
+💞	đang quay trái tim xoay vòng
+🥖	bánh mì que mỳ pháp thức ăn
+🉑	“có thể chấp nhận” chữ tượng hình nút tiếng nhật
+🚓	cảnh sát tuần tra xe hơi
+🧑‍🔬	kỹ sư nhà hóa học khoa sinh vật lý
+🔒	đóng khóa riêng tư
+🐦‍⬛	chim hoét đen con quạ động vật họ loài màu mỏ
+😐	mặt ngây ra bất động trung lập
+🪘	conga đập nhạc cụ nhịp trống dài
+🎩	cái mũ đầu chóp cao quần áo
+👩‍🎤	ca sĩ diễn viên nghệ ngôi sao người phụ nữ nhạc rock
+🦄	kỳ lân mặt
+🐠	cá nhiệt đới động vật
+🥥	cây dừa pina colada
+🧣	cổ khăn quàng lạnh ủ ấm
+🎿	thể thao trượt tuyết ván
+🌆	buổi tối hoàng hôn khung cảnh thành phố lúc chạng vạng mặt trời lặn phong
+🧐	giàu có mặt với kính một mắt ngột ngạt thượng lưu
+😭	buồn khóc mặt to nước mắt thổn thức
+😰	lạnh mặt lo lắng và toát mồ hôi vội vã xanh da trời
+💣	bom hài hước nguy hiểm nổ
+🐪	cái bướu con lạc đà động vật sa mạc
+👨‍🎓	nam sinh viên tốt nghiệp
+👇	mu bàn tay ngón trỏ trái chỉ xuống
+🥉	ba đồng huy chương
+🚅	đường sắt tàu cao tốc nhật bản hỏa viên đạn độ
+🥳	buổi tiệc hào hứng lễ kỷ niệm mặt tùng mũ sinh nhật sừng
+👳	khăn turban xếp người đội
+🎧	âm thanh tai nghe
+📨	email nhận phong bì thư đến
+⭐	ngôi sao thiên văn
+🫃	bụng bầu căng phồng có thai người đàn ông mang no đủ
+🌌	dải ngân hà vũ trụ
+🧖	mát xa người ở trong phòng xông hơi phụ nữ nhà tắm sang chảnh spa thư giãn
+🚠	cáp treo trên núi toa trần
+🪙	bạc đô la đồng tiền euro giàu kho báu kim loại vàng
+🌵	cây xương rồng hạn hán sa mạc thiên nhiên thực vật
+😲	hoàn toàn kinh ngạc mặt sốc
+🙃	lộn ngược mặt
+🚶	dáng đi đang bộ leo núi lang thang thong dong người tản
+👤	bóng tượng bán thân
+🛶	thuyền xuồng
+🌓	mặt trăng phần tư thượng huyền
+🌒	lưỡi liềm mặt trăng đầu tháng tròn dần
+👽	đĩa bay giả tưởng khuôn mặt ngoài trái đất người hành tinh sinh vật
+🕡	6 6:30 ba mươi đồng hồ sáu giờ phút
+🐡	cá bơn nóc động vật
+🛃	hải quan
+🥛	cốc đồ uống sữa
+🛟	an toàn cấp cứu hộ phao sinh nổi phương tiện
+🫚	bia củ gừng gia vị rễ sức khỏe thảo mộc tự nhiên
+🍋	chanh tây chua họ cam quýt hoa quả
+🪶	bộ lông chim chuyến bay nhẹ
+🫹	cầm chỉ đó này trái trung lập
+👲	đàn ông mũ khang hy người đội trung quốc
+🤰	mang thai người phụ nữ có
+🧹	cây chổi làm sạch phù thủy quét dọn
+💑	cặp đôi với trái tim yêu
+⛅	mặt trời sau đám mây
+🩶	143 bạc cảm xúc đặc biệt trái tim màu xám đen yêu
+🧨	nổ pháo hoa thuốc
+🏊	ba môn phối hợp bơi tự do người đàn ông lội thể thao vận động viên
+🕟	4 4:30 ba mươi bốn giờ phút đồng hồ
+🩰	balê giày múa
+📀	chuẩn đĩa quang dvd máy tính
+🏃	chạy bộ đua maratông nhanh đang đến người tốc độ vội vã
+🧜	chàng tiên cá công chúa đinh ba nàng người sinh vật biển thần thoại truyện cổ tích
+🔽	đỏ mũi tên nút đi xuống
+💻	cá nhân máy tính xách tay pc
+🧋	bong bóng ngọc trai sữa trà trân châu
+🫏	bướng bỉnh con la lừa động vật có vú thồ
+🪟	cửa sổ không khí trong lành khung mở suốt xem
+🐢	con rùa động vật nước ngọt
+😤	chiến thắng hân hoan không vui mặt có mũi đang phì hơi tức giận
+👨‍🚀	không gian nam phi hành gia tên lửa
+👩‍💻	kỹ sư công nghệ nữ lập trình viên người phát minh phụ nhà triển phần mềm
+🦠	amip khoa học vi khuẩn rút trùng
+🥺	lòng thương mặt cầu xin mắt cún con xỏ
+🤮	mặt nôn mửa ốm
+❗	cảm thán chấm than dấu đỏ
+🪼	biển bỏng chích động vật không xương sống ối sinh phù du sứa thủy xúc tu
+🎺	kèn trumpet nhạc cụ
+🟥	hình vuông màu đỏ ô
+😶	ít nói mặt không có miệng yên lặng
+🧬	adn di truyền gien nhà sinh vật học sự sống tiến hóa
+😵‍💫	bối rối chóng mặt khó hiểu có đôi mắt xoắn ốc rắc thôi miên
+📸	đèn flash máy ảnh có video
+👩‍🔧	cơ khí nữ phụ thợ điện máy sửa ống nước
+💧	giọt nước hài hước lạnh mồ hôi rơi
+🪂	dù kéo lượn nhảy
+🎃	đèn lồng bí ngô halloween lễ hội
+🫟	bắn tung tóe ngày lễ sơn tràn vết ố
+💖	bị kích thích lấp lánh trái tim
+💜	tím trái tim
+🚀	di chuyển không gian phóng tên lửa
+🎑	kỷ niệm lễ ngắm trăng mặt
+🍦	cái kem mềm món tráng miệng ngọt
+🥀	héo hoa
+😣	đau đầu kiên nhẫn mặt tập trung
+📰	báo tạp chí tin tức
+🥊	găng tay quyền anh
+🧑‍🏫	giáo sư viên người hướng dẫn
+🔺	hình học màu đỏ tam giác trỏ lên trên
+📺	tivi tv video
+🦬	bò rừng đàn động vật trâu
+👸	cổ tích công chúa giả tưởng hoàng gia hậu vương miện
+😋	cười mặt thưởng thức món ngon tuyệt
+👗	mua sắm quần áo váy
+🦎	bò sát động vật thằn lằn
+🫳	bàn tay có lòng hướng xuống đuổi thả xua xuỵt
+🥎	bao tay bóng mềm ném dưới vai thể thao
+💉	bệnh kim ống tiêm thuốc vắc-xin
+🪧	bảng hiệu biển cọc phản đối thẻ thể hiện thông báo
+🌃	đêm có sao
+📕	đóng giáo dục sách
+😇	giả tưởng hào quang mặt cười có ngây thơ thiên thần
+🍃	gió lá cây rung rinh trong thổi
+🫒	ôliu thức ăn
+🔜	mũi tên soon
+🧑‍🍼	bố cho bú con đàn ông em bé mẹ người phụ nữ trẻ sơ sinh
+🚍	đang tới xe buýt
+🧄	gia vị tỏi
+👯	bản sao bạn tâm giao thân bộ đôi những người đeo tai thỏ phụ nữ sinh tiệc tùng vũ công
+🪤	bẫy bẩy chuột mồi pho mát
+🥸	ẩn danh gián điệp kính lông mày mặt trá hình mũi người ngụy trang râu ria mép
+🥅	gôn khung thành lưới
+🍪	bánh quy món tráng miệng ngọt
+🔎	dụng cụ kính lúp nghiêng sang phải phóng đại tìm kiếm
+🩴	dép đi biển lê xỏ ngón zōri
+💢	biểu tượng giận giữ điên hài hước tức
+🥙	bánh mỳ dẹt gyro kẹp thịt đồ ăn falafel nhồi
+🐈	động vật mèo thú cưng
+📥	hộp thư đến khay nhận
+🚮	ký hiệu bỏ rác vào thùng xả
+🟨	hình vuông màu vàng ô
+🥼	áo phòng thí nghiệm bác sĩ nhà khoa học
+🧱	đất sét gạch tường vữa
+🧈	bơ sữa
+💓	dao động đập nhịp tim trái đang
+🎏	cá chép cờ dải lễ kỷ niệm
+♈	bạch dương chòm sao cung hoàng đạo cừu đực lá số tử vi
+🛌	chợp mắt khách sạn mệt mỏi ngủ ngoan nhé người trên giường say giấc
+🦇	dơi động vật ma cà rồng
+🚐	xe buýt nhỏ cộ
+🐬	bãi biển cá heo chân chèo đại dương động vật
+🐅	dã thú động vật hổ sở
+🌉	cầu cây về đêm
+🤌	cái gì cử chỉ tay khum lại kiên nhẫn mỉa mai ngón thẩm vấn thư giãn
+🛀	bồn tắm người đang
+👶	trẻ con em sơ sinh
+🍁	lá cây phong rụng
+🚜	máy kéo xe cộ
+💠	bên trong hài hước hình học thoi có chấm dấu
+😚	hôn mắt mặt nhắm
+👮	bắt giữ bị tóm cảnh sát nằm vùng công an dừng xe luật sĩ quan
+🍥	bánh cá có hình xoắn ngọt xoáy
+🧌	giả tưởng người khổng lồ độc ác quái vật truyện cổ tích
+👠	giày cao gót chân phụ nữ quần áo
+🧑‍🎄	bà già noel chúc mừng giáng sinh mũ người ông
+👩‍🏫	giáo sư viên nữ người hướng dẫn phụ
+🌴	cây cọ
+🏭	nhà máy tòa
+🔷	hình học thoi lớn màu lam
+💡	ánh sáng bóng đèn điện hài hước ý tưởng
+🪾	cằn cỗi cây chết gỗ hạn hán mùa đông nhánh thân trần trụi lá
+🔙	back mũi tên
+🫲	bàn tay hướng sang bên trái
+💒	đám cưới lãng mạn nhà thờ nhỏ
+🆔	danh tính id nút
+🧑‍🩰	ba lê vũ công
+🥪	bánh mỳ kẹp
+⌛	bộ định thời cát đồng hồ đã chảy hết hẹn giờ
+🔀	bắt chéo mũi tên nút xáo trộn bài
+😦	mặt cau miệng há mở nhăn
+🍄‍🟫	ăn chay cây nấm nâu màu nhân pizza rau thức tự nhiên
+🦫	động vật hải ly răng xây đập
+🥚	bữa sáng đồ ăn trứng
+🛑	bát giác dừng ký hiệu
+🎫	vào cửa vé
+👺	mặt quái vật sinh truyện cổ tích tưởng tượng yêu tinh
+🤷	ai mà biết được có thể hững hờ không nghi ngờ người nhún vai sao cũng thờ ơ
+🦏	động vật tê giác
+🍿	bỏng ngô phim
+☕	buổi sáng cà phê caffeine chai đồ uống nóng hổi trà
+📴	di động điện thoại tắt
+👘	kimono quần áo
+🚈	đường sắt tàu điện nhẹ xe cộ
+🧷	chất thải ghim băng tã
+🍔	bánh hamburger kẹp
+🔸	hình học thoi nhỏ màu cam
+🎎	búp bê nhật bản kiểu lễ hội kỷ niệm
+🧘	an lạc bắt chéo chân người ngồi kiết già ở tư thế hoa sen thanh bình thiền thư giãn yoga yogi
+🥾	cắm trại đi bộ đường dài du lịch bụi giày leo núi ống
+🦙	động vật lạc đà alpaca guanaco không bướu vicuña len
+🆚	đấu với nút vs
+🧦	bít tất vớ
+🛕	đền hin đu hin-đu hindu
+💝	lễ tình yêu ruy băng trái tim với
+🔂	chiều kim đồng hồ một lần mũi tên nút lặp lại
+🌷	hoa tulip thực vật
+🧑‍🧑‍🧒	gia đình người lớn trẻ em
+🥰	mặt cười với 3 trái tim phải lòng yêu quý
+💍	kim cương nhẫn
+🕖	00 7 7:00 bảy đồng hồ giờ
+🚷	cấm người đi bộ không cho phép có
+🐾	bàn chân dấu móng vuốt
+👨‍🎨	bảng màu họa sĩ nam nghệ
+🍤	chiên món sốt cá cua tôm hùm
+🦢	chim thiên nga non vịt con xấu xí
+🔏	bút khóa với mực ngòi riêng tư
+⛄	lạnh người tuyết không có
+💀	cái chết đầu lâu mặt quái vật truyện cổ tích
+🏴	cờ đen vẫy
+👍	+1 dấu ra hiệu đồng ý lên ngón tay cái
+🧑‍💻	kỹ sư công nghệ lập trình viên người phát minh nhà triển phần mềm
+🪊	âm nhạc buồn đồng jazz cụ trượt
+🌭	bánh mì xúc xích
+♎	cân đối công bằng cung hoàng đạo lá số tử vi thiên bình
+🪇	âm nhạc lắc lục lạc maraca cụ nhảy tiệc tùng trống
+💂	bảo vệ cung điện buckingham london mũ hiểm
+🛸	đĩa bay người ngoài hành tinh ufo
+➰	cong vòng lặp
+🎴	hoa kiểu nhật bản quân bài hình thiệp trò chơi
+🦪	hàu lặn ngọc trai
+🪯	biểu tượng khanda deg tegh fateh đức tin khalsa sikh giáo tôn
+🛅	hành lý bỏ quên tủ khóa
+🉐	“mặc cả” chữ tượng hình nút tiếng nhật
+🧑‍🏭	công nghiệp nhân nhà máy lắp ráp
+🔰	hình v ký hiệu của nhật cho người mới bắt đầu lá
+🫍	biển cá voi đại dương
+♊	cung hoàng đạo lá số tử vi song sinh
+🍒	anh đào hoa quả màu đỏ mọng thực vật trái cây
+🦘	australia chuột túi con nhảy thú có
+🦯	gậy dò đường hỗ trợ tiếp cận khiếm thị mù
+🧼	bánh tắm vệ sinh xà phòng xát
+🧿	bùa may mắn nazar hạt mắt ác mê hoặc nhìn
+🎱	8 bi-a bóng bida quả tám trò chơi
+🍭	kẹo mút món tráng miệng ngọt
+🥈	bạc hai huy chương
+🔬	dụng cụ khoa học kính hiển vi vị thí nghiệm
+🤞	bàn tay chéo hai ngón bắt may mắn
+🍛	cà ri cơm
+👌	bàn tay làm dấu ok chắc chắn rồi được nha tuyệt
+👆	chỉ lên ngón tay trỏ trái
+👉	chỉ mu bàn tay ngón trỏ trái sang phải
+🎍	cây thông tre kiểu nhật bản lễ kỷ niệm trang trí
+🧔	người đàn ông có râu
+🦶	bàn chân đá dậm mạnh mắt cá
+🈺	“mở cửa kinh doanh” chữ tượng hình nút tiếng nhật
+🧮	bàn tính toán
+🏁	ca rô chiến thắng cờ ô vuông cuộc đua thể thao
+🙈	cấm điều xấu khỉ không nhìn mặt
+🍠	đồ ăn khoai lang nướng ngọt
+🕋	hồi giáo kaaba thuộc tôn
+🫓	arepa bánh mì dẹt mỳ cắt lát lavash pita thực phẩm
+😠	điên mặt giận giữ tức
+🫶	hai bàn tay tạo hình trái tim yêu
+🤖	mặt quỷ rô-bốt
+◾	hình học vuông nhỏ vừa màu đen
+🤤	chảy dãi mặt
+🏹	cung hoàng đạo tên thủ mũi nhân mã
+💔	bị vỡ buồn cô đơn trái tim tan
+🍍	dứa hoa quả nhiệt đới
+🤱	cho bú con em bé nuôi bằng sữa mẹ vú
+👨‍🍼	bố cho bú con đàn ông em bé nam người tình yêu
+👫	cầm cặp đôi đàn ông nắm tay người và phụ nữ

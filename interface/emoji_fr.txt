@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « fr » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	bouton nouveau icône nouveauté
+🧑‍🤝‍🧑	couple homosexuel deux personnes se tenant la main gay personne par poignée de tenir
+◽	carré petit moyen blanc forme géométrie
+⛽	diesel essence gazole pompe à station
+🔓	cadenas déverrouiller ouvert ouvrir
+👄	baiser beauté bise bisou bouche corps embrasser lèvres rouge à
+🍴	couteau et fourchette couverts faim manger nourriture repas restaurant
+🏒	crosse hockey sur glace palet sport
+💦	bande dessinée bd eau éclabousser éclaboussures effort entraînement gouttes de sueur
+🎐	carillon éolien clochette fête vent
+😼	animal chat avec sourire en coin ironique narquois tête de visage
+😉	blague clin d’œil émoticône flirter plaisanter sexy visage faisant un
+📛	badge nominatif nom
+🚉	chemin de fer gare moyen transport rail rer train
+💌	amour cœur lettre d’amour saint-valentin
+🆘	à l’aide au secours bouton sos icône
+🛙	lumière mer navigation repère signal tour
+🍯	miel nourriture ours pot de sucré
+😿	animal chat qui pleure larme pleurer tête de triste visage
+🫜	betterave jardin légume navet racine
+😳	chaud comment ébahi émoticône étonné gêné impressionné incrédule incroyable quoi rouge visage qui rougit
+🚨	alarme alerte gyrophare lumière police sirène urgences voiture
+🚌	bus école moyen de transport véhicule
+🌇	coucher de soleil en ville crépuscule soir tombée la nuit voyage
+🔝	flèche en haut vers le
+🙊	animal bouche cousue chut geste interdit motus muet non parler se taire secret silence singe ne rien dire visage
+🐙	animal créature mer mollusque océan pieuvre poulpe
+🕦	11 h 30 23 heure horloge onze heures et demie vingt-trois trente
+🕞	15 h 30 3 heure horloge quinze heures trente trois et demie
+🙌	air geste hourra mains en l’air levées youpi
+🚗	automobile conduire moyen de transport véhicule voiture voyage
+🕥	10 h 30 22 dix heures et demie heure horloge vingt-deux trente
+🥱	bâille bâiller dormir émoticône ennui fatigant fatigue sieste visage bâillant
+🐎	animal cheval course hippique hippodrome tiercé
+👩‍🚒	camion de pompiers casque femme métier pompier
+🪉	amour cupidon harpe instrument musique orchestre
+🫁	anatomie expiration inspiration organe poumons respiration respirer souffle
+📲	appel entrant communication recevoir un smartphone téléphone portable avec une flèche
+💚	amour cœur sentiment vert
+📶	barres de réseau communication couverture portable réception téléphone
+🫦	anxieux flirt inquiet lèvre mordue lèvres qui se mordent mal à l’aise nerveux
+🌅	lever de soleil matin nature levant voyage
+🌂	météo parapluie fermé pluie
+🍲	marmite nourriture ragoût
+🪜	ascension barreau échelle échelon escabeau grimper monter
+✅	✓ bouton coché carré coche blanche marque ok oui sélection terminé voilà
+📑	marque marqueur onglets signet signets
+👣	empreintes pied pieds nus traces de pas
+👀	chercher corps coup d’œil œil regarder visage voir yeux
+🤸	agilité athlète faire la roue femme faisant gymnaste gymnastique personne sport
+⭕	0 anneau cercle gros o rouge
+😆	ahah bouche content émoticône lol mdr rire sourire visage souriant avec ouverte et yeux fermés plissés
+🔄	actualiser flèche flèches dans le sens antihoraire retour contraire des aiguilles d’une montre horaire inverse
+🟢	cercle disque vert forme géométrique géométrie rond
+🧗	alpiniste escalader grimper grimpeur montagne personne qui escalade grimpe sport
+🌟	éclat étincelant étincelle étoile brillante nuit étoilée succès
+🤧	à tes souhaits atchoum émoticône éternuement éternuer fièvre grippe malade mouchoir rhume se moucher visage qui éternue
+🔛	activé droite et gauche flèche dans les deux sens
+🪫	batterie faible déchargé électronique énergie pile
+⏰	alarme attendre dring heure matin retard réveil sonnerie
+🥕	carotte légume nourriture
+➿	boucle double
+🥂	alcool célébrer champagne fêter santé tchin trinquer verre verres
+🪲	animal insecte scarabée
+🩹	bandage bobo médecine pansement premiers secours sparadrap
+🟧	carré forme géométrique géométrie orange
+📍	carte emplacement épingle fournitures punaise ronde
+😽	animal baiser bise bisou chat qui embrasse fait un une avec les yeux fermés embrasser tête de
+🐤	animal oiseau poussin tête de
+🤵	élégant homme marié personne en smoking mariée
+🛼	derby patin à roulettes roller roulette sport
+🧩	assemblage énigme indice interloqué pièce de puzzle manquante
+🛝	aire de jeu glissade jouer toboggan
+🔇	chut enceinte haut-parleur barré d’enceinte muet silence son sourdine
+🏥	bâtiment docteur hôpital médecin urgences
+🚔	police véhicule voiture de face qui arrive
+💶	argent billet de banque en euros payer
+🥭	fruit mangue nourriture tropical tropique
+🫂	accolade amitié au revoir bonjour câlin embrassades étreinte gratitude merci personne
+🔳	bouton carré blanc forme géométrie
+💹	banque courbe avec yen en hausse croissance devise graphique marché monnaie tendance
+🧺	agriculture cueillette lessive linge panier pique-nique
+😖	confus déconcerté émoticône fâché frustré irrité triste visage yeux fermés
+🔐	cadenas avec une clé fermé privé sécurisé verrouillé
+🈯	bouton réservé en japonais idéogramme
+🏦	banque bâtiment
+🍧	coupe de glace crème glacée dessert granité nourriture restaurant sucré
+🧍	debout personne
+🟠	cercle disque orange forme géométrique géométrie rond
+⛔	circulation entrée interdite interdiction interdit non panneau sens
+✊	main pierre poing levé serré solidarité
+🌜	croissant de lune dernier quartier avec visage à nuit
+😹	animal chat qui rit aux larmes joie lol mdr pleurer de rire
+🧾	compta comptabilité comptable facture faire les comptes justificatif preuve reçu ticket de caisse
+🪩	boule à facettes briller danse disco fête soirée
+🏇	cheval course de chevaux hippique jockey sport
+👦	émoticône enfant garçon jeune personne
+🏸	badminton jeu match raquette sport volant
+🥜	arachide cacahuète cacahuètes noisette nourriture
+📱	communication smartphone téléphone portable
+🕎	candélabre chandelier à sept branches hanoucca hanoukka judaïsme juif juive menora menorah religion
+🚙	automobile conduire loisirs moyen de transport véhicule utilitaire sport voiture voyage
+🖤	cœur noir
+🪬	amulette chance fatma hamsa khamsa main de myriam protection
+🚴	course cycliste guidon homme pédaler personne rouler sport tour de france vélo
+🍷	alcool bar boisson club restaurant verre à vin de
+💊	docteur gélule malade médecine médicament pilule vitamines
+🍀	4 chance feuilles irlande plante porte-bonheur quatre trèfle à
+🪌	annuler dessin effacer erreur oups supprimer
+😷	bactéries dentiste docteur émoticône germes malade masque chirurgical médecin rhume visage avec
+📆	agenda calendrier date éphéméride planning
+🙉	animal écouter geste interdit ne pas entendre non oreilles rien vu entendu secret singe sourd visage
+💱	argent banque change conversion de devise
+🩻	cage thoracique docteur médical os radiographie rayons x squelette
+🏠	bâtiment foyer maison simple pavillon résidentiel
+📙	apprendre école éducation lecture lire littérature livre orange manuel scolaire roman
+🥔	légume nourriture patate pomme de terre purée
+💮	fleur blanche
+🥌	curling granit jeu match partie pierre de sport
+💩	bande dessinée bd caca crotte dessin excrément odeur popo puer sentir mauvais tas de visage
+🍳	cuisine friture nourriture œuf au plat petit-déjeuner poêle à frire se faire cuire un
+🦈	animal dents de la mer poisson requin
+🌼	bourgeon bouton d’or dent-de-lion fleur pissenlit plante printemps
+😜	amusant blague clin d’œil émoticône fou langue loufoque marrant œil rigolo visage qui tire la et fait un
+🪁	cerf-volant planer voler
+⛎	ophiuchus serpent serpentaire zodiaque
+🍾	alcool boisson bouchon bouteille de champagne félicitations fête pop
+🧇	brunch gaufre gourmandise goûter moule pâtisserie petit déjeuner petit-déjeuner
+🛞	cercle pneu roue tourner véhicule voiture
+📜	papier parchemin
+🧎	à genoux personne prière religion
+🌕	espace lune nuit pleine
+💽	disque d’ordinateur minidisc
+💙	amour cœur bleu sentiment
+📏	fournitures mathématiques règle plate
+🥡	baguettes boîte à emporter carton chinois nourriture
+🕔	17 h 5 cinq heures dix-sept heure horloge
+🤩	étoile étoiles dans les yeux grand sourire heureux pressé surexcité tête avec visage des à la place wow
+🟦	bleu carré forme géométrique géométrie
+🐍	animal reptile serpent à sonnette venin
+🐉	animal chine chinois dragon game of thrones mythe tradition
+🪎	argent argenterie bijoux butin objets de valeur or pierre précieuse richesse
+💯	100 cent points score
+🌝	lune à visage nuit pleine avec sourire
+♏	astrologie horoscope scorpion zodiaque
+🪞	beauté glace image maquillage miroir psyché reflet
+💅	cosmétiques manucure maquillage peu importe s’ennuyer vernis à ongles
+🫫	craquer effondrement masquer résilience révéler tension transformation
+🈁	bouton ici en japonais idéogramme katakana
+🍵	boisson tasse de thé sans anse
+⏳	attendre chronomètre minuteur sable sablier avec qui coule temps
+🌙	croissant de lune espace nuit ramadan
+🤭	malin oops oups rigole secret surprise visage avec main devant la bouche une sur
+🥗	nourriture salade verte
+🈹	bouton réduction en japonais idéogramme rabais
+🔔	cloche clochette sonner
+🦹	cape criminel déguisement diabolique mal mauvais méchant personnage super pouvoir vilain super-pouvoir super-vilain
+🙎	bouder déçue énervée expression fâchée faire la tête femme froncer les sourcils geste inquiète moue personne qui boude
+🫴	appeler de la main attirer faire venir paume vers le haut offre
+👨‍🦽	accessibilité fauteuil roulant handicap homme en manuel
+🙇	confus désolé excuses geste gronder incliné j’ai compris ok pardon personne inclinée qui s’incline
+🔈	enceinte haut-parleur d’enceinte son volume bas des enceintes faible
+🍋‍🟩	acide agrume citron fruit lime mojito tropical vert zeste
+🪖	armée casque équipement guerre guerrier militaire protection soldat
+🪰	animal asticot insecte maladie mouche nuisible pourrissement puanteur putréfaction tsé-tsé
+👧	couettes émoticône enfant fille grands yeux jeune nattes personne petite tresses vierge visage zodiaque
+🍂	automne feuille morte feuilles mortes tomber
+🍝	italien nourriture pâtes restaurant sauce bolognaise spaghetti
+🧑‍🦼	accessibilité fauteuil roulant personne en motorisé
+🏂	homme neige ski snowboard snowboardeur sport
+🏬	bâtiment centre commercial grand magasin
+🤾	athlète ballon handball handballeur lancer personne jouant au sport
+🌳	arbre à feuilles caduques feuillu forêt nature plante
+🏐	ballon jeu match sport volley volley-ball
+🧴	après-shampoing bouteille de lotion crème hydratante pour le corps solaire flacon hydratant shampoing shampooing
+💨	bande dessinée bd décamper déguerpir détaler filer fumée nuage partir en courant pet vent vite
+🪱	animal annélide insecte lombric parasite ver de terre
+🫕	bourguignonne chocolat fondue fromage plat poêlon savoyarde ski suisse
+🕧	00 h 30 12 heure horloge midi et demi midi/minuit demie minuit
+🥣	bol avec cuillère une céréales congee déjeuner petit soupe
+🍞	miche nourriture pain de mie
+🌚	espace lune nouvelle à visage avec nuit
+🦨	animal mouffette odeur puer putois
+🚹	homme symbole toilettes hommes wc
+🪅	5 mai bonbons cinco de mayo confiseries fête mexicain piñata
+🪢	attacher corde entrelacer lien nœud noué tordre
+🫢	choqué embarrassé étonné gêné impressionné stupéfait surpris visage avec yeux ouverts et main sur la bouche
+🎻	instrument musique violon
+🛫	avion au décollage départ moyen de transport voyage
+💐	amoureux anniversaire bouquet fleur fleurs plante rendez-vous roses
+👎	bas main mauvais non nul pouce baissé vers le
+🤟	amour geste pour je t’aime ily main signe trois doigts
+♋	astrologie cancer crabe horoscope zodiaque
+🦸	bien cape force heroïne héroïne héros personnage sauver le monde super pouvoir super-héros super-pouvoir superhéros superman vengeur voler
+👏	applaudissements bien joué bon travail bravo félicitations formidable geste mains qui applaudissent super
+🧚	ailes déguisement fée clochette féerie magie obéron personnage féérique puck titania voler
+🏢	bureaux immeuble de ville
+🧻	essuie-tout papier hygiénique toilette rouleau de pq
+🔅	brillance lumière luminosité faible soleil
+🆓	bouton gratuit icône
+🪛	outil outillage tournevis vis
+📖	apprendre bibliothèque école enseignement étudier lecture lire littérature livre ouvert manuel scolaire roman savoir
+🍬	bonbon dessert goûter nourriture sucré sucrerie
+🃏	carte joker cartes à jouer jeu
+🧪	chimie chimiste expérience expérimentation labo laboratoire réaction science sciences tube à essai
+🍟	fast food frites potatoes potatœs
+🌏	asie australie espace globe présentant l’asie et l’australie tourné sur monde planète terre
+🧵	aiguille bobine de fil coudre couture ficelle
+🆎	ab groupe sanguin
+👩‍🍼	allaitement bébé biberon femme allaitant un maman mère nounou nouveau-né personne
+🕛	0 h 12 heure horloge midi pile midi/minuit minuit
+🍰	dessert gâteau sablé goûter nourriture pâtisserie sucré
+🦩	animal flamant oiseau rose tropical
+😁	content dents émoticône grand sourire heureux de toutes ses super visage souriant aux yeux rieurs avec souriants
+⬛	carré forme géométrique géométrie grand noir
+🪻	fleur fleurir indigo jacinthe lavande lilas lupin mauve muflier plante printemps violet
+🖖	doigts main salut vulcain spock star trek
+🪍	attraper capturer épuisette piège
+⌚	heure montre
+🐯	animal félin prédateur tête de tigre visage
+🚧	barrière travaux
+🔵	bleu cercle disque forme géométrique géométrie rond
+🌄	lever de soleil matin nature levant derrière les montagnes voyage
+🚾	toilettes wc
+📮	boîte aux lettres courrier poste
+🦽	accessibilité fauteuil roulant manuel handicap
+🌁	brouillard brume voyage
+🫈	bigfoot cryptide forêt géant homme sauvage poilu sasquatch yéti
+🦷	carie dent dentiste émail diamant
+🪺	branches faire son nid avec œufs oiseau
+🐜	animal fourmi insecte jardin
+🔋	pile
+🟡	cercle disque jaune forme géométrique géométrie rond
+🌑	espace lune nouvelle sombre
+😩	échec émoticône épuisé faim fatigué mécontent non pleurer sommeil triste visage las
+🛒	caddie chariot courses panier shopping supermarché
+🆗	bouton ok icône
+🪝	accrocher appâter attraper capitaine crochet ferrer hameçon hameçonner
+🥞	crêpe goûter nourriture pancake pancakes petit-déjeuner
+💳	argent bancaire banque carte de crédit payer
+🦗	animal criquet insecte sauterelle
+🫛	cosse de petits pois edamame fève haricot légume légumineuse soja
+🥧	décoration garniture gâteau nourriture pâte à tarte pâtisserie aux fruits tourte
+🧸	jeu jouet nounours ours en peluche
+🧛	canines cape conte déguisement dents dracula halloween mort-vivant personnage sang vampire
+🟪	carré forme géométrique géométrie violet
+🐱	animal chat chaton miaou minou tête de
+🦺	chantier fluo gilet de sécurité jaune orange sûreté visibilité
+🈴	bouton note pour réussir en japonais idéogramme de passage
+🍏	fruit nourriture pomme verte
+🌠	espace étoile filante nuit
+❌	× annuler croix rouge multiplication multiplier x
+🐸	animal crapaud grenouille tête de
+🧀	fromage nourriture part de
+🪕	banjo cordes instrument à musique
+🐩	animal caniche chien
+🦻	accessibilité handicap malentendant oreille appareillée prothèse auditive sonotone sourd surdité
+👩‍🦼	accessibilité fauteuil roulant femme en motorisé handicap
+🧙	chapeau enchantement ensorceleur envoûtement jeu de rôle mage magicien personnage sorcier sorcière sortilège
+👨‍🏫	enseignant homme instituteur instructeur métier professeur
+💄	cosmétiques maquillage rendez-vous rouge à lèvres
+🚘	automobile conduire moyen de transport véhicule voiture face qui arrive voyage
+👨‍🏭	assemblage homme industrie métier montage ouvrier usine
+🏣	bâtiment bureau de poste japonais japon japonaise voyage
+🫐	airelles baies bleu bleuets fruit myrtilles nourriture violet
+🦑	aliment animal calamar encornet mollusque nourriture
+🐵	animal georges le petit curieux singe sourire tête de visage
+🧊	cube froid glace glaçon iceberg
+🤿	apnée masque de plongée et tuba plonger snorkeling
+📼	cassette vidéo magnétoscope vhs vidéocassette vintage
+💟	amour cœur blanc décoré violet décoration avec sentiment
+🎥	caméra cinéma film filmer réalisateur réalisatrice vidéo
+🧥	froid glagla manteau veste vêtements
+🐽	animal cochon ferme flair groin museau porc sentir tête de
+👭	amies amitié amoureuses couple deux femmes se donnant la main tenant filles gay homosexuelles jumelles lesbiennes lgbt lgbtq lgbtqia dans meilleures petite amie rendez-vous sœurs
+🚝	monorail moyen de transport véhicule
+🩷	143 adorable aimer amour cœur émotion jtm mignon rose
+🧑‍🎓	diplôme étudiant tous genres étudiante
+🏡	foyer jardin maison avec pavillon résidentiel
+😮‍💨	chuchoter découragé déçu expiration exténué fatigué siffler souffler soulagement soupir sursaut visage expirant
+🔣	saisie de symboles
+🪚	bois outil scie à égoïne scier
+🧕	bandana femme avec foulard un voile hijab mantilla tichel
+🦂	animal astrologie désert horoscope scorpion zodiaque
+➖	- − arithmétique mathématiques moins signe soustraction soustraire
+😮	bouche bée ouverte choqué émoticône épaté incroyable omd oubli surpris visage avec la étonné
+🪸	corail océan réchauffement climatique récif
+🚊	moyen de transport rer tram tramway trolley trolleybus
+😟	anxieux émoticône inquiet préoccupé stressé surpris triste visage
+📇	carnet d’adresses carte fiche index rolodex vintage
+🌽	épi de maïs ferme nourriture
+📫	boîte aux lettres fermée drapeau levé courrier
+🚄	chemin de fer moyen transport rail rapide tgv train à grande vitesse voyage
+🧑‍🎨	artiste palette
+🪪	carte d’identité justificatif papiers permis de conduire pièce sécurité
+🫖	boisson chaude infusion thé théière
+🕘	21 h 9 neuf heures
+🈵	bouton complet en japonais idéogramme plénitude
+🐔	animal coq ferme oiseau poule poulet volaille
+👩‍🦽	accessibilité fauteuil roulant femme en manuel handicap
+🛗	accessibilité ascenseur descente monte-charge monte-personnes montée
+🍊	agrume clémentine fruit mandarine nourriture orange vitamine c
+🤒	indisposé malade thermomètre visage avec
+🎾	balle de tennis sport
+🤡	clown émoticône maquillage visage de
+💰	argent avare banque dollar parier payer sac d’argent plein
+🛴	trottinette
+🪷	beauté bouddhisme calme fleur hindouisme lotus pureté sérénité
+🦉	animal chouette hibou oiseau sage
+🐛	animal chenille insecte jardin
+📣	encourager hourra manifestation mégaphone porte-voix
+😱	choqué cri effrayé munch omd peur surpris terreur visage qui hurle de
+🥨	bretzel nourriture torsade
+📎	fournitures trombone
+🍩	dessert donut doughnut goûter nourriture sucré sucrerie
+🐕	aboyer animal domestique chien
+🧑‍🧒‍🧒	enfant famille adulte monoparentale
+🪮	afro cheveux démêler démêloir peigne peigner
+🫗	accident boisson eau oups renverser verre verser un liquide vider
+📳	communication mode vibreur portable téléphone
+💏	amour anniversaire baiser bisou couple femme homme
+🔮	avenir boule de cristal magie voyant voyante
+🙆	d’accord danser exercice femme geste grandir lever les bras main ok personne faisant un d’acceptation
+🏈	ballon football américain sport super bowl
+🥿	ballerine chaussure plate sans lacets chaussures plates mule vêtements
+🦿	accessibilité handicap jambe artificielle mécanique robot prothèse de
+💆	détente femme qui se fait masser fermer les yeux massage personne relaxation repos salon tête thérapie visage zen
+🫯	bagarre combat désaccord discussion dispute grabuge lutte
+🫰	amour argent cher claquer des doigts cœur main avec index et pouce croisés
+🥯	bagel boulangerie petit-déjeuner sandwich schmear
+🦜	animal oiseau parle perroquet pirate répète
+👨‍🌾	agriculteur fermier homme jardinier métier
+👖	bleu courses denim jean pantalon shopping vêtements week-end
+🦕	animal brachiosaure brontosaure dinosaure diplodocus sauropode
+🚯	déchets dépôt d’ordures interdit interdiction ne pas jeter
+🩱	maillot de bain une pièce
+➕	+ addition ajouter arithmétique mathématiques plus signe somme
+😡	colère émoticône énervé exaspéré fâché furieux mécontent rageur rouge de sourcils froncés visage boudeur
+🥋	arts martiaux judo karaté kimono sport taekwondo tenue d’arts
+🐣	animal bébé éclosion naissance naître nouveau-né œuf oiseau poussin qui éclôt
+👑	accessoire couronne famille royale monarchie monarque reine roi royauté succès vêtements
+🏆	champion championne coupe gagner prix trophée victoire
+🦔	animal épines épineux hérisson piquant porc-épic
+✋	feuille main levée paume de la stop tope là
+🔪	arme chef couteau de cuisine outil
+🪔	ārtī diwali diya fête inde huile lampe à beurre
+🐏	animal astrologie bélier corne ferme horoscope mouton zodiaque
+🟣	cercle disque violet forme géométrique géométrie rond
+🥦	broccoli brocoli chou sauvage légume
+👜	accessoire courses sac à main shopping vêtements
+🍎	fruit nourriture pomme rouge
+🍜	bol fumant nouilles nourriture ramen vapeur
+🐓	animal coq oiseau volaille
+🪑	assis chaise siège
+🧠	cerveau intelligent intelligente
+📘	apprendre école éducation lecture lire littérature livre bleu manuel scolaire roman
+🛬	arrivée atterrissage avion à l’atterrissage moyen de transport voyage
+🍘	cracker galette de riz nourriture
+🦚	animal bel oiseau coloré fier fière paon paonne prétentieux
+🎆	14 juillet artifice fête feu d’artifice
+🫌	chenille fragile insecte métamorphose papillon
+🤯	choc choqué surpris surprise tête choquée qui explose
+🟩	carré forme géométrique géométrie vert
+🈲	bouton interdit en japonais idéogramme
+😈	cornes émoticône fâché fantastique sourire visage souriant avec des
+💗	amour cœur battant grandissant qui bat pulsations sentiment
+🔼	bouton haut flèche petit triangle
+🎈	anniversaire ballon de baudruche gonflable fête
+🦀	animal astrologie cancer crabe horoscope mer pinces plage zodiaque
+🩸	don du sang goutte de médecine menstruation menstruations règles
+📄	document page
+🐋	animal baleine mer océan plage
+🍌	banane fruit nourriture potassium
+🤕	aïe bandage blessure bobo émoticône pansement tête avec un visage autour de la
+👡	chaussure à talon de femme sandale haut vêtements
+🏤	bâtiment bureau de poste européen
+🏓	balle jeu partie ping-pong raquette sport tennis de table
+🧁	cupcake dessert muffin pâtisserie sucre sucrerie
+🌲	arbre conifère feuilles persistantes forêt pin plante sapin de noël
+🎂	anniversaire bougies dessert fête gâteau d’anniversaire goûter joyeux nourriture pâtisserie
+💋	baiser bise bisou bouche embrasser lèvres rendez-vous rouge sexy trace de à
+🤔	émoticône hum méditer penser réfléchir réflexion visage en pleine
+⛳	drapeau de golf sport trou
+🧫	bactérie bactériologie biologie biologiste boîte de petri pétri culture labo laboratoire micro-organismes microbiologie science
+🥠	biscuit chinois nourriture prophétie
+👐	main mains écartées ouvertes ouvert
+😃	content dents émoticône formidable grand sourire heureux super visage souriant avec de grands yeux très la bouche ouverte
+👅	corps langue lécher
+🤨	euh hein incrédule méfiant pas vrai quoi sceptique surprise tête avec sourcil levé visage les sourcils relevés
+🎌	drapeaux croisés japonais
+💫	bande dessinée bd étincelles étoile filante étourdissement tournis voir des étoiles
+🤹	artiste cirque gérer jongler jongleur multitâche personne qui jongle
+📠	communication fax télécopieur
+🚪	placard porte d’entrée
+🥹	admiration ému fierté gratitude larmes de joie pleurs retenir ses triste visage retenant
+🌖	décroissant espace gibbeux lune gibbeuse décroissante nuit
+🙏	demander félicitations mains en prière l’une contre l’autre merci prier s’il te plaît vous salut se taper dans la main tope là
+🧑‍🎤	artiste chanteur tous genres chanteuse rock star
+🪥	brosse à dents brosser les dentaire hygiène laver salle de bain
+🏄	glisse homme mer océan personne faisant du surf plage planche sport vagues
+👩‍🔬	biologiste chimiste femme ingénieure mathématicienne métier physicienne scientifique
+🤺	épée escrime escrimeur escrimeuse personne sport
+🎠	cheval de manège
+🈳	bouton chambres disponibles en japonais idéogramme vide
+🔥	allumer brûler chaud feu flamme fournaise incendie
+🪿	animal bête cacarder canard jars oie oiseau troupeau volaille volée
+🍨	coupe de glace crème glacée dessert nourriture restaurant sucré
+🕓	16 h 4 quatre heures seize
+🔯	chance étoile à 6 branches judaïsme juif juive
+📉	baisse bas chute données graphique en négatif tendance
+🐀	animal rat
+👟	accessoire athlétisme basket chaussure de sport coup pied courir courses shopping tennis vêtements vite
+📯	cor de facteur postal poste
+😅	émoticône excité froid goutte sourire nerveux stressé sueur sueurs froides visage souriant avec une de
+🦛	animal hippo hippopotame
+🌛	croissant de lune espace à visage nuit premier quartier avec
+👔	chemise cravate travail vêtements
+🧡	coeur orange cœur
+❔	interrogation point d’interrogation blanc ponctuation question
+🐺	animal loup louve tête de
+🪹	branches faire son nid maison vide
+🤴	couronne prince royal royauté
+🌘	croissant de lune espace décroissante descendante nuit
+🩺	cœur diagnostic docteur médecin médecine poumons stéthoscope
+🍣	japonais nourriture poisson riz sushi
+🍢	brochette de poisson fruits mer nourriture restaurant
+🦐	aliment crevette crustacé fruits de mer nourriture
+🫺	ça droite neutre poing stop
+🍮	crème renversée dessert flan nourriture pudding sucré
+🥐	croissant nourriture pain petit-déjeuner viennoiserie
+🔖	marque-page marqueur signet
+🥟	boulette de pâte dumpling empanada gyoza jiaozi pierogi potsticker ravioli
+🎭	acteur actrice art masque spectacle vivant théâtre
+🈚	bouton gratuit en japonais idéogramme
+🚋	moyen de transport tram trolleybus voiture voyage wagon tramway
+🚦	carrefour croisement feu de circulation tricolore vertical
+😒	bizarre blasé émoticône énervé fâché jaloux pas content peu importe visage qui s’ennuie
+🔹	forme géométrique géométrie losange petit bleu
+🪴	décoration ennuyeux faire pousser intérieur nature plante en pot prendre soin
+🧰	boîte à outils caisse coffre mécanique mécano outil
+🦃	action de grâces animal dinde dindon oiseau thanksgiving volaille
+🍄	champignon vénéneux mario plante
+🟤	brun cercle disque marron forme géométrique géométrie rond
+🫱	droite main vers la serrer tenir
+🧟	effrayant flippant halloween horreur mort vivant mort-vivant personnage peur zombie
+👨‍🎤	acteur artiste chanteur homme métier rock rockeur star
+🫩	ensommeilé épuisé fatigué sommeil visage avec des valises sous les yeux
+🤗	câlin émoticône gentil mains visage qui fait un
+⏩	avance rapide bouton double flèche
+🕜	1 h 30 13 heure horloge treize heures trente une et demie
+📈	croissance données graphique en hausse haut tendance
+🦆	animal canard coin-coin oiseau
+🤼	bataille lutte lutteur lutteurs personnes faisant de la sport
+🎶	musique note notes de partition
+🦁	animal astrologie crinière fort horoscope lion roi rugissement safari savane tête de visage zodiaque
+🤏	à deux doigts petit petite quantité somme peu pouce et index rapprochés un
+🪄	abracadabra baguette magique magicien magie sorcier sorcière sort tour de
+🆖	bouton ng pas bien interdit mauvais
+😙	amour baiser bise bisou embrasser émoticône gros je t’aime sourire visage aux yeux rieurs faisant un souriants qui fait une fermés
+🙍	contrariée déçue embêtée femme froncer gênée geste mécontente pas contente personne fronçant les sourcils triste
+🚂	chemin de fer locomotive machine à vapeur moyen transport rail tchou train voyage
+👰	mariage mariée avec voile personne
+🚭	cigarette barrée fumer interdiction de interdit
+😨	anxieux apeuré blême effrayé émoticône inquiet peur terrifié visage
+🎼	musique note partition
+🤦	drame exaspération femme avec paume sur visage geste incrédulité incroyable j’en peux plus main pas possible de personne la le
+📞	combiné téléphonique communication téléphone
+🚎	bus moyen de transport tram tramway trolley trolleybus
+🔢	1234 chiffres saisie de
+🪣	conteneur plage seau
+😾	animal bouder chat en colère qui boude désaccord ennui tête de visage
+🥢	baguettes hashi
+🏑	balle crosse hockey sur gazon sport
+🎢	attractions montagnes parc d’attractions russes
+🐭	animal souris tête de visage
+😧	angoisse comment émoticône hein mécontent oubli peur quoi stressé surpris terrifié visage angoissé
+🐷	animal cochon ferme porc tête de visage
+🫣	captivé effrayé fasciné jeter un coup d’œil regarder fixement se cacher timide visage qui regarde entre ses doigts
+🍈	fruit melon
+🤛	fistbump gauche main poing à
+🙋	compte sur moi content femme qui lève la main geste ici je sais levée participer personne présente
+🚲	bicyclette cyclisme moyen de transport vélo voyage
+🍑	fruit nourriture pêche
+🌍	afrique espace europe globe présentant l’europe et l’afrique tourné sur monde planète terre
+👬	amis amitié amoureux couple deux hommes se donnant la main tenant fils frères gay gémeaux homosexuels jumeaux lgbt dans meilleurs petit ami rendez-vous zodiaque
+🐗	animal game of thrones sanglier
+🤎	brun cœur marron
+🚃	chemin de fer moyen transport rail train tram tramway voiture voyage wagon
+🎤	chanter karaoke karaoké micro microphone musique
+👿	démon diable diablotin émoticône fantastique malicieux mauvais visage en colère avec des cornes
+📡	antenne parabolique parabole satellite science
+🫨	choc étourdi fou omg ouah panique secoué surprenant tremblement de terre vibration visage
+🤜	droite main poing à
+🌰	châtaigne marron nourriture plante
+🐨	animal australie koala
+📚	apprendre bibliothèque école enseignement étudier lecture lire littérature livres manuels scolaires roman savoir
+🌿	arbre feuille feuilles plante
+♍	astrologie horoscope vierge zodiaque
+📂	dossier ouvert ouvrir le répertoire
+🔠	abcd alphabet latin lettres latines majuscules saisie en
+🔗	chaîne chaînons maillons mousqueton
+🔱	ancre bateau fourche mer poséidon trident
+🥒	concombre cornichon légume nourriture
+⏪	bouton retour rapide double flèche
+🥁	baguette baguettes batterie musique tambour
+📅	calendrier date
+👨‍🦼	accessibilité fauteuil roulant handicap homme en motorisé
+🍚	bol de riz nourriture
+🐆	animal félin léopard prédateur zoo
+☔	gouttes météo parapluie avec de pluie
+🍼	bébé biberon boisson lait naissance nouveau-né tétine
+🎳	boule bowling jeu partie quilles sport strike
+🪭	agiter chaleur charmer chaud danse danser éventail éventer rafraîchir timide
+🍉	fruit pastèque
+🎄	arbre fête fêtes guirlandes noël sapin de
+🔲	bouton carré noir forme géométrie
+🧑‍🌾	fermier tous genres fermière jardinier jardinière
+🚩	drapeau rouge triangulaire fanion golf
+🦓	animal noir et blanc rayure rayures zèbre zébrure
+🍗	cuisse de poulet dinde nourriture os volaille
+🥮	automne festival gâteau de lune moon cake yuèbǐng
+🏪	24h/24 bâtiment épicerie magasin supérette supermarché
+🍓	fraise fruit nourriture
+🤚	dos de main levée
+📩	communication courriel courrier électronique e-mail enveloppe avec flèche envoi envoyer message envoyé
+📓	cahier carnet écrire
+👥	amis bff bustes gens meilleur ami meilleure amie meilleures amies meilleurs personnes silhouettes de tout le monde
+📊	données graphique graphiques à barres
+🗽	liberté new york statue de la voyage
+🕒	15 h 3 heure horloge quinze heures trois
+🪋	apocalypse boule de feu chute espace étoile gravité roche
+👓	accessoire lunettes de vue œil vêtements yeux
+🚰	eau du robinet potable
+🎽	athlétisme course à pied jogging maillot de running sport tee-shirt
+😴	bonne nuit coucher dormir émoticône endormi fatigué sieste sommeil visage somnolent zzz
+🎦	caméra cinéma film
+🥏	discoplane disque volant disque-volant frisbee sport ultimate ultime-passe
+🦡	animal blaireau ratel
+🎨	art artiste couleurs musée de peinture palette peindre peintre
+🍖	nourriture os viande sur un
+🔍	agrandir chercher détective loupe gauche orientée à recherche
+🌹	amour beauté fleur plante rose rouge saint-valentin
+👩‍🚀	astronaute casque cosmonaute espace femme fusée métier spationaute
+🐚	animal conque coquillage coquille en spirale mer plage
+🎰	casino jeu machine à sous
+🕺	danse danseur femme fête flamenco homme qui rythme salsa
+🔡	abcd alphabet latin lettre lettres latines minuscules saisie de
+👩‍🦯	accessibilité aveugle déficiente visuelle femme avec canne blanche handicap malvoyante
+🕍	judaïsme juif juive religion synagogue temple voyage
+🛁	baignoire bain mousse
+💘	amour cœur et flèche coeur transpercé cupidon sentiment
+🥍	balle but crosse lacrosse raquette sport
+🧑‍🔧	artisan électricien électricienne mécanicien tous genres mécanicienne plombier
+😍	amour amoureux cœur émoticône œil romantique sourire visage souriant avec yeux en forme de
+🆑	bouton effacer cl icône
+🧃	boisson briquette de jus carton fruits paille
+👒	chapeau de femme vêtements
+♌	astrologie horoscope lion zodiaque
+🌞	chaleur chaud éclatant ensoleillé jour lumière météo plage rayon de soleil à visage avec
+🍆	aubergine légume nourriture
+😊	content émoticône heureux œil rougir satisfait sourire visage qui rougit souriant avec yeux rieurs souriants
+🫸	arrêter attendre bloquer droite halte high five main qui pousse vers la pousser refuser stop tape m’en cinq top là
+💲	argent devise dollar espèces payer symbole
+🦍	animal gorille primate
+🌈	arc-en-ciel bisexuelle gay pride homosexuelle lesbienne lgbtqia météo nature pluie transgenre
+🙂	content émoticône heureux léger sourire visage avec un souriant
+🧭	boussole compas direction magnétique navigation orientation
+👞	accessoire chaussure d’homme coup de pied courses homme marron shopping vêtements
+🩳	baignade caleçon maillot de bain piscine plage short sous-vêtement
+🧑‍🚀	astronaute fusée
+🕚	11 h 23 heure horloge onze heures vingt-trois
+😵	émoticône fatigué malade mort tournis visage avec le étourdi
+📿	accessoire chapelet collier perles prière religion vêtements
+🤓	doué futé geek idiot intelligent lunettes personne premier de la classe ringard surdoué tronche visage
+🪀	descendre jouet monter osciller yoyo
+🏫	bâtiment école
+🍹	alcool bar boîte cocktail tropical fête tequila sunrise verre
+🕝	14 h 30 2 deux heures et demie heure horloge quatorze trente
+🕠	17 h 30 5 cinq heures et demie dix-sept trente heure horloge
+📟	bip bipeur communication pager
+🎵	musique note de
+👙	bikini maillot de bain nager piscine plage vêtements
+🩲	maillot de bain slip sous-vêtement une pièce
+🤑	argent dans les yeux et la bouche dollars émoticône
+🚛	camion moyen de transport poids lourd semi semi-remorque véhicule
+🥘	casserole espagne paella plat mitonné poêle riz
+😘	amour baiser bise bisou et cœur bonjour bonne nuit embrasser émoticône je t’aime visage envoyant un qui fait une avec
+🛺	rickshaw taxi thaï tricycle tuk
+👱	blond cheveux garçon homme humain personne blonde tête visage
+🛂	contrôle des passeports passeport
+🪓	bois bûcheron fendre hache hachette
+🫝	condiment pickle saumure vinaigre
+🔞	18 ans et plus dix-huit interdiction interdit aux mineurs moins de limite d’âge majorité mineur
+🤝	d’accord main mains marché conclu poignée de présentation rencontre serrer la
+📒	cahier carnet de compte classeur grand livre
+🚥	carrefour croisement feu de circulation tricolore horizontal
+🔊	enceinte fort haut-parleur d’enceinte musique son volume des enceintes élevé
+🐴	animal cheval dressage équitation ferme jument tête de
+😕	confus désolé émoticône ennuyé je ne sais pas triste visage
+🫑	légume piment poivron rouge vert
+🫄	enceinte grossesse personne trop mangé ventre
+🪐	anneaux planète à saturne saturnien saturnienne
+🏅	champion championne médaille d’or sportive sport vainqueur victoire
+🏯	bâtiment château japonais voyage
+🌊	eau kanagawa lame large marée mer nature océan remous rouleau surf vague
+💿	blu-ray cd disque dvd
+🪦	cimetière enterrement funérailles mémorial mort pierre tombale rip sépulture stèle tombe
+⚾	balle de baseball sport
+👈	doigt gauche index pointé vers la main avec pointant à
+🦒	animal cou girafe taches
+🌗	dernier quartier de lune espace
+🚸	circulation école enfants piétons traversée d’enfants
+🤳	appareil photo selfie téléphone
+🏀	ballon basket basket-ball panier sport
+🚏	arrêt de bus
+🥷	assassin combat furtif guerrier masqué ninja personne sabre secret soldat
+⚽	balle ballon de football sport
+🚖	joe le taxi new york de face jaune uber voiture
+👂	corps écouter entendre oreille ouïe son
+👝	accessoire pochette sac à main trousse vêtements
+📵	interdiction interdit portable téléphone téléphones portables interdits
+🐳	animal baleine avec évent soufflant par son mer océan plage souffle
+😯	émoticône incroyable omd sans voix stupéfait stupeur surpris visage à la bouche ouverte ébahi
+🍫	barre chocolatée chocolat dessert goûter nourriture sucré
+🌋	éruption lave nature volcan
+🧝	conte elf elfe le seigneur des anneaux legolas magique oreilles personnage
+💛	amour cœur jaune sentiment
+👨‍💻	codeur développeur homme informaticien inventeur logiciels métier technologie
+🐃	animal buffle corne zoo
+🧆	boulette boulettes falafel falafels pois chiches seitan soja viande
+💎	argent bijou diamant fiançailles joyau mariage pierre précieuse romantique
+🧑‍🚒	camion de pompiers pompier
+📷	appareil photo selfie vidéo
+⛪	bâtiment chapelle chrétien croix église religion voyage
+🚵	coureur cyclisme grimper homme en vtt montagne personne sport tour de france vélo
+🐟	alimentation animal astrologie horoscope manger nourriture poisson poissons repas zodiaque
+🤥	émoticône mensonge menteur pinocchio visage de dont le nez s’allonge
+😛	cool émoticône génial langue super visage qui tire la
+🦵	coup de pied cuisse genou fléchi genoux jambe membre
+🪒	coupant lame raser rasoir tranchant
+💈	barbier coiffeur coiffure enseigne de salon
+📹	caméra caméscope filmer vidéo
+🛵	scooter
+💸	ailes argent billet avec des de banque dollars payer
+🔦	lampe électrique torche lumière outil
+🧑‍🧑‍🧒‍🧒	adulte enfant famille
+🚳	bicyclette interdiction interdit vélo vélos interdits
+🪵	arbre bois bûche bûcheron rondins tronc
+😂	content émoticône heureux joie larmes lol mdr pleurer de rire aux sourire visage riant
+🐦	animal oiseau ornithologie
+🔩	boulon écrou outil travaux vis et
+🤠	chapeau cowboy visage avec de
+🔉	enceinte haut-parleur d’enceinte son volume des enceintes moyen
+💇	barbier beauté cheveux ciseaux coiffure coupe de couper femme qui se fait les personne salon style
+🧓	adulte âgé genre neutre non-genré personne âgée
+👼	ailes ange auréole bébé église émoticône fantastique visage
+🪠	bouché déboucheur dégorgement outil plombier succion toilettes ventouse
+👨‍💼	affaires architecte bureau cadre directeur employé de homme métier
+🔃	actualiser flèche flèches dans le sens horaire des aiguilles d’une montre symbole recharger
+🦦	animal joueur loutre mignon pêcheur
+🗻	mont fuji montagne nature sommet voyage
+🐖	animal cochon ferme gros jambon porc truie
+🧲	aimant aimanter attirer attraction fer à cheval magnet magnétique positif négatif
+🚻	panneau toilettes wc
+💤	bande dessinée bd bonne nuit dormir endormi fatigué ronfler zzz
+🔌	branché câble avec fiche électrique électricité prise
+🏺	amphore astrologie cuisine grec grèce horoscope vase verseau zodiaque
+📻	actualités communication loisirs musique radio vidéo
+🧑‍🦯	accessibilité aveugle personne avec une canne blanche
+🪗	accordéon bandonéon concert concertina instrument mélodie musique piano à bretelles
+🍱	bento boîte déjeuner nourriture
+🔘	bouton forme géométrie géométrique radio rond
+🕙	10 h 22 dix heures heure horloge vingt-deux
+👻	blague bouh créature effrayant fantastique fantôme halloween hanter monstre peur visage de
+🧉	boisson maté
+🫀	anatomie battement de coeur battements cardiologie cœur organe pouls pulsation
+🦭	animal lion de mer océan otarie phoque
+👨‍🔬	biologiste chimiste homme ingénieur mathématicien métier physicien scientifique
+🐫	animal bosse chameau à deux bosses désert
+♉	astrologie horoscope taureau zodiaque
+👨‍🍳	chef cuisinier homme métier
+🚢	bateau croisière moyen de transport navire paquebot titanic voyage
+🥽	lunettes de chimiste labo piscine protection soudage soudure masque natation des yeux
+🚟	moyen de transport train suspendu voyage
+🔶	forme géométrique géométrie grand losange orange
+🪡	aiguille à coudre broderie couture fil points suture tailleur
+⛺	camping nature tente voyage
+🙁	émoticône mécontent triste visage légèrement
+👾	alien créature envahisseur espace extraterrestre fantastique jeu vidéo monstre de l’espace ovni pixels
+💷	argent billet de banque en livres payer
+🏉	ballon rugby sport
+❓	interrogation point d’interrogation rouge ponctuation question
+👩‍🎨	artiste femme métier palette peintre
+🐇	animal domestique lapin
+🌾	grain plant de riz plante
+🛷	glisser luge neige traîneau
+🌀	cyclone spirale tourbillon typhon vertige
+🦴	chien halloween os squelette
+👨	ami garçon homme personne petit pote
+💥	bande dessinée bd bombe boum collision détonation étincelles explosion
+🗿	île de pâques moai moaï monolithe statue voyage
+⛵	bateau mer moyen de transport plaisance voilier voyage yacht
+🫵	index pointant vers l’utilisateur pointer toi
+🏰	bâtiment château européen voyage
+🐞	animal bête coccinelle insecte jardin nature
+🚆	arrivée chemin de fer moyen transport rail train voyage
+🐕‍🦺	accessibilité aide animal assistance chien d’assistance chien-guide handicap
+🐮	animal lait meuh tête de vache visage
+🏮	japonais lampion rouge lanterne lumière restaurant
+😥	déçu émoticône ouf pfiou soulagé sueur triste visage mais
+🧤	gant gants main vêtements
+🐰	animal domestique dents lapin tête de
+🏨	bâtiment hôtel voyage
+🍕	fromage nourriture part pepperoni pizza tranche
+📗	apprendre bibliothèque école enseignement étudier lecture lire littérature livre vert manuel scolaire savoir
+🎇	14 juillet artifice cierge magique étincelle étincelles fête feu d’artifice
+🪳	animal blatte cafard coquerelle insecte nuisible
+⚡	courant danger éclair électricité haute tension nature orage symbole vitesse
+⏬	bas double flèche vers le rapide
+🍻	alcool bière boisson chopes de santé tchin trinquer
+🚺	femme symbole toilettes femmes wc
+👚	chemise chemisier courses femme shopping vêtements de
+🧳	bagage valise voyage
+♐	astrologie horoscope sagittaire zodiaque
+🚤	bateau été hors-bord luxe moyen de transport vedette voyage
+📝	bloc-notes crayon écrire mémo
+🪨	caillou dur lourd pierre roc roche rocher solide
+🍅	fruit légume nourriture plante tomate
+📁	dossier fichier répertoire
+🎁	anniversaire cadeau emballé fête noël nœud surprise
+🧑	adulte genre neutre non-genré
+🚒	camion de pompier pin-pon
+👷	bâtiment btp casque chantier construction homme métier ouvrier personne personnel du réparer
+🔤	abc alphabet latin lettres saisie de
+🚞	chemin de fer moyen transport rail train montagne voyage wagon
+🌐	globe avec méridiens terrestre internet monde net toile
+😸	animal chat avec un grand sourire qui sourit des yeux rieurs visage souriants
+🫡	armée bonne chance compris ok oui respect salut visage qui fait un militaire
+🟰	égal égalité mathématiques réponse signe gras
+🚬	cigarette allumée fumer fumeur signe
+🆒	bouton cool icône
+🍺	alcool bar bière boisson chope de oktoberfest picoler pinte santé
+🪏	bêche creuser pelle trou
+🐂	animal astrologie bœuf ferme horoscope taureau zodiaque
+🤙	appel main signe téléphonique avec les doigts téléphone
+♓	astrologie horoscope poissons zodiaque
+👵	âgée blonde dame émoticône femme grand-mère mamie personne sage
+🐧	animal antarctique banquise manchot oiseau pingouin
+❎	× bouton croix multiplier vert x
+🟫	carré brun forme géométrique géométrie marron
+🥩	côtelette d’agneau de porc morceau viande nourriture steak rouge
+🦾	accessibilité bras mécanique robot handicap prothèse de
+🎣	canne à pêche la ligne sport
+😌	calme émoticône sérénité soulagement visage soulagé zen
+🫷	arrêter attendre bloquer gauche halte high five main qui pousse vers la pousser refuser stop tape m’en cinq top là
+🐝	abeille animal bourdon guêpe insecte miel nature printemps
+🌻	champs fleur plante soleil tournesol
+✨	* étincelles étoile étoiles magie nuit étoilée scintiller
+🚽	cabinets toilettes wc
+🥑	avocat fruit nourriture
+👛	accessoire courses monnaie porte-monnaie sac à main shopping vêtements
+🌮	mexicain nourriture taco
+📋	fournitures liste porte-bloc presse-papiers
+🦊	animal nature renard tête visage
+⚫	cercle disque noir forme géométrique géométrie rond
+♒	astrologie eau horoscope verseau zodiaque
+🐈‍⬛	animal chat chaton félin halloween malchanceux matou miaou noir superstition
+🩵	143 aimer amour bleu ciel clair cœur cyan émotion jtm mignon spécial
+📤	boîte d’envoi courriel courrier électronique e-mail envoyer flèche lettre message
+🐐	animal astrologie capricorne chèvre ferme fromage horoscope lait zodiaque
+🧂	condiment salé salière saveur sel
+🎯	cible dans le mille fléchettes jeu
+🐻	animal miel nounours ours brun teddy tête visage
+🔨	marteau outil réparer travaux
+🚣	barque bateau lac naviguer pêche personne ramant dans une ramer rameur rivière sport
+👕	bleu chemise courses décontracté polo shopping t-shirt tee-shirt vêtements week-end
+🐼	animal panda tête de visage
+👃	corps narines nez odeur sentir
+📭	boîte aux lettres ouverte drapeau baissé courrier
+🚁	hélico hélicoptère moyen de transport véhicule
+🛻	auto camion benne camionnette pick-up pickup plateau poids lourd transports véhicule
+🕤	21 h 30 9 heure horloge neuf heures et demie vingt une trente
+🫅	monarque noble personne avec une couronne royal royauté
+🧑‍🦽	accessibilité fauteuil roulant personne en manuel
+🌱	germe jeune plant pousse plante plantule pousser printemps semis
+😪	émoticône fatigué larme pleurer sommeil triste visage endormi
+🧒	enfant genre neutre jeune non-genré
+🦤	animal dodo dronte espèce éteinte extinction grand maurice oiseau
+👢	accessoire botte de femme chaussure courses shopping vêtements
+📬	boîte aux lettres ouverte drapeau levé courrier
+🚼	bébé espace de change symbole
+🚑	ambulance urgences véhicule
+😞	abattu affreux découragé déçu émoticône malheureux tort triste visage
+🍸	alcool bar boisson club cocktail martini verre à pied
+🥵	chaleur chaud coup de fièvre sue suer toute rouge transpiration trop visage et tout
+🫔	mexicain nourriture pamonha papillote tamal
+👹	créature effrayant fantastique japonais masque monstre ogre
+😬	dents émoticône gêné grimace rien sourire visage grimaçant
+🤶	bonnet fêtes mère noël santa
+🎓	accessoire chapeau diplôme étudiant toque universitaire université vêtements
+👩‍🎓	diplômée étudiante femme
+🛖	abri case hutte maison maisonnette yourte
+🎬	action ça tourne clap film
+🤘	cornes avec les doigts du diable main rock rock’n roll yeah
+🕣	20 h 30 8 heure horloge huit heures et demie vingt trente
+🤫	chut pas un bruit silence tête qui dit visage avec doigt sur la bouche
+🔭	astronomie espace outil planètes science télescope
+🌸	bourgeon fleur de cerisier plante printemps
+🥻	inde mode robe sari traditionnel vêtement
+🎷	instrument musique saxophone
+😺	animal bouche ouverte chat qui sourit sourire visage
+😫	contrarié émoticône fatigue mécontent triste visage fatigué
+😀	content dents émoticône grand sourire heureux joyeux rire super visage rieur très souriant
+💭	bande dessinée bd bulle de pensée idée imaginer inventer invention penser rêve rêver
+🦼	accessibilité fauteuil motorisé roulant handicap
+👩‍💼	affaires architecte bureau cadre directrice employée de femme métier
+♿	accès handicapés fauteuil roulant mobilité réduite symbole
+🥄	couvert cuillère manger
+🧽	absorbante absorbe éponge laver nettoyage nettoyer poreuse savonner
+💵	argent billet de banque en dollars dollar payer
+🐹	animal domestique hamster tête de visage
+💾	disque disquette informatique ordinateur
+🌔	croissant espace gibbeux lune gibbeuse croissante nuit
+🥫	aliments en conserve boîte de nourriture
+💴	argent billet de banque en yens payer
+🦧	animal orang-outan primate singe
+🍶	boisson bouteille et verre restaurant saké
+⚪	blanc cercle disque forme géométrique géométrie rond
+🆙	bouton vers le haut icône nouveauté nouveau up
+😎	cool lunettes de soleil posé tranquille visage avec
+📐	équerre fournitures mathématiques
+🫧	bulle bulles propre savon sous l’eau
+💕	amour anniversaire cœurs deux roses petits rendez-vous sentiment
+😗	amour baiser bise bisou embrasser émoticône je t’aime petit visage faisant un qui fait une
+🫤	bof confus déçu euh frustration incertain sceptique visage avec bouche en diagonale
+💬	bande dessinée bd bulle de parole dialogue écrire message sms
+🛘	avalanche catastrophe coulée de boue danger glissement terrain montagne rochers tremblement terre
+🚚	camion de livraison camionnette moyen transport véhicule
+🔚	fin flèche vers la gauche
+💺	chaise fauteuil place siège
+🎉	anniversaire cotillons fête super
+🤲	espérer mains paume contre doigts vers le haut paumes des ensemble prier prière
+😔	abattu déçu émoticône horrible mort pensif perdu triste visage
+👋	à bientôt plus tard au revoir bonjour bye coucou hello il y a quelqu’un main qui salue salut signe de la
+🎊	anniversaire confettis fête
+💼	accessoire bureau cartable porte-documents
+🥬	bok choy chou chinois frisé pommé kale laitue légume à feuilles vertes salade
+🈸	application bouton en japonais idéogramme appliquer
+🚱	eau non potable imbuvable interdiction interdit ne pas boire
+🐄	animal ferme lait meuh vache
+⬜	carré forme géométrie grand blanc
+😝	dégoûtant émoticône goût horrible langue œil omd on ne vit qu’une fois peu importe visage qui tire la et ferme les yeux plissés fermés
+😓	émoticône froide mal de tête migraine mince ouf peur sueur triste visage démoralisé avec goutte et sueurs froides
+🩼	accident aide béquille blessé boiter canne handicap
+🙀	animal chat fatigué fatigue inquiet oh surpris tête de avec la bouche ouverte visage
+🧯	chaud éteindre extincteur feu fire incendie
+🦖	animal dinosaure t-rex t rex tyrannosaure tyrannosaurus
+🧑‍🧒	enfant famille adulte monoparentale
+🐒	animal primate singe
+🥴	bouche ondulée bourré bourrée dans les vapes hébété pas clair pompette rond saoul souler tête qui tourne visage éméché
+🧅	assaisonnement condiment légume ognon oignon
+🍙	boulette de riz japonais nourriture onigiri plat
+👨‍🚒	camion de pompiers casque pompier homme métier
+🪈	bois fanfare fifre flûte à bec flûtiste instrument musique orchestre piccolo
+🏏	balle de cricket batte jeu match sport
+👴	âgé chauve émoticône grand-père homme papi personne âgée sage vieux monsieur
+🦝	animal curieux raton laveur sournois
+🎲	dé dés hasard jeu
+🚡	moyen de transport télécabine tramway aérien
+😑	émoticône inexpressif mécontent neutre peu importe sans expression visage
+🥶	bleu ça caille froid gel gelé gelure glacé glacial glaçon visage et
+🚿	douche eau pommeau de
+🖕	doigt d’honneur main majeur
+🫆	dermatoglyphe données biométriques empreinte digitale identité sécurité
+🧑‍🍳	chef cuisinier tous genres cuisinière
+🫠	disparaître fondre gêne liquéfié liquide sarcasme se dissoudre visage qui fond
+🐑	animal bêler brebis doux ferme laine lait mouton
+🕐	1 h 13 heure horloge treize heures une
+🔑	clé mot de passe ouvrir serrure
+🚕	moyen de transport taxi jaune uber véhicule
+🎹	clavier instrument musique piano touches
+🦮	accessibilité animal aveugle chien guide malvoyant non-voyant
+📃	document page enroulée
+👨‍🔧	électricien homme mécanicien mécanique métier ouvrier plombier
+😄	content émoticône grand sourire heureux joyeux lol mdr rire mignon visage avec la bouche ouverte et les yeux souriants très souriant aux rieurs
+🥲	ému fier heureux larme reconnaissant smiley soulagé souriant touché visage avec une
+🫥	déprimé disparaître introverti invisible se cacher visage en pointillés
+🥤	boisson eau gobelet avec paille jus de fruit fruits soda verre une
+🥃	alcool liqueur tumbler verre whisky
+🗼	japon tokyo tour de voyage
+🙄	agacé émoticône excédé incrédulité roulement visage qui lève les yeux au ciel roule des roulant
+🦥	aï animal endormi lent paresseux
+🧞	aladin djinn génie homme lampe magique magie personnage souhait voeu vœu
+🤪	grand large oeil œil petit tête de fou folle yeux fous
+👩‍🍳	chef cuisinière femme métier
+🫘	haricot rouge haricots légume légumineuse nourriture petit rognon
+🥇	1er médaille d’or or premier
+🐘	animal éléphant pachyderme trompe
+🔻	bas flèche forme géométrie rouge triangle pointant vers le pointé
+🎡	attractions grande roue parc d’attractions
+🕢	19 h 30 7 dix-neuf heures trente heure horloge sept et demie
+💪	bande dessinée bd biceps bodybuilding contracté corps culturisme entraînement exercice force haltérophilie muscle muscles soulever
+🎒	cartable école sac à dos
+😢	émoticône horrible larme larmes malheureux pleurer triste visage qui pleure
+👨‍🦯	accessibilité aveugle déficient visuel handicap homme avec canne blanche malvoyant
+🫪	anxiété bouffi choc gonflé panique surprise vulnérabilité
+🔕	alarme désactivée barrée cloche silence
+📢	communication fort haut-parleur mégaphone message son
+🦟	fièvre infection insecte maladie malaria moustique piqûre virus
+🎅	bonnet fêtes magie noël père santa claus tradition
+❕	exclamation point d’exclamation blanc ponctuation surprise
+🤽	ballon homme qui joue au water-polo personne jouant piscine sport
+🗾	carte du japon voyage
+🔆	brillance lumière luminosité élevée soleil
+🤣	content drôle émoticône hilare joyeux larmes lol mdr pleurer de rire aux se rouler par terre tordre visage qui rit
+🦅	aigle animal oiseau rapace
+🧶	boule crochet fil laine pelote tricot
+🍇	fruit nourriture raisin
+🌯	burrito kebab mexicain wrap
+🌎	amérique espace globe présentant l’amérique tourné sur les amériques monde planète terre
+🀄	dragon rouge mahjong jeu mah-jong
+🦣	animal défenses extinction géant grand laineux mammouth
+🥝	fruit kiwi nourriture
+😻	amour amoureux chat souriant aux yeux en cœurs avec des coeurs dans les cœur sourire
+🎸	guitare électrique instrument musique
+⏫	double flèche vers le haut rapide
+🏩	amour bâtiment cœur hôtel love hotel voyage
+🥓	bacon lard nourriture porc viande
+➗	÷ algèbre diviser division math mathématique mathématiques signe
+🐦‍🔥	ailes cendres feu gloire immortel mythologie oiseau phénix renaissance renaître revivre transformation
+🔁	bouton répéter répétition flèche flèches en cercle sens des aiguilles d’une montre horaire
+👪	enfant famille avec un père une mère et fils femme garçon homme
+🤍	blanc cœur
+🪃	aborigène australie boomerang jeu outil répercussion retour
+🔧	clé à molette outil travaux
+🐶	animal domestique chien chiot tête de visage
+🦌	animal bois cerf
+🎋	arbre à vœux fête japon prières tanabata
+🕌	islam mosquée musulman musulmane religion voyage
+📔	cahier carnet avec couverture école écrire livre
+🕗	20 h 8 heure horloge huit heures vingt
+🐲	animal dragon mythe tête de tradition
+👊	absolument battre boum correct coup de poing d’accord main mon pote face serrer
+🫙	bocal condiments conserver pot récipient rien sauce vide
+🚇	métro moyen de transport
+🧏	accessibilité entendre malentendant oreille personne sourde sourd surdité
+🤐	bouche cousue émoticône fermeture éclair motus se taire secret visage avec
+👩	blonde coupe de cheveux femme personne
+🍡	bonbons brochette de dango dessert japonais nourriture
+📧	courriel courrier électronique e-mail lettre message
+🛜	connexion haut débit hotspot internet ordinateur réseau routeur sans fil smartphone wi-fi wifi wlan
+🐊	alligator animal caïman crocodile reptile zoo
+📌	fournitures punaise
+🕕	18 h 6 dix-huit heures heure horloge six
+⛲	eau fontaine
+🔫	arme à feu flingue pistolet eau revolver
+🍐	fruit nourriture poire
+⚓	ancre bateau outil voyage
+🪆	emboîté empiler jouet matriochka poupée gigogne russe poupées russes russie
+📦	boîte colis livraison paquet
+🧧	argent bonne chance cadeau enveloppe rouge hóngbāo lai see
+🪽	aile angélique aviation céleste mythologie oiseau s’élever s’envoler voler
+🎪	chapiteau cirque
+😏	arrogant charmeur émoticône malin ricaner rusé séducteur sourire suffisant suspicieux visage avec un
+🛄	aéroport arrivée avion bagages retrait des valise voyage
+♑	astrologie capricorne chèvre horoscope zodiaque
+🧑‍💼	affaires architecte bureau employé de tous genres employée
+🐁	animal souris
+🐌	animal escargot jardin lentement nature
+👩‍🌾	agricultrice femme fermière jardinière métier
+🕑	14 h 2 deux heures heure horloge quatorze
+🎀	fête nœud ruban rose
+📪	boîte aux lettres fermée drapeau baissé courrier
+🎮	jeu vidéo joystick manette playstation xbox
+🔴	cercle disque rouge forme géométrique géométrie rond
+🦞	animal bisque fruit de mer fruits homard pinces
+🛐	culte lieu de prier religion
+🛹	glisse longboard planche à roulettes skate skateboard
+👩‍🏭	assemblage femme industrie métier montage ouvrière usine
+🙅	aucune chance bloquer femme geste impossible interdit main niet non pas possible personne faisant un d’interdiction stop
+🏧	argent banque dab distributeur automatiques de billets guichet automatique retrait
+🧢	baseball cap casquette américaine de chapeau vêtements
+🫎	animal bois cervidé élan mammifère orignal ramure
+💁	aide diva femme information insouciante main personne paume vers le haut peu importe potins prétentieuse sarcastique sophistiqué
+🈶	bouton pas gratuit en japonais idéogramme payant
+🌺	fleur hibiscus plante
+🤬	censuré colère gros mots insulter insultes jurer juron tête avec des symboles sur la bouche visage dans
+🤢	dégoûtant écœuré émoticône malade nausée visage nauséeux vert qui a la vomir
+💃	danse danseuse femme qui fête flamenco rythme salsa sortir danser tango
+🦋	animal insecte mignon papillon printemps
+🐥	animal bébé nouveau-né oiseau poussin de face
+🚫	entrée interdite interdiction interdit symbole d’interdiction
+💞	amour anniversaire cœurs qui tournent deux sentiment tourbillon
+🥖	baguette nourriture pain
+🉑	acceptable accepter bouton en japonais idéogramme
+🚓	flic patrouille police véhicule voiture de
+🧑‍🔬	chimiste scientifique
+🔒	cadenas fermé privé verrouillé verrouiller
+🐦‍⬛	animal bec corbeau corneille corvidé croasser merle noir oiseau
+😐	émoticône gêné neutre ni chaud froid pas drôle peu importe rester de marbre sans commentaires rire visage expression
+🪘	battement conga djembé instrument musique percussions rythme tambour
+🎩	accessoire chapeau élégant haut de forme haut-de-forme magie vêtements
+👩‍🎤	actrice artiste chanteuse femme métier rock rockeuse star
+🦄	animal licorne licrone tête de
+🐠	animal poisson tropical
+🥥	coco fruit noix de nourriture palmier piña colada
+🧣	cou écharpe foulard froid glagla vêtements
+🎿	neige ski sport
+🌆	coucher de soleil crépuscule immeubles soir tombée la nuit ville au voyage
+🧐	classe collet monté fortune monocle riche tête avec vieux jeu visage un
+😭	émoticône larme larmes malheureux pleurer pleurs sangloter triste visage qui pleure à chaudes
+😰	aah bleu bouche bée effrayé émoticône froid mince nerveux peur bleue sueurs froides terrifié visage anxieux avec goutte de sueur en ouverte
+💣	bande dessinée bd bombe boum danger dessin explosion
+🐪	animal bosse désert dromadaire une
+👨‍🎓	diplômé étudiant homme
+👇	bas doigt index vers le main avec pointant montrer
+🥉	3e bronze médaille de troisième
+🚅	chemin de fer moyen transport rail rapide tgv train à grande vitesse voyage
+🥳	anniversaire célébration chapeau pointu émoticône fête heureux hourra joyeux sifflet visage de festif youpi
+👳	homme avec turban oriental personne en visage
+🎧	casque écouteur écouteurs musique son
+📨	courriel courrier électronique e-mail enveloppe envoyer lettre message reçu recevoir
+⭐	astronomie étoile nuit
+🫃	enceinte grossesse homme enceint personne trop mangé ventre
+🌌	espace voie lactée
+🧖	bien-être chaud détente hammam personne au dans un sauna relaxation spa vapeur
+🚠	montagne moyen de transport ski télécabine téléphérique
+🪙	argent euro fortune métal or pièce de monnaie riche sou trésor
+🌵	cactus désert épines nature piquant plante sécheresse
+😲	choc choqué émoticône étonné impossible incroyable omd stupéfait visage
+🙃	émoticône incroyable renversée tête à l’envers visage
+🚶	balade en route flâner homme marche marcher nonchalant personne qui piéton promenade se balader
+👤	buste mystère ombre silhouette de
+🛶	bateau canoë rame ramer
+🌓	espace lune nuit premier quartier de
+🌒	espace lune croissante nuit
+👽	alien créature émoticône espace extraterrestre monstre ovni science-fiction visage
+🕡	18 h 30 6 dix-huit heures trente heure horloge six et demie
+🐡	animal poisson poisson-lune
+🛃	douane douanes
+🥛	boisson lait verre de
+🛟	bouée de sauvetage flotter sauver sauveteur secours sécurité
+🫚	bière épice gingembre naturel racine de santé
+🍋	acide agrume citron fruit nourriture zeste
+🪶	écrire écrivain léger oiseau plumage plume voler
+🫹	ça gauche neutre poing stop
+👲	casquette mao chapeau homme avec chinoise
+🤰	enceinte femme
+🧹	balai balais balayage ménage nettoie nettoyage nettoyé nettoyer sorcière
+💑	amour anniversaire cœur couple avec femme homme rendez-vous
+⛅	caché météo nuage nuageux soleil derrière les nuages
+🩶	143 amour ardoise argent argenté cœur émotion gris jtm spécial
+🧨	dynamite étincelle explosif explosive feu d’artifice pétard tnt
+🏊	crawl eau exercice homme nage nageur natation personne nageant piscine sport
+🕟	16 h 30 4 heure horloge quatre heures et demie seize trente
+🩰	ballerines ballet chaussons de danse chaussures classique
+📀	blu-ray cd disque dvd
+🏃	arriver coureur courir course à pied homme qui court jogging marathon marathonien personne pressé rapide sportif vite
+🧜	ariel créature aquatique folklore mer océan personnage petite sirène queue de poisson trident triton
+🔽	bas bouton flèche petit triangle
+💻	bureau ordinateur portable travail
+🧋	boba boisson bubble tea bulle lait paille perle thé aux bulles perles froid zenzou
+🫏	âne animal bourricot mammifère mule têtu
+🪟	air frais cadre carreaux fenêtre ouverture transparent vitre vue
+🐢	animal carapace lentement reptile tortue
+😤	colère émoticône énervé fâché mécontent triomphe victoire visage avec fumée sortant des narines
+👨‍🚀	astronaute casque cosmonaute espace fusée homme métier spationaute
+👩‍💻	codeuse développeuse femme informaticienne inventrice logiciels métier technologie
+🦠	amibe bactérie biologie microbe microorganisme phagocytose pseudopode science virus
+🥺	embarrassé excuse gros yeux pardon pitié s’il te plaît supplication supplie visage implorant de chiens battus
+🤮	gerbe gerber malade tête qui vomit visage vomi vomissure
+❗	exclamation point d’exclamation rouge ponctuation
+🪼	aïe animal aquarium brûlure gélatineux invertébré marin méduse mer mou océan piqûre plancton tentacules vie marine
+🎺	instrument musique trompette
+🟥	carré forme géométrique géométrie rouge
+😶	émoticône muet ne rien dire neutre sans commentaires expression voix se taire secret silence sourdine visage bouche
+🧬	adn biologie biologiste évolution gène génétique science vie
+😵‍💫	confusion étourdi hagard malade nausée ouh la tête qui tourne visage aux yeux en spirales
+📸	appareil photo avec flash
+👩‍🔧	électricienne femme mécanicienne mécanique métier ouvrière plombier
+💧	bd eau froid goutte d’eau larme météo nature pluie sueurs froides tristesse
+🪂	chute libre parachute ascensionnel parapente sensations fortes
+🎃	citrouille halloween lanterne
+🫟	éclaboussure holi peinture tache
+💖	amour cœur étincelant étincelles sentiment
+💜	amour cœur sentiment violet
+🚀	décollage espace fusée moyen de transport voyage
+🎑	cérémonie de la lune
+🍦	cornet de glace dessert italienne nourriture sucré
+🥀	fanée fleur mort rose
+😣	concentré émoticône mal de tête migraine persévérant visage
+📰	actualités communication gros titres journal presse une
+🥊	boxe gant de sport
+🧑‍🏫	enseignant enseignante formateur formatrice personnel professeur
+🔺	flèche forme géométrique géométrie rouge triangle haut pointant vers le pointé
+📺	petit écran télé téléviseur télévision tv
+🦬	animal bison buffle cornes herbivore nature troupeau
+👸	conte de fées couronne fantastique personne princesse reine
+😋	bon content délicieux émoticône faim heureux langue manger miam savourer sourire visage souriant qui tire la
+👗	courses élégante jolie robe shopping vêtements
+🦎	animal lézard reptile
+🫳	chasser choisir faire partir laisser tomber main paume vers le bas ouste rejeter
+🥎	balle gant softball sports
+💉	aiguille docteur malade médecine piqûre seringue vaccin vaccination
+🪧	affiche écriteau grève manifestation pancarte panneau protestation signe
+🌃	étoiles nuit étoilée ville voyage
+📕	apprendre école enseignement lire littérature livre fermé rouge manuel scolaire savoir
+😇	ange angélique auréole béni bible émoticône heureux innocent paix sourire spirituel visage souriant avec
+🍃	bourrasque feuille virevoltante souffle tourbillon de feuilles vent virevolter
+🫒	aliment apéritif apéro nourriture olive olivier rameau
+🔜	bientôt flèche
+🧑‍🍼	allaitement bébé biberon homme maman mère nounou nouveau-né papa père personne allaitant un
+🚍	bus de face qui arrive car moyen transport
+🧄	ail aromate assaisonnement condiment légume vampire
+👯	amies bunny danseuse déguisement double femme femmes fête fille filles jumelles oreilles de lapin personnes avec des synchro
+🪤	apât appât fromage leurre piège à souris rat tapette
+🥸	déguisement espion faux nez grimer incognito lunettes moustache postiche smiley sourcils ébouriffés visage déguisé
+🥅	but cage filet sport
+🍪	biscuit cookie dessert gâteau goûter nourriture pépites de chocolat sucré
+🔎	agrandir chercher détective loupe droite orientée à recherche
+🩴	claquettes été mer plage sandales de tatanes tong tongs
+💢	bande dessinée bd colère dessin furieux symbole de
+🥙	falafel kebab nourriture pain pita
+🐈	animal domestique chat chaton miaou miauler
+📥	boîte de réception courriel courrier électronique e-mail flèche lettre message recevoir
+🚮	corbeille déchets icône poubelle jeter
+🟨	carré forme géométrique géométrie jaune
+🥼	blouse blanche docteur expérience expérimentation labo laboratoire manteau blanc médecin scientifique vêtements
+🧱	argile brique briques mortier mur de the wall voie 9 3/4
+🧈	beurre gras produit laitier
+💓	amour cardio cœur battant qui bat pulsations sentiment
+🎏	carpe fête koinobori
+♈	astrologie bélier horoscope zodiaque
+🛌	auberge bonne nuit coucher dodo dormir fatigué hôtel lit personne au sieste
+🦇	animal chauve-souris vampire
+🚐	bus minibus moyen de transport navette véhicule
+🐬	animal dauphin flipper mer océan plage
+🐅	animal félin prédateur tigre tigresse zoo
+🌉	nuit pont de
+🤌	agacement argumentation bout des doigts joints geste interrogation main parler avec les mains patience silence
+🛀	baignoire bain personne prenant un qui prend
+👶	bébé émoticône enceinte enfant nouveau-né petit
+🍁	automne érable feuille d’érable morte tomber
+🚜	moyen de transport tracteur véhicule
+💠	bande dessinée bd dessin diamant avec un point géométrie géométrique intérieur
+😚	baiser bise bisou les yeux fermés embrasser émoticône rougir visage faisant un avec qui fait une rougissant
+👮	autorité flic homme loi métier officier de police personne policier tenue uniforme
+🍥	croquette de poisson gâteau narutomaki nourriture restaurant surimi
+🧌	conte de fées légende monstre mythe troll troller
+👠	accessoire chaussure à talon haut de femme courses mode shopping stilletto aiguille vêtements
+🧑‍🎄	joyeux noël papa père personne saint-nicolas santa
+👩‍🏫	enseignante femme institutrice instructrice professeure
+🌴	arbre cocotier palmier plage plante tropical tropiques
+🏭	bâtiment usine
+🔷	forme géométrique géométrie grand losange bleu orange
+💡	allumer ampoule bande dessinée bd dessin idée lampe lumière
+🪾	arbre sans feuille aride hiver sécheresse
+🔙	flèche vers la gauche retour
+🫲	gauche main vers la serrer tenir
+💒	amour chapelle cœur église mariage
+🆔	bouton icône identifiant id
+🧑‍🩰	ballerine ballet danse classique danseuse
+🥪	nourriture pain de mie pique-nique sandwich
+⌛	chronomètre minuteur sable sablier temps
+🔀	bouton lecture aléatoire flèche flèches croisées
+😦	bouche déçu effrayé émoticône ouverte peur pris au dépourvu surpris visage avec mécontent
+🍄‍🟫	automne brun cèpe champignon fongus marron nature nourriture
+🦫	animal barrage castor dents rongeur
+🥚	nourriture œuf
+🛑	octogonal panneau signe stop
+🎫	billet place spectacle
+👺	colère créature fantastique farfadet japonais masque méchant monstre
+🤷	aucune idée c’est comme ça doute femme qui hausse les épaules haussement d’épaules ignorance indifférence je ne sais pas personne peut-être que faire sait
+🦏	animal corne rhinocéros
+🍿	cinéma nourriture pop-corn
+☕	boisson chaude café caféine matin thé
+📴	éteindre portable téléphone éteint
+👘	kimono vêtements
+🚈	métro léger monorail moyen de transport rail rer
+🧷	couche épingle à nourrice de sûreté imperdable lange punk rock
+🍔	burger cheeseburger fast food hamburger nourriture
+🔸	forme géométrique géométrie losange petit orange
+🎎	festival japon poupées japonaises
+🧘	détendu femme lotus méditation personne assise en position du dans la posture relax relaxation tailleur yoga zen
+🥾	camping chaussure de marche randonnée chaussures chantier montagne sécurité marron rando timberland vêtements
+🦙	alpaca alpaga animal guanaco laine lama llama pérou vicuña vigogne
+🆚	bouton vs contre icône versus
+🧦	chaussettes pieds vêtements
+🛕	bouddhisme hindou pagode religion stupa temple bouddhiste
+💝	amour anniversaire cœur avec ruban saint-valentin sentiment
+🔂	bouton répétition de la piste flèche flèches en cercle avec n°1 répéter une fois sens des aiguilles d’une montre horaire
+🌷	bourgeon fleur plante printemps tulipe
+🧑‍🧑‍🧒	adulte enfant famille
+🥰	adorer aimer amour béguin coeur cœurs j’adore je t’aime smiley avec 3 coeurs sourire visage souriant
+💍	alliance amour bague brillant diamant étincelant fiançailles mariage solitaire
+🕖	19 h 7 dix-neuf heures heure horloge sept
+🚷	interdiction interdit aux piétons
+🐾	empreintes d’animaux de pattes
+👨‍🎨	artiste homme métier palette peintre
+🍤	beignet de crevette
+🦢	animal cygne jeune oiseau vilain petit canard
+🔏	cadenas avec un stylo plume fermé confidentiel privé verrouillé
+⛄	bonhomme de neige sans flocons froid
+💀	corps crâne dead fantastique je suis mort squelette tête de visage yolo
+🏴	drapeau noir qui flotte au vent
+👍	+1 bien compris d’accord génial haut ok oui super
+🧑‍💻	développeur développeuse informaticien tous genres informaticienne logiciels technologie
+🪊	cuivre instrument jazz musique
+🌭	hot dog nourriture saucisse de francfort
+♎	astrologie balance horoscope justice zodiaque
+🪇	cha danse danser fête hochet instrument maracas musique percussion secouer
+💂	buckingham palace casque garde homme londres
+🛸	alien extraterrestre ovni soucoupe volante
+➰	boucle bouclette
+🎴	carte à jouer fleur fleurs japonais jeu des
+🦪	coquillage coquille huître mollusque perle
+🪯	deg tegh fateh foi khalsa khanda religion sikh sikhisme
+🛅	bagages casier clé consigne valise
+🉐	bonne affaire bouton en japonais idéogramme avantage
+🧑‍🏭	assemblage industrie ouvrier tous genres ouvrière usine
+🔰	chevron jaune et vert débutant symbole japonais de
+🫍	baleine marin océan
+♊	astrologie gémeaux horoscope zodiaque
+🍒	cerise cerises fruit nourriture
+🦘	austalie joey kangoo kangourou marsupial marsupiaux saut
+🦯	accessibilité aveugle canne blanche déficient visuel malvoyant
+🧼	bain bulles lavage laver me lave mousse pain de savon porte-savon se
+🧿	amulette l’oeil bleu mauvais oeil œil nazar boncuk nazarboncuk perle superstition talisman turc
+🎱	8 billard boule de magique huit jeu pool
+🍭	dessert goûter nourriture sucette sucré sucrerie
+🥈	2e argent deuxième médaille d’argent
+🔬	expérience laboratoire microscope outil science
+🤞	bonne chance croisés doigts main
+🍛	curry nourriture riz au
+👌	compris d’accord geste main nickel ok parfait super tout va bien
+👆	doigt haut index vers le main avec pointant montrer
+👉	doigt droite index pointé vers la main avec pointant à
+🎍	bambou décoratif fête japonais plante
+🧔	barbe barbu personne avec une barbue
+🦶	cheville coup de pied pas lourd
+🈺	bouton ouvert pour affaires en japonais idéogramme
+🧮	abaque boulier calcul calculation math mathématiques
+🏁	course automobile damier drapeau à formule 1 ligne d’arrivée sport vainqueur
+🙈	animal caché effrayé embarras gêne geste interdit ne pas voir non omd oubli peur rien vu entendu secret singe visage yeux
+🍠	nourriture patate douce au four
+🕋	islam kaaba musulman musulmane religion voyage
+🫓	arepa galette gordita lavash naan nourriture pain plat pita
+😠	colère émoticône exaspéré fâché frustré mécontent rageur sourcils froncés visage en
+🫶	amour cœur mains qui forment un
+🤖	androïde automate machine monstre robot visage de
+◾	carré petit moyen noir forme géométrie
+🤤	baver délicieux émoticône mmh visage qui bave
+🏹	arc et flèche archer astrologie horoscope sagittaire sport tir à l’arc zodiaque
+💔	amour cœur brisé malheureux sentiment séparé triste
+🍍	ananas fruit nourriture tropical
+🤱	allaitement bébé maman nourrice nourrir le sein soins
+👨‍🍼	allaitement bébé biberon homme allaitant un nouveau-né papa père personne
+👫	amis amoureux couple femme et homme se tenant la main donnant dans petit ami petite amie rendez-vous

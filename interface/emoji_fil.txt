@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « fil » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	bago button na new pindutan
+🧑‍🤝‍🧑	hawak hawak-kamay holding hands magkapareha magkaparehang magkahawak-kamay mga taong tao
+◽	hugis maliit medyo na puting parisukat puti
+⛽	diesel fuel pump gas gasolinahan
+🔓	hindi naka-lock kandado nakabukas na
+👄	bibig ganda halik labi lipstick maganda
+🍴	hapag-kainan kubyertos kutsilyo pagkain tinidor at
+🏒	hockey ice laro puck stick at sa
+💦	komiks laway mga patak ng pawis tumatalsik
+🎐	bell chime hangin wind
+😼	hehe mayabang nakangisi ngisi pusa pusang
+😉	flirt kindat kumikindat mukha
+📛	badge ng pangalan
+🚉	istasyon lrt mrt platform sasakyan tren
+💌	liham ng pag-ibig love letter puso sulat
+🆘	button na sos pindutan tulong
+🛙	dagat gabay ilaw liwanag ningas pag-asa pagdaragat paglalayag signal
+🍯	honey matamis pagkain pulot-pukyutan
+😿	luha malungkot mukha nalulumbay pusa pusang umiiyak
+🫜	beet gulay hardin turnip ugat
+😳	blush mukha nagulat nahihiya nakatitig namumula namumutla
+🚨	alerto emergency ilaw ng police car pulis pulisya sirena wangwang
+🚌	bus hatid sasakyan school sundo
+🌇	agaw-dilim araw cityscape dapit-hapon paglubog ng takipsilim
+🔝	arrow ibabaw itaas top tuktok
+🙊	huwag magsalita nang masama ipinagbabawal mukha speak no evil tahimik unggoy
+🐙	hayop lamang-dagat octopus pugita
+🕦	11 11:30 30 a las onse y medya orasan
+🕞	3 3:30 30 a las tres y medya alas oras
+🙌	hooray kamay masaya nagdiriwang nakataas na mga saya yehey
+🚗	auto automobile kotse maneho nagmamaneho sasakyan
+🕥	10 10:30 30 a las dies y medya orasan
+🥱	boring humihikab kaantok mukhang nababagot pagod smiley zzz
+🐎	hayop kabayo karera
+👩‍🚒	babae babaeng bumbero sunog trak
+🪉	alpa instrumento kupido musika orkestra pag-ibig
+🫁	baga organ pagbuga ng hangin paghinga pagsinghot
+📲	arrow cell mobile phone na may tanggap telepono
+💚	berde berdeng puso labyu mahal kita
+📶	antenna bar cell mga mobile signal telepono
+🫦	halik kagat kagat-labi labi landi lipstick nag-aalala ninenerbyos sexy
+🌅	araw dagat pagsikat ng umaga
+🌂	kagamitan lagay ng panahon mainit maulan nakasarang payong ulan
+🍲	kaserola ng pagkain nilaga sabaw
+🪜	akyat hagdan hakbang
+✅	ayos na checkmark kumpleto makapal marka putik puting tsek tapos
+📑	bookmark marker mga tab palatandaan
+👣	bakas disenyo mga ng paa yapak
+👀	dalawang mata katawan mga omg silip
+🤸	aktibo cartwheel excited gymnastics masaya sport tao taong nagka-cartwheel
+⭕	bilog makapal malaki malaking o
+😆	masaya mukha nakangiti nakapikit nakatawa nang ngiti smiley
+🔄	anticlockwise arrow button counterclockwise mga na naulit ulitin withershins
+🟢	berde berdeng bilog
+🧗	akyat bundok climber rock tao na umaakyat
+🌟	bituin kumikinang na kumikislap
+🤧	bahing bumabahing mukha singa sinisipon sipon
+🔛	arrow naka-on on
+🪫	low bat battery paubos ang baterya
+⏰	alarm clock huli late oras orasan
+🥕	carrot gulay pagkain
+➿	doble dobleng curly loop kulot silo
+🥂	baso cheers inumin mag-celebrate toast
+🪲	hayop insekto kulisap salaginto
+🩹	adhesive na bandaid bandage
+🟧	orange na parisukat
+📍	aspile bilog na pushpin lokasyon mapa pin
+😽	halik humahalik labyu mahal kita mata mwah nakapikit pusa pusang nang tsup
+🐤	hayop ibon manok sisiw
+🤵	groom kasal lalaki naka-tuxedo pormal tao taong tuxedo
+🛼	roller blade skate sports
+🧩	clue jigsaw puzzle
+🛝	laro padulas sa playground slide
+🔇	mute naka-mute naka-off ang speaker silent tahimik
+🏥	doktor gusali medisina ospital pagamutan
+🚔	paparating na police car patrol pulis pulisya sirena wangwang
+💶	banknote bill euro note pera salapi
+🥭	mangga prutas tropical
+🫂	akap kaibigan kumusta mahal paalam pag-ibig salamat tao na magkayakap yakap
+🔳	buton hugis loob may outline parisukat puti puting na button
+💹	chart graph paglago pagtaas pataas na may yen pera tsart
+🧺	basket paglalaba pagsasaka picnic
+😖	galit kadiri mukha nalilito nandidiri natataranta taranta
+🔐	kandado ligtas naka-lock nakasara nakasarang na may susi sarado
+🈯	hapon hapones na button para sa salitang nakareserba hapopnes ideograpya naka-reserve nakaparisukat ideograph ng daliri pindutan
+🏦	bangko gusali pera
+🍧	kinaskas na yelo matamis panghimagas shaved ice
+🧍	nakatayo nakatayong tao tumayo
+🟠	bilog orange na pabilog
+⛔	bawal pumasok hindi pwedeng huwag ipinagbabawal pagpasok trapiko
+✊	kamao kamay nakasarang nakataas na suntok
+🌜	buwan last quarter moon na may mukha
+😹	iyaktawa luha masaya mukha naiiyak pusa pusang sa kakatawa tumatawa
+🧾	accounting bookkeeping katibayan patunay resibo
+🪩	disco ball kinang party sayaw sayawan
+🏇	hinete horse racing jockey kabayo karera ng karerahan
+👦	bata batang lalaki binatilyo
+🏸	badminton racket racquet raketa shuttlecock
+🥜	gulay mani pagkain
+📱	cell komunikasyon mobile phone telepono
+🕎	hanukkah hudyo judaism judaismo kandelabra kandila menorah relihiyon
+🚙	recreational vehicle rv sasakyan
+🖤	itim na puso masama sama
+🪬	gabay hamsa hula kamay kapalaran palad suwerte
+🚴	bicycle bicyclist bike bisikleta cyclist lalaking nagbibisikleta siklista
+🍷	alak bar cheers club glass inumin tagay wine
+💊	bitamina doktor gamot pill sakit
+🍀	4 apat clover dahon four-leaf
+🪌	alisin burahin guhit ibalik kuskos mali pagkakamali pagsulat pagwawasto tanggalin
+😷	doktor mask may sakit suot na medical mukha sipon ubo
+📆	kalendaryo petsa pinipilas na pinunit
+🙉	hear no evil huwag makinig sa masama ipinagbabawal mukha nakatakip ang tainga unggoy
+💱	bangko palitan ng pera salapi
+🩻	buto kalansay skeleton x-ray
+🏠	bahay gusali tahanan umuwi uwi
+📙	aklat edukasyon libro orange na pag-aaral pagbabasa pagbasa
+🥔	gulay pagkain patatas
+💮	bulaklak puti white flower
+🥌	bato curling stone laro
+💩	dumi jebs mukha poop tae tumpok ng
+🍳	itlog kawali nagluluto pagkain prito sunny side up
+🦈	hayop isda pating
+🌼	bulaklak buttercup dandelion halaman
+😜	biro dila kumikindat nang nakadila mata mukha nakakindat
+🪁	lumipad pumailanlang saranggola
+⛎	ahas ophiuchus serpiyente zodiac
+🍾	bar bote boteng naalis ang takip champagne cork wine
+🧇	hindi makapagdesisyon makapagpasya iron waffle
+🛞	bilog goma gulong kotse sasakyan
+📜	dokumento kalatas
+🧎	lumuhod nakaluhod taong
+🌕	bilog na buwan full moon kabilugan ng kalawakan
+💽	computer disk minidisc minidisk optical optikal
+💙	asul na puso labyu mahal kita
+📏	ruler tuwid na
+🥡	balot oyster pail takeout box
+🕔	00 5 5:00 a las singko orasan
+🤩	bituin mga mata mukha ngumingisi star-struck wow
+🟦	asul na parisukat
+🐍	ahas hayop ophiuchus serpiyente zodiac
+🐉	dragon fairy tale fantasy
+🪎	alahas dyamanete ginto kayamanan loot mahahalaga pera pilak premyo
+💯	100 ayos buo gg iskor marka nays nice oks puntos sandaan sandaang
+🌝	bilog na buwan full moon may mukha
+♏	alakdan horoscope scorpio scorpion scorpius zodiac
+🪞	makeup reflector repleksyon salamin
+💅	cosmetics daliri kamay kuko manicure nail polish
+🫫	katatagan nababasag nadudurog pagbabago pagbunyag tensyon
+🈁	“dito” dito sa hapon japanese hapones na button para salitang katakana nakaparisukat koko pindutan
+🍵	inumin tasa na walang hawakan ng tsaa teacup
+⏳	buhangin hourglass na may bumabagsak orasan sandglass timer
+🌙	buwan crescent moon kalawakan ramadan
+🤭	kilig mukha na nakatakip ang kamay sa bibig oops sorpresa whoops
+🥗	berde pagkain salad na gulay
+🈹	diskwento hapon hapones na button para sa salitang diskuwento ideograpya ideyograpiya nakaparisukat ideograph ng paghati pindutan
+🔔	bell kampana kuliling timbre
+🦹	criminal kaaway kalaban kasamaan kontra-bida kriminal masama superpower supervillain
+🙎	babaeng nakasimangot ekspresyon expression naka-pout pout simangot taong
+🫴	alok halika hawak hingi nakasalong palad salo sambot tara
+👨‍🦽	lalaki sa manu-manong wheelchair pagiging naa-access
+🙇	paggalang paghingi ng paumanhin sorry tao yuko yumuyuko yumuyukong
+🔈	speaker na mahina ang sound volume
+🍋‍🟩	asim citrus prutas tropikal dayap maasim mojito salsa
+🪖	helmet pang-militar mandirigma militar sundalo
+🪰	bangaw hayop insekto itlog ng langaw nabubulok peste sakit
+👧	anak na babae bata batang dalagita pigtails
+🍂	dahon halaman nalagas na taglagas
+🍝	italian meatball pagkain pasta restaurant spaghetti
+🧑‍🦼	pagiging naa-access tao sa de-kuryenteng wheelchair
+🏂	niyebe ski snow snowboard snowboarder sport
+🏬	department store gusali mall tindahan
+🤾	bola hagis handball salo sambot sport tao taong naglalaro ng
+🌳	deciduous halaman lagas-dahon naglalagas ng dahon puno punong nalalagas ang
+🏐	bola laro volleyball
+🧴	bote ng losyon lotion moisturizer shampoo sunscreen
+💨	bilis bye humaharurot komiks layas naglaho nagmamadali tumatakbo
+🪱	annelid bulate earthworm hayop lupa parasite uod
+🫕	fondue keso lusaw luto pagkain swiss tsokolate
+🕧	12 12:30 30 a las dose y medya alas media oras orasan twelve-thirty
+🥣	agahan cereal lugaw mangkok na may kutsara oatmeal
+🍞	pagkain tinapay
+🌚	buwan kalawakan mukha new moon na may
+🦨	mabaho skunk
+🚹	banyo banyong panlalaki cr lalaki rest room
+🪅	pagdiriwang party piñata pista piyesta selebrasyon
+🪢	buhol nakapalupot tali
+🫢	di makapaniwala gulat hiya mukha na may mga nakabukas mata at kamay sa bibig paghanga pagkamangha takot
+🎻	biyulin instrumento musika stradivarius violin
+🛫	eroplano pag-alis ng pag-check in paglipad sasakyan sasakyang panghimpapawid
+💐	bouquet bulaklak bungkos ng mga halaman pag-ibig regalo
+👎	-1 boo daliri dislike hindi ok hinlalaki thumbs down
+🤟	astig ily kamay love-you gesture rak-en-rol
+♋	alimango cancer horoscope zodiac
+🦸	babaeng superhero batman hero heroine superman superpower
+👏	ang galing ayos gesture kamay palakpak pumapalakpak tuwa yehey
+🧚	diwata mitikal mito oberon pantasya puck titania
+🏢	gusali office building opisina trabaho
+🧻	pangbanyo papel rolyo ng tisyu toilet tissue
+🔅	button na diliman dim i-dim liwanag mababa madilim maliwanag pindutan
+🆓	button na free libre pindutan
+🪛	gamit screwdriver tornilyo
+📖	aklat aklatan edukasyon kaalaman libro nakabukas na nobela
+🍬	candy kendi matamis pagkain
+🃏	baraha joker sugal wildcard
+🧪	chemist chemistry eksperimento kemikal laboratoryo siyensya test tube
+🍟	french fries meryenda pagkain
+🌏	asia australia globo globong nagpapakita sa at mundo
+🧵	karayom pananahi sinulid spool tali
+🆎	ab blood type button na dugo pindutan uri ng
+👩‍🍼	babae babaeng nagpapadede ng sanggol nagpapasuso tao
+🕛	00 12 12:00 a las dose alas oras orasan twelve
+🍰	cake hiwa matamis pagkain panghimagas pastry shortcake
+🦩	flamingo magarbo tropikal
+😁	malaking ngiti mata mukha nakangiti nang malaki kasama ang mga pati
+⬛	hugis itim malaki malaking na parisukat
+🪻	bluebonnet bulaklak hyacinth lavender lupine snapdragon
+🖖	daliri kamay spock star trek vulcan salute
+🪍	hulihin kolektahin lambat patibong
+⌚	orasan relo relos wristwatch
+🐯	hayop mukha ng tigre
+🚧	barrier construction ginagawa harang
+🔵	asul na bilog hugis
+🌄	araw bundok pagsikat ng sa mga umaga
+🚾	aparador banyo comfort room cr kubeta palikuran toilet tubig washroom water closet
+📮	hulugan ng sulat koreo liham mailbox
+🦽	accessibility manu-manong wheelchair manual pagiging naa-access pwd
+🌁	bundok hamog lagay ng panahon mahamog tulay
+🫈	bigfoot cryptid higante kagubatan mabalahibo sasquatch woodwose yeti
+🦷	dentista ngipin puti puting
+🪺	kanlungan may lamang pugad na itlog mga
+🐜	hardin hayop insekto langgam
+🔋	baterya
+🟡	bilog dilaw na
+🌑	buwan kalawakan madilim new moon
+😩	ayaw ayoko na hala mukha nalulumbay pagod sawang sawa
+🛒	cart pamimili shopping trolley
+🆗	button na ok okay pindutan
+🪝	huli kawit sabit selling point
+🥞	crêpe hotcake pagkain pancake pancakes
+💳	card credit mag-swipe magbayad pera utang
+🦗	insekto kuliglig tipaklong
+🫛	beans edamame gisante gisantes gulay munggo pod
+🥧	palaman pastry pie slice ng
+🧸	laruan malambot stuffed toy teddy bear
+🧛	bampira buhay na patay costume drakula halloween nakakatakot supernatural
+🟪	lila lilang parisukat purple na
+🐱	alaga hayop mukha ng pusa
+🦺	kaligtasan life vest pang-emergency
+🈴	button grado ideograph japanese pasado
+🍏	apple berde berdeng mansanas halaman prutas
+🌠	bituin bulalakaw kalawakan shooting star tala
+❌	ekis kansela marka multiplication multiply x
+🐸	hayop mukha palaka prinsesa prinsipe
+🧀	dairy keso pagkain piraso ng
+🪕	banjo kwerdas musika stringed
+🐩	alaga aso hayop pet poodle
+🦻	hirap makarinig pagiging naa-access tainga na may hearing aid
+👩‍🦼	babae sa de-kuryenteng wheelchair pagiging naa-access
+🧙	mahika mangkukulam pantasya salamangkero wizard
+👨‍🏫	guro lalaki lalaking propesor titser
+💄	cosmetics date kolorete lipstick makeup
+🚘	auto automobile kotse paparating na sasakyan
+👨‍🏭	lalaki lalaking manggagawa sa pabrika obrero trabahador
+🏣	gusali japanese post office
+🫐	asul berry bilberry blueberries blueberry pagkain
+🦑	hayop pagkain pugita pusit
+🐵	hayop mukha ng unggoy saging
+🧊	ice cube iceberg malamig yelo
+🤿	dive mask diving scuba snorkeling
+📼	luma makaluma tape vhs video cassette videocassette videotape
+💟	dekorasyong puso mahal kita purple na puting
+🎥	bollywood camera cinema hollywood movie palabas pelikula record
+🧥	jacket kapa lamig panlamig
+🐽	baboy hayop ilong ng oink
+👭	babae dalawang babaeng magkahawak-kamay hawak-kamay holding hands kamay lgbt magkaibigang magkapareha magkapatid na pagkakaibigan queer
+🚝	lrt monorail mrt sasakyan tren
+🩷	cute gusto kulay rosas pink na puso
+🧑‍🎓	estudyante graduate mag-aaral nakapagtapos
+🏡	bahay na may hardin gusali tahanan
+😮‍💨	buntong-hininga exhale haay mukhang humihinga palabas pagod smiley
+🔣	〒♪&% ilagay input na mga simbolo
+🪚	gamit kahoy karpintero lagari
+🧕	babae na may headscarf babaeng bandana hijab mantilla tichel
+🦂	alakdan insekto scorpio scorpion scorpius zodiac
+➖	- − malaking minus sign matematika simbolo
+😮	bibig gulat hala mukha nabigla nagulat nakanganga nganga wow
+🪸	climate change corals dagat korales reef
+🚊	lrt mrt sasakyan tram trambiya tren trolley
+😟	balisa mukha nag-aalala nase-stress ninenerbyos
+📇	card index rolodex
+🌽	busal ng mais corn halaman
+📫	hulugan koreo liham mailbox nakasara nakasarang na may nakataas flag sarado saradong sulat
+🚄	bullet train high-speed sasakyan shinkansen tren
+🧑‍🎨	palette pintor
+🪪	card id identification lisensya
+🫖	inumin pagkain teapot tsaa
+🕘	00 9 9:00 a las nuwebe alas nwebe oras orasan
+🈵	bakante hapon hapones na button ideograph ng walang para sa salitang “no vacancy” ideograpya japanese nakaparisukat kasapatan pindutan wala
+🐔	hayop ibon manok poultry
+👩‍🦽	babae sa manu-manong wheelchair pagiging naa-access
+🛗	elevator pagiging naa-access
+🍊	dalanghita halaman orange prutas vitamin c
+🤒	lagnat may thermometer sa bibig mukha sakit trangkaso
+🎾	bola ng tennis sport ball
+🤡	clown mukha ng payaso
+💰	bag balot pera supot ng
+🛴	micro scooter
+🪷	bulaklak ganda kapayapaan lotus
+🦉	ibon kuwago matalino owl
+🐛	bug insekto uod
+📣	announcement anunsyo malakas megaphone
+😱	kabado mukha natatakot sumisigaw sa takot tumitili
+🥨	baluktot pretzel
+📎	clip pang-ipit papel paperclip
+🍩	donut doughnut matamis meryenda pagkain panghimagas tinapay
+🐕	alaga aso bantay hayop pet
+🧑‍🧒‍🧒	bata pamilya adulto
+🪮	afro buhok ipit sa pampili ng pang-ipit suklay suyod
+🫗	aksidente binubuhos na likido oops salin tapon tubig
+📳	cell komunikasyon mobile naka-vibrate telepono vibration mode
+💏	couple halik maghahalikan magjowa magkasintahan pag-ibig puso romansa sinta
+🔮	bola bolang kristal hula kapalaran magic mahika manghuhula salamangka
+🙆	ayos gesture kamay nagpapahiwatig na ok pwede
+🏈	american bola football
+🥿	ballet flat na sapatos kumportable slip-on tsinelas
+🦿	bakal na binti mekanikal pagiging naa-access prosthetic
+💆	masahe mukha nakaka-relax pagpapamasahe ng parlor relax salon spa therapy treatment
+🫯	away bugbugan debate hindi pagkakasundo pagtatalo sapakan suntukan
+🫰	<3 kamay na magkakrus ang hintuturo at hinlalaki mahal pag-ibig pera pitik puso
+🥯	bagel bake bakery bilog pagkain panaderya tinapay
+🦜	ibon loro nagsasalitang pirata
+👨‍🌾	hardinero lalaki lalaking magsasaka rantsero
+👖	damit jeans kasuotan maong pang-ibaba pantalon
+🦕	brachiosaurus brontosaurus dinosaur diplodocus sauropod
+🚯	basura bawal huwag ipinagbabawal kalat magkalat
+🩱	bathing suit one-piece na swimsuit panligo
+➕	+ makapal na plus sign malaking matematika senyas
+😡	galit inis mukha nagngingitngit nakasimangot at nakakunot ang noo namumula nanggigigil pikon poot yamot
+🥋	judo karate martial arts uniform taekwondo uniporme
+🐣	bagong pisang sisiw bagong-pisang hayop ibon manok
+👑	hari kaharian kasuotan korona reyna
+🏆	champion kampeon panalo premyo sports tropeo trophy
+🦔	hedgehog matinik
+✋	apir high five hinto kamay nakataas na palad
+🔪	armas kutsilyo pagluluto patalim sandata
+🪔	diya lampara lamparang langis
+🐏	aries hayop lalaking tupa ram zodiac
+🟣	bilog lila lilang purple
+🥦	broccoli gulay wild cabbage
+👜	bag handbag pambabae
+🍎	apple halaman mansanas prutas pula pulang
+🍜	mainit na noodles mangkok noodle pagkain ramen
+🐓	hayop ibon lalaki manok sabong tandang
+🪑	silya umupo upuan
+🧠	matalas matalino utak
+📘	aklat asul na libro edukasyon pagbabasa pagbasa
+🛬	eroplano pagbaba pagdating ng paglapag sasakyang panghimpapawid
+🍘	ampao ampaw kanin pagkain rice cracker
+🦚	ibon makulay pabo peacock
+🎆	bagong taon fireworks pagdiriwang paputok selebrasyon
+🫌	higad insekto marupok metamorphosis pag-asa pagbabago pagbabagong-anyo pagdayo
+🤯	nabigla sumasabog na ulo
+🟩	berde berdeng parisukat luntian
+🈲	bawal hapones ideograph ideograpya japanese nakaparisukat na ng pagbabawal pindutan
+😈	demonyo fantasy masama mukha nakangiti nang may mga sungay
+💗	chuvachuchu excited kinakabahan labyu lumalaking puso nasasabik tumitibok xoxo
+🔼	arrow button na itaas pataas pindutan tatsulok
+🎈	kaarawan lobo pagdiriwang
+🦀	alimango alimasag cancer hayop lamang-dagat talangka zodiac
+🩸	blood donation donasyon ng dugo gamot patak regla sugat
+📄	dokumento page pahina pahinang nakaharap papel
+🐋	balyena hayop isda willy
+🍌	banana halaman potassium prutas saba saging
+🤕	aksidente benda injury may sa ulo mukha nasaktan sugat
+👡	kasuotan pambabae pambabaeng sandals sandalyas sapatos
+🏤	gusali koreo liham padala post office sulat
+🏓	bat bola paddle ping pong table tennis
+🧁	bake cupcake dessert matamis pagkain panaderya panghimagas sweet
+🌲	christmas tree evergreen halaman puno
+🎂	birthday cake kaarawan matamis pagkain panghimagas pastry selebrasyon
+💋	halik labi lipstick marka ng mwah tsup
+🤔	hmm isip mukha nag-iisip nagtataka
+⛳	butas flag sa golf
+🧫	bacteria bakterya biologist biology culture laboratoryo mikrobyo petri dish
+🥠	fortune cookie hula
+👐	bukas-palad gesture kamay palad yakap
+😃	masaya mukha nakangisi na may malaking mga mata nakangiti ngiti saya yehey
+👅	belat dila panlasa
+🤨	ano hmm medyo nasorpresa mukhang nakataas ang kilay nagdududa walang tiwala
+🎌	bandila hapon japan magkaekis na magkakrus
+💫	bituin bulalakaw comet hilo komiks nahihilo shooting star tala ulo umpog
+🤹	balanse juggle multitask skill taong nagja-juggle
+📠	fax machine telepono
+🚪	labasan pasukan pinto pintuan
+🥹	awa lungkot mukhang nagpipigil ng luha nahihiya naiiyak pakiusap please tears of joy
+🌖	buwan gibbous kalawakan waning moon
+🙏	dasal humihiling kamay magkalapat na mga palad nagdarasal nagpapasalamat nakikisuyo please salamat sana yuko
+🧑‍🎤	aktor entertainer mang-aawit rakista star
+🪥	banyo kalinisan malinis ngipin sipilyo
+🏄	alon dagat sport surf surfer surfing taong nagsu-surf
+👩‍🔬	babae babaeng siyentipiko engineer scientist
+🤺	espada fencer fencing sport tao
+🎠	amusement park carousel kabayo sa merry-go-round
+🈳	bakante hapones ideograph ideograpya japanese nakaparisukat na ng pindutan
+🔥	apoy baga hot init mainit
+🪿	bumubusina fowl gansa hangal ibon
+🍨	dessert halo-halo ice cream matamis pagkain panghimagas sorbetes
+🕓	00 4 4:00 a las quatro oras
+🔯	bituin david hudyo jew jewish judaism kapalaran relihiyon six-pointed star na may tuldok suwerte swerte
+📉	bumababang chart graph negatibo pababa tsart uso
+🐀	daga hayop peste
+👟	kasuotan pang-atleta rubber shoes running sapatos shopping sneakers tennis
+📯	horn post postal trumpeta
+😅	hala kabado kinakabahan malamig mukha nakangising na may pawis nakangiti nakatawa nanlalamig ngiti stress
+🦛	hayop hippo hippopotamus
+🌛	buwan first quarter moon na may mukha
+👔	damit empleyado kausotan kurbata necktie opisina pormal
+🧡	dalandan orange na puso pusong
+❔	bantas marka naka-outline puting tandang pananong tanong
+🐺	hayop lobo mukha ng
+🪹	bakanteng pugad kanlungan
+🤴	prinsipe
+🌘	buwan crescent kalawakan waning moon
+🩺	doktor gamot medicine medisina puso stethoscope
+🍣	japanese kanin pagkain seafood sushi
+🍢	fishball kikiam nakatuhog oden pagkain seafood tuhog
+🦐	hipon maliit pagkain shellfish sugpo
+🫺	ito iyon kanan kapit neutral turo
+🍮	custard dessert matamis pagkain panghimagas pudding
+🥐	croissant french pagkain tinapay
+🔖	bookmark palatandaan
+🥟	dumpling empanada gyoza jiaozi pierogi potsticker siomai siopao
+🎭	aktor aktres maskara pagtatanghal pantanghalan sining tanghalan teatro
+🈚	button na libre hapones nagsasabing ideograph ideograpya japanese nakaparisukat ng hindi pagsang-ayon pindutan singil
+🚋	sasakyan tram car trambiya tren trolley bus trolleybus
+🚦	patayong traffic light signal stop tawiran trapiko
+😒	bagot coolstorybro galit hindi masaya natutuwa inis irap mukha nagseselos pikon
+🔹	asul na diyamante diamante hugis maliit diamond
+🪴	bahay boring halaman kalikasan nakapasong pag-alaga palakihin walang silbi
+🧰	kaban kagamitan kahon ng mekaniko pulang toolbox
+🦃	hayop pabo thanksgiving turkey
+🍄	halaman kabute mario mushroom
+🟤	bilog na kulay brown
+🫱	abot handshake kamay kanan kanang pakanang
+🧟	apocalypse buhay na patay halloween horror kakatakutan nakakatakot walking dead zombie
+👨‍🎤	aktor artista bokalista lalaki lalaking mang-aawit manganganta rakista rock rockstar singer
+🫩	inaantok mukhang nangangalumata pagod na
+🤗	gesture mukha mukhang yumayakap nangyayakap yakap
+⏩	arrow button na i-fast forward doble fast pag-forward pindutan
+🕜	1 1:30 30 a la una y medya ala one-thirty oras orasan
+📈	graph paglago pataas tsart tumataas na chart uso
+🦆	bibi ibon pato
+🤼	laban mga taong nagre-wrestling wrestler sport tao wrestle wrestling tournament
+🎶	kanta mga notang pangmusika musika nota tunog
+🦁	hayop leo leon mukha ng zodiac
+🤏	kamay na kumukurot maliit halaga
+🪄	magic wand mahika mangkukulam salamangka salamangkero
+🆖	button na ng pindutan
+😙	halik humahalik nang nakangiti ang mga mata labyu mahal kita mukha mwah ngiti tsup
+🙍	asar ekspresyon expression iritable nakasimangot simangot taong yamot
+🚂	engine makina ng tren pnr sasakyan
+👰	babae babaeng ikakasal na may suot belo bride kasal tao taong
+🚭	bawal huwag ipinagbabawal manigarilyo sigarilyo wag
+😨	duwag hala kabado kinakabahan lagot mukha nag-aalala natatakot takot yari
+🎼	iskor kanta musical score musika tugtog
+🤦	di makapaniwala mukha naka-facepalm palad
+📞	phone receiver ng telepono tagatanggap voip
+🚎	bus sasakyan tram trambiya trolley trolleybus
+🔢	1234 ilagay input na mga numero
+🪣	balde igib ligo timba tubig
+😾	galit mukha nakasimangot pusa pusang
+🥢	chopsticks hashi
+🏑	bola field hockey stick
+🎢	amusement park coaster perya rides roller
+🐭	bubuwit bubwit daga hayop mukha ng
+😧	gulat hala mukha nagdurusa stress takot wow
+🐷	agrikultura baboy hayop mukha ng
+🫣	hiya mukha na may sumisilip mata silip tago takot
+🍈	halaman melon prutas
+🤛	kamao pakaliwa pakaliwang
+🙋	ako alam ko gesture kamay masaya masayang tao na nakataas ang muwestra sagot taas-kamay
+🚲	bicycle bike bisikleta sasakyan
+🍑	halaman peach prutas
+🌍	africa europe globo globong nagpapakita sa at mundo
+👬	bakla dalawang lalaking magkahawak-kamay gemini hawak-kamay kambal lgbt lgbtqia magkapareha mga lalaki nagmamahalan queer zodiac
+🐗	baboy baboy-ramo hayop
+🤎	kayumanggi kayumangging puso
+🚃	biyahe railway car sasakyan tram trambiya tren trolley trolleybus
+🎤	karaoke mic mik mikropono tunog
+👿	demonyo fantasy galit kasamaan masama mukha nakangiti sungay
+📡	antenna dish satellite
+🫨	lindol mukha nabigla nanginginig na vibrate
+🤜	kamao pakanan pakanang
+🌰	almond bunga chestnut halaman kastanyas mani
+🐨	australia hayop koala mukha
+📚	aklat aklatan edukasyon kaalaman libro mga paaralan
+🌿	dahon gamot halaman halamang-gamot herb
+♍	horoscope virgo zodiac
+📂	file folder nakabukas na
+🔠	abcd ilagay input na latin uppercase malaking letra malalaki titik
+🔗	kadena kawing
+🔱	anchor angkla emblem sibat trident
+🥒	gulay pagkain pickle pipino
+⏪	arrow button na i-fast reverse doble i-rewind pindutan
+🥁	drum drumsticks musika
+📅	kalendaryo petsa
+👨‍🦼	lalaki sa de-kuryenteng wheelchair pagiging naa-access
+🍚	kanin pagkain sinaing
+🐆	hayop leopard zoo
+☔	ambon patak payong na nauulanan ulan
+🍼	anak baby bote dede gatas inumin sanggol
+🎳	bola bowling pin
+🪭	de-tiklop na pamaypay mainit nahihiya pampalamig sayaw wagayway
+🍉	halaman pakwan prutas watermelon
+🎄	christmas tree holiday kapaskuhan pasko
+🔲	buton gilid hugis itim na parisukat button pantay
+🧑‍🌾	hardinero magsasaka rantsero
+🚩	bandila golf himpilan kampo poste tatsulok na
+🦓	stripe zebra
+🍗	binti ng manok buto drumstick hita paa pagkain
+🥮	fall festival moon cake pagkain taglagas
+🏪	24 hours convenience store gusali tindahan
+🍓	baguio berry halaman prutas strawberry
+🤚	baliktad nakataas na kamay
+📩	arrow e-mail email outgoing pakikipag-ugnayan papalabas sobre sobreng may
+📓	notebook
+👥	anino bff bust silhouette ng mga
+📊	bar chart graph tsart
+🗽	america amerika kalayaan kasarinlan liberty new york rebulto statue of usa
+🕒	00 3 3:00 a las tres alas oras orasan
+🪋	apocalypse bato bituin bola ng apoy gravity kalawakan nahuhulog
+👓	eyeglasses mata salamin sa shades
+🚰	inumin naiinom na tubig
+🎽	atleta karera pantakbo running shirt sash takbo
+😴	humihilik inaantok mukha natutulog smiley tulog zzz
+🎦	camera kamera palabas pelikula sine sinehan
+🥏	disc frisbee lumilipad na disk
+🦡	badger gray at itim hayop honey
+🎨	art makulay malikhain painting paleta ng pintor sining
+🍖	buto karne karneng may pagkain
+🔍	glass kagamitan kaliwa magnifying na nakahilig sa paghahanap siyensiya tool
+🌹	bulaklak elegante halaman pag-ibig romansa rosas valentine
+👩‍🚀	astronaut babae babaeng kalawakan rocket space
+🐚	hayop kabibe lamang-dagat pilipit na
+🎰	casino japanese laro pachinko slot machine sugal
+🕺	flamenco groove lalaki lalaking sumasayaw party sayaw
+🔡	abcd ilagay input na latin lowercase maliit letra maliliit titik
+👩‍🦯	babae babaeng may baston bulag pagiging naa-access
+🕍	hudyo judaismo relihiyon sambahan sinagoga templo
+🛁	bathtub ligo maligo tubig
+💘	arrow dead na in love inlab kupido pag-ibig patay puso may palaso pusong romansa valentine
+🥍	bola goal lacrosse sports stick
+🧑‍🔧	elektrisyan mekaniko tubero
+😍	kilig kinikilig labyu mahal kita mata mukha nakangiti nang may hugis-pusong mga ngiti pag-ibig puso yihee
+🆑	button na cl pindutan
+🧃	inumin juice kahon ng
+👒	kasuotan pambabae sombrero sumbrero sumbrerong
+♌	horoscope leo leon zodiac
+🌞	araw na may mukha maliwanag sinag
+🍆	bunga eggplant gulay halaman talong
+😊	blush masaya mata mukha nakangiti kasama ang mga ngiti
+🫸	apir hintay nakaaper pakanan pakanang tumutulak na kamay tanggi tigil tulak
+💲	dolyar malaking dollar sign palatandaan pera salapi
+🦍	gorilya hayop
+🌈	bahaghari bakla genderqueer lagay ng panahon lesbyana lgbt lgbtqia queer rainbow transgender ulan
+🙂	medyo nakangiti mukha ngiti
+🧭	compass direksyon magnetic nabigasyon
+👞	kasuotan panlalaki sapatos na
+🩳	bathing suit damit panloob panligo shorts swimwear trunks underwear
+🧑‍🚀	astronaut kalawakan rocket
+🕚	00 11 11:00 a las onse alas oras orasan
+😵	hikab inaantok mukha mukhang nahihilo naghihikab
+📿	beads kuwintas pagdarasal prayer rosaryo
+🤓	geek hippie mukha nerd salamin
+🪀	laruan pabalik-balik pataas-pababa yoyo
+🏫	eskwelahan gusali paaralan school
+🍹	alak bar club cocktail inumin party tropical drink
+🕝	2 2:30 30 a las dos y medya oras
+🕠	30 5 5:30 a las singko y medya orasan
+📟	device komunikasyon pager
+🎵	kanta musika nota notang pangmusika tunog
+👙	bathing suit bikini damit kasuotan pandagat panlangoy swimsuit
+🩲	bathing suit damit panloob mga brief one-piece panligo swimsuit underwear
+🤑	bayad mukha mukhang pera
+🚛	sasakyan semi-trailer truck trailer trak
+🥘	casserole kaserola paella pagkain sa shallow pan ng
+😘	flying kiss halik kindat labyu mahal kita mishu miss you mukha mwah puso tsup xoxo
+🛺	auto rickshaw tuk
+👱	blond blonde ang buhok lalaki mukha tao taong may na
+🛂	kontrol pasaporte passport control
+🪓	biyakin kahoy magsibak maliit na palakol pamputol pansibak
+🫝	brine ferment gherkin pampalasa pipino problema sawsawan
+🔞	18 bawal ang hindi pa disiotso menor de edad wala pang labingwalong taon ipinagbabawal labingwalo paghihigpit sa
+🤝	kamay kasunduan meeting nagkamay pagkakamay shake hands
+📒	ledger notebook sulatan
+🚥	pahalang na stop light traffic signal tawiran trapiko
+🔊	maingay malakas ang speaker volume
+🐴	hayop kabayo mukha ng
+😕	hm lito mukha nagtataka nalilito simangot taka
+🫑	bell pepper capsicum gulay pagkain sili
+🫄	bundat busog taong buntis
+🪐	planet planetang may singsing saturn saturnine
+🏅	1st place ginto gold medalya medalyang pang-sports panalo sports
+🏯	gusali hapon japanese castle kastilyo kuta palasyo
+🌊	alon dagat karagatan lagay ng panahon tsunami
+💿	blu-ray cd computer disk dvd optical disc optikal
+🪦	alaala lapida libingan patay puntod sementeryo
+⚾	baseball bola
+👈	backhand ng hintuturo na nakaturo sa kaliwa daliri index finger kamay
+🦒	batik-batik giraffe
+🌗	buwan kalawakan last quarter moon
+🚸	babala bata may mga batang tumatawid pedestrian tawiran trapiko
+🤳	camera cellphone mobile phone picture selfie selpon telepono
+🏀	basketball basketbol bola shoot sport
+🚏	babaan bus stop sakayan
+🥷	assassin madirigma maliksi manlalaban nakatago ninja stealth tao
+⚽	bola ng soccer football messi ronaldo
+🚖	grab paparating na taxi sasakyan uber
+👂	dinig katawan makinig rinig tainga tenga
+👝	bag clutch handbag pouch
+📵	bawal ang mga mobile phone cell huwag ipinagbabawal telepono
+🐳	balyena balyenang bumubuga ng tubig beach hayop isda karagatan
+😯	gulat mukha naghihintay nagulat nakanganga omg tahimik na whoa woah
+🍫	bar chocolate dessert matamis pagkain panghimagas tsokolate
+🌋	aktibidad ng bulkan bundok kalikasan pagputok pagsabog putok
+🧝	duwende mahiwaga mitikal pantasya
+💛	dilaw na puso mahal kita
+👨‍💻	coder computer developer imbentor lalaki lalaking technologist software
+🐃	buffalo hayop kalabaw pagsasaka zoo
+🧆	chickpea falafel meatball
+💎	diamante diamond diyamante engagement gem stone hiyas mayaman pera susyal
+🧑‍🚒	bumbero trak ng
+📷	camera kamera video
+⛪	gusali katoliko kristiyanismo krus relihiyon sambahan simbahan
+🚵	athletic bike bisikleta cyclist lalaking nagma-mountain biking mountain biker nagba-bike
+🐟	hayop isda pisces zodiac
+🤥	liar mukha nagsisinungaling pinocchio sinungaling
+😛	belat dila mukha nakabelat nakadila
+🦵	biyas hita sipa
+🪒	matalas pang-ahit razor
+💈	barber pole barbero buhok gupit pagpapagupit ng
+📹	camera tbt video
+🛵	motor motorsiklo scooter
+💸	banknote bill lipad lumilipad na pera pakpak perang may
+🔦	de-kuryente flashlight ilaw tool torch
+🧑‍🧑‍🧒‍🧒	adulto bata pamilya
+🚳	bawal ang mga bisikleta huwag ipinagbabawal wala
+🪵	kahoy lumber puno tabla troso
+😂	iyak iyaktawa luha masaya mukha mukhang naiiyak sa tuwa smiley tawa tumatawa
+🐦	hayop ibon
+🔩	bolt kagamitan nut at
+🤠	cowboy cowgirl mukha na may hat sombrero sumbrero
+🔉	naka-medium naka-on ang speaker na katamtaman sound volume
+💇	barbero buhok estilo gupit pagpapaganda pagpapagupit ng parlor putol salon
+🧓	hindi tinukoy na kasarian kasarian-neutral magulang mas matandang tao matanda adult neutral
+👼	angel anghel baby cherubim fantasy mukha sanggol na
+🪠	kubeta plunger
+👨‍💼	arkitekto empleyado sa opisina empleyedo kaopisina manager negosyante negosyo
+🔃	arrow clockwise i-refresh i-reload mga na patayong patayo refresh reload
+🦦	mapaglaro otter pangingisda
+🗻	bundok fuji hapon japan mount mt
+🐖	agrikultura baboy babuyan biik bukid hayop
+🧲	atraksyon horseshoe magnet magnetic magneto
+🚻	banyo cr palikuran rest room restroom toilet
+💤	idlip inaantok komiks logtu natutulog smiley tulog zzz
+🔌	de-kuryente electric plug kuryente saksakan
+🏺	amphora aquarius banga inumin langis sisidlan zodiac
+📻	radyo tbt video
+🧑‍🦯	bulag taong may tungkod
+🪗	accordion instrumento musika
+🍱	baon baunan bento box pagkain
+🔘	bilog buton button ng radyo hugis radio
+🕙	00 10 10:00 a las dies alas diyes oras orasan
+👻	creepy fairy tale fantasy halloween kaluluwa kamatayan mukha multo mumu nilalang
+🧉	inumin mate
+🫀	organ pulso puso tibok ng
+🦭	dagat hayop karagatan sea lion seal
+👨‍🔬	engineer lalaki lalaking siyentipiko scientist
+🐫	bactrian camel na may dalawang umbok sa likod disyerto hayop
+♉	horoscope taurus toro zodiac
+👨‍🍳	chef cook kusinero lalaki lalaking tagaluto
+🚢	bangka barko biyahe layag pampasahero pasahero sasakyan sasakyang pandagat
+🥽	goggles proteksyon sa mata swimming welding
+🚟	sasakyan suspension railway tren
+🔶	diamante diyamante hugis malaki malaking orange na diamond
+🪡	burda karayom pananahi sinulid sulsi tahi
+⛺	camping scout tent
+🙁	malungkot medyo nakasimangot mukha simangot
+👾	alien extraterrestrial halimaw na kalawakan mukha nilalang ufo
+💷	banknote bill note pera pound salapi
+🏉	bola football rugby
+❓	bantas marka pananda pananong pulang tandang tanda tanong
+👩‍🎨	babae babaeng pintor painter paleta
+🐇	alaga hayop kuneho pet
+🌾	agrikultura ani bigas bigkis ng palay pagkain
+🛷	nyebe sled sledge sleigh
+🌀	bagyo buhawi ipu-ipo nahihilo panahon
+🦴	buto kalansay
+👨	bro kaibigan lalaki matanda pare
+💥	banggaan boom kislap komiks pagsabog sabog
+🗿	bantayog moai mukha rebulto
+⛵	bangka bangkang may layag sailboat sasakyang pandagat
+🫵	duro hintuturo hintuturong nakaturo sa tumitingin ikaw kalabit sisi sundot turo tusok
+🏰	european fairy tale gusali kastilyo palasyo
+🐞	insekto lady beetle ladybird ladybug salagubang uang
+🚆	choo sasakyan tren
+🐕‍🦺	aso asong panserbisyo pagiging naa-access serbisyo tulong
+🐮	baka dairy gatas hayop mukha ng
+🏮	bar ilaw lantern pula pulang papel na paper
+😥	dismayado hala kabado malungkot pero naibsan mukha nakahinga nang maluwag whew
+🧤	guwantes kamay
+🐰	alaga hayop kuneho mukha ng
+🏨	gusali hotel
+🍕	italian keso pagkain pizza slice
+📗	aklat berde berdeng libro edukasyon nobela
+🎇	bagong taon kuwitis paputok selebrasyon sparkler
+🪳	hayop insekto ipis peste
+⚡	high voltage kidlat kuryente mataas na boltahe may panganib
+⏬	arrow bagalan button na i-fast down doble ibaba pahinaan pindutan
+🍻	alak bar beer cheers inom pagtagay sa mga mug tagay
+🚺	babae banyo banyong pambabae cr rest room
+👚	babae blouse damit kasuotan mga na pambabae shopping
+🧳	bagahe maleta pag-empake pagbiyahe
+♐	archer pana sagittarius zodiac
+🚤	bakasyon bangka biyahe de-motor mayaman sasakyan sasakyang pandagat sosyal speedboat summer
+📝	lapis memo panulat tala
+🪨	bato mabigat malaking matigas
+🍅	bunga gulay halaman kamatis prutas
+📁	dokumento file folder
+🎁	bday birthday kaarawan kahon nakabalot na regalo pasko ribbon selebrasyon sorpresa
+🧑	adult hindi tinukoy na kasarian kasarian-neutral matanda tao
+🚒	emergency fire truck sasakyan sirena sunog trak
+👷	construction worker hard hat helmet konstruksyon manggagawa sombrero sumbrero trabahador sa
+🔤	abakada abc alpabeto ilagay input na mga latin titik
+🚞	bundok mountain railway sasakyan tren
+🌐	globe globo globong may mga meridian internet mundo worldwide web
+😸	masaya mata mukha nakangiti ngiti pusa pusang nakatawa kasama ang mga yehey
+🫡	maaraw ok oo saludo tropa
+🟰	equal equals madiin na sign sagot
+🚬	naninigarilyo sigarilyo usok
+🆒	astig button na cool pindutan
+🍺	alak bar beer germany inumin mug octoberfest oktoberfest tagay
+🪏	butas dakot humukay pala
+🐂	baka hayop ox taurus toro zodiac
+🤙	kamay tawag tawagan mo ko
+♓	isda pisces zodiac
+👵	babae blond blondie matalino matanda matandang pangit na gupit
+🐧	antartica hayop ibon penguin
+❎	button na ekis marka multiplication multiply parisukat x
+🟫	brown na parisukat kuadrado kwadrado
+🥩	chop hiwa ng karne lambchop porkchop steak
+🦾	bakal na braso mekanikal pagiging naa-access prosthetic
+🎣	fishing rod isda pamingwit pangingisda pole
+😌	buntung-hininga buti na lang kalma kalmado mukha nakahinga nang maluwag whew
+🫷	apir hintay nakaaper pakaliwa pakaliwang tumutulak na kamay tigil tumatanggi
+🐝	bubuyog honeybee insekto
+🌻	araw bulaklak halaman mirasol sunflower
+✨	bituin kinang kislap kumikinang kumikislap
+🚽	banyo cr inodoro palikuran toilet
+🥑	abokado avocado pagkain prutas
+👛	barya coin purse pitaka shopping
+🌮	mexican pagkain taco
+📋	clipboard memo notes sulatan
+🦊	fox hayop mukha ng
+⚫	bilog hugis itim na
+♒	aquarius tubig zodiac
+🐈‍⬛	halloween hayop itim na pusa malas pamahiin takot
+🩵	cyan light blue na puso teal
+📤	box koreo liham napadala outbox padala palabas sulat tray
+🐐	capricorn hayop kambing zodiac
+🧂	asin condiment shaker
+🎯	bullseye dart target
+🐻	bear hayop mukha oso
+🔨	kagamitan karpintero martilyo pag-aayos paggawa pagkakarpintero tool
+🚣	bangka bangkang de-sagwan nagsasagwan namamangka rowboat sagwan sasakyan
+👕	bihis damit kamiseta kasuotan kwelyo shirt shopping t-shirt
+🐼	hayop mukha panda bear
+👃	amoy ilong katawan pang-amoy
+📭	flag hulugan ng sulat koreo liham mailbox nakababa nakababang nakabukas na may
+🚁	helicopter sasakyan sasakyang panghimpapawid
+🛻	pick-up pickup truck sasakyan trak transportasyon
+🕤	30 9 9:30 a las nuwebe y medya orasan
+🫅	hari kamahalaan korona maharlika reyna taong may
+🧑‍🦽	pagiging naa-access tao sa manu-manong wheelchair
+🌱	binhi halaman punla seedling tibtib
+😪	humihilik inaantok na mukha natutulog tulog
+🧒	anak bata hindi tinukoy na kasarian kasarian-neutral
+🦤	dodo hayop ibon malaki mauritius pagkaubos pagkawala
+👢	boots damit kasuotan pambabae pambabaeng sapatos shopping
+📬	flag hulugan ng sulat koreo liham mail mailbox nakabukas na may nakataas
+🚼	anak baby bata palitan pansanggol simbolo ng sanggol
+🚑	ambulansya emergency ospital sasakyan
+😞	dehado dismayado malungkot mukha nabigo nalulumbay talo
+🍸	alak bar baso club cocktail glass inumin martini
+🥵	agaw-buhay atake feverish hinahapo mainit na mukha mukhang-pula nakadila nilalagnat pinapawisan
+🫔	meryenda mexican nakabalot pagkain tamale
+👹	alamat fairy tale fantasy halimaw kapre maskara mukha nilalang
+😬	mukha nagngingitngit nagtitiis nakangiwi nandidiri nanggigigil nasasaktan ngiwi
+🤶	mother christmas mrs claus nanay pasko
+🎓	cap graduation iskolar kasuotan pagtatapos toga
+👩‍🎓	babae babaeng mag-aaral estudyante graduate naka-graduate nakatapos toga
+🛖	bahay kubo roundhouse tahanan tuloy
+🎬	action board clapper direk palabas pelikula sine
+🤘	astig daliri kamay rak-en-rol rock ‘n’ roll ’n’ rock-on sungay
+🕣	30 8 8:30 a las otso y medya orasan
+🤫	mukha na nagpapatahimik quiet shush tahimik
+🔭	e.t kagamitan siyensiya telescope teleskopyo tool
+🌸	bulaklak cherry blossom halaman sakura
+🥻	bestida damit sari
+🎷	instrumento musika sax saxophone
+😺	masaya mukha nakangiti nakatawa ngiti pusa pusang
+😫	bumabahing mukha pagod na umiidlip
+😀	malaking ngiti mukha mukhang nakangisi nakangiti smile
+💭	balloon bubble hmm isip komiks nag-iisip thought
+🦼	accessibility de-kuryenteng wheelchair motorized pagiging naa-access pwd
+👩‍💼	arkitekto babaeng empleyado sa opisina empleyada empleyeda kaopisina manager negosyante negosyo
+♿	kapansanan magagamit simbolo ng wheelchair
+🥄	kain kubyertos kutsara
+🧽	espongha panglinis porous sumipsip
+💵	banknote bill dollar dolyar pera salapi
+🐹	alaga hamster hayop mukha pet
+💾	computer disk diskette floppy
+🌔	buwan gibbous kalawakan waxing moon
+🥫	de-latang pagkain lata
+💴	banknote bill note pera salapi yen
+🦧	ape hayop orangutan tsonggo
+🍶	alak bar bote inumin sake tasa
+⚪	bilog hugis puti puting
+🆙	button na up marka pindutan
+😎	araw astig cool idol maaraw nakangiti nang may suot na shades salamin sunglasses
+📐	anggulo matematika math ruler tatsulok na
+🫧	bula dighay ilalim ng tubig lumulutang malinis sabon
+💕	anniversary dalawang puso kilig labyu mahal kita pag-ibig
+😗	halik humahalik kiss labyu mukha mwah nguso
+🫤	bigo duda lito mukha na may diagonal bibig nagdududa
+💬	balloon dialog komiks speech type usapan
+🛘	avalanche bundok delubyo lindol mga bato mudslide panganib
+🚚	delivery padala sasakyan trak truck
+🔚	arrow dulo end katapusan
+💺	silya upuan
+🎉	confetti nasasabik pagdiriwang party popper woohoo
+🤲	bukas-palad dasal nakasalong kamay nakataas na magkadikit palad
+😔	malungkot na nag-iisip mukha nalulumbay sayang
+👋	babay bumabati hi kamay kamusta kumakaway na kumusta musta paalam
+🎊	confetti ball pagdiriwang party
+💼	attache case bagahe briefcase opisina
+🥬	bok choy gulay lettuce madahong petsay repolyo
+🈸	apply hapon hapones ideograpya ideyograpiya kahilingan nakaparisukat na ideograph ng pag-apply pindutan
+🚱	bawal hindi pwedeng inumin huwag ipinagbabawal tubig
+🐄	baka dairy gatas hayop moo
+⬜	hugis malaki malaking puting parisukat puti
+😝	dila lasa mata nakadila nang nakapikit
+😓	hala kaba kabado kinakabahan lagot malamig mukha nanlalamig pawis pinagpapawisan nang
+🩼	injured kapansanan pilay saklay tungkod
+🙀	bigla gulat hala mukha nabigla nagulat pagod pusa pusang na takot
+🧯	apoy fire extinguisher pamatay ng pamuksa pansugpo
+🦖	dinosaur t-rex tyrannosaurus rex
+🧑‍🧒	bata pamilya adulto
+🐒	hayop saging unggoy
+🥴	bibig na wavy dizzy hindi pantay ang mata lasing nahihilo nakainom woozy mukha
+🧅	pampalasa sibuyas
+🍙	japanese kanin o-nigiri onigiri pagkain rice ball
+👨‍🚒	bumbero lalaki lalaking sunog trak
+🪈	fife musika plawta rekorder woodwind
+🏏	bat bola cricket laro
+👴	lalaki lolo matalino matanda matandang nalalagasan ng buhok
+🦝	hayop mausisa mautak may maitim na mata raccoon
+🎲	dice die laro sugal
+🚡	cable car gondola lift sasakyan
+😑	keber kebs mukha nr selos walang ekspresyon emosyon reaksyon
+🥶	frostbite giniginaw icicles malamig na mukha mukhang asul
+🚿	ligo shower tubig
+🖕	daliri gesture hinlalato kamay middle finger
+🫆	bakas ng daliri kaligtasan mga forensic pagkakakilanlan
+🧑‍🍳	chef tagaluto
+🫠	banas hiya init lol mukha natutunaw na sarcastic tunaw
+🐑	hayop tupa
+🕐	00 1 1:00 a la una one oras orasan
+🔑	naka-lock password susi
+🚕	cab grab sasakyan taxi uber
+🎹	instrumento keyboard na pangmusika musika piano
+🦮	bulag gabay na aso guide dog pagiging naa-access
+📃	dokumento pahina na may tupi pahinang bahagyang nakarolyo
+👨‍🔧	electrician elektrisyan lalaki lalaking mekaniko makinista tubero
+😄	lol masaya mata mukha nakangisi kasama ang mga nakangiting nakangiti nakatawa ngiti saya tawa yehey
+🥲	guminhawa ang pakiramdam ipinagmamalaki luha mukhang nakangiti na may naantig nagpapasalamat smiley
+🫥	depressed dotted na linya mukha invisible nakatago walang pake pakialam
+🥤	baso na may straw inumin juice soda
+🥃	alak baso shot tumbler glass whiskey whisky
+🗼	japan tokyo tower tore
+🙄	haay irap itinitirik ang mga mata mukha smiley umiikot umiirap
+🦥	mabagal sloth tamad
+🧞	djinn genie kahilingan mistikal pantasya taong
+🤪	baliw na mata mukha malaki maliit
+👩‍🍳	babae chef cook kusinera tagaluto
+🫘	beans munggo pagkain sitaw
+🥇	ginto medalya medalyang 1st place una
+🐘	elepante hayop
+🔻	hugis pababa pula pulang tatsulok na nakatutok
+🎡	amusement park ferris wheel gulong perya rides
+🕢	30 7 7:30 a las siyete y medya orasan
+💪	biceps braso macho masel muscle naka-flex pinalaking
+🎒	backpack na pang-eskwela bag estudyante mag-aaral satchel
+😢	iyak luha lungkot malungkot mukha nalulumbay umiiyak
+👨‍🦯	bulag lalaki lalaking may baston pagiging naa-access
+🫪	balisa bloated gulat marupok nasurpresa panic
+🔕	bawal bell na may slash mute silent tahimik timbre
+📢	anunsyo loudspeaker malakas pampublikong address public
+🦟	dengue kagat lagnat lamok malaria sakit virus
+🎅	christmas holiday kapaskuhan pagdiriwang pasko santa claus selebrasyon
+❕	bantas padamdam pananda puti puting tandang
+🤽	marco polo sport tao taong naglalaro ng water
+🗾	hapon japan mapa ng
+🔆	button na liwanagan liwanag maliwanag pindutan
+🤣	gulong gumugulong sa kakatawa iyaktawa mukha sahig smiley tawa tawang tumatawa
+🦅	agila ibon
+🧶	paggantsilyo pagtatahi yarn
+🍇	grapes halaman prutas ubas
+🌯	burrito mexican pagkain
+🌎	america amerika globo globong nagpapakita sa hilaga at timog mundo
+🀄	laro mahjong red dragon pula sugal
+🦣	extinct hayop mabalahibo malaki mammoth
+🥝	food fruit kiwi pagkain prutas
+😻	in love inlab kilig mata mukha nakangiti pag-ibig pusa pusang nang may hugis-pusong mga puso yihee
+🎸	gitara instrumento musika pangtugtog stratocaster
+⏫	arrow bilisan button na i-fast up doble pabilis pabilisin pataas pindutan
+🏩	gusali hotel love motel
+🥓	bacon karne pagkain
+➗	÷ divide division malaking sign matematika math simbolo
+🐦‍🔥	firebird pantasya muling pagsilang reinkarnasyon phoenix
+🔁	arrow button na ulitin clockwise i-repeat pag-ulit pindutan repeat
+👪	ama anak bata ina nanay pamilya tatay
+🤍	puso puti puting
+🪃	australia boomerang rebound repercussion
+🔧	kagamitan liyabe lyabe spanner
+🐶	alaga aso cute hayop mukha ng pet tuta
+🦌	deer hayop usa
+🎋	banner japanese kawayan pagdiriwang puno tanabata tree
+🕌	islam mosque muslim relihiyon sambahan
+📔	aklat libro may disenyo notebook na ang pabalat
+🕗	00 8 8:00 a las otso alas orasan
+🐲	dragon fairy tale fantasy mukha ng
+👊	kamao kamay nakasara pasuntok na suntok
+🫙	container garapa garapon lalagyan walang laman
+🚇	biyahe commute metro sasakyan subway underground
+🧏	bingi pagiging naa-access pandinig tainga taong
+🤐	bibig hindi magsasalita mukha naka-zipper ang secret sikreto tahimik tameme zipper
+👩	babae blonde blondie matanda
+🍡	dango dessert japanese matamis nakatuhog pagkain panghimagas tuhog
+📧	e-mail email koreo sulat
+🛜	computer internet network wireless
+🐊	buwaya hayop
+📌	aspile pin pushpin
+🕕	00 6 6:00 a las sais orasan
+⛲	fountain
+🔫	armas baril kagamitan pistol revolver sandata water gun
+🍐	halaman pear peras prutas
+⚓	anchor angkla bangka barko kagamitan
+🪆	manika manikang matryoshka russia
+📦	kahon package padala parsela
+🧧	ampao ampaw ang pao pera pula envelope pulang regalo
+🪽	ibon lumilipad mala-anghel metolohiya mitolohiya paglalayag pakpak
+🎪	circus tent
+😏	mayabang mukha nakangisi ngisi suwabe swabe swag
+🛄	bagahe baggage claim biyahe empake impake kuhanan ng lakbay maleta
+♑	capricorn kambing zodiac
+🧑‍💼	arkitekto business manager puting collar trabahador sa opisina
+🐁	bubuwit daga hayop peste
+🐌	hayop kuhol lamang-dagat snail suso
+👩‍🌾	babae babaeng magsasaka hardinera rantsero
+🕑	00 2 2:00 a las dos orasan two
+🎀	laso pagdiriwang ribbon
+📪	hulugan ng sulat koreo mailbox nakababa nakababang flag nakasara nakasarang na may
+🎮	controller game laro playstation video xbox
+🔴	bilog hugis pula pulang
+🦞	claws hayop lobster pagkain panipit seafood
+🛐	magdasal pagdarasal pagsamba relihiyon sambahan simbahan
+🛹	board skateboard
+👩‍🏭	babae babaeng manggagawa sa pabrika obrero trabahadora
+🙅	ayaw bawal gesture hindi pwede huwag ipinagbabawal kamay nagpapahiwatig na
+🏧	atm automated bangko karatula pera tanda ng teller
+🧢	bent hat cap sinisingil na sombrero ng baseball
+🫎	antler elk hayop mamalya moose
+💁	babae buhok chismis chismisan chismosa diva impormasyon kamay mataray sis tao sa information desk taong nakatikwas ang taray tsismis tsismisan tsismosa tulong whatever
+🈶	bayad hapones na button nagsasabing hindi ito libre ideograpya may nakaparisukat ideograph ng pag-iral pindutan singil
+🌺	bulaklak gumamela halaman hibiscus
+🤬	asar galit mukha na may mga simbolo sa bibig nagmumura nanunumpa
+🤢	kadiri mukha naduduwal nakakaduwal nakakasuka nasusuka suka
+💃	babae dancer elegante mananayaw salsa sayaw sumasayaw
+🦋	insekto maganda mariposa paru-paro
+🐥	hayop ibon manok nakaharap na sisiw
+🚫	bawal huwag ipinagbabawal wag
+💞	puso umiikot na mga
+🥖	baguette french pagkain tinapay
+🉑	hapon hapones ideograpya ideyograpiya katanggap-tanggap nakabilog na ideograph ng pagtanggap pindutan tanggap
+🚓	patrol car police pulis pulisya sasakyan ng polis wangwang
+🧑‍🔬	biologist chemist inhinyero siyentipiko
+🔒	kandado naka-lock nakasara sarado
+🐦‍⬛	caw hayop ibon itim na raven rook tuka uwak
+😐	keber kebs mukha neutral nr selos walang emosyon reaksyon
+🪘	conga drum instrumento mahabang tunog
+🎩	kasuotan magic mahika mahikero pormal sombrero sumbrero top hat tophat
+👩‍🎤	artista babae babaeng mang-aawit bokalista manganganta rakista rock singer
+🦄	mukha ng unicorn
+🐠	hayop isda tropical fish
+🥥	gata niyog palmera piña colada
+🧣	bandana leeg scarf
+🎿	mga ski niyebe snow sports
+🌆	cityscape sa takipsilim gusali lungsod
+🧐	mayaman mukha na may monocle sosyal stuffy
+😭	huhu humahagulgol humahagulhol iyak luha lungkot malungkot mukha umiiyak nang malakas
+😰	balisa at pinagpapawisan kabado kinakabahan mukha natatakot pawis nang malamig
+💣	armas bomba komiks pampasabog sabog sandata
+🐪	camel disyerto dromedary hayop
+👨‍🎓	estudyante graduate lalaki lalaking mag-aaral naka-graduate nakapagtapos toga
+👇	backhand ng hintuturo na nakaturo sa ibaba daliri kamay
+🥉	3rd place bronze medalya medalyang pangatlo tanso
+🚅	bullet nose train high-speed shinkansen tren
+🥳	nagdiriwang na mukha pagdiriwang party salu-salo smiley sombrero sungay
+👳	lalaki lalaking may suot na turban nakaturban
+🎧	earbud earphone headphone
+📨	e-mail email incoming natanggap papasok na sobre sulat tanggap tumanggap
+⭐	astronomy bituin puti puting na katamtamang-laki tala
+🫃	bundat busog lalaki lalaking buntis
+🌌	bituin galaxy kalawakan milky way
+🧖	day spa relax sauna steam room tao na nasa unwind
+🚠	bundok cable car gondola lift mountain sasakyan
+🪙	bakal barya ginto kayamanan pera pilak
+🌵	cactus disyerto halaman kalikasan tagtuyot
+😲	gulat na mukha nabigla nagulat
+🙃	baligtad na mukha hehe
+🚶	lakad naglalakad pasyal pedestrian tao taong
+👤	anino bust silhouette ng
+🛶	bangka canoe
+🌓	buwan first quarter moon kalawakan
+🌒	buwan crescent kalawakan waxing moon
+👽	alien extraterrestrial kalawakan mukha nilalang ufo
+🕡	30 6 6:30 a las sais y medya orasan
+🐡	blowfish hayop isda
+🛃	customs empake padala
+🥛	baso ng gatas inumin
+🛟	lifesaver palutang sagip sagip-buhay salbabida
+🫚	beer luya rekado ugat
+🍋	citrus halaman lemon limon prutas
+🪶	balahibo ibon lumilipad magaan pluma
+🫹	ito iyon kaliwa kapit neutral turo
+👲	chinese gua pi mao lalaki lalaking may suot na sombrerong sombrero
+🤰	babae buntis nagdadalang-tao
+🧹	bruha maglinis magwalis mangkukulam walis
+💑	couple magjowa magkapareha na may puso magkasintahan pag-ibig romansa sinta
+⛅	araw sa likod ng ulap lagay panahon maulap
+🩶	gray grey na puso silver
+🧨	dinamita ilaw kislap pampasabog paputok
+🏊	lalaking lumalangoy langoy pool sports swimmer taong
+🕟	30 4 4:30 a las quatro y medya alas orasan
+🩰	ballet shoes sapatos na pang-ballet pansayaw sayaw
+📀	blu-ray cd computer disk dvd optical optikal
+🏃	bilis karera lalaking tumatakbo mabilis marathon takbo tao taong
+🧜	fairytale lalaking sirena mermaid merman merperson serena syokoy
+🔽	arrow button na ibaba pababa pababang pindutan pula
+💻	computer laptop pc personal
+🧋	bubble tea gatas inumin pagkain pearl taiwan tsaa
+🫏	asno burro hayop mamalya matigas ang ulo mule
+🪟	bintana bukasan frame sariwang hangin view
+🐢	hayop pagong pawikan tortoise
+😤	galit na inis mukha umuusok ang ilong usok yamot
+👨‍🚀	astronaut kalawakan lalaki lalaking rocket space
+👩‍💻	babae babaeng technologist coder computer developer imbentor software
+🦠	agham amoeba bacteria germs mikrobyo siyensya virus
+🥺	habag malungkot mata na kuwa ng tuta nagmamakaawa nagsusumamo mukha please
+🤮	mukha na nagsusuka nasusuka suka
+❗	bantas padamdam pananda tanda tandang
+🪼	aray dikya invertebrate jelly kamandag marina paso
+🎺	instrumento musika trumpeta
+🟥	parisukat pula pulang
+😶	hindi nagsasalita keber kebs mukha mukhang walang bibig no comment nr tahimik
+🧬	biologist buhay dna ebolusyon gene genetics
+😵‍💫	hilo lito mukang may spiral na mata smiley whoa
+📸	camera na may flash kamera video
+👩‍🔧	babae babaeng mekaniko elektrisyan makinista tubero
+💧	lagay ng panahon luha maliit na patak pawis tubig ulan
+🪂	hang-glide pag-skydive paglipad sa ere parachute parasail skydive
+🎃	dekorasyon halloween jack jack-o-lantern kalabasa lantern pumpkin
+🫟	holi mantsa natapon pintura tilamsik
+💖	chuvachuchu kilig kumikinang na puso labyu mahal kita nasasabik xoxo
+💜	i love you purple na puso
+🚀	kalawakan paglalakbay rocket sasakyan
+🎑	buwan moon ceremony viewing pagdiriwang seremonya
+🍦	dessert ice cream matamis pagkain panghimagas swirl
+🥀	bulaklak lanta nalantang
+😣	masakit ulo mukha nagsisikap nagtitiyaga namomroblema
+📰	balita dyaryo komunikasyon papel
+🥊	boksing boxing glove sport
+🧑‍🏫	guro propesor tagaturo
+🔺	hugis nakatutok pataas pula pulang tatsulok na
+📺	telebisyon tv video
+🦬	baka bison damulag hayop kalabaw
+👸	alamat babae dugong-bughaw fairy tale fantasy korona prinsesa
+😋	belat lasa lumalasap ng masarap na pagkain mukha nakangiti sarap yummy
+👗	bestida damit daster dress kasuotan pambabae shopping
+🦎	butiki hayop reptile
+🫳	bitaw dampot kamay kuha nakataob na palad pulot
+🥎	bola glab glove softball sports
+💉	bakuna doktor flu shot gamot hiringgilya karayom sakit turok
+🪧	demonstrasyon karatula protesta welga
+🌃	bituin cityscape gabi gabing maraming lungsod
+📕	aklat libro nakasara nakasarang
+😇	anghel halo inosente mabait mukha nakangiti nang may
+🍃	dahon dahong nililipad ng hangin halaman
+🫒	olive pagkain salad
+🔜	arrow malapit na soon
+🧑‍🍼	nagpapadede nagpapasuso sanggol tao taong ng
+🚍	bus paparating na sasakyan
+🧄	bawang pampalasa
+👯	babae bestfriend bestie bff bunny dancer kambal magkakambal mananayaw mga na may tainga ng kuneho babaeng nagpa-party sis twin
+🪤	daga panghuli ng patibong silo trap
+🥸	ilong incognito mukha nakatago nakatagong salamin sa mata smiley
+🥅	goal net ng sport sports
+🍪	biskwit cookie matamis meryenda pagkain panghimagas tinapay
+🔎	glass kagamitan kanan lente magnifying na nakahilig sa paghahanap
+🩴	pang-beach na tsinelas sandals slippers
+💢	galit inis pikon simbolo ng yamot
+🥙	falafel flatbread kebab pagkain stuffed
+🐈	alaga hayop pet pusa
+📥	inbox kahon koreo liham natanggap papasok sulat tray tumanggap
+🚮	basura basurahan magtapon palatandaan tanda na sa
+🟨	dilaw na parisukat
+🥼	doktor eksperimento kapa sa lab coat siyentista
+🧱	brick bricks dingding mortar pader semento
+🧈	dairy mantikilya produktong gawa sa gatas
+💓	chuvachuchu kilig labyu mahal kita puso tibok ng tumitibok na
+🎏	carp hapon japanese pagdiriwang streamer
+♈	aries horoscope ram zodiac
+🛌	hotel logtu natutulog taong nakahiga tulog zz zzzzz
+🦇	bampira hayop paniki
+🚐	bus minibus sasakyan van
+🐬	dolphin flipper hayop isda
+🐅	hayop malaking pusa tigre zoo
+🌉	bituin gabi tulay sa
+🤌	daliri hand gesture kamay pakurot na pasensya relax tahimik
+🛀	bathtub ligo naliligo taong tub tubig
+👶	anak bagong silang bata sanggol
+🍁	dahon ng maple halaman taglagas
+🚜	sasakyan tractor traktora
+💠	diamante diamond na may tuldok hugis maganda makinang maliit
+😚	halik humahalik nang nakapikit kiss labyu mahal kita mata mukha mwah ngiti tsup xoxo
+👮	aresto batas officer pulis pulisya sita undercover
+🍥	fish cake na may swirl naruto pagkain
+🧌	halimaw troll trolling
+👠	fashion heels high kasuotan pambabae sapatos shopping
+🧑‍🎄	christmas claus holiday merry mx pasko santa tao xmas
+👩‍🏫	babae babaeng guro propesor propesora titser
+🌴	halaman palm palmera puno tropical
+🏭	factory gusali pabrika pagawaan
+🔷	asul na diyamante bughaw diamante hugis malaki malaking diamond
+💡	bumbilya ng ilaw comic de-kuryente ideya
+🪾	puno na walang dahon taglamig tigang tuyot
+🔙	arrow back bumalik pabalik
+🫲	abot handshake kaliwa kaliwang kamay pakaliwang
+💒	kapilya kasal kasalan pag-ibig romance romansa simbahan
+🆔	button na id pagkakakilanlan pindutan
+🧑‍🩰	ballet dancer
+🥪	sandwich tinapay
+⌛	buhangin hourglass orasan sandglass timer
+🔀	arrow button na i-shuffle ang mga track nagkrus pindutan shuffle tracks
+😦	bibig bigla gulat mukha nabigla nagulat nakanganga nakasimangot nang nalulumbay takot wow
+🍄‍🟫	brown na kabute gulay kalikasan kayumanggi pagkain
+🦫	beaver dam hayop ngatngat ngipin nguya
+🥚	itlog pagkain
+🛑	hinto octagonal sign stop
+🎫	admission stub ticket tiket
+👺	alamat fairy tale fantasy goblin halimaw mask maskara mukha nilalang
+🤷	di-alam ewan malay ko nagkikibit-balikat nagtataka shrug walang pakialam
+🦏	hayop rhinoceros
+🍿	chichirya pagkain pikapika popcorn
+☕	inumin kape mainit na tasa tsaa umuusok
+📴	cell i-off ang mobile phone naka-off telepono
+👘	damit hapon japanese kasuotan kimono tradisyonal
+🚈	light rail lrt mrt sasakyan tren
+🧷	diaper perdible punk rock
+🍔	burger fast food gutom hamburger pagkain
+🔸	diamante diyamante hugis maliit na orange diamond
+🎎	festival japanese na manika manikang hapon pagdiriwang piyesta
+🧘	kapayapaan meditation relaxing tao na naka-lotus position yoga zen
+🥾	backpacking bota brown na sapatos camping hiking pang-hiking panlabas
+🦙	alpaca hayop llama wool
+🆚	button na vs pindutan versus
+🧦	medyas stocking
+🛕	hindu sambahan temple templo
+💝	143 anibersaryo laso pag-ibig puso na may ribbon pusong valentine
+🔂	arrow button na ulitin ang track clockwise pag-play pag-ulit pindutan repeat
+🌷	bulaklak halaman tulip
+🧑‍🧑‍🧒	adulto bata pamilya
+🥰	crush i love you lab yu mahal kita nakangiting mukha na may 3 puso sinasamba umiibig
+💍	diamante diamond diyamante engagement pag-ibig romance romansa singsing
+🕖	00 7 7:00 a las siyete orasan
+🚷	bawal huwag ipinagbabawal pedestrian tumawid
+🐾	bakas ng paa hayop mga paw print pawprint
+👨‍🎨	lakaki lalaki lalaking pintor painter paleta
+🍤	hipon pagkain piniritong prito tempura
+🦢	gansa ibon ibong mahaba ang leeg swan ugly duckling
+🔏	kandado na may panulat naka-lock pen pribado sarado
+⛄	lagay ng panahon malamig niyebe snowman na walang
+💀	alamat bungo fairy tale hala halimaw kamatayan lason mukha
+🏴	bandila itim na iwinawagayway
+👍	+1 aprub astig ayos gg hinlalaki kamay like nays nice ok okey oks sige thumbs up
+🧑‍💻	coder developer imbentor software technologist
+🪊	brass instrumento jazz malungkot musika slide
+🌭	frankfurter hot dog hotdog pagkain sausage tinapay
+♎	balanse horoscope hustisya libra timbangan zodiac
+🪇	alogn instrumento kalansing maracas musika percussion rattle tambol
+💂	bodyguard british fairy tale gwardya kabalyero kawal king’s guard queen’s
+🛸	flying saucer ufo
+➰	curly loop kulot silo
+🎴	baraha bulaklak card flower playing hanafuda laro
+🦪	pagsisid perlas talaba
+🪯	khanda relihiyon sikh
+🛅	bagahe locker maleta naiwan naiwang
+🉐	baratilyo hapon hapones na button para sa salitang bargain ideograpya nakabilog ideograph ng kalamangan pindutan tawad
+🧑‍🏭	industriyal pabrika pag-assemble trabahador sa
+🔰	baguhan berde chevron dahon dilaw hapones japanese na simbolo para sa
+🫍	balyena dagat marine
+♊	gemini horoscope kambal zodiac
+🍒	cherry halaman prutas
+🦘	australia hayop joey kangaroo tumatalon
+🦯	baston blind bulag pagiging naa-access pwd
+🧼	bareta habonera pangligo panglinis sabon
+🧿	agimat anting-anting charm nazar amulet talisman
+🎱	8 billiard billiards bilyar bola eight pool
+🍭	candy lollipop matamis pagkain
+🥈	2nd place medalya medalyang pangalawa pilak silver
+🔬	agham eksperimento experiment kagamitan microscope mikroskopyo siyensiya tool
+🤞	cross daliri kamay naka-cross na mga swerte
+🍛	curry rice kanin pagkain
+👌	anda ayos datung kamay na nagpapahiwatig ng ok kwarta okay okey oks pera
+👆	backhand ng hintuturo na nakaturo sa itaas daliri kamay
+👉	backhand ng hintuturo na nakaturo sa kanan daliri kamay
+🎍	dekorasyon hapon kawayan pine decoration
+🧔	balbas balbas-sarado lalaki may tao taong
+🦶	apakan paa sipa tapakan
+🈺	hapon hapones na button para sa salitang “open for business” ideograpya ideyograpiya magnegosyo nakaparisukat ideograph ng pagpapatakbo negosyo pindutan
+🧮	abacus kalkulasyon pambilang
+🏁	bandila checkered flag na karera
+🙈	huwag tumingin sa masama ipinagbabawal mukha see no evil unggoy
+🍠	inihaw na kamote pagkain
+🕋	cube hajj islam kaaba muslim relihiyon umrah
+🫓	arepa biskwit flatbread lavash naan pagkain pita
+😠	galit mukha nakasimangot simangot
+🫶	<3 i love you kamay nakapusong puso
+🤖	mukha ng robot
+◾	hugis itim maliit medyo na parisukat
+🤤	mukha naglalaway
+🏹	archer arkero mamamana palaso pana sagittarius zodiac
+💔	bigo broken heart durog na puso heartbroken malungkot pag-ibig
+🍍	halaman pineapple pinya prutas
+🤱	breast breast-feeding nagpapadede nagpapasuso sanggol
+👨‍🍼	lalaki lalaking nagpapadede ng sanggol nagpapasuso tao
+👫	babae at lalaking magkahawak-kamay hawak-kamay holding hands kamay lalaki babaeng magkapareha

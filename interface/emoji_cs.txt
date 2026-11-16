@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « cs » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	new nový štítek značka
+🧑‍🤝‍🧑	člověk držet se za ruce dva lidé držící dvojice osoba pár ruka
+◽	bílá čtverec geometrie střední bílý tvar větší čtvereček
+⛽	benzin benzín benzínka benzínová pumpa čerpací diesel nafta palivo plyn pohonné hmoty stanice
+🔓	odemčeno odemčený odemknout odemknuto odemknutý zámek otevřeno otevřený otevřít visací
+👄	krása polibek pusa rtěnka rty tělo ústa zuby
+🍴	hladový jídlo jíst krmit mňam nádobí nůž oběd pokrm příbor restaurace snídaně vaření večeře vidlička a
+🏒	hokej hokejka a puk hra led lední sport
+💦	cákání cákat cvičení kapat kapičky kapky potu komiks obrázek odkapávat pot šplouchat stříkající trénink voda
+🎐	cinkat foukat furin japonský oslava vánek větrná zvonkohra větrný zvonek vítr zvon zvoneček zvonit
+😼	ironický ironie jízlivý kočičí úsměv obličej s jízlivým úsměvem kočka sarkastický smajlík tvář výraz zvíře
+😉	flirt flirtovat mrk mrkající obličej smajlík mrknout mrknutí škádlení tvář výraz zamrkat
+📛	cedulka jméno jmenovka odznáček odznak
+🚉	doprava elektrický lokomotiva mašinka nástupiště peron příměstský vlak stanice vláček vozidlo zastávka železnice
+💌	dopis láska milostný pošta romance romantika srdce srdíčko valentýn zamilovaný zásilka
+🆘	morseova abeceda morseovka pomoc sos štítek tlačítko značka
+🛙	maják moře naděje námořní navigace osvětlení signál světelný světlo vedení
+🍯	džbán medu jídlo med medvěd medvídek pú mlsný sklenice sladkost sladký včela
+😿	kočka obličej pláč plačící kočičí plakat ronit slzy slza slzička smajlík smutek smutný tvář uplakaný výraz zvíře
+🫜	jídlo kořen ředkvička řepa salát tuřín vegetariánské zahrada zelenina
+😳	bože červenat cože ohromený páni překvapení překvapený provinilý rozpaky šílené stydět stydlivý trapas trapné údiv udivený výraz wow zrudnout
+🚨	auto majáček maják otáčecí otáčení otočný policejní policie poplach siréna světlo vozidlo
+🚌	autobus doprava školní vozidlo žlutý
+🌇	budova město mrakodrapy obrázek počasí slunce soumrak stmívání večer velkoměsto západ
+🔝	nahoru nejlepší neklopit šipka s nápisem top vzhůru začátek
+🙊	gesto jejda mlčet ne nemluvím nepovím nic obličej opice psst ruce tajemství ticho ups ústa výraz zákaz zakrytá zlo zvíře
+🐙	chapadlo chobotnice chobotnička cthulhu hlavonožec krakatice kraken měkkýš moře oceán stvoření zvíře
+🕦	11 11:30 23:30 30 čas hodiny jedenáct půl dvanácté třicet
+🕞	15:30 3 3:30 30 čas hodiny půl čtvrté tři třicet
+🙌	dlaně gesto hurá oslava oslavovat ruka sláva tělo velebit zdvižená zvednutá zvednuté ruce
+🚗	autíčko auto automobil červené doprava jet jízda osobní vozidlo vůz
+🕥	10 10:30 22 22:30 30 čas deset hodiny půl jedenácté třicet
+🥱	dobrou noc nuda ospalý smajlík unavený utahaný výraz zdřímnout si zívající obličej zívat znuděný zzz
+🐎	derby dostih dostihový kůň dostihy farma jezdec jezdecký jezdectví jízda koník koňské triple crown velká pardubická závod zvíře
+👩‍🚒	člověk hasička hasičské auto povolání požár požární hadice požárnice práce stříkačka žena
+🪉	amor harfa hudba láska nástroj orchestr
+🫁	anatomie dech dýchací dýchání hrudník nádech orgán plíce průdušky průdušnice respirace výdech
+📲	hovor komunikace mobil se šipkou mobilní příjem přijmout šipka telefon volání
+💚	city ily láska miluji tě miluju romantika srdce srdíčko zelená zelené
+📶	anténa čárky indikátor síly signálu komunikace mobil mobilní proužky signál síla telefon ukazatel
+🫦	flirtování nejistota nervozita obava okusovat polibek rtěnka rty sexy skousnutý ret starost strach svádění
+🌅	počasí příroda ráno rozbřesk slunce svítání úsvit východ
+🌂	déšť deštník fialový oblečení paraple počasí zavřený
+🍲	dušené jídlo guláš hrnec jídla kouřící polévka vývar
+🪜	lezení nářadí příčka schod schůdky šplhat šprušel žebřík
+✅	✓ bílá značka zaškrtnutí fajfka hotovo opraveno ověřeno správně tlačítko se značkou zelené
+📑	ouška ouško papíry s poznámkami poznámky stránky se záložkami záložka značka
+👣	bosky bosý chodidlo chůze jít naboso neobutý oblečení otisk procházka šlápota šlépěj stopa stopy tělo
+👀	bulvy koukat nakouknout obličej oči oko omg pokukovat tělo tvář vidět vykulený výraz vytřeštěné vyvalený
+🤸	akrobacie člověk gymnastika hvězda osoba dělající přemet stranou radost sport
+⭕	červený kruh bez výplně kolečko kroužek o velký
+😆	chacha haha hehe hlasitý křenit lol mžourající obličej otevřený řehtat rofl smajlík smích spokojený tlemit tvář úsměv ústa výraz zubící
+🔄	deja vu dejavu doleva hodin obnovit proti směru hodinových ručiček šipka šipky směr tlačítko šipek znova znovu
+🟢	kolečko kolo kroužek kruh zelená zelené zelený
+🧗	člověk lezoucí po skalní stěně hora horolezec horolezkyně lezec lezení lezkyně stěna
+🌟	hvězda hvězdička jas jiskra noc třpytit se třpytivý vyhrát záře zářící
+🤧	chřipka horečka kapesník kýchající obličej kýchat na zdraví nachlazený nemocný rýma smajlík smrkat tvář výraz zdravíčko
+🔛	kupředu šipka šipky s nápisem on vpřed značka
+🪫	baterka elektrická elektřina elektronika málo energie slabá baterie vybitá vybitý vyčerpaný
+⏰	budíček budík buzení čas čekání hodiny pozdě vstávání zaspat zpoždění
+🥕	jídlo karotka kořenová zelenina mrkev mrkvička zahrada
+➿	dvojitá dvojitý kadeř kudrlinka kudrna smyčka spirálka
+🥂	cinkající sklenice cinkání nápoj oslava oslavovat pití přípitek přiťuknutí šampáňo šampaňské sekt
+🪲	brouček brouk hmyz živočich zvíře
+🩹	bandáž leukoplast náplast obvaz ošetření poranění ranka zranění
+🟧	čtverec čtvereček oranžová oranžový zaoblený
+📍	kulatý připínáček lokace mapa místo napínáček pin poloha připnout špendlík
+😽	kočičí polibek se zavřenýma očima kočka líbající obličej oči oko pusa pusinka smajlík tvář výraz zvíře
+🐤	kuřátko kuře ptáčátko ptáček pták zvíře
+🤵	člověk formální motýlek muž ve smokingu oblek osoba sako smoking smokink společenský oděv ženich
+🛼	bruslení bruslit inlajny inline jízda na bruslích kolečková brusle kolečkové quad roller derby sport trekové
+🧩	díl dílek dílky kousek patřit k sobě puzzle skládačka zapadat
+🛝	dětská skluzavka hra hřiště klouzačka klouzat se sklouznout zábavní park
+🔇	hlasitost potichu reproduktor tichý vypnutý ztlumený zvuk
+🏥	budova doktor léčení lék lékař nemocnice ošetřovna pohotovost špitál
+🚔	auto doprava policie příjezd přijíždějící policejní vozidlo vůz
+💶	100 banka bankovka bohatý eu euro eurobankovka eurová evropa hotovost měna peníze
+🥭	jídlo mango mangovník mangový ovoce tropické tropický
+🫂	člověk díky loučení náruč objetí objímající se lidé osoba pozdrav přátelství sbohem vděčnost
+🔳	bílé čtvercové tlačítko čtverec geometrie obrys tvar
+💹	banka graf japonský jen měna nahoru peníze rostoucí se znakem jenu trend růst trh vzestup vzestupný
+🧺	koš na prádlo košík nůše piknik proutěný proutí
+😖	frustrovaný mrzutý naštvaný obličej s pláčem na krajíčku otrávený pocit podrážděný překvapený rozpačitý rozrušený škleb smajlík smutný tvář výraz rozpaků zatraceně zmatený znechucený
+🔐	bezpečný klíč visací zámek zabezpečení zamčený zámeček na kolo zamknutý s klíčem zavřený
+🈯	ideogram japonský čtvercový rezervace japonština obsazeno prst rezervováno směr štítek s japonským znakem „rezervováno“
+🏦	banka budova spořitelna
+🍧	cukrovinka dezert dřeň jídlo led ledová tříšť osvěžující restaurace sladkost sladký zákusek zmrzlina zmrzlinový pohár
+🧍	člověk postoj stát stoj stojící osoba
+🟠	kolečko kolo kroužek kruh oranžová oranžové oranžový
+⛔	doprava dopravní ne nevstupovat vjezd vjezdu vozidel vstupu zákaz v jednom směru zakázáno značka
+✊	držet palce držím pěsti pěst ruka síla solidarita tělo úder zaťatá zvednutá
+🌜	couvá couvající čtvrť fáze měsíce měsíc v poslední čtvrti s obličejem měsíček noc obličej počasí půlměsíc smajlík snít sny tvář ubývá ubývající vesmír výraz
+😹	brečet smíchy hlasitý smích kočičí obličej slzící kočka se slzami radosti lol radost slza slzy smíchu smajlík tvář výraz zvíře
+🧾	doklad důkaz faktura potvrzení stvrzenka účet účetní účetnictví účtenka účty
+🪩	disco disko diskokoule diskotéka mirrorball odraz party párty tanec třpytky zrcadlit zrcadlová koule
+🏇	člověk dostihový kůň závod dostihy klasická trojkoruna sport žokej na koni
+👦	chlapec chlapeček člověk dítě hoch kluk malý
+🏸	badminton badmintonový míček hra košíček košík opeřený péřový raketa sport
+🥜	arašíd arašídy burák burský oříšek jídlo lusk olejná ořech podzemnice
+📱	komunikace mobil mobilní smartphone telefon
+🕎	chanuka judaismus menora náboženství sedmiramenný svícen svátek světel židovský
+🚙	auto automobil cestování doprava džíp jeep jet jízda rekreace rekreační řídit sport sportovní užitkové vozidlo suv vůz
+🖤	černá černé smutek srdce srdíčko zkaženost zlo zlý
+🪬	amulet fátima fátimina fátimy gesto ochrany hamsa marie ochrana před zlým pohledem ruka uhranutí
+🚴	člověk cyklista cyklistika horské kolo jízda na kole muž osoba silniční sport
+🍷	alkohol bar chlast klub nápoj pití restaurace sklenice sklenička vína sklípek sklo vinárna vinný víno
+💊	antibiotikum doktor léčivo lék lékař medicína nemoc nemocný pilulka prášek tableta tabletka vitamin vitamín
+🍀	4 čtyři čtyřlístek irsko irský jetel list rostlina štěstí
+🪌	chyba dřít gumovat kreslení odstranit omyl oprava přepis psaní smazat vrátit zpět vygumovat
+😷	bacily bakterie dermatolog doktor lék lékař maska nachlazený nemocný obličej s lékařskou rouškou prevence rouška rýma smajlík tvář doktorskou výraz zubař
+📆	17 červenec datum kalendář trhací
+🙉	gesto ne neposlouchat neslyšet neslyším nic obličej opice pšt ruce ššš tvář uši výraz zacpané zákaz zakázáno zakryté zlo zvíře
+💱	$ banka dolar jen měna peníze směna peněz směnárna výměna yen
+🩻	doktor hrudní koš kosti kostlivec kostra lékař medicína rentgen skelet sternum vyšetření zdravotnictví žebra
+🏠	budova chata domeček domek domov dům předměstí ranč rodinný usadit se
+📙	číst čtení fantasy kniha knihovna knížka oranžová učení vzdělání
+🥔	brambor brambora hlad jídlo lilek zahrada zelenina
+💮	bílá květina bílý květ
+🥌	curling curlingový kámen hra kanadský led sport zimní
+💩	ble exkrement fekálie fuj hnůj hovínko hovňousek hromádka lejno obličej příšera smajlík smradlavý smrdí trus tvář výkal výraz zápach
+🍳	jídlo pánev restaurace smažení smažit snídaně vajíčko vaření vejce na pánvi volské oko
+🦈	ryba žralok zvíře
+🌼	květ květina kytka louka pampeliška podběl pryskyřičník pryskyřník rostlina žlutá
+😜	bláznivý jazyk legrace mrkající obličej s vypláznutým jazykem mrknout mrknutí oko potrhlý praštěný smajlík sranda tvář vyplazeným a mrkajícím okem ujetý vtip výraz ztřeštěný
+🪁	let létání papírový drak plachtit podzim pouštění pouštět draka stoupání vzlétnutí
+⛎	had hadonoš horoskop nosič plaz zvěrokruh
+🍾	alkohol bar bouchnout šampaňské korek lahev láhev sektu nápoj pití přípitek šáňo sekt špunt zátka
+🧇	forma jídlo moučník mřížka sendvičovač snídaně vafle vaflovač
+🛞	auto koleso kolo kruh kulatý otáčení pneumatika rezerva točit volant vozidlo
+📜	listina papír papyrus pergamen svitek
+🧎	klečet klečící člověk osoba klek kolena na kolenou poklek
+🌕	fáze měsíce jasný měsíc v úplňku noc počasí úplněk vesmír
+💽	cd cédéčko disk hudba minidisk optické optický počítač
+💙	city ily láska miluji tě miluju modrá modré srdce romantika srdíčko
+📏	délka dlouhé geometrie matematika měřit pravítko rovné úhel
+🥡	dovážka jídla jídelní hůlky jídlo do domu krabice na s jídlem krabička papírová rozvoz rýže
+🕔	00 17 17:00 5 5:00 čas hodiny pět hodin
+🤩	hvězda nadšený obličej s hvězdami v očích oči páni paráda šklebící smajlík tvář tyjo úsměv výraz wow
+🟦	čtverec čtvereček modrá modrý zaoblený
+🐍	had hadonoš horoskop plaz zvěrokruh zvíře
+🐉	čínský drak fantasy pohádka rytíři zelený zvíře
+🪎	bohatství cena cennosti drahokam klenoty lup odměna peníze šperky stříbro zlato
+💯	100 ano na jedničku opravdu pecka plný počet rozhodně skóre souhlas sto bodů stoprocentní že váháš
+🌝	fáze měsíce jasný měsíc v úplňku s obličejem noc obličej počasí smajlík tvář úplněk vesmír výraz
+♏	škorpion štír znamení štíra zvěrokruh
+🪞	kosmetické líčení makeup malovat se nábytek obraz odlesk odraz zrcadlo zrcátko
+💅	kosmetika lak na nehty lakovat leštit manikúra nalakované nalakovat nehet péče tělo
+🫫	napětí odhalení odolnost praskání proměna rozbitý rozpad skrývání
+🈁	japonská značka katakana koko japonský japonština štítek s japonským znakem „zde“ tady zde
+🍵	čaj čajový šálek nápoj oolong pít pití bez ouška zelený
+⏳	běžící přesýpací hodiny čas časomíra časovač čekat minutka písek s pískem
+🌙	couvá dorůstá měsíc noc počasí přibývá půlměsíc ramadán srpek měsíce ubývá vesmír
+🤭	aha ajaj chichotání hihňat se jejda jéje obličej s dlaní před pusou rukou na ústech oj oops ouha překvapení ruka smajlík šok tajemství tvář ups výraz
+🥗	jídlo listová zelenina okurek rajče salát zdraví zdravý zelený
+🈹	akce ideogram japonský čtvercový slev japonština sleva štítek s japonským znakem „sleva“ výprodej
+🔔	cinkat kostel pauza přestávka zvon zvonek zvonit zvuk
+🦹	darebák lotr lump muž padouch superpadouch superschopnost superzločinec superzloduch záporák záporná postava záporný hrdina zločinec zloduch zlý
+🙎	člověk naštvaná nespokojená nespokojenost nespokojený výraz podrážděná osoba žena podráždění trucovat trucující
+🫴	blíž chycení dej mi ruku dlaň vzhůru nabídka podat pojď pokynutí ruka otočená dlaní zdvihnout
+👨‍🦽	bezbariérový přístup handicap hendikep invalidní kolečkové křeslo muž na mechanickém invalidním vozíku v ručním pomůcka postižení ručně poháněný vozík usnadnění
+🙇	gesto lítost meditovat modlitba muž se klaní omluva omluvné pardon poklona promiň prosba úcta uklánějící osoba úklona
+🔈	hlasitost mírný nízká potichu reproduktor s nízkou hlasitostí tichý tiše hrající tlumený zvuk
+🍋‍🟩	citrus kyselý limeta limetka limetková šťáva limetkový koláč margarita mojito ovoce salsa tequila tropické
+🪖	armáda bojovník helma přilba válka voják vojenská
+🪰	bzučivka rudohlavá hmyz hnijící larva masařka moucha mucha muška nemoc otravný živočich zvíře
+👧	člověk copatá copy culíky dcera děvče dívka holčička holka malá panna zvěrokruh
+🍂	list opadavý padající podzim rostlina spadlý
+🍝	boloňské špagety italská kuchyně italský jídlo masové kuličky rajská omáčka restaurace těstoviny
+🧑‍🦼	člověk na elektrickém invalidním vozíku handicap hendikep invalidní pomůcka postižení usnadnění vozík
+🏂	člověk jízda na snowboardu lyže prkno sníh snowboard snowboardista snowboardistka sport zimní
+🏬	budova centrum nákupní nákupy obchod obchodní dům prodej
+🤾	chytit člověk házená házenkář hodit míč nadhazovat osoba hrající házenou sport zápas
+🌳	les listnatý strom opadavý příroda rostlina zelený
+🏐	balón hra míč na volejbal odbíjená sport volejbalový
+🧴	gel hydratační krém kondicionér láhev na kosmetiku lahvička opalovací pleťová voda pleťový šampon sprchový
+💨	běh komiks kouř letím musím běžet nadýmání oblak kouře obrázek prdět pšouknout spěch větry
+🪱	červ dešťovka kroužkovec parazit živočich žížala zvíře
+🫕	čokoládové fondue fondy jídlo lyže lyžování potravina rozteklý švýcarské švýcarský sýr sýrové tavený
+🕧	0 0:30 00:30 12 12:30 30 čas dvanáct hodiny nula půl jedné třicet
+🥣	cereálie cornflakes jídlo kaše kornflejks kornflejky krupičná kukuřičné lupínky miska se lžící muesli musli müsli ovesná polévka snídaně
+🍞	bochník chléb chleba jídlo karbohydráty moučný obilí obilniny obiloviny pecen pšenice restaurace sacharidy toast toastový
+🌚	fáze měsíce měsíc v novu s obličejem noc nov novoluní nový obličej počasí smajlík tma tvář vesmír výraz
+🦨	pach páchne páchnoucí skunk smrad smradlavé smradlavý smrdět smrdí tchoř zvíře
+🚹	muž pánská toaleta pánské toalety wc záchod
+🪅	bonbony cinco de mayo cukrovinka fiesta mexická oslava party párty pátého května piňata piñata sladkosti slavit svátek
+🪢	lano provaz smyčka šňůra suk úvaz uvázat uzel zamotaný zapletený zauzlovat zavázat
+🫢	mlčet neuvěřitelné nevěřícnost nevíra obličej s otevřenýma očima a dlaní před pusou omg pohoršení překvapení proboha šok šokovaný trapas údiv úlek úžas
+🎻	housle hudba hudební nástroj skřipky smyčec stradivárky
+🛫	aeroplán check-in doprava letadlo letoun odbavení odlet letadla odlety vzlet vzlétající
+💐	květina kytice kytička kytka láska narozeniny pugét rande romance romantika rostlina růže výročí
+👎	-1 dolů ne nelíbí se mi palec ruka špatný tělo
+🤟	gesto „miluji tě“ miluji tě ily láska miluju rock rocker rockerské ruka tři prsty
+♋	horoskop rak znamení raka zvěrokruh
+🦸	batwoman dobro dobrý člověk hrdina hrdinka klaďas kladná postava superhrdina superhrdinka superhrdinská superschopnost superschopnosti superžena wonderwoman
+👏	aplaus dobrá práce gratulace ovace paráda potlesk ruka skvělý souhlas super tělo tleskající ruce tleskám tleskat uznání
+🧚	duch fantasy křídla oberon puk skřítek titánie víla s křídly vílák
+🏢	budova dům kancelář kanceláře kancelářská město práce věžák zaměstnání
+🧻	papírové ručníky utěrky role papíru rolička toaleťák toaletní papír
+🔅	jas nízký slunce sluníčko tlačítko ztlumení jasu tlumený ztlumit ztmavení ztmavit
+🆓	bezplatný free štítek tlačítko zdarma volný zadarmo značka
+🪛	náčiní nářadí nástroj šroub šroubovák šroubovat
+📖	číst čtení fantasy kniha knížka otevřená otevřený učení vědomosti vzdělání
+🍬	bonbon bonbón cukrátko cukrovinka jídlo mlsat mlsný obal sladkost sladký zubní kaz
+🃏	divoká hra hraní joker karta karty žolík
+🧪	chemička chemie chemik experiment kapalina kyselina laboratoř pokus věda žíravina zkumavka
+🍟	bramborové brambory fastfood hranolky jídlo pomfritky pomfrity rychlé občerstvení
+🌏	asie austrálie glóbus s asií a austrálií planeta svět země zeměkoule
+🧵	bavlnka cívka nití jehla motouz nit příze provázek šít šití šitíčko šňůrka špulka vlákno
+🆎	ab krev krevní skupina štítek značka
+👩‍🍼	chůva dítě kojenec kojení kojící maminka kojit krmení krmící krmit mamka matka s dítětem nemluvně novorozenec osoba rodiče žena z lahve
+🕛	0 0:00 00 12 12:00 čas dvanáct hodin hodiny nula poledne půlnoc
+🍰	cukrovinka dezert dílek dortu dort dortový řez jahodový jídlo kousek moučník piškot sladké pečivo sladkost sladký zákusek
+🦩	nápadný okázalý plameňák růžový pták tropický tropy zvíře
+😁	křenit se obličej oči oko řehtat rozzářený s usměvavýma očima smajlík smát tvář úšklebek úsměv výraz širokým úsměvem rozzářenýma zuby
+⬛	černá čtverec geometrie tvar velký černý
+🪻	fialová hledík hyacint květ květina levandule lupina rostlina vlčí bob
+🖖	prst ruce ruka spock star trek tělo vulkán vulkánec vulkánský pozdrav
+🪍	chytit past sebrat síť síťka ulovit
+⌚	čas hodinky hodiny náramkové
+🐯	hlava tygra obličej predátor šelma smajlík tvář tygr tygřík velká kočka výraz zvíře
+🚧	bariéra blokovat cedule práce na silnici překážka stavba stavební zábrana staveniště uzávěra zátaras značka
+🔵	geometrie kruh modrá modrý kroužek tvar
+🌄	hora počasí ráno rozbřesk slunce svítání nad horami východ
+🚾	toaleta voda wc záchod
+📮	pošta poštovní schránka
+🦽	bezbariérový handicap hendikep invalidita invalidní vozík manuální mechanický pomůcka postižení ručně poháněné kolečkové křeslo snížená mobilita usnadnění zpřístupnění
+🌁	mlha mlhavo most počasí
+🫈	bigfoot chlupatý divý člověk kryptid les obr seskveč tajemný tvor yetti
+🦷	běloskvoucí dentista perlička stomatolog zub zubař zubařka zubní zuby
+🪺	hnízdění hnízdo s vejci ptáček ptačí pták snášet vejce vajíčka větvičky
+🐜	brouk hmyz mravenec zahrada zvíře
+🔋	akumulátor baterie baterka nabíjet zelená
+🟡	kolečko kolo kroužek kruh žlutá žluté žlutý
+🌑	fáze měsíce měsíc v novu noc nov novoluní nový počasí tma vesmír
+😩	brečet hladový naštvaný ne neštastný obličej ospalý plakat selhání smajlík smutný tvář únava unavený utahaný vyčerpání vyčerpaný výraz zkroušený
+🛒	košík nákupní nakupování nakupovat nákupy vozík
+🆗	ok oukej štítek značka
+🪝	chytit háček hák lovit nářadí polapit zahnutý
+🥞	javorový sirup jídlo lívance lívanec máslo palačinky snídaně
+💳	banka hotovost karta kredit kreditka kreditní peníze platební platit účet uhradit úvěrová zaplatit
+🦗	brouk cvrček hmyz kobylka koník luční orthoptera rovnokřídlí saranče zvíře
+🫛	edamame hrách hrachový lusk hrášek kulička luštěniny sója zelenina
+🥧	dýňový koláč jablečný jídlo kus koláče maso náplň ovoce páj pečivo pie plněný
+🧸	hračka hrát si medvěd medvídek plyš plyšák plyšový
+🧛	drákula krev nemrtvý nosferatu obličej upíra sát špičáky tesáky upír vampýr
+🟪	čtverec čtvereček fialová fialový zaoblený
+🐱	domácí hladit hlava kočky kočička kočka koťátko kotě mazlíček obličej smajlík tvář výraz zvíře
+🦺	bezpečí bezpečnost bezpečnostní vesta nouze nouzová situace reflexní viditelný výstražná
+🈴	dohoda hodnocení ideogram japonský čtvercový jednoty japonština prospěl štítek s japonským znakem „prospěl“ vyhověl vyhovující známka
+🍏	jablíčko jablko jídlo ovoce rostlina zelená zelené
+🌠	hvězda kometa kosmos noc padající vesmír
+❌	× červený křížek krát násobení násobit součin x zaškrtnutí značka znak zrušení
+🐸	hlava žáby obličej princezna smajlík tvář výraz žába žabák žabí princ zvíře
+🧀	ementál jídlo klínek sýra kousek sýr sýrový
+🪕	banjo bendžo brnkat hudba hudební nástroj strunný
+🐩	chundelatý domácí mazlíček načechraný pes pudl pudlík zvíře
+🦻	handicap hendikep naslouchadlo naslouchátko nedoslýchavost neslyšící pomůcka postižení ucho s naslouchátkem usnadnění
+👩‍🦼	bezbariérový přístup handicap hendikep invalidní kolečkové křeslo motorizovaný vozík pomůcka postižení usnadnění žena na elektrickém invalidním vozíku v motorizovaném
+🧙	čaroděj čarodějník čarovat černokněžník člověk kouzelník kouzlo mág magie rpg zaklínadlo
+👨‍🏫	člověk cvičitel instruktor kantor lektor muž pedagog povolání práce přednášející přednáška profesor škola školitel učitel vyučující vzdělání
+💄	kosmetika líčení make-up makeup mejkap rande rtěnka růž šminky
+🚘	auto automobil červená doprava jet jízda osobní příjezd přijíždějící vozidlo vůz
+👨‍🏭	člověk dělník v továrně dílna fabrika montér muž povolání práce průmysl svářeč továrna výroba
+🏣	budova japonská pošta japonský
+🫐	bobule borůvkový borůvky jídlo lesní modré modrý ovoce plod potravina
+🦑	chobotnice hlavonožec jídlo kalamár kalmar krakatice měkkýš mořské plody oliheň moře sépie zvíře
+🐵	banán hlava opice obličej opička smajlík tvář výraz zoo zvědavá zvědavý george zvíře
+🧊	chlad kostka ledu led ledová ledovec ledový studený zmrzlý
+🤿	brýle potápěčská maska výbava potápěčské potápění šnorchl šnorchlování sport
+📼	kazeta pásek páska retro vhs video videokazeta
+💟	bílé srdce city fialové ily láska miluji tě miluju jako ozdoba srdíčko
+🎥	bollywood film filmová hollywood kamera kino natáčení natočit záznam
+🧥	brr bunda chladno kabát péřovka teplé oblečení zima zimní
+🐽	čenich čenichat čich čmuchat čumák farma obličej prase prasečí rypák rypáček smajlík tvář výraz zvíře
+👭	bestie bff držící dvě dvojčata dvojice holky kamarádka kamarádky kámošky lesby nejlepší pár přátelství rande ruce ruka sestry za ženy
+🚝	doprava jednokolejka jednokolejná visutá dráha vozidlo
+🩷	láska líbí roztomilý růžová růžové srdce srdíčko
+🧑‍🎓	absolvent absolventka student studentka studující
+🏡	budova chata domeček domek se zahradou domov dům předměstí ranč usadit venkov zahrada
+😮‍💨	foukat kouřit lapání po dechu obličej oddechnutí pískání povzdech šepot smajlík uf úleva vyčerpaný výdech vydechnutí vydechující vyfukující výraz
+🔣	& % 〒♪&% klávesnice psaní symboly vstup zadávání symbolů znaky zvláštní
+🪚	dřevo nářadí nástroj ocaska pila pilka řezat ruční truhlář uříznout
+🧕	bandana člověk hidžáb mantila šátek tichel závoj žena s šátkem na hlavě v šátku
+🦂	horoskop škorpion štír znamení štíra zvěrokruh zvíře
+➖	- − matematika minus mínus odčítání odečíst odečítat počítat rozdíl velké znaménko záporný znak
+😮	dokořán kecáš nekecej neuvěřitelné nevěřím obličej omg otevřená páni překvapený pusa smajlík šok soucit tvář tyjo ústa vážně výraz wow
+🪸	klimatické změny korál korálový útes moře oceán ohrožený druh
+🚊	doprava příměstský vlak tramvaj vozidlo
+😟	bát se nervozita nervózní obavy obličej překvapený smajlík smutný starost starosti strachovat stres tvář ustaraný úzkostlivý výraz obav
+📇	index karta kartotéka osobní otočný registr rejstřík retro vizitka vizitkovník
+🌽	farma jídlo klas kukuřice kukuřičný obilí plodiny rostlina sklizeň úroda zrno
+📫	doručená pošta komunikace poštovní schránka zavřená s praporkem nahoře se vztyčenou vlajkou zavřený
+🚄	cestování doprava dopravní prostředek pendolino rychlost rychlovlak rychlý šinkansen tgv vlak vozidlo železnice
+🧑‍🎨	malíř malíř/malířka malířka paleta umělec umělkyně umění
+🪪	doklad totožnosti id identifikace kartička legitimace licence občanka občanský průkaz osobní údaje průkazka řidičák řidičský totožnost zabezpečení
+🫖	čaj čajník čajová konvice horký jídlo konvička louhovat nápoj pití potravina teplý
+🕘	00 21 21:00 9 9:00 čas devět hodin hodiny
+🈵	ideogram japonský čtvercový obsazenosti japonština obsazeno plno plnost štítek s japonským znakem „obsazeno“ žádná volná žádné volné
+🐔	kuře pták slepice zvíře
+👩‍🦽	bezbariérový handicap hendikep invalidní mechanický vozík pomůcka postižení ručně poháněné kolečkové křeslo poháněný snížená mobilita usnadnění žena na mechanickém invalidním vozíku v kolečkovém křesle
+🛗	přístup stroj usnadnění vyjet výtah zdvihat zdviž
+🍊	citrus jídlo mandarinka oranžová ovoce pomeranč rostlina vitamin c vitamín
+🤒	angína chřipka horečka nemocný obličej s teploměrem smajlík teploměr teplota tvář v puse výraz
+🎾	míček raketa sport tenis tenisák tenisový
+🤡	kašpar klaun klaunský obličej šašek smajlík tvář klauna výraz
+💰	banka boháč bohatý cash cena dolary hotovost měšec milion peněz peníze platit poklad pytel sázka skrblík váček vak vyhrát zlato
+🛴	doprava koloběžka sport
+🪷	buddhismus čistota hinduismus indie klid květ květina lotos lotosový relax rozkvetlý vietnam vyrovnanost
+🦉	dravec les moudrost moudrý pták sova sýček výr zvíře
+🐛	brouk hmyz housenka příroda stonožka zahrada zvíře
+📣	fandění fandit megafon povzbuzování povzbuzovat proslov řečnění řečník tlampač volání zvuk
+😱	bát se děs edvard munch hrůza křičet strachy obličej křičící hrůzou překvapený smajlík šok šokovaný strach tvář vyděšený výkřik výraz strachu vystrašený zděšený
+🥨	jídlo kroucené pečivo preclík zakroucený zamotaný
+📎	kancelářská sponka papír na svorka
+🍩	americká cukrovinka dezert donut jídlo kobliha koblížek pečivo sladkost sladký zákusek
+🐕	domácí fena fenka mazlíček pejsek pes psík zvíře
+🧑‍🧒‍🧒	dítě rodina dospělý
+🪮	afro česat hřeben na kudrnaté vlasy kudrlinky kudrny
+🫗	nalévat nápoj pití převržená sklenice rozlitý voda vylévání tekutiny vylít vylití vyprázdnění vyprázdnit
+📳	komunikace mobil mobilní režim vibrací telefon vibrace vibrační vibrování
+💏	člověk dvojice láska líbající se pár srdcem líbání miláček polibek pusa pusinka romance romantika srdce výročí
+🔮	budoucnost fantasy koule kouzlo křišťál křišťálová magie nástroj osud pohádka předpověď předpovídání budoucnosti skleněný sklo věštec věštění věštkyně
+🙆	baletka cvičení gesto souhlasu ok omg pirueta protahování ruce nad hlavou ruka souhlas strečink žena souhlasí
+🏈	americký fotbal fotbalová fotbalový míč na šiška sport super bowl
+🥿	balerinka balerínky baleríny baletní bota bez podpatků na balet s rovnou podrážkou nazouvací nízká piškotka plochá obuv pohodlí pohodlné střevíc střevíček podpatku
+🦿	handicap hendikep invalidní mechanická noha pomůcka postižení prostetická protetická protetika protéza usnadnění
+💆	bolest hlavy masáž a obličeje napětí obličej osoba na masáži relaxační salon salón spa tvář ukliňující wellness žena
+🫯	debata hádka nesouhlas povyk roztržka spor zápas
+🫰	drahé drahota drahý gesto lásky k-pop láska lusknutí nákladný peníze ruka se zkříženým palcem a ukazováčkem srdce srdíčko
+🥯	bagel bejgl chléb chleba houska namazat pečivo pekárna pomazánka snídaně
+🦜	ara mluvící mluvit papoušek papouškovat pirát pták zvíře
+👨‍🌾	člověk farmář muž povolání práce rančer rolník sedlák záhradkář zahradník zemědělec
+👖	džíny gatě kalhoty modrá nákupy oblečení oděv rifle víkend volný čas
+🦕	brachiosaurus brontosaurus dinosaurus diplodocus sauropod vyhynulý zvíře
+🚯	ne neodhazujte odpadky odpad smetí zákaz odhazování odpadků zakázáno
+🩱	dámské plavky jednodílné oblečení oděv růžové vínově červená
+➕	+ kladný matematika plus přičíst přičítat připočítat sčítání sčítat sečíst součet velké znaménko znak
+😡	běsnit červená červený hněv naštvaný nazlobený obličej s podrážděným výrazem podrážděný rozhněvaný rozzuřený rudý smajlík tvář výraz vztek zloba zlost zuřivost zuřivý
+🥋	bojové umění černý pás džudo judo karate kimono na pásek sport sportovní taekwon-do taekwondo
+🐣	klubající klubání kuřátko kuře líhnoucí se líhnutí ptáčátko pták skořápka skořepina vajíčko vejce vylíhnout vylíhnuté zvíře
+👑	koruna korunka král královna královský oblečení oděv panovnice panovník šlechta středověk vyhrát zvítězit
+🏆	cena mistrovství odměna pohár šampion sport titul trofej trofejní vítěz vítězství výhra vyhrát
+🦔	bodliny ježek ostny pichlavý schoulený zvíře
+✋	5 high five pět plácneme si plácnutí pozdrav ruka stop tělo zvednutá
+🔪	krájet kuchař kuchyňský nůž nádobí nástroj řezat šéfkuchař sekat vaření zbraň
+🪔	diya indická olejová lampa indie olej orientální
+🐏	beran horoskop ovce rohy samec znamení berana zoo zvěrokruh zvíře
+🟣	fialová fialové kolečko fialový kroužek kruh kolo
+🥦	brokolice brukev zelná jídlo kapusta rostlina zahrada zelenina
+👜	doplňky kabelka nakupovat nákupy oblečení oděv outfit taška zavazadlo
+🍎	červená červené jablko jídlo ovoce rostlina strava zdravá zdraví zdravý životospráva zralý
+🍜	jídelní hůlky jídlo kouřící miska nudlí nudle pára pho polévka ramen
+🐓	farma kohout kokrhat pták zvíře
+🪑	dřevěný posadit se posezení sedačka sedadlo sedátko sedět sednout sezení stolička židle
+🧠	chytrý inteligence inteligentní iq mícha mozeček mozek šedá kůra mozková
+📘	čtení fantasy kniha knihovna modrá učení vzdělání
+🛬	cestování doprava letadlo létat letoun přílet přilétá přílety přistání letadla přistávající
+🍘	japonská směs jídlo keks krekr křupka mořská řasa rýže rýžová sušenka suchar
+🦚	barevný honosný krásný pták náfuka okázalý ostentativní páv paví pero pávice peří pompézní pyšný zvíře
+🎆	bum ohňostroj oslava výbuch zábava
+🫌	hmyz housenka křehkost metamorfóza migrace naděje proměna transformace
+🤯	explodující hlava nemožné není možné neuvěřitelné obličej smajlík šok tvář výbuch vybuchující výraz
+🟩	čtverec čtvereček zaoblený zelená zelený
+🈲	ideogram japonský čtvercový zákazu japonština štítek s japonským znakem „zákaz“ zákaz zakázáno
+😈	čert ďábel ďáblík démon fantasy fialový obličej pohádka rohatý rohy škodolibý smajlík tvář úsměv s usmívající se výraz
+💗	city ily láska miluji tě miluju nervozita puls rostoucí srdce srdíčko tep tlukot tlukoucí vzrušení
+🔼	nahoru šipka tlačítko trojúhelník
+🎈	balónek červený nafukovací narozeniny oslava párty slavit
+🦀	horoskop krab rak znamení raka zvěrokruh zvíře
+🩸	dárcovství krve darování darovat krev kapka krvácet lékařství medicína menstruace teče zranění
+📄	dokument list papír strana stránka lícem nahoru
+🐋	kytovec moře oceán pláž plejtvák příroda savec velryba zvíře
+🍌	banán draslík jídlo ovoce rostlina
+🤕	au bolest bolí boule obličej s ovázanou hlavou obvaz ofačovaná hlava smajlík tvář výraz zafačovaný zranění zraněný
+👡	bota dámský sandál oblečení podpatky střevíc střevíček žena
+🏤	budova evropský město pošta poštovní úřad
+🏓	hra míč míček pálka ping pong ping-pong pingpong sport stolní tenis
+🧁	cukr cukroví cupcake dezert dobrota dortík košíček moučník muffin pečivo pekárna pochoutka poleva sladkost sladký zákusek
+🌲	borovice jedle jedlička jehličnan jehličnatý strom les neopadavý příroda rostlina smrček smrk stálezelený vánoční stromeček
+🎂	cukrovinka dezert dort jídlo moučník narozeninový narozeniny oslava sladké pečivo sladkost sladký svíčky zákusek
+💋	city láska otisk rtů polibek pusa pusinka rande romance romantika rty sexy srdce
+🤔	hloubat hmm obličej přemítat přemýšlet smajlík tvář uvažovat výraz zadumaný zamyšlení zamyšlený zvažovat
+⛳	červená vlajka golf golfová golfové hřiště jamka s vlajkou sport
+🧫	bakterie biolog biologie bioložka buněčná kultura chemie experiment kapátko kultivovat laboratoř petriho miska pokusy věda
+🥠	budoucnost čínský koláček štěstí jídlo předpověď proroctví sušenka věštba věštění budoucnosti
+👐	dlaně obejmout objetí otevřený rozevřené ruka tělo třepotat rukama
+😃	hlasitý smích jupí obličej otevřený paráda smajlík spokojený šťastný super tvář úsměv ústa výraz s úsměvem otevřenou pusou zubící se velkýma očima zuby
+👅	jazyk lízat olíznout srkat tělo vypláznout vypláznutý
+🤨	co cože hmm mírné překvapení nedůvěra nedůvěřivý nesouhlas nevěřícný nevěřit obličej se zvednutým obočím skepse skeptický smajlík tvář výraz
+🎌	japonský kříž oslava zkřížené vlajky zkřížený
+💫	hvězda hvězdička hvězdičky kometa komiks padající zářivý závrať
+🤹	balancovat cirkus multitasking rovnováha šikovnost žonglování žonglovat žonglující osoba
+📠	fax faxovat komunikace telefax
+🚪	dveře dvířka skříň vchodové zadní vrátka
+🥹	aww dojetí emoce hněv hrdost obdiv obličej se slzami na krajíčku pěkně prosím pláč pocity prosík psí oči rozpaky sebeovládání slzičky slzy štěstí smutek vděčnost
+🌖	couvá couvající fáze měsíce měsíc noc počasí ubývá ubývající po úplňku vesmír vypouklý
+🙏	děkuji díky five gesto high modlit modlitba plácnout plácnutí poklona požehnaný prosím prosit ruce se sepjaté složené úpěnlivě žádat
+🧑‍🎤	bavič bavička herec herečka hvězda rocker rockerka zpěvačka zpěvák zpěvák/zpěvačka
+🪥	čistit dentální hygiena hygienická potřeba kartáček kosmetická koupelna zubní zuby
+🏄	člověk moře oceán osoba na surfu prkno sport surf surfař surfing surfovací surfování surfující vlny
+👩‍🔬	bioložka chemička člověk experimentátorka fyzička inženýrka matematička povolání práce věda vědkyně výzkum výzkumnice žena
+🤺	člověk kord meč rapír šerm šermíř šermířka šermovat sport sportovní
+🎠	kolotoč kolotočový kůň na kolotoči pouť zábava
+🈳	ideogram japonský čtvercový neobsazenosti japonština neobsazenost neobsazený prázdný štítek s japonským znakem „volno“ volno volný
+🔥	hořet horký hranice nástroj oheň ohniště pálit plamen plameny plamínek požár vzplanout zapálit
+🪿	drůbež hloupá husa kejhání potrefená pták zvíře
+🍨	cukrovinka dezert jídlo kopeček zmrzliny kopečková zmrzlina pohár restaurace sladkost sladký zákusek zmrzlinový
+🕓	00 16 16:00 4 4:00 čas čtyři hodiny
+🔯	davidova hvězda hexagram judaismus šesticípá s bodem uprostřed tečkou šťastná štěstěna štěstí židovská židovský
+📉	data dolů graf klesající negativní pokles sestupný trend vývoj
+🐀	hlodavec kanál krysa potkan zvíře
+👟	atletika běžecká bota botaska kopat nákupy oblečení obuv rychle sport teniska tretra
+📯	hudba polnice pošta postiliónský poštovní roh trubka
+😅	nervózní smích obličej otevřený pot rozrušený smajlík stres studený tvář úsměv výraz s úsměvem otevřenou pusou a studeným potem zubící se kapkou potu
+🦛	hroch hroší hrošík tlustokožec zvíře
+🌛	čtvrť dorůstá dorůstající fáze měsíce měsíc v první čtvrti s obličejem obličej počasí půlměsíc smajlík tvář vesmír výraz
+👔	košile kravata oblečení oděv seriózní zaměstnaný
+🧡	láska oranžová oranžové srdce srdíčko
+❔	bílý otazník interpunkční znaménka obrys značka
+🐺	hlava vlka obličej smajlík tvář vlčí vlčice vlk výraz zvíře
+🪹	hnízdečko hnízdění hnízdit prázdné hnízdo ptačí větvičky
+🤴	člověk fantasy koruna král královský panovník pohádka princ vládce vznešený
+🌘	couvá couvající srpek měsíce fáze měsíc noc počasí půlměsíc ubývá ubývající před novoluním vesmír
+🩺	doktor fonendoskop lékař lékařství medicína srdce stetoskop tlukot vyšetření
+🍣	hlad japonský jídlo losos nigiri rýže sushi suši tuňák
+🍢	japonský jídlo kebab mořské plody oden moře restaurace špejle špíz tyčka
+🦐	garnát jídlo korýš kreveta malý moře mořský oceán plody zvíře
+🫺	doprava neutrální pěst ta ten to ukázat
+🍮	dezert jídlo karamelový pudink puding sladkost sladký vanilkový zákusek
+🥐	croissant francouzské francouzský jídlo kroasant loupáček loupák pečivo rohlík
+🔖	karta označení poznačit záložka značka
+🥟	čínský knedlíček dim sum džiaozi empanada gjózu gyoza jiaozi jídlo knedlík pelmeň pelmeně piroh pirohy pirožky plněný taštička tortellini wonton
+🎭	divadelní divadlo herec herečka herectví hra komedie maska múzická umění povolání práce představení scénická shakespeare tragédie zábava
+🈚	bezplatně ideogram japonský čtvercový bezplatnosti japonština negace štítek s japonským znakem „zdarma“ zadarmo zdarma
+🚋	doprava električka šalina tramvaj trolej trolejbus vagon vagón tramvaje vozidlo
+🚦	doprava jet jízda křižovatka provoz semafor signál signalizace světelná světlo svislý
+😒	divný dobře fajn naštvaný nešťastný nevěřícný nuda obličej se znuděným výrazem smajlík to je fuk tvář výraz wtf závist znuděný
+🔹	geometrie kosočtverec malý modrý modrá tvar
+🪴	dekorace domácí dům květina v květináči květináč kytka nuda nudný péče pokojová rostlina růst zasadit
+🧰	bedna na nářadí bedýnka box francouzský klíč hasák kleště krabice mechanik nástroje opravář opravit souprava štípačky
+🦃	den díkůvzdání hudrovat krocan krůta pták zvíře
+🍄	houba hřib hříbek jedovatá jedovatý muchomůrka
+🟤	hnědá hnědé kolečko hnědý kroužek kruh
+🫱	doprava napřáhnout podaná ruka podat ruku potřást rukou pravá otočená stisk vpravo
+🧟	apokalypsa chodící děsivý ghúl halloween mrtvá mrtvola mrtvý nemrtvá nemrtvý strašidelný zombie zombík
+👨‍🎤	bavič člověk herec hvězda muž povolání práce punker rock rocker zábava zpěvák
+🫩	kruhy obličej oči ospalost pozdě únava váčky vyčerpanost znuděnost
+🤗	gesto objetí obejmout obličej s otevřenou náručí ruce ruka smajlík tvář výraz
+⏩	dvojitý přetočit převinout rychle rychloposuv šipka tlačítko převíjení vpřed
+🕜	1 1:30 13 13:30 30 čas hodiny jedna půl druhé třicet
+📈	data graf nahoru rostoucí růst trend vývoj vzestupný
+🦆	kačenka kačer kachna kachnička pták zvíře
+🤼	bojový sport boxerský ring člověk duel wrestling zápas zápasící dvojice zápasník
+🎶	hudba nota notový zápis noty osminové tón zvuk
+🦁	hlava lva horoskop hříva král zvířat lev obličej řád bílého řev řvaní safari silný smajlík tvář výraz znamení zvěrokruh zvíře
+🤏	gesto „málo“ jenom trochu krapet malé množství maličko málo prsty ruka špetka tak troška
+🪄	čaroděj čarodějka čarodějnice čarovat iluzionista kouzelná hůlka kouzelnice kouzelník kouzlení kouzlit kouzlo magie
+🆖	ng no good štítek značka
+😙	dobrou noc flirt ily láska líbající obličej s usměvavýma očima miluji tě miluju oko polibek pusa pusinka rande smajlík tvář úsměv výraz polibku úsměvem zavřené oči
+🙍	mračit se naštvaný nespokojená rozčilený rozladěná rozrušená výraz zamračená osoba žena zamračení zamračený zklamaná znepokojená
+🚂	cestování doprava lokomotiva pára parní vlak vozidlo železnice
+👰	člověk nevěsta se závojem osoba svatba svatební vdavky závoj
+🚭	kouření ne nekouřit zákaz zakázáno
+😨	bát se děs obavy obličej smajlík strach tvář ustrašený úzkost úzkostlivý vyděšený výraz strachu znepokojený ztrápený
+🎼	houslový klíč hudba notová osnova notový noty partitura zápis
+🤦	čelo chycení cože dlaň facepalm hlava jen to ne nevíra osoba chytající se za hlavu proč já rozhořčení smajlík snad tvář už zase vážně výraz zoufalství
+📞	komunikace mikrotelefon sluchátko telefonu telefon telefonát telefonní
+🚎	doprava trolej trolejbus vozidlo
+🔢	1234 čísla číslo numerická klávesnice zadávání čísel
+🪣	domácí potřeby džber kbelík kýbl kyblík náčiní úklidové vědro
+😾	hněv kočičí obličej s podrážděným výrazem kočka naštvaný nazlobený podrážděná podráždění podrážděný rozzlobený smajlík trucující tvář výraz vztek zloba zlost zuřivý zvíře
+🥢	čína hashi haši hůlky japonsko jídelní sushi tyčinky
+🏑	florbal hokej hokejka hra míč míček pozemní sport
+🎢	dráha horská housenková kolotoče lunapark pouť zábavní park
+🐭	hlava myši hlodavec myš myšák myšička myška obličej smajlík tvář výraz zvíře
+😧	cože nepříjemný nešťastný obličej páni překvapení šok strašidelný stres tvář utrápený úzkost vyděšený výraz wow zmučený ztrápený
+🐷	čuně čuník farma hlava prasete pašík prasátko prase sádlo slanina smajlík špek tvář vepřové výraz zvíře
+🫣	bát se bojím koukat kuk nakukování obličej vykukující jedním okem rozpaky schovávat šmírování špehovat stud stydět stydlivost stydlivý uchvácení vykouknutí zaujetí zírání
+🍈	ananasový meloun cukrový jídlo ovoce rostlina žlutý
+🤛	doleva pěst mířící zaťatá směřující
+🙋	ano prosím gesto haló já vím mám otázku mávat osoba se zvednutou rukou přihlásit ruka šťastný zde žena hlásí zvedá ruku zvednutá
+🚲	bicykl cyklista cyklistika doprava dopravní prostředek jet na kole jízda jízdní kolo spinning vozidlo
+🍑	broskev jídlo meruňka ovoce rostlina
+🌍	afrika evropa glóbus s evropou a afrikou planeta svět země zeměkoule
+👬	blíženci člověk držet dva muži držící se za ruce drží dvojčata dvojice gayové homosexuál kamarádi lgbtqia lgtb muž pár queer randění ruka zamilovaní zvěrokruh
+🐗	divočák divoké prase kanec kňour vepř zvíře
+🤎	hnědá hnědé srdce srdíčko láska
+🚃	cestování doprava električka elektrický šalina tramvaj trolejbus vagon vagón vlak vozidlo železnice
+🎤	hudba karaoke mikrofon zpěvačka zpěvák zpívat zvuk
+👿	čert ďábel démon fantasy naštvaný navztekaný obličej pohádka rohy rozzlobený škodolibý skřet smajlík tvář výraz vztek zákeřný zlomyslný zlý
+📡	anténa družice kontakt parabolická satelit satelitní talíř věda
+🫨	obličej panika překvapení šok třas třesavka třesoucí se tvář vibrace výraz zemětřesení
+🤜	doprava pěst mířící pozdrav ruka tělo ťuknout pěstí zaťatá směřující
+🌰	jídlo kaštan kaštanový rostlina
+🐨	austrálie koala medvěd medvídek protinožci zvíře
+📚	beletrie čtení fantasy kniha knihovna knihy pohádka romány škola učení vědomosti vzdělání
+🌿	bylina bylinka list lísteček lístek listí listoví příroda rostlina snítka
+♍	horoskop panna znamení panny zvěrokruh
+📂	desky dokumenty otevřená složka otevřený založit
+🔠	abcd abeceda kapitálky klávesnice latinka písmena psaní velká tiskací vstup zadávání v latince
+🔗	článek řetězu články odkaz propojit řetěz spojení spojený spojovat
+🔱	emblém trojzubce kotva loď nástroj poseidon poseidón trojzubec zbraň znak
+🥒	jídlo kvašáky kyselá nakládačka nakládaná nakládané okurky okurek okurka zelenina
+⏪	dvojitý přetočit převinout rychle rychloposuv šipka tlačítko převíjení vzad zpět
+🥁	buben bubenické bubnovat hudba hudební nástroj paličky
+📅	17 čas červenec datum kalendář
+👨‍🦼	bezbariérový elektrické kolečkové křeslo elektrický invalidní vozík handicap hendikep mechanický motorizovaný muž na elektrickém invalidním vozíku pomůcka postižení snížená mobilita usnadnění
+🍚	hlad jídlo miska ryže rýže uvařená vařená vařený
+🐆	kočkovitá šelma leopard levhart panter pardál predátor velká kočka zoo zvíře
+☔	déšť deštník s kapkami deště dešťové kapky kapka oblečení paraple počasí pršet prší
+🍼	dítě kojenec kojenecká láhev lahev miminko mimino mléko nápoj narození nemluvně novorozeně nutrilon pití porod sunar
+🎳	bowling bowlingová hra koule na kuželka kuželky sport strike
+🪭	dusno horko ochladit ochlazení ovívat stydlivý tanec vějíř
+🍉	červený jídlo meloun ovoce rostlina vodní
+🎄	dárky oslava ozdoby strom svátek svátky vánoce vánoční stromeček
+🔲	černé čtvercové tlačítko čtverec geometrie obrys tvar
+🧑‍🌾	farmář farmář/farmářka farmářka sedlák selka zahradnice zahradník zemědělec zemědělkyně
+🚩	červená vlajka golf pošta praporek sloupek trojúhelníková tyč
+🦓	černobílý kůň pruhovaný pruhy zebra zvíře
+🍗	drůbež hladový husa jídlo kachna kost krocan kuře kuřecí stehýnko kýta noha stehno
+🥮	čínský měsíční koláč pečivo podzim podzimní slavnosti svátek yuèbǐng
+🏪	budova maloobchod non-stop nonstop obchod potraviny prodej prodejna samoobsluha smíšené večerka zboží
+🍓	jahoda jídlo ovoce rostlina zahrada
+🤚	dlaň hřbet zvednuté ruky ruka stop zastavit zdvižená zvednutá v gestu
+📩	dolů dopis e-mail email k odeslání komunikace obálka s šipkou se odchozí odeslaná odesláno pošta šipka zpráva
+📓	deníček deník diář notes poznámkový blok psát sešit zápisník
+👥	busta bysta hlavy kamarád lidé nejlepší kamarádi obrysy lidí osoby přátelé silueta dvojice bust siluety byst
+📊	data diagram graf sloupcový sloupec údaje
+🗽	amerika cestování město new york nyc socha svobody svoboda usa velkoměsto
+🕒	00 15 15:00 3 3:00 čas hodiny tři
+🪋	apokalypsa gravitace hvězda kámen meteorit ohnivá koule pád vesmír
+👓	brýle dioptrie oblečení obroučky oči oko skla
+🚰	kohoutek nápoj pití pitná voda vodovod značka pitné vody
+🎽	atletika běh běžecké tričko běžecký úbor šerpa sport na triko trikot
+😴	chrnět chrr dobrou noc obličej ospalý pochrupovat postel šlofík spánek spát spící tvář unavený usínat utahaný výraz zdřímnout zívat zzz
+🎦	film kamera kino kinosál natáčení opona plátno promítačka tlačítko
+🥏	chytat disk frisbee frisbíčko házecí talíř házet létající sport ultimate
+🦡	jezevec medojed nora škodná zvíře
+🎨	barevný barvy kreativní malíř malířka malířská paleta malířství malování muzeum pestrý tvořivý umělecký umění zábava
+🍖	hlad jídlo kost kýta maso na kosti
+🔍	hledání laboratoř lupa nakloněná doleva směřující vlevo nářadí nástroj sklo věda zvětšení zvětšovací zvětšování
+🌹	červená elegantní krása květ květina rostlina rudý růže z lásky valentýn
+👩‍🚀	astronautka člověk kosmonautka povolání práce raketa vesmír žena
+🐚	lastura měkkýš moře mušle mušlička pláž škeble spirála ulita zvíře
+🎰	automat gambling hazardní hra hrací kasino výherní
+🕺	člověk elegantní flamenco muž salsa slavnostní smím prosit talent tančící tancovat tanec tanečnice tanečník tango žena
+🔡	abcd abeceda klávesnice latinka malá písmena psaní vstup zadávání v latince
+👩‍🦯	bezbariérový přístup handicap hendikep nevidomý pomůcka postižení slabozraký slepá usnadnění žena se slepeckou holí
+🕍	budova chrám judaismus náboženství synagoga víra žid židovský židovství
+🛁	bublinky koupel koupelna lázeň sprcha vana voda
+💘	amor amorek city ily láska miluji tě miluju romance romantika šíp srdce prostřelené šípem se srdíčko střela valentýn
+🥍	branka gól lakros lakroska lakrosová hůl míč sport
+🧑‍🔧	elektrikář elektrikářka mechanička mechanik mechanik/mechanička montér montérka opravář opravářka řemeslnice řemeslník živnostnice živnostník
+😍	láska miluji tě miluju nádhera obličej oči oko polibek pusa romantika smajlík srdce srdíčka tvář úsměv usmívající se srdíčky místo očí úsmívající s očima ve tvaru srdíček výraz zamilovaný
+🆑	cl clear štítek tlačítko vymazat značka
+🧃	brčko džusík fruko krabičkové pití krabicový džus nápoj v krabičce nápojová krabice pitíčko sladký slámka
+👒	dámský klobouk derby doplněk dostihy léto móda oblečení slamák zahradní párty žena
+♌	horoskop lev znamení lva zvěrokruh
+🌞	den horko jasno jasný pláž počasí slunce s obličejem slunečný sluníčko slunný smajlík světlo svítit teplo tvář vedro vesmír výraz
+🍆	baklažán jídlo lilek rostlina záhrada zelenina
+😊	červenání červenat se milý obličej oko radost ruměnec smajlík smějící s usměvavýma očima spokojený tvář úsměv usměvavý výraz úsměvem smějícíma zardění zářit štěstím zrudnutí
+🫸	high five odmítnutí plácnutí počkej ruka tlačící vpravo stop tlak
+💲	dolar hotovost měna miliarda milion peníze platit velký znak dolaru
+🦍	gorila hlava opice prales primát příroda zvíře
+🌈	asexuál barevná duha barevný bisexuálové déšť duhový gayové genderqueer intersexuál lesby lgbt počasí pride příroda queer transgender transsexuálové
+🙂	obličej s mírným úsměvem pousmát se smajlík spokojený šťastný tvář úsměv veselý výraz mírného úsměvu
+🧭	buzola jih kompas magnetický navigace orientace orientační běh sever směr východ západ
+👞	bota hnědá kopat muž mužský nákupy noha nohy oblečení obuv oděv pánská polobotka
+🩳	jednodílné kraťasy krátké kalhoty oblečení oděv plavky šortky spodky trenýrky zelený
+🧑‍🚀	astronaut astronautka kosmonaut kosmonaut/kosmonautka kosmonautka raketa vesmíír
+🕚	00 11 11:00 23 23:00 čas hodiny jedenáct hodin
+😵	mrtvý nevolnost obličej s výrazem závrati smajlík tvář unavený výraz závrať
+📿	doplněk korálky modlitba modlitební náboženství náhrdelník oblečení oděv růženec
+🤓	brýle chytrý geek inteligentní nerd nešika obličej šprta smajlík šplhoun šprt tvář výraz
+🪀	cívka hračka jo jo-jo jojo kolísání
+🏫	budova edukace škola studovat učit se výuka vzdělání
+🍹	alkohol bar drink koktejl mai tai nápoj opilý párty pití tropický večírek
+🕝	14:30 2 2:30 30 čas dva hodiny půl třetí třicet
+🕠	17 17:30 30 5 5:30 čas hodiny pět půl šesté třicet
+📟	komunikace pager pejdžr
+🎵	hudba nota notový zápis noty osminové zvuk
+👙	bazén bikiny koupání moře oblečení oceán oděv plavání plavat plavky pláž
+🩲	jednodílné kalhotky oblečení oděv pánské plavky slipy spodky spodní prádlo
+🤑	boháč bohatství dolar obličej s penězi na jazyku peníze prachy pusa smajlík tvář ústa výplata výraz
+🚛	auto autodoprava doprava jet jízda kamion kamión náklaďák nákladní řídit stěhování tahač s návěsem tir tirák truck vozidlo
+🥘	jídlo kastrol mělká pánev mělký rendlík s jídlem paella plody moře zapečené
+😘	chybíš flirt láska mi miluji miluju muck obličej polibek posílající pusa pusinka pusu ráno romantika rozkošný smajlík srdce tvář výraz
+🛺	autorikša doprava dopravní prostředek provoz rikša tuk-tuk vozidlo
+👱	blond vlasy blonďák blondýn člověk s muž plavovlasý světlé
+🛂	kontrola pas pasová
+🪓	dřevo dříví polena sekání sekat sekera sekerka sekyra sekyrka štípání štípat tít
+🫝	dochucovadlo fermentace fermentovat kvašení kvasit lák nakládačka nakládaná okurka nálev potíže zeleninová směs
+🔞	18 ne nedostatečný věk nezletilost nezletilý nezletilým omezení osmnáct věková hranice věkové zákaz pro mladší osmnácti let vstupu osobám mladším zakázáno
+🤝	dohoda dohodnuto domluva domluveno podání potřást si rukama potřesení ruka rukou ruku na to ruky schůzka seznámení souhlas stisk
+📒	blok poznámky psát sešit skicák účetní kniha zápisník zapsat
+🚥	doprava jízda křižovatka provoz semafor signál signalizace světelná světlo vodorovný
+🔊	hlasitost hlasitý hudba nahlas reproduktor zvuk
+🐴	drezura drezúra farma hlava koně hříva koník kůň příroda smajlík tvář výraz zvíře
+😕	hm matoucí meh nejistý nevím obličej popletený promiň smajlík smutný tvář výraz zmatený
+🫑	jídlo kapie paprika potravina sladká zelená zelenina
+🫄	břicho člověk nadmutá nadmutý plná plný přejezený těhotenství těhotná osoba těhotný
+🪐	planeta s prstencem prstenec saturn vesmír
+🏅	cena hvězda medaile nejlepší ocenění sport sportovní vítěz výhra v soutěži zlatá zlato
+🏯	budova hrad japonský
+🌊	kanagawa moře oceán počasí příroda surfař surfařka surfing surfovat tsunami vlna vlnobití voda vodní
+💿	bd blu-ray blue-ray cd cédéčko disk dvd holo holografický optické optický počítač
+🪦	hřbitov hrob kámen náhrobek náhrobní odpočívej v pokoji památka pomník věčná
+⚾	baseball baseballový míček míč softball sport
+👈	hřbet ruky ukazující vlevo prst ruka s prstem ukazujícím tělo ukazováček ukazovat
+🦒	afrika fleky rohy růžky skvrny žirafa zoo zvíře
+🌗	couvá couvající čtvrť fáze měsíce měsíc v poslední čtvrti počasí půlměsíc ubývá ubývající vesmír
+🚸	chodci chodec děti dítě doprava dopravní pěší pozor přechod pro provoz značka
+🤳	foťák fotoaparát selfíčko selfie telefon
+🏀	basketbal basketbalový míč koš košíková košíkovou obruč sport
+🚏	autobus autobusová zastávka doprava autobusu
+🥷	bojovník člověk kradmý kukla nájemný vrah nenápadný nindža ninja osoba plížit se přikrást špion tajný
+⚽	balón fotbal fotbalový míč kopaná messi ronaldo sport
+🚖	cestování doprava jet jízda lyft příjezd přijíždějící taxík taxi taxikář uber vozidlo zastavit žlutý
+👂	naslouchat poslouchat slyšet tělo ucho uši zvuk
+👝	doplněk kabelka kosmetická taška oblečení oděv vak zavazadlo
+📵	mobil mobilní ne telefon telefonování zákaz mobilních telefonů používání zakázáno
+🐳	moře obličej oceán odfukující pláž smajlík stříkající tvář velryba vodu vodotrysk výraz zvíře
+😯	obličej se zaraženým výrazem ohromený omg páni překvapený smajlík šokovaný tichý tvář tyjo výraz tváře beze slov wow zaražený
+🍫	čokoláda cukrovinka dobrota jídlo mlsat sladkost sladký tabulka čokolády
+🌋	erupce hora láva příroda sopka vulkán výbuch
+🧝	elf fantasy kouzelná legolas les lotr magie obličej elfa pán prstenů postava rpg
+💛	city ily láska miluji tě miluju srdce srdeční srdíčko žlutá žluté
+👨‍💻	ajťák člověk developer inženýr it kodér muž notebook počítač počítačový software povolání práce programátor programování technik technologie vynálezce vývoj vývojář
+🐃	bizon buvol domácí voda vodní zoo zvíře
+🧆	boby cizrna cizrnový karbanátek falafel jídlo karbanátky koule kuličky luštěninová
+💎	briliant diamant drahokam drahý kámen klenot peníze romantika šperk svatba zasnoubení zásnuby
+🧑‍🚒	hasič hasič/hasička hasička hasičské auto požár požárnice požárník stříkačka
+📷	aparát foťák fotit fotka fotoaparát fotografický instagram kamera momentka retro selfíčko selfie snímek video výlet
+⛪	budova kaple kostel křesťanství kříž modlitebna náboženství požehnat
+🚵	člověk cyklista cyklistika hora horská horské kolo jízda muž na horském kole osoba sport
+🐟	horoskop moře ryba rybaření rybařit rybička rybka rybolov ryby večeře znamení ryb zvěrokruh zvíře
+🤥	lež lhář lhát lži lživá tvář s dlouhým nosem obličej lháře pinocchio podvodník prolhaný smajlík výraz
+😛	jazyk obličej s vyplazeným jazykem paráda párty smajlík super tvář vypláznutý výraz
+🦵	chodidlo koleno končetina kopanec kopat kopnout kopnutí lidské tělo nakopnout noha ohnutá v koleni
+🪒	břitva depilace holení holicí strojek holit oholit ostrý žiletka
+💈	holič holička holičský sloupek s pruhy kadeřník lazebník sestřih střih stříhání tyč účes značka holičství znak
+📹	kamera retro video videokamera
+🛵	doprava moped scooter skútr vozidlo
+💸	banka bankovka cash dolar hotovost keš křídla létající letět milion milión okřídlené peníze platit
+🔦	baterka elektrický nářadí nástroj světlo svítilna
+🧑‍🧑‍🧒‍🧒	dítě dospělý rodina
+🚳	doprava jízdní kolo ne vozidlo zákaz jízdních kol vjezdu cyklistů zakázáno
+🪵	dřevo dříví kláda kmen pařez pařízek poleno řezivo špalek
+😂	brečet haha hehe lol obličej řehtat rozesmátý se slza slzet slzící smajlík smích smíchy sranda šťastný tvář válet veselý výraz
+🐦	holub ornitologie ptáček pták zvíře
+🔩	domácí kutil kutit matice nářadí nástroj šroub a
+🤠	klobouk kovboj kovbojka obličej s kovbojským kloboukem smajlík tvář výraz
+🔉	hlasitost hlasitý reproduktor středně střední tlampač zvuk
+💇	holič kadeřnictví kadeřník krása nový účes nůžky osoba u kadeřníka ostříhat salon salón sestřih stříhání vlasů vlasy žena kadeřnice
+🧓	člověk důchodce neutrální osoba postarší šedovlasý stará starší dospělý starý
+👼	anděl andílek člověk dítě fantasy kostel miminko obličej pohádka smajlík tvář víra výraz
+🪠	instalatér nářadí odpad podtlak toaleta ucpaný záchod zvon na wc
+👨‍💼	architekt bílé límečky bílý límeček byznys člověk kancelář manažer muž povolání práce úředník
+🔃	aktualizovat doprava hodin načíst načtení nové obnovit opětovné ručiček šipka směr směru svislé šipky ve hodinových vertikální znovu
+🦦	hravé hravý lovec ryb loví ryby rybařící rybolov vodní živočich vydra zvíře
+🗻	fudži fuji hora japonsko příroda sopka
+🐖	čuně čuník farma pašík prasátko prase prasnice sádlo slanina špek svině vepřové zvíře
+🧲	kladný magnet magnetické pole magnetický odpuzovat podkova přitahovat přitažlivost ve tvaru písmene u záporný
+🚻	toaleta toalety unisex wc záchod
+💤	chrnět chrr dobrou noc komiks ospalý pochrupovat šlofík spánek spát spinkat unavený usínat utahaný zdřímnout si zzz
+🔌	elektrická zástrčka elektrický elektřina přípojka síťová vidlice
+🏺	amfora džbán horoskop nádoba nádobí nápoj nástroj vaření váza vodnář znamení vodnáře zvěrokruh
+📻	hudba muzika rádio radiopřijímač retro rozhlas tranzistor tranzistorové zábava zvuk
+🧑‍🦯	člověk se slepeckou holí handicap hendikep pomůcka postižení slepý usnadnění
+🪗	akordeon dršťky harmonika hudba hudební klávesy koncertina muzika nástroj tahací zednické piano
+🍱	bento japonský jídlo krabička bentó rýže sashimi sushi
+🔘	geometrický geometrie knoflík kruh kulaté obrys přepínač přepínací rádio tlačítko
+🕙	00 10 10:00 22 22:00 čas deset hodin hodiny
+👻	bubák bububu bytost duch fantasy halloween obličej pohádka příšera smajlík strašidelný strašidlo tvář výraz
+🧉	čaj kalabasa maté nápoj pít pití
+🫀	anatomie aorta kardiologie krev puls pulz srdce srdeční orgán tep tlukot
+🦭	lachtan lvoun moře mořský lev mrož oceán tuleň živočich zvíře
+👨‍🔬	biolog chemik člověk fyzik inženýr matematik muž povolání práce věda vědec vynálezce výzkum výzkumník
+🐫	drabař dromedár dvouhrbý velbloud hrb poušť zvíře
+♉	býk horoskop tur vůl znamení býka zvěrokruh
+👨‍🍳	člověk kuchař kuchyně muž povolání práce restaurace šéfkuchař vařit
+🚢	cestování doprava loď osobní pasažér plavidlo titanic výletní
+🥽	akvalung ochrana očí ochranné brýle plavání plavecké potápěč potápěčské potápění svářečské svařování svařovat
+🚟	cestování doprava lanovka tramvaj visutá lanová dráha visutý vozidlo závěsná železnice železniční
+🔶	geometrie kosočtverec oranžová tvar velký oranžový
+🪡	jehla krejčí krejčovina šicí šít šití stehy švadlena švy vyšívání výšivka zašívat
+⛺	cestování dovolená kemp kempink kempování léto příroda stan stanování stanovat tábor táboření
+🙁	mírně zamračený obličej smajlík smutek smutný tvář výraz mírného zamračení
+👾	bytost fantasy hra marťan mimozemská příšera mimozemšťan obličej pixely pohádka smajlík space invaders tvář ufo vesmír vetřelec výraz
+💷	banka bankovka hotovost libra librová měna peníze
+🏉	americký fotbal míč na ragby rugby rugbyová rugbyový šiška sport
+❓	červený otazník dotaz interpunkční znaménka otázka ptát se značka
+👩‍🎨	člověk malířka malovat paleta povolání práce umělkyně umění žena
+🐇	domácí králíček králík mazlíček ušák zajíc zajíček zvíře
+🌾	klas klásek obilí obilniny otep rostlina rýže rýžové klasy rýžový snop snopek zrní zrno
+🛷	saně sáně sáňkovat sáňky sníh sport zima zimní
+🌀	cyklón cyklóna hurikán počasí spirála tajfun tornádo twister závrať
+🦴	kost kosti kostička kostlivec kostra kůstka pes skelet
+👨	brácha bratr chlap chlapec člověk kamarád kluk muž přítel
+💥	bomba bum exploze komiks náraz obrázek rána srážka třesk vybouchnout výbuch
+🗿	cestování kámen kamenná tvář kamenný výraz moai moyai obličej smajlík socha velikonoční ostrovy
+⛵	doprava dovolená jachta jachting loď moře oceán plachetnice plachtění plavba plavidlo
+🫵	dloubnout hele jen ty obviňovat píchnout ruka šťouchnout tam ukázat prstem ukazováček namířený na diváka ukazovat vy
+🏰	budova evropský historie hrad hradby palác pohádka tvrz věž zámek
+🐞	beruška brouček brouk hmyz příroda sedmitečné slunéčko zahrada zvíře
+🚆	doprava húú lokomotiva mašinka příjezd vláček vlak vozidlo železnice
+🐕‍🦺	asistence asistenční pes německý ovčák pomoc postižení služba služební vodicí zvíře
+🐮	bůů farma hlava krávy kráva kraví mléko obličej smajlík tvář výraz zvíře
+🏮	červená papírová lucerna červený lampion japonská japonský restaurace světlo svítilna svítit
+😥	o chlup obličej smajlík smutný s výrazem úlevy tvář údiv uf úleva úzkost výraz zklamání a
+🧤	modrá rukavice ruka
+🐰	domácí hlava králíka králíček králík mazlíček obličej příroda smajlík tvář ušák výraz zajíc zajíček zvíře
+🏨	budova cestování hotel
+🍕	díl dílek hladový jídlo klínek kousek pepperoni pizza salám salámová sýr sýrová
+📗	číst čtení fantasy kniha knihovna knížka učení vzdělání zelená
+🎇	bum jiskra jiskřit ohňostroj oslava práskat prskavka silvestr třpytit se
+🪳	brouk fuj havěť hmyz hnus rus škůdce šváb živočich zvíře
+⚡	blesk bouře bzz elektrický elektřina hrom jiskra messenger napětí nebezpečí příroda výboj vysoké záblesk
+⏬	dolů dvojitý šipka tlačítko rychle
+🍻	alkohol bar chlast cinkající půllitry piva cinkání do dna na zdraví nápoj pití pivo přípitek přiťuknutí pivem půllitr sklenice
+🚺	dámská toaleta dámské toalety dámy wc záchod žena
+👚	blůza dámská dámské oblečení halenka límeček nákupy růžová tričko triko žena ženské šaty
+🧳	balení balit se cestování cestovat cestovatel cestovní kufr zavazadlo na kolečkách zahraničí
+♐	horoskop střelec znamení střelce zvěrokruh
+🚤	cestování člun doprava jezero léto loď luxus miliardář milionář motorový plavidlo rychlý závodní
+📝	komunikace lístek se vzkazem média poznámka tužka vzkaz zápis
+🪨	balvan drsný kámen neoblomný pevný skála šutr těžký tvrdý útes
+🍅	červená jídlo kečup ovoce rajče rajské jablíčko rostlina zelenina
+📁	dokumenty složka
+🎁	balíček dar dárek krabice mašle narozeniny oslava překvapení překvápko stuha vánoce zabalený
+🧑	člověk dospělák dospělý neutrální osoba
+🚒	doprava hasiči hasičské auto hoří oheň požár požárníci truck vozidlo
+👷	bezpečnostní přilba dělník na stavbě helma muž ochranná povolání rekonstrukce stavba stavební
+🔤	abc abcd abeceda klávesnice latinka písmena psaní vstup zadávání písmen v latince
+🚞	doprava hora horská železnice horský vlak hory ozubnicová dráha vagon vagón vozidlo výlet
+🌐	glóbus s poledníky a rovnoběžkami internet rovnoběžky svět web země zeměkoule zeměpisná síť
+😸	kočičí široký úsměv s rozzářenýma očima kočka křenit se obličej oko řehtat šklebící usměvavýma smajlík smát tvář úšklebek výraz zvíře
+🫡	ano pane paní být v pozoru pozdrav pozor rozkaz salutování salutovat salutující obličej slunečno vojenský vojsko vyhlížet zastíněné oči zastínit před sluncem
+🟰	dvojná vazba matematika porovnat rovná se rovnítko rovnost tučný znak rovnosti znamená
+🚬	cigareta cigáro dým kouř kouření kouřit tabák zapálit si
+🆒	boží cool hustý štítek super značka
+🍺	alkohol bar krýgl nápoj oktoberfest pinta pití pivní půllitr pivo piva sklenice světlé
+🪏	jáma kopat lopata rostlina rýč sníh zahrabat zahrada
+🐂	býk farma horoskop skot vůl znamení býka zvěrokruh zvíře
+🤙	gesto „zavolej mi“ ruka s gestem zavolej mi zatelefonovat zavolat
+♓	horoskop ryba ryby znamení ryb zvěrokruh
+👵	babička blond blondýna člověk moudrá paní seniorka špatný účes stará stařena stařenka staromódní starý žena
+🐧	antarktida příroda pták tučňák zvíře
+❎	× čtverec čtvereček krát křížek násobení násobit tlačítko s křížkem x zelený bílým značka znak
+🟫	čtverec čtvereček hnědá hnědý zaoblený
+🥩	červené maso flákota hovězí jehněčí jídlo kotleta krvavý kus masa plátek řízek steak vepřová vepřové žebírko
+🦾	handicap hendikep invalidní mechanická paže pomůcka postižení prostetická protetická protetika protéza usnadnění
+🎣	chytat ryby prut ryba rybář rybařit rybářský sport udice úlovek zábava
+😌	klid klidný obličej s výrazem úlevy smajlík tvář úleva výraz vyrovnaný zen
+🫷	high five odmítnutí plácnutí počkej ruka tlačící vlevo stop tlak vpravo
+🐝	čmelák hmyz jaro med příroda včela včelička včelka zvíře
+🌻	květ květina příroda rostlina slunce slunečnice zasadit
+✨	* čarovat hvězda hvězdičky jiskra jiskřit jiskry kouzlo magie noc třpytit se zářit
+🚽	klozet mísa toaleta toaletní wc záchod záchodové prkénko
+🥑	avokádo guacamole jídlo ovoce
+👛	kabelka mince móda nákupy oblečení peněženka na drobné peníze
+🌮	jídlo mexická kuchyně mexické placka taco tacos
+📋	deska dokumenty klip podložka poznámky psací seznam úkolů
+🦊	hlava lišky liščí liška obličej tvář zvíře
+⚫	černá černý kroužek kruh geometrie tvar
+♒	horoskop nosič voda vodnář vodonoš znamení vodnáře zvěrokruh
+🐈‍⬛	černá číča halloween kočička kočka kocour mňau neštěstí smůla živočich zvíře
+🩵	azurová láska líbí modrozelená petrolejová šedozelená srdce srdíčko světle modrá světlemodrá světlemodré
+📤	dopis e-mail email krabice odchozí odeslaná pošta poštovní přihrádka na poštu s poštou schránka
+🐐	farma horoskop koza kozoroh mléko znamení kozoroha zvěrokruh zvíře
+🧂	chuť dochucovadlo jídlo koření kořenit ochutit posolit přísada slánka slaný solnička sůl
+🎯	cíl hra přesný zásah do terče přímo černého přímý šipka sport střed středu terč trefa úspěch zábava
+🐻	bručet brum grizzly hlava medvěda med medvěd medvědí medvídě medvídek obličej smajlík tvář výraz zvíře
+🔨	domácí kutil kladívko kladivo kutit nářadí nástroj opravit
+🚣	člun kanoe loď loďka plavidlo pramice řeka rybařit veslař veslice veslování veslovat veslující osoba
+👕	košile ležérní límeček modrá nákupy oblečení oblečený tričko triko víkend volný čas
+🐼	bambus hlava pandy obličej panda smajlík tvář výraz zvíře
+👃	aroma čenichat čich čichat cítit čmuchat nos nozdry odér pach strkat tělo vlezlý vonět vůně zápach
+📭	otevřená schránka s praporkem dole se svěšenou vlajkou otevřený pošta poštovní prázdný sklopený spuštěný svěšený
+🚁	cestování doprava dopravní prostředek helikoptéra letoun vrtulník
+🛻	autíčko auto s korbou automobil doprava dopravní prostředek kamion malá dodávka náklaďák nákladní pick-up pickup polododávka přeprava valník vůz
+🕤	21:30 30 9 9:30 čas devět hodiny půl desáté třicet
+🫅	člověk s korunou na hlavě korunovaný král královna královský monarcha panovník šlechta veličenstvo vládce vznešený
+🧑‍🦽	člověk na mechanickém invalidním vozíku handicap hendikep invalidní pomůcka postižení usnadnění vozík
+🌱	klíček klíčící klíčit mladý pučet rašit ratolest rostlina sazenice semenáček výhonek
+😪	brečet nachlazený obličej ospalý výraz plakat rozespalý smajlík smutný spánek tvář unavený uplakaný
+🧒	člověk děcko dítě genderově neutrální malé mladý ratolest
+🦤	blboun dodo dronte mauricijský mauricius nejapný pták velký vyhynulý vymřelý živočich zvíře
+👢	bota dámská kozačka nákupy oblečení obuv oděv žena
+📬	doručená pošta otevřená schránka s praporkem nahoře se vztyčenou vlajkou otevřený poštovní
+🚼	dítě miminko přebalení přebalit přebalovací místnost přebalovat symbol dítěte značka
+🚑	ambulance doprava pohotovost první pomoc rychlá záchranná služba sanitka vozidlo záchranka
+😞	deprimovaný hrůza nešťastný obličej prohrát provinilý selhání skleslý sklíčený smajlík tvář vina výraz zklamání zklamaný zkroušený ztráta
+🍸	alkohol bar drink klub koktejl koktejlová sklenička martini nápoj oliva pití sklenice sklo
+🥵	červený obličej horečka horečnatý horko pocení přehřátý rozpálený rudý smajlík umírat úpal uřícený úžeh vedro vypláznutý jazyk zadýchaný zpocený ztěžka oddechovat
+🫔	jídlo mexický pamonha placka potravina tamale tamales wrap
+👹	bytost ďábel fantasy japonský lidožrout maska monstrum obličej obr pohádka příšera smajlík strašák strašidlo tvář výraz zlobr
+😬	grimasa s vyceněnými zuby křenit se nepříjemný obličej prekérní šklebit smajlík trapný tvář krokodýlím úsměvem úsměv výraz zubař
+🤶	babička člověk fantasy matka oslava pohádka santa clausová stará stařenka vánoce žena
+🎓	absolvent akademik čapka se střapcem klobouk oblečení oslava pokrývka hlavy promoce promoční čepice čepička student studium univerzita univerzitní vědec vzdělání
+👩‍🎓	absolventka člověk promoce studentka univerzita žena
+🛖	chajda chaloupka chatka chatrč chýše domeček dům jurta obydlí přístřešek stavení
+🎬	akce film filmová klapka natáčení
+🤘	gesto parohů rohů hudba metal paroháč parohy prst rock rohy ruka tělo
+🕣	20:30 30 8 8:30 čas hodiny osm půl deváté třicet
+🤫	buď potichu obličej s prsem na ústech prstem puse pst pšt ruka smajlík ššš ticho tiše tišit tvář utišit výraz zticha
+🔭	astronomie dalekohled e t hvězdářský kontakt nástroj refraktor teleskop věda vědecký
+🌸	jaro květ třešně květina rostlina rozkvetlá třešeň sakura třešňový
+🥻	dlouhé šaty oblečení oděv sárí
+🎷	dechový hudba hudební nástroj saxofon tón žestě žesťový
+😺	hlasitý smích kočičí úsměv s otevřenou pusou kočka obličej otevřený pusa šklebící se smajlík tvář úšklebek ústa výraz zvíře
+😫	kýchat kýchnutí obličej smajlík smutný tvář únava unavený výraz zdřímnutí
+😀	obličej radostný smajlík smát se smích spokojený šťastný tvář úšklebek úsměv veselý výraz širokým úsměvem vysmátý zubící zuby
+💭	balónek bublina komiks komiksová myšlenka myšlenková nápad obrázek snění sny vymyslet
+🦼	bezbariérový elektrický invalidní vozík handicap hendikep invalidita kolečkové křeslo motorizovaný pomůcka postižení snížená mobilita usnadnění zpřístupnění
+👩‍💼	architektka bílé límečky bílý límeček byznys člověk kancelář manažerka povolání práce úřednice žena
+♿	bezbariérový hendikep invalidní vozík invalidy kolečkové křeslo přístup symbol invalidního vozíku zpřístupnění
+🥄	jídlo jíst lžíce lžička příbor stolování
+🧽	čistit houba houbička koupelová mycí mýt mytí namočit nasáknout porézní savá savý umývat
+💵	banka bankovka dolar dolarová měna peníze
+🐹	domácí hlava křečka hlodavec křeček mazlíček obličej smajlík tvář výraz zvíře
+💾	disk disketa počítač pružný retro
+🌔	dorůstá dorůstající měsíc před úplňkem fáze měsíce noc počasí vesmír
+🥫	jídlo v plechovce konzerva konzervované potraviny plechovka
+💴	banka bankovka čína hotovost jen jenová měna peníze yen
+🦧	lidoop opice orangutan primát zvíře
+🍶	bar džbánek japonský karafa lahev láhev nápoj pití restaurace saké šálek
+⚪	bílá bílý kroužek kruh geometrie tvar
+🆙	nahoru štítek up značka
+😎	brýle cool fešák fešanda frajer jasno naparovat obličej oči oko paráda pláž rebel sluneční smajlík stylový úsměv uvolněný vítěz výraz
+📐	logaritmické pravítko matematika pravouhlý pravý sada trojúhelník trojúhelníkové úhel
+🫧	bubliny čisté čistota krknutí mydliny mýdlo mýt mytí perleťový perly pod vodou říhnutí umývání
+💕	city dvě srdce ily láska miluji tě rande růžová srdíčka výročí
+😗	flirtovat láska líbající obličej miluji tě miluju muck polibek pusa pusinka rande smajlík tvář výraz polibku
+🫤	ech frustrovaný meh na pochybách nejistý nerozhodný nic moc obličej s pusou našikmo pf pochyby skeptický zklamání zmatený
+💬	bublina řeči dialog komiks komiksová obrázek odmlka píše psaní řeč řečová rozhovor sms text textová zpráva
+🛘	hora kamení katastrofa lavina nebezpečí padající pohroma sesuv půdy zemětřesení
+🚚	auto dodávka doprava dovoz jet jízda kamion náklaďák nákladní rozvážka rozvoz truck vozidlo zásobování
+🔚	end konec šipka s nápisem
+💺	cestování křeslo místo sedadlo sedět sezení
+🎉	hurá jupí konfetovač narozeniny oslava paráda párty radost slavit super tadá trubka vystřelovací konfety
+🤲	modlit se modlitba přání prosba rozevřené dlaně ruce dlaněmi vzhůru zdvižené vedle sebe
+😔	deprimovaný hrozný obličej se skleslým výrazem skleslý sklíčený smajlík smutný trudnomyslný trudomyslný tvář výraz zadumaný zádumčivý zahloubaný zamyšlený zklamaný znuděný ztracený
+👋	ahoj čau gesto haló jsi tam letím mávající ruka mávání mávat musím běžet nashledanou nazdárek pa pá tělo zatím
+🎊	balónek s konfetami jupí konfetová koule konfety míč oslava párty slavit
+💼	aktovka kancelář kufřík práce
+🥬	bok čoj čínské jídlo kadeřávek kapusta listová zelenina pak salát salátové listy zelený zelí
+🈸	dotazy ideogram japonský čtvercový žádosti japonština kontakt přihláška štítek s japonským znakem „žádost” žádost
+🚱	kohoutek nápoj nepitná voda nevhodná pití sucho není pitná zákaz zakázáno
+🐄	bůů farma kráva mléko příroda statek zvíře
+⬜	bílá čtverec geometrie tvar velký bílý
+😝	ble chuť děs fuj jazyk mžourající obličej s vypláznutým jazykem nechutné oko omg smajlík tvář vyplazeným a zavřenýma očima vypláznutý výraz zavřené oči
+😓	bolest hlavy chladno nervózní obličej pot sklíčený se studeným potem smajlík smutný studený to bylo o chlup tvář zalitá vyděšený výraz
+🩼	berla berle berlička hůl invalidní opora podpora mobility postižení zdravotní pomůcka zranění
+🙀	jej kočičí kočka obličej páni překvapení smajlík tvář uf únava unavená vyčerpání vyčerpaný výraz wow zívat zvíře
+🧯	hašení hasicí přístroj hasit oheň požár uhasit
+🦖	dinosaurus t-rex tyrannosaurus rex tyranosaurus zvíře
+🧑‍🧒	dítě rodina dospělý
+🐒	banán džungle opice opička zvíře
+🥴	dezorientovaný líznutý malátný mít závrať motá se mi hlava omámený opilost opilý pod vlivem přiopilý různě velké oči šilhající zpitomělý obličej zvlněná pusa
+🧅	aromatický cibule cibulka jídlo koření ochucování příchuť zelenina
+🍙	japonská japonský jídlo kulička onigiri rýže rýžová koule trojúhelník
+👨‍🚒	člověk hasič hasičské auto muž povolání požár požární hadice požárník práce stříkačka
+🪈	dechový nástroj flétna hudba pikola píšťala zobcová
+🏏	hra kriket kriketová pálka míč míček sport
+👴	člověk děda dědeček důchodce moudrý muž pán plešatět plešatý senior stařec starý vševěd
+🦝	čistotný medvídek mýval zvědavý zvíře
+🎲	deskové hry hra hrací kostka kostky zábava
+🚡	doprava gondola kabina kabinka kabinková kabinová lanovka lano lanová dráha vozidlo
+😑	bez výrazu kamenný výraz mrtvý obličej omg prázdný smajlík tvář wtf závist
+🥶	chladný drkotat zuby modrý mráz mrzne námraza obličej omrzliny pod nulou promodralý promrzlý rampouchy smajlík sníh studený zamrzlý zasněžený zima zledovatělý zmrzlý
+🚿	čistota čistý koupelna sprcha sprchovat se umýt voda
+🖕	fakáč prostředníček prostředník prst ruka tělo urážka urážlivé gesto vulgární
+🫆	bezpečnost detektiv identita kriminalistika otisk otisky prstů stopa záhada zločin
+🧑‍🍳	kuchař kuchař/kuchařka kuchařka šéfkuchař šéfkuchařka
+🫠	horko mizení rozpaky rozpouštění rozpuštění rozpustit se roztékání spokojenost tající obličej tání
+🐑	bahnice béé chundelatý farma jehňátko jehně ovce ovečka salaš samice vlna zvíře
+🕐	00 1 1:00 13 13:00 čas hodiny jedna hodina
+🔑	heslo klíč odemknout zámek zamknout
+🚕	cestování doprava jet jízda řidič řídit taxík taxi taxikář uber vozidlo žlutý
+🎹	hrát hudba hudební nástroj klávesy klaviatura klavír piano zvuk
+🦮	asistence asistenční pes labrador nevidomý postižení průvodce slabozraký slepecký vodicí vůdce zvíře
+📃	číst dokument dopis list papíru ohnutá srolovaný papír stočená stránka svinutá svitek zkroucená
+👨‍🔧	člověk elektrikář elektrotechnik instalatér mechanik montér muž opravář povolání práce řemeslník zámečník živnostník
+😄	hlasitý smích křenit se lol obličej oko otevřený řehtat smajlík smát tvář úsměv ústa výraz s úsměvem otevřenou pusou a rozzářenýma očima zubící usměvavýma
+🥲	dojatý dojetí hrdý slza slzy radosti štěstí smajlík tvář úleva úsměv usmívající se obličej slzou vděčný výraz
+🫥	deprese introvert já tu nejsem mizící neviditelný obličej s tečkovaným obrysem schovaný skrytý stud zmizet
+🥤	džus kelímek s brčkem limonáda nealko nealkoholický nápoj pití pohárek sladký soda sodovka voda
+🥃	alkohol brandy koňak panák sklenice na whisky sklenička skotská tumbler whiskey
+🗼	japonsko tokijská věž tokio tokyo tower
+🙄	ježišmarja koulející koulet očima koulí obličej s v sloup obracet oči smajlík to je fuk tvář výraz
+🦥	lenivý lenochod lenošit lenost líný pomalý zvíře
+🧞	aladin duch z lahve džin lampy kouzelná lampa lahev přání
+🤪	blázen jedno oko větší než druhé malé obličej oči šílenec šílený výraz smajlík tvář velké zbláznit se
+👩‍🍳	člověk kuchařka kuchyně povolání práce restaurace šéfkuchařka vařit žena
+🫘	fazol obecný fazole fazolky jídlo ledviny luskoviny luštěniny
+🥇	medaile za 1 místo první trikolóra vítězství vyhrát zlatá zlato
+🐘	příroda slon slůně zoo zvíře
+🔻	červená červený trojúhelník mířící dolů směřující geometrie tvar
+🎡	kolotoč lunapark pouť ruské kolo zábavní park
+🕢	19:30 30 7 7:30 čas hodiny půl osmé sedm třicet
+💪	bicák biceps činky kulturista kulturistika nabouchaný nabušený obrázek paže posilovat posilovna síla silný sval svalovec svaly tělo zatnutý
+🎒	aktovka batoh batůžek ruksak škola školní taška učebnice učení vzdělání zavazadlo
+😢	brečet chybět hrozný nešťastný obličej pláč plačící výraz plakat ronit slzy slza slzička smajlík smutek stýská se mi tvář zkroušený
+👨‍🦯	handicap hendikep muž se slepeckou holí nevidomý pomůcka postižení slabozraký slepec slepecká hůl slepota slepý usnadnění
+🫪	nafouklý obličej panika překvapený smajlík šokovaný úzkost zranitelný
+🔕	ne přeškrtnutý zvonek tichý vypnout zvuk zákaz zakázáno zltumení ztlumení ztlumit zvon
+📢	amplion hlášení hlasitý komunikace reproduktor rozhlas sdělení tlampač veřejné veřejný zvuk
+🦟	bodnutí dengue hmyz horečka komár kousnutí malárie moskyt štípanec štípnutí tropická nemoc virus
+🎅	člověk děda mráz fantasy mikuláš oslava otec pohádka santa claus vánoce
+❕	bílý vykřičník interpunkce interpunkční znaménka obrys značka
+🤽	člověk osoba hrající vodní pólo plavání plavat sport voda
+🗾	japonsko mapa japonska
+🔆	jas jasný světlo tlačítko zvýšení jasu zesvětlení zesvětlit zjasnění zjasnit
+🤣	brečet haha hehe lol obličej popukání řehtat rozesmátý se slza slzet smajlík smích smíchy sranda šťastný tvář válet veselý výraz
+🦅	dravec dravý orel pták zvíře
+🧶	háčkování háčkovat klubíčko klubko plést pletení příze vlna
+🍇	červené hrozny dionýsos hrozen hroznové víno jídlo ovoce rostlina
+🌯	burito burrito burritos jídlo mexická kuchyně mexické rolka tortilla wrap
+🌎	amerika glóbus se severní a jižní amerikou planeta svět země zeměkoule
+🀄	červená červený drak v mahjongu hra madžong mah-jong mahjong
+🦣	chlupatý huňatý kel kly mamut obří pravěk srstnatý velký vyhynulý zvíře
+🥝	jídlo kivi kiwi ovoce
+😻	kočičí úsměv s očima ve tvaru srdíček kočka láska obličej oči oko smajlík srdce srdíčka tvář usmívající se srdíčky místo očí výraz zamilovaná zamilovaný zvíře
+🎸	elektrická kytara fender hudba hudební nástroj stratocaster
+⏫	dvojitý nahoru šipka tlačítko rychle
+🏩	budova hodinový hotel japonsko láska love
+🥓	bůček jídlo maso sádlo slanina smažený tučný
+➗	÷ dělení děleno matematika podíl velké znaménko znak
+🐦‍🔥	fantasy fénix legenda mýtus nesmrtelný oheň na střeše ohnivý pták povstat z popela ohnivák reinkarnace znovuzrození
+🔁	dokola opakovat po směru hodinových ručiček šipka tlačítko opakování ve
+👪	chlapec chlapeček člověk dítě kluk máma matka otec rodiče rodina syn táta
+🤍	bílá bílé srdce srdíčko láska
+🪃	austrálie bumerang domorodec lov náčiní návrat odraz zbraň
+🔧	diy francouzský klíč hasák kutil kutit maticový montážní nářadí nástroj udělej si sám
+🐶	domácí hlava psa mazlíček obličej pejsek pes rozkošný roztomilý smajlík štěňátko štěně tvář výraz zvíře
+🦌	jelen kolouch laň vysoká zvěř zvíře
+🎋	festival tanabata japonsko japonský lístek oslava strom přání zástava
+🕌	islám mešita muslim náboženství víra vyznání
+📔	blok desky kniha notes notýsek obal obálka ozdobné ozdobný zápisník poznámkový přebal psát sešit škola učení výuka vzdělání zdobené
+🕗	00 20 20:00 8 8:00 čas hodiny osm hodin
+🐲	dračí tvář drak hlava draka obličej pohádka saň smajlík výraz zvíře
+👊	dohoda kámo klouby prstů namířená pěst rána pěstí rozhodně ruka souhlas tělo ťuknout úder určitě zaťatá zatnutá
+🫙	dóza jídlo konzervovat koření kořenka nádoba omáčka prázdná prázdný skladování skladovat sklenička zavařenina zavařovací sklenice zavařovačka
+🚇	cestování doprava dráha metro podzemní tunel vozidlo
+🧏	handicap hendikep hluchá osoba hluchota nedoslýchavost neslyšící pomůcka postižení sluch slyšet ucho usnadnění
+🤐	ani muk držet jazyk za zuby jako ryba mlčet mlčím nepovím neřeknu obličej s pusou na zip pst pšt smajlík tajemství tvář ústa výraz
+👩	blond blonďatá blondýna člověk dívka paní plavovlasá sestřih účes žena
+🍡	dango dezert japonský jídlo knedlíček rýžový knedlík sladkost sladký špejle tyčka zákusek
+📧	dopis e-mail elektronická pošta email odeslat poslat zásilka zpráva
+🛜	bezdrátové připojení internet počítač síť wi-fi wifi
+🐊	aligátor kajman krokodýl příroda zoo zvíře
+📌	koláž napínáček pin připíchnout připínáček připnout přišpendlit špendlík
+🕕	00 18 18:00 6 6:00 čas hodiny šest hodin
+⛲	fontána kašna lázně pramen voda vodotrysk
+🔫	hračka nářadí nástroj pistole revolver ruční zbraň voda vodní pistolka
+🍐	hruška jídlo ovoce rostlina sad zahrada
+⚓	cestování kotva loď moře nástroj oceán plavba přístav zakotvit zařízení
+🪆	bábulka babuška bábuška hračka matrjoška panenka ruská rusko skládací
+📦	balíček balík balné doručení komunikace krabice poštovné zásilka
+🧧	červená obálka čínský nový rok dar dárek hongbao lai see s penězi peníze pro štěstí
+🪽	anděl andělský křídlo létání letectví mytologie nebeský pták
+🎪	cirkus cirkusový stan manéž šapitó
+😏	drzost drzý flirt floutek lstivý mazaný mrkat obličej poťouchlý přidrzlý prohnaný samolibý smajlík tvář úlisný úšklebek úsměv vilný vychytralý výraz
+🛄	balit cesta cestování kufr letadlo odbavení příjezd přílet sbaleno výdej zavazadel výlet zavazadlo
+♑	horoskop koza kozoroh znamení kozoroha zvěrokruh
+🧑‍💼	architekt architektka bílý límeček byznys kancelář manažer manažer/manažerka manažerka úřednice úředník
+🐁	bílá myš hlodavec laboratorní myšička myška zvíře
+🐌	hlemýžď příroda slimák šneček šnek ulita zahrada zvíře
+👩‍🌾	člověk farmářka povolání práce rančerka rolnice selka záhradkářka zahradnice zemědělkyně žena
+🕑	00 14 14:00 2 2:00 čas dva dvě hodiny
+🎀	mašle mašlička oslava pentle růžová slavnost stužka
+📪	pošta poštovní schránka sklopený spuštěný svěšený zavřená s praporkem dole stránka se svěšenou vlajkou zavřený
+🎮	gamepad hra hrát konzole ovladač pařit playstation počítač videohra xbox zábava
+🔴	červená červený kroužek kruh geometrie tvar
+🦞	humr humří polévka klepeta korýš langusta plody moře rak zvíře
+🛐	modlit se modlitba modlitebna náboženství svatostánek víra
+🛹	jezdit na skateboardu kolečka prkno skateboard skateboarding skateboardista skejt skejťák skejtovat
+👩‍🏭	člověk dělnice v továrně dílna fabrika montérka povolání práce průmysl svářečka továrna výroba žena
+🙅	a dost gesto nesouhlasu odmítnutí ne nech toho přestaň ruka stop zákaz zakázáno žena se zkříženýma rukama
+🏧	atm automat banka bankomat hotovost karta peníze vybrat značka bankomatu
+🧢	baseball baseballová čepice s kšiltem flexa kšiltovka oblečení
+🫎	los parohy paroží savec sob wapiti zvíře
+💁	diva dlaň drby drzost drzý ironie muž oprsklý pomoc přidrzlý primadona přinést ruka sarkasmus sarkastický skrčená vážně vzhůru zapomeň žena
+🈶	ideogram japonský čtvercový existence japonština majetek není zdarma poplatek štítek s japonským znakem „není zdarma“ vlastnictví
+🌺	ibišek ibiškový květ květina kytička kytka rostlina rozkvetlá
+🤬	cenzura klení klít lát láteřit nadávající nadávat nadávka naštvaný neslušný obličej se symboly na puse přes ústa rozzlobený smajlík spílat tvář vulgarismy vulgární výraz
+🤢	ble blinkat fuj nechutný nevolno obličej se znechuceným výrazem smajlík tvář výraz znechucení znechucený zvracet
+💃	člověk elegantní flamenco ples salsa slavnostní smím prosit tančící žena tancovat tanec tanečnice tango
+🦋	hmyz krásný modrásek modrý motýl zvíře
+🐥	kuřátko zepředu kuře ptáčátko ptáček pták velikonoce zvíře
+🚫	ne vstup zákaz vstupu zakázán zakázáno
+💞	city ily kolo láska miluju tě otáčející se srdce otáčení rozkošný roztomilý vířící v kole srdíčka víření výročí
+🥖	bageta francouzské jídlo pečivo veka
+🉑	ideogram japonský kruhový přijetí japonština přijatelný příjem štítek s japonským znakem „přijatelné“
+🚓	auto doprava hlídka policejní policie vozidlo
+🧑‍🔬	biolog bioložka chemička chemik fyzička fyzik inženýr inženýrka matematička matematik vědec vědec/vědkyně vědkyně
+🔒	soukromý visací zamčeno zamčený zámek zamknuto zamknutý zavřeno zavřený
+🐦‍⬛	černá černý havran kavka kos krákání krkavec pták vrána zobák zvíře
+😐	bez výrazu kamenná tvář kamenný výraz neutrální nezábavný nezájem nezajímavý nudný obličej s neutrálním výrazem prázdný smajlík trapné závist
+🪘	buben bubínek bubnování conga congo hudba hudební konga kongo nástroj perkuse protáhlý rytmus
+🎩	abraham lincoln buřinka cylindr formální klobouk kouzelnický kouzelník oblečení oděv pan tau pokrývka hlavy
+👩‍🎤	bavička člověk herečka hvězda povolání práce punkerka rock rockerka zábava žena zpěvačka
+🦄	duhový hlava jednorožce jednorožec mytologie obličej roh smajlík tvář výraz zvíře
+🐠	akvarijní ryba rybička rybka tropická tropický zvíře
+🥥	jídlo kokos kokosová palma kokosový ořech piňa colada piña piňakoláda
+🧣	chladno krk šála šátek teplé oblečení zachumlat se zelený zima
+🎿	lyžáky lyže lyžování lyžovat skialp sníh sport zimní
+🌆	budova krajina město za soumraku městská mrakodrap panelák počasí silueta slunce soumrak večer vyhlídka západ
+🧐	boháč bohatý fajnový konvenční luxusní monokl nóbl obličej s brýlovým monoklem prudérní smajlík staromódní tvář výraz zámožný
+😭	brečet nářek naříkat nešťastný obličej pláč plakat potoky slz řvát slza smajlík smutek tvář výraz vzlykat zoufale plačící
+😰	chladno jejda modrá nervózní obličej otevřený pot smajlík spěchat studený tvář s otevřenou pusou zalitá studeným potem uspěchaný ústa uštvaný úzkostný se vyděšený vylekaný výraz
+💣	bomba bum exploze komiks komiksový nebezpečný obrázek výbuch výbušný
+🐪	dromedár hrb jednohrbý velbloud poušť příroda zvíře
+👨‍🎓	absolvent člověk muž promoce student univerzita vysoká škola
+👇	dole dolů hřbet ruky ukazující prst ruka s prstem ukazujícím tělo ukazováček ukazovat
+🥉	bronz bronzová medaile za 3 místo třetí trikolóra
+🚅	cestování doprava japonský rychlovlak pendolino rychlost šinkansen špička tgv vlak vozidlo železnice
+🥳	čepička frkačka gratulace hurá jupí konfety nadšení narozeniny narozky nejlepší obličej oslava pařit párty radost sláva slavit smajlík všechno zábava
+👳	člověk s turbanem muž v turbanu pokrývka hlavy turban
+🎧	hudba poslouchat sluchátka zvuk
+📨	dopis doručená doručený dostat e-mail elektronická pošta email obálka odeslaný příchozí přijmout psaní schránka zpráva
+⭐	astronomie bílá hvězda střední velikosti hvězdička hvězdy
+🫃	břicho člověk nadmutý plný přejezený těhotenství těhotný muž
+🌌	galaxie mléčná dráha noc obloha vesmír
+🧖	člověk v sauně lázeň lázně osoba pára parní relaxace sauna spa wellness žena
+🚠	cestování doprava gondola hora horská lanovka hory kabel kabina lanová dráha lyžařský vlek vozidlo
+🪙	bohatý dolar euro kov mince peníze poklad prachy stříbro zlato
+🌵	kaktus poušť příroda rostlina sucho
+😲	naprosto nekecej nemožné není možné nevěřícný obličej ohromený omg smajlík šok to snad ne tvář udivený úplně úžas užaslý výraz ohromení wtf zaskočený
+🙃	haha hehe hlavou dolů obličej obrácený převrácený smajlík tvář vzhůru nohama úsměv usmívat se výraz
+🚶	chodec chodit chůze jdoucí muž kráčející osoba kráčet krok pěší pěšky procházka túra vykračovat si
+👤	busta bysta obrys osoba silueta busty bysty stín tajemný záhada
+🛶	člun doprava kánoe loď
+🌓	čtvrť dorůstá dorůstající fáze měsíce měsíc v první čtvrti noc počasí půlměsíc vesmír
+🌒	dorůstá dorůstající měsíc po novoluní srpek měsíce fáze noc počasí půlměsíc sny vesmír
+👽	bytost fantasy mimozemšťan obličej pohádka příšera sci-fi smajlík tvář ufo ufon ufoun vesmír výraz
+🕡	18 18:30 30 6 6:30 čas hodiny půl sedmé šest třicet
+🐡	čtverzubec fugu ježík příroda ryba zvíře
+🛃	balení celní kontrola celnice clo deklarovat kufr proclít zákon zavazadla zboží
+🥛	mléko nápoj pití sklenice mléka
+🛟	bezpečí plavací plavání plavčík plovák záchrana záchranný kruh
+🫚	čaj kořen koření pivo zázvor
+🍋	citron citrón citrus jídlo kyselý ovoce rostlina žlutý
+🪶	brko lehké lehký let opeření peří peříčko péro pírko ptačí pták
+🫹	doleva neutrální pěst ta ten to ukázat
+👲	čepice člověk gua pi mao kua pchi muž s čínskou čepicí
+🤰	člověk gravidní těhotenství těhotná žena
+🧹	čarodějka čarodějnice ježibaba koště kouzelnice pometlo smeták smýčit úklid uklízení uklízet zametání zametat
+💑	člověk dvojice láska miláček pár se srdcem polibek pusa pusinka romance romantika srdce výročí
+⛅	mrak oblačno oblak počasí polooblačno slunce za mrakem zamračeno
+🩶	břidlice břidlicová láska líbí šedá šedé srdce srdíčko šedivá stříbrná
+🧨	bomba bouchnout dynamit jiskra oheň ohňostroj petarda prásknout rachejtle rozbuška světlo světýlko vybuchnout výbušnina
+🏊	bazén člověk muž plavající osoba plavání plavat plavec plavecký závod sport
+🕟	16:30 30 4 4:30 čas čtyři hodiny půl páté třicet
+🩰	balerína balet baletka baletní piškoty špičky střevíce tančit tanec taneční
+📀	bd blu-ray blue-ray cd cédéčko disk dvd holo holografický optické optický počítač
+🏃	běh běžec běžící člověk osoba chvátat honem maraton rychlost spěchat tempo závod
+🧜	ariel moře mořská bytost víla žena mořský muž nymfa panic panna postava siréna trojzubec
+🔽	dolů šipka tlačítko trojúhelník
+💻	kancelář laptop notebook osobní pc počítač
+🧋	boba brčko bubble tea bublinkový čaj jídlo mléčný nápoj perličkový perličky perlivý pití tapioka
+🫏	mezek mula osel savec tvrdohlavý umíněný zvíře
+🪟	čerstvý vzduch nábytek okno otvor průhled průhledný rám sklo výhled
+🐢	obojživelník pancíř sladkovodní želva suchozemská zvíře
+😤	funět hněv naštvaný navztekaný obličej odfouknutí pára rozčilený rozhněvaný rozhořčení rozlícený rozzuřený triumf vítězství vyfouknutí výraz vztek zloba zlost zuřit
+👨‍🚀	astronaut člověk kosmonaut muž povolání práce raketa věda vesmír
+👩‍💻	člověk kodérka notebook počítač povolání práce programátorka programování software softwarová developerka technologie vynálezkyně vývoj vývojářka žena
+🦠	améba bacil bakterie biologie měňavka mikrob mikrobiologie mikroby mikroorganismus věda virus
+🥺	milost obličej pěkně prosím proč ne prosba prosebný prosící prosit psí oči škemrat slitování smajlík smutné smutný žadonění žadonit
+🤮	ble blít fuj nechutný nemocný nevolnost obličej smajlík špatně tvář výraz žaludek zvracející zvracet zvratky
+❗	červený vykřičník interpunkční znaménka pozor rozkaz výstraha značka
+🪼	bezobratlí chapadla medúza moře mořská popálení požahání žahavci žahnutí zvíře
+🎺	dechový hudba hudební nástroj trubka trumpeta žestě žesťový
+🟥	červená červený čtverec čtvereček zaoblený
+😶	bez výrazu beze slov nemám němý nepříjemné obličej úst oněmělý prázdný výraz prekérní situace smajlík tajemství tajný ticho tichý trapné tvář ústa
+🧬	biolog biologie člověka bioložka deoxyribonukleová kyselina dna evoluce gen genetická informace genetika šroubovice život
+😵‍💫	hypnotizovaný motat se no páni obličej spirálami místo očí potíže smajlík spirála spirály výraz závrať zhypnotizovaný zmatený
+📸	aparát blesk foťák fotoaparát s bleskem fotografický video
+👩‍🔧	člověk elektrikářka elektrotechnička instalatérka mechanička montérka opravářka povolání práce řemeslnice zámečnice žena živnostnice
+💧	chladno kapička kapka komiks obrázek počasí pot příroda slza slzička smutný studený voda zima
+🪂	padák paragliding parašutismus plachtění rogalo seskok s padákem sport závěsné létání
+🎃	dýně dýňová lucerna halloween halloweenská oslava svátek vydlabaná vyřezávaná
+🫟	barva inkoust kapka nepořádek rozlití skvrna tekutina
+💖	city dobrou noc ily jiskra jiskřící srdce láska miluji tě miluju polibek pusa srdíčko třpytivé vzrušení zářící
+💜	city fialová fialové srdce ily láska miluji tě miluju nejlepší srdíčko
+🚀	astronautika cestování doprava kosmonautika kosmos raketa vesmír vypustit
+🎑	cukimi japonský měsíc obřad oslava slavnosti měsíce svátek tsukimi
+🍦	cukrovinka dezert jemný jídlo kornout kornoutek krémová zmrzlina sladkost sladký točená zákusek v kornoutku
+🥀	hynoucí květ květina růže uvadlá uvadlý uvadnutá vadnoucí zvadlá zvadnutá
+😣	bolest hlavy koncentrace migréna obličej s umíněným výrazem šklebit se smajlík soustředit tvář umíněnost výraz vytrvalost vytrvalý
+📰	číst deník informace komunikace novinky noviny papír tisk zpravodajství zprávy
+🥊	box boxerská rukavice boxérská boxerský červená sport
+🧑‍🏫	instruktor instruktorka profesor profesorka učitel učitelka vyučující
+🔺	červená červený trojúhelník mířící nahoru směřující geometrie tvar
+📺	obrazovka přijímač retro televize televizní televizor telka tv video
+🦬	bizon buvol býk stádo živočich zubr zvíře
+👸	člověk fantasy koruna královna pohádka princezna vládkyně
+😋	chutný hladový jídlo jíst lahodný mňam ňam obličej olizující se tvář rozpustilý smajlík sytý úsměv výborný vychutnávat vynikající vypláznutý jazyk výraz
+👗	nákupy oblečení oděv plesové šaty slavnostní společenské taneční večerní
+🦎	čolek gekon ještěr ještěrka plaz salamandr zvíře
+🫳	huš kšá odehnání odhánět puštění ruka otočená dlaní dolů upuštění upustit zamítnutí zvednout zvednutí
+🥎	míč míček nadhoz rukavice softball softballový sport
+💉	dávka doktor injekce injekční stříkačka jehla lék lékař nástroj nemoc nemocný očkování proti chřipce očkovat prevence vakcína
+🪧	cedule demonstrace oznámení poutač protest transparent vyhláška značka
+🌃	hvězda hvězdná noc měsíc mrakodrap noční panorama obrázek počasí velkoměsto
+📕	červená kniha škola učebnice učení výuka vzdělání zavřená zavřený
+😇	anděl andílek duše dušička fantasy halo mírumilovný nevinný obličej pohádka smajlík spokojený šťastný svatoušek svatozář svatý tvář úsměv výraz
+🍃	foukat list lístek listí padající ve větru třepotající se příroda rostlina třepetající třepetat třepotat vánek větřík vítr
+🫒	jídlo olej oliva olivový ovoce plod potravina snítka větvička zelený
+🔜	brb brzy hned jsem zpátky na cestě šipka s nápisem soon už běžím
+🧑‍🍼	chůva člověk dítě kojenec kojení krmení krmit nemluvně novorozenec osoba krmící z lahve rodiče
+🚍	autobus doprava příjezd přijíždějící vozidlo
+🧄	aromatický česnek dochutit jídlo koření ochucování příchuť zelenina
+👯	dvojčata holky na párty kostým králíček králičí uši osoby se zaječími oušky playboy tanec tanečnice tanečník zajíček
+🪤	chytit nástraha návnada past pastička na myši sýr
+🥸	brýle incognito inkognito knír maskovaný obličej v přestrojení obočí převlek smajlík špehovat špion tvář výraz
+🥅	brána branka fotbal gól hokej síť sport sportovní
+🍪	cookie cukrovinka dezert jídlo koláček moučník sladkost sladký sušenka s čokoládou zákusek
+🔎	čočka hledání laboratoř lupa nakloněná doprava směřující vpravo nářadí nástroj sklo věda zkoumat zvětšení zvětšovací zvětšování
+🩴	bota flipflop letní obuv pláž sandál sandále sandály vietnamky žabka žabky
+💢	hněv japonský symbol hněvu komiks komiksový manga naštvaný rozzlobený úder vztek žíly zloba zlost
+🥙	chlebová placka falafel gyros jídlo kebab plněná pita plněný sendvič
+🐈	domácí kočička kočka koťátko kotě mazlíček příroda zvíře
+📥	dopis doručená dostat e-mail email inbox krabice obálka obdržet pošta poštu prázdný příchozí přihrádka přijmout schránka zero zpráva
+🚮	koš odpad odpadkový odpadky smetí značka odpadkového koše
+🟨	čtverec čtvereček zaoblený žlutá žlutý
+🥼	bílý plášť doktor doktorka experiment laboratorní lékař lékařka oblečení oděv pokus vědec vědkyně
+🧱	cihla cihlová zeď cihlový cihly hlína malta zděný zdít
+🧈	jídlo máselnička máslo mléčné výrobky mlékárenské mlékárna mlékařské mlékařství
+💓	bušení bušící srdce city ily láska miluji tě miluju puls srdíčko tep tlukot
+🎏	den dětí japonsko japonský kapr kapří koinobori oslava praporek ryba rybí větrný rukáv vlajka
+♈	beran horoskop skopec znamení berana zvěrokruh
+🛌	chrnět člověk v posteli deka dobrou noc hotel osoba peřina pochrupovat polštář postel přikrývka šlofík spánek spát spící unavený zachumlaný zdřímnout si zzz
+🦇	letoun netopýr upír vampýr zvíře
+🚐	autobus bus cestování dodávka doprava dopravní prostředek jet jízda mikrobus minibus vozidlo
+🐬	delfín delfínek moře oceán pláž ploutev skákající zvíře
+🐅	predátor pruhovaný šelma tygr velká kočka zoo zvíře
+🌉	cestování most v noci noc obrázek počasí
+🤌	dobrota fakt dobrý gesto rukou ironie italské sarkastické já ti to říkal otázka prsty rozčilení ruka sarkasmus sevřené špetka z pěti prstů je jasný top vysvětlovat zdůraznění
+🛀	člověk ve vaně domácnost koupat se koupel koupelna osoba sprcha vana
+👶	batole člověk dítě kojenec malé malý miminko mimino nemluvně novorozeně těhotenství těhotná žvatlat
+🍁	javor javorový list kanada opadané listí padající podzim podzimní rostlina
+🚜	doprava farma traktor vesnice vozidlo
+💠	geometrie kosočtverec s tečkou obrázek tvar uvnitř
+😚	červenat se flirt láska líbající obličej zavřenýma očima miluji tě miluju oči oko polibek pusa pusinka ruměnec smajlík tvář výraz polibku zardění zavřený zrudnutí
+👮	důstojník polda policajt policie policista povolání strážník zákon zatknout zločin
+🍥	dort jídlo koláček restaurace ryba rybí karbanátek se spirálkou rýžový spirála surimi
+🧌	fantasy monstrum nestvůra obluda obr pohádka příšera trol troll trollovat zlobr
+👠	bota na podpatku dámský jehlový podpatek lodička móda nákupy oblečení obuv oděv vysoké podpatky žena
+🧑‍🎄	čepice člověk fantasy ježíšek oslava osoba pohádka santa claus santovská slavit svátky vánoce vánoční
+👩‍🏫	člověk instruktorka kantorka lektorka pedagožka povolání práce přednášející přednáška profesorka škola školitelka učitelka vyučující vzdělání žena
+🌴	moře palma palmový pláž rostlina strom tropický
+🏭	budova fabrika průmysl továrna
+🔷	geometrie kosočtverec modrá tvar velký modrý
+💡	baňka elektrická elektrický elektřina komiks nápad rozsvítit světlo žárovka
+🪾	bez listí dřevo holé kmen mrtvé neplodný strom sucho větve zima
+🔙	back nazpátek nazpět šipka zpátky zpět
+🫲	doleva levá napřáhnout podaná ruka podat ruku potřást rukou otočená stisk vlevo
+💒	kaple kostel láska obřad romance romantika sezdaní svatba svatební
+🆔	id identita štítek totožnost značka
+🧑‍🩰	balet baletka baletní tanečník
+🥪	chleba jídlo sandwich sendvič svačina toast toust
+⌛	čas časomíra časovač minutka písek počítadlo přesýpací hodiny
+🔀	náhodně shuffle šipka šipky tlačítko náhodného přehrávání zamíchání zamíchat zkřížené zkřížení
+😦	co cože obličej otevřený polekat se překvapení smajlík tvář úlek ústa vyděšený vylekaný výraz zamračení s otevřenou pusou vystrašený zamračený zaražený zděšený
+🍄‍🟫	hnědá houba houbařit houbová hříbek jídlo les portobello příroda sbírat houby shiitake zelenina
+🦫	bobr hlodáky hlodavec hráz kanada živočich zuby zvíře
+🥚	jídlo vajíčko vejce
+🛑	jednosměrka osmiúhelník stop stopka zákaz zastavit značka
+🎫	lístek stvrzenka ústřižek útržek vstup vstupenka vstupné
+👺	bytost fantasy japonský maska obličej pohádka příšera rozzlobený skřet skřítek smajlík šotek strašák strašidlo tvář výraz zlý zuřivý
+🤷	co já vím je mi to jedno možná nejistota nerozhodnost nevědomost nevím nezájem osoba krčící rameny pochybnost pochyby pokrčení pokrčit ramena fuk
+🦏	afrika nosorožec roh zoo zvíře
+🍿	fastfood film jídlo kino popcorn popkorn pražená kukuřice pukance pukánky
+☕	čaj horký kafčo kafe kafíčko káva kavárna kofein kouřící nápoj pára pití ráno starbucks teplý
+📴	mobil mobilní telefon vypnuto vypnutý
+👘	japonsko kimono oblečení pohodlný yukata
+🚈	doprava jednokolejka příjezd příměstský vlak rychlodrážní tramvaj vozidlo železnice
+🧷	pankáč plenky pleny připnout přišpendlit punk sichrhajcka šitíčko spínací špendlík zavírací
+🍔	burger burgr cheeseburger fast food fastfood hamburger hamburgr hladový jídlo jíst rychlé občerstvení
+🔸	geometrie kosočtverec malý oranžový oranžová tvar
+🎎	festival japonské panenky japonský oslava panenka svátek
+🧘	člověk v pozici lotosového květu jóga jogínka klid lotos lotosová lotosový květ meditace osoba lotosovém sedu pozice relaxace turecký sed zen
+🥾	bota hnědá kanada kempování obuv pěší túra pohorka příroda stanování táboření trampovat turistika výlet výšlap
+🦙	alpaka chundelatý guanako huňatý lama načechraný vikuňa vlna zvíře
+🆚	proti štítek vs tlačítko versus značka
+🧦	oblečení pár ponožek ponožky punčochy
+🛕	budova chrám hinduismus hinduistický posvátné místo svatyně
+💝	city ily láska mašle miluji tě miluju srdce s mašlí srdíčko stuha stužka valentýn výročí
+🔂	jedna jednou šipka skladba směru hodin hodinových ručiček stopa tlačítko jednoho opakování jedné stopy ve zopakovat
+🌷	kvést květ květina kytička kytka rostlina růst tulipán
+🧑‍🧑‍🧒	dítě dospělý rodina
+🥰	láska mám tě rád ráda milovat miluji mít obličej romantika smajlík srdce srdíčka úsměv usmívající se třemi srdíčky zakoukaný zaláskovaný zamilovanost zamilovaný zbožňování zbožňovat
+💍	briliant diamant požádat o ruku prsten prstýnek romantika svatba třpytivý vdavky zářivý zasnoubit se zásnubní zásnuby
+🕖	00 19 19:00 7 7:00 čas hodiny sedm hodin
+🚷	chodci chodec ne pěší průchod vstup zakázán zákaz vstupu chodců zakázáno
+🐾	nohy otisk otisky tlap stopa stopy ťapky tlapa tlapky
+👨‍🎨	člověk malíř muž paleta povolání práce umělec umění
+🍤	garnát jídlo kreveta smažená smažené smažený tempura
+🦢	bílý labuť labutí mládě opeřenec ošklivé káčátko peří pírko pták vznešený zvíře
+🔏	hrot inkoust listové tajemství pero soukromí soukromý tajné utajení zámek a zamknutý s plnicím perem
+⛄	chladno počasí sněhulák bez sněhu sníh studený zima
+💀	kostlivec kostra lebka mrtvý obličej pohádka příšera smajlík smrt tělo tvář výraz
+🏴	černá vlajka černý prapor praporek smuteční smutek vlající
+👍	+1 ano chápu dobře jasně jo lajk lajkovat like nádhera nahoru ok palec paráda rozumím ruka skvělý souhlas super tělo
+🧑‍💻	kodér kodérka programátor/programátorka software technologie vynálezce vynálezkyně vývojář vývojářka
+🪊	hudba jazz nástroj posouvání smutná žesťové žesťový
+🌭	hořčice hot dog hotdog jídlo kečup klobása párek v rohlíku
+♎	horoskop rovnováha spravedlnost váha váhy znamení vah zvěrokruh
+🪇	chrastítko hudba maracas nástroj perkuse rumbakoule
+💂	buckinghamský palác člověk garda gardista hlídač hlídka londýn povolání práce přilba stráž strážce
+🛸	doprava létající talíř mimozemský mimozemšťani neidentifikovatelný předmět ufo ufon
+➰	kadeř kudrna lokna smyčka spirálka zatočený
+🎴	herní karty s květinami hra hrací hraní japonský karta květina
+🦪	jídlo perla perleť potápění ústřice
+🪯	khanda náboženství sikh sikhismus
+🛅	kufr odložení skříňka skříňky úschova úschovna zavazadel zámek zavazadla zavazadlo
+🉐	ideogram japonský kruhový výhodnosti vyjednávání japonština koupě štítek – znak „výhodná koupě“ výhodná výhodnost
+🧑‍🏭	dělnice dělník osoba pracující v továrně průmysl továrna výroba
+🔰	japonský symbol pro začátečníka krokev list nástroj pomůcka začátečník zelená žlutá
+🫍	mořský oceán velryba
+♊	blíženci blíženec dvojčata horoskop znamení blíženců zvěrokruh
+🍒	červená jídlo ovoce rostlina třešeň třešinky třešně višně
+🦘	austrálie australský hopsat kapsa klokan klokánek savec skákat skákavý vačnatec zvíře
+🦯	handicap hendikep nevidomý pomůcka postižení slabozraký slepec slepecká hůl slepota slepý usnadnění zpřístupnění
+🧼	čistit čistý kostka koupat se koupel miska na mýdlo mydlení mydliny mydlit mýt mytí namydlit pěnit sprchovat umývat
+🧿	amulet boncuk korálek modré oko modrobílé modrý nazar ozdoba přívěsek talisman uhranutí zlý pohled
+🎱	8 biliár billiard černá černý číslo hra koule na kulečník kulečníková osm pool sport
+🍭	cukrovinka dezert dobrota jídlo lízátko mlsat sladkost sladký špejle
+🥈	druhé medaile za 2 místo stříbrná stříbro trikolóra
+🔬	experiment laboratoř mikroskop nástroj pokus věda vědecký výzkum zvětšení
+🤞	držím palce prsty ruka štěstí zkřížené pro zkřížit
+🍛	curry jídlo kari karí s rýží rýže
+👌	chápu dokonalý gesto ok jasně paráda peckovní perfektní prvotřídní rozumím ruka špetka super tělo top
+👆	hřbet ruky ukazující nahoru nahoře prst ruka s prstem ukazujícím tělo ukazováček ukazovat
+👉	hřbet ruky ukazující vpravo prst ruka s prstem ukazujícím tělo ukazováček ukazovat
+🎍	bambus bambusové dekorace borovice z a bambusu japonský kadomacu kadomatsu oslava ozdoba pinie rostlina výzdoba
+🧔	brada člověk s vousy osoba plnovousem plnovous vous vousáč vousatý
+🦶	chodidla chodidlo dupat kopanec kopat kopnout kopnutí kotník nakopnout noha nohy pata šlapka šlápnutí
+🈺	ideogram japonský čtvercový otevřenosti japonština otevřeno provozní doba štítek s japonským znakem „otevřeno“ v provozu
+🧮	abakus barevný kalkulačka korálky počitadlo počítadlo počítání počítat počty prvňák první třída
+🏁	cíl finiš kostkovaná kostkovaný nascar praporek šachovnice šachovnicová vlajka signální sport vyhrát závod závodit zvítězit
+🙈	dívat gesto ne nemůžu nevidět nevidím nic oči omg opice ruce schovat stydět tajemství vyděšený výraz zákaz zakryté zlo zvíře
+🍠	batát brambora jam jídlo opékaný sladká sladký
+🕋	hadždž islám ka’ba kaaba kába muslim náboženství umra
+🫓	arepa chlebová placka gordita jídlo lavaš naan nán pita potravina tortilla wrap
+😠	frustrovaný hněv hněvivý naštvaný nešťastný obličej rozčilený rozhněvaný rozrušený rozzlobený rozzuřený smajlík tvář výraz vztek vzteklý zloba zlost zuřivost zuřivý
+🫶	gesto lásky láska milovat miluji tě ruce spojené do tvaru srdce ruka srdíčko
+🤖	automat obličej robota příšera robot smajlík tvář výraz
+◾	černá čtverec geometrie střední černý tvar větší čtvereček
+🤤	bryndat chutné cintat hlad obličej slina slinit slintající tvář slintání slintat blahem sliny smajlík vynikající výraz
+🏹	horoskop lučištník luk a šíp lukostřelba lukostřelec nástroj sport střelec výzbroj zbraň znamení střelce zvěrokruh
+💔	city emoce nešťastný osamělý sklíčený smutný srdce zarmoucený zdrcený zlomené zlomený zlomit zničený
+🍍	ananas jídlo ovoce piña colada rostlina tropický
+🤱	člověk dítě kojenec kojení kojit krmení maminka mamka matka miminko mimino nemluvně novorozeně prsa prso
+👨‍🍼	chůva člověk dítě kojenec kojení krmení krmící tatínek krmit muž z lahve nemluvně novorozenec osoba otec táta
+👫	člověk držet dvojice flirt kamarád láska muž a žena držící se za ruce drží pár rande ruka zamilovaní

@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « is » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	nýtt nýtt-skilti skilti
+🧑‍🤝‍🧑	fólk að leiðast haldast í hendur hönd leiða par
+◽	ferningur hvítur meðalsmár rúmfræði
+⛽	bensín bensíndæla bensínstöð dísil
+🔓	læsa lás opinn opna taka úr
+👄	andlit líkami munnur varir
+🍴	hnífapör hnífur og gaffall veitingastaður
+🏒	ís íshokkí kylfa leikur pökkur
+💦	skrípó svitadropar sviti tilfinningar
+🎐	órói vindharpa
+😼	glott glottandi köttur lúmskur lymska
+😉	andlit blikk blikkandi
+📛	nafn nafnspjald spjald
+🚉	lest lestarstöð stöð
+💌	ástarbréf bréf með hjarta rómantík
+🆘	hjálp skilti sos sos-skilti
+🛙	haf leiðsögn ljós merki rötun sjóferðir upplýsing von
+🍯	hunang hunangskrukka veitingastaður
+😿	grátandi grátur köttur
+🫜	garður grænmeti næpa rófa rót
+😳	andlit að roðna
+🚨	lögregla lögregluljós sírena
+🚌	rúta strætisvagn strætó
+🌇	hús rökkur sólarlag yfir húsum
+🔝	efst efst-ör ör upp uppör
+🙊	api heldur fyrir munn illska má ekki tala
+🐙	kolkrabbi
+🕦	11:30 ellefu þrjátíu hálftólf klukka
+🕞	3:30 hálffjögur klukka þrjú þrjátíu
+🙌	báðar hendur fagna upp í loft húrra
+🚗	bifreið bíll
+🕥	10:30 hálfellefu klukka tíu þrjátíu
+🥱	geispa geispandi andlit leiðindi þreyta
+🐎	hestur veðhlaupahestur
+👩‍🚒	brunabíll kona slökkvilið slökkviliðskona slökkviliðsmaður
+🪉	amor ást harpa hljóðfæri hljómsveit tónlist
+🫁	anda innöndun líffæri lungu öndun útöndun
+📲	farsími með ör hringja sími
+💚	grænt hjarta tilfinningar
+📶	farsímasamband farsímastyrkur farsími loftnet
+🫦	áhyggjufullur bítur í vör daðrar hræðsla kvíðinn taugaóstyrkur uggandi
+🌅	morgunn sól sólarupprás
+🌂	klæðnaður lokuð regnhlíf rigning samanlögð veður
+🍲	kássa pottréttur
+🪜	klifra rim stigi trappa
+✅	hak hakmerki hnappur merki
+📑	bókamerki flipar merki merkiflipar
+👣	fótspor fótur líkami spor
+👀	andlit augu
+🤸	fimleikar handahlaup hlaup íþrótt
+⭕	holur rauður hringur o stór
+😆	ánægja andlit bros brosandi með pírð augu og
+🔄	örvar rangsælis
+🟢	grænn hringur
+🧗	klettaklifur maður í klettaklifri
+🌟	skínandi stjarna
+🤧	andlit hnerra hnerrandi hnerri kvef
+🔛	kveikt með upphrópunarmerki og ör kveikt-ör upphrópun
+🪫	lítil orka raflítil rafhlaða raftæknilegt
+⏰	klukka vekjaraklukka vekjari
+🥕	grænmeti gulrót matur
+➿	gormur lykkjur tvöföld lykkja
+🥂	drykkur glas glös skál
+🪲	bjalla bjölludýr padda skordýr
+🩹	plástur
+🟧	appelsínugulur ferningur
+📍	teiknibóla með kúlu
+😽	andlit auga koss köttur kyssandi
+🐤	fuglsungi hænuungi kjúklingur ungi
+🤵	brúðgumi fínn maður smóking
+🛼	hjól hjólaskautar skauti
+🧩	krækja saman púsl púsluspil vísbending
+🛝	leika rennibraut skemmtigarður
+🔇	ekki tala hátalari hljóðlaus þögn
+🏥	bygging lækningar læknir sjúkrahús
+🚔	lögregla lögreglubifreið lögreglubíll á móti
+💶	evra evruseðill peningar peningaseðill seðill
+🥭	ávöxtur mangó suðrænn
+🫂	faðmlag fólk að faðmast halló kveðja þakklæti
+🔳	ferningur hnappur hvítur ferningslaga
+💹	á uppleið hækkar jákvætt markaður verðbréfamarkaður
+🧺	búskapur karfa lautarferð þvottur
+😖	andlit forviða
+🔐	lás með lykli lokaður öruggt
+🈯	„frátekið“ á japönsku frátekið japanska myndletur
+🏦	banki bygging
+🍧	ís skafinn skafís veitingastaður
+🧍	standa standandi manneskja stendur
+🟠	appelsínugulur hringur
+⛔	bannað einstefna enginn aðgangur nei umferð
+✊	hnefi uppréttur
+🌜	andlit máni síðasta kvartil tungls með andliti tungl tunglsigð
+😹	gleðitár köttur með
+🧾	bókfærsla bókhald endurskoðun kvittun sönnun sönnunargagn
+🪩	dans diskó diskókúla glitra partý
+🏇	hestur íþrótt knapi veðreiðahestur veðreiðar
+👦	drengur fólk strákur
+🏸	badminton badmintonbolti fjaðrabolti leikur spaði
+🥜	grænmeti jarðhneta jarðhnetur
+📱	farsími sími
+🕎	ljósastjaki margálma kertastjaki menorah-ljósastika trúarbrögð
+🚙	dægrastytting farartæki jeppi
+🖤	hjarta illt innræti svart svartur
+🪬	fatíma hamsa hönd maría miriam vernd verndargripur
+🚴	hjól hjólreiðar manneskja á hjóli
+🍷	bar drekka drykkur glas vín
+💊	læknir lyf pilla
+🍀	fjögurra laufa smári happamerki
+🪌	leiðrétting skrift teikning villa þurrka út
+😷	andlit með grímu læknagrímu gríma kalt veikindi
+📆	dagatal með rifgötum
+🙉	api heldur fyrir eyru illska má ekki heyra
+💱	gjaldmiðlar gjaldmiðlareikningur gjaldmiðlaskipti peningar
+🩻	bein beinagrind læknir læknisfræðilegt röntgengeisli
+🏠	bygging heimili hús
+📙	appelsínugul bók
+🥔	grænmeti kartafla matur
+💮	blóm hvítt stimpill
+🥌	krulla krullusteinn leikur steinn
+💩	della kúkur skítur
+🍳	elda steikarpanna steiking veitingastaður
+🦈	fiskur hákarl sjávardýr
+🌼	blóm planta
+😜	andlit auga blikkandi að ulla blikkarl með útrétta tungu brandari tunga
+🪁	fljúga flugdreki svífa
+⛎	naðra naðurvaldi snákur stjörnumerki
+🍾	bar flaska með korktappa korkur skjóta
+🧇	járn vaffla vöfflujárn
+🛞	beygja hjól hjólbarði hringur
+📜	bókrolla pappír
+🧎	krjúpa krjúpandi manneskja
+🌕	fullt máni tungl
+💽	md md-diskur mini disc smádiskur
+💙	blátt hjarta tilfinningar
+📏	bein reglustika
+🥡	kínverskur matur taka-með takeaway-box
+🕔	5:00 fimm klukka klukkan
+🤩	andlit augu brosandi stjarna stjörnustjarfur
+🟦	blár ferningur
+🐍	naðra naðurvaldi snákur stjörnumerki
+🐉	ævintýri dreki
+🪎	auður gimsteinn gull peningar silfur sjóður verðmæti
+💯	100 fullt hús stig
+🌝	andlit bjart fullt tungl með andliti máni
+♏	sporðdreki sporðdrekinn stjörnumerki
+🪞	endurspeglun endurvarp spegill speglun
+💅	handsnyrting naglalakk neglur snyrtivörur
+🫫	afhjúpun brotnar molnar spenna umbreyting
+🈁	hér japanska kassi katakana koko
+🍵	bolli drykkur te tebolli
+⏳	niðurtalning sandur stundaglas með rennandi sandi
+🌙	hálfmáni máni tungl
+🤭	andlit með hendi fyrir munn úps
+🥗	grænmeti matur salat
+🈹	„afsláttur“ á japönsku afsláttur japanska myndletur
+🔔	bjalla hringing
+🦹	glæpamaður illmenni illur ofurkraftur skúrkur
+🙎	fýlusvipur manneskja í fýlu
+🫴	benda bjóða grípa hendi með lófa upp koma
+👨‍🦽	aðgengi hjólastóll maður í hjólastól
+🙇	auðmýkt fyrirgefðu hneiging hneigja
+🔈	hátalari hljóðstyrkur lágvær
+🍋‍🟩	ávöxtur hitabeltis límóna sítrus súraldin
+🪖	her herinn hermaður hermannahjálmur hjálmur stríðsmaður
+🪰	fluga maðkar plága rotnun sjúkdómur
+👧	meyja stelpa stjörnumerki stúlka
+🍂	fallandi laufblöð haust lauf laufblað
+🍝	pasta spagettí veitingastaður
+🧑‍🦼	aðgengi hjólastóll manneskja í vélknúnum hjólastól
+🏂	íþróttir snjóbrettamaður snjóbretti
+🏬	stórmarkaður verslun
+🤾	boltaíþrótt handbolti handknattleikur íþrótt
+🌳	lauftré sumargrænt tré
+🏐	blak bolti leikur
+🧴	áburðarflaska áburður krem sjampó sólarvörn
+💨	flýja hlaupa hraðferð skrípó tilfinningar
+🪱	ánamaðkur liðormur ormur sníkjudýr
+🫕	brætt fondú ostur pottur súkkulaði sviss
+🕧	12:30 hálfeitt klukka tólf þrjátíu
+🥣	morgunkorn morgunmatur morgunverður skál og skeið
+🍞	brauð brauðhleifur
+🌚	andlit karlinn í tunglinu máni nýtt tungl með andliti
+🦨	óþefur skunkur
+🚹	karl karlaklósett klósett salerni snyrting
+🪅	fögnuður piñata slá köttinn úr tunnunni
+🪢	binda flækja hnútur reipi snúa tvinni
+🫢	andlit með opin augu og hendi yfir munni furða hræddur lotning undrun vandræðalegur vantrú
+🎻	fiðla hljóðfæri tónlist
+🛫	brottfarir brottför flugvél í flugtaki innritun
+💐	blóm blómvöndur rómantík
+👎	bending hönd þumall niður
+🤟	elska-þig merki hendi ily
+♋	krabbi krabbinn stjörnumerki
+🦸	góð hetja kvenhetja ofurhetja ofurkraftur
+👏	hendur klappa klapp lófaklapp
+🧚	álfur bokki óberon títanía
+🏢	bygging hús skrifstofuhúsnæði skrifstofur
+🧻	klósettpappír pappírsrúlla salernispappír
+🔅	birta dimmt lítil tákn um litla birtu
+🆓	ókeypis ókeypis-skilti skilti
+🪛	skrúfa skrúfjárn verkfæri
+📖	bók opin
+🍬	eftirréttur nammi sælgæti
+🃏	jóker jókerspil spil
+🧪	efnafræði efnafræðingur tilraun tilraunaglas tilraunastofa vísindi
+🍟	franskar kartöflur veitingastaður
+🌏	asía ástralía hnöttur sem sýnir asíu-ástralíu jörðin
+🧵	kefli nál sauma tvinni þráður
+🆎	ab ab-blóðflokkur blóð blóðflokkur
+👩‍🍼	barn brjóstagjöf gjöf kona að gefa barni
+🕛	12:00 klukka klukkan tólf
+🍰	kaka kökusneið terta veitingastaður
+🦩	flamingói hitabeltis litríkur
+😁	andlit glottandi með brosandi augum hlæja
+⬛	ferningur rúmfræði stór svartur
+🪻	blóm garðakornblóm hýasinta ljónsmunnur lofnarblóm lúpína
+🖖	fingur hendi kveðja spock vulcan-kveðja vúlkan
+🪍	gildra grípa net safna
+⌚	klukka úr
+🐯	höfuð tígrisdýr tígrisdýrshöfuð
+🚧	framkvæmdir vegavinna
+🔵	blár hringur rúmfræði stór
+🌄	fjall morgunsól sól kemur upp sólarupprás yfir fjöllum
+🚾	klósett salerni snyrting wc
+📮	póstkassi póstur
+🦽	aðgengi hjólastóll
+🌁	veður þoka þokukennt
+🫈	furðuvera jetí loðinn risi sasquatch skógur snjómaðurinn ógurlegi stórfótur
+🦷	tannlæknir tennur tönn
+🪺	hreiður með eggjum hreiðurgerð
+🐜	maur skordýr
+🔋	batterí rafhlaða
+🟡	gulur hringur
+🌑	dökkt máni nýr nýtt tungl
+😩	andlit þreyta þreytulegt
+🛒	innkaup innkaupakerra innkaupavagn kerra
+🆗	í lagi ok ok-skilti
+🪝	bogi gildra krækja krókur
+🥞	eftirréttur matur pönnukökur
+💳	greiðslukort kort kredit kreditkort
+🦗	engispretta krybba
+🫛	baun baunabelgur baunir belgjurt belgur edamame grænmeti
+🥧	baka bökudeig fylling sætabrauð
+🧸	bangsi dót leikfang tuskudýr
+🧛	drakúla hinir ódauðlegu vampíra
+🟪	ferningur fjólublár
+🐱	gæludýr höfuð kattarhöfuð köttur
+🦺	neyðartilfelli öryggi öryggisvesti vesti
+🈴	„viðunandi einkunn“ á japönsku japanska lágmarkseinkunn myndletur
+🍏	ávöxtur epli grænt
+🌠	óskastjarna stjarna stjörnuhrap
+❌	× hætta við kross krossmerki margfalda margföldun x
+🐸	andlit froskur
+🧀	götóttur ostur
+🪕	banjó strengir strengjahljóðfæri tónlist
+🐩	gæludýr hundur púðluhundur
+🦻	aðgengileiki eyra með heyrnartæki heyrnarlaus heyrnarskerðing
+👩‍🦼	aðgengi hjólastóll kona í vélknúnum hjólastól
+🧙	galdramaður norn seiðkarl seiðkona
+👨‍🏫	karl karlkyns kennari leiðbeinandi skóli
+💄	förðun snyrtivörur varalitur
+🚘	bíll á móti nálgast
+👨‍🏭	iðnaður karl karlkyns verksmiðjustarfsmaður verkfæri verksmiðja
+🏣	japan japanskt pósthús
+🫐	aðalbláber ber blá bláber
+🦑	sjávardýr smokkfiskur
+🐵	apahöfuð api dýr höfuð
+🧊	ísjaki ísmoli kuldi
+🤿	kafa köfun köfunargríma snorkla
+📼	myndbandsspóla vídeóspóla
+💟	hjarta skraut með
+🎥	bíó kvikmynd kvikmyndatökuvél skemmtun
+🧥	jakki kápa
+🐽	svín svínstrýni trýni
+👭	hendur konur sem leiðast par
+🚝	einteinungur lest
+🩷	ást bleikt hjarta krútt sætt
+🧑‍🎓	nemi útskrift
+🏡	garður heimili hús með garði
+😮‍💨	andköf andlit að anda frá sér blístur hvísl léttir stuna útöndun
+🔣	setja inn tákn
+🪚	smiður sög timbur verkfæri viður
+🧕	blæja höfuðklútur kona með höfuðklút slæða slör
+🦂	sporðdreki stjörnumerki
+➖	- – merki mínus mínusmerki stærðfræði
+😮	andlit með opinn munn munnur
+🪸	kórall rif úthaf
+🚊	farartæki sporvagn vagn
+😟	áhyggjufullt andlit áhyggjur
+📇	spjaldskrá uppflettiskrá
+🌽	maís
+📫	flagg lokaður póstkassi með reistum fána flaggið uppi póstur
+🚄	hraðlest lest
+🧑‍🎨	listamaður listmálari litaspjald
+🪪	auðkenni öryggi persónuskilríki skilríki skírteini
+🫖	drykkur kanna te tekanna
+🕘	9:00 klukka klukkan níu
+🈵	„allt fullt“ á japönsku allt fullt japanska myndletur
+🐔	fugl hæna kjúklingur
+👩‍🦽	aðgengi hjólastóll kona í hjólastól
+🛗	aðgengi hífa lyfta
+🍊	appelsína ávöxtur mandarína
+🤒	andlit með hitamæli í munninum hitamælir flensu veikur
+🎾	bolti íþróttir tennis tennisbolti tennisspaði og
+🤡	andlit trúður
+💰	peningapoki peningar poki
+🛴	hjól hlaupa hlaupahjól
+🪷	blóm búddhatrú hindúatrú hreinleiki indland lótus víetnam
+🦉	fugl ugla
+🐛	margfætla skordýr
+📣	fögnuður gjallarhorn samskipti
+😱	andlit hræðsla öskra af ótta óttaslegið ótti
+🥨	saltkringla snúin
+📎	bréfaklemma klemma
+🍩	eftirréttur kleinuhringur sætindi
+🐕	gæludýr hundur
+🧑‍🧒‍🧒	barn fjölskylda fullorðinn
+🪮	afró greiða hár hárkambur kambur
+🫗	drykkur glas hellir vökva sulla tómt
+📳	farsími sími stilling titringur
+💏	fólk koss kyssast rómantík
+🔮	kristall kristalskúla kúla spá spádómur
+🙆	allt í lagi
+🏈	amerískur fótbolti bolti íþrótt ruðningur
+🥿	ballettskór inniskór lágbotna skór
+🦿	aðgengi gervilimur vélfótleggur
+💆	andlitsnudd nudd snyrtistofa
+🫯	átök ósætti rifrildi ryskingar stimpingar
+🫰	ást dýr hendi með vísifingur og þumal í kross hjarta peningar smella
+🥯	bakarí beygla smurostur
+🦜	fugl páfagaukur sjóræningi tal
+👨‍🌾	bóndi garðyrkjumaður karl karlkyns
+👖	buxur gallabuxur klæðnaður
+🦕	finngálkn graseðla þórseðla þórseðlubróðir
+🚯	bannað að fleygja rusli ekkert rusl ekki henda
+🩱	sundbolur sundföt
+➕	+ merki plús plúsmerki stærðfræði
+😡	andlit fýlulegt rautt reiðiandlit reiði
+🥋	bardagabúningur bardagaíþrótt bardagi íþrótt júdó
+🐣	fuglsungi hænuungi í eggi kjúklingur ungi
+👑	klæðnaður kóróna
+🏆	bikar verðlaun verðlaunabikar
+🦔	broddar broddgöltur broddóttur
+✋	lófi upprétt hönd
+🔪	eldhúshnífur hnífur
+🪔	diya diya-lampi lampi olía olíulampi
+🐏	hrútur kind stjörnumerki
+🟣	fjólublár hringur
+🥦	brokkólí garðakál
+👜	handtaska klæðnaður taska
+🍎	ávöxtur epli rautt
+🍜	gufusoðnar núðlur núðluskál skál veitingastaður
+🐓	fugl hani
+🪑	setjast sitja stóll
+🧠	gáfur heili
+📘	blá bók
+🛬	flugvél í lendingu komur lendir
+🍘	hrísgrjón hrísgrjónakex kex
+🦚	fugl páfugl páhæna stoltur sýndarmennska
+🎆	áramót flugeldar hátíð
+🫌	breytast hamskipti lirfa skordýr umbreyting viðkvæmt von
+🤯	splundrað höfuð
+🟩	ferningur grænn
+🈲	„bannað“ á japönsku bannað japanska myndletur
+😈	andlit bros og horn broskarl með
+💗	ást púls spenna stækkandi hjarta taugaspenna
+🔼	hnappur uppvísandi þríhyrningur upp
+🎈	blaðra veisla
+🦀	krabbi stjörnumerki
+🩸	blæðingar blóðdropi blóðgjöf læknisfræði
+📄	síða snýr upp skjal
+🐋	hvalur keikó
+🍌	ávöxtur banani
+🤕	andlit með sárabindi meiddur slasaður
+👡	klæðnaður kvensandali kvenskór sandali
+🏤	evrópskt pósthús póstur
+🏓	bolti borðtennis leikur spaði
+🧁	bakarí bollakaka sætindi
+🌲	sígrænt tré
+🎂	afmæli afmæliskaka kaka veisla
+💋	koss kossafar rómantík varir
+🤔	andlit hugsandi
+⛳	flagg í holu golf golfhola hola
+🧫	baktería gerlaflóra líffræði líffræðingur petrískál tilraunastofa
+🥠	opinberun spádómskaka spádómur vitrun
+👐	hendur lófar opinn lófi opnir
+😃	andlit bros brosandi með opinn munn stórum augum munnur
+👅	andlit líkami tunga
+🤨	andlit með yppta brún efasemdir hissa vantraust
+🎌	fánar í kross hátíð japanskir
+💫	ringlaður sjá stjörnur skrípó tilfinningar
+🤹	boltakast djöggla jöggla juggla
+📠	bréfsími fax samskipti
+🚪	dyr hurð
+🥹	andlit að berjast við tárin dapur gráta reiður stoltur streitast á móti
+🌖	ávalt tungl máni minnkandi meira en hálft
+🙏	bæn spenna greipar spenntar
+🧑‍🎤	skemmtikraftur söngfugl söngvari stjarna t´ónlist
+🪥	baðherbergi bursti hreinlæti hreinn tannbursti tannhirða tennur
+🏄	brimbrettamaður brimbretti íþróttir
+👩‍🔬	efnafræði kona rannsóknir vísindakona vísindamaður
+🤺	bardagaíþrótt íþrótt skylmast skylmingar
+🎠	hestur hringekja hringekjuhestur skemmtun
+🈳	„laust pláss“ á japönsku japanska myndletur tómt
+🔥	eldur logi
+🪿	gæs gás heiðagæs steggur
+🍨	ís kúluís veitingastaður
+🕓	4:00 fjögur klukka klukkan
+🔯	sexhyrnd spá spádómur stjarna
+📉	á niðurleið graf
+🐀	rotta
+👟	íþróttaskór klæðnaður skór strigaskór
+📯	lúður póstlúður póstur
+😅	andlit bros og kaldur sviti brosandi sveitt
+🦛	flóðhestur
+🌛	andlit fyrsta kvartil tungls með andliti máni tungl tunglsigð
+👔	bindi hálsbindi klæðnaður
+🧡	appelsínugult hjarta tilfinningar
+❔	greinarmerki hvítt spurningarmerki merki spurning
+🐺	andlit úlfur
+🪹	hreiðurgerð tómt hreiður
+🤴	ævintýri fólk prins
+🌘	hálfmáni máni minnkandi tungl minna en hálft
+🩺	hjarta hlustunarpípa læknir læknisfræði
+🍣	sushi veitingastaður
+🍢	oden sjávarréttir á teini veitingastaður
+🦐	rækja sjávardýr skelfiskur
+🫺	benda hægri hlutlaust þetta
+🍮	búðingur veitingastaður
+🥐	brauð croissant franskt horn smjördeigshorn snúður
+🔖	bókamerki merki
+🥟	dumpling empanada gyosa pierogi soðkaka
+🎭	leikhúsgrímur leiklist list skemmtun sviðslistir
+🈚	„ókeypis“ á japönsku japanska myndletur ókeypis
+🚋	farartæki sporvagn vagn
+🚦	ljós lóðrétt umferðarljós umferð
+😒	andlit ekki skemmt engin gleði fýla
+🔹	blár lítill tígull
+🪴	gagnslaus hús næra planta pottaplanta vaxa
+🧰	kista tól verkfærakassi verkfæri viðgerðir
+🦃	fugl kalkúnn
+🍄	sveppur
+🟤	brúnn hringur
+🫱	hægra megin hægri hendi
+🧟	hinir gangandi dauðu ódauðlegu uppvakningur
+👨‍🎤	karl skemmtikraftur söngvari tónlist
+🫩	andlit með poka undir augum örþreyttur syfjaður úrvinda þreyttur
+🤗	andlit faðmandi faðmar faðmlag
+⏩	hægri ör spóla áfram tvöföld til
+🕜	1:30 eitt þrjátíu hálftvö klukka
+📈	á uppleið graf
+🦆	fugl önd
+🤼	glíma íþrótt
+🎶	nóta nótur tónlist
+🦁	andlit ljón ljónið stjörnumerki
+🤏	klípandi hönd lítið magn
+🪄	galdrakarl galdrar galdur norn töfrasproti
+🆖	ng ng-skilti skilti
+😙	andlit koss og bros kyssa brosa kyssandi brosandi
+🙍	fýlusvipur manneskja með ygglibrún
+🚂	eimreið gufulest lest
+👰	brúðarslör brúðkaup brúður með slör fólk
+🚭	bannað að reykja reykingar bannaðar
+😨	andlit hræðsla hrætt ótti
+🎼	g-lykill nótnaskrif tónlist
+🤦	andlit hönd fyrir lófi
+📞	samskipti sími símtól
+🚎	rafknúinn strætisvagn rafmagnsstrætó strætó trissustrætó
+🔢	setja inn tölustafi tölustafir
+🪣	fata ílát skjóla
+😾	fýla fýluköttur köttur í fýlu
+🥢	matprjónar
+🏑	bolti grashokkí hokkí kylfa leikur völlur
+🎢	rússíbani skemmtigarður skemmtun
+🐭	höfuð mús músarhöfuð
+😧	andlit angist angistarfullt kvalir
+🐷	höfuð svín svínshöfuð
+🫣	andlit með auga að kíkja heillaður stara
+🍈	ávöxtur melóna
+🤛	hægri hnefi hönd krepptur
+🙋	gleði önnur hönd upprétt
+🚲	hjól hjólreiðar reiðhjól
+🍑	ávöxtur ferskja
+🌍	afríka evrópa hnöttur sem sýnir evrópu-afríku jörðin
+👬	karl karlar sem leiðast par stjörnumerki tvíburar
+🐗	svín villisvín
+🤎	brúnt hjarta
+🚃	járnbrautarlest lestarvagn rafmagnslest
+🎤	hljóðnemi karaoke karókí míkrófónn skemmtun
+👿	andlit djöfull púki skratti
+📡	diskur gervihnattadiskur gervihnattaloftnet loftnet
+🫨	andlit hristingur jarðskjálfti sjokk skjálfandi skjálfti
+🤜	hnefi hönd krepptur vinstri
+🌰	hneta kastanía
+🐨	höfuð kóalabjörn
+📚	bækur bók
+🌿	krydd kryddjurt lauf
+♍	meyjan stjörnumerki
+📂	opin mappa skráamappa
+🔠	hástafir latneskir latneskt letur setja inn latneska hástafi
+🔗	tenglamerki tenglar tveir hlekkir
+🔱	akkeri skip tákn tól þríforkur
+🥒	grænmeti gúrka matur
+⏪	ör spóla til baka tvöföld vinstri
+🥁	hljóðfæri tónlist tromma trommuleikari trommusett
+📅	dagatal dagsetning
+👨‍🦼	aðgengi hjólastóll maður í vélknúnum hjólastól
+🍚	hrísgrjón soðin
+🐆	hlébarði
+☔	dropi klæðnaður regn regnhlíf með regndropum
+🍼	drekka mjólk peli
+🎳	keila keilukúla keilur leikur
+🪭	blævængur blaka dans feimni heitt kæla
+🍉	ávöxtur melóna vatnsmelóna
+🎄	hátíð jól jólatré tré
+🔲	ferningur hnappur svartur ferningslaga
+🧑‍🌾	bóndi garðyrkjumaður stórbóndi
+🚩	fáni flagg staðsetningarmerki veifa
+🦓	rendur rönd sebrahestur
+🍗	fuglakjöt kjúklingaleggur kjúklingur leggur
+🥮	hátíð haust tunglkaka
+🏪	búð bygging matvörubúð verslun
+🍓	ávöxtur jarðarber
+🤚	hönd lófi upprétt
+📩	ör póstsending póstur á útleið tölvupóstur umsalg umslag með
+📓	dagbók glósubók
+👥	brjóstmynd brjóstmyndir í skugga fólk framan á
+📊	myndrit súlur súlurit
+🗽	frelsisstyttan stytta
+🕒	3:00 klukka klukkan þrjú
+🪋	fellur geimur heimsendir stjarna vígahnöttur
+👓	augu gleraugu klæðnaður
+🚰	drykkjarvatn vatn
+🎽	bolur borði hlaup hlaupabolur íþróttir
+😴	andlit sofandi
+🎦	bíó bíóhús kvikmynd kvikmyndahús skemmtun
+🥏	frisbí frisbídiskur ultimate
+🦡	greifingi hunangsgreifingi rellóttur þjakandi
+🎨	list litapalletta litaspjald málning palletta
+🍖	bein kjöt veitingastaður
+🔍	leita stækkunargler sem vísar til vinstri
+🌹	blóm rós
+👩‍🚀	eldflaug geimfari geimur kona kvenkyns
+🐚	kuðungur
+🎰	leikur spilakassi
+🕺	dansa dansandi karl dansari diskó
+🔡	lágstafir latneskir latneskt letur setja inn latneska lágstafi
+👩‍🦯	aðgengi blind kona með blindrastaf
+🕍	gyðingatrú gyðingur samkunduhús sýnagóga trúarbrögð
+🛁	bað baðkar baðker
+💘	ást hjarta með ör tilfinningar
+🥍	bolti háfleikur kylfa mark
+🧑‍🔧	iðnverkamaður pípulagningarmaður rafvirki vélvirki
+😍	andlit ást augu bros brosandi með hjartalaga
+🆑	cl cl-skilti skilti
+🧃	ferna safaferna
+👒	hattur klæðnaður kvenhattur
+♌	ljón ljónið stjörnumerki
+🌞	andlit sól með andliti
+🍆	eggaldin grænmeti
+😊	andlit bros brosandi og augu
+🫸	bíddu fimma hafna hönd ýtt til hægri stopp ýta
+💲	dalur dollaramerki dollari feitletrað peningar
+🦍	api górilla
+🌈	regn regnbogi veður
+🙂	andlit bros milt
+🧭	áttaviti kompás leiðarlýsing leiðsögn segulmagn
+👞	herraskór karl klæðnaður skór
+🩳	buxur nærbuxur nærföt stuttbuxur sundföt
+🧑‍🚀	eldflaug geimfari
+🕚	11:00 ellefu klukka klukkan
+😵	andlit með svima svimi
+📿	bæn bænaband föt hálsmen perlur trú
+🤓	andlit lúði nörd nördaandlit
+🪀	jójó leikfang
+🏫	bygging skólahús skóli
+🍹	bar drykkur glas suðrænn kokteill veitingastaður
+🕝	2:30 hálfþrjú klukka tvö þrjátíu
+🕠	5:30 fimm þrjátíu hálfsex klukka
+📟	samskipti símboði
+🎵	nóta tónlist
+👙	bikíní klæðnaður sundföt
+🩲	nærbuxur nærföt sundbolur sundföt
+🤑	andlit með peningaseðil í munninum munnur peningaseðill
+🚛	flutningabíll trukkur vörubifreið vörubíll
+🥘	matur panna pönnuréttur
+😘	andlit kasta kossi koss kveðjukoss kyssa
+🛺	túk-túk vélknúinn léttvagn
+👱	fólk ljóshærð manneskja ljóst hár
+🛂	eftirlit vegabréf vegabréfaeftirlit
+🪓	handöxi höggva kljúfa öxi timbur viður
+🫝	gerjun gúrka saltlögur súr
+🔞	18 bannað undir ára enginn
+🤝	handaband heilsa heilsast samkomulag
+📒	dagbók færslubók
+🚥	lárétt umferðarljós ljós umferð
+🔊	hátalari hátt hávær hljóðstyrkur
+🐴	hestshöfuð hestur höfuð
+😕	andlit ringlað ringlun ruglingslegt
+🫑	grænmeti paprika
+🫄	barnshafandi manneskja fullur kviður uppblásinn
+🪐	fálátur pláneta með hringi satúrnus
+🏅	íþróttamedalía medalía
+🏯	bygging japanskur kastali
+🌊	alda bylgja
+💿	blu-ray diskur geisladiskur tölva
+🪦	grafsteinn gröf kirkjugarður legsteinn leiði
+⚾	bolti hafnabolti
+👈	benda til vinstri fingur bendir hönd vísifingur
+🦒	blettir doppur gíraffi
+🌗	hálfmáni kvartil máni síðasta tungl
+🚸	börn á ferð
+🤳	myndavél sjálfa
+🏀	bolti íþróttir karfa körfubolti
+🚏	langferðabíll rúta strætisvagn strætó
+🥷	bardagamaður falinn laumulegur ninja
+⚽	bolti fótbolti
+🚖	leigubíll á móti nálgast
+👂	eyra eyru heyrn hljóð líkami
+👝	budda klæðnaður smáveski
+📵	bannað að hringja enginn farsími sími
+🐳	blásandi hvalur
+😯	andlit undrandi undrun
+🍫	súkkulaði súkkulaðiplata veitingastaður
+🌋	eldfjall eldgos
+🧝	galdrar huldumaður töfrandi töfrar yfirnáttúrleiki
+💛	gult hjarta tilfinningar
+👨‍💻	forritari hönnuður hugbúnaður karl karlkyns
+🐃	buffall vatn vatnabuffall
+🧆	falafel kjötbollur kjúklingabaunir
+💎	demantur gimsteinn rómantík
+🧑‍🚒	brunabíll brunaliðsmaður slökkviliðsmaður
+📷	myndavél myndband
+⛪	bygging kirkja kross trú
+🚵	fjall fjallahjól hjól hjólreiðar
+🐟	fiskar fiskur stjörnumerki
+🤥	andlit gosi ljúga lygari lygi
+😛	andlit að ulla tunga út
+🦵	fótleggur sparka útlimur
+🪒	beittur raka sig rakhnífur
+💈	rakarastofa rakari
+📹	lítil kvikmyndatökuvél myndavél vídeó
+🛵	farartæki hjól mótorhjól skellinaðra vespa
+💸	fljúgandi peningar peningaseðill með vængi seðill
+🔦	ljós vasaljós
+🧑‍🧑‍🧒‍🧒	barn fjölskylda fullorðinn
+🚳	hjól bönnuð hjólreiðar bannaðar
+🪵	timbur tré trjábolur viður
+😂	andlit tárast af gleði gleðitár
+🐦	fugl
+🔩	bolti og ró verkfæri
+🤠	hattur kúreki
+🔉	hátalari í gangi hljóðstyrkur meðal
+💇	fegurð hárgreiðslustofa klipping snyrtistofa
+🧓	eldri fullorðinn gamall kynhlutlaust
+👼	ævintýri andlit barnsengill engill
+🪠	drullusokkur klósett pípulagningar salerni
+👨‍💼	karl karlkyns skrifstofustarfsmaður skrifstofa stjórnandi viðskipti
+🔃	endurhlaða endurhleðslutákn lóðréttar réttsælisörvar örvar
+🦦	gamansamur otur veiði
+🗻	fjall fuji fuji-fjall
+🐖	grís svín
+🧲	aðdráttarafl segull segulmagn skeifa
+🚻	klósett salernisaðstaða snyrting wc
+💤	hrotur skrípó sofandi zzz þreyta
+🔌	innstunga rafmagn
+🏺	drykkur eldamennska krukka leirkrukka vatnsberi
+📻	myndband útvarp
+🧑‍🦯	aðgengi manneskja með blindrastaf hvítan staf sjónlaus
+🪗	harmonika harmonikuleikari konsertína nikka
+🍱	bento-box nesti nestisbox
+🔘	hnappur valhnappur
+🕙	10:00 klukka klukkan tíu
+👻	ævintýri andlit draugur
+🧉	drykkur mate
+🫀	hjartavöðvi hjartsláttur líffæri miðja púls
+🦭	sæljón selur
+👨‍🔬	efnafræði karl rannsóknir vísindamaður
+🐫	hnúður kameldýr með tvo hnúða
+♉	naut nautið stjörnumerki
+👨‍🍳	elda karl karlkyns kokkur matreiðsla
+🚢	bátur skip
+🥽	hlífðargleraugu logsuða rafsuða sund
+🚟	lest loftlest
+🔶	appelsínugulur stór tígull
+🪡	nál sauma saumaspor saumnál sníða spor útsaumur
+⛺	tjald tjaldstæði útilega
+🙁	andlit með litla skeifu skeifa
+👾	ævintýri andlit geimskip geimveruskrímsli skrímsli
+💷	peningar peningaseðill pund pundaseðill
+🏉	bolti íþrótt rúgbíbolti
+❓	greinarmerki merki rautt spurningarmerki spurning
+👩‍🎨	kona listakona listamaður litaspjald málari
+🐇	kanína
+🌾	ax hrísgrjón hrísgrjónaax hrísgrjónaplanta
+🛷	sleði snjór
+🌀	fellibylur hvirfilbylur hvirfilvindur snýst stormsveipur
+🦴	bein beinagrind
+👨	fólk karl maður
+💥	árekstrartákn árekstur skrípó tilfinningar
+🗿	andlit moyai moyai-stytta stytta
+⛵	bátur seglskúta skúta smábátahöfn
+🫵	benda vísifingur bendir á áhorfandann þú
+🏰	bygging evrópskur kastali
+🐞	bjalla maríubjalla maríuhæna skordýr
+🚆	járnbraut lest
+🐕‍🦺	aðgengi aðstoð hundur þjónusta þjónustuhundur
+🐮	höfuð kýr kýrhöfuð
+🏮	bar izakaya lampi rauður veitingastaður
+😥	andlit hjúkk léttir
+🧤	hanskar hendi
+🐰	höfuð kanína kanínuhöfuð
+🏨	bygging hótel
+🍕	ostur pítsa pítsusneið sneið
+📗	bók græn
+🎇	áramót blys hátíð stjörnuljós
+🪳	kakkalakki plága skordýr
+⚡	háspenna lífshætta rafmagn spenna
+⏬	niður niðurör ör tvöföld
+🍻	bar bjór bjórglös bjórkönnur drykkur skál
+🚺	klósett kona kvennaklósett salerni snyrting
+👚	föt klæðnaður kona kvenföt
+🧳	farangur ferðalag pakka niður taska
+♐	bogaskytta bogmaðurinn stjörnumerki
+🚤	bátur hraðbátur spíttbátur
+📝	minnisbók minnismiði samskipti
+🪨	gegnheill grjót hnullungur steinn þungur
+🍅	grænmeti tómatur
+📁	mappa skrá skráamappa
+🎁	gjöf innpökkuð veisla
+🧑	fullorðinn kynhlutlaust manneskja
+🚒	brunabíll slökkvibíll slökkvilið slökkviliðsbíll
+👷	byggingaverkamaður fólk
+🔤	abc enska latneska stafrófið setja inn
+🚞	fjall fjallakláfur fjallalest kláfur lest
+🌐	breiddargráður hnöttur sem sýnir lengdarbauga lengdargráður
+😸	glott glottandi köttur með
+🫡	andlit að heilsa herlið hylla í lagi já sólríkt
+🟰	jöfnuður stærðfræði þungt jafnaðarmerki
+🚬	reykingar sígaretta
+🆒	kúl skilti svalt
+🍺	bar bjór bjórglas glas veitingastaður
+🪏	grafa hola malarskófla moka skófla
+🐂	naut stjörnumerki uxi
+🤙	hönd hringdu hringitákn hringja
+♓	fiskarnir stjörnumerki
+👵	eldri kona fólk gömul
+🐧	fugl mörgæs
+❎	× ferningur krosshnappur merki
+🟫	brúnn ferningur
+🥩	kjötsneið kótiletta lambakótiletta steik svínakótiletta
+🦾	aðgengi gervilimur vélhandleggur
+🎣	fiskur stangveiði veiðistöng
+😌	andlit sem er létt léttir
+🫷	bíddu fimma hafna hönd ýtt til vinstri stopp ýta
+🐝	býfluga hunangsfluga
+🌻	blóm sól sólblóm
+✨	glit neistar stjörnur
+🚽	klósett salerni
+🥑	avókadó grænmeti matur
+👛	budda klæðnaður peningabudda smápeningar
+🌮	mexíkóskt takó
+📋	klemmuspjald klippiborð muna
+🦊	andlit refur
+⚫	hringur rúmfræði svartur
+♒	stjörnumerki vatnsberinn
+🐈‍⬛	köttur óheppni svartur
+🩵	blágrænn hjarta ljósblár ljósblátt sægrænn
+📤	bréf pósthólf póstur sendur sent úthólf
+🐐	geit stjörnumerki
+🧂	krydd salt saltstaukur
+🎯	beint í mark leikur skotfimi skotmark
+🐻	andlit björn
+🔨	hamar verkfæri
+🚣	árabátur bátur
+👕	bolur klæðnaður stuttermabolur
+🐼	andlit panda
+👃	andlit líkami nef
+📭	flagg opinn póstkassi með flaggið niðri niðurdregnum fána póstur
+🚁	þyrla
+🛻	pallbíll pallur trukkur
+🕤	9:30 hálftíu klukka níu þrjátíu
+🫅	kóngafólk konunglegt manneskja með kórónu tiginn þjóðhöfðingi
+🧑‍🦽	aðgengi hjólastóll manneskja í hjólastól
+🌱	græðlingur planta
+😪	andlit syfja syfjað
+🧒	barn kynhlutlaust ungt
+🦤	dúdúfugl márítíus stór útdauði
+👢	klæðnaður kvenskór kvenstígvél stígvél
+📬	flagg opinn póstkassi með flaggið uppi reistum fána póstur
+🚼	barn um borð barnamerki bleyjuskipti skiptiborð
+🚑	sjúkrabifreið sjúkrabíll
+😞	andlit vonbrigðaandlit vonbrigði
+🍸	bar hanastél kokteilglas kokteill veitingastaður
+🥵	heitt með hita rauður í framan sólstingur sviti
+🫔	mexíkóskt mexíkóskur matur tamale vefja
+👹	ævintýri andlit oni tröll vera
+😬	andlit með grettu gretta
+🤶	amma jól jólamamma mamma
+🎓	hátíð húfa stúdentshúfa útskrift útskriftarhúfa
+👩‍🎓	kona kvenkyns námsmaður nemandi útskrift
+🛖	færanlegt hús kofi kringlótt
+🎬	klappspjald klapptré kvikmynd skemmtun
+🤘	fingur glennt hönd líkami rokkmerki
+🕣	8:30 átta þrjátíu hálfníu klukka
+🤫	andlit að segja uss suss þögn
+🔭	sjónauki verkfæri vísindi
+🌸	blóm kirsuber kirsuberjablóm
+🥻	föt kjóll klæðnaður sari
+🎷	hljóðfæri saxófónn tónlist
+😺	bros brosandi köttur með opinn munn hlæjandi munnur
+😫	andlit þreyta þreytt
+😀	andlit glott glottandi
+💭	blaðra hugsa hugsanablaðra skrípó
+🦼	aðgengi vélknúinn hjólastóll
+👩‍💼	kona kvenkyns skrifstofustarfsmaður skrifstofa stjórnandi viðskipti
+♿	aðgengi fatlaðir hjólastólaaðgengi hjólastóll
+🥄	hnífapör skeið
+🧽	drekkur í sig gljúpur svampur þrif
+💵	dollaraseðill dollari gjaldmiðill peningaseðill peningur seðill
+🐹	andlit gæludýr hamstur
+💾	disketta diskur
+🌔	ávalt tungl máni vaxandi meira en hálft
+🥫	dós dósamatur
+💴	peningar peningaseðill seðill yen yenaseðill
+🦧	api órangútan
+🍶	bar bolli drykkur flaska sake
+⚪	hringur hvítur rúmfræði
+🆙	skilti up
+😎	bjart brosandi andlit með sólgleraugu sólgleraugum sól svalt
+📐	reglustika þríhyrnd þríhyrningur
+🫧	hreinsa loftbólur ropi sápa undir vatni
+💕	ást elskendur tilfinningar tvö hjörtu
+😗	andlit koss kyssa kyssandi
+🫤	andlit með skáhallan munn efins óspennandi óviss vonsvikinn
+💬	blaðra skrípó tala talblaðra
+🛘	aurskriða fjall grjót grjóthrun hamfarir jarðskjálfti
+🚚	flutningabifreið flutningabíll sendibíll
+🔚	endaör til vinstri endir ör
+💺	sæti stóll
+🎉	hátíð knall veisla
+🤲	lófar saman spenntar greipar
+😔	andlit í þungum þönkum íbyggið
+👋	hönd veifar veifa
+🎊	confetti pappírssnifsi veisla veisluskraut
+💼	skjalataska taska
+🥬	bok choi grænkál hvítkál kál
+🈸	„umsókn“ á japönsku beiðni japanska myndletur
+🚱	ekki drekka ódrekkandi óhæft drykkjarvatn vatn
+🐄	kú kýr
+⬜	ferningur rúmfræði stór hvítur
+😝	andlit að ulla og pírð augu auga hryllingur oj tunga
+😓	andlit með köldum svita kaldur sviti
+🩼	fötlun göngustafur hækja hreyfanleikaaðstoð meiddur prik
+🙀	andlit hissa hnugginn köttur óvænt undrandi
+🧯	eldur kæfa slökkva slökkvitæki
+🦖	grameðla
+🧑‍🧒	barn fjölskylda fullorðinn
+🐒	api
+🥴	hlykkjóttur munnur ójöfn augu ölvun ringlað andlit svima víma
+🧅	bragðefni laukur
+🍙	hrísgrjón hrísgrjónabolla onigiri
+👨‍🚒	brunabíll karl slökkvilið slökkviliðsmaður
+🪈	blokkflauta flauta hljóðpípa tónlist tréblásturshljóðfæri
+🏏	bolti krikket kylfa leikur
+👴	eldri maður fólk gamall
+🦝	forvitinn slóttugur þvottabjörn
+🎲	leikur spilateningur teningur
+🚡	kláfferja á línu kláfur loftferja
+😑	andlit engin svipbrigði svipbrigðalaust
+🥶	blár í framan frostbit grýlukerti ískalt kalt
+🚿	sturta vatn
+🖕	fingur hönd langatöng líkami
+🫆	auðkenni fingrafar öryggi réttarrannsókn
+🧑‍🍳	kokkur matreiðslumaður
+🫠	andlit að bráðna bræða hverfa leysa upp vökvi
+🐑	ær fé kind sauðfé
+🕐	1:00 eitt klukka klukkan
+🔑	aðgangsorð lykill lykilorð
+🚕	leigubifreið leigubíll
+🎹	hljóðfæri hljómborð píanó tónlist
+🦮	aðgengi leiðsögn leiðsöguhundur sjónlaus
+📃	síða skjal uppábrett
+👨‍🔧	karl með skiptilykil verkfæri viðgerð viðhald
+😄	andlit bros og opinn munnur hlæja hlæjandi
+🥲	ánægja bros brosandi andlit með tár snortið stolt þakklæti
+🫥	fela hverfa innhverfur ósýnilegur punktalínuandlit þunglyndur
+🥤	glas og rör gos safi
+🥃	áfengi drykkur glas viskí viskíglas
+🗼	tokyo tokyo-turninn turn
+🙄	andlit augu ranghvolfir augum
+🦥	hægur latur letidýr
+🧞	andi djinn
+🤪	auga lítið stórt sturlað andlit
+👩‍🍳	elda kokkur kona kvenkyns matreiðsla
+🫘	baunabelgur baunir matur nýra
+🥇	fyrsta gull gullverðlaun sæti verðlaun
+🐘	fíll
+🔻	niðurvísandi rauður þríhyrningur niður
+🎡	parísarhjól skemmtigarður skemmtun
+🕢	7:30 hálfátta klukka sjö þrjátíu
+💪	skrípó spenna vöðva spenntir vöðvar upphandleggsvöðvar
+🎒	skólataska skóli taska
+😢	andlit depurð grátandi grátur tár
+👨‍🦯	aðgengi blindur maður með blindrastaf
+🫪	áfall áhyggjur kvíði starandi viðkvæmt þrútið
+🔕	bjalla ekkert hljóð engin yfirstrikuð
+📢	almannavarnahátalari almannavarnir gjallarhorn samskipti
+🦟	hiti malaría moskító skordýr veiki veira
+🎅	hátíð jól jólasveinn
+❕	greinarmerki hvítt upphrópunarmerki merki upphrópun útlínur
+🤽	manneskja í vatnapóló póló vatn
+🗾	japan kort af
+🔆	birta bjart mikil tákn um mikla birtu
+🤣	hlátur veltast veltist um af hlátri
+🦅	fugl örn
+🧶	garn hekl hespa hnykill
+🍇	ávöxtur vínber
+🌯	búrrító mexíkóskt
+🌎	ameríka hnöttur sem sýnir ameríku jörðin n- og s-ameríka
+🀄	dreki mahjong mahjong-tafla rauður
+🦣	loðfíll loðinn mammútur stór tennur útdauði
+🥝	ávöxtur kíví matur
+😻	andlit ást ástarköttur brosandi köttur og hjartalaga augu
+🎸	gítar hljóðfæri tónlist
+⏫	ör tvöföld uppör upp
+🏩	ástarhótel bygging hótel
+🥓	beikon kjöt matur
+➗	÷ deiling deilingarmerki merki stærðfræði
+🐦‍🔥	eldfugl endurfæðing endurholdgun fantasía fönix
+🔁	endurtaka örvar réttsælis
+👪	barn faðir fjölskylda fólk móðir
+🤍	hjarta hvítt
+🪃	ástralía búmerang endurkast endurvarp
+🔧	skiptilykill verkfæri
+🐶	gæludýr höfuð hundshöfuð hundur
+🦌	dýr hjartardýr hjörtur hreindýr
+🎋	borði fagnaður japanskt tanabata-tré tré
+🕌	íslam moska múslimi trúarbrögð
+📔	glósubók með skrautkápu kápa skreytt
+🕗	8:00 átta klukka klukkan
+🐲	drekahöfuð dreki höfuð
+👊	hnefi hönd krepptur kýla samankrepptur
+🫙	bragðbætir geyma ílát krukka sósa tómt
+🚇	farartæki neðanjarðarlest
+🧏	aðgengi eyra heyra heyrnarlaus
+🤐	andlit með rennilás fyrir munninum munnur
+👩	fólk kona
+🍡	dango mochi soðkökur á teini veitingastaður
+📧	bréf póstur samskipti tölvubréf tölvupóstur
+🛜	internet net tölva þráðlaust
+🐊	krókódíll
+📌	pinni teiknibóla
+🕕	6:00 klukka klukkan sex
+⛲	brunnur gosbrunnur
+🔫	byssa skammbyssa
+🍐	ávöxtur pera
+⚓	akkeri skip tól
+🪆	babúskur dúkkur rússland
+📦	böggull kassi pakki
+🧧	gjöf lai see lukka peningar rautt umslag
+🪽	engill fljúga flug fugl goðafræði vængur
+🎪	sirkus sirkustjald skemmtun tjald
+😏	andlit glott sjálfsánægt
+🛄	farangur ferðataska töskur
+♑	steingeitin stjörnumerki
+🧑‍💼	arkítekt hvítflibbi skrifstofustarfsmaður viðskipti yfirmaður
+🐁	mús
+🐌	snigill
+👩‍🌾	bóndi garðyrkjumaður kona kvenkyns
+🕑	2:00 klukka klukkan tvö
+🎀	borði slaufa veisla
+📪	flagg lokaður póstkassi með niðurdregnum fána flaggið niðri póstur
+🎮	leikjatölva leikur stýripinni tölvuleikur
+🔴	hringur rauður rúmfræði stór
+🦞	bisque humar klær matarmikil súpa sjávarfang
+🛐	tilbeiðsla tilbeiðslustaður trúarbrögð
+🛹	bretti hjólabretti
+👩‍🏭	iðnaður kona kvenkyns verksmiðjustarfsmaður verkfæri verksmiðja
+🙅	bannað ekki gott hendur í kross
+🏧	banki hraðbanki
+🧢	derhúfa hafnaboltahúfa
+🫎	dýr elgur horn spendýr
+💁	aðstoð fólk hjálp upplýsingaborð upplýsingar
+🈶	„ekki ókeypis“ á japönsku ekki ókeypis japanska myndletur
+🌺	blóm havaírós
+🤬	andlit með tákn fyrir munni blóta reiði
+🤢	andlit gubba gubbukall ógleði
+💃	dans dansandi kona fólk
+🦋	dýr fiðrildi skordýr
+🐥	framhlið hænuunga fuglsungi kjúklingur ungi
+🚫	bannað að leggja
+💞	ást hjarta snúningshjörtu
+🥖	brauð fransbrauð franskt matur
+🉑	„viðunandi“ á japönsku japanska myndletur samþykkja
+🚓	lögregla lögreglubifreið lögreglubíll
+🧑‍🔬	eðlisfræðingur efnafræðingur líffræðingur verkfræðingur vísindafræðingur vísindamaður
+🔒	lás lokaður
+🐦‍⬛	fugl hrafn kráka krummi svart svartur
+😐	andlit hlutlaust hlutleysi
+🪘	handtromma hrynjandi kónga taktur tromma
+🎩	hattur pípuhattur skemmtun
+👩‍🎤	kona skemmtikraftur söngkona tónlist
+🦄	andlit einhyrningur
+🐠	fiskur hitabelti hitabeltisfiskur
+🥥	kókoshneta pálmatré pina colada
+🧣	háls trefill
+🎿	íþróttir skíðaskór skíði og
+🌆	borg í rökkurró um kvöld borgarlandslag sólarlag
+🧐	andlit með einglyrni gamaldags teprulegur
+😭	andlit grátandi grátur hágrátandi sorg tár
+😰	andlit kaldur sviti sveitt
+💣	skrípó sprengja tilfinningar
+🐪	drómedari kryppa úlfaldi
+👨‍🎓	karl karlkyns námsmaður nemandi útskrift
+👇	bakhönd bendir niður benda fingur hönd
+🥉	brons bronsverðlaun sæti verðlaun þriðja
+🚅	háhraðalest hraðlest lest
+🥳	fagna flauta hattur partí partíandlit
+👳	fólk maður með túrban
+🎧	heyrnartól skemmtun
+📨	bréf móttekið póstur á innleið tölvupóstur umslag
+⭐	gul stjarna
+🫃	barnshafandi maður fullur kviður uppblásinn
+🌌	geimurinn vetrarbrautin
+🧖	eimbað einstaklingur í gufubaði gufubað
+🚠	fjall fjallakláfur kláfferja í fjalli kláfur
+🪙	fjársjóður gull málmur mynt peningur silfur
+🌵	kaktus planta
+😲	andlit stórundrandi undrandi undrun
+🙃	á hvolfi andlit
+🚶	ganga gönguferð labba vegfarandi
+👤	brjóstmynd í skugga fólk framan á
+🛶	bátur farartæki kanó
+🌓	fyrsta kvartil tungls máni tungl vaxandi hálfmáni
+🌒	mánasigð máni tungl vaxandi minna en hálft
+👽	ævintýri andlit geimskip geimvera skrímsli
+🕡	6:30 hálfsjö klukka sex þrjátíu
+🐡	blöðrufiskur fiskur
+🛃	tollhlið tollur
+🥛	drykkur glas mjólk mjólkurglas
+🛟	bjargvættur björgun björgunarbúnaður björgunarhringur flot öryggi
+🫚	engifer engiferrót kryddjurt rót
+🍋	ávöxtur sítróna sítrusávöxtur
+🪶	fjaðraskraut fjöður flug fugl létt
+🫹	benda hlutlaust vinstri þetta
+👲	gua pi mao hattur maður með kínverska húfu kínverskan hatt
+🤰	kona ófrísk ólétt
+🧹	kústur norn sópa þrif
+💑	fólk hjarta par með rómantík
+⛅	ský sól bakvið og
+🩶	blágrár grátt hjarta silfur
+🧨	dínamít flugeldar púðurkerling sprengiefni
+🏊	íþrótt sund sundmaður synda
+🕟	4:30 fjögur þrjátíu hálffimm klukka
+🩰	ballet balletskór dans
+📀	blu-ray diskur dvd geisladiskur mynddiskur tölva
+🏃	hlaup hlaupari maraþon
+🧜	hafmær hafmeyja marbendill sæbúi
+🔽	hnappur niðurvísandi þríhyrningur niður
+💻	fartölva tölva
+🧋	kúlur kúlute mjólk perlur te
+🫏	asni bjáni dýr múlasni spendýr
+🪟	ferskt loft gegnsætt gluggi opna rammi útsýni
+🐢	skjaldbaka
+😤	andlit ég vann sigur sigursvipur
+👨‍🚀	eldflaug geimfari geimur karl karlkyns
+👩‍💻	forritari hönnuður hugbúnaður kona kvenkyns
+🦠	amaba baktería örvera veira vírus
+🥺	biðjandi andlit grátbiðja hvolpaaugu miskunn
+🤮	æla ælandi andlit veikindi
+❗	greinarmerki merki rautt upphrópunarmerki upphrópun
+🪼	bruni hryggleysingi marglytta meiða sjávarlíf stinga
+🎺	hljóðfæri tónlist trompet
+🟥	ferningur rauður
+😶	andlit án munns enginn munnur
+🧬	dna erfðaefni gen líf líffræðingur þróun
+😵‍💫	andlit með gormaugu dáleiddur gormur hægan svimar vandræði
+📸	flass myndavél með flassi myndband
+👩‍🔧	kona með skiptilykil verkfæri viðgerð viðhald
+💧	dropi skrípó smádropi sviti
+🪂	fallhlíf fallhlífarsigling fallhlífarstökk svifdrekaflug
+🎃	hátíð hrekkjavaka hrekkjavökugrasker
+🫟	blettur holi klessa málning sletta
+💖	æsingur ást glitrandi hjarta tilfinningar
+💜	fjólublátt hjarta tilfinningar
+🚀	eldflaug farartæki geimur
+🎑	hátíð tungl tunglskoðun tunglskoðunarhátíð
+🍦	ís úr vél rjómaís veitingastaður
+🥀	blóm rós sölnað
+😣	andlit erfiðleikar klúður
+📰	blað dagblað fréttir
+🥊	box boxhanski hanski íþrótt
+🧑‍🏫	kennari leiðbeinandi prófessor
+🔺	rauður þríhyrningur upp uppvísandi
+📺	myndband sjónvarp
+🦬	buffall evrópuvísundur hjörð vísundur
+👸	ævintýri fólk prinsessa
+😋	andlit að njóta matar góður matur
+👗	föt kjóll klæðnaður
+🦎	eðla skriðdýr
+🫳	bægja frá hendi með lófa niður sleppa stugga við
+🥎	bolti hanski mjúkbolti undirhandarkast
+💉	læknir lyf nál sprauta
+🪧	kröfuganga mótmæli skilti veggspjald
+🌃	næturhiminn nótt stjörnuhiminn stjörnur
+📕	bók lokuð
+😇	andlit bros og geislabaugur brosandi með geislabaug
+🍃	lauf í vindi laufblað vindur
+🫒	matur ólífa ólífur
+🔜	bráðum með vinstri ör bráðum-merki bráðum-ör
+🧑‍🍼	barn brjóstagjöf gjöf manneskja að gefa barni
+🚍	strætó á móti nálgast
+🧄	bragðbætir hvítlaukur
+👯	fólk kanínueyru kona stelpa
+🪤	gildra músagildra veiði
+🥸	andlit dulargervi gleraugu nef óþekkjanlegt
+🥅	fótbolti íþrótt mark net
+🍪	smákaka súkkulaðibitakaka veitingastaður
+🔎	leita stækkunargler sem vísar til hægri
+🩴	flipflops ól sandalar sandali með strandsandalar zori
+💢	reiði reiðitákn reiður skrípó tilfinningar
+🥙	kebab kebap matur rúlla
+🐈	gæludýr köttur
+📥	box bréf innhólf móttekið móttekinn póstur
+🚮	merki rusl í ruslatunnu ruslafata
+🟨	ferningur gulur
+🥼	læknasloppur læknir tilraun vísindamaður
+🧱	leir múrhúð múrsteinar múrsteinn vegglím veggur
+🧈	mjólkurvara smjör
+💓	ást hjarta hjartsláttur sláttur tilfinningar
+🎏	fiskveifur hátíð veifur
+♈	hrútur hrúturinn stjörnumerki
+🛌	hótel manneskja í rúmi sofa
+🦇	dýr leðurblaka vampíra
+🚐	rúta smárúta
+🐬	höfrungur
+🐅	tígrisdýr
+🌉	brú um nótt
+🤌	fingur handahreyfing kaldhæðni klípa klípandi yfirheyrsla
+🛀	bað baðkar
+👶	fólk ungbarn
+🍁	hlynslauf hlynur lauf laufblað
+🚜	dráttarvél traktor
+💠	blóm með punkti sætt tígull tígullaga tilfinningar
+😚	andlit augu koss kyssandi með lokuð og
+👮	fólk lögregla lögreglumaður lögregluþjónn
+🍥	fiskkaka fiskur veitingastaður
+🧌	ævintýri furðusaga jarðálfur skrímsli
+👠	háhælaður skór klæðnaður
+🧑‍🎄	frú sveinki jól
+👩‍🏫	kennari kona kvenkyns leiðbeinandi skóli
+🌴	pálmatré pálmi tré
+🏭	bygging verksmiðja
+🔷	blár stór tígull
+💡	hugmynd ljós ljósapera rafmagn skrípó
+🪾	blaðlaust tré nakið ólaufgað vetur þurrkur
+🔙	ör til baka vinstri
+🫲	hendi vinstra megin vinstri
+💒	brúðkaup kirkja kirkjubrúðkaup rómantík
+🆔	id id-skilti skilríki skilti
+🧑‍🩰	ballett ballettdansari dansari
+🥪	brauð samloka
+⌛	niðurtalning sandur stundaglas
+🔀	fléttaðar örvar til hægri í kross
+😦	andlit leiði leitt opinn munn munnur
+🍄‍🟫	brúnn sveppur grænmeti matur náttúra
+🦫	bifur bjór stífla
+🥚	egg matur
+🛑	átthyrningur merki stöðvunarskylda stopp
+🎫	aðgöngumiði miði skemmtun
+👺	ævintýri andlit ári púki tröll
+🤷	axlir yppa yppir öxlum
+🦏	dýr nashyrningur
+🍿	popp
+☕	drykkur heitt heitur kaffi rjúkandi te
+📴	farsími sími slökkt á farsíma síma
+👘	kímónó klæðnaður sloppur
+🚈	lest létt léttlest
+🧷	bleyja öryggisnæla pönk sikrisnæla
+🍔	borgari hamborgari veitingastaður
+🔸	appelsínugulur lítill tígull
+🎎	brúðuhátíð hátíð japanskar brúður japanskt
+🧘	maður í lótuspósu
+🥾	bakpokaferðalag fjallganga gönguskór tjaldferðalag
+🦙	alpaka lamadýr ull villt suður-amerískt spendýr
+🆚	gegn skilti versus versus-skilti vs
+🧦	háir sokkar
+🛕	hindú hindúahof hof
+💝	hjarta með slaufu slaufa tilfinningar valentínusardagurinn
+🔂	einu sinni númer 1 örvar réttsælis með tölunni
+🌷	blóm túlípani
+🧑‍🧑‍🧒	barn fjölskylda fullorðinn
+🥰	aðdáun ástfangin ástfanginn brosandi andlit með hjörtum skotinn í
+💍	hringur rómantík
+🕖	7:00 klukka klukkan sjö
+🚷	bannað að ganga vegfarendur bannaðir
+🐾	fótspor loppa loppur
+👨‍🎨	karl karlkyns listamaður litaspjald málari
+🍤	djúpsteikt rækja veitingastaður
+🦢	álft álftarungi fugl ljóti andarunginn svanur
+🔏	blekpenni lás með blekpenna penna persónuvernd
+⛄	snjókall snjókarl snjór
+💀	ævintýri andlit hauskúpa líkami
+🏴	blaktandi svartur fáni
+👍	bending hönd þumall upp
+🧑‍💻	forritari hönnuður hugbúnaður tæknimaður
+🪊	dapurlegt hljóðfæri málmblástur sleði tónlist
+🌭	pulsa pylsa í brauði vínarpylsa
+♎	stjörnumerki vog vogin
+🪇	hljóðfæri hrista hristur skrölt slagverk tónlist
+💂	fólk vakt vörður
+🛸	fljúgandi diskur furðuhlutur
+➰	lykkja
+🎴	blóm blómaspil japanskur leikur spil
+🦪	köfun ostra perla
+🪯	khanda sikh trúarbrögð
+🛅	farangur farangursgeymsla lás skápar
+🉐	„kjarakaup“ á japönsku góð kaup japanska myndletur
+🧑‍🏭	fjöldaframleiðsla iðnaður starfsmaður verksmiðja verksmiðjustarfsmaður
+🔰	byrjandi græn og gul lauf japanskt
+🫍	haf hvalur keikó sjávarspendýr
+♊	stjörnumerki tvíburar tvíburarnir
+🍒	ávöxtur kirsuber
+🦘	ástralía hopp kengúra kengúruungi pokadýr ungi
+🦯	aðgengi blindrastafur blindur sjónlaus
+🧼	bað löður sápa sápudiskur sápustykki þrif
+🧿	heillagripur illt auga nazar perla verndargripur
+🎱	biljarður billjard leikur pool
+🍭	nammi sælgæti sleikibrjóstsykur sleikjó veitingastaður
+🥈	annað sæti silfur silfurverðlaun verðlaun
+🔬	smásjá verkfæri vísindi
+🤞	fingur hendi kross krosslagðir lukka
+🍛	hrísgrjón og karrí veitingastaður
+👌	bending handarmerki í lagi ok ókei
+👆	bakhönd bendir upp benda fingur hönd
+👉	benda til hægri fingur bendir hönd vísifingur
+🎍	áramót blómaskreyting með furu fura hátíð japanskt
+🧔	maður með skegg
+🦶	fótur sparka stappa þramma
+🈺	„opið“ á japönsku japanska myndletur vinna
+🧮	reikningur talnagrind
+🏁	flagg íþróttir kappakstur rásflagg
+🙈	api heldur fyrir augu bannað illska má ekki sjá
+🍠	kartafla sæt steikt steiktar sætar kartöflur
+🕋	íslam kaaba-byggingin múslimi trúarbrögð
+🫓	arepa flatbrauð flatkaka flatkökur lavash nan
+😠	andlit reiðiandlit reitt
+🫶	ást hjartahendur
+🤖	andlit skrímsli vélmenni vélmennisandlit
+◾	ferningur rúmfræði svartur meðalsmár
+🤤	andlit slefa slefandi
+🏹	bogaskytta bogi og ör bogmaður
+💔	ástarsorg brostið hjarta
+🍍	ananas ávöxtur
+🤱	barn brjóst brjóstagjöf
+👨‍🍼	barn brjóstagjöf gjöf karl að gefa barni
+👫	haldast hendur karl og kona sem leiðast maður par

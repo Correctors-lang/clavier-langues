@@ -56,7 +56,7 @@ SPDX-FileCopyrightText = ["Hugging Face", "Unicode, Inc."]
 SPDX-License-Identifier = "ODC-By-1.0 AND Unicode-3.0"
 
 [[annotations]]
-path = ["interface/_names.txt", "interface/emoji.txt"]
+path = ["interface/_names.txt", "interface/emoji.txt", "interface/emoji_af.txt", "interface/emoji_ar.txt", "interface/emoji_bg.txt", "interface/emoji_bn.txt", "interface/emoji_br.txt", "interface/emoji_ca.txt", "interface/emoji_cs.txt", "interface/emoji_da.txt", "interface/emoji_de.txt", "interface/emoji_el.txt", "interface/emoji_es.txt", "interface/emoji_et.txt", "interface/emoji_eu.txt", "interface/emoji_fa.txt", "interface/emoji_fi.txt", "interface/emoji_fil.txt", "interface/emoji_fr.txt", "interface/emoji_ga.txt", "interface/emoji_gd.txt", "interface/emoji_he.txt", "interface/emoji_hi.txt", "interface/emoji_hr.txt", "interface/emoji_hu.txt", "interface/emoji_hy.txt", "interface/emoji_id.txt", "interface/emoji_is.txt", "interface/emoji_it.txt", "interface/emoji_ja.txt", "interface/emoji_ko.txt", "interface/emoji_lt.txt", "interface/emoji_lv.txt", "interface/emoji_mn.txt", "interface/emoji_ms.txt", "interface/emoji_nl.txt", "interface/emoji_no.txt", "interface/emoji_pl.txt", "interface/emoji_pt.txt", "interface/emoji_ro.txt", "interface/emoji_ru.txt", "interface/emoji_sk.txt", "interface/emoji_sl.txt", "interface/emoji_sr.txt", "interface/emoji_sv.txt", "interface/emoji_sw.txt", "interface/emoji_ta.txt", "interface/emoji_th.txt", "interface/emoji_tr.txt", "interface/emoji_uk.txt", "interface/emoji_vi.txt", "interface/emoji_wo.txt", "interface/emoji_yue.txt", "interface/emoji_zh-Hant.txt"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = ["Unicode, Inc."]
 SPDX-License-Identifier = "Unicode-3.0"

@@ -1,0 +1,1261 @@
+# Mots-clés d'emoji en « et » — annotations CLDR, licence Unicode.
+# S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
+# Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
+🆕	new nupp uus
+🧑‍🤝‍🧑	hoiavad käest kinni inimene inimesed käed paar
+◽	geomeetria ruut väiksem valge
+⛽	bensiin diisel kütus tankla tankur
+🔓	avatud lukk tabalukk
+👄	huuled suu
+🍴	hommikusöök kahvel kokkamine lõuna maitsev näljane nuga õhtusöök restoran söögiriistad sööma söömine toit
+🏒	hoki jää kepp litter mäng sport
+💦	higi koomiks märg piisad piisk pritsima pritsimine tilgad tilk töö trenn vesi
+🎐	kell tuul tuulekell
+😼	irooniline kass naeratus nägu viril virilalt naeratav
+😉	flirtima libe nägu õrritama pilgutama pilgutav seksikas silmapilgutus südametemurdja
+📛	märk nimesilt nimi
+🚉	jaam raudtee rong
+💌	armastus armastuskiri kiri romantika süda
+🆘	abi appi nupp sos
+🛙	juhatamine lootus majakas merendus meri navigatsioon signaal valgus valgustumine
+🍯	karu magus meepott mesi purk söök
+😿	kass kurb nägu nutt nuttev pisar
+🫜	aed juurikas juurvili kaalikas naeris peet redis salat söök taimetoit toit
+😳	hämmastunud kuum mida nägu palavus piinlik punastav segaduses segane surnud üllatunud umbusk vau
+🚨	auto politsei politseiauto vilkur pöörlemine sõiduk
+🚌	buss sõiduk
+🌇	hoone ilm loojang päike päikeseloojang
+🔝	nool top üles
+🙊	ahv kaetud suuga keelatud keeld kuri nägu rääkimine
+🐙	elukas kaheksajalg loom ookean
+🕦	11 11:30 30 kell pool kaksteist
+🕞	3 3:30 30 kell neli pool
+🙌	hurraa käed tähistamine ülestõstetud žest
+🚗	auto sõiduk
+🕥	10 10:30 30 kell pool üksteist
+🥱	haigutav haigutus headööd igav mida iganes nägu öö uinak uneaeg uni unine väsinud zzz
+🐎	farm hobune loom ratsutamine võiduajamine
+👩‍🚒	naine tuletõrjeauto tuletõrjuja tuli
+🪉	armastus cupido harf instrument muusika orkester
+🫁	anatoomia hingamine hingetõmme kops kopsud organ sissehingamine väljahingamine
+📲	kõne mobiil nool noolega mobiiltelefon telefon
+💚	armastus emotsioon roheline romantika süda
+📶	antenn levi mobiil signaal telefon
+🫦	ebamugav flirt flirtimine hirm huul huulde hammustav huulepulk murelik mures närviline põnevil seksikas
+🌅	hommik ilm päike päikesetõus
+🌂	ilm riided suletud vihmavari vihm
+🍲	hautis pott söök supp
+🪜	aste redel ronima trepp
+✅	✓ korras linnuke märge nupp tehtud valmis
+📑	järjehoidja järjehoidjad märgis marker
+👣	jalajälg jalajäljed jälg keha
+👀	keha nägu silm silmad
+🤸	aktiivne elevil iluvõimlemine inimene kukerpall rõõmus salto sport
+⭕	o rõngas seest tühi punane ringjoon suur
+😆	avatud haha hahaha irve kissitamine lol naer naeratamine naeratus nägu õnnelik rofl silmad suletud suu
+🔄	nool nooled vastupäeva
+🟢	kera ring roheline
+🧗	alpinism alpinist mägi mägironija ronimine üles
+🌟	helendav sära täht
+🤧	aevastav aevastus gripp haige nägu palavik terviseks
+🔛	märk nool on sees
+🪫	aku elektroonika energia tühi vähe
+⏰	äratus äratuskell kell
+🥕	juurvili porgand söök toit
+➿	silmus topelt topeltsilmus
+🥂	jooma klaasid kõlisev kõlks šampanja tähistama
+🪲	loom mardikas põrnikas putukas
+🩹	meditsiin plaaster
+🟧	nelinurk oranž ruut
+📍	nõel nööpnõel ümara peaga
+😽	kass nägu silm suletud silmadega suudlev suudlus
+🐤	lind loom ornitoloogia tibu
+🤵	inimene pidulik pulm smoking
+🛼	rulluisk rulluisutama sport uisk
+🧩	pusle pusletükk tükk ühendamine
+🛝	liumägi lõbustuspark mängima mänguväljak
+🔇	heli kõlar vaigistatud vaikne
+🏥	arst haigla hoone meditsiin
+🚔	auto eestvaade politsei politseiauto eestvaates sõiduk
+💶	euro pank raha rahatäht valuuta
+🥭	mango puuvili söök troopiline
+🫂	aitäh armastus embus hüvastijätt inimesed kallistus mugavus sõprus tänu tere tervitus
+🔳	geomeetria nupp piirjoon ruut valge ruudukujuline
+💹	graafik jeen kasv tõusev jeenisümboliga turg valuuta
+🧺	korv pesu piknik taluelu
+😖	frustreerunud häiritud kimbatuses kurb nägu närvis segaduses tunded vastik vihane
+🔐	lukk lukus suletud tabalukk võti
+🈯	reserveeritud ideogramm jaapani keel nupp
+🏦	hoone pank
+🍧	jää jäätis magus magustoit mahlajää restoran
+🧍	inimene seisev seismine
+🟠	kera oranž ring
+⛔	keelatud liiklus sisenemine
+✊	käsi keha löök rusikas ülestõstetud
+🌜	ilm kosmos kuu nägu näoga kahanev poolkuu
+😹	kass nägu pisar rõõm rõõmupisarais
+🧾	arvepidamine dokument kviitung raamatupidamine tõend
+🪩	disko kera kuul peegel pidu sära tants
+🏇	hobune ratsutaja ratsutamine sport võiduajamine
+👦	laps lapselaps noor noorem poeg poiss särasilm
+🏸	mäng reket sport sulgpall
+🥜	maapähkel maapähklid pähkel söök toit
+📱	mobiil mobiiltelefon telefon
+🕎	hanukkah judaism küünlajalg menoraa religioon usk
+🚙	auto mahtuniversaal sõiduk universaal
+🖤	kuri must süda
+🪬	amulett fatima hamsa kaitse käsi mary miriam õnn
+🚴	inimene jalgratas jalgrattur ratas rattur sport
+🍷	baar jook klaas vein veiniklaas
+💊	arst haige ravim tablett
+🍀	leht neli nelja lehega ristik taim
+🪌	eemaldama joonistus kirjutama korrektor korrigeerima kustuta kustutama nühkima tagasi võtma viga
+😷	arst dermatoloog doktor haige hambaarst kirurg mask nägu pisikud ravim
+📆	kalender kuupäev rebitav
+🙉	ahv kaetud kõrvadega keelatud keeld kuri kuulamine nägu
+💱	pank raha vahetus valuuta valuutavahetus
+🩻	kondid luud meditsiin röntgen skelett
+🏠	kodu maja
+📙	oranž raamat
+🥔	juurvili kartul söök toit
+💮	lill õis valge
+🥌	curling jääkeegel kivi mäng
+💩	kaka kakahunnik koletis koll koomiks nägu sõnnik
+🍳	hommikusöök kokkamine muna pann praadimine restoran toiduvalmistamine
+🦈	hai kala loom
+🌼	lill õis taim
+😜	äge hull imelik keel väljas nägu nali naljakas pidu pilgutus segane segi silm silmapilgutus yolo
+🪁	lennutamine lohe tuul tuulelohe
+⛎	maokandja sodiaak
+🍾	baar jook kork pudel pudeli avamine
+🧇	hommikusöök kõhklev söök vahvel vahvliraud
+🛞	auto pöörama ratas rehv ring
+📜	käsikiri paber
+🧎	inimene põlvili põlvitav
+🌕	ilm kosmos kuu täiskuu
+💽	arvuti arvutiketas ketas optiline
+💙	armastus emotsioon romantika sinine süda
+📏	sirge joonlaud
+🥡	kaasamüügikarp kiirtoidukarp
+🕔	00 5 5:00 kell viis
+🤩	nägu silmad staar staariga silmitsi suu kõrvuni
+🟦	nelinurk ruut sinine
+🐍	loom madu maokandja sodiaak tähtkuju
+🐉	draakon lohe loom muinasjutt rüütlid
+🪎	auhind hõbe juveelid kalliskivi kuld raha rikkus saak väärisesemed
+💯	100 punkt sada punkti täis
+🌝	ere ilm kosmos kuu nägu näoga täiskuu
+♏	skorpion sodiaak
+🪞	meik peegel peegeldi peegeldus
+💅	hooldus keha kosmeetika küünelakk küüs lakk maniküür
+🫫	maskeerimine murenemine muutumine paljastamine pinge purunemine vastupidavus
+🈁	siin jaapani keel nupp katakana
+🍵	jook tass tee teetass
+⏳	kell liiv liivakell ootamine taimer valmis voolav yolo
+🌙	ilm kosmos kuu kuusirp sirp
+🤭	avastus itsitama itsitamine järsk käsi nägu oih saladus šokk suu üllatus ups
+🥗	roheline salat söök toit
+🈹	allahindlus ideogramm jaapani keel nupp
+🔔	heli kell kelluke kirik
+🦹	inimene kuri kurikael kurjategija kurjus paha pahalane superkurikael supervõimed
+🙎	ärritunud grimass ilme inimene kulmukortsutus mossis mossitav pettunud vinguv
+🫴	ei tea hoidma käsi peopesaga ülespoole kutsuma pakkuma püüdma tõstma tule ütle mulle
+👨‍🦽	ligipääs manuaal mees ratastool
+🙇	andestus anumine haletsus inimene kahetsus kummardav kummardus meditatsioon mediteerimine mees vabandus vabandust žest
+🔈	heli kõlar vaikne
+🍋‍🟩	happelisus hapu kokteil koor laim laimikook mahl margarita mojito puuvili roheline salsa tekiila troopiline tsitrus värskendav
+🪖	armee kaitsevägi kiiver sõda sõdur sõjavägi
+🪰	haigus kärbes loom parm roiskumine toakärbes tõuk
+👧	laps lapselaps neitsi noor noorem särasilm tähtkuju tüdruk tütar
+🍂	langenud leht sügis
+🍝	lihapallid pasta restoran söök spagetid
+🧑‍🦼	elektrilises ratastoolis inimene ligipääsetavus ratastool
+🏂	lumelaud lumelaudur lumi sport suusk
+🏬	hoone kaubamaja pood
+🤾	heitmine inimene käsipall loopimine pall püüdmine sport viskamine
+🌳	leht lehtpuu puu taim
+🏐	mäng pall sport võrkpall
+🧴	emulsioon emulsioonipudel niisutav kreem päevituskreem šampoon
+💨	jooksmine kiirustamine koomiks
+🪱	loom parasiit rõnguss uss vihmauss
+🫕	fondüü juust nõu šokolaad sulatatud šveitsi
+🕧	12 12:30 30 kell pool üks
+🥣	helbed hommikusöök lusikas puder riisipuding söök
+🍞	leib nisu päts restoran sai süsivesikud teravili toit
+🌚	ilm kosmos kuu nägu näoga noorkuu
+🦨	hais loom skunk
+🚹	mees meeste tualett vets wc
+🪅	kommid mehhiko peomäng pidu pinata piñata
+🪢	keerd köis nöör siduma sõlm
+🫢	aukartus hämming kartlikkus kätt suul hoidev pärani silmadega nägu omg piinlikkus šokeeritud šokk üllatunud üllatus uskumatus vaikne
+🎻	muusika pill viiul
+🛫	lennuk õhkutõus õhkutõusev sõiduk
+💐	kimp lill romantika taim
+👎	ei meeldi käsi keha pöial alla
+🤟	armastan armastus käsi kolm sind sõrmed žest
+♋	sodiaak vähk
+🦸	hea kangelane superkangelane supervõime
+👏	aplaus käsi keha plaksutamine plaksutavad käed
+🧚	fantaasia haldjas inimene lillehaldjas muinasjutt müüt tiivad
+🏢	hoone kontorihoone maja
+🧻	paberirull paberkäterätid tualettpaber
+🔅	eredus hämar tuhm tuhmistamisnupp
+🆓	free nupp tasuta
+🪛	kruvi kruvikeeraja lapikpea tööriist
+📖	avatud raamat
+🍬	komm kommipaber magus magustoit restoran söök
+🃏	jokker kaart mäng
+🧪	katse katseklaas keemia keemik labor teadus
+🍟	friikartul kiirtoit söök
+🌏	aasia aasia-austraalia austraalia gloobus maa maailm
+🧵	niidirull niit nõel õmblemine
+🆎	ab nupp tüüp veri
+👩‍🍼	beebi ema emme imetamine imik lapsehoidja naine toitma toitmine
+🕛	00 12 12:00 kaksteist kell
+🍰	kook lõik magus magustoit söök
+🦩	flamingo lind troopiline
+😁	hambad irve irvitamine naer naeratamine naerul nägu õnnelik silm silmad tore
+⬛	geomeetria must ruut suur
+🪻	hüatsint indigo lavendel lill lilla lõvilõug lupiin taim
+🖖	käsi keha sõrm spock vulcan vulcanite tervitus
+🪍	kogumine lõks püüdmine võrk
+⌚	käekell kell
+🐯	kiskja loom nägu suur tiiger
+🚧	barjäär ehitustööd tõke
+🔵	geomeetria ring sinine
+🌄	hommik ilm mägi päike päikesetõus mägedes
+🚾	tualett vesi wc
+📮	post postkast
+🦽	juurdepääs ligipääs manuaalratastool ratastool
+🌁	ilm udu udune
+🫈	hiiglane jeti karvane lumeinimene mets
+🦷	hambaarst hambad hammas
+🪺	lind muna munad oks pesa pesitsemine
+🐜	aed loom putukas sipelgas
+🔋	aku patarei
+🟡	kera kollane ring
+🌑	ilm kosmos kuu noorkuu pime
+😩	ebaõnn ei kurb nägu näljane nuttev õnnetu rammestunud tunded unine väsinud vihane
+🛒	käru ostma ostud ostukäru poodlemine
+🆗	nupp ok
+🪝	kala kinnitamine konks kõver müümine püük tõstmine
+🥞	crêpe hommikusöök pannkoogid pannkook toit
+💳	kaart krediit krediitkaart pank raha
+🦗	kilk loom putukas rohutirts
+🫛	edamame hernekaun hernes kaun kaunvili köögivili oad
+🥧	kõrvits liha lõik õun pirukas puuvili söök täidis
+🧸	lelu mänguasi mängukaru pehme plüüs
+🧛	dracula ebasurnu elav surnu halloween hambad hirmus kihvad kostüüm õudne surematu üleloomulik vampiir veri
+🟪	lilla nelinurk ruut
+🐱	kass kassipoeg kiisu lemmikloom loom nägu
+🦺	hädaolukord ohutus ohutusvest vest
+🈴	sooritatud ideogramm jaapani keel nupp
+🍏	õun puuvili roheline
+🌠	komeet kosmos langev täht
+❌	× ei korrutamine korrutusmärk rist x
+🐸	konn loom nägu
+🧀	juust juustutükk
+🪕	bandžo keelpill muusika
+🐩	koer kohev loom puudel
+🦻	juurdepääs kuuldeaparaadiga kõrv kuulmispuue
+👩‍🦼	elektri ligipääs naine ratastool
+🧙	fantaasia loits maag maagia manamine mäng nõiamoor nõid võlur võluvägi
+👨‍🏫	juhendaja mees õpetaja õppejõud professor
+💄	huulepulk kosmeetika meik
+🚘	auto eestvaates eestvaade sõiduk
+👨‍🏭	liinitööline mees tehas tööline
+🏣	hoone jaapani postkontor post
+🫐	mari mustikad mustikas sinine toit
+🦑	kalmaar mollusk söök toit
+🐵	ahv banaan loom nägu
+🧊	jää jääkuubik jäämägi külm kuubik
+🤿	akvalang snorgeldamine sukeldumine sukeldumismask
+📼	kassett video videokassett
+💟	süda südamekujuline kaunistus
+🎥	film filmikaamera kaamera video
+🧥	jakk mantel
+🐽	farm kärss loom nägu nina nuusutama siga
+👭	flirt käed kaksikd kallim kinni kohting naised õed paar parim sõber sõbrad tüdrukud
+🚝	raudtee rong sõiduk üherööpmeline
+🩷	armas armastan armastus emotsioon eriline meeldib nunnu roosa süda tunne
+🧑‍🎓	koolilõpetaja õpilane
+🏡	aed aiaga maja kodu
+😮‍💨	kergendus nägu ohe ohkamine puhumine sosistamine suits väljahingamine väsinud vilistamine
+🔣	sisestus sümbolid
+🪚	käsisaag puit puusepp saag tööriist
+🧕	bandana hijab mantilla naine pea pearätt rätik tichel
+🦂	loom skorpion sodiaak tähtkuju
+➖	- − kriips lahutamine matemaatika miinus
+😮	avatud kaastunne lahti nägu omg šokeeritud suu üllatunud unustasin uskuma uskumatu vau
+🪸	kliimamuutus korall meri ookean riff
+🚊	tramm troll
+😟	ärevil kurb liblikad mure murelik nägu närvid närviline stress stressis üllatunud
+📇	kaart kataloog register
+🌽	mais maisitõlvik söök taim tõlvik
+📫	postkast suletud tõstetud lipuga
+🚄	kiirrong kiirus raudtee rong shinkansen
+🧑‍🎨	kunstnik palett
+🪪	dokument id id-kaart litsents luba sisselogimisteave turve
+🫖	jooma kann tee teekann toit
+🕘	00 9 9:00 kell üheksa
+🈵	pole vaba ideogramm jaapani keel nupp
+🐔	kana lind loom ornitoloogia
+👩‍🦽	elektri ligipääs naine ratastool
+🛗	elevaator juurdepääs lift ligipääs tõstuk
+🍊	apelsin c mandariin nektariin puuvili tsitrus vitamiin
+🤒	haige kraadiklaas nägu
+🎾	pall reket sport tennis
+🤡	kloun klouninägu nägu
+💰	dollar kott raha rahakott rahapaun
+🛴	tõukekas tõukeratas
+🪷	budism hinduism ilu lill lootos puhtus rahu
+🦉	lind loom öökull ornitoloogia tark
+🐛	aed loom putukas röövik
+📣	kõne megafon
+😱	hirm hirmul hirmunud hirmunult karjuv nägu karje munch
+🥨	keerutatud kringel soolakringel
+📎	kirjaklamber klamber
+🍩	hommikusöök magus magustoit sõõrik toit
+🐕	koer lemmikloom loom
+🧑‍🧒‍🧒	laps pere täiskasvanu
+🪮	afro hark juuksed juuksehark kamm
+🫗	jooma kallama klaas oih õnnetus tühi vesi
+📳	mobiil režiim telefon värin värinarežiim
+💏	aastapäev armastus inimene kallim kohting koos muahh musi paar romantika süda suudlus xoxo
+🔮	ennustamine kristallkuul muinasjutt tööriist
+🙆	inimene käsi liigutus ok omg võimlemine žest
+🏈	ameerika jalgpall pall sport
+🥿	baleriina king madal mugav suss
+🦿	ligipääs mehaaniline jalg protees
+💆	hooldus inimene lõõgastav lõõgastus massaaž naine näomassaaž peavalu pinge salong spaa teraapia
+🫯	debatt kaklus kära lahkarvamus maadlema vaidlus
+🫰	<3 armastus kallis käsi nips pöialt ja nimetissõrme risti hoidev raha süda
+🥯	hommikusöök määre pagaritoode rõngassai
+🦜	lind loom ornitoloogia papagoi piraat rääkima
+👨‍🌾	aednik farmer mees põllumees talunik
+👖	püksid riided teksad
+🦕	brahhiosaurus brontosaurus diplodookus sauropod sauropood
+🚯	keelatud risustamine
+🩱	trikoo ujumiskostüüm ujumistrikoo
+➕	+ liitmine matemaatika pluss plussmärk
+😡	ärritunud mossitav nägu õnnetu pahane punane raevunud tige tunded viha vihaleajav vihane
+🥋	judo karate riietus taekwondo võitluskunst
+🐣	koorumine loom muna tibu
+👑	kroon kuninganna kuningas riided
+🏆	auhind karikas sport trofee tšempion võit
+🦔	loom okkaline siil
+✋	käsi keha ülestõstetud
+🔪	kööginuga köök nuga relv tööriist
+🪔	diya diya-lamp lamp õli
+🐏	jäär lammas loom oinas sarved sodiaak tähtkuju zoo
+🟣	kera lilla ring
+🥦	brokoli metskapsas
+👜	käekott kott riided
+🍎	dieet küps õun punane puuvili söök tervis
+🍜	aurav kauss nuudlid pho pulgad ramen söök supp
+🐓	kukk lind loom ornitoloogia
+🪑	iste istumine tool
+🧠	aju intelligentne tark
+📘	raamat sinine
+🛬	lennuk maandumine maanduv sõiduk
+🍘	leib riis söök
+🦚	edev ilus lind loom ornitoloogia paabulind uhke värviline
+🎆	ilutulestik tähistamine
+🫌	habras lootus metamorfoos muundumine muutus putukas ränne röövik
+🤯	plahvatav pea šokeeritud
+🟩	nelinurk roheline ruut
+🈲	keelatud ideogramm jaapani keel nupp
+😈	deemon fantaasia kuri lilla muinasjutt naeratav naeratus nägu saatan sarved
+💗	kasvav närviline põnev pulss süda
+🔼	nool nupp üles ülesnupp
+🎈	õhupall tähistamine
+🦀	krabi sodiaak söök tähtkuju vähk
+🩸	doonorlus meditsiin menstruatsioon tilk veri vigastus
+📄	dokument leht paberilehe eestvaade
+🐋	loom ookean rand vaal
+🍌	banaan kaalium puuvili
+🤕	ai haige kinniseotud nägu peaside side vigastus
+👡	king naine naistesandaal riided sandaal
+🏤	hoone post postkontor
+🏓	lauatennis mäng pall pingpong reket sport tennis
+🧁	magus magustoit muffin pagaritoode söök
+🌲	igihaljas puu taim
+🎂	kook küünlad magustoit söök sünnipäev sünnipäevatort tort
+💋	huuled musi romantika süda suudluse jälg
+🤔	hmm juurdlema kaaluma lõug mõtisklema mõtlema nägu
+⛳	auk golf lipp sport
+🧫	bakterid bioloog bioloogia kultuur labor petri tass
+🥠	ennustus õnneküpsis
+👐	avatud käed käsi keha
+😃	avatud hambad irve irvitamine jee lahe naeratamine naeratus nägu rõõmus silmad suur
+👅	keel keha lakkuma limpsima
+🤨	emotikon hmm kergitatud kulmuga nägu kulm mida pahameel skeptik skeptiline üllatunud umbusaldav
+🎌	jaapan lipp pidu ristatud lipud risti
+💫	koomiks peadpööritav täht
+🤹	inimene käsitsemine oskused rööprähklemine tasakaal tasakaalutrikk žongleerimine žonglöör
+📠	faks faksimasin masin
+🚪	uks
+🥹	imetlus kurb kurbus nuttev palun piinlik pisaraid tagasi hoidev nägu rõõmupisarad tänulik tänulikkus trotslik tunded uhke vihane
+🌖	ilm kahanev kosmos kuu
+🙏	aitäh käed palve palveasendis tänan žest
+🧑‍🎤	artist laulja meelelahutaja staar
+🪥	hambad hambahari hari hügieen pesema vannituba
+🏄	inimene lained ookean rand sport surfamine surfar
+👩‍🔬	bioloog füüsik insener keemik matemaatik naine teadlane
+🤺	inimene mõõk sport vehkleja vehklemine
+🎠	hobune karussell karussellihobune
+🈳	vaba ideogramm jaapani keel nupp
+🔥	leek tuli
+🪿	haned hani jaht lind loom ornitoloogia part parv prääks
+🍨	jäätis magus magustoit restoran söök
+🕓	00 4 4:00 kell neli
+🔯	judaism kuusnurkne õnn punktiga täht
+📉	alla graafik langev langus tendents
+🐀	loom rott
+👟	jooksuking king riided sport toss
+📯	post postisarv sarv
+😅	avatud elevil higi külm masendunud naeratamine naeratus naermine nägu närvis stress stressis suu
+🦛	jõehobu jõehobuke loom
+🌛	ilm kosmos kuu nägu näoga kasvav poolkuu
+👔	lips riided
+🧡	oranž süda
+❔	kirjavahemärk küsimärk küsimus valge
+🐺	hunt loom nägu
+🪹	kodu pesa pesitsemine tühi
+🤴	fantaasia kroon kuningas kuninglik muinasjutt prints
+🌘	ilm kahanev kuusirp kosmos kuu sirp
+🩺	arst kuuldetoru meditsiin stetoskoop süda
+🍣	söök sushi suši
+🍢	kebab mereannid oden pulk söök
+🦐	koorikloom krevett söök toit väike
+🫺	haare neutraalne osutama paremale seda see
+🍮	magus magustoit puding söök
+🥐	croissant hommikusöök prantsuse sai sarvesai söök toit
+🔖	järjehoidja
+🥟	empanada gyōza jiaozi pelmeen pierogi söök
+🎭	kunst lava lavakunst mask teater
+🈚	tasuta ideogramm jaapani keel nupp
+🚋	tramm trammivagun troll vagun
+🚦	foor liiklus vertikaalne
+😒	hästi igavlev imelik kade mida iganes nägu õnnetu pahane põlglik
+🔹	geomeetria romb sinine teemant väike
+🪴	hoolitsema kasvatama kaunistus kodu potilill pott taim
+🧰	kast laegas tööriistad tööriistakast
+🦃	kalkun lind tänupüha
+🍄	kärbseseen mürgiseen seen
+🟤	kera pruun ring
+🫱	hoidma käepigistus käsi parem paremale sirutama
+🧟	ebasurnu elav surnu halloween hirmus maailmalõpp õudne õudus surematu zombi
+👨‍🎤	laulja meelelahutaja mees näitleja rokk rokkstaar staar
+🫩	hilja igav kotid kurnatud nägu silmad tüdinud tülpinud unine väsinud
+🤗	avatud käed kalli kallistus naeratus nägu
+⏩	edasi edasikerimisnupp kerimine nool topelt
+🕜	1 1:30 30 kaks kell pool
+📈	graafik kasv tendents tõusev üles
+🦆	lind loom ornitoloogia part
+🤼	inimesed kahevõitlus maadlejad maadlus ringis sport turniir võitlus
+🎶	muusika noodid noot
+🦁	alfa lakk loom lõvi möire nägu safari sodiaak tähtkuju tugev
+🤏	näpistav käsi pisut pöialt ja nimetissõrme lähestikku hoidev väike kogus
+🪄	maagia nõid võlukepp võlukunst võlur
+🆖	ng nupp
+😙	armastus flirtima kohtama kohting naeratama naeratus nägu öö silm silmad suletud suudlemine suudlus suudlused
+🙍	ärritunud häiritud ilme inimene kulm kortsus kulmu kortsutav kulmukortsutus naine pettunud
+🚂	aur raudtee rong sõiduk vedur
+👰	inmene loor pulm
+🚭	keelatud suitsetamine
+😨	ärev hirm hirmunud nägu hirmus kartlik murelik
+🎼	muusika noodijoonestik noot
+🤦	aa ei hämming inimene jälle lööma meeleheide mitte nägu omg segadus šokk
+📞	telefon telefonitoru toru
+🚎	buss tramm troll trollibuss
+🔢	1234 numbrid
+🪣	ämber pang
+😾	kass mossis mossitav nägu
+🥢	hashi söögipulgad
+🏑	hoki kepp mäng pall sport väljak
+🎢	ameerika lõbustuspark mäed
+🐭	hiir loom nägu
+😧	ahastus hirmul hirmus mida nägu õnnetu stressis üllatunud unustamine vau
+🐷	farm loom nägu peekon siga
+🫣	haaratud häbelik kartlik käte vahelt piiluva silmaga nägu peidus peitma piiluma piiluv vahtima
+🍈	melon puuvili
+🤛	rusikas vasakule suunatud
+🙋	inimene käed käsi kätt tõstev rõõmus küsimus mina tean õnnelik saan aidata žest
+🚲	jalgratas ratas sõiduk
+🍑	puuvili virsik
+🌍	aafrika euroopa euroopa-aafrika gloobus maa maailm
+👬	flirt käed kaksikud kallim kinni kohting mehed paar parim sõber sõbrad vennad
+🐗	kult loom metssiga
+🤎	pruun süda
+🚃	elekter rong rongivagun rööpad sõiduk tramm troll vagun
+🎤	heli karaoke laulmine mikrofon muusika
+👿	deemon fantaasia kurat kuri lilla muinasjutt nägu saatan sarved vallatu vihane
+📡	antenn satelliit satelliitantenn taldrik
+🫨	hämmastus maavärin nägu ohoo omg paanika segane šokk üllatus värisev vau vibreeriv
+🤜	paremale suunatud rusikas
+🌰	kastan söök taim
+🐨	austraalia karu koaala kukkurloom loom nägu
+📚	fantaasia haridus kool lugemine õppimine raamat raamatud raamatukogu romaanid teadmised
+🌿	leht maitsetaim taim
+♍	neitsi sodiaak
+📂	avatud dokument fail kaust toimik
+🔠	abcd ladina suurtähed tähed
+🔗	ahel lüli
+🔱	ankur embleem kolmhark laev poseidon tööriist
+🥒	köögivili kurk söök toit
+⏪	kerimine kolmnurk tagasi tagasikerimise nupp topelt
+🥁	muusika trumm trummipulgad
+📅	kalender kuupäev
+👨‍🦼	elektri ligipääs mees ratastool
+🍚	keedetud riis söök
+🐆	kass kiskja leopard loom suur zoo
+☔	ilm piisk piiskadega vihmavari riided vihm
+🍼	beebi lutipudel piim pudel
+🎳	keegel kurikas kuul mäng sport
+🪭	flirt häbelik jahutav jahutus kuum lehvik palav tants tuul
+🍉	arbuus puuvili
+🎄	jõulud jõulupuu kuusk pühad
+🔲	geomeetria must ruudukujuline nupp piirjoon ruut
+🧑‍🌾	aednik farmer talunik
+🚩	kolmnurk kolmnurkne lipp
+🦓	loom sebra triibud vöödid
+🍗	kalkun kana kanakoib koib kont linnuliha luu söök
+🥮	festival kuukook söök sügis yuèbǐng
+🏪	hoone kauplus pood
+🍓	maasikas mari puuvili
+🤚	käsi tõstetud
+📩	alla e-kiri kiri meil nool noolega ümbrik saadetud saatma suhtlus väljaminev
+📓	päevik raamat
+👥	büst büstid inimesed kõik siluett sõber sõbrad
+📊	diagramm graafik tulp tulpdiagramm
+🗽	kuju sammas vabadus vabadussammas
+🕒	00 3 3:00 kell kolm
+🪋	apokalüpsis gravitatsioon kivi kosmos langemine täht tulekera
+👓	mood prillid silm
+🚰	joodav joogivesi vesi
+🎽	jooks kergejõustik särk
+😴	haigutus head headööd magamine mida iganes nägu ööd uinak uneaeg uni väsinud voodi zzz
+🎦	film kaamera kino
+🥏	frisbi lendav taldrik
+🦡	loom mäger meemäger nuhtlus
+🎨	kunst kunstniku palett maal muuseum
+🍖	kont liha
+🔍	otsi suurendusklaas tööriist vasakule kallutatud luup
+🌹	armastus elegantne ilu lill õis punane roos taim valentin
+👩‍🚀	astronaut kosmos naine rakett
+🐚	karp spiraalne teokarp
+🎰	automaat mäng mänguautomaat
+🕺	elegantne flamenko mees naine pidulik salsa tango tants tantsimine
+🔡	abcd ladina tähed väiketähed
+👩‍🦯	ligipääs naine pime valge kepiga
+🕍	judaism juut sünagoog usk
+🛁	vann
+💘	nool noolega süda romantika
+🥍	kahvpall kahvpallikepp kepp pall värav
+🧑‍🔧	elektrik mehaanik torulukksepp torumees
+😍	armastus naeratus nägu romantika romantiline silmad südamed südamekujulised suudlused tunded xoxo
+🆑	cl nupp
+🧃	joogipakk jook kõrs magus mahl mahlapakk
+👒	kübar müts naine naistekübar riided
+♌	lõvi sodiaak
+🌞	ere ilm kosmos nägu näoga päike
+🍆	baklažaan köögivili söök taim
+😊	naeratamine naeratus nägu punastama rahul rõõmus silm silmad
+🫸	käsi keeldu keeldumine lükka lükkamine oota paremale lükkav stopp viska viis
+💲	dollar raha suur dollarimärk valuuta
+🦍	gorilla loom
+🌈	ilm vihm vikerkaar
+🙂	naeratamine naeratus nägu õnnelik pisut
+🧭	kompass magnetiline navigeerimine orienteerumine
+👞	king mees meesteking riided
+🩳	aluspesu aluspüksid lühikesed püksid šortsid ujumispüksid
+🧑‍🚀	astronaut rakett
+🕚	00 11 11:00 kell üksteist
+😵	haige nägu oimetu pearinglus silmad surnud tunded väsinud
+📿	helmed kaelakee palvehelmed palvetamine riided usk
+🤓	andekas arukas friik intelligentne nägu nohik nutikas prillid tark
+🪀	edasi-tagasi jojo mänguasi yoyo
+🏫	hoone kool
+🍹	baar jook troopiline
+🕝	2 2:30 30 kell kolm pool
+🕠	30 5 5:30 kell kuus pool
+📟	peiler piipar
+🎵	muusika noot
+👙	bikiinid riided ujumine
+🩲	aluspesu ujumiskostüüm ujumispüksid ujumisriie
+🤑	nägu palgapäev raha suus suu
+🚛	sõiduk veoauto veok
+🥘	paella panniroog söök toit ühepajatoit
+😘	armas armastan armsam flirtima igatsema muahh musi nägu õhusuudlus romantiline sind süda suudlus xoxo
+🛺	autorikša rikša tuk-tuk
+👱	blond blondiin inimene isik
+🛂	kontroll pass passikontroll
+🪓	kirves lõhkumine puud raiumine
+🫝	häda hapukurk käärima kurk maitseaine soolvesi
+🔞	18 alaealine alla 18-aastastele keelatud kaheksateist vanusepiirang
+🤝	käepigistus käsi kohtumine tervitus
+📒	arve arveraamat raamat
+🚥	foor horisontaalne liiklus
+🔊	heli kõlar vali valju heliga
+🐴	farm hobune loom nägu ratsutamine
+😕	ebakindel ei tea hmm kulmukortsutus kurb meh nägu segaduses segane vabandust
+🫑	köögivili paprika pipar söök toit
+🫄	inimene kõht puhitus rase täis ülesöömine
+🪐	rõngastega planeet saturn
+🏅	kuld medal sport võit
+🏯	jaapan jaapani loss
+🌊	ilm laine meri ookean veelaine vesi
+💿	arvuti cd dvd ketas optiline
+🪦	hauakivi haud kalmistu surnuaed
+⚾	pall pesapall sport
+👈	käsi keha nimetissõrm osutamine sõrm vasakule osutav
+🦒	kaelkirjak laigud loom
+🌗	ilm kahanev poolkuu kosmos kuu
+🚸	jalakäija laps lapsed teel liiklus tänav
+🤳	kaamera käsi selfi telefon
+🏀	korvpall pall sport
+🚏	buss bussipeatus peatus
+🥷	inimene ninja oskused palgamõrvar peidetud salajane salakuulaja sõda sõdalane võitleja võitlus
+⚽	jalgpall pall sport
+🚖	eestvaade sõiduk takso eestvaates
+👂	heli keha kõrv kõrvad kuulama kuulen kuulma kuulmine
+👝	kott riided
+📵	ei keelatud mobiil telefon telefonid on
+🐳	loom nägu ookean rand vaal vesi
+😯	äge hämmingus nägu omg üllatunud vaigistatud vau
+🍫	magus magustoit šokolaad šokolaaditahvel söök
+🌋	laava mägi purse vulkaan
+🧝	fantaasia folkloor haldjad haldjas maagiline müstiline müütiline päkapikk päkapikud võluvägi
+💛	armastus emotsioon kollane süda
+👨‍💻	arendaja arvuti mees programmeerija tarkvara tehnoloog
+🐃	loom pühvel vesi zoo
+🧆	falafel kikerhernes lihapall
+💎	juveel kalliskivi romantika teemant
+🧑‍🚒	tuletõrjeauto tuletõrjuja
+📷	kaamera video
+⛪	kirik kristlus maja rist usk
+🚵	jalgratas jalgrattur mees ratas rattur sport
+🐟	kala kalad loom õhtusöök sodiaak tähtkuju
+🤥	nägu pinocchio vale valetaja valetav
+😛	äge keel väljas lahe magus nägu pidu vägev
+🦵	jalalöök jalg jäse
+🪒	habe habemenuga raseerimine terav
+💈	habemeajaja hambemeajamine juukselõikus lõikus post
+📹	kaamera video videokaamera
+🛵	motoroller roller
+💸	dollar pank raha tiibadega tiivad
+🔦	elekter taskulamp tööriist valgus
+🧑‍🧑‍🧒‍🧒	laps pere täiskasvanu
+🚳	jalgratas jalgrattad keelatud sõiduk
+🪵	ehituspuit känd palk puit puu saepuit
+😂	haha hehe lmao lol naer nägu naljakas nutmine õnnelik pisar rofl roflmao rõõm tunded ülinaljakas
+🐦	lind loom ornitoloogia
+🔩	mutter polt ja tööriist
+🤠	kauboi müts nägu
+🔉	heli kõlar poolvalju heliga vaikne
+💇	ilu ilusalong inimene juukselõikus juuksur juuste lõikamine kosmetoloogia salong soengu tegemine stiil
+🧓	eakas isik täiskasvanu tark vana vanavanem
+👼	ingel inglibeebi inglilaps laps lapsenägu muinasjutt
+🪠	imipump pump pumpamine ummistus valamu valamupump
+👨‍💼	arhitekt äri juhataja kontor mees töötaja valgekrae
+🔃	laadimine nool päripäeva vertikaalsed nooled
+🦦	jõgi kala saarmas udras
+🗻	fuji mägi
+🐖	emis farm loom peekon siga
+🧲	atraktsioon hobuseraud kuju külgetõmbejõud magnet negatiivne positiivne u
+🚻	tualett wc
+💤	head koomiks magamine ööd uni unine väsinud zzz
+🔌	elekter elektripistik pistik
+🏺	amfora jook kann vaas veevalaja
+📻	meelelahutus raadio video
+🧑‍🦯	ligipääs pime valge kepiga inimene
+🪗	akordion instrument lõõts muusika pill
+🍱	bento karp söök toit
+🔘	geomeetria nupp raadio raadionupp
+🕙	00 10 10:00 kell kümme
+👻	kummitus muinasjutt nägu olend tont viirastus
+🧉	jook mate tee
+🫀	anatoomia keskpunkt organ pulss punane süda südamelöök
+🦭	hüljes merilõvi
+👨‍🔬	bioloog füüsik insener keemik matemaatik mees teadlane
+🐫	baktrian kaamel kahe küüruga küür loom
+♉	sodiaak sõnn
+👨‍🍳	kokk mees
+🚢	laev sõiduk
+🥽	kaitseprillid keevitamine silmakaitse ujumine
+🚟	raudtee rippraudtee sõiduk vagun
+🔶	geomeetria oranž suur teemant
+🪡	niit nõel õmblemine õmblused rätsep tikkimine
+⛺	laager telk telkimine
+🙁	kortsutama kulm kurb nägu veidi
+👾	fantaasia koletis kosmos maaväline mäng mängud mängur muinasjutt nägu olend pikslitud tulnukas tulnukkoletis ufo
+💷	nael naela rahatäht naelsterling pank valuuta
+🏉	jalgpall pall ragbi sport
+❓	kirjavahemärk küsimärk küsimus punane
+👩‍🎨	kunstnik naine palett
+🐇	jänes lemmikloom loom
+🌾	riis riisitaim taim vihk
+🛷	kelk regi saan
+🌀	ilm orkaan taifuun tornaado tsüklon
+🦴	koer kont luu luustik
+👨	mees täiskasvanu tüüp
+💥	kokkupõrge koomiks pauk plahvatama pomm põrkuma
+🗿	kuju moai nägu
+⛵	jaht meri paat puhkus purjepaat sõiduk
+🫵	käsi osutama sina sõrm torkima vaataja poole osutav nimetissõrm
+🏰	hoone loss
+🐞	lepatriinu loodus loom põrnikas putukas
+🚆	raudtee rong sõiduk
+🐕‍🦺	abi koer loom teenistus
+🐮	ammuu farm lehm loom nägu piim
+🏮	lamp latern punane paberlatern valgus
+😥	aeg ärev higi keeruline kergendus kõne kurb nägu napikas pettunud
+🧤	käsi kindad
+🐰	jänes lemmikloom loom nägu
+🏨	hoone hotell
+🍕	juust näljane pepperoni pitsa pizza söök viil
+📗	raamat roheline
+🎇	ilutulestik säraküünal
+🪳	prussakas putukas tarakan
+⚡	elekter kõrgepinge oht pinge šokk välk
+⏬	alla kiirkerimine nool topelt
+🍻	baar jook kann kõlisevad õllekannud õlu
+🚺	naine naiste tualett vets wc
+👚	naine naisteriided riided
+🧳	kohver pakkimine reis
+♐	ambur sodiaak
+🚤	järv kaater kiirkaater luksus miljardär miljonär paat reis suvi
+📝	märge memo pliiats
+🪨	kaljurahn kivi kivirahn kõva raske tugev
+🍅	köögivili söök taim tomat
+📁	dokument fail kaust toimik
+🎁	karp kingipakk kink pakitud
+🧑	inimene täiskasvanu
+🚒	auto sõiduk tuletõrje tuletõrjeauto
+👷	ehitaja ehitus inimene kiiver mees parandus remont renvoeerimine töö tööline
+🔤	abc ladina tähed tähestik
+🚞	mägi raudtee reis vagun
+🌐	gloobus maa maailm meridiaanid meridiaanidega
+😸	irve kass lõbusate silmadega irvitav naeratus nägu silm
+🫡	au andma edu jah just nii nägu ok saluut sõjavägi
+🟰	matemaatika tugev vastus võrdsus võrdusmärk
+🚬	sigaret suits suitsetama suitsetamine
+🆒	cool lahe nupp
+🍺	baar jook kann õllekann õlu
+🪏	auk kaevama kühveldama labidas
+🐂	farm härg loom sodiaak sõnn tähtkuju veis
+🤙	helista mulle käsi
+♓	kalad sodiaak
+👵	daam eakas naine täiskasvanu tark vana vanaema
+🐧	antarktika lind loom ornitoloogia pingviin
+❎	× korrutus märk nupp ruut x
+🟫	nelinurk pruun ruut
+🥩	karbonaad lambalihakarbonaad liha lihalõik praelõik punane sealihakarbonaad söök steik
+🦾	ligipääs mehaaniline käsi protees
+🎣	kala kalastamine meelelahutus õng sport
+😌	kergendunud kergendus nägu rahu rahulik zen
+🫷	käsi keeldu keeldumine lükka lükkamine oota stopp vasakule lükkav viska viis
+🐝	kevad loodus loom mesi mesilane putukas
+🌻	lill päevalill päike taim
+✨	* säde sädemed sära täht
+🚽	tualett wc wc-pott
+🥑	avokaado puuvili söök toit
+👛	käekott kott münt ostma rahakott ridikül riided riietus
+🌮	mehhiko tako
+📋	alus kirjutamisalus leht paber
+🦊	loom nägu rebane rebase
+⚫	geomeetria must ring
+♒	sodiaak veevalaja
+🐈‍⬛	ebaõnn halloween kass loom mjäu must
+🩵	armas armastan armastus emotsioon eriline helesinine meeldib rohekassinine sinakasroheline süda taevasinine tsüaan
+📤	alus kast kiri post väljaminev
+🐐	farm kaljukits kits loom piim sodiaak tähtkju
+🧂	maitseaine sool soolatoos
+🎯	mäng meelelahutus noolemäng sihtmärk tabamus täistabamus
+🐻	grisli karu loom mesi möire nägu
+🔨	haamer tööriist
+🚣	aer aerutamine inimene järv kalapüük kanuu mõla paadisõit paat parv sõiduk
+👕	riided särk t-särk
+🐼	bambus loom nägu panda
+👃	keha nina
+📭	avatud postkast langetatud lipuga
+🚁	helikopter kopter reis sõiduk
+🛻	auto kast maastur pikap transport
+🕤	30 9 9:30 kell kümme pool
+🫅	inimene kroon kuninglik monarh valitseja
+🧑‍🦽	ligipääsetavus manuaalses ratastoolis inimene ratastool
+🌱	idu loom noor taim võrse
+😪	head kurb magamine nägu nuttev ööd uni unine väsinud
+🧒	laps lapselaps noor noorem särasilm
+🦤	dodo lind loom ornitoloogia suur väljasurev
+👢	king naine naistesaabas riided saabas
+📬	avatud postkast tõstetud lipuga
+🚼	beebi sümbol imik mähe
+🚑	kiirabi kiirabiauto sõiduk
+😞	ebaõnn jube kaotus kurb nägu nukker õnnetu pettunud süüdi
+🍸	baar jook klaas kokteil kokteiliklaas
+🥵	higistav nägu kuumarabandus näost punane palavikuline
+🫔	maisikakk mehhiko pamonha täidetud tamale toit
+👹	fantaasia koletis koll muinasjutt nägu olend sookoll
+😬	grimass grimassitav hambaarst irvitav naeratav naeratus nägu piinlik
+🤶	abikaasa ema fantaasia jõulud jõuluvana pühad tähistamine
+🎓	koolilõpumüts lõpetamine müts riided
+👩‍🎓	lõpetaja naine õpilane
+🛖	hütt jurta kodu maja peavari tare
+🎬	film klapptahvel video
+🤘	käsi märk rokk sarved sõrmed
+🕣	30 8 8:30 kell pool üheksa
+🤫	kuss sõrme suul hoidev nägu vaikust
+🔭	kontakt maaväline teadus teleskoop tööriist
+🌸	kirsiõis kirss lill õis taim
+🥻	kleit rõivas sari
+🎷	muusika pill saksofon
+😺	avatud suuga naeratav kass lahti naeratus nägu suu
+😫	aevastus kahju kurb nägu tunded uinak väsinud
+😀	hambad irve irvitamine naer naeratamine naeratus nägu õnnelik rõõmsameelne rõõmus tore
+💭	koomiks mõte mõttemull mull
+🦼	elektriratastool juurdepääs ligipääs ratastool
+👩‍💼	arhitekt äri juhataja kontor naine töötaja valgekrae
+♿	juurdepääs ratastool
+🥄	lauanõud lusikas söök
+🧽	imav pesemine pesukäsn poorne svamm
+💵	dollar dollari rahatäht pank raha valuuta
+🐹	hamster lemmikloom loom nägu
+💾	arvuti diskett ketas
+🌔	ilm kasvav kuu poolkuu
+🥫	konserv söök toit
+💴	jeen jeeni rahatäht pank raha valuuta
+🦧	ahv inimahv loom orangutan
+🍶	baar jook pudel riisiviin tass
+⚪	geomeetria ring valge
+🆙	märk nupp up üles
+😎	äge ere lahe naeratus nägu päikeseprillid prillid rand stiil vinge võit
+📐	joonlaud kolmnurk kolmnurkne
+🫧	hõljuma mull mullid pärl puhas röhitsema seep vee all
+💕	armastus kaks südant süda
+😗	armastan flirtima kohtama kohting musi musid nägu sind suudlus xoxo
+🫤	diagonaal frustratsioon frustreerunud kahtlev kahtlus meh mida iganes mis pettunud segadus segaduses skeptiline suu
+💬	dialoog jutt jutumull koomiks mull
+🛘	katastroof kivid laviin maavärin mägi mudalaviin oht
+🚚	kuller kulleriauto sõiduk veoauto
+🔚	lõpp nool end
+💺	iste tool
+🎉	pidu pidupäev sünnipäev üllatus
+🤲	palve peopesad üleval koos
+😔	igav jube kaotamine kaotus kurb mõtlik nägu nõme nukker pettnud surnud
+👋	head aega hei käsi lehvitav lehvitus nägemist tere tervitus tsau
+🎊	konfetid pidu tähistama
+💼	kohver portfell
+🥬	hiina kapsas lehed lehtkapsas lehtköögivili lehtsalat roheline
+🈸	rakendus ideogramm jaapani keel nupp
+🚱	joodav joomiseks kõlbmatu vesi keelatud
+🐄	ammuu farm lehm loom piim
+⬜	geomeetria ruut suur valge
+😝	keel väljajs kissitamine maitsma mida iganes nägu omg rõve silm silmad suletud vastik yolo
+😓	higi hirmul külm kurb nägu närvis norgus peavalu suletud tunded
+🩼	abivahend erivajadus kark kepp liikumine puue valus vigastatud
+🙀	kass nägu ootamatu üllatunud üllatus
+🧯	kustutamine summutamine tulekustuti tuli
+🦖	dinosaurus loom t-rex türannosaurus
+🧑‍🧒	laps pere täiskasvanu
+🐒	ahv banaan loom
+🥴	alkoholiuimas joobnud lainelised huuled oimetu uimane nägu üks silm poolkinni
+🧅	maitseaine sibul
+🍙	jaapani pall riis söök
+👨‍🚒	mees tuletõrjeauto tuletõrjuja tuli
+🪈	flöödimängija flööt instrument muusika orkester pikolo puhkpill puupuhkpill vile vilepill
+🏏	kriket kurikas mäng pall sport
+👴	eakas kiilakas mees täiskasvanud tark vana vanaisa
+🦝	kaval loom pesukaru uudishimulik
+🎲	mäng täring
+🚡	gondel köis köisraudtee raudtee sõiduk vagun
+😑	aa emotsioonitu igav ilmetu kade meh mida iganes mittemidagiütlev nägu omg õnnetu piinlik sirge surnud väheütlev
+🥶	jääpurikad jäätunud jäätuv külmakahjustus külmunud nägu näost sinine
+🚿	dušš vesi
+🖕	käsi keskmine sõrm
+🫆	detektiiv identiteet jälg kriminalistika kuritegu müsteerium sõrmejälg turvalisus vihje
+🧑‍🍳	kokk peakokk
+🫠	haha kaduma kuumus lahustuma lol nägu palav piinlik sarkasm sarkastiline sulama sulamine vedel
+🐑	farm kohev lammas loom mää tall utt vill
+🕐	00 1 1:00 kell üks
+🔑	lukk parool võti
+🚕	sõiduk takso
+🎹	klahvpill klaver muusika pill
+🦮	abi juht juhtkoer koer pime vaegnägija
+📃	dokument kaardunud paberileht leht
+👨‍🔧	elektrik mees mehaanik torulukksepp torumees
+😄	avatud irve irvitamine lol naer naeratamine naeratus nägu rõõmus silm silmad suu
+🥲	kergendus liigutatud naeratav pisaraga nägu naeratus naerunägu pisar rõõm tänulik uhke valu
+🫥	depressiivne introvertne kaduma masenduses mis iganes nähtamatu peidus peitma punktiirjoonega nägu
+🥤	jook kõrs mahl tops vesi limonaad
+🥃	joogiklaas napsuklaas viskiklaas
+🗼	tokyo torn
+🙄	mida iganes nägu pööritav silmad silmapööritus
+🦥	aeglane laisik laisk laiskloom
+🧞	džinn fantaasia hõõruma lamp müstiline müütiline soovid
+🤪	pöörase ilmega nägu silm suur väike
+👩‍🍳	kokk naine
+🫘	kaunvili oad toit uba väike
+🥇	esimene koht kuld medal võit
+🐘	elevant loom
+🔻	alla geomeetria punane tagurpidi kolmnurk
+🎡	lõbustuspark vaateratas
+🕢	30 7 7:30 kaheksa kell pool
+💪	biitseps bro fleksima jõusaal käsi kasv kätekõverdused kulturist lihas lihaseline loom musklis pink press tõstmine tugev
+🎒	kool kott ranits
+😢	igatsev jube kurb nägu nutt nuttev õnnetu pisar tunded
+👨‍🦯	ligipääs mees pime valge kepiga
+🫪	ärevus haavatav paanika paistes šokeeritud üllatunud
+🔕	keelatud kelluke keelumärgiga vaigistatud vaigistus vaikne vaikus
+📢	avalik kõne vali valjuhääldi
+🦟	haigus loom malaaria palavik putukas sääsk viirus
+🎅	fantaasia isa jõulud jõuluvana pühad tähistamine
+❕	hüüumärk valge
+🤽	inimene mängiv polo sport ujumine veepall vesi
+🗾	jaapan kaart
+🔆	ere eredus ereduse nupp
+🤣	haha hehe lmao lol naer nägu naljakas nutmine õnnelik pisar põrand rofl roflmao rõõm rullimine ülinaljakas
+🦅	kotkas lind loom ornitoloogia
+🧶	heegeldamine kera kudumine lõng lõngakera
+🍇	puuvili taim viinamari viinamarjad
+🌯	burrito mehhiko vrapp
+🌎	ameerika gloobus maa maailm
+🀄	mahjong mahjongi punane draakon mäng
+🦣	karvane kihv loom mammut suur väljasurnud
+🥝	kiivi puuvili söök toit
+😻	armastus kass naeratus nägu süda südamekujuliste silmadega naeratav
+🎸	kitarr muusika pill
+⏫	kiirkerimine üles nool topelt
+🏩	armastus armuhotell hoone hotell
+🥓	hommikusöök liha peekon toit
+➗	÷ jagamine jagamismärk märk matemaatika
+🐦‍🔥	elluärkamine fantaasia fööniks hiilgus reinkarnatsioon surematu taassünd tõusev tõusmine tulelind tulilind
+🔁	kordus nool nupp päripäeva
+👪	laps perekond
+🤍	süda valge
+🪃	bumerang relv tagasilend tagasipöördumine
+🔧	mutrivõti tööriist
+🐶	armas koer kutsikas lemmikloom loom nägu
+🦌	hirv loom
+🎋	pidu puu tanabata soovipuu
+🕌	islam mošee moslem usk
+📔	dekoratiivse kaanega märkmik kaaned raamat
+🕗	00 8 8:00 kaheksa kell
+🐲	draakon loom muinasjutt nägu
+👊	käsi keha löök rusikalöök rusikas
+🫙	anum kaste maitseaine purk säilitama tühi
+🚇	metroo rong sõiduk
+🧏	juurdepääs kõrv kurt inimene kuulmine
+🤐	nägu saladus suletud suu tasa tõmblukk tõmblukusuuga vait
+👩	daam naine täiskasvanu
+🍡	dango jaapani magus magustoit pulk söök
+📧	kiri meil meilisõnum ümbrik
+🛜	arvuti internet juhtmevaba nutitelefon pääsupunkt ruuter ühendus võrk wifi wlan
+🐊	krokodill loom
+📌	nõel nööpnõel
+🕕	00 6 6:00 kell kuus
+⛲	purskkaev
+🔫	püstol relv revolver tööriist veepüstol
+🍐	pirn puuvili
+⚓	ankur laev tööriist
+🪆	matrjoška matrjoškad nukk vene
+📦	karp kast pakk saadetis saatmine suhtlus
+🧧	edu hóngbāo kingitus õnn punane ümbrik raha
+🪽	hõljuma ingellik lendab lennata lennundus lind mütoloogia taevalik tiib tõusma
+🎪	telk tsirkus tsirkusetelk
+😏	boss flirtima irvitama kahtlane kaval kelmikas lahe libe meeldiv muie muigama nägu nägus nali vennas
+🛄	kättesaamine pagas pagasi
+♑	kaljukits sodiaak
+🧑‍💼	ametnik arhitekt ärimees juhataja kontoritöötaja valgekrae
+🐁	hiir loom
+🐌	aed loom nälkjas tigu
+👩‍🌾	aednik farmer naine põllumees talunik
+🕑	00 2 2:00 kaks kell
+🎀	lint lips
+📪	postkast suletud langetatud lipuga
+🎮	mäng pult videomäng
+🔴	geomeetria punane ring
+🦞	homaar homaarisupp mereannid söök sõrad
+🛐	palvetamine pühakoda usk
+🛹	rula rulalaud
+👩‍🏭	liinitööline naine tehas tööline
+🙅	ei eitav inimene käsi keelama keelatud žest
+🏧	märk pangaautomaat pank silt sularaha teller
+🧢	müts nokk pesapall
+🫎	hirv imetaja loom põder sarved
+💁	abi info infoleti töötaja inimene käsi kõmu kuulujutt mida iganes naine sarkasm sarkastiline teave tõsiselt
+🈶	pole tasuta ideogramm jaapani keel nupp
+🌺	hibisk lill taim
+🤬	ärritunud nägu ropendav sümbolid suu tsensuur vanduv vihane
+🤢	iiveldus nägu okse paha rõve vastik
+💃	elegantne flamenko inimene naine pidulik salsa tango tants tantsimine
+🦋	ilus liblikas putukas
+🐥	eestvaates lind loom ornitoloogia tibu
+🚫	keelatud sisenemine
+💞	pöörlev pöörlevad südamed süda
+🥖	baguette pikk prantsuse sai söök toit
+🉑	vastuvõetav ideogramm jaapani keel nupp
+🚓	auto patrull politsei politseiauto sõiduk
+🧑‍🔬	bioloog füüsik insener keemik teadlane
+🔒	lukk lukus privaatne suletud tabalukk
+🐦‍⬛	kaaren kraaks lind loom must nokk ornitoloogia ronk vares
+😐	aa ebamugav emotsioonitu erapooletu igav ilmetu kade meh mida iganes nägu õnnetu piinlik sirge tõsine tühi
+🪘	aafrika djembe rütm trumm
+🎩	kübar müts riided torukübar
+👩‍🎤	laulja meelelahutaja naine näitleja rokk rokkstaar staar
+🦄	nägu ükssarvik
+🐠	kala loom troopiline
+🥥	kookospähkel palm piña colada söök
+🧣	kael külm sall
+🎿	lumi sport suusad suusk
+🌆	hoone ilm linna siluett videvikus loojang õhtu päike videvik
+🧐	elegantne monokkel nägu rikas uhke vanamoeline
+😭	kurb nägu nutt nuttev õnnetu pisar pisarad röökiv valjusti
+😰	ärev ärevil avatud higi hirmul kiirustav külm nägu sinine suu
+💣	koomiks kuum ohtlik plahvatus pomm
+🐪	dromedar kaamel kõrb küür loom
+👨‍🎓	lõpetaja mees õpilane
+👇	alla osutav sõrm käsi keha nimetissõrm osutamine
+🥉	koht kolmas medal pronks
+🚅	kiirrong nina raudtee rong shinkansen sõiduk terav
+🥳	elev hurraa müts nägu õnnelik palju õnne pasun peovile pidu pidutsemine sünnipäev tähistamine
+👳	inimene turban
+🎧	kõrvaklapid
+📨	e-post kiri meil sissetulev ümbrik
+⭐	keskmine täht tärn
+🫃	kõht mees puhitus rase täis ülesöömine
+🌌	kosmos linnutee tähed
+🧖	aurusaun hoolitsus inimene leil lõõgastav lõõgastus luksuslik päev ruum saun spaa
+🚠	gondel köis köistee mägi suusatamine
+🪙	dollar euro hõbe kuld metall münt raha rikas varandus
+🌵	kaktus kõrb loodus põud taim
+😲	ehmunud hämmastus löödud nägu omg
+🙃	hehe naeratus nägu tagurpidi
+🚶	inimene jalakäija jalutamine jalutuskäik kõndimine kõndiv kõnnak lonkimine mees samm
+👤	büst salapärane siluett vari
+🛶	kanuu paat
+🌓	ilm kasvav poolkuu kosmos kuu
+🌒	ilm kasvav kuusirp kosmos kuu noorkuu sirp
+👽	fantaasia maaväline nägu olend tulnukas
+🕡	30 6 6:30 kell pool seitse
+🐡	kala loom siilkala
+🛃	toll
+🥛	jook klaas piima piim
+🛟	elupäästev ohutus päästerõngas päästevahend pinnal püsima ujumine vetelpääste
+🫚	ingver juur looduslik õlu vürts
+🍋	puuvili sidrun söök taim
+🪶	kerge lendama suled sulg
+🫹	haare neutraalne osutama seda see vasakule
+👲	gua guapi hiina inimene mao müts pi pigimüts
+🤰	naine rase
+🧹	luud nõid puhastamine pühkimine
+💑	armastus paarike südamega romantika süda
+⛅	ilm päike pilve taga pilv
+🩶	armastan armastus emotsioon eriline hall hõbedane meeldib paehall süda
+🧨	dünamiit ilutulestik lõhkeaine pauk rakett säde valgus
+🏊	inimene sport triatlon ujuja ujumine vabastiil
+🕟	30 4 4:30 kell pool viis
+🩰	balletikingad ballett tants
+📀	arvuti blu-ray cd dvd ketas optiline
+🏃	inimene jooks jooksja jooksuvõistlus kiire kiirus kiirustamine liikumine maraton
+🧜	folkloor kolmhark meri muinasjutt näkk olend ookean sireen
+🔽	alla allanupp nool nupp
+💻	arvuti sülearvuti
+🧋	mull mullitee pärl pärlitee piim tee
+🫏	eesel imetaja jonnakas kangekaelne loom muul
+🪟	aken avamine läbipaistev raam vaade
+🐢	kilpkonn loom
+😤	aur nägu nina õnnetu pahane raev raevukas suits suitsev triumf tunded viha vihane võit
+👨‍🚀	astronaut kosmos mees rakett
+👩‍💻	arendaja arvuti naine programmeerija tarkvara tehnoloog
+🦠	amööb bakter mikroob viirus
+🥺	anuv halastus ilus kurb kutsikasilmad miks mitte nägu palun paluv silmad suur
+🤮	iiveldus okse oksendav nägu
+❗	hüüumärk kirjavahemärk punane
+🪼	akvaarium kombitsad kõrvetus loom meduus mereelukas meri mollusk ookean plankton põletus selgrootu
+🎺	muusika pill trompet
+🟥	nelinurk punane ruut
+😶	ilmetu nägu piinlik saladus sõnatu suu suuta tasa tühi tumm vaikne vaikus
+🧬	bioloog dna elu evolutsioon geen geneetika
+😵‍💫	hüpnotiseeritud nägu probleem segaduses spiraalne spiraalsilmadega uimane
+📸	foto kaamera pildistamine välguga välk
+👩‍🔧	elektrik mehaanik naine torulukksepp
+💧	higi ilm koomiks külm piisk pisar
+🪂	langevari langevarjuga hüppamine langevarjuhüpe langevarjur
+🎃	halloween kõrvits kõrvitsalatern latern
+🫟	holi plärakas plekk pritse värv
+💖	elevil sädelev süda sära
+💜	armastus emotsioon lilla parimat süda
+🚀	kosmos rakett sõiduk
+🎑	festival kuu kuutseremoonia tseremoonia
+🍦	jäätis magus magustoit pehme restoran söök
+🥀	lill närbunud suremas
+😣	fookus keskendunud nägu peavalu pühendunud sihikindel sihikindlus
+📰	ajaleht uudised
+🥊	kinnas poks poksikinnas sport
+🧑‍🏫	koolitaja õpetaja professor
+🔺	geomeetria punane kolmnurk üles
+📺	teler tv video
+🦬	kari loom piison pühvel pürg
+👸	fantaasia kroon kuninganna kuninglik muinasjutt printsess
+😋	maitsev naeratamine naeratus nägu näljane nautima sööma täis toit
+👗	kleit riided
+🦎	loom roomaja sisalik
+🫳	käsi peopesaga allapoole kõss kukkuma kukutama lahti laskma loobuma üles võtma
+🥎	kindad pall pehmepall pesapall vise
+💉	arst haigus nõel ravim süstal
+🪧	meeleavaldus plakat protest silt
+🌃	ilm öine tähistaevas öö täht
+📕	raamat suletud
+😇	aupaiste fantaasia haldjas ingel ingellik inglid jutt muinasjutt naeratamine naeratus nägu õnnelik õnnistatud rahulik süütu vaim
+🍃	leht taim tuul tuules lendlev
+🫒	oliiv toit
+🔜	nool soon varsti
+🧑‍🍼	beebi imetamine imik inimene lapsehoidja toitmine vanem
+🚍	auto buss eestvaates
+🧄	küüslauk maitseaine
+👯	hingesugulased identne inimesed jänes kaaslane kaksik kaksikud kõrv paar parim pidu pidutsemine sõber tantsija topelt
+🪤	hiir hiirelõks juust lõks püünis sööt
+🥸	inimene inkognito kulmud maskeerima maskeering maskeeritud nägu nina prillid spioon vuntsid
+🥅	sport värav väravavõrk võrk
+🍪	küpsis magus magustoit söök
+🔎	otsi paremale kallutatud luup suurendusklaas tööriist
+🩴	plätud rannajalatsid rannasandaalid sandaalid varbavahesandaalid
+💢	koomiks tige viha sümbol vihane
+🥙	falafel gyro kebab pita täidetud toit
+🐈	kass kassipoeg koer lemmikloom loom
+📥	alus kast kiri post sissetulev
+🚮	praht prügikast prügikasti silt
+🟨	kollane nelinurk ruut
+🥼	arst katse laborant laborikittel teadlane
+🧱	mört savi sein telliskivi telliskivid
+🧈	piimatoode või
+💓	löök pulss süda tukslev
+🎏	kala kalakujuline vimpel lipp
+♈	jäär sodiaak
+🛌	head ööd hotell inimene voodis uni voodi
+🦇	loom nahkhiir vampiir
+🚐	buss sõiduk väikebuss
+🐬	delfiin loib loom ookean rand
+🐅	kass kiskja loom suur tiiger zoo
+🌉	ilm öö sild öösel
+🤌	hoidma kannatlkkus käsi kokkusurutud küsima lõõgastus mida sarkastiline sõrmed žest
+🛀	inimene vannis vann
+👶	beebi beebid imik lapsed noor rase vastsündinu
+🍁	langev leht taim vaher vahtraleht
+🚜	sõiduk traktor
+💠	geomeetria koomiks punktiga romb sees teemant
+😚	flirtima kohtama kohting musid nägu punastama silm silmad suletud suudlus suudlused xoxo
+👮	arreteerimine konstaabel politsei politseinik salapolitseinik seadus tee äärde
+🍥	kala keerdudega kook kotlet pirukas restoran söök spiraal
+🧌	fantaasia koletis muinasjutt troll trollimine
+👠	king konts kõrge kontsaga naine riided
+🧑‍🎄	fantaasia jõulud päkapikk pühad tähistamine
+👩‍🏫	juhendaja naine õpetaja õppejõud professor
+🌴	loom palm puu rand taim
+🏭	hoone tehas
+🔷	geomeetria romb sinine suur teemant
+💡	elekter idee lamp pirn valgus
+🪾	põud raagus puu talv viljatu
+🔙	nool back tagasi
+🫲	hoidma käepigistus käsi sirutama vasak vasakule
+💒	kabel kirik pulmad romantika
+🆔	id identiteet nupp
+🧑‍🩰	ballett tantsija
+🥪	leib võileib
+⌛	kell liiv liivakell
+🔀	juhuslik juhusliku järjekorra nupp nool risti
+😦	avatud hirmul hirmus kulmukortsutamine kulmukortsutus mida nägu suu tabatud üllatus valves vau
+🍄‍🟫	köögivili loodus pitsalisandid portobello pruun seen puravik šampinjon shiitake söök spoor taimetoit toit trühvel
+🦫	hambad kobras loom tamm
+🥚	hommikusöök muna toit
+🛑	kaheksanurk märk stopp
+🎫	pääse pilet
+👺	fantaasia koletis koll mäekoll muinasjutt nägu olend
+🤷	ei tea idk inimene kehitus kes teab ma mida iganes õlakehitus õlg teadmatus ükskõiksus võib-olla
+🦏	loom ninasarvik
+🍿	film mais popkorn
+☕	jook kohv kuum tee
+📴	mobiil telefon väljalülitatud mobiiltelefon väljas
+👘	kimono riided
+🚈	kergraudtee raudtee rong saabunud sõiduk
+🧷	haaknõel mähe punkrokk
+🍔	burger hamburger kiirtoit näljane söök
+🔸	geomeetria oranž romb teemant väike
+🎎	festival jaapani nukud nukk
+🧘	jalad risti jooga joogi lõõgastav lõõgastus lootosasendis inimene lootoseasendis meditatsioon mediteerimine rahu rätsepaiste rististe zen
+🥾	matk matkaja matkamine matkasaabas saabas seljakotimatk
+🦙	alpaka guanako laama loom vikunja vill
+🆚	nupp versus vs
+🧦	sokid sokk sukad sukk
+🛕	hindu hinduism hinduistlik tempel
+💝	lindiga süda lint sõbrapäev
+🔂	kordus nool nupp päripäeva ühe
+🌷	kasv lill õis taim tulp
+🧑‍🧑‍🧒	laps perekond täiskasvanu
+🥰	armunud imetlev naeratav kolme südamega nägu südametega sisse võetud
+💍	abielus kihlatud kihlus pulmad romantika sädelev särav sõrmus teemant
+🕖	00 7 7:00 kell seitse
+🚷	jalakäija jalakäijad keelatud
+🐾	jalg jälg käpajäljed käpp
+👨‍🎨	kunstnik mees palett
+🍤	krevett praetud söök tempura
+🦢	inetu pardipoeg lind luigepoeg luik
+🔏	lukk ja pastakas sulepea privaatsus tint
+⛄	ilm külm lumememm lumeta lumi
+💀	kolp kondid luud muinasjutt nägu pealuu surm
+🏴	lehvimine lipp must
+👍	käsi keha meeldib pöial püstine
+🧑‍💻	arendaja programmeerija tarkvara tehnoloog
+🪊	džäss instrument kurb muusika puhkpill
+🌭	dog frankfurter hot hotdog vorst
+♎	kaalud sodiaak
+🪇	instrument kõristi löökpill marakad marakas muusika pidu pill raputus
+💂	buckingham kiiver london palee valvur
+🛸	lendav taldrik maaväline tulnukad ufo
+➰	lokk silmus
+🎴	jaapan kaardid kaart lill mäng
+🦪	auster elus karp pärl sukeldumine
+🪯	deg fateh khalsa khanda religioon sikh sikhism tegh
+🛅	hoiukapid kapp pagas
+🉐	soodne ideogramm jaapani keel nupp
+🧑‍🏭	liinitööline tehas tehasetööline tööline
+🔰	algaja sümbol kollane leht roheline
+🫍	mereline ookean vaal
+♊	kaksikud sodiaak
+🍒	kirsid kirss marjad punane puuvili
+🦘	hüpe känguru kukkur kukkurloom loom
+🦯	kohalejõudmine ligipääs pime valge kepp
+🧼	pesemine puhastamine seebialus seebivaht seep tükiseep
+🧿	amulett helmes kuri silm nazari talisman
+🎱	8 kuul mäng piljard piljardikuul
+🍭	komm magus magustoit pulgakomm restoran söök
+🥈	hõbe koht medal teine
+🔬	eksperiment labor mikroskoop teadus tööriist
+🤞	käsi õnn risti sõrmed
+🍛	karri riis söök
+👌	äge hästi käsi kindlasti kolm korras näpistama ok okei selge vinge
+👆	käsi keha nimetissõrm osutamine sõrm üles osutav tagantvaates
+👉	käsi keha nimetissõrm osutamine paremale osutav sõrm
+🎍	bambus mänd puu taim väravamänd
+🧔	habe habemega inimene vuntsid
+🦶	jalalaba jalalöök jalg pahkluu trampimine
+🈺	avatud ideogramm jaapani keel nupp
+🧮	arvelaud arvutamine
+🏁	finiš lipp lipud mäng ralli ruuduline ruudulipp sport võidusõit võit
+🙈	ahv kaetud silmadega keelatud keeld kuri nägu vaatamine
+🍠	bataat kartul röstitud söök
+🕋	islam kaaba moslem usk
+🫓	arepa lameleib lavašš naan pita
+😠	ärritunud frustreerunud nägu õnnetu pahane raev süüdi tige tunded viha vihaleajav vihane
+🫶	<3 armastan sind armastus käed süda südant moodustavad
+🤖	koletis nägu robot roboti
+◾	geomeetria keskmine must ruut väike
+🤤	ilastav nägu
+🏹	ambur nool relv vibu ja
+💔	emotsioon kurb murtud süda üksik
+🍍	ananass colada pina puuvili troopiline
+🤱	ema imetamine imik naine rind rinnaga toitmine
+👨‍🍼	beebi imik isa issi lapsehoidja mees toitma toitmine
+👫	flirt käed kaksikud kallim kinni kohting naised paar parim sõber sõbrad tüdrukud
