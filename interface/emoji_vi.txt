@@ -1,1261 +1,1261 @@
 # Mots-clés d'emoji en « vi » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	mới new nút
-🧑‍🤝‍🧑	cặp đôi giữ hai người nắm tay
-◽	hình học vuông nhỏ vừa màu trắng
-⛽	bơm nhiên liệu diesel gas khí trạm
-🔓	khóa mở
-👄	cơ thể hôn làm đẹp miệng môi
-🍴	ăn sáng bữa tối trưa cho dao dĩa đồ đói nấu ngon miệng nhà hàng
-🏒	băng gậy khúc côn cầu trên trận đấu
-💦	bắn tung tóe giọt mồ hôi nước hài hước tập thể dục
-🎐	chuông gió kêu vang lễ kỷ niệm
-😼	châm biếm con mèo khuôn mặt cười gượng mỉa mai nụ
-😉	mặt nháy mắt
-📛	tên thẻ
-🚉	đường sắt ga tàu hỏa
-💌	lá thư tình trái tim yêu
-🆘	nút sos trợ giúp
-🛙	ánh sáng biển đèn điều hướng giác ngộ hàng hải dẫn hy vọng tín hiệu
-🍯	hũ mật ong ngọt
-😿	buồn khóc mặt mèo đang nước mắt
-🫜	củ cải đường rau rễ vườn
-😳	choáng váng đỏ mặt ửng
-🚨	ánh sáng cảnh sát đèn hiệu xe quay vòng hơi
-🚌	trường học xe buýt cộ
-🌇	chạng vạng hoàng hôn mặt trời
-🔝	lên mũi tên top
-🙊	cấm điều xấu khỉ không nói mặt
-🐙	bạch tuộc đại dương động vật sinh
-🕦	11 11:30 ba mươi đồng hồ mười một giờ phút
-🕞	3 3:30 ba giờ mươi phút đồng hồ
-🙌	cử chỉ hai bàn tay giơ lên hoan hô lễ kỷ niệm nâng
-🚗	ô tô xe cộ
-🕥	10 10:30 ba mươi đồng hồ mười giờ phút
-🥱	buồn ngủ chán không quan tâm mặt đang ngáp mệt mỏi thôi sao cũng được
-🐎	cưỡi ngựa đua
-👩‍🚒	lính cứu hỏa nữ xe
-🪉	âm nhạc dàn cụ thần tình yêu
-🫁	cơ quan hít vào hô hấp hơi thở phổi ra
-📲	di động điện thoại có mũi tên gọi nhận
-💚	màu lục trái tim
-📶	ăng-ten di động điện thoại vạch
-🫦	cắn môi hồi hộp khó chịu lo âu lắng sợ hãi tán tỉnh
-🌅	bình minh buổi sáng mặt trời thiên nhiên
-🌂	chiếc ô mưa đã đóng quần áo
-🍲	hầm nồi thức ăn súp
-🪜	bậc thang leo trèo nấc
-✅	✓ chọn dấu đậm màu trắng tích nút
-📑	đánh dấu trang tab
-👣	các dấu chân trần in quần áo
-👀	đôi mắt mặt
-🤸	hào hứng lăng nghiêng người nhào lộn thể dục dụng cụ vui vẻ
-⭕	o vòng tròn lớn đậm
-😆	cười ngặt nghẽo ngoác miệng như được mùa to hài lòng mặt há mắt nhắm chặt
-🔄	làm mới mũi tên ngược chiều kim đồng nút hồ tua lại
-🟢	hình tròn màu xanh lá cây vòng lục
-🧗	leo núi trèo người đang phụ nữ nhà
-🌟	chiếu sáng lấp lánh ngôi sao phát
-🤧	cúm hắt hơi mặt sức khỏe
-🔛	dấu mũi tên on
-🪫	điện tử năng lượng thấp pin yếu
-⏰	báo thức đồng hồ muộn thời gian
-🥕	cà rốt thức ăn thực vật
-➿	cong kép vòng lặp đôi
-🥂	chạm cốc chúc mừng đồ uống tiếng keng
-🪲	bọ cánh cứng côn trùng động vật
-🩹	băng dán y tế dính vết thương
-🟧	da cam hình vuông màu ô
-📍	đinh ghim hình tròn
-😽	con mèo hôn khuôn mặt mắt nhắm
-🐤	chim gà con
-🤵	bộ vest chú rể người mặc
-🛼	con lăn giày trượt patin thể thao
-🧩	đầu mối ghép hình vào nhau mảnh trò
-🛝	cầu trượt chơi khu vui
-🔇	cái loa im lặng không ồn ào tắt tiếng
-🏥	bác sĩ bệnh viện thuốc
-🚔	cảnh sát đang tới xe hơi
-💶	euro hoá đơn tiền giấy tệ
-🥭	nhiệt đới trái cây xoài
-🫂	cảm ơn hai người ôm nhau tạm biệt tình bạn yêu xin chào
-🔳	hình học vuông mờ nút màu trắng
-💹	biểu đồ đồng yên tăng tiền
-🧺	cái giỏ dã ngoại giặt ủi trồng trọt
-😖	mặt xấu hổ
-🔐	bảo mật chìa đóng khóa với
-🈯	“đặt trước” chữ tượng hình nút tiếng nhật
-🏦	ngân hàng tòa nhà
-🍧	bào đá kem món tráng miệng ngọt
-🧍	đang đứng người
-🟠	da cam hình tròn màu vòng
-⛔	cấm vào giao thông không cho phép lối
-✊	cú đấm đoàn kết nắm giơ lên tay siết chặt
-🌜	mặt trăng phần tư hạ huyền hình người
-😹	mặt mèo có nước mắt vui sướng niềm
-🧾	biên nhận chứng từ ghi sổ sách giấy tờ thực hóa đơn kế toán
-🪩	buổi tiệc disco khiêu vũ long lanh quả cầu gương sàn nhảy
-🏇	cuộc đua ngựa người cưỡi
-👦	cậu bé con trai
-🏸	cầu lông kỹ thuật ghi trái trò chơi vợt
-🥜	đậu phộng quả hạch rau củ thức ăn
-📱	di động điện thoại
-🕎	cây đèn menorah nến giá đỡ tôn giáo
-🚙	giải trí ô tô tiện ích thể thao xe cộ đa dụng
-🖤	đen điều ác tim xấu
-🪬	bùa hộ mệnh fatima hamsa mary miriam sự bảo vệ tay
-🚴	đạp xe người đi thể thao vận động viên đua
-🍷	đồ uống ly rượu vang quán ba
-💊	bác sĩ bệnh thuốc viên vitamin
-🍀	4 bốn cỏ lá cây thực vật
-🪌	chà xát hoàn tác loại bỏ lỗi sai sót sửa đổi tẩy vẽ viết xoá
-😷	bác sĩ lạnh mặt đeo khẩu trang y tế nạ ốm
-📆	lịch quyển bloc
-🙉	cấm điều xấu khỉ không nghe mặt
-💱	đổi tiền ngân hàng tệ
-🩻	bác sĩ bộ xương x-quang y tế
-🏠	ngôi nhà
-📙	màu cam sách
-🥔	khoai tây thức ăn thực vật
-💮	hoa trắng
-🥌	bi đá trên băng trò chơi
-💩	chất thải đống phân hài hước khuôn mặt quái vật
-🍳	cái chảo chiên nấu ăn trứng
-🦈	cá mập động vật
-🌼	bồ công anh hoa thực vật
-😜	lưỡi mắt mặt lè nháy nói đùa
-🪁	bay lên lượn diều
-⛎	con rắn cung hoàng đạo người mang xà phu
-🍾	bật ra chai rượu với nút gỗ đồ uống quán bar
-🧇	bánh quế bữa sáng cứng cỏi thiếu quyết đoán
-🛞	bánh xe hình tròn lốp xoay
-📜	cuộn giấy sách
-🧎	đang quỳ người gối
-🌕	mặt trăng tròn
-💽	đĩa máy tính mini quang học
-💙	màu lam trái tim
-📏	cạnh thẳng thước kẻ toán
-🥡	cái xô đũa giao hàng hàu hộp mang đi đồ ăn
-🕔	00 5 5:00 đồng hồ giờ năm
-🤩	cười toét mắt mặt ngôi sao ngưỡng mộ
-🟦	hình vuông màu xanh da trời lam ô
-🐍	chòm sao xà phu cung hoàng đạo động vật rắn mang
-🐉	động vật hiệp sĩ rồng truyện cổ tích
-🪎	bạc chiến lợi phẩm đá quý đồ trang sức vật có giá trị giải thưởng sự giàu tiền vàng
-💯	100 điểm một trăm toàn bộ
-🌝	khuôn mặt trăng tròn sáng
-♏	bọ cạp cung hoàng đạo lá số tử vi thiên yết
-🪞	gương phản xạ ánh chiếu trang điểm
-💅	chăm sóc đánh bóng làm móng tay mỹ phẩm sơn
-🫫	sự căng thẳng che giấu chuyển hoá hé lộ kiên cường sụp đổ tan vỡ
-🈁	“tại đây” katakana nút tiếng nhật
-🍵	cốc đồ uống tách trà không có quai
-⏳	bộ định thời cát đồng hồ đang chảy
-🌙	lưỡi liềm mặt trăng
-🤭	mặt với tay che miệng cười xin lỗi
-🥗	salad rau xanh thức ăn
-🈹	“giảm giá” chữ tượng hình nút tiếng nhật
-🔔	cái chuông giờ nghỉ nhà thờ
-🦹	ác độc người nhân vật phản diện siêu năng lực tội phạm xấu xa
-🙎	bĩu môi cáu kỉnh cử chỉ hờn dỗi người đang nhăn nhó thất vọng
-🫴	bàn tay có lòng hướng lên bắt đến mời gọi vẫy
-👨‍🦽	hỗ trợ tiếp cận người đàn ông trên xe lăn tay
-🙇	cầu xin cử chỉ cúi người hối tiếc lấy làm lời lỗi đang đầu tha thứ tội nghiệp
-🔈	âm lượng loa thấp thanh nhẹ nhỏ
-🍋‍🟩	chanh ta họ cam quýt hoa quả margarita mojito nhiệt đới nước ép sốt tequila vị chua
-🪖	chiến binh mũ bảo hiểm sắt quân đội người lính sự
-🪰	bệnh con ruồi côn trùng động vật giòi thối rữa
-👧	bím tóc cô gái con cung hoàng đạo trẻ xử nữ
-🍂	lá rụng thực vật
-🍝	nhà hàng pasta spaghetti thịt viên thức ăn
-🧑‍🦼	khả năng tiếp cận người trên xe lăn điện
-🏂	người trượt ván tuyết
-🏬	cửa hàng bách hóa
-🤾	bắt bóng ném lốp người chơi phát thể thao vận động viên
-🌳	cây rụng lá rơi
-🏐	bóng chuyền quả trò chơi
-🧴	chai sữa dưỡng da dầu gội kem chống nắng ẩm
-💨	chạy chớp nhoáng hài hước lao đi
-🪱	động vật giun đất đốt ký sinh trùng sâu
-🫕	lẩu phô mai nấu chảy nồi sô cô la thức ăn trượt tuyết
-🕧	12 12:30 ba mươi đồng hồ mười hai giờ phút
-🥣	bát bữa sáng cháo ngũ cốc thìa yến mạch
-🍞	bánh mì nướng lúa ngũ cốc nhà hàng ổ thực phẩm tinh bột
-🌚	mặt trăng non
-🦨	chồn hôi mỹ động vật mùi
-🚹	nam nhà vệ sinh phòng wc
-🪅	buổi tiệc kẹo kỷ niệm lễ hội người mexico pinata piñata
-🪢	bện buộc dây thừng nút thắt rối xoắn
-🫢	hoài nghi kính nể kinh ngạc mặt với cặp mắt mở to và tay che miệng nhiên sợ hãi xấu hổ
-🎻	đàn violin nhạc cụ
-🛫	điểm khởi hành làm thủ tục máy bay tàu
-💐	bó hoa cây hẹn hò kỷ niệm lãng mạn sinh nhật tình yêu
-👎	-1 dấu ra hiệu từ chối không thích ngón tay cái xuống
-🤟	anh yêu em ba ngón tay cử chỉ nhau
-♋	con cua cự giải cung hoàng đạo lá số tử vi
-🦸	anh hùng người dơi nữ siêu năng lực tốt
-👏	hai bàn tay đang vỗ
-🧚	cánh tiên kỳ ảo oberon puck thần thoại titania
-🏢	công việc dạng lập phương thành phố tòa nhà văn phòng
-🧻	cuộn giấy toilet vệ sinh
-🔅	độ sáng mờ nút thấp
-🆓	free nút
-🪛	bắt vít đầu phẳng dụng cụ tua
-📖	mở sách đang
-🍬	kẹo món tráng miệng ngọt
-🃏	lá bài quân phăng teo trò chơi
-🧪	hóa học khoa nhà ống nghiệm phòng thí
-🍟	đồ ăn nhanh khoai tây chiên kiểu pháp
-🌏	châu á á-châu úc địa cầu thế giới thể hiện trái đất
-🧵	kim may ổng chỉ sợi xâu
-🆎	ab nhóm máu nút
-👩‍🍼	cho bú con đàn ông em bé mẹ người phụ nữ tình yêu trẻ sơ sinh
-🕛	00 12 12:00 đồng hồ giờ mười hai
-🍰	bánh miếng món tráng miệng ngọt
-🦩	hồng hạc nhiệt đới rực rỡ
-😁	cười nhe răng và mắt mặt
-⬛	hình học vuông lớn màu đen
-🪻	bluebonnet bụi hoa cây đậu lupin dạ lan hương len mũ xanh mõm sói oải tiên ông tử đinh lục bình màu chàm mùa xuân tím
-🖖	ngón tay spock thần lửa
-🪍	bắt bẫy lưới thu thập
-⌚	đồng hồ đeo tay thời gian
-🐯	dã thú động vật hổ mặt
-🚧	công trường rào chắn
-🔵	hình học tròn màu lam
-🌄	bình minh trên núi buổi sáng mặt trời
-🚾	nhà vệ sinh nước phòng wc
-📮	hòm thư hộp
-🦽	hỗ trợ tiếp cận năng xe lăn tay
-🌁	có sương thời tiết
-🫈	chân to khổng lồ người rừng tuyết nhiều lông sinh vật bí ẩn yeti
-🦷	nha sĩ răng trắng ngọc
-🪺	làm tổ có trứng
-🐜	côn trùng động vật kiến vườn
-🔋	pin
-🟡	hình tròn màu vàng vòng
-🌑	bóng tối mặt trăng non
-😩	kiệt sức mặt mệt mỏi
-🛒	mua hàng xe đẩy
-🆗	nút ok
-🪝	bắt bẫy cái móc điểm bán hàng đường cong
-🥞	bánh kếp thức ăn
-💳	ngân hàng thanh toán thẻ tín dụng tiền
-🦗	bọ bộ cánh thẳng châu chấu côn trùng dế động vật
-🫛	đậu hà lan nành quả rau vỏ
-🥧	bánh bí đỏ bột nhào miếng nhồi táo thịt trái cây
-🧸	đồ chơi gấu bông nhồi vải lông
-🧛	bất tử đáng sợ dracula halloween hóa trang ma cà rồng máu răng nanh siêu nhiên xác sống
-🟪	hình vuông màu tím tía ô
-🐱	động vật mặt mèo thú cưng
-🦺	an toàn áo bảo hộ cứu khẩn cấp
-🈴	“vượt cấp” chữ tượng hình nút tiếng nhật
-🍏	hoa quả táo xanh
-🌠	ngôi sao phóng rơi băng
-❌	dấu gạch chéo hủy nhân x
-🐸	ếch mặt
-🧀	miếng pho mát phô mai
-🪕	âm nhạc có dây đàn banjo
-🐩	chó xù cún động vật
-🦻	hỗ trợ tiếp cận nặng tai đeo thiết bị thính
-👩‍🦼	hỗ trợ tiếp cận người phụ nữ trên xe lăn điện
-🧙	bà cốt đạo sĩ đồng kỳ ảo pháp sư phép thuật phù thủy thần chú thầy thuỷ triệu hồi
-👨‍🏫	giáo sư viên nam người hướng dẫn
-💄	mỹ phẩm son môi trang điểm
-🚘	đang tới ô tô xe hơi
-👨‍🏭	công nghiệp nhân nhà máy nam lắp ráp
-🏣	bưu điện nhật bản kiểu
-🫐	hoa quả màu xanh mọng việt quất thực phẩm
-🦑	động vật mực ống thân mềm thức ăn
-🐵	động vật khỉ khuôn mặt quả chuối
-🧊	băng đá lạnh viên
-🤿	bình dưỡng khí ôxy lặn mặt nạ ống thở
-📼	băng vhs video
-💟	hình trang trí trái tim
-🎥	bollywood hollywood máy quay phim rạp chiếu
-🧥	áo choàng khoác lạnh
-🐽	động vật lợn mặt mõm mũi ngửi trang trại
-👭	bạn tốt nhất cặp đôi đồng tính nữ hai người phụ nắm tay
-🚝	đường một ray xe cộ
-🩷	dễ thương hồng thích trái tim màu yêu
-🧑‍🎓	sinh viên tốt nghiệp
-🏡	ngôi nhà có vườn
-😮‍💨	huýt sáo kiệt sức mặt thở ra mệt mỏi rên rỉ thì thầm dài hắt hổn hển
-🔣	〒♪&% nhập biểu tượng
-🪚	cắt cưa mộc dụng cụ gỗ xẻ thợ
-🧕	hijab khăn trùm đầu vuông người phụ nữ quàng tichel
-🦂	bọ cạp cung hoàng đạo
-➖	- − dấu toán trừ
-😮	mặt có miệng há mở thông cảm
-🪸	đại dương rặng san hô
-🚊	ô tô điện xe
-😟	lo lắng mặt
-📇	chỉ mục thẻ hộp danh thiếp
-🌽	bắp ngô
-📫	đóng hòm thư hộp được với lá cờ đứng
-🚄	đường sắt tàu cao tốc nhật bản hỏa độ
-🧑‍🎨	bảng màu họa sĩ
-🪪	bảo mật căn cước công dân cccd chứng minh nhân cmnd giấy phép thẻ nhận dạng
-🫖	ấm trà đồ uống thực phẩm ủ
-🕘	00 9 9:00 chín đồng hồ giờ
-🈵	“hết phòng” chữ tượng hình nút hết phòng bằng tiếng nhật
-🐔	chim động vật gà
-👩‍🦽	hỗ trợ tiếp cận người phụ nữ trên xe lăn tay
-🛗	kéo lên khả năng tiếp cận nhấc thang máy
-🍊	hoa quả cam quýt
-🤒	mặt có miệng ngậm nhiệt kế mệt ốm
-🎾	cái vợt quả bóng quần
-🤡	hề mặt
-💰	đô la tiền túi
-🛴	đẩy xe hẩy
-🪷	ấn độ giáo hoa sen phật sự tinh khiết việt nam
-🦉	chim cú động vật khôn ngoan
-🐛	bọ côn trùng động vật vườn
-📣	cổ vũ loa phóng thanh
-😱	kinh sợ la hét mặt hãi
-🥨	bánh quy xoắn
-📎	kẹp giấy
-🍩	bánh rán vòng món tráng miệng ngọt
-🐕	chó thú cưng
-🧑‍🧒‍🧒	gia đình người lớn trẻ em
-🪮	afro chải kiểu tóc lược pick
-🫗	đổ chất lỏng đồ uống ly thủy tinh tràn trống rỗng
-📳	chế độ rung di động điện thoại
-💏	cặp đôi hẹn hò nụ hôn yêu
-🔮	dụng cụ giả tưởng pha lê quả bóng cầu truyện cổ tích vận may
-🙆	cử chỉ đồng ý người ra hiệu ok tay thể dục
-🏈	bóng bầu dục mỹ người quả
-🥿	giày bệt búp bê đi trong nhà lười
-🦿	chân giả hỗ trợ tiếp cận
-💆	đau đầu mặt mát xa người được xoa bóp thẩm mĩ viện thư giãn trị liệu
-🫯	bất đồng quan điểm cãi nhau vã đánh náo loạn tranh luận vật lộn
-🫰	bàn tay với ngón trỏ và cái bắt chéo búng đắt tiền bạc tình yêu trái tim
-🥯	bánh mỳ vòng bữa sáng phết tiệm
-🦜	chim con vẹt cướp biển nói chuyện
-👨‍🌾	nam người làm vườn nuôi súc vật nông dân
-👖	quần áo bò dài
-🦕	khủng long chân thằn lằn to ăn cây cối hai óc uyển
-🚯	bị cấm nghiêm xả rác không
-🩱	áo tắm một mảnh bộ
-➕	+ cộng dấu toán
-😡	cơn thịnh nộ điên đỏ hờn dỗi mặt tức giận
-🥋	đồng phục võ thuật judo karate taekwondo thể thao
-🐣	ấp gà con mới nở
-👑	gia đình hoàng nữ quần áo vua vương miện
-🏆	chiến thắng cúp giải thưởng thể thao vô địch
-🦔	có gai nhím
-✋	bàn tay giơ lên dừng lại
-🔪	dao làm bếp dụng cụ hocho nấu nướng vũ khí
-🪔	dầu đèn diya
-🐏	cung bạch dương hoàng đạo cừu đực
-🟣	hình tròn màu tím tía vòng
-🥦	bông cải xanh bắp dại hoa lơ xúp
-👜	mua sắm quần áo túi xách ví
-🍎	đỏ hoa quả táo
-🍜	bát đũa mỳ ramen nóng hổi phở súp thức ăn
-🐓	chim động vật gà trống
-🪑	chỗ ngồi ghế
-🧠	não thông minh
-📘	sách màu lam xanh
-🛬	đến điểm hạ cánh máy bay nơi
-🍘	bánh quy giòn gạo thực phẩm
-🦚	chim con công mái phô trương tự hào
-🎆	giải trí lễ kỷ niệm pháo hoa
-🫌	biến đổi côn trùng di cư hoá bướm hy vọng mỏng manh sâu thay
-🤯	bị sốc đầu nổ tung
-🟩	hình vuông màu xanh lá cây ô lục
-🈲	“bị cấm” chữ tượng hình nút tiếng nhật
-😈	cười mặt có sừng truyện cổ tích tưởng tượng
-💗	bị kích thích lo lắng nhịp tim phát triển trái lớn dần
-🔼	đỏ mũi tên nút đi lên
-🎈	bóng bay lễ kỷ niệm sinh nhật
-🦀	cua cung cự giải hoàng đạo
-🩸	chấn thương chu kỳ kinh nguyệt giọt máu hiến thuốc y tế
-📄	tài liệu trang hướng lên trên
-🐋	bờ biển cá voi đại dương động vật
-🍌	chuối hoa quả kali
-🤕	băng đau mặt đeo đầu vết thương
-👡	giày phụ nữ quần áo xăng đan
-🏤	bưu điện kiểu châu âu
-🏓	bóng bàn gậy quả trò chơi vợt đánh
-🧁	bánh ngọt nướng nhỏ tiệm tráng miệng
-🌲	cây thông thường xanh giáng sinh rừng
-🎂	bánh sinh nhật lễ kỷ niệm món tráng miệng ngọt
-💋	dấu nụ hôn môi
-🤔	đang suy nghĩ mặt
-⛳	cờ trong lỗ gôn thể thao
-🧫	đĩa petri nhà sinh vật học nuôi cấy phòng thí nghiệm vi khuẩn
-🥠	bánh quy may mắn tiên tri
-👐	hai bàn tay đang xòe mở ra
-😃	cười há to mặt mắt mở miệng
-👅	cơ thể lưỡi
-🤨	hoài nghi mặt với lông mày rướn lên ngờ vực
-🎌	bắt chéo cờ gạch kiểu nhật bản lễ kỷ niệm
-💫	choáng váng hài hước ngôi sao
-🤹	cân bằng đa năng nhiệm giữ thăng kỹ người đàn ông tung hứng
-📠	fax máy
-🚪	cửa sau trước
-🥹	buồn chịu đựng giận giữ khóc mặt kìm nén nước mắt tự hào
-🌖	cuối tháng mặt trăng khuyết
-🙏	cảm ơn cầu nguyện chắp tay hỏi làm
-🧑‍🎤	ca sĩ diễn viên nghệ ngôi sao nhạc rock
-🪥	bàn chải răng nha khoa phòng tắm sạch sẽ vệ sinh
-🏄	bãi biển lướt sóng người thể thao vận động viên
-👩‍🔬	kỹ sư người phụ nữ nhà hóa học khoa sinh vật lý
-🤺	đấu kiếm người đánh
-🎠	đu quay ngựa giải trí
-🈳	“còn trống” chữ tượng hình nút tiếng nhật
-🔥	dụng cụ lửa ngọn
-🪿	cầm điểu chim con gà ngỗng vịt đàn động vật kêu khờ dại ngây ngô
-🍨	kem món tráng miệng ngọt
-🕓	00 4 4:00 bốn đồng hồ giờ
-🔯	may mắn ngôi sao sáu cánh có dấu chấm
-📉	biểu đồ giảm thị xu hướng xuống
-🐀	chuột cống động vật
-👟	giày chạy bộ đế mềm quần áo thể thao
-📯	bưu chính điện kèn
-😅	căng thẳng chán nản cười nhe răng hào hứng lạnh lo lắng mặt miệng mỉm mở mồ hôi
-🦛	động vật hà mã
-🌛	mặt phần tư trăng thượng huyền hình người
-👔	áo sơ mi cà vạt quần trang trọng
-🧡	màu cam trái tim
-❔	chấm câu dấu hỏi màu trắng mờ
-🐺	chó sói mặt
-🪹	làm tổ trống rỗng
-🤴	cổ tích giả tưởng hoàng gia tử vua vương miện
-🌘	cuối tháng không gian lưỡi liềm mặt trăng
-🩺	bác sĩ ống nghe tim y tế
-🍣	sushi thực phẩm
-🍢	hải sản kẹp món oden que xiên
-🦐	nhỏ thức ăn tôm cua
-🫺	cầm chỉ đó này phải trung lập
-🍮	bánh trứng món tráng miệng ngọt
-🥐	bánh móng ngựa mỳ sừng bò pháp thức ăn
-🔖	đánh dấu trang
-🥟	bánh bao sủi cảo
-🎭	biểu diễn mặt nạ nghệ thuật nhà hát
-🈚	“miễn phí” chữ tượng hình nút tiếng nhật
-🚋	ô tô điện tàu toa xe
-🚦	biển báo đèn giao thông dọc
-😒	buồn không vui mặt
-🔹	hình học thoi nhỏ màu lam
-🪴	chậu cây mọc nhà nuôi dưỡng thực vật trang trí trồng trong
-🧰	cơ khí dụng cụ hòm hộp thợ máy
-🦃	chim gà tây tạ ơn
-🍄	nấm thực vật
-🟤	hình tròn màu nâu vòng
-🫱	bàn tay hướng sang bên phải
-🧟	halloween kinh dị tận thế xác chết sống lại zombie
-👨‍🎤	ca sĩ nam diễn viên nghệ ngôi sao người đàn ông nhạc rock
-🫩	buồn ngủ kiệt sức mặt có túi mắt mệt mỏi
-🤗	mặt ôm
-⏩	kép mũi tên nhanh nút tua đi phía trước
-🕜	1 1:30 ba mươi đồng hồ một giờ phút
-📈	biểu đồ tăng thị lên trưởng xu hướng
-🦆	chim động vật vịt
-🤼	đấu vật đô giải người chơi trên võ đài
-🎶	các nốt nhạc
-🦁	cung hoàng đạo sư tử mặt
-🤏	ít số lượng nhỏ tay chụm
-🪄	gậy thần ma thuật phù thủy thầy
-🆖	ng nút
-😙	cười hôn mắt mặt
-🙍	bực tức buồn bã cau mày cử chỉ khó chịu không vui người đang thất vọng
-🚂	đầu máy xe lửa động cơ đường sắt hơi nước tàu hỏa
-👰	cô dâu với khăn voan cưới mạng che mặt người đội
-🚭	bị cấm nghiêm hút thuốc không
-😨	kinh hãi mặt sợ
-🎼	bản nhạc khuông
-🤦	hoài nghi không tin nổi lại nữa rồi lòng bàn tay mặt người dùng che lấy tức giận
-📞	điện thoại ống nghe bàn
-🚎	ô tô điện xe buýt goòng
-🔢	1234 nhập số
-🪣	thùng to xô
-😾	hờn dỗi mặt mèo
-🥢	đũa
-🏑	cây gậy khúc côn cầu trên cỏ quả bóng sân trò chơi
-🎢	con lăn công viên giải trí tàu lao dốc lượn siêu tốc
-🐭	chuột động vật mặt
-😧	đau khổ mặt
-🐷	động vật lợn mặt thịt xông khói trang trại
-🫣	mặt hé mắt nhìn trộm chằm lén quyến rũ
-🍈	dưa hoa quả
-🤛	hướng trái nắm đấm phía
-🙋	chọn tôi đi cử chỉ giơ tay nâng lên người cao vui vẻ ở bên này có thể giúp muốn hỏi
-🚲	xe cộ đạp
-🍑	đào hoa quả
-🌍	châu âu phi địa cầu thể hiện âu-châu thế giới trái đất
-👬	cặp đôi đồng tính nam song sinh hai người đàn ông nắm tay nhau hoàng đạo tử
-🐗	động vật lợn rừng
-🤎	màu nâu trái tim
-🚃	điện đường sắt tàu hỏa toa xe hơi
-🎤	âm thanh hát karaoke micrô nhạc
-👿	ma quỷ mặt giận dữ có sừng giữ tiểu yêu tưởng tượng
-📡	ăng-ten vệ tinh đĩa
-🫨	choáng động đất hốt hoảng lắc mặt ngạc nhiên rung sốc sửng sốt wow
-🤜	hướng phải nắm đấm sang
-🌰	hạt dẻ thực vật
-🐨	con gấu động vật túi koala úc
-📚	đọc học tập sách thư viện tri thức trường
-🌿	lá cây thảo mộc
-♍	cung hoàng đạo lá số tử vi xử nữ
-📂	mở tệp thư mục
-🔠	abcd chữ hoa la tinh nhập
-🔗	mắt xích
-🔱	biểu tượng đinh ba công cụ neo tàu
-🥒	dưa chua chuột thức ăn thực vật
-⏪	kép mũi tên nút tua lại nhanh
-🥁	dùi trống nhạc
-📅	lịch ngày
-👨‍🦼	hỗ trợ tiếp cận người đàn ông trên xe lăn điện
-🍚	cơm gạo nấu chín
-🐆	báo hoa mai con động vật ăn thịt
-☔	cái ô với những giọt nước mưa chiếc che quần áo rơi
-🍼	bình em bé mới sinh sữa trẻ sơ uống
-🎳	bowling quả bóng trò chơi
-🪭	e thẹn làm mát múa nóng quạt giấy tán tỉnh vỗ cánh
-🍉	dưa hấu hoa quả
-🎄	cây thông noel giáng sinh lễ kỷ niệm
-🔲	hình học vuông nút màu đen
-🧑‍🌾	chủ trang trại người làm vườn nông dân
-🚩	cờ tam giác đánh dấu xây dựng
-🦓	ngựa vằn sọc
-🍗	chân đói đùi gà tây gia cầm xương
-🥮	bánh trung thu lễ hội mặt trăng mùa
-🏪	cửa hàng tiện lợi
-🍓	dâu tây quả mọng trái cây
-🤚	giơ lên mu bàn tay
-📩	email mũi tên phong bì với thư đi
-📓	sổ ghi chép
-👥	bóng các tượng bán thân
-📊	biểu đồ thanh thị
-🗽	bức tượng new ny nyc tự do nữ thần
-🕒	00 3 3:00 ba đồng hồ giờ
-🪋	đá không gian ngôi sao rơi băng tận thế trọng lực
-👓	đeo kính mắt quần áo
-🚰	nước uống được
-🎽	áo chạy bộ sơ mi khăn quàng vai vận động viên
-😴	không quan tâm mặt đang ngủ mệt mỏi ngoan sao cũng được zzz
-🎦	bộ phim máy ảnh quay rạp chiếu
-🥏	đĩa bay trò chơi ném
-🦡	con lửng động vật mật quấy rầy
-🎨	bảng màu bảo tàng nghệ thuật vẽ
-🍖	thịt bám xương
-🔍	dụng cụ kính phóng đại nghiêng sang trái tìm kiếm
-🌹	cây hoa hồng màu đỏ sang trọng tình yêu valentine vẻ đẹp
-👩‍🚀	không gian nữ phi hành gia tên lửa
-🐚	bãi biển động vật vỏ xoắn ốc
-🎰	cờ bạc khe máy giật xèng trò chơi
-🕺	khiêu vũ người đàn ông đang
-🔡	abcd chữ thường la tinh nhập
-👩‍🦯	hỗ trợ tiếp cận khiếm thị mù người phụ nữ với cây gậy dò đường
-🕍	đền do thái giáo đường người tôn
-🛁	bồn tắm
-💘	mũi tên thần tình yêu trái tim với
-🥍	bóng vợt gậy gôn thể thao
-🧑‍🔧	thợ điện máy sửa ống nước thủ công
-😍	cười lãng mạn mắt mặt hình trái tim yêu
-🆑	cl nút
-🧃	đồ uống hộp ngọt nước ép ống hút
-👒	cái mũ phụ nữ quần áo
-♌	cung hoàng đạo lá số tử vi sư
-🌞	bãi biển mặt trời có hình người sáng thời tiết
-🍆	cà tím rau thực vật
-😊	cười mỉm đỏ mặt hài lòng mắt tươi với đôi biết vui mừng
-🫸	bàn tay đẩy sang phải chặn chờ đập dừng lại thôi từ chối
-💲	đô la ký hiệu đậm tiền tệ
-🦍	động vật khỉ đột
-🌈	cầu vồng chuyển giới đồng tính lưỡng mưa thời tiết tự nhiên
-🙂	cười mặt mỉm
-🧭	điều hướng định la bàn từ tính
-👞	đàn ông giày nam quần áo
-🩳	bộ đồ tắm quần bơi dài lót soóc
-🧑‍🚀	phi hành gia tên lửa
-🕚	00 11 11:00 đồng hồ giờ mười một
-😵	chóng mặt mệt ốm
-📿	hạt lời cầu nguyện quần áo tôn giáo tràng vòng cổ
-🤓	bốn mắt chuyên gia đam mê mặt mọt sách thông minh
-🪀	dao động đồ chơi yo-yo
-🏫	tòa nhà trường học
-🍹	đồ uống nhiệt đới quán bar
-🕝	2 2:30 ba mươi đồng hồ hai giờ phút
-🕠	5 5:30 ba mươi đồng hồ năm giờ phút
-📟	máy nhắn tin
-🎵	nhạc nốt
-👙	áo tắm hai mảnh bể bơi quần
-🩲	bộ đồ bơi tắm một mảnh quần lót
-🤑	mặt có tiền ở miệng
-🚛	di chuyển lái xe nối ô tô bán tải cộ
-🥘	chảo thức ăn nông nồi đất paella
-😘	hôn mặt đang gió
-🛺	túc tuk xe lam
-👱	người tóc vàng hoe
-🛂	hộ chiếu kiểm soát
-🪓	bổ đôi chặt chém gỗ rìu nhỏ
-🫝	dưa chuột bao tử gia vị lên men nước muối rắc rối tương ớt ngọt
-🔞	18 cấm người dưới tuổi giới hạn độ mười tám vị thành niên
-🤝	bắt tay đồng ý gặp mặt rung
-📒	sổ cái ghi chép
-🚥	biển báo đèn giao thông ngang
-🔊	âm lượng loa cao lớn
-🐴	mặt ngựa
-😕	bối rối mặt
-🫑	ớt chuông rau thức ăn
-🫄	bụng bầu căng phồng có thai người mang no đủ
-🪐	hành tinh có vành đai bao quanh sao thổ thần nông
-🏅	chiến thắng huy chương thể thao vàng vô địch
-🏯	kiểu nhật lâu đài bản
-🌊	đại dương nước sóng
-💿	cd đĩa máy tính quang
-🪦	an nghỉ bia mộ nghĩa địa trang
-⚾	bóng chày quả thể thao
-👈	chỉ mu bàn tay ngón trỏ trái sang
-🦒	đốm hươu cao cổ
-🌗	mặt trăng phần tư hạ huyền
-🚸	cho người đi bộ qua giao thông đường trẻ em
-🤳	điện thoại máy ảnh tự sướng
-🏀	bóng rổ quả thể thao vòng
-🚏	điểm dừng xe buýt lại
-🥷	ẩn chiến tranh đấu sĩ kẻ sát nhân kỹ năng người ninja tàng hình
-⚽	bóng đá quả thể thao vua túc cầu
-🚖	taxi đang tới xe cộ
-👂	âm thanh cơ thể nghe tai
-👝	quần áo túi cắp nách nhỏ
-📵	cấm điện thoại di động không
-🐳	bãi biển cá voi đại dương động vật khuôn mặt phun nước
-😯	choáng váng làm thinh mặt ngạc nhiên
-🍫	món tráng miệng ngọt sô cô la thanh
-🌋	núi lửa phun trào thiên nhiên
-🧝	cổ tích kỳ ảo phép thuật thần bí tộc tiên yêu ma tinh
-💛	cảm xúc màu vàng trái tim yêu
-👨‍💻	kỹ sư công nghệ nam lập trình viên người đàn ông phát minh nhà triển phần mềm
-🐃	động vật nước trâu vườn thú
-🧆	đậu hồi falafel thịt viên
-💎	đá quý đồ nữ trang kim cương viên ngọc
-🧑‍🚒	lính cứu hỏa xe
-📷	máy ảnh video
-⛪	cầu nguyện cây thánh giá đạo cơ đốc nhà thờ tôn giáo
-🚵	người đạp xe đi leo núi thể thao vận động viên đua
-🐟	cá cung hoàng đạo song ngư
-🤥	mặt nói dối pinocchio
-😛	lưỡi mặt lè
-🦵	chân tay đá gập
-🪒	cạo râu dao sắc
-💈	biển hiệu của thợ cắt tóc cột
-📹	máy quay phim video
-🛵	mô tơ xe tay ga
-💸	bay cánh đô la tiền có giấy
-🔦	ánh sáng đèn pin điện dụng cụ
-🧑‍🧑‍🧒‍🧒	gia đình người lớn trẻ em
-🚳	bị cấm nghiêm xe đạp không
-🪵	gỗ xẻ khúc
-😂	cười chảy nước mắt hài thật mặt với vui sướng đấy
-🐦	chim động vật
-🔩	bu lông đai ốc và dụng cụ
-🤠	cao bồi mặt đội mũ nữ
-🔉	âm lượng loa trung bình thanh
-💇	cắt tóc làm đẹp người được phong cách salon thợ tỉa tiệm vẻ
-🧓	già giới tính không xác định trung lập người lớn tuổi
-👼	bé con mặt thiên thần nhỏ truyện cổ tích tưởng tượng
-🪠	dụng cụ thông tắc hút lực cốc nhà vệ sinh thợ sửa ống nước
-👨‍💼	công việc văn phòng kiến trúc sư kinh doanh người đàn ông quản lý nhân viên nam
-🔃	chiều kim đồng hồ mũi tên thẳng đứng theo tải lại
-🦦	bắt cá nghịch ngợm rái
-🗻	núi phú sĩ
-🐖	động vật lợn nái thịt xông khói trang trại
-🧲	âm dương chữ u móng ngựa nam châm sức hút từ tính
-🚻	nhà vệ sinh phòng wc
-💤	buồn ngủ đang hài hước mệt ngất rồi
-🔌	điện phích cắm
-🏺	bảo bình hoàng đạo nấu ăn uống vò hai quai
-📻	radio video
-🧑‍🦯	khả năng tiếp cận mù người với gậy dò đường
-🪗	accordion âm nhạc buổi hòa hộp bóp cụ phong cầm
-🍱	cơm bento hộp
-🔘	hình học nút radio
-🕙	00 10 10:00 đồng hồ giờ mười
-👻	ma mặt quái vật sinh truyện cổ tích tưởng tượng
-🧉	đồ uống trà nhựa ruồi
-🫀	cơ quan tim giải phẫu khoa mạch màu đỏ nhịp trái thật trung tâm
-🦭	chó biển đại dương động vật hải cẩu sư tử
-👨‍🔬	kỹ sư người đàn ông nhà hóa học khoa nam sinh vật lý
-🐫	cái bướu con lạc đà động vật bactrian hai sa mạc
-♉	bò đực chòm sao cung hoàng đạo kim ngưu lá số tử vi
-👨‍🍳	đầu bếp nam nấu ăn
-🚢	di chuyển hành khách tàu thủy thuyền
-🥽	bảo vệ mắt bơi hàn kính hộ
-🚟	đường sắt trên cao treo
-🔶	hình học thoi lớn màu cam
-🪡	chỉ khâu kim may đo thêu
-⛺	cắm trại lều
-🙁	cau mày mặt hơi
-👾	đĩa bay khuôn mặt ngoài trái đất người hành tinh quái vật sinh
-💷	bảng hoá đơn tiền giấy tệ
-🏉	bóng bầu dục đá quả thể thao
-❓	chấm câu dấu hỏi
-👩‍🎨	bảng màu họa sĩ nữ nghệ
-🐇	con thỏ động vật thú cưng
-🌾	bó lúa bông gạo thực vật
-🛷	đi xe trượt tuyết
-🌀	bão choáng váng hình lốc xoáy
-🦴	bộ xương chó đòn
-👨	đàn ông người lớn
-💥	bom bùng nổ hài hước va chạm
-🗿	bức tượng khuôn mặt moai moyai
-⛵	biển du thuyền khu nghỉ dưỡng buồm
-🫵	bạn ngón trỏ chỉ vào người xem
-🏰	kiểu châu âu lâu đài
-🐞	bọ cánh cứng rùa con côn trùng thiên nhiên
-🚆	đường sắt tàu hỏa
-🐕‍🦺	chó hỗ trợ dịch vụ tiếp cận giúp
-🐮	bò cái động vật mặt sữa trang trại
-🏮	đèn lồng giấy màu đỏ quán bar
-😥	mặt thất vọng nhưng nhẹ nhõm ngạc nhiên
-🧤	găng tay
-🐰	con thỏ động vật mặt thú cưng
-🏨	khách sạn tòa nhà
-🍕	bánh pizza lát phô mai
-📗	giáo dục sách màu lục thư viện xanh
-🎇	chói sáng lễ kỷ niệm pháo bông hoa
-🪳	con gián côn trùng động vật
-⚡	cú đánh điện cao thế nguy hiểm sét tự nhiên
-⏬	kép mũi tên nút xuống nhanh
-🍻	bia chạm cốc đồ uống nước giải khát quán ba
-🚺	nhà vệ sinh nữ phòng wc
-👚	nữ quần áo
-🧳	đóng gói du lịch hành lý vali kéo
-♐	cung hoàng đạo lá số tử vi người bắn nhân mã
-🚤	thuyền xuồng cao tốc
-📝	bút chì sổ ghi nhớ
-🪨	đá hòn nặng rắn tảng
-🍅	cà chua rau thực vật
-📁	tệp thư mục
-🎁	gói quà hộp lễ kỷ niệm tặng
-🧑	giới tính chung không xác định người lớn
-🚒	động cơ lửa xe cứu hỏa tải
-👷	công nhân xây dựng mũ bảo hiểm sửa chữa tu
-🔤	abc bảng chữ cái la tinh nhập
-🚞	đường ray leo núi sắt toa xe
-🌐	địa cầu internet kinh tuyến thế giới trái đất ttoàn web
-😸	cười toét mắt mặt mèo tươi với hai híp lại
-🫡	chào mặt nắng nhà binh ok quân đội vâng
-🟰	bằng dấu đậm toán
-🚬	hút thuốc lá
-🆒	cool mát nút
-🍺	bia cốc đồ uống quán bar
-🪏	đào lỗ thuổng xẻng xúc
-🐂	bò đực mộng cung hoàng đạo kim ngưu
-🤙	bàn tay gọi cho tôi điện
-♓	con cá cung hoàng đạo lá số tử vi song ngư
-👵	cụ bà già người lớn phụ nữ
-🐧	chim cánh cụt động vật nam cực
-❎	dấu nhân hình vuông nút gạch chéo
-🟫	hình vuông màu nâu ô
-🥩	bít tết sườn cừu lợn tảng thịt
-🦾	cánh tay giả hỗ trợ tiếp cận
-🎣	cá cần câu giải trí thể thao
-😌	mặt nhẹ nhõm
-🫷	bàn tay đẩy sang trái chặn chờ đập dừng lại thôi từ chối
-🐝	con ong côn trùng động vật mùa xuân mật
-🌻	hoa hướng dương mặt trời thực vật
-✨	ánh lấp lánh kỳ diệu ngôi sao
-🚽	bệ xí bồn cầu
-🥑	hoa quả bơ thức ăn
-👛	đồng tiền quần áo xu ví
-🌮	bánh mexico taco
-📋	bảng ghi nhớ chú việc cần làm
-🦊	cáo động vật mặt
-⚫	hình học tròn màu đen
-♒	bảo bình cung hoàng đạo lá số tử vi người mang nước
-🐈‍⬛	đen động vật meo mèo vận
-🩵	143 cảm xúc đặc biệt dễ thương thích trái tim màu xanh dương nhạt lơ mòng két yêu
-📤	đã gửi hộp thư đi khay
-🐐	cung hoàng đạo ma kết dê động vật nông trại sữa
-🧂	bình lắc gia vị muối
-🎯	hồng tâm mục tiêu phi trò chơi trúng đích
-🐻	động vật gầm gấu xám mặt mật ong
-🔨	búa dụng cụ sửa chữa
-🚣	bè câu cá hồ người chèo thuyền sông có mái xuồng
-👕	áo phông sơ mi thun quần
-🐼	gấu trúc mặt
-👃	cơ thể mũi
-📭	hòm thư hộp được mở với lá cờ nằm ngang
-🚁	máy bay trực thăng xe cộ
-🛻	nhận hàng ô tô vận tải xe bán
-🕤	9 9:30 ba mươi chín giờ phút đồng hồ
-🫅	cao quý hoàng gia người đội vương miện quân giả
-🧑‍🦽	khả năng tiếp cận người trên xe lăn tay
-🌱	cây giống non nảy mầm thực vật
-😪	buồn ngủ khóc mặt
-🧒	giới tính chung không xác định trẻ em
-🦤	chim cưu động vật gà dodo lớn mauritius tuyệt chủng
-👢	bốt giày nữ phụ quần áo
-📬	hòm thư hộp được mở với lá cờ đứng
-🚼	biểu tượng trẻ em thay đồ
-🚑	xe cấp cứu cộ thương
-😞	mặt thất vọng
-🍸	cocktail đồ uống ly quán bar
-🥵	đỏ mặt đổ mồ hôi nóng sốc nhiệt sốt
-🫔	bánh tamale cuốn mexico pamonha thực phẩm
-👹	mặt quỷ quái vật ăn thịt người sinh truyện cổ tích tưởng tượng
-😬	mặt nhăn nhó
-🤶	bà già noel giáng sinh mẹ
-🎓	cái mũ lễ kỷ niệm tốt nghiệp quần áo
-👩‍🎓	nữ sinh viên tốt nghiệp
-🛖	lều tròn nhà túp
-🎬	bảng clapper diễn phim
-🤘	ký hiệu cặp sừng ngón tay tuyệt vời
-🕣	8 8:30 ba mươi đồng hồ tám giờ phút
-🤫	im lặng mặt ra dấu suỵt
-🔭	dụng cụ khoa học kính viễn vọng
-🌸	hoa anh đào thực vật
-🥻	đầm quần áo sari trang phục váy xari
-🎷	kèn saxophone nhạc cụ
-😺	con mèo khuôn mặt cười miệng há tươi mở ra nụ
-😫	mặt mệt mỏi
-😀	cười toe toét mặt
-💭	bong bóng suy nghĩ hài hước khí cầu
-🦼	hỗ trợ tiếp cận năng xe lăn tự động
-👩‍💼	công việc văn phòng kiến trúc sư kinh doanh người phụ nữ quản lý nhân viên
-♿	biểu tượng xe lăn lối vào người khuyết tật
-🥄	bộ đồ ăn thìa
-🧽	bọt biển hấp thụ hút làm sạch vệ sinh xốp
-💵	đô la hoá đơn tiền giấy tệ
-🐹	chuột hamster mặt thú cưng
-💾	đĩa máy tính mềm
-🌔	mặt trăng khuyết tròn dần
-🥫	đóng hộp thực phẩm
-💴	hoá đơn tiền giấy yên tệ
-🦧	động vật đười ươi vượn người
-🍶	chai cốc đồ uống quán ba rượu sake
-⚪	hình học tròn màu trắng
-🆙	dấu nút up
-😎	kính mặt cười đeo trời phong cách sáng
-📐	bộ tam giác thước kẻ
-🫧	bong bóng dưới nước ợ hơi sạch sẽ xà phòng
-💕	hai trái tim hẹn hò hôn yêu
-😗	hôn mặt
-🫤	buồn chán hoài nghi không chắc chắn mặt có miệng xiên thất vọng
-💬	bài diễn văn bóng bong lời nói hài hước thoại
-🛘	đá động đất lở nguy hiểm núi thảm họa tuyết
-🚚	giao hàng xe tải
-🔚	end mũi tên
-💺	chỗ ngồi ghế
-🎉	buổi tiệc lễ kỷ niệm pháo bông sinh nhật giấy
-🤲	cầu nguyện hai bàn tay chạm vào nhau lời
-😔	mặt trầm ngâm thất vọng
-👋	chào nhé có ai ở đó không đang vẫy tay nè xin
-🎊	bóng hoa giấy bữa tiệc lễ kỷ niệm quả
-💼	cặp tài liệu văn phòng
-🥬	cải bắp thìa xoăn rau diếp salat xanh lá
-🈸	“đơn xin” chữ tượng hình nút tiếng nhật
-🚱	không dùng để uống được nước
-🐄	bò cái sữa động vật trang trại
-⬜	hình học vuông lớn màu trắng
-😝	hương vị kinh khủng lưỡi mắt mặt thè nhắm chặt
-😓	lạnh mặt chán nản với mồ hôi
-🩼	đau gậy chống hỗ trợ di chuyển khuyết tật nạng
-🙀	mặt mèo mệt lử mỏi ngạc nhiên ôi
-🧯	bình chữa cháy cứu hỏa dập tắt lửa
-🦖	khủng long bạo chúa
-🧑‍🧒	gia đình người lớn trẻ em
-🐒	chuối con khỉ động vật quả
-🥴	chếnh choáng chóng mặt váng mắt đảo điên miệng uốn lượn say xỉn
-🧅	gia vị hành
-🍙	cơm nắm nhật bản
-👨‍🚒	lính cứu hỏa nam xe
-🪈	âm nhạc ban diễu hành dàn giao hưởng máy ghi cụ hơi bằng gỗ ống sáo tiêu
-🏏	gậy đánh bóng quả trò chơi cricket
-👴	cụ ông đàn đầu hói già người lớn
-🦝	động vật gấu trúc tinh nghịch tò mò
-🎲	con xúc xắc gieo trò chơi
-🚡	cáp treo đường xe điện toa trần trên không
-😑	không diễn cảm mặt vô thản nhiên
-🥶	đóng băng lạnh cứng mặt xanh tê cóng
-🚿	nước vòi hoa sen
-🖕	ngón giữa tay
-🫆	danh tính dấu vân tay pháp y sự an toàn
-🧑‍🍳	đầu bếp nấu ăn
-🫠	biến mất chất lỏng hòa tan mặt chảy
-🐑	bồng bềnh cái cừu non động vật lông nông trại
-🕐	00 1 1:00 đồng hồ giờ một
-🔑	chìa khóa mật khẩu
-🚕	lái xe màu vàng taxi cộ
-🎹	bàn phím đàn piano nhạc cụ
-🦮	chó dẫn đường hỗ trợ tiếp cận khiếm thị mù
-📃	quăn tài liệu trang bị
-👨‍🔧	cơ khí nam người đàn ông thợ điện máy sửa ống nước
-😄	cười mắt mặt miệng há mở
-🥲	biết ơn mặt cười với nước mắt mỉm nhẹ nhõm tự hào xúc động
-🫥	ẩn biến mất chán nản hướng nội mặt có đường viền chấm thất vọng vô hình
-🥤	cốc mạch nha nước ép ống hút soda uống
-🥃	cốc vại ly đáy phẳng ngụm rượu whisky
-🗼	tháp tokyo
-🙄	cái gì vậy đu đưa không quan tâm mắt mặt có sao cũng được
-🦥	chậm con lười đủng đỉnh
-🧞	chà đèn thần điều ước huyền bí kỳ ảo ma
-🤪	lớn mắt mặt làm trò hề ngốc nhỏ
-👩‍🍳	đầu bếp nữ nấu ăn
-🫘	cây họ đậu hạt thận thức ăn
-🥇	huy chương vàng nhất
-🐘	động vật voi
-🔻	đỏ hình học tam giác màu trỏ xuống dưới
-🎡	bánh xe công viên giải trí đu quay vòng
-🕢	7 7:30 ba mươi bảy giờ phút đồng hồ
-💪	bắp tay gập lại cơ hài hước
-🎒	ba lô đi học cặp trường túi
-😢	buồn khóc mặt nước mắt
-👨‍🦯	hỗ trợ tiếp cận khiếm thị mù người đàn ông với cây gậy dò đường
-🫪	căng phồng dễ tổn thương hoảng loạn lo lắng ngạc nhiên sốc
-🔕	cấm chuông với dấu gạch chéo im lặng tắt tiếng
-📢	địa chỉ công cộng loa phát thanh phóng lớn
-🦟	bệnh con muỗi côn trùng đốt sốt rét vi rút
-🎅	cha claus giáng sinh lễ kỷ niệm ông già noel noen santa
-❕	cảm thán chấm than dấu màu trắng mờ
-🤽	bơi lội bóng người chơi dưới nước thể thao
-🗾	bản đồ nhật
-🔆	độ sáng nút
-🤣	cười chảy nước mắt sung sướng lăn mặt bò sàn
-🦅	chim đại bàng
-🧶	cuộn len đan bằng kim móc sợi
-🍇	chùm nho hoa quả
-🌯	bánh burrito mexico
-🌎	châu mỹ địa cầu thế giới thể hiện trái đất
-🀄	đỏ mạt chược rồng trò chơi
-🦣	có lông động vật lớn ngà tuyệt chủng voi ma mút
-🥝	hoa quả kiwi thức ăn
-😻	con mèo hình trái tim khuôn mặt mắt cười nụ thân ái
-🎸	đàn ghi-ta nhạc cụ
-⏫	kép mũi tên nút lên nhanh
-🏩	khách sạn tình yêu
-🥓	thịt xông khói thức ăn
-➗	÷ chia dấu toán
-🐦‍🔥	bất tử chim lửa phượng hoàng đầu thai dục hỏa trùng sinh tái thăng thiên tưởng tượng vinh quang
-🔁	chiều kim đồng hồ lặp lại mũi tên nút
-👪	gia đình trẻ em
-🤍	màu trắng trái tim
-🪃	australia bật lại boomerang bumơrang dội thổ dân vũ khí
-🔧	chìa vặn cờ lê dụng cụ
-🐶	cún động vật mặt thú cưng
-🦌	động vật hươu
-🎋	biểu ngữ cây tanabata kiểu nhật bản lễ kỷ niệm
-🕌	hồi giáo nhà thờ thuộc tôn
-📔	bìa sách sổ ghi chép có trang trí
-🕗	00 8 8:00 đồng hồ giờ tám
-🐲	khuôn mặt rồng truyện cổ tích
-👊	cú đấm nắm tay siết chặt
-🫙	bình đựng cửa hàng gia vị nước sốt thùng chứa trống rỗng
-🚇	di chuyển tàu điện ngầm
-🧏	điếc hỗ trợ tiếp cận khiếm thính nghe người tai
-🤐	khóa kéo mặt có miệng bị
-👩	người lớn phụ nữ
-🍡	bánh trôi nhật bản món kiểu tráng miệng ngọt que
-📧	email thư
-🛜	băng thông rộng bộ định tuyến điện thoại minh hotspot internet kết nối không dây mạng lan máy tính wifi
-🐊	cá sấu động vật sở thú
-📌	cái ghim đinh
-🕕	00 6 6:00 đồng hồ giờ sáu
-⛲	đài phun nước
-🔫	dụng cụ súng gắn lục ổ quay nước vũ khí
-🍐	hoa quả lê
-⚓	dụng cụ mỏ neo tàu
-🪆	babooshka baboushka babushka búp bê lồng matryoshka nhau nước nga
-📦	bưu kiện gói hộp
-🧧	bao lì xì chúc may mắn hồng quà tặng tiền
-🪽	bay lên cánh chim hàng không thần thoại thiên đường
-🎪	lều rạp xiếc
-😏	cười khẩy mặt
-🛄	hành lý nhận nơi
-♑	con dê cung hoàng đạo lá số tử vi ma kết
-🧑‍💼	công việc văn phòng kiến trúc sư kinh doanh người quản lý nhân viên
-🐁	chuột động vật
-🐌	động vật ốc sên thiên nhiên vườn
-👩‍🌾	người làm vườn nuôi súc vật nông dân nữ
-🕑	00 2 2:00 đồng hồ giờ hai
-🎀	lễ kỷ niệm ruy băng
-📪	đóng hòm thư hộp được với lá cờ nằm ngang
-🎮	giải trí tay điều khiển thiết bị trò chơi điện tử
-🔴	đỏ hình học tròn màu
-🦞	càng động vật hải sản tôm hùm xúp cua
-🛐	nơi thờ phụng tôn giáo sùng
-🛹	ván trượt
-👩‍🏭	công nghiệp nhân nhà máy nữ lắp ráp
-🙅	cấm cử chỉ không bao giờ cho phép đời nào người ra hiệu phản đối tay
-🏧	atm ký hiệu máy rút tiền ngân hàng tự động
-🧢	mũ bóng chày lưỡi trai
-🫎	động vật có vú gạc nai sừng tấm bắc mỹ xám
-💁	giúp hất tóc mách nước mỉa mai nghiêm túc người ra hiệu trợ tay thông tin tươi tắn vuốt
-🈶	“không miễn phí” chữ tượng hình nút tiếng nhật
-🌺	hoa dâm bụt thực vật
-🤬	chửi rủa thề mặt có các ký hiệu trên miệng tức giận
-🤢	buồn nôn mặt mửa
-💃	khiêu vũ người phụ nữ đang nhảy
-🦋	bướm côn trùng đẹp
-🐥	chim gà con mặt trước
-🚫	bị cấm không có lối vào
-💞	đang quay trái tim xoay vòng
-🥖	bánh mì que mỳ pháp thức ăn
-🉑	“có thể chấp nhận” chữ tượng hình nút tiếng nhật
-🚓	cảnh sát tuần tra xe hơi
-🧑‍🔬	kỹ sư nhà hóa học khoa sinh vật lý
-🔒	đóng khóa riêng tư
-🐦‍⬛	chim hoét đen con quạ động vật họ loài màu mỏ
-😐	mặt ngây ra bất động trung lập
-🪘	conga đập nhạc cụ nhịp trống dài
-🎩	cái mũ đầu chóp cao quần áo
-👩‍🎤	ca sĩ diễn viên nghệ ngôi sao người phụ nữ nhạc rock
-🦄	kỳ lân mặt
-🐠	cá nhiệt đới động vật
-🥥	cây dừa pina colada
-🧣	cổ khăn quàng lạnh ủ ấm
-🎿	thể thao trượt tuyết ván
-🌆	buổi tối hoàng hôn khung cảnh thành phố lúc chạng vạng mặt trời lặn phong
-🧐	giàu có mặt với kính một mắt ngột ngạt thượng lưu
-😭	buồn khóc mặt to nước mắt thổn thức
-😰	lạnh mặt lo lắng và toát mồ hôi vội vã xanh da trời
-💣	bom hài hước nguy hiểm nổ
-🐪	cái bướu con lạc đà động vật sa mạc
-👨‍🎓	nam sinh viên tốt nghiệp
-👇	mu bàn tay ngón trỏ trái chỉ xuống
-🥉	ba đồng huy chương
-🚅	đường sắt tàu cao tốc nhật bản hỏa viên đạn độ
-🥳	buổi tiệc hào hứng lễ kỷ niệm mặt tùng mũ sinh nhật sừng
-👳	khăn turban xếp người đội
-🎧	âm thanh tai nghe
-📨	email nhận phong bì thư đến
-⭐	ngôi sao thiên văn
-🫃	bụng bầu căng phồng có thai người đàn ông mang no đủ
-🌌	dải ngân hà vũ trụ
-🧖	mát xa người ở trong phòng xông hơi phụ nữ nhà tắm sang chảnh spa thư giãn
-🚠	cáp treo trên núi toa trần
-🪙	bạc đô la đồng tiền euro giàu kho báu kim loại vàng
-🌵	cây xương rồng hạn hán sa mạc thiên nhiên thực vật
-😲	hoàn toàn kinh ngạc mặt sốc
-🙃	lộn ngược mặt
-🚶	dáng đi đang bộ leo núi lang thang thong dong người tản
-👤	bóng tượng bán thân
-🛶	thuyền xuồng
-🌓	mặt trăng phần tư thượng huyền
-🌒	lưỡi liềm mặt trăng đầu tháng tròn dần
-👽	đĩa bay giả tưởng khuôn mặt ngoài trái đất người hành tinh sinh vật
-🕡	6 6:30 ba mươi đồng hồ sáu giờ phút
-🐡	cá bơn nóc động vật
-🛃	hải quan
-🥛	cốc đồ uống sữa
-🛟	an toàn cấp cứu hộ phao sinh nổi phương tiện
-🫚	bia củ gừng gia vị rễ sức khỏe thảo mộc tự nhiên
-🍋	chanh tây chua họ cam quýt hoa quả
-🪶	bộ lông chim chuyến bay nhẹ
-🫹	cầm chỉ đó này trái trung lập
-👲	đàn ông mũ khang hy người đội trung quốc
-🤰	mang thai người phụ nữ có
-🧹	cây chổi làm sạch phù thủy quét dọn
-💑	cặp đôi với trái tim yêu
-⛅	mặt trời sau đám mây
-🩶	143 bạc cảm xúc đặc biệt trái tim màu xám đen yêu
-🧨	nổ pháo hoa thuốc
-🏊	ba môn phối hợp bơi tự do người đàn ông lội thể thao vận động viên
-🕟	4 4:30 ba mươi bốn giờ phút đồng hồ
-🩰	balê giày múa
-📀	chuẩn đĩa quang dvd máy tính
-🏃	chạy bộ đua maratông nhanh đang đến người tốc độ vội vã
-🧜	chàng tiên cá công chúa đinh ba nàng người sinh vật biển thần thoại truyện cổ tích
-🔽	đỏ mũi tên nút đi xuống
-💻	cá nhân máy tính xách tay pc
-🧋	bong bóng ngọc trai sữa trà trân châu
-🫏	bướng bỉnh con la lừa động vật có vú thồ
-🪟	cửa sổ không khí trong lành khung mở suốt xem
-🐢	con rùa động vật nước ngọt
-😤	chiến thắng hân hoan không vui mặt có mũi đang phì hơi tức giận
-👨‍🚀	không gian nam phi hành gia tên lửa
-👩‍💻	kỹ sư công nghệ nữ lập trình viên người phát minh phụ nhà triển phần mềm
-🦠	amip khoa học vi khuẩn rút trùng
-🥺	lòng thương mặt cầu xin mắt cún con xỏ
-🤮	mặt nôn mửa ốm
-❗	cảm thán chấm than dấu đỏ
-🪼	biển bỏng chích động vật không xương sống ối sinh phù du sứa thủy xúc tu
-🎺	kèn trumpet nhạc cụ
-🟥	hình vuông màu đỏ ô
-😶	ít nói mặt không có miệng yên lặng
-🧬	adn di truyền gien nhà sinh vật học sự sống tiến hóa
-😵‍💫	bối rối chóng mặt khó hiểu có đôi mắt xoắn ốc rắc thôi miên
-📸	đèn flash máy ảnh có video
-👩‍🔧	cơ khí nữ phụ thợ điện máy sửa ống nước
-💧	giọt nước hài hước lạnh mồ hôi rơi
-🪂	dù kéo lượn nhảy
-🎃	đèn lồng bí ngô halloween lễ hội
-🫟	bắn tung tóe ngày lễ sơn tràn vết ố
-💖	bị kích thích lấp lánh trái tim
-💜	tím trái tim
-🚀	di chuyển không gian phóng tên lửa
-🎑	kỷ niệm lễ ngắm trăng mặt
-🍦	cái kem mềm món tráng miệng ngọt
-🥀	héo hoa
-😣	đau đầu kiên nhẫn mặt tập trung
-📰	báo tạp chí tin tức
-🥊	găng tay quyền anh
-🧑‍🏫	giáo sư viên người hướng dẫn
-🔺	hình học màu đỏ tam giác trỏ lên trên
+🧑‍🧑‍🧒‍🧒	gia đình người nguoi lớn lon trẻ tre em
+🍾	bật bat ra chai rượu ruou với voi nút nut gỗ go đồ uống uong quán quan bar
+🉑	“có thể the chấp chap nhận” chữ chu tượng tuong hình hinh nút nut tiếng tieng nhật nhat
+👩‍🔧	cơ co khí khi nữ nu phụ phu thợ tho điện máy may sửa sua ống ong nước nuoc
+📱	di động điện thoại thoai
+👩‍💼	công cong việc viec văn van phòng phong kiến kien trúc truc sư su kinh doanh người nguoi phụ phu nữ nu quản quan lý ly nhân nhan viên vien
+👽	đĩa bay giả gia tưởng tuong khuôn khuon mặt mat ngoài ngoai trái trai đất người nguoi hành hanh tinh sinh vật vat
+🍍	dứa dua hoa quả qua nhiệt nhiet đới
+😊	cười cuoi mỉm mim đỏ mặt mat hài hai lòng long mắt tươi tuoi với voi đôi biết biet vui mừng mung
+🛸	đĩa bay người nguoi ngoài ngoai hành hanh tinh ufo
+♿	biểu bieu tượng tuong xe lăn lan lối loi vào vao người nguoi khuyết khuyet tật tat
+🪆	babooshka baboushka babushka búp bup bê be lồng long matryoshka nhau nước nuoc nga
+👈	chỉ chi mu bàn ban tay ngón ngon trỏ tro trái trai sang
+🐤	chim gà ga con
+🍬	kẹo keo món mon tráng trang miệng mieng ngọt ngot
+👨‍🍳	đầu bếp bep nam nấu nau ăn an
+😣	đau đầu kiên kien nhẫn nhan mặt mat tập tap trung
+🫯	bất bat đồng quan điểm cãi cai nhau vã va đánh náo nao loạn loan tranh luận luan vật vat lộn lon
+🥂	chạm cham cốc coc chúc chuc mừng mung đồ uống uong tiếng tieng keng
+🤜	hướng huong phải phai nắm nam đấm sang
+🎽	áo ao chạy chay bộ bo sơ so mi khăn khan quàng quang vai vận van động viên vien
+🎎	búp bup bê be nhật nhat bản ban kiểu kieu lễ le hội hoi kỷ ky niệm niem
 📺	tivi tv video
-🦬	bò rừng đàn động vật trâu
-👸	cổ tích công chúa giả tưởng hoàng gia hậu vương miện
-😋	cười mặt thưởng thức món ngon tuyệt
-👗	mua sắm quần áo váy
-🦎	bò sát động vật thằn lằn
-🫳	bàn tay có lòng hướng xuống đuổi thả xua xuỵt
-🥎	bao tay bóng mềm ném dưới vai thể thao
-💉	bệnh kim ống tiêm thuốc vắc-xin
-🪧	bảng hiệu biển cọc phản đối thẻ thể hiện thông báo
-🌃	đêm có sao
-📕	đóng giáo dục sách
-😇	giả tưởng hào quang mặt cười có ngây thơ thiên thần
-🍃	gió lá cây rung rinh trong thổi
-🫒	ôliu thức ăn
-🔜	mũi tên soon
-🧑‍🍼	bố cho bú con đàn ông em bé mẹ người phụ nữ trẻ sơ sinh
-🚍	đang tới xe buýt
-🧄	gia vị tỏi
-👯	bản sao bạn tâm giao thân bộ đôi những người đeo tai thỏ phụ nữ sinh tiệc tùng vũ công
-🪤	bẫy bẩy chuột mồi pho mát
-🥸	ẩn danh gián điệp kính lông mày mặt trá hình mũi người ngụy trang râu ria mép
-🥅	gôn khung thành lưới
-🍪	bánh quy món tráng miệng ngọt
-🔎	dụng cụ kính lúp nghiêng sang phải phóng đại tìm kiếm
-🩴	dép đi biển lê xỏ ngón zōri
-💢	biểu tượng giận giữ điên hài hước tức
-🥙	bánh mỳ dẹt gyro kẹp thịt đồ ăn falafel nhồi
-🐈	động vật mèo thú cưng
-📥	hộp thư đến khay nhận
-🚮	ký hiệu bỏ rác vào thùng xả
-🟨	hình vuông màu vàng ô
-🥼	áo phòng thí nghiệm bác sĩ nhà khoa học
-🧱	đất sét gạch tường vữa
-🧈	bơ sữa
-💓	dao động đập nhịp tim trái đang
-🎏	cá chép cờ dải lễ kỷ niệm
-♈	bạch dương chòm sao cung hoàng đạo cừu đực lá số tử vi
-🛌	chợp mắt khách sạn mệt mỏi ngủ ngoan nhé người trên giường say giấc
-🦇	dơi động vật ma cà rồng
-🚐	xe buýt nhỏ cộ
-🐬	bãi biển cá heo chân chèo đại dương động vật
-🐅	dã thú động vật hổ sở
-🌉	cầu cây về đêm
-🤌	cái gì cử chỉ tay khum lại kiên nhẫn mỉa mai ngón thẩm vấn thư giãn
-🛀	bồn tắm người đang
-👶	trẻ con em sơ sinh
-🍁	lá cây phong rụng
-🚜	máy kéo xe cộ
-💠	bên trong hài hước hình học thoi có chấm dấu
-😚	hôn mắt mặt nhắm
-👮	bắt giữ bị tóm cảnh sát nằm vùng công an dừng xe luật sĩ quan
-🍥	bánh cá có hình xoắn ngọt xoáy
-🧌	giả tưởng người khổng lồ độc ác quái vật truyện cổ tích
-👠	giày cao gót chân phụ nữ quần áo
-🧑‍🎄	bà già noel chúc mừng giáng sinh mũ người ông
-👩‍🏫	giáo sư viên nữ người hướng dẫn phụ
-🌴	cây cọ
-🏭	nhà máy tòa
-🔷	hình học thoi lớn màu lam
-💡	ánh sáng bóng đèn điện hài hước ý tưởng
-🪾	cằn cỗi cây chết gỗ hạn hán mùa đông nhánh thân trần trụi lá
-🔙	back mũi tên
-🫲	bàn tay hướng sang bên trái
-💒	đám cưới lãng mạn nhà thờ nhỏ
-🆔	danh tính id nút
-🧑‍🩰	ba lê vũ công
-🥪	bánh mỳ kẹp
-⌛	bộ định thời cát đồng hồ đã chảy hết hẹn giờ
-🔀	bắt chéo mũi tên nút xáo trộn bài
-😦	mặt cau miệng há mở nhăn
-🍄‍🟫	ăn chay cây nấm nâu màu nhân pizza rau thức tự nhiên
-🦫	động vật hải ly răng xây đập
-🥚	bữa sáng đồ ăn trứng
-🛑	bát giác dừng ký hiệu
-🎫	vào cửa vé
-👺	mặt quái vật sinh truyện cổ tích tưởng tượng yêu tinh
-🤷	ai mà biết được có thể hững hờ không nghi ngờ người nhún vai sao cũng thờ ơ
-🦏	động vật tê giác
-🍿	bỏng ngô phim
-☕	buổi sáng cà phê caffeine chai đồ uống nóng hổi trà
-📴	di động điện thoại tắt
-👘	kimono quần áo
-🚈	đường sắt tàu điện nhẹ xe cộ
-🧷	chất thải ghim băng tã
-🍔	bánh hamburger kẹp
-🔸	hình học thoi nhỏ màu cam
-🎎	búp bê nhật bản kiểu lễ hội kỷ niệm
-🧘	an lạc bắt chéo chân người ngồi kiết già ở tư thế hoa sen thanh bình thiền thư giãn yoga yogi
-🥾	cắm trại đi bộ đường dài du lịch bụi giày leo núi ống
-🦙	động vật lạc đà alpaca guanaco không bướu vicuña len
-🆚	đấu với nút vs
-🧦	bít tất vớ
+🌜	mặt mat trăng trang phần phan tư tu hạ ha huyền huyen hình hinh người nguoi
+👀	đôi mắt mat mặt
+🫖	ấm am trà tra đồ uống uong thực thuc phẩm pham ủ u
+🦚	chim con công cong mái mai phô pho trương truong tự tu hào hao
+🫧	bong bóng dưới duoi nước nuoc ợ o hơi hoi sạch sach sẽ se xà xa phòng phong
+📑	đánh dấu dau trang tab
+👡	giày giay phụ phu nữ nu quần quan áo ao xăng xang đan
+💺	chỗ cho ngồi ngoi ghế ghe
+🍝	nhà nha hàng hang pasta spaghetti thịt thit viên vien thức thuc ăn an
+🚿	nước nuoc vòi voi hoa sen
+🦜	chim con vẹt vet cướp cuop biển bien nói noi chuyện chuyen
+🪯	biểu bieu tượng tuong khanda deg tegh fateh đức tin khalsa sikh giáo giao tôn ton
+🏣	bưu buu điện nhật nhat bản ban kiểu kieu
+🏭	nhà nha máy may tòa toa
+🤍	màu mau trắng trang trái trai tim
+🥢	đũa
+🏥	bác bac sĩ si bệnh benh viện vien thuốc thuoc
+🙈	cấm cam điều xấu xau khỉ khi không khong nhìn nhin mặt mat
+🐱	động vật vat mặt mat mèo meo thú thu cưng cung
+🪁	bay lên len lượn luon diều dieu
+🤖	mặt mat quỷ quy rô-bốt
+🫄	bụng bung bầu bau căng cang phồng phong có co thai người nguoi mang no đủ
+🔑	chìa chia khóa khoa mật mat khẩu khau
+🤡	hề he mặt mat
+🫍	biển bien cá ca voi đại dương duong
+🐹	chuột chuot hamster mặt mat thú thu cưng cung
+🥟	bánh banh bao sủi sui cảo cao
+🔪	dao làm lam bếp bep dụng dung cụ cu hocho nấu nau nướng nuong vũ vu khí khi
+👙	áo ao tắm tam hai mảnh manh bể be bơi boi quần quan
+🚸	cho người nguoi đi bộ bo qua giao thông thong đường trẻ tre em
+◾	hình hinh học hoc vuông vuong nhỏ nho vừa vua màu mau đen
+🫎	động vật vat có co vú vu gạc gac nai sừng sung tấm tam bắc bac mỹ my xám xam
+🫳	bàn ban tay có co lòng long hướng huong xuống xuong đuổi thả tha xua xuỵt xuyt
+🎵	nhạc nhac nốt not
+🚷	cấm cam người nguoi đi bộ bo không khong cho phép phep có co
+🦫	động vật vat hải hai ly răng rang xây xay đập
+🦪	hàu hau lặn lan ngọc ngoc trai
+🛌	chợp chop mắt mat khách khach sạn san mệt met mỏi moi ngủ ngu ngoan nhé nhe người nguoi trên tren giường giuong say giấc giac
+🎹	bàn ban phím phim đàn piano nhạc nhac cụ cu
+🫩	buồn buon ngủ ngu kiệt kiet sức suc mặt mat có co túi tui mắt mệt met mỏi moi
+🥨	bánh banh quy xoắn xoan
+🦅	chim đại bàng bang
+💐	bó bo hoa cây cay hẹn hen hò ho kỷ ky niệm niem lãng lang mạn man sinh nhật nhat tình tinh yêu yeu
+👜	mua sắm sam quần quan áo ao túi tui xách xach ví vi
+🈳	“còn trống” chữ chu tượng tuong hình hinh nút nut tiếng tieng nhật nhat
+🐟	cá ca cung hoàng hoang đạo song ngư ngu
+🫁	cơ co quan hít hit vào vao hô ho hấp hap hơi hoi thở tho phổi phoi ra
+👨‍🎤	ca sĩ si nam diễn dien viên vien nghệ nghe ngôi ngoi sao người nguoi đàn ông ong nhạc nhac rock
+🛖	lều leu tròn tron nhà nha túp tup
+🍀	4 bốn bon cỏ co lá la cây cay thực thuc vật vat
+🪕	âm am nhạc nhac có co dây day đàn banjo
+😌	mặt mat nhẹ nhe nhõm nhom
+🐺	chó cho sói soi mặt mat
+🦣	có co lông long động vật vat lớn lon ngà nga tuyệt tuyet chủng chung voi ma mút mut
+🦆	chim động vật vat vịt vit
+🦢	chim thiên thien nga non vịt vit con xấu xau xí xi
+🛷	đi xe trượt truot tuyết tuyet
+😍	cười cuoi lãng lang mạn man mắt mat mặt hình hinh trái trai tim yêu yeu
+🌓	mặt mat trăng trang phần phan tư tu thượng thuong huyền huyen
+🪣	thùng thung to xô xo
+👾	đĩa bay khuôn khuon mặt mat ngoài ngoai trái trai đất người nguoi hành hanh tinh quái quai vật vat sinh
+🔔	cái cai chuông chuong giờ gio nghỉ nghi nhà nha thờ tho
+🩳	bộ bo đồ tắm tam quần quan bơi boi dài dai lót lot soóc sooc
+🖖	ngón ngon tay spock thần than lửa lua
+👯	bản ban sao bạn tâm tam giao thân than bộ bo đôi những nhung người nguoi đeo tai thỏ tho phụ phu nữ nu sinh tiệc tiec tùng tung vũ vu công cong
+🥌	bi đá trên tren băng bang trò tro chơi choi
+🎺	kèn ken trumpet nhạc nhac cụ cu
+🌑	bóng bong tối toi mặt mat trăng trang non
+👆	chỉ chi lên len ngón ngon tay trỏ tro trái trai
+🧑‍🌾	chủ chu trang trại trai người nguoi làm lam vườn vuon nông nong dân dan
+🥧	bánh banh bí bi đỏ bột bot nhào nhao miếng mieng nhồi nhoi táo tao thịt thit trái trai cây cay
+📠	fax máy may
+😆	cười cuoi ngặt ngat nghẽo ngheo ngoác ngoac miệng mieng như nhu được mùa mua to hài hai lòng long mặt mat há ha mắt nhắm nham chặt chat
+🧣	cổ co khăn khan quàng quang lạnh lanh ủ u ấm am
+🐖	động vật vat lợn lon nái nai thịt thit xông xong khói khoi trang trại trai
+🛜	băng bang thông thong rộng rong bộ bo định tuyến tuyen điện thoại thoai minh hotspot internet kết ket nối noi không khong dây day mạng mang lan máy may tính tinh wifi
+🍉	dưa dua hấu hau hoa quả qua
+🪮	afro chải chai kiểu kieu tóc toc lược luoc pick
+💠	bên ben trong hài hai hước huoc hình hinh học hoc thoi có co chấm cham dấu dau
+🛹	ván van trượt truot
+📲	di động điện thoại thoai có co mũi mui tên ten gọi goi nhận nhan
+🚳	bị bi cấm cam nghiêm nghiem xe đạp không khong
+🤑	mặt mat có co tiền tien ở o miệng mieng
+🚅	đường sắt sat tàu tau cao tốc toc nhật nhat bản ban hỏa hoa viên vien đạn độ
+📒	sổ so cái cai ghi chép chep
+🧂	bình binh lắc lac gia vị vi muối muoi
+🫪	căng cang phồng phong dễ de tổn ton thương thuong hoảng hoang loạn loan lo lắng lang ngạc ngac nhiên nhien sốc soc
+🧞	chà cha đèn thần than điều ước uoc huyền huyen bí bi kỳ ky ảo ao ma
+🍭	kẹo keo mút mut món mon tráng trang miệng mieng ngọt ngot
+🌳	cây cay rụng rung lá la rơi roi
+🚤	thuyền thuyen xuồng xuong cao tốc toc
+👵	cụ cu bà ba già gia người nguoi lớn lon phụ phu nữ nu
+🐈‍⬛	đen động vật vat meo mèo vận van
+🚉	đường sắt sat ga tàu tau hỏa hoa
+🚐	xe buýt buyt nhỏ nho cộ co
+❔	chấm cham câu cau dấu dau hỏi hoi màu mau trắng trang mờ mo
+🔐	bảo bao mật mat chìa chia đóng khóa khoa với voi
+👰	cô co dâu dau với voi khăn khan voan cưới cuoi mạng mang che mặt mat người nguoi đội
+🧠	não nao thông thong minh
+🔚	end mũi mui tên ten
+🥁	dùi dui trống trong nhạc nhac
+🛶	thuyền thuyen xuồng xuong
+😨	kinh hãi hai mặt mat sợ so
+🥫	đóng hộp hop thực thuc phẩm pham
+🎈	bóng bong bay lễ le kỷ ky niệm niem sinh nhật nhat
+🤏	ít it số so lượng luong nhỏ nho tay chụm chum
+🐕‍🦺	chó cho hỗ ho trợ tro dịch dich vụ vu tiếp tiep cận can giúp giup
+🦑	động vật vat mực muc ống ong thân than mềm mem thức thuc ăn an
+🍹	đồ uống uong nhiệt nhiet đới quán quan bar
+🦂	bọ bo cạp cap cung hoàng hoang đạo
+💴	hoá hoa đơn tiền tien giấy giay yên yen tệ te
+🫹	cầm cam chỉ chi đó này nay trái trai trung lập lap
+➖	- − dấu dau toán toan trừ tru
+🚏	điểm dừng dung xe buýt buyt lại lai
+🎱	8 bi-a bóng bong bida quả qua tám tam trò tro chơi choi
+🥡	cái cai xô xo đũa giao hàng hang hàu hau hộp hop mang đi đồ ăn an
+🪳	con gián gian côn trùng trung động vật vat
+🔜	mũi mui tên ten soon
+🏪	cửa cua hàng hang tiện tien lợi loi
+🍊	hoa quả qua cam quýt quyt
+👑	gia đình hoàng hoang nữ nu quần quan áo ao vua vương vuong miện mien
+🕖	00 7 7:00 bảy bay đồng hồ ho giờ gio
+💟	hình hinh trang trí tri trái trai tim
+🚱	không khong dùng dung để uống uong được nước nuoc
+👣	các cac dấu dau chân chan trần tran in quần quan áo ao
+🍅	cà ca chua rau thực thuc vật vat
+📰	báo bao tạp tap chí chi tin tức tuc
+🟢	hình hinh tròn tron màu mau xanh lá la cây cay vòng vong lục luc
+🚆	đường sắt sat tàu tau hỏa hoa
+⚪	hình hinh học hoc tròn tron màu mau trắng trang
+🪞	gương guong phản phan xạ xa ánh anh chiếu chieu trang điểm
+🐈	động vật vat mèo meo thú thu cưng cung
+🦒	đốm hươu huou cao cổ co
+🌾	bó bo lúa lua bông bong gạo gao thực thuc vật vat
+📎	kẹp kep giấy giay
+🐎	cưỡi cuoi ngựa ngua đua
+🪉	âm am nhạc nhac dàn dan cụ cu thần than tình tinh yêu yeu
+🎊	bóng bong hoa giấy giay bữa bua tiệc tiec lễ le kỷ ky niệm niem quả qua
+⏬	kép kep mũi mui tên ten nút nut xuống xuong nhanh
+🧳	đóng gói goi du lịch lich hành hanh lý ly vali kéo keo
+🪱	động vật vat giun đất đốt ký ky sinh trùng trung sâu sau
+🍸	cocktail đồ uống uong ly quán quan bar
+🏫	tòa toa nhà nha trường truong học hoc
+🧑‍🦯	khả kha năng nang tiếp tiep cận can mù mu người nguoi với voi gậy gay dò do đường
+🫔	bánh banh tamale cuốn cuon mexico pamonha thực thuc phẩm pham
+🥦	bông bong cải cai xanh bắp bap dại dai hoa lơ lo xúp xup
+💂	bảo bao vệ ve cung điện buckingham london mũ mu hiểm hiem
+🧴	chai sữa sua dưỡng duong da dầu dau gội goi kem chống chong nắng nang ẩm am
+🚙	giải giai trí tri ô o tô to tiện tien ích ich thể the thao xe cộ co đa dụng dung
+🫃	bụng bung bầu bau căng cang phồng phong có co thai người nguoi đàn ông ong mang no đủ
+🔽	đỏ mũi mui tên ten nút nut đi xuống xuong
+🍱	cơm com bento hộp hop
+🏈	bóng bong bầu bau dục duc mỹ my người nguoi quả qua
+🪻	bluebonnet bụi bui hoa cây cay đậu lupin dạ da lan hương huong len mũ mu xanh mõm mom sói soi oải oai tiên tien ông ong tử tu đinh lục luc bình binh màu mau chàm cham mùa mua xuân xuan tím tim
+😧	đau khổ kho mặt mat
+🤔	đang suy nghĩ nghi mặt mat
+👩‍🍼	cho bú bu con đàn ông ong em bé be mẹ me người nguoi phụ phu nữ nu tình tinh yêu yeu trẻ tre sơ so sinh
+🛝	cầu cau trượt truot chơi choi khu vui
+👷	công cong nhân nhan xây xay dựng dung mũ mu bảo bao hiểm hiem sửa sua chữa chua tu
+🪒	cạo cao râu rau dao sắc sac
+🕔	00 5 5:00 đồng hồ ho giờ gio năm nam
+🪬	bùa bua hộ ho mệnh menh fatima hamsa mary miriam sự su bảo bao vệ ve tay
+🧻	cuộn cuon giấy giay toilet vệ ve sinh
+🕜	1 1:30 ba mươi muoi đồng hồ ho một mot giờ gio phút phut
+🆕	mới moi new nút nut
+🏆	chiến chien thắng thang cúp cup giải giai thưởng thuong thể the thao vô vo địch
+🐗	động vật vat lợn lon rừng rung
+📊	biểu bieu đồ thanh thị thi
+🤒	mặt mat có co miệng mieng ngậm ngam nhiệt nhiet kế ke mệt met ốm om
+🫢	hoài hoai nghi kính kinh nể ne ngạc ngac mặt mat với voi cặp cap mắt mở mo to và va tay che miệng mieng nhiên nhien sợ so hãi hai xấu xau hổ ho
+🖕	ngón ngon giữa giua tay
+💹	biểu bieu đồ đồng yên yen tăng tang tiền tien
+🟤	hình hinh tròn tron màu mau nâu nau vòng vong
+👅	cơ co thể the lưỡi luoi
+🪧	bảng bang hiệu hieu biển bien cọc coc phản phan đối thẻ the thể hiện hien thông thong báo bao
+🧹	cây cay chổi choi làm lam sạch sach phù phu thủy thuy quét quet dọn don
+🐩	chó cho xù xu cún cun động vật vat
+🔥	dụng dung cụ cu lửa lua ngọn ngon
+💙	màu mau lam trái trai tim
+🤳	điện thoại thoai máy may ảnh anh tự tu sướng suong
+👞	đàn ông ong giày giay nam quần quan áo ao
+👥	bóng bong các cac tượng tuong bán ban thân than
+🤸	hào hao hứng hung lăng lang nghiêng nghieng người nguoi nhào nhao lộn lon thể the dục duc dụng dung cụ cu vui vẻ ve
+😓	lạnh lanh mặt mat chán chan nản nan với voi mồ mo hôi hoi
+🐮	bò bo cái cai động vật vat mặt mat sữa sua trang trại trai
+♋	con cua cự cu giải giai cung hoàng hoang đạo lá la số so tử tu vi
+👨‍🌾	nam người nguoi làm lam vườn vuon nuôi nuoi súc suc vật vat nông nong dân dan
+🤚	giơ gio lên len mu bàn ban tay
+🌊	đại dương duong nước nuoc sóng song
+🪦	an nghỉ nghi bia mộ mo nghĩa nghia địa trang
+🚻	nhà nha vệ ve sinh phòng phong wc
+👨‍🏫	giáo giao sư su viên vien nam người nguoi hướng huong dẫn dan
+🔌	điện phích phich cắm cam
+🔤	abc bảng bang chữ chu cái cai la tinh nhập nhap
+👄	cơ co thể the hôn hon làm lam đẹp miệng mieng môi moi
+🙄	cái cai gì gi vậy vay đu đưa không khong quan tâm tam mắt mat mặt có co sao cũng cung được
+🌐	địa cầu cau internet kinh tuyến tuyen thế the giới gioi trái trai đất ttoàn ttoan web
+🐻	động vật vat gầm gam gấu gau xám xam mặt mat mật ong
+👚	nữ nu quần quan áo ao
+🔋	pin
+🕛	00 12 12:00 đồng hồ ho giờ gio mười muoi hai
+💁	giúp giup hất hat tóc toc mách mach nước nuoc mỉa mia mai nghiêm nghiem túc tuc người nguoi ra hiệu hieu trợ tro tay thông thong tin tươi tuoi tắn tan vuốt vuot
+🧮	bàn ban tính tinh toán toan
+🧪	hóa hoa học hoc khoa nhà nha ống ong nghiệm nghiem phòng phong thí thi
+🏒	băng bang gậy gay khúc khuc côn con cầu cau trên tren trận tran đấu
+😀	cười cuoi toe toét toet mặt mat
+🎭	biểu bieu diễn dien mặt mat nạ na nghệ nghe thuật thuat nhà nha hát hat
+🐑	bồng bong bềnh benh cái cai cừu cuu non động vật vat lông long nông nong trại trai
+🧇	bánh banh quế que bữa bua sáng sang cứng cung cỏi coi thiếu thieu quyết quyet đoán
+🍲	hầm ham nồi noi thức thuc ăn an súp sup
+🚁	máy may bay trực truc thăng thang xe cộ co
+🧓	già gia giới gioi tính tinh không khong xác xac định trung lập lap người nguoi lớn lon tuổi tuoi
+🫴	bàn ban tay có co lòng long hướng huong lên len bắt bat đến mời moi gọi goi vẫy vay
+⛳	cờ co trong lỗ lo gôn gon thể the thao
+🥖	bánh banh mì mi que mỳ my pháp phap thức thuc ăn an
+🍛	cà ca ri cơm com
+🥜	đậu phộng phong quả qua hạch hach rau củ cu thức thuc ăn an
+🍈	dưa dua hoa quả qua
+🤥	mặt mat nói noi dối doi pinocchio
+🤿	bình binh dưỡng duong khí khi ôxy oxy lặn lan mặt mat nạ na ống ong thở tho
+😎	kính kinh mặt mat cười cuoi đeo trời troi phong cách cach sáng sang
+💑	cặp cap đôi với voi trái trai tim yêu yeu
+🚖	taxi đang tới toi xe cộ co
+🙏	cảm cam ơn on cầu cau nguyện nguyen chắp chap tay hỏi hoi làm lam
+🦔	có co gai nhím nhim
+😬	mặt mat nhăn nhan nhó nho
+🏠	ngôi ngoi nhà nha
+🗻	núi nui phú phu sĩ si
+🐕	chó cho thú thu cưng cung
+🐥	chim gà ga con mặt mat trước truoc
+🦏	động vật vat tê te giác giac
+🧤	găng gang tay
+😹	mặt mat mèo meo có co nước nuoc mắt vui sướng suong niềm niem
+🥴	chếnh chenh choáng choang chóng chong mặt mat váng vang mắt đảo điên miệng mieng uốn uon lượn luon say xỉn xin
+➰	cong vòng vong lặp lap
+🚄	đường sắt sat tàu tau cao tốc toc nhật nhat bản ban hỏa hoa độ
+🐔	chim động vật vat gà ga
+🤼	đấu vật vat đô giải giai người nguoi chơi choi trên tren võ vo đài
+🍚	cơm com gạo gao nấu nau chín chin
+🏯	kiểu kieu nhật nhat lâu lau đài bản ban
+🩲	bộ bo đồ bơi boi tắm tam một mot mảnh manh quần quan lót lot
+🦺	an toàn toan áo ao bảo bao hộ ho cứu cuu khẩn khan cấp cap
+🔹	hình hinh học hoc thoi nhỏ nho màu mau lam
+🔊	âm am lượng luong loa cao lớn lon
+🫝	dưa dua chuột chuot bao tử tu gia vị vi lên len men nước nuoc muối muoi rắc rac rối roi tương tuong ớt ot ngọt ngot
+🧑‍🔬	kỹ ky sư su nhà nha hóa hoa học hoc khoa sinh vật vat lý ly
+🕺	khiêu khieu vũ vu người nguoi đàn ông ong đang
+🧙	bà ba cốt cot đạo sĩ si đồng kỳ ky ảo ao pháp phap sư su phép phep thuật thuat phù phu thủy thuy thần than chú chu thầy thay thuỷ triệu trieu hồi hoi
+🥄	bộ bo đồ ăn an thìa thia
+🦃	chim gà ga tây tay tạ ta ơn on
+🤵	bộ bo vest chú chu rể re người nguoi mặc mac
+💈	biển bien hiệu hieu của cua thợ tho cắt cat tóc toc cột cot
+🌏	châu chau á a á-châu úc uc địa cầu cau thế the giới gioi thể hiện hien trái trai đất
+🎿	thể the thao trượt truot tuyết tuyet ván van
+👩‍🔬	kỹ ky sư su người nguoi phụ phu nữ nu nhà nha hóa hoa học hoc khoa sinh vật vat lý ly
+👨‍🏭	công cong nghiệp nghiep nhân nhan nhà nha máy may nam lắp lap ráp rap
+🫛	đậu hà ha lan nành nanh quả qua rau vỏ vo
+🔃	chiều chieu kim đồng hồ ho mũi mui tên ten thẳng thang đứng theo tải tai lại lai
+🚡	cáp cap treo đường xe điện toa trần tran trên tren không khong
+🐧	chim cánh canh cụt cut động vật vat nam cực cuc
+🚼	biểu bieu tượng tuong trẻ tre em thay đồ
+💃	khiêu khieu vũ vu người nguoi phụ phu nữ nu đang nhảy nhay
+👨‍🎓	nam sinh viên vien tốt tot nghiệp nghiep
+🌍	châu chau âu au phi địa cầu cau thể the hiện hien âu-châu thế giới gioi trái trai đất
+🏴	cờ co đen vẫy vay
+🔵	hình hinh học hoc tròn tron màu mau lam
+📡	ăng-ten vệ ve tinh đĩa
+📝	bút but chì chi sổ so ghi nhớ nho
+🐯	dã da thú thu động vật vat hổ ho mặt mat
+👦	cậu cau bé be con trai
+📤	đã gửi gui hộp hop thư thu đi khay
+🥃	cốc coc vại vai ly đáy phẳng phang ngụm ngum rượu ruou whisky
+🐢	con rùa rua động vật vat nước nuoc ngọt ngot
+🎁	gói goi quà qua hộp hop lễ le kỷ ky niệm niem tặng tang
+👺	mặt mat quái quai vật vat sinh truyện truyen cổ co tích tich tưởng tuong tượng yêu yeu tinh
+🧑‍🚀	phi hành hanh gia tên ten lửa lua
+👬	cặp cap đôi đồng tính tinh nam song sinh hai người nguoi đàn ông ong nắm tay nhau hoàng hoang đạo tử tu
+♓	con cá ca cung hoàng hoang đạo lá la số so tử tu vi song ngư ngu
+🐪	cái cai bướu buou con lạc lac đà động vật vat sa mạc mac
+🦗	bọ bo bộ cánh canh thẳng thang châu chau chấu côn con trùng trung dế de động vật vat
+🛑	bát bat giác giac dừng dung ký ky hiệu hieu
+🪽	bay lên len cánh canh chim hàng hang không khong thần than thoại thoai thiên thien đường
+🚰	nước nuoc uống uong được
+🥗	salad rau xanh thức thuc ăn an
+🍃	gió gio lá la cây cay rung rinh trong thổi thoi
+🥚	bữa bua sáng sang đồ ăn an trứng trung
+🌯	bánh banh burrito mexico
+🚹	nam nhà nha vệ ve sinh phòng phong wc
+🐦‍🔥	bất bat tử tu chim lửa lua phượng phuong hoàng hoang đầu thai dục duc hỏa hoa trùng trung sinh tái tai thăng thang thiên thien tưởng tuong tượng vinh quang
+🦝	động vật vat gấu gau trúc truc tinh nghịch nghich tò to mò mo
+🔙	back mũi mui tên ten
+🚎	ô o tô to điện xe buýt buyt goòng goong
+⏩	kép kep mũi mui tên ten nhanh nút nut tua đi phía phia trước truoc
+👻	ma mặt mat quái quai vật vat sinh truyện truyen cổ co tích tich tưởng tuong tượng
+📼	băng bang vhs video
+🎇	chói choi sáng sang lễ le kỷ ky niệm niem pháo phao bông bong hoa
+📔	bìa bia sách sach sổ so ghi chép chep có co trang trí tri
+🕒	00 3 3:00 ba đồng hồ ho giờ gio
+🥾	cắm cam trại trai đi bộ bo đường dài dai du lịch lich bụi bui giày giay leo núi nui ống ong
+🍼	bình binh em bé be mới moi sinh sữa sua trẻ tre sơ so uống uong
+📧	email thư thu
+🎫	vào vao cửa cua vé ve
+💶	euro hoá hoa đơn tiền tien giấy giay tệ te
+🌁	có co sương suong thời thoi tiết tiet
+🥛	cốc coc đồ uống uong sữa sua
+🤱	cho bú bu con em bé be nuôi nuoi bằng bang sữa sua mẹ me vú vu
+🦕	khủng khung long chân chan thằn than lằn lan to ăn an cây cay cối coi hai óc oc uyển uyen
+📣	cổ co vũ vu loa phóng phong thanh
+🦧	động vật vat đười ươi uoi vượn vuon người nguoi
+📫	đóng hòm hom thư thu hộp hop được với voi lá la cờ co đứng
+🌿	lá la cây cay thảo thao mộc moc
+🦈	cá ca mập map động vật vat
+🥽	bảo bao vệ ve mắt mat bơi boi hàn han kính kinh hộ ho
+🚧	công cong trường truong rào rao chắn chan
+😼	châm cham biếm biem con mèo meo khuôn khuon mặt mat cười cuoi gượng guong mỉa mia mai nụ nu
+🐝	con ong côn trùng trung động vật vat mùa mua xuân xuan mật mat
+🧑‍🎨	bảng bang màu mau họa hoa sĩ si
+🪚	cắt cat cưa cua mộc moc dụng dung cụ cu gỗ go xẻ xe thợ tho
+🧌	giả gia tưởng tuong người nguoi khổng khong lồ lo độc ác ac quái quai vật vat truyện truyen cổ co tích tich
+🪜	bậc bac thang leo trèo treo nấc nac
+🍢	hải hai sản san kẹp kep món mon oden que xiên xien
+🎬	bảng bang clapper diễn dien phim
+🤝	bắt bat tay đồng ý y gặp gap mặt mat rung
+🛄	hành hanh lý ly nhận nhan nơi noi
+💍	kim cương cuong nhẫn nhan
+✅	✓ chọn chon dấu dau đậm màu mau trắng trang tích tich nút nut
+💡	ánh anh sáng sang bóng bong đèn điện hài hai hước huoc ý y tưởng tuong
+🤠	cao bồi boi mặt mat đội mũ mu nữ nu
+🔆	độ sáng sang nút nut
+🩷	dễ de thương thuong hồng hong thích thich trái trai tim màu mau yêu yeu
+🧥	áo ao choàng choang khoác khoac lạnh lanh
+🚥	biển bien báo bao đèn giao thông thong ngang
+🏀	bóng bong rổ ro quả qua thể the thao vòng vong
+🚃	điện đường sắt sat tàu tau hỏa hoa toa xe hơi hoi
+🥍	bóng bong vợt vot gậy gay gôn gon thể the thao
+🏓	bóng bong bàn ban gậy gay quả qua trò tro chơi choi vợt vot đánh
+🫚	bia củ cu gừng gung gia vị vi rễ re sức suc khỏe khoe thảo thao mộc moc tự tu nhiên nhien
+🪨	đá hòn hon nặng nang rắn ran tảng tang
+🎐	chuông chuong gió gio kêu keu vang lễ le kỷ ky niệm niem
+🥤	cốc coc mạch mach nha nước nuoc ép ep ống ong hút hut soda uống uong
+🙍	bực buc tức tuc buồn buon bã ba cau mày may cử cu chỉ chi khó kho chịu chiu không khong vui người nguoi đang thất that vọng vong
+🩶	143 bạc bac cảm cam xúc xuc đặc biệt biet trái trai tim màu mau xám xam đen yêu yeu
+🪏	đào lỗ lo thuổng thuong xẻng xeng xúc xuc
+🔅	độ sáng sang mờ mo nút nut thấp thap
+🦀	cua cung cự cu giải giai hoàng hoang đạo
+🍌	chuối chuoi hoa quả qua kali
+👨‍🔧	cơ co khí khi nam người nguoi đàn ông ong thợ tho điện máy may sửa sua ống nước nuoc
+🔯	may mắn man ngôi ngoi sao sáu sau cánh canh có co dấu dau chấm cham
+🧑‍🏭	công cong nghiệp nghiep nhân nhan nhà nha máy may lắp lap ráp rap
+🎑	kỷ ky niệm niem lễ le ngắm ngam trăng trang mặt mat
+🏩	khách khach sạn san tình tinh yêu yeu
+🏐	bóng bong chuyền chuyen quả qua trò tro chơi choi
+📬	hòm hom thư thu hộp hop được mở mo với voi lá la cờ co đứng
+📐	bộ bo tam giác giac thước thuoc kẻ ke
+🪟	cửa cua sổ so không khong khí khi trong lành lanh khung mở mo suốt suot xem
+👨‍🔬	kỹ ky sư su người nguoi đàn ông ong nhà nha hóa hoa học hoc khoa nam sinh vật vat lý ly
+🍆	cà ca tím tim rau thực thuc vật vat
+🪤	bẫy bay bẩy chuột chuot mồi moi pho mát mat
+👩	người nguoi lớn lon phụ phu nữ nu
+🐭	chuột chuot động vật vat mặt mat
+🍻	bia chạm cham cốc coc đồ uống uong nước nuoc giải giai khát khat quán quan ba
+🧝	cổ co tích tich kỳ ky ảo ao phép phep thuật thuat thần than bí bi tộc toc tiên tien yêu yeu ma tinh
+😙	cười cuoi hôn hon mắt mat mặt
+🐘	động vật vat voi
+❕	cảm cam thán than chấm cham dấu dau màu mau trắng trang mờ mo
+🤧	cúm cum hắt hat hơi hoi mặt mat sức suc khỏe khoe
+🦤	chim cưu cuu động vật vat gà ga dodo lớn lon mauritius tuyệt tuyet chủng chung
+➕	+ cộng cong dấu dau toán toan
+🈴	“vượt cấp” chữ chu tượng tuong hình hinh nút nut tiếng tieng nhật nhat
+🥺	lòng long thương thuong mặt mat cầu cau xin mắt cún cun con xỏ xo
+🧱	đất sét set gạch gach tường tuong vữa vua
+🟧	da cam hình hinh vuông vuong màu mau ô o
+🛒	mua hàng hang xe đẩy
+🥯	bánh banh mỳ my vòng vong bữa bua sáng sang phết phet tiệm tiem
+💯	100 điểm một mot trăm tram toàn toan bộ bo
+🎢	con lăn lan công cong viên vien giải giai trí tri tàu tau lao dốc doc lượn luon siêu sieu tốc toc
+🆖	ng nút nut
+🌱	cây cay giống giong non nảy nay mầm mam thực thuc vật vat
+👍	+1 dấu dau ra hiệu hieu đồng ý y lên len ngón ngon tay cái cai
+🙁	cau mày may mặt mat hơi hoi
+🐠	cá ca nhiệt nhiet đới động vật vat
+🎀	lễ le kỷ ky niệm niem ruy băng bang
+🏦	ngân ngan hàng hang tòa toa nhà nha
+🔴	đỏ hình hinh học hoc tròn tron màu mau
+🟰	bằng bang dấu dau đậm toán toan
 🛕	đền hin đu hin-đu hindu
-💝	lễ tình yêu ruy băng trái tim với
-🔂	chiều kim đồng hồ một lần mũi tên nút lặp lại
-🌷	hoa tulip thực vật
-🧑‍🧑‍🧒	gia đình người lớn trẻ em
-🥰	mặt cười với 3 trái tim phải lòng yêu quý
-💍	kim cương nhẫn
-🕖	00 7 7:00 bảy đồng hồ giờ
-🚷	cấm người đi bộ không cho phép có
-🐾	bàn chân dấu móng vuốt
-👨‍🎨	bảng màu họa sĩ nam nghệ
-🍤	chiên món sốt cá cua tôm hùm
-🦢	chim thiên nga non vịt con xấu xí
-🔏	bút khóa với mực ngòi riêng tư
-⛄	lạnh người tuyết không có
-💀	cái chết đầu lâu mặt quái vật truyện cổ tích
-🏴	cờ đen vẫy
-👍	+1 dấu ra hiệu đồng ý lên ngón tay cái
-🧑‍💻	kỹ sư công nghệ lập trình viên người phát minh nhà triển phần mềm
-🪊	âm nhạc buồn đồng jazz cụ trượt
-🌭	bánh mì xúc xích
-♎	cân đối công bằng cung hoàng đạo lá số tử vi thiên bình
-🪇	âm nhạc lắc lục lạc maraca cụ nhảy tiệc tùng trống
-💂	bảo vệ cung điện buckingham london mũ hiểm
-🛸	đĩa bay người ngoài hành tinh ufo
-➰	cong vòng lặp
-🎴	hoa kiểu nhật bản quân bài hình thiệp trò chơi
-🦪	hàu lặn ngọc trai
-🪯	biểu tượng khanda deg tegh fateh đức tin khalsa sikh giáo tôn
-🛅	hành lý bỏ quên tủ khóa
-🉐	“mặc cả” chữ tượng hình nút tiếng nhật
-🧑‍🏭	công nghiệp nhân nhà máy lắp ráp
-🔰	hình v ký hiệu của nhật cho người mới bắt đầu lá
-🫍	biển cá voi đại dương
-♊	cung hoàng đạo lá số tử vi song sinh
-🍒	anh đào hoa quả màu đỏ mọng thực vật trái cây
-🦘	australia chuột túi con nhảy thú có
-🦯	gậy dò đường hỗ trợ tiếp cận khiếm thị mù
-🧼	bánh tắm vệ sinh xà phòng xát
-🧿	bùa may mắn nazar hạt mắt ác mê hoặc nhìn
-🎱	8 bi-a bóng bida quả tám trò chơi
-🍭	kẹo mút món tráng miệng ngọt
-🥈	bạc hai huy chương
-🔬	dụng cụ khoa học kính hiển vi vị thí nghiệm
-🤞	bàn tay chéo hai ngón bắt may mắn
-🍛	cà ri cơm
-👌	bàn tay làm dấu ok chắc chắn rồi được nha tuyệt
-👆	chỉ lên ngón tay trỏ trái
-👉	chỉ mu bàn tay ngón trỏ trái sang phải
-🎍	cây thông tre kiểu nhật bản lễ kỷ niệm trang trí
-🧔	người đàn ông có râu
-🦶	bàn chân đá dậm mạnh mắt cá
-🈺	“mở cửa kinh doanh” chữ tượng hình nút tiếng nhật
-🧮	bàn tính toán
-🏁	ca rô chiến thắng cờ ô vuông cuộc đua thể thao
-🙈	cấm điều xấu khỉ không nhìn mặt
-🍠	đồ ăn khoai lang nướng ngọt
-🕋	hồi giáo kaaba thuộc tôn
-🫓	arepa bánh mì dẹt mỳ cắt lát lavash pita thực phẩm
-😠	điên mặt giận giữ tức
-🫶	hai bàn tay tạo hình trái tim yêu
-🤖	mặt quỷ rô-bốt
-◾	hình học vuông nhỏ vừa màu đen
-🤤	chảy dãi mặt
-🏹	cung hoàng đạo tên thủ mũi nhân mã
-💔	bị vỡ buồn cô đơn trái tim tan
-🍍	dứa hoa quả nhiệt đới
-🤱	cho bú con em bé nuôi bằng sữa mẹ vú
-👨‍🍼	bố cho bú con đàn ông em bé nam người tình yêu
-👫	cầm cặp đôi đàn ông nắm tay người và phụ nữ
+🚚	giao hàng hang xe tải tai
+🌻	hoa hướng huong dương duong mặt mat trời troi thực thuc vật vat
+🤎	màu mau nâu nau trái trai tim
+🐷	động vật vat lợn lon mặt mat thịt thit xông xong khói khoi trang trại trai
+💣	bom hài hai hước huoc nguy hiểm hiem nổ no
+🚠	cáp cap treo trên tren núi nui toa trần tran
+🟨	hình hinh vuông vuong màu mau vàng vang ô o
+🕤	9 9:30 ba mươi muoi chín chin giờ gio phút phut đồng hồ ho
+✋	bàn ban tay giơ gio lên len dừng dung lại lai
+🤛	hướng huong trái trai nắm nam đấm phía phia
+🈸	“đơn xin” chữ chu tượng tuong hình hinh nút nut tiếng tieng nhật nhat
+🌺	hoa dâm dam bụt but thực thuc vật vat
+🧁	bánh banh ngọt ngot nướng nuong nhỏ nho tiệm tiem tráng trang miệng mieng
+✊	cú cu đấm đoàn kết ket nắm nam giơ gio lên len tay siết siet chặt chat
+👭	bạn ban tốt tot nhất nhat cặp cap đôi đồng tính tinh nữ nu hai người nguoi phụ phu nắm nam tay
+🌂	chiếc chiec ô o mưa mua đã đóng quần quan áo ao
+🍺	bia cốc coc đồ uống uong quán quan bar
+🌉	cầu cau cây cay về ve đêm
+🍞	bánh banh mì mi nướng nuong lúa lua ngũ ngu cốc coc nhà nha hàng hang ổ o thực thuc phẩm pham tinh bột bot
+🌚	mặt mat trăng trang non
+🛟	an toàn toan cấp cap cứu cuu hộ ho phao sinh nổi noi phương phuong tiện tien
+😗	hôn hon mặt mat
+🧑‍🚒	lính linh cứu cuu hỏa hoa xe
+👩‍💻	kỹ ky sư su công cong nghệ nghe nữ nu lập lap trình trinh viên vien người nguoi phát phat minh phụ phu nhà nha triển trien phần phan mềm mem
+🪐	hành hanh tinh có co vành vanh đai bao quanh sao thổ tho thần than nông nong
+🦴	bộ bo xương xuong chó cho đòn
+💽	đĩa máy may tính tinh mini quang học hoc
+🕌	hồi hoi giáo giao nhà nha thờ tho thuộc thuoc tôn ton
+🧑‍🍳	đầu bếp bep nấu nau ăn an
+🥣	bát bat bữa bua sáng sang cháo chao ngũ ngu cốc coc thìa thia yến yen mạch mach
+👩‍🍳	đầu bếp bep nữ nu nấu nau ăn an
+🚝	đường một mot ray xe cộ co
+🔗	mắt mat xích xich
+🔶	hình hinh học hoc thoi lớn lon màu mau cam
+♏	bọ bo cạp cap cung hoàng hoang đạo lá la số so tử tu vi thiên thien yết yet
+🥘	chảo chao thức thuc ăn an nông nong nồi noi đất paella
+👏	hai bàn ban tay đang vỗ vo
+🥒	dưa dua chua chuột chuot thức thuc ăn an thực vật vat
+🎍	cây cay thông thong tre kiểu kieu nhật nhat bản ban lễ le kỷ ky niệm niem trang trí tri
+🎩	cái cai mũ mu đầu chóp chop cao quần quan áo ao
+📹	máy may quay phim video
+🫟	bắn ban tung tóe toe ngày ngay lễ le sơn son tràn tran vết vet ố o
+🫡	chào chao mặt mat nắng nang nhà nha binh ok quân quan đội vâng vang
+🔕	cấm cam chuông chuong với voi dấu dau gạch gach chéo cheo im lặng lang tắt tat tiếng tieng
+🤮	mặt mat nôn non mửa mua ốm om
+🥎	bao tay bóng bong mềm mem ném nem dưới duoi vai thể the thao
+🆑	cl nút nut
+➿	cong kép kep vòng vong lặp lap đôi
+🧵	kim may ổng ong chỉ chi sợi soi xâu xau
+🦭	chó cho biển bien đại dương duong động vật vat hải hai cẩu cau sư su tử tu
+📌	cái cai ghim đinh
+🧭	điều hướng huong định la bàn ban từ tu tính tinh
+💘	mũi mui tên ten thần than tình tinh yêu yeu trái trai tim với voi
+🏇	cuộc cuoc đua ngựa ngua người nguoi cưỡi cuoi
+😶	ít it nói noi mặt mat không khong có co miệng mieng yên yen lặng lang
+🍦	cái cai kem mềm mem món mon tráng trang miệng mieng ngọt ngot
+😘	hôn hon mặt mat đang gió gio
+🦓	ngựa ngua vằn van sọc soc
+🥋	đồng phục phuc võ vo thuật thuat judo karate taekwondo thể the thao
+😄	cười cuoi mắt mat mặt miệng mieng há ha mở mo
+🔝	lên len mũi mui tên ten top
+🧋	bong bóng ngọc ngoc trai sữa sua trà tra trân tran châu chau
+🧸	đồ chơi choi gấu gau bông bong nhồi nhoi vải vai lông long
+📪	đóng hòm hom thư thu hộp hop được với voi lá la cờ co nằm nam ngang
+🛗	kéo keo lên len khả kha năng nang tiếp tiep cận can nhấc nhac thang máy may
+🕦	11 11:30 ba mươi muoi đồng hồ ho mười một mot giờ gio phút phut
+🚛	di chuyển chuyen lái lai xe nối noi ô o tô to bán ban tải tai cộ co
+😔	mặt mat trầm tram ngâm ngam thất that vọng vong
+👩‍🎨	bảng bang màu mau họa hoa sĩ si nữ nu nghệ nghe
+🧑‍🎓	sinh viên vien tốt tot nghiệp nghiep
+🐫	cái cai bướu buou con lạc lac đà động vật vat bactrian hai sa mạc mac
+🥰	mặt mat cười cuoi với voi 3 trái trai tim phải phai lòng long yêu yeu quý quy
+🌀	bão bao choáng choang váng vang hình hinh lốc loc xoáy xoay
+🚽	bệ be xí xi bồn bon cầu cau
+👩‍🌾	người nguoi làm lam vườn vuon nuôi nuoi súc suc vật vat nông nong dân dan nữ nu
+🦹	ác ac độc người nguoi nhân nhan vật vat phản phan diện dien siêu sieu năng nang lực luc tội toi phạm pham xấu xau xa
+🐣	ấp ap gà ga con mới moi nở no
+📁	tệp tep thư thu mục muc
+🦍	động vật vat khỉ khi đột
+🎆	giải giai trí tri lễ le kỷ ky niệm niem pháo phao hoa
+👋	chào chao nhé nhe có co ai ở o đó không khong đang vẫy vay tay nè ne xin
+🏸	cầu cau lông long kỹ ky thuật thuat ghi trái trai trò tro chơi choi vợt vot
+❌	dấu dau gạch gach chéo cheo hủy huy nhân nhan x
+💕	hai trái trai tim hẹn hen hò ho hôn hon yêu yeu
+📻	radio video
+👎	-1 dấu dau ra hiệu hieu từ tu chối choi không khong thích thich ngón ngon tay cái cai xuống xuong
+🪹	làm lam tổ to trống trong rỗng rong
+👩‍🦽	hỗ ho trợ tro tiếp tiep cận can người nguoi phụ phu nữ nu trên tren xe lăn lan tay
+🧉	đồ uống uong trà tra nhựa nhua ruồi ruoi
+🦾	cánh canh tay giả gia hỗ ho trợ tro tiếp tiep cận can
+🎧	âm am thanh tai nghe
+🍤	chiên chien món mon sốt sot cá ca cua tôm tom hùm hum
+🧖	mát mat xa người nguoi ở o trong phòng phong xông xong hơi hoi phụ phu nữ nu nhà nha tắm tam sang chảnh chanh spa thư thu giãn gian
+💥	bom bùng bung nổ no hài hai hước huoc va chạm cham
+🥲	biết biet ơn on mặt mat cười cuoi với voi nước nuoc mắt mỉm mim nhẹ nhe nhõm nhom tự tu hào hao xúc xuc động
+🚬	hút hut thuốc thuoc lá la
+🎷	kèn ken saxophone nhạc nhac cụ cu
+🪥	bàn ban chải chai răng rang nha khoa phòng phong tắm tam sạch sach sẽ se vệ ve sinh
+🟣	hình hinh tròn tron màu mau tím tim tía tia vòng vong
+🦟	bệnh benh con muỗi muoi côn trùng trung đốt sốt sot rét ret vi rút rut
+🟪	hình hinh vuông vuong màu mau tím tim tía tia ô o
+🤢	buồn buon nôn non mặt mat mửa mua
+🔇	cái cai loa im lặng lang không khong ồn on ào ao tắt tat tiếng tieng
+📉	biểu bieu đồ giảm giam thị thi xu hướng huong xuống xuong
+🟩	hình hinh vuông vuong màu mau xanh lá la cây cay ô o lục luc
+🫒	ôliu oliu thức thuc ăn an
+👿	ma quỷ quy mặt mat giận gian dữ du có co sừng sung giữ giu tiểu tieu yêu yeu tưởng tuong tượng
+🌌	dải dai ngân ngan hà ha vũ vu trụ tru
+🌆	buổi buoi tối toi hoàng hoang hôn hon khung cảnh canh thành thanh phố pho lúc luc chạng chang vạng vang mặt mat trời troi lặn lan phong
+🚞	đường ray leo núi nui sắt sat toa xe
+🔏	bút but khóa khoa với voi mực muc ngòi ngoi riêng rieng tư tu
+🦇	dơi doi động vật vat ma cà ca rồng rong
+🚢	di chuyển chuyen hành hanh khách khach tàu tau thủy thuy thuyền thuyen
+🔦	ánh anh sáng sang đèn pin điện dụng dung cụ cu
+🕎	cây cay đèn menorah nến nen giá gia đỡ tôn ton giáo giao
+🪌	chà cha xát xat hoàn hoan tác tac loại loai bỏ bo lỗi loi sai sót sot sửa sua đổi tẩy tay vẽ ve viết viet xoá xoa
+🫣	mặt mat hé he mắt nhìn nhin trộm trom chằm cham lén len quyến quyen rũ ru
+🫗	đổ chất chat lỏng long đồ uống uong ly thủy thuy tinh tràn tran trống trong rỗng rong
+📯	bưu buu chính chinh điện kèn ken
+🦘	australia chuột chuot túi tui con nhảy nhay thú thu có co
+💼	cặp cap tài tai liệu lieu văn van phòng phong
+🍜	bát bat đũa mỳ my ramen nóng nong hổi hoi phở pho súp sup thức thuc ăn an
+🐌	động vật vat ốc oc sên sen thiên thien nhiên nhien vườn vuon
+♐	cung hoàng hoang đạo lá la số so tử tu vi người nguoi bắn ban nhân nhan mã ma
+🍋‍🟩	chanh ta họ ho cam quýt quyt hoa quả qua margarita mojito nhiệt nhiet đới nước nuoc ép ep sốt sot tequila vị vi chua
+🪺	làm lam tổ to có co trứng trung
+💫	choáng choang váng vang hài hai hước huoc ngôi ngoi sao
+💱	đổi tiền tien ngân ngan hàng hang tệ te
+⬜	hình hinh học hoc vuông vuong lớn lon màu mau trắng trang
+🛫	điểm khởi khoi hành hanh làm lam thủ thu tục tuc máy may bay tàu tau
+🌸	hoa anh đào thực thuc vật vat
+📗	giáo giao dục duc sách sach màu mau lục luc thư thu viện vien xanh
+👲	đàn ông ong mũ mu khang hy người nguoi đội trung quốc quoc
+😃	cười cuoi há ha to mặt mat mắt mở mo miệng mieng
+💗	bị bi kích kich thích thich lo lắng lang nhịp nhip tim phát phat triển trien trái trai lớn lon dần dan
+🪅	buổi buoi tiệc tiec kẹo keo kỷ ky niệm niem lễ le hội hoi người nguoi mexico pinata piñata
+🔬	dụng dung cụ cu khoa học hoc kính kinh hiển hien vi vị thí thi nghiệm nghiem
+🎮	giải giai trí tri tay điều khiển khien thiết thiet bị bi trò tro chơi choi điện tử tu
+🦁	cung hoàng hoang đạo sư su tử tu mặt mat
+🕣	8 8:30 ba mươi muoi đồng hồ ho tám tam giờ gio phút phut
+🫘	cây cay họ ho đậu hạt hat thận than thức thuc ăn an
+🔻	đỏ hình hinh học hoc tam giác giac màu mau trỏ tro xuống xuong dưới duoi
+🪊	âm am nhạc nhac buồn buon đồng jazz cụ cu trượt truot
+🫠	biến bien mất mat chất chat lỏng long hòa hoa tan mặt chảy chay
+🏅	chiến chien thắng thang huy chương chuong thể the thao vàng vang vô vo địch
+🧄	gia vị vi tỏi toi
+🛴	đẩy xe hẩy hay
+🪛	bắt bat vít vit đầu phẳng phang dụng dung cụ cu tua
+😤	chiến chien thắng thang hân han hoan không khong vui mặt mat có co mũi mui đang phì phi hơi hoi tức tuc giận gian
+🐁	chuột chuot động vật vat
+🫙	bình binh đựng cửa cua hàng hang gia vị vi nước nuoc sốt sot thùng thung chứa chua trống trong rỗng rong
+🦉	chim cú cu động vật vat khôn khon ngoan
+🧑‍🦽	khả kha năng nang tiếp tiep cận can người nguoi trên tren xe lăn lan tay
+🔨	búa bua dụng dung cụ cu sửa sua chữa chua
+🕘	00 9 9:00 chín chin đồng hồ ho giờ gio
+😵	chóng chong mặt mat mệt met ốm om
+💩	chất chat thải thai đống phân phan hài hai hước huoc khuôn khuon mặt mat quái quai vật vat
+🤬	chửi chui rủa rua thề the mặt mat có co các cac ký ky hiệu hieu trên tren miệng mieng tức tuc giận gian
+🔭	dụng dung cụ cu khoa học hoc kính kinh viễn vien vọng vong
+🎦	bộ bo phim máy may ảnh anh quay rạp rap chiếu chieu
+🦩	hồng hong hạc hac nhiệt nhiet đới rực ruc rỡ ro
+🥑	hoa quả qua bơ bo thức thuc ăn an
+👝	quần quan áo ao túi tui cắp cap nách nach nhỏ nho
+🔞	18 cấm cam người nguoi dưới duoi tuổi tuoi giới gioi hạn han độ mười muoi tám tam vị vi thành thanh niên nien
+🥩	bít bit tết tet sườn suon cừu cuu lợn lon tảng tang thịt thit
+🌔	mặt mat trăng trang khuyết khuyet tròn tron dần dan
+🌛	mặt mat phần phan tư tu trăng trang thượng thuong huyền huyen hình hinh người nguoi
+😰	lạnh lanh mặt mat lo lắng lang và va toát toat mồ mo hôi hoi vội voi vã xanh da trời troi
+🧑‍🤝‍🧑	cặp cap đôi giữ giu hai người nguoi nắm nam tay
+🍫	món mon tráng trang miệng mieng ngọt ngot sô so cô co la thanh
+🥹	buồn buon chịu chiu đựng giận gian giữ giu khóc khoc mặt mat kìm kim nén nen nước nuoc mắt tự tu hào hao
+🔈	âm am lượng luong loa thấp thap thanh nhẹ nhe nhỏ nho
+🍘	bánh banh quy giòn gion gạo gao thực thuc phẩm pham
+♍	cung hoàng hoang đạo lá la số so tử tu vi xử xu nữ nu
+🫫	sự su căng cang thẳng thang che giấu giau chuyển chuyen hoá hoa hé he lộ lo kiên kien cường cuong sụp sup đổ tan vỡ vo
+🧚	cánh canh tiên tien kỳ ky ảo ao oberon puck thần than thoại thoai titania
+👉	chỉ chi mu bàn ban tay ngón ngon trỏ tro trái trai sang phải phai
+🐽	động vật vat lợn lon mặt mat mõm mom mũi mui ngửi ngui trang trại trai
+🕑	00 2 2:00 đồng hồ ho giờ gio hai
+💪	bắp bap tay gập gap lại lai cơ co hài hai hước huoc
+🚈	đường sắt sat tàu tau điện nhẹ nhe xe cộ co
+🏊	ba môn mon phối phoi hợp hop bơi boi tự tu do người nguoi đàn ông ong lội loi thể the thao vận van động viên vien
+❗	cảm cam thán than chấm cham dấu dau đỏ
+🍎	đỏ hoa quả qua táo tao
+👢	bốt bot giày giay nữ nu phụ phu quần quan áo ao
+💌	lá la thư thu tình tinh trái trai tim yêu yeu
+🤯	bị bi sốc soc đầu nổ no tung
+🫆	danh tính tinh dấu dau vân van tay pháp phap y sự su an toàn toan
+🍑	đào hoa quả qua
+🚣	bè be câu cau cá ca hồ ho người nguoi chèo cheo thuyền thuyen sông song có co mái mai xuồng xuong
+📿	hạt hat lời loi cầu cau nguyện nguyen quần quan áo ao tôn ton giáo giao tràng trang vòng vong cổ co
+🈁	“tại đây” katakana nút nut tiếng tieng nhật nhat
+🔎	dụng dung cụ cu kính kinh lúp lup nghiêng nghieng sang phải phai phóng phong đại tìm tim kiếm kiem
+🩰	balê bale giày giay múa mua
+🫺	cầm cam chỉ chi đó này nay phải phai trung lập lap
+🐲	khuôn khuon mặt mat rồng rong truyện truyen cổ co tích tich
+🧀	miếng mieng pho mát mat phô mai
+👘	kimono quần quan áo ao
+🪼	biển bien bỏng bong chích chich động vật vat không khong xương xuong sống song ối oi sinh phù phu du sứa sua thủy thuy xúc xuc tu
+🪢	bện ben buộc buoc dây day thừng thung nút nut thắt that rối roi xoắn xoan
+🚔	cảnh canh sát sat đang tới toi xe hơi hoi
+😝	hương huong vị vi kinh khủng khung lưỡi luoi mắt mat mặt thè the nhắm nham chặt chat
+🐐	cung hoàng hoang đạo ma kết ket dê de động vật vat nông nong trại trai sữa sua
+⛄	lạnh lanh người nguoi tuyết tuyet không khong có co
+🔄	làm lam mới moi mũi mui tên ten ngược nguoc chiều chieu kim đồng nút nut hồ ho tua lại lai
+📩	email mũi mui tên ten phong bì bi với voi thư thu đi
+😻	con mèo meo hình hinh trái trai tim khuôn khuon mặt mat mắt cười cuoi nụ nu thân than ái ai
+🎡	bánh banh xe công cong viên vien giải giai trí tri đu quay vòng vong
+🕝	2 2:30 ba mươi muoi đồng hồ ho hai giờ gio phút phut
+🕚	00 11 11:00 đồng hồ ho giờ gio mười muoi một mot
+🕕	00 6 6:00 đồng hồ ho giờ gio sáu sau
+🎄	cây cay thông thong noel giáng giang sinh lễ le kỷ ky niệm niem
+💀	cái cai chết chet đầu lâu lau mặt mat quái quai vật vat truyện truyen cổ co tích tich
+😇	giả gia tưởng tuong hào hao quang mặt mat cười cuoi có co ngây ngay thơ tho thiên thien thần than
+🙀	mặt mat mèo meo mệt met lử lu mỏi moi ngạc ngac nhiên nhien ôi oi
+🧾	biên bien nhận nhan chứng chung từ tu ghi sổ so sách sach giấy giay tờ to thực thuc hóa hoa đơn kế ke toán toan
+🏮	đèn lồng long giấy giay màu mau đỏ quán quan bar
+🩹	băng bang dán dan y tế te dính dinh vết vet thương thuong
+♎	cân can đối công cong bằng bang cung hoàng hoang đạo lá la số so tử tu vi thiên thien bình binh
+🛞	bánh banh xe hình hinh tròn tron lốp lop xoay
+🍂	lá la rụng rung thực thuc vật vat
+👫	cầm cam cặp cap đôi đàn ông ong nắm nam tay người nguoi và va phụ phu nữ nu
+🏺	bảo bao bình binh hoàng hoang đạo nấu nau ăn an uống uong vò vo hai quai
+🤗	mặt mat ôm om
+🔩	bu lông long đai ốc oc và va dụng dung cụ cu
+🍗	chân chan đói đùi gà ga tây tay gia cầm cam xương xuong
+😾	hờn hon dỗi doi mặt mat mèo meo
+🫲	bàn ban tay hướng huong sang bên ben trái trai
+🥕	cà ca rốt rot thức thuc ăn an thực vật vat
+🍿	bỏng bong ngô ngo phim
+🦦	bắt bat cá ca nghịch nghich ngợm ngom rái rai
+🍖	thịt thit bám bam xương xuong
+😪	buồn buon ngủ ngu khóc khoc mặt mat
+📭	hòm hom thư thu hộp hop được mở mo với voi lá la cờ co nằm nam ngang
+🎋	biểu bieu ngữ ngu cây cay tanabata kiểu kieu nhật nhat bản ban lễ le kỷ ky niệm niem
+🥪	bánh banh mỳ my kẹp kep
+🚺	nhà nha vệ ve sinh nữ nu phòng phong wc
+🤟	anh yêu yeu em ba ngón ngon tay cử cu chỉ chi nhau
+⛪	cầu cau nguyện nguyen cây cay thánh thanh giá gia đạo cơ co đốc nhà nha thờ tho tôn ton giáo giao
+📋	bảng bang ghi nhớ nho chú chu việc viec cần can làm lam
+🐦	chim động vật vat
+🎴	hoa kiểu kieu nhật nhat bản ban quân quan bài bai hình hinh thiệp thiep trò tro chơi choi
+🧑‍🩰	ba lê le vũ vu công cong
+👩‍🦯	hỗ ho trợ tro tiếp tiep cận can khiếm khiem thị thi mù mu người nguoi phụ phu nữ nu với voi cây cay gậy gay dò do đường
+🔀	bắt bat chéo cheo mũi mui tên ten nút nut xáo xao trộn tron bài bai
+🈚	“miễn phí” chữ chu tượng tuong hình hinh nút nut tiếng tieng nhật nhat
+📸	đèn flash máy may ảnh anh có co video
+🫥	ẩn an biến bien mất mat chán chan nản nan hướng huong nội noi mặt có co đường viền vien chấm cham thất that vọng vong vô vo hình hinh
+🫀	cơ co quan tim giải giai phẫu phau khoa mạch mach màu mau đỏ nhịp nhip trái trai thật that trung tâm tam
+🦮	chó cho dẫn dan đường hỗ ho trợ tro tiếp tiep cận can khiếm khiem thị thi mù mu
+🦬	bò bo rừng rung đàn động vật vat trâu trau
+👴	cụ cu ông ong đàn đầu hói hoi già gia người nguoi lớn lon
+💅	chăm cham sóc soc đánh bóng bong làm lam móng mong tay mỹ my phẩm pham sơn son
+🐀	chuột chuot cống cong động vật vat
+🔛	dấu dau mũi mui tên ten on
+🎸	đàn ghi-ta nhạc nhac cụ cu
+🎼	bản ban nhạc nhac khuông khuong
+😽	con mèo meo hôn hon khuôn khuon mặt mat mắt nhắm nham
+🪖	chiến chien binh mũ mu bảo bao hiểm hiem sắt sat quân quan đội người nguoi lính linh sự su
+❎	dấu dau nhân nhan hình hinh vuông vuong nút nut gạch gach chéo cheo
+🫰	bàn ban tay với voi ngón ngon trỏ tro và va cái cai bắt bat chéo cheo búng bung đắt tiền tien bạc bac tình tinh yêu yeu trái trai tim
+🛻	nhận nhan hàng hang ô o tô to vận van tải tai xe bán ban
+📍	đinh ghim hình hinh tròn tron
+😅	căng cang thẳng thang chán chan nản nan cười cuoi nhe răng rang hào hao hứng hung lạnh lanh lo lắng lang mặt mat miệng mieng mỉm mim mở mo mồ hôi hoi
+🏨	khách khach sạn san tòa toa nhà nha
+👐	hai bàn ban tay đang xòe xoe mở mo ra
+🗾	bản ban đồ nhật nhat
+🦊	cáo cao động vật vat mặt mat
+😭	buồn buon khóc khoc mặt mat to nước nuoc mắt thổn thon thức thuc
+👂	âm am thanh cơ co thể the nghe tai
+😴	không khong quan tâm tam mặt mat đang ngủ ngu mệt met mỏi moi ngoan sao cũng cung được zzz
+🍟	đồ ăn an nhanh khoai tây tay chiên chien kiểu kieu pháp phap
+🚫	bị bi cấm cam không khong có co lối loi vào vao
+🚀	di chuyển chuyen không khong gian phóng phong tên ten lửa lua
+📅	lịch lich ngày ngay
+🏑	cây cay gậy gay khúc khuc côn con cầu cau trên tren cỏ co quả qua bóng bong sân san trò tro chơi choi
+🚴	đạp xe người nguoi đi thể the thao vận van động viên vien đua
+🪄	gậy gay thần than ma thuật thuat phù phu thủy thuy thầy thay
+🐴	mặt mat ngựa ngua
+🥱	buồn buon ngủ ngu chán chan không khong quan tâm tam mặt mat đang ngáp ngap mệt met mỏi moi thôi thoi sao cũng cung được
+🚦	biển bien báo bao đèn giao thông thong dọc doc
+🎯	hồng hong tâm tam mục muc tiêu tieu phi trò tro chơi choi trúng trung đích
+👛	đồng tiền tien quần quan áo ao xu ví vi
+🎤	âm am thanh hát hat karaoke micrô micro nhạc nhac
+💾	đĩa máy may tính tinh mềm mem
+😛	lưỡi luoi mặt mat lè le
+🦸	anh hùng hung người nguoi dơi doi nữ nu siêu sieu năng nang lực luc tốt tot
+🫨	choáng choang động đất hốt hot hoảng hoang lắc lac mặt mat ngạc ngac nhiên nhien rung sốc soc sửng sung sốt sot wow
+🍄‍🟫	ăn an chay cây cay nấm nam nâu nau màu mau nhân nhan pizza rau thức thuc tự tu nhiên nhien
+🧑‍💼	công cong việc viec văn van phòng phong kiến kien trúc truc sư su kinh doanh người nguoi quản quan lý ly nhân nhan viên vien
+🆚	đấu với voi nút nut vs
+🚊	ô o tô to điện xe
+🎅	cha claus giáng giang sinh lễ le kỷ ky niệm niem ông ong già gia noel noen santa
+🛁	bồn bon tắm tam
+🤰	mang thai người nguoi phụ phu nữ nu có co
+🍧	bào bao đá kem món mon tráng trang miệng mieng ngọt ngot
+🧔	người nguoi đàn ông ong có co râu rau
+😑	không khong diễn dien cảm cam mặt mat vô vo thản than nhiên nhien
+🪾	cằn can cỗi coi cây cay chết chet gỗ go hạn han hán mùa mua đông nhánh nhanh thân than trần tran trụi trui lá la
+🤓	bốn bon mắt mat chuyên chuyen gia đam mê me mặt mọt mot sách sach thông thong minh
+⚡	cú cu đánh điện cao thế the nguy hiểm hiem sét set tự tu nhiên nhien
+🧑‍🏫	giáo giao sư su viên vien người nguoi hướng huong dẫn dan
+🏡	ngôi ngoi nhà nha có co vườn vuon
+⛺	cắm cam trại trai lều leu
+🍥	bánh banh cá ca có co hình hinh xoắn xoan ngọt ngot xoáy xoay
+🔰	hình hinh v ký ky hiệu hieu của cua nhật nhat cho người nguoi mới moi bắt bat đầu lá la
+🧷	chất chat thải thai ghim băng bang tã ta
+📨	email nhận nhan phong bì bi thư thu đến
+🍷	đồ uống uong ly rượu ruou vang quán quan ba
+🚯	bị bi cấm cam nghiêm nghiem xả xa rác rac không khong
+🩺	bác bac sĩ si ống ong nghe tim y tế te
+🌘	cuối cuoi tháng thang không khong gian lưỡi luoi liềm liem mặt mat trăng trang
+🐍	chòm chom sao xà xa phu cung hoàng hoang đạo động vật vat rắn ran mang
+🟥	hình hinh vuông vuong màu mau đỏ ô o
+🐦‍⬛	chim hoét hoet đen con quạ qua động vật vat họ ho loài loai màu mau mỏ mo
+🏁	ca rô ro chiến chien thắng thang cờ co ô o vuông vuong cuộc cuoc đua thể the thao
+📃	quăn quan tài tai liệu lieu trang bị bi
+🔲	hình hinh học hoc vuông vuong nút nut màu mau đen
+📶	ăng-ten di động điện thoại thoai vạch vach
+🏬	cửa cua hàng hang bách bach hóa hoa
+🪘	conga đập nhạc nhac cụ cu nhịp nhip trống trong dài dai
+🔣	〒♪&% nhập nhap biểu bieu tượng tuong
+🕋	hồi hoi giáo giao kaaba thuộc thuoc tôn ton
+🪭	e thẹn then làm lam mát mat múa mua nóng nong quạt quat giấy giay tán tan tỉnh tinh vỗ vo cánh canh
+🥸	ẩn an danh gián gian điệp kính kinh lông long mày may mặt mat trá tra hình hinh mũi mui người nguoi ngụy nguy trang râu rau ria mép mep
+🤙	bàn ban tay gọi goi cho tôi toi điện
+🚲	xe cộ co đạp
+👗	mua sắm sam quần quan áo ao váy vay
+🦠	amip khoa học hoc vi khuẩn khuan rút rut trùng trung
+🏃	chạy chay bộ bo đua maratông maratong nhanh đang đến người nguoi tốc toc độ vội voi vã va
+🕧	12 12:30 ba mươi muoi đồng hồ ho mười hai giờ gio phút phut
+😒	buồn buon không khong vui mặt mat
+📙	màu mau cam sách sach
+👔	áo ao sơ so mi cà ca vạt vat quần quan trang trọng trong
+🧯	bình binh chữa chua cháy chay cứu cuu hỏa hoa dập dap tắt tat lửa lua
+👟	giày giay chạy chay bộ bo đế mềm mem quần quan áo ao thể the thao
+😫	mặt mat mệt met mỏi moi
+🏢	công cong việc viec dạng dang lập lap phương phuong thành thanh phố pho tòa toa nhà nha văn van phòng phong
+🍩	bánh banh rán ran vòng vong món mon tráng trang miệng mieng ngọt ngot
+♈	bạch bach dương duong chòm chom sao cung hoàng hoang đạo cừu cuu đực lá la số so tử tu vi
+🤺	đấu kiếm kiem người nguoi đánh
+🧎	đang quỳ quy người nguoi gối goi
+🧑‍🧑‍🧒	gia đình người nguoi lớn lon trẻ tre em
+⛲	đài phun nước nuoc
+🍵	cốc coc đồ uống uong tách tach trà tra không khong có co quai
+🌲	cây cay thông thong thường thuong xanh giáng giang sinh rừng rung
+👩‍🚀	không khong gian nữ nu phi hành hanh gia tên ten lửa lua
+🫦	cắn can môi moi hồi hoi hộp hop khó kho chịu chiu lo âu au lắng lang sợ so hãi hai tán tan tỉnh tinh
+🏧	atm ký ky hiệu hieu máy may rút rut tiền tien ngân ngan hàng hang tự tu động
+🥈	bạc bac hai huy chương chuong
+💿	cd đĩa máy may tính tinh quang
+🎣	cá ca cần can câu cau giải giai trí tri thể the thao
+🍪	bánh banh quy món mon tráng trang miệng mieng ngọt ngot
+🧬	adn di truyền truyen gien nhà nha sinh vật vat học hoc sự su sống song tiến tien hóa hoa
+🎓	cái cai mũ mu lễ le kỷ ky niệm niem tốt tot nghiệp nghiep quần quan áo ao
+🪫	điện tử tu năng nang lượng luong thấp thap pin yếu yeu
+🦿	chân chan giả gia hỗ ho trợ tro tiếp tiep cận can
+⛔	cấm cam vào vao giao thông thong không khong cho phép phep lối loi
+🛙	ánh anh sáng sang biển bien đèn điều hướng huong giác giac ngộ ngo hàng hang hải hai dẫn dan hy vọng vong tín tin hiệu hieu
+🍕	bánh banh pizza lát lat phô pho mai
+🧅	gia vị vi hành hanh
+🦖	khủng khung long bạo bao chúa chua
+😡	cơn con thịnh thinh nộ no điên đỏ hờn hon dỗi doi mặt mat tức tuc giận gian
+🪸	đại dương duong rặng rang san hô ho
+⏫	kép kep mũi mui tên ten nút nut lên len nhanh
+🟠	da cam hình hinh tròn tron màu mau vòng vong
+🌄	bình binh minh trên tren núi nui buổi buoi sáng sang mặt mat trời troi
+🐚	bãi bai biển bien động vật vat vỏ vo xoắn xoan ốc oc
+🩼	đau gậy gay chống chong hỗ ho trợ tro di chuyển chuyen khuyết khuyet tật tat nạng nang
+😢	buồn buon khóc khoc mặt mat nước nuoc mắt
+🧦	bít bit tất tat vớ vo
+💢	biểu bieu tượng tuong giận gian giữ giu điên hài hai hước huoc tức tuc
+💨	chạy chay chớp chop nhoáng nhoang hài hai hước huoc lao đi
+😯	choáng choang váng vang làm lam thinh mặt mat ngạc ngac nhiên nhien
+👤	bóng bong tượng tuong bán ban thân than
+🎠	đu quay ngựa ngua giải giai trí tri
+👮	bắt bat giữ giu bị bi tóm tom cảnh canh sát sat nằm nam vùng vung công cong an dừng dung xe luật luat sĩ si quan
+🧑	giới gioi tính tinh chung không khong xác xac định người nguoi lớn lon
+🗼	tháp thap tokyo
+📳	chế che độ rung di động điện thoại thoai
+🏤	bưu buu điện kiểu kieu châu chau âu au
+👕	áo ao phông phong sơ so mi thun quần quan
+🍴	ăn an sáng sang bữa bua tối toi trưa trua cho dao dĩa dia đồ đói nấu nau ngon miệng mieng nhà nha hàng hang
+🛃	hải hai quan
+🐳	bãi bai biển bien cá ca voi đại dương duong động vật vat khuôn khuon mặt mat phun nước nuoc
+👨‍🍼	bố bo cho bú bu con đàn ông ong em bé be nam người nguoi tình tinh yêu yeu
+🦯	gậy gay dò do đường hỗ ho trợ tro tiếp tiep cận can khiếm khiem thị thi mù mu
+👩‍🚒	lính linh cứu cuu hỏa hoa nữ nu xe
+⛅	mặt mat trời troi sau đám mây may
+😞	mặt mat thất that vọng vong
+💤	buồn buon ngủ ngu đang hài hai hước huoc mệt met ngất ngat rồi roi
+🚵	người nguoi đạp xe đi leo núi nui thể the thao vận van động viên vien đua
+👪	gia đình trẻ tre em
+👠	giày giay cao gót got chân chan phụ phu nữ nu quần quan áo ao
+😷	bác bac sĩ si lạnh lanh mặt mat đeo khẩu khau trang y tế te nạ na ốm om
+🥞	bánh banh kếp kep thức thuc ăn an
+🆓	free nút nut
+🏹	cung hoàng hoang đạo tên ten thủ thu mũi mui nhân nhan mã ma
+🪈	âm am nhạc nhac ban diễu dieu hành hanh dàn dan giao hưởng huong máy may ghi cụ cu hơi hoi bằng bang gỗ go ống ong sáo sao tiêu tieu
+🛂	hộ ho chiếu chieu kiểm kiem soát soat
+😱	kinh sợ so la hét het mặt mat hãi hai
+🐄	bò bo cái cai sữa sua động vật vat trang trại trai
+🔳	hình hinh học hoc vuông vuong mờ mo nút nut màu mau trắng trang
+👩‍🎓	nữ nu sinh viên vien tốt tot nghiệp nghiep
+🐏	cung bạch bach dương duong hoàng hoang đạo cừu cuu đực
+🪿	cầm cam điểu chim con gà ga ngỗng ngong vịt vit đàn động vật vat kêu keu khờ kho dại dai ngây ngay ngô ngo
+📥	hộp hop thư thu đến khay nhận nhan
+🐇	con thỏ tho động vật vat thú thu cưng cung
+🥐	bánh banh móng mong ngựa ngua mỳ my sừng sung bò bo pháp phap thức thuc ăn an
+🌖	cuối cuoi tháng thang mặt mat trăng trang khuyết khuyet
+🦻	hỗ ho trợ tro tiếp tiep cận can nặng nang tai đeo thiết thiet bị bi thính thinh
+🌅	bình binh minh buổi buoi sáng sang mặt mat trời troi thiên thien nhiên nhien
+🦌	động vật vat hươu huou
+🌰	hạt hat dẻ de thực thuc vật vat
+🧫	đĩa petri nhà nha sinh vật vat học hoc nuôi nuoi cấy cay phòng phong thí thi nghiệm nghiem vi khuẩn khuan
+🐅	dã da thú thu động vật vat hổ ho sở so
+💬	bài bai diễn dien văn van bóng bong lời loi nói noi hài hai hước huoc thoại thoai
+🚮	ký ky hiệu hieu bỏ bo rác rac vào vao thùng thung xả xa
+🟦	hình hinh vuông vuong màu mau xanh da trời troi lam ô o
+👼	bé be con mặt mat thiên thien thần than nhỏ nho truyện truyen cổ co tích tich tưởng tuong tượng
+🚩	cờ co tam giác giac đánh dấu dau xây xay dựng dung
+😿	buồn buon khóc khoc mặt mat mèo meo đang nước nuoc mắt
+😦	mặt mat cau miệng mieng há ha mở mo nhăn nhan
+🚍	đang tới toi xe buýt buyt
+⭐	ngôi ngoi sao thiên thien văn van
+🃏	lá la bài bai quân quan phăng phang teo trò tro chơi choi
+😵‍💫	bối boi rối roi chóng chong mặt mat khó kho hiểu hieu có co đôi mắt xoắn xoan ốc oc rắc rac thôi thoi miên mien
+🚾	nhà nha vệ ve sinh nước nuoc phòng phong wc
+🐡	cá ca bơn bon nóc noc động vật vat
+♒	bảo bao bình binh cung hoàng hoang đạo lá la số so tử tu vi người nguoi mang nước nuoc
+👨‍🦯	hỗ ho trợ tro tiếp tiep cận can khiếm khiem thị thi mù mu người nguoi đàn ông ong với voi cây cay gậy gay dò do đường
+🤪	lớn lon mắt mat mặt làm lam trò tro hề he ngốc ngoc nhỏ nho
+💜	tím tim trái trai
+🤽	bơi boi lội loi bóng bong người nguoi chơi choi dưới duoi nước nuoc thể the thao
+👸	cổ co tích tich công cong chúa chua giả gia tưởng tuong hoàng hoang hậu hau vương vuong miện mien
+☔	cái cai ô o với voi những nhung giọt giot nước nuoc mưa mua chiếc chiec che quần quan áo ao rơi roi
+🦋	bướm buom côn con trùng trung đẹp
+🌒	lưỡi luoi liềm liem mặt mat trăng trang đầu tháng thang tròn tron dần dan
+🔍	dụng dung cụ cu kính kinh phóng phong đại nghiêng nghieng sang trái trai tìm tim kiếm kiem
+😕	bối boi rối roi mặt mat
+🆙	dấu dau nút nut up
+🧲	âm am dương duong chữ chu u móng mong ngựa ngua nam châm cham sức suc hút hut từ tu tính tinh
+🌝	khuôn khuon mặt mat trăng trang tròn tron sáng sang
+🐊	cá ca sấu sau động vật vat sở so thú thu
+🦎	bò bo sát sat động vật vat thằn than lằn lan
+🤤	chảy chay dãi dai mặt mat
+🍰	bánh banh miếng mieng món mon tráng trang miệng ngọt ngot
+🫸	bàn ban tay đẩy sang phải phai chặn chan chờ cho đập dừng dung lại lai thôi thoi từ tu chối choi
+💷	bảng bang hoá hoa đơn tiền tien giấy giay tệ te
+🧑‍🧒	gia đình người nguoi lớn lon trẻ tre em
+🚨	ánh anh sáng sang cảnh canh sát sat đèn hiệu hieu xe quay vòng vong hơi hoi
+👳	khăn khan turban xếp xep người nguoi đội
+🦼	hỗ ho trợ tro tiếp tiep cận can năng nang xe lăn lan tự tu động
+🎂	bánh banh sinh nhật nhat lễ le kỷ ky niệm niem món mon tráng trang miệng mieng ngọt ngot
+📴	di động điện thoại thoai tắt tat
+🪶	bộ bo lông long chim chuyến chuyen bay nhẹ nhe
+🧰	cơ co khí khi dụng dung cụ cu hòm hom hộp hop thợ tho máy may
+🚋	ô o tô to điện tàu tau toa xe
+🔢	1234 nhập nhap số so
+🍮	bánh banh trứng trung món mon tráng trang miệng mieng ngọt ngot
+🔺	hình hinh học hoc màu mau đỏ tam giác giac trỏ tro lên len trên tren
+🎻	đàn violin nhạc nhac cụ cu
+🪴	chậu chau cây cay mọc moc nhà nha nuôi nuoi dưỡng duong thực thuc vật vat trang trí tri trồng trong
+🛵	mô mo tơ to xe tay ga
+🎒	ba lô lo đi học hoc cặp cap trường truong túi tui
+🦛	động vật vat hà ha mã ma
+🔸	hình hinh học hoc thoi nhỏ nho màu mau cam
+🐬	bãi bai biển bien cá ca heo chân chan chèo cheo đại dương duong động vật vat
+🧿	bùa bua may mắn man nazar hạt hat mắt mat ác ac mê me hoặc hoac nhìn nhin
+🥼	áo ao phòng phong thí thi nghiệm nghiem bác bac sĩ si nhà nha khoa học hoc
+🔮	dụng dung cụ cu giả gia tưởng tuong pha lê le quả qua bóng bong cầu cau truyện truyen cổ co tích tich vận van may
+🌕	mặt mat trăng trang tròn tron
+💧	giọt giot nước nuoc hài hai hước huoc lạnh lanh mồ mo hôi hoi rơi roi
+🎌	bắt bat chéo cheo cờ co gạch gach kiểu kieu nhật nhat bản ban lễ le kỷ ky niệm niem
+🚒	động cơ co lửa lua xe cứu cuu hỏa hoa tải tai
+🤶	bà ba già gia noel giáng giang sinh mẹ me
+🆒	cool mát mat nút nut
+🥀	héo heo hoa
+🖤	đen điều ác ac tim xấu xau
+🚓	cảnh canh sát sat tuần tuan tra xe hơi hoi
+🥅	gôn gon khung thành thanh lưới luoi
+🍁	lá la cây cay phong rụng rung
+🧈	bơ bo sữa sua
+🐶	cún cun động vật vat mặt mat thú thu cưng cung
+🚭	bị bi cấm cam nghiêm nghiem hút hut thuốc thuoc không khong
+⚽	bóng bong đá quả qua thể the thao vua túc tuc cầu cau
+🧑‍💻	kỹ ky sư su công cong nghệ nghe lập lap trình trinh viên vien người nguoi phát phat minh nhà nha triển trien phần phan mềm mem
+🧡	màu mau cam trái trai tim
+🌙	lưỡi luoi liềm liem mặt mat trăng trang
+🛀	bồn bon tắm tam người nguoi đang
+🕡	6 6:30 ba mươi muoi đồng hồ ho sáu sau giờ gio phút phut
+🪗	accordion âm am nhạc nhac buổi buoi hòa hoa hộp hop bóp bop cụ cu phong cầm cam
+🥊	găng gang tay quyền quyen anh
+🔷	hình hinh học hoc thoi lớn lon màu mau lam
+📕	đóng giáo giao dục duc sách sach
+🎪	lều leu rạp rap xiếc xiec
+🧊	băng bang đá lạnh lanh viên vien
+🫌	biến bien đổi côn con trùng trung di cư cu hoá hoa bướm buom hy vọng vong mỏng mong manh sâu sau thay
+🧺	cái cai giỏ gio dã da ngoại ngoai giặt giat ủi ui trồng trong trọt trot
+🫓	arepa bánh banh mì mi dẹt det mỳ my cắt cat lát lat lavash pita thực thuc phẩm pham
+🔖	đánh dấu dau trang
+🤕	băng bang đau mặt mat đeo đầu vết vet thương thuong
+🎃	đèn lồng long bí bi ngô ngo halloween lễ le hội hoi
+🍨	kem món mon tráng trang miệng mieng ngọt ngot
+⬛	hình hinh học hoc vuông vuong lớn lon màu mau đen
+🩵	143 cảm cam xúc xuc đặc biệt biet dễ de thương thuong thích thich trái trai tim màu mau xanh dương duong nhạt nhat lơ lo mòng mong két ket yêu yeu
+◽	hình hinh học hoc vuông vuong nhỏ nho vừa vua màu mau trắng trang
+🥶	đóng băng bang lạnh lanh cứng cung mặt mat xanh tê te cóng cong
+🪪	bảo bao mật mat căn can cước cuoc công cong dân dan cccd chứng chung minh nhân nhan cmnd giấy giay phép phep thẻ the nhận dạng dang
+📵	cấm cam điện thoại thoai di động không khong
+😋	cười cuoi mặt mat thưởng thuong thức thuc món mon ngon tuyệt tuyet
+🫵	bạn ban ngón ngon trỏ tro chỉ chi vào vao người nguoi xem
+🙋	chọn chon tôi toi đi cử cu chỉ chi giơ gio tay nâng nang lên len người nguoi cao vui vẻ ve ở o bên ben này nay có co thể the giúp giup muốn muon hỏi hoi
+🐵	động vật vat khỉ khi khuôn khuon mặt mat quả qua chuối chuoi
+🪵	gỗ go xẻ xe khúc khuc
+🧑‍🧒‍🧒	gia đình người nguoi lớn lon trẻ tre em
+🍡	bánh banh trôi troi nhật nhat bản ban món mon kiểu kieu tráng trang miệng mieng ngọt ngot que
+🎥	bollywood hollywood máy may quay phim rạp rap chiếu chieu
+⌚	đồng hồ ho đeo tay thời thoi gian
+🫕	lẩu lau phô pho mai nấu nau chảy chay nồi noi sô so cô co la thức thuc ăn an trượt truot tuyết tuyet
+🕠	5 5:30 ba mươi muoi đồng hồ ho năm nam giờ gio phút phut
+🤲	cầu cau nguyện nguyen hai bàn ban tay chạm cham vào vao nhau lời loi
+🙊	cấm cam điều xấu xau khỉ khi không khong nói noi mặt mat
+🐞	bọ bo cánh canh cứng cung rùa rua con côn trùng trung thiên thien nhiên nhien
+🪃	australia bật bat lại lai boomerang bumơrang bumorang dội doi thổ tho dân dan vũ vu khí khi
+🈹	“giảm giá” chữ chu tượng tuong hình hinh nút nut tiếng tieng nhật nhat
+🧜	chàng chang tiên tien cá ca công cong chúa chua đinh ba nàng nang người nguoi sinh vật vat biển bien thần than thoại thoai truyện truyen cổ co tích tich
+🐙	bạch bach tuộc tuoc đại dương duong động vật vat sinh
+🧢	mũ mu bóng bong chày chay lưỡi luoi trai
+🦞	càng cang động vật vat hải hai sản san tôm tom hùm hum xúp xup cua
+🍒	anh đào hoa quả qua màu mau đỏ mọng mong thực thuc vật vat trái trai cây cay
+🌠	ngôi ngoi sao phóng phong rơi roi băng bang
+🥭	nhiệt nhiet đới trái trai cây cay xoài xoai
+🌭	bánh banh mì mi xúc xuc xích xich
+🫈	chân chan to khổng khong lồ lo người nguoi rừng rung tuyết tuyet nhiều nhieu lông long sinh vật vat bí bi ẩn an yeti
+💎	đá quý quy đồ nữ nu trang kim cương cuong viên vien ngọc ngoc
+🪠	dụng dung cụ cu thông thong tắc tac hút hut lực luc cốc coc nhà nha vệ ve sinh thợ tho sửa sua ống ong nước nuoc
+🚗	ô o tô to xe cộ co
+🧨	nổ no pháo phao hoa thuốc thuoc
+🕢	7 7:30 ba mươi muoi bảy bay giờ gio phút phut đồng hồ ho
+😖	mặt mat xấu xau hổ ho
+🧗	leo núi nui trèo treo người nguoi đang phụ phu nữ nu nhà nha
+📏	cạnh canh thẳng thang thước thuoc kẻ ke toán toan
+🧛	bất bat tử tu đáng sợ so dracula halloween hóa hoa trang ma cà ca rồng rong máu mau răng rang nanh siêu sieu nhiên nhien xác xac sống song
+🟡	hình hinh tròn tron màu mau vàng vang vòng vong
+🦥	chậm cham con lười luoi đủng đỉnh
+🧩	đầu mối moi ghép ghep hình hinh vào vao nhau mảnh manh trò tro
+🚕	lái lai xe màu mau vàng vang taxi cộ co
+🈺	“mở cửa cua kinh doanh” chữ chu tượng tuong hình hinh nút nut tiếng tieng nhật nhat
+🥙	bánh banh mỳ my dẹt det gyro kẹp kep thịt thit đồ ăn an falafel nhồi nhoi
+🙃	lộn lon ngược nguoc mặt mat
+🌎	châu chau mỹ my địa cầu cau thế the giới gioi thể hiện hien trái trai đất
+🫐	hoa quả qua màu mau xanh mọng mong việt viet quất quat thực thuc phẩm pham
+🍔	bánh banh hamburger kẹp kep
+😐	mặt mat ngây ngay ra bất bat động trung lập lap
+💰	đô la tiền tien túi tui
+🏏	gậy gay đánh bóng bong quả qua trò tro chơi choi cricket
+💞	đang quay trái trai tim xoay vòng vong
+🐋	bờ bo biển bien cá ca voi đại dương duong động vật vat
+🥳	buổi buoi tiệc tiec hào hao hứng hung lễ le kỷ ky niệm niem mặt mat tùng tung mũ mu sinh nhật nhat sừng sung
+🌞	bãi bai biển bien mặt mat trời troi có co hình hinh người nguoi sáng sang thời thoi tiết tiet
+🍄	nấm nam thực thuc vật vat
+🤩	cười cuoi toét toet mắt mat mặt ngôi ngoi sao ngưỡng nguong mộ mo
+🛅	hành hanh lý ly bỏ bo quên quen tủ tu khóa khoa
+⭕	o vòng vong tròn tron lớn lon đậm
+🌈	cầu cau vồng vong chuyển chuyen giới gioi đồng tính tinh lưỡng luong mưa mua thời thoi tiết tiet tự tu nhiên nhien
+💛	cảm cam xúc xuc màu mau vàng vang trái trai tim yêu yeu
+💋	dấu dau nụ nu hôn hon môi moi
+📓	sổ so ghi chép chep
+⏳	bộ bo định thời thoi cát cat đồng hồ ho đang chảy chay
+🩸	chấn chan thương thuong chu kỳ ky kinh nguyệt nguyet giọt giot máu mau hiến hien thuốc thuoc y tế te
+🍐	hoa quả qua lê le
+🐂	bò bo đực mộng mong cung hoàng hoang đạo kim ngưu nguu
+👖	quần quan áo ao bò bo dài dai
+🟫	hình hinh vuông vuong màu mau nâu nau ô o
+🐃	động vật vat nước nuoc trâu trau vườn vuon thú thu
+⚾	bóng bong chày chay quả qua thể the thao
+🪙	bạc bac đô la đồng tiền tien euro giàu giau kho báu bau kim loại loai vàng vang
+🤞	bàn ban tay chéo cheo hai ngón ngon bắt bat may mắn man
+🥿	giày giay bệt bet búp bup bê be đi trong nhà nha lười luoi
+💒	đám cưới cuoi lãng lang mạn man nhà nha thờ tho nhỏ nho
+🤾	bắt bat bóng bong ném nem lốp lop người nguoi chơi choi phát phat thể the thao vận van động viên vien
+🕟	4 4:30 ba mươi muoi bốn bon giờ gio phút phut đồng hồ ho
+🙉	cấm cam điều xấu xau khỉ khi không khong nghe mặt mat
+🧏	điếc hỗ ho trợ tro tiếp tiep cận can khiếm khiem thính thinh nghe người nguoi tai
+🈲	“bị cấm” chữ chu tượng tuong hình hinh nút nut tiếng tieng nhật nhat
+🐸	ếch ech mặt mat
+⏪	kép kep mũi mui tên ten nút nut tua lại lai nhanh
+🌮	bánh banh mexico taco
+💸	bay cánh canh đô la tiền tien có co giấy giay
+🙅	cấm cam cử cu chỉ chi không khong bao giờ gio cho phép phep đời nào nao người nguoi ra hiệu hieu phản phan đối tay
+🧑‍🎤	ca sĩ si diễn dien viên vien nghệ nghe ngôi ngoi sao nhạc nhac rock
+🫅	cao quý quy hoàng hoang gia người nguoi đội vương vuong miện mien quân quan giả
+📘	sách sach màu mau lam xanh
+🪍	bắt bat bẫy bay lưới luoi thu thập thap
+🤌	cái cai gì gi cử cu chỉ chi tay khum lại lai kiên kien nhẫn nhan mỉa mia mai ngón ngon thẩm tham vấn van thư thu giãn gian
+⚫	hình hinh học hoc tròn tron màu mau đen
+🧕	hijab khăn khan trùm trum đầu vuông vuong người nguoi phụ phu nữ nu quàng quang tichel
+📚	đọc học hoc tập tap sách sach thư thu viện vien tri thức thuc trường truong
+👨	đàn ông ong người nguoi lớn lon
+🧑‍🔧	thợ tho điện máy may sửa sua ống ong nước nuoc thủ thu công cong
+👒	cái cai mũ mu phụ phu nữ nu quần quan áo ao
+🫜	củ cu cải cai đường rau rễ re vườn vuon
+💵	đô la hoá hoa đơn tiền tien giấy giay tệ te
+👊	cú cu đấm nắm nam tay siết siet chặt chat
+⌛	bộ bo định thời thoi cát cat đồng hồ ho đã chảy chay hết het hẹn hen giờ gio
+🫑	ớt ot chuông chuong rau thức thuc ăn an
+🚶	dáng dang đi đang bộ bo leo núi nui lang thang thong dong người nguoi tản tan
+🦙	động vật vat lạc lac đà alpaca guanaco không khong bướu buou vicuña vicuna len
+🎉	buổi buoi tiệc tiec lễ le kỷ ky niệm niem pháo phao bông bong sinh nhật nhat giấy giay
+📛	tên ten thẻ the
+🥔	khoai tây tay thức thuc ăn an thực vật vat
+🧒	giới gioi tính tinh chung không khong xác xac định trẻ tre em
+🥵	đỏ mặt mat đổ mồ mo hôi hoi nóng nong sốc soc nhiệt nhiet sốt sot
+🍶	chai cốc coc đồ uống uong quán quan ba rượu ruou sake
+🉐	“mặc cả” chữ chu tượng tuong hình hinh nút nut tiếng tieng nhật nhat
+♊	cung hoàng hoang đạo lá la số so tử tu vi song sinh
+🤫	im lặng lang mặt mat ra dấu dau suỵt suyt
+📮	hòm hom thư thu hộp hop
+🦷	nha sĩ si răng rang trắng trang ngọc ngoc
+🩻	bác bac sĩ si bộ bo xương xuong x-quang y tế te
+🔫	dụng dung cụ cu súng sung gắn gan lục luc ổ o quay nước nuoc vũ vu khí khi
+🔁	chiều chieu kim đồng hồ ho lặp lap lại lai mũi mui tên ten nút nut
+🍏	hoa quả qua táo tao xanh
+🕐	00 1 1:00 đồng hồ ho giờ gio một mot
+😁	cười cuoi nhe răng rang và va mắt mat mặt
+🩱	áo ao tắm tam một mot mảnh manh bộ bo
+🐛	bọ bo côn con trùng trung động vật vat vườn vuon
+😲	hoàn hoan toàn toan kinh ngạc ngac mặt mat sốc soc
+📟	máy may nhắn nhan tin
+🤘	ký ky hiệu hieu cặp cap sừng sung ngón ngon tay tuyệt tuyet vời voi
+😮	mặt mat có co miệng mieng há ha mở mo thông thong cảm cam
+🆘	nút nut sos trợ tro giúp giup
+💭	bong bóng suy nghĩ nghi hài hai hước huoc khí khi cầu cau
+🐉	động vật vat hiệp hiep sĩ si rồng rong truyện truyen cổ co tích tich
+🚟	đường sắt sat trên tren cao treo
+🫱	bàn ban tay hướng huong sang bên ben phải phai
+🎶	các cac nốt not nhạc nhac
+🈯	“đặt trước” chữ chu tượng tuong hình hinh nút nut tiếng tieng nhật nhat
+👹	mặt mat quỷ quy quái quai vật vat ăn an thịt thit người nguoi sinh truyện truyen cổ co tích tich tưởng tuong tượng
+🧑‍🎄	bà ba già gia noel chúc chuc mừng mung giáng giang sinh mũ mu người nguoi ông ong
+🫶	hai bàn ban tay tạo tao hình hinh trái trai tim yêu yeu
+💝	lễ le tình tinh yêu yeu ruy băng bang trái trai tim với voi
+🥇	huy chương chuong vàng vang nhất nhat
+🔘	hình hinh học hoc nút nut radio
+🪋	đá không khong gian ngôi ngoi sao rơi roi băng bang tận tan thế the trọng trong lực luc
+🐜	côn con trùng trung động vật vat kiến kien vườn vuon
+🆎	ab nhóm nhom máu mau nút nut
+🧑‍🍼	bố bo cho bú bu con đàn ông ong em bé be mẹ me người nguoi phụ phu nữ nu trẻ tre sơ so sinh
+💻	cá ca nhân nhan máy may tính tinh xách xach tay pc
+🏉	bóng bong bầu bau dục duc đá quả qua thể the thao
+🐆	báo bao hoa mai con động vật vat ăn an thịt thit
+🦡	con lửng lung động vật vat mật mat quấy quay rầy ray
+🦄	kỳ ky lân lan mặt mat
+💊	bác bac sĩ si bệnh benh thuốc thuoc viên vien vitamin
+🐒	chuối chuoi con khỉ khi động vật vat quả qua
+👃	cơ co thể the mũi mui
+🧼	bánh banh tắm tam vệ ve sinh xà xa phòng phong xát xat
+👧	bím bim tóc toc cô co gái gai con cung hoàng hoang đạo trẻ tre xử xu nữ nu
+📜	cuộn cuon giấy giay sách sach
+🗿	bức buc tượng tuong khuôn khuon mặt mat moai moyai
+🔠	abcd chữ chu hoa la tinh nhập nhap
+🌵	cây cay xương xuong rồng rong hạn han hán sa mạc mac thiên thien nhiên nhien thực thuc vật vat
+♉	bò bo đực chòm chom sao cung hoàng hoang đạo kim ngưu nguu lá la số so tử tu vi
+🙎	bĩu biu môi moi cáu cau kỉnh kinh cử cu chỉ chi hờn hon dỗi doi người nguoi đang nhăn nhan nhó nho thất that vọng vong
+🐓	chim động vật vat gà ga trống trong
+💓	dao động đập nhịp nhip tim trái trai đang
+😟	lo lắng lang mặt mat
+🕍	đền do thái thai giáo giao đường người nguoi tôn ton
+👶	trẻ tre con em sơ so sinh
+🌹	cây cay hoa hồng hong màu mau đỏ sang trọng trong tình tinh yêu yeu valentine vẻ ve đẹp
+🔧	chìa chia vặn van cờ co lê le dụng dung cụ cu
+🪂	dù du kéo keo lượn luon nhảy nhay
+🦨	chồn chon hôi hoi mỹ my động vật vat mùi mui
+👩‍🏫	giáo giao sư su viên vien nữ nu người nguoi hướng huong dẫn dan phụ phu
+🌷	hoa tulip thực thuc vật vat
+🥠	bánh banh quy may mắn man tiên tien tri
+⛽	bơm bom nhiên nhien liệu lieu diesel gas khí khi trạm tram
+⛎	con rắn ran cung hoàng hoang đạo người nguoi mang xà xa phu
+🌋	núi nui lửa lua phun trào trao thiên thien nhiên nhien
+🛬	đến điểm hạ ha cánh canh máy may bay nơi noi
+🔱	biểu bieu tượng tuong đinh ba công cong cụ cu neo tàu tau
+💳	ngân ngan hàng hang thanh toán toan thẻ the tín tin dụng dung tiền tien
+🏂	người nguoi trượt truot ván van tuyết tuyet
+🔒	đóng khóa khoa riêng rieng tư tu
+🔉	âm am lượng luong loa trung bình binh thanh
+🚑	xe cấp cap cứu cuu cộ co thương thuong
+🥻	đầm quần quan áo ao sari trang phục phuc váy vay xari
+🈵	“hết phòng” chữ chu tượng tuong hình hinh nút nut hết het phòng phong bằng bang tiếng tieng nhật nhat
+🀄	đỏ mạt mat chược chuoc rồng rong trò tro chơi choi
+😠	điên mặt mat giận gian giữ giu tức tuc
+😚	hôn hon mắt mat mặt nhắm nham
+🧃	đồ uống uong hộp hop ngọt ngot nước nuoc ép ep ống ong hút hut
+🦶	bàn ban chân chan đá dậm dam mạnh manh mắt mat cá ca
+🙆	cử cu chỉ chi đồng ý y người nguoi ra hiệu hieu ok tay thể the dục duc
+🎏	cá ca chép chep cờ co dải dai lễ le kỷ ky niệm niem
+💄	mỹ my phẩm pham son môi moi trang điểm
+🚘	đang tới toi ô o tô to xe hơi hoi
+😈	cười cuoi mặt mat có co sừng sung truyện truyen cổ tích tich tưởng tuong tượng
+👓	đeo kính kinh mắt mat quần quan áo ao
+😂	cười cuoi chảy chay nước nuoc mắt mat hài hai thật that mặt với voi vui sướng suong đấy
+📂	mở mo tệp tep thư thu mục muc
+👱	người nguoi tóc toc vàng vang hoe
+🌇	chạng chang vạng vang hoàng hoang hôn hon mặt mat trời troi
+🪀	dao động đồ chơi choi yo-yo
+🎾	cái cai vợt vot quả qua bóng bong quần quan
+🔼	đỏ mũi mui tên ten nút nut đi lên len
+🥝	hoa quả qua kiwi thức thuc ăn an
+🍙	cơm com nắm nam nhật nhat bản ban
+🚜	máy may kéo keo xe cộ co
+👨‍💼	công cong việc viec văn van phòng phong kiến kien trúc truc sư su kinh doanh người nguoi đàn ông ong quản quan lý ly nhân nhan viên vien nam
+🥥	cây cay dừa dua pina colada
+📈	biểu bieu đồ tăng tang thị thi lên len trưởng truong xu hướng huong
+🛐	nơi noi thờ tho phụng phung tôn ton giáo giao sùng sung
+🚂	đầu máy may xe lửa lua động cơ co đường sắt sat hơi hoi nước nuoc tàu tau hỏa hoa
+🈶	“không miễn mien phí” chữ chu tượng tuong hình hinh nút nut tiếng tieng nhật nhat
+🪡	chỉ chi khâu khau kim may đo thêu theu
+💏	cặp cap đôi hẹn hen hò ho nụ nu hôn hon yêu yeu
+🦐	nhỏ nho thức thuc ăn an tôm tom cua
+⏰	báo bao thức thuc đồng hồ ho muộn muon thời thoi gian
+🌟	chiếu chieu sáng sang lấp lap lánh lanh ngôi ngoi sao phát phat
+🥮	bánh banh trung thu lễ le hội hoi mặt mat trăng trang mùa mua
+🌗	mặt mat trăng trang phần phan tư tu hạ ha huyền huyen
+📀	chuẩn chuan đĩa quang dvd máy may tính tinh
+👩‍🏭	công cong nghiệp nghiep nhân nhan nhà nha máy may nữ nu lắp lap ráp rap
+🕙	00 10 10:00 đồng hồ ho giờ gio mười muoi
+🗽	bức buc tượng tuong new ny nyc tự tu do nữ nu thần than
+👩‍🦼	hỗ ho trợ tro tiếp tiep cận can người nguoi phụ phu nữ nu trên tren xe lăn lan điện
+🚌	trường truong học hoc xe buýt buyt cộ co
+🛼	con lăn lan giày giay trượt truot patin thể the thao
+👨‍🦽	hỗ ho trợ tro tiếp tiep cận can người nguoi đàn ông ong trên tren xe lăn lan tay
+😳	choáng choang váng vang đỏ mặt mat ửng ung
+🫏	bướng buong bỉnh binh con la lừa lua động vật vat có co vú vu thồ tho
+🌃	đêm có co sao
+👇	mu bàn ban tay ngón ngon trỏ tro trái trai chỉ chi xuống xuong
+🥬	cải cai bắp bap thìa thia xoăn xoan rau diếp diep salat xanh lá la
+🩴	dép dep đi biển bien lê le xỏ xo ngón ngon zōri zori
+🤭	mặt mat với voi tay che miệng mieng cười cuoi xin lỗi loi
+🌽	bắp bap ngô ngo
+📢	địa chỉ chi công cong cộng loa phát phat thanh phóng phong lớn lon
+🔓	khóa khoa mở mo
+🍠	đồ ăn an khoai lang nướng nuong ngọt ngot
+🦵	chân chan tay đá gập gap
+🧍	đang đứng người nguoi
+🐼	gấu gau trúc truc mặt mat
+🕞	3 3:30 ba giờ gio mươi muoi phút phut đồng hồ ho
+🤣	cười cuoi chảy chay nước nuoc mắt mat sung sướng suong lăn lan mặt bò bo sàn san
+😉	mặt mat nháy nhay mắt
+🪓	bổ bo đôi chặt chat chém chem gỗ go rìu riu nhỏ nho
+🎰	cờ co bạc bac khe máy may giật giat xèng xeng trò tro chơi choi
+🍳	cái cai chảo chao chiên chien nấu nau ăn an trứng trung
+😩	kiệt kiet sức suc mặt mat mệt met mỏi moi
+🦽	hỗ ho trợ tro tiếp tiep cận can năng nang xe lăn lan tay
+😮‍💨	huýt huyt sáo sao kiệt kiet sức suc mặt mat thở tho ra mệt met mỏi moi rên ren rỉ ri thì thi thầm tham dài dai hắt hat hổn hon hển hen
+🪔	dầu dau đèn diya
+♌	cung hoàng hoang đạo lá la số so tử tu vi sư su
+➗	÷ chia dấu dau toán toan
+👩‍🎤	ca sĩ si diễn dien viên vien nghệ nghe ngôi ngoi sao người nguoi phụ phu nữ nu nhạc nhac rock
+⚓	dụng dung cụ cu mỏ mo neo tàu tau
+📞	điện thoại thoai ống ong nghe bàn ban
+🧘	an lạc lac bắt bat chéo cheo chân chan người nguoi ngồi ngoi kiết kiet già gia ở o tư tu thế the hoa sen thanh bình binh thiền thien thư thu giãn gian yoga yogi
+😺	con mèo meo khuôn khuon mặt mat cười cuoi miệng mieng há ha tươi tuoi mở mo ra nụ nu
+💖	bị bi kích kich thích thich lấp lap lánh lanh trái trai tim
+🍣	sushi thực thuc phẩm pham
+💆	đau đầu mặt mat mát xa người nguoi được xoa bóp bop thẩm tham mĩ mi viện vien thư thu giãn gian trị tri liệu lieu
+🕓	00 4 4:00 bốn bon đồng hồ ho giờ gio
+♑	con dê de cung hoàng hoang đạo lá la số so tử tu vi ma kết ket
+🪰	bệnh benh con ruồi ruoi côn trùng trung động vật vat giòi gioi thối thoi rữa rua
+💲	đô la ký ky hiệu hieu đậm tiền tien tệ te
+💚	màu mau lục luc trái trai tim
+🚪	cửa cua sau trước truoc
+💉	bệnh benh kim ống ong tiêm tiem thuốc thuoc vắc-xin
+🛘	đá động đất lở lo nguy hiểm hiem núi nui thảm tham họa hoa tuyết tuyet
+🐰	con thỏ tho động vật vat mặt mat thú thu cưng cung
+📆	lịch lich quyển quyen bloc
+👨‍🦼	hỗ ho trợ tro tiếp tiep cận can người nguoi đàn ông ong trên tren xe lăn lan điện
+🤨	hoài hoai nghi mặt mat với voi lông long mày may rướn ruon lên len ngờ ngo vực vuc
+🤹	cân can bằng bang đa năng nang nhiệm nhiem giữ giu thăng thang kỹ ky người nguoi đàn ông ong tung hứng hung
+🫷	bàn ban tay đẩy sang trái trai chặn chan chờ cho đập dừng dung lại lai thôi thoi từ tu chối choi
+🥉	ba đồng huy chương chuong
+🧽	bọt bot biển bien hấp hap thụ thu hút hut làm lam sạch sach vệ ve sinh xốp xop
+🐨	con gấu gau động vật vat túi tui koala úc uc
+✨	ánh anh lấp lap lánh lanh kỳ ky diệu dieu ngôi ngoi sao
+⛵	biển bien du thuyền thuyen khu nghỉ nghi dưỡng duong buồm buom
+🌼	bồ bo công cong anh hoa thực thuc vật vat
+🏄	bãi bai biển bien lướt luot sóng song người nguoi thể the thao vận van động viên vien
+🧐	giàu giau có co mặt mat với voi kính kinh một mot mắt ngột ngot ngạt ngat thượng thuong lưu luu
+📦	bưu buu kiện kien gói goi hộp hop
+💮	hoa trắng trang
+🪇	âm am nhạc nhac lắc lac lục luc lạc maraca cụ cu nhảy nhay tiệc tiec tùng tung trống trong
+🤷	ai mà ma biết biet được có co thể the hững hung hờ ho không khong nghi ngờ ngo người nguoi nhún nhun vai sao cũng cung thờ tho ơ o
+🪎	bạc bac chiến chien lợi loi phẩm pham đá quý quy đồ trang sức suc vật vat có co giá gia trị tri giải giai thưởng thuong sự su giàu giau tiền tien vàng vang
+🧑‍🦼	khả kha năng nang tiếp tiep cận can người nguoi trên tren xe lăn lan điện
+🙌	cử cu chỉ chi hai bàn ban tay giơ gio lên len hoan hô ho lễ le kỷ ky niệm niem nâng nang
+👨‍💻	kỹ ky sư su công cong nghệ nghe nam lập lap trình trinh viên vien người nguoi đàn ông ong phát phat minh nhà nha triển trien phần phan mềm mem
+🪲	bọ bo cánh canh cứng cung côn con trùng trung động vật vat
+😜	lưỡi luoi mắt mat mặt lè le nháy nhay nói noi đùa
+🕗	00 8 8:00 đồng hồ ho giờ gio tám tam
+🥏	đĩa bay trò tro chơi choi ném nem
+📖	mở mo sách sach đang
+👨‍🚒	lính linh cứu cuu hỏa hoa nam xe
+🆗	nút nut ok
+🥓	thịt thit xông xong khói khoi thức thuc ăn an
+🫤	buồn buon chán chan hoài hoai nghi không khong chắc chac chắn mặt mat có co miệng mieng xiên xien thất that vọng vong
+👨‍🎨	bảng bang màu mau họa hoa sĩ si nam nghệ nghe
+🎨	bảng bang màu mau bảo bao tàng tang nghệ nghe thuật thuat vẽ ve
+🆔	danh tính tinh id nút nut
+🛺	túc tuc tuk xe lam
+👌	bàn ban tay làm lam dấu dau ok chắc chac chắn chan rồi roi được nha tuyệt tuyet
+❓	chấm cham câu cau dấu dau hỏi hoi
+📷	máy may ảnh anh video
+😥	mặt mat thất that vọng vong nhưng nhung nhẹ nhe nhõm nhom ngạc ngac nhiên nhien
+🚇	di chuyển chuyen tàu tau điện ngầm ngam
+🍯	hũ hu mật mat ong ngọt ngot
+📄	tài tai liệu lieu trang hướng huong lên len trên tren
+🪑	chỗ cho ngồi ngoi ghế ghe
+🤦	hoài hoai nghi không khong tin nổi noi lại lai nữa nua rồi roi lòng long bàn ban tay mặt mat người nguoi dùng dung che lấy lay tức tuc giận gian
+🍋	chanh tây tay chua họ ho cam quýt quyt hoa quả qua
+🧟	halloween kinh dị di tận tan thế the xác xac chết chet sống song lại lai zombie
+🧶	cuộn cuon len đan bằng bang kim móc moc sợi soi
+🍓	dâu dau tây tay quả qua mọng mong trái trai cây cay
+📇	chỉ chi mục muc thẻ the hộp hop danh thiếp thiep
+🌴	cây cay cọ co
+🥷	ẩn an chiến chien tranh đấu sĩ si kẻ ke sát sat nhân nhan kỹ ky năng nang người nguoi ninja tàng tang hình hinh
+🙂	cười cuoi mặt mat mỉm mim
+🎲	con xúc xuc xắc xac gieo trò tro chơi choi
+🤴	cổ co tích tich giả gia tưởng tuong hoàng hoang tử tu vua vương vuong miện mien
+🏰	kiểu kieu châu chau âu au lâu lau đài
+🧆	đậu hồi hoi falafel thịt thit viên vien
+🪩	buổi buoi tiệc tiec disco khiêu khieu vũ vu long lanh quả qua cầu cau gương guong sàn san nhảy nhay
+💇	cắt cat tóc toc làm lam đẹp người nguoi được phong cách cach salon thợ tho tỉa tia tiệm tiem vẻ ve
+😸	cười cuoi toét toet mắt mat mặt mèo meo tươi tuoi với voi hai híp hip lại lai
+💔	bị bi vỡ vo buồn buon cô co đơn trái trai tim tan
+🍇	chùm chum nho hoa quả qua
+🐾	bàn ban chân chan dấu dau móng mong vuốt vuot
+🙇	cầu cau xin cử cu chỉ chi cúi cui người nguoi hối hoi tiếc tiec lấy lay làm lam lời loi lỗi đang đầu tha thứ thu tội toi nghiệp nghiep
+🧧	bao lì li xì xi chúc chuc may mắn man hồng hong quà qua tặng tang tiền tien
+🪷	ấn an độ giáo giao hoa sen phật phat sự su tinh khiết khiet việt viet nam
+🤐	khóa khoa kéo keo mặt mat có co miệng mieng bị bi
+🫂	cảm cam ơn on hai người nguoi ôm om nhau tạm tam biệt biet tình tinh bạn ban yêu yeu xin chào chao
+💦	bắn ban tung tóe toe giọt giot mồ mo hôi hoi nước nuoc hài hai hước huoc tập tap thể the dục duc
+👨‍🚀	không khong gian nam phi hành hanh gia tên ten lửa lua
+😏	cười cuoi khẩy khay mặt mat
+🪝	bắt bat bẫy bay cái cai móc moc điểm bán ban hàng hang đường cong
+🔂	chiều chieu kim đồng hồ ho một mot lần lan mũi mui tên ten nút nut lặp lap lại lai
+🎳	bowling quả qua bóng bong trò tro chơi choi
+🕥	10 10:30 ba mươi muoi đồng hồ ho mười giờ gio phút phut
+☕	buổi buoi sáng sang cà ca phê phe caffeine chai đồ uống uong nóng nong hổi hoi trà tra
+🔡	abcd chữ chu thường thuong la tinh nhập nhap

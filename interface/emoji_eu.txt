@@ -1,1261 +1,1261 @@
 # Mots-clés d'emoji en « eu » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	new hitza botoia
-🧑‍🤝‍🧑	bi pertsona elkarri eskua ematen bikotea eman
-◽	geometriko karratu zuri ertaina/txikia
-⛽	bonba erregai gasolina gasolina-bonba gasolindegi
-🔓	giltzarrapo irekia ireki irekita
-👄	aho ahoa ezpainak gorputza
-🍴	janari labana prestatu sardeska eta
-🏒	hockey izotz izotz-hockeyko makila eta pilota joko
-💦	izerdi izerdi-tantatxoak komiki zipriztin
-🎐	haize haize-kanpaia kanpai ospakizun
-😼	aurpegi ironiko irribarre maltzurra duen katu-aurpegia katu maltzur
-😉	aurpegi begiaz keinu egiten ari den aurpegia
-📛	bereizgarri izen izen-bereizgarria
-🚉	geltokia ibilgailu trenbide
-💌	bihotz gutun maitasun maitasun-gutuna posta
-🆘	laguntza sos botoia
-🛙	argia argiztapena faroa gida itsasoa itsastarra itxaropena nabigazioa seinalea
-🍯	ezti ezti-potoa gozo poto
-😿	aurpegi katu malko negar negarrez ari den katu-aurpegia triste
-🫜	arbia barazkia beterraba erremolatxa erroa errozerba frantses-arbia lorategia ortuaria sustraia txerri-arbia zuztarra
-😳	aurpegi gorritua gorritu nahastu
-🚨	argia autoa birakaria ibilgailua polizia poliziaren autoko
-🚌	autobusa ibilgailu
-🌇	eguraldi eguzki eraikin ilunabar ilunabarra
-🔝	top hitza gezia onena
-🙊	aurpegia debekatuta esan gauza txarrik nahi ez duen tximua keinua txarra
-🐙	olagarro olagarroa
-🕦	11 11:30 30 erloju hamaika eta erdiak hogeita hamar
-🕞	3 3:30 30 erloju hiru eta erdiak hogeita hamar
-🙌	altxatu esku eskuak altxatzen ari den pertsona keinu ospakizun
-🚗	auto autoa ibilgailu
-🕥	10 10:30 30 erloju hamar eta erdiak hogeita
-🥱	aharrausi egiten ari den aurpegia aspertuta nekatuta
-🐎	lasterketa zaldi zaldia
-👩‍🚒	emakume suhiltzailea emakumezko suhiltzaile suhiltzaile-kamioi
-🪉	harpa instrumentua kupido maitasuna musika musika-instrumentua musika-tresna orkestra
-🫁	arnas hartzea arnasa arnastu birikak hasperena inhalazioa organoa
-📲	dei gezi jaso mugikor sare telefono mugikorra batekin
-💚	berde bihotz berdea
-📶	antena antenen barrak barra mugikor sare seinale telefono
-🫦	artega beldurra deseroso ezpainei koska egiten kezkatuta ligatzen urduri
-🌅	egunsentia eguraldi eguzki goiz
-🌂	arropa aterki itxia eguraldi euri
-🍲	eltze erregosi janari bete eltzea
-🪜	eskailera esku-eskailera igo maila
-✅	✓ botoi markatu tilet tiletaren botoia
-📑	laster laster-markak marka markatu markatzaile
-👣	arropa aztarna gorputz oin oin-aztarnak
-👀	aurpegia begia begiak gorputza
-🤸	alboko gurpila gimnasia kirola pertsona
-⭕	gorri handi o zirkulu hutsa
-😆	ahoa alai ase asebete aurpegia barre egin barrea barrez lehertzen irekita irri egiten irria irribarre ari den eta begiak itxita dauzkan ahora daukan irribarrea irribarreka karkar karkarkar lol pozik
-🔄	ezkerrera gezien botoia gezi
-🟢	berde zirkulu berdea
-🧗	eskalatzailea pertsona bat eskalatzen
-🌟	distira distiratsu izar distiratsua txinparta
-🤧	aurpegi aurpegia mukiak kentzen kendu muki
-🔛	on testua gezia marka
-🪫	bateria gutxi elektronika energia
-⏰	alarma erloju
-🥕	azenario azenarioa barazki janari
-➿	bikoitz malguki bikoitza
-🥂	edalontzi edan kopak topa egiten ospatu
-🪲	intsektua kakalardo kakalardoa mamorroa zomorroa
-🩹	lotura itsaskorra
-🟧	karratu laranja
-📍	biribil txintxeta biribila
-😽	aurpegi begi begiak itxita dituen eta musuka ari den katu-aurpegia katu musu
-🐤	kumea txita txoria
-🤵	esmokin pertsona esmokinean senargai
-🛼	gurpil-lerroa gurpil-lerroko irristailu irristailua
-🧩	arrasto buru-hausgarri lotura pieza
-🛝	jolas-parke jolastu txirrista
-🔇	audio bolumen borgorailu bozgorailua itzalita desaktibatu isilarazi isilik
-🏥	eraikin medikuntza ospitala sendagile
-🚔	autoa heldu den poliziaren polizia
-💶	bankua billetea dirua euro euroa moneta
-🥭	fruta mango tropikal
-🫂	agur besarkada elkar besarkatzen ari den jendea eskerrik asko kaixo
-🔳	botoi geometriko karratu zuri itxurako botoia nabarmendu
-💹	diagrama gorakorra yen-ikurrarekin dirua grafikoa hazkuntza yena
-🧺	gobada nekazaritza piknik saski
-😖	aurpegi hutsegite hutsegite-aurpegia
-🔐	giltz giltzarrapo itxia giltzarekin itxita seguru
-🈯	hatz bat irudikatzen duen ideograma karratu batean japoniera japonierazko erreserbatuta botoia
-🏦	bankua eraikin
-🍧	arraspatu gozo izotz arraspatua postre
-🧍	zutik dagoen pertsona zutitu
-🟠	laranja zirkulu
-⛔	debekatuta ez galarazita sarrera trafiko
-✊	eskua estutu ukabil altxatua ukabila ukabilkada
-🌜	aurpegi azken ilargi-laurdena aurpegiarekin eguraldi espazio ilargi eskuinera begira
-😹	aurpegi katu malko poz pozez negar ari den katu-aurpegia
-🧾	froga kontabilitate ordainagiri
-🪩	beirazko bola dantza diskoteka distira festa
-🏇	lasterketa zaldi zaldi-lasterketa zaldizko
-👦	gizona mutila
-🏸	badmintona erraketa hegalari joko pilota
-🥜	barazki intxaur janari kakahuete kakahuetea
-📱	mugikor sare telefono mugikorra
-🕎	erlijio menorah zutargi
-🚙	aisia aisiarako ibilgailua ibilgailu
-🖤	beltz bihotz beltza zital zorigaitz
-🪬	babes esku fatima hamsa kutun maria miriam
-🚴	bizikleta txirrindularia txirringa
-🍷	ardo ardo-kopa edari kopa taberna
-💊	gaixo medikuntza pilula sendagile
-🍀	hirusta hosto landare lau hostoko
-🪌	akatsa borratu desegin errorea ezabatu idazketa igurtzi kendu marrazkia zuzenketa
-😷	aurpegi gaixo hotzeri maskara mediku-maskara daraman aurpegia medikuntza sendagile
-📆	egutegi orriak kentzeko egutegia
-🙉	aurpegia debekatuta entzun gauza txarrik nahi ez duen tximua keinua txarra
-💱	banku diru moneta truke truke-tasa
-🩻	doktore hezurdura hezurrak mediku z izpiak
-🏠	eraikin etxe etxebizitza
-📙	laranja liburu
-🥔	barazki janari patata
-💮	lore zuria
-🥌	curling-eko harri eskalada
-💩	aurpegi gorotz kaka kaka-mokordoa komiki monstruo
-🍳	arrautz frijitu janaria prestatu zartagin
-🦈	arrain marrazo marrazoa
-🌼	landare lore lorea
-😜	aurpegi begi keinu mihia aterata begi-keinuka ari den aurpegia mingain mingaina kanpoan duen eta begiaz egiten txantxa
-🪁	haize-parpaila hegaldarazi hegaldatu kometa
-⛎	berri-ekarle ofiuko suge zodiako
+🧑‍🧑‍🧒‍🧒	familia haurra nagusia
 🍾	bar botila edari kortxo kortxoa kanpoan duen
-🧇	burdina gofrea zalantzatia
-🛞	bira gurpila pneumatiko zirkulu
-📜	paper paper-biribilkia
-🧎	belaunikatu belauniko dagoen pertsona
-🌕	bete eguraldi espazio ilargi betea
-💽	disko minidisc-a minidisk optiko ordenagailu
-💙	bihotz urdina urdin
-📏	erregela zuzena zuzen
-🥡	eramateko kaxa janari txinatarra ontzi
-🕔	00 5 5:00 bost bostak erloju puntuan
-🤩	aurpegi begiak irribarretsu izar
-🟦	karratu urdina urdin
-🐍	mezulari ofiuko suge sugea zodiako
-🐉	herensugea ipuin
-🪎	aberastasuna baliotsua bitxiak dirua gema harrapakinak harribitxia saria urrea zilarra
-💯	100 ehun puntu oso puntuazio
-🌝	argi aurpegi bete eguraldi espazio ilargi betea aurpegiarekin
-♏	eskorpioi scorpio zodiako
-🪞	erreflektorea isla islagailua islatzailea ispilua
-💅	azazkal azazkaletako esmaltea edertasun esmalte gorputz kosmetika manikura
-🫫	apurtzen erakutsi eraldaketa erresilientzia hausten maskaratzen tentsioa
-🈁	japoniera katakana koko karratu batean
-🍵	edari giderrik gabeko kikara kopa te
-⏳	erloju harea harea-erlojua dariola tenporizadore
-🌙	ilargi-adarra ilargia ilgora
-🤭	ene eskuaz ahoa estaltzen ari den aurpegia
-🥗	berde entsalada berdea janari
-🈹	japoniera japonierazko deskontua botoia zatiketa irudikatzen duen ideograma karratu batean
-🔔	kanpai kanpaia
-🦹	bilau gaizto kriminal superbilau superbotere
-🙎	keinu muturtu pertsona muturtua
-🫴	eskaini esku-ahura gora begira duen eskua etorri keinua harrapatu
-👨‍🦽	eskuzko gurpil-aulkian doan gizona gizon gizonezko gurpil-aulki irisgarritasun
-🙇	barkamen barkatu burua makurtzen ari den pertsona keinu makurtu
-🔈	bolumen bozgorailua txikian
-🍋‍🟩	azidoa freskagarria fruta koktela lima margarita mojitoa tropikala zitrikoa
-🪖	armada ejerzito gudari kasko militarra soldadu
-🪰	euli eulia gaixotasuna harra intsektua usteldu
-👧	emakume neska
-🍂	erori eroritako hostoa hosto landare
+🉑	japonierazko onargarria botoia onarpena irudikatzen duen ideograma zirkulu batean txinera
+👩‍🔧	elektrikari emakume mekanikaria emakumezko iturgin saltzaile
+📱	mugikor sare telefono mugikorra
+👩‍💼	alkandora arkitektoa emakume bulegaria emakumea emakumezkoa enpresa kudeatzailea
+👽	aurpegia espazioa estralurtarra fantasia izakia munstroa ohe
+🍍	anana fruitu landare
+😊	aurpegi begi begiez irribarre egiten ari den aurpegia gorritu
+🛸	ohe plater hegalari
+♿	erabilerraztasun gurpil-aulkia
+🪆	errusia matrioxka panpina
+👈	erakusle esku ezkerrera seinalatzen ari den hatz erakuslea seinalatu
+🐤	kumea txita txoria
+🍬	gozo gozokia postre
+👨‍🍳	chef gizon sukaldaria gizonezko sukaldari
+😣	aurpegi nekaezina nekaezin pertseberantzia
+🫯	borroka debatea desadostasuna eztabaida gatazka iskanbila liskarra
+🥂	edalontzi edan kopak topa egiten ospatu
+🤜	eskuinera ukabila begira
+🎽	bizkarraldeko dortsala elastiko korrika
+🎎	ospakizun pan panpin japoniarrak
+📺	bideo telebista
+🌜	aurpegi azken ilargi-laurdena aurpegiarekin eguraldi espazio ilargi eskuinera begira
+👀	aurpegia begia begiak gorputza
+🫖	edan edaria ontzia tea teontzi teontzia
+🦚	arranditsu harro hegazterren txori
+🫧	burbuilak garbi haizea urpean xaboi
+📑	laster laster-markak marka markatu markatzaile
+👡	arropa emakume emakumeentzako sandalia oinetako
+💺	aulki eserlekua
 🍝	espagetiak pasta
-🧑‍🦼	gurpil-aulki motordunean doan pertsona gurpil-aulkia irisgarritasuna
-🏂	elur eski snowboard snowboardlaria
-🏬	eraikin gune merkataritza merkataritza-zentroa zentro
-🤾	baloia eskubaloia kirola pertsona
+🚿	dutxa ur
+🦜	hitz egin loro pirata txori
+🪯	erlijioa khanda sikh sikismoa
+🏣	eraikin japonia japoniako postetxea posta
+🏭	eraikin fabrika
+🤍	bihotz zuria zuri
+🥢	hashi zotzak
+🏥	eraikin medikuntza ospitala sendagile
+🙈	aurpegia debekatuta gauza txarrik ikusi nahi ez duen tximua keinua txarra
+🐱	aurpegia katu-aurpegia katua maskota
+🪁	haize-parpaila hegaldarazi hegaldatu kometa
+🤖	aurpegi munstro robot robot-aurpegia
+🫄	beteta haurdun pertsona puztuta sabela
+🔑	blokeo giltza pasahitza
+🤡	aurpegi pailazo pailazo-aurpegia
+🫍	balea itsasoa itsasokoa itsastarra orka ozeanoa
+🐹	aurpegia hamster hamsterra maskota
+🥟	dumpling enpanada gyōza gyoza jiaozi pierogi potsticker
+🔪	arma hocho janari labana sukaldeko
+👙	arropa bikinia igeri
+🚸	haur haurrek zeharkatzen duten errepidea oinezko trafiko zeharkatu
+◾	geometriko karratu beltz ertaina/txikia
+🫎	adarrak altzea animalia orein kanadarra ugaztuna wapitia
+🫳	baztertu erori esku-ahurra beherantz duen eskua ospa
+🎵	musika nota musikala
+🚷	debekatuta ez galarazita oinezko oinezkorik
+🦫	kastore kastorea presa
+🦪	ostra perla urpekaritza
+🛌	gabon hotela lo pertsona bat ohean
+🎹	musika musika-teklatua piano tresna
+🫩	begien azpian poltsak dituen aurpegia leher eginda lehertuta logalea logura nekatuta
+🥨	biribilki pretzel
+🦅	arrano arranoa hegazti
+💐	lore sorta
+👜	arropa eskuko poltsa
+🈳	hutsa irudikatzen duen ideograma karratu batean japonierazko lanpostu botoia txinera
+🐟	arrain pisces zodiako
+🫁	arnas hartzea arnasa arnastu birikak hasperena inhalazioa organoa
+👨‍🎤	abeslaria aisia aktorea gizon gizona gizonezkoa izarra rocka
+🛖	eraikin biribil etxe etxola yurta
+🍀	hirusta hosto landare lau hostoko
+🪕	banjoa hari-instrumentu musika
+😌	aurpegi lasaitasun lasaitasun-aurpegia
+🐺	aurpegia otso otsoa
+🦣	desagerpena handia hortza iletsua mamut
+🦆	ahate ahatea hegazti
+🦢	ahatetxo itsusi txori zisne txiki
+🛷	lera
+😍	143 amodioa amz aurpegia begia bihotza bihotzak erromantikoa irribarre egiten ari den bihotz-itxurako begiekin irribarrea laztana maitasuna maitekorra maiteminduta musuak mz sentimenduak
+🌓	eguraldi espazio ilargi ilgora-erdia
+🪣	baldea perrail perraila treska uhoitza
+👾	aurpegia estralurtarra fantasia ipuina izakia munstro munstroa ohe
+🔔	kanpai kanpaia
+🩳	azpiko arropa bainujantzi galtzak galtzamotzak
+🖖	agur vulcandarra eskua hatza spock vulcandar
+👯	belarri dantzari jendea untxi-belarriak jantzita neska parrandan ari den untxi
+🥌	curling-eko harri eskalada
+🎺	musika tresna tronpeta
+🌑	eguraldi espazio ilargi berria ilun
+👆	erakusle esku gora seinalatzen ari den hatz erakuslearen atzealdea hatza seinalatu
+🧑‍🌾	baserritar lorezain nekazari nekazaria
+🥧	betegarri hostore tarta
+📠	fax faxa
+😆	ahoa alai ase asebete aurpegia barre egin barrea barrez lehertzen irekita irri egiten irria irribarre ari den eta begiak itxita dauzkan ahora daukan irribarrea irribarreka karkar karkarkar lol pozik
+🧣	lepoa zapi
+🐖	eme txerri txerria
+🛜	banda zabala internet kablerik gabekoa ordenagailua routerra sarea wifia wlan
+🍉	fruitu landare sandia
+🪮	afroa apain-orrazia apaindu apaingarria flamenkoa ilea orrazia orraztu
+💠	barnealde diamante geometriko komiki puntu bat duen diamantea
+🛹	patinete skateboard
+📲	dei gezi jaso mugikor sare telefono mugikorra batekin
+🚳	bizikleta bizikletarik ez debekatuta galarazita
+🤑	aho aurpegi diru diru-itxurako mingaina duen aurpegia
+🚅	abiadura handiko trena mutur biribilduarekin bala-trena biribildu ibilgailu shinkansen tren trenbide
+📒	koaderno kontabilitate-liburua
+🧂	gatz gatzontzi ongailu
+🫪	beldurra handitu hantura harrituta izua larritasuna txundituta zaurgarria
+🧞	djinn iratxo
+🍭	gozo gozoki piruleta postre
 🌳	erorkor hosto erorkorreko zuhaitza landare zuhaitz
-🏐	baloi boleibola joko
-🧴	eguzki-babes hidratatzaile lozio lozio-botila xanpu
-💨	bizi komiki korrika lasterka ziztu bizian
+🚤	abiadura handiko txalupa ibilgailu itsasontzi
+👵	agure amona emakume emakumezko zahar
+🐈‍⬛	katu beltza
+🚉	geltokia ibilgailu trenbide
+🚐	autobus ibilgailu minibusa
+❔	galdera galdera-marka zuria marka nabarmendu puntuazio
+🔐	giltz giltzarrapo itxia giltzarekin itxita seguru
+👰	belo beloa daraman pertsona emaztegai ezkontza
+🧠	adimentsua argia azkarra burmuin burmuina
+🔚	amaiera end gezia
+🥁	danbor danborra makilak musika
+🛶	kanoa ontzi
+😨	aurpegi beldur ikara ikara-aurpegia ikaratu
+🥫	janaria latetan lata
+🎈	ospakizun puxika
+🤏	atximurka egiten ari den eskua pixka bat
+🐕‍🦺	irisgarritasun laguntza laguntza-txakurra txakur
+🦑	janari molusku txibia
+🍹	edan edari tropikala taberna tropikal
+🦂	eskorpioi eskorpioia scorpius zodiako
+💴	billetea dirua moneta yen yena
+🫹	eutsi ezkerra hau hori neutroa seinalatu
+➖	− ikurra matematika minus
+🚏	autobus-geltokia autobusa geltokia geralekua
+🎱	8 billar billarra bola joko zortzi
+🥡	eramateko kaxa janari txinatarra ontzi
+🪳	intsektua labezomorro labezomorroa mokotarroa
+🔜	soon hitza gezia
+🏪	denda eraikin supermerkatu supermerkatua
+🍊	fruitu landare laranja mandarina
+👑	arropa errege erregina koroa
+🕖	00 7 7:00 erloju puntuan zazpi zazpiak
+💟	bihotz apaindua
+🚱	debekatuta edan edateko ez den ura galarazita ur
+👣	arropa aztarna gorputz oin oin-aztarnak
+🍅	barazki landare tomatea
+📰	albisteak egunkari egunkaria
+🟢	berde zirkulu berdea
+🚆	ibilgailu trena trenbide
+⚪	geometriko zirkulu zuria
+🪞	erreflektorea isla islagailua islatzailea ispilua
+🐈	katua maskota
+🦒	jirafa orbanak
+🌾	arroz arroz-zurtointxoak landare pikor
+📎	klip klipa
+🐎	lasterketa zaldi zaldia
+🪉	harpa instrumentua kupido maitasuna musika musika-instrumentua musika-tresna orkestra
+🎊	bola konfeti konfetiz betetako ospakizun
+⏬	behera bizkor egiteko botoia bikoitz gezi
+🧳	bidaia ekipaje ekipajea prestatze
 🪱	anelidoa bizioa harra parasitoa zizare zizarea
-🫕	eltzea fonduea gazta ontzia suitzarra txokolatea urtua
-🕧	12 12:30 30 erloju hamabi eta erdiak hogeita hamar
-🥣	congee gosari katilua eta koilara zereal
+🍸	edari koktel koktel-kopa kopa taberna
+🏫	eraikin eskola
+🧑‍🦯	irisgarritasuna itsu-makila daraman pertsona zuria itsua
+🫔	bilkaria kiribilkia mexikarra tamal
+🥦	aza basati brokoli
+💂	zaindaria
+🧴	eguzki-babes hidratatzaile lozio lozio-botila xanpu
+🚙	aisia aisiarako ibilgailua ibilgailu
+🫃	beteta gizona haurdun puztuta sabela
+🔽	behera egiteko botoia beherantz gezia
+🍱	bento kaxa kutxa
+🏈	amerikar baloi futbol amerikarra
+🪻	anila dragoi-muturra hiazintoa izpilikua lorea lupinus nabar-lorea
+😧	aurpegi estutasun estutasun-aurpegia
+🤔	aurpegi pentsatzen ari den aurpegia
+👩‍🍼	bularra ematen edoskitzen emakumea haurtxoa
+🛝	jolas-parke jolastu txirrista
+👷	eraikuntza eskulangilea kasko langile
+🪒	bizar-labana bizarra kendu zorrotz
+🕔	00 5 5:00 bost bostak erloju puntuan
+🪬	babes esku fatima hamsa kutun maria miriam
+🧻	komuneko paper paper-bilkari paperezko zapi
+🕜	1 1:30 30 bat erloju hogeita hamar ordu eta erdiak
+🆕	new hitza botoia
+🏆	sari trofeoa
+🐗	ar basurdea txerri
+📊	barra barra-diagrama diagrama grafiko
+🤒	aurpegi gaixo termometro termometroa duen aurpegia
+🫢	begiak irekita dauzkan eta ahoaren parean eskua duen aurpegia ezin sinetsi ezustekoa harridura ikaratuta lotsatuta
+🖕	erdiko hatza esku gorputz hatz
+💹	diagrama gorakorra yen-ikurrarekin dirua grafikoa hazkuntza yena
+🟤	marroi zirkulu marroia
+👅	gorputza mingain mingaina
+🪧	afixa idazkun idazkuna kartela manifestazioa seinalea tantaia zutoina
+🧹	erratz errazte garbitze sorgin
+🐩	canichea txakur
+🔥	sua sugar tresna
+💙	bihotz urdina urdin
+🤳	autoargazki autoargazkia kamera telefono
+👞	arropa gizon gizonentzako oinetakoa oinetako
+👥	silueta soin soinen siluetak
+🤸	alboko gurpila gimnasia kirola pertsona
+😓	aurpegi hotz izerdi hotza duen aurpegia
+🐮	aurpegia behi-aurpegi behia
+♋	cancer karramarro zodiako
+👨‍🌾	baserritar gizon nekazaria gizonezko lorezain nekazari
+🤚	altxatuta esku-azpia
+🌊	eguraldi olatu olatua ozeano ur
+🪦	goian bego hilarri hilarria hilerria hilobia hobia kanposantua
+🚻	bainugela garbigela komun-ontzia komuna wc
+👨‍🏫	gizon irakaslea gizonezko irakasle maisu
+🔌	argindar elektriko entxufe entxufea
+🔤	abc alfabetoa hizki latindarrak latindarra letrak sarrera
+👄	aho ahoa ezpainak gorputza
+🙄	aurpegi begiak bueltaka dituen aurpegia biraka
+🌐	globo globoa eta meridianoak lur meridiano mundu
+🐻	aurpegia hartz hartza
+👚	arropa emakume emakumeentzako
+🔋	bateria
+🕛	00 12 12:00 erloju hamabi hamabiak puntuan
+💁	eskean dabilen pertsona esku eskupeko informazio kokin laguntza
+🧮	abakoa kalkulua
+🧪	esperimentu kimika kimikari laborategi saio-hodi zientzia
+🏒	hockey izotz izotz-hockeyko makila eta pilota joko
+😀	aurpegi barre egiten ari den aurpegia irribarre
+🎭	antzoki areto arte eszenikoak eszeniko maskara
+🐑	ardi ardia eme
+🧇	burdina gofrea zalantzatia
+🍲	eltze erregosi janari bete eltzea
+🚁	helikopteroa ibilgailu
+🧓	adineko agure genero neutroko
+🫴	eskaini esku-ahura gora begira duen eskua etorri keinua harrapatu
+⛳	bandera zuloan golf zulo
+🥖	baguette baguettea francia janari ogi
+🍛	arroz arroza curryarekin curry
+🥜	barazki intxaur janari kakahuete kakahuetea
+🍈	fruitu landare meloia
+🤥	aurpegi gezurtia gezur pinotxo
+🤿	esnorkela urpekari-maskara urpekaritza
+😎	argitsua atseden hartzen aurpegia bai horixe betaurrekoak bikaina eguzkia eguzkitako erlaxatzen estiloa ezin hobe hondartza irabazi irabazlea irribarre egin egiten ari den eta dituen irribarrea oso ondo ongi primeran
+💑	bihotza erdian duen bikotea maitasuna
+🚖	heldu den taxia
+🙏	erregutzen ari diren eskuak eskatu eskerrak mesedez otoitz
+🦔	eztendun triku
+😬	aurpegi imintzio imintzio-aurpegia
+🏠	eraikin etxe etxebizitza
+🗻	fuji mendia mendi
+🐕	maskota txakur
+🐥	aurrera begira dagoen txita kume
+🦏	animalia errinozero errinozeroa
+🧤	esku eskularruak
+😹	aurpegi katu malko poz pozez negar ari den katu-aurpegia
+🥴	ahoa okertuta alai begiak mozkortuta tentel-aurpegia zorabiatuta
+➰	malguki malgukia
+🚄	abiadura handiko trena ibilgailu shinkansen tren trenbide
+🐔	oilo oiloa
+🤼	borroka borrokalari borrokalariak kirol pertsona
+🍚	arroz egosia egosi
+🏯	eraikin gaztelu japoniarra gaztu japoniar
+🩲	azpiko arropa bainujantzi galtzontzilloak osoa
+🦺	jaka larrialdi segurtasun segurtasun-jaka
+🔹	diamante urdin txikia geometriko
+🔊	3 altu bolumen bozgorailu bozgorailua ozen hiru
+🫝	arazoa eskabetxea gatzuna hartzigarria luzokerra ongailua ozpinetako
+🧑‍🔬	biologo fisikari ingeniari kimikari zientzialari zientzialaria
+🕺	dantza gizon gizona dantzan
+🧙	azti mago sorgin
+🥄	koilara mahai-tresneria
+🦃	indioilar indioilarra
+🤵	esmokin pertsona esmokinean senargai
+💈	adierazle bizar bizargin bizarginaren birakaria moztu
+🌏	asia eta australia ikusgai dituen lur-globoa globo lur mundu
+🎿	elur eski eskiak
+👩‍🔬	biologoa emakume zientzialaria emakumea emakumezkoa fisikaria ingeniaria kimikaria
+👨‍🏭	fabrika fabrikako gizon langilea gizonezko industria langile mihiztatu
+🫛	babak babarrunak barazkia edamamea ilar-zorroa ilarra leka lekalea zorroa
+🔃	berriro eskuinera gezi bertikalak kargatu
+🚡	bagoia ibilgailua kablea mendiko teleferikoa
+🐧	pinguino pinguinoa
+🚼	aldatu haurtxo haurtxoen aldagela
+💃	dantza dantzan ari den emakumea emakume
+👨‍🎓	gizon gizonezko graduatu ikasle mutil ikaslea
+🌍	afrika europa eta ikusgai dituen lur-globoa globo lur mundu
+🏴	dantzan dantzatzen ari den bandera beltza
+🔵	geometriko urdin zirkulu urdina
+📡	antena parabolikoa satelite bidezko
+📝	bolaluma oharra
+🐯	aurpegia tigre-aurpegia tigrea
+👦	gizona mutila
+📤	bidalitako erretilu gutun irteerako erretilua ontzi posta
+🥃	alkohol edalontzi zabala txupito whiski zabal
+🐢	dortoka dortokoa
+🎁	inguratuta kaxa opari ospakizun paperez inguratutako oparia
+👺	aurpegi fantasia ipuin iratxoa izaki japoniera munstro
+🧑‍🚀	astronauta suziri
+👬	bi gizon elkarri eskua ematen bikiak bikotea gemini gizona zodiakoa
+♓	arrain pisces zodiako
+🐪	dromedario gamelua tontor
+🦗	kilker matxinsalto
+🛑	ikur oktogonal stop ikurra
+🪽	abiazioa aingerua hegan hegaz hegazkinta hegoa igo mitologia txoria
+🚰	edan edateko ura ur
+🥗	berde entsalada berdea janari
+🍃	haize haizeaz hegan ari den hostoa hosto korronte
+🥚	arrautza janari
+🌯	burritoa mexiko
+🚹	bainugela garbigela gizona gizonen komuna gizonezkoa gizonezkoen komun-ontzia wc
+🐦‍🔥	berpiztea berraragiztatzea birsortzea biziberritzea fantasia fenixa haragitzea suzko hegaztia
+🦝	kuxkuxero maltzur mapatxe
+🔙	atzera back gezia
+🚎	autobus ibilgailu tranbia trolebus trolebusa
+⏩	aurrera egiteko botoia bikoitz bizkor gezi
+👻	aurpegi fantasia ipuin izaki mamua munstro
+📼	bideo bideo-kasetea vhs zinta
+🎇	bengala ospakizun su artifizialak
+📔	apaindu estalki apaingarria duen koadernoa koaderno liburu
+🕒	00 3 3:00 erloju hiru hirurak puntuan
+🥾	bota kanpin mendiko motxila xendazaletasun
+🍼	biberoia botila edan esne haurtxo
+📧	elektroniko mezu elektronikoa posta
+🎫	sarrera txartela
+💶	bankua billetea dirua euro euroa moneta
+🌁	eguraldi laino lainotu
+🥛	edalontzi bat esne edan
+🤱	bular bularra ematea bularreko haur haurtxo
+🦕	brankiosaurio brontosaurio diplodoko sauropodo
+📣	animatu megafonoa
+🦧	orangutana tximinoa
+📫	bandera igota duen postontzi itxia itxita ontzi posta
+🌿	belarra hosto landare
+🦈	arrain marrazo marrazoa
+🥽	begien babes igeriketa igeriketako betaurrekoak soldadura
+🚧	hesi lanak
+😼	aurpegi ironiko irribarre maltzurra duen katu-aurpegia katu maltzur
+🐝	erle erlea intsektu
+🧑‍🎨	artista paleta
+🪚	arotza egurra tresna zerra
+🧌	fantasia istorioak munstroa trolla
+🪜	eskailera esku-eskailera igo maila
+🍢	broxeta itsaski kebab makil oden
+🎬	film klaketa
+🤝	adostasuna bilera esku-ematea eskua
+🛄	ekipajea jaso maletak jasotzeko eremua
+💍	diamante eraztuna
+✅	✓ botoi markatu tilet tiletaren botoia
+💡	argi bonbilla elektriko ideia komiki
+🤠	aurpegi behizain txanodunaren aurpegia txano unai
+🔆	argi argitasun argitasuna igotzeko botoia
+🩷	143 arrosa atsegin bihotz bihotza gogoko maitagarria maitasuna polita
+🧥	berokia jaka
+🚥	argi seinale semaforo horizontala trafiko
+🏀	baloi saskibaloia uztai
+🚃	bagoi bagoia elektriko ibilgailu tranbia tren trenbide
+🥍	baloi gol lacrosse makila
+🏓	bola erraketa joko ping-pong tenis
+🫚	errizoma espezia garagardoa jengibrea osasuna sustraia zurtoina
+🪨	astun harri harria harritzar koskor pisutsu solido
+🎐	haize haize-kanpaia kanpai ospakizun
+🥤	kopa eta lastotxoa soda zuku
+🙍	keinu kopeta zimurtzen ari den pertsona zimurtu
+🩶	143 arbela bihotz grisa bihotza emozioa zilarra zirrara
+🪏	aitzurtu endaia pala zulatu zuloa
+🔅	ahul argitasun argitasuna ahultzeko botoia txiki
+🦀	cancer karramarroa zodiako
+🍌	banana fruitu landare
+👨‍🔧	elektrikari gizon mekanikaria gizonezko iturgin mekarikari saltzaile
+🔯	erdian puntu bat duen sei puntako izarra izar zorte
+🧑‍🏭	fabrika fabrikako langilea industria langile mihiztatu
+🎑	ilargi ilargiaren ospakizuna ospakizun zeremonia
+🏩	eraikin hotel maitasun maitasun-hotela
+🏐	baloi boleibola joko
+📬	bandera igota duen postontzi irekia irekita ontzi posta
+📐	erregela kartaboi kartaboia triangelu
+🪟	gardena ikuspegia irekidura irekiera leihoa markoa
+👨‍🔬	biologoa fisikaria gizon zientzialaria gizona gizonezkoa ingeniaria kimikaria
+🍆	alberjinia barazki landare
+🪤	amua sagu-arte sagu-artea sagutegia satartea tranpa zepoa
+👩	emakume emakumea emakumezko
+🐭	aurpegia sagu-aurpegia sagua
+🍻	edari garagardo pitxer taberna topa egiten ari diren garagardo-pitxerrak
+🧝	elfo magiko
+😙	aurpegi begi irribarre musu musuka eta begiez barreka ari den aurpegia egiten
+🐘	elefante elefantea
+❕	harridura harridura-marka zuria marka nabarmendu puntuazio
+🤧	aurpegi aurpegia mukiak kentzen kendu muki
+🦤	desagerpena dodo dodoa handia maurizio
+➕	+ ikur matematika plus
+🈴	elkarrekin egotea irudikatzen duen ideograma karratu batean japonierazko nahikoa botoia txinera
+🥺	aurpegi erregutzailea begirada erregutzaile erregutze gupida
+🧱	adreilu buztin horma mortero
+🟧	karratu laranja
+🛒	erosketa erosketa-orga orga orgatxoa
+🥯	bagel okindegi schmear
+💯	100 ehun puntu oso puntuazio
+🎢	errusiar mendia jolas mendi parke
+🆖	ng hitza botoia
+🌱	gazte kimua landare
+👍	erpurua eskua gora gorputza
+🙁	aurpegi apur bat kopetiluna kopetilun
+🐠	arrain tropikala arraina
+🎀	begizta ospakizun
+🏦	bankua eraikin
+🔴	geometriko gorri zirkulu gorria
+🟰	berdin-ikur lodia berdintasuna matematika
+🛕	hindu tenplu hindua
+🚚	garraiatzeko kamioia garraio ibilgailu kamioi
+🌻	eguzki ekilorea landare lore
+🤎	bihotz marroia marroi
+🐷	aurpegia txerri-aurpegia txerria
+💣	komiki lehergailua
+🚠	bagoi ibilgailu kable mendi teleferikoa
+🟨	hori karratu horia
+🕤	30 9 9:30 bederatzi eta erdiak erloju hogeita hamar
+✋	esku altxatua eskua
+🤛	ezkerrera ukabila begira
+🈸	inprimaki bat irudikatzen duen ideograma karratu batean japonierazko eskaera botoia txinera
+🌺	hibiskoa landare lore
+🧁	cupcake gozo okindegi
+✊	eskua estutu ukabil altxatua ukabila ukabilkada
+👭	bi emakume elkarri eskua ematen bikotea eman
+🌂	arropa aterki itxia eguraldi euri
+🍺	edari garagardo garagardo-pitxer garagardo-pitxerra pitxer taberna
+🌉	eguraldi gau zubi zubia gauez
 🍞	ogi xerra
 🌚	aurpegi eguraldi espazio ilargi berriaren aurpegia
-🦨	kiratsa mofeta
-🚹	bainugela garbigela gizona gizonen komuna gizonezkoa gizonezkoen komun-ontzia wc
-🪅	festa gozo-eltze ospakizun
-🪢	korapilatu korapilo lotu soka tolestu
-🫢	begiak irekita dauzkan eta ahoaren parean eskua duen aurpegia ezin sinetsi ezustekoa harridura ikaratuta lotsatuta
-🎻	biolina musika tresna
-🛫	aireratzen ari den hegazkina check-in fakturazioa ibilgailua irteera irteerak
-💐	lore sorta
-👎	behera erpurua eskua gorputza
-🤟	adarren keinua eskua
-♋	cancer karramarro zodiako
-🦸	heroi on superbotere superheroi
+🛟	erreskate flotatu salbamendu-jaka segurtasun sirena
+😗	aurpegi musu musuka ari den aurpegia
+🧑‍🚒	suhiltzaile suhiltzaile-kamioi suhiltzailea
+👩‍💻	asmatzailea emakume teknologialaria emakumea emakumezkoa garatzailea kodetzailea softwarea
+🪐	goibel planeta eraztunduna saturno
+🦴	eskeletoa hezur hezurra
+💽	disko minidisc-a minidisk optiko ordenagailu
+🕌	erlijio islam meskita musulman
+🧑‍🍳	chef sukaldari sukaldaria
+🥣	congee gosari katilua eta koilara zereal
+👩‍🍳	chef emakume sukaldaria emakumezko sukaldari
+🚝	ibilgailu monoraila
+🔗	kate-maila
+🔶	diamante laranja handia geometriko
+♏	eskorpioi scorpio zodiako
+🥘	janari kazola paella-ontzi sakonera txikiko zartagin zartagina
 👏	esku gorputz txalo txaloka ari diren eskuak
-🧚	maitagarri oberon puck titania
-🏢	bulego-eraikina eraikin
-🧻	komuneko paper paper-bilkari paperezko zapi
-🔅	ahul argitasun argitasuna ahultzeko botoia txiki
-🆓	free hitza botoia
-🪛	bihurkin torlojua tresna
-📖	irekita liburu irekia liburua
-🍬	gozo gozokia postre
-🃏	joko jolastu karta komodina
-🧪	esperimentu kimika kimikari laborategi saio-hodi zientzia
-🍟	frijitu patata frijituak
-🌏	asia eta australia ikusgai dituen lur-globoa globo lur mundu
+🥒	barazki janari ozpinetako pepino pepinoa
+🎍	banbu japonia ospakizun pinu pinurako dekorazioa
+🎩	altu arropa kapelu altua
+📹	bideoa bideokamera kamera
+🫟	erion holi isuri jariatu margoa orbana zapasta zetaka zikingunea ziliporta zipriztina
+🫡	ados agurtu agurtzen ari den aurpegia bai eguzkitsu tropak
+🔕	debekatu galarazi isilarazi isilik isiltasuna kanpai marratua kanpaia
+🤮	gaixo goitika ari den aurpegi
+🥎	eskularru jaurtiketa baxu pilota sofbol-pilota
+🆑	botoia cl
+➿	bikoitz malguki bikoitza
 🧵	hari haril joste lokarri orratz
-🆎	ab botoia odol-taldea odola
-👩‍🍼	bularra ematen edoskitzen emakumea haurtxoa
-🕛	00 12 12:00 erloju hamabi hamabiak puntuan
-🍰	gozo opiltxo opiltxoa postre tarta zati
-🦩	flamenkoa ikusgarria tropikala
-😁	aurpegi barre begi begiez egiten ari den aurpegia irribarre
-⬛	geometriko karratu beltz handia
-🪻	anila dragoi-muturra hiazintoa izpilikua lorea lupinus nabar-lorea
-🖖	agur vulcandarra eskua hatza spock vulcandar
-🪍	bildu harrapatu sarea tranpa
-⌚	erlojua ordularia
-🐯	aurpegia tigre-aurpegia tigrea
-🚧	hesi lanak
-🔵	geometriko urdin zirkulu urdina
-🌄	egunsenti egunsentia mendien artean eguraldi eguzki goiz mendi
-🚾	bainugela garbigela komun-ontzia komuna komunak wc
-📮	posta postontzi postontzia
-🦽	eskuzko gurpil-aulkia irisgarritasun
-🌁	eguraldi laino lainotu
-🫈	basagizona basajaun basoa bigfoot erraldoia gizon basatia iletsua kriptidoa oin handi sasquatch yeti
-🦷	dentista hagina hortz hortza
-🪺	habia arrautzekin
-🐜	intsektu inurria
-🔋	bateria
-🟡	hori zirkulu horia
-🌑	eguraldi espazio ilargi berria ilun
-😩	aurpegi nazkatu neke neke-aurpegia
-🛒	erosketa erosketa-orga orga orgatxoa
-🆗	“ok” testua karratu batean ados ok
-🪝	amu bihurritu harrapatu makurra okerra saltokia
-🥞	janari krepe opil bero txiki txikiak
-💳	banku diru kreditu kreditu-txartela txartel
-🦗	kilker matxinsalto
-🫛	babak babarrunak barazkia edamamea ilar-zorroa ilarra leka lekalea zorroa
-🥧	betegarri hostore tarta
+🦭	foka itsas lehoia txakurra
+📌	txintxeta
+🧭	iparrorratz magnetiko nabigazio orientazio
+💘	bihotz bihotza geziarekin gezi kupido
+🏇	lasterketa zaldi zaldi-lasterketa zaldizko
+😶	aho ahorik gabeko aurpegia aurpegi isilik isiltasun
+🍦	esne gozo izotz izozki krematsua postre
+😘	aurpegi bihotz musu bat bidaltzen ari den aurpegia
+🦓	marra zebra
+🥋	arte martzial martzialetako kimonoa judo karate kimono taekwondo
+😄	ahoa alai aurpegia barrea barrez lehertzen begia irekita irri egiten irria irribarre ari den eta begiez barreka daukan irribarrea irribarreka lol pozik
+🔝	top hitza gezia onena
+🧋	burbuila esnea perla te burbuiladun tea
 🧸	hartzatxo jostailu peluxe
-🧛	banpiro drakula hildako bizidun
-🟪	karratu morea more
-🐱	aurpegia katu-aurpegia katua maskota
-🦺	jaka larrialdi segurtasun segurtasun-jaka
-🈴	elkarrekin egotea irudikatzen duen ideograma karratu batean japonierazko nahikoa botoia txinera
-🍏	berde fruitu landare sagar berdea
-🌠	espazio iheskor izar izar-uxoa uxo
+📪	bandera jaitsita duen postontzi itxia itxita ontzi posta
+🛗	igogailua irisgarritasuna karga-jasogailua
+🕦	11 11:30 30 erloju hamaika eta erdiak hogeita hamar
+🚛	ibilgailu kamioi artikulatua semi
+😔	aurpegi pentsakorra goibel pentsakor
+👩‍🎨	artista emakume emakumezko paleta
+🧑‍🎓	graduatu ikasle ikaslea
+🐫	bactria bi tontorreko gamelua gamelu tontor
+🥰	amodioa amz aurpegia bihotza bihotzak irri egiten ari den 3 bihotzekin irribarre diren irribarrea maitasuna maite zaitut maiteminduta mz oso gustukoa txora-txora eginda txoratzea
+🌀	eguraldi tifoi tornado zikloia zorabio
+🚽	bainugela komuna
+👩‍🌾	baserritar emakume nekazaria emakumezko lorezain nekazari
+🦹	bilau gaizto kriminal superbilau superbotere
+🐣	arrautzatik irtetea arrautzetik irten berri den txita kumea txoria
+📁	fitxategi fitxategi-sailkatzailea sailkatzaile
+🦍	animalia gorila
+🎆	ospakizun su artifizialak
+👋	eskua gorputza mugitu mugitzen ari den
+🏸	badmintona erraketa hegalari joko pilota
 ❌	× biderkatu biderketa gurutze-ikurra gurutzea markatu utzi
-🐸	aurpegia igel-aurpegia igela
+💕	bi bihotz maitasun
+📻	bideo irratia
+👎	behera erpurua eskua gorputza
+🪹	habi hutsa habia
+👩‍🦽	emakume emakumezko eskuzko gurpil-aulkian doan emakumea gurpil-aulki irisgarritasun
+🧉	edaria matea
+🦾	beso mekanikoa irisgarritasuna prostetikoa
+🎧	entzungailu entzungailuak
+🍤	frijitu gabardina-ganba ganba langostino tenpura
+🧖	lurrun-gela pertsona bat lurrun-gelan sauna
+💥	bum eztanda komiki
+🥲	alai alaitasuna esker ona onekoa harro hunkituta irribarre egiten ari den eta malko bat duen aurpegia irribarrea irribarreka irribarretsua lasai lasaitu malkoa mina pozik poztasuna zoriona
+🚬	erre
+🎷	musika saxofoi saxofoia tresna
+🪥	eskuila eskuilatu garbi higienea hortzak hortzetako komuna
+🟣	more zirkulu morea
+🦟	birus eltxo gaixotasun intsektu malaria sukar
+🟪	karratu morea more
+🤢	aurpegi zorabiatua goitika zorabiatu
+🔇	audio bolumen borgorailu bozgorailua itzalita desaktibatu isilarazi isilik
+📉	behera diagrama beherakorra grafiko joera
+🟩	berde karratu berdea
+🫒	janaria oliba
+👿	aurpegi deabru deabrua fantasia ipuin
+🌌	eguraldi esne-bidea espazio
+🌆	arratsaldea eguraldia eraikina hiri-paisaia ilunabarrean hiria ilunabarra paisaia
+🚞	auto ibilgailu mendi mendiko trenbidea trenbide
+🔏	giltzarrapo giltzarrapoa lumarekin luma pribatutasun tinta
+🦇	animalia banpiro saguzar saguzarra
+🚢	ibilgailu itsasontzia
+🔦	argi elektriko linterna tresna
+🕎	erlijio menorah zutargi
+🪌	akatsa borratu desegin errorea ezabatu idazketa igurtzi kendu marrazkia zuzenketa
+🫣	begi batekin espiatzen ari den aurpegia begira espiatu txundituta
+🫗	edalontzi edari erori hutsik likidoa isurtzen
+📯	adar adarra posta
+🦘	jauzi egin jauzia kangurua kangurukumea martsupiala saltatu saltoa
+💼	maleta
+🍜	fideo katilu kea darion katilua ramen
+🐌	barraskilo barraskiloa
+♐	arkulari sagittarius zodiako
+🍋‍🟩	azidoa freskagarria fruta koktela lima margarita mojitoa tropikala zitrikoa
+🪺	habia arrautzekin
+💫	izar komiki zorabiatuta
+💱	banku diru moneta truke truke-tasa
+⬜	geometriko karratu zuri handia
+🛫	aireratzen ari den hegazkina check-in fakturazioa ibilgailua irteera irteerak
+🌸	gereziondo-lorea gereziondoa loratu lorea
+📗	berde liburu berdea
+👲	gizon gua pi mao txano txinatarra daraman gizona pertsona
+😃	ahoa alai aparta aupa aurpegia bikaina egundokoa haginak hortzak irekita irribarre egiten ari den eta daukan begi handiak dituen irribarrea irribarreka itzela itzelezkoa pozik zabalduta zabalik
+💗	bihotz handitu handitzen ari den bihotza taupada urduri urduritasun
+🪅	festa gozo-eltze ospakizun
+🔬	mikroskopioa tresna
+🎮	bideo-jokoa joko kontroladore
+🦁	aurpegia lehoi lehoia leo zodiakoa
+🕣	30 8 8:30 erloju hogeita hamar zortzi eta erdiak
+🫘	babarrunak giltzurrun janari lekale
+🔻	behera geometriko gorri punta begira duen triangelu gorria
+🪊	goibela haize-metala instrumentua irristatu jazza musika tresna tristea
+🫠	desagertu disolbatu likidoa urtu urtzen ari den aurpegia
+🏅	domina kirol-domina
+🧄	baratxuria ongailua
+🛴	kick patinetea scooter
+🪛	bihurkin torlojua tresna
+😤	aurpegi irabazi sudurretik kea darion aurpegia txapeldun
+🐁	sagu sagua
+🫙	edukiontzi gorde hutsik osagarri pitxerra saltsa
+🦉	hontz hontza jakitun
+🧑‍🦽	eskuzko gurpil-aulkian doan pertsona gurpil-aulkia irisgarritasuna
+🔨	mailua tresna
+🕘	00 9 9:00 bederatzi bederatziak erloju puntuan
+😵	aurpegi zorabiatu zorabio-aurpegia
+💩	aurpegi gorotz kaka kaka-mokordoa komiki monstruo
+🤬	ahoan ikurrak dituen aurpegia izerditan
+🔭	teleskopioa tresna
+🎦	film kamera zinema
+🦩	flamenkoa ikusgarria tropikala
+🥑	ahuakate ahuakatea fruitu janari
+👝	arropa poltsa zorroa
+🔞	18 adin-muga adingabe adingaberik ez debekatuta galarazita hemezortzi
+🥩	bildots-saiheski haragi-mozketa saiheski txerri-saiheski xerra
+🌔	eguraldi espazio handitu ilargi ilbehera ilgora-bukaera
+🌛	aurpegi eguraldi espazio ilargi ilargi-laurdena ezkerrera begira lehen aurpegiarekin
+😰	aho ahoa irekita eta izerdi hotza duen aurpegia aurpegi grinatsu hotz
+🧑‍🤝‍🧑	bi pertsona elkarri eskua ematen bikotea eman
+🍫	gozo postre txokolate txokolatina zati
+🥹	aguantatzen harro haserre malkoak dituen begiko aurpegia negarrez triste
+🔈	bolumen bozgorailua txikian
+🍘	arroz arroz-mokadua mokadu
+♍	birjina ezkongabe virgo zodiako
+🫫	apurtzen erakutsi eraldaketa erresilientzia hausten maskaratzen tentsioa
+🧚	maitagarri oberon puck titania
+👉	erakusle esku eskuinera seinalatzen ari den hatz erakuslea seinalatu
+🐽	aurpegia sudurra txerri-sudurra txerria
+🕑	00 2 2:00 bi erloju ordu biak puntuan
+💪	bizepsa bizepsak flexioa giharra gorputza komikia
+🚈	ibilgailu tren arina trenbide
+🏊	igeri igerilaria
+❗	harridura harridura-marka gorria marka puntuazioa
+🍎	fruitu gorri landare sagar gorria
+👢	arropa bota emakume emakumeentzako oinetako
+💌	bihotz gutun maitasun maitasun-gutuna posta
+🤯	lehertzear den burua txundituta
+🫆	forentsea hatz-marka identitatea nortasuna segurtasuna
+🍑	fruitu landare muxika
+🚣	arraun arraunlaria ibilgailu ontzi
+📿	arrosario arrosarioa erlijio lepoko otoitz
+🈁	japoniera katakana koko karratu batean
+🔎	beira bilatu eskuinera begira dagoen lupa tresna
+🩰	ballet balleteko oin-puntak dantza
+🫺	eskuina eutsi hau hori neutroa seinalatu
+🐲	aurpegia herensuge-aurpegia herensugea ipuina
 🧀	gazta zatia
-🪕	banjoa hari-instrumentu musika
-🐩	canichea txakur
+👘	arropa kimonoa
+🪼	erroak eztena garroak gelatina itsasokoa itsastarra marmoka mina ornogabea tentakuluak ziztada
+🪢	korapilatu korapilo lotu soka tolestu
+🚔	autoa heldu den poliziaren polizia
+😝	aurpegi begi mihia aterata eta begiak itxita dauzkan aurpegia mingain mingaina kanpoan duen dituen txar zapore
+🐐	ahuntza capricornus zodiako
+⛄	eguraldi elur elurrezko gizon gizona elurrik gabe hotz
+🔄	ezkerrera gezien botoia gezi
+📩	bidali gezia gutun-azala gezi batekin mezu elektronikoa posta
+😻	animalia aurpegia begia bihotz-itxurako begiak dituen eta irribarre egiten ari den katu-aurpegia begiekin bihotza irribarrea katu irribarretsua katua maitasuna
+🎡	gurpil jolas noria parke
+🕝	2 2:30 30 bi erloju hogeita hamar ordu eta erdiak
+🕚	00 11 11:00 erloju hamaika hamaikak puntuan
+🕕	00 6 6:00 erloju puntuan sei seiak
+🎄	gabonak gabonetako zuhaitza ospakizun zuhaitz
+💀	aurpegi buru-hezurra gorputz heriotz hil ipuin munstro
+😇	aingerua argi-koroa aurpegia barreka ari den argi-koroarekin fantasia inuzentea irribarre egiten irribarrea
+🙀	aurpegi harritu katu leher eginda dagoen katu-aurpegia nekatu
+🧾	froga kontabilitate ordainagiri
+🏮	argi faroltxo gorri japonia paper gorrizko faroltxoa taberna
+🩹	lotura itsaskorra
+♎	balantza justizia libra oreka zodiako
+🛞	bira gurpila pneumatiko zirkulu
+🍂	erori eroritako hostoa hosto landare
+👫	bikotea elkarri eskua ematen emakumea eman gizon-emakumeak gizona
+🏺	anfora aquarius edari janari pitxer
+🤗	aurpegi besarkada ematen ari den aurpegia besarkatu
+🔩	azkoin torloju eta azkoina trsna
+🍗	hanka hegazti hezur izter izterra oilasko
+😾	aurpegi katu katu-aurpegi muturtua muturtu
+🫲	eskua ezkerra ezkerrera begira dagoen ezkerrerantz
+🥕	azenario azenarioa barazki janari
+🍿	krispeta krispetak
+🦦	arrantzatu igaraba jolastia
+🍖	haragi hezur hezurra haragiarekin
+😪	aurpegi lo logura logura-aurpegia
+📭	bandera jaitsita duen postontzi irekia irekita ontzi posta
+🎋	japonia ospakizun paper tanabata zuhaitza zuhaitz
+🥪	ogia ogitartekoa
+🚺	bainugela emakumea emakumeen komuna emakumezkoa emakumezkoen garbigela komun-ontzia wc
+🤟	adarren keinua eskua
+⛪	eliza eraikin erlijio gurutze kristau
+📋	ohar-blok ohar-bloka
+🐦	txori txoria
+🎴	japonia joko karta lore loreak dituzten kartak
+🧑‍🩰	balleta dantzaria
+👩‍🦯	emakume emakumezko irisgarritasun itsu itsu-makila daraman emakumea
+🔀	abestiak ausaz erreproduzitzeko botoia gezi gurutzatu
+🈚	ezeztapena irudikatzen duen ideograma karratu batean japoniera japonierazko doakoa botoia
+📸	bideo flash kamera flasharekin
+🫥	barnerakoia deprimituta desagertu ezkutatu ikusezina lerro etenarekin egindako aurpegia
+🫀	bihotza organoa erdigunea kardiologia pultsua taupada
+🦮	gida irisgarritasuna itsu-txakurra itsua
+🦬	bisonte bisontea bufaloa taldea
+👴	agure aitona gizon gizonezko zahar
+💅	azazkal azazkaletako esmaltea edertasun esmalte gorputz kosmetika manikura
+🐀	arratoi arratoia
+🔛	on testua gezia marka
+🎸	gitarra musika tresna
+🎼	musika notazio musikala
+😽	aurpegi begi begiak itxita dituen eta musuka ari den katu-aurpegia katu musu
+🪖	armada ejerzito gudari kasko militarra soldadu
+❎	× gurutze-ikurraren botoia ikur karratu x
+🫰	<3 bihotza dirua erakuslea eta erpurua gurutzatuta dauzkan eskua garestia klask klaskatu kriskitin maitasuna
+🛻	kamioi kamioneta
+📍	biribil txintxeta biribila
+😅	aurpegi barreka ari den aurpegia izerdi hotzarekin hotz ireki irribarre egiten eta ahora irekita
+🏨	eraikin hotela
+👐	esku irekiak gorputz ireki
+🗾	japonia japoniako mapa
+🦊	aurpegia azeria
+😭	aurpegi malko negar eta ari den aurpegia triste zotinka
+👂	belarri belarria gorputza
+😴	aurpegi lo dagoen aurpegia zzz
+🍟	frijitu patata frijituak
+🚫	debekatuta ez sarrera
+🚀	espazio ibilgailu suziria
+📅	data egutegi
+🏑	belar belar-hockeya hockey joko makila pilota
+🚴	bizikleta txirrindularia txirringa
+🪄	azti magia makiltxo magiko sorgin
+🐴	aurpegia zaldi-aurpegia zaldia
+🥱	aharrausi egiten ari den aurpegia aspertuta nekatuta
+🚦	argi seinale semaforo bertikala trafiko
+🎯	dardo diana helburu itu itua joko
+👛	arropa diru-zorroa txanpon
+🎤	karaoke mikrofono mikrofonoa
+💾	diskete disketea disko ordenagailu
+😛	aurpegi mingain mingaina kanpoan duen aurpegia
+🦸	heroi on superbotere superheroi
+🫨	ai ene beldurra dar-dar egin ezustea ikara omg sorpresa uau zorabiatu
+🍄‍🟫	barazkia janaria natura onddoa perretxiko marroia pizza portobelloa shiitakea
+🧑‍💼	alkandora arkitekto bulegaria enpresa kudeatzaile
+🆚	vs testua botoia versus
+🚊	ibilgailu tranbia trolebus
+🎅	aita noel bizarzuri fantasia gabonak ospakizuna
+🛁	bainu bainuontzia
+🤰	emakumea haurdun
+🍧	arraspatu gozo izotz arraspatua postre
+🧔	bizar pertsona bizarduna
+😑	aurpegi espresiorik gabe gabeko aurpegia
+🪾	agorra agorraldia agortea antzua elkorra hosto gabeko zuhaitza idorra idortea lehorra lehortea negua
+🤓	arraro arraro-aurpegia aurpegi berezi
+⚡	argindar arrisku elektriko tentsio handia tximista
+🧑‍🏫	irakasle irakaslea
+🏡	eraikin etxe etxea eta lorategia lorategi
+⛺	denda kanpin
+🍥	arrain arrain-pastela zurrunbiloarekin gozogintza pastel zurrunbilo
+🔰	berdea hasiberria irudikatzen duen japonierako ikurra hasiberriaren hostoa japoniera komatxoa
+🧷	kateorratz pixoihal punk
+📨	gutun-azala gutuna jaso mezu elektronikoa posta sarrerako
+🍷	ardo ardo-kopa edari kopa taberna
+🚯	debekatuta ez ezin da bota zaborra lurrera galarazita zabor
+🩺	bihotz estetoskopioa mediku medikuntza
+🌘	eguraldi espazio ilargi ilbehera ilbehera-bukaera txikitu
+🐍	mezulari ofiuko suge sugea zodiako
+🟥	gorri karratu gorria
+🐦‍⬛	belatxiki belea beltza erroi txori
+🏁	bandera laukiduna karratu lasterketa lauki laukidun
+📃	dokumentu orri tolestua tolestu
+🔲	botoi geometriko karratu beltz itxurako botoia
+📶	antena antenen barrak barra mugikor sare seinale telefono
+🏬	eraikin gune merkataritza merkataritza-zentroa zentro
+🪘	bongoa danbor luze danborra erritmoa konga
+🔣	idazketa ikurrak
+🕋	erlijio islam kaaba musulman
+🪭	abanikoa astindu beroa dantza eskuko haizemaile tolesgarria flamenkoa freskatu haizemailea ligatu lotsatia
+🥸	aurpegi betaurrekoak ezkutu mozorro mozorrotutako aurpegia sudur
+🤙	deitu deitzeko esku-keinua eskua
+🚲	ibilgailu ziklomotor ziklomotorra
+👗	arropa soinekoa
+🦠	ameba bakterio birus mikrobio
+🏃	korrika ari den pertsona maratoi
+🕧	12 12:30 30 erloju hamabi eta erdiak hogeita hamar
+😒	aspertu-aurpegia aspertuta aurpegi triste
+📙	laranja liburu
+👔	arropa gorbata
+🧯	amatatu itzali su su-itzalgailu
+👟	arropa kirol korrika egiteko oinetakoa oinetako
+😫	aurpegi nekatu nekatu-aurpegia
+🏢	bulego-eraikina eraikin
+🍩	donut donuta gozo postre
+♈	aries zikiro zodiako
+🤺	eskrima eskrimalaria ezpata kirola pertsona
+🧎	belaunikatu belauniko dagoen pertsona
+🧑‍🧑‍🧒	familia haurra nagusia
+⛲	iturri iturria
+🍵	edari giderrik gabeko kikara kopa te
+🌲	hosto iraukorreko zuhaitza landare zuhaitz
+👩‍🚀	astronauta emakume emakumezko espazioa suziri
+🫦	artega beldurra deseroso ezpainei koska egiten kezkatuta ligatzen urduri
+🏧	atm automatikoa automatizatua bankua kutxazain automatikoaren seinalea kutxazaina kutxazainaren
+🥈	2 postuaren domina bigarren zilar
+💿	blu-ray cda disko optikoa diskoa ordenagailua
+🎣	arrain arrantza egiteko kanabera
+🍪	gaileta gozo postre
+🧬	biologo bizitza dna eboluzio gene genetika
+🎓	arropa graduatu-txanoa graduazio ospakizun txano
+🪫	bateria gutxi elektronika energia
+🦿	hanka mekanikoa irisgarritasuna prostetikoa
+⛔	debekatuta ez galarazita sarrera trafiko
+🛙	argia argiztapena faroa gida itsasoa itsastarra itxaropena nabigazioa seinalea
+🍕	gazta pizza zati
+🧅	gozagarria tipula
+🦖	t-rex tiranosaurio rex
+😡	amorru aurpegi muturtua ero gorri haserre muturtu
+🪸	arrezifea korala ozeanoa
+⏫	bikoitz gezi gora bizkor egiteko botoia
+🟠	laranja zirkulu
+🌄	egunsenti egunsentia mendien artean eguraldi eguzki goiz mendi
+🐚	eskola espirala oskol
+🩼	bastoi desgaitasun makil makulua min mugitzeko laguntza
+😢	aurpegi malko negar negarrez ari den aurpegia triste
+🧦	galtzerdiak galtzeta
+💢	amorruaren ikurra haserre komiki sutan
+💨	bizi komiki korrika lasterka ziztu bizian
+😯	aurpegi harridura harridura-aurpegia harrituta zur eta lur
+👤	silueta soin soinaren
+🎠	karrusela zaldia
+👮	aginte polizia
+🧑	genero neutroko heldu pertsona
+🗼	dorrea tokio tokioko
+📳	bibrazio modua modu mugikor sare telefono
+🏤	eraikin europa posta postetxea
+👕	alkandora arropa elastiko elastikoa
+🍴	janari labana prestatu sardeska eta
+🛃	aduanak
+🐳	aurpegia balea ura jaurti jaurtitzen ari den
+👨‍🍼	elikatzen gizona haurrari janaria ematen haurtxoa
+🦯	irisgarritasun itsu makila
+👩‍🚒	emakume suhiltzailea emakumezko suhiltzaile suhiltzaile-kamioi
+⛅	eguraldi eguzki eguzkia hodei baten atzean
+😞	aurpegi etsipen etsipen-aurpegia
+💤	gabon komikia lo zzz
+🚵	bizikleta mendi mendiko bizikletan dabilen pertsona txirrindulari txirringa
+👪	aita ama familia haurra
+👠	arropa emakume oinetako takoidunak takoi
+😷	aurpegi gaixo hotzeri maskara mediku-maskara daraman aurpegia medikuntza sendagile
+🥞	janari krepe opil bero txiki txikiak
+🆓	free hitza botoia
+🏹	arkua eta gezia arkularia arma sagittarius zodiakoa
+🪈	grabagailua musika piccoloa tutua txirula zurezko haize-instrumentua
+🛂	kontrol pasaporte pasaporte-kontrola
+😱	aurpegi beldur beldurrez oihuka ari den aurpegia beldurti beldurtu izutu
+🐄	behi behia
+🔳	botoi geometriko karratu zuri itxurako botoia nabarmendu
+👩‍🎓	emakume emakumezko graduatu ikasle neska ikaslea
+🐏	ardi aries zikiroa zodiako
+🪿	ahatea antzara etxeko hegaztia karran-karran karranka ornitologia samalda txoria
+📥	erretilu gutun jaso ontzi posta sarrerako erretilua
+🐇	maskota untxi untxia
+🥐	croissant croissanta frantzia janari opil
+🌖	ilargia ilbehera ilbehera-hasiera konkorra
 🦻	audifonoa duen belarria gortasuna irisgarritasuna
-👩‍🦼	emakume emakumezko gurpil-aulki motordunean doan emakumea irisgarritasun
-🧙	azti mago sorgin
-👨‍🏫	gizon irakaslea gizonezko irakasle maisu
+🌅	egunsentia eguraldi eguzki goiz
+🦌	animalia orein oreina
+🌰	gaztaina landare
+🧫	bakterio biologia biologo kultura laborategi petriren kaxa
+🐅	tigrea
+💬	bunbuiloa elkarrizketa hizketa
+🚮	zabor zaborra ontzira botatzeko seinalea zaborrontzi zakarrontzi
+🟦	karratu urdina urdin
+👼	aingeru-itxura duen haurtxoa aingerua aurpegia fantasia ipuina
+🚩	posta triangelu-itxurako bandera
+😿	aurpegi katu malko negar negarrez ari den katu-aurpegia triste
+😦	aho aurpegi ireki kopeta ilun eta ahoa zabalik duen aurpegia ilunduta irekita kopetilun
+🚍	autobusa heldu den
+⭐	izar zuri ertaina izarra
+🃏	joko jolastu karta komodina
+😵‍💫	arazoa hipnotizatuta kiribil-begiak dituen aurpegia kiribila zorabiatuta
+🚾	bainugela garbigela komun-ontzia komuna komunak wc
+🐡	arrain globo-arraina
+♒	aquarius berri-ekarle ur zodiako
+👨‍🦯	gizon gizonezko irisgarritasun itsu itsu-makila daraman gizona
+🤪	begi ero-aurpegia handi txiki
+💜	bihotz morea more
+🤽	kirol pertsona waterpolo waterpoloa
+👸	fantasia ipuin printzesa
+☔	aterki aterkia euri-tantekin babes eguraldi euri tanta
+🦋	intsektu pinpilinpauxa polit
+🌒	ilargia ilgora
+🔍	beira bilatu ezkerrera begira dagoen lupa tresna
+😕	aurpegi nahasketa-aurpegia nahastuta
+🆙	gora marka markatu up botoia
+🧲	erakarpen ferra iman magnetiko
+🌝	argi aurpegi bete eguraldi espazio ilargi betea aurpegiarekin
+🐊	krokodilo krokodiloa
+🦎	narrasti sugandila
+🤤	aurpegi aurpegia lerdea dariola lerde
+🍰	gozo opiltxo opiltxoa postre tarta zati
+🫸	blokeatu bostekoa bultza eskuinerantz egiten ari den eskua gelditu itxaron sakatu uko
+💷	banku billete diru faktura libera billetea moneta
+🧑‍🧒	familia haurra nagusia
+🚨	argia autoa birakaria ibilgailua polizia poliziaren autoko
+👳	turbante turbantea duen petsona
+🦼	gurpil-aulki motorduna irisgarritasun
+🎂	ospakizun pastel postre tarta urtebetetze urtebetetze-tarta
+📴	itzali mugikor sare telefono mugikorra itzalita
+🪶	arina hegaldia luma lumajea
+🧰	erreminta erreminta-kutxa kutxa mekaniko
+🚋	auto ibilgailu tranbia tranbiaren bagoi trolebus
+🔢	1234 idazkera zenbakiak
+🍮	budin gozo natillak postre
+🔺	geometriko gorri punta gora begira duen triangelu gorria
+🎻	biolina musika tresna
+🪴	etxea hazi landarea loreontziko landare zaindu
+🛵	motoa scooter
+🎒	bizkar-zorro bizkar-zorroa eskola eskolako poltsa
+🦛	hipopotamo
+🔸	diamante laranja txikia geometriko
+🐬	flipper izurdea
+🧿	begizko bihi nazar sorginkeria talisman
+🥼	esperimentu laborategiko jantzia mediku zientzialari
+🔮	bola fantasia ipuin kristal kristalezko zorte
+🌕	bete eguraldi espazio ilargi betea
+💧	eguraldi hotz izerdi komiki tanta tantatxoa
+🎌	bandera gurutzatuak gurutzatuta gurutze japoniar ospakizuna
+🚒	ibilgailu kamioi su suhiltzaileen kamioia
+🤶	bizarzuriren emaztea gabonak gabonetako ama
+🆒	cool hitza botoia
+🥀	lore zimela lorea
+🖤	beltz bihotz beltza zital zorigaitz
+🚓	auto ibilgailu polizia poliziaren autoa
+🥅	ate ateko sarea kirol sare
+🍁	astigarra astigarraren hostoa erori
+🧈	esnekia gurina
+🐶	aurpegia maskota txakur-aurpegia txakurra
+🚭	debekatuta erretzea ez ezin da erre
+⚽	baloi futbol futboleko baloia
+🧑‍💻	asmatzaile garatzaile kodetzaile software teknologialari teknologialaria
+🧡	bihotz laranja
+🌙	ilargi-adarra ilargia ilgora
+🛀	bainu bainuontzi pertsona bat bainatzen
+🕡	30 6 6:30 erloju hobeita hamar sei eta erdiak
+🪗	akordeoi akordeoia kontzertina
+🥊	boxeo boxeoko eskularrua eskularru kirol
+🔷	diamante urdin handia geometriko
+📕	itxita liburu itxia liburua
+🎪	karpa zirkoaren zirkua
+🧊	hotza iceberga izotz zatia izotza
+🫌	aldaketa beldarra eraldaketa hauskorra intsektua itxaropena metamorfosia migrazioa
+🧺	gobada nekazaritza piknik saski
+🫓	arepa lavash naan ogi zapal pita
+🔖	laster-marka marka
+🤕	aurpegi benda buruan daraman aurpegia oinaze zauri
+🎃	halloween halloweeneko kuia ospakizun
+🍨	esne gozo izotz izozkia postre
+⬛	geometriko karratu beltz handia
+🩵	143 anila bihotz urdin argia bihotza ziana
+◽	geometriko karratu zuri ertaina/txikia
+🥶	aurpegi izoztu hotz oso urdindu
+🪪	id kredentzial lizentzia nortasun-agiria segurtasun
+📵	debekatuta ez mugikorra sarea telefono mugikorrik telefonoa
+😋	aurpegi dastatu gozo irribarre janari gozoa dastatzen ari den aurpegia mmm
+🫵	ikusleari seinalatzen dion erakuslea seinalatu zu
+🙋	altxatuta esku eskua altxatzen ari den pertsona keinu pozik
+🐵	aurpegia tximu-aurpegia tximua
+🪵	egur egurra enbor zur
+🧑‍🧒‍🧒	familia haurra nagusia
+🍡	dango gozo japonia makila postre
+🎥	bideokamera profesionala film kamera zinema
+⌚	erlojua ordularia
+🫕	eltzea fonduea gazta ontzia suitzarra txokolatea urtua
+🕠	30 5 5:30 bost eta erdiak erloju hogeita hamar
+🤲	esku-azpiak elkartuta otoitza
+🙊	aurpegia debekatuta esan gauza txarrik nahi ez duen tximua keinua txarra
+🐞	amona intsektu mantangorri
+🪃	aurkakoa bumerana errebotea itzulera kontrakoa
+🈹	japoniera japonierazko deskontua botoia zatiketa irudikatzen duen ideograma karratu batean
+🧜	itsas izaki lamina sirena
+🐙	olagarro olagarroa
+🧢	bixera
+🦞	itsaski itsaski-krema matxarda otarrain
+🍒	fruitu gerezi gereziak landare
+🌠	espazio iheskor izar izar-uxoa uxo
+🥭	fruta mango tropikal
+🌭	frankfurt hot dog hotdog saltxitxa
+🫈	basagizona basajaun basoa bigfoot erraldoia gizon basatia iletsua kriptidoa oin handi sasquatch yeti
+💎	bitxi diamante harribitxia
+🪠	libragailu libragailua libratu
+🚗	auto autoa ibilgailu
+🧨	dinamita lehergai petardo su artifizial
+🕢	30 7 7:30 erloju hogeita hamar zazpi eta erdiak
+😖	aurpegi hutsegite hutsegite-aurpegia
+🧗	eskalatzailea pertsona bat eskalatzen
+📏	erregela zuzena zuzen
+🧛	banpiro drakula hildako bizidun
+🟡	hori zirkulu horia
+🦥	alferra motela nagia
+🧩	arrasto buru-hausgarri lotura pieza
+🚕	ibilgailu taxia
+🈺	japonierazko irekita botoia txinera zerbait abian dela irudikatzen duen ideograma karratu batean
+🥙	falafel gyro janari kebab ogitarteko bete betea
+🙃	aurpegi buruz behera dagoen aurpegia
+🌎	america ikusgai duen lur-globoa amerika globo lur mundu
+🫐	ahabia ahabiak baia urdina
+🍔	hanburgesa
+😐	aurpegi espresiorik gabe neutrala
+💰	diru-poltsa dirua dolarra poltsa bete diru
+🏏	bate joko kriketa pilota
+💞	bihotz biraka ari diren bihotzak
+🐋	bale balea
+🥳	adar festa kapelu ospakizun parrandan dabilen aurpegia
+🌞	argi aurpegi eguraldi eguzki eguzkia aurpegiarekin espazio
+🍄	barrengorria landare
+🤩	aurpegi begiak irribarretsu izar
+🛅	ahaztutako maletak ekipaje maleta
+⭕	gorri handi o zirkulu hutsa
+🌈	eguraldi euri ortzadarra
+💛	bihotz horia hori
+💋	ezpainak musu musu-aztarna
+📓	koaderno koadernoa
+⏳	erloju harea harea-erlojua dariola tenporizadore
+🩸	hileroko medikuntza odol tanta odol-emate
+🍐	fruitu landare udarea
+🐂	idia taurus zezen zodiako
+👖	arropa galtza bakeroak galtzak prakak
+🟫	karratu marroia marroi
+🐃	bufaloa ur-bufaloa ura
+⚾	baloi beisbola
+🪙	altxorra dirua metala txanpon urrea zilarra
+🤞	eskua gurutzatu hatz gurutzatuak hatza zortea
+🥿	mokasin zapata lau laua zapatila
+💒	erromantze ezkontza kapera
+🤾	baloia eskubaloia kirola pertsona
+🕟	30 4 4:30 erloju hogeita hamar lau eta erdiak
+🙉	aurpegia debekatuta entzun gauza txarrik nahi ez duen tximua keinua txarra
+🧏	belarria entzun erabilerraztasuna gorra
+🈲	debekua irudikatzen duen ideograma karratu batean japoniera japonierazko debekatuta botoia
+🐸	aurpegia igel-aurpegia igela
+⏪	atzera egiteko botoia bikoitz gezi
+🌮	mexiko takoa
+💸	billetea dirua hegoekin dolarra hegan
+🙅	ados ez dagoela adierazten ari den pertsona debekatuta esku galarazita keinu
+🧑‍🎤	abeslari abeslaria aisia aktore izar rock
+🫅	erregea erregetasuna erregetza jauntxoa koroa bat duen pertsona monarka noblea
+📘	liburu urdina urdin
+🪍	bildu harrapatu sarea tranpa
+🤌	elkartuta esku-keinua galdera hatz elkartuak hatzak sarkasmoa
+⚫	geometriko zirkulu beltza
+🧕	buruan zapi bat daraman emakumea hijab mantilla tichel
+📚	liburu liburuak
+👨	gizon gizona gizonezko
+🧑‍🔧	elektrikari iturgin mekanikari mekanikaria saltzaile
+👒	arropa emakume emakumeentzako kapelua kapelu
+🫜	arbia barazkia beterraba erremolatxa erroa errozerba frantses-arbia lorategia ortuaria sustraia txerri-arbia zuztarra
+💵	bankua billetea dirua dolar dolarra moneta
+👊	eskua estutu gorputza ukabila ukabilkada
+⌛	harea harea-erloju tenporizadore
+🫑	barazkia piper piperra
+🚶	ibili oinez ari den pertsona
+🦙	alpaka artile bikuina guanako llama
+🎉	aire-serpentina festa ospakizuna serpentina
+📛	bereizgarri izen izen-bereizgarria
+🥔	barazki janari patata
+🧒	gazte genero neutroko haur
+🥵	bero bero-bero dagoen aurpegia bero-kolpe gorritu izerditan sukartsu
+🍶	botila edari kopa sake taberna
+🉐	abantaila bat irudikatzen duen ideograma zirkulu batean japoniera japonierazko pagotxa botoia
+♊	biki gemini zodiako
+🤫	isilarazi isilik isiltasuna eskatzen ari den aurpegia ixo
+📮	posta postontzi postontzia
+🦷	dentista hagina hortz hortza
+🩻	doktore hezurdura hezurrak mediku z izpiak
+🔫	arma errebolber pistola tresna
+🔁	errepikatu errepikatzeko botoia eskuinera gezi
+🍏	berde fruitu landare sagar berdea
+🕐	00 1 1:00 bat erloju ordu bata puntuan
+😁	aurpegi barre begi begiez egiten ari den aurpegia irribarre
+🩱	bainujantzi osoa
+🐛	intsektu zomorroa
+😲	aurpegi guztiz harridura harritu-aurpegia sorpresa
+📟	bilagailu bilagailua
+🤘	adarra adarrak adierazten dituen eskua gorputza hatza
+😮	aho ahoa irekita duen aurpegia aurpegi ireki poza
+🆘	laguntza sos botoia
+💭	bunbuilo burutazio burutazio-bunbuiloa komiki pentsamendu
+🐉	herensugea ipuin
+🚟	eseki ibilgailu monorrail esekia trenbide
+🫱	eskua eskuina eskuinera begira dagoen eskuinerantz
+🎶	musika nota musikalak notak
+🈯	hatz bat irudikatzen duen ideograma karratu batean japoniera japonierazko erreserbatuta botoia
+👹	aurpegi fantasia ipuin izaki japoniera munstro ogroa
+🧑‍🎄	bizarzuri eguberriak gabonak
+🫶	bihotz-forma egiten ari diren eskuak maitasuna
+💝	begizta bihotz bihotza begiztarekin valentin
+🥇	1 postuaren domina lehen urre
+🔘	botoi geometriko kontrol kontrol-laukia
+🪋	apokalipsia erori espazioa grabitatea harria izarra suzko bola
+🐜	intsektu inurria
+🆎	ab botoia odol-taldea odola
+🧑‍🍼	edoskitzen elikatzen haurra haurtxoa pertsona
+💻	ordenagailu eramangarria pc pertsonal
+🏉	baloi errugbi errugbia futbol
+🐆	lehoinabar lehoinabarra
+🦡	azkonar eztijale gogaitu
+🦄	adarbakar adarbakarra aurpegia
+💊	gaixo medikuntza pilula sendagile
+🐒	tximu tximua
+👃	gorputza sudur sudurra
+🧼	apar bainu garbitze pastilla xaboi xaboi-ontzi
+👧	emakume neska
+📜	paper paper-biribilkia
+🗿	aurpegi estatua moai moaia moyai
+🔠	abcd alfabeto latindarra maiuskulaz letrak maiuskula sarrera
+🌵	kaktusa landare
+♉	idi taurus zezen zodiako
+🙎	keinu muturtu pertsona muturtua
+🐓	oilar oilarra
+💓	bihotz bihotz-taupada taupada
+😟	aurpegi kezkatua kezkatu
+🕍	erlijio judu judutar sinagoga tenplu
+👶	haurtxo haurtxoa
+🌹	arrosa landare lore
+🔧	giltza ingelesa tresna
+🪂	delta hegal parasail paraxut paraxuta
+🦨	kiratsa mofeta
+👩‍🏫	andereño andereno emakume irakaslea emakumezko irakasle
+🌷	landare lore tulipa
+🥠	prophecy zortearen gaileta
+⛽	bonba erregai gasolina gasolina-bonba gasolindegi
+⛎	berri-ekarle ofiuko suge zodiako
+🌋	eguraldi erupzio mendi sumendia
+🛬	hegazkin ibilgailu iritsiera iritsierak lur hartu hartzen ari den hegazkina lurreratu
+🔱	aingura enblema hiruhortza itsasontzia tresna
+💳	banku diru kreditu kreditu-txartela txartel
+🏂	elur eski snowboard snowboardlaria
+🔒	giltzarrapoa itxita
+🔉	baxu bolumen bozgorailu bozgorailua piztuta uhin
+🚑	anbulantzia ibilgailu
+🥻	arropa saria soineko
+🈵	japonierazko lanpostu hutsik ez botoia osotasuna irudikatzen duen ideograma karratu batean txinera
+🀄	gorri joko mahjong dragoi gorria
+😠	aurpegi ero haserre haserre-aurpegia
+😚	143 amz aurpegia begia begiak itxita dituen eta musuka ari den flirtean geratzea hitzordua itxi laztana lotsagorritu maite-jokoetan maite-jolasean maite-kontuetan musua musuak musutxoak mz zita
+🧃	edari-tetrabrika zuku-tetrabrika
+🦶	oin oina ostikada zanpatu
+🙆	ados dagoela adierazten ari den pertsona esku keinu
+🎏	banderatxo haizea neurtzeko karpa itxurako banderatxoak karpa-itxurako ospakizun
 💄	ezpain-margoa kosmetika makillaje
 🚘	auto heldu den autoa ibilgailu
-👨‍🏭	fabrika fabrikako gizon langilea gizonezko industria langile mihiztatu
-🏣	eraikin japonia japoniako postetxea posta
-🫐	ahabia ahabiak baia urdina
-🦑	janari molusku txibia
-🐵	aurpegia tximu-aurpegia tximua
-🧊	hotza iceberga izotz zatia izotza
-🤿	esnorkela urpekari-maskara urpekaritza
-📼	bideo bideo-kasetea vhs zinta
-💟	bihotz apaindua
-🎥	bideokamera profesionala film kamera zinema
-🧥	berokia jaka
-🐽	aurpegia sudurra txerri-sudurra txerria
-👭	bi emakume elkarri eskua ematen bikotea eman
-🚝	ibilgailu monoraila
-🩷	143 arrosa atsegin bihotz bihotza gogoko maitagarria maitasuna polita
-🧑‍🎓	graduatu ikasle ikaslea
-🏡	eraikin etxe etxea eta lorategia lorategi
-😮‍💨	arnasa botatzen ari den aurpegia hartu arnasestua hasperena lasaitua marmarra txistua
-🔣	idazketa ikurrak
-🪚	arotza egurra tresna zerra
-🧕	buruan zapi bat daraman emakumea hijab mantilla tichel
-🦂	eskorpioi eskorpioia scorpius zodiako
-➖	− ikurra matematika minus
-😮	aho ahoa irekita duen aurpegia aurpegi ireki poza
-🪸	arrezifea korala ozeanoa
-🚊	ibilgailu tranbia trolebus
-😟	aurpegi kezkatua kezkatu
-📇	euskarri txartel txartel-euskarria
-🌽	artaburua arto buru landare
-📫	bandera igota duen postontzi itxia itxita ontzi posta
-🚄	abiadura handiko trena ibilgailu shinkansen tren trenbide
-🧑‍🎨	artista paleta
-🪪	id kredentzial lizentzia nortasun-agiria segurtasun
-🫖	edan edaria ontzia tea teontzi teontzia
-🕘	00 9 9:00 bederatzi bederatziak erloju puntuan
-🈵	japonierazko lanpostu hutsik ez botoia osotasuna irudikatzen duen ideograma karratu batean txinera
-🐔	oilo oiloa
-👩‍🦽	emakume emakumezko eskuzko gurpil-aulkian doan emakumea gurpil-aulki irisgarritasun
-🛗	igogailua irisgarritasuna karga-jasogailua
-🍊	fruitu landare laranja mandarina
-🤒	aurpegi gaixo termometro termometroa duen aurpegia
-🎾	erraketa pilota tenisa
-🤡	aurpegi pailazo pailazo-aurpegia
-💰	diru-poltsa dirua dolarra poltsa bete diru
-🛴	kick patinetea scooter
-🪷	araztasuna budismoa garbitasuna hinduismoa lorea lotoa purutasuna
-🦉	hontz hontza jakitun
-🐛	intsektu zomorroa
-📣	animatu megafonoa
-😱	aurpegi beldur beldurrez oihuka ari den aurpegia beldurti beldurtu izutu
-🥨	biribilki pretzel
-📎	klip klipa
-🍩	donut donuta gozo postre
-🐕	maskota txakur
-🧑‍🧒‍🧒	familia haurra nagusia
-🪮	afroa apain-orrazia apaindu apaingarria flamenkoa ilea orrazia orraztu
-🫗	edalontzi edari erori hutsik likidoa isurtzen
-📳	bibrazio modua modu mugikor sare telefono
-💏	bikotea musu musua
-🔮	bola fantasia ipuin kristal kristalezko zorte
-🙆	ados dagoela adierazten ari den pertsona esku keinu
-🏈	amerikar baloi futbol amerikarra
-🥿	mokasin zapata lau laua zapatila
-🦿	hanka mekanikoa irisgarritasuna prostetikoa
-💆	aurpegi masaje masajea egiten ari dioten pertsona zentro
-🫯	borroka debatea desadostasuna eztabaida gatazka iskanbila liskarra
-🫰	<3 bihotza dirua erakuslea eta erpurua gurutzatuta dauzkan eskua garestia klask klaskatu kriskitin maitasuna
-🥯	bagel okindegi schmear
-🦜	hitz egin loro pirata txori
-👨‍🌾	baserritar gizon nekazaria gizonezko lorezain nekazari
-👖	arropa galtza bakeroak galtzak prakak
-🦕	brankiosaurio brontosaurio diplodoko sauropodo
-🚯	debekatuta ez ezin da bota zaborra lurrera galarazita zabor
-🩱	bainujantzi osoa
-➕	+ ikur matematika plus
-😡	amorru aurpegi muturtua ero gorri haserre muturtu
-🥋	arte martzial martzialetako kimonoa judo karate kimono taekwondo
-🐣	arrautzatik irtetea arrautzetik irten berri den txita kumea txoria
-👑	arropa errege erregina koroa
-🏆	sari trofeoa
-🦔	eztendun triku
-✋	esku altxatua eskua
-🔪	arma hocho janari labana sukaldeko
-🪔	diya lanpara olio
-🐏	ardi aries zikiroa zodiako
-🟣	more zirkulu morea
-🥦	aza basati brokoli
-👜	arropa eskuko poltsa
-🍎	fruitu gorri landare sagar gorria
-🍜	fideo katilu kea darion katilua ramen
-🐓	oilar oilarra
-🪑	aulki eserleku jarleku
-🧠	adimentsua argia azkarra burmuin burmuina
-📘	liburu urdina urdin
-🛬	hegazkin ibilgailu iritsiera iritsierak lur hartu hartzen ari den hegazkina lurreratu
-🍘	arroz arroz-mokadua mokadu
-🦚	arranditsu harro hegazterren txori
-🎆	ospakizun su artifizialak
-🫌	aldaketa beldarra eraldaketa hauskorra intsektua itxaropena metamorfosia migrazioa
-🤯	lehertzear den burua txundituta
-🟩	berde karratu berdea
-🈲	debekua irudikatzen duen ideograma karratu batean japoniera japonierazko debekatuta botoia
 😈	adarrak aurpegi fantasia ipuin irribarre egiten ari den adarduna
-💗	bihotz handitu handitzen ari den bihotza taupada urduri urduritasun
-🔼	botoia gezia gora egiteko
-🎈	ospakizun puxika
-🦀	cancer karramarroa zodiako
-🩸	hileroko medikuntza odol tanta odol-emate
-📄	dokumentu gora begira dagoen orria orri
-🐋	bale balea
-🍌	banana fruitu landare
-🤕	aurpegi benda buruan daraman aurpegia oinaze zauri
-👡	arropa emakume emakumeentzako sandalia oinetako
-🏤	eraikin europa posta postetxea
-🏓	bola erraketa joko ping-pong tenis
-🧁	cupcake gozo okindegi
-🌲	hosto iraukorreko zuhaitza landare zuhaitz
-🎂	ospakizun pastel postre tarta urtebetetze urtebetetze-tarta
-💋	ezpainak musu musu-aztarna
-🤔	aurpegi pentsatzen ari den aurpegia
-⛳	bandera zuloan golf zulo
-🧫	bakterio biologia biologo kultura laborategi petriren kaxa
-🥠	prophecy zortearen gaileta
-👐	esku irekiak gorputz ireki
-😃	ahoa alai aparta aupa aurpegia bikaina egundokoa haginak hortzak irekita irribarre egiten ari den eta daukan begi handiak dituen irribarrea irribarreka itzela itzelezkoa pozik zabalduta zabalik
-👅	gorputza mingain mingaina
-🤨	bekaina jasota duen aurpegia eszeptiko mesfidatu
-🎌	bandera gurutzatuak gurutzatuta gurutze japoniar ospakizuna
-💫	izar komiki zorabiatuta
-🤹	malabarismoa oreka trebetasuna zeregin ugari
-📠	fax faxa
-🚪	ate atea
-🥹	aguantatzen harro haserre malkoak dituen begiko aurpegia negarrez triste
-🌖	ilargia ilbehera ilbehera-hasiera konkorra
-🙏	erregutzen ari diren eskuak eskatu eskerrak mesedez otoitz
-🧑‍🎤	abeslari abeslaria aisia aktore izar rock
-🪥	eskuila eskuilatu garbi higienea hortzak hortzetako komuna
-🏄	surf surflaria
-👩‍🔬	biologoa emakume zientzialaria emakumea emakumezkoa fisikaria ingeniaria kimikaria
-🤺	eskrima eskrimalaria ezpata kirola pertsona
-🎠	karrusela zaldia
-🈳	hutsa irudikatzen duen ideograma karratu batean japonierazko lanpostu botoia txinera
-🔥	sua sugar tresna
-🪿	ahatea antzara etxeko hegaztia karran-karran karranka ornitologia samalda txoria
-🍨	esne gozo izotz izozkia postre
-🕓	00 4 4:00 erloju lau laurak puntuan
-🔯	erdian puntu bat duen sei puntako izarra izar zorte
-📉	behera diagrama beherakorra grafiko joera
-🐀	arratoi arratoia
-👟	arropa kirol korrika egiteko oinetakoa oinetako
-📯	adar adarra posta
-😅	aurpegi barreka ari den aurpegia izerdi hotzarekin hotz ireki irribarre egiten eta ahora irekita
-🦛	hipopotamo
-🌛	aurpegi eguraldi espazio ilargi ilargi-laurdena ezkerrera begira lehen aurpegiarekin
-👔	arropa gorbata
-🧡	bihotz laranja
-❔	galdera galdera-marka zuria marka nabarmendu puntuazio
-🐺	aurpegia otso otsoa
-🪹	habi hutsa habia
-🤴	printzea
-🌘	eguraldi espazio ilargi ilbehera ilbehera-bukaera txikitu
-🩺	bihotz estetoskopioa mediku medikuntza
-🍣	sushi
-🍢	broxeta itsaski kebab makil oden
-🦐	ganba itsaski janari txiki
-🫺	eskuina eutsi hau hori neutroa seinalatu
-🍮	budin gozo natillak postre
-🥐	croissant croissanta frantzia janari opil
-🔖	laster-marka marka
-🥟	dumpling enpanada gyōza jiaozi pierogi potsticker
-🎭	antzoki areto arte eszenikoak eszeniko maskara
-🈚	ezeztapena irudikatzen duen ideograma karratu batean japoniera japonierazko doakoa botoia
-🚋	auto ibilgailu tranbia tranbiaren bagoi trolebus
-🚦	argi seinale semaforo bertikala trafiko
-😒	aspertu-aurpegia aspertuta aurpegi triste
-🔹	diamante urdin txikia geometriko
-🪴	etxea hazi landarea loreontziko landare zaindu
-🧰	erreminta erreminta-kutxa kutxa mekaniko
-🦃	indioilar indioilarra
-🍄	barrengorria landare
-🟤	marroi zirkulu marroia
-🫱	eskua eskuina eskuinera begira dagoen eskuinerantz
-🧟	hildako bizidun ibiltari zonbi
-👨‍🎤	abeslaria aisia aktorea gizon gizona gizonezkoa izarra rocka
-🫩	begien azpian poltsak dituen aurpegia leher eginda lehertuta logalea logura nekatuta
-🤗	aurpegi besarkada ematen ari den aurpegia besarkatu
-⏩	aurrera egiteko botoia bikoitz bizkor gezi
-🕜	1 1:30 30 bat erloju hogeita hamar ordu eta erdiak
-📈	diagrama gorakorra gora grafiko hazkuntza joera
-🦆	ahate ahatea hegazti
-🤼	borroka borrokalari borrokalariak kirol pertsona
-🎶	musika nota musikalak notak
-🦁	aurpegia lehoi lehoia leo zodiakoa
-🤏	atximurka egiten ari den eskua pixka bat
-🪄	azti magia makiltxo magiko sorgin
-🆖	ng hitza botoia
-😙	aurpegi begi irribarre musu musuka eta begiez barreka ari den aurpegia egiten
-🙍	keinu kopeta zimurtzen ari den pertsona zimurtu
-🚂	ibilgailu lurrun motor tren tren-makina trenbide
-👰	belo beloa daraman pertsona emaztegai ezkontza
-🚭	debekatuta erretzea ez ezin da erre
-😨	aurpegi beldur ikara ikara-aurpegia ikaratu
-🎼	musika notazio musikala
-🤦	aurpegi esku-azpi esku-azpia aurpegian sinesgaiztasun sumindura
-📞	hargailu telefono telefono-hargailua
-🚎	autobus ibilgailu tranbia trolebus trolebusa
-🔢	1234 idazkera zenbakiak
-🪣	baldea perrail perraila treska uhoitza
-😾	aurpegi katu katu-aurpegi muturtua muturtu
-🥢	hashi zotzak
-🏑	belar belar-hockeya hockey joko makila pilota
-🎢	errusiar mendia jolas mendi parke
-🐭	aurpegia sagu-aurpegia sagua
-😧	aurpegi estutasun estutasun-aurpegia
-🐷	aurpegia txerri-aurpegia txerria
-🫣	begi batekin espiatzen ari den aurpegia begira espiatu txundituta
-🍈	fruitu landare meloia
-🤛	ezkerrera ukabila begira
-🙋	altxatuta esku eskua altxatzen ari den pertsona keinu pozik
-🚲	ibilgailu ziklomotor ziklomotorra
-🍑	fruitu landare muxika
-🌍	afrika europa eta ikusgai dituen lur-globoa globo lur mundu
-👬	bi gizon elkarri eskua ematen bikiak bikotea gemini gizona zodiakoa
-🐗	ar basurdea txerri
-🤎	bihotz marroia marroi
-🚃	bagoi bagoia elektriko ibilgailu tranbia tren trenbide
-🎤	karaoke mikrofono mikrofonoa
-👿	aurpegi deabru deabrua fantasia ipuin
-📡	antena parabolikoa satelite bidezko
-🫨	ai ene beldurra dar-dar egin ezustea ikara omg sorpresa uau zorabiatu
-🤜	eskuinera ukabila begira
-🌰	gaztaina landare
-🐨	aurpegia koala martsupiala
-📚	liburu liburuak
-🌿	belarra hosto landare
-♍	birjina ezkongabe virgo zodiako
-📂	fitxategi fitxategi-sailkatzaile irekia irekita karpeta
-🔠	abcd alfabeto latindarra maiuskulaz letrak maiuskula sarrera
-🔗	kate-maila
-🔱	aingura enblema hiruhortza itsasontzia tresna
-🥒	barazki janari ozpinetako pepino pepinoa
-⏪	atzera egiteko botoia bikoitz gezi
-🥁	danbor danborra makilak musika
-📅	data egutegi
-👨‍🦼	gizon gizonezko gurpil-aulki motordunean doan gizona irisgarritasun
-🍚	arroz egosia egosi
-🐆	lehoinabar lehoinabarra
-☔	aterki aterkia euri-tantekin babes eguraldi euri tanta
-🍼	biberoia botila edan esne haurtxo
-🎳	bola boloak joko
-🪭	abanikoa astindu beroa dantza eskuko haizemaile tolesgarria flamenkoa freskatu haizemailea ligatu lotsatia
-🍉	fruitu landare sandia
-🎄	gabonak gabonetako zuhaitza ospakizun zuhaitz
-🔲	botoi geometriko karratu beltz itxurako botoia
-🧑‍🌾	baserritar lorezain nekazari nekazaria
-🚩	posta triangelu-itxurako bandera
-🦓	marra zebra
-🍗	hanka hegazti hezur izter izterra oilasko
-🥮	ilargi-pastel ilargi-pastela jaialdia udazkena yuèbǐng
-🏪	denda eraikin supermerkatu supermerkatua
-🍓	baia fruitu landare marrubia
-🤚	altxatuta esku-azpia
-📩	bidali gezia gutun-azala gezi batekin mezu elektronikoa posta
-📓	koaderno koadernoa
-👥	silueta soin soinen siluetak
-📊	barra barra-diagrama diagrama grafiko
-🗽	askatasun askatasunaren estatua
-🕒	00 3 3:00 erloju hiru hirurak puntuan
-🪋	apokalipsia erori espazioa grabitatea harria izarra suzko bola
 👓	arropa begi betaurreko betaurrekoak
-🚰	edan edateko ura ur
-🎽	bizkarraldeko dortsala elastiko korrika
-😴	aurpegi lo dagoen aurpegia zzz
-🎦	film kamera zinema
-🥏	frisbee ultimate
-🦡	azkonar eztijale gogaitu
-🎨	arte margo margolari-paleta museo paleta
-🍖	haragi hezur hezurra haragiarekin
-🔍	beira bilatu ezkerrera begira dagoen lupa tresna
-🌹	arrosa landare lore
-👩‍🚀	astronauta emakume emakumezko espazioa suziri
-🐚	eskola espirala oskol
-🎰	joko txanpon txanpon-makina
-🕺	dantza gizon gizona dantzan
-🔡	abcd alfabeto latindarra minuskulaz hizki latindar letra minuskula
-👩‍🦯	emakume emakumezko irisgarritasun itsu itsu-makila daraman emakumea
-🕍	erlijio judu judutar sinagoga tenplu
-🛁	bainu bainuontzia
-💘	bihotz bihotza geziarekin gezi kupido
-🥍	baloi gol lacrosse makila
-🧑‍🔧	elektrikari iturgin mekanikari mekanikaria saltzaile
-😍	143 amodioa amz aurpegia begia bihotza bihotzak erromantikoa irribarre egiten ari den bihotz-itxurako begiekin irribarrea laztana maitasuna maitekorra maiteminduta musuak mz sentimenduak
-🆑	botoia cl
-🧃	edari-tetrabrika zuku-tetrabrika
-👒	arropa emakume emakumeentzako kapelua kapelu
-♌	leo leoi zodiako
-🌞	argi aurpegi eguraldi eguzki eguzkia aurpegiarekin espazio
-🍆	alberjinia barazki landare
-😊	aurpegi begi begiez irribarre egiten ari den aurpegia gorritu
-🫸	blokeatu bostekoa bultza eskuinerantz egiten ari den eskua gelditu itxaron sakatu uko
-💲	diru dolar dolar-ikur lodia moneta
-🦍	animalia gorila
-🌈	eguraldi euri ortzadarra
-🙂	apur bat irribarre egiten ari den aurpegia aurpegi
-🧭	iparrorratz magnetiko nabigazio orientazio
-👞	arropa gizon gizonentzako oinetakoa oinetako
-🩳	azpiko arropa bainujantzi galtzak galtzamotzak
-🧑‍🚀	astronauta suziri
-🕚	00 11 11:00 erloju hamaika hamaikak puntuan
-😵	aurpegi zorabiatu zorabio-aurpegia
-📿	arrosario arrosarioa erlijio lepoko otoitz
-🤓	arraro arraro-aurpegia aurpegi berezi
-🪀	gora eta behera jostailua yo-yoa yoyoa
-🏫	eraikin eskola
-🍹	edan edari tropikala taberna tropikal
-🕝	2 2:30 30 bi erloju hogeita hamar ordu eta erdiak
-🕠	30 5 5:30 bost eta erdiak erloju hogeita hamar
-📟	bilagailu bilagailua
-🎵	musika nota musikala
-👙	arropa bikinia igeri
-🩲	azpiko arropa bainujantzi galtzontzilloak osoa
-🤑	aho aurpegi diru diru-itxurako mingaina duen aurpegia
-🚛	ibilgailu kamioi artikulatua semi
-🥘	janari kazola paella-ontzi sakonera txikiko zartagin zartagina
-😘	aurpegi bihotz musu bat bidaltzen ari den aurpegia
-🛺	rickshaw motorduna tuk
-👱	ile ilehori pertsona ilehoria
-🛂	kontrol pasaporte pasaporte-kontrola
-🪓	aizkora aizkorakada arrakala zur
-🫝	arazoa eskabetxea gatzuna hartzigarria luzokerra ongailua ozpinetako
-🔞	18 adin-muga adingabe adingaberik ez debekatuta galarazita hemezortzi
-🤝	adostasuna bilera esku-ematea eskua
-📒	koaderno kontabilitate-liburua
-🚥	argi seinale semaforo horizontala trafiko
-🔊	3 altu bolumen bozgorailu bozgorailua ozen hiru
-🐴	aurpegia zaldi-aurpegia zaldia
-😕	aurpegi nahasketa-aurpegia nahastuta
-🫑	barazkia piper piperra
-🫄	beteta haurdun pertsona puztuta sabela
-🪐	goibel planeta eraztunduna saturno
-🏅	domina kirol-domina
-🏯	eraikin gaztelu japoniarra gaztu japoniar
-🌊	eguraldi olatu olatua ozeano ur
-💿	blu-ray cda disko optikoa diskoa ordenagailua
-🪦	goian bego hilarri hilarria hilerria hilobia hobia kanposantua
-⚾	baloi beisbola
-👈	erakusle esku ezkerrera seinalatzen ari den hatz erakuslea seinalatu
-🦒	jirafa orbanak
-🌗	eguraldi espazio ilargi ilbehera-erdia
-🚸	haur haurrek zeharkatzen duten errepidea oinezko trafiko zeharkatu
-🤳	autoargazki autoargazkia kamera telefono
-🏀	baloi saskibaloia uztai
-🚏	autobus-geltokia autobusa geltokia geralekua
-🥷	borrokalari ezkutu isil-gorde ninja
-⚽	baloi futbol futboleko baloia
-🚖	heldu den taxia
-👂	belarri belarria gorputza
-👝	arropa poltsa zorroa
-📵	debekatuta ez mugikorra sarea telefono mugikorrik telefonoa
-🐳	aurpegia balea ura jaurti jaurtitzen ari den
-😯	aurpegi harridura harridura-aurpegia harrituta zur eta lur
-🍫	gozo postre txokolate txokolatina zati
-🌋	eguraldi erupzio mendi sumendia
-🧝	elfo magiko
-💛	bihotz horia hori
-👨‍💻	asmatzailea garatzailea gizon teknologialaria gizona gizonezkoa kodetzailea softwarea
-🐃	bufaloa ur-bufaloa ura
-🧆	falafela haragi-bola txitxirioa
-💎	bitxi diamante harribitxia
-🧑‍🚒	suhiltzaile suhiltzaile-kamioi suhiltzailea
-📷	bideo kamera
-⛪	eliza eraikin erlijio gurutze kristau
-🚵	bizikleta mendi mendiko bizikletan dabilen pertsona txirrindulari txirringa
-🐟	arrain pisces zodiako
-🤥	aurpegi gezurtia gezur pinotxo
-😛	aurpegi mingain mingaina kanpoan duen aurpegia
-🦵	gorputz-adarra hanka ostikada
-🪒	bizar-labana bizarra kendu zorrotz
-💈	adierazle bizar bizargin bizarginaren birakaria moztu
-📹	bideoa bideokamera kamera
-🛵	motoa scooter
-💸	billetea dirua hegoekin dolarra hegan
-🔦	argi elektriko linterna tresna
-🧑‍🧑‍🧒‍🧒	familia haurra nagusia
-🚳	bizikleta bizikletarik ez debekatuta galarazita
-🪵	egur egurra enbor zur
 😂	aurpegi barre malko poz pozez negar egiten ari den aurpegia
-🐦	txori txoria
-🔩	azkoin torloju eta azkoina trsna
-🤠	aurpegi behizain txanodunaren aurpegia txano unai
-🔉	baxu bolumen bozgorailu bozgorailua piztuta uhin
-💇	edertasun ile-apaintzaile ilea mozten ari dioten pertsona moztu zentro
-🧓	adineko agure genero neutroko
-👼	aingeru-itxura duen haurtxoa aingerua aurpegia fantasia ipuina
-🪠	libragailu libragailua libratu
-👨‍💼	alkandora arkitektoa enpresa gizon bulegaria gizona gizonezkoa kudeatzailea
-🔃	berriro eskuinera gezi bertikalak kargatu
-🦦	arrantzatu igaraba jolastia
-🗻	fuji mendia mendi
-🐖	eme txerri txerria
-🧲	erakarpen ferra iman magnetiko
-🚻	bainugela garbigela komun-ontzia komuna wc
-💤	gabon komikia lo zzz
-🔌	argindar elektriko entxufe entxufea
-🏺	anfora aquarius edari janari pitxer
-📻	bideo irratia
-🧑‍🦯	irisgarritasuna itsu-makila daraman pertsona zuria itsua
-🪗	akordeoi akordeoia kontzertina
-🍱	bento kaxa kutxa
-🔘	botoi geometriko kontrol kontrol-laukia
-🕙	00 10 10:00 erloju hamar hamarrak puntuan
-👻	aurpegi fantasia ipuin izaki mamua munstro
-🧉	edaria matea
-🫀	bihotza organoa erdigunea kardiologia pultsua taupada
-🦭	foka itsas lehoia txakurra
-👨‍🔬	biologoa fisikaria gizon zientzialaria gizona gizonezkoa ingeniaria kimikaria
-🐫	bactria bi tontorreko gamelua gamelu tontor
-♉	idi taurus zezen zodiako
-👨‍🍳	chef gizon sukaldaria gizonezko sukaldari
-🚢	ibilgailu itsasontzia
-🥽	begien babes igeriketa igeriketako betaurrekoak soldadura
-🚟	eseki ibilgailu monorrail esekia trenbide
-🔶	diamante laranja handia geometriko
-🪡	brodatua josi joskintza jostorratz jostura orratza puntada
-⛺	denda kanpin
-🙁	aurpegi apur bat kopetiluna kopetilun
-👾	aurpegia estralurtarra fantasia ipuina izakia munstro munstroa ohe
-💷	banku billete diru faktura libera billetea moneta
-🏉	baloi errugbi errugbia futbol
-❓	galdera galdera-marka gorria puntuazioa
-👩‍🎨	artista emakume emakumezko paleta
-🐇	maskota untxi untxia
-🌾	arroz arroz-zurtointxoak landare pikor
-🛷	lera
-🌀	eguraldi tifoi tornado zikloia zorabio
-🦴	eskeletoa hezur hezurra
-👨	gizon gizona gizonezko
-💥	bum eztanda komiki
-🗿	aurpegi estatua moai moaia moyai
-⛵	belaontzia ibilgailu itsaso itsasontzi resort
-🫵	ikusleari seinalatzen dion erakuslea seinalatu zu
-🏰	eraikin europa gaztelua
-🐞	amona intsektu mantangorri
-🚆	ibilgailu trena trenbide
-🐕‍🦺	irisgarritasun laguntza laguntza-txakurra txakur
-🐮	aurpegia behi-aurpegi behia
-🏮	argi faroltxo gorri japonia paper gorrizko faroltxoa taberna
-😥	aurpegi desengainatuta baina lasaiago eskerrak lasai
-🧤	esku eskularruak
-🐰	aurpegia maskota untxi-aurpegia untxia
-🏨	eraikin hotela
-🍕	gazta pizza zati
-📗	berde liburu berdea
-🎇	bengala ospakizun su artifizialak
-🪳	intsektua labezomorro labezomorroa mokotarroa
-⚡	argindar arrisku elektriko tentsio handia tximista
-⏬	behera bizkor egiteko botoia bikoitz gezi
-🍻	edari garagardo pitxer taberna topa egiten ari diren garagardo-pitxerrak
-🚺	bainugela emakumea emakumeen komuna emakumezkoa emakumezkoen garbigela komun-ontzia wc
-👚	arropa emakume emakumeentzako
-🧳	bidaia ekipaje ekipajea prestatze
-♐	arkulari sagittarius zodiako
-🚤	abiadura handiko txalupa ibilgailu itsasontzi
-📝	bolaluma oharra
-🪨	astun harri harria harritzar koskor pisutsu solido
-🍅	barazki landare tomatea
-📁	fitxategi fitxategi-sailkatzailea sailkatzaile
-🎁	inguratuta kaxa opari ospakizun paperez inguratutako oparia
-🧑	genero neutroko heldu pertsona
-🚒	ibilgailu kamioi su suhiltzaileen kamioia
-👷	eraikuntza eskulangilea kasko langile
-🔤	abc alfabetoa hizki latindarrak latindarra letrak sarrera
-🚞	auto ibilgailu mendi mendiko trenbidea trenbide
-🌐	globo globoa eta meridianoak lur meridiano mundu
-😸	aurpegi barre begi begiez egiten ari den katu-aurpegia katu
-🫡	ados agurtu agurtzen ari den aurpegia bai eguzkitsu tropak
-🟰	berdin-ikur lodia berdintasuna matematika
-🚬	erre
-🆒	cool hitza botoia
-🍺	edari garagardo garagardo-pitxer garagardo-pitxerra pitxer taberna
-🪏	aitzurtu endaia pala zulatu zuloa
-🐂	idia taurus zezen zodiako
-🤙	deitu deitzeko esku-keinua eskua
-♓	arrain pisces zodiako
-👵	agure amona emakume emakumezko zahar
-🐧	pinguino pinguinoa
-❎	× gurutze-ikurraren botoia ikur karratu x
-🟫	karratu marroia marroi
-🥩	bildots-saiheski haragi-mozketa saiheski txerri-saiheski xerra
-🦾	beso mekanikoa irisgarritasuna prostetikoa
-🎣	arrain arrantza egiteko kanabera
-😌	aurpegi lasaitasun lasaitasun-aurpegia
-🫷	blokeatu bostekoa bultza ezkerrerantz egiten ari den eskua gelditu itxaron sakatu uko
-🐝	erle erlea intsektu
-🌻	eguzki ekilorea landare lore
-✨	distira izar
-🚽	bainugela komuna
-🥑	ahuakate ahuakatea fruitu janari
-👛	arropa diru-zorroa txanpon
-🌮	mexiko takoa
-📋	ohar-blok ohar-bloka
-🦊	aurpegia azeria
-⚫	geometriko zirkulu beltza
-♒	aquarius berri-ekarle ur zodiako
-🐈‍⬛	katu beltza
-🩵	143 anila bihotz urdin argia bihotza ziana
-📤	bidalitako erretilu gutun irteerako erretilua ontzi posta
-🐐	ahuntza capricornus zodiako
-🧂	gatz gatzontzi ongailu
-🎯	dardo diana helburu itu itua joko
-🐻	aurpegia hartz hartza
-🔨	mailua tresna
-🚣	arraun arraunlaria ibilgailu ontzi
-👕	alkandora arropa elastiko elastikoa
-🐼	aurpegia panda
-👃	gorputza sudur sudurra
-📭	bandera jaitsita duen postontzi irekia irekita ontzi posta
-🚁	helikopteroa ibilgailu
-🛻	kamioi kamioneta
-🕤	30 9 9:30 bederatzi eta erdiak erloju hogeita hamar
-🫅	erregea erregetasuna erregetza jauntxoa koroa bat duen pertsona monarka noblea
-🧑‍🦽	eskuzko gurpil-aulkian doan pertsona gurpil-aulkia irisgarritasuna
-🌱	gazte kimua landare
-😪	aurpegi lo logura logura-aurpegia
-🧒	gazte genero neutroko haur
-🦤	desagerpena dodo dodoa handia maurizio
-👢	arropa bota emakume emakumeentzako oinetako
-📬	bandera igota duen postontzi irekia irekita ontzi posta
-🚼	aldatu haurtxo haurtxoen aldagela
-🚑	anbulantzia ibilgailu
-😞	aurpegi etsipen etsipen-aurpegia
-🍸	edari koktel koktel-kopa kopa taberna
-🥵	bero bero-bero dagoen aurpegia bero-kolpe gorritu izerditan sukartsu
-🫔	bilkaria kiribilkia mexikarra tamal
-👹	aurpegi fantasia ipuin izaki japoniera munstro ogroa
-😬	aurpegi imintzio imintzio-aurpegia
-🤶	bizarzuriren emaztea gabonak gabonetako ama
-🎓	arropa graduatu-txanoa graduazio ospakizun txano
-👩‍🎓	emakume emakumezko graduatu ikasle neska ikaslea
-🛖	eraikin biribil etxe etxola yurta
-🎬	film klaketa
-🤘	adarra adarrak adierazten dituen eskua gorputza hatza
-🕣	30 8 8:30 erloju hogeita hamar zortzi eta erdiak
-🤫	isilarazi isilik isiltasuna eskatzen ari den aurpegia ixo
-🔭	teleskopioa tresna
-🌸	gereziondo-lorea gereziondoa loratu lorea
-🥻	arropa saria soineko
-🎷	musika saxofoi saxofoia tresna
-😺	aho ahoa irekita duen eta irribarre egiten ari den katu-aurpegia katu-aurpegi irribarretsua aurpegi ireki katu
-😫	aurpegi nekatu nekatu-aurpegia
-😀	aurpegi barre egiten ari den aurpegia irribarre
-💭	bunbuilo burutazio burutazio-bunbuiloa komiki pentsamendu
-🦼	gurpil-aulki motorduna irisgarritasun
-👩‍💼	alkandora arkitektoa emakume bulegaria emakumea emakumezkoa enpresa kudeatzailea
-♿	erabilerraztasun gurpil-aulkia
-🥄	koilara mahai-tresneria
-🧽	belaki garbitze porotsu xurgatze
-💵	bankua billetea dirua dolar dolarra moneta
-🐹	aurpegia hamster hamsterra maskota
-💾	diskete disketea disko ordenagailu
-🌔	eguraldi espazio handitu ilargi ilbehera ilgora-bukaera
-🥫	janaria latetan lata
-💴	billetea dirua moneta yen yena
-🦧	orangutana tximinoa
-🍶	botila edari kopa sake taberna
-⚪	geometriko zirkulu zuria
-🆙	gora marka markatu up botoia
-😎	argitsua atseden hartzen aurpegia bai horixe betaurrekoak bikaina eguzkia eguzkitako erlaxatzen estiloa ezin hobe hondartza irabazi irabazlea irribarre egin egiten ari den eta dituen irribarrea oso ondo ongi primeran
-📐	erregela kartaboi kartaboia triangelu
-🫧	burbuilak garbi haizea urpean xaboi
-💕	bi bihotz maitasun
-😗	aurpegi musu musuka ari den aurpegia
-🫤	ahoa diagonalean duen aurpegia desengainatuta eszeptikoa ez nago ziur meh
-💬	bunbuiloa elkarrizketa hizketa
-🛘	arriskua arrokak ezbeharra haitzak harriak higakina luizia lurretena lurrikara lurtadura mendia
-🚚	garraiatzeko kamioia garraio ibilgailu kamioi
-🔚	amaiera end gezia
-💺	aulki eserlekua
-🎉	aire-serpentina festa ospakizuna serpentina
-🤲	esku-azpiak elkartuta otoitza
-😔	aurpegi pentsakorra goibel pentsakor
-👋	eskua gorputza mugitu mugitzen ari den
-🎊	bola konfeti konfetiz betetako ospakizun
-💼	maleta
-🥬	aza barazki hostodun bok choy kale letxuga
-🈸	inprimaki bat irudikatzen duen ideograma karratu batean japonierazko eskaera botoia txinera
-🚱	debekatuta edan edateko ez den ura galarazita ur
-🐄	behi behia
-⬜	geometriko karratu zuri handia
-😝	aurpegi begi mihia aterata eta begiak itxita dauzkan aurpegia mingain mingaina kanpoan duen dituen txar zapore
-😓	aurpegi hotz izerdi hotza duen aurpegia
-🩼	bastoi desgaitasun makil makulua min mugitzeko laguntza
-🙀	aurpegi harritu katu leher eginda dagoen katu-aurpegia nekatu
-🧯	amatatu itzali su su-itzalgailu
-🦖	t-rex tiranosaurio rex
-🧑‍🧒	familia haurra nagusia
-🐒	tximu tximua
-🥴	ahoa okertuta alai begiak mozkortuta tentel-aurpegia zorabiatuta
-🧅	gozagarria tipula
-🍙	arroz arroz-bola bola japonia
-👨‍🚒	gizon suhiltzailea gizonezko suhiltzaile suhiltzaile-kamioi
-🪈	grabagailua musika piccoloa tutua txirula zurezko haize-instrumentua
-🏏	bate joko kriketa pilota
-👴	agure aitona gizon gizonezko zahar
-🦝	kuxkuxero maltzur mapatxe
-🎲	dadoa jokoa
-🚡	bagoia ibilgailua kablea mendiko teleferikoa
-😑	aurpegi espresiorik gabe gabeko aurpegia
-🥶	aurpegi izoztu hotz oso urdindu
-🚿	dutxa ur
-🖕	erdiko hatza esku gorputz hatz
-🫆	forentsea hatz-marka identitatea nortasuna segurtasuna
-🧑‍🍳	chef sukaldari sukaldaria
-🫠	desagertu disolbatu likidoa urtu urtzen ari den aurpegia
-🐑	ardi ardia eme
-🕐	00 1 1:00 bat erloju ordu bata puntuan
-🔑	blokeo giltza pasahitza
-🚕	ibilgailu taxia
-🎹	musika musika-teklatua piano tresna
-🦮	gida irisgarritasuna itsu-txakurra itsua
-📃	dokumentu orri tolestua tolestu
-👨‍🔧	elektrikari gizon mekanikaria gizonezko iturgin mekarikari saltzaile
-😄	ahoa alai aurpegia barrea barrez lehertzen begia irekita irri egiten irria irribarre ari den eta begiez barreka daukan irribarrea irribarreka lol pozik
-🥲	alai alaitasuna esker ona onekoa harro hunkituta irribarre egiten ari den eta malko bat duen aurpegia irribarrea irribarreka irribarretsua lasai lasaitu malkoa mina pozik poztasuna zoriona
-🫥	barnerakoia deprimituta desagertu ezkutatu ikusezina lerro etenarekin egindako aurpegia
-🥤	kopa eta lastotxoa soda zuku
-🥃	alkohol edalontzi zabala txupito whiski zabal
-🗼	dorrea tokio tokioko
-🙄	aurpegi begiak bueltaka dituen aurpegia biraka
-🦥	alferra motela nagia
-🧞	djinn iratxo
-🤪	begi ero-aurpegia handi txiki
-👩‍🍳	chef emakume sukaldaria emakumezko sukaldari
-🫘	babarrunak giltzurrun janari lekale
-🥇	1 postuaren domina lehen urre
-🐘	elefante elefantea
-🔻	behera geometriko gorri punta begira duen triangelu gorria
-🎡	gurpil jolas noria parke
-🕢	30 7 7:30 erloju hogeita hamar zazpi eta erdiak
-💪	bizepsa bizepsak flexioa giharra gorputza komikia
-🎒	bizkar-zorro bizkar-zorroa eskola eskolako poltsa
-😢	aurpegi malko negar negarrez ari den aurpegia triste
-👨‍🦯	gizon gizonezko irisgarritasun itsu itsu-makila daraman gizona
-🫪	beldurra handitu hantura harrituta izua larritasuna txundituta zaurgarria
-🔕	debekatu galarazi isilarazi isilik isiltasuna kanpai marratua kanpaia
-📢	altu bozgorailu publiko
-🦟	birus eltxo gaixotasun intsektu malaria sukar
-🎅	aita noel bizarzuri fantasia gabonak ospakizuna
-❕	harridura harridura-marka zuria marka nabarmendu puntuazio
-🤽	kirol pertsona waterpolo waterpoloa
-🗾	japonia japoniako mapa
-🔆	argi argitasun argitasuna igotzeko botoia
-🤣	barrez leherka lehertu
-🦅	arrano arranoa hegazti
-🧶	bola harilko kakorratz puntu
-🍇	fruitu landare mahats mahatsa
-🌯	burritoa mexiko
-🌎	america ikusgai duen lur-globoa amerika globo lur mundu
-🀄	gorri joko mahjong dragoi gorria
-🦣	desagerpena handia hortza iletsua mamut
+📂	fitxategi fitxategi-sailkatzaile irekia irekita karpeta
+👱	ile ilehori pertsona ilehoria
+🌇	eguraldi eguzki eraikin ilunabar ilunabarra
+🪀	gora eta behera jostailua yo-yoa yoyoa
+🎾	erraketa pilota tenisa
+🔼	botoia gezia gora egiteko
 🥝	fruitu janari kiwia
-😻	animalia aurpegia begia bihotz-itxurako begiak dituen eta irribarre egiten ari den katu-aurpegia begiekin bihotza irribarrea katu irribarretsua katua maitasuna
-🎸	gitarra musika tresna
-⏫	bikoitz gezi gora bizkor egiteko botoia
-🏩	eraikin hotel maitasun maitasun-hotela
-🥓	haragi hirugihar hirugiharra janari
-➗	÷ ikur matematika zatiketa zatitu
-🐦‍🔥	berpiztea berraragiztatzea birsortzea biziberritzea fantasia fenixa haragitzea suzko hegaztia
-🔁	errepikatu errepikatzeko botoia eskuinera gezi
-👪	aita ama familia haurra
-🤍	bihotz zuria zuri
-🪃	aurkakoa bumerana errebotea itzulera kontrakoa
-🔧	giltza ingelesa tresna
-🐶	aurpegia maskota txakur-aurpegia txakurra
-🦌	animalia orein oreina
-🎋	japonia ospakizun paper tanabata zuhaitza zuhaitz
-🕌	erlijio islam meskita musulman
-📔	apaindu estalki apaingarria duen koadernoa koaderno liburu
-🕗	00 8 8:00 erloju puntuan zortzi zortziak
-🐲	aurpegia herensuge-aurpegia herensugea ipuina
-👊	eskua estutu gorputza ukabila ukabilkada
-🫙	edukiontzi gorde hutsik osagarri pitxerra saltsa
-🚇	ibilgailu metro metroa
-🧏	belarria entzun erabilerraztasuna gorra
-🤐	aho aurpegi kremailera kremaileradun ahoa duen aurpegia
-👩	emakume emakumea emakumezko
-🍡	dango gozo japonia makila postre
-📧	elektroniko mezu elektronikoa posta
-🛜	banda zabala internet kablerik gabekoa ordenagailua routerra sarea wifia wlan
-🐊	krokodilo krokodiloa
-📌	txintxeta
-🕕	00 6 6:00 erloju puntuan sei seiak
-⛲	iturri iturria
-🔫	arma errebolber pistola tresna
-🍐	fruitu landare udarea
-⚓	aingura ontzi tresna
-🪆	errusia matrioxka panpina
-📦	fardel ontzi paketea
-🧧	diru gutun-azal gorri hóngbāo lai see opari zorte on
-🪽	abiazioa aingerua hegan hegaz hegazkinta hegoa igo mitologia txoria
-🎪	karpa zirkoaren zirkua
-😏	aurpegi handiki handitasun-aurpegia
-🛄	ekipajea jaso maletak jasotzeko eremua
-♑	ahuntz capricornus zodiako
-🧑‍💼	alkandora arkitekto bulegaria enpresa kudeatzaile
-🐁	sagu sagua
-🐌	barraskilo barraskiloa
-👩‍🌾	baserritar emakume nekazaria emakumezko lorezain nekazari
-🕑	00 2 2:00 bi erloju ordu biak puntuan
-🎀	begizta ospakizun
-📪	bandera jaitsita duen postontzi itxia itxita ontzi posta
-🎮	bideo-jokoa joko kontroladore
-🔴	geometriko gorri zirkulu gorria
-🦞	itsaski itsaski-krema matxarda otarrain
-🛐	erlijio otoitz otoizlekua
-🛹	patinete skateboard
-👩‍🏭	emakume emakumezko fabrika fabrikako langilea industria langile mihiztatu
-🙅	ados ez dagoela adierazten ari den pertsona debekatuta esku galarazita keinu
-🏧	atm automatikoa automatizatua bankua kutxazain automatikoaren seinalea kutxazaina kutxazainaren
-🧢	bixera
-🫎	adarrak altzea animalia orein kanadarra ugaztuna wapitia
-💁	eskean dabilen pertsona esku eskupeko informazio kokin laguntza
-🈶	existentzia irudikatzen duen ideograma karratu batean japoniera japonierazko ez da doakoa botoia
-🌺	hibiskoa landare lore
-🤬	ahoan ikurrak dituen aurpegia izerditan
-🤢	aurpegi zorabiatua goitika zorabiatu
-💃	dantza dantzan ari den emakumea emakume
-🦋	intsektu pinpilinpauxa polit
-🐥	aurrera begira dagoen txita kume
-🚫	debekatuta ez sarrera
-💞	bihotz biraka ari diren bihotzak
-🥖	baguette baguettea francia janari ogi
-🉑	japonierazko onargarria botoia onarpena irudikatzen duen ideograma zirkulu batean txinera
-🚓	auto ibilgailu polizia poliziaren autoa
-🧑‍🔬	biologo fisikari ingeniari kimikari zientzialari zientzialaria
-🔒	giltzarrapoa itxita
-🐦‍⬛	belatxiki belea beltza erroi txori
-😐	aurpegi espresiorik gabe neutrala
-🪘	bongoa danbor luze danborra erritmoa konga
-🎩	altu arropa kapelu altua
-👩‍🎤	abeslaria aisia aktorea emakume emakumea emakumezkoa izarra rocka
-🦄	adarbakar adarbakarra aurpegia
-🐠	arrain tropikala arraina
-🥥	koko palmondo piña colada
-🧣	lepoa zapi
-🎿	elur eski eskiak
-🌆	arratsaldea eguraldia eraikina hiri-paisaia ilunabarrean hiria ilunabarra paisaia
-🧐	aspergarria monokulo bat duen aurpegia
-😭	aurpegi malko negar eta ari den aurpegia triste zotinka
-😰	aho ahoa irekita eta izerdi hotza duen aurpegia aurpegi grinatsu hotz
-💣	komiki lehergailua
-🐪	dromedario gamelua tontor
-👨‍🎓	gizon gizonezko graduatu ikasle mutil ikaslea
-👇	behera seinalatzen ari den hatz erakuslearen atzealdea hatza erakusle esku seinalatu
-🥉	3 postuaren domina brontze hirugarren
-🚅	abiadura handiko trena mutur biribilduarekin bala-trena biribildu ibilgailu shinkansen tren trenbide
-🥳	adar festa kapelu ospakizun parrandan dabilen aurpegia
-👳	turbante turbantea duen petsona
-🎧	entzungailu entzungailuak
-📨	gutun-azala gutuna jaso mezu elektronikoa posta sarrerako
-⭐	izar zuri ertaina izarra
-🫃	beteta gizona haurdun puztuta sabela
-🌌	eguraldi esne-bidea espazio
-🧖	lurrun-gela pertsona bat lurrun-gelan sauna
-🚠	bagoi ibilgailu kable mendi teleferikoa
-🪙	altxorra dirua metala txanpon urrea zilarra
-🌵	kaktusa landare
-😲	aurpegi guztiz harridura harritu-aurpegia sorpresa
-🙃	aurpegi buruz behera dagoen aurpegia
-🚶	ibili oinez ari den pertsona
-👤	silueta soin soinaren
-🛶	kanoa ontzi
-🌓	eguraldi espazio ilargi ilgora-erdia
-🌒	ilargia ilgora
-👽	aurpegia espazioa estralurtarra fantasia izakia munstroa ohe
-🕡	30 6 6:30 erloju hobeita hamar sei eta erdiak
-🐡	arrain globo-arraina
-🛃	aduanak
-🥛	edalontzi bat esne edan
-🛟	erreskate flotatu salbamendu-jaka segurtasun sirena
-🫚	errizoma espezia garagardoa jengibrea osasuna sustraia zurtoina
-🍋	fruitu landare limoi limoia
-🪶	arina hegaldia luma lumajea
-🫹	eutsi ezkerra hau hori neutroa seinalatu
-👲	gizon gua pi mao txano txinatarra daraman gizona pertsona
-🤰	emakumea haurdun
-🧹	erratz errazte garbitze sorgin
-💑	bihotza erdian duen bikotea maitasuna
-⛅	eguraldi eguzki eguzkia hodei baten atzean
-🩶	143 arbela bihotz grisa bihotza emozioa zilarra zirrara
-🧨	dinamita lehergai petardo su artifizial
-🏊	igeri igerilaria
-🕟	30 4 4:30 erloju hogeita hamar lau eta erdiak
-🩰	ballet balleteko oin-puntak dantza
-📀	blue-ray cda diskoa dvda optikoa ordenagailua
-🏃	korrika ari den pertsona maratoi
-🧜	itsas izaki lamina sirena
-🔽	behera egiteko botoia beherantz gezia
-💻	ordenagailu eramangarria pc pertsonal
-🧋	burbuila esnea perla te burbuiladun tea
-🫏	animalia astakiloa astarra astoa astokoa burugogorra mandoa tematia ugaztuna
-🪟	gardena ikuspegia irekidura irekiera leihoa markoa
-🐢	dortoka dortokoa
-😤	aurpegi irabazi sudurretik kea darion aurpegia txapeldun
-👨‍🚀	astronauta espazioa gizon gizonezko suziri
-👩‍💻	asmatzailea emakume teknologialaria emakumea emakumezkoa garatzailea kodetzailea softwarea
-🦠	ameba bakterio birus mikrobio
-🥺	aurpegi erregutzailea begirada erregutzaile erregutze gupida
-🤮	gaixo goitika ari den aurpegi
-❗	harridura harridura-marka gorria marka puntuazioa
-🪼	erroak eztena garroak gelatina itsasokoa itsastarra marmoka mina ornogabea tentakuluak ziztada
-🎺	musika tresna tronpeta
-🟥	gorri karratu gorria
-😶	aho ahorik gabeko aurpegia aurpegi isilik isiltasun
-🧬	biologo bizitza dna eboluzio gene genetika
-😵‍💫	arazoa hipnotizatuta kiribil-begiak dituen aurpegia kiribila zorabiatuta
-📸	bideo flash kamera flasharekin
-👩‍🔧	elektrikari emakume mekanikaria emakumezko iturgin saltzaile
-💧	eguraldi hotz izerdi komiki tanta tantatxoa
-🪂	delta hegal parasail paraxut paraxuta
-🎃	halloween halloweeneko kuia ospakizun
-🫟	erion holi isuri jariatu margoa orbana zapasta zetaka zikingunea ziliporta zipriztina
-💖	bihotz distiratsua distira urduri
-💜	bihotz morea more
-🚀	espazio ibilgailu suziria
-🎑	ilargi ilargiaren ospakizuna ospakizun zeremonia
-🍦	esne gozo izotz izozki krematsua postre
-🥀	lore zimela lorea
-😣	aurpegi nekaezina nekaezin pertseberantzia
-📰	albisteak egunkari egunkaria
-🥊	boxeo boxeoko eskularrua eskularru kirol
-🧑‍🏫	irakasle irakaslea
-🔺	geometriko gorri punta gora begira duen triangelu gorria
-📺	bideo telebista
-🦬	bisonte bisontea bufaloa taldea
-👸	fantasia ipuin printzesa
-😋	aurpegi dastatu gozo irribarre janari gozoa dastatzen ari den aurpegia mmm
-👗	arropa soinekoa
-🦎	narrasti sugandila
-🫳	baztertu erori esku-ahurra beherantz duen eskua ospa
-🥎	eskularru jaurtiketa baxu pilota sofbol-pilota
-💉	gaixo medikuntza orratz sendagile tresna xiringa ziztada
-🪧	afixa idazkun idazkuna kartela manifestazioa seinalea tantaia zutoina
-🌃	eguraldi gau gaua eta izarrak izar
-📕	itxita liburu itxia liburua
-😇	aingerua argi-koroa aurpegia barreka ari den argi-koroarekin fantasia inuzentea irribarre egiten irribarrea
-🍃	haize haizeaz hegan ari den hostoa hosto korronte
-🫒	janaria oliba
-🔜	soon hitza gezia
-🧑‍🍼	edoskitzen elikatzen haurra haurtxoa pertsona
-🚍	autobusa heldu den
-🧄	baratxuria ongailua
-👯	belarri dantzari jendea untxi-belarriak jantzita neska parrandan ari den untxi
-🪤	amua sagu-arte sagu-artea sagutegia satartea tranpa zepoa
-🥸	aurpegi betaurrekoak ezkutu mozorro mozorrotutako aurpegia sudur
-🥅	ate ateko sarea kirol sare
-🍪	gaileta gozo postre
-🔎	beira bilatu eskuinera begira dagoen lupa tresna
-🩴	hondartzako sandaliak hondartzarako sandalia uhaldunak zōri
-💢	amorruaren ikurra haserre komiki sutan
-🥙	falafel gyro janari kebab ogitarteko bete betea
-🐈	katua maskota
-📥	erretilu gutun jaso ontzi posta sarrerako erretilua
-🚮	zabor zaborra ontzira botatzeko seinalea zaborrontzi zakarrontzi
-🟨	hori karratu horia
-🥼	esperimentu laborategiko jantzia mediku zientzialari
-🧱	adreilu buztin horma mortero
-🧈	esnekia gurina
-💓	bihotz bihotz-taupada taupada
-🎏	banderatxo haizea neurtzeko karpa itxurako banderatxoak karpa-itxurako ospakizun
-♈	aries zikiro zodiako
-🛌	gabon hotela lo pertsona bat ohean
-🦇	animalia banpiro saguzar saguzarra
-🚐	autobus ibilgailu minibusa
-🐬	flipper izurdea
-🐅	tigrea
-🌉	eguraldi gau zubi zubia gauez
-🤌	elkartuta esku-keinua galdera hatz elkartuak hatzak sarkasmoa
-🛀	bainu bainuontzi pertsona bat bainatzen
-👶	haurtxo haurtxoa
-🍁	astigarra astigarraren hostoa erori
+🍙	arroz arroz-bola bola japonia
 🚜	ibilgailu traktorea
-💠	barnealde diamante geometriko komiki puntu bat duen diamantea
-😚	143 amz aurpegia begia begiak itxita dituen eta musuka ari den flirtean geratzea hitzordua itxi laztana lotsagorritu maite-jokoetan maite-jolasean maite-kontuetan musua musuak musutxoak mz zita
-👮	aginte polizia
-🍥	arrain arrain-pastela zurrunbiloarekin gozogintza pastel zurrunbilo
-🧌	fantasia istorioak munstroa trolla
-👠	arropa emakume oinetako takoidunak takoi
-🧑‍🎄	bizarzuri eguberriak gabonak
-👩‍🏫	andereño emakume irakaslea emakumezko irakasle
-🌴	palmondoa zuhaitza
-🏭	eraikin fabrika
-🔷	diamante urdin handia geometriko
-💡	argi bonbilla elektriko ideia komiki
-🪾	agorra agorraldia agortea antzua elkorra hosto gabeko zuhaitza idorra idortea lehorra lehortea negua
-🔙	atzera back gezia
-🫲	eskua ezkerra ezkerrera begira dagoen ezkerrerantz
-💒	erromantze ezkontza kapera
-🆔	id hitza botoia nortasuna
-🧑‍🩰	balleta dantzaria
-🥪	ogia ogitartekoa
-⌛	harea harea-erloju tenporizadore
-🔀	abestiak ausaz erreproduzitzeko botoia gezi gurutzatu
-😦	aho aurpegi ireki kopeta ilun eta ahoa zabalik duen aurpegia ilunduta irekita kopetilun
-🍄‍🟫	barazkia janaria natura onddoa perretxiko marroia pizza portobelloa shiitakea
-🦫	kastore kastorea presa
-🥚	arrautza janari
-🛑	ikur oktogonal stop ikurra
-🎫	sarrera txartela
-👺	aurpegi fantasia ipuin iratxoa izaki japoniera munstro
-🤷	altxatu axolagabekeria ezjakintasun sorbalda sorbaldak zalantza
-🦏	animalia errinozero errinozeroa
-🍿	krispeta krispetak
-☕	bero edari beroa kafe ke te
-📴	itzali mugikor sare telefono mugikorra itzalita
-👘	arropa kimonoa
-🚈	ibilgailu tren arina trenbide
-🧷	kateorratz pixoihal punk
-🍔	hanburgesa
-🔸	diamante laranja txikia geometriko
-🎎	ospakizun pan panpin japoniarrak
-🧘	meditazio pertsona bat loto-posizioan yoga
-🥾	bota kanpin mendiko motxila xendazaletasun
-🦙	alpaka artile bikuina guanako llama
-🆚	vs testua botoia versus
-🧦	galtzerdiak galtzeta
-🛕	hindu tenplu hindua
-💝	begizta bihotz bihotza begiztarekin valentin
-🔂	behin errepikatzeko botoia eskuinera gezi
-🌷	landare lore tulipa
-🧑‍🧑‍🧒	familia haurra nagusia
-🥰	amodioa amz aurpegia bihotza bihotzak irri egiten ari den 3 bihotzekin irribarre diren irribarrea maitasuna maite zaitut maiteminduta mz oso gustukoa txora-txora eginda txoratzea
-💍	diamante eraztuna
-🕖	00 7 7:00 erloju puntuan zazpi zazpiak
-🚷	debekatuta ez galarazita oinezko oinezkorik
-🐾	atzapar atzapar-aztarnak aztarna oin
-👨‍🎨	artista gizon gizonezko paleta
-🍤	frijitu gabardina-ganba ganba langostino tenpura
-🦢	ahatetxo itsusi txori zisne txiki
-🔏	giltzarrapo giltzarrapoa lumarekin luma pribatutasun tinta
-⛄	eguraldi elur elurrezko gizon gizona elurrik gabe hotz
-💀	aurpegi buru-hezurra gorputz heriotz hil ipuin munstro
-🏴	dantzan dantzatzen ari den bandera beltza
-👍	erpurua eskua gora gorputza
-🧑‍💻	asmatzaile garatzaile kodetzaile software teknologialari teknologialaria
-🪊	goibela haize-metala instrumentua irristatu jazza musika tresna tristea
-🌭	frankfurt hot dog hotdog saltxitxa
-♎	balantza justizia libra oreka zodiako
-🪇	astindu festa instrumentua jaia marakak musika musika-tresna perkusioa
-💂	zaindaria
-🛸	ohe plater hegalari
-➰	malguki malgukia
-🎴	japonia joko karta lore loreak dituzten kartak
-🦪	ostra perla urpekaritza
-🪯	erlijioa khanda sikh sikismoa
-🛅	ahaztutako maletak ekipaje maleta
-🉐	abantaila bat irudikatzen duen ideograma zirkulu batean japoniera japonierazko pagotxa botoia
-🧑‍🏭	fabrika fabrikako langilea industria langile mihiztatu
-🔰	berdea hasiberria irudikatzen duen japonierako ikurra hasiberriaren hostoa japoniera komatxoa
-🫍	balea itsasoa itsasokoa itsastarra orka ozeanoa
-♊	biki gemini zodiako
-🍒	fruitu gerezi gereziak landare
-🦘	jauzi egin jauzia kangurua kangurukumea martsupiala saltatu saltoa
-🦯	irisgarritasun itsu makila
-🧼	apar bainu garbitze pastilla xaboi xaboi-ontzi
-🧿	begizko bihi nazar sorginkeria talisman
-🎱	8 billar billarra bola joko zortzi
-🍭	gozo gozoki piruleta postre
-🥈	2 postuaren domina bigarren zilar
-🔬	mikroskopioa tresna
-🤞	eskua gurutzatu hatz gurutzatuak hatza zortea
-🍛	arroz arroza curryarekin curry
-👌	ados adostasuna adierazten duen eskua gorputza ok
-👆	erakusle esku gora seinalatzen ari den hatz erakuslearen atzealdea hatza seinalatu
-👉	erakusle esku eskuinera seinalatzen ari den hatz erakuslea seinalatu
-🎍	banbu japonia ospakizun pinu pinurako dekorazioa
-🧔	bizar pertsona bizarduna
-🦶	oin oina ostikada zanpatu
-🈺	japonierazko irekita botoia txinera zerbait abian dela irudikatzen duen ideograma karratu batean
-🧮	abakoa kalkulua
-🏁	bandera laukiduna karratu lasterketa lauki laukidun
-🙈	aurpegia debekatuta gauza txarrik ikusi nahi ez duen tximua keinua txarra
+👨‍💼	alkandora arkitektoa enpresa gizon bulegaria gizona gizonezkoa kudeatzailea
+🥥	koko palmondo piña pina colada
+📈	diagrama gorakorra gora grafiko hazkuntza joera
+🛐	erlijio otoitz otoizlekua
+🚂	ibilgailu lurrun motor tren tren-makina trenbide
+🈶	existentzia irudikatzen duen ideograma karratu batean japoniera japonierazko ez da doakoa botoia
+🪡	brodatua josi joskintza jostorratz jostura orratza puntada
+💏	bikotea musu musua
+🦐	ganba itsaski janari txiki
+⏰	alarma erloju
+🌟	distira distiratsu izar distiratsua txinparta
+🥮	ilargi-pastel ilargi-pastela jaialdia udazkena yuèbǐng yuebing
+🌗	eguraldi espazio ilargi ilbehera-erdia
+📀	blue-ray cda diskoa dvda optikoa ordenagailua
+👩‍🏭	emakume emakumezko fabrika fabrikako langilea industria langile mihiztatu
+🕙	00 10 10:00 erloju hamar hamarrak puntuan
+🗽	askatasun askatasunaren estatua
+👩‍🦼	emakume emakumezko gurpil-aulki motordunean doan emakumea irisgarritasun
+🚌	autobusa ibilgailu
+🛼	gurpil-lerroa gurpil-lerroko irristailu irristailua
+👨‍🦽	eskuzko gurpil-aulkian doan gizona gizon gizonezko gurpil-aulki irisgarritasun
+😳	aurpegi gorritua gorritu nahastu
+🫏	animalia astakiloa astarra astoa astokoa burugogorra mandoa tematia ugaztuna
+🌃	eguraldi gau gaua eta izarrak izar
+👇	behera seinalatzen ari den hatz erakuslearen atzealdea hatza erakusle esku seinalatu
+🥬	aza barazki hostodun bok choy kale letxuga
+🩴	hondartzako sandaliak hondartzarako sandalia uhaldunak zōri zori
+🤭	ene eskuaz ahoa estaltzen ari den aurpegia
+🌽	artaburua arto buru landare
+📢	altu bozgorailu publiko
+🔓	giltzarrapo irekia ireki irekita
 🍠	batata errea erre
-🕋	erlijio islam kaaba musulman
-🫓	arepa lavash naan ogi zapal pita
-😠	aurpegi ero haserre haserre-aurpegia
-🫶	bihotz-forma egiten ari diren eskuak maitasuna
-🤖	aurpegi munstro robot robot-aurpegia
-◾	geometriko karratu beltz ertaina/txikia
-🤤	aurpegi aurpegia lerdea dariola lerde
-🏹	arkua eta gezia arkularia arma sagittarius zodiakoa
+🦵	gorputz-adarra hanka ostikada
+🧍	zutik dagoen pertsona zutitu
+🐼	aurpegia panda
+🕞	3 3:30 30 erloju hiru eta erdiak hogeita hamar
+🤣	barrez leherka lehertu
+😉	aurpegi begiaz keinu egiten ari den aurpegia
+🪓	aizkora aizkorakada arrakala zur
+🎰	joko txanpon txanpon-makina
+🍳	arrautz frijitu janaria prestatu zartagin
+😩	aurpegi nazkatu neke neke-aurpegia
+🦽	eskuzko gurpil-aulkia irisgarritasun
+😮‍💨	arnasa botatzen ari den aurpegia hartu arnasestua hasperena lasaitua marmarra txistua
+🪔	diya lanpara olio
+♌	leo leoi zodiako
+➗	÷ ikur matematika zatiketa zatitu
+👩‍🎤	abeslaria aisia aktorea emakume emakumea emakumezkoa izarra rocka
+⚓	aingura ontzi tresna
+📞	hargailu telefono telefono-hargailua
+🧘	meditazio pertsona bat loto-posizioan yoga
+😺	aho ahoa irekita duen eta irribarre egiten ari den katu-aurpegia katu-aurpegi irribarretsua aurpegi ireki katu
+💖	bihotz distiratsua distira urduri
+🍣	sushi
+💆	aurpegi masaje masajea egiten ari dioten pertsona zentro
+🕓	00 4 4:00 erloju lau laurak puntuan
+♑	ahuntz capricornus zodiako
+🪰	euli eulia gaixotasuna harra intsektua usteldu
+💲	diru dolar dolar-ikur lodia moneta
+💚	berde bihotz berdea
+🚪	ate atea
+💉	gaixo medikuntza orratz sendagile tresna xiringa ziztada
+🛘	arriskua arrokak ezbeharra haitzak harriak higakina luizia lurretena lurrikara lurtadura mendia
+🐰	aurpegia maskota untxi-aurpegia untxia
+📆	egutegi orriak kentzeko egutegia
+👨‍🦼	gizon gizonezko gurpil-aulki motordunean doan gizona irisgarritasun
+🤨	bekaina jasota duen aurpegia eszeptiko mesfidatu
+🤹	malabarismoa oreka trebetasuna zeregin ugari
+🫷	blokeatu bostekoa bultza ezkerrerantz egiten ari den eskua gelditu itxaron sakatu uko
+🥉	3 postuaren domina brontze hirugarren
+🧽	belaki garbitze porotsu xurgatze
+🐨	aurpegia koala martsupiala
+✨	distira izar
+⛵	belaontzia ibilgailu itsaso itsasontzi resort
+🌼	landare lore lorea
+🏄	surf surflaria
+🧐	aspergarria monokulo bat duen aurpegia
+📦	fardel ontzi paketea
+💮	lore zuria
+🪇	astindu festa instrumentua jaia marakak musika musika-tresna perkusioa
+🤷	altxatu axolagabekeria ezjakintasun sorbalda sorbaldak zalantza
+🪎	aberastasuna baliotsua bitxiak dirua gema harrapakinak harribitxia saria urrea zilarra
+🧑‍🦼	gurpil-aulki motordunean doan pertsona gurpil-aulkia irisgarritasuna
+🙌	altxatu esku eskuak altxatzen ari den pertsona keinu ospakizun
+👨‍💻	asmatzailea garatzailea gizon teknologialaria gizona gizonezkoa kodetzailea softwarea
+🪲	intsektua kakalardo kakalardoa mamorroa zomorroa
+😜	aurpegi begi keinu mihia aterata begi-keinuka ari den aurpegia mingain mingaina kanpoan duen eta begiaz egiten txantxa
+🕗	00 8 8:00 erloju puntuan zortzi zortziak
+🥏	frisbee ultimate
+📖	irekita liburu irekia liburua
+👨‍🚒	gizon suhiltzailea gizonezko suhiltzaile suhiltzaile-kamioi
+🆗	“ok” testua karratu batean ados ok
+🥓	haragi hirugihar hirugiharra janari
+🫤	ahoa diagonalean duen aurpegia desengainatuta eszeptikoa ez nago ziur meh
+👨‍🎨	artista gizon gizonezko paleta
+🎨	arte margo margolari-paleta museo paleta
+🆔	id hitza botoia nortasuna
+🛺	rickshaw motorduna tuk
+👌	ados adostasuna adierazten duen eskua gorputza ok
+❓	galdera galdera-marka gorria puntuazioa
+📷	bideo kamera
+😥	aurpegi desengainatuta baina lasaiago eskerrak lasai
+🚇	ibilgailu metro metroa
+🍯	ezti ezti-potoa gozo poto
+📄	dokumentu gora begira dagoen orria orri
+🪑	aulki eserleku jarleku
+🤦	aurpegi esku-azpi esku-azpia aurpegian sinesgaiztasun sumindura
+🍋	fruitu landare limoi limoia
+🧟	hildako bizidun ibiltari zonbi
+🧶	bola harilko kakorratz puntu
+🍓	baia fruitu landare marrubia
+📇	euskarri txartel txartel-euskarria
+🌴	palmondoa zuhaitza
+🥷	borrokalari ezkutu isil-gorde ninja
+🙂	apur bat irribarre egiten ari den aurpegia aurpegi
+🎲	dadoa jokoa
+🤴	printzea
+🏰	eraikin europa gaztelua
+🧆	falafela haragi-bola txitxirioa
+🪩	beirazko bola dantza diskoteka distira festa
+💇	edertasun ile-apaintzaile ilea mozten ari dioten pertsona moztu zentro
+😸	aurpegi barre begi begiez egiten ari den katu-aurpegia katu
 💔	bihotz hautsia hautsi hautsita
-🍍	anana fruitu landare
-🤱	bular bularra ematea bularreko haur haurtxo
-👨‍🍼	elikatzen gizona haurrari janaria ematen haurtxoa
-👫	bikotea elkarri eskua ematen emakumea eman gizon-emakumeak gizona
+🍇	fruitu landare mahats mahatsa
+🐾	atzapar atzapar-aztarnak aztarna oin
+🙇	barkamen barkatu burua makurtzen ari den pertsona keinu makurtu
+🧧	diru gutun-azal gorri hóngbāo hongbao lai see opari zorte on
+🪷	araztasuna budismoa garbitasuna hinduismoa lorea lotoa purutasuna
+🤐	aho aurpegi kremailera kremaileradun ahoa duen aurpegia
+🫂	agur besarkada elkar besarkatzen ari den jendea eskerrik asko kaixo
+💦	izerdi izerdi-tantatxoak komiki zipriztin
+👨‍🚀	astronauta espazioa gizon gizonezko suziri
+😏	aurpegi handiki handitasun-aurpegia
+🪝	amu bihurritu harrapatu makurra okerra saltokia
+🔂	behin errepikatzeko botoia eskuinera gezi
+🎳	bola boloak joko
+🕥	10 10:30 30 erloju hamar eta erdiak hogeita
+☕	bero edari beroa kafe ke te
+🔡	abcd alfabeto latindarra minuskulaz hizki latindar letra minuskula

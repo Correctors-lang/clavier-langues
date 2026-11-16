@@ -1,1261 +1,1261 @@
 # Mots-clés d'emoji en « hu » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	bekeretezett „new” szó gomb new új
-🧑‍🤝‍🧑	egymás kezét fogó emberek fogás kéz kézenfogva pár
-◽	alakzat geometria kis-közepes fehér négyzet
-⛽	benzin benzinkút dízel kút tank tankol tankolás töltőállomás üzemanyag
-🔓	kinyitás lakat nyitott nyitva
-👄	ajkak rúzs száj test testrész
-🍴	ebéd ebédszünet éhes evőeszköz kaja kés és villa tálalás vacsora
-🏒	hoki hokiütő és korong jéghoki jégkorong labda sport ütő
-💦	csepp cseppek csobbanás edzés fröccsenés izzadság izzadságcseppek képregény víz
-🎐	csengő harang harangjáték szél szélcsengő szélharang ünnep ünnepi hangulat ünneplés
-😼	arc cica fanyar irónia ironikus macska mosollyal macskaarc mosoly szmájli
-😉	arc flörtöl húz kacsintás kacsintó szmájli ugrat
-📛	jelvény kitűző név névjegytábla
-🚉	állomás jármű közlekedés vasút vonat
-💌	levél romantika szerelem szerelmes szív
-🆘	gomb segélykérés segítség sos
-🛙	fény jelzés jelzőfény megvilágosodás navigáció remény tenger tengeri útmutatás
-🍯	bödön csupor édes méz mézes
-😿	arc cica könny macska sírás síró macskaarc szmájli szomorú
-🫜	cékla étel fehérrépa gyökér kert retek saláta vegetáriánus zöldség
-😳	arc elképedt elpirul elpirult elvörösödik hitetlen kellemetlen kételkedő kétkedő kidülledt szemek kipirult melege van mi okol szmájli zavarban
-🚨	autó forgó jármű lámpa mentő rendőr rendőrautó villogója riaszt sziréna tűzoltó vészhelyzet villogó
-🚌	busz jármű közlekedés
-🌇	alkonyat épületek lemenő nap naplemente város
-🔝	csúcsra nyíl felfelé top
-🙊	állat bocsánat elnézést elszóltam magam hoppá majom nem beszél szól semmit szólok tilos titok
-🐙	állat óceán oktopusz polip
-🕦	11 11:30 30 fél tizenkettő harminc idő óra tizenegy
-🕞	3 3:30 30 fél négy harminc három idő óra
-🙌	felemelt kezek hurrá kéz kezét felemelő ember test ünneplés vidámság
-🚗	autó jármű kocsi közlekedés vezet vezetés
-🕥	10 10:30 30 fél tizenegy harminc idő óra tíz
-🥱	álmos arc ásít ásítás ásító fáradt
-🐎	állat derbi fogadás ló lovaglás lovassport lóverseny lovi sport sportfogadás versenyló versenyzés
-👩‍🚒	foglalkozás nő tűz tűzoltó tűzoltónő
-🪉	ámor hangszer hárfa szerelem zene zenekar
-🫁	belégzés kilégzés légzés lélegzet levegő oxigén szerv tüdő
-📲	hívás kommunikáció hívásfogadás mobil mobiltelefon nyíllal nyíl rádiótelefon telefon
-💚	szív zöld
-📶	antenna antennasávok mobil mobiltelefon térerő
-🫦	aggódó ajkába harapó száj félelem flört ideges kényelmetlen nyugtalan
-🌅	felkelő nap hajnal napfelkelte napkelte reggel
-🌂	becsukott esernyő ernyő eső időjárás kiegészítő
-🍲	ebéd egy tál étel ennivaló
-🪜	fok létra létrafok mászás
-✅	jel kész pipa vastag fehér
-📑	fülek jelzés könyvjelző könyvjelzők
-👣	lábnyom lábnyomok mezítláb nyom nyomok úton
-👀	arc les néz szem szemek test testrész
-🤸	cigánykerék sport sportoló torna
-⭕	alakzat kör nagy vastag o piros
-😆	arc boldog haha kacag nevetés nyitott száj szájjal és lehunyt szemmel mosolygó szmájli
-🔄	csavar frissítés gomb megint nyíl óramutató járásával ellentétes irányú nyilak gombja teker újból
-🟢	kör zöld
-🧗	hegy hegymászás mászás mászó ember megmászik sziklamászás sziklamászó
-🌟	csillag csillog csillogás éjszaka fény fényes fénylő
-🤧	arc beteg fej fújja az orrát hapci meg van fázva megfázott szmájli tüsszent tüsszentő
-🔛	bekapcsolva jelzés nyíl
-🪫	akkumulátor alacsony elektronikus energiaszint lemerült töltöttség
-⏰	ébresztés ébresztőóra idő óra vekker
-🥕	étel répa sárgarépa zöldség
-➿	dupla hurok
-🥂	ivás koccint koccintás koccintó poharak pohár ünneplés
-🪲	állat bogár cserebogár rovar
-🩹	kötszer ragtapasz seb tapasz
-🟧	narancssárga négyzet
-📍	cím helyzet kerek rajzszög kitűz térkép
-😽	arc cica csók csókoló macskaarc lehunyt szemmel csukott szem macska puszi szmájli
-🐤	állat csibe kiscsibe madár naposcsibe
-🤵	elegáns ember férfi öltöny szmoking szmokingos vőlegény
-🛼	görkorcsolya görkori kori sport
-🧩	darab illeszkedik illeszkedő kirakó nyom összekapcsolódó puzzle
-🛝	csúszda játék játszótéri vidámpark
-🔇	csendes elnémított hangszóró hangerő néma némított
-🏥	doktor épület gyógyítás kórház orvos
-🚔	autó érkező jármű járőrautó közlekedés rendőrautó rendőrség
-💶	bank bankjegy bankó euró gazdag papírpénz pénz pénznem valuta
-🥭	déligyümölcs étel gyümölcs mangó trópusi
-🫂	barátság egymást ölelő emberek helló köszönet ölel ölelés ölelkezés ölelkező szerelem üdv viszlát
-🔳	alakzat bekeretezett fehér négyzet alakú gomb geometriai
-💹	bank diagram emelkedés felfelé jen növekedés növekvő jendiagram pénz pénznem piac trend valuta
-🧺	gazdálkodás kosár mosás növénytermesztés piknik szennyes tanya
-😖	arc frusztrált mérges összezavarodott szmájli szomorú zavart
-🔐	biztonságos kulcs lakat zár zárt kulccsal zárva
-🈯	„foglalt” bekeretezett képírásjel foglalt japán gomb
-🏦	bank épület
-🍧	desszert édesség étel fagyi fagylalt öntettel öntet
-🧍	áll álló ember
-🟠	kör narancssárga
-⛔	behajtani tilos behajtás forgalom közlekedési tábla kresz-tábla nincs tiltott
-✊	felemelt kéz ököl ökölbe szorított test ütés
-🌜	arc ég éjszaka hold holdfázisok utolsó negyed negyedben lévő arccal
-😹	állat arc cica kicsordul a könnye könny macska örömkönnyekkel macskaarc mosoly nevet örömkönny szmájli
-🧾	bizonyíték bizonylat könyvelés nyugta pénzügyek számla számvitel
-🪩	buli csillám diszkó diszkógömb tánc tükörgömb
-🏇	ló lovaglás lóverseny lovi sport versenyló zsoké
-👦	fiú kisfiú srác
-🏸	játék labda sport tollas tollaslabda ütő
-🥜	allergia étel földimogyoró mogyoró
-📱	kommunikáció mobil mobiltelefon rádiótelefon telefon
-🕎	gyertyatartó hanuka judaizmus menóra vallás zsidó
-🚙	autó jármű közlekedés lakókocsi suv szabadidő-autó szabadidőautó terepjáró utcai városi vezet
-🖤	fekete gonosz rossz szív
-🪬	amulett fatima hamsza kéz mária mirjam védelem
-🚴	bicikli biciklis biciklista biciklizik kerékpár kerékpáros kerékpározik sport sportoló teker
-🍷	alkohol bár bor borospohár étterem ital pohár vörösbor
-💊	betegség doktor gyógyszer kapszula orvos pirula tabletta vitamin
-🍀	lóhere négylevelű növény szerencse szerencsés
-🪌	dörzsölés eltávolítás hiba írás javítás radírozás rajz tévedés törlés visszavonás
-😷	arc egészségügyi maszkkal beteg betegség maszk gyógyszer orvos szmájli
-📆	fali naptár falinaptár
-🙉	állat fül hall majom nem figyel semmit hallottam tilos titok
-💱	átváltás bank pénz pénzváltás pénzváltó valuta
-🩻	csontok csontváz orvos orvosi röntgen röntgenkép
-🏠	családi ház épület hétvégi lak lakóház otthon vidéki
-📙	egyetem iskola könyv könyvtár narancssárga oktatás olvas olvasás tanul tanulás
-🥔	burgonya étel krumpli zöldség
-💮	fehér virág növény
-🥌	csapatjáték csúszókorong curling curlingkő játék jégteke kő sport téli
-💩	arc büdi büdös kaka kaki kakiarc kakihalom képregény
-🍳	étel reggeli serpenyő sütés-főzés tojás tükörtojás
-🦈	állat cápa hal
-🌼	növény virág virágzás
-😜	arc kinyújtott nyelvvel és kacsintó szemmel csipkelődik csúfolódik huncutkodik kacsintás kiöltött nyelv mosoly szem szmájli vicc viccelődik
-🪁	papírsárkány repül sárkányrepülő szárnyal
-⛎	csillagjegy horoszkóp kígyó kígyótartó
-🍾	bár dugó ital kiugrik kupak pezsgő pezsgőt pukkaszt születésnap ünneplés üveg kiugró dugóval
-🧇	gofri gofrisütő határozatlan vas waffle
-🛞	abroncs felni fordul gumiabroncs kerék kör
-📜	papír papírtekercs pergamen tekercs
-🧎	térdel térdelő ember
-🌕	ég éjszaka hold holdfázisok telihold űr
-💽	cd dvd lemez minidisc minidisk optikai számítógép
-💙	kék szív
-📏	egyenes felszerelés iskola matek matematika mérés vonalzó
-🥡	doboz elviteles papírdoboz elvitelre étel házhozszállítás evőpálcika kínai pálcika
-🕔	00 5 5:00 egész óra idő öt
-🤩	arc azta csillag csillagos szemű csillagszemű elbűvölt elragadtatott fülig ér a szája hű izgatott szemek szmájli vigyorgó vigyorog
-🟦	kék négyzet
-🐍	állat állatöv csillagjegy kígyó zodiákus
-🐉	állat mese sárkány
-🪎	arany drágakő ékszerek érték ezüst gazdagság jutalom pénz zsákmány
-💯	100 a+ aha egyértelműen egyetértés hűséges igaz igazság megtartás mindenképpen mutatás remek száz találat teljes tökéletes
-🌝	arc ég éjszaka hold holdfázisok telihold arccal
-♏	horoszkóp skorpió csillagjegy
-🪞	smink tükör tükröződés visszaverődés
-💅	kéz kifestés körmös köröm körömápolás körömfestés körömlakk lakk lakkoz manikűr testrész
-🫫	átalakulás ellenállás felfedés feszültség maszk szétomlás törés
-🈁	„itt” bekeretezett katakana japán gomb
-🍵	csésze fül nélküli teáscsésze ital tea
-⏳	homok homokóra csordogáló homokkal idő lejár letelik nem lejárt telik várakozás
-🌙	ég éjszaka hold holdfázisok kifli alakú növekvő sarló
-🤭	arc szájra tett kézzel hirtelen ráébred rájön hoppá kéz a száj előtt kuncog nevet röhög rötyög szmájli titok vihog
-🥗	étel saláta zöld zöldsaláta
-🈹	„engedmény” bekeretezett képírásjel japán gomb
-🔔	csengő harang szünet templom
-🦹	bűnöző ember főgonosz gazember gonosz gonosztevő rossz szupererő szupergonosz szuperképesség
-🙎	biggyeszt duzzogás duzzogó ember lány nő grimasz lebiggyeszt lebiggyesztett ajak mérges
-🫴	elkap felajánl felfelé néző kéz hív int
-👨‍🦽	akadálymentesség férfi kézi hajtású kerekesszékben kerekesszék mozgáskorlátozott mozgássérült tolószék
-🙇	bocsánat bocsánatkérés elnézést meditáció meditál meghajlás meghajló ember meghajol sajnálat sajnálom
-🔈	hangerő hangszóró
-🍋‍🟩	citrus friss gyümölcs koktél lé lime margarita mojito salsa tequila trópusi zöld
-🪖	hadsereg harcos katona katonai sisak katonaság
-🪰	állat betegség féreg kártevő légy rohadás rovar
-👧	copf fiatal lány kislány lányka
-🍂	avar falevél lehullott levél növény ősz
-🍝	étel makaróni milánói olasz spagetti tészta
-🧑‍🦼	akadálymentesség ember motoros kerekesszékben kerekesszék
-🏂	hó hódeszka snowboard snowboardozó téli sportok
-🏬	áruház boltok épület
-🤾	dob kézilabda labda sport sportoló
-🌳	erdő fa lombhullató növény zöld
-🏐	játék labda röpi röplabda sport
-🧴	hidratáló krém krémes flakon naptej napvédő sampon testápoló
-💨	elillan ereget ereszt felhő füst futás gyors képregény puki pukizik púzik rohanás szellent
-🪱	állat féreg földigiliszta giliszta gyűrűs gyűrűsféreg kukac parazita
-🫕	csokoládé étel fondü lábas olvasztott sajt sí svájci
-🕧	12 12:30 30 fél egy harminc idő óra tizenkettő
-🥣	ebéd étel gabonapehely leves paradicsomleves reggeli rizskása tál kanállal
-🍞	étel kenyér vekni
-🌚	arc ég hold holdfázisok új arccal újhold
-🦨	borz büdös bűz bűzborz bűzös bűzösborz
-🚹	férfi mosdó férfiak férfimosdó toalett vécé wc
-🪅	buli cukor édesség mexikó pinyáta ünnepség
-🪢	csomó hurok kötél madzag tengerészcsomó zsineg
-🫢	áhítat ámulat arc csend elakadt lélegzet előtt félelem hitetlenkedés kéz meglepetés nyitva omg sokk száj szemek zavar
-🎻	hangszer hegedű zene
-🛫	felszállás indulás jármű közlekedés légi repülő repülőgép indulása utasfelvétel
-💐	csokor évforduló növény randevú randi romantika születésnap virág virágcsokor
-👎	elvetés hüvelykujj lefelé kéz mutató nem rossz test
-🤟	3 ujj három kéz szeretlek jel kézmozdulat
-♋	csillagjegy horoszkóp rák
-🦸	hős jó szupererő szuperhős szuperképesség
-👏	gratulál kéz szép munka volt taps tapsol tapsoló test
-🧚	lepke mese oberon pillangó puck szárny titánia tündér tündérmese
-🏢	épület iroda irodaépület munka munkahely
-🧻	papír papírhenger papírtekercs papírtörlő papírtörölköző vécépapír wc wc-papír
-🔅	fényerő sötétítés gomb
-🆓	bekeretezett „free” szó free gomb ingyen ingyenes szabad
-🪛	csavarhúzó ezermester laposfejű szerszám
-📖	iskola könyv könyvtár nyitott oktatás olvas tanul tudás
-🍬	bonbon cukorka desszert édesség
-🃏	dzsóker francia kártya játék joker
-🧪	kémcső kémia kísérlet labor laboratórium tudomány vegyész vegyészet vegyi anyag vegyipar
-🍟	étel gyorsétel gyorskaja hasábburgonya krumpli sült sültkrumpli
-🌏	ausztrália ázsia ázsiát és ausztráliát mutató földgömb föld földrajz világ
-🧵	cérna fonal madzag orsó tű varrás
-🆎	ab gomb vércsoport vértípus
-👩‍🍼	anya anyu etetés gondozás kisbaba kisbabát etető nő mama újszülött
-🕛	00 12 12:00 dél egész óra éjfél tizenkét tizenkettő
-🍰	desszert édesség étel gyümölcstorta sütemény süti szelet torta tortaszelet
-🦩	flamingó színpompás trópusi
-😁	arc boldog fogak mosoly mosolygó szemmel nevető nevet szem szmájli teli szájjal
-⬛	alakzat geometria nagy fekete négyzet
-🪻	búzavirág csillagfürt jácint levendula tátika virág
-🖖	kéz spock star trek trek-üdvözlet test ujj vulcan
-🪍	befogás csapda gyűjtés háló
-⌚	idő karóra óra
-🐯	állat fej nagymacska ragadozó tigris tigrisfej
-🚧	közlekedés sorompó útépítés
-🔵	alakzat kék kör
-🌄	hajnal hegyek mögött felkelő nap napfelkelte napkelte reggel
-🚾	mellékhelyiség mosdó toalett vécé wc
-📮	doboz levél levelesláda postaláda
-🦽	akadálymentesség kerekesszék kézi hajtású tolókocsi tolószék
-🌁	időjárás köd ködös
-🫈	erdő jeti nagyláb óriás sasquatch vadember
-🦷	fehér fog fogak fogász fogorvos
-🪺	fészek tojásokkal fészekrakás tojások
-🐜	állat hangya kert rovar
-🔋	akkumulátor elem
-🟡	kör sárga
-🌑	ég éjszaka hold holdfázisok sötétség újhold űr
-😩	arc boldogtalan éhes fáradt kimerült megviselt síró sírós szmájli szomorú
-🛒	bevásárlás bevásárló bevásárlókocsi élelmiszer áruház kocsi közért shopping szupermarket vásárlás
-🆗	bekeretezett „ok” szó ok gomb rendben
-🪝	csapda fogás horog kampó
-🥞	étel palacsinta
-💳	bank bankkártya fizet hitelkártya kártya
-🦗	állat bogár ciripel rovar szöcske tücsök ugrik
-🫛	bab borsó borsóhüvely edamame hüvely hüvelyes zöldség
-🥧	almáspite desszert édesség étel gyümölcsös pite sütemény süti tészta töltelék töltött
-🧸	játék játékmackó játszótárs mackó medve plüss plüssmaci plüssmackó tömött
-🧛	drakula élőhalott fogak vámpír vér
-🟪	lila négyzet
-🐱	állat cica fej kedvenc kisállat macska macskafej
-🦺	biztonság láthatósági mellény mentő mentőmellény vészhelyzet
-🈴	„minimális pontszám” bekeretezett „megfelelt” képírásjel japán gomb
-🍏	alma egészség étel gyümölcs növény zöld
-🌠	csillag csillaghullás ég hullócsillag
-❌	áthúzásjel jel mégse szorzás x
-🐸	állat béka békafej fej
-🧀	ementáli étel lyukas sajt sajtdarab
-🪕	bendzsó húros zene
-🐩	állat háziállat kedvenc kisállat kutya pudli uszkár
-🦻	akadálymentesség fül hallókészülékkel hallássérült nagyothalló
-👩‍🦼	akadálymentesség kerekesszék mozgáskorlátozott nő motoros kerekesszékben tolószék
-🧙	boszorkány boszorkánymester bűbáj férfi mágia mágus mese varázsige varázslás varázslat varázsló
-👨‍🏫	férfi foglalkozás oktató professzor tanár
-💄	ajakrúzs kozmetikum randevú randi rúzs smink szépségápolás
-🚘	autó érkező jármű kocsi közlekedés vezet
-👨‍🏭	dolgozó férfi foglalkozás forraszt gyári munkás összeszerel szerel
-🏣	épület japán postahivatal posta
-🫐	áfonya bogyó bogyós gyümölcs étel fekete
-🦑	állat étel tintahal
-🐵	állat fej majom majomfej
-🧊	hideg jég jéghegy jégkocka
-🤿	búvár búvárkodás búvármaszk búvárszemüveg merülés szabadtüdős
-📼	kazetta szalag vhs videó videokazetta
-💟	dekoráció dísz fehér szív lila formájú
-🎥	felvétel felvevő film kamera mozi
-🧥	dzseki hideg kabát ruházat télikabát
-🐽	disznó disznóorr malac malacorr orr
-👭	barátnők barátok barátság gyerekek húg kézen fogva álló nők kislányok lányok legjobb nővér pár randevú randi szövetség testvérek
-🚝	egysínű vasút jármű közlekedés közlekedési eszköz személyszállítás vonat
-🩷	cuki rózsaszín szerelem szív tetszik
-🧑‍🎓	diák végzős
-🏡	családi ház épület kerttel hétvégi kert kertes lak nyaraló otthon vidéki
-😮‍💨	arc fáradt füst fütty kifúj kilégzés kimerült levegőt kifújó megkönnyebbülés sóhaj sóhajtás suttogás zihálás
-🔣	bevitel szimbólum szimbólumok bevitele
-🪚	ács asztalos fa fűrész rókafarkú szerszám vágás
-🧕	fejkendő hidzsáb kendő mantilla nő fejkendővel ruházat tichel
-🦂	állat állatöv csillagjegy skorpió
-➖	- − gondolatjel jel kivonás matematika mínusz vastag mínuszjel
-😮	arc nyitott szájjal csodálkozás csodálkozik elképed hihetetlen megdöbben meglepett meglepődik száj ó szmájli tátva marad a szája
-🪸	korall korallzátony óceán zátony
-🚊	hév jármű közlekedés közlekedési eszköz metró nagyvárosi személyszállítás villamos
-😟	aggodalmas aggódik aggódó arc ideges izgul stresszes szmájli szomorú
-📇	forgó kártya névjegykártya névjegykártyatartó rolodex tartó
-🌽	cső csöves kukorica étel kukoricacső növény
-📫	csukott levelesláda felemelt zászlóval levél postaláda
-🚄	gyorsvasút gyorsvonat jármű közlekedés személyszállítás vasút
-🧑‍🎨	festő művész paletta
-🪪	azonosító biztonság engedély hitelesítő adatok igazolvány személyi
-🫖	bögre ital kanna tea teáskanna
-🕘	00 9 9:00 egész óra kilenc
-🈵	„megtelt” bekeretezett „teli” képírásjel japán gomb
-🐔	állat madár tyúk
-👩‍🦽	akadálymentesség kerekesszék mozgáskorlátozott nő kézi hajtású kerekesszékben tolószék
-🛗	akadálymentesítés felvonó lift
-🍊	c-vitamin gyümölcs mandarin narancs nektarin növény
-🤒	arc lázmérővel beteg láza van lázas lázmérő szmájli
-🎾	labda sport tenisz teniszlabda
-🤡	bohóc bohócfej cirkusz fej
-💰	bank dollár drága fizet gazdag nyer pénz pénzeszsák zsák
-🛴	közlekedés roller
-🪷	buddhizmus hinduizmus india lótusz lótuszvirág tisztaság vietnam virág
-🦉	állat bagoly bölcs madár
-🐛	állat bogár hernyó kukac rovar százlábú
-📣	hangosbeszélő megafon szurkolás
-😱	arc félelem félelemtől sikoltó ijedt ijesztő munch rémület sikolt sikoly szmájli
-🥨	csavart perec étel
-📎	gemkapocs irodaszer papírkapocs
-🍩	desszert édesség étel fánk
-🐕	állat háziállat kisállat kutya
-🧑‍🧒‍🧒	család felnőtt gyerek
-🪮	afro fésű fogú haj hosszú
-🫗	ital kiönt ömlő folyadék pohár üres
-📳	mobil mobiltelefon rádiótelefon rezgés rezgő mód telefon tiltott
-💏	barát barátnő csók évforduló pár randevú randi romantika szerelem szív
-🔮	gömb jós jóslás jósnő jövendő jövendőmondás jövő kristálygömb mese
-🙆	beleegyezés mutatása kézjel ok oké rendben tornázik
-🏈	amerikai foci sport super bowl futball amerikaifoci-labda labda
-🥿	balenira balerina balerinacipő balettcipő belebújós cipő kényelmes lapos sarkú mamusz mokaszin papucs
-🦿	akadálymentesség mechanikus láb prosztetikus protézis
-💆	arc arcmasszázs fejfájás feszültség kozmetika masszázs masszíroz relaxáció relaxál szalon szépségszalon
-🫯	birkózás csetepaté dulakodás egyet nem értés verekedés vita
-🫰	csettint drága keresztezett mutató- és hüvelykujjú kéz pénz szeretet szív
-🥯	bagel kenyér pékáru pékség reggeli szendvics vajkrém zsemle
-🦜	állat beszél kalóz lóri madár papagáj
-👨‍🌾	farmer férfi foglalkozás földműves gazda kertész
-👖	farmer farmernadrág nadrág ruha ruházat vásárlás
-🦕	állat brachiosaurus brontosaurus dínó dinoszaurusz diplodocus kihalt őslény sauropoda
-🚯	szemét szemetelés szemetelni tilos tiltott
-🩱	egyrészes fürdőruha
-➕	+ jel matek matematika meg plusz pluszjel vastag
-😡	arc dühös duzzog duzzogó ideges mérges szmájli vörös
-🥋	cselgáncs dzsúdó egyenruha harcművészet judo karate karateruha ruha sport taekwondo
-🐣	állat csibe kikel kikelés kikelő kiscsibe kiscsirke madár naposcsibe tojás
-👑	fejdísz kiegészítő király királynő királyság korona középkori
-🏆	díj győzelem győzni győztes kupa sport trófea verseny
-🦔	állat sündisznó tüskés
-✋	állj fel felemelt kéz ne tovább pacsi stop tenyér test
-🔪	eszköz fegyver felszerelés főzés kés konyha konyhakés séf szakács
-🪔	diya lámpa olaj olajlámpa
-🐏	állat állatöv csillagjegy kos
-🟣	kör lila
-🥦	brokkoli étel vadkáposzta zöldség
-👜	kézitáska kiegészítő női táska vásárlás
-🍎	alma egészség érett étel gyümölcs növény piros
-🍜	étel evőpálcika forró gőzölgő tál gőzölög tészta
-🐓	állat kakas madár
-🪑	szék ül ülés
-🧠	agy intelligens okos
-📘	egyetem iskola kék könyv könyvtár oktatás olvas olvasás tanul tanulás
-🛬	érkezés közlekedés légi jármű leszállás repülőgép érkezése
-🍘	étel japán keksz rizs rizskeksz
-🦚	állat büszke hivalkodó madár páva pávakakas pávatyúk szép színes színpompás
-🎆	tűzijáték ünnep ünnepi hangulat ünneplés
-🫌	átalakulás átváltozás hernyó remény rovar törékeny változás vándorlás
-🤯	arc egyáltalán nem elképesztő felfoghatatlan felrobban felrobbanó fej megdöbbent semmiképpen sokkolt szmájli
-🟩	négyzet zöld
-🈲	„tiltott” bekeretezett „tiltás” képírásjel japán gomb tilos
-😈	arc fantasy gonosz mese mosoly mosolygó szarvakkal ördög rosszindulatú szarvak
-💗	idegesség izgalom növekvő szív szívdobogás
-🔼	felfelé gomb nyíl piros
-🎈	léggömb lufi születésnap ünnepel ünnep ünnepi hangulat ünneplés
-🦀	állatöv csillagjegy rák
-🩸	gyógyszer menstruáció seb sebesülés sérülés véradás vércsepp vérvétel vérzés
-📄	dokumentum felfelé néző oldal lap
-🐋	állat bálna óceán tengerpart
-🍌	banán gyümölcs kálium
-🤕	arc bekötött fejjel beütötte a fejét fáj fej kötés sérülés szmájli
-👡	cipő kiegészítő női szandál nők ruha ruházat
-🏤	épület európai posta postahivatal
-🏓	asztalitenisz labda pingpong sport ütő
-🧁	cukor cupcake desszert édesség finomság pékáru pékség
-🌲	fa fenyő fenyőfa karácsonyfa növény örökzöld
-🎂	desszert édesség étel sütemény süti születésnap születésnapi torta szülinap
-💋	ajkak csók csóknyom romantika rúzs rúzsfolt rúzsnyom szenvedély
-🤔	arc elgondolkodó gondolkodó gondolkozik megfontol szmájli tűnődő
-⛳	golf lyuk sport zászló a lyuknál
-🧫	baktérium biológia biológus labor laboratórium petri-csésze tenyészet tenyésztés
-🥠	desszert édesség étel jóslás jóslat szerencsesüti
-👐	kéz kitárva széttárt test
-😃	arc boldog fogak mosoly nagyra nyílt szemmel mosolygó nevet nevetés nyitott száj szájjal szmájli vidámság
-👅	kinyújtja a nyelvét nyal nyelv test testrész
-🤨	arc felvont szemöldökkel bizalmatlan felhúzott szemöldökű gyanakvó helytelenít hitetlen hitetlenkedő hmm kételkedő kétkedő meglepett mit nem bízik hiszi el szkeptikus szmájli tessék
-🎌	japán keresztbe tett zászlók ünnep ünnepi hangulat ünneplés
-💫	csillag csillagokat lát fényes hullócsillag képregény szédülés
-🤹	egyensúly egyszerre kézügyesség multitask ügyes zsonglőr zsonglőrködik
-📠	fax faxkészülék
-🚪	ajtó
-🥹	büszke dühös ellenáll könnyeivel küszködő arc örömteli sír szomorú
-🌖	domború ég éjszaka fogyó hold holdfázisok homorú
-🙏	ima imádkozik kér kérés kérlek kéz könyörög köszi köszönet köszönöm összetett
-🧑‍🎤	előadóművész énekes rock színés sztár
-🪥	fogak fogászat fogkefe fogmosás fürdőszoba higiénia kefe tisztítás
-🏄	hullám sport szörf szörfös szörfözik szörföző vízi
-👩‍🔬	fizikus foglalkozás kémikus matematikus nő női tudós
-🤺	kard sport sportoló vív vívás vívó
-🎠	játék körhinta ló a körhintáról szórakozás vidámpark
-🈳	„megüresedés” bekeretezett „üres” képírásjel japán gomb
-🔥	ég felgyullad forró gyúlékony gyullad láng meleg perzsel tűz
-🪿	bolondos gágog liba madár szárnyas
-🍨	desszert édesség étel fagyi fagylalt fagylaltkehely
-🕓	00 4 4:00 egész óra idő négy
-🔯	csillag hatágú ponttal judaizmus szerencse vallás zsidó
-📉	adat csökkenés csökkenő diagram esik gráf lefelé negatív trend
-🐀	állat patkány
-👟	atlétika cipő edzőcipő futás futócipő ruha ruházat sportcipő tornacipő
-📯	kürt posta postai postakürt
-😅	arc hideg verejték ideges izgatott megúsztam mosoly nevető verejtékkel nyitott száj szájjal mosolygó stressz szmájli
-🦛	állat víziló
-🌛	arc ég éjszaka első negyed negyedben lévő hold arccal holdfázisok
-👔	elegancia hivatalos ing nyakkendővel komoly nyakkendő ruházat
-🧡	narancssárga szív
-❔	fehér írásjel kérdés kérdőjel központozás
-🐺	állat farkas farkasfej fej
-🪹	fészek fészekrakás üres
-🤴	herceg király királyi koronás
-🌘	ég fogyó kifli alakú hold sarló holdfázisok
-🩺	gyógyszer orvos szív szívhang sztetoszkóp
-🍣	étel japán szusi
-🍢	étel grillezés japán kebab nyárs oden saslik
-🦐	étel garnélarák kicsi rák tengeri
-🫺	az ez fogás jobb mutat semleges
-🍮	desszert édesség étel puding
-🥐	croissant étel francia kifli péksütemény péksüti reggeli
-🔖	könyvjelző
-🥟	batyu étel gombóc gyoza japán jiaozi kínai pierogi tészta töltött
-🎭	előadás előadóművészetek játék kikapcsolódás maszkok művészet színész színház szórakozás
-🈚	“díjmentes” „ingyenes” bekeretezett képírásjel japán gomb
-🚋	jármű kocsi közlekedés villamos villamoskocsi
-🚦	függőleges közlekedési lámpa kereszteződés
-😒	arc boldogtalan mérges szmájli szomorú unatkozik unott
-🔹	alakzat geometria kék kis rombusz
-🪴	cserepes növény virág gondozás hasztalan szoba szobanövény unalmas
-🧰	barkácsolás doboz láda piros szerelő szerszám szerszámok szerszámos szerszámosláda
-🦃	állat hálaadás madár mérges pulyka szárnyas
-🍄	gomba növény
-🟤	barna kör
-🫱	jobb jobbra néző kéz
-🧟	csontváz élőhalott élőholt félelmetes horror ijesztő sétáló halott zombi
-👨‍🎤	előadó énekes férfi foglalkozás művész rock színész sztár
-🫩	álmos arc elnyűtt fáradt késő kifáradt kimerült szemek táskás unatkozik
-🤗	arc kezek ölelés szmájli
-⏩	dupla nyíl előre előretekerés gomb gyors tekerés
-🕜	1 1:30 30 egy fél kettő harminc idő óra
-📈	adat diagram emelkedés emelkedő felfelé gráf növekedés növekvő trend
-🦆	állat kacsa madár
-🤼	birkózás birkózó birkózók harc sport sportoló
-🎶	hangjegy hangjegyek zene
-🦁	állat állatöv csillagjegy fej oroszlán oroszlánfej
-🤏	csippentő kéz kicsi kicsit kis összeg ujjak
-🪄	boszi boszorkány mágus pálca varázslat varázsló varázspálca
-🆖	bekeretezett „ng” rövidítés gomb ng
-😙	arc csók csókoló mosolygó szemmel puszi szem szmájli
-🙍	csüggedt homlokát ráncolja mérges rosszallás rosszalló ember tekintet rosszkedvű szemöldökét szomorú
-🚂	gőz gőzmozdony jármű játékmozdony játékvasút közlekedés mozdony utazás vasút vonat
-👰	ember fátyollal esküvő fátyol lakodalom menyasszony
-🚭	cigaretta dohányozni tilos dohányzás tiltott
-😨	aggódik arc félelem félelemmel teli ijedt rémült szmájli
-🎼	g-kulcs hangjegy kotta violinkulcs zene zenei
-🤦	arc elkeseredés kéz kézbe temetett nem hiszem el
-📞	kagyló telefon telefonkagyló
-🚎	busz jármű közlekedés troli trolibusz
-🔢	1234 bevitel számbevitel számok
-🪣	felmosó felmosóvödör vödör
-😾	állat arc cica duzzogás duzzogó macskaarc macska mérges szmájli
-🥢	evés evőpálcika evőpálcikák hashi pálcika
-🏑	bot gyeplabda hoki játék labda sport ütő
-🎢	hullámnvasút hullámvasút játék vidámpark
-🐭	állat egér egérfej fej
-😧	arc elgyötört elkínzott fél ijedt rémült riadt szmájli
-🐷	állat disznó disznófej fej malac malacfej
-🫣	bámul ijedt kémlelő szemű arc kukucskál megbabonázott pillant riadt szégyenlős
-🍈	étel gyümölcs növény sárgadinnye
-🤛	bal szélső balra néző ököl kéz
-🙋	boldog én tudom felemeli a kezét integet intés jelentkezik kézmozdulat vidám vidáman intő ember
-🚲	bicikli biciklis biciklizik jármű kerékpár kerékpáros kerékpározik közlekedés spinning sport teker tekerés
-🍑	barack étel gyümölcs növény őszibarack
-🌍	afrika európa európát és afrikát mutató földgömb föld világ
-👬	barátok barátság báty férfiak fiúk ikrek kézen fogva álló öcs pár randevú randi testvérek
-🐗	állat disznó vaddisznó
-🤎	barna szív
-🚃	elektromos kocsi közlekedés vasút vasúti villamos vonat
-🎤	hangjegyek karaoke mikrofon zene
-👿	arc démon fantasy gonosz mérges szarvakkal mese ördög rossz szarvak szmájli
-📡	antenna műhold parabola parabolaantenna tányér
-🫨	arc földrengés meglepődés rázkódó rezeg
-🤜	jobb szélső jobbra néző ököl kéz
-🌰	étel gesztenye mogyoró növény
-🐨	állat fej koala koalamaci maci medve
-📚	iskola könyv könyvek könyvtár oktatás olvas olvasás regény tanul tanulás tanulmányok tudás
-🌿	gyógynövény levél növény
-♍	horoszkóp szűz csillagjegy
-📂	dosszié fájl mappa nyitott fájlmappa
-🔠	abcd betűk bevitel latin nagybetűs
-🔗	kapocs láncszem
-🔱	embléma hajó háromágú szigony horgony jel vasmacska
-🥒	étel kígyóuborka kovászosuborka uborka zöldség
-⏪	dupla nyíl gyors tekerés vissza visszatekerés gomb
-🥁	dob dobol dobverő hangszer zene
-📅	dátum naptár
-👨‍🦼	akadálymentesség férfi motoros kerekesszékben kerekesszék mozgáskorlátozott tolószék
-🍚	étel főtt rizs főzött
-🐆	állat leopárd nagymacska párduc ragadozó
-☔	csepp ernyő esernyő esőcseppekkel eső időjárás kiegészítő
-🍼	baba cumi cumisüveg ital tej újszülött
-🎳	bowling golyó játék sport
-🪭	félénk forróság hűtés legyez legyező összecsukható kézi tánc
-🍉	dinnye étel görögdinnye gyümölcs növény
-🎄	fa fenyő fenyőfa karácsony karácsonyfa ünnep ünnepi hangulat ünneplés
-🔲	fekete négyzet alakú gomb
-🧑‍🌾	földműves gazda / női növénytermesztő
-🚩	építkezés golf háromszög alakú zászló piros posta zászlórúd
-🦓	állat csíkos zebra
-🍗	baromfi comb csirke csirkecomb csontos étel hús kacsacomb libacomb
-🥮	fesztivál holdsütemény ősz őszközép yuèbǐng
-🏪	bolt éjjel-nappali épület kisbolt non-stop
-🍓	eper étel gyümölcs növény szamóca
-🤚	felemelt kéz kézfej
-📩	boríték nyíllal e-mail elküldött kimenő levél nyíl posta
-📓	füzet jegyzetek jegyzetfüzet
-👥	ember emberek két sziluettje melltől felfelé mellszobor sziluett
-📊	ábra adat diagram grafikon oszlop oszlopdiagram sáv
-🗽	new york szabadság szabadság-szobor szobor
-🕒	00 3 3:00 egész óra három idő
-🪋	csillag gravitáció kőzet tűzgömb világűr világvége zuhanás
-👓	kiegészítő szem szemüveg viselet
-🚰	fogyasztható víz iható ivóvíz
-🎽	atlétika futás futómez mez trikó
-😴	álmos alszik alvás alvó arc fáradt jó éjszakát éjt lefekvés ideje szmájli szundi zzz
-🎦	film kamera mozi
-🥏	frizbi korong repül ultimate
-🦡	állat borz méhészborz
-🎨	festészet festő festőpaletta galéria hobbi kreatív művészet múzeum paletta színes
-🍖	csont csontos hús étel
-🔍	balra mutató nagyító keresés lencse nyomozó
-🌹	növény romantika rózsa szenvedély szerelem szerelmes virág vörös
-👩‍🚀	asztronauta foglalkozás nő rakéta űr űrhajós űrhajósnő
-🐚	kagyló spirális tengeri csiga tengerpart
-🎰	félkarú rabló játékgép nyerőgép pénzbedobós szerencsejáték szerencsejátékot űz
-🕺	férfi flamenco salsa tánc táncol táncoló táncos tangó
-🔡	abcd betűk bevitel kisbetűs latin
-👩‍🦯	akadálymentesség nő fehér bottal vak
-🕍	judaizmus szentély templom vallás zsidó zsinagóga
-🛁	fürdés fürdőkád
-💘	ámor nyila cupido nyíl nyíllal átlőtt szív romantika szerelem
-🥍	bot gól kapu labda labdajáték lacrosse sport ütő
-🧑‍🔧	szaki szerelő / szerelőnő villanyszerelő vízvezeték-szerelő
-😍	arc mosoly mosolygó szív alakú szemmel szem szerelem szerelmes szívek szmájli
-🆑	bekeretezett „cl” rövidítés cl gomb
-🧃	édes gyümölcslé gyümölcsleves doboz italos ivólé juice szívószál
-👒	kalap női nők ruha ruházat
-♌	horoszkóp oroszlán csillagjegy
-🌞	arc égitest hőség időjárás nap arccal napfény napos strand
-🍆	étel növény padlizsán zöldség
-😊	boldog elégdett elpirul elvörösödik mosoly mosolygó arc szemmel örül szmájli vidám szemek
-🫸	elutasít jobbra toló kéz pacsi stop tol vár
-💲	dollár fizet pénz pénznem vastag dollárjel
-🦍	állat gorilla
-🌈	aszexuális biszexuális büszke büszkeség eső homoszexuális időjárás interszexuális kérdéses kíváncsi leszbikus lgbt lmbt meleg omniszexuális pánszexuális szivárvány természet transznemű transzszexuális
-🙂	arc boldog finoman mosolygó mosoly szmájli
-🧭	irány iránytű mágneses navigáció tájékozódás
-👞	cipő férfi ruha ruházat vásárlás
-🩳	alsó fürdőgatya fürdőnadrág gatya rövidnadrág
-🧑‍🚀	rakéta űrhajós / űrhajósnő
-🕚	00 11 11:00 egész óra tizenegy
-😵	arc beteg fáradt szédülés szédülő szmájli
-📿	gyöngyök ima imafüzér nyaklánc rózsafüzér vallás
-🤓	arc gépmániás kocka kockaarc
-🪀	játék jojó jojózik
-🏫	épület iskola
-🍹	alkohol bár ital koktél trópusi
-🕝	2 2:30 30 fél három harminc idő kettő óra
-🕠	30 5 5:30 fél hat harminc idő óra öt
-📟	személyhívó
+🧑‍🧑‍🧒‍🧒	család csalad felnőtt felnott gyerek
+🍾	bár bar dugó dugo ital kiugrik kupak pezsgő pezsgo pezsgőt pezsgot pukkaszt születésnap szuletesnap ünneplés unneples üveg uveg kiugró kiugro dugóval dugoval
+🉑	„elfogadás” „elfogadható” bekarikázott bekarikazott képírásjel kepirasjel japán japan gomb
+👩‍🔧	foglalkozás foglalkozas nő no szerelő szerelo szerelőnő szerelono villanyszerelő villanyszerelo vízszerelő vizszerelo
+📱	kommunikáció kommunikacio mobil mobiltelefon rádiótelefon radiotelefon telefon
+👩‍💼	alkalmazott foglalkozás foglalkozas irodai női noi irodista
+👽	földönkívüli foldonkivuli idegen marslakó marslako ufó ufo űrlény urleny
+🍍	ananász ananasz étel etel gyümölcs gyumolcs növény noveny
+😊	boldog elégdett elegdett elpirul elvörösödik elvorosodik mosoly mosolygó mosolygo arc szemmel örül orul szmájli szmajli vidám vidam szemek
+🛸	földönkívüli foldonkivuli idegenek marslakó marslako repülő repulo csészealj cseszealj ufo ufó
+♿	akadálymentesség akadalymentesseg kerekesszék kerekesszek mozgássérült mozgasserult rokkant
+🪆	baba bábuska babuska egymásba egymasba rakható rakhato matrjoska orosz
+👈	kéz kez balra mutató mutato ujjal kézfej kezfej mutat mutatóujj mutatoujj tenyér tenyer test ujj
+🐤	állat allat csibe kiscsibe madár madar naposcsibe
+🍬	bonbon cukorka desszert édesség edesseg
+👨‍🍳	férfi ferfi foglalkozás foglalkozas séf sef szakács szakacs
+😣	állhatatos allhatatos arc állhatatosság allhatatossag fáj faj a feje fejfájás fejfajas koncentrál koncentral szmájli szmajli
+🫯	birkózás birkozas csetepaté csetepate dulakodás dulakodas egyet nem értés ertes verekedés verekedes vita
+🥂	ivás ivas koccint koccintás koccintas koccintó koccinto poharak pohár pohar ünneplés unneples
+🤜	jobb szélső szelso jobbra néző nezo ököl okol kéz kez
+🎽	atlétika atletika futás futas futómez futomez mez trikó triko
+🎎	baba figura japán japan babák babak ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+📺	televízió televizio tévé teve tévékészülék tevekeszulek tv
+🌜	arc ég eg éjszaka ejszaka hold holdfázisok holdfazisok utolsó utolso negyed negyedben lévő levo arccal
+👀	arc les néz nez szem szemek test testrész testresz
+🫖	bögre bogre ital kanna tea teáskanna teaskanna
+🦚	állat allat büszke buszke hivalkodó hivalkodo madár madar páva pava pávakakas pavakakas pávatyúk pavatyuk szép szep színes szines színpompás szinpompas
+🫧	böfi bofi buborékok buborekok szappan szappanbuborékok szappanbuborekok tiszta víz viz alatti
+📑	fülek fulek jelzés jelzes könyvjelző konyvjelzo könyvjelzők konyvjelzok
+👡	cipő cipo kiegészítő kiegeszito női noi szandál szandal nők nok ruha ruházat ruhazat
+💺	szék szek ülés ules
+🍝	étel etel makaróni makaroni milánói milanoi olasz spagetti tészta teszta
+🚿	víz viz vízsugár vizsugar zuhany zuhanyzik zuhanyzó zuhanyzo
+🦜	állat allat beszél beszel kalóz kaloz lóri lori madár madar papagáj papagaj
+🪯	khanda szikh vallás vallas
+🏣	épület epulet japán japan postahivatal posta
+🏭	épület epulet gyár gyar
+🤍	fehér feher szív sziv
+🥢	evés eves evőpálcika evopalcika evőpálcikák evopalcikak hashi pálcika palcika
+🏥	doktor épület epulet gyógyítás gyogyitas kórház korhaz orvos
+🙈	állat allat bújócska bujocska elbújik elbujik elfelejt ijedt majom nem figyelek lát lat semmit láttam lattam tilos zavarban van
+🐱	állat allat cica fej kedvenc kisállat kisallat macska macskafej
+🪁	papírsárkány papirsarkany repül repul sárkányrepülő sarkanyrepulo szárnyal szarnyal
+🤖	arc robot robotarc szörny szorny
+🫄	has puffadt teli terhes személy szemely
+🔑	jelszó jelszo kulcs
+🤡	bohóc bohoc bohócfej bohocfej cirkusz fej
+🫍	bálna balna óceán ocean tengeri állat allat
+🐹	állat allat fej hörcsög horcsog hörcsögfej horcsogfej kedvenc kisállat kisallat
+🥟	batyu étel etel gombóc gomboc gyoza japán japan jiaozi kínai kinai pierogi tészta teszta töltött toltott
+🔪	eszköz eszkoz fegyver felszerelés felszereles főzés fozes kés kes konyha konyhakés konyhakes séf sef szakács szakacs
+👙	bikini fürdő furdo fürdőruha furdoruha medence ruha ruházat ruhazat úszás uszas
+🚸	átkelő atkelo gyermekek gyalogos-átkelőhely gyalogosok iskola közlekedési kozlekedesi tábla tabla kresz-tábla
+◾	alakzat fekete geometria kis-közepes négyzet negyzet
+🫎	agancs állat allat emlős emlos jávorszarvas javorszarvas
+🫳	elejt hess lefelé lefele néző nezo kéz kez mellőz melloz
 🎵	dallam hang hangjegy zene
-👙	bikini fürdő fürdőruha medence ruha ruházat úszás
-🩲	alsó alsónadrág egyrészes fürdőgatya fürdőnadrág
-🤑	arc dollárjelekkel dollár fizetett pénz száj szmájli
-🚛	autó billenős teherautó fuvar fuvaroz jármű kamion költözik költöztetés közlekedés szállít szállítás teherfuvarozás vezet
-🥘	étel paella serpenyő serpenyős
-😘	arc csók csókot dobó flörtöl puszi szeret szeretlek szív szmájli
-🛺	motoros riksa tuk
-👱	ember férfi szőke hajú
-🛂	ellenőrzés utazás útlevél útlevél-ellenőrzés
-🪓	balta fa favágás fejsze szekerce vágás
-🫝	csemegeuborka erjesztés ízesítő savanyúság sós lé ubi uborka
-🔞	18 év alatt tilos 18-as karika kiskorú korhatár szám tiltás tiltott tizennyolc
-🤝	alku alkut köt kéz kezet ráz kézfogás megállapodás megegyezés találkozás üdvözlés
-📒	főkönyv füzet jegyzetfüzet könyv notesz spirálos
-🚥	kereszteződés közlekedési lámpa vízszintes
-🔊	hangos hangszóró nagy hangerő zene
-🐴	állat farm fej ló lófej
-😕	arc bizonytalan nem tudom sajnálom szmájli szomorú zavart
-🫑	kaliforniai paprika pritamin pritaminpaprika zöldség
-🫄	has puffadt teli terhes személy
-🪐	bolygó gyűrűs szaturnusz
-🏅	aranyérem érem győztes medál sportérem
-🏯	épület japán kastély
-🌊	hullám a vízen időjárás óceán tenger víz vízhullám
-💿	blu-ray cd dvd lemez optikai számítógép
-🪦	fejfa halál rip sír sírkő temető
-⚾	baseball baseball-labda labda sport
-👈	kéz balra mutató ujjal kézfej mutat mutatóujj tenyér test ujj
-🦒	állat foltos zsiráf
-🌗	ég éjszaka hold holdfázisok utolsó negyed negyedben lévő
-🚸	átkelő gyermekek gyalogos-átkelőhely gyalogosok iskola közlekedési tábla kresz-tábla
-🤳	fényképező kamera szelfi telefon
-🏀	kosár kosárlabda labda sport
-🚏	busz buszmegálló megálló
-🥷	ember harcos nindzsa ninja rejtett rejtőzködés
-⚽	foci focilabda futball labda labdarúgás sport
-🚖	érkező jármű közlekedés személyszállítás taxi
-👂	fej fül hall hallás hallgat test testrész
-👝	kézitáska kiegészítő pénztárca retikül táska
-📵	mobil mobiltelefon használata tilos telefon tiltott
-🐳	állat bálna fej fröcskölés fröcskölő
-😯	arc döbbent elképedt meglepett meglepődött szmájli tátott száj tátva maradt a szája
-🍫	csoki csokoládé desszert édesség tábla táblás
-🌋	katasztrófa kitörés természet tűzhányó vulkán vulkánkitörés
-🧝	fantasy kobold mágikus manó mese tünde varázslat varázslatos
-💛	sárga szív
-👨‍💻	fejlesztő feltaláló férfi foglalkozás kódoló programozó számítógép szoftver
-🐃	állat bölény víz vízibölény
-🧆	csicseriborsó falafel húsgolyó
-💎	drágakő ékkő ékszer eljegyzés érték értékes esküvő gyémánt romantika
-🧑‍🚒	tűzoltó / tűzoltónő tűzoltóautó
-📷	fényképezőgép fotó kamera utazás
-⛪	épület kereszt keresztény templom vallás
-🚵	bicikli biciklis biciklista hegy hegyikerékpáros kerékpár mountain bike sport sportoló
-🐟	állat állatöv csillagjegy étel hal halak halászat halászik horoszkóp
-🤥	arc hazudik hazudó fej hazudós hazug hosszú orr pinokkió szmájli
-😛	arc kinyújtott nyelvvel csipkelődik csúfolódik fantasztikus huncutkodik kiöltött nyelv király szmájli
-🦵	behajlított láb comb lábfej lábszár rúg rúgás térd végtag
-🪒	borotva borotvál borotválkozik éles leborotvál megborotválkozik
-💈	borbély cégér fodrász fodrászcégér hajvágás
-📹	kamera videó videók videokamera
-🛵	jármű közlekedés motor robogó vespa
-💸	bank bankjegy bankó dollár fizet készpénz kifizet papírpénz pénz szárnyakkal repülés szárnyak
-🔦	elektronikus elemlámpa fény világítás zseblámpa
-🧑‍🧑‍🧒‍🧒	család felnőtt gyerek
-🚳	bicikli kerékpár kerékpározni tilos tiltott
-🪵	fa faanyag farönk rönk
-😂	arc örömkönnyekkel haha könnyek nevetés öröm röhög sírva nevet nevetős szmájli vicces
-🐦	állat madár
-🔩	anya csavar és szerel szerszám
-🤠	arc boldog cowboy kalapos fej cowboykalapos kalap nevet szmájli
-🔉	hang hangerő hangszóró közepes
-💇	fodrász fodrászat haj hajnyírás hajvágás nő fodrásznál szépségápolás
-🧓	idős idősebb felnőtt nemi szempontból semleges öreg
-👼	angyal arc baba babaangyal mese
-🪠	dugulás kaki pumpa vécé vécépumpa vízvezeték-szerelő wc wc-pumpa
-👨‍💼	alkalmazott férfi irodista foglalkozás irodai
-🔃	frissítés gomb nyíl óramutató járásával megegyező irányú függőleges nyilak újratöltés
-🦦	halászó játékos vidra
-🗻	fudzsi fudzsi-hegy hegy
-🐖	állat disznó koca kövér malac
-🧲	mágnes mágneses negatív patkó patkómágnes pozitív vonz vonzás vonzódás
-🚻	mosdó toalett vécé wc
-💤	álmos alszik alvás éjszaka fáradt jó éjszakát képregény zzz
-🔌	dugó elektromos elektronika hálózati csatlakozó villamosság
-🏺	amfora antik váza edény vízöntő
-📻	rádió rádiókészülék
-🧑‍🦯	akadálymentesség ember fehér bottal vak
-🪗	hangszer harmonika tangóharmonika zene
-🍱	bento doboz étel ételdoboz japán
-🔘	gomb rádiógomb választó választógomb
-🕙	00 10 10:00 egész óra idő tíz
-👻	arc fél félelmetes ijesztő kísértet lény mese szellem szörny
-🧉	ital maté
-🫀	anatómia kardiológia középpont piros pulzus szerv szív szívdobogás szívverés
-🦭	állat fóka oroszlánfóka tenger
-👨‍🔬	biológus férfi fizikus foglalkozás kémikus matematikus tudós
-🐫	állat kétpúpú teve púp púposteve sivatag
-♉	bika csillagjegy horoszkóp
-👨‍🍳	férfi foglalkozás séf szakács
-🚢	hajó közlekedés óceánjáró utasszállítás utazás vízi jármű
-🥽	búvár búvárszemüveg hegeszt hegesztés hegesztőszemüveg merülés szemüveg szemvédelem szemvédő úszás védőszemüveg
-🚟	függő függővasút jármű közlekedés vasút
-🔶	alakzat geometria nagy narancssárga rombusz narancs
-🪡	cérna hímzés öltés szabászat tű varrás varrat varrótű
-⛺	kempingezés sátor szállás
-🙁	arc kissé komor rosszallás szmájli szomorú
-👾	fantasy földönkívüli idegen játék pixel pixeles szörny szörnyecske ufó űrlény
-💷	bank bankjegy bankó font gazdag készpénz papírpénz pénz pénznem valuta
-🏉	labda rögbi rögbilabda sport
-❓	írásjel kérdés kérdőjel központozás piros
-👩‍🎨	festő festőnő foglalkozás művész nő női paletta
-🐇	állat háziállat kedvenc kisállat nyúl nyuszi
-🌾	gabona gabonaféle növény rizs
-🛷	szán szánkó szánkózás szánkózik tobogán lesiklás hó sport
-🌀	ciklon hurrikán időjárás tájfun
-🦴	csont csontok csontváz kutya
-👨	barát báty férfi férj fiú haver öcs társ testvér
-💥	bumm csattanás képregény robbanás ütközés
-🗿	arc japán kő kőarc moai szobor
-⛵	hajó jacht közlekedés tenger vitorlás vitorlázik vízi jármű
-🫵	felhasználóra mutató ujj mutat te
-🏰	épület európai kastély vár
-🐞	állat bogár katica katicabogár rovar
-🚆	jármű közlekedés vasút vonat
-🐕‍🦺	akadálymentesség kutya segítő segítőkutya segítség
-🐮	állat fej tehén tehénfej tej
-🏮	bár étterem fény japán lámpa lámpás piros papírlámpa
-😥	aggódik arc boldogtalan csalódott de megkönnyebbült huhh izzadság szmájli szomorú
-🧤	kesztyű kék kéz
-🐰	állat fej kedvenc kisállat nyúl nyúlfej nyuszi
-🏨	épület hotel
-🍕	étel pepperoni pizza sajtos szelet
-📗	iskola könyv könyvtár kötet oktatás olvas olvasás regény tanul tanulás zöld
-🎇	csillagszóró tűzijáték ünnep ünnepi hangulat ünneplés
-🪳	állat csótány kártevő rovar svábbogár undi undorító
-⚡	magasfeszültség nagyfeszültség veszély vihar villám villámlás
-⏬	gomb gyors lefelé nyíl piros
-🍻	alkohol bár ital koccintás korsó összekoccanó söröskorsók sör söröskorsó
-🚺	mosdó női nők toalett vécé wc
-👚	blúz ing női ruha nők ruházat
-🧳	bőrönd csomag csomagolás gurulós poggyász utazás
-♐	horoszkóp nyilas csillagjegy
-🚤	csónak hajó kishajó közlekedés motorcsónak motoros siklócsónak vízi jármű
-📝	ceruza feljegyzés jegyzet lap üzenet
-🪨	kemény kő kőszikla nehéz szikla
-🍅	étel növény paradicsom zöldség
-📁	fájl fájlmappa mappa
-🎁	ajándék becsomagolt doboz karácsony meglepetés születésnap ünnep ünnepi hangulat ünneplés
-🧑	felnőtt
-🚒	jármű közlekedés tűz tűzoltó tűzoltóautó tűzoltóság
-👷	építkezés építőmunkás férfi foglalkozás munkás sisak védősisak
-🔤	abc betűk bevitel gomb latin bevitele
-🚞	hegyi vasút jármű kocsi közlekedés
-🌐	délkörök föld földgömb délkörökkel földrajz internet világ
-😸	állat arc cica macska mosoly mosolygó nevetés nevető szemmel macskaarc szem
-🫡	derűs igen katonák oké tisztelgés tisztelgő arc
-🟰	egyenlőség egyenlőségjel matematika vastag
-🚬	cigaretta cigi dohányzás
-🆒	bekeretezett „cool” szó cool gomb laza
-🍺	alkohol bár ital korsó sör söröskorsó
-🪏	ás ásó elás hó kert lapát lyuk ültet
-🐂	állat állatöv bika csillagjegy ökör
-🤙	„hívj fel” kézjel hívás kéz
-♓	halak csillagjegy horoszkóp
-👵	anyóka idős hölgy nő nagyi nagymama néni öreg
-🐧	állat madár pingvin
-❎	áthúzásjel gomb bekeretezett jel négyzet szoroz szorzás x
-🟫	barna négyzet
-🥩	bárányszelet étel hús húsdarab hússzelet nyers sertésszelet steak szelet
-🦾	akadálymentesség mechanikus kar prosztetikus protézis
-🎣	bot hal hobbi horgászbot horgászik horogra akadt pecabot pecázik sport szabadidő
-😌	arc béke békés megkönnyebbült nyugodt szmájli
-🫷	balra toló kéz elutasít pacsi stop tol vár
-🐝	állat darázs dongó háziméh méh méhecske rovar tavasz természet
-🌻	nap napraforgó növény virág
-✨	csillag csillog szikra szikrák varázslat
-🚽	mosdó toalett vécé wc
-🥑	avokádó étel gyümölcs
-👛	kiegészítő női pénztárca pénz vásárlás
-🌮	étel mexikói taco
-📋	írótábla jegyzetek
-🦊	állat fej róka rókafej
-⚫	alakzat fekete kör geometriai
-♒	horoszkóp vízöntő csillagjegy
-🐈‍⬛	állat balszerencse fekete halloween macska nyávog
-🩵	cián pávakék szív világoskék
-📤	doboz e-mail elküldött email kimenő levél posta tálca
-🐐	állat állatöv bak bakkecske csillagjegy kecske sajt
-🧂	dühös fűszer íz só sós sószóró
-🎯	bullseye cél céltábla darts játék szórakozás találat telitalálat
-🐻	állat fej maci medve medvefej
-🔨	javít kalapács szerel szerszám
-🚣	csónak evez evezés evező ember hajó kenu tutaj vízi jármű
-👕	alkalmi gallér galléros póló ing kék ruha ruházat
-🐼	állat fej maci panda pandafej pandamaci
-👃	fej orr szag szaglás szagol test testrész
-📭	leengedett levél levelesláda nyitott zászlóval posta postaláda postás
-🚁	helikopter jármű közlekedés légi utazás
-🛻	autó furgon kisteherautó kocsi pick-up pickup szállítás
-🕤	30 9 9:30 fél tíz harminc idő kilenc óra
-🫅	király koronás személy méltóság nemes uralkodó uralkodói
-🧑‍🦽	akadálymentesség kerekesszék kerekesszékes ember
-🌱	hajtás kihajt növény palánta
-😪	álmos arc ásít fáradt sír szmájli szomorú
-🧒	fiatal gyerek gyermek kisgyerek kölyök
-🦤	állat dodó kihalt madár mauritius nagy
-👢	csizma kiegészítő lábbeli női nők ruha ruházat
-📬	felemelt levél levelesláda nyitott zászlóval postaláda postás
-🚼	baba szimbólum kisbaba pelenkázó
-🚑	jármű közlekedés mentő mentőautó
-😞	arc boldogtalan borzasztó csalódott lehangolt levert megbukik nem sikerül okol szmájli szomorú veszít
-🍸	alkohol bár ital koktél koktélos pohár
-🥵	arc forró forróság haldoklik hőguta hőség izzad izzadás izzadó lázas liheg megsül nyelv piros vörös arcú
-🫔	étel felcsavart mexikói tamale
-👹	arc fantasy félelmetes ijesztő japán lény maszk mese ogre ördög óriás szörny
-😬	arc fogorvos grimasz grimaszoló kellemetlen kínos mosoly mosolyog szmájli
-🤶	anyó karácsony mikulás felesége ruhás ünnep
-🎓	diplomaosztó diplomaosztón használt kalap diplomázás diplomázik egyetem oktatás ruha ruházat ünneplés
-👩‍🎓	diák diplomaosztó diplomázik egyetemista nő női tanuló
-🛖	ház jurta kunyhó lak otthon
-🎬	csapó film filmfelvétel filmforgatás forgatás mozi
-🤘	kéz metál metálvilla ördögvilla rock & roll szarvak ujj
-🕣	30 8 8:30 fél kilenc harminc idő nyolc óra
-🤫	arc csend csitító csitt csönd csöndesen csöndre int elhallgattat halkan maradj csendben pszt szmájli
-🔭	csillagászat eszköz felszerelés távcső
-🌸	cseresznye cseresznyevirág növény virág
-🥻	indiai ruha ruházat szári
-🎷	hangszer szaxi szaxofon zene
-😺	állat arc cica macska mosoly mosolygó macskaarc nyitott szájjal nevető száj
-😫	arc fáradt fáradtság szmájli szomorú tüsszent
-😀	arc boldog fogak nevetés nevető szmájli vidám
-💭	álmodozik álom buborék felhő gondol gondolat gondolatbuborék gondolkozik képregény ötlet
-🦼	akadálymentesség kerekesszék motoros
-👩‍💼	alkalmazott foglalkozás irodai női irodista
-♿	akadálymentesség kerekesszék mozgássérült rokkant
-🥄	eszik evés evőeszköz kanál
-🧽	felszív lyukacsos nedvszívó porózus szivacs takarít tisztít tisztítás
-💵	bank bankjegy bankó dollár köteg papírpénz pénz pénznem valuta
-🐹	állat fej hörcsög hörcsögfej kedvenc kisállat
-💾	floppy floppylemez hajlékonylemez lemez számítógép
-🌔	domború ég éjszaka hold holdfázisok növő űr
-🥫	étel konzerv
-💴	bank bankjegy bankó jen köteg papírpénz pénz pénznem valuta
-🦧	állat emberszabású majom orangután
-🍶	alkohol bár csésze ital japán szaké üveg
-⚪	alakzat fehér kör
-🆙	„up!” gomb fel jel up
-😎	arc laza menő mosoly mosolygó napszemüveggel nap napszemüveg nyár strand szmájli
-📐	derékszögű háromszög háromszögvonalzó matek matematika szög vonalzó
-🫧	böfi buborékok szappan szappanbuborékok tiszta víz alatti
-💕	évforduló két szív randevú randi szerelem szerelmes szívek szeretlek
-😗	arc csók csókoló flört puszi randi szerelem szmájli
-🫤	átlós szájú arc bizonytalan csalódott kétkedő meh
-💬	beszéd buborék gépel képregény párbeszéd sms szövegbuborék üzenet
-🛘	földrengés hegy katasztrófa lavina sárlavina sziklák veszély
-🚚	autó jármű költözés költöztetés közlekedés szállítás teherautó teherfuvarozás
-🔚	nyíl vége
-💺	szék ülés
-🎉	buli bulizik konfetti partikellékek partizik party szerpentin szilveszter születésnap ünnep ünnepel ünnepi hangulat ünneplés
-🤲	felfelé fordított tenyerek ima imádkozik imádság kér kéz kezek koldul könyörgés könyörög köszönet tenyér tenyérrel tölcsér tölcsért formáz
-😔	arc borzasztó csalódott elgondolkodó elkeseredett rossz szmájli szomorú tűnődő unott veszít
-👋	hello integet integetés integető kéz szia viszlát
-🎊	buli konfetti parti party születésnap ünnep ünnepi hangulat ünneplés
-💼	aktatáska iroda
-🥬	burger fodros kel hamburger káposzta kelkáposzta kínai leveles zöldség saláta
-🈸	„alkalmazás” bekeretezett képírásjel gomb japán
-🚱	ivás ivóvíz nem iható tilos tiltott víz
-🐄	állat tehén tej
-⬜	geometria nagy fehér négyzet
-😝	arc kilógó nyelvvel és erősen behunyt szemmel borzasztó kiöltött nyelv lehunyt szem szmájli szörnyű íz
-😓	arc hideg verejtékkel verejték ideges izzad izzadtság kiveri a víz lehangolt szmájli szomorú
-🩼	bot fogyatékosság mankó mozgássegítő sérülés sétapálca
-🙀	állat arc fáradt hűha ijedt kimerült macskaarc macska meglepett ó
-🧯	elfojt elolt tűz tüzet olt tűzoltó készülék
-🦖	állat dínó dinoszaurusz kihalt őslény t-rex t rex t.-rex tyrannosaurus
-🧑‍🧒	család felnőtt gyerek
-🐒	állat banán majom
-🥴	arc becsípett ferde szemek hullámvonalas száj ittas kába kábult kapatos keresztbeálló részeg részeges spicces szédül
-🧅	hagyma ízesítés vöröshagyma
-🍙	étel golyó japán rizs rizsgolyó
-👨‍🚒	férfi foglalkozás tűz tűzoltó
-🪈	blockflöte fafúvós fife furulya fuvola zene
-🏏	játék krikett labda sport ütő
-👴	bácsi idős férfi kopasz nagyapa nagypapa öreg öregember
-🦝	állat kíváncsi mosómaci mosómedve ravasz
-🎲	dobókocka játék kocka társas társasjáték
-🚡	jármű kábelvasút kötélpálya kötélpályás felvonó közlekedés levegő
-😑	arc érzéketlen flegma kifejezéstelen meh semleges szmájli
-🥶	arc befagy didereg elkékült fagyás fagyos fagyoskodik fázik hideg hűvös jégcsap jégcsapok jéghideg kék megfagy mínusz vacog
-🚿	víz vízsugár zuhany zuhanyzik zuhanyzó
-🖕	kéz középső ujj test
-🫆	biztonság bűncselekmény lenyomat nyom nyomozó nyomravezető jel rejtély személyazonosság törvényszék ujjlenyomat
-🧑‍🍳	séf szakács / szakácsnő
-🫠	elolvadó arc eloszlik eltűnik folyékony olvad
-🐑	állat anyajuh bárány birka gyapjú juh
-🕐	00 1 1:00 egész óra egy idő
-🔑	jelszó kulcs
-🚕	autó jármű közlekedés személyszállítás taxi
-🎹	billentyűzet hangszer szintetizátor zene zenei zongora
-🦮	akadálymentesség vak vakvezető kutya
-📃	csavarodik csavarodó dokumentum kunkorodik kunkorodó lap oldal
-👨‍🔧	férfi foglalkozás szerelő villanyszerelő vízszerelő
-😄	arc boldog fogak mosoly nevet nevető mosolygó szemmel nyitott száj szájjal örül szem szmájli vidám
-🥲	arc büszke hálás könny meghatott megkönnyebbült mosolygó könnycseppel mosolyog
-🫥	elrejtőzik eltűnik introvertált láthatatlan levert pontozott vonalas arc
-🥤	dzsúz ital ivólé papírpohár pohár szívószállal szénsavas szívószál szóda üdítő üdítőital
-🥃	alkohol feles ital pia pohár szeszes tömény whisky
-🗼	tokió tokiói torony
-🙄	arc bosszús forgatja a szemeit forgó szemek ideges mérges szemét forgató szemforgatás szmájli
-🦥	lajhár lassú lusta
-🧞	dzsini dzsinn kívánság lámpa lámpás szelleme mese olajlámpás szellem varázslámpás
-🤪	bolond dilis dinnye hülye kicsi lökött nagy őrült arc fej szemek szem szmájli tökfej
-👩‍🍳	foglalkozás nő séf szakácsnő
-🫘	bab étel hüvelyes növény vese vesebab vörösbab
-🥇	arany aranyérem első érem medál
-🐘	állat elefánt
-🔻	alakzat geometriai háromszög lefelé mutató piros
-🎡	játék kerék óriáskerék vidámpark
-🕢	30 7 7:30 fél nyolc harminc hét idő óra
-💪	befeszített bicepsz edzés edzőterem erős izom kar karizom képregény kéz test
-🎒	hátizsák iskola iskolatáska kiegészítő táska
-😢	arc boldogtalan hiányzik könnycsepp sírás síró szmájli szomorúság
-👨‍🦯	akadálymentesség férfi fehér bottal látássérült vak
-🫪	aggodalmas felpuffadt lesokkolt meglepődött pánikoló sebezhető
-🔕	áthúzott harang csengő nem csörög néma némítás némított tilos tiltott
-📢	hangos hangosbeszélő kikiált közhírré tesz közlemények megafon
-🦟	betegség csípés láz malária rovar szúnyog vírus
-🎅	arc fej karácsony mikulás télapó ünnep ünneplés
-❕	fehér felkiáltás felkiáltójel írásjel központozás
-🤽	póló sport víz vízilabda
-🗾	földrajz japán térképe térkép
-🔆	fényerő világosítás gomb
-🤣	arc boldog fej gurul a nevetéstől kicsordul könnye könny nevet nevetés nevetséges szmájli vicces
-🦅	állat madár sas
-🧶	fonal fonál gombolyag horgol horgolás köt kötés kötöget
-🍇	étel gyümölcs növény szőlő
-🌯	burrito étel mexikói
-🌎	amerika amerikát mutató földgömb föld földrajz világ
-🀄	játék kínai madzsong vörös sárkány
-🦣	állat gyapjas kihalt mamut nagy ormányos
-🥝	étel gyümölcs kivi
-😻	állat arc cica macska mosoly mosolygó szív alakú szemmel macskaarc szerelem szmájli
-🎸	elektromos gitár hangszer zene
-⏫	dupla gomb gyors felfelé nyíl
-🏩	épület love hotel szálló szerelmeseknek szálloda szerelmi fészek
-🥓	bacon étel hús szalonna
-➗	÷ jel matematika osztás vastag osztásjel
-🐦‍🔥	fantasy feltámad főnix halhatatlan reinkarnáció tűzmadár újjászületés
-🔁	ismétlés gomb megint nyíl nyilak óra járásának megfelelően újból újra
-👪	család gyerek
-🤍	fehér szív
-🪃	ausztrália bumeráng fegyver visszajön visszarepül
-🔧	csavarkulcs szerel szerszám villáskulcs
-🐶	állat fej kedvenc kisállat kiskutya kutya kutyafej
-🦌	agancs állat szarvas
-🎋	fa japán tanabata ünnepi ünnep hangulat ünneplés
-🕌	iszlám mecset mohamedán muszlim vallás
-📔	borító díszes díszkötés egyetem füzet iskola jegyzet jegyzetfüzet díszkötésben könyv oktatás olvas olvasás tanul tanulás
-🕗	00 8 8:00 egész óra idő nyolc
-🐲	állat fantasy fej mese sárkány sárkányfej tündérmese
-👊	egyetért egyetértek felemelt haver kéz ököl tesó test ütés ütésre emelt
-🫙	befőttesüveg fűszer szósz tárolás tároló üres
-🚇	földalatti jármű közlekedés metró utazás
-🧏	akadálymentesség fül hall hallássérült nagyothalló siket ember
-🤐	arc összecipzározott szájjal cipzár nem mond el száj szmájli titok
-👩	felnőtt hölgy nő
-🍡	dango desszert édesség étel gombóc japán nyárs pálca
-📧	e-mail email levél
-🛜	hálózat hotspot internet kapcsolat okostelefon router számítógép szélessávú vezeték nélküli wi-fi wifi wlan
-🐊	állat krokodil
-📌	irodaszer iskola rajzszög
-🕕	00 6 6:00 egész óra hat idő
-⛲	szökőkút
-🔫	fegyver játékpisztoly kézifegyver pisztoly revolver vízipisztoly
-🍐	étel gyümölcs körte növény
-⚓	hajózás horgony kikötés lehorgonyoz vasmacska
-🪆	baba bábuska egymásba rakható matrjoska orosz
-📦	csomag doboz szállítás
-🧧	ajándék hong bao hóngbāo lai see pénz piros boríték szerencse szerencsehozó
-🪽	angyal angyalszárny madár mitológia repül repülés szárny
-🎪	cirkusz cirkuszsátor sátor
-😏	arc gyanakvó önelégült szmájli viccelsz vigyor
-🛄	csomag felvétel poggyász poggyászfelvétel repülő utazás
-♑	bak csillagjegy horoszkóp
-🧑‍💼	építész értelmiségi irodai dolgozó menedzser üzletember
-🐁	állat egér
-🐌	állat csiga lassú
-👩‍🌾	farmer foglalkozás földműves gazda kertész nő női
-🕑	00 2 2:00 egész óra idő két kettő
-🎀	masni szalag ünnep ünnepi hangulat ünneplés
-📪	csukott levelesláda leengedett zászlóval levél posta postaláda zárt
-🎮	játék kontroller konzol playstation szórakozás videojáték xbox
-🔴	alakzat kör piros
-🦞	állat homár ollók rák rákleves tenger gyümölcsei tengeri étel
-🛐	ima imád imádkozik imahely vallás
-🛹	deszka deszkás gördeszka kerék kerekek
-👩‍🏭	dolgozó foglalkozás forraszt gyári munkás nő női összeszerel szerel
-🙅	kézjel ki van zárva kizárt nem szabad szó sem lehet róla tilos tiltás mutatása tiltást mutató nő tiltott
-🏧	atm atm-jel automata bank bankautomata készpénz kiadó pénzfelvétel
-🧢	baseball sapka baseballsapka kiegészítő ruházat sildes
-🫎	agancs állat emlős jávorszarvas
-💁	borravaló ember kéz mindegy nyitott tenyér pletyka szarkasztikus szarkazmus szemtelen
-🈶	„nem ingyenes” bekeretezett díjmentes” képírásjel fizetős gomb japán nem díjmentes
-🌺	hibiszkusz növény virág
-🤬	arc jelekkel a száján bosszús cenzúra csúnyán beszél dühös elátkoz gyalázkodik káromkodás káromkodik mérges szimbólumok szájon szitkozódik szmájli
-🤢	arc beteg émelygő fej hányás hányingere van rosszul szmájli
-💃	nő salsa tánc táncol táncoló táncos táncosnő tangó
-🦋	állat lepke pillangó rovar szép
-🐥	állat csibe előre néző kiscsibe madár naposcsibe
-🚫	behajtani tilos behajtás frogalom közlekedési tábla kresz-tábla nincs tiltott
-💞	évforduló forgás forgó szívek szerelem szeretlek szív
-🥖	bagett étel francia kenyér
-🉑	„elfogadás” „elfogadható” bekarikázott képírásjel japán gomb
-🚓	autó jármű járőrautó közlekedés rendőr rendőrautó rendőrség
-🧑‍🔬	biológus fizikus mérnök tudás tudós vegyész
-🔒	lakat zárt zárva
-🐦‍⬛	fekete holló madár varjú vetési
-😐	arc flegma kifejezéstelen közömbös meh nem nevet vicces pókerarc rezzenéstelen semleges szmájli unott
-🪘	dob hangszer hosszú konga ritmus ütem
-🎩	bűvész cilinder elegáns kalap ruha ruházat
-👩‍🎤	előadó énekes foglalkozás művész nő női rock színész sztár
-🦄	egyszarvú fej unikornis unikornisfej
-🐠	állat díszhal hal trópusi
-🥥	étel gyümölcs kókusz kókuszdió növény pálma piña colada
-🧣	hideg nyak ruházat sál
-🎿	hó síel síelés sílécek sport téli sportok
-🌆	alkonyat épület este nap naplemente napnyugta város városkép alkonyatkor
-🧐	arc félszemüveggel monoklival gazdag kifinomult klasszikus mérges szmájli tehetős vagyonos
-😭	arc boldogtalan könnyek sír sírás szmájli szomorúság zokogás zokogó
-😰	aggódó arc nyitott szájjal és verejtékkel hideg verejték ideges izzad kék kiveri a víz száj rohanás szmájli
-💣	bomba képregény robban robbanás veszélyes
-🐪	állat dromedár egypúpú teve púposteve sivatag
-👨‍🎓	diák diplomaosztó diplomázik egyetemista férfi foglalkozás tanuló
-👇	kéz kézfej lefelé mutató ujjal mutat mutatóujj tenyér test ujj
-🥉	bronz bronzérem érem harmadik medál
-🚅	golyóorrú gyorsvasút gyorsvonat jármű közlekedés nagysebességű sebes személyszállítás vasút vonat
-🥳	arc buli bulizó csákó duda hurrá izgatott kalap partiarc party születésnap szülinap ünnep ünneplés
-👳	ember turbán turbános
-🎧	fülhallgató zenehallgatás
-📨	beérkező bejövő boríték e-mail fogadás kézbesíteni küldött levél posta
-⭐	csillag közepes fehér
-🫃	has puffadt teli terhes férfi
-🌌	csillagrendszer tejút tejútrendszer űr világűr
-🧖	ember a gőzfürdőben gőz gőzfürdő gőzszoba nő szaunázik szauna szaunázás
-🚠	hegyi felvonó jármű kábelvasút közlekedés sílift
-🪙	arany dollár érme euró ezüst fém kincs pénz
-🌵	kaktusz növény sivatag szárazság természet
-😲	arc csodálkozó döbbent elcsodálkozott elképedt lenyűgözött megdöbbent szmájli
-🙃	arc fejjel lefelé fordult szmájli
-🚶	férfi gyaloglás gyalogos séta sétáló túra
-👤	árnyék ember sziluettje melltől felfelé mellszobor sziluett
-🛶	csónak evezés evezőlapát kenu közlekedés lapát sport
-🌓	ég éjszaka első negyedben lévő hold holdfázisok negyed
-🌒	ég éjszaka hold holdfázisok kifli növő alakú sarló űr
-👽	földönkívüli idegen marslakó ufó űrlény
-🕡	30 6 6:30 fél hét harminc hat idő óra
-🐡	állat gömbhal hal
-🛃	ellenőrzés poggyász átvizsgálása vám vizsgálat
-🥛	egy pohár tej ital
-🛟	biztonság életmentő lebeg megment mentőöv
-🫚	fűszer gyökér gyömbér gyömbérgyökér sör
-🍋	citrom citrusféle étel gyümölcs keserű növény
-🪶	madár madártoll repülés toll tollazat
-🫹	az bal ez fogás mutat semleges
-👲	ember kínai sapkás sapka
-🤰	nő terhes várandós
-🧹	boszorkány seper sepreget seprés seprű söpör takarítás tisztítás
-💑	csók évforduló pár szívvel romantika szerelem szív
-⛅	felhő felhős időjárás nap egy mögött
-🩶	ezüst pala szív szürke
-🧨	dinamit fény petárda pukkan robban robbanószer szikra tűz tüzijáték tűzijáték
-🏊	sport triatlon úszás úszik úszó
-🕟	30 4 4:30 fél öt harminc idő négy óra
-🩰	balett balettcipő tánc
-📀	blu-ray cd dvd lemez optikai számítógép zene
-🏃	fut futás futó gyors maraton siet sport
-🧜	hableány hablegény mese óceán sellő szirén tündérmese
-🔽	gomb lefelé nyíl piros
-💻	laptop munka notebook pc számítógép
-🧋	bubble tea buborék buborékos étel gyöngy ital tajvan tej
-🫏	állat csacsi emlős makacs öszvér szamár
-🪟	ablak átlátszó friss levegő keret kilátás nyílás
-🐢	állat teknőc teknős teknősbéka
-😤	arc dühös gőz győzelem mérges orrából gőzt fújtató siker szmájli
-👨‍🚀	férfi foglalkozás rakéta űr űrhajós űrutazás
-👩‍💻	fejlesztő feltaláló foglalkozás kódoló nő programozó számítógép szoftver
-🦠	amőba baktérium mikróba tudomány vírus
-🥺	arc bociszemek esedező kegyelem kerek szem kérlek szépen kérlelő kiskutyaszemek könyörgős könyörög lécci légyszi megszán miért ne sóvárog szomorú
-🤮	arc beteg hány hányó kidobja a taccsot köp öklendezik rosszul van szmájli
-❗	felkiáltás felkiáltójel írásjel központozás piros
-🪼	csíp gerinctelen jaj kocsonyás medúza szúrószerv tengeri
+🚷	gyalog gyalogos nem zóna zona tilos tiltott
+🦫	állat allat fog gát gat hód hod
+🦪	búvárkodás buvarkodas gyöngy gyongy osztriga
+🛌	ágy agy álmos almos alszik alvás alvas ember az ágyban agyban szálloda szalloda
+🎹	billentyűzet billentyuzet hangszer szintetizátor szintetizator zene zenei zongora
+🫩	álmos almos arc elnyűtt elnyutt fáradt faradt késő keso kifáradt kifaradt kimerült kimerult szemek táskás taskas unatkozik
+🥨	csavart perec étel etel
+🦅	állat allat madár madar sas
+💐	csokor évforduló evfordulo növény noveny randevú randevu randi romantika születésnap szuletesnap virág virag virágcsokor viragcsokor
+👜	kézitáska kezitaska kiegészítő kiegeszito női noi táska taska vásárlás vasarlas
+🈳	„megüresedés” bekeretezett „üres” képírásjel kepirasjel japán japan gomb
+🐟	állat allat állatöv allatov csillagjegy étel etel hal halak halászat halaszat halászik halaszik horoszkóp horoszkop
+🫁	belégzés belegzes kilégzés kilegzes légzés legzes lélegzet lelegzet levegő levego oxigén oxigen szerv tüdő tudo
+👨‍🎤	előadó eloado énekes enekes férfi ferfi foglalkozás foglalkozas művész muvesz rock színész szinesz sztár sztar
+🛖	ház haz jurta kunyhó kunyho lak otthon
+🍀	lóhere lohere négylevelű negylevelu növény noveny szerencse szerencsés szerencses
+🪕	bendzsó bendzso húros huros zene
+😌	arc béke beke békés bekes megkönnyebbült megkonnyebbult nyugodt szmájli szmajli
+🐺	állat allat farkas farkasfej fej
+🦣	állat allat gyapjas kihalt mamut nagy ormányos ormanyos
+🦆	állat allat kacsa madár madar
+🦢	állat allat fiatal hattyú hattyu madár madar rút rut kiskacsa
+🛷	szán szan szánkó szanko szánkózás szankozas szánkózik szankozik tobogán tobogan lesiklás lesiklas hó ho sport
+😍	arc mosoly mosolygó mosolygo szív sziv alakú alaku szemmel szem szerelem szerelmes szívek szivek szmájli szmajli
+🌓	ég eg éjszaka ejszaka első elso negyedben lévő levo hold holdfázisok holdfazisok negyed
+🪣	felmosó felmoso felmosóvödör felmosovodor vödör vodor
+👾	fantasy földönkívüli foldonkivuli idegen játék jatek pixel pixeles szörny szorny szörnyecske szornyecske ufó ufo űrlény urleny
+🔔	csengő csengo harang szünet szunet templom
+🩳	alsó also fürdőgatya furdogatya fürdőnadrág furdonadrag gatya rövidnadrág rovidnadrag
+🖖	kéz kez spock star trek trek-üdvözlet test ujj vulcan
+👯	buli bulizó bulizo emberek lányok lanyok nő no nyuszi nyuszifül nyusziful parti
+🥌	csapatjáték csapatjatek csúszókorong csuszokorong curling curlingkő curlingko játék jatek jégteke jegteke kő ko sport téli teli
 🎺	hangszer trombita zene
-🟥	négyzet piros vörös
-😶	arc csendes csöndes kellemetlen kifejezéstelen néma nincs szája száj nélküli szmájli
-🧬	biológia biológus dns élet evolúció fejlődés gén gének genetika tudomány
-😵‍💫	arc baj hipnotizált húha omg spirál spirálszemű szédül szédülő zavar zavarodott
-📸	fényképező vakuval fényképezőgép kamera vaku videó
-👩‍🔧	foglalkozás nő szerelő szerelőnő villanyszerelő vízszerelő
-💧	csepp hideg időjárás izzadság képregény könny könnycsepp szomorú vicces víz
-🪂	ejtőernyő siklóernyő
-🎃	halloween töklámpa töklámpás ünnep ünnepi hangulat ünneplés
-🫟	csepp festék folt folyadék fröccsenés kiömlik rendetlenség tinta
-💖	csillog izgatott ragyogás ragyogó szív
-💜	lila szív
-🚀	jármű közlekedés rakéta űr űrutazás
-🎑	hold holdünnep ünnep ünnepi hangulat ünneplés
-🍦	desszert édesség étel fagyi fagylalt gépi lágyfagylalt tölcséres
-🥀	hervadt rózsa virág
-😣	állhatatos arc állhatatosság fáj a feje fejfájás koncentrál szmájli
-📰	hírek újság újságos
-🥊	boksz bokszkesztyű box boxkesztyű kesztyű sport
-🧑‍🏫	oktató professzor tanár / tanárnő
-🔺	alakzat felfelé mutató piros háromszög fölfelé geometriai
-📺	televízió tévé tévékészülék tv
-🦬	állat bölény csorda
-👸	fantasy hercegnő királykisasszony királylány királynő korona mese mesehős
-😋	arc fini finom ételt élvező jóízű megnyalja a száját utána mosoly nyami nyelv szmájli
-👗	ruha ruházat vásárlás
-🦎	állat gyík hüllő
-🫳	elejt hess lefelé néző kéz mellőz
-🥎	baseball kar alatti dobás kesztyű labda softball sport sportok
-💉	eszköz fecskendő injekciós tű orvos véradás vérvétel
-🪧	demonstráció sztrájk tábla transzparens tüntetés
-🌃	csillag derült idő éjszaka csillagokkal épület város
-📕	becsukott könyv csukott egyetem iskola oktatás olvas olvasás piros tanul tanulás tudás
-😇	áldott angyal arc ártatlanság békés dicsfény glória jó jóságos lélek mese mosoly mosolygó glóriával szmájli
-🍃	hulló lebegő levél növény szél szélfútta
-🫒	étel növény olajág olajbogyó olíva olívabogyó olívaolaj
-🔜	hamarosan jön nyíl pill
-🧑‍🍼	anya anyu ember etetés gondozás kisbaba kisbabát etető személy mami szoptatás újszülött
-🚍	busz érkezés érkező jármű közlekedés
-🧄	fokhagyma ízesítés
-👯	buli bulizó emberek lányok nő nyuszi nyuszifül parti
-🪤	csalétek csali csapda egércsapda egérfogó sajt
-🥸	álbajusz álca álcázott arc bajusz inkognító kém orr szemöldök szemüveg
-🥅	háló kapu sport
-🍪	desszert édesség étel keksz sütemény süti
-🔎	jobbra mutató nagyító keresés lencse
-🩴	flip-flop lábbeli lábujjközes papucs strandpapucs szandál tangapapucs
-💢	a düh szimbóluma dühös képregény mérges
-🥙	étel falafel gírosz gyros kebab pita töltött
-🐈	állat cica kedvenc kisállat macska
-📥	beérkező doboz e-mail email fogadás levél posta tálca
-🚮	környezettudatosság szemét a kukában szimbólum szemetes
-🟨	négyzet sárga
-🥼	doktor dr fehér köpeny kísérlet laboratóriumi laborköpeny orvos orvosi ruha tudós
-🧱	agyag fal habarcs malter tégla téglafal téglák
-🧈	tejtermék vaj
-💓	dobogó szív érted dobog a szívem szerelem szívdobogás
-🎏	hal lobogó ponty rizspapír pontyok ünnep ünnepi hangulat ünneplés
-♈	horoszkóp kos csillagjegy
-🛌	ágy álmos alszik alvás ember az ágyban szálloda
-🦇	állat denevér drakula vámpír
-🚐	busz jármű kisbusz közlekedés mikrobusz minibusz teherautó vezet
-🐬	állat delfin flipper óceán tengerpart
-🐅	állat nagymacska ragadozó tigris
-🌉	éjszaka híd
-🤌	gúnyos kéz kézmozdulat kihallgatás mi van micsoda mit akarsz összecsippentett türelem ujjak várj
-🛀	fürdés fürdik fürdő ember fürdőkád
-👶	baba kisbaba kisfiú kisgyerek újszülött
-🍁	falevél juhar juharlevél levél növény ősz
-🚜	jármű traktor
-💠	alakzat geometriai gyémánt ponttal képregény rombusz
-😚	arc behunyt szem csók csókoló lehunyt szemmel csókot dob csukott puszi puszit szmájli
-👮	foglalkozás letartóztat rendőr rendőrség rendőrtiszt tiszt törvény zsaru
-🍥	csavart étel hal haltorta japán torta
-🧌	képzelet szörny troll tündérmese
-👠	cipő divat kiegészítő magas sarkú magassarkú nők ruha ruházat sarok vásárlás
-🧑‍🎄	ember karácsony mikulás sapka télapó ünnepek
-👩‍🏫	foglalkozás nő oktató professzorasszony tanár tanárnő tanítónő
-🌴	fa növény pálma pálmafa strand tengerpart
-🏭	épület gyár
-🔷	alakzat geometria kék nagy rombusz
-💡	fény képregény ötlet világítás villanykörte
-🪾	ágak csupasz fa faanyag halott kiszáradt levél nélküli tél terméketlen törzs
-🔙	nyíl vissza visszafelé
-🫲	bal balra néző kéz
-💒	épület esküvő kápolna romantika
-🆔	azonosítás bekeretezett „id” rövidítés id gomb identitás
-🧑‍🩰	balett táncos
-🥪	kenyér szendvics
-⌛	homok homokóra idő lejárt letelt óra
-🔀	egymást keresztező nyilak nyíl véletlenszerű lejátszás gomb
-😦	arc ijedt ijesztő meglepett nyitott száj rosszallás rosszalló szájjal szmájli
-🍄‍🟫	barna gomba étel portobello szarvasgomba természet vega vegán vegetariánus
-🦫	állat fog gát hód
-🥚	étel tojás
-🛑	nyolcszög stop stoptábla
-🎫	belépő belépőjegy jegy
-👺	álarc arc fantasy japán kobold lény maszk mérges mese szörny
-🤷	közömbös nem érdekel rándít váll vállrándítás
-🦏	állat orrszarvú rinocérosz
-🍿	étel kukorica mozi pattogatott
-☕	forró gőzölgő ital kávé koffein reggel reggeli tea
-📴	kikapcsolva mobil mobiltelefon rádiótelefon telefon tiltott
-👘	japán kimonó ruha ruházat
-🚈	hév jármű közlekedés metró vasút
-🧷	biztosítótű biztostű pelenka punk rock
-🍔	burger étel gyorskaja hambi hamburger sajtburger
-🔸	alakzat geometria kis narancssárga rombusz narancs
-🎎	baba figura japán babák ünnep ünnepi hangulat ünneplés
-🧘	ember lótuszülésben jóga jógázik lótuszülés meditáció meditál nő relaxáció relaxál
-🥾	bakancs barna cipő erdő hátizsákos túra hegymászás kemping szabad levegő túrabakancs túrázás vadon
-🦙	állat alpaka guanako guanakó gyapjas gyapjú láma vicuña
-🆚	bekeretezett „vs” rövidítés ellen ellenfél kontra szemben versus vs gomb
-🧦	harisnya zokni
-🛕	hindu templom
-💝	ajándék csók puszi szalag szerelem szív szalaggal valentin-nap
-🔂	egy szám ismétlése gomb ismétlés egyszer még nyíl nyilak óra járásának irányában megegyezően megfelelően újra
-🌷	növény tulipán virág
-🧑‍🧑‍🧒	család felnőtt gyerek
-🥰	arc három szív i love you imád imádat mosoly mosolygó szívekkel rajong románc szerelem szerelmes szeret szeretlek
-💍	ékszer eljegyez eljegyzési gyűrű gyémánt házasság jegyben jár jegyes lánykérés megkéri a kezét romantika
-🕖	00 7 7:00 egész óra hét
-🚷	gyalog gyalogos nem zóna tilos tiltott
-🐾	lábak lábnyomok mancsnyomok
-👨‍🎨	férfi festő festőművész foglalkozás művész paletta
-🍤	étel garnélarák rák sült tenger gyümölcsei
-🦢	állat fiatal hattyú madár rút kiskacsa
-🔏	adatvédelem lakat tollal tinta toll töltőtoll zár
-⛄	hideg hó hóember nélkül időjárás tél
-💀	csont halál halálfej halott koponya szörny
-🏴	halál lengő fekete zászló
-👍	cool felfelé mutató hüvelykujj jó kéz like megbeszéltük ok oké rendben test ujj
-🧑‍💻	fejlesztő feltaláló informatikus programozó szoftver
-🪊	hangszer jazz rézfúvós szomorú zene
-🌭	étel hot dog hotdog kifli kolbász mustár virsli
-♎	horoszkóp mérleg csillagjegy
-🪇	csörgő hangszer ráz rumbatök ütőhangszer zene
-💂	buckingham-palota gárdista london őrség őrségváltás sisak
-🛸	földönkívüli idegenek marslakó repülő csészealj ufo ufó
+🌑	ég eg éjszaka ejszaka hold holdfázisok holdfazisok sötétség sotetseg újhold ujhold űr ur
+👆	felfelé felfele kéz kez kézfej kezfej mutató mutato ujjal mutat mutatóujj mutatoujj tenyér tenyer test ujj
+🧑‍🌾	földműves foldmuves gazda / női noi növénytermesztő novenytermeszto
+🥧	almáspite almaspite desszert édesség edesseg étel etel gyümölcsös gyumolcsos pite sütemény sutemeny süti suti tészta teszta töltelék toltelek töltött toltott
+📠	fax faxkészülék faxkeszulek
+😆	arc boldog haha kacag nevetés nevetes nyitott száj szaj szájjal szajjal és es lehunyt szemmel mosolygó mosolygo szmájli szmajli
+🧣	hideg nyak ruházat ruhazat sál sal
+🐖	állat allat disznó diszno koca kövér kover malac
+🛜	hálózat halozat hotspot internet kapcsolat okostelefon router számítógép szamitogep szélessávú szelessavu vezeték vezetek nélküli nelkuli wi-fi wifi wlan
+🍉	dinnye étel etel görögdinnye gorogdinnye gyümölcs gyumolcs növény noveny
+🪮	afro fésű fesu fogú fogu haj hosszú hosszu
+💠	alakzat geometriai gyémánt gyemant ponttal képregény kepregeny rombusz
+🛹	deszka deszkás deszkas gördeszka gordeszka kerék kerek kerekek
+📲	hívás hivas kommunikáció kommunikacio hívásfogadás hivasfogadas mobil mobiltelefon nyíllal nyillal nyíl nyil rádiótelefon radiotelefon telefon
+🚳	bicikli kerékpár kerekpar kerékpározni kerekparozni tilos tiltott
+🤑	arc dollárjelekkel dollarjelekkel dollár dollar fizetett pénz penz száj szaj szmájli szmajli
+🚅	golyóorrú golyoorru gyorsvasút gyorsvasut gyorsvonat jármű jarmu közlekedés kozlekedes nagysebességű nagysebessegu sebes személyszállítás szemelyszallitas vasút vasut vonat
+📒	főkönyv fokonyv füzet fuzet jegyzetfüzet jegyzetfuzet könyv konyv notesz spirálos spiralos
+🧂	dühös duhos fűszer fuszer íz iz só so sós sos sószóró soszoro
+🫪	aggodalmas felpuffadt lesokkolt meglepődött meglepodott pánikoló panikolo sebezhető sebezheto
+🧞	dzsini dzsinn kívánság kivansag lámpa lampa lámpás lampas szelleme mese olajlámpás olajlampas szellem varázslámpás varazslampas
+🍭	cukorka desszert édesség edesseg nyalóka nyaloka
+🌳	erdő erdo fa lombhullató lombhullato növény noveny zöld zold
+🚤	csónak csonak hajó hajo kishajó kishajo közlekedés kozlekedes motorcsónak motorcsonak motoros siklócsónak siklocsonak vízi vizi jármű jarmu
+👵	anyóka anyoka idős idos hölgy holgy nő no nagyi nagymama néni neni öreg oreg
+🐈‍⬛	állat allat balszerencse fekete halloween macska nyávog nyavog
+🚉	állomás allomas jármű jarmu közlekedés kozlekedes vasút vasut vonat
+🚐	busz jármű jarmu kisbusz közlekedés kozlekedes mikrobusz minibusz teherautó teherauto vezet
+❔	fehér feher írásjel irasjel kérdés kerdes kérdőjel kerdojel központozás kozpontozas
+🔐	biztonságos biztonsagos kulcs lakat zár zar zárt zart kulccsal zárva zarva
+👰	ember fátyollal fatyollal esküvő eskuvo fátyol fatyol lakodalom menyasszony
+🧠	agy intelligens okos
+🔚	nyíl nyil vége vege
+🥁	dob dobol dobverő dobvero hangszer zene
+🛶	csónak csonak evezés evezes evezőlapát evezolapat kenu közlekedés kozlekedes lapát lapat sport
+😨	aggódik aggodik arc félelem felelem félelemmel felelemmel teli ijedt rémült remult szmájli szmajli
+🥫	étel etel konzerv
+🎈	léggömb leggomb lufi születésnap szuletesnap ünnepel unnepel ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+🤏	csippentő csippento kéz kez kicsi kicsit kis összeg osszeg ujjak
+🐕‍🦺	akadálymentesség akadalymentesseg kutya segítő segito segítőkutya segitokutya segítség segitseg
+🦑	állat allat étel etel tintahal
+🍹	alkohol bár bar ital koktél koktel trópusi tropusi
+🦂	állat allat állatöv allatov csillagjegy skorpió skorpio
+💴	bank bankjegy bankó banko jen köteg koteg papírpénz papirpenz pénz penz pénznem penznem valuta
+🫹	az bal ez fogás fogas mutat semleges
+➖	- − gondolatjel jel kivonás kivonas matematika mínusz minusz vastag mínuszjel minuszjel
+🚏	busz buszmegálló buszmegallo megálló megallo
+🎱	8-as biliárd biliard biliárdgolyó biliardgolyo golyó golyo játék jatek
+🥡	doboz elviteles papírdoboz papirdoboz elvitelre étel etel házhozszállítás hazhozszallitas evőpálcika evopalcika kínai kinai pálcika palcika
+🪳	állat allat csótány csotany kártevő kartevo rovar svábbogár svabbogar undi undorító undorito
+🔜	hamarosan jön jon nyíl nyil pill
+🏪	bolt éjjel-nappali épület epulet kisbolt non-stop
+🍊	c-vitamin gyümölcs gyumolcs mandarin narancs nektarin növény noveny
+👑	fejdísz fejdisz kiegészítő kiegeszito király kiraly királynő kiralyno királyság kiralysag korona középkori kozepkori
+🕖	00 7 7:00 egész egesz óra ora hét het
+💟	dekoráció dekoracio dísz disz fehér feher szív sziv lila formájú formaju
+🚱	ivás ivas ivóvíz ivoviz nem iható ihato tilos tiltott víz viz
+👣	lábnyom labnyom lábnyomok labnyomok mezítláb mezitlab nyom nyomok úton uton
+🍅	étel etel növény noveny paradicsom zöldség zoldseg
+📰	hírek hirek újság ujsag újságos ujsagos
+🟢	kör kor zöld zold
+🚆	jármű jarmu közlekedés kozlekedes vasút vasut vonat
+⚪	alakzat fehér feher kör kor
+🪞	smink tükör tukor tükröződés tukrozodes visszaverődés visszaverodes
+🐈	állat allat cica kedvenc kisállat kisallat macska
+🦒	állat allat foltos zsiráf zsiraf
+🌾	gabona gabonaféle gabonafele növény noveny rizs
+📎	gemkapocs irodaszer papírkapocs papirkapocs
+🐎	állat allat derbi fogadás fogadas ló lo lovaglás lovaglas lovassport lóverseny loverseny lovi sport sportfogadás sportfogadas versenyló versenylo versenyzés versenyzes
+🪉	ámor amor hangszer hárfa harfa szerelem zene zenekar
+🎊	buli konfetti parti party születésnap szuletesnap ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+⏬	gomb gyors lefelé lefele nyíl nyil piros
+🧳	bőrönd borond csomag csomagolás csomagolas gurulós gurulos poggyász poggyasz utazás utazas
+🪱	állat allat féreg fereg földigiliszta foldigiliszta giliszta gyűrűs gyurus gyűrűsféreg gyurusfereg kukac parazita
+🍸	alkohol bár bar ital koktél koktel koktélos koktelos pohár pohar
+🏫	épület epulet iskola
+🧑‍🦯	akadálymentesség akadalymentesseg ember fehér feher bottal vak
+🫔	étel etel felcsavart mexikói mexikoi tamale
+🥦	brokkoli étel etel vadkáposzta vadkaposzta zöldség zoldseg
+💂	buckingham-palota gárdista gardista london őrség orseg őrségváltás orsegvaltas sisak
+🧴	hidratáló hidratalo krém krem krémes kremes flakon naptej napvédő napvedo sampon testápoló testapolo
+🚙	autó auto jármű jarmu közlekedés kozlekedes lakókocsi lakokocsi suv szabadidő-autó szabadidőautó szabadidoauto terepjáró terepjaro utcai városi varosi vezet
+🫃	has puffadt teli terhes férfi ferfi
+🔽	gomb lefelé lefele nyíl nyil piros
+🍱	bento doboz étel etel ételdoboz eteldoboz japán japan
+🏈	amerikai foci sport super bowl futball amerikaifoci-labda labda
+🪻	búzavirág buzavirag csillagfürt csillagfurt jácint jacint levendula tátika tatika virág virag
+😧	arc elgyötört elgyotort elkínzott elkinzott fél fel ijedt rémült remult riadt szmájli szmajli
+🤔	arc elgondolkodó elgondolkodo gondolkodó gondolkodo gondolkozik megfontol szmájli szmajli tűnődő tunodo
+👩‍🍼	anya anyu etetés etetes gondozás gondozas kisbaba kisbabát kisbabat etető eteto nő no mama újszülött ujszulott
+🛝	csúszda csuszda játék jatek játszótéri jatszoteri vidámpark vidampark
+👷	építkezés epitkezes építőmunkás epitomunkas férfi ferfi foglalkozás foglalkozas munkás munkas sisak védősisak vedosisak
+🪒	borotva borotvál borotval borotválkozik borotvalkozik éles eles leborotvál leborotval megborotválkozik megborotvalkozik
+🕔	00 5 5:00 egész egesz óra ora idő ido öt ot
+🪬	amulett fatima hamsza kéz kez mária maria mirjam védelem vedelem
+🧻	papír papir papírhenger papirhenger papírtekercs papirtekercs papírtörlő papirtorlo papírtörölköző papirtorolkozo vécépapír vecepapir wc wc-papír
+🕜	1 1:30 30 egy fél fel kettő ketto harminc idő ido óra ora
+🆕	bekeretezett „new” szó szo gomb new új uj
+🏆	díj dij győzelem gyozelem győzni gyozni győztes gyoztes kupa sport trófea trofea verseny
+🐗	állat allat disznó diszno vaddisznó vaddiszno
+📊	ábra abra adat diagram grafikon oszlop oszlopdiagram sáv sav
+🤒	arc lázmérővel lazmerovel beteg láza laza van lázas lazas lázmérő lazmero szmájli szmajli
+🫢	áhítat ahitat ámulat amulat arc csend elakadt lélegzet lelegzet előtt elott félelem felelem hitetlenkedés hitetlenkedes kéz kez meglepetés meglepetes nyitva omg sokk száj szaj szemek zavar
+🖕	kéz kez középső kozepso ujj test
+💹	bank diagram emelkedés emelkedes felfelé felfele jen növekedés novekedes növekvő novekvo jendiagram pénz penz pénznem penznem piac trend valuta
+🟤	barna kör kor
+👅	kinyújtja kinyujtja a nyelvét nyelvet nyal nyelv test testrész testresz
+🪧	demonstráció demonstracio sztrájk sztrajk tábla tabla transzparens tüntetés tuntetes
+🧹	boszorkány boszorkany seper sepreget seprés sepres seprű sepru söpör sopor takarítás takaritas tisztítás tisztitas
+🐩	állat allat háziállat haziallat kedvenc kisállat kisallat kutya pudli uszkár uszkar
+🔥	ég eg felgyullad forró forro gyúlékony gyulekony gyullad láng lang meleg perzsel tűz tuz
+💙	kék kek szív sziv
+🤳	fényképező fenykepezo kamera szelfi telefon
+👞	cipő cipo férfi ferfi ruha ruházat ruhazat vásárlás vasarlas
+👥	ember emberek két ket sziluettje melltől melltol felfelé felfele mellszobor sziluett
+🤸	cigánykerék ciganykerek sport sportoló sportolo torna
+😓	arc hideg verejtékkel verejtekkel verejték verejtek ideges izzad izzadtság izzadtsag kiveri a víz viz lehangolt szmájli szmajli szomorú szomoru
+🐮	állat allat fej tehén tehen tehénfej tehenfej tej
+♋	csillagjegy horoszkóp horoszkop rák rak
+👨‍🌾	farmer férfi ferfi foglalkozás foglalkozas földműves foldmuves gazda kertész kertesz
+🤚	felemelt kéz kez kézfej kezfej
+🌊	hullám hullam a vízen vizen időjárás idojaras óceán ocean tenger víz viz vízhullám vizhullam
+🪦	fejfa halál halal rip sír sir sírkő sirko temető temeto
+🚻	mosdó mosdo toalett vécé vece wc
+👨‍🏫	férfi ferfi foglalkozás foglalkozas oktató oktato professzor tanár tanar
+🔌	dugó dugo elektromos elektronika hálózati halozati csatlakozó csatlakozo villamosság villamossag
+🔤	abc betűk betuk bevitel gomb latin bevitele
+👄	ajkak rúzs ruzs száj szaj test testrész testresz
+🙄	arc bosszús bosszus forgatja a szemeit forgó forgo szemek ideges mérges merges szemét szemet forgató forgato szemforgatás szemforgatas szmájli szmajli
+🌐	délkörök delkorok föld fold földgömb foldgomb délkörökkel delkorokkel földrajz foldrajz internet világ vilag
+🐻	állat allat fej maci medve medvefej
+👚	blúz bluz ing női noi ruha nők nok ruházat ruhazat
+🔋	akkumulátor akkumulator elem
+🕛	00 12 12:00 dél del egész egesz óra ora éjfél ejfel tizenkét tizenket tizenkettő tizenketto
+💁	borravaló borravalo ember kéz kez mindegy nyitott tenyér tenyer pletyka szarkasztikus szarkazmus szemtelen
+🧮	abakusz számítás szamitas számolás szamolas számológép szamologep
+🧪	kémcső kemcso kémia kemia kísérlet kiserlet labor laboratórium laboratorium tudomány tudomany vegyész vegyesz vegyészet vegyeszet vegyi anyag vegyipar
+🏒	hoki hokiütő hokiuto és es korong jéghoki jeghoki jégkorong jegkorong labda sport ütő uto
+😀	arc boldog fogak nevetés nevetes nevető neveto szmájli szmajli vidám vidam
+🎭	előadás eloadas előadóművészetek eloadomuveszetek játék jatek kikapcsolódás kikapcsolodas maszkok művészet muveszet színész szinesz színház szinhaz szórakozás szorakozas
+🐑	állat allat anyajuh bárány barany birka gyapjú gyapju juh
+🧇	gofri gofrisütő gofrisuto határozatlan hatarozatlan vas waffle
+🍲	ebéd ebed egy tál tal étel etel ennivaló ennivalo
+🚁	helikopter jármű jarmu közlekedés kozlekedes légi legi utazás utazas
+🧓	idős idos idősebb idosebb felnőtt felnott nemi szempontból szempontbol semleges öreg oreg
+🫴	elkap felajánl felajanl felfelé felfele néző nezo kéz kez hív hiv int
+⛳	golf lyuk sport zászló zaszlo a lyuknál lyuknal
+🥖	bagett étel etel francia kenyér kenyer
+🍛	curry currys rizs étel etel
+🥜	allergia étel etel földimogyoró foldimogyoro mogyoró mogyoro
+🍈	étel etel gyümölcs gyumolcs növény noveny sárgadinnye sargadinnye
+🤥	arc hazudik hazudó hazudo fej hazudós hazudos hazug hosszú hosszu orr pinokkió pinokkio szmájli szmajli
+🤿	búvár buvar búvárkodás buvarkodas búvármaszk buvarmaszk búvárszemüveg buvarszemuveg merülés merules szabadtüdős szabadtudos
+😎	arc laza menő meno mosoly mosolygó mosolygo napszemüveggel napszemuveggel nap napszemüveg napszemuveg nyár nyar strand szmájli szmajli
+💑	csók csok évforduló evfordulo pár par szívvel szivvel romantika szerelem szív sziv
+🚖	érkező erkezo jármű jarmu közlekedés kozlekedes személyszállítás szemelyszallitas taxi
+🙏	ima imádkozik imadkozik kér ker kérés keres kérlek kerlek kéz kez könyörög konyorog köszi koszi köszönet koszonet köszönöm koszonom összetett osszetett
+🦔	állat allat sündisznó sundiszno tüskés tuskes
+😬	arc fogorvos grimasz grimaszoló grimaszolo kellemetlen kínos kinos mosoly mosolyog szmájli szmajli
+🏠	családi csaladi ház haz épület epulet hétvégi hetvegi lak lakóház lakohaz otthon vidéki videki
+🗻	fudzsi fudzsi-hegy hegy
+🐕	állat allat háziállat haziallat kisállat kisallat kutya
+🐥	állat allat csibe előre elore néző nezo kiscsibe madár madar naposcsibe
+🦏	állat allat orrszarvú orrszarvu rinocérosz rinocerosz
+🧤	kesztyű kesztyu kék kek kéz kez
+😹	állat allat arc cica kicsordul a könnye konnye könny konny macska örömkönnyekkel oromkonnyekkel macskaarc mosoly nevet örömkönny oromkonny szmájli szmajli
+🥴	arc becsípett becsipett ferde szemek hullámvonalas hullamvonalas száj szaj ittas kába kaba kábult kabult kapatos keresztbeálló keresztbeallo részeg reszeg részeges reszeges spicces szédül szedul
 ➰	hurok
-🎴	japán játék kártya virág virágos kártyajáték
-🦪	búvárkodás gyöngy osztriga
-🪯	khanda szikh vallás
-🛅	csomag csomagmegőrző megőrzés poggyász poggyászmegőrző
-🉐	„alkalmi vétel” alku bekarikázott „alku” képírásjel japán gomb
-🧑‍🏭	dolgozó gyári munkás
-🔰	a kezdő japán szimbóluma levél sárga zöld
-🫍	bálna óceán tengeri állat
-♊	horoszkóp ikrek csillagjegy
-🍒	cseresznye étel gyümölcs meggy növény
-🦘	állat ausztrália erszényes kengu kenguru ugrás ugrik
-🦯	akadálymentesség fehér bot vak
-🧼	buborék darab fürdés szappan szappanhab szappantartó tiszta tisztálkodás tisztaság zuhany
-🧿	amulett bűbáj gonoszűző gyöngy kék nazar rontás szem talizmán
-🎱	8-as biliárd biliárdgolyó golyó játék
-🍭	cukorka desszert édesség nyalóka
-🥈	érem ezüst ezüstérem második
-🔬	biológia eszköz felszerelés kísérlet laboratórium mikroszkóp tudomány
-🤞	drukkolok keresztezett ujjak kéz sok szerencsét szerencse szorítok ujj
-🍛	curry currys rizs étel
-👌	kéz ok jel oké perfekt rendben szuper test ujj
-👆	felfelé kéz kézfej mutató ujjal mutat mutatóujj tenyér test ujj
-👉	arra kéz jobbra mutató ujjal kézfej mutatóujj tenyér test ujj
-🎍	bambusz fenyő fenyődekoráció japán növény ünnep ünnepi hangulat ünneplés
-🧔	szakáll szakállas ember
-🦶	boka dobogás láb lábfej rúg rúgás tapos tipor topog toporog
-🈺	„működik” bekeretezett képírásjel gomb japán nyitva
-🧮	abakusz számítás számolás számológép
-🏁	autóverseny cél forma-1 kockás sport versenyzés zászló
-🙈	állat bújócska elbújik elfelejt ijedt majom nem figyelek lát semmit láttam tilos zavarban van
-🍠	burgonya édesburgonya étel krumpli sült
-🕋	fekete iszlám kába kő kocka mohamedán muszlim vallás
-🫓	étel kenyér lapos laposkenyér lepénykenyér naan pita
-😠	arc dühös mérges szmájli
-🫶	szeretet szív szívet formázó kezek
-🤖	arc robot robotarc szörny
-◾	alakzat fekete geometria kis-közepes négyzet
-🤤	arc fej folyik a nyála nyál nyáladzó szmájli
-🏹	fegyver íj és nyíl nyilas sport
-💔	egyedül megszakad a szíve összetört szakít szakítani szív szomorú
-🍍	ananász étel gyümölcs növény
-🤱	baba etet kisbaba mell szoptat szoptatás
-👨‍🍼	apa apu apuka etetés férfi gondozás kisbaba kisbabát etető újszülött
-👫	barátok férfi fiú kéz a kézben kézen fogva álló és nő lány pár randevú randi szerelem szerelmesek
+🚄	gyorsvasút gyorsvasut gyorsvonat jármű jarmu közlekedés kozlekedes személyszállítás szemelyszallitas vasút vasut
+🐔	állat allat madár madar tyúk tyuk
+🤼	birkózás birkozas birkózó birkozo birkózók birkozok harc sport sportoló sportolo
+🍚	étel etel főtt fott rizs főzött fozott
+🏯	épület epulet japán japan kastély kastely
+🩲	alsó also alsónadrág alsonadrag egyrészes egyreszes fürdőgatya furdogatya fürdőnadrág furdonadrag
+🦺	biztonság biztonsag láthatósági lathatosagi mellény melleny mentő mento mentőmellény mentomelleny vészhelyzet veszhelyzet
+🔹	alakzat geometria kék kek kis rombusz
+🔊	hangos hangszóró hangszoro nagy hangerő hangero zene
+🫝	csemegeuborka erjesztés erjesztes ízesítő izesito savanyúság savanyusag sós sos lé le ubi uborka
+🧑‍🔬	biológus biologus fizikus mérnök mernok tudás tudas tudós tudos vegyész vegyesz
+🕺	férfi ferfi flamenco salsa tánc tanc táncol tancol táncoló tancolo táncos tancos tangó tango
+🧙	boszorkány boszorkany boszorkánymester boszorkanymester bűbáj bubaj férfi ferfi mágia magia mágus magus mese varázsige varazsige varázslás varazslas varázslat varazslat varázsló varazslo
+🥄	eszik evés eves evőeszköz evoeszkoz kanál kanal
+🦃	állat allat hálaadás halaadas madár madar mérges merges pulyka szárnyas szarnyas
+🤵	elegáns elegans ember férfi ferfi öltöny oltony szmoking szmokingos vőlegény volegeny
+💈	borbély borbely cégér ceger fodrász fodrasz fodrászcégér fodraszceger hajvágás hajvagas
+🌏	ausztrália ausztralia ázsia azsia ázsiát azsiat és es ausztráliát ausztraliat mutató mutato földgömb foldgomb föld fold földrajz foldrajz világ vilag
+🎿	hó ho síel siel síelés sieles sílécek silecek sport téli teli sportok
+👩‍🔬	fizikus foglalkozás foglalkozas kémikus kemikus matematikus nő no női noi tudós tudos
+👨‍🏭	dolgozó dolgozo férfi ferfi foglalkozás foglalkozas forraszt gyári gyari munkás munkas összeszerel osszeszerel szerel
+🫛	bab borsó borso borsóhüvely borsohuvely edamame hüvely huvely hüvelyes huvelyes zöldség zoldseg
+🔃	frissítés frissites gomb nyíl nyil óramutató oramutato járásával jarasaval megegyező megegyezo irányú iranyu függőleges fuggoleges nyilak újratöltés ujratoltes
+🚡	jármű jarmu kábelvasút kabelvasut kötélpálya kotelpalya kötélpályás kotelpalyas felvonó felvono közlekedés kozlekedes levegő levego
+🐧	állat allat madár madar pingvin
+🚼	baba szimbólum szimbolum kisbaba pelenkázó pelenkazo
+💃	nő no salsa tánc tanc táncol tancol táncoló tancolo táncos tancos táncosnő tancosno tangó tango
+👨‍🎓	diák diak diplomaosztó diplomaoszto diplomázik diplomazik egyetemista férfi ferfi foglalkozás foglalkozas tanuló tanulo
+🌍	afrika európa europa európát europat és es afrikát afrikat mutató mutato földgömb foldgomb föld fold világ vilag
+🏴	halál halal lengő lengo fekete zászló zaszlo
+🔵	alakzat kék kek kör kor
+📡	antenna műhold muhold parabola parabolaantenna tányér tanyer
+📝	ceruza feljegyzés feljegyzes jegyzet lap üzenet uzenet
+🐯	állat allat fej nagymacska ragadozó ragadozo tigris tigrisfej
+👦	fiú fiu kisfiú kisfiu srác srac
+📤	doboz e-mail elküldött elkuldott email kimenő kimeno levél level posta tálca talca
+🥃	alkohol feles ital pia pohár pohar szeszes tömény tomeny whisky
+🐢	állat allat teknőc teknoc teknős teknos teknősbéka teknosbeka
+🎁	ajándék ajandek becsomagolt doboz karácsony karacsony meglepetés meglepetes születésnap szuletesnap ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+👺	álarc alarc arc fantasy japán japan kobold lény leny maszk mérges merges mese szörny szorny
+🧑‍🚀	rakéta raketa űrhajós urhajos / űrhajósnő urhajosno
+👬	barátok baratok barátság baratsag báty baty férfiak ferfiak fiúk fiuk ikrek kézen kezen fogva álló allo öcs ocs pár par randevú randevu randi testvérek testverek
+♓	halak csillagjegy horoszkóp horoszkop
+🐪	állat allat dromedár dromedar egypúpú egypupu teve púposteve puposteve sivatag
+🦗	állat allat bogár bogar ciripel rovar szöcske szocske tücsök tucsok ugrik
+🛑	nyolcszög nyolcszog stop stoptábla stoptabla
+🪽	angyal angyalszárny angyalszarny madár madar mitológia mitologia repül repul repülés repules szárny szarny
+🚰	fogyasztható fogyaszthato víz viz iható ihato ivóvíz ivoviz
+🥗	étel etel saláta salata zöld zold zöldsaláta zoldsalata
+🍃	hulló hullo lebegő lebego levél level növény noveny szél szel szélfútta szelfutta
+🥚	étel etel tojás tojas
+🌯	burrito étel etel mexikói mexikoi
+🚹	férfi ferfi mosdó mosdo férfiak ferfiak férfimosdó ferfimosdo toalett vécé vece wc
+🐦‍🔥	fantasy feltámad feltamad főnix fonix halhatatlan reinkarnáció reinkarnacio tűzmadár tuzmadar újjászületés ujjaszuletes
+🦝	állat allat kíváncsi kivancsi mosómaci mosomaci mosómedve mosomedve ravasz
+🔙	nyíl nyil vissza visszafelé visszafele
+🚎	busz jármű jarmu közlekedés kozlekedes troli trolibusz
+⏩	dupla nyíl nyil előre elore előretekerés eloretekeres gomb gyors tekerés tekeres
+👻	arc fél fel félelmetes felelmetes ijesztő ijeszto kísértet kisertet lény leny mese szellem szörny szorny
+📼	kazetta szalag vhs videó video videokazetta
+🎇	csillagszóró csillagszoro tűzijáték tuzijatek ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+📔	borító borito díszes diszes díszkötés diszkotes egyetem füzet fuzet iskola jegyzet jegyzetfüzet jegyzetfuzet díszkötésben diszkotesben könyv konyv oktatás oktatas olvas olvasás olvasas tanul tanulás tanulas
+🕒	00 3 3:00 egész egesz óra ora három harom idő ido
+🥾	bakancs barna cipő cipo erdő erdo hátizsákos hatizsakos túra tura hegymászás hegymaszas kemping szabad levegő levego túrabakancs turabakancs túrázás turazas vadon
+🍼	baba cumi cumisüveg cumisuveg ital tej újszülött ujszulott
+📧	e-mail email levél level
+🎫	belépő belepo belépőjegy belepojegy jegy
+💶	bank bankjegy bankó banko euró euro gazdag papírpénz papirpenz pénz penz pénznem penznem valuta
+🌁	időjárás idojaras köd kod ködös kodos
+🥛	egy pohár pohar tej ital
+🤱	baba etet kisbaba mell szoptat szoptatás szoptatas
+🦕	állat allat brachiosaurus brontosaurus dínó dino dinoszaurusz diplodocus kihalt őslény osleny sauropoda
+📣	hangosbeszélő hangosbeszelo megafon szurkolás szurkolas
+🦧	állat allat emberszabású emberszabasu majom orangután orangutan
+📫	csukott levelesláda leveleslada felemelt zászlóval zaszloval levél level postaláda postalada
+🌿	gyógynövény gyogynoveny levél level növény noveny
+🦈	állat allat cápa capa hal
+🥽	búvár buvar búvárszemüveg buvarszemuveg hegeszt hegesztés hegesztes hegesztőszemüveg hegesztoszemuveg merülés merules szemüveg szemuveg szemvédelem szemvedelem szemvédő szemvedo úszás uszas védőszemüveg vedoszemuveg
+🚧	közlekedés kozlekedes sorompó sorompo útépítés utepites
+😼	arc cica fanyar irónia ironia ironikus macska mosollyal macskaarc mosoly szmájli szmajli
+🐝	állat allat darázs darazs dongó dongo háziméh hazimeh méh meh méhecske mehecske rovar tavasz természet termeszet
+🧑‍🎨	festő festo művész muvesz paletta
+🪚	ács acs asztalos fa fűrész furesz rókafarkú rokafarku szerszám szerszam vágás vagas
+🧌	képzelet kepzelet szörny szorny troll tündérmese tundermese
+🪜	fok létra letra létrafok letrafok mászás maszas
+🍢	étel etel grillezés grillezes japán japan kebab nyárs nyars oden saslik
+🎬	csapó csapo film filmfelvétel filmfelvetel filmforgatás filmforgatas forgatás forgatas mozi
+🤝	alku alkut köt kot kéz kez kezet ráz raz kézfogás kezfogas megállapodás megallapodas megegyezés megegyezes találkozás talalkozas üdvözlés udvozles
+🛄	csomag felvétel felvetel poggyász poggyasz poggyászfelvétel poggyaszfelvetel repülő repulo utazás utazas
+💍	ékszer ekszer eljegyez eljegyzési eljegyzesi gyűrű gyuru gyémánt gyemant házasság hazassag jegyben jár jar jegyes lánykérés lanykeres megkéri megkeri a kezét kezet romantika
+✅	jel kész kesz pipa vastag fehér feher
+💡	fény feny képregény kepregeny ötlet otlet világítás vilagitas villanykörte villanykorte
+🤠	arc boldog cowboy kalapos fej cowboykalapos kalap nevet szmájli szmajli
+🔆	fényerő fenyero világosítás vilagositas gomb
+🩷	cuki rózsaszín rozsaszin szerelem szív sziv tetszik
+🧥	dzseki hideg kabát kabat ruházat ruhazat télikabát telikabat
+🚥	kereszteződés keresztezodes közlekedési kozlekedesi lámpa lampa vízszintes vizszintes
+🏀	kosár kosar kosárlabda kosarlabda labda sport
+🚃	elektromos kocsi közlekedés kozlekedes vasút vasut vasúti vasuti villamos vonat
+🥍	bot gól gol kapu labda labdajáték labdajatek lacrosse sport ütő uto
+🏓	asztalitenisz labda pingpong sport ütő uto
+🫚	fűszer fuszer gyökér gyoker gyömbér gyomber gyömbérgyökér gyombergyoker sör sor
+🪨	kemény kemeny kő ko kőszikla koszikla nehéz nehez szikla
+🎐	csengő csengo harang harangjáték harangjatek szél szel szélcsengő szelcsengo szélharang szelharang ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+🥤	dzsúz dzsuz ital ivólé ivole papírpohár papirpohar pohár pohar szívószállal szivoszallal szénsavas szensavas szívószál szivoszal szóda szoda üdítő udito üdítőital uditoital
+🙍	csüggedt csuggedt homlokát homlokat ráncolja rancolja mérges merges rosszallás rosszallas rosszalló rosszallo ember tekintet rosszkedvű rosszkedvu szemöldökét szemoldoket szomorú szomoru
+🩶	ezüst ezust pala szív sziv szürke szurke
+🪏	ás as ásó aso elás elas hó ho kert lapát lapat lyuk ültet ultet
+🔅	fényerő fenyero sötétítés sotetites gomb
+🦀	állatöv allatov csillagjegy rák rak
+🍌	banán banan gyümölcs gyumolcs kálium kalium
+👨‍🔧	férfi ferfi foglalkozás foglalkozas szerelő szerelo villanyszerelő villanyszerelo vízszerelő vizszerelo
+🔯	csillag hatágú hatagu ponttal judaizmus szerencse vallás vallas zsidó zsido
+🧑‍🏭	dolgozó dolgozo gyári gyari munkás munkas
+🎑	hold holdünnep holdunnep ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+🏩	épület epulet love hotel szálló szallo szerelmeseknek szálloda szalloda szerelmi fészek feszek
+🏐	játék jatek labda röpi ropi röplabda roplabda sport
+📬	felemelt levél level levelesláda leveleslada nyitott zászlóval zaszloval postaláda postalada postás postas
+📐	derékszögű derekszogu háromszög haromszog háromszögvonalzó haromszogvonalzo matek matematika szög szog vonalzó vonalzo
+🪟	ablak átlátszó atlatszo friss levegő levego keret kilátás kilatas nyílás nyilas
+👨‍🔬	biológus biologus férfi ferfi fizikus foglalkozás foglalkozas kémikus kemikus matematikus tudós tudos
+🍆	étel etel növény noveny padlizsán padlizsan zöldség zoldseg
+🪤	csalétek csaletek csali csapda egércsapda egercsapda egérfogó egerfogo sajt
+👩	felnőtt felnott hölgy holgy nő no
+🐭	állat allat egér eger egérfej egerfej fej
+🍻	alkohol bár bar ital koccintás koccintas korsó korso összekoccanó osszekoccano söröskorsók soroskorsok sör sor söröskorsó soroskorso
+🧝	fantasy kobold mágikus magikus manó mano mese tünde tunde varázslat varazslat varázslatos varazslatos
+😙	arc csók csok csókoló csokolo mosolygó mosolygo szemmel puszi szem szmájli szmajli
+🐘	állat allat elefánt elefant
+❕	fehér feher felkiáltás felkialtas felkiáltójel felkialtojel írásjel irasjel központozás kozpontozas
+🤧	arc beteg fej fújja fujja az orrát orrat hapci meg van fázva fazva megfázott megfazott szmájli szmajli tüsszent tusszent tüsszentő tusszento
+🦤	állat allat dodó dodo kihalt madár madar mauritius nagy
+➕	+ jel matek matematika meg plusz pluszjel vastag
+🈴	„minimális pontszám” bekeretezett „megfelelt” képírásjel kepirasjel japán japan gomb
+🥺	arc bociszemek esedező esedezo kegyelem kerek szem kérlek kerlek szépen szepen kérlelő kerlelo kiskutyaszemek könyörgős konyorgos könyörög konyorog lécci lecci légyszi legyszi megszán megszan miért miert ne sóvárog sovarog szomorú szomoru
+🧱	agyag fal habarcs malter tégla tegla téglafal teglafal téglák teglak
+🟧	narancssárga narancssarga négyzet negyzet
+🛒	bevásárlás bevasarlas bevásárló bevasarlo bevásárlókocsi bevasarlokocsi élelmiszer elelmiszer áruház aruhaz kocsi közért kozert shopping szupermarket vásárlás vasarlas
+🥯	bagel kenyér kenyer pékáru pekaru pékség pekseg reggeli szendvics vajkrém vajkrem zsemle
+💯	100 a+ aha egyértelműen egyertelmuen egyetértés egyetertes hűséges huseges igaz igazság igazsag megtartás megtartas mindenképpen mindenkeppen mutatás mutatas remek száz szaz találat talalat teljes tökéletes tokeletes
+🎢	hullámnvasút hullamnvasut hullámvasút hullamvasut játék jatek vidámpark vidampark
+🆖	bekeretezett „ng” rövidítés rovidites gomb ng
+🌱	hajtás hajtas kihajt növény noveny palánta palanta
+👍	cool felfelé felfele mutató mutato hüvelykujj huvelykujj jó jo kéz kez like megbeszéltük megbeszeltuk ok oké oke rendben test ujj
+🙁	arc kissé kisse komor rosszallás rosszallas szmájli szmajli szomorú szomoru
+🐠	állat allat díszhal diszhal hal trópusi tropusi
+🎀	masni szalag ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+🏦	bank épület epulet
+🔴	alakzat kör kor piros
+🟰	egyenlőség egyenloseg egyenlőségjel egyenlosegjel matematika vastag
+🛕	hindu templom
+🚚	autó auto jármű jarmu költözés koltozes költöztetés koltoztetes közlekedés kozlekedes szállítás szallitas teherautó teherauto teherfuvarozás teherfuvarozas
+🌻	nap napraforgó napraforgo növény noveny virág virag
+🤎	barna szív sziv
+🐷	állat allat disznó diszno disznófej disznofej fej malac malacfej
+💣	bomba képregény kepregeny robban robbanás robbanas veszélyes veszelyes
+🚠	hegyi felvonó felvono jármű jarmu kábelvasút kabelvasut közlekedés kozlekedes sílift silift
+🟨	négyzet negyzet sárga sarga
+🕤	30 9 9:30 fél fel tíz tiz harminc idő ido kilenc óra ora
+✋	állj allj fel felemelt kéz kez ne tovább tovabb pacsi stop tenyér tenyer test
+🤛	bal szélső szelso balra néző nezo ököl okol kéz kez
+🈸	„alkalmazás” bekeretezett képírásjel kepirasjel gomb japán japan
+🌺	hibiszkusz növény noveny virág virag
+🧁	cukor cupcake desszert édesség edesseg finomság finomsag pékáru pekaru pékség pekseg
+✊	felemelt kéz kez ököl okol ökölbe okolbe szorított szoritott test ütés utes
+👭	barátnők baratnok barátok baratok barátság baratsag gyerekek húg hug kézen kezen fogva álló allo nők nok kislányok kislanyok lányok lanyok legjobb nővér nover pár par randevú randevu randi szövetség szovetseg testvérek testverek
+🌂	becsukott esernyő esernyo ernyő ernyo eső eso időjárás idojaras kiegészítő kiegeszito
+🍺	alkohol bár bar ital korsó korso sör sor söröskorsó soroskorso
+🌉	éjszaka ejszaka híd hid
+🍞	étel etel kenyér kenyer vekni
+🌚	arc ég eg hold holdfázisok holdfazisok új uj arccal újhold ujhold
+🛟	biztonság biztonsag életmentő eletmento lebeg megment mentőöv mentoov
+😗	arc csók csok csókoló csokolo flört flort puszi randi szerelem szmájli szmajli
+🧑‍🚒	tűzoltó tuzolto / tűzoltónő tuzoltono tűzoltóautó tuzoltoauto
+👩‍💻	fejlesztő fejleszto feltaláló feltalalo foglalkozás foglalkozas kódoló kodolo nő no programozó programozo számítógép szamitogep szoftver
+🪐	bolygó bolygo gyűrűs gyurus szaturnusz
+🦴	csont csontok csontváz csontvaz kutya
+💽	cd dvd lemez minidisc minidisk optikai számítógép szamitogep
+🕌	iszlám iszlam mecset mohamedán mohamedan muszlim vallás vallas
+🧑‍🍳	séf sef szakács szakacs / szakácsnő szakacsno
+🥣	ebéd ebed étel etel gabonapehely leves paradicsomleves reggeli rizskása rizskasa tál tal kanállal kanallal
+👩‍🍳	foglalkozás foglalkozas nő no séf sef szakácsnő szakacsno
+🚝	egysínű egysinu vasút vasut jármű jarmu közlekedés kozlekedes közlekedési kozlekedesi eszköz eszkoz személyszállítás szemelyszallitas vonat
+🔗	kapocs láncszem lancszem
+🔶	alakzat geometria nagy narancssárga narancssarga rombusz narancs
+♏	horoszkóp horoszkop skorpió skorpio csillagjegy
+🥘	étel etel paella serpenyő serpenyo serpenyős serpenyos
+👏	gratulál gratulal kéz kez szép szep munka volt taps tapsol tapsoló tapsolo test
+🥒	étel etel kígyóuborka kigyouborka kovászosuborka kovaszosuborka uborka zöldség zoldseg
+🎍	bambusz fenyő fenyo fenyődekoráció fenyodekoracio japán japan növény noveny ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+🎩	bűvész buvesz cilinder elegáns elegans kalap ruha ruházat ruhazat
+📹	kamera videó video videók videok videokamera
+🫟	csepp festék festek folt folyadék folyadek fröccsenés froccsenes kiömlik kiomlik rendetlenség rendetlenseg tinta
+🫡	derűs derus igen katonák katonak oké oke tisztelgés tisztelges tisztelgő tisztelgo arc
+🔕	áthúzott athuzott harang csengő csengo nem csörög csorog néma nema némítás nemitas némított nemitott tilos tiltott
+🤮	arc beteg hány hany hányó hanyo kidobja a taccsot köp kop öklendezik oklendezik rosszul van szmájli szmajli
+🥎	baseball kar alatti dobás dobas kesztyű kesztyu labda softball sport sportok
+🆑	bekeretezett „cl” rövidítés rovidites cl gomb
+➿	dupla hurok
+🧵	cérna cerna fonal madzag orsó orso tű tu varrás varras
+🦭	állat allat fóka foka oroszlánfóka oroszlanfoka tenger
+📌	irodaszer iskola rajzszög rajzszog
+🧭	irány irany iránytű iranytu mágneses magneses navigáció navigacio tájékozódás tajekozodas
+💘	ámor amor nyila cupido nyíl nyil nyíllal nyillal átlőtt atlott szív sziv romantika szerelem
+🏇	ló lo lovaglás lovaglas lóverseny loverseny lovi sport versenyló versenylo zsoké zsoke
+😶	arc csendes csöndes csondes kellemetlen kifejezéstelen kifejezestelen néma nema nincs szája szaja száj szaj nélküli nelkuli szmájli szmajli
+🍦	desszert édesség edesseg étel etel fagyi fagylalt gépi gepi lágyfagylalt lagyfagylalt tölcséres tolcseres
+😘	arc csók csok csókot csokot dobó dobo flörtöl flortol puszi szeret szeretlek szív sziv szmájli szmajli
+🦓	állat allat csíkos csikos zebra
+🥋	cselgáncs cselgancs dzsúdó dzsudo egyenruha harcművészet harcmuveszet judo karate karateruha ruha sport taekwondo
+😄	arc boldog fogak mosoly nevet nevető neveto mosolygó mosolygo szemmel nyitott száj szaj szájjal szajjal örül orul szem szmájli szmajli vidám vidam
+🔝	csúcsra csucsra nyíl nyil felfelé felfele top
+🧋	bubble tea buborék buborek buborékos buborekos étel etel gyöngy gyongy ital tajvan tej
+🧸	játék jatek játékmackó jatekmacko játszótárs jatszotars mackó macko medve plüss pluss plüssmaci plussmaci plüssmackó plussmacko tömött tomott
+📪	csukott levelesláda leveleslada leengedett zászlóval zaszloval levél level posta postaláda postalada zárt zart
+🛗	akadálymentesítés akadalymentesites felvonó felvono lift
+🕦	11 11:30 30 fél fel tizenkettő tizenketto harminc idő ido óra ora tizenegy
+🚛	autó auto billenős billenos teherautó teherauto fuvar fuvaroz jármű jarmu kamion költözik koltozik költöztetés koltoztetes közlekedés kozlekedes szállít szallit szállítás szallitas teherfuvarozás teherfuvarozas vezet
+😔	arc borzasztó borzaszto csalódott csalodott elgondolkodó elgondolkodo elkeseredett rossz szmájli szmajli szomorú szomoru tűnődő tunodo unott veszít veszit
+👩‍🎨	festő festo festőnő festono foglalkozás foglalkozas művész muvesz nő no női noi paletta
+🧑‍🎓	diák diak végzős vegzos
+🐫	állat allat kétpúpú ketpupu teve púp pup púposteve puposteve sivatag
+🥰	arc három harom szív sziv i love you imád imad imádat imadat mosoly mosolygó mosolygo szívekkel szivekkel rajong románc romanc szerelem szerelmes szeret szeretlek
+🌀	ciklon hurrikán hurrikan időjárás idojaras tájfun tajfun
+🚽	mosdó mosdo toalett vécé vece wc
+👩‍🌾	farmer foglalkozás foglalkozas földműves foldmuves gazda kertész kertesz nő no női noi
+🦹	bűnöző bunozo ember főgonosz fogonosz gazember gonosz gonosztevő gonosztevo rossz szupererő szuperero szupergonosz szuperképesség szuperkepesseg
+🐣	állat allat csibe kikel kikelés kikeles kikelő kikelo kiscsibe kiscsirke madár madar naposcsibe tojás tojas
+📁	fájl fajl fájlmappa fajlmappa mappa
+🦍	állat allat gorilla
+🎆	tűzijáték tuzijatek ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+👋	hello integet integetés integetes integető integeto kéz kez szia viszlát viszlat
+🏸	játék jatek labda sport tollas tollaslabda ütő uto
+❌	áthúzásjel athuzasjel jel mégse megse szorzás szorzas x
+💕	évforduló evfordulo két ket szív sziv randevú randevu randi szerelem szerelmes szívek szivek szeretlek
+📻	rádió radio rádiókészülék radiokeszulek
+👎	elvetés elvetes hüvelykujj huvelykujj lefelé lefele kéz kez mutató mutato nem rossz test
+🪹	fészek feszek fészekrakás feszekrakas üres ures
+👩‍🦽	akadálymentesség akadalymentesseg kerekesszék kerekesszek mozgáskorlátozott mozgaskorlatozott nő no kézi kezi hajtású hajtasu kerekesszékben kerekesszekben tolószék toloszek
+🧉	ital maté mate
+🦾	akadálymentesség akadalymentesseg mechanikus kar prosztetikus protézis protezis
+🎧	fülhallgató fulhallgato zenehallgatás zenehallgatas
+🍤	étel etel garnélarák garnelarak rák rak sült sult tenger gyümölcsei gyumolcsei
+🧖	ember a gőzfürdőben gozfurdoben gőz goz gőzfürdő gozfurdo gőzszoba gozszoba nő no szaunázik szaunazik szauna szaunázás szaunazas
+💥	bumm csattanás csattanas képregény kepregeny robbanás robbanas ütközés utkozes
+🥲	arc büszke buszke hálás halas könny konny meghatott megkönnyebbült megkonnyebbult mosolygó mosolygo könnycseppel konnycseppel mosolyog
+🚬	cigaretta cigi dohányzás dohanyzas
+🎷	hangszer szaxi szaxofon zene
+🪥	fogak fogászat fogaszat fogkefe fogmosás fogmosas fürdőszoba furdoszoba higiénia higienia kefe tisztítás tisztitas
+🟣	kör kor lila
+🦟	betegség betegseg csípés csipes láz laz malária malaria rovar szúnyog szunyog vírus virus
+🟪	lila négyzet negyzet
+🤢	arc beteg émelygő emelygo fej hányás hanyas hányingere hanyingere van rosszul szmájli szmajli
+🔇	csendes elnémított elnemitott hangszóró hangszoro hangerő hangero néma nema némított nemitott
+📉	adat csökkenés csokkenes csökkenő csokkeno diagram esik gráf graf lefelé lefele negatív negativ trend
+🟩	négyzet negyzet zöld zold
+🫒	étel etel növény noveny olajág olajag olajbogyó olajbogyo olíva oliva olívabogyó olivabogyo olívaolaj olivaolaj
+👿	arc démon demon fantasy gonosz mérges merges szarvakkal mese ördög ordog rossz szarvak szmájli szmajli
+🌌	csillagrendszer tejút tejut tejútrendszer tejutrendszer űr ur világűr vilagur
+🌆	alkonyat épület epulet este nap naplemente napnyugta város varos városkép varoskep alkonyatkor
+🚞	hegyi vasút vasut jármű jarmu kocsi közlekedés kozlekedes
+🔏	adatvédelem adatvedelem lakat tollal tinta toll töltőtoll toltotoll zár zar
+🦇	állat allat denevér denever drakula vámpír vampir
+🚢	hajó hajo közlekedés kozlekedes óceánjáró oceanjaro utasszállítás utasszallitas utazás utazas vízi vizi jármű jarmu
+🔦	elektronikus elemlámpa elemlampa fény feny világítás vilagitas zseblámpa zseblampa
+🕎	gyertyatartó gyertyatarto hanuka judaizmus menóra menora vallás vallas zsidó zsido
+🪌	dörzsölés dorzsoles eltávolítás eltavolitas hiba írás iras javítás javitas radírozás radirozas rajz tévedés tevedes törlés torles visszavonás visszavonas
+🫣	bámul bamul ijedt kémlelő kemlelo szemű szemu arc kukucskál kukucskal megbabonázott megbabonazott pillant riadt szégyenlős szegyenlos
+🫗	ital kiönt kiont ömlő omlo folyadék folyadek pohár pohar üres ures
+📯	kürt kurt posta postai postakürt postakurt
+🦘	állat allat ausztrália ausztralia erszényes erszenyes kengu kenguru ugrás ugras ugrik
+💼	aktatáska aktataska iroda
+🍜	étel etel evőpálcika evopalcika forró forro gőzölgő gozolgo tál tal gőzölög gozolog tészta teszta
+🐌	állat allat csiga lassú lassu
+♐	horoszkóp horoszkop nyilas csillagjegy
+🍋‍🟩	citrus friss gyümölcs gyumolcs koktél koktel lé le lime margarita mojito salsa tequila trópusi tropusi zöld zold
+🪺	fészek feszek tojásokkal tojasokkal fészekrakás feszekrakas tojások tojasok
+💫	csillag csillagokat lát lat fényes fenyes hullócsillag hullocsillag képregény kepregeny szédülés szedules
+💱	átváltás atvaltas bank pénz penz pénzváltás penzvaltas pénzváltó penzvalto valuta
+⬜	geometria nagy fehér feher négyzet negyzet
+🛫	felszállás felszallas indulás indulas jármű jarmu közlekedés kozlekedes légi legi repülő repulo repülőgép repulogep indulása indulasa utasfelvétel utasfelvetel
+🌸	cseresznye cseresznyevirág cseresznyevirag növény noveny virág virag
+📗	iskola könyv konyv könyvtár konyvtar kötet kotet oktatás oktatas olvas olvasás olvasas regény regeny tanul tanulás tanulas zöld zold
+👲	ember kínai kinai sapkás sapkas sapka
+😃	arc boldog fogak mosoly nagyra nyílt nyilt szemmel mosolygó mosolygo nevet nevetés nevetes nyitott száj szaj szájjal szajjal szmájli szmajli vidámság vidamsag
+💗	idegesség idegesseg izgalom növekvő novekvo szív sziv szívdobogás szivdobogas
+🪅	buli cukor édesség edesseg mexikó mexiko pinyáta pinyata ünnepség unnepseg
+🔬	biológia biologia eszköz eszkoz felszerelés felszereles kísérlet kiserlet laboratórium laboratorium mikroszkóp mikroszkop tudomány tudomany
+🎮	játék jatek kontroller konzol playstation szórakozás szorakozas videojáték videojatek xbox
+🦁	állat allat állatöv allatov csillagjegy fej oroszlán oroszlan oroszlánfej oroszlanfej
+🕣	30 8 8:30 fél fel kilenc harminc idő ido nyolc óra ora
+🫘	bab étel etel hüvelyes huvelyes növény noveny vese vesebab vörösbab vorosbab
+🔻	alakzat geometriai háromszög haromszog lefelé lefele mutató mutato piros
+🪊	hangszer jazz rézfúvós rezfuvos szomorú szomoru zene
+🫠	elolvadó elolvado arc eloszlik eltűnik eltunik folyékony folyekony olvad
+🏅	aranyérem aranyerem érem erem győztes gyoztes medál medal sportérem sporterem
+🧄	fokhagyma ízesítés izesites
+🛴	közlekedés kozlekedes roller
+🪛	csavarhúzó csavarhuzo ezermester laposfejű laposfeju szerszám szerszam
+😤	arc dühös duhos gőz goz győzelem gyozelem mérges merges orrából orrabol gőzt gozt fújtató fujtato siker szmájli szmajli
+🐁	állat allat egér eger
+🫙	befőttesüveg befottesuveg fűszer fuszer szósz szosz tárolás tarolas tároló tarolo üres ures
+🦉	állat allat bagoly bölcs bolcs madár madar
+🧑‍🦽	akadálymentesség akadalymentesseg kerekesszék kerekesszek kerekesszékes kerekesszekes ember
+🔨	javít javit kalapács kalapacs szerel szerszám szerszam
+🕘	00 9 9:00 egész egesz óra ora kilenc
+😵	arc beteg fáradt faradt szédülés szedules szédülő szedulo szmájli szmajli
+💩	arc büdi budi büdös budos kaka kaki kakiarc kakihalom képregény kepregeny
+🤬	arc jelekkel a száján szajan bosszús bosszus cenzúra cenzura csúnyán csunyan beszél beszel dühös duhos elátkoz elatkoz gyalázkodik gyalazkodik káromkodás karomkodas káromkodik karomkodik mérges merges szimbólumok szimbolumok szájon szajon szitkozódik szitkozodik szmájli szmajli
+🔭	csillagászat csillagaszat eszköz eszkoz felszerelés felszereles távcső tavcso
+🎦	film kamera mozi
+🦩	flamingó flamingo színpompás szinpompas trópusi tropusi
+🥑	avokádó avokado étel etel gyümölcs gyumolcs
+👝	kézitáska kezitaska kiegészítő kiegeszito pénztárca penztarca retikül retikul táska taska
+🔞	18 év ev alatt tilos 18-as karika kiskorú kiskoru korhatár korhatar szám szam tiltás tiltas tiltott tizennyolc
+🥩	bárányszelet baranyszelet étel etel hús hus húsdarab husdarab hússzelet husszelet nyers sertésszelet sertesszelet steak szelet
+🌔	domború domboru ég eg éjszaka ejszaka hold holdfázisok holdfazisok növő novo űr ur
+🌛	arc ég eg éjszaka ejszaka első elso negyed negyedben lévő levo hold arccal holdfázisok holdfazisok
+😰	aggódó aggodo arc nyitott szájjal szajjal és es verejtékkel verejtekkel hideg verejték verejtek ideges izzad kék kek kiveri a víz viz száj szaj rohanás rohanas szmájli szmajli
+🧑‍🤝‍🧑	egymás egymas kezét kezet fogó fogo emberek fogás fogas kéz kez kézenfogva kezenfogva pár par
+🍫	csoki csokoládé csokolade desszert édesség edesseg tábla tabla táblás tablas
+🥹	büszke buszke dühös duhos ellenáll ellenall könnyeivel konnyeivel küszködő kuszkodo arc örömteli oromteli sír sir szomorú szomoru
+🔈	hangerő hangero hangszóró hangszoro
+🍘	étel etel japán japan keksz rizs rizskeksz
+♍	horoszkóp horoszkop szűz szuz csillagjegy
+🫫	átalakulás atalakulas ellenállás ellenallas felfedés felfedes feszültség feszultseg maszk szétomlás szetomlas törés tores
+🧚	lepke mese oberon pillangó pillango puck szárny szarny titánia titania tündér tunder tündérmese tundermese
+👉	arra kéz kez jobbra mutató mutato ujjal kézfej kezfej mutatóujj mutatoujj tenyér tenyer test ujj
+🐽	disznó diszno disznóorr disznoorr malac malacorr orr
+🕑	00 2 2:00 egész egesz óra ora idő ido két ket kettő ketto
+💪	befeszített befeszitett bicepsz edzés edzes edzőterem edzoterem erős eros izom kar karizom képregény kepregeny kéz kez test
+🚈	hév hev jármű jarmu közlekedés kozlekedes metró metro vasút vasut
+🏊	sport triatlon úszás uszas úszik uszik úszó uszo
+❗	felkiáltás felkialtas felkiáltójel felkialtojel írásjel irasjel központozás kozpontozas piros
+🍎	alma egészség egeszseg érett erett étel etel gyümölcs gyumolcs növény noveny piros
+👢	csizma kiegészítő kiegeszito lábbeli labbeli női noi nők nok ruha ruházat ruhazat
+💌	levél level romantika szerelem szerelmes szív sziv
+🤯	arc egyáltalán egyaltalan nem elképesztő elkepeszto felfoghatatlan felrobban felrobbanó felrobbano fej megdöbbent megdobbent semmiképpen semmikeppen sokkolt szmájli szmajli
+🫆	biztonság biztonsag bűncselekmény buncselekmeny lenyomat nyom nyomozó nyomozo nyomravezető nyomravezeto jel rejtély rejtely személyazonosság szemelyazonossag törvényszék torvenyszek ujjlenyomat
+🍑	barack étel etel gyümölcs gyumolcs növény noveny őszibarack oszibarack
+🚣	csónak csonak evez evezés evezes evező evezo ember hajó hajo kenu tutaj vízi vizi jármű jarmu
+📿	gyöngyök gyongyok ima imafüzér imafuzer nyaklánc nyaklanc rózsafüzér rozsafuzer vallás vallas
+🈁	„itt” bekeretezett katakana japán japan gomb
+🔎	jobbra mutató mutato nagyító nagyito keresés kereses lencse
+🩰	balett balettcipő balettcipo tánc tanc
+🫺	az ez fogás fogas jobb mutat semleges
+🐲	állat allat fantasy fej mese sárkány sarkany sárkányfej sarkanyfej tündérmese tundermese
+🧀	ementáli ementali étel etel lyukas sajt sajtdarab
+👘	japán japan kimonó kimono ruha ruházat ruhazat
+🪼	csíp csip gerinctelen jaj kocsonyás kocsonyas medúza meduza szúrószerv szuroszerv tengeri
+🪢	csomó csomo hurok kötél kotel madzag tengerészcsomó tengereszcsomo zsineg
+🚔	autó auto érkező erkezo jármű jarmu járőrautó jarorauto közlekedés kozlekedes rendőrautó rendorauto rendőrség rendorseg
+😝	arc kilógó kilogo nyelvvel és es erősen erosen behunyt szemmel borzasztó borzaszto kiöltött kioltott nyelv lehunyt szem szmájli szmajli szörnyű szornyu íz iz
+🐐	állat allat állatöv allatov bak bakkecske csillagjegy kecske sajt
+⛄	hideg hó ho hóember hoember nélkül nelkul időjárás idojaras tél tel
+🔄	csavar frissítés frissites gomb megint nyíl nyil óramutató oramutato járásával jarasaval ellentétes ellentetes irányú iranyu nyilak gombja teker újból ujbol
+📩	boríték boritek nyíllal nyillal e-mail elküldött elkuldott kimenő kimeno levél level nyíl nyil posta
+😻	állat allat arc cica macska mosoly mosolygó mosolygo szív sziv alakú alaku szemmel macskaarc szerelem szmájli szmajli
+🎡	játék jatek kerék kerek óriáskerék oriaskerek vidámpark vidampark
+🕝	2 2:30 30 fél fel három harom harminc idő ido kettő ketto óra ora
+🕚	00 11 11:00 egész egesz óra ora tizenegy
+🕕	00 6 6:00 egész egesz óra ora hat idő ido
+🎄	fa fenyő fenyo fenyőfa fenyofa karácsony karacsony karácsonyfa karacsonyfa ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+💀	csont halál halal halálfej halalfej halott koponya szörny szorny
+😇	áldott aldott angyal arc ártatlanság artatlansag békés bekes dicsfény dicsfeny glória gloria jó jo jóságos josagos lélek lelek mese mosoly mosolygó mosolygo glóriával gloriaval szmájli szmajli
+🙀	állat allat arc fáradt faradt hűha huha ijedt kimerült kimerult macskaarc macska meglepett ó o
+🧾	bizonyíték bizonyitek bizonylat könyvelés konyveles nyugta pénzügyek penzugyek számla szamla számvitel szamvitel
+🏮	bár bar étterem etterem fény feny japán japan lámpa lampa lámpás lampas piros papírlámpa papirlampa
+🩹	kötszer kotszer ragtapasz seb tapasz
+♎	horoszkóp horoszkop mérleg merleg csillagjegy
+🛞	abroncs felni fordul gumiabroncs kerék kerek kör kor
+🍂	avar falevél falevel lehullott levél level növény noveny ősz osz
+👫	barátok baratok férfi ferfi fiú fiu kéz kez a kézben kezben kézen kezen fogva álló allo és es nő no lány lany pár par randevú randevu randi szerelem szerelmesek
+🏺	amfora antik váza vaza edény edeny vízöntő vizonto
+🤗	arc kezek ölelés oleles szmájli szmajli
+🔩	anya csavar és es szerel szerszám szerszam
+🍗	baromfi comb csirke csirkecomb csontos étel etel hús hus kacsacomb libacomb
+😾	állat allat arc cica duzzogás duzzogas duzzogó duzzogo macskaarc macska mérges merges szmájli szmajli
+🫲	bal balra néző nezo kéz kez
+🥕	étel etel répa repa sárgarépa sargarepa zöldség zoldseg
+🍿	étel etel kukorica mozi pattogatott
+🦦	halászó halaszo játékos jatekos vidra
+🍖	csont csontos hús hus étel etel
+😪	álmos almos arc ásít asit fáradt faradt sír sir szmájli szmajli szomorú szomoru
+📭	leengedett levél level levelesláda leveleslada nyitott zászlóval zaszloval posta postaláda postalada postás postas
+🎋	fa japán japan tanabata ünnepi unnepi ünnep unnep hangulat ünneplés unneples
+🥪	kenyér kenyer szendvics
+🚺	mosdó mosdo női noi nők nok toalett vécé vece wc
+🤟	3 ujj három harom kéz kez szeretlek jel kézmozdulat kezmozdulat
+⛪	épület epulet kereszt keresztény kereszteny templom vallás vallas
+📋	írótábla irotabla jegyzetek
+🐦	állat allat madár madar
+🎴	japán japan játék jatek kártya kartya virág virag virágos viragos kártyajáték kartyajatek
+🧑‍🩰	balett táncos tancos
+👩‍🦯	akadálymentesség akadalymentesseg nő no fehér feher bottal vak
+🔀	egymást egymast keresztező keresztezo nyilak nyíl nyil véletlenszerű veletlenszeru lejátszás lejatszas gomb
+🈚	“díjmentes” „ingyenes” bekeretezett képírásjel kepirasjel japán japan gomb
+📸	fényképező fenykepezo vakuval fényképezőgép fenykepezogep kamera vaku videó video
+🫥	elrejtőzik elrejtozik eltűnik eltunik introvertált introvertalt láthatatlan lathatatlan levert pontozott vonalas arc
+🫀	anatómia anatomia kardiológia kardiologia középpont kozeppont piros pulzus szerv szív sziv szívdobogás szivdobogas szívverés szivveres
+🦮	akadálymentesség akadalymentesseg vak vakvezető vakvezeto kutya
+🦬	állat allat bölény boleny csorda
+👴	bácsi bacsi idős idos férfi ferfi kopasz nagyapa nagypapa öreg oreg öregember oregember
+💅	kéz kez kifestés kifestes körmös kormos köröm korom körömápolás koromapolas körömfestés koromfestes körömlakk koromlakk lakk lakkoz manikűr manikur testrész testresz
+🐀	állat allat patkány patkany
+🔛	bekapcsolva jelzés jelzes nyíl nyil
+🎸	elektromos gitár gitar hangszer zene
+🎼	g-kulcs hangjegy kotta violinkulcs zene zenei
+😽	arc cica csók csok csókoló csokolo macskaarc lehunyt szemmel csukott szem macska puszi szmájli szmajli
+🪖	hadsereg harcos katona katonai sisak katonaság katonasag
+❎	áthúzásjel athuzasjel gomb bekeretezett jel négyzet negyzet szoroz szorzás szorzas x
+🫰	csettint drága draga keresztezett mutató- és es hüvelykujjú huvelykujju kéz kez pénz penz szeretet szív sziv
+🛻	autó auto furgon kisteherautó kisteherauto kocsi pick-up pickup szállítás szallitas
+📍	cím cim helyzet kerek rajzszög rajzszog kitűz kituz térkép terkep
+😅	arc hideg verejték verejtek ideges izgatott megúsztam megusztam mosoly nevető neveto verejtékkel verejtekkel nyitott száj szaj szájjal szajjal mosolygó mosolygo stressz szmájli szmajli
+🏨	épület epulet hotel
+👐	kéz kez kitárva kitarva széttárt szettart test
+🗾	földrajz foldrajz japán japan térképe terkepe térkép terkep
+🦊	állat allat fej róka roka rókafej rokafej
+😭	arc boldogtalan könnyek konnyek sír sir sírás siras szmájli szmajli szomorúság szomorusag zokogás zokogas zokogó zokogo
+👂	fej fül ful hall hallás hallas hallgat test testrész testresz
+😴	álmos almos alszik alvás alvas alvó alvo arc fáradt faradt jó jo éjszakát ejszakat éjt ejt lefekvés lefekves ideje szmájli szmajli szundi zzz
+🍟	étel etel gyorsétel gyorsetel gyorskaja hasábburgonya hasabburgonya krumpli sült sult sültkrumpli sultkrumpli
+🚫	behajtani tilos behajtás behajtas frogalom közlekedési kozlekedesi tábla tabla kresz-tábla nincs tiltott
+🚀	jármű jarmu közlekedés kozlekedes rakéta raketa űr ur űrutazás urutazas
+📅	dátum datum naptár naptar
+🏑	bot gyeplabda hoki játék jatek labda sport ütő uto
+🚴	bicikli biciklis biciklista biciklizik kerékpár kerekpar kerékpáros kerekparos kerékpározik kerekparozik sport sportoló sportolo teker
+🪄	boszi boszorkány boszorkany mágus magus pálca palca varázslat varazslat varázsló varazslo varázspálca varazspalca
+🐴	állat allat farm fej ló lo lófej lofej
+🥱	álmos almos arc ásít asit ásítás asitas ásító asito fáradt faradt
+🚦	függőleges fuggoleges közlekedési kozlekedesi lámpa lampa kereszteződés keresztezodes
+🎯	bullseye cél cel céltábla celtabla darts játék jatek szórakozás szorakozas találat talalat telitalálat telitalalat
+👛	kiegészítő kiegeszito női noi pénztárca penztarca pénz penz vásárlás vasarlas
+🎤	hangjegyek karaoke mikrofon zene
+💾	floppy floppylemez hajlékonylemez hajlekonylemez lemez számítógép szamitogep
+😛	arc kinyújtott kinyujtott nyelvvel csipkelődik csipkelodik csúfolódik csufolodik fantasztikus huncutkodik kiöltött kioltott nyelv király kiraly szmájli szmajli
+🦸	hős hos jó jo szupererő szuperero szuperhős szuperhos szuperképesség szuperkepesseg
+🫨	arc földrengés foldrenges meglepődés meglepodes rázkódó razkodo rezeg
+🍄‍🟫	barna gomba étel etel portobello szarvasgomba természet termeszet vega vegán vegan vegetariánus vegetarianus
+🧑‍💼	építész epitesz értelmiségi ertelmisegi irodai dolgozó dolgozo menedzser üzletember uzletember
+🆚	bekeretezett „vs” rövidítés rovidites ellen ellenfél ellenfel kontra szemben versus vs gomb
+🚊	hév hev jármű jarmu közlekedés kozlekedes közlekedési kozlekedesi eszköz eszkoz metró metro nagyvárosi nagyvarosi személyszállítás szemelyszallitas villamos
+🎅	arc fej karácsony karacsony mikulás mikulas télapó telapo ünnep unnep ünneplés unneples
+🛁	fürdés furdes fürdőkád furdokad
+🤰	nő no terhes várandós varandos
+🍧	desszert édesség edesseg étel etel fagyi fagylalt öntettel ontettel öntet ontet
+🧔	szakáll szakall szakállas szakallas ember
+😑	arc érzéketlen erzeketlen flegma kifejezéstelen kifejezestelen meh semleges szmájli szmajli
+🪾	ágak agak csupasz fa faanyag halott kiszáradt kiszaradt levél level nélküli nelkuli tél tel terméketlen termeketlen törzs torzs
+🤓	arc gépmániás gepmanias kocka kockaarc
+⚡	magasfeszültség magasfeszultseg nagyfeszültség nagyfeszultseg veszély veszely vihar villám villam villámlás villamlas
+🧑‍🏫	oktató oktato professzor tanár tanar / tanárnő tanarno
+🏡	családi csaladi ház haz épület epulet kerttel hétvégi hetvegi kert kertes lak nyaraló nyaralo otthon vidéki videki
+⛺	kempingezés kempingezes sátor sator szállás szallas
+🍥	csavart étel etel hal haltorta japán japan torta
+🔰	a kezdő kezdo japán japan szimbóluma szimboluma levél level sárga sarga zöld zold
+🧷	biztosítótű biztositotu biztostű biztostu pelenka punk rock
+📨	beérkező beerkezo bejövő bejovo boríték boritek e-mail fogadás fogadas kézbesíteni kezbesiteni küldött kuldott levél level posta
+🍷	alkohol bár bar bor borospohár borospohar étterem etterem ital pohár pohar vörösbor vorosbor
+🚯	szemét szemet szemetelés szemeteles szemetelni tilos tiltott
+🩺	gyógyszer gyogyszer orvos szív sziv szívhang szivhang sztetoszkóp sztetoszkop
+🌘	ég eg fogyó fogyo kifli alakú alaku hold sarló sarlo holdfázisok holdfazisok
+🐍	állat allat állatöv allatov csillagjegy kígyó kigyo zodiákus zodiakus
+🟥	négyzet negyzet piros vörös voros
+🐦‍⬛	fekete holló hollo madár madar varjú varju vetési vetesi
+🏁	autóverseny autoverseny cél cel forma-1 kockás kockas sport versenyzés versenyzes zászló zaszlo
+📃	csavarodik csavarodó csavarodo dokumentum kunkorodik kunkorodó kunkorodo lap oldal
+🔲	fekete négyzet negyzet alakú alaku gomb
+📶	antenna antennasávok antennasavok mobil mobiltelefon térerő terero
+🏬	áruház aruhaz boltok épület epulet
+🪘	dob hangszer hosszú hosszu konga ritmus ütem utem
+🔣	bevitel szimbólum szimbolum szimbólumok szimbolumok bevitele
+🕋	fekete iszlám iszlam kába kaba kő ko kocka mohamedán mohamedan muszlim vallás vallas
+🪭	félénk felenk forróság forrosag hűtés hutes legyez legyező legyezo összecsukható osszecsukhato kézi kezi tánc tanc
+🥸	álbajusz albajusz álca alca álcázott alcazott arc bajusz inkognító inkognito kém kem orr szemöldök szemoldok szemüveg szemuveg
+🤙	„hívj fel” kézjel kezjel hívás hivas kéz kez
+🚲	bicikli biciklis biciklizik jármű jarmu kerékpár kerekpar kerékpáros kerekparos kerékpározik kerekparozik közlekedés kozlekedes spinning sport teker tekerés tekeres
+👗	ruha ruházat ruhazat vásárlás vasarlas
+🦠	amőba amoba baktérium bakterium mikróba mikroba tudomány tudomany vírus virus
+🏃	fut futás futas futó futo gyors maraton siet sport
+🕧	12 12:30 30 fél fel egy harminc idő ido óra ora tizenkettő tizenketto
+😒	arc boldogtalan mérges merges szmájli szmajli szomorú szomoru unatkozik unott
+📙	egyetem iskola könyv konyv könyvtár konyvtar narancssárga narancssarga oktatás oktatas olvas olvasás olvasas tanul tanulás tanulas
+👔	elegancia hivatalos ing nyakkendővel nyakkendovel komoly nyakkendő nyakkendo ruházat ruhazat
+🧯	elfojt elolt tűz tuz tüzet tuzet olt tűzoltó tuzolto készülék keszulek
+👟	atlétika atletika cipő cipo edzőcipő edzocipo futás futas futócipő futocipo ruha ruházat ruhazat sportcipő sportcipo tornacipő tornacipo
+😫	arc fáradt faradt fáradtság faradtsag szmájli szmajli szomorú szomoru tüsszent tusszent
+🏢	épület epulet iroda irodaépület irodaepulet munka munkahely
+🍩	desszert édesség edesseg étel etel fánk fank
+♈	horoszkóp horoszkop kos csillagjegy
+🤺	kard sport sportoló sportolo vív viv vívás vivas vívó vivo
+🧎	térdel terdel térdelő terdelo ember
+🧑‍🧑‍🧒	család csalad felnőtt felnott gyerek
+⛲	szökőkút szokokut
+🍵	csésze csesze fül ful nélküli nelkuli teáscsésze teascsesze ital tea
+🌲	fa fenyő fenyo fenyőfa fenyofa karácsonyfa karacsonyfa növény noveny örökzöld orokzold
+👩‍🚀	asztronauta foglalkozás foglalkozas nő no rakéta raketa űr ur űrhajós urhajos űrhajósnő urhajosno
+🫦	aggódó aggodo ajkába ajkaba harapó harapo száj szaj félelem felelem flört flort ideges kényelmetlen kenyelmetlen nyugtalan
+🏧	atm atm-jel automata bank bankautomata készpénz keszpenz kiadó kiado pénzfelvétel penzfelvetel
+🥈	érem erem ezüst ezust ezüstérem ezusterem második masodik
+💿	blu-ray cd dvd lemez optikai számítógép szamitogep
+🎣	bot hal hobbi horgászbot horgaszbot horgászik horgaszik horogra akadt pecabot pecázik pecazik sport szabadidő szabadido
+🍪	desszert édesség edesseg étel etel keksz sütemény sutemeny süti suti
+🧬	biológia biologia biológus biologus dns élet elet evolúció evolucio fejlődés fejlodes gén gen gének genek genetika tudomány tudomany
+🎓	diplomaosztó diplomaoszto diplomaosztón diplomaoszton használt hasznalt kalap diplomázás diplomazas diplomázik diplomazik egyetem oktatás oktatas ruha ruházat ruhazat ünneplés unneples
+🪫	akkumulátor akkumulator alacsony elektronikus energiaszint lemerült lemerult töltöttség toltottseg
+🦿	akadálymentesség akadalymentesseg mechanikus láb lab prosztetikus protézis protezis
+⛔	behajtani tilos behajtás behajtas forgalom közlekedési kozlekedesi tábla tabla kresz-tábla nincs tiltott
+🛙	fény feny jelzés jelzes jelzőfény jelzofeny megvilágosodás megvilagosodas navigáció navigacio remény remeny tenger tengeri útmutatás utmutatas
+🍕	étel etel pepperoni pizza sajtos szelet
+🧅	hagyma ízesítés izesites vöröshagyma voroshagyma
+🦖	állat allat dínó dino dinoszaurusz kihalt őslény osleny t-rex t rex t.-rex tyrannosaurus
+😡	arc dühös duhos duzzog duzzogó duzzogo ideges mérges merges szmájli szmajli vörös voros
+🪸	korall korallzátony korallzatony óceán ocean zátony zatony
+⏫	dupla gomb gyors felfelé felfele nyíl nyil
+🟠	kör kor narancssárga narancssarga
+🌄	hajnal hegyek mögött mogott felkelő felkelo nap napfelkelte napkelte reggel
+🐚	kagyló kagylo spirális spiralis tengeri csiga tengerpart
+🩼	bot fogyatékosság fogyatekossag mankó manko mozgássegítő mozgassegito sérülés serules sétapálca setapalca
+😢	arc boldogtalan hiányzik hianyzik könnycsepp konnycsepp sírás siras síró siro szmájli szmajli szomorúság szomorusag
+🧦	harisnya zokni
+💢	a düh duh szimbóluma szimboluma dühös duhos képregény kepregeny mérges merges
+💨	elillan ereget ereszt felhő felho füst fust futás futas gyors képregény kepregeny puki pukizik púzik puzik rohanás rohanas szellent
+😯	arc döbbent dobbent elképedt elkepedt meglepett meglepődött meglepodott szmájli szmajli tátott tatott száj szaj tátva tatva maradt a szája szaja
+👤	árnyék arnyek ember sziluettje melltől melltol felfelé felfele mellszobor sziluett
+🎠	játék jatek körhinta korhinta ló lo a körhintáról korhintarol szórakozás szorakozas vidámpark vidampark
+👮	foglalkozás foglalkozas letartóztat letartoztat rendőr rendor rendőrség rendorseg rendőrtiszt rendortiszt tiszt törvény torveny zsaru
+🧑	felnőtt felnott
+🗼	tokió tokio tokiói tokioi torony
+📳	mobil mobiltelefon rádiótelefon radiotelefon rezgés rezges rezgő rezgo mód mod telefon tiltott
+🏤	épület epulet európai europai posta postahivatal
+👕	alkalmi gallér galler galléros galleros póló polo ing kék kek ruha ruházat ruhazat
+🍴	ebéd ebed ebédszünet ebedszunet éhes ehes evőeszköz evoeszkoz kaja kés kes és es villa tálalás talalas vacsora
+🛃	ellenőrzés ellenorzes poggyász poggyasz átvizsgálása atvizsgalasa vám vam vizsgálat vizsgalat
+🐳	állat allat bálna balna fej fröcskölés frocskoles fröcskölő frocskolo
+👨‍🍼	apa apu apuka etetés etetes férfi ferfi gondozás gondozas kisbaba kisbabát kisbabat etető eteto újszülött ujszulott
+🦯	akadálymentesség akadalymentesseg fehér feher bot vak
+👩‍🚒	foglalkozás foglalkozas nő no tűz tuz tűzoltó tuzolto tűzoltónő tuzoltono
+⛅	felhő felho felhős felhos időjárás idojaras nap egy mögött mogott
+😞	arc boldogtalan borzasztó borzaszto csalódott csalodott lehangolt levert megbukik nem sikerül sikerul okol szmájli szmajli szomorú szomoru veszít veszit
+💤	álmos almos alszik alvás alvas éjszaka ejszaka fáradt faradt jó jo éjszakát ejszakat képregény kepregeny zzz
+🚵	bicikli biciklis biciklista hegy hegyikerékpáros hegyikerekparos kerékpár kerekpar mountain bike sport sportoló sportolo
+👪	család csalad gyerek
+👠	cipő cipo divat kiegészítő kiegeszito magas sarkú sarku magassarkú magassarku nők nok ruha ruházat ruhazat sarok vásárlás vasarlas
+😷	arc egészségügyi egeszsegugyi maszkkal beteg betegség betegseg maszk gyógyszer gyogyszer orvos szmájli szmajli
+🥞	étel etel palacsinta
+🆓	bekeretezett „free” szó szo free gomb ingyen ingyenes szabad
+🏹	fegyver íj ij és es nyíl nyil nyilas sport
+🪈	blockflöte blockflote fafúvós fafuvos fife furulya fuvola zene
+🛂	ellenőrzés ellenorzes utazás utazas útlevél utlevel útlevél-ellenőrzés
+😱	arc félelem felelem félelemtől felelemtol sikoltó sikolto ijedt ijesztő ijeszto munch rémület remulet sikolt sikoly szmájli szmajli
+🐄	állat allat tehén tehen tej
+🔳	alakzat bekeretezett fehér feher négyzet negyzet alakú alaku gomb geometriai
+👩‍🎓	diák diak diplomaosztó diplomaoszto diplomázik diplomazik egyetemista nő no női noi tanuló tanulo
+🐏	állat allat állatöv allatov csillagjegy kos
+🪿	bolondos gágog gagog liba madár madar szárnyas szarnyas
+📥	beérkező beerkezo doboz e-mail email fogadás fogadas levél level posta tálca talca
+🐇	állat allat háziállat haziallat kedvenc kisállat kisallat nyúl nyul nyuszi
+🥐	croissant étel etel francia kifli péksütemény peksutemeny péksüti peksuti reggeli
+🌖	domború domboru ég eg éjszaka ejszaka fogyó fogyo hold holdfázisok holdfazisok homorú homoru
+🦻	akadálymentesség akadalymentesseg fül ful hallókészülékkel hallokeszulekkel hallássérült hallasserult nagyothalló nagyothallo
+🌅	felkelő felkelo nap hajnal napfelkelte napkelte reggel
+🦌	agancs állat allat szarvas
+🌰	étel etel gesztenye mogyoró mogyoro növény noveny
+🧫	baktérium bakterium biológia biologia biológus biologus labor laboratórium laboratorium petri-csésze tenyészet tenyeszet tenyésztés tenyesztes
+🐅	állat allat nagymacska ragadozó ragadozo tigris
+💬	beszéd beszed buborék buborek gépel gepel képregény kepregeny párbeszéd parbeszed sms szövegbuborék szovegbuborek üzenet uzenet
+🚮	környezettudatosság kornyezettudatossag szemét szemet a kukában kukaban szimbólum szimbolum szemetes
+🟦	kék kek négyzet negyzet
+👼	angyal arc baba babaangyal mese
+🚩	építkezés epitkezes golf háromszög haromszog alakú alaku zászló zaszlo piros posta zászlórúd zaszlorud
+😿	arc cica könny konny macska sírás siras síró siro macskaarc szmájli szmajli szomorú szomoru
+😦	arc ijedt ijesztő ijeszto meglepett nyitott száj szaj rosszallás rosszallas rosszalló rosszallo szájjal szajjal szmájli szmajli
+🚍	busz érkezés erkezes érkező erkezo jármű jarmu közlekedés kozlekedes
+⭐	csillag közepes kozepes fehér feher
+🃏	dzsóker dzsoker francia kártya kartya játék jatek joker
+😵‍💫	arc baj hipnotizált hipnotizalt húha huha omg spirál spiral spirálszemű spiralszemu szédül szedul szédülő szedulo zavar zavarodott
+🚾	mellékhelyiség mellekhelyiseg mosdó mosdo toalett vécé vece wc
+🐡	állat allat gömbhal gombhal hal
+♒	horoszkóp horoszkop vízöntő vizonto csillagjegy
+👨‍🦯	akadálymentesség akadalymentesseg férfi ferfi fehér feher bottal látássérült latasserult vak
+🤪	bolond dilis dinnye hülye hulye kicsi lökött lokott nagy őrült orult arc fej szemek szem szmájli szmajli tökfej tokfej
+💜	lila szív sziv
+🤽	póló polo sport víz viz vízilabda vizilabda
+👸	fantasy hercegnő hercegno királykisasszony kiralykisasszony királylány kiralylany királynő kiralyno korona mese mesehős mesehos
+☔	csepp ernyő ernyo esernyő esernyo esőcseppekkel esocseppekkel eső eso időjárás idojaras kiegészítő kiegeszito
+🦋	állat allat lepke pillangó pillango rovar szép szep
+🌒	ég eg éjszaka ejszaka hold holdfázisok holdfazisok kifli növő novo alakú alaku sarló sarlo űr ur
+🔍	balra mutató mutato nagyító nagyito keresés kereses lencse nyomozó nyomozo
+😕	arc bizonytalan nem tudom sajnálom sajnalom szmájli szmajli szomorú szomoru zavart
+🆙	„up!” gomb fel jel up
+🧲	mágnes magnes mágneses magneses negatív negativ patkó patko patkómágnes patkomagnes pozitív pozitiv vonz vonzás vonzas vonzódás vonzodas
+🌝	arc ég eg éjszaka ejszaka hold holdfázisok holdfazisok telihold arccal
+🐊	állat allat krokodil
+🦎	állat allat gyík gyik hüllő hullo
+🤤	arc fej folyik a nyála nyala nyál nyal nyáladzó nyaladzo szmájli szmajli
+🍰	desszert édesség edesseg étel etel gyümölcstorta gyumolcstorta sütemény sutemeny süti suti szelet torta tortaszelet
+🫸	elutasít elutasit jobbra toló tolo kéz kez pacsi stop tol vár var
+💷	bank bankjegy bankó banko font gazdag készpénz keszpenz papírpénz papirpenz pénz penz pénznem penznem valuta
+🧑‍🧒	család csalad felnőtt felnott gyerek
+🚨	autó auto forgó forgo jármű jarmu lámpa lampa mentő mento rendőr rendor rendőrautó rendorauto villogója villogoja riaszt sziréna szirena tűzoltó tuzolto vészhelyzet veszhelyzet villogó villogo
+👳	ember turbán turban turbános turbanos
+🦼	akadálymentesség akadalymentesseg kerekesszék kerekesszek motoros
+🎂	desszert édesség edesseg étel etel sütemény sutemeny süti suti születésnap szuletesnap születésnapi szuletesnapi torta szülinap szulinap
+📴	kikapcsolva mobil mobiltelefon rádiótelefon radiotelefon telefon tiltott
+🪶	madár madar madártoll madartoll repülés repules toll tollazat
+🧰	barkácsolás barkacsolas doboz láda lada piros szerelő szerelo szerszám szerszam szerszámok szerszamok szerszámos szerszamos szerszámosláda szerszamoslada
+🚋	jármű jarmu kocsi közlekedés kozlekedes villamos villamoskocsi
+🔢	1234 bevitel számbevitel szambevitel számok szamok
+🍮	desszert édesség edesseg étel etel puding
+🔺	alakzat felfelé felfele mutató mutato piros háromszög haromszog fölfelé folfele geometriai
+🎻	hangszer hegedű hegedu zene
+🪴	cserepes növény noveny virág virag gondozás gondozas hasztalan szoba szobanövény szobanoveny unalmas
+🛵	jármű jarmu közlekedés kozlekedes motor robogó robogo vespa
+🎒	hátizsák hatizsak iskola iskolatáska iskolataska kiegészítő kiegeszito táska taska
+🦛	állat allat víziló vizilo
+🔸	alakzat geometria kis narancssárga narancssarga rombusz narancs
+🐬	állat allat delfin flipper óceán ocean tengerpart
+🧿	amulett bűbáj bubaj gonoszűző gonoszuzo gyöngy gyongy kék kek nazar rontás rontas szem talizmán talizman
+🥼	doktor dr fehér feher köpeny kopeny kísérlet kiserlet laboratóriumi laboratoriumi laborköpeny laborkopeny orvos orvosi ruha tudós tudos
+🔮	gömb gomb jós jos jóslás joslas jósnő josno jövendő jovendo jövendőmondás jovendomondas jövő jovo kristálygömb kristalygomb mese
+🌕	ég eg éjszaka ejszaka hold holdfázisok holdfazisok telihold űr ur
+💧	csepp hideg időjárás idojaras izzadság izzadsag képregény kepregeny könny konny könnycsepp konnycsepp szomorú szomoru vicces víz viz
+🎌	japán japan keresztbe tett zászlók zaszlok ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+🚒	jármű jarmu közlekedés kozlekedes tűz tuz tűzoltó tuzolto tűzoltóautó tuzoltoauto tűzoltóság tuzoltosag
+🤶	anyó anyo karácsony karacsony mikulás mikulas felesége felesege ruhás ruhas ünnep unnep
+🆒	bekeretezett „cool” szó szo cool gomb laza
+🥀	hervadt rózsa rozsa virág virag
+🖤	fekete gonosz rossz szív sziv
+🚓	autó auto jármű jarmu járőrautó jarorauto közlekedés kozlekedes rendőr rendor rendőrautó rendorauto rendőrség rendorseg
+🥅	háló halo kapu sport
+🍁	falevél falevel juhar juharlevél juharlevel levél level növény noveny ősz osz
+🧈	tejtermék tejtermek vaj
+🐶	állat allat fej kedvenc kisállat kisallat kiskutya kutya kutyafej
+🚭	cigaretta dohányozni dohanyozni tilos dohányzás dohanyzas tiltott
+⚽	foci focilabda futball labda labdarúgás labdarugas sport
+🧑‍💻	fejlesztő fejleszto feltaláló feltalalo informatikus programozó programozo szoftver
+🧡	narancssárga narancssarga szív sziv
+🌙	ég eg éjszaka ejszaka hold holdfázisok holdfazisok kifli alakú alaku növekvő novekvo sarló sarlo
+🛀	fürdés furdes fürdik furdik fürdő furdo ember fürdőkád furdokad
+🕡	30 6 6:30 fél fel hét het harminc hat idő ido óra ora
+🪗	hangszer harmonika tangóharmonika tangoharmonika zene
+🥊	boksz bokszkesztyű bokszkesztyu box boxkesztyű boxkesztyu kesztyű kesztyu sport
+🔷	alakzat geometria kék kek nagy rombusz
+📕	becsukott könyv konyv csukott egyetem iskola oktatás oktatas olvas olvasás olvasas piros tanul tanulás tanulas tudás tudas
+🎪	cirkusz cirkuszsátor cirkuszsator sátor sator
+🧊	hideg jég jeg jéghegy jeghegy jégkocka jegkocka
+🫌	átalakulás atalakulas átváltozás atvaltozas hernyó hernyo remény remeny rovar törékeny torekeny változás valtozas vándorlás vandorlas
+🧺	gazdálkodás gazdalkodas kosár kosar mosás mosas növénytermesztés novenytermesztes piknik szennyes tanya
+🫓	étel etel kenyér kenyer lapos laposkenyér laposkenyer lepénykenyér lepenykenyer naan pita
+🔖	könyvjelző konyvjelzo
+🤕	arc bekötött bekotott fejjel beütötte beutotte a fejét fejet fáj faj fej kötés kotes sérülés serules szmájli szmajli
+🎃	halloween töklámpa toklampa töklámpás toklampas ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+🍨	desszert édesség edesseg étel etel fagyi fagylalt fagylaltkehely
+⬛	alakzat geometria nagy fekete négyzet negyzet
+🩵	cián cian pávakék pavakek szív sziv világoskék vilagoskek
+◽	alakzat geometria kis-közepes fehér feher négyzet negyzet
+🥶	arc befagy didereg elkékült elkekult fagyás fagyas fagyos fagyoskodik fázik fazik hideg hűvös huvos jégcsap jegcsap jégcsapok jegcsapok jéghideg jeghideg kék kek megfagy mínusz minusz vacog
+🪪	azonosító azonosito biztonság biztonsag engedély engedely hitelesítő hitelesito adatok igazolvány igazolvany személyi szemelyi
+📵	mobil mobiltelefon használata hasznalata tilos telefon tiltott
+😋	arc fini finom ételt etelt élvező elvezo jóízű joizu megnyalja a száját szajat utána utana mosoly nyami nyelv szmájli szmajli
+🫵	felhasználóra felhasznalora mutató mutato ujj mutat te
+🙋	boldog én en tudom felemeli a kezét kezet integet intés intes jelentkezik kézmozdulat kezmozdulat vidám vidam vidáman vidaman intő into ember
+🐵	állat allat fej majom majomfej
+🪵	fa faanyag farönk faronk rönk ronk
+🧑‍🧒‍🧒	család csalad felnőtt felnott gyerek
+🍡	dango desszert édesség edesseg étel etel gombóc gomboc japán japan nyárs nyars pálca palca
+🎥	felvétel felvetel felvevő felvevo film kamera mozi
+⌚	idő ido karóra karora óra ora
+🫕	csokoládé csokolade étel etel fondü fondu lábas labas olvasztott sajt sí si svájci svajci
+🕠	30 5 5:30 fél fel hat harminc idő ido óra ora öt ot
+🤲	felfelé felfele fordított forditott tenyerek ima imádkozik imadkozik imádság imadsag kér ker kéz kez kezek koldul könyörgés konyorges könyörög konyorog köszönet koszonet tenyér tenyer tenyérrel tenyerrel tölcsér tolcser tölcsért tolcsert formáz formaz
+🙊	állat allat bocsánat bocsanat elnézést elnezest elszóltam elszoltam magam hoppá hoppa majom nem beszél beszel szól szol semmit szólok szolok tilos titok
+🐞	állat allat bogár bogar katica katicabogár katicabogar rovar
+🪃	ausztrália ausztralia bumeráng bumerang fegyver visszajön visszajon visszarepül visszarepul
+🈹	„engedmény” bekeretezett képírásjel kepirasjel japán japan gomb
+🧜	hableány hableany hablegény hablegeny mese óceán ocean sellő sello szirén sziren tündérmese tundermese
+🐙	állat allat óceán ocean oktopusz polip
+🧢	baseball sapka baseballsapka kiegészítő kiegeszito ruházat ruhazat sildes
+🦞	állat allat homár homar ollók ollok rák rak rákleves rakleves tenger gyümölcsei gyumolcsei tengeri étel etel
+🍒	cseresznye étel etel gyümölcs gyumolcs meggy növény noveny
+🌠	csillag csillaghullás csillaghullas ég eg hullócsillag hullocsillag
+🥭	déligyümölcs deligyumolcs étel etel gyümölcs gyumolcs mangó mango trópusi tropusi
+🌭	étel etel hot dog hotdog kifli kolbász kolbasz mustár mustar virsli
+🫈	erdő erdo jeti nagyláb nagylab óriás orias sasquatch vadember
+💎	drágakő dragako ékkő ekko ékszer ekszer eljegyzés eljegyzes érték ertek értékes ertekes esküvő eskuvo gyémánt gyemant romantika
+🪠	dugulás dugulas kaki pumpa vécé vece vécépumpa vecepumpa vízvezeték-szerelő wc wc-pumpa
+🚗	autó auto jármű jarmu kocsi közlekedés kozlekedes vezet vezetés vezetes
+🧨	dinamit fény feny petárda petarda pukkan robban robbanószer robbanoszer szikra tűz tuz tüzijáték tuzijatek tűzijáték
+🕢	30 7 7:30 fél fel nyolc harminc hét het idő ido óra ora
+😖	arc frusztrált frusztralt mérges merges összezavarodott osszezavarodott szmájli szmajli szomorú szomoru zavart
+🧗	hegy hegymászás hegymaszas mászás maszas mászó maszo ember megmászik megmaszik sziklamászás sziklamaszas sziklamászó sziklamaszo
+📏	egyenes felszerelés felszereles iskola matek matematika mérés meres vonalzó vonalzo
+🧛	drakula élőhalott elohalott fogak vámpír vampir vér ver
+🟡	kör kor sárga sarga
+🦥	lajhár lajhar lassú lassu lusta
+🧩	darab illeszkedik illeszkedő illeszkedo kirakó kirako nyom összekapcsolódó osszekapcsolodo puzzle
+🚕	autó auto jármű jarmu közlekedés kozlekedes személyszállítás szemelyszallitas taxi
+🈺	„működik” bekeretezett képírásjel kepirasjel gomb japán japan nyitva
+🥙	étel etel falafel gírosz girosz gyros kebab pita töltött toltott
+🙃	arc fejjel lefelé lefele fordult szmájli szmajli
+🌎	amerika amerikát amerikat mutató mutato földgömb foldgomb föld fold földrajz foldrajz világ vilag
+🫐	áfonya afonya bogyó bogyo bogyós bogyos gyümölcs gyumolcs étel etel fekete
+🍔	burger étel etel gyorskaja hambi hamburger sajtburger
+😐	arc flegma kifejezéstelen kifejezestelen közömbös kozombos meh nem nevet vicces pókerarc pokerarc rezzenéstelen rezzenestelen semleges szmájli szmajli unott
+💰	bank dollár dollar drága draga fizet gazdag nyer pénz penz pénzeszsák penzeszsak zsák zsak
+🏏	játék jatek krikett labda sport ütő uto
+💞	évforduló evfordulo forgás forgas forgó forgo szívek szivek szerelem szeretlek szív sziv
+🐋	állat allat bálna balna óceán ocean tengerpart
+🥳	arc buli bulizó bulizo csákó csako duda hurrá hurra izgatott kalap partiarc party születésnap szuletesnap szülinap szulinap ünnep unnep ünneplés unneples
+🌞	arc égitest egitest hőség hoseg időjárás idojaras nap arccal napfény napfeny napos strand
+🍄	gomba növény noveny
+🤩	arc azta csillag csillagos szemű szemu csillagszemű csillagszemu elbűvölt elbuvolt elragadtatott fülig fulig ér er a szája szaja hű hu izgatott szemek szmájli szmajli vigyorgó vigyorgo vigyorog
+🛅	csomag csomagmegőrző csomagmegorzo megőrzés megorzes poggyász poggyasz poggyászmegőrző poggyaszmegorzo
+⭕	alakzat kör kor nagy vastag o piros
+🌈	aszexuális aszexualis biszexuális biszexualis büszke buszke büszkeség buszkeseg eső eso homoszexuális homoszexualis időjárás idojaras interszexuális interszexualis kérdéses kerdeses kíváncsi kivancsi leszbikus lgbt lmbt meleg omniszexuális omniszexualis pánszexuális panszexualis szivárvány szivarvany természet termeszet transznemű transznemu transzszexuális transzszexualis
+💛	sárga sarga szív sziv
+💋	ajkak csók csok csóknyom csoknyom romantika rúzs ruzs rúzsfolt ruzsfolt rúzsnyom ruzsnyom szenvedély szenvedely
+📓	füzet fuzet jegyzetek jegyzetfüzet jegyzetfuzet
+⏳	homok homokóra homokora csordogáló csordogalo homokkal idő ido lejár lejar letelik nem lejárt lejart telik várakozás varakozas
+🩸	gyógyszer gyogyszer menstruáció menstruacio seb sebesülés sebesules sérülés serules véradás veradas vércsepp vercsepp vérvétel vervetel vérzés verzes
+🍐	étel etel gyümölcs gyumolcs körte korte növény noveny
+🐂	állat allat állatöv allatov bika csillagjegy ökör okor
+👖	farmer farmernadrág farmernadrag nadrág nadrag ruha ruházat ruhazat vásárlás vasarlas
+🟫	barna négyzet negyzet
+🐃	állat allat bölény boleny víz viz vízibölény viziboleny
+⚾	baseball baseball-labda labda sport
+🪙	arany dollár dollar érme erme euró euro ezüst ezust fém fem kincs pénz penz
+🤞	drukkolok keresztezett ujjak kéz kez sok szerencsét szerencset szerencse szorítok szoritok ujj
+🥿	balenira balerina balerinacipő balerinacipo balettcipő balettcipo belebújós belebujos cipő cipo kényelmes kenyelmes lapos sarkú sarku mamusz mokaszin papucs
+💒	épület epulet esküvő eskuvo kápolna kapolna romantika
+🤾	dob kézilabda kezilabda labda sport sportoló sportolo
+🕟	30 4 4:30 fél fel öt ot harminc idő ido négy negy óra ora
+🙉	állat allat fül ful hall majom nem figyel semmit hallottam tilos titok
+🧏	akadálymentesség akadalymentesseg fül ful hall hallássérült hallasserult nagyothalló nagyothallo siket ember
+🈲	„tiltott” bekeretezett „tiltás” képírásjel kepirasjel japán japan gomb tilos
+🐸	állat allat béka beka békafej bekafej fej
+⏪	dupla nyíl nyil gyors tekerés tekeres vissza visszatekerés visszatekeres gomb
+🌮	étel etel mexikói mexikoi taco
+💸	bank bankjegy bankó banko dollár dollar fizet készpénz keszpenz kifizet papírpénz papirpenz pénz penz szárnyakkal szarnyakkal repülés repules szárnyak szarnyak
+🙅	kézjel kezjel ki van zárva zarva kizárt kizart nem szabad szó szo sem lehet róla rola tilos tiltás tiltas mutatása mutatasa tiltást tiltast mutató mutato nő no tiltott
+🧑‍🎤	előadóművész eloadomuvesz énekes enekes rock színés szines sztár sztar
+🫅	király kiraly koronás koronas személy szemely méltóság meltosag nemes uralkodó uralkodo uralkodói uralkodoi
+📘	egyetem iskola kék kek könyv konyv könyvtár konyvtar oktatás oktatas olvas olvasás olvasas tanul tanulás tanulas
+🪍	befogás befogas csapda gyűjtés gyujtes háló halo
+🤌	gúnyos gunyos kéz kez kézmozdulat kezmozdulat kihallgatás kihallgatas mi van micsoda mit akarsz összecsippentett osszecsippentett türelem turelem ujjak várj varj
+⚫	alakzat fekete kör kor geometriai
+🧕	fejkendő fejkendo hidzsáb hidzsab kendő kendo mantilla nő no fejkendővel fejkendovel ruházat ruhazat tichel
+📚	iskola könyv konyv könyvek konyvek könyvtár konyvtar oktatás oktatas olvas olvasás olvasas regény regeny tanul tanulás tanulas tanulmányok tanulmanyok tudás tudas
+👨	barát barat báty baty férfi ferfi férj ferj fiú fiu haver öcs ocs társ tars testvér testver
+🧑‍🔧	szaki szerelő szerelo / szerelőnő szerelono villanyszerelő villanyszerelo vízvezeték-szerelő
+👒	kalap női noi nők nok ruha ruházat ruhazat
+🫜	cékla cekla étel etel fehérrépa feherrepa gyökér gyoker kert retek saláta salata vegetáriánus vegetarianus zöldség zoldseg
+💵	bank bankjegy bankó banko dollár dollar köteg koteg papírpénz papirpenz pénz penz pénznem penznem valuta
+👊	egyetért egyetert egyetértek egyetertek felemelt haver kéz kez ököl okol tesó teso test ütés utes ütésre utesre emelt
+⌛	homok homokóra homokora idő ido lejárt lejart letelt óra ora
+🫑	kaliforniai paprika pritamin pritaminpaprika zöldség zoldseg
+🚶	férfi ferfi gyaloglás gyaloglas gyalogos séta seta sétáló setalo túra tura
+🦙	állat allat alpaka guanako guanakó gyapjas gyapjú gyapju láma lama vicuña vicuna
+🎉	buli bulizik konfetti partikellékek partikellekek partizik party szerpentin szilveszter születésnap szuletesnap ünnep unnep ünnepel unnepel ünnepi unnepi hangulat ünneplés unneples
+📛	jelvény jelveny kitűző kituzo név nev névjegytábla nevjegytabla
+🥔	burgonya étel etel krumpli zöldség zoldseg
+🧒	fiatal gyerek gyermek kisgyerek kölyök kolyok
+🥵	arc forró forro forróság forrosag haldoklik hőguta hoguta hőség hoseg izzad izzadás izzadas izzadó izzado lázas lazas liheg megsül megsul nyelv piros vörös voros arcú arcu
+🍶	alkohol bár bar csésze csesze ital japán japan szaké szake üveg uveg
+🉐	„alkalmi vétel” alku bekarikázott bekarikazott „alku” képírásjel kepirasjel japán japan gomb
+♊	horoszkóp horoszkop ikrek csillagjegy
+🤫	arc csend csitító csitito csitt csönd csond csöndesen csondesen csöndre csondre int elhallgattat halkan maradj csendben pszt szmájli szmajli
+📮	doboz levél level levelesláda leveleslada postaláda postalada
+🦷	fehér feher fog fogak fogász fogasz fogorvos
+🩻	csontok csontváz csontvaz orvos orvosi röntgen rontgen röntgenkép rontgenkep
+🔫	fegyver játékpisztoly jatekpisztoly kézifegyver kezifegyver pisztoly revolver vízipisztoly vizipisztoly
+🔁	ismétlés ismetles gomb megint nyíl nyil nyilak óra ora járásának jarasanak megfelelően megfeleloen újból ujbol újra ujra
+🍏	alma egészség egeszseg étel etel gyümölcs gyumolcs növény noveny zöld zold
+🕐	00 1 1:00 egész egesz óra ora egy idő ido
+😁	arc boldog fogak mosoly mosolygó mosolygo szemmel nevető neveto nevet szem szmájli szmajli teli szájjal szajjal
+🩱	egyrészes egyreszes fürdőruha furdoruha
+🐛	állat allat bogár bogar hernyó hernyo kukac rovar százlábú szazlabu
+😲	arc csodálkozó csodalkozo döbbent dobbent elcsodálkozott elcsodalkozott elképedt elkepedt lenyűgözött lenyugozott megdöbbent megdobbent szmájli szmajli
+📟	személyhívó szemelyhivo
+🤘	kéz kez metál metal metálvilla metalvilla ördögvilla ordogvilla rock & roll szarvak ujj
+😮	arc nyitott szájjal szajjal csodálkozás csodalkozas csodálkozik csodalkozik elképed elkeped hihetetlen megdöbben megdobben meglepett meglepődik meglepodik száj szaj ó o szmájli szmajli tátva tatva marad a szája szaja
+🆘	gomb segélykérés segelykeres segítség segitseg sos
+💭	álmodozik almodozik álom alom buborék buborek felhő felho gondol gondolat gondolatbuborék gondolatbuborek gondolkozik képregény kepregeny ötlet otlet
+🐉	állat allat mese sárkány sarkany
+🚟	függő fuggo függővasút fuggovasut jármű jarmu közlekedés kozlekedes vasút vasut
+🫱	jobb jobbra néző nezo kéz kez
+🎶	hangjegy hangjegyek zene
+🈯	„foglalt” bekeretezett képírásjel kepirasjel foglalt japán japan gomb
+👹	arc fantasy félelmetes felelmetes ijesztő ijeszto japán japan lény leny maszk mese ogre ördög ordog óriás orias szörny szorny
+🧑‍🎄	ember karácsony karacsony mikulás mikulas sapka télapó telapo ünnepek unnepek
+🫶	szeretet szív sziv szívet szivet formázó formazo kezek
+💝	ajándék ajandek csók csok puszi szalag szerelem szív sziv szalaggal valentin-nap
+🥇	arany aranyérem aranyerem első elso érem erem medál medal
+🔘	gomb rádiógomb radiogomb választó valaszto választógomb valasztogomb
+🪋	csillag gravitáció gravitacio kőzet kozet tűzgömb tuzgomb világűr vilagur világvége vilagvege zuhanás zuhanas
+🐜	állat allat hangya kert rovar
+🆎	ab gomb vércsoport vercsoport vértípus vertipus
+🧑‍🍼	anya anyu ember etetés etetes gondozás gondozas kisbaba kisbabát kisbabat etető eteto személy szemely mami szoptatás szoptatas újszülött ujszulott
+💻	laptop munka notebook pc számítógép szamitogep
+🏉	labda rögbi rogbi rögbilabda rogbilabda sport
+🐆	állat allat leopárd leopard nagymacska párduc parduc ragadozó ragadozo
+🦡	állat allat borz méhészborz meheszborz
+🦄	egyszarvú egyszarvu fej unikornis unikornisfej
+💊	betegség betegseg doktor gyógyszer gyogyszer kapszula orvos pirula tabletta vitamin
+🐒	állat allat banán banan majom
+👃	fej orr szag szaglás szaglas szagol test testrész testresz
+🧼	buborék buborek darab fürdés furdes szappan szappanhab szappantartó szappantarto tiszta tisztálkodás tisztalkodas tisztaság tisztasag zuhany
+👧	copf fiatal lány lany kislány kislany lányka lanyka
+📜	papír papir papírtekercs papirtekercs pergamen tekercs
+🗿	arc japán japan kő ko kőarc koarc moai szobor
+🔠	abcd betűk betuk bevitel latin nagybetűs nagybetus
+🌵	kaktusz növény noveny sivatag szárazság szarazsag természet termeszet
+♉	bika csillagjegy horoszkóp horoszkop
+🙎	biggyeszt duzzogás duzzogas duzzogó duzzogo ember lány lany nő no grimasz lebiggyeszt lebiggyesztett ajak mérges merges
+🐓	állat allat kakas madár madar
+💓	dobogó dobogo szív sziv érted erted dobog a szívem szivem szerelem szívdobogás szivdobogas
+😟	aggodalmas aggódik aggodik aggódó aggodo arc ideges izgul stresszes szmájli szmajli szomorú szomoru
+🕍	judaizmus szentély szentely templom vallás vallas zsidó zsido zsinagóga zsinagoga
+👶	baba kisbaba kisfiú kisfiu kisgyerek újszülött ujszulott
+🌹	növény noveny romantika rózsa rozsa szenvedély szenvedely szerelem szerelmes virág virag vörös voros
+🔧	csavarkulcs szerel szerszám szerszam villáskulcs villaskulcs
+🪂	ejtőernyő ejtoernyo siklóernyő sikloernyo
+🦨	borz büdös budos bűz buz bűzborz buzborz bűzös buzos bűzösborz buzosborz
+👩‍🏫	foglalkozás foglalkozas nő no oktató oktato professzorasszony tanár tanar tanárnő tanarno tanítónő tanitono
+🌷	növény noveny tulipán tulipan virág virag
+🥠	desszert édesség edesseg étel etel jóslás joslas jóslat joslat szerencsesüti szerencsesuti
+⛽	benzin benzinkút benzinkut dízel dizel kút kut tank tankol tankolás tankolas töltőállomás toltoallomas üzemanyag uzemanyag
+⛎	csillagjegy horoszkóp horoszkop kígyó kigyo kígyótartó kigyotarto
+🌋	katasztrófa katasztrofa kitörés kitores természet termeszet tűzhányó tuzhanyo vulkán vulkan vulkánkitörés vulkankitores
+🛬	érkezés erkezes közlekedés kozlekedes légi legi jármű jarmu leszállás leszallas repülőgép repulogep érkezése erkezese
+🔱	embléma emblema hajó hajo háromágú haromagu szigony horgony jel vasmacska
+💳	bank bankkártya bankkartya fizet hitelkártya hitelkartya kártya kartya
+🏂	hó ho hódeszka hodeszka snowboard snowboardozó snowboardozo téli teli sportok
+🔒	lakat zárt zart zárva zarva
+🔉	hang hangerő hangero hangszóró hangszoro közepes kozepes
+🚑	jármű jarmu közlekedés kozlekedes mentő mento mentőautó mentoauto
+🥻	indiai ruha ruházat ruhazat szári szari
+🈵	„megtelt” bekeretezett „teli” képírásjel kepirasjel japán japan gomb
+🀄	játék jatek kínai kinai madzsong vörös voros sárkány sarkany
+😠	arc dühös duhos mérges merges szmájli szmajli
+😚	arc behunyt szem csók csok csókoló csokolo lehunyt szemmel csókot csokot dob csukott puszi puszit szmájli szmajli
+🧃	édes edes gyümölcslé gyumolcsle gyümölcsleves gyumolcsleves doboz italos ivólé ivole juice szívószál szivoszal
+🦶	boka dobogás dobogas láb lab lábfej labfej rúg rug rúgás rugas tapos tipor topog toporog
+🙆	beleegyezés beleegyezes mutatása mutatasa kézjel kezjel ok oké oke rendben tornázik tornazik
+🎏	hal lobogó lobogo ponty rizspapír rizspapir pontyok ünnep unnep ünnepi unnepi hangulat ünneplés unneples
+💄	ajakrúzs ajakruzs kozmetikum randevú randevu randi rúzs ruzs smink szépségápolás szepsegapolas
+🚘	autó auto érkező erkezo jármű jarmu kocsi közlekedés kozlekedes vezet
+😈	arc fantasy gonosz mese mosoly mosolygó mosolygo szarvakkal ördög ordog rosszindulatú rosszindulatu szarvak
+👓	kiegészítő kiegeszito szem szemüveg szemuveg viselet
+😂	arc örömkönnyekkel oromkonnyekkel haha könnyek konnyek nevetés nevetes öröm orom röhög rohog sírva sirva nevet nevetős nevetos szmájli szmajli vicces
+📂	dosszié dosszie fájl fajl mappa nyitott fájlmappa fajlmappa
+👱	ember férfi ferfi szőke szoke hajú haju
+🌇	alkonyat épületek epuletek lemenő lemeno nap naplemente város varos
+🪀	játék jatek jojó jojo jojózik jojozik
+🎾	labda sport tenisz teniszlabda
+🔼	felfelé felfele gomb nyíl nyil piros
+🥝	étel etel gyümölcs gyumolcs kivi
+🍙	étel etel golyó golyo japán japan rizs rizsgolyó rizsgolyo
+🚜	jármű jarmu traktor
+👨‍💼	alkalmazott férfi ferfi irodista foglalkozás foglalkozas irodai
+🥥	étel etel gyümölcs gyumolcs kókusz kokusz kókuszdió kokuszdio növény noveny pálma palma piña pina colada
+📈	adat diagram emelkedés emelkedes emelkedő emelkedo felfelé felfele gráf graf növekedés novekedes növekvő novekvo trend
+🛐	ima imád imad imádkozik imadkozik imahely vallás vallas
+🚂	gőz goz gőzmozdony gozmozdony jármű jarmu játékmozdony jatekmozdony játékvasút jatekvasut közlekedés kozlekedes mozdony utazás utazas vasút vasut vonat
+🈶	„nem ingyenes” bekeretezett díjmentes” képírásjel kepirasjel fizetős fizetos gomb japán japan nem díjmentes dijmentes
+🪡	cérna cerna hímzés himzes öltés oltes szabászat szabaszat tű tu varrás varras varrat varrótű varrotu
+💏	barát barat barátnő baratno csók csok évforduló evfordulo pár par randevú randevu randi romantika szerelem szív sziv
+🦐	étel etel garnélarák garnelarak kicsi rák rak tengeri
+⏰	ébresztés ebresztes ébresztőóra ebresztoora idő ido óra ora vekker
+🌟	csillag csillog csillogás csillogas éjszaka ejszaka fény feny fényes fenyes fénylő fenylo
+🥮	fesztivál fesztival holdsütemény holdsutemeny ősz osz őszközép oszkozep yuèbǐng yuebing
+🌗	ég eg éjszaka ejszaka hold holdfázisok holdfazisok utolsó utolso negyed negyedben lévő levo
+📀	blu-ray cd dvd lemez optikai számítógép szamitogep zene
+👩‍🏭	dolgozó dolgozo foglalkozás foglalkozas forraszt gyári gyari munkás munkas nő no női noi összeszerel osszeszerel szerel
+🕙	00 10 10:00 egész egesz óra ora idő ido tíz tiz
+🗽	new york szabadság szabadsag szabadság-szobor szobor
+👩‍🦼	akadálymentesség akadalymentesseg kerekesszék kerekesszek mozgáskorlátozott mozgaskorlatozott nő no motoros kerekesszékben kerekesszekben tolószék toloszek
+🚌	busz jármű jarmu közlekedés kozlekedes
+🛼	görkorcsolya gorkorcsolya görkori gorkori kori sport
+👨‍🦽	akadálymentesség akadalymentesseg férfi ferfi kézi kezi hajtású hajtasu kerekesszékben kerekesszekben kerekesszék kerekesszek mozgáskorlátozott mozgaskorlatozott mozgássérült mozgasserult tolószék toloszek
+😳	arc elképedt elkepedt elpirul elpirult elvörösödik elvorosodik hitetlen kellemetlen kételkedő ketelkedo kétkedő ketkedo kidülledt kidulledt szemek kipirult melege van mi okol szmájli szmajli zavarban
+🫏	állat allat csacsi emlős emlos makacs öszvér oszver szamár szamar
+🌃	csillag derült derult idő ido éjszaka ejszaka csillagokkal épület epulet város varos
+👇	kéz kez kézfej kezfej lefelé lefele mutató mutato ujjal mutat mutatóujj mutatoujj tenyér tenyer test ujj
+🥬	burger fodros kel hamburger káposzta kaposzta kelkáposzta kelkaposzta kínai kinai leveles zöldség zoldseg saláta salata
+🩴	flip-flop lábbeli labbeli lábujjközes labujjkozes papucs strandpapucs szandál szandal tangapapucs
+🤭	arc szájra szajra tett kézzel kezzel hirtelen ráébred raebred rájön rajon hoppá hoppa kéz kez a száj szaj előtt elott kuncog nevet röhög rohog rötyög rotyog szmájli szmajli titok vihog
+🌽	cső cso csöves csoves kukorica étel etel kukoricacső kukoricacso növény noveny
+📢	hangos hangosbeszélő hangosbeszelo kikiált kikialt közhírré kozhirre tesz közlemények kozlemenyek megafon
+🔓	kinyitás kinyitas lakat nyitott nyitva
+🍠	burgonya édesburgonya edesburgonya étel etel krumpli sült sult
+🦵	behajlított behajlitott láb lab comb lábfej labfej lábszár labszar rúg rug rúgás rugas térd terd végtag vegtag
+🧍	áll all álló allo ember
+🐼	állat allat fej maci panda pandafej pandamaci
+🕞	3 3:30 30 fél fel négy negy harminc három harom idő ido óra ora
+🤣	arc boldog fej gurul a nevetéstől nevetestol kicsordul könnye konnye könny konny nevet nevetés nevetes nevetséges nevetseges szmájli szmajli vicces
+😉	arc flörtöl flortol húz huz kacsintás kacsintas kacsintó kacsinto szmájli szmajli ugrat
+🪓	balta fa favágás favagas fejsze szekerce vágás vagas
+🎰	félkarú felkaru rabló rablo játékgép jatekgep nyerőgép nyerogep pénzbedobós penzbedobos szerencsejáték szerencsejatek szerencsejátékot szerencsejatekot űz uz
+🍳	étel etel reggeli serpenyő serpenyo sütés-főzés tojás tojas tükörtojás tukortojas
+😩	arc boldogtalan éhes ehes fáradt faradt kimerült kimerult megviselt síró siro sírós siros szmájli szmajli szomorú szomoru
+🦽	akadálymentesség akadalymentesseg kerekesszék kerekesszek kézi kezi hajtású hajtasu tolókocsi tolokocsi tolószék toloszek
+😮‍💨	arc fáradt faradt füst fust fütty futty kifúj kifuj kilégzés kilegzes kimerült kimerult levegőt levegot kifújó kifujo megkönnyebbülés megkonnyebbules sóhaj sohaj sóhajtás sohajtas suttogás suttogas zihálás zihalas
+🪔	diya lámpa lampa olaj olajlámpa olajlampa
+♌	horoszkóp horoszkop oroszlán oroszlan csillagjegy
+➗	÷ jel matematika osztás osztas vastag osztásjel osztasjel
+👩‍🎤	előadó eloado énekes enekes foglalkozás foglalkozas művész muvesz nő no női noi rock színész szinesz sztár sztar
+⚓	hajózás hajozas horgony kikötés kikotes lehorgonyoz vasmacska
+📞	kagyló kagylo telefon telefonkagyló telefonkagylo
+🧘	ember lótuszülésben lotuszulesben jóga joga jógázik jogazik lótuszülés lotuszules meditáció meditacio meditál medital nő no relaxáció relaxacio relaxál relaxal
+😺	állat allat arc cica macska mosoly mosolygó mosolygo macskaarc nyitott szájjal szajjal nevető neveto száj szaj
+💖	csillog izgatott ragyogás ragyogas ragyogó ragyogo szív sziv
+🍣	étel etel japán japan szusi
+💆	arc arcmasszázs arcmasszazs fejfájás fejfajas feszültség feszultseg kozmetika masszázs masszazs masszíroz massziroz relaxáció relaxacio relaxál relaxal szalon szépségszalon szepsegszalon
+🕓	00 4 4:00 egész egesz óra ora idő ido négy negy
+♑	bak csillagjegy horoszkóp horoszkop
+🪰	állat allat betegség betegseg féreg fereg kártevő kartevo légy legy rohadás rohadas rovar
+💲	dollár dollar fizet pénz penz pénznem penznem vastag dollárjel dollarjel
+💚	szív sziv zöld zold
+🚪	ajtó ajto
+💉	eszköz eszkoz fecskendő fecskendo injekciós injekcios tű tu orvos véradás veradas vérvétel vervetel
+🛘	földrengés foldrenges hegy katasztrófa katasztrofa lavina sárlavina sarlavina sziklák sziklak veszély veszely
+🐰	állat allat fej kedvenc kisállat kisallat nyúl nyul nyúlfej nyulfej nyuszi
+📆	fali naptár naptar falinaptár falinaptar
+👨‍🦼	akadálymentesség akadalymentesseg férfi ferfi motoros kerekesszékben kerekesszekben kerekesszék kerekesszek mozgáskorlátozott mozgaskorlatozott tolószék toloszek
+🤨	arc felvont szemöldökkel szemoldokkel bizalmatlan felhúzott felhuzott szemöldökű szemoldoku gyanakvó gyanakvo helytelenít helytelenit hitetlen hitetlenkedő hitetlenkedo hmm kételkedő ketelkedo kétkedő ketkedo meglepett mit nem bízik bizik hiszi el szkeptikus szmájli szmajli tessék tessek
+🤹	egyensúly egyensuly egyszerre kézügyesség kezugyesseg multitask ügyes ugyes zsonglőr zsonglor zsonglőrködik zsonglorkodik
+🫷	balra toló tolo kéz kez elutasít elutasit pacsi stop tol vár var
+🥉	bronz bronzérem bronzerem érem erem harmadik medál medal
+🧽	felszív felsziv lyukacsos nedvszívó nedvszivo porózus porozus szivacs takarít takarit tisztít tisztit tisztítás tisztitas
+🐨	állat allat fej koala koalamaci maci medve
+✨	csillag csillog szikra szikrák szikrak varázslat varazslat
+⛵	hajó hajo jacht közlekedés kozlekedes tenger vitorlás vitorlas vitorlázik vitorlazik vízi vizi jármű jarmu
+🌼	növény noveny virág virag virágzás viragzas
+🏄	hullám hullam sport szörf szorf szörfös szorfos szörfözik szorfozik szörföző szorfozo vízi vizi
+🧐	arc félszemüveggel felszemuveggel monoklival gazdag kifinomult klasszikus mérges merges szmájli szmajli tehetős tehetos vagyonos
+📦	csomag doboz szállítás szallitas
+💮	fehér feher virág virag növény noveny
+🪇	csörgő csorgo hangszer ráz raz rumbatök rumbatok ütőhangszer utohangszer zene
+🤷	közömbös kozombos nem érdekel erdekel rándít randit váll vall vállrándítás vallranditas
+🪎	arany drágakő dragako ékszerek ekszerek érték ertek ezüst ezust gazdagság gazdagsag jutalom pénz penz zsákmány zsakmany
+🧑‍🦼	akadálymentesség akadalymentesseg ember motoros kerekesszékben kerekesszekben kerekesszék kerekesszek
+🙌	felemelt kezek hurrá hurra kéz kez kezét kezet felemelő felemelo ember test ünneplés unneples vidámság vidamsag
+👨‍💻	fejlesztő fejleszto feltaláló feltalalo férfi ferfi foglalkozás foglalkozas kódoló kodolo programozó programozo számítógép szamitogep szoftver
+🪲	állat allat bogár bogar cserebogár cserebogar rovar
+😜	arc kinyújtott kinyujtott nyelvvel és es kacsintó kacsinto szemmel csipkelődik csipkelodik csúfolódik csufolodik huncutkodik kacsintás kacsintas kiöltött kioltott nyelv mosoly szem szmájli szmajli vicc viccelődik viccelodik
+🕗	00 8 8:00 egész egesz óra ora idő ido nyolc
+🥏	frizbi korong repül repul ultimate
+📖	iskola könyv konyv könyvtár konyvtar nyitott oktatás oktatas olvas tanul tudás tudas
+👨‍🚒	férfi ferfi foglalkozás foglalkozas tűz tuz tűzoltó tuzolto
+🆗	bekeretezett „ok” szó szo ok gomb rendben
+🥓	bacon étel etel hús hus szalonna
+🫤	átlós atlos szájú szaju arc bizonytalan csalódott csalodott kétkedő ketkedo meh
+👨‍🎨	férfi ferfi festő festo festőművész festomuvesz foglalkozás foglalkozas művész muvesz paletta
+🎨	festészet festeszet festő festo festőpaletta festopaletta galéria galeria hobbi kreatív kreativ művészet muveszet múzeum muzeum paletta színes szines
+🆔	azonosítás azonositas bekeretezett „id” rövidítés rovidites id gomb identitás identitas
+🛺	motoros riksa tuk
+👌	kéz kez ok jel oké oke perfekt rendben szuper test ujj
+❓	írásjel irasjel kérdés kerdes kérdőjel kerdojel központozás kozpontozas piros
+📷	fényképezőgép fenykepezogep fotó foto kamera utazás utazas
+😥	aggódik aggodik arc boldogtalan csalódott csalodott de megkönnyebbült megkonnyebbult huhh izzadság izzadsag szmájli szmajli szomorú szomoru
+🚇	földalatti foldalatti jármű jarmu közlekedés kozlekedes metró metro utazás utazas
+🍯	bödön bodon csupor édes edes méz mez mézes mezes
+📄	dokumentum felfelé felfele néző nezo oldal lap
+🪑	szék szek ül ul ülés ules
+🤦	arc elkeseredés elkeseredes kéz kez kézbe kezbe temetett nem hiszem el
+🍋	citrom citrusféle citrusfele étel etel gyümölcs gyumolcs keserű keseru növény noveny
+🧟	csontváz csontvaz élőhalott elohalott élőholt eloholt félelmetes felelmetes horror ijesztő ijeszto sétáló setalo halott zombi
+🧶	fonal fonál gombolyag horgol horgolás horgolas köt kot kötés kotes kötöget kotoget
+🍓	eper étel etel gyümölcs gyumolcs növény noveny szamóca szamoca
+📇	forgó forgo kártya kartya névjegykártya nevjegykartya névjegykártyatartó nevjegykartyatarto rolodex tartó tarto
+🌴	fa növény noveny pálma palma pálmafa palmafa strand tengerpart
+🥷	ember harcos nindzsa ninja rejtett rejtőzködés rejtozkodes
+🙂	arc boldog finoman mosolygó mosolygo mosoly szmájli szmajli
+🎲	dobókocka dobokocka játék jatek kocka társas tarsas társasjáték tarsasjatek
+🤴	herceg király kiraly királyi kiralyi koronás koronas
+🏰	épület epulet európai europai kastély kastely vár var
+🧆	csicseriborsó csicseriborso falafel húsgolyó husgolyo
+🪩	buli csillám csillam diszkó diszko diszkógömb diszkogomb tánc tanc tükörgömb tukorgomb
+💇	fodrász fodrasz fodrászat fodraszat haj hajnyírás hajnyiras hajvágás hajvagas nő no fodrásznál fodrasznal szépségápolás szepsegapolas
+😸	állat allat arc cica macska mosoly mosolygó mosolygo nevetés nevetes nevető neveto szemmel macskaarc szem
+💔	egyedül egyedul megszakad a szíve szive összetört osszetort szakít szakit szakítani szakitani szív sziv szomorú szomoru
+🍇	étel etel gyümölcs gyumolcs növény noveny szőlő szolo
+🐾	lábak labak lábnyomok labnyomok mancsnyomok
+🙇	bocsánat bocsanat bocsánatkérés bocsanatkeres elnézést elnezest meditáció meditacio meditál medital meghajlás meghajlas meghajló meghajlo ember meghajol sajnálat sajnalat sajnálom sajnalom
+🧧	ajándék ajandek hong bao hóngbāo hongbao lai see pénz penz piros boríték boritek szerencse szerencsehozó szerencsehozo
+🪷	buddhizmus hinduizmus india lótusz lotusz lótuszvirág lotuszvirag tisztaság tisztasag vietnam virág virag
+🤐	arc összecipzározott osszecipzarozott szájjal szajjal cipzár cipzar nem mond el száj szaj szmájli szmajli titok
+🫂	barátság baratsag egymást egymast ölelő olelo emberek helló hello köszönet koszonet ölel olel ölelés oleles ölelkezés olelkezes ölelkező olelkezo szerelem üdv udv viszlát viszlat
+💦	csepp cseppek csobbanás csobbanas edzés edzes fröccsenés froccsenes izzadság izzadsag izzadságcseppek izzadsagcseppek képregény kepregeny víz viz
+👨‍🚀	férfi ferfi foglalkozás foglalkozas rakéta raketa űr ur űrhajós urhajos űrutazás urutazas
+😏	arc gyanakvó gyanakvo önelégült onelegult szmájli szmajli viccelsz vigyor
+🪝	csapda fogás fogas horog kampó kampo
+🔂	egy szám szam ismétlése ismetlese gomb ismétlés ismetles egyszer még meg nyíl nyil nyilak óra ora járásának jarasanak irányában iranyaban megegyezően megegyezoen megfelelően megfeleloen újra ujra
+🎳	bowling golyó golyo játék jatek sport
+🕥	10 10:30 30 fél fel tizenegy harminc idő ido óra ora tíz tiz
+☕	forró forro gőzölgő gozolgo ital kávé kave koffein reggel reggeli tea
+🔡	abcd betűk betuk bevitel kisbetűs kisbetus latin

@@ -1,1261 +1,1261 @@
 # Mots-clés d'emoji en « lt » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	mygtukas „new“ nauja new simbolis
-🧑‍🤝‍🧑	asmuo laikyti pora ranka rankomis susikibę žmonės susikibusios rankos žmogus
-◽	baltas vidutiniškai mažas kvadratas geometrija
-⛽	degalai degalinė degalų siurblys dujos
-🔓	atidaryta atrakinta spyna
-👄	bučinys burna kūnas lūpdažis lūpos
-🍴	įrankiai maisto gaminimas peilis šakutė ir
-🏒	lazda ledas ledo riedulys ritulio ir ritulys žaidimas
-💦	komiksas lašai prakaitas prakaito lašeliai taškymas
-🎐	skambėti šventė varpelis vėjas vėjo varpeliai
-😼	ironija ironiškai besišypsančios katės snukutis katė nuvargęs nuvargusios šypsena veidas
-😉	flirtas mirksintis veidas mirktelėjimas
-📛	vardas vardo ženklelis
-🚉	geležinkelis stotis traukinys
-💌	laiškas meilė meilės paštas širdis
-🆘	mygtukas „sos“ pagalba simbolis sos
-🛙	jūra jūrinė navigacija nušvitimas signalas šviesa švyturys vedimas viltis
-🍯	maistas medaus puodynė medus puodas saldu
-😿	ašara gyvūnas katė liūdesys veidas verkiančios katės snukutis verkti
-🫜	burokas daržas daržovė ropė runkelis šaknis
-😳	karšta nuraudęs nustebęs raudonis veidas
-🚨	automobilis besisukanti policija policijos automobilio lempa signalinis žibintas sirena šviesa transporto priemonė
-🚌	autobusas mokyklinis transporto priemonė
-🌇	pastatas saulė saulėlydis sutemos
-🔝	į viršų rodyklė su užrašu „top“ viršus
-🙊	beždžionė blogis gyvūnas nekalbu uždrausta užsidengusi burną veidas
-🐙	aštuonkojis gyvūnas vandenynas
-🕦	11 11:30 30 laikas laikrodis pusė dvylikos trisdešimt valandos vienuolika
-🕞	3 3:30 30 laikas laikrodis pusė keturių trisdešimt trys valandos
-🙌	gestas iškėlęs rankas iškelta iškeltos rankos kūnas ranka šventė valio žmogus
-🚗	automobilis transporto priemonė vairavimas
-🕥	10 10:30 30 dešimt laikas laikrodis pusė vienuolikos trisdešimt valandos
-🥱	labanakt nuobodžiaujantis pavargęs veidas žiovaujantis žiovauti
-🐎	arklių varžybos arklys gyvūnas varžytis žirgas žirgų lenktynės
-👩‍🚒	gaisrininkė gaisrininkų automobilis moteris
-🪉	arfa instrumentas kupidonas meilė muzika orkestras
-🫁	įkvėpimas iškvėpimas kvėpavimas organas plaučiai
-📲	mobilusis telefonas su rodykle prietaisas rodyklė skambinti
-💚	širdelė žalia
-📶	antena antenos juostos juosta mobilusis ryšys signalas telefonas
-🫦	baimė bučinys flirtas lūpos nepatogu nerimas nervingumas patrauklus prikąsta lūpa susirūpinimas
-🌅	gamta rytas saulė saulėtekis
-🌂	drabužiai lietus skėtis suskleistas
-🍲	maistas puodas su maistu troškinys
-🪜	kopėčios lipti žingsnis
-✅	balta paryškinta varnelė padaryta žymė
-📑	skirtukai skirtukas žyma žymė žymeklis žymių
-👣	drabužiai kūnas pėdsakai pėdsakas
-👀	akis akys kūnas veidas žiūrėti
-🤸	aktyvus gimnastika kūliavirstis laimingas persivertimas šonu susijaudinęs vertimasis kūliais žmogus
-⭕	o ratas ryškus didelis
-😆	besišypsantis išsižiojęs veidas su smarkiai užmerktomis akimis burna cha juokas pasitenkinęs patenkintas praverta šypsena šypsenėlės
-🔄	dejavu mygtukas prieš laikrodžio rodyklę nukreiptų rodyklių rodyklė
-🟢	apskritimas žalias
-🧗	alpinistas kalnas kopiantis žmogus kopimas į kalną uolą laipiotojas uola
-🌟	kibirkštis šviesti žėrėti žėrinti žvaigždė
-🤧	čiaudantis veidas čiaudulys
-🔛	į abi puses rodyklė su užrašu „on!“ žymė
-🪫	akumuliatorius elektronika išeikvota baterija energija išeikvotas mažai energijos
-⏰	laikas laikrodis laukti signalas žadintuvas
-🥕	daržovė maistas morka
-➿	dviguba kilpelė kilpa raityti
-🥂	gėrimas sudaužti sudaužtos taurės šventimas
-🪲	gyvūnas vabalas vabaliukas vabzdys
-🩹	pleistras
-🟧	geometrija kvadratas oranžinis
-📍	apvalus smeigtukas
-😽	akys bučinys bučiuojančios katės snukutis katė veidas
-🐤	gyvūnas mažas viščiukas
-🤵	asmuo su smokingu jaunikis smokingas vyras
-🛼	riedučiai sportas
-🧩	dalis dėlionė galvosūkis raktas susijungiantis žaidimas
-🛝	čiuožykla pramogų parkas šliuožti šliuožykla žaidimų aikštelė žaisti
-🔇	garsiakalbis išjungtas garsumas nutildytas prietaisas tylus
-🏥	gydytojas ligoninė medicina pastatas
-🚔	artėjantis policijos automobilis policija transporto priemonė
-💶	bankas banknotas euras euro pinigai valiuta
-🥭	maistas mangas tropinis vaisius
-🫂	apsikabinę žmonės apsikabinti atsisveikinimas dėkui labas pasisveikinimas viso
-🔳	baltas kvadratinis mygtukas geometrija kontūras kvadratas
-💹	augimas diagrama didėjimo su jenos simboliu jena tendencijos valiuta
-🧺	daiktas iškyla pintinė skalbiniai ūkininkavimas
-😖	piktas suglumęs suglumintas veidas
-🔐	raktas saugu spyna uždaryta užrakinta su raktu
-🈯	hieroglifas japonų rezervavimą reiškiantis rezervuotas
-🏦	bankas pastatas
-🍧	desertas ledas maistas saldu smulkintas susmulkintas
-🧍	stovėti stovintis žmogus
-🟠	apskritimas geometrija oranžinis
-⛔	draudžiama eismas įėjimas įėjimo nėra ne uždrausta
-✊	iškeltas kumštis ranka smūgis sugniaužta
-🌜	delčios mėnulis su veidu ketvirtis veidas
-😹	ašara džiaugsmas džiaugsmo ašaros gyvūnas katė katės snukutis su ašaromis veidas
-🧾	apskaita čekis įrodymai
-🪩	blizgesys diskoteka rutulys šokiai vakarėlis veidrodinis
-🏇	arklių lenktynės arklys jojikas sportas
-👦	anūkas berniukas jaunas sūnus vaikas
-🏸	badmintonas plunksninukas raketė žaidimas
-🥜	maistas riešutas žemės
+🧑‍🧑‍🧒‍🧒	šeima seima suaugusysis vaikas
+🍾	baras butelis su iššokusiu issokusiu kamščiu kamsciu gėrimas gerimas iššauti issauti kamštis kamstis šventė svente
+🉑	hieroglifas japonų japonu sutikimą sutikima reiškiantis reiskiantis sutikimas
+👩‍🔧	elektrikė elektrike mechanikė mechanike moteris prekybininkė prekybininke santechnikė santechnike
 📱	mobilusis prietaisas telefonas
-🕎	menora religija žvakės žvakidė žydų
-🚙	automobilis padidinto pravažumo rekreacijos suv transporto priemonė
-🖤	blogis juoda širdelė širdis
-🪬	amuletas apsauga delnas fatima hamsa marija ranka sėkmė
-🚴	dviračiu važiuojantis asmuo dviratininkas dviratis sportas važiuoti
-🍷	baras gėrimas gerti taurė vynas vyno
-💊	gydytojas kapsulė ligonis medicina piliulė
-🍀	4 augalas dobilas keturi keturlapis lapas
-🪌	anuliuoti ištrinti klaida pašalinti piešimas rašymas taisymas trinti
-😷	gydytojas kaukė medicina šaltis sergantis veidas su medicinine kauke
-📆	data kalendorius nuplėšiamas
-🙉	beždžionė blogis draudžiama gyvūnas klausyti neklausau paslaptis uždrausta užsidengusi ausis veidas
-💱	bankas keitimas pinigai valiuta valiutos
-🩻	gydytojas kaulai medicina rentgenas skeletas
-🏠	namai namas pastatas priemiestis
-📙	biblioteka knyga oranžinė skaitymas žinios
-🥔	bulvė daržovė maistas
-💮	balta gėlė
-🥌	akmenslydis akmuo kerlingas sportas žaidimas
-💩	išmatos išmatų krūvelė kakoti komiksas mėšlas monstras smarvė veidas
-🍳	kepimas keptas kiaušinis keptuvė maistas valgio gaminimas
-🦈	gyvūnas ryklys žuvis
-🌼	augalas gėlė gėlės žiedas kiaulpienė
-😜	akis juokingas liežuvis mirksnis pokštas veidas su iškištu liežuviu ir viena primerkta akimi
-🪁	aitvaras pakilti skristi
-⛎	gyvatė gyvatnešis nešėjas zodiakas
-🍾	baras butelis su iššokusiu kamščiu gėrimas iššauti kamštis šventė
-🧇	geležinis kepinys maistas neaiškus vaflis
-🛞	apskritimas automobilis padanga ratas suktis
-📜	lapas popierius susuktas
-🧎	klūpantis klūpėti žmogus
-🌕	kosmosas mėnulis pilnas pilnatis
-💽	diskas kompiuterio kompiuteris minidiskas optinis
-💙	mėlyna širdelė
-📏	liniuotė matematika tiesi
-🥡	austrių kibirėlis dėžutė išsinešti lazdelės maistas į namus
-🕔	00 5 5:00 laikas laikrodis penkios valandos
-🤩	akys šypsenėlės šypsotis veidas wow žvaigždė žvaigždžių liga
-🟦	kvadratas mėlynas
-🐍	gyvatė gyvatnešis gyvūnas žaltys zodiakas
-🐉	drakonas gyvūnas kinų pasaka
-🪎	auksas brangakmeniai brangakmenis grobis pinigai prizas sidabras turtas vertingi daiktai
-💯	100 pilnas rezultatas šimtas taškų užtikrintai
-🌝	mėnulis pilnatis su veidu šviesu veidas
-♏	skorpionas zodiakas
-🪞	atspindys atšvaitas makiažas reflektorius veidrodis
-💅	kosmetika lakas manikiūras nagai nagų priežiūra
-🫫	atskleidimas atsparumas byrėjimas įtampa lūžis maskavimas transformacija
-🈁	čia reiškiantis hieroglifas japonų mygtukas
-🍵	arbata arbatos puodelis be rankenos gėrimas gerti
-⏳	laikas laikmatis laikrodis smėlio su krentančiu smėliu smėlis
-🌙	kosmosas mėnulis pusė pusmėnulis ramadanas
-🤭	kikenimas paslaptis ups veidas su ranka ant burnos
-🥗	maistas salotos žalios
-🈹	hieroglifas japonų nuolaida nuolaidą reiškiantis
-🔔	bažnyčia pertrauka varpas varpelis
-🦹	asmuo blogas nusikaltėlis piktadarys supergalia supergalios superpiktadarys
-🙎	antakių suraukimas bloga nuotaika gestas grimasa nusiminęs nuvilti raukymasis susiraukęs žmogus verkšlenimas
-🫴	ateik gaudyti kviesti nežinau papasakok ranka delnu į viršų siūlymas
-👨‍🦽	neįgaliųjų prieinamumas vežimėlis vyras rankomis valdomame vežimėlyje
-🙇	atleisk atsiprašau atsiprašymas gailėtis gailiuosi gestas maldauti meditacija medituoti nusilenkęs žmogus nusilenkimas
-🔈	garsiakalbis prietaisas tylus
-🍋‍🟩	citrusinis gaivus garnyras kokteilis margarita mochitas rūgštingumas rūgštus salsa sultys tekila tropinis vaisius žalias žalioji citrina žaliųjų citrinų pyragas žievelė
-🪖	armija kareivis kareiviškas šalmas kariuomenė karys
-🪰	cėcė gyvulinė musė gyvūnas kambarinė mėšlinė negalavimas vabzdys
-👧	dukra jauna mergaitė mergelė zodiakas
-🍂	krenta lapas nukritęs ruduo
-🍝	itališkas patiekalas maistas makaronai pasta spagečiai
-🧑‍🦼	prieinamumas vežimėlis žmogus motorizuotame vežimėlyje
-🏂	slidinėti sniegas snieglenčių sporto mėgėjas snieglentė sportas
-🏬	parduotuvė pastatas prekyba prekybos centras
-🤾	atletas gaudyti kamuolys mesti rankininkas rankinis sportas sviesti žmogus
-🌳	augalas lapuotis medis mesti
-🏐	kamuolys tinklinio tinklinis žaidimas
-🧴	apsauga nuo saulės drėkinamasis kremas losjonas losjono buteliukas šampūnas
-💨	bėgimas dulkės komiksas sukeltos
-🪱	gyvūnas kirmėlė kirmėlės parazitai sliekai
-🫕	dubuo fondiu ištirpintas maistas šokoladas sūris šveicariškas
-🕧	12 12:30 30 dvylika laikas laikrodis trisdešimt
-🥣	dubuo su šaukštu košė maistas pusryčiai
-🍞	duona kepalas kepinys maistas
-🌚	jaunas mėnulis su veidu kosmosas veidas
-🦨	gyvūnas skunkas smirdantis
-🚹	tualetas vyras vyrų wc ženklas
-🪅	meksikietiška pinjata šventė vakarėlis
-🪢	kaklaraištis mazgas surišti virvė
-🫢	aiktelėjimas gėda išgąstis netikėjimas netikėtumas nuostaba o dieve pagarbi baimė staigmena tyla veidas atmerktomis akimis ir ranka uždengta burna
-🎻	instrumentas muzika smuikas
-🛫	išvykimai išvykimas lėktuvas lėktuvo pakilimas registracija
-💐	gėlė gimtadienis meilė metinės puokštė
-👎	blogai nykštys į apačią ranka
-🤟	„myliu tave“ gestas myliu ranka
-♋	krabas vėžys zodiakas
-🦸	betmenas geras herojė herojus supergalia superherojus supermenas
-👏	plojančios rankos ploti
-🧚	fėja fėjus laumė laumius mitas oberon pasaka puck sparnai titania
-🏢	biuras biurų pastatas
-🧻	popieriaus ritinys popieriniai rankšluosčiai tualetinis popierius
-🔅	blankus mažas mygtukas ryškumas užtemdymo
-🆓	mygtukas „free“ nemokama simbolis
-🪛	atsuktuvas įrankis varžtas
-📖	atversta biblioteka knyga mokslas žinios
-🍬	desertas maistas saldainis saldu
-🃏	juokdarys kortos žaidimas
-🧪	bandymas chemija chemikas laboratorija mėgintuvėlis mokslas
-🍟	bulvės bulvytės gruzdintos maistas
-🌏	australija azija gaublys pasaulis žemė žemės rutulys su azijos ir australijos žemynais
-🧵	adata gija ritė siūlas siuvimas
-🆎	ab kraujo grupė mygtukas „ab“ raudona
-👩‍🍼	auklė kūdikį maitinanti moteris kūdikis maitinimas krūtimi mama naujagimis žmogus
-🕛	00 12 12:00 dvylika valandų laikas laikrodis valandos
-🍰	desertas gabalėlis kepiniai kepinys maistas pyragas saldu trapus
-🦩	flamingas gyvūnas spalvingas tropinis
-😁	akys išsišiepęs veidas su besišypsančiomis akimis išsišiepti šypsena
-⬛	geometrija juodas didelis kvadratas
-🪻	augalas gėlė hiacintas indigo levandos lubinai pavasaris violetinis žeidas želdinys žydėjimas
-🖖	kūnas pasisveikinimas pirštas ranka vulkanai vulkanų rasės pasisveikinimo ženklas žvaigždžių kelias
-🪍	gaudyti spąstai surinkti tinklelis
-⌚	laikas laikrodis
-🐯	gyvūnas plėšrūnas tigras tigro snukis veidas
-🚧	barjeras statybos
-🔵	apskritimas geometrija mėlynas
-🌄	kalnas rytas saulė saulėtekis virš kalnų
-🚾	tualetas tualeto patalpa vanduo wc
-📮	laiškas paštas pašto dėžutė
-🦽	neįgaliųjų prieinamumas rankomis valdomas vežimėlis važimėlis
-🌁	oras rūkas ūkanota
-🫈	didžiapėdis jetis kriptidas medinis milžinas miškas plaukuotas
-🦷	dantis dantistas
-🪺	kiaušinis lizdas su kiaušiniais perėjimas šaka
-🐜	gyvūnas skruzdėlė vabzdys
-🔋	baterija
-🟡	apskritimas geltonas
-🌑	jaunas mėnulis jaunatis kosmosas tamsa
-😩	nuvargęs pavargęs veidas
-🛒	apsipirkimas parduotuvė pirkinių vežimėlis
-🆗	mygtukas „ok“ ok simbolis
-🪝	grobis kablys sugauti
-🥞	blynai maistas
-💳	bankas kortelė kreditas kredito pinigai
-🦗	gyvūnas svirplys vabzdys žiogas
-🫛	ankštiniai augalai ankštis daržovė edamame pupos sojos pupelė žirnis žirnių
-🥧	kepinys maistas pyragas tešla tešlos gaminys užpildytas
-🧸	kimštas meškiukas pliušas pliušinis žaislas
-🧛	antgamtinis baisu dantys drakula helovinas iltys kostiumas kraujas nemirtingas vampyras
-🟪	kvadratas violetinis
-🐱	augintinis gyvūnas katė katės snukutis naminis veidas
-🦺	drabužis gelbėjimosi kritinė padėtis liemenė
-🈴	bendrumą reiškiantis hieroglifas bendrumas japonų
-🍏	maistas obuolys vaisius žalias
-🌠	kosmosas krintanti žvaigždė
-❌	atšaukti dauginti daugyba kryžiukas x žymė
-🐸	gyvūnas princesė varlė varlės snukutis veidas
-🧀	maistas sūrio gabaliukas sūris
-🪕	bandža instrumentas muzika styginis
-🐩	gyvūnas pudelis šuo
-🦻	ausis su klausos aparatu kurtieji ir neprigirdintieji neįgaliųjų prieinamumas neprigirdintis
-👩‍🦼	moteris motorizuotame vežimėlyje neįgaliųjų prieinamumas vežimėlis
-🧙	burtininkas išminčius kerai kerėtoja kerėtojas magas magija pasaka ragana raganius
-👨‍🏫	dėstytojas mokytojas profesorius vyras
-💄	kosmetika lūpdažis lūpų dažai makiažas
-🚘	artėjanti artėjantis automobilis mašina transporto priemonė
-👨‍🏭	darbas darbuotojas fabrikas fabriko darbininkas gamyba susirinkimas vyras
-🏣	japoniškas paštas japonų pastatas
-🫐	maistas mėlyna mėlynė mėlynės uoga
-🦑	gyvūnas jūros gėrybės kalmaras maistas moliuskas
-🐵	bananas beždžionė beždžionės snukutis veidas
-🧊	ledas ledo kubelis maistas šaltas
-🤿	nardymas nardymo kaukė
-📼	juosta kasetė senovinė vaizdo įrašas įrašų vhs
-💟	emocija purpurinė širdelė širdelės dekoracija širdis
-🎥	filmas filmavimo kamera kinas
-🧥	drabužis paltas striukė švarkas
-🐽	gyvūnas kiaulė kiaulės nosis šnipas veidas
-👭	draugės dvi moterys susikibusios už rankų laikyti lgbt moteris pora ranka
-🚝	transporto priemonė vienbėgis geležinkelis
-🩷	aš tave myliu emocija meilė miela patinka rožinė širdelė širdis ypatinga žavinga
-🧑‍🎓	baigimas paskutinio kurso studentas
-🏡	namai namas su sodu pastatas priemiestis sodas
-😮‍💨	dejuoti gaudyti iškvėpti išpūsti reljefas šnabždesys švilpukas šypsenėlė veidas su garu
-🔣	įvesties simboliai įvestis simbolis
-🪚	dailidė įrankis mediena pjūklas
-🧕	hidžabas moteris su skarele skarelė žmogus
-🦂	gyvūnas skorpionas zodiakas
-➖	matematika minusas paryškintas
-😮	atverta burna išsižiojęs netikiu pamiršau veidas
-🪸	jūra klimato kaita koralas rifas vandenynas
-🚊	tramvajus troleibusas
-😟	nervingas susirūpinęs veidas
-📇	dėklas indeksas kortelė kortelių senovinis
-🌽	augalas kukurūzas kukurūzo burbuolė maistas varpa
-📫	paštas pašto dėžutė uždaryta su pakelta vėliava
-🚄	geležinkelis greitasis greitis traukinys
-🧑‍🎨	menininkas paletė tapytojas
-🪪	dokumentas id licencija pažymėjimas sauga tapatybė tapatybės kortelė
-🫖	arbata arbatinukas gėrimas maistas puodas
-🕘	00 9 9:00 devinta valanda devynios laikas laikrodis valandos
-🈵	hieroglifas japonų pilnatvė pilnatvę reiškiantis
-🐔	gyvūnas paukštis višta
-👩‍🦽	moteris rankomis valdomame vežimėlyje neįgaliųjų prieinamumas vežimėlis
-🛗	elevatorius keltuvas liftas prieinamumas
-🍊	citrusinis vaisius maistas mandarinas nektarinas oranžinis
-🤒	ligonis serga termometras veidas su termometru
-🎾	kamuolys raketė sportas tenisas teniso kamuoliukas
-🤡	klounas klouno veidas
-💰	doleris maišas pinigai pinigų
-🛴	paspirtukas spirti
-🪷	budizmas gėlė grožis indija induizmas lotosas lotusas ramybė taika tyrumas vietnamas
-🦉	gyvūnas išmintis paukštis pelėda
-🐛	gyvūnas vabalas vabzdys
-📣	džiaugsmingi šūksniai garsiakalbis garsintuvas
-😱	baimė iš baimės šaukiantis veidas išsigandęs šauksmas
-🥨	kepinys maistas riestainis susuktas
-📎	sąvaržėlė
-🍩	desertas maistas saldu spurga
-🐕	augintinis gyvūnas naminis šuo
-🧑‍🧒‍🧒	šeima suaugusysis vaikas
-🪮	juodaodžių plaukai plaukų šukutės rinkti šukos šukuoti
-🫗	gėrimas išlieti oi pilamas skystis pilti stiklinė tuščias vanduo
-📳	mobilusis režimas telefonas vibravimas vibravimo
-💏	bučinys meilė metinės pora
-🔮	fantazija fortūna krištolinis pasaka rutulys
-🙆	gerai gestą rodantis žmogus gestai gestas pratimas ranka teigiamas vaje
-🏈	amerikietiškas amerikietiškojo futbolo kamuolys futbolas sportas
-🥿	avalynė be raištelių baleto batelis batai lygiapadis patogu šlepetė
-🦿	kojos protezas mechaninė koja neįgaliųjų prieinamumas protezavimas
-💆	atsipalaidavimas atsipalaiduoti galvos skausmas įtampa masažas masažuojamas žmogus salonas spa terapija veidas veido
-🫯	diskusijos ginčas grumtynės kova muštynės nesutarimas triukšmas
-🫰	brangu meilė pinigai ranka sukryžiuotu smiliumi ir nykščiu širdelė širdis spragtelėjimas
-🥯	apvalus riestainis desertas duonos gaminiai kepinys maistas saldu spurga užtepas
-🦜	gyvūnas kalbantis kalbėti papūga paukštis piratas
-👨‍🌾	darbininkas sodininkas ūkininkas vyras
-👖	drabužiai džinsai kasdieniai kelnės trumpikės
-🦕	brachiozauras brontozauas dinozauras diplodokas sauropodas
-🚯	draudžiama ne šiukšlės šiukšlinti uždrausta
-🩱	drabužis maudymosi kostiumėlis vientisas
-➕	matematika paryškintas pliusas
-😡	įniršis įsiutęs piktas raudonas susiraukęs veidas
-🥋	dziudo karatė kovos menas sporto šakos uniforma sportas
-🐣	gyvūnas išsiridenti išsiritęs viščiukas mažas paukštis
-👑	drabužiai karalienė karalius karūna
-🏆	pergalė prizas sportas trofėjus
-🦔	ežys gyvūnas spygliuotas
-✋	duok penkis iškelta ranka
-🔪	ginklas įrankiai įrankis maisto gaminimas peilis virtuvinis
-🪔	daiktas lempa žibalas žibalinė žvakė
-🐏	avinas gyvūnas avis zodiakas
-🟣	apskritimas violetinis
-🥦	brokolis daržovė laukinis kopūstas maistas
-👜	drabužiai krepšys rankinė
-🍎	maistas obuolys raudonas vaisius
-🍜	dubuo maistas makaronai makaronų sriubos dubenėlis ramen sriuba
-🐓	gaidys gyvūnas paukštis
-🪑	daiktas kėdė sėdėti
-🧠	kūno dalis protingas smegenys
-📘	biblioteka išsilavinimas knyga mėlyna skaitymas
-🛬	atvykimai atvyksta lėktuvas lėktuvo nusileidimas
-🍘	maistas paplotėlis ryžiai ryžių
-🦚	gyvūnas išdidus mėgstantis pasirodyti paukštis povas povė
-🎆	fejerverkai pramogos šventė
-🫌	metamorfozė migracija pokytis transformacija trapus vabzdys vikšras viltis
-🤯	šokiruotas sprogstanti galva šypsenėlės
-🟩	kvadratas žalias
-🈲	draudimą reiškiantis hieroglifas draudimas japonų
-😈	besišypsantis veidas su ragais fantazija pasaka ragai šypsena
-💗	auganti širdelė didėjimas myliu pulsas susijaudinimas susinervinęs
-🔼	į viršų mygtukas raudonas rodyklė trikampis
-🎈	balionas gimtadienis šventė
-🦀	krabas maistas vėžys zodiakas
-🩸	kraujas kraujo aukojimas lašas medicina menstruacijos
-📄	dokumentas puslapis viršutine puse
-🐋	banginis gyvūnas paplūdimys vandenynas
-🍌	bananas maistas vaisius
-🤕	skausmas susižeidęs sužeidimas tvarstis veidas su galvos tvarsčiu
-👡	basutė batai batas drabužiai moteris moteriška sandalas
-🏤	europietiškas paštas pastatas pašto
-🏓	kamuolys lazda raketė stalo tenisas žaidimas
-🧁	desertas duonos gaminiai keksiukas kepinys maistas saldu saldus
-🌲	amžinai žaliuojantis medis eglė pušis spygliuotis
-🎂	desertas gimtadienio tortas gimtadienis kepiniai maistas pyragas saldu šventė
-💋	bučinio žymė bučinys emocija lūpos
-🤔	mąstantis veidas mąstymas susimąstęs šypsenėlės
-⛳	duobutė golfas skylutė sportas vėliava duobutėje skylutėje
-🧫	bakterijos bakterijų auginimas biologas biologija laboratorija petri lėkštelė
-🥠	laimės sausainiukas maistas pranašystė
-👐	atviros ranka rankos
-😃	besišypsantis išsižiojęs veidas burna labai laimingas praverta šypsena valio
-👅	kūnas laižyti liežuvis
-🤨	nepasitikintis skeptiškas veidas su pakeltais antakiais
-🎌	japonų kryžius sukryžiuotos vėliavos šventė
-💫	apsvaigęs komiksas krentanti žvaigždė
-🤹	balansuoti daug darbų vienu metu įgūdis išlaikyti pusiausvyrą įveikti pusiausvyra reakcija žmogus žonglierius žongliravimas žongliruoti
-📠	faksas fakso aparatas
-🚪	durys
-🥹	ašaras tramdantis veidas besididžiuojantis dėkingas dėkingumas džiaugsmo ašaros išdidus jausmai liūdesys liūdnas miela nepasiduoti piktas prašymas susižavėjimas sutrikęs verkti
-🌖	delčia dylantis kosmosas mėnulis
-🙏	gestas melstis prašymas ranka suglausti delnai
-🧑‍🎤	aktorius dainininkas dainuojantis žmogus linksmintojas rokas žvaigždė
-🪥	dantų šepetėlis dantys higiena valyti vonios kambarys
-🏄	bangavimas banglenčių sportas banglentininkas bangos paplūdimys vandenynas
-👩‍🔬	biologė chemikė fizikė inžinierė matematikė mokslininkė moteris
-🤺	fechtavimas fechtuotojas kardas
-🎠	arklys karuselė karuselės arkliukas pramogos
-🈳	hieroglifas japonų tuštuma tuštumą reiškiantis
-🔥	įrankis karšta liepsna ugnis
-🪿	antis būrys gaga kvailas naminis paukštis višta žąsinas žąsis žąsys
-🍨	desertas kremas ledai maistas saldu
-🕓	00 4 4:00 keturios laikrodis valandos
-🔯	judaizmas sėkmė šešiakampė žvaigždė su tašku žydų
-📉	diagrama į apačią mažėjimas mažėjimo tendencijos tendencija
-🐀	gyvūnas žiurkė
-👟	atletiškas batai batas bėgimo batelis drabužiai sportinis
-📯	paštas pašto ragas
-😅	besišypsantis išsižiojęs veidas išpiltas šalto prakaito prakaitas praverta šaltas šypsena
-🦛	begemotas gyvūnas
-🌛	ketvirtis kosmosas mėnulis priešpilnio su veidu priešpilnis veidas
-👔	biuras drabužiai kaklaraištis marškiniai
-🧡	oranžinė širdelė
-❔	baltas klaustukas klausimas kontūras skyryba žymė
-🐺	gyvūnas veidas vilkas vilko snukis
-🪹	lizdas namai perėjimas šaka tuščias
-🤴	kilmingas princas
-🌘	delčia pabaiga kosmosas mėnulis pusmėnulis
-🩺	gydytojas medicina širdis stetoskopas
-🍣	maistas suši sušis
-🍢	iešmas japonų jūros gėrybės kebabas lazdelė maistas odenas
-🦐	jūros gėrybės kiaukutinis krevetė maistas mažas
-🫺	dešinė neutrali ranka tai tas taškas
-🍮	desertas maistas pudingas saldu saldus kremas
-🥐	bandelė duona kruasanas maistas prancūziškas raguolis
-🔖	skirtukas žyma žymė
-🥟	kibinas kukulis maistas tešlos gaminys virtinis
-🎭	kaukė menas pasirodymas scenos teatras
-🈚	hieroglifas japonų nemokamai nemokamumą reiškiantis
-🚋	automobilis tramvajaus vagonas tramvajus transporto priemonė troleibusas
-🚦	eismas signalas šviesa vertikalus šviesoforas
-😒	abejingas nelaimingas nelinksmas nuobodžiauti veidas
-🔹	deimantas geometrija mažas mėlynas rombas
-🪴	augalas augti bevertis dekoro detalė namas nuobodus pasodintas puoselėti vazonas
-🧰	dėžė įrankis įrankių rinkinys mechanikas
-🦃	gyvūnas kalakutas padėkos diena paukštis
-🍄	grybas maistas šungrybis super mario
-🟤	apskritimas rudas
-🫱	dešinė dešinioji ranka į dešinę rodanti pasisveikinimas rankos paspaudimas tiesimas
-🧟	apokalipsė baisu helovinas nemirtingas siaubas vaikštantis numirėlis zombis
-👨‍🎤	aktorius dainininkas rokas vyras žvaigždė
-🫩	išsekęs mieguistas pavargęs veidas su maišeliais po akimis
-🤗	apkabinantis veidas apkabinimas apkabinti šypsenėlės
-⏩	du kartus dviguba greitai rodyklė sukti pirmyn
-🕜	1 1:30 30 laikas laikrodis pusė dviejų trisdešimt viena
-📈	augimas diagrama didėjimo tendencijos schema tendencija
-🦆	antis gyvūnas paukštis
-🤼	dvikova grumtynės imtynės imtynininkai imtynininkas imtynių turnyras kova ringe žmonės
-🎶	muzika muzikos natos nata
-🦁	gyvūnas liūtas liūto snukis stiprus veidas zodiakas
-🤏	mažai mažas kiekis pirštai žnybianti ranka
-🪄	burtininkas magija ragana stebuklinga lazdelė stebuklingas
-🆖	mygtukas „ng“ ng simbolis
-😙	akys bučinys bučiuojantis su besišypsančiomis akimis šypsena šypsenėlės veidas
-🙍	antakių suraukimas gestas liūdnas nelaimingas nepatenkintas nusivylęs paniuręs žmogus raukytis susierzinęs sutrikęs
-🚂	garai garvežys geležinkelis kelionė lokomotyvas traukinys variklis
-👰	nuotaka su veliumu veliumas vestuvės
-🚭	draudžiama ne rūkymas rūkyti uždrausta ženklas
-😨	baimė baimės pilnas veidas išsigandęs susirūpinęs
-🎼	muzika nata partitūra smuiko raktas
-🤦	beviltiškumas delnas prie veido neįtikėtinumas netikėjimas o ne varge šokas susierzinęs žmogus susierzinimas tik tai vaje veidas
-📞	prietaisas ragelis telefonas telefono
-🚎	autobusas tramvajus troleibusas
-🔢	1234 įvesties skaičiai įvestis
-🪣	kibiras
-😾	katė susiraukęs susiraukusios katės snukutis veidas
-🥢	haši įrankiai lazdelės
-🏑	kamuolys laukas lazda riedulys žaidimas žolės
-🎢	atrakcionų parkas kalneliai linksmieji
-🐭	gyvūnas pelė pelės snukutis veidas
-😧	kenčiantis nelaimingas nustebęs veidas
-🐷	gyvūnas kiaulė kiaulės snukis paršelis veidas
-🫣	išsigandęs nedrąsus pakerėtas slėptis stebeilytis stebėti susidrovėti veidas su stebinčia akimi žvilgsnis vogčiomis žvilgtelėjimas
-🍈	augalas maistas melionas vaisius
-🤛	į kairę nukreiptas kumštis kairėn
-🙋	aš čia galiu padėti gestas iškėlęs ranką iškelta klausimas laimingas pasirink mane ranka žmogus rankos žinau
-🚲	dviratis transporto priemonė
-🍑	maistas persikas vaisius
-🌍	afrika europa gaublys pasaulis žemė žemės rutulys su europos ir afrikos žemynais
-👬	draugai du vyrai susikibę už rankų dvyniai laikyti lgbt pora ranka vyras zodiakas
-🐗	gyvūnas kiaulė šernas
-🤎	ruda širdelė
-🚃	automobilis elektrinis geležinkelis kelionė tramvajus transporto priemonė traukinio vagonas traukinys troleibusas
-🎤	karaokė mikrofonas muzika
-👿	fantazija pasaka veidas velnias velniūkštis
-📡	antena indas mokslas palydovas palydovinė
-🫨	beprotiška besikratantis veidukas oho palauk panika purtymas šokas staigmena veidas vibruoti žemės drebėjimas
-🤜	dešinėn į dešinę nukreiptas kumštis ranka
-🌰	augalas lazdyno riešutas maistas
-🐨	australija gyvūnas koala meška
-📚	knyga knygos mokslas mokykla
-🌿	augalas lapas vaistažolė žolelė
-♍	mergelė zodiakas
-📂	aplankas atidarytas failų failas
-🔠	abcd didžiosios įvestis lotyniškos raidės
-🔗	jungtis jungtys
-🔱	emblema inkaras įrankis laivas trišakė trišakis
-🥒	agurkas daržovė maistas raugintas
-⏪	atsukti atgal du kartus dviguba mygtukas rodyklė sukti
-🥁	būgnas lazdelės muzika
-📅	data kalendorius
-👨‍🦼	neįgaliųjų prieinamumas vežimėlis vyras motorizuotame vežimėlyje
-🍚	maistas ryžiai virti
-🐆	gyvūnas leopardas plėšrūnas
-☔	drabužiai lašas lietus oras skėtis su lietaus lašais
-🍼	buteliukas gėrimas gerti kūdikio kūdikis pienas
-🎳	boulingas kamuolys sportas žaidimas
-🪭	aušinimas drovus flirtas karšta plazdėjimas šokti sulankstoma vėduoklė vėsinimas
-🍉	arbūzas maistas vaisius
-🎄	eglutė kalėdos kalėdų šventė
-🔲	geometrija juodas kvadratinis mygtukas kvadratas
-🧑‍🌾	sodininkas ūkininkas ūkininkaujantis žmogus
-🚩	golfas postas trikampė vėliava
-🦓	dryžis gyvūnas zebras
-🍗	kaulas maistas mėsa paukščio šlaunelė paukštiena šlaunis višta
-🥮	festivalis kepinys maistas mėnulio pyragas ruduo
-🏪	parduotuvė pastatas visą parą dirbanti
-🍓	braškė maistas uoga vaisius
-🤚	pakelta viršutinė plaštakos pusė plaštaka ranka
-📩	el laiškas paštas rodyklė vokas su rodykle
-📓	užrašinė
-👥	biustas biustų siluetai draugai siluetas žmonės
-📊	diagrama juosta juostinė
-🗽	laisvė laisvės statula niujorkas
-🕒	00 3 3:00 laikas laikrodis trys valandos
-🪋	apokalipsė gravitacija kosmosas kritimas ugnies kamuolys uola žvaigždė
-👓	akiniai akys apranga drabužiai
-🚰	čiaupas geriamas geriamasis vanduo gerti
-🎽	atletika bėgimas bėgimo marškinėliai juosta
-😴	miegantis veidas miegas šypsenėlė zzz
-🎦	filmas kamera kinas
-🥏	aukščiausioji riba diskas skraidantis
-🦡	barsukas gyvūnas įkyruolis
-🎨	dailininko paletė menas muziejus piešinys
-🍖	kaulas maistas mėsa ant kaulo
-🔍	didinimo stiklas į kairę įrankis laboratorija mokslas paieška
-🌹	augalas gėlė raudona rožė valentino diena
-👩‍🚀	astronautė kosmosas moteris raketa
-🐚	gyvūnas kriauklė paplūdimys spiralė susisukusi
-🎰	automatas lošimas lošimų žaidimas žaidimų
-🕺	elegantiškas flamenko salsa šokėja šokiai šokti šventinis tango
-🔡	abcd įvestis lotyniškos mažosios raidės
-👩‍🦯	akla moteris su neregio lazdele neįgaliųjų prieinamumas neregė
-🕍	pastatas religija sinagoga šventykla žydas žydų
-🛁	vonia
-💘	bučinys lūpos širdelė su strėle valentino diena
-🥍	įvartis kamuoliukas lakrosas lazda sportas
-🧑‍🔧	elektrikas mechanikas remontuojantis žmogus santechnikas
-😍	akys besišypsantis veidas su širdelės formos akimis meilė šypsena
-🆑	cl mygtukas „cl“ simbolis
-🧃	gėrimas gėrimo pakelis šiaudelis sulčių
-👒	drabužiai moteris moteriška skrybėlė
-♌	liūtas zodiakas
-🌞	oras paplūdimys saulė su veidu šviesu veidas
-🍆	augalas baklažanas daržovė maistas
-😊	akys besišypsantis veidas su besišypsančiomis akimis nurausti patenkintas šypsena
-🫸	atsisakyti blokuoti duok penkis į dešinę stumianti ranka laukti stumti sulaikyti sustoti
-💲	doleris paryškintas dolerio ženklas pinigai valiuta
-🦍	gorila gyvūnas
-🌈	gamta homoseksualus lgbt lietus vaivorykštė
-🙂	šiek tiek besišypsantis veidas šypsena šypsenėlės
-🧭	kompasas kryptis magnetinis navigacija orientacinis
-👞	batai batas drabužiai vyras vyriškas
-🩳	apatiniai drabužis maudymosi kostiumas šortai trumpikės
-🧑‍🚀	astronautas kosmonautas raketa
-🕚	00 11 11:00 laikrodis valandos vienuolika valandų
-😵	apsvaigęs sergantis veidas
-📿	drabužiai karoliai melstis religija rožinis vėrinys
-🤓	akiniai ekspertas juokingas moksliukas moksliuko veidas pirmūnas protingas talentingas
-🪀	jo-jo svyruojantis žaislas
-🏫	mokykla pastatas
-🍹	baras gėrimas taurė tropinis
-🕝	2 2:30 30 dvi laikas laikrodis pusė trijų trisdešimt
-🕠	30 5 5:30 laikas laikrodis penkios pusė šešių trisdešimt valandos
-📟	bedravimas gaviklis
-🎵	muzika muzikos nata
-👙	bikinis drabužiai maudymosi kostiumėlis moteris paplūdimys plaukti
-🩲	apatiniai drabužis maudymosi kostiumėlis trumpikės viena dalis
-🤑	burna pinigai turtingas veidas su pinigu vietoje liežuvio
-🚛	priekaba pusė sunkvežimis su transporto priemonė
-🥘	maistas prikaistuvis su maistu troškinys
-😘	bučinį siunčiantis veidas bučinys širdelė
-🛺	autorikša rikša transporto priemonė tuk
-👱	asmuo šviesiaplaukis veidas žmogus
-🛂	kontrolė pasas pasų
-🪓	daiktas kapoti kirvis mediena
-🫝	agurkas bėda marinuotas pagardas raugas sūrymas užkandis
-🔞	18 amžiaus apribojimas aštuoniolika draudžiama ne nepilnametis tik pilnamečiams uždrausta
-🤝	pasisveikinimas paspaudimas ranka rankos susitarimas
-📒	knyga sąskaitų užrašų knygelė
-🚥	eismas horizontalus šviesoforas signalas šviesa
-🔊	didelis garsiakalbio garsumas garsiakalbis garsus prietaisas
-🐴	arklio snukis arklys ferma gyvūnas veidas
-😕	apgailestaujantis hm liūdnas neužtikrintas painus pasimetęs suraukęs kaktą sutrikęs veidas
-🫑	daržovė paprika pipirai
-🫄	išsipūtęs nėščias asmuo persivalgęs pilnas pilvas
-🪐	planeta su žiedu saturnas
-🏅	auksas laimėtojas medalis nugalėtojas sporto
-🏯	japoniška pilis japonų pastatas
-🌊	banga banglentininkas gamta vandens vandenynas vanduo
-💿	cd diskas kompaktinis kompiuteris optinis
-🪦	kapas kapinės mirtis paminklas
-⚾	beisbolo kamuoliukas kamuolys sportas
-👈	į kairę pirštu rodanti ranka indeksas pirštas rodyti
-🦒	dėmė gyvūnas žirafa
-🌗	ketvirtis kosmosas mėnulis paskutinė mėnulio fazė paskutinis fazės
-🚸	eismas perėja pėstysis vaikas vaikų
-🤳	asmenukė fotoaparatas telefonas
-🏀	kamuolys krepšinio krepšinis lankas sportas
-🚏	autobusas autobusų stotelė
-🥷	kovotojas nindzė paslaptis užsimaskavęs žmogus
-⚽	futbolas futbolo kamuolys sportas
-🚖	artėjantis taksi transporto priemonė uber
-👂	ausis garsas klausyti kūnas
-👝	drabužiai drabužių krepšys maišelis rankinė
-📵	draudžiama jokių mobiliųjų telefonų mobilusis ne telefonas uždrausta ženklas
-🐳	banginis gyvūnas paplūdimys purkšti purškiantis veidas
-😯	nuščiuvęs nustebęs priblokštas veidas
-🍫	batonėlis desertas maistas saldu šokoladas šokolado plytelė
-🌋	gamta išsiveržimas kalnas ugnikalnis
-🧝	elfai elfas folkloras kerai magija magiškas mistika mitas pasaka
-💛	geltona širdelė
-👨‍💻	išradėjas kompiuteris kūrėjas programinė įranga programuotojas technologas vyras
-🐃	azijinis buivolas gyvūnas
-🧆	falafelis maistas mėsos kukulis vištiena
-💎	brangakmenis deimantas juvelyrika romantika sužadėtuvės
-🧑‍🚒	gaisrinė mašina gaisrininkas ugniagesys
-📷	asmenukė fotoaparatas vaizdo įrašas
-⛪	bažnyčia krikščionis kryžius pastatas religija
-🚵	atletas dviratininkas dviratis kalnas kalnų sportas važiuoti dviračiu
-🐟	gyvūnas zodiakas žuvis žuvys
-🤥	melas meluojantis veidas pinokis
-😛	liežuvis malonus veidas su iškištu liežuviu
-🦵	galūnė kelis koja kūno dalis spyris
-🪒	aštrus skusti skustuvas
-💈	kirpėjas kirpėjo suktukas šukuosena
-📹	fotoaparatas vaizdo įrašas kamera
-🛵	motoroleris transportas transporto priemonė
-💸	bankas banknotas doleris pinigai su sparnais
-🔦	deglas elektra įrankis šviesa žibintuvėlis
-🧑‍🧑‍🧒‍🧒	šeima suaugusysis vaikas
-🚳	draudžiama dviračiai draudžiami dviratis ne transporto priemonė uždrausta ženklas
-🪵	mediena medis rąstas
-😂	ašara džiaugsmas džiaugsmo juokas šypsenėlės veidas su ašaromis
-🐦	gyvūnas ornitologija paukštis
-🔩	įrankis varžtas veržlė ir
-🤠	kaubojaus veidas su skrybėle kaubojus skrybėlė
-🔉	garsiakalbis vidutinio garso vidutinis
-💇	apkerpamas žmogus grožis kirpėjas kirpimas kirpti plaukus kirpykla kosmetologija plaukai salonas stilius šukuosena žirklės
-🧓	kitas suaugusysis neutrali lytis senas žmogus
-👼	angelas angeliukas fantazija kūdikis pasaka veidas
-🪠	pompa santechnikas santechninė siurbimas tualetas
-👨‍💼	architektas biuras biuro darbuotojas darbas įstaigoje vadybininkas verslas vyras
-🔃	pagal laikrodžio rodyklę rodyklė vertikalios rodyklės kryptimis nukreiptos
-🦦	gyvūnas ūdra žaisminga žvejojanti žvejoti
-🗻	fudžio kalnas fudžis gamta
-🐖	ferma gyvūnas kiaulė kiauliena
-🧲	magnetas magnetinis pasaga trauka
-🚻	moteris tualetas tualeto kambarys wc ženklas
-💤	komiksas miegas miego simbolis pavargęs
-🔌	elektra elektros kištukas
-🏺	maisto gaminimas senovinė vaza vandenis zodiakas
-📻	pramogos radijas vaizdo įrašas
-🧑‍🦯	aklas prieinamumas žmogus neregio lazdele su
-🪗	akordeonas armonika instrumentas muzika
-🍱	bento dėžutė maistas
-🔘	akutė geometrija mygtukas
-🕙	00 10 10:00 dešimt valandų laikas laikrodis valandos
-👻	fantazija monstras padaras pasaka vaiduoklis veidas
-🧉	gėrimas matė
-🫀	anatomija centras organas pulsas širdies plakimas širdis
-🦭	gyvūnas jūrų liūtas ruonis vandenynas
-👨‍🔬	biologas chemikas fizikas inžinierius matematikas mokslininkas vyras
-🐫	dvikupris kupranugaris dykuma gyvūnas kupra
-♉	bulius tauras zodiakas
-👨‍🍳	šefas virėjas vyras
-🚢	keleivis kelionė laivas titanikas valtis
-🥽	akių apsauga apsauginiai akiniai nardymas plaukimas suvirinimas
-🚟	geležinkelis kabanti geležinkelio linija
-🔶	deimantas didelis oranžinis rombas geometrija
-🪡	adata siūlai siuvimas siuvimo siuvinėjimas
-⛺	palapinė stovyklavimas
-🙁	paniuręs šiek tiek veidas
-👾	ateivis fantazija kosmosas kūrinys monstras nežemiška būtybė pabaisa veidas
-💷	bankas banknotas pinigai svaras sterlingų svaro valiuta
-🏉	futbolas kamuolys regbio regbis sportas
-❓	klausimas klaustukas raudonas skyryba žymė
-👩‍🎨	dailininkė moteris paletė
-🐇	augintinis gyvūnas naminis triušis triušiukas
-🌾	augalas javai ryžiai ryžių pėdas varpa
-🛷	rogės sniegas
-🌀	apsvaigęs ciklonas oras spiralė taifūnas
-🦴	kaulas skeletas šuo
-👨	berniukas draugas vaikinas vyras
-💥	bum komiksas susidūrimas
-🗿	kelionė moai statula veidas
-⛵	burlaivis jachta jūra kurortas laivas valtis
-🫵	baksnoti į žiūrovą rodantis smilius pirštas ranka rodyti tu
-🏰	europos pastatas pilis
-🐞	boružė gamta gyvūnas vabalas vabzdys
-🚆	geležinkelis traukinys
-🐕‍🦺	aptarnavimas neįgaliųjų prieinamumas pagalba šuo tarnaujantis tarnyba tarnybinis
-🐮	gyvūnas karvė karvės snukis veidas
-🏮	baras popierinis žibintas raudonas šviesa
-😥	nusivylęs veidas su palengvėjimu palengvėjimas
-🧤	drabužis pirštinės ranka
-🐰	gyvūnas naminis triušio snukutis triušis veidas zuikis
-🏨	pastatas viešbutis
-🍕	gabalėlis maistas pica sūris
-📗	knyga mokslas žalia
-🎇	fejerverkai kibirkštis šaltoji ugnelė šventė
-🪳	gyvūnas tarakonas vabzdys
-⚡	aukšta įtampa aukštoji elektra pavojus žaibas
-⏬	dviguba greitai į apačią mygtukas rodyklė
-🍻	alus baras bokalai gėrimas puodelis susidaužiantys alaus susidaužti
-🚺	moteris moterų tualetas wc
-👚	drabužiai moteris moteriški palaidinė
-🧳	bagažas kelionė lagaminas pakavimas
-♐	šaulys zodiakas
-🚤	kelionė milijardierius motorinė valtis motorinis kateris prabanga
-📝	atmintinė bendravimas pieštukas
-🪨	akmuo kietas riedulys sunkus uola uoliena
-🍅	augalas daržovė maistas pomidoras
-📁	aplankas failas failų uždarytas
-🎁	dėžutė dovana gimtadienis kalėdos supakuota suvyniota šventė
-🧑	neutrali lytis suaugusysis žmogus
-🚒	sunkvežimis ugniagesių automobilis ugnis variklis
-👷	atstatyti darbas darbuotojas kepurė rekonstruoti šalmas statyba statybininkas žmogus
-🔤	abc abėcėlė įvestis lotyniškos raidės
-🚞	automobilis geležinkelis kalnas kalnų traukinys kelionė traukiniu transporto priemonė
-🌐	dienovidiniai gaublys pasaulis žemė žemės rutulys su dienovidiniais
-😸	akys išsišiepusios katės snukutis su besišypsančiomis akimis katė šypsena vaipytis veidas
-🫡	gerai kariai pagarba pagarbą atiduodantis veidas pagarbos atidavimas saulėta sėkmės taip
-🟰	atsakymas lygu lygybė lygybės ženklas paryškintas
-🚬	cigaretė rūkymas
-🆒	cool mygtukas „cool“ simbolis vėsu
-🍺	alaus bokalas alus baras gėrimas puodelis
-🪏	augalas duobė kasti kastuvas palaidoti smėlis sniegas sodas
-🐂	bulius gyvūnas jautis tauras zodiakas
-🤙	gestas paskambink man ranka skambinti
-♓	zodiakas žuvis žuvys
-👵	močiutė moteris sena šviesiaplaukė
-🐧	antarktida gyvūnas paukštis pingvinas
-❎	kryžiukas kryžiuko mygtukas kvadratas žymė
-🟫	kvadratas rudas
-🥩	kepsnys maistas mėsa mėsos gabalėliai
-🦾	mechaninė ranka neįgaliųjų prieinamumas protezavimas rankos protezas
-🎣	meškerė sportas žuvis
-😌	nurimęs palengvėjimas ramus veidas su palengvėjimu
-🫷	atsisakyti blokuoti duok penkis į kairę stumianti ranka laukti stumti sulaikyti sustoti
-🐝	bitė gamta gyvūnas kamanė vabzdys
-🌻	augalas gėlė saulė saulėgrąža
-✨	kibirkštėlės kibirkštis magija žvaigždė
-🚽	tualetas
-🥑	avokadas maistas vaisius
-👛	apsipirkimas drabužiai monetos piniginė
-🌮	maistas meksikietiškas paplotėlis takas
-📋	darbų sąrašas segtuvas
-🦊	gyvūnas lapė lapės snukis veidas
-⚫	apskritimas geometrija juodas rutulys
-♒	vandenio ženklas vandenis vanduo zodiakas
-🐈‍⬛	gyvūnas juoda katė nelaimė
-🩵	aš tave myliu emocija meilė miela patinka širdis šviesiai mėlyna širdelė žalsvai žydra
-📤	dėklas išsiųsti laiškas paštas siunčiami siunčiamų laiškų
-🐐	ferma gyvūnas ožiaragis ožys zodiakas
-🧂	druska druskinė maistas prieskonis
-🎯	akis dartas pataikyti smūgis tiesiai į taikinį taikinys žaidimas
-🐻	gyvūnas meška meškos snukis veidas
-🔨	įrankis plaktukas
-🚣	ežeras irklas irkluojantis žmogus irkluoti kanoja kelionė jūra laivas plaustas transporto priemonė upė valtis žvejoti žvejyba
-👕	drabužiai kasdieniai marškinėliai marškiniai vyras
-🐼	bambukas gyvūnas panda pandos snukis veidas
-👃	kūnas kvapas nosis
-📭	atidaryta pašto dėžutė su nuleista vėliava paštas
-🚁	kelionė sraigstasparnis transporto priemonė
-🛻	automobilis mašina pikapas sunkvežimis
-🕤	30 9 9:30 devynios laikas laikrodis pusė dešimt trisdešimt valandos
-🫅	asmuo su karūna didikas karalienė karališkas karališkoji šeima karalius monarchas
-🧑‍🦽	prieinamumas vežimėlis žmogus rankomis valdomame vežimėlyje
-🌱	augalas daigas jaunas
-😪	liūdnas miegas mieguistas veidas pavargęs
-🧒	jaunas neutrali lytis vaikas žmogus
-🦤	didelis drontas gyvūnas išnykimas mauricijus paukštsi
-👢	batai batas batelis drabužiai ilgaaulis moteris moteriškas
-📬	atidaryta pašto dėžutė su pakelta vėliava paštas
-🚼	kūdikio simbolis kūdikis vystyklų keitimas
-🚑	greitoji pagalba greitosios pagalbos automobilis transporto priemonė
-😞	kaltas nusivylęs veidas
-🍸	baras gėrimas kokteilio taurė kokteilis
-🥵	įkaitęs veidas karščiuojantis karštas prakaitavimas raudonveidis šilumos smūgis
-🫔	meksikietiškas pamonha susuktas vyniotinis
-👹	fantazija monstras pabaisa padaras pasaka veidas
-😬	besivaipantis veidas grimasa šypsenėlės
-🤶	kalėdos mama ponia claus šventė
-🎓	baigimas drabužiai kepurė kepurėlė mokyklos baigimo šventė
-👩‍🎓	absolventė moteris studentė
-🛖	apvalus namas jurta namelis
-🎬	filmas pliauškė pranešimo lenta veiksmas
-🤘	pirštas ragai ragų ženklas ranka rokas
-🕣	30 8 8:30 aštuonios laikas laikrodis pusė devynių trisdešimt valandos
-🤫	ššš tildantis veidas tylus
-🔭	įrankis mokslas teleskopas
-🌸	augalas gėlė vyšnia vyšnios žiedas žydėti
-🥻	apranga drabužis saris suknelė
-🎷	instrumentas muzika saksofonas
-😺	besišypsančios katės snukutis burna gyvūnas išsižiojęs katė šypsena veidas
-😫	miegoti pavargęs veidas
-😀	išsišiepęs veidas išsišiepti linksmas
-💭	balionas debesėlis komiksas minties mintis svajoti
-🦼	motorizuotas vežimėlis neįgaliųjų prieinamumas
-👩‍💼	architektė biuras biuro darbuotoja darbas įstaigoje moteris vadybininkė verslas
-♿	neįgalieji neįgaliojo vežimėlio simbolis neįgaliųjų prieinamumas pasiekiamumas
-🥄	įrankiai įrankis šaukštas
-🧽	akytas kempinė praustis sugeriantis
-💵	bankas banknotas dolerio doleris pinigai valiuta
-🐹	augintinis gyvūnas naminis veidas žiurkėnas žiurkėno snukutis
-💾	diskas diskelis kompiuteris
-🌔	kosmosas mėnulis priešpilnis pabaiga
-🥫	konservai maistas skardinė
-💴	bankas banknotas jena jenos pinigai valiuta
-🦧	beždžionė gyvūnas orangutangas
-🍶	baras butelis gėrimas puodelis sakė
-⚪	apskritimas baltas geometrija rutulys
-🆙	į viršų mygtukas „up!“ up žymė
-😎	akiniai nuo saulės besišypsantis veidas su akiniais kietas saulė šaunus šviesus
-📐	liniuotė matematika trikampė trikampis
-🫧	burbulai burbulas muilas perlas po vandeniu švara
-💕	dvi širdelės emocijos meilė metinės
-😗	bučinys bučiuojantis veidas šypsenėlės
-🫤	abejojantis abejojimas nesvarbu nusivylęs nusivylimas skeptiškas sumišęs sumišimas susierzinęs veidas įstriža burna
-💬	balionas debesėlis dialogas kalba kalbos komiksas
-🛘	kalnas lavina nelaimė pavojus purvo nuošliauža uolos žemės drebėjimas
-🚚	krovininis sunkvežimis pristatymas transporto priemonė
-🔚	pabaiga rodyklė su užrašu „end“
-💺	kėdė vieta
-🎉	bum konfeti šaudyklė šauti šventė vakarėlis
-🤲	delnai suglausti malda ranka
-😔	prislėgtas susimąstęs veidas
-👋	mojuoja mojuojanti ranka mojuoti
-🎊	kamuolys konfeti šventė
-💼	biuras portfelis
-🥬	daržovė kininis kopūstas lapinė maistas salota
-🈸	hieroglifas japonų mygtukas taikymą reiškiantis taikymas
-🚱	draudžiama gerti vandenį geriamas gėrimas ne uždrausta vanduo
-🐄	gyvūnas karvė pienas
-⬜	baltas didelis kvadratas geometrija
-😝	akys bjaurus liežuvis omg skonis šlykštus veidas su iškištu liežuviu ir stipriai užmerktomis akimis
-😓	išpiltas šalto prakaito išsigandęs nervingas prakaitas šaltas veidas
-🩼	lazda negalia pagalba judėti ramentas ramstis sužeistas
-🙀	gyvūnas katė nustebęs nustebusios katės snukutis oi veidas
-🧯	gesinti gesintuvas ugnis
-🦖	dinozauras gyvūnas reksas tiranozauras
-🧑‍🧒	šeima suaugusysis vaikas
-🐒	bananas beždžionė gyvūnas
-🥴	apkvaišęs veidas apsvaigęs banguojanti burna įkaušęs nelygios akys
-🧅	maistas prieskonis svogūnas
-🍙	japonų maistas rutuliukas ryžiai ryžių
-👨‍🚒	gaisrininkas gaisrininkų automobilis vyras
-🪈	fleita grupė instrumentas mažoji mediniai pučiamieji muzika orkestras skudutis vamzdis vargonai
-🏏	kamuolys kriketas lazda žaidimas
-👴	senas vyras žmogus
-🦝	gudrus gyvūnas meškėnas smalsus
-🎲	kauliukas pramogos žaidimas
-🚡	automobilis gondola kabelis lyno keltuvas lynų orinis tramvajus transporto priemonė
-😑	be išraiškos neišraiškingas pavydus veidas jokios
-🥶	mėlynveidis nušalimas šaltas stingdantis sušalęs veidas varvekliai
-🚿	dušas vanduo
-🖕	pirštas ranka vidurinis
-🫆	kriminalistika piršto atspaudas saugumas tapatybė
-🧑‍🍳	gaminantis žmogus šefas virėjas
-🫠	cha ištirpti karšta karštis labai juokinga lydytis nykti sarkazmas skystis sutrikęs tirpstantis veidas
-🐑	avis gyvūnas
-🕐	00 1 1:00 laikas laikrodis pirma valanda valandos viena
-🔑	raktas saugu slaptažodis spyna
-🚕	automobilis geltona taksi transporto priemonė uber
-🎹	instrumentas klaviatūra muzika muzikos pianinas
-🦮	aklas gyvūnas neįgaliųjų prieinamumas neregys šuo vedlys
-📃	dokumentas puslapis užsirietęs
-👨‍🔧	elektrikas mechanikas prekybininkas santechnikas vyras
-😄	akys besišypsantis išsižiojęs veidas besišypsančiomis akimis burna laimingas praverta šypsena
-🥲	ašara besišypsantis veidas su dėkingas palengvėjimas pasididžiavimas šypsenėlė
-🫥	abejingumas intravertas išnykti nematomas nesvarbu prislėgtas punktyrinis veidas slėptis
-🥤	gazuotas gėrimas puodelis su šiaudeliu soda sultys
-🥃	alkoholis gėrimas stiklinė viskis
-🗼	bokštas tokijas tokijo
-🙄	akys vartantis akis vartyti veidas
-🦥	gyvūnas lėtas tinginys tingus
-🧞	dvasia džinas džinė mistiška mitas norai pasaka patrinti lempą
-🤪	akis akys didelis mažas pamišęs veidas
-👩‍🍳	moteris šefė virėja
-🫘	ankštiniai maistas pupelės raudonosios
-🥇	1-osios vietos medalis auksas pirmoji
-🐘	dramblys gyvūnas
-🔻	geometrija į apačią raudona raudonas nukreiptas trikampis
-🎡	apžvalgos atrakcionų parkas ratas
-🕢	30 7 7:30 laikas laikrodis pusė aštuonių septynios trisdešimt
-💪	bicepsai komiksas kūnas paryškinti ranka raumuo sporto salė
-🎒	krepšys kuprinė mokykla mokyklinė
-😢	ašara liūdnas veidas verkiantis verkti
-👨‍🦯	aklas neįgaliųjų prieinamumas neregys vyras su neregio lazdele
-🫪	išsipūtęs nerimas nustebęs panika pažeidžiamas šokiruotas
-🔕	draudžiama nutildyti perbrauktas varpelis tyliai varpas
-📢	garsiai garsiakalbio simbolis garsiakalbis skelbimas viešas
-🦟	gyvūnas karštinė maliarija negalavimas uodas vabzdys virusas
-🎅	kalėdos kalėdų senelis šventė tėvas
-❕	baltas šauktukas kontūras skyryba žymė
-🤽	marco plaukimas vandens sportas vandensvydis vandensvydžio žaidėjas vanduo žmogus
-🗾	japonijos žemėlapis
-🔆	ryškumas ryškumo mygtukas ryškus
-🤣	juokas lol raitausi iš juoko raitytis veidas
-🦅	erelis gyvūnas paukštis
-🧶	kamuolys megzti nerti siūlai siūlų
-🍇	maistas vaisius vynuogė vynuogės
-🌯	buritas maistas meksikietiškas suvyniotas
-🌎	amerika gaublys pasaulis žemė žemės rutulys su šiaurės ir pietų amerikos žemynais
-🀄	madžongas madžongo raudonas drakonas žaidimas
-🦣	didelis gyvūnas iltis išnykimas mamutas
-🥝	kivis maistas vaisius
-😻	akis besišypsančios katės snukutis su širdelės formos akimis gyvūnas katė meilė šypsena veidas
-🎸	gitara instrumentas muzika
-⏫	dviguba greitai į viršų rodyklė
-🏩	meilė meilės viešbutis pastatas
-🥓	kumpis maistas mėsa
-➗	dalyba matematika paryškintas dalybos ženklas
-🐦‍🔥	atgaivinimas atgimimas atsinaujinimas fantazija feniksas nemirtingas pakilimas pasaka reinkarnacija reinkarnuotis šlovė transformacija ugnies paukštis
-🔁	kartoti mygtukas „pakartoti“ pagal laikrodžio rodyklę rodyklė
-👪	mama šeima tėvas vaikas
-🤍	balta širdelė
-🪃	australija bumerangas grįžimas įrankis
-🔧	įrankis veržliaraktis
-🐶	gyvūnas naminis šuns snukutis šuo veidas
-🦌	elnias gyvūnas
-🎋	japonų medis šventė tanabata
-🕌	islamas mečetė musulmonas religija
-📔	dekoratyvinis knyga užrašų knygelė su dekoratyviniu viršeliu viršelis
-🕗	00 8 8:00 aštuonios laikas laikrodis valandos
-🐲	drakonas drakono snukis gyvūnas pasaka veidas
-👊	artėjantis kumštis ranka smūgis sugniaužtas
-🫙	indas niekas padažas prieskonis saugoti stiklainis tuščias
-🚇	kelionė metro transporto priemonė
-🧏	ausis girdėti kurčias kurtieji ir neprigirdintieji neįgaliųjų prieinamumas žmogus
-🤐	burna paslaptis patylėti užtrauktukas veidas su užtrauktuku vietoje burnos
-👩	moteris šviesiaplaukė
-🍡	dango desertas iešmas japonų lazdelė maistas saldu
-📧	el laiškas paštas
-🛜	belaidis ryšys internetas išmanusis telefonas kompiuteris maršruto parinktuvas plačiajuostis tinklas viešosios prieigos taškas vietinis wi-fi
-🐊	gyvūnas krokodilas
-📌	smeigtukas
-🕕	00 6 6:00 laikas laikrodis šešios valandos
-⛲	fontanas
-🔫	ginklas įrankis pistoletas revolveris vandens šautuvas
-🍐	kriaušė maistas vaisius
-⚓	inkaras įrankis laivas
-🪆	lėlė matrioška matrioškos rusija
-📦	dėžė paketas siuntinys
-🧧	dovana pinigai raudonas vokas sėkmė sėkmės
-🪽	angeliškas aviacija dieviškas kilti mitologija paukštis skrenda skristi sparnas
-🎪	cirkas cirko palapinė
-😏	iš pasitenkinimo besišypsantis veidas pasitenkinimas
-🛄	atsiimti bagažas bagažo skyrius kelionė ženklas
-♑	ožiaragis ožys zodiakas
-🧑‍💼	architektas balta apykaklė dirbantysis biure vadybininkas verslas
-🐁	gyvūnas pelė
-🐌	gamta gyvūnas sraigė
-👩‍🌾	darbininkė moteris sodininkė ūkininkė
-🕑	00 2 2:00 dvi laikas laikrodis valandos
-🎀	kaspinas šventė
-📪	nuleista paštas pašto dėžutė uždaryta su vėliava
-🎮	pramogos pultelis vaizdo žaidimas valdiklis
-🔴	apskritimas geometrija raudonas
-🦞	gyvūnas jūrų gėrybė gėrybės maistas omaras žnyplės
-🛐	garbinimo vieta garbinti religija
-🛹	lenta riedlentė
-👩‍🏭	darbas darbuotoja fabrikas fabriko darbininkė gamyba moteris susirinkimas
-🙅	be šansų draudžiama drausti gestas išskirti ne neigiamas ranka žmogus rodo neigiamą gestą
-🏧	atm automatinis bankas bankomatas bankomato ženklas kasininkas pinigai
-🧢	beisbolo kepuraitė drabužis kepurė su snapeliu reklaminė
-🫎	briedis gyvūnas ragai žinduolis
-💁	gandai informacija informacijos skyriaus darbuotojas įžūlus nesvarbu pagalba plaukų atmetimas ranka ranką iškėlęs žmogus rimtai sarkastiškas sarkazmas
-🈶	hieroglifas japonų mokamą reiškiantis mokamas ne nemokamą nemokamas
-🌺	augalas gėlė kinrožė
-🤬	besikeikiantis piktas veidas su simboliais ant burnos
-🤢	besiruošiantis vemti veidas šlykštu
-💃	moteris šokanti šokis tango
-🦋	drugelis gražus gyvūnas vabzdys
-🐥	atsisukęs snapu viščiukas gyvūnas mažas paukštis
-🚫	draudžiama įėjimas ne rūkyti uždrausta ženklas
-💞	besisukančios širdelės širdelė suktis
-🥖	batonas duona ilgas kepinys maistas prancūziškas prancūzų
-🉑	hieroglifas japonų sutikimą reiškiantis sutikimas
-🚓	automobilis patruliai policija policijos
-🧑‍🔬	biologas chemikas fizikas inžinierius mokslininkas mokslo darbuotojas
-🔒	saugu spyna uždaryta užrakinta
-🐦‍⬛	juodas kovarnis kranklys kranksėjimas paukštis snapas varna varnas
-😐	blogai neišraiškingas neutralus pavydus veidas
-🪘	būgnas ilgas kongas ritmas
-🎩	aukšta cilindras drabužiai kepurė skrybėlė
-👩‍🎤	aktorė dainininkė moteris rokas žvaigždė
-🦄	veidas vienaragio snukis vienaragis
-🐠	gyvūnas tropinė žuvis
-🥥	kokosas maistas palmė pina kolada
-🧣	drabužis kaklas šalikas šalta skara
-🎿	slidės slidinėti sniegas sportas
-🌆	kraštovaizdis miestas pastatas saulėlydis sutemos virš miesto vakaras
-🧐	prabangus turtingas tvankus veidas su monokliu
-😭	ašara garsiai raudantis veidas liūdnas raudoti verkti
-😰	burna išpiltas šalto prakaito išsigandęs išsižiojęs veidas mėlyna prakaitas šaltis šypsenėlės
-💣	bomba komiksas sprogimas
-🐪	dykuma gyvūnas kupra kupranugaris vienakupris
-👨‍🎓	absolventas studentas vyras
-👇	delnu nusukta žemyn pirštu rodanti ranka į apačią indeksas pirštas rodyti
-🥉	3-osios vietos medalis bronza trečioji
-🚅	geležinkelis greitasis traukinys su smailu priekiu greitis kelionė kulka
-🥳	skrybėlė švenčiantis veidas šventė šventimas švilpynė šypsenėlė
-👳	turbanas vyras su turbanu žmogus
-🎧	ausinės garsas
-📨	el laiškas gaunamas vokas gavimas paštas
-⭐	astronomija balta vidutinė žvaigždė
-🫃	išsipūtęs nėščias vyras persivalgęs pilnas pilvas žmogus
-🌌	kosmosas paukščių takas
-🧖	asmuo garų kambaryje atsipalaidavimas garai kambarys moteris pirtyje pirtis prabanga sauna spa
-🚠	gondola kabelis kalnas kalnų keltuvas
-🪙	auksas lobis metalas moneta pinigai sidabras
-🌵	augalas dykuma gamta kaktusas
-😲	apstulbęs priblokštas veidas visiškai
-🙃	apverstas veidas aukštyn kojom šypsena
-🚶	einantis žmogus eisena ėjimas išdidi lengva pasivaikščiojimas pėsčiasis pėstysis vaikščiojimas vaikščioti žingsnis
-👤	biustas biusto siluetas paslaptingas
-🛶	irkluoti kanoja valtis
-🌓	ketvirtis kosmosas mėnulis pirmas fazės pirmoji mėnulio fazė
-🌒	kosmosas mėnulis priešpilnis sapnai
-👽	ateivis fantazija kūrinys nežemiška būtybė veidas
-🕡	30 6 6:00 laikas laikrodis pusė septynių šešios trisdešimt valandos
-🐡	fugu gyvūnas žuvis
-🛃	muitinė pakavimas
-🥛	gėrimas pienas pieno stiklinė sktiklinė
-🛟	gelbėjimas gelbėjimo ratas plaukimas plūduriavimas saugumas
-🫚	alus imbieras imbiero šaknis natūralu prieskonis sveikata žolelė
-🍋	citrina citrusinis maistas vaisius
-🪶	lengvumas plunksna skrydis
-🫹	kairė neutrali ranka tai tas taškas
-👲	kepurė kinietiška kepurėlė vyras su kepurėle
-🤰	moteris neščia nėščia
-🧹	ragana šlavimas šluota valymas
-💑	meilė metinės pora su širdele
-⛅	debesis debesuota oras saulė už debesų
-🩶	aš tave myliu emocija granitas meilė pilka širdelė sidabras širdis ypatinga
-🧨	dinamitas fejerverkai fejerverkas sprogus šviesa
-🏊	laisvasis stilius plaukiantis žmogus plaukikas plaukimas plaukti sportas triatlonas
-🕟	30 4 4:30 laikas laikrodis pusė penkių trisdešimt valandos
-🩰	baletas baleto bateliai batai šokis
-📀	blu-ray diskas kompaktinis kompiuteris optinis skaitmeninis vaizdo
-🏃	atbėgu bėgantis žmogus bėgikas bėgiojimas greitas greitis lenktynės maratonas skubėti
-🧜	folkloras jūros padarai pasaka sirena trišakis undinė undinėlė undinius
-🔽	į apačią mygtukas raudona rodyklė
-💻	asmeninis buras kompiuteris nešiojamas skreitinis
-🧋	arbata burbulai burbulinė gėrimas su šiaudeliu maistas pienas
-🫏	asilas gyvūnas mulas užsispyręs žinduolis
-🪟	atvėrimas langas perregimas rėmas šviežias oras vaizdas
-🐢	gyvūnas vėžlys
-😤	laimėjo nelaimingas niršti pyktis triumfas veidas su iš nosies einančiais garais
-👨‍🚀	astronautas kosmosas raketa vyras
-👩‍💻	išradėja kompiuteris kūrėja moteris programinė įranga programuotoja technologė
-🦠	ameba bakterija mikrobas mokslas virusas
-🥺	gailestingumas maldaujantis veidas maldavimas šuniuko akys
-🤮	liga veidas vemiantis vemti
-❗	raudonas šauktukas skyryba žymė
-🪼	akvariumas bestuburis čiuptuvai deginti geluonis gyvūnas jūrinis medūza oi planktonas vandenynas želė
-🎺	instrumentas muzika trimitas
-🟥	kvadratas raudonas
-😶	burna negaliu patikėti tylus veidas be burnos
-🧬	biologas dnr evoliucija genas genetika gyvybė
-😵‍💫	apsvaigęs bėda spiralė sutrikęs svaigulys šypsenėlė užhipnotizuotas va veidas su spiralinėmis akimis
-📸	blykstė fotoaparatas su blykste vaizdo įrašas
-👩‍🔧	elektrikė mechanikė moteris prekybininkė santechnikė
-💧	komiksas lašas oras prakaitas šaltis
-🪂	pakabinti parašiutas
-🎃	helovinas šventė žibintas iš moliūgo
-🫟	dažai dėmė išsiliejimas lašinti netvarka purslai rašalas skystis
-💖	širdelė susijaudinimas žėrėti žėrinti
-💜	aš tave myliu emocija meilė širdelė violetinė
-🚀	kelionė kosmosas raketa
-🎑	ceremonija mėnesienos mėnulis šventė
-🍦	desertas kremas ledai maistas minkšti saldu
-🥀	augalas gėlė gležna
-😣	atkaklus susikaupęs veidas
-📰	laikraštis naujienos popierius
-🥊	boksas bokso pirštinė
-🧑‍🏫	dėstytojas instruktorius mokantis žmogus mokytojas
-🔺	geometrija raudona raudonas į viršų nukreiptas trikampis
-📺	televizorius tv vaizdo įrašas
-🦬	banda bizonas buivolas gyvūnas
-👸	fantazija karalienė pasaka princesė
-😋	besimėgaujantis niam skaniu maistu veidas skanu šypsena
-👗	drabužiai suknelė
-🦎	driežas gyvūnas roplys
-🫳	imti nekreipti dėmesio numesta numesti paimti ranka delnu žemyn štiš
-🥎	kamuolys pažastis pirštinė softbolas sportas
-💉	adata dūris gydytojas įrankis ligonis medicina švirkštas
-🪧	demonstracija piketas plakatas protestas ženklas
-🌃	naktis žvaigždė žvaigždėta
-📕	knyga mokslas užversta užverta
-😇	angelas aureolė besišypsantis veidas su aureole fantazija nekaltas
-🍃	lapas vėjyje pūsti skrajoti vėjas
-🫒	alyvuogė alyvuogės šakelė maistas
-🔜	greitai rodyklė su užrašu „soon“
-🧑‍🍼	asmuo auklė kūdikį maitinantis kūdikis maitinimas krūtimi mama moteris naujagimis tėvas vyras žmogus
-🚍	artėjantis autobusas transporto priemonė
-🧄	česnakas maistas prieskonis
-👯	ausys besilinksminančios moterys dvynės geriausios draugės kiškučio merginos pora šokėjos vakarėlis zuikutis
-🪤	pasala pelėkautai spąstai sūris
-🥸	akiniai inkognito nosis pasislėpęs paslėptas veidas šnipas ūsai žmogus
-🥅	tinklas vartai
-🍪	desertas maistas saldu sausainis
-🔎	didinimo stiklas į dešinę įrankis paieška
-🩴	batai dirželiai paplūdimio sandalai šlepetė su dirželiu
-💢	komiksas piktas pykčio simbolis supykęs
-🥙	įdaras įdarytas lavašas kebabas maistas
-🐈	augintinis gyvūnas katė naminis
-📥	dėklas gaunamų laiškų gauti laiškas paštas
-🚮	šiukšlė šiukšliadėžė šiukšlių metimo į šiukšliadėžes ženklas
-🟨	geltonas kvadratas
-🥼	bandymas drabužiai gydytojas laboratorinis chalatas medicina mokslas mokslininkas
-🧱	molis plyta plytos siena skiedinys
-🧈	maistas pieno produktas sviestas
-💓	plakanti pulsavimas širdelė širdies plakimas širdis
-🎏	gyvūnas karpio vėtrungė karpis šventė žuvis
-♈	avinas zodiakas
-🛌	labanakt miegoti viešbutis žmogus lovoje
-🦇	gyvūnas šikšnosparnis vampyras
-🚐	autobusas mikroautobusas transporto priemonė
-🐬	delfinas fliperis gyvūnas paplūdimys vandenynas
-🐅	gyvūnas tigras
-🌉	naktis tiltas naktį
-🤌	pirštai rankos gestas sarkastiškas suspausti
-🛀	vonia žmogus prausiasi vonioje
-👶	jaunas kūdikis lauktis naujagimis
-🍁	klevas klevo lapas krenta
-🚜	traktorius transporto priemonė
-💠	deimantas su tašku geometrija komiksas viduje
-😚	akys bučinys bučiuojantis su užmerktomis akimis pasimatymas užmerktos veidas
-👮	įstatymas pareigūnas policija policijos policininkas priedangoje dirbantis suimti sulaikyti sustabdytas
-🍥	kepiniai maistas pyragėlis sūkurys žuvies su išpieštu sūkurio simboliu žuvis
-🧌	fantazija pabaisa pasaka trolis
-👠	aukštakulnis batelis batai batas drabužiai kulnas moteris
-🧑‍🎄	kalėdos kalėdų asmuo senelis kepurė žmogus
-👩‍🏫	dėstytoja instruktorė mokytoja moteris profesorė
-🌴	medis palmė paplūdimys
-🏭	gamykla pastatas
-🔷	deimantas didelis mėlynas rombas geometrija
-💡	elektra idėja komiksas lemputė šviesa
-🪾	be vaisių medis lapų sausra žiema
-🔙	atgal rodyklė su užrašu „back“
-🫲	į kairę rodanti ranka kairė kairioji pasisveikinimas rankos paspaudimas tiesimas
-💒	koplyčia romantika vestuvės
-🆔	id mygtukas „id“ simbolis tapatybė
-🧑‍🩰	baletas šokėjas
-🥪	duona maistas sumuštinis
-⌛	laikas laikmatis laikrodis smėlio smėlis
-🔀	maišyti takelius mygtukas rodyklė sukryžiuota
-😦	burna išsižiojęs nustebęs oho paniuręs veidas
-🍄‍🟫	baravykas dantenis daržovė gamta grybas ingredientai maistas natūralus picos spora trumas valgomas vegetaras
-🦫	bebras dantys gyvūnas užtvanka
-🥚	kiaušinis maistas
-🛑	aštuonkampis sustojimo ženklas sustoti
-🎫	bilietas įėjimas
-👺	demonas fantazija monstras padaras pasaka veidas
-🤷	abejojantis žmogus abejonė galbūt gūžtelėjimas pečiais ignoravimas nesvarbu nežinau nežinojimas trūkčioti
-🦏	gyvūnas raganosis
-🍿	kinas maistas spragėsiai
-☕	arbata garuoja gėrimas gerti karšta karštas kava
-📴	išjungti mobilųjį telefoną mobilusis telefonas
-👘	drabužiai kimono patogu
-🚈	geležinkelis miesto tramvajus
-🧷	pankrokas vystyklai žiogelis
-🍔	greitasis greitmaistis maistas mėsainis
-🔸	deimantas geometrija mažas oranžinis rombas
-🎎	festivalis japoniškos lėlės japonų lėlė šventė
-🧘	atsipalaidavimas joga jogas jogė lotoso poza meditacija ramybė sukryžiuotos kojos žmogus pozoje
-🥾	aulinis batas kuprinė rudas stovyklavietė žygiai žygio batai
-🦙	alpaka guanakas gyvūnas lama lamos vilna
-🆚	mygtukas „vs“ palyginti simbolis
-🧦	blauzdinė drabužis kojinės
-🛕	induistai induistų šventykla
-💝	kaspinas metinės širdelė su kaspinu valentino diena
-🔂	kartoti vieną kartą mygtukas pagal laikrodžio rodyklę rodyklė
-🌷	augalas gėlė tulpė
-🧑‍🧑‍🧒	šeima suaugusysis vaikas
-🥰	besišypsantis veidas su trimis širdelėmis dievinti garbinimo objektas įsimylėjęs
-💍	deimantas sužadėtuvės vestuvės žiedas
-🕖	00 7 7:00 laikas laikrodis septynios valandos
-🚷	draudžiama ne pėstiesiems eiti pėstysis uždrausta
-🐾	letenos pėdos pėdsakai pėdutės
-👨‍🎨	dailininkas paletė vyras
-🍤	kepta krevetė maistas tempura
-🦢	bjaurusis ančiukas gulbė gyvūnas paukštis
-🔏	privatumas rašalas rašiklis smaigalys spyna ir
-⛄	šaltis sniegas sniego senis be
-💀	kaukolė mirtis monstras pasaka veidas
-🏴	juoda vėliava mojavimas mojuoti
-👍	į viršų iškeltas nykštys liuks pirštas ranka
-🧑‍💻	išradėjas koderis programinė įranga programuotojas technikas
-🪊	džiazas instrumentas liūdnas muzika pučiamieji
-🌭	dešrainis dešrelė maistas
-♎	pusiausvyra svarstyklės teisingumas zodiakas
-🪇	barškalai barškutis barškynė instrumentas kratyti marakasai mušamieji muzika purtyti
-💂	londonas sargyba sargybinis
-🛸	ateiviai nežemiška nso skraidanti lėkštė
-➰	kilpa kilpelė raityti
-🎴	gėlė japonų kortos su gėlėmis žaidimas
-🦪	austrė jūros gėrybės maistas nardymas perlas
-🪯	deg tegh fateh khalsa khanda religija sikhas sikhizmas tikėjimas
-🛅	bagažas lagaminas paliktas spintelė ženklas
-🉐	hieroglifas japonų susitarimą reiškiantis susitarimas
-🧑‍🏭	darbininkas gamykla gamyklos darbuotojas industrinis surinkimas
-🔰	geltonas įrankis japoniškas pradedančiojo simbolis japonų lapas pradedantysis žalias
-🫍	banginis jūrinis vandenynas
-♊	dvyniai zodiakas
-🍒	maistas vaisius vyšnia vyšnios
-🦘	australija gyvūnas jauniklis kengūra šokinėti sterblinis
-🦯	aklas neįgaliųjų prieinamumas neregio lazda neregys
-🧼	maudytis muilas muilinė muilinti plytelė praustis
-🧿	amuletas akis blogio karoliukas nazaras talismanas žavesys
-🎱	8 kamuoliukas biliardas biliardo žaidimas
-🍭	desertas ledinukas ant pagaliuko maistas saldainis saldu
-🥈	2 vieta 2-osios vietos medalis antroji sidabras
-🔬	įrankis laboratorija mikroskopas mokslas
-🤞	kryžiuoti kryžius laimė pirštai ranka sėkmė sukryžiuoti
-🍛	karis maistas ryžiai su kariu
-👌	gerai ženklas rankomis ok ranka
-👆	delnu nusukta aukštyn pirštu rodanti ranka į viršų indeksas kūnas pirštas rodyti
-👉	į dešinę pirštu rodanti ranka indeksas pirštas rodyti
-🎍	augalas bambukas dekoracija iš pušies japonų pušis šventė
-🧔	barzda barzdotas žmogus
-🦶	galūnė koja kūno dalis pėda spyris trepsėti
-🈺	hieroglifas japonų veikimą reiškiantis veikti
-🧮	skaičiavimas skaitliukas skaitytuvai skaitytuvas
-🏁	langeliai languota vėliava lenktynės sportas langeliais
-🙈	beždžionė blogis draudžiama gyvūnas matyti negaliu žiūrėti uždrausta užsidengusi akis veidas
-🍠	bulvė kepta saldžioji maistas saldi
-🕋	islamas kaaba musulmonas religija
-🫓	arepa duona lavašas maistas naan paplotis pita
-😠	piktas pyktis veidas
-🫶	meilė myliu tave rankos širdelė iš rankų širdis
-🤖	monstras robotas roboto veidas
-◾	geometrija juodas vidutiniškai mažas kvadratas
-🤤	besiseilėjantis veidas seilės
-🏹	ginklas įrankis lankas ir strėlė šaulys zodiako
-💔	emocija liūdnas širdelė sudaužyta sudaužyti
+👩‍💼	architektė architekte biuras biuro darbuotoja darbas įstaigoje istaigoje moteris vadybininkė vadybininke verslas
+👽	ateivis fantazija kūrinys kurinys nežemiška nezemiska būtybė butybe veidas
 🍍	ananasas maistas vaisius
-🤱	krūtinė kūdikis maitinimas krūtimi priežiūra žmogus
-👨‍🍼	auklė kūdikį maitinantis vyras kūdikis maitinimas krūtimi mama naujagimis tėvas žmogus
-👫	draugai laikyti moteris pora ranka susikibę už rankų vyras ir
+😊	akys besišypsantis besisypsantis veidas su besišypsančiomis besisypsanciomis akimis nurausti patenkintas šypsena sypsena
+🛸	ateiviai nežemiška nezemiska nso skraidanti lėkštė lekste
+♿	neįgalieji neigalieji neįgaliojo neigaliojo vežimėlio vezimelio simbolis neįgaliųjų neigaliuju prieinamumas pasiekiamumas
+🪆	lėlė lele matrioška matrioska matrioškos matrioskos rusija
+👈	į i kairę kaire pirštu pirstu rodanti ranka indeksas pirštas pirstas rodyti
+🐤	gyvūnas gyvunas mažas mazas viščiukas visciukas
+🍬	desertas maistas saldainis saldu
+👨‍🍳	šefas sefas virėjas virejas vyras
+😣	atkaklus susikaupęs susikaupes veidas
+🫯	diskusijos ginčas gincas grumtynės grumtynes kova muštynės mustynes nesutarimas triukšmas triuksmas
+🥂	gėrimas gerimas sudaužti sudauzti sudaužtos sudauztos taurės taures šventimas sventimas
+🤜	dešinėn desinen į i dešinę desine nukreiptas kumštis kumstis ranka
+🎽	atletika bėgimas begimas bėgimo begimo marškinėliai marskineliai juosta
+🎎	festivalis japoniškos japoniskos lėlės leles japonų japonu lėlė lele šventė svente
+📺	televizorius tv vaizdo įrašas irasas
+🌜	delčios delcios mėnulis menulis su veidu ketvirtis veidas
+👀	akis akys kūnas kunas veidas žiūrėti ziureti
+🫖	arbata arbatinukas gėrimas gerimas maistas puodas
+🦚	gyvūnas gyvunas išdidus isdidus mėgstantis megstantis pasirodyti paukštis paukstis povas povė pove
+🫧	burbulai burbulas muilas perlas po vandeniu švara svara
+📑	skirtukai skirtukas žyma zyma žymė zyme žymeklis zymeklis žymių zymiu
+👡	basutė basute batai batas drabužiai drabuziai moteris moteriška moteriska sandalas
+💺	kėdė kede vieta
+🍝	itališkas italiskas patiekalas maistas makaronai pasta spagečiai spageciai
+🚿	dušas dusas vanduo
+🦜	gyvūnas gyvunas kalbantis kalbėti kalbeti papūga papuga paukštis paukstis piratas
+🪯	deg tegh fateh khalsa khanda religija sikhas sikhizmas tikėjimas tikejimas
+🏣	japoniškas japoniskas paštas pastas japonų japonu pastatas
+🏭	gamykla pastatas
+🤍	balta širdelė sirdele
+🥢	haši hasi įrankiai irankiai lazdelės lazdeles
+🏥	gydytojas ligoninė ligonine medicina pastatas
+🙈	beždžionė bezdzione blogis draudžiama draudziama gyvūnas gyvunas matyti negaliu žiūrėti ziureti uždrausta uzdrausta užsidengusi uzsidengusi akis veidas
+🐱	augintinis gyvūnas gyvunas katė kate katės kates snukutis naminis veidas
+🪁	aitvaras pakilti skristi
+🤖	monstras robotas roboto veidas
+🫄	išsipūtęs issiputes nėščias nescias asmuo persivalgęs persivalges pilnas pilvas
+🔑	raktas saugu slaptažodis slaptazodis spyna
+🤡	klounas klouno veidas
+🫍	banginis jūrinis jurinis vandenynas
+🐹	augintinis gyvūnas gyvunas naminis veidas žiurkėnas ziurkenas žiurkėno ziurkeno snukutis
+🥟	kibinas kukulis maistas tešlos teslos gaminys virtinis
+🔪	ginklas įrankiai irankiai įrankis irankis maisto gaminimas peilis virtuvinis
+👙	bikinis drabužiai drabuziai maudymosi kostiumėlis kostiumelis moteris paplūdimys papludimys plaukti
+🚸	eismas perėja pereja pėstysis pestysis vaikas vaikų vaiku
+◾	geometrija juodas vidutiniškai vidutiniskai mažas mazas kvadratas
+🫎	briedis gyvūnas gyvunas ragai žinduolis zinduolis
+🫳	imti nekreipti dėmesio demesio numesta numesti paimti ranka delnu žemyn zemyn štiš stis
+🎵	muzika muzikos nata
+🚷	draudžiama draudziama ne pėstiesiems pestiesiems eiti pėstysis pestysis uždrausta uzdrausta
+🦫	bebras dantys gyvūnas gyvunas užtvanka uztvanka
+🦪	austrė austre jūros juros gėrybės gerybes maistas nardymas perlas
+🛌	labanakt miegoti viešbutis viesbutis žmogus zmogus lovoje
+🎹	instrumentas klaviatūra klaviatura muzika muzikos pianinas
+🫩	išsekęs issekes mieguistas pavargęs pavarges veidas su maišeliais maiseliais po akimis
+🥨	kepinys maistas riestainis susuktas
+🦅	erelis gyvūnas gyvunas paukštis paukstis
+💐	gėlė gele gimtadienis meilė meile metinės metines puokštė puokste
+👜	drabužiai drabuziai krepšys krepsys rankinė rankine
+🈳	hieroglifas japonų japonu tuštuma tustuma tuštumą reiškiantis reiskiantis
+🐟	gyvūnas gyvunas zodiakas žuvis zuvis žuvys zuvys
+🫁	įkvėpimas ikvepimas iškvėpimas iskvepimas kvėpavimas kvepavimas organas plaučiai plauciai
+👨‍🎤	aktorius dainininkas rokas vyras žvaigždė zvaigzde
+🛖	apvalus namas jurta namelis
+🍀	4 augalas dobilas keturi keturlapis lapas
+🪕	bandža bandza instrumentas muzika styginis
+😌	nurimęs nurimes palengvėjimas palengvejimas ramus veidas su palengvėjimu palengvejimu
+🐺	gyvūnas gyvunas veidas vilkas vilko snukis
+🦣	didelis gyvūnas gyvunas iltis išnykimas isnykimas mamutas
+🦆	antis gyvūnas gyvunas paukštis paukstis
+🦢	bjaurusis ančiukas anciukas gulbė gulbe gyvūnas gyvunas paukštis paukstis
+🛷	rogės roges sniegas
+😍	akys besišypsantis besisypsantis veidas su širdelės sirdeles formos akimis meilė meile šypsena sypsena
+🌓	ketvirtis kosmosas mėnulis menulis pirmas fazės fazes pirmoji mėnulio menulio fazė faze
+🪣	kibiras
+👾	ateivis fantazija kosmosas kūrinys kurinys monstras nežemiška nezemiska būtybė butybe pabaisa veidas
+🔔	bažnyčia baznycia pertrauka varpas varpelis
+🩳	apatiniai drabužis drabuzis maudymosi kostiumas šortai sortai trumpikės trumpikes
+🖖	kūnas kunas pasisveikinimas pirštas pirstas ranka vulkanai vulkanų vulkanu rasės rases pasisveikinimo ženklas zenklas žvaigždžių zvaigzdziu kelias
+👯	ausys besilinksminančios besilinksminancios moterys dvynės dvynes geriausios draugės drauges kiškučio kiskucio merginos pora šokėjos sokejos vakarėlis vakarelis zuikutis
+🥌	akmenslydis akmuo kerlingas sportas žaidimas zaidimas
+🎺	instrumentas muzika trimitas
+🌑	jaunas mėnulis menulis jaunatis kosmosas tamsa
+👆	delnu nusukta aukštyn aukstyn pirštu pirstu rodanti ranka į i viršų virsu indeksas kūnas kunas pirštas pirstas rodyti
+🧑‍🌾	sodininkas ūkininkas ukininkas ūkininkaujantis ukininkaujantis žmogus zmogus
+🥧	kepinys maistas pyragas tešla tesla tešlos teslos gaminys užpildytas uzpildytas
+📠	faksas fakso aparatas
+😆	besišypsantis besisypsantis išsižiojęs issiziojes veidas su smarkiai užmerktomis uzmerktomis akimis burna cha juokas pasitenkinęs pasitenkines patenkintas praverta šypsena sypsena šypsenėlės sypseneles
+🧣	drabužis drabuzis kaklas šalikas salikas šalta salta skara
+🐖	ferma gyvūnas gyvunas kiaulė kiaule kiauliena
+🛜	belaidis ryšys rysys internetas išmanusis ismanusis telefonas kompiuteris maršruto marsruto parinktuvas plačiajuostis placiajuostis tinklas viešosios viesosios prieigos taškas taskas vietinis wi-fi
+🍉	arbūzas arbuzas maistas vaisius
+🪮	juodaodžių juodaodziu plaukai plaukų plauku šukutės sukutes rinkti šukos sukos šukuoti sukuoti
+💠	deimantas su tašku tasku geometrija komiksas viduje
+🛹	lenta riedlentė riedlente
+📲	mobilusis telefonas su rodykle prietaisas rodyklė skambinti
+🚳	draudžiama draudziama dviračiai dviraciai draudžiami draudziami dviratis ne transporto priemonė priemone uždrausta uzdrausta ženklas zenklas
+🤑	burna pinigai turtingas veidas su pinigu vietoje liežuvio liezuvio
+🚅	geležinkelis gelezinkelis greitasis traukinys su smailu priekiu greitis kelionė kelione kulka
+📒	knyga sąskaitų saskaitu užrašų uzrasu knygelė knygele
+🧂	druska druskinė druskine maistas prieskonis
+🫪	išsipūtęs issiputes nerimas nustebęs nustebes panika pažeidžiamas pazeidziamas šokiruotas sokiruotas
+🧞	dvasia džinas dzinas džinė dzine mistiška mistiska mitas norai pasaka patrinti lempą lempa
+🍭	desertas ledinukas ant pagaliuko maistas saldainis saldu
+🌳	augalas lapuotis medis mesti
+🚤	kelionė kelione milijardierius motorinė motorine valtis motorinis kateris prabanga
+👵	močiutė mociute moteris sena šviesiaplaukė sviesiaplauke
+🐈‍⬛	gyvūnas gyvunas juoda katė kate nelaimė nelaime
+🚉	geležinkelis gelezinkelis stotis traukinys
+🚐	autobusas mikroautobusas transporto priemonė priemone
+❔	baltas klaustukas klausimas kontūras konturas skyryba žymė zyme
+🔐	raktas saugu spyna uždaryta uzdaryta užrakinta uzrakinta su raktu
+👰	nuotaka su veliumu veliumas vestuvės vestuves
+🧠	kūno kuno dalis protingas smegenys
+🔚	pabaiga rodyklė rodykle su užrašu uzrasu „end“
+🥁	būgnas bugnas lazdelės lazdeles muzika
+🛶	irkluoti kanoja valtis
+😨	baimė baime baimės baimes pilnas veidas išsigandęs issigandes susirūpinęs susirupines
+🥫	konservai maistas skardinė skardine
+🎈	balionas gimtadienis šventė svente
+🤏	mažai mazai mažas mazas kiekis pirštai pirstai žnybianti znybianti ranka
+🐕‍🦺	aptarnavimas neįgaliųjų neigaliuju prieinamumas pagalba šuo suo tarnaujantis tarnyba tarnybinis
+🦑	gyvūnas gyvunas jūros juros gėrybės gerybes kalmaras maistas moliuskas
+🍹	baras gėrimas gerimas taurė taure tropinis
+🦂	gyvūnas gyvunas skorpionas zodiakas
+💴	bankas banknotas jena jenos pinigai valiuta
+🫹	kairė kaire neutrali ranka tai tas taškas taskas
+➖	matematika minusas paryškintas paryskintas
+🚏	autobusas autobusų autobusu stotelė stotele
+🎱	8 kamuoliukas biliardas biliardo žaidimas zaidimas
+🥡	austrių austriu kibirėlis kibirelis dėžutė dezute išsinešti issinesti lazdelės lazdeles maistas į i namus
+🪳	gyvūnas gyvunas tarakonas vabzdys
+🔜	greitai rodyklė rodykle su užrašu uzrasu „soon“
+🏪	parduotuvė parduotuve pastatas visą visa parą para dirbanti
+🍊	citrusinis vaisius maistas mandarinas nektarinas oranžinis oranzinis
+👑	drabužiai drabuziai karalienė karaliene karalius karūna karuna
+🕖	00 7 7:00 laikas laikrodis septynios valandos
+💟	emocija purpurinė purpurine širdelė sirdele širdelės sirdeles dekoracija širdis sirdis
+🚱	draudžiama draudziama gerti vandenį vandeni geriamas gėrimas gerimas ne uždrausta uzdrausta vanduo
+👣	drabužiai drabuziai kūnas kunas pėdsakai pedsakai pėdsakas pedsakas
+🍅	augalas daržovė darzove maistas pomidoras
+📰	laikraštis laikrastis naujienos popierius
+🟢	apskritimas žalias zalias
+🚆	geležinkelis gelezinkelis traukinys
+⚪	apskritimas baltas geometrija rutulys
+🪞	atspindys atšvaitas atsvaitas makiažas makiazas reflektorius veidrodis
+🐈	augintinis gyvūnas gyvunas katė kate naminis
+🦒	dėmė deme gyvūnas gyvunas žirafa zirafa
+🌾	augalas javai ryžiai ryziai ryžių ryziu pėdas pedas varpa
+📎	sąvaržėlė savarzele
+🐎	arklių arkliu varžybos varzybos arklys gyvūnas gyvunas varžytis varzytis žirgas zirgas žirgų zirgu lenktynės lenktynes
+🪉	arfa instrumentas kupidonas meilė meile muzika orkestras
+🎊	kamuolys konfeti šventė svente
+⏬	dviguba greitai į i apačią apacia mygtukas rodyklė rodykle
+🧳	bagažas bagazas kelionė kelione lagaminas pakavimas
+🪱	gyvūnas gyvunas kirmėlė kirmele kirmėlės kirmeles parazitai sliekai
+🍸	baras gėrimas gerimas kokteilio taurė taure kokteilis
+🏫	mokykla pastatas
+🧑‍🦯	aklas prieinamumas žmogus zmogus neregio lazdele su
+🫔	meksikietiškas meksikietiskas pamonha susuktas vyniotinis
+🥦	brokolis daržovė darzove laukinis kopūstas kopustas maistas
+💂	londonas sargyba sargybinis
+🧴	apsauga nuo saulės saules drėkinamasis drekinamasis kremas losjonas losjono buteliukas šampūnas sampunas
+🚙	automobilis padidinto pravažumo pravazumo rekreacijos suv transporto priemonė priemone
+🫃	išsipūtęs issiputes nėščias nescias vyras persivalgęs persivalges pilnas pilvas žmogus zmogus
+🔽	į i apačią apacia mygtukas raudona rodyklė rodykle
+🍱	bento dėžutė dezute maistas
+🏈	amerikietiškas amerikietiskas amerikietiškojo amerikietiskojo futbolo kamuolys futbolas sportas
+🪻	augalas gėlė gele hiacintas indigo levandos lubinai pavasaris violetinis žeidas zeidas želdinys zeldinys žydėjimas zydejimas
+😧	kenčiantis kenciantis nelaimingas nustebęs nustebes veidas
+🤔	mąstantis mastantis veidas mąstymas mastymas susimąstęs susimastes šypsenėlės sypseneles
+👩‍🍼	auklė aukle kūdikį kudiki maitinanti moteris kūdikis kudikis maitinimas krūtimi krutimi mama naujagimis žmogus zmogus
+🛝	čiuožykla ciuozykla pramogų pramogu parkas šliuožti sliuozti šliuožykla sliuozykla žaidimų zaidimu aikštelė aikstele žaisti zaisti
+👷	atstatyti darbas darbuotojas kepurė kepure rekonstruoti šalmas salmas statyba statybininkas žmogus zmogus
+🪒	aštrus astrus skusti skustuvas
+🕔	00 5 5:00 laikas laikrodis penkios valandos
+🪬	amuletas apsauga delnas fatima hamsa marija ranka sėkmė sekme
+🧻	popieriaus ritinys popieriniai rankšluosčiai ranksluosciai tualetinis popierius
+🕜	1 1:30 30 laikas laikrodis pusė puse dviejų dvieju trisdešimt trisdesimt viena
+🆕	mygtukas „new“ nauja new simbolis
+🏆	pergalė pergale prizas sportas trofėjus trofejus
+🐗	gyvūnas gyvunas kiaulė kiaule šernas sernas
+📊	diagrama juosta juostinė juostine
+🤒	ligonis serga termometras veidas su termometru
+🫢	aiktelėjimas aiktelejimas gėda geda išgąstis isgastis netikėjimas netikejimas netikėtumas netiketumas nuostaba o dieve pagarbi baimė baime staigmena tyla veidas atmerktomis akimis ir ranka uždengta uzdengta burna
+🖕	pirštas pirstas ranka vidurinis
+💹	augimas diagrama didėjimo didejimo su jenos simboliu jena tendencijos valiuta
+🟤	apskritimas rudas
+👅	kūnas kunas laižyti laizyti liežuvis liezuvis
+🪧	demonstracija piketas plakatas protestas ženklas zenklas
+🧹	ragana šlavimas slavimas šluota sluota valymas
+🐩	gyvūnas gyvunas pudelis šuo suo
+🔥	įrankis irankis karšta karsta liepsna ugnis
+💙	mėlyna melyna širdelė sirdele
+🤳	asmenukė asmenuke fotoaparatas telefonas
+👞	batai batas drabužiai drabuziai vyras vyriškas vyriskas
+👥	biustas biustų biustu siluetai draugai siluetas žmonės zmones
+🤸	aktyvus gimnastika kūliavirstis kuliavirstis laimingas persivertimas šonu sonu susijaudinęs susijaudines vertimasis kūliais kuliais žmogus zmogus
+😓	išpiltas ispiltas šalto salto prakaito išsigandęs issigandes nervingas prakaitas šaltas saltas veidas
+🐮	gyvūnas gyvunas karvė karve karvės karves snukis veidas
+♋	krabas vėžys vezys zodiakas
+👨‍🌾	darbininkas sodininkas ūkininkas ukininkas vyras
+🤚	pakelta viršutinė virsutine plaštakos plastakos pusė puse plaštaka plastaka ranka
+🌊	banga banglentininkas gamta vandens vandenynas vanduo
+🪦	kapas kapinės kapines mirtis paminklas
+🚻	moteris tualetas tualeto kambarys wc ženklas zenklas
+👨‍🏫	dėstytojas destytojas mokytojas profesorius vyras
+🔌	elektra elektros kištukas kistukas
+🔤	abc abėcėlė abecele įvestis ivestis lotyniškos lotyniskos raidės raides
+👄	bučinys bucinys burna kūnas kunas lūpdažis lupdazis lūpos lupos
+🙄	akys vartantis akis vartyti veidas
+🌐	dienovidiniai gaublys pasaulis žemė zeme žemės zemes rutulys su dienovidiniais
+🐻	gyvūnas gyvunas meška meska meškos meskos snukis veidas
+👚	drabužiai drabuziai moteris moteriški moteriski palaidinė palaidine
+🔋	baterija
+🕛	00 12 12:00 dvylika valandų valandu laikas laikrodis valandos
+💁	gandai informacija informacijos skyriaus darbuotojas įžūlus izulus nesvarbu pagalba plaukų plauku atmetimas ranka ranką iškėlęs iskeles žmogus zmogus rimtai sarkastiškas sarkastiskas sarkazmas
+🧮	skaičiavimas skaiciavimas skaitliukas skaitytuvai skaitytuvas
+🧪	bandymas chemija chemikas laboratorija mėgintuvėlis megintuvelis mokslas
+🏒	lazda ledas ledo riedulys ritulio ir ritulys žaidimas zaidimas
+😀	išsišiepęs issisiepes veidas išsišiepti issisiepti linksmas
+🎭	kaukė kauke menas pasirodymas scenos teatras
+🐑	avis gyvūnas gyvunas
+🧇	geležinis gelezinis kepinys maistas neaiškus neaiskus vaflis
+🍲	maistas puodas su maistu troškinys troskinys
+🚁	kelionė kelione sraigstasparnis transporto priemonė priemone
+🧓	kitas suaugusysis neutrali lytis senas žmogus zmogus
+🫴	ateik gaudyti kviesti nežinau nezinau papasakok ranka delnu į i viršų virsu siūlymas siulymas
+⛳	duobutė duobute golfas skylutė skylute sportas vėliava veliava duobutėje duobuteje skylutėje skyluteje
+🥖	batonas duona ilgas kepinys maistas prancūziškas prancuziskas prancūzų prancuzu
+🍛	karis maistas ryžiai ryziai su kariu
+🥜	maistas riešutas riesutas žemės zemes
+🍈	augalas maistas melionas vaisius
+🤥	melas meluojantis veidas pinokis
+🤿	nardymas nardymo kaukė kauke
+😎	akiniai nuo saulės saules besišypsantis besisypsantis veidas su akiniais kietas saulė saule šaunus saunus šviesus sviesus
+💑	meilė meile metinės metines pora su širdele sirdele
+🚖	artėjantis artejantis taksi transporto priemonė priemone uber
+🙏	gestas melstis prašymas prasymas ranka suglausti delnai
+🦔	ežys ezys gyvūnas gyvunas spygliuotas
+😬	besivaipantis veidas grimasa šypsenėlės sypseneles
+🏠	namai namas pastatas priemiestis
+🗻	fudžio fudzio kalnas fudžis fudzis gamta
+🐕	augintinis gyvūnas gyvunas naminis šuo suo
+🐥	atsisukęs atsisukes snapu viščiukas visciukas gyvūnas gyvunas mažas mazas paukštis paukstis
+🦏	gyvūnas gyvunas raganosis
+🧤	drabužis drabuzis pirštinės pirstines ranka
+😹	ašara asara džiaugsmas dziaugsmas džiaugsmo dziaugsmo ašaros asaros gyvūnas gyvunas katė kate katės kates snukutis su ašaromis asaromis veidas
+🥴	apkvaišęs apkvaises veidas apsvaigęs apsvaiges banguojanti burna įkaušęs ikauses nelygios akys
+➰	kilpa kilpelė kilpele raityti
+🚄	geležinkelis gelezinkelis greitasis greitis traukinys
+🐔	gyvūnas gyvunas paukštis paukstis višta vista
+🤼	dvikova grumtynės grumtynes imtynės imtynes imtynininkai imtynininkas imtynių imtyniu turnyras kova ringe žmonės zmones
+🍚	maistas ryžiai ryziai virti
+🏯	japoniška japoniska pilis japonų japonu pastatas
+🩲	apatiniai drabužis drabuzis maudymosi kostiumėlis kostiumelis trumpikės trumpikes viena dalis
+🦺	drabužis drabuzis gelbėjimosi gelbejimosi kritinė kritine padėtis padetis liemenė liemene
+🔹	deimantas geometrija mažas mazas mėlynas melynas rombas
+🔊	didelis garsiakalbio garsumas garsiakalbis garsus prietaisas
+🫝	agurkas bėda beda marinuotas pagardas raugas sūrymas surymas užkandis uzkandis
+🧑‍🔬	biologas chemikas fizikas inžinierius inzinierius mokslininkas mokslo darbuotojas
+🕺	elegantiškas elegantiskas flamenko salsa šokėja sokeja šokiai sokiai šokti sokti šventinis sventinis tango
+🧙	burtininkas išminčius ismincius kerai kerėtoja keretoja kerėtojas keretojas magas magija pasaka ragana raganius
+🥄	įrankiai irankiai įrankis irankis šaukštas saukstas
+🦃	gyvūnas gyvunas kalakutas padėkos padekos diena paukštis paukstis
+🤵	asmuo su smokingu jaunikis smokingas vyras
+💈	kirpėjas kirpejas kirpėjo kirpejo suktukas šukuosena sukuosena
+🌏	australija azija gaublys pasaulis žemė zeme žemės zemes rutulys su azijos ir australijos žemynais zemynais
+🎿	slidės slides slidinėti slidineti sniegas sportas
+👩‍🔬	biologė biologe chemikė chemike fizikė fizike inžinierė inziniere matematikė matematike mokslininkė mokslininke moteris
+👨‍🏭	darbas darbuotojas fabrikas fabriko darbininkas gamyba susirinkimas vyras
+🫛	ankštiniai ankstiniai augalai ankštis ankstis daržovė darzove edamame pupos sojos pupelė pupele žirnis zirnis žirnių zirniu
+🔃	pagal laikrodžio laikrodzio rodyklę rodykle rodyklė vertikalios rodyklės rodykles kryptimis nukreiptos
+🚡	automobilis gondola kabelis lyno keltuvas lynų lynu orinis tramvajus transporto priemonė priemone
+🐧	antarktida gyvūnas gyvunas paukštis paukstis pingvinas
+🚼	kūdikio kudikio simbolis kūdikis kudikis vystyklų vystyklu keitimas
+💃	moteris šokanti sokanti šokis sokis tango
+👨‍🎓	absolventas studentas vyras
+🌍	afrika europa gaublys pasaulis žemė zeme žemės zemes rutulys su europos ir afrikos žemynais zemynais
+🏴	juoda vėliava veliava mojavimas mojuoti
+🔵	apskritimas geometrija mėlynas melynas
+📡	antena indas mokslas palydovas palydovinė palydovine
+📝	atmintinė atmintine bendravimas pieštukas piestukas
+🐯	gyvūnas gyvunas plėšrūnas plesrunas tigras tigro snukis veidas
+👦	anūkas anukas berniukas jaunas sūnus sunus vaikas
+📤	dėklas deklas išsiųsti issiusti laiškas laiskas paštas pastas siunčiami siunciami siunčiamų siunciamu laiškų laisku
+🥃	alkoholis gėrimas gerimas stiklinė stikline viskis
+🐢	gyvūnas gyvunas vėžlys vezlys
+🎁	dėžutė dezute dovana gimtadienis kalėdos kaledos supakuota suvyniota šventė svente
+👺	demonas fantazija monstras padaras pasaka veidas
+🧑‍🚀	astronautas kosmonautas raketa
+👬	draugai du vyrai susikibę susikibe už uz rankų ranku dvyniai laikyti lgbt pora ranka vyras zodiakas
+♓	zodiakas žuvis zuvis žuvys zuvys
+🐪	dykuma gyvūnas gyvunas kupra kupranugaris vienakupris
+🦗	gyvūnas gyvunas svirplys vabzdys žiogas ziogas
+🛑	aštuonkampis astuonkampis sustojimo ženklas zenklas sustoti
+🪽	angeliškas angeliskas aviacija dieviškas dieviskas kilti mitologija paukštis paukstis skrenda skristi sparnas
+🚰	čiaupas ciaupas geriamas geriamasis vanduo gerti
+🥗	maistas salotos žalios zalios
+🍃	lapas vėjyje vejyje pūsti pusti skrajoti vėjas vejas
+🥚	kiaušinis kiausinis maistas
+🌯	buritas maistas meksikietiškas meksikietiskas suvyniotas
+🚹	tualetas vyras vyrų vyru wc ženklas zenklas
+🐦‍🔥	atgaivinimas atgimimas atsinaujinimas fantazija feniksas nemirtingas pakilimas pasaka reinkarnacija reinkarnuotis šlovė slove transformacija ugnies paukštis paukstis
+🦝	gudrus gyvūnas gyvunas meškėnas meskenas smalsus
+🔙	atgal rodyklė rodykle su užrašu uzrasu „back“
+🚎	autobusas tramvajus troleibusas
+⏩	du kartus dviguba greitai rodyklė rodykle sukti pirmyn
+👻	fantazija monstras padaras pasaka vaiduoklis veidas
+📼	juosta kasetė kasete senovinė senovine vaizdo įrašas irasas įrašų irasu vhs
+🎇	fejerverkai kibirkštis kibirkstis šaltoji saltoji ugnelė ugnele šventė svente
+📔	dekoratyvinis knyga užrašų uzrasu knygelė knygele su dekoratyviniu viršeliu virseliu viršelis virselis
+🕒	00 3 3:00 laikas laikrodis trys valandos
+🥾	aulinis batas kuprinė kuprine rudas stovyklavietė stovyklaviete žygiai zygiai žygio zygio batai
+🍼	buteliukas gėrimas gerimas gerti kūdikio kudikio kūdikis kudikis pienas
+📧	el laiškas laiskas paštas pastas
+🎫	bilietas įėjimas iejimas
+💶	bankas banknotas euras euro pinigai valiuta
+🌁	oras rūkas rukas ūkanota ukanota
+🥛	gėrimas gerimas pienas pieno stiklinė stikline sktiklinė sktikline
+🤱	krūtinė krutine kūdikis kudikis maitinimas krūtimi krutimi priežiūra prieziura žmogus zmogus
+🦕	brachiozauras brontozauas dinozauras diplodokas sauropodas
+📣	džiaugsmingi dziaugsmingi šūksniai suksniai garsiakalbis garsintuvas
+🦧	beždžionė bezdzione gyvūnas gyvunas orangutangas
+📫	paštas pastas pašto pasto dėžutė dezute uždaryta uzdaryta su pakelta vėliava veliava
+🌿	augalas lapas vaistažolė vaistazole žolelė zolele
+🦈	gyvūnas gyvunas ryklys žuvis zuvis
+🥽	akių akiu apsauga apsauginiai akiniai nardymas plaukimas suvirinimas
+🚧	barjeras statybos
+😼	ironija ironiškai ironiskai besišypsančios besisypsancios katės kates snukutis katė kate nuvargęs nuvarges nuvargusios šypsena sypsena veidas
+🐝	bitė bite gamta gyvūnas gyvunas kamanė kamane vabzdys
+🧑‍🎨	menininkas paletė palete tapytojas
+🪚	dailidė dailide įrankis irankis mediena pjūklas pjuklas
+🧌	fantazija pabaisa pasaka trolis
+🪜	kopėčios kopecios lipti žingsnis zingsnis
+🍢	iešmas iesmas japonų japonu jūros juros gėrybės gerybes kebabas lazdelė lazdele maistas odenas
+🎬	filmas pliauškė pliauske pranešimo pranesimo lenta veiksmas
+🤝	pasisveikinimas paspaudimas ranka rankos susitarimas
+🛄	atsiimti bagažas bagazas bagažo bagazo skyrius kelionė kelione ženklas zenklas
+💍	deimantas sužadėtuvės suzadetuves vestuvės vestuves žiedas ziedas
+✅	balta paryškinta paryskinta varnelė varnele padaryta žymė zyme
+💡	elektra idėja ideja komiksas lemputė lempute šviesa sviesa
+🤠	kaubojaus veidas su skrybėle skrybele kaubojus skrybėlė
+🔆	ryškumas ryskumas ryškumo ryskumo mygtukas ryškus ryskus
+🩷	aš as tave myliu emocija meilė meile miela patinka rožinė rozine širdelė sirdele širdis sirdis ypatinga žavinga zavinga
+🧥	drabužis drabuzis paltas striukė striuke švarkas svarkas
+🚥	eismas horizontalus šviesoforas sviesoforas signalas šviesa sviesa
+🏀	kamuolys krepšinio krepsinio krepšinis krepsinis lankas sportas
+🚃	automobilis elektrinis geležinkelis gelezinkelis kelionė kelione tramvajus transporto priemonė priemone traukinio vagonas traukinys troleibusas
+🥍	įvartis ivartis kamuoliukas lakrosas lazda sportas
+🏓	kamuolys lazda raketė rakete stalo tenisas žaidimas zaidimas
+🫚	alus imbieras imbiero šaknis saknis natūralu naturalu prieskonis sveikata žolelė zolele
+🪨	akmuo kietas riedulys sunkus uola uoliena
+🎐	skambėti skambeti šventė svente varpelis vėjas vejas vėjo vejo varpeliai
+🥤	gazuotas gėrimas gerimas puodelis su šiaudeliu siaudeliu soda sultys
+🙍	antakių antakiu suraukimas gestas liūdnas liudnas nelaimingas nepatenkintas nusivylęs nusivyles paniuręs paniures žmogus zmogus raukytis susierzinęs susierzines sutrikęs sutrikes
+🩶	aš as tave myliu emocija granitas meilė meile pilka širdelė sirdele sidabras širdis sirdis ypatinga
+🪏	augalas duobė duobe kasti kastuvas palaidoti smėlis smelis sniegas sodas
+🔅	blankus mažas mazas mygtukas ryškumas ryskumas užtemdymo uztemdymo
+🦀	krabas maistas vėžys vezys zodiakas
+🍌	bananas maistas vaisius
+👨‍🔧	elektrikas mechanikas prekybininkas santechnikas vyras
+🔯	judaizmas sėkmė sekme šešiakampė sesiakampe žvaigždė zvaigzde su tašku tasku žydų zydu
+🧑‍🏭	darbininkas gamykla gamyklos darbuotojas industrinis surinkimas
+🎑	ceremonija mėnesienos menesienos mėnulis menulis šventė svente
+🏩	meilė meile meilės meiles viešbutis viesbutis pastatas
+🏐	kamuolys tinklinio tinklinis žaidimas zaidimas
+📬	atidaryta pašto pasto dėžutė dezute su pakelta vėliava veliava paštas pastas
+📐	liniuotė liniuote matematika trikampė trikampe trikampis
+🪟	atvėrimas atverimas langas perregimas rėmas remas šviežias sviezias oras vaizdas
+👨‍🔬	biologas chemikas fizikas inžinierius inzinierius matematikas mokslininkas vyras
+🍆	augalas baklažanas baklazanas daržovė darzove maistas
+🪤	pasala pelėkautai pelekautai spąstai spastai sūris suris
+👩	moteris šviesiaplaukė sviesiaplauke
+🐭	gyvūnas gyvunas pelė pele pelės peles snukutis veidas
+🍻	alus baras bokalai gėrimas gerimas puodelis susidaužiantys susidauziantys alaus susidaužti susidauzti
+🧝	elfai elfas folkloras kerai magija magiškas magiskas mistika mitas pasaka
+😙	akys bučinys bucinys bučiuojantis buciuojantis su besišypsančiomis besisypsanciomis akimis šypsena sypsena šypsenėlės sypseneles veidas
+🐘	dramblys gyvūnas gyvunas
+❕	baltas šauktukas sauktukas kontūras konturas skyryba žymė zyme
+🤧	čiaudantis ciaudantis veidas čiaudulys ciaudulys
+🦤	didelis drontas gyvūnas gyvunas išnykimas isnykimas mauricijus paukštsi paukstsi
+➕	matematika paryškintas paryskintas pliusas
+🈴	bendrumą bendruma reiškiantis reiskiantis hieroglifas bendrumas japonų japonu
+🥺	gailestingumas maldaujantis veidas maldavimas šuniuko suniuko akys
+🧱	molis plyta plytos siena skiedinys
+🟧	geometrija kvadratas oranžinis oranzinis
+🛒	apsipirkimas parduotuvė parduotuve pirkinių pirkiniu vežimėlis vezimelis
+🥯	apvalus riestainis desertas duonos gaminiai kepinys maistas saldu spurga užtepas uztepas
+💯	100 pilnas rezultatas šimtas simtas taškų tasku užtikrintai uztikrintai
+🎢	atrakcionų atrakcionu parkas kalneliai linksmieji
+🆖	mygtukas „ng“ ng simbolis
+🌱	augalas daigas jaunas
+👍	į i viršų virsu iškeltas iskeltas nykštys nykstys liuks pirštas pirstas ranka
+🙁	paniuręs paniures šiek siek tiek veidas
+🐠	gyvūnas gyvunas tropinė tropine žuvis zuvis
+🎀	kaspinas šventė svente
+🏦	bankas pastatas
+🔴	apskritimas geometrija raudonas
+🟰	atsakymas lygu lygybė lygybe lygybės lygybes ženklas zenklas paryškintas paryskintas
+🛕	induistai induistų induistu šventykla sventykla
+🚚	krovininis sunkvežimis sunkvezimis pristatymas transporto priemonė priemone
+🌻	augalas gėlė gele saulė saule saulėgrąža saulegraza
+🤎	ruda širdelė sirdele
+🐷	gyvūnas gyvunas kiaulė kiaule kiaulės kiaules snukis paršelis parselis veidas
+💣	bomba komiksas sprogimas
+🚠	gondola kabelis kalnas kalnų kalnu keltuvas
+🟨	geltonas kvadratas
+🕤	30 9 9:30 devynios laikas laikrodis pusė puse dešimt desimt trisdešimt trisdesimt valandos
+✋	duok penkis iškelta iskelta ranka
+🤛	į i kairę kaire nukreiptas kumštis kumstis kairėn kairen
+🈸	hieroglifas japonų japonu mygtukas taikymą taikyma reiškiantis reiskiantis taikymas
+🌺	augalas gėlė gele kinrožė kinroze
+🧁	desertas duonos gaminiai keksiukas kepinys maistas saldu saldus
+✊	iškeltas iskeltas kumštis kumstis ranka smūgis smugis sugniaužta sugniauzta
+👭	draugės drauges dvi moterys susikibusios už uz rankų ranku laikyti lgbt moteris pora ranka
+🌂	drabužiai drabuziai lietus skėtis sketis suskleistas
+🍺	alaus bokalas alus baras gėrimas gerimas puodelis
+🌉	naktis tiltas naktį nakti
+🍞	duona kepalas kepinys maistas
+🌚	jaunas mėnulis menulis su veidu kosmosas veidas
+🛟	gelbėjimas gelbejimas gelbėjimo gelbejimo ratas plaukimas plūduriavimas pluduriavimas saugumas
+😗	bučinys bucinys bučiuojantis buciuojantis veidas šypsenėlės sypseneles
+🧑‍🚒	gaisrinė gaisrine mašina masina gaisrininkas ugniagesys
+👩‍💻	išradėja isradeja kompiuteris kūrėja kureja moteris programinė programine įranga iranga programuotoja technologė technologe
+🪐	planeta su žiedu ziedu saturnas
+🦴	kaulas skeletas šuo suo
+💽	diskas kompiuterio kompiuteris minidiskas optinis
+🕌	islamas mečetė mecete musulmonas religija
+🧑‍🍳	gaminantis žmogus zmogus šefas sefas virėjas virejas
+🥣	dubuo su šaukštu saukstu košė kose maistas pusryčiai pusryciai
+👩‍🍳	moteris šefė sefe virėja vireja
+🚝	transporto priemonė priemone vienbėgis vienbegis geležinkelis gelezinkelis
+🔗	jungtis jungtys
+🔶	deimantas didelis oranžinis oranzinis rombas geometrija
+♏	skorpionas zodiakas
+🥘	maistas prikaistuvis su maistu troškinys troskinys
+👏	plojančios plojancios rankos ploti
+🥒	agurkas daržovė darzove maistas raugintas
+🎍	augalas bambukas dekoracija iš is pušies pusies japonų japonu pušis pusis šventė svente
+🎩	aukšta auksta cilindras drabužiai drabuziai kepurė kepure skrybėlė skrybele
+📹	fotoaparatas vaizdo įrašas irasas kamera
+🫟	dažai dazai dėmė deme išsiliejimas issiliejimas lašinti lasinti netvarka purslai rašalas rasalas skystis
+🫡	gerai kariai pagarba pagarbą atiduodantis veidas pagarbos atidavimas saulėta sauleta sėkmės sekmes taip
+🔕	draudžiama draudziama nutildyti perbrauktas varpelis tyliai varpas
+🤮	liga veidas vemiantis vemti
+🥎	kamuolys pažastis pazastis pirštinė pirstine softbolas sportas
+🆑	cl mygtukas „cl“ simbolis
+➿	dviguba kilpelė kilpele kilpa raityti
+🧵	adata gija ritė rite siūlas siulas siuvimas
+🦭	gyvūnas gyvunas jūrų juru liūtas liutas ruonis vandenynas
+📌	smeigtukas
+🧭	kompasas kryptis magnetinis navigacija orientacinis
+💘	bučinys bucinys lūpos lupos širdelė sirdele su strėle strele valentino diena
+🏇	arklių arkliu lenktynės lenktynes arklys jojikas sportas
+😶	burna negaliu patikėti patiketi tylus veidas be burnos
+🍦	desertas kremas ledai maistas minkšti minksti saldu
+😘	bučinį bucini siunčiantis siunciantis veidas bučinys bucinys širdelė sirdele
+🦓	dryžis dryzis gyvūnas gyvunas zebras
+🥋	dziudo karatė karate kovos menas sporto šakos sakos uniforma sportas
+😄	akys besišypsantis besisypsantis išsižiojęs issiziojes veidas besišypsančiomis besisypsanciomis akimis burna laimingas praverta šypsena sypsena
+🔝	į i viršų virsu rodyklė rodykle su užrašu uzrasu „top“ viršus virsus
+🧋	arbata burbulai burbulinė burbuline gėrimas gerimas su šiaudeliu siaudeliu maistas pienas
+🧸	kimštas kimstas meškiukas meskiukas pliušas pliusas pliušinis pliusinis žaislas zaislas
+📪	nuleista paštas pastas pašto pasto dėžutė dezute uždaryta uzdaryta su vėliava veliava
+🛗	elevatorius keltuvas liftas prieinamumas
+🕦	11 11:30 30 laikas laikrodis pusė puse dvylikos trisdešimt trisdesimt valandos vienuolika
+🚛	priekaba pusė puse sunkvežimis sunkvezimis su transporto priemonė priemone
+😔	prislėgtas prislegtas susimąstęs susimastes veidas
+👩‍🎨	dailininkė dailininke moteris paletė palete
+🧑‍🎓	baigimas paskutinio kurso studentas
+🐫	dvikupris kupranugaris dykuma gyvūnas gyvunas kupra
+🥰	besišypsantis besisypsantis veidas su trimis širdelėmis sirdelemis dievinti garbinimo objektas įsimylėjęs isimylejes
+🌀	apsvaigęs apsvaiges ciklonas oras spiralė spirale taifūnas taifunas
+🚽	tualetas
+👩‍🌾	darbininkė darbininke moteris sodininkė sodininke ūkininkė ukininke
+🦹	asmuo blogas nusikaltėlis nusikaltelis piktadarys supergalia supergalios superpiktadarys
+🐣	gyvūnas gyvunas išsiridenti issiridenti išsiritęs issirites viščiukas visciukas mažas mazas paukštis paukstis
+📁	aplankas failas failų failu uždarytas uzdarytas
+🦍	gorila gyvūnas gyvunas
+🎆	fejerverkai pramogos šventė svente
+👋	mojuoja mojuojanti ranka mojuoti
+🏸	badmintonas plunksninukas raketė rakete žaidimas zaidimas
+❌	atšaukti atsaukti dauginti daugyba kryžiukas kryziukas x žymė zyme
+💕	dvi širdelės sirdeles emocijos meilė meile metinės metines
+📻	pramogos radijas vaizdo įrašas irasas
+👎	blogai nykštys nykstys į i apačią apacia ranka
+🪹	lizdas namai perėjimas perejimas šaka saka tuščias tuscias
+👩‍🦽	moteris rankomis valdomame vežimėlyje vezimelyje neįgaliųjų neigaliuju prieinamumas vežimėlis vezimelis
+🧉	gėrimas gerimas matė mate
+🦾	mechaninė mechanine ranka neįgaliųjų neigaliuju prieinamumas protezavimas rankos protezas
+🎧	ausinės ausines garsas
+🍤	kepta krevetė krevete maistas tempura
+🧖	asmuo garų garu kambaryje atsipalaidavimas garai kambarys moteris pirtyje pirtis prabanga sauna spa
+💥	bum komiksas susidūrimas susidurimas
+🥲	ašara asara besišypsantis besisypsantis veidas su dėkingas dekingas palengvėjimas palengvejimas pasididžiavimas pasididziavimas šypsenėlė sypsenele
+🚬	cigaretė cigarete rūkymas rukymas
+🎷	instrumentas muzika saksofonas
+🪥	dantų dantu šepetėlis sepetelis dantys higiena valyti vonios kambarys
+🟣	apskritimas violetinis
+🦟	gyvūnas gyvunas karštinė karstine maliarija negalavimas uodas vabzdys virusas
+🟪	kvadratas violetinis
+🤢	besiruošiantis besiruosiantis vemti veidas šlykštu slykstu
+🔇	garsiakalbis išjungtas isjungtas garsumas nutildytas prietaisas tylus
+📉	diagrama į i apačią apacia mažėjimas mazejimas mažėjimo mazejimo tendencijos tendencija
+🟩	kvadratas žalias zalias
+🫒	alyvuogė alyvuoge alyvuogės alyvuoges šakelė sakele maistas
+👿	fantazija pasaka veidas velnias velniūkštis velniukstis
+🌌	kosmosas paukščių pauksciu takas
+🌆	kraštovaizdis krastovaizdis miestas pastatas saulėlydis saulelydis sutemos virš virs miesto vakaras
+🚞	automobilis geležinkelis gelezinkelis kalnas kalnų kalnu traukinys kelionė kelione traukiniu transporto priemonė priemone
+🔏	privatumas rašalas rasalas rašiklis rasiklis smaigalys spyna ir
+🦇	gyvūnas gyvunas šikšnosparnis siksnosparnis vampyras
+🚢	keleivis kelionė kelione laivas titanikas valtis
+🔦	deglas elektra įrankis irankis šviesa sviesa žibintuvėlis zibintuvelis
+🕎	menora religija žvakės zvakes žvakidė zvakide žydų zydu
+🪌	anuliuoti ištrinti istrinti klaida pašalinti pasalinti piešimas piesimas rašymas rasymas taisymas trinti
+🫣	išsigandęs issigandes nedrąsus nedrasus pakerėtas pakeretas slėptis sleptis stebeilytis stebėti stebeti susidrovėti susidroveti veidas su stebinčia stebincia akimi žvilgsnis zvilgsnis vogčiomis vogciomis žvilgtelėjimas zvilgtelejimas
+🫗	gėrimas gerimas išlieti islieti oi pilamas skystis pilti stiklinė stikline tuščias tuscias vanduo
+📯	paštas pastas pašto pasto ragas
+🦘	australija gyvūnas gyvunas jauniklis kengūra kengura šokinėti sokineti sterblinis
+💼	biuras portfelis
+🍜	dubuo maistas makaronai makaronų makaronu sriubos dubenėlis dubenelis ramen sriuba
+🐌	gamta gyvūnas gyvunas sraigė sraige
+♐	šaulys saulys zodiakas
+🍋‍🟩	citrusinis gaivus garnyras kokteilis margarita mochitas rūgštingumas rugstingumas rūgštus rugstus salsa sultys tekila tropinis vaisius žalias zalias žalioji zalioji citrina žaliųjų zaliuju citrinų citrinu pyragas žievelė zievele
+🪺	kiaušinis kiausinis lizdas su kiaušiniais kiausiniais perėjimas perejimas šaka saka
+💫	apsvaigęs apsvaiges komiksas krentanti žvaigždė zvaigzde
+💱	bankas keitimas pinigai valiuta valiutos
+⬜	baltas didelis kvadratas geometrija
+🛫	išvykimai isvykimai išvykimas isvykimas lėktuvas lektuvas lėktuvo lektuvo pakilimas registracija
+🌸	augalas gėlė gele vyšnia vysnia vyšnios vysnios žiedas ziedas žydėti zydeti
+📗	knyga mokslas žalia zalia
+👲	kepurė kepure kinietiška kinietiska kepurėlė kepurele vyras su kepurėle
+😃	besišypsantis besisypsantis išsižiojęs issiziojes veidas burna labai laimingas praverta šypsena sypsena valio
+💗	auganti širdelė sirdele didėjimas didejimas myliu pulsas susijaudinimas susinervinęs susinervines
+🪅	meksikietiška meksikietiska pinjata šventė svente vakarėlis vakarelis
+🔬	įrankis irankis laboratorija mikroskopas mokslas
+🎮	pramogos pultelis vaizdo žaidimas zaidimas valdiklis
+🦁	gyvūnas gyvunas liūtas liutas liūto liuto snukis stiprus veidas zodiakas
+🕣	30 8 8:30 aštuonios astuonios laikas laikrodis pusė puse devynių devyniu trisdešimt trisdesimt valandos
+🫘	ankštiniai ankstiniai maistas pupelės pupeles raudonosios
+🔻	geometrija į i apačią apacia raudona raudonas nukreiptas trikampis
+🪊	džiazas dziazas instrumentas liūdnas liudnas muzika pučiamieji puciamieji
+🫠	cha ištirpti istirpti karšta karsta karštis karstis labai juokinga lydytis nykti sarkazmas skystis sutrikęs sutrikes tirpstantis veidas
+🏅	auksas laimėtojas laimetojas medalis nugalėtojas nugaletojas sporto
+🧄	česnakas cesnakas maistas prieskonis
+🛴	paspirtukas spirti
+🪛	atsuktuvas įrankis irankis varžtas varztas
+😤	laimėjo laimejo nelaimingas niršti nirsti pyktis triumfas veidas su iš is nosies einančiais einanciais garais
+🐁	gyvūnas gyvunas pelė pele
+🫙	indas niekas padažas padazas prieskonis saugoti stiklainis tuščias tuscias
+🦉	gyvūnas gyvunas išmintis ismintis paukštis paukstis pelėda peleda
+🧑‍🦽	prieinamumas vežimėlis vezimelis žmogus zmogus rankomis valdomame vežimėlyje vezimelyje
+🔨	įrankis irankis plaktukas
+🕘	00 9 9:00 devinta valanda devynios laikas laikrodis valandos
+😵	apsvaigęs apsvaiges sergantis veidas
+💩	išmatos ismatos išmatų ismatu krūvelė kruvele kakoti komiksas mėšlas meslas monstras smarvė smarve veidas
+🤬	besikeikiantis piktas veidas su simboliais ant burnos
+🔭	įrankis irankis mokslas teleskopas
+🎦	filmas kamera kinas
+🦩	flamingas gyvūnas gyvunas spalvingas tropinis
+🥑	avokadas maistas vaisius
+👝	drabužiai drabuziai drabužių drabuziu krepšys krepsys maišelis maiselis rankinė rankine
+🔞	18 amžiaus amziaus apribojimas aštuoniolika astuoniolika draudžiama draudziama ne nepilnametis tik pilnamečiams pilnameciams uždrausta uzdrausta
+🥩	kepsnys maistas mėsa mesa mėsos mesos gabalėliai gabaleliai
+🌔	kosmosas mėnulis menulis priešpilnis priespilnis pabaiga
+🌛	ketvirtis kosmosas mėnulis menulis priešpilnio priespilnio su veidu priešpilnis priespilnis veidas
+😰	burna išpiltas ispiltas šalto salto prakaito išsigandęs issigandes išsižiojęs issiziojes veidas mėlyna melyna prakaitas šaltis saltis šypsenėlės sypseneles
+🧑‍🤝‍🧑	asmuo laikyti pora ranka rankomis susikibę susikibe žmonės zmones susikibusios rankos žmogus zmogus
+🍫	batonėlis batonelis desertas maistas saldu šokoladas sokoladas šokolado sokolado plytelė plytele
+🥹	ašaras asaras tramdantis veidas besididžiuojantis besididziuojantis dėkingas dekingas dėkingumas dekingumas džiaugsmo dziaugsmo ašaros asaros išdidus isdidus jausmai liūdesys liudesys liūdnas liudnas miela nepasiduoti piktas prašymas prasymas susižavėjimas susizavejimas sutrikęs sutrikes verkti
+🔈	garsiakalbis prietaisas tylus
+🍘	maistas paplotėlis paplotelis ryžiai ryziai ryžių ryziu
+♍	mergelė mergele zodiakas
+🫫	atskleidimas atsparumas byrėjimas byrejimas įtampa itampa lūžis luzis maskavimas transformacija
+🧚	fėja feja fėjus fejus laumė laume laumius mitas oberon pasaka puck sparnai titania
+👉	į i dešinę desine pirštu pirstu rodanti ranka indeksas pirštas pirstas rodyti
+🐽	gyvūnas gyvunas kiaulė kiaule kiaulės kiaules nosis šnipas snipas veidas
+🕑	00 2 2:00 dvi laikas laikrodis valandos
+💪	bicepsai komiksas kūnas kunas paryškinti paryskinti ranka raumuo sporto salė sale
+🚈	geležinkelis gelezinkelis miesto tramvajus
+🏊	laisvasis stilius plaukiantis žmogus zmogus plaukikas plaukimas plaukti sportas triatlonas
+❗	raudonas šauktukas sauktukas skyryba žymė zyme
+🍎	maistas obuolys raudonas vaisius
+👢	batai batas batelis drabužiai drabuziai ilgaaulis moteris moteriškas moteriskas
+💌	laiškas laiskas meilė meile meilės meiles paštas pastas širdis sirdis
+🤯	šokiruotas sokiruotas sprogstanti galva šypsenėlės sypseneles
+🫆	kriminalistika piršto pirsto atspaudas saugumas tapatybė tapatybe
+🍑	maistas persikas vaisius
+🚣	ežeras ezeras irklas irkluojantis žmogus zmogus irkluoti kanoja kelionė kelione jūra jura laivas plaustas transporto priemonė priemone upė upe valtis žvejoti zvejoti žvejyba zvejyba
+📿	drabužiai drabuziai karoliai melstis religija rožinis rozinis vėrinys verinys
+🈁	čia cia reiškiantis reiskiantis hieroglifas japonų japonu mygtukas
+🔎	didinimo stiklas į i dešinę desine įrankis irankis paieška paieska
+🩰	baletas baleto bateliai batai šokis sokis
+🫺	dešinė desine neutrali ranka tai tas taškas taskas
+🐲	drakonas drakono snukis gyvūnas gyvunas pasaka veidas
+🧀	maistas sūrio surio gabaliukas sūris suris
+👘	drabužiai drabuziai kimono patogu
+🪼	akvariumas bestuburis čiuptuvai ciuptuvai deginti geluonis gyvūnas gyvunas jūrinis jurinis medūza meduza oi planktonas vandenynas želė zele
+🪢	kaklaraištis kaklaraistis mazgas surišti suristi virvė virve
+🚔	artėjantis artejantis policijos automobilis policija transporto priemonė priemone
+😝	akys bjaurus liežuvis liezuvis omg skonis šlykštus slykstus veidas su iškištu iskistu liežuviu liezuviu ir stipriai užmerktomis uzmerktomis akimis
+🐐	ferma gyvūnas gyvunas ožiaragis oziaragis ožys ozys zodiakas
+⛄	šaltis saltis sniegas sniego senis be
+🔄	dejavu mygtukas prieš pries laikrodžio laikrodzio rodyklę rodykle nukreiptų nukreiptu rodyklių rodykliu rodyklė
+📩	el laiškas laiskas paštas pastas rodyklė rodykle vokas su
+😻	akis besišypsančios besisypsancios katės kates snukutis su širdelės sirdeles formos akimis gyvūnas gyvunas katė kate meilė meile šypsena sypsena veidas
+🎡	apžvalgos apzvalgos atrakcionų atrakcionu parkas ratas
+🕝	2 2:30 30 dvi laikas laikrodis pusė puse trijų triju trisdešimt trisdesimt
+🕚	00 11 11:00 laikrodis valandos vienuolika valandų valandu
+🕕	00 6 6:00 laikas laikrodis šešios sesios valandos
+🎄	eglutė eglute kalėdos kaledos kalėdų kaledu šventė svente
+💀	kaukolė kaukole mirtis monstras pasaka veidas
+😇	angelas aureolė aureole besišypsantis besisypsantis veidas su fantazija nekaltas
+🙀	gyvūnas gyvunas katė kate nustebęs nustebes nustebusios katės kates snukutis oi veidas
+🧾	apskaita čekis cekis įrodymai irodymai
+🏮	baras popierinis žibintas zibintas raudonas šviesa sviesa
+🩹	pleistras
+♎	pusiausvyra svarstyklės svarstykles teisingumas zodiakas
+🛞	apskritimas automobilis padanga ratas suktis
+🍂	krenta lapas nukritęs nukrites ruduo
+👫	draugai laikyti moteris pora ranka susikibę susikibe už uz rankų ranku vyras ir
+🏺	maisto gaminimas senovinė senovine vaza vandenis zodiakas
+🤗	apkabinantis veidas apkabinimas apkabinti šypsenėlės sypseneles
+🔩	įrankis irankis varžtas varztas veržlė verzle ir
+🍗	kaulas maistas mėsa mesa paukščio paukscio šlaunelė slaunele paukštiena paukstiena šlaunis slaunis višta vista
+😾	katė kate susiraukęs susiraukes susiraukusios katės kates snukutis veidas
+🫲	į i kairę kaire rodanti ranka kairė kairioji pasisveikinimas rankos paspaudimas tiesimas
+🥕	daržovė darzove maistas morka
+🍿	kinas maistas spragėsiai spragesiai
+🦦	gyvūnas gyvunas ūdra udra žaisminga zaisminga žvejojanti zvejojanti žvejoti zvejoti
+🍖	kaulas maistas mėsa mesa ant kaulo
+😪	liūdnas liudnas miegas mieguistas veidas pavargęs pavarges
+📭	atidaryta pašto pasto dėžutė dezute su nuleista vėliava veliava paštas pastas
+🎋	japonų japonu medis šventė svente tanabata
+🥪	duona maistas sumuštinis sumustinis
+🚺	moteris moterų moteru tualetas wc
+🤟	„myliu tave“ gestas myliu ranka
+⛪	bažnyčia baznycia krikščionis krikscionis kryžius kryzius pastatas religija
+📋	darbų darbu sąrašas sarasas segtuvas
+🐦	gyvūnas gyvunas ornitologija paukštis paukstis
+🎴	gėlė gele japonų japonu kortos su gėlėmis gelemis žaidimas zaidimas
+🧑‍🩰	baletas šokėjas sokejas
+👩‍🦯	akla moteris su neregio lazdele neįgaliųjų neigaliuju prieinamumas neregė nerege
+🔀	maišyti maisyti takelius mygtukas rodyklė rodykle sukryžiuota sukryziuota
+🈚	hieroglifas japonų japonu nemokamai nemokamumą nemokamuma reiškiantis reiskiantis
+📸	blykstė blykste fotoaparatas su vaizdo įrašas irasas
+🫥	abejingumas intravertas išnykti isnykti nematomas nesvarbu prislėgtas prislegtas punktyrinis veidas slėptis sleptis
+🫀	anatomija centras organas pulsas širdies sirdies plakimas širdis sirdis
+🦮	aklas gyvūnas gyvunas neįgaliųjų neigaliuju prieinamumas neregys šuo suo vedlys
+🦬	banda bizonas buivolas gyvūnas gyvunas
+👴	senas vyras žmogus zmogus
+💅	kosmetika lakas manikiūras manikiuras nagai nagų nagu priežiūra prieziura
+🐀	gyvūnas gyvunas žiurkė ziurke
+🔛	į i abi puses rodyklė rodykle su užrašu uzrasu „on!“ žymė zyme
+🎸	gitara instrumentas muzika
+🎼	muzika nata partitūra partitura smuiko raktas
+😽	akys bučinys bucinys bučiuojančios buciuojancios katės kates snukutis katė kate veidas
+🪖	armija kareivis kareiviškas kareiviskas šalmas salmas kariuomenė kariuomene karys
+❎	kryžiukas kryziukas kryžiuko kryziuko mygtukas kvadratas žymė zyme
+🫰	brangu meilė meile pinigai ranka sukryžiuotu sukryziuotu smiliumi ir nykščiu nyksciu širdelė sirdele širdis sirdis spragtelėjimas spragtelejimas
+🛻	automobilis mašina masina pikapas sunkvežimis sunkvezimis
+📍	apvalus smeigtukas
+😅	besišypsantis besisypsantis išsižiojęs issiziojes veidas išpiltas ispiltas šalto salto prakaito prakaitas praverta šaltas saltas šypsena sypsena
+🏨	pastatas viešbutis viesbutis
+👐	atviros ranka rankos
+🗾	japonijos žemėlapis zemelapis
+🦊	gyvūnas gyvunas lapė lape lapės lapes snukis veidas
+😭	ašara asara garsiai raudantis veidas liūdnas liudnas raudoti verkti
+👂	ausis garsas klausyti kūnas kunas
+😴	miegantis veidas miegas šypsenėlė sypsenele zzz
+🍟	bulvės bulves bulvytės bulvytes gruzdintos maistas
+🚫	draudžiama draudziama įėjimas iejimas ne rūkyti rukyti uždrausta uzdrausta ženklas zenklas
+🚀	kelionė kelione kosmosas raketa
+📅	data kalendorius
+🏑	kamuolys laukas lazda riedulys žaidimas zaidimas žolės zoles
+🚴	dviračiu dviraciu važiuojantis vaziuojantis asmuo dviratininkas dviratis sportas važiuoti vaziuoti
+🪄	burtininkas magija ragana stebuklinga lazdelė lazdele stebuklingas
+🐴	arklio snukis arklys ferma gyvūnas gyvunas veidas
+🥱	labanakt nuobodžiaujantis nuobodziaujantis pavargęs pavarges veidas žiovaujantis ziovaujantis žiovauti ziovauti
+🚦	eismas signalas šviesa sviesa vertikalus šviesoforas sviesoforas
+🎯	akis dartas pataikyti smūgis smugis tiesiai į i taikinį taikini taikinys žaidimas zaidimas
+👛	apsipirkimas drabužiai drabuziai monetos piniginė pinigine
+🎤	karaokė karaoke mikrofonas muzika
+💾	diskas diskelis kompiuteris
+😛	liežuvis liezuvis malonus veidas su iškištu iskistu liežuviu liezuviu
+🦸	betmenas geras herojė heroje herojus supergalia superherojus supermenas
+🫨	beprotiška beprotiska besikratantis veidukas oho palauk panika purtymas šokas sokas staigmena veidas vibruoti žemės zemes drebėjimas drebejimas
+🍄‍🟫	baravykas dantenis daržovė darzove gamta grybas ingredientai maistas natūralus naturalus picos spora trumas valgomas vegetaras
+🧑‍💼	architektas balta apykaklė apykakle dirbantysis biure vadybininkas verslas
+🆚	mygtukas „vs“ palyginti simbolis
+🚊	tramvajus troleibusas
+🎅	kalėdos kaledos kalėdų kaledu senelis šventė svente tėvas tevas
+🛁	vonia
+🤰	moteris neščia nescia nėščia
+🍧	desertas ledas maistas saldu smulkintas susmulkintas
+🧔	barzda barzdotas žmogus zmogus
+😑	be išraiškos israiskos neišraiškingas neisraiskingas pavydus veidas jokios
+🪾	be vaisių vaisiu medis lapų lapu sausra žiema ziema
+🤓	akiniai ekspertas juokingas moksliukas moksliuko veidas pirmūnas pirmunas protingas talentingas
+⚡	aukšta auksta įtampa itampa aukštoji aukstoji elektra pavojus žaibas zaibas
+🧑‍🏫	dėstytojas destytojas instruktorius mokantis žmogus zmogus mokytojas
+🏡	namai namas su sodu pastatas priemiestis sodas
+⛺	palapinė palapine stovyklavimas
+🍥	kepiniai maistas pyragėlis pyragelis sūkurys sukurys žuvies zuvies su išpieštu ispiestu sūkurio sukurio simboliu žuvis zuvis
+🔰	geltonas įrankis irankis japoniškas japoniskas pradedančiojo pradedanciojo simbolis japonų japonu lapas pradedantysis žalias zalias
+🧷	pankrokas vystyklai žiogelis ziogelis
+📨	el laiškas laiskas gaunamas vokas gavimas paštas pastas
+🍷	baras gėrimas gerimas gerti taurė taure vynas vyno
+🚯	draudžiama draudziama ne šiukšlės siuksles šiukšlinti siukslinti uždrausta uzdrausta
+🩺	gydytojas medicina širdis sirdis stetoskopas
+🌘	delčia delcia pabaiga kosmosas mėnulis menulis pusmėnulis pusmenulis
+🐍	gyvatė gyvate gyvatnešis gyvatnesis gyvūnas gyvunas žaltys zaltys zodiakas
+🟥	kvadratas raudonas
+🐦‍⬛	juodas kovarnis kranklys kranksėjimas kranksejimas paukštis paukstis snapas varna varnas
+🏁	langeliai languota vėliava veliava lenktynės lenktynes sportas langeliais
+📃	dokumentas puslapis užsirietęs uzsirietes
+🔲	geometrija juodas kvadratinis mygtukas kvadratas
+📶	antena antenos juostos juosta mobilusis ryšys rysys signalas telefonas
+🏬	parduotuvė parduotuve pastatas prekyba prekybos centras
+🪘	būgnas bugnas ilgas kongas ritmas
+🔣	įvesties ivesties simboliai įvestis ivestis simbolis
+🕋	islamas kaaba musulmonas religija
+🪭	aušinimas ausinimas drovus flirtas karšta karsta plazdėjimas plazdejimas šokti sokti sulankstoma vėduoklė veduokle vėsinimas vesinimas
+🥸	akiniai inkognito nosis pasislėpęs pasislepes paslėptas pasleptas veidas šnipas snipas ūsai usai žmogus zmogus
+🤙	gestas paskambink man ranka skambinti
+🚲	dviratis transporto priemonė priemone
+👗	drabužiai drabuziai suknelė suknele
+🦠	ameba bakterija mikrobas mokslas virusas
+🏃	atbėgu atbegu bėgantis begantis žmogus zmogus bėgikas begikas bėgiojimas begiojimas greitas greitis lenktynės lenktynes maratonas skubėti skubeti
+🕧	12 12:30 30 dvylika laikas laikrodis trisdešimt trisdesimt
+😒	abejingas nelaimingas nelinksmas nuobodžiauti nuobodziauti veidas
+📙	biblioteka knyga oranžinė oranzine skaitymas žinios zinios
+👔	biuras drabužiai drabuziai kaklaraištis kaklaraistis marškiniai marskiniai
+🧯	gesinti gesintuvas ugnis
+👟	atletiškas atletiskas batai batas bėgimo begimo batelis drabužiai drabuziai sportinis
+😫	miegoti pavargęs pavarges veidas
+🏢	biuras biurų biuru pastatas
+🍩	desertas maistas saldu spurga
+♈	avinas zodiakas
+🤺	fechtavimas fechtuotojas kardas
+🧎	klūpantis klupantis klūpėti klupeti žmogus zmogus
+🧑‍🧑‍🧒	šeima seima suaugusysis vaikas
+⛲	fontanas
+🍵	arbata arbatos puodelis be rankenos gėrimas gerimas gerti
+🌲	amžinai amzinai žaliuojantis zaliuojantis medis eglė egle pušis pusis spygliuotis
+👩‍🚀	astronautė astronaute kosmosas moteris raketa
+🫦	baimė baime bučinys bucinys flirtas lūpos lupos nepatogu nerimas nervingumas patrauklus prikąsta prikasta lūpa lupa susirūpinimas susirupinimas
+🏧	atm automatinis bankas bankomatas bankomato ženklas zenklas kasininkas pinigai
+🥈	2 vieta 2-osios vietos medalis antroji sidabras
+💿	cd diskas kompaktinis kompiuteris optinis
+🎣	meškerė meskere sportas žuvis zuvis
+🍪	desertas maistas saldu sausainis
+🧬	biologas dnr evoliucija genas genetika gyvybė gyvybe
+🎓	baigimas drabužiai drabuziai kepurė kepure kepurėlė kepurele mokyklos baigimo šventė svente
+🪫	akumuliatorius elektronika išeikvota iseikvota baterija energija išeikvotas iseikvotas mažai mazai energijos
+🦿	kojos protezas mechaninė mechanine koja neįgaliųjų neigaliuju prieinamumas protezavimas
+⛔	draudžiama draudziama eismas įėjimas iejimas įėjimo iejimo nėra nera ne uždrausta uzdrausta
+🛙	jūra jura jūrinė jurine navigacija nušvitimas nusvitimas signalas šviesa sviesa švyturys svyturys vedimas viltis
+🍕	gabalėlis gabalelis maistas pica sūris suris
+🧅	maistas prieskonis svogūnas svogunas
+🦖	dinozauras gyvūnas gyvunas reksas tiranozauras
+😡	įniršis inirsis įsiutęs isiutes piktas raudonas susiraukęs susiraukes veidas
+🪸	jūra jura klimato kaita koralas rifas vandenynas
+⏫	dviguba greitai į i viršų virsu rodyklė rodykle
+🟠	apskritimas geometrija oranžinis oranzinis
+🌄	kalnas rytas saulė saule saulėtekis sauletekis virš virs kalnų kalnu
+🐚	gyvūnas gyvunas kriauklė kriaukle paplūdimys papludimys spiralė spirale susisukusi
+🩼	lazda negalia pagalba judėti judeti ramentas ramstis sužeistas suzeistas
+😢	ašara asara liūdnas liudnas veidas verkiantis verkti
+🧦	blauzdinė blauzdine drabužis drabuzis kojinės kojines
+💢	komiksas piktas pykčio pykcio simbolis supykęs supykes
+💨	bėgimas begimas dulkės dulkes komiksas sukeltos
+😯	nuščiuvęs nusciuves nustebęs nustebes priblokštas priblokstas veidas
+👤	biustas biusto siluetas paslaptingas
+🎠	arklys karuselė karusele karuselės karuseles arkliukas pramogos
+👮	įstatymas istatymas pareigūnas pareigunas policija policijos policininkas priedangoje dirbantis suimti sulaikyti sustabdytas
+🧑	neutrali lytis suaugusysis žmogus zmogus
+🗼	bokštas bokstas tokijas tokijo
+📳	mobilusis režimas rezimas telefonas vibravimas vibravimo
+🏤	europietiškas europietiskas paštas pastas pastatas pašto pasto
+👕	drabužiai drabuziai kasdieniai marškinėliai marskineliai marškiniai marskiniai vyras
+🍴	įrankiai irankiai maisto gaminimas peilis šakutė sakute ir
+🛃	muitinė muitine pakavimas
+🐳	banginis gyvūnas gyvunas paplūdimys papludimys purkšti purksti purškiantis purskiantis veidas
+👨‍🍼	auklė aukle kūdikį kudiki maitinantis vyras kūdikis kudikis maitinimas krūtimi krutimi mama naujagimis tėvas tevas žmogus zmogus
+🦯	aklas neįgaliųjų neigaliuju prieinamumas neregio lazda neregys
+👩‍🚒	gaisrininkė gaisrininke gaisrininkų gaisrininku automobilis moteris
+⛅	debesis debesuota oras saulė saule už uz debesų debesu
+😞	kaltas nusivylęs nusivyles veidas
+💤	komiksas miegas miego simbolis pavargęs pavarges
+🚵	atletas dviratininkas dviratis kalnas kalnų kalnu sportas važiuoti vaziuoti dviračiu dviraciu
+👪	mama šeima seima tėvas tevas vaikas
+👠	aukštakulnis aukstakulnis batelis batai batas drabužiai drabuziai kulnas moteris
+😷	gydytojas kaukė kauke medicina šaltis saltis sergantis veidas su medicinine
+🥞	blynai maistas
+🆓	mygtukas „free“ nemokama simbolis
+🏹	ginklas įrankis irankis lankas ir strėlė strele šaulys saulys zodiako
+🪈	fleita grupė grupe instrumentas mažoji mazoji mediniai pučiamieji puciamieji muzika orkestras skudutis vamzdis vargonai
+🛂	kontrolė kontrole pasas pasų pasu
+😱	baimė baime iš is baimės baimes šaukiantis saukiantis veidas išsigandęs issigandes šauksmas sauksmas
+🐄	gyvūnas gyvunas karvė karve pienas
+🔳	baltas kvadratinis mygtukas geometrija kontūras konturas kvadratas
+👩‍🎓	absolventė absolvente moteris studentė studente
+🐏	avinas gyvūnas gyvunas avis zodiakas
+🪿	antis būrys burys gaga kvailas naminis paukštis paukstis višta vista žąsinas zasinas žąsis zasis žąsys zasys
+📥	dėklas deklas gaunamų gaunamu laiškų laisku gauti laiškas laiskas paštas pastas
+🐇	augintinis gyvūnas gyvunas naminis triušis triusis triušiukas triusiukas
+🥐	bandelė bandele duona kruasanas maistas prancūziškas prancuziskas raguolis
+🌖	delčia delcia dylantis kosmosas mėnulis menulis
+🦻	ausis su klausos aparatu kurtieji ir neprigirdintieji neįgaliųjų neigaliuju prieinamumas neprigirdintis
+🌅	gamta rytas saulė saule saulėtekis sauletekis
+🦌	elnias gyvūnas gyvunas
+🌰	augalas lazdyno riešutas riesutas maistas
+🧫	bakterijos bakterijų bakteriju auginimas biologas biologija laboratorija petri lėkštelė lekstele
+🐅	gyvūnas gyvunas tigras
+💬	balionas debesėlis debeselis dialogas kalba kalbos komiksas
+🚮	šiukšlė siuksle šiukšliadėžė siuksliadeze šiukšlių siuksliu metimo į i šiukšliadėžes siuksliadezes ženklas zenklas
+🟦	kvadratas mėlynas melynas
+👼	angelas angeliukas fantazija kūdikis kudikis pasaka veidas
+🚩	golfas postas trikampė trikampe vėliava veliava
+😿	ašara asara gyvūnas gyvunas katė kate liūdesys liudesys veidas verkiančios verkiancios katės kates snukutis verkti
+😦	burna išsižiojęs issiziojes nustebęs nustebes oho paniuręs paniures veidas
+🚍	artėjantis artejantis autobusas transporto priemonė priemone
+⭐	astronomija balta vidutinė vidutine žvaigždė zvaigzde
+🃏	juokdarys kortos žaidimas zaidimas
+😵‍💫	apsvaigęs apsvaiges bėda beda spiralė spirale sutrikęs sutrikes svaigulys šypsenėlė sypsenele užhipnotizuotas uzhipnotizuotas va veidas su spiralinėmis spiralinemis akimis
+🚾	tualetas tualeto patalpa vanduo wc
+🐡	fugu gyvūnas gyvunas žuvis zuvis
+♒	vandenio ženklas zenklas vandenis vanduo zodiakas
+👨‍🦯	aklas neįgaliųjų neigaliuju prieinamumas neregys vyras su neregio lazdele
+🤪	akis akys didelis mažas mazas pamišęs pamises veidas
+💜	aš as tave myliu emocija meilė meile širdelė sirdele violetinė violetine
+🤽	marco plaukimas vandens sportas vandensvydis vandensvydžio vandensvydzio žaidėjas zaidejas vanduo žmogus zmogus
+👸	fantazija karalienė karaliene pasaka princesė princese
+☔	drabužiai drabuziai lašas lasas lietus oras skėtis sketis su lietaus lašais lasais
+🦋	drugelis gražus grazus gyvūnas gyvunas vabzdys
+🌒	kosmosas mėnulis menulis priešpilnis priespilnis sapnai
+🔍	didinimo stiklas į i kairę kaire įrankis irankis laboratorija mokslas paieška paieska
+😕	apgailestaujantis hm liūdnas liudnas neužtikrintas neuztikrintas painus pasimetęs pasimetes suraukęs suraukes kaktą kakta sutrikęs sutrikes veidas
+🆙	į i viršų virsu mygtukas „up!“ up žymė zyme
+🧲	magnetas magnetinis pasaga trauka
+🌝	mėnulis menulis pilnatis su veidu šviesu sviesu veidas
+🐊	gyvūnas gyvunas krokodilas
+🦎	driežas driezas gyvūnas gyvunas roplys
+🤤	besiseilėjantis besiseilejantis veidas seilės seiles
+🍰	desertas gabalėlis gabalelis kepiniai kepinys maistas pyragas saldu trapus
+🫸	atsisakyti blokuoti duok penkis į i dešinę desine stumianti ranka laukti stumti sulaikyti sustoti
+💷	bankas banknotas pinigai svaras sterlingų sterlingu svaro valiuta
+🧑‍🧒	šeima seima suaugusysis vaikas
+🚨	automobilis besisukanti policija policijos automobilio lempa signalinis žibintas zibintas sirena šviesa sviesa transporto priemonė priemone
+👳	turbanas vyras su turbanu žmogus zmogus
+🦼	motorizuotas vežimėlis vezimelis neįgaliųjų neigaliuju prieinamumas
+🎂	desertas gimtadienio tortas gimtadienis kepiniai maistas pyragas saldu šventė svente
+📴	išjungti isjungti mobilųjį mobiluji telefoną telefona mobilusis telefonas
+🪶	lengvumas plunksna skrydis
+🧰	dėžė deze įrankis irankis įrankių irankiu rinkinys mechanikas
+🚋	automobilis tramvajaus vagonas tramvajus transporto priemonė priemone troleibusas
+🔢	1234 įvesties ivesties skaičiai skaiciai įvestis ivestis
+🍮	desertas maistas pudingas saldu saldus kremas
+🔺	geometrija raudona raudonas į i viršų virsu nukreiptas trikampis
+🎻	instrumentas muzika smuikas
+🪴	augalas augti bevertis dekoro detalė detale namas nuobodus pasodintas puoselėti puoseleti vazonas
+🛵	motoroleris transportas transporto priemonė priemone
+🎒	krepšys krepsys kuprinė kuprine mokykla mokyklinė mokykline
+🦛	begemotas gyvūnas gyvunas
+🔸	deimantas geometrija mažas mazas oranžinis oranzinis rombas
+🐬	delfinas fliperis gyvūnas gyvunas paplūdimys papludimys vandenynas
+🧿	amuletas akis blogio karoliukas nazaras talismanas žavesys zavesys
+🥼	bandymas drabužiai drabuziai gydytojas laboratorinis chalatas medicina mokslas mokslininkas
+🔮	fantazija fortūna fortuna krištolinis kristolinis pasaka rutulys
+🌕	kosmosas mėnulis menulis pilnas pilnatis
+💧	komiksas lašas lasas oras prakaitas šaltis saltis
+🎌	japonų japonu kryžius kryzius sukryžiuotos sukryziuotos vėliavos veliavos šventė svente
+🚒	sunkvežimis sunkvezimis ugniagesių ugniagesiu automobilis ugnis variklis
+🤶	kalėdos kaledos mama ponia claus šventė svente
+🆒	cool mygtukas „cool“ simbolis vėsu vesu
+🥀	augalas gėlė gele gležna glezna
+🖤	blogis juoda širdelė sirdele širdis sirdis
+🚓	automobilis patruliai policija policijos
+🥅	tinklas vartai
+🍁	klevas klevo lapas krenta
+🧈	maistas pieno produktas sviestas
+🐶	gyvūnas gyvunas naminis šuns suns snukutis šuo suo veidas
+🚭	draudžiama draudziama ne rūkymas rukymas rūkyti rukyti uždrausta uzdrausta ženklas zenklas
+⚽	futbolas futbolo kamuolys sportas
+🧑‍💻	išradėjas isradejas koderis programinė programine įranga iranga programuotojas technikas
+🧡	oranžinė oranzine širdelė sirdele
+🌙	kosmosas mėnulis menulis pusė puse pusmėnulis pusmenulis ramadanas
+🛀	vonia žmogus zmogus prausiasi vonioje
+🕡	30 6 6:00 laikas laikrodis pusė puse septynių septyniu šešios sesios trisdešimt trisdesimt valandos
+🪗	akordeonas armonika instrumentas muzika
+🥊	boksas bokso pirštinė pirstine
+🔷	deimantas didelis mėlynas melynas rombas geometrija
+📕	knyga mokslas užversta uzversta užverta uzverta
+🎪	cirkas cirko palapinė palapine
+🧊	ledas ledo kubelis maistas šaltas saltas
+🫌	metamorfozė metamorfoze migracija pokytis transformacija trapus vabzdys vikšras viksras viltis
+🧺	daiktas iškyla iskyla pintinė pintine skalbiniai ūkininkavimas ukininkavimas
+🫓	arepa duona lavašas lavasas maistas naan paplotis pita
+🔖	skirtukas žyma zyma žymė zyme
+🤕	skausmas susižeidęs susizeides sužeidimas suzeidimas tvarstis veidas su galvos tvarsčiu tvarsciu
+🎃	helovinas šventė svente žibintas zibintas iš is moliūgo moliugo
+🍨	desertas kremas ledai maistas saldu
+⬛	geometrija juodas didelis kvadratas
+🩵	aš as tave myliu emocija meilė meile miela patinka širdis sirdis šviesiai sviesiai mėlyna melyna širdelė sirdele žalsvai zalsvai žydra zydra
+◽	baltas vidutiniškai vidutiniskai mažas mazas kvadratas geometrija
+🥶	mėlynveidis melynveidis nušalimas nusalimas šaltas saltas stingdantis sušalęs susales veidas varvekliai
+🪪	dokumentas id licencija pažymėjimas pazymejimas sauga tapatybė tapatybe tapatybės tapatybes kortelė kortele
+📵	draudžiama draudziama jokių jokiu mobiliųjų mobiliuju telefonų telefonu mobilusis ne telefonas uždrausta uzdrausta ženklas zenklas
+😋	besimėgaujantis besimegaujantis niam skaniu maistu veidas skanu šypsena sypsena
+🫵	baksnoti į i žiūrovą ziurova rodantis smilius pirštas pirstas ranka rodyti tu
+🙋	aš as čia cia galiu padėti padeti gestas iškėlęs iskeles ranką ranka iškelta iskelta klausimas laimingas pasirink mane žmogus zmogus rankos žinau zinau
+🐵	bananas beždžionė bezdzione beždžionės bezdziones snukutis veidas
+🪵	mediena medis rąstas rastas
+🧑‍🧒‍🧒	šeima seima suaugusysis vaikas
+🍡	dango desertas iešmas iesmas japonų japonu lazdelė lazdele maistas saldu
+🎥	filmas filmavimo kamera kinas
+⌚	laikas laikrodis
+🫕	dubuo fondiu ištirpintas istirpintas maistas šokoladas sokoladas sūris suris šveicariškas sveicariskas
+🕠	30 5 5:30 laikas laikrodis penkios pusė puse šešių sesiu trisdešimt trisdesimt valandos
+🤲	delnai suglausti malda ranka
+🙊	beždžionė bezdzione blogis gyvūnas gyvunas nekalbu uždrausta uzdrausta užsidengusi uzsidengusi burną burna veidas
+🐞	boružė boruze gamta gyvūnas gyvunas vabalas vabzdys
+🪃	australija bumerangas grįžimas grizimas įrankis irankis
+🈹	hieroglifas japonų japonu nuolaida nuolaidą reiškiantis reiskiantis
+🧜	folkloras jūros juros padarai pasaka sirena trišakis trisakis undinė undine undinėlė undinele undinius
+🐙	aštuonkojis astuonkojis gyvūnas gyvunas vandenynas
+🧢	beisbolo kepuraitė kepuraite drabužis drabuzis kepurė kepure su snapeliu reklaminė reklamine
+🦞	gyvūnas gyvunas jūrų juru gėrybė gerybe gėrybės gerybes maistas omaras žnyplės znyples
+🍒	maistas vaisius vyšnia vysnia vyšnios vysnios
+🌠	kosmosas krintanti žvaigždė zvaigzde
+🥭	maistas mangas tropinis vaisius
+🌭	dešrainis desrainis dešrelė desrele maistas
+🫈	didžiapėdis didziapedis jetis kriptidas medinis milžinas milzinas miškas miskas plaukuotas
+💎	brangakmenis deimantas juvelyrika romantika sužadėtuvės suzadetuves
+🪠	pompa santechnikas santechninė santechnine siurbimas tualetas
+🚗	automobilis transporto priemonė priemone vairavimas
+🧨	dinamitas fejerverkai fejerverkas sprogus šviesa sviesa
+🕢	30 7 7:30 laikas laikrodis pusė puse aštuonių astuoniu septynios trisdešimt trisdesimt
+😖	piktas suglumęs suglumes suglumintas veidas
+🧗	alpinistas kalnas kopiantis žmogus zmogus kopimas į i kalną kalna uolą uola laipiotojas
+📏	liniuotė liniuote matematika tiesi
+🧛	antgamtinis baisu dantys drakula helovinas iltys kostiumas kraujas nemirtingas vampyras
+🟡	apskritimas geltonas
+🦥	gyvūnas gyvunas lėtas letas tinginys tingus
+🧩	dalis dėlionė delione galvosūkis galvosukis raktas susijungiantis žaidimas zaidimas
+🚕	automobilis geltona taksi transporto priemonė priemone uber
+🈺	hieroglifas japonų japonu veikimą veikima reiškiantis reiskiantis veikti
+🥙	įdaras idaras įdarytas idarytas lavašas lavasas kebabas maistas
+🙃	apverstas veidas aukštyn aukstyn kojom šypsena sypsena
+🌎	amerika gaublys pasaulis žemė zeme žemės zemes rutulys su šiaurės siaures ir pietų pietu amerikos žemynais zemynais
+🫐	maistas mėlyna melyna mėlynė melyne mėlynės melynes uoga
+🍔	greitasis greitmaistis maistas mėsainis mesainis
+😐	blogai neišraiškingas neisraiskingas neutralus pavydus veidas
+💰	doleris maišas maisas pinigai pinigų pinigu
+🏏	kamuolys kriketas lazda žaidimas zaidimas
+💞	besisukančios besisukancios širdelės sirdeles širdelė sirdele suktis
+🐋	banginis gyvūnas gyvunas paplūdimys papludimys vandenynas
+🥳	skrybėlė skrybele švenčiantis svenciantis veidas šventė svente šventimas sventimas švilpynė svilpyne šypsenėlė sypsenele
+🌞	oras paplūdimys papludimys saulė saule su veidu šviesu sviesu veidas
+🍄	grybas maistas šungrybis sungrybis super mario
+🤩	akys šypsenėlės sypseneles šypsotis sypsotis veidas wow žvaigždė zvaigzde žvaigždžių zvaigzdziu liga
+🛅	bagažas bagazas lagaminas paliktas spintelė spintele ženklas zenklas
+⭕	o ratas ryškus ryskus didelis
+🌈	gamta homoseksualus lgbt lietus vaivorykštė vaivorykste
+💛	geltona širdelė sirdele
+💋	bučinio bucinio žymė zyme bučinys bucinys emocija lūpos lupos
+📓	užrašinė uzrasine
+⏳	laikas laikmatis laikrodis smėlio smelio su krentančiu krentanciu smėliu smeliu smėlis smelis
+🩸	kraujas kraujo aukojimas lašas lasas medicina menstruacijos
+🍐	kriaušė kriause maistas vaisius
+🐂	bulius gyvūnas gyvunas jautis tauras zodiakas
+👖	drabužiai drabuziai džinsai dzinsai kasdieniai kelnės kelnes trumpikės trumpikes
+🟫	kvadratas rudas
+🐃	azijinis buivolas gyvūnas gyvunas
+⚾	beisbolo kamuoliukas kamuolys sportas
+🪙	auksas lobis metalas moneta pinigai sidabras
+🤞	kryžiuoti kryziuoti kryžius kryzius laimė laime pirštai pirstai ranka sėkmė sekme sukryžiuoti sukryziuoti
+🥿	avalynė avalyne be raištelių raisteliu baleto batelis batai lygiapadis patogu šlepetė slepete
+💒	koplyčia koplycia romantika vestuvės vestuves
+🤾	atletas gaudyti kamuolys mesti rankininkas rankinis sportas sviesti žmogus zmogus
+🕟	30 4 4:30 laikas laikrodis pusė puse penkių penkiu trisdešimt trisdesimt valandos
+🙉	beždžionė bezdzione blogis draudžiama draudziama gyvūnas gyvunas klausyti neklausau paslaptis uždrausta uzdrausta užsidengusi uzsidengusi ausis veidas
+🧏	ausis girdėti girdeti kurčias kurcias kurtieji ir neprigirdintieji neįgaliųjų neigaliuju prieinamumas žmogus zmogus
+🈲	draudimą draudima reiškiantis reiskiantis hieroglifas draudimas japonų japonu
+🐸	gyvūnas gyvunas princesė princese varlė varle varlės varles snukutis veidas
+⏪	atsukti atgal du kartus dviguba mygtukas rodyklė rodykle sukti
+🌮	maistas meksikietiškas meksikietiskas paplotėlis paplotelis takas
+💸	bankas banknotas doleris pinigai su sparnais
+🙅	be šansų sansu draudžiama draudziama drausti gestas išskirti isskirti ne neigiamas ranka žmogus zmogus rodo neigiamą neigiama gestą gesta
+🧑‍🎤	aktorius dainininkas dainuojantis žmogus zmogus linksmintojas rokas žvaigždė zvaigzde
+🫅	asmuo su karūna karuna didikas karalienė karaliene karališkas karaliskas karališkoji karaliskoji šeima seima karalius monarchas
+📘	biblioteka išsilavinimas issilavinimas knyga mėlyna melyna skaitymas
+🪍	gaudyti spąstai spastai surinkti tinklelis
+🤌	pirštai pirstai rankos gestas sarkastiškas sarkastiskas suspausti
+⚫	apskritimas geometrija juodas rutulys
+🧕	hidžabas hidzabas moteris su skarele skarelė žmogus zmogus
+📚	knyga knygos mokslas mokykla
+👨	berniukas draugas vaikinas vyras
+🧑‍🔧	elektrikas mechanikas remontuojantis žmogus zmogus santechnikas
+👒	drabužiai drabuziai moteris moteriška moteriska skrybėlė skrybele
+🫜	burokas daržas darzas daržovė darzove ropė rope runkelis šaknis saknis
+💵	bankas banknotas dolerio doleris pinigai valiuta
+👊	artėjantis artejantis kumštis kumstis ranka smūgis smugis sugniaužtas sugniauztas
+⌛	laikas laikmatis laikrodis smėlio smelio smėlis smelis
+🫑	daržovė darzove paprika pipirai
+🚶	einantis žmogus zmogus eisena ėjimas ejimas išdidi isdidi lengva pasivaikščiojimas pasivaiksciojimas pėsčiasis pesciasis pėstysis pestysis vaikščiojimas vaiksciojimas vaikščioti vaikscioti žingsnis zingsnis
+🦙	alpaka guanakas gyvūnas gyvunas lama lamos vilna
+🎉	bum konfeti šaudyklė saudykle šauti sauti šventė svente vakarėlis vakarelis
+📛	vardas vardo ženklelis zenklelis
+🥔	bulvė bulve daržovė darzove maistas
+🧒	jaunas neutrali lytis vaikas žmogus zmogus
+🥵	įkaitęs ikaites veidas karščiuojantis karsciuojantis karštas karstas prakaitavimas raudonveidis šilumos silumos smūgis smugis
+🍶	baras butelis gėrimas gerimas puodelis sakė sake
+🉐	hieroglifas japonų japonu susitarimą susitarima reiškiantis reiskiantis susitarimas
+♊	dvyniai zodiakas
+🤫	ššš sss tildantis veidas tylus
+📮	laiškas laiskas paštas pastas pašto pasto dėžutė dezute
+🦷	dantis dantistas
+🩻	gydytojas kaulai medicina rentgenas skeletas
+🔫	ginklas įrankis irankis pistoletas revolveris vandens šautuvas sautuvas
+🔁	kartoti mygtukas „pakartoti“ pagal laikrodžio laikrodzio rodyklę rodykle rodyklė
+🍏	maistas obuolys vaisius žalias zalias
+🕐	00 1 1:00 laikas laikrodis pirma valanda valandos viena
+😁	akys išsišiepęs issisiepes veidas su besišypsančiomis besisypsanciomis akimis išsišiepti issisiepti šypsena sypsena
+🩱	drabužis drabuzis maudymosi kostiumėlis kostiumelis vientisas
+🐛	gyvūnas gyvunas vabalas vabzdys
+😲	apstulbęs apstulbes priblokštas priblokstas veidas visiškai visiskai
+📟	bedravimas gaviklis
+🤘	pirštas pirstas ragai ragų ragu ženklas zenklas ranka rokas
+😮	atverta burna išsižiojęs issiziojes netikiu pamiršau pamirsau veidas
+🆘	mygtukas „sos“ pagalba simbolis sos
+💭	balionas debesėlis debeselis komiksas minties mintis svajoti
+🐉	drakonas gyvūnas gyvunas kinų kinu pasaka
+🚟	geležinkelis gelezinkelis kabanti geležinkelio gelezinkelio linija
+🫱	dešinė desine dešinioji desinioji ranka į i dešinę rodanti pasisveikinimas rankos paspaudimas tiesimas
+🎶	muzika muzikos natos nata
+🈯	hieroglifas japonų japonu rezervavimą rezervavima reiškiantis reiskiantis rezervuotas
+👹	fantazija monstras pabaisa padaras pasaka veidas
+🧑‍🎄	kalėdos kaledos kalėdų kaledu asmuo senelis kepurė kepure žmogus zmogus
+🫶	meilė meile myliu tave rankos širdelė sirdele iš is rankų ranku širdis sirdis
+💝	kaspinas metinės metines širdelė sirdele su kaspinu valentino diena
+🥇	1-osios vietos medalis auksas pirmoji
+🔘	akutė akute geometrija mygtukas
+🪋	apokalipsė apokalipse gravitacija kosmosas kritimas ugnies kamuolys uola žvaigždė zvaigzde
+🐜	gyvūnas gyvunas skruzdėlė skruzdele vabzdys
+🆎	ab kraujo grupė grupe mygtukas „ab“ raudona
+🧑‍🍼	asmuo auklė aukle kūdikį kudiki maitinantis kūdikis kudikis maitinimas krūtimi krutimi mama moteris naujagimis tėvas tevas vyras žmogus zmogus
+💻	asmeninis buras kompiuteris nešiojamas nesiojamas skreitinis
+🏉	futbolas kamuolys regbio regbis sportas
+🐆	gyvūnas gyvunas leopardas plėšrūnas plesrunas
+🦡	barsukas gyvūnas gyvunas įkyruolis ikyruolis
+🦄	veidas vienaragio snukis vienaragis
+💊	gydytojas kapsulė kapsule ligonis medicina piliulė piliule
+🐒	bananas beždžionė bezdzione gyvūnas gyvunas
+👃	kūnas kunas kvapas nosis
+🧼	maudytis muilas muilinė muiline muilinti plytelė plytele praustis
+👧	dukra jauna mergaitė mergaite mergelė mergele zodiakas
+📜	lapas popierius susuktas
+🗿	kelionė kelione moai statula veidas
+🔠	abcd didžiosios didziosios įvestis ivestis lotyniškos lotyniskos raidės raides
+🌵	augalas dykuma gamta kaktusas
+♉	bulius tauras zodiakas
+🙎	antakių antakiu suraukimas bloga nuotaika gestas grimasa nusiminęs nusimines nuvilti raukymasis susiraukęs susiraukes žmogus zmogus verkšlenimas verkslenimas
+🐓	gaidys gyvūnas gyvunas paukštis paukstis
+💓	plakanti pulsavimas širdelė sirdele širdies sirdies plakimas širdis sirdis
+😟	nervingas susirūpinęs susirupines veidas
+🕍	pastatas religija sinagoga šventykla sventykla žydas zydas žydų zydu
+👶	jaunas kūdikis kudikis lauktis naujagimis
+🌹	augalas gėlė gele raudona rožė roze valentino diena
+🔧	įrankis irankis veržliaraktis verzliaraktis
+🪂	pakabinti parašiutas parasiutas
+🦨	gyvūnas gyvunas skunkas smirdantis
+👩‍🏫	dėstytoja destytoja instruktorė instruktore mokytoja moteris profesorė profesore
+🌷	augalas gėlė gele tulpė tulpe
+🥠	laimės laimes sausainiukas maistas pranašystė pranasyste
+⛽	degalai degalinė degaline degalų degalu siurblys dujos
+⛎	gyvatė gyvate gyvatnešis gyvatnesis nešėjas nesejas zodiakas
+🌋	gamta išsiveržimas issiverzimas kalnas ugnikalnis
+🛬	atvykimai atvyksta lėktuvas lektuvas lėktuvo lektuvo nusileidimas
+🔱	emblema inkaras įrankis irankis laivas trišakė trisake trišakis trisakis
+💳	bankas kortelė kortele kreditas kredito pinigai
+🏂	slidinėti slidineti sniegas snieglenčių snieglenciu sporto mėgėjas megejas snieglentė snieglente sportas
+🔒	saugu spyna uždaryta uzdaryta užrakinta uzrakinta
+🔉	garsiakalbis vidutinio garso vidutinis
+🚑	greitoji pagalba greitosios pagalbos automobilis transporto priemonė priemone
+🥻	apranga drabužis drabuzis saris suknelė suknele
+🈵	hieroglifas japonų japonu pilnatvė pilnatve pilnatvę reiškiantis reiskiantis
+🀄	madžongas madzongas madžongo madzongo raudonas drakonas žaidimas zaidimas
+😠	piktas pyktis veidas
+😚	akys bučinys bucinys bučiuojantis buciuojantis su užmerktomis uzmerktomis akimis pasimatymas užmerktos uzmerktos veidas
+🧃	gėrimas gerimas gėrimo gerimo pakelis šiaudelis siaudelis sulčių sulciu
+🦶	galūnė galune koja kūno kuno dalis pėda peda spyris trepsėti trepseti
+🙆	gerai gestą gesta rodantis žmogus zmogus gestai gestas pratimas ranka teigiamas vaje
+🎏	gyvūnas gyvunas karpio vėtrungė vetrunge karpis šventė svente žuvis zuvis
+💄	kosmetika lūpdažis lupdazis lūpų lupu dažai dazai makiažas makiazas
+🚘	artėjanti artejanti artėjantis artejantis automobilis mašina masina transporto priemonė priemone
+😈	besišypsantis besisypsantis veidas su ragais fantazija pasaka ragai šypsena sypsena
+👓	akiniai akys apranga drabužiai drabuziai
+😂	ašara asara džiaugsmas dziaugsmas džiaugsmo dziaugsmo juokas šypsenėlės sypseneles veidas su ašaromis asaromis
+📂	aplankas atidarytas failų failu failas
+👱	asmuo šviesiaplaukis sviesiaplaukis veidas žmogus zmogus
+🌇	pastatas saulė saule saulėlydis saulelydis sutemos
+🪀	jo-jo svyruojantis žaislas zaislas
+🎾	kamuolys raketė rakete sportas tenisas teniso kamuoliukas
+🔼	į i viršų virsu mygtukas raudonas rodyklė rodykle trikampis
+🥝	kivis maistas vaisius
+🍙	japonų japonu maistas rutuliukas ryžiai ryziai ryžių ryziu
+🚜	traktorius transporto priemonė priemone
+👨‍💼	architektas biuras biuro darbuotojas darbas įstaigoje istaigoje vadybininkas verslas vyras
+🥥	kokosas maistas palmė palme pina kolada
+📈	augimas diagrama didėjimo didejimo tendencijos schema tendencija
+🛐	garbinimo vieta garbinti religija
+🚂	garai garvežys garvezys geležinkelis gelezinkelis kelionė kelione lokomotyvas traukinys variklis
+🈶	hieroglifas japonų japonu mokamą mokama reiškiantis reiskiantis mokamas ne nemokamą nemokama nemokamas
+🪡	adata siūlai siulai siuvimas siuvimo siuvinėjimas siuvinejimas
+💏	bučinys bucinys meilė meile metinės metines pora
+🦐	jūros juros gėrybės gerybes kiaukutinis krevetė krevete maistas mažas mazas
+⏰	laikas laikrodis laukti signalas žadintuvas zadintuvas
+🌟	kibirkštis kibirkstis šviesti sviesti žėrėti zereti žėrinti zerinti žvaigždė zvaigzde
+🥮	festivalis kepinys maistas mėnulio menulio pyragas ruduo
+🌗	ketvirtis kosmosas mėnulis menulis paskutinė paskutine mėnulio menulio fazė faze paskutinis fazės fazes
+📀	blu-ray diskas kompaktinis kompiuteris optinis skaitmeninis vaizdo
+👩‍🏭	darbas darbuotoja fabrikas fabriko darbininkė darbininke gamyba moteris susirinkimas
+🕙	00 10 10:00 dešimt desimt valandų valandu laikas laikrodis valandos
+🗽	laisvė laisve laisvės laisves statula niujorkas
+👩‍🦼	moteris motorizuotame vežimėlyje vezimelyje neįgaliųjų neigaliuju prieinamumas vežimėlis vezimelis
+🚌	autobusas mokyklinis transporto priemonė priemone
+🛼	riedučiai rieduciai sportas
+👨‍🦽	neįgaliųjų neigaliuju prieinamumas vežimėlis vezimelis vyras rankomis valdomame vežimėlyje vezimelyje
+😳	karšta karsta nuraudęs nuraudes nustebęs nustebes raudonis veidas
+🫏	asilas gyvūnas gyvunas mulas užsispyręs uzsispyres žinduolis zinduolis
+🌃	naktis žvaigždė zvaigzde žvaigždėta zvaigzdeta
+👇	delnu nusukta žemyn zemyn pirštu pirstu rodanti ranka į i apačią apacia indeksas pirštas pirstas rodyti
+🥬	daržovė darzove kininis kopūstas kopustas lapinė lapine maistas salota
+🩴	batai dirželiai dirzeliai paplūdimio papludimio sandalai šlepetė slepete su dirželiu dirzeliu
+🤭	kikenimas paslaptis ups veidas su ranka ant burnos
+🌽	augalas kukurūzas kukuruzas kukurūzo kukuruzo burbuolė burbuole maistas varpa
+📢	garsiai garsiakalbio simbolis garsiakalbis skelbimas viešas viesas
+🔓	atidaryta atrakinta spyna
+🍠	bulvė bulve kepta saldžioji saldzioji maistas saldi
+🦵	galūnė galune kelis koja kūno kuno dalis spyris
+🧍	stovėti stoveti stovintis žmogus zmogus
+🐼	bambukas gyvūnas gyvunas panda pandos snukis veidas
+🕞	3 3:30 30 laikas laikrodis pusė puse keturių keturiu trisdešimt trisdesimt trys valandos
+🤣	juokas lol raitausi iš is juoko raitytis veidas
+😉	flirtas mirksintis veidas mirktelėjimas mirktelejimas
+🪓	daiktas kapoti kirvis mediena
+🎰	automatas lošimas losimas lošimų losimu žaidimas zaidimas žaidimų zaidimu
+🍳	kepimas keptas kiaušinis kiausinis keptuvė keptuve maistas valgio gaminimas
+😩	nuvargęs nuvarges pavargęs pavarges veidas
+🦽	neįgaliųjų neigaliuju prieinamumas rankomis valdomas vežimėlis vezimelis važimėlis vazimelis
+😮‍💨	dejuoti gaudyti iškvėpti iskvepti išpūsti ispusti reljefas šnabždesys snabzdesys švilpukas svilpukas šypsenėlė sypsenele veidas su garu
+🪔	daiktas lempa žibalas zibalas žibalinė zibaline žvakė zvake
+♌	liūtas liutas zodiakas
+➗	dalyba matematika paryškintas paryskintas dalybos ženklas zenklas
+👩‍🎤	aktorė aktore dainininkė dainininke moteris rokas žvaigždė zvaigzde
+⚓	inkaras įrankis irankis laivas
+📞	prietaisas ragelis telefonas telefono
+🧘	atsipalaidavimas joga jogas jogė joge lotoso poza meditacija ramybė ramybe sukryžiuotos sukryziuotos kojos žmogus zmogus pozoje
+😺	besišypsančios besisypsancios katės kates snukutis burna gyvūnas gyvunas išsižiojęs issiziojes katė kate šypsena sypsena veidas
+💖	širdelė sirdele susijaudinimas žėrėti zereti žėrinti zerinti
+🍣	maistas suši susi sušis susis
+💆	atsipalaidavimas atsipalaiduoti galvos skausmas įtampa itampa masažas masazas masažuojamas masazuojamas žmogus zmogus salonas spa terapija veidas veido
+🕓	00 4 4:00 keturios laikrodis valandos
+♑	ožiaragis oziaragis ožys ozys zodiakas
+🪰	cėcė cece gyvulinė gyvuline musė muse gyvūnas gyvunas kambarinė kambarine mėšlinė mesline negalavimas vabzdys
+💲	doleris paryškintas paryskintas dolerio ženklas zenklas pinigai valiuta
+💚	širdelė sirdele žalia zalia
+🚪	durys
+💉	adata dūris duris gydytojas įrankis irankis ligonis medicina švirkštas svirkstas
+🛘	kalnas lavina nelaimė nelaime pavojus purvo nuošliauža nuosliauza uolos žemės zemes drebėjimas drebejimas
+🐰	gyvūnas gyvunas naminis triušio triusio snukutis triušis triusis veidas zuikis
+📆	data kalendorius nuplėšiamas nuplesiamas
+👨‍🦼	neįgaliųjų neigaliuju prieinamumas vežimėlis vezimelis vyras motorizuotame vežimėlyje vezimelyje
+🤨	nepasitikintis skeptiškas skeptiskas veidas su pakeltais antakiais
+🤹	balansuoti daug darbų darbu vienu metu įgūdis igudis išlaikyti islaikyti pusiausvyrą pusiausvyra įveikti iveikti reakcija žmogus zmogus žonglierius zonglierius žongliravimas zongliravimas žongliruoti zongliruoti
+🫷	atsisakyti blokuoti duok penkis į i kairę kaire stumianti ranka laukti stumti sulaikyti sustoti
+🥉	3-osios vietos medalis bronza trečioji trecioji
+🧽	akytas kempinė kempine praustis sugeriantis
+🐨	australija gyvūnas gyvunas koala meška meska
+✨	kibirkštėlės kibirksteles kibirkštis kibirkstis magija žvaigždė zvaigzde
+⛵	burlaivis jachta jūra jura kurortas laivas valtis
+🌼	augalas gėlė gele gėlės geles žiedas ziedas kiaulpienė kiaulpiene
+🏄	bangavimas banglenčių banglenciu sportas banglentininkas bangos paplūdimys papludimys vandenynas
+🧐	prabangus turtingas tvankus veidas su monokliu
+📦	dėžė deze paketas siuntinys
+💮	balta gėlė gele
+🪇	barškalai barskalai barškutis barskutis barškynė barskyne instrumentas kratyti marakasai mušamieji musamieji muzika purtyti
+🤷	abejojantis žmogus zmogus abejonė abejone galbūt galbut gūžtelėjimas guztelejimas pečiais peciais ignoravimas nesvarbu nežinau nezinau nežinojimas nezinojimas trūkčioti trukcioti
+🪎	auksas brangakmeniai brangakmenis grobis pinigai prizas sidabras turtas vertingi daiktai
+🧑‍🦼	prieinamumas vežimėlis vezimelis žmogus zmogus motorizuotame vežimėlyje vezimelyje
+🙌	gestas iškėlęs iskeles rankas iškelta iskelta iškeltos iskeltos rankos kūnas kunas ranka šventė svente valio žmogus zmogus
+👨‍💻	išradėjas isradejas kompiuteris kūrėjas kurejas programinė programine įranga iranga programuotojas technologas vyras
+🪲	gyvūnas gyvunas vabalas vabaliukas vabzdys
+😜	akis juokingas liežuvis liezuvis mirksnis pokštas pokstas veidas su iškištu iskistu liežuviu liezuviu ir viena primerkta akimi
+🕗	00 8 8:00 aštuonios astuonios laikas laikrodis valandos
+🥏	aukščiausioji auksciausioji riba diskas skraidantis
+📖	atversta biblioteka knyga mokslas žinios zinios
+👨‍🚒	gaisrininkas gaisrininkų gaisrininku automobilis vyras
+🆗	mygtukas „ok“ ok simbolis
+🥓	kumpis maistas mėsa mesa
+🫤	abejojantis abejojimas nesvarbu nusivylęs nusivyles nusivylimas skeptiškas skeptiskas sumišęs sumises sumišimas sumisimas susierzinęs susierzines veidas įstriža istriza burna
+👨‍🎨	dailininkas paletė palete vyras
+🎨	dailininko paletė palete menas muziejus piešinys piesinys
+🆔	id mygtukas „id“ simbolis tapatybė tapatybe
+🛺	autorikša autoriksa rikša riksa transporto priemonė priemone tuk
+👌	gerai ženklas zenklas rankomis ok ranka
+❓	klausimas klaustukas raudonas skyryba žymė zyme
+📷	asmenukė asmenuke fotoaparatas vaizdo įrašas irasas
+😥	nusivylęs nusivyles veidas su palengvėjimu palengvejimu palengvėjimas palengvejimas
+🚇	kelionė kelione metro transporto priemonė priemone
+🍯	maistas medaus puodynė puodyne medus puodas saldu
+📄	dokumentas puslapis viršutine virsutine puse
+🪑	daiktas kėdė kede sėdėti sedeti
+🤦	beviltiškumas beviltiskumas delnas prie veido neįtikėtinumas neitiketinumas netikėjimas netikejimas o ne varge šokas sokas susierzinęs susierzines žmogus zmogus susierzinimas tik tai vaje veidas
+🍋	citrina citrusinis maistas vaisius
+🧟	apokalipsė apokalipse baisu helovinas nemirtingas siaubas vaikštantis vaikstantis numirėlis numirelis zombis
+🧶	kamuolys megzti nerti siūlai siulai siūlų siulu
+🍓	braškė braske maistas uoga vaisius
+📇	dėklas deklas indeksas kortelė kortele kortelių korteliu senovinis
+🌴	medis palmė palme paplūdimys papludimys
+🥷	kovotojas nindzė nindze paslaptis užsimaskavęs uzsimaskaves žmogus zmogus
+🙂	šiek siek tiek besišypsantis besisypsantis veidas šypsena sypsena šypsenėlės sypseneles
+🎲	kauliukas pramogos žaidimas zaidimas
+🤴	kilmingas princas
+🏰	europos pastatas pilis
+🧆	falafelis maistas mėsos mesos kukulis vištiena vistiena
+🪩	blizgesys diskoteka rutulys šokiai sokiai vakarėlis vakarelis veidrodinis
+💇	apkerpamas žmogus zmogus grožis grozis kirpėjas kirpejas kirpimas kirpti plaukus kirpykla kosmetologija plaukai salonas stilius šukuosena sukuosena žirklės zirkles
+😸	akys išsišiepusios issisiepusios katės kates snukutis su besišypsančiomis besisypsanciomis akimis katė kate šypsena sypsena vaipytis veidas
+💔	emocija liūdnas liudnas širdelė sirdele sudaužyta sudauzyta sudaužyti sudauzyti
+🍇	maistas vaisius vynuogė vynuoge vynuogės vynuoges
+🐾	letenos pėdos pedos pėdsakai pedsakai pėdutės pedutes
+🙇	atleisk atsiprašau atsiprasau atsiprašymas atsiprasymas gailėtis gailetis gailiuosi gestas maldauti meditacija medituoti nusilenkęs nusilenkes žmogus zmogus nusilenkimas
+🧧	dovana pinigai raudonas vokas sėkmė sekme sėkmės sekmes
+🪷	budizmas gėlė gele grožis grozis indija induizmas lotosas lotusas ramybė ramybe taika tyrumas vietnamas
+🤐	burna paslaptis patylėti patyleti užtrauktukas uztrauktukas veidas su užtrauktuku uztrauktuku vietoje burnos
+🫂	apsikabinę apsikabine žmonės zmones apsikabinti atsisveikinimas dėkui dekui labas pasisveikinimas viso
+💦	komiksas lašai lasai prakaitas prakaito lašeliai laseliai taškymas taskymas
+👨‍🚀	astronautas kosmosas raketa vyras
+😏	iš is pasitenkinimo besišypsantis besisypsantis veidas pasitenkinimas
+🪝	grobis kablys sugauti
+🔂	kartoti vieną viena kartą karta mygtukas pagal laikrodžio laikrodzio rodyklę rodykle rodyklė
+🎳	boulingas kamuolys sportas žaidimas zaidimas
+🕥	10 10:30 30 dešimt desimt laikas laikrodis pusė puse vienuolikos trisdešimt trisdesimt valandos
+☕	arbata garuoja gėrimas gerimas gerti karšta karsta karštas karstas kava
+🔡	abcd įvestis ivestis lotyniškos lotyniskos mažosios mazosios raidės raides

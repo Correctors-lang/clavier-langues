@@ -1,1261 +1,1261 @@
 # Mots-clés d'emoji en « tr » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	işaret new düğmesi yeni işareti
-🧑‍🤝‍🧑	çift el ele tutuşan insanlar kişi tutmak eller
-◽	geometri gri kare küçük-orta beyaz
-⛽	akaryakıt istasyonu benzin benzinci gaz istasyon pompa yakıt pompası
-🔓	açık kilidini açma kilit
-👄	ağız aşk dudaklar gövde öpme öptüm öpücük yüz
-🍴	aç akşam yemeği beslenmek bıçak brunch çatal ve eline sağlık kahvaltı leziz meyhane mutfak öğle pişirmek restoran yemek yiyecek
-🏒	buz hokeyi ve disk hokey maç sopa
-💦	çizgi roman damla duygu fışkır su ter damlası terli
-🎐	çan rüzgar çanı
-😼	iğneleyici gülümseme kedi yüzü ironik kurnaz muzır yüz
-😉	cilve göz kırpan yüz kırpma
-📛	ad rozeti rozet
-🚉	istasyon taşıt tren istasyonu yolu
-💌	aşk mektubu kalp kalpli mektup romantizm
-🆘	işaret sos düğmesi işareti yardım
-🛙	aydınlanma deniz denizcilik fener ışık navigasyon rehberlik sinyal umut
-🍯	bal kabı gıda kahvaltı kap restoran tatlı
-😿	ağlama ağlayan kedi yüzü göz yaşı üzgün yüz
-🫜	bahçe kök pancar sebze turp
-😳	kızarmış ve şaşkın yüz şaşırmış şaşkınlık içinde şok tuhaf
-🚨	alarm araba polis arabası lambası tepe siren
-🚌	minibüs otobüs taşıt toplu taşıma
-🌇	alacakaranlık bina binaların üzerinden gün batımı gökdelen maslak new york şehir
-🔝	yukarı işareti ok okla oku
-🙊	ağzı kapalı maymun bilmiyorum hayvan konuşma konuşmadım söylemedim söylemeyen sus üç
-🐙	ahtapot hayvan okyanus
-🕦	11:30 on bir buçuk saat
-🕞	3:30 saat üç buçuk
-🙌	çak eller havaya her iki el kutlama kutlamak için eli birden kaldırma tebrikler
-🚗	araba araç otomobil taşıt
-🕥	10:30 on buçuk saat
-🥱	esneme iyi geceler uykular sıkıcı sıkılmış uykulu uykusuz uyuklama uyumak yatmak yorgun zzz
-🐎	at hayvan yarış atı
-👩‍🚒	bayan itfaiye aracı itfaiyeci kadın meslek
-🪉	arp aşk enstrüman eros müzik orkestra
-🫁	akciğer beden ciğerler nefes almak organ soluk solumak solunum vücut
-📲	çağrı yapmak cep telefonu mobil telefon ok işaretli
-💚	duygu kalp yeşil
-📶	anten çubuk işaretli mobil sinyal gücü telefon
-🫦	davetkar davetkâr dudak endişeli flört gergin ısırılan korku öpücük rahatsız seksi tutku
-🌅	gün doğumu güneş güneşin doğuşu sabah güneşi şafak
-🌂	kapalı şemsiye yağmur yağmurlu
-🍲	gıda restoran tencere yemeği yahni yemek tenceresi yiyecek
-🪜	adım aşağı ayaklı merdiven basamak çıkmak eşya tırmanış tırmanmak yukarı
-✅	✓ düğme işaret kalın onay işareti düğmesi
-📑	ayraçlar işaretçi sayfa ayraçları işareti
-👣	ayak izi gövde iz
-👀	bakmak görmek gözcü gözetlemek gözler yüz
-🤸	aktif birey jimnastik perende atan kişi spor yanlamasına takla
-⭕	çember kalın kırmızı o
-😆	32 diş ağız ahaha çok komik gözler kapalı gülmek hahaha kahkaha lol mutlu yüz
-🔄	oklar saat yönünün tersinde dönen tersine
-🟢	daire yeşil
-🧗	dağ dağcı kişi kaya tırmanışı tırmanıcı tırmanmak
-🌟	dilek yıldızı kıvılcım kutup parıldama parıldayan yıldız parlak parlayan pırıltı
-🤧	çok yaşa grip hapşıran yüz hapşırma hasta nezle
-🔛	açık oku ok ünlem işareti ve okla açik
-🪫	az şarj batarya düşük enerji pil elektronik güçsüz nesne
-⏰	alarm çalar saat
-🥕	gıda havuç sebze tavşan yiyecek
-➿	çift kıvrık döngü japonya ücretsiz numara
-🥂	bardak içecek kadeh tokuşturma kutlama şampanya
-🪲	böcek haşere hayvan
-🩹	bandaj bant yapışkanlı yara bandı
-🟧	kare turuncu
-📍	iğne raptiye yuvarlak
-😽	göz gözler kapalı kedi öpen öptüm öpücük yüz
-🐤	civciv başı hayvan piliç tavuk yavru
-🤵	adam damat kişi simokin smokin smokinli
-🛼	paten kaymak patenle roller blade skate seyahat spor tekerlek tekerlekli patenler
-🧩	bulmaca ipucu karmaşık kenetleme oyun parça puzzle yap boz yapboz parçası
-🛝	çocuk parkı eğlence kaydırak kaymak oyun park
-🔇	iptal işaretli hoparlör lütfen sessiz olun ses kapalı
-🏥	bina hastane klinik sağlık ocağı
-🚔	polis arabası taşıt yaklaşan
-💶	avro banknot döviz euro fatura para
-🥭	mango meyve tropik tropikal yiyecek
-🫂	aşk elveda hoşçakal insan kucaklaşma merhaba sağol sarılma sevgi teşekkür teselli veda
-🔳	beyaz kare düğme
-💹	banka grafik para piyasa yen simgeli artış grafiği yukarı giden yönlü
-🧺	çamaşır sepeti çiftçilik hasır piknik sepet
-😖	kafası çok karışık yüz karışmış kızgın pişman
-🔐	anahtarlı kapalı kilit güvenli
-🈯	japonca rezerve düğmesi sembolü
-🏦	banka bina dolar para
-🍧	buz meyveli restoran
-🧍	ayakta duran kişi durma
-🟠	daire turuncu
-⛔	girilmez işareti hayır işaret yasak
-✊	el havada yumruk kaldırma
-🌜	ay dördün son yüzü yüz olan
-😹	göz yaşı gülen kedi kahkaha atan yüzü komik sevinç gözyaşları döken yüz
-🧾	belge defter tutma dekont ekstre evrak fatura fiş hesap kanıt maliye muhasebe senet
-🪩	90‘lar aynalı küre dans disko topu eğlence gece hayatı kulübü parlak parti
-🏇	at yarışı jokey spor yarış atı
-👦	erkek çocuk insan kişiler oğlan
-🏸	badminton maç raket tüylü top
-🥜	fındık fıstık gıda kuruyemiş sebze yer fıstığı yiyecek
+🧑‍🧑‍🧒‍🧒	aile çocuk cocuk yetişkin yetiskin
+🍾	bar içki icki kutlama mantar patlayan mantarlı şişe sise şampanya sampanya
+🉑	japonca kabul edilebilir düğmesi dugmesi işareti isareti
+👩‍🔧	bayan elektrikçi elektrikci esnaf kadın meslek tamirci tesisatçı
 📱	cep telefonu iphone mobil telefon
-🕎	din menora mum mumluk şamdan yahudi şamdanı
-🚙	aile arabası araba cip eğlence taşıtı karavan mavi minivan spor taşıt
-🖤	fena kalp kötü siyah
-🪬	fatıma fatıma’nın eli fatma ana’nın fatma’nın hamsa koruyucu meryem muska nazarlık şans sembol
-🚴	antrenman bisiklet süren kişi sürücüsü bisikletçi hareket spor vücut
-🍷	bar bardak şarap içecek içedek kadeh kırmızı restoran bardağı kadehi
-💊	doktor hap ilaç
-🍀	bitki dört yapraklı yonca iskoç şans şanslı yaprak yeşil
-🪌	çizim düzeltme geri al hata kaldırmak silgi silme yanlışlık yazma
-😷	grip hasta maske maskeli yüz nezle rahatsız soğuk tıbbi
-📆	koparmalı takvim sayfası tarih
-🙉	duymadım duymayan maymun hayvan kulak üç
-💱	bozdurma döviz kambiyo para
-🩻	doktor film iskelet kaburga kemik medikal muayene nesne röntgen tıbbi x ışını
-🏠	bina ev konut yuva
-📙	kitap turuncu
-🥔	gıda patates sebze yiyecek
-💮	beyaz çiçek damgası damga iyi çalışma
-🥌	curling taşı körling oyunu oyun taş
-💩	kaka yığını leş pislik yığın
-🍳	gıda kahvaltı kızartma tavası pişirme restoran sahanda yumurta tavada yemek yiyecek
-🦈	balık deniz hayvan jaws köpek balığı okyanus
-🌼	bitki çiçek açma sarı
-😜	dil dışardayken göz kırpma dili dışarda haylaz kışkırtma şaka yaramaz yüz
-🪁	süzülme uçma uçurtma
-⛎	burçlar hain iblis yılan yılancı zodyak
-🍾	bar içki kutlama mantar patlayan mantarlı şişe şampanya
-🧇	hamur kahvaltı vafıl waffle
-🛞	araba çark dönüş jant lastik oto otomobil seyahat tekerlek yedek parça yolculuk
-📜	bildiri kağıt parşömen
-🧎	diz çöken kişi çökme dizler
-🌕	ay dolu dolunay parlak tam
-💽	bilgisayar disk mini
-💙	duygu kalp mavi
-📏	cetvel düz
-🥡	çin yemeği eve servis gıda kutu paket yemek yiyecek paketi
-🕔	5:00 beş saat 5
-🤩	gözler heyecanlı sırıtan surat vov yıldız çarpmış yüz
-🟦	kare mavi
-🐍	hayvan yılan
-🐉	çin efsane ejderha hayvan masal
-🪎	altın değerli ganimet gümüş mücevher ödül para zenginlik
-💯	100 puan skor yuz yüz
-🌝	ay dolu dolunay yüzü yüz olan
-♏	akrep burcu burçlar
-🪞	ayna eşya görüntü makyaj reflektör spekulum yansıma yansıtıcı
-💅	kozmetik manikür oje sürme tırnak bakımı
-🫫	açığa çıkarma dayanıklılık dönüşüm gerginlik kırılma maskeleme parçalanma
-🈁	burada japonca düğmesi işareti
-🍵	çay fincanı içecek yeşil
-⏳	akan kum saati sayaç zamanlayıcı
-🌙	ay dilek gece gökyüzü hilal uzay yeni
-🤭	a ah eliyle ağzını kapatan yüz sır şok olmak süpriz surat tüh
-🥗	gıda sağlıklı salata yemek yeşil yiyecek
-🈹	indirim japonca düğmesi sembolü
-🔔	çan kilise ses tenefüs zil
-🦹	acımasız hain kötü adam pelerin şeytani suçlu süper güç kahraman vampir zalim
-🙎	darılan kişi darılma hareket hayal kırıklığı kırgın küsme mimik öfkeli somurtma surat asma üzgün
-🫴	avuç içi yukarı bakan el çağırmak çağrı davet etmek uzatmak gel sunmak teklif yakalamak yardım
-👨‍🦽	erişilebilirlik erkek tekerlekli sandalye sandalyede
-🙇	affet affetme bağışlama başını öne eğme eğilme hareket kişi merhamet özür dilerim üzgünüm yakarma yalvarma
-🔈	hoparlör ses düzeyi kısık
-🍋‍🟩	lim limon limonlu turta margarita meyve misket limonu narenciye salsa tekila tropik yeşil yiyecek
-🪖	asker kaskı askerlik eşya kafa kask miğfer ordu savaş savaşçı
-🪰	at sineği böcek çürüme hastalık hayvan karasinek kurt larva sinek uçmak
-👧	genç insan kişiler kız çocuk
-🍂	düşen düşmüş güz sonbahar yaprak yapraklar
-🍝	gıda makarna restoran spagetti yemek
-🧑‍🦼	elektrikli tekerlekli sandalyede kişi erişilebilirlik sandalye
-🏂	kar kayağı yapan snowboard yapmak snowbordçu spor
-🏬	büyük mağaza çok katlı
-🤾	atış atletik birey el hentbol kişi spor top vücut
-🌳	ağaç orman yaprak döken yeşil
-🏐	maç top voleybol topu
-🧴	güneş koruyucu kremi krem losyon şişesi nemlendirici saç şampuan şişe
-💨	çizgi roman duygu fırla gaz çıkarma hızla fırlama hızlı kaçma koş koşma rüzgar
-🪱	hayvan kurt kurtçuk parazit solucan sürüngen
-🫕	çikolata çubuk erimiş fondü kap kayak peynir raklet yemek yiyecek
-🕧	12:30 on iki buçuk otuz saat yarım
-🥣	çorba gıda kahvaltı kase kaşıklı pirinç lapası tahıl gevreği yemek
-🍞	ekmek dilimi gıda kahvaltı restoran yemek
-🌚	ay gece yeni yüzü yüz olan
-🦨	kokan kokarca
-🚹	erkekler tuvaleti işaret tuvalet
-🪅	aktivite cinco de mayo etkinlik kutlama meksika parti pinata pinyata şapka şeker
-🪢	aktivite bağ bağlama bağlı denizci düğümü dolaşık düğüm halat sicim
-🫢	gözleri açık ve eliyle ağzını kapatan yüz hayret ifade inanamama inanılmaz korku şaşkınlık şok sürpriz utanma ifadesi
-🎻	alet keman müzik aleti
-🛫	check in chek kalkan uçak kalkış taşıt
-💐	aşk buket çiçek doğum günü gül romantizm
-👎	aşağı baş parmak aşağıda el işaret
-🤟	el seni seviyorum işareti ss
-♋	burçlar yengeç burcu
-🦸	iyi iyilik kahraman kurtarmak pelerin süper güç uçmak
-👏	alkış bravo çırpma el eller işaret tebrik
-🧚	kanat masal mitoloji oberon peri puck titania
-🏢	belediye bina devlet dairesi ofis binası
-🧻	banyo emici havlu kağıt rulosu rulo silmek temizlik tuvalet kağıdı
-🔅	düşük parlaklık işareti karanlık
-🆓	bedava bedelsiz free düğmesi işaret ücretsiz işareti
-🪛	alet düz uçlu eşya montaj sıkıştırmak sıkma tamir tamirci tornavida usta vida
-📖	açık defter kitap okul
-🍬	bayram restoran şeker şekerleme
-🃏	iskambil kartı joker kart
-🧪	bilim deney tüpü kimya kimyacı laboratuvar
-🍟	gıda kızartma patates mcdonald’s kızartması restoran
-🌏	asya avustralya dünya yerküre yerkürede asya-avustralya
-🧵	dikiş dikmek iğne ip iplik kırmızı makara terzi
-🆎	ab düğmesi kan grubu
-👩‍🍼	anne bakıcı bakım bebek bakıcısı emziren kadın beslemek emzirme insan kucak sevgi yenidoğan
-🕛	12:00 on iki saat 12
-🍰	dilim pasta doğum günü gıda dilimi restoran
-🦩	flamingo gösterişli tropikal
-😁	gülen gözlerle sırıtan yüz sırıtma gülme gülümseme gülümseyen gözler lol neşeli
-⬛	büyük siyah kare geometri
-🪻	acı bakla aslanağzı bahar bitki çiçek doğa eflatun lavanta lila lupin mor sümbül
-🖖	beden el parmak spock star trek uzay yolu volkan volkanlı selamı vulcan vulkan
-🪍	ağ toplamak tuzak yakalamak
-⌚	kol saati saat
-🐯	büyük kedi etobur hayvan kaplan yüzü kedigiller vahşi yüz
-🚧	inşaat işareti işaret
-🔵	büyük mavi çember daire
-🌄	dağ dağların arasından güneşin doğuşu ardında güneş sabah güneşi
-🚾	lavabo tuvalet wc
-📮	posta kutusu
-🦽	erişilebilirlik tekerlekli sandalye
-🌁	sis sisli
-🫈	dev efsanevi yaratık koca ayak orman tüylü yeti
-🦷	ağız ağrı azı dişi beyaz diş ağrısı hekimi perisi dişçi inci gibi köpek süt
-🪺	dal doğa hayvan huzur kuş yuvası yavru yumurta bulunan yuva
-🐜	bahçe böcek çalışkan hayvan karınca
-🔋	pil
-🟡	daire sarı
-🌑	ay karanlık yeni
-😩	acıkmış çok yorgun hayır olamaz pişman uykulu yüz yorulmuş
-🛒	alışveriş arabası araba pazar
-🆗	ok düğmesi işareti tamam
-🪝	askı asmak çengel çengellemek eğri eşya kanca
-🥞	gıda gözleme kahvaltı krep pancake pankek yiyecek
-💳	kart kredi kartı
-🦗	böcek çekirge cırcır böceği hayvan
-🫛	bakla baklagil barbunya bezelye edamame fasulye sırığı kabuk kabuklu sebze vejetaryen
-🥧	elmalı pay gıda pasta poğaça şeftalili tart tatlı yemek
-🧸	ayı ayıcık çocuk dolgu oyun oyuncak peluş pelüş sevimli uyku
-🧛	drakula hortlak kan vampir
-🟪	kare mor
-🐱	ev hayvanı hayvan kedi yüzü miyav mındık mırnav pisi şirin yüz
-🦺	acil durum güvenlik yeleği yelek
-🈴	geçer not japonca düğmesi
-🍏	ekşi elma gıda meyve yeşil yiyecek
-🌠	gece kayan meteor yağmuru uzay yıldız kayması
-❌	× çarpı işareti çarpma iptal işaret x
-🐸	hayvan kurbağa yüzü vırak yüz zıp
-🧀	fare gıda peynir dilimi
-🪕	banjo müzik yaylı
-🐩	hayvan kaniş köpek
-🦻	erişilebilirlik işitme cihazı olan kulak güçlüğü
-👩‍🦼	elektrikli tekerlekli sandalyede kadın erişilebilirlik sandalye
-🧙	büyü büyücü cadı sihir sihirbaz
-👨‍🏫	adam eğitmen erkek meslek öğretmen profesör
-💄	kırmızı ruj kozmetik makyaj
-🚘	araba araç otomobil taşıt yaklaşan
-👨‍🏭	adam erkek fabrika işçisi işçi meslek montaj sanayi
-🏣	bina japon postanesi posta postane
-🫐	dağ mersini likapa mavi mersin meyve orman meyvesi yaban yemek yiyecek
-🦑	mürekkep balığı okyanus yiyecek yumuşakçalar sınıfı
-🐵	hayvan komik maymun yüzü meraklı muz neşeli yüz
-🧊	aysberg buz küpü soğuk
-🤿	aletli dalış dalgıç maskesi skuba şnorkelle
-📼	teyp video kaseti videokaset
-💟	kalp kalpli dekorasyon
-🎥	eğlence film kamerası sinema
-🧥	ceket kaban manto mont sıkı giyinmek soğuk
-🐽	burun domuz burnu hayvan yüz
-👭	arkadaş çift dost el ele tutuşan iki kadın kadınlar kanki kişiler kızkardeşler
-🚝	araç metro monoray taşıt tramvay
-🩷	aşk beğen duygu kalp özel kişi pembe seni seviyorum sevgi sevimli şirin
-🧑‍🎓	mezun öğrenci talebe
-🏡	bahçe bahçeli ev bina evim güzel yazlık
-😮‍💨	bitik duman fısıldama iç çekme ıslık nefes verme off rahatlama sızlanma üfleme yorgun
-🔣	işaret girişi işaretler
-🪚	alet eşya kereste kesmek marangoz odun testere
-🧕	baş örtüsü başörtülü kadın insan türban türbanlı
-🦂	akrep burç hayvan iğne zehir
-➖	- − eksi işareti işaret koyu renk matematik
-😮	ağız ağzı açık yüz şaşkın şok süpriz
-🪸	canlı dalış deniz doğa hayvan iklim değişikliği mercan okyanus resif su altı
-🚊	metrobüs taşıt tramvay
-😟	endişeli gergin yüz
-📇	dizin kart dizini rolodeks
-🌽	başak gıda mısır başağı koçanı
-📫	işaret işareti kaldırılmış posta kutusu yukarıda kapalı
-🚄	hızlı tren marmaray metro shinkansen taşıt yüksek
-🧑‍🎨	palet ressam sanatçı
-🪪	belge ehliyet güvenlik kart kimlik bilgisi kartı lisans nesne nüfus cüzdanı
-🫖	çay demlemek çaydanlık demleme demlik içecek
-🕘	9:00 dokuz saat 9
-🈵	japonca yer yok düğmesi
-🐔	hayvan kuş tavuk
-👩‍🦽	erişilebilirlik kadın tekerlekli sandalye sandalyede
-🛗	alt kat aşağı asansör çağırmak çıkmak erişilebilirlik eşya inmek lift üst yukarı
-🍊	gıda mandalina meyve portakal turunç
-🤒	ağzında termometre olan yüz ateş grip hasta nezle
-🎾	spor tenis raketi ve topu top
-🤡	palyaço yüzü yüz
-💰	çanta dolar çantası para çuvalı torbası zengin
-🛴	ayak ayakla sürülen skuter
-🪷	bitki budizm çiçek hinduizm huzur lotus namaste nilüfer saflık sakin yoga
-🦉	baykuş bilge hayvan kuş
-🐛	böcek hayvan kırkayak tırtıl
-📣	iletişim karşılama megafon
-😱	korkmuş korku içinde bağıran yüz korkunç korkuyla çığlık atan haykıran
-🥨	burgu çubuk kraker gıda pretzel
-📎	ataş klips
-🍩	çikolatalı donut lokma donat doughnut gıda restoran tatlı yiyecek
-🐕	hav hayvan köpek kuçu süs köpeği
-🧑‍🧒‍🧒	aile çocuk yetişkin
-🪮	afro saç kıvırcık nesne perma tarağı seçme tarak tarama toka
-🫗	bardak boş cam dök dökme dökmek dökülen sıvı içecek kaza
-📳	cep telefonu mobil mod telefon titreşim modu
-💏	aşk kişiler öpücük öpüşme romantizm seni seviyorum yıldönümü
-🔮	fal bakma kristal küre
-🙆	aman tanrım egzersiz el hareket kişi kocaman oldu tamam hareketi vücut yüz
-🏈	amerikan futbolu spor top
-🥿	ayakkabı babet bale ayakkabısı dans düz pabuç patik puant rahat terlik topuksuz yeşil yürümek yürüyüş
-🦿	erişilebilirlik mekanik bacak protez
-💆	baş ağrısı gerginlik kişi masaj yaptıran rahatlama salon spa terapi yüz masajı
-🫯	anlaşmazlık arbede çekişme dövüş güreş kavga tartışma
-🫰	<3 aşk borç el hesap işaret parmağı ve baş parmak birbirine geçmiş kalp nakit pahalı para sevgi
-🥯	bagel donut ekmek fırın kahvaltı pasta peynirli simit sürme peynir
-🦜	hayvan kırmızı kuş papağan konuşma korsan renkli
-👨‍🌾	adam bahçıvan çiftçi çiftlik sahibi erkek meslek
-👖	blucin blue jean bluejean giyim kot pantalon pantolon
-🦕	brachiosaurus brontosaurus brontozor dinazor diplodocus hayvan korkunç soropod
-🚯	çöp atılmaz atmayın işareti işaret
-🩱	mayo tek parça
-➕	+ artı işareti işaret koyu renk matematik
-😡	deli gibi kırmızı somurtkan yüz öfkeli
-🥋	dövüş sporu forması forma judo karate spor tekvando
-🐣	civciv hayvan kuluçka tavuğu piliç tavuk yavru yumurtadan çıkan
-👑	giyim kral kraliçe kraliyet taç
-🏆	kupa ödül zafer kupası
-🦔	diken dikenli hayvan kirpi şirin
-✋	beş parmak dur işareti el kaldırma havada
-🔪	bıçak mutfak bıçağı
-🪔	diya lamba yağ
-🐏	burç hayvan koç burcu orman
-🟣	daire mor
-🥦	bitki brokoli gıda sebze yabani lahana yemek yeşil
-👜	çanta el çantası giyim kadın
-🍎	elma gıda kırmızı meyve
-🍜	buharda pişmiş erişte gıda makarna noodle tabağı restoran tabak
-🐓	hayvan horoz kuş
-🪑	iskemle oturma sandalye
-🧠	akıllı beyin zeka zeki
-📘	kitap mavi
-🛬	inen uçak iniş inme inmek taşıt varış varmak
-🍘	gıda pirinç gevreği yemek
-🦚	dişi tavus kuşu gösterişli gururlu hayvan kuş mavi renkli tavuskuşu züppe
-🎆	eğlence havai fişek ışık kutlama
-🫌	başkalaşım böcek değişim dönüşüm göç kırılgan tırtıl umut
-🤯	aklını başından almak patlayan kafa şaşırmış şok olmuş şoke surat
-🟩	kare yeşil
-🈲	japon yasak düğmesi sembolü japonca
-😈	boynuzlar boynuzlu gülen yüz gülümseme şeytani
-💗	aşk büyüyen kalp coşkulu duygu sinirli
-🔼	düğme üçgen yukarı düğmesi
-🎈	balon doğumgünü kırmızı kutlama parti
-🦀	burç deniz ıstakoz yengeç
-🩸	âdet aybaşı ilaç kan bağışı damlası mens menstrüasyon regl tıp yaralanma
-📄	doküman ön yüz yüzü görünen sayfa yukarıda
-🐋	balina hayvan okyanus
-🍌	gıda maymun meyve muz
-🤕	bandaj kafası sarılı yüz yara yaralı
-👡	ayakkabı giyim kadın sandaleti sandalet topuklu
-🏤	avrupa postanesi bina posta postane
-🏓	maç masa tenisi pinpon raket top
-🧁	cupcake fırın kapkek kek krema muffin pasta pembe şekerli tatlı top yemek
-🌲	ağaç çam noel ağacı orman yaprak dökmeyen yeni yıl yeşil
-🎂	dilek doğum günü pastası gıda iyi ki doğdun kek krema kutlama mum mutlu yıllar nice senelere parti pasta tatlı üflemek yaş yemek yiyecek
-💋	aşk dudak dudaklar öpücük izi romantizm seksi
-🤔	düşünen yüz düşünme
-⛳	delik delikteki bayrak golf bayrağı
-🧫	bakteri biyolog biyoloji kültür laboratuvar petri kabı
-🥠	fal kurabiyesi gıda içinden çıkan çin kurabiye kehanet şans talih
-👐	açık el eller işareti işaret
-😃	ağzı açık gülen yüz gülümseme sırıtma gülme lol neşeli
-👅	ağız dil gövde yalamak yüz
-🤨	güvenmeyen şüpheci surat tek kaşı çatık yüz havada
-🎌	bayraklar çapraz japon bayrakları kutlama
-💫	baş dönmesi çizgi roman dilek duygu gece gökyüzü kayan yıldız uzay yıldızlar yıldızları görme
-🤹	aynı anda birçok iş yapma denge el becerisi hokkabaz hokkabazlık jonglör jonglörlük kişi top çeviren erkek çevirme vücut yetenek
-📠	faks makinesi iletişim
-🚪	kapı
-🥹	ağlamaklı direnme duygusal gözyaşı gurur ifade kızgın mutlu sevinç gözyaşları sulugöz üzgün yüz ifadesi
-🌖	ay küçülen şişkin solgun uzay
-🙏	birleşen eller dua etme el hareket
-🧑‍🎤	aktör aktris gösterici şarkıcı star yıldız
-🪥	ağız banyo dental diş fırçası eşya fırça hijyen lavabo oral temizlik
-🏄	dalga sörfü erkek sörfçü kişi okyanus plaj sahil sörf yapan spor vücut
-👩‍🔬	bayan bilim adamı biyolog fizikçi kadın insanı kimyacı matematikçi meslek mühendis
-🤺	birey eskrim eskrimci kılıç spor
-🎠	at atlı karınca atlıkarınca atı eğlence karusel
-🈳	çince japonca yer var düğmesi
-🔥	alev ateş sıcak yakmak
-🪿	hayvan kaz sesi kümes hayvanı kuş ördek paytak şapşal vak
-🍨	buz dondurma gıda krema kup restoran tatlı
-🕓	4:00 dört saat 4
-🔯	altı köşeli yıldız fal bakma
-📉	alçalan grafik aşağı yönlü iniş grafiği
-🐀	hayvan kemirgen lağım faresi sıçan
-👟	ayakkabı bez giyim koşu ayakkabısı spor
-📯	borozan klakson posta klaksonu
-😅	heyecanlı soğuk ter terli ağzı açık gülümseme stresli yüz
-🦛	çamur hayvan hipo hipopotam mor sevimli su aygırı
-🌛	ay dördün ilk yüzü yüz olan
-👔	giyim gömlek iş adamı kravat takım kıyafet
-🧡	kalp portakal turuncu
-❔	beyaz soru işareti işaret noktalama
-🐺	hayvan kurt yüzü orman yüz
-🪹	boş yuva dal doğa ev kuş
-🤴	insan kraliyet prens
-🌘	ay kararması tutulması gece gökyüzü hilal ince solgun uzay
-🩺	doktor kalp stetoskop tıp
-🍣	çiğ balık gıda japon restoran sushi suşi nigiri
-🍢	çubuk çubukta deniz ürünleri gıda kebap oden restoran şiş
-🦐	deniz mahsulü kabuklu hayvanı karides küçük okyanus yiyecek
-🫺	bu gösterme kavrama nötr sağ şu
-🍮	gıda krem karamel puding restoran tatlı
-🥐	ay çöreği ekmek fransız gıda kruvasan pastane yiyecek
-🔖	defter işaret kitap not yer işareti
-🥟	empanada gıda gyōza hamur köftesi haşlanmış içli jiaozi mantı pierogi potsticker
-🎭	eğlence performans sanatı sahne sanatları sanat tiyatro
-🈚	bedava işareti japonca ücretsiz düğmesi
-🚋	taşıt toplu taşıma tramvay vagonu vagon
-🚦	dikey trafik ışığı ışıkları ışık lambası sinyalleri
-😒	canı sıkkın canım sıkıldı garip keyifsiz mutsuz neyse sıkılmış yüz
-🔹	karo küçük mavi
-🪴	bitki çiçek dekor doğa ev bitkisi saksı yeşil yetiştirme
-🧰	alet çantası kutusu çanta ingiliz anahtarı kırmızı kutu onarmak sandık tamir tamirat tamirci
-🦃	hayvan hindi kuş şükran günü
-🍄	bitki kırmızı mantar masal
-🟤	daire kahverengi
-🫱	anlaşma dokun el uzatma merhaba sağ sağa bakan selam temas tokalaşmak
-🧟	hortlak kişi kıyamet korku korkunç ürkünç yaşayan ölü yürüyen zombi
-👨‍🎤	adam aktör erkek gösterici meslek rock şarkıcı star
-🫩	gözlerinin altı torbalı yüz tükenmiş uykulu yorgun
-🤗	heyecanlı kucaklama kucaklayarak gülümseme sarılma yüz
-⏩	ileri sarma düğmesi ok sağ sağa çift
-🕜	1:30 bir buçuk saat
-📈	artış grafiği grafik yukarı yönlü yükselen
-🦆	hayvan kuş ördek suna
-🤼	birey dövüş düello güreş minderi güreşçi güreşçilik güreşen kişiler kişi spor vücut
-🎶	müzik notaları nota notalar
-🦁	aslan yüzü burç hayvan ormanların kralı yüz
-🤏	azıcık bir tutam biraz kıstırma hareketi yapan el parmaklar küçük
-🪄	aktivite asa büyü büyücü cadı değnek etkinlik sihir sihirbaz sihirli
-🆖	işaret ng düğmesi işareti
-😙	gülen gözlerle öpen yüz gülümseme gülümseyen gözler gülümseyerek öptüm öpücük
-🙍	beğenmeme hareket hayal kırıklığı kişi mimik öfkeli rahatsız sıkkın somurtan somurtma surat asma
-🚂	buhar buharlı lokomotif seyahat taşıt tren yolu
-👰	duvak duvaklı gelin evlilik kişiler
-🚭	duman sigara içilmez işareti tütün yasak
-😨	endişeli korkmuş korkulu yüz
-🎼	müzik partisyonu partisyon sol anahtarı
-🤦	aman tanrım çileden çıkma inanamıyorum inanmama inanmıyorum kızgınlık öfke olamaz şok yüzünü eliyle kapama
-📞	ahize alıcı telefon
-🚎	otobüs taşıt toplu taşıma troley troleybüs
-🔢	1234 sayı girişi sayılar
-🪣	bakraç eşya fıçı gerdel kap kepçe kova sap silmek temizlik
-😾	kedi yüzü somurtan somurtma yüz
-🥢	chopsticks çin yemek çubuğu çubukları
-🏑	çim hokeyi hokey maç saha sopa top
-🎢	eğlence parkı hız treni lunapark roller coaster tren
-🐭	fare yüzü hayvan sıçan yüz
-😧	acı çeken kederli mutsuz şaşkın yüz
-🐷	domuz yüzü hayvan yüz
-🫣	çaktırmadan dikizleme gizlice bakan yüz bakma gözetleme ifade korkma saklanma ürkek utanma ifadesi
-🍈	gıda kavun meyve meze rakı yemek
-🤛	el güm sola bakan yumruk doğru
-🙋	ben burada el kaldırma hareket kalkan kişi merhaba selam soru söz isteme
-🚲	bisiklet bisiklete binmek cycling sürüş taşıt
-🍑	gıda meyve şeftali
-🌍	afrika avrupa dünya yerküre yerkürede avrupa-afrika
-👬	çift el ele tutuşan erkekler iki erkek ikizler kişiler
-🐗	domuz hayvan inatçı yaban domuzu
-🤎	kahverengi kalp
-🚃	demir yolu demiryolu elektrik elektrikli tren taşıt toplu taşıma tramvay vagon
-🎤	eğlence karaoke mikrofon müzik şarkı şarkıcı
-👿	boynuzlu kızgın yüz küçük şeytan şeytani
-📡	anten çanak iletişim uydu anteni
-🫨	deprem olamaz panik sallama sallanma sersemlik şok sürpriz titreme titreşim titreyen yüz
-🤜	el güm sağa bakan yumruk doğru
-🌰	ağaç bitki gıda kestane
-🐨	hayvan koala ayısı
-📚	kitap kitaplar
-🌿	bitki ot yaprak
-♍	başak burcu burçlar
-📂	açık dosya klasörü klasör
-🔠	abcd büyük harf harfler latin harfleri harfleriyle giriş
-🔗	bağlantı işareti bağlantılar iki halka
-🔱	amblem çıpa üçlü çatal işareti
-🥒	gıda hıyar salatalık sebze turşu yiyecek
-⏪	geri sarma düğmesi hızlı ok sol sola çift
-🥁	bateri davul müzik ramazan davulu tokmak
-📅	takvim tarih
-👨‍🦼	elektrikli tekerlekli sandalyede erkek erişilebilirlik sandalye
-🍚	gıda pilav pirinç restoran
-🐆	büyük kedi hayvan hayvanat bahçesi kedigiller leopar vahşi
-☔	giyim hava durumu ıslak mor şemsiye yağmur damlalı yağmurlu
-🍼	bebek biberon içecek küçük şişe süt
-🎳	bovling ekipmanı topu oyun top
-🪭	çırpma dans flört heyecan nesne şak serinletme sıcak utangaç yelleme yelpaze
-🍉	gıda karpuz meyve
-🎄	ağaç çam kutlama noel ağacı süs yılbaşı
-🔲	düğme kare siyah
-🧑‍🌾	bahçıvan çiftçi rençper
-🚩	bayrak işaret kırmızı konum bilgisi işareti üçgen
-🦓	çizgili hayvan hızlı şeritli zebra
-🍗	but gıda restoran tavuk butu yemek
-🥮	ay pastası çörek festival kek pasta sonbahar tatlı yemek yiyecek yuèbǐng
-🏪	24 saat açık bina market sürekli
-🍓	çilek gıda meyve yumuşak
-🤚	el elinin tersi tersini kaldırma
-📩	e-posta giden gönderilen posta iletişim mektup oklu zarf
-📓	defter not defteri
-👥	büst kişiler siluet büstler
-📊	çubuk grafiği grafik
-🗽	heykel new york nyc özgürlük heykeli
-🕒	3:00 saat 3 üç
-🪋	ateş topu düşüş kaya kıyamet uzay yerçekimi yıldız
-👓	giyim gözlük
-🚰	içilebilir su içme suyu işaret musluk ve bardak
-🎽	çizgi çizgili koşu tişörtü spor tişört
-😴	esnemek iyi geceler uykular şekerleme tatlı rüyalar uyku uykulu uyumak yatak yatmak yorgun zzz
-🎦	eğlence film işareti sinema
-🥏	atmak disk fırlatmak frizbi oynamak oyuncak turuncu tutmak ultimate
-🦡	bal porsuğu bela hayvan porsuk sevimli
-🎨	boya paleti palet ressam sanat sanatçı
-🍖	et gıda kemikli restoran yemek
-🔍	arama büyüteç cam sola dönük solu gösteren
-🌹	aşk bitki çiçek gül kırmızı
-👩‍🚀	astronot bayan kadın meslek roket uzay
-🐚	deniz kabuğu sesi hayvan midye okyanus spiral
-🎰	kollu makina kumar makinesi oyun şans oyunu
-🕺	adam dans eden meslek
-🔡	abcd alfabe küçük harf harfler latin harfleri harfleriyle giriş
-👩‍🦯	erişilebilirlik görme engelli bastonlu kadın
-🕍	din musevi sinagog tapınak yahudi
-🛁	banyo küveti köpük köpüklü
-💘	aşk duygu kalp ok saplanmış
-🥍	atış gol lakros maç oyun raket sayı sopa spor top vurmak
-🧑‍🔧	elektrikçi tamirci tesisatçı
-😍	aşk değer verme gözler kalp gözlü gülümseme kalpler romantik yüz
-🆑	cl düğmesi işareti sil
-🧃	içecek kutusu kutu meyve suyu pipet
-👒	giyim kadın şapkası şapka
-♌	aslan burcu burçlar
-🌞	güneş parlak sıcak yaz yüz
-🍆	gıda patlıcan sebze yemek
-😊	ağzı açık gülme gülen gözlerle gülümseme gülümseyen gözler yüz ve samimi sevecen
-🫸	bekle bekletme çak çakma dur durdurma itme reddetme sağa iten el
-💲	dolar işareti koyu renk para
-🦍	goril hayvan
-🌈	biseksüel gay gökkuşağı hava durumu lezbiyen yağmur
-🙂	gülme gülümseme hafifçe gülümseyen yüz mutlu neşeli
-🧭	hedef bulma kaybolmak manyetik navigasyon oryantiring pusula yön
-👞	ayakkabı erkek ayakkabısı giyim
-🩳	alt iç çamaşırı mayo şort
-🧑‍🚀	astronot roket uzay
-🕚	11:00 on bir saat 11
-😵	başı dönen baygınlık hasta sersemlemiş yüz
-📿	boncuk din dua giyim kolye tesbih tespih
-🤓	akıllı bilgili bilmiş çalışkan gözlük gözlüklü inek öğrenci ukala yüz zeki
-🪀	inip çıkma oyuncak yoyo
-🏫	bina ilkokul lise okul binası
-🍹	bar içecek kokteyl restoran tropik
-🕝	2:30 iki buçuk saat
-🕠	5:30 beş buçuk saat
-📟	çağrı cihazı iletişim
-🎵	müzik notası nota
-👙	benekli bikini deniz giysisi giyim havuz kumsal tatil yaz
-🩲	alt iç çamaşırı mayo slip tek parça
-🤑	ağız gözünü para bürümüş ağızlı yüz göz
-🚛	araba araç çekici kamyon taşıt tır treyler
-🥘	gıda güveç kahvaltı krep tavası küçük menemen paella sahanda yemek tava yiyecek
-😘	aşk muah muck öptüm öpücük gönderen yüz romantik sevgi
-🛺	elektrikli çekçek tuk
-👱	erkek insan kişi kişiler saç sarı saçlı sarışın yüz
-🛂	kontrol pasaport kontrolü
-🪓	ağaç balta kesme kısa odun yarma
-🫝	çeşni fermente kornişon salatalık sorun tuzlu su
-🔞	18 yaş altı yasak yasaktır 18‘den küçükler giremez
-🤝	anlaşma el sıkışma sallama toplantı
-📒	not defteri resmi defter
-🚥	ışık trafik lambası sinyalleri yatay ışığı ışıkları
-🔊	yüksek ses sesli hoparlör
-🐴	at yüzü hayvan yüz
-😕	bilmiyorum emin olmayan kafası karışık yüz karışmış
-🫑	biber dolma dolmalık sebze yemek yeşil yiyecek
-🫄	çok yemek gaz göbek göbekli hamile kişi iki canlı insan karnı şiş obur şişmiş
-🪐	halkalı gezegen satürn
-🏅	altın madalya spor madalyası
-🏯	bina japon kalesi şatosu kale şato
-🌊	dalga okyanus dalgası sörf su
-💿	cd disk dvd optik
-🪦	cenaze defin defnetmek eşya huzur içinde uyu yat mezar taşı mezarlık nur ölüm
-⚾	beyzbol topu spor top
-👈	el elin arkası elinin tersiyle solu gösteren işaret parmağı parmak
-🦒	hayvan noktalar puanlar uzun zürafa
-🌗	ay dördün son
-🚸	çocuklar işaret karşıya geçen geçiş
-🤳	kamera kendi çekim öz özçekim selfie telefon
-🏀	basketbol potası topu pota spor top
-🚏	durak minibüs durağı otobüs toplu taşıma
-🥷	asker dövüşçü gizli insan katana kavga kiralık katil ninja saklı savaş suikast
-⚽	futbol spor top topu
-🚖	taksi taşıt yaklaşan
-👂	dinlemek gövde gürültü kulak ses
-👝	çanta giyim para kesesi
-📵	çağrı yapılmaz cep telefonu yasak mobil telefon
-🐳	balina deniz hayvan mavi okyanus su püskürten
-😯	şaşırmış şaşkın yüz şok olmuş
-🍫	bar çikolata barı gıda restoran tatlı
-🌋	dağ doğa volkan yanardağ patlaması
-🧝	elf legolas sihirli sivri kulak
-💛	duygu kalp sarı
-👨‍💻	adam bilgisayar mühendisi erkek teknoloji uzmanı geliştirici kodlayıcı meslek mucit mühendis programlamacı yazılım
-🐃	buffalo hayvan manda su
-🧆	falafel köfte nohut
-💎	elmas mücevher taşı pırlanta romantizm
-🧑‍🚒	itfaiye aracı itfaiyeci
-📷	fotoğraf makinesi video
-⛪	bina din haç hristiyan kilise papaz
-🚵	antrenman atletik bisiklet bisikletçi dağ bisikletçisi kişi spor sürüş vücut
-🐟	balık burç deniz hayvan mavi
-🤥	pinokyo yalan söyleme söyleyen yüz
-😛	dil çıkarmış yüz dışarıda kalmış komik şapşal
-🦵	ayak bacak diz tekme atmak uzuv
-🪒	jilet keskin tıraş ustura
-💈	berber dükkanı işareti işaret
-📹	kamera video
-🛵	motor motorlu skuter
-💸	banka banknot kanatlı para uçan
-🔦	el feneri elektrik ışık
-🧑‍🧑‍🧒‍🧒	aile çocuk yetişkin
-🚳	bisiklet giremez yasak taşıt
-🪵	ağaç ahşap kereste kütük odun seyahat tomruk
-😂	ağlamak gözyaşı gülmek gülmekten haha inanılmaz kahkaha katılmak komik mutluluk neşe sevinç
-🐦	hayvan kuş
-🔩	araç somun ve vida
-🤠	kadın kovboy şapkalı yüz şapkası yüzü şapka
-🔉	düşük ses sesli hoparlör açık
-💇	bakım güzellik salonu kes kişi kuaför makas saç kesimi kestirme stili salon tarz
-🧓	insan kişi yaşlı yetişkin
-👼	bebek melek peri masalı yüz
-🪠	açıcı çekme eşya lavabo pompası pompa tuvalet vakum
-👨‍💼	adam beyaz yaka erkek ofis çalışanı iş meslek mimar yönetici
-🔃	oklar saat yönünde dikey dönen yönüne yeniden yükle işareti
-🦦	balık avlayan oyuncu su samuru
-🗻	dağ fuji dağı
-🐖	çiftlik dişi domuz pembe şişko
-🧲	at nalı çekim çekmek elektrik yükü eş kutuplar manyetik mıknatıs pozitif negatif zıt
-🚻	lavabo tuvalet wc
-💤	çizgi roman gece iyi geceler uykular uyku uyuklama uyuma yorgun zzz
-🔌	elektrik fişi
-🏺	alet amfora antika içecek kap silah
-📻	radyo video
-🧑‍🦯	erişilebilirlik görme engelli bastonlu kişi kör
-🪗	akordeon akordiyon armonika çalmak enstrüman eşya körük müzik aleti tuş
-🍱	bento paketi gıda paket restoran sushi yemek
-🔘	düğme radyo düğmesi
-🕙	10:00 on saat 10
-👻	cadılar bayramı hayalet öcü peri masalı yüz
-🧉	içecek mate çayı
-🫀	anatomi kalp atışı kan kardiyoloji kırmızı merkez nabız organ
-🦭	ayı balığı balık bıyıklı deniz aslanı denizaslanı fok hayvan okyanus
-👨‍🔬	adam bilim adamı biyolog erkek insanı fizikçi kimyacı matematikçi meslek mühendis
-🐫	çöl deve hayvan hörgüç iki hörgüçlü kinci sahara
-♉	boğa burcu burçlar
-👨‍🍳	adam erkek aşçı meslek şef yemek yapma
-🚢	gemi seyahat taşıt titanik toplu taşıma tur vapur
-🥽	dalgıç gözlüğü dalış dalmak emniyet göz koruması gözlük iş kar kayak kaynak kaynakçı koruma koruyucu yüzme yüzücü
-🚟	asma demiryolu taşıt
-🔶	büyük turuncu karo
-🪡	aktivite dikiş iğnesi dikme etkinlik iğne iplik nakış sökük terzi
-⛺	çadır kamp yeri
-🙁	asık surat biraz endişeli yüz
-👾	canavar dünya dışı peri masalı ufo uzaylı yabancı yaratık yüz
-💷	banknot döviz para sterlin
-🏉	futbol topu ragbi futbolu spor top
-❓	işaret kırmızı soru işareti noktalama
-👩‍🎨	bayan kadın meslek palet ressam sanatçı
-🐇	diş havuç hayvan kemirgen pamuk şirin tavşan zıp
-🌾	başak pirinç başağı bitkisi
-🛷	kar kaymak kızak
-🌀	baş dönmesi hortum siklon tayfun
-🦴	iskelet kemik köpek kemiği mama
-👨	adam erkek insan kişiler sarışın
-💥	bomba bum çarpışma işareti çizgi roman duygu patlama
-🗿	heykel moyai heykeli taştan surat
-⛵	deniz tatil yeri tatili tekne yat yelkenli
-🫵	dürtmek el göstermek işaret parmağı karşıyı eden onlar orası parmak sen
-🏰	avrupalı bina kale şato
-🐞	benekli böcek hanım hanımböceği hayvan uğur böceği
-🚆	demiryolu taşıt tren
-🐕‍🦺	erişilebilirlik köpek rehber rehberlik yardım yardımcı
-🐮	hayvan inek yüzü yüz
-🏮	bar fener izakaya kırmızı kağıt restoran
-😥	canı sıkkın ama rahatlamış endişeli kafası karışmış karışık üzgün yüz yırttık
-🧤	el eldiven mavi
-🐰	havuç hayvan kemirgen tavşan yüzü yüz
-🏨	bina kalacak yer otel
-🍕	dilim gıda peynirli pizza dilimi restoran yiyecek
-📗	eğitim kitap kütüphane okul yeşil
-🎇	fişek havai kıvılcım kutlama patlama
-🪳	böcek hamam böceği haşere hayvan iğrenç kabuklu karafatma
-⚡	doğa elektrik fırtına işaret şimşek tehlike voltaj yıldırım yüksek işareti tehlikesi
-⏬	aşağı çift ok hızlı düğmesi
-🍻	bar bira kupaları tokuşturma içki kupa kupalar restoran
-🚺	bayanlar tuvaleti işaret kadınlar tuvalet
-👚	alışveriş bluz giyim giysiler kadın giysisi
-🧳	bagaj bavul çanta seyahat tatil valiz yol yolculuk
-♐	burçlar yay burcu
-🚤	bot sürat teknesi taşıt tekne
-📝	ders iletişim kalem kağıt not defteri
-🪨	ağır büyük kaya çakıl katı kayalık sert seyahat taş
-🍅	domates gıda meyve sebze
-📁	dosya klasörü klasör
-🎁	doğum günü hediye kutlama paketlenmiş paketli
-🧑	adam insan kişi yetişkin yüz
-🚒	araba itfaiye arabası kamyonu taşıt yangın
-👷	baret inşaat işçisi iş işçi kişi kişiler meslek onarım tadilat tamirat vücut
-🔤	abc i̇ngilizce latin alfabesi alfabesiyle giriş
-🚞	dağ teleferiği demiryolu taşıt teleferik tren vagon yolculuk
-🌐	boylamlar dünya meridyen meridyenli yerküre
-😸	göz gülen gözlerle sırıtan kedi gülümseme yüzü ve gözleri gülümseyen sırıtma yüz
-🫡	anlaştık asker başüstüne emredersiniz güneşli ifade komutan onay saygı selam selamlayan yüz ifadesi
-🟰	eşit eşitlik eşittir işareti işaret kalın matematik sembol
-🚬	duman işaret sigara içilebilir içme işareti
-🆒	cool düğmesi harika hoş serin işareti
-🍺	bar bira kupası kupa restoran
-🪏	çukur kazı kazmak kürek
-🐂	boğa burcu burçlar çiftlik hayvan öküz
-🤙	ara beni işareti el elle
-♓	balık burcu burçlar
-👵	anneanne babaanne insan kadın kişiler yaşlı
-🐧	antartika buz hayvan penguen soğuk
-❎	× çarpı işareti düğmesi çarpım çarpma kare x içinde
-🟫	kahverengi kare
-🥩	biftek bonfile et gıda ızgara kırmızı kuşbaşı parça sote steak yemek
-🦾	erişilebilirlik mekanik kol protez
-🎣	balık balıkçı dinlenme eğlence kamış olta ve
-😌	huzur rahatlamış yüz
-🫷	bekle bekletme çak çakma dur durdurma itme reddetme sola iten el
-🐝	arı bal arısı hayvan iğne vız
-🌻	ayçiçeği bitki çiçek güneş
-✨	* mucize parıldayan yıldızlar parıltı parıltılar pırıldayan pırıltı sihir yıldız
-🚽	alafranga tuvalet klozet wc
-🥑	avokado gıda meyve tropik yiyecek
-👛	bozuk para çantası cüzdan giyim
-🌮	gıda meksika sandviçi tako
-📋	duyuru pano
-🦊	akıllı hayvan kurnaz tilki yüzü yüz
-⚫	daire geometri siyah
-♒	burçlar kova burcu
-🐈‍⬛	cadılar bayramı halloween hayvan kara kedi miyav uğursuz
-🩵	açık mavi kalp aşk camgöbeği deniz mavisi duygu gökyüzü özel kişi sevgi
-📤	giden kutusu iletişim kutu posta tepsi
-🐐	burçlar çiftlik hayvan keçi koç oğlak burcu peynir süt
-🧂	baharat baharatlık beyaz çeşni tuz tuzlu tuzluk yemek
-🎯	hedef hedefe isabet on ikiden vurma oyun tam
-🐻	ayı yüzü hayvan orman yüz
-🔨	araç çekiç
-🚣	göl ırmak kano kayık kürek çeken erkek nehir sandal sandalda kişi taşıt tekne
-👕	alışveriş giyim gömlek tişört
-🐼	bambu hayvan panda yüzü tembel yüz
-👃	burun gövde koklamak koku nefes yüz
-📭	açık işaret işareti aşağıda posta kutusu indirilmiş
-🚁	helikopter taşıt
-🛻	araba araç gitmek kamyon kamyonet otomobil pikap seyahat ulaşım yol
-🕤	9:30 dokuz buçuk saat
-🫅	asil insan kral kraliçe kraliyet soylu taç takmış taht
-🧑‍🦽	erişilebilirlik tekerlekli sandalye sandalyede kişi
-🌱	fide filiz filizlenme genç bitki yeşil
-😪	ağlayan yüz uykulu yorgun
-🧒	çocuk genç insan kişi küçük surat
-🦤	büyük dodo kuşu hayvan kuş mauritius nesli tükenmiş soyu
-👢	bot çizme giyim kadın botu çizmesi
-📬	açık işaret işareti kaldırılmış posta kutusu yukarıda
-🚼	bebek alt değiştirme yeri işareti teknede
-🚑	acil ambulans taşıt
-😞	kırgın kırgınlık memnuniyetsiz yüz mutsuz umutsuz
-🍸	bar kokteyl bardağı kadehi restoran
-🥵	ateşlenmek çarpıntı hararet kızarmış yüz nefes nefese sıcak çarpması terleme tükenmek yorgun
-🫔	dürüm meksika yemeği tamale yemek yiyecek
-👹	canavar dev japon canavarı korkunç maske oni peri masalı yaratık yüz
-😬	dişçi dişlerini gösteren yüz sıkmak endişeli tedirgin yüzünü ekşitme
-🤶	anne insan noel annesi
-🎓	kep kutlama mezuniyet kepi
-👩‍🎓	bayan kadın kız öğrenci mezun
-🛖	baraka ev kulübe seyahat sığınak yer yurt
-🎬	eğlence film tahtası tahta
-🤘	beden boynuz işareti el metal metalci parmak rock süper yeah yes
-🕣	8:30 saat sekiz buçuk
-🤫	sessiz şişt şş surat sus işareti yapan yüz
-🔭	alet teleskop uzay gözlemleme
-🌸	bahar çiçek izleme kiraz çiçeği
-🥻	elbise giysi sari
-🎷	alet müzik aleti saksafon
-😺	açık ağız gülümseme gülümseyen kedi yüzü ve ağzı sırıtan yüz
-😫	hapşuran yüz perişan pişman üzgün yorgun
-😀	gülen yüz gülme keyifli lol mutlu neşeli sırıtan sırıtma
-💭	balon bulut çizgi roman düşünce balonu fikir
-🦼	akülü tekerlekli sandalye elektrikli erişilebilirlik
-👩‍💼	bayan beyaz yaka iş kadını işkadını kadın ofis çalışanı meslek mimar yönetici
-♿	erişim işaret tekerlekli sandalye erişimi sembolü simgesi
-🥄	kaşık yemek takımı
-🧽	banyo yapmak emici emmek gözenek gözenekli keselemek köpürtmek sünger temizlik yıkamak yıkanmak
-💵	banknot dolar döviz fatura para
-🐹	evcil hayvan hamster yüzü kemirgen yüz
-💾	disket floppy
-🌔	ay geniş şişkin yükselen
-🥫	konserve domates gıda
-💴	banknot döviz para yen
-🦧	hayvan maymun orangutan
-🍶	bar fincan içecek restoran sake şişesi ve fincanı şişe
-⚪	beyaz daire geometri
-🆙	işaret up düğmesi yukari işareti
-😎	cool gülümseme güneş gözlüğü gözlükleri gözlükleriyle gözlüklü havalı janti kanka kanki yüz
-📐	cetvel gönye üçgen
-🫧	baloncuk hava kabarcığı kabarcık köpük nesne sabun su altı temiz
-💕	aşıklar aşk duygu evlilik yıldönümü iki kalp seni seviyorum sevgili
-😗	aşk cilve muah muck öpen yüz öpücük sevgi
-🫤	eh hayal kırıklığı hüsran ifade kararsız kırgın meh memnuniyetsiz şüpheli yüz ifadesi
-💬	balon çizgi roman iletişim balonu konuşma
-🛘	çığ dağ deprem felaket kayalar taşlar tehlike toprak kayması
-🚚	eve servis kamyon nakliye kamyonu taşıt teslimat ulaştırma
-🔚	bitiş oku ok sol
-💺	koltuk sandalye
-🎉	harika konfeti kutlama parti konfetisi tebrikler
-🤲	dilek dua eden eller etmek ellerini açmak iki avuç açık
-😔	dargın düşünceli gemileri batmış karamsar üzgün yüz
-👋	bay bye el görüşürüz güle hey merhaba orada mısın sallama sallamak selam
-🎊	konfeti topu kutlama top
-💼	evrak çantası müfettiş ofis
-🥬	çin lahanası karalahana lahana marul salata sebze yaprak yemek yeşil yapraklı yeşillik yiyecek
-🈸	başvuru japonca düğmesi simgesi uygulama
-🚱	içilmeyen içilmez su
-🐄	büyükbaş hayvan çiftlik inek siyah beyaz süt
-⬜	büyük beyaz kare geometri
-😝	dil dışarıda ve gözler kapalı iğrenç korkunç öğk yüz
-😓	baş ağrısı endişeli soğuk ter terli yüz
-🩼	araç baston değnek engelli engellilik kırık koltuk değneği nesne sakatlanmak yaralı yürüme yardımı
-🙀	aman tanrım kedi korkuyla bağıran sahiden şaşırmış şaşkın yüzü yüz
-🧯	ateş söndürme söndürmek yangın söndürücü tüpü
-🦖	dinazor hayvan korkunç t-rex tyrannosaurus rex
-🧑‍🧒	aile çocuk yetişkin
-🐒	hayvan maymun muz orman
-🥴	akşamdan kalma alkollü baş dönmesi çakırkeyif kaymış gözler sarhoş şaşı sersemlemiş yamuk ağız yamulmak yüz ifadesi
-🧅	baharat sebze soğan yiyecek
-🍙	gıda onigiri pirinç topu restoran yemek yiyecek
-👨‍🚒	adam erkek itfaiye aracı itfaiyeci meslek
-🪈	ahşap üflemeli bando blokflüt boru enstrüman fife fifre flüt kaval müzik nefesli orkestra recorder
-🏏	kriket maç sopa top
-👴	büyükbaba dede erkek insan kişiler yaşlı
-🦝	gri hayvan meraklı rakun sinsi
-🎲	oyun zarı tavla zar
-🚡	gondol hava tramvayı havadan yol kablo yolu taşıt teleferik tramvay
-😑	ifadesiz yüz ifadesizlik kıskanç umurumda değil yorum yok
-🥶	buz gibi kesme donma kış mavi surat morarmış yüz sıfırın altı soğuk soğuktan donmak titremek üşümek
-🚿	duş su
-🖕	beden el orta parmak
-🫆	adli tıp güvenlik kimlik parmak izi
-🧑‍🍳	aşçı yemek pişirme
-🫠	aşkından erimek çözülme eridim erime eriyen yüz eriyorum ifade kaybolma sıcak sıvılaşma utanç ifadesi
-🐑	çiftlik dişi koyun küçük baş hayvan yün
-🕐	1:00 bir saat 1
-🔑	anahtar kilit parola şifre
-🚕	araba sarı taksi taşıt
-🎹	alet klavye müzik aleti klavyesi piyano
-🦮	erişilebilirlik görme engelli rehber köpek
-📃	kenarı kıvrılmış sayfa kıvrık
-👨‍🔧	adam elektrikçi erkek esnaf meslek tamirci tesisatçı
-😄	ağzı açık gülen gözler gözlerle gülümseme sırıtma yüz gülme lol neşeli
-🥲	acı duygulanmış gözyaşı gülümseme gururlu hislenmiş memnun minnettar mutluluk rahatlamış sevinç yüz ifadesi
-🫥	bilinmez depresif endişe gizlenme gizli görünmez içe dönük kaybolma kaygılı noktalı çizgili yüz ifadesi
-🥤	ayran gazoz içecek kamışlı bardak kola pipetli plastik
-🥃	bardak içki kısa ve geniş likör tek viski
-🗼	kule tokyo kulesi
-🙄	bana ne banane beni ilgilendirmez bilemiyorum göz devirme gözlerini deviren yüz her neyse hmm yani
-🦥	tembel hayvan yavaş
-🧞	alaaddin’in sihirli lambası alaaddinin cin dilek lamba sihir
-🤪	büyük çılgın deli göz gözler küçük surat
-👩‍🍳	bayan kadın aşçı şef yemek yapma
-🫘	baklagil barbunya bitki fasulye gıda tohum vegan vejetaryen yiyecek
-🥇	altın birinci birincilik madalyası madalya
-🐘	fil hayvan safari
-🔻	aşağı bakan kırmızı üçgen
-🎡	dolap dönme eğlence parkı lunapark
-🕢	7:30 saat yedi buçuk
-💪	çizgi roman esnek güçlü kas esnetme pazı vücutcu
-🎒	kırmızı sırt çantası okul
-😢	ağlama ağlayan yüz gözyaşları mutsuz üzgün üzüntülü
-👨‍🦯	erişilebilirlik erkek görme engelli bastonlu
-🫪	kaygı panik şaşırmış şaşkın savunmasız şişkin
-🔕	çan yok iptal işaretli ses sessiz üzeri çizili zil
-📢	halka hitap hoparlör iletişim megafon
-🦟	ateş böcek hastalık sivrisinek sıtma virüs
-🎅	insan kutlama noel baba santa claus
-❕	beyaz ünlem işareti işaret noktalama
-🤽	antrenman birey havuz kişi spor su sporları topu top vücut yüzme
-🗾	harita japonya haritası
-🔆	parlak parlaklık yüksek işareti
-🤣	ahaha çok komik gözümden yaş geldi gözyaşı gülme hahaha kahkaha mutluluk neşe yerlere yatmak yüz
-🦅	amerika beşiktaş beyaz başlı kartal hayvan kara kuş
-🧶	ip iplik yumağı kedi kroşe örgü ipi tığ top yumak yün
-🍇	gıda meyve salkım üzüm
-🌯	burito dürüm gıda meksika dürümü yemek
-🌎	amerika bölgeleri dünya yerküre yerkürede
-🀄	ejderha kızıl ejder mahjong taşı taş
-🦣	büyük diş fil dişi hayvan mamut nesli tükenen soyu yünlü
-🥝	gıda kivi meyve yiyecek
-😻	aşık aşk gözler gülümseme gülümseyen ve kalp şeklinde gözleri olan kedi yüzü gözlü sevgi yüz
-🎸	alet elektrik gitar müzik aleti
-⏫	hızlı yukarı düğmesi ok çift
-🏩	aşk oteli bina otel
-🥓	bacon domuz pastırması et gıda kahvaltı yiyecek
-➗	÷ bölü işareti işaret koyu renk matematik
-🐦‍🔥	anka ateş kuşu dönüşüm fantezi hayvan küllerinden doğmak ölümsüz reenkarnasyon yeniden doğuş yenilenme zafer
-🔁	oklar saat yönünde tekrarlama düğmesi
-👪	aile anne baba bir erkek kadın çocuk kişiler
-🤍	beyaz kalp
-🪃	aborjin atmak boomerang bumerang eşya fırlatmak geri gelmek tepme oyun sekme silah tepki
-🔧	araç ingiliz anahtarı somun
-🐶	hayvan köpek yüzü yüz
-🦌	boynuz geyik hayvan orman ren geyiği
-🎋	ağaç ve kağıt şeritler japon kutlama star festivali tanabata ağacı
-🕌	cami din ibadet ibadethane islam i̇slam mescit müslüman
-📔	dekorasyonlu not defteri kapak süslü
-🕗	8:00 saat 8 sekiz
-🐲	ejderha yüzü hayvan masal yüz
-👊	anlaştık bam el katılıyorum tamam yaklaşan yumruk
-🫙	baharatlık bitmiş boş cam kap kavanoz mutfak saklama kabı sos tamtakır
-🚇	marmaray metro taşıt toplu taşıma tren ulaşım
-🧏	duyma erişilebilirlik işitme engelli kişi kulak
-🤐	ağız ağzı fermuarlı yüz ağzım kapalı fermuar sır
-👩	insan kadın kişiler sarışın
-🍡	çubukta pirinç tatlısı topları dango gıda japon restoran tatlı
-📧	e-posta ileti iletişim mektup posta
-🛜	ağ akıllı telefon bağlantı bilgisayar geniş bant internet kablosuz modem wifi wlan
-🐊	hayvan timsah
-📌	iğne raptiye
-🕕	6:00 altı saat 6
-⛲	çeşme fıskiye süs havuzu
-🔫	revolver silah su tabancası tabanca
-🍐	armut ayı gıda meyve
-⚓	çapa çıpa denizci denizcilik gemi işaret tekne
-🪆	aktivite babuşka bebek bebekler etkinlik iç içe matruşka bebekleri oyuncak rus rusya
-📦	kutu paket posta
-🧧	çin hediyesi hediye hóngbāo iyi şans şanslar kırmızı kağıt zarf lai see para uzak doğu
-🪽	cennet havacılık kanat kuş kutsal melek gibi mitoloji semavi uçma uçuş
-🎪	çadır eğlence sirk çadırı
-😏	hin imalı gülümseme kuşkucu sinsi yapmacık gülümseyen yüz
-🛄	bagaj alma yeri teslim bavul çanta seyahat
-♑	burçlar oğlak burcu
-🧑‍💼	beyaz yakalı iş yeri mimar müdür ofis çalışanı yönetici
-🐁	beyaz fare fil hayvan kemirgen
-🐌	böcek hayvan salyangoz sümüklü yavaş
-👩‍🌾	bahçıvan bayan çiftçi çiftlik sahibi kadın meslek
-🕑	2:00 iki saat 2
-🎀	kız kurdele kutlama pembe
-📪	işaret işareti aşağıda kapalı posta kutusu indirilmiş
-🎮	kontrol cihazı oyun konsolu video oyunu xbox
-🔴	büyük kırmızı çember daire
-🦞	bisque deniz ürünü hayvan ıstakoz kabuklu kırmızı kıskaç
-🛐	din ibadethane tapınma
-🛹	kaykay kaykaycı kaymak rampa spor tahta tekerlek
-👩‍🏭	bayan fabrika işçi kadın işçisi meslek montaj sanayi
-🙅	asla hareket hayır insan iyi değil izin vermiyorum izinsiz kişi olmaz vücut yasak yüz
-🏧	atm işareti otomatik vezne
-🧢	beyzbol şapkası şapka siperli
-🫎	boynuz boynuzlar elk geyik boynuzları hayvan memeli mus sığın
-💁	alaycı bilgilendirme dedikodu el elini yana yatırma keyfin bilir kişi kişiler neyse saçını savurma sen bilirsin umurumda değil
-🈶	bedava değil japonca düğmesi simgesi ücretsiz
-🌺	atatürk çiçeği bitki çiçek çingülü hatmi
-🤬	ağzında semboller olan yüz kızgın kızmış küfür eden etmek sembol surat sensör
-🤢	iğrenç istifra kusmak üzere olan yüz midesi bulanmış
-💃	dans eden kadın dansçı festival kişiler meslek tango
-🦋	böcek kelebek şirin
-🐥	civciv hayvan önden piliç sarı şirin tavuk yavru yüzü dönük
-🚫	girilmez girmek yasak işaret
-💞	aşk dönen kalpler kalp kawaii sevimli
-🥖	baget ekmek fransız gıda yiyecek
-🉑	japonca kabul edilebilir düğmesi işareti
-🚓	araba devriye arabası polis taşıt
-🧑‍🔬	bilim insanı biyolog fizikçi kimyacı kimyager
-🔒	kapalı kilit
-🐦‍⬛	gaga gak hayvan hilebaz kara karga kargagil kuş kuzgun siyah
-😐	duygusuz etkilenmemiş nötr umurumda değil yorum yok yüz
-🪘	conga davul çalmak enstrüman eşya müzik aleti perküsyon ritim ritm tempo tumba uzun vurmak vuruş
-🎩	eğlence şapka sihirbaz silindir
-👩‍🎤	aktör bayan gösterici kadın meslek rock şarkıcı star
-🦄	hayal hayvan sihirli tek boynuz boynuzlu at unicorn yüz
-🐠	balık hayvan okyanus tropikal
-🥥	gıda hindistan cevizi maymun palmiye pina colada tropikal
-🧣	atkı sıkı giyinmek soğuk yaka
-🎿	bot kayak ve spor
-🌆	akşam alacakaranlık bina gün batımı manzara şehir şehirde
-🧐	havalı kendini beğenmiş klas surat tek cam gözlük gözlüklü yüz varlıklı zengin
-😭	ağlama avaz ağlayan yüz gözyaşları mutsuz üzgün
-😰	açık ağız endişeli korkmuş korkulu yüz soğuk ter döken mavi terli ve
-💣	bomba çizgi roman duygu
-🐪	deve hayvan hecin devesi hörgüç
-👨‍🎓	adam erkek mezun öğrenci
-👇	aşağıyı gösteren parmak el elin arkası elinin tersiyle işaret parmağı
-🥉	bronz madalya üçüncü üçüncülük madalyası
-🚅	hızlı tren mermi burunlu shinkansen taşıt yuvarlak uçlu yüksek
-🥳	doğum günü eğlence iyi ki doğdun konfeti kutlama mutlu yıllar neşeli oley parti partide eğlenen yüz şapka yılbaşı
-👳	başörtüsü insan kişi kişiler sarık sarıklı erkek türban türbanlı vücut
-🎧	eğlence kulaklık müzik
-📨	alınan posta e-posta gelen iletişim mektup zarf
-⭐	beyaz orta yıldız gece gökyüzü kutup yıldızı
-🫃	gaz göbek göbekli hamile adam iki canlı insan karnı şiş obur şişmiş
-🌌	gökyüzü samanyolu uzay
-🧖	buhar banyosu odası odasındaki kişi hamam rahatlamak sauna
-🚠	dağ teleferiği teleferik hattı kablo taşıt telesiyej vagon
-🪙	altın avro bozuk para dolar gümüş hazine jeton madeni metal sikke zengin
-🌵	bitki çöl diken kaktüs
-😲	afallamış şaşkın şoke olmuş tamamen yüz
-🙃	gülme gülümseme hehe ters yüz
-🚶	aylak gezinti kişi salınma tempo vücut yaya yürüme yürüyen adam yürüyüş
-👤	büst kişiler siluet
-🛶	bot kano kayık tekne
-🌓	ay ilk dördün uzay
-🌒	ay büyüyen hilal yükselen
-👽	dünya dışı fantastik peri masalı ufo uzaylı yabancı yaratık yüz
-🕡	6:30 altı buçuk saat
-🐡	balık balon balığı hayvan
-🛃	gümrük
-🥛	bardak gıda içecek süt bardağı
-🛟	can simidi cankurtaran deniz güvenlik havuz hayat kurtaran kurtarmak önlem simit yüzme
-🫚	baharat bira bitki çeşni doğal kök sağlık şifalı yiyecek yumru zencefil
-🍋	gıda limon meyve narenciye
-🪶	gıdıklamak hafif hayvan kuş tüyü tüy tüylü uçma
-🫹	bu gösterme kavrama nötr sol şu
-👲	adam çin şapkalı erkek çinli şapkası olan gua pi mao takan kişiler meslek
-🤰	hamile kadın
-🧹	büyücü cadı ev işi harry potter süpürge süpürme süpürmek temizlik uçmak
-💑	aşk kadın erkek kalp kalpli çift kişiler romantizm
-⛅	bulut bulutlar ardındaki güneş bulutlu hava parçalı
-🩶	aşk duygu gri gümüş kalp kurşun özel kişi sevgi taş
-🧨	ateş bomba dinamit havai fişek kırmızı kıvılcım maytap patlama patlayıcı
-🏊	antrenman hareket havuz kişi serbest stil spor triatlon vücut yüzen yüzme yüzücü
-🕟	4:30 dört buçuk saat
-🩰	bale ayakkabıları pabucu dans
-📀	blu-ray cd disk dvd müzik
-🏃	acele çabuk hızlı kişi koşan koşu koşucu maraton spor vücut yarış
-🧜	balık insan kadın deniz altı kızı mitoloji peri masalı poseidon su üç dişli çatal
-🔽	aşağı düğmesi üçgen düğme
-💻	bilgisayar dizüstü kişisel
-🧋	baloncuk boba bubble tea çay içecek inci çayı süt tayvan
-🫏	eşek hayvan inatçı katır memeli merkep sıpa
-🪟	cam çerçeve dışarı bakmak eşya izlemek manzara pencere saydam şeffaf temiz hava
-🐢	hayvan kaplumbağa
-😤	ben kazandım yüzü burnundan soluyan yüz kızgın mutsuz sinirli zafer
-👨‍🚀	adam astronot erkek meslek roket uzay
-👩‍💻	bayan geliştirici kadın mühendis teknoloji uzmanı kodlayıcı meslek mucit yazılım
-🦠	amip bakteri bilim deney hastalık hücre laboratuvar mikrop tek hücreli virüs
-🥺	acıklı bakışlar af dilemek gözleri dolmak koca göz lütfen merhamet pişmanlık üzgün yalvaran gözler yalvarırım yüz ifadesi
-🤮	hasta istifra kusan yüz kusmak kusmuk surat
-❗	işaret kırmızı ünlem işareti noktalama
-🪼	ahh akvaryum çarpma deniz denizanası dokunaç hayvan iğne medüz okyanus omurgasız plankton sokma yanma
-🎺	alet müzik aleti trompet
-🟥	kare kırmızı
-😶	ağız ağzı olmayan yüz ifadesiz sakin sesi kesilmiş sessiz sır suskun
-🧬	biyolog biyoloji dna evrim gen genetik sarmal yaşam
-😵‍💫	aklı karışık aman tanrım başım döndü gülen yüz hipnotize inanamıyorum kafası bulanık mide bulantısı sersem sıkıntı ifadesi
-📸	flaş flaşlı fotoğraf makinesi kamera video
-👩‍🔧	bayan elektrikçi esnaf kadın meslek tamirci tesisatçı
-💧	çizgi roman damla damlacık su ter terli
-🪂	delta kanat deniz paraşütü paraşüt paraşütle atlama
-🎃	cadılar bayramı fener halloween jack kabak kutlama
-🫟	boya dökmek holi leke lekelemek sıçratmak
-💖	duygu heyecanlı kalp pembe pırıldayan
-💜	duygu kalp mor
-🚀	çıkış roket taşıt uzay yolculuk
-🎑	ay izleme töreni kutlama
-🍦	dondurma külahı gıda krema külah restoran vanilyalı yumuşak
-🥀	boynu bükük çiçek gül kırgın kırmızı solmuş üzgün
-😣	baş ağrısı dayanıklı dikkatli inatçı kararlı konsantre olmuş yüz zorlanan
-📰	gazete haber kağıt kâğıt
-🥊	boks eldiveni eldiven spor
-🧑‍🏫	doçent eğitimci öğretmen profesör
-🔺	kırmızı üçgen yukarı bakan
-📺	televizyon tv video
-🦬	bizon boynuz bufalo hayvan sürü
-👸	insan kişiler kraliçe peri masalı prenses
-😋	gülümseyen yüz harika yemek keyifli lezzetli yiyecek beğenen oh
-👗	alışveriş elbise giyim kokteyl elbisesi şık tek parça
-🦎	hayvan kertenkele sürüngen
-🫳	al atmak avuç içi aşağı bakan el bırak düşürmek kışkışlamak uzanmak uzat
-🥎	beyzbol eldiveni eldiven kol oyun softball spor tenis topu top oynamak yuvarlak
-💉	doktor iğne ilaç şırınga
-🪧	bildiri döviz eşya gösteri işaret levha pankart plaka protesto tabela
-🌃	gece şehir yıldızlar yıldızlı
-📕	kapalı kitap kırmızı
-😇	gülümseme hare ışık halkalı halkası melek yüz
-🍃	esen rüzgar rüzgardaki yaprak
-🫒	dal yemek yeşil zeytin yiyecek dalı
-🔜	ok sağ okla yakında işareti
-🧑‍🍼	anne baba bakıcı bakıcılık bebek bakıcısı emziren kişi beslemek emzirme erkek insan kadın yenidoğan
-🚍	araba otobüs servis taşıt toplu taşıma yaklaşan
-🧄	baharat sarımsak
-👯	aynısı dans dansçı ikiz kadın parti ruh ikizi tavşan kulak kulaklar kulaklı kişiler vücut
-🪤	eşya fare kapanı kapan kıskaç kıstırmak peynir tuzak yem
-🥸	ajan bıyık burun casus gözlük kimliğini gizlemek kılık değiştirmek maskeli yüz ifadesi
-🥅	ağ kale ağı spor
-🍪	çikolatalı kurabiye cookie gıda restoran
-🔎	arama büyüteç cam sağa dönük sağı gösteren
-🩴	ayakkabı deniz terliği eşya flip flop kumsal parmak arası terlik sahil sandalet zori
-💢	çizgi roman duygu öfke işareti simgesi öfkeli
-🥙	döner dürüm ekmek arası falafel gıda kebap pide sarma yiyecek
-🐈	hayvan kedi pisi sarman
-📥	gelen kutusu iletişim kutu posta tepsi
-🚮	çöp kutusu işareti çöpü yerine atın işaret
-🟨	kare sarı
-🥼	beyaz önlük bilim insanı deney doktor önlüğü dr giysi gömlek hasta bakıcı hastane laboratuvar
-🧱	duvar örmek harç inşaat kil kiremit kırmızı seramik taş tuğla tuğlalar
-🧈	süt ürünü tereyağ tereyağı
-💓	aşk çarpan kalp duygu heyecan atışı
-🎏	flama kutlama sazan şekilli
-♈	burçlar koç burcu
-🛌	gece insan iyi geceler uykular kestirme otel uyku saati uyumak yatan yatmak zzz
-🦇	drakula hayvan kan emen kanatlı kuş mağara siyah vampir yarasa
-🚐	minibüs otobüs taşıt toplu taşıma
-🐬	balık deniz hayvan mavi yunus okyanus
-🐅	büyük kedi etobur hayvanat bahçesi kaplan kedigiller vahşi
-🌉	boğaz gece vakti köprü golden gate manzara
-🤌	bravo çok güzel el hareketleri harika kıstırma hareketi yapan parmaklar lezzetli
-🛀	banyo yapan kişi küvet
-👶	bebek kişiler
-🍁	akçaağaç yaprağı düşen yaprak kırmızı sarı sonbahar turuncu
-🚜	taşıt traktör
-💠	baklava çizgi roman elmas biçimli geometrik içinde noktalı şekli biçimi karo
-😚	aşk gözler kapalı öpüşme gözlerle öpen yüz öpücük yollama
-👮	ceza erkek polis görevli gözaltı kanun kişi kişiler meslek memuru tutuklama yasa
-🍥	balık köftesi çörek gıda restoran rulo yiyecek
-🧌	canavar dev fantezi gerçek dışı hayali hulk ork peri masalı trol yaratık yeşil
-👠	ayakkabı giyim kırmızı topuklu yüksek
-🧑‍🎄	christmas cinsiyet belirtmeyen noel karakteri insan mutlu noeller yıllar baba figürü santa claus şapka tatil yılbaşı
-👩‍🏫	bayan eğitmen kadın meslek öğretmen profesör
-🌴	ağaç palmiye ağacı yaz yeşil
-🏭	bina fabrika sanayi
-🔷	büyük mavi karo
-💡	ampul bir fikrim var çizgi roman elektrik ışık
-🪾	çorak kış kurak yapraksız ağaç
-🔙	geri ok oku sol
-🫲	anlaşma dokun el uzatma merhaba selam sol sola bakan temas tokalaşma
-💒	düğün evlenme kilise kilisede romantizm
-🆔	id düğmesi işaret kimlik işareti
-🧑‍🩰	bale dansçı
-🥪	ekmek gıda sandviç tost yemek
-⌛	kum saati
-🔀	çapraz sağ oklar parça karıştırma düğmesi
-😦	açık ağızlı hoşnutsuz yüz ağzı boş bulunmuş korkmuş
-🍄‍🟫	doğa gıda kahverengi mantar pizza malzemesi portobello sebze şitaki trüf yiyecek
-🦫	baraj diş hayvan kemirgen kemirmek kunduz kuyruk
-🥚	gıda kahvaltı tavuk yiyecek yumurta
-🛑	dur işareti işaret sekizgen
-🎫	bilet eğlence giriş
-👺	canavar cin goblin japon cini maske peri masalı tengu yaratık yüz
-🤷	bilemem bilmem bilmeme bilmiyorum ilgisizlik kararsız kişi ne bileyim yapalım omuz silkme sanırım vücut
-🦏	afrika gergedan hayvan safari
-🍿	gıda mısır patlamış sinema
-☕	çay dumanı tüten içecek kahve sıcak
-📴	cep telefonu kapalı mobil telefon
-👘	elbise giyim kimono
-🚈	demiryolu hafif raylı taşıt tren yolculuğu yolu
-🧷	bebek bezi çengel çengelli dikiş iğne kancası iğnelemek kanca punk rock tutturmak
-🍔	çizburger gıda hamburger restoran yemek yiyecek
-🔸	karo küçük turuncu
-🎎	bebek festivali festival japon oyuncak bebekleri kutlama
-🧘	bağdaş kurmak lotus pozisyonu pozisyonundaki kişi meditasyon rahatlamak yoga
-🥾	ayakkabı bot dağcılık kamp kar botu kış kışlık sırt çantası yürümek yürüyüş
-🦙	alpaka beyaz guanako hayvan lama sevimli tatlı vikunya yün
-🆚	işaret karşılaştırma işareti vs düğmesi
-🧦	çorap
-🛕	hindu tapınağı tapınak
-💝	duygu kalp kurdele kurdeleli sevgililer günü
-🔂	1 sayısı olan saat yönünde oklar tek parça tekrarlama düğmesi
-🌷	bitki çiçek kırmızı lale
-🧑‍🧑‍🧒	aile çocuk yetişkin
-🥰	aşık aşk çarpılma gülen yüz hayranlık ilk görüşte kalp mutluluk romantik seni seviyorum sevgi üç kalpli
-💍	alyans evlilik nikah nişan pırlanta yüzük romantizm tek taş
-🕖	7:00 saat 7 yedi
-🚷	işaret yaya yayalar giremez yayalara yasak yürüyen
-🐾	hayvan iz pati izi pençe
-👨‍🎨	adam erkek meslek palet ressam sanatçı
-🍤	deniz ürünü gıda karides kızarmış restoran yiyecek
-🦢	beyaz çirkin ördek yavrusu gaga göl hayvan kuğu kuş
-🔏	gizlilik kilit ve kalem mürekkepli kalemli
-⛄	kar yağmadan kardan adam karsız kış soğuk
-💀	cadılar bayramı canavar iskelet kafatası masal ölüm yüz
-🏴	bayrak dalgalanan siyah
-👍	+1 anlaştık beğendim bence de el iyi onay tamam
-🧑‍💻	geliştirici kodlayıcı mucit teknolog teknoloji uzmanı yazılım yazılımcı
-🪊	bakır çalgı caz enstrüman hüzünlü müzik sürgü üzgün
-🌭	gıda hot dog sosis sosisli sandviç
-♎	burçlar terazi burcu
-🪇	alet çaça çıngırak dans enstrüman marakas müzik aleti nesne parti perküsyon sallama sallamalı vurmalı
-💂	bekçi kişiler koruma görevlisi londra muhafız
-🛸	uçan daire ufo uzaylı
-➰	döngü dönüş kıvrık
-🎴	çiçek çiçekli kart oyun kağıtları hanafuda kağıt oyunu
-🦪	dalma inci istiridye
-🪯	deg tegh fateh din inanç khalsa khanda sih sihizm
-🛅	bagaj hizmeti eşya emanet kasa kayıp
-🉐	indirim japonca avantaj düğmesi simgesi
-🧑‍🏭	endüstri fabrika işçisi işçi montaj sanayi
-🔰	japonca yeni başlayan sembolü yeşil ve sarı yaprak
-🫍	balina deniz okyanus
-♊	burçlar ikizler burcu
-🍒	gıda kiraz meyve
-🦘	avustralya hayvan kanguru kese keseli kulak memeli otçul sıçrama yavru zıplamak
-🦯	erişilebilirlik görme engelli bastonu
-🧼	banyo yapmak el yıkamak köpük köpürmek sabun köpüğü sabunlamak temiz temizlik yıkanmak
-🧿	boncuk maşallah mavi muska nazar tılsım
-🎱	bilardo oyun sekiz top
-🍭	bayram çocuk gıda lolipop restoran şeker şekerleme
-🥈	gümüş ikinci ikincilik madalyası i̇kincilik madalya
-🔬	alet bilim labrotuar mikroskop test
-🤞	çapraz el parmak şans dileme söz verme
-🍛	gıda köri körili pilav pirinç restoran yemek
-👌	anlaştık el harika işaret işte bu mükemmel müthiş ok süper tam olarak tamam tamamdır
-👆	el elin arkası elinin tersiyle yukarıyı gösteren işaret parmağı parmak
-👉	el elin arkası elinin tersiyle sağı gösteren işaret parmağı parmak
-🎍	bambu çam süsleme japon kutlama yeni yıl
-🧔	insan sakal sakallı kişi yüz
-🦶	ayak bilek parmak tekme topuk
-🈺	işletme açık japinca düğmesi japonca hizmete hazır sembolü
-🧮	abaküs çocuk hesap hesaplama renkli
-🏁	bayrak bitiş damalı ralli spor yarış
-🙈	görmedim görmeyen maymun hayvan komik oyun saklambaç
-🍠	fırınlanmış patates tatlı gıda restoran tırınlanmış
-🕋	din islam kabe kâbe müslüman
-🫓	bazlama ekmek lavaş naan pide pita yassı yemek yiyecek
-😠	deli gibi kızgın mutsuz öfkeli yüz
-🫶	<3 aşk birlikte biz el kalp oluşturan eller sevgi seviyorum
-🤖	canavar robot yüz
-◾	geometri kare küçük-orta siyah
-🤤	ağzı sulanmış salya akıtan yüz akıtma
-🏹	araç burç ok ve yay okçu silah
-💔	duygu hüsran kalp kırık kırılmış kırma
+👩‍💼	bayan beyaz yaka iş is kadını işkadını kadın ofis çalışanı meslek mimar yönetici yonetici
+👽	dünya dunya dışı fantastik peri masalı ufo uzaylı yabancı yaratık yüz yuz
 🍍	ananas gıda meyve tropik
-🤱	anne sütü bebek emziren kadın emzirme göğüs meme verme süt izni
-👨‍🍼	baba bakıcı bakıcılık bebek bakıcısı emziren erkek beslemek emzirme insan kucak sevgi yenidoğan
-👫	çift el ele tutuşan erkek ve kadın kız kişiler sevgili
+😊	ağzı açık gülme gulme gülen gulen gözlerle gozlerle gülümseme gulumseme gülümseyen gulumseyen gözler gozler yüz yuz ve samimi sevecen
+🛸	uçan ucan daire ufo uzaylı
+♿	erişim erisim işaret isaret tekerlekli sandalye erişimi erisimi sembolü sembolu simgesi
+🪆	aktivite babuşka babuska bebek bebekler etkinlik iç ic içe ice matruşka matruska bebekleri oyuncak rus rusya
+👈	el elin arkası elinin tersiyle solu gösteren gosteren işaret isaret parmağı parmak
+🐤	civciv başı hayvan piliç pilic tavuk yavru
+🍬	bayram restoran şeker seker şekerleme sekerleme
+👨‍🍳	adam erkek aşçı meslek şef sef yemek yapma
+😣	baş bas ağrısı dayanıklı dikkatli inatçı kararlı konsantre olmuş olmus yüz yuz zorlanan
+🫯	anlaşmazlık arbede çekişme cekisme dövüş dovus güreş gures kavga tartışma
+🥂	bardak içecek icecek kadeh tokuşturma tokusturma kutlama şampanya sampanya
+🤜	el güm gum sağa saga bakan yumruk doğru dogru
+🎽	çizgi cizgi çizgili cizgili koşu kosu tişörtü tisortu spor tişört tisort
+🎎	bebek festivali festival japon oyuncak bebekleri kutlama
+📺	televizyon tv video
+🌜	ay dördün dordun son yüzü yuzu yüz yuz olan
+👀	bakmak görmek gormek gözcü gozcu gözetlemek gozetlemek gözler gozler yüz yuz
+🫖	çay cay demlemek çaydanlık demleme demlik içecek icecek
+🦚	dişi disi tavus kuşu kusu gösterişli gosterisli gururlu hayvan kuş kus mavi renkli tavuskuşu tavuskusu züppe zuppe
+🫧	baloncuk hava kabarcığı kabarcık köpük kopuk nesne sabun su altı temiz
+📑	ayraçlar ayraclar işaretçi isaretci sayfa ayraçları işareti isareti
+👡	ayakkabı giyim kadın sandaleti sandalet topuklu
+💺	koltuk sandalye
+🍝	gıda makarna restoran spagetti yemek
+🚿	duş dus su
+🦜	hayvan kırmızı kuş kus papağan papagan konuşma konusma korsan renkli
+🪯	deg tegh fateh din inanç inanc khalsa khanda sih sihizm
+🏣	bina japon postanesi posta postane
+🏭	bina fabrika sanayi
+🤍	beyaz kalp
+🥢	chopsticks çin cin yemek çubuğu cubugu çubukları
+🏥	bina hastane klinik sağlık ocağı
+🙈	görmedim gormedim görmeyen gormeyen maymun hayvan komik oyun saklambaç saklambac
+🐱	ev hayvanı hayvan kedi yüzü yuzu miyav mındık mırnav pisi şirin sirin yüz yuz
+🪁	süzülme suzulme uçma ucma uçurtma ucurtma
+🤖	canavar robot yüz yuz
+🫄	çok cok yemek gaz göbek gobek göbekli gobekli hamile kişi kisi iki canlı insan karnı şiş sis obur şişmiş sismis
+🔑	anahtar kilit parola şifre sifre
+🤡	palyaço palyaco yüzü yuzu yüz yuz
+🫍	balina deniz okyanus
+🐹	evcil hayvan hamster yüzü yuzu kemirgen yüz yuz
+🥟	empanada gıda gyōza gyoza hamur köftesi koftesi haşlanmış içli icli jiaozi mantı pierogi potsticker
+🔪	bıçak mutfak bıçağı
+👙	benekli bikini deniz giysisi giyim havuz kumsal tatil yaz
+🚸	çocuklar cocuklar işaret isaret karşıya geçen gecen geçiş gecis
+◾	geometri kare küçük-orta siyah
+🫎	boynuz boynuzlar elk geyik boynuzları hayvan memeli mus sığın
+🫳	al atmak avuç avuc içi ici aşağı bakan el bırak düşürmek dusurmek kışkışlamak uzanmak uzat
+🎵	müzik muzik notası nota
+🚷	işaret isaret yaya yayalar giremez yayalara yasak yürüyen yuruyen
+🦫	baraj diş dis hayvan kemirgen kemirmek kunduz kuyruk
+🦪	dalma inci istiridye
+🛌	gece insan iyi geceler uykular kestirme otel uyku saati uyumak yatan yatmak zzz
+🎹	alet klavye müzik muzik aleti klavyesi piyano
+🫩	gözlerinin gozlerinin altı torbalı yüz yuz tükenmiş tukenmis uykulu yorgun
+🥨	burgu çubuk cubuk kraker gıda pretzel
+🦅	amerika beşiktaş besiktas beyaz başlı kartal hayvan kara kuş kus
+💐	aşk ask buket çiçek cicek doğum dogum günü gunu gül gul romantizm
+👜	çanta canta el çantası giyim kadın
+🈳	çince cince japonca yer var düğmesi dugmesi
+🐟	balık burç burc deniz hayvan mavi
+🫁	akciğer akciger beden ciğerler cigerler nefes almak organ soluk solumak solunum vücut vucut
+👨‍🎤	adam aktör aktor erkek gösterici gosterici meslek rock şarkıcı star
+🛖	baraka ev kulübe kulube seyahat sığınak yer yurt
+🍀	bitki dört dort yapraklı yonca iskoç iskoc şans sans şanslı yaprak yeşil yesil
+🪕	banjo müzik muzik yaylı
+😌	huzur rahatlamış yüz yuz
+🐺	hayvan kurt yüzü yuzu orman yüz yuz
+🦣	büyük buyuk diş dis fil dişi disi hayvan mamut nesli tükenen tukenen soyu yünlü yunlu
+🦆	hayvan kuş kus ördek ordek suna
+🦢	beyaz çirkin cirkin ördek ordek yavrusu gaga göl gol hayvan kuğu kugu kuş kus
+🛷	kar kaymak kızak
+😍	aşk ask değer deger verme gözler gozler kalp gözlü gozlu gülümseme gulumseme kalpler romantik yüz yuz
+🌓	ay ilk dördün dordun uzay
+🪣	bakraç bakrac eşya esya fıçı gerdel kap kepçe kepce kova sap silmek temizlik
+👾	canavar dünya dunya dışı peri masalı ufo uzaylı yabancı yaratık yüz yuz
+🔔	çan can kilise ses tenefüs tenefus zil
+🩳	alt iç ic çamaşırı mayo şort sort
+🖖	beden el parmak spock star trek uzay yolu volkan volkanlı selamı vulcan vulkan
+👯	aynısı dans dansçı ikiz kadın parti ruh ikizi tavşan tavsan kulak kulaklar kulaklı kişiler kisiler vücut vucut
+🥌	curling taşı körling korling oyunu oyun taş tas
+🎺	alet müzik muzik aleti trompet
+🌑	ay karanlık yeni
+👆	el elin arkası elinin tersiyle yukarıyı gösteren gosteren işaret isaret parmağı parmak
+🧑‍🌾	bahçıvan çiftçi ciftci rençper rencper
+🥧	elmalı pay gıda pasta poğaça pogaca şeftalili seftalili tart tatlı yemek
+📠	faks makinesi iletişim iletisim
+😆	32 diş dis ağız ahaha çok cok komik gözler gozler kapalı gülmek gulmek hahaha kahkaha lol mutlu yüz yuz
+🧣	atkı sıkı giyinmek soğuk soguk yaka
+🐖	çiftlik ciftlik dişi disi domuz pembe şişko sisko
+🛜	ağ ag akıllı telefon bağlantı bilgisayar geniş genis bant internet kablosuz modem wifi wlan
+🍉	gıda karpuz meyve
+🪮	afro saç sac kıvırcık nesne perma tarağı seçme secme tarak tarama toka
+💠	baklava çizgi cizgi roman elmas biçimli bicimli geometrik içinde icinde noktalı şekli sekli biçimi bicimi karo
+🛹	kaykay kaykaycı kaymak rampa spor tahta tekerlek
+📲	çağrı yapmak cep telefonu mobil telefon ok işaretli isaretli
+🚳	bisiklet giremez yasak taşıt
+🤑	ağız gözünü gozunu para bürümüş burumus ağızlı yüz yuz göz goz
+🚅	hızlı tren mermi burunlu shinkansen taşıt yuvarlak uçlu uclu yüksek yuksek
+📒	not defteri resmi defter
+🧂	baharat baharatlık beyaz çeşni cesni tuz tuzlu tuzluk yemek
+🫪	kaygı panik şaşırmış şaşkın savunmasız şişkin siskin
+🧞	alaaddin’in sihirli lambası alaaddinin cin dilek lamba sihir
+🍭	bayram çocuk cocuk gıda lolipop restoran şeker seker şekerleme sekerleme
+🌳	ağaç agac orman yaprak döken doken yeşil yesil
+🚤	bot sürat surat teknesi taşıt tekne
+👵	anneanne babaanne insan kadın kişiler kisiler yaşlı
+🐈‍⬛	cadılar bayramı halloween hayvan kara kedi miyav uğursuz ugursuz
+🚉	istasyon taşıt tren istasyonu yolu
+🚐	minibüs minibus otobüs otobus taşıt toplu taşıma
+❔	beyaz soru işareti isareti işaret isaret noktalama
+🔐	anahtarlı kapalı kilit güvenli guvenli
+👰	duvak duvaklı gelin evlilik kişiler kisiler
+🧠	akıllı beyin zeka zeki
+🔚	bitiş bitis oku ok sol
+🥁	bateri davul müzik muzik ramazan davulu tokmak
+🛶	bot kano kayık tekne
+😨	endişeli endiseli korkmuş korkmus korkulu yüz yuz
+🥫	konserve domates gıda
+🎈	balon doğumgünü dogumgunu kırmızı kutlama parti
+🤏	azıcık bir tutam biraz kıstırma hareketi yapan el parmaklar küçük kucuk
+🐕‍🦺	erişilebilirlik erisilebilirlik köpek kopek rehber rehberlik yardım yardımcı
+🦑	mürekkep murekkep balığı okyanus yiyecek yumuşakçalar yumusakcalar sınıfı
+🍹	bar içecek icecek kokteyl restoran tropik
+🦂	akrep burç burc hayvan iğne igne zehir
+💴	banknot döviz doviz para yen
+🫹	bu gösterme gosterme kavrama nötr notr sol şu su
+➖	- − eksi işareti isareti işaret isaret koyu renk matematik
+🚏	durak minibüs minibus durağı otobüs otobus toplu taşıma
+🎱	bilardo oyun sekiz top
+🥡	çin cin yemeği yemegi eve servis gıda kutu paket yemek yiyecek paketi
+🪳	böcek bocek hamam böceği bocegi haşere hasere hayvan iğrenç igrenc kabuklu karafatma
+🔜	ok sağ sag okla yakında işareti isareti
+🏪	24 saat açık bina market sürekli surekli
+🍊	gıda mandalina meyve portakal turunç turunc
+👑	giyim kral kraliçe kralice kraliyet taç tac
+🕖	7:00 saat 7 yedi
+💟	kalp kalpli dekorasyon
+🚱	içilmeyen icilmeyen içilmez icilmez su
+👣	ayak izi gövde govde iz
+🍅	domates gıda meyve sebze
+📰	gazete haber kağıt kâğıt
+🟢	daire yeşil yesil
+🚆	demiryolu taşıt tren
+⚪	beyaz daire geometri
+🪞	ayna eşya esya görüntü goruntu makyaj reflektör reflektor spekulum yansıma yansıtıcı
+🐈	hayvan kedi pisi sarman
+🦒	hayvan noktalar puanlar uzun zürafa zurafa
+🌾	başak basak pirinç pirinc başağı bitkisi
+📎	ataş atas klips
+🐎	at hayvan yarış atı
+🪉	arp aşk ask enstrüman enstruman eros müzik muzik orkestra
+🎊	konfeti topu kutlama top
+⏬	aşağı çift cift ok hızlı düğmesi dugmesi
+🧳	bagaj bavul çanta canta seyahat tatil valiz yol yolculuk
+🪱	hayvan kurt kurtçuk kurtcuk parazit solucan sürüngen surungen
+🍸	bar kokteyl bardağı kadehi restoran
+🏫	bina ilkokul lise okul binası
+🧑‍🦯	erişilebilirlik erisilebilirlik görme gorme engelli bastonlu kişi kisi kör kor
+🫔	dürüm durum meksika yemeği yemegi tamale yemek yiyecek
+🥦	bitki brokoli gıda sebze yabani lahana yemek yeşil yesil
+💂	bekçi bekci kişiler kisiler koruma görevlisi gorevlisi londra muhafız
+🧴	güneş gunes koruyucu kremi krem losyon şişesi sisesi nemlendirici saç sac şampuan sampuan şişe sise
+🚙	aile arabası araba cip eğlence eglence taşıtı karavan mavi minivan spor taşıt
+🫃	gaz göbek gobek göbekli gobekli hamile adam iki canlı insan karnı şiş sis obur şişmiş sismis
+🔽	aşağı düğmesi dugmesi üçgen ucgen düğme dugme
+🍱	bento paketi gıda paket restoran sushi yemek
+🏈	amerikan futbolu spor top
+🪻	acı bakla aslanağzı bahar bitki çiçek cicek doğa doga eflatun lavanta lila lupin mor sümbül sumbul
+😧	acı çeken ceken kederli mutsuz şaşkın yüz yuz
+🤔	düşünen dusunen yüz yuz düşünme dusunme
+👩‍🍼	anne bakıcı bakım bebek bakıcısı emziren kadın beslemek emzirme insan kucak sevgi yenidoğan yenidogan
+🛝	çocuk cocuk parkı eğlence eglence kaydırak kaymak oyun park
+👷	baret inşaat insaat işçisi iscisi iş is işçi isci kişi kisi kişiler kisiler meslek onarım tadilat tamirat vücut vucut
+🪒	jilet keskin tıraş ustura
+🕔	5:00 beş bes saat 5
+🪬	fatıma fatıma’nın eli fatma ana’nın fatma’nın hamsa koruyucu meryem muska nazarlık şans sans sembol
+🧻	banyo emici havlu kağıt rulosu rulo silmek temizlik tuvalet kağıdı
+🕜	1:30 bir buçuk bucuk saat
+🆕	işaret isaret new düğmesi dugmesi yeni işareti isareti
+🏆	kupa ödül odul zafer kupası
+🐗	domuz hayvan inatçı yaban domuzu
+📊	çubuk cubuk grafiği grafigi grafik
+🤒	ağzında termometre olan yüz yuz ateş ates grip hasta nezle
+🫢	gözleri gozleri açık ve eliyle ağzını kapatan yüz yuz hayret ifade inanamama inanılmaz korku şaşkınlık şok sok sürpriz surpriz utanma ifadesi
+🖕	beden el orta parmak
+💹	banka grafik para piyasa yen simgeli artış grafiği grafigi yukarı giden yönlü yonlu
+🟤	daire kahverengi
+👅	ağız dil gövde govde yalamak yüz yuz
+🪧	bildiri döviz doviz eşya esya gösteri gosteri işaret isaret levha pankart plaka protesto tabela
+🧹	büyücü buyucu cadı ev işi isi harry potter süpürge supurge süpürme supurme süpürmek supurmek temizlik uçmak ucmak
+🐩	hayvan kaniş kanis köpek kopek
+🔥	alev ateş ates sıcak yakmak
+💙	duygu kalp mavi
+🤳	kamera kendi çekim cekim öz oz özçekim ozcekim selfie telefon
+👞	ayakkabı erkek ayakkabısı giyim
+👥	büst bust kişiler kisiler siluet büstler bustler
+🤸	aktif birey jimnastik perende atan kişi kisi spor yanlamasına takla
+😓	baş bas ağrısı endişeli endiseli soğuk soguk ter terli yüz yuz
+🐮	hayvan inek yüzü yuzu yüz yuz
+♋	burçlar burclar yengeç yengec burcu
+👨‍🌾	adam bahçıvan çiftçi ciftci çiftlik ciftlik sahibi erkek meslek
+🤚	el elinin tersi tersini kaldırma
+🌊	dalga okyanus dalgası sörf sorf su
+🪦	cenaze defin defnetmek eşya esya huzur içinde icinde uyu yat mezar taşı mezarlık nur ölüm olum
+🚻	lavabo tuvalet wc
+👨‍🏫	adam eğitmen egitmen erkek meslek öğretmen ogretmen profesör profesor
+🔌	elektrik fişi fisi
+🔤	abc i̇ngilizce ingilizce latin alfabesi alfabesiyle giriş giris
+👄	ağız aşk ask dudaklar gövde govde öpme opme öptüm optum öpücük opucuk yüz yuz
+🙄	bana ne banane beni ilgilendirmez bilemiyorum göz goz devirme gözlerini gozlerini deviren yüz yuz her neyse hmm yani
+🌐	boylamlar dünya dunya meridyen meridyenli yerküre yerkure
+🐻	ayı yüzü yuzu hayvan orman yüz yuz
+👚	alışveriş bluz giyim giysiler kadın giysisi
+🔋	pil
+🕛	12:00 on iki saat 12
+💁	alaycı bilgilendirme dedikodu el elini yana yatırma keyfin bilir kişi kisi kişiler kisiler neyse saçını savurma sen bilirsin umurumda değil degil
+🧮	abaküs abakus çocuk cocuk hesap hesaplama renkli
+🧪	bilim deney tüpü tupu kimya kimyacı laboratuvar
+🏒	buz hokeyi ve disk hokey maç mac sopa
+😀	gülen gulen yüz yuz gülme gulme keyifli lol mutlu neşeli neseli sırıtan sırıtma
+🎭	eğlence eglence performans sanatı sahne sanatları sanat tiyatro
+🐑	çiftlik ciftlik dişi disi koyun küçük kucuk baş bas hayvan yün yun
+🧇	hamur kahvaltı vafıl waffle
+🍲	gıda restoran tencere yemeği yemegi yahni yemek tenceresi yiyecek
+🚁	helikopter taşıt
+🧓	insan kişi kisi yaşlı yetişkin yetiskin
+🫴	avuç avuc içi ici yukarı bakan el çağırmak çağrı davet etmek uzatmak gel sunmak teklif yakalamak yardım
+⛳	delik delikteki bayrak golf bayrağı
+🥖	baget ekmek fransız gıda yiyecek
+🍛	gıda köri kori körili korili pilav pirinç pirinc restoran yemek
+🥜	fındık fıstık gıda kuruyemiş kuruyemis sebze yer fıstığı yiyecek
+🍈	gıda kavun meyve meze rakı yemek
+🤥	pinokyo yalan söyleme soyleme söyleyen soyleyen yüz yuz
+🤿	aletli dalış dalgıç maskesi skuba şnorkelle snorkelle
+😎	cool gülümseme gulumseme güneş gunes gözlüğü gozlugu gözlükleri gozlukleri gözlükleriyle gozlukleriyle gözlüklü gozluklu havalı janti kanka kanki yüz yuz
+💑	aşk ask kadın erkek kalp kalpli çift cift kişiler kisiler romantizm
+🚖	taksi taşıt yaklaşan yaklasan
+🙏	birleşen birlesen eller dua etme el hareket
+🦔	diken dikenli hayvan kirpi şirin sirin
+😬	dişçi disci dişlerini dislerini gösteren gosteren yüz yuz sıkmak endişeli endiseli tedirgin yüzünü yuzunu ekşitme eksitme
+🏠	bina ev konut yuva
+🗻	dağ dag fuji dağı
+🐕	hav hayvan köpek kopek kuçu kucu süs sus köpeği kopegi
+🐥	civciv hayvan önden onden piliç pilic sarı şirin sirin tavuk yavru yüzü yuzu dönük donuk
+🦏	afrika gergedan hayvan safari
+🧤	el eldiven mavi
+😹	göz goz yaşı gülen gulen kedi kahkaha atan yüzü yuzu komik sevinç sevinc gözyaşları döken doken yüz yuz
+🥴	akşamdan aksamdan kalma alkollü alkollu baş bas dönmesi donmesi çakırkeyif kaymış gözler gozler sarhoş sarhos şaşı sersemlemiş sersemlemis yamuk ağız yamulmak yüz yuz ifadesi
+➰	döngü dongu dönüş donus kıvrık
+🚄	hızlı tren marmaray metro shinkansen taşıt yüksek yuksek
+🐔	hayvan kuş kus tavuk
+🤼	birey dövüş dovus düello duello güreş gures minderi güreşçi guresci güreşçilik gurescilik güreşen guresen kişiler kisiler kişi kisi spor vücut vucut
+🍚	gıda pilav pirinç pirinc restoran
+🏯	bina japon kalesi şatosu satosu kale şato sato
+🩲	alt iç ic çamaşırı mayo slip tek parça parca
+🦺	acil durum güvenlik guvenlik yeleği yelegi yelek
+🔹	karo küçük kucuk mavi
+🔊	yüksek yuksek ses sesli hoparlör hoparlor
+🫝	çeşni cesni fermente kornişon kornison salatalık sorun tuzlu su
+🧑‍🔬	bilim insanı biyolog fizikçi fizikci kimyacı kimyager
+🕺	adam dans eden meslek
+🧙	büyü buyu büyücü buyucu cadı sihir sihirbaz
+🥄	kaşık yemek takımı
+🦃	hayvan hindi kuş kus şükran sukran günü gunu
+🤵	adam damat kişi kisi simokin smokin smokinli
+💈	berber dükkanı işareti isareti işaret isaret
+🌏	asya avustralya dünya dunya yerküre yerkure yerkürede yerkurede asya-avustralya
+🎿	bot kayak ve spor
+👩‍🔬	bayan bilim adamı biyolog fizikçi fizikci kadın insanı kimyacı matematikçi matematikci meslek mühendis muhendis
+👨‍🏭	adam erkek fabrika işçisi iscisi işçi isci meslek montaj sanayi
+🫛	bakla baklagil barbunya bezelye edamame fasulye sırığı kabuk kabuklu sebze vejetaryen
+🔃	oklar saat yönünde yonunde dikey dönen donen yönüne yonune yeniden yükle yukle işareti isareti
+🚡	gondol hava tramvayı havadan yol kablo yolu taşıt teleferik tramvay
+🐧	antartika buz hayvan penguen soğuk soguk
+🚼	bebek alt değiştirme degistirme yeri işareti isareti teknede
+💃	dans eden kadın dansçı festival kişiler kisiler meslek tango
+👨‍🎓	adam erkek mezun öğrenci ogrenci
+🌍	afrika avrupa dünya dunya yerküre yerkure yerkürede yerkurede avrupa-afrika
+🏴	bayrak dalgalanan siyah
+🔵	büyük buyuk mavi çember cember daire
+📡	anten çanak canak iletişim iletisim uydu anteni
+📝	ders iletişim iletisim kalem kağıt not defteri
+🐯	büyük buyuk kedi etobur hayvan kaplan yüzü yuzu kedigiller vahşi vahsi yüz yuz
+👦	erkek çocuk cocuk insan kişiler kisiler oğlan oglan
+📤	giden kutusu iletişim iletisim kutu posta tepsi
+🥃	bardak içki icki kısa ve geniş genis likör likor tek viski
+🐢	hayvan kaplumbağa kaplumbaga
+🎁	doğum dogum günü gunu hediye kutlama paketlenmiş paketlenmis paketli
+👺	canavar cin goblin japon cini maske peri masalı tengu yaratık yüz yuz
+🧑‍🚀	astronot roket uzay
+👬	çift cift el ele tutuşan tutusan erkekler iki erkek ikizler kişiler kisiler
+♓	balık burcu burçlar burclar
+🐪	deve hayvan hecin devesi hörgüç horguc
+🦗	böcek bocek çekirge cekirge cırcır böceği bocegi hayvan
+🛑	dur işareti isareti işaret isaret sekizgen
+🪽	cennet havacılık kanat kuş kus kutsal melek gibi mitoloji semavi uçma ucma uçuş ucus
+🚰	içilebilir icilebilir su içme icme suyu işaret isaret musluk ve bardak
+🥗	gıda sağlıklı salata yemek yeşil yesil yiyecek
+🍃	esen rüzgar ruzgar rüzgardaki ruzgardaki yaprak
+🥚	gıda kahvaltı tavuk yiyecek yumurta
+🌯	burito dürüm durum gıda meksika dürümü durumu yemek
+🚹	erkekler tuvaleti işaret isaret tuvalet
+🐦‍🔥	anka ateş ates kuşu kusu dönüşüm donusum fantezi hayvan küllerinden kullerinden doğmak dogmak ölümsüz olumsuz reenkarnasyon yeniden doğuş dogus yenilenme zafer
+🦝	gri hayvan meraklı rakun sinsi
+🔙	geri ok oku sol
+🚎	otobüs otobus taşıt toplu taşıma troley troleybüs troleybus
+⏩	ileri sarma düğmesi dugmesi ok sağ sag sağa saga çift cift
+👻	cadılar bayramı hayalet öcü ocu peri masalı yüz yuz
+📼	teyp video kaseti videokaset
+🎇	fişek fisek havai kıvılcım kutlama patlama
+📔	dekorasyonlu not defteri kapak süslü suslu
+🕒	3:00 saat 3 üç uc
+🥾	ayakkabı bot dağcılık kamp kar botu kış kışlık sırt çantası yürümek yurumek yürüyüş yuruyus
+🍼	bebek biberon içecek icecek küçük kucuk şişe sise süt sut
+📧	e-posta ileti iletişim iletisim mektup posta
+🎫	bilet eğlence eglence giriş giris
+💶	avro banknot döviz doviz euro fatura para
+🌁	sis sisli
+🥛	bardak gıda içecek icecek süt sut bardağı
+🤱	anne sütü sutu bebek emziren kadın emzirme göğüs gogus meme verme süt sut izni
+🦕	brachiosaurus brontosaurus brontozor dinazor diplodocus hayvan korkunç korkunc soropod
+📣	iletişim iletisim karşılama megafon
+🦧	hayvan maymun orangutan
+📫	işaret isaret işareti isareti kaldırılmış posta kutusu yukarıda kapalı
+🌿	bitki ot yaprak
+🦈	balık deniz hayvan jaws köpek kopek balığı okyanus
+🥽	dalgıç gözlüğü gozlugu dalış dalmak emniyet göz goz koruması gözlük gozluk iş is kar kayak kaynak kaynakçı koruma koruyucu yüzme yuzme yüzücü yuzucu
+🚧	inşaat insaat işareti isareti işaret isaret
+😼	iğneleyici igneleyici gülümseme gulumseme kedi yüzü yuzu ironik kurnaz muzır yüz yuz
+🐝	arı bal arısı hayvan iğne igne vız
+🧑‍🎨	palet ressam sanatçı
+🪚	alet eşya esya kereste kesmek marangoz odun testere
+🧌	canavar dev fantezi gerçek gercek dışı hayali hulk ork peri masalı trol yaratık yeşil yesil
+🪜	adım aşağı ayaklı merdiven basamak çıkmak eşya esya tırmanış tırmanmak yukarı
+🍢	çubuk cubuk çubukta cubukta deniz ürünleri urunleri gıda kebap oden restoran şiş sis
+🎬	eğlence eglence film tahtası tahta
+🤝	anlaşma anlasma el sıkışma sallama toplantı
+🛄	bagaj alma yeri teslim bavul çanta canta seyahat
+💍	alyans evlilik nikah nişan nisan pırlanta yüzük yuzuk romantizm tek taş tas
+✅	✓ düğme dugme işaret isaret kalın onay işareti isareti düğmesi dugmesi
+💡	ampul bir fikrim var çizgi cizgi roman elektrik ışık
+🤠	kadın kovboy şapkalı yüz yuz şapkası yüzü yuzu şapka sapka
+🔆	parlak parlaklık yüksek yuksek işareti isareti
+🩷	aşk ask beğen begen duygu kalp özel ozel kişi kisi pembe seni seviyorum sevgi sevimli şirin sirin
+🧥	ceket kaban manto mont sıkı giyinmek soğuk soguk
+🚥	ışık trafik lambası sinyalleri yatay ışığı ışıkları
+🏀	basketbol potası topu pota spor top
+🚃	demir yolu demiryolu elektrik elektrikli tren taşıt toplu taşıma tramvay vagon
+🥍	atış gol lakros maç mac oyun raket sayı sopa spor top vurmak
+🏓	maç mac masa tenisi pinpon raket top
+🫚	baharat bira bitki çeşni cesni doğal dogal kök kok sağlık şifalı yiyecek yumru zencefil
+🪨	ağır büyük buyuk kaya çakıl katı kayalık sert seyahat taş tas
+🎐	çan can rüzgar ruzgar çanı
+🥤	ayran gazoz içecek icecek kamışlı bardak kola pipetli plastik
+🙍	beğenmeme begenmeme hareket hayal kırıklığı kişi kisi mimik öfkeli ofkeli rahatsız sıkkın somurtan somurtma surat asma
+🩶	aşk ask duygu gri gümüş gumus kalp kurşun kursun özel ozel kişi kisi sevgi taş tas
+🪏	çukur cukur kazı kazmak kürek kurek
+🔅	düşük dusuk parlaklık işareti isareti karanlık
+🦀	burç burc deniz ıstakoz yengeç yengec
+🍌	gıda maymun meyve muz
+👨‍🔧	adam elektrikçi elektrikci erkek esnaf meslek tamirci tesisatçı
+🔯	altı köşeli koseli yıldız fal bakma
+🧑‍🏭	endüstri endustri fabrika işçisi iscisi işçi isci montaj sanayi
+🎑	ay izleme töreni toreni kutlama
+🏩	aşk ask oteli bina otel
+🏐	maç mac top voleybol topu
+📬	açık işaret isaret işareti isareti kaldırılmış posta kutusu yukarıda
+📐	cetvel gönye gonye üçgen ucgen
+🪟	cam çerçeve cerceve dışarı bakmak eşya esya izlemek manzara pencere saydam şeffaf seffaf temiz hava
+👨‍🔬	adam bilim adamı biyolog erkek insanı fizikçi fizikci kimyacı matematikçi matematikci meslek mühendis muhendis
+🍆	gıda patlıcan sebze yemek
+🪤	eşya esya fare kapanı kapan kıskaç kıstırmak peynir tuzak yem
+👩	insan kadın kişiler kisiler sarışın
+🐭	fare yüzü yuzu hayvan sıçan yüz yuz
+🍻	bar bira kupaları tokuşturma tokusturma içki icki kupa kupalar restoran
+🧝	elf legolas sihirli sivri kulak
+😙	gülen gulen gözlerle gozlerle öpen open yüz yuz gülümseme gulumseme gülümseyen gulumseyen gözler gozler gülümseyerek gulumseyerek öptüm optum öpücük opucuk
+🐘	fil hayvan safari
+❕	beyaz ünlem unlem işareti isareti işaret isaret noktalama
+🤧	çok cok yaşa yasa grip hapşıran yüz yuz hapşırma hasta nezle
+🦤	büyük buyuk dodo kuşu kusu hayvan kuş kus mauritius nesli tükenmiş tukenmis soyu
+➕	+ artı işareti isareti işaret isaret koyu renk matematik
+🈴	geçer gecer not japonca düğmesi dugmesi
+🥺	acıklı bakışlar af dilemek gözleri gozleri dolmak koca göz goz lütfen lutfen merhamet pişmanlık üzgün uzgun yalvaran gözler gozler yalvarırım yüz yuz ifadesi
+🧱	duvar örmek ormek harç harc inşaat insaat kil kiremit kırmızı seramik taş tas tuğla tugla tuğlalar tuglalar
+🟧	kare turuncu
+🛒	alışveriş arabası araba pazar
+🥯	bagel donut ekmek fırın kahvaltı pasta peynirli simit sürme surme peynir
+💯	100 puan skor yuz yüz
+🎢	eğlence eglence parkı hız treni lunapark roller coaster tren
+🆖	işaret isaret ng düğmesi dugmesi işareti isareti
+🌱	fide filiz filizlenme genç genc bitki yeşil yesil
+👍	+1 anlaştık beğendim begendim bence de el iyi onay tamam
+🙁	asık surat biraz endişeli endiseli yüz yuz
+🐠	balık hayvan okyanus tropikal
+🎀	kız kurdele kutlama pembe
+🏦	banka bina dolar para
+🔴	büyük buyuk kırmızı çember cember daire
+🟰	eşit esit eşitlik esitlik eşittir esittir işareti isareti işaret isaret kalın matematik sembol
+🛕	hindu tapınağı tapınak
+🚚	eve servis kamyon nakliye kamyonu taşıt teslimat ulaştırma
+🌻	ayçiçeği aycicegi bitki çiçek cicek güneş gunes
+🤎	kahverengi kalp
+🐷	domuz yüzü yuzu hayvan yüz yuz
+💣	bomba çizgi cizgi roman duygu
+🚠	dağ dag teleferiği teleferigi teleferik hattı kablo taşıt telesiyej vagon
+🟨	kare sarı
+🕤	9:30 dokuz buçuk bucuk saat
+✋	beş bes parmak dur işareti isareti el kaldırma havada
+🤛	el güm gum sola bakan yumruk doğru dogru
+🈸	başvuru basvuru japonca düğmesi dugmesi simgesi uygulama
+🌺	atatürk ataturk çiçeği cicegi bitki çiçek cicek çingülü cingulu hatmi
+🧁	cupcake fırın kapkek kek krema muffin pasta pembe şekerli sekerli tatlı top yemek
+✊	el havada yumruk kaldırma
+👭	arkadaş arkadas çift cift dost el ele tutuşan tutusan iki kadın kadınlar kanki kişiler kisiler kızkardeşler
+🌂	kapalı şemsiye semsiye yağmur yagmur yağmurlu yagmurlu
+🍺	bar bira kupası kupa restoran
+🌉	boğaz bogaz gece vakti köprü kopru golden gate manzara
+🍞	ekmek dilimi gıda kahvaltı restoran yemek
+🌚	ay gece yeni yüzü yuzu yüz yuz olan
+🛟	can simidi cankurtaran deniz güvenlik guvenlik havuz hayat kurtaran kurtarmak önlem onlem simit yüzme yuzme
+😗	aşk ask cilve muah muck öpen open yüz yuz öpücük opucuk sevgi
+🧑‍🚒	itfaiye aracı itfaiyeci
+👩‍💻	bayan geliştirici gelistirici kadın mühendis muhendis teknoloji uzmanı kodlayıcı meslek mucit yazılım
+🪐	halkalı gezegen satürn saturn
+🦴	iskelet kemik köpek kopek kemiği kemigi mama
+💽	bilgisayar disk mini
+🕌	cami din ibadet ibadethane islam i̇slam mescit müslüman musluman
+🧑‍🍳	aşçı yemek pişirme pisirme
+🥣	çorba corba gıda kahvaltı kase kaşıklı pirinç pirinc lapası tahıl gevreği gevregi yemek
+👩‍🍳	bayan kadın aşçı şef sef yemek yapma
+🚝	araç arac metro monoray taşıt tramvay
+🔗	bağlantı işareti isareti bağlantılar iki halka
+🔶	büyük buyuk turuncu karo
+♏	akrep burcu burçlar burclar
+🥘	gıda güveç guvec kahvaltı krep tavası küçük kucuk menemen paella sahanda yemek tava yiyecek
+👏	alkış bravo çırpma el eller işaret isaret tebrik
+🥒	gıda hıyar salatalık sebze turşu tursu yiyecek
+🎍	bambu çam cam süsleme susleme japon kutlama yeni yıl
+🎩	eğlence eglence şapka sapka sihirbaz silindir
+📹	kamera video
+🫟	boya dökmek dokmek holi leke lekelemek sıçratmak
+🫡	anlaştık asker başüstüne basustune emredersiniz güneşli gunesli ifade komutan onay saygı selam selamlayan yüz yuz ifadesi
+🔕	çan can yok iptal işaretli isaretli ses sessiz üzeri uzeri çizili cizili zil
+🤮	hasta istifra kusan yüz yuz kusmak kusmuk surat
+🥎	beyzbol eldiveni eldiven kol oyun softball spor tenis topu top oynamak yuvarlak
+🆑	cl düğmesi dugmesi işareti isareti sil
+➿	çift cift kıvrık döngü dongu japonya ücretsiz ucretsiz numara
+🧵	dikiş dikis dikmek iğne igne ip iplik kırmızı makara terzi
+🦭	ayı balığı balık bıyıklı deniz aslanı denizaslanı fok hayvan okyanus
+📌	iğne igne raptiye
+🧭	hedef bulma kaybolmak manyetik navigasyon oryantiring pusula yön yon
+💘	aşk ask duygu kalp ok saplanmış
+🏇	at yarışı jokey spor yarış atı
+😶	ağız ağzı olmayan yüz yuz ifadesiz sakin sesi kesilmiş kesilmis sessiz sır suskun
+🍦	dondurma külahı gıda krema külah kulah restoran vanilyalı yumuşak yumusak
+😘	aşk ask muah muck öptüm optum öpücük opucuk gönderen gonderen yüz yuz romantik sevgi
+🦓	çizgili cizgili hayvan hızlı şeritli seritli zebra
+🥋	dövüş dovus sporu forması forma judo karate spor tekvando
+😄	ağzı açık gülen gulen gözler gozler gözlerle gozlerle gülümseme gulumseme sırıtma yüz yuz gülme gulme lol neşeli neseli
+🔝	yukarı işareti isareti ok okla oku
+🧋	baloncuk boba bubble tea çay cay içecek icecek inci çayı süt sut tayvan
+🧸	ayı ayıcık çocuk cocuk dolgu oyun oyuncak peluş pelus pelüş sevimli uyku
+📪	işaret isaret işareti isareti aşağıda kapalı posta kutusu indirilmiş indirilmis
+🛗	alt kat aşağı asansör asansor çağırmak çıkmak erişilebilirlik erisilebilirlik eşya esya inmek lift üst ust yukarı
+🕦	11:30 on bir buçuk bucuk saat
+🚛	araba araç arac çekici cekici kamyon taşıt tır treyler
+😔	dargın düşünceli dusunceli gemileri batmış karamsar üzgün uzgun yüz yuz
+👩‍🎨	bayan kadın meslek palet ressam sanatçı
+🧑‍🎓	mezun öğrenci ogrenci talebe
+🐫	çöl col deve hayvan hörgüç horguc iki hörgüçlü horguclu kinci sahara
+🥰	aşık aşk ask çarpılma gülen gulen yüz yuz hayranlık ilk görüşte goruste kalp mutluluk romantik seni seviyorum sevgi üç uc kalpli
+🌀	baş bas dönmesi donmesi hortum siklon tayfun
+🚽	alafranga tuvalet klozet wc
+👩‍🌾	bahçıvan bayan çiftçi ciftci çiftlik ciftlik sahibi kadın meslek
+🦹	acımasız hain kötü kotu adam pelerin şeytani seytani suçlu suclu süper super güç guc kahraman vampir zalim
+🐣	civciv hayvan kuluçka kulucka tavuğu tavugu piliç pilic tavuk yavru yumurtadan çıkan
+📁	dosya klasörü klasoru klasör klasor
+🦍	goril hayvan
+🎆	eğlence eglence havai fişek fisek ışık kutlama
+👋	bay bye el görüşürüz gorusuruz güle gule hey merhaba orada mısın sallama sallamak selam
+🏸	badminton maç mac raket tüylü tuylu top
+❌	× çarpı işareti isareti çarpma carpma iptal işaret isaret x
+💕	aşıklar aşk ask duygu evlilik yıldönümü iki kalp seni seviyorum sevgili
+📻	radyo video
+👎	aşağı baş bas parmak aşağıda el işaret isaret
+🪹	boş bos yuva dal doğa doga ev kuş kus
+👩‍🦽	erişilebilirlik erisilebilirlik kadın tekerlekli sandalye sandalyede
+🧉	içecek icecek mate çayı
+🦾	erişilebilirlik erisilebilirlik mekanik kol protez
+🎧	eğlence eglence kulaklık müzik muzik
+🍤	deniz ürünü urunu gıda karides kızarmış restoran yiyecek
+🧖	buhar banyosu odası odasındaki kişi kisi hamam rahatlamak sauna
+💥	bomba bum çarpışma işareti isareti çizgi cizgi roman duygu patlama
+🥲	acı duygulanmış gözyaşı gülümseme gulumseme gururlu hislenmiş hislenmis memnun minnettar mutluluk rahatlamış sevinç sevinc yüz yuz ifadesi
+🚬	duman işaret isaret sigara içilebilir icilebilir içme icme işareti isareti
+🎷	alet müzik muzik aleti saksafon
+🪥	ağız banyo dental diş dis fırçası eşya esya fırça hijyen lavabo oral temizlik
+🟣	daire mor
+🦟	ateş ates böcek bocek hastalık sivrisinek sıtma virüs virus
+🟪	kare mor
+🤢	iğrenç igrenc istifra kusmak üzere uzere olan yüz yuz midesi bulanmış
+🔇	iptal işaretli isaretli hoparlör hoparlor lütfen lutfen sessiz olun ses kapalı
+📉	alçalan alcalan grafik aşağı yönlü yonlu iniş inis grafiği grafigi
+🟩	kare yeşil yesil
+🫒	dal yemek yeşil yesil zeytin yiyecek dalı
+👿	boynuzlu kızgın yüz yuz küçük kucuk şeytan seytan şeytani seytani
+🌌	gökyüzü gokyuzu samanyolu uzay
+🌆	akşam aksam alacakaranlık bina gün gun batımı manzara şehir sehir şehirde sehirde
+🚞	dağ dag teleferiği teleferigi demiryolu taşıt teleferik tren vagon yolculuk
+🔏	gizlilik kilit ve kalem mürekkepli murekkepli kalemli
+🦇	drakula hayvan kan emen kanatlı kuş kus mağara magara siyah vampir yarasa
+🚢	gemi seyahat taşıt titanik toplu taşıma tur vapur
+🔦	el feneri elektrik ışık
+🕎	din menora mum mumluk şamdan samdan yahudi şamdanı
+🪌	çizim cizim düzeltme duzeltme geri al hata kaldırmak silgi silme yanlışlık yazma
+🫣	çaktırmadan dikizleme gizlice bakan yüz yuz bakma gözetleme gozetleme ifade korkma saklanma ürkek urkek utanma ifadesi
+🫗	bardak boş bos cam dök dok dökme dokme dökmek dokmek dökülen dokulen sıvı içecek icecek kaza
+📯	borozan klakson posta klaksonu
+🦘	avustralya hayvan kanguru kese keseli kulak memeli otçul otcul sıçrama yavru zıplamak
+💼	evrak çantası müfettiş mufettis ofis
+🍜	buharda pişmiş pismis erişte eriste gıda makarna noodle tabağı restoran tabak
+🐌	böcek bocek hayvan salyangoz sümüklü sumuklu yavaş yavas
+♐	burçlar burclar yay burcu
+🍋‍🟩	lim limon limonlu turta margarita meyve misket limonu narenciye salsa tekila tropik yeşil yesil yiyecek
+🪺	dal doğa doga hayvan huzur kuş kus yuvası yavru yumurta bulunan yuva
+💫	baş bas dönmesi donmesi çizgi cizgi roman dilek duygu gece gökyüzü gokyuzu kayan yıldız uzay yıldızlar yıldızları görme gorme
+💱	bozdurma döviz doviz kambiyo para
+⬜	büyük buyuk beyaz kare geometri
+🛫	check in chek kalkan uçak ucak kalkış taşıt
+🌸	bahar çiçek cicek izleme kiraz çiçeği cicegi
+📗	eğitim egitim kitap kütüphane kutuphane okul yeşil yesil
+👲	adam çin cin şapkalı erkek çinli cinli şapkası olan gua pi mao takan kişiler kisiler meslek
+😃	ağzı açık gülen gulen yüz yuz gülümseme gulumseme sırıtma gülme gulme lol neşeli neseli
+💗	aşk ask büyüyen buyuyen kalp coşkulu coskulu duygu sinirli
+🪅	aktivite cinco de mayo etkinlik kutlama meksika parti pinata pinyata şapka sapka şeker seker
+🔬	alet bilim labrotuar mikroskop test
+🎮	kontrol cihazı oyun konsolu video oyunu xbox
+🦁	aslan yüzü yuzu burç burc hayvan ormanların kralı yüz yuz
+🕣	8:30 saat sekiz buçuk bucuk
+🫘	baklagil barbunya bitki fasulye gıda tohum vegan vejetaryen yiyecek
+🔻	aşağı bakan kırmızı üçgen ucgen
+🪊	bakır çalgı caz enstrüman enstruman hüzünlü huzunlu müzik muzik sürgü surgu üzgün uzgun
+🫠	aşkından erimek çözülme cozulme eridim erime eriyen yüz yuz eriyorum ifade kaybolma sıcak sıvılaşma utanç utanc ifadesi
+🏅	altın madalya spor madalyası
+🧄	baharat sarımsak
+🛴	ayak ayakla sürülen surulen skuter
+🪛	alet düz duz uçlu uclu eşya esya montaj sıkıştırmak sıkma tamir tamirci tornavida usta vida
+😤	ben kazandım yüzü yuzu burnundan soluyan yüz yuz kızgın mutsuz sinirli zafer
+🐁	beyaz fare fil hayvan kemirgen
+🫙	baharatlık bitmiş bitmis boş bos cam kap kavanoz mutfak saklama kabı sos tamtakır
+🦉	baykuş baykus bilge hayvan kuş kus
+🧑‍🦽	erişilebilirlik erisilebilirlik tekerlekli sandalye sandalyede kişi kisi
+🔨	araç arac çekiç cekic
+🕘	9:00 dokuz saat 9
+😵	başı dönen donen baygınlık hasta sersemlemiş sersemlemis yüz yuz
+💩	kaka yığını leş les pislik yığın
+🤬	ağzında semboller olan yüz yuz kızgın kızmış küfür kufur eden etmek sembol surat sensör sensor
+🔭	alet teleskop uzay gözlemleme gozlemleme
+🎦	eğlence eglence film işareti isareti sinema
+🦩	flamingo gösterişli gosterisli tropikal
+🥑	avokado gıda meyve tropik yiyecek
+👝	çanta canta giyim para kesesi
+🔞	18 yaş yas altı yasak yasaktır 18‘den küçükler kucukler giremez
+🥩	biftek bonfile et gıda ızgara kırmızı kuşbaşı parça parca sote steak yemek
+🌔	ay geniş genis şişkin siskin yükselen yukselen
+🌛	ay dördün dordun ilk yüzü yuzu yüz yuz olan
+😰	açık ağız endişeli endiseli korkmuş korkmus korkulu yüz yuz soğuk soguk ter döken doken mavi terli ve
+🧑‍🤝‍🧑	çift cift el ele tutuşan tutusan insanlar kişi kisi tutmak eller
+🍫	bar çikolata cikolata barı gıda restoran tatlı
+🥹	ağlamaklı direnme duygusal gözyaşı gurur ifade kızgın mutlu sevinç sevinc gözyaşları sulugöz sulugoz üzgün uzgun yüz yuz ifadesi
+🔈	hoparlör hoparlor ses düzeyi duzeyi kısık
+🍘	gıda pirinç pirinc gevreği gevregi yemek
+♍	başak basak burcu burçlar burclar
+🫫	açığa çıkarma dayanıklılık dönüşüm donusum gerginlik kırılma maskeleme parçalanma parcalanma
+🧚	kanat masal mitoloji oberon peri puck titania
+👉	el elin arkası elinin tersiyle sağı gösteren gosteren işaret isaret parmağı parmak
+🐽	burun domuz burnu hayvan yüz yuz
+🕑	2:00 iki saat 2
+💪	çizgi cizgi roman esnek güçlü guclu kas esnetme pazı vücutcu vucutcu
+🚈	demiryolu hafif raylı taşıt tren yolculuğu yolculugu yolu
+🏊	antrenman hareket havuz kişi kisi serbest stil spor triatlon vücut vucut yüzen yuzen yüzme yuzme yüzücü yuzucu
+❗	işaret isaret kırmızı ünlem unlem işareti isareti noktalama
+🍎	elma gıda kırmızı meyve
+👢	bot çizme cizme giyim kadın botu çizmesi cizmesi
+💌	aşk ask mektubu kalp kalpli mektup romantizm
+🤯	aklını başından almak patlayan kafa şaşırmış şok sok olmuş olmus şoke soke surat
+🫆	adli tıp güvenlik guvenlik kimlik parmak izi
+🍑	gıda meyve şeftali seftali
+🚣	göl gol ırmak kano kayık kürek kurek çeken ceken erkek nehir sandal sandalda kişi kisi taşıt tekne
+📿	boncuk din dua giyim kolye tesbih tespih
+🈁	burada japonca düğmesi dugmesi işareti isareti
+🔎	arama büyüteç buyutec cam sağa saga dönük donuk sağı gösteren gosteren
+🩰	bale ayakkabıları pabucu dans
+🫺	bu gösterme gosterme kavrama nötr notr sağ sag şu su
+🐲	ejderha yüzü yuzu hayvan masal yüz yuz
+🧀	fare gıda peynir dilimi
+👘	elbise giyim kimono
+🪼	ahh akvaryum çarpma carpma deniz denizanası dokunaç dokunac hayvan iğne igne medüz meduz okyanus omurgasız plankton sokma yanma
+🪢	aktivite bağ bag bağlama baglama bağlı denizci düğümü dugumu dolaşık düğüm dugum halat sicim
+🚔	polis arabası taşıt yaklaşan yaklasan
+😝	dil dışarıda ve gözler gozler kapalı iğrenç igrenc korkunç korkunc öğk ogk yüz yuz
+🐐	burçlar burclar çiftlik ciftlik hayvan keçi keci koç koc oğlak oglak burcu peynir süt sut
+⛄	kar yağmadan yagmadan kardan adam karsız kış soğuk soguk
+🔄	oklar saat yönünün yonunun tersinde dönen donen tersine
+📩	e-posta giden gönderilen gonderilen posta iletişim iletisim mektup oklu zarf
+😻	aşık aşk ask gözler gozler gülümseme gulumseme gülümseyen gulumseyen ve kalp şeklinde seklinde gözleri gozleri olan kedi yüzü yuzu gözlü gozlu sevgi yüz yuz
+🎡	dolap dönme donme eğlence eglence parkı lunapark
+🕝	2:30 iki buçuk bucuk saat
+🕚	11:00 on bir saat 11
+🕕	6:00 altı saat 6
+🎄	ağaç agac çam cam kutlama noel ağacı süs sus yılbaşı
+💀	cadılar bayramı canavar iskelet kafatası masal ölüm olum yüz yuz
+😇	gülümseme gulumseme hare ışık halkalı halkası melek yüz yuz
+🙀	aman tanrım kedi korkuyla bağıran sahiden şaşırmış şaşkın yüzü yuzu yüz yuz
+🧾	belge defter tutma dekont ekstre evrak fatura fiş fis hesap kanıt maliye muhasebe senet
+🏮	bar fener izakaya kırmızı kağıt restoran
+🩹	bandaj bant yapışkanlı yara bandı
+♎	burçlar burclar terazi burcu
+🛞	araba çark cark dönüş donus jant lastik oto otomobil seyahat tekerlek yedek parça parca yolculuk
+🍂	düşen dusen düşmüş dusmus güz guz sonbahar yaprak yapraklar
+👫	çift cift el ele tutuşan tutusan erkek ve kadın kız kişiler kisiler sevgili
+🏺	alet amfora antika içecek icecek kap silah
+🤗	heyecanlı kucaklama kucaklayarak gülümseme gulumseme sarılma yüz yuz
+🔩	araç arac somun ve vida
+🍗	but gıda restoran tavuk butu yemek
+😾	kedi yüzü yuzu somurtan somurtma yüz yuz
+🫲	anlaşma anlasma dokun el uzatma merhaba selam sol sola bakan temas tokalaşma tokalasma
+🥕	gıda havuç havuc sebze tavşan tavsan yiyecek
+🍿	gıda mısır patlamış sinema
+🦦	balık avlayan oyuncu su samuru
+🍖	et gıda kemikli restoran yemek
+😪	ağlayan aglayan yüz yuz uykulu yorgun
+📭	açık işaret isaret işareti isareti aşağıda posta kutusu indirilmiş indirilmis
+🎋	ağaç agac ve kağıt şeritler seritler japon kutlama star festivali tanabata ağacı
+🥪	ekmek gıda sandviç sandvic tost yemek
+🚺	bayanlar tuvaleti işaret isaret kadınlar tuvalet
+🤟	el seni seviyorum işareti isareti ss
+⛪	bina din haç hac hristiyan kilise papaz
+📋	duyuru pano
+🐦	hayvan kuş kus
+🎴	çiçek cicek çiçekli cicekli kart oyun kağıtları hanafuda kağıt oyunu
+🧑‍🩰	bale dansçı
+👩‍🦯	erişilebilirlik erisilebilirlik görme gorme engelli bastonlu kadın
+🔀	çapraz capraz sağ sag oklar parça parca karıştırma düğmesi dugmesi
+🈚	bedava işareti isareti japonca ücretsiz ucretsiz düğmesi dugmesi
+📸	flaş flas flaşlı fotoğraf fotograf makinesi kamera video
+🫥	bilinmez depresif endişe endise gizlenme gizli görünmez gorunmez içe ice dönük donuk kaybolma kaygılı noktalı çizgili cizgili yüz yuz ifadesi
+🫀	anatomi kalp atışı kan kardiyoloji kırmızı merkez nabız organ
+🦮	erişilebilirlik erisilebilirlik görme gorme engelli rehber köpek kopek
+🦬	bizon boynuz bufalo hayvan sürü suru
+👴	büyükbaba buyukbaba dede erkek insan kişiler kisiler yaşlı
+💅	kozmetik manikür manikur oje sürme surme tırnak bakımı
+🐀	hayvan kemirgen lağım faresi sıçan
+🔛	açık oku ok ünlem unlem işareti isareti ve okla açik acik
+🎸	alet elektrik gitar müzik muzik aleti
+🎼	müzik muzik partisyonu partisyon sol anahtarı
+😽	göz goz gözler gozler kapalı kedi öpen open öptüm optum öpücük opucuk yüz yuz
+🪖	asker kaskı askerlik eşya esya kafa kask miğfer migfer ordu savaş savas savaşçı
+❎	× çarpı işareti isareti düğmesi dugmesi çarpım çarpma carpma kare x içinde icinde
+🫰	<3 aşk ask borç borc el hesap işaret isaret parmağı ve baş bas parmak birbirine geçmiş gecmis kalp nakit pahalı para sevgi
+🛻	araba araç arac gitmek kamyon kamyonet otomobil pikap seyahat ulaşım yol
+📍	iğne igne raptiye yuvarlak
+😅	heyecanlı soğuk soguk ter terli ağzı açık gülümseme gulumseme stresli yüz yuz
+🏨	bina kalacak yer otel
+👐	açık el eller işareti isareti işaret isaret
+🗾	harita japonya haritası
+🦊	akıllı hayvan kurnaz tilki yüzü yuzu yüz yuz
+😭	ağlama aglama avaz ağlayan aglayan yüz yuz gözyaşları mutsuz üzgün uzgun
+👂	dinlemek gövde govde gürültü gurultu kulak ses
+😴	esnemek iyi geceler uykular şekerleme sekerleme tatlı rüyalar ruyalar uyku uykulu uyumak yatak yatmak yorgun zzz
+🍟	gıda kızartma patates mcdonald’s kızartması restoran
+🚫	girilmez girmek yasak işaret isaret
+🚀	çıkış roket taşıt uzay yolculuk
+📅	takvim tarih
+🏑	çim cim hokeyi hokey maç mac saha sopa top
+🚴	antrenman bisiklet süren suren kişi kisi sürücüsü surucusu bisikletçi bisikletci hareket spor vücut vucut
+🪄	aktivite asa büyü buyu büyücü buyucu cadı değnek degnek etkinlik sihir sihirbaz sihirli
+🐴	at yüzü yuzu hayvan yüz yuz
+🥱	esneme iyi geceler uykular sıkıcı sıkılmış uykulu uykusuz uyuklama uyumak yatmak yorgun zzz
+🚦	dikey trafik ışığı ışıkları ışık lambası sinyalleri
+🎯	hedef hedefe isabet on ikiden vurma oyun tam
+👛	bozuk para çantası cüzdan cuzdan giyim
+🎤	eğlence eglence karaoke mikrofon müzik muzik şarkı şarkıcı
+💾	disket floppy
+😛	dil çıkarmış yüz yuz dışarıda kalmış komik şapşal sapsal
+🦸	iyi iyilik kahraman kurtarmak pelerin süper super güç guc uçmak ucmak
+🫨	deprem olamaz panik sallama sallanma sersemlik şok sok sürpriz surpriz titreme titreşim titresim titreyen yüz yuz
+🍄‍🟫	doğa doga gıda kahverengi mantar pizza malzemesi portobello sebze şitaki sitaki trüf truf yiyecek
+🧑‍💼	beyaz yakalı iş is yeri mimar müdür mudur ofis çalışanı yönetici yonetici
+🆚	işaret isaret karşılaştırma işareti isareti vs düğmesi dugmesi
+🚊	metrobüs metrobus taşıt tramvay
+🎅	insan kutlama noel baba santa claus
+🛁	banyo küveti kuveti köpük kopuk köpüklü kopuklu
+🤰	hamile kadın
+🍧	buz meyveli restoran
+🧔	insan sakal sakallı kişi kisi yüz yuz
+😑	ifadesiz yüz yuz ifadesizlik kıskanç umurumda değil degil yorum yok
+🪾	çorak corak kış kurak yapraksız ağaç agac
+🤓	akıllı bilgili bilmiş bilmis çalışkan gözlük gozluk gözlüklü gozluklu inek öğrenci ogrenci ukala yüz yuz zeki
+⚡	doğa doga elektrik fırtına işaret isaret şimşek simsek tehlike voltaj yıldırım yüksek yuksek işareti isareti tehlikesi
+🧑‍🏫	doçent docent eğitimci egitimci öğretmen ogretmen profesör profesor
+🏡	bahçe bahce bahçeli bahceli ev bina evim güzel guzel yazlık
+⛺	çadır kamp yeri
+🍥	balık köftesi koftesi çörek corek gıda restoran rulo yiyecek
+🔰	japonca yeni başlayan baslayan sembolü sembolu yeşil yesil ve sarı yaprak
+🧷	bebek bezi çengel cengel çengelli cengelli dikiş dikis iğne igne kancası iğnelemek ignelemek kanca punk rock tutturmak
+📨	alınan posta e-posta gelen iletişim iletisim mektup zarf
+🍷	bar bardak şarap sarap içecek icecek içedek icedek kadeh kırmızı restoran bardağı kadehi
+🚯	çöp cop atılmaz atmayın işareti isareti işaret isaret
+🩺	doktor kalp stetoskop tıp
+🌘	ay kararması tutulması gece gökyüzü gokyuzu hilal ince solgun uzay
+🐍	hayvan yılan
+🟥	kare kırmızı
+🐦‍⬛	gaga gak hayvan hilebaz kara karga kargagil kuş kus kuzgun siyah
+🏁	bayrak bitiş bitis damalı ralli spor yarış
+📃	kenarı kıvrılmış sayfa kıvrık
+🔲	düğme dugme kare siyah
+📶	anten çubuk cubuk işaretli isaretli mobil sinyal gücü gucu telefon
+🏬	büyük buyuk mağaza magaza çok cok katlı
+🪘	conga davul çalmak calmak enstrüman enstruman eşya esya müzik muzik aleti perküsyon perkusyon ritim ritm tempo tumba uzun vurmak vuruş vurus
+🔣	işaret isaret girişi girisi işaretler isaretler
+🕋	din islam kabe kâbe müslüman musluman
+🪭	çırpma dans flört flort heyecan nesne şak sak serinletme sıcak utangaç utangac yelleme yelpaze
+🥸	ajan bıyık burun casus gözlük gozluk kimliğini kimligini gizlemek kılık değiştirmek degistirmek maskeli yüz yuz ifadesi
+🤙	ara beni işareti isareti el elle
+🚲	bisiklet bisiklete binmek cycling sürüş surus taşıt
+👗	alışveriş elbise giyim kokteyl elbisesi şık tek parça parca
+🦠	amip bakteri bilim deney hastalık hücre hucre laboratuvar mikrop tek hücreli hucreli virüs virus
+🏃	acele çabuk cabuk hızlı kişi kisi koşan kosan koşu kosu koşucu kosucu maraton spor vücut vucut yarış
+🕧	12:30 on iki buçuk bucuk otuz saat yarım
+😒	canı sıkkın canım sıkıldı garip keyifsiz mutsuz neyse sıkılmış yüz yuz
+📙	kitap turuncu
+👔	giyim gömlek gomlek iş is adamı kravat takım kıyafet
+🧯	ateş ates söndürme sondurme söndürmek sondurmek yangın söndürücü sondurucu tüpü tupu
+👟	ayakkabı bez giyim koşu kosu ayakkabısı spor
+😫	hapşuran hapsuran yüz yuz perişan perisan pişman pisman üzgün uzgun yorgun
+🏢	belediye bina devlet dairesi ofis binası
+🍩	çikolatalı donut lokma donat doughnut gıda restoran tatlı yiyecek
+♈	burçlar burclar koç koc burcu
+🤺	birey eskrim eskrimci kılıç spor
+🧎	diz çöken coken kişi kisi çökme cokme dizler
+🧑‍🧑‍🧒	aile çocuk cocuk yetişkin yetiskin
+⛲	çeşme cesme fıskiye süs sus havuzu
+🍵	çay cay fincanı içecek icecek yeşil yesil
+🌲	ağaç agac çam cam noel ağacı orman yaprak dökmeyen dokmeyen yeni yıl yeşil yesil
+👩‍🚀	astronot bayan kadın meslek roket uzay
+🫦	davetkar davetkâr dudak endişeli endiseli flört flort gergin ısırılan korku öpücük opucuk rahatsız seksi tutku
+🏧	atm işareti isareti otomatik vezne
+🥈	gümüş gumus ikinci ikincilik madalyası i̇kincilik madalya
+💿	cd disk dvd optik
+🎣	balık balıkçı dinlenme eğlence eglence kamış olta ve
+🍪	çikolatalı kurabiye cookie gıda restoran
+🧬	biyolog biyoloji dna evrim gen genetik sarmal yaşam yasam
+🎓	kep kutlama mezuniyet kepi
+🪫	az şarj sarj batarya düşük dusuk enerji pil elektronik güçsüz gucsuz nesne
+🦿	erişilebilirlik erisilebilirlik mekanik bacak protez
+⛔	girilmez işareti isareti hayır işaret isaret yasak
+🛙	aydınlanma deniz denizcilik fener ışık navigasyon rehberlik sinyal umut
+🍕	dilim gıda peynirli pizza dilimi restoran yiyecek
+🧅	baharat sebze soğan sogan yiyecek
+🦖	dinazor hayvan korkunç korkunc t-rex tyrannosaurus rex
+😡	deli gibi kırmızı somurtkan yüz yuz öfkeli ofkeli
+🪸	canlı dalış deniz doğa doga hayvan iklim değişikliği degisikligi mercan okyanus resif su altı
+⏫	hızlı yukarı düğmesi dugmesi ok çift cift
+🟠	daire turuncu
+🌄	dağ dag dağların arasından güneşin gunesin doğuşu dogusu ardında güneş gunes sabah güneşi gunesi
+🐚	deniz kabuğu kabugu sesi hayvan midye okyanus spiral
+🩼	araç arac baston değnek degnek engelli engellilik kırık koltuk değneği degnegi nesne sakatlanmak yaralı yürüme yurume yardımı
+😢	ağlama aglama ağlayan aglayan yüz yuz gözyaşları mutsuz üzgün uzgun üzüntülü uzuntulu
+🧦	çorap corap
+💢	çizgi cizgi roman duygu öfke ofke işareti isareti simgesi öfkeli ofkeli
+💨	çizgi cizgi roman duygu fırla gaz çıkarma hızla fırlama hızlı kaçma kacma koş kos koşma kosma rüzgar ruzgar
+😯	şaşırmış şaşkın yüz yuz şok sok olmuş olmus
+👤	büst bust kişiler kisiler siluet
+🎠	at atlı karınca atlıkarınca atı eğlence eglence karusel
+👮	ceza erkek polis görevli gorevli gözaltı kanun kişi kisi kişiler kisiler meslek memuru tutuklama yasa
+🧑	adam insan kişi kisi yetişkin yetiskin yüz yuz
+🗼	kule tokyo kulesi
+📳	cep telefonu mobil mod telefon titreşim titresim modu
+🏤	avrupa postanesi bina posta postane
+👕	alışveriş giyim gömlek gomlek tişört tisort
+🍴	aç ac akşam aksam yemeği yemegi beslenmek bıçak brunch çatal catal ve eline sağlık kahvaltı leziz meyhane mutfak öğle ogle pişirmek pisirmek restoran yemek yiyecek
+🛃	gümrük gumruk
+🐳	balina deniz hayvan mavi okyanus su püskürten puskurten
+👨‍🍼	baba bakıcı bakıcılık bebek bakıcısı emziren erkek beslemek emzirme insan kucak sevgi yenidoğan yenidogan
+🦯	erişilebilirlik erisilebilirlik görme gorme engelli bastonu
+👩‍🚒	bayan itfaiye aracı itfaiyeci kadın meslek
+⛅	bulut bulutlar ardındaki güneş gunes bulutlu hava parçalı
+😞	kırgın kırgınlık memnuniyetsiz yüz yuz mutsuz umutsuz
+💤	çizgi cizgi roman gece iyi geceler uykular uyku uyuklama uyuma yorgun zzz
+🚵	antrenman atletik bisiklet bisikletçi bisikletci dağ dag bisikletçisi bisikletcisi kişi kisi spor sürüş surus vücut vucut
+👪	aile anne baba bir erkek kadın çocuk cocuk kişiler kisiler
+👠	ayakkabı giyim kırmızı topuklu yüksek yuksek
+😷	grip hasta maske maskeli yüz yuz nezle rahatsız soğuk soguk tıbbi
+🥞	gıda gözleme gozleme kahvaltı krep pancake pankek yiyecek
+🆓	bedava bedelsiz free düğmesi dugmesi işaret isaret ücretsiz ucretsiz işareti isareti
+🏹	araç arac burç burc ok ve yay okçu okcu silah
+🪈	ahşap ahsap üflemeli uflemeli bando blokflüt blokflut boru enstrüman enstruman fife fifre flüt flut kaval müzik muzik nefesli orkestra recorder
+🛂	kontrol pasaport kontrolü kontrolu
+😱	korkmuş korkmus korku içinde icinde bağıran yüz yuz korkunç korkunc korkuyla çığlık atan haykıran
+🐄	büyükbaş buyukbas hayvan çiftlik ciftlik inek siyah beyaz süt sut
+🔳	beyaz kare düğme dugme
+👩‍🎓	bayan kadın kız öğrenci ogrenci mezun
+🐏	burç burc hayvan koç koc burcu orman
+🪿	hayvan kaz sesi kümes kumes hayvanı kuş kus ördek ordek paytak şapşal sapsal vak
+📥	gelen kutusu iletişim iletisim kutu posta tepsi
+🐇	diş dis havuç havuc hayvan kemirgen pamuk şirin sirin tavşan tavsan zıp
+🥐	ay çöreği coregi ekmek fransız gıda kruvasan pastane yiyecek
+🌖	ay küçülen kuculen şişkin siskin solgun uzay
+🦻	erişilebilirlik erisilebilirlik işitme isitme cihazı olan kulak güçlüğü guclugu
+🌅	gün gun doğumu dogumu güneş gunes güneşin gunesin doğuşu dogusu sabah güneşi gunesi şafak safak
+🦌	boynuz geyik hayvan orman ren geyiği geyigi
+🌰	ağaç agac bitki gıda kestane
+🧫	bakteri biyolog biyoloji kültür kultur laboratuvar petri kabı
+🐅	büyük buyuk kedi etobur hayvanat bahçesi bahcesi kaplan kedigiller vahşi vahsi
+💬	balon çizgi cizgi roman iletişim iletisim balonu konuşma konusma
+🚮	çöp cop kutusu işareti isareti çöpü copu yerine atın işaret isaret
+🟦	kare mavi
+👼	bebek melek peri masalı yüz yuz
+🚩	bayrak işaret isaret kırmızı konum bilgisi işareti isareti üçgen ucgen
+😿	ağlama aglama ağlayan aglayan kedi yüzü yuzu göz goz yaşı üzgün uzgun yüz yuz
+😦	açık ağızlı hoşnutsuz hosnutsuz yüz yuz ağzı boş bos bulunmuş bulunmus korkmuş korkmus
+🚍	araba otobüs otobus servis taşıt toplu taşıma yaklaşan yaklasan
+⭐	beyaz orta yıldız gece gökyüzü gokyuzu kutup yıldızı
+🃏	iskambil kartı joker kart
+😵‍💫	aklı karışık aman tanrım başım döndü dondu gülen gulen yüz yuz hipnotize inanamıyorum kafası bulanık mide bulantısı sersem sıkıntı ifadesi
+🚾	lavabo tuvalet wc
+🐡	balık balon balığı hayvan
+♒	burçlar burclar kova burcu
+👨‍🦯	erişilebilirlik erisilebilirlik erkek görme gorme engelli bastonlu
+🤪	büyük buyuk çılgın deli göz goz gözler gozler küçük kucuk surat
+💜	duygu kalp mor
+🤽	antrenman birey havuz kişi kisi spor su sporları topu top vücut vucut yüzme yuzme
+👸	insan kişiler kisiler kraliçe kralice peri masalı prenses
+☔	giyim hava durumu ıslak mor şemsiye semsiye yağmur yagmur damlalı yağmurlu yagmurlu
+🦋	böcek bocek kelebek şirin sirin
+🌒	ay büyüyen buyuyen hilal yükselen yukselen
+🔍	arama büyüteç buyutec cam sola dönük donuk solu gösteren gosteren
+😕	bilmiyorum emin olmayan kafası karışık yüz yuz karışmış
+🆙	işaret isaret up düğmesi dugmesi yukari işareti isareti
+🧲	at nalı çekim cekim çekmek cekmek elektrik yükü yuku eş es kutuplar manyetik mıknatıs pozitif negatif zıt
+🌝	ay dolu dolunay yüzü yuzu yüz yuz olan
+🐊	hayvan timsah
+🦎	hayvan kertenkele sürüngen surungen
+🤤	ağzı sulanmış salya akıtan yüz yuz akıtma
+🍰	dilim pasta doğum dogum günü gunu gıda dilimi restoran
+🫸	bekle bekletme çak cak çakma cakma dur durdurma itme reddetme sağa saga iten el
+💷	banknot döviz doviz para sterlin
+🧑‍🧒	aile çocuk cocuk yetişkin yetiskin
+🚨	alarm araba polis arabası lambası tepe siren
+👳	başörtüsü basortusu insan kişi kisi kişiler kisiler sarık sarıklı erkek türban turban türbanlı vücut vucut
+🦼	akülü akulu tekerlekli sandalye elektrikli erişilebilirlik erisilebilirlik
+🎂	dilek doğum dogum günü gunu pastası gıda iyi ki doğdun dogdun kek krema kutlama mum mutlu yıllar nice senelere parti pasta tatlı üflemek uflemek yaş yas yemek yiyecek
+📴	cep telefonu kapalı mobil telefon
+🪶	gıdıklamak hafif hayvan kuş kus tüyü tuyu tüy tuy tüylü tuylu uçma ucma
+🧰	alet çantası kutusu çanta canta ingiliz anahtarı kırmızı kutu onarmak sandık tamir tamirat tamirci
+🚋	taşıt toplu taşıma tramvay vagonu vagon
+🔢	1234 sayı girişi girisi sayılar
+🍮	gıda krem karamel puding restoran tatlı
+🔺	kırmızı üçgen ucgen yukarı bakan
+🎻	alet keman müzik muzik aleti
+🪴	bitki çiçek cicek dekor doğa doga ev bitkisi saksı yeşil yesil yetiştirme yetistirme
+🛵	motor motorlu skuter
+🎒	kırmızı sırt çantası okul
+🦛	çamur camur hayvan hipo hipopotam mor sevimli su aygırı
+🔸	karo küçük kucuk turuncu
+🐬	balık deniz hayvan mavi yunus okyanus
+🧿	boncuk maşallah masallah mavi muska nazar tılsım
+🥼	beyaz önlük onluk bilim insanı deney doktor önlüğü onlugu dr giysi gömlek gomlek hasta bakıcı hastane laboratuvar
+🔮	fal bakma kristal küre kure
+🌕	ay dolu dolunay parlak tam
+💧	çizgi cizgi roman damla damlacık su ter terli
+🎌	bayraklar çapraz capraz japon bayrakları kutlama
+🚒	araba itfaiye arabası kamyonu taşıt yangın
+🤶	anne insan noel annesi
+🆒	cool düğmesi dugmesi harika hoş hos serin işareti isareti
+🥀	boynu bükük bukuk çiçek cicek gül gul kırgın kırmızı solmuş solmus üzgün uzgun
+🖤	fena kalp kötü kotu siyah
+🚓	araba devriye arabası polis taşıt
+🥅	ağ ag kale ağı spor
+🍁	akçaağaç akcaagac yaprağı düşen dusen yaprak kırmızı sarı sonbahar turuncu
+🧈	süt sut ürünü urunu tereyağ tereyag tereyağı
+🐶	hayvan köpek kopek yüzü yuzu yüz yuz
+🚭	duman sigara içilmez icilmez işareti isareti tütün tutun yasak
+⚽	futbol spor top topu
+🧑‍💻	geliştirici gelistirici kodlayıcı mucit teknolog teknoloji uzmanı yazılım yazılımcı
+🧡	kalp portakal turuncu
+🌙	ay dilek gece gökyüzü gokyuzu hilal uzay yeni
+🛀	banyo yapan kişi kisi küvet kuvet
+🕡	6:30 altı buçuk bucuk saat
+🪗	akordeon akordiyon armonika çalmak calmak enstrüman enstruman eşya esya körük koruk müzik muzik aleti tuş tus
+🥊	boks eldiveni eldiven spor
+🔷	büyük buyuk mavi karo
+📕	kapalı kitap kırmızı
+🎪	çadır eğlence eglence sirk çadırı
+🧊	aysberg buz küpü kupu soğuk soguk
+🫌	başkalaşım böcek bocek değişim degisim dönüşüm donusum göç goc kırılgan tırtıl umut
+🧺	çamaşır sepeti çiftçilik ciftcilik hasır piknik sepet
+🫓	bazlama ekmek lavaş lavas naan pide pita yassı yemek yiyecek
+🔖	defter işaret isaret kitap not yer işareti isareti
+🤕	bandaj kafası sarılı yüz yuz yara yaralı
+🎃	cadılar bayramı fener halloween jack kabak kutlama
+🍨	buz dondurma gıda krema kup restoran tatlı
+⬛	büyük buyuk siyah kare geometri
+🩵	açık mavi kalp aşk ask camgöbeği camgobegi deniz mavisi duygu gökyüzü gokyuzu özel ozel kişi kisi sevgi
+◽	geometri gri kare küçük-orta beyaz
+🥶	buz gibi kesme donma kış mavi surat morarmış yüz yuz sıfırın altı soğuk soguk soğuktan soguktan donmak titremek üşümek usumek
+🪪	belge ehliyet güvenlik guvenlik kart kimlik bilgisi kartı lisans nesne nüfus nufus cüzdanı
+📵	çağrı yapılmaz cep telefonu yasak mobil telefon
+😋	gülümseyen gulumseyen yüz yuz harika yemek keyifli lezzetli yiyecek beğenen begenen oh
+🫵	dürtmek durtmek el göstermek gostermek işaret isaret parmağı karşıyı eden onlar orası parmak sen
+🙋	ben burada el kaldırma hareket kalkan kişi kisi merhaba selam soru söz soz isteme
+🐵	hayvan komik maymun yüzü yuzu meraklı muz neşeli neseli yüz yuz
+🪵	ağaç agac ahşap ahsap kereste kütük kutuk odun seyahat tomruk
+🧑‍🧒‍🧒	aile çocuk cocuk yetişkin yetiskin
+🍡	çubukta cubukta pirinç pirinc tatlısı topları dango gıda japon restoran tatlı
+🎥	eğlence eglence film kamerası sinema
+⌚	kol saati saat
+🫕	çikolata cikolata çubuk cubuk erimiş erimis fondü fondu kap kayak peynir raklet yemek yiyecek
+🕠	5:30 beş bes buçuk bucuk saat
+🤲	dilek dua eden eller etmek ellerini açmak acmak iki avuç avuc açık
+🙊	ağzı kapalı maymun bilmiyorum hayvan konuşma konusma konuşmadım söylemedim soylemedim söylemeyen soylemeyen sus üç uc
+🐞	benekli böcek bocek hanım hanımböceği hayvan uğur ugur böceği bocegi
+🪃	aborjin atmak boomerang bumerang eşya esya fırlatmak geri gelmek tepme oyun sekme silah tepki
+🈹	indirim japonca düğmesi dugmesi sembolü sembolu
+🧜	balık insan kadın deniz altı kızı mitoloji peri masalı poseidon su üç uc dişli disli çatal catal
+🐙	ahtapot hayvan okyanus
+🧢	beyzbol şapkası şapka sapka siperli
+🦞	bisque deniz ürünü urunu hayvan ıstakoz kabuklu kırmızı kıskaç
+🍒	gıda kiraz meyve
+🌠	gece kayan meteor yağmuru yagmuru uzay yıldız kayması
+🥭	mango meyve tropik tropikal yiyecek
+🌭	gıda hot dog sosis sosisli sandviç sandvic
+🫈	dev efsanevi yaratık koca ayak orman tüylü tuylu yeti
+💎	elmas mücevher mucevher taşı pırlanta romantizm
+🪠	açıcı çekme cekme eşya esya lavabo pompası pompa tuvalet vakum
+🚗	araba araç arac otomobil taşıt
+🧨	ateş ates bomba dinamit havai fişek fisek kırmızı kıvılcım maytap patlama patlayıcı
+🕢	7:30 saat yedi buçuk bucuk
+😖	kafası çok cok karışık yüz yuz karışmış kızgın pişman pisman
+🧗	dağ dag dağcı kişi kisi kaya tırmanışı tırmanıcı tırmanmak
+📏	cetvel düz duz
+🧛	drakula hortlak kan vampir
+🟡	daire sarı
+🦥	tembel hayvan yavaş yavas
+🧩	bulmaca ipucu karmaşık kenetleme oyun parça parca puzzle yap boz yapboz parçası
+🚕	araba sarı taksi taşıt
+🈺	işletme isletme açık japinca düğmesi dugmesi japonca hizmete hazır sembolü sembolu
+🥙	döner doner dürüm durum ekmek arası falafel gıda kebap pide sarma yiyecek
+🙃	gülme gulme gülümseme gulumseme hehe ters yüz yuz
+🌎	amerika bölgeleri bolgeleri dünya dunya yerküre yerkure yerkürede yerkurede
+🫐	dağ dag mersini likapa mavi mersin meyve orman meyvesi yaban yemek yiyecek
+🍔	çizburger cizburger gıda hamburger restoran yemek yiyecek
+😐	duygusuz etkilenmemiş etkilenmemis nötr notr umurumda değil degil yorum yok yüz yuz
+💰	çanta canta dolar çantası para çuvalı torbası zengin
+🏏	kriket maç mac sopa top
+💞	aşk ask dönen donen kalpler kalp kawaii sevimli
+🐋	balina hayvan okyanus
+🥳	doğum dogum günü gunu eğlence eglence iyi ki doğdun dogdun konfeti kutlama mutlu yıllar neşeli neseli oley parti partide eğlenen eglenen yüz yuz şapka sapka yılbaşı
+🌞	güneş gunes parlak sıcak yaz yüz yuz
+🍄	bitki kırmızı mantar masal
+🤩	gözler gozler heyecanlı sırıtan surat vov yıldız çarpmış yüz yuz
+🛅	bagaj hizmeti eşya esya emanet kasa kayıp
+⭕	çember cember kalın kırmızı o
+🌈	biseksüel biseksuel gay gökkuşağı hava durumu lezbiyen yağmur yagmur
+💛	duygu kalp sarı
+💋	aşk ask dudak dudaklar öpücük opucuk izi romantizm seksi
+📓	defter not defteri
+⏳	akan kum saati sayaç sayac zamanlayıcı
+🩸	âdet adet aybaşı ilaç ilac kan bağışı damlası mens menstrüasyon menstruasyon regl tıp yaralanma
+🍐	armut ayı gıda meyve
+🐂	boğa boga burcu burçlar burclar çiftlik ciftlik hayvan öküz okuz
+👖	blucin blue jean bluejean giyim kot pantalon pantolon
+🟫	kahverengi kare
+🐃	buffalo hayvan manda su
+⚾	beyzbol topu spor top
+🪙	altın avro bozuk para dolar gümüş gumus hazine jeton madeni metal sikke zengin
+🤞	çapraz capraz el parmak şans sans dileme söz soz verme
+🥿	ayakkabı babet bale ayakkabısı dans düz duz pabuç pabuc patik puant rahat terlik topuksuz yeşil yesil yürümek yurumek yürüyüş yuruyus
+💒	düğün dugun evlenme kilise kilisede romantizm
+🤾	atış atletik birey el hentbol kişi kisi spor top vücut vucut
+🕟	4:30 dört dort buçuk bucuk saat
+🙉	duymadım duymayan maymun hayvan kulak üç uc
+🧏	duyma erişilebilirlik erisilebilirlik işitme isitme engelli kişi kisi kulak
+🈲	japon yasak düğmesi dugmesi sembolü sembolu japonca
+🐸	hayvan kurbağa kurbaga yüzü yuzu vırak yüz yuz zıp
+⏪	geri sarma düğmesi dugmesi hızlı ok sol sola çift cift
+🌮	gıda meksika sandviçi sandvici tako
+💸	banka banknot kanatlı para uçan ucan
+🙅	asla hareket hayır insan iyi değil degil izin vermiyorum izinsiz kişi kisi olmaz vücut vucut yasak yüz yuz
+🧑‍🎤	aktör aktor aktris gösterici gosterici şarkıcı star yıldız
+🫅	asil insan kral kraliçe kralice kraliyet soylu taç tac takmış taht
+📘	kitap mavi
+🪍	ağ ag toplamak tuzak yakalamak
+🤌	bravo çok cok güzel guzel el hareketleri harika kıstırma hareketi yapan parmaklar lezzetli
+⚫	daire geometri siyah
+🧕	baş bas örtüsü ortusu başörtülü basortulu kadın insan türban turban türbanlı
+📚	kitap kitaplar
+👨	adam erkek insan kişiler kisiler sarışın
+🧑‍🔧	elektrikçi elektrikci tamirci tesisatçı
+👒	giyim kadın şapkası şapka sapka
+🫜	bahçe bahce kök kok pancar sebze turp
+💵	banknot dolar döviz doviz fatura para
+👊	anlaştık bam el katılıyorum tamam yaklaşan yaklasan yumruk
+⌛	kum saati
+🫑	biber dolma dolmalık sebze yemek yeşil yesil yiyecek
+🚶	aylak gezinti kişi kisi salınma tempo vücut vucut yaya yürüme yurume yürüyen yuruyen adam yürüyüş yuruyus
+🦙	alpaka beyaz guanako hayvan lama sevimli tatlı vikunya yün yun
+🎉	harika konfeti kutlama parti konfetisi tebrikler
+📛	ad rozeti rozet
+🥔	gıda patates sebze yiyecek
+🧒	çocuk cocuk genç genc insan kişi kisi küçük kucuk surat
+🥵	ateşlenmek ateslenmek çarpıntı hararet kızarmış yüz yuz nefes nefese sıcak çarpması terleme tükenmek tukenmek yorgun
+🍶	bar fincan içecek icecek restoran sake şişesi sisesi ve fincanı şişe sise
+🉐	indirim japonca avantaj düğmesi dugmesi simgesi
+♊	burçlar burclar ikizler burcu
+🤫	sessiz şişt sist şş ss surat sus işareti isareti yapan yüz yuz
+📮	posta kutusu
+🦷	ağız ağrı azı dişi disi beyaz diş dis ağrısı hekimi perisi dişçi disci inci gibi köpek kopek süt sut
+🩻	doktor film iskelet kaburga kemik medikal muayene nesne röntgen rontgen tıbbi x ışını
+🔫	revolver silah su tabancası tabanca
+🔁	oklar saat yönünde yonunde tekrarlama düğmesi dugmesi
+🍏	ekşi eksi elma gıda meyve yeşil yesil yiyecek
+🕐	1:00 bir saat 1
+😁	gülen gulen gözlerle gozlerle sırıtan yüz yuz sırıtma gülme gulme gülümseme gulumseme gülümseyen gulumseyen gözler gozler lol neşeli neseli
+🩱	mayo tek parça parca
+🐛	böcek bocek hayvan kırkayak tırtıl
+😲	afallamış şaşkın şoke soke olmuş olmus tamamen yüz yuz
+📟	çağrı cihazı iletişim iletisim
+🤘	beden boynuz işareti isareti el metal metalci parmak rock süper super yeah yes
+😮	ağız ağzı açık yüz yuz şaşkın şok sok süpriz supriz
+🆘	işaret isaret sos düğmesi dugmesi işareti isareti yardım
+💭	balon bulut çizgi cizgi roman düşünce dusunce balonu fikir
+🐉	çin cin efsane ejderha hayvan masal
+🚟	asma demiryolu taşıt
+🫱	anlaşma anlasma dokun el uzatma merhaba sağ sag sağa saga bakan selam temas tokalaşmak tokalasmak
+🎶	müzik muzik notaları nota notalar
+🈯	japonca rezerve düğmesi dugmesi sembolü sembolu
+👹	canavar dev japon canavarı korkunç korkunc maske oni peri masalı yaratık yüz yuz
+🧑‍🎄	christmas cinsiyet belirtmeyen noel karakteri insan mutlu noeller yıllar baba figürü figuru santa claus şapka sapka tatil yılbaşı
+🫶	<3 aşk ask birlikte biz el kalp oluşturan olusturan eller sevgi seviyorum
+💝	duygu kalp kurdele kurdeleli sevgililer günü gunu
+🥇	altın birinci birincilik madalyası madalya
+🔘	düğme dugme radyo düğmesi dugmesi
+🪋	ateş ates topu düşüş dusus kaya kıyamet uzay yerçekimi yercekimi yıldız
+🐜	bahçe bahce böcek bocek çalışkan hayvan karınca
+🆎	ab düğmesi dugmesi kan grubu
+🧑‍🍼	anne baba bakıcı bakıcılık bebek bakıcısı emziren kişi kisi beslemek emzirme erkek insan kadın yenidoğan yenidogan
+💻	bilgisayar dizüstü dizustu kişisel kisisel
+🏉	futbol topu ragbi futbolu spor top
+🐆	büyük buyuk kedi hayvan hayvanat bahçesi bahcesi kedigiller leopar vahşi vahsi
+🦡	bal porsuğu porsugu bela hayvan porsuk sevimli
+🦄	hayal hayvan sihirli tek boynuz boynuzlu at unicorn yüz yuz
+💊	doktor hap ilaç ilac
+🐒	hayvan maymun muz orman
+👃	burun gövde govde koklamak koku nefes yüz yuz
+🧼	banyo yapmak el yıkamak köpük kopuk köpürmek kopurmek sabun köpüğü kopugu sabunlamak temiz temizlik yıkanmak
+👧	genç genc insan kişiler kisiler kız çocuk cocuk
+📜	bildiri kağıt parşömen parsomen
+🗿	heykel moyai heykeli taştan tastan surat
+🔠	abcd büyük buyuk harf harfler latin harfleri harfleriyle giriş giris
+🌵	bitki çöl col diken kaktüs kaktus
+♉	boğa boga burcu burçlar burclar
+🙎	darılan kişi kisi darılma hareket hayal kırıklığı kırgın küsme kusme mimik öfkeli ofkeli somurtma surat asma üzgün uzgun
+🐓	hayvan horoz kuş kus
+💓	aşk ask çarpan carpan kalp duygu heyecan atışı
+😟	endişeli endiseli gergin yüz yuz
+🕍	din musevi sinagog tapınak yahudi
+👶	bebek kişiler kisiler
+🌹	aşk ask bitki çiçek cicek gül gul kırmızı
+🔧	araç arac ingiliz anahtarı somun
+🪂	delta kanat deniz paraşütü parasutu paraşüt parasut paraşütle parasutle atlama
+🦨	kokan kokarca
+👩‍🏫	bayan eğitmen egitmen kadın meslek öğretmen ogretmen profesör profesor
+🌷	bitki çiçek cicek kırmızı lale
+🥠	fal kurabiyesi gıda içinden icinden çıkan çin cin kurabiye kehanet şans sans talih
+⛽	akaryakıt istasyonu benzin benzinci gaz istasyon pompa yakıt pompası
+⛎	burçlar burclar hain iblis yılan yılancı zodyak
+🌋	dağ dag doğa doga volkan yanardağ yanardag patlaması
+🛬	inen uçak ucak iniş inis inme inmek taşıt varış varmak
+🔱	amblem çıpa üçlü uclu çatal catal işareti isareti
+💳	kart kredi kartı
+🏂	kar kayağı yapan snowboard yapmak snowbordçu snowbordcu spor
+🔒	kapalı kilit
+🔉	düşük dusuk ses sesli hoparlör hoparlor açık
+🚑	acil ambulans taşıt
+🥻	elbise giysi sari
+🈵	japonca yer yok düğmesi dugmesi
+🀄	ejderha kızıl ejder mahjong taşı taş tas
+😠	deli gibi kızgın mutsuz öfkeli ofkeli yüz yuz
+😚	aşk ask gözler gozler kapalı öpüşme opusme gözlerle gozlerle öpen open yüz yuz öpücük opucuk yollama
+🧃	içecek icecek kutusu kutu meyve suyu pipet
+🦶	ayak bilek parmak tekme topuk
+🙆	aman tanrım egzersiz el hareket kişi kisi kocaman oldu tamam hareketi vücut vucut yüz yuz
+🎏	flama kutlama sazan şekilli sekilli
+💄	kırmızı ruj kozmetik makyaj
+🚘	araba araç arac otomobil taşıt yaklaşan yaklasan
+😈	boynuzlar boynuzlu gülen gulen yüz yuz gülümseme gulumseme şeytani seytani
+👓	giyim gözlük gozluk
+😂	ağlamak aglamak gözyaşı gülmek gulmek gülmekten gulmekten haha inanılmaz kahkaha katılmak komik mutluluk neşe nese sevinç sevinc
+📂	açık dosya klasörü klasoru klasör klasor
+👱	erkek insan kişi kisi kişiler kisiler saç sac sarı saçlı sarışın yüz yuz
+🌇	alacakaranlık bina binaların üzerinden uzerinden gün gun batımı gökdelen gokdelen maslak new york şehir sehir
+🪀	inip çıkma oyuncak yoyo
+🎾	spor tenis raketi ve topu top
+🔼	düğme dugme üçgen ucgen yukarı düğmesi dugmesi
+🥝	gıda kivi meyve yiyecek
+🍙	gıda onigiri pirinç pirinc topu restoran yemek yiyecek
+🚜	taşıt traktör traktor
+👨‍💼	adam beyaz yaka erkek ofis çalışanı iş is meslek mimar yönetici yonetici
+🥥	gıda hindistan cevizi maymun palmiye pina colada tropikal
+📈	artış grafiği grafigi grafik yukarı yönlü yonlu yükselen yukselen
+🛐	din ibadethane tapınma
+🚂	buhar buharlı lokomotif seyahat taşıt tren yolu
+🈶	bedava değil degil japonca düğmesi dugmesi simgesi ücretsiz ucretsiz
+🪡	aktivite dikiş dikis iğnesi ignesi dikme etkinlik iğne igne iplik nakış sökük sokuk terzi
+💏	aşk ask kişiler kisiler öpücük opucuk öpüşme opusme romantizm seni seviyorum yıldönümü
+🦐	deniz mahsulü mahsulu kabuklu hayvanı karides küçük kucuk okyanus yiyecek
+⏰	alarm çalar calar saat
+🌟	dilek yıldızı kıvılcım kutup parıldama parıldayan yıldız parlak parlayan pırıltı
+🥮	ay pastası çörek corek festival kek pasta sonbahar tatlı yemek yiyecek yuèbǐng yuebing
+🌗	ay dördün dordun son
+📀	blu-ray cd disk dvd müzik muzik
+👩‍🏭	bayan fabrika işçi isci kadın işçisi iscisi meslek montaj sanayi
+🕙	10:00 on saat 10
+🗽	heykel new york nyc özgürlük ozgurluk heykeli
+👩‍🦼	elektrikli tekerlekli sandalyede kadın erişilebilirlik erisilebilirlik sandalye
+🚌	minibüs minibus otobüs otobus taşıt toplu taşıma
+🛼	paten kaymak patenle roller blade skate seyahat spor tekerlek tekerlekli patenler
+👨‍🦽	erişilebilirlik erisilebilirlik erkek tekerlekli sandalye sandalyede
+😳	kızarmış ve şaşkın yüz yuz şaşırmış şaşkınlık içinde icinde şok sok tuhaf
+🫏	eşek esek hayvan inatçı katır memeli merkep sıpa
+🌃	gece şehir sehir yıldızlar yıldızlı
+👇	aşağıyı gösteren gosteren parmak el elin arkası elinin tersiyle işaret isaret parmağı
+🥬	çin cin lahanası karalahana lahana marul salata sebze yaprak yemek yeşil yesil yapraklı yeşillik yesillik yiyecek
+🩴	ayakkabı deniz terliği terligi eşya esya flip flop kumsal parmak arası terlik sahil sandalet zori
+🤭	a ah eliyle ağzını kapatan yüz yuz sır şok sok olmak süpriz supriz surat tüh tuh
+🌽	başak basak gıda mısır başağı koçanı
+📢	halka hitap hoparlör hoparlor iletişim iletisim megafon
+🔓	açık kilidini açma acma kilit
+🍠	fırınlanmış patates tatlı gıda restoran tırınlanmış
+🦵	ayak bacak diz tekme atmak uzuv
+🧍	ayakta duran kişi kisi durma
+🐼	bambu hayvan panda yüzü yuzu tembel yüz yuz
+🕞	3:30 saat üç uc buçuk bucuk
+🤣	ahaha çok cok komik gözümden gozumden yaş yas geldi gözyaşı gülme gulme hahaha kahkaha mutluluk neşe nese yerlere yatmak yüz yuz
+😉	cilve göz goz kırpan yüz yuz kırpma
+🪓	ağaç agac balta kesme kısa odun yarma
+🎰	kollu makina kumar makinesi oyun şans sans oyunu
+🍳	gıda kahvaltı kızartma tavası pişirme pisirme restoran sahanda yumurta tavada yemek yiyecek
+😩	acıkmış çok cok yorgun hayır olamaz pişman pisman uykulu yüz yuz yorulmuş yorulmus
+🦽	erişilebilirlik erisilebilirlik tekerlekli sandalye
+😮‍💨	bitik duman fısıldama iç ic çekme cekme ıslık nefes verme off rahatlama sızlanma üfleme ufleme yorgun
+🪔	diya lamba yağ yag
+♌	aslan burcu burçlar burclar
+➗	÷ bölü bolu işareti isareti işaret isaret koyu renk matematik
+👩‍🎤	aktör aktor bayan gösterici gosterici kadın meslek rock şarkıcı star
+⚓	çapa capa çıpa denizci denizcilik gemi işaret isaret tekne
+📞	ahize alıcı telefon
+🧘	bağdaş bagdas kurmak lotus pozisyonu pozisyonundaki kişi kisi meditasyon rahatlamak yoga
+😺	açık ağız gülümseme gulumseme gülümseyen gulumseyen kedi yüzü yuzu ve ağzı sırıtan yüz yuz
+💖	duygu heyecanlı kalp pembe pırıldayan
+🍣	çiğ cig balık gıda japon restoran sushi suşi susi nigiri
+💆	baş bas ağrısı gerginlik kişi kisi masaj yaptıran rahatlama salon spa terapi yüz yuz masajı
+🕓	4:00 dört dort saat 4
+♑	burçlar burclar oğlak oglak burcu
+🪰	at sineği sinegi böcek bocek çürüme curume hastalık hayvan karasinek kurt larva sinek uçmak ucmak
+💲	dolar işareti isareti koyu renk para
+💚	duygu kalp yeşil yesil
+🚪	kapı
+💉	doktor iğne igne ilaç ilac şırınga
+🛘	çığ dağ dag deprem felaket kayalar taşlar taslar tehlike toprak kayması
+🐰	havuç havuc hayvan kemirgen tavşan tavsan yüzü yuzu yüz yuz
+📆	koparmalı takvim sayfası tarih
+👨‍🦼	elektrikli tekerlekli sandalyede erkek erişilebilirlik erisilebilirlik sandalye
+🤨	güvenmeyen guvenmeyen şüpheci supheci surat tek kaşı çatık yüz yuz havada
+🤹	aynı anda birçok bircok iş is yapma denge el becerisi hokkabaz hokkabazlık jonglör jonglor jonglörlük jonglorluk kişi kisi top çeviren ceviren erkek çevirme cevirme vücut vucut yetenek
+🫷	bekle bekletme çak cak çakma cakma dur durdurma itme reddetme sola iten el
+🥉	bronz madalya üçüncü ucuncu üçüncülük ucunculuk madalyası
+🧽	banyo yapmak emici emmek gözenek gozenek gözenekli gozenekli keselemek köpürtmek kopurtmek sünger sunger temizlik yıkamak yıkanmak
+🐨	hayvan koala ayısı
+✨	* mucize parıldayan yıldızlar parıltı parıltılar pırıldayan pırıltı sihir yıldız
+⛵	deniz tatil yeri tatili tekne yat yelkenli
+🌼	bitki çiçek cicek açma acma sarı
+🏄	dalga sörfü sorfu erkek sörfçü sorfcu kişi kisi okyanus plaj sahil sörf sorf yapan spor vücut vucut
+🧐	havalı kendini beğenmiş begenmis klas surat tek cam gözlük gozluk gözlüklü gozluklu yüz yuz varlıklı zengin
+📦	kutu paket posta
+💮	beyaz çiçek cicek damgası damga iyi çalışma
+🪇	alet çaça caca çıngırak dans enstrüman enstruman marakas müzik muzik aleti nesne parti perküsyon perkusyon sallama sallamalı vurmalı
+🤷	bilemem bilmem bilmeme bilmiyorum ilgisizlik kararsız kişi kisi ne bileyim yapalım omuz silkme sanırım vücut vucut
+🪎	altın değerli degerli ganimet gümüş gumus mücevher mucevher ödül odul para zenginlik
+🧑‍🦼	elektrikli tekerlekli sandalyede kişi kisi erişilebilirlik erisilebilirlik sandalye
+🙌	çak cak eller havaya her iki el kutlama kutlamak için icin eli birden kaldırma tebrikler
+👨‍💻	adam bilgisayar mühendisi muhendisi erkek teknoloji uzmanı geliştirici gelistirici kodlayıcı meslek mucit mühendis muhendis programlamacı yazılım
+🪲	böcek bocek haşere hasere hayvan
+😜	dil dışardayken göz goz kırpma dili dışarda haylaz kışkırtma şaka saka yaramaz yüz yuz
+🕗	8:00 saat 8 sekiz
+🥏	atmak disk fırlatmak frizbi oynamak oyuncak turuncu tutmak ultimate
+📖	açık defter kitap okul
+👨‍🚒	adam erkek itfaiye aracı itfaiyeci meslek
+🆗	ok düğmesi dugmesi işareti isareti tamam
+🥓	bacon domuz pastırması et gıda kahvaltı yiyecek
+🫤	eh hayal kırıklığı hüsran husran ifade kararsız kırgın meh memnuniyetsiz şüpheli supheli yüz yuz ifadesi
+👨‍🎨	adam erkek meslek palet ressam sanatçı
+🎨	boya paleti palet ressam sanat sanatçı
+🆔	id düğmesi dugmesi işaret isaret kimlik işareti isareti
+🛺	elektrikli çekçek cekcek tuk
+👌	anlaştık el harika işaret isaret işte iste bu mükemmel mukemmel müthiş muthis ok süper super tam olarak tamam tamamdır
+❓	işaret isaret kırmızı soru işareti isareti noktalama
+📷	fotoğraf fotograf makinesi video
+😥	canı sıkkın ama rahatlamış endişeli endiseli kafası karışmış karışık üzgün uzgun yüz yuz yırttık
+🚇	marmaray metro taşıt toplu taşıma tren ulaşım
+🍯	bal kabı gıda kahvaltı kap restoran tatlı
+📄	doküman dokuman ön on yüz yuz yüzü yuzu görünen gorunen sayfa yukarıda
+🪑	iskemle oturma sandalye
+🤦	aman tanrım çileden cileden çıkma inanamıyorum inanmama inanmıyorum kızgınlık öfke ofke olamaz şok sok yüzünü yuzunu eliyle kapama
+🍋	gıda limon meyve narenciye
+🧟	hortlak kişi kisi kıyamet korku korkunç korkunc ürkünç urkunc yaşayan yasayan ölü olu yürüyen yuruyen zombi
+🧶	ip iplik yumağı kedi kroşe krose örgü orgu ipi tığ top yumak yün yun
+🍓	çilek cilek gıda meyve yumuşak yumusak
+📇	dizin kart dizini rolodeks
+🌴	ağaç agac palmiye ağacı yaz yeşil yesil
+🥷	asker dövüşçü dovuscu gizli insan katana kavga kiralık katil ninja saklı savaş savas suikast
+🙂	gülme gulme gülümseme gulumseme hafifçe hafifce gülümseyen gulumseyen yüz yuz mutlu neşeli neseli
+🎲	oyun zarı tavla zar
+🤴	insan kraliyet prens
+🏰	avrupalı bina kale şato sato
+🧆	falafel köfte kofte nohut
+🪩	90‘lar aynalı küre kure dans disko topu eğlence eglence gece hayatı kulübü kulubu parlak parti
+💇	bakım güzellik guzellik salonu kes kişi kisi kuaför kuafor makas saç sac kesimi kestirme stili salon tarz
+😸	göz goz gülen gulen gözlerle gozlerle sırıtan kedi gülümseme gulumseme yüzü yuzu ve gözleri gozleri gülümseyen gulumseyen sırıtma yüz yuz
+💔	duygu hüsran husran kalp kırık kırılmış kırma
+🍇	gıda meyve salkım üzüm uzum
+🐾	hayvan iz pati izi pençe pence
+🙇	affet affetme bağışlama başını öne one eğme egme eğilme egilme hareket kişi kisi merhamet özür ozur dilerim üzgünüm uzgunum yakarma yalvarma
+🧧	çin cin hediyesi hediye hóngbāo hongbao iyi şans sans şanslar sanslar kırmızı kağıt zarf lai see para uzak doğu dogu
+🪷	bitki budizm çiçek cicek hinduizm huzur lotus namaste nilüfer nilufer saflık sakin yoga
+🤐	ağız ağzı fermuarlı yüz yuz ağzım kapalı fermuar sır
+🫂	aşk ask elveda hoşçakal hoscakal insan kucaklaşma kucaklasma merhaba sağol sagol sarılma sevgi teşekkür tesekkur teselli veda
+💦	çizgi cizgi roman damla duygu fışkır su ter damlası terli
+👨‍🚀	adam astronot erkek meslek roket uzay
+😏	hin imalı gülümseme gulumseme kuşkucu kuskucu sinsi yapmacık gülümseyen gulumseyen yüz yuz
+🪝	askı asmak çengel cengel çengellemek cengellemek eğri egri eşya esya kanca
+🔂	1 sayısı olan saat yönünde yonunde oklar tek parça parca tekrarlama düğmesi dugmesi
+🎳	bovling ekipmanı topu oyun top
+🕥	10:30 on buçuk bucuk saat
+☕	çay cay dumanı tüten tuten içecek icecek kahve sıcak
+🔡	abcd alfabe küçük kucuk harf harfler latin harfleri harfleriyle giriş giris

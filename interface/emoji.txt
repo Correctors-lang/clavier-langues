@@ -611,7 +611,7 @@
 🐐	goat animal capricorn farm milk zodiac
 🐪	camel animal desert dromedary hump one
 🐫	two-hump camel animal bactrian desert hump two
-🦙	llama alpaca animal guanaco vicuña wool
+🦙	llama alpaca animal guanaco vicuña vicuna wool
 🦒	giraffe animal spots
 🐘	elephant animal
 🦣	mammoth animal extinction large tusk wooly
@@ -753,7 +753,7 @@
 🥝	kiwi fruit food
 🍅	tomato food fruit vegetable
 🫒	olive food
-🥥	coconut colada palm piña
+🥥	coconut colada palm piña pina
 🥑	avocado food fruit
 🍆	eggplant aubergine vegetable
 🥔	potato food vegetable
@@ -780,7 +780,7 @@
 🫓	flatbread arepa bread food gordita lavash naan pita
 🥨	pretzel convoluted twisted
 🥯	bagel bakery bread breakfast schmear
-🥞	pancakes breakfast crêpe food hotcake pancake
+🥞	pancakes breakfast crêpe crepe food hotcake pancake
 🧇	waffle breakfast indecisive iron
 🧀	cheese wedge
 🍖	meat on bone
@@ -820,9 +820,9 @@
 🍣	sushi food
 🍤	fried shrimp prawn tempura
 🍥	fish cake with swirl food pastry restaurant
-🥮	moon cake autumn festival yuèbǐng
+🥮	moon cake autumn festival yuèbǐng yuebing
 🍡	dango dessert japanese skewer stick sweet
-🥟	dumpling empanada gyōza jiaozi pierogi potsticker
+🥟	dumpling empanada gyōza gyoza jiaozi pierogi potsticker
 🥠	fortune cookie prophecy
 🥡	takeout box chopsticks delivery food oyster pail
 🍦	soft ice cream dessert food icecream restaurant serve sweet
@@ -883,7 +883,7 @@
 🎏	carp streamer celebration
 🎐	wind chime bell celebration
 🎑	moon viewing ceremony celebration
-🧧	red envelope gift good hóngbāo lai luck money see
+🧧	red envelope gift good hóngbāo hongbao lai luck money see
 🎀	ribbon celebration
 🎁	wrapped gift birthday bow box celebration christmas present surprise
 🎗️	reminder ribbon
@@ -935,7 +935,7 @@
 🎲	game die dice entertainment
 🧩	puzzle piece clue interlocking jigsaw
 🧸	teddy bear plaything plush stuffed toy
-🪅	piñata candy celebrate celebration cinco de festive mayo party pinada pinata
+🪅	piñata pinata candy celebrate celebration cinco de festive mayo party pinada
 🪩	mirror ball dance disco glitter party
 🪆	nesting dolls babooshka baboushka babushka doll matryoshka russia
 ♠️	spade suit
@@ -1204,7 +1204,7 @@
 👝	clutch bag clothes clothing dress handbag pouch purse
 🛍️	shopping bags
 🎒	backpack backpacking bag bookbag education rucksack satchel school
-🩴	thong sandal beach flip flop sandals shoe thongs zōri
+🩴	thong sandal beach flip flop sandals shoe thongs zōri zori
 👞	man’s shoe brown clothes clothing feet foot kick man shoes shopping
 👟	running shoe athletic clothes clothing fast kick shoes shopping sneaker tennis
 🥾	hiking boot backpacking brown camping outdoors shoe
@@ -1697,7 +1697,7 @@
 🇦🇹	flag austria
 🇦🇺	flag australia
 🇦🇼	flag aruba
-🇦🇽	flag åland islands
+🇦🇽	flag åland aland islands
 🇦🇿	flag azerbaijan
 🇧🇦	flag bosnia & herzegovina
 🇧🇧	flag barbados
@@ -1708,7 +1708,7 @@
 🇧🇭	flag bahrain
 🇧🇮	flag burundi
 🇧🇯	flag benin
-🇧🇱	flag st barthélemy
+🇧🇱	flag st barthélemy barthelemy
 🇧🇲	flag bermuda
 🇧🇳	flag brunei
 🇧🇴	flag bolivia
@@ -1726,7 +1726,7 @@
 🇨🇫	flag central african republic
 🇨🇬	flag congo - brazzaville
 🇨🇭	flag switzerland
-🇨🇮	flag côte d’ivoire
+🇨🇮	flag côte cote d’ivoire
 🇨🇰	flag cook islands
 🇨🇱	flag chile
 🇨🇲	flag cameroon
@@ -1737,7 +1737,7 @@
 🇨🇷	flag costa rica
 🇨🇺	flag cuba
 🇨🇻	flag cape verde
-🇨🇼	flag curaçao
+🇨🇼	flag curaçao curacao
 🇨🇽	flag christmas island
 🇨🇾	flag cyprus
 🇨🇿	flag czechia
@@ -1876,7 +1876,7 @@
 🇵🇼	flag palau
 🇵🇾	flag paraguay
 🇶🇦	flag qatar
-🇷🇪	flag réunion
+🇷🇪	flag réunion reunion
 🇷🇴	flag romania
 🇷🇸	flag serbia
 🇷🇺	flag russia
@@ -1897,7 +1897,7 @@
 🇸🇴	flag somalia
 🇸🇷	flag suriname
 🇸🇸	flag south sudan
-🇸🇹	flag são tomé & príncipe
+🇸🇹	flag são sao tomé tome & príncipe principe
 🇸🇻	flag el salvador
 🇸🇽	flag sint maarten
 🇸🇾	flag syria
@@ -1914,7 +1914,7 @@
 🇹🇲	flag turkmenistan
 🇹🇳	flag tunisia
 🇹🇴	flag tonga
-🇹🇷	flag türkiye
+🇹🇷	flag türkiye turkiye
 🇹🇹	flag trinidad & tobago
 🇹🇻	flag tuvalu
 🇹🇼	flag taiwan
@@ -1976,6 +1976,7 @@
 (´･ω･`)	timide penaud
 (=^･ω･^=)	chat mignon miaou
 (•ө•)♡	lapin amour
+
 
 
 

@@ -1,1261 +1,1261 @@
 # Mots-clés d'emoji en « de » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	neu new wort „new“ in blauem quadrat
-🧑‍🤝‍🧑	händchen halten hände menschen paar pärchen personen sich an den händen haltende
-◽	geometrisch mittelkleines weißes quadrat weiß
-⛽	benzin tanke tanken tanksäule tankstelle
-🔓	nicht gesichert offen offenes schloss
-👄	körperteil kuss lippen lippenstift mund
-🍴	abendessen besteck essen frühstück gabel und messer geschirr hunger lecker mittagessen restaurant
-🏒	eishockey eishockey-schläger und puck hockey schläger
-💦	comic feucht nass schweiß schweißtropfen schwitzen trainieren training tropfen wasser
-🎐	bimmel feier glocke japanisches windspiel wind
-😼	gesicht grinsen ironisch katze katzengesicht lächeln lachen smiley tier verwegen
-😉	auge flirten gesicht sexy smiley zudrücken zugedrückt zukneifen zuzwinkern zwinkern
-📛	namensschild schild
-🚉	bahn bahnhof zug
-💌	brief herz liebe liebesbrief post siegel
-🆘	hilfe sos sos-zeichen
-🛙	hoffnung leuchtfeuer licht meer orientierung schiffe seefahrt wegweiser
-🍯	honig honigtopf süß
-😿	gesicht katze katzengesicht smiley tier träne traurig weinen
-🫜	bete garten gemüse rote rübe wurzel
-😳	augen erröten gesicht groß peinlich rot scham schämen smiley überrascht verlegen wangen
-🚨	polizei polizeilicht sirene
-🚌	bus fahrzeug schulbus
-🌇	großstadt hochhäuser morgenrot sonnenaufgang sonnenuntergang in der stadt wolkenkratzer
-🔝	pfeil nach oben top-pfeil top-zeichen
-🙊	affe affengesicht böse geheimnis gemein geste hand heimlich leise mund nein sagen sprechen still tier ups verboten zuhalten
-🐙	krake meer oktopus tier tintenfisch
-🕦	11:30 uhr halb zwölf zeit ziffernblatt 11.30
-🕞	3:30 uhr halb vier ziffernblatt 3.30
-🙌	erhoben feiern geste hände handflächen hurra zwei
-🚗	auto fahren fahrzeug rot verkehr
-🕥	10:30 uhr halb elf ziffernblatt 10.30
-🥱	gähnen gähnend gelangweilt gesicht langweilig müde öde schnarch smiley zzz
-🐎	pferd rennen rennpferd tier
-👩‍🚒	feuerwehrfrau feuerwehrhelm frau
-🪉	amor cupido harfe instrument liebe musik orchester
-🫁	atem atmen ausatmen einatmen körper körperteil lunge lungenflügel mensch organ
-📲	anruf anrufen handy iphone kommunikation mobiltelefon mit pfeil whatsapp
-💚	gefühl grün herz liebe romantisch
-📶	balkenförmige signalstärkenanzeige empfang mobilfunksignal mobiltelefon signalstärke
-🫦	angst ängstlich beißen besorgt flirten flirtend kuss lippenstift mund nervös sexy unbehaglich zähne
-🌅	meer sonnenaufgang über dem
-🌂	geschlossener regenschirm regen
-🍲	eintopf gericht schüssel suppe topf mit essen
-🪜	hochsteigen holzleiter klettern leiter sprosse stufe
-✅	abgehakt erledigt weißes häkchen
-📑	notizen pagemarker
-👣	abdruck auf dem weg fuß fußabdruck fußabdrücke
-👀	auge augen gesicht gucken schauen sehen
-🤸	akrobatik bodenturnen gymnastik person rad schlagen schlagende radschlag sport turner turnerin
-⭕	großer kreis hohler roter o rot
-😆	augen geschlossen gesicht grinsegesicht grinsen haha hehe hihi lachen lol lustig mund offen smiley witzig zugekniffen zusammengekniffen
-🔄	gegen den uhrzeigersinn kreisförmige pfeile
-🟢	form grün grüne scheibe grüner kreis punkt
-🧗	bergsteiger bergsteiger(in fels kletterer klettern person sport
-🌟	funkeln funkelnder stern glitzern
-🤧	erkältet erkältung gesicht gesundheit grippe hatschi krank nase niesen putzen smiley taschentuch
-🔛	anschalten ein-zeichen einschaltem on!-pfeil pfeil rechts und links
-🪫	akku fast leer aufladen batterie elektronik ladestand niedriger akkustand schwache schwacher
-⏰	uhr uhrzeit wecker zeit
-🥕	gemüse karotte möhre mohrrübe
-➿	blau doppelschleife rechteck schleife
-🥂	anstoßen feier feiern getränk gläser prost sekt sektgläser
-🪲	insekt käfer krabbeltier minzkäfer tier wanze
-🩹	heftpflaster pflaster verletzt wunde
-🟧	form orange oranges quadrat viereck
-📍	anpinnen reißzwecke rund runde stecknadel
-😽	augen geschlossen gesicht katze katzengesicht kuss küsschen küsse küssen rot smiley tier wangen
-🐤	küken kükenkopf tier
-🤵	anzug bräutigam formell mann person im smoking vornehm
-🛼	rollen rollerskate rollschuh laufen schuh sport
-🧩	bestandteile hinweise hobby passen puzzeln puzzle puzzlestück puzzleteil puzzleteile spiel teile zusammenpassen zusammensetzen
-🛝	rutschbahn rutsche spielen spielplatz spielplatzrutsche vergnügungspark
-🔇	durchgestrichener lautsprecher leise psst stumm stummgeschaltet
-🏥	ambulanz arzt gebäude krank krankenhaus medizin notaufnahme
-🚔	polizei polizeiwagen von vorne streifenwagen vorderansicht
-💶	euro euro-banknote euroschein geld geldschein
-🥭	essen frucht früchte mango obst shaker tropisch
-🫂	abschied danke drücken drücker freundschaft hallo liebe sich umarmende personen tschüss umarmung
-🔳	quadrat quadratisch schaltfläche weiß weiße quadratische
-💹	diagramm markt steigende kurve mit yen-zeichen steigender trend
-🧺	bauernhof korb landwirtschaft picknick tragekorb wäsche wäschekorb
-😖	bestürzt frustriert gesicht konfus smiley verwirrt verzweifelt
-🔐	datenschutz privat schloss mit schlüssel sicherheit
-🈯	finger japanisches schriftzeichen reserviert für „finger“ „reserviert“
-🏦	bank gebäude geld
-🍧	eis sorbet wassereis zerstoßen
-🧍	mensch person stand stehen stehende
-🟠	form kreis orange scheibe oranger punkt
-⛔	einbahnstrasse kein zutritt keine durchfahrt verboten zutritt-verboten-schild
-✊	erhoben faust hand kampf solidarität
-🌜	gesicht mondsichel mit rechts nacht
-😹	freude freudentränen gesicht katze katzengesicht lachen smiley tier tränen
-🧾	abrechnung aufstellung beleg blatt buchhalter buchhaltung quittung rechnung rechnungswesen schriftstück
-🪩	disco discokugel lichtreflexe party spiegel spiegelkugel tanz tanzen
-🏇	jockey auf pferd pferderennen schnell sport um die wette wetten
-👦	enkelsohn gesicht jung junge jünger kind munter sohn strahlend
-🏸	badminton federball schläger
-🥜	erdnuss essen
+🧑‍🧑‍🧒‍🧒	erwachsene erwachsener familie kind
+🍾	champagner flasche mit knallendem korken getränk getrank knallen sekt trinken
+🉑	akzeptieren japanisch schriftzeichen
+👩‍🔧	elektrikerin frau handwerkerin klempnerin mechanikerin
 📱	handy iphone mobiltelefon smartphone telefonieren
-🕎	leuchter menora religion
-🚙	auto blau fahren verreisen wohnmobil
-🖤	böse herz schwarz schwarzes
-🪬	amulett auge in offener hand fatima glückssymbol hamsa jüdisch maria muslimisch schutz
-🚴	fahrrad person rad radeln radfahren radfahrer radfahrer(in radfahrerin sport tour de france
-🍷	alkohol bar glas wein weinglas
-💊	arznei arzt kapsel medizin pille tabletten
-🍀	blatt glück glücksklee klee kleeblatt pflanze silverster vier vierblättrig vierblättriges
-🪌	ausradieren bleistift fehler radieren radierer radiergummi ratzefummel wegradieren
-😷	arzt atemschutzmaske bazillen erkältet gesicht krank krankheit mund mundschutz schutzmaske smiley viren virus
-📆	abreißkalender datum kalender termin
-🙉	affe affengesicht böse geheimnis gemein geste hören nein ohren tier verboten zuhalten zuhören
-💱	geld geldwechsel währung wechsel
-🩻	durchleuchten knochen medizin radiologie rippen röntgen röntgenbild röntgenstrahlen skelett
-🏠	gebäude haus zuhause
-📙	buch orangefarben orangefarbenes
-🥔	essen gemüse kartoffel
-💮	blume blumenstempel
-🥌	curlingstein spiel sport stein
-💩	kot kothaufen mist
-🍳	braten bratpfanne kochen pfanne spiegelei in
-🦈	fisch hai haifisch meer tier
-🌼	blume blüte gelbe pflanze
-😜	auge gesicht herausgestreckt herausstrecken smiley zudrücken zugedrückt zunge zwinkern
-🪁	drachen fliegen hochfliegen steigen wind
-⛎	schlagenträger schlangenträger sternbild
-🍾	champagner flasche mit knallendem korken getränk knallen sekt trinken
-🧇	essen lebensmittel nahrung waffel mit butter
-🛞	autorad autoreifen drehen rad reifen mit felgen rotieren
-📜	papier schriftrolle
-🧎	fersensitz knien kniend kniende person meditation meditieren mensch seiza zazen
-🌕	mond vollmond
-💽	md minidisc minidisk
-💙	blau gefühl herz liebe romantisch
-📏	lineal
-🥡	chinesisches essen stäbchen takeaway-box takeaway-schachtel
-🕔	05:00 17:00 5 5:00 uhr punkt fünf zeit ziffernblatt 5.00
-🤩	aufgeregt augen gesicht grinsen smiley star stern überwältigt wow
-🟦	blau blaues quadrat viereck form
-🐍	schlange schlangenträger sternzeichen tier tierkreis
-🐉	chinesisch neujahr drache märchen tier
-🪎	beute edelstein geld gold juwelen preis reichtum silber wertgegenstände
-💯	100 punkte punktestand volle punktzahl
-🌝	gesicht vollmond mit
-♏	horoskop skorpion sternzeichen
-🪞	holzspiegel reflexion spiegel spiegelbild wandspiegel
-💅	kosmetik maniküre nagel nagellack nagelpflege
-🫫	spannung verwandlung widerstandsfähig zerbrechend zerfallend
-🈁	„koko“ japanisches schriftzeichen
-🍵	getränk grüner tee oolong schale teetasse ohne henkel
-⏳	laufende sanduhr prozess vorgang läuft
-🌙	mond mondsichel nacht
-🤭	gesicht haha hand hihi huch kichern lachen mund rot smiley verlegen wangen
-🥗	blattgemüse essen gesund grün salat
-🈹	japanisches schriftzeichen rabatt für „rabatt“ „teilen“ teilen
-🔔	ding dong glocke klingeling ton eingeschaltet
-🦹	böse bösewicht bösewichtin krimineller person schurke schurkin superkräfte superschurke superschurkin verbrecher
-🙎	eingeschnappt enttäuscht jammerd jammern person schmollen schmollend verärgert
-🫴	anbieten angebot darbieten einladen entgegenstrecken hand handfläche handgeste kommen locken oben reichen
-👨‍🦽	barrierefreiheit behinderung mann in manuellem rollstuhl mensch person
-🙇	bedauern bitten demut entschuldigung geste kniefall meditation meditieren person sorry unterwerfen verbeugen verzeihung
-🔈	eingeschaltet lautsprecher mit geringer lautstärke ton an
-🍋‍🟩	cocktail essen frucht limette obst saft sauer tequila tropisch zitrusfrucht
-🪖	armee heer helm kämpfer kämpferin krieg militär militärhelm schutzhelm soldat soldatin
-🪰	fliege fliegen insekt krankheit made mücke plage schmeißfliege tier verwesen
-👧	enkeltochter gesicht jung jünger kind mädchen munter strahlend tochter
-🍂	blatt blätter fallendes laub herbst pflanze
+👩‍💼	angestellte büro buro büroangestellte buroangestellte frau managerin mangerin
+👽	alien all außerirdisch außerirdische außerirdischer fantasy gesicht märchen marchen monster ufo weltraum wesen
+🍍	ananas frucht obst
+😊	augen erröten erroten freude freundlich gesicht glücklich glucklich lächeln lacheln lachen rot wangen
+🛸	alien außerirdisch fliegende untertasse ufo
+♿	barrierefrei behindertengerecht rollstuhl symbol „rollstuhl“
+🪆	babuschka matrioschka matrjoschka matroschka puppe russland spielzeug
+👈	finger handrückseite handruckseite links weisen zeigefinger zeigen
+🐤	küken kuken kükenkopf kukenkopf tier
+🍬	bonbon süß süßigkeit
+👨‍🍳	koch kochen restaurant
+😣	ausdauernd durchhalten fokus gesicht konzentration konzentrieren kopfschmerzen
+🫯	handgemenge kampf krawall prügelei prugelei rauferei schlägerei schlagerei streit wortgefecht
+🥂	anstoßen feier feiern getränk getrank gläser glaser prost sekt sektgläser sektglaser
+🤜	faust hand nach rechts
+🎽	laufen laufshirt mit schärpe scharpe sport
+🎎	japanische puppen puppenfest japan
+📺	fernsehen fernseher film tv
+🌜	gesicht mondsichel mit rechts nacht
+👀	auge augen gesicht gucken schauen sehen
+🫖	getränk getrank kanne lebensmittel tee brühen bruhen teekanne teekrug trinken
+🦚	bunt pfau stolz stolzieren tier vogel
+🫧	blasen perlen reinigen schaum schweben seife seifenblasen unter wasser wasserblasen
+📑	notizen pagemarker
+👡	damen damensandale sandale schuh
+💺	bus flugzeug sitz sitzplatz zug
 🍝	essse nudeln mit tomatensoße pasta restaurant spaghetti
-🧑‍🦼	barrierefreiheit person in elektrischem rollstuhl
-🏂	snowboard snowboarden snowboarder snowboarder(in snowboarderin sport
-🏬	einkaufen gebäude geschäft kaufhaus shoppen
-🤾	handball handballer handballerin handballspieler handballspieler(in handballspielerin person schleudern sport sportler werfen
-🌳	baum blätter grün laub laubbaum pflanze wald
-🏐	ball sport volleyball
-🧴	creme feuchtigkeitscreme feuchtigkeitsmilch haarwaschmittel körpercreme lotion nachtcreme shampoo sonnencreme
-💨	comic rennen staubwolke weglaufen
+🚿	dusche duschkopf
+🦜	ausplaudern papagei pirat plappern sprechen tier vogel wiederholen
+🪯	deg tegh fateh glaube khalsa khanda khanda-emblem religion schwert sikh sikhismus
+🏣	japan japanisches postgebäude postgebaude post
+🏭	fabrik fabrikgebäude fabrikgebaude gebäude gebaude
+🤍	herz weiß weißes
+🥢	chinesisches essen essstäbchen essstabchen hashi japanisches stäbchen stabchen
+🏥	ambulanz arzt gebäude gebaude krank krankenhaus medizin notaufnahme
+🙈	affe affengesicht augen böse bose geheimnis gemein geste nein omg sehen tier verboten vergessen verstecken zuhalten
+🐱	gesicht katze katzengesicht miau miez miezekatze tier
+🪁	drachen fliegen hochfliegen steigen wind
+🤖	gesicht monster roboter robotergesicht roboterkopf
+🫄	aufgebläht aufgeblaht bauch dick dicker person schwanger schwangere schwangerschaft überfressen uberfressen zu viel gegessen
+🔑	passwort schließen schlüssel schlussel
+🤡	clown clown-gesicht gesicht
+🫍	meer meeressäuger meeressauger meerestier orka ozean wal
+🐹	gesicht hamster hamstergesicht tier
+🥟	chinesische teigtasche dumpling empanada essen gyōza gyoza jiaozi kloß pierogi potsticker
+🔪	küchenmesser kuchenmesser messer schneiden
+👙	badeanzug bikini kleidung
+🚸	kinder überqueren uberqueren die straße kinder-queren-die-straße-schild straßenschild vorsicht
+◾	mittelkleines schwarzes quadrat schwarz
+🫎	elch geweih säugetier saugetier tier
+🫳	abweisen fallen lassen fallenlassen hand handfläche handflache handgeste hau ab unten verscheuchen wegscheuchen wegschicken
+🎵	lied melodie musik musiknote note
+🚷	fußgänger verboten fußgänger-verboten-schild
+🦫	biber biberschwanz biberzahn damm natur otter tier
+🦪	auster meer muschel perle tauchen tier
+🛌	bett gute nacht heia im liegende person müde mude nachtruhe schlaf schön schon schlafen zzz
+🎹	instrument klaviatur klavier musik musikinstrument piano tastatur tasten
+🫩	augenringe erschöpft erschopft gesicht müde mude schläfrig schlafrig smiley übermüdet ubermudet
+🥨	brezel brezen brezn essen gedreht oktoberfest
+🦅	adler tier vogel
+💐	blumen blumenstrauß bouquet
+👜	accessoire einkaufen handtasche tasche
+🈳	chinesisches schriftzeichen japanisches leer für fur „leer“ „zimmer frei“ zimmer frei
+🐟	aquarium fisch fische meehr sternzeichen tier tierkreis
+🫁	atem atmen ausatmen einatmen körper korper körperteil korperteil lunge lungenflügel lungenflugel mensch organ
+👨‍🎤	mann mikrofon popstar sänger sanger schauspieler
+🛖	behausung gebäude gebaude haus hütte hutte jurte objekt rundhaus schutz
+🍀	blatt glück gluck glücksklee glucksklee klee kleeblatt pflanze silverster vier vierblättrig vierblattrig vierblättriges vierblattriges
+🪕	banjo instrument musik saiteninstrument zupfinstrument
+😌	augen entspannt erleichtert geschlossen gesicht smiley zen zufrieden
+🐺	gesicht tier wolf wolfsgesicht
+🦣	aussterben groß mammut natur stoßzahn tier wollig
+🦆	ente tier vogel
+🦢	hässliches hassliches entlein schwan tier vogel
+🛷	rodel rodeln schlitten schnee
+😍	augen gesicht glücklich glucklich herzen herzförmig herzformig lächeln lacheln liebe smiley verliebt
+🌓	halbmond mond zunehmend zunehmender
+🪣	behälter behalter bottich eimer kübel kubel wassereimer
+👾	computerspiel-monster gesicht monster ufo
+🔔	ding dong glocke klingeling ton eingeschaltet
+🩳	badebekleidung badehose boxershorts kleidung schwimmshorts shorts
+🖖	finger gruß grüßen hand hände hande spreizen
+👯	bunny bunnys doppelt hasenohren leute party person personen mit seelenverwandt tanzen tänzerinnen tanzerinnen zwillinge
+🥌	curlingstein spiel sport stein
+🎺	instrument musik musikinstrument trompete
+🌑	mond neumond
+👆	aufwärts aufwarts finger handrücken handrucken handrückseite handruckseite hier hinauf melden oben rauf weisen zeigefinger zeigen
+🧑‍🌾	bauer/bäuerin farmer(in gärtner(in landwirt(in
+🥧	essen füllung fullung gebäck geback kuchen pastete torte
+📠	fax faxgerät faxgerat kommunikation
+😆	augen geschlossen gesicht grinsegesicht grinsen haha hehe hihi lachen lol lustig mund offen smiley witzig zugekniffen zusammengekniffen
+🧣	hals kalt kleidung schal warm anziehen
+🐖	bauernhof sau schwein tier
+🛜	computer drahtlos hotspot internet kabellos netzwerk router verbindung wi-fi wlan
+🍉	frucht melone obst wasser wassermelone
+🪮	afro pick haare haarkamm kamm kämmen kammen
+💠	diamant mit punkt rautenform
+🛹	board brett räder rader skateboard fahren skaten skater
+📲	anruf anrufen handy iphone kommunikation mobiltelefon mit pfeil whatsapp
+🚳	fahhrad fahrrad-verboten-schild fahrräder fahrrader verboten radfahren
+🤑	dollar dollarzeichen geld gesicht mund smiley zunge
+🚅	bahn hochgeschwindigkeitszug japan shinkansen zug
+📒	notizblock spiralblock
+🧂	gesalzen geschmack gewürz gewurz salz salzig salzstreuer würze wurze zutat
+🫪	angst ängstlich angstlich aufgedunsen besorgt panik panisch schockiert überrascht uberrascht
+🧞	aladdin aladin dschinn flaschengeist lampe person wunderlampe wünsche wunsche
+🍭	lolli lutscher süßigkeit
+🌳	baum blätter blatter grün grun laub laubbaum pflanze wald
+🚤	boot luxus schnellboot see sommer wasser yacht
+👵	alt älter alter erwachsen frau großeltern großmutter mensch oma seniorin weise
+🐈‍⬛	kater katze miau pech schwarz schwarze schwarzer tier unglück ungluck
+🚉	bahn bahnhof zug
+🚐	bus fahrzeug kleinbus
+❔	frage fragezeichen satzzeichen warum weiß weißes
+🔐	datenschutz privat schloss mit schlüssel schlussel sicherheit
+👰	braut mit schleier gesicht hochzeit person
+🧠	gehirn hirn intelligent intelligenz klug schlau
+🔚	end-pfeil ende-zeichen links pfeil
+🥁	drumsticks instrument musik schlägel schlagel sticks trommel trommelstöcke trommelstocke
+🛶	boot kanu wassersport
+😨	angst ängstlich angstlich besorgt gesicht
+🥫	büchse buchse dose essen konserve
+🎈	ballon feier geburtstag luftballon
+🤏	betrag finger gering geste hand klein menge unbedeutend wenig wenig-geste winzig
+🐕‍🦺	assistenz assistenzhund barrierefreiheit behinderung hund tier
+🦑	kalmar tier tintenfisch
+🍹	bar cocktail exotisches getränk getrank
+🦂	horoskop skorpion sternzeichen tierkreis
+💴	geld geldschein yen yen-banknote
+🫹	daumen nach links geschlossene finger neutral zeigen
+➖	- − mathe minus minuszeichen
+🚏	bus bushaltestelle haltestelle
+🎱	8-ball billard billardkugel kugel schwarz spiel
+🥡	chinesisches essen stäbchen stabchen takeaway-box takeaway-schachtel
+🪳	insekt käfer kafer kakerlake krabbeln krabbeltier küchenschabe kuchenschabe la cucaracha schabe tier
+🔜	bald-zeichen pfeil rechts soon-pfeil
+🏪	einkaufen gebäude gebaude geschäft geschaft lebensmittel minimarkt
+🍊	apfelsine frucht mandarine obst orange vitamin
+👑	könig konig königin konigin kopfbedeckung krone majestät majestat
+🕖	7 7:00 uhr ziffernblatt 7.00
+💟	deko emotion gefühl gefuhl herz herzdekoration liebe lila violett weiß
+🚱	kein trinkwasser verboten verschmutzt wasser
+👣	abdruck auf dem weg fuß fußabdruck fußabdrücke
+🍅	essen gemüse gemuse obst tomate
+📰	medien nachrichten presse zeitung
+🟢	form grün grun grüne grune scheibe grüner gruner kreis punkt
+🚆	bahn eisenbahn ice zug
+⚪	ball großer weißer kreis punkt weiß
+🪞	holzspiegel reflexion spiegel spiegelbild wandspiegel
+🐈	haustier katze miau tier
+🦒	flecken giraffe tier
+🌾	ähre ahre pflanze reis reisähre reisahre reispflanze
+📎	büroklammer buroklammer
+🐎	pferd rennen rennpferd tier
+🪉	amor cupido harfe instrument liebe musik orchester
+🎊	feier konfetti konfettiball party
+⏬	doppelpfeil doppelpfeile nach unten doppelt abwärts abwarts pfeil
+🧳	ballast gepäck gepack hartschalenkoffer koffer reise trolley-tasche
 🪱	insekt natur parasit regenwurm ringelwurm tier wurm
-🫕	essen fondue geschmolzen käse schokolade schweizerisch topf
-🕧	00:30 12:30 halb eins uhr zeit ziffernblatt 12.30
-🥣	brei cerealien essen frühstück haferbrei reisbrei schüssel mit löffel suppe
+🍸	bar cocktail cocktailglas drink martini
+🏫	gebäude gebaude schule schulgebäude schulgebaude
+🧑‍🦯	barrierefreiheit blind person mit blindenstock langstock
+🫔	burrito eingewickelt essen lebensmittel mexikanisch streetfood tamale wrap
+🥦	broccoli brokkoli essen gemüse gemuse gemüsekohl gemusekohl kohl
+💂	bärenfellmütze barenfellmutze buckingham palace gesicht london wache wachfrau wachmann wachsoldat wachsoldatin wächter wachter
+🧴	creme feuchtigkeitscreme feuchtigkeitsmilch haarwaschmittel körpercreme korpercreme lotion nachtcreme shampoo sonnencreme
+🚙	auto blau fahren verreisen wohnmobil
+🫃	aufgebläht aufgeblaht bauch dick person schwanger schwangerer mann überfressen uberfressen zu viel gegessen
+🔽	abwärts abwarts abwärts-schaltfläche nach unten pfeil schaltfläche schaltflache
+🍱	bento bento-box japanisches essen sushi
+🏈	american football amerika ball sport super bowl
+🪻	blaue wiesenlupine blühen bluhen blume blüte blute frühling fruhling hyazinthe lavendel lila löwenmaul lowenmaul lupine pflanze violett
+😧	arm gesicht leidend qualvoll smiley vergessen wow
+🤔	fragen gesicht grübeln grubeln hm komisch nachdenken nachdenklich smiley wundern
+👩‍🍼	baby eltern flasche geben gebende frau füttern futtern mama milch mutter neugeborenes person säugling saugling
+🛝	rutschbahn rutsche spielen spielplatz spielplatzrutsche vergnügungspark vergnugungspark
+👷	arbeit bau bauarbeiter bauarbeiter(in bauarbeiterin beruf gesicht helm person schutzhelm umbauen
+🪒	klinge rasieren rasierer rasiermesser scharf
+🕔	05:00 17:00 5 5:00 uhr punkt fünf funf zeit ziffernblatt 5.00
+🪬	amulett auge in offener hand fatima glückssymbol gluckssymbol hamsa jüdisch judisch maria muslimisch schutz
+🧻	hygiene klopapier küchenrolle kuchenrolle papierrolle papiertücher papiertucher toilette toilettenpapier wc wc-papier
+🕜	1 uhr 30 1:30 halb zwei ziffernblatt 1.30
+🆕	neu new wort „new“ in blauem quadrat
+🏆	bundesliga champion gewinnen pokal preis sieger sport trophäe trophae
+🐗	eber schwein tier wildschwein
+📊	balken balkendiagramm diagramm
+🤒	fieber gesicht krank messen smiley thermometer
+🫢	augen erschrecken erstaunen furcht geschockt gesicht hand mund offen omg schock smiley überraschung uberraschung unglauben verlegenheit
+🖕	finger hand mittelfinger
+💹	diagramm markt steigende kurve mit yen-zeichen steigender trend
+🟤	braun braune scheibe brauner kreis punkt form
+👅	ätsch atsch hmm körperteil korperteil lecken lecker mmh zunge
+🪧	ankündigung ankundigung bekanntmachung demonstration hinweis mahnwache plakat protest protestschild schild
+🧹	besen fegen hexe hexenbesen kehren reinigen sauber machen säubern saubern
+🐩	hund pudel tier
+🔥	brennen feuer flamme heiß
+💙	blau gefühl gefuhl herz liebe romantisch
+🤳	selfie smartphone
+👞	gehen herren herrenschuh schuh
+👥	büsten busten personen silhouette mehrerer
+🤸	akrobatik bodenturnen gymnastik person rad schlagen schlagende radschlag sport turner turnerin
+😓	angstschweiß augen bedrückt bedruckt geschlossen gesicht kopfschmerzen schweiß smiley
+🐮	gesicht kuh kuhgesicht tier
+♋	krebs sternzeichen
+👨‍🌾	ähre ahre bauer farmer gärtner gartner landwirt rancher
+🤚	erhoben erhobene hand von hinten erhobener handrücken handrucken
+🌊	meer welle
+🪦	friedhof grab grabstein rip tot
+🚻	toilette toiletten wc
+👨‍🏫	dozent lehrer mann professor tafel
+🔌	netzstecker stecker stromstecker
+🔤	abc alphabet buchstaben eingabe eingabesymbol lateinisch symbol
+👄	körperteil korperteil kuss lippen lippenstift mund
+🙄	augen genervt gesicht meinetwegen nerv ohje rollen smiley verdrehen verrollen
+🌐	breitengrad globus mit meridianen längengrad langengrad
+🐻	bär bar bärengesicht barengesicht gesicht tier
+👚	bluse damenmode kleidung oberbekleidung shirt
+🔋	akku batterie
+🕛	0 uhr 12 12:00 mittag mitternacht ziffernblatt 12.00 zwölf zwolf
+💁	abgekippt beleidigen gerüchte geruchte geste hand klatsch klatschen person sarkasmus sarkastisch tratsch tratschen
+🧮	abaki abakus abakusse berechnung kalkulation mathe mathematik rechenhilfe rechenrahmen rechenschieber rechnen zählen zahlen zählrahmen zahlrahmen
+🧪	chemie chemikalie chemiker experiment labor reagenzglas substanz versuche wissenschaft
+🏒	eishockey eishockey-schläger und puck hockey schläger schlager
+😀	froh fröhlich frohlich gesicht grinsen haha lachen lol lustig smiley
+🎭	kunst masken theater unterhaltung
+🐑	bock mäh mah schaf tier widder wolle
+🧇	essen lebensmittel nahrung waffel mit butter
+🍲	eintopf gericht schüssel schussel suppe topf mit essen
+🚁	fliegen helikopter hubschrauber reisen
+🧓	alt älter alter erwachsen großeltern mensch person weise
+🫴	anbieten angebot darbieten einladen entgegenstrecken hand handfläche handflache handgeste kommen locken oben reichen
+⛳	golffahne golfplatz
+🥖	baguette brot französisch franzosisch frühstück fruhstuck
+🍛	curry reis mit
+🥜	erdnuss essen
+🍈	cantaloupe frucht honigmelone melone obst
+🤥	gesicht lüge luge nase pinocchio schwindel
+🤿	schnorcheln schwimmen sport sporttauchen tauchen tauchmaske
+😎	cool gesicht lächeln lacheln smiley sonnenbrille
+💑	frau herz liebe liebespaar mann paar
+🚖	auto fahren gelb taxi von vorne vorderansicht
+🙏	beten betend bitten danke danken gebet gefaltet grüßen handflächen handflachen zusammengelegt
+🦔	igel stachelig stacheln tier
+😬	gesicht grimasse peinlich schneiden smiley verziehen zähne zahne
+🏠	gebäude gebaude haus zuhause
+🗻	berg fuji vulkan
+🐕	haustier hund tier wau wuff
+🐥	geflügel geflugel küken kuken in frontansicht von vorne tier
+🦏	nashorn rhinozeros tier
+🧤	hand handschuh handschuhe
+😹	freude freudentränen freudentranen gesicht katze katzengesicht lachen smiley tier tränen tranen
+🥴	angeheitert angeschwipst angetrunken benebelt berauscht beschwipst betrunken gewellt mund schwindelig schwindlig smiley
+➰	schleife
+🚄	hochgeschwindigkeitszug mit spitzer nase ice shinkansen tgv zug
+🐔	geflügel geflugel henne huhn tier tierkopf
+🤼	catchen catcher person ringen ringer ringer(in ringkampf sport sportler wrestler wrestling
+🍚	essen reis in schüssel schussel
+🏯	bauwerk gebäude gebaude japan japanisch japanisches schloss
+🩲	badeanzug einteiler kleidung slip unterwäsche unterwasche
+🦺	kleidung notfall sicherheit sicherheitsweste weste
+🔹	blau kleine blaue raute
+🔊	dezibel laut lautsprecher mit drei schallwellen hoher lautstärke lautstarke musik
+🫝	eingelegt essig gewürzgurke gewurzgurke gurke saure
+🧑‍🔬	forscher(in labor wissenschaftler(in
+🕺	elegant festlich flair flamenco mann salsa schwung tango tanz tanzen tänzer tanzer
+🧙	hexe hexenmeister magier magier(in magiker person zauberer zauberin zaubern zauberspruch zauberstab
+🥄	besteck löffel loffel
+🦃	geflügel geflugel pute thanksgiving truthahn
+🤵	anzug bräutigam brautigam formell mann person im smoking vornehm
+💈	barbershop-säule friseur herrenfriseur säule saule
+🌏	asien australien erde globus mit und weltkugel
+🎿	ski und stöcke stocke
+👩‍🔬	forscherin frau labor wissenschaftlerin
+👨‍🏭	fabrik fabrikarbeiter helm
+🫛	bohne edamame erbse erbsen erbsenschote essen gemüse gemuse hülsenfrucht hulsenfrucht hülsenfrüchte hulsenfruchte schote
+🔃	im uhrzeigersinn kreisförmige kreisformige pfeile
+🚡	bergseilbahn gondel seilbahn
+🐧	pinguin pinguinkopf tier vogel
+🚼	baby symbol „baby“ wickelraum
+💃	elegant festlich flair flamenco frau salsa schwung tango tanz tanzen tänzerin tanzerin
+👨‍🎓	absolvent diplom doktorhut student uni
+🌍	afrika erde europa globus mit und weltkugel
+🏴	fahne schwarze flagge wehen wehende
+🔵	ball blau blauer punkt großer kreis
+📡	antenne sat-schüssel satellitenschüssel satellitenschussel satschüssel satschussel schüssel schussel
+📝	bleistift kurzmitteilung nachricht notiz papier und schreibblock schreiben
+🐯	gesicht raubkatze tier tiger tigergesicht
+👦	enkelsohn gesicht jung junge jünger junger kind munter sohn strahlend
+📤	ablage e-mail postausgang
+🥃	bar schnaps trinkglas whiskey
+🐢	schildkröte schildkrote tier
+🎁	feier geburtstag geschenk schachtel schleife überraschung uberraschung verpackt weihnachten
+👺	gemein gesicht japan japanisch kobold märchen marchen maske monster tengu ungeheuer wütend wutend
+🧑‍🚀	astronaut(in raumfahrt weltraum
+👬	händchen handchen halten haltende männer manner paar pärchen parchen aus mann und zwillinge
+♓	fische sternzeichen horoskop
+🐪	dromedar einhöckrig einhockrig kamel tier wüste wuste
+🦗	grashüpfer grashupfer grille heuschrecke insekt tier zikade
+🛑	achteckig schild stopp stoppschild
+🪽	engel engelsflügel engelsflugel federn fliegen flug flügel flugel himmlisch mythologie vogel
+🚰	trinkwasser wasser wasserhahn
+🥗	blattgemüse blattgemuse essen gesund grün grun salat
+🍃	blatt blätter blatter im wind laub pflanze
+🥚	ei frühstück fruhstuck frühstücksei fruhstucksei
+🌯	burrito essen mexikanisch
+🚹	herren herrentoilette wc
+🐦‍🔥	asche fabelwesen fantasy feuer feuervogel phönix phonix reinkarnation tier vogel wiedergeburt
+🦝	klug neugierig schlau tier waschbär waschbar
+🔙	back-pfeil links pfeil zurück zuruck
+🚎	oberleitungsbus straßenbahn trolleybus
+⏩	doppelpfeil doppelpfeile nach rechts überspringen uberspringen vorwärts vorwarts weiter
+👻	buh fantasy geist gesicht gespenst gruselig halloween märchen marchen spuk zunge
+📼	vhs video videokassette
+🎇	feiern feuerwerk party wunderkerze
+📔	einband notizbuch mit dekorativem
+🕒	3 3:00 uhr zeit ziffernblatt 3.00
+🥾	brauner schuh campen camping kleidungsstück kleidungsstuck outdoor rucksacktour stiefel wandern wanderstiefel wanderung
+🍼	baby babyflasche fläschchen flaschchen flasche kind milch trinken
+📧	brief e-mail e-mail-symbol post
+🎫	konzert ticket unterhaltung
+💶	euro euro-banknote euroschein geld geldschein
+🌁	nebel neblig wetter
+🥛	getränk getrank glas milch trinken
+🤱	baby brust frau person stillen
+🦕	brachiosaurus brontosaurus dino dinosaurier diplodocus saurier sauropode
+📣	jubel lautsprecher megafon
+🦧	affe orang-utan tier
+📫	briefkasten e-mail geschlossen geschlossener mit post
+🌿	blätter blatter kräuter krauter pflanze
+🦈	fisch hai haifisch meer tier
+🥽	augenschutz brille schutzbrille schweißen schweißerbrille schwimmen tauchen taucherbrille
+🚧	baustelle baustellenabsperrung baustellenschild schild
+😼	gesicht grinsen ironisch katze katzengesicht lächeln lacheln lachen smiley tier verwegen
+🐝	biene honig honigbiene hummel insekt maja natur summ tier
+🧑‍🎨	farbpalette künstler(in maler(in
+🪚	handsäge handsage holz säge sage sägen sagen tischler trimmen werkzeug
+🧌	fantasy gruslig kobold märchen marchen monster ork troll ungeheuer
+🪜	hochsteigen holzleiter klettern leiter sprosse stufe
+🍢	japanisches gericht oden restaurant
+🎬	film filmklappe klappe unterhaltung
+🤝	hände hande händeschütteln handeschutteln handschlag vereinbarung
+🛄	gepäck gepack gepäckausgabe gepackausgabe
+💍	diamantring edelstein ring schmuck verlobung
+✅	abgehakt erledigt weißes häkchen hakchen
+💡	glühbirne gluhbirne hell idee lampe licht
+🤠	cowboy cowboyhut cowgirl gesicht hut smiley
+🔆	heller heller-taste helligkeit starke
+🩷	gefallen gefällt gefallt gefühl gefuhl herz liebe mag mögen mogen niedlich pink rosa süß verliebt
+🧥	brr jacke kalt kleidung mantel warm anziehen
+🚥	ampel horizontale verkehrsampel vertikal
+🏀	ball basketball korb sport
+🚃	eisenbahnwagen fahrzeug straßenbahn straßenbahnwagen tram wagen waggon wagon zug
+🥍	ball lacrosse schläger schlager sport stick stock tor
+🏓	ball ping pong schläger schlager spiel sport tischtennis
+🫚	gesund gewürz gewurz ginger ale ingwer ingwerbier scharf wurzel würzig wurzig
+🪨	felsen felsig hart natur schwer stein steinig
+🎐	bimmel feier glocke japanisches windspiel wind
+🥤	becher mit strohhalm brause erfrischung saft selters soda trinken trinkhalm wasser
+🙍	frustriert gesicht missmutig person runzeln stirnrunzelnd unzufrieden verärgert verargert
+🩶	emotion grau graues herz hdl liebe schieferfarben silber silberfarben
+🪏	graben loch schaufel schippe spaten
+🔅	dimmen gedimmt helligkeit schwache taste
+🦀	krabbe krebs meer sternzeichen strand tierkreis
+🍌	banane frucht obst schale
+👨‍🔧	elektriker handwerker klempner mann mechaniker
+🔯	hexagramm mit punkt wahrsager
+🧑‍🏭	arbeiter(in fabrik fabrikarbeiter(in industriell montage
+🎑	japan mond mondfest traditionelles
+🏩	gebäude gebaude hotel liebe stundenhotel unterkunft
+🏐	ball sport volleyball
+📬	briefkasten e-mail offen offener mit post
+📐	dreieckiges lineal geodreieck
+🪟	aussicht durchsichtig fenster fensterrahmen frische luft glas haus lüften luften öffnung offnung rahmen
+👨‍🔬	chemie forscher labor wissenschaftler
+🍆	aubergine gemüse gemuse
+🪤	anlocken falle käse kase maus mausefalle mäusefalle
+👩	erwachsen frau gesicht
+🐭	gesicht maus mäusegesicht mausegesicht mausgesicht nagetier tier
+🍻	anstoßen bier bierkrüge bierkruge oktoberfest prosit prost weizen
+🧝	elbe elben elbin elf elf(e elfe fantasy herr der ringe magie magisch person
+😙	augen flirten gesicht knutsch kuss küssen kussen lächeln lacheln smiley
+🐘	elefant tier
+❕	ausrufezeichen muss satzzeichen weiß weißes
+🤧	erkältet erkaltet erkältung erkaltung gesicht gesundheit grippe hatschi krank nase niesen putzen smiley taschentuch
+🦤	aussterben dodo dronte groß mauritius natur tier vogel
+➕	+ addieren mathe plus pluszeichen
+🈴	bestanden bestehen chinesisches schriftzeichen japanisches für fur „note zum bestehen“ „zusammen“ zusammen
+🥺	anflehen augen betteln bettelnd bitte bitten flehend gesicht groß kulleraugen smiley traurig welpenaugen
+🧱	bauen grenze klinker mauer mauerwerk mörtel mortel wand ziegel ziegelstein ziegelsteine zugemauert
+🟧	form orange oranges quadrat viereck
+🛒	einkaufen einkaufswagen
+🥯	bäckerei backerei backwaren bagel brötchen brotchen essen frühstück fruhstuck pausenbrot
+💯	100 punkte punktestand volle punktzahl
+🎢	achterbahn freizeitpark volksfest
+🆖	großbuchstaben ng in blauem quadrat
+🌱	junge pflanze spross
+👍	daumen hoch einverstanden finger gut hand in ordnung jawohl klar klasse like nach oben ok super top
+🙁	betrübt betrubt gesicht schade smiley traurig
+🐠	fisch tier tropenfisch
+🎀	feier geschenk pink rosa schleife
+🏦	bank gebäude gebaude geld
+🔴	ball punkt rot roter
+🟰	gleich gleichheit gleichheitszeichen extrafett ist mathematik vergleichszeichen
+🛕	gebäude gebaude hindu hindutempel tempel
+🚚	lastwagen lieferwagen lkw
+🌻	blume blüte blute pflanze sonne sonnenblume
+🤎	braun braunes herz
+🐷	gesicht schwein schweinegesicht tier
+💣	bombe comic dynamit explodieren
+🚠	bergschwebebahn schwebebahn
+🟨	form gelb gelbes quadrat viereck
+🕤	9:30 uhr halb zehn zeit ziffernblatt 9.30
+✋	5 erhoben halt hand handfläche handflache high five schlag ein stopp warte
+🤛	faust hand nach links
+🈸	anwenden chinesisches schriftzeichen japanisches für fur „anwenden“
+🌺	blume blüte blute hibiskus pflanze rosa
+🧁	bäckerei backerei cupcake dessert essen gebäck geback kalorienbombe konditorei muffin nachspeise streusel süß zucker
+✊	erhoben faust hand kampf solidarität solidaritat
+👭	frauen händchen handchen halten haltende paar pärchen parchen aus frau und
+🌂	geschlossener regenschirm regen
+🍺	bar bier bierkrug krug oktoberfest prost weizenbier
+🌉	brücke brucke vor nachthimmel golden gate nacht nachts
 🍞	brot brotlaib essen kohlenhydrate laib toast weißbrot weizen
 🌚	gesicht mond mondgesicht neumond mit
-🦨	skunk stinken stinktier tier
-🚹	herren herrentoilette wc
-🪅	feier hau drauf mexikanisch mexiko objekt party pinada pinata piñata süß süßigkeiten
-🪢	achterknoten binden knoten schnur schnürsenkel seemansknoten segelboot segeln seil verknoten zusammendrehen
-🫢	augen erschrecken erstaunen furcht geschockt gesicht hand mund offen omg schock smiley überraschung unglauben verlegenheit
-🎻	geige instrument musik musikinstrument violine
-🛫	abflug fliegen flughafen flugzeug start eines flugzeugs
-💐	blumen blumenstrauß bouquet
-👎	daumen runter hand nach unten schlecht
-🤟	drei finger geste hand hdl ich-liebe-dich-geste liebe
-♋	krebs sternzeichen
-🦸	held person superheld superheld(in superheldin superkraft superkräfte superman übermensch umhang
-👏	applaudieren applaus beifall gratulation großartig gut hand hände klatschen klatschend toll
-🧚	elf elfe fantasy fee flügel geflügelt märchen märchenfee mystisch person wesen
-🏢	bürogebäude hochhaus
-🧻	hygiene klopapier küchenrolle papierrolle papiertücher toilette toilettenpapier wc wc-papier
-🔅	dimmen gedimmt helligkeit schwache taste
-🆓	free wort „free“ in blauem quadrat
-🪛	schraube schrauben schraubendreher schraubenzieher werkzeug
-📖	bibliothek blättern buch geöffnet lernen lesen offen offenes seite
-🍬	bonbon süß süßigkeit
-🃏	joker jokerkarte spielkarte
-🧪	chemie chemikalie chemiker experiment labor reagenzglas substanz versuche wissenschaft
-🍟	fritten pommes frites
-🌏	asien australien erde globus mit und weltkugel
-🧵	faden nadel nähen nähfaden nähgarn rolle spule zwirn
-🆎	ab blut blutgruppe großbuchstaben in rotem quadrat negativ positiv
-👩‍🍼	baby eltern flasche geben gebende frau füttern mama milch mutter neugeborenes person säugling
-🕛	0 uhr 12 12:00 mittag mitternacht ziffernblatt 12.00 zwölf
-🍰	kuchen kuchenstück stück torte tortenstück
-🦩	bunt farbenfroh flamingo rosa tier tropen tropisch vogel
-😁	augen fröhlich gesicht grinsen happy lächeln lachen lustig smiley strahlen zähne
-⬛	großes schwarzes quadrat schwarz
-🪻	blaue wiesenlupine blühen blume blüte frühling hyazinthe lavendel lila löwenmaul lupine pflanze violett
-🖖	finger gruß grüßen hand hände spreizen
-🪍	einsammeln fangen herausholen keschern
-⌚	armbanduhr uhr zeit
-🐯	gesicht raubkatze tier tiger tigergesicht
-🚧	baustelle baustellenabsperrung baustellenschild schild
-🔵	ball blau blauer punkt großer kreis
-🌄	berge sonnenaufgang über bergen
-🚾	toilette wc
-📮	brief briefkasten post
-🦽	barrierefreiheit behinderung manueller rollstuhl
-🌁	nebel neblig wetter
-🫈	bigfoot fabelwesen gigant haarig kryptid riese sasquatch wald wilder mann woodwose yeti
-🦷	perlweiß weiß zahn zahnarzt zahnärztin zähne
-🪺	heim nest mit blauen eiern nestbau nisten vogelnest zuhause
-🐜	ameise insekt tier
-🔋	akku batterie
-🟡	form gelb gelbe scheibe gelber kreis punkt
-🌑	mond neumond
-😩	erschöpft fehlschlag gesicht hungrig müde nein smiley unglücklich
-🛒	einkaufen einkaufswagen
-🆗	großbuchstaben keycap ok okay taste tastenkappe
-🪝	angelhaken aufhaken aufhängen einhaken haken hängen metallhaken
-🥞	crepe eierpfannkuchen essen pfannkuchen
-💳	bankkarte ec-karte geldkarte guthaben karte kreditkarte
-🦗	grashüpfer grille heuschrecke insekt tier zikade
-🫛	bohne edamame erbse erbsen erbsenschote essen gemüse hülsenfrucht hülsenfrüchte schote
-🥧	essen füllung gebäck kuchen pastete torte
-🧸	bär kuscheltier plüschteddy plüschtier spielwaren spielzeug stoffbär stofftier teddy teddybär
-🧛	blutsauger dracula halloween person reißzähne untot untoter vampir zähne
-🟪	form lila quadrat viereck violett
-🐱	gesicht katze katzengesicht miau miez miezekatze tier
-🦺	kleidung notfall sicherheit sicherheitsweste weste
-🈴	bestanden bestehen chinesisches schriftzeichen japanisches für „note zum bestehen“ „zusammen“ zusammen
-🍏	apfel frucht gesund grün grüner obst
-🌠	himmel sternschnuppe
+🛟	leben retten lebensretter rettung rettungsring schwimmring sicherheit
+😗	flirten gesicht hdl knutsch kuss küssen kussen smiley xoxo
+🧑‍🚒	feuerwehrhelm feuerwehrmann/-frau
+👩‍💻	arbeit bildschirm büro buro computer entwickler entwicklerin frau it-expertin laptop office
+🪐	gasplanet himmelskörper himmelskorper planet ringplanet saturn
+🦴	hund hundeknochen kauknochen knochen skelett
+💽	md minidisc minidisk
+🕌	islam moschee moslem muslim religion
+🧑‍🍳	koch/köchin kochen
+🥣	brei cerealien essen frühstück fruhstuck haferbrei reisbrei schüssel schussel mit löffel loffel suppe
+👩‍🍳	kochen köchin kochin
+🚝	bahn einschienenbahn magnetschwebebahn monorail
+🔗	kettenglieder linksymbol verknüpfen verknupfen verknüpfung verknupfung verknüpfungssymbol verknupfungssymbol zwei ringe
+🔶	große orangefarbene raute orangefarben
+♏	horoskop skorpion sternzeichen
+🥘	essen paella pfannengericht reispfanne
+👏	applaudieren applaus beifall gratulation großartig gut hand hände hande klatschen klatschend toll
+🥒	essen gemüse gemuse gurke scheiben
+🎍	japan neujahrsfest piniendekoration
+🎩	hut kopfbedeckung unterhaltung zauberer zylinder zylinderhut
+📹	filmen videokamera videos
+🫟	farbe fleck holi klecks spritzer tinte
+🫡	aye gesicht jawohl jawoll militär militar ok respekt salutieren smiley zu befehl
+🔕	durchgestrichene glocke kein ton leise ausgeschaltet
+🤮	brechen erbrechen gesicht kotzen krank schlecht smiley speien spucken übel ubel übergeben ubergeben
+🥎	ball baseball handschuh softball sport unterarm werfen
+🆑	cl großbuchstaben in rotem quadrat
+➿	blau doppelschleife rechteck schleife
+🧵	faden nadel nähen nahen nähfaden nahfaden nähgarn nahgarn rolle spule zwirn
+🦭	meer ozean robbe seehund seelöwe seelowe tier
+📌	anpinnen reißzwecke
+🧭	himmelsrichtung kompass magnetisch navigation orientierung richtung windrose
+💘	herz mit pfeil liebe
+🏇	jockey auf pferd pferderennen schnell sport um die wette wetten
+😶	gesicht kein mund ohne smiley sprachlos
+🍦	eis softeis
+😘	flirten gesicht kuss küsschen kusschen küssen kussen lieb smiley zuwerfen
+🦓	streifen tier zebra
+🥋	judo kampfkunst kampfsport kampfsportanzug karate taekwondo
+😄	augen fröhlich frohlich geschlossen gesicht glücklich glucklich grinsen lächeln lacheln lachen lol lustig mund offen smiley witzig
+🔝	pfeil nach oben top-pfeil top-zeichen
+🧋	blase bubble tea essen getränk getrank lebensmittel milch perle taiwan tee
+🧸	bär bar kuscheltier plüschteddy pluschteddy plüschtier pluschtier spielwaren spielzeug stoffbär stoffbar stofftier teddy teddybär teddybar
+📪	briefkasten geschlossen geschlossener ohne post keine e-mail
+🛗	aufzug fahrstuhl haus lift symbol transport
+🕦	11:30 uhr halb zwölf zwolf zeit ziffernblatt 11.30
+🚛	lastwagen lkw sattelzug umziehen ziehen um
+😔	enttäuscht enttauscht gesicht nachdenklich schrecklich smiley traurig verlieren verloren
+👩‍🎨	farbpalette frau künstlerin kunstlerin malerin
+🧑‍🎓	absolvent(in doktorhut student(in uni
+🐫	kamel tier wüste wuste zweihöckrig zweihockrig
+🥰	3 anhimmeln bewundern gesicht hdgdl hdl herzchen herzen lächeln lacheln lieb liebe smiley verknallt verliebt verzückt verzuckt
+🌀	spirale wirbel wirbelsturm
+🚽	klo toilette wc
+👩‍🌾	ähre ahre bäuerin bauerin farmerin gärtnerin gartnerin landwirtin
+🦹	böse bose bösewicht bosewicht bösewichtin bosewichtin krimineller person schurke schurkin superkräfte superkrafte superschurke superschurkin verbrecher
+🐣	ei küken kuken in eierschale piep schlüpfen schlupfen schlüpfendes schlupfendes tier vogel
+📁	akten büro buro dokument geschlossen ordner
+🦍	affe gesicht gorilla tier
+🎆	feuerwerk silvester
+👋	auf wiedersehen bis später spater ciao guten tag hallo hand hey hi tschüs tschus tschüss tschuss winken
+🏸	badminton federball schläger schlager
 ❌	abbrechen durchgestrichen kreuzzeichen mal multiplikation multiplizieren rotes kreuz x
-🐸	frosch froschgesicht gesicht grün quak tier
-🧀	käse käsestück
-🪕	banjo instrument musik saiteninstrument zupfinstrument
-🐩	hund pudel tier
-🦻	barrierefreiheit gehörlos hilfsgerät hörgerät hörhilfe ohr schwerhörig taub
-👩‍🦼	barrierefreiheit behinderung frau in elektrischem rollstuhl mensch person
-🧙	hexe hexenmeister magier magier(in magiker person zauberer zauberin zaubern zauberspruch zauberstab
-👨‍🏫	dozent lehrer mann professor tafel
+💕	date gefühl gefuhl herz herzen hochzeitstag jahrestag küsschen kusschen küsse kusse liebe rendezvous xoxo zwei
+📻	musik radio
+👎	daumen runter hand nach unten schlecht
+🪹	heim leeres nest nestbau nisten vogelnest zuhause
+👩‍🦽	barrierefreiheit behinderung frau in manuellem rollstuhl mensch person
+🧉	getränk getrank mate-tee tee
+🦾	arm armprothese barrierefreiheit prothese
+🎧	kopfhörer kopfhorer musik unterhaltung
+🍤	frittierte garnele restaurant tempura
+🧖	abschalten dampfbad dampfsauna entspannen frau luxuriös luxurios person in relaxen sauna spa
+💥	bombe boom comic explodieren explosion kollidieren kollision zusammenstoß zusammenstoßen
+🥲	berührt beruhrt dankbar erleichtert freudenträne freudentrane gerührt geruhrt gesicht lächeln lacheln smiley stolz träne trane
+🚬	kippe rauchen rauchersymbol zigarette
+🎷	instrument musik musikinstrument saxofon
+🪥	badezimmer bürste burste körperpflege korperpflege mundhygiene putzen sauber zahnbürste zahnburste zähne zahne zahnhygiene
+🟣	form kreis lila punkt scheibe violett
+🦟	biss fieber insekt insektenbiss insektenstich krankheit malaria moskito mücke mucke schnake stechmücke stechmucke stich tier virus
+🟪	form lila quadrat viereck violett
+🤢	ekel eklig erbrechen gesicht grün grun igitt smiley übelkeit ubelkeit übergeben ubergeben widerlich würgen wurgen
+🔇	durchgestrichener lautsprecher leise psst stumm stummgeschaltet
+📉	abwärtstrend abwartstrend diagramm fallend kurve
+🟩	form grün grun grünes grunes quadrat viereck
+🫒	essen grün grun lebensmittel nahrung olive olivenöl olivenol olivenzweig zweig
+👿	böse bose dämon damon dämonin damonin fantasie fantasy gesicht hörner horner kobold lila märchen marchen satan teufel teufelchen violett wütend wutend
+🌌	galaxie milchstraße universum
+🌆	abendstimmung in der stadt hochhäuser hochhauser new york skyline sonnenaufgang sonnenuntergang wolkenkratzer
+🚞	bahn bergbahn bimmelbahn zug
+🔏	datenschutz privat schloss mit füller fuller sicherheit
+🦇	fledermaus tier vampir
+🚢	dampfer kreuzfahrtschiff schiff traumschiff
+🔦	lampe licht taschenlampe
+🕎	leuchter menora religion
+🪌	ausradieren bleistift fehler radieren radierer radiergummi ratzefummel wegradieren
+🫣	auge finger gebannt gesicht hervorlugen linsen schüchtern schuchtern smiley spähen spahen starren verlegen
+🫗	ausgießen ausleeren flüssigkeit flussigkeit getränk getrank gießen glas leer missgeschick tropfende verschütten verschutten
+📯	brief e-mail post posthorn
+🦘	australien beuteltier down under hüpfen hupfen känguru kanguru quokka skippy springen tier wallaby
+💼	aktentasche tasche
+🍜	chinesisches essen dampfend eiernudeln nudeln schüssel schussel und essstäbchen essstabchen stäbchen stabchen suppe
+🐌	langsam schnecke tier
+♐	schütze schutze sternzeichen
+🍋‍🟩	cocktail essen frucht limette obst saft sauer tequila tropisch zitrusfrucht
+🪺	heim nest mit blauen eiern nestbau nisten vogelnest zuhause
+💫	benommen benommenheit comic komet schwindlig stern sterne sternschnuppe
+💱	geld geldwechsel währung wahrung wechsel
+⬜	großes weißes quadrat weiß
+🛫	abflug fliegen flughafen flugzeug start eines flugzeugs
+🌸	blume blüte blute kirschblüte kirschblute kirsche pflanze
+📗	buch grün grun grünes grunes lesen
+👲	china chinesisch gesicht hut kappe mütze mutze person
+😃	augen fröhlich frohlich gesicht glücklich glucklich grinsen große lächeln lacheln lachen lol lustig mund offen smiley
+💗	aufregung gefühl gefuhl herz herzschlag küsschen kusschen küsse kusse liebe nervös nervos nervosität nervositat puls wachsen xoxo
+🪅	feier hau drauf mexikanisch mexiko objekt party pinada pinata piñata süß süßigkeiten
+🔬	labor mikroskop untersuchen wissenschaft
+🎮	gamepad gaming unterhaltung videospiel
+🦁	gesicht löwe lowe löwengesicht lowengesicht sternzeichen tier tierkreis
+🕣	8:30 uhr halb neun ziffernblatt 8.30
+🫘	bohne bohnen essen gemüse gemuse hülsenfrucht hulsenfrucht kidney-bohne kidneybohne lebensmittel
+🔻	abwärts abwarts dreieck rot rotes mit der spitze nach unten
+🪊	blasinstrument blechbläser blechblaser blechblasinstrument instrument jazz musik schieben traurig ziehen
+🫠	auflösen auflosen beschämt beschamt flüssig flussig gesicht hitze sarkasmus sarkastisch schmelzen schwitzen smiley verschwinden
+🏅	gewinn goldmedaille medaille sportmedaille
+🧄	essen geschmack knoblauch lebensmittel nahrung würze wurze zutat
+🛴	roller tretroller
+🪛	schraube schrauben schraubendreher schraubenzieher werkzeug
+😤	erleichtert gesicht gewonnen schnaubendes
+🐁	maus nage tier
+🫙	einmachglas einweckglas essen gewürzglas gewurzglas leer leerer behälter behalter leeres glas marmeladeglas schraubglas
+🦉	eule raubvogel tier uhu vogel weise
+🧑‍🦽	barrierefreiheit person in manuellem rollstuhl
+🔨	hammer werkzeug
+🕘	9 9:00 uhr zeit ziffernblatt 9.00
+😵	augen benommen gesicht ko krank kreuze schwindelig schwindlig smiley
+💩	kot kothaufen mist
+🤬	ärger arger ärgern argern fluchen gesicht mund schimpfen schimpfwort smiley symbole verdammt wut wütend wutend zensur
+🔭	himmel teleskop
+🎦	film filmkamera in blauem quadrat kino kinosymbol unterhaltung
+🦩	bunt farbenfroh flamingo rosa tier tropen tropisch vogel
+🥑	avocado essen frucht
+👝	accessoire beutel clutch handtasche kulturbeutel tasche waschtasche
+🔞	erwachsene minderjährige minderjahrige verboten mindestalter nicht jugendfrei zeichen mit durchgestrichener 18
+🥩	essen fleisch fleischstück fleischstuck kotelett lammkotelett rot schnitzel schweinekotelett steak
+🌔	mond zunehmend zweites mondviertel
+🌛	gesicht mond mondsichel mit links weltall
+😰	angst ängstlich angstlich angstschweiß besorgt gesicht mund nervös nervos offen schweiß
+🧑‍🤝‍🧑	händchen handchen halten hände hande menschen paar pärchen parchen personen sich an den händen handen haltende
+🍫	essen schokolade schokoladentafel süßigkeit
+🥹	aufgebracht dankbar freude freudentränen freudentranen gerührt geruhrt gesicht rührung ruhrung smiley stolz tränen tranen weinen zurückhalten zuruckhalten
+🔈	eingeschaltet lautsprecher mit geringer lautstärke lautstarke ton an
+🍘	cracker reiscracker
+♍	horoskop jungfrau sternzeichen
+🫫	spannung verwandlung widerstandsfähig widerstandsfahig zerbrechend zerfallend
+🧚	elf elfe fantasy fee flügel flugel geflügelt geflugelt märchen marchen märchenfee marchenfee mystisch person wesen
+👉	finger handrückseite handruckseite rechts weisen zeigefinger zeigen
+🐽	nase schwein schweinerüssel schweinerussel tier
+🕑	2 2:00 uhr zeit ziffernblatt 2.00
+💪	arm bizeps bodybuilder bro fitnessstudio gewichtheben muckies muskeln stark training
+🚈	bahn ice monorail s-bahn zug
+🏊	kraulen person pool schwimmbecken schwimmen schwimmer schwimmer(in schwimmerin sport triathlon wasser
+❗	ausrufezeichen rot satzzeichen
+🍎	apfel frucht obst rot roter
+👢	damen damenstiefel schuh stiefel
+💌	brief herz liebe liebesbrief post siegel
+🤯	entsetzt explodieren geschockt gesicht kopf schock schockiert smiley überwältigt uberwaltigt unglaublich
+🫆	fingerabdruck forensik identität identitat sicherheit
+🍑	frucht obst pfirsich
+🚣	angeln boot kanu paddel person im ruderboot rudern sport
+📿	beten gebet gebetskette kette religion rosenkranz
+🈁	„koko“ japanisches schriftzeichen
+🔎	lupe nach rechts suche vergrößerungsglas
+🩰	ballett ballettschuhe kleidung schuhe tanz
+🫺	daumen nach rechts geschlossene finger neutral zeigen
+🐲	drache drachengesicht gesicht märchen marchen tier
+🧀	käse kase käsestück kasestuck
+👘	japanisch kimono kleid kleidung
+🪼	autsch brennen gallert glibber meer meeresbewohner meerestier nesseltier ozean qualle tentakeln
+🪢	achterknoten binden knoten schnur schnürsenkel schnursenkel seemansknoten segelboot segeln seil verknoten zusammendrehen
+🚔	polizei polizeiwagen von vorne streifenwagen vorderansicht
+😝	auge augen bäh bah ekel gesicht herausgestreckt herausstrecken igitt schmeck schrecklich smiley zunge zusammengekniffen zusammenkneifen
+🐐	steinbock sternzeichen tier tierkreis ziege
+⛄	kalt schnee schneemann ohne schneeflocken winter
+🔄	gegen den uhrzeigersinn kreisförmige kreisformige pfeile
+📩	e-mail gesendet umschlag mit pfeil
+😻	augen gesicht herzaugen herzen katze katzengesicht lächeln lacheln lachen liebe smiley tier verliebt
+🎡	freizeitpark rad riesenrad volksfest
+🕝	2:30 uhr halb drei zeit ziffernblatt 2.30
+🕚	11 11:00 uhr zeit ziffernblatt 11.00
+🕕	6 6:00 uhr zeit ziffernblatt 6.00
+🎄	baum tanne weihnachten weihnachtsbaum
+💀	gesicht knochen märchen marchen schädel schadel tod tot totenkopf yolo
+😇	brav engel gesicht glücklich glucklich heiligenschein lächeln lacheln lieb seelig smiley
+🙀	angst erschöpft erschopft gesicht katze katzengesicht panik schock schockiert schrei schreien smiley tier überrascht uberrascht
+🧾	abrechnung aufstellung beleg blatt buchhalter buchhaltung quittung rechnung rechnungswesen schriftstück schriftstuck
+🏮	izakaya japanische laterne japanisches lokal rote papierlaterne
+🩹	heftpflaster pflaster verletzt wunde
+♎	horoskop sternzeichen waage
+🛞	autorad autoreifen drehen rad reifen mit felgen rotieren
+🍂	blatt blätter blatter fallendes laub herbst pflanze
+👫	frau händchen handchen halten mann und hände hande paar pärchen parchen aus
+🏺	amphore gefäß kochen krug sternzeichen tierkreis trinken vase wassermann
+🤗	drücken drucken gesicht hände hande smiley umarmen umarmung
+🔩	mutter und schraube
+🍗	fleisch geflügel geflugel hähnchenschenkel hahnchenschenkel hühnerbein huhnerbein restaurant
+😾	gesicht katze katzengesicht schmollen schmollmund smiley tier verärgert verargert
+🫲	ausgestreckt ausstrecken hand hände hande händeschütteln handeschutteln links reichen schütteln schutteln weisen
+🥕	gemüse gemuse karotte möhre mohre mohrrübe mohrrube
+🍿	kino popcorn snack
+🦦	fischen otter tier verspielt
+🍖	fleisch fleischhachse knochen restaurant
+😪	gesicht gute müde mude nacht schläfrig schlafrig smiley traurig
+📭	briefkasten keine e-mail post offen offener ohne
+🎋	baum fest japan sternenfest tanabata-baum zettel
+🥪	brot essen sandwich
+🚺	damen damentoilette wc
+🤟	drei finger geste hand hdl ich-liebe-dich-geste liebe
+⛪	christ christentum christlich gebäude gebaude kirche kreuz religion
+📋	clipboard clpboard klemmbrett zwischenablage
+🐦	papagei taube tier vogel vogelkopf
+🎴	blume blumenkarte hanafuda japan japanische karte
+🧑‍🩰	ballett tänzerin tanzerin
+👩‍🦯	barrierefreiheit behinderung blind frau mit blindenstock gehstock langstock mensch person
+🔀	gekreuzt pfeile richtung verschlungene nach rechts zufallsmodus
+🈚	gratis japanisches schriftzeichen für fur „gratis“ „verhandlung“ verhandlung
+📸	blitz fotoapparat mit
+🫥	depressiv deprimiert egal gesicht gestrichelt introvertiert smiley traurig unsichtbar verschwinden verstecken
+🫀	anatomie herz herzschlag körper korper körperteil korperteil mensch organ puls schlagen
+🦮	barrierefreiheit behinderung blind blindenhund hund sehbehindert tier
+🦬	bison büffel buffel herde ochse tier wisent
+👴	alt älter alter erwachsen großeltern großvater mann mensch opa senior weise
+💅	kosmetik maniküre manikure nagel nagellack nagelpflege
+🐀	nagetier ratte tier
+🔛	anschalten ein-zeichen einschaltem on!-pfeil pfeil rechts und links
+🎸	gitarre instrument musik musikinstrument
+🎼	musik noten notenschlüssel notenschlussel partitur violinschlüssel violinschlussel
+😽	augen geschlossen gesicht katze katzengesicht kuss küsschen kusschen küsse kusse küssen kussen rot smiley tier wangen
+🪖	armee heer helm kämpfer kampfer kämpferin kampferin krieg militär militar militärhelm militarhelm schutzhelm soldat soldatin
+❎	angekreuztes feld kästchen kastchen kreuz kreuzsymbol im quadrat x
+🫰	daumen finger fingerherz gekreuzt geld hand handgeste kosten teuer zeigefinger
+🛻	auto fahren fahrzeug laster lastwagen lieferwagen lkw pick-up transport
+📍	anpinnen reißzwecke rund runde stecknadel
+😅	gesicht grinsen lächeln lacheln lachen lustig mund nervös nervos offen schweiß schweißtropfen schwitzen smiley
+🏨	gebäude gebaude hotel übernachten ubernachten unterkunft
+👐	hände hande jazz offen umarmen umarmung
+🗾	japan karte umriss von
+🦊	fuchs fuchsgesicht gesicht tier
+😭	flennen gesicht heulen schluchzen smiley tränen tranen tränenfluss tranenfluss traurig weinen
+👂	hören horen körperteil korperteil ohr
+😴	dösen dosen einschlafen gähnen gahnen gesicht gute nacht langweilig mittagsschlaf müde mude nickerchen schlaf schlafen smiley zzz
+🍟	fritten pommes frites
+🚫	kein zutritt kein-zutritt-zeichen verboten verbotszeichen
+🚀	all rakete weltraum
+📅	datum kalender kalenderblatt
+🏑	feldhockey hockey schläger schlager
+🚴	fahrrad person rad radeln radfahren radfahrer radfahrer(in radfahrerin sport tour de france
+🪄	abrakadabra hexe hexer magie magisch wunder zauberei zauberer zauberin zaubern zauberstab
+🐴	gesicht pferd pferdegesicht pferdekopf tier
+🥱	gähnen gahnen gähnend gahnend gelangweilt gesicht langweilig müde mude öde ode schnarch smiley zzz
+🚦	ampel horizontal verkehrsampel vertikale
+🎯	dart darts pfeil spiel volltreffer zielscheibe
+👛	accessoire brieftasche geldbörse geldborse münzen munzen portemonnaie
+🎤	karaoke mikrofon singen unterhaltung
+💾	datenträger datentrager diskette
+😛	ätsch atsch bäh bah gesicht herausgestreckt lachen lustig smiley zunge
+🦸	held person superheld superheld(in superheldin superkraft superkräfte superkrafte superman übermensch ubermensch umhang
+🫨	doppelgesicht erdbeben gesicht omg panik schock smiley überrascht uberrascht verrückt verruckt vibrieren wow zittern
+🍄‍🟫	braun essen fungus gemüse gemuse lebensmittel natur pflanze pilz wald
+🧑‍💼	architekt(in büroangestellte(r business manager(in schlips und kragen
+🆚	gegen taste versus vs
+🚊	straßenbahn tram verkehrsmittel
+🎅	weihnachten weihnachtsmann
+🛁	bad badewanne badezimmer dusche
+🤰	frau schwanger schwangere
+🍧	eis sorbet wassereis zerstoßen
+🧔	bart bärtig bartig person schnurrbart
+😑	ausdruckslos gesicht kommentarlos selbstgefällig selbstgefallig smiley unbeeindruckt unglaublich
+🪾	dürr durr kahl kahler baum karg trocken winter
+🤓	brille gesicht intelligent klug nerd schlau schlaumeier smart smiley streber strebergesicht
+⚡	blitz elektrizität elektrizitat gefahr gewitter hochspannung hochspannungszeichen strom
+🧑‍🏫	dozent(in lehrer(in professor(in
+🏡	baum haus mit garten
+⛺	camping campingurlaub zelt zeltplatz
+🍥	fisch fischfrikadelle restaurant spirale
+🔰	anfänger anfanger japanisches anfänger-zeichen symbol
+🧷	punk sicherheitsnadel windel
+📨	e-mail eingehender briefumschlag empfangen umschlag
+🍷	alkohol bar glas wein weinglas
+🚯	abfall müll mull müll-verboten-zeichen verboten
+🩺	abhören abhoren arzt doktor herz herzschlag medizin stethoskop untersuchung
+🌘	abnehmend letztes mondviertel mond nacht
+🐍	schlange schlangenträger schlangentrager sternzeichen tier tierkreis
+🟥	form quadrat rot rotes viereck
+🐦‍⬛	amsel krächzen krachzen krähe krahe rabe schnabel schwarz schwarzer vogel tier
+🏁	flagge formel 1 karierte nascar rennen sport zielflagge
+📃	dokument papier seite teilweise eingerolltes blatt
+🔲	quadratisch schaltfläche schaltflache schwarz schwarze quadratische
+📶	balkenförmige balkenformige signalstärkenanzeige signalstarkenanzeige empfang mobilfunksignal mobiltelefon signalstärke signalstarke
+🏬	einkaufen gebäude gebaude geschäft geschaft kaufhaus shoppen
+🪘	afrikanische trommel conga handtrommel instrument musikinstrument rhythmus trommeln
+🔣	& % ♪ 〒 eingabe eingabesymbol keycap sonderzeichen symbol tastenkappe
+🕋	hajj islam kaaba moslem muslim religion
+🪭	abkühlung abkuhlung fächer facher faltfächer faltfacher flirten heiß kühlen kuhlen luft zufächeln zufacheln schüchtern schuchtern spanisch tanz warm
+🥸	brille gesicht incognito inkognito maske nase nasenbrille person smiley spionieren verdeckt verkleidet verkleidung
+🤙	anruf anrufen hand ruf ruf-mich-an-handzeichen shaka
+🚲	bmx fahrrad rad radeln radler spinning
+👗	kleid kleidung
+🦠	amöbe amobe amöben amoben bakterie bakterien einzeller medizin mikrobe virus wissenschaft
+🏃	eilig joggen laufen laufende person läufer laufer läuferin lauferin marathon rennen schnell sport
+🕧	00:30 12:30 halb eins uhr zeit ziffernblatt 12.30
+😒	gesicht langweilig smiley traurig unglücklich unglucklich unzufrieden verstimmt
+📙	buch orangefarben orangefarbenes
+👔	hemd mit krawatte kleidung kragen schlips
+🧯	feuer feuerlöscher feuerloscher löschen loschen
+👟	laufen rennen schuh sneaker sportlich sportschuh turnschuh
+😫	gesicht müde mude niesen smiley traurig
+🏢	bürogebäude burogebaude hochhaus
+🍩	donut doughnut essen kuchen süß
+♈	sternzeichen widder
+🤺	fechten fechter fechter(in schwert sport
+🧎	fersensitz knien kniend kniende person meditation meditieren mensch seiza zazen
+🧑‍🧑‍🧒	erwachsene erwachsener familie kind
+⛲	brunnen garten park springbrunnen
+🍵	getränk getrank grüner gruner tee oolong schale teetasse ohne henkel
+🌲	baum nadelbaum pflanze tannenbaum
+👩‍🚀	astronautin frau raumfahrt weltraum
+🫦	angst ängstlich angstlich beißen besorgt flirten flirtend kuss lippenstift mund nervös nervos sexy unbehaglich zähne zahne
+🏧	atm geldautomat symbol „geldautomat“
+🥈	medaille 2 platz silbermedaille zweiter
+💿	blu-ray cd dvd
+🎣	angel mit fisch angeln entspannung
+🍪	cookie keks plätchen platchen
+🧬	biologe biologie biologin dna dns evolution gen genetik genmanipulation leben
+🎓	abschlussfeier diplom doktorhut
+🪫	akku fast leer aufladen batterie elektronik ladestand niedriger akkustand schwache schwacher
+🦿	barrierefreiheit bein beinprothese prothese
+⛔	einbahnstrasse kein zutritt keine durchfahrt verboten zutritt-verboten-schild
+🛙	hoffnung leuchtfeuer licht meer orientierung schiffe seefahrt wegweiser
+🍕	pizza pizzastück pizzastuck pizzeria
+🧅	essen geschmack gewürz gewurz lebensmittel nahrung würze wurze zwiebel
+🦖	dino dinosaurier saurier t-rex tree tyrannosaurus rex
+😡	gesicht rot angelaufener smiley schmollendes wütend wutend
+🪸	great barrier reef klimawandel koralle korallenriff meer ozean riff tier
+⏫	aufwärts aufwarts doppelpfeil doppelpfeile nach oben doppelt pfeil
+🟠	form kreis orange scheibe oranger punkt
+🌄	berge sonnenaufgang über uber bergen
+🐚	muschel schneckenhaus strand tier
+🩼	behinderung beinverletzung fußverletzung gehhilfe gehstütze gehstutze hilfe krücke krucke schmerzen stock verletzt verletzung
+😢	gesicht smiley träne trane traurig weinen
+🧦	socken strumpf strümpfe strumpfe
+💢	ärger arger comic wut
+💨	comic rennen staubwolke weglaufen
+😯	erstaunt gesicht omg smiley sprachlos verdutzt
+👤	büste buste person silhouette einer
+🎠	karussell karussellpferd pferd reiten
+👮	beruf festnehmen gesetzeshüter gesetzeshuter gesicht person polizei polizist polizist(in polizistin uniform verhaften
+🧑	erwachsen erwachsene person mensch
+🗼	fernsehturm tokio tokyo tower
+📳	handy kommunikation mobiltelefon symbol für fur vibrationsalarm vibration vibrationsmodus vibrieren
+🏤	europa europäisches europaisches postgebäude postgebaude post
+👕	kleidung shirt t-shirt
+🍴	abendessen besteck essen frühstück fruhstuck gabel und messer geschirr hunger lecker mittagessen restaurant
+🛃	zoll zollkontrolle
+🐳	blasender wal meer ozean tier
+👨‍🍼	baby flasche geben gebender mann füttern futtern
+🦯	barrierefreiheit behinderung blind blindenstock gehstock
+👩‍🚒	feuerwehrfrau feuerwehrhelm frau
+⛅	sonne hinter wolke wolkig
+😞	enttäuscht enttauscht gesicht leider schade smiley traurig verloren
+💤	buchstaben comic gähn gahn langweilig müde mude nickerchen öde ode schlaf schlafen schnarchen zzz
+🚵	fahrrad mountainbiker mountainbiker(in mountainbikerin mountainbiking person rad radfahren radfahrer radfahrerin sport tour de france
+👪	familie junge kind mutter vater
+👠	absatz absatzschuh damen elegant high heel highheels pumps rot schuh stöckelschuh stockelschuh vornehm
+😷	arzt atemschutzmaske bazillen erkältet erkaltet gesicht krank krankheit mund mundschutz schutzmaske smiley viren virus
+🥞	crepe eierpfannkuchen essen pfannkuchen
+🆓	free wort „free“ in blauem quadrat
+🏹	bogen pfeil und
+🪈	band blaskapelle flöte flote holzblasinstrument instrument musik musikinstrument musizieren orchester spielmannszug
+🛂	pass passkontrolle
+😱	angst ängstlich angstlich gesicht munch omg panik schrei schreien schreiend
+🐄	bauernhof kuh muh tier
+🔳	quadrat quadratisch schaltfläche schaltflache weiß weiße quadratische
+👩‍🎓	abschluss absolventin diplom doktorhut studentin uni
+🐏	schaf sternzeichen tierkreis widder
+🪿	blöd blod dumm dumme gans gänserich ganserich ganter geflügel geflugel schnattern tier vogel
+📥	ablage e-mail posteingang
+🐇	hase kaninchen karnickel mümmelmann mummelmann nagetier tier
+🥐	corissant croissant französisch franzosisch frühstück fruhstuck frühstückshörnchen fruhstuckshornchen
+🌖	abnehmend drittes mondviertel mond
+🦻	barrierefreiheit gehörlos gehorlos hilfsgerät hilfsgerat hörgerät horgerat hörhilfe horhilfe ohr schwerhörig schwerhorig taub
+🌅	meer sonnenaufgang über uber dem
+🦌	gesicht hirsch tier
+🌰	kastanie marone
+🧫	bakterien bakterienkultur biologe biologie biologin kultur labor petrischale pipette probe
+🐅	tier tiger
+💬	comic dialog gespräch gesprach sprechblase mit drei punkten unterhaltung
+🚮	abfall müll mull mülleimer mulleimer sauberkeit symbol „papierkorb“ wegschmeißen wegwerfen
+🟦	blau blaues quadrat viereck form
+👼	engel gesicht kind märchen marchen putte
+🚩	dreiecksflagge flagge rot standortflagge wimpel
+😿	gesicht katze katzengesicht smiley tier träne trane traurig weinen
+😦	entsetzt gesicht mund offen schockiert smiley verwundert
+🚍	bus von vorne verkehrsmittel vorderansicht
+⭐	astronomie gelber stern himmel weißer mittelgroßer
+🃏	joker jokerkarte spielkarte
+😵‍💫	augen gesicht höhenangst hohenangst hypnose hypnotisiert omg schwindelig schwindlig smiley spiralen verwirrt wirr
+🚾	toilette wc
+🐡	fisch kugelfisch kugelrund meer tier
+♒	sternzeichen wassermann
+👨‍🦯	barrierefreiheit behinderung blind mann mit blindenstock gehstock langstock mensch person sehbehindert
+🤪	auge augen gesicht groß irre klein smiley verrückt verruckt
+💜	beste gefühl gefuhl hdl herz liebe lila lilafarben violett
+🤽	person schwimmsport sport sportler sportlerin wasser wasserball wasserballspieler wasserballspieler(in wasserballspielerin wassersport
+👸	gesicht krone märchen marchen prinzessin
+☔	regen regenschirm im
+🦋	insekt schmetterling schön schon
+🌒	erstes mondviertel mond zunehmend
+🔍	lupe nach links suche vergrößerungsglas
+😕	gesicht keine ahnung smiley traurig verwirrt verwundert weiß nicht
+🆙	keycap taste tastenkappe up
+🧲	anziehung anziehungskraft hufeisen magnet magnetisch pole positiv negativ u-form
+🌝	gesicht vollmond mit
+🐊	krokodil reptil schnappi tier
+🦎	eidechse reptil
+🤤	gesicht sabbern smiley
+🍰	kuchen kuchenstück kuchenstuck stück stuck torte tortenstück tortenstuck
+🫸	drücken drucken halt hand high 5 five moment nein rechts schieben schluss stopp warte mal warten
+💷	geld geldschein pfund pfund-banknote
+🧑‍🧒	erwachsene erwachsener familie kind
+🚨	polizei polizeilicht sirene
+👳	bart dreitagebart person mit turban
+🦼	barrierefreiheit behinderung elektrischer rollstuhl
+🎂	essen feier geburtstag geburtstagskuchen geburtstagstorte happy birthday kerzen kuchen lebensmittel torte
+📴	ausschalten handy aus mobiltelefon
+🪶	feder federleicht federn fliegen gefieder leicht vogelfeder
+🧰	box handkasten kasten kiste mechaniker rote werkzeug werkzeugkasten werkzeugkiste werkzeugkoffer
+🚋	straßenbahn straßenbahnwagen tram tramwagen transport verkehrsmittel waggon
+🔢	1234 eingabe eingabesymbol symbol zahlen ziffern
+🍮	dessert flan nachspeise nachtisch pudding schokolade soße
+🔺	aufwärts aufwarts dreieck rot rotes mit der spitze nach oben
+🎻	geige instrument musik musikinstrument violine
+🪴	dekor grünpflanze grunpflanze haus pflanze pflegen topfpflanze wachsen zimmerpflanze
+🛵	motoroller motorroller roller vespa
+🎒	ranzen rucksack schule schulranzen tornister
+🦛	flusspferd hippo nilpferd tier
+🔸	kleine orangefarbene raute orangefarben
+🐬	delfin meer ozean strand tier
+🧿	amulett blau böser boser blick glasperle glücksbringer glucksbringer kügelchen kugelchen nazar nazar-amulett perle talisman
+🥼	arzt arztkittel doc doktor experiment kleidung kleidungsstück kleidungsstuck laborkittel labormantel weiße jacke weißer mantel wissenschaftler
+🔮	kristallkugel wahrsager zukunft
+🌕	mond vollmond
+💧	schweiß träne trane tropfen wasser wassertropfen
+🎌	japan japanische flaggen überkreuzte uberkreuzte
+🚒	brand feuerwehrauto löschfahrzeug loschfahrzeug
+🤶	weihnachten weihnachtsfrau
+🆒	cool wort „cool“ in blauem quadrat
+🥀	am sterben blume sterbend verwelkt welk welke welkende
+🖤	böse bose herz schwarz schwarzes
+🚓	polizei polizeiwagen streifenwagen
+🥅	fußball netz sport tor
+🍁	ahorn ahornblatt blatt herbst laub pflanze
+🧈	butter essen lebensmittel milchprodukt nahrung
+🐶	gesicht hund hundegesicht tier treu wau wuff
+🚭	rauchen verboten rauchverbot zigarette
+⚽	ball bundesliga fußball messi
+🧑‍💻	bildschirm computer entwickler(in it-experte/it-expertin
+🧡	herz liebe orange
+🌙	mond mondsichel nacht
+🛀	bad baden badende person badewanne badezimmer dusche entspannen
+🕡	6:30 uhr halb sieben ziffernblatt 6.30
+🪗	akkordeon akkordeons concertina harmonika instrument musik musikinstrument quetschkommode quetschkommoden schifferklavier spielen ziehharmonika ziehharmonikas
+🥊	boxen boxhandschuh handschuh sport
+🔷	blau große blaue raute
+📕	buch geschlossen geschlossenes
+🎪	unterhaltung zelt zirkus zirkuszelt
+🧊	eisberg eiswürfel eiswurfel gefroren kalt kühlen kuhlen würfel wurfel
+🫌	hoffnung insekt metamorphose raupe veränderung veranderung verwandlung wechsel zart
+🧺	bauernhof korb landwirtschaft picknick tragekorb wäsche wasche wäschekorb waschekorb
+🫓	arepa brot essen fladenbrot lavasch lebensmittel naan nahrung pita
+🔖	etikett lesen lesezeichen
+🤕	aua autsch gesicht kopf schmerzen smiley verband verletzung
+🎃	halloween halloweenkürbis halloweenkurbis herbst kürbis kurbis kürbislaterne kurbislaterne
+🍨	eis eisbecher eiscreme eisdiele
+⬛	großes schwarzes quadrat schwarz
+🩵	aquamarin emotion gefallen gefällt gefallt gefühl gefuhl hdl hellblau herz liebe mag mögen mogen niedlich süß türkis turkis zyan
+◽	geometrisch mittelkleines weißes quadrat weiß
+🥶	bibbern blau eisig erfrieren frieren frösteln frosteln frostig gesicht kalt smiley unter null zähne zahne zähneklappern zahneklappern zittern
+🪪	ausweis dokument führerschein fuhrerschein karte pass personalausweis plakette reisepass
+📵	handy mobiltelefon mobiltelefone verboten verbot
+😋	gesicht lächeln lacheln lecker leckeres essen sich die lippen leckender smiley leckendes zunge
+🫵	deuten du finger fingerzeig hand handgeste sie stupsen zeigefinger zeigen
+🙋	aufzeigen drankommen drannehmen frage geste hand heben hier ich person sich melden wissen
+🐵	affe affengesicht banane dschungel gesicht tier zoo
+🪵	baumstamm feuerholz holz holzig holzscheite lagerfeuer
+🧑‍🧒‍🧒	erwachsene erwachsener familie kind
+🍡	dango japanisches gericht mochi-kugeln auf einem spieß restaurant
+🎥	film filmkamera kino unterhaltung
+⌚	armbanduhr uhr zeit
+🫕	essen fondue geschmolzen käse kase schokolade schweizerisch topf
+🕠	05:30 17:30 5:30 uhr halb sechs ziffernblatt 5.30
+🤲	beten gebet hand hände hande nach oben zusammen
+🙊	affe affengesicht böse bose geheimnis gemein geste hand heimlich leise mund nein sagen sprechen still tier ups verboten zuhalten
+🐞	glückskäfer gluckskafer insekt käfer kafer krabbel marienkäfer marienkafer punkte tier
+🪃	aborigines australien boomerang bumerang schleuder waffe werfen
+🈹	japanisches schriftzeichen rabatt für fur „rabatt“ „teilen“ teilen
+🧜	märchen marchen meerjungfrau meermann nixe person sirene wasserfrau wassermann wassermensch
+🐙	krake meer oktopus tier tintenfisch
+🧢	baseball baseball-kappe baseball-mütze baseballkappe baseballmütze baseballmutze mütze mutze schirmkappe
+🦞	hummer lobster meeresfrucht meeresfrüchte meeresfruchte meerestier scheren tier
+🍒	frucht kirsche kirschen obst
+🌠	himmel sternschnuppe
+🥭	essen frucht früchte fruchte mango obst shaker tropisch
+🌭	essen frankfurter hot dog hotdog wurst würstchen wurstchen
+🫈	bigfoot fabelwesen gigant haarig kryptid riese sasquatch wald wilder mann woodwose yeti
+💎	diamant edelstein
+🪠	abfluss gummiglocke klempner klo pömpel pompel pümpel pumpel sanitär sanitar saugglocke saugglocken toilette verstopft wc werkzeug
+🚗	auto fahren fahrzeug rot verkehr
+🧨	dynamit explosion explosiv feuer feuerwerk feuerwerkskörper feuerwerkskorper funken knall knallen knaller kracher silvester sprengen sprengstoff zündstoff zundstoff
+🕢	7:30 uhr halb acht zeit ziffernblatt 7.30
+😖	bestürzt besturzt frustriert gesicht konfus smiley verwirrt verzweifelt
+🧗	bergsteiger bergsteiger(in fels kletterer klettern person sport
+📏	lineal
+🧛	blutsauger dracula halloween person reißzähne untot untoter vampir zähne zahne
+🟡	form gelb gelbe scheibe gelber kreis punkt
+🦥	faul faultier langsam tier träge trage
+🧩	bestandteile hinweise hobby passen puzzeln puzzle puzzlestück puzzlestuck puzzleteil puzzleteile spiel teile zusammenpassen zusammensetzen
+🚕	auto fahrzeug taxi
+🈺	betrieb chinesisches schriftzeichen geöffnet geoffnet japanisches für fur „betrieb“ „geöffnet“
+🥙	döner doner kebab falafel wrap
+🙃	auf dem kopf gesicht lächeln lacheln smiley stehen umgekehrt
+🌎	erde globus mit amerika nordamerika südamerika sudamerika weltkugel
+🫐	beere blau blaubeere blaubeeren essen frucht heidelbeere heidelbeeren lebensmittel nahrung obst
+🍔	burger fast food hamburger restaurant
+😐	ausdruckslos gesicht kommentarlos neutral smiley todernst unbeeindruckt
+💰	geld geldsack moneten reich sack
+🏏	ball cricket kricket schläger schlager
+💞	emotion gefühl gefuhl herz herzen hochzeitstag jahrestag kreisen liebe süß
+🐋	ozean tier wal
+🥳	aufgeregt feier fest fröhlich frohlich geburtstag gesicht glückwunsch gluckwunsch hurra hut party smiley überraschung uberraschung
+🌞	gesicht sonne mit sonnengesicht sonnenschein
+🍄	fliegenpilz giftig pilz
+🤩	aufgeregt augen gesicht grinsen smiley star stern überwältigt uberwaltigt wow
+🛅	gepäck gepack gepäckaufbewahrung gepackaufbewahrung schließfach
+⭕	großer kreis hohler roter o rot
+🌈	regenbogen wetter
+💛	gefühl gefuhl gelb herz herzlich liebe
+💋	gefühl gefuhl knutsch kuss kussabdruck küssen kussen liebe lippen lippenstift romantisch sexy
+📓	notizbuch notizen
+⏳	laufende sanduhr prozess vorgang läuft lauft
+🩸	blutspende blutstropfen flüssigkeit flussigkeit medizin menstruation
+🍐	birne frucht obst
+🐂	kuh ochse sternzeichen stier tier tierkreis
+👖	hose jeans kleidung
+🟫	braun braunes quadrat viereck form
+🐃	büffel buffel tier wasser wasserbüffel wasserbuffel
+⚾	ball baseball
+🪙	bezahlen dollar euro geld gold goldesel metall münze munze reich schatz silber sparen
+🤞	finger gekreuzt hand mit gekreuzten fingern
+🥿	ballerina ballet-pumps bequem flacher schuh frauenschuh kleidungsstück kleidungsstuck slipper
+💒	herz hochzeit kirche
+🤾	handball handballer handballerin handballspieler handballspieler(in handballspielerin person schleudern sport sportler werfen
+🕟	04:30 16:30 4:30 uhr halb fünf funf zeit ziffernblatt 4.30
+🙉	affe affengesicht böse bose geheimnis gemein geste hören horen nein ohren tier verboten zuhalten zuhören zuhoren
+🧏	barrierefreiheit gehörlos gehorlos hören horen ohr person schwerhörig schwerhorig taub
+🈲	japanisches schriftzeichen kanji für fur „verbieten“ verbieten
+🐸	frosch froschgesicht gesicht grün grun quak tier
+⏪	doppelpfeil doppelpfeile nach links dreieck pfeil vorheriger titel zurück zuruck zurückspulen zuruckspulen
+🌮	essen mexikanisch taco
+💸	bank euro geld geldschein mit flügeln flugeln knete moneten
+🙅	arme gesicht nein nicht person überkreuzt uberkreuzt verbieten verboten
+🧑‍🎤	entertainer(in rock sänger(in star
+🫅	adelig könig konig königin konigin königlich koniglich königliche konigliche hoheit krönung kronung monarch monarchin person mit krone prinz prinzessin
+📘	blau blaues buch
+🪍	einsammeln fangen herausholen keschern
+🤌	bündelhand bundelhand finger fingerspitzen gehts noch geste hand handgeste italienisch was zusammengedrückt zusammengedruckt zusammengelegt
+⚫	ball großer schwarzer kreis punkt rund schwarz
+🧕	frau mit kopftuch hidschab hijab mantilla person tichel tuch
+📚	bücher bucher bücherstapel bucherstapel fantasie lesen roman
+👨	erwachsen gesicht mann
+🧑‍🔧	elektriker(in klempner(in mechaniker(in
+👒	damenhut mit schleife hut kleidung kopfbedeckung
+🫜	bete garten gemüse gemuse rote rübe rube wurzel
+💵	dollar dollar-banknote geld geldschein währung wahrung
+👊	absolut bro faust geballt hand korrekt zustimmen
+⌛	prozess sanduhr vorgang läuft lauft zeit
+🫑	essen gemüse gemuse gemüsepaprika gemusepaprika grün grun lebensmittel nahrung paprika peperoni
+🚶	fußgänger fußgänger(in fußgängerin gehen gehend person schlendern schlurfen wandern
+🦙	alpaca alpaka anden kamel lama tier vicuña vicuna wolle
+🎉	böller boller feier juhu knaller konfetti konfettibombe party super yay
+📛	namensschild schild
+🥔	essen gemüse gemuse kartoffel
+🧒	enkelkind jung jünger junger kind munter strahlend
+🥵	erhitzt fieber fiebrig gesicht heiß herausstrecken hitze hitzschlag rot schnaufen schwitzen smiley zunge
+🍶	flasche getränk getrank sake sake-flasche mit tasse und -tasse trinken
+🉐	japanisches schriftzeichen schnäppchen schnappchen für fur „schnäppchen“ „vorteil“ vorteil
+♊	horoskop sternzeichen zwilling zwillinge
+🤫	ermahnen finger gesicht leise psst pst ruhe ruhig sch smiley
+📮	brief briefkasten post
+🦷	perlweiß weiß zahn zahnarzt zahnärztin zahnarztin zähne zahne
+🩻	durchleuchten knochen medizin radiologie rippen röntgen rontgen röntgenbild rontgenbild röntgenstrahlen rontgenstrahlen skelett
+🔫	pistole revolver waffe wasserpistole
+🔁	im uhrzeigersinn keycap pfeile tastenkappe wiederholen
+🍏	apfel frucht gesund grün grun grüner gruner obst
+🕐	01:00 1 1:00 uhr 13:00 punkt eins zeit ziffernblatt 1.00
+😁	augen fröhlich frohlich gesicht grinsen happy lächeln lacheln lachen lustig smiley strahlen zähne zahne
+🩱	badeanzug einteiliger kleidung
+🐛	gefräßig insekt raupe tier
+😲	erstaunt gesicht nee omg schockiert smiley verwundert
+📟	kommunikation pager piepser
+🤘	corna finger hand heavy hörner horner mano cornuta metal metalhand pommesgabel rock teufel teufelsgruß yeah
+😮	erstaunt gesicht mund offen omg schockiert unglaublich vergessen wow
+🆘	hilfe sos sos-zeichen
+💭	comic gedankenblase nachdenken
+🐉	chinesisch neujahr drache märchen marchen tier
+🚟	hängebahn hangebahn schwebebahn
+🫱	ausgestreckt ausstrecken hand hände hande händeschütteln handeschutteln rechts reichen schütteln schutteln weisen
+🎶	musik musiknoten noten
+🈯	finger japanisches schriftzeichen reserviert für fur „finger“ „reserviert“
+👹	gesicht gruselig japan japanisch märchen marchen maske monster oger ungeheuer
+🧑‍🎄	gesicht mit hut person santa claus weihnachten weihnachtsfrau weihnachtshut weihnachtsmann weihnachtsmütze weihnachtsmutze weihnachtsperson
+🫶	<3 finger geste hände hande händeherz handeherz handgeste handherz hdl herz liebe
+💝	herz hochzeitstag jahrestag küsschen kusschen küsse kusse liebe schleife valentinstag xoxo
+🥇	erster gewinn goldmedaille medaille 1 platz
+🔘	optionsfeld schaltfläche schaltflache
+🪋	atmosphäre atmosphare feuerkugel gestein meteor sternschnuppe verglühen vergluhen
+🐜	ameise insekt tier
+🆎	ab blut blutgruppe großbuchstaben in rotem quadrat negativ positiv
+🧑‍🍼	baby flasche geben gebende person
+💻	bildschirm computer computermonitor laptop monitor notebook pc
+🏉	ball rugby rugbyball sport
+🐆	gepunktet leopard punkte raubkatze raubtier tier zoo
+🦡	dachs dachse frechdachs honigdachs ratel tier
+🦄	einhorn einhorngesicht gesicht
+💊	arznei arzt kapsel medizin pille tabletten
+🐒	affe tier
+👃	körperteil korperteil nase riechen
+🧼	baden putzen reinigen riegel sauber machen säubern saubern schaum schäumen schaumen seife seifenschale seifenstück seifenstuck
+👧	enkeltochter gesicht jung jünger junger kind mädchen madchen munter strahlend tochter
+📜	papier schriftrolle
+🗿	gesicht maske osterinsel statue
+🔠	abcd buchstaben eingabe eingabesymbol großbuchstaben großschreiben lateinisch
+🌵	dürre durre kaktus natur pflanze trockenzeit wüste wuste
+♉	horoskop sternzeichen stier
+🙎	eingeschnappt enttäuscht enttauscht jammerd jammern person schmollen schmollend verärgert verargert
+🐓	hahn tier
+💓	gefühl gefuhl herz herzschlag liebe puls pulsieren schlagen
+😟	besorgt gesicht smiley sorgen traurig
+🕍	jude jüdisch judisch religion synagoge tempel
+👶	baby gesicht jung kind kleinkind locke
+🌹	blume blüte blute pflanze rose
+🔧	schraubenschlüssel schraubenschlussel werkzeug
+🪂	fallschirm fallschirmspringen paragliding skydiving sport
+🦨	skunk stinken stinktier tier
+👩‍🏫	dozentin frau lehrerin professorin
+🌷	blume blüte blute pflanze tulpe
+🥠	essen glückskeks gluckskeks prophezeiung
+⛽	benzin tanke tanken tanksäule tanksaule tankstelle
+⛎	schlagenträger schlagentrager schlangenträger schlangentrager sternbild
+🌋	ausbruch berg lava vulkan vulkanausbruch wetter
+🛬	ankunft flieger flughafen flugzeug landen landung eines flugzeugs
+🔱	anker dreizack poseidon triton
+💳	bankkarte ec-karte geldkarte guthaben karte kreditkarte
+🏂	snowboard snowboarden snowboarder snowboarder(in snowboarderin sport
+🔒	datenschutz geschlossen geschlossenes schloss sicherheit
+🔉	lautsprecher mit einer schallwelle mittlerer lautstärke lautstarke leise mittellaut ton
+🚑	ambulanz krankenwagen notfall
+🥻	kleid kleidung sari
+🈵	belegt besetzt chinesisches schriftzeichen fülle fulle japanisches kanji kein zimmer frei für fur „fülle“ „kein frei“
+🀄	mahjong mahjong-stein roter drache spiel
+😠	ärgern argern böse bose gesicht smiley verärgert verargert wut wütend wutend zornig
+😚	geschlossen gesicht knutsch kuss küsschen kusschen küssen kussen rot smiley ugen wangen
+🧃	fruchtsaft getränk getrank obstsaft saft saftpackung trinkpäckchen trinkpackchen
+🦶	fuß füße kick knöchel knochel körperteil korperteil stampfen treten tritt
+🙆	geste hände hande oje ok omg person über uber kopf übung ubung
+🎏	feier karpfen traditionelle japanische windsäcke windsacke
 💄	kosmetik lippenstift make-up makeup rot schminke
 🚘	auto von vorne automobil fahrzeug rot vorderansicht
-👨‍🏭	fabrik fabrikarbeiter helm
-🏣	japan japanisches postgebäude post
-🫐	beere blau blaubeere blaubeeren essen frucht heidelbeere heidelbeeren lebensmittel nahrung obst
-🦑	kalmar tier tintenfisch
-🐵	affe affengesicht banane dschungel gesicht tier zoo
-🧊	eisberg eiswürfel gefroren kalt kühlen würfel
-🤿	schnorcheln schwimmen sport sporttauchen tauchen tauchmaske
-📼	vhs video videokassette
-💟	deko emotion gefühl herz herzdekoration liebe lila violett weiß
-🎥	film filmkamera kino unterhaltung
-🧥	brr jacke kalt kleidung mantel warm anziehen
-🐽	nase schwein schweinerüssel tier
-👭	frauen händchen halten haltende paar pärchen aus frau und
-🚝	bahn einschienenbahn magnetschwebebahn monorail
-🩷	gefallen gefällt gefühl herz liebe mag mögen niedlich pink rosa süß verliebt
-🧑‍🎓	absolvent(in doktorhut student(in uni
-🏡	baum haus mit garten
-😮‍💨	ausatmen erleichtert erschöpft gesicht husten puh pusten schnaufen seufz seufzen smiley
-🔣	& % ♪ 〒 eingabe eingabesymbol keycap sonderzeichen symbol tastenkappe
-🪚	handsäge holz säge sägen tischler trimmen werkzeug
-🧕	frau mit kopftuch hidschab hijab mantilla person tichel tuch
-🦂	horoskop skorpion sternzeichen tierkreis
-➖	- − mathe minus minuszeichen
-😮	erstaunt gesicht mund offen omg schockiert unglaublich vergessen wow
-🪸	great barrier reef klimawandel koralle korallenriff meer ozean riff tier
-🚊	straßenbahn tram verkehrsmittel
-😟	besorgt gesicht smiley sorgen traurig
-📇	rotationskartei visitenkarten
-🌽	gemüse mais maiskolben
-📫	briefkasten e-mail geschlossen geschlossener mit post
-🚄	hochgeschwindigkeitszug mit spitzer nase ice shinkansen tgv zug
-🧑‍🎨	farbpalette künstler(in maler(in
-🪪	ausweis dokument führerschein karte pass personalausweis plakette reisepass
-🫖	getränk kanne lebensmittel tee brühen teekanne teekrug trinken
-🕘	9 9:00 uhr zeit ziffernblatt 9.00
-🈵	belegt besetzt chinesisches schriftzeichen fülle japanisches kanji kein zimmer frei für „fülle“ „kein frei“
-🐔	geflügel henne huhn tier tierkopf
-👩‍🦽	barrierefreiheit behinderung frau in manuellem rollstuhl mensch person
-🛗	aufzug fahrstuhl haus lift symbol transport
-🍊	apfelsine frucht mandarine obst orange vitamin
-🤒	fieber gesicht krank messen smiley thermometer
-🎾	ball sport tennis tennisball
-🤡	clown clown-gesicht gesicht
-💰	geld geldsack moneten reich sack
-🛴	roller tretroller
-🪷	blume buddhismus erleuchtung gleichmut hinduismus liebe lotosblume lotusblüte pflanze reinheit ruhe schönheit
-🦉	eule raubvogel tier uhu vogel weise
-🐛	gefräßig insekt raupe tier
-📣	jubel lautsprecher megafon
-😱	angst ängstlich gesicht munch omg panik schrei schreien schreiend
-🥨	brezel brezen brezn essen gedreht oktoberfest
-📎	büroklammer
-🍩	donut doughnut essen kuchen süß
-🐕	haustier hund tier wau wuff
-🧑‍🧒‍🧒	erwachsene erwachsener familie kind
-🪮	afro pick haare haarkamm kamm kämmen
-🫗	ausgießen ausleeren flüssigkeit getränk gießen glas leer missgeschick tropfende verschütten
-📳	handy kommunikation mobiltelefon symbol für vibrationsalarm vibration vibrationsmodus vibrieren
-💏	frau herz kuss küssen küssendes paar mann sich
-🔮	kristallkugel wahrsager zukunft
-🙆	geste hände oje ok omg person über kopf übung
-🏈	american football amerika ball sport super bowl
-🥿	ballerina ballet-pumps bequem flacher schuh frauenschuh kleidungsstück slipper
-🦿	barrierefreiheit bein beinprothese prothese
-💆	behandlung die eine kopfmassage bekommt entspannen kopfschmerzen massage migräne person salon spa therapie
-🫯	handgemenge kampf krawall prügelei rauferei schlägerei streit wortgefecht
-🫰	daumen finger fingerherz gekreuzt geld hand handgeste kosten teuer zeigefinger
-🥯	bäckerei backwaren bagel brötchen essen frühstück pausenbrot
-🦜	ausplaudern papagei pirat plappern sprechen tier vogel wiederholen
-👨‍🌾	ähre bauer farmer gärtner landwirt rancher
-👖	hose jeans kleidung
-🦕	brachiosaurus brontosaurus dino dinosaurier diplodocus saurier sauropode
-🚯	abfall müll müll-verboten-zeichen verboten
-🩱	badeanzug einteiliger kleidung
-➕	+ addieren mathe plus pluszeichen
-😡	gesicht rot angelaufener smiley schmollendes wütend
-🥋	judo kampfkunst kampfsport kampfsportanzug karate taekwondo
-🐣	ei küken in eierschale piep schlüpfen schlüpfendes tier vogel
-👑	könig königin kopfbedeckung krone majestät
-🏆	bundesliga champion gewinnen pokal preis sieger sport trophäe
-🦔	igel stachelig stacheln tier
-✋	5 erhoben halt hand handfläche high five schlag ein stopp warte
-🔪	küchenmesser messer schneiden
-🪔	diya lampe öl öllampe
-🐏	schaf sternzeichen tierkreis widder
-🟣	form kreis lila punkt scheibe violett
-🥦	broccoli brokkoli essen gemüse gemüsekohl kohl
-👜	accessoire einkaufen handtasche tasche
-🍎	apfel frucht obst rot roter
-🍜	chinesisches essen dampfend eiernudeln nudeln schüssel und essstäbchen stäbchen suppe
-🐓	hahn tier
-🪑	holzstuhl möbel sitzen stuhl
-🧠	gehirn hirn intelligent intelligenz klug schlau
-📘	blau blaues buch
-🛬	ankunft flieger flughafen flugzeug landen landung eines flugzeugs
-🍘	cracker reiscracker
-🦚	bunt pfau stolz stolzieren tier vogel
-🎆	feuerwerk silvester
-🫌	hoffnung insekt metamorphose raupe veränderung verwandlung wechsel zart
-🤯	entsetzt explodieren geschockt gesicht kopf schock schockiert smiley überwältigt unglaublich
-🟩	form grün grünes quadrat viereck
-🈲	japanisches schriftzeichen kanji für „verbieten“ verbieten
-😈	böse dämon dämonin fantasie grinsen hörner lila märchen satan smiley teufel violett
-💗	aufregung gefühl herz herzschlag küsschen küsse liebe nervös nervosität puls wachsen xoxo
-🔼	aufwärts aufwärts-schaltfläche nach oben pfeil schaltfläche
-🎈	ballon feier geburtstag luftballon
-🦀	krabbe krebs meer sternzeichen strand tierkreis
-🩸	blutspende blutstropfen flüssigkeit medizin menstruation
-📄	dokument papier seite vorderseite eines blattes
-🐋	ozean tier wal
-🍌	banane frucht obst schale
-🤕	aua autsch gesicht kopf schmerzen smiley verband verletzung
-👡	damen damensandale sandale schuh
-🏤	europa europäisches postgebäude post
-🏓	ball ping pong schläger spiel sport tischtennis
-🧁	bäckerei cupcake dessert essen gebäck kalorienbombe konditorei muffin nachspeise streusel süß zucker
-🌲	baum nadelbaum pflanze tannenbaum
-🎂	essen feier geburtstag geburtstagskuchen geburtstagstorte happy birthday kerzen kuchen lebensmittel torte
-💋	gefühl knutsch kuss kussabdruck küssen liebe lippen lippenstift romantisch sexy
-🤔	fragen gesicht grübeln hm komisch nachdenken nachdenklich smiley wundern
-⛳	golffahne golfplatz
-🧫	bakterien bakterienkultur biologe biologie biologin kultur labor petrischale pipette probe
-🥠	essen glückskeks prophezeiung
-👐	hände jazz offen umarmen umarmung
-😃	augen fröhlich gesicht glücklich grinsen große lächeln lachen lol lustig mund offen smiley
-👅	ätsch hmm körperteil lecken lecker mmh zunge
-🤨	argwöhnisch augenbrauen gesicht hochgezogen misstrauen skeptisch smiley stutzig zweifel
-🎌	japan japanische flaggen überkreuzte
-💫	benommen benommenheit comic komet schwindlig stern sterne sternschnuppe
-🤹	artist artistin geschickt jongleur jongleur(in jongleurin jongleuse jonglieren multitasking person zirkus
-📠	fax faxgerät kommunikation
-🚪	eingang geschlossen tür
-🥹	aufgebracht dankbar freude freudentränen gerührt gesicht rührung smiley stolz tränen weinen zurückhalten
-🌖	abnehmend drittes mondviertel mond
-🙏	beten betend bitten danke danken gebet gefaltet grüßen handflächen zusammengelegt
-🧑‍🎤	entertainer(in rock sänger(in star
-🪥	badezimmer bürste körperpflege mundhygiene putzen sauber zahnbürste zähne zahnhygiene
-🏄	person sport surfboard surfbrett surfen surfer surfer(in surferin wassersport wellenreiten wellenreiter wellenreiterin
-👩‍🔬	forscherin frau labor wissenschaftlerin
-🤺	fechten fechter fechter(in schwert sport
-🎠	karussell karussellpferd pferd reiten
-🈳	chinesisches schriftzeichen japanisches leer für „leer“ „zimmer frei“ zimmer frei
-🔥	brennen feuer flamme heiß
-🪿	blöd dumm dumme gans gänserich ganter geflügel schnattern tier vogel
-🍨	eis eisbecher eiscreme eisdiele
-🕓	4 4:00 uhr zeit ziffernblatt 4.00
-🔯	hexagramm mit punkt wahrsager
-📉	abwärtstrend diagramm fallend kurve
-🐀	nagetier ratte tier
-👟	laufen rennen schuh sneaker sportlich sportschuh turnschuh
-📯	brief e-mail post posthorn
-😅	gesicht grinsen lächeln lachen lustig mund nervös offen schweiß schweißtropfen schwitzen smiley
-🦛	flusspferd hippo nilpferd tier
-🌛	gesicht mond mondsichel mit links weltall
-👔	hemd mit krawatte kleidung kragen schlips
-🧡	herz liebe orange
-❔	frage fragezeichen satzzeichen warum weiß weißes
-🐺	gesicht tier wolf wolfsgesicht
-🪹	heim leeres nest nestbau nisten vogelnest zuhause
-🤴	krone prinz
-🌘	abnehmend letztes mondviertel mond nacht
-🩺	abhören arzt doktor herz herzschlag medizin stethoskop untersuchung
-🍣	japanisches gericht restaurant sushi
-🍢	japanisches gericht oden restaurant
-🦐	garnele gourmet krustentier meeresfrucht shrimp
-🫺	daumen nach rechts geschlossene finger neutral zeigen
-🍮	dessert flan nachspeise nachtisch pudding schokolade soße
-🥐	corissant croissant französisch frühstück frühstückshörnchen
-🔖	etikett lesen lesezeichen
-🥟	chinesische teigtasche dumpling empanada essen gyōza jiaozi kloß pierogi potsticker
-🎭	kunst masken theater unterhaltung
-🈚	gratis japanisches schriftzeichen für „gratis“ „verhandlung“ verhandlung
-🚋	straßenbahn straßenbahnwagen tram tramwagen transport verkehrsmittel waggon
-🚦	ampel horizontal verkehrsampel vertikale
-😒	gesicht langweilig smiley traurig unglücklich unzufrieden verstimmt
-🔹	blau kleine blaue raute
-🪴	dekor grünpflanze haus pflanze pflegen topfpflanze wachsen zimmerpflanze
-🧰	box handkasten kasten kiste mechaniker rote werkzeug werkzeugkasten werkzeugkiste werkzeugkoffer
-🦃	geflügel pute thanksgiving truthahn
-🍄	fliegenpilz giftig pilz
-🟤	braun braune scheibe brauner kreis punkt form
-🫱	ausgestreckt ausstrecken hand hände händeschütteln rechts reichen schütteln weisen
-🧟	apokalypse halloween horror person untot untoter walking dead wandelnder toter zombie
-👨‍🎤	mann mikrofon popstar sänger schauspieler
-🫩	augenringe erschöpft gesicht müde schläfrig smiley übermüdet
-🤗	drücken gesicht hände smiley umarmen umarmung
-⏩	doppelpfeil doppelpfeile nach rechts überspringen vorwärts weiter
-🕜	1 uhr 30 1:30 halb zwei ziffernblatt 1.30
-📈	aufwärtstrend diagramm kurve steigend
-🦆	ente tier vogel
-🤼	catchen catcher person ringen ringer ringer(in ringkampf sport sportler wrestler wrestling
-🎶	musik musiknoten noten
-🦁	gesicht löwe löwengesicht sternzeichen tier tierkreis
-🤏	betrag finger gering geste hand klein menge unbedeutend wenig wenig-geste winzig
-🪄	abrakadabra hexe hexer magie magisch wunder zauberei zauberer zauberin zaubern zauberstab
-🆖	großbuchstaben ng in blauem quadrat
-😙	augen flirten gesicht knutsch kuss küssen lächeln smiley
-🙍	frustriert gesicht missmutig person runzeln stirnrunzelnd unzufrieden verärgert
-🚂	bahn dampf dampflok dampflokomotive fahrzeug lokomotive schiene zug
-👰	braut mit schleier gesicht hochzeit person
-🚭	rauchen verboten rauchverbot zigarette
-😨	angst ängstlich besorgt gesicht
-🎼	musik noten notenschlüssel partitur violinschlüssel
-🤦	fassen frustriert genervt gesicht kopf oh nein omg person unfassbar unglaublich verzweifelt
-📞	anrufen hörer kommunikation telefon telefonhörer
-🚎	oberleitungsbus straßenbahn trolleybus
-🔢	1234 eingabe eingabesymbol symbol zahlen ziffern
-🪣	behälter bottich eimer kübel wassereimer
-😾	gesicht katze katzengesicht schmollen schmollmund smiley tier verärgert
-🥢	chinesisches essen essstäbchen hashi japanisches stäbchen
-🏑	feldhockey hockey schläger
-🎢	achterbahn freizeitpark volksfest
-🐭	gesicht maus mäusegesicht mausgesicht nagetier tier
-😧	arm gesicht leidend qualvoll smiley vergessen wow
-🐷	gesicht schwein schweinegesicht tier
-🫣	auge finger gebannt gesicht hervorlugen linsen schüchtern smiley spähen starren verlegen
-🍈	cantaloupe frucht honigmelone melone obst
-🤛	faust hand nach links
-🙋	aufzeigen drankommen drannehmen frage geste hand heben hier ich person sich melden wissen
-🚲	bmx fahrrad rad radeln radler spinning
-🍑	frucht obst pfirsich
-🌍	afrika erde europa globus mit und weltkugel
-👬	händchen halten haltende männer paar pärchen aus mann und zwillinge
-🐗	eber schwein tier wildschwein
-🤎	braun braunes herz
-🚃	eisenbahnwagen fahrzeug straßenbahn straßenbahnwagen tram wagen waggon wagon zug
-🎤	karaoke mikrofon singen unterhaltung
-👿	böse dämon dämonin fantasie fantasy gesicht hörner kobold lila märchen satan teufel teufelchen violett wütend
-📡	antenne sat-schüssel satellitenschüssel satschüssel schüssel
-🫨	doppelgesicht erdbeben gesicht omg panik schock smiley überrascht verrückt vibrieren wow zittern
-🤜	faust hand nach rechts
-🌰	kastanie marone
-🐨	koala koalabär koalagesicht tier
-📚	bücher bücherstapel fantasie lesen roman
-🌿	blätter kräuter pflanze
-♍	horoskop jungfrau sternzeichen
-📂	dokument geöffneter ordner offen
-🔠	abcd buchstaben eingabe eingabesymbol großbuchstaben großschreiben lateinisch
-🔗	kettenglieder linksymbol verknüpfen verknüpfung verknüpfungssymbol zwei ringe
-🔱	anker dreizack poseidon triton
-🥒	essen gemüse gurke scheiben
-⏪	doppelpfeil doppelpfeile nach links dreieck pfeil vorheriger titel zurück zurückspulen
-🥁	drumsticks instrument musik schlägel sticks trommel trommelstöcke
-📅	datum kalender kalenderblatt
-👨‍🦼	barrierefreiheit behinderung mann in elektrischem rollstuhl mensch person
-🍚	essen reis in schüssel
-🐆	gepunktet leopard punkte raubkatze raubtier tier zoo
-☔	regen regenschirm im
-🍼	baby babyflasche fläschchen flasche kind milch trinken
-🎳	bowling bowlingkugel kugel spiel
-🪭	abkühlung fächer faltfächer flirten heiß kühlen luft zufächeln schüchtern spanisch tanz warm
-🍉	frucht melone obst wasser wassermelone
-🎄	baum tanne weihnachten weihnachtsbaum
-🔲	quadratisch schaltfläche schwarz schwarze quadratische
-🧑‍🌾	bauer/bäuerin farmer(in gärtner(in landwirt(in
-🚩	dreiecksflagge flagge rot standortflagge wimpel
-🦓	streifen tier zebra
-🍗	fleisch geflügel hähnchenschenkel hühnerbein restaurant
-🥮	essen fest festival herbst kuchen mondfest mondkuchen pinyin yuebing
-🏪	einkaufen gebäude geschäft lebensmittel minimarkt
-🍓	beere erdbeere essen frucht obst
-🤚	erhoben erhobene hand von hinten erhobener handrücken
-📩	e-mail gesendet umschlag mit pfeil
-📓	notizbuch notizen
-👥	büsten personen silhouette mehrerer
-📊	balken balkendiagramm diagramm
-🗽	amerika freiheit freiheitsstatue
-🕒	3 3:00 uhr zeit ziffernblatt 3.00
-🪋	atmosphäre feuerkugel gestein meteor sternschnuppe verglühen
+😈	böse bose dämon damon dämonin damonin fantasie grinsen hörner horner lila märchen marchen satan smiley teufel violett
 👓	accessoire brille
-🚰	trinkwasser wasser wasserhahn
-🎽	laufen laufshirt mit schärpe sport
-😴	dösen einschlafen gähnen gesicht gute nacht langweilig mittagsschlaf müde nickerchen schlaf schlafen smiley zzz
-🎦	film filmkamera in blauem quadrat kino kinosymbol unterhaltung
-🥏	disc disk fliegende untertasse frisbee scheibe ultimate
-🦡	dachs dachse frechdachs honigdachs ratel tier
-🎨	farben kunst künstler mischpalette palette
-🍖	fleisch fleischhachse knochen restaurant
-🔍	lupe nach links suche vergrößerungsglas
-🌹	blume blüte pflanze rose
-👩‍🚀	astronautin frau raumfahrt weltraum
-🐚	muschel schneckenhaus strand tier
-🎰	glücksspiel spiel spielautomat
-🕺	elegant festlich flair flamenco mann salsa schwung tango tanz tanzen tänzer
-🔡	eingabesymbol lateinische kleinbuchstaben
-👩‍🦯	barrierefreiheit behinderung blind frau mit blindenstock gehstock langstock mensch person
-🕍	jude jüdisch religion synagoge tempel
-🛁	bad badewanne badezimmer dusche
-💘	herz mit pfeil liebe
-🥍	ball lacrosse schläger sport stick stock tor
-🧑‍🔧	elektriker(in klempner(in mechaniker(in
-😍	augen gesicht glücklich herzen herzförmig lächeln liebe smiley verliebt
-🆑	cl großbuchstaben in rotem quadrat
-🧃	fruchtsaft getränk obstsaft saft saftpackung trinkpäckchen
-👒	damenhut mit schleife hut kleidung kopfbedeckung
-♌	horoskop löwe sternzeichen
-🌞	gesicht sonne mit sonnengesicht sonnenschein
-🍆	aubergine gemüse
-😊	augen erröten freude freundlich gesicht glücklich lächeln lachen rot wangen
-🫸	drücken halt hand high 5 five moment nein rechts schieben schluss stopp warte mal warten
-💲	bezahlen dollar dollar-zeichen dollarzeichen extrafett geld knete moneten teuer usd währung
-🦍	affe gesicht gorilla tier
-🌈	regenbogen wetter
-🙂	gesicht lächeln leicht smiley
-🧭	himmelsrichtung kompass magnetisch navigation orientierung richtung windrose
-👞	gehen herren herrenschuh schuh
-🩳	badebekleidung badehose boxershorts kleidung schwimmshorts shorts
-🧑‍🚀	astronaut(in raumfahrt weltraum
-🕚	11 11:00 uhr zeit ziffernblatt 11.00
-😵	augen benommen gesicht ko krank kreuze schwindelig schwindlig smiley
-📿	beten gebet gebetskette kette religion rosenkranz
-🤓	brille gesicht intelligent klug nerd schlau schlaumeier smart smiley streber strebergesicht
-🪀	jo-jo spielzeug yo-yo
-🏫	gebäude schule schulgebäude
-🍹	bar cocktail exotisches getränk
-🕝	2:30 uhr halb drei zeit ziffernblatt 2.30
-🕠	05:30 17:30 5:30 uhr halb sechs ziffernblatt 5.30
-📟	kommunikation pager piepser
-🎵	lied melodie musik musiknote note
-👙	badeanzug bikini kleidung
-🩲	badeanzug einteiler kleidung slip unterwäsche
-🤑	dollar dollarzeichen geld gesicht mund smiley zunge
-🚛	lastwagen lkw sattelzug umziehen ziehen um
-🥘	essen paella pfannengericht reispfanne
-😘	flirten gesicht kuss küsschen küssen lieb smiley zuwerfen
-🛺	autorikscha fahrzeug tuk-tuk
+😂	freude freudentränen freudentranen fröhlich frohlich gesicht haha happy hehe hihi lachen lol lustig muahaha rofl smiley tränen tranen witzig
+📂	dokument geöffneter geoffneter ordner offen
 👱	blond blondhaarig gesicht mensch person
-🛂	pass passkontrolle
-🪓	axt beil hacken holz spalten werkzeug
-🫝	eingelegt essig gewürzgurke gurke saure
-🔞	erwachsene minderjährige verboten mindestalter nicht jugendfrei zeichen mit durchgestrichener 18
-🤝	hände händeschütteln handschlag vereinbarung
-📒	notizblock spiralblock
-🚥	ampel horizontale verkehrsampel vertikal
-🔊	dezibel laut lautsprecher mit drei schallwellen hoher lautstärke musik
-🐴	gesicht pferd pferdegesicht pferdekopf tier
-😕	gesicht keine ahnung smiley traurig verwirrt verwundert weiß nicht
-🫑	essen gemüse gemüsepaprika grün lebensmittel nahrung paprika peperoni
-🫄	aufgebläht bauch dick dicker person schwanger schwangere schwangerschaft überfressen zu viel gegessen
-🪐	gasplanet himmelskörper planet ringplanet saturn
-🏅	gewinn goldmedaille medaille sportmedaille
-🏯	bauwerk gebäude japan japanisch japanisches schloss
-🌊	meer welle
-💿	blu-ray cd dvd
-🪦	friedhof grab grabstein rip tot
-⚾	ball baseball
-👈	finger handrückseite links weisen zeigefinger zeigen
-🦒	flecken giraffe tier
-🌗	abnehmend abnehmender halbmond
-🚸	kinder überqueren die straße kinder-queren-die-straße-schild straßenschild vorsicht
-🤳	selfie smartphone
-🏀	ball basketball korb sport
-🚏	bus bushaltestelle haltestelle
-🥷	ausdauer geheimmission kämpfer killer krieger kunoichi mörder ninja person shinobi soldat vermummt
-⚽	ball bundesliga fußball messi
-🚖	auto fahren gelb taxi von vorne vorderansicht
-👂	hören körperteil ohr
-👝	accessoire beutel clutch handtasche kulturbeutel tasche waschtasche
-📵	handy mobiltelefon mobiltelefone verboten verbot
-🐳	blasender wal meer ozean tier
-😯	erstaunt gesicht omg smiley sprachlos verdutzt
-🍫	essen schokolade schokoladentafel süßigkeit
-🌋	ausbruch berg lava vulkan vulkanausbruch wetter
-🧝	elbe elben elbin elf elf(e elfe fantasy herr der ringe magie magisch person
-💛	gefühl gelb herz herzlich liebe
-👨‍💻	arbeit bildschirm büro computer entwickler it-experte mann office
-🐃	büffel tier wasser wasserbüffel
-🧆	bällchen essen falafel fleischbällchen kichererbsen lebensmittel nahrung
-💎	diamant edelstein
-🧑‍🚒	feuerwehrhelm feuerwehrmann/-frau
-📷	fotoapparat fotos kamera
-⛪	christ christentum christlich gebäude kirche kreuz religion
-🚵	fahrrad mountainbiker mountainbiker(in mountainbikerin mountainbiking person rad radfahren radfahrer radfahrerin sport tour de france
-🐟	aquarium fisch fische meehr sternzeichen tier tierkreis
-🤥	gesicht lüge nase pinocchio schwindel
-😛	ätsch bäh gesicht herausgestreckt lachen lustig smiley zunge
-🦵	bein extremität fuß gebeugtes knie gliedmaße körperglied körperteil treten tritt
-🪒	klinge rasieren rasierer rasiermesser scharf
-💈	barbershop-säule friseur herrenfriseur säule
-📹	filmen videokamera videos
-🛵	motoroller motorroller roller vespa
-💸	bank euro geld geldschein mit flügeln knete moneten
-🔦	lampe licht taschenlampe
-🧑‍🧑‍🧒‍🧒	erwachsene erwachsener familie kind
-🚳	fahhrad fahrrad-verboten-schild fahrräder verboten radfahren
-🪵	baumstamm feuerholz holz holzig holzscheite lagerfeuer
-😂	freude freudentränen fröhlich gesicht haha happy hehe hihi lachen lol lustig muahaha rofl smiley tränen witzig
-🐦	papagei taube tier vogel vogelkopf
-🔩	mutter und schraube
-🤠	cowboy cowboyhut cowgirl gesicht hut smiley
-🔉	lautsprecher mit einer schallwelle mittlerer lautstärke leise mittellaut ton
-💇	friseur friseurin friseuse frisör frisörin frisur haare haarschnitt person beim haareschneiden schere
-🧓	alt älter erwachsen großeltern mensch person weise
-👼	engel gesicht kind märchen putte
-🪠	abfluss gummiglocke klempner klo pömpel pümpel sanitär saugglocke saugglocken toilette verstopft wc werkzeug
-👨‍💼	angestellter büro büroangestellter manager mann
-🔃	im uhrzeigersinn kreisförmige pfeile
-🦦	fischen otter tier verspielt
-🗻	berg fuji vulkan
-🐖	bauernhof sau schwein tier
-🧲	anziehung anziehungskraft hufeisen magnet magnetisch pole positiv negativ u-form
-🚻	toilette toiletten wc
-💤	buchstaben comic gähn langweilig müde nickerchen öde schlaf schlafen schnarchen zzz
-🔌	netzstecker stecker stromstecker
-🏺	amphore gefäß kochen krug sternzeichen tierkreis trinken vase wassermann
-📻	musik radio
-🧑‍🦯	barrierefreiheit blind person mit blindenstock langstock
-🪗	akkordeon akkordeons concertina harmonika instrument musik musikinstrument quetschkommode quetschkommoden schifferklavier spielen ziehharmonika ziehharmonikas
-🍱	bento bento-box japanisches essen sushi
-🔘	optionsfeld schaltfläche
-🕙	10 10:00 uhr zeit ziffernblatt 10.00
-👻	buh fantasy geist gesicht gespenst gruselig halloween märchen spuk zunge
-🧉	getränk mate-tee tee
-🫀	anatomie herz herzschlag körper körperteil mensch organ puls schlagen
-🦭	meer ozean robbe seehund seelöwe tier
-👨‍🔬	chemie forscher labor wissenschaftler
-🐫	kamel tier wüste zweihöckrig
-♉	horoskop sternzeichen stier
-👨‍🍳	koch kochen restaurant
-🚢	dampfer kreuzfahrtschiff schiff traumschiff
-🥽	augenschutz brille schutzbrille schweißen schweißerbrille schwimmen tauchen taucherbrille
-🚟	hängebahn schwebebahn
-🔶	große orangefarbene raute orangefarben
-🪡	einfädeln faden nadel und nähen nähnadel nähte schneidern stiche sticken
-⛺	camping campingurlaub zelt zeltplatz
-🙁	betrübt gesicht schade smiley traurig
-👾	computerspiel-monster gesicht monster ufo
-💷	geld geldschein pfund pfund-banknote
-🏉	ball rugby rugbyball sport
-❓	frage fragezeichen rot rotes satzzeichen warum wieso
-👩‍🎨	farbpalette frau künstlerin malerin
-🐇	hase kaninchen karnickel mümmelmann nagetier tier
-🌾	ähre pflanze reis reisähre reispflanze
-🛷	rodel rodeln schlitten schnee
-🌀	spirale wirbel wirbelsturm
-🦴	hund hundeknochen kauknochen knochen skelett
-👨	erwachsen gesicht mann
-💥	bombe boom comic explodieren explosion kollidieren kollision zusammenstoß zusammenstoßen
-🗿	gesicht maske osterinsel statue
-⛵	boot segelboot
-🫵	deuten du finger fingerzeig hand handgeste sie stupsen zeigefinger zeigen
-🏰	bauwerk burg europa europäisch gebäude märchen märchenschloss schloss
-🐞	glückskäfer insekt käfer krabbel marienkäfer punkte tier
-🚆	bahn eisenbahn ice zug
-🐕‍🦺	assistenz assistenzhund barrierefreiheit behinderung hund tier
-🐮	gesicht kuh kuhgesicht tier
-🏮	izakaya japanische laterne japanisches lokal rote papierlaterne
-😥	ängstlich enttäuscht erleichtert gesicht knapp schweiß traurig
-🧤	hand handschuh handschuhe
-🐰	gesicht hase hasengesicht kaninchen karnickel langohr mümmelmann nager nagetier tier
-🏨	gebäude hotel übernachten unterkunft
-🍕	pizza pizzastück pizzeria
-📗	buch grün grünes lesen
-🎇	feiern feuerwerk party wunderkerze
-🪳	insekt käfer kakerlake krabbeln krabbeltier küchenschabe la cucaracha schabe tier
-⚡	blitz elektrizität gefahr gewitter hochspannung hochspannungszeichen strom
-⏬	doppelpfeil doppelpfeile nach unten doppelt abwärts pfeil
-🍻	anstoßen bier bierkrüge oktoberfest prosit prost weizen
-🚺	damen damentoilette wc
-👚	bluse damenmode kleidung oberbekleidung shirt
-🧳	ballast gepäck hartschalenkoffer koffer reise trolley-tasche
-♐	schütze sternzeichen
-🚤	boot luxus schnellboot see sommer wasser yacht
-📝	bleistift kurzmitteilung nachricht notiz papier und schreibblock schreiben
-🪨	felsen felsig hart natur schwer stein steinig
-🍅	essen gemüse obst tomate
-📁	akten büro dokument geschlossen ordner
-🎁	feier geburtstag geschenk schachtel schleife überraschung verpackt weihnachten
-🧑	erwachsen erwachsene person mensch
-🚒	brand feuerwehrauto löschfahrzeug
-👷	arbeit bau bauarbeiter bauarbeiter(in bauarbeiterin beruf gesicht helm person schutzhelm umbauen
-🔤	abc alphabet buchstaben eingabe eingabesymbol lateinisch symbol
-🚞	bahn bergbahn bimmelbahn zug
-🌐	breitengrad globus mit meridianen längengrad
-😸	augen gesicht grinsen katze katzengesicht lachen smiley tier
-🫡	aye gesicht jawohl jawoll militär ok respekt salutieren smiley zu befehl
-🟰	gleich gleichheit gleichheitszeichen extrafett ist mathematik vergleichszeichen
-🚬	kippe rauchen rauchersymbol zigarette
-🆒	cool wort „cool“ in blauem quadrat
-🍺	bar bier bierkrug krug oktoberfest prost weizenbier
-🪏	graben loch schaufel schippe spaten
-🐂	kuh ochse sternzeichen stier tier tierkreis
-🤙	anruf anrufen hand ruf ruf-mich-an-handzeichen shaka
-♓	fische sternzeichen horoskop
-👵	alt älter erwachsen frau großeltern großmutter mensch oma seniorin weise
-🐧	pinguin pinguinkopf tier vogel
-❎	angekreuztes feld kästchen kreuz kreuzsymbol im quadrat x
-🟫	braun braunes quadrat viereck form
-🥩	essen fleisch fleischstück kotelett lammkotelett rot schnitzel schweinekotelett steak
-🦾	arm armprothese barrierefreiheit prothese
-🎣	angel mit fisch angeln entspannung
-😌	augen entspannt erleichtert geschlossen gesicht smiley zen zufrieden
-🫷	drücken halt hand high 5 five links moment nein schieben schluss stopp warte mal warten
-🐝	biene honig honigbiene hummel insekt maja natur summ tier
-🌻	blume blüte pflanze sonne sonnenblume
-✨	* funkel funkeln funkelnde sterne
-🚽	klo toilette wc
-🥑	avocado essen frucht
-👛	accessoire brieftasche geldbörse münzen portemonnaie
-🌮	essen mexikanisch taco
-📋	clipboard clpboard klemmbrett zwischenablage
-🦊	fuchs fuchsgesicht gesicht tier
-⚫	ball großer schwarzer kreis punkt rund schwarz
-♒	sternzeichen wassermann
-🐈‍⬛	kater katze miau pech schwarz schwarze schwarzer tier unglück
-🩵	aquamarin emotion gefallen gefällt gefühl hdl hellblau herz liebe mag mögen niedlich süß türkis zyan
-📤	ablage e-mail postausgang
-🐐	steinbock sternzeichen tier tierkreis ziege
-🧂	gesalzen geschmack gewürz salz salzig salzstreuer würze zutat
-🎯	dart darts pfeil spiel volltreffer zielscheibe
-🐻	bär bärengesicht gesicht tier
-🔨	hammer werkzeug
-🚣	angeln boot kanu paddel person im ruderboot rudern sport
-👕	kleidung shirt t-shirt
-🐼	gesicht panda pandabär pandagesicht tier
-👃	körperteil nase riechen
-📭	briefkasten keine e-mail post offen offener ohne
-🚁	fliegen helikopter hubschrauber reisen
-🛻	auto fahren fahrzeug laster lastwagen lieferwagen lkw pick-up transport
-🕤	9:30 uhr halb zehn zeit ziffernblatt 9.30
-🫅	adelig könig königin königlich königliche hoheit krönung monarch monarchin person mit krone prinz prinzessin
-🧑‍🦽	barrierefreiheit person in manuellem rollstuhl
-🌱	junge pflanze spross
-😪	gesicht gute müde nacht schläfrig smiley traurig
-🧒	enkelkind jung jünger kind munter strahlend
-🦤	aussterben dodo dronte groß mauritius natur tier vogel
-👢	damen damenstiefel schuh stiefel
-📬	briefkasten e-mail offen offener mit post
-🚼	baby symbol „baby“ wickelraum
-🚑	ambulanz krankenwagen notfall
-😞	enttäuscht gesicht leider schade smiley traurig verloren
-🍸	bar cocktail cocktailglas drink martini
-🥵	erhitzt fieber fiebrig gesicht heiß herausstrecken hitze hitzschlag rot schnaufen schwitzen smiley zunge
-🫔	burrito eingewickelt essen lebensmittel mexikanisch streetfood tamale wrap
-👹	gesicht gruselig japan japanisch märchen maske monster oger ungeheuer
-😬	gesicht grimasse peinlich schneiden smiley verziehen zähne
-🤶	weihnachten weihnachtsfrau
-🎓	abschlussfeier diplom doktorhut
-👩‍🎓	abschluss absolventin diplom doktorhut studentin uni
-🛖	behausung gebäude haus hütte jurte objekt rundhaus schutz
-🎬	film filmklappe klappe unterhaltung
-🤘	corna finger hand heavy hörner mano cornuta metal metalhand pommesgabel rock teufel teufelsgruß yeah
-🕣	8:30 uhr halb neun ziffernblatt 8.30
-🤫	ermahnen finger gesicht leise psst pst ruhe ruhig sch smiley
-🔭	himmel teleskop
-🌸	blume blüte kirschblüte kirsche pflanze
-🥻	kleid kleidung sari
-🎷	instrument musik musikinstrument saxofon
-😺	gesicht grinsen katze katzengesicht lachen lol lustig mund offen smiley tier
-😫	gesicht müde niesen smiley traurig
-😀	froh fröhlich gesicht grinsen haha lachen lol lustig smiley
-💭	comic gedankenblase nachdenken
-🦼	barrierefreiheit behinderung elektrischer rollstuhl
-👩‍💼	angestellte büro büroangestellte frau managerin mangerin
-♿	barrierefrei behindertengerecht rollstuhl symbol „rollstuhl“
-🥄	besteck löffel
-🧽	absorbieren aufsaugen löchrig porös putzen putzmittel reinigen sauber machen schaum schäumen schwamm
-💵	dollar dollar-banknote geld geldschein währung
-🐹	gesicht hamster hamstergesicht tier
-💾	datenträger diskette
-🌔	mond zunehmend zweites mondviertel
-🥫	büchse dose essen konserve
-💴	geld geldschein yen yen-banknote
-🦧	affe orang-utan tier
-🍶	flasche getränk sake sake-flasche mit tasse und -tasse trinken
-⚪	ball großer weißer kreis punkt weiß
-🆙	keycap taste tastenkappe up
-😎	cool gesicht lächeln smiley sonnenbrille
-📐	dreieckiges lineal geodreieck
-🫧	blasen perlen reinigen schaum schweben seife seifenblasen unter wasser wasserblasen
-💕	date gefühl herz herzen hochzeitstag jahrestag küsschen küsse liebe rendezvous xoxo zwei
-😗	flirten gesicht hdl knutsch kuss küssen smiley xoxo
-🫤	enttäuscht genervt gesicht hmpf keine ahnung langweilig skeptisch smiley unsicher zweifelnd
-💬	comic dialog gespräch sprechblase mit drei punkten unterhaltung
-🛘	berg erdbeben felsen gefahr katastrophe lawine murenabgang murgang schlammlawine
-🚚	lastwagen lieferwagen lkw
-🔚	end-pfeil ende-zeichen links pfeil
-💺	bus flugzeug sitz sitzplatz zug
-🎉	böller feier juhu knaller konfetti konfettibombe party super yay
-🤲	beten gebet hand hände nach oben zusammen
-😔	enttäuscht gesicht nachdenklich schrecklich smiley traurig verlieren verloren
-👋	auf wiedersehen bis später ciao guten tag hallo hand hey hi tschüs tschüss winken
-🎊	feier konfetti konfettiball party
-💼	aktentasche tasche
-🥬	blattgemüse blattgrün essen gemüse grünkohl grünzeug kohl kraut mangold pak choi pok salat salatblatt spinat
-🈸	anwenden chinesisches schriftzeichen japanisches für „anwenden“
-🚱	kein trinkwasser verboten verschmutzt wasser
-🐄	bauernhof kuh muh tier
-⬜	großes weißes quadrat weiß
-😝	auge augen bäh ekel gesicht herausgestreckt herausstrecken igitt schmeck schrecklich smiley zunge zusammengekniffen zusammenkneifen
-😓	angstschweiß augen bedrückt geschlossen gesicht kopfschmerzen schweiß smiley
-🩼	behinderung beinverletzung fußverletzung gehhilfe gehstütze hilfe krücke schmerzen stock verletzt verletzung
-🙀	angst erschöpft gesicht katze katzengesicht panik schock schockiert schrei schreien smiley tier überrascht
-🧯	feuer feuerlöscher löschen
-🦖	dino dinosaurier saurier t-rex tree tyrannosaurus rex
-🧑‍🧒	erwachsene erwachsener familie kind
-🐒	affe tier
-🥴	angeheitert angeschwipst angetrunken benebelt berauscht beschwipst betrunken gewellt mund schwindelig schwindlig smiley
-🧅	essen geschmack gewürz lebensmittel nahrung würze zwiebel
-🍙	essen japanisch reis reisbällchen
-👨‍🚒	feuerwehr feuerwehrhelm feuerwehrmann mann
-🪈	band blaskapelle flöte holzblasinstrument instrument musik musikinstrument musizieren orchester spielmannszug
-🏏	ball cricket kricket schläger
-👴	alt älter erwachsen großeltern großvater mann mensch opa senior weise
-🦝	klug neugierig schlau tier waschbär
-🎲	casino spiel spielwürfel unterhaltung würfel würfeln zufall
-🚡	bergseilbahn gondel seilbahn
-😑	ausdruckslos gesicht kommentarlos selbstgefällig smiley unbeeindruckt unglaublich
-🥶	bibbern blau eisig erfrieren frieren frösteln frostig gesicht kalt smiley unter null zähne zähneklappern zittern
-🚿	dusche duschkopf
-🖕	finger hand mittelfinger
-🫆	fingerabdruck forensik identität sicherheit
-🧑‍🍳	koch/köchin kochen
-🫠	auflösen beschämt flüssig gesicht hitze sarkasmus sarkastisch schmelzen schwitzen smiley verschwinden
-🐑	bock mäh schaf tier widder wolle
-🕐	01:00 1 1:00 uhr 13:00 punkt eins zeit ziffernblatt 1.00
-🔑	passwort schließen schlüssel
-🚕	auto fahrzeug taxi
-🎹	instrument klaviatur klavier musik musikinstrument piano tastatur tasten
-🦮	barrierefreiheit behinderung blind blindenhund hund sehbehindert tier
-📃	dokument papier seite teilweise eingerolltes blatt
-👨‍🔧	elektriker handwerker klempner mann mechaniker
-😄	augen fröhlich geschlossen gesicht glücklich grinsen lächeln lachen lol lustig mund offen smiley witzig
-🥲	berührt dankbar erleichtert freudenträne gerührt gesicht lächeln smiley stolz träne
-🫥	depressiv deprimiert egal gesicht gestrichelt introvertiert smiley traurig unsichtbar verschwinden verstecken
-🥤	becher mit strohhalm brause erfrischung saft selters soda trinken trinkhalm wasser
-🥃	bar schnaps trinkglas whiskey
-🗼	fernsehturm tokio tokyo tower
-🙄	augen genervt gesicht meinetwegen nerv ohje rollen smiley verdrehen verrollen
-🦥	faul faultier langsam tier träge
-🧞	aladdin aladin dschinn flaschengeist lampe person wunderlampe wünsche
-🤪	auge augen gesicht groß irre klein smiley verrückt
-👩‍🍳	kochen köchin
-🫘	bohne bohnen essen gemüse hülsenfrucht kidney-bohne kidneybohne lebensmittel
-🥇	erster gewinn goldmedaille medaille 1 platz
-🐘	elefant tier
-🔻	abwärts dreieck rot rotes mit der spitze nach unten
-🎡	freizeitpark rad riesenrad volksfest
-🕢	7:30 uhr halb acht zeit ziffernblatt 7.30
-💪	arm bizeps bodybuilder bro fitnessstudio gewichtheben muckies muskeln stark training
-🎒	ranzen rucksack schule schulranzen tornister
-😢	gesicht smiley träne traurig weinen
-👨‍🦯	barrierefreiheit behinderung blind mann mit blindenstock gehstock langstock mensch person sehbehindert
-🫪	angst ängstlich aufgedunsen besorgt panik panisch schockiert überrascht
-🔕	durchgestrichene glocke kein ton leise ausgeschaltet
-📢	lautsprecher megafon schallendes
-🦟	biss fieber insekt insektenbiss insektenstich krankheit malaria moskito mücke schnake stechmücke stich tier virus
-🎅	weihnachten weihnachtsmann
-❕	ausrufezeichen muss satzzeichen weiß weißes
-🤽	person schwimmsport sport sportler sportlerin wasser wasserball wasserballspieler wasserballspieler(in wasserballspielerin wassersport
-🗾	japan karte umriss von
-🔆	heller heller-taste helligkeit starke
-🤣	boden gesicht haha hehe lachen lol lustig muahaha rofl smiley tränen wälzen witzig
-🦅	adler tier vogel
-🧶	ball garn häkeln spinnen stricken wolle wollknäuel zwirn
-🍇	frucht obst traube trauben wein
-🌯	burrito essen mexikanisch
-🌎	erde globus mit amerika nordamerika südamerika weltkugel
-🀄	mahjong mahjong-stein roter drache spiel
-🦣	aussterben groß mammut natur stoßzahn tier wollig
+🌇	großstadt hochhäuser hochhauser morgenrot sonnenaufgang sonnenuntergang in der stadt wolkenkratzer
+🪀	jo-jo spielzeug yo-yo
+🎾	ball sport tennis tennisball
+🔼	aufwärts aufwarts aufwärts-schaltfläche nach oben pfeil schaltfläche schaltflache
 🥝	frucht kiwi obst
-😻	augen gesicht herzaugen herzen katze katzengesicht lächeln lachen liebe smiley tier verliebt
-🎸	gitarre instrument musik musikinstrument
-⏫	aufwärts doppelpfeil doppelpfeile nach oben doppelt pfeil
-🏩	gebäude hotel liebe stundenhotel unterkunft
-🥓	bacon essen frühstücksspeck speck speckstreifen
-➗	÷ division divisionszeichen geteilt durch geteiltzeichen mathe
-🐦‍🔥	asche fabelwesen fantasy feuer feuervogel phönix reinkarnation tier vogel wiedergeburt
-🔁	im uhrzeigersinn keycap pfeile tastenkappe wiederholen
-👪	familie junge kind mutter vater
-🤍	herz weiß weißes
-🪃	aborigines australien boomerang bumerang schleuder waffe werfen
-🔧	schraubenschlüssel werkzeug
-🐶	gesicht hund hundegesicht tier treu wau wuff
-🦌	gesicht hirsch tier
-🎋	baum fest japan sternenfest tanabata-baum zettel
-🕌	islam moschee moslem muslim religion
-📔	einband notizbuch mit dekorativem
-🕗	8 8:00 uhr um zeit ziffernblatt 8.00
-🐲	drache drachengesicht gesicht märchen tier
-👊	absolut bro faust geballt hand korrekt zustimmen
-🫙	einmachglas einweckglas essen gewürzglas leer leerer behälter leeres glas marmeladeglas schraubglas
-🚇	metro u-bahn
-🧏	barrierefreiheit gehörlos hören ohr person schwerhörig taub
-🤐	geheimnis gesicht halten mund reißverschluss schweigen smiley wahren
-👩	erwachsen frau gesicht
-🍡	dango japanisches gericht mochi-kugeln auf einem spieß restaurant
-📧	brief e-mail e-mail-symbol post
-🛜	computer drahtlos hotspot internet kabellos netzwerk router verbindung wi-fi wlan
-🐊	krokodil reptil schnappi tier
-📌	anpinnen reißzwecke
-🕕	6 6:00 uhr zeit ziffernblatt 6.00
-⛲	brunnen garten park springbrunnen
-🔫	pistole revolver waffe wasserpistole
-🍐	birne frucht obst
-⚓	anker hafen meer
-🪆	babuschka matrioschka matrjoschka matroschka puppe russland spielzeug
-📦	päckchen paket
-🧧	geld geschenk glück hong bao hongbao roter umschlag
-🪽	engel engelsflügel federn fliegen flug flügel himmlisch mythologie vogel
-🎪	unterhaltung zelt zirkus zirkuszelt
-😏	feixen flirten gesicht lächeln mundwinkel schief smiley süffisant
-🛄	gepäck gepäckausgabe
-♑	steinbock sternzeichen
-🧑‍💼	architekt(in büroangestellte(r business manager(in schlips und kragen
-🐁	maus nage tier
-🐌	langsam schnecke tier
-👩‍🌾	ähre bäuerin farmerin gärtnerin landwirtin
-🕑	2 2:00 uhr zeit ziffernblatt 2.00
-🎀	feier geschenk pink rosa schleife
-📪	briefkasten geschlossen geschlossener ohne post keine e-mail
-🎮	gamepad gaming unterhaltung videospiel
-🔴	ball punkt rot roter
-🦞	hummer lobster meeresfrucht meeresfrüchte meerestier scheren tier
-🛐	kultstätte religion religiöse stätte
-🛹	board brett räder skateboard fahren skaten skater
-👩‍🏭	fabrik fabrikarbeiterin frau helm
-🙅	arme gesicht nein nicht person überkreuzt verbieten verboten
-🏧	atm geldautomat symbol „geldautomat“
-🧢	baseball baseball-kappe baseball-mütze baseballkappe baseballmütze mütze schirmkappe
-🫎	elch geweih säugetier tier
-💁	abgekippt beleidigen gerüchte geste hand klatsch klatschen person sarkasmus sarkastisch tratsch tratschen
-🈶	berechnen existieren japanisch nicht gratis schriftzeichen taste
-🌺	blume blüte hibiskus pflanze rosa
-🤬	ärger ärgern fluchen gesicht mund schimpfen schimpfwort smiley symbole verdammt wut wütend zensur
-🤢	ekel eklig erbrechen gesicht grün igitt smiley übelkeit übergeben widerlich würgen
-💃	elegant festlich flair flamenco frau salsa schwung tango tanz tanzen tänzerin
-🦋	insekt schmetterling schön
-🐥	geflügel küken in frontansicht von vorne tier
-🚫	kein zutritt kein-zutritt-zeichen verboten verbotszeichen
-💞	emotion gefühl herz herzen hochzeitstag jahrestag kreisen liebe süß
-🥖	baguette brot französisch frühstück
-🉑	akzeptieren japanisch schriftzeichen
-🚓	polizei polizeiwagen streifenwagen
-🧑‍🔬	forscher(in labor wissenschaftler(in
-🔒	datenschutz geschlossen geschlossenes schloss sicherheit
-🐦‍⬛	amsel krächzen krähe rabe schnabel schwarz schwarzer vogel tier
-😐	ausdruckslos gesicht kommentarlos neutral smiley todernst unbeeindruckt
-🪘	afrikanische trommel conga handtrommel instrument musikinstrument rhythmus trommeln
-🎩	hut kopfbedeckung unterhaltung zauberer zylinder zylinderhut
-👩‍🎤	frau mikrofon popstar sängerin schauspielerin
-🦄	einhorn einhorngesicht gesicht
-🐠	fisch tier tropenfisch
-🥥	colada essen frucht kokosnuss palme piña
-🧣	hals kalt kleidung schal warm anziehen
-🎿	ski und stöcke
-🌆	abendstimmung in der stadt hochhäuser new york skyline sonnenaufgang sonnenuntergang wolkenkratzer
-🧐	elegant gesicht monokel reich smiley
-😭	flennen gesicht heulen schluchzen smiley tränen tränenfluss traurig weinen
-😰	angst ängstlich angstschweiß besorgt gesicht mund nervös offen schweiß
-💣	bombe comic dynamit explodieren
-🐪	dromedar einhöckrig kamel tier wüste
-👨‍🎓	absolvent diplom doktorhut student uni
-👇	abwärts finger handrücken handrückseite hinab hinunter runter unten weisen zeigefinger zeigen
-🥉	bronzemedaille dritter medaille 3 platz
-🚅	bahn hochgeschwindigkeitszug japan shinkansen zug
-🥳	aufgeregt feier fest fröhlich geburtstag gesicht glückwunsch hurra hut party smiley überraschung
-👳	bart dreitagebart person mit turban
-🎧	kopfhörer musik unterhaltung
-📨	e-mail eingehender briefumschlag empfangen umschlag
-⭐	astronomie gelber stern himmel weißer mittelgroßer
-🫃	aufgebläht bauch dick person schwanger schwangerer mann überfressen zu viel gegessen
-🌌	galaxie milchstraße universum
-🧖	abschalten dampfbad dampfsauna entspannen frau luxuriös person in relaxen sauna spa
-🚠	bergschwebebahn schwebebahn
-🪙	bezahlen dollar euro geld gold goldesel metall münze reich schatz silber sparen
-🌵	dürre kaktus natur pflanze trockenzeit wüste
-😲	erstaunt gesicht nee omg schockiert smiley verwundert
-🙃	auf dem kopf gesicht lächeln smiley stehen umgekehrt
-🚶	fußgänger fußgänger(in fußgängerin gehen gehend person schlendern schlurfen wandern
-👤	büste person silhouette einer
-🛶	boot kanu wassersport
-🌓	halbmond mond zunehmend zunehmender
-🌒	erstes mondviertel mond zunehmend
-👽	alien all außerirdisch außerirdische außerirdischer fantasy gesicht märchen monster ufo weltraum wesen
-🕡	6:30 uhr halb sieben ziffernblatt 6.30
-🐡	fisch kugelfisch kugelrund meer tier
-🛃	zoll zollkontrolle
-🥛	getränk glas milch trinken
-🛟	leben retten lebensretter rettung rettungsring schwimmring sicherheit
-🫚	gesund gewürz ginger ale ingwer ingwerbier scharf wurzel würzig
-🍋	frucht obst sauer zitrone zitrusfrucht
-🪶	feder federleicht federn fliegen gefieder leicht vogelfeder
-🫹	daumen nach links geschlossene finger neutral zeigen
-👲	china chinesisch gesicht hut kappe mütze person
-🤰	frau schwanger schwangere
-🧹	besen fegen hexe hexenbesen kehren reinigen sauber machen säubern
-💑	frau herz liebe liebespaar mann paar
-⛅	sonne hinter wolke wolkig
-🩶	emotion grau graues herz hdl liebe schieferfarben silber silberfarben
-🧨	dynamit explosion explosiv feuer feuerwerk feuerwerkskörper funken knall knallen knaller kracher silvester sprengen sprengstoff zündstoff
-🏊	kraulen person pool schwimmbecken schwimmen schwimmer schwimmer(in schwimmerin sport triathlon wasser
-🕟	04:30 16:30 4:30 uhr halb fünf zeit ziffernblatt 4.30
-🩰	ballett ballettschuhe kleidung schuhe tanz
-📀	blu-ray cd computer dvd
-🏃	eilig joggen laufen laufende person läufer läuferin marathon rennen schnell sport
-🧜	märchen meerjungfrau meermann nixe person sirene wasserfrau wassermann wassermensch
-🔽	abwärts abwärts-schaltfläche nach unten pfeil schaltfläche
-💻	bildschirm computer computermonitor laptop monitor notebook pc
-🧋	blase bubble tea essen getränk lebensmittel milch perle taiwan tee
-🫏	austreten dickschädel dummkopf esel maultier säugetier störrisch stur tier
-🪟	aussicht durchsichtig fenster fensterrahmen frische luft glas haus lüften öffnung rahmen
-🐢	schildkröte tier
-😤	erleichtert gesicht gewonnen schnaubendes
-👨‍🚀	astronaut mann raumfahrt weltraum
-👩‍💻	arbeit bildschirm büro computer entwickler entwicklerin frau it-expertin laptop office
-🦠	amöbe amöben bakterie bakterien einzeller medizin mikrobe virus wissenschaft
-🥺	anflehen augen betteln bettelnd bitte bitten flehend gesicht groß kulleraugen smiley traurig welpenaugen
-🤮	brechen erbrechen gesicht kotzen krank schlecht smiley speien spucken übel übergeben
-❗	ausrufezeichen rot satzzeichen
-🪼	autsch brennen gallert glibber meer meeresbewohner meerestier nesseltier ozean qualle tentakeln
-🎺	instrument musik musikinstrument trompete
-🟥	form quadrat rot rotes viereck
-😶	gesicht kein mund ohne smiley sprachlos
-🧬	biologe biologie biologin dna dns evolution gen genetik genmanipulation leben
-😵‍💫	augen gesicht höhenangst hypnose hypnotisiert omg schwindelig schwindlig smiley spiralen verwirrt wirr
-📸	blitz fotoapparat mit
-👩‍🔧	elektrikerin frau handwerkerin klempnerin mechanikerin
-💧	schweiß träne tropfen wasser wassertropfen
-🪂	fallschirm fallschirmspringen paragliding skydiving sport
-🎃	halloween halloweenkürbis herbst kürbis kürbislaterne
-🫟	farbe fleck holi klecks spritzer tinte
-💖	aufregung funkeln gefühl glitzern herz liebe morgen nacht rosa xoxo
-💜	beste gefühl hdl herz liebe lila lilafarben violett
-🚀	all rakete weltraum
-🎑	japan mond mondfest traditionelles
-🍦	eis softeis
-🥀	am sterben blume sterbend verwelkt welk welke welkende
-😣	ausdauernd durchhalten fokus gesicht konzentration konzentrieren kopfschmerzen
-📰	medien nachrichten presse zeitung
-🥊	boxen boxhandschuh handschuh sport
-🧑‍🏫	dozent(in lehrer(in professor(in
-🔺	aufwärts dreieck rot rotes mit der spitze nach oben
-📺	fernsehen fernseher film tv
-🦬	bison büffel herde ochse tier wisent
-👸	gesicht krone märchen prinzessin
-😋	gesicht lächeln lecker leckeres essen sich die lippen leckender smiley leckendes zunge
-👗	kleid kleidung
-🦎	eidechse reptil
-🫳	abweisen fallen lassen fallenlassen hand handfläche handgeste hau ab unten verscheuchen wegscheuchen wegschicken
-🥎	ball baseball handschuh softball sport unterarm werfen
-💉	arzt impfen impfung injektion kanüle nadel spritze
-🪧	ankündigung bekanntmachung demonstration hinweis mahnwache plakat protest protestschild schild
-🌃	city hochhäuser nacht skyline stadt sterne sternenhimmel
-📕	buch geschlossen geschlossenes
-😇	brav engel gesicht glücklich heiligenschein lächeln lieb seelig smiley
-🍃	blatt blätter im wind laub pflanze
-🫒	essen grün lebensmittel nahrung olive olivenöl olivenzweig zweig
-🔜	bald-zeichen pfeil rechts soon-pfeil
-🧑‍🍼	baby flasche geben gebende person
-🚍	bus von vorne verkehrsmittel vorderansicht
-🧄	essen geschmack knoblauch lebensmittel nahrung würze zutat
-👯	bunny bunnys doppelt hasenohren leute party person personen mit seelenverwandt tanzen tänzerinnen zwillinge
-🪤	anlocken falle käse maus mausefalle mäusefalle
-🥸	brille gesicht incognito inkognito maske nase nasenbrille person smiley spionieren verdeckt verkleidet verkleidung
-🥅	fußball netz sport tor
-🍪	cookie keks plätchen
-🔎	lupe nach rechts suche vergrößerungsglas
-🩴	badelatschen flipflops latschen sandalen schuh strandschuh zehensandale zehensandalen
-💢	ärger comic wut
-🥙	döner kebab falafel wrap
-🐈	haustier katze miau tier
-📥	ablage e-mail posteingang
-🚮	abfall müll mülleimer sauberkeit symbol „papierkorb“ wegschmeißen wegwerfen
-🟨	form gelb gelbes quadrat viereck
-🥼	arzt arztkittel doc doktor experiment kleidung kleidungsstück laborkittel labormantel weiße jacke weißer mantel wissenschaftler
-🧱	bauen grenze klinker mauer mauerwerk mörtel wand ziegel ziegelstein ziegelsteine zugemauert
-🧈	butter essen lebensmittel milchprodukt nahrung
-💓	gefühl herz herzschlag liebe puls pulsieren schlagen
-🎏	feier karpfen traditionelle japanische windsäcke
-♈	sternzeichen widder
-🛌	bett gute nacht heia im liegende person müde nachtruhe schlaf schön schlafen zzz
-🦇	fledermaus tier vampir
-🚐	bus fahrzeug kleinbus
-🐬	delfin meer ozean strand tier
-🐅	tier tiger
-🌉	brücke vor nachthimmel golden gate nacht nachts
-🤌	bündelhand finger fingerspitzen gehts noch geste hand handgeste italienisch was zusammengedrückt zusammengelegt
-🛀	bad baden badende person badewanne badezimmer dusche entspannen
-👶	baby gesicht jung kind kleinkind locke
-🍁	ahorn ahornblatt blatt herbst laub pflanze
+🍙	essen japanisch reis reisbällchen reisballchen
 🚜	bauernhof landwirtschaft traktor trecker
-💠	diamant mit punkt rautenform
-😚	geschlossen gesicht knutsch kuss küsschen küssen rot smiley ugen wangen
-👮	beruf festnehmen gesetzeshüter gesicht person polizei polizist polizist(in polizistin uniform verhaften
-🍥	fisch fischfrikadelle restaurant spirale
-🧌	fantasy gruslig kobold märchen monster ork troll ungeheuer
-👠	absatz absatzschuh damen elegant high heel highheels pumps rot schuh stöckelschuh vornehm
-🧑‍🎄	gesicht mit hut person santa claus weihnachten weihnachtsfrau weihnachtshut weihnachtsmann weihnachtsmütze weihnachtsperson
-👩‍🏫	dozentin frau lehrerin professorin
-🌴	baum kokusnuss oase palme pflanze strand tropen
-🏭	fabrik fabrikgebäude gebäude
-🔷	blau große blaue raute
-💡	glühbirne hell idee lampe licht
-🪾	dürr kahl kahler baum karg trocken winter
-🔙	back-pfeil links pfeil zurück
-🫲	ausgestreckt ausstrecken hand hände händeschütteln links reichen schütteln weisen
-💒	herz hochzeit kirche
-🆔	großbuchstaben id in lila quadrat
-🧑‍🩰	ballett tänzerin
-🥪	brot essen sandwich
-⌛	prozess sanduhr vorgang läuft zeit
-🔀	gekreuzt pfeile richtung verschlungene nach rechts zufallsmodus
-😦	entsetzt gesicht mund offen schockiert smiley verwundert
-🍄‍🟫	braun essen fungus gemüse lebensmittel natur pflanze pilz wald
-🦫	biber biberschwanz biberzahn damm natur otter tier
-🥚	ei frühstück frühstücksei
-🛑	achteckig schild stopp stoppschild
-🎫	konzert ticket unterhaltung
-👺	gemein gesicht japan japanisch kobold märchen maske monster tengu ungeheuer wütend
-🤷	egal gleichgültig keine ahnung person schultern zucken schulterzuckend weiß nicht zweifel
-🦏	nashorn rhinozeros tier
-🍿	kino popcorn snack
-☕	cafe dampfend getränk heiß heißgetränk kaffee tasse tee trinken
-📴	ausschalten handy aus mobiltelefon
-👘	japanisch kimono kleid kleidung
-🚈	bahn ice monorail s-bahn zug
-🧷	punk sicherheitsnadel windel
-🍔	burger fast food hamburger restaurant
-🔸	kleine orangefarbene raute orangefarben
-🎎	japanische puppen puppenfest japan
+👨‍💼	angestellter büro buro büroangestellter buroangestellter manager mann
+🥥	colada essen frucht kokosnuss palme piña pina
+📈	aufwärtstrend aufwartstrend diagramm kurve steigend
+🛐	kultstätte kultstatte religion religiöse religiose stätte statte
+🚂	bahn dampf dampflok dampflokomotive fahrzeug lokomotive schiene zug
+🈶	berechnen existieren japanisch nicht gratis schriftzeichen taste
+🪡	einfädeln einfadeln faden nadel und nähen nahen nähnadel nahnadel nähte nahte schneidern stiche sticken
+💏	frau herz kuss küssen kussen küssendes kussendes paar mann sich
+🦐	garnele gourmet krustentier meeresfrucht shrimp
+⏰	uhr uhrzeit wecker zeit
+🌟	funkeln funkelnder stern glitzern
+🥮	essen fest festival herbst kuchen mondfest mondkuchen pinyin yuebing
+🌗	abnehmend abnehmender halbmond
+📀	blu-ray cd computer dvd
+👩‍🏭	fabrik fabrikarbeiterin frau helm
+🕙	10 10:00 uhr zeit ziffernblatt 10.00
+🗽	amerika freiheit freiheitsstatue
+👩‍🦼	barrierefreiheit behinderung frau in elektrischem rollstuhl mensch person
+🚌	bus fahrzeug schulbus
+🛼	rollen rollerskate rollschuh laufen schuh sport
+👨‍🦽	barrierefreiheit behinderung mann in manuellem rollstuhl mensch person
+😳	augen erröten erroten gesicht groß peinlich rot scham schämen schamen smiley überrascht uberrascht verlegen wangen
+🫏	austreten dickschädel dickschadel dummkopf esel maultier säugetier saugetier störrisch storrisch stur tier
+🌃	city hochhäuser hochhauser nacht skyline stadt sterne sternenhimmel
+👇	abwärts abwarts finger handrücken handrucken handrückseite handruckseite hinab hinunter runter unten weisen zeigefinger zeigen
+🥬	blattgemüse blattgemuse blattgrün blattgrun essen gemüse gemuse grünkohl grunkohl grünzeug grunzeug kohl kraut mangold pak choi pok salat salatblatt spinat
+🩴	badelatschen flipflops latschen sandalen schuh strandschuh zehensandale zehensandalen
+🤭	gesicht haha hand hihi huch kichern lachen mund rot smiley verlegen wangen
+🌽	gemüse gemuse mais maiskolben
+📢	lautsprecher megafon schallendes
+🔓	nicht gesichert offen offenes schloss
+🍠	essen gemüse gemuse geröstet gerostet süßkartoffel
+🦵	bein extremität extremitat fuß gebeugtes knie gliedmaße körperglied korperglied körperteil korperteil treten tritt
+🧍	mensch person stand stehen stehende
+🐼	gesicht panda pandabär pandabar pandagesicht tier
+🕞	3:30 uhr halb vier ziffernblatt 3.30
+🤣	boden gesicht haha hehe lachen lol lustig muahaha rofl smiley tränen tranen wälzen walzen witzig
+😉	auge flirten gesicht sexy smiley zudrücken zudrucken zugedrückt zugedruckt zukneifen zuzwinkern zwinkern
+🪓	axt beil hacken holz spalten werkzeug
+🎰	glücksspiel glucksspiel spiel spielautomat
+🍳	braten bratpfanne kochen pfanne spiegelei in
+😩	erschöpft erschopft fehlschlag gesicht hungrig müde mude nein smiley unglücklich unglucklich
+🦽	barrierefreiheit behinderung manueller rollstuhl
+😮‍💨	ausatmen erleichtert erschöpft erschopft gesicht husten puh pusten schnaufen seufz seufzen smiley
+🪔	diya lampe öl ol öllampe ollampe
+♌	horoskop löwe lowe sternzeichen
+➗	÷ division divisionszeichen geteilt durch geteiltzeichen mathe
+👩‍🎤	frau mikrofon popstar sängerin sangerin schauspielerin
+⚓	anker hafen meer
+📞	anrufen hörer horer kommunikation telefon telefonhörer telefonhorer
 🧘	burmesischer sitz frau lotussitz meditation person im lotossitz in schneidersitz yoga zen
-🥾	brauner schuh campen camping kleidungsstück outdoor rucksacktour stiefel wandern wanderstiefel wanderung
-🦙	alpaca alpaka anden kamel lama tier vicuña wolle
-🆚	gegen taste versus vs
-🧦	socken strumpf strümpfe
-🛕	gebäude hindu hindutempel tempel
-💝	herz hochzeitstag jahrestag küsschen küsse liebe schleife valentinstag xoxo
-🔂	dasselbe wiederholen einmal im uhrzeigersinn noch pfeile titel
-🌷	blume blüte pflanze tulpe
-🧑‍🧑‍🧒	erwachsene erwachsener familie kind
-🥰	3 anhimmeln bewundern gesicht hdgdl hdl herzchen herzen lächeln lieb liebe smiley verknallt verliebt verzückt
-💍	diamantring edelstein ring schmuck verlobung
-🕖	7 7:00 uhr ziffernblatt 7.00
-🚷	fußgänger verboten fußgänger-verboten-schild
-🐾	abdruck tatzen tatzenabdrücke tier
-👨‍🎨	farbpalette künstler maler mann
-🍤	frittierte garnele restaurant tempura
-🦢	hässliches entlein schwan tier vogel
-🔏	datenschutz privat schloss mit füller sicherheit
-⛄	kalt schnee schneemann ohne schneeflocken winter
-💀	gesicht knochen märchen schädel tod tot totenkopf yolo
-🏴	fahne schwarze flagge wehen wehende
-👍	daumen hoch einverstanden finger gut hand in ordnung jawohl klar klasse like nach oben ok super top
-🧑‍💻	bildschirm computer entwickler(in it-experte/it-expertin
-🪊	blasinstrument blechbläser blechblasinstrument instrument jazz musik schieben traurig ziehen
-🌭	essen frankfurter hot dog hotdog wurst würstchen
-♎	horoskop sternzeichen waage
+😺	gesicht grinsen katze katzengesicht lachen lol lustig mund offen smiley tier
+💖	aufregung funkeln gefühl gefuhl glitzern herz liebe morgen nacht rosa xoxo
+🍣	japanisches gericht restaurant sushi
+💆	behandlung die eine kopfmassage bekommt entspannen kopfschmerzen massage migräne migrane person salon spa therapie
+🕓	4 4:00 uhr zeit ziffernblatt 4.00
+♑	steinbock sternzeichen
+🪰	fliege fliegen insekt krankheit made mücke mucke plage schmeißfliege tier verwesen
+💲	bezahlen dollar dollar-zeichen dollarzeichen extrafett geld knete moneten teuer usd währung wahrung
+💚	gefühl gefuhl grün grun herz liebe romantisch
+🚪	eingang geschlossen tür tur
+💉	arzt impfen impfung injektion kanüle kanule nadel spritze
+🛘	berg erdbeben felsen gefahr katastrophe lawine murenabgang murgang schlammlawine
+🐰	gesicht hase hasengesicht kaninchen karnickel langohr mümmelmann mummelmann nager nagetier tier
+📆	abreißkalender datum kalender termin
+👨‍🦼	barrierefreiheit behinderung mann in elektrischem rollstuhl mensch person
+🤨	argwöhnisch argwohnisch augenbrauen gesicht hochgezogen misstrauen skeptisch smiley stutzig zweifel
+🤹	artist artistin geschickt jongleur jongleur(in jongleurin jongleuse jonglieren multitasking person zirkus
+🫷	drücken drucken halt hand high 5 five links moment nein schieben schluss stopp warte mal warten
+🥉	bronzemedaille dritter medaille 3 platz
+🧽	absorbieren aufsaugen löchrig lochrig porös poros putzen putzmittel reinigen sauber machen schaum schäumen schaumen schwamm
+🐨	koala koalabär koalabar koalagesicht tier
+✨	* funkel funkeln funkelnde sterne
+⛵	boot segelboot
+🌼	blume blüte blute gelbe pflanze
+🏄	person sport surfboard surfbrett surfen surfer surfer(in surferin wassersport wellenreiten wellenreiter wellenreiterin
+🧐	elegant gesicht monokel reich smiley
+📦	päckchen packchen paket
+💮	blume blumenstempel
 🪇	cha-cha-cha instrument maracas musik musikinstrument musizieren party percussion rassel rasseln tanz tanzen
-💂	bärenfellmütze buckingham palace gesicht london wache wachfrau wachmann wachsoldat wachsoldatin wächter
-🛸	alien außerirdisch fliegende untertasse ufo
-➰	schleife
-🎴	blume blumenkarte hanafuda japan japanische karte
-🦪	auster meer muschel perle tauchen tier
-🪯	deg tegh fateh glaube khalsa khanda khanda-emblem religion schwert sikh sikhismus
-🛅	gepäck gepäckaufbewahrung schließfach
-🉐	japanisches schriftzeichen schnäppchen für „schnäppchen“ „vorteil“ vorteil
-🧑‍🏭	arbeiter(in fabrik fabrikarbeiter(in industriell montage
-🔰	anfänger japanisches anfänger-zeichen symbol
-🫍	meer meeressäuger meerestier orka ozean wal
-♊	horoskop sternzeichen zwilling zwillinge
-🍒	frucht kirsche kirschen obst
-🦘	australien beuteltier down under hüpfen känguru quokka skippy springen tier wallaby
-🦯	barrierefreiheit behinderung blind blindenstock gehstock
-🧼	baden putzen reinigen riegel sauber machen säubern schaum schäumen seife seifenschale seifenstück
-🧿	amulett blau böser blick glasperle glücksbringer kügelchen nazar nazar-amulett perle talisman
-🎱	8-ball billard billardkugel kugel schwarz spiel
-🍭	lolli lutscher süßigkeit
-🥈	medaille 2 platz silbermedaille zweiter
-🔬	labor mikroskop untersuchen wissenschaft
-🤞	finger gekreuzt hand mit gekreuzten fingern
-🍛	curry reis mit
-👌	exzellent finger genial hand in ordnung natürlich ok ok-zeichen perfekt super
-👆	aufwärts finger handrücken handrückseite hier hinauf melden oben rauf weisen zeigefinger zeigen
-👉	finger handrückseite rechts weisen zeigefinger zeigen
-🎍	japan neujahrsfest piniendekoration
-🧔	bart bärtig person schnurrbart
-🦶	fuß füße kick knöchel körperteil stampfen treten tritt
-🈺	betrieb chinesisches schriftzeichen geöffnet japanisches für „betrieb“ „geöffnet“
-🧮	abaki abakus abakusse berechnung kalkulation mathe mathematik rechenhilfe rechenrahmen rechenschieber rechnen zählen zählrahmen
-🏁	flagge formel 1 karierte nascar rennen sport zielflagge
-🙈	affe affengesicht augen böse geheimnis gemein geste nein omg sehen tier verboten vergessen verstecken zuhalten
-🍠	essen gemüse geröstet süßkartoffel
-🕋	hajj islam kaaba moslem muslim religion
-🫓	arepa brot essen fladenbrot lavasch lebensmittel naan nahrung pita
-😠	ärgern böse gesicht smiley verärgert wut wütend zornig
-🫶	<3 finger geste hände händeherz handgeste handherz hdl herz liebe
-🤖	gesicht monster roboter robotergesicht roboterkopf
-◾	mittelkleines schwarzes quadrat schwarz
-🤤	gesicht sabbern smiley
-🏹	bogen pfeil und
-💔	allein gebrochen gefühl herz herzschmerz liebeskummer schmerz traurig trennung zerbrochen
-🍍	ananas frucht obst
-🤱	baby brust frau person stillen
-👨‍🍼	baby flasche geben gebender mann füttern
-👫	frau händchen halten mann und hände paar pärchen aus
+🤷	egal gleichgültig gleichgultig keine ahnung person schultern zucken schulterzuckend weiß nicht zweifel
+🪎	beute edelstein geld gold juwelen preis reichtum silber wertgegenstände wertgegenstande
+🧑‍🦼	barrierefreiheit person in elektrischem rollstuhl
+🙌	erhoben feiern geste hände hande handflächen handflachen hurra zwei
+👨‍💻	arbeit bildschirm büro buro computer entwickler it-experte mann office
+🪲	insekt käfer kafer krabbeltier minzkäfer minzkafer tier wanze
+😜	auge gesicht herausgestreckt herausstrecken smiley zudrücken zudrucken zugedrückt zugedruckt zunge zwinkern
+🕗	8 8:00 uhr um zeit ziffernblatt 8.00
+🥏	disc disk fliegende untertasse frisbee scheibe ultimate
+📖	bibliothek blättern blattern buch geöffnet geoffnet lernen lesen offen offenes seite
+👨‍🚒	feuerwehr feuerwehrhelm feuerwehrmann mann
+🆗	großbuchstaben keycap ok okay taste tastenkappe
+🥓	bacon essen frühstücksspeck fruhstucksspeck speck speckstreifen
+🫤	enttäuscht enttauscht genervt gesicht hmpf keine ahnung langweilig skeptisch smiley unsicher zweifelnd
+👨‍🎨	farbpalette künstler kunstler maler mann
+🎨	farben kunst künstler kunstler mischpalette palette
+🆔	großbuchstaben id in lila quadrat
+🛺	autorikscha fahrzeug tuk-tuk
+👌	exzellent finger genial hand in ordnung natürlich naturlich ok ok-zeichen perfekt super
+❓	frage fragezeichen rot rotes satzzeichen warum wieso
+📷	fotoapparat fotos kamera
+😥	ängstlich angstlich enttäuscht enttauscht erleichtert gesicht knapp schweiß traurig
+🚇	metro u-bahn
+🍯	honig honigtopf süß
+📄	dokument papier seite vorderseite eines blattes
+🪑	holzstuhl möbel mobel sitzen stuhl
+🤦	fassen frustriert genervt gesicht kopf oh nein omg person unfassbar unglaublich verzweifelt
+🍋	frucht obst sauer zitrone zitrusfrucht
+🧟	apokalypse halloween horror person untot untoter walking dead wandelnder toter zombie
+🧶	ball garn häkeln hakeln spinnen stricken wolle wollknäuel wollknauel zwirn
+🍓	beere erdbeere essen frucht obst
+📇	rotationskartei visitenkarten
+🌴	baum kokusnuss oase palme pflanze strand tropen
+🥷	ausdauer geheimmission kämpfer kampfer killer krieger kunoichi mörder morder ninja person shinobi soldat vermummt
+🙂	gesicht lächeln lacheln leicht smiley
+🎲	casino spiel spielwürfel spielwurfel unterhaltung würfel wurfel würfeln wurfeln zufall
+🤴	krone prinz
+🏰	bauwerk burg europa europäisch europaisch gebäude gebaude märchen marchen märchenschloss marchenschloss schloss
+🧆	bällchen ballchen essen falafel fleischbällchen fleischballchen kichererbsen lebensmittel nahrung
+🪩	disco discokugel lichtreflexe party spiegel spiegelkugel tanz tanzen
+💇	friseur friseurin friseuse frisör frisor frisörin frisorin frisur haare haarschnitt person beim haareschneiden schere
+😸	augen gesicht grinsen katze katzengesicht lachen smiley tier
+💔	allein gebrochen gefühl gefuhl herz herzschmerz liebeskummer schmerz traurig trennung zerbrochen
+🍇	frucht obst traube trauben wein
+🐾	abdruck tatzen tatzenabdrücke tatzenabdrucke tier
+🙇	bedauern bitten demut entschuldigung geste kniefall meditation meditieren person sorry unterwerfen verbeugen verzeihung
+🧧	geld geschenk glück gluck hong bao hongbao roter umschlag
+🪷	blume buddhismus erleuchtung gleichmut hinduismus liebe lotosblume lotusblüte lotusblute pflanze reinheit ruhe schönheit schonheit
+🤐	geheimnis gesicht halten mund reißverschluss schweigen smiley wahren
+🫂	abschied danke drücken drucken drücker drucker freundschaft hallo liebe sich umarmende personen tschüss tschuss umarmung
+💦	comic feucht nass schweiß schweißtropfen schwitzen trainieren training tropfen wasser
+👨‍🚀	astronaut mann raumfahrt weltraum
+😏	feixen flirten gesicht lächeln lacheln mundwinkel schief smiley süffisant suffisant
+🪝	angelhaken aufhaken aufhängen aufhangen einhaken haken hängen hangen metallhaken
+🔂	dasselbe wiederholen einmal im uhrzeigersinn noch pfeile titel
+🎳	bowling bowlingkugel kugel spiel
+🕥	10:30 uhr halb elf ziffernblatt 10.30
+☕	cafe dampfend getränk getrank heiß heißgetränk kaffee tasse tee trinken
+🔡	eingabesymbol lateinische kleinbuchstaben

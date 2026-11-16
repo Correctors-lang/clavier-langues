@@ -1,987 +1,987 @@
 # Mots-clés d'emoji en « wo » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	bees bitoŋu
-◽	bu-geometri kaare yam-ndaw te weex
-⛽	esaas estasiyoŋ karbiraŋ pomp pompu pompu-esaas
-🔓	caabi tijji nañu ko ubbi
-👄	gémmiñ tuñ
-🍴	furset ak paaka togg
-🏒	glaas hockey ci galaas po puk yat
-💦	ñàq reelu tasaaroo toqu ñaq
-🎐	gittaxu keseŋ-keseŋ joolooli màggal ngelaw
-😼	kanam kanamu muus ak muuñ gu weng ñaawal
-😉	kanam piis benn bët
-📛	badsu tur
-🚉	gaar otoraay raay
-💌	bataaxal bataaxalu mbëggeel leetar xol
-🆘	bitoŋu wallu ndimbal
-🍯	lem pot potu suukër
-😿	jooy kanam muus muy rangooñ xol-bu-neexul
-😳	bu am tomb yu xonk kanam gu xel mu deppaar
-🚨	faar làmp làmpu oto poliis wëndeelu
-🚌	otokaar waruwaay
-🌇	jant bu so ci réewu taax
-🔝	cat fett fettu collu kaw
-🙊	bul déet golo budul wax lu bon kanam liyaar luñ aaye tere
-🐙	oktopis
-🕦	11 11:30 30 fukk ak benn genn-wàll montar
-🕞	03:30 3 3:30 30 genn-wàll montar ñatt
-🙌	buñ yëkkati liyaar loxo màggal wëey ay
-🚗	oto
-🕥	10 10:30 30 fukk genn-wàll montar
-🥱	kanam guy obali obbali sónn weet
-🐎	ci wàllu fas fasukursu kursu
-👩‍🚒	jigéen oto-pompiyee pompiyee bu
-📲	fett jot portaabal telefon ak woote
-💚	wert xol bu
-📶	ànten baari reso laat portaabal siñaal telefon
-🌅	jant buy fenk suba
-🌂	parasol bu tëju taw yéere
-🍲	potu ñam ragu
-✅	màndarga nangu bu weex te rëy marke xàmme
-📑	boole ci yi ma gënal laf xàmme xàmme-téere xàmmekaay
-👣	emprime fu tànk teguwoon màrku-tànk yéere
-👀	bët gët kanam
-🤸	jimnastik nit ñuy ànd bërëŋu pëno-sareet
-⭕	o sarkal bu rëy te diis serkal
-😆	gémmiñ kanam guy muuñ ak ubbeeku buñ tëj bët reetaan satisfied
-🔄	bitoŋu fett yu juuyoo te safaan-montar yoonal
-🧗	nit kuy yéeg yéegkat
-🌟	biddeew leeraay tàkk yànj yànjaay
-🤧	gu jéggi dayo kanamu tissooli
-🔛	fett fettu ci taal mark
-⏰	waxtukaayu yégle
-🥕	karot lekk lujum
-➿	buukal buum gu lemu ñaari yoon ñaarte
-🥂	dóorante kaas màggal naan
-📍	bitoŋ bu roŋ pinees
-😽	bët fóon kanam kanamu muus bu tëj di
-🐤	cuuj liir picc
-🤵	góor gu sol kostim guy céetal
-🔇	cellaaral noppi oparlër buñ noppiloo waxkat
-🏥	doktor medsin opitaal
-🚔	buy ñëw oto poliis
-💶	bànk biye euro koppar xaalis xaalisu këyit
-🔳	bitoŋ bitoŋu kaare bu weex fësal wu-geometri
-💹	bànk grafik grafiku yen buy yéeg jëm kaw koppar kurb màgg marse xaalis xew
-😖	jaawale kanam gu
-🔐	key tëj nañu ko ak caabi wóor
-🈯	amna boroom bitoŋu bu sapoŋ ideograf sapone
-🏦	bànk tabax
-🍧	buñ wat deseer galaas guñ dëbb suukër
-⛔	bu fi kenn dugg bul déet luñ aaye tere tali
-✊	dóor kurfañ bu jog loxo ŋëb
-🌜	kanam weer weeru ñeenteelu xaaj bu njëkk
-😹	joy kanam kanamu muus bu ànd ak rangooñi mbégte rangooñ
-🏇	fas fasukursu kursu sooke
-👦	ndaw xale bu góor
-🏸	badminton balu-badminton birdie po raket
-🥜	gerte lekk lujum nuwaa
+🍾	buteel bu saañ saan biy naaw laat naan
+🉑	mën men nañu nanu ko nangu bitoŋu terewu ñu nu bu sapoŋ ideograf sapone
+👩‍🔧	electrisiyee jaaykat jigéen jigeen mekanik plumber
 📱	portaabal telefon
-🕎	diine menorah sondeel tegukaayu
-🚙	bégal-xol njëkkante oto
-🖤	iñaan ñuul soxor xol bu
-🚴	dawal welo dawalkatu nit kuy
-🍷	bevemer glass kaasu sàngara laat naan wine
-💊	doktor feebar garab medsin
-🍀	4 ñeent treefal treefalu ñeenti xob
-😷	doktor garab kanam guñ bàndaas mask sedd wopp
-📆	arminaat arminaatu xotti-kayit
-🙉	bul déet dégg golo budul lu bon kanam liyaar luñ aaye tere
-💱	bànk koppar wecci xaalis
-🏠	dëkkuwaay kër
-📙	oraas téere bu
-🥔	lujum meññeef pombiteer potaas
-💮	fulër fulóor bu weex
-🥌	po rok xeeru kërliŋ
-💩	julu puup kanam neefere rab reelu
-🍳	nen pane saaf togg
-🦈	jën rekeŋ
-🌼	fulër fulóor
-😜	bët kaf kanam ak tàllal làmmiñ buy piis
-⛎	jaan sojak u buñ baare yanukat
-🍾	buteel bu saañ biy naaw laat naan
-📜	këyit tawal
-🌕	fees weer wu
-💽	bu-optik disk bu ndaw disku ordi ordinatër
-💙	baxa xol bu
-📏	jub pegg reegal bu
-🥡	boyetu yóbbaale siwo yoxos
-🕔	00 05:00 5 5:00 juróom montar piil
-🤩	bët biddeew dóor-biddeew gaññi kanam
-🐍	gàddukat jaan ophiuchus sojak
-🐉	dragoŋ léebu fee
-💯	100 eskoor fees téemeer tombi teeméer
-🌝	kanam ñumm weer bu am yànj
-♏	eskorpiyoŋ jiit sojak
-💅	faj jakkal wew jekkal kosmetik manikiir
-🈁	fii bitoŋu bu sapoŋ katakana sapone
-🍵	attaaya kaas kaasu attaayu bu amul jàppukaay naan
-⏳	jël-waxtu saabliyee buy sotti suuf
-🌙	sew di màgg weer wu
-🤭	dar-gémmiñ kanam ak loxo bu dar gémmiñ
-🥗	lekk salaad bu wert salaat
-🈹	wàññi bitoŋu bu sapoŋ ideograf sapone
-🔔	joolooli
-🙎	liyaar nit kuy puucatu
-🙇	ark jéggalu liyaar massawu nit kuy sëgg-nuyoo
-🔈	ndànk oparlër buy wax
-👧	ndaw sojak wirgo xale bu jigéen
-🍂	daanu xob yu
+👩‍💼	arsitekt biro bisnes jigéen jigeen liggéeykat liggeeykat bu xarañ xaran patroŋ
+👽	aliyeen feem kanam kaw-jawwu ji léebu leebu fee mbiddéef mbiddeef rab-wu-gànde ufo
+🍍	ananas meññeef menneef
+😊	bët bet kanam kanamu mbegte ak yuy muuñ muun
+🛸	ovni sukup buy naaw
+♿	jot màndarga mandarga puus-puus
+👈	baaraam baaraamu joxoñ joxon ginaaw loxo buy càmmoñ cammon ginaawu
+🐤	cuuj liir picc
+🍬	deseer suukër suuker tàngal tangal
+👨‍🍳	góor goor seef toggkat
+😣	kanam guy ñafe nafe
+🥂	dóorante doorante kaas màggal maggal naan
+🤜	jëm jem ndijoor kurfañ kurfan kurfañu kurfanu
+🎽	daw dawkat mbubu tàggat-yaram sash sëmiis semiis
+🎎	fanaal màggal maggal pupe sapone
+📺	tele wideo
+🌜	kanam weer weeru ñeenteelu neenteelu xaaj bu njëkk njekk
+👀	bët bet gët get kanam
+📑	boole ci yi ma gënal genal laf xàmme xamme xàmme-téere xàmmekaay xammekaay
+👡	carax caraxu jigéen jigeen dàll dall yéere yeere
+💺	sees toogu
 🍝	espageti paat
-🏂	gaalu-nees kuy pateŋ ci nees ski
-🏬	magasin rëy
-🤾	bal handball nit kuy aanbóol
-🌳	garab gu am xob yuy dee ruus wàññiku
+🚿	duus ndox
+🏣	biro post ci sapoŋ sapone
+🏭	isinu-liggéey tabax
+🤍	weex xol bu
+🥢	baget hashi
+🏥	doktor medsin opitaal
+🙈	bul déet deet gis golo budul lu bon kanam liyaar luñ lun aaye tere
+🐱	kanam kanamu muus rabu-yar
+🤖	kanam kanamu roboo rab-wu-gànde
+🔑	baatu-jàll caabi
+🤡	kanam kanamu kluun
+🐹	hamster kanam kanamu jinax rabu yar
+🥟	buleet empanada gyōza gyoza jiaozi pierogi potsticker
+🔪	hocho jumtukaay ngànnaay ngannaay paaka waañ waan togg
+👙	bikini féey feey yéere yeere
+🚸	jeggi ñiy niy dox tali xale yi dañu danu fiy jaar
+◾	bu-geometri kaare yam-ndaw te ñuul nuul
+🎵	araf arafu misik
+🚷	bu kenn dox jaar fii bul déet deet kiy luñ lun aaye tere
+🛌	nelaw nit ci kaw lal otel
+🎹	jumtukaay klaawiyee klawiyee misik piano
+🥨	bretzel buñ bun lem
+🦅	céeli ceeli picc
+💐	fulër fuler takkufulër takkufuler
+👜	bag nafa saagu loxo yéere yeere
+🈳	féexna feexna bitoŋu wakaas bu sapoŋ ideograf sapone
+🐟	jën jen ji sojak
+👨‍🎤	aktër akter begalkat biddeew góor goor rok waykat
+🍀	4 ñeent neent treefal treefalu ñeenti neenti xob
+😌	kanam féex feex noppalu
+🐺	kanam kanamu xaju-tundu xaju-tund
+🦆	kanaara picc
+🛷	sareetu peer nowel trenóo trenoo
+😍	bët bet kanam mbëggeel mbeggeel muuñ muun xol
+🌓	weer wu njëkk njekk xaaj xaaju
+👾	aliyeen feem jiney kanam kaw-jawwu ji léebu leebu fee mbiddéef mbiddeef rab-wu-gànde ufo
+🔔	joolooli
+🖖	baaraam ferñet fernet loxo xaajale ñeenti neenti wolkaa
+👯	ak noppi lëk lek fecckat nit ñuy nuy fecc suwaare
+🥌	po rok xeeru kërliŋ
+🎺	jumtukaay misik trompet
+🌑	lëndëm lendem moon weer wu bees
+👆	baaraam baaraamu joxoñ joxon ginaaw loxo buy ci kaw ginaawu
+🥧	farinu mburu tàrt tart
+📠	faks fakse
+😆	gémmiñ gemmin kanam guy muuñ muun ak ubbeeku buñ bun tëj tej bët bet reetaan satisfied
+🧣	baat kol
+🐖	mbaam-xuux bu jigéen jigeen
+🍉	meññeef menneef xaal
+💠	ci biir karo bu ànd and ak tomb reelu wu-geometri
+📲	fett jot portaabal telefon ak woote
+🚳	bu fi kenn dawal welo bul déet deet luñ lun aaye tere
+🤑	gémmiñ gemmin kanam kanamu gémmiñu gemminu xaalis
+🚅	bullet gaawaay otoraay bu gaaw lool ak kanam gu sew raay shinkansen
+📒	kàrne karne téere teere bu rëy rey
+🧞	jinne
+🍭	deseer suukër suuker tàngal tangal bant
+🌳	garab gu am xob yuy dee ruus wàññiku wanniku
+🚤	gaal gaalu motër moter
+👵	jigéen jigeen màgget magget gu
+🚉	gaar otoraay raay
+🚐	minikaar otokaar
+❔	fësal fesal laajte màndarga mandarga tomb tombu bu weex
+🔐	key tëj tej nañu nanu ko ak caabi wóor woor
+👰	céet ceet muraay séet seet bu móoru mooru
+🧠	muus yuur
+🔚	fett fettu jeex
+🥁	galañ galan misik ndënd ndend
+🛶	gaal kaal gu ndaw kanowe
+😨	kanam guy tiitaleete ragal tiit
+🥫	kanet lekk ci
+🎈	baloŋ màggal maggal
+🦑	kalamaar lekk yéet yeet
+🍹	laat naan tàngoor tangoor
+🦂	jiit sojak
+💴	bànk bank biye koppar xaalis xaalisu këyit keyit yen
+➖	màndargay mandargay wàññi wanni bu rëy rey mat
+🚏	are-kaar bus taxaw
+🎱	8 bal biyaar juróom juroom ñatt natt po
+🥡	boyetu yóbbaale yobbaale siwo yoxos
+🔜	ci kanam fett fettu
+🏪	mu yomb njaay
+🍊	màndarin mandarin meññeef menneef oraas
+👑	buur kuron lingeer yéere yeere
+🕖	00 07:00 7 7:00 juróom-ñaar montar piil
+💟	taaralukaayu xol
+🚱	bu sellul ndox mii
+👣	emprime fu tànk tank teguwoon màrku-tànk yéere yeere
+🍅	lujum meññeef menneef tamaate
+📰	këyit keyit këyitu keyitu xibaar
+🚆	raay saxaar
+⚪	serkal bu weex wu-geometri
+🐈	muus rabu-yar
+🦒	giraaf tomb
+🌾	ceeb nopp pepp sayu
+📎	trombon
+🐎	ci wàllu wallu fas fasukursu kursu
+🎊	konfeti màggal maggal mànq manq mànqu manqu
+⏬	bitoŋu gaawal wàcce wacce fett ñaarte naarte suuf
+🍸	kaasu koktel laat naan weer
+🏫	daara tabax
+🥦	brokoli supame
+💂	gardiñe gardine
+🚙	bégal-xol njëkkante njekkante oto
+🔽	bitoŋ bitoŋu wàcce wacce fett suuf xonk
+🍱	bento boyetu
+🏈	american bal futbal futbalu amerik
+😧	kanam gu xawa jaaxle
+🤔	kanam kanamu guy xalaat
+👷	liggéeykat liggeeykat mbaxane tabax tabaxkat
+🕔	00 05:00 5 5:00 juróom juroom montar piil
+🕜	01:30 1 1:30 30 genn-wàll montar one
+🆕	bees bitoŋu
+🏆	kup pri
+🐗	mbaam-àll mbaam-xuux
+📊	grafik jagraamu bànd band kurb laat
+🤒	feelaat kanam gu ànd and ak termomeetar wopp
+🫢	awe jaaxle kanam bu am ay gët get yu ubbeeku ak loxo ci gemmiñ gemmin buñu bunu yaatal ñakka nakka gëm gem ragal tiit
+🖕	baaraam baaraamu digg loxo
+💹	bànk bank grafik grafiku yen buy yéeg yeeg jëm jem kaw koppar kurb màgg magg marse xaalis xew
+👅	làmmiñ lammin yaram
+🐩	kaj bu ndaw sëq seq kawar xaj
+🔥	flaam jumtukaay xal
+💙	baxa xol bu
+🤳	nataalukaay selfie telefon
+👞	dàll dall dàllu dallu góor goor yéere yeere
+👥	ay yaram takkandeer
+🤸	jimnastik nit ñuy nuy ànd and bërëŋu pëno-sareet
+😓	kanam ak ñaq naq wu sedd ñàq
+🐮	kanamu nag
+♋	junxoob kàŋseer sojak
+👨‍🌾	baykat bu góor goor boroom-ràns sardiñee sardinee
+🤚	buñ bun yëkkati yekkati ginaaw loxo ginaawu bu jog
+🌊	duusu ndox oseyaŋ tàllal tallal
+🚻	duus néegu neegu noppalukaay wc
+👨‍🏫	góor goor jàngalekat jangalekat jàngaletkat jangaletkat bu meetar profesër profeser
+🔌	bu-kuuraŋ kuuraŋ priis priisu
+🔤	abc alfabet arafi mbindu lateŋ bataaxal mbind
+👄	gémmiñ gemmin tuñ tun
+🙄	bët bet kanam guy regeju
+🌐	àdduna adduna glob buy wane merijeŋ yi suuf
+🐻	kanam urs
+👚	jigéen jigeen yéere yeere
+🔋	batiri
+🕛	00 12 12:00 midi montar piil
+💁	jàppale jappale leeral loxo ndimbal nit kuy joxee wet tàng tang
+🏒	glaas hockey ci galaas po puk yat
+😀	gaññi ganni kanam guy
+🎭	art def mask teyaatar yëngu yengu ci aar
+🐑	bu jigéen jigeen xar
+🍲	potu ñam nam ragu
+🚁	elikopteer waruwaay
+🧓	du góor goor jigéen jigeen mag mu gën gen a màgget magget
+⛳	golf pax raaya ci
+🥖	lekk mburu miis miisu wu-faraas
+🍛	ceebu kari
+🥜	gerte lekk lujum nuwaa
+🍈	mëloŋ meññeef menneef
+🤥	buy fen kanamu fenkat pinocchio
+😎	bët bet jant kanam lunet muuñ muun nuwaarfime neex-deret weer yànj yanj
+💑	góor goor ak jigéen jigeen mbëggeel mbeggeel xol ñaar naar ñu nu bëggante beggante
+🚖	ñëw new taxi buy
+🙏	ark buñ bun lem jaamu jërëjëf jerejef laaj ay loxo liyaar ngir yàlla yalla
+🦔	jame suñeel suneel
+😬	kanam guy def yëfi yefi golo
+🏠	dëkkuwaay dekkuwaay kër ker
+🗻	fuji montaañ montaan tundu
+🐕	rabu-yar xaj
+🐥	cuuj kanam jàkkarloo jakkarloo ak lexu xale liir picc
+🦏	rinoseros
+🧤	gant loxo
+😹	joy kanam kanamu muus bu ànd and ak rangooñi rangooni mbégte mbegte rangooñ rangoon
+🥴	gemmiñ gemmin bu ondulé ondule gët get yu toloowul jaxasoo kanam gu xawa feebar mandi
+➰	buum gu lemu benn yoon loop
+🚄	gaawaay otoraay bu gaaw lool raay shinkansen
+🐔	ginaar picc
+🤼	bëre bere bërekat berekat nit ñuy nuy
+🍚	ceeb buñ bun togg
+🏯	sapone taax taaxu sapoŋ
+🔹	baxa karo ndaw wu-geometri
+🔊	oparlër oparler bu xumbul lool xumb
+🕺	fecc góor goor guy nit
+🧙	dëmm demm luxuskat mage
+🥄	kuddu taabal
+🦃	koppin picc
+🤵	góor goor gu sol kostim guy céetal ceetal
+💈	tablo wateef watkat
+🌏	àdduna adduna asi glob buy wane ak óstraali ostraali ostralia suuf
+🎿	nees ski skis
+👩‍🔬	biolosist engeñër engener fisisiyee jigéen jigeen matematisiyee simist wu-xarala
+👨‍🏭	góor goor indistri isin liggéeykat liggeeykat liggéeykatu liggeeykatu bu ndaje
+🔃	ci yoonu montar fett yu yabaat
+🚡	ci-kaw gondol kaabal oto tramweey ci kaw
+🐧	penguweŋ picc
+🚼	fomp liir màndarga mandarga
+💃	fecc jigéen jigeen juy
+👨‍🎓	diplom góor goor ndongo bu
+🌍	àdduna adduna africa ërop erop glob buy wane ak afrik suuf
+🏴	buñ bun tàllal tallal raaya bu ñuul nuul
+🔵	baxa serkal wu-geometri
+📡	ànten anten àntenu antenu satelit sukup
+📝	karmat kreyoŋ
+🐯	kanam kanamu segg
+👦	ndaw xale bu góor goor
+📤	bataaxal boyet boyetu-yónne génn-boyet pañe pane yónnee yonnee
+🥃	kaas kaasu ndox likër liker ñam nam whisky
+🐢	mbonaat mbonaatu-ndox
+🎁	boyet ëmb emb kado buñ bun màggal maggal neexal
+👺	feem kanam kus-kondoroŋ léebu leebu fee mbinddéef mbinddeef rab-wu-gànde
+👬	ay seex gémeau gemeau góor goor ak jigéen jigeen loxo ñaari naari yu jàppante jappante sojak tëye teye
+♓	jën jen yi sojak
+🐪	boos giléem gileem
+🦗	kriket soccet
+🛑	dakkal màndarga mandarga siñ sin wu-oktagon
+🚰	naan ndox mu sell
+🥗	lekk salaad bu wert salaat
+🍃	ëf ef ngelaw xob wu gelaw yëngal yengal yëngu yengu
+🥚	lekk nen
+🌯	burito mbar wu-meksik
+🚹	duus góor goor néegu neegu ñi ni noppalukaay wc
+🔙	fett fettu dellu montar
+🚎	kaar tram trolley trolleybus
+⏩	bitoŋu jëmale jemale kanam gaaw fett ñaarte naarte
+👻	fàntom fantom feem kanam léebu leebu fee mbinddéef mbinddeef rab-wu-gànde
+📼	bànk bank kasetu wideo vhs
+🎇	ferñeent ferneent màggal maggal petaaru artifis potu sondeel
+📔	buñ-taaral kàrne karne bu ànd and ak kubéer kubeer gu rafet téere teere
+🕒	00 03:00 3 3:00 garab montar piil
+🍼	biberoŋ buteel liir meew naan
+📧	bataaxal bataaxalu net imeel
+🎫	biye dugg
+💶	bànk bank biye euro koppar xaalis xaalisu këyit keyit
+🌁	ab lay
+🥛	kaas kaasu meew naan
+🤱	liir nàmpal nampal nàppalee nappalee ween
+🦕	brachiosorus brontosorus diplodocus soropod
+📣	brawoo megafon
+📫	am raaya buñ bun yëkkati yekkati bataaxal boyetu post boyetu-bataaxal tëj tej
+🌿	ñax nax xob
+🦈	jën jen rekeŋ
+🚧	bariyeer tabax
+😼	kanam kanamu muus ak muuñ muun gu weng ñaawal naawal
+🐝	gunóor gunoor bu sew yamb yàmb
+🍢	broset fruit kebab meññeefu menneefu géej geej oden
+🎬	filmu klapet
+🤝	déggoo deggoo joxante loxo ndaje
+🛄	bagaas laajte say
+💍	jaaro jamaa
+✅	màndarga mandarga nangu bu weex te rëy rey marke xàmme xamme
+💡	àmpul ampul bu-kuuraŋ làmp lamp reelu xalaat
+🤠	kaboy kanam gu sol mbaxane sàmm-bu-jigéen
+🔆	bitoŋu leeraay yànj yanj yànjaay yanjaay
+🩷	bëgg begg nob rafet rose xol bu
+🧥	jaket màntóo mantoo
+🚥	làmp lamp làmpi lampi estop yu tëdd tedd siñaal sinaal tali
+🏀	bal basket sersóo sersoo
+🚃	kuuraŋ oto otoraay raay tram trolleybus
+🏓	bal bat dóorukaay doorukaay ping pong po taabalu tenis
+🎐	gittaxu keseŋ-keseŋ joolooli màggal maggal ngelaw
+🥤	jus kaas ak paay soda
+🙍	aj-yéen liyaar nit ku yéen yeen yi lemu
+🩶	arduwaas doomu-taal xaalis xol bu
+🔅	bitoŋu lëndëm lendem suufe yam yànjaay yanjaay
+🦀	junqoob kànseer kanseer sojak
+🍌	banana meññeef menneef
+👨‍🔧	elektrisiyee góor goor jaaykat mekanisee mekaniyee bu plombiyee
+🔯	biddeew biddéewu biddeewu 6 car wërsëk wersek
+🎑	màggal maggal séentu seentu weer
+🏩	mbëggeel mbeggeel otel otelu
 🏐	bal po wolebal
-💨	daw dem sa yoon reelu
-🕧	12 12:30 30 genn-wàll midi montar
-🥣	bool ak kuddu congee dugub ndeki
+📬	am raaya buñ bun yëkkati yekkati bataaxal boyetu post boyetu-bataaxal ubbi ubbeeku
+📐	def reegal bu am jëmmu jemmu triyàngal triyangal
+👨‍🔬	biyolosist engeñër engener fisiyee góor goor matematisiyee simist xaralakat bu
+🍆	basante lujum
+👩	jigéen jigeen
+🐭	jinax kanam kanmu
+🍻	beer dóorante doorante kaasu biyeer kaas kliŋ laat naan
+🧝	elfe yéeme yeeme
+😙	bët bet fóon foon kanam guy ak bëti beti muuñ muun
+🐘	ñay nay
+❕	esklamaasiyoŋ fësal fesal màndarga mandarga tomb tombu bu weex
+🤧	gu jéggi jeggi dayo kanamu tissooli
+➕	màndargay mandargay yokk bu rëy rey mat
+🈴	paase klaas bitoŋu jàll jall bu sapoŋ ideograf sapone
+🥺	bëti beti xaj kanam guy ñaan naan njegal njeggal saraxu yërëmandé yeremande
+🛒	ndugg puus-puus puus-puusu bagaas sariyoo
+💯	100 eskoor fees téemeer teemeer tombi teeméer
+🎢	barabu bégal begal xol risi tundu
+🆖	bitoŋu ng
+🌱	ndaw semis
+👍	+1 baaraam bu dijj baaraamu waaw kaw loxo
+🙁	aj-yéen kanam gu ànd and ak yéen yeen yu xawa lemu
+🐠	jën jen jënu jenu tàngoor tangoor
+🎀	màggal maggal ribaŋ
+🏦	bànk bank tabax
+🔴	serkal wu-geometri xonk
+🚚	bagaas kamiyoŋu
+🌻	fulër fuler fulóoru fulooru jant
+🤎	sokolaa xol bu
+🐷	kanam kanamu mbaam-xuux
+💣	bomb reelu
+🚠	cable gondol montaañ montaan teleferik
+🕤	09:30 30 9 9:30 genn-wàll juróom-ñeent montar
+✋	loxo bu jog
+🤛	jëm jem càmmoñ cammon kurfañ kurfan kurfañu kurfanu
+🈸	jëfekaay jefekaay bitoŋu bu sapoŋ ideograf sapone
+🌺	fulër fuler ibiskus
+✊	dóor door kurfañ kurfan bu jog loxo ŋëb
+👭	góor goor ak jigéen jigeen loxo ñaari naari yu jàppante jappante tëye teye
+🌂	parasol bu tëju teju taw yéere yeere
+🍺	beer kaas kaasu biyeer laat naan
+🌉	guddi pom ci
 🍞	mburu peŋ
 🌚	kanam kanamu weer wu bees
-🚹	duus góor néegu ñi noppalukaay wc
-🫢	awe jaaxle kanam bu am ay gët yu ubbeeku ak loxo ci gemmiñ buñu yaatal ñakka gëm ragal tiit
-🎻	jumtukaay misik violon
-🛫	aeroppalaan deppaar yi enregistremaa roppalaan buy dem
-💐	fulër takkufulër
-👎	-1 baaraam bu dijj baaraamu déet loxo suuf
-🤟	ily liyaar mbëggeel loxo
-♋	junxoob kàŋseer sojak
-👏	loxo yuy tàccu
-🧚	fee oberon puk titania
-🏢	taaxu liggéey tabax
-🔅	bitoŋu lëndëm suufe yam yànjaay
-🆓	amul fay bitoŋu
-📖	téere bu ubbiku ubbeeku
-🍬	deseer suukër tàngal
-🃏	jokeer kàrt po
-🍟	buñ saaf pombiteer
-🌏	àdduna asi glob buy wane ak óstraali ostralia suuf
-🆎	ab bitoŋu xeetu deret
-🕛	00 12 12:00 midi montar piil
-🍰	deseer gato gàttal-yoon paat suukër xaaj
-😁	bët gaññi kanam guy ak yuy muuñ
-⬛	bu-geometri kaare bu rëy te ñuul
-🖖	baaraam ferñet loxo xaajale ñeenti wolkaa
-⌚	montar seetaan
-🐯	kanam kanamu segg
-🚧	bariyeer tabax
-🔵	baxa serkal wu-geometri
-🌄	jant buy fenk ci tund suba tundu
-🚾	duus ndox noppalukaay tuurukaayu wanag wc
-📮	bataaxal boyetu boyetu-leetar
-🌁	ab lay
-🐜	gunóor bu sew sànqaleñ
-🔋	batiri
-🌑	lëndëm moon weer wu bees
-😩	jommi kanam kanamu coono sonn
-🛒	ndugg puus-puus puus-puusu bagaas sariyoo
-🆗	bitoŋu waaw-kay
-🥞	crêpe krep lekk ngato bu tànk
-💳	bànk kàrt kàrtu keredi xaalis
-🦗	kriket soccet
-🥧	farinu mburu tàrt
-🧛	bu deewul dracula wàmpiir
-🐱	kanam kanamu muus rabu-yar
-🈴	paase klaas bitoŋu jàll bu sapoŋ ideograf sapone
-🍏	meññeef pom bu wert
-🌠	biddeew buy daw daanu dóor
-❌	fuul kruwaa màndarga x
-🐸	kanam kanamu mbott
-🧀	cëru fromaas
-🐩	kaj bu ndaw sëq kawar xaj
-🧙	dëmm luxuskat mage
-👨‍🏫	góor jàngalekat jàngaletkat bu meetar profesër
-💄	kosmetik makiyaas xonkal tuñ
-🚘	buy ñëw oto otoportaabal
-👨‍🏭	góor indistri isin liggéeykat liggéeykatu bu ndaje
-🏣	biro post ci sapoŋ sapone
-🦑	kalamaar lekk yéet
-🐵	golo kanam kanamu
-📼	bànk kasetu wideo vhs
-💟	taaralukaayu xol
-🎥	filmu kameraa nataalukaay sinemaa
-🧥	jaket màntóo
-🐽	bakkan bakkanu mbaam-xuux kanam
-👭	góor ak jigéen loxo ñaari yu jàppante tëye
+😗	fóon foon kanam guy
+👩‍💻	defarkat jigéen jigeen kodekat losisel soskat teknolosist
+💽	bu-optik disk bu ndaw disku ordi ordinatër ordinater
+🕌	diine islam jàkka jakka jullit
+🥣	bool ak kuddu congee dugub ndeki
+👩‍🍳	jigéen jigeen seef toggkat bu
 🚝	monoraay waruwaay
-🩷	bëgg nob rafet rose xol bu
-🏡	dëkkuwaay kër ak sardeŋ
-😮‍💨	defaru kanam guy nooyi mbiip sëqqët waxantu yuxool
-🔣	〒♪&% màndargay mbind
-🧕	hijab jigéen ju musóoru mantilla musóor tichel
-🦂	jiit sojak
-➖	màndargay wàññi bu rëy mat
-😮	gémmiñ kanam ak gémiñ gu ubbeeku sympaty
-🚊	tram trolleybus
-😟	jaaxle kanam gu
-📇	kàrt limu këyit rolodex
-🌽	mboq nopp noppi
-📫	am raaya buñ yëkkati bataaxal boyetu post boyetu-bataaxal tëj
-🚄	gaawaay otoraay bu gaaw lool raay shinkansen
-🕘	00 09:00 9 9:00 juróom-ñeent montar piil
-🈵	féexul bitoŋu amul wakaas bu sapoŋ ideograf sapone
-🐔	ginaar picc
-🍊	màndarin meññeef oraas
-🤒	feelaat kanam gu ànd ak termomeetar wopp
-🎾	bal raket tenis
-🤡	kanam kanamu kluun
-💰	dolaar saagu xaalis saak
-🛴	benn tànk welo
-🦉	looy picc xelu
-🐛	gunóor bu sew
-📣	brawoo megafon
-😱	kanam guy jooy te tiit ragal yëy yuuxu
-🥨	bretzel buñ lem
-📎	trombon
-🍩	beñe deseer suukër
-🐕	rabu-yar xaj
-📳	anam anamu wiibrër portaabal telefon wiibre
-💏	fóon góor ak jigéen
-🔮	bul bulu kristaal feem jumtukaay léebu fee wërsëg
-🙆	liyaar loxo nit ku naan waaw-kay
-🏈	american bal futbal futbalu amerik
-💆	dàmp kanam nit ku ñuy saloŋ
-👨‍🌾	baykat bu góor boroom-ràns sardiñee
-👖	jiin pàntaloŋ tubëy yéere
-🦕	brachiosorus brontosorus diplodocus soropod
-🚯	bu fi kenn sànni mbalit bul déet litter luñ aaye tere
-➕	màndargay yokk bu rëy mat
-😡	dof kanam guy puucatu mer xonk
-🥋	aar marsiyoo judo karate kimono defkatu taekwondo
-🐣	cuuj bu génn ci nen nenn liir picc
-👑	buur kuron lingeer yéere
-🏆	kup pri
-🦔	jame suñeel
-✋	loxo bu jog
-🔪	hocho jumtukaay ngànnaay paaka waañ togg
-🐏	bu góor kuy sojak xar yàppu
-🥦	brokoli supame
-👜	bag nafa saagu loxo yéere
-🍎	meññeef pom bu xonk
-🍜	bool espageti-laxasu ramen toggee ci wapër
-🐓	picc séq
-🧠	muus yuur
-📘	baxa téere bu
-🛬	aeroppalaan buy ñëw yi roppalaan wàcci
-🍘	ceeb gato
-🎆	màggal petaaru artifis
-🤯	bopp buy toj mbettel
-🈲	dañu koy tere bitoŋu bu sapoŋ ideograf sapone
-😈	béjjen feem kanam gu am ay léebu fee muuñ
-💗	buy màgg eksite mer xol yëngu
-🔼	bitoŋ bitoŋu yéegal fett xonk
-🎈	baloŋ màggal
-🦀	junqoob kànseer sojak
-📄	kanam gu téen wayndare xët
-🐋	baleen
-🍌	banana meññeef
-🤕	bandage gaañu kanam guñ laxas ak bàndaas naxar
-👡	carax caraxu jigéen dàll yéere
-🏤	biro post ëroop
-🏓	bal bat dóorukaay ping pong po taabalu tenis
-🌲	garab gu am xob yuy dund
-🎂	bisu-judd deseer gato màggal ngato paat suukër
-💋	fóon marku tuñ
-🤔	kanam kanamu guy xalaat
-⛳	golf pax raaya ci
-🥠	mbiskitu musuwaar yónent
-👐	loxo yu ubbeeku
-😃	gémmiñ kanam ak gu ubbeeku di muuñ
-👅	làmmiñ yaram
-🤨	kanam ak buñ yëkkati yéen ñaaw-njortu ñàkka-wóolu
-🎌	bu am kruwaa màggal raaya yu féewaloo sapone
-💫	biddeew miir reelu
-🤹	am ekiliibre mbir yu bari nit kuy sànni-kapte
-📠	faks fakse
-🚪	buntu
-🥹	dëgërlu fiyeer jooy kanam gu teye ay rongoñ guy mer tiis
-🌖	sew weer wu buy yokk
-🙏	ark buñ lem jaamu jërëjëf laaj ay loxo liyaar ngir yàlla
-🏄	nit kuy sërfe
-👩‍🔬	biolosist engeñër fisisiyee jigéen matematisiyee simist wu-xarala
-🤺	eppee fente fentekat nit kuy
-🎠	fasu kurusel
-🈳	féexna bitoŋu wakaas bu sapoŋ ideograf sapone
-🔥	flaam jumtukaay xal
-🍨	deseer glaas kereem kreem galaase suukër
-🕓	00 04:00 4 4:00 montar ñeent piil
-🔯	biddeew biddéewu 6 car wërsëk
-📉	grafik kurb suuf tablo buy wàcci xew
-🐀	kaña
-👟	atletik dàll dàllu daw sneaker yéere
-📯	bataaxal mbiibu post
-😅	kanam guy muuñ ak ubbeeku gémmiñ ñàqu tiitaange ñàq sedd
-🌛	kanam weer weeru xaaj bu njëkk
-👔	karawaat yéere
-🧡	oraas xol bu
-❔	fësal laajte màndarga tomb tombu bu weex
-🐺	kanam kanamu xaju-tundu xaju-tund
-🤴	doomu-buur bu góor
-🌘	weer xaaj xaaju buy yokk
-🍣	sushi
-🍢	broset fruit kebab meññeefu géej oden
-🦐	krëwet lekk meññeefu géej ndaw
-🍮	deseer kreem pudiŋ suukër
-🥐	briyoos kurwaasaŋ lekk mburu wu-faraas
-🔖	xàmme xàmme-téere
-🥟	buleet empanada gyōza jiaozi pierogi potsticker
-🎭	art def mask teyaatar yëngu ci aar
-🈚	amul juuti bitoŋu bu sapoŋ ideograf sapone
-🚋	oto tramweey tram trolleybus
-🚦	làmp làmpi estop yu taxaw siñaal tali
-😒	kanam gu ñàkk xorom kontaanul ñàkk-caaxaan
-🔹	baxa karo ndaw wu-geometri
-🦃	koppin picc
-🍄	sampiñoŋ weneer
-🧟	bu deewul néew buy dox zombi
-👨‍🎤	aktër begalkat biddeew góor rok waykat
-🤗	kanam kanamu kottante kott
-⏩	bitoŋu jëmale kanam gaaw fett ñaarte
-🕜	01:30 1 1:30 30 genn-wàll montar one
-📈	grafik buy yéeg kurb màgg xew
-🦆	kanaara picc
-🤼	bëre bërekat nit ñuy
-🎶	araf yi arafi misik
-🦁	gaynde kanam kanamu leo sojak
-🆖	bitoŋu ng
-😙	bët fóon kanam guy ak bëti muuñ
-🙍	aj-yéen liyaar nit ku yéen yi lemu
-🚂	motër ndaamaar otoraay raay wapër
-👰	céet muraay séet bu móoru
-🚭	bu fi kenn tox bul déet luñ aaye tere
-😨	kanam guy tiitaleete ragal tiit
-🎼	kle misik
-🤦	gëdofi gu jaaxle kanam loxo nit ku taf ci kanamam
-📞	kombine telefon
-🚎	kaar tram trolley trolleybus
-🔢	1234 mbind mbindu nimero numero
-😾	kanam kanamu muus mu mer puucatu
-🥢	baget hashi
-🏑	bal hockey ci ñax po teereŋ yat
-🎢	barabu bégal xol risi tundu
-🐭	jinax kanam kanmu
-😧	kanam gu xawa jaaxle
-🐷	kanam kanamu mbaam-xuux
-🫣	buñu teye gis-gis kanam bu am ay gët yuy gaawantu gu néeg
-🍈	mëloŋ meññeef
-🤛	jëm càmmoñ kurfañ kurfañu
-🙋	buñ yëkkati kontaan liyaar loxo nit kuy
-🚲	welo
-🍑	meññeef pes
-🌍	àdduna africa ërop glob buy wane ak afrik suuf
-👬	ay seex gémeau góor ak jigéen loxo ñaari yu jàppante sojak tëye
-🐗	mbaam-àll mbaam-xuux
-🤎	sokolaa xol bu
-🚃	kuuraŋ oto otoraay raay tram trolleybus
-🎤	karaoke mikro mikrofon
-👿	dëmm feem imp jinne kanam gu mer am ay béjjen léebu fee
-📡	ànten àntenu satelit sukup
-🫨	kanam guy lox sok suuf suy yëngu
-🤜	jëm ndijoor kurfañ kurfañu
-🌰	garab sateñ
-🐨	koala urs
-📚	téere yi
-🌿	ñax xob
-♍	sojak wiyerse
-📂	ëmb taxañ ubbeeku ubbi ëmbu
-🔠	abcd bataaxal lateŋ majiskil mbind
-🔗	lëkkalekaay
-🔱	bato jumtukaay ñatti-fett raaya serukaay xeeju ñatti bopp
-🥒	komjomlaat komkombar lekk meññeef njaxas
-⏪	bitoŋu delloo ginaaw gaaw fett ñaarte
-🥁	galañ misik ndënd
-📅	arminaat bis
-🍚	ceeb buñ togg
-🐆	lewopaar
-☔	parasol bu am toqu taw toq yéere
-🍼	biberoŋ buteel liir meew naan
-🎳	bal buliŋ po
-🍉	meññeef xaal
-🎄	garab garabu nowel màggal
-🔲	bitoŋ bitoŋu kaare ñuul wu-geometri
-🚩	post raaya am jëmmu tri-yàngal
-🦓	reyiir zebre
-🍗	ginaar tànk tànku yax
-🏪	mu yomb njaay
-🍓	bee frees meññeef
-🤚	buñ yëkkati ginaaw loxo ginaawu bu jog
-📩	am fett bataaxal génn imeel mbaru-bataaxal suuf yónnee
-📓	kàrne
-👥	ay yaram takkandeer
-📊	grafik jagraamu bànd kurb laat
-🗽	estati liberte
-🕒	00 03:00 3 3:00 garab montar piil
-👓	bët bëtweer linet lunet yéere
-🚰	naan ndox mu sell
-🎽	daw dawkat mbubu tàggat-yaram sash sëmiis
-😴	kanam gu nelaw zzz
-🎦	film kamera klise sinemaa
-🎨	art boolu pentiirukaay muse palette pentiir
-🍖	yàpp ci yax
-🔍	jumtukaay lup bu féete càmmoñ rëyal seet weer
-🌹	fulër róos
-👩‍🚀	astronot bu jigéen roket
-🐚	espiraal xor xoru
-🎰	masin masinu xaalis
-🕺	fecc góor guy nit
-🔡	abcd bataaxal lateŋ mbind miniskil
-🕍	diine juif sinaagog tàmpal
-🛁	beñuwaar sangu
-💘	bëgg-xaalis fett xol ak
-😍	bët kanam mbëggeel muuñ xol
-🆑	bitoŋu cl
-👒	jigéen mbaxane jigeen yéere
-♌	gaynde lion sojak
-🌞	jant bu am kanam yànj
-🍆	basante lujum
-😊	bët kanam kanamu mbegte ak yuy muuñ
-💲	dolaar koppar màndarga bu dijj xaalis
-🦍	dàngin
-🌈	taw xon
-🙂	kanam gu muuñ tuuti
-👞	dàll dàllu góor yéere
-🕚	00 11 11:00 fukk ak benn montar piil
-😵	diis kanam gu
-📿	càq diine jaamukat kurus per yéere
-🤓	bëgg-masin kanam kanamu bëñu lëk
-🏫	daara tabax
-🍹	laat naan tàngoor
-🕝	02:30 2 2:30 30 genn-wàll montar ñaar
-🕠	05:30 30 5 5:30 genn-wàll juróom montar
-📟	bipër
-🎵	araf arafu misik
-👙	bikini féey yéere
-🤑	gémmiñ kanam kanamu gémmiñu xaalis
-🚛	kamiyoŋ kamiyoŋu bu gudd lool semi
-🥘	boolu togg bu xóotul kaserol lekk pane paylaa
-😘	fóon kanam guy ëf
-👱	karaw gu mboq nit ku yu weex
-🛂	paaspoor xool sa
-🔞	18 bul déet fukk ak juróom ñatt gune ku amul at bokkul luñ aaye tere tere-gune
-🤝	déggoo joxante loxo ndaje
-📒	kàrne téere bu rëy
-🚥	làmp làmpi estop yu tëdd siñaal tali
-🔊	oparlër bu xumbul lool xumb
-🐴	fas kanam kanamu
-😕	jaaxasoo kanam gu
-🏅	medaay medaayu tàggat-yaram
-🏯	sapone taax taaxu sapoŋ
-🌊	duusu ndox oseyaŋ tàllal
-💿	bu-optik cd disk optik ordinatër
-⚾	bal besbóol
-👈	baaraam baaraamu joxoñ ginaaw loxo buy càmmoñ ginaawu
-🦒	giraaf tomb
-🌗	weer wu njëkk xaaj xaaju mujj
-🚸	jeggi ñiy dox tali xale yi dañu fiy jaar
-🤳	nataalukaay selfie telefon
-🏀	bal basket sersóo
-🚏	are-kaar bus taxaw
-⚽	bal balu futbal football
-🚖	ñëw taxi buy
-👂	nopp yaram
-👝	poos poset saag yéere
-📵	bul dañu fi tere portaabal déet luñ aaye telefon
-🐳	baleen bu puucatu kanam sàll wu ñaw
-😯	guñ juutal jaaxle kanam waaru
-🍫	deseer laal laatu-sokolaa sokolaa suukër
-🌋	géeju xal montaañ yuy génn
-🧝	elfe yéeme
-💛	mboq xol bu
-👨‍💻	defarkat góor kodekat losisel soskat teknolosist
-🐃	nag nagu ndox
-💎	gem jamaa takkaay xeer wu seer
-📷	nataalukaay wideo
-⛪	diine jàngu kreceŋ kruwaa
-🚵	dawalkatu welo montaañ nit kuy dawal vtt
-🐟	jën ji sojak
-🤥	buy fen kanamu fenkat pinocchio
-😛	kanam bu ànd ak làmmiñ wuñ tàllal
-💈	tablo wateef watkat
+🔗	lëkkalekaay lekkalekaay
+🔶	karo rëy rey oraas wu-geometri
+♏	eskorpiyoŋ jiit sojak
+🥘	boolu togg bu xóotul xootul kaserol lekk pane paylaa
+👏	loxo yuy tàccu taccu
+🥒	komjomlaat komkombar lekk meññeef menneef njaxas
+🎍	bàmbu bambu màggal maggal pain sapone taaralukaayu sapeŋ
+🎩	kaw mbaxane joniwalkër joniwalker topmbaxane yéere yeere
 📹	kameraa wideo nataalukaay
-🛵	eskutër moto
-💸	ay laaf bànk biye dollar fly xaalis bu am xaalisu këyit
-🔦	bu-kuuraŋ jumtukaay làmp-tors light
-🚳	bu fi kenn dawal welo bul déet luñ aaye tere
-😂	kanam gu am rangooñu bànneex mbegte rangooñ reetaan
-🐦	picc
-🔩	buloŋ ak wiisam jumtukaay nut
-🤠	kaboy kanam gu sol mbaxane sàmm-bu-jigéen
-🔉	oparlër bu xumbul noonu yam
-💇	barab nit kuy watu taar wateef watkat
-🧓	du góor jigéen mag mu gën a màgget
-👼	feem kanam léebu fee liir liiru malaaka
-👨‍💼	arsitek biro bisnes góor kuy liggéey ci liggéeykat bu xarañ njiit
-🔃	ci yoonu montar fett yu yabaat
-🗻	fuji montaañ tundu
-🐖	mbaam-xuux bu jigéen
-🚻	duus néegu noppalukaay wc
-💤	nelaw reelu zzz
-🔌	bu-kuuraŋ kuuraŋ priis priisu
-🏺	àmfoor aquarius jug jumtukaay naan ngànnaay sojak togg
-📻	rajo wideo
-🍱	bento boyetu
-🔘	bitoŋ bitoŋu rajo radio wu-geometri
-🕙	00 10 10:00 fukk montar piil
-👻	fàntom feem kanam léebu fee mbinddéef rab-wu-gànde
-👨‍🔬	biyolosist engeñër fisiyee góor matematisiyee simist xaralakat bu
-🐫	batri boos giléem gileemu ñaari
-♉	nag wu góor sojak yékk
-👨‍🍳	góor seef toggkat
-🚢	gaal gu mag ki mu yab
-🚟	bu-aju raay ci kaw
-🔶	karo rëy oraas wu-geometri
-⛺	kampiŋ tant
-🙁	aj-yéen kanam gu ànd ak yéen yu xawa lemu
-👾	aliyeen feem jiney kanam kaw-jawwu ji léebu fee mbiddéef rab-wu-gànde ufo
-💷	bànk biye koppar piye pound xaalis xaalisu këyit
-🏉	bal futbal futbalu rigbi
-❓	laajte màndarga tomb tombu
-👩‍🎨	artist bu jigéen palet
-🐇	lëk lëkk rabu-yar
-🌾	ceeb nopp pepp sayu
-🛷	sareetu peer nowel trenóo
-🌀	laxas miir ngelaw luy wëndeelu tifoŋ
-👨	góor
-💥	boom mbëkkante reelu
-🗿	estati kanam moai moyai
-⛵	gaal gaalu ngelaw géej serukaay yacht
-🏰	ëroop taaxu buur
-🐞	gunóor am tupp yu weex bu sew koksineel koksinel
-🚆	raay saxaar
-🐮	kanamu nag
-🏮	laat làmp làntern bu xonk
-😥	féex kanam kanamu mbetteel te kapris
-🧤	gant loxo
-🐰	kanam kanamu lëk lëkk rabbit rabu-yar
-🏨	otel tabax
-🍕	dagg fromaas pizza
-📗	téere bu wert
-🎇	ferñeent màggal petaaru artifis potu sondeel
-⚡	bu kuuraŋ dmer am doole melax woltaas zap
-⏬	bitoŋu gaawal wàcce fett ñaarte suuf
-🍻	beer dóorante kaasu biyeer kaas kliŋ laat naan
-🚺	duus jigéen néegu ñi noppalukaay wc
-👚	jigéen yéere
-♐	ark sajiteer sojak
-🚤	gaal gaalu motër
-📝	karmat kreyoŋ
-🍅	lujum meññeef tamaate
-📁	ëmbu taxañ
-🎁	boyet ëmb kado buñ màggal neexal
-🧑	du góor jigéen mag
-🚒	fire motër oto pompiyee truk
-👷	liggéeykat mbaxane tabax tabaxkat
-🔤	abc alfabet arafi mbindu lateŋ bataaxal mbind
-🚞	montaañ oto raay raayu tund
-🌐	àdduna glob buy wane merijeŋ yi suuf
-😸	bët grin kanam kanamu muus muy xiiru ak yuy muuñ
 🫡	gurup yi kanam guy niyoo naaje waaw waaw-key
-🚬	sigaret tox
-🆒	bitoŋu kuul sedd
-🍺	beer kaas kaasu biyeer laat naan
-🐂	nag sojak yékk
-🤙	loxo nanga ma woo woote
-♓	jën yi sojak
-👵	jigéen màgget gu
-🐧	penguweŋ picc
-❎	bitoŋ kruwaa kaare màndarga
-🥩	bitik xar bitik-mbaam xuux dogu yàpp steak
-🎣	bantu nappukaay jën póol
-😌	kanam féex noppalu
-🐝	gunóor bu sew yamb yàmb
-🌻	fulër fulóoru jant
-✨	biddeew ferñeent
-🚽	wanag
-🥑	awokaa lekk meññeef
-👛	nafa piyees yéere
-🌮	tako wu-meksik
-📋	klasëru kepp-kayit
-🦊	kanam kanamu rënaar
-⚫	serkal ñuul wu-geometri
-♒	ndox sojak wersóo yanukat
-🩵	bleu clair cyan sarcelle xol bu
-📤	bataaxal boyet boyetu-yónne génn-boyet pañe yónnee
-🐐	bëy kaprikorn sojak
-🎯	bët bëtu nag ci digg bi dóor bu jub fett jam po
-🐻	kanam urs
-🔨	jumtukaay marto
-🚣	gaal gaalu-joow nit joow
-👕	sëmiis tiset yéere
-🐼	kanam kanamu panda
-👃	bakkan yaram
-📭	am raaya buñ wàcce bataaxal boyetu post boyetu-bataaxal ubbi lowexonk ubbeeku
-🚁	elikopteer waruwaay
-🕤	09:30 30 9 9:30 genn-wàll juróom-ñeent montar
-🌱	ndaw semis
-😪	kanam guy nelaw
-🧒	du góor jigéen ndaw xale
-👢	bot botu jigééen dàll jigéen yéere
-📬	am raaya buñ yëkkati bataaxal boyetu post boyetu-bataaxal ubbi ubbeeku
-🚼	fomp liir màndarga
-🚑	àmbilaas waruwaay
-😞	kanam gu am mbetteel
-🍸	kaasu koktel laat naan weer
-🥵	ci kanam gu xonq tang tangoor yambar yaqq
-👹	feem kanam léebu fee mbinddéef oogar rab-wu-gànde
-😬	kanam guy def yëfi golo
-🤶	màggal meer nowel yaay
-🎓	joxe-lijaasa kap màggal mbaxane lijaasa yéere
-👩‍🎓	diplom jigéen ndongo lu
-🎬	filmu klapet
-🤘	baaraam béjjen lem loxo def màndarga
-🕣	08:30 30 8 8:30 genn-wàll juróom-ñatt montar
-🤫	kanamu shuut noppil noppi
-🔭	jumtukaay teleskop xarala
-🌸	fulër fulóor yu am melo sëriis
-🎷	jumtukaay misik saks saksofon
-😺	gémmiñ kanam kanamu muus muy muuñ ak gu ubbeeku
-😫	kanam gu sonn
-😀	gaññi kanam guy
-💭	bul mànq rëddu bind xalaat reelu
-👩‍💼	arsitekt biro bisnes jigéen liggéeykat bu xarañ patroŋ
-♿	jot màndarga puus-puus
-🥄	kuddu taabal
-💵	bànk biye dolaar dollar koppar xaalis xaalisu këyit
-🐹	hamster kanam kanamu jinax rabu yar
-💾	disk disket ordinatër
-🌔	sew wàññiku weer wu buy
-🥫	kanet lekk ci
-💴	bànk biye koppar xaalis xaalisu këyit yen
-🍶	buteel bu yaatu gémmiñ kaas laal naan
-⚪	serkal bu weex wu-geometri
-🆙	bitoŋu yeegal kaw xàmme
-😎	bët jant kanam lunet muuñ nuwaarfime neex-deret weer yànj
-📐	def reegal bu am jëmmu triyàngal
-💕	mbëggeel ñaari xol
-😗	fóon kanam guy
-🫤	jaaxle kanam bi am gemmiñ bu jagonaal gu meh wooradi xamadi
-💬	bul jalog mànq rëddu bind kàddu reelu wax
-🚚	bagaas kamiyoŋu
-🔚	fett fettu jeex
-💺	sees toogu
-🎉	bombu taabal màggal përëm swaare tada
-🤲	ñaan tallal loxo
-😔	bari-xalaat dejected kanam kanamu kuy xalaat
-👋	buy tàllal loxo
-🎊	konfeti màggal mànq mànqu
-💼	waliis wu ndaw
-🈸	jëfekaay bitoŋu bu sapoŋ ideograf sapone
-🚱	bu sellul ndox mii
-🐄	nag
-⬜	bu-geometri kaare bu rëy te weex
-😝	bët cafka kanam ak tàllal làmmiñ buñ tëj ñaaw
-😓	kanam ak ñaq wu sedd ñàq
-🙀	am-mbetteel jommi kanam kanamu muus mu oh
-🦖	t-rex tyrannosorus rex
-🐒	golo
-🥴	gemmiñ bu ondulé gët yu toloowul jaxasoo kanam gu xawa feebar mandi
-🍙	ball balu ceeb sapone
-👨‍🚒	góor oto-sapër sapër bu
-🏏	bal po powum kriket yat
-👴	góor màgget gu
-🎲	dee deewu lido faatu po
-🚡	ci-kaw gondol kaabal oto tramweey ci kaw
-😑	bu waxul dara budul wax gu melul nenn kanam
-🥶	ay galaas kanam bu bulo sédd gu konsélé wow
-🚿	duus ndox
-🖕	baaraam baaraamu digg loxo
-🫠	kanam buñu jaxase melt ndoxe reer seey
-🐑	bu jigéen xar
-🕐	00 01:00 1 1:00 benn montar piil
-🔑	baatu-jàll caabi
-🚕	taxi waruwaay
-🎹	jumtukaay klaawiyee klawiyee misik piano
-📃	këyit wuñ lem muus wi lemu wayndare xët
-👨‍🔧	elektrisiyee góor jaaykat mekanisee mekaniyee bu plombiyee
-😄	bët gémmiñ kanam guy muuñ ak ubbeeku
-🥲	beg buñu laal fiyeer kanam buy muuñ ak ragal rongoñ noppalu
-🫥	dëpp dofe kanam buñu def ay tomb guñu luñu mënul gis nëbb reer
-🥤	jus kaas ak paay soda
-🥃	kaas kaasu ndox likër ñam whisky
-🗼	tokyo tuuru ci
-🙄	bët kanam guy regeju
-🧞	jinne
-🤪	bët kanamu dof ndaw yaatu
-👩‍🍳	jigéen seef toggkat bu
-🥇	medaay medaayu plaas 1 njëkk wurus
-🐘	ñay
-🔻	suuf tri-àngal xonk muuse jëm wu-geometri
-🎡	barabu bégal xol kawe lool pëno bu
-🕢	07:30 30 7 7:30 genn-wàll juróom-ñaar montar
-💪	doole lem reelu sidit wane
-🎒	daara saag saagu ndongo satchel
-😢	jooy kanam guy rangooñ xol-bu-neexul
-🔕	bul cellaaral déet joolooli ak buum luñ aaye tere noppi
-📢	baafal dëkkuwaayu ñépp xumb
-🎅	màggal nowel papa pere
-❕	esklamaasiyoŋ fësal màndarga tomb tombu bu weex
-🤽	ndox nit kuy polo ci
-🗾	kàrt kàrtu sapoŋ
-🔆	bitoŋu leeraay yànj yànjaay
-🤣	kanam ree ba xalangu ci suuf reetaan
-🦅	céeli picc
-🍇	meññeef reeseŋ
-🌯	burito mbar wu-meksik
-🌎	àdduna amerika glob buy wane amerik suuf
-🀄	dragon mahjong bu xonk po
-🥝	kiwi lekk meññeef
-😻	bët kanam kanamu muus buy muuñ ak bëti xol mbëggeel
-🎸	gitaar jumtukaay misik
-⏫	bitoŋu gaawal yéegal fett ñaarte
-🏩	mbëggeel otel otelu
-🥓	bakon bekon lekk yàpp
-➗	diwise màndargay xaajale bu rëy mat
-🔁	baamtu bitoŋu ci yoonu montar fett
-👪	bokk famiy
-🤍	weex xol bu
-🔧	jumtukaay kle
-🐶	boppu xaj kanam rabu-yar
-🦌	serf
-🎋	garab garabu tanabata màggal raaya sapone
-🕌	diine islam jàkka jullit
-📔	buñ-taaral kàrne bu ànd ak kubéer gu rafet téere
-🕗	00 08:00 8 8:00 juróom-ñatt montar piil
-🐲	dragoŋ kanam kanamu léebu fee
-👊	dóor kurfañ buy ñëw loxo ŋëb
-🚇	metro subweey
-🤐	fermitiir gémmiñ kanam ak gémiñ guñ
-👩	jigéen
-🍡	broset dango deseer fruit sapone suukër
-📧	bataaxal bataaxalu net imeel
-🐊	jasit
-📌	pasarel pinees
-🕕	00 06:00 6 6:00 juróom-benn montar piil
-⛲	ndax muy sànni
-🔫	fetal jumtukaay ngànnaay pistole
-🍐	meññeef puwaar
-⚓	bato jumtukaay serukaayu gaal
-📦	boyet paket parsel
-🎪	barabu sirk
-😏	bëgg-waccu kanam gu
-🛄	bagaas laajte say
-♑	bëy kaprikorn sojak
-🐁	jinax
-🐌	eskargoo
-👩‍🌾	baykat bu jigéen sardiñee yarkat
-🕑	00 02:00 2 2:00 montar ñaar piil
-🎀	màggal ribaŋ
-📪	am raaya buñ wàcce bataaxal boyetu post boyetu-bataaxal tëj
-🎮	manet po powum wideo
-🔴	serkal wu-geometri xonk
-🛐	barabu jaamukaay diine jaamu
-👩‍🏭	bu isin jigéen juy liggéeykat ci ndaje
-🙅	bul déet liyaar loxo luñ aaye tere nit ku naan déedet
-🏧	atm bànk màndarga otomated waxkat
-🧢	kap mbaxane baseball
-💁	jàppale leeral loxo ndimbal nit kuy joxee wet tàng
-🈶	dafa am juuti bitoŋu sapone ideograf
-🌺	fulër ibiskus
-🤬	kanam ak màndarga ci gémmiñ waat
-🤢	kanam kanamu guy teey xel waccu muy
-💃	fecc jigéen juy
-🦋	gunóor lëppaalëp rafet
-🐥	cuuj kanam jàkkarloo ak lexu xale liir picc
-🚫	bul dañu koy tere déet dugg luñ
-💞	wëndeelu xol buñ
-🥖	lekk mburu miis miisu wu-faraas
-🉑	mën nañu ko nangu bitoŋu terewu ñu bu sapoŋ ideograf sapone
-🚓	oto patrol poliis
-🔒	tëj nañu ko ub
-😐	fige kanam gu ni tekk neutre
-🎩	kaw mbaxane joniwalkër topmbaxane yéere
-👩‍🎤	aktër begalkat biddeew jigéen rok waykat
-🦄	gu sax béjjen kanam
-🐠	jën jënu tàngoor
-🥥	ñamu coco piña colada tiir
-🧣	baat kol
-🎿	nees ski skis
-🌆	dëkk guddi jant buy so peyisaas timis ci réewu taax
-🧐	fatt kanam ak lunet-bennbët
-😭	jooy kanam guy ca kaw rangooñ sob xol-bu-neexul
-😰	baxa gaawantu gémmiñ kanam ak ubbeeku ñàqu tiitaange ñàq sedd
-💣	bomb reelu
-🐪	boos giléem
-👨‍🎓	diplom góor ndongo bu
-👇	baaraam baaraamu joxoñ ginaaw loxo buy ci suuf ginaawu
-🥉	medaay medaayu plaas 3 ñatteel përëm
-🚅	bullet gaawaay otoraay bu gaaw lool ak kanam gu sew raay shinkansen
-🥳	feet feeté kanam buy feetu kanamu kuron mbaxana
-👳	kaala nit ku kaalawu
-🎧	ekutër kasku misik
-📨	bataaxal buy ñëw imeel jot mbaru-bataaxal biy
-⭐	biddeew weexaay bu yam
-🌌	asamaan aki biddéew espaas
-🧖	néego wapër nit ci néegu souna
-🚠	cable gondol montaañ teleferik
-🌵	garab gargamboose
-😲	bu baax kanam gu waaru soke
-🙃	buñ juutal kanam gu dëppu
-🚶	dox nit kuy yéeg tund
-👤	takkandeer yaram
-🛶	gaal kaal gu ndaw kanowe
-🌓	weer wu njëkk xaaj xaaju
-🌒	wàññiku weer xaaj xaaju buy
-👽	aliyeen feem kanam kaw-jawwu ji léebu fee mbiddéef rab-wu-gànde ufo
-🕡	06:30 30 6 6:30 genn-wàll juróom-benn montar
-🐡	bun fokkin jën
-🛃	duwaan
-🥛	kaas kaasu meew naan
-🍋	agrume lingom meññeef
-👲	góor gu sol mbaxane sinuwaa gua pi mao
-🤰	ëmb jigéen ju
-💑	góor ak jigéen mbëggeel xol ñaar ñu bëggante
-⛅	jant ci ginaaw niir sun
-🩶	arduwaas doomu-taal xaalis xol bu
-🏊	féey nit kuy
-🕟	04:30 30 4 4:30 genn-wàll montar ñeent
-📀	blu-ray bu-optik disk dvd ordinatër
-🏃	daw maraton nit kuy
-🧜	sireen bu góor jigéen nit
-🔽	bitoŋ bitoŋu wàcce fett suuf xonk
-💻	benn-nit ordi portaabal ordinatër pc
-🐢	mbonaat mbonaatu-ndox
-😤	gañe kanam gu ànd ak saxaaru bakkan ndam
-👨‍🚀	astronot bu góor roket
-👩‍💻	defarkat jigéen kodekat losisel soskat teknolosist
-🥺	bëti xaj kanam guy ñaan njegal njeggal saraxu yërëmandé
+🔕	bul cellaaral déet deet joolooli ak buum luñ lun aaye tere noppi
 🤮	feebar kanam guy waccu
-❗	esklamaasiyoŋ màndarga tomb tombu
-🎺	jumtukaay misik trompet
-😶	cellaaral gémmiñ kanam gu amul tekk
-😵‍💫	jaaxle jafe-jafe jaxasoo kanam bu am ay gët yu rond gu gêt rod whoa
-📸	flash nataalukaay bu ànd ak flaas wideo
-👩‍🔧	electrisiyee jaaykat jigéen mekanik plumber
-💧	ñàq reelu sedd toq toqu ndox
-🎃	alowiin jak làntern màggal naajo
-💖	eksite tàkk xol bu yànj
-💜	xol bu yolet
-🚀	espaas fuse-jawwu
-🎑	màggal séentu weer
-🍦	deseer galaas kreem bu am suukar kreem-galaase nooy suukër
-🥀	bu waw fulër fulóor
-😣	kanam guy ñafe
-📰	këyit këyitu xibaar
-🥊	boksër gaŋu
-🔺	buñ defal tomb tri-àngal wu-geometri xonk
-📺	tele wideo
-👸	doomu buur bu jigéen feem léebu fee
-😋	bànneexu kanam ñeex ñam melaastiku muuñ neex um
-👗	robbu yéere
-🦎	luy raam sindax
-💉	doktor jam jumtukaay medsin pikiir puso sik
-🌃	biddeew guddi ak ay biddéew
-📕	buñ tëj téere bu tëju
-😇	feem kanam guy muuñ ak serkal ci kawam léebu fee malaaka kaw xamul-dara
-🍃	ëf ngelaw xob wu gelaw yëngal yëngu
-🔜	ci kanam fett fettu
-🚍	kaar buy ñëw
-👯	ak noppi lëk fecckat nit ñuy fecc suwaare
-🥸	bakkan buñu xamul kanam gu deguisewu nëbêtu weer yi
-🥅	caax caaxu kaaŋ
-🍪	deseer mbiskit suukër
-🔎	jumtukaay lup bu féete ndijoor rëyal seet weer
-💢	dof màndarga ku mer reelu
-🥙	falafel farse jiro kebab lekk mburu mburu-farsi
-🐈	muus rabu-yar
-📥	bataaxal boyet boyetu-jot inbox jot pañe
-🚮	màndarga mbalit ci pot potu
-💓	dóor xol buy tëf-tëfi yëngu
-🎏	bàndarol bàndarolu waas màggal
-♈	kuy ram sojak
-🛌	nelaw nit ci kaw lal otel
-🦇	njugub wàmpiir
-🚐	minikaar otokaar
-🐬	dófeŋ flipër
-🐅	segg
-🌉	guddi pom ci
-🛀	beñuwaar nit kuy sangu
-👶	liir ndaw
-🍁	daanu kanadaa kobu xob
-🚜	traktër waruwaay
-💠	ci biir karo bu ànd ak tomb reelu wu-geometri
-😚	bët buñ tëj fóon kanam guy ak yu gëmm
-👮	liggéeykat poliis polisiye polisiyee
-🍥	buteeli jën ngato wëndeelu
-👠	dàll jigéen koket yu gudd taloŋ yéere
-👩‍🏫	jàngalekat bu jigéen meetar profesër
-🌴	garabu garabu-tiir tiir
-🏭	isinu-liggéey tabax
-🔷	baxa karo rëy wu-geometri
-💡	àmpul bu-kuuraŋ làmp reelu xalaat
-🔙	fett fettu dellu montar
-💒	céet jàngu mbëggeel
-🆔	bitoŋu id dàntite
-🥪	mburu sandwich
-⌛	jël-waxtu saabliyee suuf
-🔀	bitoŋu jaxase way yi bu am kruwaa fett
-😦	aj ay yéen gémmiñ kanam gu ànd ak yu lemu ubbiku ubbeeku
-🥚	lekk nen
-🛑	dakkal màndarga siñ wu-oktagon
-🎫	biye dugg
-👺	feem kanam kus-kondoroŋ léebu fee mbinddéef rab-wu-gànde
-🤷	aj bañ faale mbagg ñàkka xam nit ku mbaggam
-🦏	rinoseros
-🍿	pop korn
-☕	attaaya kafe naan gu tank tàng wapër
-📴	fay portaabal buñ telefon
-👘	kimono yéere
-🚈	otoraay bu moome fépp raay
-🍔	àmburgë bërgë
-🔸	karo ndaw oraas wu-geometri
-🎎	fanaal màggal pupe sapone
-🧘	nit ku farankulaayu xalaat yoga
-🆚	bitoŋu daje ak vs
-🧦	denc kawas
-💝	ribbon walantin xol buñ laxas ribaŋ
-🔂	benn-yoon bitoŋu benn baamtu ci yoonu montar fett
-🌷	fulër tulip
-🥰	bëgg kanam bu muuñ ak ay xol nobaatee yaqq
-💍	jaaro jamaa
-🕖	00 07:00 7 7:00 juróom-ñaar montar piil
-🚷	bu kenn dox jaar fii bul déet kiy luñ aaye tere
-🐾	emprime fu tànku rab teguwoon tànk tànku-rab
-👨‍🎨	artist bu góor palet
-🍤	saaf sippax buñ tempura
-🔏	bik caabu daa fëtar suturlu tëj nañu ko ak
-⛄	bonomu-nees nees nitu bu amul sedd
-💀	dee kanam léebu fee rab-wu-gànde yaxu-bopp
-🏴	buñ tàllal raaya bu ñuul
-👍	+1 baaraam bu dijj baaraamu waaw kaw loxo
-🌭	ot-dog otdog sosis
-♎	balaas sojak yoon
-💂	gardiñe
-🛸	ovni sukup buy naaw
-➰	buum gu lemu benn yoon loop
-🎴	fowe fulër kàrt kàrti po sapone
-🛅	bagaas yiñ bàyyi làkk tëjukaay
-🉐	waxaale bitoŋu bu sapoŋ ideograf sapone
-🔰	gëm jumtukaay màndarga sapone soog a door mboq tàmbalikat wert xob
-♊	ay seex jemóo sojak
-🍒	meññeef sëriis
-🎱	8 bal biyaar juróom ñatt po
-🍭	deseer suukër tàngal bant
-🥈	medaay medaayu plaas 2 ñaareel xaalis
+🆑	bitoŋu cl
+➿	buukal buum gu lemu ñaari naari yoon ñaarte naarte
+📌	pasarel pinees
+💘	bëgg-xaalis fett xol ak
+🏇	fas fasukursu kursu sooke
+😶	cellaaral gémmiñ gemmin kanam gu amul tekk
+🍦	deseer galaas kreem bu am suukar kreem-galaase nooy suukër suuker
+😘	fóon foon kanam guy ëf ef
+🦓	reyiir zebre
+🥋	aar marsiyoo judo karate kimono defkatu taekwondo
+😄	bët bet gémmiñ gemmin kanam guy muuñ muun ak ubbeeku
+🔝	cat fett fettu collu kaw
+📪	am raaya buñ bun wàcce wacce bataaxal boyetu post boyetu-bataaxal tëj tej
+🕦	11 11:30 30 fukk ak benn genn-wàll montar
+🚛	kamiyoŋ kamiyoŋu bu gudd lool semi
+😔	bari-xalaat dejected kanam kanamu kuy xalaat
+👩‍🎨	artist bu jigéen jigeen palet
+🐫	batri boos giléem gileem gileemu ñaari naari
+🥰	bëgg begg kanam bu muuñ muun ak ay xol nobaatee yaqq
+🌀	laxas miir ngelaw luy wëndeelu wendeelu tifoŋ
+🚽	wanag
+👩‍🌾	baykat bu jigéen jigeen sardiñee sardinee yarkat
+🐣	cuuj bu génn genn ci nen nenn liir picc
+📁	ëmbu embu taxañ taxan
+🦍	dàngin dangin
+🎆	màggal maggal petaaru artifis
+👋	buy tàllal tallal loxo
+🏸	badminton balu-badminton birdie po raket
+❌	fuul kruwaa màndarga mandarga x
+💕	mbëggeel mbeggeel ñaari naari xol
+📻	rajo wideo
+👎	-1 baaraam bu dijj baaraamu déet deet loxo suuf
+🎧	ekutër ekuter kasku misik
+🍤	saaf sippax buñ bun tempura
+🧖	néego neego wapër waper nit ci néegu neegu souna
+💥	boom mbëkkante mbekkante reelu
+🥲	beg buñu bunu laal fiyeer kanam buy muuñ muun ak ragal rongoñ rongon noppalu
+🚬	sigaret tox
+🎷	jumtukaay misik saks saksofon
+🤢	kanam kanamu guy teey xel waccu muy
+🔇	cellaaral noppi oparlër oparler buñ bun noppiloo waxkat
+📉	grafik kurb suuf tablo buy wàcci wacci xew
+👿	dëmm demm feem imp jinne kanam gu mer am ay béjjen bejjen léebu leebu fee
+🌌	asamaan aki biddéew biddeew espaas
+🌆	dëkk dekk guddi jant buy so peyisaas timis ci réewu reewu taax
+🚞	montaañ montaan oto raay raayu tund
+🔏	bik caabu daa fëtar fetar suturlu tëj tej nañu nanu ko ak
+🦇	njugub wàmpiir wampiir
+🚢	gaal gu mag ki mu yab
+🔦	bu-kuuraŋ jumtukaay làmp-tors light
+🕎	diine menorah sondeel tegukaayu
+🫣	buñu bunu teye gis-gis kanam bu am ay gët get yuy gaawantu gu néeg neeg
+📯	bataaxal mbiibu post
+💼	waliis wu ndaw
+🍜	bool espageti-laxasu ramen toggee ci wapër waper
+🐌	eskargoo
+♐	ark sajiteer sojak
+💫	biddeew miir reelu
+💱	bànk bank koppar wecci xaalis
+⬜	bu-geometri kaare bu rëy rey te weex
+🛫	aeroppalaan deppaar yi enregistremaa roppalaan buy dem
+🌸	fulër fuler fulóor fuloor yu am melo sëriis seriis
+📗	téere teere bu wert
+👲	góor goor gu sol mbaxane sinuwaa gua pi mao
+😃	gémmiñ gemmin kanam ak gu ubbeeku di muuñ muun
+💗	buy màgg magg eksite mer xol yëngu yengu
 🔬	jumtukaay mikroskop xarala
-🤞	baaraam laxasante ñaari loxo wërsëk
-🍛	ceebu kari
-👌	laxo waaw-kay loxo
-👆	baaraam baaraamu joxoñ ginaaw loxo buy ci kaw ginaawu
-👉	baaraam baaraamu joxoñ ginaaw loxo buy ndijoor ginaawu
-🎍	bàmbu màggal pain sapone taaralukaayu sapeŋ
+🎮	manet po powum wideo
+🦁	gaynde kanam kanamu leo sojak
+🕣	08:30 30 8 8:30 genn-wàll juróom-ñatt montar
+🔻	suuf tri-àngal xonk muuse jëm jem wu-geometri
+🫠	kanam buñu bunu jaxase melt ndoxe reer seey
+🏅	medaay medaayu tàggat-yaram
+🛴	benn tànk tank welo
+😤	gañe gane kanam gu ànd and ak saxaaru bakkan ndam
+🐁	jinax
+🦉	looy picc xelu
+🔨	jumtukaay marto
+🕘	00 09:00 9 9:00 juróom-ñeent montar piil
+😵	diis kanam gu
+💩	julu puup kanam neefere rab reelu
+🤬	kanam ak màndarga mandarga ci gémmiñ gemmin waat
+🔭	jumtukaay teleskop xarala
+🎦	film kamera klise sinemaa
+🥑	awokaa lekk meññeef menneef
+👝	poos poset saag yéere yeere
+🔞	18 bul déet deet fukk ak juróom juroom ñatt natt gune ku amul at bokkul luñ lun aaye tere tere-gune
+🥩	bitik xar bitik-mbaam xuux dogu yàpp yapp steak
+🌔	sew wàññiku wanniku weer wu buy
+🌛	kanam weer weeru xaaj bu njëkk njekk
+😰	baxa gaawantu gémmiñ gemmin kanam ak ubbeeku ñàqu naqu tiitaange ñàq naq sedd
+🍫	deseer laal laatu-sokolaa sokolaa suukër suuker
+🥹	dëgërlu degerlu fiyeer jooy kanam gu teye ay rongoñ rongon guy mer tiis
+🔈	ndànk ndank oparlër oparler buy wax
+🍘	ceeb gato
+♍	sojak wiyerse
+🧚	fee oberon puk titania
+👉	baaraam baaraamu joxoñ joxon ginaaw loxo buy ndijoor ginaawu
+🐽	bakkan bakkanu mbaam-xuux kanam
+🕑	00 02:00 2 2:00 montar ñaar naar piil
+💪	doole lem reelu sidit wane
+🚈	otoraay bu moome fépp fepp raay
+🏊	féey feey nit kuy
+❗	esklamaasiyoŋ màndarga mandarga tomb tombu
+🍎	meññeef menneef pom bu xonk
+👢	bot botu jigééen jigeeen dàll dall jigéen jigeen yéere yeere
+💌	bataaxal bataaxalu mbëggeel mbeggeel leetar xol
+🤯	bopp buy toj mbettel
+🍑	meññeef menneef pes
+🚣	gaal gaalu-joow nit joow
+📿	càq caq diine jaamukat kurus per yéere yeere
+🈁	fii bitoŋu bu sapoŋ katakana sapone
+🔎	jumtukaay lup bu féete feete ndijoor rëyal reyal seet weer
+🐲	dragoŋ kanam kanamu léebu leebu fee
+🧀	cëru ceru fromaas
+👘	kimono yéere yeere
+🚔	buy ñëw new oto poliis
+😝	bët bet cafka kanam ak tàllal tallal làmmiñ lammin buñ bun tëj tej ñaaw naaw
+🐐	bëy bey kaprikorn sojak
+⛄	bonomu-nees nees nitu bu amul sedd
+🔄	bitoŋu fett yu juuyoo te safaan-montar yoonal
+📩	am fett bataaxal génn genn imeel mbaru-bataaxal suuf yónnee yonnee
+😻	bët bet kanam kanamu muus buy muuñ muun ak bëti beti xol mbëggeel mbeggeel
+🎡	barabu bégal begal xol kawe lool pëno peno bu
+🕝	02:30 2 2:30 30 genn-wàll montar ñaar naar
+🕚	00 11 11:00 fukk ak benn montar piil
+🕕	00 06:00 6 6:00 juróom-benn montar piil
+🎄	garab garabu nowel màggal maggal
+💀	dee kanam léebu leebu fee rab-wu-gànde yaxu-bopp
+😇	feem kanam guy muuñ muun ak serkal ci kawam léebu leebu fee malaaka kaw xamul-dara
+🙀	am-mbetteel jommi kanam kanamu muus mu oh
+🏮	laat làmp lamp làntern lantern bu xonk
+♎	balaas sojak yoon
+🍂	daanu xob yu
+👫	góor goor ak jigéen jigeen jàppante jappante loxo tëye teye
+🏺	àmfoor amfoor aquarius jug jumtukaay naan ngànnaay ngannaay sojak togg
+🤗	kanam kanamu kottante kott
+🔩	buloŋ ak wiisam jumtukaay nut
+🍗	ginaar tànk tank tànku tanku yax
+😾	kanam kanamu muus mu mer puucatu
+🥕	karot lekk lujum
+🍿	pop korn
+🍖	yàpp yapp ci yax
+😪	kanam guy nelaw
+📭	am raaya buñ bun wàcce wacce bataaxal boyetu post boyetu-bataaxal ubbi lowexonk ubbeeku
+🎋	garab garabu tanabata màggal maggal raaya sapone
+🥪	mburu sandwich
+🚺	duus jigéen jigeen néegu neegu ñi ni noppalukaay wc
+🤟	ily liyaar mbëggeel mbeggeel loxo
+⛪	diine jàngu jangu kreceŋ kruwaa
+📋	klasëru klaseru kepp-kayit
+🐦	picc
+🎴	fowe fulër fuler kàrt kart kàrti karti po sapone
+🔀	bitoŋu jaxase way yi bu am kruwaa fett
+🈚	amul juuti bitoŋu bu sapoŋ ideograf sapone
+📸	flash nataalukaay bu ànd and ak flaas wideo
+🫥	dëpp depp dofe kanam buñu bunu def ay tomb guñu gunu luñu lunu mënul menul gis nëbb nebb reer
+👴	góor goor màgget magget gu
+💅	faj jakkal wew jekkal kosmetik manikiir
+🐀	kaña kana
+🔛	fett fettu ci taal mark
+🎸	gitaar jumtukaay misik
+🎼	kle misik
+😽	bët bet fóon foon kanam kanamu muus bu tëj tej di
+❎	bitoŋ kruwaa kaare màndarga mandarga
+📍	bitoŋ bu roŋ pinees
+😅	kanam guy muuñ muun ak ubbeeku gémmiñ gemmin ñàqu naqu tiitaange ñàq naq sedd
+🏨	otel tabax
+👐	loxo yu ubbeeku
+🗾	kàrt kart kàrtu kartu sapoŋ
+🦊	kanam kanamu rënaar renaar
+😭	jooy kanam guy ca kaw rangooñ rangoon sob xol-bu-neexul
+👂	nopp yaram
+😴	kanam gu nelaw zzz
+🍟	buñ bun saaf pombiteer
+🚫	bul dañu danu koy tere déet deet dugg luñ lun
+🚀	espaas fuse-jawwu
+📅	arminaat bis
+🏑	bal hockey ci ñax nax po teereŋ yat
+🚴	dawal welo dawalkatu nit kuy
+🐴	fas kanam kanamu
+🥱	kanam guy obali obbali sónn sonn weet
+🚦	làmp lamp làmpi lampi estop yu taxaw siñaal sinaal tali
+🎯	bët bet bëtu betu nag ci digg bi dóor door bu jub fett jam po
+👛	nafa piyees yéere yeere
+🎤	karaoke mikro mikrofon
+💾	disk disket ordinatër ordinater
+😛	kanam bu ànd and ak làmmiñ lammin wuñ wun tàllal tallal
+🫨	kanam guy lox sok suuf suy yëngu yengu
+🆚	bitoŋu daje ak vs
+🚊	tram trolleybus
+🎅	màggal maggal nowel papa pere
+🛁	beñuwaar benuwaar sangu
+🤰	ëmb emb jigéen jigeen ju
+🍧	buñ bun wat deseer galaas guñ gun dëbb debb suukër suuker
 🧔	nit am sikkim
-🈺	ubbi ngir liggéey bitoŋ ku bëgg bu sapoŋ ideograf sapone
+😑	bu waxul dara budul wax gu melul nenn kanam
+🤓	bëgg-masin kanam kanamu bëñu benu lëk lek
+⚡	bu kuuraŋ dmer am doole melax woltaas zap
+🏡	dëkkuwaay dekkuwaay kër ker ak sardeŋ
+⛺	kampiŋ tant
+🍥	buteeli jën jen ngato wëndeelu wendeelu
+🔰	gëm gem jumtukaay màndarga mandarga sapone soog a door mboq tàmbalikat tambalikat wert xob
+📨	bataaxal buy ñëw new imeel jot mbaru-bataaxal biy
+🍷	bevemer glass kaasu sàngara sangara laat naan wine
+🚯	bu fi kenn sànni sanni mbalit bul déet deet litter luñ lun aaye tere
+🌘	weer xaaj xaaju buy yokk
+🐍	gàddukat gaddukat jaan ophiuchus sojak
 🏁	karo damiye kursu raaya bu am
-🙈	bul déet gis golo budul lu bon kanam liyaar luñ aaye tere
-🍠	pataas buñ roti pombiteer suukër
+📃	këyit keyit wuñ wun lem muus wi lemu wayndare xët xet
+🔲	bitoŋ bitoŋu kaare ñuul nuul wu-geometri
+📶	ànten anten baari reso laat portaabal siñaal sinaal telefon
+🏬	magasin rëy rey
+🔣	〒♪&% màndargay mandargay mbind
 🕋	diine islam jullit kaaba
-😠	dof kanam gu mer
-🤖	kanam kanamu roboo rab-wu-gànde
-◾	bu-geometri kaare yam-ndaw te ñuul
+🥸	bakkan buñu bunu xamul kanam gu deguisewu nëbêtu nebetu weer yi
+🤙	loxo nanga ma woo woote
+🚲	welo
+👗	robbu yéere yeere
+🏃	daw maraton nit kuy
+🕧	12 12:30 30 genn-wàll midi montar
+😒	kanam gu ñàkk nakk xorom kontaanul ñàkk-caaxaan
+📙	oraas téere teere bu
+👔	karawaat yéere yeere
+👟	atletik dàll dall dàllu dallu daw sneaker yéere yeere
+😫	kanam gu sonn
+🏢	taaxu liggéey liggeey tabax
+🍩	beñe bene deseer suukër suuker
+♈	kuy ram sojak
+🤺	eppee fente fentekat nit kuy
+⛲	ndax muy sànni sanni
+🍵	attaaya kaas kaasu attaayu bu amul jàppukaay jappukaay naan
+🌲	garab gu am xob yuy dund
+👩‍🚀	astronot bu jigéen jigeen roket
+🏧	atm bànk bank màndarga mandarga otomated waxkat
+🥈	medaay medaayu plaas 2 ñaareel naareel xaalis
+💿	bu-optik cd disk optik ordinatër ordinater
+🎣	bantu nappukaay jën jen póol pool
+🍪	deseer mbiskit suukër suuker
+🎓	joxe-lijaasa kap màggal maggal mbaxane lijaasa yéere yeere
+⛔	bu fi kenn dugg bul déet deet luñ lun aaye tere tali
+🍕	dagg fromaas pizza
+🦖	t-rex tyrannosorus rex
+😡	dof kanam guy puucatu mer xonk
+⏫	bitoŋu gaawal yéegal yeegal fett ñaarte naarte
+🌄	jant buy fenk ci tund suba tundu
+🐚	espiraal xor xoru
+😢	jooy kanam guy rangooñ rangoon xol-bu-neexul
+🧦	denc kawas
+💢	dof màndarga mandarga ku mer reelu
+💨	daw dem sa yoon reelu
+😯	guñ gun juutal jaaxle kanam waaru
+👤	takkandeer yaram
+🎠	fasu kurusel
+👮	liggéeykat liggeeykat poliis polisiye polisiyee
+🧑	du góor goor jigéen jigeen mag
+🗼	tokyo tuuru ci
+📳	anam anamu wiibrër wiibrer portaabal telefon wiibre
+🏤	biro post ëroop eroop
+👕	sëmiis semiis tiset yéere yeere
+🍴	furset ak paaka togg
+🛃	duwaan
+🐳	baleen bu puucatu kanam sàll sall wu ñaw naw
+👩‍🚒	jigéen jigeen oto-pompiyee pompiyee bu
+⛅	jant ci ginaaw niir sun
+😞	kanam gu am mbetteel
+💤	nelaw reelu zzz
+🚵	dawalkatu welo montaañ montaan nit kuy dawal vtt
+👪	bokk famiy
+👠	dàll dall jigéen jigeen koket yu gudd taloŋ yéere yeere
+😷	doktor garab kanam guñ gun bàndaas bandaas mask sedd wopp
+🥞	crêpe crepe krep lekk ngato bu tànk tank
+🆓	amul fay bitoŋu
+🏹	ark bu ànd and ak fett jumtukaay ngànnaay ngannaay sagiteer sojak
+🛂	paaspoor xool sa
+😱	kanam guy jooy te tiit ragal yëy yey yuuxu
+🐄	nag
+🔳	bitoŋ bitoŋu kaare bu weex fësal fesal wu-geometri
+👩‍🎓	diplom jigéen jigeen ndongo lu
+🐏	bu góor goor kuy sojak xar yàppu yappu
+📥	bataaxal boyet boyetu-jot inbox jot pañe pane
+🐇	lëk lek lëkk lekk rabu-yar
+🥐	briyoos kurwaasaŋ lekk mburu wu-faraas
+🌖	sew weer wu buy yokk
+🌅	jant buy fenk suba
+🦌	serf
+🌰	garab sateñ saten
+🐅	segg
+💬	bul jalog mànq manq rëddu reddu bind kàddu kaddu reelu wax
+🚮	màndarga mandarga mbalit ci pot potu
+👼	feem kanam léebu leebu fee liir liiru malaaka
+🚩	post raaya am jëmmu jemmu tri-yàngal
+😿	jooy kanam muus muy rangooñ rangoon xol-bu-neexul
+😦	aj ay yéen yeen gémmiñ gemmin kanam gu ànd and ak yu lemu ubbiku ubbeeku
+🚍	kaar buy ñëw new
+⭐	biddeew weexaay bu yam
+🃏	jokeer kàrt kart po
+😵‍💫	jaaxle jafe-jafe jaxasoo kanam bu am ay gët get yu rond gu gêt rod whoa
+🚾	duus ndox noppalukaay tuurukaayu wanag wc
+🐡	bun fokkin jën jen
+♒	ndox sojak wersóo wersoo yanukat
+🤪	bët bet kanamu dof ndaw yaatu
+💜	xol bu yolet
+🤽	ndox nit kuy polo ci
+👸	doomu buur bu jigéen jigeen feem léebu leebu fee
+☔	parasol bu am toqu taw toq yéere yeere
+🦋	gunóor gunoor lëppaalëp leppaalep rafet
+🌒	wàññiku wanniku weer xaaj xaaju buy
+🔍	jumtukaay lup bu féete feete càmmoñ cammon rëyal reyal seet weer
+😕	jaaxasoo kanam gu
+🆙	bitoŋu yeegal kaw xàmme xamme
+🌝	kanam ñumm numm weer bu am yànj yanj
+🐊	jasit
+🦎	luy raam sindax
 🤤	guy yuut kanam
-🏹	ark bu ànd ak fett jumtukaay ngànnaay sagiteer sojak
+🍰	deseer gato gàttal-yoon paat suukër suuker xaaj
+💷	bànk bank biye koppar piye pound xaalis xaalisu këyit keyit
+🚨	faar làmp lamp làmpu lampu oto poliis wëndeelu wendeelu
+👳	kaala nit ku kaalawu
+🎂	bisu-judd deseer gato màggal maggal ngato paat suukër suuker
+📴	fay portaabal buñ bun telefon
+🚋	oto tramweey tram trolleybus
+🔢	1234 mbind mbindu nimero numero
+🍮	deseer kreem pudiŋ suukër suuker
+🔺	buñ bun defal tomb tri-àngal wu-geometri xonk
+🎻	jumtukaay misik violon
+🛵	eskutër eskuter moto
+🎒	daara saag saagu ndongo satchel
+🔸	karo ndaw oraas wu-geometri
+🐬	dófeŋ flipër fliper
+🔮	bul bulu kristaal feem jumtukaay léebu leebu fee wërsëg werseg
+🌕	fees weer wu
+💧	ñàq naq reelu sedd toq toqu ndox
+🎌	bu am kruwaa màggal maggal raaya yu féewaloo feewaloo sapone
+🚒	fire motër moter oto pompiyee truk
+🤶	màggal maggal meer nowel yaay
+🆒	bitoŋu kuul sedd
+🥀	bu waw fulër fuler fulóor fuloor
+🖤	iñaan inaan ñuul nuul soxor xol bu
+🚓	oto patrol poliis
+🥅	caax caaxu kaaŋ
+🍁	daanu kanadaa kobu xob
+🐶	boppu xaj kanam rabu-yar
+🚭	bu fi kenn tox bul déet deet luñ lun aaye tere
+⚽	bal balu futbal football
+🧡	oraas xol bu
+🌙	sew di màgg magg weer wu
+🛀	beñuwaar benuwaar nit kuy sangu
+🕡	06:30 30 6 6:30 genn-wàll juróom-benn montar
+🥊	boksër bokser gaŋu
+🔷	baxa karo rëy rey wu-geometri
+📕	buñ bun tëj tej téere teere bu tëju teju
+🎪	barabu sirk
+🔖	xàmme xamme xàmme-téere
+🤕	bandage gaañu gaanu kanam guñ gun laxas ak bàndaas bandaas naxar
+🎃	alowiin jak làntern lantern màggal maggal naajo
+🍨	deseer glaas kereem kreem galaase suukër suuker
+⬛	bu-geometri kaare bu rëy rey te ñuul nuul
+🩵	bleu clair cyan sarcelle xol bu
+◽	bu-geometri kaare yam-ndaw te weex
+🥶	ay galaas kanam bu bulo sédd sedd gu konsélé konsele wow
+📵	bul dañu danu fi tere portaabal déet deet luñ lun aaye telefon
+😋	bànneexu banneexu kanam ñeex neex ñam nam melaastiku muuñ muun um
+🙋	buñ bun yëkkati yekkati kontaan liyaar loxo nit kuy
+🐵	golo kanam kanamu
+🍡	broset dango deseer fruit sapone suukër suuker
+🎥	filmu kameraa nataalukaay sinemaa
+⌚	montar seetaan
+🕠	05:30 30 5 5:30 genn-wàll juróom juroom montar
+🤲	ñaan naan tallal loxo
+🙊	bul déet deet golo budul wax lu bon kanam liyaar luñ lun aaye tere
+🐞	gunóor gunoor am tupp yu weex bu sew koksineel koksinel
+🈹	wàññi wanni bitoŋu bu sapoŋ ideograf sapone
+🧜	sireen bu góor goor jigéen jigeen nit
+🐙	oktopis
+🧢	kap mbaxane baseball
+🍒	meññeef menneef sëriis seriis
+🌠	biddeew buy daw daanu dóor door
+🌭	ot-dog otdog sosis
+💎	gem jamaa takkaay xeer wu seer
+🚗	oto
+🕢	07:30 30 7 7:30 genn-wàll juróom-ñaar montar
+😖	jaawale kanam gu
+🧗	nit kuy yéeg yeeg yéegkat yeegkat
+📏	jub pegg reegal bu
+🧛	bu deewul dracula wàmpiir wampiir
+🚕	taxi waruwaay
+🈺	ubbi ngir liggéey liggeey bitoŋ ku bëgg begg bu sapoŋ ideograf sapone
+🥙	falafel farse jiro kebab lekk mburu mburu-farsi
+🙃	buñ bun juutal kanam gu dëppu deppu
+🌎	àdduna adduna amerika glob buy wane amerik suuf
+🍔	àmburgë amburge bërgë berge
+😐	fige kanam gu ni tekk neutre
+💰	dolaar saagu xaalis saak
+🏏	bal po powum kriket yat
+💞	wëndeelu wendeelu xol buñ bun
+🐋	baleen
+🥳	feet feeté feete kanam buy feetu kanamu kuron mbaxana
+🌞	jant bu am kanam yànj yanj
+🍄	sampiñoŋ weneer
+🤩	bët bet biddeew dóor-biddeew gaññi ganni kanam
+🛅	bagaas yiñ yin bàyyi bayyi làkk lakk tëjukaay tejukaay
+⭕	o sarkal bu rëy rey te diis serkal
+🌈	taw xon
+💛	mboq xol bu
+💋	fóon foon marku tuñ tun
+📓	kàrne karne
+⏳	jël-waxtu saabliyee buy sotti suuf
+🍐	meññeef menneef puwaar
+🐂	nag sojak yékk yekk
+👖	jiin pàntaloŋ tubëy tubey yéere yeere
+🐃	nag nagu ndox
+⚾	bal besbóol besbool
+🤞	baaraam laxasante ñaari naari loxo wërsëk wersek
+💒	céet ceet jàngu jangu mbëggeel mbeggeel
+🤾	bal handball nit kuy aanbóol aanbool
+🕟	04:30 30 4 4:30 genn-wàll montar ñeent neent
+🙉	bul déet deet dégg degg golo budul lu bon kanam liyaar luñ lun aaye tere
+🈲	dañu danu koy tere bitoŋu bu sapoŋ ideograf sapone
+🐸	kanam kanamu mbott
+⏪	bitoŋu delloo ginaaw gaaw fett ñaarte naarte
+🌮	tako wu-meksik
+💸	ay laaf bànk bank biye dollar fly xaalis bu am xaalisu këyit keyit
+🙅	bul déet deet liyaar loxo luñ lun aaye tere nit ku naan déedet deedet
+📘	baxa téere teere bu
+⚫	serkal ñuul nuul wu-geometri
+🧕	hijab jigéen jigeen ju musóoru musooru mantilla musóor musoor tichel
+📚	téere teere yi
+👨	góor goor
+👒	jigéen jigeen mbaxane yéere yeere
+💵	bànk bank biye dolaar dollar koppar xaalis xaalisu këyit keyit
+👊	dóor door kurfañ kurfan buy ñëw new loxo ŋëb
+⌛	jël-waxtu saabliyee suuf
+🚶	dox nit kuy yéeg yeeg tund
+🎉	bombu taabal màggal maggal përëm perem swaare tada
+📛	badsu tur
+🥔	lujum meññeef menneef pombiteer potaas
+🧒	du góor goor jigéen jigeen ndaw xale
+🥵	ci kanam gu xonq tang tangoor yambar yaqq
+🍶	buteel bu yaatu gémmiñ gemmin kaas laal naan
+🉐	waxaale bitoŋu bu sapoŋ ideograf sapone
+♊	ay seex jemóo jemoo sojak
+🤫	kanamu shuut noppil noppi
+📮	bataaxal boyetu boyetu-leetar
+🔫	fetal jumtukaay ngànnaay ngannaay pistole
+🔁	baamtu bitoŋu ci yoonu montar fett
+🍏	meññeef menneef pom bu wert
+🕐	00 01:00 1 1:00 benn montar piil
+😁	bët bet gaññi ganni kanam guy ak yuy muuñ muun
+🐛	gunóor gunoor bu sew
+😲	bu baax kanam gu waaru soke
+📟	bipër biper
+🤘	baaraam béjjen bejjen lem loxo def màndarga mandarga
+😮	gémmiñ gemmin kanam ak gémiñ gemin gu ubbeeku sympaty
+🆘	bitoŋu wallu ndimbal
+💭	bul mànq manq rëddu reddu bind xalaat reelu
+🐉	dragoŋ léebu leebu fee
+🚟	bu-aju raay ci kaw
+🎶	araf yi arafi misik
+🈯	amna boroom bitoŋu bu sapoŋ ideograf sapone
+👹	feem kanam léebu leebu fee mbinddéef mbinddeef oogar rab-wu-gànde
+💝	ribbon walantin xol buñ bun laxas ribaŋ
+🥇	medaay medaayu plaas 1 njëkk njekk wurus
+🔘	bitoŋ bitoŋu rajo radio wu-geometri
+🐜	gunóor gunoor bu sew sànqaleñ sanqalen
+🆎	ab bitoŋu xeetu deret
+💻	benn-nit ordi portaabal ordinatër ordinater pc
+🏉	bal futbal futbalu rigbi
+🐆	lewopaar
+🦄	gu sax béjjen bejjen kanam
+💊	doktor feebar garab medsin
+🐒	golo
+👃	bakkan yaram
+👧	ndaw sojak wirgo xale bu jigéen jigeen
+📜	këyit keyit tawal
+🗿	estati kanam moai moyai
+🔠	abcd bataaxal lateŋ majiskil mbind
+🌵	garab gargamboose
+♉	nag wu góor goor sojak yékk yekk
+🙎	liyaar nit kuy puucatu
+🐓	picc séq seq
+💓	dóor door xol buy tëf-tëfi yëngu yengu
+😟	jaaxle kanam gu
+🕍	diine juif sinaagog tàmpal tampal
+👶	liir ndaw
+🌹	fulër fuler róos roos
+🔧	jumtukaay kle
+👩‍🏫	jàngalekat jangalekat bu jigéen jigeen meetar profesër profeser
+🌷	fulër fuler tulip
+🥠	mbiskitu musuwaar yónent yonent
+⛽	esaas estasiyoŋ karbiraŋ pomp pompu pompu-esaas
+⛎	jaan sojak u buñ bun baare yanukat
+🌋	géeju geeju xal montaañ montaan yuy génn genn
+🛬	aeroppalaan buy ñëw new yi roppalaan wàcci wacci
+🔱	bato jumtukaay ñatti-fett raaya serukaay xeeju ñatti natti bopp
+💳	bànk bank kàrt kart kàrtu kartu keredi xaalis
+🏂	gaalu-nees kuy pateŋ ci nees ski
+🔒	tëj tej nañu nanu ko ub
+🔉	oparlër oparler bu xumbul noonu yam
+🚑	àmbilaas ambilaas waruwaay
+🈵	féexul feexul bitoŋu amul wakaas bu sapoŋ ideograf sapone
+🀄	dragon mahjong bu xonk po
+😠	dof kanam gu mer
+😚	bët bet buñ bun tëj tej fóon foon kanam guy ak yu gëmm gemm
+🙆	liyaar loxo nit ku naan waaw-kay
+🎏	bàndarol bandarol bàndarolu bandarolu waas màggal maggal
+💄	kosmetik makiyaas xonkal tuñ tun
+🚘	buy ñëw new oto otoportaabal
+😈	béjjen bejjen feem kanam gu am ay léebu leebu fee muuñ muun
+👓	bët bet bëtweer betweer linet lunet yéere yeere
+😂	kanam gu am rangooñu rangoonu bànneex banneex mbegte rangooñ rangoon reetaan
+📂	ëmb emb taxañ taxan ubbeeku ubbi ëmbu embu
+👱	karaw gu mboq nit ku yu weex
+🌇	jant bu so ci réewu reewu taax
+🎾	bal raket tenis
+🔼	bitoŋ bitoŋu yéegal yeegal fett xonk
+🥝	kiwi lekk meññeef menneef
+🍙	ball balu ceeb sapone
+🚜	traktër trakter waruwaay
+👨‍💼	arsitek biro bisnes góor goor kuy liggéey liggeey ci liggéeykat liggeeykat bu xarañ xaran njiit
+🥥	ñamu namu coco piña pina colada tiir
+📈	grafik buy yéeg yeeg kurb màgg magg xew
+🛐	barabu jaamukaay diine jaamu
+🚂	motër moter ndaamaar otoraay raay wapër waper
+🈶	dafa am juuti bitoŋu sapone ideograf
+💏	fóon foon góor goor ak jigéen jigeen
+🦐	krëwet krewet lekk meññeefu menneefu géej geej ndaw
+⏰	waxtukaayu yégle yegle
+🌟	biddeew leeraay tàkk takk yànj yanj yànjaay yanjaay
+🌗	weer wu njëkk njekk xaaj xaaju mujj
+📀	blu-ray bu-optik disk dvd ordinatër ordinater
+👩‍🏭	bu isin jigéen jigeen juy liggéeykat liggeeykat ci ndaje
+🕙	00 10 10:00 fukk montar piil
+🗽	estati liberte
+🚌	otokaar waruwaay
+😳	bu am tomb yu xonk kanam gu xel mu deppaar
+🌃	biddeew guddi ak ay biddéew
+👇	baaraam baaraamu joxoñ joxon ginaaw loxo buy ci suuf ginaawu
+🤭	dar-gémmiñ kanam ak loxo bu dar gémmiñ gemmin
+🌽	mboq nopp noppi
+📢	baafal dëkkuwaayu dekkuwaayu ñépp nepp xumb
+🔓	caabi tijji nañu nanu ko ubbi
+🍠	pataas buñ bun roti pombiteer suukër suuker
+🐼	kanam kanamu panda
+🕞	03:30 3 3:30 30 genn-wàll montar ñatt natt
+🤣	kanam ree ba xalangu ci suuf reetaan
+😉	kanam piis benn bët bet
+🎰	masin masinu xaalis
+🍳	nen pane saaf togg
+😩	jommi kanam kanamu coono sonn
+😮‍💨	defaru kanam guy nooyi mbiip sëqqët seqqet waxantu yuxool
+♌	gaynde lion sojak
+➗	diwise màndargay mandargay xaajale bu rëy rey mat
+👩‍🎤	aktër akter begalkat biddeew jigéen jigeen rok waykat
+⚓	bato jumtukaay serukaayu gaal
+📞	kombine telefon
+🧘	nit ku farankulaayu xalaat yoga
+😺	gémmiñ gemmin kanam kanamu muus muy muuñ muun ak gu ubbeeku
+💖	eksite tàkk takk xol bu yànj yanj
+🍣	sushi
+💆	dàmp damp kanam nit ku ñuy nuy saloŋ
+🕓	00 04:00 4 4:00 montar ñeent neent piil
+♑	bëy bey kaprikorn sojak
+💲	dolaar koppar màndarga mandarga bu dijj xaalis
+💚	wert xol bu
+🚪	buntu
+💉	doktor jam jumtukaay medsin pikiir puso sik
+🐰	kanam kanamu lëk lek lëkk lekk rabbit rabu-yar
+📆	arminaat arminaatu xotti-kayit
+🤨	kanam ak buñ bun yëkkati yekkati yéen yeen ñaaw-njortu ñàkka-wóolu
+🤹	am ekiliibre mbir yu bari nit kuy sànni-kapte
+🥉	medaay medaayu plaas 3 ñatteel natteel përëm perem
+🐨	koala urs
+✨	biddeew ferñeent ferneent
+⛵	gaal gaalu ngelaw géej geej serukaay yacht
+🌼	fulër fuler fulóor fuloor
+🏄	nit kuy sërfe serfe
+🧐	fatt kanam ak lunet-bennbët
+📦	boyet paket parsel
+💮	fulër fuler fulóor fuloor bu weex
+🤷	aj bañ ban faale mbagg ñàkka nakka xam nit ku mbaggam
+🙌	buñ bun yëkkati yekkati liyaar loxo màggal maggal wëey weey ay
+👨‍💻	defarkat góor goor kodekat losisel soskat teknolosist
+😜	bët bet kaf kanam ak tàllal tallal làmmiñ lammin buy piis
+🕗	00 08:00 8 8:00 juróom-ñatt montar piil
+📖	téere teere bu ubbiku ubbeeku
+👨‍🚒	góor goor oto-sapër sapër saper bu
+🆗	bitoŋu waaw-kay
+🥓	bakon bekon lekk yàpp yapp
+🫤	jaaxle kanam bi am gemmiñ gemmin bu jagonaal gu meh wooradi xamadi
+👨‍🎨	artist bu góor goor palet
+🎨	art boolu pentiirukaay muse palette pentiir
+🆔	bitoŋu id dàntite dantite
+👌	laxo waaw-kay loxo
+❓	laajte màndarga mandarga tomb tombu
+📷	nataalukaay wideo
+😥	féex feex kanam kanamu mbetteel te kapris
+🚇	metro subweey
+🍯	lem pot potu suukër suuker
+📄	kanam gu téen teen wayndare xët xet
+🤦	gëdofi gedofi gu jaaxle kanam loxo nit ku taf ci kanamam
+🍋	agrume lingom meññeef menneef
+🧟	bu deewul néew neew buy dox zombi
+🍓	bee frees meññeef menneef
+📇	kàrt kart limu këyit keyit rolodex
+🌴	garabu garabu-tiir tiir
+🙂	kanam gu muuñ muun tuuti
+🎲	dee deewu lido faatu po
+🤴	doomu-buur bu góor goor
+🏰	ëroop eroop taaxu buur
+💇	barab nit kuy watu taar wateef watkat
+😸	bët bet grin kanam kanamu muus muy xiiru ak yuy muuñ muun
 💔	damm dammu xol bu tasaaroo
-🍍	ananas meññeef
-🤱	liir nàmpal nàppalee ween
-👫	góor ak jigéen jàppante loxo tëye
+🍇	meññeef menneef reeseŋ
+🐾	emprime fu tànku tanku rab teguwoon tànk tank tànku-rab
+🙇	ark jéggalu jeggalu liyaar massawu nit kuy sëgg-nuyoo
+🤐	fermitiir gémmiñ gemmin kanam ak gémiñ gemin guñ gun
+💦	ñàq naq reelu tasaaroo toqu ñaq
+👨‍🚀	astronot bu góor goor roket
+😏	bëgg-waccu kanam gu
+🔂	benn-yoon bitoŋu benn baamtu ci yoonu montar fett
+🎳	bal buliŋ po
+🕥	10 10:30 30 fukk genn-wàll montar
+☕	attaaya kafe naan gu tank tàng tang wapër waper
+🔡	abcd bataaxal lateŋ mbind miniskil

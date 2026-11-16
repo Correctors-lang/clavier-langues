@@ -1,1261 +1,1261 @@
 # Mots-clés d'emoji en « ca » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	botó new nou paraula quadre
-🧑‍🤝‍🧑	agafar agafar-se de la mà mans agafades parella persona persones que s’agafen
-◽	blanc geometria petit-mitjà quadrat
-⛽	assortidor de gasolina benzina benzinera combustible
-🔓	cadenat obert obrir tancar
-👄	bellesa boca cos fer un petó llavis pintallavis
-🍴	afamada afamat alimentar-se cobert deliciós dinar esmorzar forquilla i ganivet menjar restaurant sopar
-🏒	disc estic gel hoquei sobre joc
-💦	aigua còmic entrenament entrenar-se esquitxada gota gotes de suor
-🎐	campaneta de vent celebració
-😼	animal cara gat amb somriure irònic ironia irònica
-😉	cara que pica l’ullet flirteig picar provocar sexy trencacors ullet ullets
-📛	etiqueta identificadora identificació nom
-🚉	estació ferrocarril tren vehicle vies
-💌	amor aventura amorosa carta d’amor correu sant valentí
-🆘	ajuda auxili botó sos emergència socors
-🛙	balisa esperança il·luminació llum mar marítim navegació orientació senyal
-🍯	mel menjar os pot de
-😿	animal cara de gat que plora llàgrima llàgrimes plorar trist trista
-🫜	arrel hort rave remolatxa verdura
-😳	apa avergonyida avergonyit cara culpa enrojolada galtes vermelles impressionada impressionat incòmoda incòmode incredulitat vergonya
-🚨	alarma alerta cotxe emergència girant llum de policia sirena
-🚌	autobús bus vehicle
-🌇	ciutat crepuscle edifici ocàs posta de sol
-🔝	fletxa amb la paraula top
-🙊	animal boca tapada gest mona que no parla parlar prohibit secret sigil silenci ui
-🐙	animal criatura mar oceà pop
-🕦	11.30 23.30 dos quarts de dotze hora rellotge
-🕞	15.30 3.30 dos quarts de quatre hora rellotge
-🙌	celebració gest hurra lloança mans aixecades enlaire
-🚗	automòbil conducció cotxe vehicle
-🕥	10.30 22.30 dos quarts d’onze hora rellotge
-🥱	adormida adormit avorriment badall becaina bona nit cansada cansament cansat cara que badalla zzz
-🐎	animal cavall cursa de cavalls curses derbi eqüestre equitació granja hípica triple corona
-👩‍🚒	bombera camió de bombers dona femení
-🪉	amor arpa cupido instrument música orquestra
-🫁	exhalació inhalació òrgan pulmó pulmons respiració respirar
-📲	comunicació fletxa mòbil rebre telèfon amb trucar
-💚	amor cor emoció romàntic romàntica t’estimo verd
-📶	barres de cobertura comunicació mòbil senyal telèfon
-🫦	boca que es mossega el llavi flirteig incomoditat mossegada nervis petó pintallavis por preocupació preocupat sexy
-🌅	alba matí sol sortida del temps
-🌂	paraigua pluja tancat
-🍲	cassola de menjar estofat guisat olla sopa
-🪜	escala de mà esglaó graó pujar
-✅	✓ arreglat botó de marca verificació completat fet marcat selecció
-📑	fitxa marca marcador marcadors punt de llibre punts
-👣	caminar cos descalç descalça empremta petja petjades roba vestit
-👀	cara cos déu meu mirant mirar ull ullada ulls veure vista
-🤸	esport exercici gimnasta gimnàstica persona fent la roda que fa
-⭕	cercle buit vermell gran gruixut o
-😆	boca cara somrient amb els ulls tancats fortament feliç ha oberta petar-se de riure satisfet somriure
-🔄	actualitzar botó de fletxes que giren cap a l’esquerra nou déjà vu esquerra fletxa en sentit antihorari gir rebobinar
-🟢	cercle circumferència verda geometria verd
-🧗	escalada escalador escaladora escalar esport muntanya persona escalant que escala
-🌟	brillant brillantor brillar centellejar espurna estrella nit victòria
-🤧	cara que esternuda constipat esternudant esternut febre malalt malalta mocs salut
-🔛	fletxa amb la paraula on
-🪫	bateria baixa electrònica esgotada poca
-⏰	alarma despertador espera h hora hores rellotge retard tard
-🥕	hortalissa menjar pastanaga verdura
-➿	bucle doble enrotllat llaç
-🥂	beguda beure brindis cava celebrar copes tritlleig xampany xin-xin
-🪲	animal cuca escarabat insecte
-🩹	bena adhesiva tireta
-🟧	quadrat taronja
-📍	mapa rodona ubicació xinxeta
-😽	animal cara gat que fa un petó amb els ulls tancats ull
-🐤	au bebè cria ornitologia petit pollet de perfil
-🤵	elegant esmòquing formal home nuvi persona amb
-🛼	esport patí de rodes
-🧩	encaixar peça peces de trencaclosques pista puzle
-🛝	divertit jugar lliscar parc tobogan
-🔇	altaveu desactivat silenci silenciar silenciat so
-🏥	clínica doctor doctora edifici hospital medicina metge metgessa salut
-🚔	arribant cotxe de policia cara que arriba proper
-💶	bitllets d’euro euro signe
-🥭	aliment fruita mango menjar tropical
-🫂	abraçada adeu amistat amor gràcies hola persones que s’abracen
-🔳	blanc botó de quadrat geometria perfilat
-💹	augment cap amunt creixement gràfic d’augment amb el signe del ien mercat moneda tendència
-🧺	bugada cistella cultiu granja pícnic
-😖	cara de frustració confós confosa encongir-se frustrada frustrat furiós furiosa molest molesta sentiments torbada torbat trist trista
-🔐	bloqueig cadenat tancat amb clau segur
-🈯	reservat botó en japonès ideograma kanji
-🏦	banc edifici
-🍧	dolç gel gelat granissat picat postres
-🧍	dempeus dret dreta persona
-🟠	cercle circumferència geometria taronja
-⛔	direcció prohibida entrada no passeu prohibició prohibit entrar trànsit
-✊	mà puny alçat tancat solidaritat
-🌜	cara fase lunar lluna en l’últim quart amb minvant somnis
-😹	alegria animal cara fart de riure gat amb llàgrimes d’alegria
-🧾	comptabilitat factura llibres prova rebut tiquet
-🪩	ballar bola de miralls brillant discoteca festa
-🏇	cavall de cursa cavalls curses equitació genet joquei triple corona
-👦	jove nen noi
-🏸	bàdminton joc partit raqueta volant
-🥜	cacauet cacauets fruit fruita seca llegum menjar sec
-📱	comunicació mòbil telèfon
-🕎	canelobre de set braços judaisme jueu jueva menorà religió
-🚙	conduir cotxe recreatiu tot camí totterreny vehicle terreny
-🖤	cor dolent dolenta malvada malvat negre
-🪬	amulet fortuna guia hamsa mà de fàtima míriam palmell protecció
-🚴	bici bicicleta ciclisme ciclista esport persona amb en pedalejant
-🍷	alcohol bar beguda begudes copa de vi restaurant
-💊	malalt malalta medicada medicaments medicat medicina metge pastilla píndola píndoles vitamina
-🍀	4 afortunada afortunat fulles irlandès irlandesa quatre sort trèvol de
-🪌	correcció desfer dibuixar eliminar errada error esborrar escriure goma
-😷	cara amb màscara mascareta dentista dermatòleg dermatòloga doctor doctora dr dra gèrmens malalt malalta malaltia medecina refredat
-📆	bloc calendari de
-🙉	animal escoltar gest massa informació mona que no escolta orelles tapades prohibit pst secret
-💱	banc canvi de divisa diners moneda
-🩻	diagnòstic esquelet medicina ossos radiografia
-🏠	afores casa de camp senzilla edifici instal·lar-se llar on és el cor ranxo suburbà suburbana
-📙	biblioteca educació fantasia lectura llibre taronja
-🥔	hortalissa menjar patata tubercle
-💮	blanca flor
-🥌	esport gel joc pedra de cúrling
-💩	caca amb ulls cara còmic fa pudor fer merda monstre pudent pudenta
-🍳	cuina esmorzar fàcil fregir ou ferrat paella restaurant
-🦈	animal peix tauró
-🌼	dent de lleó flor floració margarida planta ranuncle
-😜	cara que fa llengotes i pica l’ullet diversió divertida divertit estrafolari estrafolària festa llengota llengua ull ullet
-🪁	enlairar enlairar-se estel fer volar grua
-⛎	ofiüc portador serp serpentari zodíac
+🧑‍🧑‍🧒‍🧒	adult família familia infant infants
 🍾	ampolla amb tap de suro destapat cava bar beguda destapar
-🧇	esmorzar gofra gofrera indecís indecisa
-🛞	cercle cotxe girar pneumàtic roda rodar vehicle
-📜	escriptura paper pell pergamí
-🧎	agenollada agenollat de genolls genoll persona
-🌕	espai lluna plena
-💽	disc de pc equip minidisc òptic
-💙	amor aventura amorosa cor blau emoció t’estimo
-📏	angle matemàtiques recte regle de vora recta
-🥡	bastonets emportar envàs menjar a domicili per xinès paper
-🕔	17 17.00 5 5.00 cinc en punt hora les rellotge
-🤩	apa cara amb estrelles als ulls emocionada emocionat estrella somrient somriure
-🟦	blau quadrat
-🐍	ofiüc portador rèptil serp serpentari zodíac
-🐉	animal cavallers conte de fades drac fantasia xinès
-🪎	bagul botí diners gemma joies or plata premi riquesa
-💯	100 cent punts cert clarament estic d’acord puntuació perfecta sens dubte sí veritat
-🌝	brillant cara lluna plena amb
-♏	escorpí escorpió horòscop zodíac
+🉑	acceptable botó boto en japonès japones ideograma kanji
+👩‍🔧	comerciant dona electricista femení femeni lampista mecànica mecanica operària operaria
+📱	comunicació comunicacio mòbil mobil telèfon telefon
+👩‍💼	arquitecta directora dona gerent negoci oficina oficinista treballadora d’oficina
+👽	alienígena alienigena cara conte de fades criatura espai extraterrestre fantasia monstre ovni
+🍍	colada fruita pinya tropical
+😊	cara somrient amb els ulls alegres content contenta galtes vermelles rubor satisfet satisfeta somriure ull
+🛸	extraterrestre extraterrestres objecte volador no identificat ovni plat ufo
+♿	accés acces accessible cadira discapacitat rodes símbol simbol
+🪆	matrioixca nina nines russes russa
+👈	assenyalar dit índex index que apunta cap a l’esquerra esquerra mà ma
+🐤	au bebè bebe cria ornitologia petit pollet de perfil
+🍬	caramel càries caries dolç dolc embolcall halloween llaminadura llaminer llaminera postres restaurant
+👨‍🍳	cuiner home masculí masculi xef
+😣	cara de perseverança perseveranca centrar-se concentració concentracio concentrar-se mal cap perseverar
+🫯	baralla batalla debat desacord discussió discussio lluita
+🥂	beguda beure brindis cava celebrar copes tritlleig xampany xin-xin
+🤜	cap a la dreta dret puny salutació salutacio
+🎽	atletisme banda córrer correr samarreta de tirants per
+🎎	celebració celebracio festival nines japoneses
+📺	televisió televisio televisor tv vídeo video
+🌜	cara fase lunar lluna en l’últim quart amb minvant somnis
+👀	cara cos déu deu meu mirant mirar ull ullada ulls veure vista
+🫖	beguda menjar te tetera
+🦚	animal bonic colors vius cua ocell orgull ornitologia ostentós ostentos ostentosa paó pao paona
+🫧	bombolla bombolles flotant net perla sabó sabo subaquàtic subaquatic submarí submari
+📑	fitxa marca marcador marcadors punt de llibre punts
+👡	calçat calcat dona sandàlia sandalia de
+💺	cadira seient
+🍝	espaguetis italià italia mandonguilles menjar pasta restaurant
+🚿	aigua dutxa
+🦜	animal au lloro ocell ornitologia parlar pirata
+🪯	fe khanda religió religio sikh sikhisme
+🏣	correus edifici japonès japones oficina de japonesa
+🏭	edifici fàbrica fabrica
+🤍	blanc cor
+🥢	bastonet bastonets xinesos oriental xinès xines
+🏥	clínica clinica doctor doctora edifici hospital medicina metge metgessa salut
+🙈	animal avergonyida cara déu deu meu espantada gest malvada mona que no mira oblit prohibida secret ulls tapats
+🐱	animal cara de gat gatet mascota
+🪁	enlairar enlairar-se estel fer volar grua
+🤖	cara de robot monstre
+🫄	embaràs embaras embarassada embarassat menjar massa panxa persona prenyada prenyat
+🔑	bloqueig bloquejar clau important claus contrasenya desbloqueig desbloquejar
+🤡	cara de pallasso pallassa
+🫍	animal balena marí mari oceà ocea
+🐹	animal cara de hàmster hamster mascota
+🥟	cresta japonesa xinesa empanada gyōza gyoza jiaozi pierogui
+🔪	arma cuina eina ganivet de japonès japones xef
+👙	banyador biquini nedar piscina platja roba vestit de bany
+🚸	creuant nens que creuen trànsit transit vianant
+◾	geometria negre petit-mitjà quadrat
+🫎	animal ant banyes mamífer mamifer uapití uapiti
+🫳	abaixa agafar deixar anar descarta mà ma amb el palmell cap avall no rebutja recollir
+🎵	música musica nota musical so
+🚷	no prohibició prohibicio prohibit el pas als vianants
+🦫	animal castor dents presa
+🦪	busseig ostra perla
+🛌	becaina bona nit cansada cansat dormir hotel llit persona al zz zzz
+🎹	instrument música musica piano teclat musical
+🫩	cansament cara que fa ulleres esgotament son
+🥨	brètzel bretzel brioixeria cargolat menjar
+🦅	àguila aguila àliga aliga animal au ocell
+💐	amor aniversari aventura cita flor planta ram de flors
+👜	accessori bossa de mà ma compres roba senyora
+🈳	botó boto plaça placa lliure en japonès japones buit ideograma kanji
+🐟	animal peix peixos pesca sopar zodíac zodiac
+🫁	exhalació exhalacio inhalació inhalacio òrgan organ pulmó pulmo pulmons respiració respiracio respirar
+👨‍🎤	actor artista cantant home estrella del rock presentador
+🛖	cabana casa rodona iurta refugi
+🍀	4 afortunada afortunat fulles irlandès irlandes irlandesa quatre sort trèvol trevol de
+🪕	banjo corda de música musica
+😌	alleugerida alleugerit alleujada alleujament alleujat calma cara d’alleujament zen
+🐺	animal cara de llop
+🦣	animal extinció extincio gran llanut mamut ullal
+🦆	ànec anec animal au ocell
+🦢	aneguet lleig animal au cigne ocell ornitologia
+🛷	lliscar neu trineu
+😍	amor amorós amoros amorosa aventura cara somrient amb ulls en forma de cor cors als enamorada enamorat romàntic romantic romàntica romantica sentiments somriure t’estimo tendra tendre
+🌓	creixent espai lluna en el primer quart
+🪣	cubell galleda
+👾	àlien alien alienígena alienigena conte de fades extraterrestre fantasia invasors l’espai joc jocs jugador monstre ovni pixelat
+🔔	campana descans església esglesia so timbre
+🩳	banyador pantaló pantalo pantalons curts roba interior vestit de bany
+🖖	dit mà ma mans salutació salutacio vulcaniana spock star trek vulcanià vulcania
+👯	amigues ballarines bessones conillet conilletes dansaires dobles dones idèntiques identiques dues noies festa germanes orelles de conill orelletes parella persones que ballen disfressades
+🥌	esport gel joc pedra de cúrling curling
+🎺	instrument música musica trompeta vent
+🌑	fosc fosca lluna nova
+👆	amunt assenyalar dit índex index que apunta cap mà ma
+🧑‍🌾	agricultor granger jardiner llaurador pagès pages ramader rural
+🥧	carn coca farcit fruita pastís pastis de carbassa poma tros
+📠	comunicació comunicacio fax
+😆	boca cara somrient amb els ulls tancats fortament feliç felic ha oberta petar-se de riure satisfet somriure
+🧣	abrigar-se bufanda coll fred
+🐖	animal animals cansalada granja gras grassa porc truja
+🛜	banda ampla connectivitat internet ordinador sense fil telèfon telefon intel·ligent wi-fi xarxa
+🍉	fruita meló melo d’aigua d’alger de moro planta síndria sindria
+🪮	afro cabell pinça pinca pinta recollir
+💠	flor geometria interior pètals petals rombe amb punt
+🛹	monopatí monopati patí pati patinador patinadora rodes
+📲	comunicació comunicacio fletxa mòbil mobil rebre telèfon telefon amb trucar
+🚳	bici bicicletes prohibides bicis prohibició prohibicio
+🤑	boca cara de diners llengua pagat ulls
+🚅	alta velocitat bala ferrocarril shinkansen tren via del viatge
+📒	comptabilitat llibre de
+🧂	condiment disgustada disgustat fada fat gust sabor sal salat saler
+🫪	ansietat inflamat pànic panic sorprès sorpres vulnerable xoc
+🧞	desitjos fantasia fregar la llàntia llantia geni blau de personatge fantàstic fantastic
+🍭	caramel confits dolç dolc llaminadura menjar pal piruleta postres restaurant
+🌳	arbre de fulla caduca bosc caduc caiguda fulles hàbitat habitat verd
+🚤	barca estiu llac llanxa luxe milionari milionària milionaria ràpida rapida viatge
+👵	anciana àvia avia cabell gris dona gran iaia monyo sàvia savia vella
+🐈‍⬛	animal felí feli gat mala sort marrameu negre
+🚉	estació estacio ferrocarril tren vehicle vies
+🚐	autobús autobus bus conduir furgoneta microbús microbus minibús minibus vehicle
+❔	blanc interrogació interrogacio perfilat puntuació puntuacio signe d’interrogació
+🔐	bloqueig cadenat tancat amb clau segur
+👰	casament núvia nuvia amb vel persona
+🧠	cervell coneixement intel·ligent llest saviesa
+🔚	end fletxa amb la paraula
+🥁	baquetes música musica tambor timbal
+🛶	barca caiac canoa kayak nau
+😨	atemorida atemorit cara de por espantada espantat preocupada preocupat
+🥫	aliments enllaunats conserva llauna de menjar
+🎈	aniversari celebració celebracio celebrar globus
+🤏	dits mà ma que pessiga petit quantitat petita una mica
+🐕‍🦺	accessibilitat assistència assistencia gos de servei
+🦑	animal calamar menjar mol·lusc
+🍹	alcohol bar beguda begut club còctel coctel copa festa mai tai tròpic tropic tropical
+🦂	animal escorpí escorpi escorpió escorpio zodíac zodiac
+💴	banc bitllets de ien diners divisa moneda signe
+🫹	això aixo allà alla esquerra neutral punt puny
+➖	- − matemàtiques matematiques menys signe de restar gruixut
+🚏	autobús autobus bus parada d’autobús de
+🎱	8 billar bola de negra joc vuit
+🥡	bastonets emportar envàs envas menjar a domicili per xinès xines paper
+🪳	animal ballarola cuca molla panissera escarabat de cuina insecte panderola panerola plaga repugnant
+🔜	aviat de camí cami fletxa amb la paraula soon torno
+🏪	24 hores botiga a l’abast de conveniència conveniencia edifici
+🍊	cítric citric fruita mandarina nectarina planta taronja vitamina c
+👑	cap complement corona família familia reial rei reialesa reina roba victòria victoria
+🕖	19 19.00 7 7.00 en punt hora les set rellotge
+💟	cor blanc sobre fons morat decoratiu
+🚱	aigua no potable prohibit
+👣	caminar cos descalç descalc descalça descalca empremta petja petjades roba vestit
+🍅	hortalissa planta tomàquet tomaquet tomata verdura
+📰	comunicació comunicacio diari notícies noticies
+🟢	cercle circumferència circumferencia verda geometria verd
+🚆	arribada arribat ferrocarril tren vehicle via del xuc-xuc
+⚪	blanc cercle circumferència circumferencia blanca geometria
 🪞	espill maquillatge mirall reflector reflex
-💅	cosmètics cura esmalt d’ungles manicura maquillatge s’ha acabat ungla
-🫫	esquerda màscara resiliència revelació tensió transformació trencament
-🈁	botó aquí en japonès katakana koko quadre
-🍵	beguda beure oolong tassa de te amb nansa
-⏳	ampolleta hores només es viu una vegada rellotge amb sorra que cau d’arena de temporitzador
-🌙	creixent espai lluna ramadà
-🤭	adonar-se sobtadament ai cara amb la mà sobre boca riure ximplet secret sorpresa tapant-se tenir el ups xoc
+🐈	animal animals gat gatet gats mascota
+🦒	girafa taques
+🌾	arròs arros espiga d’arròs gra grans planta
+📎	clip
+🐎	animal cavall cursa de cavalls curses derbi eqüestre equestre equitació equitacio granja hípica hipica triple corona
+🪉	amor arpa cupido instrument música musica orquestra
+🎊	bola de confeti celebració celebracio celebrar festa
+⏬	avall botó boto d’abaixar ràpidament rapidament d’anar doble dues fletxes fletxa
+🧳	bossa de viatge amb rodes equipatge fer la maleta viatjar
+🪱	anèl·lid animal cuc de terra paràsit parasit
+🍸	alcohol bar beguda begudes beure club còctel coctel copa de martini
+🏫	edifici escola
+🧑‍🦯	accessibilitat invident persona amb un bastó basto per a invidents
+🫔	enrotllat menjar mexicà mexica pamonha tamal
+🥦	bròcoli brocoli bròquil broquil col silvestre
+💂	barret guarda londres palau de buckingham
+🧴	ampolla de crema hidratant loció locio protecció proteccio solar suavitzant xampú xampu
+🚙	conduir cotxe recreatiu tot camí cami totterreny vehicle terreny
+🫃	embaràs embaras embarassat home menjar massa panxa prenyat
+🔽	abaixar avall botó boto d’anar fletxa vermell
+🍱	bento caixa de menjar
+🏈	americà america esport futbol pilota de super bowl
+🪻	antirrínum antirrinum flor jacint lavanda lilà lila lupinus planta violeta
+😧	angoixa angoixada angoixat cara d’angoixa espantada espantat estressada estressat infeliç infelic sorpresa
+🤔	barbeta cara considerar curiós curios curiosa mentó mento mmm pensant pensatiu pensativa reflexionant reflexionar
+👩‍🍼	alimentar alletar amor bebè bebe biberó bibero dona que alleta un mama mare
+🛝	divertit jugar lliscar parc tobogan
+👷	casc de protecció proteccio seguretat construcció construccio feina home obra paleta persona treballador la
+🪒	afaitada afaitar-se afilada esmolada maquineta d’afaitar navalla
+🕔	17 17.00 5 5.00 cinc en punt hora les rellotge
+🪬	amulet fortuna guia hamsa mà ma de fàtima fatima míriam miriam palmell protecció proteccio
+🧻	paper de vàter vater higiènic higienic rotlle tovalloleta tovalloletes
+🕜	1.30 13.30 dos quarts de dues hora rellotge una
+🆕	botó boto new nou paraula quadre
+🏆	campió campio campiona esport guanyar premi trofeu victòria victoria
+🐗	animal porc senglar
+📊	barres dades gràfic grafic de
+🤒	cara amb termòmetre termometre malalt malalta malaltia
+🫢	al·lucinar callar cara amb els ulls oberts i la mà ma sobre boca estupefacció estupefaccio incredulitat increïble increible por sorpresa vergonya
+🖕	dit cor del mig mitger fer la figa mà ma
+💹	augment cap amunt creixement gràfic grafic d’augment amb el signe del ien mercat moneda tendència tendencia
+🟤	cercle circumferència circumferencia geometria marró marro
+👅	cos llengua llepada llepar xarrupada xarrupar
+🪧	cartell manifestació manifestacio pancarta placa protesta senyal targeta
+🧹	bruixa escombra escombrar neteja netejar
+🐩	caniche gos peluda pelut púdel pudel
+🔥	calent calenta cremar eina encès ences encesa flama foc genial
+💙	amor aventura amorosa cor blau emoció emocio t’estimo
+🤳	autofoto càmera camera foto mòbil mobil selfie
+👞	calçat calcat compres home marró marro peu peus roba sabata d’home sabates
+👥	amic amics bustos persones silueta de siluetes tothom
+🤸	esport exercici gimnasta gimnàstica gimnastica persona fent la roda que fa
+😓	cara amb suor freda espantada espantat mal de cap nerviós nervios nerviosa sentiments trist trista uf
+🐮	animal cara de vaca granja llet muuu
+♋	càncer cancer cranc horòscop horoscop zodíac zodiac
+👨‍🌾	agricultor granger home jardiner llaurador masculí masculi pagès pages ramader rural
+🤚	alçada alcada mà ma revers de la
+🌊	aigua mar natura oceà ocea ona onada surf surfista
+🪦	cementiri làpida lapida rip tomba
+🚻	lavabo lavabos servei tocador wc
+👨‍🏫	home instructor masculí masculi mestre professor
+🔌	connexió connexio elèctric electric electricitat endoll
+🔤	abc alfabet botó boto de lletres llatines entrada
+👄	bellesa boca cos fer un petó peto llavis pintallavis
+🙄	cara amb els ulls en blanc el que sigui
+🌐	bola del món mon globus terraqüi terraqui amb meridians terra xarxa d’abast mundial
+🐻	animal cara d’os esbramec mel os
+👚	brusa camisa coll compres dona roba de senyora vestimenta
+🔋	bateria càrrega carrega
+🕛	00.00 12 12.00 dotze en punt hora les rellotge
+💁	ajuda és es igual flexió flexio informació informacio mà ma moviment dels cabells persona amb la inclinada cap amunt sarcasme sarcàstica sarcastica xafarderia
+🧮	àbac abac càlcul calcul calculadora
+🧪	ciència ciencia experiment laboratori químic quimic química quimica tub d’assaig
+🏒	disc estic gel hoquei sobre joc
+😀	alegre animada animat cara molt somrient dents feliç felic rialla somriure ulls
+🎭	actor dramàtic dramatic actriu dramàtica dramatica arts interpretatives entreteniment interpretació interpretacio màscara mascara shakespeare teatre
+🐑	animal be bel femella granja llana ovella pècora pecora xai
+🧇	esmorzar gofra gofrera indecís indecis indecisa
+🍲	cassola de menjar estofat guisat olla sopa
+🚁	helicòpter helicopter vehicle viatge
+🧓	adult gènere genere neutre gran persona anciana
+🫴	acosta’t aixeca digue’m dona’m mà ma amb el palmell cap amunt no ho sé se ofereix vine
+⛳	banderí banderi al forat esport golf
+🥖	baguet barra menjar pa
+🍛	arròs arros al curri menjar
+🥜	cacauet cacauets fruit fruita seca llegum menjar sec
+🍈	cantalup fruita meló melo planta
+🤥	cara de mentider nas pinotxo
+🤿	busseig immersió immersio lleugera submarinisme amb tub ulleres de
+😎	cara somrient amb ulleres de sol estil fatxenda genial impressionant platja relaxada relaxat sí si somriure victòria victoria
+💑	amor aniversari aventura amorosa cor parella amb un petó peto romàntic romantic
+🚖	aturar un taxi cotxes proper de cara groc que arriba
+🙏	apreciar demanar gest gràcies gracies mà ma mans ajuntades en oració oracio pregar si us plau
+🦔	eriçó erico punxes
+😬	cara que fa una ganyota amb les dents dentista estrany res somrient
+🏠	afores casa de camp senzilla edifici instal·lar-se llar on és es el cor ranxo suburbà suburba suburbana
+🗻	fuji mont muntanya natura
+🐕	animal animals gos gossos mascota
+🐥	au bebè bebe cria nadó nado ornitologia petit pollet de cara
+🦏	animal rinoceront
+🧤	guants mà ma
+😹	alegria animal cara fart de riure gat amb llàgrimes llagrimes d’alegria
+🥴	beguda begut boca ondulada cara de mareig embriac embriaga intoxicada intoxicat marejada marejat ulls desiguals
+➰	bucle llaç llac arrissat
+🚄	alta velocitat ferrocarril shinkansen tren d’alta via del
+🐔	animal au gallina ornitologia pollastre
+🤼	combat enfrontament esport lluita grecoromana lliure lluitadores lluitadors lluitar persones lluitant que lluiten quadrilàter quadrilater
+🍚	arròs arros bullit menjar
+🏯	castell edifici japonès japones
+🩲	banyador eslip roba interior una peça peca vestit de bany
+🦺	armilla de seguretat salvavides emergència emergencia
+🔹	blau geometria petit rombe
+🔊	alt altaveu amb el volum fort música musica so
+🫝	cogombre condiment envinagrat fermentat problema salmorra vinagre
+🧑‍🔬	biòleg bioleg científic cientific enginyer físic fisic químic quimic
+🕺	ball ballant ballem dansa disco elegant flamenc home que balla música musica ritme salsa talent tango
+🧙	barret de punta bruixa bruixot conjur encantament fantasia fetiller fetillera mag personatge fantàstic fantastic sortilegi
+🥄	cobert cullera menjar
+🦃	au dia d’acció de gràcies gracies engolir gall dindi indiot
+🤵	elegant esmòquing esmoquing formal home nuvi persona amb
+💈	afaitada barber barberia pal de tallada cabells
+🌏	àsia asia austràlia australia bola del món mon globus terraqüi terraqui amb i terra
+🎿	esport esquiar esquís esquis neu
+👩‍🔬	biòloga biologa científica cientifica enginyera física fisica matemàtica matematica química quimica
+👨‍🏭	fàbrica fabrica industrial muntatge operari treballador
+🫛	beina de pèsol pesol edamame fesol llegum mongeta soja verdura
+🔃	actualitzar dreta fletxa fletxes que giren cap a la verticals en sentit horari gir tornar carregar
+🚡	aeri cabina telecabina telefèric teleferic tramvia vehicle
+🐧	antàrtida antartida au ornitologia pingüí pingui
+🚼	bebè bebe canviador per a nadons canviar nadó nado símbol simbol de
+💃	ballant ballarina dansa dona que balla elegant festiva flamenc flamenca ritme salsa talent tango
+👨‍🎓	estudiant graduació graduacio graduat home masculí masculi noi
+🌍	àfrica africa bola del món mon europa globus terraqüi terraqui amb i terra
+🏴	bandera negra oneig onejant
+🔵	blau cercle circumferència circumferencia blava geometria
+📡	antena de satèl·lit ciència ciencia contacte extraterrestres plat
+📝	comunicació comunicacio llapis mitjà mitja nota notes
+🐯	animal cara de tigre depredador gran felí feli
+👦	jove nen noi
+📤	bústia bustia carta correu electrònic electronic enviats safata de sortida
+🥃	beguda copeta got de licor whisky escocès escoces
+🐢	animal tortuga aquàtica aquatica tortugues
+🎁	aniversari caixa celebració celebracio embolicat llaç llac nadal regal sorpresa
+👺	cara conte de fades criatura enfadat fantasia follet japonès japones malvat màscara mascara monstre
+🧑‍🚀	astronauta coet
+👬	agafar-se de la mà ma amic amics bessons cita els millors enamorats gai gèmini gemini home homes que s’agafen lgbt lgbtq lgbtqia mans agafades nois parella queer
+♓	horòscop horoscop peix peixos zodíac zodiac
+🐪	animal desert dromedari gepa una
+🦗	bestiola grill insecte llagosta ortòpter ortopter saltamartí saltamarti
+🛑	detenció detencio estop octogonal senyal d’estop de obligatòria obligatoria stop
+🪽	ala angelical aviació aviacio mitologia ocell volar
+🚰	aigua aixeta got potable vas
 🥗	amanida bol enciam menjar verd
-🈹	botó japonès descompte ideograma kanji quadre
-🔔	campana descans església so timbre
-🦹	criminal dolent malvat persona dolenta malvada superdolent superpoder superpoders
-🙎	arrufar les celles cara d’enfadada dona empipada enfadada enuig ganyota gest morros persona enutjada
-🫴	acosta’t aixeca digue’m dona’m mà amb el palmell cap amunt no ho sé ofereix vine
-👨‍🦽	accessibilitat cadira de rodes home amb una manual
-🙇	capbaix capcot demanar perdó disculpa gest inclinació meditació meditar persona capbaixa capcota fent una reverència inclinant-se
-🔈	altaveu amb el volum baix so suau
-🍋‍🟩	àcid aliment cítric fruita llima menjar planta refrescant tropical verd
-🪖	casc exèrcit guerrer militar soldat
-🪰	animal epidèmia insecte larva malaltia mosca blava podrit
-👧	filla jove nena noia trenes ulls brillants
-🍂	fulla que cau seca tardor
-🍝	espaguetis italià mandonguilles menjar pasta restaurant
-🧑‍🦼	accessibilitat cadira de rodes amb motor elèctrica persona una
-🏂	esport esquí esquiar neu surf de surfista
-🏬	botiga centre comercial edifici magatzem
-🤾	esport esportista handbol persona jugant a que juga pilota
-🌳	arbre de fulla caduca bosc caduc caiguda fulles hàbitat verd
+🍃	fulla que vola amb el vent sortir volant voletejar
+🥚	menjar ou
+🌯	burrito enrotllat mexicà mexica rotlle tortilla
+🚹	homes lavabo servei wc
+🐦‍🔥	au cendres fantasia fènix fenix flama foc mitologia ocell reencarnació reencarnacio reencarnar-se renaixement renéixer reneixer resiliència resiliencia ressorgir transformació transformacio transformar-se
+🦝	animal astut curiós curios os rentador
+🔙	back fletxa amb la paraula
+🚎	autobús autobus bus tramvia tròlei trolei troleibús troleibus
+⏩	avançar avancar botó boto d’avançar ràpidament rapidament doble dues fletxes fletxa
+👻	agitada agitat aparició aparicio buu cara de fantasma conte fades criatura esgarrifós esgarrifos fantasia halloween monstre ximple
+📼	antiga cinta vhs vídeo video videocasset
+🎇	bengala bum celebració celebracio espurna foc focs artificials pirotècnia pirotecnia
+📔	coberta decorativa educació educacio escola escriptura llibre llibreta quadern amb
+🕒	15 15.00 3 3.00 en punt hora les tres rellotge
+🥾	a l’aire lliure acampada bota de muntanya càmping camping excursionisme sabata marró marro senderisme trekking tresc viatjar amb motxilla
+🍼	bebè bebe bebès bebes beguda beure biberó bibero llet nadó nado nadons naixement nascuda nascut
+📧	carta correu electrònic electronic mail
+🎫	admissió admissio entrada resguard tiquet
+💶	bitllets d’euro euro signe
+🌁	boira bromós bromos bromosa paisatge emboirat
+🥛	beguda beure got de llet
+🤱	alletar dona que alleta lactància lactancia lactant nadó nado pit
+🦕	braquiosaure brontosaure dinosaure diplodocus sauròpode sauropode
+📣	animació animacio animar aplaudiments megàfon megafon so
+🦧	animal mico mona orangutan simi
+📫	bandera aixecada bústia bustia tancada amb la comunicació comunicacio correu
+🌿	fulla herba planta
+🦈	animal peix tauró tauro
+🥽	busseig natació natacio protecció proteccio dels ulls ocular soldadura submarinisme ulleres de piscina
+🚧	barrera construcció construccio obres tanca
+😼	animal cara gat amb somriure irònic ironic ironia irònica ironica
+🐝	abella abellot insecte mel natura primavera
+🧑‍🎨	artista paleta
+🪚	eina fuster llenyataire serra tallar xerrac
+🧌	conte fades fantasia monstre trol
+🪜	escala de mà ma esglaó esglao graó grao pujar
+🍢	broqueta de marisc kebab menjar oden pal restaurant
+🎬	acció accio cinema claqueta pel·lícula
+🤝	acord encaixada de mans salutació salutacio tracte
+🛄	arribada avió avio bosses equipatge equipatges facturat maleta recollida d’equipatges trajecte viatge viatjar
+💍	anell brillant casada casament casat compromís compromis diamant promès promes promesa
+✅	✓ arreglat botó boto de marca verificació verificacio completat fet marcat selecció seleccio
+💡	bombeta còmic comic electricitat idea llum
+🤠	barret cara amb de vaquer cowboy vaquera
+🔆	apujar augmentar botó boto d’augmentar la brillantor brillant clar llum
+🩷	adorable agradar amor bonic cor especial rosa
+🧥	abric abrigar-se brrr fred jaqueta
+🚥	horitzontal intersecció interseccio semàfor semafor senyal trànsit transit
+🏀	bàsquet basquet cistella esport pilota de
+🚃	elèctric electric ferrocarril tramvia transport tren troleibús troleibus vagó vago de viatge
+🥍	esports estic gol lacrosse pilota
+🏓	joc ping-pong raqueta tenis de taula tennis
+🫚	arrel de gingebre beguda espècia especia gínger ginger herba natural salut
+🪨	còdol codol dur dura pedra penyal pesada pesat roc roca sòlid solid
+🎐	campaneta de vent celebració celebracio
+🥤	aigua beguda canya got amb refresc suc
+🙍	afectada cara trista disgustada dona emmurriada emmurriament gest molesta persona arrufada
+🩶	amor bonic cor gris plata platejat
+🪏	cavar forat pala
+🔅	abaixar atenuar botó boto d’atenuar la brillantor
+🦀	càncer cancer cranc horòscop horoscop zodíac zodiac
+🍌	fruita plàtan platan potassi
+👨‍🔧	comerciant electricista home lampista masculí masculi mecànic mecanic operari
+🔯	estrella de sis puntes amb punt fortuna judaisme jueu jueva
+🧑‍🏭	fàbrica fabrica industrial operari treballador
+🎑	celebració celebracio cerimònia cerimonia de la lluna
+🏩	cites edifici hotel de
 🏐	bola joc partit pilota de voleibol
-🧴	ampolla de crema hidratant loció protecció solar suavitzant xampú
-💨	còmic córrer he de marxar núvol pet pressa ràpid sortir corrent
-🪱	anèl·lid animal cuc de terra paràsit
-🫕	cassola desfet esquí fondue formatge menjar suís suïssa xocolata
-🕧	00.30 12.30 dos quarts d’una hora rellotge
-🥣	arròs congee bol amb cullera cereals esmorzar farina de civada farinetes
+📬	bandera aixecada bústia bustia oberta amb la plena correu
+📐	angle cartabó cartabo esquadra matemàtiques matematiques regle de càlcul calcul triangle
+🪟	aire fresc finestra marc obertura transparent vista
+👨‍🔬	biòleg bioleg científic cientific enginyer físic fisic home matemàtic matematic químic quimic
+🍆	albergínia alberginia hortalissa planta verdura
+🪤	atreure formatge parany rata ratera ratolí ratoli trampa
+👩	adulta castanya dona femení femeni senyora tall de cabells
+🐭	animal cara de ratolí ratoli
+🍻	alcohol bar beguda begudes brindar brindis amb gerra de cervesa salut
+🧝	el senyor dels anells elf encantament fantasia folklore màgic magic mitologia orelles de punta personatge fantàstic fantastic
+😙	amor cara que fa un petó peto amb els ulls alegres cita flirteig nit petons somriure t’estimo ull tancats
+🐘	animal elefant
+❕	blanc exclamació exclamacio perfilat puntuació puntuacio signe d’exclamació
+🤧	cara que esternuda constipat esternudant esternut febre malalt malalta mocs salut
+🦤	animal au dodo extinció extincio gran maurici ornitologia
+➕	+ matemàtiques matematiques més mes signe de sumar gruixut
+🈴	qualificació qualificacio d’aprovat botó boto en japonès japones ideograma kanji
+🥺	cara de súplica suplica compassió compassio per què que no pietat si us plau sispli suplicar trist trista ulls cadell grans
+🧱	fang maó mao morter mur paret totxana totxanes totxo totxos
+🟧	quadrat taronja
+🛒	carretó carreto compra
+🥯	bagel esmorzar fleca forn pa panet
+💯	100 cent punts cert clarament estic d’acord puntuació puntuacio perfecta sens dubte sí si veritat
+🎢	atraccions muntanya russa parc d’atraccions
+🆖	botó boto ng paraula quadre
+🌱	brot jove nou plançó planco planta
+👍	+1 amunt bé be brutal d’acord entesos fantàstic fantastic genial guai m’agrada mà ma polze cap sí si
+🙁	cara una mica arrufada emmurriada emmurriat empipada empipat trist trista
+🐠	animal peix peixos tropical
+🎀	celebració celebracio cinta llaç llac
+🏦	banc edifici
+🔴	cercle circumferència circumferencia vermella geometria vermell
+🟰	és es igual a igualtat matemàtiques matematiques resposta signe d’igual gruixut
+🛕	hindú hindu hinduisme temple
+🚚	camió camio de repartiment conduir cotxe vehicle
+🌻	aire lliure flor gira-sol planta sol
+🤎	cor marró marro
+🐷	animal cansalada cara de porc granja
+💣	bomba bum calent calenta còmic comic explosió explosio perillós perillos perillosa
+🚠	muntanya telecabina telecadira telefèric teleferic de
+🟨	groc quadrat targeta groga
+🕤	21.30 9.30 dos quarts de deu hora rellotge
+✋	alto cinc mà ma aixecada xoca-la
+🤛	cap a l’esquerra esquerre puny salutació salutacio
+🈸	aplicar botó boto japonès japones aplicació aplicacio ideograma kanji
+🌺	flor hibisc planta
+🧁	cupcake dolç dolc fideus fleca forn magdalena postres sucre
+✊	mà ma puny alçat alcat tancat solidaritat
+👭	agafar-se de la mà ma amigues amistat cita dones que s’agafen gai germana germanes lesbiana lgbt lgbtq lgbtqia mans agafades millor amiga millors noies parella queer
+🌂	paraigua pluja tancat
+🍺	alcohol alemanya bar cervesa d’estiu gerra de oktoberfest pinta tanc
+🌉	nit pont de
 🍞	blat gra llesca menjar pa restaurant torrada
 🌚	cara de lluna nova espai
-🦨	fer pudor mofeta
-🚹	homes lavabo servei wc
-🪅	caramels celebració festa mexicà pinyata
-🪢	bramant corda nus
-🫢	al·lucinar callar cara amb els ulls oberts i la mà sobre boca estupefacció incredulitat increïble por sorpresa vergonya
-🎻	corda instrument música violí
-🛫	avió enlairament d’avió facturació sortida sortides vehicle
-💐	amor aniversari aventura cita flor planta ram de flors
-👎	-1 avall aversió malament no m’agrada polze cap
-🤟	dits gest de t’estimo mà tres
-♋	càncer cranc horòscop zodíac
-🦸	bé bo heroi heroïna persona amb superpoders superheroi superheroïna superman superpoder
-👏	aplaudiment aplaudint aprovació ben fet bona feina enhorabona entusiasme fantàstic genial mans que aplaudeixen picar de visca
-🧚	ales conte de fades fada fantasia follet mitologia oberó personatge fantàstic puck titània
-🏢	ciutat cúbic edifici d’oficines feina
-🧻	paper de vàter higiènic rotlle tovalloleta tovalloletes
-🔅	abaixar atenuar botó d’atenuar la brillantor
-🆓	botó free paraula quadre
-🪛	eina punta plana tornavís útil vis
-📖	biblioteca coneixement educació fantasia lectura llibre novel·les obert
-🍬	caramel càries dolç embolcall halloween llaminadura llaminer llaminera postres restaurant
-🃏	carta cartes comodí joc partida
-🧪	ciència experiment laboratori químic química tub d’assaig
-🍟	fregides menjar ràpid patates
-🌏	àsia austràlia bola del món globus terraqüi amb i terra
-🧵	bobina cordill cosir enfilar fil rodet
-🆎	ab botó grup sanguini
-👩‍🍼	alimentar alletar amor bebè biberó dona que alleta un mama mare
-🕛	00.00 12 12.00 dotze en punt hora les rellotge
-🍰	dolç massa pastís porció de postres tall
-🦩	animal au cridaner flamenc llampant ocell ornitologia tropical
-😁	cara molt somrient amb els ulls alegres dents feliç gran somriure simpàtic simpàtica ull
-⬛	geometria gran negre quadrat
-🪻	antirrínum flor jacint lavanda lilà lupinus planta violeta
-🖖	dit mà mans salutació vulcaniana spock star trek vulcanià
-🪍	atrapar caçar salabret trampa xarxa
-⌚	hora rellotge
-🐯	animal cara de tigre depredador gran felí
-🚧	barrera construcció obres tanca
-🔵	blau cercle circumferència blava geometria
-🌄	alba sobre les muntanyes matí muntanya sol sortida del
-🚾	bany lavabo servei vàter wc
-📮	bústia carta correu
-🦽	accessibilitat cadira de rodes manual
-🌁	boira bromós bromosa paisatge emboirat
-🫈	bigfoot bosc gegant ieti monstre pèl pelut sasquatch
-🦷	blanc dent dentista dents perlí perlina
-🪺	covar niu amb ous ocell ou
-🐜	animal formiga insecte jardí
-🔋	bateria càrrega
-🟡	cercle circumferència groga geometria groc
-🌑	fosc fosca lluna nova
-😩	afamada afamat cansada cansat cara d’esgotament esgotada esgotament esgotat fracàs infeliç no plorant sentiments somnolent somnolenta trist trista
-🛒	carretó compra
-🆗	botó ok d’acord paraula
-🪝	atrapar corba ganxo ham pescar punt de venda
-🥞	americanes crep creps menjar pancake
-💳	banc càrrec cobrar crèdit diners efectiu pagar targeta de
-🦗	bestiola grill insecte llagosta ortòpter saltamartí
-🫛	beina de pèsol edamame fesol llegum mongeta soja verdura
-🥧	carn coca farcit fruita pastís de carbassa poma tros
-🧸	joc joguina os de peluix pelfa
-🧛	dents disfressa dràcula esgarrifós fantasia halloween mort vivent morta personatge fantàstic sang supernatural ullals vampir xuclar la
-🟪	lila morat quadrat violeta
-🐱	animal cara de gat gatet mascota
-🦺	armilla de seguretat salvavides emergència
-🈴	qualificació d’aprovat botó en japonès ideograma kanji
-🍏	fruita poma verda
-🌠	cel espai estel estrella fugaç pluja d’estels
-❌	× cancel·lar creu marca de multiplicació multiplicar x
-🐸	animal cara de granota
-🧀	formatge porció de tall tros
-🪕	banjo corda de música
-🐩	caniche gos peluda pelut púdel
-🦻	accessibilitat orella amb audiòfon problema d’audició
-👩‍🦼	accessibilitat cadira de rodes dona amb una motor elèctrica motoritzada
-🧙	barret de punta bruixa bruixot conjur encantament fantasia fetiller fetillera mag personatge fantàstic sortilegi
-👨‍🏫	home instructor masculí mestre professor
-💄	cita cosmètics maquillatge pintallavis
-🚘	arribant automòbil de cara que arriba cotxe cotxes proper
-👨‍🏭	fàbrica industrial muntatge operari treballador
-🏣	correus edifici japonès oficina de japonesa
-🫐	blau fruit del bosc gerd menjar nabiu nabius
-🦑	animal calamar menjar mol·lusc
-🐵	animal cara de mona curiosa
-🧊	fred gel glaçó iceberg
-🤿	busseig immersió lleugera submarinisme amb tub ulleres de
-📼	antiga cinta vhs vídeo videocasset
-💟	cor blanc sobre fons morat decoratiu
-🎥	bollywood càmera cinematogràfica cinema enregistrar hollywood pel·lícula
-🧥	abric abrigar-se brrr fred jaqueta
-🐽	animal cara granja morro nas de porc
-👭	agafar-se de la mà amigues amistat cita dones que s’agafen gai germana germanes lesbiana lgbt lgbtq lgbtqia mans agafades millor amiga millors noies parella queer
-🚝	monocarril monorail vehicle
-🩷	adorable agradar amor bonic cor especial rosa
-🧑‍🎓	estudiant graduat
-🏡	afores casa amb jardí de camp senzilla edifici on és el cor suburbà suburbana
-😮‍💨	alleujament cara que exhala exhalar exhaust xiulet xiuxiueig
-🔣	〒♪&% botó de símbols entrada per introduir
-🪚	eina fuster llenyataire serra tallar xerrac
-🧕	cap cobert dona amb el mocador de hijab mantellina
-🦂	animal escorpí escorpió zodíac
-➖	- − matemàtiques menys signe de restar gruixut
-😮	apa boca bocabadada bocabadat cara amb la oberta estupefacta estupefacte increïble no et crec sorprès sorpresa
-🪸	canvi climàtic corall escull escullera mar oceà
-🚊	tramvia transport tròlei troleibús vehicle
-😟	cara de preocupació estrès nerviós nerviosa nervis preocupada preocupat sorprès sorpresa
-📇	fitxer rotatiu organitzador de targetes vella escola
-🌽	blat de moro collita conrear cultiu dacsa moresc panís panotxa
-📫	bandera aixecada bústia tancada amb la comunicació correu
-🚄	alta velocitat ferrocarril shinkansen tren d’alta via del
-🧑‍🎨	artista paleta
-🪪	carnet credencials document id identificació seguretat targeta d’identificació
-🫖	beguda menjar te tetera
-🕘	21 21.00 9 9.00 en punt hora les nou rellotge
-🈵	botó cap plaça lliure en japonès ideograma kanji ple
-🐔	animal au gallina ornitologia pollastre
-👩‍🦽	accessibilitat cadira de rodes dona amb una manual
-🛗	accessibilitat ascensor muntacàrregues
-🍊	cítric fruita mandarina nectarina planta taronja vitamina c
-🤒	cara amb termòmetre malalt malalta malaltia
-🎾	pilota raqueta i de tennis tenis
-🤡	cara de pallasso pallassa
-💰	banc bossa de diners cost dòlar efectiu ric rica
-🛴	patinet transport
-🪷	bellesa budisme calma flor hinduisme índia lotus pau puresa serenitat
-🦉	animal au mussol ocell ornitologia savi
-🐛	animal bestiola eruga insecte jardí
-📣	animació animar aplaudiments megàfon so
-😱	cara que crida de por crit espantada espantat munch pànic sorprès sorpresa temorós temorosa terror
-🥨	brètzel brioixeria cargolat menjar
-📎	clip
-🍩	dolç dònut menjar postres rosquilla
-🐕	animal animals gos gossos mascota
-🧑‍🧒‍🧒	adult família infant
-🪮	afro cabell pinça pinta recollir
-🫗	abocar accident aigua beguda buit got que aboca un líquid rajar vaja vessar
-📳	comunicació mòbil mode de vibració telèfon
-💏	amor aniversari aventura cita cor parella petó romàntic
-🔮	bola de vidre conte fades fantasia fortuna futur màgia sort
-🙆	aprovació braços amunt cara d’acord exercici gest d’aprovació mans al cap persona amb els les fent el
-🏈	americà esport futbol pilota de super bowl
-🥿	ballarina calçat còmode sabata plana sabatilla xinel·la
-🦿	accessibilitat cama mecànica ortopèdica pròtesi de
-💆	bellesa calmar cara mal de cap massatge facial persona que rep un al relax relaxació relaxant saló spa tensió
-🫯	baralla batalla debat desacord discussió lluita
-🫰	<3 amor car cor diners fregar els dits mà amb el dit índex i polze creuats petar
-🥯	bagel esmorzar fleca forn pa panet
-🦜	animal au lloro ocell ornitologia parlar pirata
-👨‍🌾	agricultor granger home jardiner llaurador masculí pagès ramader rural
-👖	cap de setmana compres informal pantaló pantalons roba texana texans
-🦕	braquiosaure brontosaure dinosaure diplodocus sauròpode
-🚯	brossa llençar no prohibició prohibit
-🩱	banyador vestit de bany d’una peça
-➕	+ matemàtiques més signe de sumar gruixut
-😡	cara vermella enutjada enutjat furiós furiosa ira irritant ràbia sentiments vermell
-🥋	arts marcials judo karate quimono taekwondo uniforme
-🐣	animal au cria desclosa eclosió ou pollet que surt de l’ou sortida
-👑	cap complement corona família reial rei reialesa reina roba victòria
-🏆	campió campiona esport guanyar premi trofeu victòria
-🦔	eriçó punxes
-✋	alto cinc mà aixecada xoca-la
-🔪	arma cuina eina ganivet de japonès xef
-🪔	ble bricolatge làmpada d’oli llàntia llum oli
-🐏	animal animals àries banyes mardà marrà ovella zodíac zoo
-🟣	cercle circumferència morada geometria morat
-🥦	bròcoli bròquil col silvestre
-👜	accessori bossa de mà compres roba senyora
-🍎	dieta fruita madura menjar poma sana vermella
-🍜	bastonets bol fideus fum fumejant menjar palets pho plat ramen sopa
-🐓	animal animals au aus gall ornitologia
-🪑	cadira seient seure
-🧠	cervell coneixement intel·ligent llest saviesa
-📘	biblioteca blau educació fantasia lectura llibre
-🛬	arribada d’avió arribades arribant aterratge avió vehicle
-🍘	arròs galeta d’arròs salada menjar
-🦚	animal bonic colors vius cua ocell orgull ornitologia ostentós ostentosa paó paona
-🎆	bum celebració entreteniment focs artificials d’artifici només es viu una vegada
-🫌	canviar capoll esperança fràgil insecte metamorfosi migració transformació
-🤯	cap que explota estupefacta estupefacte explotar impossible impressionada impressionat sorprès sorpresa
-🟩	quadrat verd
-🈲	botó prohibit en japonès ideograma kanji prohibició
-😈	banyes cara somrient amb conte de fades dimoni fantasia foscor malvat somriure
-💗	abraçades i petons batec cor que creix creixent emoció emocionada emocionat muac t’estimo
-🔼	amunt botó d’anar d’apujar fletxa vermell
-🎈	aniversari celebració celebrar globus
-🦀	càncer cranc horòscop zodíac
-🩸	donació de sang ferida gota lesió medicina menstruació sagnar
-📄	amunt document pàgina cap
-🐋	animal balena oceà platja
-🍌	fruita plàtan potassi
-🤕	ai bena cap embenat cara amb el ferida ferit lesió
-👡	calçat dona sandàlia de
-🏤	correus europea oficina de
-🏓	joc ping-pong raqueta tenis de taula tennis
-🧁	cupcake dolç fideus fleca forn magdalena postres sucre
-🌲	arbre de fulla perenne nadal avet bosc pi
-🎂	aniversari celebració dolç pastís d’aniversari per molts anys postres
-💋	aventura amorosa cita cor emoció fer un petó llavis marca de sexy
-🤔	barbeta cara considerar curiós curiosa mentó mmm pensant pensatiu pensativa reflexionant reflexionar
-⛳	banderí al forat esport golf
-🧫	bacteri biòleg biòloga biologia cultiu laboratori placa de petri
-🥠	fortuna futur galeta de la sort profecia
-👐	abraçada cos mà mans de jazz obertes oberta virar bruscament
-😃	boca oberta cara molt somrient amb els ulls ben oberts dents feliç genial sí somriure obert
-👅	cos llengua llepada llepar xarrupada xarrupar
-🤨	cara amb una cella aixecada desaprovació desconfiada desconfiat escèptic escèptica escepticisme incredulitat sorpresa
-🎌	banderes creuades celebració japó japoneses
-💫	brillant còmic estel fugaç estrella estrelles mareig marejada marejat
-🤹	circ home fent malabars que fa joc malabar malabarisme malabarista multitasca persona
-📠	comunicació fax
-🚪	armari porta del darrere principal
-🥹	admiració agraït avergonyit cara que s’aguanta les llàgrimes dolor emoció enuig gratitud d’alegria oh orgull resistir sentiments si us plau
-🌖	espai gibosa lluna minvant
-🙏	apreciar demanar gest gràcies mà mans ajuntades en oració pregar si us plau
-🧑‍🎤	actor cantant estrella presentador
-🪥	dental dents higiene lavabo raspall de rentar
-🏄	esport mar onada persona fent surf que fa platja surfista taula
-👩‍🔬	biòloga científica enginyera física matemàtica química
-🤺	esgrima esgrimidor esgrimidora espasa floret persona que fa sabre tirador tiradora
-🎠	atraccions cavall cavallets entreteniment
-🈳	botó plaça lliure en japonès buit ideograma kanji
-🔥	calent calenta cremar eina encès encesa flama foc genial
-🪿	ànec animal au clacar oca ocell
-🍨	crema dolç gel gelat menjar postres restaurant
-🕓	16 16.00 4 en punt hora les quatre rellotge
-🔯	estrella de sis puntes amb punt fortuna judaisme jueu jueva
-📉	a la baixa cap avall dades descendent disminució gràfic de negatiu tendència
-🐀	animal rata ratolí
-👟	bambes calçat esportiu compres córrer ràpid sabatilla de sabatilles
-📯	corn de posta postilló corneta correus símbol trompa
-😅	cara somrient amb una gota de suor emocionada emocionat estrès estressada estressat nerviós nerviosa obert somriure freda
-🦛	animal hipopòtam
-🌛	cara creixent espai lluna en el primer quart amb
-👔	camisa corbata empleat roba seriós
-🧡	cor taronja
-❔	blanc interrogació perfilat puntuació signe d’interrogació
-🐺	animal cara de llop
-🪹	branca covar llar niu buit
-🤴	príncep reial reialesa
-🌘	espai lluna minvant
-🩺	cor doctor estetoscopi medicina
-🍣	cru menjar peix sushi
-🍢	broqueta de marisc kebab menjar oden pal restaurant
-🦐	crustaci gamba llagostí marisc menjar
-🫺	això allà dreta neutral punt puny
-🍮	crema dolç flam postres púding
-🥐	brioixeria croissant francès menjar pa
-🔖	marcador punt de llibre
-🥟	cresta japonesa xinesa empanada gyōza jiaozi pierogui
-🎭	actor dramàtic actriu dramàtica arts interpretatives entreteniment interpretació màscara shakespeare teatre
-🈚	gratis botó en japonès ideograma kanji
-🚋	autobús tramvia troleibús vagó de
-🚦	conducció intersecció semàfor senyal trànsit vertical
-😒	avorrida avorriment avorrit cara de desaprovació emprenyada emprenyat estrany estranya gelós gelosa infeliç negació amb el cap no és divertit que coi
-🔹	blau geometria petit rombe
-🪴	casa créixer decoració planta amb test
-🧰	caixa d’eines vermella eines mecànic
-🦃	au dia d’acció de gràcies engolir gall dindi indiot
-🍄	bolet verinós fong mario planta
-🟤	cercle circumferència geometria marró
-🫱	a la dreta agafar encaixada de mans encaixar mà cap
-🧟	esgarrifós halloween horror mort vivent por terror terrorífic walking dead zombi
-👨‍🎤	actor artista cantant home estrella del rock presentador
-🫩	cansament cara que fa ulleres esgotament son
-🤗	abraçada abraçant cara amb mans
-⏩	avançar botó d’avançar ràpidament doble dues fletxes fletxa
-🕜	1.30 13.30 dos quarts de dues hora rellotge una
-📈	a l’alça amunt i cap la dreta augment creixement dades gràfic d’augment tendència
-🦆	ànec animal au ocell
-🤼	combat enfrontament esport lluita grecoromana lliure lluitadores lluitadors lluitar persones lluitant que lluiten quadrilàter
-🎶	música nota notes musicals so
-🦁	alfa animal bram cara de lleó fort leo rugit safari zodíac
-🤏	dits mà que pessiga petit quantitat petita una mica
-🪄	bruixa bruixot màgia vareta màgica
-🆖	botó ng paraula quadre
-😙	amor cara que fa un petó amb els ulls alegres cita flirteig nit petons somriure t’estimo ull tancats
-🙍	afectada cara trista disgustada dona emmurriada emmurriament gest molesta persona arrufada
-🚂	ferrocarril locomotora motor tren trens vagó de cua vapor vehicle viatge
-👰	casament núvia amb vel persona
-🚭	fumar no prohibició prohibit
-😨	atemorida atemorit cara de por espantada espantat preocupada preocupat
-🎼	música nota partitura pentagrama
-🤦	cara exasperació frustració incredulitat mà a la persona amb vergonya
-📞	auricular de telèfon comunicació voip
-🚎	autobús bus tramvia tròlei troleibús
-🔢	1234 botó de números dígits entrada per introduir xifres
-🪣	cubell galleda
-😾	animal cara de gat enutjat enuig enfadat
-🥢	bastonet bastonets xinesos oriental xinès
-🏑	estic herba hoquei sobre joc pilota
-🎢	atraccions muntanya russa parc d’atraccions
-🐭	animal cara de ratolí
-😧	angoixa angoixada angoixat cara d’angoixa espantada espantat estressada estressat infeliç sorpresa
-🐷	animal cansalada cara de porc granja
-🫣	amagar-se cara tapada que espia amb un ull espiar fascinació mirada mirar por timidesa vergonya
-🍈	cantalup fruita meló planta
-🤛	cap a l’esquerra esquerre puny salutació
-🙋	dona que aixeca la mà gest ho sé jo aixecada noia persona amb contenta pregunta somriure
-🚲	anar amb bicicleta bici ciclisme de sala ciclista vehicle
-🍑	fruita planta préssec
-🌍	àfrica bola del món europa globus terraqüi amb i terra
-👬	agafar-se de la mà amic amics bessons cita els millors enamorats gai gèmini home homes que s’agafen lgbt lgbtq lgbtqia mans agafades nois parella queer
-🐗	animal porc senglar
-🤎	cor marró
-🚃	elèctric ferrocarril tramvia transport tren troleibús vagó de viatge
-🎤	cantar karaoke micròfon música so
-👿	cara enfadada amb banyes conte de fades diable dimoni dimoniet entremaliada entremaliat fantasia malvada malvat trapella
-📡	antena de satèl·lit ciència contacte extraterrestres plat
-🫨	cara que tremola caram pànic sorpresa terratrèmol tremolar tremolor vibració vibrar xoc
-🤜	cap a la dreta dret puny salutació
-🌰	castanya fruita seca planta tardor
-🐨	animal austràlia coala marsupial os
-📚	biblioteca coneixement educació escola estudi fantasia lectura llibre llibres novel·les
-🌿	fulla herba planta
-♍	horòscop verge virgo zodíac
-📂	arxiu arxius carpeta d’arxius oberta de fitxers fitxer
-🔠	abcd botó de lletres llatines en majúscules
-🔗	anella anelles baula cadena enllaç enllaçar
-🔱	àncora eina emblema marca de trident posidó vaixell
-🥒	cogombre cogombret hortalissa menjar
-⏪	botó de retrocedir ràpidament doble dues fletxes fletxa
-🥁	baquetes música tambor timbal
-📅	calendari data
-👨‍🦼	accessibilitat cadira de rodes home amb una motor elèctrica motoritzada
-🍚	arròs bullit menjar
-🐆	animal depredador gran felí lleopard pantera zoo
-☔	gota gotes meteorologia paraigua amb de pluja temps
-🍼	bebè bebès beguda beure biberó llet nadó nadons naixement nascuda nascut
-🎳	bitlles bola esport joc de ple
-🪭	aire calor dansa vano vent ventall ventar vergonya
-🍉	fruita meló d’aigua d’alger de moro planta síndria
-🎄	arbre de nadal celebració
-🔲	botó de quadrat negre geometria
-🧑‍🌾	agricultor granger jardiner llaurador pagès ramader rural
-🚩	bandera triangular banderí construcció golf pal
-🦓	ratlla zebra
-🍗	afamada afamat carn de pollastre cuixa gall d’indi
-🥮	festival pastís de lluna pastisset tardor yuèbǐng
-🏪	24 hores botiga a l’abast de conveniència edifici
-🍓	baia fruita maduixa planta
-🤚	alçada mà revers de la
-📩	avall comunicació correu electrònic enviar enviat fletxa sobre amb sortint
-📓	llibreta quadern
-👥	amic amics bustos persones silueta de siluetes tothom
-📊	barres dades gràfic de
-🗽	estàtua de la llibertat nova york ny
-🕒	15 15.00 3 3.00 en punt hora les tres rellotge
-🪋	apocalipsi bola de foc caure espai estrella gravetat roca
-👓	complements roba ull ulleres vestuari
-🚰	aigua aixeta got potable vas
-🎽	atletisme banda córrer samarreta de tirants per
-😴	badall badallar becaina bona nit cansada cansat cara de dormir son dormint el que sigui hora llit zz zzz
-🎦	càmera cinema film pel·lícula
-🥏	disc volador esport frisbee plat a gol ultimate
-🦡	animal teixó toixó
-🎨	art artista artístic artística creatiu creativa entreteniment museu paleta d’artista pintor pintora pintura
-🍖	carn amb os
-🔍	augment buscar ciència eina esquerra laboratori lent d’augment cap a l’esquerra lupa recerca
-🌹	bellesa elegant flor planta rosa d’amor sant valentí vermella
-👩‍🚀	astronauta coet dona espai
-🐚	animal caragol de mar cargol closca conquilla espiral platja
-🎰	apostar apostes atzar casino escurabutxaques joc màquina
-🕺	ball ballant ballem dansa disco elegant flamenc home que balla música ritme salsa talent tango
-🔡	abcd botó de lletres llatines en minúscules entrada
-👩‍🦯	accessibilitat cega dona amb un bastó per a invidents invident
-🕍	judaisme jueu jueva religió sinagoga temple
-🛁	bany banyera
-💘	adorables amor aventura cita cor amb fletxa cupido emoció sant valentí t’estimo
-🥍	esports estic gol lacrosse pilota
-🧑‍🔧	electricista lampista mecànic
-😍	amor amorós amorosa aventura cara somrient amb ulls en forma de cor cors als enamorada enamorat romàntic romàntica sentiments somriure t’estimo tendra tendre
-🆑	botó cl esborrar quadre
-🧃	beguda bric de suc dolç palla
-👒	accessori barret de dona barrets festa al jardí roba
-♌	horòscop lleó zodíac
-🌞	assolellat calor cara clar dia llum del sol amb temps
-🍆	albergínia hortalissa planta verdura
-😊	cara somrient amb els ulls alegres content contenta galtes vermelles rubor satisfet satisfeta somriure ull
-🫸	aturar bloqueja bloquejar dreta empènyer esperar mà que empeny cap a la prou rebutjar
-💲	bilió càrrec cobrar diners divisa dòlar efectiu gran mil milions miliard milió moneda pagar signe de
-🦍	animal goril·la simi
-🌈	arc de sant martí bisexual gai gènere no-binari lgbt lgbtia lgbtq natura orgull pluja queer temps transgènere transsexual
-🙂	cara que somriu una mica feliç somrient somriure tímid
-🧭	brúixola direcció magnètic magnètica navegació orientació
-👞	calçat compres home marró peu peus roba sabata d’home sabates
-🩳	banyador pantaló pantalons curts roba interior vestit de bany
-🧑‍🚀	astronauta coet
-🕚	11 11.00 23 en punt hora les onze rellotge
-😵	cansada cansat cara malalt malalta marejada marejat mort morta
-📿	collaret granadura oració religió rosari
-🤓	aplicada aplicat cara de setciències estudiar estudiós estudiosa intel·ligent rata biblioteca ulleres
-🪀	fluctuar io-io joguina
-🏫	edifici escola
-🍹	alcohol bar beguda begut club còctel copa festa mai tai tròpic tropical
-🕝	14.30 2.30 dos quarts de tres dues hora rellotge
-🕠	17.30 5.30 dos quarts de sis hora rellotge
-📟	buscapersones cercapersones comunicació
-🎵	música nota musical so
-👙	banyador biquini nedar piscina platja roba vestit de bany
-🩲	banyador eslip roba interior una peça vestit de bany
-🤑	boca cara de diners llengua pagat ulls
-🚛	articulat camió conduir cotxe moure semiremolc vehicle
-🥘	arròs cassola menjar paella poc fonda valenciana
-😘	adorables amor aventura amorosa bon dia bona nit cara que llança un petó cor et trobo a faltar flirteig muac petonejar-se petons i abraçades t’estimo
-🛺	bicitaxi amb motor rickshaw
-👱	cabells curts rossos cara home persona amb i els rossa ros
-🛂	control de passaports passaport
-🪓	clivellar cop de destral llenya tallar
-🫝	cogombre condiment envinagrat fermentat problema salmorra vinagre
-🔞	18 divuit menors d’edat ningú menor de anys no prohibició prohibit a restricció
-🤝	acord encaixada de mans salutació tracte
-📒	comptabilitat llibre de
-🚥	horitzontal intersecció semàfor senyal trànsit
-🔊	alt altaveu amb el volum fort música so
-🐴	animal cara de cavall cavalls domatge equí equina granja
-😕	arrufada cara de confusió confós confosa ho sento m’és igual ni idea no sé trist trista um
-🫑	capsicum hortalissa menjar pebrot verd
-🫄	embaràs embarassada embarassat menjar massa panxa persona prenyada prenyat
-🪐	planeta amb anell anells saturn saturní saturnià saturniana
-🏅	esport guanyador guanyadora medalla or premi
-🏯	castell edifici japonès
-🌊	aigua mar natura oceà ona onada surf surfista
-💿	cd disc dvd equip òptic ordinador pc
-🪦	cementiri làpida rip tomba
-⚾	beisbol esport pilota de
-👈	assenyalar dit índex que apunta cap a l’esquerra esquerra mà
-🦒	girafa taques
-🌗	espai lluna en l’últim quart minvant
-🚸	creuant nens que creuen trànsit vianant
-🤳	autofoto càmera foto mòbil selfie
-🏀	bàsquet cistella esport pilota de
-🚏	autobús bus parada d’autobús de
-🥷	assassí guerrer lluitador ninja ocult persona sigil·lós
-⚽	esport futbol pilota de
-🚖	aturar un taxi cotxes proper de cara groc que arriba
-👂	cos escoltar oïda orella orelles sentir so
-👝	accessori bossa de mà roba vestimenta
-📵	mòbil no prohibició prohibit l’ús de telèfons mòbils prohibits els telèfon
-🐳	aigua animal balena que treu cara oceà platja sortir a raig
-😯	atònit atònita cara de sorpresa déu meu èpic oh sorprès
-🍫	dolç halloween llaminer llaminera rajola de xocolata xocolatina
-🌋	erupció muntanya natura volcà
-🧝	el senyor dels anells elf encantament fantasia folklore màgic mitologia orelles de punta personatge fantàstic
-💛	amor cardíac cardíaca cor emoció groc t’estimo
-👨‍💻	codificador desenvolupador home inventor ordinador programador programari tecnòleg
-🐃	aigua animal animals búfal aquàtic zoo
-🧆	cigró croqueta falàfel mandonguilla pilota
-💎	aventura amorosa casament compromís diamant diners gemma joia
-🧑‍🚒	bomber bombera camió de bombers
-📷	autofoto càmera foto instagram instantània viatge vídeo
-⛪	benedicció beneir capella creu cristià edifici església religió
-🚵	anar amb bicicleta ciclisme de muntanya ciclista esport pedalejar persona
-🐟	animal peix peixos pesca sopar zodíac
-🤥	cara de mentider nas pinotxo
-😛	cara que fa llengotes dolç dolça excel·lent festa genial guai llengota llengua fora
-🦵	cama doblegada flexionada extremitat genoll peu puntada de
-🪒	afaitada afaitar-se afilada esmolada maquineta d’afaitar navalla
-💈	afaitada barber barberia pal de tallada cabells
-📹	càmera de vídeo videocàmera
-🛵	escúter moto motocicleta transport
-💸	ales banc bilió bitllet diners amb efectiu milió pagar volar
-🔦	eina elèctric elèctrica electricitat llanterna llum
-🧑‍🧑‍🧒‍🧒	adult família infant infants
-🚳	bici bicicletes prohibides bicis prohibició
-🪵	fusta llenya tronc
-😂	alegria cara amb llàgrimes d’alegria divertida divertit feliç molt de riure mort plorant
-🐦	animal au ocell ornitologia
-🔩	cargol i femella eina reforma de la llar
-🤠	barret cara amb de vaquer cowboy vaquera
-🔉	altaveu amb el volum mitjà so
-💇	bellesa cabells cara perruqueria persona a la que es talla els tallada de tallar tallat
-🧓	adult gènere neutre gran persona anciana
-👼	ales àngel angelet bebè conte de fades església fantasia
-🪠	desembossador embós lampista lavabo succió
-👨‍💼	arquitecte director gerent negoci oficina oficinista treballador d’oficina
-🔃	actualitzar dreta fletxa fletxes que giren cap a la verticals en sentit horari gir tornar carregar
-🦦	juganera llúdria llúdriga pescadora
-🗻	fuji mont muntanya natura
-🐖	animal animals cansalada granja gras grassa porc truja
-🧲	atracció ferradura forma d’u imant magnètic positiu negatiu
-🚻	lavabo lavabos servei tocador wc
-💤	adormida adormit bona nit cansada cansat còmic dormir son zz zzz
-🔌	connexió elèctric electricitat endoll
-🏺	àmfora aquari beguda cuina eina gerra zodíac
-📻	entreteniment ràdio
-🧑‍🦯	accessibilitat invident persona amb un bastó per a invidents
-🪗	acordió concertina instrument música
-🍱	bento caixa de menjar
-🔘	botó d’opció geometria opció
-🕙	10 10.00 22 22.00 deu en punt hora les rellotge
-👻	agitada agitat aparició buu cara de fantasma conte fades criatura esgarrifós fantasia halloween monstre ximple
-🧉	beguda beure mate
-🫀	anatomia batec cardiologia cor real òrgan pols vermell
-🦭	animal foca lleó marí oceà
-👨‍🔬	biòleg científic enginyer físic home matemàtic químic
-🐫	animal camell amb dues gepes bactrià gepa
-♉	bou brau horòscop taure toro zodíac
-👨‍🍳	cuiner home masculí xef
-🚢	mar passatger passatgers riu titànic vaixell vehicle viatge
-🥽	busseig natació protecció dels ulls ocular soldadura submarinisme ulleres de piscina
-🚟	ferrocarril de suspensió tramvia elevat vehicle
-🔶	geometria gran rombe taronja
-🪡	agulla de cosir brodat costura fil modista puntada sutura
-⛺	acampada campament càmping tenda de campanya
-🙁	cara una mica arrufada emmurriada emmurriat empipada empipat trist trista
-👾	àlien alienígena conte de fades extraterrestre fantasia invasors l’espai joc jocs jugador monstre ovni pixelat
-💷	banc bitllets de lliura diners divisa efectiu lliures milions moneda signe
-🏉	esport pilota de rugbi
-❓	interrogació puntuació signe d’interrogació vermell
-👩‍🎨	artista dona femení paleta pintora
-🐇	animal conill conillet mascota
-🌾	arròs espiga d’arròs gra grans planta
-🛷	lliscar neu trineu
-🌀	cicló mareig marejada marejat remolí temps tifó tornado
+🛟	boia cèrcol cercol flotador nedar rescat salvament salvavides seguretat
+😗	amor cara que fa un petó peto cita flirteig petonejar-se petons i abraçades abracades t’estimo
+🧑‍🚒	bomber bombera camió camio de bombers
+👩‍💻	codificadora desenvolupadora dona inventora ordinador programadora programari tecnòloga tecnologa
+🪐	planeta amb anell anells saturn saturní saturni saturnià saturnia saturniana
 🦴	esquelet gos os de la sort ossos
-👨	amic home masculí noi xicot
-💥	bomba bum col·lidir col·lisió còmic esclat explotar
-🗿	cara de pedra estàtua moai viatge
-⛵	iot mar vaixell vehicle vela veler
-🫵	apuntar assenyalar dit índex que assenyala l’espectador mà tocar tu
-🏰	castell construcció edifici europeu
-🐞	animal escarabat insecte jardí marieta natura
-🚆	arribada arribat ferrocarril tren vehicle via del xuc-xuc
-🐕‍🦺	accessibilitat assistència gos de servei
-🐮	animal cara de vaca granja llet muuu
-🏮	bar fanal de paper vermell fanalet japonès llum restaurant
-😥	alleujament cara de decepció complicada complicat decebuda decebut preocupada preocupat suor uf
-🧤	guants mà
-🐰	animal cara de conill conillet mascota
-🏨	edifici hotel
-🍕	afamada afamat formatge pepperoni pizza porció tall
-📗	biblioteca educació fantasia lectura llibre verd
-🎇	bengala bum celebració espurna foc focs artificials pirotècnia
-🪳	animal ballarola cuca molla panissera escarabat de cuina insecte panderola panerola plaga repugnant
-⚡	alta tensió elèctric elèctrica electricitat fulminar llamp llampec natura perill tro voltatge
-⏬	avall botó d’abaixar ràpidament d’anar doble dues fletxes fletxa
-🍻	alcohol bar beguda begudes brindar brindis amb gerra de cervesa salut
-🚺	dones lavabo servei wc
-👚	brusa camisa coll compres dona roba de senyora vestimenta
-🧳	bossa de viatge amb rodes equipatge fer la maleta viatjar
-♐	arquer horòscop sagitari zodíac
-🚤	barca estiu llac llanxa luxe milionari milionària ràpida viatge
-📝	comunicació llapis mitjà nota notes
-🪨	còdol dur dura pedra penyal pesada pesat roc roca sòlid
-🍅	hortalissa planta tomàquet tomata verdura
-📁	arxius carpeta d’arxius de fitxers
-🎁	aniversari caixa celebració embolicat llaç nadal regal sorpresa
-🧑	adult gènere neutre persona
-🚒	bombers camió de cotxe motor
-👷	casc de protecció seguretat construcció feina home obra paleta persona treballador la
-🔤	abc alfabet botó de lletres llatines entrada
-🚞	ferrocarril de muntanya vagó viatge
-🌐	bola del món globus terraqüi amb meridians terra xarxa d’abast mundial
-😸	animal cara gat somrient amb els ulls alegres somriure obert
-🫡	bona sort cara que saluda exèrcit ordre respecte salutació sí senyor senyora val
-🟰	és igual a igualtat matemàtiques resposta signe d’igual gruixut
-🚬	cigarreta fumar
-🆒	botó cool paraula quadre
-🍺	alcohol alemanya bar cervesa d’estiu gerra de oktoberfest pinta tanc
-🪏	cavar forat pala
-🐂	animal animals bou brau granja taure zodíac
-🤙	mà que representa una trucada trucar
-♓	horòscop peix peixos zodíac
-👵	anciana àvia cabell gris dona gran iaia monyo sàvia vella
-🐧	antàrtida au ornitologia pingüí
-❎	× botó de creu marca multiplicació multiplicar quadrat x
-🟫	marró quadrat
-🥩	bistec carn vermella tall de porc xai
-🦾	accessibilitat braç mecànic pròtesi de
-🎣	canya de pescar entreteniment esport peix
-😌	alleugerida alleugerit alleujada alleujament alleujat calma cara d’alleujament zen
-🫷	aturar bloquejar empènyer esperar esquerra mà que empeny cap a l’esquerra prou rebutjar xoca xocar
-🐝	abella abellot insecte mel natura primavera
-🌻	aire lliure flor gira-sol planta sol
-✨	* brillar centellejar espurna espurnes estrella màgia
-🚽	bany inodor lavabo tassa vàter
-🥑	alvocat fruita menjar
-👛	accessori bossa de mà compres luxe moneda moneder roba vestimenta
-🌮	mexicà taco
-📋	clip llista de tasques pendents notes petjapapers porta-retalls portanotes
-🦊	animal cara guineu
-⚫	cercle circumferència negra geometria negre
-♒	aigua aquari horòscop portador zodíac
-🐈‍⬛	animal felí gat mala sort marrameu negre
-🩵	amor blau cel bonic cian cor turquesa
-📤	bústia carta correu electrònic enviats safata de sortida
-🐐	animal animals cabra capricorn granja llet zodíac
-🧂	condiment disgustada disgustat fada fat gust sabor sal salat saler
-🎯	dard dards diana entreteniment joc punteria
-🐻	animal cara d’os esbramec mel os
-🔨	eina martell reforma de la llar reparacions
-🚣	aigua barca de rems bot canoa esport llac navegar persona que rema en una remant pesca remar riu
-👕	camiseta cap de setmana coll compres informal roba samarreta verd vestit
-🐼	animal bambú cara de panda
-👃	cos nas nassos olor olors pudor tafaner tafanera
-📭	abaixada bandera bústia oberta amb la correu
-🚁	helicòpter vehicle viatge
-🛻	camioneta descoberta pickup transport
-🕤	21.30 9.30 dos quarts de deu hora rellotge
-🫅	monarca noble noblesa persona amb corona rei reial reialesa reina
-🧑‍🦽	accessibilitat cadira de rodes manual persona amb una
-🌱	brot jove nou plançó planta
-😪	cansada cansat cara de son dormint dormir plorant trist trista
-🧒	criatura gènere neutre infant jove nen
-🦤	animal au dodo extinció gran maurici ornitologia
-👢	bota de dona botina amb taló calçat compres roba sabata sabates vestimenta
-📬	bandera aixecada bústia oberta amb la plena correu
-🚼	bebè canviador per a nadons canviar nadó símbol de
-🚑	ambulància emergència urgència vehicle
-😞	abatuda abatut cara de decepció culpa decebuda decebut fracàs infeliç perdedor perdedora terrible trist trista
-🍸	alcohol bar beguda begudes beure club còctel copa de martini
-🥵	calor cara de vermella cop febre febril fogots insolació suada suat suor
-🫔	enrotllat menjar mexicà pamonha tamal
-👹	cara conte de fades criatura dimoni esgarrifós fantasia japonès màscara monstre ogre
-😬	cara que fa una ganyota amb les dents dentista estrany res somrient
-🤶	àvia còfia mare nadal noel senyora
-🎓	acadèmic acadèmica barret de graduació birret celebració educació
-👩‍🎓	dona estudiant femení graduació graduada noia
-🛖	cabana casa rodona iurta refugi
-🎬	acció cinema claqueta pel·lícula
-🤘	banyes dits en forma de genial rock signe les
-🕣	20.30 8.30 dos quarts de nou hora rellotge
-🤫	callar cara que demana silenci psit pst
-🔭	augment ciència contacte eina extraterrestre instrument telescopi
-🌸	cirerer flor de florir planta primavera
-🥻	peça de roba sari vestit
-🎷	instrument música saxo saxofon saxòfon
-😺	animal boca cara gat somrient amb la oberta somriure
-😫	becaina cansada cansament cansat cara de sentiments trist trista
-😀	alegre animada animat cara molt somrient dents feliç rialla somriure ulls
-💭	adonar-se bafarada de pensar còmic decisions dibuix animat idea il·lusió invenció invent pensament pensaments pensant preguntar-se somni somnis
-🦼	accessibilitat cadira de rodes elèctrica motoritzada
-👩‍💼	arquitecta directora dona gerent negoci oficina oficinista treballadora d’oficina
-♿	accés accessible cadira discapacitat rodes símbol
-🥄	cobert cullera menjar
-🧽	absorbent absorbir amarar esponja neteja netejar porosa
-💵	banc bitllet de dòlar bitllets divisa moneda signe
-🐹	animal cara de hàmster mascota
-💾	desar disc disquet equip ordinador pc
-🌔	creixent espai gibosa lluna
-🥫	aliments enllaunats conserva llauna de menjar
-💴	banc bitllets de ien diners divisa moneda signe
-🦧	animal mico mona orangutan simi
-🍶	ampolla bar beguda got restaurant sake
-⚪	blanc cercle circumferència blanca geometria
-🆙	botó amb la paraula up
-😎	cara somrient amb ulleres de sol estil fatxenda genial impressionant platja relaxada relaxat sí somriure victòria
-📐	angle cartabó esquadra matemàtiques regle de càlcul triangle
-🫧	bombolla bombolles flotant net perla sabó subaquàtic submarí
-💕	amor aniversari cita cor dos cors emoció petons t’estimo
-😗	amor cara que fa un petó cita flirteig petonejar-se petons i abraçades t’estimo
-🫤	cara amb la boca en diagonal d’escepticisme d’inseguretat de decepció confós confusió decebut dubte dubtós escèptic frustració frustrat insegur m’és igual meh
-💬	bafarada de parlar còmic conversa diàleg discurs escrivint missatge parla sms text
-🛘	allau desastre devessall muntanya perill roques terratrèmol
-🚚	camió de repartiment conduir cotxe vehicle
-🔚	end fletxa amb la paraula
-💺	cadira seient
-🎉	celebració confeti emocionada emocionat festa genial hurra tatxam tub de visca
-🤲	desig duà mans en forma còncava juntes amb els palmells cap amunt pregar pregària
-😔	abatuda avorrida avorrit cara decebuda decebut desanimada desanimat pensatiu pensativa perduda perdut que malament trist trista
-👋	adeu ei ens veiem fins aviat després he de marxar hola mà que saluda me’n vaig hi ets saludant saludar salutació
-🎊	bola de confeti celebració celebrar festa
-💼	maletí oficina
-🥬	amanida bleda xinesa col enciam fulla verda hamburgueses kale
-🈸	aplicar botó japonès aplicació ideograma kanji
-🚱	aigua no potable prohibit
-🐄	animal animals granja llet muuu vaca
-⬜	blanc geometria gran quadrat
-😝	cara amb els ulls tancats i la llengua fora que fa llengotes déu meu ecs el sigui fastigós horrible llengota només es viu una vegada sabor ull
-😓	cara amb suor freda espantada espantat mal de cap nerviós nerviosa sentiments trist trista uf
-🩼	ajuda a la mobilitat bastó crossa discapacitat lesió
-🙀	animal cara de gat espantat oh por sorprès sorpresa
-🧯	apagar extingir extintor foc
-🦖	dinosaure tiranosaure tyrannosaurus rex
-🧑‍🧒	adult família infant
-🐒	animal mico mona
-🥴	beguda begut boca ondulada cara de mareig embriac embriaga intoxicada intoxicat marejada marejat ulls desiguals
-🧅	aromatitzant ceba condiment
-🍙	arròs bola d’arròs japonès menjar onigiri
-👨‍🚒	bomber camió de bombers home masculí
-🪈	flauta dolça flautista instrument de vent fusta música orquestra
-🏏	bat bola criquet joc partit
-👴	ancià avi calb gran home iaio perdent cabell savi vell
-🦝	animal astut curiós os rentador
-🎲	dau daus entreteniment joc de
-🚡	aeri cabina telecabina telefèric tramvia vehicle
-😑	bàsic bàsica cara de pòquer déu meu dolent dolenta gelós gelosa incòmoda incòmode inexpressió inexpressiu inexpressiva infeliç mort morta no oh què coi
-🥶	blau blava cara de fred caramell caramells congelació dents fredes gel gelada gelat glaçada glaçat
-🚿	aigua dutxa
-🖕	dit cor del mig mitger fer la figa mà
-🫆	empremta dactilar digital forense identitat seguretat
+💽	disc de pc equip minidisc òptic optic
+🕌	islam mesquita musulmà musulma musulmana religió religio
 🧑‍🍳	cuiner xef
-🫠	acalorada acalorat calor cara que es desfà desaparèixer desfer-se dissoldre’s fondre’s haha líquid sarcasme vergonya
-🐑	animal be bel femella granja llana ovella pècora xai
-🕐	1 1.00 13 13.00 en punt hora la una rellotge
-🔑	bloqueig bloquejar clau important claus contrasenya desbloqueig desbloquejar
-🚕	conduir taxi groc transport vehicle
-🎹	instrument música piano teclat musical
-🦮	accessibilitat cec cega gos guia pigall invident
-📃	cargolada document pàgina que es cargola
-👨‍🔧	comerciant electricista home lampista masculí mecànic operari
-😄	boca oberta cara amb rialla i els ulls somrients feliç riure somriure ull
-🥲	agraïment alleujament cara somrient amb una llàgrima emoció orgull smiley somriure
-🫥	amagar-se cara amb línia de punts depressió desaparèixer introversió invisible m’és igual
-🥤	aigua beguda canya got amb refresc suc
-🥃	beguda copeta got de licor whisky escocès
-🗼	tòquio torre de
-🙄	cara amb els ulls en blanc el que sigui
-🦥	gandul lent mandrós peresós
-🧞	desitjos fantasia fregar la llàntia geni blau de personatge fantàstic
-🤪	boig boja cara de bogeria ull gran petit ulls
-👩‍🍳	cuinera dona femení xef
-🫘	fesols llegum menjar monget mongeta petit ronyó
-🥇	medalla d’or or posició primer
-🐘	animal elefant
-🔻	avall geometria triangle vermell cap
-🎡	fira parc d’atraccions roda de
-🕢	19.30 7.30 dos quarts de vuit hora rellotge
-💪	aixecament de peses bíceps tensat braç còmic cos culturista flexió forçuda forçut fort forta múscul musculada musculat
-🎒	bossa educació escola motxilla d’escola
-😢	cara que plora infeliç llàgrimes plorant plorar sentiments terrible trist trista trobar a faltar
-👨‍🦯	accessibilitat cec home amb un bastó per a cecs invidents invident
-🫪	ansietat inflamat pànic sorprès vulnerable xoc
-🔕	campana ratllada silenciada no prohibit silenci so
-📢	alt altaveu de megafonia comunicació so
-🦟	febre fiblada insecte malaltia malària mosquit picada picar virus
-🎅	celebració conte de fades fantasia nadal noel pare santa claus
-❕	blanc exclamació perfilat puntuació signe d’exclamació
-🤽	aigua esport aquàtic esportista persona jugant a waterpolo que juga waterpolista
-🗾	japó mapa del
-🔆	apujar augmentar botó d’augmentar la brillantor brillant clar llum
-🤣	cara que es peta de riure divertit ha hilarant llàgrima molt mort partir-se petar-se pixar-se plorar
-🦅	àguila àliga animal au ocell
-🧶	bola cabdell ganxet llana mitja
-🍇	dionís dionisi fruita planta raïm
-🌯	burrito enrotllat mexicà rotlle tortilla
-🌎	amèrica bola del món globus terraqüi amb terra
-🀄	drac joc mahjong vermell
-🦣	animal extinció gran llanut mamut ullal
-🥝	fruita kiwi menjar
-😻	amor cara cor gat somrient amb cors als ulls somriure
-🎸	corda guitarra instrument música rock stratocaster
-⏫	amunt botó d’anar ràpidament d’apujar doble dues fletxes fletxa
-🏩	cites edifici hotel de
-🥓	bacó cansalada carn menjar porc viada
-➗	÷ divisió matemàtiques signe de dividir gruixut
-🐦‍🔥	au cendres fantasia fènix flama foc mitologia ocell reencarnació reencarnar-se renaixement renéixer resiliència ressorgir transformació transformar-se
-🔁	botó de repetició fletxa fletxes en sentit horari
-👪	criatura família fill filla mare nen nena pare
-🤍	blanc cor
-🪃	aborigen arma austràlia bumerang rebot repercussió
-🔧	clau eina fixa reforma de la llar
-🐶	animal cadell cadells cara de gos mascota
-🦌	animal cérvol
-🎋	arbre dels desitjos celebració japonès pancarta tanabata
-🕌	islam mesquita musulmà musulmana religió
-📔	coberta decorativa educació escola escriptura llibre llibreta quadern amb
-🕗	20 20.00 8 en punt hora les vuit rellotge
-🐲	animal cara de drac conte fades
-👊	a prop artells col·lega cop de puny copejar correcte d’acord mà totalment
-🫙	buit condiment contenidor emmagatzemar pot res salsa vidre
-🚇	metro transport túnel vehicle viatge
-🧏	accessibilitat oïda persona sorda sentir sord
-🤐	boca tancada callada callat cara amb cremallera a la mantenir secret silenci
-👩	adulta castanya dona femení senyora tall de cabells
-🍡	broqueta dolça japonesa dango dolç japonès postres
-📧	carta correu electrònic mail
-🛜	banda ampla connectivitat internet ordinador sense fil telèfon intel·ligent wi-fi xarxa
-🐊	animal animals cocodril zoo
-📌	agulla collage xinxeta
-🕕	18 18.00 6 6.00 en punt les sis rellotge
-⛲	font
-🔫	arma de foc eina pistola d’aigua revòlver
-🍐	fruita pera planta
-⚓	àncora eina vaixell
-🪆	matrioixca nina nines russes russa
-📦	caixa comunicació enviament lliurament paquet repartiment
-🧧	bona sort diners hóngbāo lai see regal sobre vermell
-🪽	ala angelical aviació mitologia ocell volar
-🎪	carpa de circ
-😏	broma cap cara que somriu amb superioritat celles fatxenda flirteig mirada impúdica murri múrria riure per sota el nas somriure astut de manera afectada
-🛄	arribada avió bosses equipatge equipatges facturat maleta recollida d’equipatges trajecte viatge viatjar
-♑	cabra capricorn horòscop zodíac
-🧑‍💼	arquitecte negoci oficina treballador d’oficina
-🐁	animal animals ratolí
-🐌	animal caragol cargol jardí llimac natura
-👩‍🌾	agricultora dona femení grangera jardinera llauradora pagesa ramadera rural
-🕑	14 14.00 2 2.00 dues en punt hora les rellotge
-🎀	celebració cinta llaç
-📪	abaixada bandera bústia tancada amb la correu
-🎮	comandament consola entreteniment joc videoconsola
-🔴	cercle circumferència vermella geometria vermell
-🦞	animal bisque llagosta vermella marisc pinces sopa de
-🛐	culte lloc de oració religió
-🛹	monopatí patí patinador patinadora rodes
-👩‍🏭	dona fàbrica industrial muntatge operària treballadora
-🙅	barrar el pas braços dona fent gest de negació mà no persona prohibit
-🏧	atm automàtic banc caixer diners efectiu signe
-🧢	beisbol gorra amb la visera corbada de
-🫎	animal ant banyes mamífer uapití
-💁	ajuda és igual flexió informació mà moviment dels cabells persona amb la inclinada cap amunt sarcasme sarcàstica xafarderia
-🈶	de pagament botó japonès ideograma kanji
-🌺	flor hibisc planta
-🤬	cara amb símbols a la boca censurar emprenyada emprenyat furiós furiosa insults maledicció paraulotes renecs
-🤢	cara de nàusees mareig marejada marejat nàusea repugnant vomitar
-💃	ballant ballarina dansa dona que balla elegant festiva flamenc flamenca ritme salsa talent tango
-🦋	animal bonica insecte papallona
-🐥	au bebè cria nadó ornitologia petit pollet de cara
-🚫	accés entrada fumar no passeu prohibició prohibit
-💞	adorable aniversari cor cors que giren emoció gir girant
-🥖	baguet barra menjar pa
-🉑	acceptable botó en japonès ideograma kanji
-🚓	cotxe de policia policies
-🧑‍🔬	biòleg científic enginyer físic químic
-🔒	cadenat privat tancar tancat
-🐦‍⬛	animal au corb còrvids grall merla negre ocell ornitologia
-😐	bé cara neutra seriosa en blanc gelós gelosa inexpressiu inexpressiva infeliç neutral no és divertit per riure impressiona
-🪘	conga instrument percussió ritme timbal
-🎩	barret de copa formal luxe màgia roba sofisticat
-👩‍🎤	actriu artista cantant dona estrella del rock presentadora
-🦄	cara d’unicorn unicorn
-🐠	animal peix peixos tropical
-🥥	coco cocoter palmera pinya colada
-🧣	abrigar-se bufanda coll fred
-🎿	esport esquiar esquís neu
-🌆	ciutat crepuscle edifici ocàs paisatge urbà al vespre posta de sol
-🧐	amb classe cara monocle estirada estirat ric rica
-😭	bramar cara que plora desconsoladament infeliç llàgrima llàgrimes de desconsol plorant plorar sanglot
-😰	boca oberta cara amb la i suor freda espantada espantat nerviós nerviosa nervis
-💣	bomba bum calent calenta còmic explosió perillós perillosa
-🐪	animal desert dromedari gepa una
-👨‍🎓	estudiant graduació graduat home masculí noi
-👇	avall dit índex que apunta cap
-🥉	bronze medalla de posició tercer
-🚅	alta velocitat bala ferrocarril shinkansen tren via del viatge
-🥳	aniversari barret cara festiva celebració celebrar emocionada emocionat espanta-sogres festa hurra per molts anys
-👳	home amb turbant persona
-🎧	auricular auriculars so
-📨	carta correu electrònic entrada enviant enviat rebre recepció sobre que arriba
-⭐	astronomia estel estels estrella mitjana blanca estrelles
-🫃	embaràs embarassat home menjar massa panxa prenyat
-🌌	espai temps via làctia
-🧖	bany de vapor persona a la sauna en un una relaxació spa
-🚠	muntanya telecabina telecadira telefèric de
-🪙	diners dòlar euro metall moneda or plata ric tresor
-🌵	cactus desert natura planta sequera
-😲	cara déu meu escandalitzada escandalitzat estupefacta estupefacte i ara que coi totalment
-🙃	cara de cap per avall ha revés somriure
-🚶	caminada caminar home que camina noi passeig passejada passejar xino-xano persona caminant vianant
-👤	bust misteriós misteriosa ombra silueta d’un
-🛶	barca caiac canoa kayak nau
-🌓	creixent espai lluna en el primer quart
-🌒	creixent espai lluna en quart somnis
-👽	alienígena cara conte de fades criatura espai extraterrestre fantasia monstre ovni
-🕡	18.30 6.30 dos quarts de set hora rellotge
-🐡	animal globus peix
-🛃	duana equipatge
-🥛	beguda beure got de llet
-🛟	boia cèrcol flotador nedar rescat salvament salvavides seguretat
-🫚	arrel de gingebre beguda espècia gínger herba natural salut
-🍋	àcid àcida cítric fruita llimona planta
-🪶	au lleuger ploma plomatge volar
-🫹	això allà esquerra neutral punt puny
-👲	barret gorra guapimao home amb xinès
-🤰	dona embaràs embarassada prenyada
-🧹	bruixa escombra escombrar neteja netejar
-💑	amor aniversari aventura amorosa cor parella amb un petó romàntic
-⛅	ennuvolat núvol sol darrere un temps
-🩶	amor bonic cor gris plata platejat
-🧨	dinamita espurna explosiu foc focs d’artifici llum petard
-🏊	crol esport natació nedador nedar persona nedant que neda triatló
-🕟	16.30 4.30 dos quarts de cinc hora rellotge
-🩰	ballet dansa sabatilles de
-📀	blu-ray cd disc dvd equip òptic ordinador pc
-🏃	corredor corredora corrent cursa esport marató persona que corre pressa ràpid ràpida velocitat
-🧜	cant de sirena conte fades criatura del mar fantasia folklore mitologia persona personatge fantàstic trident tritó
-🔽	abaixar avall botó d’anar fletxa vermell
-💻	equip oficina ordinador portàtil pc personal
-🧋	bombolla llet menjar perla taiwan te amb bombolles
-🫏	animal ase mamífer mula ruc somer tossut
-🪟	aire fresc finestra marc obertura transparent vista
-🐢	animal tortuga aquàtica tortugues
-😤	cara que treu fum del nas enfadada enfadat enrabiada enrabiat fúria furiós furiosa infeliç ira sentiments
-👨‍🚀	astronauta coet espai home
-👩‍💻	codificadora desenvolupadora dona inventora ordinador programadora programari tecnòloga
-🦠	ameba bacteri ciència microbi virus
-🥺	cara de súplica compassió per què no pietat si us plau sispli suplicar trist trista ulls cadell grans
-🤮	cara que vomita fastigós marejada marejat repugnant vòmit vomitar
-❗	exclamació puntuació signe d’exclamació vermell
-🪼	animal aquari coïssor cremada dolor invertebrat marí medusa oceà picada plàncton tentacles
-🎺	instrument música trompeta vent
-🟥	quadrat roig targeta vermella vermell
-😶	callada callat cara sense boca en blanc inexpressiu inexpressiva secret paraules silenci silenciós silenciosa
-🧬	adn biòleg biòloga evolució gen genètica vida
-😵‍💫	cara amb ulls d’espiral confós confosa déu meu espiral hipnosi mareig marejada marejat ostres problema vaja
-📸	càmera amb flaix vídeo
-👩‍🔧	comerciant dona electricista femení lampista mecànica operària
-💧	aigua còmic fred gota llàgrima natura suor temps trist trista
-🪂	ala delta fer paracaigudisme paracaigudes paracaigudista parapent
-🎃	carabassa de halloween carbassa celebració llanterna
+🥣	arròs arros congee bol amb cullera cereals esmorzar farina de civada farinetes
+👩‍🍳	cuinera dona femení femeni xef
+🚝	monocarril monorail vehicle
+🔗	anella anelles baula cadena enllaç enllac enllaçar enllacar
+🔶	geometria gran rombe taronja
+♏	escorpí escorpi escorpió escorpio horòscop horoscop zodíac zodiac
+🥘	arròs arros cassola menjar paella poc fonda valenciana
+👏	aplaudiment aplaudint aprovació aprovacio ben fet bona feina enhorabona entusiasme fantàstic fantastic genial mans que aplaudeixen picar de visca
+🥒	cogombre cogombret hortalissa menjar
+🎍	bambú bambu celebració celebracio decoració decoracio de pi japonès japones
+🎩	barret de copa formal luxe màgia magia roba sofisticat
+📹	càmera camera de vídeo video videocàmera videocamera
 🫟	esquitx holi pintura taca vessament
-💖	bona nit cor espurnejant emocionada emocionat espurna espurneig petons i abraçades t’estimo
-💜	amor cor lila el millor emoció la t’estimo
-🚀	coet coets espacial espai llançament llançar vehicle viatge
-🎑	celebració cerimònia de la lluna
-🍦	dolç gelat de màquina menjar postres restaurant
-🥀	flor marcida mústia pansida rosa
-😣	cara de perseverança centrar-se concentració concentrar-se mal cap perseverar
-📰	comunicació diari notícies
-🥊	boxa esport guant de
-🧑‍🏫	instructor mestre professor
-🔺	amunt geometria triangle vermell cap
-📺	televisió televisor tv vídeo
-🦬	animal bisó europeu búfal ramat
-👸	conte de fades corona fantasia princesa reial reialesa reina
-😋	afamada afamat assaborir cara d’assaborir un menjar deliciós que assaboreix deliciosa gustós gustosa llengua llépol nyam somrient somriure
-👗	compres elegant roba vestida vestit
-🦎	animal llangardaix rèptil
-🫳	abaixa agafar deixar anar descarta mà amb el palmell cap avall no rebutja recollir
-🥎	esports guant mà baixa pilota softbol
-💉	agulla doctor doctora injecció contra la grip instrument mèdic malalt malalta medicina metge vacuna vacunació xeringa
-🪧	cartell manifestació pancarta placa protesta senyal targeta
-🌃	estel estrella estrelles nit estelada estrellada
-📕	educació llibre tancat
-😇	angelet aurèola bíblia cara somrient amb conte de fades fantasia halo innocent pacífic pacífica sant santa
-🍃	fulla que vola amb el vent sortir volant voletejar
-🫒	menjar oliva oliver olivera
-🔜	aviat de camí fletxa amb la paraula soon torno
-🧑‍🍼	alimentar alletar bebè biberó dona home persona que alleta un
-🚍	autobús de cara que arriba bus proper
-🧄	all aromatitzant cabeça d’alls condiment
-👯	amigues ballarines bessones conillet conilletes dansaires dobles dones idèntiques dues noies festa germanes orelles de conill orelletes parella persones que ballen disfressades
-🪤	atreure formatge parany rata ratera ratolí trampa
-🥸	bigoti cara disfressada celles disfressa incògnit mostatxo nas persona ulleres
-🥅	esport gol porteria xarxa
-🍪	dolç galeta de xocolata postres
-🔎	augment buscar ciència contacte dreta eina laboratori lent d’augment cap a la lupa
-🩴	xancleta de dit platja
-💢	còmic enfadada enfadat enuig furiós furiosa malhumorada malhumorat símbol d’enuig d’ira
-🥙	durum falàfel farcit kebab menjar pa
-🐈	animal animals gat gatet gats mascota
-📥	bústia carta correu electrònic entrada rebre safata d’entrada a zero
-🚮	brossa escombraries llençar paperera senyal signe
-🟨	groc quadrat targeta groga
-🥼	bata blanca de laboratori científic doctor dr experiment roba
-🧱	fang maó morter mur paret totxana totxanes totxo totxos
-🧈	mantega producte lacti
-💓	amor batec bategant càrdio cor que batega rosa emoció t’estimo vibrant
-🎏	banderins de carpes carpa celebració
-♈	àries be horòscop marrà zodíac
-🛌	becaina bona nit cansada cansat dormir hotel llit persona al zz zzz
-🦇	animal muricec ratapenada ratapinyada ratpenat vampir voliac
-🚐	autobús bus conduir furgoneta microbús minibús vehicle
-🐬	aleta animal dofí oceà platja
-🐅	animal animals depredador gran felí tigre zoo
-🌉	nit pont de
-🤌	dits junts gest de la mà interrogació italià paciència què dius relaxació sarcàstic
-🛀	bany banyera persona a la
-👶	bebè bebès embarassada jove nadó nounat
-🍁	auró caient fulla d’auró
-🚜	agricultura tractor vehicle
-💠	flor geometria interior pètals rombe amb punt
-😚	cara que fa un petó amb els ulls tancats cita flirteig petonejar-se petons rubor t’estimo
-👮	agent de policia detenir gorra home persona poli seguretat
-🍥	menjar pastís de peix amb remolí restaurant
-🧌	conte fades fantasia monstre trol
-👠	calçat compres dona moda sabata de taló sabates d’agulla talons alts vestit
-🧑‍🎄	festes nadal noel persona santa claus
-👩‍🏫	dona femení instructora mestra professora
-🌴	arbre palma palmera planta tropical
-🏭	edifici fàbrica
-🔷	blau geometria gran rombe
-💡	bombeta còmic electricitat idea llum
-🪾	caiguda de la fulla caduca hivern sequera
-🔙	back fletxa amb la paraula
-🫲	a l’esquerra agafar encaixada de mans encaixar esquerra mà cap
-💒	amor capella casament noces
-🆔	botó id identificació identitat símbol d’identificació
-🧑‍🩰	ballarí ballet
-🥪	entrepà pa
-⌛	rellotge d’arena de sorra temporitzador
-🔀	aleatòria botó de reproducció creuada fletxa
-😦	agafar per sorpresa apa arrufada boca cara emmurriada amb la oberta esgarrifada esgarrifat espantada espantat què
-🍄‍🟫	aliment bolet marró fong menjar natura vegetal vegetarià xampinyó
-🦫	animal castor dents presa
-🥚	menjar ou
-🛑	detenció estop octogonal senyal d’estop de obligatòria stop
-🎫	admissió entrada resguard tiquet
-👺	cara conte de fades criatura enfadat fantasia follet japonès malvat màscara monstre
-🤷	arronsar desconeixement dubte espatlles ignorància indiferència ni idea no ho sé persona arronsant les dubtant que arronsa dubta
-🦏	animal rinoceront
-🍿	blat de moro crispetes pel·lícula
-☕	beguda cafè cafeïna calenta fumejant matí te xocolata
-📴	apagat desactivat desconnectat mòbil telèfon
-👘	còmoda còmode japonès quimono roba vestit
-🚈	arribada arribat ferrocarril lleuger metro monorail tren vehicle
-🧷	imperdible punk rock
-🍔	afamada afamat hamburguesa menjar ràpid
-🔸	geometria petit rombe taronja
-🎎	celebració festival nines japoneses
-🧘	amb les cames creuades ioga iogui lotus meditació pau persona en la posició de meditant relax zen
-🥾	a l’aire lliure acampada bota de muntanya càmping excursionisme sabata marró senderisme trekking tresc viatjar amb motxilla
-🦙	alpaca animal guanac llama llana vicunya
-🆚	botó vs contra versus
-🧦	mitges mitja mitjó mitjons
-🛕	hindú hinduisme temple
-💝	abraçades i petons aniversari cor amb un llaç emoció sant valentí t’estimo
-🔂	botó de repetició única fletxa fletxes en sentit horari una vegada
-🌷	cultiu flor floració planta tulipa
-🧑‍🧑‍🧒	adult família infant
-🥰	amor aventura cara somrient amb 3 cors cor enamorada enamorament enamorat estimar moltíssim somriure t’estimo
-💍	anell brillant casada casament casat compromís diamant promès promesa
-🕖	19 19.00 7 7.00 en punt hora les set rellotge
-🚷	no prohibició prohibit el pas als vianants
-🐾	animal petjades d’animal potes
-👨‍🎨	artista home masculí paleta pintor
+🫡	bona sort cara que saluda exèrcit exercit ordre respecte salutació salutacio sí si senyor senyora val
+🔕	campana ratllada silenciada no prohibit silenci so
+🤮	cara que vomita fastigós fastigos marejada marejat repugnant vòmit vomit vomitar
+🥎	esports guant mà ma baixa pilota softbol
+🆑	botó boto cl esborrar quadre
+➿	bucle doble enrotllat llaç llac
+🧵	bobina cordill cosir enfilar fil rodet
+🦭	animal foca lleó lleo marí mari oceà ocea
+📌	agulla collage xinxeta
+🧭	brúixola bruixola direcció direccio magnètic magnetic magnètica magnetica navegació navegacio orientació orientacio
+💘	adorables amor aventura cita cor amb fletxa cupido emoció emocio sant valentí valenti t’estimo
+🏇	cavall de cursa cavalls curses equitació equitacio genet joquei triple corona
+😶	callada callat cara sense boca en blanc inexpressiu inexpressiva secret paraules silenci silenciós silencios silenciosa
+🍦	dolç dolc gelat de màquina maquina menjar postres restaurant
+😘	adorables amor aventura amorosa bon dia bona nit cara que llança llanca un petó peto cor et trobo a faltar flirteig muac petonejar-se petons i abraçades abracades t’estimo
+🦓	ratlla zebra
+🥋	arts marcials judo karate quimono taekwondo uniforme
+😄	boca oberta cara amb rialla i els ulls somrients feliç felic riure somriure ull
+🔝	fletxa amb la paraula top
+🧋	bombolla llet menjar perla taiwan te amb bombolles
+🧸	joc joguina os de peluix pelfa
+📪	abaixada bandera bústia bustia tancada amb la correu
+🛗	accessibilitat ascensor muntacàrregues muntacarregues
+🕦	11.30 23.30 dos quarts de dotze hora rellotge
+🚛	articulat camió camio conduir cotxe moure semiremolc vehicle
+😔	abatuda avorrida avorrit cara decebuda decebut desanimada desanimat pensatiu pensativa perduda perdut que malament trist trista
+👩‍🎨	artista dona femení femeni paleta pintora
+🧑‍🎓	estudiant graduat
+🐫	animal camell amb dues gepes bactrià bactria gepa
+🥰	amor aventura cara somrient amb 3 cors cor enamorada enamorament enamorat estimar moltíssim moltissim somriure t’estimo
+🌀	cicló ciclo mareig marejada marejat remolí remoli temps tifó tifo tornado
+🚽	bany inodor lavabo tassa vàter vater
+👩‍🌾	agricultora dona femení femeni grangera jardinera llauradora pagesa ramadera rural
+🦹	criminal dolent malvat persona dolenta malvada superdolent superpoder superpoders
+🐣	animal au cria desclosa eclosió eclosio ou pollet que surt de l’ou sortida
+📁	arxius carpeta d’arxius de fitxers
+🦍	animal goril·la simi
+🎆	bum celebració celebracio entreteniment focs artificials d’artifici només nomes es viu una vegada
+👋	adeu ei ens veiem fins aviat després despres he de marxar hola mà ma que saluda me’n vaig hi ets saludant saludar salutació salutacio
+🏸	bàdminton badminton joc partit raqueta volant
+❌	× cancel·lar creu marca de multiplicació multiplicacio multiplicar x
+💕	amor aniversari cita cor dos cors emoció emocio petons t’estimo
+📻	entreteniment ràdio radio
+👎	-1 avall aversió aversio malament no m’agrada polze cap
+🪹	branca covar llar niu buit
+👩‍🦽	accessibilitat cadira de rodes dona amb una manual
+🧉	beguda beure mate
+🦾	accessibilitat braç brac mecànic mecanic pròtesi protesi de
+🎧	auricular auriculars so
 🍤	fregida gamba tempura
-🦢	aneguet lleig animal au cigne ocell ornitologia
+🧖	bany de vapor persona a la sauna en un una relaxació relaxacio spa
+💥	bomba bum col·lidir col·lisió còmic comic esclat explotar
+🥲	agraïment agraiment alleujament cara somrient amb una llàgrima llagrima emoció emocio orgull smiley somriure
+🚬	cigarreta fumar
+🎷	instrument música musica saxo saxofon saxòfon
+🪥	dental dents higiene lavabo raspall de rentar
+🟣	cercle circumferència circumferencia morada geometria morat
+🦟	febre fiblada insecte malaltia malària malaria mosquit picada picar virus
+🟪	lila morat quadrat violeta
+🤢	cara de nàusees nausees mareig marejada marejat nàusea nausea repugnant vomitar
+🔇	altaveu desactivat silenci silenciar silenciat so
+📉	a la baixa cap avall dades descendent disminució disminucio gràfic grafic de negatiu tendència tendencia
+🟩	quadrat verd
+🫒	menjar oliva oliver olivera
+👿	cara enfadada amb banyes conte de fades diable dimoni dimoniet entremaliada entremaliat fantasia malvada malvat trapella
+🌌	espai temps via làctia lactia
+🌆	ciutat crepuscle edifici ocàs ocas paisatge urbà urba al vespre posta de sol
+🚞	ferrocarril de muntanya vagó vago viatge
 🔏	cadenat amb ploma tancat privacitat privadesa tinta
+🦇	animal muricec ratapenada ratapinyada ratpenat vampir voliac
+🚢	mar passatger passatgers riu titànic titanic vaixell vehicle viatge
+🔦	eina elèctric electric elèctrica electrica electricitat llanterna llum
+🕎	canelobre de set braços bracos judaisme jueu jueva menorà menora religió religio
+🪌	correcció correccio desfer dibuixar eliminar errada error esborrar escriure goma
+🫣	amagar-se cara tapada que espia amb un ull espiar fascinació fascinacio mirada mirar por timidesa vergonya
+🫗	abocar accident aigua beguda buit got que aboca un líquid liquid rajar vaja vessar
+📯	corn de posta postilló postillo corneta correus símbol simbol trompa
+🦘	animal austràlia australia cangur cria de marsupial salt saltar
+💼	maletí maleti oficina
+🍜	bastonets bol fideus fum fumejant menjar palets pho plat ramen sopa
+🐌	animal caragol cargol jardí jardi llimac natura
+♐	arquer horòscop horoscop sagitari zodíac zodiac
+🍋‍🟩	àcid acid aliment cítric citric fruita llima menjar planta refrescant tropical verd
+🪺	covar niu amb ous ocell ou
+💫	brillant còmic comic estel fugaç fugac estrella estrelles mareig marejada marejat
+💱	banc canvi de divisa diners moneda
+⬜	blanc geometria gran quadrat
+🛫	avió avio enlairament d’avió facturació facturacio sortida sortides vehicle
+🌸	cirerer flor de florir planta primavera
+📗	biblioteca educació educacio fantasia lectura llibre verd
+👲	barret gorra guapimao home amb xinès xines
+😃	boca oberta cara molt somrient amb els ulls ben oberts dents feliç felic genial sí si somriure obert
+💗	abraçades abracades i petons batec cor que creix creixent emoció emocio emocionada emocionat muac t’estimo
+🪅	caramels celebració celebracio festa mexicà mexica pinyata
+🔬	augment ciència ciencia eina laboratori microscopi
+🎮	comandament consola entreteniment joc videoconsola
+🦁	alfa animal bram cara de lleó lleo fort leo rugit safari zodíac zodiac
+🕣	20.30 8.30 dos quarts de nou hora rellotge
+🫘	fesols llegum menjar monget mongeta petit ronyó ronyo
+🔻	avall geometria triangle vermell cap
+🪊	instrument jazz metall música musica tristesa vent
+🫠	acalorada acalorat calor cara que es desfà desfa desaparèixer desapareixer desfer-se dissoldre’s fondre’s haha líquid liquid sarcasme vergonya
+🏅	esport guanyador guanyadora medalla or premi
+🧄	all aromatitzant cabeça cabeca d’alls condiment
+🛴	patinet transport
+🪛	eina punta plana tornavís tornavis útil util vis
+😤	cara que treu fum del nas enfadada enfadat enrabiada enrabiat fúria furia furiós furios furiosa infeliç infelic ira sentiments
+🐁	animal animals ratolí ratoli
+🫙	buit condiment contenidor emmagatzemar pot res salsa vidre
+🦉	animal au mussol ocell ornitologia savi
+🧑‍🦽	accessibilitat cadira de rodes manual persona amb una
+🔨	eina martell reforma de la llar reparacions
+🕘	21 21.00 9 9.00 en punt hora les nou rellotge
+😵	cansada cansat cara malalt malalta marejada marejat mort morta
+💩	caca amb ulls cara còmic comic fa pudor fer merda monstre pudent pudenta
+🤬	cara amb símbols simbols a la boca censurar emprenyada emprenyat furiós furios furiosa insults maledicció malediccio paraulotes renecs
+🔭	augment ciència ciencia contacte eina extraterrestre instrument telescopi
+🎦	càmera camera cinema film pel·lícula
+🦩	animal au cridaner flamenc llampant ocell ornitologia tropical
+🥑	alvocat fruita menjar
+👝	accessori bossa de mà ma roba vestimenta
+🔞	18 divuit menors d’edat ningú ningu menor de anys no prohibició prohibicio prohibit a restricció restriccio
+🥩	bistec carn vermella tall de porc xai
+🌔	creixent espai gibosa lluna
+🌛	cara creixent espai lluna en el primer quart amb
+😰	boca oberta cara amb la i suor freda espantada espantat nerviós nervios nerviosa nervis
+🧑‍🤝‍🧑	agafar agafar-se de la mà ma mans agafades parella persona persones que s’agafen
+🍫	dolç dolc halloween llaminer llaminera rajola de xocolata xocolatina
+🥹	admiració admiracio agraït agrait avergonyit cara que s’aguanta les llàgrimes llagrimes dolor emoció emocio enuig gratitud d’alegria oh orgull resistir sentiments si us plau
+🔈	altaveu amb el volum baix so suau
+🍘	arròs arros galeta d’arròs salada menjar
+♍	horòscop horoscop verge virgo zodíac zodiac
+🫫	esquerda màscara mascara resiliència resiliencia revelació revelacio tensió tensio transformació transformacio trencament
+🧚	ales conte de fades fada fantasia follet mitologia oberó obero personatge fantàstic fantastic puck titània titania
+👉	assenyalar dit índex index que apunta cap a la dreta mà ma
+🐽	animal cara granja morro nas de porc
+🕑	14 14.00 2 2.00 dues en punt hora les rellotge
+💪	aixecament de peses bíceps biceps tensat braç brac còmic comic cos culturista flexió flexio forçuda forcuda forçut forcut fort forta múscul muscul musculada musculat
+🚈	arribada arribat ferrocarril lleuger metro monorail tren vehicle
+🏊	crol esport natació natacio nedador nedar persona nedant que neda triatló triatlo
+❗	exclamació exclamacio puntuació puntuacio signe d’exclamació vermell
+🍎	dieta fruita madura menjar poma sana vermella
+👢	bota de dona botina amb taló talo calçat calcat compres roba sabata sabates vestimenta
+💌	amor aventura amorosa carta d’amor correu sant valentí valenti
+🤯	cap que explota estupefacta estupefacte explotar impossible impressionada impressionat sorprès sorpres sorpresa
+🫆	empremta dactilar digital forense identitat seguretat
+🍑	fruita planta préssec pressec
+🚣	aigua barca de rems bot canoa esport llac navegar persona que rema en una remant pesca remar riu
+📿	collaret granadura oració oracio religió religio rosari
+🈁	botó boto aquí aqui en japonès japones katakana koko quadre
+🔎	augment buscar ciència ciencia contacte dreta eina laboratori lent d’augment cap a la lupa
+🩰	ballet dansa sabatilles de
+🫺	això aixo allà alla dreta neutral punt puny
+🐲	animal cara de drac conte fades
+🧀	formatge porció porcio de tall tros
+👘	còmoda comoda còmode comode japonès japones quimono roba vestit
+🪼	animal aquari coïssor coissor cremada dolor invertebrat marí mari medusa oceà ocea picada plàncton plancton tentacles
+🪢	bramant corda nus
+🚔	arribant cotxe de policia cara que arriba proper
+😝	cara amb els ulls tancats i la llengua fora que fa llengotes déu deu meu ecs el sigui fastigós fastigos horrible llengota només nomes es viu una vegada sabor ull
+🐐	animal animals cabra capricorn granja llet zodíac zodiac
 ⛄	fred neu ninot de sense
-💀	calavera cara conte crani estic mort morta ha monstre només es viu una vegada
-🏴	bandera negra oneig onejant
-👍	+1 amunt bé brutal d’acord entesos fantàstic genial guai m’agrada mà polze cap sí
-🧑‍💻	desenvolupador inventor programador tecnòleg
-🪊	instrument jazz metall música tristesa vent
-🌭	frankfurt hot dog salsitxa
-♎	balança bàscula horòscop justícia zodíac
-🪇	ball diversió festa instrument maraques música percussió ritme sacsejar sonall
-💂	barret guarda londres palau de buckingham
-🛸	extraterrestre extraterrestres objecte volador no identificat ovni plat ufo
-➰	bucle llaç arrissat
-🎴	cartes de flors les hanafuda japonès joc
-🦪	busseig ostra perla
-🪯	fe khanda religió sikh sikhisme
-🛅	armari consigna equipatge maleta maletes servei de
-🉐	ganga botó en japonès ideograma kanji
-🧑‍🏭	fàbrica industrial operari treballador
-🔰	eina full galó groc japonès principiant símbol de verd
-🫍	animal balena marí oceà
-♊	bessons gèmini horòscop zodíac
-🍒	cirera cireres fruita planta vermell
-🦘	animal austràlia cangur cria de marsupial salt saltar
-🦯	accessibilitat bastó per a invidents cec cega invident
-🧼	bany bombolles ensabonar-se higiene net neta neteja netejar pastilla sabó sabonera
-🧿	amulet blau nazar pedra del mal d’ull talismà
-🎱	8 billar bola de negra joc vuit
-🍭	caramel confits dolç llaminadura menjar pal piruleta postres restaurant
-🥈	argent medalla de plata posició segon
-🔬	augment ciència eina laboratori microscopi
-🤞	creuar creuats dit dits mà sort
-🍛	arròs al curri menjar
-👌	acceptació d’acord entesos genial impressionant mà d’acceptació ok perfecte senyal d’aprovació amb la
-👆	amunt assenyalar dit índex que apunta cap mà
-👉	assenyalar dit índex que apunta cap a la dreta mà
-🎍	bambú celebració decoració de pi japonès
+🔄	actualitzar botó boto de fletxes que giren cap a l’esquerra nou déjà deja vu esquerra fletxa en sentit antihorari gir rebobinar
+📩	avall comunicació comunicacio correu electrònic electronic enviar enviat fletxa sobre amb sortint
+😻	amor cara cor gat somrient amb cors als ulls somriure
+🎡	fira parc d’atraccions roda de
+🕝	14.30 2.30 dos quarts de tres dues hora rellotge
+🕚	11 11.00 23 en punt hora les onze rellotge
+🕕	18 18.00 6 6.00 en punt les sis rellotge
+🎄	arbre de nadal celebració celebracio
+💀	calavera cara conte crani estic mort morta ha monstre només nomes es viu una vegada
+😇	angelet aurèola aureola bíblia biblia cara somrient amb conte de fades fantasia halo innocent pacífic pacific pacífica pacifica sant santa
+🙀	animal cara de gat espantat oh por sorprès sorpres sorpresa
+🧾	comptabilitat factura llibres prova rebut tiquet
+🏮	bar fanal de paper vermell fanalet japonès japones llum restaurant
+🩹	bena adhesiva tireta
+♎	balança balanca bàscula bascula horòscop horoscop justícia justicia zodíac zodiac
+🛞	cercle cotxe girar pneumàtic pneumatic roda rodar vehicle
+🍂	fulla que cau seca tardor
+👫	agafar-se de la mà ma amics amigues cita dona enamorats flirteig home i que s’agafen mans agafades parella tothom
+🏺	àmfora amfora aquari beguda cuina eina gerra zodíac zodiac
+🤗	abraçada abracada abraçant abracant cara amb mans
+🔩	cargol i femella eina reforma de la llar
+🍗	afamada afamat carn de pollastre cuixa gall d’indi
+😾	animal cara de gat enutjat enuig enfadat
+🫲	a l’esquerra agafar encaixada de mans encaixar esquerra mà ma cap
+🥕	hortalissa menjar pastanaga verdura
+🍿	blat de moro crispetes pel·lícula
+🦦	juganera llúdria lludria llúdriga lludriga pescadora
+🍖	carn amb os
+😪	cansada cansat cara de son dormint dormir plorant trist trista
+📭	abaixada bandera bústia bustia oberta amb la correu
+🎋	arbre dels desitjos celebració celebracio japonès japones pancarta tanabata
+🥪	entrepà entrepa pa
+🚺	dones lavabo servei wc
+🤟	dits gest de t’estimo mà ma tres
+⛪	benedicció benediccio beneir capella creu cristià cristia edifici església esglesia religió religio
+📋	clip llista de tasques pendents notes petjapapers porta-retalls portanotes
+🐦	animal au ocell ornitologia
+🎴	cartes de flors les hanafuda japonès japones joc
+🧑‍🩰	ballarí ballari ballet
+👩‍🦯	accessibilitat cega dona amb un bastó basto per a invidents invident
+🔀	aleatòria aleatoria botó boto de reproducció reproduccio creuada fletxa
+🈚	gratis botó boto en japonès japones ideograma kanji
+📸	càmera camera amb flaix vídeo video
+🫥	amagar-se cara amb línia linia de punts depressió depressio desaparèixer desapareixer introversió introversio invisible m’és igual
+🫀	anatomia batec cardiologia cor real òrgan organ pols vermell
+🦮	accessibilitat cec cega gos guia pigall invident
+🦬	animal bisó biso europeu búfal bufal ramat
+👴	ancià ancia avi calb gran home iaio perdent cabell savi vell
+💅	cosmètics cosmetics cura esmalt d’ungles manicura maquillatge s’ha acabat ungla
+🐀	animal rata ratolí ratoli
+🔛	fletxa amb la paraula on
+🎸	corda guitarra instrument música musica rock stratocaster
+🎼	música musica nota partitura pentagrama
+😽	animal cara gat que fa un petó peto amb els ulls tancats ull
+🪖	casc exèrcit exercit guerrer militar soldat
+❎	× botó boto de creu marca multiplicació multiplicacio multiplicar quadrat x
+🫰	<3 amor car cor diners fregar els dits mà ma amb el dit índex index i polze creuats petar
+🛻	camioneta descoberta pickup transport
+📍	mapa rodona ubicació ubicacio xinxeta
+😅	cara somrient amb una gota de suor emocionada emocionat estrès estres estressada estressat nerviós nervios nerviosa obert somriure freda
+🏨	edifici hotel
+👐	abraçada abracada cos mà ma mans de jazz obertes oberta virar bruscament
+🗾	japó japo mapa del
+🦊	animal cara guineu
+😭	bramar cara que plora desconsoladament infeliç infelic llàgrima llagrima llàgrimes llagrimes de desconsol plorant plorar sanglot
+👂	cos escoltar oïda oida orella orelles sentir so
+😴	badall badallar becaina bona nit cansada cansat cara de dormir son dormint el que sigui hora llit zz zzz
+🍟	fregides menjar ràpid rapid patates
+🚫	accés acces entrada fumar no passeu prohibició prohibicio prohibit
+🚀	coet coets espacial espai llançament llancament llançar llancar vehicle viatge
+📅	calendari data
+🏑	estic herba hoquei sobre joc pilota
+🚴	bici bicicleta ciclisme ciclista esport persona amb en pedalejant
+🪄	bruixa bruixot màgia magia vareta màgica magica
+🐴	animal cara de cavall cavalls domatge equí equi equina granja
+🥱	adormida adormit avorriment badall becaina bona nit cansada cansament cansat cara que badalla zzz
+🚦	conducció conduccio intersecció interseccio semàfor semafor senyal trànsit transit vertical
+🎯	dard dards diana entreteniment joc punteria
+👛	accessori bossa de mà ma compres luxe moneda moneder roba vestimenta
+🎤	cantar karaoke micròfon microfon música musica so
+💾	desar disc disquet equip ordinador pc
+😛	cara que fa llengotes dolç dolc dolça dolca excel·lent festa genial guai llengota llengua fora
+🦸	bé be bo heroi heroïna heroina persona amb superpoders superheroi superheroïna superheroina superman superpoder
+🫨	cara que tremola caram pànic panic sorpresa terratrèmol terratremol tremolar tremolor vibració vibracio vibrar xoc
+🍄‍🟫	aliment bolet marró marro fong menjar natura vegetal vegetarià vegetaria xampinyó xampinyo
+🧑‍💼	arquitecte negoci oficina treballador d’oficina
+🆚	botó boto vs contra versus
+🚊	tramvia transport tròlei trolei troleibús troleibus vehicle
+🎅	celebració celebracio conte de fades fantasia nadal noel pare santa claus
+🛁	bany banyera
+🤰	dona embaràs embaras embarassada prenyada
+🍧	dolç dolc gel gelat granissat picat postres
 🧔	barba barbut bigoti bigotut persona amb
-🦶	peu peus puntada de trepitjada turmell
-🈺	botó negoci obert en japonès ideograma kanji
-🧮	àbac càlcul calculadora
-🏁	automobilisme bandera de quadres banderes cursa curses cotxes esport joc meta motor nascar victòria
-🙈	animal avergonyida cara déu meu espantada gest malvada mona que no mira oblit prohibida secret ulls tapats
-🍠	dolç menjar moniato rostit
-🕋	islam ka’ba musulmà religió
-🫓	arepa coca lavash naan pa de pita
-😠	cara culpa empipada empipat enfadada enfadat frustrada frustrat furiós furiosa infeliç ira
-🫶	<3 amor cor mans que formen un t’estimo
-🤖	cara de robot monstre
-◾	geometria negre petit-mitjà quadrat
+😑	bàsic basic bàsica basica cara de pòquer poquer déu deu meu dolent dolenta gelós gelos gelosa incòmoda incomoda incòmode incomode inexpressió inexpressio inexpressiu inexpressiva infeliç infelic mort morta no oh què que coi
+🪾	caiguda de la fulla caduca hivern sequera
+🤓	aplicada aplicat cara de setciències setciencies estudiar estudiós estudios estudiosa intel·ligent rata biblioteca ulleres
+⚡	alta tensió tensio elèctric electric elèctrica electrica electricitat fulminar llamp llampec natura perill tro voltatge
+🧑‍🏫	instructor mestre professor
+🏡	afores casa amb jardí jardi de camp senzilla edifici on és es el cor suburbà suburba suburbana
+⛺	acampada campament càmping camping tenda de campanya
+🍥	menjar pastís pastis de peix amb remolí remoli restaurant
+🔰	eina full galó galo groc japonès japones principiant símbol simbol de verd
+🧷	imperdible punk rock
+📨	carta correu electrònic electronic entrada enviant enviat rebre recepció recepcio sobre que arriba
+🍷	alcohol bar beguda begudes copa de vi restaurant
+🚯	brossa llençar llencar no prohibició prohibicio prohibit
+🩺	cor doctor estetoscopi medicina
+🌘	espai lluna minvant
+🐍	ofiüc ofiuc portador rèptil reptil serp serpentari zodíac zodiac
+🟥	quadrat roig targeta vermella vermell
+🐦‍⬛	animal au corb còrvids corvids grall merla negre ocell ornitologia
+🏁	automobilisme bandera de quadres banderes cursa curses cotxes esport joc meta motor nascar victòria victoria
+📃	cargolada document pàgina pagina que es cargola
+🔲	botó boto de quadrat negre geometria
+📶	barres de cobertura comunicació comunicacio mòbil mobil senyal telèfon telefon
+🏬	botiga centre comercial edifici magatzem
+🪘	conga instrument percussió percussio ritme timbal
+🔣	〒♪&% botó boto de símbols simbols entrada per introduir
+🕋	islam ka’ba musulmà musulma religió religio
+🪭	aire calor dansa vano vent ventall ventar vergonya
+🥸	bigoti cara disfressada celles disfressa incògnit incognit mostatxo nas persona ulleres
+🤙	mà ma que representa una trucada trucar
+🚲	anar amb bicicleta bici ciclisme de sala ciclista vehicle
+👗	compres elegant roba vestida vestit
+🦠	ameba bacteri ciència ciencia microbi virus
+🏃	corredor corredora corrent cursa esport marató marato persona que corre pressa ràpid rapid ràpida rapida velocitat
+🕧	00.30 12.30 dos quarts d’una hora rellotge
+😒	avorrida avorriment avorrit cara de desaprovació desaprovacio emprenyada emprenyat estrany estranya gelós gelos gelosa infeliç infelic negació negacio amb el cap no és es divertit que coi
+📙	biblioteca educació educacio fantasia lectura llibre taronja
+👔	camisa corbata empleat roba seriós serios
+🧯	apagar extingir extintor foc
+👟	bambes calçat calcat esportiu compres córrer correr ràpid rapid sabatilla de sabatilles
+😫	becaina cansada cansament cansat cara de sentiments trist trista
+🏢	ciutat cúbic cubic edifici d’oficines feina
+🍩	dolç dolc dònut donut menjar postres rosquilla
+♈	àries aries be horòscop horoscop marrà marra zodíac zodiac
+🤺	esgrima esgrimidor esgrimidora espasa floret persona que fa sabre tirador tiradora
+🧎	agenollada agenollat de genolls genoll persona
+🧑‍🧑‍🧒	adult família familia infant
+⛲	font
+🍵	beguda beure oolong tassa de te amb nansa
+🌲	arbre de fulla perenne nadal avet bosc pi
+👩‍🚀	astronauta coet dona espai
+🫦	boca que es mossega el llavi flirteig incomoditat mossegada nervis petó peto pintallavis por preocupació preocupacio preocupat sexy
+🏧	atm automàtic automatic banc caixer diners efectiu signe
+🥈	argent medalla de plata posició posicio segon
+💿	cd disc dvd equip òptic optic ordinador pc
+🎣	canya de pescar entreteniment esport peix
+🍪	dolç dolc galeta de xocolata postres
+🧬	adn biòleg bioleg biòloga biologa evolució evolucio gen genètica genetica vida
+🎓	acadèmic academic acadèmica academica barret de graduació graduacio birret celebració celebracio educació educacio
+🪫	bateria baixa electrònica electronica esgotada poca
+🦿	accessibilitat cama mecànica mecanica ortopèdica ortopedica pròtesi protesi de
+⛔	direcció direccio prohibida entrada no passeu prohibició prohibicio prohibit entrar trànsit transit
+🛙	balisa esperança esperanca il·luminació llum mar marítim maritim navegació navegacio orientació orientacio senyal
+🍕	afamada afamat formatge pepperoni pizza porció porcio tall
+🧅	aromatitzant ceba condiment
+🦖	dinosaure tiranosaure tyrannosaurus rex
+😡	cara vermella enutjada enutjat furiós furios furiosa ira irritant ràbia rabia sentiments vermell
+🪸	canvi climàtic climatic corall escull escullera mar oceà ocea
+⏫	amunt botó boto d’anar ràpidament rapidament d’apujar doble dues fletxes fletxa
+🟠	cercle circumferència circumferencia geometria taronja
+🌄	alba sobre les muntanyes matí mati muntanya sol sortida del
+🐚	animal caragol de mar cargol closca conquilla espiral platja
+🩼	ajuda a la mobilitat bastó basto crossa discapacitat lesió lesio
+😢	cara que plora infeliç infelic llàgrimes llagrimes plorant plorar sentiments terrible trist trista trobar a faltar
+🧦	mitges mitja mitjó mitjo mitjons
+💢	còmic comic enfadada enfadat enuig furiós furios furiosa malhumorada malhumorat símbol simbol d’enuig d’ira
+💨	còmic comic córrer correr he de marxar núvol nuvol pet pressa ràpid rapid sortir corrent
+😯	atònit atonit atònita atonita cara de sorpresa déu deu meu èpic epic oh sorprès sorpres
+👤	bust misteriós misterios misteriosa ombra silueta d’un
+🎠	atraccions cavall cavallets entreteniment
+👮	agent de policia detenir gorra home persona poli seguretat
+🧑	adult gènere genere neutre persona
+🗼	tòquio toquio torre de
+📳	comunicació comunicacio mòbil mobil mode de vibració vibracio telèfon telefon
+🏤	correus europea oficina de
+👕	camiseta cap de setmana coll compres informal roba samarreta verd vestit
+🍴	afamada afamat alimentar-se cobert deliciós delicios dinar esmorzar forquilla i ganivet menjar restaurant sopar
+🛃	duana equipatge
+🐳	aigua animal balena que treu cara oceà ocea platja sortir a raig
+👨‍🍼	alimentar alletar amor bebè bebe biberó bibero home que alleta un pare
+🦯	accessibilitat bastó basto per a invidents cec cega invident
+👩‍🚒	bombera camió camio de bombers dona femení femeni
+⛅	ennuvolat núvol nuvol sol darrere un temps
+😞	abatuda abatut cara de decepció decepcio culpa decebuda decebut fracàs fracas infeliç infelic perdedor perdedora terrible trist trista
+💤	adormida adormit bona nit cansada cansat còmic comic dormir son zz zzz
+🚵	anar amb bicicleta ciclisme de muntanya ciclista esport pedalejar persona
+👪	criatura família familia fill filla mare nen nena pare
+👠	calçat calcat compres dona moda sabata de taló talo sabates d’agulla talons alts vestit
+😷	cara amb màscara mascara mascareta dentista dermatòleg dermatoleg dermatòloga dermatologa doctor doctora dr dra gèrmens germens malalt malalta malaltia medecina refredat
+🥞	americanes crep creps menjar pancake
+🆓	botó boto free paraula quadre
+🏹	arc i fletxa arquer arquera eina sagitari tir amb zodíac zodiac
+🪈	flauta dolça dolca flautista instrument de vent fusta música musica orquestra
+🛂	control de passaports passaport
+😱	cara que crida de por crit espantada espantat munch pànic panic sorprès sorpres sorpresa temorós temoros temorosa terror
+🐄	animal animals granja llet muuu vaca
+🔳	blanc botó boto de quadrat geometria perfilat
+👩‍🎓	dona estudiant femení femeni graduació graduacio graduada noia
+🐏	animal animals àries aries banyes mardà marda marrà marra ovella zodíac zodiac zoo
+🪿	ànec anec animal au clacar oca ocell
+📥	bústia bustia carta correu electrònic electronic entrada rebre safata d’entrada a zero
+🐇	animal conill conillet mascota
+🥐	brioixeria croissant francès frances menjar pa
+🌖	espai gibosa lluna minvant
+🦻	accessibilitat orella amb audiòfon audiofon problema d’audició
+🌅	alba matí mati sol sortida del temps
+🦌	animal cérvol cervol
+🌰	castanya fruita seca planta tardor
+🧫	bacteri biòleg bioleg biòloga biologa biologia cultiu laboratori placa de petri
+🐅	animal animals depredador gran felí feli tigre zoo
+💬	bafarada de parlar còmic comic conversa diàleg dialeg discurs escrivint missatge parla sms text
+🚮	brossa escombraries llençar llencar paperera senyal signe
+🟦	blau quadrat
+👼	ales àngel angel angelet bebè bebe conte de fades església esglesia fantasia
+🚩	bandera triangular banderí banderi construcció construccio golf pal
+😿	animal cara de gat que plora llàgrima llagrima llàgrimes llagrimes plorar trist trista
+😦	agafar per sorpresa apa arrufada boca cara emmurriada amb la oberta esgarrifada esgarrifat espantada espantat què que
+🚍	autobús autobus de cara que arriba bus proper
+⭐	astronomia estel estels estrella mitjana blanca estrelles
+🃏	carta cartes comodí comodi joc partida
+😵‍💫	cara amb ulls d’espiral confós confos confosa déu deu meu espiral hipnosi mareig marejada marejat ostres problema vaja
+🚾	bany lavabo servei vàter vater wc
+🐡	animal globus peix
+♒	aigua aquari horòscop horoscop portador zodíac zodiac
+👨‍🦯	accessibilitat cec home amb un bastó basto per a cecs invidents invident
+🤪	boig boja cara de bogeria ull gran petit ulls
+💜	amor cor lila el millor emoció emocio la t’estimo
+🤽	aigua esport aquàtic aquatic esportista persona jugant a waterpolo que juga waterpolista
+👸	conte de fades corona fantasia princesa reial reialesa reina
+☔	gota gotes meteorologia paraigua amb de pluja temps
+🦋	animal bonica insecte papallona
+🌒	creixent espai lluna en quart somnis
+🔍	augment buscar ciència ciencia eina esquerra laboratori lent d’augment cap a l’esquerra lupa recerca
+😕	arrufada cara de confusió confusio confós confos confosa ho sento m’és igual ni idea no sé se trist trista um
+🆙	botó boto amb la paraula up
+🧲	atracció atraccio ferradura forma d’u imant magnètic magnetic positiu negatiu
+🌝	brillant cara lluna plena amb
+🐊	animal animals cocodril zoo
+🦎	animal llangardaix rèptil reptil
 🤤	bava bavejant cara que baveja
-🏹	arc i fletxa arquer arquera eina sagitari tir amb zodíac
-💔	cor desolada desolat emoció solitari solitària trencar trencat trist trista
-🍍	colada fruita pinya tropical
-🤱	alletar dona que alleta lactància lactant nadó pit
-👨‍🍼	alimentar alletar amor bebè biberó home que alleta un pare
-👫	agafar-se de la mà amics amigues cita dona enamorats flirteig home i que s’agafen mans agafades parella tothom
+🍰	dolç dolc massa pastís pastis porció porcio de postres tall
+🫸	aturar bloqueja bloquejar dreta empènyer empenyer esperar mà ma que empeny cap a la prou rebutjar
+💷	banc bitllets de lliura diners divisa efectiu lliures milions moneda signe
+🧑‍🧒	adult família familia infant
+🚨	alarma alerta cotxe emergència emergencia girant llum de policia sirena
+👳	home amb turbant persona
+🦼	accessibilitat cadira de rodes elèctrica electrica motoritzada
+🎂	aniversari celebració celebracio dolç dolc pastís pastis d’aniversari per molts anys postres
+📴	apagat desactivat desconnectat mòbil mobil telèfon telefon
+🪶	au lleuger ploma plomatge volar
+🧰	caixa d’eines vermella eines mecànic mecanic
+🚋	autobús autobus tramvia troleibús troleibus vagó vago de
+🔢	1234 botó boto de números numeros dígits digits entrada per introduir xifres
+🍮	crema dolç dolc flam postres púding puding
+🔺	amunt geometria triangle vermell cap
+🎻	corda instrument música musica violí violi
+🪴	casa créixer creixer decoració decoracio planta amb test
+🛵	escúter escuter moto motocicleta transport
+🎒	bossa educació educacio escola motxilla d’escola
+🦛	animal hipopòtam hipopotam
+🔸	geometria petit rombe taronja
+🐬	aleta animal dofí dofi oceà ocea platja
+🧿	amulet blau nazar pedra del mal d’ull talismà talisma
+🥼	bata blanca de laboratori científic cientific doctor dr experiment roba
+🔮	bola de vidre conte fades fantasia fortuna futur màgia magia sort
+🌕	espai lluna plena
+💧	aigua còmic comic fred gota llàgrima llagrima natura suor temps trist trista
+🎌	banderes creuades celebració celebracio japó japo japoneses
+🚒	bombers camió camio de cotxe motor
+🤶	àvia avia còfia cofia mare nadal noel senyora
+🆒	botó boto cool paraula quadre
+🥀	flor marcida mústia mustia pansida rosa
+🖤	cor dolent dolenta malvada malvat negre
+🚓	cotxe de policia policies
+🥅	esport gol porteria xarxa
+🍁	auró auro caient fulla d’auró
+🧈	mantega producte lacti
+🐶	animal cadell cadells cara de gos mascota
+🚭	fumar no prohibició prohibicio prohibit
+⚽	esport futbol pilota de
+🧑‍💻	desenvolupador inventor programador tecnòleg tecnoleg
+🧡	cor taronja
+🌙	creixent espai lluna ramadà ramada
+🛀	bany banyera persona a la
+🕡	18.30 6.30 dos quarts de set hora rellotge
+🪗	acordió acordio concertina instrument música musica
+🥊	boxa esport guant de
+🔷	blau geometria gran rombe
+📕	educació educacio llibre tancat
+🎪	carpa de circ
+🧊	fred gel glaçó glaco iceberg
+🫌	canviar capoll esperança esperanca fràgil fragil insecte metamorfosi migració migracio transformació transformacio
+🧺	bugada cistella cultiu granja pícnic picnic
+🫓	arepa coca lavash naan pa de pita
+🔖	marcador punt de llibre
+🤕	ai bena cap embenat cara amb el ferida ferit lesió lesio
+🎃	carabassa de halloween carbassa celebració celebracio llanterna
+🍨	crema dolç dolc gel gelat menjar postres restaurant
+⬛	geometria gran negre quadrat
+🩵	amor blau cel bonic cian cor turquesa
+◽	blanc geometria petit-mitjà quadrat
+🥶	blau blava cara de fred caramell caramells congelació congelacio dents fredes gel gelada gelat glaçada glacada glaçat glacat
+🪪	carnet credencials document id identificació identificacio seguretat targeta d’identificació
+📵	mòbil mobil no prohibició prohibicio prohibit l’ús de telèfons telefons mòbils mobils prohibits els telèfon telefon
+😋	afamada afamat assaborir cara d’assaborir un menjar deliciós delicios que assaboreix deliciosa gustós gustos gustosa llengua llépol llepol nyam somrient somriure
+🫵	apuntar assenyalar dit índex index que assenyala l’espectador mà ma tocar tu
+🙋	dona que aixeca la mà ma gest ho sé se jo aixecada noia persona amb contenta pregunta somriure
+🐵	animal cara de mona curiosa
+🪵	fusta llenya tronc
+🧑‍🧒‍🧒	adult família familia infant
+🍡	broqueta dolça dolca japonesa dango dolç dolc japonès japones postres
+🎥	bollywood càmera camera cinematogràfica cinematografica cinema enregistrar hollywood pel·lícula
+⌚	hora rellotge
+🫕	cassola desfet esquí esqui fondue formatge menjar suís suis suïssa suissa xocolata
+🕠	17.30 5.30 dos quarts de sis hora rellotge
+🤲	desig duà dua mans en forma còncava concava juntes amb els palmells cap amunt pregar pregària pregaria
+🙊	animal boca tapada gest mona que no parla parlar prohibit secret sigil silenci ui
+🐞	animal escarabat insecte jardí jardi marieta natura
+🪃	aborigen arma austràlia australia bumerang rebot repercussió repercussio
+🈹	botó boto japonès japones descompte ideograma kanji quadre
+🧜	cant de sirena conte fades criatura del mar fantasia folklore mitologia persona personatge fantàstic fantastic trident tritó trito
+🐙	animal criatura mar oceà ocea pop
+🧢	beisbol gorra amb la visera corbada de
+🦞	animal bisque llagosta vermella marisc pinces sopa de
+🍒	cirera cireres fruita planta vermell
+🌠	cel espai estel estrella fugaç fugac pluja d’estels
+🥭	aliment fruita mango menjar tropical
+🌭	frankfurt hot dog salsitxa
+🫈	bigfoot bosc gegant ieti monstre pèl pel pelut sasquatch
+💎	aventura amorosa casament compromís compromis diamant diners gemma joia
+🪠	desembossador embós embos lampista lavabo succió succio
+🚗	automòbil automobil conducció conduccio cotxe vehicle
+🧨	dinamita espurna explosiu foc focs d’artifici llum petard
+🕢	19.30 7.30 dos quarts de vuit hora rellotge
+😖	cara de frustració frustracio confós confos confosa encongir-se frustrada frustrat furiós furios furiosa molest molesta sentiments torbada torbat trist trista
+🧗	escalada escalador escaladora escalar esport muntanya persona escalant que escala
+📏	angle matemàtiques matematiques recte regle de vora recta
+🧛	dents disfressa dràcula dracula esgarrifós esgarrifos fantasia halloween mort vivent morta personatge fantàstic fantastic sang supernatural ullals vampir xuclar la
+🟡	cercle circumferència circumferencia groga geometria groc
+🦥	gandul lent mandrós mandros peresós peresos
+🧩	encaixar peça peca peces de trencaclosques pista puzle
+🚕	conduir taxi groc transport vehicle
+🈺	botó boto negoci obert en japonès japones ideograma kanji
+🥙	durum falàfel falafel farcit kebab menjar pa
+🙃	cara de cap per avall ha revés reves somriure
+🌎	amèrica america bola del món mon globus terraqüi terraqui amb terra
+🫐	blau fruit del bosc gerd menjar nabiu nabius
+🍔	afamada afamat hamburguesa menjar ràpid rapid
+😐	bé be cara neutra seriosa en blanc gelós gelos gelosa inexpressiu inexpressiva infeliç infelic neutral no és es divertit per riure impressiona
+💰	banc bossa de diners cost dòlar dolar efectiu ric rica
+🏏	bat bola criquet joc partit
+💞	adorable aniversari cor cors que giren emoció emocio gir girant
+🐋	animal balena oceà ocea platja
+🥳	aniversari barret cara festiva celebració celebracio celebrar emocionada emocionat espanta-sogres festa hurra per molts anys
+🌞	assolellat calor cara clar dia llum del sol amb temps
+🍄	bolet verinós verinos fong mario planta
+🤩	apa cara amb estrelles als ulls emocionada emocionat estrella somrient somriure
+🛅	armari consigna equipatge maleta maletes servei de
+⭕	cercle buit vermell gran gruixut o
+🌈	arc de sant martí marti bisexual gai gènere genere no-binari lgbt lgbtia lgbtq natura orgull pluja queer temps transgènere transgenere transsexual
+💛	amor cardíac cardiac cardíaca cardiaca cor emoció emocio groc t’estimo
+💋	aventura amorosa cita cor emoció emocio fer un petó peto llavis marca de sexy
+📓	llibreta quadern
+⏳	ampolleta hores només nomes es viu una vegada rellotge amb sorra que cau d’arena de temporitzador
+🩸	donació donacio de sang ferida gota lesió lesio medicina menstruació menstruacio sagnar
+🍐	fruita pera planta
+🐂	animal animals bou brau granja taure zodíac zodiac
+👖	cap de setmana compres informal pantaló pantalo pantalons roba texana texans
+🟫	marró marro quadrat
+🐃	aigua animal animals búfal bufal aquàtic aquatic zoo
+⚾	beisbol esport pilota de
+🪙	diners dòlar dolar euro metall moneda or plata ric tresor
+🤞	creuar creuats dit dits mà ma sort
+🥿	ballarina calçat calcat còmode comode sabata plana sabatilla xinel·la
+💒	amor capella casament noces
+🤾	esport esportista handbol persona jugant a que juga pilota
+🕟	16.30 4.30 dos quarts de cinc hora rellotge
+🙉	animal escoltar gest massa informació informacio mona que no escolta orelles tapades prohibit pst secret
+🧏	accessibilitat oïda oida persona sorda sentir sord
+🈲	botó boto prohibit en japonès japones ideograma kanji prohibició prohibicio
+🐸	animal cara de granota
+⏪	botó boto de retrocedir ràpidament rapidament doble dues fletxes fletxa
+🌮	mexicà mexica taco
+💸	ales banc bilió bilio bitllet diners amb efectiu milió milio pagar volar
+🙅	barrar el pas braços bracos dona fent gest de negació negacio mà ma no persona prohibit
+🧑‍🎤	actor cantant estrella presentador
+🫅	monarca noble noblesa persona amb corona rei reial reialesa reina
+📘	biblioteca blau educació educacio fantasia lectura llibre
+🪍	atrapar caçar cacar salabret trampa xarxa
+🤌	dits junts gest de la mà ma interrogació interrogacio italià italia paciència paciencia què que dius relaxació relaxacio sarcàstic sarcastic
+⚫	cercle circumferència circumferencia negra geometria negre
+🧕	cap cobert dona amb el mocador de hijab mantellina
+📚	biblioteca coneixement educació educacio escola estudi fantasia lectura llibre llibres novel·les
+👨	amic home masculí masculi noi xicot
+🧑‍🔧	electricista lampista mecànic mecanic
+👒	accessori barret de dona barrets festa al jardí jardi roba
+🫜	arrel hort rave remolatxa verdura
+💵	banc bitllet de dòlar dolar bitllets divisa moneda signe
+👊	a prop artells col·lega cop de puny copejar correcte d’acord mà ma totalment
+⌛	rellotge d’arena de sorra temporitzador
+🫑	capsicum hortalissa menjar pebrot verd
+🚶	caminada caminar home que camina noi passeig passejada passejar xino-xano persona caminant vianant
+🦙	alpaca animal guanac llama llana vicunya
+🎉	celebració celebracio confeti emocionada emocionat festa genial hurra tatxam tub de visca
+📛	etiqueta identificadora identificació identificacio nom
+🥔	hortalissa menjar patata tubercle
+🧒	criatura gènere genere neutre infant jove nen
+🥵	calor cara de vermella cop febre febril fogots insolació insolacio suada suat suor
+🍶	ampolla bar beguda got restaurant sake
+🉐	ganga botó boto en japonès japones ideograma kanji
+♊	bessons gèmini gemini horòscop horoscop zodíac zodiac
+🤫	callar cara que demana silenci psit pst
+📮	bústia bustia carta correu
+🦷	blanc dent dentista dents perlí perli perlina
+🩻	diagnòstic diagnostic esquelet medicina ossos radiografia
+🔫	arma de foc eina pistola d’aigua revòlver revolver
+🔁	botó boto de repetició repeticio fletxa fletxes en sentit horari
+🍏	fruita poma verda
+🕐	1 1.00 13 13.00 en punt hora la una rellotge
+😁	cara molt somrient amb els ulls alegres dents feliç felic gran somriure simpàtic simpatic simpàtica simpatica ull
+🩱	banyador vestit de bany d’una peça peca
+🐛	animal bestiola eruga insecte jardí jardi
+😲	cara déu deu meu escandalitzada escandalitzat estupefacta estupefacte i ara que coi totalment
+📟	buscapersones cercapersones comunicació comunicacio
+🤘	banyes dits en forma de genial rock signe les
+😮	apa boca bocabadada bocabadat cara amb la oberta estupefacta estupefacte increïble increible no et crec sorprès sorpres sorpresa
+🆘	ajuda auxili botó boto sos emergència emergencia socors
+💭	adonar-se bafarada de pensar còmic comic decisions dibuix animat idea il·lusió invenció invencio invent pensament pensaments pensant preguntar-se somni somnis
+🐉	animal cavallers conte de fades drac fantasia xinès xines
+🚟	ferrocarril de suspensió suspensio tramvia elevat vehicle
+🫱	a la dreta agafar encaixada de mans encaixar mà ma cap
+🎶	música musica nota notes musicals so
+🈯	reservat botó boto en japonès japones ideograma kanji
+👹	cara conte de fades criatura dimoni esgarrifós esgarrifos fantasia japonès japones màscara mascara monstre ogre
+🧑‍🎄	festes nadal noel persona santa claus
+🫶	<3 amor cor mans que formen un t’estimo
+💝	abraçades abracades i petons aniversari cor amb un llaç llac emoció emocio sant valentí valenti t’estimo
+🥇	medalla d’or or posició posicio primer
+🔘	botó boto d’opció geometria opció opcio
+🪋	apocalipsi bola de foc caure espai estrella gravetat roca
+🐜	animal formiga insecte jardí jardi
+🆎	ab botó boto grup sanguini
+🧑‍🍼	alimentar alletar bebè bebe biberó bibero dona home persona que alleta un
+💻	equip oficina ordinador portàtil portatil pc personal
+🏉	esport pilota de rugbi
+🐆	animal depredador gran felí feli lleopard pantera zoo
+🦡	animal teixó teixo toixó toixo
+🦄	cara d’unicorn unicorn
+💊	malalt malalta medicada medicaments medicat medicina metge pastilla píndola pindola píndoles pindoles vitamina
+🐒	animal mico mona
+👃	cos nas nassos olor olors pudor tafaner tafanera
+🧼	bany bombolles ensabonar-se higiene net neta neteja netejar pastilla sabó sabo sabonera
+👧	filla jove nena noia trenes ulls brillants
+📜	escriptura paper pell pergamí pergami
+🗿	cara de pedra estàtua estatua moai viatge
+🔠	abcd botó boto de lletres llatines en majúscules majuscules
+🌵	cactus desert natura planta sequera
+♉	bou brau horòscop horoscop taure toro zodíac zodiac
+🙎	arrufar les celles cara d’enfadada dona empipada enfadada enuig ganyota gest morros persona enutjada
+🐓	animal animals au aus gall ornitologia
+💓	amor batec bategant càrdio cardio cor que batega rosa emoció emocio t’estimo vibrant
+😟	cara de preocupació preocupacio estrès estres nerviós nervios nerviosa nervis preocupada preocupat sorprès sorpres sorpresa
+🕍	judaisme jueu jueva religió religio sinagoga temple
+👶	bebè bebe bebès bebes embarassada jove nadó nado nounat
+🌹	bellesa elegant flor planta rosa d’amor sant valentí valenti vermella
+🔧	clau eina fixa reforma de la llar
+🪂	ala delta fer paracaigudisme paracaigudes paracaigudista parapent
+🦨	fer pudor mofeta
+👩‍🏫	dona femení femeni instructora mestra professora
+🌷	cultiu flor floració floracio planta tulipa
+🥠	fortuna futur galeta de la sort profecia
+⛽	assortidor de gasolina benzina benzinera combustible
+⛎	ofiüc ofiuc portador serp serpentari zodíac zodiac
+🌋	erupció erupcio muntanya natura volcà volca
+🛬	arribada d’avió arribades arribant aterratge avió avio vehicle
+🔱	àncora ancora eina emblema marca de trident posidó posido vaixell
+💳	banc càrrec carrec cobrar crèdit credit diners efectiu pagar targeta de
+🏂	esport esquí esqui esquiar neu surf de surfista
+🔒	cadenat privat tancar tancat
+🔉	altaveu amb el volum mitjà mitja so
+🚑	ambulància ambulancia emergència emergencia urgència urgencia vehicle
+🥻	peça peca de roba sari vestit
+🈵	botó boto cap plaça placa lliure en japonès japones ideograma kanji ple
+🀄	drac joc mahjong vermell
+😠	cara culpa empipada empipat enfadada enfadat frustrada frustrat furiós furios furiosa infeliç infelic ira
+😚	cara que fa un petó peto amb els ulls tancats cita flirteig petonejar-se petons rubor t’estimo
+🧃	beguda bric de suc dolç dolc palla
+🦶	peu peus puntada de trepitjada turmell
+🙆	aprovació aprovacio braços bracos amunt cara d’acord exercici gest d’aprovació mans al cap persona amb els les fent el
+🎏	banderins de carpes carpa celebració celebracio
+💄	cita cosmètics cosmetics maquillatge pintallavis
+🚘	arribant automòbil automobil de cara que arriba cotxe cotxes proper
+😈	banyes cara somrient amb conte de fades dimoni fantasia foscor malvat somriure
+👓	complements roba ull ulleres vestuari
+😂	alegria cara amb llàgrimes llagrimes d’alegria divertida divertit feliç felic molt de riure mort plorant
+📂	arxiu arxius carpeta d’arxius oberta de fitxers fitxer
+👱	cabells curts rossos cara home persona amb i els rossa ros
+🌇	ciutat crepuscle edifici ocàs ocas posta de sol
+🪀	fluctuar io-io joguina
+🎾	pilota raqueta i de tennis tenis
+🔼	amunt botó boto d’anar d’apujar fletxa vermell
+🥝	fruita kiwi menjar
+🍙	arròs arros bola d’arròs japonès japones menjar onigiri
+🚜	agricultura tractor vehicle
+👨‍💼	arquitecte director gerent negoci oficina oficinista treballador d’oficina
+🥥	coco cocoter palmera pinya colada
+📈	a l’alça amunt i cap la dreta augment creixement dades gràfic grafic d’augment tendència tendencia
+🛐	culte lloc de oració oracio religió religio
+🚂	ferrocarril locomotora motor tren trens vagó vago de cua vapor vehicle viatge
+🈶	de pagament botó boto japonès japones ideograma kanji
+🪡	agulla de cosir brodat costura fil modista puntada sutura
+💏	amor aniversari aventura cita cor parella petó peto romàntic romantic
+🦐	crustaci gamba llagostí llagosti marisc menjar
+⏰	alarma despertador espera h hora hores rellotge retard tard
+🌟	brillant brillantor brillar centellejar espurna estrella nit victòria victoria
+🥮	festival pastís pastis de lluna pastisset tardor yuèbǐng yuebing
+🌗	espai lluna en l’últim quart minvant
+📀	blu-ray cd disc dvd equip òptic optic ordinador pc
+👩‍🏭	dona fàbrica fabrica industrial muntatge operària operaria treballadora
+🕙	10 10.00 22 22.00 deu en punt hora les rellotge
+🗽	estàtua estatua de la llibertat nova york ny
+👩‍🦼	accessibilitat cadira de rodes dona amb una motor elèctrica electrica motoritzada
+🚌	autobús autobus bus vehicle
+🛼	esport patí pati de rodes
+👨‍🦽	accessibilitat cadira de rodes home amb una manual
+😳	apa avergonyida avergonyit cara culpa enrojolada galtes vermelles impressionada impressionat incòmoda incomoda incòmode incomode incredulitat vergonya
+🫏	animal ase mamífer mamifer mula ruc somer tossut
+🌃	estel estrella estrelles nit estelada estrellada
+👇	avall dit índex index que apunta cap
+🥬	amanida bleda xinesa col enciam fulla verda hamburgueses kale
+🩴	xancleta de dit platja
+🤭	adonar-se sobtadament ai cara amb la mà ma sobre boca riure ximplet secret sorpresa tapant-se tenir el ups xoc
+🌽	blat de moro collita conrear cultiu dacsa moresc panís panis panotxa
+📢	alt altaveu de megafonia comunicació comunicacio so
+🔓	cadenat obert obrir tancar
+🍠	dolç dolc menjar moniato rostit
+🦵	cama doblegada flexionada extremitat genoll peu puntada de
+🧍	dempeus dret dreta persona
+🐼	animal bambú bambu cara de panda
+🕞	15.30 3.30 dos quarts de quatre hora rellotge
+🤣	cara que es peta de riure divertit ha hilarant llàgrima llagrima molt mort partir-se petar-se pixar-se plorar
+😉	cara que pica l’ullet flirteig picar provocar sexy trencacors ullet ullets
+🪓	clivellar cop de destral llenya tallar
+🎰	apostar apostes atzar casino escurabutxaques joc màquina maquina
+🍳	cuina esmorzar fàcil facil fregir ou ferrat paella restaurant
+😩	afamada afamat cansada cansat cara d’esgotament esgotada esgotament esgotat fracàs fracas infeliç infelic no plorant sentiments somnolent somnolenta trist trista
+🦽	accessibilitat cadira de rodes manual
+😮‍💨	alleujament cara que exhala exhalar exhaust xiulet xiuxiueig
+🪔	ble bricolatge làmpada lampada d’oli llàntia llantia llum oli
+♌	horòscop horoscop lleó lleo zodíac zodiac
+➗	÷ divisió divisio matemàtiques matematiques signe de dividir gruixut
+👩‍🎤	actriu artista cantant dona estrella del rock presentadora
+⚓	àncora ancora eina vaixell
+📞	auricular de telèfon telefon comunicació comunicacio voip
+🧘	amb les cames creuades ioga iogui lotus meditació meditacio pau persona en la posició posicio de meditant relax zen
+😺	animal boca cara gat somrient amb la oberta somriure
+💖	bona nit cor espurnejant emocionada emocionat espurna espurneig petons i abraçades abracades t’estimo
+🍣	cru menjar peix sushi
+💆	bellesa calmar cara mal de cap massatge facial persona que rep un al relax relaxació relaxacio relaxant saló salo spa tensió tensio
+🕓	16 16.00 4 en punt hora les quatre rellotge
+♑	cabra capricorn horòscop horoscop zodíac zodiac
+🪰	animal epidèmia epidemia insecte larva malaltia mosca blava podrit
+💲	bilió bilio càrrec carrec cobrar diners divisa dòlar dolar efectiu gran mil milions miliard milió milio moneda pagar signe de
+💚	amor cor emoció emocio romàntic romantic romàntica romantica t’estimo verd
+🚪	armari porta del darrere principal
+💉	agulla doctor doctora injecció injeccio contra la grip instrument mèdic medic malalt malalta medicina metge vacuna vacunació vacunacio xeringa
+🛘	allau desastre devessall muntanya perill roques terratrèmol terratremol
+🐰	animal cara de conill conillet mascota
+📆	bloc calendari de
+👨‍🦼	accessibilitat cadira de rodes home amb una motor elèctrica electrica motoritzada
+🤨	cara amb una cella aixecada desaprovació desaprovacio desconfiada desconfiat escèptic esceptic escèptica esceptica escepticisme incredulitat sorpresa
+🤹	circ home fent malabars que fa joc malabar malabarisme malabarista multitasca persona
+🫷	aturar bloquejar empènyer empenyer esperar esquerra mà ma que empeny cap a l’esquerra prou rebutjar xoca xocar
+🥉	bronze medalla de posició posicio tercer
+🧽	absorbent absorbir amarar esponja neteja netejar porosa
+🐨	animal austràlia australia coala marsupial os
+✨	* brillar centellejar espurna espurnes estrella màgia magia
+⛵	iot mar vaixell vehicle vela veler
+🌼	dent de lleó lleo flor floració floracio margarida planta ranuncle
+🏄	esport mar onada persona fent surf que fa platja surfista taula
+🧐	amb classe cara monocle estirada estirat ric rica
+📦	caixa comunicació comunicacio enviament lliurament paquet repartiment
+💮	blanca flor
+🪇	ball diversió diversio festa instrument maraques música musica percussió percussio ritme sacsejar sonall
+🤷	arronsar desconeixement dubte espatlles ignorància ignorancia indiferència indiferencia ni idea no ho sé se persona arronsant les dubtant que arronsa dubta
+🪎	bagul botí boti diners gemma joies or plata premi riquesa
+🧑‍🦼	accessibilitat cadira de rodes amb motor elèctrica electrica persona una
+🙌	celebració celebracio gest hurra lloança lloanca mans aixecades enlaire
+👨‍💻	codificador desenvolupador home inventor ordinador programador programari tecnòleg tecnoleg
+🪲	animal cuca escarabat insecte
+😜	cara que fa llengotes i pica l’ullet diversió diversio divertida divertit estrafolari estrafolària estrafolaria festa llengota llengua ull ullet
+🕗	20 20.00 8 en punt hora les vuit rellotge
+🥏	disc volador esport frisbee plat a gol ultimate
+📖	biblioteca coneixement educació educacio fantasia lectura llibre novel·les obert
+👨‍🚒	bomber camió camio de bombers home masculí masculi
+🆗	botó boto ok d’acord paraula
+🥓	bacó baco cansalada carn menjar porc viada
+🫤	cara amb la boca en diagonal d’escepticisme d’inseguretat de decepció decepcio confós confos confusió confusio decebut dubte dubtós dubtos escèptic esceptic frustració frustracio frustrat insegur m’és igual meh
+👨‍🎨	artista home masculí masculi paleta pintor
+🎨	art artista artístic artistic artística artistica creatiu creativa entreteniment museu paleta d’artista pintor pintora pintura
+🆔	botó boto id identificació identificacio identitat símbol simbol d’identificació
+🛺	bicitaxi amb motor rickshaw
+👌	acceptació acceptacio d’acord entesos genial impressionant mà ma d’acceptació ok perfecte senyal d’aprovació amb la
+❓	interrogació interrogacio puntuació puntuacio signe d’interrogació vermell
+📷	autofoto càmera camera foto instagram instantània instantania viatge vídeo video
+😥	alleujament cara de decepció decepcio complicada complicat decebuda decebut preocupada preocupat suor uf
+🚇	metro transport túnel tunel vehicle viatge
+🍯	mel menjar os pot de
+📄	amunt document pàgina pagina cap
+🪑	cadira seient seure
+🤦	cara exasperació exasperacio frustració frustracio incredulitat mà ma a la persona amb vergonya
+🍋	àcid acid àcida acida cítric citric fruita llimona planta
+🧟	esgarrifós esgarrifos halloween horror mort vivent por terror terrorífic terrorific walking dead zombi
+🧶	bola cabdell ganxet llana mitja
+🍓	baia fruita maduixa planta
+📇	fitxer rotatiu organitzador de targetes vella escola
+🌴	arbre palma palmera planta tropical
+🥷	assassí assassi guerrer lluitador ninja ocult persona sigil·lós
+🙂	cara que somriu una mica feliç felic somrient somriure tímid timid
+🎲	dau daus entreteniment joc de
+🤴	príncep princep reial reialesa
+🏰	castell construcció construccio edifici europeu
+🧆	cigró cigro croqueta falàfel falafel mandonguilla pilota
+🪩	ballar bola de miralls brillant discoteca festa
+💇	bellesa cabells cara perruqueria persona a la que es talla els tallada de tallar tallat
+😸	animal cara gat somrient amb els ulls alegres somriure obert
+💔	cor desolada desolat emoció emocio solitari solitària solitaria trencar trencat trist trista
+🍇	dionís dionis dionisi fruita planta raïm raim
+🐾	animal petjades d’animal potes
+🙇	capbaix capcot demanar perdó perdo disculpa gest inclinació inclinacio meditació meditacio meditar persona capbaixa capcota fent una reverència reverencia inclinant-se
+🧧	bona sort diners hóngbāo hongbao lai see regal sobre vermell
+🪷	bellesa budisme calma flor hinduisme índia india lotus pau puresa serenitat
+🤐	boca tancada callada callat cara amb cremallera a la mantenir secret silenci
+🫂	abraçada abracada adeu amistat amor gràcies gracies hola persones que s’abracen
+💦	aigua còmic comic entrenament entrenar-se esquitxada gota gotes de suor
+👨‍🚀	astronauta coet espai home
+😏	broma cap cara que somriu amb superioritat celles fatxenda flirteig mirada impúdica impudica murri múrria murria riure per sota el nas somriure astut de manera afectada
+🪝	atrapar corba ganxo ham pescar punt de venda
+🔂	botó boto de repetició repeticio única unica fletxa fletxes en sentit horari una vegada
+🎳	bitlles bola esport joc de ple
+🕥	10.30 22.30 dos quarts d’onze hora rellotge
+☕	beguda cafè cafe cafeïna cafeina calenta fumejant matí mati te xocolata
+🔡	abcd botó boto de lletres llatines en minúscules minuscules entrada

@@ -1,1261 +1,1261 @@
 # Mots-clés d'emoji en « nl » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	knop new
-🧑‍🤝‍🧑	hand in handen vasthouden koppeltje paar personen persoon samen stel
-◽	geometrisch klein tot middelgroot vierkant wit
-⛽	benzine benzinepomp benzinestation brandstof pomp station
-🔓	gekraakt slot geopend hangslot open openen
-👄	kus lippen mond open roze zoen
-🍴	bestek eten honger koken lekker lunch mes en vork ontbijt restaurant uit
-🏒	ijs ijshockey ijshockeystick en puck sport stick wedstrijd
-💦	druppels spetteren sporten strip water work-out zweet zweetdruppels
-🎐	bel feest wind windklokkenspel windorgel
-😼	gezicht gniffelende kat grimas ironisch ironische lach kattenkwaad ondeugend kattengezicht smiley spottend
-😉	flirten gezicht hartenbreker knipogen knipoog knipoogt plagerij sexy zwoel
-📛	badge kaartje naam naamkaartje
-🚉	spoor station trein treinstation vervoermiddel voertuig
-💌	brief met hart liefde liefdesbrief post romantiek valentijn
-🆘	help knop sos
-🛙	baken gids hoop licht maritiem navigatie signaal verlichting zee
-🍯	beer eten honing honingpot pot vat zoet
-😿	dier gezicht huilen huilend kat traan verdrietig
-🫜	biet groente raap tuin wortel
-😳	beschaamd gek gezicht heet hitte jeetje onder de indruk ongeloof ongemakkelijk sjonge verbaasd verbijsterd wat wauw
-🚨	alarm auto baken draaiend licht noodgeval politie sirene waarschuwing
-🚌	bus schoolbus vervoermiddel voertuig
-🌇	flatgebouwen gebouw metropool miljoenenstad schemer zon zonsondergang
-🔝	omhoog pijl top
-🙊	aap gebaar geen geheim gezicht kwaad niet oeps spreken stiekem uit den boze verboden
-🐙	dier oceaan octopus wezen
-🕦	11 11:30 23:30 30 dertig elf half twaalf klok tijd
-🕞	15:30 3 3:30 30 dertig drie half vier klok tijd
-🙌	feest gebaar hand handen hoera lof omhoog omhooggestoken
-🚗	auto automobiel rijden vervoermiddel voertuig
-🕥	10 10:30 22:30 30 dertig half elf klok tien tijd
-🥱	bed dutje gaap gapen geeuwen gezicht moe rusten saai slaap lekker slaperig vermoeid verveeld
-🐎	boerderij dier paard racen renpaard ruitersport
-👩‍🚒	brandweer brandweervrouw brandweerwagen vrouw
-🪉	cupido harp instrument liefde muziek orkestra
-🫁	adem ademhaling inademen lichaam longen lucht orgaan uitademen zuurstof
-📲	bellen mobiel met pijl mobiele telefoon ontvangen smartphone
-💚	groen hart hou van jou hvj romantisch xoxo
-📶	antenne communicatie mobiel signaal streep streepjes telefoon
-🫦	angst bezorgd flirten lippen mond die op lip bijt nerveus ongemakkelijk ongerust sexy
-🌅	ochtend zon zonsopgang
-🌂	dichte paraplu ingevouwen kleding regen weer
-🍲	pan soep stoofschotel voedsel
-🪜	klimmen ladder omhoog omlaag sport trede voorwerp
-✅	✓ afgevinkt check gedaan klaar knop markeren vink vinkje voltooid
-📑	bladwijzer bladwijzers bladwijzertabs markering tabbladen tabs
-👣	afdruk blote voeten kleding lopen onderweg voetafdruk voetafdrukken
-👀	gezicht kijken ogen omg ondeugend oog staren
-🤸	blij buiten gymnastiek olympische spelen persoon die een radslag doet sport turnen
-⭕	cirkel groot hol o rood vet
-😆	blij gesloten gezicht glimlachen grijnzend haha hahaha lach lachen lol mond ogen open rofl scheelzien
-🔄	déjà knop linksom pijl pijlen tegen de klok in vernieuwen vu weer
-🟢	cirkel groen
-🧗	alpinisme berg bergbeklimmen bergbeklimmer klimmen klimmende persoon klimmer sport
-🌟	fonkelen fonkelend schitteren schitterend schittering ster stralen stralende
-🤧	gezicht gezondheid griep koorts niezen niezend ziek
-🔛	on pijl teken
-🪫	accu batterij bijna leeg electronisch lege weinig batterijlading
-⏰	alarm klok tijd wekker
-🥕	groente voedsel wortel
-➿	dubbel krul krullend lus
-🥂	drinken glas glazen klinken toosten vieren
-🪲	beestje dier insect kever
-🩹	bloed pijn pleister snee verband wond ziekenhuis
-🟧	oranje vierkant
-📍	kaart kopspeld locatie ronde speld
-😽	dier gezicht kat kus kussend kattengezicht met gesloten ogen kussende oog smiley
-🐤	baby dier gevogelte kuiken kuikentje vogel
-🤵	bruiloft formeel persoon smoking
-🛼	hobby rollerskate rollerskates rolschaats rolschaatsen schaats skaten sport sporten
-🧩	aanwijzing gekoppeld legpuzzel passen passend puzzel puzzelstukje schakel stukje
-🛝	glijbaan glijden kind kinderen speeltuin spelen
-🔇	dempen geen geluid uit luidspreker mute speaker stil volume
-🏥	dokter gebouw medicijnen ziekenhuis
-🚔	auto hulpdienst naderend naderende politieauto politie tegemoetkomende politiewagen vervoermiddel voertuig
-💶	bankbiljet biljet briefgeld briefje euro eurobiljet geld valuta
-🥭	eten fruit mango tropisch
-🫂	bedankt dag hallo knuffel knuffelen liefde omhelzing personen in een persoon vriendschap
-🔳	geometrisch knop omlijnd vierkant wit
-💹	bank geld grafiek groei markt stijging toenemend trend valuta yen
-🧺	boeren landbouw mand oogsten picknick wasgoed wasmand
-😖	bah boos gefrustreerd geïrriteerd gezicht onthutst smiley verdrietig verwarring
-🔐	beveiligd gesloten slot met sleutel slok
-🈯	gereserveerd ideogram japans knop
-🏦	bank gebouw
-🍧	dessert geschaafd ijs restaurant zoet
-🧍	persoon staan staand
-🟠	cirkel oranje
-⛔	belemmerd doorgang geen ingang mislukt niet toegang verboden verkeer
-✊	gebald hand opgeheven solidariteit stoot vuist
-🌜	avond gezicht kwartier laatste maan in met ruimte slapen
-😹	dier gezicht kat lach lachen lol traan tranen vreugde
-🧾	administratie bewijs boekhouden boekhouding bonnetje factuur kassabon kwitantie rekening
-🪩	dans dansen disco discobal feest glitter spiegelbal
-🏇	jockey paard paardrijden racen renpaard sport
-👦	jong jongen kind persoon
-🏸	badminton badmintonracket en shuttle pluimbal racket sport wedstrijd
-🥜	eten groente noot pinda pinda’s
-📱	bellen communicatie mobiel mobiele telefoon smartphone
-🕎	hannuka jodendom joods kandelaar menora religie
-🚙	auto kampeerauto recreatie rijden suv vervoermiddel voertuig
-🖤	hart kwaad slecht verdorven zwart
-🪬	amulet bescherming fatima geluk hamsa hand handpalm maria mirjam oog
-🚴	fiets fietsen fietser persoon sport wielrennen
-🍷	alcohol bar café drankje drinken glas restaurant wijn wijnglas
-💊	dokter geneeskunde medicatie medicijn pil vitamine ziek
-🍀	4 blad geluk iers klaver klavertjevier plant vier
-🪌	correctie fout ongedaan maken schrappen schrijven tekenen vergissing verwijderen wissen wrijven
-😷	besmet dokter doktersmasker gezicht met masker koud medicijn medisch smiley virus ziek
-📆	kalender scheurkalender
-🙉	aap dier gebaar geen geheim gezicht horen kwaad luisteren niet uit den boze verboden wil
-💱	bank geld valuta wisselen
-🩻	borstkas botten dokter medisch ribben röntgenfoto skelet ziek ziekenhuis
-🏠	gebouw huis settelen thuis villa voorstad vrijstaande woning
-📙	bibliotheek boek educatie lezen onderwijs oranje
-🥔	aardappel groente voedsel
-💮	bloem wit
-🥌	curling curlingsteen kei spel sport steen
-💩	drol grappig monster poep met gezichtje smiley stinkt
-🍳	bakken ei gemakkelijk koken ontbijt pan restaurant spiegelei
-🦈	dier haai vis
-🌼	bloem bloesem boterbloem paardenbloem plant
-😜	gezicht met uitgestoken tong en knipoog grap grapjas oog plagen smiley
-🪁	buiten opstijgen spelen vliegen vlieger zweven
-⛎	dierenriem drager horoscoop ophiuchus serpent slang slangendrager
+🧑‍🧑‍🧒‍🧒	gezin kind volwassene
 🍾	bar drinken fles knallen kurk
-🧇	besluiteloos ijzer ontbijt wafel
-🛞	auto band cirkel draaien velg velgen vervoer voertuig wiel
-📜	papier papierrol perkament perkamentpapier rol
-🧎	knieën knielen knielend persoon
-🌕	avond maan ruimte vol volle
-💽	computer disk harddisk minidisc optisch
-💙	blauw emotie hart hou van jou hvj liefde romantiek
-📏	liniaal meetinstrument meten rechte lijn wiskunde
-🥡	afhaalmaaltijd bezorgen doggybag eten oesteremmer stokjes voedsel
-🕔	00 05:00 17:00 5 5:00 klok uur vijf
-🤩	gezicht grijnzend lach ogen opgewonden ster sterren als in de wauw
-🟦	blauw vierkant
-🐍	dier dierenriem drager ophiuchus serpent slang
-🐉	dier draak ridders sprookje
-🪎	buit edelsteen geld goud juwelen kostbaarheden prijs rijkdom zilver
-💯	100 punten beste cijfer fantastisch foutloos getal geweldig maximumscore score top zeker
-🌝	avond gezicht helder heldere maan ruimte vol volle met
-♏	dierenriem horoscoop schorpioen scorpio scorpius
-🪞	make-up opmaken reflectie reflector speculum spiegel spiegelbeeld spiegels voorwerp weerspiegeling
-💅	beauty cosmetica hand lak manicure nagel nagellak nagels lakken verzorging
-🫫	afbrokkelend brekend maskeren onthullen spanning transformatie weerbarstig
-🈁	hier japans katakana knop
-🍵	drankje drinken kop thee theekopje zonder oor
-⏳	tijd timer zand zandloper met stromend
-🌙	avond halvemaan maan maansikkel ramadan ruimte sikkel slapen
-🤭	geheim geschrokken gezicht met hand over de mond giechelen oeps smiley verrast
-🥗	eten groen salade
-🈹	ideogram japans knop korting
-🔔	bel kerkklok klok luiden pauze rinkelen
-🦹	crimineel kwaad schurk slecht superkracht superschurk
-🙎	humeurig persoon pruilen pruilend pruilende vrouw pruillip skeptisch teleurgesteld uitdrukking
-🫴	aanbieden hand handpalm omhoog kom vangen wenken
-👨‍🦽	handmatig man rolstoel toegankelijkheid
-🙇	buigende man persoon buiging diepe excuses gebaar die maakt sorry spijt verontschuldiging
-🔈	laag volume luidspreker speaker zacht
-🍋‍🟩	citrus cocktail fruit groen limoen margarita sap tropisch vrucht zuur
-🪖	helm krijger leger legerhelm militair oorlog soldaat vechter voorwerp
-🪰	dier insect made ongedierte rottend vlieg ziekte
-👧	dochter enthousiast jong maagd meisje persoon staartjes sterrenbeeld
-🍂	blad gevallen herfst vallend
+🉑	acceptabel ideogram japans knop
+👩‍🔧	elektricien handelsman loodgieter monteur vrouw
+📱	bellen communicatie mobiel mobiele telefoon smartphone
+👩‍💼	ambtenaar architect bedrijf kantoor manager vrouw werknemer
+👽	alien buitenaards fantasie gezicht monster ruimte sprookje ufo wezen
+🍍	ananas eten fruit tropisch voedsel
+😊	blozen gelukkig gezicht glimlach glimlachen ogen oog tevreden
+🛸	aliens buitenaards buitenaardse wezens science fiction ufo vervoermiddel vliegende schotel voertuig
+♿	handicap rolstoel symbool toegang
+🪆	baboesjka baboesjka’s genest matroesjka pop poppetjes rusland russisch
+👈	achterkant hand links vinger wijs wijsvinger wijzen
+🐤	baby dier gevogelte kuiken kuikentje vogel
+🍬	dessert eten gaatjes snoep voedsel wikkel zoet
+👨‍🍳	chef-kok kok man
+😣	concentratie concentreren focus gezicht hoofdpijn volharden volharding
+🫯	debat onenigheid ruzie tumult vechtpartij woordenwisseling worsteling
+🥂	drinken glas glazen klinken toosten vieren
+🤜	naar rechts rechtsom vuist
+🎽	atletiek hardloopshirt hardlopen shirt sjerp sport
+🎎	feest festival japans japanse poppen pop viering
+📺	beeld beeldbuis televisie tv
+🌜	avond gezicht kwartier laatste maan in met ruimte slapen
+👀	gezicht kijken ogen omg ondeugend oog staren
+🫖	drinken eten pot thee theepot zettten
+🦚	dier kleurrijk mooie vogel opzichtig pauw pauwhen pronkerig trots als een
+🫧	bad bubbel bubbels onderwater schoon wassen zeep zeepbellen
+📑	bladwijzer bladwijzers bladwijzertabs markering tabbladen tabs
+👡	damessandaal hak hoge kleding muiltje sandaal schoen met open teen vrouw
+💺	stoel treinstoel vliegtuigstoel
 🍝	eten gehaktballen pasta restaurant spaghetti
-🧑‍🦼	persoon in elektrische rolstoel toegankelijkheid
-🏂	ski sneeuw snowboard snowboarder sport
-🏬	gebouw warenhuis winkel winkelen
-🤾	bal gooien handbal persoon die speelt sport springen worp
+🚿	douche douchekop water
+🦜	dier lorre napraten papegaai piraat praten vogel
+🪯	khanda religie sikh
+🏣	gebouw japans postkantoor post
+🏭	fabriek gebouw
+🤍	hart liefde symbool wit
+🥢	chopsticks eetstokjes eten stokjes
+🏥	dokter gebouw medicijnen ziekenhuis
+🙈	aap beschaamd dier gebaar geen gezicht kwaad niet kijken schaamte uit den boze verboden verlegen wil zien zie
+🐱	dier gezicht huisdier kat kitten
+🪁	buiten opstijgen spelen vliegen vlieger zweven
+🤖	gezicht monster robot
+🫄	baby buik opgeblazen persoon vol zwanger
+🔑	beveiligd op slot openen sleutel wachtwoord
+🤡	clown gezicht
+🫍	oceaan walvis zee
+🐹	dier gezicht hamster huisdier
+🥟	dumpling empanada gyōza gyoza jiaozi pierogi potsticker
+🔪	keukenmes koken koksmes mes wapen
+👙	bikini kleding zwembad zwemkleding zwemmen
+🚸	kind kinderen oversteekplaats verkeer voetganger
+◾	geometrisch klein tot middelgroot vierkant zwart
+🫎	dier eland gewei zoogdier
+🫳	hand handpalm omlaag laten vallen oprapen wegjagen wegsturen
+🎵	achtste noten muziek muzieknoot noot
+🚷	nee niet verboden voetganger voetgangers
+🦫	bever dam dier tanden
+🦪	duiken oester parel
+🛌	bed deken dutje goedenacht hotel moe persoon in slaap slaapwel slapen vermoeid welterusten zzz
+🎹	instrument keyboard muziek muziekinstrument piano
+🫩	gezicht met wallen onder de ogen moe slaperig uitgeput
+🥨	gedraaid krakeling pretzel
+🦅	adelaar dier ornithologie vogel
+💐	afspraakje bedankt beterschap bloem boeket date jubileum romantiek verjaardag
+👜	accessoire handtas kleding modieuze tas winkelen
+🈳	ideogram japans knop plaats vrij
+🐟	dier eten pisces sterrenbeeld vis vissen
+🫁	adem ademhaling inademen lichaam longen lucht orgaan uitademen zuurstof
+👨‍🎤	acteur entertainer man rock rockster ster zanger
+🛖	huis hut joert onderdak ronde strand woning
+🍀	4 blad geluk iers klaver klavertjevier plant vier
+🪕	banjo besnaard instrument muziek snaarinstrument spelen
+😌	gezicht kalmte opgelucht opluchting vrede zen
+🐺	dier gezicht wolf
+🦣	dier groot mammoet slagtand uitsterven wollig
+🦆	dier eend vogel woerd
+🦢	dier jonge zwaan lelijk eendje vogel zwanenjong
+🛷	rodelen roetsjen slede slee sleeën sleeen sleetje sneeuw
+😍	gevoelens gezicht hartjes hartjesogen kussen lach liefde oog romantiek schatje
+🌓	avond kwartier maan in eerste ruimte
+🪣	aker dweil dweilen emmer poetsen putemmer schoonmaken vat voorwerp water
+👾	alien buitenaards game gezicht monster pixels ruimte space invader spel ufo videogame wezen
+🔔	bel kerkklok klok luiden pauze rinkelen
+🩳	badpak broek korte ondergoed pak zwem
+🖖	hand leef lang en voorspoedig spock star trek vinger vulcaanse groet vulcan vulcangroet
+👯	bestie bff dansen danser danseressen feesten konijnenoor konijnenoren meisje mensen met personen tweeling vriendinnen vrouw
+🥌	curling curlingsteen kei spel sport steen
+🎺	instrument muziek muziekinstrument trompet
+🌑	avond donker maan maansverduistering nieuwe ruimte
+👆	achterkant hand omhoog vinger wijs wijsvinger wijzen
+🧑‍🌾	boer tuinder veehouder
+🥧	fruit gebak gebakje hartige taart pastei vlees vulling
+📠	communicatie fax faxapparaat
+😆	blij gesloten gezicht glimlachen grijnzend haha hahaha lach lachen lol mond ogen open rofl scheelzien
+🧣	koud nek sjaal
+🐖	boerderij dier spek varken zeug
+🛜	computer draadloos internet netwerk
+🍉	fruit watermeloen
+🪮	afro haar haarkam kam kroes
+💠	diamant geometrisch stip strip
+🛹	board deck skate skateboard skaten skater wielen
+📲	bellen mobiel met pijl mobiele telefoon ontvangen smartphone
+🚳	fiets fietsen nee niet verboden
+🤑	betaald geld geldmond gezicht mond
+🚅	hoge snelheid kogeltrein neus reizen shinkansen spoorweg trein
+📒	grootboek map notitieboek ringband schrift
+🧂	gezouten overstuur smaak specerij zout zoutvaatje
+🫪	geschokt kwetsbaar onrust opgeblazen paniek verrast
+🧞	aladin djinn fantasie geest in de fles lamp mythe sprookje wens
+🍭	dessert eten lolly snoep voedsel zoet
 🌳	boom bos groen habitat loofboom verliezen
-🏐	bal volleybal wedstrijd
-🧴	crème huidcrème hydraterende lotion flacon lotionfles moisturizer shampoo zonnebrandcrème zonnebrandolie
-💨	cartoonesk moet gaan rennen rook scheet strip vertrokken weg wegrennen wind
+🚤	boot jacht luxe miljonair reizen speedboot vaartuig zomer
+👵	dame grootmoeder oma oud ouder volwassene vrouw wijs
+🐈‍⬛	dier halloween kat katachtig miauw pech zwart
+🚉	spoor station trein treinstation vervoermiddel voertuig
+🚐	bus minibus vervoermiddel voertuig
+❔	contour interpunctie teken vraag wit
+🔐	beveiligd gesloten slot met sleutel slok
+👰	bruiloft persoon sluier
+🧠	hersenen intelligent slim
+🔚	end pijl
+🥁	drummen drums drumsticks muziek muziekinstrument trommel trommelen trommelstokken
+🛶	boot kajak kano vaartuig vervoermiddel
+😨	angst angstig bang bezorgd gezicht schuld
+🥫	blik ingeblikt voedsel
+🎈	ballon feest jarig verjaardag vieren viering
+🤏	beetje gebaar voor kleine hoeveelheid hand met samengeknepen vingers klein weinig
+🐕‍🦺	assistentie dier hond hulp toegankelijkheid
+🦑	dier inktvis voedsel weekdier
+🍹	alcohol bar club drankjes drinken dronken mai tai mix tropisch drankje
+🦂	schorpioen scorpio scorpius sterrenbeeld
+💴	bankbiljet biljet briefgeld briefje geld valuta yen yenbiljet
+🫹	dat dit grip links neutraal wijzen
+➖	- − dikgedrukt min teken wiskunde
+🚏	bus bushalte halte
+🎱	8 ball 8-ball acht bal biljart pool spel
+🥡	afhaalmaaltijd bezorgen doggybag eten oesteremmer stokjes voedsel
+🪳	bakkerstor dier insect kakkerlak plaag
+🔜	onderweg pijl soon zo terug
+🏪	boodschappen gebouw supermarkt winkel
+🍊	c citrus fruit mandarijn nectarine sinaasappel vitamine
+👑	adel game of thrones kleding koning koningin koninklijk kroon middeleeuwen vorst vorstin
+🕖	00 07:00 19:00 7 7:00 klok tijd uur zeven
+💟	decoratief hart emotie hartdecoratie paars wit
+🚱	droog geen drinkwater niet drinkbaar verboden water
+👣	afdruk blote voeten kleding lopen onderweg voetafdruk voetafdrukken
+🍅	fruit groente tomaat voedsel
+📰	dagblad krant nieuws nieuwsblad voorpagina weekblad
+🟢	cirkel groen
+🚆	aankomst spoor trein vertrek vervoermiddel voertuig
+⚪	cirkel geometrisch wit
+🪞	make-up opmaken reflectie reflector speculum spiegel spiegelbeeld spiegels voorwerp weerspiegeling
+🐈	dier dieren huisdier kat katten kitten
+🦒	dier giraffe vlekken
+🌾	aar graan granen plant rijst rijstaar
+📎	clip paperclip
+🐎	boerderij dier paard racen renpaard ruitersport
+🪉	cupido harp instrument liefde muziek orkestra
+🎊	bal confetti confettibal feest hoera jarig verjaardag viering
+⏬	dubbel knop omlaag pijl snel
+🧳	bagage inpakken koffer reis reizen rolkoffer trolley
 🪱	dier parasiet regenworm ringworm worm
-🫕	chocolade eten fondue gesmolten kaas pot ski
-🕧	00:30 12 12:30 30 dertig half één klok tijd twaalf uur
-🥣	cornflakes eten kom met lepel muesli ontbijt ontbijtgranen pap soep voedsel
+🍸	alcohol bar café cafe cocktail cocktailglas drinken glas mad men martini
+🏫	gebouw school
+🧑‍🦯	blind persoon met taststok toegankelijkheid
+🫔	eten mexicaans pamonha tamale verpakt
+🥦	broccoli kool wild
+💂	bewaker buckingham palace londen wachter
+🧴	crème creme huidcrème huidcreme hydraterende lotion flacon lotionfles moisturizer shampoo zonnebrandcrème zonnebrandcreme zonnebrandolie
+🚙	auto kampeerauto recreatie rijden suv vervoermiddel voertuig
+🫃	buik man opgeblazen te veel eten vol zwanger
+🔽	beneden knop omlaag pijl rood
+🍱	bento box voedsel
+🏈	american football amerikaans bal sport super bowl
+🪻	bloem hyacint lavendel leeuwenbek lupine vlinderbloemige
+😧	bang gekweld gezicht lijden lijdend ontevreden smiley stress verrast
+🤔	afvragen denken gezicht hmm kin nadenken nadenkend overwegen
+👩‍🍼	baby borstvoeding mama moeder oppas pasgeboren voeden voeding vrouw
+🛝	glijbaan glijden kind kinderen speeltuin spelen
+👷	bouw bouwvakker helm klusser man persoon renovatie renoveren werk
+🪒	baard badkamer mesjes scheermes scheren scherp voorwerp
+🕔	00 05:00 17:00 5 5:00 klok uur vijf
+🪬	amulet bescherming fatima geluk hamsa hand handpalm maria mirjam oog
+🧻	closetrol keukenrol papieren handdoek rol papier toiletpapier toiletrol wc-papier wc-rol
+🕜	1 1:30 13:30 30 dertig een één half twee klok tijd
+🆕	knop new
+🏆	beker gewonnen kampioen overwinning prijs trofee winnaar
+🐗	dier varken zwijn
+📊	diagram grafiek staaf staafdiagram staafgrafiek
+🤒	gezicht met thermometer niet lekker ziek
+🫢	bang geschokt gezicht met open ogen en hand over de mond voor ongeloof ontzag schaamte smiley verbazing verrassing
+🖕	hand midden vinger
+💹	bank geld grafiek groei markt stijging toenemend trend valuta yen
+🟤	bruin cirkel
+👅	lichaam lik slurp tong
+🪧	bord demonstratie mars plakkaat poster protest protesteren slogan voorwerp
+🧹	bezem bezemsteel heks schoonmaken vegen
+🐩	dier hond pluizig poedel
+🔥	brand heet hulpmiddel vlam vuur
+💙	blauw emotie hart hou van jou hvj liefde romantiek
+🤳	camera selfie telefoon
+👞	formeel herenschoen kleding leren schoen man nette
+👥	bff buste bustes in silhouet schaduw van twee personen vrienden
+🤸	blij buiten gymnastiek olympische spelen persoon die een radslag doet sport turnen
+😓	angstzweet bang dichtgeknepen ogen gezicht met koud neerslachtig zweetdruppel nerveus smiley zweet
+🐮	boe boerderij dier gezicht koe melk
+♋	cancer dierenriem horoscoop kreeft
+👨‍🌾	boer man tuinder veehouder
+🤚	achterkant van opgeheven hand achterzijde opgestoken omhoog handrug rug vijf vingers
+🌊	golf golfsurfen golven japan kanagawa oceaan surfen water weer zee
+🪦	begraafplaats begrafenis dood graf grafsteen grafzerk kerkhof overleden voorwerp
+🚻	plee toilet wc
+👨‍🏫	docent instructeur leraar man professor
+🔌	elektriciteit elektrisch stekker
+🔤	abc alfabet invoeren latijns letters
+👄	kus lippen mond open roze zoen
+🙄	gezicht ogen rollen met de schaduw ugh wat dan ook
+🌐	aarde internet meridianen wereld wereldbol met www
+🐻	beer dier gezicht grizzly grommen honing
+👚	blouse dames dameskleding kleding shirt
+🔋	batterij
+🕛	00 12 12:00 klok tijd twaalf uur
+💁	brutaal hand ophouden hulp informatie knikken persoon achter informatiebalie roddelen sarcasme sarcastisch uitleg geven vrouw met omhoog
+🧮	abacus berekenen optellen rekenen rekenmachine tellen telraam
+🧪	chemicus experiment lab laboratorium reageerbuis scheikunde scheikundige wetenschap
+🏒	ijs ijshockey ijshockeystick en puck sport stick wedstrijd
+😀	blij fijn gezicht glimlachen grijns grijnzend lach lachen leuk tanden vrolijk
+🎭	kunst masker maskers optreden theater toneel toneelkunst toneelkunsten treurspel
+🐑	blaten boerderij dier lam ooi schaap vrouwelijk wol wollig
+🧇	besluiteloos ijzer ontbijt wafel
+🍲	pan soep stoofschotel voedsel
+🚁	helikopter roflcopter roflkopter vervoermiddel voertuig
+🧓	bejaard genderneutraal niet nader omschreven geslacht oud ouder persoon oudere volwassene
+🫴	aanbieden hand handpalm omhoog kom vangen wenken
+⛳	golf hole sport vlag in
+🥖	brood eten frans stokbrood
+🍛	curry rijst voedsel
+🥜	eten groente noot pinda pinda’s
+🍈	fruit kanteloep meloen
+🤥	gezicht leugen leugenaar liegen pinokkio
+🤿	duikbril duiken duikmasker onder water scuba scubaduiken snorkelen vis zee
+😎	bril chillen cool gaaf geweldig gezicht glimlach ontspannen stijl stoer strand zonnebril
+💑	hart jubileum liefde personen relatie romantiek stel met stelletje verliefd
+🚖	auto’s geel naderend rijden roepen taxi
+🙏	alsjeblieft bedankt bidden buigen dank gebaar gebed geef me de vijf gevouwen handen gezegend hand tegen elkaar high five smeken vragen
+🦔	dier egel stekelig
+😬	gezicht met grimas grimasgezicht grinniken niks oeps ongemakkelijk smiley tanden op elkaar
+🏠	gebouw huis settelen thuis villa voorstad vrijstaande woning
+🗻	berg fuji natuur vulkaan
+🐕	dier dieren hond honden huisdier
+🐥	baby dier gevogelte kuiken naar voren kijkend kuikentje vogel
+🦏	dier neushoorn
+🧤	hand handschoenen
+😹	dier gezicht kat lach lachen lol traan tranen vreugde
+🥴	aangeschoten beneveld beschonken dronken duizelig gezicht mond ogen scheel wazig
+➰	gedraaid gekrulde lus
+🚄	hogesnelheidstrein hsl shinkansen snelheid spoor trein ultrasnel vervoermiddel voertuig
+🐔	dier gevogelte kip
+🤼	duel olympische spelen personen die worstelen sport toernooi worstelaar
+🍚	gekookt rijst voedsel
+🏯	gebouw japans kasteel
+🩲	onderbroek ondergoed slip sporten strand zwembroek zwemgerief zwemkleding zwemmen
+🦺	gevaarlijk noodgeval veilig veiligheid veiligheidsvest vest
+🔹	blauw diamant geometrisch klein
+🔊	hard hoog volume luid luidspreker speaker
+🫝	condiment fermenteren ingemaakt komkommer kruiderij zuur
+🧑‍🔬	bioloog ingenieur natuurkundige scheikundige wetenschapper
+🕺	dansen dansende man disco feest festival flamenco persoon salsa tango
+🧙	fantasie heks magie magiër magier spreuk sprookje tovenaar tovenares
+🥄	bestek lepel tafelgerei
+🦃	dier gevogelte kalkoen
+🤵	bruiloft formeel persoon smoking
+💈	kapper kapperspaal kapsel paal
+🌏	aarde australië australie azië azie wereld wereldbol met azië-australië
+🎿	laars en skis ski ski’s skiën skien skischoen sneeuw sport wintersport
+👩‍🔬	biologe ingenieur natuurkundige scheikundige vrouw wetenschapster wiskundige
+👨‍🏭	arbeider fabriek industrieel lopende band man
+🫛	bonen dop edamame erwt erwtendop groente peul peulvrucht
+🔃	met de klok mee opnieuw laden pijl pijlen verticaal verversen
+🚡	baan gondel kabel kabelbaan transportbaan vervoermiddel voertuig
+🐧	antarctica dier pinguïn pinguin vogel
+🚼	baby symbool verschonen
+💃	dansen dansende vrouw met rode jurk danseres elegant feest flamenco persoon salsa tango
+👨‍🎓	man scholier student
+🌍	aarde afrika europa wereld wereldbol met europa-afrika
+🏴	vlag wapperend zwart zwarte
+🔵	blauw cirkel geometrisch
+📡	antenne communicatie satelliet satellietschotel schotel
+📝	aantekeningen memo opmerkingen papier potlood
+🐯	dier gezicht groot kat roofdier tijger
+👦	jong jongen kind persoon
+📤	brief mail post postvak uit uitgaand verzonden
+🥃	glas likeur shot tumbler whiskey whisky
+🐢	dier schildpad waterschildpad
+🎁	cadeau cadeautje cadeauverpakking met strik feest ingepakt verpakking
+👺	fabel fantasie gezicht japans kobold masker monster mythologie smiley sprookje tengu wezen
+🧑‍🚀	astronaut raket
+👬	beste vrienden bff broers daten flirten hand jongens paar schatje tweeling vasthouden
+♓	dierenriem horoscoop pisces vissen
+🐪	bult dier dromedaris één een kameel woestijn
+🦗	dier insect krekel orthoptera sprinkhaan
+🛑	achthoekig bord stop stopteken verkeersteken
+🪽	engelachtig luchtvaart mythologie vleugel vliegen vogel
+🚰	drink drinkbaar water
+🥗	eten groen salade
+🍃	blad blazen fladderen wind
+🥚	ei ontbijt voedsel
+🌯	burrito mexicaans wrap
+🚹	heren man plee toilet urinoir wc
+🐦‍🔥	as fantasie feniks hergeboorte herrezen mythe reïncarnatie reincarnatie vogel vuurvogel
+🦝	dier nieuwsgierig sluw wasbeer
+🔙	back pijl
+🚎	bus tram trolley trolleybus vervoermiddel voertuig
+⏩	dubbel knop pijl snel vooruit
+👻	boe fantasie geest gezicht halloween monster spook met tong uit mond sprookje uitgestoken wezen
+📼	band film vhs video videoband
+🎇	afsteken feest jaarwisseling knal oud en nieuw oudejaarsavond sterretje viering vuurwerk vuurwerksterretje
+📔	boek decoratief notitieboekje omslag opleiding school schrijven versierd
+🕒	00 03:00 15:00 3 3:00 drie klok tijd uur
+🥾	backpacken bruin buiten kamperen laars schoen wandelen
+🍼	baby babyfles babyflesje drinken fles flesje flesvoeding geboorte melk
+📧	brief e-mail mail post
+🎫	entree entreekaartje kaartje ticket toegang toegangskaartje
+💶	bankbiljet biljet briefgeld briefje euro eurobiljet geld valuta
+🌁	mist mistig
+🥛	drinken glas melk
+🤱	baby borst borstvoeding de geven persoon
+🦕	brachiosaurus brontosaurus dinosaurus diplodocus sauropode
+📣	communicatie geluid gouden megafoon juichen versterken
+🦧	aap dier orang-oetang
+📫	brievenbus gesloten met vlaggetje omhoog post postbus
+🌿	blad kruid plant
+🦈	dier haai vis
+🥽	bescherming bril duik duiken lassen oog zwemmen
+🚧	barricade bouwwerkzaamheden werkzaamheden
+😼	gezicht gniffelende kat grimas ironisch ironische lach kattenkwaad ondeugend kattengezicht smiley spottend
+🐝	bij dier hommel honing honingbij insect lente natuur
+🧑‍🎨	kunstenaar palet
+🪚	afzagen gereedschap hout houtzaag timmeren timmerman voorwerp zaag zagen
+🧌	fantasie monster trol trollen
+🪜	klimmen ladder omhoog omlaag sport trede voorwerp
+🍢	eten kebab oden restaurant spies stokje zeevruchten
+🎬	actie entertainment film filmklapper filmset klapbord klapper opnames
+🤝	deal hand handdruk overeenkomst schudden vergadering
+🛄	aangekomen bagage ingecheckt inpakken klaar koffer ophalen reis reisje reizen tassen vliegtuig
+💍	bruiloft diamant glinsteren ring romantiek schitteren trouwen verloving
+✅	✓ afgevinkt check gedaan klaar knop markeren vink vinkje voltooid
+💡	elektrisch gloeilamp idee lamp licht peertje strip
+🤠	cowboy cowgirl gezicht hoed
+🔆	helder helderheid knop licht
+🩷	hart leuk liefde roze schattig
+🧥	blazer brr jack jas koud warm aankleden
+🚥	horizontaal verkeerslicht licht stoplicht verkeer verkeerslichten
+🏀	bal basket basketbal sport
+🚃	elektrisch spoor tram trein treinwagon trolleybus vervoermiddel voertuig wagon
+🥍	bal doel lacrosse sport stick
+🏓	bal bat batje pingpong sport tafeltennis wedstrijd
+🫚	bier gember gemberwortel specerij wortel
+🪨	betrouwbaar graniet rots rotsblok steen sterk zwaar
+🎐	bel feest wind windklokkenspel windorgel
+🥤	beker met rietje drinken frisdrank sap water
+🙍	bedroefd frons fronsend persoon fronzen teleurgesteld uitdrukking verdrietig verontrust vrouw
+🩶	grijs hart leigrijs zilver
+🪏	gat graven schep schop spade
+🔅	dimmen helderheid knop voor lagere laag
+🦀	dierenriem krab kreeft
+🍌	banaan fruit kalium
+👨‍🔧	elektricien handelsman loodgieter man monteur
+🔯	geluk jodendom joods met stip ster zespuntig
+🧑‍🏭	arbeider fabriek industrieel lopende band
+🎑	ceremonie feest maan maanceremonie maanobservatieceremonie viering
+🏩	gebouw hotel liefde liefdeshotel love-hotel lovehotel
+🏐	bal volleybal wedstrijd
+📬	brievenbus open met vlaggetje omhoog post postbus
+📐	driehoek geo geodriehoek liniaal meetinstrument meten wiskunde
+🪟	doorzichtig frisse lucht kijken kozijn opening raam raamkozijn uitzicht venster voorwerp
+👨‍🔬	bioloog ingenieur man natuurkundige scheikundige wetenschapper wiskundige
+🍆	aubergine groente
+🪤	aas kaas lokken muizenval strik valstrik vangen
+👩	dame volwassene vrouw
+🐭	dier gezicht muis
+🍻	alcohol bar bier café cafe drinken glas klinkende bierglazen proosten proostende
+🧝	elf fantasie folklore in de ban van ring-stijl legolas lotr-stijl magisch mythe
+😙	143 afspraakje daten flirten gesloten gezicht ik hou van je kus kussen lach lachen liefde nacht ogen oog
+🐘	dier olifant
+❕	contour interpunctie teken uitroep wit
+🤧	gezicht gezondheid griep koorts niezen niezend ziek
+🦤	dier dodo groot ornithologie uitsterven vogel
+➕	+ plus
+🈴	cijfer ideogram japans knop voldoende
+🥺	alsjeblieft genade gezicht grote ogen smeken smekend smekende blik smiley verdrietig waarom niet zielig
+🧱	baksteen bakstenen cement gemetseld klei metselen mortel muur steen
+🟧	oranje vierkant
+🛒	boodschappen shoppen wagen wagentje winkelen winkelwagen
+🥯	bagel bakkerij brood ontbijt spread
+💯	100 punten beste cijfer fantastisch foutloos getal geweldig maximumscore score top zeker
+🎢	achtbaan baan pretpark
+🆖	knop ng
+🌱	jong plant spruit stekje zaailing
+👍	+1 duim goed hand ja leuk omhoog
+🙁	fronsen fronsend gezicht licht verdrietig
+🐠	dier tropisch vis vissen
+🎀	feest roze lint strik viering
+🏦	bank gebouw
+🔴	cirkel geometrisch rood
+🟰	dikgedrukt gelijk gelijkheid is aan teken uitkomst wiskunde
+🛕	gebouw geloof goden hindoe hindoetempel india religie tempel
+🚚	bestelbus bestelwagen bezorging bus levering pakketdienst truck vervoermiddel voertuig
+🌻	bloem buiten plant zon zonnebloem
+🤎	bruin hart liefde symbool
+🐷	boerderij dier gezicht spek varken
+💣	bom cartoonbom explosie gevaarlijk ontploffing strip
+🚠	berg bergkabelbaan gondel kabel skilift vervoermiddel voertuig
+🟨	geel kaart penalty vierkant
+🕤	09:30 21:30 30 9 9:30 dertig half tien klok negen tijd
+✋	5 hand hoog opgeheven stop vijf
+🤛	linksom naar links vuist
+🈸	ideogram japans knop toepassing
+🌺	bloem hibiscus plant
+🧁	bakkerij cupcake dessert hagelslag suiker traktatie zoet
+✊	gebald hand opgeheven solidariteit stoot vuist
+👭	beste vrienden bff daten flirten hand meisjes paar schatje tweeling vasthouden vrouwen zussen
+🌂	dichte paraplu ingevouwen kleding regen weer
+🍺	alcohol bar bier bierglas café cafe drinken duitsland glas oktoberfest pils pint
+🌉	avond brug bij nacht nachtelijke
 🍞	brood eten koolhydraten tarwe voedsel
 🌚	avond gezicht maan nieuwe met maan-gezicht ruimte
-🦨	dier stank stinkdier
-🚹	heren man plee toilet urinoir wc
-🪅	cinco de mayo feest mexicaans mexico piñata snoep snoepgoed vieren viering
-🪢	boot geknoopt hobby knoop knopen kronkel padvinder streng touw zeilen
-🫢	bang geschokt gezicht met open ogen en hand over de mond voor ongeloof ontzag schaamte smiley verbazing verrassing
-🎻	instrument muziek muziekinstrument stradivarius viool
-🛫	inchecken opstijgen vertrek van vliegtuig vertrekken vervoermiddel vliegmachine voertuig
-💐	afspraakje bedankt beterschap bloem boeket date jubileum romantiek verjaardag
-👎	-1 duim fout hand lichaam niet goed leuk omlaag slecht stom
-🤟	gebarentaal hand hvj ik hou van jou-gebaar ik-hou-van-je-gebaar ily
-♋	cancer dierenriem horoscoop kreeft
-🦸	goed held superheld superkracht
+🛟	boei drijven redden reddingsboei reddingsgordel reddingsvest veiligheid verdrinken zwemmen
+😗	afspraakje date gezicht hou van jou hvj kus kussen kussend smiley xoxo zoen
+🧑‍🚒	brandweerman brandweerwagen
+👩‍💻	computer ontwikkelaar programmeur software technologe uitvindster vrouw
+🪐	heelal planeet met ringen ruimte saturnus zonnestelsel zwaarmoedig
+🦴	bot botten hond skelet vorkbeen
+💽	computer disk harddisk minidisc optisch
+🕌	geloof islam moskee moslim religie
+🧑‍🍳	chef-kok kok
+🥣	cornflakes eten kom met lepel muesli ontbijt ontbijtgranen pap soep voedsel
+👩‍🍳	chef-kok kok vrouw
+🚝	monorail vervoermiddel voertuig
+🔗	schakels twee ringen
+🔶	diamant geometrisch groot oranje
+♏	dierenriem horoscoop schorpioen scorpio scorpius
+🥘	braadpan eten ondiep paella pan
 👏	applaudiseren applaus bidden dankjewel gefeliciteerd goed gedaan goedkeuring hand hoera klappen klappende handen
-🧚	fantasie mythe persoon pixie sprookje vleugels
-🏢	gebouw kantoorbaan kantoorgebouw werk
-🧻	closetrol keukenrol papieren handdoek rol papier toiletpapier toiletrol wc-papier wc-rol
-🔅	dimmen helderheid knop voor lagere laag
-🆓	free knop
-🪛	gereedschap klussen repareren schroef schroevendraaier
-📖	boek geopend open
-🍬	dessert eten gaatjes snoep voedsel wikkel zoet
-🃏	joker jokerkaart kaart kaarten spel spelen
-🧪	chemicus experiment lab laboratorium reageerbuis scheikunde scheikundige wetenschap
-🍟	eten fastfood frans frietjes
-🌏	aarde australië azië wereld wereldbol met azië-australië
+🥒	augurk eten groente komkommer
+🎍	bamboe den dennenboomversiering dennentakdecoratie feest japans plant
+🎩	fancy formeel goochelen goochelhoed hoed hoge hoog kleding
+📹	camcorder camera video videocamera
+🫟	druppel geknoei gemors gespat holi inkt verf vlek vloeistof
+🫡	bevel ja oké oke saluerend gezicht saluut smiley troepen zonnig
+🔕	bel dempen doorgestreepte geen geluid uit niet toegestaan stil stilte
+🤮	braaksel braken brakend gezicht misselijk overgeven spuwen walgelijk ziek
+🥎	bal handschoen onderarm onderhands softbal sport werpen
+🆑	cl knop
+➿	dubbel krul krullend lus
 🧵	draad garen klos naaien naald
-🆎	ab bloed groep knop
-👩‍🍼	baby borstvoeding mama moeder oppas pasgeboren voeden voeding vrouw
-🕛	00 12 12:00 klok tijd twaalf uur
-🍰	cake dessert gebak plak zandgebak zoet
-🦩	dier flamboyant flamingo ornithologie tropisch vogel
-😁	blij fijn gezicht glimlachen grijns grijnzend lach ogen oog stralend tanden
-⬛	geometrisch groot vierkant zwart
-🪻	bloem hyacint lavendel leeuwenbek lupine vlinderbloemige
-🖖	hand leef lang en voorspoedig spock star trek vinger vulcaanse groet vulcan vulcangroet
-🪍	gaas schepnet vangen verzamelen
-⌚	horloge klok polshorloge tijd
-🐯	dier gezicht groot kat roofdier tijger
-🚧	barricade bouwwerkzaamheden werkzaamheden
-🔵	blauw cirkel geometrisch
-🌄	berg bergen ochtend zon zonsopgang in de
-🚾	toilet wasgelegenheid water wc
-📮	brief posten brievenbus met post postbus
-🦽	duwen rolstoel toegankelijkheid zitten
-🌁	mist mistig
-🫈	bigfoot cryptide harig reus sasquatch wildeman woud yeti
-🦷	parelmoer tand tandarts tanden wit
-🪺	ei eieren nest nestelen tak vogel
-🐜	dier insect mier tuin
-🔋	batterij
-🟡	cirkel geel
-🌑	avond donker maan maansverduistering nieuwe ruimte
-😩	aanstellen gezicht honger moe nee ontevreden smiley tegenzin vermoeid zeuren
-🛒	boodschappen shoppen wagen wagentje winkelen winkelwagen
-🆗	knop ok oké
-🪝	aanbeveling bocht haak hengel kronkel vangen verstrikken vissen
-🥞	crêpe eten flensje ontbijt pannenkoek pannenkoeken
-💳	bank betaalkaart creditcard geld kaart krediet pinpas
-🦗	dier insect krekel orthoptera sprinkhaan
-🫛	bonen dop edamame erwt erwtendop groente peul peulvrucht
-🥧	fruit gebak gebakje hartige taart pastei vlees vulling
+🦭	dier leeuw oceaan zee zeehond
+📌	punaise speld
+🧭	kompas magnetisch navigatie oriëntatielopen orientatielopen oriënteringslopen orienteringslopen richting
+💘	afspraakje cupido date hart met pijl hou van jou hvj liefde door romantiek valentijn
+🏇	jockey paard paardrijden racen renpaard sport
+😶	geen mond geheim gezicht zonder niets zeggen persoon rustig smiley sprakeloos stil zwijgen
+🍦	dessert eten ijs restaurant room softijs zoet
+😘	flirten gezicht dat kus toeblaast hartje kusje blazen kussen romantiek smiley xoxo zoen
+🦓	dier streep zebra
+🥋	judo karate kunst taekwondo uniform vecht
+😄	blij gezicht glimlachen grijns grijnzend lach lachen lol mond ogen oog open
+🔝	omhoog pijl top
+🧋	boba bubbel melk parel thee voedsel
 🧸	beer beertje knuffel knuffelbeer knuffelbeest pluche speelgoed speeltje teddy teddybeer
-🧛	bloed dracula eng halloween ondode snijtanden tanden vampier verkleden
-🟪	paars vierkant
-🐱	dier gezicht huisdier kat kitten
-🦺	gevaarlijk noodgeval veilig veiligheid veiligheidsvest vest
-🈴	cijfer ideogram japans knop voldoende
-🍏	appel fruit groen
-🌠	hemel ruimte ster vallen vallend vallende
+📪	brievenbus gesloten met vlaggetje omlaag post postbus
+🛗	hijstoestel lift machine omhoog omlaag personenlift toegankelijkheid voorwerp
+🕦	11 11:30 23:30 30 dertig elf half twaalf klok tijd
+🚛	truck vervoermiddel voertuig vrachtauto vrachtwagen met oplegger
+😔	afgewezen balen gezicht moedeloos peinzend smiley teleurgesteld terneergeslagen triest verdrietig verloren
+👩‍🎨	kunstenares palet vrouw
+🧑‍🎓	scholier student
+🐫	bult dier dromedaris kameel twee bulten woestijn
+🥰	3 crush dol gezicht glimlach glimlachen hart hartjes hou van jou liefde romantiek
+🌀	cycloon duizelig spiraal twister tyfoon weer
+🚽	toilet wc
+👩‍🌾	boer tuinder veehouder vrouw
+🦹	crimineel kwaad schurk slecht superkracht superschurk
+🐣	baby dier ei kuiken uitkomen vogel
+📁	bestand bestandsmap map
+🦍	dier gorilla
+🎆	feest jaarwisseling knal oud en nieuw oudejaarsavond vermaak viering vuurwerk
+👋	ben je er doei groet groeten hallo hand is daar iemand moet gaan spreek later tot ziens ttyl zwaai zwaaien zwaaiende
+🏸	badminton badmintonracket en shuttle pluimbal racket sport wedstrijd
 ❌	× annuleren kruis teken vermenigvuldigen vermenigvuldiging x
-🐸	dier gezicht kikker
+💕	hart hou van jou hvj jubileum liefde twee harten xoxo
+📻	entertainment muziek radio
+👎	-1 duim fout hand lichaam niet goed leuk omlaag slecht stom
+🪹	leeg nest nestelen tak thuis
+👩‍🦽	handmatig rolstoel toegankelijkheid vrouw
+🧉	drank maté mate
+🦾	armprothese bionische arm kunstarm mechanische prothese toegankelijkheid
+🎧	geluid hoofdtelefoon koptelefoon oordopje
+🍤	garnaal garnalen gefrituurd tempura
+🧖	hamam ontspannen persoon in ruimte vol stoom stomende relaxen sauna stoombad stoomcabine stoomruimte
+💥	boem bom botsen botsing ontploffen strip
+🥲	aangedaan blij dankbaar enigszins lachend gelukkig gezicht met traan opgelucht smiley trots
+🚬	roken sigaret
+🎷	instrument muziek muziekinstrument sax saxofoon
+🪥	badkamer borstel hygiëne hygiene poetsen tanden tandenborstel tandheelkunde toiletartikelen
+🟣	cirkel paars
+🦟	beet insect koorts malaria mug ongedierte virus ziekte
+🟪	paars vierkant
+🤢	gadver gezicht misselijk overgeven vies ziek
+🔇	dempen geen geluid uit luidspreker mute speaker stil volume
+📉	dalend dalende trend daling diagram grafiek met negatief
+🟩	groen vierkant
+🫒	olijf voedsel
+👿	boos duiveltje gezicht met hoorns demon duivel duivels fantasie kleine paars duivelsgezicht smiley sprookje
+🌌	melkweg ruimte
+🌆	avond gebouw landschap metropool miljoenenstad schemer stad bij schemering zonsondergang
+🚞	berg bergspoor spoor vervoermiddel voertuig wagon
+🔏	inkt pen privacy slot met vulpen
+🦇	dier vampier vleermuis
+🚢	boot passagier passagiersschip schip titanic vaartuig
+🔦	elektrisch lamp licht zaklamp zaklantaarn
+🕎	hannuka jodendom joods kandelaar menora religie
+🪌	correctie fout ongedaan maken schrappen schrijven tekenen vergissing verwijderen wissen wrijven
+🫣	geboeid gezicht met glurend oog gluren smiley spieken staren stiekem kijken
+🫗	drinken gieten glas leeg morsen oeps ongelukje vloeistof uitgieten
+📯	blaasinstrument hoorn jachthoorn post posthoorn
+🦘	buideldier dier joey kangoeroe springen
+💼	aktentas aktetas boekentas handtas kantoor
+🍜	chopsticks dampend eten kom noedels pho ramen soep
+🐌	dier escargot naaktslak natuur slak tuin
+♐	boogschutter dierenriem horoscoop sagittarius
+🍋‍🟩	citrus cocktail fruit groen limoen margarita sap tropisch vrucht zuur
+🪺	ei eieren nest nestelen tak vogel
+💫	cartoonesk duizelig ster strip vallende
+💱	bank geld valuta wisselen
+⬜	geometrisch groot vierkant wit
+🛫	inchecken opstijgen vertrek van vliegtuig vertrekken vervoermiddel vliegmachine voertuig
+🌸	bloem bloesem kers lente plant voorjaar
+📗	bibliotheek boek educatie groen lezen onderwijs
+👲	gua pi mao hoed man met chinees petje chinese persoon
+😃	blij gaaf gezicht glimlachen grijns grijnzend groot joepie lach mond ogen open tanden
+💗	emotie groeiend hart hartslag hou van jou hvj kloppend nerveus spannend xoxo
+🪅	cinco de mayo feest mexicaans mexico piñata pinata snoep snoepgoed vieren viering
+🔬	experiment gereedschap instrument laboratorium microscoop onderzoek wetenschap
+🎮	controller game gamecontroller playstation spel videogame videospel xbox
+🦁	alfa brul dier gezicht leeuw leo manen orde safari sterk sterrenbeeld
+🕣	08:30 20:30 30 8 8:30 acht dertig half negen klok tijd
+🫘	bonen kidneyboon klein peulvrucht voedsel
+🔻	driehoek geometrisch omlaag rood wijzend
+🪊	droevig instrument jazz koper muziek schuiven
+🫠	beschaamd gezicht haha heet lol oplossen sarcasme sarcastisch smelt smelten verdwijnen vloeibaar warm
+🏅	eerste plaats gewonnen medaille 1e met ster sportmedaille winnaar
+🧄	knoflook smaakmaker
+🛴	autoped step steppen vervoermiddel voertuig
+🪛	gereedschap klussen repareren schroef schroevendraaier
+😤	boos gewonnen gezicht blazend van woede met stoom uit neus kokend ontevreden triomf witheet woedend ziedend
+🐁	dier dieren muis
+🫙	container leeg niets pot saus specerij winkel
+🦉	dier uil vogel wijs wijsheid
+🧑‍🦽	persoon in rolstoel toegankelijkheid
+🔨	gereedschap hamer timmeren
+🕘	00 09:00 21:00 9 9:00 klok negen tijd uur
+😵	dood duizelig gezicht met mond open en kruisjes als ogen smiley ziek
+💩	drol grappig monster poep met gezichtje smiley stinkt
+🤬	boos censuur gezicht met symbolen op mond tekens over kwaad schelden smiley vloeken
+🔭	buitenaards leven gereedschap heelal instrument sterrenkijker telescoop wetenschap
+🎦	bioscoop camera film filmen
+🦩	dier flamboyant flamingo ornithologie tropisch vogel
+🥑	avocado fruit voedsel
+👝	accessoire clutch enveloptas handtas kleding tas tasje
+🔞	18 achttien beperking één een leeftijd minderjarig nee niet verboden
+🥩	biefstuk bout karbonade kotelet lamskotelet rood vlees
+🌔	avond bolvormig maan ruimte tussen halve en volle wassend wassende
+🌛	avond eerste kwartier gezicht maan in met ruimte slapen
+😰	angstzweet blauw gezicht met gehaast open mond en zweetdruppel koud nerveus zweet
+🧑‍🤝‍🧑	hand in handen vasthouden koppeltje paar personen persoon samen stel
+🍫	chocolade dessert halloween reep snoep zoetekauw
+🥹	alsjeblieft aww beschaamd bewondering dankbaar dankbaarheid gevoelens houden huilen tegen tranen trots verdrietig vreugde weerstaan
+🔈	laag volume luidspreker speaker zacht
+🍘	cracker eten rijst
+♍	dierenriem horoscoop maagd virgo
+🫫	afbrokkelend brekend maskeren onthullen spanning transformatie weerbarstig
+🧚	fantasie mythe persoon pixie sprookje vleugels
+👉	achterkant hand rechts vinger wijs wijsvinger wijzen
+🐽	gezicht neus varken varkensneus
+🕑	00 02:00 14:00 2 2:00 klok tijd twee uur
+💪	aanspannen arm biceps bodybuilder flex gewichtheffen spannen spier spierbal spierballen sportschool sterk strip
+🚈	lightrail monorail spoor vervoermiddel voertuig
+🏊	freestyle persoon sport triatlon zwemmen zwemmer
+❗	interpunctie rood teken uitroep
+🍎	appel dieet fruit gezondheid rijp rood voedsel
+👢	dameslaars kleding laars schoen vrouw
+💌	brief met hart liefde liefdesbrief post romantiek valentijn
+🤯	exploderen geschokt ondersteboven onmogelijk ontploffend hoofd smiley verbaasd verbijsterd verrast wow
+🫆	forensisch identiteit veiligheid vingerafdruk
+🍑	fruit perzik
+🚣	boot meer persoon in roeiboot roeien roeiende roeispaan sport
+📿	gebed gebedsketting gebedskralen gebedssnoer geloof ketting kleding kralen
+🈁	hier japans katakana knop
+🔎	gereedschap glas vergrootglas naar rechts gericht vergroten zoeken
+🩰	ballerina ballet balletschoenen dans dansen pirouette schoenen spitzen
+🫺	dat dit grip neutraal rechts wijzen
+🐲	dier draak gezicht sprookje
 🧀	kaas plak
-🪕	banjo besnaard instrument muziek snaarinstrument spelen
-🐩	dier hond pluizig poedel
+👘	japans japon kimono kleding
+🪼	aquarium au beet branden dier gelei leven oceaan ongewerveld plankton steek tentakels zee
+🪢	boot geknoopt hobby knoop knopen kronkel padvinder streng touw zeilen
+🚔	auto hulpdienst naderend naderende politieauto politie tegemoetkomende politiewagen vervoermiddel voertuig
+😝	bah dichte ogen gezicht met uitgestoken tong en dichtgeknepen oog smaak smerig smiley vies vreselijk
+🐐	boerderij capricorn dier geit melk sterrenbeeld
+⛄	koud sneeuw sneeuwpop zonder sneeuwvlokken
+🔄	déjà deja knop linksom pijl pijlen tegen de klok in vernieuwen vu weer
+📩	brief communicatie e-mail envelop omlaag pijl post uitgaand verzenden verzonden
+😻	dier gezicht hart hartjesogen kat lach lachen liefde oog
+🎡	kermis pretpark rad reuzenrad
+🕝	14:30 2 2:30 30 dertig half drie klok tijd twee
+🕚	00 11 11:00 23:00 elf klok tijd uur
+🕕	00 06:00 18:00 6 6:00 klok tijd uur zes
+🎄	boom feest kerstboom kerstmis viering
+💀	dood doodshoofd gezicht monster schedel skelet sprookje
+😇	blij elfje engel engelachtig engelen fantasie geest gezegend gezicht glimlach glimlachen onschuldig sprookje stralenkrans verhaal vredig
+🙀	dier geschokt geschrokken kat gezicht oh nee smiley verbazing vermoeid vermoeide verrast
+🧾	administratie bewijs boekhouden boekhouding bonnetje factuur kassabon kwitantie rekening
+🏮	bar lantaarn licht rode papieren rood
+🩹	bloed pijn pleister snee verband wond ziekenhuis
+♎	balans dierenriem gerechtigheid horoscoop libra weegschaal
+🛞	auto band cirkel draaien velg velgen vervoer voertuig wiel
+🍂	blad gevallen herfst vallend
+👫	afspraakje bae date flirten hand in koppel man en vrouw stel vasthouden verliefd vrienden
+🏺	amfoor amfora drinken horoscoop koken kruik sterrenbeeld waterman
+🤗	blij gezicht handen knuffel knuffelen uitgestoken
+🔩	bout en moer gereedschap
+🍗	bot gevogelte honger kalkoen kip kippenpoot poot
+😾	boos kattengezicht dier gezicht kat mokken pruilen pruilende smiley
+🫲	eens hand naar links handdruk uitgestoken
+🥕	groente voedsel wortel
+🍿	film maïs mais pop popcorn
+🦦	dier otter speels vissen
+🍖	bot vlees
+😪	gezicht huilen slaap slaperig smiley traan
+📭	brievenbus omlaag open met vlaggetje post postbus
+🎋	boom met papierlinten feest japans tanabata tanabataboom
+🥪	brood sandwich
+🚺	dames plee toilet vrouw wc
+🤟	gebarentaal hand hvj ik hou van jou-gebaar ik-hou-van-je-gebaar ily
+⛪	christelijk geloof kapel kerk kruis religie
+📋	klembord notities to-dolijst
+🐦	dier duif vogel
+🎴	bloem bloemenkaart bloemspeelkaarten hanafuda japans kaart kaartspel speelkaarten spel spelen
+🧑‍🩰	ballet danser
+👩‍🦯	blind toegankelijkheid vrouw met blindenstok taststok
+🔀	gekruist knop nummers pijl shuffle
+🈚	gratis ideogram japans knop kosten
+📸	camera met flitser fotograferen video
+🫥	depressief depri gedeprimeerd gezicht in stippellijn introvert onzichtbaar smiley verbergen verdwijnen
+🫀	anatomisch cardiologie echt hart hartslag orgaan polsslag rood
+🦮	blind dier geleide hond toegankelijkheid
+🦬	bizon buffel dier kudde wisent
+👴	grootvader kaal man opa oud ouder volwassen wijs
+💅	beauty cosmetica hand lak manicure nagel nagellak nagels lakken verzorging
+🐀	dier rat
+🔛	on pijl teken
+🎸	gitaar instrument muziek muziekinstrument strat stratocaster
+🎼	g-sleutel muziek notenschift partituur
+😽	dier gezicht kat kus kussend kattengezicht met gesloten ogen kussende oog smiley
+🪖	helm krijger leger legerhelm militair oorlog soldaat vechter voorwerp
+❎	× knop kruis teken vermenigvuldigen vermenigvuldiging vierkant x
+🫰	duur geld hand met wijsvinger en duim gekruist hart liefde vingerknip vingers
+🛻	auto bestelbak laadbak laadbakwagen pick-up transport truck vervoer vracht wagen
+📍	kaart kopspeld locatie ronde speld
+😅	gestrest gezicht glimlachen grijnzend koud lach mond neerslachtig nerveus open opgewonden stress zweet
+🏨	gebouw hotel
+👐	hand handen jazz hands open
+🗾	japan kaart van
+🦊	dier gezicht vos
+😭	bedroefd gezicht hard huilen huilend ontroostbaar smiley snikken traan tranen met tuiten
+👂	geluid horen lichaam luisteren oor
+😴	bedtijd dutje gapen gezicht moe slaap lekker slapen slapend smiley vermoeid welterusten zzz
+🍟	eten fastfood frans frietjes
+🚫	nee niet roken toegang verboden
+🚀	lancering raket ruimte ruimtereis vervoermiddel voertuig
+📅	datum kalender
+🏑	bal hockey hockeystick en sport stick veld wedstrijd
+🚴	fiets fietsen fietser persoon sport wielrennen
+🪄	goochelaar goochelen heks magie magiër magier tovenaar toveren toverstok tovertruc
+🐴	boerderij dier dressuur gezicht paard paarden
+🥱	bed dutje gaap gapen geeuwen gezicht moe rusten saai slaap lekker slaperig vermoeid verveeld
+🚦	kruising licht stoplicht verkeer verkeerslicht verkeerslichten verticaal
+🎯	bull’s eye bullseye darts directe treffer doelwit in de roos spel sport voltreffer
+👛	accessoire beurs geld uitgeven kleding knip munt portefeuille portemonnee roze winkelen
+🎤	geluid karaoke microfoon muziek zingen
+💾	computer disk diskette floppy floppydisk opslaan
+😛	gezicht met uitgestoken tong en open ogen grapje grappig ontdeugend smiley uitsteken uitgesteken
+🦸	goed held superheld superkracht
+🫨	aardbeving gek gezicht omg paniek schok schudden trillen verbijstering verrassing wauw wow
+🍄‍🟫	bruine paddenstoel paddestoel champignon eten groente natuur paddo pizza schimmel shiitake
+🧑‍💼	architect bedrijf kantoormedewerker manager
+🆚	knop versus vs
+🚊	tram trolleybus vervoermiddel voertuig
+🎅	fantasie feestdag kerst kerstman kerstmis viering vrolijk
+🛁	bad badkuip met douche
+🤰	vrouw zwanger
+🍧	dessert geschaafd ijs restaurant zoet
+🧔	baard bebaard persoon met
+😑	dichtgeknepen geen commentaar uitdrukking gezicht jaloers lame omg ontevreden smiley tegenzin ugh uitdrukkingsloos vooruit wtf
+🪾	boom boomstam dood droogte hout kaal leeg takken winter zonder bladeren
+🤓	geek gezicht met bril en tanden nerd nerderig nerdgezicht smiley
+⚡	bliksem donderslag elektriciteit elektrisch gevaar hoog voltage schok spanning
+🧑‍🏫	docent leraar professor
+🏡	gebouw huis met tuin huisje boompje beestje settelen thuis voorstad vrijstaande woning
+⛺	kamperen tent
+🍥	koekje krul vis viskoekje met
+🔰	beginner blad chevron geel gereedschap groen japans symbool
+🧷	luier luierspeld punk speld veiligheidsspeld
+📨	binnengekomen brief e-mail elektronische post envelop inkomend inkomende mail ontvangen
+🍷	alcohol bar café cafe drankje drinken glas restaurant wijn wijnglas
+🚯	geen niet verboden zwerfvuil
+🩺	arts dokter geneeskunde hart medicijnen stethoscoop ziekenhuis
+🌘	afnemend afnemende halvemaan asgrauwe maan avond maansikkel nacht ruimte sikkel
+🐍	dier dierenriem drager ophiuchus serpent slang
+🟥	kaart penalty rood vierkant
+🐦‍⬛	dier kauw kraai kraaiachtige ornithologie raaf roek snavel vogel zwart
+🏁	finish formule 1 geblokt geblokte vlag racen sport
+📃	bladzijde document half opgerold papier krul omkrullende pagina met
+🔲	geometrisch knop vierkant zwart
+📶	antenne communicatie mobiel signaal streep streepjes telefoon
+🏬	gebouw warenhuis winkel winkelen
+🪘	beat conga hoog instrument ritme trom
+🔣	& % ♪ 〒 invoeren symbolen
+🕋	bedevaart geloof islam kaäba kaaba mekka moslim religie
+🪭	afkoelen dansen fladderen heet opvouwbare waaier verlegen
+🥸	bril gezicht incognito neus smiley snor vermomd vermomming wenkbrauwen
+🤙	bel me-gebaar mij-gebaar bellen hand handgebaar voor
+🚲	fiets fietsen rijwiel spinning vervoermiddel voertuig
+👗	blauwe jurk dansen kleding kledingstuk sjiek winkelen
+🦠	amoebe bacteriën bacterien microbe virus wetenschap
+🏃	hardlopen hardloper hollen joggen man marathon persoon rennen snel sport
+🕧	00:30 12 12:30 30 dertig half één een klok tijd twaalf uur
+😒	boos chagrijnig gezicht ehm jaloers niet blij leuk ongelukkig smiley ugh uhh verveeld whatever
+📙	bibliotheek boek educatie lezen onderwijs oranje
+👔	formeel kleding overhemd pak stropdas
+🧯	blusapparaat blussen blusser brandblusapparaat brandblusser doven vuur
+👟	atletiek hardlopen kleding rennen schoen sneaker sporten sportschoen
+😫	bah gezicht jakkes moe niesen niezen smiley vermoeid vies
+🏢	gebouw kantoorbaan kantoorgebouw werk
+🍩	dessert donut eten voedsel zoet
+♈	aries dierenriem horoscoop ram
+🤺	degen persoon schermen schermer
+🧎	knieën knieen knielen knielend persoon
+🧑‍🧑‍🧒	gezin kind volwassene
+⛲	fontein
+🍵	drankje drinken kop thee theekopje zonder oor
+🌲	boom bos dennenboom kerst naaldboom
+👩‍🚀	astronaut raket ruimte vrouw
+🫦	angst bezorgd flirten lippen mond die op lip bijt nerveus ongemakkelijk ongerust sexy
+🏧	atm bank contant geautomatiseerd geld pinnen teken
+🥈	medaille 2e plaats tweede zilver
+💿	blu-ray cd cd-rom computer dvd optisch optische schijf
+🎣	hengel sport vis vishengel
+🍪	chip chocolade dessert koekje zoet
+🧬	biologe bioloog dna evolutie gen genetica genetisch leven
+🎓	afstuderen baret feest hoed kleding opleiding student
+🪫	accu batterij bijna leeg electronisch lege weinig batterijlading
+🦿	beenprothese bionisch been kunstbeen mechanisch prothese toegankelijkheid
+⛔	belemmerd doorgang geen ingang mislukt niet toegang verboden verkeer
+🛙	baken gids hoop licht maritiem navigatie signaal verlichting zee
+🍕	eten honger kaas pepperoni pizza punt
+🧅	smaakmaker ui
+🦖	dinosaurus rex t t-rex tyrannosaurus
+😡	boos gezicht kwaad pruilend rood smiley woede woedend
+🪸	klimaat koraal oceaan rif verandering zee
+⏫	dubbel knop omhoog pijl snel
+🟠	cirkel oranje
+🌄	berg bergen ochtend zon zonsopgang in de
+🐚	dier schelp spiraal strand zee
+🩼	gewond handicap kruk lopen mobiliteitshulp stok wandelstok
+😢	bedroefd gevoelens gezicht huilen huilend smiley traan triest
+🧦	kousen sokken
+💢	boos cartoonesk kwaad ontdaan strip symbool teken woede woedesymbool
+💨	cartoonesk moet gaan rennen rook scheet strip vertrokken weg wegrennen wind
+😯	geschokt gezicht omg smiley verbaasd verrast verstomd wauw wow
+👤	buste mysterieus schaduw silhouet
+🎠	carrousel draaimolen draaimolenpaard kermis paard pretpark
+👮	agent arresteren beroep boete misdaad persoon politie politieagent politieman werk
+🧑	persoon volwassene
+🗼	tokio tokio-toren tokiotoren toren
+📳	communicatie mobiel modus telefoon trillen
+🏤	europees gebouw post postkantoor
+👕	blauw shirt kleding kraag poloshirt t-shirt vrijetijdskleding
+🍴	bestek eten honger koken lekker lunch mes en vork ontbijt restaurant uit
+🛃	douane inpakken
+🐳	dier gezicht oceaan spuitend strand walvis
+👨‍🍼	baby borstvoeding man die een voedt melk papa persoon vader voeden voeding
+🦯	blind blindenstok lopen taststok toegankelijkheid
+👩‍🚒	brandweer brandweervrouw brandweerwagen vrouw
+⛅	weer wolk zon achter wolken
+😞	afgewezen afwijzing bedroefd gezicht niet blij schuldig smiley teleurgesteld teleurstelling terneergeslagen triest verloren
+💤	cartoonesk goedenacht moe rust saai slaap slaapwel slapen slaperig strip vermoeid zzz
+🚵	berg fiets fietsen fietser mountainbiken persoon sport
+👪	gezin kind
+👠	hak hoge kleding naaldhak pump schoen met stiletto vrouw
+😷	besmet dokter doktersmasker gezicht met masker koud medicijn medisch smiley virus ziek
+🥞	crêpe crepe eten flensje ontbijt pannenkoek pannenkoeken
+🆓	free knop
+🏹	boog boogschieten boogschutter horoscoop pijl en sport sterrenbeeld wapen
+🪈	blokfluit dwarsfluit fluit houtblazer muziek pijperfluit
+🛂	controle paspoort
+😱	angst angstig schreeuwend gezicht bang doodsbang geschrokken dat schreeuwt van munch schreeuw smiley
+🐄	boe boerderij dier dieren koe melk
+🔳	geometrisch knop omlijnd vierkant wit
+👩‍🎓	scholier student vrouw
+🐏	aries dier dierentuin horens mannelijk ram schaap sterrenbeeld
+🪿	gans gevogelte onnozel snateren vogel
+📥	brief inkomend mail ontvangen post postvak in
+🐇	dier huisdier konijn konijntje
+🥐	brood croissant eten frans ontbijt voedsel
+🌖	afnemend afnemende maan avond bolvormig ruimte tussen halve en volle wassend
 🦻	doof gehoorapparaat oor met oorapparaat slechthorend toegankelijkheid
-👩‍🦼	elektrisch rolstoel toegankelijkheid vrouw
-🧙	fantasie heks magie magiër spreuk sprookje tovenaar tovenares
-👨‍🏫	docent instructeur leraar man professor
+🌅	ochtend zon zonsopgang
+🦌	dier hert
+🌰	amandel kastanje plant
+🧫	bacterie bacteriën bacterien biologe biologie bioloog cultuur kweek lab laboratorium petrischaal
+🐅	dier dierentuin groot kat roofdier tijger
+💬	aan het typen ballon cartoonesk dialoog spraak spraakballon strip tekstballon met puntjes
+🚮	afval prullenbak teken vuilnisbak
+🟦	blauw vierkant
+👼	baby engel fantasie gezicht kerk sprookje
+🚩	driehoekige vlag golf locatie puntvlag
+😿	dier gezicht huilen huilend kat traan verdrietig
+😦	bang betrapt eng frons fronsen gezicht hoede mond open verrassing wat wauw
+🚍	bus naderend naderende tegemoetkomende vervoermiddel voertuig
+⭐	ster witte middelgrote
+🃏	joker jokerkaart kaart kaarten spel spelen
+😵‍💫	dronken duizelig gehypnotiseerd gezicht met spiraalvormige ogen probleem smiley spiraalvormig stoned verward wow
+🚾	toilet wasgelegenheid water wc
+🐡	dier kogelvis vis
+♒	aquarius dierenriem drager horoscoop water waterman
+👨‍🦯	blind man met blindenstok taststok toegankelijkheid
+🤪	gek gezicht gekke blik gestoord groot klein oog smiley
+💜	emotie hart hou van jou hvj paars
+🤽	persoon polo spelen sport water waterpolo zwemmen
+👸	fantasie koningin kroon persoon prinses sprookje vrouw met
+☔	druppels kleding paraplu met regendruppels regen weer
+🦋	insect mooi vlinder
+🌒	avond jonge maansikkel maan ruimte sikkel wassend wassende halvemaan
+🔍	gereedschap glas vergrootglas naar links gericht vergroten zoeken
+😕	gezicht hmm ik weet het niet in de war ontevreden peinzend smiley teleurgesteld uhm verward
+🆙	knop teken up
+🧲	aantrekking aantrekkingskracht hoefijzer magneet magnetisch positief negatief uvormig
+🌝	avond gezicht helder heldere maan ruimte vol volle met
+🐊	dier dierentuin krokodil
+🦎	dier hagedis reptiel
+🤤	gezicht kwijlend
+🍰	cake dessert gebak plak zandgebak zoet
+🫸	duwen hand die naar rechts duwt high five stoppen wachten weigeren
+💷	bankbiljet biljet briefgeld briefje geld pond pondbiljet valuta
+🧑‍🧒	gezin kind volwassene
+🚨	alarm auto baken draaiend licht noodgeval politie sirene waarschuwing
+👳	dragen persoon tulband
+🦼	elektrische rolstoel rijden toegankelijkheid wiel
+🎂	dessert gebak gelukkig taart verjaardag verjaardagstaart viering zoet
+📴	mobiel telefoon uit
+🪶	licht veer verenkleed vlucht vogel
+🧰	doos gereedschap gereedschapskist kist monteur rode
+🚋	tram tramwagon trolleybus vervoermiddel voertuig wagon
+🔢	1234 cijfers invoeren
+🍮	dessert pudding vla zoet
+🔺	driehoek geometrisch omhoog rood wijzend
+🎻	instrument muziek muziekinstrument stradivarius viool
+🪴	decor groeien huis plant pot potplant verzorgen
+🛵	brommer motor scooter vervoermiddel voertuig
+🎒	boekentas rugzak school schooltas tas
+🦛	dier hippopotamus nijlpaard
+🔸	diamant geometrisch klein oranje
+🐬	dier dolfijn flipper oceaan strand
+🧿	amulet bedel blauw boze oog kraal nazar nazar-amulet talisman
+🥼	dokter dr experiment jas kleding lab wetenschapper wit
+🔮	bol glazen kristal kristallen magie sprookje toekomst voorspellen waarzeggen waarzeggerij
+🌕	avond maan ruimte vol volle
+💧	bedroefd druppel koud strip water weer zweet
+🎌	feest gekruist gekruiste vlaggen japans kruis
+🚒	auto brand brandweerauto hulpdienst spoed vervoermiddel voertuig
+🤶	feest kerst kerstmis kerstvrouw moedertje persoon viering
+🆒	cool knop
+🥀	bloem sterven verwelkt
+🖤	hart kwaad slecht verdorven zwart
+🚓	auto hulpdienst politie politieauto politiewagen vervoermiddel voertuig
+🥅	doel doelnet goal net sport
+🍁	blad esdoorn vallend
+🧈	boter zuivel
+🐶	dier gezicht hond huisdier puppy puppy’s schattig
+🚭	nee niet roken verboden
+⚽	bal futsal messi ronaldo sport voetbal
+🧑‍💻	ontwikkelaar programmeur techneut technoloog uitvinder
+🧡	oranje hart
+🌙	avond halvemaan maan maansikkel ramadan ruimte sikkel slapen
+🛀	bad badkuip met douche persoon in
+🕡	06:30 18:30 30 6 6:30 dertig half zeven klok tijd zes
+🪗	accordeon bandoneon concertina instrument muziek trek trekzak
+🥊	boksen bokshandschoen handschoen sport
+🔷	blauw diamant geometrisch groot
+📕	bibliotheek boek educatie gesloten lezen onderwijs
+🎪	circus circustent tent
+🧊	ijs ijsberg klontje koud
+🫌	fragiel hoop insect metamorfose migratie rups transformatie verandering
+🧺	boeren landbouw mand oogsten picknick wasgoed wasmand
+🫓	arepa brood eten gordita lavash naan pita platbrood
+🔖	bladwijzer markering
+🤕	gewond gezicht met hoofdverband pijn verband verwonding
+🎃	feest halloween halloweenlantaarn lampion lantaarn pompoen pompoenlantaarn sint maarten
+🍨	dessert eten ijs restaurant room zoet
+⬛	geometrisch groot vierkant zwart
+🩵	blauwgroen groenblauw hart lichtblauw
+◽	geometrisch klein tot middelgroot vierkant wit
+🥶	bevriezen bevriezing blauw gezicht ijspegels koud onder nul tanden
+🪪	beveiliging id id-kaart identificatie identiteitskaart legitimatiebewijs overheid vergunning
+📵	mobiel nee niet telefoon telefoons verboden
+😋	genieten gezicht glimlach jammie lachend dat lippen likt lekker mmm smiley smullen
+🫵	aanwijzen hand jij vinger wijsvinger die naar de kijker wijst wijzen
+🙋	antwoord blij gebaar hand ik weet het omhoog persoon met opgeheven vraag vrouw die opsteekt
+🐵	aap banaan dier gezicht
+🪵	balk bijl boomstam hakken hout open haard stam timmerhout vuur zagen
+🧑‍🧒‍🧒	gezin kind volwassene
+🍡	dango dessert japans spies stokje zoet
+🎥	bioscoop bollywood camera film filmcamera hollywood opnemen
+⌚	horloge klok polshorloge tijd
+🫕	chocolade eten fondue gesmolten kaas pot ski
+🕠	05:30 17:30 30 5 5:30 dertig half zes klok tijd vijf
+🤲	beide handpalmen omhoog bidden gebed hand kommetje maken met handen palmen bij elkaar
+🙊	aap gebaar geen geheim gezicht kwaad niet oeps spreken stiekem uit den boze verboden
+🐞	dier insect kever lieveheersbeest lieveheersbeestje natuur tuin
+🪃	australië australie boemerang buiten reactie spel terugslag
+🈹	ideogram japans knop korting
+🧜	drietand folklore meermin oceaan schepsel sirene sprookje zee
+🐙	dier oceaan octopus wezen
+🧢	baseballcap hoofddeksel pet
+🦞	bisque dier kreeft scharen zeevruchten
+🍒	bessen fruit kers kersen rood
+🌠	hemel ruimte ster vallen vallend vallende
+🥭	eten fruit mango tropisch
+🌭	braadworst frankfurter hotdog knakworst worst
+🫈	bigfoot cryptide harig reus sasquatch wildeman woud yeti
+💎	bruiloft diamant edelsteen juweel romantiek trouwen verloving
+🪠	kracht loodgieter ontstopper poep wc zuiger zuigkracht
+🚗	auto automobiel rijden vervoermiddel voertuig
+🧨	boem dynamiet explosief licht ontploffing rotje vonk vuur vuurwerk
+🕢	07:30 19:30 30 7 7:30 dertig half acht klok tijd zeven
+😖	bah boos gefrustreerd geïrriteerd geirriteerd gezicht onthutst smiley verdrietig verwarring
+🧗	alpinisme berg bergbeklimmen bergbeklimmer klimmen klimmende persoon klimmer sport
+📏	liniaal meetinstrument meten rechte lijn wiskunde
+🧛	bloed dracula eng halloween ondode snijtanden tanden vampier verkleden
+🟡	cirkel geel
+🦥	lui luiaard traag
+🧩	aanwijzing gekoppeld legpuzzel passen passend puzzel puzzelstukje schakel stukje
+🚕	taxi taxichauffeur uber vervoermiddel voertuig
+🈺	bedrijf ideogram japans knop open
+🥙	eten falafel gevuld gyros kebab pitabrood
+🙃	gezicht glimlach hehe omgekeerd
+🌎	aarde amerika noord- en zuid-amerika wereld wereldbol met
+🫐	bes bessen blauw blauwbessen bosbes bosbessen fruit voedsel
+🍔	burger eten fastfood hamburger honger
+😐	geen commentaar gezicht jaloers neutraal niet leuk ongemakkelijk pokerface pokergezicht uitdrukkingsloos uitgestreken
+💰	dollar geld geldzak rijk zak met
+🏏	bal bat cricket cricketbat en slaghout sport wedstrijd
+💞	draaien draaiende harten emotie hart jubileum ronddraaiende
+🐋	dier oceaan strand walvis
+🥳	feest feesten fuif gelukkig gezicht hoed hoera opgewonden roltong verjaardag vieren viering
+🌞	gezicht helder warm weer zon met zonneschijn
+🍄	paddenstoel schimmel zwam
+🤩	gezicht grijnzend lach ogen opgewonden ster sterren als in de wauw
+🛅	achtergelaten bagage kluisje koffer
+⭕	cirkel groot hol o rood vet
+🌈	genderqueer glbt homoseksueel lesbisch lgbt lgbtq lgtbqia lhbt natuur pride queer regen regenboog transgender weer
+💛	emotie geel hart hou van jou hvj liefde
+💋	afdruk daten emotie kus kusafdruk liefde lipafdruk lippen romantiek sexy zoen
+📓	notitieboek schrift
+⏳	tijd timer zand zandloper met stromend
+🩸	bloed bloeden donatie druppel medicijnen menstruatie verwonding
+🍐	fruit peer
+🐂	boerderij dier dieren os sterrenbeeld stier taurus
+👖	broek jeans kleding spijkerbroek
+🟫	bruin vierkant
+🐃	buffel dier dierentuin water
+⚾	bal honkbal sport
+🪙	dollar euro geld goud metaal munt rijk schat zilver
+🤞	gekruist geluk hand kruisen vinger vingers
+🥿	ballerina ballerina’s comfortabel flatjes instapper platte schoen slip-on
+💒	bruiloft huwelijk kapel romantiek trouwkapel
+🤾	bal gooien handbal persoon die speelt sport springen worp
+🕟	16:30 30 4 4:30 dertig half vijf klok tijd vier
+🙉	aap dier gebaar geen geheim gezicht horen kwaad luisteren niet uit den boze verboden wil
+🧏	doof persoon horen oor slechthorend toegankelijkheid
+🈲	ideogram japans knop verboden
+🐸	dier gezicht kikker
+⏪	dubbele pijl links knop voor versneld terugspoelen
+🌮	mexicaans taco
+💸	bankbiljet biljet briefgeld dollar geld met vleugels vliegen vliegend
+🙅	gebaar hand illegaal nee niet persoon verboden
+🧑‍🎤	acteur entertainer rock ster zanger
+🫅	edele heerser iemand van koninklijken bloede keizer koning koninklijk persoon met kroon regaal
+📘	bibliotheek blauw boek educatie lezen onderwijs
+🪍	gaas schepnet vangen verzamelen
+🤌	gebaar hand handgebaar italiaans maffia ondervraging samengeknepen sarcastisch vingers
+⚫	cirkel geometrisch zwart
+🧕	hidjab hijab hoofddoek mantilla persoon sluier vrouw met
+📚	boek boeken educatie kennis lezen onderwijs opleiding school
+👨	man volwassen vriend
+🧑‍🔧	elektricien handelsman loodgieter monteur
+👒	dameshoed hoed met strik kleding vrouw
+🫜	biet groente raap tuin wortel
+💵	bankbiljet biljet briefgeld briefje dollar dollarbiljet geld valuta
+👊	boks gebald gebalde vuist groet hand mee eens stoot stotende
+⌛	tijd timer zand zandloper
+🫑	capsicum groente paprika peper voedsel
+🚶	lopen persoon slenteren stappen struien voetganger wandelaar wandelen
+🦙	alpaca dier guanaco lama vicuña vicuna wol
+🎉	confetti feest feestknaller hoera jarig knaller partypopper verjaardag viering
+📛	badge kaartje naam naamkaartje
+🥔	aardappel groente voedsel
+🧒	heldere ogen jong jonger kind kleinkind
+🥵	beroerte gezicht heet hijgen hitte koortsig rood sterven tong zweten
+🍶	bar café cafe drankje drinken fles kopje sake
+🉐	ideogram japans knop koopje
+♊	dierenriem gemini horoscoop tweelingen
+🤫	gezicht manen sst stil stilte
+📮	brief posten brievenbus met post postbus
+🦷	parelmoer tand tandarts tanden wit
+🩻	borstkas botten dokter medisch ribben röntgenfoto rontgenfoto skelet ziek ziekenhuis
+🔫	gereedschap pistool revolver vuurwapen wapen water waterpistool
+🔁	herhalen knop met de klok mee pijl
+🍏	appel fruit groen
+🕐	00 01:00 1 1:00 13:00 één een klok tijd uur
+😁	blij fijn gezicht glimlachen grijns grijnzend lach ogen oog stralend tanden
+🩱	badpak uit één een stuk strand zomer zwembad zwemgerief zwemmen zwempak
+🐛	beestje dier insect tuin
+😲	geschokt gezicht kosten nee omg totaal verbaasd
+📟	pager pieper
+🤘	hand hoorns rock on teken vinger
+😮	geschokt geschrokken mond oeps omg ongelofelijk ongelooflijk open sympathie vergeten wauw
+🆘	help knop sos
+💭	ballon besef cartoonesk dagdromen denkballon denkwolkje gedachteballon gedachten gedachtenballon strip uitvinden uitvinding
+🐉	dier draak ridders sprookje
+🚟	hangend spoor vervoermiddel voertuig zweeftrein zwevend
+🫱	hand handdruk naar rechts reiken schudden vasthouden
+🎶	achtste noten geluid muziek muzieknoten noot
+🈯	gereserveerd ideogram japans knop
+👹	duivel eng fantasie gezicht masker monster oger sprookje verhaal wezen
+🧑‍🎄	feestdagen kerst kerstdagen kerstman kerstmis kerstmuts kersttransgender kerstvrouw persoon
+🫶	<3 handen hart hou jou
+💝	emotie hart met strik hou van jou hvj liefde valentijn xoxo
+🥇	eerste gewonnen goud gouden medaille 1e plaats winnaar
+🔘	geometrisch knop radio
+🪋	apocalyps ruimte steen vallende ster vuurbal zwaartekracht
+🐜	dier insect mier tuin
+🆎	ab bloed groep knop
+🧑‍🍼	baby borstvoeding oppas ouder pasgeboren voeden voeding
+💻	computer laptop notebook pc personal
+🏉	bal football rugby sport voetbal
+🐆	dier dierentuin groot kat luipaard roofdier
+🦡	das dier honing kwellen
+🦄	eenhoorn gezicht
+💊	dokter geneeskunde medicatie medicijn pil vitamine ziek
+🐒	aap banaan dier
+👃	geur lichaam neus ruiken stinkt
+🧼	baden inzepen schoon schoonmaken schuim stuk zeep wassen zeepbakje zeephouder
+👧	dochter enthousiast jong maagd meisje persoon staartjes sterrenbeeld
+📜	papier papierrol perkament perkamentpapier rol
+🗿	beelden gezicht moai moai-beeld paaseiland reizen standbeeld
+🔠	abcd hoofdletters invoeren latijns letters
+🌵	cactus droogte natuur plant woestijn
+♉	dierenriem horoscoop os stier taurus
+🙎	humeurig persoon pruilen pruilend pruilende vrouw pruillip skeptisch teleurgesteld uitdrukking
+🐓	dier haan ornithologie vogel
+💓	cardio hart hartslag hou van jou hvj kloppen kloppend slaan
+😟	bedroefd bezorgd gestresst gezicht nerveus smiley stress triest zenuwen zorgen
+🕍	geloof jodendom jood joods religie synagoge tempel
+👶	baby jong kindje pasgeboren persoon
+🌹	bloem elegant liefde plant rood roos schoonheid valentijn
+🔧	engelse sleutel gereedschap moersleutel schroefsleutel
+🪂	activiteit deltavliegen hanggliden parachute parachutespringen parasailen skydiven
+🦨	dier stank stinkdier
+👩‍🏫	docente instructrice lerares professor vrouw
+🌷	bloem bloesem groei plant tulp
+🥠	geluk koekje profetie
+⛽	benzine benzinepomp benzinestation brandstof pomp station
+⛎	dierenriem drager horoscoop ophiuchus serpent slang slangendrager
+🌋	berg lava magma natuur vulkaan vulkaanuitbarsting
+🛬	aankomen aankomst van vliegtuig landen landing vervoermiddel vliegmachine voertuig
+🔱	anker drietand embleem gereedschap poseidon schip
+💳	bank betaalkaart creditcard geld kaart krediet pinpas
+🏂	ski sneeuw snowboard snowboarder sport
+🔒	gesloten slot privé prive
+🔉	gemiddeld volume luidspreker speaker aan
+🚑	ambulance hulpdienst spoed vervoermiddel voertuig
+🥻	jurk kledij kleding sari
+🈵	geen ideogram japans knop plaats
+🀄	mahjong rode draak rood spel stenen
+😠	boos fronsen gefrustreerd gezicht kwaad smiley woedend
+😚	blosjes blozen gesloten ogen gezicht kus kussend met dicht oog rode wangen smiley zoen
+🧃	drankje pakje rietje sap zoet
+🦶	enkel schop schoppen stampen trap voet
+🙆	gebaar gebaren hand oefening ok omg persoon
+🎏	feest karper karpers karperslinger karperwimpel slinger wimpel
 💄	afspraakje cosmetica date lippenstift make-up opmaken
 🚘	auto automobiel naderend naderende tegemoetkomende vervoermiddel voertuig
-👨‍🏭	arbeider fabriek industrieel lopende band man
-🏣	gebouw japans postkantoor post
-🫐	bes bessen blauw blauwbessen bosbes bosbessen fruit voedsel
-🦑	dier inktvis voedsel weekdier
-🐵	aap banaan dier gezicht
-🧊	ijs ijsberg klontje koud
-🤿	duikbril duiken duikmasker onder water scuba scubaduiken snorkelen vis zee
-📼	band film vhs video videoband
-💟	decoratief hart emotie hartdecoratie paars wit
-🎥	bioscoop bollywood camera film filmcamera hollywood opnemen
-🧥	blazer brr jack jas koud warm aankleden
-🐽	gezicht neus varken varkensneus
-👭	beste vrienden bff daten flirten hand meisjes paar schatje tweeling vasthouden vrouwen zussen
-🚝	monorail vervoermiddel voertuig
-🩷	hart leuk liefde roze schattig
-🧑‍🎓	scholier student
-🏡	gebouw huis met tuin huisje boompje beestje settelen thuis voorstad vrijstaande woning
-😮‍💨	blazen fluisteren fluiten gezicht dat uitademt kreunen naar adem snakken opgelucht roken rook smiley uitademen uitgeput
-🔣	& % ♪ 〒 invoeren symbolen
-🪚	afzagen gereedschap hout houtzaag timmeren timmerman voorwerp zaag zagen
-🧕	hidjab hijab hoofddoek mantilla persoon sluier vrouw met
-🦂	schorpioen scorpio scorpius sterrenbeeld
-➖	- − dikgedrukt min teken wiskunde
-😮	geschokt geschrokken mond oeps omg ongelofelijk ongelooflijk open sympathie vergeten wauw
-🪸	klimaat koraal oceaan rif verandering zee
-🚊	tram trolleybus vervoermiddel voertuig
-😟	bedroefd bezorgd gestresst gezicht nerveus smiley stress triest zenuwen zorgen
-📇	index kaart kaartindex rolodex systeemkaarten
-🌽	boerderij doolhof gewassen kolf maïs
-📫	brievenbus gesloten met vlaggetje omhoog post postbus
-🚄	hogesnelheidstrein hsl shinkansen snelheid spoor trein ultrasnel vervoermiddel voertuig
-🧑‍🎨	kunstenaar palet
-🪪	beveiliging id id-kaart identificatie identiteitskaart legitimatiebewijs overheid vergunning
-🫖	drinken eten pot thee theepot zettten
-🕘	00 09:00 21:00 9 9:00 klok negen tijd uur
-🈵	geen ideogram japans knop plaats
-🐔	dier gevogelte kip
-👩‍🦽	handmatig rolstoel toegankelijkheid vrouw
-🛗	hijstoestel lift machine omhoog omlaag personenlift toegankelijkheid voorwerp
-🍊	c citrus fruit mandarijn nectarine sinaasappel vitamine
-🤒	gezicht met thermometer niet lekker ziek
-🎾	bal sport tennis tennisbal tennisracket
-🤡	clown gezicht
-💰	dollar geld geldzak rijk zak met
-🛴	autoped step steppen vervoermiddel voertuig
-🪷	bloem boeddhisme hindoeïsme lotus puurheid rust schoonheid sereen vrede
-🦉	dier uil vogel wijs wijsheid
-🐛	beestje dier insect tuin
-📣	communicatie geluid gouden megafoon juichen versterken
-😱	angst angstig schreeuwend gezicht bang doodsbang geschrokken dat schreeuwt van munch schreeuw smiley
-🥨	gedraaid krakeling pretzel
-📎	clip paperclip
-🍩	dessert donut eten voedsel zoet
-🐕	dier dieren hond honden huisdier
-🧑‍🧒‍🧒	gezin kind volwassene
-🪮	afro haar haarkam kam kroes
-🫗	drinken gieten glas leeg morsen oeps ongelukje vloeistof uitgieten
-📳	communicatie mobiel modus telefoon trillen
-💏	afspraakje date kus kussen liefde personen romantiek stel stelletje verliefd
-🔮	bol glazen kristal kristallen magie sprookje toekomst voorspellen waarzeggen waarzeggerij
-🙆	gebaar gebaren hand oefening ok omg persoon
-🏈	american football amerikaans bal sport super bowl
-🥿	ballerina ballerina’s comfortabel flatjes instapper platte schoen slip-on
-🦿	beenprothese bionisch been kunstbeen mechanisch prothese toegankelijkheid
-💆	gespannen gezicht gezichtsmassage hoofdpijn massage ontspannen persoon die hoofdmassage krijgt relaxen salon spa spanning
-🫯	debat onenigheid ruzie tumult vechtpartij woordenwisseling worsteling
-🫰	duur geld hand met wijsvinger en duim gekruist hart liefde vingerknip vingers
-🥯	bagel bakkerij brood ontbijt spread
-🦜	dier lorre napraten papegaai piraat praten vogel
-👨‍🌾	boer man tuinder veehouder
-👖	broek jeans kleding spijkerbroek
-🦕	brachiosaurus brontosaurus dinosaurus diplodocus sauropode
-🚯	geen niet verboden zwerfvuil
-🩱	badpak uit één stuk strand zomer zwembad zwemgerief zwemmen zwempak
-➕	+ plus
-😡	boos gezicht kwaad pruilend rood smiley woede woedend
-🥋	judo karate kunst taekwondo uniform vecht
-🐣	baby dier ei kuiken uitkomen vogel
-👑	adel game of thrones kleding koning koningin koninklijk kroon middeleeuwen vorst vorstin
-🏆	beker gewonnen kampioen overwinning prijs trofee winnaar
-🦔	dier egel stekelig
-✋	5 hand hoog opgeheven stop vijf
-🔪	keukenmes koken koksmes mes wapen
-🪔	diya diya-lamp lamp licht olie vlam
-🐏	aries dier dierentuin horens mannelijk ram schaap sterrenbeeld
-🟣	cirkel paars
-🥦	broccoli kool wild
-👜	accessoire handtas kleding modieuze tas winkelen
-🍎	appel dieet fruit gezondheid rijp rood voedsel
-🍜	chopsticks dampend eten kom noedels pho ramen soep
-🐓	dier haan ornithologie vogel
-🪑	hoge stoel meubels meubelstuk zetel zitten
-🧠	hersenen intelligent slim
-📘	bibliotheek blauw boek educatie lezen onderwijs
-🛬	aankomen aankomst van vliegtuig landen landing vervoermiddel vliegmachine voertuig
-🍘	cracker eten rijst
-🦚	dier kleurrijk mooie vogel opzichtig pauw pauwhen pronkerig trots als een
-🎆	feest jaarwisseling knal oud en nieuw oudejaarsavond vermaak viering vuurwerk
-🫌	fragiel hoop insect metamorfose migratie rups transformatie verandering
-🤯	exploderen geschokt ondersteboven onmogelijk ontploffend hoofd smiley verbaasd verbijsterd verrast wow
-🟩	groen vierkant
-🈲	ideogram japans knop verboden
 😈	duivels fantasie gezicht glimlach hoorns lach lachend met paars ondeugend smiley sprookje
-💗	emotie groeiend hart hartslag hou van jou hvj kloppend nerveus spannend xoxo
-🔼	knop omhoog pijl rood
-🎈	ballon feest jarig verjaardag vieren viering
-🦀	dierenriem krab kreeft
-🩸	bloed bloeden donatie druppel medicijnen menstruatie verwonding
-📄	bladzijde document pagina met bovenzijde omhoog
-🐋	dier oceaan strand walvis
-🍌	banaan fruit kalium
-🤕	gewond gezicht met hoofdverband pijn verband verwonding
-👡	damessandaal hak hoge kleding muiltje sandaal schoen met open teen vrouw
-🏤	europees gebouw post postkantoor
-🏓	bal bat batje pingpong sport tafeltennis wedstrijd
-🧁	bakkerij cupcake dessert hagelslag suiker traktatie zoet
-🌲	boom bos dennenboom kerst naaldboom
-🎂	dessert gebak gelukkig taart verjaardag verjaardagstaart viering zoet
-💋	afdruk daten emotie kus kusafdruk liefde lipafdruk lippen romantiek sexy zoen
-🤔	afvragen denken gezicht hmm kin nadenken nadenkend overwegen
-⛳	golf hole sport vlag in
-🧫	bacterie bacteriën biologe biologie bioloog cultuur kweek lab laboratorium petrischaal
-🥠	geluk koekje profetie
-👐	hand handen jazz hands open
-😃	blij gaaf gezicht glimlachen grijns grijnzend groot joepie lach mond ogen open tanden
-👅	lichaam lik slurp tong
-🤨	afkeurend frons gezicht met opgeheven wenkbrauw opgetrokken hmm ongeloof sceptisch skeptisch smiley verrassing wantrouwen wantrouwend wat
-🎌	feest gekruist gekruiste vlaggen japans kruis
-💫	cartoonesk duizelig ster strip vallende
-🤹	balanceren balans beheren hanteren jongleren multitasken nummer persoon vaardigheid
-📠	communicatie fax faxapparaat
-🚪	achterdeur deur gesloten voordeur
-🥹	alsjeblieft aww beschaamd bewondering dankbaar dankbaarheid gevoelens houden huilen tegen tranen trots verdrietig vreugde weerstaan
-🌖	afnemend afnemende maan avond bolvormig ruimte tussen halve en volle wassend
-🙏	alsjeblieft bedankt bidden buigen dank gebaar gebed geef me de vijf gevouwen handen gezegend hand tegen elkaar high five smeken vragen
-🧑‍🎤	acteur entertainer rock ster zanger
-🪥	badkamer borstel hygiëne poetsen tanden tandenborstel tandheelkunde toiletartikelen
-🏄	golf golven oceaan sport strand surfen surfende persoon surfer zee
-👩‍🔬	biologe ingenieur natuurkundige scheikundige vrouw wetenschapster wiskundige
-🤺	degen persoon schermen schermer
-🎠	carrousel draaimolen draaimolenpaard kermis paard pretpark
-🈳	ideogram japans knop plaats vrij
-🔥	brand heet hulpmiddel vlam vuur
-🪿	gans gevogelte onnozel snateren vogel
-🍨	dessert eten ijs restaurant room zoet
-🕓	00 04:00 16:00 4 4:00 klok tijd uur vier
-🔯	geluk jodendom joods met stip ster zespuntig
-📉	dalend dalende trend daling diagram grafiek met negatief
-🐀	dier rat
-👟	atletiek hardlopen kleding rennen schoen sneaker sporten sportschoen
-📯	blaasinstrument hoorn jachthoorn post posthoorn
-😅	gestrest gezicht glimlachen grijnzend koud lach mond neerslachtig nerveus open opgewonden stress zweet
-🦛	dier hippopotamus nijlpaard
-🌛	avond eerste kwartier gezicht maan in met ruimte slapen
-👔	formeel kleding overhemd pak stropdas
-🧡	oranje hart
-❔	contour interpunctie teken vraag wit
-🐺	dier gezicht wolf
-🪹	leeg nest nestelen tak thuis
-🤴	fantasie koning koninklijk kroon prins royalty sprookje
-🌘	afnemend afnemende halvemaan asgrauwe maan avond maansikkel nacht ruimte sikkel
-🩺	arts dokter geneeskunde hart medicijnen stethoscoop ziekenhuis
-🍣	eten sushi
-🍢	eten kebab oden restaurant spies stokje zeevruchten
-🦐	garnaal klein schaaldier voedsel
-🫺	dat dit grip neutraal rechts wijzen
-🍮	dessert pudding vla zoet
-🥐	brood croissant eten frans ontbijt voedsel
-🔖	bladwijzer markering
-🥟	dumpling empanada gyōza jiaozi pierogi potsticker
-🎭	kunst masker maskers optreden theater toneel toneelkunst toneelkunsten treurspel
-🈚	gratis ideogram japans knop kosten
-🚋	tram tramwagon trolleybus vervoermiddel voertuig wagon
-🚦	kruising licht stoplicht verkeer verkeerslicht verkeerslichten verticaal
-😒	boos chagrijnig gezicht ehm jaloers niet blij leuk ongelukkig smiley ugh uhh verveeld whatever
-🔹	blauw diamant geometrisch klein
-🪴	decor groeien huis plant pot potplant verzorgen
-🧰	doos gereedschap gereedschapskist kist monteur rode
-🦃	dier gevogelte kalkoen
-🍄	paddenstoel schimmel zwam
-🟤	bruin cirkel
-🫱	hand handdruk naar rechts reiken schudden vasthouden
-🧟	eng halloween horror levende doden lopende dode monster ondode zombie
-👨‍🎤	acteur entertainer man rock rockster ster zanger
-🫩	gezicht met wallen onder de ogen moe slaperig uitgeput
-🤗	blij gezicht handen knuffel knuffelen uitgestoken
-⏩	dubbel knop pijl snel vooruit
-🕜	1 1:30 13:30 30 dertig een één half twee klok tijd
-📈	diagram grafiek met stijgende trend groei positief stijgend
-🦆	dier eend vogel woerd
-🤼	duel olympische spelen personen die worstelen sport toernooi worstelaar
-🎶	achtste noten geluid muziek muzieknoten noot
-🦁	alfa brul dier gezicht leeuw leo manen orde safari sterk sterrenbeeld
-🤏	beetje gebaar voor kleine hoeveelheid hand met samengeknepen vingers klein weinig
-🪄	goochelaar goochelen heks magie magiër tovenaar toveren toverstok tovertruc
-🆖	knop ng
-😙	143 afspraakje daten flirten gesloten gezicht ik hou van je kus kussen lach lachen liefde nacht ogen oog
-🙍	bedroefd frons fronsend persoon fronzen teleurgesteld uitdrukking verdrietig verontrust vrouw
-🚂	locomotief reizen spoor spoorweg stoom stoomtrein trein vervoermiddel voertuig
-👰	bruiloft persoon sluier
-🚭	nee niet roken verboden
-😨	angst angstig bang bezorgd gezicht schuld
-🎼	g-sleutel muziek notenschift partituur
-🤦	ergernis gebaar gezicht hand voor niet opnieuw ongeloof ongelooflijk palm persoon die het met de bedekt schaamte zucht
-📞	bellen hoorn telefoon telefoonhoorn
-🚎	bus tram trolley trolleybus vervoermiddel voertuig
-🔢	1234 cijfers invoeren
-🪣	aker dweil dweilen emmer poetsen putemmer schoonmaken vat voorwerp water
-😾	boos kattengezicht dier gezicht kat mokken pruilen pruilende smiley
-🥢	chopsticks eetstokjes eten stokjes
-🏑	bal hockey hockeystick en sport stick veld wedstrijd
-🎢	achtbaan baan pretpark
-🐭	dier gezicht muis
-😧	bang gekweld gezicht lijden lijdend ontevreden smiley stress verrast
-🐷	boerderij dier gezicht spek varken
-🫣	geboeid gezicht met glurend oog gluren smiley spieken staren stiekem kijken
-🍈	fruit kanteloep meloen
-🤛	linksom naar links vuist
-🙋	antwoord blij gebaar hand ik weet het omhoog persoon met opgeheven vraag vrouw die opsteekt
-🚲	fiets fietsen rijwiel spinning vervoermiddel voertuig
-🍑	fruit perzik
-🌍	aarde afrika europa wereld wereldbol met europa-afrika
-👬	beste vrienden bff broers daten flirten hand jongens paar schatje tweeling vasthouden
-🐗	dier varken zwijn
-🤎	bruin hart liefde symbool
-🚃	elektrisch spoor tram trein treinwagon trolleybus vervoermiddel voertuig wagon
-🎤	geluid karaoke microfoon muziek zingen
-👿	boos duiveltje gezicht met hoorns demon duivel duivels fantasie kleine paars duivelsgezicht smiley sprookje
-📡	antenne communicatie satelliet satellietschotel schotel
-🫨	aardbeving gek gezicht omg paniek schok schudden trillen verbijstering verrassing wauw wow
-🤜	naar rechts rechtsom vuist
-🌰	amandel kastanje plant
-🐨	australië beer buideldier dier down gezicht koala under
-📚	boek boeken educatie kennis lezen onderwijs opleiding school
-🌿	blad kruid plant
-♍	dierenriem horoscoop maagd virgo
-📂	bestand geopende bestandsmap map open
-🔠	abcd hoofdletters invoeren latijns letters
-🔗	schakels twee ringen
-🔱	anker drietand embleem gereedschap poseidon schip
-🥒	augurk eten groente komkommer
-⏪	dubbele pijl links knop voor versneld terugspoelen
-🥁	drummen drums drumsticks muziek muziekinstrument trommel trommelen trommelstokken
-📅	datum kalender
-👨‍🦼	elektrisch man rolstoel toegankelijkheid
-🍚	gekookt rijst voedsel
-🐆	dier dierentuin groot kat luipaard roofdier
-☔	druppels kleding paraplu met regendruppels regen weer
-🍼	baby babyfles babyflesje drinken fles flesje flesvoeding geboorte melk
-🎳	bal bowlen spel sport strike
-🪭	afkoelen dansen fladderen heet opvouwbare waaier verlegen
-🍉	fruit watermeloen
-🎄	boom feest kerstboom kerstmis viering
-🔲	geometrisch knop vierkant zwart
-🧑‍🌾	boer tuinder veehouder
-🚩	driehoekige vlag golf locatie puntvlag
-🦓	dier streep zebra
-🍗	bot gevogelte honger kalkoen kip kippenpoot poot
-🥮	cake festival herfst maan yuèbǐng
-🏪	boodschappen gebouw supermarkt winkel
-🍓	aardbei bes fruit
-🤚	achterkant van opgeheven hand achterzijde opgestoken omhoog handrug rug vijf vingers
-📩	brief communicatie e-mail envelop omlaag pijl post uitgaand verzenden verzonden
-📓	notitieboek schrift
-👥	bff buste bustes in silhouet schaduw van twee personen vrienden
-📊	diagram grafiek staaf staafdiagram staafgrafiek
-🗽	beeld new york nyc vrijheid vrijheidsbeeld
-🕒	00 03:00 15:00 3 3:00 drie klok tijd uur
-🪋	apocalyps ruimte steen vallende ster vuurbal zwaartekracht
 👓	bijziend bril brillen kleding oog verziend zien zonnebril
-🚰	drink drinkbaar water
-🎽	atletiek hardloopshirt hardlopen shirt sjerp sport
-😴	bedtijd dutje gapen gezicht moe slaap lekker slapen slapend smiley vermoeid welterusten zzz
-🎦	bioscoop camera film filmen
-🥏	frisbee schijf ultiem ultimate vliegende schotel werpschotel
-🦡	das dier honing kwellen
-🎨	creatief kleurrijk kunst kunstzinnig museum palet schilderen schilderij schilderspalet
-🍖	bot vlees
-🔍	gereedschap glas vergrootglas naar links gericht vergroten zoeken
-🌹	bloem elegant liefde plant rood roos schoonheid valentijn
-👩‍🚀	astronaut raket ruimte vrouw
-🐚	dier schelp spiraal strand zee
-🎰	casino eenarmige bandiet fruitautomaat gokkast gokken spel
-🕺	dansen dansende man disco feest festival flamenco persoon salsa tango
-🔡	abcd invoeren kleine letters latijns
-👩‍🦯	blind toegankelijkheid vrouw met blindenstok taststok
-🕍	geloof jodendom jood joods religie synagoge tempel
-🛁	bad badkuip met douche
-💘	afspraakje cupido date hart met pijl hou van jou hvj liefde door romantiek valentijn
-🥍	bal doel lacrosse sport stick
-🧑‍🔧	elektricien handelsman loodgieter monteur
-😍	gevoelens gezicht hartjes hartjesogen kussen lach liefde oog romantiek schatje
-🆑	cl knop
-🧃	drankje pakje rietje sap zoet
-👒	dameshoed hoed met strik kleding vrouw
-♌	dierenriem horoscoop leeuw leo
-🌞	gezicht helder warm weer zon met zonneschijn
-🍆	aubergine groente
-😊	blozen gelukkig gezicht glimlach glimlachen ogen oog tevreden
-🫸	duwen hand die naar rechts duwt high five stoppen wachten weigeren
-💲	betalen dikgedrukt dollarteken dollar geld munteenheid valuta
-🦍	dier gorilla
-🌈	genderqueer glbt homoseksueel lesbisch lgbt lgbtq lgtbqia lhbt natuur pride queer regen regenboog transgender weer
-🙂	blij enigszins gezicht glimlachen lach
-🧭	kompas magnetisch navigatie oriëntatielopen oriënteringslopen richting
-👞	formeel herenschoen kleding leren schoen man nette
-🩳	badpak broek korte ondergoed pak zwem
-🧑‍🚀	astronaut raket
-🕚	00 11 11:00 23:00 elf klok tijd uur
-😵	dood duizelig gezicht met mond open en kruisjes als ogen smiley ziek
-📿	gebed gebedsketting gebedskralen gebedssnoer geloof ketting kleding kralen
-🤓	geek gezicht met bril en tanden nerd nerderig nerdgezicht smiley
-🪀	fluctueren jojo kinderen op en neer speelgoed spelen
-🏫	gebouw school
-🍹	alcohol bar club drankjes drinken dronken mai tai mix tropisch drankje
-🕝	14:30 2 2:30 30 dertig half drie klok tijd twee
-🕠	05:30 17:30 30 5 5:30 dertig half zes klok tijd vijf
-📟	pager pieper
-🎵	achtste noten muziek muzieknoot noot
-👙	bikini kleding zwembad zwemkleding zwemmen
-🩲	onderbroek ondergoed slip sporten strand zwembroek zwemgerief zwemkleding zwemmen
-🤑	betaald geld geldmond gezicht mond
-🚛	truck vervoermiddel voertuig vrachtauto vrachtwagen met oplegger
-🥘	braadpan eten ondiep paella pan
-😘	flirten gezicht dat kus toeblaast hartje kusje blazen kussen romantiek smiley xoxo zoen
-🛺	auto azië riksja thailand tuktuk vervoer wagen
-👱	blond haar mens persoon
-🛂	controle paspoort
-🪓	bijl gereedschap hakken hout houthakker splijten
-🫝	condiment fermenteren ingemaakt komkommer kruiderij zuur
-🔞	18 achttien beperking één leeftijd minderjarig nee niet verboden
-🤝	deal hand handdruk overeenkomst schudden vergadering
-📒	grootboek map notitieboek ringband schrift
-🚥	horizontaal verkeerslicht licht stoplicht verkeer verkeerslichten
-🔊	hard hoog volume luid luidspreker speaker
-🐴	boerderij dier dressuur gezicht paard paarden
-😕	gezicht hmm ik weet het niet in de war ontevreden peinzend smiley teleurgesteld uhm verward
-🫑	capsicum groente paprika peper voedsel
-🫄	baby buik opgeblazen persoon vol zwanger
-🪐	heelal planeet met ringen ruimte saturnus zonnestelsel zwaarmoedig
-🏅	eerste plaats gewonnen medaille 1e met ster sportmedaille winnaar
-🏯	gebouw japans kasteel
-🌊	golf golfsurfen golven japan kanagawa oceaan surfen water weer zee
-💿	blu-ray cd cd-rom computer dvd optisch optische schijf
-🪦	begraafplaats begrafenis dood graf grafsteen grafzerk kerkhof overleden voorwerp
-⚾	bal honkbal sport
-👈	achterkant hand links vinger wijs wijsvinger wijzen
-🦒	dier giraffe vlekken
-🌗	avond kwartier maan in laatste ruimte
-🚸	kind kinderen oversteekplaats verkeer voetganger
-🤳	camera selfie telefoon
-🏀	bal basket basketbal sport
-🚏	bus bushalte halte
-🥷	geheim japan krijger ninja persoon samurai sluipmoordenaar vechten verborgen zwaard
-⚽	bal futsal messi ronaldo sport voetbal
-🚖	auto’s geel naderend rijden roepen taxi
-👂	geluid horen lichaam luisteren oor
-👝	accessoire clutch enveloptas handtas kleding tas tasje
-📵	mobiel nee niet telefoon telefoons verboden
-🐳	dier gezicht oceaan spuitend strand walvis
-😯	geschokt gezicht omg smiley verbaasd verrast verstomd wauw wow
-🍫	chocolade dessert halloween reep snoep zoetekauw
-🌋	berg lava magma natuur vulkaan vulkaanuitbarsting
-🧝	elf fantasie folklore in de ban van ring-stijl legolas lotr-stijl magisch mythe
-💛	emotie geel hart hou van jou hvj liefde
-👨‍💻	computer man ontwikkelaar programmeur software technoloog uitvinder
-🐃	buffel dier dierentuin water
-🧆	falafel gehaktbal kikkererwt
-💎	bruiloft diamant edelsteen juweel romantiek trouwen verloving
-🧑‍🚒	brandweerman brandweerwagen
-📷	camera fotocamera fotograferen selfie snap video
-⛪	christelijk geloof kapel kerk kruis religie
-🚵	berg fiets fietsen fietser mountainbiken persoon sport
-🐟	dier eten pisces sterrenbeeld vis vissen
-🤥	gezicht leugen leugenaar liegen pinokkio
-😛	gezicht met uitgestoken tong en open ogen grapje grappig ontdeugend smiley uitsteken uitgesteken
-🦵	been gebogen knie ledemaat schop voet
-🪒	baard badkamer mesjes scheermes scheren scherp voorwerp
-💈	kapper kapperspaal kapsel paal
-📹	camcorder camera video videocamera
-🛵	brommer motor scooter vervoermiddel voertuig
-💸	bankbiljet biljet briefgeld dollar geld met vleugels vliegen vliegend
-🔦	elektrisch lamp licht zaklamp zaklantaarn
-🧑‍🧑‍🧒‍🧒	gezin kind volwassene
-🚳	fiets fietsen nee niet verboden
-🪵	balk bijl boomstam hakken hout open haard stam timmerhout vuur zagen
 😂	blij gevoelens gezicht grappig haha hehe hilarisch huilen lachen lmao lol rofl roflmao traan vreugde
-🐦	dier duif vogel
-🔩	bout en moer gereedschap
-🤠	cowboy cowgirl gezicht hoed
-🔉	gemiddeld volume luidspreker speaker aan
-💇	beauty beroep haar knippen kapper kapsalon kapsel kapster persoon die wordt geknipt salon schaar schoonheid
-🧓	bejaard genderneutraal niet nader omschreven geslacht oud ouder persoon oudere volwassene
-👼	baby engel fantasie gezicht kerk sprookje
-🪠	kracht loodgieter ontstopper poep wc zuiger zuigkracht
-👨‍💼	ambtenaar architect bedrijf kantoor man manager werknemer
-🔃	met de klok mee opnieuw laden pijl pijlen verticaal verversen
-🦦	dier otter speels vissen
-🗻	berg fuji natuur vulkaan
-🐖	boerderij dier spek varken zeug
-🧲	aantrekking aantrekkingskracht hoefijzer magneet magnetisch positief negatief uvormig
-🚻	plee toilet wc
-💤	cartoonesk goedenacht moe rust saai slaap slaapwel slapen slaperig strip vermoeid zzz
-🔌	elektriciteit elektrisch stekker
-🏺	amfoor amfora drinken horoscoop koken kruik sterrenbeeld waterman
-📻	entertainment muziek radio
-🧑‍🦯	blind persoon met taststok toegankelijkheid
-🪗	accordeon bandoneon concertina instrument muziek trek trekzak
-🍱	bento box voedsel
-🔘	geometrisch knop radio
-🕙	00 10 10:00 22:00 klok tien tijd uur
-👻	boe fantasie geest gezicht halloween monster spook met tong uit mond sprookje uitgestoken wezen
-🧉	drank maté
-🫀	anatomisch cardiologie echt hart hartslag orgaan polsslag rood
-🦭	dier leeuw oceaan zee zeehond
-👨‍🔬	bioloog ingenieur man natuurkundige scheikundige wetenschapper wiskundige
-🐫	bult dier dromedaris kameel twee bulten woestijn
-♉	dierenriem horoscoop os stier taurus
-👨‍🍳	chef-kok kok man
-🚢	boot passagier passagiersschip schip titanic vaartuig
-🥽	bescherming bril duik duiken lassen oog zwemmen
-🚟	hangend spoor vervoermiddel voertuig zweeftrein zwevend
-🔶	diamant geometrisch groot oranje
-🪡	borduren draad hechten hechtingen hobby kleding kleermaken naaien naald speld
-⛺	kamperen tent
-🙁	fronsen fronsend gezicht licht verdrietig
-👾	alien buitenaards game gezicht monster pixels ruimte space invader spel ufo videogame wezen
-💷	bankbiljet biljet briefgeld briefje geld pond pondbiljet valuta
-🏉	bal football rugby sport voetbal
-❓	interpunctie rood teken vraag
-👩‍🎨	kunstenares palet vrouw
-🐇	dier huisdier konijn konijntje
-🌾	aar graan granen plant rijst rijstaar
-🛷	rodelen roetsjen slede slee sleeën sleetje sneeuw
-🌀	cycloon duizelig spiraal twister tyfoon weer
-🦴	bot botten hond skelet vorkbeen
-👨	man volwassen vriend
-💥	boem bom botsen botsing ontploffen strip
-🗿	beelden gezicht moai moai-beeld paaseiland reizen standbeeld
-⛵	boot jacht jachthaven vaartuig vervoermiddel zee zeilboot
-🫵	aanwijzen hand jij vinger wijsvinger die naar de kijker wijst wijzen
-🏰	europees gebouw kasteel middeleeuwen
-🐞	dier insect kever lieveheersbeest lieveheersbeestje natuur tuin
-🚆	aankomst spoor trein vertrek vervoermiddel voertuig
-🐕‍🦺	assistentie dier hond hulp toegankelijkheid
-🐮	boe boerderij dier gezicht koe melk
-🏮	bar lantaarn licht rode papieren rood
-😥	bijna gezicht ingewikkeld oef opgelucht smiley teleurgesteld maar zweetdruppel zweten
-🧤	hand handschoenen
-🐰	dier gezicht huisdier konijn
-🏨	gebouw hotel
-🍕	eten honger kaas pepperoni pizza punt
-📗	bibliotheek boek educatie groen lezen onderwijs
-🎇	afsteken feest jaarwisseling knal oud en nieuw oudejaarsavond sterretje viering vuurwerk vuurwerksterretje
-🪳	bakkerstor dier insect kakkerlak plaag
-⚡	bliksem donderslag elektriciteit elektrisch gevaar hoog voltage schok spanning
-⏬	dubbel knop omlaag pijl snel
-🍻	alcohol bar bier café drinken glas klinkende bierglazen proosten proostende
-🚺	dames plee toilet vrouw wc
-👚	blouse dames dameskleding kleding shirt
-🧳	bagage inpakken koffer reis reizen rolkoffer trolley
-♐	boogschutter dierenriem horoscoop sagittarius
-🚤	boot jacht luxe miljonair reizen speedboot vaartuig zomer
-📝	aantekeningen memo opmerkingen papier potlood
-🪨	betrouwbaar graniet rots rotsblok steen sterk zwaar
-🍅	fruit groente tomaat voedsel
-📁	bestand bestandsmap map
-🎁	cadeau cadeautje cadeauverpakking met strik feest ingepakt verpakking
-🧑	persoon volwassene
-🚒	auto brand brandweerauto hulpdienst spoed vervoermiddel voertuig
-👷	bouw bouwvakker helm klusser man persoon renovatie renoveren werk
-🔤	abc alfabet invoeren latijns letters
-🚞	berg bergspoor spoor vervoermiddel voertuig wagon
-🌐	aarde internet meridianen wereld wereldbol met www
-😸	dier gezicht grijns grijnzend kattengezicht met lachende ogen grijnzende kat lach oog vrolijk
-🫡	bevel ja oké saluerend gezicht saluut smiley troepen zonnig
-🟰	dikgedrukt gelijk gelijkheid is aan teken uitkomst wiskunde
-🚬	roken sigaret
-🆒	cool knop
-🍺	alcohol bar bier bierglas café drinken duitsland glas oktoberfest pils pint
-🪏	gat graven schep schop spade
-🐂	boerderij dier dieren os sterrenbeeld stier taurus
-🤙	bel me-gebaar mij-gebaar bellen hand handgebaar voor
-♓	dierenriem horoscoop pisces vissen
-👵	dame grootmoeder oma oud ouder volwassene vrouw wijs
-🐧	antarctica dier pinguïn vogel
-❎	× knop kruis teken vermenigvuldigen vermenigvuldiging vierkant x
-🟫	bruin vierkant
-🥩	biefstuk bout karbonade kotelet lamskotelet rood vlees
-🦾	armprothese bionische arm kunstarm mechanische prothese toegankelijkheid
-🎣	hengel sport vis vishengel
-😌	gezicht kalmte opgelucht opluchting vrede zen
-🫷	duwen hand die naar links duwt high five stoppen wachten weigeren
-🐝	bij dier hommel honing honingbij insect lente natuur
-🌻	bloem buiten plant zon zonnebloem
-✨	* glinsteren glinsterende sterren ster sterretjes
-🚽	toilet wc
-🥑	avocado fruit voedsel
-👛	accessoire beurs geld uitgeven kleding knip munt portefeuille portemonnee roze winkelen
-🌮	mexicaans taco
-📋	klembord notities to-dolijst
-🦊	dier gezicht vos
-⚫	cirkel geometrisch zwart
-♒	aquarius dierenriem drager horoscoop water waterman
-🐈‍⬛	dier halloween kat katachtig miauw pech zwart
-🩵	blauwgroen groenblauw hart lichtblauw
-📤	brief mail post postvak uit uitgaand verzonden
-🐐	boerderij capricorn dier geit melk sterrenbeeld
-🧂	gezouten overstuur smaak specerij zout zoutvaatje
-🎯	bull’s eye bullseye darts directe treffer doelwit in de roos spel sport voltreffer
-🐻	beer dier gezicht grizzly grommen honing
-🔨	gereedschap hamer timmeren
-🚣	boot meer persoon in roeiboot roeien roeiende roeispaan sport
-👕	blauw shirt kleding kraag poloshirt t-shirt vrijetijdskleding
-🐼	bamboe dier gezicht panda
-👃	geur lichaam neus ruiken stinkt
-📭	brievenbus omlaag open met vlaggetje post postbus
-🚁	helikopter roflcopter roflkopter vervoermiddel voertuig
-🛻	auto bestelbak laadbak laadbakwagen pick-up transport truck vervoer vracht wagen
-🕤	09:30 21:30 30 9 9:30 dertig half tien klok negen tijd
-🫅	edele heerser iemand van koninklijken bloede keizer koning koninklijk persoon met kroon regaal
-🧑‍🦽	persoon in rolstoel toegankelijkheid
-🌱	jong plant spruit stekje zaailing
-😪	gezicht huilen slaap slaperig smiley traan
-🧒	heldere ogen jong jonger kind kleinkind
-🦤	dier dodo groot ornithologie uitsterven vogel
-👢	dameslaars kleding laars schoen vrouw
-📬	brievenbus open met vlaggetje omhoog post postbus
-🚼	baby symbool verschonen
-🚑	ambulance hulpdienst spoed vervoermiddel voertuig
-😞	afgewezen afwijzing bedroefd gezicht niet blij schuldig smiley teleurgesteld teleurstelling terneergeslagen triest verloren
-🍸	alcohol bar café cocktail cocktailglas drinken glas mad men martini
-🥵	beroerte gezicht heet hijgen hitte koortsig rood sterven tong zweten
-🫔	eten mexicaans pamonha tamale verpakt
-👹	duivel eng fantasie gezicht masker monster oger sprookje verhaal wezen
-😬	gezicht met grimas grimasgezicht grinniken niks oeps ongemakkelijk smiley tanden op elkaar
-🤶	feest kerst kerstmis kerstvrouw moedertje persoon viering
-🎓	afstuderen baret feest hoed kleding opleiding student
-👩‍🎓	scholier student vrouw
-🛖	huis hut joert onderdak ronde strand woning
-🎬	actie entertainment film filmklapper filmset klapbord klapper opnames
-🤘	hand hoorns rock on teken vinger
-🕣	08:30 20:30 30 8 8:30 acht dertig half negen klok tijd
-🤫	gezicht manen sst stil stilte
-🔭	buitenaards leven gereedschap heelal instrument sterrenkijker telescoop wetenschap
-🌸	bloem bloesem kers lente plant voorjaar
-🥻	jurk kledij kleding sari
-🎷	instrument muziek muziekinstrument sax saxofoon
-😺	dier gezicht grijnzen kat lach lachen mond open
-😫	bah gezicht jakkes moe niesen niezen smiley vermoeid vies
-😀	blij fijn gezicht glimlachen grijns grijnzend lach lachen leuk tanden vrolijk
-💭	ballon besef cartoonesk dagdromen denkballon denkwolkje gedachteballon gedachten gedachtenballon strip uitvinden uitvinding
-🦼	elektrische rolstoel rijden toegankelijkheid wiel
-👩‍💼	ambtenaar architect bedrijf kantoor manager vrouw werknemer
-♿	handicap rolstoel symbool toegang
-🥄	bestek lepel tafelgerei
-🧽	absorberen absorberend baden poreus schoonmaken schrobben spons
-💵	bankbiljet biljet briefgeld briefje dollar dollarbiljet geld valuta
-🐹	dier gezicht hamster huisdier
-💾	computer disk diskette floppy floppydisk opslaan
-🌔	avond bolvormig maan ruimte tussen halve en volle wassend wassende
-🥫	blik ingeblikt voedsel
-💴	bankbiljet biljet briefgeld briefje geld valuta yen yenbiljet
-🦧	aap dier orang-oetang
-🍶	bar café drankje drinken fles kopje sake
-⚪	cirkel geometrisch wit
-🆙	knop teken up
-😎	bril chillen cool gaaf geweldig gezicht glimlach ontspannen stijl stoer strand zonnebril
-📐	driehoek geo geodriehoek liniaal meetinstrument meten wiskunde
-🫧	bad bubbel bubbels onderwater schoon wassen zeep zeepbellen
-💕	hart hou van jou hvj jubileum liefde twee harten xoxo
-😗	afspraakje date gezicht hou van jou hvj kus kussen kussend smiley xoxo zoen
-🫤	gefrustreerd gezicht met schuine mond het zal wel meh onzeker sceptisch smiley teleurgesteld
-💬	aan het typen ballon cartoonesk dialoog spraak spraakballon strip tekstballon met puntjes
-🛘	aardbeving berg gevaar lawine modderlawine ramp stenen
-🚚	bestelbus bestelwagen bezorging bus levering pakketdienst truck vervoermiddel voertuig
-🔚	end pijl
-💺	stoel treinstoel vliegtuigstoel
-🎉	confetti feest feestknaller hoera jarig knaller partypopper verjaardag viering
-🤲	beide handpalmen omhoog bidden gebed hand kommetje maken met handen palmen bij elkaar
-😔	afgewezen balen gezicht moedeloos peinzend smiley teleurgesteld terneergeslagen triest verdrietig verloren
-👋	ben je er doei groet groeten hallo hand is daar iemand moet gaan spreek later tot ziens ttyl zwaai zwaaien zwaaiende
-🎊	bal confetti confettibal feest hoera jarig verjaardag viering
-💼	aktentas aktetas boekentas handtas kantoor
-🥬	bladgroen bladgroente boerenkool bok choy burgers kool paksoi salade sla
-🈸	ideogram japans knop toepassing
-🚱	droog geen drinkwater niet drinkbaar verboden water
-🐄	boe boerderij dier dieren koe melk
-⬜	geometrisch groot vierkant wit
-😝	bah dichte ogen gezicht met uitgestoken tong en dichtgeknepen oog smaak smerig smiley vies vreselijk
-😓	angstzweet bang dichtgeknepen ogen gezicht met koud neerslachtig zweetdruppel nerveus smiley zweet
-🩼	gewond handicap kruk lopen mobiliteitshulp stok wandelstok
-🙀	dier geschokt geschrokken kat gezicht oh nee smiley verbazing vermoeid vermoeide verrast
-🧯	blusapparaat blussen blusser brandblusapparaat brandblusser doven vuur
-🦖	dinosaurus rex t t-rex tyrannosaurus
-🧑‍🧒	gezin kind volwassene
-🐒	aap banaan dier
-🥴	aangeschoten beneveld beschonken dronken duizelig gezicht mond ogen scheel wazig
-🧅	smaakmaker ui
-🍙	balletje eten japans rijst
-👨‍🚒	brandweer brandweerman brandweerwagen man
-🪈	blokfluit dwarsfluit fluit houtblazer muziek pijperfluit
-🏏	bal bat cricket cricketbat en slaghout sport wedstrijd
-👴	grootvader kaal man opa oud ouder volwassen wijs
-🦝	dier nieuwsgierig sluw wasbeer
-🎲	dobbelen dobbelsteen dobbelstenen spel yahtzee
-🚡	baan gondel kabel kabelbaan transportbaan vervoermiddel voertuig
-😑	dichtgeknepen geen commentaar uitdrukking gezicht jaloers lame omg ontevreden smiley tegenzin ugh uitdrukkingsloos vooruit wtf
-🥶	bevriezen bevriezing blauw gezicht ijspegels koud onder nul tanden
-🚿	douche douchekop water
-🖕	hand midden vinger
-🫆	forensisch identiteit veiligheid vingerafdruk
-🧑‍🍳	chef-kok kok
-🫠	beschaamd gezicht haha heet lol oplossen sarcasme sarcastisch smelt smelten verdwijnen vloeibaar warm
-🐑	blaten boerderij dier lam ooi schaap vrouwelijk wol wollig
-🕐	00 01:00 1 1:00 13:00 één klok tijd uur
-🔑	beveiligd op slot openen sleutel wachtwoord
-🚕	taxi taxichauffeur uber vervoermiddel voertuig
-🎹	instrument keyboard muziek muziekinstrument piano
-🦮	blind dier geleide hond toegankelijkheid
-📃	bladzijde document half opgerold papier krul omkrullende pagina met
-👨‍🔧	elektricien handelsman loodgieter man monteur
-😄	blij gezicht glimlachen grijns grijnzend lach lachen lol mond ogen oog open
-🥲	aangedaan blij dankbaar enigszins lachend gelukkig gezicht met traan opgelucht smiley trots
-🫥	depressief depri gedeprimeerd gezicht in stippellijn introvert onzichtbaar smiley verbergen verdwijnen
-🥤	beker met rietje drinken frisdrank sap water
-🥃	glas likeur shot tumbler whiskey whisky
-🗼	tokio tokio-toren tokiotoren toren
-🙄	gezicht ogen rollen met de schaduw ugh wat dan ook
-🦥	lui luiaard traag
-🧞	aladin djinn fantasie geest in de fles lamp mythe sprookje wens
-🤪	gek gezicht gekke blik gestoord groot klein oog smiley
-👩‍🍳	chef-kok kok vrouw
-🫘	bonen kidneyboon klein peulvrucht voedsel
-🥇	eerste gewonnen goud gouden medaille 1e plaats winnaar
-🐘	dier olifant
-🔻	driehoek geometrisch omlaag rood wijzend
-🎡	kermis pretpark rad reuzenrad
-🕢	07:30 19:30 30 7 7:30 dertig half acht klok tijd zeven
-💪	aanspannen arm biceps bodybuilder flex gewichtheffen spannen spier spierbal spierballen sportschool sterk strip
-🎒	boekentas rugzak school schooltas tas
-😢	bedroefd gevoelens gezicht huilen huilend smiley traan triest
-👨‍🦯	blind man met blindenstok taststok toegankelijkheid
-🫪	geschokt kwetsbaar onrust opgeblazen paniek verrast
-🔕	bel dempen doorgestreepte geen geluid uit niet toegestaan stil stilte
-📢	luid luidspreker megafoon toespraak toespreken
-🦟	beet insect koorts malaria mug ongedierte virus ziekte
-🎅	fantasie feestdag kerst kerstman kerstmis viering vrolijk
-❕	contour interpunctie teken uitroep wit
-🤽	persoon polo spelen sport water waterpolo zwemmen
-🗾	japan kaart van
-🔆	helder helderheid knop licht
-🤣	blij gezicht grappig haha hehe hilarisch huilen lachen lmao lol rofl roflmao rollen traan vloer vreugde
-🦅	adelaar dier ornithologie vogel
-🧶	bal bol breien draad haken wol
-🍇	dionysus druif druiven fruit
-🌯	burrito mexicaans wrap
-🌎	aarde amerika noord- en zuid-amerika wereld wereldbol met
-🀄	mahjong rode draak rood spel stenen
-🦣	dier groot mammoet slagtand uitsterven wollig
+📂	bestand geopende bestandsmap map open
+👱	blond haar mens persoon
+🌇	flatgebouwen gebouw metropool miljoenenstad schemer zon zonsondergang
+🪀	fluctueren jojo kinderen op en neer speelgoed spelen
+🎾	bal sport tennis tennisbal tennisracket
+🔼	knop omhoog pijl rood
 🥝	fruit kiwi voedsel
-😻	dier gezicht hart hartjesogen kat lach lachen liefde oog
-🎸	gitaar instrument muziek muziekinstrument strat stratocaster
-⏫	dubbel knop omhoog pijl snel
-🏩	gebouw hotel liefde liefdeshotel love-hotel lovehotel
-🥓	eten ontbijt spek vlees
-➗	÷ delen deling dikgedrukt teken wiskunde
-🐦‍🔥	as fantasie feniks hergeboorte herrezen mythe reïncarnatie vogel vuurvogel
-🔁	herhalen knop met de klok mee pijl
-👪	gezin kind
-🤍	hart liefde symbool wit
-🪃	australië boemerang buiten reactie spel terugslag
-🔧	engelse sleutel gereedschap moersleutel schroefsleutel
-🐶	dier gezicht hond huisdier puppy puppy’s schattig
-🦌	dier hert
-🎋	boom met papierlinten feest japans tanabata tanabataboom
-🕌	geloof islam moskee moslim religie
-📔	boek decoratief notitieboekje omslag opleiding school schrijven versierd
-🕗	00 08:00 20:00 8 8:00 acht klok tijd uur
-🐲	dier draak gezicht sprookje
-👊	boks gebald gebalde vuist groet hand mee eens stoot stotende
-🫙	container leeg niets pot saus specerij winkel
-🚇	metro ondergrondse vervoermiddel voertuig
-🧏	doof persoon horen oor slechthorend toegankelijkheid
-🤐	dicht geheim gezicht houden mond rits als stil zwijg
-👩	dame volwassene vrouw
-🍡	dango dessert japans spies stokje zoet
-📧	brief e-mail mail post
-🛜	computer draadloos internet netwerk
-🐊	dier dierentuin krokodil
-📌	punaise speld
-🕕	00 06:00 18:00 6 6:00 klok tijd uur zes
-⛲	fontein
-🔫	gereedschap pistool revolver vuurwapen wapen water waterpistool
-🍐	fruit peer
-⚓	anker hulpmiddel schip
-🪆	baboesjka baboesjka’s genest matroesjka pop poppetjes rusland russisch
-📦	bezorging dichtgeplakte doos pakket pakketje
-🧧	cadeau geld geluk geschenk hóngbāo lai see rode envelop enveloppe voorspoed
-🪽	engelachtig luchtvaart mythologie vleugel vliegen vogel
-🎪	circus circustent tent
-😏	arrogant flirten gezicht met grote grijns gladjes gniffelen gniffelend grijnzen schuin smiley swag vol van zichzelf wenkbrauwen
-🛄	aangekomen bagage ingecheckt inpakken klaar koffer ophalen reis reisje reizen tassen vliegtuig
-♑	capricorn dierenriem horoscoop steenbok
-🧑‍💼	architect bedrijf kantoormedewerker manager
-🐁	dier dieren muis
-🐌	dier escargot naaktslak natuur slak tuin
-👩‍🌾	boer tuinder veehouder vrouw
-🕑	00 02:00 14:00 2 2:00 klok tijd twee uur
-🎀	feest roze lint strik viering
-📪	brievenbus gesloten met vlaggetje omlaag post postbus
-🎮	controller game gamecontroller playstation spel videogame videospel xbox
-🔴	cirkel geometrisch rood
-🦞	bisque dier kreeft scharen zeevruchten
-🛐	bidden godsdienst plaats religie
-🛹	board deck skate skateboard skaten skater wielen
-👩‍🏭	arbeider fabriek industrieel lopende band vrouw
-🙅	gebaar hand illegaal nee niet persoon verboden
-🏧	atm bank contant geautomatiseerd geld pinnen teken
-🧢	baseballcap hoofddeksel pet
-🫎	dier eland gewei zoogdier
-💁	brutaal hand ophouden hulp informatie knikken persoon achter informatiebalie roddelen sarcasme sarcastisch uitleg geven vrouw met omhoog
-🈶	gratis ideogram japans knop kosten niet
-🌺	bloem hibiscus plant
-🤬	boos censuur gezicht met symbolen op mond tekens over kwaad schelden smiley vloeken
-🤢	gadver gezicht misselijk overgeven vies ziek
-💃	dansen dansende vrouw met rode jurk danseres elegant feest flamenco persoon salsa tango
-🦋	insect mooi vlinder
-🐥	baby dier gevogelte kuiken naar voren kijkend kuikentje vogel
-🚫	nee niet roken toegang verboden
-💞	draaien draaiende harten emotie hart jubileum ronddraaiende
-🥖	brood eten frans stokbrood
-🉑	acceptabel ideogram japans knop
-🚓	auto hulpdienst politie politieauto politiewagen vervoermiddel voertuig
-🧑‍🔬	bioloog ingenieur natuurkundige scheikundige wetenschapper
-🔒	gesloten slot privé
-🐦‍⬛	dier kauw kraai kraaiachtige ornithologie raaf roek snavel vogel zwart
-😐	geen commentaar gezicht jaloers neutraal niet leuk ongemakkelijk pokerface pokergezicht uitdrukkingsloos uitgestreken
-🪘	beat conga hoog instrument ritme trom
-🎩	fancy formeel goochelen goochelhoed hoed hoge hoog kleding
-👩‍🎤	actrice entertainer rock rockster ster vrouw zangeres
-🦄	eenhoorn gezicht
-🐠	dier tropisch vis vissen
-🥥	eten kokosnoot palm palmboom pina colada voedsel
-🧣	koud nek sjaal
-🎿	laars en skis ski ski’s skiën skischoen sneeuw sport wintersport
-🌆	avond gebouw landschap metropool miljoenenstad schemer stad bij schemering zonsondergang
-🧐	chic gezicht klasse monocle rijk saai
-😭	bedroefd gezicht hard huilen huilend ontroostbaar smiley snikken traan tranen met tuiten
-😰	angstzweet blauw gezicht met gehaast open mond en zweetdruppel koud nerveus zweet
-💣	bom cartoonbom explosie gevaarlijk ontploffing strip
-🐪	bult dier dromedaris één kameel woestijn
-👨‍🎓	man scholier student
-👇	achterkant hand omlaag vinger wijs wijsvinger wijzen
-🥉	brons bronzen derde plaats medaille 3e
-🚅	hoge snelheid kogeltrein neus reizen shinkansen spoorweg trein
-🥳	feest feesten fuif gelukkig gezicht hoed hoera opgewonden roltong verjaardag vieren viering
-👳	dragen persoon tulband
-🎧	geluid hoofdtelefoon koptelefoon oordopje
-📨	binnengekomen brief e-mail elektronische post envelop inkomend inkomende mail ontvangen
-⭐	ster witte middelgrote
-🫃	buik man opgeblazen te veel eten vol zwanger
-🌌	melkweg ruimte
-🧖	hamam ontspannen persoon in ruimte vol stoom stomende relaxen sauna stoombad stoomcabine stoomruimte
-🚠	berg bergkabelbaan gondel kabel skilift vervoermiddel voertuig
-🪙	dollar euro geld goud metaal munt rijk schat zilver
-🌵	cactus droogte natuur plant woestijn
-😲	geschokt gezicht kosten nee omg totaal verbaasd
-🙃	gezicht glimlach hehe omgekeerd
-🚶	lopen persoon slenteren stappen struien voetganger wandelaar wandelen
-👤	buste mysterieus schaduw silhouet
-🛶	boot kajak kano vaartuig vervoermiddel
-🌓	avond kwartier maan in eerste ruimte
-🌒	avond jonge maansikkel maan ruimte sikkel wassend wassende halvemaan
-👽	alien buitenaards fantasie gezicht monster ruimte sprookje ufo wezen
-🕡	06:30 18:30 30 6 6:30 dertig half zeven klok tijd zes
-🐡	dier kogelvis vis
-🛃	douane inpakken
-🥛	drinken glas melk
-🛟	boei drijven redden reddingsboei reddingsgordel reddingsvest veiligheid verdrinken zwemmen
-🫚	bier gember gemberwortel specerij wortel
-🍋	citroen citrus fruit zuur
-🪶	licht veer verenkleed vlucht vogel
-🫹	dat dit grip links neutraal wijzen
-👲	gua pi mao hoed man met chinees petje chinese persoon
-🤰	vrouw zwanger
-🧹	bezem bezemsteel heks schoonmaken vegen
-💑	hart jubileum liefde personen relatie romantiek stel met stelletje verliefd
-⛅	weer wolk zon achter wolken
-🩶	grijs hart leigrijs zilver
-🧨	boem dynamiet explosief licht ontploffing rotje vonk vuur vuurwerk
-🏊	freestyle persoon sport triatlon zwemmen zwemmer
-🕟	16:30 30 4 4:30 dertig half vijf klok tijd vier
-🩰	ballerina ballet balletschoenen dans dansen pirouette schoenen spitzen
-📀	blu-ray cd computer dvd optisch schijf
-🏃	hardlopen hardloper hollen joggen man marathon persoon rennen snel sport
-🧜	drietand folklore meermin oceaan schepsel sirene sprookje zee
-🔽	beneden knop omlaag pijl rood
-💻	computer laptop notebook pc personal
-🧋	boba bubbel melk parel thee voedsel
-🫏	dier ezel grauwtje koppig muildier pakezel zoogdier
-🪟	doorzichtig frisse lucht kijken kozijn opening raam raamkozijn uitzicht venster voorwerp
-🐢	dier schildpad waterschildpad
-😤	boos gewonnen gezicht blazend van woede met stoom uit neus kokend ontevreden triomf witheet woedend ziedend
-👨‍🚀	astronaut man raket ruimte
-👩‍💻	computer ontwikkelaar programmeur software technologe uitvindster vrouw
-🦠	amoebe bacteriën microbe virus wetenschap
-🥺	alsjeblieft genade gezicht grote ogen smeken smekend smekende blik smiley verdrietig waarom niet zielig
-🤮	braaksel braken brakend gezicht misselijk overgeven spuwen walgelijk ziek
-❗	interpunctie rood teken uitroep
-🪼	aquarium au beet branden dier gelei leven oceaan ongewerveld plankton steek tentakels zee
-🎺	instrument muziek muziekinstrument trompet
-🟥	kaart penalty rood vierkant
-😶	geen mond geheim gezicht zonder niets zeggen persoon rustig smiley sprakeloos stil zwijgen
-🧬	biologe bioloog dna evolutie gen genetica genetisch leven
-😵‍💫	dronken duizelig gehypnotiseerd gezicht met spiraalvormige ogen probleem smiley spiraalvormig stoned verward wow
-📸	camera met flitser fotograferen video
-👩‍🔧	elektricien handelsman loodgieter monteur vrouw
-💧	bedroefd druppel koud strip water weer zweet
-🪂	activiteit deltavliegen hanggliden parachute parachutespringen parasailen skydiven
-🎃	feest halloween halloweenlantaarn lampion lantaarn pompoen pompoenlantaarn sint maarten
-🫟	druppel geknoei gemors gespat holi inkt verf vlek vloeistof
-💖	fonkelend glinsterend hart hou van jou hvj spannend sprankelend xoxo
-💜	emotie hart hou van jou hvj paars
-🚀	lancering raket ruimte ruimtereis vervoermiddel voertuig
-🎑	ceremonie feest maan maanceremonie maanobservatieceremonie viering
-🍦	dessert eten ijs restaurant room softijs zoet
-🥀	bloem sterven verwelkt
-😣	concentratie concentreren focus gezicht hoofdpijn volharden volharding
-📰	dagblad krant nieuws nieuwsblad voorpagina weekblad
-🥊	boksen bokshandschoen handschoen sport
-🧑‍🏫	docent leraar professor
-🔺	driehoek geometrisch omhoog rood wijzend
-📺	beeld beeldbuis televisie tv
-🦬	bizon buffel dier kudde wisent
-👸	fantasie koningin kroon persoon prinses sprookje vrouw met
-😋	genieten gezicht glimlach jammie lachend dat lippen likt lekker mmm smiley smullen
-👗	blauwe jurk dansen kleding kledingstuk sjiek winkelen
-🦎	dier hagedis reptiel
-🫳	hand handpalm omlaag laten vallen oprapen wegjagen wegsturen
-🥎	bal handschoen onderarm onderhands softbal sport werpen
-💉	dokter gereedschap griep injectie medicijn naald spuit vaccinatie ziek
-🪧	bord demonstratie mars plakkaat poster protest protesteren slogan voorwerp
-🌃	metropool miljoenenstad nacht stad bij sterren sterrenhemel
-📕	bibliotheek boek educatie gesloten lezen onderwijs
-😇	blij elfje engel engelachtig engelen fantasie geest gezegend gezicht glimlach glimlachen onschuldig sprookje stralenkrans verhaal vredig
-🍃	blad blazen fladderen wind
-🫒	olijf voedsel
-🔜	onderweg pijl soon zo terug
-🧑‍🍼	baby borstvoeding oppas ouder pasgeboren voeden voeding
-🚍	bus naderend naderende tegemoetkomende vervoermiddel voertuig
-🧄	knoflook smaakmaker
-👯	bestie bff dansen danser danseressen feesten konijnenoor konijnenoren meisje mensen met personen tweeling vriendinnen vrouw
-🪤	aas kaas lokken muizenval strik valstrik vangen
-🥸	bril gezicht incognito neus smiley snor vermomd vermomming wenkbrauwen
-🥅	doel doelnet goal net sport
-🍪	chip chocolade dessert koekje zoet
-🔎	gereedschap glas vergrootglas naar rechts gericht vergroten zoeken
-🩴	sandaal sandalen schoen slipper strand strandslipper teenslipper zōri
-💢	boos cartoonesk kwaad ontdaan strip symbool teken woede woedesymbool
-🥙	eten falafel gevuld gyros kebab pitabrood
-🐈	dier dieren huisdier kat katten kitten
-📥	brief inkomend mail ontvangen post postvak in
-🚮	afval prullenbak teken vuilnisbak
-🟨	geel kaart penalty vierkant
-🥼	dokter dr experiment jas kleding lab wetenschapper wit
-🧱	baksteen bakstenen cement gemetseld klei metselen mortel muur steen
-🧈	boter zuivel
-💓	cardio hart hartslag hou van jou hvj kloppen kloppend slaan
-🎏	feest karper karpers karperslinger karperwimpel slinger wimpel
-♈	aries dierenriem horoscoop ram
-🛌	bed deken dutje goedenacht hotel moe persoon in slaap slaapwel slapen vermoeid welterusten zzz
-🦇	dier vampier vleermuis
-🚐	bus minibus vervoermiddel voertuig
-🐬	dier dolfijn flipper oceaan strand
-🐅	dier dierentuin groot kat roofdier tijger
-🌉	avond brug bij nacht nachtelijke
-🤌	gebaar hand handgebaar italiaans maffia ondervraging samengeknepen sarcastisch vingers
-🛀	bad badkuip met douche persoon in
-👶	baby jong kindje pasgeboren persoon
-🍁	blad esdoorn vallend
+🍙	balletje eten japans rijst
 🚜	tractor trekker vervoermiddel voertuig
-💠	diamant geometrisch stip strip
-😚	blosjes blozen gesloten ogen gezicht kus kussend met dicht oog rode wangen smiley zoen
-👮	agent arresteren beroep boete misdaad persoon politie politieagent politieman werk
-🍥	koekje krul vis viskoekje met
-🧌	fantasie monster trol trollen
-👠	hak hoge kleding naaldhak pump schoen met stiletto vrouw
-🧑‍🎄	feestdagen kerst kerstdagen kerstman kerstmis kerstmuts kersttransgender kerstvrouw persoon
-👩‍🏫	docente instructrice lerares professor vrouw
-🌴	boom palm plant strand tropisch
-🏭	fabriek gebouw
-🔷	blauw diamant geometrisch groot
-💡	elektrisch gloeilamp idee lamp licht peertje strip
-🪾	boom boomstam dood droogte hout kaal leeg takken winter zonder bladeren
-🔙	back pijl
-🫲	eens hand naar links handdruk uitgestoken
-💒	bruiloft huwelijk kapel romantiek trouwkapel
-🆔	id identiteit knop
-🧑‍🩰	ballet danser
-🥪	brood sandwich
-⌛	tijd timer zand zandloper
-🔀	gekruist knop nummers pijl shuffle
-😦	bang betrapt eng frons fronsen gezicht hoede mond open verrassing wat wauw
-🍄‍🟫	bruine paddenstoel paddestoel champignon eten groente natuur paddo pizza schimmel shiitake
-🦫	bever dam dier tanden
-🥚	ei ontbijt voedsel
-🛑	achthoekig bord stop stopteken verkeersteken
-🎫	entree entreekaartje kaartje ticket toegang toegangskaartje
-👺	fabel fantasie gezicht japans kobold masker monster mythologie smiley sprookje tengu wezen
-🤷	gebaar idk ik weet het niet misschien onverschilligheid onwetend onwetendheid persoon die schouders ophaalt schouderophalen twijfel
-🦏	dier neushoorn
-🍿	film maïs pop popcorn
-☕	café cafeïne chai drank drinken koffie ochtend stomen thee warm
-📴	mobiel telefoon uit
-👘	japans japon kimono kleding
-🚈	lightrail monorail spoor vervoermiddel voertuig
-🧷	luier luierspeld punk speld veiligheidsspeld
-🍔	burger eten fastfood hamburger honger
-🔸	diamant geometrisch klein oranje
-🎎	feest festival japans japanse poppen pop viering
-🧘	benen gekruist kleermakerszit meditatie ontspannen persoon in lotushouding relax yoga zen
-🥾	backpacken bruin buiten kamperen laars schoen wandelen
-🦙	alpaca dier guanaco lama vicuña wol
-🆚	knop versus vs
-🧦	kousen sokken
-🛕	gebouw geloof goden hindoe hindoetempel india religie tempel
-💝	emotie hart met strik hou van jou hvj liefde valentijn xoxo
-🔂	één keer enkel herhalen knop met de klok mee pijl
-🌷	bloem bloesem groei plant tulp
-🧑‍🧑‍🧒	gezin kind volwassene
-🥰	3 crush dol gezicht glimlach glimlachen hart hartjes hou van jou liefde romantiek
-💍	bruiloft diamant glinsteren ring romantiek schitteren trouwen verloving
-🕖	00 07:00 19:00 7 7:00 klok tijd uur zeven
-🚷	nee niet verboden voetganger voetgangers
-🐾	afdruk poot pootafdrukken poten
-👨‍🎨	kunstenaar man palet
-🍤	garnaal garnalen gefrituurd tempura
-🦢	dier jonge zwaan lelijk eendje vogel zwanenjong
-🔏	inkt pen privacy slot met vulpen
-⛄	koud sneeuw sneeuwpop zonder sneeuwvlokken
-💀	dood doodshoofd gezicht monster schedel skelet sprookje
-🏴	vlag wapperend zwart zwarte
-👍	+1 duim goed hand ja leuk omhoog
-🧑‍💻	ontwikkelaar programmeur techneut technoloog uitvinder
-🪊	droevig instrument jazz koper muziek schuiven
-🌭	braadworst frankfurter hotdog knakworst worst
-♎	balans dierenriem gerechtigheid horoscoop libra weegschaal
-🪇	instrument muziek percussie ratelen sambaballen schudden
-💂	bewaker buckingham palace londen wachter
-🛸	aliens buitenaards buitenaardse wezens science fiction ufo vervoermiddel vliegende schotel voertuig
-➰	gedraaid gekrulde lus
-🎴	bloem bloemenkaart bloemspeelkaarten hanafuda japans kaart kaartspel speelkaarten spel spelen
-🦪	duiken oester parel
-🪯	khanda religie sikh
-🛅	achtergelaten bagage kluisje koffer
-🉐	ideogram japans knop koopje
-🧑‍🏭	arbeider fabriek industrieel lopende band
-🔰	beginner blad chevron geel gereedschap groen japans symbool
-🫍	oceaan walvis zee
-♊	dierenriem gemini horoscoop tweelingen
-🍒	bessen fruit kers kersen rood
-🦘	buideldier dier joey kangoeroe springen
-🦯	blind blindenstok lopen taststok toegankelijkheid
-🧼	baden inzepen schoon schoonmaken schuim stuk zeep wassen zeepbakje zeephouder
-🧿	amulet bedel blauw boze oog kraal nazar nazar-amulet talisman
-🎱	8 ball 8-ball acht bal biljart pool spel
-🍭	dessert eten lolly snoep voedsel zoet
-🥈	medaille 2e plaats tweede zilver
-🔬	experiment gereedschap instrument laboratorium microscoop onderzoek wetenschap
-🤞	gekruist geluk hand kruisen vinger vingers
-🍛	curry rijst voedsel
-👌	fantastisch geweldig goed hand oké prima top vingers
-👆	achterkant hand omhoog vinger wijs wijsvinger wijzen
-👉	achterkant hand rechts vinger wijs wijsvinger wijzen
-🎍	bamboe den dennenboomversiering dennentakdecoratie feest japans plant
-🧔	baard bebaard persoon met
-🦶	enkel schop schoppen stampen trap voet
-🈺	bedrijf ideogram japans knop open
-🧮	abacus berekenen optellen rekenen rekenmachine tellen telraam
-🏁	finish formule 1 geblokt geblokte vlag racen sport
-🙈	aap beschaamd dier gebaar geen gezicht kwaad niet kijken schaamte uit den boze verboden verlegen wil zien zie
+👨‍💼	ambtenaar architect bedrijf kantoor man manager werknemer
+🥥	eten kokosnoot palm palmboom pina colada voedsel
+📈	diagram grafiek met stijgende trend groei positief stijgend
+🛐	bidden godsdienst plaats religie
+🚂	locomotief reizen spoor spoorweg stoom stoomtrein trein vervoermiddel voertuig
+🈶	gratis ideogram japans knop kosten niet
+🪡	borduren draad hechten hechtingen hobby kleding kleermaken naaien naald speld
+💏	afspraakje date kus kussen liefde personen romantiek stel stelletje verliefd
+🦐	garnaal klein schaaldier voedsel
+⏰	alarm klok tijd wekker
+🌟	fonkelen fonkelend schitteren schitterend schittering ster stralen stralende
+🥮	cake festival herfst maan yuèbǐng yuebing
+🌗	avond kwartier maan in laatste ruimte
+📀	blu-ray cd computer dvd optisch schijf
+👩‍🏭	arbeider fabriek industrieel lopende band vrouw
+🕙	00 10 10:00 22:00 klok tien tijd uur
+🗽	beeld new york nyc vrijheid vrijheidsbeeld
+👩‍🦼	elektrisch rolstoel toegankelijkheid vrouw
+🚌	bus schoolbus vervoermiddel voertuig
+🛼	hobby rollerskate rollerskates rolschaats rolschaatsen schaats skaten sport sporten
+👨‍🦽	handmatig man rolstoel toegankelijkheid
+😳	beschaamd gek gezicht heet hitte jeetje onder de indruk ongeloof ongemakkelijk sjonge verbaasd verbijsterd wat wauw
+🫏	dier ezel grauwtje koppig muildier pakezel zoogdier
+🌃	metropool miljoenenstad nacht stad bij sterren sterrenhemel
+👇	achterkant hand omlaag vinger wijs wijsvinger wijzen
+🥬	bladgroen bladgroente boerenkool bok choy burgers kool paksoi salade sla
+🩴	sandaal sandalen schoen slipper strand strandslipper teenslipper zōri zori
+🤭	geheim geschrokken gezicht met hand over de mond giechelen oeps smiley verrast
+🌽	boerderij doolhof gewassen kolf maïs mais
+📢	luid luidspreker megafoon toespraak toespreken
+🔓	gekraakt slot geopend hangslot open openen
 🍠	aardappel eten gepoft zoet
-🕋	bedevaart geloof islam kaäba mekka moslim religie
-🫓	arepa brood eten gordita lavash naan pita platbrood
-😠	boos fronsen gefrustreerd gezicht kwaad smiley woedend
-🫶	<3 handen hart hou jou
-🤖	gezicht monster robot
-◾	geometrisch klein tot middelgroot vierkant zwart
-🤤	gezicht kwijlend
-🏹	boog boogschieten boogschutter horoscoop pijl en sport sterrenbeeld wapen
+🦵	been gebogen knie ledemaat schop voet
+🧍	persoon staan staand
+🐼	bamboe dier gezicht panda
+🕞	15:30 3 3:30 30 dertig drie half vier klok tijd
+🤣	blij gezicht grappig haha hehe hilarisch huilen lachen lmao lol rofl roflmao rollen traan vloer vreugde
+😉	flirten gezicht hartenbreker knipogen knipoog knipoogt plagerij sexy zwoel
+🪓	bijl gereedschap hakken hout houthakker splijten
+🎰	casino eenarmige bandiet fruitautomaat gokkast gokken spel
+🍳	bakken ei gemakkelijk koken ontbijt pan restaurant spiegelei
+😩	aanstellen gezicht honger moe nee ontevreden smiley tegenzin vermoeid zeuren
+🦽	duwen rolstoel toegankelijkheid zitten
+😮‍💨	blazen fluisteren fluiten gezicht dat uitademt kreunen naar adem snakken opgelucht roken rook smiley uitademen uitgeput
+🪔	diya diya-lamp lamp licht olie vlam
+♌	dierenriem horoscoop leeuw leo
+➗	÷ delen deling dikgedrukt teken wiskunde
+👩‍🎤	actrice entertainer rock rockster ster vrouw zangeres
+⚓	anker hulpmiddel schip
+📞	bellen hoorn telefoon telefoonhoorn
+🧘	benen gekruist kleermakerszit meditatie ontspannen persoon in lotushouding relax yoga zen
+😺	dier gezicht grijnzen kat lach lachen mond open
+💖	fonkelend glinsterend hart hou van jou hvj spannend sprankelend xoxo
+🍣	eten sushi
+💆	gespannen gezicht gezichtsmassage hoofdpijn massage ontspannen persoon die hoofdmassage krijgt relaxen salon spa spanning
+🕓	00 04:00 16:00 4 4:00 klok tijd uur vier
+♑	capricorn dierenriem horoscoop steenbok
+🪰	dier insect made ongedierte rottend vlieg ziekte
+💲	betalen dikgedrukt dollarteken dollar geld munteenheid valuta
+💚	groen hart hou van jou hvj romantisch xoxo
+🚪	achterdeur deur gesloten voordeur
+💉	dokter gereedschap griep injectie medicijn naald spuit vaccinatie ziek
+🛘	aardbeving berg gevaar lawine modderlawine ramp stenen
+🐰	dier gezicht huisdier konijn
+📆	kalender scheurkalender
+👨‍🦼	elektrisch man rolstoel toegankelijkheid
+🤨	afkeurend frons gezicht met opgeheven wenkbrauw opgetrokken hmm ongeloof sceptisch skeptisch smiley verrassing wantrouwen wantrouwend wat
+🤹	balanceren balans beheren hanteren jongleren multitasken nummer persoon vaardigheid
+🫷	duwen hand die naar links duwt high five stoppen wachten weigeren
+🥉	brons bronzen derde plaats medaille 3e
+🧽	absorberen absorberend baden poreus schoonmaken schrobben spons
+🐨	australië australie beer buideldier dier down gezicht koala under
+✨	* glinsteren glinsterende sterren ster sterretjes
+⛵	boot jacht jachthaven vaartuig vervoermiddel zee zeilboot
+🌼	bloem bloesem boterbloem paardenbloem plant
+🏄	golf golven oceaan sport strand surfen surfende persoon surfer zee
+🧐	chic gezicht klasse monocle rijk saai
+📦	bezorging dichtgeplakte doos pakket pakketje
+💮	bloem wit
+🪇	instrument muziek percussie ratelen sambaballen schudden
+🤷	gebaar idk ik weet het niet misschien onverschilligheid onwetend onwetendheid persoon die schouders ophaalt schouderophalen twijfel
+🪎	buit edelsteen geld goud juwelen kostbaarheden prijs rijkdom zilver
+🧑‍🦼	persoon in elektrische rolstoel toegankelijkheid
+🙌	feest gebaar hand handen hoera lof omhoog omhooggestoken
+👨‍💻	computer man ontwikkelaar programmeur software technoloog uitvinder
+🪲	beestje dier insect kever
+😜	gezicht met uitgestoken tong en knipoog grap grapjas oog plagen smiley
+🕗	00 08:00 20:00 8 8:00 acht klok tijd uur
+🥏	frisbee schijf ultiem ultimate vliegende schotel werpschotel
+📖	boek geopend open
+👨‍🚒	brandweer brandweerman brandweerwagen man
+🆗	knop ok oké oke
+🥓	eten ontbijt spek vlees
+🫤	gefrustreerd gezicht met schuine mond het zal wel meh onzeker sceptisch smiley teleurgesteld
+👨‍🎨	kunstenaar man palet
+🎨	creatief kleurrijk kunst kunstzinnig museum palet schilderen schilderij schilderspalet
+🆔	id identiteit knop
+🛺	auto azië azie riksja thailand tuktuk vervoer wagen
+👌	fantastisch geweldig goed hand oké oke prima top vingers
+❓	interpunctie rood teken vraag
+📷	camera fotocamera fotograferen selfie snap video
+😥	bijna gezicht ingewikkeld oef opgelucht smiley teleurgesteld maar zweetdruppel zweten
+🚇	metro ondergrondse vervoermiddel voertuig
+🍯	beer eten honing honingpot pot vat zoet
+📄	bladzijde document pagina met bovenzijde omhoog
+🪑	hoge stoel meubels meubelstuk zetel zitten
+🤦	ergernis gebaar gezicht hand voor niet opnieuw ongeloof ongelooflijk palm persoon die het met de bedekt schaamte zucht
+🍋	citroen citrus fruit zuur
+🧟	eng halloween horror levende doden lopende dode monster ondode zombie
+🧶	bal bol breien draad haken wol
+🍓	aardbei bes fruit
+📇	index kaart kaartindex rolodex systeemkaarten
+🌴	boom palm plant strand tropisch
+🥷	geheim japan krijger ninja persoon samurai sluipmoordenaar vechten verborgen zwaard
+🙂	blij enigszins gezicht glimlachen lach
+🎲	dobbelen dobbelsteen dobbelstenen spel yahtzee
+🤴	fantasie koning koninklijk kroon prins royalty sprookje
+🏰	europees gebouw kasteel middeleeuwen
+🧆	falafel gehaktbal kikkererwt
+🪩	dans dansen disco discobal feest glitter spiegelbal
+💇	beauty beroep haar knippen kapper kapsalon kapsel kapster persoon die wordt geknipt salon schaar schoonheid
+😸	dier gezicht grijns grijnzend kattengezicht met lachende ogen grijnzende kat lach oog vrolijk
 💔	alleen breken droevig eenzaam emotie gebroken hart liefdesverdriet verdrietig
-🍍	ananas eten fruit tropisch voedsel
-🤱	baby borst borstvoeding de geven persoon
-👨‍🍼	baby borstvoeding man die een voedt melk papa persoon vader voeden voeding
-👫	afspraakje bae date flirten hand in koppel man en vrouw stel vasthouden verliefd vrienden
+🍇	dionysus druif druiven fruit
+🐾	afdruk poot pootafdrukken poten
+🙇	buigende man persoon buiging diepe excuses gebaar die maakt sorry spijt verontschuldiging
+🧧	cadeau geld geluk geschenk hóngbāo hongbao lai see rode envelop enveloppe voorspoed
+🪷	bloem boeddhisme hindoeïsme hindoeisme lotus puurheid rust schoonheid sereen vrede
+🤐	dicht geheim gezicht houden mond rits als stil zwijg
+🫂	bedankt dag hallo knuffel knuffelen liefde omhelzing personen in een persoon vriendschap
+💦	druppels spetteren sporten strip water work-out zweet zweetdruppels
+👨‍🚀	astronaut man raket ruimte
+😏	arrogant flirten gezicht met grote grijns gladjes gniffelen gniffelend grijnzen schuin smiley swag vol van zichzelf wenkbrauwen
+🪝	aanbeveling bocht haak hengel kronkel vangen verstrikken vissen
+🔂	één een keer enkel herhalen knop met de klok mee pijl
+🎳	bal bowlen spel sport strike
+🕥	10 10:30 22:30 30 dertig half elf klok tien tijd
+☕	café cafe cafeïne cafeine chai drank drinken koffie ochtend stomen thee warm
+🔡	abcd invoeren kleine letters latijns

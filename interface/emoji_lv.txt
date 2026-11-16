@@ -1,1261 +1,1261 @@
 # Mots-clés d'emoji en « lv » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	jauns new poga uzraksts kvadrātveida ietvarā
-🧑‍🤝‍🧑	cilvēki sadevušies rokās pāris persona roka sadotas rokas satvēriens
-◽	ģeometrija kvadrāts vidēji mazs balts
-⛽	benzīns degviela degvielas sūknis dus
-🔓	atslēgta atvērta slēdzene piekaramā atslēga
-👄	buča ķermenis lūpas mute skūpsts
-🍴	dakša galda piederumi garšīgi maltīte nazis un restorāns vakariņas
-🏒	hokejs uz ledus nūja ripa spēle sports
-💦	lāses sviedri sviedru ūdens vingrošana
-🎐	svētki vēja zvans vējš
-😼	dzīvnieks ironisks kaķis ar viltīgu smaidu sājš seja smaids viltīgs
-😉	acs miegt mirkšķināt seja ar piemiegtu aci smaidiņš
-📛	nozīmīte vārda vārds
-🚉	dzelzceļš stacija transportlīdzeklis transports vilciens
-💌	mīlestība mīlestības vēstule pasts romantika sirds
-🆘	palīdzība poga sos uzraksts kvadrātveida ietvarā
-🛙	apgaismība bāka cerība gaisma jūras signāls jūrniecība navigācija vadība
-🍯	medus pārtika pods salds
-😿	asaras dzīvnieks kaķis raudāt raudošs seja skumjš
-🫜	biete dārzenis dārzs rāceņi sakne
-😳	apmulsis kauns nosarkt nosarkusi seja vainīgs
-🚨	bākuguns mašīna policija policijas mašīnas
-🚌	autobuss transports
-🌇	ēka māja saule saulriets
-🔝	augšup bultiņa ar uzrakstu top
-🙊	aizliegts dzīvnieks galva klusēt ļauns nē nedrīkst neko nesaku pērtiķis runāt žests
-🐙	astoņkājis dzīvnieks okeāns radījums
-🕦	11 11:30 30 laiks pulksten pusdivpadsmit pulkstenis
-🕞	3 3:30 30 laiks pulksten pusčetri pulkstenis
-🙌	paceltas rokas pacelts slavēt svinēt uzvara
-🚗	automašīna mašīna transports
-🕥	10 10:30 30 laiks pulksten pusvienpadsmit pulkstenis
-🥱	garlaikots miegains nogurdināts seja žāvājas smaidiņš žāvas
-🐎	dzīvnieks hipodroms sacīkstes skriešana zirgs
-👩‍🚒	cilvēks darbs profesija sieviete ugunsdzēsēja
-🪉	arfa instruments kupidons mīlestība mūzika orķestris
-🫁	ekshalācija elpošana elpot inhalācija orgāns plaušas respirācija
-📲	bultiņa mobilais tālrunis ar bultiņu saņemt telefons zvans
-💚	sirds zaļa zaļš
-📶	antena mobilais signāla stipruma joslas signāls stiprums tālrunis telefons
-🫦	bailes flirts košana lūpā lūpa neērti nervozs noraizējies
-🌅	daba rīts saule saullēkts
-🌂	aizvērts lietus lietussargs
-🍲	bļoda ēdiena bļodiņa ēdiens pārtika sautējums
-🪜	kāpnes kāpt līdztekas pakāpiens šķērskoks
-✅	✓ atzīme balta kontrolzīme ķeksītis
-📑	grāmatzīme līmkarodziņi zīme
-👣	ķermenis nospiedumi pēdas pēdu
-👀	acis acs ķermenis skatīties
-🤸	akrobātika aktīvs cilvēks prieks ritenītis sports vingrošana
-⭕	aplis liels o riņķis sarkans
-😆	atvērts laimīgs mute priecīgs seja smaidoša ar atvērtu muti un aizmiegtām acīm smaids smiekli
-🔄	attīt bultiņa pretēji pulksteņrādītāja virzienam vērstas bultiņas vēlreiz
-🟢	aplis zaļš
-🧗	alpīniste alpīnists cilvēks kalnā kāpējs kalns kāpt klints persona
-🌟	mirdzēt mirdzoša zvaigzne mirdzums nakts spīdēt spīdoša uzvara
-🤧	gripa saaukstējies seja šķauda slims
-🔛	bultiņa ar uzrakstu on ieslēgts
-🪫	akumulators baterija elektroniska izlādējies zema enerģija zems akumulatora līmenis
-⏰	aizgulēties gaidīt kavēt modināt modinātājpulkstenis pulkstenis
-🥕	augs burkāns dārzenis pārtika
-➿	cilpa dubulta
-🥂	dzert glāze glāžu skandināšana šampanietis saskandināt svinēt
-🪲	dzīvnieks insekts kukainis vabole
-🩹	līpošs plāksteris
-🟧	kvadrāts oranžs
-📍	apaļa spraudīte apaļš atrašanās vieta karte
-😽	acis dzīvnieks kaķis sniedz skūpstu seja skūpsts
-🐤	cālis dzīvnieks galva putns
-🤵	cilvēks līgavainis persona smokingā smokings vīrietis
-🛼	skritulis skrituļslida slida slidot sports
-🧩	attēlu mīkla gabaliņš līme puzle puzles savienošana
-🛝	atrakciju parks rotaļāties rotaļu laukuma slidkalniņš laukums spēlēt spēlēties
-🔇	bez skaņas izslēgts kluss klusums skaļrunis skaļums
-🏥	ārsts ēka māja medicīna slimnīca
-🚔	automašīna mašīna policija pretī braucoša policijas braucošs transports
-💶	100 banknote eiro nauda valūta
-🥭	auglis mango pārtika tropiskais
-🫂	apskāviens ardievu atvadīties cilvēki apkampjas labdien mierināt paldies sasveicināties
-🔳	balta kvadrātveida poga ģeometrija kvadrāts melnbalta
-💹	augšup augšupejoša diagrammas līkne ar jenas simbolu diagramma jena tirgus
-🧺	grozs lauksaimniecība pikniks veļa veļas mazgātuve
-😖	aizkaitinājums apmulsis apmulsums apmulsusi seja dusmas skumjas
-🔐	aizvērta slēdzene ar atslēgu atslēga drošs slēgts
-🈯	ideogramma norāde kvadrātveida ietvarā japāņu rezervēts
-🏦	banka ēka māja nauda
-🍧	deserts ledus restorāns salds smalcināts ar sīrupu
-🧍	cilvēks stāvēšana stāvēt stāvoša persona
-🟠	aplis oranžs
-⛔	aizliegts iebraukt ieeja nē nedrīkst satiksme
-✊	dūre ķermenis pacelta roka sist
-🌜	dilstoša mēness sirpja seja dilstošs sirpis
-😹	asaras kaķis ar prieka asarām prieks seja
-🧾	apstiprinājums grāmatvedība kvīts pierādījums uzskaite
-🪩	ballīte deja diskotēka mirdzēt spoguļa bumba
-🏇	sacīkstes sports zirgs zirgu skriešanās žokejs
-👦	cilvēks jauns puika seja zēns
-🏸	badmintons rakete volāns
-🥜	dārzenis ēdiens pārtika rieksti zemesrieksti
-📱	mobilais saziņa tālrunis telefons
-🕎	hanuka jūdaisms menora reliģija svečturis
-🚙	apvidus auto automašīna kemperis mašīna transports
-🖤	ļaunums melna sirds
-🪬	aizsardzība amulets fatima hamsa marija mirjama roka
-🚴	braukt cilvēks riteņbraukšana ritenis sports velosipēdists velosipēds
-🍷	alkohols bārs dzēriens dzert glāze vīna vīns
-💊	ārsts medicīna slims vitamīns zāles zāļu kapsula
-🍀	4 āboliņš augs četrlapu laimes simbols lapa
-🪌	atsaukt berzēt dzēst dzēsumi kļūda kļūme labojums noņemt rakstīšana zīmēšana
-😷	ārsts maska medicīna seja ar medicīnas masku slims
-📆	datums kalendārs noplēšamais
-🙉	aizliegts dzirdēt dzīvnieks galva ļauns nē nedrīkst nedzirdu neko pērtiķis žests
-💱	banka maiņa nauda valūta valūtas
-🩻	ārsts kauli krūškurvis medicīnas rentgens skelets
-🏠	ēka māja privātmāja
-📙	bibliotēka grāmata izglītība oranža
-🥔	augs dārzenis kartupelis pārtika
-💮	augs balts zieds
-🥌	akmens kērlinga kērlings spēle
-💩	briesmonis čupa ekskrementi kakas mēslu smieklīgs smirdīgs
-🍳	brokastis cept ēdiena gatavošana ola panna
-🦈	dzīvnieks haizivs zivs
-🌼	augs gundega pienene puķe zieds
-😜	acs mēle miegt mirkšķināt piemiegta seja ar izbāztu mēli un piemiegtu aci
-🪁	gaisa pūķis lidot pacelties
-⛎	čūska čūsknesis horoskops zodiaka zīme zodiaks
-🍾	bārs dzēriens dzert korķis pudele ar izšautu korķi šampanietis
-🧇	brokastis panna pusgatavas vafele
-🛞	aplis auto pagriezties riepa ritenis
-📜	papīra tīstoklis papīrs
-🧎	celis cilvēks persona uz ceļiem
-🌕	kosmoss mēness pilnmēness
-💽	dators disks minidisks optiskais
-💙	mīlestība sirds zila zils
-📏	lineāls matemātika skola taisns
-🥡	irbulīši kastīte līdzņemšanai ķīniešu ēdiens ēdienu
-🕔	00 5 5:00 laiks pieci pulksten pulkstenis
-🤩	acis sajūsmināts seja smaidīt zvaigznes zvaigžņu pārņemts
-🟦	kvadrāts zils
-🐍	čūska dzīvnieks ziņnesis zodiaks
-🐉	bruņinieki dzīvnieks ķīniešu pasaka pūķis
-🪎	bagātība balva dārgakmens laupījums nauda rotaslietas sudrabs vērtslietas zelts
-💯	100 noteikti piekrītu simt punktu simts
-🌝	mēness pilnmēness seja
-♏	horoskops skorpions zodiaka zīme zodiaks
-🪞	atspīdums kosmētika reflektors spogulis
-💅	ķermenis kosmētika laka manikīrs nagi nagu roka skaistumkopšana
-🫫	atklāt drupšana maskēšana noturība pārveide sabrukšana spriedze
-🈁	japāņu katakana šeit uzraksts katakanā kvadrātveida ietvarā
-🍵	dzēriens dzert oolong tase tēja tējas bez osiņas
-⏳	pulkstenis smilšu ar plūstošām smiltīm smiltis taimeris
-🌙	mēness ramadāns sirpis
-🤭	ak vai atklāsme ķiķināt noslēpums pārsteigums seja ar roku pār muti smaidiņš
-🥗	ēdiens pārtika salāti zaļi zaļie
-🈹	atlaide ideogramma kvadrātveida ietvarā japāņu
-🔔	baznīca skaņa starpbrīdis zvans
-🦹	krimināls ļaunums nelietis noziedznieks superļaunais superspēks
-🙎	cilvēks grimase neapmierināts sabozies sieviete uzmesta lūpa vilšanās žests
-🫴	aicināt nāc pacelt pastāsti man piedāvājums plaukstu uz augšu
-👨‍🦽	cilvēks pieejamība ratiņkrēsls vīretis manuālā ratiņkrēslā vīrietis
-🙇	atvainošanās cilvēks paklanās paklanīties piedodiet vīrietis žests
-🔈	kluss mazs skaļruņa skaļums skaļrunis
-🍋‍🟩	auglis citruss laims mohito skābs tekila tropisks
-🪖	armija karavīrs ķivere militārā zaldāts
-🪰	insekts kaitēklis kāpurs muša pūšana slimība
-👧	bērns cilvēks jauna jaunava meita meitene zodiaks
-🍂	augs krist lapa nokritusi rudens
-🍝	ēdiens makaroni pārtika pasta spageti
-🧑‍🦼	persona ratiņkrēslā pieejamība ratiņkrēsls
-🏂	sniegs snovbordists snovbords sports ziema
-🏬	ēka māja tirdzniecība tirdzniecības centrs veikals
-🤾	bumba cilvēks handbols mest rokasbumba sports
-🌳	augs koks lapas lapu mežs
-🏐	bumba sports volejbola volejbols
-🧴	losjona pudele losjons mitrinātājs šampūns sauļošanās krēms
-💨	bēgšana bēgt dūmi purkšķis skriešana
-🪱	dzīvnieks parazīts posmtārps slieka tārps
-🫕	fondī kausēts podiņš siers šokolāde šveiciešu
-🕧	00 12 12:30 30 laiks pulksten pusviens pulkstenis
-🥣	auzu pārslu putra bļoda ar karoti brokastis brokastu pārslas ēdiens graudaugi pārtika rīsu sausās
-🍞	ēdiens graudi grauzdiņš kukulis maize
-🌚	jauna mēness seja kosmoss visums
-🦨	skunkss smaka
-🚹	tualete vīriešu wc
-🪅	ballīte meksikāņu pinjata saldumi svinības
-🪢	mezgls mudžeklis siet striķis virve
-🫢	ak vai apkaunot bijība izbrīns neticība nobijies pārsteigums seja ar atvērtām acīm un roku pār muti šoks
-🎻	instruments mūzika stradivāri vijole
-🛫	aizlidot izlidošana lidmašīna lidmašīnas pacelšanās pacelties transports
-💐	dzimšanas diena gadadiena mīlestība pušķis randiņš romantika ziedi
-👎	-1 īkšķis ķermenis lejup lejupvērsts nepatīk roka
-🤟	emt mīlas žests roka
-♋	horoskops ūdens vēzis zodiaka zīme zodiaks
-🦸	betmens labais supermens superspēks supervaronis varone varonis
-👏	aplaudēt aplausi apsveicu ķermenis roka
-🧚	fantāzija feja mīts oberons paks pasaka titānija
-🏢	birojs biroju ēka māja pilsēta
-🧻	papīra dvieļi rullis tualetes papīrs
-🔅	samazināt spilgtumu spilgtums
-🆓	bezmaksas free poga uzraksts kvadrātveida ietvarā
-🪛	darbarīks skrūvēt skrūvgriezis
-📖	atvērta bibliotēka fantāzija grāmata izglītība lasīšana romāns zināšanas
-🍬	gardums konfekte pārtika salds saldumi
-🃏	džokers kārtis
-🧪	eksperiments ķīmija ķīmiķis laboratorija mēģene zinātne
-🍟	ātrā ēdināšana ēdiens frī kartupeļi pārtika
-🌏	austrālija āzija globuss ar āziju un austrāliju pasaule zemeslode
-🧵	adata pavediens spolīte šūšana
-🆎	ab poga asinsgrupa
-👩‍🍼	auklīte barošana cilvēks mamma mazulis persona sieviete baro bērnu zīdīšana
-🕛	00 12 12:00 laiks pulksten divpadsmit pulkstenis pusdiena pusnakts
-🍰	deserts kūka salds saldums torte
-🦩	dzīvnieks flamingo putns spilgts tropisks
-😁	jauks plats smaids un smaidošas acis priecīgs seja smīns
-⬛	ģeometrija kvadrāts liels melns
-🪻	hiacinte lauvmutīte lavanda lupīna zieds zilie zvaniņi
-🖖	ķermenis pirksti pirksts roka spoks vulkāniešu sveiciens vulkāns
-🪍	noķert savākt siets slazds
-⌚	laiks pulkstenis rokaspulkstenis
-🐯	dzīvnieks galva plēsējs tīģera tīģeris
-🚧	barjera celtniecība konstrukcija remontdarbi remonts
-🔵	aplis ģeometrija zils
-🌄	ainava daba kalns rīts saule saullēkts pār kalniem
-🚾	ateja tualete wc
-📮	pastkaste pasts
-🦽	manuāli darbināms ratiņkrēsls pieejamība
-🌁	laikapstākļi laiks migla miglains
-🫈	jetijs kriptīds matiem noaudzis meža briesmonis mežonis mežs milzis sniega cilvēks
-🦷	balts pērļu zobārsts zobs
-🪺	ligzda ar olām ligzdošana putns
-🐜	dārzs dzīvnieks insekts kukainis skudra
-🔋	akumulators baterija
-🟡	aplis dzeltens
-🌑	jauns mēness kosmoss tumšs
-😩	izsalcis nelaimīgs nogurdināta seja noguris
-🛒	iepirkšanās iepirkumu ratiņi veikals
-🆗	labi ok poga uzraksts kvadrātveida ietvarā
-🪝	āķis makšķerēšana pārdošanas arguments pievilināt uzķeršanās
-🥞	bliņa ēdiens pankūka pankūkas pārtika
-💳	banka karte kredītkarte maksāt nauda
-🦗	circenis dzīvnieks insekts kukainis sienāzis
-🫛	dārzenis edamame pākšaugi pāksts pupas zirnis zirņu
-🥧	gaļas pīrāgs ķirbju mīkla pildījums
-🧸	lāčuks manta pildīts plīšs rotaļlieta
-🧛	briesmonis drakula ilkņi nemirstīgais vampīrs
-🟪	kvadrāts lillā violets
-🐱	dzīvnieks galva kaķa kaķis mājdzīvnieks
-🦺	ārkārtas drošība drošības veste
-🈴	ideogramma sekmīgi kvadrātveida ietvarā japāņu ķīniešu nolikts
-🍏	ābols auglis augs pārtika zaļš
-🌠	krist krītoša zvaigzne
-❌	× atcelt krustiņš reizināt x
-🐸	dzīvnieks galva princese seja varde
-🧀	siera šķēle siers
-🪕	bandžo mūzika stīgu
-🐩	dzīvnieks mājdzīvnieks pūdelis suns
-🦻	apgrūtināta dzirde auss ar dzirdes aparātu pieejamība
-👩‍🦼	cilvēks pieejamība ratiņkrēsls sieviete motorizētā ratiņkrēslā
-🧙	burvestība burvis fantāzija maģija mags ragana
-👨‍🏫	darbs pasniedzējs profesija profesors skolotājs vīrietis
-💄	kosmētika lūpas lūpukrāsa randiņš
-🚘	automašīna mašīna pretī braucoša transports
-👨‍🏭	cilvēks darbs fabrikas strādnieks profesija ražošana rūpnīca vīrietis
-🏣	ēka japāņu pasta nodaļa māja pasts
-🫐	mellene mellenes oga pārtika zilene zils
-🦑	dzīvnieks ēdiens jūras veltes kalmārs molusks
-🐵	dzīvnieks galva pērtiķa pērtiķis
-🧊	aisbergs auksts ledus gabaliņš kubs
-🤿	elpošanas aparāts niršana niršanas maska snorkelēšana
-📼	kasete vhs videokasete
-💟	balta sirds lillā rotājums violeta
-🎥	filma holivuda kamera kino kinokamera
-🧥	auksts aukstums ietīties jaka mētelis
-🐽	cūka dzīvnieks ruksis sivēns šņukurs
-👭	pāris rokas sadot sieviete sievietes sadevušās rokās
-🚝	dzelzceļš transports viensliedes vilciens
-🩷	jauka mīlestība patīk rozā sirds
-🧑‍🎓	absolvents izlaidums students
-🏡	dārzs ēka māja ar dārzu privātmāja
-😮‍💨	atvieglojums čuksti izelpa nopūta seja nopūšas smaidiņš svilpošana vaids
-🔣	ievade poga simboli
-🪚	darbarīks galdnieks kokmateriāli vienrokas zāģis zāģēt
-🧕	galvas lakats hidžabs seja sieviete ar lakatu
-🦂	dzīvnieks skorpions zodiaks
-➖	- – atņemt matemātika mīnuss mīnuszīme
-😮	atvērts mute pārsteigt seja ar atvērtu muti šokēts
-🪸	klimata izmaiņas koraļļi okeāns rifs
-🚊	tramvajs transportlīdzeklis transports
-😟	nervozs noraizējies noraizējusies seja rūpes stress
-📇	kartīšu rādītājs kartīte
-🌽	augs dārzenis kukurūza kukurūzas vālīte pārtika
-📫	aizvērta pastkaste ar paceltu karodziņu pasts saziņa
-🚄	ātrums ātrvilciens dzelzceļš transports vilciens
-🧑‍🎨	mākslinieks palete vīrietis
-🪪	akreditācijas dati apliecība dokuments drošība id identifikācijas karte licence
-🫖	dzēriens kanna tēja tējkanna
-🕘	00 9 9:00 deviņi laiks pulksten pulkstenis
-🈵	aizņemts ideogramma pilns kvadrātveida ietvarā japāņu ķīniešu
-🐔	cālis dzīvnieks putns vista
-👩‍🦽	cilvēks pieejamība ratiņkrēsls sieviete manuālā ratiņkrēslā
-🛗	lifts pacēlājs pieejamība
-🍊	apelsīns auglis augs citruss mandarīns oranžs pārtika
-🤒	seja ar termometru slims termometrs
-🎾	bumba rakete sports tenisa bumbiņa teniss
-🤡	klauna seja klauns
-💰	dolārs maiss miljons nauda naudas
-🛴	skrejritenis skuteris divritenis
-🪷	budisms hinduisms indija lotoss miers skaistums tīrība vjetnama zieds
-🦉	dzīvnieks gudrs pūce putns vieds
-🐛	blakts dārzs dzīvnieks insekts kāpurs kukainis
-📣	megafons ovācijas skaņa
-😱	bailes bailēs kliedzoša seja kliedziens munks nobijies
-🥨	kliņģeris maize maizīte savīts
-📎	papīra saspraude
-🍩	deserts ēdiens pārtika salds virtulis
-🐕	dzīvnieks lolojumdzīvnieks mājdzīvnieks suns
-🧑‍🧒‍🧒	bērns ģimene pieaugušais
-🪮	afro ķemme mati matu saspraust
-🫗	dzēriens glāze ielejot šķidrumu izliet noplūde stikls tukšs
-📳	mobilais tālrunis telefons vibrozvana režīms vibrozvans
-💏	mīlestība pāris randiņš romantika skūpsts
-🔮	kristāla lode kristāls pareģot zīlēt
-🙆	cilvēks ar apstiprinājuma žestu labi ok roka vingrošana žests
-🏈	amerikāņu futbola bumba futbols sports superkauss
-🥿	apavi balerīna baleta kurpe čība ērts iešļūcene bez papēža
-🦿	mehāniska kāja pieejamība protēzes
-💆	atpūta atslābināšanās cilvēks galvassāpes masāža nomierinošs salons saspringums seja sejas
-🫯	cīkstēšanās cīņa debates domstarpības ķīviņš strīds tracis
-🫰	dārgs knipis mīlestība nauda roka ar rādītājpirkstu un īkšķi sakrustota sirds
-🥯	beigelis ēdiens maize maiznīca smērējams
-🦜	dzīvnieks papagailis pirāts putns runāt
-👨‍🌾	cilvēks darbs dārzenieks lauksaimnieks profesija vīrietis
-👖	apģērbs bikses drēbes džinsi
-🦕	brahiozaurs brontozaurs dinozaurs diplodoks zauropods
-🚯	aizliegts atkritumi atkritumus mest nē nedrīkst
-🩱	kopējais peldkostīms
-➕	+ matemātika plus pluszīme saskaitīt
-😡	dusmas dusmīgs sabozies sabozusies seja
-🥋	cīņa cīņas māksla cīņu sporta tērps džudo karatē kimono sports taekvondo
-🐣	cālis šķiļas dzīvnieks ola putns šķilties
-👑	karaliene karalis kronis
-🏆	balva kauss trofeja uzvara
-🦔	adatains ezis
-✋	ķermenis pacelta roka plauksta
-🔪	ēst ierocis nazis rīks virtuves
-🪔	eļļa eļļas lampa
-🐏	aita auns dzīvnieks zodiaks
-🟣	aplis lillā violets
-🥦	augs brokoļi dārza kāposts dārzenis ēdiens pārtika
-👜	apģērbs drēbes iepirkšanās rokassoma soma somiņa
-🍎	ābols auglis augs pārtika sarkans
-🍜	bļoda ēdiens irbulīši karsts kūpoša bļodiņa nūdeles pārtika
-🐓	dzīvnieks gailis putns
-🪑	krēsls sēdeklis sēdēt
-🧠	gudrība intelekts inteliģence smadzenes
-📘	bibliotēka grāmata izglītība lasīt zila
-🛬	atlidošana atlidot ierašanās lidmašīna lidmašīnas nosēšanās nosēsties transportlīdzeklis transports
-🍘	ēdiens galete pārtika rīsi rīsu
-🦚	ārišķīgs dzīvnieks iedomīgs pāvs pāvu mātīte putns
-🎆	izklaide raķete salūts svētki svinības
-🫌	cerība kāpurs kukainis metamorfoze migrācija pārmaiņas pārvērtības trausls
-🤯	eksplodējoša galva nevar būt seja smaidiņš šokēts
-🟩	kvadrāts zaļš
-🈲	aizliegts ideogramma aizliegt kvadrātveida ietvarā japāņu
-😈	ragi seja smaidoša ar ragiem smaids velns
-💗	augoša sirds emocijas sirdspuksti uztraukums
-🔼	augšup poga
-🎈	balons dzimšanas diena svētki svinības
-🦀	krabis vēzis zodiaks
-🩸	asins pile ziedošana ievainojums medicīna menstruācija
-📄	dokuments papīra lapa papīrs
-🐋	dzīvnieks okeāns pludmale valis
-🍌	auglis augs banāns kālijs
-🤕	apsējs ievainojums sāpes seja ar galvas apsēju
-👡	apavi sandale sieviešu
-🏤	ēka māja pasta nodaļa pasts
-🏓	bumbiņa galda teniss pingpongs rakete sports
-🧁	deserts gardums kēksiņš maiznīca salds
-🌲	augs egle koks mūžzaļš skujkoks
-🎂	deserts dzimšanas diena dienas kūka jubileja svētki svinības torte
-💋	lūpas lūpukrāsa nospiedums skūpsta skūpsts
-🤔	domāt domīga seja pārdomas
-⛳	bedrīte golfs karodziņš bedrītē
-🧫	baktērija bioloģija biologs kultūra laboratorija petri trauks pipete
-🥠	laimes cepumiņš pravietojums
-👐	apskāviens atvērtas rokas ķermenis roka
-😃	atvērts mute plats smaids un lielas acis seja smaidīgs super
-👅	ķermenis laizīt mēle mute seja
-🤨	neticīgs neuzticīgs pacelta uzacs seja ar paceltām uzacīm skeptisks
-🎌	japāņu karogs sakrustot sakrustoti karogi svētki
-💫	apdullis krītoša zvaigzne
-🤹	cilvēks līdzsvars persona prasme vairāki uzdevumi žonglēšana žonglēt
-📠	faksa aparāts fakss saziņa
-🚪	durvis ieeja izeja parādes skapis
-🥹	dusmīgs lepns lūdzošs pretoties prieka asaras raudāt seja ar aizturētām asarām skumji
-🌖	dilstošs izliekts kosmoss mēness
-🙏	lūgšanā saliktas rokas lūgt lūgties pateicība žests
-🧑‍🎤	aktieris dziedātājs izklaidētājs roks vīrietis zvaigzne
-🪥	higiēna suka tīrs vannasistaba zobi zobu
-🏄	cilvēks okeāns sērfot sērfotājs sports ūdens viļņi
-👩‍🔬	bioloģe cilvēks darbs fiziķe inženiere ķīmiķe matemātiķe profesija sieviete zinātniece
-🤺	paukošana paukotājs rapieris
-🎠	karuseļa zirdziņš karuselis zirgs
-🈳	brīvs ideogramma kvadrātveida ietvarā japāņu ķīniešu
-🔥	degt liesma uguns
-🪿	dumjš gāgināt putns vista zoss
-🍨	deserts krēms pārtika saldējums salds
-🕓	00 4 4:00 četri laiks pulksten pulkstenis
-🔯	jūdaisms laime sešstaru zvaigzne ar punktu vidū
-📉	diagramma lejup lejupejoša diagrammas līkne regress
-🐀	dzīvnieks žurka
-👟	apavi skriešanas kurpe sports
-📯	pastnieka taure pastnieks pasts
-😅	atvērts auksts nervozs plats smaids ar sviedru lāsi seja stress sviedri
-🦛	begemots dzīvnieks nīlzirgs
-🌛	augoša mēness sirpja seja augošs sirpis
-👔	apģērbs drēbes kaklasaite krekls nopietns
-🧡	mīlu oranža sirds oranžs
-❔	balta jautājuma zīme jautājums pieturzīme
-🐺	dzīvnieks galva vilks
-🪹	ligzda ligzdošana mājas tukša
-🤴	karalis karalisks kronis princis vīrietis
-🌘	dilstoša mēness sirpis dilstošs kosmoss
-🩺	ārsts medicīna sirds stetoskops
-🍣	ēdiens japāņu virtuve pārtika suši
-🍢	ēdiens uz irbulīšiem iesmiņš irbulīši kebabs
-🦐	ēdiens garnele jūras veltes mazs pārtika
-🫺	neitrāls norādīt pa labi satvēriens šis tas
-🍮	deserts ēdiens olu krēms pārtika salds
-🥐	ēdiens franču kruasāns maize pārtika
-🔖	grāmatzīme zīme
-🥟	gioza gjoza pārtika pelmeņi pīrādziņi vareņiki
-🎭	māksla maska priekšnesums šekspīrs skatuves teātris
-🈚	bezmaksas ideogramma kvadrātveida ietvarā japāņu
-🚋	tramvaja vagons tramvajs transports trolejbuss
-🚦	luksofors signāls vertikāls
-😒	dusmas dusmīgs garlaikots saīdzis saīgusi seja vienalga
-🔹	ģeometrija mazs zils rombs
-🪴	audzēt augs podiņā augt garlaicība māja nevajadzīgs podiņš telpaugs
-🧰	darbarīku kaste instrumenti mehānisks rīks
-🦃	dzīvnieks pateicības diena putns tītars
-🍄	augs mušmire sēne
-🟤	aplis brūns
-🫱	labā roka pa labi pareizi rokasspiediens sniegties turēt
-🧟	apokalipse briesmonis dzīvais mironis nemirstīgs zombijs
-👨‍🎤	aktieris bovijs cilvēks dziedātājs izklaide roks rokzvaigzne vīrietis zvaigzne
-🫩	maisiņi zem acīm miegains noguris pārgurums
-🤗	apskaut apskāviens seja ar apskāvienu
-⏩	pa labi paātrināt pārtīt poga uz priekšu
-🕜	1 1:30 30 pulksten pusdivi pulkstenis
-📈	augšup augšupejoša diagrammas līkne diagramma izaugsme
-🦆	dzīvnieks pīle putns
-🤼	cīkstēties cīkstoņi cīkstonis cilvēks cīņa rings sports
-🎶	mūzika mūzikas notis nots skaņa
-🦁	galva lauva seja zodiaks
-🤏	drusciņ maz nedaudz roka rāda drusciņu
-🪄	burvis burvju nūjiņa ragana zizlis
-🆖	ng poga uzraksts kvadrātveida ietvarā
-😙	seja ar smaidošām acīm sniedz skūpstu skūpsts smaids
-🙍	aizkaitinājums bēdīgs iztraucēts norūpējies cilvēks vilšanās žests
-🚂	dzelzceļš dzinējs lokomotīve transports vilciens
-👰	cilvēks ar plīvuru kāzas līgava persona plīvurs sieviete
-🚭	aizliegts nē nedrīkst smēķēt
-😨	bailes bailīgs nobijies nobijusies seja noraizējies
-🎼	mūzika nošu līnijas notis
-🤦	cilvēks ar saķertu galvu nav vārdu ne jau atkal neticība nu nopietni plauksta seja sieviete šoks
-📞	klausule saziņa tālruņa tālrunis telefons
-🚎	autobuss tramvajs transportlīdzeklis transports trolejbuss
-🔢	1234 cipari ievade poga
-🪣	spainis toveris tvertne
-😾	dzīvnieks kaķis sabozies seja
-🥢	haši irbulīši
-🏑	bumba hokejs lauka nūja sports
-🎢	amerikāņu kalniņi atrakciju parks karuselis
-🐭	dzīvnieks galva pele peles
-😧	aizmirst pārsteigt sāpes sāpināt sāpjpilna seja stress
-🐷	bekons cūka cūkas galva dzīvnieks ruksis saimniecība sivēns
-🫣	blenzt kautrīgs nokaunējies palūrēt paslēpies seja ar lūrošu aci valdzināts
-🍈	auglis augs melone
-🤛	dūre pa kreisi
-🙋	cilvēks ar paceltu roku laimīgs pacelts roka žests zinu
-🚲	divritenis riteņbraukšana ritenis transports velosipēds
-🍑	auglis augs pārtika persiks
-🌍	āfrika eiropa globuss ar eiropu un āfriku pasaule zemeslode
-👬	dvīņi pāris rokas sadot sieviete vīrieši sadevušies rokās vīrietis zodiaks
-🐗	dzīvnieks galva mežacūka troņu spēles
-🤎	brūna mīlu sirds
-🚃	dzelzceļa vagons dzelzceļš tramvajs transports trolejbuss vilciens
-🎤	karaoke mikrofons
-👿	dēmons dusmīgs ragi seja velniņš velns
-📡	antena satelīta šķīvis satelīts
-🫨	seja šoks trīcoša trīcošs vibrācija zemestrīce
-🤜	dūre pa labi
-🌰	augs kastanis mandele pārtika rieksts
-🐨	austrālija dzīvnieks koala lācis
-📚	bibliotēka grāmata grāmatas izglītība mācības romāni
-🌿	augs lapa
-♍	horoskops jaunava zodiaka zīme zodiaks
-📂	atvērta dokumentu mape atvērts dokuments
-🔠	abcd burti ievade latīņu lielie
-🔗	ķēde ķēdes posms
-🔱	enkurs kuģis poseidons trijzaris trijžuburis
-🥒	dārzenis gurķis marinēts pārtika skābēts
-⏪	atpakaļ attīt pa kreisi poga
-🥁	bungas bungu vālītes mūzika
-📅	datums kalendārs
-👨‍🦼	cilvēks pieejamība ratiņkrēsls vīrietis motorizētā ratiņkrēslā
-🍚	ēdiens pārtika rīsi vārīti vārīts
-🐆	dzīvnieks leopards lielais kaķis plēsējs zoo
-☔	laikapstākļi laiks lāses lietus lietussargs ar lāsēm
-🍼	bērna pudelīte bērns dzert piens pudele zīdainis
-🎳	boulings bumba spēle sports
-🪭	atvēsināties dejot karsts kautrīgs salokāms rokas vēdeklis vēcināt
-🍉	arbūzs auglis augs ēdiens pārtika
-🎄	eglīte koks svētki ziemassvētki ziemassvētku
-🔲	ģeometrija kvadrāts melna kvadrātveida poga
-🧑‍🌾	dārznieks fermeris lauksaimnieks zemnieks
-🚩	golfa karogs trīsstūrveida
-🦓	svītra svītrains zebra
-🍗	ēdiens gaļa kāja kauls pārtika putna putns
-🥮	festivāls mēness kūka rudens saulgrieži vidus svētki
-🏪	24 diennakts ēka māja veikals
-🍓	auglis augs oga pārtika zemene
-🤚	pacelta plauksta roka
-📩	aploksne ar bultiņu bultiņa e-pasts sūtīt vēstule
-📓	izglītība mācības piezīmju grāmata skola
-👥	cilvēki divu krūšutēlu silueti draugi krūšutēls siluets
-📊	dati diagramma grafiks josla joslu
-🗽	brīvība brīvības statuja ņujorka
-🕒	00 3 3:00 laiks pulksten trīs pulkstenis
-🪋	apokalipse gravitācija klints krišana telpa uguns bumba zvaigzne
-👓	acis brilles
-🚰	dzeramais ūdens dzert
-🎽	krekls skriešanas skriet vieglatlētika
-😴	ar labu nakti gulēt guļoša seja miegs žāvas žāvāties
-🎦	filma kamera kino
-🥏	disks galīgs lidojošais šķīvis
-🦡	āpsis dzīvnieks medusāpsis traucētājs
-🎨	glezna gleznot gleznotāja palete māksla
-🍖	ēdiens gaļa kauls ar gaļu pārtika
-🔍	lupa meklēšana pa kreisi vērsta palielināt zinātne
-🌹	augs mīlestība roze valentīndiena zieds
-👩‍🚀	astronaute cilvēks darbs kosmoss profesija raķete sieviete
-🐚	gliemežnīca gliemežvāks pludmale spārngliemezis spirāle
-🎰	automāts azartspēles kazino spēle spēļu
-🕺	cilvēks deja flamenko tango vīrietis dejo
-🔡	burti ievade latīņu mazie poga
-👩‍🦯	akls neredzīgs pieejamība sieviete ar balto atbalsta spieķi
-🕍	ebreji ēka lūgties māja reliģija sinagoga templis
-🛁	ūdens vanna
-💘	bulta mīlestība romantika sirds ar bultu
-🥍	bumba lakross mērķis nūja sports
-🧑‍🔧	elektriķis mehāniķis santehniķis vīrietis
-😍	acs mīlestība seja sirds smaidoša ar formas acīm smaids
-🆑	cl notīrīt poga
-🧃	dzēriena kārba dzēriens salds salmiņš sulas paka
-👒	cepure platmale sieviešu
-♌	horoskops lauva zodiaka zīme zodiaks
-🌞	diena gaišs laikapstākļi pludmale saulains saule saules seja spīd
-🍆	augs baklažāns dārzenis ēdiens pārtika
-😊	nosarkt prieks seja smaidoša ar smaidošām acīm smaids
-🫸	dod pieci gaidīt pa labi spiedoša roka stop stumt vote atteikt
-💲	dolāra zīme dolārs miljons nauda skaidra
-🦍	dzīvnieks gorilla
-🌈	laikapstākļi laiks lgbt lietus varavīksne
-🙂	seja ar vieglu smaidu smaids
-🧭	kompass magnētisks navigācija orientēšanās virziens
-👞	apavi apģērbs kurpes vīriešu kurpe
-🩳	apakšveļa apģērbs bikses peldkostīms šorti
-🧑‍🚀	astronauts raķete vīrietis
-🕚	00 11 11:00 laiks pulksten vienpadsmit pulkstenis
-😵	apreibis apreibusi seja beigts nelabums reibonis
-📿	kaklarota krelles lūgšana lūgšanu reliģija
-🤓	briļļainais cilvēks gudrītis nūģis seja smaidiņš
-🪀	jojo rotaļlieta svārstīgs
-🏫	ēka māja skola
-🍹	bārs dzēriens dzert glāze kokteilis tropisks tropu
-🕝	2 2:30 30 laiks pulksten pustrīs pulkstenis
-🕠	30 5 5:30 laiks pulksten pusseši pulkstenis
-📟	elektronika peidžers saziņa
-🎵	mūzika nots skaņa
-👙	apģērbs bikini peldēt peldkostīms pludmale
-🩲	apakšveļa apģērbs peldbikses peldēšanās tērps peldkostīms viengabala
-🤑	mute nauda seja ar naudu mutē
-🚛	automašīna krava mašīna pārvākšanās smagā transportlīdzeklis transports
-🥘	ēdiens paelja panna pārtika sautējums pannā
-😘	buča mīlestība seja sirds skūpstoša skūpsts
-🛺	autorikša tuktuks
-👱	blonds cilvēks seja
-🛂	kontrole pase pasu robeža
-🪓	cirst cirvis koks skaida skaldīt
-🫝	garšviela gurķis gurķītis nepatikšanas piedeva raudzēt sālījums
-🔞	18 aizliegts astoņpadsmit nē nedrīkst nepilngadīgs tikai no gadu vecuma
-🤝	līgums roka rokasspiediens sarokoties tikšanās
-📒	grāmata ar spirāli klade piezīmes spirāle
-🚥	horizontāls luksofors signāls
-🔊	skaļrunis skaļš skaļums skaņa
-🐴	dzīvnieks galva saimniecība zirga zirgs
-😕	apjucis apjukums apjukusi seja neskaidrība nezinu
-🫑	dārzenis paprika pipars sarkanie pipari zaļais
-🫄	apaļš cilvēks stāvoklī pārēdies pilns vēders
-🪐	gredzenota planēta mīnijs saturns
-🏅	medaļa sporta sports uzvarētājs zelts
-🏯	ēka japāņu māja pils
-🌊	daba jūra okeāns ūdens vilnis
-💿	cd dators disks kompaktdisks optiskais
-🪦	bēres kapa piemineklis kapakmens kapi kaps kapsēta piemiņa
-⚾	beisbola bumba beisbols sports
-👈	delna ķermenis pa kreisi vērsts rādītājpirksts pirksts rādīt roka
-🦒	dzīvnieks plankumi žirafe
-🌗	dilstošs mēness pusmēness
-🚸	bērni šķērso ielu gājēji pāreja satiksme zīme
-🤳	kamera pašfoto selfijs tālrunis
-🏀	basketbola bumba basketbols sports
-🚏	autobusa pietura autobuss
-🥷	cilvēks cīnītājs kareivis nindzja paslēpts persona slepens slepkava
-⚽	bumba futbola futbols sports
-🚖	automašīna mašīna pretī braucošs taksometrs transports
-👂	auss dzirde ķermenis skaņa
-👝	apģērbs kosmētikas maciņš maisiņš soma somiņa
-📵	aizliegts mobilais mobilie tālruņi aizliegti nē nedrīkst tālrunis telefons
-🐳	dzīvnieks šļakatas ūdens valis šļāc ūdeni
-😯	apklusināt pārsteigt pārsteigta seja
-🍫	deserts pārtika salds šokolāde šokolādes tāfelīte
-🌋	daba izvirdums kalns vulkāns
-🧝	elfs fantāzija maģisks pasaka
-💛	dzeltena sirds dzeltens emocijas mīlu
-👨‍💻	darbs izstrādātājs profesija programmatūra programmētājs tehniķis vīrietis
-🐃	bifelis dzīvnieks ūdens zoo
-🧆	aunazirņi / frikadele falafels felāfels
-💎	dārgakmens dārglieta dimants saderināšanās
-🧑‍🚒	ugunsdzēsēja ugunsdzēsējs vīrietis
-📷	fotoaparāts fotokamera instagram kamera
-⛪	baznīca ēka kristieši krusts lūgties māja reliģija
-🚵	braukt cilvēks kalns kalnu velosipēdists riteņbraucējs ritenis sportists sports velosipēds
-🐟	dzīvnieks zivis zivs zodiaks
-🤥	meli melis melojoša seja pinokio
-😛	forši jauki lieliski mēle seja ar izbāztu mēli smaidiņš superīgi
-🦵	ekstremitāte kāja pēda saliekts celis spēriens
-🪒	ass bārdas nazis skūt skuveklis
-💈	bārddzinis friziera izkārtne frizieris
-📹	kamera videokamera
-🛵	motorollers skūteris transportlīdzeklis transports
-💸	banknote ar spārniem lidot nauda spārni
-🔦	elektrība gaisma kabatas lukturītis
-🧑‍🧑‍🧒‍🧒	bērns ģimene pieaugušais
-🚳	aizliegts braukt nē velosipēdiem velosipēds
-🪵	baļķis celms kokmateriāls koks
-😂	asaras līdz asarām prieks seja ar prieka smiekli smieklīgi uzjautrinoši
-🐦	dzīvnieks ornitoloģija putns
-🔩	remonts skrūve un uzgrieznis tapa
-🤠	cepure cilvēks kovbojs persona seja ar kovboja cepuri cepurē
-🔉	ieslēgts skaļrunis vidējs skaļruņa skaļums
-💇	cilvēks frizētava frizieris frizūra matu griezums sieviete pie friziera skaistums
-🧓	bezdzimuma cilvēks dzimumneitrāls pieaugušais vecāks vecs
-👼	eņģelis fantāzija mazs eņģelītis mazulis pasaka seja
-🪠	aizsprostojums kanalizācijas buča santehniķis sūkšana tualete vantūzs
-👨‍💼	arhitekts baltās apkaklītes biroja darbinieks birojs darbs menedžeris profesija uzņēmējdarbība virietis vīrietis
-🔃	atzvaidzināt bultiņa pārlādēt poga pulksteņrādītāja virzienā vērstas vertikālas bultiņas
-🦦	rotaļāties spēlēties ūdrs zivju ķeršana
-🗻	daba fudzi kalns
-🐖	cūka dzīvnieks resns ruksis sivēns
-🧲	magnētisks magnēts pakavs pievilkšana pievilkšanās
-🚻	tualete wc
-💤	ar labu nakti gulēt miegains miegs nogurums zzz
-🔌	elektrība kontaktdakša spraudnis
-🏺	amfora dzert trauks ūdensvīrs zodiaks
-📻	izklaide radio video
-🧑‍🦯	akls persona ar balto spieķi pieejamība
-🪗	akordeons instruments koncertīna mūzika mūzikas rokas armoņikas ermoņikas
-🍱	bento kastīte pusdienu
-🔘	ģeometrija opcijas poga radiopoga
-🕙	00 10 10:00 desmit laiks pulksten pulkstenis
-👻	briesmonis fantāzija monstrs pasaka radījums seja smieklīgs spoks
-🧉	dzēriens mate tēja
-🫀	anatomisks cilvēka sirds kardioloģija orgāns pulss sirdspuksti
-🦭	dzīvnieks jūras lauva okeāns ronis
-👨‍🔬	biologs darbs fiziķis inženieris ķīmiķis matemātiķis profesija vīrietis zinātnieks
-🐫	divkupru kamielis dzīvnieks kupris tuksnesis
-♉	horoskops vērsis zodiaka zīme zodiaks
-👨‍🍳	cilvēks darbs pavārs profesija šefpavārs vīrietis
-🚢	kuģis titāniks transports ūdens
-🥽	acu aizsardzība aizsargbrilles metināšana peldēšana ūdenslīdējs
-🚟	transports trose trošu vilciens vagons
-🔶	ģeometrija liels oranžs rombs
-🪡	adata izšūšana pavediens piegrieztne šujamadata šūšana šūt šuves
-⛺	kempings pārgājiens telts
-🙁	bēdas bēdīgs nedaudz bēdīga seja smaidiņš
-👾	briesmonis citplanētiešu citplanētietis kosmoss nlo visums
-💷	banknote mārciņa nauda sterliņu mārciņas valūta
-🏉	bumba regbija regbijs sports
-❓	jautājuma zīme jautājums pieturzīme sarkana
-👩‍🎨	cilvēks darbs māksliniece palete profesija sieviete
-🐇	dzīvnieks lolojumdzīvnieks mājdzīvnieks trusis zaķis
-🌾	augs graudaugs rīsa rīsi
-🛷	kamanas kamaniņas ragavas ragaviņas sniegs ziema
-🌀	ciklons laikapstākļi laiks taifūns virpulis
-🦴	kauls skelets suns
-👨	cilvēks draugs kungs seja vīrietis vīrs
-💥	bums sadursme sprādziens troksnis
-🗿	galva lieldienu sala salu statuja moai
-⛵	buru laiva jahta jūra transports ūdens
-🫵	jūs pirksts punkts rādīt rādītājpirksts pret sevi
-🏰	eiropas eiropiešu ēka māja pils
-🐞	bizbizmārīte insekts kukainis mārīte vabole
-🚆	dzelzceļš transports vilciens
-🐕‍🦺	atbalsts dienesta suns dienests dzīvnieks pieejamība
-🐮	dzīvnieks galva govs piens saimniecība
-🏮	bārs japāņu laterna papīrs sarkana papīra sarkans
-😥	atvieglojums seja sviedri vīlies vilties vīlusies un atvieglota
-🧤	aksesuārs apģērbs cimdi roka
-🐰	galva mājdzīvnieks truša trusis zaķis
-🏨	ēka māja viesnīca
-🍕	izsalkums peperoni pica siers šķēle
-📗	bibliotēka grāmata izglītība zaļa
-🎇	brīnumsvecīte mirdzēt salūts
-🪳	insekts kaitēklis prusaks tarakāns
-⚡	augstspriegums bīstami elektrība spriegums zibens
-⏬	lejup poga ātri
-🍻	alus bārs dzēriens dzert kauss saskandināti kausi
-🚺	sieviešu tualete wc
-👚	apģērbs apkakle blūze krekls sieviešu drēbes
-🧳	bagāža ceļojums koferis uz ritenīšiem pakošanās
-♐	horoskops strēlnieks zodiaka zīme zodiaks
-🚤	ātrlaiva ceļošana ezers laiva miljonārs transportlīdzeklis transports ūdens vasara
-📝	piezīme saziņa zīmulis
-🪨	akmens ciets iezis klints smags
-🍅	augs dārzenis pārtika tomāts
-📁	dokuments dokumentu mape
-🎁	dāvana iesaiņot iesaiņota lente
-🧑	bezdzimuma cilvēks dzimumneitrāls pieaugušais seja
-🚒	transports uguns ugunsdzēsēji ugunsdzēsēju mašīna
-👷	būvniecība celtnieks cilvēks darbs ķivere profesija seja
-🔤	abc alfabēts burti ievade latīņu
-🚞	dzelzceļš kalni kalnu transportlīdzeklis transports vagons vilciens
-🌐	globuss ar meridiāniem meridiāni
-😸	acis dzīvnieks kaķis plati smaidošs ar smaidošām acīm plats smaids seja
-🫡	cieņa jā karavīri labi salutējoša seja salutēšana salutēt sapratu saulains vēlu veiksmi
-🟰	matemātika smagā vienādības zīme vienāds ar vienlīdzība
-🚬	aizdegta cigarete smēķēt
-🆒	cool poga uzraksts kvadrātveida ietvarā
-🍺	alus bārs dzēriens dzert kauss
-🪏	caurums lāpsta liekšķere rakt
-🐂	bullis dzīvnieks vērsis zodiaks
-🤙	piezvani man roka zvans
-♓	horoskops zivis zodiaka zīme zodiaks
-👵	cilvēks seja sieviete veca vecmamma vecs
-🐧	antarktika dzīvnieks pingvīns putns
-❎	atcelt krustiņa poga krustiņš reizināt rūtiņa x
-🟫	brūns kvadrāts
-🥩	cūkgaļas karbonāde gaļas gabals jēra pārtika sarkanā gaļa steiks
-🦾	mehāniska roka pieejamība protēzes
-🎣	makšķere makšķerēšana sports zivs
-😌	atvieglojums miers seja ar atvieglojuma izteiksmi
-🫷	atteikt dod pieci gaidīt pa kreisi spiedoša roka stop stumt
-🐝	bite dzīvnieks insekts kamene kukainis
-🌻	augs daba saule saulespuķe zieds
-✨	* maģija zibšņi zibsnis zvaigzne
-🚽	pods tualete tualetes
-🥑	auglis avokado ēdiens pārtika
-👛	iepirkšanās maks monētas nauda naudasmaks
-🌮	ēdiens meksikāņu pārtika tako
-📋	dokuments dokumentu paliktnis saraksts
-🦊	dzīvnieks galva lapsa viltīgs
-⚫	aplis ģeometrija melns
-♒	horoskops ūdens ūdensvīrs zodiaka zīme zodiaks
-🐈‍⬛	dzīvnieks halovīni kaķis melns mjau neveiksme
-🩵	ciānzils gaiši zila sirds zils zilganzaļš
-📤	dokuments izejošie izejošo dokumentu paliktnis kaste pasts sūtīt
-🐐	dzīvnieks kaza mežāzis zodiaks
-🧂	garša garšviela sāls sāļš trauciņš
-🎯	mērķis šautriņa mērķī spēle trāpījums
-🐻	dzīvnieks galva lācis seja
-🔨	āmurs darbarīks remonts
-🚣	airēšana cilvēks airē ezers laiva makšķerēšana transports ūdens upe
-👕	apģērbs drēbes t krekls
-🐼	dzīvnieks galva panda seja
-👃	aromāts deguns ķermenis smaka smarža
-📭	atvērta pastkaste ar nolaistu karodziņu pasts
-🚁	ceļot helikopters lidot transportlīdzeklis transports
-🛻	mašīna pārvadāt piegāde piegādes auto pikaps transportlīdzeklis
-🕤	30 9 9:30 laiks pulksten pusdesmit pulkstenis
-🫅	cēls honorārs karalis kronis monarhs persona ar vainagu valdnieks
-🧑‍🦽	persona manuālajā ratiņkrēslā pieejamība ratiņkrēsls
-🌱	asns augs dēsts jauns stāds
-😪	gulēt miegaina seja miegs nogurums raudāt
-🧒	bērns bezdzimuma cilvēks dzimumneitrāls jauns seja
-🦤	dodo dzīvnieks izmiršana liels maurīcija putns
-👢	apavi garais zābaks iepirkšanās sieviešu
-📬	atvērta pastkaste ar paceltu karodziņu pasts
-🚼	pārtīt zīdaiņa simbols zīdainis
-🚑	ārsts ātrās palīdzības mašīna medicīna transports
-😞	seja skumjas vaina vīlies vīlusies
-🍸	bārs dzēriens dzert glāze kokteiļa kokteilis martini
-🥵	drudzī drudzis karstuma dūriens nosvīdis piesārtusi seja sarkanu seju saules
-🫔	ēdiens meksikāņu pārtika satīts tamale uzkoda vraps
-👹	briesmonis cilvēkēdājs fantāzija monstrs pasaka radījums seja
-😬	grimase neveiklums saviebta seja zobārsts
-🤶	omīte salavecis ziemassvētki ziemassvētku vecītis
-🎓	absolventa cepure absolvents izlaiduma izlaidums svinības
-👩‍🎓	absolvente sieviete studente
-🛖	apaļa māja būda jurta patvērums
-🎬	filma gatavība klapīte sākam
-🤘	dio pirksts ragi ragu simbols roka rokmūzika smagais metāls
-🕣	30 8 8:30 laiks pulksten pusdeviņi pulkstenis
-🤫	klusēt klusināt kuš seja smaidiņš šušināt šušinoša
-🔭	astronomija rīks teleskops zinātne
-🌸	augs ķirši ķiršu zieds pavasaris
-🥻	apģērbs kleita sari
-🎷	instruments mūzika saksofons
-😺	atvērts dzīvnieks galva kaķis mute plati smaidošs plats smaids
-😫	nogurums nogurusi seja šķaudīt skumja
-😀	priecīgs prieks seja smaidīgs smaids smejas smiekli
-💭	burbulis domas domu
-🦼	ar motoru darbināms ratiņkrēsls motorizēts pieejamība
-👩‍💼	arhitekte baltās apkaklītes biroja darbiniece birojs cilvēks darbs menedžere profesija sieviete uzņēmējdarbība
-♿	invaliditāte piekļūt piekļuve ratiņkrēsls
-🥄	ēst galda piederumi karote
-🧽	absorbēšana porains sūklis tīrīšana uzsūkšana
-💵	banknote dolāra dolārs nauda valūta
-🐹	dzīvnieks galva kāmis lolojumdzīvnieks mājdzīvnieks mīļdzīvnieks
-💾	dators diskete disks
-🌔	augošs izliekts kosmoss mēness
-🥫	bundža ēdiens konservi konservs pārtika
-💴	banknote jena jenas nauda valūta
-🦧	dzīvnieks mērkaķis orangutans pērtiķis
-🍶	bārs dzēriens dzert pudele sakē
-⚪	aplis balts ģeometrija
-🆙	poga up
-😎	saulesbrilles seja smaidoša ar saulesbrillēm smaids stilīgs
-📐	leņķis lineāls matemātika trīsstūra trīsstūris
-🫧	burbuļi peldēt zem ūdens pērles tīrs ziepes
-💕	divas sirdis emocijas mīlestība sirds
-😗	buča flirts seja sniedz skūpstu skūpsts
-🫤	meh nezinu seja ar diagonālu muti skeptiski skeptisks vienalga vīlies
-💬	burbulis dialogs raksta runa runas
-🛘	bīstamība briesmas dubļu nogruvums kalns klintis lavīna zemestrīce
-🚚	automašīna krava kravas mašīna piegāde transports
-🔚	beigas beigt bultiņa ar uzrakstu end
-💺	krēsls sēdeklis sēdvieta
-🎉	ballīte dzimšanas diena konfeti plaukšķene superīgi svētki svinības
-🤲	lūdzējs lūgties plaukstas kopā
-😔	domās iegrimusi seja domīgs pārdomas skumjš
-👋	atā ķermenis mājoša roka māt sveiciens sveiki
-🎊	ballīte konfeti bumbiņa plaukšķene svētki
-💼	birojs portfelis soma
-🥬	kacenkāposts kāposts ķīnas lapu dārzenis pakčojs pārtika
-🈸	ideogramma pieprasīt kvadrātveida ietvarā japāņu ķīniešu pieprasījums
-🚱	aizliegts dzert nav dzeramais ūdens nē nedrīkst
-🐄	dzīvnieks govs piens saimniecība
-⬜	balts ģeometrija kvadrāts liels
-😝	acs garša mēle negaršīgs seja ar izbāztu mēli un aizmiegtām acīm
-😓	auksts galvassāpes nervozs seja ar aukstu sviedru lāsi sviedri
-🩼	ievainots invaliditāte kruķis mobilitātes atbalsts nūja spieķis
-🙀	ak dzīvnieks kaķis noraizējies pārsteigts seja
-🧯	apdzēst dzēst uguns ugunsdzēsības aparāts
-🦖	dinozaurs dzīvnieks tiranozaurs rekss
-🧑‍🧒	bērns ģimene pieaugušais
-🐒	banāns dzīvnieks mērkaķis
-🥴	apreibis iedzēris noreibis noreibusi seja piedzēries šķībām acīm šķību muti
-🧅	garšaugs garšviela sīpols
-🍙	bumbiņa ēdiens japāņu pārtika rīsi rīsu
-👨‍🚒	cilvēks darbs profesija ugunsdzēsējs vīrietis
-🪈	flauta ierakstītājs instruments koka pūšaminstrumenti mūzika orķestris stabule
-🏏	bumba krikets nūja spēle sports
-👴	gudrs seja vecs vectēvs vīrietis
-🦝	dzīvnieks jenots viltīgs ziņkārīgs
-🎲	galda spēle izklaide kauliņš metamais
-🚡	gaisa tramvajs gondola kalns transports trose
-😑	bez izteiksmes neērti neizteiksmīgs seja
-🥶	apsaldējies auksts lāstekas nosalis nosalusi seja nozilējis stindzinošs
-🚿	duša ūdens
-🖕	delna ķermenis pirksts rādīt roka vidējais
-🫆	drošība identitāte izmeklēšana pirksta nospiedums
-🧑‍🍳	pavārs šefpavārs vīrietis
-🫠	izkausēt izkust izšķīst kūstoša seja pazūd sarkasms šķidrums
-🐑	aita auns dzīvnieks mājlops vilna
-🕐	00 1 1:00 laiks pulksten viens pulkstenis
-🔑	aizslēgt atslēga atslēgt parole slēgt
-🚕	automašīna mašīna taksometrs transports
-🎹	instruments klaviatūra klavieres klavieru taustiņi mūzika
-🦮	akls neredzīgs pavadonis pieejamība suns
-📃	atliekta mala dokuments lapa ar atliektu malu
-👨‍🔧	cilvēks darbs elektriķis mehāniķis profesija santehniķis vīrietis
-😄	atvērts mute seja smaidoša ar atvērtu muti un smaidošām acīm smaids smejas
-🥲	aizkustināts asara atvieglots lepns pateicīgs smaidoša seja ar asaru smaidošs
-🫥	introverts neredzams nomākts paslēpies pazūd punktētas līnijas seja slēpt vienalga
-🥤	bezalkoholisks dzēriens ar salmiņu gāzēts limonāda limonāde sula
-🥃	dzēriens glāze liķieris pārtika šots viskija viskijs
-🗼	tokija tokijas tornis
-🙄	acis bolīties neapmierināts pārgriezt pārgrieztas seja ar pārgrieztām acīm
-🦥	dzīvnieks lēns sliņķis slinks
-🧞	burvis džins pasaka vēlēšanās vēlēties vēlēšanos
-🤪	acs ķēmoties liels mazs seja traka traks
-👩‍🍳	cilvēks darbs pavāre profesija šefpavāre sieviete
-🫘	nieres pākšaugi pārtika pupiņas
-🥇	1 vieta medaļa par vietu pirmā zelta
-🐘	dzīvnieks zilonis
-🔻	ģeometrija lejupvērsts sarkans trīsstūris
-🎡	atrakciju parks karuselis panorāma panorāmas rats
-🕢	30 7 7:30 laiks pulksten pusastoņi pulkstenis
-💪	bicepss ķermenis muskulis saliekt
-🎒	izglītība mugursoma skola skolas soma
-😢	asaras bēdīgs raudāt raudoša seja skumjas
-👨‍🦯	akls cilvēks neredzīgs pieejamība vīrietis ar balto atbalsta spieķi
-🫪	ievainojams izbrīnīts lielīgs panika šokēts trauksme
-🔕	aizliegts bez skaņas klusums pārsvītrots zvaniņš
-📢	pastiprinātājs skaļrunis skaļš
-🦟	drudzis insekts malārija ods slimība vīruss
-🎅	salavecis santaklauss vecītis ziemassvētki ziemassvētku
-❕	balta izsaukuma zīme izsaukums pieturzīme
-🤽	cilvēks polo sports ūdens ūdenspolo sportists
-🗾	japāna japānas karte
-🔆	gaisma palielināt spilgtumu spilgtums
-🤣	grīda līdz asarām lol seja smieklīgi smieties vārtās smieklos pa grīdu vārtīties
-🦅	dzīvnieks ērglis putns
-🧶	adīt dzija kamoliņš tamborēt tambrorējums
-🍇	auglis augs dionīss pārtika vīnogas
-🌯	burito ēdiens meksikāņu pārtika
-🌎	dienvidamerika globuss ar ameriku pasaule zemeslode ziemeļamerika
-🀄	ķīniešu šahs mahjong kauliņš sarkanais pūķis sarkans spēle
-🦣	dzīvnieks ilknis izmiršana liels mamuts vilnains
-🥝	auglis augs kivi pārtika
-😻	acis dzīvnieks kaķis mīlestība seja sirds smaidošs ar formas acīm smaids
-🎸	ģitāra instruments mūzika
-⏫	augšup poga ātri
-🏩	ēka māja mīlas viesnīca
-🥓	bekons ēdiens gaļa pārtika
-➗	/ ÷ dalīšanas zīme dalīt matemātika
-🐦‍🔥	atdzimšana dzīvnieks fantastika fantāzija fēnikss pasaka reinkarnācija ugunsputns
-🔁	atkārtot bultiņa poga pulksteņrādītāja virzienā
-👪	bērns ģimene māte sieviete tēvs vīrietis
-🤍	balta mīlu sirds
-🪃	atlēciens atsitiens austrālija bumerangs ierocis
-🔧	darbarīks remonts uzgriežņu atslēga
-🐶	dzīvnieks galva lolojumdzīvnieks mājdzīvnieks suņa suns
-🦌	briedis dzīvnieks
-🎋	japāņu karodziņš koks vēlēšanās vēlmju
-🕌	ēka islams lūgties māja mošeja musulmaņi reliģija
-📔	bloknots ar dekoratīvu vāku dekoratīvs grāmata izglītība piezīmes vāks
-🕗	00 8 8:00 astoņi laiks pulksten pulkstenis
-🐲	briesmonis galva pasaka pūķa pūķis
-👊	dūre ķermenis pretim vērsta roka sist
-🫙	burka garšviela konteiners mērce tukšs tvertne veikalā
-🚇	metro transportlīdzeklis transports
-🧏	auss cilvēks dzirde kurls kurlums nedzirdīga persona nedzirdīgs pieejamība
-🤐	ciet klusums mute rāvējslēdzējs seja ar rāvējslēdzēju mutes vietā
-👩	blondīne cilvēks dāma kundze seja sieviete
-🍡	dango deserts irbulīši japāņu salds
-📧	aploksne e-pasts pasts vēstule
-🛜	bezvadu internets dators tīkls wifi
-🐊	aligators dzīvnieks florida krokodils zoo
-📌	piespraude spraudīte
-🕕	00 6 6:00 laiks pulksten seši pulkstenis
-⛲	strūklaka ūdens
-🔫	ierocis pistole revolveris šaujamierocis ūdens
-🍐	auglis augs bumbieris pārtika
-⚓	enkurs kuģis rīks
-🪆	krievu lelle matrjoška matrjoškas
-📦	kaste paciņa paka pārvadājumi sūtījums
-🧧	aploksne dāvana nauda sarkana veiksme
-🪽	aviācija eņģelisks lidojošs mitoloģija putns spārns
-🎪	cirka telts cirks
-😏	seja smīnoša smīns viltīgs
-🛄	bagāža bagāžas saņemšana ceļojums lidosta
-♑	horoskops mežāzis zodiaka zīme zodiaks
-🧑‍💼	arhitekts baltā apkaklīte pārvaldnieks uzņēmējs vīrietis biroja darbinieks
-🐁	dzīvnieks pele
-🐌	dārzs dzīvnieks gliemezis gliemis vīngliemezis
-👩‍🌾	cilvēks darbs dārzeniece lauksaimniece profesija sieviete
-🕑	00 2 2:00 divi laiks pulksten pulkstenis
-🎀	lente pušķis pušķītis svētki
-📪	aizvērta pastkaste ar nolaistu karodziņu pasts
-🎮	konsole playstation spēle videospēle xbox
-🔴	aplis ģeometrija sarkans
-🦞	bisks dzīvnieks jūras veltes omārs spīles
-🛐	lūgšanas lūgšanu vieta reliģija
-🛹	dēlis riteņi skrituļdēlis
-👩‍🏭	darbs fabrikas strādniece profesija ražošana rūpnīca sieviete
-🙅	aizliegts cilvēks ar aizlieguma žestu noraidījuma nē nedrīkst roka žests
-🏧	atm bankomāta zīme bankomāts nauda
-🧢	beisbola cepure ar nagu
-🫎	alnis dzīvnieks ragi zīdītājs
-💁	baumas cilvēks informācija palīdzība pastiept persona ar pastieptu roku roka sarkasms vienalga žests
-🈶	ideogramma būt kvadrātveida ietvarā japāņu nav bezmaksas
-🌺	augs hibisks zieds
-🤬	dusmīgs lamāšanās nikns seja ar simboliem uz mutes smaidiņš
-🤢	nelabums pretīgi seja slimība
-💃	cilvēks deja dejotāja sieviete dejo uzdejojam
-🦋	insekts kukainis skaists taurenis
-🐥	cālis no priekšpuses dzīvnieks putns
-🚫	aizliegts ieeja nē nedrīkst
-💞	emocijas gadadiena mīlestība rotējošas sirdis sirds
-🥖	bagete ēdiens franču maize pārtika
-🉑	ideogramma piekrist apļveida ietvarā japāņu ķīniešu pieņemams poga
-🚓	automašīna mašīna policija policijas transports
-🧑‍🔬	biologs fiziķis inženieris ķīmiķis vīrietis zinātnieks
-🔒	aizslēgts privāts slēdzene
-🐦‍⬛	knābis krauķis krauklis melns putns vārna žagata
-😐	bez izteiksmes neitrāla seja neitrāls neizteiksmīgs
-🪘	bungas garās konga ritms vālīte
-🎩	apģērbs cepure cilindrs iluzionists linkolns maģija oficiāls
-👩‍🎤	aktrise dziedātāja izklaide profesija roks sieviete zvaigzne
-🦄	galva vienradzis
-🐠	dzīvnieks tropi tropu zivs
-🥥	kokosrieksts palma pina colada
-🧣	auksts aukstums kakls šalle
-🎿	slēpes sniegs sports
-🌆	ainava ēka krēsla māja panorāma pilsēta pilsētas krēslā
-🧐	garlaicīgs seja ar monokli smaidiņš vecmodīga
-😭	aizgūtnēm raudoša seja asaras bēdas raudāt skumjš
-😰	atvērts auksts mute nervozs seja ar atvērtu muti un aukstiem sviedriem sviedri zils
-💣	bīstams bumba sprādziens sprāgt spridzeklis spridzināt
-🐪	dzīvnieks kamielis kupris tuksnesis vienkupra
-👨‍🎓	absolvents students vīrietis
-👇	delna ķermenis lejup vērsts rādītājpirksts pirksts rādīt roka
-🥉	bronzas medaļa par 3 vietu trešā
-🚅	ātrums ātrvilciens ar noapaļotu priekšgalu dzelzceļš transports vilciens
-🥳	apsveikums ballīšu seja ballīte cepure prieks svinēt svinības taurīte
-👳	cilvēks persona ar turbānu seja turbāns vīrietis
-🎧	austiņas ieauši skaņa
-📨	aploksne e-pasts ienākoša saņemt vēstule
-⭐	astronomija zvaigzne
-🫃	apaļš pārēdies pilns stāvoklī vēders vīrietis
-🌌	debesis kosmoss piena ceļš visums
-🧖	atpūta cilvēks tvaika telpā pirts sauna telpa
-🚠	gondola kalns kalnu trošu ceļš vilciens transports trose
-🪙	bagātība eiro metāls monēta nauda sudrabs zelts
-🌵	augs daba kaktuss sausums tuksnesis
-😲	oho pārsteigts seja šokēta šokēts
-🙃	apgriezta seja apgriezts otrādi smaids
-🚶	cilvēks gaita gājējs iešana kājāmgājējs pārgājiens
-👤	ēna krūšutēla siluets krūšutēls mistika noslēpumains
-🛶	kanoe laiva transports
-🌓	augošs mēness pusmēness
-🌒	augoša mēness sirpis augošs kosmoss
-👽	briesmonis citplanētietis kosmoss nlo visums
-🕡	30 6 6:30 laiks pulksten pusseptiņi pulkstenis
-🐡	balonzivs dzīvnieks zivs
-🛃	iepakošana muita pakošana
-🥛	dzēriens dzert glāze pārtika piena piens
-🛟	drošība dzīvības glābējs glābšana glābšanas riņķis gredzenu boja izglābt pludiņš
-🫚	alus dabīgs garšviela ingvera sakne ingveralus ingvers
-🍋	auglis augs citrons citruss pārtika
-🪶	apspalvojums putns spalva viegls
-🫹	neitrāls norādīt pa kreisi satvēriens šis tas
-👲	cepure cilvēks seja vīrietis ar ķīniešu cepuri
-🤰	sieviete stāvoklī
-🧹	ragana slaucīšana slota tīrīšana
-💑	mīlestība pāris ar sirdi romantika sirds
-⛅	laikapstākļi laiks mākonis saule aiz mākoņa
-🩶	pelēka sirds pelēks šīferis sudrabs
-🧨	dinamīts dzirkstele petarde spridzeklis uguņošana
-🏊	cilvēks peldēšana peldēt peldētājs sportists sports ūdens
-🕟	30 4 4:30 laiks pulksten puspieci pulkstenis
-🩰	baleta kurpes balets deja puantes
-📀	blu-ray cd dators disks dvd kompaktdisks
-🏃	ātrums cilvēks maratons sacīkstes skrējējs skriešana sportists
-🧜	cilvēks nāra nāris nārveidīgs pasaka sirēna zemūdens valstība
-🔽	lejup poga
-💻	birojs dators klēpjdators personālais
-🧋	burbulis burbuļtēja pērle piens tēja
-🫏	dzīvnieks ēzelis mūlis spītīgs stulbenis zīdītājs
-🪟	atvērums caurspīdīgs logs rāmis skats svaigs gaiss
-🐢	bruņurupucis dzīvnieks
-😤	dusmas seja ar tvaiku no deguna tvaiks
-👨‍🚀	astronauts cilvēks darbs kosmoss profesija raķete vīrietis
-👩‍💻	darbs izstrādātāja profesija programmatūra programmētāja sieviete tehniķe
-🦠	amēba baktērija mikrobs vīruss zinātne
-🥺	kucēna acis lūdzoša seja lūgšanās žēlastība
-🤮	nelabums pretīgi seja slimība smaidiņš vēmekļi vemjoša
-❗	izsaukuma zīme izsaukums pieturzīme sarkana
-🪼	apdegt bezmugurkaulnieks dzelonis jūras iemītnieks medūza sadzelt sāpīgi želeja
-🎺	instruments mūzika taure trompete
-🟥	kvadrāts sarkans
-😶	kluss mēms mute noslēpums seja bez mutes
-🧬	biologs dns dzīve evolūcija ģenētika gēns
-😵‍💫	apreibis hipnozē nepatikšanas oho seja ar spirālēm acu vietā spirāles
-📸	fotoaparāts fotokamera ar zibspuldzi kamera zibspuldze
-👩‍🔧	cilvēks darbs elektriķe mehāniķe profesija santehniķe sieviete
-💧	lāse sviedri ūdens
-🪂	izpletnis lidošana ar paraplānu paraplāns
-🎃	helovīns izgrebts ķirbis svētki visu svēto dienas priekšvakars
-🫟	krāsa krāsains noplūde šļakatām traipu
-💖	mirdzēt mirdzoša sirds spīdēt
-💜	lillā sirds mīlu violeta violets
-🚀	ceļošana kosmoss palaišana raķete visums
-🎑	ceremonija japāņu mēness vērošanas svētki
-🍦	deserts ēdiens krēms mīksts pārtika saldējums vafeļu glāzītē salds
-🥀	novītusi puķe
-😣	koncentrēšanās neatlaidīgs pacietīgs piepūle piepūlēta seja
-📰	avīze laikraksts saziņa ziņas
-🥊	boksa cimds bokss sports
-🧑‍🏫	instruktors pedagogs profesors skolotājs
-🔺	augšupvērsts sarkans trīsstūris ģeometrija
-📺	televizors tv video
-🦬	bifelis bizons dzīvnieks ganāmpulks sumbrs
-👸	cilvēks fantāzija karaliene kronis pasaka princese sieviete
-😋	ēdienu baudoša seja garšīgs ņamm smaids
-👗	apģērbs drēbes iepirkšanās kleita
-🦎	dzīvnieks ķirzaka rāpulis
-🫳	atlaist nomest pacelt plauksta uz leju plaukstu shoo
-🥎	bumba cimds paduse softbols
-💉	adata ārsts medicīna pote slims šļirce
-🪧	demonstrācija pikets plakāts plāksne protests zīme
-🌃	nakts pilsēta zvaigzne zvaigžņota debess
-📕	aizvērta grāmata izglītība
-😇	eņģelis nevainīgs nimbs seja smaidoša ar nimbu smaids svētais
-🍃	augs lapa plīvot pūst vējā plīvojoša vējš
-🫒	ēdiens olīva olīvzars
-🔜	bultiņa ar uzrakstu soon drīz
-🧑‍🍼	auklīte barošana mamma mazulis persona baro bērnu tētis zīdīšana
-🚍	autobuss pretī braucošs transports
-🧄	garšaugs garšviela ķiploks
-👯	ausis ballīte cilvēks dejotāja dejotāju šovs meitene pāris sieviete zaķa zaķis
-🪤	ēsma lamatas peļu slazds
-🥸	brilles deguns inkognito maska paslēpta seja spiegs ūsas
-🥅	futbola vārti sports tīkls ar tīklu
-🍪	cepums deserts gardums salds
-🔎	lupa meklēšana pa labi vērsta palielināt rīks
-🩴	apavi kurpe pirkstiņsandales pludmale pludmales sandales siksniņsandale siksniņsandales vasara
-💢	dusmas dusmīgs dusmu simbols komikss
-🥙	ēdiens giross kebabs lavašs pārtika pildīts
-🐈	dzīvnieks kaķēns kaķis lolojumdzīvnieks mājdzīvnieks
-📥	dokuments ienākošie ienākošo dokumentu paliktnis kaste pasts saņemt
-🚮	atkritumi atkritumu urnas zīme urna
-🟨	dzeltens kvadrāts
-🥼	apģērbs ārsts balts halāts eksperiments laboratorijas zinātnieks
-🧱	kaļķu java ķieģeļi ķieģelis māls siena
-🧈	piena produkti sviests
-💓	mīlestība pukstēt pukstoša sirds sirdspuksti
-🎏	karodziņi karpa svētki zivju veida zivs
-♈	auns horoskops zodiaka zīme zodiaks
-🛌	ar labu nakti cilvēks gultā gulēt gulta viesnīca
-🦇	dzīvnieks sikspārnis vampīrs
-🚐	autobuss braukt mikroautobuss transportlīdzeklis transports
-🐬	delfīns dzīvnieks okeāns peldpleznas pludmale
-🐅	dzīvnieks lielais kaķis plēsējs tīģeris zoo
-🌉	nakts tilts naktī
-🤌	pastiepti pirksti rokas žests sarkastisks saspiests
-🛀	cilvēks mazgājas vannā mazgāties ūdens vanna
-👶	bērns cilvēks mazulis seja zīdainis
-🍁	augs kļava kļavas lapa rudens
-🚜	traktors transports
-💠	ģeometrija rombs ar punktu
-😚	acs aizvērtas acis aizvērts buča seja ar aizvērtām acīm sniedz skūpstu skūpsts smaids
-👮	cilvēks policija policists profesija virsnieks
-🍥	ēdiens pīrāgs rotājums zivju ar rotājumu zivs
-🧌	briesmonis fantāzija pasaka trollis
-👠	apavi apģērbs augstpapēžu kurpe papēdis sieviešu
-🧑‍🎄	cilvēks dzimumneitrāls santaklauss persona ziemassvētki ziemassvētku
-👩‍🏫	cilvēks darbs docente lektore pasniedzēja profesija profesore sieviete skolotāja
-🌴	augs koks palma pludmale tropi
-🏭	ēka fabrika māja rūpnīca
-🔷	ģeometrija liels zils rombs
-💡	elektrība gaisma ideja komikss spuldze
-🪾	bezlapu koks neauglīgs sausums ziema
-🔙	atpakaļ bultiņa ar uzrakstu back
-🫲	kreisā roka kreiso roku pa kreisi rokasspiediens sniegties turēt
-💒	ēka kapela kāzas māja romantika
-🆔	id identitāte poga uzraksts kvadrātveida ietvarā
-🧑‍🩰	baleta dejotājs
-🥪	maize sendvičs sviesmaize
-⌛	iztecējis smilšu pulkstenis pulstenis laiks smiltis taimeris
-🔀	bultiņa jaukta secība poga sakrustota
-😦	atvērts bailes bēdas bēdīga seja ar atvērtu muti mulsums mute pārsteigums
-🍄‍🟫	beka brūna sēne daba dārzenis ēdiens mežs portobello sēnes sporas
-🦫	bebrs dambis dzīvnieks grauzt zobi
-🥚	ēdiens ola pārtika
-🛑	astoņstūris zīme stop stopzīme
-🎫	biļete ieeja pasaknis
-👺	briesmonis fantāzija goblins monstrs pasaka radījums seja
-🤷	neziņa nezinu rausta plecus šaubas vienaldzība vienalga
-🦏	degunradzis dzīvnieks
-🍿	kino kukurūza popkorns
-☕	dzēriens dzert kafija karsts kofeīns tēja
-📴	izslēgt izslēgts mobilais tālrunis telefons
-👘	apģērbs ērts kimono
-🚈	dzelzceļš piepilsētas vilciens transports viensliedes
-🧷	autiņi drošības adata pankroks saspraude
-🍔	burgers ēdiens hamburgers pārtika
-🔸	ģeometrija mazs oranžs rombs
-🎎	japāņu lelles lelle svētki
-🧘	atpūta cilvēks lotosa pozā joga meditācija miers
-🥾	apavi brūni kempings mugursoma pārgājiens pārgājienu zābaks
-🦙	alpaka dzīvnieks gvanako lama vikunja vilna
-🆚	poga uzraksts vs kvadrātveida ietvarā versus
-🧦	zeķbikses zeķes
-🛕	hinduistu templis
-💝	lentīte sirds ar lentīti valentīndiena
-🔂	atkārtot vienu bultiņa poga dziesmu pulksteņrādītāja virzienā vienreiz
-🌷	augs tulpe zieds
-🧑‍🧑‍🧒	bērns ģimene pieaugušais
-🥰	aizrāvies dievināt iemīlējies seja sirdis smaidoša ar sirsniņām
-💍	dārgakmens dimants gredzens kāzas romantika saderināšanās
-🕖	00 7 7:00 laiks pulksten septiņi pulkstenis
-🚷	aizliegts gājēji gājējiem iet kājāmgājēji nē nedrīkst
-🐾	ķepa ķepu nospiedumi nospiedums
-👨‍🎨	cilvēks darbs mākslinieks palete profesija vīrietis
-🍤	cepta garnele cepts ēdiens pārtika
-🦢	dzīvnieks gulbis jauns neglītais pīlēns putns
-🔏	konfidencialitāte privāti rakstāmspalva slēdzene ar rakstāmspalvu slepeni
-⛄	auksts laikapstākļi laiks sniegavīrs bez sniega sniegs
-💀	briesmonis galva galvaskauss nāve
-🏴	karogs melns plīvot
-👍	+1 apstiprinājums augšup augšupvērsts īkšķis ķermenis ok patīk roka
-🧑‍💻	izgudrotājs izstrādātājs kodētājs programmatūra tehnologs vīrietis tehniķis
-🪊	džezs instruments mūzika pāreja pūšamais skumjas
-🌭	desiņa ēdiens hotdogs pārtika
-♎	horoskops līdzsvars svari zodiaka zīme zodiaks
-🪇	čača grabulis instruments kratīt marakass mūzika perkusijas
-💂	bekingemas pils londona sargs seja
-🛸	lidojošais šķīvītis nlo
-➰	cilpa cilpiņa sproga
-🎴	japāņu kārtis spēle ziedu
-🦪	austere niršana pērle
-🪯	khanda reliģija sikhi ticība
-🛅	bagāža bagāžas glabātava glabāt
-🉐	ideogramma izdevīgi apļveida ietvarā japāņu
-🧑‍🏭	montāža nozare rūpnīca rūpnīcas strādnieks
-🔰	iesācējs japāņu apzīmējums iesācējam simbols kas apzīmē iesācēju uzšuve
-🫍	jūra okeāns valis
-♊	dvīņi horoskops zodiaka zīme zodiaks
-🍒	auglis augs ķirši ķirsis oga pārtika
-🦘	austrālija ķengura mazulis ķengurs lēciens somainis
-🦯	akls baltais atbalsta spieķis neredzīgs pieejamība
-🧼	tīrīšana vannošana ziepes ziepju gabals putas trauks
-🧿	amulets pret ļaunu aci krelle ļaunā acs nazars piekariņš talismans
-🎱	8 astoņi biljarda bumbiņa biljards spēle
-🍭	cukurgailītis konfekte uz kociņa pārtika salds saldumi
-🥈	2 vieta medaļa par vietu otrā sudraba
-🔬	eksperiments laboratorija mikroskops rīks zinātne
-🤞	pirksts roka sakrustot sakrustoti pirksti turēt īkšķus veiksme
-🍛	ēdiens karijs pārtika rīsi rīsu
-👌	ķermenis labi lieliski ok roka sapratu simbols
-👆	augšup vērsts rādītājpirksts ar prom vērstu delnu delna ķermenis pirksts rādīt roka
-👉	delna ķermenis pa labi vērsts rādītājpirksts pirksts rādīt roka
-🎍	augs bambuss japāņu priede priedes dekorācija svētki
-🧔	bārda bārdaina persona bārdains vīrietis
-🦶	pēda pēdas potīte spēriens
-🈺	atvērts ideogramma strādā kvadrātveida ietvarā japāņu ķīniešu
-🧮	skaitīkļi skaitīšana
-🏁	finiša karogs finišs melnbalts rūtots sacīkstes sports
-🙈	aizliegts dzīvnieks galva ļauns nē nedrīkst neko neredzu pērtiķis redzēt žests
-🍠	cepti saldie kartupeļi cepts pārtika saldais kartupelis salds
-🕋	ēka islams islāms kaaba lūgties māja musulmaņi reliģija
-🫓	arepa lavašs maize nāanmaize pārtika pita plācenis
-😠	dusmīga seja dusmīgs nelaimīgs vainot
-🫶	mīlestība rokas sirds žests
-🤖	monstrs robots seja
-◾	ģeometrija kvadrāts vidēji mazs melns
-🤤	seja siekalas siekalojas
-🏹	bulta horoskops ierocis loks un strēlnieks
-💔	salauzt salauzta sirds skumjas
+🧑‍🧑‍🧒‍🧒	bērns berns ģimene gimene pieaugušais pieaugusais
+🍾	bārs bars dzēriens dzeriens dzert korķis korkis pudele ar izšautu izsautu korķi korki šampanietis sampanietis
+🉑	ideogramma piekrist apļveida aplveida ietvarā ietvara japāņu japanu ķīniešu kiniesu pieņemams pienemams poga
+👩‍🔧	cilvēks cilveks darbs elektriķe elektrike mehāniķe mehanike profesija santehniķe santehnike sieviete
+📱	mobilais saziņa sazina tālrunis talrunis telefons
+👩‍💼	arhitekte baltās baltas apkaklītes apkaklites biroja darbiniece birojs cilvēks cilveks darbs menedžere menedzere profesija sieviete uzņēmējdarbība uznemejdarbiba
+👽	briesmonis citplanētietis citplanetietis kosmoss nlo visums
 🍍	ananass auglis augs pina colada tropisks
-🤱	barošana ar krūti krūts mazulis zīdīšana
-👨‍🍼	auklis barošana bērnu barojošs cilvēks kopšana mazulis persona tētis vīrietis
-👫	pāris rokas sadot sieviete un vīrietis sadevušies rokās
+😊	nosarkt prieks seja smaidoša smaidosa ar smaidošām smaidosam acīm acim smaids
+🛸	lidojošais lidojosais šķīvītis skivitis nlo
+♿	invaliditāte invaliditate piekļūt pieklut piekļuve piekluve ratiņkrēsls ratinkresls
+🪆	krievu lelle matrjoška matrjoska matrjoškas matrjoskas
+👈	delna ķermenis kermenis pa kreisi vērsts versts rādītājpirksts raditajpirksts pirksts rādīt radit roka
+🐤	cālis calis dzīvnieks dzivnieks galva putns
+🍬	gardums konfekte pārtika partika salds saldumi
+👨‍🍳	cilvēks cilveks darbs pavārs pavars profesija šefpavārs sefpavars vīrietis virietis
+😣	koncentrēšanās koncentresanas neatlaidīgs neatlaidigs pacietīgs pacietigs piepūle piepule piepūlēta piepuleta seja
+🫯	cīkstēšanās cikstesanas cīņa cina debates domstarpības domstarpibas ķīviņš kivins strīds strids tracis
+🥂	dzert glāze glaze glāžu glazu skandināšana skandinasana šampanietis sampanietis saskandināt saskandinat svinēt svinet
+🤜	dūre dure pa labi
+🎽	krekls skriešanas skriesanas skriet vieglatlētika vieglatletika
+🎎	japāņu japanu lelles lelle svētki svetki
+📺	televizors tv video
+🌜	dilstoša dilstosa mēness meness sirpja seja dilstošs dilstoss sirpis
+👀	acis acs ķermenis kermenis skatīties skatities
+🫖	dzēriens dzeriens kanna tēja teja tējkanna tejkanna
+🦚	ārišķīgs ariskigs dzīvnieks dzivnieks iedomīgs iedomigs pāvs pavs pāvu pavu mātīte matite putns
+🫧	burbuļi burbuli peldēt peldet zem ūdens udens pērles perles tīrs tirs ziepes
+📑	grāmatzīme gramatzime līmkarodziņi limkarodzini zīme zime
+👡	apavi sandale sieviešu sieviesu
+💺	krēsls kresls sēdeklis sedeklis sēdvieta sedvieta
+🍝	ēdiens ediens makaroni pārtika partika pasta spageti
+🚿	duša dusa ūdens udens
+🦜	dzīvnieks dzivnieks papagailis pirāts pirats putns runāt runat
+🪯	khanda reliģija religija sikhi ticība ticiba
+🏣	ēka eka japāņu japanu pasta nodaļa nodala māja maja pasts
+🏭	ēka eka fabrika māja maja rūpnīca rupnica
+🤍	balta mīlu milu sirds
+🥢	haši hasi irbulīši irbulisi
+🏥	ārsts arsts ēka eka māja maja medicīna medicina slimnīca slimnica
+🙈	aizliegts dzīvnieks dzivnieks galva ļauns launs nē ne nedrīkst nedrikst neko neredzu pērtiķis pertikis redzēt redzet žests zests
+🐱	dzīvnieks dzivnieks galva kaķa kaka kaķis kakis mājdzīvnieks majdzivnieks
+🪁	gaisa pūķis pukis lidot pacelties
+🤖	monstrs robots seja
+🫄	apaļš apals cilvēks cilveks stāvoklī stavokli pārēdies paredies pilns vēders veders
+🔑	aizslēgt aizslegt atslēga atslega atslēgt atslegt parole slēgt slegt
+🤡	klauna seja klauns
+🫍	jūra jura okeāns okeans valis
+🐹	dzīvnieks dzivnieks galva kāmis kamis lolojumdzīvnieks lolojumdzivnieks mājdzīvnieks majdzivnieks mīļdzīvnieks mildzivnieks
+🥟	gioza gjoza pārtika partika pelmeņi pelmeni pīrādziņi piradzini vareņiki vareniki
+🔪	ēst est ierocis nazis rīks riks virtuves
+👙	apģērbs apgerbs bikini peldēt peldet peldkostīms peldkostims pludmale
+🚸	bērni berni šķērso skerso ielu gājēji gajeji pāreja pareja satiksme zīme zime
+◾	ģeometrija geometrija kvadrāts kvadrats vidēji videji mazs melns
+🫎	alnis dzīvnieks dzivnieks ragi zīdītājs ziditajs
+🫳	atlaist nomest pacelt plauksta uz leju plaukstu shoo
+🎵	mūzika muzika nots skaņa skana
+🚷	aizliegts gājēji gajeji gājējiem gajejiem iet kājāmgājēji kajamgajeji nē ne nedrīkst nedrikst
+🦫	bebrs dambis dzīvnieks dzivnieks grauzt zobi
+🦪	austere niršana nirsana pērle perle
+🛌	ar labu nakti cilvēks cilveks gultā gulta gulēt gulet viesnīca viesnica
+🎹	instruments klaviatūra klaviatura klavieres klavieru taustiņi taustini mūzika muzika
+🫩	maisiņi maisini zem acīm acim miegains noguris pārgurums pargurums
+🥨	kliņģeris klingeris maize maizīte maizite savīts savits
+🦅	dzīvnieks dzivnieks ērglis erglis putns
+💐	dzimšanas dzimsanas diena gadadiena mīlestība milestiba pušķis puskis randiņš randins romantika ziedi
+👜	apģērbs apgerbs drēbes drebes iepirkšanās iepirksanas rokassoma soma somiņa somina
+🈳	brīvs brivs ideogramma kvadrātveida kvadratveida ietvarā ietvara japāņu japanu ķīniešu kiniesu
+🐟	dzīvnieks dzivnieks zivis zivs zodiaks
+🫁	ekshalācija ekshalacija elpošana elposana elpot inhalācija inhalacija orgāns organs plaušas plausas respirācija respiracija
+👨‍🎤	aktieris bovijs cilvēks cilveks dziedātājs dziedatajs izklaide roks rokzvaigzne vīrietis virietis zvaigzne
+🛖	apaļa apala māja maja būda buda jurta patvērums patverums
+🍀	4 āboliņš abolins augs četrlapu cetrlapu laimes simbols lapa
+🪕	bandžo bandzo mūzika muzika stīgu stigu
+😌	atvieglojums miers seja ar atvieglojuma izteiksmi
+🐺	dzīvnieks dzivnieks galva vilks
+🦣	dzīvnieks dzivnieks ilknis izmiršana izmirsana liels mamuts vilnains
+🦆	dzīvnieks dzivnieks pīle pile putns
+🦢	dzīvnieks dzivnieks gulbis jauns neglītais neglitais pīlēns pilens putns
+🛷	kamanas kamaniņas kamaninas ragavas ragaviņas ragavinas sniegs ziema
+😍	acs mīlestība milestiba seja sirds smaidoša smaidosa ar formas acīm acim smaids
+🌓	augošs augoss mēness meness pusmēness pusmeness
+🪣	spainis toveris tvertne
+👾	briesmonis citplanētiešu citplanetiesu citplanētietis citplanetietis kosmoss nlo visums
+🔔	baznīca baznica skaņa skana starpbrīdis starpbridis zvans
+🩳	apakšveļa apaksvela apģērbs apgerbs bikses peldkostīms peldkostims šorti sorti
+🖖	ķermenis kermenis pirksti pirksts roka spoks vulkāniešu vulkaniesu sveiciens vulkāns vulkans
+👯	ausis ballīte ballite cilvēks cilveks dejotāja dejotaja dejotāju dejotaju šovs sovs meitene pāris paris sieviete zaķa zaka zaķis zakis
+🥌	akmens kērlinga kerlinga kērlings kerlings spēle spele
+🎺	instruments mūzika muzika taure trompete
+🌑	jauns mēness meness kosmoss tumšs tumss
+👆	augšup augsup vērsts versts rādītājpirksts raditajpirksts ar prom vērstu verstu delnu delna ķermenis kermenis pirksts rādīt radit roka
+🧑‍🌾	dārznieks darznieks fermeris lauksaimnieks zemnieks
+🥧	gaļas galas pīrāgs pirags ķirbju kirbju mīkla mikla pildījums pildijums
+📠	faksa aparāts aparats fakss saziņa sazina
+😆	atvērts atverts laimīgs laimigs mute priecīgs priecigs seja smaidoša smaidosa ar atvērtu atvertu muti un aizmiegtām aizmiegtam acīm acim smaids smiekli
+🧣	auksts aukstums kakls šalle salle
+🐖	cūka cuka dzīvnieks dzivnieks resns ruksis sivēns sivens
+🛜	bezvadu internets dators tīkls tikls wifi
+🍉	arbūzs arbuzs auglis augs ēdiens ediens pārtika partika
+🪮	afro ķemme kemme mati matu saspraust
+💠	ģeometrija geometrija rombs ar punktu
+🛹	dēlis delis riteņi riteni skrituļdēlis skrituldelis
+📲	bultiņa bultina mobilais tālrunis talrunis ar bultiņu bultinu saņemt sanemt telefons zvans
+🚳	aizliegts braukt nē ne velosipēdiem velosipediem velosipēds velosipeds
+🤑	mute nauda seja ar naudu mutē
+🚅	ātrums atrums ātrvilciens atrvilciens ar noapaļotu noapalotu priekšgalu prieksgalu dzelzceļš dzelzcels transports vilciens
+📒	grāmata gramata ar spirāli spirali klade piezīmes piezimes spirāle spirale
+🧂	garša garsa garšviela garsviela sāls sals sāļš trauciņš traucins
+🫪	ievainojams izbrīnīts izbrinits lielīgs lieligs panika šokēts sokets trauksme
+🧞	burvis džins dzins pasaka vēlēšanās velesanas vēlēties veleties vēlēšanos velesanos
+🍭	cukurgailītis cukurgailitis konfekte uz kociņa kocina pārtika partika salds saldumi
+🌳	augs koks lapas lapu mežs mezs
+🚤	ātrlaiva atrlaiva ceļošana celosana ezers laiva miljonārs miljonars transportlīdzeklis transportlidzeklis transports ūdens udens vasara
+👵	cilvēks cilveks seja sieviete veca vecmamma vecs
+🐈‍⬛	dzīvnieks dzivnieks halovīni halovini kaķis kakis melns mjau neveiksme
+🚉	dzelzceļš dzelzcels stacija transportlīdzeklis transportlidzeklis transports vilciens
+🚐	autobuss braukt mikroautobuss transportlīdzeklis transportlidzeklis transports
+❔	balta jautājuma jautajuma zīme zime jautājums jautajums pieturzīme pieturzime
+🔐	aizvērta aizverta slēdzene sledzene ar atslēgu atslegu atslēga atslega drošs dross slēgts slegts
+👰	cilvēks cilveks ar plīvuru plivuru kāzas kazas līgava ligava persona plīvurs plivurs sieviete
+🧠	gudrība gudriba intelekts inteliģence inteligence smadzenes
+🔚	beigas beigt bultiņa bultina ar uzrakstu end
+🥁	bungas bungu vālītes valites mūzika muzika
+🛶	kanoe laiva transports
+😨	bailes bailīgs bailigs nobijies nobijusies seja noraizējies noraizejies
+🥫	bundža bundza ēdiens ediens konservi konservs pārtika partika
+🎈	balons dzimšanas dzimsanas diena svētki svetki svinības svinibas
+🤏	drusciņ druscin maz nedaudz roka rāda rada drusciņu druscinu
+🐕‍🦺	atbalsts dienesta suns dienests dzīvnieks dzivnieks pieejamība pieejamiba
+🦑	dzīvnieks dzivnieks ēdiens ediens jūras juras veltes kalmārs kalmars molusks
+🍹	bārs bars dzēriens dzeriens dzert glāze glaze kokteilis tropisks tropu
+🦂	dzīvnieks dzivnieks skorpions zodiaks
+💴	banknote jena jenas nauda valūta valuta
+🫹	neitrāls neitrals norādīt noradit pa kreisi satvēriens satveriens šis sis tas
+➖	- – atņemt atnemt matemātika matematika mīnuss minuss mīnuszīme minuszime
+🚏	autobusa pietura autobuss
+🎱	8 astoņi astoni biljarda bumbiņa bumbina biljards spēle spele
+🥡	irbulīši irbulisi kastīte kastite līdzņemšanai lidznemsanai ķīniešu kiniesu ēdiens ediens ēdienu edienu
+🪳	insekts kaitēklis kaiteklis prusaks tarakāns tarakans
+🔜	bultiņa bultina ar uzrakstu soon drīz driz
+🏪	24 diennakts ēka eka māja maja veikals
+🍊	apelsīns apelsins auglis augs citruss mandarīns mandarins oranžs oranzs pārtika partika
+👑	karaliene karalis kronis
+🕖	00 7 7:00 laiks pulksten septiņi septini pulkstenis
+💟	balta sirds lillā lilla rotājums rotajums violeta
+🚱	aizliegts dzert nav dzeramais ūdens udens nē ne nedrīkst nedrikst
+👣	ķermenis kermenis nospiedumi pēdas pedas pēdu pedu
+🍅	augs dārzenis darzenis pārtika partika tomāts tomats
+📰	avīze avize laikraksts saziņa sazina ziņas zinas
+🟢	aplis zaļš zals
+🚆	dzelzceļš dzelzcels transports vilciens
+⚪	aplis balts ģeometrija geometrija
+🪞	atspīdums atspidums kosmētika kosmetika reflektors spogulis
+🐈	dzīvnieks dzivnieks kaķēns kakens kaķis kakis lolojumdzīvnieks lolojumdzivnieks mājdzīvnieks majdzivnieks
+🦒	dzīvnieks dzivnieks plankumi žirafe zirafe
+🌾	augs graudaugs rīsa risa rīsi risi
+📎	papīra papira saspraude
+🐎	dzīvnieks dzivnieks hipodroms sacīkstes sacikstes skriešana skriesana zirgs
+🪉	arfa instruments kupidons mīlestība milestiba mūzika muzika orķestris orkestris
+🎊	ballīte ballite konfeti bumbiņa bumbina plaukšķene plaukskene svētki svetki
+⏬	lejup poga ātri atri
+🧳	bagāža bagaza ceļojums celojums koferis uz ritenīšiem ritenisiem pakošanās pakosanas
+🪱	dzīvnieks dzivnieks parazīts parazits posmtārps posmtarps slieka tārps tarps
+🍸	bārs bars dzēriens dzeriens dzert glāze glaze kokteiļa kokteila kokteilis martini
+🏫	ēka eka māja maja skola
+🧑‍🦯	akls persona ar balto spieķi spieki pieejamība pieejamiba
+🫔	ēdiens ediens meksikāņu meksikanu pārtika partika satīts satits tamale uzkoda vraps
+🥦	augs brokoļi brokoli dārza darza kāposts kaposts dārzenis darzenis ēdiens ediens pārtika partika
+💂	bekingemas pils londona sargs seja
+🧴	losjona pudele losjons mitrinātājs mitrinatajs šampūns sampuns sauļošanās saulosanas krēms krems
+🚙	apvidus auto automašīna automasina kemperis mašīna masina transports
+🫃	apaļš apals pārēdies paredies pilns stāvoklī stavokli vēders veders vīrietis virietis
+🔽	lejup poga
+🍱	bento kastīte kastite pusdienu
+🏈	amerikāņu amerikanu futbola bumba futbols sports superkauss
+🪻	hiacinte lauvmutīte lauvmutite lavanda lupīna lupina zieds zilie zvaniņi zvanini
+😧	aizmirst pārsteigt parsteigt sāpes sapes sāpināt sapinat sāpjpilna sapjpilna seja stress
+🤔	domāt domat domīga domiga seja pārdomas pardomas
+👩‍🍼	auklīte auklite barošana barosana cilvēks cilveks mamma mazulis persona sieviete baro bērnu bernu zīdīšana zidisana
+🛝	atrakciju parks rotaļāties rotalaties rotaļu rotalu laukuma slidkalniņš slidkalnins laukums spēlēt spelet spēlēties speleties
+👷	būvniecība buvnieciba celtnieks cilvēks cilveks darbs ķivere kivere profesija seja
+🪒	ass bārdas bardas nazis skūt skut skuveklis
+🕔	00 5 5:00 laiks pieci pulksten pulkstenis
+🪬	aizsardzība aizsardziba amulets fatima hamsa marija mirjama roka
+🧻	papīra papira dvieļi dvieli rullis tualetes papīrs papirs
+🕜	1 1:30 30 pulksten pusdivi pulkstenis
+🆕	jauns new poga uzraksts kvadrātveida kvadratveida ietvarā ietvara
+🏆	balva kauss trofeja uzvara
+🐗	dzīvnieks dzivnieks galva mežacūka mezacuka troņu tronu spēles speles
+📊	dati diagramma grafiks josla joslu
+🤒	seja ar termometru slims termometrs
+🫢	ak vai apkaunot bijība bijiba izbrīns izbrins neticība neticiba nobijies pārsteigums parsteigums seja ar atvērtām atvertam acīm acim un roku pār par muti šoks soks
+🖕	delna ķermenis kermenis pirksts rādīt radit roka vidējais videjais
+💹	augšup augsup augšupejoša augsupejosa diagrammas līkne likne ar jenas simbolu diagramma jena tirgus
+🟤	aplis brūns bruns
+👅	ķermenis kermenis laizīt laizit mēle mele mute seja
+🪧	demonstrācija demonstracija pikets plakāts plakats plāksne plaksne protests zīme zime
+🧹	ragana slaucīšana slaucisana slota tīrīšana tirisana
+🐩	dzīvnieks dzivnieks mājdzīvnieks majdzivnieks pūdelis pudelis suns
+🔥	degt liesma uguns
+💙	mīlestība milestiba sirds zila zils
+🤳	kamera pašfoto pasfoto selfijs tālrunis talrunis
+👞	apavi apģērbs apgerbs kurpes vīriešu viriesu kurpe
+👥	cilvēki cilveki divu krūšutēlu krusutelu silueti draugi krūšutēls krusutels siluets
+🤸	akrobātika akrobatika aktīvs aktivs cilvēks cilveks prieks ritenītis ritenitis sports vingrošana vingrosana
+😓	auksts galvassāpes galvassapes nervozs seja ar aukstu sviedru lāsi lasi sviedri
+🐮	dzīvnieks dzivnieks galva govs piens saimniecība saimnieciba
+♋	horoskops ūdens udens vēzis vezis zodiaka zīme zime zodiaks
+👨‍🌾	cilvēks cilveks darbs dārzenieks darzenieks lauksaimnieks profesija vīrietis virietis
+🤚	pacelta plauksta roka
+🌊	daba jūra jura okeāns okeans ūdens udens vilnis
+🪦	bēres beres kapa piemineklis kapakmens kapi kaps kapsēta kapseta piemiņa piemina
+🚻	tualete wc
+👨‍🏫	darbs pasniedzējs pasniedzejs profesija profesors skolotājs skolotajs vīrietis virietis
+🔌	elektrība elektriba kontaktdakša kontaktdaksa spraudnis
+🔤	abc alfabēts alfabets burti ievade latīņu latinu
+👄	buča buca ķermenis kermenis lūpas lupas mute skūpsts skupsts
+🙄	acis bolīties bolities neapmierināts neapmierinats pārgriezt pargriezt pārgrieztas pargrieztas seja ar pārgrieztām pargrieztam acīm acim
+🌐	globuss ar meridiāniem meridianiem meridiāni meridiani
+🐻	dzīvnieks dzivnieks galva lācis lacis seja
+👚	apģērbs apgerbs apkakle blūze bluze krekls sieviešu sieviesu drēbes drebes
+🔋	akumulators baterija
+🕛	00 12 12:00 laiks pulksten divpadsmit pulkstenis pusdiena pusnakts
+💁	baumas cilvēks cilveks informācija informacija palīdzība palidziba pastiept persona ar pastieptu roku roka sarkasms vienalga žests zests
+🧮	skaitīkļi skaitikli skaitīšana skaitisana
+🧪	eksperiments ķīmija kimija ķīmiķis kimikis laboratorija mēģene megene zinātne zinatne
+🏒	hokejs uz ledus nūja nuja ripa spēle spele sports
+😀	priecīgs priecigs prieks seja smaidīgs smaidigs smaids smejas smiekli
+🎭	māksla maksla maska priekšnesums prieksnesums šekspīrs sekspirs skatuves teātris teatris
+🐑	aita auns dzīvnieks dzivnieks mājlops majlops vilna
+🧇	brokastis panna pusgatavas vafele
+🍲	bļoda bloda ēdiena ediena bļodiņa blodina ēdiens ediens pārtika partika sautējums sautejums
+🚁	ceļot celot helikopters lidot transportlīdzeklis transportlidzeklis transports
+🧓	bezdzimuma cilvēks cilveks dzimumneitrāls dzimumneitrals pieaugušais pieaugusais vecāks vecaks vecs
+🫴	aicināt aicinat nāc nac pacelt pastāsti pastasti man piedāvājums piedavajums plaukstu uz augšu augsu
+⛳	bedrīte bedrite golfs karodziņš karodzins bedrītē
+🥖	bagete ēdiens ediens franču francu maize pārtika partika
+🍛	ēdiens ediens karijs pārtika partika rīsi risi rīsu risu
+🥜	dārzenis darzenis ēdiens ediens pārtika partika rieksti zemesrieksti
+🍈	auglis augs melone
+🤥	meli melis melojoša melojosa seja pinokio
+🤿	elpošanas elposanas aparāts aparats niršana nirsana niršanas nirsanas maska snorkelēšana snorkelesana
+😎	saulesbrilles seja smaidoša smaidosa ar saulesbrillēm saulesbrillem smaids stilīgs stiligs
+💑	mīlestība milestiba pāris paris ar sirdi romantika sirds
+🚖	automašīna automasina mašīna masina pretī preti braucošs braucoss taksometrs transports
+🙏	lūgšanā lugsana saliktas rokas lūgt lugt lūgties lugties pateicība pateiciba žests zests
+🦔	adatains ezis
+😬	grimase neveiklums saviebta seja zobārsts zobarsts
+🏠	ēka eka māja maja privātmāja privatmaja
+🗻	daba fudzi kalns
+🐕	dzīvnieks dzivnieks lolojumdzīvnieks lolojumdzivnieks mājdzīvnieks majdzivnieks suns
+🐥	cālis calis no priekšpuses priekspuses dzīvnieks dzivnieks putns
+🦏	degunradzis dzīvnieks dzivnieks
+🧤	aksesuārs aksesuars apģērbs apgerbs cimdi roka
+😹	asaras kaķis kakis ar prieka asarām asaram prieks seja
+🥴	apreibis iedzēris iedzeris noreibis noreibusi seja piedzēries piedzeries šķībām skibam acīm acim šķību skibu muti
+➰	cilpa cilpiņa cilpina sproga
+🚄	ātrums atrums ātrvilciens atrvilciens dzelzceļš dzelzcels transports vilciens
+🐔	cālis calis dzīvnieks dzivnieks putns vista
+🤼	cīkstēties ciksteties cīkstoņi cikstoni cīkstonis cikstonis cilvēks cilveks cīņa cina rings sports
+🍚	ēdiens ediens pārtika partika rīsi risi vārīti variti vārīts varits
+🏯	ēka eka japāņu japanu māja maja pils
+🩲	apakšveļa apaksvela apģērbs apgerbs peldbikses peldēšanās peldesanas tērps terps peldkostīms peldkostims viengabala
+🦺	ārkārtas arkartas drošība drosiba drošības drosibas veste
+🔹	ģeometrija geometrija mazs zils rombs
+🔊	skaļrunis skalrunis skaļš skals skaļums skalums skaņa skana
+🫝	garšviela garsviela gurķis gurkis gurķītis gurkitis nepatikšanas nepatiksanas piedeva raudzēt raudzet sālījums salijums
+🧑‍🔬	biologs fiziķis fizikis inženieris inzenieris ķīmiķis kimikis vīrietis virietis zinātnieks zinatnieks
+🕺	cilvēks cilveks deja flamenko tango vīrietis virietis dejo
+🧙	burvestība burvestiba burvis fantāzija fantazija maģija magija mags ragana
+🥄	ēst est galda piederumi karote
+🦃	dzīvnieks dzivnieks pateicības pateicibas diena putns tītars titars
+🤵	cilvēks cilveks līgavainis ligavainis persona smokingā smokinga smokings vīrietis virietis
+💈	bārddzinis barddzinis friziera izkārtne izkartne frizieris
+🌏	austrālija australija āzija azija globuss ar āziju aziju un austrāliju australiju pasaule zemeslode
+🎿	slēpes slepes sniegs sports
+👩‍🔬	bioloģe biologe cilvēks cilveks darbs fiziķe fizike inženiere inzeniere ķīmiķe kimike matemātiķe matematike profesija sieviete zinātniece zinatniece
+👨‍🏭	cilvēks cilveks darbs fabrikas strādnieks stradnieks profesija ražošana razosana rūpnīca rupnica vīrietis virietis
+🫛	dārzenis darzenis edamame pākšaugi paksaugi pāksts paksts pupas zirnis zirņu zirnu
+🔃	atzvaidzināt atzvaidzinat bultiņa bultina pārlādēt parladet poga pulksteņrādītāja pulkstenraditaja virzienā virziena vērstas verstas vertikālas vertikalas bultiņas bultinas
+🚡	gaisa tramvajs gondola kalns transports trose
+🐧	antarktika dzīvnieks dzivnieks pingvīns pingvins putns
+🚼	pārtīt partit zīdaiņa zidaina simbols zīdainis zidainis
+💃	cilvēks cilveks deja dejotāja dejotaja sieviete dejo uzdejojam
+👨‍🎓	absolvents students vīrietis virietis
+🌍	āfrika afrika eiropa globuss ar eiropu un āfriku afriku pasaule zemeslode
+🏴	karogs melns plīvot plivot
+🔵	aplis ģeometrija geometrija zils
+📡	antena satelīta satelita šķīvis skivis satelīts satelits
+📝	piezīme piezime saziņa sazina zīmulis zimulis
+🐯	dzīvnieks dzivnieks galva plēsējs plesejs tīģera tigera tīģeris tigeris
+👦	cilvēks cilveks jauns puika seja zēns zens
+📤	dokuments izejošie izejosie izejošo izejoso dokumentu paliktnis kaste pasts sūtīt sutit
+🥃	dzēriens dzeriens glāze glaze liķieris likieris pārtika partika šots sots viskija viskijs
+🐢	bruņurupucis brunurupucis dzīvnieks dzivnieks
+🎁	dāvana davana iesaiņot iesainot iesaiņota iesainota lente
+👺	briesmonis fantāzija fantazija goblins monstrs pasaka radījums radijums seja
+🧑‍🚀	astronauts raķete rakete vīrietis virietis
+👬	dvīņi dvini pāris paris rokas sadot sieviete vīrieši viriesi sadevušies sadevusies rokās vīrietis virietis zodiaks
+♓	horoskops zivis zodiaka zīme zime zodiaks
+🐪	dzīvnieks dzivnieks kamielis kupris tuksnesis vienkupra
+🦗	circenis dzīvnieks dzivnieks insekts kukainis sienāzis sienazis
+🛑	astoņstūris astonsturis zīme zime stop stopzīme stopzime
+🪽	aviācija aviacija eņģelisks engelisks lidojošs lidojoss mitoloģija mitologija putns spārns sparns
+🚰	dzeramais ūdens udens dzert
+🥗	ēdiens ediens pārtika partika salāti salati zaļi zali zaļie zalie
+🍃	augs lapa plīvot plivot pūst pust vējā veja plīvojoša plivojosa vējš vejs
+🥚	ēdiens ediens ola pārtika partika
+🌯	burito ēdiens ediens meksikāņu meksikanu pārtika partika
+🚹	tualete vīriešu viriesu wc
+🐦‍🔥	atdzimšana atdzimsana dzīvnieks dzivnieks fantastika fantāzija fantazija fēnikss fenikss pasaka reinkarnācija reinkarnacija ugunsputns
+🦝	dzīvnieks dzivnieks jenots viltīgs viltigs ziņkārīgs zinkarigs
+🔙	atpakaļ atpakal bultiņa bultina ar uzrakstu back
+🚎	autobuss tramvajs transportlīdzeklis transportlidzeklis transports trolejbuss
+⏩	pa labi paātrināt paatrinat pārtīt partit poga uz priekšu prieksu
+👻	briesmonis fantāzija fantazija monstrs pasaka radījums radijums seja smieklīgs smiekligs spoks
+📼	kasete vhs videokasete
+🎇	brīnumsvecīte brinumsvecite mirdzēt mirdzet salūts saluts
+📔	bloknots ar dekoratīvu dekorativu vāku vaku dekoratīvs dekorativs grāmata gramata izglītība izglitiba piezīmes piezimes vāks vaks
+🕒	00 3 3:00 laiks pulksten trīs tris pulkstenis
+🥾	apavi brūni bruni kempings mugursoma pārgājiens pargajiens pārgājienu pargajienu zābaks zabaks
+🍼	bērna berna pudelīte pudelite bērns berns dzert piens pudele zīdainis zidainis
+📧	aploksne e-pasts pasts vēstule vestule
+🎫	biļete bilete ieeja pasaknis
+💶	100 banknote eiro nauda valūta valuta
+🌁	laikapstākļi laikapstakli laiks migla miglains
+🥛	dzēriens dzeriens dzert glāze glaze pārtika partika piena piens
+🤱	barošana barosana ar krūti kruti krūts kruts mazulis zīdīšana zidisana
+🦕	brahiozaurs brontozaurs dinozaurs diplodoks zauropods
+📣	megafons ovācijas ovacijas skaņa skana
+🦧	dzīvnieks dzivnieks mērkaķis merkakis orangutans pērtiķis pertikis
+📫	aizvērta aizverta pastkaste ar paceltu karodziņu karodzinu pasts saziņa sazina
+🌿	augs lapa
+🦈	dzīvnieks dzivnieks haizivs zivs
+🥽	acu aizsardzība aizsardziba aizsargbrilles metināšana metinasana peldēšana peldesana ūdenslīdējs udenslidejs
+🚧	barjera celtniecība celtnieciba konstrukcija remontdarbi remonts
+😼	dzīvnieks dzivnieks ironisks kaķis kakis ar viltīgu viltigu smaidu sājš sajs seja smaids viltīgs viltigs
+🐝	bite dzīvnieks dzivnieks insekts kamene kukainis
+🧑‍🎨	mākslinieks makslinieks palete vīrietis virietis
+🪚	darbarīks darbariks galdnieks kokmateriāli kokmateriali vienrokas zāģis zagis zāģēt zaget
+🧌	briesmonis fantāzija fantazija pasaka trollis
+🪜	kāpnes kapnes kāpt kapt līdztekas lidztekas pakāpiens pakapiens šķērskoks skerskoks
+🍢	ēdiens ediens uz irbulīšiem irbulisiem iesmiņš iesmins irbulīši irbulisi kebabs
+🎬	filma gatavība gataviba klapīte klapite sākam sakam
+🤝	līgums ligums roka rokasspiediens sarokoties tikšanās tiksanas
+🛄	bagāža bagaza bagāžas bagazas saņemšana sanemsana ceļojums celojums lidosta
+💍	dārgakmens dargakmens dimants gredzens kāzas kazas romantika saderināšanās saderinasanas
+✅	✓ atzīme atzime balta kontrolzīme kontrolzime ķeksītis keksitis
+💡	elektrība elektriba gaisma ideja komikss spuldze
+🤠	cepure cilvēks cilveks kovbojs persona seja ar kovboja cepuri cepurē
+🔆	gaisma palielināt palielinat spilgtumu spilgtums
+🩷	jauka mīlestība milestiba patīk patik rozā roza sirds
+🧥	auksts aukstums ietīties ietities jaka mētelis metelis
+🚥	horizontāls horizontals luksofors signāls signals
+🏀	basketbola bumba basketbols sports
+🚃	dzelzceļa dzelzcela vagons dzelzceļš dzelzcels tramvajs transports trolejbuss vilciens
+🥍	bumba lakross mērķis merkis nūja nuja sports
+🏓	bumbiņa bumbina galda teniss pingpongs rakete sports
+🫚	alus dabīgs dabigs garšviela garsviela ingvera sakne ingveralus ingvers
+🪨	akmens ciets iezis klints smags
+🎐	svētki svetki vēja veja zvans vējš vejs
+🥤	bezalkoholisks dzēriens dzeriens ar salmiņu salminu gāzēts gazets limonāda limonada limonāde limonade sula
+🙍	aizkaitinājums aizkaitinajums bēdīgs bedigs iztraucēts iztraucets norūpējies norupejies cilvēks cilveks vilšanās vilsanas žests zests
+🩶	pelēka peleka sirds pelēks peleks šīferis siferis sudrabs
+🪏	caurums lāpsta lapsta liekšķere liekskere rakt
+🔅	samazināt samazinat spilgtumu spilgtums
+🦀	krabis vēzis vezis zodiaks
+🍌	auglis augs banāns banans kālijs kalijs
+👨‍🔧	cilvēks cilveks darbs elektriķis elektrikis mehāniķis mehanikis profesija santehniķis santehnikis vīrietis virietis
+🔯	jūdaisms judaisms laime sešstaru sesstaru zvaigzne ar punktu vidū vidu
+🧑‍🏭	montāža montaza nozare rūpnīca rupnica rūpnīcas rupnicas strādnieks stradnieks
+🎑	ceremonija japāņu japanu mēness meness vērošanas verosanas svētki svetki
+🏩	ēka eka māja maja mīlas milas viesnīca viesnica
+🏐	bumba sports volejbola volejbols
+📬	atvērta atverta pastkaste ar paceltu karodziņu karodzinu pasts
+📐	leņķis lenkis lineāls lineals matemātika matematika trīsstūra trisstura trīsstūris trissturis
+🪟	atvērums atverums caurspīdīgs caurspidigs logs rāmis ramis skats svaigs gaiss
+👨‍🔬	biologs darbs fiziķis fizikis inženieris inzenieris ķīmiķis kimikis matemātiķis matematikis profesija vīrietis virietis zinātnieks zinatnieks
+🍆	augs baklažāns baklazans dārzenis darzenis ēdiens ediens pārtika partika
+🪤	ēsma esma lamatas peļu pelu slazds
+👩	blondīne blondine cilvēks cilveks dāma dama kundze seja sieviete
+🐭	dzīvnieks dzivnieks galva pele peles
+🍻	alus bārs bars dzēriens dzeriens dzert kauss saskandināti saskandinati kausi
+🧝	elfs fantāzija fantazija maģisks magisks pasaka
+😙	seja ar smaidošām smaidosam acīm acim sniedz skūpstu skupstu skūpsts skupsts smaids
+🐘	dzīvnieks dzivnieks zilonis
+❕	balta izsaukuma zīme zime izsaukums pieturzīme pieturzime
+🤧	gripa saaukstējies saaukstejies seja šķauda skauda slims
+🦤	dodo dzīvnieks dzivnieks izmiršana izmirsana liels maurīcija mauricija putns
+➕	+ matemātika matematika plus pluszīme pluszime saskaitīt saskaitit
+🈴	ideogramma sekmīgi sekmigi kvadrātveida kvadratveida ietvarā ietvara japāņu japanu ķīniešu kiniesu nolikts
+🥺	kucēna kucena acis lūdzoša ludzosa seja lūgšanās lugsanas žēlastība zelastiba
+🧱	kaļķu kalku java ķieģeļi kiegeli ķieģelis kiegelis māls mals siena
+🟧	kvadrāts kvadrats oranžs oranzs
+🛒	iepirkšanās iepirksanas iepirkumu ratiņi ratini veikals
+🥯	beigelis ēdiens ediens maize maiznīca maiznica smērējams smerejams
+💯	100 noteikti piekrītu piekritu simt punktu simts
+🎢	amerikāņu amerikanu kalniņi kalnini atrakciju parks karuselis
+🆖	ng poga uzraksts kvadrātveida kvadratveida ietvarā ietvara
+🌱	asns augs dēsts dests jauns stāds stads
+👍	+1 apstiprinājums apstiprinajums augšup augsup augšupvērsts augsupversts īkšķis ikskis ķermenis kermenis ok patīk patik roka
+🙁	bēdas bedas bēdīgs bedigs nedaudz bēdīga bediga seja smaidiņš smaidins
+🐠	dzīvnieks dzivnieks tropi tropu zivs
+🎀	lente pušķis puskis pušķītis puskitis svētki svetki
+🏦	banka ēka eka māja maja nauda
+🔴	aplis ģeometrija geometrija sarkans
+🟰	matemātika matematika smagā smaga vienādības vienadibas zīme zime vienāds vienads ar vienlīdzība vienlidziba
+🛕	hinduistu templis
+🚚	automašīna automasina krava kravas mašīna masina piegāde piegade transports
+🌻	augs daba saule saulespuķe saulespuke zieds
+🤎	brūna bruna mīlu milu sirds
+🐷	bekons cūka cuka cūkas cukas galva dzīvnieks dzivnieks ruksis saimniecība saimnieciba sivēns sivens
+💣	bīstams bistams bumba sprādziens spradziens sprāgt spragt spridzeklis spridzināt spridzinat
+🚠	gondola kalns kalnu trošu trosu ceļš cels vilciens transports trose
+🟨	dzeltens kvadrāts kvadrats
+🕤	30 9 9:30 laiks pulksten pusdesmit pulkstenis
+✋	ķermenis kermenis pacelta roka plauksta
+🤛	dūre dure pa kreisi
+🈸	ideogramma pieprasīt pieprasit kvadrātveida kvadratveida ietvarā ietvara japāņu japanu ķīniešu kiniesu pieprasījums pieprasijums
+🌺	augs hibisks zieds
+🧁	deserts gardums kēksiņš keksins maiznīca maiznica salds
+✊	dūre dure ķermenis kermenis pacelta roka sist
+👭	pāris paris rokas sadot sieviete sievietes sadevušās sadevusas rokās
+🌂	aizvērts aizverts lietus lietussargs
+🍺	alus bārs bars dzēriens dzeriens dzert kauss
+🌉	nakts tilts naktī nakti
+🍞	ēdiens ediens graudi grauzdiņš grauzdins kukulis maize
+🌚	jauna mēness meness seja kosmoss visums
+🛟	drošība drosiba dzīvības dzivibas glābējs glabejs glābšana glabsana glābšanas glabsanas riņķis rinkis gredzenu boja izglābt izglabt pludiņš pludins
+😗	buča buca flirts seja sniedz skūpstu skupstu skūpsts skupsts
+🧑‍🚒	ugunsdzēsēja ugunsdzeseja ugunsdzēsējs ugunsdzesejs vīrietis virietis
+👩‍💻	darbs izstrādātāja izstradataja profesija programmatūra programmatura programmētāja programmetaja sieviete tehniķe tehnike
+🪐	gredzenota planēta planeta mīnijs minijs saturns
+🦴	kauls skelets suns
+💽	dators disks minidisks optiskais
+🕌	ēka eka islams lūgties lugties māja maja mošeja moseja musulmaņi musulmani reliģija religija
+🧑‍🍳	pavārs pavars šefpavārs sefpavars vīrietis virietis
+🥣	auzu pārslu parslu putra bļoda bloda ar karoti brokastis brokastu pārslas parslas ēdiens ediens graudaugi pārtika partika rīsu risu sausās sausas
+👩‍🍳	cilvēks cilveks darbs pavāre pavare profesija šefpavāre sefpavare sieviete
+🚝	dzelzceļš dzelzcels transports viensliedes vilciens
+🔗	ķēde kede ķēdes kedes posms
+🔶	ģeometrija geometrija liels oranžs oranzs rombs
+♏	horoskops skorpions zodiaka zīme zime zodiaks
+🥘	ēdiens ediens paelja panna pārtika partika sautējums sautejums pannā
+👏	aplaudēt aplaudet aplausi apsveicu ķermenis kermenis roka
+🥒	dārzenis darzenis gurķis gurkis marinēts marinets pārtika partika skābēts skabets
+🎍	augs bambuss japāņu japanu priede priedes dekorācija dekoracija svētki svetki
+🎩	apģērbs apgerbs cepure cilindrs iluzionists linkolns maģija magija oficiāls oficials
+📹	kamera videokamera
+🫟	krāsa krasa krāsains krasains noplūde noplude šļakatām slakatam traipu
+🫡	cieņa ciena jā ja karavīri karaviri labi salutējoša salutejosa seja salutēšana salutesana salutēt salutet sapratu saulains vēlu velu veiksmi
+🔕	aizliegts bez skaņas skanas klusums pārsvītrots parsvitrots zvaniņš zvanins
+🤮	nelabums pretīgi pretigi seja slimība slimiba smaidiņš smaidins vēmekļi vemekli vemjoša vemjosa
+🥎	bumba cimds paduse softbols
+🆑	cl notīrīt notirit poga
+➿	cilpa dubulta
+🧵	adata pavediens spolīte spolite šūšana susana
+🦭	dzīvnieks dzivnieks jūras juras lauva okeāns okeans ronis
+📌	piespraude spraudīte spraudite
+🧭	kompass magnētisks magnetisks navigācija navigacija orientēšanās orientesanas virziens
+💘	bulta mīlestība milestiba romantika sirds ar bultu
+🏇	sacīkstes sacikstes sports zirgs zirgu skriešanās skriesanas žokejs zokejs
+😶	kluss mēms mems mute noslēpums noslepums seja bez mutes
+🍦	deserts ēdiens ediens krēms krems mīksts miksts pārtika partika saldējums saldejums vafeļu vafelu glāzītē glazite salds
+😘	buča buca mīlestība milestiba seja sirds skūpstoša skupstosa skūpsts skupsts
+🦓	svītra svitra svītrains svitrains zebra
+🥋	cīņa cina cīņas cinas māksla maksla cīņu cinu sporta tērps terps džudo dzudo karatē karate kimono sports taekvondo
+😄	atvērts atverts mute seja smaidoša smaidosa ar atvērtu atvertu muti un smaidošām smaidosam acīm acim smaids smejas
+🔝	augšup augsup bultiņa bultina ar uzrakstu top
+🧋	burbulis burbuļtēja burbulteja pērle perle piens tēja teja
+🧸	lāčuks lacuks manta pildīts pildits plīšs pliss rotaļlieta rotallieta
+📪	aizvērta aizverta pastkaste ar nolaistu karodziņu karodzinu pasts
+🛗	lifts pacēlājs pacelajs pieejamība pieejamiba
+🕦	11 11:30 30 laiks pulksten pusdivpadsmit pulkstenis
+🚛	automašīna automasina krava mašīna masina pārvākšanās parvaksanas smagā smaga transportlīdzeklis transportlidzeklis transports
+😔	domās domas iegrimusi seja domīgs domigs pārdomas pardomas skumjš skumjs
+👩‍🎨	cilvēks cilveks darbs māksliniece maksliniece palete profesija sieviete
+🧑‍🎓	absolvents izlaidums students
+🐫	divkupru kamielis dzīvnieks dzivnieks kupris tuksnesis
+🥰	aizrāvies aizravies dievināt dievinat iemīlējies iemilejies seja sirdis smaidoša smaidosa ar sirsniņām sirsninam
+🌀	ciklons laikapstākļi laikapstakli laiks taifūns taifuns virpulis
+🚽	pods tualete tualetes
+👩‍🌾	cilvēks cilveks darbs dārzeniece darzeniece lauksaimniece profesija sieviete
+🦹	krimināls kriminals ļaunums launums nelietis noziedznieks superļaunais superlaunais superspēks superspeks
+🐣	cālis calis šķiļas skilas dzīvnieks dzivnieks ola putns šķilties skilties
+📁	dokuments dokumentu mape
+🦍	dzīvnieks dzivnieks gorilla
+🎆	izklaide raķete rakete salūts saluts svētki svetki svinības svinibas
+👋	atā ata ķermenis kermenis mājoša majosa roka māt mat sveiciens sveiki
+🏸	badmintons rakete volāns volans
+❌	× atcelt krustiņš krustins reizināt reizinat x
+💕	divas sirdis emocijas mīlestība milestiba sirds
+📻	izklaide radio video
+👎	-1 īkšķis ikskis ķermenis kermenis lejup lejupvērsts lejupversts nepatīk nepatik roka
+🪹	ligzda ligzdošana ligzdosana mājas majas tukša tuksa
+👩‍🦽	cilvēks cilveks pieejamība pieejamiba ratiņkrēsls ratinkresls sieviete manuālā manuala ratiņkrēslā ratinkresla
+🧉	dzēriens dzeriens mate tēja teja
+🦾	mehāniska mehaniska roka pieejamība pieejamiba protēzes protezes
+🎧	austiņas austinas ieauši ieausi skaņa skana
+🍤	cepta garnele cepts ēdiens ediens pārtika partika
+🧖	atpūta atputa cilvēks cilveks tvaika telpā telpa pirts sauna
+💥	bums sadursme sprādziens spradziens troksnis
+🥲	aizkustināts aizkustinats asara atvieglots lepns pateicīgs pateicigs smaidoša smaidosa seja ar asaru smaidošs smaidoss
+🚬	aizdegta cigarete smēķēt smeket
+🎷	instruments mūzika muzika saksofons
+🪥	higiēna higiena suka tīrs tirs vannasistaba zobi zobu
+🟣	aplis lillā lilla violets
+🦟	drudzis insekts malārija malarija ods slimība slimiba vīruss viruss
+🟪	kvadrāts kvadrats lillā lilla violets
+🤢	nelabums pretīgi pretigi seja slimība slimiba
+🔇	bez skaņas skanas izslēgts izslegts kluss klusums skaļrunis skalrunis skaļums skalums
+📉	diagramma lejup lejupejoša lejupejosa diagrammas līkne likne regress
+🟩	kvadrāts kvadrats zaļš zals
+🫒	ēdiens ediens olīva oliva olīvzars olivzars
+👿	dēmons demons dusmīgs dusmigs ragi seja velniņš velnins velns
+🌌	debesis kosmoss piena ceļš cels visums
+🌆	ainava ēka eka krēsla kresla māja maja panorāma panorama pilsēta pilseta pilsētas pilsetas krēslā
+🚞	dzelzceļš dzelzcels kalni kalnu transportlīdzeklis transportlidzeklis transports vagons vilciens
+🔏	konfidencialitāte konfidencialitate privāti privati rakstāmspalva rakstamspalva slēdzene sledzene ar rakstāmspalvu rakstamspalvu slepeni
+🦇	dzīvnieks dzivnieks sikspārnis siksparnis vampīrs vampirs
+🚢	kuģis kugis titāniks titaniks transports ūdens udens
+🔦	elektrība elektriba gaisma kabatas lukturītis lukturitis
+🕎	hanuka jūdaisms judaisms menora reliģija religija svečturis svecturis
+🪌	atsaukt berzēt berzet dzēst dzest dzēsumi dzesumi kļūda kluda kļūme klume labojums noņemt nonemt rakstīšana rakstisana zīmēšana zimesana
+🫣	blenzt kautrīgs kautrigs nokaunējies nokaunejies palūrēt paluret paslēpies paslepies seja ar lūrošu lurosu aci valdzināts valdzinats
+🫗	dzēriens dzeriens glāze glaze ielejot šķidrumu skidrumu izliet noplūde noplude stikls tukšs tukss
+📯	pastnieka taure pastnieks pasts
+🦘	austrālija australija ķengura kengura mazulis ķengurs kengurs lēciens leciens somainis
+💼	birojs portfelis soma
+🍜	bļoda bloda ēdiens ediens irbulīši irbulisi karsts kūpoša kuposa bļodiņa blodina nūdeles nudeles pārtika partika
+🐌	dārzs darzs dzīvnieks dzivnieks gliemezis gliemis vīngliemezis vingliemezis
+♐	horoskops strēlnieks strelnieks zodiaka zīme zime zodiaks
+🍋‍🟩	auglis citruss laims mohito skābs skabs tekila tropisks
+🪺	ligzda ar olām olam ligzdošana ligzdosana putns
+💫	apdullis krītoša kritosa zvaigzne
+💱	banka maiņa maina nauda valūta valuta valūtas valutas
+⬜	balts ģeometrija geometrija kvadrāts kvadrats liels
+🛫	aizlidot izlidošana izlidosana lidmašīna lidmasina lidmašīnas lidmasinas pacelšanās pacelsanas pacelties transports
+🌸	augs ķirši kirsi ķiršu kirsu zieds pavasaris
+📗	bibliotēka biblioteka grāmata gramata izglītība izglitiba zaļa zala
+👲	cepure cilvēks cilveks seja vīrietis virietis ar ķīniešu kiniesu cepuri
+😃	atvērts atverts mute plats smaids un lielas acis seja smaidīgs smaidigs super
+💗	augoša augosa sirds emocijas sirdspuksti uztraukums
+🪅	ballīte ballite meksikāņu meksikanu pinjata saldumi svinības svinibas
+🔬	eksperiments laboratorija mikroskops rīks riks zinātne zinatne
+🎮	konsole playstation spēle spele videospēle videospele xbox
+🦁	galva lauva seja zodiaks
+🕣	30 8 8:30 laiks pulksten pusdeviņi pusdevini pulkstenis
+🫘	nieres pākšaugi paksaugi pārtika partika pupiņas pupinas
+🔻	ģeometrija geometrija lejupvērsts lejupversts sarkans trīsstūris trissturis
+🪊	džezs dzezs instruments mūzika muzika pāreja pareja pūšamais pusamais skumjas
+🫠	izkausēt izkauset izkust izšķīst izskist kūstoša kustosa seja pazūd pazud sarkasms šķidrums skidrums
+🏅	medaļa medala sporta sports uzvarētājs uzvaretajs zelts
+🧄	garšaugs garsaugs garšviela garsviela ķiploks kiploks
+🛴	skrejritenis skuteris divritenis
+🪛	darbarīks darbariks skrūvēt skruvet skrūvgriezis skruvgriezis
+😤	dusmas seja ar tvaiku no deguna tvaiks
+🐁	dzīvnieks dzivnieks pele
+🫙	burka garšviela garsviela konteiners mērce merce tukšs tukss tvertne veikalā veikala
+🦉	dzīvnieks dzivnieks gudrs pūce puce putns vieds
+🧑‍🦽	persona manuālajā manualaja ratiņkrēslā ratinkresla pieejamība pieejamiba ratiņkrēsls ratinkresls
+🔨	āmurs amurs darbarīks darbariks remonts
+🕘	00 9 9:00 deviņi devini laiks pulksten pulkstenis
+😵	apreibis apreibusi seja beigts nelabums reibonis
+💩	briesmonis čupa cupa ekskrementi kakas mēslu meslu smieklīgs smiekligs smirdīgs smirdigs
+🤬	dusmīgs dusmigs lamāšanās lamasanas nikns seja ar simboliem uz mutes smaidiņš smaidins
+🔭	astronomija rīks riks teleskops zinātne zinatne
+🎦	filma kamera kino
+🦩	dzīvnieks dzivnieks flamingo putns spilgts tropisks
+🥑	auglis avokado ēdiens ediens pārtika partika
+👝	apģērbs apgerbs kosmētikas kosmetikas maciņš macins maisiņš maisins soma somiņa somina
+🔞	18 aizliegts astoņpadsmit astonpadsmit nē ne nedrīkst nedrikst nepilngadīgs nepilngadigs tikai no gadu vecuma
+🥩	cūkgaļas cukgalas karbonāde karbonade gaļas galas gabals jēra jera pārtika partika sarkanā sarkana gaļa gala steiks
+🌔	augošs augoss izliekts kosmoss mēness meness
+🌛	augoša augosa mēness meness sirpja seja augošs augoss sirpis
+😰	atvērts atverts auksts mute nervozs seja ar atvērtu atvertu muti un aukstiem sviedriem sviedri zils
+🧑‍🤝‍🧑	cilvēki cilveki sadevušies sadevusies rokās rokas pāris paris persona roka sadotas satvēriens satveriens
+🍫	deserts pārtika partika salds šokolāde sokolade šokolādes sokolades tāfelīte tafelite
+🥹	dusmīgs dusmigs lepns lūdzošs ludzoss pretoties prieka asaras raudāt raudat seja ar aizturētām aizturetam asarām asaram skumji
+🔈	kluss mazs skaļruņa skalruna skaļums skalums skaļrunis skalrunis
+🍘	ēdiens ediens galete pārtika partika rīsi risi rīsu risu
+♍	horoskops jaunava zodiaka zīme zime zodiaks
+🫫	atklāt atklat drupšana drupsana maskēšana maskesana noturība noturiba pārveide parveide sabrukšana sabruksana spriedze
+🧚	fantāzija fantazija feja mīts mits oberons paks pasaka titānija titanija
+👉	delna ķermenis kermenis pa labi vērsts versts rādītājpirksts raditajpirksts pirksts rādīt radit roka
+🐽	cūka cuka dzīvnieks dzivnieks ruksis sivēns sivens šņukurs snukurs
+🕑	00 2 2:00 divi laiks pulksten pulkstenis
+💪	bicepss ķermenis kermenis muskulis saliekt
+🚈	dzelzceļš dzelzcels piepilsētas piepilsetas vilciens transports viensliedes
+🏊	cilvēks cilveks peldēšana peldesana peldēt peldet peldētājs peldetajs sportists sports ūdens udens
+❗	izsaukuma zīme zime izsaukums pieturzīme pieturzime sarkana
+🍎	ābols abols auglis augs pārtika partika sarkans
+👢	apavi garais zābaks zabaks iepirkšanās iepirksanas sieviešu sieviesu
+💌	mīlestība milestiba mīlestības milestibas vēstule vestule pasts romantika sirds
+🤯	eksplodējoša eksplodejosa galva nevar būt but seja smaidiņš smaidins šokēts sokets
+🫆	drošība drosiba identitāte identitate izmeklēšana izmeklesana pirksta nospiedums
+🍑	auglis augs pārtika partika persiks
+🚣	airēšana airesana cilvēks cilveks airē aire ezers laiva makšķerēšana makskeresana transports ūdens udens upe
+📿	kaklarota krelles lūgšana lugsana lūgšanu lugsanu reliģija religija
+🈁	japāņu japanu katakana šeit seit uzraksts katakanā kvadrātveida kvadratveida ietvarā ietvara
+🔎	lupa meklēšana meklesana pa labi vērsta versta palielināt palielinat rīks riks
+🩰	baleta kurpes balets deja puantes
+🫺	neitrāls neitrals norādīt noradit pa labi satvēriens satveriens šis sis tas
+🐲	briesmonis galva pasaka pūķa puka pūķis pukis
+🧀	siera šķēle skele siers
+👘	apģērbs apgerbs ērts erts kimono
+🪼	apdegt bezmugurkaulnieks dzelonis jūras juras iemītnieks iemitnieks medūza meduza sadzelt sāpīgi sapigi želeja zeleja
+🪢	mezgls mudžeklis mudzeklis siet striķis strikis virve
+🚔	automašīna automasina mašīna masina policija pretī preti braucoša braucosa policijas braucošs braucoss transports
+😝	acs garša garsa mēle mele negaršīgs negarsigs seja ar izbāztu izbaztu mēli meli un aizmiegtām aizmiegtam acīm acim
+🐐	dzīvnieks dzivnieks kaza mežāzis mezazis zodiaks
+⛄	auksts laikapstākļi laikapstakli laiks sniegavīrs sniegavirs bez sniega sniegs
+🔄	attīt attit bultiņa bultina pretēji preteji pulksteņrādītāja pulkstenraditaja virzienam vērstas verstas bultiņas bultinas vēlreiz velreiz
+📩	aploksne ar bultiņu bultinu bultiņa bultina e-pasts sūtīt sutit vēstule vestule
+😻	acis dzīvnieks dzivnieks kaķis kakis mīlestība milestiba seja sirds smaidošs smaidoss ar formas acīm acim smaids
+🎡	atrakciju parks karuselis panorāma panorama panorāmas panoramas rats
+🕝	2 2:30 30 laiks pulksten pustrīs pustris pulkstenis
+🕚	00 11 11:00 laiks pulksten vienpadsmit pulkstenis
+🕕	00 6 6:00 laiks pulksten seši sesi pulkstenis
+🎄	eglīte eglite koks svētki svetki ziemassvētki ziemassvetki ziemassvētku ziemassvetku
+💀	briesmonis galva galvaskauss nāve nave
+😇	eņģelis engelis nevainīgs nevainigs nimbs seja smaidoša smaidosa ar nimbu smaids svētais svetais
+🙀	ak dzīvnieks dzivnieks kaķis kakis noraizējies noraizejies pārsteigts parsteigts seja
+🧾	apstiprinājums apstiprinajums grāmatvedība gramatvediba kvīts kvits pierādījums pieradijums uzskaite
+🏮	bārs bars japāņu japanu laterna papīrs papirs sarkana papīra papira sarkans
+🩹	līpošs liposs plāksteris plaksteris
+♎	horoskops līdzsvars lidzsvars svari zodiaka zīme zime zodiaks
+🛞	aplis auto pagriezties riepa ritenis
+🍂	augs krist lapa nokritusi rudens
+👫	pāris paris rokas sadot sieviete un vīrietis virietis sadevušies sadevusies rokās
+🏺	amfora dzert trauks ūdensvīrs udensvirs zodiaks
+🤗	apskaut apskāviens apskaviens seja ar apskāvienu apskavienu
+🔩	remonts skrūve skruve un uzgrieznis tapa
+🍗	ēdiens ediens gaļa gala kāja kaja kauls pārtika partika putna putns
+😾	dzīvnieks dzivnieks kaķis kakis sabozies seja
+🫲	kreisā kreisa roka kreiso roku pa kreisi rokasspiediens sniegties turēt turet
+🥕	augs burkāns burkans dārzenis darzenis pārtika partika
+🍿	kino kukurūza kukuruza popkorns
+🦦	rotaļāties rotalaties spēlēties speleties ūdrs udrs zivju ķeršana kersana
+🍖	ēdiens ediens gaļa gala kauls ar gaļu galu pārtika partika
+😪	gulēt gulet miegaina seja miegs nogurums raudāt raudat
+📭	atvērta atverta pastkaste ar nolaistu karodziņu karodzinu pasts
+🎋	japāņu japanu karodziņš karodzins koks vēlēšanās velesanas vēlmju velmju
+🥪	maize sendvičs sendvics sviesmaize
+🚺	sieviešu sieviesu tualete wc
+🤟	emt mīlas milas žests zests roka
+⛪	baznīca baznica ēka eka kristieši kristiesi krusts lūgties lugties māja maja reliģija religija
+📋	dokuments dokumentu paliktnis saraksts
+🐦	dzīvnieks dzivnieks ornitoloģija ornitologija putns
+🎴	japāņu japanu kārtis kartis spēle spele ziedu
+🧑‍🩰	baleta dejotājs dejotajs
+👩‍🦯	akls neredzīgs neredzigs pieejamība pieejamiba sieviete ar balto atbalsta spieķi spieki
+🔀	bultiņa bultina jaukta secība seciba poga sakrustota
+🈚	bezmaksas ideogramma kvadrātveida kvadratveida ietvarā ietvara japāņu japanu
+📸	fotoaparāts fotoaparats fotokamera ar zibspuldzi kamera zibspuldze
+🫥	introverts neredzams nomākts nomakts paslēpies paslepies pazūd pazud punktētas punktetas līnijas linijas seja slēpt slept vienalga
+🫀	anatomisks cilvēka cilveka sirds kardioloģija kardiologija orgāns organs pulss sirdspuksti
+🦮	akls neredzīgs neredzigs pavadonis pieejamība pieejamiba suns
+🦬	bifelis bizons dzīvnieks dzivnieks ganāmpulks ganampulks sumbrs
+👴	gudrs seja vecs vectēvs vectevs vīrietis virietis
+💅	ķermenis kermenis kosmētika kosmetika laka manikīrs manikirs nagi nagu roka skaistumkopšana skaistumkopsana
+🐀	dzīvnieks dzivnieks žurka zurka
+🔛	bultiņa bultina ar uzrakstu on ieslēgts ieslegts
+🎸	ģitāra gitara instruments mūzika muzika
+🎼	mūzika muzika nošu nosu līnijas linijas notis
+😽	acis dzīvnieks dzivnieks kaķis kakis sniedz skūpstu skupstu seja skūpsts skupsts
+🪖	armija karavīrs karavirs ķivere kivere militārā militara zaldāts zaldats
+❎	atcelt krustiņa krustina poga krustiņš krustins reizināt reizinat rūtiņa rutina x
+🫰	dārgs dargs knipis mīlestība milestiba nauda roka ar rādītājpirkstu raditajpirkstu un īkšķi ikski sakrustota sirds
+🛻	mašīna masina pārvadāt parvadat piegāde piegade piegādes piegades auto pikaps transportlīdzeklis transportlidzeklis
+📍	apaļa apala spraudīte spraudite apaļš apals atrašanās atrasanas vieta karte
+😅	atvērts atverts auksts nervozs plats smaids ar sviedru lāsi lasi seja stress sviedri
+🏨	ēka eka māja maja viesnīca viesnica
+👐	apskāviens apskaviens atvērtas atvertas rokas ķermenis kermenis roka
+🗾	japāna japana japānas japanas karte
+🦊	dzīvnieks dzivnieks galva lapsa viltīgs viltigs
+😭	aizgūtnēm aizgutnem raudoša raudosa seja asaras bēdas bedas raudāt raudat skumjš skumjs
+👂	auss dzirde ķermenis kermenis skaņa skana
+😴	ar labu nakti gulēt gulet guļoša gulosa seja miegs žāvas zavas žāvāties zavaties
+🍟	ātrā atra ēdināšana edinasana ēdiens ediens frī fri kartupeļi kartupeli pārtika partika
+🚫	aizliegts ieeja nē ne nedrīkst nedrikst
+🚀	ceļošana celosana kosmoss palaišana palaisana raķete rakete visums
+📅	datums kalendārs kalendars
+🏑	bumba hokejs lauka nūja nuja sports
+🚴	braukt cilvēks cilveks riteņbraukšana ritenbrauksana ritenis sports velosipēdists velosipedists velosipēds velosipeds
+🪄	burvis burvju nūjiņa nujina ragana zizlis
+🐴	dzīvnieks dzivnieks galva saimniecība saimnieciba zirga zirgs
+🥱	garlaikots miegains nogurdināts nogurdinats seja žāvājas zavajas smaidiņš smaidins žāvas zavas
+🚦	luksofors signāls signals vertikāls vertikals
+🎯	mērķis merkis šautriņa sautrina mērķī merki spēle spele trāpījums trapijums
+👛	iepirkšanās iepirksanas maks monētas monetas nauda naudasmaks
+🎤	karaoke mikrofons
+💾	dators diskete disks
+😛	forši forsi jauki lieliski mēle mele seja ar izbāztu izbaztu mēli meli smaidiņš smaidins superīgi superigi
+🦸	betmens labais supermens superspēks superspeks supervaronis varone varonis
+🫨	seja šoks soks trīcoša tricosa trīcošs tricoss vibrācija vibracija zemestrīce zemestrice
+🍄‍🟫	beka brūna bruna sēne sene daba dārzenis darzenis ēdiens ediens mežs mezs portobello sēnes senes sporas
+🧑‍💼	arhitekts baltā balta apkaklīte apkaklite pārvaldnieks parvaldnieks uzņēmējs uznemejs vīrietis virietis biroja darbinieks
+🆚	poga uzraksts vs kvadrātveida kvadratveida ietvarā ietvara versus
+🚊	tramvajs transportlīdzeklis transportlidzeklis transports
+🎅	salavecis santaklauss vecītis vecitis ziemassvētki ziemassvetki ziemassvētku ziemassvetku
+🛁	ūdens udens vanna
+🤰	sieviete stāvoklī stavokli
+🍧	deserts ledus restorāns restorans salds smalcināts smalcinats ar sīrupu sirupu
+🧔	bārda barda bārdaina bardaina persona bārdains bardains vīrietis virietis
+😑	bez izteiksmes neērti neerti neizteiksmīgs neizteiksmigs seja
+🪾	bezlapu koks neauglīgs neaugligs sausums ziema
+🤓	briļļainais brillainais cilvēks cilveks gudrītis gudritis nūģis nugis seja smaidiņš smaidins
+⚡	augstspriegums bīstami bistami elektrība elektriba spriegums zibens
+🧑‍🏫	instruktors pedagogs profesors skolotājs skolotajs
+🏡	dārzs darzs ēka eka māja maja ar dārzu darzu privātmāja privatmaja
+⛺	kempings pārgājiens pargajiens telts
+🍥	ēdiens ediens pīrāgs pirags rotājums rotajums zivju ar rotājumu rotajumu zivs
+🔰	iesācējs iesacejs japāņu japanu apzīmējums apzimejums iesācējam iesacejam simbols kas apzīmē apzime iesācēju iesaceju uzšuve uzsuve
+🧷	autiņi autini drošības drosibas adata pankroks saspraude
+📨	aploksne e-pasts ienākoša ienakosa saņemt sanemt vēstule vestule
+🍷	alkohols bārs bars dzēriens dzeriens dzert glāze glaze vīna vina vīns vins
+🚯	aizliegts atkritumi atkritumus mest nē ne nedrīkst nedrikst
+🩺	ārsts arsts medicīna medicina sirds stetoskops
+🌘	dilstoša dilstosa mēness meness sirpis dilstošs dilstoss kosmoss
+🐍	čūska cuska dzīvnieks dzivnieks ziņnesis zinnesis zodiaks
+🟥	kvadrāts kvadrats sarkans
+🐦‍⬛	knābis knabis krauķis kraukis krauklis melns putns vārna varna žagata zagata
+🏁	finiša finisa karogs finišs finiss melnbalts rūtots rutots sacīkstes sacikstes sports
+📃	atliekta mala dokuments lapa ar atliektu malu
+🔲	ģeometrija geometrija kvadrāts kvadrats melna kvadrātveida kvadratveida poga
+📶	antena mobilais signāla signala stipruma joslas signāls signals stiprums tālrunis talrunis telefons
+🏬	ēka eka māja maja tirdzniecība tirdznieciba tirdzniecības tirdzniecibas centrs veikals
+🪘	bungas garās garas konga ritms vālīte valite
+🔣	ievade poga simboli
+🕋	ēka eka islams islāms kaaba lūgties lugties māja maja musulmaņi musulmani reliģija religija
+🪭	atvēsināties atvesinaties dejot karsts kautrīgs kautrigs salokāms salokams rokas vēdeklis vedeklis vēcināt vecinat
+🥸	brilles deguns inkognito maska paslēpta paslepta seja spiegs ūsas usas
+🤙	piezvani man roka zvans
+🚲	divritenis riteņbraukšana ritenbrauksana ritenis transports velosipēds velosipeds
+👗	apģērbs apgerbs drēbes drebes iepirkšanās iepirksanas kleita
+🦠	amēba ameba baktērija bakterija mikrobs vīruss viruss zinātne zinatne
+🏃	ātrums atrums cilvēks cilveks maratons sacīkstes sacikstes skrējējs skrejejs skriešana skriesana sportists
+🕧	00 12 12:30 30 laiks pulksten pusviens pulkstenis
+😒	dusmas dusmīgs dusmigs garlaikots saīdzis saidzis saīgusi saigusi seja vienalga
+📙	bibliotēka biblioteka grāmata gramata izglītība izglitiba oranža oranza
+👔	apģērbs apgerbs drēbes drebes kaklasaite krekls nopietns
+🧯	apdzēst apdzest dzēst dzest uguns ugunsdzēsības ugunsdzesibas aparāts aparats
+👟	apavi skriešanas skriesanas kurpe sports
+😫	nogurums nogurusi seja šķaudīt skaudit skumja
+🏢	birojs biroju ēka eka māja maja pilsēta pilseta
+🍩	deserts ēdiens ediens pārtika partika salds virtulis
+♈	auns horoskops zodiaka zīme zime zodiaks
+🤺	paukošana paukosana paukotājs paukotajs rapieris
+🧎	celis cilvēks cilveks persona uz ceļiem celiem
+🧑‍🧑‍🧒	bērns berns ģimene gimene pieaugušais pieaugusais
+⛲	strūklaka struklaka ūdens udens
+🍵	dzēriens dzeriens dzert oolong tase tēja teja tējas tejas bez osiņas osinas
+🌲	augs egle koks mūžzaļš muzzals skujkoks
+👩‍🚀	astronaute cilvēks cilveks darbs kosmoss profesija raķete rakete sieviete
+🫦	bailes flirts košana kosana lūpā lupa lūpa neērti neerti nervozs noraizējies noraizejies
+🏧	atm bankomāta bankomata zīme zime bankomāts bankomats nauda
+🥈	2 vieta medaļa medala par vietu otrā otra sudraba
+💿	cd dators disks kompaktdisks optiskais
+🎣	makšķere makskere makšķerēšana makskeresana sports zivs
+🍪	cepums deserts gardums salds
+🧬	biologs dns dzīve dzive evolūcija evolucija ģenētika genetika gēns gens
+🎓	absolventa cepure absolvents izlaiduma izlaidums svinības svinibas
+🪫	akumulators baterija elektroniska izlādējies izladejies zema enerģija energija zems akumulatora līmenis limenis
+🦿	mehāniska mehaniska kāja kaja pieejamība pieejamiba protēzes protezes
+⛔	aizliegts iebraukt ieeja nē ne nedrīkst nedrikst satiksme
+🛙	apgaismība apgaismiba bāka baka cerība ceriba gaisma jūras juras signāls signals jūrniecība jurnieciba navigācija navigacija vadība vadiba
+🍕	izsalkums peperoni pica siers šķēle skele
+🧅	garšaugs garsaugs garšviela garsviela sīpols sipols
+🦖	dinozaurs dzīvnieks dzivnieks tiranozaurs rekss
+😡	dusmas dusmīgs dusmigs sabozies sabozusies seja
+🪸	klimata izmaiņas izmainas koraļļi koralli okeāns okeans rifs
+⏫	augšup augsup poga ātri atri
+🟠	aplis oranžs oranzs
+🌄	ainava daba kalns rīts rits saule saullēkts saullekts pār par kalniem
+🐚	gliemežnīca gliemeznica gliemežvāks gliemezvaks pludmale spārngliemezis sparngliemezis spirāle spirale
+🩼	ievainots invaliditāte invaliditate kruķis krukis mobilitātes mobilitates atbalsts nūja nuja spieķis spiekis
+😢	asaras bēdīgs bedigs raudāt raudat raudoša raudosa seja skumjas
+🧦	zeķbikses zekbikses zeķes zekes
+💢	dusmas dusmīgs dusmigs dusmu simbols komikss
+💨	bēgšana begsana bēgt begt dūmi dumi purkšķis purkskis skriešana skriesana
+😯	apklusināt apklusinat pārsteigt parsteigt pārsteigta parsteigta seja
+👤	ēna ena krūšutēla krusutela siluets krūšutēls krusutels mistika noslēpumains noslepumains
+🎠	karuseļa karusela zirdziņš zirdzins karuselis zirgs
+👮	cilvēks cilveks policija policists profesija virsnieks
+🧑	bezdzimuma cilvēks cilveks dzimumneitrāls dzimumneitrals pieaugušais pieaugusais seja
+🗼	tokija tokijas tornis
+📳	mobilais tālrunis talrunis telefons vibrozvana režīms rezims vibrozvans
+🏤	ēka eka māja maja pasta nodaļa nodala pasts
+👕	apģērbs apgerbs drēbes drebes t krekls
+🍴	dakša daksa galda piederumi garšīgi garsigi maltīte maltite nazis un restorāns restorans vakariņas vakarinas
+🛃	iepakošana iepakosana muita pakošana pakosana
+🐳	dzīvnieks dzivnieks šļakatas slakatas ūdens udens valis šļāc slac ūdeni udeni
+👨‍🍼	auklis barošana barosana bērnu bernu barojošs barojoss cilvēks cilveks kopšana kopsana mazulis persona tētis tetis vīrietis virietis
+🦯	akls baltais atbalsta spieķis spiekis neredzīgs neredzigs pieejamība pieejamiba
+👩‍🚒	cilvēks cilveks darbs profesija sieviete ugunsdzēsēja ugunsdzeseja
+⛅	laikapstākļi laikapstakli laiks mākonis makonis saule aiz mākoņa makona
+😞	seja skumjas vaina vīlies vilies vīlusies vilusies
+💤	ar labu nakti gulēt gulet miegains miegs nogurums zzz
+🚵	braukt cilvēks cilveks kalns kalnu velosipēdists velosipedists riteņbraucējs ritenbraucejs ritenis sportists sports velosipēds velosipeds
+👪	bērns berns ģimene gimene māte mate sieviete tēvs tevs vīrietis virietis
+👠	apavi apģērbs apgerbs augstpapēžu augstpapezu kurpe papēdis papedis sieviešu sieviesu
+😷	ārsts arsts maska medicīna medicina seja ar medicīnas medicinas masku slims
+🥞	bliņa blina ēdiens ediens pankūka pankuka pankūkas pankukas pārtika partika
+🆓	bezmaksas free poga uzraksts kvadrātveida kvadratveida ietvarā ietvara
+🏹	bulta horoskops ierocis loks un strēlnieks strelnieks
+🪈	flauta ierakstītājs ierakstitajs instruments koka pūšaminstrumenti pusaminstrumenti mūzika muzika orķestris orkestris stabule
+🛂	kontrole pase pasu robeža robeza
+😱	bailes bailēs kliedzoša kliedzosa seja kliedziens munks nobijies
+🐄	dzīvnieks dzivnieks govs piens saimniecība saimnieciba
+🔳	balta kvadrātveida kvadratveida poga ģeometrija geometrija kvadrāts kvadrats melnbalta
+👩‍🎓	absolvente sieviete studente
+🐏	aita auns dzīvnieks dzivnieks zodiaks
+🪿	dumjš dumjs gāgināt gaginat putns vista zoss
+📥	dokuments ienākošie ienakosie ienākošo ienakoso dokumentu paliktnis kaste pasts saņemt sanemt
+🐇	dzīvnieks dzivnieks lolojumdzīvnieks lolojumdzivnieks mājdzīvnieks majdzivnieks trusis zaķis zakis
+🥐	ēdiens ediens franču francu kruasāns kruasans maize pārtika partika
+🌖	dilstošs dilstoss izliekts kosmoss mēness meness
+🦻	apgrūtināta apgrutinata dzirde auss ar dzirdes aparātu aparatu pieejamība pieejamiba
+🌅	daba rīts rits saule saullēkts saullekts
+🦌	briedis dzīvnieks dzivnieks
+🌰	augs kastanis mandele pārtika partika rieksts
+🧫	baktērija bakterija bioloģija biologija biologs kultūra kultura laboratorija petri trauks pipete
+🐅	dzīvnieks dzivnieks lielais kaķis kakis plēsējs plesejs tīģeris tigeris zoo
+💬	burbulis dialogs raksta runa runas
+🚮	atkritumi atkritumu urnas zīme zime urna
+🟦	kvadrāts kvadrats zils
+👼	eņģelis engelis fantāzija fantazija mazs eņģelītis engelitis mazulis pasaka seja
+🚩	golfa karogs trīsstūrveida trissturveida
+😿	asaras dzīvnieks dzivnieks kaķis kakis raudāt raudat raudošs raudoss seja skumjš skumjs
+😦	atvērts atverts bailes bēdas bedas bēdīga bediga seja ar atvērtu atvertu muti mulsums mute pārsteigums parsteigums
+🚍	autobuss pretī preti braucošs braucoss transports
+⭐	astronomija zvaigzne
+🃏	džokers dzokers kārtis kartis
+😵‍💫	apreibis hipnozē hipnoze nepatikšanas nepatiksanas oho seja ar spirālēm spiralem acu vietā vieta spirāles spirales
+🚾	ateja tualete wc
+🐡	balonzivs dzīvnieks dzivnieks zivs
+♒	horoskops ūdens udens ūdensvīrs udensvirs zodiaka zīme zime zodiaks
+👨‍🦯	akls cilvēks cilveks neredzīgs neredzigs pieejamība pieejamiba vīrietis virietis ar balto atbalsta spieķi spieki
+🤪	acs ķēmoties kemoties liels mazs seja traka traks
+💜	lillā lilla sirds mīlu milu violeta violets
+🤽	cilvēks cilveks polo sports ūdens udens ūdenspolo udenspolo sportists
+👸	cilvēks cilveks fantāzija fantazija karaliene kronis pasaka princese sieviete
+☔	laikapstākļi laikapstakli laiks lāses lases lietus lietussargs ar lāsēm lasem
+🦋	insekts kukainis skaists taurenis
+🌒	augoša augosa mēness meness sirpis augošs augoss kosmoss
+🔍	lupa meklēšana meklesana pa kreisi vērsta versta palielināt palielinat zinātne zinatne
+😕	apjucis apjukums apjukusi seja neskaidrība neskaidriba nezinu
+🆙	poga up
+🧲	magnētisks magnetisks magnēts magnets pakavs pievilkšana pievilksana pievilkšanās pievilksanas
+🌝	mēness meness pilnmēness pilnmeness seja
+🐊	aligators dzīvnieks dzivnieks florida krokodils zoo
+🦎	dzīvnieks dzivnieks ķirzaka kirzaka rāpulis rapulis
+🤤	seja siekalas siekalojas
+🍰	deserts kūka kuka salds saldums torte
+🫸	dod pieci gaidīt gaidit pa labi spiedoša spiedosa roka stop stumt vote atteikt
+💷	banknote mārciņa marcina nauda sterliņu sterlinu mārciņas marcinas valūta valuta
+🧑‍🧒	bērns berns ģimene gimene pieaugušais pieaugusais
+🚨	bākuguns bakuguns mašīna masina policija policijas mašīnas masinas
+👳	cilvēks cilveks persona ar turbānu turbanu seja turbāns turbans vīrietis virietis
+🦼	ar motoru darbināms darbinams ratiņkrēsls ratinkresls motorizēts motorizets pieejamība pieejamiba
+🎂	deserts dzimšanas dzimsanas diena dienas kūka kuka jubileja svētki svetki svinības svinibas torte
+📴	izslēgt izslegt izslēgts izslegts mobilais tālrunis talrunis telefons
+🪶	apspalvojums putns spalva viegls
+🧰	darbarīku darbariku kaste instrumenti mehānisks mehanisks rīks riks
+🚋	tramvaja vagons tramvajs transports trolejbuss
+🔢	1234 cipari ievade poga
+🍮	deserts ēdiens ediens olu krēms krems pārtika partika salds
+🔺	augšupvērsts augsupversts sarkans trīsstūris trissturis ģeometrija geometrija
+🎻	instruments mūzika muzika stradivāri stradivari vijole
+🪴	audzēt audzet augs podiņā podina augt garlaicība garlaiciba māja maja nevajadzīgs nevajadzigs podiņš podins telpaugs
+🛵	motorollers skūteris skuteris transportlīdzeklis transportlidzeklis transports
+🎒	izglītība izglitiba mugursoma skola skolas soma
+🦛	begemots dzīvnieks dzivnieks nīlzirgs nilzirgs
+🔸	ģeometrija geometrija mazs oranžs oranzs rombs
+🐬	delfīns delfins dzīvnieks dzivnieks okeāns okeans peldpleznas pludmale
+🧿	amulets pret ļaunu launu aci krelle ļaunā launa acs nazars piekariņš piekarins talismans
+🥼	apģērbs apgerbs ārsts arsts balts halāts halats eksperiments laboratorijas zinātnieks zinatnieks
+🔮	kristāla kristala lode kristāls kristals pareģot paregot zīlēt zilet
+🌕	kosmoss mēness meness pilnmēness pilnmeness
+💧	lāse lase sviedri ūdens udens
+🎌	japāņu japanu karogs sakrustot sakrustoti karogi svētki svetki
+🚒	transports uguns ugunsdzēsēji ugunsdzeseji ugunsdzēsēju ugunsdzeseju mašīna masina
+🤶	omīte omite salavecis ziemassvētki ziemassvetki ziemassvētku ziemassvetku vecītis vecitis
+🆒	cool poga uzraksts kvadrātveida kvadratveida ietvarā ietvara
+🥀	novītusi novitusi puķe puke
+🖤	ļaunums launums melna sirds
+🚓	automašīna automasina mašīna masina policija policijas transports
+🥅	futbola vārti varti sports tīkls tikls ar tīklu tiklu
+🍁	augs kļava klava kļavas klavas lapa rudens
+🧈	piena produkti sviests
+🐶	dzīvnieks dzivnieks galva lolojumdzīvnieks lolojumdzivnieks mājdzīvnieks majdzivnieks suņa suna suns
+🚭	aizliegts nē ne nedrīkst nedrikst smēķēt smeket
+⚽	bumba futbola futbols sports
+🧑‍💻	izgudrotājs izgudrotajs izstrādātājs izstradatajs kodētājs kodetajs programmatūra programmatura tehnologs vīrietis virietis tehniķis tehnikis
+🧡	mīlu milu oranža oranza sirds oranžs oranzs
+🌙	mēness meness ramadāns ramadans sirpis
+🛀	cilvēks cilveks mazgājas mazgajas vannā vanna mazgāties mazgaties ūdens udens
+🕡	30 6 6:30 laiks pulksten pusseptiņi pusseptini pulkstenis
+🪗	akordeons instruments koncertīna koncertina mūzika muzika mūzikas muzikas rokas armoņikas armonikas ermoņikas ermonikas
+🥊	boksa cimds bokss sports
+🔷	ģeometrija geometrija liels zils rombs
+📕	aizvērta aizverta grāmata gramata izglītība izglitiba
+🎪	cirka telts cirks
+🧊	aisbergs auksts ledus gabaliņš gabalins kubs
+🫌	cerība ceriba kāpurs kapurs kukainis metamorfoze migrācija migracija pārmaiņas parmainas pārvērtības parvertibas trausls
+🧺	grozs lauksaimniecība lauksaimnieciba pikniks veļa vela veļas velas mazgātuve mazgatuve
+🫓	arepa lavašs lavass maize nāanmaize naanmaize pārtika partika pita plācenis placenis
+🔖	grāmatzīme gramatzime zīme zime
+🤕	apsējs apsejs ievainojums sāpes sapes seja ar galvas apsēju apseju
+🎃	helovīns helovins izgrebts ķirbis kirbis svētki svetki visu svēto sveto dienas priekšvakars prieksvakars
+🍨	deserts krēms krems pārtika partika saldējums saldejums salds
+⬛	ģeometrija geometrija kvadrāts kvadrats liels melns
+🩵	ciānzils cianzils gaiši gaisi zila sirds zils zilganzaļš zilganzals
+◽	ģeometrija geometrija kvadrāts kvadrats vidēji videji mazs balts
+🥶	apsaldējies apsaldejies auksts lāstekas lastekas nosalis nosalusi seja nozilējis nozilejis stindzinošs stindzinoss
+🪪	akreditācijas akreditacijas dati apliecība aplieciba dokuments drošība drosiba id identifikācijas identifikacijas karte licence
+📵	aizliegts mobilais mobilie tālruņi talruni aizliegti nē ne nedrīkst nedrikst tālrunis talrunis telefons
+😋	ēdienu edienu baudoša baudosa seja garšīgs garsigs ņamm namm smaids
+🫵	jūs jus pirksts punkts rādīt radit rādītājpirksts raditajpirksts pret sevi
+🙋	cilvēks cilveks ar paceltu roku laimīgs laimigs pacelts roka žests zests zinu
+🐵	dzīvnieks dzivnieks galva pērtiķa pertika pērtiķis pertikis
+🪵	baļķis balkis celms kokmateriāls kokmaterials koks
+🧑‍🧒‍🧒	bērns berns ģimene gimene pieaugušais pieaugusais
+🍡	dango deserts irbulīši irbulisi japāņu japanu salds
+🎥	filma holivuda kamera kino kinokamera
+⌚	laiks pulkstenis rokaspulkstenis
+🫕	fondī fondi kausēts kausets podiņš podins siers šokolāde sokolade šveiciešu sveiciesu
+🕠	30 5 5:30 laiks pulksten pusseši pussesi pulkstenis
+🤲	lūdzējs ludzejs lūgties lugties plaukstas kopā kopa
+🙊	aizliegts dzīvnieks dzivnieks galva klusēt kluset ļauns launs nē ne nedrīkst nedrikst neko nesaku pērtiķis pertikis runāt runat žests zests
+🐞	bizbizmārīte bizbizmarite insekts kukainis mārīte marite vabole
+🪃	atlēciens atleciens atsitiens austrālija australija bumerangs ierocis
+🈹	atlaide ideogramma kvadrātveida kvadratveida ietvarā ietvara japāņu japanu
+🧜	cilvēks cilveks nāra nara nāris naris nārveidīgs narveidigs pasaka sirēna sirena zemūdens zemudens valstība valstiba
+🐙	astoņkājis astonkajis dzīvnieks dzivnieks okeāns okeans radījums radijums
+🧢	beisbola cepure ar nagu
+🦞	bisks dzīvnieks dzivnieks jūras juras veltes omārs omars spīles spiles
+🍒	auglis augs ķirši kirsi ķirsis kirsis oga pārtika partika
+🌠	krist krītoša kritosa zvaigzne
+🥭	auglis mango pārtika partika tropiskais
+🌭	desiņa desina ēdiens ediens hotdogs pārtika partika
+🫈	jetijs kriptīds kriptids matiem noaudzis meža meza briesmonis mežonis mezonis mežs mezs milzis sniega cilvēks cilveks
+💎	dārgakmens dargakmens dārglieta darglieta dimants saderināšanās saderinasanas
+🪠	aizsprostojums kanalizācijas kanalizacijas buča buca santehniķis santehnikis sūkšana suksana tualete vantūzs vantuzs
+🚗	automašīna automasina mašīna masina transports
+🧨	dinamīts dinamits dzirkstele petarde spridzeklis uguņošana ugunosana
+🕢	30 7 7:30 laiks pulksten pusastoņi pusastoni pulkstenis
+😖	aizkaitinājums aizkaitinajums apmulsis apmulsums apmulsusi seja dusmas skumjas
+🧗	alpīniste alpiniste alpīnists alpinists cilvēks cilveks kalnā kalna kāpējs kapejs kalns kāpt kapt klints persona
+📏	lineāls lineals matemātika matematika skola taisns
+🧛	briesmonis drakula ilkņi ilkni nemirstīgais nemirstigais vampīrs vampirs
+🟡	aplis dzeltens
+🦥	dzīvnieks dzivnieks lēns lens sliņķis slinkis slinks
+🧩	attēlu attelu mīkla mikla gabaliņš gabalins līme lime puzle puzles savienošana savienosana
+🚕	automašīna automasina mašīna masina taksometrs transports
+🈺	atvērts atverts ideogramma strādā strada kvadrātveida kvadratveida ietvarā ietvara japāņu japanu ķīniešu kiniesu
+🥙	ēdiens ediens giross kebabs lavašs lavass pārtika partika pildīts pildits
+🙃	apgriezta seja apgriezts otrādi otradi smaids
+🌎	dienvidamerika globuss ar ameriku pasaule zemeslode ziemeļamerika ziemelamerika
+🫐	mellene mellenes oga pārtika partika zilene zils
+🍔	burgers ēdiens ediens hamburgers pārtika partika
+😐	bez izteiksmes neitrāla neitrala seja neitrāls neitrals neizteiksmīgs neizteiksmigs
+💰	dolārs dolars maiss miljons nauda naudas
+🏏	bumba krikets nūja nuja spēle spele sports
+💞	emocijas gadadiena mīlestība milestiba rotējošas rotejosas sirdis sirds
+🐋	dzīvnieks dzivnieks okeāns okeans pludmale valis
+🥳	apsveikums ballīšu ballisu seja ballīte ballite cepure prieks svinēt svinet svinības svinibas taurīte taurite
+🌞	diena gaišs gaiss laikapstākļi laikapstakli pludmale saulains saule saules seja spīd spid
+🍄	augs mušmire musmire sēne sene
+🤩	acis sajūsmināts sajusminats seja smaidīt smaidit zvaigznes zvaigžņu zvaigznu pārņemts parnemts
+🛅	bagāža bagaza bagāžas bagazas glabātava glabatava glabāt glabat
+⭕	aplis liels o riņķis rinkis sarkans
+🌈	laikapstākļi laikapstakli laiks lgbt lietus varavīksne varaviksne
+💛	dzeltena sirds dzeltens emocijas mīlu milu
+💋	lūpas lupas lūpukrāsa lupukrasa nospiedums skūpsta skupsta skūpsts skupsts
+📓	izglītība izglitiba mācības macibas piezīmju piezimju grāmata gramata skola
+⏳	pulkstenis smilšu smilsu ar plūstošām plustosam smiltīm smiltim smiltis taimeris
+🩸	asins pile ziedošana ziedosana ievainojums medicīna medicina menstruācija menstruacija
+🍐	auglis augs bumbieris pārtika partika
+🐂	bullis dzīvnieks dzivnieks vērsis versis zodiaks
+👖	apģērbs apgerbs bikses drēbes drebes džinsi dzinsi
+🟫	brūns bruns kvadrāts kvadrats
+🐃	bifelis dzīvnieks dzivnieks ūdens udens zoo
+⚾	beisbola bumba beisbols sports
+🪙	bagātība bagatiba eiro metāls metals monēta moneta nauda sudrabs zelts
+🤞	pirksts roka sakrustot sakrustoti pirksti turēt turet īkšķus ikskus veiksme
+🥿	apavi balerīna balerina baleta kurpe čība ciba ērts erts iešļūcene ieslucene bez papēža papeza
+💒	ēka eka kapela kāzas kazas māja maja romantika
+🤾	bumba cilvēks cilveks handbols mest rokasbumba sports
+🕟	30 4 4:30 laiks pulksten puspieci pulkstenis
+🙉	aizliegts dzirdēt dzirdet dzīvnieks dzivnieks galva ļauns launs nē ne nedrīkst nedrikst nedzirdu neko pērtiķis pertikis žests zests
+🧏	auss cilvēks cilveks dzirde kurls kurlums nedzirdīga nedzirdiga persona nedzirdīgs nedzirdigs pieejamība pieejamiba
+🈲	aizliegts ideogramma aizliegt kvadrātveida kvadratveida ietvarā ietvara japāņu japanu
+🐸	dzīvnieks dzivnieks galva princese seja varde
+⏪	atpakaļ atpakal attīt attit pa kreisi poga
+🌮	ēdiens ediens meksikāņu meksikanu pārtika partika tako
+💸	banknote ar spārniem sparniem lidot nauda spārni sparni
+🙅	aizliegts cilvēks cilveks ar aizlieguma žestu zestu noraidījuma noraidijuma nē ne nedrīkst nedrikst roka žests zests
+🧑‍🎤	aktieris dziedātājs dziedatajs izklaidētājs izklaidetajs roks vīrietis virietis zvaigzne
+🫅	cēls cels honorārs honorars karalis kronis monarhs persona ar vainagu valdnieks
+📘	bibliotēka biblioteka grāmata gramata izglītība izglitiba lasīt lasit zila
+🪍	noķert nokert savākt savakt siets slazds
+🤌	pastiepti pirksti rokas žests zests sarkastisks saspiests
+⚫	aplis ģeometrija geometrija melns
+🧕	galvas lakats hidžabs hidzabs seja sieviete ar lakatu
+📚	bibliotēka biblioteka grāmata gramata grāmatas gramatas izglītība izglitiba mācības macibas romāni romani
+👨	cilvēks cilveks draugs kungs seja vīrietis virietis vīrs virs
+🧑‍🔧	elektriķis elektrikis mehāniķis mehanikis santehniķis santehnikis vīrietis virietis
+👒	cepure platmale sieviešu sieviesu
+🫜	biete dārzenis darzenis dārzs darzs rāceņi raceni sakne
+💵	banknote dolāra dolara dolārs dolars nauda valūta valuta
+👊	dūre dure ķermenis kermenis pretim vērsta versta roka sist
+⌛	iztecējis iztecejis smilšu smilsu pulkstenis pulstenis laiks smiltis taimeris
+🫑	dārzenis darzenis paprika pipars sarkanie pipari zaļais zalais
+🚶	cilvēks cilveks gaita gājējs gajejs iešana iesana kājāmgājējs kajamgajejs pārgājiens pargajiens
+🦙	alpaka dzīvnieks dzivnieks gvanako lama vikunja vilna
+🎉	ballīte ballite dzimšanas dzimsanas diena konfeti plaukšķene plaukskene superīgi superigi svētki svetki svinības svinibas
+📛	nozīmīte nozimite vārda varda vārds vards
+🥔	augs dārzenis darzenis kartupelis pārtika partika
+🧒	bērns berns bezdzimuma cilvēks cilveks dzimumneitrāls dzimumneitrals jauns seja
+🥵	drudzī drudzi drudzis karstuma dūriens duriens nosvīdis nosvidis piesārtusi piesartusi seja sarkanu seju saules
+🍶	bārs bars dzēriens dzeriens dzert pudele sakē sake
+🉐	ideogramma izdevīgi izdevigi apļveida aplveida ietvarā ietvara japāņu japanu
+♊	dvīņi dvini horoskops zodiaka zīme zime zodiaks
+🤫	klusēt kluset klusināt klusinat kuš kus seja smaidiņš smaidins šušināt susinat šušinoša susinosa
+📮	pastkaste pasts
+🦷	balts pērļu perlu zobārsts zobarsts zobs
+🩻	ārsts arsts kauli krūškurvis kruskurvis medicīnas medicinas rentgens skelets
+🔫	ierocis pistole revolveris šaujamierocis saujamierocis ūdens udens
+🔁	atkārtot atkartot bultiņa bultina poga pulksteņrādītāja pulkstenraditaja virzienā virziena
+🍏	ābols abols auglis augs pārtika partika zaļš zals
+🕐	00 1 1:00 laiks pulksten viens pulkstenis
+😁	jauks plats smaids un smaidošas smaidosas acis priecīgs priecigs seja smīns smins
+🩱	kopējais kopejais peldkostīms peldkostims
+🐛	blakts dārzs darzs dzīvnieks dzivnieks insekts kāpurs kapurs kukainis
+😲	oho pārsteigts parsteigts seja šokēta soketa šokēts sokets
+📟	elektronika peidžers peidzers saziņa sazina
+🤘	dio pirksts ragi ragu simbols roka rokmūzika rokmuzika smagais metāls metals
+😮	atvērts atverts mute pārsteigt parsteigt seja ar atvērtu atvertu muti šokēts sokets
+🆘	palīdzība palidziba poga sos uzraksts kvadrātveida kvadratveida ietvarā ietvara
+💭	burbulis domas domu
+🐉	bruņinieki bruninieki dzīvnieks dzivnieks ķīniešu kiniesu pasaka pūķis pukis
+🚟	transports trose trošu trosu vilciens vagons
+🫱	labā laba roka pa labi pareizi rokasspiediens sniegties turēt turet
+🎶	mūzika muzika mūzikas muzikas notis nots skaņa skana
+🈯	ideogramma norāde norade kvadrātveida kvadratveida ietvarā ietvara japāņu japanu rezervēts rezervets
+👹	briesmonis cilvēkēdājs cilvekedajs fantāzija fantazija monstrs pasaka radījums radijums seja
+🧑‍🎄	cilvēks cilveks dzimumneitrāls dzimumneitrals santaklauss persona ziemassvētki ziemassvetki ziemassvētku ziemassvetku
+🫶	mīlestība milestiba rokas sirds žests zests
+💝	lentīte lentite sirds ar lentīti lentiti valentīndiena valentindiena
+🥇	1 vieta medaļa medala par vietu pirmā pirma zelta
+🔘	ģeometrija geometrija opcijas poga radiopoga
+🪋	apokalipse gravitācija gravitacija klints krišana krisana telpa uguns bumba zvaigzne
+🐜	dārzs darzs dzīvnieks dzivnieks insekts kukainis skudra
+🆎	ab poga asinsgrupa
+🧑‍🍼	auklīte auklite barošana barosana mamma mazulis persona baro bērnu bernu tētis tetis zīdīšana zidisana
+💻	birojs dators klēpjdators klepjdators personālais personalais
+🏉	bumba regbija regbijs sports
+🐆	dzīvnieks dzivnieks leopards lielais kaķis kakis plēsējs plesejs zoo
+🦡	āpsis apsis dzīvnieks dzivnieks medusāpsis medusapsis traucētājs traucetajs
+🦄	galva vienradzis
+💊	ārsts arsts medicīna medicina slims vitamīns vitamins zāles zales zāļu zalu kapsula
+🐒	banāns banans dzīvnieks dzivnieks mērkaķis merkakis
+👃	aromāts aromats deguns ķermenis kermenis smaka smarža smarza
+🧼	tīrīšana tirisana vannošana vannosana ziepes ziepju gabals putas trauks
+👧	bērns berns cilvēks cilveks jauna jaunava meita meitene zodiaks
+📜	papīra papira tīstoklis tistoklis papīrs papirs
+🗿	galva lieldienu sala salu statuja moai
+🔠	abcd burti ievade latīņu latinu lielie
+🌵	augs daba kaktuss sausums tuksnesis
+♉	horoskops vērsis versis zodiaka zīme zime zodiaks
+🙎	cilvēks cilveks grimase neapmierināts neapmierinats sabozies sieviete uzmesta lūpa lupa vilšanās vilsanas žests zests
+🐓	dzīvnieks dzivnieks gailis putns
+💓	mīlestība milestiba pukstēt pukstet pukstoša pukstosa sirds sirdspuksti
+😟	nervozs noraizējies noraizejies noraizējusies noraizejusies seja rūpes rupes stress
+🕍	ebreji ēka eka lūgties lugties māja maja reliģija religija sinagoga templis
+👶	bērns berns cilvēks cilveks mazulis seja zīdainis zidainis
+🌹	augs mīlestība milestiba roze valentīndiena valentindiena zieds
+🔧	darbarīks darbariks remonts uzgriežņu uzgrieznu atslēga atslega
+🪂	izpletnis lidošana lidosana ar paraplānu paraplanu paraplāns paraplans
+🦨	skunkss smaka
+👩‍🏫	cilvēks cilveks darbs docente lektore pasniedzēja pasniedzeja profesija profesore sieviete skolotāja skolotaja
+🌷	augs tulpe zieds
+🥠	laimes cepumiņš cepumins pravietojums
+⛽	benzīns benzins degviela degvielas sūknis suknis dus
+⛎	čūska cuska čūsknesis cusknesis horoskops zodiaka zīme zime zodiaks
+🌋	daba izvirdums kalns vulkāns vulkans
+🛬	atlidošana atlidosana atlidot ierašanās ierasanas lidmašīna lidmasina lidmašīnas lidmasinas nosēšanās nosesanas nosēsties nosesties transportlīdzeklis transportlidzeklis transports
+🔱	enkurs kuģis kugis poseidons trijzaris trijžuburis trijzuburis
+💳	banka karte kredītkarte kreditkarte maksāt maksat nauda
+🏂	sniegs snovbordists snovbords sports ziema
+🔒	aizslēgts aizslegts privāts privats slēdzene sledzene
+🔉	ieslēgts ieslegts skaļrunis skalrunis vidējs videjs skaļruņa skalruna skaļums skalums
+🚑	ārsts arsts ātrās atras palīdzības palidzibas mašīna masina medicīna medicina transports
+🥻	apģērbs apgerbs kleita sari
+🈵	aizņemts aiznemts ideogramma pilns kvadrātveida kvadratveida ietvarā ietvara japāņu japanu ķīniešu kiniesu
+🀄	ķīniešu kiniesu šahs sahs mahjong kauliņš kaulins sarkanais pūķis pukis sarkans spēle spele
+😠	dusmīga dusmiga seja dusmīgs dusmigs nelaimīgs nelaimigs vainot
+😚	acs aizvērtas aizvertas acis aizvērts aizverts buča buca seja ar aizvērtām aizvertam acīm acim sniedz skūpstu skupstu skūpsts skupsts smaids
+🧃	dzēriena dzeriena kārba karba dzēriens dzeriens salds salmiņš salmins sulas paka
+🦶	pēda peda pēdas pedas potīte potite spēriens speriens
+🙆	cilvēks cilveks ar apstiprinājuma apstiprinajuma žestu zestu labi ok roka vingrošana vingrosana žests zests
+🎏	karodziņi karodzini karpa svētki svetki zivju veida zivs
+💄	kosmētika kosmetika lūpas lupas lūpukrāsa lupukrasa randiņš randins
+🚘	automašīna automasina mašīna masina pretī preti braucoša braucosa transports
+😈	ragi seja smaidoša smaidosa ar ragiem smaids velns
+👓	acis brilles
+😂	asaras līdz lidz asarām asaram prieks seja ar prieka smiekli smieklīgi smiekligi uzjautrinoši uzjautrinosi
+📂	atvērta atverta dokumentu mape atvērts atverts dokuments
+👱	blonds cilvēks cilveks seja
+🌇	ēka eka māja maja saule saulriets
+🪀	jojo rotaļlieta rotallieta svārstīgs svarstigs
+🎾	bumba rakete sports tenisa bumbiņa bumbina teniss
+🔼	augšup augsup poga
+🥝	auglis augs kivi pārtika partika
+🍙	bumbiņa bumbina ēdiens ediens japāņu japanu pārtika partika rīsi risi rīsu risu
+🚜	traktors transports
+👨‍💼	arhitekts baltās baltas apkaklītes apkaklites biroja darbinieks birojs darbs menedžeris menedzeris profesija uzņēmējdarbība uznemejdarbiba virietis vīrietis
+🥥	kokosrieksts palma pina colada
+📈	augšup augsup augšupejoša augsupejosa diagrammas līkne likne diagramma izaugsme
+🛐	lūgšanas lugsanas lūgšanu lugsanu vieta reliģija religija
+🚂	dzelzceļš dzelzcels dzinējs dzinejs lokomotīve lokomotive transports vilciens
+🈶	ideogramma būt but kvadrātveida kvadratveida ietvarā ietvara japāņu japanu nav bezmaksas
+🪡	adata izšūšana izsusana pavediens piegrieztne šujamadata sujamadata šūšana susana šūt sut šuves suves
+💏	mīlestība milestiba pāris paris randiņš randins romantika skūpsts skupsts
+🦐	ēdiens ediens garnele jūras juras veltes mazs pārtika partika
+⏰	aizgulēties aizguleties gaidīt gaidit kavēt kavet modināt modinat modinātājpulkstenis modinatajpulkstenis pulkstenis
+🌟	mirdzēt mirdzet mirdzoša mirdzosa zvaigzne mirdzums nakts spīdēt spidet spīdoša spidosa uzvara
+🥮	festivāls festivals mēness meness kūka kuka rudens saulgrieži saulgriezi vidus svētki svetki
+🌗	dilstošs dilstoss mēness meness pusmēness pusmeness
+📀	blu-ray cd dators disks dvd kompaktdisks
+👩‍🏭	darbs fabrikas strādniece stradniece profesija ražošana razosana rūpnīca rupnica sieviete
+🕙	00 10 10:00 desmit laiks pulksten pulkstenis
+🗽	brīvība briviba brīvības brivibas statuja ņujorka nujorka
+👩‍🦼	cilvēks cilveks pieejamība pieejamiba ratiņkrēsls ratinkresls sieviete motorizētā motorizeta ratiņkrēslā ratinkresla
+🚌	autobuss transports
+🛼	skritulis skrituļslida skritulslida slida slidot sports
+👨‍🦽	cilvēks cilveks pieejamība pieejamiba ratiņkrēsls ratinkresls vīretis viretis manuālā manuala ratiņkrēslā ratinkresla vīrietis virietis
+😳	apmulsis kauns nosarkt nosarkusi seja vainīgs vainigs
+🫏	dzīvnieks dzivnieks ēzelis ezelis mūlis mulis spītīgs spitigs stulbenis zīdītājs ziditajs
+🌃	nakts pilsēta pilseta zvaigzne zvaigžņota zvaigznota debess
+👇	delna ķermenis kermenis lejup vērsts versts rādītājpirksts raditajpirksts pirksts rādīt radit roka
+🥬	kacenkāposts kacenkaposts kāposts kaposts ķīnas kinas lapu dārzenis darzenis pakčojs pakcojs pārtika partika
+🩴	apavi kurpe pirkstiņsandales pirkstinsandales pludmale pludmales sandales siksniņsandale siksninsandale siksniņsandales siksninsandales vasara
+🤭	ak vai atklāsme atklasme ķiķināt kikinat noslēpums noslepums pārsteigums parsteigums seja ar roku pār par muti smaidiņš smaidins
+🌽	augs dārzenis darzenis kukurūza kukuruza kukurūzas kukuruzas vālīte valite pārtika partika
+📢	pastiprinātājs pastiprinatajs skaļrunis skalrunis skaļš skals
+🔓	atslēgta atslegta atvērta atverta slēdzene sledzene piekaramā piekarama atslēga atslega
+🍠	cepti saldie kartupeļi kartupeli cepts pārtika partika saldais kartupelis salds
+🦵	ekstremitāte ekstremitate kāja kaja pēda peda saliekts celis spēriens speriens
+🧍	cilvēks cilveks stāvēšana stavesana stāvēt stavet stāvoša stavosa persona
+🐼	dzīvnieks dzivnieks galva panda seja
+🕞	3 3:30 30 laiks pulksten pusčetri puscetri pulkstenis
+🤣	grīda grida līdz lidz asarām asaram lol seja smieklīgi smiekligi smieties vārtās vartas smieklos pa grīdu gridu vārtīties vartities
+😉	acs miegt mirkšķināt mirkskinat seja ar piemiegtu aci smaidiņš smaidins
+🪓	cirst cirvis koks skaida skaldīt skaldit
+🎰	automāts automats azartspēles azartspeles kazino spēle spele spēļu spelu
+🍳	brokastis cept ēdiena ediena gatavošana gatavosana ola panna
+😩	izsalcis nelaimīgs nelaimigs nogurdināta nogurdinata seja noguris
+🦽	manuāli manuali darbināms darbinams ratiņkrēsls ratinkresls pieejamība pieejamiba
+😮‍💨	atvieglojums čuksti cuksti izelpa nopūta noputa seja nopūšas nopusas smaidiņš smaidins svilpošana svilposana vaids
+🪔	eļļa ella eļļas ellas lampa
+♌	horoskops lauva zodiaka zīme zime zodiaks
+➗	/ ÷ dalīšanas dalisanas zīme zime dalīt dalit matemātika matematika
+👩‍🎤	aktrise dziedātāja dziedataja izklaide profesija roks sieviete zvaigzne
+⚓	enkurs kuģis kugis rīks riks
+📞	klausule saziņa sazina tālruņa talruna tālrunis talrunis telefons
+🧘	atpūta atputa cilvēks cilveks lotosa pozā poza joga meditācija meditacija miers
+😺	atvērts atverts dzīvnieks dzivnieks galva kaķis kakis mute plati smaidošs smaidoss plats smaids
+💖	mirdzēt mirdzet mirdzoša mirdzosa sirds spīdēt spidet
+🍣	ēdiens ediens japāņu japanu virtuve pārtika partika suši susi
+💆	atpūta atputa atslābināšanās atslabinasanas cilvēks cilveks galvassāpes galvassapes masāža masaza nomierinošs nomierinoss salons saspringums seja sejas
+🕓	00 4 4:00 četri cetri laiks pulksten pulkstenis
+♑	horoskops mežāzis mezazis zodiaka zīme zime zodiaks
+🪰	insekts kaitēklis kaiteklis kāpurs kapurs muša musa pūšana pusana slimība slimiba
+💲	dolāra dolara zīme zime dolārs dolars miljons nauda skaidra
+💚	sirds zaļa zala zaļš zals
+🚪	durvis ieeja izeja parādes parades skapis
+💉	adata ārsts arsts medicīna medicina pote slims šļirce slirce
+🛘	bīstamība bistamiba briesmas dubļu dublu nogruvums kalns klintis lavīna lavina zemestrīce zemestrice
+🐰	galva mājdzīvnieks majdzivnieks truša trusa trusis zaķis zakis
+📆	datums kalendārs kalendars noplēšamais noplesamais
+👨‍🦼	cilvēks cilveks pieejamība pieejamiba ratiņkrēsls ratinkresls vīrietis virietis motorizētā motorizeta ratiņkrēslā ratinkresla
+🤨	neticīgs neticigs neuzticīgs neuzticigs pacelta uzacs seja ar paceltām paceltam uzacīm uzacim skeptisks
+🤹	cilvēks cilveks līdzsvars lidzsvars persona prasme vairāki vairaki uzdevumi žonglēšana zonglesana žonglēt zonglet
+🫷	atteikt dod pieci gaidīt gaidit pa kreisi spiedoša spiedosa roka stop stumt
+🥉	bronzas medaļa medala par 3 vietu trešā tresa
+🧽	absorbēšana absorbesana porains sūklis suklis tīrīšana tirisana uzsūkšana uzsuksana
+🐨	austrālija australija dzīvnieks dzivnieks koala lācis lacis
+✨	* maģija magija zibšņi zibsni zibsnis zvaigzne
+⛵	buru laiva jahta jūra jura transports ūdens udens
+🌼	augs gundega pienene puķe puke zieds
+🏄	cilvēks cilveks okeāns okeans sērfot serfot sērfotājs serfotajs sports ūdens udens viļņi vilni
+🧐	garlaicīgs garlaicigs seja ar monokli smaidiņš smaidins vecmodīga vecmodiga
+📦	kaste paciņa pacina paka pārvadājumi parvadajumi sūtījums sutijums
+💮	augs balts zieds
+🪇	čača caca grabulis instruments kratīt kratit marakass mūzika muzika perkusijas
+🤷	neziņa nezina nezinu rausta plecus šaubas saubas vienaldzība vienaldziba vienalga
+🪎	bagātība bagatiba balva dārgakmens dargakmens laupījums laupijums nauda rotaslietas sudrabs vērtslietas vertslietas zelts
+🧑‍🦼	persona ratiņkrēslā ratinkresla pieejamība pieejamiba ratiņkrēsls ratinkresls
+🙌	paceltas rokas pacelts slavēt slavet svinēt svinet uzvara
+👨‍💻	darbs izstrādātājs izstradatajs profesija programmatūra programmatura programmētājs programmetajs tehniķis tehnikis vīrietis virietis
+🪲	dzīvnieks dzivnieks insekts kukainis vabole
+😜	acs mēle mele miegt mirkšķināt mirkskinat piemiegta seja ar izbāztu izbaztu mēli meli un piemiegtu aci
+🕗	00 8 8:00 astoņi astoni laiks pulksten pulkstenis
+🥏	disks galīgs galigs lidojošais lidojosais šķīvis skivis
+📖	atvērta atverta bibliotēka biblioteka fantāzija fantazija grāmata gramata izglītība izglitiba lasīšana lasisana romāns romans zināšanas zinasanas
+👨‍🚒	cilvēks cilveks darbs profesija ugunsdzēsējs ugunsdzesejs vīrietis virietis
+🆗	labi ok poga uzraksts kvadrātveida kvadratveida ietvarā ietvara
+🥓	bekons ēdiens ediens gaļa gala pārtika partika
+🫤	meh nezinu seja ar diagonālu diagonalu muti skeptiski skeptisks vienalga vīlies vilies
+👨‍🎨	cilvēks cilveks darbs mākslinieks makslinieks palete profesija vīrietis virietis
+🎨	glezna gleznot gleznotāja gleznotaja palete māksla maksla
+🆔	id identitāte identitate poga uzraksts kvadrātveida kvadratveida ietvarā ietvara
+🛺	autorikša autoriksa tuktuks
+👌	ķermenis kermenis labi lieliski ok roka sapratu simbols
+❓	jautājuma jautajuma zīme zime jautājums jautajums pieturzīme pieturzime sarkana
+📷	fotoaparāts fotoaparats fotokamera instagram kamera
+😥	atvieglojums seja sviedri vīlies vilies vilties vīlusies vilusies un atvieglota
+🚇	metro transportlīdzeklis transportlidzeklis transports
+🍯	medus pārtika partika pods salds
+📄	dokuments papīra papira lapa papīrs papirs
+🪑	krēsls kresls sēdeklis sedeklis sēdēt sedet
+🤦	cilvēks cilveks ar saķertu sakertu galvu nav vārdu vardu ne jau atkal neticība neticiba nu nopietni plauksta seja sieviete šoks soks
+🍋	auglis augs citrons citruss pārtika partika
+🧟	apokalipse briesmonis dzīvais dzivais mironis nemirstīgs nemirstigs zombijs
+🧶	adīt adit dzija kamoliņš kamolins tamborēt tamboret tambrorējums tambrorejums
+🍓	auglis augs oga pārtika partika zemene
+📇	kartīšu kartisu rādītājs raditajs kartīte kartite
+🌴	augs koks palma pludmale tropi
+🥷	cilvēks cilveks cīnītājs cinitajs kareivis nindzja paslēpts paslepts persona slepens slepkava
+🙂	seja ar vieglu smaidu smaids
+🎲	galda spēle spele izklaide kauliņš kaulins metamais
+🤴	karalis karalisks kronis princis vīrietis virietis
+🏰	eiropas eiropiešu eiropiesu ēka eka māja maja pils
+🧆	aunazirņi aunazirni / frikadele falafels felāfels felafels
+🪩	ballīte ballite deja diskotēka diskoteka mirdzēt mirdzet spoguļa spogula bumba
+💇	cilvēks cilveks frizētava frizetava frizieris frizūra frizura matu griezums sieviete pie friziera skaistums
+😸	acis dzīvnieks dzivnieks kaķis kakis plati smaidošs smaidoss ar smaidošām smaidosam acīm acim plats smaids seja
+💔	salauzt salauzta sirds skumjas
+🍇	auglis augs dionīss dioniss pārtika partika vīnogas vinogas
+🐾	ķepa kepa ķepu kepu nospiedumi nospiedums
+🙇	atvainošanās atvainosanas cilvēks cilveks paklanās paklanas paklanīties paklanities piedodiet vīrietis virietis žests zests
+🧧	aploksne dāvana davana nauda sarkana veiksme
+🪷	budisms hinduisms indija lotoss miers skaistums tīrība tiriba vjetnama zieds
+🤐	ciet klusums mute rāvējslēdzējs ravejsledzejs seja ar rāvējslēdzēju ravejsledzeju mutes vietā vieta
+🫂	apskāviens apskaviens ardievu atvadīties atvadities cilvēki cilveki apkampjas labdien mierināt mierinat paldies sasveicināties sasveicinaties
+💦	lāses lases sviedri sviedru ūdens udens vingrošana vingrosana
+👨‍🚀	astronauts cilvēks cilveks darbs kosmoss profesija raķete rakete vīrietis virietis
+😏	seja smīnoša sminosa smīns smins viltīgs viltigs
+🪝	āķis akis makšķerēšana makskeresana pārdošanas pardosanas arguments pievilināt pievilinat uzķeršanās uzkersanas
+🔂	atkārtot atkartot vienu bultiņa bultina poga dziesmu pulksteņrādītāja pulkstenraditaja virzienā virziena vienreiz
+🎳	boulings bumba spēle spele sports
+🕥	10 10:30 30 laiks pulksten pusvienpadsmit pulkstenis
+☕	dzēriens dzeriens dzert kafija karsts kofeīns kofeins tēja teja
+🔡	burti ievade latīņu latinu mazie poga

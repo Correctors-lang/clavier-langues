@@ -1,1261 +1,1261 @@
 # Mots-clés d'emoji en « sv » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	new-knapp ny-knapp nyhet nyhetssymbol symbol
-🧑‍🤝‍🧑	håller hand människor par personer som
-◽	geometrisk medelstor vit ruta mellanliten
-⛽	bensin bensinpump bensinstation bränsle bränslepump
-🔓	lås olåst öppet
-👄	läppar mun
-🍴	äta bestick gaffel och kniv hungrig mat matdags middag
-🏒	ishockey ishockeyklubba och puck klubba sport
-💦	droppar serietidning stänkande svettig
-🎐	fest japan vindspel
-😼	ironiskt kattansikte leende snett
-😉	ansikte blinkar flört öga skämt
-📛	namn namnskylt skylt
-🚉	station tåg tågstation
-💌	brev hjärta kärlek
-🆘	hjälp sos sos-knapp sos-symbol symbol
-🛙	hopp navigering signal upplysning vägledning
-🍯	burk honung honungsburk
-😿	gråter kattansikte ledsen tår
-🫜	grönsak rödbeta rotfrukt rova trädgård
-😳	ansikte generad omtumlad pinsamt rodnar skäms
-🚨	lampa polisbil polisbilslampa saftblandare
-🚌	buss fordon
-🌇	byggnader skymning solnedgång över stad
-🔝	homie kompis pil top topp upp uppåtpil
-🙊	apa håller för hemlighet inget munnen säger tyst
-🐙	bläckfisk djur
-🕦	11.30 23.30 halv tolv klocka som visar
-🕞	03.30 15.30 halv fyra klocka som visar
-🙌	båda händerna i luften hurra räcker upp
-🚗	bil fordon
-🕥	10.30 22.30 halv elva klocka som visar
-🥱	ansikte gäspa godnatt sängdags sömnig trött uttråkad
-🐎	djur galopp galopperande häst hästlopp trav
-👩‍🚒	brandbil brandväsendet kvinna kvinnlig brandman
-🪉	amor harpa instrument musik orkester romantik
-🫁	andning exhalering inhalering lungor organ
-📲	mobil mobiltelefon med pil ringa telefon
-💚	grönt hjärta
-📶	antenn kommunikation mobil mottagning signal signalstyrka stapel staplar täckning telefon
-🫦	ängslig biter i läppen flirtar nervös obekväm orolig rädd tveksam
-🌅	morgonsol soluppgång
-🌂	hopfällt paraply
-🍲	gryta mat varm
-🪜	klätterstege klättra steg stege
-✅	bock vit bockmarkering fet
-📑	bokmärken bokmärkesflikar flikar markörer
-👣	avtryck fotavtryck fötter
-👀	öga ögon
-🤸	gymnastik hjula person som hjular
-⭕	cirkel o röd tung stor vit med kant
-😆	ansikte flinande hahaha jätteroligt kiknar leende mun ögon öppen roligt skratt stängda
-🔄	deja vu förnya moturs pil pilar spola tilllbaka uppdatera upprepa
-🟢	cirkel grön
-🧗	bergsklättring klättra upp klättrare person klättrar som
-🌟	blänkande glänsande glittrande gnistrande natt seger stjärna
-🤧	ansikte atjoo nysa nyser prosit
-🔛	höger on på pil vänster
-🪫	elektronik låg batterinivå energinivå
-⏰	klocka väckarklocka
-🥕	grönsak mat morot rotfrukt
-➿	dubbel ögla öglor
-🥂	dryck fira glas skål skålande
-🪲	insekt skalbagge småkryp
-🩹	bandage plåster
-🟧	kvadrat orange
-📍	knappnål nål stift
-😽	blundar kattansikte kyss plutar puss
-🐤	djur kyckling kycklingansikte
-🤵	bröllop brudgum person i smoking
-🛼	rullskridsko
-🧩	bit ledtråd pussel pusselbit pusselbitar sammanfoga
-🛝	leka lekplats nöjesfält rutschbana
-🔇	avstängd högtalare tyst
-🏥	byggnad sjukhus
-🚔	fordon mötande polisbil polis
-💶	euro eurosedel pengar sedel
-🥭	frukt mango tropisk
-🫂	adjö hej kram personer kramas tack
-🔳	fyrkant knapp svart fyrkantig med vit kant
-💹	diagram stigande marknad med yen uppåtpekande
-🧺	jordbruk korg picknick tvätt
-😖	ansikte besviken förvirrad frustrerad irriterad
-🔐	lås med nyckel stängt
-🈯	ideogram för finger japansk ”reserverad”-knapp reserverad
-🏦	bank byggnad
-🍧	dessert efterrätt is kakigōri
-🧍	person stående
-🟠	cirkel orange
-⛔	förbud mot infart med fordon förbjuden
-✊	hand knytnäve i luften
-🌜	ansikte avtagande halvmåne med gubben i månen månansikte måne
-😹	glädjetårar gråter kattansikte roligt skrattar tårar
-🧾	belägg bevis bokföring kvitto redovisning
-🪩	dansa disco discokula fest glitter
-🏇	häst hästkapplöpning jockey kapplöpning person som galopperar med en
-👦	kille pojke ung
-🏸	badminton badmintonracket och badmintonboll sport
-🥜	grönsak jordnöt jordnötter mat nöt
-📱	mobil mobiltelefon telefon
-🕎	judendom ljusstake menora
-🚙	bil fordon suv
-🖤	hjärta ond svart
-🪬	amulett fatima hamsa hand lycka maria miriam skydd
-🚴	cykel cykla cyklist person som cyklar
-🍷	dryck glas rödvinsglas vin vinglas
-💊	medicin piller tablett
-🍀	fyrklöver irland klöver lycka tur
-🪌	ångra fel gnugga misstag radera
-😷	ansikte baciller läkare munskydd sjuk smitta virus
-📆	avdragbar kalender datum
-🙉	apa håller för hör inget öron
-💱	pengar valuta valutaväxling växelkurs
-🩻	ben läkare medicin röntgen skelett undersökning
-🏠	byggnad hus
-📙	bok orange
-🥔	grönsak mat potatis
-💮	blomma vit
-🥌	curlingsten spel sten
-💩	avföring bajs bajshög
-🍳	laga mat matlagning steka ägg
-🦈	fisk haj
-🌼	blomma blomster växt
-😜	ansikte blinkande knäpp räcker ut skojar tokigt tungan
-🪁	flyga flygande drake sväva
-⛎	ormbäraren stjärnbild
-🍾	bubbel champagne fest nyår
-🧇	våffeldagen våffeljärn våffla
-🛞	cirkel däck hjul rulla
-📜	bokrulle pergament rulle
-🧎	knäsittande knästående person på knäna
-🌕	fullmåne måne
-💽	dator datordiskett optisk skiva
-💙	blått hjärta
-📏	linjal rak
-🥡	hämtmatkartong takeout box
-🕔	05.00 17.00 fem klocka som visar klockan
-🤩	ansikte glad imponerad stjärnögd stjärnsmäll wow
-🟦	blå kvadrat
-🐍	djur orm
-🐉	djur drake
-🪎	ädelstenar guld pengar pris rikedom
-💯	100 poäng full pott
-🌝	ansikte fullmåne med gubben i månen månansikte måne
-♏	skorpionen stjärntecken
-🪞	reflektor spegel spegelglas
-💅	måla naglar manikyr nagellack smink
-🫫	avslöja bryter krackelerar sönder trasig
-🈁	här japansk ”här”-knapp katakana för koko
-🍵	te tekopp varm dryck
-⏳	sand tid timglas med rinnande
-🌙	måne månskära
-🤭	ansikte fnissar hand hoppsan mun
-🥗	grön grönsallad mat sallad
-🈹	ideogram för rabatt japansk ”rabatt”-knapp
-🔔	klocka ljud ringklocka
-🦹	brottsling elak ond skurk superkraft superkrafter superskurk
-🙎	kvinna som putar med läpparna person plutar plutande puta munnen
-🫴	bjuda in erbjuda fånga handflatan uppåt kalla på sträcka ut en hand
-👨‍🦽	man i manuell rullstol
-🙇	ångra be bön förlåt gest meditation meditera person ursäkt
-🔈	högtalare med låg volym
-🍋‍🟩	citrusfrukt frukt lime tropisk
-🪖	armé hjälm krigare militär militärhjälm soldat
-🪰	asätande insekt fluga sjukdom
-👧	flicka jungfru stjärntecken tjej ung
-🍂	fallande löv faller fallna höst höstlöv
-🍝	mat pasta spagetti
-🧑‍🦼	eldriven rullstol elektrisk person i permobil tillträde
-🏂	snowboard snowboardåkare
-🏬	butik varuhus
-🤾	boll handboll person som spelar sport
-🌳	lövfällande lövträd träd
-🏐	sport volleyboll
-🧴	kräm lotion lotionflaska shampoo solkräm
-💨	borta fartsymbol pust springa springer iväg
-🪱	daggmask mask parasit ringmask
-🫕	choklad fondue gryta ost schweiziskt smältande
-🕧	00.30 12.30 halv ett klocka som visar
-🥣	flingor frukost skål och sked
-🍞	bröd limpa
-🌚	ansikte gubben i månen månansikte måne nymåne med
-🦨	skunk stank
-🚹	herrtoalett män symbol för toalett
-🪅	fest kalas piñata
-🪢	knop knut rep tågvirke
-🫢	åh nej ansikte chockad förvånad generad hand mun ögon överraskad överväldigad rädd stora
-🎻	fiol med stråke musik musikinstrument violin
-🛫	avgång med flyg som avgår resa
-💐	blombukett blommor kärlek
-👎	ner ogilla tumme tummen ned
-🤟	hand jag älskar dig-gest
-♋	kräftan stjärntecken
-🦸	god hjälte hjältinna superhjälte superkraft superkrafter
-👏	klappa händer klappande
-🧚	älva fé oberon puck titania vingar
-🏢	byggnad kontor kontorsbyggnad
-🧻	pappershanddukar toalettpapper toarulle
-🔅	låg ljusstyrka
-🆓	free-knapp fri-knapp gratis gratis-symbol symbol
-🪛	skruvmejsel verktyg
-📖	bok öppen
-🍬	godis karamell
-🃏	joker joker-kort spelkort med
-🧪	experiment kemi kemist labb provrör vetenskap
-🍟	pommes frites
-🌏	asien asien-australien australien jorden jordglob världen visar
-🧵	nål spole tråd trådrulle
-🆎	blodgrupp ab typ
-👩‍🍼	amma kvinna matar spädbarn mata
-🕛	00.00 24.00 klocka som visar tolv klockan
-🍰	kaka kakbit tårta tårtbit
-🦩	flambojant flamingo tropisk
-😁	ansikte leende ögon roligt skratt strålande tänder
-⬛	geometrisk ruta stor svart
-🪻	blomma bluebonnet hyacint lavendel lila luktärter lupin purpur violblå violett
-🖖	hand spock star trek vulcan vulcan-hälsning
-🪍	fånga nät samla
-⌚	armbandsur klocka
-🐯	djur tiger tigeransikte
-🚧	bygge skylt för byggområde
-🔵	blå cirkel geometrisk
-🌄	berg morgonsol soluppgång över vid
-🚾	toalett uthus wc
-📮	brevlåda postlåda
-🦽	manuell rullstol tillgänglighet
-🌁	dimma dimmigt
-🫈	bigfoot hårig jätte sasquatch yeti
-🦷	tand tandläkare
-🪺	bo med ägg fågelbo rede ruva
-🐜	djur insekt myra
-🔋	batteri
-🟡	cirkel gul
-🌑	måne nymåne
-😩	ansikte besviken ledsen olycklig slut uppgiven uttröttad
-🛒	handla inköp shopping shoppingvagn vagn
-🆗	ok ok-knapp
-🪝	hake klo krok snärja
-🥞	crêpes mat pannkaka pannkakor
-💳	betalkort kort kreditkort
-🦗	gräshoppa syrsa
-🫛	ärta ärtskida bönor bönstjälk edamame grönsaker sojaböna
-🥧	deg fyllnad paj
-🧸	gosedjur leksak mjukdjur nallebjörn
-🧛	blod drakula huggtänder vampyr vandöd
-🟪	kvadrat lila
-🐱	djur katt kattansikte
-🦺	nöd säkerhet varningsväst varselväst väst
-🈴	användning ideogram japansk ”godkänt betyg”-knapp
-🍏	äpple frukt grönt
-🌠	fallande stjärna stjärnfall
-❌	kryss rött x
-🐸	djur groda grodansikte
-🧀	ost ostbit
-🪕	banjo musik sträng
-🐩	djur hund pudel
-🦻	öra med hörapparat
-👩‍🦼	kvinna i permobil rullstol
-🧙	häxa magiker trollkarl
-👨‍🏫	instruktör lärare man manlig professor
-💄	läppstift makeup smink
-🚘	bil bilar fordon körde mötande
-👨‍🏭	fabrik industri man manlig fabriksarbetare produktion
-🏣	byggnad japanskt postkontor
-🫐	blåbär
-🦑	bläck bläckfisk mat mindre skaldjur
-🐵	apa apansikte djur
-🧊	isberg isbit kallt
-🤿	dyka dykmask snorkelmask snorkla
-📼	vhs video videoband videokassett
-💟	dekoration hjärta lila vitt
-🎥	film filmkamera spela in
-🧥	jacka kavaj
-🐽	djur gris gristryne tryne
-👭	håller hand människor par två kvinnor
-🚝	balkbana fordon monorail tåg
-🩷	älskar bedårande gullig hjärta kärlek rosa sött
-🧑‍🎓	student studerande
-🏡	hus med trädgård
-😮‍💨	andas ut ansikte ledsen pustar suckar
-🔣	specialtecken symboler
-🪚	fogsvans såg snickare trä verktyg
-🧕	hijab kvinna i sjal slöja
-🦂	skorpion skorpionen stjärntecken
-➖	- − matte minus minustecken subtrahera tecken
-😮	ansikte chockad förvånad gapar mun omg öppen otroligt
-🪸	klimatförändring korall ocean rev
-🚊	fordon spårvagn
-😟	ansikte bekymrad ledsen nervös orolig rädd
-📇	kortregister register
-🌽	majs majskolv
-📫	post stängd brevlåda med hissad flagga
-🚄	fordon snabbtåg tåg
-🧑‍🎨	konstnär palett
-🪪	id id-kort legitimation personuppgifter säkerhet
-🫖	dryck kanna te tekanna
-🕘	09.00 21.00 klocka som visar nio klockan
-🈵	fullbelagt ideogram för inget ledigt inga lediga rum japansk ”fullbelagt”-knapp
-🐔	fågel höna
-👩‍🦽	kvinna i manuell rullstol
-🛗	hiss lift tillgång vinsch
-🍊	citrusfrukt frukt mandarin
-🤒	ansikte feber sjuk termometer
-🎾	boll tennis tennisboll tennisrack och tennisracket
-🤡	ansikte clown clownansikte pajas
-💰	pengapåse pengar säck
-🛴	cykel sparka sparkcykel
-🪷	blomma buddhism frid hinduism lotus renhet stillhet
-🦉	fågel uggla vis
-🐛	djur kryp larv tusenfoting
-📣	kommunikation megafon
-😱	ansikte fasa katastrof livrädd rädd skriet skriker
-🥨	pretzel snurrad
-📎	gem
-🍩	donut munk
-🐕	djur hund valp
-🧑‍🧒‍🧒	barn familj vuxen
-🪮	afro afrokam hår kam
-🫗	dryck glas hälla vätska oj då spilla tomt
-📳	läge mobil telefon vibrationsläge
-💏	kärlek kyssas människor puss
-🔮	framtiden kristallkula spåkula
-🙆	gest för ok hand kvinna som gestikulerar okej person
-🏈	amerikansk fotboll boll sport
-🥿	ballerinasko lågklackad toffla
-🦿	bioniskt ben mekaniskt protes
-💆	ansiktsmassage behandling kvinna som blir masserad massage person
-🫯	bråk brottas fajt fajtas fight slagsmål slåss våld
-🫰	<3 betala dyrt fingrarna knäppa korsade pekfinger pengar tumme
-🥯	bagel bakverk bröd
-🦜	fågel papegoja pirat prata
-👨‍🌾	bonde jordbruk man manlig trädgårdsmästare
-👖	byxor jeans kläder
-🦕	brachiosaurus brontosaurus diplodocus sauropod
-🚯	inget skräp skräpa inte ner släng här symbol
-🩱	baddräkt simdräkt
-➕	+ addera matte plus plustecken tecken
-😡	ansikte arg rasande röd sur
-🥋	judo kampsport kampsportdräkt karate självförsvar sport taekwondo
-🐣	fågel kläckt kyckling nykläckt
-👑	drottning krona kung kungakrona
-🏆	pokal pris
-🦔	igelkott taggig
-✋	hand i luften handflata uppräckt
-🔪	kniv kökskniv
-🪔	diya diyalampa lampa oljelampa
-🐏	bagge får stjärntecken vädur
-🟣	cirkel lila
-🥦	broccoli kål
-👜	accessoar handväska väska
-🍎	äpple frukt hälsa mat moget nyttigt rött sunt
-🍜	nudelsoppa nudlar rykande skål soppa
-🐓	fågel tupp
-🪑	säte sitta stol
-🧠	hjärna klok
-📘	blå bok
-🛬	ankomst med flyg som landar resa
-🍘	kex ris riskaka
-🦚	fågel påfågel praktfull stolt
-🎆	firande fyrverkerier högtid
-🫌	förändring insekt larv metamorfos skör
-🤯	chockad exploderande huvud
-🟩	grön kvadrat
-🈲	förbjudet ideogram för förbud japansk ”förbjudet”-knapp
-😈	ansikte djävul elak horn leende lila
-💗	hjärta känslor kärlek nervös puls upprymd växande
-🔼	triangel uppåtknapp uppåtpekande liten
-🎈	ballong fest
-🦀	krabba kräfta skaldjur stjärntecken
-🩸	bloddroppe blodsdroppe ge blod medicin menstruation
-📄	dokument sida med text uppåt
-🐋	djur val
-🍌	banan frukt
-🤕	aj ansikte bandage huvud skadad
-👡	damsandal högklackad sandal sko
-🏤	byggnad europeiskt postkontor
-🏓	bordtennis bordtennisracket med pingisboll pingis pingpong sport
-🧁	bakelse bakverk muffin
-🌲	barrträd gran träd vintergrön
-🎂	fest födelsedag födelsedagstårta fördelsedagstårta grattis tårta med ljus på
-💋	kärlek kyssmärke läppar läppavtryck
-🤔	ansikte funderar fundersamt tänker undrar
-⛳	flagga i hål golf golfflagga
-🧫	bakterie biolog biologi labb petriskål
-🥠	lyckokaka profetia
-👐	hand händer jazzhänder öppna
-😃	ansikte flina glad kul leende mun ögon öppen roligt skratt stora tänder
-👅	kropp tunga
-🤨	ansikte höjt ögonbryn skeptisk tveksam
-🎌	fest flaggor japanska korsade
-💫	omtumlad serietidning stjärna stjärnfall yr
-🤹	balans färdighet jonglera jonglering multitasking person som jonglerar
-📠	fax kommunikation
-🚪	dörr
-🥹	ansikte glädjetårar gråter känslosam ledsen ögon stolt tårar tårfyllda
-🌖	måne i tredje kvarteret rymden tilltagande
-🙏	be beende händer ber knäppta
-🧑‍🎤	artist rockstjärna sångare underhållare vokalist
-🪥	borste ren tandborste tänder tandhygien tvätta
-🏄	hav person som surfar strand surfare surfing surfning
-👩‍🔬	kemi kvinna kvinnlig forskare laboratorium vetenskap
-🤺	fäktare fäktning person som fäktas sport svärd
-🎠	häst karusell karusellhäst
-🈳	ideogram för ledig japansk ”lediga rum”-knapp lediga rum
-🔥	brinner eld flamma
-🪿	and anka dum fä fågel fånig flock gås kackel rolig
-🍨	efterrätt glass
-🕓	04.00 16.00 fyra klocka som visar klockan
-🔯	sexuddig stjärna med prick spådom
-📉	diagram graf nedåtgående trend
-🐀	djur råtta
-👟	gympasko sko sneaker
-📯	posthorn postsymbol
-😅	ansikte droppe glad jobbigt leende nervös stress svett trött
-🦛	flodhäst hovdjur
-🌛	ansikte gubben i månen halvmåne månansikte måne tilltagande med
-👔	kläder skjorta med slips
-🧡	hjärta orange
-❔	fråga frågetecken vitt
-🐺	djur varg vargansikte
-🪹	rede ruva tomt bo
-🤴	prins
-🌘	avtagande måne kvartsmåne i fjärde kvarteret månskära
-🩺	doktor hjärta medicin stetoskop
-🍣	sushi
-🍢	skaldjur skaldjursspett spett
-🦐	liten mat räka skaldjur
-🫺	där dit grepp peka
-🍮	brylépudding efterrätt
-🥐	bröd croissant fransk mat
-🔖	bokmärke märke
-🥟	degknyte dumpling empanada gyōza jiaozi pirog
-🎭	ansiktsmasker dans och teater masker
-🈚	gratis ideogram för japansk ”gratis”-knapp
-🚋	fordon spårvagn spårvagnsvagn
-🚦	lodräta trafikljus
-😒	ansikte less missnöjd sur
-🔹	blå diamant liten diamantform romb
-🪴	inomhus krukväxt odla växt
-🧰	låda mekaniker verktyg verktygslåda
-🦃	fågel kalkon
-🍄	flugsvamp svamp växt
-🟤	brun cirkel
-🫱	hälsa hand som pekar till höger handslag hej skaka
-🧟	levande död odöd vandöd zombie
-👨‍🎤	artist kändis konsert man manlig sångare stjärna
-🫩	ansikte rödögd sent sömnig trött utmattad
-🤗	ansikte glad hej kram leende vinkar
-⏩	framåt framåtspolningsknapp knapp för snabbspola
-🕜	01.30 13.30 halv två klocka som visar
-📈	diagram graf uppåtgående trend
-🦆	and fågel
-🤼	brottande personer brottare brottning person sport
-🎶	musik musiknoter not noter
-🦁	djur lejon lejonansikte
-🤏	liten mängd nypande hand
-🪄	häxa magi trollkarl trollkonst trollspö trollstav
-🆖	inte bra bra-symbol ng-knapp symbol
-😙	ansikte glad godnatt leende ögon puss
-🙍	missnöjd person sur kvinna uppsyn
-🚂	ånglok fordon lok lokomotiv tåg
-👰	bröllop brud med slöja brudslöja person i
-🚭	rökning förbjuden förbjudet symbol
-😨	ansikte rädd skräckinjagat skrämd
-🎼	g-klav musik noter
-🤦	ansikte frustration handflata irritation person som slår sig för pannan slå
-📞	kommunikation telefon telefonlur
-🚎	buss fordon trådbuss
-🔢	nummer siffror
-🪣	ämbar hink kärl spann
-😾	katt sur tjura tjurig
-🥢	ätpinnar
-🏑	landhockey landhockeyklubba och boll sport
-🎢	berg- och dalbana karusell nöjespark
-🐭	djur mus musansikte
-😧	åh nej ångest ansikte lider olycklig plågat rädd
-🐷	djur gris grisansikte
-🫣	ansikte blyg fängslad försiktig kikar öga rädd tjuvkikar
-🍈	cantaloupe frukt melon nätmelon
-🤛	näve vänster vänstervänd
-🙋	fråga jag vet kvinna som räcker upp handen person
-🚲	cykel fordon
-🍑	frukt persika
-🌍	afrika europa europa-afrika jorden jordglob världen visar
-👬	håller hand människor par två män
-🐗	djur svin vildsvin
-🤎	brunt hjärta
-🚃	fordon järnväg tåg tågvagn
-🎤	karaoke mikrofon sjunga
-👿	ansikte arg djävul horn
-📡	antenn kommunikation satellit tv-satellit tv-satellitantenn
-🫨	ansikte chock förvirring galet jordbävning överraskad panik shock skakande vibrera
-🤜	höger högervänd näve
-🌰	kastanj växt
-🐨	australien djur koala koala-ansikte koalabjörn pungdjur
-📚	böcker bok
-🌿	blad ört
-♍	jungfrun stjärntecken
-📂	mapp öppen öppet arkiv
-🔠	abc alfabet stora bokstäver versaler
-🔗	länk länkar länksymbol två ringar
-🔱	hav treudd
-🥒	grönsak gurka mat
-⏪	dubbla vänsterpilar knapp för snabbspola tillbaka pilar
-🥁	musik trumma med trumpinnar
-📅	datum kalender
-👨‍🦼	man i permobil rullstol
-🍚	kokt ris
-🐆	djur leopard
-☔	accessoar paraply med regndroppar regn väder
-🍼	dryck flaska mjölk nappflaska
-🎳	bowling bowlingklot och käglor klot
-🪭	blyg dans fläkt fläktar flört hett solfjäder svalka
-🍉	frukt melon vattenmelon vattenmelonskiva
-🎄	gran högtid jul julgran
-🔲	fyrkant knapp svart fyrkantig vit med kant
-🧑‍🌾	bonde jordbrukare lantbrukare
-🚩	flagga trekantig röd
-🦓	ränder zebra
-🍗	kyckling kycklinglår lår
-🥮	festival höst månfest månkaka
-🏪	affär butik som har öppet dygnet runt byggnad jourbutik
-🍓	bär frukt jordgubbe
-🤚	hand höjd handrygg lyft
-📩	e-post kuvert med pil mejl skickat utgående
-📓	anteckningsbok skrivbok
-👥	figurer i silhuett människor
-📊	diagram stapeldiagram staplar
-🗽	frihet frihetsgudinnan new york ny nyc staty
-🕒	03.00 15.00 klocka som visar tre klockan
-🪋	apokalyps eldkula faller gravitation rymden
-👓	accessoarer brillor glasögon ögon
-🚰	drickbart vatten dricksvatten symbol
-🎽	löparlinne löpartröja löpning träningskläder
-😴	ansikte gäsp sängdags snarkar sömnig sover trött zzz
-🎦	bio bioskylt film
-🥏	frisbee ultimate
-🦡	grävling honungsgrävling plåga
-🎨	färger färgpalett konst palett
-🍖	kött köttben på ben
-🔍	förstoringsglas som lutar åt vänster vänsterpekande
-🌹	blomma ros
-👩‍🚀	astronaut kvinna kvinnlig raket rymden
-🐚	djur snäcka snäckskal
-🎰	enarmad bandit spel spelautomat spelmaskin
-🕺	dans dansande man
-🔡	gemener små bokstäver
-👩‍🦯	blind blindkäpp kvinna med vit käpp
-🕍	judisk religion synagoga tempel
-🛁	bad badkar
-💘	amors hjärta kärlek pil
-🥍	boll klubba lacrosse mål
-🧑‍🔧	elektriker mekaniker rörmontör
-😍	älskar ansikte gullig hjärta kärlek leende ögon söt
-🆑	cl-symbol redo rensa-symbol renssymbol
-🧃	dryckesförpackning dryckeskartong
-👒	damhatt hatt
-♌	lejonet stjärntecken
-🌞	ansikte sol med
-🍆	äggplanta aubergine grönsak
-😊	ansikte glad kinder leende ler nöjd ögon rosiga
-🫸	blockera hand som knuffar åt höger high five neka pausa stanna stopp till trycka vänta
-💲	dollar dollartecken pengar
-🦍	djur gorilla
-🌈	regn regnbåge väder
-🙂	ansikte glad leende ler litet nöjd
-🧭	kompass magnetisk navigation orientering
-👞	herrsko sko skor
-🩳	badbyxor badkläder badshorts shorts underkläder
-🧑‍🚀	astronaut kosmonaut
-🕚	11.00 23.00 elva klocka som visar klockan
-😵	ansikte död knockad kryss ögon omtumlad yr
-📿	bön halsband radband religion
-🤓	ansikte expert glad glasögon intelligent nörd smart
-🪀	jojare jojo snöre trissa
-🏫	byggnad skola skolbyggnad
-🍹	alkohol bar cocktail drink drinkar festa full mai tai nattklubb party supa tropisk
-🕝	02.30 14.30 halv tre klocka som visar
-🕠	05.30 17.30 halv sex klocka som visar
-📟	kommunikation personsökare
-🎵	musik musiknot not
-👙	badkläder bikini kläder
-🩲	badbyxor badkläder badshorts simutrustning
-🤑	ansikte dollarögon girig pengamun pengar tjäna
-🚛	fordon lastbil
-🥘	mat paella stekpanna
-😘	älskar ansikte hjärta puss slängkyss
-🛺	motordriven rickshaw riksha tuk-tuk
-👱	blond man person människor
-🛂	kontroll pass passkontroll
-🪓	hacka hugga klyva ved yxa
-🫝	cornichon inlagd picklad primör
-🔞	åldersgräns barnförbjuden ej för minderåriga förbjudet
-🤝	avtal hand handskakning möte
-📒	liggare skrivbok
-🚥	trafikljus vågräta
-🔊	högtalare med hög volym
-🐴	djur häst hästansikte
-😕	ansikte förbryllad inte ledsen vad vet
-🫑	grönsak paprika
-🫄	gravid person stor mage uppsvälld
-🪐	planet med ringar saturnine saturnus
-🏅	medalj sport sportmedalj
-🏯	japanskt slott
-🌊	havsvåg våg
-💿	bluray-skiva cd-skiva dvd-skiva optisk skiva
-🪦	begravningsplats grav gravplats gravsten minneslund
-⚾	baseboll sport
-👈	peka åt vänster pekfinger vänsterpekande finger
-🦒	giraff prickar
-🌗	avtagande halvmåne måne
-🚸	barn passerande passerar symbol
-🤳	arm som tar en selfie med telefon kamera
-🏀	basket basketboll boll
-🚏	buss busshållplats hållplats
-🥷	gömd hemlig lönnmördare ninja
-⚽	boll fotboll sport
-🚖	fordon mötande taxi framifrån
-👂	kropp öra
-👝	accessoar clutch kuvertväska
-📵	inga mobiler samtal mobil förbjuden
-🐳	djur val som sprutar vatten
-😯	ansikte gapar hyssjad överraskad stum
-🍫	choklad chokladbit chokladkaka godis
-🌋	vulkan vulkanutbrott
-🧝	alv magisk mystisk
-💛	gult hjärta
-👨‍💻	data it man manlig it-expert teknologi
-🐃	djur vattenbuffel
-🧆	falafel kikärter köttbulle
-💎	ädelsten diamant juvel kärlek
-🧑‍🚒	brandbil brandman
-📷	kamera video
-⛪	byggnad kristen kyrka
-🚵	cykel cykla cyklist mountainbikeåkare person som cyklar på en mountainbike
-🐟	fisk fiskarna stjärntecken
-🤥	ansikte ljugande ljuger lögn näsa pinocchio växer
-😛	ansikte blä räcker ut tunga
-🦵	ben lem sparka
-🪒	raka rakhyvel vass
-💈	barberare barberarstolpe frisör stolpe
-📹	kamera video videokamera
-🛵	motor skoter
-💸	flygande sedlar pengar med vingar
-🔦	ficklampa lampa
 🧑‍🧑‍🧒‍🧒	barn familj vuxen
-🚳	cyklar förbjudna förbud mot trafik med cykel fordon inte tillåtet att cykla
-🪵	stock stubbe timmerstock trä trästock trästockar ved
-😂	ansikte gapskratt glädjetårar gråt jätteroligt skratt tårar
-🐦	djur fågel fågelansikte
-🔩	mutter skruv och
-🤠	ansikte cowboy cowboyhatt cowgirl hatt
-🔉	högtalare med medium volym
-💇	frisör frisyr hårklippning kvinna som får håret klippt person skönhet
-🧓	äldre person gammal könsneutral vuxen
-👼	ängel bebisängel saga
-🪠	rörmokare sugkopp toalett vaskrensare
-👨‍💼	chef kontor kontorstjänsteman man näringsliv
-🔃	pilar medurs uppdateringssymbol vertikala
-🦦	fiskar lekfull utter
-🗻	berg fuji
-🐖	gris so sugga
-🧲	hästsko magnet magnetisk
-🚻	toalett wc wc-skylt
-💤	snarkar sömnig sover trött uttråkad zzz
-🔌	elkontakt kontakt
-🏺	amfora kruka krus
-📻	radio video
-🧑‍🦯	hjälpmedel person med vit käpp synskadad
-🪗	ackordeon dragharmonika dragspel
-🍱	bento bentolåda låda
-🔘	alternativknapp knapp vit rund med svart kant
-🕙	10.00 22.00 klocka som visar tio klockan
-👻	ansikte saga spöke
-🧉	dryck mate-te
-🫀	hjärta kardiologi organ puls
-🦭	säl sjölejon
-👨‍🔬	kemi laboratorium man manlig forskare vetenskap vetenskapsman
-🐫	kamel puckel pucklar
-♉	oxen stjärntecken
-👨‍🍳	man manlig kock matlagning restaurang
-🚢	båt fartyg fordon
-🥽	ögonskydd simglasögon simma svetsning
-🚟	fordon hängbana
-🔶	diamant orange stor diamantform
-🪡	broderi nål skräddarsy stygn synål
-⛺	camping tält
-🙁	ansikte besviken mun sur
-👾	monster rymdvarelse saga ufo utomjording utomjordiskt
-💷	pengar pund pundsedel sedel
-🏉	boll rugby rugbyboll sport
-❓	fråga frågetecken interpunktion rött tecken
-👩‍🎨	kvinna kvinnlig konstnär målare palett
-🐇	djur kanin
-🌾	planta ris risax risplanta
-🛷	kälke släde
-🌀	cyklon tromb tyfon väder vind
-🦴	benknota skelett
-👨	man vuxen
-💥	explosion kollision serietidning smäll
-🗿	påskön staty
-⛵	båt segelbåt segling
-🫵	du finger som pekar mot tittaren på mig peka
-🏰	europeiskt slott
-🐞	djur insekt nyckelpiga skalbagge
-🚆	fordon järnväg tåg
-🐕‍🦺	hjälp hund service servicehund tillgång
-🐮	djur ko koansikte
-🏮	lykta restaurang röd papperslykta
-😥	ansikte besviken lättad nära ögat
-🧤	hand handske
-🐰	djur kanin kaninansikte
-🏨	byggnad hotell
-🍕	bit pizza pizzabit slice
-📗	bok grön
-🎇	fyrverkerier glittrande fyrverkeri högtid
-🪳	insekt kackerlacka skadedjur
-⚡	fara hög spänning högspänning varningssymbol
-⏬	dubbla nedåtpilar
-🍻	glas öl skål skålande ölglas ölstop
-🚺	damtoalett kvinnor symbol för toalett
-👚	blus damkläder kläder
-🧳	bagage packning resa resväska
-♐	skytten stjärntecken
-🚤	båt fordon racerbåt
-📝	anteckningar kom ihåg-block
-🪨	berg bumling klippa sten
-🍅	grönsak tomat
-📁	arkiv arkivmapp mapp
-🎁	fest födelsedag gåva inslagen julklapp överraskning paket present
-🧑	könsneutral person vuxen
-🚒	brandbil fordon
-👷	arbetare byggarbetare hatt
-🔤	abc alfabet bokstäver
-🚞	bergbana bergsbana bergståg järnväg
-🌐	jordglob med meridianer
-😸	flin glad grin kattansikte leende ögon tänder
-🫡	ajaj kapten ansikte hälsa honnör instämma ja lycka till ok salutera
-🟰	fetstilt likamedtecken likhet matte
-🚬	cigarett rökning tillåtet rykande symbol
-🆒	cool cool-knapp
-🍺	glas öl ölglas ölstop stop
-🪏	begrava gräva hål plantera scoop skopa skyffel trädgård
-🐂	oxe oxen stjärntecken tjur
-🤙	hand ring mig-hand
-♓	fiskarna stjärntecken
-👵	äldre kvinna gammal vuxen
-🐧	fågel pingvin pingvinansikte
-❎	kryss vitt i ruta x
-🟫	brun kvadrat
-🥩	fläskkotlett lammkotlett stek styckdel
-🦾	bionisk arm mekanisk protes
-🎣	fisk fiska fiskespö och spö
-😌	ansikte lättat lättnad lugn
-🫷	hand som knuffar åt vänster high five neka stanna stopp till trycka vänta
-🐝	bi djur geting insekt
-🌻	blomma solros
-✨	gnistrande stjärnor gnistrar
-🚽	toalett toalettstol
-🥑	avokado frukt mat
-👛	accessoar portmonnä
-🌮	fredagsmys mat mexikanskt taco
-📋	clipboard skrivplatta urklipp
-🦊	ansikte djur räv rävansikte
-⚫	cirkel geometrisk svart
-♒	stjärntecken vattumannen
-🐈‍⬛	djur halloween katt mjau otur skrock svart
-🩵	cyan himmelsblå hjärta känsla kärlek ljusblå
-📤	kommunikation skickat utkorg
-🐐	get stenbock stjärntecken
-🧂	krydda salt saltkar saltströare
-🎯	bullseye fullträff mitt i prick pilkastning piltavla med pil rakt på mål
-🐻	björn björnansikte djur
-🔨	hammare verktyg
-🚣	båt person som ror en roddbåt
-👕	kläder t-shirt tröja
-🐼	djur panda pandaansikte
-👃	kropp näsa
-📭	öppen brevlåda med sänkt flagga post
-🚁	fordon helikopter
-🛻	lastbil pickup transportvagn varubil
-🕤	09.30 21.30 halv tio klocka som visar
-🫅	ädling kung kunglighet monark person med krona
-🧑‍🦽	person i manuell rullstol tillträde
-🌱	grodd skott växtskott
-😪	ansikte gråtande sömnig trött
-🧒	barn könsneutral leende ung
-🦤	dront mauritius stor utrotad
-👢	damstövel sko stövel
-📬	öppen brevlåda med hissad flagga post
-🚼	bebis bebissymbol skötrum
-🚑	ambulans fordon
-😞	ansikte besviken misslyckades nedslagen
-🍸	cocktail cocktailglas drink
-🥵	ansikte febrig hett överhettad rött svett värmeslag varmt
-🫔	mexikanskt tamale wrap
-👹	ansikte demon japansk monster saga
-😬	ansikte biter ihop grimaserar tänder
-🤶	jul mor nisse tomtemor
-🎓	examen examenshatt hatt högtid
-👩‍🎓	kvinna kvinnlig student studerande
-🛖	hydda kåta koja
-🎬	film filmklappa klappa
-🤘	djävulstecken djävulstecknet hand hårdrock horn rock rocka loss
-🕣	08.30 20.30 halv nio klocka som visar
-🤫	ansikte hemlighet hyssjar tyst
-🔭	kikare stjärnkikare teleskop
-🌸	blomma körsbär körsbärsblomma
-🥻	kläder klänning sari
-🎷	musik musikinstrument saxofon
-😺	flinande glad katt leende
-😫	ansikte inte ledsen less orkar trött
-😀	ansikte glad kul leende roligt skratt
-💭	bubbla funderar tankebubbla
-🦼	eldriven rullstol tillgänglighet
-👩‍💼	chef kontor kontorstjänstekvinna kvinna näringsliv
-♿	rullstol rullstolssymbol symbol tillgänglighet
-🥄	bestick sked
-🧽	mjuk rengörande tvättsvamp
-💵	dollar dollarsedel pengar sedel
-🐹	djur hamster hamsteransikte
-💾	dator diskett
-🌔	halvmåne till fullmåne måne i andra kvarteret tilltagande
-🥫	burk konserv konservburk
-💴	pengar sedel yen yensedel
-🦧	apa orangutang
-🍶	dryck flaska och kopp med saké sake
-⚪	cirkel geometrisk vit
-🆙	up up!-knapp upp!-knapp
-😎	ansikte chillar cool koppla av leende solglasögon
-📐	linjal rätvinklig triangel
-🫧	bubblor lödder rap rent såpbubblor tvål under vatten
-💕	hjärtan känslor kärlek två
-😗	ansikte plutar puss
-🫤	ansikte besviken diagonal förvirrad mun osäker skeptisk tveksam
-💬	bubbla dialogbubbla pratbubbla
-🛘	berg fallande fara ras stenar
-🚚	budbil fordon skåpbil
-🔚	end med högerpil framåt slut
-💺	flygstol stol
-🎉	fest konfettismällare partypopper serpentiner
-🤲	bön handflatorna upp
-😔	ansikte funderande funderar ledsen sörjer tänker
-👋	är du där hallå hand hej vinka vinkande vinkning
-🎊	boll fest konfetti konfettiboll
-💼	portfölj väska
-🥬	bok choy grönkål kål sallad salladsblad sallat
-🈸	användning ideogram för tillämpa japansk ”användning”-knapp
-🚱	ej dricksvatten odrickbart vatten symbol
-🐄	djur ko kossa
-⬜	geometrisk ruta stor vit
-😝	äckligt ansikte kniper ihop ögon räcker ut tunga
-😓	ansikte kallsvettig nedslagen nervös rädd svettig
-🩼	funktionsnedsättning handikapp käpp krycka mobilitetshjälpmedel skadad
-🙀	chockad förvånad kattansikte överraskad rädd uttröttad
-🧯	brandsläckare eld kväva släcka
-🦖	t-rex tyrannosaurus rex
-🧑‍🧒	barn familj vuxen
-🐒	apa djur
-🥴	ansikte full mun ostadig på örat påverkad vågig yr
-🧅	gul lök smaksättning
-🍙	ris risboll risportion
-👨‍🚒	brandbil brandman brandväsendet man manlig
-🪈	band blockflöjt flöjt flöjtist instrument musik orkester panflöjt pickolaflöjt träblås
-🏏	cricket cricketslagträ och boll sport
-👴	äldre man gammal vuxen
-🦝	nyfiken slug tvättbjörn
-🎲	spel speltärning tärning
-🚡	funifor gondolbana kabinbana linbana
-😑	ansikte ingen kommentar uttryckslöst
-🥶	ansikte blått frostbiten frusen istappar kall minus snö
-🚿	dusch vatten
-🖕	finger hand långfinger upp
-🫆	fingeravtryck identitet kriminalteknik säkerhet
-🧑‍🍳	kock köksmästare
-🫠	ansikte flytande försvinner smälter upplöses varmt
-🐑	får tacka
-🕐	01.00 13.00 ett klocka som visar klockan
-🔑	lösenord nyckel
-🚕	fordon taxi
-🎹	klaviatur musik musikinstrument piano
-🦮	blindhund hjälp hund ledarhund service
-📃	dokument upprullad sida
-👨‍🔧	bil elektriker man manlig mekaniker motor rörmokare
-😄	ansikte blundar flina glad kul leende lol ögon roligt skratt
-🥲	ansikte berörd lättad leende smiley stolt tacksam tår tårögt
-🫥	ansikte deprimerad försvinner gömd introvert osynlig
-🥤	juice läskedryck mugg med sugrör
-🥃	brännvin glas shot sprit whisky whiskyglas
-🗼	tokyo tower torn i
-🙄	ansikte himlar ögon osäker
-🦥	långsam lat sengångare
-🧞	ande anden i flaskan djinn
-🤪	ansikte liten öga skojar stor tokigt tunga
-👩‍🍳	kvinna kvinnlig kock matlaging restaurang
-🫘	bönor kidneybönor mat små
-🥇	guld guldmedalj medalj segrare
-🐘	djur elefant
-🔻	nedåtpekande röd triangel
-🎡	karusell nöjespark pariserhjul
-🕢	07.30 19.30 halv åtta klocka som visar
-💪	muskler spänd biceps stark
-🎒	ryggsäck skolväska väska
-😢	ansikte gråter ledsen saknar sorgligt tårar
-👨‍🦯	blind blindkäpp man med vit käpp
-🫪	chockad förstoppad orolig överraskad panik rädd vettskrämd
-🔕	inget ljud ljudlös överstruken ringklocka
-📢	handhögtalare kommunikation
-🦟	insekt malaria mygga sjukdom virus
-🎅	högtid jul jultomte tomten
-❕	kommatering utropstecken vitt
-🤽	person som spelar vattenpolo polo sport
-🗾	japan karta över
-🔆	hög ljus ljusstyrka
-🤣	ansikte gapskratt golv gråter jätteroligt rullar skratt tårar
-🦅	fågel örn
-🧶	garn garnnystan sticka virka
-🍇	frukt vindruvor
-🌯	burrito fredagsmys mat mexikanskt
-🌎	jorden jordglob nord- och sydamerika nordamerika världen visar
-🀄	drake mahjong-bricka röd spelbricka
-🦣	betar mammut stor utrotad
-🥝	frukt kiwi kiwifrukt mat
-😻	älskar hjärtan kärlek kattansikte leende ögon
-🎸	elgitarr gitarr musik musikinstrument
-⏫	dubbla uppåtpilar
-🏩	byggnad hotell med hjärta kärlek kärlekshotell
-🥓	bacon kött mat
-➗	÷ dividera division divisionstecken matte tecken
-🐦‍🔥	eldfågel fantasy fenix förnyelse pånyttfödelse reinkarnation
-🔁	medurs pil repeat upprepning
-👪	barn familj mamma människor pappa
-🤍	hjärta vitt
-🪃	australien boomerang bumerang flyga tillbaka
-🔧	skiftnyckel verktyg
-🐶	djur hund hundansikte
-🦌	djur hjort
-🎋	fest japansk festival pappersremsor tanabataträd träd med
-🕌	islam moské muslim religion
-📔	anteckningsbok med dekorativt omslag snyggt skrivbok
-🕗	08.00 20.00 åtta klocka som visar klockan
-🐲	djur drakansikte drake
-👊	knuten hand knytnäve
-🫙	behållare burk förvaring krydda sås tom
-🚇	fordon metro tunnelbana
-🧏	döv hörsel hörselskadad person öra tillgänglighet
-🤐	ansikte dragkedja håller hemlighet mun tiger tyst
-👩	kvinna vuxen
-🍡	dango efterrätt japan
-📧	brev e-post e-postsymbol kommunikation mail mejl
-🛜	bredband hotspot internet internetdelning nätverk router surfpunkt surfzon trådlös trådlöst wi‑fi wlan
-🐊	djur krokodil
-📌	kartnål stift
-🕕	06.00 18.00 klocka som visar sex klockan
-⛲	fontän springbrunn
-🔫	leksakspistol pistol revolver vapen vattenpistol
-🍐	frukt päron
-⚓	ankare hopp
-🪆	babuschkadocka matrjosjka rysk docka ryska dockor
-📦	låda paket
-🧧	hóngbāo lai see pengar present rött kuvert tur
-🪽	änglalik fågel flyga flyger himmelsk mytologi stiga vinge
-🎪	cirkus cirkustält tält
-😏	ansikte flin halvleende småleende
-🛄	bagage bagagehämtning
-♑	stenbocken stjärntecken
-🧑‍💼	affärsman ämbetsman arkitekt kontorist tjänsteman
-🐁	djur mus
-🐌	djur snigel
-👩‍🌾	bonde jordbruk kvinna kvinnlig trädgårdsmästare
-🕑	02.00 14.00 klocka som visar två klockan
-🎀	fest rosett
-📪	post stängd brevlåda med sänkt flagga
-🎮	kontroll spel tv-spel tv-spelskontroll
-🔴	cirkel geometrisk röd
-🦞	fisksoppa hummer klor skaldjur
-🛐	plats för tillbedjan religion tempel
-🛹	bräda skateboard
-👩‍🏭	fabrik industri kvinna kvinnlig fabriksarbetare produktion
-🙅	förbjudet gest för nej icke kvinna som gestikulerar person
-🏧	bankomat bankomatskylt pengar uttagsautomat
-🧢	basebollkeps keps skärmmössa
-🫎	alces älg älghorn däggdjur djur hjortdjur horn
-💁	hand information kvinna som vinkar med handen människor reception receptionist sarkastisk skvaller
-🈶	ideogram för finns inte gratis japansk ”inte gratis”-knapp
-🌺	blomma hibiskus hibiskusblomma
-🤬	ansikte arg förbannad mun svär svordomar symboler
-🤢	äcklad ansikte kasta upp kräks mår illa spy
-💃	dans dansande kvinna människor
-🦋	fjäril insekt sommar vacker
-🐥	fågel kyckling framifrån
-🚫	förbjudet förbudsmarkering
-💞	hjärtan känslor kärlek snurrar två
-🥖	baguette bröd fransk mat
-🉑	godtagbart ideogram för godkänna japansk ”godtagbart”-knapp
-🚓	fordon polis polisbil
-🧑‍🔬	biolog forskare fysiker kemist vetenskapsman
-🔒	lås låst stängt
-🐦‍⬛	djur fågel koltrast korp kråka kraxa näbb råka svart
-😐	ansikte ingen kommentar neutralt
-🪘	congatrumma djembe rytm takt trumma
-🎩	hatt hög
-👩‍🎤	artist kändis konsert kvinna kvinnlig sångare stjärna
-🦄	djur enhörning enhörningsansikte
-🐠	djur fisk tropisk
-🥥	halv kokosnöt palm piña colada
-🧣	hals halsduk scarf
-🎿	skidor och pjäxa stavar
-🌆	byggnader kväll skymning solnedgång stad i stadsvy
-🧐	ansikte gammaldags monokel torr
-😭	ansikte bölar gråter ledsen olycklig rinner storgråtande tårar
-😰	ansikte blått kallsvettig orolig panik rädd svettig
-💣	bomb serietidning
-🐪	dromedar puckel
-👨‍🎓	man manlig student studerande
-👇	finger nedåtpekande peka nedåt pekfinger
-🥉	brons bronsmedalj medalj tredje plats
-🚅	fordon höghastighetståg shinkansen tåg tgv
-🥳	ansikte fest födelsedag hatt kalas partyhatt tuta
-👳	man med turban person
-🎧	hörlur musik
-📨	e-post inkommande brev kommunikation kuvert mottaget
-⭐	stjärna vit medelstor
-🫃	gravid man proppmätt stor mage uppsvälld
-🌌	galax rymden vintergatan
-🧖	ångbastu bastu person i slappna av spa
-🚠	gondolbana kabinbana linbana skidlift
-🪙	guld mynt pengar silver skatt
-🌵	kaktus växt
-😲	ansikte chockad förvånad inte otroligt sant
-🙃	ansikte leende upp-och-ner
-🚶	fotgängare lunka man som går promenerar vandra
-👤	figur i silhuett människa
-🛶	båt kanot
-🌓	kvarts måne tilltagande halvmåne
-🌒	kvartsmåne måne i första kvarteret månskära tilltagande
-👽	alien rymdvarelse saga ufo utomjording
-🕡	06.30 18.30 halv sju klocka som visar
-🐡	blåsfisk djur fisk
-🛃	tull tullkontroll
-🥛	dryck glas mjölk mjölkglas
-🛟	flytetyg frälsarkrans livboj livräddning räddning säkerhet
-🫚	hälsa ingefära krydda kryddväxt öl ört rot
-🍋	citron citrusfrukt frukt
-🪶	fågel fågelfjäder fjäder fjäderdräkt lätt
-🫹	där dit grepp peka
-👲	hatt kinesisk man med
-🤰	gravid kvinna
-🧹	häxa kvast sopa städa
-💑	hjärta kärlek människor par med
-⛅	moln sol bakom med
-🩶	grå hjärta känsla kärlek silver skiffer
-🧨	dynamit fyrverkeri smällare sprängämne
-🏊	person som simmar simma simmare simning
-🕟	04.30 16.30 halv fem klocka som visar
-🩰	balett ballettskor dans
-📀	bluray-skiva dvd-skiva
-🏃	löpare löpning maraton person som löper springer
-🧜	näcken sjöjungfru sjörå vattenväsen
-🔽	nedåtknapp nedåtpekande liten triangel
-💻	bärbar dator kontor laptop pc
-🧋	bubbelte mjölk pärlor tapiokapärlor te
-🫏	åsna däggdjur djur envis mula mulåsna
-🪟	fönster genomskinlig öppning ram utsikt
-🐢	havssköldpadda padda sköldpadda
-😤	ånga ansikte arg näsan rasande seger triumf vansinnig
-👨‍🚀	astronaut man manlig raket rymden
-👩‍💻	data it kvinna kvinnlig it-expert teknologi
-🦠	amöba bakterie mikrob mikrober virus
-🥺	ansikte bönfallande hundögon ledsen nåd snälla tigga varför
-🤮	ansikte illamående kräks spyr
-❗	kommatering rött utropstecken
-🪼	bränner brännmanet hav manet nässeldjur ocean svida svider tentakler
-🎺	musik musikinstrument trumpet
-🟥	kvadrat röd
-😶	ansikte hemlighet mun stum tyst utan uttryckslös
-🧬	biolog dna evolution gen genetik liv
-😵‍💫	ansikte fara förvirrad fundersam hypnotiserad snurrig spiralögon yrsel
-📸	blixt kamera med
+🍾	bubbel champagne fest nyår nyar
+🉑	godtagbart ideogram för for godkänna godkanna japansk ”godtagbart”-knapp
 👩‍🔧	bil kvinna kvinnlig mekaniker motor
-💧	droppe kallsvettig svettdroppe svettig vattendroppe
-🪂	fallskärm fallskärmshopp hängflygning parasegling
-🎃	fest halloween lykta lyktgubbe pumpa pumplykta
-🫟	färg fläck holi stänk utspill
-💖	gnistrande hjärta känslor kärlek upprymd
-💜	hjärta lila
-🚀	fordon raket rymdraket
-🎑	japan månfest månskådning
-🍦	efterrätt glass mjukglass
-🥀	blomma torkad vissen vissnad
-😣	ansikte besviken huvudvärk misslyckades står ut uthålligt uthärdar
-📰	nyheter tidning
-🥊	boxning boxningshandske handske sport
-🧑‍🏫	instruktör lärare professor
-🔺	röd triangel uppåtpekande
-📺	television tv video
-🦬	bisonoxe buffalo hjord visent
-👸	prinsessa saga
-😋	ansikte dreglar god gott hungrig leende mat mums njuter smakar tunga
-👗	kläder klänning
-🦎	kräldjur ödla
-🫳	avvisa handflatan nedåt neka plocka upp schas släppa släppte
-🥎	boll handske softboll underarm
-💉	nål sjukvård spruta
-🪧	demonstration plakat protest skylt
-🌃	natt stjärnklar stjärnor
-📕	bok stängd
-😇	ansikte gloria leende
-🍃	blåser fladdrande höst löv i vinden vind
-🫒	mat oliv
-🔜	höger omw pil snart soon
-🧑‍🍼	amma barnskötare bebis förälder mata person ammar spädbarn matar
-🚍	buss fordon mötande
-🧄	smaksättning vitlök
-👯	kaninöron kvinna kvinnor med människor personer tjej
-🪤	bete fälla musfälla snara
-🥸	anonym ansikte förklädnad glasögon inkognito mask maskerat näsa
-🥅	mål målnät nät sport
-🍪	desert efterrätt kaka småbröd
-🔎	förstoringsglas höger som lutar åt högerpekande
-🩴	flip-flops remsko sandaler
-💢	arg ilska symbol
-🥙	falafel gyro kebab mat pita pitabröd
-🐈	djur katt
-📥	inkorg kommunikation mottaget
-🚮	slänga skräp soptunna symbol
-🟨	gul kvadrat
-🥼	doktor experiment labbrock vetenskapsman
-🧱	bruk lera tegelsten tegelstenar tegelstensvägg vägg
-🧈	mjölkprodukt smör
-💓	bankar bultande hjärta känslor kärlek puls slår
-🎏	fest japan karp karpvindstrut vindstrut
-♈	stjärntecken väduren
-🛌	hotell hotellnatt ligger i sängen person en säng sömn sömnig sova middag trött
-🦇	djur fladdermus vampyr
-🚐	buss fordon minibuss
-🐬	delfin djur
-🐅	djur tiger
-🌉	bro på natten natt
-🤌	fingerportmonnä fingrar förhör handgest nypa sarkastisk
-🛀	bad badar badkar person som
-👶	baby bebis liten ung
-🍁	höst lönnlöv löv
-🚜	fordon traktor
-💠	blomblad diamant diamantform med en prick känslor
-😚	ansikte blundar glad kinder puss rosiga
-👮	aina arrestera bötfälla farbror blå gripa konstapel lagen snut
-🍥	fisk fiskkaka snurrad
-🧌	fantasy monster saga sägen troll
-👠	högklackad sko klack pumps
-🧑‍🎄	jul jultomte könsneutral tomte
-👩‍🏫	instruktör kvinna kvinnlig lärare lärarinna professor
-🌴	palm träd
-🏭	byggnad fabrik
-🔷	blå diamant stor diamantform
-💡	elektrisk fått en idé glödlampa lampa
-🪾	kargt torka träd utan löv vinter
-🔙	back med vänsterpil bakåt tillbaka
-🫲	hand som pekar till vänster skaka
-💒	bröllop bröllopskapell kärlek kyrka
-🆔	id id-knapp id-symbol identitet
-🧑‍🩰	balett ballerina dansare
-🥪	bröd macka smörgås
-⌛	sand timglas utrunnet
-🔀	blanda låtar korsade pilar shuffle
-😦	ansikte bister mun oförstående ogillande öppen rädd vad
-🍄‍🟫	brun flugsvamp svamp brunsvamp grönsaker mat natur sopp trädgårdschampinjon tryffel
-🦫	bäver damm
-🥚	ägg mat
-🛑	åttakantig skylt stopp stoppskylt
-🎫	biljett inträde
-👺	ansikte japansk saga troll
-🤷	axelryckning likgiltighet okunskap person som rycker på axlarna tvivel
-🦏	djur horn näsa noshörning
-🍿	bio popcorn snacks
-☕	ångande dryck kaffe te varm
-📴	avstängd mobil av telefon
-👘	kimono kläder klänning
-🚈	anlänt balkbana enskensbana lättbana monorail spårväg spårvagn
-🧷	blöja punkrock säkerhetsnål
-🍔	burgare hamburgare
-🔸	diamant liten orange diamantform
-🎎	dockor festival japanska
-🧘	ben fokus frid korsade lotusposition meditation yoga
-🥾	camping pjäxor vandring vandringskänga
-🦙	alpaca guanaco lama ull vicuña
-🆚	kontra mot symbol vs vs-knapp
-🧦	sockor strumpa
-🛕	hindu hindutempel tempel
-💝	hjärta kärlek present rosa rosett
-🔂	medurs pil repeat upprepa en låt upprepning
-🌷	blomma tulpan
-🧑‍🧑‍🧒	barn familj vuxna
-🥰	älskar ansikte förtjust hjärtan kär leende romantik
-💍	diamant diamantring kärlek ring romantik
-🕖	07.00 19.00 klocka som visar halv sju klockan
-🚷	förbud mot gångtrafik inga fotgängare inte tillåtet att gå symbol
-🐾	djur tassar tassavtryck
-👨‍🎨	målare man manlig konstnär palett
-🍤	friterad räka tempura
-🦢	den fula ankungen fågel svan
-🔏	bläckpenna lås med
-⛄	snö snögubbe utan
-💀	dödskalle döskalle
-🏴	flagga svart
-👍	bra gillar ok okej tumme tummen upp
-🧑‍💻	ingenjör it-tekniker mjukvarutekniker uppfinnare utvecklare
-🪊	bleckblås instrument jazz musik sorgen
-🌭	korv mat varmkorv
-♎	balans rättvisa stjärntecken vågen
-🪇	instrument maracas musik skaka slaginstrument slagverk
-💂	grenadjär vakt
-🛸	flygande tefat ufo
-➰	kurva ögla slinga
-🎴	blomma japanskt spelkort med kort kortspel
-🦪	dyka ostron pärlor
-🪯	khalsa khanda religion sikh sikhism tro
-🛅	bagage bagageservice kvarlämnat
-🉐	fynd ideogram för bonus japansk ”fynd”-knapp
-🧑‍🏭	arbetare fabriksarbetare industri industriarbetare
-🔰	grönt och gult blad japansk symbol för nybörjare
-🫍	hav ocean val
-♊	stjärntecken tvillingarna
-🍒	frukt körsbär
-🦘	australien hoppa joey känguru pungdjur
-🦯	blind blindkäpp tillgänglighet
-🧼	bada duscha lödder skål tvål tvålbit
-🧿	amulett nazar onda ögat ögat-sten
-🎱	åttan biljard biljardboll med nummer 8
-🍭	godis klubba
-🥈	andra plats medalj silver silvermedalj
-🔬	mikroskop vetenskap
-🤞	finger hand korsa korsade fingrar lycka
-🍛	curry ris
-👌	hand instämmer javisst ok ok-tecken tecken
-👆	finger hand som pekar pekfingret uppåt peka pekfinger upp
-👉	högerpekande finger peka åt höger pekfinger
-🎍	bambu japanskt nyår pinjedekoration
-🧔	man med skägg person
-🦶	fot sparka stampa
-🈺	ideogram för öppet japansk ”öppet”-knapp
-🧮	beräkning kulram
-🏁	flagga flaggor mållinen racing schackrutig sport vinna
-🙈	apa håller för inget ögon ser
-🍠	mat rostad sötpotatis
-🕋	islam kaba muslim religion
-🫓	naanbröd pitabröd tunnbröd
-😠	ansikte arg ilsken upprörd
-🫶	älskar handhjärta kärlek
-🤖	ansikte robot
-◾	geometrisk medelstor svart ruta mellanliten
-🤤	ansikte dreglar
-🏹	båge bågskytt pil och pilbåge vapen
-💔	brustet hjärta känslor trasigt
+📱	mobil mobiltelefon telefon
+👩‍💼	chef kontor kontorstjänstekvinna kontorstjanstekvinna kvinna näringsliv naringsliv
+👽	alien rymdvarelse saga ufo utomjording
 🍍	ananas frukt
-🤱	amma amning baby bröst
-👨‍🍼	amma barnskötare fader far man matar spädbarn mata pappa
-👫	håller hand man och kvinna människor par
+😊	ansikte glad kinder leende ler nöjd nojd ögon ogon rosiga
+🛸	flygande tefat ufo
+♿	rullstol rullstolssymbol symbol tillgänglighet tillganglighet
+🪆	babuschkadocka matrjosjka rysk docka ryska dockor
+👈	peka åt at vänster vanster pekfinger vänsterpekande vansterpekande finger
+🐤	djur kyckling kycklingansikte
+🍬	godis karamell
+👨‍🍳	man manlig kock matlagning restaurang
+😣	ansikte besviken huvudvärk huvudvark misslyckades står star ut uthålligt uthalligt uthärdar uthardar
+🫯	bråk brak brottas fajt fajtas fight slagsmål slagsmal slåss slass våld vald
+🥂	dryck fira glas skål skal skålande skalande
+🤜	höger hoger högervänd hogervand näve nave
+🎽	löparlinne loparlinne löpartröja lopartroja löpning lopning träningskläder traningsklader
+🎎	dockor festival japanska
+📺	television tv video
+🌜	ansikte avtagande halvmåne halvmane med gubben i månen manen månansikte manansikte måne mane
+👀	öga oga ögon ogon
+🫖	dryck kanna te tekanna
+🦚	fågel fagel påfågel pafagel praktfull stolt
+🫧	bubblor lödder lodder rap rent såpbubblor sapbubblor tvål tval under vatten
+📑	bokmärken bokmarken bokmärkesflikar bokmarkesflikar flikar markörer markorer
+👡	damsandal högklackad hogklackad sandal sko
+💺	flygstol stol
+🍝	mat pasta spagetti
+🚿	dusch vatten
+🦜	fågel fagel papegoja pirat prata
+🪯	khalsa khanda religion sikh sikhism tro
+🏣	byggnad japanskt postkontor
+🏭	byggnad fabrik
+🤍	hjärta hjarta vitt
+🥢	ätpinnar atpinnar
+🏥	byggnad sjukhus
+🙈	apa håller haller för for inget ögon ogon ser
+🐱	djur katt kattansikte
+🪁	flyga flygande drake sväva svava
+🤖	ansikte robot
+🫄	gravid person stor mage uppsvälld uppsvalld
+🔑	lösenord losenord nyckel
+🤡	ansikte clown clownansikte pajas
+🫍	hav ocean val
+🐹	djur hamster hamsteransikte
+🥟	degknyte dumpling empanada gyōza gyoza jiaozi pirog
+🔪	kniv kökskniv kokskniv
+👙	badkläder badklader bikini kläder klader
+🚸	barn passerande passerar symbol
+◾	geometrisk medelstor svart ruta mellanliten
+🫎	alces älg alg älghorn alghorn däggdjur daggdjur djur hjortdjur horn
+🫳	avvisa handflatan nedåt nedat neka plocka upp schas släppa slappa släppte slappte
+🎵	musik musiknot not
+🚷	förbud forbud mot gångtrafik gangtrafik inga fotgängare fotgangare inte tillåtet tillatet att gå ga symbol
+🦫	bäver baver damm
+🦪	dyka ostron pärlor parlor
+🛌	hotell hotellnatt ligger i sängen sangen person en säng sang sömn somn sömnig somnig sova middag trött trott
+🎹	klaviatur musik musikinstrument piano
+🫩	ansikte rödögd rodogd sent sömnig somnig trött trott utmattad
+🥨	pretzel snurrad
+🦅	fågel fagel örn orn
+💐	blombukett blommor kärlek karlek
+👜	accessoar handväska handvaska väska vaska
+🈳	ideogram för for ledig japansk ”lediga rum”-knapp lediga rum
+🐟	fisk fiskarna stjärntecken stjarntecken
+🫁	andning exhalering inhalering lungor organ
+👨‍🎤	artist kändis kandis konsert man manlig sångare sangare stjärna stjarna
+🛖	hydda kåta kata koja
+🍀	fyrklöver fyrklover irland klöver klover lycka tur
+🪕	banjo musik sträng strang
+😌	ansikte lättat lattat lättnad lattnad lugn
+🐺	djur varg vargansikte
+🦣	betar mammut stor utrotad
+🦆	and fågel fagel
+🦢	den fula ankungen fågel fagel svan
+🛷	kälke kalke släde slade
+😍	älskar alskar ansikte gullig hjärta hjarta kärlek karlek leende ögon ogon söt sot
+🌓	kvarts måne mane tilltagande halvmåne halvmane
+🪣	ämbar ambar hink kärl karl spann
+👾	monster rymdvarelse saga ufo utomjording utomjordiskt
+🔔	klocka ljud ringklocka
+🩳	badbyxor badkläder badklader badshorts shorts underkläder underklader
+🖖	hand spock star trek vulcan vulcan-hälsning
+👯	kaninöron kaninoron kvinna kvinnor med människor manniskor personer tjej
+🥌	curlingsten spel sten
+🎺	musik musikinstrument trumpet
+🌑	måne mane nymåne nymane
+👆	finger hand som pekar pekfingret uppåt uppat peka pekfinger upp
+🧑‍🌾	bonde jordbrukare lantbrukare
+🥧	deg fyllnad paj
+📠	fax kommunikation
+😆	ansikte flinande hahaha jätteroligt jatteroligt kiknar leende mun ögon ogon öppen oppen roligt skratt stängda stangda
+🧣	hals halsduk scarf
+🐖	gris so sugga
+🛜	bredband hotspot internet internetdelning nätverk natverk router surfpunkt surfzon trådlös tradlos trådlöst tradlost wi‑fi wlan
+🍉	frukt melon vattenmelon vattenmelonskiva
+🪮	afro afrokam hår har kam
+💠	blomblad diamant diamantform med en prick känslor kanslor
+🛹	bräda brada skateboard
+📲	mobil mobiltelefon med pil ringa telefon
+🚳	cyklar förbjudna forbjudna förbud forbud mot trafik med cykel fordon inte tillåtet tillatet att cykla
+🤑	ansikte dollarögon dollarogon girig pengamun pengar tjäna tjana
+🚅	fordon höghastighetståg hoghastighetstag shinkansen tåg tag tgv
+📒	liggare skrivbok
+🧂	krydda salt saltkar saltströare saltstroare
+🫪	chockad förstoppad forstoppad orolig överraskad overraskad panik rädd radd vettskrämd vettskramd
+🧞	ande anden i flaskan djinn
+🍭	godis klubba
+🌳	lövfällande lovfallande lövträd lovtrad träd trad
+🚤	båt bat fordon racerbåt racerbat
+👵	äldre aldre kvinna gammal vuxen
+🐈‍⬛	djur halloween katt mjau otur skrock svart
+🚉	station tåg tag tågstation tagstation
+🚐	buss fordon minibuss
+❔	fråga fraga frågetecken fragetecken vitt
+🔐	lås las med nyckel stängt stangt
+👰	bröllop brollop brud med slöja sloja brudslöja brudsloja person i
+🧠	hjärna hjarna klok
+🔚	end med högerpil hogerpil framåt framat slut
+🥁	musik trumma med trumpinnar
+🛶	båt bat kanot
+😨	ansikte rädd radd skräckinjagat skrackinjagat skrämd skramd
+🥫	burk konserv konservburk
+🎈	ballong fest
+🤏	liten mängd mangd nypande hand
+🐕‍🦺	hjälp hjalp hund service servicehund tillgång tillgang
+🦑	bläck black bläckfisk blackfisk mat mindre skaldjur
+🍹	alkohol bar cocktail drink drinkar festa full mai tai nattklubb party supa tropisk
+🦂	skorpion skorpionen stjärntecken stjarntecken
+💴	pengar sedel yen yensedel
+🫹	där dar dit grepp peka
+➖	- − matte minus minustecken subtrahera tecken
+🚏	buss busshållplats busshallplats hållplats hallplats
+🎱	åttan attan biljard biljardboll med nummer 8
+🥡	hämtmatkartong hamtmatkartong takeout box
+🪳	insekt kackerlacka skadedjur
+🔜	höger hoger omw pil snart soon
+🏪	affär affar butik som har öppet oppet dygnet runt byggnad jourbutik
+🍊	citrusfrukt frukt mandarin
+👑	drottning krona kung kungakrona
+🕖	07.00 19.00 klocka som visar halv sju klockan
+💟	dekoration hjärta hjarta lila vitt
+🚱	ej dricksvatten odrickbart vatten symbol
+👣	avtryck fotavtryck fötter fotter
+🍅	grönsak gronsak tomat
+📰	nyheter tidning
+🟢	cirkel grön gron
+🚆	fordon järnväg jarnvag tåg tag
+⚪	cirkel geometrisk vit
+🪞	reflektor spegel spegelglas
+🐈	djur katt
+🦒	giraff prickar
+🌾	planta ris risax risplanta
+📎	gem
+🐎	djur galopp galopperande häst hast hästlopp hastlopp trav
+🪉	amor harpa instrument musik orkester romantik
+🎊	boll fest konfetti konfettiboll
+⏬	dubbla nedåtpilar nedatpilar
+🧳	bagage packning resa resväska resvaska
+🪱	daggmask mask parasit ringmask
+🍸	cocktail cocktailglas drink
+🏫	byggnad skola skolbyggnad
+🧑‍🦯	hjälpmedel hjalpmedel person med vit käpp kapp synskadad
+🫔	mexikanskt tamale wrap
+🥦	broccoli kål kal
+💂	grenadjär grenadjar vakt
+🧴	kräm kram lotion lotionflaska shampoo solkräm solkram
+🚙	bil fordon suv
+🫃	gravid man proppmätt proppmatt stor mage uppsvälld uppsvalld
+🔽	nedåtknapp nedatknapp nedåtpekande nedatpekande liten triangel
+🍱	bento bentolåda bentolada låda lada
+🏈	amerikansk fotboll boll sport
+🪻	blomma bluebonnet hyacint lavendel lila luktärter luktarter lupin purpur violblå violbla violett
+😧	åh ah nej ångest angest ansikte lider olycklig plågat plagat rädd radd
+🤔	ansikte funderar fundersamt tänker tanker undrar
+👩‍🍼	amma kvinna matar spädbarn spadbarn mata
+🛝	leka lekplats nöjesfält nojesfalt rutschbana
+👷	arbetare byggarbetare hatt
+🪒	raka rakhyvel vass
+🕔	05.00 17.00 fem klocka som visar klockan
+🪬	amulett fatima hamsa hand lycka maria miriam skydd
+🧻	pappershanddukar toalettpapper toarulle
+🕜	01.30 13.30 halv två tva klocka som visar
+🆕	new-knapp ny-knapp nyhet nyhetssymbol symbol
+🏆	pokal pris
+🐗	djur svin vildsvin
+📊	diagram stapeldiagram staplar
+🤒	ansikte feber sjuk termometer
+🫢	åh ah nej ansikte chockad förvånad forvanad generad hand mun ögon ogon överraskad overraskad överväldigad overvaldigad rädd radd stora
+🖕	finger hand långfinger langfinger upp
+💹	diagram stigande marknad med yen uppåtpekande uppatpekande
+🟤	brun cirkel
+👅	kropp tunga
+🪧	demonstration plakat protest skylt
+🧹	häxa haxa kvast sopa städa stada
+🐩	djur hund pudel
+🔥	brinner eld flamma
+💙	blått blatt hjärta hjarta
+🤳	arm som tar en selfie med telefon kamera
+👞	herrsko sko skor
+👥	figurer i silhuett människor manniskor
+🤸	gymnastik hjula person som hjular
+😓	ansikte kallsvettig nedslagen nervös nervos rädd radd svettig
+🐮	djur ko koansikte
+♋	kräftan kraftan stjärntecken stjarntecken
+👨‍🌾	bonde jordbruk man manlig trädgårdsmästare tradgardsmastare
+🤚	hand höjd hojd handrygg lyft
+🌊	havsvåg havsvag våg vag
+🪦	begravningsplats grav gravplats gravsten minneslund
+🚻	toalett wc wc-skylt
+👨‍🏫	instruktör instruktor lärare larare man manlig professor
+🔌	elkontakt kontakt
+🔤	abc alfabet bokstäver bokstaver
+👄	läppar lappar mun
+🙄	ansikte himlar ögon ogon osäker osaker
+🌐	jordglob med meridianer
+🐻	björn bjorn björnansikte bjornansikte djur
+👚	blus damkläder damklader kläder klader
+🔋	batteri
+🕛	00.00 24.00 klocka som visar tolv klockan
+💁	hand information kvinna som vinkar med handen människor manniskor reception receptionist sarkastisk skvaller
+🧮	beräkning berakning kulram
+🧪	experiment kemi kemist labb provrör provror vetenskap
+🏒	ishockey ishockeyklubba och puck klubba sport
+😀	ansikte glad kul leende roligt skratt
+🎭	ansiktsmasker dans och teater masker
+🐑	får far tacka
+🧇	våffeldagen vaffeldagen våffeljärn vaffeljarn våffla vaffla
+🍲	gryta mat varm
+🚁	fordon helikopter
+🧓	äldre aldre person gammal könsneutral konsneutral vuxen
+🫴	bjuda in erbjuda fånga fanga handflatan uppåt uppat kalla på pa sträcka stracka ut en hand
+⛳	flagga i hål hal golf golfflagga
+🥖	baguette bröd brod fransk mat
+🍛	curry ris
+🥜	grönsak gronsak jordnöt jordnot jordnötter jordnotter mat nöt not
+🍈	cantaloupe frukt melon nätmelon natmelon
+🤥	ansikte ljugande ljuger lögn logn näsa nasa pinocchio växer vaxer
+🤿	dyka dykmask snorkelmask snorkla
+😎	ansikte chillar cool koppla av leende solglasögon solglasogon
+💑	hjärta hjarta kärlek karlek människor manniskor par med
+🚖	fordon mötande motande taxi framifrån framifran
+🙏	be beende händer hander ber knäppta knappta
+🦔	igelkott taggig
+😬	ansikte biter ihop grimaserar tänder tander
+🏠	byggnad hus
+🗻	berg fuji
+🐕	djur hund valp
+🐥	fågel fagel kyckling framifrån framifran
+🦏	djur horn näsa nasa noshörning noshorning
+🧤	hand handske
+😹	glädjetårar gladjetarar gråter grater kattansikte roligt skrattar tårar tarar
+🥴	ansikte full mun ostadig på pa örat orat påverkad paverkad vågig vagig yr
+➰	kurva ögla ogla slinga
+🚄	fordon snabbtåg snabbtag tåg tag
+🐔	fågel fagel höna hona
+🤼	brottande personer brottare brottning person sport
+🍚	kokt ris
+🏯	japanskt slott
+🩲	badbyxor badkläder badklader badshorts simutrustning
+🦺	nöd nod säkerhet sakerhet varningsväst varningsvast varselväst varselvast väst vast
+🔹	blå bla diamant liten diamantform romb
+🔊	högtalare hogtalare med hög hog volym
+🫝	cornichon inlagd picklad primör primor
+🧑‍🔬	biolog forskare fysiker kemist vetenskapsman
+🕺	dans dansande man
+🧙	häxa haxa magiker trollkarl
+🥄	bestick sked
+🦃	fågel fagel kalkon
+🤵	bröllop brollop brudgum person i smoking
+💈	barberare barberarstolpe frisör frisor stolpe
+🌏	asien asien-australien australien jorden jordglob världen varlden visar
+🎿	skidor och pjäxa pjaxa stavar
+👩‍🔬	kemi kvinna kvinnlig forskare laboratorium vetenskap
+👨‍🏭	fabrik industri man manlig fabriksarbetare produktion
+🫛	ärta arta ärtskida artskida bönor bonor bönstjälk bonstjalk edamame grönsaker gronsaker sojaböna sojabona
+🔃	pilar medurs uppdateringssymbol vertikala
+🚡	funifor gondolbana kabinbana linbana
+🐧	fågel fagel pingvin pingvinansikte
+🚼	bebis bebissymbol skötrum skotrum
+💃	dans dansande kvinna människor manniskor
+👨‍🎓	man manlig student studerande
+🌍	afrika europa europa-afrika jorden jordglob världen varlden visar
+🏴	flagga svart
+🔵	blå bla cirkel geometrisk
+📡	antenn kommunikation satellit tv-satellit tv-satellitantenn
+📝	anteckningar kom ihåg-block
+🐯	djur tiger tigeransikte
+👦	kille pojke ung
+📤	kommunikation skickat utkorg
+🥃	brännvin brannvin glas shot sprit whisky whiskyglas
+🐢	havssköldpadda havsskoldpadda padda sköldpadda skoldpadda
+🎁	fest födelsedag fodelsedag gåva gava inslagen julklapp överraskning overraskning paket present
+👺	ansikte japansk saga troll
+🧑‍🚀	astronaut kosmonaut
+👬	håller haller hand människor manniskor par två tva män man
+♓	fiskarna stjärntecken stjarntecken
+🐪	dromedar puckel
+🦗	gräshoppa grashoppa syrsa
+🛑	åttakantig attakantig skylt stopp stoppskylt
+🪽	änglalik anglalik fågel fagel flyga flyger himmelsk mytologi stiga vinge
+🚰	drickbart vatten dricksvatten symbol
+🥗	grön gron grönsallad gronsallad mat sallad
+🍃	blåser blaser fladdrande höst host löv lov i vinden vind
+🥚	ägg agg mat
+🌯	burrito fredagsmys mat mexikanskt
+🚹	herrtoalett män man symbol för for toalett
+🐦‍🔥	eldfågel eldfagel fantasy fenix förnyelse fornyelse pånyttfödelse panyttfodelse reinkarnation
+🦝	nyfiken slug tvättbjörn tvattbjorn
+🔙	back med vänsterpil vansterpil bakåt bakat tillbaka
+🚎	buss fordon trådbuss tradbuss
+⏩	framåt framat framåtspolningsknapp framatspolningsknapp knapp för for snabbspola
+👻	ansikte saga spöke spoke
+📼	vhs video videoband videokassett
+🎇	fyrverkerier glittrande fyrverkeri högtid hogtid
+📔	anteckningsbok med dekorativt omslag snyggt skrivbok
+🕒	03.00 15.00 klocka som visar tre klockan
+🥾	camping pjäxor pjaxor vandring vandringskänga vandringskanga
+🍼	dryck flaska mjölk mjolk nappflaska
+📧	brev e-post e-postsymbol kommunikation mail mejl
+🎫	biljett inträde intrade
+💶	euro eurosedel pengar sedel
+🌁	dimma dimmigt
+🥛	dryck glas mjölk mjolk mjölkglas mjolkglas
+🤱	amma amning baby bröst brost
+🦕	brachiosaurus brontosaurus diplodocus sauropod
+📣	kommunikation megafon
+🦧	apa orangutang
+📫	post stängd stangd brevlåda brevlada med hissad flagga
+🌿	blad ört ort
+🦈	fisk haj
+🥽	ögonskydd ogonskydd simglasögon simglasogon simma svetsning
+🚧	bygge skylt för for byggområde byggomrade
+😼	ironiskt kattansikte leende snett
+🐝	bi djur geting insekt
+🧑‍🎨	konstnär konstnar palett
+🪚	fogsvans såg sag snickare trä tra verktyg
+🧌	fantasy monster saga sägen sagen troll
+🪜	klätterstege klatterstege klättra klattra steg stege
+🍢	skaldjur skaldjursspett spett
+🎬	film filmklappa klappa
+🤝	avtal hand handskakning möte mote
+🛄	bagage bagagehämtning bagagehamtning
+💍	diamant diamantring kärlek karlek ring romantik
+✅	bock vit bockmarkering fet
+💡	elektrisk fått fatt en idé ide glödlampa glodlampa lampa
+🤠	ansikte cowboy cowboyhatt cowgirl hatt
+🔆	hög hog ljus ljusstyrka
+🩷	älskar alskar bedårande bedarande gullig hjärta hjarta kärlek karlek rosa sött sott
+🧥	jacka kavaj
+🚥	trafikljus vågräta vagrata
+🏀	basket basketboll boll
+🚃	fordon järnväg jarnvag tåg tag tågvagn tagvagn
+🥍	boll klubba lacrosse mål mal
+🏓	bordtennis bordtennisracket med pingisboll pingis pingpong sport
+🫚	hälsa halsa ingefära ingefara krydda kryddväxt kryddvaxt öl ol ört ort rot
+🪨	berg bumling klippa sten
+🎐	fest japan vindspel
+🥤	juice läskedryck laskedryck mugg med sugrör sugror
+🙍	missnöjd missnojd person sur kvinna uppsyn
+🩶	grå gra hjärta hjarta känsla kansla kärlek karlek silver skiffer
+🪏	begrava gräva grava hål hal plantera scoop skopa skyffel trädgård tradgard
+🔅	låg lag ljusstyrka
+🦀	krabba kräfta krafta skaldjur stjärntecken stjarntecken
+🍌	banan frukt
+👨‍🔧	bil elektriker man manlig mekaniker motor rörmokare rormokare
+🔯	sexuddig stjärna stjarna med prick spådom spadom
+🧑‍🏭	arbetare fabriksarbetare industri industriarbetare
+🎑	japan månfest manfest månskådning manskadning
+🏩	byggnad hotell med hjärta hjarta kärlek karlek kärlekshotell karlekshotell
+🏐	sport volleyboll
+📬	öppen oppen brevlåda brevlada med hissad flagga post
+📐	linjal rätvinklig ratvinklig triangel
+🪟	fönster fonster genomskinlig öppning oppning ram utsikt
+👨‍🔬	kemi laboratorium man manlig forskare vetenskap vetenskapsman
+🍆	äggplanta aggplanta aubergine grönsak gronsak
+🪤	bete fälla falla musfälla musfalla snara
+👩	kvinna vuxen
+🐭	djur mus musansikte
+🍻	glas öl ol skål skal skålande skalande ölglas olglas ölstop olstop
+🧝	alv magisk mystisk
+😙	ansikte glad godnatt leende ögon ogon puss
+🐘	djur elefant
+❕	kommatering utropstecken vitt
+🤧	ansikte atjoo nysa nyser prosit
+🦤	dront mauritius stor utrotad
+➕	+ addera matte plus plustecken tecken
+🈴	användning anvandning ideogram japansk ”godkänt betyg”-knapp
+🥺	ansikte bönfallande bonfallande hundögon hundogon ledsen nåd nad snälla snalla tigga varför varfor
+🧱	bruk lera tegelsten tegelstenar tegelstensvägg tegelstensvagg vägg vagg
+🟧	kvadrat orange
+🛒	handla inköp inkop shopping shoppingvagn vagn
+🥯	bagel bakverk bröd brod
+💯	100 poäng poang full pott
+🎢	berg- och dalbana karusell nöjespark nojespark
+🆖	inte bra bra-symbol ng-knapp symbol
+🌱	grodd skott växtskott vaxtskott
+👍	bra gillar ok okej tumme tummen upp
+🙁	ansikte besviken mun sur
+🐠	djur fisk tropisk
+🎀	fest rosett
+🏦	bank byggnad
+🔴	cirkel geometrisk röd rod
+🟰	fetstilt likamedtecken likhet matte
+🛕	hindu hindutempel tempel
+🚚	budbil fordon skåpbil skapbil
+🌻	blomma solros
+🤎	brunt hjärta hjarta
+🐷	djur gris grisansikte
+💣	bomb serietidning
+🚠	gondolbana kabinbana linbana skidlift
+🟨	gul kvadrat
+🕤	09.30 21.30 halv tio klocka som visar
+✋	hand i luften handflata uppräckt upprackt
+🤛	näve nave vänster vanster vänstervänd vanstervand
+🈸	användning anvandning ideogram för for tillämpa tillampa japansk ”användning”-knapp
+🌺	blomma hibiskus hibiskusblomma
+🧁	bakelse bakverk muffin
+✊	hand knytnäve knytnave i luften
+👭	håller haller hand människor manniskor par två tva kvinnor
+🌂	hopfällt hopfallt paraply
+🍺	glas öl ol ölglas olglas ölstop olstop stop
+🌉	bro på pa natten natt
+🍞	bröd brod limpa
+🌚	ansikte gubben i månen manen månansikte manansikte måne mane nymåne nymane med
+🛟	flytetyg frälsarkrans fralsarkrans livboj livräddning livraddning räddning raddning säkerhet sakerhet
+😗	ansikte plutar puss
+🧑‍🚒	brandbil brandman
+👩‍💻	data it kvinna kvinnlig it-expert teknologi
+🪐	planet med ringar saturnine saturnus
+🦴	benknota skelett
+💽	dator datordiskett optisk skiva
+🕌	islam moské moske muslim religion
+🧑‍🍳	kock köksmästare koksmastare
+🥣	flingor frukost skål skal och sked
+👩‍🍳	kvinna kvinnlig kock matlaging restaurang
+🚝	balkbana fordon monorail tåg tag
+🔗	länk lank länkar lankar länksymbol lanksymbol två tva ringar
+🔶	diamant orange stor diamantform
+♏	skorpionen stjärntecken stjarntecken
+🥘	mat paella stekpanna
+👏	klappa händer hander klappande
+🥒	grönsak gronsak gurka mat
+🎍	bambu japanskt nyår nyar pinjedekoration
+🎩	hatt hög hog
+📹	kamera video videokamera
+🫟	färg farg fläck flack holi stänk stank utspill
+🫡	ajaj kapten ansikte hälsa halsa honnör honnor instämma instamma ja lycka till ok salutera
+🔕	inget ljud ljudlös ljudlos överstruken overstruken ringklocka
+🤮	ansikte illamående illamaende kräks kraks spyr
+🥎	boll handske softboll underarm
+🆑	cl-symbol redo rensa-symbol renssymbol
+➿	dubbel ögla ogla öglor oglor
+🧵	nål nal spole tråd trad trådrulle tradrulle
+🦭	säl sal sjölejon sjolejon
+📌	kartnål kartnal stift
+🧭	kompass magnetisk navigation orientering
+💘	amors hjärta hjarta kärlek karlek pil
+🏇	häst hast hästkapplöpning hastkapplopning jockey kapplöpning kapplopning person som galopperar med en
+😶	ansikte hemlighet mun stum tyst utan uttryckslös uttryckslos
+🍦	efterrätt efterratt glass mjukglass
+😘	älskar alskar ansikte hjärta hjarta puss slängkyss slangkyss
+🦓	ränder rander zebra
+🥋	judo kampsport kampsportdräkt kampsportdrakt karate självförsvar sjalvforsvar sport taekwondo
+😄	ansikte blundar flina glad kul leende lol ögon ogon roligt skratt
+🔝	homie kompis pil top topp upp uppåtpil uppatpil
+🧋	bubbelte mjölk mjolk pärlor parlor tapiokapärlor tapiokaparlor te
+🧸	gosedjur leksak mjukdjur nallebjörn nallebjorn
+📪	post stängd stangd brevlåda brevlada med sänkt sankt flagga
+🛗	hiss lift tillgång tillgang vinsch
+🕦	11.30 23.30 halv tolv klocka som visar
+🚛	fordon lastbil
+😔	ansikte funderande funderar ledsen sörjer sorjer tänker tanker
+👩‍🎨	kvinna kvinnlig konstnär konstnar målare malare palett
+🧑‍🎓	student studerande
+🐫	kamel puckel pucklar
+🥰	älskar alskar ansikte förtjust fortjust hjärtan hjartan kär kar leende romantik
+🌀	cyklon tromb tyfon väder vader vind
+🚽	toalett toalettstol
+👩‍🌾	bonde jordbruk kvinna kvinnlig trädgårdsmästare tradgardsmastare
+🦹	brottsling elak ond skurk superkraft superkrafter superskurk
+🐣	fågel fagel kläckt klackt kyckling nykläckt nyklackt
+📁	arkiv arkivmapp mapp
+🦍	djur gorilla
+🎆	firande fyrverkerier högtid hogtid
+👋	är ar du där dar hallå halla hand hej vinka vinkande vinkning
+🏸	badminton badmintonracket och badmintonboll sport
+❌	kryss rött rott x
+💕	hjärtan hjartan känslor kanslor kärlek karlek två tva
+📻	radio video
+👎	ner ogilla tumme tummen ned
+🪹	rede ruva tomt bo
+👩‍🦽	kvinna i manuell rullstol
+🧉	dryck mate-te
+🦾	bionisk arm mekanisk protes
+🎧	hörlur horlur musik
+🍤	friterad räka raka tempura
+🧖	ångbastu angbastu bastu person i slappna av spa
+💥	explosion kollision serietidning smäll small
+🥲	ansikte berörd berord lättad lattad leende smiley stolt tacksam tår tar tårögt tarogt
+🚬	cigarett rökning rokning tillåtet tillatet rykande symbol
+🎷	musik musikinstrument saxofon
+🪥	borste ren tandborste tänder tander tandhygien tvätta tvatta
+🟣	cirkel lila
+🦟	insekt malaria mygga sjukdom virus
+🟪	kvadrat lila
+🤢	äcklad acklad ansikte kasta upp kräks kraks mår mar illa spy
+🔇	avstängd avstangd högtalare hogtalare tyst
+📉	diagram graf nedåtgående nedatgaende trend
+🟩	grön gron kvadrat
+🫒	mat oliv
+👿	ansikte arg djävul djavul horn
+🌌	galax rymden vintergatan
+🌆	byggnader kväll kvall skymning solnedgång solnedgang stad i stadsvy
+🚞	bergbana bergsbana bergståg bergstag järnväg jarnvag
+🔏	bläckpenna blackpenna lås las med
+🦇	djur fladdermus vampyr
+🚢	båt bat fartyg fordon
+🔦	ficklampa lampa
+🕎	judendom ljusstake menora
+🪌	ångra angra fel gnugga misstag radera
+🫣	ansikte blyg fängslad fangslad försiktig forsiktig kikar öga oga rädd radd tjuvkikar
+🫗	dryck glas hälla halla vätska vatska oj då da spilla tomt
+📯	posthorn postsymbol
+🦘	australien hoppa joey känguru kanguru pungdjur
+💼	portfölj portfolj väska vaska
+🍜	nudelsoppa nudlar rykande skål skal soppa
+🐌	djur snigel
+♐	skytten stjärntecken stjarntecken
+🍋‍🟩	citrusfrukt frukt lime tropisk
+🪺	bo med ägg agg fågelbo fagelbo rede ruva
+💫	omtumlad serietidning stjärna stjarna stjärnfall stjarnfall yr
+💱	pengar valuta valutaväxling valutavaxling växelkurs vaxelkurs
+⬜	geometrisk ruta stor vit
+🛫	avgång avgang med flyg som avgår avgar resa
+🌸	blomma körsbär korsbar körsbärsblomma korsbarsblomma
+📗	bok grön gron
+👲	hatt kinesisk man med
+😃	ansikte flina glad kul leende mun ögon ogon öppen oppen roligt skratt stora tänder tander
+💗	hjärta hjarta känslor kanslor kärlek karlek nervös nervos puls upprymd växande vaxande
+🪅	fest kalas piñata pinata
+🔬	mikroskop vetenskap
+🎮	kontroll spel tv-spel tv-spelskontroll
+🦁	djur lejon lejonansikte
+🕣	08.30 20.30 halv nio klocka som visar
+🫘	bönor bonor kidneybönor kidneybonor mat små sma
+🔻	nedåtpekande nedatpekande röd rod triangel
+🪊	bleckblås bleckblas instrument jazz musik sorgen
+🫠	ansikte flytande försvinner forsvinner smälter smalter upplöses upploses varmt
+🏅	medalj sport sportmedalj
+🧄	smaksättning smaksattning vitlök vitlok
+🛴	cykel sparka sparkcykel
+🪛	skruvmejsel verktyg
+😤	ånga anga ansikte arg näsan nasan rasande seger triumf vansinnig
+🐁	djur mus
+🫙	behållare behallare burk förvaring forvaring krydda sås sas tom
+🦉	fågel fagel uggla vis
+🧑‍🦽	person i manuell rullstol tillträde tilltrade
+🔨	hammare verktyg
+🕘	09.00 21.00 klocka som visar nio klockan
+😵	ansikte död dod knockad kryss ögon ogon omtumlad yr
+💩	avföring avforing bajs bajshög bajshog
+🤬	ansikte arg förbannad forbannad mun svär svar svordomar symboler
+🔭	kikare stjärnkikare stjarnkikare teleskop
+🎦	bio bioskylt film
+🦩	flambojant flamingo tropisk
+🥑	avokado frukt mat
+👝	accessoar clutch kuvertväska kuvertvaska
+🔞	åldersgräns aldersgrans barnförbjuden barnforbjuden ej för for minderåriga minderariga förbjudet forbjudet
+🥩	fläskkotlett flaskkotlett lammkotlett stek styckdel
+🌔	halvmåne halvmane till fullmåne fullmane måne mane i andra kvarteret tilltagande
+🌛	ansikte gubben i månen manen halvmåne halvmane månansikte manansikte måne mane tilltagande med
+😰	ansikte blått blatt kallsvettig orolig panik rädd radd svettig
+🧑‍🤝‍🧑	håller haller hand människor manniskor par personer som
+🍫	choklad chokladbit chokladkaka godis
+🥹	ansikte glädjetårar gladjetarar gråter grater känslosam kanslosam ledsen ögon ogon stolt tårar tarar tårfyllda tarfyllda
+🔈	högtalare hogtalare med låg lag volym
+🍘	kex ris riskaka
+♍	jungfrun stjärntecken stjarntecken
+🫫	avslöja avsloja bryter krackelerar sönder sonder trasig
+🧚	älva alva fé fe oberon puck titania vingar
+👉	högerpekande hogerpekande finger peka åt at höger hoger pekfinger
+🐽	djur gris gristryne tryne
+🕑	02.00 14.00 klocka som visar två tva klockan
+💪	muskler spänd spand biceps stark
+🚈	anlänt anlant balkbana enskensbana lättbana lattbana monorail spårväg sparvag spårvagn sparvagn
+🏊	person som simmar simma simmare simning
+❗	kommatering rött rott utropstecken
+🍎	äpple apple frukt hälsa halsa mat moget nyttigt rött rott sunt
+👢	damstövel damstovel sko stövel stovel
+💌	brev hjärta hjarta kärlek karlek
+🤯	chockad exploderande huvud
+🫆	fingeravtryck identitet kriminalteknik säkerhet sakerhet
+🍑	frukt persika
+🚣	båt bat person som ror en roddbåt roddbat
+📿	bön bon halsband radband religion
+🈁	här har japansk ”här”-knapp katakana för for koko
+🔎	förstoringsglas forstoringsglas höger hoger som lutar åt at högerpekande hogerpekande
+🩰	balett ballettskor dans
+🫺	där dar dit grepp peka
+🐲	djur drakansikte drake
+🧀	ost ostbit
+👘	kimono kläder klader klänning klanning
+🪼	bränner branner brännmanet brannmanet hav manet nässeldjur nasseldjur ocean svida svider tentakler
+🪢	knop knut rep tågvirke tagvirke
+🚔	fordon mötande motande polisbil polis
+😝	äckligt ackligt ansikte kniper ihop ögon ogon räcker racker ut tunga
+🐐	get stenbock stjärntecken stjarntecken
+⛄	snö sno snögubbe snogubbe utan
+🔄	deja vu förnya fornya moturs pil pilar spola tilllbaka uppdatera upprepa
+📩	e-post kuvert med pil mejl skickat utgående utgaende
+😻	älskar alskar hjärtan hjartan kärlek karlek kattansikte leende ögon ogon
+🎡	karusell nöjespark nojespark pariserhjul
+🕝	02.30 14.30 halv tre klocka som visar
+🕚	11.00 23.00 elva klocka som visar klockan
+🕕	06.00 18.00 klocka som visar sex klockan
+🎄	gran högtid hogtid jul julgran
+💀	dödskalle dodskalle döskalle doskalle
+😇	ansikte gloria leende
+🙀	chockad förvånad forvanad kattansikte överraskad overraskad rädd radd uttröttad uttrottad
+🧾	belägg belagg bevis bokföring bokforing kvitto redovisning
+🏮	lykta restaurang röd rod papperslykta
+🩹	bandage plåster plaster
+♎	balans rättvisa rattvisa stjärntecken stjarntecken vågen vagen
+🛞	cirkel däck dack hjul rulla
+🍂	fallande löv lov faller fallna höst host höstlöv hostlov
+👫	håller haller hand man och kvinna människor manniskor par
+🏺	amfora kruka krus
+🤗	ansikte glad hej kram leende vinkar
+🔩	mutter skruv och
+🍗	kyckling kycklinglår kycklinglar lår lar
+😾	katt sur tjura tjurig
+🫲	hand som pekar till vänster vanster skaka
+🥕	grönsak gronsak mat morot rotfrukt
+🍿	bio popcorn snacks
+🦦	fiskar lekfull utter
+🍖	kött kott köttben kottben på pa ben
+😪	ansikte gråtande gratande sömnig somnig trött trott
+📭	öppen oppen brevlåda brevlada med sänkt sankt flagga post
+🎋	fest japansk festival pappersremsor tanabataträd tanabatatrad träd trad med
+🥪	bröd brod macka smörgås smorgas
+🚺	damtoalett kvinnor symbol för for toalett
+🤟	hand jag älskar alskar dig-gest
+⛪	byggnad kristen kyrka
+📋	clipboard skrivplatta urklipp
+🐦	djur fågel fagel fågelansikte fagelansikte
+🎴	blomma japanskt spelkort med kort kortspel
+🧑‍🩰	balett ballerina dansare
+👩‍🦯	blind blindkäpp blindkapp kvinna med vit käpp kapp
+🔀	blanda låtar latar korsade pilar shuffle
+🈚	gratis ideogram för for japansk ”gratis”-knapp
+📸	blixt kamera med
+🫥	ansikte deprimerad försvinner forsvinner gömd gomd introvert osynlig
+🫀	hjärta hjarta kardiologi organ puls
+🦮	blindhund hjälp hjalp hund ledarhund service
+🦬	bisonoxe buffalo hjord visent
+👴	äldre aldre man gammal vuxen
+💅	måla mala naglar manikyr nagellack smink
+🐀	djur råtta ratta
+🔛	höger hoger on på pa pil vänster vanster
+🎸	elgitarr gitarr musik musikinstrument
+🎼	g-klav musik noter
+😽	blundar kattansikte kyss plutar puss
+🪖	armé arme hjälm hjalm krigare militär militar militärhjälm militarhjalm soldat
+❎	kryss vitt i ruta x
+🫰	<3 betala dyrt fingrarna knäppa knappa korsade pekfinger pengar tumme
+🛻	lastbil pickup transportvagn varubil
+📍	knappnål knappnal nål nal stift
+😅	ansikte droppe glad jobbigt leende nervös nervos stress svett trött trott
+🏨	byggnad hotell
+👐	hand händer hander jazzhänder jazzhander öppna oppna
+🗾	japan karta över over
+🦊	ansikte djur räv rav rävansikte ravansikte
+😭	ansikte bölar bolar gråter grater ledsen olycklig rinner storgråtande storgratande tårar tarar
+👂	kropp öra ora
+😴	ansikte gäsp gasp sängdags sangdags snarkar sömnig somnig sover trött trott zzz
+🍟	pommes frites
+🚫	förbjudet forbjudet förbudsmarkering forbudsmarkering
+🚀	fordon raket rymdraket
+📅	datum kalender
+🏑	landhockey landhockeyklubba och boll sport
+🚴	cykel cykla cyklist person som cyklar
+🪄	häxa haxa magi trollkarl trollkonst trollspö trollspo trollstav
+🐴	djur häst hast hästansikte hastansikte
+🥱	ansikte gäspa gaspa godnatt sängdags sangdags sömnig somnig trött trott uttråkad uttrakad
+🚦	lodräta lodrata trafikljus
+🎯	bullseye fullträff fulltraff mitt i prick pilkastning piltavla med pil rakt på pa mål mal
+👛	accessoar portmonnä portmonna
+🎤	karaoke mikrofon sjunga
+💾	dator diskett
+😛	ansikte blä bla räcker racker ut tunga
+🦸	god hjälte hjalte hjältinna hjaltinna superhjälte superhjalte superkraft superkrafter
+🫨	ansikte chock förvirring forvirring galet jordbävning jordbavning överraskad overraskad panik shock skakande vibrera
+🍄‍🟫	brun flugsvamp svamp brunsvamp grönsaker gronsaker mat natur sopp trädgårdschampinjon tradgardschampinjon tryffel
+🧑‍💼	affärsman affarsman ämbetsman ambetsman arkitekt kontorist tjänsteman tjansteman
+🆚	kontra mot symbol vs vs-knapp
+🚊	fordon spårvagn sparvagn
+🎅	högtid hogtid jul jultomte tomten
+🛁	bad badkar
+🤰	gravid kvinna
+🍧	dessert efterrätt efterratt is kakigōri kakigori
+🧔	man med skägg skagg person
+😑	ansikte ingen kommentar uttryckslöst uttryckslost
+🪾	kargt torka träd trad utan löv lov vinter
+🤓	ansikte expert glad glasögon glasogon intelligent nörd nord smart
+⚡	fara hög hog spänning spanning högspänning hogspanning varningssymbol
+🧑‍🏫	instruktör instruktor lärare larare professor
+🏡	hus med trädgård tradgard
+⛺	camping tält talt
+🍥	fisk fiskkaka snurrad
+🔰	grönt gront och gult blad japansk symbol för for nybörjare nyborjare
+🧷	blöja bloja punkrock säkerhetsnål sakerhetsnal
+📨	e-post inkommande brev kommunikation kuvert mottaget
+🍷	dryck glas rödvinsglas rodvinsglas vin vinglas
+🚯	inget skräp skrap skräpa skrapa inte ner släng slang här har symbol
+🩺	doktor hjärta hjarta medicin stetoskop
+🌘	avtagande måne mane kvartsmåne kvartsmane i fjärde fjarde kvarteret månskära manskara
+🐍	djur orm
+🟥	kvadrat röd rod
+🐦‍⬛	djur fågel fagel koltrast korp kråka kraka kraxa näbb nabb råka raka svart
+🏁	flagga flaggor mållinen mallinen racing schackrutig sport vinna
+📃	dokument upprullad sida
+🔲	fyrkant knapp svart fyrkantig vit med kant
+📶	antenn kommunikation mobil mottagning signal signalstyrka stapel staplar täckning tackning telefon
+🏬	butik varuhus
+🪘	congatrumma djembe rytm takt trumma
+🔣	specialtecken symboler
+🕋	islam kaba muslim religion
+🪭	blyg dans fläkt flakt fläktar flaktar flört flort hett solfjäder solfjader svalka
+🥸	anonym ansikte förklädnad forkladnad glasögon glasogon inkognito mask maskerat näsa nasa
+🤙	hand ring mig-hand
+🚲	cykel fordon
+👗	kläder klader klänning klanning
+🦠	amöba amoba bakterie mikrob mikrober virus
+🏃	löpare lopare löpning lopning maraton person som löper loper springer
+🕧	00.30 12.30 halv ett klocka som visar
+😒	ansikte less missnöjd missnojd sur
+📙	bok orange
+👔	kläder klader skjorta med slips
+🧯	brandsläckare brandslackare eld kväva kvava släcka slacka
+👟	gympasko sko sneaker
+😫	ansikte inte ledsen less orkar trött trott
+🏢	byggnad kontor kontorsbyggnad
+🍩	donut munk
+♈	stjärntecken stjarntecken väduren vaduren
+🤺	fäktare faktare fäktning faktning person som fäktas faktas sport svärd svard
+🧎	knäsittande knasittande knästående knastaende person på pa knäna knana
+🧑‍🧑‍🧒	barn familj vuxna
+⛲	fontän fontan springbrunn
+🍵	te tekopp varm dryck
+🌲	barrträd barrtrad gran träd trad vintergrön vintergron
+👩‍🚀	astronaut kvinna kvinnlig raket rymden
+🫦	ängslig angslig biter i läppen lappen flirtar nervös nervos obekväm obekvam orolig rädd radd tveksam
+🏧	bankomat bankomatskylt pengar uttagsautomat
+🥈	andra plats medalj silver silvermedalj
+💿	bluray-skiva cd-skiva dvd-skiva optisk skiva
+🎣	fisk fiska fiskespö fiskespo och spö spo
+🍪	desert efterrätt efterratt kaka småbröd smabrod
+🧬	biolog dna evolution gen genetik liv
+🎓	examen examenshatt hatt högtid hogtid
+🪫	elektronik låg lag batterinivå batteriniva energinivå energiniva
+🦿	bioniskt ben mekaniskt protes
+⛔	förbud forbud mot infart med fordon förbjuden forbjuden
+🛙	hopp navigering signal upplysning vägledning vagledning
+🍕	bit pizza pizzabit slice
+🧅	gul lök lok smaksättning smaksattning
+🦖	t-rex tyrannosaurus rex
+😡	ansikte arg rasande röd rod sur
+🪸	klimatförändring klimatforandring korall ocean rev
+⏫	dubbla uppåtpilar uppatpilar
+🟠	cirkel orange
+🌄	berg morgonsol soluppgång soluppgang över over vid
+🐚	djur snäcka snacka snäckskal snackskal
+🩼	funktionsnedsättning funktionsnedsattning handikapp käpp kapp krycka mobilitetshjälpmedel mobilitetshjalpmedel skadad
+😢	ansikte gråter grater ledsen saknar sorgligt tårar tarar
+🧦	sockor strumpa
+💢	arg ilska symbol
+💨	borta fartsymbol pust springa springer iväg ivag
+😯	ansikte gapar hyssjad överraskad overraskad stum
+👤	figur i silhuett människa manniska
+🎠	häst hast karusell karusellhäst karusellhast
+👮	aina arrestera bötfälla botfalla farbror blå bla gripa konstapel lagen snut
+🧑	könsneutral konsneutral person vuxen
+🗼	tokyo tower torn i
+📳	läge lage mobil telefon vibrationsläge vibrationslage
+🏤	byggnad europeiskt postkontor
+👕	kläder klader t-shirt tröja troja
+🍴	äta ata bestick gaffel och kniv hungrig mat matdags middag
+🛃	tull tullkontroll
+🐳	djur val som sprutar vatten
+👨‍🍼	amma barnskötare barnskotare fader far man matar spädbarn spadbarn mata pappa
+🦯	blind blindkäpp blindkapp tillgänglighet tillganglighet
+👩‍🚒	brandbil brandväsendet brandvasendet kvinna kvinnlig brandman
+⛅	moln sol bakom med
+😞	ansikte besviken misslyckades nedslagen
+💤	snarkar sömnig somnig sover trött trott uttråkad uttrakad zzz
+🚵	cykel cykla cyklist mountainbikeåkare mountainbikeakare person som cyklar på pa en mountainbike
+👪	barn familj mamma människor manniskor pappa
+👠	högklackad hogklackad sko klack pumps
+😷	ansikte baciller läkare lakare munskydd sjuk smitta virus
+🥞	crêpes crepes mat pannkaka pannkakor
+🆓	free-knapp fri-knapp gratis gratis-symbol symbol
+🏹	båge bage bågskytt bagskytt pil och pilbåge pilbage vapen
+🪈	band blockflöjt blockflojt flöjt flojt flöjtist flojtist instrument musik orkester panflöjt panflojt pickolaflöjt pickolaflojt träblås trablas
+🛂	kontroll pass passkontroll
+😱	ansikte fasa katastrof livrädd livradd rädd radd skriet skriker
+🐄	djur ko kossa
+🔳	fyrkant knapp svart fyrkantig med vit kant
+👩‍🎓	kvinna kvinnlig student studerande
+🐏	bagge får far stjärntecken stjarntecken vädur vadur
+🪿	and anka dum fä fa fågel fagel fånig fanig flock gås gas kackel rolig
+📥	inkorg kommunikation mottaget
+🐇	djur kanin
+🥐	bröd brod croissant fransk mat
+🌖	måne mane i tredje kvarteret rymden tilltagande
+🦻	öra ora med hörapparat horapparat
+🌅	morgonsol soluppgång soluppgang
+🦌	djur hjort
+🌰	kastanj växt vaxt
+🧫	bakterie biolog biologi labb petriskål petriskal
+🐅	djur tiger
+💬	bubbla dialogbubbla pratbubbla
+🚮	slänga slanga skräp skrap soptunna symbol
+🟦	blå bla kvadrat
+👼	ängel angel bebisängel bebisangel saga
+🚩	flagga trekantig röd rod
+😿	gråter grater kattansikte ledsen tår tar
+😦	ansikte bister mun oförstående oforstaende ogillande öppen oppen rädd radd vad
+🚍	buss fordon mötande motande
+⭐	stjärna stjarna vit medelstor
+🃏	joker joker-kort spelkort med
+😵‍💫	ansikte fara förvirrad forvirrad fundersam hypnotiserad snurrig spiralögon spiralogon yrsel
+🚾	toalett uthus wc
+🐡	blåsfisk blasfisk djur fisk
+♒	stjärntecken stjarntecken vattumannen
+👨‍🦯	blind blindkäpp blindkapp man med vit käpp kapp
+🤪	ansikte liten öga oga skojar stor tokigt tunga
+💜	hjärta hjarta lila
+🤽	person som spelar vattenpolo polo sport
+👸	prinsessa saga
+☔	accessoar paraply med regndroppar regn väder vader
+🦋	fjäril fjaril insekt sommar vacker
+🌒	kvartsmåne kvartsmane måne mane i första forsta kvarteret månskära manskara tilltagande
+🔍	förstoringsglas forstoringsglas som lutar åt at vänster vanster vänsterpekande vansterpekande
+😕	ansikte förbryllad forbryllad inte ledsen vad vet
+🆙	up up!-knapp upp!-knapp
+🧲	hästsko hastsko magnet magnetisk
+🌝	ansikte fullmåne fullmane med gubben i månen manen månansikte manansikte måne mane
+🐊	djur krokodil
+🦎	kräldjur kraldjur ödla odla
+🤤	ansikte dreglar
+🍰	kaka kakbit tårta tarta tårtbit tartbit
+🫸	blockera hand som knuffar åt at höger hoger high five neka pausa stanna stopp till trycka vänta vanta
+💷	pengar pund pundsedel sedel
+🧑‍🧒	barn familj vuxen
+🚨	lampa polisbil polisbilslampa saftblandare
+👳	man med turban person
+🦼	eldriven rullstol tillgänglighet tillganglighet
+🎂	fest födelsedag fodelsedag födelsedagstårta fodelsedagstarta fördelsedagstårta fordelsedagstarta grattis tårta tarta med ljus på pa
+📴	avstängd avstangd mobil av telefon
+🪶	fågel fagel fågelfjäder fagelfjader fjäder fjader fjäderdräkt fjaderdrakt lätt latt
+🧰	låda lada mekaniker verktyg verktygslåda verktygslada
+🚋	fordon spårvagn sparvagn spårvagnsvagn sparvagnsvagn
+🔢	nummer siffror
+🍮	brylépudding brylepudding efterrätt efterratt
+🔺	röd rod triangel uppåtpekande uppatpekande
+🎻	fiol med stråke strake musik musikinstrument violin
+🪴	inomhus krukväxt krukvaxt odla växt vaxt
+🛵	motor skoter
+🎒	ryggsäck ryggsack skolväska skolvaska väska vaska
+🦛	flodhäst flodhast hovdjur
+🔸	diamant liten orange diamantform
+🐬	delfin djur
+🧿	amulett nazar onda ögat ogat ögat-sten
+🥼	doktor experiment labbrock vetenskapsman
+🔮	framtiden kristallkula spåkula spakula
+🌕	fullmåne fullmane måne mane
+💧	droppe kallsvettig svettdroppe svettig vattendroppe
+🎌	fest flaggor japanska korsade
+🚒	brandbil fordon
+🤶	jul mor nisse tomtemor
+🆒	cool cool-knapp
+🥀	blomma torkad vissen vissnad
+🖤	hjärta hjarta ond svart
+🚓	fordon polis polisbil
+🥅	mål mal målnät malnat nät nat sport
+🍁	höst host lönnlöv lonnlov löv lov
+🧈	mjölkprodukt mjolkprodukt smör smor
+🐶	djur hund hundansikte
+🚭	rökning rokning förbjuden forbjuden förbjudet forbjudet symbol
+⚽	boll fotboll sport
+🧑‍💻	ingenjör ingenjor it-tekniker mjukvarutekniker uppfinnare utvecklare
+🧡	hjärta hjarta orange
+🌙	måne mane månskära manskara
+🛀	bad badar badkar person som
+🕡	06.30 18.30 halv sju klocka som visar
+🪗	ackordeon dragharmonika dragspel
+🥊	boxning boxningshandske handske sport
+🔷	blå bla diamant stor diamantform
+📕	bok stängd stangd
+🎪	cirkus cirkustält cirkustalt tält talt
+🧊	isberg isbit kallt
+🫌	förändring forandring insekt larv metamorfos skör skor
+🧺	jordbruk korg picknick tvätt tvatt
+🫓	naanbröd naanbrod pitabröd pitabrod tunnbröd tunnbrod
+🔖	bokmärke bokmarke märke marke
+🤕	aj ansikte bandage huvud skadad
+🎃	fest halloween lykta lyktgubbe pumpa pumplykta
+🍨	efterrätt efterratt glass
+⬛	geometrisk ruta stor svart
+🩵	cyan himmelsblå himmelsbla hjärta hjarta känsla kansla kärlek karlek ljusblå ljusbla
+◽	geometrisk medelstor vit ruta mellanliten
+🥶	ansikte blått blatt frostbiten frusen istappar kall minus snö sno
+🪪	id id-kort legitimation personuppgifter säkerhet sakerhet
+📵	inga mobiler samtal mobil förbjuden forbjuden
+😋	ansikte dreglar god gott hungrig leende mat mums njuter smakar tunga
+🫵	du finger som pekar mot tittaren på pa mig peka
+🙋	fråga fraga jag vet kvinna som räcker racker upp handen person
+🐵	apa apansikte djur
+🪵	stock stubbe timmerstock trä tra trästock trastock trästockar trastockar ved
+🧑‍🧒‍🧒	barn familj vuxen
+🍡	dango efterrätt efterratt japan
+🎥	film filmkamera spela in
+⌚	armbandsur klocka
+🫕	choklad fondue gryta ost schweiziskt smältande smaltande
+🕠	05.30 17.30 halv sex klocka som visar
+🤲	bön bon handflatorna upp
+🙊	apa håller haller för for hemlighet inget munnen säger sager tyst
+🐞	djur insekt nyckelpiga skalbagge
+🪃	australien boomerang bumerang flyga tillbaka
+🈹	ideogram för for rabatt japansk ”rabatt”-knapp
+🧜	näcken nacken sjöjungfru sjojungfru sjörå sjora vattenväsen vattenvasen
+🐙	bläckfisk blackfisk djur
+🧢	basebollkeps keps skärmmössa skarmmossa
+🦞	fisksoppa hummer klor skaldjur
+🍒	frukt körsbär korsbar
+🌠	fallande stjärna stjarna stjärnfall stjarnfall
+🥭	frukt mango tropisk
+🌭	korv mat varmkorv
+🫈	bigfoot hårig harig jätte jatte sasquatch yeti
+💎	ädelsten adelsten diamant juvel kärlek karlek
+🪠	rörmokare rormokare sugkopp toalett vaskrensare
+🚗	bil fordon
+🧨	dynamit fyrverkeri smällare smallare sprängämne sprangamne
+🕢	07.30 19.30 halv åtta atta klocka som visar
+😖	ansikte besviken förvirrad forvirrad frustrerad irriterad
+🧗	bergsklättring bergsklattring klättra klattra upp klättrare klattrare person klättrar klattrar som
+📏	linjal rak
+🧛	blod drakula huggtänder huggtander vampyr vandöd vandod
+🟡	cirkel gul
+🦥	långsam langsam lat sengångare sengangare
+🧩	bit ledtråd ledtrad pussel pusselbit pusselbitar sammanfoga
+🚕	fordon taxi
+🈺	ideogram för for öppet oppet japansk ”öppet”-knapp
+🥙	falafel gyro kebab mat pita pitabröd pitabrod
+🙃	ansikte leende upp-och-ner
+🌎	jorden jordglob nord- och sydamerika nordamerika världen varlden visar
+🫐	blåbär blabar
+🍔	burgare hamburgare
+😐	ansikte ingen kommentar neutralt
+💰	pengapåse pengapase pengar säck sack
+🏏	cricket cricketslagträ cricketslagtra och boll sport
+💞	hjärtan hjartan känslor kanslor kärlek karlek snurrar två tva
+🐋	djur val
+🥳	ansikte fest födelsedag fodelsedag hatt kalas partyhatt tuta
+🌞	ansikte sol med
+🍄	flugsvamp svamp växt vaxt
+🤩	ansikte glad imponerad stjärnögd stjarnogd stjärnsmäll stjarnsmall wow
+🛅	bagage bagageservice kvarlämnat kvarlamnat
+⭕	cirkel o röd rod tung stor vit med kant
+🌈	regn regnbåge regnbage väder vader
+💛	gult hjärta hjarta
+💋	kärlek karlek kyssmärke kyssmarke läppar lappar läppavtryck lappavtryck
+📓	anteckningsbok skrivbok
+⏳	sand tid timglas med rinnande
+🩸	bloddroppe blodsdroppe ge blod medicin menstruation
+🍐	frukt päron paron
+🐂	oxe oxen stjärntecken stjarntecken tjur
+👖	byxor jeans kläder klader
+🟫	brun kvadrat
+🐃	djur vattenbuffel
+⚾	baseboll sport
+🪙	guld mynt pengar silver skatt
+🤞	finger hand korsa korsade fingrar lycka
+🥿	ballerinasko lågklackad lagklackad toffla
+💒	bröllop brollop bröllopskapell brollopskapell kärlek karlek kyrka
+🤾	boll handboll person som spelar sport
+🕟	04.30 16.30 halv fem klocka som visar
+🙉	apa håller haller för for hör hor inget öron oron
+🧏	döv dov hörsel horsel hörselskadad horselskadad person öra ora tillgänglighet tillganglighet
+🈲	förbjudet forbjudet ideogram för for förbud forbud japansk ”förbjudet”-knapp
+🐸	djur groda grodansikte
+⏪	dubbla vänsterpilar vansterpilar knapp för for snabbspola tillbaka pilar
+🌮	fredagsmys mat mexikanskt taco
+💸	flygande sedlar pengar med vingar
+🙅	förbjudet forbjudet gest för for nej icke kvinna som gestikulerar person
+🧑‍🎤	artist rockstjärna rockstjarna sångare sangare underhållare underhallare vokalist
+🫅	ädling adling kung kunglighet monark person med krona
+📘	blå bla bok
+🪍	fånga fanga nät nat samla
+🤌	fingerportmonnä fingerportmonna fingrar förhör forhor handgest nypa sarkastisk
+⚫	cirkel geometrisk svart
+🧕	hijab kvinna i sjal slöja sloja
+📚	böcker bocker bok
+👨	man vuxen
+🧑‍🔧	elektriker mekaniker rörmontör rormontor
+👒	damhatt hatt
+🫜	grönsak gronsak rödbeta rodbeta rotfrukt rova trädgård tradgard
+💵	dollar dollarsedel pengar sedel
+👊	knuten hand knytnäve knytnave
+⌛	sand timglas utrunnet
+🫑	grönsak gronsak paprika
+🚶	fotgängare fotgangare lunka man som går gar promenerar vandra
+🦙	alpaca guanaco lama ull vicuña vicuna
+🎉	fest konfettismällare konfettismallare partypopper serpentiner
+📛	namn namnskylt skylt
+🥔	grönsak gronsak mat potatis
+🧒	barn könsneutral konsneutral leende ung
+🥵	ansikte febrig hett överhettad overhettad rött rott svett värmeslag varmeslag varmt
+🍶	dryck flaska och kopp med saké sake
+🉐	fynd ideogram för for bonus japansk ”fynd”-knapp
+♊	stjärntecken stjarntecken tvillingarna
+🤫	ansikte hemlighet hyssjar tyst
+📮	brevlåda brevlada postlåda postlada
+🦷	tand tandläkare tandlakare
+🩻	ben läkare lakare medicin röntgen rontgen skelett undersökning undersokning
+🔫	leksakspistol pistol revolver vapen vattenpistol
+🔁	medurs pil repeat upprepning
+🍏	äpple apple frukt grönt gront
+🕐	01.00 13.00 ett klocka som visar klockan
+😁	ansikte leende ögon ogon roligt skratt strålande stralande tänder tander
+🩱	baddräkt baddrakt simdräkt simdrakt
+🐛	djur kryp larv tusenfoting
+😲	ansikte chockad förvånad forvanad inte otroligt sant
+📟	kommunikation personsökare personsokare
+🤘	djävulstecken djavulstecken djävulstecknet djavulstecknet hand hårdrock hardrock horn rock rocka loss
+😮	ansikte chockad förvånad forvanad gapar mun omg öppen oppen otroligt
+🆘	hjälp hjalp sos sos-knapp sos-symbol symbol
+💭	bubbla funderar tankebubbla
+🐉	djur drake
+🚟	fordon hängbana hangbana
+🫱	hälsa halsa hand som pekar till höger hoger handslag hej skaka
+🎶	musik musiknoter not noter
+🈯	ideogram för for finger japansk ”reserverad”-knapp reserverad
+👹	ansikte demon japansk monster saga
+🧑‍🎄	jul jultomte könsneutral konsneutral tomte
+🫶	älskar alskar handhjärta handhjarta kärlek karlek
+💝	hjärta hjarta kärlek karlek present rosa rosett
+🥇	guld guldmedalj medalj segrare
+🔘	alternativknapp knapp vit rund med svart kant
+🪋	apokalyps eldkula faller gravitation rymden
+🐜	djur insekt myra
+🆎	blodgrupp ab typ
+🧑‍🍼	amma barnskötare barnskotare bebis förälder foralder mata person ammar spädbarn spadbarn matar
+💻	bärbar barbar dator kontor laptop pc
+🏉	boll rugby rugbyboll sport
+🐆	djur leopard
+🦡	grävling gravling honungsgrävling honungsgravling plåga plaga
+🦄	djur enhörning enhorning enhörningsansikte enhorningsansikte
+💊	medicin piller tablett
+🐒	apa djur
+👃	kropp näsa nasa
+🧼	bada duscha lödder lodder skål skal tvål tval tvålbit tvalbit
+👧	flicka jungfru stjärntecken stjarntecken tjej ung
+📜	bokrulle pergament rulle
+🗿	påskön paskon staty
+🔠	abc alfabet stora bokstäver bokstaver versaler
+🌵	kaktus växt vaxt
+♉	oxen stjärntecken stjarntecken
+🙎	kvinna som putar med läpparna lapparna person plutar plutande puta munnen
+🐓	fågel fagel tupp
+💓	bankar bultande hjärta hjarta känslor kanslor kärlek karlek puls slår slar
+😟	ansikte bekymrad ledsen nervös nervos orolig rädd radd
+🕍	judisk religion synagoga tempel
+👶	baby bebis liten ung
+🌹	blomma ros
+🔧	skiftnyckel verktyg
+🪂	fallskärm fallskarm fallskärmshopp fallskarmshopp hängflygning hangflygning parasegling
+🦨	skunk stank
+👩‍🏫	instruktör instruktor kvinna kvinnlig lärare larare lärarinna lararinna professor
+🌷	blomma tulpan
+🥠	lyckokaka profetia
+⛽	bensin bensinpump bensinstation bränsle bransle bränslepump branslepump
+⛎	ormbäraren ormbararen stjärnbild stjarnbild
+🌋	vulkan vulkanutbrott
+🛬	ankomst med flyg som landar resa
+🔱	hav treudd
+💳	betalkort kort kreditkort
+🏂	snowboard snowboardåkare snowboardakare
+🔒	lås las låst last stängt stangt
+🔉	högtalare hogtalare med medium volym
+🚑	ambulans fordon
+🥻	kläder klader klänning klanning sari
+🈵	fullbelagt ideogram för for inget ledigt inga lediga rum japansk ”fullbelagt”-knapp
+🀄	drake mahjong-bricka röd rod spelbricka
+😠	ansikte arg ilsken upprörd upprord
+😚	ansikte blundar glad kinder puss rosiga
+🧃	dryckesförpackning dryckesforpackning dryckeskartong
+🦶	fot sparka stampa
+🙆	gest för for ok hand kvinna som gestikulerar okej person
+🎏	fest japan karp karpvindstrut vindstrut
+💄	läppstift lappstift makeup smink
+🚘	bil bilar fordon körde korde mötande motande
+😈	ansikte djävul djavul elak horn leende lila
+👓	accessoarer brillor glasögon glasogon ögon ogon
+😂	ansikte gapskratt glädjetårar gladjetarar gråt grat jätteroligt jatteroligt skratt tårar tarar
+📂	mapp öppen oppen öppet oppet arkiv
+👱	blond man person människor manniskor
+🌇	byggnader skymning solnedgång solnedgang över over stad
+🪀	jojare jojo snöre snore trissa
+🎾	boll tennis tennisboll tennisrack och tennisracket
+🔼	triangel uppåtknapp uppatknapp uppåtpekande uppatpekande liten
+🥝	frukt kiwi kiwifrukt mat
+🍙	ris risboll risportion
+🚜	fordon traktor
+👨‍💼	chef kontor kontorstjänsteman kontorstjansteman man näringsliv naringsliv
+🥥	halv kokosnöt kokosnot palm piña pina colada
+📈	diagram graf uppåtgående uppatgaende trend
+🛐	plats för for tillbedjan religion tempel
+🚂	ånglok anglok fordon lok lokomotiv tåg tag
+🈶	ideogram för for finns inte gratis japansk ”inte gratis”-knapp
+🪡	broderi nål nal skräddarsy skraddarsy stygn synål synal
+💏	kärlek karlek kyssas människor manniskor puss
+🦐	liten mat räka raka skaldjur
+⏰	klocka väckarklocka vackarklocka
+🌟	blänkande blankande glänsande glansande glittrande gnistrande natt seger stjärna stjarna
+🥮	festival höst host månfest manfest månkaka mankaka
+🌗	avtagande halvmåne halvmane måne mane
+📀	bluray-skiva dvd-skiva
+👩‍🏭	fabrik industri kvinna kvinnlig fabriksarbetare produktion
+🕙	10.00 22.00 klocka som visar tio klockan
+🗽	frihet frihetsgudinnan new york ny nyc staty
+👩‍🦼	kvinna i permobil rullstol
+🚌	buss fordon
+🛼	rullskridsko
+👨‍🦽	man i manuell rullstol
+😳	ansikte generad omtumlad pinsamt rodnar skäms skams
+🫏	åsna asna däggdjur daggdjur djur envis mula mulåsna mulasna
+🌃	natt stjärnklar stjarnklar stjärnor stjarnor
+👇	finger nedåtpekande nedatpekande peka nedåt nedat pekfinger
+🥬	bok choy grönkål gronkal kål kal sallad salladsblad sallat
+🩴	flip-flops remsko sandaler
+🤭	ansikte fnissar hand hoppsan mun
+🌽	majs majskolv
+📢	handhögtalare handhogtalare kommunikation
+🔓	lås las olåst olast öppet oppet
+🍠	mat rostad sötpotatis sotpotatis
+🦵	ben lem sparka
+🧍	person stående staende
+🐼	djur panda pandaansikte
+🕞	03.30 15.30 halv fyra klocka som visar
+🤣	ansikte gapskratt golv gråter grater jätteroligt jatteroligt rullar skratt tårar tarar
+😉	ansikte blinkar flört flort öga oga skämt skamt
+🪓	hacka hugga klyva ved yxa
+🎰	enarmad bandit spel spelautomat spelmaskin
+🍳	laga mat matlagning steka ägg agg
+😩	ansikte besviken ledsen olycklig slut uppgiven uttröttad uttrottad
+🦽	manuell rullstol tillgänglighet tillganglighet
+😮‍💨	andas ut ansikte ledsen pustar suckar
+🪔	diya diyalampa lampa oljelampa
+♌	lejonet stjärntecken stjarntecken
+➗	÷ dividera division divisionstecken matte tecken
+👩‍🎤	artist kändis kandis konsert kvinna kvinnlig sångare sangare stjärna stjarna
+⚓	ankare hopp
+📞	kommunikation telefon telefonlur
+🧘	ben fokus frid korsade lotusposition meditation yoga
+😺	flinande glad katt leende
+💖	gnistrande hjärta hjarta känslor kanslor kärlek karlek upprymd
+🍣	sushi
+💆	ansiktsmassage behandling kvinna som blir masserad massage person
+🕓	04.00 16.00 fyra klocka som visar klockan
+♑	stenbocken stjärntecken stjarntecken
+🪰	asätande asatande insekt fluga sjukdom
+💲	dollar dollartecken pengar
+💚	grönt gront hjärta hjarta
+🚪	dörr dorr
+💉	nål nal sjukvård sjukvard spruta
+🛘	berg fallande fara ras stenar
+🐰	djur kanin kaninansikte
+📆	avdragbar kalender datum
+👨‍🦼	man i permobil rullstol
+🤨	ansikte höjt hojt ögonbryn ogonbryn skeptisk tveksam
+🤹	balans färdighet fardighet jonglera jonglering multitasking person som jonglerar
+🫷	hand som knuffar åt at vänster vanster high five neka stanna stopp till trycka vänta vanta
+🥉	brons bronsmedalj medalj tredje plats
+🧽	mjuk rengörande rengorande tvättsvamp tvattsvamp
+🐨	australien djur koala koala-ansikte koalabjörn koalabjorn pungdjur
+✨	gnistrande stjärnor stjarnor gnistrar
+⛵	båt bat segelbåt segelbat segling
+🌼	blomma blomster växt vaxt
+🏄	hav person som surfar strand surfare surfing surfning
+🧐	ansikte gammaldags monokel torr
+📦	låda lada paket
+💮	blomma vit
+🪇	instrument maracas musik skaka slaginstrument slagverk
+🤷	axelryckning likgiltighet okunskap person som rycker på pa axlarna tvivel
+🪎	ädelstenar adelstenar guld pengar pris rikedom
+🧑‍🦼	eldriven rullstol elektrisk person i permobil tillträde tilltrade
+🙌	båda bada händerna handerna i luften hurra räcker racker upp
+👨‍💻	data it man manlig it-expert teknologi
+🪲	insekt skalbagge småkryp smakryp
+😜	ansikte blinkande knäpp knapp räcker racker ut skojar tokigt tungan
+🕗	08.00 20.00 åtta atta klocka som visar klockan
+🥏	frisbee ultimate
+📖	bok öppen oppen
+👨‍🚒	brandbil brandman brandväsendet brandvasendet man manlig
+🆗	ok ok-knapp
+🥓	bacon kött kott mat
+🫤	ansikte besviken diagonal förvirrad forvirrad mun osäker osaker skeptisk tveksam
+👨‍🎨	målare malare man manlig konstnär konstnar palett
+🎨	färger farger färgpalett fargpalett konst palett
+🆔	id id-knapp id-symbol identitet
+🛺	motordriven rickshaw riksha tuk-tuk
+👌	hand instämmer instammer javisst ok ok-tecken tecken
+❓	fråga fraga frågetecken fragetecken interpunktion rött rott tecken
+📷	kamera video
+😥	ansikte besviken lättad lattad nära nara ögat ogat
+🚇	fordon metro tunnelbana
+🍯	burk honung honungsburk
+📄	dokument sida med text uppåt uppat
+🪑	säte sate sitta stol
+🤦	ansikte frustration handflata irritation person som slår slar sig för for pannan slå sla
+🍋	citron citrusfrukt frukt
+🧟	levande död dod odöd odod vandöd vandod zombie
+🧶	garn garnnystan sticka virka
+🍓	bär bar frukt jordgubbe
+📇	kortregister register
+🌴	palm träd trad
+🥷	gömd gomd hemlig lönnmördare lonnmordare ninja
+🙂	ansikte glad leende ler litet nöjd nojd
+🎲	spel speltärning speltarning tärning tarning
+🤴	prins
+🏰	europeiskt slott
+🧆	falafel kikärter kikarter köttbulle kottbulle
+🪩	dansa disco discokula fest glitter
+💇	frisör frisor frisyr hårklippning harklippning kvinna som får far håret haret klippt person skönhet skonhet
+😸	flin glad grin kattansikte leende ögon ogon tänder tander
+💔	brustet hjärta hjarta känslor kanslor trasigt
+🍇	frukt vindruvor
+🐾	djur tassar tassavtryck
+🙇	ångra angra be bön bon förlåt forlat gest meditation meditera person ursäkt ursakt
+🧧	hóngbāo hongbao lai see pengar present rött rott kuvert tur
+🪷	blomma buddhism frid hinduism lotus renhet stillhet
+🤐	ansikte dragkedja håller haller hemlighet mun tiger tyst
+🫂	adjö adjo hej kram personer kramas tack
+💦	droppar serietidning stänkande stankande svettig
+👨‍🚀	astronaut man manlig raket rymden
+😏	ansikte flin halvleende småleende smaleende
+🪝	hake klo krok snärja snarja
+🔂	medurs pil repeat upprepa en låt lat upprepning
+🎳	bowling bowlingklot och käglor kaglor klot
+🕥	10.30 22.30 halv elva klocka som visar
+☕	ångande angande dryck kaffe te varm
+🔡	gemener små sma bokstäver bokstaver

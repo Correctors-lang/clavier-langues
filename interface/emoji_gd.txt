@@ -1,1261 +1,1261 @@
 # Mots-clés d'emoji en « gd » — annotations CLDR, licence Unicode.
 # S'ajoutent à l'anglais de emoji.txt, ils ne le remplacent pas.
 # Généré par tools/generateurs/build_emoji.py — ne pas éditer à la main.
-🆕	putan new ùr
-🧑‍🤝‍🧑	càraid daoine a’ glacadh air làmh a chèile dithis
-◽	ceàrnag mheadhanach bheag gheal geomatrach
-⛽	connadh peatral pumpa pumpa-connaidh stèisean
-🔓	fosgail fosgailte glas neo-ghlais neo-ghlaiste
-👄	beul bilean
-🍴	còcaireachd forc is sgian
-🏒	caman deigh geama hocaidh hocaidh-deigh puck
-💦	boinneag boinneagan fallais dealbh-èibhinn fallas splaiseadh
-🎐	clag clagan clagan-gaoithe comharrachadh gaoth
-😼	aodann cam cat le gàire cham fiamh-ghàire ìoranta
-😉	aodann le sùil bheag priobadh
-📛	ainm baidse
-🚉	rathad-iarainn rèile slighe-iarainn stèisean trèana
-💌	cridhe gaol litir gaoil post
-🆘	cobhair cuideachadh putan “sos” sos
-🛙	comharra cuan dòchas mara seòladh soillseachadh solas stiùireadh
-🍯	mil milis poit meala
-😿	brònach caoineadh cat a’ deòir deur
-🫜	biadh biatas bun-lus feòil-sheachnair freumh gàrradh glasraich glasraichear lios nèip raidis sailead snèap tùirneap
-😳	aodann air ruadhadh
-🚨	càr cuairt leus poileas solas poileis
-🚌	bus carbad
-🌇	ciaradh grian laighe na grèine
-🔝	barr ceann mullach saighead “top” suas
-🙊	àicheadh aodann bruidhinn can diùltadh gluasad muncaidh nach olc toirmisgte
-🐙	ochd-chasach
-🕦	11 11:30 30 aon deug cleoc cloc gleoc leth-uair an dèidh uair trithead
-🕞	3 3:30 30 cleoc cloc gleoc leth-uair an dèidh trì trithead uair
-🙌	a’ togail làmhan gluasad hò-rò làmh subhachas tog
-🚗	càr
-🕥	10 10:30 30 cleoc cloc deich gleoc leth-uair an dèidh trithead uair
-🥱	aodann a’ mèananaich dòrainneach fadal mèalanaich mèanan mèaran mèaranaich ràsanach sàraichte sgìth
-🐎	each rèisidh marcachd rèis
-👩‍🚒	boireannach carbad-smàlaidh neach-smàlaidh boireann smàladh tè
-🪉	ceòl clàrsach cruit cupaid foireann-ciùil gaol inneal-ciùil ionnsramaid orcastra
-🫁	anail analachadh analachd organ sgaman sgamhan
-📲	cuir fòn faigh faighinn fòn-làimhe le saighead gairm mobile
-💚	cridhe uaine
-📶	bàr crann-sgaoilidh fòn fòn-làimhe iadhaire le bàraichean siognail
-🫦	amharas bile ga bìdeach dragh eagal mì-chofhurtail mire nearbhasach uallach
-🌅	camhanaich èirigh na grèine grian madainn
-🌂	aodach sgàilean sgàilean-uisge dùinte uisge
-🍲	poit le biadh stiubha
-🪜	àradh ceum dìreadh dìrich fàradh rang reang rong sreap
-✅	comharra cromag putan cromaige
-📑	comharra comharra-leabhair comharraich taba tabaichean-leabhair
-👣	aodach lorg coise lorgan
-👀	aodann sùil sùilean
-🤸	lùth-chleasachd neach a’ cur nan rothan
-⭕	cearcall dearg falamh mòr o
-😆	aodann caog-shùileach le gàire beul fiamh-ghàire fosgailte sàsaichte
-🔄	putan saighdean a’ dol tuathail saighead
-🟢	cearcall uaine
-🧗	neach a’ sreap sreapadair sreapaiche
-🌟	boillsgeadh dealrach dealradh priobadh reul rionnag dhealrach
-🤧	aodann ri sreothairt dia leat
-🔛	air comharra saighead “on”
-🪫	bataraidh fann cumhachd fhann dealanach leactronach
-⏰	caismeachd cleoc cloc gleoc
-🥕	biadh curran glasraich
-➿	dualach dùbailte lùb dhualach dhùbailte
-🥂	cèilidh comharrachadh deoch glaineachan a’ gliongadaich glainne òl
-🪲	bèisteag biastag daolag fiolan meanbh-fhrìde
-🩹	bann-araid cuarag cuaran
-🟧	ceàrnach orainds orains
-📍	prìne tacaid tacaid-bhrùthaidh chruinn
-😽	aodann cat a’ pògadh pòg sùil
-🐤	eun eunlaith isean beag
-🤵	fear-bainnse neach ann an tuxedo
-🛼	bròg ròla-spèilidh bròg-spèilidh ròla spèileadh
-🧩	aisneis co-cheangailte faisneis mìrean-measgaichte pìos tòimhseachan tuairmse
-🛝	cluich pàirc fhaoin-chleasan raon-cluiche sleamhnag
-🔇	glaodhaire mùchte mùch sàmhach tost
-🏥	dotair leigheas ospadal
-🚔	càr poileis a’ tighinn thugad poileas
-💶	airgead airgeadra banca eòro not nòta nòta-airgid nòta-banca
-🥭	mango meas tropaigeach
-🫂	caidir caidreabh dealachadh fàilte soraidh slàn taing
-🔳	ceàrnag ceàrnagach geomatrach oir-loidhne putan geal
-💹	airgead airgeadra banca cairt a’ dol suas le yen dìreadh èirich fàs graf margadh margaid treand
-🧺	àiteach àiteachas basgaid croitearachd cuim-cnuic tuathanachas tuathanasachd
-😖	aodann am breislich breisleach
-🔐	dùinte glais glaiste le iuchair glas tèarainte
-🈯	glèidhte iapanais ideo-ghraf putan seapanais “glèidhte”
-🏦	banca togalach
-🍧	beàrrte deigh bheàrrte milis milseag reòiteag
-🧍	neach ’na sheasamh seas seasamh
-🟠	cearcall orainds orains
-⛔	àicheadh diùltadh gun inntrigeadh toirmisgte trafaig
-✊	buille dòrn air a thogail dùinte làmh
-🌜	aodann ceathramh deireadh na gealaich le gealach sa cheathramh mu dheireadh
-😹	aodann cat le deòir shona deur sona
-🧾	cuidhteas cunntas cunntasachd dearbh dearbhadh dearbhaich fianais leabhar-chunntas
-🪩	ball-sgàthain boillsgeadh dannsa deàrrs disco pàrtaidh
-🏇	each rèisidh eachlach marcach rèis rèiseadh
-👦	balach gille òg
-🏸	badmantan geama racaid spàl-ite
-🥜	biadh cnò cnò-thalmhainn cnòthan-talmhainn glasraich
-📱	fòn fòn-làimhe mobile
-🕎	coinnlear meurach creideamh menorah
-🚙	cleasachail sport utility vehicle suv
-🖤	cridhe dubh olc
-🪬	dìon fatima hamsa làmh miriam moire ortha
-🚴	baidhseagal duine fear fireannach neach ri rothaireachd rothair
-🍷	bàr deoch fìon glainne glainne-fhìona òl
-💊	bochd dotair leigheas pile tinn
-🍀	4 ceithir duilleag seamrag cheithir-dhuilleagach
-🪌	ceartachadh cuir às dealbh mearachd sgrìobhadh sguab suathadh toirt air falbh
-😷	aodann le masg dotair air bochd fuar leigheas lighiche tinn
-📆	mìosachan le duilleagan a thig dheth
-🙉	àicheadh aodann cluinn cluinntinn diùltadh gluasad muncaidh nach olc toirmisgte
-💱	airgead airgeadra banca iomlaid airgid
-🩻	cnàimhneach cnàmh cnàmhlach craidhneach dotair gath-òmair gath-x lighiche meidigeach
-🏠	dachaidh dachaigh dhachaidh dhachaigh taigh
-📙	leabhar orainds orains
-🥔	biadh buntàta glasraich
-💮	flùr geal
-🥌	clach clach-chrolaidh geama
-💩	aodann bab cac càrn dealbh-èibhinn sgigean uilebheist
-🍳	adhann còcaireachd praidhigeadh ugh
-🦈	cearban iasg siorc
-🌼	blàth flùr
-😜	aodann le theanga a-mach ⁊ sùil bheag agus fealla-dhà priobadh teanga
-🪁	itealach itealag itealaich sgait-adhair sgiathadh sgiathaich
-⛎	an giùlanair-nathrach giùlanair grian-chrios grian-chriosach nathair ophiuchus
-🍾	àirc bàr botal le a’ leumadh às brag deoch popadh
-🧇	baoth-chòmhradh bleadraich iarrann neo-chinnteach riachdalach waffle
-🛞	cearcall cuibhle roth taidhir tionndadh
-📜	pàipear sgrola
-🧎	glùin glùinean neach air a ghlùinean
-🌕	gealach làn làn-ghealach
-💽	coimpiutair diosg diosga lèirsinneach meanbh-dhiosg minidisk optaigeach
-💙	cridhe gorm
-📏	dìreach rùilear
-🥡	bogsa bidhe takeout sìneach
-🕔	00 5 5:00 cleoc cloc còig uairean gleoc uair
-🤩	aodann toilichte le rionnagan na shùilean fiamh-ghàire rionnag sùilean
-🟦	ceàrnach gorm
-🐍	giùlanair grian-chriosach nathair ophiuchus
-🐉	dràgon faoinsgeul
-🪎	airgead creach maoin òr prìs saidhbhreas seud seudag stòras
-💯	100 ceud puing sgòr slàn
-🌝	aodann gealach làn le soilleir
-♏	an sgairp grian-chrios grian-chriosach scorpio scorpius
-🪞	ath-thilgeil faileas frith-thilgear sgàthan
-💅	cùram ìnean làmh-mhaiseachadh lìomh maise
-🫫	breaking crumbling masking resilience reveal tension transformation
-🈁	an-seo iapanais katakana putan seapanais “an-seo”
-🍵	cupa cupa-tì gun chluas cupan deoch teatha tì
-⏳	gaineamh glainne-uarach nach eil deiseil tìmear
-🌙	corranach gealach chorranach
-🤭	aodann le làmh air a beul oich
-🥗	biadh sailead uaine
-🈹	iapanais ideo-ghraf lasachadh putan seapanais “lasachadh”
-🔔	clag
-🦹	cumhachd eucoireach oil-chumhachd olc sàr-shlaightear slaightear super
-🙎	bus busach gluasad neach le air
-🫴	glac làmh le a bas suas smèid tairgse tairgsinn thig tiugainn
-👨‍🦽	cathair-chuibhle duine ann an a làimh fireannach so-ruigsinneachd
-🙇	cromadh duilich gluasad leisgeul neach a’
-🔈	fuaim glaodhaire ’s fhuaim ìseal a’ cur a-mach
-🍋‍🟩	liomaideag meas meas-geur siotras tropaigeach
-🪖	arm clogaid airm cogadh feachd gaisgeach saighdear
-🪰	biastag cnuimheag cuileag galar grod grodadh plàigh
-👧	caileag grian-chriosach maighdeann òg
-🍂	duilleag duilleagan an fhoghair foghar tuiteam
-🍝	nùdail pasta spaghetti
-🧑‍🦼	cathair-chuibhle neach ann an le einnsein so-ruigsinneachd
-🏂	neach sneachda-bhòrd sgìtheadh sneachd
-🏬	bùth mòr-bhùth
-🤾	bàla ball-làimhe neach a’ cluich
-🌳	craobh sheargach seargach
-🏐	bàla ball ball-bholaidh geama
-🧴	bana-bhuidseach botal lòisein buidseach glanadh sguabadh
-💨	a’ falbh nad dheann dealbh-èibhinn deann luath ruith
-🪱	biathag cnuimh cnuimh-talmhainn daolag dealt-dhaolag faoighiche frithlisg lobach parasait
-🫕	càise eilbheiseach fondue leaghta leaghte poit seoclaid teòclaid
-🕧	12 12:30 30 cleoc cloc dà dheug leth-uair an dèidh trithead uair
-🥣	bobhla le spàin bracaist gràinean
-🍞	aran buileann lofa
-🌚	aodann gealach ùr le
-🦨	boladh droch-bholadh tùd tùdair-stiallach
-🚹	duine fear fireannach taigh-beag nam wc
-🪅	cèilidh comharrachadh pàrtaidh piñata
-🪢	fiar naisg nasgadh ròpa snaidhm snìomh suain toinn
-🫢	aodann le sùilean fosgailte ⁊ làmh air beul agus clisg eagal iongantach iongnadh nàire
-🎻	ceòl fìdheall inneal-ciùil ionnsramaid
-🛫	check-in fàgail itealain falbh itealan plèana
-💐	bad fhlùraichean flùr
-👎	-1 dona làmh mo chreach òrdag sìos
-🤟	agam gaol gluasad “tha ort” làmh ort
-♋	am partan cancer grian-chrios grian-chriosach
-🦸	cumhachd gaisgeach math oil-chumhachd sàr-ghaisgeach super
-👏	bas bois bualadh bhasan làmh
-🧚	oberon puck sìth sìthiche titania
-🏢	togalach oifisean
-🧻	pàipear-tòin rola pàipeir tubhailt
-🔅	doilleir doilleirich ìosal putan doilleireachaidh soilleireachd
-🆓	an-asgaidh putan free saor
-🪛	acainn inneal sgriubha sgriubhaire
-📖	fosgailte leabhar
-🍬	milis milseag suiteas
-🃏	amadan cairt geama saorag
-🧪	ceimigeachd ceimigear cungaidhear deuchainn deuchainn-lann saidheans tiùb-deuchainne
-🍟	sliseagan tiops
-🌏	àisia astràilia cruinne le ’s globa a’ sealltainn agus saoghal talamh
-🧵	fuaigh fuaigheil snàithlean snàthad snìomh snìomhan spàl
-🆎	ab fuil putan seòrsa fala
-👩‍🍼	altram boireannach ag naoidhein leanabh naoidhean tè
-🕛	00 12 12:00 cleoc cloc dà dheug uair gleoc
-🍰	cèic milis milseag pastraidh shortcake sliseag
-🦩	flamingo spaideil tropaigeach
-😁	aodann le gàire mhòr fiamh-ghàire sùil
-⬛	ceàrnag mhòr dhubh geomatrach
-🪻	bogha-muc bròg na cuthaige camais flùr fuath-mhuc lùpainn lus tùise lus-liath
-🖖	beannachd muinntir vulcan corrag làmh meur spock
-🪍	cruinneachadh glacadh ribe
-⌚	cleoc cloc gleoc uaireadair
-🐯	aodann tìgeir tìgear
-🚧	bacadh togail
-🔵	cearcall geomatrach gorm
-🌄	beinn camhanaich èirigh na grèine thar bheanntan grian madainn
-🚾	clòsaid clòsaid-uisge taigh-beag uisge wc
-📮	bogsa-puist post
-🦽	cathair-chuibhle a làimh so-ruigsinneachd
-🌁	ceò ceòthach
-🫈	bigfoot coille cryptid fionnach fuamhair gaosaideach molach ròmach sasquatch woodwose yeti
-🦷	fiacaill fiaclair
-🪺	nead le uighean neadachadh neadaich
-🐜	bèisteag biastag fiolan meanbh-fhrìde seangan
-🔋	bataraidh
-🟡	buidhe cearcall
-🌑	dorch gealach ùr
-😩	aodann air chlaoidh claoidh sgìth
-🛒	cairt ceannach ceannachd ceannaich seopadaireachd troilidh
-🆗	ceart ma-thà ok putan
-🪝	cròcag cròicean cromag dubhan huca reic rib
-🥞	biadh breacag breacagan crêpe foileag
-💳	airgead banca cairt cairt-chreideis creideas
-🦗	brobhadan fionnan-feòir greollan leumadair-uaine srannan
-🫛	builgean builgean-peasrach edamame glasraich peasair peasraichean pònair
-🥧	lìonadh pàidh pastraidh pigheann
-🧸	bog dèideag bhog teadaidh
-🧛	bhampair closach dracula
-🟪	ceàrnach corca purpaidh
-🐱	aodann cait cat peata
-🦺	èideadh sàbhailteachd èiginn peiteag
-🈴	iapanais ideo-ghraf ìre pas putan seapanais “ìre pas”
-🍏	meas uaine ubhal
-🌠	dreag earballach reul rionnag tuiteam
-❌	× comharra iomadachadh iomadaich samhla croise sguir dheth sgur x
-🐸	aodann losgann
-🧀	càise staoig
-🪕	bainsio ceòl teud teudan
-🐩	cù poodle pùdal
-🦻	bodhar claisneachd claisteachan cluas le èisteachd bheag inneal-claisneachd inneal-cluinntinn so-ruigsinneachd
-👩‍🦼	boireannach ann an cathair-chuibhle le einnsein so-ruigsinneachd tè
-🧙	ban-draoidh bana-bhuidseach buidseach draoidh
-👨‍🏫	àrd-ollamh duine fear fireannach oide fireann ollamh tidsear
-💄	beul-dath maise maise-gnùis
-🚘	càr a’ tighinn thugad
-👨‍🏭	duine factaraidh fear fireannach gnìomhachas neach-obrach obraiche obraiche-factaraidh fireann tionaladh
-🏣	iapanach oifis-puist sheapanach post seapanach
-🫐	braoileag dearc dearc-choille dearc-ghorm dearcan-gorma fraochag fraochan gorm mòineag
-🦑	biadh gibearnach moileasg
-🐵	aodann muncaidh
-🧊	beinn-deighe beinn-eighe ciùb deighe cnoc-deighe cnoc-eighre deig eigh eigh-bheinn fuar
-🤿	daibheadh daoibhigeadh masg-daoibhigidh scuba snorgal snorgaladh
-📼	cèiseag-video teip vhs video
-💟	cridhe sgeadas
-🎥	camara camara-film film taigh-dhealbh
-🧥	còta seacaid
-🐽	aodann gnos muice muc sròn
-👭	boireannach boireannaich a’ glacadh air làmh a chèile càraid dithis
-🚝	aona-rèile carbad
-🩷	cridhe crithe pinc gaol stampa toil
-🧑‍🎓	ceumnachadh oileanach
-🏡	dachaidh dachaigh dhachaidh dhachaigh gàrradh lios taigh le
-😮‍💨	anail aodan a’ leigeil cagar cnead cogar faochadh fead leig d’ plosg
-🔣	〒♪&% ion-chur shamhlaichean
-🪚	acainn fiodh inneal sàbh saoirsinneachd saor saorsainneachd
-🧕	boireannach le brèid oirre hijab mantilla tè tichel
-🦂	grian-chriosach scorpio sgairp
-➖	- – matamataig minus samhla toirt air falbh thoir
-😮	aodann le beul fosgailte co-fhulangas truaghas truas
-🪸	coireal corail riof
-🚊	bus-troilidh trama
-😟	aodann fo dhragh dragh
-📇	cairt clàr-amais chairtean rolodex
-🌽	coirce dias innseanach
-📫	bogsa-puist dùinte le bratach gu h-àrd post
-🚄	astar luaths rathad-iarainn rèile shinkansen slighe-iarainn trèana fhìor luath
-🧑‍🎨	ealan neach-ealain paileat
-🪪	cairt-aithne cairt-aithneachaidh cead id tèarainteachd teisteas
-🫖	òl poit poit-teatha poit-tì teatha tì
-🕘	00 9 9:00 cleoc cloc gleoc naoidh uairean uair
-🈵	gun seòmar saor iapanais ideo-ghraf putan seapanais “gun saor”
-🐔	cearc eun eunlaith
-👩‍🦽	boireannach ann an cathair-chuibhle a làimh so-ruigsinneachd tè
-🛗	àrdaichear so-ruigsinneachd tog togail
-🍊	meas orainds orains tangerine
-🤒	aodann le teas-mheidh bochd tinn
-🎾	bàla ball racaid teanas
-🤡	aodann tuaisteir tuaistear
-💰	airgead baga dolar mogan airgid poca
-🛴	breabadh sgùtair sgùtair-breabaidh
-🪷	bhiet-nam budastachd buddhadhachd glainne hionduthachd innseachan innsean lòtas lus na h-innseachan h-innsean
-🦉	cailleach-oidhche eun glic
-🐛	bèisteag biastag daolag fiolan meanbh-fhrìde
-📣	brosnachadh meaga-fòn
-😱	an t-eagal air aodann a’ leigeil sgreuch eagail eagal eagalach munch sgread
-🥨	pretzel toinnte
-📎	clip-phàipeir
-🍩	doughnut milis milseag
-🐕	cù peata
-🧑‍🧒‍🧒	clann duine-cloinne inbheach pàiste teaghlach
-🪮	afraganach cìr bheag falt
-🫗	a’ dòrtadh deoch dòirt falamh glainne uisge
-📳	caismeachd crithe crith fòn fòn-làimhe modh
-💏	càraid pòg
-🔮	acainn bàla ball criostail criostal fantastach faoinsgeul fortan inneal
-🙆	aontachadh gluasad làmh neach ag ri rud
-🏈	aimeireaganach bàla ball ball-coise
-🥿	asair ballet bròg fasair laobhag slipeir
-🦿	ath-bhall-bodhaig cas mheacanaigeach so-ruigsinneachd
-💆	aodann massage neach a’ faighinn salon
-🫯	argamaid connspaid deasbad easaonta sabaid spàirn tuasaid
-🫰	airgead cnag cridhe daor gaol làmh le a colgag is òrdag ri chèile
-🥯	bagel bèicearachd
-🦜	bruidhinn eun pearraid spùinneadair
-👨‍🌾	croitear duine fear fireannach gàirnealair rainsear tuathanaiche fireann
-👖	aodach briogais dìnichean
-🦕	brachiosaurus brontosaurus dìneasar diplodocus sauropod
-🚯	àicheadh diùltadh na tilg sgudal tilgeil toirmisgte
-🩱	deise-shnàimh snàmh
-➕	+ cuir ris cur matamataig plus samhla cuir-ris
-😡	aodann busach dearg fearg feargach
-🥋	carataidh ealainean còmhraige èideadh nan judo taekwondo
-🐣	eun eunlaith gur isean ga ghur
-👑	aodach bànrigh crùn rìgh
-🏆	cuach-bhuaidhe duais
-🦔	bior biorach bioran cràineag dràineag gràineag uircean
-✋	5 àrd còig làmh air a togail taghta
-🔪	acainn arm còcaireachd hocho inneal sgian cidsin
-🪔	diya lampa lampa-eòlain ola
-🐏	aries caora fireann grian-chriosach reithe
-🟣	cearcall corca purpaidh
-🥦	brocail càl
-👜	aodach baga baga-làimhe sporan
-🍎	dearg meas ubhal
-🍜	bobhla le ceò às nùdail ramen
-🐓	coileach eun eunlaith
-🪑	cathair sèithear suidhe suidheachan
-🧠	eanchainn glic tapaidh
-📘	gorm leabhar
-🛬	itealan landadh plèana ruigsinn itealain
-🍘	cnacair cracair rìs
-🦚	àrdan eucag eun feucag moiteil peucag pròiseil stàirneil
-🎆	cleasan-teine comharrachadh
-🫌	atharrachadh biastag cruth-atharrachadh cugallach dòchas imrich meatamorfosis
-🤯	annas ceann a’ spreadhadh
-🟩	ceàrnach uaine
-🈲	iapanais ideo-ghraf putan seapanais “toirmisgte” toirmisgte
-😈	adharcan aodann le gàire agus fantastach faoinsgeul fiamh-ghàire
-💗	air bhioran cridhe a’ fàs cuisle cuisleachadh cuislich iomagaineach nearbhasach
-🔼	dearg putan suas saighead
-🎈	bailiùn comharrachadh
-🦀	cancer crùbag grian-chriosach partan
-🩸	boinne fala fuil mhìosail fuil-mìos leigheas tabhartas
-📄	duilleag le h-aghaidh os a cionn sgrìobhainn
-🐋	muc-mhara
-🍌	banana meas
-🤕	aodann le clobhd air a’ cheann leòinte leònta
-👡	aodach boireannach bròg cuaran boireannaich sandal
-🏤	eòrpach oifis a’ phuist post
-🏓	bàla ball bata geama ping-pong teanas-bùird
-🧁	bèicearachd cèic-chuachaige milis
-🌲	craobh sìor-uaine
-🎂	cèic co-là-breith comharrachadh milis milseag pastraidh
-💋	bilean làrach pòige pòg
-🤔	aodann ri smaoineachadh
-⛳	bratach ann an toll goilf
-🧫	bacerium baictear bith-eòlaiche bith-eòlas deuchainn deuchainn-lann lobhag soitheach petri
-🥠	briosgaid fortain fàdh fàisneachd fàistinn fàthach
-👐	fosgailte làmh làmhan
-😃	aodann le gàire is sùilean fosgailte beul fiamh-ghàire
-👅	bodhaig teanga
-🤨	aodann le mala togta dì-earbsa teagamh teagamhaiche
-🎌	brataichean tarsainn a chèile comharrachadh iapanach seapanach
-💫	dealbh-èibhinn rionnag tuaineal
-🤹	caisreabhachd cothromachadh iomadh-shaorachadh neach ri sgil
-📠	facs inneal
-🚪	doras
-🥹	aodann le deòir na sùil brònach feargach moiteil rànail strì
-🌖	briseadh crotach gealach chrotach a’ traoghadh
-🙏	5 àrd còig cromadh faighneachd gluasad iarraidh làmh làmhan paisgte taing ùrnaigh
-🧑‍🎤	actair cleasaiche rionnag ròc seinneadair
-🪥	bruis bruis-fhiaclan fiacal fiaclan seòmar-ionnlaid slàinteachas
-🏄	neach a’ surfadh
-👩‍🔬	bith-eòlaiche boireannach ceimigear einnseanair fiosaigiche innleadair matamataigear neach-saidheans boireann tè
-🤺	claidheamh feannsair feannsaireachd neach ri
-🎠	each each-timcheallain timcheallan
-🈳	iapanais ideo-ghraf putan seapanais “seòmar saor” seòmar saor
-🔥	acainn lasair teine
-🪿	eun eunlainn eunlaith gèadh gòrach ràc
-🍨	milis milseag reòiteag uachdar
-🕓	00 4 4:00 ceithir uairean cleoc cloc gleoc uair
-🔯	fortan reul rionnag shia-rinneach dhotagach
-📉	cairt a’ dol sìos crìonadh graf treand
-🐀	radan
-👟	aodach bròg bròg-ruith bròg-thrèanaidh lùth-chleasachd
-📯	còrn a’ phuist post
-😅	aodann le gàire a’ cur fallas fiamh-ghàire fosgailte fuar
-🦛	each-aibhne
-🌛	aodann ceathramh gealach sa chiad cheathramh le solas ùr na gealaich
-👔	aodach tàidh
-🧡	cridhe orains
-❔	comharra comharra-ceiste geal oir-loidhne puingeachadh
-🐺	aodann madadh-allaidh
-🪹	nead falamh neadachadh neadaich
-🤴	prionnsa
-🌘	briseadh corranach gealach chorranach a’ traoghadh
-🩺	cridhe dotair leigheas lighiche steatasgop steiteasgop
-🍣	sushi
-🍢	bior feamann iasg kebab maorach oden
-🦐	beag biadh carrain maorach
-🫺	deas greim neodrach puing seo sin
-🍮	milis milseag ughagan
-🥐	aran biadh croissant frangach rola corranach
-🔖	comharra comharra-leabhair comharraich
-🥟	dumplag empanada gyōza jiaozi pierogi
-🎭	aghaidh-choimheach cleasachd ealain-chluiche ealan taigh-cluich
-🈚	an-asgaidh iapanais ideo-ghraf putan seapanais “saor ’s an-asgaidh” saor ‘s
-🚋	bus-troilidh càr còidse trama
-🚦	siognail solais-thrafaig inghearach solas trafaig
-😒	aodann nuair nach eil e èibhinn mì-thoilichte
-🔹	daoimean beag gorm geomatrach
-🪴	altram altramadh dòrainneach fàs gun fheum lus ann am poit ràsanach taigh
-🧰	acainn bogsa bogsa-innealan inneal meacanaig
-🦃	cearc cearc-fhrangach coileach-frangach coileach-turcach eun eun-frangach eunlaith
-🍄	balgan-buachair balgan-buachrach
-🟤	cearcall donn
-🫱	deas làmh ris an taobh
-🧟	closach coiseachd marbh zombie
-👨‍🎤	actair cleasaiche duine fear fireannach rionnag ròc seinneadair fireann
-🫩	buaile claoidh claoidhte leigeadh roimhe sùil teirbheirt toirbheart toirt thairis
-🤗	aodann a’ pasgadh gàirdeanan timcheall
-⏩	air adhart dùbailte luath putan “toinn adhart” saighead
-🕜	1 1:30 30 aon cleoc cloc gleoc leth-uair an dèidh uair trithead
-📈	cairt a’ dol suas fàs graf treand
-🦆	eun eunlaith tunnag
-🤼	daoine ri gleacadh gleacadair
-🎶	ceòl pong pongan ciùil puing
-🦁	aodann grian-chriosach leo leòmhann
-🤏	beagan làmh le sradag
-🪄	bana-bhuidseach buidseach draoidh draoidheachd slatan-draoidheachd
-🆖	ng putan
-😙	aodann a’ pògadh le sùilean toilichte fiamh-ghàire pòg sùil
-🙍	drèin gluasad neach le
-🚂	carbad-smùide einnsean rathad-iarainn rèile smùid trèana
-👰	banais bean na bainnse brat-gnùise neach le
-🚭	àicheadh diùltadh smocadh toirmisgte toit
-😨	an t-eagal air aodann fo eagal eagalach
-🎼	ceòl iuchair-ghleus sgàla sgòr sgòr-ciùil
-🤦	aodann dì-chreideamh farranachadh làmh neach le na làmhan
-📞	fòn glacadair-fòn
-🚎	bus bus-troilidh trama troilidh
-🔢	1234 àireamhan ion-chur
-🪣	bacaid ballan bucaid peile
-😾	aodann busach cat
-🥢	bioran-ithe hashi
-🏑	bàla ball caman geama hocaidh raoin raon
-🎢	còrsair pàirc fhaoin-chleasan rolair rolair-còrsair
-🐭	aodann lucha luch luchag
-😧	àmhghar aodann àmhghair
-🐷	aodann muice muc
-🫣	aodann le sùil a’ dìdeadh beò-ghlacte dìdeach dìdeil fàthadaireachd spleuchd
-🍈	meal-bhuc meas
-🤛	clì dòrn ris an taobh chlì
-🙋	gluasad làmh neach a’ togail a tog toiliche
-🚲	baic baidhg baidhseagal rothair
-🍑	meas peitseag
-🌍	afraga cruinne leis an roinn-eòrpa ’s globa a’ sealltainn agus saoghal talamh
-👬	caigeann càraid dithis duine fireannach fireannaich a’ glacadh air làmh a chèile gaolag gemini gràdhag grian-chriosach leth-aon
-🐗	muc torc
-🤎	cridhe donn
-🚃	bus-troilidh càr còidse dealanach rathad-iarainn rèile slighe-iarainn trama trèana
-🎤	karaoke mic micreofon
-👿	aodann feargach le adharcan deamhan diabhal fantastach faoinsgeul
-📡	iadhaire iadhaire-saideil saideal soitheach
-🫨	aodann le crathadh air clisgeadh crath crith crith-talmhainn
-🤜	deas dòrn ris an taobh
-🌰	flùr geanm-chnò lus
-🐨	koala mathan
-📚	leabhar leabhraichean
-🌿	duilleag luibh
-♍	a’ mhaighdeann crian-chriosach grian-chrios maighdeann virgo
-📂	faidhle fosgailte pasgan fhaidhlichean
-🔠	abcd ion-chur litrichean mòra laideann litir mòr
-🔗	bun-dùirn ceangal ceangal-dùirn lùb
-🔱	acainn acair inneal long muirgheadh samhla muirgheidh suaicheantas
-🥒	biadh cularan glasraich piceal picil
-⏪	air ais dùbailte luath putan “air gu luath” saighead
-🥁	bioran ceòl druma
-📅	ceann-là ceann-latha mìosachan
-👨‍🦼	cathair-chuibhle duine ann an le einnsein fireannach so-ruigsinneachd
-🍚	bruich rìs
-🐆	liopard
-☔	aodach boinne sgàilean sgàilean-uisge le boinnean uisge
-🍼	bainne botal leinibh deoch leanabh
-🎳	bàla ball bobhladh geama
-🪭	dannsa diùid fuarachadh gaotharan gaotharan-làimhe teth
-🍉	meal-bhuc uisge meas
-🎄	comharrachadh craobh nollaig
-🔲	ceàrnag ceàrnagach geomatrach putan dubh
-🧑‍🌾	croitear cruitear gàirnealair rainsear tuathanach
-🚩	bratach thriantanach post
-🦓	sìobra stiall stiallach stiallan
-🍗	cas circe cearc cnàmh eunlaith
-🥮	cèic-ghealaich fèis foghar yuebing
-🏪	bùth ghoireasach goireasach
-🍓	dearcan meas sùbh sùbh-làir
-🤚	cùl làimhe air a thogail làmh togail
-📩	a-mach cèis le saighead cuir cur litir post post-d sìos
-📓	leabhar leabhar-nòtaichean
-👥	com sgàil-dhealbh sgàil-riochd de chuim silhouette
-📊	bàr cairt cairt-bhàraichean graf
-🗽	ìomhaigh na saorsa
-🕒	00 3 3:00 cleoc cloc gleoc trì uairean uair
-🪋	apocalypse ball-teine ​​ creag fànais grabhataidh rionnag tuiteam
-👓	aodach speuclairean sùil
-🚰	òl so-òlta uisge
-🎽	bann lèine lèine-ruith lùth-chleasachd ruith
-😴	aodann na chadal cadal zzz
-🎦	camara film taigh-dhealbh
-🥏	clàr diosg frisbee
-🦡	broc brocan buair buaireadh
-🎨	dealbh ealan paidhleat paileat neach-ealain taigh-tasgaidh
-🍖	cnàimh feòil air a’ chnàimh
-🔍	acainn glainne glainne-mheudachaidh ag aomadh dhan taobh chlì inneal lorg meudachadh
-🌹	flùr ròs
-👩‍🚀	ban-speuradair boireannach rocaid speuradair tè
-🐚	slige shnìomhanach snìomh snìomhanach
-🎰	geama inneal shlotaichean slot
-🕺	dannsa dannsadh duine a’ fear fireannach
-🔡	abcd beag ion-chur litrichean beaga laideann litir
-👩‍🦯	boireannach dall le batachan doille so-ruigsinneachd
-🕍	creideamh iùdhach sionagog teampall
-🛁	amar ballan-ionnlaid ionnlad ionnlaid
-💘	cridhe le saighead cupaid
-🥍	bàla ball bata caman lacrosse tadhal
-🧑‍🔧	ceàrd dealanair meacanaig plumair
-😍	aodann le gàire ⁊ sùilean nan cridheachan agus cridhe fiamh-ghàire gaol sùil
-🆑	cl putan
-🧃	bogsa carton dighe deoch sùgh
-👒	ad boireannaich aodach boireannach
-♌	an leòmhann grian-chrios grian-chriosach leo
-🌞	a’ ghrian le aodann oirre grian soilleir
-🍆	aubergine glasraich
-😊	aodann le gàire agus sùilean toilichte fiamh-ghàire ruadhadh sùil
-🫸	5 àrd còig diùlt fuirich làmh a’ putadh dhan taobh dheas mol put ris an deas stad
-💲	airgead airgeadra dolar samhla dolair trom
-🦍	goiriola muncaidh
-🌈	bogha-froise uisge
-🙂	aodann le fiamh gàire beag fiamh-ghàire
-🧭	clach-iùil combaist iùil magnaiteach seòladaireachd sligheadaireachd stiùireadh
-👞	aodach bròg fir duine fireannach
-🩳	briogais-ghlùine briogais-shnàimh deise-snàmh fo-aodach
-🧑‍🚀	rocaid speuradair speurair
-🕚	00 11 11:00 aon deug uair cleoc cloc gleoc
-😵	aodann na thuaineal tuaineal
-📿	aodach coileir creideamh grìogagan muinge ùrnaigh
-🤓	aodann gìog
-🪀	atharrachadh atharraich dèideag luaisg luasgadh yo-yo
-🏫	sgoil togalach
-🍹	bàr deoch thropaigeach òl tropaigeach
-🕝	2 2:30 30 cleoc cloc dà gleoc leth-uair an dèidh trithead uair
-🕠	30 5 5:30 cleoc cloc còig gleoc leth-uair an dèidh trithead uair
-📟	pèidsear
-🎵	ceòl pong puing
-👙	aodach bikini snàmh
-🩲	briogais-shnàimh deise-snàmh fo-aodach
-🤑	airgead aodann le sùilean is teanga airgid beul
-🚛	làraidh altanach semi truca
-🥘	adhann le biadh casaroil eu-domhain paella
-😘	aodann a’ caitheamh pòg
-🛺	càr càr-rickshaw rickshaw tuk
-👱	bàn falt neach le
-🛂	cead-siubhail pas sgrùdadh nam
-🪓	bris briseadh fiodh maide sgoilt sgoltadh tuagh
-🫝	blasad coipeadh cucumar picil relish sàl trioblaid
-🔞	18 àicheadh aois cuingeachadh aoise daoine os cionn a-mhàin diùltadh mion-aoiseach toirmisgte
-🤝	aontachadh coinneamh crath crathadh crathadh-làimhe làmh
-📒	leabhar leabhar-cunntais leabhar-nòtaichean
-🚥	siognail solais-thrafaig chòmhnard solas trafaig
-🔊	àrd fuaim glaodhaire ’s fhuaim a’ cur a-mach
-🐴	aodann eich each
-😕	aodann tro chèile
-🫑	glasraich piobar piobar-milis
-🫄	brù glutach làn leatromach neach trom
-🪐	gruamach planaid fhàinneach rionnag nan roth satarn sathairn saturn
-🏅	bonn spòrs
-🏯	caisteal iapanach seapanach
-🌊	cuan stuagh tonn uisge
-💿	cd coimpiutair diosg lèirsinneach optaigeach
-🪦	clach clach-chinn clach-uaighe cladh leac leac-lighe uaigh
-⚾	bàla ball ball-beusa
-👈	colgag a’ tomhadh clì corrag druim na làimhe làmh meur
-🦒	breac breacach breacan sioraf
-🌗	ceathramh deireadh na gealaich gealach sa cheathramh mu dheireadh
-🚸	clann a’ dol thairis coiseachd coisiche tarsainn trafaig
-🤳	camara fèineag fòn
-🏀	bàla ball ball-basgaid cearcall
-🚏	bus stad stad-bhusaichean
-🥷	fàillidh falaichte gaisgeach ninja
-⚽	bàla ball ball-coise
-🚖	tagsaidh a’ tighinn thugad
-👂	bodhaig cluas
-👝	aodach baga clutch bag pùidse
-📵	àicheadh diùltadh fòn fòn-làimhe fònaichean-làimhe toirmisgte
-🐳	aodann muc-mhara a’ sèideadh
-😯	aodann iongnaidh le sùilean fosgailte iongnadh tost
-🍫	bàr milis milseag teòclaid
-🌋	beinn beinn-theine spreadhadh
-🧝	ailbhear draoidheach
-💛	buidhe cridhe
-👨‍💻	bathar-bog còdair duine fear fireannach innleachdair leasaichear prògramair teicneolaiche fireann
-🐃	buabhall buabhall-uisge crodh sprèidh uisge
-🧆	bàla-feòla cearc-pheasair cic-pheasair falafel
-💎	daoimean leug seud
-🧑‍🚒	einnsean-smàlaidh smàladair
-📷	camara video
-⛪	creideamh crìostaidh crois eaglais
-🚵	baidhseagal beinn neach ri rothaireachd bheanntan rothair
-🐟	èisg grian-chriosach iasg pisces
-🤥	aodann nam breug pinocchio
-😛	aodann a’ cur a-mach na teanga
-🦵	breab breabadh cas sliasaid
-🪒	beàrr bearradh ealtainn geur
-💈	barbair cliop gruagaire pòla
-📹	camara camara-video video
-🛵	motair sgùtair sgùtair-motair
-💸	airgead le sgiathan banca dolar not nòta nòta-airgid nòta-banca
-🔦	dealanach inneal lòchran solas toirds dealain
-🧑‍🧑‍🧒‍🧒	clann duine-cloinne inbheach pàiste teaghlach
-🚳	àicheadh baidhseagal diùltadh rothair rothaireachd toirmisgte
-🪵	fiod fiodh loga maide
-😂	aodann le deòir shona deur gàire sona
-🐦	eun
-🔩	acainn bolta cnò ’s inneal
-🤠	ad aodann le cowboy cowgirl
-🔉	fuaim glaodhaire ’s fhuaim mheadhanach a’ cur a-mach meadhanach
-💇	bearradair bòidhchead borbair cliop gruagaire neach a’ faighinn
-🧓	gun ghnè sean seann seann-inbheach
-👼	aingeal òg aodann fantastach faoinsgeul leanabh naoidhean
-🪠	loinid plumair sùghadh taigh-beag
-👨‍💼	ailtire duine fear fireannach gnìomhachas manaidsear gnothachas obraiche-oifis fireann oifis
-🔃	ath-luchdadh ath-luchdaich deiseil saighdean inghearach a’ dol saighead
-🦦	cleasach dòbhran iasgach iasgaich
-🗻	beinn fuji
-🐖	cràin muc
-🧲	clach-iùil crudha-eich magnaiteach tarraing
-🚻	sanas taighe-bhig taigh-beag wc
-💤	cadal dealbh-èibhinn suain zzz
-🔌	dealan dealanach pluga dealain
-🏺	acainn amfora aquarius arm còcaireachd deoch fear-giùlain uisge grian-chriosach inneal òl siuga
-📻	rèidio video
-🧑‍🦯	dall doille neach le batachan so-ruigsinneachd
-🪗	bogsa bogsa-ciùil bucas
-🍱	bento bogsa
-🔘	geomatrach putan putan-rèidio rèidio
-🕙	00 10 10:00 cleoc cloc deich uairean gleoc uair
-👻	aodann creutair fantastach faoinsgeul taibhse uilebheist
-🧉	deoch mate teatha tì
-🫀	buille cridhe buille-chuisle cuisle meadhan organ plosgadh
-🦭	leòmhann-mara ròn
-👨‍🔬	bith-eòlaiche ceimigear duine einnseanair fear fiosaigiche fireannach innleadair matamataigear neach-saidheans fireann
-🐫	bactrach càmhal croit crotach cruit
-♉	an tarbh damh grian-chrios grian-chriosach taurus
-👨‍🍳	còcaire fireann duine fear fireannach
-🚢	bàta long taistealach
-🥽	dìon sùla glainne-dhìona snàmh sùil tàthadh
-🚟	crochadh rèile rèile-chrochaidh
-🔶	daoimean mòr orains geomatrach orainds
-🪡	druine fuaigheal grèis greus snàthad
-⛺	campachadh teanta
-🙁	aodann le fiamh drèin beag
-👾	aodann creutair creutair-fànais fantastach faoinsgeul neo-thalmhaidh ufo uilebheist
-💷	airgead airgeadra banca not nòta nòta-airgid nòta-banca punnd
-🏉	bàla ball ball-coise ball-rugbaidh rugbaidh
-❓	comharra comharra-ceiste dearg puingeachadh
-👩‍🎨	boireannach ealan neach-ealain boireann pailead tè
-🐇	coineanach peata rabaid
-🌾	dias gràinnean rìs
-🛷	càrn càrn-slaoid slaod sleids
-🌀	cearcall-ghaoth cuairt cuairt-gaoithe gaoith toirm-ghaoth tuaineal
-🦴	cnàimh cnàimhneach
-👨	duine fear fireannach
-💥	bualadh ri chèile dealbh-èibhinn spreadhadh
-🗿	aodann ìomhaigh mo‘ai mo’ai moai moyai
-⛵	bàta bàta-seòlaidh geat muir sgoth turasachd
-🫵	colgag a’ tomhadh ort thusa tomh
-🏰	caisteal eòrpach
-🐞	bèisteag biastag daolag daolag-bhreac fiolan meanbh-fhrìde
-🚆	rathad-iarainn rèile slighe-iarainn trèana
-🐕‍🦺	cù cù-taice seirbheis so-ruigsinneachd taic
-🐮	aodann bà bò crodh sprèidh
-🏮	bàr dearg lanntair lanntair-pàipeir solas
-😥	aodann a fhuair briseadh-dùil ⁊ faochadh agus
-🧤	làmh miotagan
-🐰	aodann coineanach peata rabaid
-🏨	taigh-òsta togalach
-🍕	càise pizza slis sliseag
-📗	leabhar uaine
-🎇	cleasan-teine comharrachadh lainnir lainnireag sradag
-🪳	bèisteag biastag càrnan-gallda daolag fiolan meanbh-fhrìde plàigh
-⚡	cunnart dealan dealanach dealanaich voltachd àrd
-⏬	dùbailte putan “sìos gu luath” saighead sìos
-🍻	bàr beòir deoch gliongadaich leann muga mugaichean a’ òl
-🚺	boireannach taigh-beag nam tè wc
-👚	aodach boireannaich boireannach
-🧳	bagaist pacadh siubhail siubhal
-♐	an saighdear boghadair grian-chrios grian-chriosach sagittarius
-🚤	bàta luath-bhàta
-📝	cuimhneachan peansail
-🪨	clach creag cruaidh trom ulbhag ulpag
-🍅	glasraich meas tomàto
-📁	faidhle pasgan
-🎁	bogsa comharrachadh paisgte prèasant tìodhlac
-🧑	gun ghnè inbheach
-🚒	einnsean einnsean-smàlaidh làraidh smàladh teine truca
-👷	ad neach-togail obair togail obraiche
-🔤	abc aibideil ion-chur laideann litir litrichean
-🚞	beinn càr còidse rathad-iarainn rèile rèile-bheinne slighe-iarainn
-🌐	cruinne le meadhan-loidhnichean globa meadhan-loidhne saoghal talamh
-😸	aodann cat le gàire agus sùilean toilichte fiamh-ghàire sùil
-🫡	aidh altachadh aodann ag arm ceart ma-thà feachd grianach
-🟰	co-ionnan co-ionnann co-ionnannachd matamataig samhla trom
-🚬	smocadh toit toitean
-🆒	cool gasta putan smodaig
-🍺	bàr beòir deoch leann muga òl
-🪏	adhlaic adhlaich amhlaig cab cladhach cuir dìg gàrradh siofal sluaisead sluaist sluasaid sneachda spaid tìodhlaic tochail
-🐂	crodh damh grian-chriosach sprèidh tarbh taurus
-🤙	fòn làmh a’ comharradh “cuir thugam”
-♓	èisg grian-chrios grian-chriosach iasg na h-èisg pisces
-👵	boireannach cailleach sean tè
-🐧	ceann-fionn eun
-❎	× ceàrnag comharra samhla croise ann am putan x
-🟫	ceàrnach donn
-🥩	feòil mairtfheoil muicfheoil muiltfheoil sitheann staoig uainfheoil
-🦾	ath-bhall-bodhaig gàirdean meacanaigeach so-ruigsinneachd
-🎣	iasg slat slat-iasgaich
-😌	aodann a fhuair faochadh
-🫷	5 àrd còig diùlt fuirich làmh a’ putadh dhan taobh chlì mol put ris an stad
-🐝	bèisteag biastag fiolan meanbh-fhrìde seillean
-🌻	flùr grian neòinean neòinean-grèine
-✨	lainnir lainnirean reul rionnag
-🚽	taigh-beag
-🥑	abhocado biadh meas
-👛	aodach bonn sporan
-🌮	meagsagach taco
-📋	bòrd-chliopaichean stòr-bhòrd
-🦊	aodann madadh-ruadh sionnach
-⚫	cearcall dubh geomatrach
-♒	am fear-giùlain uisge aquarius giùlan grian-chrios grian-chriosach
-🐈‍⬛	cat droch-fhortan dubh mì-àgh mì-shealbh
-🩵	crann-lach cridhe solleir-ghorm saidhean soilleir-ghorm
-📤	a-mach air a chur bogsa cuir cur litir post treidhe
-🐐	capricorn gobhar grian-chriosach
-🧂	abhlan alltann annlann anntann crathadair salainn spìos
-🎯	amas bullseye geama san teis-mheadhan sgiathag targaid
-🐻	aodann mathan
-🔨	acainn inneal òrd
-🚣	bàta eathar iomradh neach ag
-👕	aodach lèine lèine-t
-🐼	aodann panda
-👃	bodhaig sròn
-📭	bogsa-puist fosgailte le bratach gu h-ìosal post shìos sìos
-🚁	carbad heileacoptar
-🛻	pick-up pickup truca
-🕤	30 9 9:30 cleoc cloc gleoc leth-uair an dèidh naoidh trithead uair
-🫅	aon-fhlath àrd-fhlath monarc neach le crùn air rìgh rìoghalachd uasail
-🧑‍🦽	cathair-chuibhle neach ann an a làimh so-ruigsinneachd
-🌱	òg sìolag
-😪	aodann cadalach cadal
-🧒	duine-cloinne gun ghnè òg
-🦤	à bith dìtheachd dòdo marbh mhoiriseas moiriseas mòr
-👢	aodach boireannach bòtann boireannaich bròg
-📬	bogsa-puist fosgailte le bratach gu h-àrd post
-🚼	badan leanabh naoidhean samhla leanabhain
-🚑	carbad carbad-eiridinn
-😞	aodann a fhuair briseadh-dùil
-🍸	bàr cocktail deoch glainne òl
-🥵	a’ cur fallas aodann dearg teth fiabhras teas
-🫔	meagsagach paisgte tamale
-👹	aodann creutair diabhal seapanach fantastach faoinsgeul uilebheist
-😬	aodann le drèin air
-🤶	bean bodach na nollaig comharrachadh màthair
-🎓	ad aodach ceumnachadh comharrachadh currac ceumnachaidh
-👩‍🎓	ban-oileanach boireannach ceumnaiche oileanach tè
-🛖	bothan cruinn taigh taigh-cruinn yurt
-🎬	bòrd-braig film
-🤘	adharc corrag làmh meur rocamaid samhla nan
-🕣	30 8 8:30 cleoc cloc gleoc leth-uair an dèidh ochd trithead uair
-🤫	aodann “ist!” ist sàmhach tost
-🔭	acainn glainne glainne-amhairc inneal meudachadh prosbaig saidheans teileasgop
-🌸	blàth flùr siris
-🥻	aodach dreasa sari
-🎷	ceòl inneal-ciùil ionnsramaid sacsafon
-😺	aodann beul cat le gàire fiamh-ghàire fosgailte
-😫	aodann sgìth
-😀	aodann le gàire fiamh-ghàire
-💭	bailiùn builgean smaoineachaidh dealbh-èibhinn smaoineachadh smaointinn
-🦼	cathair-chuibhle le einnsein so-ruigsinneachd
-👩‍💼	ailtire boireannach gnìomhachas manaidsear gnothachas obraiche-oifis boireann oifis tè
-♿	inntrigeadh samhla sèitheir-chuibhle
-🥄	innealan bùird spàin
-🧽	cìobail glan glanadh nighe spong sùghadh
-💵	airgead airgeadra banca dolar not dolair nòta nòta-airgid nòta-banca
-🐹	aodann hamstair peata
-💾	bog coimpiutair diosg floppy
-🌔	cinntinn crotach fàs gealach chrotach a’
-🥫	biadh ann an cana
-💴	airgead airgeadra banca not nòta nòta-airgid nòta-banca yen
-🦧	apa muncaidh orangutan
-🍶	bàr botal cupa cupan deoch sake
-⚪	cearcall geal geomatrach
-🆙	comharra putan “up!” suas
-😎	aodann toilichte le speuclairean-grèine fiamh-ghàire gasta grian smodaig soilleir speuclairean sùil
-📐	rùilear seata triantanach
-🫧	brùchd builgean fon uisge glan rùchd siabann
-💕	dà chridhe gaol
-😗	aodann pòige pòg
-🫤	ana-chreideamhach aodann le beul trastanach às-chreideamhach briseadh dùil mì-chreideamhach neo-chinnteach teagmhach
-💬	bailiùn bruidhinn builgean còmhraidh cainnt còmhradh dealbh-èibhinn
-🛘	beinn creagan crith-talmhainn cunnart dosgainn dunach dunaidh maoim-puill maoim-slèibhe maoim-sneachda maoim-talmhainn monadh
-🚚	làraidh làraidh-lìbhrigidh lìbhrigeadh
-🔚	deireadh saighead “end”
-💺	cathair sèithear suidheachan
-🎉	bragadair cèilidh comharrachadh pàrtaidh
-🤲	an dà bhois suas còmhla ùrnaigh
-😔	aodann fo throm-smuain sprochd trom-inntinneach
-👋	làmh a’ smèideadh smèid
-🎊	bàla ball cèilidh comharrachadh confetti
-💼	màileid màileid-oifise
-🥬	bok choy càl leatas
-🈸	iapanais ideo-ghraf putan seapanais “tagradh” tagradh
-🚱	do-òlta na òl uisge
-🐄	bò crodh sprèidh
-⬜	ceàrnag mhòr gheal geomatrach
-😝	aodann caog-shùileach le theanga a-mach blas sùil teanga uabhasach
-😓	aodann a’ cur fallas fuar
-🩼	bata ciorram crasg cruidse leòinte leòn taic-ghluasaid trostan
-🙀	aodann cat air chlaoidh claoidh iongnadh ò sgìth
-🧯	inneal-smàlaidh smàladh teine
-🦖	t-rex tyrannosaurus rex
-🧑‍🧒	clann duine-cloinne inbheach pàiste teaghlach
-🐒	muncaidh
-🥴	aodann misgeach daorach froighleach misg smoid smoideag smùid smùideag stealladh tuaineal
-🧅	blas blasachadh uinnean
-🍙	ball iapanach rìs seapanach
-👨‍🚒	carbad-smàlaidh duine fear fear-smàlaidh fireannach neach-smàlaidh smàladh
-🪈	ceòl cuisle-bhinn duiseal feadan gaoth-ionnsramaid pìob
-🏏	bàla ball bata criogaid geama
-👴	bodach duine fear fireannach sean
-🦝	annas feòrachail mathan-nighe seòlta slìogach sròn
-🎲	dìsinn dìsnean geama
-🚡	adhar càball carbad gondola trama trama-adhair
-😑	aodann gun fhaireachdainn bàn fhiamh
-🥶	aodann fuar ghorm deigh eigheanach eighreachadh eighrich reòite
-🚿	bùrn frasair uisge
-🖕	corrag fionnlagh fada / màiri fhada làmh meur
-🫆	aisneis aithne aithneachadh eucoir faisneis làrach corraige òrdaige lorg lorg-mheòir meur-lorg poileas sàbhailteachd
-🧑‍🍳	còcaire
-🫠	aodann a’ leaghadh dol à sealladh leagh lionnach rach
-🐑	boireann caora
-🕐	00 1 1:00 aon cleoc cloc gleoc uair
-🔑	facal-faire glais glas iuchair
-🚕	carbad tacsaidh
-🎹	ceòl clàrsach mòr inneal-ciùil ionnsramaid keyboard meur-chlàr ciùil piàna
-🦮	cù cù-iùil dall doille iùl so-ruigsinneachd stiùireadh treòir treòiriche treòrachadh
-📃	duilleag le lùbadh sgrìobhainn
-👨‍🔧	dealanair duine fear fireannach meacanaig fireann neach-ciùird plumair
-😄	aodann le gàire na shùilean beul fiamh-ghàire fosgailte sùil
-🥲	aodann le fiamh-ghàire is deur deòir faochadh beag moiteil pròiseil taingeil
-🫥	aodann le loidhne dhotagach dol à sealladh falach falaich lionn-dubh neo-fhaicsinneach neo-fhosgarra rach trom-inntinn
-🥤	cupa le stràbh sòda sùgh
-🥃	deoch làidir glainne tumblair uisge-beatha
-🗼	tokyo tùr
-🙄	aodann a’ casadh nan sùilean
-🦥	leisg lunndaire-craoibhe mall slaodach
-🧞	djinn genie taibhse arabach
-🤪	aodann às a rian beag mòr sùil
-👩‍🍳	ban-chòcaire boireannach còcaire tè
-🫘	àirne àra biadh dubhan glasraich lòn pònairean
-🥇	bonn a’ chiad àite ciad òr
-🐘	ailbhean
-🔻	dearg geomatrach sìos triantan a’ tomhadh
-🎡	cuibhle pàirc fhaoin-chleasan roth-mòr
-🕢	30 7 7:30 cleoc cloc gleoc leth-uair an dèidh seachd trithead uair
-💪	dealbh-èibhinn fèithean dà-cheannach giorrachadh lùth
-🎒	baga baga-droma sgoile màla sgoil
-😢	aodann a’ caoineadh brònach deur
-👨‍🦯	dall doille duine le batachan fireannach so-ruigsinneachd
-🫪	buaireas cugallach giorag glutach iomagain maoim so-leònta
-🔕	àicheadh clag le loidhne troimhe diùltadh mùch sàmhach toirmisgte tost
-📢	àrd fuaim glaodhaire pa
-🦟	bhìoras biastag fiabhras galar mailèiria mosgaid
-🎅	athair bodach na nollaig comharrachadh
-❕	clisg-phuing gheal comharra oir-loidhne puingeachadh
-🤽	neach a’ cluich polo-uisge polo uisge
-🗾	iapan mapa dhen t-seapan seapan
-🔆	àrd putan soilleireachaidh soilleir soilleireachd soilleirich
-🤣	a’ ruidhleadh air an làr gàireachdainn aodann gàire roladh
-🦅	eun iolaire
-🧶	cearta ceirle ceirsle cnocan croisidh figh fighe snàth
-🍇	fìon-dhearc fìon-dhearcan meas
-🌯	burrito meagsagach wrap
-🌎	aimeireaga cruinne le globa a’ sealltainn an dà saoghal talamh
-🀄	dearg geama leacag mahjong le dràgon
-🦣	à bith clòimheach clùmhach clùmhaidh dìtheachd mamot mòr tosg
-🥝	biadh kiwi meas
-😻	aodann cat le gàire agus sùilean an cumadh cridhe fiamh-ghàire gaol sùil
-🎸	ceòl giotàr inneal-ciùil ionnsramaid
-⏫	dùbailte putan “suas gu luath” saighead
-🏩	gaol suirghe taigh-òsta gaoil
-🥓	beucon biadh feòil
-➗	/ ÷ matamataig roinn le roinneadh samhla roinnidh
-🐦‍🔥	ainneamhag aiseirigh ath-cholainneadh ath-fheòl-ghabhail eun-teine fantastachd tearc-eun
-🔁	ath-chluich atharrais cluich a-rithist deiseil putan na h-ath-chluich saighead
-👪	teaghlach
-🤍	cridhe geal
-🪃	astràilia ath-leum buaidh buil bùmarang tilleadh
-🔧	inneal nupair spanair toinnear
-🐶	aodainn coin aodann cù peata
-🦌	fiadh
-🎋	bratach comharrachadh craobh tanabata iapanach seapanach
-🕌	creideamh ioslam mosg muslamach
-📔	còmhdachadh leabhar leabhar-nòtaichean le sgeadaichte
-🕗	00 8 8:00 cleoc cloc gleoc ochd uairean uair
-🐲	aodann dràgoin dràgon faoinsgeul
-👊	buille dòrn a’ tighinn thugad dùinte làmh
-🫙	annlann anntann crogan falamh lannra sabhs soitheach stòras
-🚇	fo-thalamh meatro
-🧏	bodhar cluas cluinntinn èisteachd neach so-ruigsinneachd
-🤐	aodann le bilean seulaichte beul
-👩	boireannach tè
-🍡	bior dango iapanach milis milseag seapanach
-📧	litir post post-d
-🛜	coimpiutair eadar-lìon lìonra uèirleas wifi wlan
-🐊	crogall
-📌	prìne tacaid tacaid-bhrùthaidh
-🕕	00 6 6:00 cleoc cloc gleoc sia uairean uair
-⛲	fuaran
-🔫	acainn arm daga gunna gunna-làimhe inneal
-🍐	meas peur
-⚓	acainn acair long
-🪆	am broinn a chèile doileag doileagan matryoshka ruiseanach
-📦	bogsa pacaid
-🧧	airgead cèiseag dhearg fortan hóngbāo lai see prèasant sonas tìodhlac
-🪽	aingeal eun fionn-sgeul iteal miotas sgiath sgiathadh
-🎪	pàillean siorcais siorcas teanta
-😏	aodann le plìonas
-🛄	baga bagaist faighinn ionad-tagraidh tagradh
-♑	an gobhar capricorn grian-chrios grian-chriosach
-🧑‍💼	ailtire gnìomhachas gnothachas manaidsear neach-obrach oifise oifis stiùiriche
-🐁	luch luchag
-🐌	cramag gobhar-breac seilcheag
-👩‍🌾	boireannach croitear gàirnealair rainsear tè tuathanaiche boireann
-🕑	00 2 2:00 cleoc cloc dà gleoc uair
-🎀	comharrachadh ribean
-📪	bogsa-puist dùinte le bratach gu h-ìosal post shìos sìos
-🎮	geama video uidheam-smachd
-🔴	cearcall dearg geomatrach
-🦞	giomach ìnean maorach spògan
-🛐	adhradh àite-adhraidh creideamh
-🛹	bòrd spèileabord
-👩‍🏭	boireannach factaraidh gnìomhachas neach-obrach obraiche obraiche-factaraidh boireann tè tionaladh
-🙅	àicheadh diùltadh gluasad làmh neach a’ rud toirmisgte
-🏧	airgead airgead-làimhe atm banca fèin-obrachail inneal neach-cunntaidh sanas
-🧢	ball-bheusa bonaid bhileach buill-bheusa
-🫎	ainmhidh beathach beòthach cabar cabrach lon mamal ùthach
-💁	bas air uachdar cobhair fiosrachadh làmh neach le sìnte a-mach taic
-🈶	chan ann saor ‘s an-asgaidh iapanais ideo-ghraf putan seapanais “chan an-asgaidh” ’s
-🌺	flùr ìbisg
-🤬	aodann le samhlaidhean air a beul mionnachadh
-🤢	aodann sgreamha cur a-mach sgreamh
-💃	boireannach a’ dannsadh dannsa tè
-🦋	àlainn amadan-dè bèisteag biastag bòidheach dealan-dè dearbadan-dè fiolan meanbh-fhrìde
-🐥	eun eunlaith isean le aghaidh riut
-🚫	àicheadh diùltadh inntrigeadh toirmisgte
-💞	cridheachan a’ dol mun cuairt
-🥖	aran baguette biadh frangach
-🉑	ceart gu leòr iapanais ideo-ghraf putan seapanais “ceart leòr”
-🚓	càr poileis freiceadan poileas
-🧑‍🔬	bith-eòlas ceimigeachd einnseinear eòlaiche eòlas-nàdair fiosaigs fiosraigeachd innleadair neach neach-saidheans saidheans saidheantair
-🔒	dùinte glaiste
-🐦‍⬛	eun eun-dubh feannag fitheach lon-dubh ròcas
-😐	aodann gun fhiamh bàn fhaireachdainn
-🪘	buille conga druma fada ruitheam
-🎩	ad aodach àrd
-👩‍🎤	actair ban-seinneadair boireannach cleasaiche rionnag ròc seinneadair tè
-🦄	aodann aon-adharcach
-🐠	iasg tropaigeach
-🥥	cnò-chòco pailm piña colada
-🧣	amhach stoc-amhaich
-🎿	sgìtheadh sgìthean sneachd
-🌆	baile ciaradh sa bhaile mhòr dreach-tìre feasgar grian laighe na grèine mòr-bhaile
-🧐	aodann le leth-speuclair seann-fhasanta
-😭	aodann a’ rànaich brònach caoineadh deur gal
-😰	aodann le beul fosgailte a’ cur fallas cabhag fuar gorm
-💣	boma dealbh-èibhinn
-🐪	croit crotach cruit dromadair
-👨‍🎓	ceumnaiche duine fear fireannach oileanach fireann
-👇	colgag a’ tomhadh sìos corrag druim na làimhe làmh meur
-🥉	bonn an treas àite treasamh uamha
-🚅	astar luaths rathad-iarainn rèile shinkansen slighe-iarainn sròn chruinn trèana fhìor luath le
-🥳	ad aodann aig pàrtaidh cèilidh comharrachadh dùdag
-👳	neach le turban air
-🎧	earbud headphone
-📨	a-steach cèis faighinn litir post post-d
-⭐	reul rionnag mheadhanach gheal
-🫃	brù duine fireannach trom glutach làn leatromach
-🌌	fànas slighe chlann uisnich speur
-🧖	ceò neach ann an sauna
-🚠	beinn càball carbad-càbaill beinne gondola
-🪙	airgead bonn meatailt òr ulaidh
-🌵	cactas flùr lus
-😲	annas aodann a ghabh mòr-iongnadh gu tur iongnadh
-🙃	aodann bun os cionn
-🚶	coiseachd coisich neach a’
-👤	com sgàil-dhealbh sgàil-riochd de chom silhouette
-🛶	bàta canù
-🌓	ceathramh gealach sa chiad cheathramh solas ùr na gealaich
-🌒	cinntinn corranach fàs gealach chorranach a’
+🧑‍🧑‍🧒‍🧒	clann duine-cloinne inbheach pàiste paiste teaghlach
+🍾	àirc airc bàr bar botal le a’ leumadh às as brag deoch popadh
+🉑	ceart gu leòr leor iapanais ideo-ghraf putan seapanais “ceart leòr”
+👩‍🔧	boireannach dealanair meacanaig boireann neach-ciùird plumair tè te
+📱	fòn fon fòn-làimhe mobile
+👩‍💼	ailtire boireannach gnìomhachas gniomhachas manaidsear gnothachas obraiche-oifis boireann oifis tè te
 👽	aodann creutair creutair-fànais fantastach faoinsgeul neo-thalmhaidh ufo uilebheist
-🕡	30 6 6:30 cleoc cloc gleoc leth-uair an dèidh sia trithead uair
-🐡	iasg iasg-sèididh
-🛃	cusbainn
-🥛	bainne deoch glainne de bhainne òl
-🛟	fleodrainn fleodrainn-teasairginn sàbhaiteachd sàbhaladh teasairginn
-🫚	beòir dinnseir dinnsear leann leann-dinnseir spìosrach
-🍋	liomaid meas
-🪶	aotrom eun ite itealadh sgiathadh
-🫹	clì greim neodrach puing seo sin
-👲	currac sìneach duine le fear fireannach gua pi mao
-🤰	boireannach brù glutach làn leatromach tè
-🧹	bana-bhuidseach buidseach glanadh sguab sguabadh
-💑	càraid le cridhe gaol
-⛅	a’ ghrian air cùl sgòtha grian neul sgòth
-🩶	airgead cridhe glas liath sgleat
-🧨	cleasan-teine dineamait dìorrasan-fùdair spreadhach spreadhadh
-🏊	neach a’ snàmh
-🕟	30 4 4:30 ceithir cleoc cloc gleoc leth-uair an dèidh trithead uair
-🩰	baileat ballet brògan dannsa
-📀	blu-ray coimpiutair diosg dvd lèirsinneach optaigeach
-🏃	marathon neach a’ ruith
-🧜	duine-mara maighdeann-chuain maighdeann-mhara neach-mara òigh-mhara sluagh-mara
-🔽	putan sìos saighead dearg
-💻	coimpiutair laptop pc pearsanta
-🧋	bainne builgean teatha tì builgein
-🫏	aiseal asal dùr leth-asal mamal maoileann muileid ùthach
-🪟	adhair ùr coimhead fosgladh frèam seall sealladh trìd-shoilleir uinneag
-🐢	seilche sligeanach toirtis turtar
-😤	aodann le toit às a chuinneanan bhuannaich buaidh
-👨‍🚀	duine fear fireannach rocaid speuradair fireann
-👩‍💻	bathar-bog boireannach còdair innleachdair leasaichear prògramair tè teicneolaiche boireann
-🦠	amoeba bacterium baictear bhìoras bitheag lobhag
-🥺	aodann tagrach faoighe grìos grìosadh gur guradh
-🤮	aodann a’ cur a-mach bochd cuir tinn
-❗	clisg-phuing dhearg comharra puingeachadh
-🪼	buir-tèachd goirt loisg losgadh muir-tèachd sgeith-ròin sgeoltair sgolltair
-🎺	ceòl inneal-ciùil ionnsramaid trombaid
-🟥	ceàrnach dearg
-😶	aodann gun bheul beul sàmhach tost
-🧬	beatha bith-eòlaiche bith-eòlas dna èabhlaid eòlas-gintinneachd gine gintinneachd gnè-fhàs mean-fhàs tarmachadh-gnè
-😵‍💫	aodann le sùilean snìomhanach ceann na cheò luairean snìomh suainealachadh suainealaich trioblaid tuainealach
-📸	boillsgeadh camara le solas-boillsgidh video
-👩‍🔧	boireannach dealanair meacanaig boireann neach-ciùird plumair tè
-💧	boinne boinneag dealbh-èibhinn fallas fuar
-🪂	daibheadh-speura daoibhigeadh-adhair paraisiut
-🎃	comharrachadh lanntair peapaig oidhche shamhna peapag samhainn
-🫟	dòirt inc lionn pèant salaich sgluis sil slopaig smal spot steallag
-💖	air bhioran cridhe lainnireach lainnir
-💜	cridhe purpaidh
-🚀	fànas rocaid speur
-🎑	comharrachadh deas-ghnàth gealach latha coimhead na gealaich
-🍦	bog milis milseag reòiteag bhog uachdar
-🥀	flùr seacta seacte
-😣	aodann rag
-📰	naidheachd naidheachdan pàipear pàipear-naidheachd
-🥊	dòrnaireachd miotag
-🧑‍🏫	neach-teagaisg oide ollamh tidsear
-🔺	dearg geomatrach triantan a’ tomhadh suas
-📺	tbh telebhisean tv video
-🦬	bìoson buabhall bufalair tarbh-allaidh treud
-👸	bana-phrionnsa fantastach faoinsgeul
-😋	aodann ag ithe biadh blasta fiamh-ghàire math
-👗	aodach dreasa
-🦎	laghairt snàigeach
-🫳	cut dàrna taobh làmh le a bas sìos leig às seachad leigeil
-🥎	bàla ball ball-beusa bog miotag
-💉	acainn bochd dotair inneal leigheas snàthad stealladh steallair tinn
-🪧	fianais gearan gràcalas piceid piogaid sanas sluagh-fhianais tog togail
-🌃	oidhche rionnagach rionnag
-📕	dùinte leabhar
-😇	aingeal aodann le gàire agus riomball fantastach faoinsgeul fiamh-ghàire neoichiontach
-🍃	duilleag a’ falbh leis ghaoith gaoth sèideadh
-🫒	biadh dearc-ola
-🔜	a dh’aithghearr saighead “soon”
-🧑‍🍼	altram leanabh naoidhean neach ag naoidhein
-🚍	bus a’ tighinn thugad
-🧄	blas blasachadh creamh
-👯	cluas rabaid dannsair daoine le cluasan pàrtaidh
-🪤	biadh luch ribe strap lucha trap
-🥸	aodann le riochd air incognito speuclairean sròn
-🥅	lìon tadhail tadhal
-🍪	briosgaid milis milseag
-🔎	acainn glainne glainne-mheudachaidh ag aomadh dhan taobh dheas inneal lorg meudachadh
-🩴	cuaran cuaran-èill iall zōri
-💢	aodann dealbh-èibhinn feargach samhla feirge
-🥙	aran rèidh lìonta aran-rèidh biadh falafel gyro kebab
-🐈	cat peata
-📥	a-steach bogsa faighinn litir post treidhe
-🚮	biona biona-sgudail samhla “sgudal dhan bhiona” sgudal
-🟨	buidhe ceàrnach
-🥼	còta deuchainn-lainn deuchainn dotair ollamh saidheans
-🧱	aol aol-tàthaidh balla breige breigichean criadh
-🧈	bà bainne bathar-bainne biadh-bainne bò ìm ùrachd na
-💓	bualadh cridhe a’
-🎏	bratach carbhain carbhan cèilidh comharrachadh
-♈	an reithe aries grian-chrios grian-chriosach
-🛌	cadal neach san leabaidh taigh-òsta
-🦇	bhampair ialtag ialtag-fhala
-🚐	bus meanbh-bhus
-🐬	leumadair leumadair-mara
-🐅	tìgear
-🌉	drochaid air an oidhche
-🤌	beumach beur ceist corrag cruadhagan crudhagan gluasad làimhe meòir meur tearrachdail
-🛀	amar ballan ionnlad ionnlaid neach san tuba
-👶	leanabh naoidhean òg
-🍁	craobh duilleag o chraobh-mhalpais foghar malpais tuiteam
-🚜	carbad tractar
-💠	a-staigh daoimean le dotag na bhroinn dealbh-èibhinn geomatrach
-😚	aodann a’ pògadh le sùilean dùinte pòg sùil
-👮	oifigear poileis poileas poileasman
-🍥	cèic cèic-èisg le cuairteag sa mheadhain iasg pastraidh
-🧌	beul-aithris fantastachd trobha uilebheist
-👠	aodach boireannach bròg le sàil àrd
-🧑‍🎄	bean bodach na nollaig neach
-👩‍🏫	àrd-ollamh ban-oide boireannach oide ollamh tè tidsear
-🌴	craobh craobh-phailm pailm
-🏭	factaraidh togalach
-🔷	daoimean mòr gorm geomatrach
-💡	beachd beachd-smuain bolgan solais dealan dealanach dealbh-èibhinn solas
-🪾	craobh deasg fiodh geamhradh geugan lom maide marbh meuran seasg stoc tart
-🔙	air ais saighead “back”
-🫲	clì làmh ris an taobh chlì
-💒	banais caibeal romansa romansachd
-🆔	aithnichear dearbh-aithne id putan
-🧑‍🩰	baileat ballet dannsadair dannsair
-🥪	aran ceapaire
-⌛	gaineamh glainne-uarach dheiseil tìmear
-🔀	putan a chuireas tracaichean air thuaiream saighead tarsainn
-😦	aodann le drèin is beul fosgailte
-🍄‍🟫	balg-buachair donn balg-buachrach balgan-buachair biadh bolg-losgainn caileag an achaidh fungas glasraich nàdar sgàileag a’ bhuachair
-🦫	beabhar beathadach bìobhair dama dobhar-chù
-🥚	biadh ugh
-🛑	ochd-cheàrnach ochd-shliosach sanas “stad” stad
-🎫	bileag cairt-fharaidh cead a-steach inntrigeadh ticead ticeard ticeid tiocaid tiogaid
-👺	aodann bòcan seapanach creutair fantastach faoinsgeul uilebheist
-🤷	aineolas coma druiteadh neach a’ teagamh
-🦏	sròn-adharcach
-🍿	popcorn
-☕	ceò cofaidh deoch theth teatha teth tì
-📴	dheth fòn fòn-làimhe
-👘	aodach kimono
-🚈	rathad-iarainn rèile aotrom slighe-iarainn
-🧷	badan prìne-dùbailte puncair punk
-🍔	hamburgair
-🔸	daoimean beag orains geomatrach orainds
-🎎	comharrachadh doileag doileagan seapanach iapanach
-🧘	meòrachadh neach na shuidhe lòtais yoga
-🥾	botan campachadh coiseachd turas poca-droma
-🦙	alpaca clòimh guanaco lama llama vicuña
-🆚	an aghaidh putan “vs” versus vs
-🧦	stocainn stocainnean
-🛕	hionduthach teampall
-💝	bhaileintin cridhe le ribean là nam pòg
-🔂	aon turas deiseil putan na h-ath-chluich shingilte saighead
-🌷	flùr tuiliop
-🧑‍🧑‍🧒	clann duine-cloinne inbheach pàiste teaghlach
-🥰	ann an gaol aodann le fiamh-ghàire is cridheachan sùil mhòr ort trom-ghràdh
-💍	daoimean fàinne
-🕖	00 7 7:00 cleoc cloc gleoc seachd uairean uair
-🚷	àicheadh coiseachd coisiche diùltadh toirmisgte
-🐾	làrach lorg lorgan spòige spòg
-👨‍🎨	duine ealan fear fear-ealain fireannach neach-ealain pailead
-🍤	fraidhig fraidhigeadh muasgain-chaola air am muasgan-caol praidhig praidhigeadh tempura
-🦢	eala ealag eun isean grannda
-🔏	glais glaiste le peann glas gob inc prìobhaideachd
-⛄	bodach-sneachda gun sneachd fuar
-💀	aodann bàs claigeann faoinsgeul uilebheist
-🏴	bratach dhubh crathadh snàmh
-👍	+1 làmh math fhèin òrdag suas
-🧑‍💻	bathar-bog còdachadh leasachadhtionnsgnadh prògramachadh prògramair teicneolaiche teicniche
-🪊	brònach ceòl inneal-ciùil ionnsramaid jazz pràis slaighd
-🌭	frankfurter hot dog hotdog isbean
-♎	a’ mheidh britheamh cothrom cuideam grian-chrios grian-chriosach libra meidh
-🪇	beum ceòl crathadh farm gleadhran inneal-ciùil ionnsramaid maracas
-💂	geàrd
-🛸	soitheach-fànais ufo
-➰	dualach lùb dhualach
-🎴	cairt cairtean nam flùraichean cluich flùr geama iapanach seapanach
-🦪	daibheadh daoibhigeadh eisir neamhnaid
-🪯	creideamh khanda sikh
-🛅	bagaist air fhàgail preas trealaich
-🉐	bargan iapanais ideo-ghraf putan seapanais “bargan”
-🧑‍🏭	factaraidh gnìomhachas neach-obrach obraiche tional
-🔰	duilleag iapanach neach-tòiseachaidh saidh samhla seapanach air airson tòiseachadh
-🫍	cuan mara muc-mhara
-♊	gemini grian-chrios grian-chriosach leth-aon leth-aonan na
-🍒	meas siris sirisean
-🦘	astràilia cangaru leum pocanach
-🦯	batachan dall doille so-ruigsinneachd
-🧼	gàd glan glanadh nighe siabann
-🧿	droch-shùil eòlas eòlas-sùla geasag grìogag nazar ortha-sùla seun
-🎱	8 bàla a h-ochd ball billiard gèam ochd pool
-🍭	lollipop milis milseag suiteas
-🥈	airgead bonn an dàrna àite dara
-🔬	acainn glainne inneal meudachadh micreosgop saidheans
-🤞	beò an dòchas corrag fortan làmh meur
-🍛	biadh coiridh curry rìs
-👌	aontachadh làmh samhla làimhe ok
-👆	colgag a’ tomhadh suas corrag druim na làimhe làmh meur
-👉	colgag a’ tomhadh deas corrag druim na làimhe làmh meur
-🎍	bambù comharrachadh giuthais iapanach seapanach sgeadas
-🧔	duine le feusag
-🦶	breab breabadh cas
-🈺	fosgailte iapanais ideo-ghraf putan seapanais “fosgailte”
-🧮	abacas àireamhachadh àireamhaich cunntas
-🏁	bratach bhreacte breac breacte rèis rèiseadh
-🙈	àicheadh aodann diùltadh faic faicinn gluasad muncaidh nach fhaic olc toirmisgte
-🍠	buntàta milis ròiste ròsta
-🕋	creideamh ioslam ka’aba muslamach
-🫓	aran-rèidh arepa lavash naan pita
-😠	aodann feargach
-🫶	dà làimh ann an cumadh cridhe gaol gràdh
-🤖	aodann robotair uilebheist
-◾	ceàrnag mheadhanach bheag dhubh geomatrach
-🤤	aodann a’ sileadh sglongaid
-🏹	acainn arm bogha agus saighead boghadair boghadaireachd grian-chriosach inneal sagittarius saighdear
-💔	briseadh briste cridhe
 🍍	anann meas
-🤱	altram altramadh banaltradh banaltram cìoch muime naoidhean toirt
+😊	aodann le gàire gaire agus sùilean suilean toilichte fiamh-ghàire ruadhadh sùil suil
+🛸	soitheach-fànais ufo
+♿	inntrigeadh samhla sèitheir-chuibhle
+🪆	am broinn a chèile cheile doileag doileagan matryoshka ruiseanach
+👈	colgag a’ tomhadh clì cli corrag druim na làimhe laimhe làmh lamh meur
+🐤	eun eunlaith isean beag
+🍬	milis milseag suiteas
+👨‍🍳	còcaire cocaire fireann duine fear fireannach
+😣	aodann rag
+🫯	argamaid connspaid deasbad easaonta sabaid spàirn spairn tuasaid
+🥂	cèilidh ceilidh comharrachadh deoch glaineachan a’ gliongadaich glainne òl ol
+🤜	deas dòrn dorn ris an taobh
+🎽	bann lèine leine lèine-ruith lùth-chleasachd ruith
+🎎	comharrachadh doileag doileagan seapanach iapanach
+📺	tbh telebhisean tv video
+🌜	aodann ceathramh deireadh na gealaich le gealach sa cheathramh mu dheireadh
+👀	aodann sùil suil sùilean suilean
+🫖	òl ol poit poit-teatha poit-tì teatha tì ti
+🦚	àrdan ardan eucag eun feucag moiteil peucag pròiseil proiseil stàirneil stairneil
+🫧	brùchd bruchd builgean fon uisge glan rùchd ruchd siabann
+📑	comharra comharra-leabhair comharraich taba tabaichean-leabhair
+👡	aodach boireannach bròg brog cuaran boireannaich sandal
+💺	cathair sèithear seithear suidheachan
+🍝	nùdail nudail pasta spaghetti
+🚿	bùrn burn frasair uisge
+🦜	bruidhinn eun pearraid spùinneadair spuinneadair
+🪯	creideamh khanda sikh
+🏣	iapanach oifis-puist sheapanach post seapanach
+🏭	factaraidh togalach
+🤍	cridhe geal
+🥢	bioran-ithe hashi
+🏥	dotair leigheas ospadal
+🙈	àicheadh aicheadh aodann diùltadh diultadh faic faicinn gluasad muncaidh nach fhaic olc toirmisgte
+🐱	aodann cait cat peata
+🪁	itealach itealag itealaich sgait-adhair sgiathadh sgiathaich
+🤖	aodann robotair uilebheist
+🫄	brù bru glutach làn lan leatromach neach trom
+🔑	facal-faire glais glas iuchair
+🤡	aodann tuaisteir tuaistear
+🫍	cuan mara muc-mhara
+🐹	aodann hamstair peata
+🥟	dumplag empanada gyōza gyoza jiaozi pierogi
+🔪	acainn arm còcaireachd cocaireachd hocho inneal sgian cidsin
+👙	aodach bikini snàmh snamh
+🚸	clann a’ dol thairis coiseachd coisiche tarsainn trafaig
+◾	ceàrnag cearnag mheadhanach bheag dhubh geomatrach
+🫎	ainmhidh beathach beòthach beothach cabar cabrach lon mamal ùthach uthach
+🫳	cut dàrna darna taobh làmh lamh le a bas sìos sios leig às as seachad leigeil
+🎵	ceòl ceol pong puing
+🚷	àicheadh aicheadh coiseachd coisiche diùltadh diultadh toirmisgte
+🦫	beabhar beathadach bìobhair biobhair dama dobhar-chù
+🦪	daibheadh daoibhigeadh eisir neamhnaid
+🛌	cadal neach san leabaidh taigh-òsta
+🎹	ceòl ceol clàrsach clarsach mòr mor inneal-ciùil ionnsramaid keyboard meur-chlàr ciùil ciuil piàna piana
+🫩	buaile claoidh claoidhte leigeadh roimhe sùil suil teirbheirt toirbheart toirt thairis
+🥨	pretzel toinnte
+🦅	eun iolaire
+💐	bad fhlùraichean fhluraichean flùr flur
+👜	aodach baga baga-làimhe sporan
+🈳	iapanais ideo-ghraf putan seapanais “seòmar saor” seòmar seomar saor
+🐟	èisg eisg grian-chriosach iasg pisces
+🫁	anail analachadh analachd organ sgaman sgamhan
+👨‍🎤	actair cleasaiche duine fear fireannach rionnag ròc roc seinneadair fireann
+🛖	bothan cruinn taigh taigh-cruinn yurt
+🍀	4 ceithir duilleag seamrag cheithir-dhuilleagach
+🪕	bainsio ceòl ceol teud teudan
+😌	aodann a fhuair faochadh
+🐺	aodann madadh-allaidh
+🦣	à a bith clòimheach cloimheach clùmhach clumhach clùmhaidh clumhaidh dìtheachd ditheachd mamot mòr mor tosg
+🦆	eun eunlaith tunnag
+🦢	eala ealag eun isean grannda
+🛷	càrn carn càrn-slaoid slaod sleids
+😍	aodann le gàire gaire ⁊ sùilean suilean nan cridheachan agus cridhe fiamh-ghàire gaol sùil suil
+🌓	ceathramh gealach sa chiad cheathramh solas ùr ur na gealaich
+🪣	bacaid ballan bucaid peile
+👾	aodann creutair creutair-fànais fantastach faoinsgeul neo-thalmhaidh ufo uilebheist
+🔔	clag
+🩳	briogais-ghlùine briogais-shnàimh deise-snàmh fo-aodach
+🖖	beannachd muinntir vulcan corrag làmh lamh meur spock
+👯	cluas rabaid dannsair daoine le cluasan pàrtaidh partaidh
+🥌	clach clach-chrolaidh geama
+🎺	ceòl ceol inneal-ciùil ionnsramaid trombaid
+🌑	dorch gealach ùr ur
+👆	colgag a’ tomhadh suas corrag druim na làimhe laimhe làmh lamh meur
+🧑‍🌾	croitear cruitear gàirnealair gairnealair rainsear tuathanach
+🥧	lìonadh lionadh pàidh paidh pastraidh pigheann
+📠	facs inneal
+😆	aodann caog-shùileach le gàire gaire beul fiamh-ghàire fosgailte sàsaichte sasaichte
+🧣	amhach stoc-amhaich
+🐖	cràin crain muc
+🛜	coimpiutair eadar-lìon lìonra lionra uèirleas ueirleas wifi wlan
+🍉	meal-bhuc uisge meas
+🪮	afraganach cìr cir bheag falt
+💠	a-staigh daoimean le dotag na bhroinn dealbh-èibhinn geomatrach
+🛹	bòrd bord spèileabord speileabord
+📲	cuir fòn fon faigh faighinn fòn-làimhe le saighead gairm mobile
+🚳	àicheadh aicheadh baidhseagal diùltadh diultadh rothair rothaireachd toirmisgte
+🤑	airgead aodann le sùilean suilean is teanga airgid beul
+🚅	astar luaths rathad-iarainn rèile reile shinkansen slighe-iarainn sròn sron chruinn trèana treana fhìor fhior luath le
+📒	leabhar leabhar-cunntais leabhar-nòtaichean
+🧂	abhlan alltann annlann anntann crathadair salainn spìos spios
+🫪	buaireas cugallach giorag glutach iomagain maoim so-leònta
+🧞	djinn genie taibhse arabach
+🍭	lollipop milis milseag suiteas
+🌳	craobh sheargach seargach
+🚤	bàta bata luath-bhàta
+👵	boireannach cailleach sean tè te
+🐈‍⬛	cat droch-fhortan dubh mì-àgh mì-shealbh
+🚉	rathad-iarainn rèile reile slighe-iarainn stèisean steisean trèana treana
+🚐	bus meanbh-bhus
+❔	comharra comharra-ceiste geal oir-loidhne puingeachadh
+🔐	dùinte duinte glais glaiste le iuchair glas tèarainte tearainte
+👰	banais bean na bainnse brat-gnùise neach le
+🧠	eanchainn glic tapaidh
+🔚	deireadh saighead “end”
+🥁	bioran ceòl ceol druma
+🛶	bàta bata canù canu
+😨	an t-eagal air aodann fo eagal eagalach
+🥫	biadh ann an cana
+🎈	bailiùn bailiun comharrachadh
+🤏	beagan làmh lamh le sradag
+🐕‍🦺	cù cu cù-taice seirbheis so-ruigsinneachd taic
+🦑	biadh gibearnach moileasg
+🍹	bàr bar deoch thropaigeach òl ol tropaigeach
+🦂	grian-chriosach scorpio sgairp
+💴	airgead airgeadra banca not nòta nota nòta-airgid nòta-banca yen
+🫹	clì cli greim neodrach puing seo sin
+➖	- – matamataig minus samhla toirt air falbh thoir
+🚏	bus stad stad-bhusaichean
+🎱	8 bàla bala a h-ochd ball billiard gèam geam ochd pool
+🥡	bogsa bidhe takeout sìneach sineach
+🪳	bèisteag beisteag biastag càrnan-gallda daolag fiolan meanbh-fhrìde plàigh plaigh
+🔜	a dh’aithghearr saighead “soon”
+🏪	bùth buth ghoireasach goireasach
+🍊	meas orainds orains tangerine
+👑	aodach bànrigh banrigh crùn crun rìgh righ
+🕖	00 7 7:00 cleoc cloc gleoc seachd uairean uair
+💟	cridhe sgeadas
+🚱	do-òlta na òl ol uisge
+👣	aodach lorg coise lorgan
+🍅	glasraich meas tomàto tomato
+📰	naidheachd naidheachdan pàipear paipear pàipear-naidheachd
+🟢	cearcall uaine
+🚆	rathad-iarainn rèile reile slighe-iarainn trèana treana
+⚪	cearcall geal geomatrach
+🪞	ath-thilgeil faileas frith-thilgear sgàthan sgathan
+🐈	cat peata
+🦒	breac breacach breacan sioraf
+🌾	dias gràinnean grainnean rìs ris
+📎	clip-phàipeir
+🐎	each rèisidh reisidh marcachd rèis reis
+🪉	ceòl ceol clàrsach clarsach cruit cupaid foireann-ciùil gaol inneal-ciùil ionnsramaid orcastra
+🎊	bàla bala ball cèilidh ceilidh comharrachadh confetti
+⏬	dùbailte dubailte putan “sìos gu luath” saighead sìos sios
+🧳	bagaist pacadh siubhail siubhal
+🪱	biathag cnuimh cnuimh-talmhainn daolag dealt-dhaolag faoighiche frithlisg lobach parasait
+🍸	bàr bar cocktail deoch glainne òl ol
+🏫	sgoil togalach
+🧑‍🦯	dall doille neach le batachan so-ruigsinneachd
+🫔	meagsagach paisgte tamale
+🥦	brocail càl cal
+💂	geàrd geard
+🧴	bana-bhuidseach botal lòisein loisein buidseach glanadh sguabadh
+🚙	cleasachail sport utility vehicle suv
+🫃	brù bru duine fireannach trom glutach làn lan leatromach
+🔽	putan sìos sios saighead dearg
+🍱	bento bogsa
+🏈	aimeireaganach bàla bala ball ball-coise
+🪻	bogha-muc bròg brog na cuthaige camais flùr flur fuath-mhuc lùpainn lupainn lus tùise tuise lus-liath
+😧	àmhghar amhghar aodann àmhghair amhghair
+🤔	aodann ri smaoineachadh
+👩‍🍼	altram boireannach ag naoidhein leanabh naoidhean tè te
+🛝	cluich pàirc pairc fhaoin-chleasan raon-cluiche sleamhnag
+👷	ad neach-togail obair togail obraiche
+🪒	beàrr bearr bearradh ealtainn geur
+🕔	00 5 5:00 cleoc cloc còig coig uairean gleoc uair
+🪬	dìon dion fatima hamsa làmh lamh miriam moire ortha
+🧻	pàipear-tòin rola pàipeir paipeir tubhailt
+🕜	1 1:30 30 aon cleoc cloc gleoc leth-uair an dèidh deidh uair trithead
+🆕	putan new ùr ur
+🏆	cuach-bhuaidhe duais
+🐗	muc torc
+📊	bàr bar cairt cairt-bhàraichean graf
+🤒	aodann le teas-mheidh bochd tinn
+🫢	aodann le sùilean suilean fosgailte ⁊ làmh lamh air beul agus clisg eagal iongantach iongnadh nàire naire
+🖕	corrag fionnlagh fada / màiri mairi fhada làmh lamh meur
+💹	airgead airgeadra banca cairt a’ dol suas le yen dìreadh direadh èirich eirich fàs fas graf margadh margaid treand
+🟤	cearcall donn
+👅	bodhaig teanga
+🪧	fianais gearan gràcalas gracalas piceid piogaid sanas sluagh-fhianais tog togail
+🧹	bana-bhuidseach buidseach glanadh sguab sguabadh
+🐩	cù cu poodle pùdal pudal
+🔥	acainn lasair teine
+💙	cridhe gorm
+🤳	camara fèineag feineag fòn fon
+👞	aodach bròg brog fir duine fireannach
+👥	com sgàil-dhealbh sgàil-riochd de chuim silhouette
+🤸	lùth-chleasachd neach a’ cur nan rothan
+😓	aodann a’ cur fallas fuar
+🐮	aodann bà ba bò bo crodh sprèidh spreidh
+♋	am partan cancer grian-chrios grian-chriosach
+👨‍🌾	croitear duine fear fireannach gàirnealair gairnealair rainsear tuathanaiche fireann
+🤚	cùl cul làimhe laimhe air a thogail làmh lamh togail
+🌊	cuan stuagh tonn uisge
+🪦	clach clach-chinn clach-uaighe cladh leac leac-lighe uaigh
+🚻	sanas taighe-bhig taigh-beag wc
+👨‍🏫	àrd-ollamh duine fear fireannach oide fireann ollamh tidsear
+🔌	dealan dealanach pluga dealain
+🔤	abc aibideil ion-chur laideann litir litrichean
+👄	beul bilean
+🙄	aodann a’ casadh nan sùilean suilean
+🌐	cruinne le meadhan-loidhnichean globa meadhan-loidhne saoghal talamh
+🐻	aodann mathan
+👚	aodach boireannaich boireannach
+🔋	bataraidh
+🕛	00 12 12:00 cleoc cloc dà da dheug uair gleoc
+💁	bas air uachdar cobhair fiosrachadh làmh lamh neach le sìnte sinte a-mach taic
+🧮	abacas àireamhachadh aireamhachadh àireamhaich aireamhaich cunntas
+🧪	ceimigeachd ceimigear cungaidhear deuchainn deuchainn-lann saidheans tiùb-deuchainne
+🏒	caman deigh geama hocaidh hocaidh-deigh puck
+😀	aodann le gàire gaire fiamh-ghàire
+🎭	aghaidh-choimheach cleasachd ealain-chluiche ealan taigh-cluich
+🐑	boireann caora
+🧇	baoth-chòmhradh bleadraich iarrann neo-chinnteach riachdalach waffle
+🍲	poit le biadh stiubha
+🚁	carbad heileacoptar
+🧓	gun ghnè ghne sean seann seann-inbheach
+🫴	glac làmh lamh le a bas suas smèid smeid tairgse tairgsinn thig tiugainn
+⛳	bratach ann an toll goilf
+🥖	aran baguette biadh frangach
+🍛	biadh coiridh curry rìs ris
+🥜	biadh cnò cno cnò-thalmhainn cnòthan-talmhainn glasraich
+🍈	meal-bhuc meas
+🤥	aodann nam breug pinocchio
+🤿	daibheadh daoibhigeadh masg-daoibhigidh scuba snorgal snorgaladh
+😎	aodann toilichte le speuclairean-grèine fiamh-ghàire gasta grian smodaig soilleir speuclairean sùil suil
+💑	càraid caraid le cridhe gaol
+🚖	tagsaidh a’ tighinn thugad
+🙏	5 àrd ard còig coig cromadh faighneachd gluasad iarraidh làmh lamh làmhan lamhan paisgte taing ùrnaigh urnaigh
+🦔	bior biorach bioran cràineag craineag dràineag draineag gràineag graineag uircean
+😬	aodann le drèin drein air
+🏠	dachaidh dachaigh dhachaidh dhachaigh taigh
+🗻	beinn fuji
+🐕	cù cu peata
+🐥	eun eunlaith isean le aghaidh riut
+🦏	sròn-adharcach
+🧤	làmh lamh miotagan
+😹	aodann cat le deòir deoir shona deur sona
+🥴	aodann misgeach daorach froighleach misg smoid smoideag smùid smuid smùideag smuideag stealladh tuaineal
+➰	dualach lùb lub dhualach
+🚄	astar luaths rathad-iarainn rèile reile shinkansen slighe-iarainn trèana treana fhìor fhior luath
+🐔	cearc eun eunlaith
+🤼	daoine ri gleacadh gleacadair
+🍚	bruich rìs ris
+🏯	caisteal iapanach seapanach
+🩲	briogais-shnàimh deise-snàmh fo-aodach
+🦺	èideadh eideadh sàbhailteachd sabhailteachd èiginn eiginn peiteag
+🔹	daoimean beag gorm geomatrach
+🔊	àrd ard fuaim glaodhaire ’s fhuaim a’ cur a-mach
+🫝	blasad coipeadh cucumar picil relish sàl sal trioblaid
+🧑‍🔬	bith-eòlas ceimigeachd einnseinear eòlaiche eolaiche eòlas-nàdair fiosaigs fiosraigeachd innleadair neach neach-saidheans saidheans saidheantair
+🕺	dannsa dannsadh duine a’ fear fireannach
+🧙	ban-draoidh bana-bhuidseach buidseach draoidh
+🥄	innealan bùird buird spàin spain
+🦃	cearc cearc-fhrangach coileach-frangach coileach-turcach eun eun-frangach eunlaith
+🤵	fear-bainnse neach ann an tuxedo
+💈	barbair cliop gruagaire pòla pola
+🌏	àisia aisia astràilia astrailia cruinne le ’s globa a’ sealltainn agus saoghal talamh
+🎿	sgìtheadh sgitheadh sgìthean sgithean sneachd
+👩‍🔬	bith-eòlaiche boireannach ceimigear einnseanair fiosaigiche innleadair matamataigear neach-saidheans boireann tè te
+👨‍🏭	duine factaraidh fear fireannach gnìomhachas gniomhachas neach-obrach obraiche obraiche-factaraidh fireann tionaladh
+🫛	builgean builgean-peasrach edamame glasraich peasair peasraichean pònair ponair
+🔃	ath-luchdadh ath-luchdaich deiseil saighdean inghearach a’ dol saighead
+🚡	adhar càball caball carbad gondola trama trama-adhair
+🐧	ceann-fionn eun
+🚼	badan leanabh naoidhean samhla leanabhain
+💃	boireannach a’ dannsadh dannsa tè te
+👨‍🎓	ceumnaiche duine fear fireannach oileanach fireann
+🌍	afraga cruinne leis an roinn-eòrpa ’s globa a’ sealltainn agus saoghal talamh
+🏴	bratach dhubh crathadh snàmh snamh
+🔵	cearcall geomatrach gorm
+📡	iadhaire iadhaire-saideil saideal soitheach
+📝	cuimhneachan peansail
+🐯	aodann tìgeir tigeir tìgear tigear
+👦	balach gille òg og
+📤	a-mach air a chur bogsa cuir cur litir post treidhe
+🥃	deoch làidir laidir glainne tumblair uisge-beatha
+🐢	seilche sligeanach toirtis turtar
+🎁	bogsa comharrachadh paisgte prèasant preasant tìodhlac tiodhlac
+👺	aodann bòcan bocan seapanach creutair fantastach faoinsgeul uilebheist
+🧑‍🚀	rocaid speuradair speurair
+👬	caigeann càraid caraid dithis duine fireannach fireannaich a’ glacadh air làmh lamh a chèile cheile gaolag gemini gràdhag gradhag grian-chriosach leth-aon
+♓	èisg eisg grian-chrios grian-chriosach iasg na h-èisg pisces
+🐪	croit crotach cruit dromadair
+🦗	brobhadan fionnan-feòir greollan leumadair-uaine srannan
+🛑	ochd-cheàrnach ochd-shliosach sanas “stad” stad
+🪽	aingeal eun fionn-sgeul iteal miotas sgiath sgiathadh
+🚰	òl ol so-òlta uisge
+🥗	biadh sailead uaine
+🍃	duilleag a’ falbh leis ghaoith gaoth sèideadh seideadh
+🥚	biadh ugh
+🌯	burrito meagsagach wrap
+🚹	duine fear fireannach taigh-beag nam wc
+🐦‍🔥	ainneamhag aiseirigh ath-cholainneadh ath-fheòl-ghabhail eun-teine fantastachd tearc-eun
+🦝	annas feòrachail feorachail mathan-nighe seòlta seolta slìogach sliogach sròn sron
+🔙	air ais saighead “back”
+🚎	bus bus-troilidh trama troilidh
+⏩	air adhart dùbailte dubailte luath putan “toinn adhart” saighead
+👻	aodann creutair fantastach faoinsgeul taibhse uilebheist
+📼	cèiseag-video teip vhs video
+🎇	cleasan-teine comharrachadh lainnir lainnireag sradag
+📔	còmhdachadh comhdachadh leabhar leabhar-nòtaichean le sgeadaichte
+🕒	00 3 3:00 cleoc cloc gleoc trì tri uairean uair
+🥾	botan campachadh coiseachd turas poca-droma
+🍼	bainne botal leinibh deoch leanabh
+📧	litir post post-d
+🎫	bileag cairt-fharaidh cead a-steach inntrigeadh ticead ticeard ticeid tiocaid tiogaid
+💶	airgead airgeadra banca eòro eoro not nòta nota nòta-airgid nòta-banca
+🌁	ceò ceo ceòthach ceothach
+🥛	bainne deoch glainne de bhainne òl ol
+🤱	altram altramadh banaltradh banaltram cìoch cioch muime naoidhean toirt
+🦕	brachiosaurus brontosaurus dìneasar dineasar diplodocus sauropod
+📣	brosnachadh meaga-fòn
+🦧	apa muncaidh orangutan
+📫	bogsa-puist dùinte duinte le bratach gu h-àrd post
+🌿	duilleag luibh
+🦈	cearban iasg siorc
+🥽	dìon dion sùla sula glainne-dhìona snàmh snamh sùil suil tàthadh tathadh
+🚧	bacadh togail
+😼	aodann cam cat le gàire gaire cham fiamh-ghàire ìoranta ioranta
+🐝	bèisteag beisteag biastag fiolan meanbh-fhrìde seillean
+🧑‍🎨	ealan neach-ealain paileat
+🪚	acainn fiodh inneal sàbh sabh saoirsinneachd saor saorsainneachd
+🧌	beul-aithris fantastachd trobha uilebheist
+🪜	àradh aradh ceum dìreadh direadh dìrich dirich fàradh faradh rang reang rong sreap
+🍢	bior feamann iasg kebab maorach oden
+🎬	bòrd-braig film
+🤝	aontachadh coinneamh crath crathadh crathadh-làimhe làmh lamh
+🛄	baga bagaist faighinn ionad-tagraidh tagradh
+💍	daoimean fàinne fainne
+✅	comharra cromag putan cromaige
+💡	beachd beachd-smuain bolgan solais dealan dealanach dealbh-èibhinn solas
+🤠	ad aodann le cowboy cowgirl
+🔆	àrd ard putan soilleireachaidh soilleir soilleireachd soilleirich
+🩷	cridhe crithe pinc gaol stampa toil
+🧥	còta cota seacaid
+🚥	siognail solais-thrafaig chòmhnard chomhnard solas trafaig
+🏀	bàla bala ball ball-basgaid cearcall
+🚃	bus-troilidh càr car còidse coidse dealanach rathad-iarainn rèile reile slighe-iarainn trama trèana treana
+🥍	bàla bala ball bata caman lacrosse tadhal
+🏓	bàla bala ball bata geama ping-pong teanas-bùird
+🫚	beòir beoir dinnseir dinnsear leann leann-dinnseir spìosrach spiosrach
+🪨	clach creag cruaidh trom ulbhag ulpag
+🎐	clag clagan clagan-gaoithe comharrachadh gaoth
+🥤	cupa le stràbh strabh sòda soda sùgh sugh
+🙍	drèin drein gluasad neach le
+🩶	airgead cridhe glas liath sgleat
+🪏	adhlaic adhlaich amhlaig cab cladhach cuir dìg dig gàrradh garradh siofal sluaisead sluaist sluasaid sneachda spaid tìodhlaic tiodhlaic tochail
+🔅	doilleir doilleirich ìosal iosal putan doilleireachaidh soilleireachd
+🦀	cancer crùbag crubag grian-chriosach partan
+🍌	banana meas
+👨‍🔧	dealanair duine fear fireannach meacanaig fireann neach-ciùird plumair
+🔯	fortan reul rionnag shia-rinneach dhotagach
+🧑‍🏭	factaraidh gnìomhachas gniomhachas neach-obrach obraiche tional
+🎑	comharrachadh deas-ghnàth gealach latha coimhead na gealaich
+🏩	gaol suirghe taigh-òsta gaoil
+🏐	bàla bala ball ball-bholaidh geama
+📬	bogsa-puist fosgailte le bratach gu h-àrd post
+📐	rùilear ruilear seata triantanach
+🪟	adhair ùr ur coimhead fosgladh frèam fream seall sealladh trìd-shoilleir uinneag
+👨‍🔬	bith-eòlaiche ceimigear duine einnseanair fear fiosaigiche fireannach innleadair matamataigear neach-saidheans fireann
+🍆	aubergine glasraich
+🪤	biadh luch ribe strap lucha trap
+👩	boireannach tè te
+🐭	aodann lucha luch luchag
+🍻	bàr bar beòir beoir deoch gliongadaich leann muga mugaichean a’ òl ol
+🧝	ailbhear draoidheach
+😙	aodann a’ pògadh pogadh le sùilean suilean toilichte fiamh-ghàire pòg pog sùil suil
+🐘	ailbhean
+❕	clisg-phuing gheal comharra oir-loidhne puingeachadh
+🤧	aodann ri sreothairt dia leat
+🦤	à a bith dìtheachd ditheachd dòdo dodo marbh mhoiriseas moiriseas mòr mor
+➕	+ cuir ris cur matamataig plus samhla cuir-ris
+🈴	iapanais ideo-ghraf ìre ire pas putan seapanais “ìre pas”
+🥺	aodann tagrach faoighe grìos grios grìosadh griosadh gur guradh
+🧱	aol aol-tàthaidh balla breige breigichean criadh
+🟧	ceàrnach cearnach orainds orains
+🛒	cairt ceannach ceannachd ceannaich seopadaireachd troilidh
+🥯	bagel bèicearachd beicearachd
+💯	100 ceud puing sgòr sgor slàn slan
+🎢	còrsair corsair pàirc pairc fhaoin-chleasan rolair rolair-còrsair
+🆖	ng putan
+🌱	òg og sìolag siolag
+👍	+1 làmh lamh math fhèin fhein òrdag ordag suas
+🙁	aodann le fiamh drèin drein beag
+🐠	iasg tropaigeach
+🎀	comharrachadh ribean
+🏦	banca togalach
+🔴	cearcall dearg geomatrach
+🟰	co-ionnan co-ionnann co-ionnannachd matamataig samhla trom
+🛕	hionduthach teampall
+🚚	làraidh laraidh làraidh-lìbhrigidh lìbhrigeadh libhrigeadh
+🌻	flùr flur grian neòinean neoinean neòinean-grèine
+🤎	cridhe donn
+🐷	aodann muice muc
+💣	boma dealbh-èibhinn
+🚠	beinn càball caball carbad-càbaill beinne gondola
+🟨	buidhe ceàrnach cearnach
+🕤	30 9 9:30 cleoc cloc gleoc leth-uair an dèidh deidh naoidh trithead uair
+✋	5 àrd ard còig coig làmh lamh air a togail taghta
+🤛	clì cli dòrn dorn ris an taobh chlì chli
+🈸	iapanais ideo-ghraf putan seapanais “tagradh” tagradh
+🌺	flùr flur ìbisg ibisg
+🧁	bèicearachd beicearachd cèic-chuachaige milis
+✊	buille dòrn dorn air a thogail dùinte duinte làmh lamh
+👭	boireannach boireannaich a’ glacadh air làmh lamh a chèile cheile càraid caraid dithis
+🌂	aodach sgàilean sgailean sgàilean-uisge dùinte duinte uisge
+🍺	bàr bar beòir beoir deoch leann muga òl ol
+🌉	drochaid air an oidhche
+🍞	aran buileann lofa
+🌚	aodann gealach ùr ur le
+🛟	fleodrainn fleodrainn-teasairginn sàbhaiteachd sabhaiteachd sàbhaladh sabhaladh teasairginn
+😗	aodann pòige poige pòg pog
+🧑‍🚒	einnsean-smàlaidh smàladair smaladair
+👩‍💻	bathar-bog boireannach còdair codair innleachdair leasaichear prògramair programair tè te teicneolaiche boireann
+🪐	gruamach planaid fhàinneach fhainneach rionnag nan roth satarn sathairn saturn
+🦴	cnàimh cnaimh cnàimhneach cnaimhneach
+💽	coimpiutair diosg diosga lèirsinneach leirsinneach meanbh-dhiosg minidisk optaigeach
+🕌	creideamh ioslam mosg muslamach
+🧑‍🍳	còcaire cocaire
+🥣	bobhla le spàin spain bracaist gràinean grainean
+👩‍🍳	ban-chòcaire boireannach còcaire cocaire tè te
+🚝	aona-rèile carbad
+🔗	bun-dùirn ceangal ceangal-dùirn lùb lub
+🔶	daoimean mòr mor orains geomatrach orainds
+♏	an sgairp grian-chrios grian-chriosach scorpio scorpius
+🥘	adhann le biadh casaroil eu-domhain paella
+👏	bas bois bualadh bhasan làmh lamh
+🥒	biadh cularan glasraich piceal picil
+🎍	bambù bambu comharrachadh giuthais iapanach seapanach sgeadas
+🎩	ad aodach àrd ard
+📹	camara camara-video video
+🫟	dòirt doirt inc lionn pèant peant salaich sgluis sil slopaig smal spot steallag
+🫡	aidh altachadh aodann ag arm ceart ma-thà feachd grianach
+🔕	àicheadh aicheadh clag le loidhne troimhe diùltadh diultadh mùch much sàmhach samhach toirmisgte tost
+🤮	aodann a’ cur a-mach bochd cuir tinn
+🥎	bàla bala ball ball-beusa bog miotag
+🆑	cl putan
+➿	dualach dùbailte dubailte lùb lub dhualach dhùbailte dhubailte
+🧵	fuaigh fuaigheil snàithlean snaithlean snàthad snathad snìomh sniomh snìomhan sniomhan spàl spal
+🦭	leòmhann-mara ròn ron
+📌	prìne prine tacaid tacaid-bhrùthaidh
+🧭	clach-iùil combaist iùil iuil magnaiteach seòladaireachd seoladaireachd sligheadaireachd stiùireadh stiuireadh
+💘	cridhe le saighead cupaid
+🏇	each rèisidh reisidh eachlach marcach rèis reis rèiseadh reiseadh
+😶	aodann gun bheul beul sàmhach samhach tost
+🍦	bog milis milseag reòiteag reoiteag bhog uachdar
+😘	aodann a’ caitheamh pòg pog
+🦓	sìobra siobra stiall stiallach stiallan
+🥋	carataidh ealainean còmhraige comhraige èideadh eideadh nan judo taekwondo
+😄	aodann le gàire gaire na shùilean shuilean beul fiamh-ghàire fosgailte sùil suil
+🔝	barr ceann mullach saighead “top” suas
+🧋	bainne builgean teatha tì ti builgein
+🧸	bog dèideag deideag bhog teadaidh
+📪	bogsa-puist dùinte duinte le bratach gu h-ìosal post shìos shios sìos sios
+🛗	àrdaichear ardaichear so-ruigsinneachd tog togail
+🕦	11 11:30 30 aon deug cleoc cloc gleoc leth-uair an dèidh deidh uair trithead
+🚛	làraidh laraidh altanach semi truca
+😔	aodann fo throm-smuain sprochd trom-inntinneach
+👩‍🎨	boireannach ealan neach-ealain boireann pailead tè te
+🧑‍🎓	ceumnachadh oileanach
+🐫	bactrach càmhal camhal croit crotach cruit
+🥰	ann an gaol aodann le fiamh-ghàire is cridheachan sùil suil mhòr mhor ort trom-ghràdh
+🌀	cearcall-ghaoth cuairt cuairt-gaoithe gaoith toirm-ghaoth tuaineal
+🚽	taigh-beag
+👩‍🌾	boireannach croitear gàirnealair gairnealair rainsear tè te tuathanaiche boireann
+🦹	cumhachd eucoireach oil-chumhachd olc sàr-shlaightear slaightear super
+🐣	eun eunlaith gur isean ga ghur
+📁	faidhle pasgan
+🦍	goiriola muncaidh
+🎆	cleasan-teine comharrachadh
+👋	làmh lamh a’ smèideadh smeideadh smèid smeid
+🏸	badmantan geama racaid spàl-ite
+❌	× comharra iomadachadh iomadaich samhla croise sguir dheth sgur x
+💕	dà da chridhe gaol
+📻	rèidio reidio video
+👎	-1 dona làmh lamh mo chreach òrdag ordag sìos sios
+🪹	nead falamh neadachadh neadaich
+👩‍🦽	boireannach ann an cathair-chuibhle a làimh laimh so-ruigsinneachd tè te
+🧉	deoch mate teatha tì ti
+🦾	ath-bhall-bodhaig gàirdean gairdean meacanaigeach so-ruigsinneachd
+🎧	earbud headphone
+🍤	fraidhig fraidhigeadh muasgain-chaola air am muasgan-caol praidhig praidhigeadh tempura
+🧖	ceò ceo neach ann an sauna
+💥	bualadh ri chèile cheile dealbh-èibhinn spreadhadh
+🥲	aodann le fiamh-ghàire is deur deòir deoir faochadh beag moiteil pròiseil proiseil taingeil
+🚬	smocadh toit toitean
+🎷	ceòl ceol inneal-ciùil ionnsramaid sacsafon
+🪥	bruis bruis-fhiaclan fiacal fiaclan seòmar-ionnlaid slàinteachas slainteachas
+🟣	cearcall corca purpaidh
+🦟	bhìoras bhioras biastag fiabhras galar mailèiria maileiria mosgaid
+🟪	ceàrnach cearnach corca purpaidh
+🤢	aodann sgreamha cur a-mach sgreamh
+🔇	glaodhaire mùchte muchte mùch much sàmhach samhach tost
+📉	cairt a’ dol sìos sios crìonadh crionadh graf treand
+🟩	ceàrnach cearnach uaine
+🫒	biadh dearc-ola
+👿	aodann feargach le adharcan deamhan diabhal fantastach faoinsgeul
+🌌	fànas fanas slighe chlann uisnich speur
+🌆	baile ciaradh sa bhaile mhòr mhor dreach-tìre feasgar grian laighe na grèine greine mòr-bhaile
+🚞	beinn càr car còidse coidse rathad-iarainn rèile reile rèile-bheinne slighe-iarainn
+🔏	glais glaiste le peann glas gob inc prìobhaideachd priobhaideachd
+🦇	bhampair ialtag ialtag-fhala
+🚢	bàta bata long taistealach
+🔦	dealanach inneal lòchran lochran solas toirds dealain
+🕎	coinnlear meurach creideamh menorah
+🪌	ceartachadh cuir às as dealbh mearachd sgrìobhadh sgriobhadh sguab suathadh toirt air falbh
+🫣	aodann le sùil suil a’ dìdeadh dideadh beò-ghlacte dìdeach dideach dìdeil dideil fàthadaireachd fathadaireachd spleuchd
+🫗	a’ dòrtadh dortadh deoch dòirt doirt falamh glainne uisge
+📯	còrn corn a’ phuist post
+🦘	astràilia astrailia cangaru leum pocanach
+💼	màileid maileid màileid-oifise
+🍜	bobhla le ceò ceo às as nùdail nudail ramen
+🐌	cramag gobhar-breac seilcheag
+♐	an saighdear boghadair grian-chrios grian-chriosach sagittarius
+🍋‍🟩	liomaideag meas meas-geur siotras tropaigeach
+🪺	nead le uighean neadachadh neadaich
+💫	dealbh-èibhinn rionnag tuaineal
+💱	airgead airgeadra banca iomlaid airgid
+⬜	ceàrnag cearnag mhòr mhor gheal geomatrach
+🛫	check-in fàgail fagail itealain falbh itealan plèana pleana
+🌸	blàth blath flùr flur siris
+📗	leabhar uaine
+👲	currac sìneach sineach duine le fear fireannach gua pi mao
+😃	aodann le gàire gaire is sùilean suilean fosgailte beul fiamh-ghàire
+💗	air bhioran cridhe a’ fàs fas cuisle cuisleachadh cuislich iomagaineach nearbhasach
+🪅	cèilidh ceilidh comharrachadh pàrtaidh partaidh piñata pinata
+🔬	acainn glainne inneal meudachadh micreosgop saidheans
+🎮	geama video uidheam-smachd
+🦁	aodann grian-chriosach leo leòmhann leomhann
+🕣	30 8 8:30 cleoc cloc gleoc leth-uair an dèidh deidh ochd trithead uair
+🫘	àirne airne àra ara biadh dubhan glasraich lòn lon pònairean ponairean
+🔻	dearg geomatrach sìos sios triantan a’ tomhadh
+🪊	brònach bronach ceòl ceol inneal-ciùil ionnsramaid jazz pràis prais slaighd
+🫠	aodann a’ leaghadh dol à a sealladh leagh lionnach rach
+🏅	bonn spòrs spors
+🧄	blas blasachadh creamh
+🛴	breabadh sgùtair sgutair sgùtair-breabaidh
+🪛	acainn inneal sgriubha sgriubhaire
+😤	aodann le toit às as a chuinneanan bhuannaich buaidh
+🐁	luch luchag
+🫙	annlann anntann crogan falamh lannra sabhs soitheach stòras storas
+🦉	cailleach-oidhche eun glic
+🧑‍🦽	cathair-chuibhle neach ann an a làimh laimh so-ruigsinneachd
+🔨	acainn inneal òrd ord
+🕘	00 9 9:00 cleoc cloc gleoc naoidh uairean uair
+😵	aodann na thuaineal tuaineal
+💩	aodann bab cac càrn carn dealbh-èibhinn sgigean uilebheist
+🤬	aodann le samhlaidhean air a beul mionnachadh
+🔭	acainn glainne glainne-amhairc inneal meudachadh prosbaig saidheans teileasgop
+🎦	camara film taigh-dhealbh
+🦩	flamingo spaideil tropaigeach
+🥑	abhocado biadh meas
+👝	aodach baga clutch bag pùidse puidse
+🔞	18 àicheadh aicheadh aois cuingeachadh aoise daoine os cionn a-mhàin diùltadh diultadh mion-aoiseach toirmisgte
+🥩	feòil feoil mairtfheoil muicfheoil muiltfheoil sitheann staoig uainfheoil
+🌔	cinntinn crotach fàs fas gealach chrotach a’
+🌛	aodann ceathramh gealach sa chiad cheathramh le solas ùr ur na gealaich
+😰	aodann le beul fosgailte a’ cur fallas cabhag fuar gorm
+🧑‍🤝‍🧑	càraid caraid daoine a’ glacadh air làmh lamh a chèile cheile dithis
+🍫	bàr bar milis milseag teòclaid teoclaid
+🥹	aodann le deòir deoir na sùil suil brònach bronach feargach moiteil rànail ranail strì stri
+🔈	fuaim glaodhaire ’s fhuaim ìseal iseal a’ cur a-mach
+🍘	cnacair cracair rìs ris
+♍	a’ mhaighdeann crian-chriosach grian-chrios maighdeann virgo
+🫫	breaking crumbling masking resilience reveal tension transformation
+🧚	oberon puck sìth sith sìthiche sithiche titania
+👉	colgag a’ tomhadh deas corrag druim na làimhe laimhe làmh lamh meur
+🐽	aodann gnos muice muc sròn sron
+🕑	00 2 2:00 cleoc cloc dà da gleoc uair
+💪	dealbh-èibhinn fèithean feithean dà-cheannach giorrachadh lùth luth
+🚈	rathad-iarainn rèile reile aotrom slighe-iarainn
+🏊	neach a’ snàmh snamh
+❗	clisg-phuing dhearg comharra puingeachadh
+🍎	dearg meas ubhal
+👢	aodach boireannach bòtann botann boireannaich bròg brog
+💌	cridhe gaol litir gaoil post
+🤯	annas ceann a’ spreadhadh
+🫆	aisneis aithne aithneachadh eucoir faisneis làrach larach corraige òrdaige ordaige lorg lorg-mheòir meur-lorg poileas sàbhailteachd sabhailteachd
+🍑	meas peitseag
+🚣	bàta bata eathar iomradh neach ag
+📿	aodach coileir creideamh grìogagan griogagan muinge ùrnaigh urnaigh
+🈁	an-seo iapanais katakana putan seapanais “an-seo”
+🔎	acainn glainne glainne-mheudachaidh ag aomadh dhan taobh dheas inneal lorg meudachadh
+🩰	baileat ballet brògan brogan dannsa
+🫺	deas greim neodrach puing seo sin
+🐲	aodann dràgoin dragoin dràgon dragon faoinsgeul
+🧀	càise caise staoig
+👘	aodach kimono
+🪼	buir-tèachd goirt loisg losgadh muir-tèachd sgeith-ròin sgeoltair sgolltair
+🪢	fiar naisg nasgadh ròpa ropa snaidhm snìomh sniomh suain toinn
+🚔	càr car poileis a’ tighinn thugad poileas
+😝	aodann caog-shùileach le theanga a-mach blas sùil suil teanga uabhasach
+🐐	capricorn gobhar grian-chriosach
+⛄	bodach-sneachda gun sneachd fuar
+🔄	putan saighdean a’ dol tuathail saighead
+📩	a-mach cèis ceis le saighead cuir cur litir post post-d sìos sios
+😻	aodann cat le gàire gaire agus sùilean suilean an cumadh cridhe fiamh-ghàire gaol sùil suil
+🎡	cuibhle pàirc pairc fhaoin-chleasan roth-mòr
+🕝	2 2:30 30 cleoc cloc dà da gleoc leth-uair an dèidh deidh trithead uair
+🕚	00 11 11:00 aon deug uair cleoc cloc gleoc
+🕕	00 6 6:00 cleoc cloc gleoc sia uairean uair
+🎄	comharrachadh craobh nollaig
+💀	aodann bàs bas claigeann faoinsgeul uilebheist
+😇	aingeal aodann le gàire gaire agus riomball fantastach faoinsgeul fiamh-ghàire neoichiontach
+🙀	aodann cat air chlaoidh claoidh iongnadh ò o sgìth sgith
+🧾	cuidhteas cunntas cunntasachd dearbh dearbhadh dearbhaich fianais leabhar-chunntas
+🏮	bàr bar dearg lanntair lanntair-pàipeir solas
+🩹	bann-araid cuarag cuaran
+♎	a’ mheidh britheamh cothrom cuideam grian-chrios grian-chriosach libra meidh
+🛞	cearcall cuibhle roth taidhir tionndadh
+🍂	duilleag duilleagan an fhoghair foghar tuiteam
+👫	boireannach is fireannach a’ gabhail làmhan lamhan a chèile cheile càraid caraid duine làmh lamh tè te fear
+🏺	acainn amfora aquarius arm còcaireachd cocaireachd deoch fear-giùlain uisge grian-chriosach inneal òl ol siuga
+🤗	aodann a’ pasgadh gàirdeanan gairdeanan timcheall
+🔩	acainn bolta cnò cno ’s inneal
+🍗	cas circe cearc cnàmh cnamh eunlaith
+😾	aodann busach cat
+🫲	clì cli làmh lamh ris an taobh chlì chli
+🥕	biadh curran glasraich
+🍿	popcorn
+🦦	cleasach dòbhran dobhran iasgach iasgaich
+🍖	cnàimh cnaimh feòil feoil air a’ chnàimh chnaimh
+😪	aodann cadalach cadal
+📭	bogsa-puist fosgailte le bratach gu h-ìosal post shìos shios sìos sios
+🎋	bratach comharrachadh craobh tanabata iapanach seapanach
+🥪	aran ceapaire
+🚺	boireannach taigh-beag nam tè te wc
+🤟	agam gaol gluasad “tha ort” làmh lamh ort
+⛪	creideamh crìostaidh criostaidh crois eaglais
+📋	bòrd-chliopaichean stòr-bhòrd
+🐦	eun
+🎴	cairt cairtean nam flùraichean fluraichean cluich flùr flur geama iapanach seapanach
+🧑‍🩰	baileat ballet dannsadair dannsair
+👩‍🦯	boireannach dall le batachan doille so-ruigsinneachd
+🔀	putan a chuireas tracaichean air thuaiream saighead tarsainn
+🈚	an-asgaidh iapanais ideo-ghraf putan seapanais “saor ’s an-asgaidh” saor ‘s
+📸	boillsgeadh camara le solas-boillsgidh video
+🫥	aodann le loidhne dhotagach dol à a sealladh falach falaich lionn-dubh neo-fhaicsinneach neo-fhosgarra rach trom-inntinn
+🫀	buille cridhe buille-chuisle cuisle meadhan organ plosgadh
+🦮	cù cu cù-iùil dall doille iùl iul so-ruigsinneachd stiùireadh stiuireadh treòir treoir treòiriche treoiriche treòrachadh treorachadh
+🦬	bìoson bioson buabhall bufalair tarbh-allaidh treud
+👴	bodach duine fear fireannach sean
+💅	cùram curam ìnean inean làmh-mhaiseachadh lìomh liomh maise
+🐀	radan
+🔛	air comharra saighead “on”
+🎸	ceòl ceol giotàr giotar inneal-ciùil ionnsramaid
+🎼	ceòl ceol iuchair-ghleus sgàla sgala sgòr sgor sgòr-ciùil
+😽	aodann cat a’ pògadh pogadh pòg pog sùil suil
+🪖	arm clogaid airm cogadh feachd gaisgeach saighdear
+❎	× ceàrnag cearnag comharra samhla croise ann am putan x
+🫰	airgead cnag cridhe daor gaol làmh lamh le a colgag is òrdag ordag ri chèile cheile
+🛻	pick-up pickup truca
+📍	prìne prine tacaid tacaid-bhrùthaidh chruinn
+😅	aodann le gàire gaire a’ cur fallas fiamh-ghàire fosgailte fuar
+🏨	taigh-òsta togalach
+👐	fosgailte làmh lamh làmhan lamhan
+🗾	iapan mapa dhen t-seapan seapan
+🦊	aodann madadh-ruadh sionnach
+😭	aodann a’ rànaich ranaich brònach bronach caoineadh deur gal
+👂	bodhaig cluas
+😴	aodann na chadal cadal zzz
+🍟	sliseagan tiops
+🚫	àicheadh aicheadh diùltadh diultadh inntrigeadh toirmisgte
+🚀	fànas fanas rocaid speur
+📅	ceann-là ceann-latha mìosachan miosachan
+🏑	bàla bala ball caman geama hocaidh raoin raon
+🚴	baidhseagal duine fear fireannach neach ri rothaireachd rothair
+🪄	bana-bhuidseach buidseach draoidh draoidheachd slatan-draoidheachd
+🐴	aodann eich each
+🥱	aodann a’ mèananaich meananaich dòrainneach dorainneach fadal mèalanaich mealanaich mèanan meanan mèaran mearan mèaranaich mearanaich ràsanach rasanach sàraichte saraichte sgìth sgith
+🚦	siognail solais-thrafaig inghearach solas trafaig
+🎯	amas bullseye geama san teis-mheadhan sgiathag targaid
+👛	aodach bonn sporan
+🎤	karaoke mic micreofon
+💾	bog coimpiutair diosg floppy
+😛	aodann a’ cur a-mach na teanga
+🦸	cumhachd gaisgeach math oil-chumhachd sàr-ghaisgeach super
+🫨	aodann le crathadh air clisgeadh crath crith crith-talmhainn
+🍄‍🟫	balg-buachair donn balg-buachrach balgan-buachair biadh bolg-losgainn caileag an achaidh fungas glasraich nàdar nadar sgàileag sgaileag a’ bhuachair
+🧑‍💼	ailtire gnìomhachas gniomhachas gnothachas manaidsear neach-obrach oifise oifis stiùiriche stiuiriche
+🆚	an aghaidh putan “vs” versus vs
+🚊	bus-troilidh trama
+🎅	athair bodach na nollaig comharrachadh
+🛁	amar ballan-ionnlaid ionnlad ionnlaid
+🤰	boireannach brù bru glutach làn lan leatromach tè te
+🍧	beàrrte bearrte deigh bheàrrte bhearrte milis milseag reòiteag reoiteag
+🧔	duine le feusag
+😑	aodann gun fhaireachdainn bàn ban fhiamh
+🪾	craobh deasg fiodh geamhradh geugan lom maide marbh meuran seasg stoc tart
+🤓	aodann gìog giog
+⚡	cunnart dealan dealanach dealanaich voltachd àrd ard
+🧑‍🏫	neach-teagaisg oide ollamh tidsear
+🏡	dachaidh dachaigh dhachaidh dhachaigh gàrradh garradh lios taigh le
+⛺	campachadh teanta
+🍥	cèic ceic cèic-èisg le cuairteag sa mheadhain iasg pastraidh
+🔰	duilleag iapanach neach-tòiseachaidh saidh samhla seapanach air airson tòiseachadh toiseachadh
+🧷	badan prìne-dùbailte puncair punk
+📨	a-steach cèis ceis faighinn litir post post-d
+🍷	bàr bar deoch fìon fion glainne glainne-fhìona òl ol
+🚯	àicheadh aicheadh diùltadh diultadh na tilg sgudal tilgeil toirmisgte
+🩺	cridhe dotair leigheas lighiche steatasgop steiteasgop
+🌘	briseadh corranach gealach chorranach a’ traoghadh
+🐍	giùlanair giulanair grian-chriosach nathair ophiuchus
+🟥	ceàrnach cearnach dearg
+🐦‍⬛	eun eun-dubh feannag fitheach lon-dubh ròcas rocas
+🏁	bratach bhreacte breac breacte rèis reis rèiseadh reiseadh
+📃	duilleag le lùbadh lubadh sgrìobhainn sgriobhainn
+🔲	ceàrnag cearnag ceàrnagach cearnagach geomatrach putan dubh
+📶	bàr bar crann-sgaoilidh fòn fon fòn-làimhe iadhaire le bàraichean baraichean siognail
+🏬	bùth buth mòr-bhùth
+🪘	buille conga druma fada ruitheam
+🔣	〒♪&% ion-chur shamhlaichean
+🕋	creideamh ioslam ka’aba muslamach
+🪭	dannsa diùid diuid fuarachadh gaotharan gaotharan-làimhe teth
+🥸	aodann le riochd air incognito speuclairean sròn sron
+🤙	fòn fon làmh lamh a’ comharradh “cuir thugam”
+🚲	baic baidhg baidhseagal rothair
+👗	aodach dreasa
+🦠	amoeba bacterium baictear bhìoras bhioras bitheag lobhag
+🏃	marathon neach a’ ruith
+🕧	12 12:30 30 cleoc cloc dà da dheug leth-uair an dèidh deidh trithead uair
+😒	aodann nuair nach eil e èibhinn eibhinn mì-thoilichte
+📙	leabhar orainds orains
+👔	aodach tàidh taidh
+🧯	inneal-smàlaidh smàladh smaladh teine
+👟	aodach bròg brog bròg-ruith bròg-thrèanaidh lùth-chleasachd
+😫	aodann sgìth sgith
+🏢	togalach oifisean
+🍩	doughnut milis milseag
+♈	an reithe aries grian-chrios grian-chriosach
+🤺	claidheamh feannsair feannsaireachd neach ri
+🧎	glùin gluin glùinean gluinean neach air a ghlùinean ghluinean
+🧑‍🧑‍🧒	clann duine-cloinne inbheach pàiste paiste teaghlach
+⛲	fuaran
+🍵	cupa cupa-tì gun chluas cupan deoch teatha tì ti
+🌲	craobh sìor-uaine
+👩‍🚀	ban-speuradair boireannach rocaid speuradair tè te
+🫦	amharas bile ga bìdeach bideach dragh eagal mì-chofhurtail mire nearbhasach uallach
+🏧	airgead airgead-làimhe atm banca fèin-obrachail inneal neach-cunntaidh sanas
+🥈	airgead bonn an dàrna darna àite aite dara
+💿	cd coimpiutair diosg lèirsinneach leirsinneach optaigeach
+🎣	iasg slat slat-iasgaich
+🍪	briosgaid milis milseag
+🧬	beatha bith-eòlaiche bith-eòlas dna èabhlaid eabhlaid eòlas-gintinneachd gine gintinneachd gnè-fhàs mean-fhàs tarmachadh-gnè
+🎓	ad aodach ceumnachadh comharrachadh currac ceumnachaidh
+🪫	bataraidh fann cumhachd fhann dealanach leactronach
+🦿	ath-bhall-bodhaig cas mheacanaigeach so-ruigsinneachd
+⛔	àicheadh aicheadh diùltadh diultadh gun inntrigeadh toirmisgte trafaig
+🛙	comharra cuan dòchas dochas mara seòladh seoladh soillseachadh solas stiùireadh stiuireadh
+🍕	càise caise pizza slis sliseag
+🧅	blas blasachadh uinnean
+🦖	t-rex tyrannosaurus rex
+😡	aodann busach dearg fearg feargach
+🪸	coireal corail riof
+⏫	dùbailte dubailte putan “suas gu luath” saighead
+🟠	cearcall orainds orains
+🌄	beinn camhanaich èirigh eirigh na grèine greine thar bheanntan grian madainn
+🐚	slige shnìomhanach shniomhanach snìomh sniomh snìomhanach sniomhanach
+🩼	bata ciorram crasg cruidse leòinte leointe leòn leon taic-ghluasaid trostan
+😢	aodann a’ caoineadh brònach bronach deur
+🧦	stocainn stocainnean
+💢	aodann dealbh-èibhinn feargach samhla feirge
+💨	a’ falbh nad dheann dealbh-èibhinn deann luath ruith
+😯	aodann iongnaidh le sùilean suilean fosgailte iongnadh tost
+👤	com sgàil-dhealbh sgàil-riochd de chom silhouette
+🎠	each each-timcheallain timcheallan
+👮	oifigear poileis poileas poileasman
+🧑	gun ghnè ghne inbheach
+🗼	tokyo tùr tur
+📳	caismeachd crithe crith fòn fon fòn-làimhe modh
+🏤	eòrpach eorpach oifis a’ phuist post
+👕	aodach lèine leine lèine-t
+🍴	còcaireachd cocaireachd forc is sgian
+🛃	cusbainn
+🐳	aodann muc-mhara a’ sèideadh seideadh
 👨‍🍼	altram duine ag naoidhein fear fireannach leanabh naoidhean
-👫	boireannach is fireannach a’ gabhail làmhan a chèile càraid duine làmh tè fear
+🦯	batachan dall doille so-ruigsinneachd
+👩‍🚒	boireannach carbad-smàlaidh neach-smàlaidh boireann smàladh smaladh tè te
+⛅	a’ ghrian air cùl cul sgòtha sgotha grian neul sgòth sgoth
+😞	aodann a fhuair briseadh-dùil
+💤	cadal dealbh-èibhinn suain zzz
+🚵	baidhseagal beinn neach ri rothaireachd bheanntan rothair
+👪	teaghlach
+👠	aodach boireannach bròg brog le sàil sail àrd ard
+😷	aodann le masg dotair air bochd fuar leigheas lighiche tinn
+🥞	biadh breacag breacagan crêpe crepe foileag
+🆓	an-asgaidh putan free saor
+🏹	acainn arm bogha agus saighead boghadair boghadaireachd grian-chriosach inneal sagittarius saighdear
+🪈	ceòl ceol cuisle-bhinn duiseal feadan gaoth-ionnsramaid pìob piob
+🛂	cead-siubhail pas sgrùdadh sgrudadh nam
+😱	an t-eagal air aodann a’ leigeil sgreuch eagail eagal eagalach munch sgread
+🐄	bò bo crodh sprèidh spreidh
+🔳	ceàrnag cearnag ceàrnagach cearnagach geomatrach oir-loidhne putan geal
+👩‍🎓	ban-oileanach boireannach ceumnaiche oileanach tè te
+🐏	aries caora fireann grian-chriosach reithe
+🪿	eun eunlainn eunlaith gèadh geadh gòrach gorach ràc rac
+📥	a-steach bogsa faighinn litir post treidhe
+🐇	coineanach peata rabaid
+🥐	aran biadh croissant frangach rola corranach
+🌖	briseadh crotach gealach chrotach a’ traoghadh
+🦻	bodhar claisneachd claisteachan cluas le èisteachd eisteachd bheag inneal-claisneachd inneal-cluinntinn so-ruigsinneachd
+🌅	camhanaich èirigh eirigh na grèine greine grian madainn
+🦌	fiadh
+🌰	flùr flur geanm-chnò lus
+🧫	bacerium baictear bith-eòlaiche bith-eòlas deuchainn deuchainn-lann lobhag soitheach petri
+🐅	tìgear tigear
+💬	bailiùn bailiun bruidhinn builgean còmhraidh comhraidh cainnt còmhradh comhradh dealbh-èibhinn
+🚮	biona biona-sgudail samhla “sgudal dhan bhiona” sgudal
+🟦	ceàrnach cearnach gorm
+👼	aingeal òg og aodann fantastach faoinsgeul leanabh naoidhean
+🚩	bratach thriantanach post
+😿	brònach bronach caoineadh cat a’ deòir deoir deur
+😦	aodann le drèin drein is beul fosgailte
+🚍	bus a’ tighinn thugad
+⭐	reul rionnag mheadhanach gheal
+🃏	amadan cairt geama saorag
+😵‍💫	aodann le sùilean suilean snìomhanach sniomhanach ceann na cheò cheo luairean snìomh sniomh suainealachadh suainealaich trioblaid tuainealach
+🚾	clòsaid closaid clòsaid-uisge taigh-beag uisge wc
+🐡	iasg iasg-sèididh
+♒	am fear-giùlain uisge aquarius giùlan giulan grian-chrios grian-chriosach
+👨‍🦯	dall doille duine le batachan fireannach so-ruigsinneachd
+🤪	aodann às as a rian beag mòr mor sùil suil
+💜	cridhe purpaidh
+🤽	neach a’ cluich polo-uisge polo uisge
+👸	bana-phrionnsa fantastach faoinsgeul
+☔	aodach boinne sgàilean sgailean sgàilean-uisge le boinnean uisge
+🦋	àlainn alainn amadan-dè bèisteag beisteag biastag bòidheach boidheach dealan-dè dearbadan-dè fiolan meanbh-fhrìde
+🌒	cinntinn corranach fàs fas gealach chorranach a’
+🔍	acainn glainne glainne-mheudachaidh ag aomadh dhan taobh chlì chli inneal lorg meudachadh
+😕	aodann tro chèile cheile
+🆙	comharra putan “up!” suas
+🧲	clach-iùil crudha-eich magnaiteach tarraing
+🌝	aodann gealach làn lan le soilleir
+🐊	crogall
+🦎	laghairt snàigeach snaigeach
+🤤	aodann a’ sileadh sglongaid
+🍰	cèic ceic milis milseag pastraidh shortcake sliseag
+🫸	5 àrd ard còig coig diùlt diult fuirich làmh lamh a’ putadh dhan taobh dheas mol put ris an deas stad
+💷	airgead airgeadra banca not nòta nota nòta-airgid nòta-banca punnd
+🧑‍🧒	clann duine-cloinne inbheach pàiste paiste teaghlach
+🚨	càr car cuairt leus poileas solas poileis
+👳	neach le turban air
+🦼	cathair-chuibhle le einnsein so-ruigsinneachd
+🎂	cèic ceic co-là-breith comharrachadh milis milseag pastraidh
+📴	dheth fòn fon fòn-làimhe
+🪶	aotrom eun ite itealadh sgiathadh
+🧰	acainn bogsa bogsa-innealan inneal meacanaig
+🚋	bus-troilidh càr car còidse coidse trama
+🔢	1234 àireamhan aireamhan ion-chur
+🍮	milis milseag ughagan
+🔺	dearg geomatrach triantan a’ tomhadh suas
+🎻	ceòl ceol fìdheall fidheall inneal-ciùil ionnsramaid
+🪴	altram altramadh dòrainneach dorainneach fàs fas gun fheum lus ann am poit ràsanach rasanach taigh
+🛵	motair sgùtair sgutair sgùtair-motair
+🎒	baga baga-droma sgoile màla mala sgoil
+🦛	each-aibhne
+🔸	daoimean beag orains geomatrach orainds
+🐬	leumadair leumadair-mara
+🧿	droch-shùil eòlas eolas eòlas-sùla geasag grìogag griogag nazar ortha-sùla seun
+🥼	còta cota deuchainn-lainn deuchainn dotair ollamh saidheans
+🔮	acainn bàla bala ball criostail criostal fantastach faoinsgeul fortan inneal
+🌕	gealach làn lan làn-ghealach
+💧	boinne boinneag dealbh-èibhinn fallas fuar
+🎌	brataichean tarsainn a chèile cheile comharrachadh iapanach seapanach
+🚒	einnsean einnsean-smàlaidh làraidh laraidh smàladh smaladh teine truca
+🤶	bean bodach na nollaig comharrachadh màthair mathair
+🆒	cool gasta putan smodaig
+🥀	flùr flur seacta seacte
+🖤	cridhe dubh olc
+🚓	càr car poileis freiceadan poileas
+🥅	lìon lion tadhail tadhal
+🍁	craobh duilleag o chraobh-mhalpais foghar malpais tuiteam
+🧈	bà ba bainne bathar-bainne biadh-bainne bò bo ìm im ùrachd urachd na
+🐶	aodainn coin aodann cù cu peata
+🚭	àicheadh aicheadh diùltadh diultadh smocadh toirmisgte toit
+⚽	bàla bala ball ball-coise
+🧑‍💻	bathar-bog còdachadh codachadh leasachadhtionnsgnadh prògramachadh programachadh prògramair programair teicneolaiche teicniche
+🧡	cridhe orains
+🌙	corranach gealach chorranach
+🛀	amar ballan ionnlad ionnlaid neach san tuba
+🕡	30 6 6:30 cleoc cloc gleoc leth-uair an dèidh deidh sia trithead uair
+🪗	bogsa bogsa-ciùil bucas
+🥊	dòrnaireachd dornaireachd miotag
+🔷	daoimean mòr mor gorm geomatrach
+📕	dùinte duinte leabhar
+🎪	pàillean paillean siorcais siorcas teanta
+🧊	beinn-deighe beinn-eighe ciùb ciub deighe cnoc-deighe cnoc-eighre deig eigh eigh-bheinn fuar
+🫌	atharrachadh biastag cruth-atharrachadh cugallach dòchas dochas imrich meatamorfosis
+🧺	àiteach aiteach àiteachas aiteachas basgaid croitearachd cuim-cnuic tuathanachas tuathanasachd
+🫓	aran-rèidh arepa lavash naan pita
+🔖	comharra comharra-leabhair comharraich
+🤕	aodann le clobhd air a’ cheann leòinte leointe leònta leonta
+🎃	comharrachadh lanntair peapaig oidhche shamhna peapag samhainn
+🍨	milis milseag reòiteag reoiteag uachdar
+⬛	ceàrnag cearnag mhòr mhor dhubh geomatrach
+🩵	crann-lach cridhe solleir-ghorm saidhean soilleir-ghorm
+◽	ceàrnag cearnag mheadhanach bheag gheal geomatrach
+🥶	aodann fuar ghorm deigh eigheanach eighreachadh eighrich reòite reoite
+🪪	cairt-aithne cairt-aithneachaidh cead id tèarainteachd tearainteachd teisteas
+📵	àicheadh aicheadh diùltadh diultadh fòn fon fòn-làimhe fònaichean-làimhe toirmisgte
+😋	aodann ag ithe biadh blasta fiamh-ghàire math
+🫵	colgag a’ tomhadh ort thusa tomh
+🙋	gluasad làmh lamh neach a’ togail a tog toiliche
+🐵	aodann muncaidh
+🪵	fiod fiodh loga maide
+🧑‍🧒‍🧒	clann duine-cloinne inbheach pàiste paiste teaghlach
+🍡	bior dango iapanach milis milseag seapanach
+🎥	camara camara-film film taigh-dhealbh
+⌚	cleoc cloc gleoc uaireadair
+🫕	càise caise eilbheiseach fondue leaghta leaghte poit seoclaid teòclaid teoclaid
+🕠	30 5 5:30 cleoc cloc còig coig gleoc leth-uair an dèidh deidh trithead uair
+🤲	an dà da bhois suas còmhla comhla ùrnaigh urnaigh
+🙊	àicheadh aicheadh aodann bruidhinn can diùltadh diultadh gluasad muncaidh nach olc toirmisgte
+🐞	bèisteag beisteag biastag daolag daolag-bhreac fiolan meanbh-fhrìde
+🪃	astràilia astrailia ath-leum buaidh buil bùmarang bumarang tilleadh
+🈹	iapanais ideo-ghraf lasachadh putan seapanais “lasachadh”
+🧜	duine-mara maighdeann-chuain maighdeann-mhara neach-mara òigh-mhara sluagh-mara
+🐙	ochd-chasach
+🧢	ball-bheusa bonaid bhileach buill-bheusa
+🦞	giomach ìnean inean maorach spògan spogan
+🍒	meas siris sirisean
+🌠	dreag earballach reul rionnag tuiteam
+🥭	mango meas tropaigeach
+🌭	frankfurter hot dog hotdog isbean
+🫈	bigfoot coille cryptid fionnach fuamhair gaosaideach molach ròmach romach sasquatch woodwose yeti
+💎	daoimean leug seud
+🪠	loinid plumair sùghadh sughadh taigh-beag
+🚗	càr car
+🧨	cleasan-teine dineamait dìorrasan-fùdair spreadhach spreadhadh
+🕢	30 7 7:30 cleoc cloc gleoc leth-uair an dèidh deidh seachd trithead uair
+😖	aodann am breislich breisleach
+🧗	neach a’ sreap sreapadair sreapaiche
+📏	dìreach direach rùilear ruilear
+🧛	bhampair closach dracula
+🟡	buidhe cearcall
+🦥	leisg lunndaire-craoibhe mall slaodach
+🧩	aisneis co-cheangailte faisneis mìrean-measgaichte pìos pios tòimhseachan toimhseachan tuairmse
+🚕	carbad tacsaidh
+🈺	fosgailte iapanais ideo-ghraf putan seapanais “fosgailte”
+🥙	aran rèidh reidh lìonta lionta aran-rèidh biadh falafel gyro kebab
+🙃	aodann bun os cionn
+🌎	aimeireaga cruinne le globa a’ sealltainn an dà da saoghal talamh
+🫐	braoileag dearc dearc-choille dearc-ghorm dearcan-gorma fraochag fraochan gorm mòineag moineag
+🍔	hamburgair
+😐	aodann gun fhiamh bàn ban fhaireachdainn
+💰	airgead baga dolar mogan airgid poca
+🏏	bàla bala ball bata criogaid geama
+💞	cridheachan a’ dol mun cuairt
+🐋	muc-mhara
+🥳	ad aodann aig pàrtaidh partaidh cèilidh ceilidh comharrachadh dùdag dudag
+🌞	a’ ghrian le aodann oirre grian soilleir
+🍄	balgan-buachair balgan-buachrach
+🤩	aodann toilichte le rionnagan na shùilean shuilean fiamh-ghàire rionnag sùilean suilean
+🛅	bagaist air fhàgail fhagail preas trealaich
+⭕	cearcall dearg falamh mòr mor o
+🌈	bogha-froise uisge
+💛	buidhe cridhe
+💋	bilean làrach larach pòige poige pòg pog
+📓	leabhar leabhar-nòtaichean
+⏳	gaineamh glainne-uarach nach eil deiseil tìmear timear
+🩸	boinne fala fuil mhìosail mhiosail fuil-mìos leigheas tabhartas
+🍐	meas peur
+🐂	crodh damh grian-chriosach sprèidh spreidh tarbh taurus
+👖	aodach briogais dìnichean dinichean
+🟫	ceàrnach cearnach donn
+🐃	buabhall buabhall-uisge crodh sprèidh spreidh uisge
+⚾	bàla bala ball ball-beusa
+🪙	airgead bonn meatailt òr or ulaidh
+🤞	beò beo an dòchas dochas corrag fortan làmh lamh meur
+🥿	asair ballet bròg brog fasair laobhag slipeir
+💒	banais caibeal romansa romansachd
+🤾	bàla bala ball-làimhe neach a’ cluich
+🕟	30 4 4:30 ceithir cleoc cloc gleoc leth-uair an dèidh deidh trithead uair
+🙉	àicheadh aicheadh aodann cluinn cluinntinn diùltadh diultadh gluasad muncaidh nach olc toirmisgte
+🧏	bodhar cluas cluinntinn èisteachd eisteachd neach so-ruigsinneachd
+🈲	iapanais ideo-ghraf putan seapanais “toirmisgte” toirmisgte
+🐸	aodann losgann
+⏪	air ais dùbailte dubailte luath putan “air gu luath” saighead
+🌮	meagsagach taco
+💸	airgead le sgiathan banca dolar not nòta nota nòta-airgid nòta-banca
+🙅	àicheadh aicheadh diùltadh diultadh gluasad làmh lamh neach a’ rud toirmisgte
+🧑‍🎤	actair cleasaiche rionnag ròc roc seinneadair
+🫅	aon-fhlath àrd-fhlath monarc neach le crùn crun air rìgh righ rìoghalachd rioghalachd uasail
+📘	gorm leabhar
+🪍	cruinneachadh glacadh ribe
+🤌	beumach beur ceist corrag cruadhagan crudhagan gluasad làimhe laimhe meòir meoir meur tearrachdail
+⚫	cearcall dubh geomatrach
+🧕	boireannach le brèid breid oirre hijab mantilla tè te tichel
+📚	leabhar leabhraichean
+👨	duine fear fireannach
+🧑‍🔧	ceàrd ceard dealanair meacanaig plumair
+👒	ad boireannaich aodach boireannach
+🫜	biadh biatas bun-lus feòil-sheachnair freumh gàrradh garradh glasraich glasraichear lios nèip neip raidis sailead snèap sneap tùirneap tuirneap
+💵	airgead airgeadra banca dolar not dolair nòta nota nòta-airgid nòta-banca
+👊	buille dòrn dorn a’ tighinn thugad dùinte duinte làmh lamh
+⌛	gaineamh glainne-uarach dheiseil tìmear timear
+🫑	glasraich piobar piobar-milis
+🚶	coiseachd coisich neach a’
+🦙	alpaca clòimh cloimh guanaco lama llama vicuña vicuna
+🎉	bragadair cèilidh ceilidh comharrachadh pàrtaidh partaidh
+📛	ainm baidse
+🥔	biadh buntàta buntata glasraich
+🧒	duine-cloinne gun ghnè ghne òg og
+🥵	a’ cur fallas aodann dearg teth fiabhras teas
+🍶	bàr bar botal cupa cupan deoch sake
+🉐	bargan iapanais ideo-ghraf putan seapanais “bargan”
+♊	gemini grian-chrios grian-chriosach leth-aon leth-aonan na
+🤫	aodann “ist!” ist sàmhach samhach tost
+📮	bogsa-puist post
+🦷	fiacaill fiaclair
+🩻	cnàimhneach cnaimhneach cnàmh cnamh cnàmhlach cnamhlach craidhneach dotair gath-òmair gath-x lighiche meidigeach
+🔫	acainn arm daga gunna gunna-làimhe inneal
+🔁	ath-chluich atharrais cluich a-rithist deiseil putan na h-ath-chluich saighead
+🍏	meas uaine ubhal
+🕐	00 1 1:00 aon cleoc cloc gleoc uair
+😁	aodann le gàire gaire mhòr mhor fiamh-ghàire sùil suil
+🩱	deise-shnàimh snàmh snamh
+🐛	bèisteag beisteag biastag daolag fiolan meanbh-fhrìde
+😲	annas aodann a ghabh mòr-iongnadh gu tur iongnadh
+📟	pèidsear peidsear
+🤘	adharc corrag làmh lamh meur rocamaid samhla nan
+😮	aodann le beul fosgailte co-fhulangas truaghas truas
+🆘	cobhair cuideachadh putan “sos” sos
+💭	bailiùn bailiun builgean smaoineachaidh dealbh-èibhinn smaoineachadh smaointinn
+🐉	dràgon dragon faoinsgeul
+🚟	crochadh rèile reile rèile-chrochaidh
+🫱	deas làmh lamh ris an taobh
+🎶	ceòl ceol pong pongan ciùil ciuil puing
+🈯	glèidhte gleidhte iapanais ideo-ghraf putan seapanais “glèidhte”
+👹	aodann creutair diabhal seapanach fantastach faoinsgeul uilebheist
+🧑‍🎄	bean bodach na nollaig neach
+🫶	dà da làimh laimh ann an cumadh cridhe gaol gràdh gradh
+💝	bhaileintin cridhe le ribean là la nam pòg pog
+🥇	bonn a’ chiad àite aite ciad òr or
+🔘	geomatrach putan putan-rèidio rèidio reidio
+🪋	apocalypse ball-teine ​​ creag fànais fanais grabhataidh rionnag tuiteam
+🐜	bèisteag beisteag biastag fiolan meanbh-fhrìde seangan
+🆎	ab fuil putan seòrsa seorsa fala
+🧑‍🍼	altram leanabh naoidhean neach ag naoidhein
+💻	coimpiutair laptop pc pearsanta
+🏉	bàla bala ball ball-coise ball-rugbaidh rugbaidh
+🐆	liopard
+🦡	broc brocan buair buaireadh
+🦄	aodann aon-adharcach
+💊	bochd dotair leigheas pile tinn
+🐒	muncaidh
+👃	bodhaig sròn sron
+🧼	gàd gad glan glanadh nighe siabann
+👧	caileag grian-chriosach maighdeann òg og
+📜	pàipear paipear sgrola
+🗿	aodann ìomhaigh iomhaigh mo‘ai mo’ai moai moyai
+🔠	abcd ion-chur litrichean mòra mora laideann litir mòr mor
+🌵	cactas flùr flur lus
+♉	an tarbh damh grian-chrios grian-chriosach taurus
+🙎	bus busach gluasad neach le air
+🐓	coileach eun eunlaith
+💓	bualadh cridhe a’
+😟	aodann fo dhragh dragh
+🕍	creideamh iùdhach iudhach sionagog teampall
+👶	leanabh naoidhean òg og
+🌹	flùr flur ròs ros
+🔧	inneal nupair spanair toinnear
+🪂	daibheadh-speura daoibhigeadh-adhair paraisiut
+🦨	boladh droch-bholadh tùd tud tùdair-stiallach
+👩‍🏫	àrd-ollamh ban-oide boireannach oide ollamh tè te tidsear
+🌷	flùr flur tuiliop
+🥠	briosgaid fortain fàdh fadh fàisneachd faisneachd fàistinn faistinn fàthach fathach
+⛽	connadh peatral pumpa pumpa-connaidh stèisean steisean
+⛎	an giùlanair-nathrach giùlanair giulanair grian-chrios grian-chriosach nathair ophiuchus
+🌋	beinn beinn-theine spreadhadh
+🛬	itealan landadh plèana pleana ruigsinn itealain
+🔱	acainn acair inneal long muirgheadh samhla muirgheidh suaicheantas
+💳	airgead banca cairt cairt-chreideis creideas
+🏂	neach sneachda-bhòrd sgìtheadh sgitheadh sneachd
+🔒	dùinte duinte glaiste
+🔉	fuaim glaodhaire ’s fhuaim mheadhanach a’ cur a-mach meadhanach
+🚑	carbad carbad-eiridinn
+🥻	aodach dreasa sari
+🈵	gun seòmar seomar saor iapanais ideo-ghraf putan seapanais “gun saor”
+🀄	dearg geama leacag mahjong le dràgon dragon
+😠	aodann feargach
+😚	aodann a’ pògadh pogadh le sùilean suilean dùinte duinte pòg pog sùil suil
+🧃	bogsa carton dighe deoch sùgh sugh
+🦶	breab breabadh cas
+🙆	aontachadh gluasad làmh lamh neach ag ri rud
+🎏	bratach carbhain carbhan cèilidh ceilidh comharrachadh
+💄	beul-dath maise maise-gnùis
+🚘	càr car a’ tighinn thugad
+😈	adharcan aodann le gàire gaire agus fantastach faoinsgeul fiamh-ghàire
+👓	aodach speuclairean sùil suil
+😂	aodann le deòir deoir shona deur gàire gaire sona
+📂	faidhle fosgailte pasgan fhaidhlichean
+👱	bàn ban falt neach le
+🌇	ciaradh grian laighe na grèine greine
+🪀	atharrachadh atharraich dèideag deideag luaisg luasgadh yo-yo
+🎾	bàla bala ball racaid teanas
+🔼	dearg putan suas saighead
+🥝	biadh kiwi meas
+🍙	ball iapanach rìs ris seapanach
+🚜	carbad tractar
+👨‍💼	ailtire duine fear fireannach gnìomhachas gniomhachas manaidsear gnothachas obraiche-oifis fireann oifis
+🥥	cnò-chòco pailm piña pina colada
+📈	cairt a’ dol suas fàs fas graf treand
+🛐	adhradh àite-adhraidh creideamh
+🚂	carbad-smùide einnsean rathad-iarainn rèile reile smùid smuid trèana treana
+🈶	chan ann saor ‘s an-asgaidh iapanais ideo-ghraf putan seapanais “chan an-asgaidh” ’s
+🪡	druine fuaigheal grèis greis greus snàthad snathad
+💏	càraid caraid pòg pog
+🦐	beag biadh carrain maorach
+⏰	caismeachd cleoc cloc gleoc
+🌟	boillsgeadh dealrach dealradh priobadh reul rionnag dhealrach
+🥮	cèic-ghealaich fèis feis foghar yuebing
+🌗	ceathramh deireadh na gealaich gealach sa cheathramh mu dheireadh
+📀	blu-ray coimpiutair diosg dvd lèirsinneach leirsinneach optaigeach
+👩‍🏭	boireannach factaraidh gnìomhachas gniomhachas neach-obrach obraiche obraiche-factaraidh boireann tè te tionaladh
+🕙	00 10 10:00 cleoc cloc deich uairean gleoc uair
+🗽	ìomhaigh iomhaigh na saorsa
+👩‍🦼	boireannach ann an cathair-chuibhle le einnsein so-ruigsinneachd tè te
+🚌	bus carbad
+🛼	bròg brog ròla-spèilidh bròg-spèilidh ròla rola spèileadh speileadh
+👨‍🦽	cathair-chuibhle duine ann an a làimh laimh fireannach so-ruigsinneachd
+😳	aodann air ruadhadh
+🫏	aiseal asal dùr dur leth-asal mamal maoileann muileid ùthach uthach
+🌃	oidhche rionnagach rionnag
+👇	colgag a’ tomhadh sìos sios corrag druim na làimhe laimhe làmh lamh meur
+🥬	bok choy càl cal leatas
+🩴	cuaran cuaran-èill iall zōri zori
+🤭	aodann le làmh lamh air a beul oich
+🌽	coirce dias innseanach
+📢	àrd ard fuaim glaodhaire pa
+🔓	fosgail fosgailte glas neo-ghlais neo-ghlaiste
+🍠	buntàta buntata milis ròiste roiste ròsta rosta
+🦵	breab breabadh cas sliasaid
+🧍	neach ’na sheasamh seas seasamh
+🐼	aodann panda
+🕞	3 3:30 30 cleoc cloc gleoc leth-uair an dèidh deidh trì tri trithead uair
+🤣	a’ ruidhleadh air an làr lar gàireachdainn gaireachdainn aodann gàire gaire roladh
+😉	aodann le sùil suil bheag priobadh
+🪓	bris briseadh fiodh maide sgoilt sgoltadh tuagh
+🎰	geama inneal shlotaichean slot
+🍳	adhann còcaireachd cocaireachd praidhigeadh ugh
+😩	aodann air chlaoidh claoidh sgìth sgith
+🦽	cathair-chuibhle a làimh laimh so-ruigsinneachd
+😮‍💨	anail aodan a’ leigeil cagar cnead cogar faochadh fead leig d’ plosg
+🪔	diya lampa lampa-eòlain ola
+♌	an leòmhann leomhann grian-chrios grian-chriosach leo
+➗	/ ÷ matamataig roinn le roinneadh samhla roinnidh
+👩‍🎤	actair ban-seinneadair boireannach cleasaiche rionnag ròc roc seinneadair tè te
+⚓	acainn acair long
+📞	fòn fon glacadair-fòn
+🧘	meòrachadh meorachadh neach na shuidhe lòtais lotais yoga
+😺	aodann beul cat le gàire gaire fiamh-ghàire fosgailte
+💖	air bhioran cridhe lainnireach lainnir
+🍣	sushi
+💆	aodann massage neach a’ faighinn salon
+🕓	00 4 4:00 ceithir uairean cleoc cloc gleoc uair
+♑	an gobhar capricorn grian-chrios grian-chriosach
+🪰	biastag cnuimheag cuileag galar grod grodadh plàigh plaigh
+💲	airgead airgeadra dolar samhla dolair trom
+💚	cridhe uaine
+🚪	doras
+💉	acainn bochd dotair inneal leigheas snàthad snathad stealladh steallair tinn
+🛘	beinn creagan crith-talmhainn cunnart dosgainn dunach dunaidh maoim-puill maoim-slèibhe maoim-sneachda maoim-talmhainn monadh
+🐰	aodann coineanach peata rabaid
+📆	mìosachan miosachan le duilleagan a thig dheth
+👨‍🦼	cathair-chuibhle duine ann an le einnsein fireannach so-ruigsinneachd
+🤨	aodann le mala togta dì-earbsa teagamh teagamhaiche
+🤹	caisreabhachd cothromachadh iomadh-shaorachadh neach ri sgil
+🫷	5 àrd ard còig coig diùlt diult fuirich làmh lamh a’ putadh dhan taobh chlì chli mol put ris an stad
+🥉	bonn an treas àite aite treasamh uamha
+🧽	cìobail ciobail glan glanadh nighe spong sùghadh sughadh
+🐨	koala mathan
+✨	lainnir lainnirean reul rionnag
+⛵	bàta bata bàta-seòlaidh geat muir sgoth turasachd
+🌼	blàth blath flùr flur
+🏄	neach a’ surfadh
+🧐	aodann le leth-speuclair seann-fhasanta
+📦	bogsa pacaid
+💮	flùr flur geal
+🪇	beum ceòl ceol crathadh farm gleadhran inneal-ciùil ionnsramaid maracas
+🤷	aineolas coma druiteadh neach a’ teagamh
+🪎	airgead creach maoin òr or prìs pris saidhbhreas seud seudag stòras storas
+🧑‍🦼	cathair-chuibhle neach ann an le einnsein so-ruigsinneachd
+🙌	a’ togail làmhan lamhan gluasad hò-rò làmh lamh subhachas tog
+👨‍💻	bathar-bog còdair codair duine fear fireannach innleachdair leasaichear prògramair programair teicneolaiche fireann
+🪲	bèisteag beisteag biastag daolag fiolan meanbh-fhrìde
+😜	aodann le theanga a-mach ⁊ sùil suil bheag agus fealla-dhà priobadh teanga
+🕗	00 8 8:00 cleoc cloc gleoc ochd uairean uair
+🥏	clàr clar diosg frisbee
+📖	fosgailte leabhar
+👨‍🚒	carbad-smàlaidh duine fear fear-smàlaidh fireannach neach-smàlaidh smàladh smaladh
+🆗	ceart ma-thà ok putan
+🥓	beucon biadh feòil feoil
+🫤	ana-chreideamhach aodann le beul trastanach às-chreideamhach briseadh dùil duil mì-chreideamhach neo-chinnteach teagmhach
+👨‍🎨	duine ealan fear fear-ealain fireannach neach-ealain pailead
+🎨	dealbh ealan paidhleat paileat neach-ealain taigh-tasgaidh
+🆔	aithnichear dearbh-aithne id putan
+🛺	càr car càr-rickshaw rickshaw tuk
+👌	aontachadh làmh lamh samhla làimhe laimhe ok
+❓	comharra comharra-ceiste dearg puingeachadh
+📷	camara video
+😥	aodann a fhuair briseadh-dùil ⁊ faochadh agus
+🚇	fo-thalamh meatro
+🍯	mil milis poit meala
+📄	duilleag le h-aghaidh os a cionn sgrìobhainn sgriobhainn
+🪑	cathair sèithear seithear suidhe suidheachan
+🤦	aodann dì-chreideamh farranachadh làmh lamh neach le na làmhan lamhan
+🍋	liomaid meas
+🧟	closach coiseachd marbh zombie
+🧶	cearta ceirle ceirsle cnocan croisidh figh fighe snàth snath
+🍓	dearcan meas sùbh subh sùbh-làir
+📇	cairt clàr-amais chairtean rolodex
+🌴	craobh craobh-phailm pailm
+🥷	fàillidh faillidh falaichte gaisgeach ninja
+🙂	aodann le fiamh gàire gaire beag fiamh-ghàire
+🎲	dìsinn disinn dìsnean disnean geama
+🤴	prionnsa
+🏰	caisteal eòrpach eorpach
+🧆	bàla-feòla cearc-pheasair cic-pheasair falafel
+🪩	ball-sgàthain boillsgeadh dannsa deàrrs dearrs disco pàrtaidh partaidh
+💇	bearradair bòidhchead boidhchead borbair cliop gruagaire neach a’ faighinn
+😸	aodann cat le gàire gaire agus sùilean suilean toilichte fiamh-ghàire sùil suil
+💔	briseadh briste cridhe
+🍇	fìon-dhearc fìon-dhearcan meas
+🐾	làrach larach lorg lorgan spòige spoige spòg spog
+🙇	cromadh duilich gluasad leisgeul neach a’
+🧧	airgead cèiseag ceiseag dhearg fortan hóngbāo hongbao lai see prèasant preasant sonas tìodhlac tiodhlac
+🪷	bhiet-nam budastachd buddhadhachd glainne hionduthachd innseachan innsean lòtas lotas lus na h-innseachan h-innsean
+🤐	aodann le bilean seulaichte beul
+🫂	caidir caidreabh dealachadh fàilte failte soraidh slàn slan taing
+💦	boinneag boinneagan fallais dealbh-èibhinn fallas splaiseadh
+👨‍🚀	duine fear fireannach rocaid speuradair fireann
+😏	aodann le plìonas plionas
+🪝	cròcag crocag cròicean croicean cromag dubhan huca reic rib
+🔂	aon turas deiseil putan na h-ath-chluich shingilte saighead
+🎳	bàla bala ball bobhladh geama
+🕥	10 10:30 30 cleoc cloc deich gleoc leth-uair an dèidh deidh trithead uair
+☕	ceò ceo cofaidh deoch theth teatha teth tì ti
+🔡	abcd beag ion-chur litrichean beaga laideann litir
